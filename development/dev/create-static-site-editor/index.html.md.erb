@@ -36,22 +36,37 @@ Depending on the context here are the most appropriate ways to reach out to the 
 
 The team works primarily on the two projects listed below:
 
-### GitLab
-The work in [GitLab](https://gitlab.com/gitlab-org/gitlab/) revolves around enhancing the editing experience for static sites. 
+### GitLab Product
+The work in [GitLab](https://gitlab.com/gitlab-org/gitlab/) revolves around enhancing the editing experience for static sites.
 See the [Static Site Editor](https://about.gitlab.com/direction/create/static_site_editor/) strategy for more information.
 
-### Handbook Website
+### GitLab Handbook
 The work in the [GitLab Handbook](https://about.gitlab.com/handbook/) site is primarily focused on:
 1. Reducing the time it takes from merge to deployment
 1. Enhancing the editing, reading and sharing (think presenting a handbook page) functionality
 1. Maintaining the integrity of the handbook site
 
 See the [GitLab Handbook](https://about.gitlab.com/direction/create/gitlab_handbook/) strategy for more information.
+Have a look at this epic to track the improvement efforts in the handbook: https://gitlab.com/groups/gitlab-com/-/epics/423
 
 #### about.gitlab.com Responsibility
-The handbook is currently part of the larger [about.gitlab.com](https://gitlab.com/gitlab-com/www-gitlab-com/) website repository which in addition to the handbook includes the marketing website, blog, jobs etc.  
+The handbook is currently part of the larger [about.gitlab.com](https://gitlab.com/gitlab-com/www-gitlab-com/) website repository which in addition to the handbook includes the marketing website, blog, jobs etc.
 
 The repository is undergoing a refactor into a monorepo structure and the handbook will be split out into its own project. Progress can be followed here: [https://gitlab.com/groups/gitlab-com/-/epics/282](https://gitlab.com/groups/gitlab-com/-/epics/282)
+
+### GitLab Docs
+
+The Static Site Editor engineering team develops and maintains the [GitLab Docs project](https://gitlab.com/gitlab-org/gitlab-docs).
+
+Work is tracked on our Development Workflow board which can be viewed here: https://gitlab.com/gitlab-org/gitlab-docs/-/boards/1668857
+
+#### Process
+
+1. The Technical Writers, are responsible for creating and prioritizing issues for the improvement of the GitLab Docs project.
+1. Once an issue has been verified and fleshed out by the TW team, it is moved into planning on the engineering side by assigning the `workflow::planning breakdown` label to it.
+1. The EM is responsible for reviewing issues labelled `workflow::planning breakdown` and if determined that it is ready for implementation assign the `workflow::ready for development` label to it.
+1. The EM schedules issues that are ready for development by adding a milestone, assignee and the `Deliverable` label to it.
+1. Team members that have completed their `Deliverables` for a milestone are free to choose issues from the backlog (i.e. in `workflow::ready for development`) to work on. Issues will always be listed in priority order from top to bottom on the [workflow board](https://gitlab.com/gitlab-org/gitlab-docs/-/boards/1668857).
 
 ## Meetings
 
@@ -148,7 +163,7 @@ Implementation issues progress through the workflow stages independently from th
     - Ex. `Remove YAML front matter from editable content in the Static Site Editor`
 - Prefix *Implementation issue* titles with the succinct *Feature issue* title follow by a `::` syntax. Feel free to abbreviate "Static Site Editor" with SSE in the implementation issue.
     - Ex. `Remove YAML front matter from editable content in the SSE::Sync model in component`
-    
+
 #### User story planning process
 
 The engineering team undertakes technical planning for each user story epic.
@@ -218,7 +233,7 @@ To be consistent with our status definitions the following guideline should be u
 
 ### Capacity planning
 
-The Static Site Editor group does **NOT** make use of weights to rigidly plan capacity or track velocity.  
+The Static Site Editor group does **NOT** make use of weights to rigidly plan capacity or track velocity.
 Rather a continuous delivery mentality is adopted, facilitated through using a Kanban-style work management approach to moving work through the product workflow process.
 
 ### What to work on
@@ -230,12 +245,12 @@ The primary source for things to work on are the development workflow boards:
 #### What to work on first
 
 Deliverables are considered top priority and are expected to be done by the end
-of the iteration cycle in time for the release on the 22nd. To make it into the release in time 
+of the iteration cycle in time for the release on the 22nd. To make it into the release in time
 it has to be merged and deployed to production by the 17th of the month.
 
 These top priority issues are assigned to engineers by the Engineering Manager before the milestone begins.
 
-Many things can happen that can result in a deliverable not actually being completed by the end of a milestone, 
+Many things can happen that can result in a deliverable not actually being completed by the end of a milestone,
 and while this usually indicates that the Engineering Manager was too optimistic in their estimation
 of the issue's complexity, or that an engineer's other responsibilities ended up
 taking up more time than expected, this should never come as a surprise to the
@@ -261,7 +276,7 @@ working on them immediately (regressions, security issues, customer issues, etc)
 #### What to work on next
 
 If you have time to spare after finishing your deliverables and other
-activities, you can pick any issue that is ready for development 
+activities, you can pick any issue that is ready for development
 (i.e. is in the `workflow::ready for development` column).
 
 The issues in this column are ordered by priority so choosing from the top of the list is recommended.
@@ -271,8 +286,8 @@ like unanswered questions or unclear requirements, you can skip it and consider
 a lower priority issue, as long as you put your findings and questions in the
 issue, so that the next engineer who comes around may find it in a better state.
 
-Instead of picking up an issue from the Handbook or Static Site Editor boards, 
-you may also choose to spend any spare time working on anything else that you believe 
+Instead of picking up an issue from the Handbook or Static Site Editor boards,
+you may also choose to spend any spare time working on anything else that you believe
 will have a significant positive impact on the product or the company in general.
 As the [general guidelines](/handbook/marketing/community-relations/community-advocacy/guidelines/general/) state, "we recognize that inspiration is
 perishable, so if you’re enthusiastic about something that generates great
@@ -427,7 +442,7 @@ Process:
 
 New team members to the Static Site Editor group can use the resources below, in addition to their general onboarding, to get up to speed.
 
-| Resource | Comments  | 
+| Resource | Comments  |
 |---|---|
 | [Product Section Direction - Dev](https://about.gitlab.com/direction/dev/) | Read the Product Direction for the Dev section to get a better understanding of the area of the product that we fall into |
 | [Category Direction - Static Site Editor](https://about.gitlab.com/direction/create/static_site_editor/) | Read the Static Site Editor category direction to understand more about the product we are developing |
@@ -453,7 +468,7 @@ The following Slack channels, while optional, are relevant to our group and you 
 ### PTO Ninja
 
 We use PTO Ninja to notify and delegate for planned timeoff. When setting up your integrations with Slack,
-be sure to visit the PTO Ninja Home tab and choose the Calendar Sync option from the dropdown. 
+be sure to visit the PTO Ninja Home tab and choose the Calendar Sync option from the dropdown.
 Then add the team's shared Google Calendar `gitlab.com_56i46dodsa0mvtkfvn10hcssjo@group.calendar.google.com` in the "Additional Calendar to include?".
 
 ### Developer Cheatsheet
