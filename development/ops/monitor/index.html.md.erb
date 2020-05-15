@@ -132,6 +132,33 @@ Our questions change depending on the day of the week. Participation is optional
 
 # Initiatives
 
+## Code ownership expression
+
+To emphasize code ownership (which is aligned with [organization-wide efforts](https://gitlab.com/gitlab-org/gitlab/-/issues/212156)) and help identify domain expertise for parts of the codebase that are developed by Monitor stage. We place every new feature into a dedicated top-level namespace. Names used for these namespaces are derived from [product categories](https://about.gitlab.com/handbook/product/categories/#hierarchy).
+Such an approach helps us to communicate better not only between the engineers, but also with other peers, since used terms are well known across the organization.      
+
+### Special cases
+
+1. Code placed under `lib/` directory, in this case, all code which can not be run alone outside of the GitLab repository, should be at first placed under `Gitlab` top-level namespace, and after that in the product category subnamespace.  
+1. Because Rails framework defines routing based on controllers namespaces using product category as a top-level namespace can mislead users that those features are independent of `Project` or `Group` scope which is rarely a case. To address that one should place controller accordingly to the feature scope (`Project` or `Group`) and then in category subnamespace.
+1. API entries should follow general layer separation convention same as models, controllers, etc do, therefore API code should be placed under `lib/api` directory. That enforces this code will have `API` top-level namespace, and after that should come product category subnamespace.
+
+### Examples
+
+#### Cases where namespace was selected properly
+
+1. Worker: [`IncidentManagement::ProcessAlertWorker`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/app/workers/incident_management/process_alert_worker.rb) was properly placed under `IncidentManagement` namespace which relates to [Incident Management](https://about.gitlab.com/handbook/product/product-categories/#health-group) product category.
+1. Model: [`Metrics::UsersStarredDashboard`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/app/models/metrics/users_starred_dashboard.rb) was properly placed under `Metrics` namespace which relates to [Metrics](https://about.gitlab.com/handbook/product/product-categories/#apm-group) product category.
+1. Model: [`Metrics::UsersStarredDashboard`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/app/models/metrics/users_starred_dashboard.rb) was properly placed under `Metrics` namespace which relates to [Metrics](https://about.gitlab.com/handbook/product/product-categories/#apm-group) product category.
+1. Grape API instance: [`API::Metrics::UsersStarredDashboard`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/api/metrics/user_starred_dashboards.rb) was properly placed in `lib/api` dicrectory under `API` top-level namespace and than in `Metrics` subnamespace which relates to [Metrics](https://about.gitlab.com/handbook/product/product-categories/#apm-group) product category.
+
+#### Cases where better namespace could be selected 
+1. [`Gitlab::Prometheus::MetricGroup`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/gitlab/prometheus/metric_group.rb) should be named `Gitlab::Metrics::Prometheus::MetricGroup` and placed at `lib/gitlab/metrics/prometheus/metric_group.rb`
+1. [`Projects::PerformanceMonitoring::DashboardsController`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/app/controllers/projects/performance_monitoring/dashboards_controller.rb) should be named `Projects::Metrics::DashboardsController` and placed at `app/controllers/projects/metrics/dashboards_controller.rb`
+1. Model added as part of [Annotations feature](https://gitlab.com/groups/gitlab-org/-/epics/2621) should be named `::Metrics::Dashboard::Annotation` instead of `DashboardAnnotation` or `MetricsDashboardAnnotation` and respectively it should be placed at `app/models/metrics/dashboard/annotation.rb` instead of `metrics_dashboard_annotation.rb`
+1. [`Prometheus::ProxyVariableSubstitutionService`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/app/services/prometheus/proxy_variable_substitution_service.rb) according to this guidance should be named `Metrics::Prometheus::ProxyVariableSubstitutionService` and placed at `services/metrics/prometheus/proxy_variable_substitution_service.rb`
+1. [`Prometheus::CreateDefaultAlertsWorker`](https://gitlab.com/gitlab-org/gitlab/-/blob/2f2cf9a1dad31e9b87539dcf8720278cdaed9f50/app/workers/prometheus/create_default_alerts_worker.rb) should be named `IncidentManagement::Prometheus::CreateDefaultAlertsWorker` and placed at `workers/incident_management/prometheus/create_default_alerts_worker.rb`
+
 ## Spike
 
 Spikes are time-boxed investigations typically performed in agile software development. Groups in the monitor stage typically create Spike issues when there is uncertainty on how to proceed on a feature from a technical perspective before a feature is developed.
