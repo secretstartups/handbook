@@ -157,20 +157,20 @@ The Director of Support role extends the Support Engineering Manager Role
 
 ### VP of Support
 
-The VP of Support role extends the Director of Support Role.
+The VP of Support role extends the Director of Support Role through:
 
-- Set the vision for GitLab's global support service
-- Hire a world class team of support leaders, ops specialists, and support engineers
-- Help their management team grow their skills and experience
-- Manage multiple sub-departments and initiatives
-- Run the monthly Support Metrics review meeting
-- Hold regular skip-level meetings with all members of their department
-- Create a sense of psychological safety within their department
-- Drive technical and process improvements
+- Set the vision for GitLab's global Support Department
+- Develop a strategy, execution roadmap, priorities and investment plan to deliver proactive support vision, deflection and scale/productivity
+- Implement initiatives to raise the bar for hiring senior talent in Support teams
+- Lead the Global Support organization to deliver world-class Support and proactive technical health to our customers
+- Innovate and develop new ways to achieve high levels of customer loyalty and satisfaction
+- Lead monthly Support Key Review meeting
+- Monitor and improve performance on performance indicators for the department (Customer satisfaction with Support, Manage team within approved operating expenses etc.)
 - Drive quarterly OKRs
 - Define KPIs for the Customer Support Department _e.g._ SLAs, Customer Satisfaction
-- Partner with Finance to run an efficient department at or below plan
+- Partner with Finance to manage budget, drive capacity planning and identify needs and present investments required to improve service levels and customer experience
 - Work cross-functionally with other customer-facing departments to guarantee a great customer experience
+- Analyze and optimize support operations. Drive a culture of continuous improvement
 - Represent the company publicly at conferences
 
 ## Support Management Performance Indicators
