@@ -92,19 +92,31 @@ The team's primary Slack channel is `#g_progressive-delivery`, and the public ma
 
 ### Team Workflow and Issue Boards
 
-We use the [Progressively Delivery Planning Board](https://gitlab.com/groups/gitlab-org/-/boards/1489550?&label_name[]=group%3A%3Aprogressive%20delivery) to organize and plan upcoming features. This board details the various stages an issue can exist in as it is being readied for development. It's not necessary that an issue go through all of these stages, and it is allowed for issues to move back and forward through the workflow as they are iterated on.
+#### Planning
 
-The `~cicd::active` and `~workflow::scheduling` labels are used to feed the next board where EM and PM connect on scheduling upcoming issues.
+Ahead of the near-term planning phase there is an estimation phase. See the engineering evaluation and estimation section below.
 
-We use the [Progressive Delivery Scheduling Board](https://gitlab.com/groups/gitlab-org/-/boards/1489554?label_name[]=group%3A%3Aprogressive%20delivery&label_name[]=workflow%3A%3Ascheduling) as a checkpoint to ensure that we have a well-formed issues prior to being ready for development.
+We use a [Milestone Planning Board](https://gitlab.com/groups/gitlab-org/-/boards/1454481?milestone_title=13.1&&label_name[]=devops%3A%3Arelease&label_name[]=group%3A%3Aprogressive%20delivery) customized for each milestone to organize and plan upcoming features. This board details the various stages an issue can exist in as it is being readied for development. It's not necessary that an issue go through all of these stages, and it is allowed for issues to move back and forward through the workflow as they are iterated on. It highlights `ReleaseP1`, `ReleaseP2`, and `bugs` above other priority issues. This is use in concert with the async release planning issue (see below).
 
-Placing the `~workflow::ready for development` will automatically remove the `~workflow::scheduling` label. The following Build Board contains columns for each of the workflow labels beginning with the `Ready for Development`. The intention here is that this is the only place that developers should update issues with the relevant workflow status.
+Issues that are being planned should include the `cicd::planning` issue label so as to distinguish them from those issues which will br worked on during this milestone. We reserve the `cicd::active` label as the counterpart to `cicd::planning` for active work.
 
-We use the [Progressive Delivery Build board](https://gitlab.com/groups/gitlab-org/-/boards/1489558?label_name[]=cicd%3A%3Aactive&label_name[]=group%3A%3Aprogressive%20delivery) to track features as they make their way from idea to production. Here, issues move more or less linearly from Ready for Development thru to Verification, but on occassion they have to return to Ready for Development as priorities shift.
+Once we have determined the cutline for a given milestone based on our capacity, spillover from the previous milestone, bugs, security fixes, tech debt, and UX debt, we can move those issues into `workflow::scheduling`.
+
+#### Scheduling
+
+The `~cicd::planning` and `~workflow::scheduling` labels are used to feed the scheduling board where the EM and PM connect on scheduling upcoming issues.
+
+We use the [Scheduling Board](https://gitlab.com/groups/gitlab-org/-/boards/1489554?label_name[]=group%3A%3Aprogressive%20delivery&label_name[]=workflow%3A%3Ascheduling) as a checkpoint to ensure that we have a well-formed issues and we have estimated our capacity correctly prior to being making these issues ready for development.
+
+Placing the `~workflow::ready for development` will automatically remove the `~workflow::scheduling` label. Likewise, the placing the issue in `cicd::active`, the `cicd::planning` label will automatically be removed. The following board contains columns for each of the workflow labels beginning with the `Ready for Development`. The intention here is that this is the only place that developers should update issues with the relevant workflow status.
+
+#### Building
+
+We use the [Build board](https://gitlab.com/groups/gitlab-org/-/boards/1489558?label_name[]=cicd%3A%3Aactive&label_name[]=group%3A%3Aprogressive%20delivery) to track features as they make their way from idea to production. Here, issues move more or less linearly from Ready for Development thru to Verification, but on occassion they have to return to and earlier state like `workflow:ready for development` as priorities shift, `workflow::refinement` if the issue was not truly ready, or to `workflow::blocked` if we are unable to proceed.
 
 Issues if over a weight of 1, will have multiple MRs. Each of these associated MRs will likely be in a different stage of development. It's important to update the issues on the build board with the lastest, most relevant state. Example, if an issue has three MRs with one in review, another in development, and one ready for development, then the we should place that issue is in `In Dev` as this is where the most activity for this issue is happening - it's the most relevant signal to the rest of the team. Because we have a one-to-many relationship between our issues and MRs, activity on the board will appear slow. Async daily standups and weekly sync meetings outlined below help with any ambiguity that this system introduces.
 
-#### Workflow Stages
+#### Workflow Stages and Labels
 
 Below is a description of each stage, its meaning, and any requirements for that stage.
 
