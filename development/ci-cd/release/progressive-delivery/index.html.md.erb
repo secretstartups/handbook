@@ -124,6 +124,16 @@ Below is a description of each stage, its meaning, and any requirements for that
 * `workflow::verification`
   * This stage indicates that everything has been merged and the issue is waiting for verification after a deploy.
 
+#### Definition of Ready
+
+Before the team will accept an issue into a milestone (as marked by the the labels `~workflow::ready for development` + `~cicd::active`) for work it must meet the following criteria:
+
+* Issues labeled with `~feature` include a well stated "why" and the customer problem to solve
+* For issues labeled with `~bug` include, steps to reproduce
+* Designs are in the design tab if needed
+* A weight applied for either frontend, backend, or both as appropriate.
+* `UX Ready` label, as well as either `frontend`, `backend` or both labels to indicate which areas will need focus.
+
 ### Engineering Evaluation & Estimation
 
 In order to make sure sprints are effective as possible, it is important to ensure issues are clearly defined and broken down before the start of a sprint.
