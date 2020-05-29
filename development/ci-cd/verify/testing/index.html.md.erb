@@ -103,22 +103,30 @@ This tactic also creates an environment to ask for early review on a WIP merge r
 If the **Code Review** and **Starting New Work** sections do not have a meaningful impact by the end of %13.2 we will remove them from our process playbook. We define meaningful impact as reducing the amount of issues we carry over milestone to milestone by at least 15% - from 15 to below 12 (Ideally much lower).
 
 ### Issue progress updates
-When an engineer is actively working (workflow of ~workflow::"In dev" or further right on current milestone) on an issue they will periodically leave status updates as top-level comments in the issue. The status comment should include what percentage complete development is, the percent confident the person is that the issue will make the milestone, notes on what was done, and if review has started. If there are multiple people working on it also include whether this is a front end or back end update. An update for each of MR associated with the issue should be included in the update comment. This is also a good time to update the [health status](https://docs.gitlab.com/ee/user/project/issues/#health-status-ultimate) of your issue.
+When an engineer is actively working (workflow of ~workflow::"In dev" or further right on current milestone) on an issue they will periodically leave status updates as top-level comments in the issue. The status comment should include the updated health status, any blockers, notes on what was done, if review has started, and anything else the engineer feels is beneficial. If there are multiple people working on it also include whether this is a front end or back end update. An update for each of MR associated with the issue should be included in the update comment. Engineers should also update the [health status](https://docs.gitlab.com/ee/user/project/issues/#health-status-ultimate) of the issue at this time.
 
 This update need not adhere to a particular format. Some ideas for formats:
 
 ```text
-Complete: 80%
-Confidence: 90%
-Notes: expecting to go into review tomorrow
-Concern: ~frontend
+Health status: (On track|Needs attention|At risk)
+Notes: (Share what needs to be shared specially when the issue needs attention or is at risk)
 ```
-```text
-Issue status: 20% complete, 75% confident
 
-MR statuses:
-!11111 - 80% complete, 99% confident - docs update - need to add one more section
-!21212 - 10% complete, 70% confident - api update - database migrations created, working on creating the rest of the functionality next
+```text
+Health status: (On track|Needs attention|At risk)
+What's left to be done:
+What's blocking: (probably empty when on track)
+```
+
+```text
+## Update <date>
+Health status: (On track|Needs attention|At risk)
+What's left to be done:
+
+### MRs
+1. !MyMR1
+1. !MyMR2
+1. !MyMR3
 ```
 
 There are several benefits to this approach:
@@ -133,8 +141,10 @@ There are several benefits to this approach:
 Some notes/suggestions:
 
 * We typically expect engineers to leave at least one status update per week, barring special circumstances
-* Ideally status updates are made at a logical part of your workflow, to minimize disruption
-* Use these updates as a place to collect some technical notes and thoughts or "think out loud" as you work through an issue
+* Ideally status updates are made at a logical part of an engineers workflow, to minimize disruption
+* It is not necessary that the updates happen at the same time/day each week
+* Generally when there is a logical time to leave an update, that is the best time
+* Engineers are encouraged to use these updates as a place to collect some technical notes and thoughts or "think out loud" as they work through an issue
 
 ### Closing Issues
 After an engineer has ensured that the [Definition of Done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done) is met for an issue, they are the ones responsible for closing it. The engineer responsible for verifying an issue is done is the engineer who is the DRI for that issue, or the DRI for the final merge request that completes the work on an issue.
