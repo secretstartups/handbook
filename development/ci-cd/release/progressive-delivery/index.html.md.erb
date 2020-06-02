@@ -96,7 +96,7 @@ The team's primary Slack channel is `#g_progressive-delivery`, and the public ma
 
 Ahead of the near-term planning phase there is an estimation phase. See the engineering evaluation and estimation section below.
 
-We use a [Milestone Planning Board](https://gitlab.com/groups/gitlab-org/-/boards/1454481?milestone_title=13.1&&label_name[]=devops%3A%3Arelease&label_name[]=group%3A%3Aprogressive%20delivery) customized for each milestone to organize and plan upcoming features. This board details the various stages an issue can exist in as it is being readied for development. It's not necessary that an issue go through all of these stages, and it is allowed for issues to move back and forward through the workflow as they are iterated on. It highlights `ReleaseP1`, `ReleaseP2`, and `bugs` above other priority issues. This is use in concert with the async release planning issue (see below).
+We use a [Milestone Planning Board](https://gitlab.com/groups/gitlab-org/-/boards/1454481?milestone_title=13.1&&label_name[]=devops%3A%3Arelease&label_name[]=group%3A%3Aprogressive%20delivery) customized for each milestone to organize and plan upcoming features. This board details the various stages an issue can exist in as it is being readied for development. It's not necessary that an issue go through all of these stages, and it is allowed for issues to move back and forward through the workflow as they are iterated on. It highlights `Release::P1`, `Release::P2`, and `bugs` above other priority issues. This is use in concert with the async release planning issue (see below).
 
 Issues that are being planned should include the `cicd::planning` issue label so as to distinguish them from those issues which will br worked on during this milestone. We reserve the `cicd::active` label as the counterpart to `cicd::planning` for active work.
 
@@ -190,10 +190,10 @@ There are a number of labels applied at any time to both issues and merge reques
 * `planning priority` - This label is rarely used, but we consider it to be a promise to a customer. Issues with this label will supersede all other work even those planned issues. The use of this label is usually held in reserve for issues of the utmost importance.
 * `P1` / `S1` - From the perspective of bugs, a `P1` / `S1` has the [highest priority](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority) and a short SLO. Issues with this label will supersede all other work even planned issues.
 * `Deliverable` - Issues with this label are agreed between team EM and the PM to have the highest overall normal priority and could be delivered in the given milestone. Deliverable issues not closed in a given milestone are auto forwarded via milestone cleanup workflow.
-* `ReleaseP1` - Similar to and often paired with `Deliverable`. This is the highest priority from the perspective of the section. We start with these issues first.
+* `Release::P1` - Similar to and often paired with `Deliverable`. This is the highest priority from the perspective of the section. We start with these issues first.
 * `Community contribution` - The main label for the Contributor Program. We should support the contributor community by triaging and coaching issues in our area with this label. We prioritize this effort between Deliverables and lower priority issues.
-* `ReleaseP2` - This is the second highest priority from the perspective of the section.
-* `ReleaseP3` - This is the third highest priority from the perspective of the section.
+* `Release::P2` - This is the second highest priority from the perspective of the section.
+* `Release::P3` - This is the third highest priority from the perspective of the section.
 * `Unscheduled` - Items with this label are being worked on in this release but have not been previously scheduled by the EM and PM. Work orignating with this label is usually event driven - another team requires immediate help, a regression affecting users, or severe technical debt that is causing inefficiency in the team.
 * `Stuff that should Just Work` - This part of our [incremental improvement engineering process](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#incremental-improvements) where should allow for capacity to make improvements to the GitLab codebase or documentation leaving our work environment a better place than when we found it.
 
