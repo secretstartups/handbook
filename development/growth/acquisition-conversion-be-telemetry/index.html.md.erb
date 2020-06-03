@@ -143,26 +143,55 @@ For visibility on our workflow boards, we aim for a 1:1 ratio between issues and
 
 ### Issue hierarchy
 
-We have two types of issues we work with:
+### Epics
 
-#### Parent issues
+We group related issues together using parent [epics](https://docs.gitlab.com/ee/user/group/epics/) and child epics, providing us with a better visual overview of our roadmap.
 
-Parent issues are GitLab issues that are used to group several child issues together. These issues are typically focused on product and the high level overviews of a feature or experiment.
+- The description of the parent epic should always be kept up-to-date as the single source of truth.
+- The conversation about the implementation or design is done in issues.
+- Designs in progress will be in UX issues, using the design tab for conversation, review, feedback, exploration, etc.
+- The final designs should be linked in the parent epic description.
+- Epics and Child Epics must have the same section and group labels to see them on the [roadmap](https://docs.gitlab.com/ee/user/group/roadmap/) when using the group filter
+- We use the prefixes `[ENG]`, `[UX]` and `[Product]` to indicate their area of focus. The prefixes can be combined if the epic holds issues of different areas, e.g. `[ENG][UX]`.
+- We use the labels `Engineering` and `UX` to easily filter epics.
 
-Our groups have decided to use Parent issues instead of [epics](https://docs.gitlab.com/ee/user/group/epics/) due to some of the limitations with epics (not being able to add labels, add milestones, assign team members, or link issues across projects). Here are guidelines we follow when using parent issues:
-- Acts as a single source of truth for a feature or experiment
-- Consolidates all high level conversations
-- Issue is labelled with `~link::parent issue`
-- Child Issues are linked under "Linked issues"
-- To see the progress of a parent issue, you can see the ratio of “Linked issues” that are open versus closed.
-- Parent issues can sit in workflow::in dev while the Child Issue is being worked on.
+#### Issue handover and breakdown
 
-#### Child issues
-Child issues are small broken down issues of Parent Issues. These issues are typically focused on engineering implementation or design work.
-- Issue is labelled with `~link::child issue`
-- Issue description should reference the Parent Issue
-- Contains conversations about the finer details. High level conversations should be moved to the Parent Issue.
-- It is fine to only provide limited details in a Child Issue, when the issue is just there to track the engineering work.
+After a design is done, the design issue needs to be set to `workflow::planning breakdown` and engineering takes over the process of breaking it down. The design issue can be closed after break down is done.
+
+#### How To Structure Epics
+
+Epics can contain issues and/or child epics. A child epic could for example be the first iteration of the parent epic.
+An example of how the structure of an epic could look:
+
+- Parent Epic
+  - Child Epic 1: First Iteration
+    - Issue: Design Task 1
+    - Issue: Design Task 2
+    - Issue: Engineering Task 1
+    - Issue: Engineering Task 2
+  - Child Epic 2: Second Iteration
+    - Issue: Design Task 3
+    - Issue: Engineering Task 3
+  - Child Epic 3: API Changes
+    - Issue: Engineering Task 4
+    - Issue: Engineering Task 5
+  - Issue: Engineering Task 6
+  - Issue: Engineering Task 7
+
+#### Using epics across groups
+
+Epics have the following limitations:
+
+- Epics can only link issues that are within the same group. For example, it's not possible to link an issue in `gitlab-org` from an epic created in `gitlab-org/growth`.
+- Epics can't link issues across different top level groups. For example, an epic created in `gitlab-org` can't link to an issue created in `gitlab-services`.
+
+To overcome this, we will:
+
+- Always create epics in the top level group, e.g. [`gitlab-org`](https://gitlab.com/groups/gitlab-org/-/epics`), [`gitlab-com`](https://gitlab.com/groups/gitlab-com/-/epics`), or [`gitlab-services`](https://gitlab.com/groups/gitlab-services/-/epics`).
+- Create placeholder epics that link to the other top-level group epic. These placeholders get created automatically when pasting a link to an epic of another top-level group epic
+
+The parent epic should live on the top-level group where most of the issues and child epics will be created.
 
 ### Issue labels
 
@@ -172,7 +201,6 @@ We use issue labels to keep us organized. Every issue has a set of required labe
 - [Stage:](https://about.gitlab.com/handbook/engineering/development/growth/#how-we-work) `~devops::growth`
 - [Group:](https://about.gitlab.com/handbook/engineering/development/growth/#how-we-work) `~group::acquisition`, `~group::conversion`, `~group::telemetry`
 - [Workflow:](https://about.gitlab.com/handbook/product-development-flow/#workflow-summary) `~"workflow::planning breakdown`, `~"workflow::ready for development`, `~"workflow::In dev`, etc.
-- [Parent Child Link:](https://about.gitlab.com/handbook/engineering/development/growth/acquisition-conversion-be-telemetry/#issue-hierarchy) `~link::parent issue`, `~link::child issue`
 
 **Optional labels**
 - [Experiment:](https://about.gitlab.com/handbook/engineering/development/growth/#experiment-issue-creation) `~growth::experiment`
