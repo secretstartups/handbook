@@ -126,9 +126,13 @@ When the release reaches the [canary] stage and no new exceptions or alerts are
 reported, release is considered to be ready for deployment to GitLab.com.
 
 The promotion to the rest of the GitLab.com is triggered manually by the release
-managers and this can happen at any point in time. Depending on the amount of
-changes, this means that release managers can trigger a deployment to the rest
-of the production fleet, shortly after [canary] stage is successfully completed.
+managers and this can happen at any point in time.
+
+The release managers will deploy any amount of code changes to GitLab.com without a manual approval when:
+
+1. There are no [active S1, S2 and S3 incidents](/handbook/engineering/infrastructure/incident-management/#labeling).
+1. There are no ongoing [change issues with C1 and C2 criticality](/handbook/engineering/infrastructure/change-management/#change-criticalities).
+1. There are no new exceptions in [Sentry reported in the canary environment](https://sentry.gitlab.net/gitlab/gitlabcom/).
 
 Each deployment will trigger a notification in the Slack channel [#announcements](https://gitlab.slack.com/archives/C8PKBH3M5).
 After each successful deployment, QA issue is created in [release/tasks] issue tracker.
@@ -281,19 +285,19 @@ are shared in Slack [#releases] channel and will look something like this:
 > This is the candidate commit to be released on the 22nd.
 https://gitlab.com/gitlab-org/gitlab/commits/4033cb0ed66de77a4b5c1936e33de918edef558e
 
-### When do I need to have my MR merged in order for it to be included into the monthly release? 
+### When do I need to have my MR merged in order for it to be included into the monthly release?
 
 The earlier in the monthly cycle your MR is merged, the higher the chances are for it to be included in that months release.
 
 There is no guaranteed "cut-off", "freeze" or any other date defined under which the MR will be included.
 
-Availability, security and performance of GitLab.com is a pre-requisite for any monthly self-managed release. 
+Availability, security and performance of GitLab.com is a pre-requisite for any monthly self-managed release.
 If GitLab.com is not experiencing any issues, MR's merged as late as the 20th of the month were included in the release.
-On the opposite side, when GitLab.com stability was lower, MR's merged as early as 15th of the month were not included. 
+On the opposite side, when GitLab.com stability was lower, MR's merged as early as 15th of the month were not included.
 
 In other words:
 
-**The quality and stability of what is delivered by everyone defines the final MR that will be included in the monthly release.** 
+**The quality and stability of what is delivered by everyone defines the final MR that will be included in the monthly release.**
 
 For more detailed answer, see [self-managed release timelines](/handbook/engineering/releases/#self-managed-releases-1).
 
@@ -314,13 +318,13 @@ guide for more information.
 
 ### I found a regression in the QA issue, what do I do next?
 
-If you've found a regression while checking the QA issue created in the [release/tasks] project, check the issue description for more details on what 
-to do next. 
+If you've found a regression while checking the QA issue created in the [release/tasks] project, check the issue description for more details on what
+to do next.
 
-If you believe that the regression has a high [severity], immediately inform Release Managers in the QA issue by mentioning `@gitlab-org/release/managers`. 
-In addition to that, engage with the releases managers in the [#releases] channel and confirm with them whether deployments need to be halted. 
+If you believe that the regression has a high [severity], immediately inform Release Managers in the QA issue by mentioning `@gitlab-org/release/managers`.
+In addition to that, engage with the releases managers in the [#releases] channel and confirm with them whether deployments need to be halted.
 
-If a regression is found in a new feature, and only that feature is affected, follow the directions in the QA issue for a regular regression. 
+If a regression is found in a new feature, and only that feature is affected, follow the directions in the QA issue for a regular regression.
 
 [semver]: https://semver.org
 [canary]: /handbook/engineering#canary-testing
