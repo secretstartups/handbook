@@ -1,0 +1,78 @@
+---
+layout: handbook-page-toc
+title: "Epics project management guidelines"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+<%= partial("handbook/marketing/project-management-guidelines/includes/_wip-notice.html.md.erb") %>
+
+## Background
+
+[Epics](https://docs.gitlab.com/ee/user/group/epics) provide a way to organize and manage a set of issues and sub-epics that share a strategic theme. In addition to logical grouping, epics enable project managers to perform higher level planning and build a roadmap with visual status tracking.
+
+### Key things to know
+
+1. Epics are defined at the group level
+1. Epics can contain both issues and epics as children
+1. Epics can be used as a filter in both issue lists and issue boards
+1. Epics provide visibility on: child epic and issue status, roadmap timeline (Gantt chart)
+1. An epic provides a roadmap view if it contains one or more child epics which have a start or due date
+1. The roadmap view provides a timeline and completion status based on issue weight completion
+1. The roadmap view is available on the individual epic and on the group page under `Epics > Roadmap`. The group page view provides additional filtering, sort order and timeline units for display 
+1. An issue can only be assigned to one epic
+1. Epics can have multiple child epics up to a depth of 5
+
+### Known Limitations
+
+1. Epics cannot be confidential ([epic](https://gitlab.com/groups/gitlab-org/-/epics/3003))
+1. Epics cannot be created from templates ([issue](https://gitlab.com/gitlab-org/gitlab/-/issues/37079))
+however, there are two workarounds.  First - Epics **Can** be created from an issue that is promoted to an Epic. (in this case, an Issue Template could be a surrogate for an Epic template).  Second - The mixture of issues related to an epic can be templatized in a spreadsheet and uploaded to populate the issues related to a given epic.  See this [epic template overview](https://about.gitlab.com/handbook/marketing/product-marketing/getting-started/104/)
+1. Epics do not have an assignee
+1. Epics cannot be created in projects ([issue](https://gitlab.com/gitlab-org/gitlab/-/issues/31840))
+1. Epics cannot be cloned ([issue](https://gitlab.com/gitlab-org/gitlab/-/issues/29115))
+1. Epics cannot contain issues from above their parent group ([issue](https://gitlab.com/gitlab-org/gitlab/-/issues/205155))
+1. Feature request: calendar view ([issue](https://gitlab.com/gitlab-org/gitlab/-/issues/25879))
+
+## Guidelines
+
+### Use the roadmap view for high-level overview 
+
+The roadmap view can serve as the single source of truth and as a high-level overview to effectively understand the strategic themes and OKRs the team is working on.
+
+A single link to the parent epic or to a group's roadmap page with optional filtering can be used to 
+
+Milestones and issue boards can then be used to drill down into the details for more granularity on individual task status.
+
+### Associate all related epics in an ancestor relationship
+
+All epics that are related to an OKR epic or a strategic theme epic should have one of them as the ultimate ancestor in order to align them to the roadmap.
+
+### Set the start and end date for epics
+
+In order for the roadmap view to be displayed and to provide meaningful visual timeline information, explicitly add the start and end dates to epics during the planning process.
+
+### Use executive theme labels
+
+All epics that are part of a strategic theme or an OKR should at the carry their associated [executive label](/handbook/marketing/project-management-guidelines/labels/#guideline-create-labels-at-the-lowest-possible-level), so that they can be filtered on the roadmap view. Optionally they can also carry one or more of the approved group-level labels.
+
+### Define weight for child issues
+
+As an additional piece of information to track completion status, the roadmap offers a completion percentage based on the weight of the children issues that have been completed over the total issue weight of all direct descendant issues combined.
+
+It's recommended to [set the relative issue weight](/handbook/marketing/project-management-guidelines/issues/#set-issue-weight) for all child issues to be able to track and report epic completion on the roadmap view.
+
+### Set health status for child issues
+
+It can be good practice to highlight issues that need attention or might be at risk before a status review. This information can then be displayed on the roadmap view. For this to work, a [health status](https://docs.gitlab.com/ee/user/project/issues/#health-status-ultimate) can be assigned to individual issues.
+
+A known limitation is that health status cannot be set via quick actions ([issue](https://gitlab.com/gitlab-org/gitlab/-/issues/213814)), but it can still be easily set via the web UI.
+
+
+
+
+
