@@ -1,0 +1,133 @@
+---
+layout: handbook-page-toc
+title: "Reliability Engineering"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+If you're a GitLab team member and are looking to alert Reliability Engineering about an availability issue with GitLab.com, please find quick instructions to report an incident here: [Reporting an Incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident).
+{: .alert .alert-danger}
+
+If you're a GitLab team member looking for assistance from Reliability Engineering, please see the [Getting Assistance](#getting-assistance) section.
+{: .alert .alert-info}
+
+
+## Who We Are
+
+Reliability Engineering is responsible for all of GitLab's user-facing services, with their primary responsibility being GitLab.com. Site Reliability Engineers (SREs) ensure the availability of these services, building the tools and automation to monitor and enable this availability. These user-facing services include a multitude of environments, including staging, GitLab.com, and dev.GitLab.org, among others (see the [list of environments](/handbook/engineering/infrastructure/environments/)).
+
+
+## Vision
+
+**Reliability Engineering** ensures that GitLab's customers can rely on GitLab.com for their mission-critical workloads. We approach availabilty as an engineering challenge and empower our counterparts in Development to make the best possible infrastructure decisions. We own and iterate often on [how we manage incidents](/handbook/engineering/infrastructure/incident-management/) and continually derive and share our learnings by conducting [thorough reviews of those incidents](/handbook/engineering/infrastructure/incident-review/).
+
+
+## Tenets
+1. [**Change Management**](/handbook/engineering/infrastructure/change-management/), [**Incident Management**](/handbook/engineering/infrastructure/incident-management/), [**Incident Review**](/handbook/engineering/infrastructure/incident-review/) and [**Delta Management**](/handbook/engineering/infrastructure/library/production/deltas/) are owned by Reliability Engineering.
+1. Each team member is able to work on all team projects.
+1. The team is able to reach conclusions independently all the time, consensus most of the time.
+1. Career development paths are clear.
+1. The team maintains a database of SRE knowledge through documentation, training sessions, and outreach.
+1. We leverage the GitLab product where we can in our toolchain.
+
+
+## Team
+
+The Reliability Engineering team is composed of [DBRE](/job-families/engineering/database-reliability-engineer/)s and [SRE](/job-families/engineering/site-reliability-engineer/)s. As the role titles indicate, they have different areas of specialty but shared ownership of GitLab.com's availability. The team is broken down into three sub-teams, each with their own area of ownership.
+
+#### Core Infra 
+
+The Core Infra teams owns core infrastructure tooling, network ingress/egress, CDNs, DNS, and secrets management. 
+
+Core Infra is:
+
+| Person | Role |
+| ------ | ------ |
+|[David Smith](/company/team/#dawsmith)|[Engineering Manager, Reliability](/job-families/engineering/engineering-management-infrastructure/#engineering-manager-reliability)|
+|[Alex Hanselka](/company/team/#ahanselka)|[Site Reliability Engineer](/job-families/engineering/site-reliability-engineer/)|
+|[Devin Sylva](/company/team/#devin)|[Senior Site Reliability Engineer](/job-families/engineering/site-reliability-engineer/)|
+|[Craig Barrett](/company/team/#craig)|[Senior Site Reliability Engineer](/job-families/engineering/site-reliability-engineer/)|
+|[Cameron S McFarland](/company/team/#cmcfarland)|[Senior Site Reliability Engineer](/job-families/engineering/site-reliability-engineer/)|
+|[Hendrik Meyer](/company/team/#T4cC0re)|[Site Reliability Engineer](/job-families/engineering/site-reliability-engineer/)|
+|[Graeme Gillies](/company/team/#ggillies)|[Site Reliability Engineer](/job-families/engineering/site-reliability-engineer/)|
+
+
+#### Datastores
+
+The Datastores team owns our persistent storage platforms, with PostgreSQL on gitlab.com being the top priority.
+
+Datastores is:
+
+| Person | Role |
+| ------ | ------ |
+|[Alberto Ramos](/company/team/#albertoramos)|[Engineering Manager, Reliability](https://about.gitlab.com/job-families/engineering/engineering-management-infrastructure/#engineering-manager-reliability)|
+|[Alejandro Rodríguez](/company/team/#eReGeBe)|[Site Reliability Engineer](/job-families/engineering/site-reliability-engineer/)|
+|[Ahmad Sherif](/company/team/#ahmadsherif)|[Site Reliability Engineer](/job-families/engineering/site-reliability-engineer/)|
+|[Amarbayar Amarsanaa](/company/team/#aamarsanaa)|[Senior Site Reliability Engineer](/job-families/engineering/site-reliability-engineer/)|
+|[Henri Philipps](/company/team/#hphilipps)|[Senior Site Reliability Engineer](/job-families/engineering/site-reliability-engineer/)|
+|[Jose Cores Finotto](/company/team/#jose-finotto)|[Staff Database Reliability Engineer](/job-families/engineering/database-reliability-engineer/)|
+|[Nels Nelson](/company/team/#nnelson)|[Site Reliability Engineer](/job-families/engineering/site-reliability-engineer/)|
+
+
+#### Observability
+
+The Observability team owns the monitoring and alerting infrastructure for GitLab.com, as well as our caching/queuing infrastructure.
+
+Observability is:
+
+| Person | Role |
+| ------ | ------ |
+|[Anthony Sandoval](/company/team/#ansdval)|[Engineering Manager, Reliability](https://about.gitlab.com/job-families/engineering/engineering-management-infrastructure/#engineering-manager-reliability)|
+|[Cindy Pallares](/company/team/#cindy)|[Site Reliability Engineer](/job-families/engineering/site-reliability-engineer/)|
+|[Ben Kochie](/company/team/#bjk-gitlab)|[Senior Site Reliability Engineer](/job-families/engineering/site-reliability-engineer/)|
+|[Igor Wiedler](/company/team/#igorwwwwwwwwwwwwwwwwwwww)|[Site Reliability Engineer](/job-families/engineering/site-reliability-engineer/)|
+|[Michal Wasilewski](/company/team/#mwasilewski-gitlab)|[Site Reliability Engineer](/job-families/engineering/site-reliability-engineer/)|
+|[Matt Smiley](/company/team/#msmiley)|[Senior Site Reliability Engineer](/job-families/engineering/site-reliability-engineer/)|
+|[Craig Furman](/company/team/#craigf)|[Senior Site Reliability Engineer](/job-families/engineering/site-reliability-engineer/)|
+
+
+## How We Work
+
+Each team withing Relaibility manages its own backlog and has its own sprints.
+
+| Team | Team Label | Backlog Board | Sprint Board | 
+| ------ | ------ | ------ | ------ |
+|Core Infra|`~team::Core-Infra`|[Core Infra - Backlog](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1688513?milestone_title=No+Milestone&&label_name[]=team%3A%3ACore-Infra)|[Core Infra - Sprint](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1688496?milestone_title=%23started&&label_name[]=team%3A%3ACore-Infra)|
+|Datastores|`~team::Datastores`|[Datastores - Backlog](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1688521?milestone_title=No+Milestone&&label_name[]=team%3A%3ADatastores)|[Datastores - Sprint](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1688503?milestone_title=%23started&&label_name[]=team%3A%3ADatastores)|
+|Observability|`~team::Observability`|[Observability - Backlog](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1677263?milestone_title=No+Milestone&&label_name[]=team%3A%3AObservability)|[Observability - Sprint](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1677278?milestone_title=%23started&label_name[]=team%3A%3AObservability)|
+
+There is also a primary backlog for Reliability board which serves as a singular point of triage for work which has been generated externally to a specific Reliability team. That board is located at [Reliability Team - Backlog](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1688533?milestone_title=No+Milestone&label_name[]=team%3A%3AReliability).
+
+Issues in team backlogs come from two sources:
+
+#### Work Generated Internally by a Reliability Team
+1. The teams themselves derive ideas for work that align with their areas of ownership and their roadmap. An issue is created with the team's label and the `~"workflow-infra::Triage"` label, this automatically places it on the team's backlog board.
+2. The issue then takes one of several paths on the team's backlog:
+    <br/>a. prioritized and kept on the board for a future sprint and the `~"workflow-infra::Triage"` label is removed and the `~"workflow-infra::Ready"` label is added. -OR-
+    <br/>b. pulled into a sprint milestone during the team's sprint planning session and the `~"workflow-infra::Triage"` label is removed and the `~"workflow-infra::Ready"` label is added. -OR-
+    <br/>c. closed if it is determined it won't be pulled into a sprint in the near future and the  `~"workflow-infra::Triage"` label is removed.
+
+#### Work Generated Externally to the Reliability Team
+1. Work is generated from a group outside of a specific Reliability team and an issue is created with the labels `~"team::Reliability"` and `~"workflow-infra::Triage"`. This places it on the `Reliability - Backlog` board and in a triage process for assignment to the correct subteam.
+2. The issue then takes one of several paths. Using the `Reliability - Backlog` board the issue is:
+    <br/>a. prioritized by reliability management and moved to the appropriate team board by removing the `~"team::Reliability"` label and adding the appropriate team label. -OR-
+    <br/>b. closed if it is determined it won't be pulled into a sprint in the near future and the `~"workflow-infra::Triage"` label is removed.
+3. If the issue made it to a team backlog board, it will be processed by the team and:
+    <br/>a. prioritized and kept on the board for a future sprint and the `~"workflow-infra::Triage"` label is removed and the `~"workflow-infra::Ready"` label is added. -OR-
+    <br/>b. pulled into a sprint milestone during the team's sprint planning session and the `~"workflow-infra::Triage"` label is removed and the `~"workflow-infra::Ready"` label is added. -OR-
+    <br/>c. closed if it is determined it won't be pulled into a sprint in the near future and the  `~"workflow-infra::Triage"` label is removed.
+
+
+## Getting Assistance
+
+If you'd like our assistance, please use one of the two issue generation templates below and the work will be routed appropriately.
+
+[Open a General Request Issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/new?issuable_template=request-general) - follow this link to create a general issue for Reliability Engineering.
+
+[Open a Customer Questions and Sales Enablement Issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/new?issuable_template=request-sales-enablement) - follow this link to seek assistance in answering questions for prospects or current customers.
+
+

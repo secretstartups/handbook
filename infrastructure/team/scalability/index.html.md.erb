@@ -1,0 +1,313 @@
+---
+layout: handbook-page-toc
+title: "Scalability Team"
+---
+
+![Scalability Team logo: inspired by the album cover of Unknown Pleasures, the debut studio album by English rock band Joy Division, except the waveforms are Tanukis.](img/scalability_team_logo.png)
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Common Links
+
+| **Workflow** | [Team workflow](/handbook/engineering/infrastructure/team/scalability/#team-work-processes) | |
+| **GitLab.com** | `@gitlab-org/scalability` | |
+| **Issue Trackers** | [Scalability](https://gitlab.com/gitlab-com/gl-infra/scalability) | |
+| **Slack Channels** | [#g_scalability](https://gitlab.slack.com/archives/g_scalability) / `@scalability-team` | [#infrastructure-lounge](https://gitlab.slack.com/archives/infrastructure-lounge) (Infrastructure Group Channel), [#incident-management](https://gitlab.slack.com/archives/incident-management) (Incident Management),  [#alerts-general](https://gitlab.slack.com/archives/alerts-general) (SLO alerting), [#mech_symp_alerts](https://gitlab.slack.com/archives/mech_symp_alerts) (Mechanical Sympathy Alerts) |
+
+## Mission
+
+The **Scalability team** is responsible for GitLab and GitLab.com at scale,
+working on the highest priority scalability items in the application in close
+coordination with **Reliability Engineering** teams and providing feedback
+to other Engineering teams so they can become better at scalability as well.
+
+## Vision
+
+As its name implies, the Scalability team enhances the **availability**,
+**reliability** and, **performance** of GitLab by observing the application's
+capabilities to operate at GitLab.com scale.
+The **Scalability team** analyzes application performance on GitLab.com,
+recognizes bottlenecks in service availability, proposes short term improvements
+and develops long term plans that help drive the decisions of other Engineering teams.
+
+Short term goals include:
+
+- Refine existing, define new, and document [Service Level Objectives](https://en.wikipedia.org/wiki/Service-level_objective)
+for each of GitLab's services.
+- Continuously expose the top 3 critical bottlenecks that threaten the stability of
+GitLab.com.
+- Work on scoping, planning and defining the implementation steps of the top critical
+bottleneck.
+- Define and track team KPI's to track impact on GitLab.com and GitLab as an
+application.
+
+## Team Members
+
+The following people are members of the Scalability Team:
+
+<%= direct_team(manager_role: 'Engineering Manager, Scalability')%>
+
+## Team counterparts
+
+The following members of other functional teams are our stable counterparts:
+
+<%= stable_counterparts(role_regexp: /[,&] Scalability/, direct_manager_role: 'Engineering Manager, Scalability') %>
+
+We work with all engineering teams across all departments as a representative of GitLab.com as one of the largest
+GitLab installations, to ensure that GitLab continues to scale in a safe and sustainable way.
+
+[The Memory team](/handbook/engineering/development/enablement/memory/) is a natural counterpart to the Scalability
+team, but their missions are complementing each other rather than overlap:
+
+| Scalability Team | Memory Team |
+| ---              | ---         |
+| Focused on GitLab.com first, self-managed only when necessary. | Focused on resolving application bottlenecks for all types of GitLab installations. |
+| Driven by set SLO objectives, regardless of the nature of the issue. | Focused on application performance and resource consumption, in all environments. |
+| Primary concern is preventing disruptions of GitLab.com SLO objectives through changes in the application architecture.| Primary concern is managing the application performance for all types of GitLab installations. |
+
+Simply put:
+
+- The Scalability team is focused on all work that affects GitLab.com SLOs.
+- The Memory team is focused on general GitLab resource consumption and performance.
+
+## How do I engage with the Scalability Team?
+
+1. Start with an issue in the Scalability team tracker: [Create an issue](https://gitlab.com/gitlab-com/gl-infra/scalability/issues/new).
+1. You are welcome to follow this up with a Slack message in [#g_scalability](https://gitlab.slack.com/archives/g_scalability).
+1. Please don't add any `workflow` labels to the issue. The team will triage the issue and apply these.
+1. We use our [Workflow board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1290868) to track the workflow of issues.
+
+## How does the Scalability Team engage with Stage Groups?
+
+When we observe a situation on GitLab.com that needs to be addressed alongside a stage group, we first raise an issue
+in the Scalability issue tracker that describes what we are seeing. We try to determine if the problem lies with the action
+the code is performing, or the way in which it is running on GitLab.com. For example, with queues and workers, we will see
+if the problem is in what the queue does, or how the worker should run.
+
+If we find that the problem is in what the code is doing, then we engage with the EM/PM of that group to find the right path
+forward. If work is required from that group, we will create a new issue in the gitlab-org project and use the [Availability
+and Performance Refinement process](https://about.gitlab.com/handbook/engineering/workflow/#process-1) to highlight this issue.
+
+## How we work
+
+### Meetings and Scheduled Calls
+
+We prefer to work asynchronously as far as possible but still use synchronous communication where it makes sense to do so.
+
+To that end, we have very few scheduled calls.
+
+- Weekly on Fridays we have a demo call. The purpose of this call is to showcase something that you have been working on
+during that week. It does not have to be perfect or polished. Items should be added to the [agenda](https://docs.google.com/document/d/13TW4x3ofw0RxifZvZ7eNvrPxFnnXmhzQ8fal3fhYgjg/edit#) 24 hours ahead of the meeting.
+If there are no agenda items at that time, the call is cancelled for that week. A [playlist of the recordings](https://www.youtube.com/playlist?list=PL05JrBw4t0Kphnnvtz9CDatQAVGs_q2Cv) is available on GitLab Unfiltered.
+- Monthly (in the second week of a month) we have a social call. The purpose of this call is to catch up with each other and calls
+may be themed to start the conversation. These are set up as double-calls, where there are two calls booked to suit people in
+all time zones. The intention is for everyone to attend at least one call, but to please join both if possible. Since this is
+only done monthly, this should hopefully not be too much of a burden to take a call at an unusual hour.
+
+Lastly, in order to keep people connected, team members schedule at least one coffee-chat with another team member each
+week. These are at times that will best suit them as it may be an unusual hour given the various timezones and working hours for each person.
+
+### Project Management
+
+We use Epics, Issues, and Issue Boards to organize our work, as they complement each other.
+
+The single source of truth for all work is [Scaling GitLab.com epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/148).
+This is considered as the top-level epic from which all other epics are derived.
+
+Epics that are added as children to the top-level epic are used to describe projects that the team undertakes.
+Projects must have a problem statement and a goal, and issues are added to these Epics if they can be shown to
+further or support the goals of that project.
+
+Having all projects at this level allows us to use a single list for prioritization and enables us to prioritize
+work for different services alongside each other. Projects are prioritized in line with the OKRs for the current quarter.
+
+For each project we use the `start date` and `due date` fields on the Epic.
+- Start Date: set to the expected start date and updated to be the actual start date when the project begins.
+- Due Date: set to be the expected end date. This should be seen as a target, and this target is
+re-evaluated every few weeks while the project is in progress. The date that a project actually ended is taken from the
+date that the epic was closed.
+
+Project status is maintained in the description of the top-level epic so that it is visible at a glance. This is auto-generated.
+You can watch a [short demo of this process](https://youtu.be/6Wb1f-c1_og) to see how to use status labels
+on the epics to make use of this automation.
+
+Example organization is shown on the diagram below:
+
+```mermaid
+graph LR
+	A[Scaling GitLab.com] --> B(Add observability metrics to Service X)
+  A --> C(Queue Z is not meeting its SLI)
+  A --> D(Embed Scalability into Development practises)
+  D --> E(Automate alerting into stage group channels)
+  D --> F(Create development tutorial sets)
+  A --> G(Add profiling to Go Services)
+  A --> H(Make sidekiq jobs idempotent)
+
+```
+*Note* If you are not seeing the diagram, make sure that you accepted all cookies.
+
+### Prioritization Process
+
+The diagram below describes how the work gets created in the Scalability team, and added to the top-level epic [Scaling GitLab.com epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/148):
+
+```mermaid
+graph LR
+  observe("👀 Observe")
+  style observe fill:#fed217,stroke-width:4px,stroke:#dddd
+  analyse("🔬 Analyse")
+  style analyse fill:#fec612
+  propose("💡 Propose Improvements")
+  style propose fill:#fec612
+  triage("🤹 Triage")
+  style triage fill:#feaf09
+  devanddeploy("🐿️ Develop & Deploy")
+  style devanddeploy fill:#fea404
+  assess("🔦 Assess")
+  style assess fill:#fe9900
+
+  observe --> analyse
+  analyse --> propose
+
+  subgraph Scalability Issue Tracker
+     propose --> triage --> devanddeploy --> assess
+  end
+```
+*Note* If you are not seeing the diagram, make sure that you accepted all cookies.
+
+The process contains 6 cyclical stages:
+
+1. **Observe** - What is causing SLA and SLO degradations on GitLab.com?  Monitor the 4 golden signals provided by general
+metrics (latency, traffic, errors, saturation) for each service, looking for SLA breaches (for latency, errors, saturation)
+and prioritising for the worst breaches
+1. **Analyse** - Why is availability being reduced, do we have all information, and are our metrics sufficient? Investigate
+the major causes leading to reduction in availability on GitLab.com.  What are the reasons for these degradations and outages?
+Investigate to understand the cause.
+1. **Proposed Improvements** - Issue with a (partial, temporary or full, permanent) proposal is created on the Scalability
+tracker, with one or more additional issues in other trackers as required, including estimated SLA improvements for services
+affected. Improvements can include changes to the infrastructure, changes to the application, and changes to our observability.
+Issues involving substantial effort will be promoted to Epics so that issues encapsulating this effort can be tracked as a project.
+1. **Triage** - Prioritise changes based on pre-defined set of [rules](#priorities) and according to expected availability
+improvements. Tickets can be either delegated to engineering teams via the infra/dev process, delegated to infrastructure
+(via TBD process), or implemented by the scalability team
+1. **Development & Deployment** - The work on developing and ensuring that the change has no unexpected effects is executed
+by the owner defined in the previous stage.
+1. **Assessment** - Assessment of the implemented change is done through retrospecting on the expected and observed state.
+The retrospective process is documented in an issue that is marked related to the original issue driving the change.  Can
+we see the changes we expected following the deployment of this change?  If not, why is this?
+
+### Triage rotation
+
+We have automated triage policies defined in the [triage-ops
+project](https://gitlab.com/gitlab-com/gl-infra/triage-ops). These
+perform tasks such as automatically labelling issues, asking the author
+to add labels, and creating weekly triage issues.
+
+We currently have two weekly triage issues:
+
+1. Board refinement - walk through the current project board and move
+   issues forward towards `workflow-infra::Ready` where possible.
+2. `Service::Unknown` refinement - lists issues with `Service::Unknown`
+   with the goal of adding a defined service, where possible.
+
+We rotate the triage ownership each month, with the current triage owner
+responsible for picking the next one (a reminder is added to their last
+triage issue).
+
+### Issues
+
+Issue is being implemented if:
+
+1. Issue has a team member assigned to it.
+1. Assigned issue has a priority label set.
+1. Issue has "~workflow-infra::In Progress" set.
+
+Issue is resolved when:
+
+1. The problem defined in the issue has been addressed.
+1. Issue description is updated with a graph comparing before/after state (if applicable).
+1. Issue has "~workflow-infra::Done" set.
+
+### Issue boards
+
+The Scalability team [issue boards](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/) track
+the progress of ongoing work. Purpose of some of the more important issue boards
+are described below:
+
+1. [Workflow board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1290868)
+  - Tracks the whole team ongoing workload.
+1. [Abandoned work board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1428754)
+  - Tracks the work that is not progressing.
+1. Individual services board, for example [Sidekiq board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1428695)
+  - Tracks the workload for the individual service.
+1. [Priority board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1428893)
+  - Tracks the workload based on issue priorities.
+
+### Labels
+
+The Scalability team routinely uses the following set of labels:
+
+1. The team label, `team::Scalability`.
+1. Priority labels `Scalability::`.
+1. Scoped `workflow-infra` labels.
+1. Scoped `Service` labels.
+
+The `team::Scalability` label is used in order to allow for easier filtering of
+issues applicable to the team that have group level labels applied.
+
+<a name="priority-labels">The priority labels</a> allow us to track the issues correctly and raise/lower priority of work based on both external and internal factors.
+
+This means that the highest priority is given to working on issues that improve
+Gitlab.com SLO's either immediately and directly, or by unblocking other issues
+to achieve the same.
+
+#### Workflow labels
+
+The Scalability team leverages scoped workflow labels to track different stages of work.
+They show the progression of work for each issue and allow us to remove blockers or change
+focus more easily.
+
+The standard progression of workflow is from top to bottom in the table below:
+
+| State Label | Description |
+| ----------- | ----------- |
+| ![Triage](img/label-triage.png) | Problem is identified and effort is needed to determine the correct action or work required. |
+| ![Proposal](img/label-proposal.png) | Proposal is created and put forward for review. <br/>SRE looks for clarification and writes up a rough high-level execution plan if required. SRE highlights what they will check and along with soak/review time and developers can confirm. <br/>If there are no further questions or blockers, the issue can be moved into "Ready". |
+| ![Ready](img/label-ready.png) | Proposal is complete and the issue is waiting to be picked up for work. |
+| ![In Progress](img/label-in_progress.png) | Issue is assigned and work has started. <br/>While in progress, the issue should be updated to include steps for verification that will be followed at a later stage.|
+| ![Under Review](img/label-under_review.png) | Issue has an MR in review. |
+| ![Verify](img/label-verify.png) | MR was merged and we are waiting to see the impact of the change to confirm that the initial problem is resolved. |
+| ![Done](img/label-done.png) | Issue is updated with the latest graphs and measurements, this label is applied and issue can be closed. |
+
+There are three other workflow labels of importance:
+
+| State Label | Description |
+| ----------- | ----------- |
+| ![Cancelled](img/label-cancelled.png) | Work in the issue is being abandoned due to external factors or decision to not resolve the issue. After applying this label, issue will be closed. |
+| ![Stalled](img/label-stalled.png) | Work is not abandoned but other work has higher priority. After applying this label, team Engineering Manager is mentioned in the issue to either change the priority or find more help. |
+| ![Blocked](img/label-blocked.png) | Work is blocked due external dependencies or other external factors. Where possible, a [blocking issue](https://docs.gitlab.com/ee/user/project/issues/related_issues.html) should also be set. After applying this label, issue will be regularly triaged by the team until the label can be removed. |
+
+
+#### Priority labels
+
+The Scalability team uses priority labels as a means to indicate order under which work is next to be picked up. Priorities are roughly defined as:
+
+| Priority level  | Definition |
+| --------------- | ---------- |
+| Scalability::P1 | Issue is blocking other team-members, or blocking other work.  As soon as possible after completing ongoing task unless directly communicated otherwise. |
+| Scalability::P2 | Issue has a large impact, or will create additional work. |
+| Scalability::P3 | Issue should be completed once other urgent work is done. |
+| Scalability::P4 | **Default priority**. A nice-to-have improvement, non-blocking technical debt, or a discussion issue. |
+
+## Choosing something to work on
+
+We work from our main epic: [Scaling GitLab on GitLab.com](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/148).
+
+Most of our work happens on the current in-progress sub epic. This is always prominently visible from the main
+epic's description. From there, work takes place on the board associated to the current in-progress epic.
+
+Priority labels take precedence; we don't use issue ordering in boards or epics for priorities.
+Workflow labels to the right are higher priority than those to the left.

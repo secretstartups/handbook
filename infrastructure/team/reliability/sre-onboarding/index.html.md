@@ -1,0 +1,240 @@
+---
+layout: handbook-page-toc
+title: "SRE Onboarding"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Onboarding Template
+
+SRE onboarding is mostly handled by an
+[issue template](https://gitlab.com/gitlab-com/gl-infra/infrastructure/blob/master/.gitlab/issue_templates/onboarding_template.md)
+that is assigned to the SRE when they start. This will guide them
+through different areas of the system, starting  off with some simple
+tasks and help both the SRE and the SRE manager through various access issues.
+
+## GitLab.com Infrastructure Management
+
+The SRE teams use [Terraform](https://www.terraform.io/) and
+[Chef](https://chef.io) for configuration management of GitLab.com
+infrastructure.
+
+### Terraform
+
+Terraform configuration is currently divided into three environment:
+
+* [production](https://ops.gitlab.net/gitlab-com/gitlab-com-infrastructure/tree/master/environments/gprd)
+* [staging](https://ops.gitlab.net/gitlab-com/gitlab-com-infrastructure/tree/master/environments/gstg)
+* [ops](https://ops.gitlab.net/gitlab-com/gitlab-com-infrastructure/tree/master/environments/ops)
+
+
+There is [shared terraform config](https://ops.gitlab.net/gitlab-com/gitlab-com-infrastructure/tree/master/shared)
+for both staging and production
+to keep topology parity between these environments. Instance sizing, fleet sizes
+and other environment specific configuration is set in variable files for
+staging, production and ops.
+
+The state for terraform is maintained in object storage, the master branch
+should always represent the current state of infrastructure. Changes should be
+merged and applied through CI.
+
+### Chef
+
+Chef is a critical part of SRE infrastructure management. Currently it is used
+for OS patching, applying system level configuration and installing the omnibus
+package for releases. Here are a few notable cookbooks which will be a good
+starting-point for new SREs:
+
+* [cookbook-omnibus-gitlab](https://gitlab.com/gitlab-org/cookbook-omnibus-gitlab): This cookbook
+  is responsible for creating a `gitlab.rb` on every server that has GitLab installed. This config
+  file is used by the omnibus package.
+* [gitlab_users](https://gitlab.com/gitlab-cookbooks/gitlab_users): This
+  cookbook manages all user accounts on the GitLab.com fleets.
+* [gitlab-server](https://gitlab.com/gitlab-cookbooks/gitlab-server): This
+  cookbook contains most of the recipes used for base OS configuration
+  for nodes that run GitLab.com.
+
+### Releases
+
+Releases candidates are deployed to GitLab.com through auto-deployments that occur weekly. For information about how releases at GitLab.com read about [the releases process](/handbook/engineering/releases/#gitlabcom-releases-1) visit the
+[release project documentation](https://gitlab.com/gitlab-org/release/docs/blob/master/README.md).
+documentation.
+
+For information about GitLab.com deployments and patches see the following
+release docs:
+
+* [release documentation for deployer](https://gitlab.com/gitlab-org/release/docs/blob/master/general/deploy/gitlab-com-deployer.md)
+* [post-deployment patch documentation](https://gitlab.com/gitlab-org/release/docs/blob/master/general/deploy/post-deployment-patches.md)
+
+## Where to find things
+
+
+### Repositories
+
+The following repositories are used for GitLab.com infrastructure management.
+These repository locations are the remotes that the SRE team uses for pushes,
+issues and MRs. Mirrors are setup in case that GitLab.com is unavailable.
+Repositories that are necessary for assets, configuration, infrastructure, releases
+and patch management use https://ops.GitLab.net as a remote.
+
+1. [terraform](https://ops.gitlab.net/gitlab-com/gitlab-com-infrastructure): This
+is the repository that holds all terraform configuration for the GitLab.com staging,
+production and operations environments. There is a
+[repository mirror](https://gitlab.com/gitlab-com/gitlab-com-infrastructure)
+on GitLab.com .
+
+1. [chef cookbooks](https://gitlab.com/groups/gitlab-cookbooks): These
+repositories are the cookbooks used for GitLab.com. Runlists for the fleets
+are configured in roles. There are repository mirrors for these cookbooks on
+[ops.GitLab.com](https://ops.gitlab.net/gitlab-cookbooks).
+
+1. [chef](https://ops.gitlab.net/gitlab-cookbooks/chef-repo): This
+repository contains all role and node attributes for GitLab.com infrastructure.
+It also has the environment configurations for production, staging and ops
+for cookbook version pinning. There is a
+[repository mirror](https://gitlab.com/gitlab-cookbooks/chef-repo)
+on GitLab.com.
+
+1. [runbooks](https://gitlab.com/gitlab-com/runbooks/): This repository contains
+runbooks, howtos and alert definitions for GitLab.com. Alerts defined in this
+repository are automatically applied to the monitoring infrastructure when
+merged to master. For more information see the
+[alert manual](https://gitlab.com/gitlab-com/runbooks/blob/master/howto/alerts_manual.md).
+There is a [repository mirror](https://ops.gitlab.net/gitlab-com/runbooks/) on ops.GitLab.net.
+
+
+### Dashboards
+
+It is useful to have the following dashboards bookmarked and easily accessible
+
+1. [Grafana](https://dashboards.gitlab.net/d/RZmbBr7mk/gitlab-triage)
+1. [Google Cloud](https://console.cloud.google.com/home/dashboard?project=gitlab-production&pli=1)
+1. [System Logs](https://log.gprd.gitlab.net/app/kibana)
+1. [Fastly](https://manage.fastly.com/dashboard/services/652MHuIME217ZATbh7vFWC/datacenters/all) CDN
+
+### Cloud Providers
+
+1. [Google Cloud](https://console.cloud.google.com/home/dashboard?project=gitlab-production&pli=1)
+1. [Amazon Web Services](https://console.aws.amazon.com/console/home?region=us-east-1#)
+1. [DigitalOcean ](https://cloud.digitalocean.com/dashboard)
+1. [Azure](https://portal.azure.com)
+
+### Monitoring tools
+
+1. [PagerDuty](https://gitlab.pagerduty.com/incidents) Alerting
+1. [Grafana](https://dashboards.gitlab.net/d/bd2Kl9Imk/host-stats?orgId=1) Performance Monitoring
+1. [Alert Dashboard](https://dashboards.gitlab.net/d/SOn6MeNmk/alerts)
+1. [AlertManager Production](https://alerts.gprd.gitlab.net)
+1. [AlertManager Staging](https://alerts.gstg.gitlab.net)
+
+### Issue Trackers
+
+It is useful to have the following issue trackers bookmarked and easily accessible
+
+1. [On Call Issues](https://gitlab.com/gitlab-com/infrastructure/issues?scope=all&utf8=✓&state=opened&label_name%5B%5D=oncall)
+1. [Production Incidents Issues](https://gitlab.com/gitlab-com/gl-infra/production/issues?label_name%5B%5D=incident)
+1. [Change Management Issues](https://gitlab.com/gitlab-com/gl-infra/production/issues?label_name%5B%5D=change)
+
+
+### Yubikey
+
+SREs should be using a [YubiKey](https://www.yubico.com) and should not have keys on their laptop.
+
+Follow the [yubikey runbook](https://gitlab.com/gitlab-com/runbooks/blob/master/howto/yubikey.md) to set up
+
+## Credentials
+
+The following is intended to be a comprehensive list of credentials and access
+that need to be set up, which are not covered above or elsewhere in the handbook.
+The list may not be up to date.  If something is missing, please add it.
+
+1. SSH Key - this is provided to you by the yubikey setup
+1. [GitLab.com](https://gitlab.com) account
+1. [GitLab.com](https://gitlab.com) admin account
+1. [dev.GitLab.org](https://dev.gitlab.org) account
+1. [ops.GitLab.net](https://ops.gitlab.net) account
+1. Chef access
+1. Cloud Providers
+  - Amazon Web Services
+  - Azure
+  - Digital Ocean
+  - Google Cloud
+
+# Slack Channels
+
+1. #production
+1. #infrastructure-lounge
+1. #alerts (There are several alerts channels)
+
+# Zendesk
+
+Every SRE should register for a “Light Agent” account in ZenDesk. Often times incidents are generated from customer reports, and it’s useful to see their submission and the back and forth with support. You can also leave internal notes for support engineers so that they can gather more information for troubleshooting purposes. See ['Light Agent' Zendesk accounts available for all GitLab staff](/handbook/support/internal-support/#light-agent-zendesk-accounts-available-for-all-gitlab-staff)
+
+## PTO Ninja
+
+We use PTO Ninja to notify and delegate for planned timeoff. When setting up your integrations with Slack,
+be sure to run the `/ninja settings` command and add the team's shared Google Calendar
+(ID: `gitlab.com_oji6dki1frc8g8qq9feuu1jtd0@group.calendar.google.com`) as an "Additional Calendar".
+
+## Suggested Software Tools
+
+As production engineers we are allowed to utilize a linux workstation.  The list
+below is mostly comprised of macOS tools.  You'll need to find the linux
+equivalent to match the linux distro of your choice.
+
+In addition to the standard tools for interacting with the rest of GitLab,
+the following tools help when working on production issues.
+
+Required tools
+1. [Homebrew](https://brew.sh)
+1. [SSH, properly configured](https://gitlab.com/gitlab-com/gl-infra/infrastructure/blob/master/onboarding/ssh-config)
+1. chef, knife, berkshelf
+1. kubectl (`brew install kubernetes-cli`)
+
+Nice to have
+1. iTerm (`brew cask install iterm2`) or kitty (`brew cask install kitty`) (bear in mind that kitty requires more configuration to get it up and running so it's targeted at more advanced users)
+1. macOS doesn't source ~/.bashrc file by default, so if you want it to be processed, you need to source it in your profile file (which you might need to create manually). Why to create the rc file at all instead of keeping everything in the profile? some tools default to rc so they will not process the profile at all. There are actually more differences, see: [About bash_profile and bashrc on macOS](https://scriptingosx.com/2017/04/about-bash_profile-and-bashrc-on-macos/)
+1. macOS doesn't have bash completion feature by default, to install it: `brew install bash-completion` and enable it: `echo "[ -f /usr/local/etc/bash_completion ] && . /usr/local/etc/bash_completion" >> ~/.bashrc"`
+1. fzf used for fuzzy completion in shell, e.g. history search or filepaths, (`brew install fzf` + `echo "[ -f ~/.fzf.bash ] && source ~/.fzf.bash" >> ~/.bashrc"`)
+1. the default length of bash history on macOS is 500, to extend the number of entries kept and save the timestamp you can add to your .bashrc for example:
+```
+export HISTFILESIZE=2000000
+export HISTSIZE=1000000
+export HISTTIMEFORMAT="%d/%m/%y %T "
+```
+1. helm - "Kubernetes package manager" (`brew install kubernetes-helm`)
+1. minikube (`brew cask install minikube`) and virtualbox (`https://www.virtualbox.org/wiki/Downloads`)
+1. GCP cli [gcloud quickstart macos](https://cloud.google.com/sdk/docs/quickstart-macos)
+1. Digital Ocean cli (`brew install doctl`)
+1. Azure cli (`brew install azure-cli`)
+1. AWS cli (`pip3 install awscli --upgrade`)
+1. A text editor such as [Atom](https://atom.io/), [Sublime](https://www.sublimetext.com/), [Textmate](https://macromates.com), [MacVim](http://macvim-dev.github.io/macvim/), or [neovim](https://neovim.io)
+1. watch (`brew install watch`)
+1. tmux/tmate (`brew install tmux tmate`)
+1. A markdown editor such as [macdown](https://macdown.uranusjr.com) (`brew cask install macdown`)
+1. [BitBar](https://getbitbar.com) with [GitLab Plugin](https://gitlab.com/dsylva/gitlab-bitbar)
+1. To [install gnu utils and replace mac utilities]( https://apple.stackexchange.com/questions/69223/how-to-replace-mac-os-x-utilities-with-gnu-core-utilities) use the --with-default-names option.
+1. when using gpg, you will be asked for a password. Querying for passwords can be facilitated by different tools, but a fairly standard and widely supported one is pinentry-mac (`brew install pinentry-mac`). To tell your gpg agent to use it: `echo 'pinentry-program /usr/local/bin/pinentry-mac' >> ~/.gnupg/gpg-agent.conf`
+
+
+### Brew Files
+
+There are sample brew files in the [Infrastructure Project](https://gitlab.com/gitlab-com/gl-infra/infrastructure/tree/master/onboarding)
+
+### iOS apps
+
+1. [Slack](https://itunes.apple.com/us/app/slack/id618783545?mt=8)
+1. [Zoom](https://itunes.apple.com/us/app/zoom-cloud-meetings/id546505307?mt=8)
+1. [PagerDuty](https://itunes.apple.com/us/app/pagerduty/id594039512?mt=8)
+1. [Working Copy](https://itunes.apple.com/us/app/working-copy/id896694807?mt=8) (Optional)
+
+## Reference Material
+
+List of relevant reference material that an engineer may need to brush up on
+
+1. [Chef](https://docs.chef.io)
+1. [Terraform Docs](https://www.terraform.io/docs/index.html) or [getting started guide](https://www.terraform.io/intro/index.html)

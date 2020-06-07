@@ -1,0 +1,244 @@
+---
+layout: handbook-page-toc
+title: "Delivery Team"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Common Links
+
+| **Workflow** | [Team workflow](/handbook/engineering/infrastructure/team/delivery/#team-work-processes) |
+| **GitLab.com** | `@gitlab-org/delivery` |
+| **Issue Trackers** | [**Delivery**][issue tracker]|
+| **Slack Channels** | [#g_delivery] / `@delivery-team`
+| **Delivery Handbook** | [Team training][team training]|
+
+## Top-level Responsibilities
+
+* Acting as Release Managers for our monthly .com release process
+* Migrate the company to a continuous delivery model (through automation)
+
+## Mission
+
+The Delivery Team enables GitLab Engineering to deliver features in a
+**safe**, **scalable** and **efficient** fashion to both GitLab.com and self-managed customers.
+The team ensures that GitLab's monthly, security, and patch releases are deployed to GitLab.com and
+publicly released in a timely fashion.
+
+## Vision
+
+By its own nature, the Delivery team is a backstage, non-user feature facing team whose product
+and output has a direct impact on Infrastructure's primary goals of **availability**, **reliability**,
+**performance**, and **scalability** of all of GitLab's user-facing services as well as self-managed
+customers. The team creates the workflows, frameworks, architecture and automation for Engineering teams
+to see their work reach production effectively and efficiently.
+
+The Delivery team is focused on our [CI/CD blueprint](/handbook/engineering/infrastructure/library/ci-cd/)
+by driving the necessary changes in our software development processes and workflows, as well as
+infrastructure changes, to embrace the benefits of CI/CD.
+
+### Short-term
+
+* Automate release generation, removing most of manual work
+* Automate deployment process, managing and limiting impact on production
+* Simplify security releases
+* Streamline the process of limiting feature impact in production environments
+* Enable feature testing at production-environment scale
+* Create detailed architecture blueprints and design for CD on GitLab.com
+* Develop and track KPIs to measure the team's impact on GitLab product delivery
+
+### Mid-term
+
+* Drive the implementation of infrastructure changes to prepare GitLab.com for CD
+* Eliminate the need for feature-freeze blackouts during the development cycle
+* Shorten build times to allow for faster release times
+
+### Long-term
+
+* Drive necessary changes that will lead to Kuberentes-based infrastructure on GitLab.com
+* Fully automated releases for self-managed users
+
+## Team
+
+Each member of the Delivery team is part of this vision:
+
+* Each team member is able to work on all team projects
+* The team is able to reach a conclusion independently all the time, consensus most of the time
+* Career development paths are clear
+* Team creates a database of knowledge through documentation, training sessions and outreach
+
+### Team Members
+
+<%= stable_counterparts(role_regexp: /[,&] Delivery/, direct_manager_role: 'Engineering Manager, Delivery') %>
+
+<!--
+This section is currently broken because of removal of an interim positions from team.yml. Once the new EM, Delivery joins, we can remove the comments around this section.
+
+The following people are members of the Delivery Team:
+
+<%= direct_team(manager_role: 'Engineering Manager, Delivery')%>
+
+The following members of other functional teams are our stable counterparts:
+
+<%= stable_counterparts(role_regexp: /[,&] Delivery/, direct_manager_role: 'Engineering Manager, Delivery') %>
+
+-->
+
+## Performance indicators
+
+Delivery team contributes to [Engineering function performance indicators] through [Infrastructure department performance indicators].
+Team's main performance indicator is [**M**ean **T**ime **T**o **P**roduction][MTTP] (MTTP), which serves to show how quickly a change introduced through a Merge Request
+is reaching production environment (GitLab.com).
+At the moment of writing, the target for this PI is defined in this [key result][KI lower MTTP] epic.
+
+MTTP is further broken down into charts and tables at the [Delivery Team Performance Indicators Sisense dashboard][Delivery Sisense PIs].
+
+# How we work
+## Project Management
+
+The Delivery team work is tracked through number of epics, and issues (and issue boards).
+
+Epics and issue boards are complementary to each other, and we always strive to have a 1-1 mapping between a working epic and an issue board.
+Epics describe the work and allows for general discussions, while the issue board is there to describe order of progress in any given epic.
+
+### Epics
+
+Two tracking epics related to the team mission are:
+
+1. [GitLab.com on Kubernetes](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/112)
+1. [Release Velocity](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/170)
+
+Any working epic that the team creates should be directly added as a child to one of these two top level tracking epics.
+
+Working epic should always have:
+
+1. [A Problem Statement](https://lamport.azurewebsites.net/pubs/state-the-problem.pdf).
+1. Link to an issue board used to organize work described in the epic.
+1. Clear indication of the epic status in the epic description.
+    * ✅ - completed
+    * ⏹ - not started
+    * ⏳ - in progress
+1. ![Team label](img/label-team.png)
+1. Label used as part of the project scope (eg. `kubernetes`, `security-release`).
+1. [Directly responsible individuals][DRI] responsible for the project completion.
+1. Start and due date.
+1. Defined exit criteria.
+
+In cases where the work is tracked in a project in a different group outside of our canonical project location, we will create two epics for the same topic and state in the epic description which one is the working epic.
+
+### Issue Boards
+
+Each working epic should be accompanied by an issue board. Issue boards should be tailored to the specific project needs, but at minimum it should contain the [workflow labels](#workflow-labels) shown on the workflow diagram.
+
+### Labels
+
+The canonical issue tracker for the Delivery team is at [gl-infra/delivery][issue tracker]. Issues are automatically labeled if no labels are applied using the [triage ops] project.
+The default labels defined in the [labeling library](https://gitlab.com/gitlab-com/gl-infra/triage-ops/-/blob/master/lib/delivery/default_labeling.rb).
+
+By default, an issue needs to have a:
+
+1. Workflow Label - Default: `workflow-infra::Triage`
+1. Priority Label - Default: `Delivery::P4`
+1. Other Label - project or team management related label.
+
+#### Workflow Labels
+
+The Delivery team leverages scoped `workflow-infra` labels to track different stages of work.
+They show the progression of work for each issue and allow us to remove blockers or change
+focus more easily. These labels are used in projects that are projected to take some time to complete
+and usually combined with other project or service labels.
+
+The standard progression of workflow is described below:
+
+```mermaid
+sequenceDiagram
+  participant triage as workflow-infra::Triage
+  participant ready as workflow-infra::Ready
+  participant progress as workflow-infra::In Progress
+  participant done as workflow-infra::Done
+    triage ->> ready: 1
+Note right of triage: Problem has been<br/>scoped, discussed and issue is<br/>ready to implement.
+    ready ->> progress: 2
+Note right of ready: Issue is assigned and<br/> work has started.
+    progress ->> done: MR is merged and deployed to production
+Note right of progress: Issue is updated with<br/>rollout details,<br/> workflow-infra::Done<br/> label is applied,<br/> issue can be closed.
+```
+
+There are three other workflow labels of importance omitted from the diagram above:
+
+1. `workflow-infra::Cancelled`:
+  - Work in the issue is being abandoned due to external factors or decision to not resolve the issue. After applying this label, issue will be closed.
+1. `workflow-infra::Stalled`
+  - Work is not abandoned but other work has higher priority. After applying this label, team Engineering Manager is mentioned in the issue to either change the priority or find more help.
+1. `workflow-infra::Blocked`
+  - Work is blocked due external dependencies or other external factors. After applying this label, issue will be regularly triaged by the team until the label can be removed.
+
+Label `workflow-infra::Done` is applied to signify completion of work, but its sole purpose is to ensure that issues are closed when the work is completed, ensuring issue hygiene.
+
+#### Priority Labels
+
+The Delivery team uses priority labels to indicate order under which work is next to be picked up. Meaning attached to priorities can be seen below:
+
+| Priority level  | Definition |
+| --------------- | ---------- |
+| Delivery::P1 | Issue is blocking other team-members, or blocking other work. Needs to be addressed immediately, even if it means postponing current work. |
+| Delivery::P2 | Issue has a large impact, or will create additional work. Work should start as soon as possible after completing ongoing task. |
+| Delivery::P3 | Issue should be completed once other urgent work is done. |
+| Delivery::P4 | **Default priority**. A nice-to-have improvement, non-blocking technical debt, or a discussion issue. Issue might be completed in future or work completely abandoned. |
+
+#### Other Labels
+
+Some of the labels related to the team management are defined as:
+
+1. `onboarding` - issues are related to granting access to team resources.
+1. `team-tasks` - issues related to general team topics.
+1. `Discussion` - meta issues that are likely to be promoted to a working epic or generate separate implementation issues.
+1. `Announcements` - issues used to announce important changes to wider audience.
+
+Project labels are defined as needed, but they are required unless the issue describes a team management task.
+
+### Choosing something to work on
+
+The Delivery team generally has working epics assigned to specific owners who are responsible for keeping the project on track. However, anyone is welcome to work across all of the team's projects when their most urgent tasks are completed.
+If you want to work on something outside of your current project, feel free to contribute to any of the mid to lower priority labeled issues.
+
+## Project demos
+
+As part of the project, we might decide to organize project demo's. The decision on creating a demo depends on the expected longevity of the project, but also on the complexity of it.
+
+The purpose of the demo is to ensure that everyone who participates in the project has a way of sharing their findings and challenges they might be encountering outside of the regular async workflow. The demo's do not have presentations attached to it, and they require no prior preparation.
+The demoer shouldn't feel like they have to excuse themselves for being unprepared, and expect that their explanation without faults. In fact, if what is being demoed is showing off no weaknesses, we might have not cut scope in time.
+
+It is encouraged to show and discuss:
+
+1. The imperfectness of the specific code implementation.
+1. How broken the used tool might be.
+1. How an estabilished process breaks down.
+1. How challenging a problem being resolved might be.
+
+## Release runbooks
+
+Runbooks containing information on various scenarios that the release manager from the Delivery team needs to know are available at the [release/docs/runbooks repository](https://gitlab.com/gitlab-org/release/docs/-/blob/master/runbooks/README.md).
+
+### Team training
+
+Every Delivery team member is responsible for creating a training session for the rest of the team.
+See the page on [team training] for details.
+
+[issue tracker]: https://gitlab.com/gitlab-com/gl-infra/delivery
+[team training]: /handbook/engineering/infrastructure/team/delivery/training/
+[#g_delivery]: https://gitlab.slack.com/archives/g_delivery
+[#production]: https://gitlab.slack.com/archives/production
+[#infrastructure-lounge]: https://gitlab.slack.com/archives/infrastructure-lounge
+[#incident-management]: https://gitlab.slack.com/archives/incident-management
+[Engineering function performance indicators]: https://about.gitlab.com/handbook/engineering/performance-indicators/
+[Infrastructure department performance indicators]: https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/
+[MTTP]: https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#mean-time-to-production-mttp
+[KI lower MTTP]: https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/107
+[Delivery Sisense PIs]: https://app.periscopedata.com/app/gitlab/573702/WIP:-Delivery-team-PIs
+[triage ops]: https://gitlab.com/gitlab-com/gl-infra/triage-ops
+[DRI]: /handbook/people-operations/directly-responsible-individuals/
