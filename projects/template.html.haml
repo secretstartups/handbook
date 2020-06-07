@@ -1,0 +1,21 @@
+---
+layout: handbook-page-toc
+title: "Engineering Projects"
+---
+
+:markdown
+  ## On this page
+  {:.no_toc .hidden-md .hidden-lg}
+
+  - TOC
+  {:toc .hidden-md .hidden-lg}
+
+  ## Projects
+
+=  partial 'table', locals: { projects: team.projects }
+
+%hr
+
+- team.projects.each do |project|
+  = partial 'project', locals: { project: project }
+
