@@ -1,0 +1,547 @@
+---
+layout: handbook-page-toc
+title: "Engineering Workflow"
+---
+
+This document explains the workflow for anyone working with issues in GitLab Inc.
+For the workflow that applies to everyone please see [PROCESS.md](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/PROCESS.md).
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## GitLab Flow
+
+Products at GitLab are built using the [GitLab Flow](https://docs.gitlab.com/ee/workflow/gitlab_flow.html).
+
+We have [specific rules around code review](/handbook/engineering/workflow/code-review/).
+
+## Broken `master`
+
+If you notice that pipelines for the `master` branch of [GitLab] or [GitLab FOSS] is failing (red) or broken (green as a false positive), returning the build to a passing state takes priority over everything else development related, since everything we do while tests are broken may break existing functionality, or introduce new bugs and security issues.
+
+[GitLab]: https://gitlab.com/gitlab-org/gitlab
+[GitLab FOSS]: https://gitlab.com/gitlab-org/gitlab-foss
+
+### What is a broken `master`?
+
+All tests (unit, integration, **and** E2E QA) that fail on master are treated as `~"master:broken"`.
+
+Any test failures or flakiness (either false positive or false negative) causes productivity impediments for all of engineering and our release processes.
+If a change causes new test failures, the fix to the test should be made in the same Merge Request.
+If the change causes new QA test failures, in addition to fixing the QA tests, the `package-and-qa` or `review-qa-all` job must be run to validate the fix before the Merge Request can be merged.
+
+The cost to fix test failures increases exponentially as time passes. Our aim should be to keep `master` free from failures, not to fix `master` only after it breaks.
+
+### Broken `master` service level objectives
+
+There are two phases for fixing a `~"master:broken"` issue which have a target SLO to clarify the urgency. The resolution phase is dependent on the completion of the triage phase.
+
+| Phase | Service level objective | DRI |
+| --- | --- | --- |
+| [Triage](#triage-broken-master) | 4 hours from the initial master pipeline failure until assigned `~"master:broken"` issue | Engineering Productivity team |
+| [Resolution](#resolution-of-broken-master) | 4 hours from assignment to DRI until issue is closed | Merge request author or team of merge request author |
+
+Additional details about the phases are listed below.
+
+### Triage broken master
+
+The [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity-team/) is the triage DRI for monitoring master pipeline failures, identification and communication of `~"master:broken"` issues.
+
+#### Triage DRI Responsibilities
+
+1. Monitor
+   * Pipeline failures are sent to [`#master-broken`](https://gitlab.slack.com/archives/CR6QH3D7C) and will be reviewed by the team. These reactions will be applied by the triage DRI to signal current status:
+     * `:eyes:` - signals the triage DRI is investigating a failing pipeline
+     * `:boom:` - signals the pipeline contains a **new** failure. The triage DRI will create a new `~"master:broken"` issue and reply in the thread with a link to the issue.
+     * `:fire_engine:` - signals the pipeline is failing due to a known issue. The triage DRI will reply in the thread with a link to the existing issue(s).
+     * `:retry:` - signals a system failure (e.g., Docker failure) is responsible and a retry has been triggered.
+1. Identification
+   * Create an [issue](https://gitlab.com/gitlab-org/gitlab/issues/new) based on:
+      * `master` failing for a non-flaky reason - create an issue with the following labels: `~"master:broken"`, `~"Engineering Productivity"`,`~P1`, `~S1`.
+      * `master` failing for a flaky reason that cannot be reliably reproduced - create an issue with the following labels: `~"failure::flaky-test"`, `~"Engineering Productivity"`,`~P2`, `~S2`.
+   * Identify the merge request that introduced the failures.
+   * Assign the issue to the `~"master:broken"` merge request author if they are available at the moment. If the author is not available, mention the team Engineering Manager and seek assistance in the `#development` Slack channel.
+     * Ask for assistance in the `#development` Slack channel if there is no
+       merge request that caused the `~"master:broken"`.
+1. Communication
+   * Communicate `~"master:broken"` in `#development`, `#backend`, and `#frontend`.
+1. (Optional) Pre-resolution
+   * If the triage DRI believes that there's an easy resolution by either:
+     * Reverting a particular merge request.
+     * Making a quick fix (for example, one line or a few similar simple changes in a few lines).
+     The triage DRI can create a merge request, assign to any available maintainer,
+     and ping the resolution DRI with a `@username FYI` message.
+     Additionally, a message can be posted in `#backend_maintainers` or `#frontend_maintainers` to get a maintainer take a look at the fix ASAP.
+
+An example of the reactions for a failure is:
+
+![pipeline failures example](pipeline-failure-emoji.png)
+
+### Resolution of broken master
+
+The merge request author of the change that broke master is the resolution DRI. In the event the merge request author is not available, the team of the merge request author will assume the resolution DRI responsibilities. If a DRI has not acknowledged or signaled working on a fix, any developer can take ownership using the reaction guidance below and assume the resolution DRI responsibilities.
+
+#### Responsibilities of the resolution DRI
+
+1. Prioritize resolving `~"master:broken"` over new bug/feature work. Resolution options include:
+   * Revert the merge request which caused the broken master. If a revert is performed,
+     create an issue to reinstate the merge request and  assign it to the author
+     of the reverted merge request.
+   * Create a new merge request to fix the failure if revert is not possible or would introduce additional risk. This should be treated as a `~P1` `~S1` issue.
+   * [Quarantine](https://docs.gitlab.com/ee/development/testing_guide/flaky_tests.html#quarantined-tests) the failing test if you can confirm that it is flaky (e.g. it wasn't touched recently and passed after retrying the failed job).
+     * Remove the `~"master:broken"` label from the issue and apply  `~"failure::flaky-test"`
+1. If the broken `master` affects any auto-deploy, add the relevant `~"Pick into auto-deploy"` label.
+1. If the broken `master` affects any stable branches (e.g. <https://gitlab.com/gitlab-org/gitlab/-/merge_requests/25274>),
+   open new merge requests **directly against the stable branches** which are
+   broken and ping the current release manager in the merge requests to avoid
+   delays in releases / security releases. Optionally, post a message in `#releases`.
+1. Reactions by the resolution DRI in `#development` should follow this guidance:
+   * `:eyes:` - applied by the resolution DRI (or backup) to signal acknowledgment
+   * `:construction:` - applied by the resolution DRI to signal that work is in progress on a fix
+   * `:white_check_mark:` - applied by the resolution DRI to signal the fix is complete.
+1. Communicate in `#development`, `#backend`, and `#frontend` when the fix is in
+   `master`.
+1. When `master` build was failing and the underlying problem was quarantined /
+   reverted / temporary workaround created but the root cause still needs to be
+  discovered: create a new issue with the `~"master:needs-investigation"` label
+1. Create an [issue](https://gitlab.com/gitlab-org/quality/team-tasks/issues/new) for the [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity-team/) describing how the `~"master:broken"` could have been prevented in the Merge Request pipeline.
+
+#### Responsibilities of authors and maintainers
+
+Once the resolution DRI announces that `master` is fixed:
+
+* Maintainers should start a new Pipeline for Merged Results (for canonical MRs)
+  and enable "Merge When Pipeline Succeeds" (MWPS).
+* (For forks only) Authors should rebase their open merge requests (since
+  [Pipeline for Merged Results](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/#pipelines-for-merged-results-premium)
+  isn't supported in these cases).
+
+### Maintaining throughput during broken master
+
+When `master` is red, we need to try hard to avoid introducing **new** failures,
+since it's easy to lose confidence if it stays red for a long time.
+
+Most merge requests don't need to be merged *immediately*, so the priority should
+always be maintaining the stability of `master` over keeping a high throughput.
+
+In the rare cases where `master` is broken for more than 4 hours (from the
+notification in `#master-broken`), maintainers are allowed to merge with a
+broken pipeline if all the following conditions are met:
+
+1. The failures also happen on `master` **for at least 4 hours**.
+1. Only one or two tests are failing and they are not directly related to
+   functionality touched by the merge request.
+1. There is [an issue labelled `~"master:broken"`][broken-master-issues] for it,
+   see the "Triage DRI Responsibilities" steps above for more details
+1. That issue is already assigned to someone
+1. The assignee is actively working on it (i.e. they are not on PTO, at a conference, etc.)
+
+Before asking a maintainer to review, or before merging the merge request,
+add a comment mentioning that the failure happens in `master`,
+and post a reference to the issue. For instance:
+
+```
+Failure in <JOB_URL> happens in `master` and is being worked on in #XYZ.
+```
+
+Whether the merge requests pipeline is failing or not, if `master` is red:
+
+* For canonical merge requests, always start a new merge request pipeline and check that the
+  failure happens in `master` with a link to the `~"master:broken"` issue before
+  clicking the red "Merge" button.
+* For forks, check how far behind `master` the source branch is. If it's more
+  than 100 commits behind `master`, ask the author to rebase it before merging.
+
+This reduces the chance of introducing new failures, and also acts to slow
+(but not stop) the rate of change in `master`, helping us to make it green again.
+
+[broken-master-issues]: https://gitlab.com/groups/gitlab-org/-/issues?state=all&label_name[]=master%3Abroken
+
+## Security Issues
+
+Security issues are managed and prioritized by the security team. If you are assigned to work on a security issue in a milestone,
+you need to follow the [Security Release process](https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/process.md).
+
+If you find a security issue in GitLab, create a **confidential issue** mentioning the relevant security and engineering managers, and post about it in `#security`.
+
+If you accidentally push security commits to `gitlab-org/gitlab`, we recommend that you:
+
+1. Delete the relevant branch ASAP
+2. Inform a release manager in `#releases`. It may be possible to execute a garbage collection (via the Housekeeping task in the repository settings) to remove the commits.
+
+For more information on how the entire process works for security releases, see the
+[documentation on security releases](https://gitlab.com/gitlab-org/release-tools/blob/master/doc/security.md).
+
+## Basics
+
+1. Start working on an issue you’re assigned to. If you’re not assigned to any issue, find the issue with the highest priority and relevant label you can work on, and assign it to yourself. [You can use this query, which sorts by priority for the started milestones][priority-issues], and filter by the label for your team.
+1. If you need to schedule something or prioritize it, apply the appropriate labels (see [Scheduling issues](#scheduling-issues)).
+1. If you are working on an issue that touches on areas outside of your expertise, be sure to mention someone in the other group(s) as soon as you start working on it. This allows others to give you early feedback, which should save you time in the long run.
+1. When you start working on an issue:
+  - Add the `workflow::In dev` label to the issue.
+  - Create a merge request (MR) by clicking on the **Create merge request** button in the issue. This creates a MR with the labels, milestone and title of the issue. It also relates the just created MR to the issue.
+  - Remove the `Closes #issue_id` from the MR description, to prevent auto closing of the issue after merging.
+  - Assign the MR to yourself.
+  - Work on the MR until it is ready, it meets GitLab's [definition of done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done), and the pipeline succeeds.
+  - Edit the description and click on the **Remove the WIP: prefix from the title** button.
+  - Assign it to the suggested reviewer(s) from [Reviewer Roulette](https://docs.gitlab.com/ee/development/code_review.html#reviewer-roulette). If there are reviewers for multiple categories, for example: frontend, backend and database, assign all of them. Alternatively, assign someone who specifically needs to review. When assigning, also @mention them in the comments, requesting a review.
+  - (Optionally) Unassign yourself from the MR.
+     - Some may find leaving the MR assigned to themselves easier to track the MRs they are responsible for by using the built in MR button/notification icon in the GitLab navigation bar.
+  - Change the workflow label of the issue to `workflow::In review`. If multiple people are working on the issue or multiple workflow labels might apply, consider breaking the issue up. Otherwise, default to the workflow label farthest away from completion.
+  - Potentially, a reviewer offers feedback and assigns back to the author.
+  - The author addresses the feedback and this goes back and forth until all reviewers approve the MR.
+  - After approving, the reviewer in each category unassigns themselves and assigns the suggested maintainer in their category.
+  - Maintainer reviews take place with any back and forth as necessary and attempts to resolve any open threads.
+  - The last maintainer to approve the MR, follows the [Merging a merge request](https://docs.gitlab.com/ee/development/code_review.html#merging-a-merge-request) guidelines.
+  - (Optionally) Change the workflow label of the issue to `workflow::verification`, to indicate all the development work for the issue has been done and it is waiting to be deployed and verified.  We will use this label in cases where the work was requested to be verified by product OR we determined we need to perform this verification in production.
+1. You are responsible for the issues assigned to you. This means it has to ship with the milestone it's associated with. If you are not able to do this, you have to communicate it early to your manager and other stakeholders (e.g. the product manager, other engineers working on dependent issues). In teams, the team is responsible for this (see [Working in Teams](#working-in-teams)). If you are uncertain, err on the side of overcommunication. It's always better to communicate doubts than to wait.
+1. You (and your team, if applicable) are responsible for:
+  - Ensuring that your changes [apply cleanly to GitLab Enterprise Edition][ce-ee-docs].
+  - The testing of a new feature or fix, especially right after it has been merged and packaged.
+  - Creating any [relevant feature or API documentation](https://docs.gitlab.com/ee/development/documentation/workflow.html#developers)
+  - Shipping secure code, (see [Security is everyone's responsibility](#security-is-everyones-responsibility)).
+1. Once a release candidate has been deployed to the staging environment, please verify that your changes work as intended. We have seen issues where bugs did not appear in development but showed in production (e.g. due to CE-EE merge issues).
+
+Be sure to read general guidelines about [issues](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html) and [merge requests](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html).
+
+[priority-issues]: https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&milestone_title=%23started&assignee_id=None&sort=priority
+[ce-ee-docs]: https://docs.gitlab.com/ee/development/ee_features.html
+[gitlab-workflow]: /handbook/communication/#gitlab-workflow
+
+## Working in Teams
+
+For larger issues or issues that contain many different moving parts, you'll be likely working in a team. This team will typically consist of a [backend engineer](/job-families/engineering/backend-engineer/), a [frontend engineer](/job-families/engineering/frontend-engineer/), a [Product Designer](/job-families/engineering/product-designer/) and a [product manager](/job-families/product/product-manager/).
+
+1. Teams have a shared responsibility to ship the issue in the planned release.
+    1. If the team suspects that they might not be able to ship something in time, the team should escalate / inform others as soon as possible. A good start is informing your manager.
+    1. It's generally preferable to ship a smaller iteration of an issue, than ship something a release later.
+1. Consider starting a Slack channel for a new team, but remember to write all relevant information in the related issue(s). You don't want to have to read up on two threads, rather than only one, and Slack channels are not open to the greater GitLab community.
+1. If an issue entails frontend and backend work, consider separating the frontend and backend code into separate MRs and merge them independently under [feature flags](https://docs.gitlab.com/ee/development/feature_flags.html). This will ensure frontend/backend engineers can work and deliver independently.
+    1. It's important to note that even though the code is merged behind a feature flag, it should still be production ready and continue to hold our [definition of done](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done).
+    1. A separate MR containing the integration, documentation (if applicable) and removal of the feature flags should be completed in parallel with the backend and frontend MRs, but should only be merged when both the frontend and backend MRs are on the master branch.
+
+In the spirit of [collaboration](/handbook/values/#collaboration) and [efficiency](/handbook/values/#efficiency-for-the-right-group), members of teams should feel free to discuss issues directly with one another while [being respectful of others' time](/handbook/communication/#be-respectful-of-others-time).
+
+## Convention over Configuration
+
+Avoid adding configuration values in the application settings or in
+`gitlab.yml`. Only add configuration if it is absolutely necessary. If you
+find yourself adding parameters to tune specific features, stop and consider
+how this can be avoided. Are the values really necessary? Could constants be
+used that work across the board? Could values be determined automatically?
+See [Convention over Configuration](/handbook/product#convention-over-configuration) for more discussion.
+
+## Choosing Something to Work On
+
+Start working on things with the highest priority in the current milestone. The priority of items are defined under labels in the repository, but you are able to sort by priority.
+
+After sorting by priority, choose something that you’re able to tackle and falls under your responsibility. That means that if you’re a frontend developer, you work on something with the label `frontend`.
+
+To filter very precisely, you could filter all issues for:
+
+- Milestone: Started
+- Assignee: None (issue is unassigned)
+- Label: Your label of choice. For instance `CI/CD`, `Discussion`, `Quality`, `frontend`, or `Platform`
+- Sort by priority
+
+[Use this link to quickly set the above parameters][priority-issues]. You'll still need to filter by the label for your own team.
+
+If you’re in doubt about what to work on, ask your lead. They will be able to tell you.
+
+## Triaging and Reviewing Code from the rest of the Community
+
+It's every [developers' responsibilities] to triage and review code contributed by the rest of the community, and work with them to get it ready for production.
+
+Merge requests from the rest of the community should be labeled with the `Community Contribution` label.
+
+When evaluating a merge request from the community, please ensure that a relevant PM is aware of the pending MR by mentioning them.
+
+This should be to be part of your daily routine. For instance, every morning you could triage new merge requests from the rest of the community that are not yet labeled `Community Contribution` and either review them or ask a relevant person to review it.
+
+Make sure to follow our [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html).
+
+[developers' responsibilities]: /job-families/engineering/backend-engineer/#responsibilities
+
+## Workflow Labels
+
+Labels are described in our [Contribution guide][contrib-labels-guide].
+
+[contrib-labels-guide]: https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md
+
+## Working with GitLab.com
+
+GitLab.com is a very large instance of GitLab Enterprise Edition. It runs release candidates for new releases, and sees a lot of issues because of the amount of traffic it gets. There are several internal tools available for developers at GitLab to get data about what's happening in the production system:
+
+### Performance Data
+
+There is extensive [monitoring](https://dashboards.gitlab.com/) publicly available for GitLab.com. For more on this and related tools, see the [monitoring handbook](/handbook/engineering/monitoring/).
+
+More details on [GitLab Profiler](http://redash.gitlab.com/dashboard/gitlab-profiler-statistics) are also found in the [monitoring performance handbook](/handbook/engineering/monitoring/).
+
+### Error Reporting
+
+- [Sentry](https://sentry.gitlab.net/) is our error reporting tool
+- [log.gprd.gitlab.net](https://log.gprd.gitlab.net/) has production logs
+- [prometheus.gitlab.com](https://prometheus.gitlab.com/alerts) has alerts for the [production team](/handbook/engineering/infrastructure/#production-team)
+
+### Feature Flags
+
+If you've built feature flags into your code, be sure to read about [how to use the feature flag to test a feature on GitLab.com](https://docs.gitlab.com/ee/development/feature_flags.html).
+
+#### Feature Flag Removal
+
+Once a feature has been thoroughly tested the [feature flag](https://docs.gitlab.com/ee/development/feature_flags/index.html) should be removed. The engineer who implemented the feature flag should ensure that it gets removed. 
+
+## Scheduling Issues
+
+GitLab Inc has to be selective in working on particular issues. We have a limited capacity to work on new things. Therefore, we have to schedule issues carefully.
+
+Product Managers are responsible for scheduling all issues in their respective [product areas](/handbook/product/categories/#devops-stages), including features, bugs, and tech debt. Product managers alone determine the [prioritization](/handbook/product/product-management/process/#prioritization), but others are encouraged to influence the PMs decisions. The UX Lead and Engineering Leads are responsible for allocating people making sure things are done on time. Product Managers are _not_ responsible for these activities, they are not project managers.
+
+Direction issues are the big, prioritized new features for each release. They are limited to a small number per release so that we have plenty of capacity to work on other important issues, bug fixes, etc.
+
+If you want to schedule an `Accepting merge requests` issue, please remove the label first.
+
+Any scheduled issue should have a team label assigned, and at least one type label.
+
+### Requesting Something to be Scheduled
+
+To request scheduling an issue, ask the [responsible product manager](/handbook/product/categories/#devops-stages)
+
+We have many more requests for great features than we have capacity to work on.
+There is a good chance we’ll not be able to work on something.
+Make sure the appropriate labels (such as `customer`) are applied so every issue is given the priority it deserves.
+
+## Product Development Timeline
+
+[![](gitlab-release-timelines.png)](https://gitlab.com/gitlab-org/gitlab-ce/snippets/1731455)
+
+Teams (Product, UX, Engineering) continually work on issues according to their respective workflows.
+There is no specified process whereby a particular person should be working on a set of issues in a given time period.
+However, there are specific deadlines that should inform team workflows and prioritization.
+Suppose we are talking about milestone `m` that will be shipped in month `M` (on the 22nd).
+We have the following deadlines:
+
+- By month `M-1, 4th` (at least 14 days before milestone `m` begins):
+  - Draft of the issues that will be included in the next release (released 22nd of next month).
+  - Start capacity and technical discussions with engineering/UX.
+- By month `M-1, 13th` (at least 5 days before milestone `m` begins):
+  - Release scope is finalized. In-scope issues marked with milestone `m`; label `deliverable` applied.
+  - Kickoff document is updated with relevant items to be included.
+- By month `M-1, 16th` (at least 1 day before milestone `m` begins):
+  - [Group Kickoffs calls](/handbook/product/product-management/process/#kickoff-meetings) recorded and uploaded.
+- On month `M-1, 18th` (or next business day, milestone `m` begins): **Kick off!** 📣
+  - [Company Kickoff](#kickoff) call live streamed.
+  - Development on milestone `m` begins
+- By month `M, 17th`:
+  - Completed `m` issues with docs have been merged into master.
+  - Feature flags should be flipped from default off to default on after verification to be in the `m` release. See [feature flags](https://docs.gitlab.com/ee/development/feature_flags/process.html).
+  - Merging by the 17th **does not guarantee** that the feature will be in the `m` release. See [release timelines](https://about.gitlab.com/handbook/engineering/releases/#timelines).
+  - Individual [release post entries](/handbook/marketing/blog/release-posts/index.html#contributing-to-a-section) merged for all relevant issues.
+  - By end of the day, milestone `m` is expired.
+- On or around `M, 19th`:
+  - [Team Retrospectives](/handbook/engineering/management/team-retrospectives/) should happen so they can inform the [public retrospective](#retrospective)
+- On `M, 19th`, or `M, 20th`, or `M, 21st`:
+  - [Milestone Cleanup](#milestone-cleanup) runs on the schedule at [Milestone cleanup schedule](#milestone-cleanup-schedule)
+- On month `M, 22nd`: **Release Day** 🚀
+  - Release shipped to production.
+  - Release post published.
+- On month `M, 23rd` (the day after the release):
+  - The patch release process for milestone `m` starts. This includes regular and security patch releases.
+  - All unfinished `m` issues and merge requests are automatically moved to milestone `m+1`, with the exception of `~security` issues.
+- On or around `M, 26th`:
+  - [Product plans](/handbook/product/product-management/process/#managing-your-product-direction) are to update to reflecting previous and current releases, including category epics and direction pages.
+- By month `M+1, 4th` (within a few weeks of milestone `m` ending):
+  - [Public Retrospective](#retrospective) is held.
+
+Refer to [release post due dates](/handbook/marketing/blog/release-posts/#due-dates) for additional deadlines.
+
+Note that deployments to GitLab.com are more frequent than monthly major/minor releases on the 22nd.
+See [auto deploy transition](https://gitlab.com/gitlab-org/release/docs/blob/21cbd409dd5f157fe252f254f3e897f01908abe2/general/deploy/auto-deploy-transition.md#transition) guidance for details.
+
+## Updating Issues Throughout Development
+
+Team members use labels to track issues throughout development. This gives visibility to other developers, product managers, and designers, so that they can adjust their plans during a monthly iteration. An issue should follow these stages:
+
+- `workflow::In dev`: A developer indicates they are developing an issue by applying the `In dev` label.
+- `workflow::In review`: A developer indicates the issue is in code review and UX review by removing the `In dev` label, and applying the `In review` label.
+- `workflow::verification`: A developer indicates that all the development work for the issue has been done and is waiting to be deployed and verified.
+
+When the issue has been verfied and everything is working, it can be closed.
+
+## Kickoff
+
+At the beginning of each release, we have a kickoff meeting, publicly livestreamed to YouTube. In the call, the Product Development team (PMs, Product Designers, and Engineers) communicate with the rest of the organization which issues are in scope for the upcoming release. The call is structured by [product area](/handbook/product/categories/#devops-stages) with each PM leading their part of the call.
+
+The notes are available in a publicly-accessible [Google doc](https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit?usp=sharing). Refer to the doc for details on viewing the livestream.
+
+## Retrospective
+
+After each release, we have a retrospective meeting, publicly livestreamed to YouTube. We discuss what went well, what went wrong, and what we can improve for the next release.
+
+The format for the retrospective is as follows. The notes for the retrospective
+are kept in a publicly-accessible [Google
+doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit?usp=sharing).
+In order to keep the call on time and to make sure we leave ample room to
+discuss how we can improve, the moderator may move the meeting forward with the
+timing indicated:
+
+1. **How we improved since last month.** 2 minutes. The moderator will review
+   the improvements we identified in the last retrospective and discuss progress
+   on those items.
+1. **What went well this month.** 5 minutes. Teams are encouraged to celebrate
+   the ways in which we exceeded expectations either individually or as a team.
+1. **What went wrong this month.** 5 minutes. Teams are encouraged to call out
+   areas where we made mistakes or otherwise didn't meet our expectations as a
+   team.
+1. **How can we improve?** 18 minutes. Teams are encouraged to discuss the
+   lessons we learned in this release and how we can use those learnings to
+   improve. Any action items should be captured in a GitLab issue so they can
+   receive adequate attention before the next release.
+
+The purpose of the retrospective is to help Engineering at GitLab learn and
+improve as much as possible from every monthly release. In line with our value
+of [transparency](/handbook/values/#transparency), we livestream the meeting to
+YouTube and monitor chat for questions from viewers. Please check the
+[retrospective notes](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit?usp=sharing)
+for details on joining the livestream.
+
+### Triaging retrospective improvements
+
+At the end of each retrospective the [Engineering Productivity team](/handbook/engineering/quality/#engineering-productivity-team) is responsible for triaging improvement items identified from the retrospective.
+This is needed for a single owner to be aware of the bigger picture technical debt and backstage work. The actual work can be assigned out to other teams or engineers to execute.
+
+## Milestone Cleanup
+
+Engineering Managers are responsible for capacity planning and scheduling for their respective teams with guidance from their counterpart Product Managers.
+
+To ensure hygiene across Engineering, we run scheduled pipelines to move
+unfinished work (open issues and merge requests) with the expired milestone to
+the next milestone, and label `~"missed:x.y"` for the expired milestone.
+Additionally, label `~"missed-deliverable"` whenever `~"Deliverable"` is
+presented.
+
+This is currently implemented as part of our [automated triage operations](https://gitlab.com/gitlab-org/quality/triage-ops/blob/master/policies/move-milestone-forward.yml). Additionally, issues with the `~Deliverable` label which have a milestone beyond current +1, will have the `~Deliverable` label removed.
+
+We keep the milestone open for 3 months after it's expired, based on the [release and maintenance policy](https://docs.gitlab.com/ee/policy/maintenance.html).
+
+The milestone cleanup is currently applied to the [following groups and projects](https://gitlab.com/gitlab-org/quality/triage-ops/blob/master/.gitlab/ci/missed-resources.yml):
+* [GitLab](https://gitlab.com/gitlab-org/gitlab), [schedule](https://gitlab.com/gitlab-org/quality/triage-ops/pipeline_schedules/10515/edit)
+* [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner), [schedule](https://gitlab.com/gitlab-org/quality/triage-ops/pipeline_schedules/29681/edit)
+* [GitLab Gitaly](https://gitlab.com/gitlab-org/gitaly), [schedule](https://gitlab.com/gitlab-org/quality/triage-ops/pipeline_schedules/29054/edit)
+* [GitLab charts](https://gitlab.com/gitlab-org/charts), [schedule](https://gitlab.com/gitlab-org/quality/triage-ops/pipeline_schedules/39481/edit)
+* [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa), [schedule](https://gitlab.com/gitlab-org/quality/triage-ops/pipeline_schedules/29050/edit)
+* [Omnibus GitLab](https://gitlab.com/gitlab-org/omnibus-gitlab), [schedule](https://gitlab.com/gitlab-org/quality/triage-ops/pipeline_schedules/31880/edit) (only moving milestone for now, not labelling)
+
+Milestones closure is in the remit of [the Delivery team](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery/). At any point in time a release might need to be created for an active milestone,and once that is no longer the case, the Delivery team closes the milestone.
+
+### Milestone cleanup schedule
+
+- On `M, 19th` if `M, 22nd` is Monday:
+- On `M, 20th` if `M, 22nd` is Friday:
+- On `M, 20th` or `M, 21st` whichever is Friday, if `M, 22nd` is on weekend:
+  - Open issues and merge requests will be moved to the next milestone, and
+    labelled with `~"missed:x.y"`.
+  - `~"missed-deliverable"` will also be added whenever `~"Deliverable"`
+    is presented.
+
+Milestones are closed when the Delivery team no longer needs to create a backport release for a specific milestone.
+
+## Kickoff and Retrospective Livestream Instructions
+
+Before the meeting starts, remind people who plan to speak to join the Google Hangout earlier, since there is a 50 user limit.
+
+Several minutes before the scheduled meeting time, follow the [livestreaming instructions](/handbook/communication/youtube/#how-to) to start a Google Hangout using the `Now` setting. Paste the Google Hangout invite link in the Google doc.
+
+At the scheduled meeting time, start broadcasting live to YouTube. Begin the meeting.
+
+## Use Group Labels and Group Milestones
+
+When working in GitLab (and in particular, the GitLab.org group), use group labels and group milestones as much as you can. It is easier to plan issues and merge requests at the group level, and exposes ideas across projects more naturally. If you have a project label, you can promote it to a group milestone. This will merge all project labels with the same name into the one group label. The same is true for promoting group milestones.
+
+## Technical debt
+
+We definitely don't want our technical debt to grow faster than our code base. To prevent this from happening we should consider not only the impact of the technical debt but also a contagion. How big and how fast is this problem going to be over time? Is it likely a bad piece of code will be copy-pasted for a future feature? In the end, the amount of resources available is always less than amount of technical debt to address.
+
+To help with prioritization and decision-making process here, we recommend thinking about contagion as an interest rate of the technical debt. There is [a great comment](http://disq.us/p/1ros2o9) from the internet about it:
+
+> You wouldn't pay off your $50k student loan before first paying off your $5k credit card and it's because of the high interest rate. The best debt to pay off first is one that has the highest loan payment to recurring payment reduction ratio, i.e. the one that reduces your overall debt payments the most, and that is usually the loan with the highest interest rate.
+
+Technical debt is prioritized like [other technical decisions](/handbook/engineering/#prioritizing-technical-decisions) in [product groups](/company/team/structure/#product-groups) by [product management](/handbook/product/product-management/process/#prioritization). 
+
+For technical debt which might span, or fall in gaps between groups they should be brought up for a [globally optimzed](/handbook/values/#global-optimization) prioritization in [retrospectives](/handbook/engineering/management/team-retrospectives/) or directly with the appropriate member of the [Product Leadership team](/handbook/product/leadership/). Additional avenues for addressing technical debt outside of product groups are [Rapid Action issues](/handbook/engineering/development/#rapid-action-issue) and [working groups](/company/team/structure/working-groups/).
+
+## UX debt
+
+Sometimes features release to production without meeting design and [Pajamas](https://design.gitlab.com/) specifications. We create UX debt issues to capture these discrepancies. For the same reasons as technical debt, we don't want UX debt to grow faster than our code base.
+
+We apply the `UX debt` label to these issues, and it is prioritized like [other technical decisions](/handbook/engineering/#prioritizing-technical-decisions) in [product groups](/company/team/structure/#product-groups) by [product management](/handbook/product/product-management/process/#prioritization). You can see the number of UX debt issues on the [UX Debt dashboard](https://app.periscopedata.com/app/gitlab/641753/UX-Debt).
+
+As with [technical debt](#technical-debt), UX debt should be brought up for [globally optimized](/handbook/values/#global-optimization) prioritization in [retrospectives](/handbook/engineering/management/team-retrospectives/) or directly with the appropriate member of the [Product Leadership team](/handbook/product/leadership/).
+
+## Security is everyone's responsibility
+
+[Security](/security/) is our top priority. Our Security Team is raising the bar on security every day to protect users' data and make GitLab a safe place for everyone to contribute. There are many lines of code, and Security Teams need to scale. That means shifting security left in the [Software Development LifeCycle (SDLC)](/stages-devops-lifecycle/). Being able to start the security review process earlier in the software development lifecycle means we will catch vulnerabilities earlier, and mitigate identified vulnerabilities before the code is merged. We are fixing the obvious security issues before every merge, and therefore, scaling the security review process. Our workflow includes a check and validation by the reviewers of every merge request, thereby enabling developers to act on identified vulnerabilities before merging. As part of that process, developers are also empowered to reach out to the Security Team to discuss the issue at that stage, rather than later on, when mitigating vulnerabilities becomes more expensive. After all, security is everyone's job. See also our [Security Paradigm](/direction/secure/#security-paradigm)
+
+## Rapid Engineering Response
+
+From time to time, there are occasions that engineering team must act quickly in response to urgent issues. This section describes how the engineering team handles certain kinds of such issues.
+
+### Scope
+
+Not everything is urgent. See below for a non-exclusive list of things that are in-scope and not in-scope. As always, use your experience and judgment, and communicate with others.
+
+* In Scope
+  * Last-minute release blocking bug or security patch before an imminent release.
+  * High severity (S1/P1) security issues. Refer to [security severity and priority](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues).
+  * Highest priority and severity customer issues based on the [priority and severity definitions](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#priority-labels).
+* Not In Scope
+  * An operational issue of GitLab.com or a self managed customer environment. This falls under the [on-call](/handbook/on-call/index.html) process.
+  * Self developed and maintained tools that are not officially supported products by GitLab.
+  * Feature request by a specific customer.
+
+### Process
+
+1. Person requesting Rapid Engineering Response creates an issue supplying all known information and applies [priority and severity](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#priority-labels) (or [security severity and priority](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)) to the best of their ability.
+1. Person requesting Rapid Engineering Response raises the issue to their own manager and the [subject matter domain](/handbook/product/categories/index.html) engineering manager (or the delegation if OOO).
+   1. In case a specific group cannot be determined, raise the issue to the Director of Engineering (or the delegation if OOO) of the [section](/handbook/product/categories/index.html).
+   1. In case a specific section cannot be determined, raise the issue to the Sr. Director of Development (or the delegation if OOO).
+1. The engineering sponsor (subject matter Manager, Director, and/or Sr. Director) invokes all stakeholders of the subject matter as a rapid response task force to determine the best route of resolution:
+   1. Engineering manager(s)
+   1. Product Management
+   1. QE
+   1. UX
+   1. Docs
+   1. Security
+   1. Support
+   1. Distribution engineering manager
+   1. Delivery engineering manager (Release Management)
+1. Adjust [priority and severity](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#priority-labels) or [security severity and priority](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) if necessary, and work collaboratively on the determined resolution.
+
+## Availability and Performance Refinement
+
+To timely address high impact availability and performance issues, a weekly refinement session is held by the Infrastructure, Development, and QE teams jointly to triage issues for prioritization and planning with the Product team.
+A high impact issue has a direct measurable impact on GitLab.com [service levels or error budgets](https://about.gitlab.com/handbook/engineering/infrastructure/library/service-levels-error-budgets/).
+
+### Scope
+
+There are two issue boards being reviewed in this refinement exercise.
+
+1. [GitLab.com Infra/Dev Triage](https://gitlab.com/groups/gitlab-org/-/boards/1193197?label_name[]=gitlab.com&label_name[]=infradev).
+1. [Performance Refinement](https://gitlab.com/groups/gitlab-org/-/boards/1233204?label_name%5B%5D=performance-refinement).
+
+### Process
+
+1. To participate in the weekly refinement, ask your engineering director to forward the invite of *Availability & Performance Refinement* meeting which is at 16:30 UTC (summer) or 17:30 UTC (winter) every Tuesday. Here is the [meeting agenda](https://docs.google.com/document/d/1SanPUz86cIyRQR5kRmXyCLLE8sZVpx0auu_W6jY94W4/edit?usp=sharing).
+1. To nominate issues to either of the boards above:
+   1. GitLab.com Infra/Dev Triage: use the label `infradev`.
+   1. Assign a severity on the issue to help asses the priority assignment for the refinement session.
+   1. Ensure that the issue clearly explains the problem, the (potential) impact on GitLab.com's availability, and ideally, clearly defines a proposed solution to the problem.
+   1. Performance Refinement: use the label `performance-refinement`.
+1. For the issues under the **Open** column:
+   1. An engineering manager will be assigned if either the `Milestone` or the label `workflow::ready for development` is missing.
+   1. Engineering manager brings assigned issue(s) to the Product Manager for prioritization and planning.
+   1. Engineering manager unassigns themselves once the issue is planned for an iteration, i.e. associated with a `Milestone` and the label `workflow::ready for development`.
