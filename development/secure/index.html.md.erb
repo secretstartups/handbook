@@ -1,0 +1,302 @@
+---
+layout: handbook-page-toc
+title: Secure Sub-Department
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Vision
+
+To provide content and tools to support the best possible assessment at the earliest possible moment.
+
+For more details about the vision for this area of the product, see the [Secure stage] page.
+
+[Secure stage]: /stages-devops-lifecycle/secure/
+
+## Mission
+
+### Do no harm
+We will never knowingly compromise the security posture of your application.
+### Be a good global citizen
+We will give back to the Open Source community
+We will provide Responsible Disclosure
+We will share our knowledge and findings at public speaking events
+
+The Secure team works on GitLab's [Secure stage].
+
+[Secure stage]: /stages-devops-lifecycle/secure/
+
+## Team Members
+
+The following people are permanent members of the Secure Sub-Department:
+<%=  direct_team(role_regexp: /(Director|Distinguished).*[,&] Secure/, manager_role: 'Director of Engineering, Secure') %>
+
+### Composition Analysis
+<%=  direct_team(role_regexp: /Engineer/, manager_role: 'Backend Engineering Manager, Secure:Composition Analysis') %>
+
+### [Static Analysis](static-analysis/)
+<%=  direct_team(role_regexp: /Engineer/, manager_role: 'Backend Engineering Manager, Secure:Static Analysis') %>
+
+### Dynamic Analysis
+<%=  direct_team(role_regexp: /Engineer/, manager_role: 'Backend Engineering Manager, Secure:Dynamic Analysis') %>
+
+### Frontend Team
+<%= direct_team(role_regexp: /[,&] Secure/, manager_role: 'Frontend Engineering Manager, Secure') %>
+
+### Vulnerability Research
+<%= direct_team(role_regexp: /Vulnerability Research/, manager_role: 'Engineering Manager, Vulnerability Research') %>
+
+## Stable Counterparts
+
+The following members of other functional teams are our stable counterparts:
+
+<%= stable_counterparts(role_regexp: /[,&] Secure/, direct_manager_role: nil, other_manager_roles: ['Backend Engineering Manager, Secure:Static Analysis', 'Backend Engineering Manager, Secure:Dynamic Analysis', 'Backend Engineering Manager, Secure:Composition Analysis', 'Frontend Engineering Manager, Secure', 'Director of Engineering, Secure']) %>
+
+### Secure Team
+
+The Secure Team (previously known as the _Security Products Team_) is responsible for the security checks features in the GitLab platform, and maps to the [secure](/handbook/product/categories/#secure) transversal stage.
+You can learn more about our approach on the [Secure Vision](/direction/secure/) page.
+
+The features provided by the Secure Team are mostly present at the pipeline level, and mostly available as [Docker](https://www.docker.com/) images.
+This particularity shapes our processes and QA, which differs a bit from the other backend teams.
+
+#### Security Products
+
+We still refer to "_Security Products_" as the tools developed by the Secure Team. Hence the home of our projects in GitLab: [https://gitlab.com/gitlab-org/security-products/](https://gitlab.com/gitlab-org/security-products/)
+
+#### Domains of Expertise
+
+##### SAST
+
+[SAST](https://docs.gitlab.com/ee/user/application_security/sast/) (_Static Application Security Testing_) refers to static code analysis.
+GitLab leverages the power of various opensource tools to provide a wide range of checks for many languages and support.
+These tools are wrapped inside docker images which ensure we get a standard output from there.
+An orchestrator, [developed by GitLab](https://gitlab.com/gitlab-org/security-products/sast), is in charge of running these images, and gathering all the data needed to generate the final report.
+
+##### DAST
+
+[DAST](https://docs.gitlab.com/ee/user/application_security/dast/) (_Dynamic Application Security Testing_) is used to hit a live application.
+Because some vulnerabilities can only be detected once all the code is actually running, this method complements the static code analysis.
+DAST is relying on [OWASP Zed Attack Proxy Project](https://gitlab.com/gitlab-org/security-products/zaproxy), modified by GitLab to enable authentication.
+
+##### Dependency Scanning
+
+[Dependency Scanning](https://docs.gitlab.com/ee/user/application_security/dependency_scanning/) is used to detect vulnerabilities introduced by external dependencies in the application.
+Because a large portion of the code shipped to production is actually coming from third-party libraries, it's important to monitor them as well.
+Dependency Scanning is relying mostly on the Gemnasium engine.
+
+##### Container Scanning
+
+[Container Scanning](https://docs.gitlab.com/ee/user/application_security/container_scanning/) is used when the application is shipped as a Docker image.
+It's very common to build the final image on top of an existing one, which must be checked like every other portion of the application.
+For that, Container Scanning is relying on [klar](https://github.com/optiopay/klar) and [clair server](https://github.com/quay/clair).
+
+
+##### License Compliance
+
+[License Compliance](https://docs.gitlab.com/ee/user/application_security/license_compliance/) helps with the licenses introduced by third-party libraries in the application.
+Licence management relies on the [LicenseFinder](https://github.com/pivotal-legacy/LicenseFinder) gem.
+
+##### Vulnerability Research
+
+The [Vulnerability Research](vulnerability_research.html) team's purpose is 
+to perform research and develop proofs of concepts that increase the
+capabilities and effectiveness of the
+[Secure stage](https://about.gitlab.com/stages-devops-lifecycle/secure/).
+
+#### Label Usage
+
+If you are submitting an issue about a Secure Stage feature, use `~devops::secure` and one of the following group labels to get the issue in front of the most appropriate team members.
+
+| Label                            | Use                                                                          |
+|----------------------------------|------------------------------------------------------------------------------|
+| `~devops::secure`                | All issues related to the Secure Stage                                       |
+<% data.categories\
+    .filter{|k, v| v.stage == 'secure' && v.label }\
+    .values\
+    .group_by{|v| v.label }
+    .each do |label, secure_cat_list| %>
+| `~<%= label %>` | <%= secure_cat_list.map{|c| c.name }.join(', ') %>
+<% end %>
+
+Additional labels should be added according to the [Workflow Labels Documentation](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#workflow-labels).
+
+#### Delineate Secure and Defend
+
+It is important to delineate who the EM and PM DRIs are for every functionality, especially where this may not be obvious.  It is documented on a dedicated [delineation page](../defend/delineate_secure_defend.html).
+
+
+#### Release process
+
+Our release process is specified in this [project](https://gitlab.com/gitlab-org/security-products/release). The vulnerability database is [updated on a regular basis](https://docs.gitlab.com/ee/user/application_security/#maintenance-and-update-of-the-vulnerabilities-database).
+
+For [individual analyzers](https://gitlab.com/gitlab-org/security-products/analyzers/), the reviewer who merges the Merge Request is responsible for creating the relevant tag, [per our versioning and release process](https://gitlab.com/gitlab-org/security-products/analyzers/common#versioning-and-release-process).
+In the event that they are unwilling or unable, they should request another reviewer with merge access release on their behalf.
+
+#### Skills
+
+Because we have a wide range of domains to cover, it requires a lot of different expertises and skills:
+
+
+| Technology skills | Areas of interest                             |
+|-------------------|-----------------------------------------------|
+| Ruby on Rails     | Backend development                           |
+| Go                | SAST, Dependency Scanning, Container Scanning |
+| Python            | DAST                                          |
+| SQL (PostgreSQL)  | Dependency Scanning / all                     |
+| Docker            | Container Scanning / all                      |
+
+Our team also must have a good sense of security, with at least basic skills in [application security](https://en.wikipedia.org/wiki/Application_security).
+
+We provide tools for many different languages (ex: [sast](https://docs.gitlab.com/ee/user/application_security/sast/#supported-languages-and-frameworks), [dependency scanning](https://docs.gitlab.com/ee/user/application_security/dependency_scanning/#supported-languages-and-dependency-managers), [license compliance](https://docs.gitlab.com/ee/user/application_security/license_compliance/#supported-languages-and-package-managers)). It means our team is able to understand the basics of each of these languages, including their package managers. We maintain [tests projects](https://gitlab.com/gitlab-org/security-products/tests) to ensure our features are working release after release for each of them.
+
+#### QA process
+
+Our [release](https://gitlab.com/gitlab-org/security-products/release) project also defines our [QA process](https://gitlab.com/gitlab-org/security-products/release/blob/master/docs/qa_process.md).
+
+#### Error Monitoring
+500 errors on gitlab.com are reported to Sentry. Below are some quick links to pull up Sentry errors related to Secure.
+
+* StoreSecurityReports Worker - https://sentry.gitlab.net/gitlab/gitlabcom/?query=is%3Aunresolved+StoreSecurityReportsWorker&statsPeriod=14d
+* SyncSecurityReportsToReportApprovalRules Worker - https://sentry.gitlab.net/gitlab/gitlabcom/?query=is%3Aunresolved+SyncSecurityReportsToReportApprovalRulesWorker&statsPeriod=14d
+* Vulnerabilities - https://sentry.gitlab.net/gitlab/gitlabcom/?query=is%3Aunresolved+vulnerabilities&statsPeriod=14d
+
+#### Brainstorming sessions
+
+Our team occasionally schedules synchronous brainstorming sessions as a method of deep-diving on a specific topic.
+This approach can be useful in breaking down complexity and deriving actionable steps for problems that lack
+definition.
+
+We tend to schedule these on a weekly cadence with a rotating timeslot to accommodate team members in
+different timezones. If a topic is not agreed upon prior to a given week, the slot is canceled
+to avoid unnecessary meetings. These slots can be viewed on the Secure Stage Team Calendar.
+
+These are purposefully freeform to allow for creative problem solving.
+When possible, time should be reserved for a list of actions to be taken from the open discussion.
+
+Brainstorming Sessions Doc (Internal): https://docs.google.com/document/d/179JL5RzbgSIz2XZewbYn79cuX7_vUtte_TcoLwUUC5o/edit#
+
+*Examples of previous brainstorming topics:*
+ - [Reduce false positives in Security reports](https://gitlab.com/gitlab-org/gitlab/issues/33934)
+ - How to manage occurrence uniqueness identification in the common report format? (CompareKey)
+ - [One file with syntax errors should not stop SAST and similar kind of jobs from running](https://gitlab.com/gitlab-org/gitlab/issues/7102)
+
+#### Product Documentation
+
+As the product evolves, it is important to maintain accurate and up to date documentation for our users. If it is not documented, customers may not know a feature exists.
+
+To update the documentation, the following process should be followed:
+
+1. When an issue has been identified as needing documentation, add the `~Documentation` label, outline in the description of the issue what documentation is needed, and assign a Backend Engineer and Technical Writer(TW) to the issue (find the appropriate TW by searching the [product categories](/handbook/product/categories/)).
+1. If the task is documentation only, apply a `~Px` label.
+1. For documentation around features or bugs, a backend engineer should write the documentation and work with the technical writer for editing. If the documentation only needs styling cleanup, clarification, or reorganization, this work should be lead by the Technical Writer with support from a BE as necessary.  The availability of a technical writer should in no way hold up work on the documentation.
+[Further information on the documentation process](https://docs.gitlab.com/ee/development/documentation/feature-change-workflow.html).
+
+#### Async Daily Standups
+
+Since we are a [remote](/company/culture/all-remote/) company, having daily standup meetings would not make any sense, since we're not all in the same timezone.
+That's why we have async daily standups, where everyone can give some insights into what they did yesterday, what they plan to do today, etc.
+For that, we rely on the [geekbot](https://geekbot.io/) slack plugin to automate the process.
+
+##### Standup messages format
+
+- Use the "`description in backquote` + `[link to issue](#)`" format when mentioning issues in your standup report.
+- Prepend CI status icons to the answer lines for `What did you do since yesterday?` to denote the current state:
+  - ![Accomplished](img/ci-success.svg "Task accomplished") for successfully accomplished tasks (`:ci_passing:` emoji)
+  - ![Overdue](img/ci-failed.svg "Task overdue") for tasks that were due on some period of time but were not accomplished (`:ci_failing:` emoji)
+  - ![In progress](img/ci-running.svg "Task in progress") for tasks currently in progress (`:ci_running:` emoji)
+  - ![Paused](img/ci-pending.svg "Task paused") for paused or postponed tasks (`:ci_pending:` emoji)
+  - any other `:ci_...` icon you find applicable
+
+**Example:**
+
+What did you do since yesterday?
+
+- ![Accomplished](img/ci-success.svg "Task accomplished") Accomplished the `Spotbugs java analyzer compareKey is not unique` [https://gitlab.com/gitlab-org/gitlab-ee/issues/10860](https://gitlab.com/gitlab-org/gitlab-ee/issues/10860)
+- ![In progress](img/ci-running.svg "Task in progress") Still working on `Allow guests to create an issue from a vulnerability` [https://gitlab.com/gitlab-org/gitlab-ee/issues/7813](https://gitlab.com/gitlab-org/gitlab-ee/issues/7813)
+- ![Overdue](img/ci-failed.svg "Task overdue") Catch-up on all emails and threads after the vacation
+
+**Slack Channels:**
+
+As our teams focus on different areas, we have Geekbot configured to broadcast to separate channels in addition to our common one at [#s_secure-standup].
+1. Composition Analysis: [#g_secure-composition-analysis-standup]
+1. Static Analysis: [#g_secure-static-analysis-standup]
+1. Dynamic Analysis: [#g_secure-dynamic-analysis-standup]
+1. Frontend: [#s_secure-frontend-standup]
+
+#### Recorded meetings
+
+Our important meetings are recorded and published on YouTube, in the [GitLab Secure Stage playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq7yUrZazEF3diazV29RRo1).
+They give a good overview of the decision process, which is often a discussion with all the stakeholders. As we are a [remote](/company/culture/all-remote/) company, these video meetings help to synchronize and take decisions faster than commenting on issues. We prefer asynchronous work, but for large features and when the timing is tight, we can detail a lot of specifications. This will make the asynchronous work easier, since we have evaluated all edge cases.
+
+#### Technical onboarding
+
+New hires should go through these steps and read the corresponding documentation when onboarding in the Secure Team.
+Every new hire will have an assigned [onboarding issue](https://gitlab.com/gitlab-org/security-products/onboarding/blob/master/.gitlab/issue_templates/Technical_Onboarding.md) that will guide them through the whole process.
+
+#### Workflow
+
+Secure uses a workflow based on the [Product Development Flow](/handbook/product-development-flow/) with some additions (which are under experiment).
+
+Specific deadlines of this workflow are defined in the [Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline).
+
+To maximize our velocity and meet our deliverables, we also follow a [refinement process for all issues](./planning/).
+
+The Product Development Flow implies the existence of queues identified with `workflow::` labels and depending on your role in the group, you may be involved in different queues.
+
+| Queue                 |  PM |  UX |  EM | Engineer |
+|-----------------------|:---:|:---:|:---:|:--------:|
+| validation backlog    |  X  |     |     |          |
+| problem validation    |  X  |  X  |     |          |
+| design                |  X  |  X  |  X  |     X    |
+| solution validation   |  X  |  X  |     |          |
+| planning breakdown    |  X  |  X  |  X  |     X    |
+| scheduling            |  X  |     |  X  |          |
+| ready for development |  X  |     |  X  |     X    |
+| In dev                |     |     |     |     X    |
+| In review             |     |     |     |     X    |
+| verification          |     |     |     |     X    |
+
+The [Product Development Flow](/handbook/product-development-flow/) guideline explains each step in detail, but here are some clarifications/additions:
+- `workflow::design`: when requested by PM and UX, the engineering team will be involved in the design step. As this can represent a significant amount of work, it is important to apply the `~backend` and/or `~frontend` labels to the issue as early as possible. EM will then assign Engineers and roughly weight the issue (or timebox it) so that this effort is taken into account when doing capacity check. Engineers assigned to `workflow::design` issues collaborate with PM, UX and EM to provide a practical solution to the problem.
+- `workflow::solution validation`: the engineering team is NOT involved in solution validation since we assume the design step already delivered a viable solution from an engineering perspective.
+- `workflow::planning breakdown`: PM, UX, and EM break down the solution into smaller implementation issues. These issues represent deliverable chunks of the solution from a user perspective. This often means that an epic is created and an MVC is defined with follow-up issues, in further iterations, to deliver the complete solution. EM can delegate this to engineers when necessary. When implementation issues are created, they can be [refined](./planning/) by the engineers. Planning breakdown issues should have `secure:refinement-backend` and/or `secure:refinement-frontend` labels to indicate needed refinement.
+- `workflow::scheduling`: PM priotizes issues in this queue to be picked up in upcoming milestones by EM. Issues remaining in this queue after EM has assigned up to their team's capacity, for a given milestone, must be moved to the next one(s).
+- `workflow::ready for development`: EM applies this label to issues that the engineering team commit to work on for a given milestone. This is based on capacity and other constraints.
+- `workflow::In dev`: Engineers apply this label when starting to work on an issue. If the issue involves multiple Merge Requests, it stays in this queue untill they are all created and in review.
+- `workflow::In review`: Merge Requests are being reviewed by reviewers and maintainers. If the issue involves multiple Merge Requests, it stays in this queue untill they are all merged.
+- `workflow::verification`: Changes have been merged and engineers are waiting for them to be deployed on the different environments (staging, canary, and production). Once deployed, engineers enable the feature flag (if any) and validate that it's working as expected.
+
+To work with these queues we leverage issue boards and relevant filters. We value asynchronous communication but it is also highly recommended to have a weekly sync meeting between PM, UX, and EM to review these queues: `design`, `solution validation`. `planning breakdown`, and `scheduling`. This ensures we keep moving issues forward and constantly have items to work on in each step of the process.
+
+##### Additional workflow information:
+
+- [Issues board](https://gitlab.com/groups/gitlab-org/-/boards/364216?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Asecure): Add a `milestone` filter with the [current milestone +1](/releases/) (the current milestone is already released).
+- [Merge Requests workflow](https://gitlab.com/gitlab-org/gitlab/blob/master/doc/development/contributing/merge_request_workflow.md)
+- [Code Review process](https://docs.gitlab.com/ee/development/code_review.html)
+
+## Coding standards and style guidelines
+
+The Secure Team follows the coding standards and style guidelines outlined in the company-wide [Contributor and Development Docs](https://docs.gitlab.com/ee/development/README.html), however, please consult the following guidelines which are specific to the Secure Team:
+
+- [Secure Team Go standards and style guidelines](https://docs.gitlab.com/ee/development/go_guide#secure-team-standards-and-style-guidelines)
+
+## Common Links
+
+ * [Secure team board]
+ * [#g_secure] in Slack
+
+## How to work with us
+
+[Secure team board]: https://gitlab.com/groups/gitlab-org/-/boards/588843?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Asecure
+
+[#g_secure]: https://gitlab.slack.com/archives/g_secure
+[#s_secure-standup]: https://gitlab.slack.com/archives/s_secure-standup
+[#g_secure-composition-analysis-standup]: https://gitlab.slack.com/archives/g_secure-composition-analysis-standup
+[#g_secure-static-analysis-standup]: https://gitlab.slack.com/archives/g_secure-static-analysis-standup
+[#g_secure-dynamic-analysis-standup]: https://gitlab.slack.com/archives/g_secure-dynamic-analysis-standup
+[#s_secure-frontend-standup]: https://gitlab.slack.com/archives/s_secure-frontend-standup

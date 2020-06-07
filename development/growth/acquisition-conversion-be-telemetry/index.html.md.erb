@@ -1,0 +1,257 @@
+---
+layout: handbook-page-toc
+title: Acquisition, Conversion, and Backend Telemetry Groups
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Vision
+
+The Acquisition, Conversion, and Backend Telemetry Groups are part of the [Growth section](/handbook/engineering/development/growth/). 
+- The Acquisition Group is responsible for promoting the value of GitLab and accelerating site visitors to transition into happy valued users of our product. 
+- The Conversion Group is responsible for continually improving the user experience in regards to making it as easy as possible for users and teams to activate and assisting them in finding value in the paid tiers primarily through trials and feature discovery moments.
+- The Telemetry Group is responsible for the collection and analysis of data to improve GitLab's product which includes being the primary caretaker of the versions app.
+
+How we work:
+- We work in accordance with our [GitLab values](/handbook/values/).
+- We work [transparently](https://about.gitlab.com/handbook/values/#transparency) with nearly everything public.
+- We get a chance to work on the things we want to work on.
+- We have a [bias for action](https://about.gitlab.com/handbook/values/#bias-for-action).
+- We make data-driven decisions.
+- Everyone can contribute to our work.
+
+**I have a question. Who do I ask?**
+Questions should start by @ mentioning the product manager for the [Acquisition Group](/handbook/product/categories/#acquisition-group), the [Conversion Group](/handbook/product/categories/#conversion-group), the [Telemetry Group](/handbook/product/categories/#telemetry-group) or by creating an issue in our [workflow board](https://about.gitlab.com/handbook/engineering/development/growth/acquisition-conversion-be-telemetry/#workflow-boards).
+
+## Team members
+
+The following people are permanent members of the Acquisition, Conversion, and Backend Telemetry Groups:
+
+<%= direct_team(manager_role: 'Backend Engineering Manager, Growth:Acquisition and Conversion and Telemetry') %>
+
+## Project management process 
+
+Our team uses a hybrid of Kanban for our project management process. This process balances the continuous flow of Kanban with GitLab's [monthly milestone release cycle](https://about.gitlab.com/handbook/marketing/blog/release-posts/#monthly-releases). 
+
+- We only work off of workflow boards which act as our single source of truth.
+- We continuously progress issues to the next workflow stage.
+- We work on both product and engineering initiatives.
+- We prioritize and estimate all issues we work on.
+- We apply milestones and labels for reporting purposes.
+- We have weekly refinement to ensure our workflow board is always kept up to date.
+- We have monthly roadmap planning sessions.
+
+### Workflow stages
+
+Our teams use the following stages defined in the [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/#workflow-summary):
+
+- `~"workflow::validation backlog"`
+- `~"workflow::problem validation"`
+- `~"workflow::design"`
+- `~"workflow::solution validation"`
+- `~"workflow::planning breakdown"`
+- `~"workflow::ready for development"`
+- `~"workflow::In dev"`
+- `~"workflow::In review"`
+- `~"workflow::staging"`
+- `~"workflow::production"`
+- `~"workflow::blocked"`
+
+We specifically pay close attention to the `Completion Criteria` and `Who Transitions Out`. We also emphasize having engineers involved earlier in the process to provide feedback in `~"workflow::design"`.
+
+### Workflow boards
+
+We use workflow boards to track issue progress. Workflow boards are our single source of truth for the status of our work. Workflow boards should be viewed at the highest group level for visibility into all nested projects in a group.
+
+There are three groups we use:
+- The [gitlab.com/gitlab-org](https://gitlab.com/gitlab-org/) group includes the [gitlab](https://gitlab.com/gitlab-org/gitlab), [customers-gitlab-com](https://gitlab.com/gitlab-org/customers-gitlab-com), and [license-gitlab-com](https://gitlab.com/gitlab-org/license-gitlab-com) projects.
+- The [gitlab.com/gitlab-com](https://gitlab.com/gitlab-com/) group includes the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com) project.
+- The [gitlab.com/gitlab-services](https://gitlab.com/gitlab-services/) group includes the [version-gitlab-com](https://gitlab.com/gitlab-services/version-gitlab-com) project.
+
+| gitlab-org | gitlab-com | gitlab-services | all groups |
+| ------ | ------ | ------ | ------ |
+| [Acquisition Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aacquisition) | [Acquisition Workflow](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aacquisition) | [Acquisition Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aacquisition) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aacquisition) |
+| [Conversion Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) | [Conversion Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) |
+| [Telemetry Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Atelemetry) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Atelemetry) | [Telemetry Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Atelemetry) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Atelemetry) |
+
+### Product and engineering initiatives
+
+The work done by our teams mainly fall into two categories: product initiatives and engineering initiatives.
+
+**Product initiatives:** This work is primarily related to driving value for our customers. This work is defined by a product manager and is outlined in the team's product roadmap.
+
+**Engineering initiatives:** This work is primarily related to driving value for internal teams. This work is defined by an engineer and can include bug fixes, follow-up issues, refactoring, career development work, or anything an engineer thinks is important enough to be worked on.
+
+### Prioritization
+
+We prioritize our product roadmap using milestone priority labels:
+
+- `~"milestone::p1"`
+- `~"milestone::p2"`
+- `~"milestone::p3"`
+- `~"milestone::p4"`
+
+Prioritization of our product roadmap is determined by our product managers. Every epic and issue that is part of a product roadmap should have a priority label. If an issue belongs to an epic, the issue priority should match the epic's priority. 
+
+We work from the highest to the lowest priority when working on product initiatives. For design prioritization, see [priority for UX issues](https://about.gitlab.com/handbook/engineering/ux/ux-designer/#priority-for-ux-issues).
+
+### Estimation
+
+We follow the [estimation process](https://about.gitlab.com/handbook/engineering/development/growth/#estimation) outlined by the Growth sub-department.
+
+### Due dates
+
+To properly set expectations for product managers and other stakeholders, our team may decide to add a due date onto an issue. Due dates are not meant to pressure our team but are instead used to communicate an expected delivery date. 
+
+We may also use due dates as a way to timebox our iterations. Instead of spending a month on shipping a feature, we may set a due date of a week to force ourselves to come up with a smaller iteration.
+ 
+### Weekly refinement
+
+Refinement is the responsibility of every team member. Every Friday, Slack will post a refinement reminder in each group's channel. During refinement, we make sure that every issue on the workflow board is kept up to date with the necessary details and next steps. 
+
+### Monthly release cycle
+
+Our groups still pay attention to certain dates in the [Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline):
+
+- Milestone starts on the 17th of the month
+- Milestone ends on the 18th of the following month.
+- Milestone retrospectives start on the 19th of the following month.
+
+These dates are important to understand when features are released on self-managed instances and when we conduct our [team retrospectives](https://about.gitlab.com/handbook/engineering/management/team-retrospectives/).
+
+### Monthly roadmap planning
+
+We have monthly roadmap planning sessions to ensure our team is aligned on what's coming next. Monthly roadmap planning takes place as a part of our weekly sync meetings and it occurs on the first meeting of every month.
+
+## Epics and issues
+
+To help our team be [efficient](/handbook/values/#efficiency), we explicitly define how our team uses epics and issues.
+
+### Issue creation
+
+We aim to create issues in the same project as where the future merge request will live. For example, if an experiment is being run in the Customers application, both the issue and MR should be created in the Customers project.
+
+We emphasize creating the issue in the right project to avoid having to close and move issues later in the development process. If the location of the future merge request cannot be determined, we will create the issue in our catch-all [growth team-tasks project](https://gitlab.com/gitlab-org/growth/team-tasks/issues).
+
+**1:1 ratio**
+
+For visibility on our workflow boards, we aim for a 1:1 ratio between issues and merge requests. For example, if one issue requires two merge requests, we will split the one issue into two issues. Having a 1:1 ratio helps emphasize keeping MRs small, it makes estimation on issues straight forward, and it provides more visibility into an issue's progress.
+
+### Issue hierarchy
+
+We have two types of issues we work with:
+
+#### Parent issues
+
+Parent issues are GitLab issues that are used to group several child issues together. These issues are typically focused on product and the high level overviews of a feature or experiment.
+
+Our groups have decided to use Parent issues instead of [epics](https://docs.gitlab.com/ee/user/group/epics/) due to some of the limitations with epics (not being able to add labels, add milestones, assign team members, or link issues across projects). Here are guidelines we follow when using parent issues:
+- Acts as a single source of truth for a feature or experiment
+- Consolidates all high level conversations
+- Issue is labelled with `~link::parent issue`
+- Child Issues are linked under "Linked issues"
+- To see the progress of a parent issue, you can see the ratio of “Linked issues” that are open versus closed.
+- Parent issues can sit in workflow::in dev while the Child Issue is being worked on.
+
+#### Child issues
+Child issues are small broken down issues of Parent Issues. These issues are typically focused on engineering implementation or design work.
+- Issue is labelled with `~link::child issue`
+- Issue description should reference the Parent Issue
+- Contains conversations about the finer details. High level conversations should be moved to the Parent Issue.
+- It is fine to only provide limited details in a Child Issue, when the issue is just there to track the engineering work.
+
+### Issue labels
+
+We use issue labels to keep us organized. Every issue has a set of required labels that the issue must be tagged with. Every issue also has a set of optional labels that are used as needed.
+
+**Required labels**
+- [Stage:](https://about.gitlab.com/handbook/engineering/development/growth/#how-we-work) `~devops::growth`
+- [Group:](https://about.gitlab.com/handbook/engineering/development/growth/#how-we-work) `~group::acquisition`, `~group::conversion`, `~group::telemetry`
+- [Workflow:](https://about.gitlab.com/handbook/product-development-flow/#workflow-summary) `~"workflow::planning breakdown`, `~"workflow::ready for development`, `~"workflow::In dev`, etc.
+- [Parent Child Link:](https://about.gitlab.com/handbook/engineering/development/growth/acquisition-conversion-be-telemetry/#issue-hierarchy) `~link::parent issue`, `~link::child issue`
+
+**Optional labels**
+- [Experiment:](https://about.gitlab.com/handbook/engineering/development/growth/#experiment-issue-creation) `~growth::experiment`
+- [Experiment Status:](https://about.gitlab.com/handbook/engineering/development/growth/#experiment-issue-creation) `~"experiment::active`, `~"experiment::validated`, etc.
+- [Release Scoping:](https://gitlab.com/gitlab-org/gitlab-foss/blob/master/doc/development/contributing/issue_workflow.md) `~Deliverable`
+- [UX:](https://about.gitlab.com/handbook/engineering/development/growth/#ux-workflows) `UX`
+- Other labels in [issue workflow](https://gitlab.com/gitlab-org/gitlab-foss/blob/master/doc/development/contributing/issue_workflow.md)
+
+### Merge request labels
+MR labels can mirror issue labels (which is automatically done when created from an issue), but only certain labels are required for correctly measuring [throughput](#throughput).
+
+**Required labels**
+- [Stage:](https://about.gitlab.com/handbook/engineering/development/growth/#how-we-work) `~devops::growth`
+- [Group:](https://about.gitlab.com/handbook/engineering/development/growth/#how-we-work) `~group::acquisition`, `~group::conversion`, `~group::telemetry`
+- [Throughput:](https://about.gitlab.com/handbook/engineering/management/throughput/#implementation) `~security`, `~bug`, `~feature`, `~backstage`
+
+### Milestones
+
+We tag each issue and MR with the planned milestone or the milestone at time of completion.
+
+### Iteration
+
+We always push ourselves to be iterative and make the [minimal viable change](https://about.gitlab.com/handbook/product/#the-minimal-viable-change-mvc). Defining the minimal viable change takes practice.
+
+![build a car vs start with skateboard and move to car](https://gitlab.com/gitlab-org/gitlab/uploads/590251a5311fb50e4dcb174f214e1340/Screen_Shot_2020-02-06_at_3.29.48_PM.png)
+
+The image above illustrates how we iterate. The goal is to build something quick and functional. Our first iteration gets us from A to B even though it doesn't have all the bells and whistles. A skateboard is not as fast as a car, but it is fully functional. Each subsequent iteration provides the user with more speed, more control, and a better aesthetic. 
+
+Building a skateboard is low complexity and can be assembled in a day. Building a car is high complexity and takes thousands of parts and a much longer assembly time. Start with the skateboard first, iterate to the scooter next, then continue iterating and eventually you can build a car. 
+
+A common misconception of iteration is that there is no waste. Using the example above, the parts of a skateboard can be reused in a scooter, however, they cannot be reused in a car. Iteration often requires us to throw away code to make way for a better product.
+
+[Technical debt](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#technical-debt-in-follow-up-issues): It's common to discover technical debt during development of a new feature. In the spirit of "minimum viable change," the resolution of technical debt can be deferred to a follow-up issue.
+
+## Meetings
+
+Each group holds synchronus meetings at least once a week to gain additional clarity and alignment on our async discussions.
+
+* The Conversion Group meets on Tuesdays 02:30pm UTC and Thursdays 03:00pm UTC
+* The Telemetry Group meets on Mondays 03:00pm UTC and Wednesdays 03:00pm UTC
+* The Acquisition Group meetings are paused as the group is temporarily combined with the Conversion Group.
+
+**Meeting agenda**
+
+The agenda for each meeting is structured around the [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/#workflow-summary).
+* **[Validation:](https://about.gitlab.com/handbook/product-development-flow/#validation-track)** Used for work in `~workflow::start`, `~workflow::problem validation`, `~workflow::design`, `workflow::solution validation`
+* **[Build:](https://about.gitlab.com/handbook/product-development-flow/#build-track)** Used for work in `workflow::planning breakdown`, `workflow::blocked`, `workflow::ready for development`, `workflow::In dev`, `workflow::In review`
+* **FYI:** Used for any other topics
+
+**Meeting rules**
+* Agenda items should be filled in 6 hours before meetings otherwise it's possible to cancel the meeting.
+* It's fine to add agenda items during the meeting as things come up in sync meetings we might not have thought about beforehand.
+* Meetings start :30 seconds after start time
+* Whoever has the first agenda item starts the meeting.
+* Whoever has the last agenda item ends the meeting.
+* Meetings end early or on time.
+* Any missed agenda items are bumped to the next meeting.
+
+## Daily standups
+
+We have daily asynchronous standups. Team members are using either [status hero](https://statushero.com) or [geekbot](https://geekbot.com/) for their daily standups. The purpose of these standups are to allow team members to have visibility into what everyone else is doing, allow a platform for asking for and offering help, and provide a starting point for some social conversations.
+
+Three questions are asked at each standup:
+* How do you feel today?
+* What are you working on today?
+  * Our status updates consist of the various issues and merge requests that are currently being worked on. If the work is in progress, it is encouraged to share details on the current state.
+* Any blockers?
+  * We raise any blockers early and ask for help.
+
+## Throughput
+
+One of our main engineering metrics is [throughput](https://about.gitlab.com/handbook/engineering/management/throughput/) which is the total number of MRs that are completed and in production in a given period of time. We use throughput to encourage small MRs and to practice our values of [iteration](https://about.gitlab.com/handbook/values/#iteration). Read more about [why we adoped this model](https://about.gitlab.com/handbook/engineering/management/throughput/#why-we-adopted-this-model).
+
+We aim for 10 MRs per engineer per month which is tracked using our [throughput metrics dashboard](https://app.periscopedata.com/app/gitlab/559676/Growth:Acquisition-and-Conversion-Development-Metrics).
+
+## Common links
+
+* [Growth Section](/handbook/engineering/development/growth/)
+* [Growth UX Section](/handbook/engineering/ux/stage-group-ux-strategy/growth/)
+* `#s_growth` in [Slack](https://gitlab.slack.com/archives/s_growth)
+* [Growth Performance Indicators](/handbook/engineering/development/growth/performance-indicators/)
+* [Growth Meetings and Agendas](https://docs.google.com/document/d/1QB9uVQQFuKhqhPkPwvi48GaibKDwGAfKKqcF-s3Y6og)

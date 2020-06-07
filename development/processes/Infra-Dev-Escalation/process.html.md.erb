@@ -1,0 +1,319 @@
+---
+layout: handbook-page-toc
+title: Development Escalation Process
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## About This Page
+
+This page outlines the development team on-call process and guidelines for developing the rotation schedule for handling infrastructure incident escalations.
+
+## COVID-19 Mitigation Plan
+Due to the impacts and uncertainties caused by the COVID-19 outbreak, to maximize flexibility for all team members while providing complete business coverage, below are temporary measurements to mitigate risks of the dev on-call coverage.
+
+1. **On-call Engineers**: Please confirm your availability **one day** ahead of your scheduled slot. 
+   1. Do nothing if you will be available.
+   1. In case you are not available for the scheduled slot next day.
+      1. Remove yourself from the signed slot in [scheduling spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing).
+      1. Immediately notify the coordinators of the month in `column G` of the spreadsheet via Slack direct message and adding a `Comment` to the cell of open slot by explictly tagging the coordinators and assigning to one of the coordinators.
+   1. In the case of extreme urgency such as becoming unavailable for an upcoming shift in a few hours, please raise attention in the [#dev-escalation](https://gitlab.slack.com/archives/CLKLMSUR4).
+      1. Engineers who can fill in are highly appreciated to backfill.
+      1. Coordinators please try your best to coordinate the backfill effort.
+1. **Coordinator**:
+   1. Two coordinators are required throughout the end of July 2020. Follow the process of [coordinator](#Coordinator) to sign up.
+   1. The two coordinators cannot be in the same zone: AMER, EMEA, APAC.
+   1. The two coordinators work out who is the primary and who is secondary.
+      1. The primary coordinator is the DRI for planning the upcoming month, while the secondary is welcome to assist.
+      1. The secondary coordinator supplements the primary for emergency planning when engineers become unavailable in short notice.
+      1. Between the primary and secondory, the one who receives the notification first shall take actions to backfill vacancy as soon as possible.
+
+## Expectation
+
+The expectation for the development engineers is to be a technical consultant and collaborate with the teams who requested on-call escalation to troubleshoot together. There is no expectation that the development engineer is solely responsible for a resolution of the escalation.
+
+## Escalation Process
+
+### Scope of Process
+
+* This process is designed for the following issues:
+   * **GitLab.com** and **self-managed hosting** **`operational emergencies`** raised by the **Infrastructure** , **Security**, and **Support** teams.
+   * Engineering emergencies raised by **teams in engineering** such as the Delivery and QE teams, where an **imminent deployment or release is blocked**.
+* This process is **NOT** a path to reach development team for non-urgent issues that the Infrastructure, Security, and Support teams run into. Such issues can be moved forward by:
+   * labelling with `security` and the `@gitlab-com/security/appsec` team mentioned to be notified as part of the [Application Security Triage rotation](/handbook/engineering/security/#triage-rotation)
+   * labelling with `infradev` which will be raised to [Infra/Dev triage board](https://gitlab.com/groups/gitlab-org/-/boards/1193197?label_name[]=gitlab.com&label_name[]=infradev)
+   * raising to the respective product stage/group Slack channel, or 
+   * asking the [#is-this-known](/handbook/communication/#asking-is-this-known) Slack channel
+* This process provides 24x7 coverage.
+
+Example of qualified issue:
+
+* Production issue examples:
+   * GitLab.com: [DB failover and degraded GitLab.com performance](https://gitlab.com/gitlab-com/gl-infra/production/issues/1054)
+   * GitLab.com: [Severity 1/Priority 1](https://about.gitlab.com/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) vulnerability being actively exploited or high likelihood of being exploited and puts the confidentiality, availability, and/or integrity of customer data in jeopardy. 
+   * Self-managed: [https://gitlab.zendesk.com/agent/tickets/129514](https://gitlab.zendesk.com/agent/tickets/129514)
+   * Self-managed: [https://gitlab.zendesk.com/agent/tickets/130598](https://gitlab.zendesk.com/agent/tickets/130598)
+* Engineering emergency examples: 
+   * [A post deloyment issue with version.gitlab.com](https://gitlab.com/gitlab-com/gl-infra/production/issues/1615) that will cause self-managed deployment failure.
+   * [GitLab.com deployment](https://gitlab.com/gitlab-org/gitlab/issues/198440) or a security release is blocked due to pipeline failure.
+   * [A P1/S1 regression found in the release staging.gitlab.com](https://gitlab.com/gitlab-org/gitlab/issues/199316)
+   * [Evaluating severity and making decision on a potential release or deployment show stopper](https://gitlab.com/gitlab-org/gitlab/-/issues/217450) collaboratively when other engineering teams are challenged to accomplish alone.
+
+
+Examples of non-qualified issues:
+
+* Production issue examples:
+   * GitLab.Com:[Errors when import from GitHub](https://gitlab.com/gitlab-org/gitlab-ce/issues/66166)
+   * GitLab.com: [Last minute security patch to be included in an upcoming release](https://gitlab.com/gitlab-org/omnibus-gitlab/issues/4530)
+   * Self-managed(ZD): [View switch causing browser freeze](https://gitlab.com/gitlab-org/gitlab-ce/issues/52479)
+   * Self-managed(ZD): [Watch Everything Notification Level](https://gitlab.com/gitlab-org/gitlab-ee/issues/14214)
+* Engineering issue examples:
+   * [A P1/S1 enhancement of CI](https://gitlab.com/gitlab-org/gitlab/issues/36154)
+   * [A P1/S1 fix to API](https://gitlab.com/gitlab-org/gitlab-foss/issues/65381)
+   * [Non release blocking QA failures on staging.gitlab.com](https://gitlab.com/gitlab-org/gitlab/issues/198692)
+
+### Process Outline
+
+1. Escalation arises.
+1. Infrastructure, Security, Support or Engineering team register tracking issue and determines the severity or references the Zendesk ticket, whichever is applicable.
+   * Explicitly mention whether the raised issue is for GitLab.com or a self-managed environment.
+   * The issue must be qualified as P1/S1. 
+1. Infrastructure, Security, Support or Engineering team pings on-duty engineer (@name) in Slack [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4).
+   * Find out who's on duty in the on-call [Google sheet of schedule](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing).
+   * Ping on-duty engineers by tagging @name.
+   * On-call engineer responds by reacting to the ping with `:eyes:`
+   * If no response from on-call engineer within 5 minutes then the Infrastructure, Security, or Support team will find their phone number from the on-call sheet and call that number.
+1. First response time SLOs - **OPERATIONAL EMERGENCY ISSUES ONLY**
+   1.  **GitLab.com**: Development engineers provide initial response (not solution) in both [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4) and the tracking issue within **15 minutes**.
+   1.  **Self-managed**: Development engineers provide initial response (not solution) in both [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4) and the tracking issue on a best-effort basis. (SLO will be determined at a later time.)
+   1. In the case of a tie between GitLab.com and self-managed issues, GitLab.com issue takes priority.
+   1. In the case of a tie between production (GitLab.com, self-managed) and engineering issues, production issue takes priority. The preferred action is to either backout or rollback to the point before the offending MR.
+1. When on-call engineers need assistance of domain expertise:
+   * Ping domain expert engineer and their engineering manager IMMEDIATELY in [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4). Make the best guess and it's fine to ping multiple persons when you are not certain. Domain experts are expected to get engaged ASAP.
+   * If needed, next level is to ping the development director(s) of the domain in [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4).
+1. Whenever the issue is downgraded from P1/S1, the escalation process ends.
+
+```mermaid
+graph TD;
+A[Escalation Arises] --> B(Issue Registered);
+B --> C("On-call Engr Pinged <br /> (#dev-escalation/phone)");
+D[On-call Schedule Sheet ] --> C;
+C --> E("Initial Response <br /> (GitLab.com=15mins, S-M=Best Effort)");
+E --> F{Domain Expertise};
+F --> |Yes|G[Solution];
+F --> |No|H("Ping Expert(s) <br /> (Engr & Mgr)");
+H --> I{Further Escalation?};
+I --> |No|G;
+I --> |Yes|J("Ping Director(s)");
+J --> K(Expert Pinged);
+K --> G;
+G --> L{Validation};
+L --> |No|G;
+L --> |Yes|M(Deploy & Release);
+M --> N(Documentation);
+N --> O[Done];
+```
+
+### Logistics
+1. All on-call engineers, managers, distinguished engineers, fellows (who are not co-founders) and directors are required to join [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4).
+1. On-call engineers are required to add a phone number that they can be reached on during their on-call schedule to the on-call sheet.
+1. On-call engineers are recommended to turn on Slack notification while on duty, or there are better customized ways to be alerted realtime.
+1. Similarly, managers and directors of on duty engineers are also recommended to do the same above to be informed. When necessary, managers and directors will assist to find domain experts.
+1. Hint: turn on Slack **email** notification while on duty to double ensure things don't fall into cracks.
+
+## Rotation Scheduling
+
+### Guidelines
+
+1. Assignments
+
+   On-call work comes in four-hour blocks, aligned to UTC:
+
+   * 0000 - 0359
+   * 0400 - 0759
+   * 0800 - 1159
+   * 1200 - 1559
+   * 1600 - 1959
+   * 2000 - 2359
+
+   One engineer must be on-call at all times. This means that each year, we
+   must allocate 2,190 4-hour shifts.
+
+   The total number of shifts is divided among the eligible engineers. This is
+   the minimum number of shifts any one engineer is expected to do. As of March
+   2020 we have around 150 eligible engineers, this means each engineer is
+   expected to do 16 shifts per year, or 4 shifts per quarter.
+
+   In general, engineers are free to choose which shifts they take across the
+   year. They are free to choose shifts that are convenient for them, and to
+   arange shifts in blocks if they prefer. A few conditions apply:
+
+   * No engineer should be on call for more than 3 shifts in a row (12 hours),
+     with 1-2 being the norm
+   * No engineer should take more than 12 shifts (48 hours) per week, with 10
+     shifts (40 hours) being the usual maximum.
+
+   Most on-call shifts will take place within an engineer's normal working
+   hours.
+
+   Scheduling and claiming specific shifts is done on the [Google sheet of schedule](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing). More on that below.
+
+1. Eligibility
+
+   All development backend and fullstack engineers who have been with the company for at least 3 months.
+
+   Exceptions: (i.e. exempted from on-call duty)
+   * Distinguished engineers and above.
+   * Where the law or regulation of the country/region poses restrictions. According to legal department -
+     * There are countries with laws governing hours that can be worked.
+     * This would not be an issue in the U.S.
+     * At this point we would only be looking into countries where 1) we have legal entities, as those team members are employees or 2) countries where team members are hired as employees through one of our PEO providers. For everyone else, team members are contracted as independent contractors so general employment law would not apply.
+   * Engineers from the [Static Site Editor team](/handbook/engineering/development/dev/create-static-site-editor/#team-members) are exempted due to being part of a separate on-call rotation for the [GitLab Handbook](/handbook/about/on-call/).  
+
+1. Nomination
+
+   Engineers normally claim shifts themselves on this [Google sheet of schedule](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing).
+   To ensure we get 100% coverage, the schedule is fixed one month in advance.
+   Engineers claim shifts between two and three months in advance. When signing up, fill the cell with your **full name** as it appears in the [team members list](https://docs.google.com/spreadsheets/d/1Uug3QHeGYobzUbB2ajJsw7CKe7vy1xRdflO5FOuHgDw/edit#gid=2020389965), **Slack display name**, and **phone number with country code**. This same instruction is posted on the header of schedule spreadsheet too.
+
+   At the start of each month, engineering managers look at the schedule for
+   the following month (e.g. on the 1st March, they would be considering the
+   schedule for April, and engineers are claiming slots in May). If any gaps or
+   uncovered shifts are identified, the EMs will **assign** those shifts to
+   engineers. The assignment should take into account:
+
+   * How many on-call hours an engineer has done (i.e., how many of their
+     allocated hours are left)
+   * Upcoming leave
+   * Any other extenuating factors
+   * Respecting an assumed 40-hour working week
+   * Respecting an assumed 8-hour working day
+   * Respecting the timezones engineers are based in
+
+   In general, engineers who aren't signing up to cover on-call shifts will be
+   the ones who end up being assigned shifts that nobody else wants to cover,
+   so it's best to sign up for shifts early!
+
+   There is additional information regarding weekend shifts, which can be found in ["Additional Notes for Weekend Shifts"](https://drive.google.com/drive/search?q=%22Additional%20Notes%20for%20Weekend%20Shifts%22) under a sub-folder called *Development Escalation Process* in the shared *Engineering* folder on Google Drive.
+
+1. Relay Handover
+   * Since the engineers who are on call may change frequently, responsibility
+     for being available rests with them. Missing an on-call shift is a serious
+     matter.
+   * In the instance of an ongoing escalation no engineer should finish
+     their on-call duties until they have paged and confirmed the engineer
+     taking over from them is present, or they have notified someone who
+     is able to arrange a replacement. They do not have to find a
+     replacement themselves, but they need confirmation from someone that
+     a replacement will be found.
+   * In the instance of an ongoing escalation being handed over to
+     another incoming on-call engineer the current on-call engineers
+     summarize status of on-going issues in
+     [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4)
+     and in the issues by the end of their stretch of shifts, to hand
+     over smoothly.
+   * For current Infrastructure issues and status, refer to [Infra/Dev Triage](https://gitlab.com/groups/gitlab-org/-/boards/1193197?&label_name[]=gitlab.com&label_name[]=infradev) board.
+   * If an incident is ongoing at the time of handover, outgoing engineers may
+     prefer to remain on-call for another shift. This is acceptable as long as
+     the incoming engineer agrees, and the outgoing engineer is on their first
+     or second shift.
+
+### Coordinator
+
+Given the complexity of administration overhead, one engineering
+director or manager will be responsible to coordinate the scheduling of
+one month. The nomination follows the same approach where
+self-nomination is the way to go. On each month tab in the schedule
+spreadsheet, directors and managers are encouraged to sign up in the
+**Coordinator** column. One director or manager per month.
+
+The coordinator should:
+
+1. Remind engineers to sign up, by:
+    * Posting reminders to the [#development](https://app.slack.com/client/T02592416/C02PF508L) and [#backend](https://app.slack.com/client/T02592416/C8HG8D9MY) channels in Slack
+    * Asking managers in [#eng-managers](https://app.slack.com/client/T02592416/CU4RJDQTY) to remind team-members in 1-1s
+    * Utilizing appropriate mailing lists to contact engineers by email
+1. Assign folks to unfilled slots when needed (do your own due diligence
+   when this action is necessary).
+1. Coordinate temporary changes or special requests that cannot be
+   resolved by engineers themselves.
+1. After assigning unfilled slots and accommodating special requests the coordinator should click **Sync to Calendar > Schedule shifts**.
+   This will schedule shifts in [this calendar](https://calendar.google.com/calendar/embed?src=gitlab.com_vj98gounb5e3jqmkmuvdu5p7k8%40group.calendar.google.com&ctz=Europe%2FWarsaw)
+   and if any developer added their email into the spreadsheet, they will be added as guests in the on-call calendar event. Ensure that you have subscribed to the calendar before syncing.
+
+An [Epic of execution tracking](https://gitlab.com/groups/gitlab-com/-/epics/122) was created, where each coordinator is expected to register an issue under this Epic for the month-on-duty to capture activities and send notifications. Here is [an example](https://gitlab.com/gitlab-com/www-gitlab-com/issues/4965).
+
+### Additional Notes for Weekend Shifts
+
+For those eligible engineers, everyone is encouraged to explore options that work best for their personal situations in lieu of weekend shifts. When on-call you have the following possibilities:
+
+1. Swap weekend days and weekdays.
+1. Swap hours between weekend days and weekdays.
+1. Take up to double the time off for any time worked during the weekend when the above two options don't work with your personal schedule. 
+   1. When an engineer is in standby mode (e.g. not paged) during the weekend shift, they can take 1.25x time-off. 
+   1. When an engineer is in call-back mode (e.g. being paged) during the weekend shift, they can take double the time-off.
+1. Other alternatives that promote work-life balance and have the least impact to your personal schedule.
+
+With the above alternatives we want to make sure we comply with local labor laws and not surpass the restricted weekly working hours (ranging from 38 to 60 hours) and offer enough rest time for the engineers who sign up on weekend on-call shifts.
+
+### Rotation Schedule
+
+See the [Google sheet of schedule](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing). In the future, we could embed a summary of the upcoming
+week here.
+
+## Resources
+
+### Coordinator Practice Guide
+
+Below is a process that one coordinator used to fill unclaimed spots:
+
+1. Start by finding the least filled shift (Usually this is 00:00 - 04:00 UTC) in [the on-call sheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit#gid=1486652954).
+1. Determine the appropriate timezone for this shift (in the case of 00:00 - 04:00 it is +9,+10,+11,+12,+13).
+1. Go to the [team members list sheet](https://docs.google.com/spreadsheets/d/1Uug3QHeGYobzUbB2ajJsw7CKe7vy1xRdflO5FOuHgDw/edit#gid=1242210014) and filter the "UTC" column by the desired timezones for the shift . Now you have the list of possible people that can take this shift.
+1. Go to google calendar and start to create a dummy event that is on the day and time of the unclaimed shift . NOTE you will not actually end up creating this event.
+1. Add all of the people that can possibly take the shift to the event as guests.
+1. Go to the "Find a Time" tab in the calendar event to see availabilities of people.
+1. Find a person that is available (preferring people that have taken no shifts or few shifts based on the [total shifts counts sheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit#gid=2078444703)) . Note people who are on leave or otherwise busy or in interviews, do not schedule them for the shift. It would be fine to ignored events that appeared to be normal team meetings, 1:1, coffee chat as people can always leave a meeting if there is an urgent escalation.
+1. Assign them to the shift by filling their name in the on-call sheet in Purple font color.
+1. Now since there are likely many days that have this unfilled time slot then update the event date to the next day with this same unfilled time zone. Since it's the same time then the same set of people will be appropriate to take the shift which means you don't need to update the guest list.
+1. Repeat all of the above for all of the unclaimed timezones remembering that you want to solve for one shift (by time range) at a time as it means you will re-use the same guest list to determine availability.
+
+### Shadowing An Incident Triage Session
+
+Feel free to participate in any incident triaging call if you would like to have a few rehearsals of how it usually works. Simply watch out for active incidents in [#incident-management](https://gitlab.slack.com/archives/CB7P5CJS1) and join the Situation Room Zoom call (link can be found in the channel) for synchronous troubleshooting.
+
+### Replaying Previous Incidents
+
+Situation Room recordings from previous incidents are available in this [Google Drive folder](https://drive.google.com/drive/u/1/folders/1wtGTU10-sybbCv1LiHIj2AFEbxizlcks) (internal). 
+
+### Shadowing A Whole Shift
+
+To get an idea of [what's expected](#expectation) of an on-call engineer and how often incidents occur it can be helpful to shadow another shift. To do this simply identify a time-slot that you'd like to shadow in the on-call schedule and contact the primary to let them know you'll be shadowing. Ask them to invite you to the calendar event for this slot. During the shift keep an eye on [#dev-escalation](https://gitlab.slack.com/archives/CLKLMSUR4) for incidents and observe how the primary [follows the process](#process-outline) if any arise.
+
+
+### Tips & Tricks of Troubleshooting
+
+1. [How to Investigate a 500 error using Sentry and Kibana](https://www.youtube.com/watch?v=o02t3V3vHMs&feature=youtu.be).
+1. [Walkthrough of GitLab.com's SLO Framework](https://www.youtube.com/watch?v=QULzN7QrAjY).
+1. [Scalability documentation](https://gitlab.com/gitlab-org/gitlab/merge_requests/18976).
+1. [Use Grafana and Kibana to look at PostgreSQL data to find the root cause](https://youtu.be/XxXhCsuXWFQ).
+   * Related incident: [Postgres transactions timing out; sidekiq queues below apdex score; and overdue pull mirror jobs](https://gitlab.com/gitlab-com/gl-infra/production/issues/1433).
+1. [Ues Grafana, Thanos, and Prometheus to troubleshoot API slowdown](https://www.youtube.com/watch?v=DtP4ZcuXT_8).
+   * Related incident: [2019-11-27 Increased latency on API fleet](https://gitlab.com/gitlab-com/gl-infra/production/issues/1419).
+1. [Let's make 500s  more fun](https://youtu.be/6ERO4XsYDn0?list=PL05JrBw4t0KodGBz0XUYdYaAYyYs-6ZK7)
+
+### Tools for Engineers
+
+1. Training videos of available tools
+   1. [Visualization Tools Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrDIsPQ68htUUbvCgt9JeQj).
+   1. [Monitoring Tools Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KpQMEbnXjeQUA22SZtz7J0e).
+   1. [How to create Kibana visualizations for checking performance](https://www.youtube.com/watch?v=5oF2rJPAZ-M&feature=youtu.be).
+1. Dashboards examples, more are available via the dropdown at upper-left corner of any dashboard below
+   1. [Saturation Component Alert](https://dashboards.gitlab.net/d/alerts-saturation_component/alerts-saturation-component-alert?orgId=1).
+   1. [Service Platform Metrics](https://dashboards.gitlab.net/d/general-service/general-service-platform-metrics?orgId=1&var-type=ci-runners&from=now-6h&to=now).
+   1. [SLAs](https://dashboards.gitlab.net/d/general-slas/general-slas?orgId=1).
+   1. [Web Overview](https://dashboards.gitlab.net/d/web-main/web-overview?orgId=1).

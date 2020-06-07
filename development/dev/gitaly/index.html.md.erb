@@ -1,0 +1,85 @@
+---
+layout: handbook-page-toc
+title: "Create:Gitaly Team"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## What is the Gitaly team?
+
+The Gitaly team is responsible for building and maintaining systems to ensure
+that the git data storage tier of GitLab instances, and _GitLab.com in particular_,
+is fast. Gitaly migrated GitLab.com away from NFS, and is now working on a
+highly available Git storage layer.
+
+## Mission
+
+Provide a durable, performant, and reliable Git storage layer for GitLab.
+
+## Team Members
+
+The following people are permanent members of the Gitaly Team:
+
+<%= direct_team(manager_role: 'Backend Engineering Manager, Gitaly') %>
+
+## Stable Counterparts
+
+The following members of other functional teams are our stable counterparts:
+
+<%= stable_counterparts(role_regexp: /[&,] Create:Gitaly/, direct_manager_role: 'Backend Engineering Manager, Gitaly') %>
+
+## How we work
+
+In general, we use the standard GitLab [engineering workflow]. To get in touch
+with the Create:Gitaly team, it's best to create an issue on the [Gitaly issue tracker]
+and add the `~"group::gitaly"` label, along with any other appropriate labels.
+Then, feel free to ping the relevant Product Manager and/or Engineering Manager
+as listed above.
+
+For more urgent items, feel free to use [#g_create_gitaly] on Slack.
+
+[engineering workflow]: /handbook/engineering/workflow/
+[Gitaly issue tracker]: https://gitlab.com/gitlab-org/gitaly/issues
+[#g_create_gitaly]: https://gitlab.slack.com/archives/g_create_gitaly
+
+### Working with product
+
+A weekly call is held between the product manager and engineering manager,
+which is listed in the "Gitaly Team" calendar. Everyone is welcome to join and
+these calls are used to discuss any roadblocks, concerns, status updates,
+deliverables, or other thoughts that impact the group.
+
+
+### Capacity planning
+
+<%= partial("handbook/engineering/development/dev/create/capacity_planning.erb") %>
+
+### Retrospectives
+
+At the beginning of each release, the Gitaly EM will create a retrospective issue
+to collect discussion items during the release. The first weekly Gitaly meeting
+after the 18th that issue will be used to discuss what was brought up.
+
+Additionally, a weekly review is conducted by the Geekbot Slack integration. Each
+member of the `#gitaly-standup` channel on Slack will be prompted to fill out the
+weekly retrospective to review what you've learned and what can be improved.
+
+### Onboarding
+
+When a new developer joins Gitaly, their resposibility will include maintaining
+the Gitaly project from their first day. This means that the developer will get
+`Maintainer` access to the repository and will be added to the
+`gitlab.com/gl-gitaly` group so they appear in merge request approval group.
+
+### Career development
+
+<%= partial("handbook/engineering/development/dev/create/career_development.erb", locals: { group: "Gitaly" }) %>
+
+### Offboarding
+
+Maintainer rights are revoked, and to remove the developer from the list of
+authorized approvers, remove them from the `gl-gitaly` GitLab.com group.

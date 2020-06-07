@@ -1,0 +1,62 @@
+---
+layout: handbook-page-toc
+title: Global Search Team
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Vision
+
+The Global Search team is focused on bringing world class search functionality to GitLab.com and self-managed instances.  
+
+## Mission
+
+The team will be responsible for improving and expanding upon our current global search implementations using Elasticsearch, PostgreSQL, and Gitaly.  Areas of responsibility will include global search functionality, UI, ingestion mechanisms, optimal indexing, administrative tools and installation mechanisms for self-managed installations.
+
+This team doesn't own custom searches for specific features, such as the "filter bar" on issues which is part of the [Issue Tracking](https://about.gitlab.com/direction/plan/issue_tracking/) category owned by the [Project Management group](https://about.gitlab.com/handbook/product/categories/#project-management-group).
+
+## Team Members
+
+The following people are permanent members of the Global Search Team:
+
+<%= direct_team(manager_role: 'Backend Engineering Manager, Global Search') %>
+
+
+## Stable Counterparts
+
+The following members of other functional teams are our stable counterparts:
+
+<%= stable_counterparts(role_regexp: /[,&] Search|Enablement.*Search/, direct_manager_role: 'Backend Engineering Manager, Global Search') %>
+
+## Meetings
+
+Whenever possible, we prefer to communicate asynchronously using issues, merge requests, and Slack. However, face-to-face meetings are useful to establish personal connection and to address items that would be more efficiently discussed synchronously such as blockers.
+
+* The Global Search Team meets weekly on Tuesdays alternately at 14:30 UTC and 21:30 UTC.
+
+## Work
+
+We follow the GitLab [engineering workflow](/handbook/engineering/workflow/) guidelines.  To bring an issue to our attention please create an issue in the relevant project.  Add the `~"group::global search"` label along with any other relevant labels.  If it is an urgent issue, please reach out to the Product Manager or Engineering Manager listed in the [Stable Counterparts](/handbook/engineering/development/enablement/search/#stable-counterparts) section above.
+
+### Advanced Global Search Rollout on GitLab.com
+The team has been actively working on enabling Elasticsearch powered Advanced Global Search on GitLab.com. [Based on our analysis](https://gitlab.com/groups/gitlab-org/-/epics/1736), we set our first target to rolling this feature out for all the paid groups on GitLab.com. You can find more details about the timeline and progress in the links below.
+
+* [Plan of Advanced Global Search Rollout on GitLab.com](https://gitlab.com/groups/gitlab-com/-/epics/649)
+* [Steps and Enhancements of Advanced Global Search Rollout on GitLab.com](./es-rollout-timeline.html)
+
+### Common Links
+
+* [Global Search Team Milestone Board](https://gitlab.com/groups/gitlab-org/-/boards/1339901?label_name[]=group%3A%3Aglobal%20search)
+* [Global Search Team Workflow Board](https://gitlab.com/groups/gitlab-org/-/boards/1584459?label_name[]=group%3A%3Aglobal%20search)
+* [Global Search Team Epics](https://gitlab.com/groups/gitlab-org/-/epics?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Aglobal%20search)
+* Global Search team slack channel (internal) [#g_global_search](https://gitlab.slack.com/app_redirect?channel=g_global_search)
+
+## Resources
+
+* [GitLab ElasticSearch Knowledge page](https://docs.gitlab.com/ee/development/elasticsearch.html)
+* [GitLab ElasticSearch Integration](https://docs.gitlab.com/ee/integration/elasticsearch.html)
+* [Blog post about Elasticsearch on GitLab.com](https://about.gitlab.com/blog/2019/03/20/enabling-global-search-elasticsearch-gitlab-com/)

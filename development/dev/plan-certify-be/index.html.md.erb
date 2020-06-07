@@ -1,0 +1,102 @@
+---
+layout: handbook-page-toc
+title: Plan:Certify Backend Team
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Plan:Certify backend team
+
+The Plan:Certify backend team works on the backend part of GitLab's
+[Certify category] in the [Plan stage].
+
+For more details about the vision for this area of the product, see the
+[Plan stage] page.
+
+[Certify category]: /handbook/product/categories/#certify-group
+[Plan stage]: /direction/plan/
+
+### Team members
+
+This team is currently shared between [Plan:Portfolio Management] and
+Plan:Certify. See that page for details.
+
+[Plan:Portfolio Management]: /handbook/engineering/development/dev/plan-portfolio-management-be/
+
+### Stable counterparts
+
+<%= stable_counterparts(role_regexp: /[,&] (Plan(?!:)|Plan:Certify)/, direct_manager_role: 'Engineering Manager, Plan:Portfolio Management & Plan:Certify') %>
+
+### Team metrics dashboard 
+
+<%= partial("handbook/engineering/development/dev/plan/shared_portfolio_certify_dashboard") %>
+
+### Application performance dashboard
+
+<%= partial("handbook/engineering/development/dev/plan/portfolio_certify_application_dashboard") %>
+
+## Work
+
+See the [Plan stage page] and the [Plan:Project Management backend team
+page].
+
+[Plan stage page]: /handbook/product/categories/plan/
+[Plan:Project Management backend team page]: /handbook/engineering/development/dev/plan-project-management-be/
+
+### Capacity Planning
+
+<%= partial("handbook/engineering/development/dev/plan/capacity_planning") %>
+
+#### Weighing bugs
+
+<%= partial("handbook/engineering/development/dev/plan/weighing_bugs") %>
+
+#### Continuous Estimation
+
+<%= partial("handbook/engineering/development/dev/plan/planning_rotation") %>
+
+#### Historical Capacity
+
+<%= partial("handbook/engineering/development/dev/plan/historical_capacity", locals: { chart_ids: [7693825, 7693879] }) %>
+
+## Requirements Management
+
+> It is often necessary to specify behaviors for a system or application.
+> Requirements Management is a process by which these behaviors would be
+> captured so that there is a clearly defined scope of work.
+
+<cite>[Category Strategy - Requirements Management]</cite>
+
+[Category Strategy - Requirements Management]: https://about.gitlab.com/direction/plan/requirements_management/
+
+### Learning Resources
+
+#### Customer Requests and Discussion
+
+- Requirements Management & Quality Management Solution
+([gitlab-org/gitlab#7024])
+- Requirements Management: Approve And Baseline (include E-Signature)
+([gitlab-org/gitlab#8461])
+
+[gitlab-org/gitlab#7024]: https://gitlab.com/gitlab-org/gitlab/issues/7024
+[gitlab-org/gitlab#8461]: https://gitlab.com/gitlab-org/gitlab/issues/8461
+
+#### Short Form
+
+- [Requirements Management](https://en.wikipedia.org/w/index.php?title=Requirements_management) (Wikipedia)
+- [Agile Requirements Documentation: Tips and Tricks for Modern Teams](https://www.youtube.com/watch?v=MVhMfdIGMFg) [36:52] by OCI
+- [The Best Requirements Management Tools of 2019](https://thedigitalprojectmanager.com/requirements-management-tools/) by Ben Aston
+- [DO-178C - Traceability](https://en.wikipedia.org/wiki/DO-178C#Traceability) (Wikipedia)
+
+#### Long Form
+
+- [MIT OpenCourseware: Fundamentals of Systems Engineering (2015)](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-842-fundamentals-of-systems-engineering-fall-2015/),
+  especially [2. Requirements Definition](https://www.youtube.com/watch?v=J_y2I09rj_I) [1:39:51].
+
+## Useful Links
+
+<%= partial("handbook/engineering/development/dev/plan/useful_links", locals: { board: { name: 'Plan:Portfolio Management & Certify Build Board', url: 'https://gitlab.com/groups/gitlab-org/-/boards/1569369?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Aplan&not[label_name][]=group%3A%3Aproject%20management' }}) %>

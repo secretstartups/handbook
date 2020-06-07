@@ -1,0 +1,117 @@
+---
+layout: handbook-page-toc
+title: Memory Team
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Vision
+
+Build and enhance a highly performant GitLab product portfolio, and establish best practices for performance oriented development.
+
+## Mission
+
+The Memory team is responsible for optimizing GitLab application performance by managing the memory resources required. The team is also responsible for changes affecting the responsiveness of the application.  We will accomplish these goals in two ways. First we will research and resolve reported memory issues to the best of our ability and within our published SLAs.  Additionally, will build tooling to proactively inform developers of the static and dynamic memory consumption of their proposed changes.
+
+## Team Members
+
+The following people are permanent members of the Memory Team:
+
+<%-# Hard coding the team makeup for now until team.yml reflects the team structure -%>
+<table>
+<thead>
+<tr>
+<th>Person</th>
+<th>Role</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Craig Gomes</td>
+<td><a href="/job-families/engineering/backend-engineer/#engineering-manager">Engineering Manager, Memory</a></td>
+</tr>
+<tr>
+<td>Kamil Trzciński</td>
+<td><a href="/job-families/engineering/distinguished-engineer/">Distinguished Engineer, Ops and Enablement</a></td>
+</tr>
+<tr>
+<td>Qingyu Zhao</td>
+<td><a href="/job-families/engineering/backend-engineer">Senior Backend Engineer, Memory</a></td>
+</tr>
+<tr>
+<td>Aleksei Lipniagov</td>
+<td><a href="/job-families/engineering/backend-engineer">Senior Backend Engineer, Memory</a></td>
+</tr>
+<tr>
+<td>Nikola Milojevic</td>
+<td><a href="/job-families/engineering/backend-engineer">Senior Backend Engineer, Memory</a></td>
+</tr>
+<tr>
+<td>Matthias Käppler</td>
+<td><a href="/job-families/engineering/backend-engineer">Senior Backend Engineer, Memory</a></td>
+</tr>
+</tbody>
+</table>
+
+## Stable Counterparts
+
+The following members of other functional teams are our stable counterparts:
+
+<%= stable_counterparts(role_regexp: /[,&] Memory/, direct_manager_role: 'Backend Engineering Manager, Memory & Database') %>
+
+## Meetings
+Where we can we follow the GitLab values and communicate asynchronously.  However, there have a few important recurring meetings.  Please reach out to the [#g_memory](https://gitlab.slack.com/messages/CGN8BUCKC) Slack channel if you'd like to be invited.
+* Weekly Memory Team meeting - Mondays 7:30 AM PDT (2:30 PM UTC)
+* Memory Team - Office Hours (AU/EU Overlap) - Tuesdays and Fridays 2:00 AM - 3:50 AM PDT (9:00 - 10:50 AM UTC)
+* GitLab Development Week 1 New Hires Introductions - typically Wednesdays as new members join the team
+
+## Work
+We follow the GitLab [engineering workflow](/handbook/engineering/workflow/) guidelines.  To bring an issue to our attention please create an issue in the relevant project, or in the [Memory team project](https://gitlab.com/gitlab-org/memory-team/team-tasks/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=).  Add the `~"group::memory"` label along with any other relevant labels.  If it is an urgent issue, please reach out to the Product Manager or Engineering Manager listed in the [Stable Counterparts](/handbook/engineering/development/enablement/memory/#stable-counterparts) section above.
+
+### Planning
+The Memory Team uses the [Memory by Milestone](https://gitlab.com/groups/gitlab-org/-/boards/1143987?label_name[]=group%3A%3Amemory) board to plan issues for each milestone.  
+
+We are adopting a lightweight weighting system, similar to those adopted by other teams.
+* [Plan:Project Management BE Team Capacity Planning](/handbook/engineering/development/dev/plan-project-management-be/#capacity-planning)
+* [Create: Source Code BE Team Weights](/handbook/engineering/development/dev/create-source-code-be/#weights)
+* [Geo Team Weights](/handbook/engineering/development/enablement/geo/#weights)
+
+Since we are a small team, each member is expected to comment on issue weight.  Asking each member to estimate the weight will give the team a better understanding of the goals of the milestone, encourage communication around the issues, and lead to clarifying questions.  If anyone feels they do not have enough information to comfortably apply a weight, they are encouraged to comment on the issues asking for more details.  After feeback on issue weight has been gathered, the Engineering Manager is responsible to ensure that all issues within the milestone have a weight assigned.
+
+#### Weights
+
+| Weight | Description  |
+| --- | --- | 
+| 1: Trivial | The problem is very well understood, no extra investigation is required, the exact solution is already known and just needs to be implemented, no surprises are expected, and no coordination with other teams or people is required.<br><br>Examples are documentation updates, simple regressions, and other bugs that have already been investigated and discussed and can be fixed with a few lines of code, or technical debt that we know exactly how to address, but just haven't found time for yet. |
+| 2: Small | The problem is well understood and a solution is outlined, but a little bit of extra investigation will probably still be required to realize the solution. Few surprises are expected, if any, and no coordination with other teams or people is required.<br><br>Examples are simple features, like a new API endpoint to expose existing data or functionality, or regular bugs or performance issues where some investigation has already taken place. |
+| 3: Medium | Features that are well understood and relatively straightforward. A solution will be outlined, and most edge cases will be considered, but some extra investigation will be required to realize the solution. Some surprises are expected, and coordination with other teams or people may be required.<br><br>Bugs that are relatively poorly understood and may not yet have a suggested solution. Significant investigation will definitely be required, but the expectation is that once the problem is found, a solution should be relatively straightforward.<br><br>Examples are regular features, potentially with a backend and frontend component, or most bugs or performance issues. |
+| 5: Large | Features that are well understood, but known to be hard. A solution will be outlined, and major edge cases will be considered, but extra investigation will definitely be required to realize the solution. Many surprises are expected, and coordination with other teams or people is likely required.<br><br>Bugs that are very poorly understood, and will not have a suggested solution. Significant investigation will be required, and once the problem is found, a solution may not be straightforward.<br><br>Examples are large features with a backend and frontend component, or bugs or performance issues that have seen some initial investigation but have not yet been reproduced or otherwise "figured out". |
+
+Anything larger than 5 should be broken down.
+
+### Boards
+
+ * [Memory by Milestone](https://gitlab.com/groups/gitlab-org/-/boards/1143987?label_name[]=group%3A%3Amemory) 
+   * The main board used for planning and prioritization.  Issues are placed into milestones and in priority order from top to bottom.  When looking for work, team members should choose the topmost item from this list that is unassigned.
+ * [Memory:Workflow Kanban](https://gitlab.com/groups/gitlab-org/-/boards/1065668?&label_name[]=group%3A%3Amemory) 
+   * Reflects the current state of the issue (Open, Ready for Development, In Dev, In Review, Blocked, Closed).
+ * [Memory:Planning](https://gitlab.com/groups/gitlab-org/-/boards/1077383?&label_name[]=group%3A%3Amemory)
+   * A view of issues grouped by Priority or Severity.
+ * [Memory by Team Member](https://gitlab.com/groups/gitlab-org/-/boards/1156292?&label_name[]=group%3A%3Amemory)
+   * A view of issues grouped by assignee. 
+
+
+## Common Links
+
+ * [Memory Team Knowledge Sharing](./knowledge.html)
+ * [Memory Team YouTube playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq_5ZWIHYfbcAYjtXYcEZA3)
+ * [Memory Team subgroup](https://gitlab.com/gitlab-org/memory-team)
+ * [Retrospective page](https://gitlab.com/gl-retrospectives/memory-team)
+ * Slack Channel [#g_memory](https://gitlab.slack.com/messages/CGN8BUCKC)
+ * [Talent skills](/job-families/engineering/backend-engineer/#memory) that help the team
+ * [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline)
+

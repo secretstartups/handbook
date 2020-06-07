@@ -1,0 +1,167 @@
+---
+layout: handbook-page-toc
+title: Fulfillment Backend Team
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Vision
+
+For more details about the product vision for Fulfillment, see our [Fulfillment](/direction/fulfillment/) page.
+
+Fulfillment manages several product categories:
+
+| Category | Description |
+| ------ |  ------ |
+| [Licensing (license.gitlab.com)](https://gitlab.com/gitlab-org/license-gitlab-com) | Covers all aspects of our licensing model, from how we count seats and conduct true-up to how we count active seats and keep the customer informed on their seat utilization. |
+| [Transactions (customers.gitlab.com)](https://gitlab.com/gitlab-org/customers-gitlab-com) | How customers pay for GitLab. Licensing is about how we package GitLab as an offering, whereas Transactions is about how we fulfill those business relationships and how we make doing business with GitLab a great experience for both self-managed and GitLab.com. |
+
+## Team members
+
+<%= direct_team(manager_role: 'Backend Engineering Manager, Fulfillment', role_regexp: /[,&] Fulfillment/) %>
+
+## Stable counterparts
+
+<%= stable_counterparts(role_regexp: /[,&] Fulfillment/, direct_manager_role: 'Backend Engineering Manager, Fulfillment') %>
+
+## How we work
+
+* In accordance with our [GitLab values](/handbook/values/)
+* Transparently: nearly everything is public, we record/livestream meetings whenever possible
+* We get a chance to work on the things we want to work on
+* Everyone can contribute; no silos
+
+### Development workflow
+
+```mermaid
+graph TD;
+    A(Planning and prioritization) -->|Estimation | B[Ready for development];
+    B --> C[In dev];
+    C --> D[In review];
+    D --> E(Verification);
+    E --> F(Closed fa:fa-check-circle);
+```
+
+### Planning
+
+We plan in monthly cycles in accordance with our [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline).
+Release scope for an upcoming release should be finalized by the `1st`.
+
+On or around the `26th`: Product meets with Engineering Managers for a preliminary issue review. Issues are tagged with a milestone and are estimated initially.
+
+
+#### Historical capacity
+
+<%= partial("handbook/engineering/development/growth/be-fulfillment/historical_capacity", locals: { chart_id: 7362278 }) %>
+
+### Picking something to work on
+
+Engineers can find and open [the milestone board for Fulfillment](https://gitlab.com/groups/gitlab-org/-/boards/)
+and begin working first on those with the `deliverable` label.
+
+It's possible for engineers to pick any of the remaining issues for the milestone once the deliverables are done. If the engineer has no preference, they can choose the next available issue from the top.
+
+The following table will be used as a guideline for scheduling work within the milestone:
+
+| Type        | % of Milestone | Description                                                                                |
+|-------------|----------------|-------------|------------------------------------------------------------------------------|
+| Deliverable | 40%            | business priorities (compliance, IACV, efficiency initiatives)                             |
+| Bug         | 16%            | non-critical bug fixes                                                                     |
+| Tech debt   | 10%            |                                                                                            |
+| Features    | 14%            | non-critical                                                                               |
+| Other       | 20%            | engineer picks, critical security/data/availability/regression, urgent business priorities |
+
+An issue will have at least 4 stages, and they should be moved accordingly using the [Fulfillment workflow board](https://gitlab.com/groups/gitlab-org/-/boards/1072626)
+
+These are:
+
+* Ready for development
+* In dev
+* In Review
+* Verification
+
+### Quality
+
+#### Quad-planning workflow
+
+When a `feature` or `Deliverable` proposal issue moves into `workflow::planning breakdown`, [SETs](https://about.gitlab.com/handbook/engineering/quality/#stable-counterparts) owns the completion of the `Availability and Testing` section in the Feature Proposal to complete the definition of done. As we grow to reach our [desired ratio](https://about.gitlab.com/handbook/engineering/quality/#staffing-planning), we will only have the quad approach in groups where we have an assigned SET in place.
+1. PM applies the label `quad-planning::ready` when the feature is reviewed by the team and is ready to be implemented.
+1. SET is the DRI for the `Availability and Testing` section, ensuring that the strategy accounts for all test levels and facilitating discussions and feedback with the group.
+1. SET determines what regressions will need to be run, this is made clear in the above section.
+1. SET applies the label `quad-planning::complete-action` if they have are recommendations (e.g. running regression job, writing additional tests, etc.).
+1. SET applies the label `quad-planning::complete-no-action` if there is no additional actions needed.
+
+[Quad Planning Dashboard](https://app.periscopedata.com/app/gitlab/634305/Quad-Planning-Dashboard?widget=8844548&udv=1040834) showcases the total Planned issues for Quad Planning vs the actual ones for each milestone.
+
+#### Tests
+
+The customer portal has different types of tests running:
+
+1. Linting and [rubocop](https://github.com/rubocop-hq/rubocop) jobs
+1. Unit tests (specs, these could be of many types, such as controller specs)
+1. Integration tests (specs, mocking external calls)
+1. Frontend tests
+1. E2E integration tests (TBD)
+
+We also have a flag `VCR` that mocks external calls to Zuora by default. We have a [daily pipeline](https://gitlab.com/gitlab-org/customers-gitlab-com/pipeline_schedules) that runs at 9AM UTC with the flag set so the API calls hit the Zuora sandbox and we are notified of any failure (due to potential API changes).
+
+Any test failure is notified to #g_fulfillment_status including a link to the pipeline. Pipeline failures will prevent deployments to staging and production.
+
+### Deployment
+
+We use CD (Continuous Deployment) for the [transactions portal](https://gitlab.com/gitlab-org/customers-gitlab-com/) and a MR goes through the following stages once it gets merged into the `staging` branch:
+
+```mermaid
+graph TD;
+    A(Merged) --> |Green tests| B(Staging);
+    B --> C[Verification];
+    C --> D(Auto deploy to production in 3 hours);
+```
+
+If something goes wrong at the `Verification` stage, we could create an issue with the label `production::blocker`, which will prevent deployment to production. The issue cannot be confidential.
+
+For MRs with significant changes, we should consider using [feature flags](https://gitlab.com/gitlab-org/customers-gitlab-com/#feature-flags) or create an issue with the `production::blocker` label to pause deployment and a allow for longer testing.
+
+### Feature freeze
+
+The feature freeze for Fulfillment occurs at the same time as the rest of the company, normally around the 18th.
+
+| App | Feature freeze (*) | Milestone ends |
+| ---      |  ------  |----------|
+| GitLab.com   | ~18th-22nd   | Same as the freeze |
+| Customers/License   | ~18th-22nd   | Same as the freeze |
+
+(*) feature freeze may vary according to the [auto deploy transition document](https://gitlab.com/gitlab-org/release/docs/blob/master/general/deploy/auto-deploy-transition.md#transition).
+
+Any issues not merged on the current milestone post feature freeze, will need to be moved to the next one (priority may also change for those).
+
+### Measuring Engineering Throughput
+
+One of our main engineering metrics is [throughput](https://about.gitlab.com/handbook/engineering/management/throughput/) which is the total number of MRs that are completed and in production in a given period of time. We use throughput to encourage small MRs and to practice our values of [iteration](https://about.gitlab.com/handbook/values/#iteration). Read more about [why we adoped this model](https://about.gitlab.com/handbook/engineering/management/throughput/#why-we-adopted-this-model).
+
+We aim for 12 MRs per engineer per month which is tracked using our [throughput metrics dashboard](https://app.periscopedata.com/app/gitlab/559055/WIP:-Backend-Growth:Fulfillment-Development-Metrics).
+
+We also have a general [quality dashboard](https://quality-dashboard.gitlap.com/groups/gitlab-org/sections/group::fulfillment) for the whole Fulfillment team.
+
+### Meetings (Sync)
+
+We optionally join the Growth sync meetings on Wednesdays. See the [agenda](https://docs.google.com/document/d/1VMj16-tvJg4m26y6q7A1jSdBD895ImFM2fbXvFXF4yM/edit?usp=sharing).
+
+We hold optional synchronous social meetings weeekly, every Wednesday at 03:30pm UTC. In these meetings we chat about anything outside work.
+
+### Retrospectives
+
+After the `8th`, the Fulfillment team conducts an [asynchronous retrospective](/handbook/engineering/management/team-retrospectives/). You can find current and past retrospectives for Fulfillment in [https://gitlab.com/gl-retrospectives/fulfillment/issues/](https://gitlab.com/gl-retrospectives/fulfillment/issues/).
+
+## Common links
+
+ * [All open Fulfillment epics](https://gitlab.com/groups/gitlab-org/-/epics?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Afulfillment)
+ * [Issue Tracker](https://gitlab.com/gitlab-org/fulfillment/issues)
+ * [Slack channel #g_fulfillment](https://gitlab.slack.com/app_redirect?channel=g_fulfillment)
+ * [Daily standup channel #g_fulfillment_daily](https://gitlab.slack.com/app_redirect?channel=g_fulfillment_daily)
+ * [Team calendar](https://calendar.google.com/calendar/embed?src=gitlab.com_7199q584haas4tgeuk9qnd48nc%40group.calendar.google.com)
+ * [Fulfillment technical debt status](https://app.periscopedata.com/app/gitlab/618368/Growth-technical-debt-status)

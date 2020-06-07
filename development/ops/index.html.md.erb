@@ -1,0 +1,223 @@
+---
+layout: handbook-page-toc
+title: Ops Sub-department
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Vision
+
+Enable developers to reliably manage infrastructure, services, and applications in production environments.
+
+## FY21 Direction
+
+
+We are focused on one of the major themes of [GitLab's one year product plan](https://about.gitlab.com/direction/#1-year-plan):
+
+> Compete in Ops: Enable today's modern best-practices in operations without
+> the burden of specialized teams, multiple tools and heavy workflows.
+
+We will focus on driving dogfooding of Monitoring and Configuration features
+within GitLab teams in order to accelerate feedback and demonstrate our
+capabilities can be relied on for critical production use cases such as running
+gitlab.com.
+
+More details about Ops Section direction and plans:
+
+* [Ops Section one year plan](https://about.gitlab.com/direction/ops/#one-year-plans)
+* [GitLab's one year product plan](https://about.gitlab.com/direction/#1-year-plan)
+
+
+## Who we are
+
+The following people are members of the Ops Section:
+<%
+section_name = 'Ops Section'
+section_groups = ['Configure Group','Monitor:APM','Monitor:Health']
+%>
+<%=  department_team(base_department: section_name, remove_departments: section_groups) %>
+
+### Configure
+<%=  product_group(group: 'Configure') %>
+
+### Monitor:APM
+<%=  product_group(group: 'Monitor:APM') %>
+
+### Monitor:Health
+<%=  product_group(group: 'Monitor:Health') %>
+
+## How we work
+
+### Planning Process
+
+Groups within the Ops Sub-department follow an async planning process to coordinate planning and discussion between members of the group. This process is related to the general [GitLab Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline) process and adds additional practices we've found useful.
+
+The goals of this process are to ensure we:
+
+* Transparently describe the goals for each milestone so team members can align on them and effectively plan and execute their contributions.
+* Efficiently coordinate handoffs between the validate and build tracks within each milestone, such as design and development.
+* Efficiently discuss and define the scope of work for development, product design, and quality engineering.
+
+Teams can customize this process to meet needs specific to their team as long as the customizations are documented on their team handbook page.
+
+
+#### M-1, 22nd (1 month before start of milestone)
+
+* PM: create a Planning Issue for the milestone from the team's [Planning Issue Template](#planning-issue-template).
+* PM: Set the Planning Issue milestone based on the current working milestone (e.g. Planning Issue 12.10 goes in milestone 12.9).
+* PM: update **Goals for the Milestone** in Planning Issue description.
+* PM: assign the Planning Issue to the PM, Engineering Managers, Product Designer, and Software Engineer in Test.
+* PM: ask for feedback on the **Goals for the Milestone** by adding comments for the product group members and other teams' group members if cross-team collaboration is required. 
+
+#### M-1, 1st (~3 weeks before start of milestone)
+
+* Engineering Managers: update **Scope of Engineering Work**
+* Product Designer: update **Scope of Work for UX**
+* PM: review scope of works and provide feedback to Engineering Managers and Product Designers via comments on the issue.  Synchronous conversations are encouraged but should be summarized as comments.
+
+#### M-1, 8th (~2 weeks before start of milestone)
+
+* Product Designer: attach first draft designs to the planning issue (directly or via linked issue)
+* Product Designer: add a comment asking for feedback on first draft designs
+* Engineering Managers: add a comment asking for feedback on Scope of Engineering work from engineers or other GitLabbers
+
+#### M-1, 15th (~1 weeks before start of milestone)
+
+* Product Designer: attach next draft designs to the planning issue (directly or via linked issue)
+* Product Designer: add a comment asking for feedback on next draft designs
+* Software Engineer in Test: review issues under **Scope of Engineering Work** and apply `~quad-planning` label
+* Software Engineer in Test: update **Scope of Work for Testing**
+
+#### M, 22nd (Start of milestone)
+
+* PM: close Planning Issue
+
+#### Planning Issue Template
+
+Planning issue templates follow a format similar to this. Teams can add additional headings specific to their team.
+
+    ### <Section> Planning Board
+    <!-- link to your sections planning board -->
+
+    ### Goals for the milestone:
+
+    <!-- Replace with the high-level goals to be achieved by the end of the milestone -->
+    *  Goal 1...
+    *  Goal 2...
+
+    ### Scope of Work for Engineering
+
+    <!--
+    List of issues in priority order go in this table
+    Use :white_check_mark: for Frontend and/or Backend if there is work for that team
+    -->
+
+    | Priority | Issue | Category | Notes | Frontend | Backend |
+    |----------|-------|----------|-------|----------|---------|
+    | 1        |       |          |       |          |         |
+    | 2        |       |          |       |          |         |
+
+    ### Scope of Work for Engineering Debt
+
+    <!-- What work of Engineering Debt from the past will Engineering be focused on? 
+          - Should be at least 1 Issue per Milestone
+          - The more we can handle the better... balance
+    -->
+
+    | Issue | When it should be ready |
+    |-------|-------------------------|
+    |       |                         |
+    
+    ### Scope of New Work for UX
+
+    <!-- What new work will UX be focused on? 
+          - Design based on research in previous Milestones
+          - Research to help inform designs for future Milestones
+          - Research to validate previously designed UI
+    -->
+
+    | Issue | When it should be ready |
+    |-------|-------------------------|
+    |       |                         |
+
+    ### Scope of Work for UX Debt
+
+    <!-- What work of UX Debt from the past will UX be focused on? 
+          - Should be at least 1 Issue per Milestone
+          - The more we can handle the better... balance
+    -->
+
+    | Issue | When it should be ready |
+    |-------|-------------------------|
+    |       |                         |
+
+    ### Scope of Work for Software Engineers in Test
+
+    <!-- What work will Testing be focused on? -->
+
+    | Issue | Investigates/Tests | Due on |
+    |-------|--------------------|--------|
+    |       |                    |        |
+
+    /label <!-- add section label here --> ~"Planning Issue" 
+
+Team Planning Issue Templates:
+
+* [Configure Team Template](https://gitlab.com/gitlab-org/configure/general/-/blob/master/.gitlab/issue_templates/Planning_Issue.md)
+* [Monitor APM Team Template](https://gitlab.com/gitlab-org/monitor/apm/-/blob/master/.gitlab/issue_templates/planning-issue.md)
+* [Monitor Health Team Template](https://gitlab.com/gitlab-org/monitor/health/-/blob/master/.gitlab/issue_templates/planning-issue.md)
+
+
+#### Planning Issue Board
+
+All the planning issues are viewable on the [Ops Section - Issue Planning (Issue Board)](https://gitlab.com/groups/gitlab-org/-/boards/1567586)
+
+## Team Handbook Pages
+
+* [Configure](/handbook/engineering/development/ops/configure/)
+* [Monitor Stage Groups](/handbook/engineering/development/ops/monitor/)
+  * [Monitor:APM Group](/handbook/engineering/development/ops/monitor/apm/)
+  * [Monitor:Health Group](/handbook/engineering/development/ops/monitor/health/)
+
+## Celebrations
+
+### June 2020 Ops Sub-Department Virtual Pizza Party
+
+The Ops Sub-Department is holding a Virtual Pizza Party to celebrate our collective achievements in May.  Specifically these include:
+
+1. Shipped a ton of awesome features and improvements including:  
+      1. Terraform State Backend
+      1. Terraform Plan summary in MRs
+      1. Rolled out a GitLab Metric Dashboard as GitLab.com's new official SLA dashboard
+      1. Shipped variables in Metric Dashboards and a bunch of other dashboard improvements
+      1. Brought Alert Management from planned to minimal in one milestone
+      1. Multiple Status Page improvements, such as the /publish feature
+1. A [significant increase in MRs](https://app.periscopedata.com/app/gitlab/533956/Development-Department-and-Sub-department-MR-Metrics?widget=7009931&udv=0).  We merged 405 MRs, a 38% increase over the previous all time high of 292!
+
+These are impressive results and we will take a moment to celebrate everyone's hard work contributing to them.
+
+Members of the Ops Sub-Department and their stable counterparts can expense up to $25 in the month of June for pizza (or food items of your choice).  We will also hold several Pizza Party meetings where team members can (optionally) enjoy their pizza with their colleagues and a slack channel where team members can (optionally) share photos of themselves celebrating.  Expenses must be incurred in the month of June 2020 and should be submitted through the normal expense process, with a description of June 2020 Ops Sub-Department Virtual Pizza Party.
+
+#### Virtual Pizza Party Slack channel
+
+The slack channel [#ops-virtual-pizza-party-celebration](https://join.slack.com/share/zt-f7fhemhc-aG8oXIt92yNTFZ135x5y_Q) is created for you to (optionally) share photos with your teammates of you celebrating May's accomplishments.
+
+#### Virtual Pizza Party Zoom Calls
+
+Pizza Party meetings where team members can (optionally) enjoy their pizza with their collegues.
+
+Schedule TBD
+
+## Useful Links
+
+ * [Slack Channel](https://gitlab.slack.com/archives/CKW6KLB8F)
+ * [Ops Section - Issue Planning (Issue Board)](https://gitlab.com/groups/gitlab-org/-/boards/1567586)
+ * [Configure - Technical Debt (Issue Board)](https://gitlab.com/groups/gitlab-org/-/boards/1569863)
+ * [Monitor - Technical Debt (Issue Board)](https://gitlab.com/groups/gitlab-org/-/boards/1557406)
+ * Feature Showcase: A project that demonstrates Ops features.
+   * [Live Environment](https://gitlab-org-monitor-tanuki-inc.34.69.64.147.nip.io/)
+   * [Project Repo](https://gitlab.com/gitlab-org/monitor/tanuki-inc/)

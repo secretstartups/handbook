@@ -1,0 +1,93 @@
+---
+layout: handbook-page-toc
+title: Plan:Portfolio Management Backend Team
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Plan:Portfolio Management backend team
+
+The Plan:Portfolio Management backend team works on the backend part of
+GitLab's [Portfolio Management category] in the [Plan stage].
+
+For more details about the vision for this area of the product, see the
+[Plan stage] page.
+
+[Portfolio Management category]: /handbook/product/categories/#portfolio-management-group
+[Plan stage]: /direction/plan/
+
+### Team members
+
+This team is currently shared between Plan:Portfolio Management and
+[Plan:Certify].
+
+[Plan:Certify]: /handbook/engineering/development/dev/plan-certify-be/
+
+<%= direct_team(manager_role: 'Backend Engineering Manager, Plan:Portfolio Management & Plan:Certify') %>
+
+### Stable counterparts
+
+<%= stable_counterparts(role_regexp: /[,&] (Plan(?!:)|Plan:Portfolio Management)/, direct_manager_role: 'Backend Engineering Manager, Plan:Portfolio Management & Plan:Certify') %>
+
+### Hiring chart
+
+This chart shows the progress we're making on hiring. Check out our
+[jobs page](/jobs/) for current openings.
+
+<%= hiring_chart(department: 'Plan:Portfolio Management BE Team') %>
+
+### Team metrics dashboard 
+
+<%= partial("handbook/engineering/development/dev/plan/shared_portfolio_certify_dashboard") %>
+
+### Application performance dashboard
+
+<%= partial("handbook/engineering/development/dev/plan/portfolio_certify_application_dashboard") %>
+
+## OKRs
+
+### Current (FY21-Q1)
+
+- [Improve Group Productivity](https://gitlab.com/gitlab-com/www-gitlab-com/issues/6515)
+  - [Average 11 MRs/Eng/month over the quarter](https://gitlab.com/gitlab-org/plan/issues/74)
+  - Maintain MTTM below 14 days
+- [Support Incremental ACV](https://gitlab.com/gitlab-com/www-gitlab-com/issues/6574)
+  - Deliver two ~"planning priority" items directly tied to revenue, per group
+    - [Single Level Epics to Premium](https://gitlab.com/gitlab-org/gitlab/issues/37081)
+    - [Weights and progress information in roadmap Epic bars](https://gitlab.com/gitlab-org/gitlab/issues/5164)
+    - [Requirements Management MVC](https://gitlab.com/gitlab-org/gitlab/issues/32733)
+    - [Private comments on Service Desk issues](https://gitlab.com/gitlab-org/gitlab/issues/2459)
+  - Deliver 3 performance or Application Limits issues
+
+
+## Work
+
+See the [Plan stage page] and the [Plan:Project Management backend team
+page].
+
+[Plan stage page]: /handbook/product/categories/plan/
+[Plan:Project Management backend team page]: /handbook/engineering/development/dev/plan-project-management-be/
+
+### Capacity Planning
+
+<%= partial("handbook/engineering/development/dev/plan/capacity_planning") %>
+
+#### Weighing bugs
+
+<%= partial("handbook/engineering/development/dev/plan/weighing_bugs") %>
+
+#### Continuous Estimation
+
+<%= partial("handbook/engineering/development/dev/plan/planning_rotation") %>
+
+#### Historical Capacity
+
+<%= partial("handbook/engineering/development/dev/plan/historical_capacity", locals: { chart_ids: [7693825, 7693879] }) %>
+
+## Useful links
+
+<%= partial("handbook/engineering/development/dev/plan/useful_links", locals: { board: { name: 'Plan:Portfolio Management & Certify Build Board', url: 'https://gitlab.com/groups/gitlab-org/-/boards/1569369?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Aplan&not[label_name][]=group%3A%3Aproject%20management' }}) %>

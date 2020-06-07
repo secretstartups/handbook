@@ -1,0 +1,69 @@
+---
+layout: handbook-page-toc
+title: Database Engineering
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+This page is dedicated to database application engineering and provides an entry-point for resources on this topic.
+
+Also see [Database Team](/handbook/engineering/development/enablement/database/) in Enablement.
+
+## GitLab development
+
+Please refer to the [development documentation for database guidelines](https://docs.gitlab.com/ee/development/#database-guides).
+
+### Database Roles at GitLab
+
+We have two primary job roles that are focused on the database aspect:
+
+1. [Backend Engineer, Database](/job-families/engineering/backend-engineer/) - in Development
+2. [Database Reliability Engineer](/job-families/engineering/database-reliability-engineer/) - in Infrastructure
+
+The Backend Engineer, Database role is a software engineering role concentrated on application-side improvements and foundational database work in the GitLab codebase.
+
+The Database Reliability Engineer is an operational role targeting and running the database infrastructure for GitLab.com from within the Reliability Engineering teams.
+
+#### Database Maintainer
+
+For the [GitLab codebase](https://gitlab.com/gitlab-org/gitlab), Database Maintainers contribute to the [code review process](https://docs.gitlab.com/ee/development/code_review.html) by reviewing database-related changes and applying [database review guidelines](https://docs.gitlab.com/ee/development/database_review.html). They typically engage into conversations about database queries and their performance, database schema design and database migrations.
+
+The Database Maintainer role:
+
+* Is an additional role, typically for Backend Engineers.
+* Follows the same definition as any other [GitLab maintainer](https://about.gitlab.com/handbook/engineering/workflow/code-review/#maintainer).
+* It does not come with operational responsibility for GitLab.com and its database infrastructure. This responsibility belongs to the [Database Reliability Engineer](https://about.gitlab.com/job-families/engineering/database-reliability-engineer/).
+* It is not expected to participate in incident management issues.
+* Adheres to the [review turnaround time](https://docs.gitlab.com/ee/development/code_review.html#review-turnaround-time) of 2 working days. 
+  * At the moment there's a low ratio of engineers per Database Maintainers, causing the Dabatabase Maintainer reviews to take more time. We're actively trying to [increase the number of Database Maintainers](https://gitlab.com/gitlab-org/gitlab-ce/issues/63790). 
+
+If you're interested in participating in database reviews, please start from creating an issue with [this template](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=Trainee%20database%20maintainer).
+
+## Recommended links and reference materials
+
+##### GitLab resources
+
+* Database Office Hours are bi-weekly and can be found on the [GitLab Team Meetings Calendar](/handbook/tools-and-tips/#gitlab-team-meetings-calendar)
+* Database Office Hours playlist on GitLab Unfiltered under the [Database Office Hours Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kp-kqXeiF7fF7cFYaKtdqXM)
+
+##### Books
+
+*(In no particular order.)*
+
+* I. Ahmed, G. Smith et al: "[PostgreSQL 10 High Performance: Expert techniques for query optimization, high availability, and efficient database maintenance.](https://www.amazon.com/dp/1788474481)" (2018)
+* Hans-Jürgen Schönig: "[Mastering PostgreSQL 11](https://www.amazon.com/Mastering-PostgreSQL-techniques-fault-tolerant-applications/dp/1789537819)" (2018)
+* Markus Winand: "[SQL Performance Explained](https://sql-performance-explained.com/)"
+* Dimitri Fontaine: "[The Art of PostgreSQL](https://theartofpostgresql.com/)"
+* Alex Petrov: "[Database Internals](https://www.databass.dev/)"
+
+##### Other resources
+
+* [Official PostgreSQL mailinglists](https://www.postgresql.org/list/), particularly `pgsql-general`
+* [Postgres Weekly](https://postgresweekly.com)
+* [Planet PostgreSQL](https://planet.postgresql.org)
+* [SQL Indexing and Tuning e-Book](https://use-the-index-luke.com/) (also known as "Use The Index Luke")
+* Weekly show on [Scaling PostgreSQL](https://www.scalingpostgres.com/)

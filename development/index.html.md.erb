@@ -1,0 +1,205 @@
+---
+layout: handbook-page-toc
+title: Development Department
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Vision
+
+A world class development team of software engineers and managers who make our customers happy when using our product(s).   Our products should contain broad rich features, high availaiblity, high quality, fast performance, trustworthy security, and reliable operation.
+
+## Mission
+
+The development department strives to deliver MRs fast.  MR delivery is a reflection of:
+* providing new product requirements
+* resolution of customer issues/bugs
+* fixing security problems
+* increasing availability, quality, and reliability
+* fostering open source community contributions
+* Improving user experience
+* fostering best agile practices for fast iterations
+
+The department also focuses on career development and process to make this a preferred destination for high performing software engineers.
+
+We use data to make decisions.  If data doesn't exist we use anecdotal information.  If anecdotal information isn't available we use first principles.
+
+The development team is responsible for developing products in the following categories:
+
+* [CI/CD](/handbook/engineering/development/ci-cd/)
+* [Defend](/handbook/engineering/development/defend/)
+* [Dev](/handbook/engineering/development/dev/)
+* [Enablement](/handbook/engineering/development/enablement/)
+* [Growth](/handbook/engineering/development/growth/)
+* [Ops](/handbook/engineering/development/ops/)
+* [Secure](/handbook/engineering/development/secure/)
+
+
+## Team Members
+
+The following people are permanent members of the Development Department:
+
+<%
+departments = ['Verify', 'Package', 'Release', 'Defend', 'Dev' , 'Enablement', 'Growth', 'Ops', 'Secure', 'Fellow']
+department_regexp = /(#{Regexp.union(departments)})/
+%>
+
+<%=  direct_team(role_regexp: department_regexp, manager_role: 'Senior Director of Development') %>
+
+
+## Stable Counterparts
+
+The following members of other functional teams are our stable counterparts:
+
+<%= stable_counterparts(role_regexp: /[,&] Development/, direct_manager_role: 'Senior Director of Development') %>
+
+## How We Work
+
+### Onboarding
+Welcome to GitLab! We are excited for you to join us.
+Here are some curated resources to get you started:
+
+* [Joining as an Engineer](/handbook/developer-onboarding/)
+* [Joining as an Engineering Manager](/handbook/engineering/development/onboarding/manager/)
+
+### Cross Functional Collaboration
+
+Often times, certain issues can be resolved more efficiently through cross functional collaboration. Should such an issue arises, the following lightweight process is followed:
+
+1. Add the label `Architecture decision` to the issue.
+1. Raise attention in Slack [#architecture-decision](https://gitlab.slack.com/archives/CJ4DB7517).
+
+Note: once the label is added, the issue will also appear on the [development department board](https://gitlab.com/gitlab-com/www-gitlab-com/boards/1008667?label_name[]=Development%20Department) to receive appropriate attention.
+
+#### Working across Stages
+
+Issues that impact code in another team's product stage should be approached collaboratively with the relevant Product and Engineering managers prior to work commencing, and reviewed by the engineers responsible for that stage.
+
+We do this to ensure that the team responsible for that area of the code base is aware of the impact of any changes being made and can influence architecture, maintainability, and approach in a way that meets their stage's roadmap.
+
+### Development Headcount planning
+
+Development's headcount planning follows the Engineering [headcount planning](/handbook/engineering/#headcount-planning) and [long term profitability targets](/handbook/engineering/#long-term-profitability-targets).  Development headcount is a percentage of overall engineering headcount.  For FY20, the headcount size is 271 or ~58% of overall engineering headcount.
+
+We follow normal span of control both for our managers and directors of [4 to 10](/handbook/leadership/#management-group).  Our sub-departments and teams match as closely as we can to the [Product Hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy) to best map 1:1 to [Product Managers](/handbook/product/).
+
+### Daily Duties for Engineering Directors
+
+The following is a non exhaustive list of daily duties for engineering directors, while some items are only applicable at certain time, though.
+* Review engineering metrics boards in Sisense
+  * [Development KPIs](https://app.periscopedata.com/app/gitlab/504639/Development-KPIs)
+  * [Sub-department MR metrics](https://app.periscopedata.com/app/gitlab/533956/Development-Section-MR-Metrics)
+  * Sub-department and group specific boards, for example [Dev Sub-department Overview Board](https://app.periscopedata.com/app/gitlab/561630/Dev-Section-Overview-Dashboard)
+* Review hiring dashboards
+* Personal todo list
+* Personal GitLab board(s) if any
+* [Working groups](/company/team/structure/working-groups/) that the director drives or participates in
+  * Action items in agenda documents
+  * Issue boards
+  * Slack channel
+* [Availability & Performance refinement](/handbook/engineering/workflow/#availability-and-performance-refinement)
+  * Follow up open questions and ensure appropriate handling of issues with regard to priority and severity
+  * [Agenda document](https://docs.google.com/document/d/1SanPUz86cIyRQR5kRmXyCLLE8sZVpx0auu_W6jY94W4/edit)
+  * [Infradev board](https://gitlab.com/groups/gitlab-org/-/boards/1193197?label_name[]=infradev)
+  * [Performance board](https://gitlab.com/groups/gitlab-org/-/boards/1233204?label_name[]=performance-refinement)
+* Follow active [Engineering Rapid Action(s)](#rapid-action-issue) that the director sponsors
+  * Standup/status update document
+  * Issue board
+
+## Learning Resources
+
+### Secure coding best practices
+
+It is important that all developers are aware of [secure coding best practices](/handbook/engineering/security/secure-coding-training.html) and refresh this knowledge periodically.  This is tracked via [Secure Coding Training Guidelines](secure-coding/).
+
+### Ruby on Rails Performance Training
+
+The materials from an earlier Ruby on Rails performance workshop can be found on [internally shared Google drive](https://drive.google.com/drive/search?q=in:0ACCfBKgYFjLvUk9PVA).
+
+#### Video Sessions
+
+| Day | Topics | Video Links |
+| --- | --- | --- | 
+| Session - Day 1 | Intro and overview | [Monday](https://drive.google.com/drive/search?q=title:%22day%201%20session%22%20parent:15EaLvFMexoJu7pHQQdTDuInhFRk_lOLq) [Wednesday](https://drive.google.com/drive/search?q=title:%22day%201%20session%22%20parent:1dJ08oeWdff4BpcrlVjuRQIPARYXE-LGY) |
+| Session - Day 2 | Tools | [Monday](https://drive.google.com/drive/search?q=title:%22day%202%20session%22%20parent:15EaLvFMexoJu7pHQQdTDuInhFRk_lOLq) [Wednesday](https://drive.google.com/drive/search?q=title:%22day%202%20session%22%20parent:1dJ08oeWdff4BpcrlVjuRQIPARYXE-LGY) |
+| Session - Day 3 | SQL and N+1 Troubleshooting | [Monday](https://drive.google.com/drive/search?q=title:%22day%203%20session%22%20parent:15EaLvFMexoJu7pHQQdTDuInhFRk_lOLq) [Wednesday](https://drive.google.com/drive/search?q=title:%22day%203%20session%22%20parent:1dJ08oeWdff4BpcrlVjuRQIPARYXE-LGY)| 
+| Session - Day 4 | Queueing Theory | [Monday](https://drive.google.com/drive/search?q=title:%22day%204%20session%22%20parent:15EaLvFMexoJu7pHQQdTDuInhFRk_lOLq) [Wednesday](https://drive.google.com/drive/search?q=title:%22day%204%20session%22%20parent:1dJ08oeWdff4BpcrlVjuRQIPARYXE-LGY) |
+
+### Database
+
+Here is the information of a PostgreSQL query optimization bot at GitLab - Joe: [Blueprint](https://about.gitlab.com/handbook/engineering/infrastructure/library/database/postgres/query-optimization-bot/blueprint/) and [Design](https://about.gitlab.com/handbook/engineering/infrastructure/library/database/postgres/query-optimization-bot/design/).
+
+## Continuous Delivery, Infrastructure and Quality Collaboration
+
+In late June 2019, we moved from a monthly release cadence to a more continuous
+delivery model.  This has led to us changing from issues being
+concentrated during the deployment to a more constant flow.  With the adoption
+of continuous delivery, there is an organizational mismatch in cadence between
+changes that are regularly introduced in the environment and the monthly
+development cadence.
+
+To reduce this, infrastructure and quality will engage development via
+[Availability & Performance
+Refinement](https://gitlab.com/groups/gitlab-org/-/boards/1193197) which
+represents critical issues to be addressed in development from infrastructure
+and quality. Issues on this board are tagged with `gitlab.com` and `infradev`
+labels. A director from development will be assigned to groom the board, work
+with product/infrastructure/quality to set priority/severity of issues, make sure they
+are assigned and worked, and escalate where necessary for resolution.
+
+Refinement will happen on a weekly basis and involve a member of infrastructure,
+quality, product management, and development.
+
+### Rapid Action Issue
+
+Rapid Action, as the name implies, is the process we use when a critical situation arises needing immediate attention from various stakeholders.  When the situation is identified as a potential Rapid Action the following guidance is recommended.
+
+* Create an issue or epic labeled with `rapid action`
+* Identify the stakeholders involved and cc them on the issue/epic
+* Create a doc using [this](https://docs.google.com/document/d/1ZIJvWgo2W4Tw3mmXs_WDJK5Di-zfANtgYgiTZ5Afdyc/edit) template to track the progress of the rapid action
+on a daily basis
+* (Optional) create a slack room dedicated to this rapid action
+* In the document and tracking issue list the context, stakeholders and exit criteria
+
+It is recommended that daily progress is updated in the agenda.  Once the exit criteria has been met, remove the `rapid action` label,  close the rapid action issue and prepend the agenda document with "Closed" or "Deprecated" to indicate its status.
+
+### Email alias and roll-up
+1. Available email alias (a.k.a. Google group):
+
+   Managers, Directors, Sr. Director's teams: each alias includes everyone in the respective organization.
+
+1. Naming convention:
+
+   team@gitlab.com, examples below -
+   * Managers: configure-be@gitlab.com includes all the engineers reporting to the Configure backend engineering manager.
+   * Directors: ops-section@gitlab.com includes all the engineers and managers reporting to the director of engineering, Ops.
+   * Sr. Director: development@gitlab.com includes all engineers, managers, and directors reporting to the senior director of development.
+
+1. Roll up:
+
+   Teams roll up by the org chart hierarchy -
+   * Engineering managers' aliases are included in respective Sub-department aliases
+   * Sub-department aliases are included in Development alias
+
+### Development Escalation Process ###
+* [General information](./processes/Infra-Dev-Escalation/)
+* [Process outline](./processes/Infra-Dev-Escalation/process.html)
+
+## Books
+
+Note: books in this section [can be expensed](/handbook/spending-company-money).
+
+Interested in reading this as part of a group? We occassionally self-organize [book 
+clubs](/handbook/leadership/book-clubs/) around these books and those listed on our [Leadership page](/handbook/leadership/#books).
+
+1. [The Principles of Product Development Flow](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009/)
+
+## Common Links
+
+* [Development department board](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/1008667?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Development%20Department)
+* [Current OKR's](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/1008667?scope=all&utf8=✓&state=opened&label_name[]=Development%20Department&label_name[]=OKR)
+* Slack channel [#development](https://gitlab.slack.com/messages/C02PF508L)

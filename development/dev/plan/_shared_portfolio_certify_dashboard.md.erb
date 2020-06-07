@@ -1,0 +1,20 @@
+Since we share a backend team between the Plan:Portfolio Management and Certify
+groups, we have a [combined metrics dashboard][dashboard]. This is intended to
+track against some of the [Development Department KPIs][kpis], particularly
+those around merge request creation and acceptance. From that dashboard, the
+following charts show [MR Rate] and
+[Mean time to merge (MTTM)] respectively.
+
+<%= team_mr_rate_chart(team_id: 'plan_portfolio_management_be', html_options: { width: '49.7%', height: '300' }) %>
+<%= team_mean_time_to_merge_chart(team_id: 'plan_portfolio_management_be', html_options: { width: '49.7%', height: '300' }) %>
+
+
+The following chart shows a breakdown of MRs by category (omitting Security, for
+now). Totals may vary slightly from overall throughput as some MRs may have more
+than one throughput label.
+<%= team_mr_categories_chart(team_id: 'plan_portfolio_management_be') %>
+
+[dashboard]: https://app.periscopedata.com/app/gitlab/570334/Universal-Engineering-Team-Metrics-Dashboard
+[kpis]: /handbook/business-ops/data-team/metrics/#development-department-kpis
+[MR Rate]: https://about.gitlab.com/handbook/engineering/development/performance-indicators/#mr-rate
+[Mean time to merge (MTTM)]: https://about.gitlab.com/handbook/engineering/development/performance-indicators/#mean-time-to-merge-mttm

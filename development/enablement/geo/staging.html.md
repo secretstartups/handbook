@@ -1,0 +1,72 @@
+---
+layout: handbook-page-toc
+title: "Geo on staging.gitlab.com"
+description: "Document Geo installation on staging.gitlab.com"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+#### Summary
+
+Geo is fully operational on the staging environment of GitLab.com. This is a major dogfooding effort that allows the team to test and validate new features at scale, catch bugs, and identify performance issues. This is important for our customers because it increases our confidence in any Geo improvements we make.
+
+The following items describe some specific settings or how we addressed some of these issues while enabling Geo on the staging environment:
+
+##### Architecture
+
+We have one [Geo secondary node](https://geo.staging.gitlab.com) up and running for [staging.gitlab.com](https://staging.gitlab.com) configured as an [all-in-one box](https://ops.gitlab.net/gitlab-cookbooks/chef-repo/-/blob/master/roles/gstg-infra-geo-secondary.json) with all components colocated on one single node. We are currently *not* running [a Geo HA deployment](https://docs.gitlab.com/ee/administration/geo/replication/multiple_servers.html).
+
+![Geo Staging Diagram](geo_staging_diagram.png)
+
+##### PostgreSQL replication
+
+We decided to use archive recovery to replicate the data from the Geo primary database in the staging environment. The full description of how we have set up it can be found in [this runbook](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/patroni/geo-patroni-cluster.md#setup-replication-for-a-single-node) at the top section, which refers to single-node installations.
+
+##### PostgreSQL Foreign Data Wrappers (FDW) - Queries timing-out
+
+GitLab Geo uses [PostgreSQL Foreign Data Wrappers (FDW)](https://wiki.postgresql.org/wiki/Foreign_data_wrappers) to perform some cross-database queries between the secondary replica and the tracking database. Despite the technical elegance of this approach, these queries have lead to some problems for Geo.
+
+The staging environment is still running PostgreSQL 9.6, and Geo benefits from some FDW improvements available only in PostgreSQL 10 and later, such as join push-down and aggregate push-down. This leads to some FDW queries timing out during the backfill phase. Since we know this issue is no longer a problem for Geo from PostgreSQL 10 upwards, increasing the statement timeout to 20 minutes on staging was sufficient to allow us to proceed with the backfill.
+
+We are working to [improve Geo scalability by simplifying backfill operations](https://gitlab.com/groups/gitlab-org/-/epics/2851), eliminating these cross-database queries and removing the FDW requirement. We also have a plan to upgrade to [Postgres 11 soon](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/67).
+
+##### Gitaly shards
+
+It is a prerequisite for Geo secondary nodes that they are configured with the same set of logical Gitaly shards. This means that the names in the `git_data_dirs` config must match those in the Geo primary node.
+
+In staging, most primary Git storage shards are almost empty, and some are experimental artifacts for unfinished features like ZFS storage and Praefect. For this reason, we use only one physical shard and store all logical shards on it for now. To achieve this, each logical Gitaly shard defined in `git_data_dirs` in the Geo secondary node shares the same path and `gitaly_address`.
+
+##### Secrets
+
+We had some issues with the Geo secondary node in staging while we were using the staging secrets. The Geo secondary node needs to use its own GKMS secrets store, which allowed us to remove conflicting configuration and set secrets for this node, which are different from production.
+
+##### Deployment
+
+The deploy to the Geo secondary node happens indirectly. One of the final steps while deploying to staging.gitlab.com is to update an attribute in Chef with the version of GitLab that should be running and to set a flag to enable the installation of that specific package. Chef runs roughly every half hour on the Geo secondary node. The next time Chef runs on this node after a successful deployment to staging.gitlab.com, the Geo node will begin upgrading itself. In the worst scenario, the Geo secondary node will take 30 minutes to start the upgrade process.
+
+##### Known issues
+
+The staging environment does not have the data (repositories, LFS Objects, uploads, etc.) on the file system for every project in the database. To avoid a lot of false-positive errors and a waste of resources trying to resync failed registries over and over again, we decided to enable [selective sync](https://docs.gitlab.com/ee/administration/geo/replication/configuration.html#selective-synchronization) at the group level. We currently replicate the `gitlab-org` group.
+
+#### Monitoring
+
+- [Grafana - Geo Primary insights](https://dashboards.gitlab.net/d/WO9bDCnmz/geo-primary-insights?orgId=1&refresh=10s&var-environment=gstg&var-prometheus=prometheus-01-inf-gstg&var-app_prometheus=prometheus-app-01-inf-gstg&var-interval=1h)
+- [Grafana - Geo Secondary status](https://dashboards.gitlab.net/d/l8ifheiik/geo-status?orgId=1&refresh=5m&var-environment=gstg&var-prometheus=prometheus-01-inf-gstg&var-app_prometheus=prometheus-app-01-inf-gstg&var-events_interval=1h)
+- [Sentry](https://sentry.gitlab.net/gitlab/geo-staging-gitlabcom/issues/1387504)
+
+#### Engineering Support Rotation
+
+Every month, a Geo backend engineer will be responsible for monitoring Geo on staging and creating/escalating any issues. This is not an on-call shift and the staging rotation engineer is not required to fix any issues themselves. Prior to their rotation month, the incoming person should make sure they have SSH access to the staging environment and that they are set up to receive monitoring alerts.
+
+##### Rotation Schedule (Next 4 Months)
+
+| Month | Name             |
+| ----- | ------           |
+| May   | [`@mkozono`](https://gitlab.com/mkozono) |
+| June  | [`@toon`](https://gitlab.com/toon) |
+| July  | [`@dbalexandre`](https://gitlab.com/dbalexandre) |
+| August| (slot available) |

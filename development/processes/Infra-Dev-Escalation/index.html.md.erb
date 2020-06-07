@@ -1,0 +1,164 @@
+---
+layout: handbook-page-toc
+title: General Information of Development Escalation Process
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## About This Page
+
+This page outlines the background, goals, success criteria, and implementation detail of infrastructure escalation process and Q&A.
+
+
+## Background
+
+Recently, there have been challenges in maintaining our service level for GitLab.com customers. See the impacts in this [GitLab.com performance degradation summary document](https://docs.google.com/document/d/1GfwzPc1uavB5ZuiA9O8l5sUD7Sq2l2BlwevM5AvOtZA/edit).
+
+This issue is not unique to GitLab when business grows fast and the user base and workload on the hosted SaaS increases exponentially. As a result, the business growth requires corresponding changes in how we work so that customers continue experiencing best service by GitLab, which maintains and boosts our business growth momentum.
+
+With that being said and the operation incidents recently, it becomes clear that we’ll strengthen development team’s DevOps practices and stand side by side with the Infrastructure team to keep Gitlab.com running smoothly. 
+
+## Process
+
+To resolve GitLab.com issues faster, the development team will establish an on-call rotation and stand behind the products we deliver. Note that the Infrastructure team keeps playing the first defense role on the frontline as usual, while they will determine if a development escalation will be initiated to get the operational issues resolved faster and more efficiently.
+
+This new process will need development engineers on-call based on a rotation schedule. For more details, please refer to the [**full description of on-call process**](./process.html).
+
+
+## Goals
+The on-call process was designed with the following goals in mind -
+  * Clear expectations, responsibility, and accountability.
+  * Full 24x7 coverage to shadow the Infrastructure team.
+  * Layered escalations to ensure SLO.
+  * Balanced on-duty hours of each engineer per day.
+  * Any individual minimally loaded throughout a calendar year.
+  * Flexibility of just-in-time adjustments.
+  * Leaving engineers in control of their own working schedules
+  
+## Success Criteria
+  * Meet development’s SLO of timely response to infrastructure escalations.
+  * No on-call engineer is burned out.
+  * Planned development work is minimally impacted.
+  
+## Implementation
+Refer to the Process section above for how to get started and keep running. In the spirit of iteration, the process will be continuously tuned and improved as we learn through practice.
+
+An async retro issue will be registered and every participant is encouraged to enter feedback in the issue any time. A review will be held at 3-month checkpoint then determine next steps.
+
+## Q&A
+**Q: Why do we need development engineers on-call?**
+
+**A:** In the investigation of recent performance degradation incident, it became apparent that deeper product knowledge is necessary to root cause the issue and develop sound solutions. Although infrastructure engineers are good at dealing with most incidents, it is the development engineers who are able to suggest the best short term workaround or temporary fix quickly when the issue involves deep insight into the implementation details.
+
+**Q: What efforts have been made to keep the impacts to work-life-balance minimal?**
+
+**A:** No engineer will be asked to work more hours than they currently work. Most of the hours they spend on-call will be days and times they would normally be working anyway. We need approximately 25% of on-call time to be used on days people wouldn't ordinarily be working, but by letting engineers choose when they do so, and not increasing total working hours, the impact of this is hopefully minimized. Engineers can also find substitutes in case of personal emergency.
+
+**Q: Can we make scheduling “smart” and dynamically page the engineer who’s in regular working hours?**
+
+**A:** Brilliant idea and certainly interesting to investigate. It may require tooling development.
+
+On the other hand, this approach introduces uncertainties in practice, which may potentially cause things falling into cracks. For example, the engineer paged by the bot is not prepared for such duty and may be out to lunch or running short errands not marked on the calendar, etc. Unless it is required to block the calendar for any AFK even if it’s only 5~10 minutes, it will be challenging to make this approach accountable.
+
+That being said, it’s an excellent idea and we can certainly experiment once the smart solution is developed. 
+
+**Q: Can we make it volunteer based?**
+
+**A:** In theory, yes. However, there are a few things to keep in mind.
+  * What if a majority of volunteers are concentrated in nearby time zones?
+  * If ALL volunteers are called upfront, what if this ends up with a very small group?   
+  * If volunteers are called dynamically e.g. before next rotation or month, there is ongoing administrative overhead and things can fall into cracks easily. What if no volunteer for a specific week? What if it ends up with always the same small group of people?
+
+For this iteration, we are not going to use volunteer based model.
+
+**Q: Can we page dynamically based on presence in Slack?**
+
+**A:** The idea of [paging based on Slack presence](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/8386#note_48456021) was entertained 1 year ago. However, the final outcome was a new Slack channel #devops (which doesn’t seem established) without a specific process laid out due to [technical challenges and justification of ROI](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/8386#note_50987458), which makes this on-call process essentially an alternative of that thread.
+
+The biggest challenge is (maybe unlikely, but there is a chance) what if nobody is online at the moment? Accountability is critical for business. This is certainly a great choice if there is a way to ensure 100% accountability.
+
+Alternatively, another option is to establish SRE roles in development teams, but it may deserve a discussion itself.
+
+**Q: What if the paged engineer doesn’t carry domain expertise?**
+
+**A:** A layered escalation process was laid out in the process. It is also stated that first response doesn’t mean solution is available right away.
+
+An alternative was reviewed, e.g. having domain experts on-call in a similar way. This will involve more engineers and smaller on-call divisions, which will result in a more frequent shift and more on-call duties per engineer. The tradeoff was made in favor of minimizing on-call duties.
+
+**Q: Is this intended to be for both Backend Engineers and Frontend Engineers?**
+
+**A:** Given the fact that most of the recent issues require backend knowledge, only Backend Engineers will be involved in the first iteration. Long term, Frontend Engineers may get involved after the process is tuned and issue pattern is well understood.
+
+**Q: Why are engineers outside of the Development Department excluded from the rota?**
+
+**A:** The rota is intended to provide access to engineers that are directly involved with product development to stand behind the products that we deliver.
+Engineers in other departments have different responsibilities. For example, those in Infrastructure must focus on the scaling and reliability aspects of
+GitLab.com, since part of their job description is to work towards achieving GitLab.com SLOs. And those in Engineering Productivity are focused on providing
+tooling, and this is somewhat removed from product development.
+
+**Q: How do we answer interview candidates when they ask about on-call?**
+
+**A:** Let’s describe the full picture of our incident handling model and tell candidates there are chances development engineers will be on-call and assist resolving GitLab.com operational incidents.
+Usually, the infrastructure team plays the first defense role on the frontline. Development engineers will only be called when the infrastructure team determines that development escalation is necessary. 
+
+**Q: Will our job description be updated?**
+
+**A:** The engineering leadership team will work with recruiting team on this. Should there be any changes to job descriptions, all interviewers will be informed.
+
+**Q: What if my local law restricts or prohibits on-call duty?**
+
+**A:** All are encouraged to share their local law and regulation information with their manager and will not be scheduled until further clarification is obtained should there be any concern or ambiguity of the local law and regulation. Engineering leadership team will also work with Legal and PeopleOps to obtain clarification with regard to this.
+
+**Q: Did we consider using PagerDuty?**
+
+**A:** Yes, we did. It was decided to keep it lightweight with Slack in the first round experiment, because there is work to enhance the chatops bot.
+
+**Q: What are the expectations for my existing work while I’m on-call?**
+
+**A:** While on-call the expectation of existing work is that it is effectively suspended.  Managers are required to plan for on-call engineers to be unavailable.  If you are able to make progress because there are no ongoing incidents that is welcomed, but work must stop if an on-call request is made.  
+
+**Q: What is the expectation for escalations which are still open at the boundaries of an on-call shift?**
+
+**A:** Similar to bullet 7 under Guidelines section - Relay Handover, summarize the status and investigations by far, then handover.
+
+**Q: Can Slack only be configured to trigger notification from #infra-escalation out-of-hours, especially during hours of 0400-0700 (APAC) ? I already receive lots of pings out-of-hours but this don’t wake me up currently as I have Do-not-disturb turned on.**
+
+**A:** It seems notifications can be customized on mobile app, check out [this guide](https://docs.google.com/document/d/1ZxfGZFTrCo4QRCyI-JXLrRFpk6MCxTpSWk2hJeKKyf4/edit?usp=sharing) (Android device) 
+
+Mute all other channels but the escalation channel during a specific time period (i.e. 4-8am) through the Channel-specific notifications setting on Notifications screen, which may help reduce noise and only get pinged for escalations.
+
+**Q: Is there any concept of compensation? This can be in any form (pay, time off, etc)**
+
+**A:** On-call work can be considered a deliverable like any other. It doesn't imply working any **extra** hours - but a few hours will be at less desirable times than now. Although no compensation changes are anticipated to account for this, we may consider discretionary rewards for people who exceed expectations when choosing less-desirable hours.
+
+**Q: How will the volume of escalations to the on-call engineer be measured? Have we established thresholds to know when a working group may need to be established to remediate a “hot” set of issues?**
+
+**A:** Let’s start with hand counting and review the volume at the Infra/Dev meeting.  This can also be added to the board.  
+
+**Q: We are discussing the concept of working hours for new-on-call and having expected shifts, however, this is a departure from non-on-call based on this in the handbook. https://about.gitlab.com/handbook/values/#measure-results-not-hours Is this an intentional policy shift?**
+
+**A:** This is not a shift in policy. Engineers are still in control of their schedules, and can choose when to work, as long as the overall goal of full coverage of the rotation is met. The policy of results vs. hours is based on delivering functionality.  On call is about addressing operational issues which can happen at any time and need to be addressed immediately.  So the policies are congruent.
+
+**Q: In order to effectively debug production issues, developers may require expanded access to production systems and metrics. Is the plan for developers to be on-call solely for consultative purposes without need for direct debugging of systems? If they need access to production systems how will they be onboarded?**
+
+**A:** For the first iteration, the plan is consultative and if any code changes are required the oncall makes them.  Direct debugging is not required and it is expected infrastructure can relate production issues effectively to the oncall for progress to be made.  We are not planning onboarding to production at this time.
+
+**Q: If we had this process in place for recent outages, would it have resolved them significantly faster? i.e. is the gap to find an engineer to support currently our biggest problem?**
+
+**A:**	If you look at the chart of outages as part of the Performance degradation (see above link), you will see outages on the June 5th, July 1st, 3rd.  Had we caught the issues and worked to address them on June 5th we could have prevented July 1st degradation.  July 3rd is half degradation, half attack.  So we would have minimized some level of impact here as well.  The time associated with this degradations is also high (540 minutes for July 1st) and we could have reduced that time as well.
+  
+**Q: Isn’t this more about discipline of seeing incidents through to resolution, not just how quickly we respond to them? It feels the on-call process addresses the latter, but not former.**
+	
+**A:** It’s actually both and we are working to address both.  We have also added a Infra/Dev issue board to track concerns to see through to resolution and make sure we have the right priority and severity on them.  It’s likely that oncall escalations will end up with follow on items for [this board](https://gitlab.com/groups/gitlab-org/-/boards/1193197?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=gitlab.com&label_name[]=infradev). [This page](/handbook/engineering/development/#continuous-delivery-and-infrastructure-collaboration) gives the description.
+
+**Q: If we have an alternative suggestion, should we put together an MR in the same location as the current location? When are you looking to conclude on this? (How long have we got to propose an alternative)?**
+
+**A:**	We are looking to conclude this MR by August 2nd.  Depending on how different the alternative is, we’ll need visibility by end of the week (July 26).  The recommendation is to put together an MR to target the same location.  If you think the MR is an enhancement, then suggest it as a MR to the current MR.  
+
+**Q: How should the infrastructure member make international calls to page engineers?**
+
+**A:** Zoom supports [international calling with low rates](https://zoom.us/zoomconference/rates). This can be done from inside an ongoing Zoom call under `Invite > Phone`. Considering that this will only be used for a quick call, to alert the engineer of an ongiong escalation, the cost for GitLab will be very minimal.

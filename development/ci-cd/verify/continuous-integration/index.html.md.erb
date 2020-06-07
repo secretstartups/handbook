@@ -1,0 +1,169 @@
+---
+layout: handbook-page-toc
+title: "Verify:Continuous Integration Group"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Vision
+
+For an understanding of what this team is going to be working on take a look at [the product
+vision](/direction/verify/).
+
+## Mission
+
+The Verify:Continuous Integration Group is focused on all the functionality with respect to
+Continuous Integration.
+
+This team maps to [Verify](/handbook/product/categories/#verify-stage) devops stage.
+
+## Team Members
+
+The following people are permanent members of the Verify:Continuous Integration group:
+
+<%= direct_team(manager_role: 'Backend Engineering Manager, Verify:Continuous Integration') %>
+<%= direct_team(manager_role: 'Frontend Engineering Manager, Verify', role_regexp: /Continuous Integration/) %>
+
+## Stable Counterparts
+
+The following members of other functional teams are our stable counterparts:
+
+<%= stable_counterparts(role_regexp: /[,&] Verify(?!:)|Continuous Integration/, direct_manager_role: 'Backend Engineering Manager, Verify:Continuous Integration', other_manager_roles: ['Frontend Engineering Manager, Verify', 'Backend Engineering Manager, Verify:Runner', 'Backend Engineering Manager, Verify:Testing']) %>
+
+## Technologies
+
+Like most GitLab backened teams we spend a lot of time working in Rails on the main [GitLab CE app](https://gitlab.com/gitlab-org/gitlab-ce), but we also do a lot of work in Go which is the language that [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner) is written in. Familiarity with Docker and Kubernetes is also useful on our team.
+
+## Common Links
+
+ * [Issue Tracker: `~group::continuous integration`](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Acontinuous%20integration)
+ * [Slack Channel: `#g_ci`](https://gitlab.slack.com/archives/g_ci)
+ * [Roadmap]()
+
+## How We Work
+
+### Planning
+
+**Weekly** the team meets to discuss issues with the `workflow::planning breakdown` label. Each engineer generally grooms one issue per week and prepares ahead of time to present their findings to the team.  This discussion is focused on how we plan to address the issues which are prioritized for the upcoming milestone.  Issues may need to be broken down if they are too large for a milestone, or further research may be necessary, but each member of the team should be familiar enough with the issue to begin working on it.  The goal of this meeting is to ensure that issues are well documented and appropriately weighted.  
+
+Once the issue is groomed and weighted engineers move it into `workflow::scheduling` column.  
+
+**Weekly** the Product Manager and Engineering Manager discuss which issues are highest priority from the list of `workflow::scheduling` issues.  The Product Manager then applies the `VerifyP1` label to the top issues and the Engineering Manager applies the `workflow::ready for development` label when the team has capacity to begin working on them.  In addition to Product prioritized issues, the team will select tech debt issues that we plan to deliver during the milestone.
+
+
+### Workflow
+
+Once the development phase begins, the team uses the [CI Build](https://gitlab.com/groups/gitlab-org/-/boards/1372896?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Acontinuous%20integration&milestone_title=%23upcoming) board to communicate progress on issues.  **Note that the `Milestone` filter is required to use this board.**
+
+Development moves through workflow states in the following order: 
+
+1. `workflow::ready for development` 
+1. `workflow::in dev` 
+1. `workflow::blocked` (as necessary)
+1. `workflow::in review` 
+1. `workflow::verification` 
+1. `workflow::production`
+1. `Closed`
+
+#### "What do I work on next?"
+
+Each member of the team can choose which issues to work on during a milestone by assigning the issue to themselves.  When the milestone is well underway and we find ourselves looking for work, we default to working **right to left** on our [CI Build](https://gitlab.com/groups/gitlab-org/-/boards/1372896?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Acontinuous%20integration&milestone_title=%23upcoming) board, by pulling issues in the right-most column. If there is an issue that a team member can help with on the board, they should do so instead of starting new work. This includes conducting code review on issues that the team member may not be assigned to, if they feel that they can add value and help move the issue along to completion.
+
+Specifically, this means our work is prioritized in the following order:
+ * Any verification on code that is in `~workflow::verification` or `workflow::production`
+ * Conducting code reviews on issues that are `workflow::in review`
+ * Unblocking anyone in `workflow::blocked` or `workflow::in dev` if applicable
+ * Then, lastly, picking from the top of the `workflow::ready for development` for development column
+ 
+The goal of this process is to reduce the amount of work in progress (WIP) at any given time. Reducing WIP forces us to "Start less, finish more", and it also reduces cycle time. Engineers should keep in mind that the DRI for a merge request is **the author(s)**, to reflect the importance of teamwork without diluting the notion that having a [DRI is encouraged by our values](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/#dris-and-our-values).
+
+
+#### Issue Health Status
+
+For issues being implemented in the current milestone, we use the [Issue Health Status feature](https://docs.gitlab.com/ee/user/project/issues/#health-status-ultimate) to designate the high level status of the issue. This issue health status is updated by the [directly responsible individual (DRI)](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) as soon as they recognize the state of the issue has changed.
+
+The following are definitions of the health status options:
+
+- On Track - The issue has no current blockers, and is on schedule to be completed in the current milestone.
+- Needs Attention - The issue is still likely to be completed in the current milestone, but there are setbacks or time constraints that could cause the issue to miss the deadline.
+- At Risk - The issue has a high likelyhood of missing the current milestone deadline.
+
+
+### Technical debt
+
+We track our technical debt using the following [CI Technical Debt board](https://gitlab.com/groups/gitlab-org/-/boards/1438885), where we track issues in the planning phase. This board has 2 main sections:
+
+1. Issue readiness
+    - In `workflow::planning breakdown` we find issues that are currently being groomed.
+    - In `workflow::scheduling` we find issues that clearly defined and a weight has been assigned.
+
+1. Impact breakdown. We use `S1`, `S2`, `S3` and `S4` labels to classify the impact of the specific tech debt item.
+   We use the list below as a guideline to grade the impact.
+    - `S1` Blocking or Critical
+      - blocking debt that prevents any further changes in the area
+      - we stumble on the same complex code every single time and it causes serious slow down on development
+      - the problem exists in a core part of our domain that represents a dependency for a large number of features
+      - the problem is wild spread throughout several domains
+      - the problem is related to a number of reported `S1` bugs
+    - `S2` High
+      - blocks many changes in the area or makes them difficult to work around it
+      - the problem exists in an area that changes frequently, causing it or workarounds to spread easily
+      - the problem is related to an important feature (e.g multi-project pipelines)
+      - the problem is very common in a specific domain and leaks into other domains too
+      - the problem is related to a number of reported `S2` bugs
+    - `S3` Medium
+      - the problem exists in a feature that has a supporting role in our domain
+      - the problem exists in an area that does not change frequently
+      - the problem is very common in a specific domain but limited to its domain boundaries
+      - workarounds slow down development
+      - the problem is related to a number of reported `S3` bugs
+    - `S4` Low
+      - the problem is very isolated and has low or no impact to development
+      - the area affected does not change frequently
+      - the problem is related to a number of reported `S4` bugs
+
+Note that a multiple factors can exist at once. In that case use your judgment to either bump the impact score or lower it. For example:
+- the problem exists in a feature that has a supporting role in our domain but it's related to a number of `S2` bugs.
+  Then choose `S2`.
+- the problem is related to an important feature but the workaround is acceptable as the code around it does not
+  change frequently. Then choose `S3`.
+
+### Retrospectives
+
+The CI team leverages a monthly async retrospective process as a way to celebrate success and look for ways to improve. The process for these retrospectives aligns with the automated retrospective process used by many teams at GitLab. The process is defined here: https://gitlab.com/gitlab-org/async-retrospectives#how-it-works.
+
+A new retrospective issue is created on the 27th of each month, and remains open until the 26th of the following month. Team members are encouraged to add comments to that issue thoughout the month as things arise as a way to capture topics as they happen. The current issue can be found in https://gitlab.com/gl-retrospectives/verify/-/issues.
+
+On the 16th of each month a summmary of the milestone will be added to the issue and the team will be notified to add any additional comments to the issue.
+
+As comments are added to the issue, team members are encourage to upvote any comments they feel are important to callout, and to add any additional discussion points as comments to the original thread.
+
+Around the 26th of the month, or after the discussions have wrapped up the backend engineering manager will summarize the retrospective and create issues for any follow up action items that need to be addressed. They will also redact any personal information, customer names, or any other notes the team would like to keep private. Once that has been completed the issue will be made non-confidential and closed.	 
+
+### Team Communication
+
+The CI team is globally distributed and separated by many timezones.  This presents some challenges in how we communicate since our work days only overlap by a couple hours.  We have decided as a team to embrace asynchronous communication because scheduling meetings is difficult to coordinate.  We meet as a team one day per week, on Wednesdays for a quick team meeting and 1-on-1s.
+
+- We are pro-active about asking questions in advance with the understanding that the turnaround on receiving an answer is usually a full working day.
+- Our engineering plan and issue boards need to be updated regularly to communicate what stage our work is in.
+- Any meetings that we hold need a preset agenda and are recorded for folks who are unable to attend.
+- Having a positive work/life balance, despite these challenges, must be a high priority and handled intentionally so no one is routinely starting early or staying late to attend meetings.
+
+
+#### How to work with us
+
+##### Slack
+
+Daily standup updates are posted to [`#g_ci`](https://gitlab.slack.com/archives/CPCJ8CCCX). Feel free to ask us questions directly in this Slack channel and someone will likely get back to you within 24 hours (by the next business day).  We will use following emojis to respond to the posted question accordingly:
+ * ![eyes](https://a.slack-edge.com/production-standard-emoji-assets/10.2/apple-large/1f440@2x.png){:height="20px" width="20px"} -- `:eyes:` to indicate that one of us has seen it
+ * ![checkmark](https://a.slack-edge.com/production-standard-emoji-assets/10.2/apple-large/2705@2x.png){:height="20px" width="20px"} -- `:white_check_mark:` to indicate that the question has been answered
+
+The verify stage has a separate Slack channel under [`#s_verify`](https://gitlab.slack.com/archives/C0SFP840G), which encompasses the other two teams of Verify: [Runner](../runner/) and [Testing](../testing/).
+
+##### GitLab Issues and MRs
+
+Most spontaneous team communiation happens in issues and MRs. Our issues have a group label of [`~"group::continuous integration"`](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=group%3A%3Acontinuous+integration&scope=all).  You can also tag a team member with `@mention` in the issue if you have someone specific to ask.

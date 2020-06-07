@@ -1,0 +1,93 @@
+---
+layout: handbook-page-toc
+title: "Geo and Disaster Recovery"
+description: "Information about the Geo Team"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## The Geo Team
+
+[Geo](/solutions/geo/) is a [Premium](/pricing/) feature, built to help speed up the development of distributed teams by providing
+one or more read-only mirrors of a primary GitLab instance. This mirror (a Geo secondary node) reduces the time to clone or fetch large
+repositories and projects, or can be part of a Disaster Recovery solution.
+
+### Team members
+
+<%= direct_team(manager_role: 'Backend Engineering Manager, Geo') %>
+
+### Stable counterparts
+
+<%= stable_counterparts(role_regexp: /Geo/, direct_manager_role: 'Backend Engineering Manager, Geo') %>
+
+## Goals and Priorities
+
+Our priorities are aligned with the product direction. You can read more about this on the [Geo Product Vision page](/direction/geo/).
+
+Alongside the items listed in our Product Vision, we need to constantly assess issues that our customers bring to our
+attention. These could take the form of bug reports or feature requests. Geo users are often our largest
+customers and some rely on Geo as a critical part of their workflow.
+
+We also work constantly to keep housekeeping chores to a manageable level. Where possible, we address these issues
+as part of a related project. Where this is not possible, we use time around our projects to make this happen.
+
+## Geo's Relationship to Disaster Recovery
+
+Disaster Recovery (DR) is a set of policies, tools and procedures put in place to be able to recover from a disaster.
+
+Geo provides data redundancy. The customer will have a redundant copy of data in a separate location. If anything were to happen to their primary instance, a secondary instance still retains a copy of the data.
+
+However, data redundancy is only one part of a complete DR strategy.
+
+High Availability (HA) is also a step towards Disaster Recovery. At the moment Geo does not provide true HA because if the primary instance is not available, certain actions are not possible.
+
+## How to ask for support from Geo
+
+We like to use issues when customers need help from the Geo Team. This helps us to prioritize work and make sure that we
+don't lose history in context when the Slack retention policy activates.
+
+| Type | Who is the right person | How should they be contacted | What is the expected first response time |
+| ---      |  ------  |----------| --- |
+| 1. General question about Geo features or functionality. This includes how things work, when a feature was released, or when a feature is expected to be released.   | Most people in Geo can answer this, but can always be answered by the EM or PM.   | Ask a question in #g_geo on Slack. | Within 24 hours. (Week days only)|
+| 2. Specific question about Geo relating to a specific customer installation question.  Usually quite a technical question. | Usually an Engineer   | Raise the issue in the [Geo Customers Project](https://gitlab.com/gitlab-com/geo-customers) and ping #g_geo with the issue. | Within 24 hours. (Week days only)|
+| 3. Request to join a call that will happen more than 24 hours in the future. Most likely to request technical support from the Geo team  | Usually an Engineer. Sometimes the EM or PM  | Raise the issue in the [Geo Customers Project](https://gitlab.com/gitlab-com/geo-customers) and ping #g_geo with the issue. | Comment added within 24 hours with name of Engineer who will join call. (Week days only)|
+| 4. Emergency! Fire! Help!   | Usually an Engineer   |   Raise the issue in the [Geo Customers Project](https://gitlab.com/gitlab-com/geo-customers) and ping #g_geo with the issue. Be clear in the slack message that this is an emergency. | Within 4 hours. (Week days only) |
+
+## Common Links
+
+Documentation
+- [Geo](https://docs.gitlab.com/ee/gitlab-geo/)
+- [Disaster Recovery](https://docs.gitlab.com/ee/administration/geo/disaster_recovery/index.html)
+- [Planned Failover](https://docs.gitlab.com/ee/administration/geo/disaster_recovery/planned_failover.html)
+- [Background Verification](https://docs.gitlab.com/ee/administration/geo/disaster_recovery/background_verification.html)
+
+Other Resources
+- Issues relating to Geo are mostly to be found on the
+[gitlab-ee issue tracker](https://gitlab.com/gitlab-org/gitlab-ee/issues/?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Geo)
+- [Chat channel](https://gitlab.slack.com/archives/g_geo); please use the `#g_geo`
+chat channel for questions that don't seem appropriate to use the issue tracker
+for.
+- [Product Support Requests](/handbook/product/#product-support-requests)
+- [Geo on staging.gitlab.com](./staging.html)
+- Research Items : [Next Gen Geo](./2019-next-gen-geo.html)
+
+## Planning and Process
+
+Our planning and build process is recorded on the [process page](./process.html).
+
+## Demos
+
+The demos are recorded and should be stored in Google Drive under "GitLab Videos --> [Geo Demos](https://drive.google.com/drive/u/0/folders/1Ot2ElWwEh9vdPx1K8VO5ZMBkxlmRAXm4)".
+If you recorded the demo, please make sure the recording ends up in that folder.
+
+## Geo Terminology
+
+| Term  |  Definition |
+|---|---|
+| Geo |  The product name given to the feature that provides the ability to create one or more read-only mirrors for the main/primary instance |
+| Primary  | The main, primary instance where read-write operations are allowed |
+| Secondary  | An instance that synchronizes with the Primary node where only read-only operations are permitted |

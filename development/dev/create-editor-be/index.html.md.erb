@@ -1,0 +1,131 @@
+---
+layout: handbook-page-toc
+title: "Create:Editor Backend Engineering Team"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+The Create:Editor Backend Engineering (BE) Team is responsible for all backend aspects of the product categories that fall under the [Editor group][group] of the [Create stage][stage] of the [DevOps lifecycle][lifecycle].
+
+[group]: /handbook/product/categories/#editor-group
+[stage]: /handbook/product/categories/#create-stage
+[lifecycle]: /handbook/product/categories/#devops-stages
+[work]: /handbook/engineering/development/dev/create-editor-be/work 
+[onboarding]: /handbook/engineering/development/dev/create-editor-be/onboarding
+[communication]: /handbook/engineering/development/dev/create-editor-be/communication
+[career]: /handbook/engineering/development/dev/create-editor-be/career-development
+[blog]: /blog/2018/06/15/introducing-gitlab-s-integrated-development-environment/
+[team]: https://www.youtube.com/watch?v=axF0qPqBEl0
+[webIDE]: https://docs.gitlab.com/ee/user/project/web_ide/
+[snippets_docs]: https://docs.gitlab.com/ee/user/snippets.html
+[snippets_vision]: https://about.gitlab.com/direction/create/#snippets 
+[web_ide_vision]: https://about.gitlab.com/direction/create/#web-ide
+[web_ide_docs]: https://docs.gitlab.com/ee/user/project/web_ide/index.html
+[live_coding_vision]: https://about.gitlab.com/direction/create/#live-coding
+[general_onboarding]: https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding.md#all-gitlabbers
+[general_communication]: https://about.gitlab.com/handbook/communication/
+[maturity]: https://about.gitlab.com/direction/maturity/
+[internship]: /handbook/engineering/development/dev/create-editor-be/internship
+
+
+## Team Members
+
+The following people are permanent members of the Create:Editor BE Team:
+
+<%= direct_team(manager_role: 'Backend Engineering Manager, Create:Knowledge & Create:Editor', role_regexp: /[,&] Create:Editor/) %>
+
+## Stable Counterparts
+
+The following members of other functional teams are our stable counterparts:
+
+<%= stable_counterparts(role_regexp: /[,&] (Create(?!:)|Create:Editor)/, direct_manager_role: 'Backend Engineering Manager, Create:Knowledge & Create:Editor') %>
+
+## Product Categories
+### Web IDE
+A full-featured Integrated Development Environment (IDE) built into GitLab so you can start contributing on day one with no need to spend days getting all the right packages installed into your local dev environment.
+
+- [Documentation][web_ide_docs]
+- [Vision][web_ide_vision]
+- [Meet the GitLab Web IDE][blog]
+- [Update the Team Page with GitLab Web IDE][team]
+
+
+### Snippets
+Store and share bits of code and text with other users. This category is at the "minimal" level of [maturity][maturity].
+
+- [Documentation][snippets_docs]
+- [Vision][snippets_vision]
+
+### Live Coding
+Do pair programming directly in the Web IDE. This category is planned, but not yet available.
+
+- [Vision][live_coding_vision]
+
+## Hiring
+
+This chart shows the progress we're making on hiring. Check out our
+[jobs page](/jobs/) for current openings.
+
+<%= hiring_chart(department: 'Create:Editor BE Team') %>
+
+## Onboarding
+There is a [general onboarding issue][general_onboarding] assigned to all GitLab team members by People Ops on your first day. 
+
+[Learn more][onboarding]
+
+## Internship
+The Create:Editor BE team is participating in the GitLab Engineering Pilot.  Interns are treated as equal members of the team and will follow all of the processes and procedures all team members follow.
+
+[Learn more][internship]
+ 
+ ## Communication
+ All GitLab Team members are expected to follow the General GitLab communications guidelines.  
+
+[Learn more][communication]
+
+## Iteration
+
+<%= partial("handbook/engineering/development/dev/create/_iteration.erb") %>
+
+## Work
+
+In general, we use the standard GitLab [engineering workflow]. To get in touch
+with the Create:Editor BE team, it's best to create an issue in the relevant project and add the `~"group::editor"` and `~backend` labels, along with any other
+appropriate labels. Then, feel free to ping the relevant Product Manager and/or
+Engineering Manager, as listed above.
+
+For more urgent items, feel free to use [#g_create_editor] on Slack. 
+
+[Learn more][work]
+
+[engineering workflow]: /handbook/engineering/workflow/
+[#g_create_editor]: https://gitlab.slack.com/archives/g_create_editor
+
+<!---
+ ### Capacity planning
+
+<%= partial("handbook/engineering/development/dev/create/capacity_planning.erb") %>
+
+### What to work on
+
+<%= partial("handbook/engineering/development/dev/create/what_to_work_on.erb", locals: { group: "Editor", slack_channel: 'g_create_editor' }) %>
+
+[issue board]: https://gitlab.com/groups/gitlab-org/-/boards/412126?label_name[]=group::editor&label_name[]=backend
+[assignment board]: https://gitlab.com/groups/gitlab-org/-/boards/1143526
+
+
+### Retrospectives
+
+<%= partial("handbook/engineering/development/dev/create/retrospectives.erb", locals: { group: "Editor", group_slug: 'editor' }) %>
+--->
+## Career Development
+
+<%= partial("handbook/engineering/development/dev/create/career_development.erb", locals: { group: "Editor" }) %> 
+
+[Learn more][career]
+
+<%= partial("handbook/engineering/development/dev/create/editor_knowledge_backup_shared.erb") %>

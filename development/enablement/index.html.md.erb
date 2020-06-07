@@ -1,0 +1,113 @@
+---
+layout: handbook-page-toc
+title: Enablement Sub-department
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Vision
+
+Offer enterprise-grade operational experience of GitLab products from streamlined deployment and maintenance, disaster recovery, secure search and discoverability, to high availability, scalability, and performance.
+
+
+## Mission
+
+Enablement focuses on improving our capabilities and metrics in the following areas:
+
+ * [Database](/handbook/engineering/development/enablement/database/)
+ * [Distribution](/handbook/engineering/development/enablement/distribution/)
+ * [Geo (Disaster Recovery)](/handbook/engineering/development/enablement/geo/)
+ * [Memory](/handbook/engineering/development/enablement/memory/)
+ * [Global Search](/handbook/engineering/development/enablement/search/)
+
+## Fiscal Year 2021 Direction
+ * Grow feature maturity to improve enterprise experience and readiness
+ * Build and enhance features and integrations to increase market penetration
+ * Solidify foundation for smooth operations and high availability to continue to scale and improve our SaaS offering
+
+## Sub-department Members
+
+The following people are permanent members of the Enablement Sub-department:
+
+<%
+departments = ['Database', 'Distribution', 'Geo' , 'Memory', 'Global Search']
+interim_manager_departments = ['Fulfillment']
+department_regexp = /(#{Regexp.union(departments)})/
+%>
+
+<%=  direct_team(role_regexp: department_regexp, manager_role: 'Director of Engineering, Enablement') %>
+
+## All Team Members
+
+The following people are permanent members of teams that belong to the Enablement Sub-department:
+
+<% departments.each do |dep| %>
+### <%= dep %>
+  <% manager_role = interim_manager_departments.include?(dep) ? "Backend Engineering Manager, #{dep} (Interim)" : "Backend Engineering Manager, #{dep}" %>
+  <%= direct_team(manager_role: manager_role) %>
+<% end %>
+
+## Business Continuity - Coverage and Escalation
+
+The following table shows who will provide cover if one or more of the Enablement Engineering management team are unable to work for any reason.
+
+| Team Member     | Issues/MRs Backup        | People Management Backup    | Escalation   |
+| -----           | -----                    | -----                 | -----        |
+| Chun Du         | Christopher Lefelhocz    | Christopher Lefelhocz | Eric Johnson |
+| Craig Gomes     | Kamil Trzcinski (Memory), Andreas Brandl (DB)    | Changzheng Liu        | Chun Du      |
+| Changzheng Liu  | Dylan Griffith           | Craig Gomes           | Chun Du      |
+| Steven Wilson   | DJ Mountney              | Nick Nguyen           | Chun Du      |
+| Nick Nguyen     | Douglas Alexandre        | Steven Wilson         | Chun Du      |
+
+If an Engineer is unavailable the person providing `Issues/MRs` coverage will reassign open issues and merge requests to another engineer, preferably in the same [group](#all-team-members).
+
+Some people management functions may require escalation or delegation, such as BambooHR and Expensify.
+
+This can be used as the basis for a BCP [Communication Plan and Role Assignments](/handbook/business-ops/gitlab-business-continuity-plan.html#communication-plan-and-role-assignments),
+as well as a general guide to Enablement Engineering continuity in the event of one or more team members being unavailable for any reason.
+
+## Stable Counterparts
+
+The following members of other functional teams are our stable counterparts:
+
+<%= stable_counterparts(role_regexp: /[,&] Enablement/, direct_manager_role: 'Director of Engineering, Enablement') %>
+
+## How We Work
+
+* [Apply budget for professional development](./processes/budget_approval.html)
+* Integrated Team (Pilot Program)
+  * The Enablement Sub-department is experimenting `Integrated Team` model where both Frontend and Backend Engineers report to a single Engineering Manager and work in an integral team, which is different from many other sub-departments. The frontend work of Enablement teams are relatively light compared to other sub-departments, as a result the ratio of BE:FE is 12:1 by the end of FY2020, and the projected ratio of FY2021 is even higher. After taking many factors into consideration (see [discussions](https://gitlab.com/gitlab-com/www-gitlab-com/issues/5775)), Enablement Sub-department will continue experimenting the Integrated Team model for operational efficiency.
+* Tracking Spikes and Operational Efforts
+  * Enablement teams generally work at a lower level in the tech stack than other development teams. More effort is directed towards spikes and operational work and is not captured in MR throughput metrics. Examples include setting up and monitoring Geo on staging or working with infrastructure to roll out advanced global search. To better capture these efforts, teams are encouraged to label relevant issues as `~Enablement:Tracking` and add an issue weight equal to the estimated number of person-days spent. We will track these issues along with throughput metrics in the Enablement dashboard. It is still important to apply our iteration value to these issues and break them down into the smallest possible amounts of work.
+
+## Software Subscriptions
+The Enablement teams leverage the following software or SaaS services to deliver our products. For general information of procurement, checkout the [procurement team page](/handbook/finance/procurement/). For procurement questions, bring to [#procurement](https://gitlab.slack.com/archives/CPTMP6ZCK). To make new Purchase Order (PO), create a new [procurement issue](https://gitlab.com/gitlab-com/finance/-/issues) and select the `software-vendor-contract-request` template.
+
+| Software | Vendor Link | Term    | Renewal Date | Team Impacted | Comments | 
+| -----    | -----       | -----   | -----      | -----         | -----    |
+| packagecloud.io | [https://packagecloud.io/](https://packagecloud.io/) | Annual | March 30th | Distribution | Existing vendor, [last renewal issue](https://gitlab.com/gitlab-com/finance/-/issues/2304)  |
+| dependencies.io | [https://www.dropseed.io/](https://www.dropseed.io/ ) | Annual | November 1st | Distribution | Existing vendor, [last renewal issue](https://gitlab.com/gitlab-org/distribution/team-tasks/-/issues/514) |
+| scaleway        | [https://www.scaleway.com/en/](https://www.scaleway.com/en/) | Monthly | End of Month | Distribution | Existing vendor |
+| postgres.ai     | [https://postgres.ai/](https://postgres.ai/)     | Trial  | TBD          | Database     | Existing vendor, [request issue](https://gitlab.com/gitlab-org/database-team/team-tasks/-/issues/47) |
+
+
+## Common Links
+
+* Issue Boards
+  * [Database Milestone Board](https://gitlab.com/groups/gitlab-org/-/boards/1318796?label_name[]=group%3A%3Adatabase)
+  * [Distribution - Deliverable Board](https://gitlab.com/groups/gitlab-org/-/boards/1282058?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Deliverable&label_name[]=group%3A%3Adistribution&milestone_title=%23started)
+  * [Geo Kanban Board](https://gitlab.com/groups/gitlab-org/-/boards/1034254) - note that Geo makes a board for every release.
+  * [Memory Milestone Board](https://gitlab.com/groups/gitlab-org/-/boards/1143987?label_name[]=group%3A%3Amemory)
+  * [Global Search Milestone Board](https://gitlab.com/groups/gitlab-org/-/boards/1339901?label_name[]=group%3A%3Aglobal%20search)
+* Slack Channels
+  * Enablement Sub-department [#s_enablement](https://app.slack.com/client/T02592416/CMPK8QBB9)
+  * Database team [#g_database](https://gitlab.slack.com/app_redirect?channel=g_database)
+  * Distribution team [#g_distribution](https://gitlab.slack.com/messages/C1FCTU4BE)
+  * Geo team [#g_geo](https://gitlab.slack.com/messages/C32LCGC1H)
+  * Geo standup [#geo-standup](https://gitlab.slack.com/messages/C7U95P909)
+  * Memory team [#g_memory](https://gitlab.slack.com/messages/CGN8BUCKC)
+  * Global Search team [#g_global_search](https://gitlab.slack.com/app_redirect?channel=g_global_search)

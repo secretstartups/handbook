@@ -1,0 +1,89 @@
+---
+layout: handbook-page-toc
+title: Fulfillment Frontend Team
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Mission
+
+The Fulfillment Frontend Team is responsible for the implementation and maintenance of the UI/UX experience for users who purchase or trial GitLab products and services. Our objective is to provide a seamless license purchase and management experience with Gitlab.com.
+
+## Team Members
+
+The following people are permanent members of the Front End Fulfillment Group:
+
+<%= direct_team(manager_role: 'Frontend Engineering Manager, Fulfillment and Telemetry') %>
+
+## Stable Counterparts
+
+The following members of other functional teams are our stable counterparts:
+
+<%= stable_counterparts(role_regexp: /[,&] Fulfillment/, direct_manager_role: 'Frontend Engineering Manager, Fulfillment and Telemetry') %>
+
+## How we work
+
+The team meets once per week (see team calendar). This is the opportunity for the Fulfillment Frontend team to discuss topics related to our work. The objective of the meeting is to synchronously clarify any topics outstanding from the previous week or may affect our work in the upcoming week. This meeting also serves to fill-in context that maybe missing from purely written communication. Communicating highlights from this meeting to the greater team helps with any cross-team missing information.
+
+All team members should feel free to contribute topics to the agenda.
+
+Topics should include:
+
+* Wins from the past week
+* Problems which have been impeding or blocking fluid progress
+* Planning for upcoming week and weighting backlog issues
+
+The Engineering Manager will assign issues to be weighted ahead of the weekly meeting. At the end of the meeting we will discuss any potential pitfalls and collectively assign a weight. We will use a weight system where 5 is roughly 2 engineer weeks of work. Issues with weight greater than 5 should be broken down into smaller issues.
+
+When possible, larger issues should be broken into multiple MRs. Technical discussion should happen in the MR, while questions for the Product and Design teams should be addressed in the associated issue.
+
+We follow the standard MR and [Code Review](/handbook/engineering/workflow/code-review/) process with a few exceptions. Since the Fulfillment Frontend Team is relatively new, we don't have a maintainer for the [Customer portal](/handbook/engineering/projects/#customers-app) or the [License app](/handbook/engineering/projects/#gitlab-license) on the team. For the reason, and to increase diversity of reviewers, Frontend maintainers of the [GitLab CE](/handbook/engineering/projects/#gitlab-ce) and [GitLab EE](/handbook/engineering/projects/#gitlab-ee) projects should merge Frontend MRs for the Customer portal and Licence app projects.
+
+For the [Customer portal](https://gitlab.com/gitlab-org/customers-gitlab-com) MRs should be branched from and merged into the staging branch.
+
+### Picking something to work on
+
+Engineers can find and open [the milestone board for Fulfillment](https://gitlab.com/groups/gitlab-org/-/boards/)
+and begin working first on those with the `deliverable` label.
+
+It's possible for engineers to pick any of the remaining issues for the milestone once the deliverables are done. If the engineer has no preference, they can choose the next available issue from the top.
+
+The following table will be used as a guideline for scheduling work within the milestone:
+
+| Type        | % of Milestone | Description                                                                                |
+|-------------|----------------|-------------|------------------------------------------------------------------------------|
+| Deliverable | 40%            | business priorities (compliance, IACV, efficiency initiatives)                             |
+| Bug         | 16%            | non-critical bug fixes                                                                     |
+| Tech debt   | 10%            |                                                                                            |
+| Features    | 14%            | non-critical                                                                               |
+| Other       | 20%            | engineer picks, critical security/data/availability/regression, urgent business priorities |
+
+An issue will have at least 4 stages, and they should be moved accordingly using the [Fulfillment workflow board](https://gitlab.com/groups/gitlab-org/-/boards/1072626)
+
+These are:
+
+* Ready for development
+* In dev
+* In Review
+* Verification
+
+### Feature Releases
+
+New features for the [Customers Portal](https://customers.gitlab.com) are released using [unleash feature flags](https://docs.gitlab.com/ee/user/project/operations/feature_flags.html). The feature is first enabled on Staging by the engineer responsible for the merge request. The Product Manager and Designer are then assigned to the merge request for review. The label `workflow::verification` should also be added the issue. After receiving approval from reviewers the engineer will set the feature live in production.
+
+Complex features can be released using the [percent rollout strategy](https://docs.gitlab.com/ee/user/project/operations/feature_flags.html#percent-rollout-logged-in-users) at the discretion of Engineer, Engineering Manager, or Product Manager responsible for the issue. When using a percent rollout, the initial issue should be closed when the rollout begins, and a new issue should be created to track the progress of the rollout.
+
+A follow-up issue must be created after features are released which will allow for removal of the feature flag and any code which is deprecated as a result of the new feature. This issue should be completed after feature is determined to be stable.
+
+## Common Links
+
+ * [All open Fulfillment epics](https://gitlab.com/groups/gitlab-org/-/epics?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Afulfillment)
+ * [Issue Tracker](https://gitlab.com/gitlab-org/fulfillment/issues)
+ * [Slack channel #g_fulfillment_fe_dev](https://gitlab.slack.com/app_redirect?channel=g_fulfillment_fe_dev)
+ * [Daily standup channel #g_fulfillment_daily](https://gitlab.slack.com/app_redirect?channel=g_fulfillment_daily)
+ * [Team calendar](https://calendar.google.com/calendar/embed?src=gitlab.com_7199q584haas4tgeuk9qnd48nc%40group.calendar.google.com)
+

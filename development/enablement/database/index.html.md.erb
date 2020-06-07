@@ -1,0 +1,106 @@
+---
+layout: handbook-page-toc
+title: Database Team
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Vision
+
+Developing solutions for scalability, application performance, data growth and developer enablement especially where it concerns interactions with the database.
+
+## Mission
+
+Focusing on the database, our mission is to provide solutions that allow us to scale to our customer's demands.  To provide tooling to proactively identify performance bottlenecks to inform developers early in the development lifecycle.  To increase the number of database maintainers and provide database best practices to the community contributors and development teams within GitLab.
+
+The following people are permanent members of the Database Team:
+
+## Team Members
+
+The following people are permanent members of the Database Team:
+
+<%-# Hard coding the team makeup for now until team.yml reflects the team structure -%>
+<%-# <%= direct_team(manager_role: 'Engineering Manager, Database') %>
+<table>
+<thead>
+<tr>
+<th>Person</th>
+<th>Role</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Craig Gomes</td>
+<td><a href="/job-families/engineering/backend-engineer/#engineering-manager">Engineering Manager, Database</a></td>
+</tr>
+<tr>
+<td>Andreas Brandl</td>
+<td><a href="/job-families/engineering/backend-engineer">Staff Backend Engineer, Database</a></td>
+</tr>
+<tr>
+<td>Patrick Bair</td>
+<td><a href="/job-families/engineering/backend-engineer">Senior Backend Engineer, Database</a></td>
+</tr>
+<tr>
+<td>Yannis Roussos</td>
+<td><a href="/job-families/engineering/backend-engineer">Senior Backend Engineer, Database</a></td>
+</tr>
+</tbody>
+</table>
+
+## Stable Counterparts
+
+The following members of other functional teams are our stable counterparts:
+
+<%= stable_counterparts(role_regexp: /[,&] Database/, direct_manager_role: 'Backend Engineering Manager, Memory & Database') %>
+
+## Meetings
+
+Whenever possible, we prefer to communicate asynchronously using issues, merge requests, and Slack. However, face-to-face meetings are useful to establish personal connection and to address items that would be more efficiently discussed synchronously such as blockers.
+
+* Weekly Team Meeting every Monday at 3:00 PM UTC
+* Database Team Office Hours every Tuesday and Thursday at 1:00 PM UTC
+* [Database Office Hours](https://docs.google.com/document/d/1wgfmVL30F8SdMg-9yY6Y8djPSxWNvKmhR5XmsvYX1EI/edit#heading=h.oyp8amyknnr8) (internal link); [YouTube recordings](https://www.youtube.com/playlist?list=PL05JrBw4t0Kp-kqXeiF7fF7cFYaKtdqXM)
+  * Wednesdays, 3:30pm UTC (bi-weekly)
+  * (APAC) Thursdays, 3:30am UTC (bi-weekly, alternating)
+
+## Work
+
+We follow the GitLab [engineering workflow](/handbook/engineering/workflow/) guidelines.  To bring an issue to our attention please create an issue in the relevant project.  Add the `~"group::database"` label along with any other relevant labels.  If it is an urgent issue, please reach out to the Product Manager or Engineering Manager listed in the [Stable Counterparts](/handbook/engineering/development/enablement/database/#stable-counterparts) section above.
+
+### What we do
+
+The team is responsible for the PostgreSQL application interactions to enable high performance queries while offering features to support scalability and strengthen availability. For the foreseeable future, the team will be focusing on database partitioning and sharding. PostgreSQL is the heart of Rails application, and there is no shortage of work to make GitLab more performant, scalable, and highly available from database perspective.
+
+### Boards
+
+- [Database by Milestone](https://gitlab.com/groups/gitlab-org/-/boards/1318796?&label_name%5B%5D=group%3A%3Adatabase)
+  - The main board used for planning and prioritization. Issues are placed into milestones and in priority order from top to bottom. When looking for work, team members should choose the topmost item from this list that is unassigned.
+- [Database:Workflow Kanban](https://gitlab.com/groups/gitlab-org/-/boards/1324138?label_name%5B%5D=group%3A%3Adatabase)
+  - Reflects the current state of the issue (Open, Ready for Development, In Dev, In Review, Blocked, Closed).
+- [Database:Planning](https://gitlab.com/groups/gitlab-org/-/boards/1324141?&label_name%5B%5D=group%3A%3Adatabase)
+  - A view of issues grouped by Priority or Severity.
+
+### Documentation
+
+We document our insights, road maps and other relevant material in this section.
+
+1. [On table partitioning](doc/partitioning.html) (February 2020)
+1. [Table partitioning: Issue group search as an example](doc/issue-group-search-partitioning.html) (March 2020)
+1. [Sharding with CitusDB](doc/citus.html) (April 2020)
+1. [Database Strategy: Guidance for proposed database changes](doc/strategy.html)
+1. [Postgres: Sharding with foreign data wrappers and partitioning](doc/fdw-sharding.html)
+1. [Sharding GitLab by root namespace](doc/root-namespace-sharding.html)
+
+### Common Links
+
+* Slack Channel [#g_database](https://gitlab.slack.com/app_redirect?channel=g_database)
+* [Database Epics](https://gitlab.com/groups/gitlab-org/-/epics?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Adatabase)
+* [Database Subgroup](https://gitlab.com/gitlab-org/database-team) - Issues and templates related to team processes.
+* [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline)
+* [YouTube: Database Team Playlist](https://www.youtube.com/watch?v=BqwsRDpknfg&list=PL05JrBw4t0KoxfN-uO2YfvQUabp2kdUYT)
+* [YouTube: Database Office Hours Playlist](https://www.youtube.com/watch?v=p3ful2h8H-c&list=PL05JrBw4t0Kp-kqXeiF7fF7cFYaKtdqXM)

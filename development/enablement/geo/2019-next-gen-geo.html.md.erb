@@ -1,0 +1,133 @@
+---
+layout: handbook-page-toc
+title: "Next Generation Geo "
+description: "Notes from looking at options for the future direction of Geo"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## 2019 - Next Gen Geo
+
+### Introduction
+
+More customers are relying on Geo in their production systems and suggesting features that would enhance their use of GitLab. Some of the suggestions bring interesting technical challenges, and we need to ensure that proper thought and planning goes into implementing these features.
+
+The purpose of this document is to bring the various ideas and options that exist in several issues together into a single location to make it easier to get a good overview of the road ahead.
+
+Parent issue for Next Gen Geo: [https://gitlab.com/gitlab-org/gitlab-ee/issues/8729](https://gitlab.com/gitlab-org/gitlab-ee/issues/8729)
+
+Issues: [https://gitlab.com/gitlab-org/gitlab-ee/issues?label_name[]=Geo%20Next%20Gen](https://gitlab.com/gitlab-org/gitlab-ee/issues?label_name[]=Geo%20Next%20Gen)
+
+### Current State
+
+[Geo](https://docs.gitlab.com/ee/administration/geo/replication/index.html) currently relies on [PostgreSQL's streaming replication](https://wiki.postgresql.org/wiki/Streaming_Replication) mechanism to replicate all data from the primary node to secondary nodes. Background jobs monitor for data changes and initiate requests to pull additional data from the primary server. Each secondary node's state is maintained in the Geo Tracking Database on that node.
+
+For a quick overview of the architecture, see Geo [Architecture documentation](https://docs.gitlab.com/ee/administration/geo/replication/index.html#architecture).
+
+![Geo Diagram](geo_diagram.png)
+
+This design was chosen after a few iterations. More background information is available on the [How we built GitLab Geo](/blog/2018/09/14/how-we-built-gitlab-geo/) blog post.
+
+#### Advantages
+
+**Simple design** :  The simplicity of the design means that no additional software is required from a standard GitLab EE install, just some configuration changes.
+
+**Familiar technology** :  Geo leverages PostgreSQL and Sidekiq to do most of the work. They are currently utilized core technologies within the GitLab stack for Geo and non-Geo clusters.
+
+**Easy Disaster Recovery** : The current design lends itself nicely to use as a DR site as all data is replicated and available in a completely different location, in a read-only form that can only be updated from the primary.
+
+**Single Source of Truth** : The primary node is the only source of truth. There is no need to do conflict resolution, because only the primary is writable.
+
+#### Limitations
+
+**All database data is synced** : Users are not able to choose which data is synced to a specific node. Not all users require all data to be synced, and some have legal requirements about the physical location of their data.
+
+**Secondaries are read-only** : Each secondary node is read-only both from a UI and git repository perspective.  Improvements have been made to allow secondaries to ‘perform write actions’ (via redirecting / proxying), but for the most part they are a read-only view.
+
+**Labour intensive process for adding a new secondary** : There are quite a number of steps that need to be executed on both the primary and a new secondary before it becomes possible to add the new secondary using the UI.
+
+**Geo Log Cursor does not scale horizontally** : Currently, scaling the [Geo log cursor](https://docs.gitlab.com/ee/administration/geo/replication/#geo-log-cursor) to increase its throughput via horizontal scaling  is not possible.  However, as discussed in [Active-active geo log cursors](https://gitlab.com/gitlab-org/gitlab-ee/issues/4733) no clear bottleneck has been identified on GitLab.com so urgency around this optimisation is reduced.
+
+For further details on current limitations, please consult the [administrator documentation for Geo](https://docs.gitlab.com/ee/administration/geo/replication/index.html#current-limitations).
+
+### Suggested Features and Changes
+
+#### Selective Sync of Projects
+Some customers have legal requirements concerning the physical location of their data. Some customers have relationships with software consultancies in different countries and would like to have a secondary node running close to where those consultancies are based. However, that node would contain a complete copy of the database data, counter to the legal requirements.
+
+With Geo in its current form, this is not possible. We have the ability to sync git repositories by namespace and by shard, but the data that is required to run GitLab (ie, user data) is replicated in full.
+
+#### Writable Nodes
+Customers want to be able to write to _all_ the nodes to reduce latency even further. A complaint from a customer was that they push to the secondary node but then need to wait for that push to complete the round-trip back to the primary before the changes are reflected on the secondary node.
+
+We want to avoid creating bespoke solutions for each piece of functionality. For example, creating projects, issues, and merge requests would likely require specific implementations. Each feature added in the future would also require work from Geo to support it.
+
+There is a proof-of-concept where a secondary node writes back to the primary database - [WIP: POC for allowing a Geo secondary to write to the primary's DB](https://gitlab.com/gitlab-org/gitlab-ee/merge_requests/9354).
+
+#### Transparent Setup
+Customers find it cumbersome to set Geo up, especially when clustered. Customers also want an easier way to maintain the nodes (upgrading for example), and they want it to be straightforward to manually promote a secondary node to a primary status during a failover.
+
+There are also some customers who want to control the orchestration of nodes behind load balancers.
+
+With Geo in its current form, these enhancements are possible, and Geo does not necessarily need any significant changes made in order to make this happen.  If we had more robust service discovery capabilities, this would streamline the process even further. Even without service discovery, we can make progress.
+
+Relevant links:
+- [https://gitlab.com/gitlab-org/omnibus-gitlab/issues/2978](https://gitlab.com/gitlab-org/omnibus-gitlab/issues/2978) : One command to set up Geo per server
+- [https://gitlab.com/gitlab-org/gitlab-ee/issues/8932](https://gitlab.com/gitlab-org/gitlab-ee/issues/8932) : Update service discovery proposal
+- [https://docs.google.com/document/d/1ZFEbOG8NOsxXILevP5sGfc4yNo1w9tybYmELAfuVGlM/edit?usp=sharing](https://docs.google.com/document/d/1ZFEbOG8NOsxXILevP5sGfc4yNo1w9tybYmELAfuVGlM/edit?usp=sharing) : Service Discovery Document
+
+#### Using Object Storage for Git Repos
+Git repositories are one of the few items that we store in block storage. We use zone persistent SSD drives which are expensive and dependent on zone availability. Alternatives to SSD’s are also expensive and, in many cases, too slow. Using Object Storage may prove to be more reliable, cheaper, and simpler to operate. There is a lengthy discussion on the issue that show the complexities in getting this correct. Creating a proof-of-concept for this idea would help focus the discussion and show us if this idea is viable.
+
+[https://gitlab.com/groups/gitlab-org/-/epics/479](https://gitlab.com/groups/gitlab-org/-/epics/479)
+
+### Other Issues Considered
+
+We have looked into several other issues as part of this work and concluded that we would not look further into these issues at this time. They will remain open.
+
+#### Active-active Geo Log Cursors
+This proposal looked to address horizontal scaling for the Geo log cursor which is currently not possible. A year ago, the conclusion was that there was not enough evidence to show that the log cursor could not handle the load and would require scaling. When Geo is deployed on GitLab.com we will see if there is new evidence for this issue.
+
+[Active-active Geo Log Cursors](https://gitlab.com/gitlab-org/gitlab-ee/issues/4733)
+
+#### Active-active git replication
+The discussion on the issue took place over a year ago and is a complex problem. A first step would to investigate if the technology landscape had improved or included new offerings.  We could also work alongside the Gitaly team for additional ideas.
+
+[Active-active git replication](https://gitlab.com/gitlab-org/gitlab-ee/issues/1381)
+
+#### Hybrid Synchronization
+We have produced a [proof-of-concept MR for writable nodes](https://gitlab.com/gitlab-org/gitlab-ee/merge_requests/9354) and will reassess this idea once we have feedback from the proof-of-concept.
+
+[Geo: Hybrid Synchronization](https://gitlab.com/gitlab-org/gitlab-ee/issues/623)
+
+#### Full project mirroring between GitLab instances
+This also looks to be a response to not having writable nodes. We will look into this again when the prototype for writable nodes has generated feedback.
+
+[Full project mirroring between GitLab instances](https://gitlab.com/gitlab-org/gitlab-ee/issues/4517)
+
+### Summary
+
+The issues referenced in this document are summarized below in order of importance.
+
+| **Item**                                                                                | **Next Steps**                                                                  |
+|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| Transparent Setup <br/> 1. [One command to set up Geo per server](https://gitlab.com/gitlab-org/omnibus-gitlab/issues/2978) <br/> 2. Easier manual failover (with automated failover to follow)<br/> 3. Support for load balancing of nodes | Understand relationship with Service Discovery                                  |
+| [Writable Nodes](https://gitlab.com/gitlab-org/gitlab-ee/issues/9902)                   | [Proof-of-concept](https://gitlab.com/gitlab-org/gitlab-ee/merge_requests/9354) |
+| [Selective Sync of Projects](https://gitlab.com/gitlab-org/gitlab-ee/issues/9900)       | Further research about replication                                              |
+| [Storing git repos in object storage](https://gitlab.com/groups/gitlab-org/-/epics/479) | Proof-of-concept                                                                |
+| [Active-active Geo Log Cursors](https://gitlab.com/gitlab-org/gitlab-ee/issues/4733)    | No clear bottleneck found, no plans to look further at this time                |
+
+### Next Steps
+
+We consider these to be the most important items at the moment:
+
+1. Transparent setup
+1. Writable nodes
+
+We will start expanding these two ideas so that they become actionable items.
+
+For the other issues in this document, we will keep them available in the [Geo Next Gen Board](https://gitlab.com/groups/gitlab-org/-/boards/960355?&label_name[]=Geo&label_name[]=Geo%20Next%20Gen).

@@ -1,0 +1,213 @@
+---
+layout: handbook-page-toc
+title: "Verify:Runner Group"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Vision
+
+For an understanding of what this team is going to be working on take a look at [the product
+vision](/direction/verify/).
+
+## Mission
+
+The Verify:Runner Group is focused on all the functionality with respect to
+Runner.
+
+This team maps to [Verify](/handbook/product/categories/#verify-stage) devops stage.
+
+## Team Members
+
+The following people are permanent members of the Verify:Runner group:
+
+<%= direct_team(manager_role: 'Backend Engineering Manager, Verify:Runner') %>
+
+## Stable Counterparts
+
+The following members of other functional teams are our stable counterparts:
+
+<%= stable_counterparts(role_regexp: /[,&] Verify/, direct_manager_role: 'Backend Engineering Manager, Verify:Runner', other_manager_roles: ['Frontend Engineering Manager, Verify', 'Backend Engineering Manager, Verify:Continuous Integration', 'Backend Engineering Manager, Verify:Testing']) %>
+
+## Projects we maintain
+
+As a team we maintain several projects. The <https://gitlab.com/gitlab-com/runner-maintainers> group
+is added to each project with maintainer permission. We also try to align tools and versions used across them.
+
+### Product projects
+
+- [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner)
+- [GitLab Runner's Helm Chart](https://gitlab.com/gitlab-org/charts/gitlab-runner)
+- [Autoscaler - Custom Executor driver](https://gitlab.com/gitlab-org/ci-cd/custom-executor-drivers/autoscaler)
+- [AWS Fargate - Custom Executor driver](https://gitlab.com/gitlab-org/ci-cd/custom-executor-drivers/fargate)
+- [GitLab Runner UBI offline build](https://gitlab.com/gitlab-org/ci-cd/gitlab-runner-ubi-images)
+- [GCP Windows Shared Runners base VM image](https://gitlab.com/gitlab-org/ci-cd/shared-runners/images/gcp/windows-containers)
+
+### Helper projects
+
+- [Runner release helper](https://gitlab.com/gitlab-org/ci-cd/runner-release-helper)
+- [GitLab Changelog](https://gitlab.com/gitlab-org/ci-cd/runner-tools/gitlab-changelog)
+- [Release index generator](https://gitlab.com/gitlab-org/ci-cd/runner-tools/release-index-generator)
+- [Common configuration for new GitLab Runner projects](https://gitlab.com/gitlab-org/ci-cd/runner-common-config)
+
+### Other projects
+
+- [DinD image tests](https://gitlab.com/gitlab-org/ci-cd/tests/dind-image-tests)
+- [Docker Machine fork](https://gitlab.com/gitlab-org/ci-cd/docker-machine/)
+
+## Technologies
+
+We spend a lot of time working in Go which is the language that [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner) is written in. Familiarity with Docker and Kubernetes is also useful on our team.
+
+## Becoming a maintainer for one of our projects
+
+We follow the same process [outlined
+here](/handbook/engineering/workflow/code-review/#how-to-become-a-maintainer).
+Any engineeer inside of the organization is welcome to become a
+maintainer of a project owned by the Runner team. The first step would
+be to become a [trainee
+maintainer](/handbook/engineering/workflow/code-review/#trainee-maintainer).
+
+To start the maintainer training process,
+please create an issue in the Runner project's issue tracker using the [Release Maintainer Trainee template](https://gitlab.com/gitlab-org/gitlab-runner/issues/new?issuable_template=trainee-backend-maintainer).
+
+After the training is finished, the new maintainer will be added to the <https://gitlab.com/gitlab-com/runner-maintainers>
+group, which will set proper permission across the projects.
+
+## Common Links
+
+ * [Issue Tracker](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Arunner)
+ * [Slack Channel](https://gitlab.slack.com/archives/g_runner)
+ * [Roadmap]()
+
+## How we work
+
+### Runner Group Specific Onboarding Needs
+
+* `editor` access to the `group-verify` project in GCP
+* Add as `developer` to the `gitlab-com/runner-group` group on GitLab.com
+* Make sure entry in `team.yml` has the new member as a reviewer of `gitlab-org/gitlab-runner` and `gitlab-org/ci-cd/custom-executor-drivers/autoscaler`
+* Add as `developer` to the `gitlab.com/gl-retrospectives/runner/` project and add to the team definition in `gitlab.com/gitlab-org/async-retrospectives`
+* Add to Geekbot daily standup for `Runner Group Daily Standup` and `Runner Weekly Retro`
+* Add to `Verify` 1password vault (requires creating an access request).
+
+### Kanban
+
+We try to use the Kanban process for planning/development.  Here is the
+single source of truth about how we work. Any future changes should be
+reflected here. If you feel like that process is not ideal in certain
+aspects or doesn't achieve a goal, you are more than welcome to open a
+merge request and suggest a change.
+
+#### Goals
+
+- Reduce churn of each milestone, having to move 1 issue to another
+  milestone, checking if we have the capacity.
+- Be more flexible with what makes it in a milestone.
+- Make our process clearer to identify bottlenecks.
+- Remove the feeling that we just planned this milestone but need to
+  change certain things because we added a new issue.
+
+#### Process
+
+We use the following
+[board](https://gitlab.com/groups/gitlab-org/-/boards/1605623?&label_name[]=group%3A%3Arunner)
+for planning, milestone tracking.
+
+- Open column: This is the teams' backlog, all issues that the team is
+  responsible of.
+- `~workflow::start`: This is the backlog for the product manager, they
+  are responsible for this column. Issues should be vertically stacked,
+  the top one has the highest priority. At this stage the issue is not
+  very fleshed out, and we still need to understand the problem. When an
+  issue is in this column it means that the product manager is aware of
+  the issue and will start working on it soon. This column is limited to
+  10.
+- `~workflow::planning breakdown`: This is where the engineering team
+  will work with the product manager to make sure we have a good
+  proposal for the issue at hand. Each engineer should spend 1-2 hours each
+  week to discuss the issue async with the community and product manager
+  to figure out a proposal. Particular attention should be given to thinking
+  about how the team can build the feature in an iterative way - what's the
+  smallest change we could make to get some version of the feature into the
+  hands of a customer in a single release?
+  
+  Sometimes it's helpful to attach a milestone to the issue that is in this 
+  column, so that an engineer can focus time doing PoC and research spikes for
+  that specific release.. It's perfectly OK for an issue to be closed from this
+  column if we decided to split the issue into multiple ones. When both the
+  product manager and engineering team are happy with the proposal they should
+  move the issue to the next column, `~workflow::ready for development`. The
+  people assigned to this issue are most likely engineers and are responsible
+  for getting this issue to the next stage.
+- `~workflow::ready for development`: At this stage, we should have a
+  good idea of what the issue requires, and how much work it is. When an
+  engineer is out of tasks to work on and has no merge requests to
+  review or any issues that are `~workflow::In dev` they should pick the
+  one on top, assign it to them and move it to the next column. In this
+  column, each issue should have a milestone attached to it to indicate
+  to the customer in which release it will be done in.
+- `~workflow::In dev`: Here is where the engineer starts working on the
+  issue. If the issue is not clear on what needs to be achieved, they
+  should discuss it with the team to see if it needs to go back to
+  previous stages. This column is limited to 3 issues per engineer in
+  the team. If they have more issues assigned to them we need to
+  reevaluate the workload of the engineer because there is most likely a
+  lot of context switching which is not effective.
+- `~workflow::In review`: When the issue has either 1 merge request or
+  multiple merge requests ready for review it should be moved to the
+  `~workflow::In review` column. There is a limit of 20 issues that
+  should be in review. If we are at limit engineers should not pick up
+  new work but see if they can help out in the review process.
+- `~workflow::blocked`: There are multiple reasons why an issue can be
+  blocked. If the issue has a milestone attached to it, the issue
+  blocking it should have the same milestone or 1 earlier, and have a
+  higher priority. We should also mark the issue as blocked using the
+  [related issue
+  feature](https://docs.gitlab.com/ee/user/project/issues/related_issues.html#adding-a-related-issue).
+- Closed column: Congratulations, the issue process has finished, the
+  bug was fixed or the feature was added. Check if you can help with
+  `~workflow::planning breakdown` or `~workflow::In review`. If not pick
+  a new issue from `~workflow::ready for development`.
+
+Tips:
+- For each column the priority is stack-ranked, meaning that the one on
+  the top is the most important one.
+- To keep the stack intact, moving 1 issue from 1 column to another
+  might mess the priority. Open the issue and use the
+  [`/label`](https://docs.gitlab.com/ee/user/project/quick_actions.html)
+  quick action to keep the same priority stack.
+
+#### Kickoff
+
+As discussed above each issue inside of `~workflow::ready for
+development` should have a milestone attached to it. If stack-ranked
+properly, the issues on top should be in the current milestone, and then
+the upcoming milestone. The product manager will take the top 5 issues
+from the `~workflow::ready for development` column that is intended
+for the upcoming milestone and use these issues as [kickoff
+issues](https://about.gitlab.com/handbook/product/product-management/process/#kickoff-meetings).
+
+#### Weekly Refinement
+
+The team has a weekly meeting where we spend 10-15 minutes
+to review and discuss issues on the board. Especially if the product manager needs input on
+items in `~workflow::start`. There shouldn't be uncertainties regarding the priorities
+for the week ahead at the end of the meeting.
+
+## How to work with us
+
+### On issues
+
+Issues worked on by the Runner group a group label of ~"group::runner". Issues that contribute to the verify stage of the devops toolchain have the ~"devops::verify" label.
+
+### Get our attention
+
+GitLab.com: `@gitlab-com/runner-group`
+Slack: [`#g_runner`](https://gitlab.slack.com/archives/CBQ76ND6W)
+
+

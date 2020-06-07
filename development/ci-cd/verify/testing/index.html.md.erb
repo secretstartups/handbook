@@ -1,0 +1,149 @@
+---
+layout: handbook-page-toc
+title: "Verify:Testing Group"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Vision
+
+We provide confidence in software through the delivery of meaningful, actionable automated testing results in GitLab.
+
+## North Star Metric
+
+We measure the value we contribute by using a [North Star Metric](https://about.gitlab.com/handbook/product/metrics/). Our current North Star Metric for the Testing group is the `number of jobs that generate a test report`. This is a count of jobs that generate an accessibility, code quality, junit, code coverage or web performance report. For more details, please check out the [Product team's performance indicators](https://about.gitlab.com/handbook/product/performance-indicators/#regular-performance-indicators). To view the latest data for this North Star Metric see our [Sisense Dashboard](https://app.periscopedata.com/app/gitlab/633395/Testing-Category-Metrics).
+
+## Mission
+
+The Verify:Testing Group provides automated testing integration into GitLab. We aim to allow software teams to be able to easily integrate many layers of testing into their GitLab CI workflow including:
+
+* Code Testing
+* Code Quality
+* Code Coverage
+* Web performance testing
+* Usability testing
+* Accessibility testing
+
+We want software teams to feel confident that the changes they introduce into their code are safe and conformant.
+
+## Team Members
+
+The following people are permanent members of the Verify:Testing group:
+
+<%= shared_team_members(role_regexps: [/Verify(?!:)/, /Verify:Testing/]) %>
+
+## Stable Counterparts
+
+The following members of other functional teams are our stable counterparts:
+
+<%= stable_counterparts(role_regexp: /[,&] Verify/, direct_manager_role: 'Backend Engineering Manager, Verify:Testing', other_manager_roles: ['Frontend Engineering Manager, Verify', 'Backend Engineering Manager, Verify:Continuous Integration', 'Backend Engineering Manager, Verify:Runner']) %>
+
+#### JTBD
+
+You can view and contribute to our current list of JTBD and job stories [here](/handbook/engineering/development/ci-cd/verify/testing/jtbd).
+
+## Technologies
+
+Like most GitLab backend teams we spend a lot of time working in Rails on the main [GitLab app](https://gitlab.com/gitlab-org/gitlab). Familiarity with Docker and Kubernetes is also useful on our team.
+
+## Common Links
+
+ * [Issue Tracker](https://gitlab.com/groups/gitlab-org/-/boards/364216?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Atesting)
+ * [Slack Channel](https://gitlab.slack.com/archives/g_testing)
+ * [Roadmap](https://about.gitlab.com/direction/ops/#verify)
+
+## Our Repositories
+
+* [GitLab](https://gitlab.com/gitlab-org/gitlab)
+* [CodeQuality](https://gitlab.com/gitlab-org/ci-cd/codequality)
+* [Accessibility](https://gitlab.com/gitlab-org/ci-cd/accessibility)
+
+
+## Our active feature flags
+
+Note: This table will be replaced with an issue filter at a later date.
+
+| Flag name                            | Description                                                                                                                                                                           |
+|:-------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `junit_pipeline_view`                | [Docs](https://docs.gitlab.com/ee/ci/junit_test_reports.html#enabling-the-feature)                                                                                                    |
+| `junit_pipeline_screenshots_view`    | [Docs](https://docs.gitlab.com/ee/ci/junit_test_reports.html#enabling-the-feature-1)                                                                                                  |
+| `accessibility_report_view`          |                                                                                                                                                                                       |
+| `ci_limit_test_reports_size`         |                                                                                                                                                                                       |
+| `accessibility_merge_request_widget` | hides the accessibility report merge request widget when disabled                                                                                                                     |
+| `anonymous_visual_review_feedback`   | Allows comments to be posted to Merge Requests directly from Visual Review Tools without authentication [Docs](https://docs.gitlab.com/ee/ci/review_apps/#configuring-visual-reviews) |
+
+## How we work
+
+### Workflow
+Unless specifically mentioned below, the Verify:Testing group follows the standard [engineering](https://about.gitlab.com/handbook/engineering/workflow/) and [product](https://about.gitlab.com/handbook/product-development-flow/) workflows.
+
+### Starting New Work
+Verify:Testing team members are encouraged to start looking for work starting **_Right to left_** in the milestone board. This is also known as _"Pulling from the right"_. If there is an issue that a team member can help along on the board, they should do so instead of starting new work. This includes conducting code review on issues that the team member may not be assigned to if they feel that they can add value and help move the issue along the board.
+
+Specifically this means, in order:
+* Doing verification that code has made it to staging, canary, or production
+* Conducting code reviews on issues that are `workflow::in review`
+* Unblocking anyone in the `workflow::in development` column
+* Then, finally, picking from the top of the `workflow::ready for development` column
+
+The goal with this process is to reduce WIP. Reducing WIP forces us to "Start less, finish more", and it also reduces cycle time. Engineers should keep in mind that the DRI for a merge request is the **author(s)**, just because we are putting emphasis on the importance of teamwork does not mean we should dilute the fact that having a [DRI is encouraged by our values](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/#dris-and-our-values).
+
+### Code Review
+Code reviews follow the standard process of using the reviewer roulette to choose a reviewer and a maintainer. The roulette is **optional**, so if a merge request contains changes that someone outside our group may not fully understand in depth, it is encouraged that a member of the Verify:Testing team be chosen for the preliminary review to focus on correctly solving the problem. The intent is to leave this choice to the discretion of the engineer but raise the idea that fellow Verify:Testing team members will sometimes be best able to understand the implications of the features we are implementing. The maintainer review will then be more focused on quality and code standards.
+
+We also recommend that team members take some time to review each others merge requests even if they are not assigned to do so, as described in the [GitLab code review process](https://about.gitlab.com/handbook/engineering/workflow/code-review/#reviewer). It is not necessary to assign anyone except the initial domain reviewer to your Merge Request. This process augmentation is intended to encourage team members to review Merge Requests that they are not assigned to. As a new team, reviewing each others merge requests allows us to build familiarity with our product area, helps reduce the amount of investigation that needs to be done when implementing features and fixes, and increases our [lottery factor](https://en.wikipedia.org/wiki/Bus_factor). The more review we can do ourselves, the less work the maintainer will have to do to get the merge request into good shape.
+
+This tactic also creates an environment to ask for early review on a WIP merge request where the solution might be better refined through collaboration and also allows us to share knowledge across the team.
+
+#### Measurement
+If the **Code Review** and **Starting New Work** sections do not have a meaningful impact by the end of %13.2 we will remove them from our process playbook. We define meaningful impact as reducing the amount of issues we carry over milestone to milestone by at least 15% - from 15 to below 12 (Ideally much lower).
+
+### Closing Issues
+After an engineer has ensured that the [Definition of Done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done) is met for an issue, they are the ones responsible for closing it. The engineer responsible for verifying an issue is done is the engineer who is the DRI for that issue, or the DRI for the final merge request that completes the work on an issue.
+
+### Meetings
+We meet on a weekly cadence for two separate meetings. Typically we conduct both of these meetings sequentially.
+
+#### Testing Group Weekly Meeting
+This synchronous meeting is to discuss anything that is blocking, or notable from the past week. This meeting acts as a team touchpoint.
+
+#### Testing Group Refinement Meeting
+This synchronous meeting is to refine and triage the current and next milestone's issues. In this meeting we should be: discussing priority, sizing issues, estimating the weight of issues, keeping track of our milestone bandwidth and removing issues appropriately.
+
+### Async Daily Standups
+
+We use [geekbot](https://geekbot.com/) integrated with Slack for our daily async standup. The purpose of the daily standup meeting is to keep the team informed about what everyone is working on, and to surface blockers so we can eliminate them. The standup bot will run at 10am in the team members local time and ask 2 questions:
+1. What will you do today?
+1. Anything blocking your progress?
+
+### Release planning issue
+
+We use a [release planning issue](https://gitlab.com/gitlab-org/ci-cd/testing-group/-/blob/master/.gitlab/issue_templates/ReleasePlan.md) to plan our release-level priorities over each milestone. This issue is used to highlight deliverables, capacity, team member holidays, and more. This allows team members and managers to see at a high-level what we are planning on accomplishing for each release, and serves as a central location for collecting information.
+
+### Issue Health Status Definitions:
+
+- **On Track** - We are confident this issue will be completed and live for the current milestone. It is all [downhill from here](https://basecamp.com/shapeup/3.4-chapter-12#work-is-like-a-hill).
+- **Needs Attention** - There are concerns, new complexity, or unanswered questions that if left unattended will result in the issue missing its targeted release. Collaboration needed to get back `On Track`
+- **At Risk** - The issue in its current state will not make the planned release and immediate action is needed
+
+### Definition of Ready
+
+Before the team will accept an issue into a milestone for work it must meet these criteria:
+
+* Issues labeled with ~feature include a well stated "why" and customer problem
+* Issues labeled ~bug include steps to reproduce
+* Designs are in the design tab if needed
+
+### Definition of Done
+
+GitLab has a documented [Definition of Done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done) for contributions to GitLab. We will follow that standard for our own definition of done.
+
+## How to work with us
+
+### On issues
+
+Issues worked on by the testing group have a group label of ~"group::testing". Issues that contribute to the verify stage of the devops toolchain have the ~"devops::verify" label.
