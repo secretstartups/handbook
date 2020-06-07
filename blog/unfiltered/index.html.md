@@ -1,0 +1,106 @@
+---
+layout: markdown_page
+title: "GitLab Unfiltered blog handbook"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+The GitLab Unfiltered blog is inspired by the spirit of [transparency](/handbook/values/#transparency) and "[everyone can contribute](/company/strategy/#mission)." Team members can publish posts without going through the Editorial team for review, and we may choose some posts to feature on the main blog. You can publish as often as you like, get your posts up much faster, and don't need to ensure that they align with our content strategy.
+
+Any GitLab team member can publish to the GitLab Unfiltered blog, provided they follow the process below, the post is relevant to GitLab or your work at GitLab (i.e. don't treat it as your personal blog), is in keeping with our [values](/handbook/values), and would not cast GitLab in a negative light. If you're not sure if your topic is appropriate for GitLab Unfiltered, please share your issue or merge request in #content on Slack to get feedback. If any team member publishes a post that is unsuitable they may have their right to publish revoked.
+
+### Legal disclaimer
+
+DISCLAIMER: This blog is intended for user-generated content submitted by the GitLab team. The views and opinions represented in this blog are personal to the author of each respective blog post and do not represent the views or opinions of GitLab unless explicitly stated.
+All content provided on this blog is for informational purposes only. Neither GitLab nor any of the individual blog contributors ("Contributors") make any representations as to the accuracy or completeness of any information on this site. Neither GitLab nor any Contributors will be liable for any errors or omissions in this information or any losses, injuries, or damages from the display or use of this information.
+Comments are welcome, and in fact, encouraged. However, GitLab reserves the right to edit or delete any comments submitted to this blog without notice should GitLab determine them to i) be spam or questionable spam; ii) include profanity; iii) include language or concepts that could be deemed offensive, hate speech, credible threats, or direct attacks on an individual or group; or iv) are in any other way a violation of GitLab's Website Terms of Use. GitLab is not responsible for the content in comments.
+This policy is subject to change at any time.
+{: .alert .alert-info .note}
+
+## Is my blog post right for Unfiltered?
+
+Corporate news, product announcements, or any post which requires promotion from official GitLab branded channels should be published on the main GitLab blog. The process for submitting these posts is outlined in the [blog handbook](/handbook/marketing/blog/#publishing-process).
+
+```mermaid
+graph TD
+A[My blog post...] --> B(Needs promotion on GitLab social channels)
+B --> C[Yes]
+C --> H[Main blog]
+A --> E[Is about...]
+E --> G[Product announcements]
+E --> J[Company news]
+E --> L[Something else]
+L --> M[Unfiltered]
+J --> K[Main blog]
+G -->K
+B --> D[No]
+D --> F[Unfiltered]
+```
+### Examples:
+
+- Company news: Launching a Diversity, Inclusion & Belonging  initiative, announcing an event, sharing updates about an external-facing program
+- Product announcements: A breaking change, new integration, announcing a partnership
+
+ If you're still not sure where your post should live, ask in #content on Slack!
+
+## Process
+
+### Issue
+
+Start by opening an issue in the [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues) project, using the `unfiltered blog post` issue template.
+
+### Merge request
+
+Open a merge request for your blog post using the `unfiltered blog post` MR template. Make sure your MR is set to close your associated issue automatically.
+
+Create your blog post file, following the instructions in the main [blog handbook](/handbook/marketing/blog/#formatting-guidelines). You may do this before you open your MR, depending on your preferred workflow.
+
+Make sure you enter `unfiltered` in the category field of the frontmatter.
+
+#### Link to disclaimer
+
+Add the following to the top of your blog post file, underneath the frontmatter (leave one blank line in between):
+
+```md
+{::options parse_block_html="true" /}
+
+<i class="fab fa-gitlab" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>&nbsp;&nbsp;
+This blog post is [Unfiltered](/handbook/marketing/blog/unfiltered/#legal-disclaimer)
+&nbsp;&nbsp;<i class="fab fa-gitlab" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>
+{: .alert .alert-webcast}
+```
+
+This will render as follows:
+
+{::options parse_block_html="true" /}
+
+<i class="fab fa-gitlab" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>&nbsp;&nbsp;
+This blog post is [Unfiltered](/handbook/marketing/blog/unfiltered/#legal-disclaimer)
+&nbsp;&nbsp;<i class="fab fa-gitlab" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>
+{: .alert .alert-webcast}
+
+### Cover image
+
+You can choose a cover image for yourself by following the [guidelines in the blog handbook](/handbook/marketing/blog/#cover-image), but if you prefer not to, please use the following in your frontmatter, which will apply the default cover image for Unfiltered posts.
+
+`image_title: "/images/blogimages/gitlab-values-cover.png"`
+
+### Review
+
+As a final step, you might want to do a quick search of our blog to see if there are related posts you could include links to in your post. Cross-linking helps the reader and helps SEO, meaning more people will see what you've written. When you are completely finished, assign your MR to another team member for review. Ideally they should be someone familiar with the topic you are writing about, so that they can fact check as well as catch typos or grammatical errors. They might find this [editorial review checklist](/handbook/marketing/corporate-marketing/content/editorial-team/#editorial-review-checklist) helpful.
+
+- _Please ensure the `unfiltered` category has been entered in the post frontmatter._
+
+- _Please ensure the post is not set to be [featured](/handbook/marketing/blog/#featured): Remove the line `featured: yes` from the frontmatter if necessary._
+
+### Merging
+
+Your reviewer may be able to merge your post, but if they don't have maintainer access for the www-gitlab-com project you may need to assign the MR to someone else on your team to merge.
+
+### Featured posts
+
+The Editorial and PR teams will [monitor Unfiltered for blog posts that we may choose to polish and feature on the main blog](/handbook/marketing/corporate-marketing/content/editorial-team/#featuring-unfiltered-posts) or develop into contributed articles for other publications. If you publish an Unfiltered post that you think could be a good fit for either of these, feel free to share it in #content.
