@@ -1,0 +1,66 @@
+---
+layout: default
+title: Free Trial of GitLab Ultimate
+description: "Sign up for your free trial of self-managed GitLab Ultimate which includes advanced CI/CD features, enterprise-grade support, and more."
+suppress_header: true
+extra_css:
+  - sales-and-free-trial-common.css
+  - form-to-resource.css
+destination_url: "https://tools.marketimpacttools.com/go/gitlab/toolchain/"
+form_id: "2208"
+form_type: "demandbase"
+cta_title: "Register for your free trial"
+cta_date:
+link_text: "Submission received!"
+success_message: "Check your email for your 30-day license key and download instructions."
+---
+.wrapper
+  .page-illustrated-header-container
+    .container
+      .header-container-content
+        .row
+          .col-xs-12.col-md-3.col-md-offset-1
+            = image_tag "/images/devops-tools/gitlab-logo.svg", class: "logo", alt: "Gitlab logo svg"
+          .col-md-6.col-md-offset-1{ :style => "margin-top: 35px;" }
+            %h1.page-headline
+              Try GitLab Ultimate free
+              %br
+              for 30 days
+            %h2.page-subtitle A single application for the entire DevOps lifecycle
+
+  .content-container
+    .wrapper.container{ role: "main" }
+      .row
+        .col-md-5.col-md-offset-1
+          .content-section
+            %h3 Start your free trial and get the most comprehensive DevOps experience available.
+            %p GitLab Ultimate brings together strategy, execution, security, and speed to help you bring big ideas to reality without compromising security.
+            %h3 With GitLab Ultimate you get:
+            %ul
+              %li Project and portfolio management
+              %li Extended authentication and authorization integration
+              %li Advanced continuous integration and delivery
+              %li Automated security testing
+              %li Support for High Availability and geo-redundancy
+              %li Enterprise-grade support SLA including 24/7 uptime support
+
+          .content-section
+            %h3 Or try our SaaS version
+            %p
+              If you prefer not to install and host GitLab yourself,
+              %a{ href: "https://about.gitlab.com/pricing/#gitlab-com" } SaaS options
+              are available using GitLab.com
+
+          .content-section
+            .flex-container.flex-column.testimonial
+              = image_tag "/images/case_study_logos/axway-logo.svg", class: "testimonial-logo", alt: "Gitlab axway case study logo svg"
+              %h3 "GitLab offered the most advanced feature set on the market."
+              %p
+                Eric Labourdette
+                %br
+                Head of Global R&D Engineering Services
+
+        .col-md-4.col-md-offset-1
+          = partial "includes/form-to-resource"
+
+= partial "/includes/home/customer-logos-transparent"
