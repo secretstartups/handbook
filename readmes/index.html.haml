@@ -1,0 +1,17 @@
+---
+layout: markdown_page
+title: "Engineering Readmes"
+---
+
+- pages = sitemap.resources.select { |resource| resource.path.start_with?("handbook/engineering/readmes/") }
+- pages = pages.reject{|page| page.data.job.nil?}
+
+= partial "handbook/engineering/readmes/toc.html.haml", locals: {pages: pages}
+
+%h2
+  Others
+%ul
+  %li
+    = link_to "Clement Ho (Frontend Engineering Manager)", "https://gitlab.com/ClemMakesApps/readme"
+  %li
+    = link_to "Matt Nohr (Backend Engineering Manager)", "https://gitlab.com/mnohr/readme"
