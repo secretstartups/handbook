@@ -1,0 +1,274 @@
+---
+layout: handbook-page-toc
+title: "Integrated Campaigns"
+description: "GitLab Marketing Handbook: Integrated Campaigns"
+twitter_image: '/images/tweets/handbook-marketing.png'
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .toc-list-icons .hidden-md .hidden-lg}
+
+## Integrated Campaigns
+
+The goal of GitLab integrated campaigns is to strategically land a cohesive message to a target audience across a variety of channels and offers dependent on the goals of the campaign. Content types include a combination of blog posts, webinars, whitepapers, reports, videos, case studies, and more. Channels include digital ads, social, paid social, SEO, PR, email, and more.
+
+**Marketing Program Managers** are responsible for the strategizing of integrated campaigns and organizing timelines and DRIs for deliverables to execute on the campaigns.
+
+In an effort to continually improve our ability to derive success of campaigns, reporting is a focus using Bizible data in Sisense. [Issue here for more information on progress](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/982)
+
+**Questions? Please feel free to ask in the [#marketing_programs slack channel](https://gitlab.slack.com/messages/CCWUCP4MS) or ask in the [#marketing slack channel](https://gitlab.slack.com/messages/C0AKZRSQ5) and tag @marketing-programs.**
+
+## Integrated Campaigns Calendar
+
+<image>
+<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=Z2l0bGFiLmNvbV82MnA4YWM1ZmVzZ2I2OGczcjFsbnNlZjNtNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23E4C441&amp;showTitle=0&amp;showPrint=0" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</image>
+
+*As a GitLab team member, you may also add this calendar as a toggle option in your GoogleCalendar by searching the name `Integrated Campaigns` in "other calendars" while in GoogleCal.*
+
+## In Progress and Future Campaigns
+**[See Epic for FY21 Integrated Camapigns >>](https://gitlab.com/groups/gitlab-com/marketing/-/epics/749)**
+* [GitOps Use Case](https://gitlab.com/groups/gitlab-com/marketing/-/epics/745)
+* [Version Control & Collaboration Use Case](https://gitlab.com/groups/gitlab-com/marketing/-/epics/742)
+* [Germany CI Localized](https://gitlab.com/groups/gitlab-com/marketing/-/epics/809)
+* [France CI Localized](https://gitlab.com/groups/gitlab-com/marketing/-/epics/752)
+
+## Active Integrated Campaigns
+
+### 🚀 CI Use Case
+
+**MPM Owner: Agnes Oetama**
+
+* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/741)
+* [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/873)
+* [Live landing page](https://about.gitlab.com/why/use-continuous-integration-to-build-and-test-faster/)
+* [Slack](https://gitlab.slack.com/archives/CVDQL20BA)
+* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001df8y)
+
+### 🚀 DevSecOps Use Case
+
+**MPM Owner: Megan Mitchell**
+
+* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/743)
+* [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/874)
+* [Live landing page](https://about.gitlab.com/why/shift-your-security-scanning-left/)
+* [Slack](https://gitlab.slack.com/archives/CV8GZ63GR)
+* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001df4w?srPos=0&srKp=701)
+
+### 🚀 Increase operational efficiencies
+
+**MPM Owner: Jenny Tiemann**
+
+* *Note: this was recently updated (Q1 FY21) with focus on cost-saving messaging*
+* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/367)
+* [Live landing page](/just-commit/lower-tco/)
+* [Slack](https://gitlab.slack.com/archives/CCWUCP4MS)
+* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000000CyiL)
+
+### 🚀 AWS Partner
+
+**MPM Owner: Nout Boctor-Smith**
+
+* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/624)
+* [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/638)
+* [Live landing page](https://about.gitlab.com/webcast/aws-gitlab-serverless/)
+* [Slack](https://gitlab.slack.com/archives/CRTE89C66)
+* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001loj0)
+
+### 🚀 Competitive campaign
+
+**MPM Owner: Agnes Oetama**
+
+* [Parent epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/10)
+* [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/85)
+* [Live landing page](/compare/single-application-ci/)
+* [SFDC Campaign >>](https://gitlab.my.salesforce.com/70161000000VxvJ)
+
+## Past Integrated Campaigns
+
+### 🌄 Deliver better products faster
+
+**MPM Owner: Zac Badgley**
+
+* *Note: this is being sunsetted Q2 FY21 and existing records in the nurture will move to the CI use case campaign nurture.*
+* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/363)
+* [Live landing page](/just-commit/reduce-cycle-time/)
+* [Campaign brief](https://docs.google.com/document/d/1dbEf1YVLPnSpFzSllRE6iNYB-ntjacENRMjUxCt8WFQ/edit)
+* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000000Cyhm?srPos=0&srKp=701)
+
+### 🌄 Reduce security and compliance risk
+
+**MPM Owner: Megan Mitchell**
+
+* *Note: this is being sunsetted Q2 FY21 and existing records in the nurture will move to the DevSecOps use case campaign nurture.*
+* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/368)
+* [Live landing page](/just-commit/secure-apps/)
+* [Campaign brief](https://docs.google.com/document/d/1NzFcUg-8c1eoZ1maHHQu9-ABFfQC65ptihx0Mlyd-64/edit)
+* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000000CyeJ)
+
+### 🌄 Operation OctoCat
+
+**MPM Owner: Jackie Gragnola**
+
+* *Note: this is being sunsetted Q2 FY21 and existing records in the nurture will move to the CI use case campaign nurture.*
+* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/439)
+* [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/445)
+* [MURAL of campaign user journey](https://app.mural.co/t/gitlab5736/m/gitlab5736/1584992460277/f66e45f8067dded0ae81d711aeb897c1547e2a80)
+* [Live landing page](/compare/github-actions-alternative/)
+* [Campaign brief](https://docs.google.com/document/d/1Mcy_0cwMsTPIxWUXPgoqw9ejsRJxaZBHi4NikYTabDY/edit#heading=h.kf9lglu57c0t)
+* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001lmdK)
+
+### 🌄 CI Build & Test Auto
+
+**MPM Owner: Agnes Oetama**
+
+* *Note: this is being sunsetted Q2 FY21 and existing records in the nurture will move to the CI use case campaign nurture.*
+* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/379)
+* [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/432)
+* [Live landing page](/compare/single-application-ci/)
+* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001lkp9)
+
+### 🌄 Just Commit
+
+* [Parent epic with child epics and issues >>](https://gitlab.com/groups/gitlab-com/marketing/-/epics/7)
+* [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/50)
+* [Former landing page (repurposed since close of the campaign)](/just-commit/)
+* [SFDC Campaign](https://gitlab.my.salesforce.com/70161000000VwZq)
+* [Meeting recordings >>](https://drive.google.com/drive/u/1/folders/147CtTEPz-fxa0m1bYxZUbOPBik-dkiYV)
+* [Meeting slide deck >>](https://docs.google.com/presentation/d/1i2OzO13v77ACYo1g-_l3zV4NQ_46GX1z7CNWFsbEPrA/edit#slide=id.g153a2ed090_0_63)
+
+## Campaign Planning
+
+**There will be an epic for every campaign - created by the Marketing Program Manager managing the campaign - and a content pillar will align to the campaign, including gated assets to be created, pages to be created/revamped, blog posts, etc.**
+
+* The campaign will have a clear launch date
+* The new resources and webpages will have a clear due date prior to the launch date or defined for a cascading roll-out of content post-launch
+* All action items will have DRIs and a timeline, working back from the launch date
+* The campaign will be determined at least 45 days prior to launch to allow for a proactive, not reactive, timeline
+
+Ideally, campaigns will be agreed at least a quarter in advance to allow for ample planning and execution, prep time with agencies, creative concepting, and communication internally. This is a collaborative effort to deliver a cohesive program.
+
+#### Overall Campaign Steps
+* **Campaign and launch date is determined by Marketing Leadership**
+* **Assign:** Marketing Progragm Manager (MPM) is assigned
+* **Assign:** Marketing team leaders assign DRIs from their teams
+* **Meeting:** MPM organizes campaign kickoff call with early-stage DRIs (MPM, DMP, PMM, TMM)
+* **Meeting:** MPM organizes campaign brief call with early-stage DRIs (MPM, DMP, PMM, TMM)
+* **Plan:** MPM creates project plan (GANTT chart) with timelines and DRIs
+* **Plan:** Marketing Program Manager creates the epic and related issues, including the due dates and DRIs from project plan
+* **Meeting:** MPM organizes the bi-weekly 30 minute check-in call to cover milestones met and determine any blockers/at-risk action items
+* **Async:** *DRIs are responsible for delivering by their due dates, with timeline adherence being critical due to dependencies for later tasks to be completed by other teams*
+* **Reporting:** MPM organizes reporting issue with clear DRI to include overall metrics and more detailed drill-in by channel (one month post-launch)
+* **Optimization:** MPM creates issues for optimizing the landing page, channels, etc. and assigning to relevant DRIs
+
+#### Integrated Campaign Meetings
+
+
+## MPM Epic Creation
+
+#### Overall Campaign Epic Creation
+
+***The Marketing Program Manager owner of the integrated campaign will create the epic with the following structure - details and links to be added up on creation of documents and timeline defined.***
+
+```
+## 🙌 Overview of _[Campaign Name]_ Integrated Campaign Epic
+
+This is the parent epic, organizing the epics to and issues for the **[camaign name]** integrated campaign, launch date `TBD`. The related issues will be included below (upon rollout of the campaign) with _DRIs, due dates, and labels_ assigned appropriately.
+
+_Please see related issues for details related to their respective purposes - this epic will be used for high level communication regarding the integrated campaign._
+
+### [Campaign Execution Timeline >>]() - Owned by MPM
+### [Campaign Brief >>]() `to be added once created`
+### [Live Campaign Page >>]() `to be added upon launch when live`
+### [Google Drive >>]() `to be added once created`
+
+## 🔗 UTM for tracking URLs
+* Overall utm_campaign - `tbd`, i.e. **`utm_campaign=`** [determine UTM with DMP]
+* More on [when](https://about.gitlab.com/handbook/marketing/marketing-sales-development/online-marketing/#url-tagging) and [how](https://docs.google.com/spreadsheets/d/12jm8q13e3-JNDbJ5-DBJbSAGprLamrilWIBka875gDI/edit#gid=0) to use UTMs
+
+## ⚡ Quick Links
+* [Marketo Program]()
+* [SFDC]()
+* [PathFactory Issue]()
+* [Design Issue]()
+* [Datastudio Dashboard]()
+
+## 👥 Target persona
+**[Target Persona & Positioning Matrix]()**
+* **Level:** [to be filled in after kickoff call]
+* **Function:** [to be filled in after kickoff call]
+
+## 📅 Key timeline dates
+* [ ] **[day of week] [ISO date]** - Campaign Brief Due
+* [ ] **[day of week] [ISO date]** - Persona/Positioning/Messaging Matrix Due
+* [ ] **[day of week] [ISO date]** - Content Journey Map Due
+* [ ] **[day of week] [ISO date]** - Imagery Concepting Final
+* [ ] **[day of week] [ISO date]** - Paid Ads Provided to Agency
+* [ ] **[day of week] [ISO date]** - Nurture + Pathfactory Live
+* [ ] **[day of week] [ISO date]** - Landing Page Live
+* [ ] **[day of week] [ISO date]** - Reporting V1
+
+/label ~"Marketing Programs" ~"Content Marketing" ~"Digital Marketing Programs" ~"Product Marketing" ~SDR ~"MPM Integrated" ~mktg-growtn ~tech-evangelism ~"MPM Priority" ~mktg-website ~design ~"Socil Media" ~"Strategic Marketing" ~"mktg-status::plan"
+```
+
+#### SDR Enablement Epic Creation
+
+***The Marketing Program Manager owner of the integrated campaign will create the SDR enablement epic with the following structure - details and links to be added up on creation of documents and timeline defined. Name of the epic should be `Operation OctoCat - SDR & Sales Enablement`***
+
+```
+# [See parent epic >>]()
+
+## Key Links
+* :white_check_mark: **[Live campaign page >>]()**
+* :memo: **[Campaign brief >>]()**
+* :busts_in_silhouette: **[Persona / positioning matrix >>]()
+* :video_camera: [SDR enablement training video]()  (WIP)
+
+## SDR follow up process
+
+### 🔔 About the inbound leads
+
+* **What did they do?** They filled out a form on the [campaign page]()
+* **What did they get from the form?** They will <watch our on-demand webcast OR view our eBook OR register for our live webcast OR etc.> "<Asset Name>" in a Pathfactory experience that provides like-minded <topic/use case> content.
+* **Are they MQLs?** If filling out the form makes them reach the 90 point threshold, they will MQL.
+* **What if they don't hit the threshold?** They will receive additional related assets via a [bi-weekly email nurture campaign in Marketo](link-to-nurture-issue). As they engage more, their score increases toward the 90 point threshold.
+
+### :information_desk_person: Great... so where do I see these leads in SFDC?
+
+In an effort to keep you focused on the prioritized lead and contact views, an **Interesting Moment** is triggered from Marketo.
+
+**Interesting Moment to Look For: `<Name> Campaign - downloaded <asset type> "<Asset Name>"`**
+
+#### Please prioritize lead AND contacts views per normal SLAs:
+*  [My P2 - MQL excl SaaS trials](https://gitlab.my.salesforce.com/00Q?fcf=00B4M000004oR0o)
+*  [My P4 - MQL - Trial SaaS](https://gitlab.my.salesforce.com/00Q?fcf=00B4M000004oR0o)
+*  [My P7 - Inquiry](https://gitlab.my.salesforce.com/00Q?fcf=00B4M000004oR0o)
+*  [My P8 - Stale MQLs or Nurture](https://gitlab.my.salesforce.com/00Q?fcf=00B4M000004Zcsp&rolodexIndex=-1&page=1) with new last interesting moment
+
+*If they are in salesadmin / raw status / legacy AE owned, managers will monitor these leads for re-routing.*
+
+### :large_blue_circle: MASTER|Inbound sequence for each region
+
+* [NORAM](add-link-to-outreach-noram)
+* [EMEA](add-link-to-outreach-noram)
+* [APAC](add-link-to-outreach-noram)
+
+**Note: These master sequences all have the same steps and copies, the only difference is the delivery schedules are aligned to each region's weekday business hours.* 
+
+/label ~"Marketing Programs" ~"Strategic Marketing" ~"SDR" ~"mktg-status::wip"
+```
+
+Note: The Marketing Team owns content on marketing pages; do not change content or design of these pages without consulting the #dmpteam slack channel. Marketing will request help from product/UX when we need it, and work with them to ensure the timeline is reasonable.
+
+
+## Sales Lead Funnel Cross-Over with All-Remote
+
+
+#### Diagram of sales lead funnel cross-over with all-remote
+
+Below is a V1 visual in Mural of the sales lead funnel (pre-opportunity) on the left and the all-remote funnel on the right. Discussion of how and when to "bridge the gap" between the funnels - potentially sharing GitLab audience-targeted offers within All-Remote communications - is included [in this issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2590).
+
+<div style="width: 600px;" class="embed-thumb"> <h1 style="position: relative;vertical-align: middle;display: inline-block; font-size: 24px; line-height:22px; color: #393939;margin-bottom: 10px; font-weight: 300;font-family: Proxima Nova, sans-serif;"> <img src="https://app.mural.co/avatar/jgragnola2053" style="position: absolute; border-radius: 50%; width: 36px;height: 36px;margin-right: 14px; display: inline-block; margin-top: -6px;margin-right: 10px; vertical-align: middle;"> <div style="padding-left:50px"> <span style="max-width:555px;display: inline-block;overflow: hidden; white-space: nowrap;text-overflow: ellipsis;line-height: 1; height: 25px; margin-top: -3px;">Lead Generation Funnel + All-Remote Breakout</span> <span style="position:relative;top:-3px;font-size: 16px; margin-top: -6px; line-height: 24px;color: #393939; font-weight: 300;"> by Jackie Gragnola</span> </div> </h1> <div style="position: relative; height: 0;overflow: hidden; height: 400px; max-width: 800px; min-width: 320px; border-width: 1px; border-style: solid; border-color: #d8d8d8;"> <div style="position: absolute;top: 0;left: 0;z-index: 10; width: 600px; height: 100%;background: url(https://murally.blob.core.windows.net/thumbnails/gitlab24743204/murals/gitlab24743204.1585283889844-5e7d833115ecf04b79301159.png?v=51ddc0c0-b456-443c-aa7c-92557e78efe9) no-repeat center center; background-size: cover;"> <div style="position: absolute;top: 0;left: 0;z-index: 20;width: 100%; height: 100%;background-color: white;-webkit-filter: opacity(.4);"> </div> <a href="https://app.mural.co/t/gitlab24743204/m/gitlab24743204/1585283889844/5837d15d7eed38c848745c9e63cef77eba194009" target="_blank" rel="noopener noreferrer" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; display: block; height: 50px; background: transparent;"> <img src="https://app.mural.co/static/images/btn-enter-mural.svg" alt="ENTER THE MURAL" width="233" height="50"> </a> </div> </div> <p style="margin-top: 10px;margin-bottom: 60px;line-height: 24px; font-size: 16px;font-family: Proxima Nova, sans-serif;font-weight: 400; color: #888888;"> You will be able to edit this mural. </p></div>
