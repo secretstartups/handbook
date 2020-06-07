@@ -1,0 +1,54 @@
+---
+layout: handbook-page-toc
+title: "Frontend Secure Team"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Mission
+
+The Secure team works on the frontend part of GitLab for the [Secure stage].
+
+For more details about the vision for this area of the product, see the [Secure
+stage] page.
+
+[Secure stage]: /stages-devops-lifecycle/secure/
+
+### Team members
+
+<%= direct_team(role_regexp: /[,&] Secure/, manager_role: 'Frontend Engineering Manager, Secure') %>
+
+### Stable counterparts
+
+<%= stable_counterparts(role_regexp: /[,&] Secure/, direct_manager_role: 'Frontend Engineering Manager, Secure') %>
+
+### Issue workflow
+
+In addition to the
+[workflows](../../development/secure#technical-onboarding) defined for
+the Secure stage, Secure frontend engineers should refer to this checklist
+often when assigned to, and working on, an issue:
+
+* Is this issue ready for implementation?
+    * Is it `~UX ready`, with designs available for important UI states?
+    * Is the backend API available, or specified?
+* Is there a reason *not* to use a feature flag?
+* Is it the [Minimal Viable Change](../../../values#minimal-viable-change-mvc)?
+* Can it be split into smaller issues, and/or into multiple merge requests?
+
+Not all of these checks will apply to every issue. For trivial issues, perhaps
+none of them will! What's important is that you *consider* and aim to satisfy
+them, when relevant, by asking for more information or help from team members.
+
+## Useful links
+
+* [Secure frontend board] - this shows work by assignees
+* [#g_secure] in Slack
+
+[Secure frontend board]: https://gitlab.com/groups/gitlab-org/-/boards/815243
+
+[#g_secure]: https://gitlab.slack.com/archives/g_secure
