@@ -33,6 +33,7 @@ _The sections below also link to these templates, but they're provided here for 
 
 - [Monthly **release post** MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md)
 - [Monthly **release post item** MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md)
+- [Monthly **release post bug and performance improvement** MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-PerformanceImprovement-Block.md)
 - [Monthly release **content block** templates](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/release_posts/unreleased/samples)
 - [Patch release template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/patch_release_blog_template.html.md.erb)
 - [Security release template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/security_release_blog_template.html.md)
@@ -185,7 +186,7 @@ Create two merge requests that simply contain the sample templates for these con
 _**Note:** The Release Post Manager is not responsible for creating any content here, but only creating the MRs and adding the initial template so that there's a single place for others to add their own content._
 
 1. For each bug and performance MR, create a new branch from master and open a merge request targeted at the master branch.
-1. Name the MRs `release-X-Y-bugs` and `release-X-Y-performance` and use the [`Release-Post-Recurring-Block template`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Recurring-Block.md)
+1. Name the MRs `WIP: release-X-Y-bugs` and `WIP: release-X-Y-performance` and use the [`Release-Post-Bug-PerformanceImprovement-Block template`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-PerformanceImprovement-Block.md)
 1. Set the titles to match the content, such as `WIP: Release post - GitLab X.Y - Bugs`
 1. Use the file templates under [`data/release_posts/unreleased/samples`](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/release_posts/unreleased/samples), named [`bugs.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/bugs.yml) and [`performance_improvements.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/performance_improvements.yml)
 1. Create a copy of the template in `data/release_posts/unreleased`
