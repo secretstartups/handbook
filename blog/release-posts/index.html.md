@@ -304,6 +304,16 @@ For more guidance about what to include in the release post please reference the
 
 When writing your content blocks, be sure to reference [Writing release blog posts](https://about.gitlab.com/handbook/product/communication/#writing-release-blog-posts) and [Writing about features](https://about.gitlab.com/handbook/product/communication/#writing-about-features) to ensure your release post item writeups align with how GitLab communicates. This will also ensure a smoother and more speedy review process for your release post items.
 
+#### Primary vs Secondary
+
+When creating your content for a Release Post item you'll need to determine if it's a `Primary` or `Secondary` feature. Do this in collaboartion with your PMM counterpart and reference this guidance if you're unsure:
+
+A feature should be `Primary` if the feature...
+* Matures a category (post release you'd update the `category maturity` for the category your feature lives within)
+* Is **new**, or a significant improvement - it adds key functionality that did not exist previously or significantly changes existing functionality
+* Has high demand from customers or the wider community (measured by discussion or upvotes on an epic/issue)
+* Feature ties into a current Marketing narrative or campaign 
+
 #### Reviews
 
 PM Director/Group Manager  and PMM reviews are highly recommended, but the Tech Writer review is the only one required for inclusion in the Release Post. The Tech Writing review should be focused on looking for typos, grammar errors, and helping with style. PMs are responsible for coordinating any significant content/tech changes. Communicating priority about which release post items are most important for review will help Product Section leads, PMMs, and Tech Writers review the right items by the 10th of each month, so ensure the proper labels ares applied to the MR and assign reviewers to the MR when it is ready for them to review (ex: `Tech Writing`, `Direction`, `Deliverable`, etc).
