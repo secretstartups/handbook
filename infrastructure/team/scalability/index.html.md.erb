@@ -79,7 +79,6 @@ Simply put:
 1. Start with an issue in the Scalability team tracker: [Create an issue](https://gitlab.com/gitlab-com/gl-infra/scalability/issues/new).
 1. You are welcome to follow this up with a Slack message in [#g_scalability](https://gitlab.slack.com/archives/g_scalability).
 1. Please don't add any `workflow` labels to the issue. The team will triage the issue and apply these.
-1. We use our [Workflow board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1290868) to track the workflow of issues.
 
 ## How does the Scalability Team engage with Stage Groups?
 
@@ -208,7 +207,7 @@ to add labels, and creating weekly triage issues.
 
 We currently have two weekly triage issues:
 
-1. Board refinement - walk through the current project board and move
+1. Board refinement - walk through the [Planning Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1697168) and move
    issues forward towards `workflow-infra::Ready` where possible.
 2. `Service::Unknown` refinement - lists issues with `Service::Unknown`
    with the goal of adding a defined service, where possible.
@@ -217,28 +216,16 @@ We rotate the triage ownership each month, with the current triage owner
 responsible for picking the next one (a reminder is added to their last
 triage issue).
 
-### Issues
-
-Issue is being implemented if:
-
-1. Issue has a team member assigned to it.
-1. Assigned issue has a priority label set.
-1. Issue has "~workflow-infra::In Progress" set.
-
-Issue is resolved when:
-
-1. The problem defined in the issue has been addressed.
-1. Issue description is updated with a graph comparing before/after state (if applicable).
-1. Issue has "~workflow-infra::Done" set.
-
 ### Issue boards
 
 The Scalability team [issue boards](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/) track
 the progress of ongoing work. Purpose of some of the more important issue boards
 are described below:
 
-1. [Workflow board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1290868)
-  - Tracks the whole team ongoing workload.
+1. [Planning Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1697168)
+  - Shows all work in Triage or Proposal that are the current focus for the team.
+1. [Build Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1697160)
+  - Work that is ready to be built, or actively in development.
 1. [Abandoned work board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1428754)
   - Tracks the work that is not progressing.
 1. Individual services board, for example [Sidekiq board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1428695)
@@ -307,7 +294,13 @@ The Scalability team uses priority labels as a means to indicate order under whi
 We work from our main epic: [Scaling GitLab on GitLab.com](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/148).
 
 Most of our work happens on the current in-progress sub epic. This is always prominently visible from the main
-epic's description. From there, work takes place on the board associated to the current in-progress epic.
+epic's description.
 
-Priority labels take precedence; we don't use issue ordering in boards or epics for priorities.
-Workflow labels to the right are higher priority than those to the left.
+When choosing something new to work on you can either:
+- Go to the [Build Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1697160) and pick from the `Ready` column
+according to the priority labels.
+
+or
+
+- Go to the [Planning Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1697168) and try to advance issues
+to the next appropriate column according to the priority labels.
