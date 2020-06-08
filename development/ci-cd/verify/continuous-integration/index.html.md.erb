@@ -21,6 +21,17 @@ Continuous Integration.
 
 This team maps to [Verify](/handbook/product/categories/#verify-stage) devops stage.
 
+### Core domain
+
+- Pipeline configuration: YAML syntax, linter and configuration parser.
+- Pipeline creation: process of building and persisting a pipeline including multi-project
+  or child pipelines.
+- Pipeline processing: processes responsible for transitions of pipelines, stages and jobs.
+- Rails-Runner communication: jobs queuing, API endpoints and their underlying functionalities related
+  to operations performed by and for Runners.
+- Job artifacts: storage and management of artifacts is the gateway for many CI/CD features.
+
+
 ## Team Members
 
 The following people are permanent members of the Verify:Continuous Integration group:
@@ -91,6 +102,13 @@ The following are definitions of the health status options:
 - On Track - The issue has no current blockers, and is on schedule to be completed in the current milestone.
 - Needs Attention - The issue is still likely to be completed in the current milestone, but there are setbacks or time constraints that could cause the issue to miss the deadline.
 - At Risk - The issue has a high likelyhood of missing the current milestone deadline.
+
+
+#### Labels
+
+| Label                 | Description |
+| ----------------------| ------------|
+| [`CI/CD core platform`]((https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=CI%2FCD+Core+Platform)) | Any issues and merge requests related to [CI/CD core domain](#core-domain), either as changes to be made or as observable side effects. |
 
 
 ### Technical debt
