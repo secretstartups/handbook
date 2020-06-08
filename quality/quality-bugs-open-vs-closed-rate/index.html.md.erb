@@ -1,0 +1,24 @@
+---
+layout: handbook-page-toc
+title: "Quality Bug Open vs Closed rate"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Quality Bug Open vs Closed rate
+
+These charts show the net amount of `bug` issues that are open and closed within the same month that are `S1` and `S2`
+
+### All stages
+
+<embed width="100%" height="500" src="<%= signed_periscope_url(bugs_open_vs_closed_rate_params) %>">
+
+<% data.stages.stages.each do |stage_name, _| %>
+<%= "### #{stage_name.titleize}" %>
+
+<embed width="100%" height="500" src="<%= signed_periscope_url(bugs_open_vs_closed_rate_params(stage: stage_name)) %>">
+<% end %>
