@@ -67,14 +67,28 @@ For example:
 
 This will help in two ways.  First, when looking at lists of milestones, they can be sorted and put the related milestones together.   Second, in issues, when adding a milestone, you can search by name, which will make it easy to find the right subset of milestones (either for the project or group)
 
-### Milestone Dates & Duration - It depends, though shorter is often better
-
-Because the milestone has dates for start and finish, the implication is that issues and MRs in the milestone are completed in this time window.  If the milestone window is 3 weeks, then the expectation is that the work in the milestone is completed in that time frame.
-
-Every team and every project is unique and there is no ONE answer for milestone duration.  Some teams have had milestones as long as a quarter, others 4 weeks and others 1 week.  Choose the duration that works for your team, learn, and evolve.
-
 ### Milestone Description - Include milestone history and who owns
 
 Because the milestone does not yet include change history or details about who created it or why, we should use the description field to fill in the blanks.
 
 - In the description field describe the purpose of the milestone and who is milestone owner/manager
+
+### Release Milestones
+
+- **Use for**: larger units of work (in scope and duration) that resemble a release. E.g. an executive topic or campaign
+- **Implement with**: milestones
+- **Time and duration**: variable
+- **Naming convention**: `teamprefix_MilestoneName`
+- **Planning**: via workflow and iteration issue boards
+
+Recommended dates and duration: it depends, though shorter is often better. Because the milestone has dates for start and finish, the implication is that issues and MRs in the milestone are completed in this time window.  If the milestone window is 3 weeks, then the expectation is that the work in the milestone is completed in that time frame.
+
+Every team and every project is unique and there is no ONE answer for milestone duration.  Some teams have had milestones as long as a quarter, others 4 weeks and others 1 week.  Choose the duration that works for your team, learn, and evolve.
+
+### Iteration Milestones
+
+- **Use for**: agile or agile-like sprints
+- **Implement with**: milestones at present, iterations in the future. [Iterations are scheduled to land for the GitLab 13.1 release](https://gitlab.com/groups/gitlab-org/-/epics/2422).
+- **Time and duration**: 2 weeks, starting on Mondays
+- **Naming convention**: `teamprefix_StartDate - EndDate`
+- **Planning**: via workflow and iteration issue boards
