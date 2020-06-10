@@ -2,8 +2,12 @@
 - grouped_assignments.each do |description, assignments|
   - if description.present?
     %h5{ id: [*id, description] }
-      = "#{description.capitalize} (#{assignments.count})"
+      - group_header = "#{description.capitalize} (#{assignments.count})"
 
+      - if show_maintainers_link?(id, description)
+        = link_to group_header, maintainer_url(description)
+      - else
+        = group_header
   %ul
     - assignments.each do |assignment|
       %li
