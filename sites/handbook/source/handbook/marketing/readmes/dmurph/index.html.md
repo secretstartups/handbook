@@ -39,7 +39,7 @@ I work at the intersection of culture, operations, people, talent branding, mark
 * TechCrunch — [GitLab's Head of Remote on hiring, onboarding, and why Slack is a no-work zone](https://techcrunch.com/2020/05/19/gitlabs-head-of-remote-on-hiring-onboarding-and-why-they-dont-do-work-stuff-on-slack/)
 * TechCrunch — [What people tend to get wrong about remote work](https://techcrunch.com/2020/05/20/what-people-tend-to-get-wrong-about-remote-work/)
 * Unito — [GitLab’s Darren Murph on Building Remote Company Culture](https://unito.io/blog/remote-company-culture-darren-murph-gitlab/)
-* HR Exchange Network — Challenges and Opportunities in the Remote Workplace](https://www.hrexchangenetwork.com/hr-talent-management/columns/challenges-and-opportunities-in-the-remote-workplace)
+* HR Exchange Network — [Challenges and Opportunities in the Remote Workplace](https://www.hrexchangenetwork.com/hr-talent-management/columns/challenges-and-opportunities-in-the-remote-workplace)
 * Business Insider — [Read the exact onboarding guide GitLab uses to manage its fully remote, 1,200-person staff and ensure new hires thrive from day one](https://www.businessinsider.com/how-gitlab-largest-fully-remote-company-onboards-new-employees-guide)
 * Carta blog — [A Q&A with GitLab’s head of remote](https://carta.com/blog/gitlab-interview-covid-19-remote-landscape/)
 * Customer Centric Podcast — [Darren Murph: home is where the office is](https://customercentric.unbabel.com/podcast/darren-murph-gitlab)
