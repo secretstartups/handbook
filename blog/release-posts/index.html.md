@@ -340,9 +340,9 @@ Engineering Managers are the DRIs for merging these MRs when the feature is merg
 
 To enable Engineering Managers to merge their feature blocks as soon as an issue has closed, please ensure all scheduled items you want to include in the release post have content blocks MRs created for them and have the `Ready` label applied when content contribution and reviews are completed.
 
-#### Merging Content Block MRs
+#### Reviwing, editing and updating merged content blocks
 
-Content block MRs should be viewed on the [Preview page](https://about.gitlab.com/releases/gitlab-com/) and updated/edited via MRs to master up until the final merge deadline of the 17th. Starting on the 18th, content block MRs should be viewed in the Review app of the release post branch and updated/edited on the release post branch by coordinating with the Release Post Manager. 
+After content block MRs are merged, they can be viewed on the [Preview page](https://about.gitlab.com/releases/gitlab-com/) and should be updated/edited via MRs to master up until the **final merge deadline of the 17th**. Starting on the 18th, content block MRs should be viewed in the Review app of the release post branch after **final content assembly**, and updated/edited on the release post branch by coordinating with the Release Post Manager. 
 
 #### Accountability
 
