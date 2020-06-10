@@ -228,7 +228,7 @@ The release post manager, the Messaging lead and the TW lead will need to commun
 
 #### Content reviews
 
-The due dates for various reviews across all participants can be found on the release post MR and release post item MR templates (#templates). PM contributors are encouraged to cease attempts to add new content blocks after the final merge deadline of the 17th, and especially after final content assempbly happens at 8 AM PST (3 PM UTC). But if if highly  impactful features are released it is up to the discretion of the Release Post Manager to work with the PM and Messaging lead to add more content blocks up until the 21st. 
+The due dates for various reviews across all participants can be found on the release post MR and release post item MR templates (#templates). PM contributors are encouraged to cease attempts to add new content blocks after the final merge deadline of the 17th, and especially after final content assempbly happens at 8 AM PST (3 PM UTC). But if highly  impactful features are released it is up to the discretion of the Release Post Manager to work with the PM and Messaging lead to add more content blocks up until the 21st. 
 
 Keeping an eye on the various content reviews  (TW, PMM and Director) for the individual release post items (content block MRs) is the responsiblity of PM contributor. However, it is recommended that the Release Post Manager keep an eye on how many items are not yet marked with the Ready label on the 10th of the month or not yet merged on the 16th of the month, and check in with PMs  in Slack Release Post channel to support and clear hurdles if needed. A really easy way to do this is to keep your eyes on the [Preview page](https://about.gitlab.com/releases/gitlab-com/) and copy edit and link check items as new items appear.
 
@@ -264,7 +264,7 @@ drafting the release post item, it is recommended PMs write Release Post Item MR
 - PM  Group Manager or PM Director
 - **11th to 16th of the month - Reviewed**: reviewed by all required stakeholders, content revised as needed and ready to be merged
 - **17th of the month - Merged**: release post item MR merged by the Engineering Manager if feature has been merged
-- **18th of the month - final content assembly and release post blog content lock in preparton for final reviews/editing
+- **18th of the month - Final content assembly**: and release post blog content lock in preparation for final reviews/editing
 
 ##### Instructions
 
