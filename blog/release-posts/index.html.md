@@ -228,9 +228,9 @@ The release post manager, the Messaging lead and the TW lead will need to commun
 
 #### Content reviews
 
-The due dates for various reviews across all participants can be found on the release post MR and release post item MR templates (#templates)
+The due dates for various reviews across all participants can be found on the release post MR and release post item MR templates (#templates). PM contributors are encouraged to cease attempts to add new content blocks after the final merge deadline of the 17th, and especially after final content assempbly happens at 8 AM PST (3 PM UTC). But if if highly  impactful features are released it is up to the discretion of the Release Post Manager to work with the PM and Messaging lead to add more content blocks up until the 21st. 
 
-Keeping an eye on the various content reviews  (TW, PMM and Director) for the individual release post items (content block MRs) is the responsiblity of PM contributor. However, it is recommended that the Release Post Manager keep an eye on how many items are not yet marked with the Ready label on the 10th of the month or not yet merged on the 16th of the month, and check in with PMs  in Slack Release Post channel to support and clear hurdles if needed.
+Keeping an eye on the various content reviews  (TW, PMM and Director) for the individual release post items (content block MRs) is the responsiblity of PM contributor. However, it is recommended that the Release Post Manager keep an eye on how many items are not yet marked with the Ready label on the 10th of the month or not yet merged on the 16th of the month, and check in with PMs  in Slack Release Post channel to support and clear hurdles if needed. A really easy way to do this is to keep your eyes on the [Preview page](https://about.gitlab.com/releases/gitlab-com/) and copy edit and link check items as new items appear.
 
 The content review of the Performance Improvments and Bug Fixes MRs are the responsiblity of the Release Post Manager and the TW Lead.
 
@@ -263,7 +263,8 @@ drafting the release post item, it is recommended PMs write Release Post Item MR
 - **10th of the month - Drafted**: ready for review by Product Marketing, Tech Writer, and
 - PM  Group Manager or PM Director
 - **11th to 16th of the month - Reviewed**: reviewed by all required stakeholders, content revised as needed and ready to be merged
-- **17th of the month - Merged**: merged for assembly by the Release Post Manager
+- **17th of the month - Merged**: release post item MR merged by the Engineering Manager if feature has been merged
+- **18th of the month - final content assembly and release post blog content lock in preparton for final reviews/editing
 
 ##### Instructions
 
@@ -305,6 +306,8 @@ For more guidance about what to include in the release post please reference the
 
 When writing your content blocks, be sure to reference [Writing release blog posts](https://about.gitlab.com/handbook/product/communication/#writing-release-blog-posts) and [Writing about features](https://about.gitlab.com/handbook/product/communication/#writing-about-features) to ensure your release post item writeups align with how GitLab communicates. This will also ensure a smoother and more speedy review process for your release post items.
 
+PM contributors are encouraged to use disreation if wanting to add new content blocks after the final merge deadline of the 17th, and especially after final content assempbly happens at 8 AM PST (3 PM UTC). But if if highly  impactful features are released that can not wait till the next blog post, PMs shoudl reach out and coordinate with the Release Post Manager. It is up to the discretion of the Release Post Manager to work with the PM and Messaging lead to add more content blocks up until the 21st.
+
 #### Primary vs Secondary
 
 When creating your content for a Release Post item you'll need to determine if it's a `Primary` or `Secondary` feature. Do this in collaboartion with your PMM counterpart and reference this guidance if you're unsure:
@@ -336,6 +339,10 @@ If the answer to any of these is "yes", it is recommended that you coordinate wi
 Engineering Managers are the DRIs for merging these MRs when the feature is merged in to the codebase itself. This allows all of the relevant parties (Product Managers, PMMs, Section Leads, Technical Writers) to have enough time to review the content without having to scramble or hold up engineering from releasing a feature.
 
 To enable Engineering Managers to merge their feature blocks as soon as an issue has closed, please ensure all scheduled items you want to include in the release post have content blocks MRs created for them and have the `Ready` label applied when content contribution and reviews are completed.
+
+#### Merging Content Block MRs
+
+Content block MRs should be viewed on the [Preview page](https://about.gitlab.com/releases/gitlab-com/) and updated/edited via MRs to master up until the final merge deadline of the 17th. Starting on the 18th, content block MRs should be viewed in the Review app of the release post branch and updated/edited on the release post branch by coordinating with the Release Post Manager. 
 
 #### Accountability
 
