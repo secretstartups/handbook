@@ -41,6 +41,7 @@ I work at the intersection of culture, operations, people, talent branding, mark
 * Unito — [GitLab’s Darren Murph on Building Remote Company Culture](https://unito.io/blog/remote-company-culture-darren-murph-gitlab/)
 * [Challenges and Opportunities in the Remote Workplace](https://www.hrexchangenetwork.com/hr-talent-management/columns/challenges-and-opportunities-in-the-remote-workplace)
 * Business Insider — [Read the exact onboarding guide GitLab uses to manage its fully remote, 1,200-person staff and ensure new hires thrive from day one](https://www.businessinsider.com/how-gitlab-largest-fully-remote-company-onboards-new-employees-guide)
+* Carta — [A Q&A with GitLab’s head of remote](https://carta.com/blog/gitlab-interview-covid-19-remote-landscape/)
 * Customer Centric Podcast — [Darren Murph: home is where the office is](https://customercentric.unbabel.com/podcast/darren-murph-gitlab)
 * Changelog Podcast — [Creating GitLab’s remote playbook](https://changelog.com/podcast/397)
 * Bright & Early Podcast — [Darren Murph: Remote Work at GitLab](https://www.brightandearlypodcast.com/33)
