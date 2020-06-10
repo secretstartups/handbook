@@ -414,6 +414,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
     * Update the description (if any)
     * Update `Budgeted Cost`
     * Update `Region` and `Sub-region`, if these are local or targeted to a specific region
+    * Update budget holder
     * Click "Save"
 
 #### Steps to Setup Content Syndication in Marketo and SFDC
