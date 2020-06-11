@@ -185,13 +185,11 @@ Create two merge requests that simply contain the sample templates for these con
 
 _**Note:** The Release Post Manager is not responsible for creating any content here, but only creating the MRs and adding the initial template so that there's a single place for others to add their own content._
 
-1. For each bug and performance MR, create a new branch from master and open a merge request targeted at the master branch.
-1. Name the MRs `WIP: release-X-Y-bugs` and `WIP: release-X-Y-performance` and use the [`Release-Post-Bug-PerformanceImprovement-Block template`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-PerformanceImprovement-Block.md)
-1. Set the titles to match the content, such as `WIP: Release post - GitLab X.Y - Bugs`
-1. Use the file templates under [`data/release_posts/unreleased/samples`](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/release_posts/unreleased/samples), named [`bugs.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/bugs.yml) and [`performance_improvements.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/performance_improvements.yml)
-1. Create a copy of the template in `data/release_posts/unreleased`
+1. For each bug and performance MR, create a new branch from master. Name the branches `release-X-Y-bugs` and `release-X-Y-performance-improvements`
+1. Open a merge requests targeted at the master branch. Name the MRs `WIP: release-X-Y-bugs` and `WIP: release-X-Y-performance-improvements` and use the [`Release-Post-Bug-PerformanceImprovement-Block template`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-PerformanceImprovement-Block.md)
 1. Assign appropriate milestone and labels: `release post` `release post item` `Technical Writing`
-1. Confirm that "Remove source branch when merge request is accepted" is selected.
+1. Confirm that "Delete source branch when merge request is accepted" is selected.
+1. Add [`bugs.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/bugs.yml) and [`performance_improvements.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/performance_improvements.yml) to the corresponding `release-X-Y-bugs` and `release-X-Y-performance-improvements` branches to `data/release_posts/13_1`
 
 #### Merge individual items in to your branch
 
