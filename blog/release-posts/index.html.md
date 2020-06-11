@@ -1,4 +1,4 @@
----
+ --
 layout: handbook-page-toc
 title: "GitLab Release Posts"
 description: "Guidelines to create and update release posts"
@@ -314,7 +314,7 @@ A feature should be `Primary` if the feature...
 * Matures a category (post release you'd update the `category maturity` for the category your feature lives within)
 * Is **new**, or a significant improvement - it adds key functionality that did not exist previously or significantly changes existing functionality
 * Has high demand from customers or the wider community (measured by discussion or upvotes on an epic/issue)
-* Feature ties into a current Marketing narrative or campaign 
+* Feature ties into a current Marketing narrative or campaign
 
 #### Reviews
 
@@ -402,12 +402,12 @@ Always link to the [EE version of GitLab docs](https://docs.gitlab.com/ee/) in t
 
 It's the PMs discretion on which bugs or performance improvements to include in a release post. When evaluating what to include consider the following factors:
 
-- Amount of impacted users - if the bug you're fixing impacts many users consider adding it to the release post. Not all high volume bugs are worth calling out, be sure to consider severity as well. 
-- Severity - if the bug is severe (even if it impacts fewer users) consider including it. A performance improvement is a good example, it could be on a feature that sees less use but if you're able to make a significant improvemnt it's worth calling out. 
-- Any data-loss or security related bug - you've likely already pushed a fix with relevant content in a patch release. If not, be sure to include those types of issues. 
-- Bugs with high demand - demand beying interest from customers (in the form of upvotes, discussions on issues) or the wider community. 
+- Amount of impacted users - if the bug you're fixing impacts many users consider adding it to the release post. Not all high volume bugs are worth calling out, be sure to consider severity as well.
+- Severity - if the bug is severe (even if it impacts fewer users) consider including it. A performance improvement is a good example, it could be on a feature that sees less use but if you're able to make a significant improvemnt it's worth calling out.
+- Any data-loss or security related bug - you've likely already pushed a fix with relevant content in a patch release. If not, be sure to include those types of issues.
+- Bugs with high demand - demand beying interest from customers (in the form of upvotes, discussions on issues) or the wider community.
 
-It's also recommended you collaborate with your EM in deciding what to include. 
+It's also recommended you collaborate with your EM in deciding what to include.
 
 ### Messaging lead
 
@@ -499,7 +499,7 @@ Content blocks are listed in the post in alphabetical order, so to order the con
 
 ##### Marketing coordination
 
-- The Messaging Lead should coordinate additional marketing efforts that take place on release day, which may include a press release, social media, campaigns, or additional web pages that need to go live. It is recommended that the press release not include a link to the release post so we aren't constrained by any potential delays of the release post. PR sets embargo times with the media in advance that are hard to move the time around should there be any delays with the MR.   
+- The Messaging Lead should coordinate additional marketing efforts that take place on release day, which may include a press release, social media, campaigns, or additional web pages that need to go live. It is recommended that the press release not include a link to the release post so we aren't constrained by any potential delays of the release post. PR sets embargo times with the media in advance that are hard to move the time around should there be any delays with the MR.
 - The Messaging Lead should be online and on call to receive slack messages from 1300 UTC through 1500 UTC (or until the release post ships).
 - The Messaging Lead must be informed by the Release Post Manager if the release gets delayed so that they can coordinate timing with the press or any other team involved in the given release.
 - **Social Media specific coordination**
@@ -1100,6 +1100,8 @@ The due date is defined by the removal of that feature. The field is required, a
 
 If the deprecation is scheduled for an upcoming release, the content should remain in the release post until it has been completed. For example, if a deprecation is announced in the 12.9 release post and scheduled to be completed in 13.0, the same content would be included in release posts 12.9, 12.10, and 13.0.
 
+Please set up one deprecation per MR.
+
 ```yaml
 deprecations:
   - feature_name: Lorem ipsum dolor
@@ -1110,7 +1112,7 @@ deprecations:
       Veritatis, quisquam.
 ```
 
-For multiple deprecations, use multiple feature deprecation blocks:
+If you need to set up multiple deprecations, notify the [Release Post Manager](#release-post-manager) use multiple feature deprecation blocks:
 
 ```yaml
 deprecations:
@@ -1148,6 +1150,8 @@ The `date_of_removal`due date is defined by the removal of that feature. The fie
 
 - The date of the removal, e.g., "May 22nd, 2017"
 
+Please set up one removal per MR.
+
 ```yaml
 removals:
   - feature_name: Lorem ipsum dolor
@@ -1158,10 +1162,10 @@ removals:
       Veritatis, quisquam.
 ```
 
-For multiple deprecations, use multiple feature deprecation blocks:
+If you need to set up multiple removals, notify the [Release Post Manager](#release-post-manager) and make use of multiple feature removal blocks in a single file:
 
 ```yaml
-deprecations:
+removals:
   - feature_name: Lorem ipsum dolor
     date_of_removal: May 22nd, 2017 # example
     description: |  # example (supports markdown)
