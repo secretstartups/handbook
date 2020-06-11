@@ -191,8 +191,8 @@ There are a number of labels applied at any time to both issues and merge reques
 
 * `planning priority` - This label is rarely used, but we consider it to be a promise to a customer. Issues with this label will supersede all other work even those planned issues. The use of this label is usually held in reserve for issues of the utmost importance.
 * `P1` / `S1` - From the perspective of bugs, a `P1` / `S1` has the [highest priority](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority) and a short SLO. Issues with this label will supersede all other work even planned issues.
-* `Deliverable` - Issues with this label are agreed between team EM and the PM to have the highest overall normal priority and could be delivered in the given milestone. Deliverable issues not closed in a given milestone are auto forwarded via milestone cleanup workflow.
-* `Release::P1` - Similar to and often paired with `Deliverable`. This is the highest priority from the perspective of the sub-department. We start with these issues first.
+* `Deliverable` - Issues with this label are agreed between team EM and the PM to have the highest overall normal priority and could be delivered in the given milestone. Deliverable issues not closed in a given milestone are auto forwarded via milestone cleanup workflow. Deliverable issues are often paired with `Release::P1` issues.
+* `Release::P1` - Similar to and often paired with `Deliverable`. This is the highest priority from the perspective of the sub-department. Assuming there are no `planning priority` and `P1/S1` issues, we start with these issues first, and we focus on these over lower priority issues as much as possible.
 * `Community contribution` - The main label for the Contributor Program. We should support the contributor community by triaging and coaching issues in our area with this label. We prioritize this effort between Deliverables and lower priority issues.
 * `Release::P2` - This is the second highest priority from the perspective of the sub-department.
 * `Release::P3` - This is the third highest priority from the perspective of the sub-department.
@@ -211,7 +211,7 @@ We have established a Work in Progress limit (WIP) of 7 given that we currently 
 
 Historically, our average MRs per month (not milestone) has been about 27 MRs. (see this [periscope chart](https://app.periscopedata.com/app/gitlab/556687/CI-CD-Section-Metrics?widget=8427818&udv=0))
 
-With the knowledge that [things take longer than you think](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html), we will devote about 30% of our estimated capacity for a given milestone to `Release::P1` / `Deliverable` issues. The rest of the milestone capacity is taken with "pulling issues from the right" of the workflow followed by peer reviews, maintainer reviews, community contributions, lower priority items, bugs, issue estimations, and fixing stuff that should just work. The EM and PM will evaluate this capacity allocation for ~Deliverable issues during milestone planning and this may adjust overtime.
+With the knowledge that [things take longer than you think](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html), we will devote about 30% of our estimated capacity for a given milestone to `Release::P1` / `Deliverable` issues. The rest of the milestone capacity is taken with "pulling issues from the right" of the workflow followed by peer reviews, maintainer reviews, community contributions, lower priority items, bugs, issue estimations, and fixing stuff that should just work. The EM and PM will evaluate this capacity allocation for Deliverable issues during milestone planning and this may adjust overtime.
 
 ### Engineering Evaluation & Estimation
 
