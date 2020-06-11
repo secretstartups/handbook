@@ -53,7 +53,7 @@ At a high level, the process is:
 | by the 16th | **PMMs, TWs, and PM Directors** review individual release post items MRs <br><br>**EMs and PMs** contribute to MRs for Performance Improvements and Bug Fixes
 | by the 17th | **EMs** merge those MRs in to master as the features they represent are merged in to the GitLab codebase.<br><br>**Release Post Manager** merges recurring content blocks for performance improvements and bug fixes. Any MRs added after the 17th should be submitted against the Release Post branch, not Master.
 | by the 18th | The **Release Post Manager** aggregates all the content blocks by updating their branch from the `master` branch, then moving all the "unreleased" items in to the release post branch for **final content assembly**.<br><br>The **Release Post Manager** adds the  MVP for the release and selects a cover image<br><br>The **Messaging lead** picks a top features and/or themes to highlight and finalizes the introduction content |
-| 18th - 20th | The **Release post manager, Messaging Lead, and TW Lead** perform final reviews/revisions to ensure everything is ready to publish |
+| 18th - 20th | The **Release post manager, Messaging Lead, and TW Lead** perform final reviews/revisions to ensure everything is ready to publish. <br><br>Any changes after 8 AM PT (3 PM UTC) on the 18th will be done via the `release-X-Y` branch, not `master` branch,  and is subject to approval by the **Release post manager**.  |
 | 22nd of Month | The **Release post manager**, publishes the blog post to master on the morning of the 22nd, immediately following the package itself being published by the **Release team** The [GitLab.org Releases page](https://gitlab.com/gitlab-org/gitlab/-/releases) will also populate the changelog via the process outlined in [gitlab!44837](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/44837)|
 
 _**Note:** The specific steps that should be followed, when they are due, and the order they should be followed in are described in the [Monthly release **post** MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md) and the [Monthly release **post item** MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md)._
@@ -193,6 +193,9 @@ _**Note:** The Release Post Manager is not responsible for creating any content 
 
 #### Merge individual items in to your branch
 
+**Important**: This procedure applies until the 18th, at 8 AM PT (3 PM UTC). After this time, anyone who wants to include a change in the upcoming release post can either coordinate updates directly on the release post branch with the Release Post Manager or submit it in a separate MR, targeting the `release-X-Y` branch, and assign it to the Release Post Manager to merge. For more information, see our documentation ho how to [Develop on a feature branch](https://docs.gitlab.com/ee/topics/git/feature_branch_workflow.html).
+{:.alert .alert-info}
+
 When it is time to assemble the release post, this will be done by moving the
 content block files from `data/release_posts/unreleased` to
 `data/release_posts/X_Y`, and images from `source/images/unreleased` to
@@ -226,13 +229,13 @@ The release post manager, the Messaging lead and the TW lead will need to commun
 
 #### Content reviews
 
-The due dates for various reviews across all participants can be found on the release post MR and release post item MR templates (#templates). PM contributors are encouraged to cease attempts to add new content blocks after the final merge deadline of the 17th, and especially after final content assempbly happens at 8 AM PST (3 PM UTC). But if highly  impactful features are released it is up to the discretion of the Release Post Manager to work with the PM and Messaging lead to add more content blocks up until the 21st. 
+The due dates for various reviews across all participants can be found on the release post MR and release post item MR templates (#templates). PM contributors are encouraged to cease attempts to add new content blocks after the final merge deadline of the 17th, and especially after final content assempbly happens at 8 AM PT (3 PM UTC). But if highly  impactful features are released it is up to the discretion of the Release Post Manager to work with the PM and Messaging lead to add more content blocks up until the 21st.
 
 Keeping an eye on the various content reviews  (TW, PMM and Director) for the individual release post items (content block MRs) is the responsiblity of PM contributor. However, it is recommended that the Release Post Manager keep an eye on how many items are not yet marked with the Ready label on the 10th of the month or not yet merged on the 16th of the month, and check in with PMs  in Slack Release Post channel to support and clear hurdles if needed. A really easy way to do this is to keep your eyes on the [Preview page](https://about.gitlab.com/releases/gitlab-com/) and copy edit and link check items as new items appear.
 
-The content review of the Performance Improvments and Bug Fixes MRs are the responsiblity of the Release Post Manager and the TW Lead.
+The content review of the Performance Improvements and Bug Fixes MRs are the responsibility of the Release Post Manager and the TW Lead.
 
-The  review of all content for quality, including the marketing intro, is recoommended for the Release Post Manager to keep things smooth, since it is the Release Post Manager's responsibility to make sure all content  is completed until by the 20th of the month, ensuring a one day buffer is left for final error fixes and small improvements.
+The review of all content for quality, including the marketing intro, is recommended for the Release Post Manager to keep things smooth, since it is the Release Post Manager's responsibility to make sure all content  is completed until by the 20th of the month, ensuring a one day buffer is left for final error fixes and small improvements.
 
 #### Next steps
 
@@ -254,6 +257,9 @@ Product Managers are responsible for [raising MRs for their content blocks](#con
 In parallel with feature development, a merge request should be prepared by the PM with
 the required content. **Do not wait** for the feature to be merged before
 drafting the release post item, it is recommended PMs write Release Post Item MRs as they prepare for the milestone Kickoff.
+
+**Important**: This procedure applies until the 18th, at 8 AM PT (3 PM UTC). After this time, anyone who wants to include a change in the upcoming release post can either coordinate updates directly on the release post branch with the Release Post Manager or submit it in a separate MR, targeting the `release-X-Y` branch, and assign it to the Release Post Manager to merge. For more information, see our documentation ho how to [Develop on a feature branch](https://docs.gitlab.com/ee/topics/git/feature_branch_workflow.html).
+{:.alert .alert-info}
 
 ##### Key dates
 
@@ -340,7 +346,7 @@ To enable Engineering Managers to merge their feature blocks as soon as an issue
 
 #### Reviwing, editing and updating merged content blocks
 
-After content block MRs are merged, they can be viewed on the [Preview page](https://about.gitlab.com/releases/gitlab-com/) and should be updated/edited via MRs to master up until the **final merge deadline of the 17th**. Starting on the 18th, content block MRs should be viewed in the Review app of the release post branch after **final content assembly**, and updated/edited on the release post branch by coordinating with the Release Post Manager. 
+After content block MRs are merged, they can be viewed on the [Preview page](https://about.gitlab.com/releases/gitlab-com/) and should be updated/edited via MRs to master up until the **final merge deadline of the 17th**. Starting on the 18th, content block MRs should be viewed in the Review app of the release post branch after **final content assembly**, and updated/edited on the release post branch by coordinating with the Release Post Manager.
 
 #### Accountability
 
@@ -572,6 +578,10 @@ these are owned by PMMs, so leave it to them to avoid unnecessary back-and-forth
 Make sure feature descriptions make sense, anchors work fine, all internal links have
 the relative path.
 
+#### Making changes
+
+Until the 18th, at 8 am Pacific Time, the TW Lead should be able to make changes directly to the release post. After that time, anyone who wants to include a change in the upcoming release _may_ need to submit it in a separate MR, with a target of the `release-X-Y` branch. For more information, see our documentation ho how to [Develop on a feature branch](https://docs.gitlab.com/ee/topics/git/feature_branch_workflow.html).
+
 #### TW checklist
 
 - All new features in this release are in the release post.
@@ -697,9 +707,9 @@ This MR has **not** been reviewed by any other TW. For this MR, you'll check:
   - If the issue is still open, make sure that the responsible EM, PM, or bug author is aware of the situation.
   - If the issue will not be closed by the 20th of the month, remove the entry from the Bugs MR.
 
-#### MVP MR
+#### MVP entry
 
-As the TW Lead, you're responsible for reviewing an MR created for the [MVP of the month](#mvp).
+As the TW Lead, you're responsible for reviewing the entry for the [MVP of the month](#mvp).
 This MR has **not** been reviewed by any other TW. For this MR, you'll check this MR for:
 
 - Consistency, as requested by the PMM.
