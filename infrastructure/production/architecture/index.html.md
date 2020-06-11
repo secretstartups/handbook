@@ -80,7 +80,7 @@ No application or customer data flows through these network peers.
 
 ### DNS & WAF
 
-We host our DNS with cloudflare (gitlab.com, gitlab.net) and route53 (gitlab.io and others).
+We host our DNS with Cloudflare (gitlab.com, gitlab.net) and route53 (gitlab.io and others).
 
 Route53:
 
@@ -128,6 +128,8 @@ Cloudflare:
 
 </details>
 </p>
+
+[Runbooks](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/cloudflare/README.md)
 
 [Source](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/6f92124563835415e5c6e59f40b32e7307d3fb67/cloudflare/README.md#with-cloudflare)
 
