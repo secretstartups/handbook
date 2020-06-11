@@ -91,7 +91,7 @@ GitLab's Fiscal Year runs from February 1 to January 31.
 * Q3: August 1 through October 31
 * Q4: November 1 through January 31
 
-Refer to our [writing style guidelines]("/handbook/communication/#writing-style-guidelines") for proper use of date formats.
+Refer to our [writing style guidelines](/handbook/communication/#writing-style-guidelines) for proper use of date formats.
 
 ## Invoice template and where to send
 <a name="invoices"></a>
