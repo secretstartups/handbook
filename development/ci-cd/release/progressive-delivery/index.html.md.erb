@@ -62,7 +62,7 @@ Our planning and build process is detailed on our [planning page](./planning.htm
 ### Async Release Planning
 
 We use a [release planning issue](https://gitlab.com/gitlab-org/ci-cd/progressive_delivery/-/blob/master/.gitlab/issue_templates/ReleaseTemplate.md) to plan our release-level priorities over each milestone.
-This issue contains individual sections for deliverables, capacity, team member vacation, and more. This issue allows the entire group to view high-level planning including what we seek to accomplishing in a given release.
+This issue contains individual sections for deliverables, capacity, team member vacation, and more. This issue allows the entire group to view high-level planning including what we seek to accomplish in a given release.
 This type of issue is the central location for information gathering and planning conversations.
 
 #### Previous Planning Issues
@@ -75,70 +75,144 @@ This type of issue is the central location for information gathering and plannin
 
 ### On Issues
 
-Issues that contribute to the progressive delivery section of the release stage of the devops toolchain have the `~"devops::release"` and `~"group::Progressive Delivery"` labels.
+Issues that contribute to the progressive delivery group of the release stage of the devops toolchain have the `~"devops::release"` and `~"group::Progressive Delivery"` labels.
 
 ### Self-assignment of Issues
 
-As described below, we use a successive set of discrete labels and issue boards built from those labels in a mostly linear flow that is similar to Kanban. In a kanban-like flow, issues/cards are _pulled not pushed_. Individuals on the team should self-assign to issues in the `Ready for Development` columns. On occassion, the Engineering Manager will assign a designer, developer, or other contributor as required.
+As described below, we use a successive set of discrete labels and issue boards built from those labels in a mostly linear flow that is similar to Kanban. In a kanban-like flow, issues/cards are _pulled not pushed_. Individuals on the team should self-assign to issues in the `Ready for Development` columns, but before you do you should consider _Pulling Issues from the Right_ On occasion, the Engineering Manager will assign a designer, developer, or other contributor as required.
 
 ### In Slack
 
 The team's primary Slack channel is `#g_progressive-delivery`, and the public managers channel is `#release-stage-managers`. We also support a number of feature channels for discussons or questions about a specific [feature area](/handbook/product/categories/#release-stage). We no longer support issue specific channels, as they are easy to lose track of and fragment the discussion. Supported channels are:
 
 * Continuous delivery: `f_continuous_delivery`
-* Review Apps: `f_review_apps`
 * Feature flags: `f_feature_flags`
+* Review Apps: `f_review_apps`
 * Deploy Keys: `f_deploy_keys`
 
 ### Team Workflow and Issue Boards
 
-We use the [Progressively Delivery Planning Board](https://gitlab.com/groups/gitlab-org/-/boards/1489550?&label_name[]=group%3A%3Aprogressive%20delivery) to organize and plan upcoming features. This board details the various stages an issue can exist in as it is being readied for development. It's not necessary that an issue go through all of these stages, and it is allowed for issues to move back and forward through the workflow as they are iterated on.
+#### Planning
 
-The `~cicd::active` and `~workflow::scheduling` labels are used to feed the next board where EM and PM connect on scheduling upcoming issues.
+Ahead of the near-term planning phase there is an estimation phase. See the engineering evaluation and estimation section below.
 
-We use the [Progressive Delivery Scheduling Board](https://gitlab.com/groups/gitlab-org/-/boards/1489554?label_name[]=group%3A%3Aprogressive%20delivery&label_name[]=workflow%3A%3Ascheduling) as a checkpoint to ensure that we have a well-formed issues prior to being ready for development.
+We use a [Milestone Planning Board](https://gitlab.com/groups/gitlab-org/-/boards/1454481?milestone_title=13.1&&label_name[]=devops%3A%3Arelease&label_name[]=group%3A%3Aprogressive%20delivery) customized for each milestone to organize and plan upcoming features. This board details the various stages an issue can exist in as it is being readied for development. It's not necessary that an issue go through all of these stages, and it is allowed for issues to move back and forward through the workflow as they are iterated on. It highlights `Release::P1`, `Release::P2`, and `bugs` above other priority issues. This is use in concert with the async release planning issue (see below).
 
-Placing the `~workflow::ready for development` will automatically remove the `~workflow::scheduling` label. The following Build Board contains columns for each of the workflow labels beginning with the `Ready for Development`. The intention here is that this is the only place that developers should update issues with the relevant workflow status.
+Issues that are being planned should include the `cicd::planning` issue label so as to distinguish them from those issues which will be worked on during this milestone. We reserve the `cicd::active` label as the counterpart to `cicd::planning` for active work.
 
-We use the [Progressive Delivery Build board](https://gitlab.com/groups/gitlab-org/-/boards/1489558?label_name[]=cicd%3A%3Aactive&label_name[]=group%3A%3Aprogressive%20delivery) to track features as they make their way from idea to production. Here, issues move more or less linearly from Ready for Development thru to Verification, but on occassion they have to return to Ready for Development as priorities shift.
+Once we have determined the cutline for a given milestone based on our capacity, spillover from the previous milestone, bugs, security fixes, tech debt, and UX debt, we can move those issues into `workflow::scheduling`.
 
-Issues if over a weight of 1, will have multiple MRs. Each of these associated MRs will likely be in a different stage of development. It's important to update the issues on the build board with the lastest, most relevant state. Example, if an issue has three MRs with one in review, another in development, and one ready for development, then the we should place that issue is in `In Dev` as this is where the most activity for this issue is happening - it's the most relevant signal to the rest of the team. Because we have a one-to-many relationship between our issues and MRs, activity on the board will appear slow. Async daily standups and weekly sync meetings outlined below help with any ambiguity that this system introduces.
+#### Scheduling
 
-#### Workflow Stages
+The `~cicd::planning` and `~workflow::scheduling` labels and a customized `%milestone` assignement filter are used to feed the scheduling board where the EM and PM connect on scheduling upcoming issues.
 
-Below is a description of each stage, its meaning, and any requirements for that stage.
+We use the [Scheduling Board](https://gitlab.com/groups/gitlab-org/-/boards/1489554?label_name[]=group%3A%3Aprogressive%20delivery&label_name[]=workflow%3A%3Ascheduling) as a checkpoint to ensure that we have well-formed issues and have estimated our capacity correctly prior to labelling these issues ~"workflow::ready for development".
+
+Both `~workflow::ready for development` and `cicd::active` labels **are** required before they're scheduled in an iteration.
+
+#### Building
+
+We use the [Build board](https://gitlab.com/groups/gitlab-org/-/boards/1489558?label_name[]=cicd%3A%3Aactive&label_name[]=group%3A%3Aprogressive%20delivery) to track features as they make their way from idea to production. _This should is the only place that developers should find new work_. This board does not have a concept of a Milestone, it represents the development lifecycle and is populated with issues that have been previously evaluated. On occasion, unscheduled issues like high priority bugs, community contributions, the like will appear on this board. Here, issues move more or less linearly from Ready for Development thru to Verification.
+
+On occasion they have to return to and earlier state like `workflow:ready for development` as priorities shift, `workflow::refinement` if the issue was not truly ready, or to `workflow::blocked` if we are unable to proceed. As a point of clarification, `workflow::scheduling` contains issues that are ready to go and that we're waiting to act until we have capacity or waiting planned for specific milestone while `workflow::refinement` is about the proposal needing polishing.
+
+Issues if over a weight of 1, will have multiple MRs. Each of these associated MRs will likely be in a different stage of development. It's important to update the issues on the build board with the latest, most relevant state. Example, if an issue has three MRs with one in review, another in development, and one ready for development, then the we should place that issue is in ~"workflow::In dev" as this is where the most activity for this issue is happening - it's the most relevant signal to the rest of the team. Because we have a one-to-many relationship between our issues and MRs, activity on the board will appear slow. Async Issue Updates and weekly sync meetings both outlined below help with any ambiguity that this system introduces.
+
+#### Workflow Stages and Labels
+
+Below is a description of each stage by label, its meaning, and any requirements for that stage.
 
 * `workflow::start`
   * The entry point for workflow scoped labels. From here, Issues will either move through the validation workflow, go directly to planning and scheduling, or in certain cases, go directly to the development steps.
+  * includes `cicd::planning` label
 * `workflow::problem validation`
   * This stage aims to produce a [clear and shared understanding of the customer problem](/handbook/product-development-flow/#validation-phase-2-problem-validation).
+  * includes `cicd::planning` label
+* `workflow::solution validation`
+  * This output of this stage is a clear prototype of the solution to be created.
+* `workflow::design`
+  * Issues in the UX Design phase
+  * includes `cicd::planning` label
 * `workflow::solution validation`
   * This output of this stage is a [clear prototype of the solution to be created](/handbook/product-development-flow/#validation-phase-3-solution-validation).
+  * includes `cicd::planning` label
+* `workflow::planning breakdown`
+  * this step includes the estimation the Engineering Evaluation & Estimation work as outlined below.
+  * includes `cicd::planning` label
+* `workflow::scheduling`
+  * This is the last checkpoint to ensuer that issues are ready for development.
+  * includes `cicd::planning` label
 * `workflow::ready for development`
   * This stage indicates the issue is ready for engineering to begin their work.
-  * Issues in this stage must have a `UX Ready` label, as well as either `frontend`, `backend` or both labels to indicate which areas will need focus.
+  * Before entering this workflow state, issues must meet the Definition of Ready (see below)
+  * If you are looking for new work to pick up, unassigned issues should be tackled in order of priority label.
+  * includes `cicd::active` label
 * `workflow::in dev`
   * This stage indicates that the issue is actively being worked on by one or more developers.
+  * Please see that the issue meets the Definition of Done (see below) before proceeding.
+  * includes `cicd::active` label
 * `workflow::in review`
   * This stage indicates that the issue is undergoing code review by the development team and/or undergoing design review by the UX team.
+  * includes `cicd::active` label
 * `workflow::verification`
   * This stage indicates that everything has been merged and the issue is waiting for verification after a deploy.
+  * includes `cicd::active` label
+
+#### Definition of Ready
+
+Before the team will accept an issue into a milestone (as marked by the the labels `~workflow::"ready for development"`` + `~cicd::active`) for work it must meet the following criteria:
+
+* Issues labeled with `~feature` include a well stated "why" and the customer problem to solve
+* For issues labeled with `~bug` include, steps to reproduce
+* Designs are in the design tab if designs are needed
+* A weight applied for either frontend, backend, or both as appropriate.
+* Labeled with either `frontend`, `backend` or both to indicate which areas will need focus.
+
+#### Label Definitions
+
+There are a number of labels applied at any time to both issues and merge requests, but there is a priority, first being the highest:
+
+* `planning priority` - This label is rarely used, but we consider it to be a promise to a customer. Issues with this label will supersede all other work even those planned issues. The use of this label is usually held in reserve for issues of the utmost importance.
+* `P1` / `S1` - From the perspective of bugs, a `P1` / `S1` has the [highest priority](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority) and a short SLO. Issues with this label will supersede all other work even planned issues.
+* `Deliverable` - Issues with this label are agreed between team EM and the PM to have the highest overall normal priority and could be delivered in the given milestone. Deliverable issues not closed in a given milestone are auto forwarded via milestone cleanup workflow. Deliverable issues are often paired with `Release::P1` issues.
+* `Release::P1` - Similar to and often paired with `Deliverable`. This is the highest priority from the perspective of the sub-department. Assuming there are no `planning priority` and `P1/S1` issues, we start with these issues first, and we focus on these over lower priority issues as much as possible.
+* `Community contribution` - The main label for the Contributor Program. We should support the contributor community by triaging and coaching issues in our area with this label. We prioritize this effort between Deliverables and lower priority issues.
+* `Release::P2` - This is the second highest priority from the perspective of the sub-department.
+* `Release::P3` - This is the third highest priority from the perspective of the sub-department.
+* `Unscheduled` - Items with this label are being worked on in this release but have not been previously scheduled by the EM and PM. Work orignating with this label is usually event driven - another team requires immediate help, a regression affecting users, or severe technical debt that is causing inefficiency in the team.
+* `Stuff that should Just Work` - This part of our [incremental improvement engineering process](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#incremental-improvements) where should allow for capacity to make improvements to the GitLab codebase or documentation leaving our work environment a better place than when we found it.
+
+#### Definition of Done
+
+GitLab has a documented a clear [Definition of Done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done) for contributions to GitLab. We will follow that standard as our own definition of done.
+
+#### Work In Progress Limits
+
+We have established a Work in Progress limit (WIP) of 7 given that we currently have 5 engineers on the team (1.5 x number of engineers). This has been applied to the `workflow::in dev` list on the build board. When we've hit our maximum, should instead help move WIP issues along. The EMs will reevaluate this WIP limit with each milestone and make adjustments accordingly.
+
+#### Capacity Planning
+
+Historically, our average MRs per month (not milestone) has been about 27 MRs. (see this [periscope chart](https://app.periscopedata.com/app/gitlab/556687/CI-CD-Section-Metrics?widget=8427818&udv=0))
+
+With the knowledge that [things take longer than you think](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html), we will devote about 30% of our estimated capacity for a given milestone to `Release::P1` / `Deliverable` issues. The rest of the milestone capacity is taken with assisting your peers, followed by peer reviews, maintainer reviews, community contributions, lower priority items, bugs, issue estimations, and fixing stuff that should just work. The EM and PM will evaluate this capacity allocation for Deliverable issues during milestone planning and this may adjust overtime.
 
 ### Engineering Evaluation & Estimation
 
-In order to make sure sprints are effective as possible, it is important to ensure issues are clearly defined and broken down before the start of a sprint.
+In order to make sure iterations are efficient, it is important to ensure issues are clearly defined and broken down before the start of an iteration.
 In order to accomplish this, engineering evaluation will take place for issues that require it (small changes and bug fixes typically won’t require this analysis).
 With each milestone we collect a series of upcoming issues to be review and discussed asynchronously into a meta Needs Weight Issue ([example issue](https://gitlab.com/gitlab-org/gitlab/-/issues/212773)). These issues should have the label `workflow::planning breakdown`. We use this label not only for well-defined user stories, but also functional, performance, documentation, and security issues.
-See [Build phase](https://about.gitlab.com/handbook/product-development-flow/#build-phase-1-plan) of the Product Development Workflow.
+See the [Build phase](https://about.gitlab.com/handbook/product-development-flow/#build-phase-1-plan) of the Product Development Workflow.
 
 Assigned engineers will work with Product, UX and other engineers to determine the implementation plan for a proposed feature. As the assigned engineer provides a propsed breakdown, they should also affix a weight to the issue. See below.
 
 Once an implementation plan has been finalized, the following steps should be taken:
 
 * The issue description should be updated to include the details of the implementation plan along with a checklist to show the planned breakdown of merge requests.
-* The issue should be moved forward in the workflow to `workflow::ready for development` by the Engineering Manager.
+* The issue should be moved forward in the workflow to `workflow::ready for development` by the Engineering Manager only after consulting with the PM during scheduling. Capacity, cut line, an issue that does not meet the definition of ready are some sceanarios that could prevent this label from being applied during planning.
 * The weight of the issue should be updated to reflect the number of merge requests estimated as part of the implementation plan. For smaller changes and bugs, the weight should be 1.  Note, that we are separating frontend weight from backend weight where possible using a `~frontend-weight::[1-5]` label.
 * Those updates to the issue will signal that the issue has been properly scoped and is ready to be worked on in an upcoming milestone.
+
+Issues with a weight **greater than 5** should be reconsidered by the team. This is a signal that the issue is too large, too complicated, and that we should iterate on the issue proposal. Please consider proposing a new scope of the issue such that it can be split into future iterations.
 
 #### Merge Request Count As A Measure Of Issue Weight
 
@@ -152,7 +226,7 @@ Given our dependence on availability of reviewers and ultimately maintainers, we
 We should take advantage of Feature Flags and other tactics if we need to neutralize behavior as needed for feature rollouts.
 
 
-#### Tips: When you're having hard time to estimate MR count, consider PoC step.
+## Tips: When you're having hard time to estimate MR count, consider PoC step.
 
 If you have no idea where to begin the development due to lack of knowledge on the context or
 you're less confident on the current technical proposal,
