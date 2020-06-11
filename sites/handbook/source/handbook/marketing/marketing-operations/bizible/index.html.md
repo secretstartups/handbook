@@ -75,6 +75,24 @@ Linear Attribution is the simplest and most all-encompassing of the multi-touch 
 
 ![image](/handbook/marketing/marketing-operations/bizible/Linear-Bizible.png)
 
+## Bizible Channel and Sub-Channel Mapping
 
+ In 4Q18, we are making updates to the Bizible Channel rules, but currently, these channels and subchannels are pulled into Salesforce and can be further filtered by using `medium` for those channels with overlap or with `Ad Campaign name` to search for specific UTMs or campaigns:
+
+| Bizible Online Channel or subchannel | Type of marketing |SFDC Marketing Channel-path |
+|---|---|---|
+|`CPC`|Google Adwords or other Paid Search|CPC.Adwords|
+|`Display`|Display ads in Doubleclick, Terminus, etc|Display|
+|`Paid Social`|Ads in Facebook or LinkedIn |Paid Social.[Name of site]|
+|`Organic`|Organic search|Marketing Site.Organic|
+|`Other`|Not specifically defined |[Name of channel].Other|
+|`Partners`|Google or events|	Marketing Site.Web Direct|
+|`Email`|Nurture, Newsletter, Outreach emails|Email.[Name of email type]|
+|`Field Event`|From Field event, will show Salesforce campaign as touchpoint source|Email.[Field Event]|
+|`Conference`|From conference, will show Salesforce campaign as touchpoint source|Conference|
+|`Social`|Any referral from any defined social media site| Social.[Name of site]|
+|`Sponsorship`|Paid sponsorships, Display, and Demand gen as well as Terminus|Sponsorship|
+|`Web Direct`|Unknown or direct (NOTE: this is not the same as Web direct/self-serve in SFDC, this is a Web referral where the original source was not captured)|Marketing Site.Web Direct|
+|`Web Referral`|Referral from any site not otherwise defined|Marketing Site.Web Referral|
 
 
