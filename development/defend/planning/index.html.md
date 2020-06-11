@@ -162,37 +162,28 @@ and weight inflation over-emphasizes predictability.
 
 We are using the Fibonacci sequence for issue weights.
 
-- 1: trivial task - can be completed in less than a day.
-- 2: small task - can be completed in 1 day.
-- 3: medium task - can be completed in 2-3 days.
-- 5: large task - can be completed in 1 week.
-- 8: extra-large task - can be completed in 2-2.5 weeks.
-- 13: extra-extra-large task - will take someone the entire iteration to complete.
-- Bigger: the task may be an epic in disguise and needs to be split up. The issue has failed
-  refinement if it falls in this range.
+The weights we use are:
+
+| Weight | Value | Description  |
+| --- | --- | --- |
+| 1 | Trivial | The problem is very well understood, no extra investigation is required, the exact solution is already known and just needs to be implemented, no surprises are expected, and no coordination with other teams or people is required.<br><br>Examples: documentation updates, bugs that have already been investigated and can be fixed with a few lines of code, technical debt that we know exactly how to address. |
+| 2 | Small | The problem is well understood and a solution is outlined, but a little bit of extra investigation will probably still be required to realize the solution.<br><br>Examples: creation of a new API endpoint or UI element exposing existing data, regular bugs or performance issues where some investigation has already taken place. |
+| 3 | Medium | Features that are well understood and relatively straightforward. Bugs that are relatively poorly understood and may not yet have a suggested solution.<br><br>Examples: regular features, potentially requiring backend and frontend work, most bugs or performance issues. |
+| 5 | Large | Features that are well understood, but known to be hard. Bugs that are very poorly understood, and will not have a suggested solution.<br><br>Examples are large features with a backend and frontend component, or bugs or performance issues that have seen some initial investigation but have not yet been reproduced or otherwise "figured out". |
+| 8 | Extra-Large | Very large features that are not very well understood and contain a large amount of hidden complexity. Many surprises are inevitable, and coordination with other teams or people is unavoidable. |
+
+Anything larger than 5 should be broken down whenever possible.
 
 #### Weight Labels
 
-Defend issues follow the [labels defined in the Contribution
-Guide](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/issue_workflow.md#labels),
+Defend issues follow the [labels defined in the Contribution Guide](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/issue_workflow.md#labels),
 specifically the `~frontend` and `~backend` Specialization labels.
 
-Whenever an issue has both Specialization labels above, the weight can be broken down into
+When an issue has both Specialization labels, and the size of the effort does not warrant breaking the issue into more than one issue, the weight can be broken down into
 [`~backend-weight`](https://gitlab.com/gitlab-org/gitlab/-/labels?utf8=%E2%9C%93&subscribed=&search=backend-weight)
 and
 [`~frontend-weight`](https://gitlab.com/gitlab-org/gitlab/-/labels?utf8=%E2%9C%93&subscribed=&search=frontend-weight).
-In these cases, the value of the issue's numeric `weight` field must be the sum of these weights
-rounded-up to the nearest [Fibonacci number](#possible-values).
-
-#### Rationale
-
-The weighting system roughly aligns with other teams within GitLab. We deviate from the scales used
-by other teams to provide enough granularity in our planning process.
-
-* [Plan:Project Management BE Team Capacity Planning](/handbook/engineering/development/dev/plan-project-management-be/#capacity-planning)
-* [Create: Source Code BE Team Weights](/handbook/engineering/development/dev/create-source-code-be/#weights)
-* [Geo Team Weights](/handbook/engineering/development/enablement/geo/process.html#weights)
-* [Enablement:Memory](/handbook/engineering/development/enablement/memory/#weights)
+In these cases, the value of the issue's numeric `weight` field will be set by the EM to be the sum of these weights rounded-up to the nearest Fibonacci number.
 
 ## Implementation Plan
 
@@ -222,4 +213,4 @@ discovery process.
 outlined in this document](https://gitlab.com/gitlab-com/www-gitlab-com/issues/4588). If the size
 and complexity of the issue does not warrant breaking it down into multiple sub-issues then apply
 frontend and backend weights separately using their respective `frontend-weight` & `backend-weight`
-labels. The EMs will use those individuals labels to populate the combined weight field.
+[weight labels](#weight-labels). The EMs will use those individuals labels to populate the combined weight field.
