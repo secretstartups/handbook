@@ -108,9 +108,15 @@ Here is the process we use for those types of issues:
 
 We try to break issues into small, deliverable pieces. To do this we use the `workflow::planning breakdown` as described in the [product development flow](/handbook/product-development-flow/#build-phase-1-plan). This lets the team know that the issue needs to be broken down before we can start implementation. Anyone on the team can look for issues in this workflow state and break them down.
 
-### Prioritizing Issues
+### Prioritizing Issues For a Milestone
 
-Before the start of a milestone, the product manager is responsible for organizing the [APM Planning Board](https://gitlab.com/groups/gitlab-org/-/boards/1065731) by putting all issues for the upcoming milestone in priority order. By using the planning board as a priority list, and by keeping it in order, then we should always be able to look at the current and upcoming milestone columns to have a prioritized list of upcoming work.
+For each milestone we create a [Planning issue](https://gitlab.com/gitlab-org/monitor/apm/-/blob/master/.gitlab/issue_templates/planning-issue.md) and follow the process as described in the Ops section [monthly cadence](https://about.gitlab.com/handbook/engineering/development/ops/monitor/#monthly-cadence). As the list of issues is finalized, the correct `Deliverable` and `Filler` labels are applied to the issues and they are assigned to the correct milestone. We also highlight work that is being done for UX, testing, and technical writing. The [APM Next Milestone Board](https://gitlab.com/groups/gitlab-org/-/boards/1593380) can be used to see what issues are planned for this upcomming milestone.
+
+#### Filler Issues
+
+The priority issues for any given milestone are labeled with the `Deliverable` label. In addition, we want to plan for work that can be completed once the `Deliverable` issues are complete. We label these `Filler` issues. 
+
+As an experiment starting with the 13.2 milestone, we are going to try to limit the scope of these issues to about 1-2 days worth of development work.
 
 ### Starting a Milestone
 
