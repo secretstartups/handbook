@@ -293,7 +293,7 @@ If you've built feature flags into your code, be sure to read about [how to use 
 
 #### Feature Flag Removal
 
-Once a feature has been thoroughly tested the [feature flag](https://docs.gitlab.com/ee/development/feature_flags/index.html) should be removed. The engineer who implemented the feature flag should ensure that it gets removed. 
+Once a feature has been thoroughly tested the [feature flag](https://docs.gitlab.com/ee/development/feature_flags/index.html) should be removed. The engineer who implemented the feature flag should ensure that it gets removed.
 
 ## Scheduling Issues
 
@@ -470,7 +470,7 @@ To help with prioritization and decision-making process here, we recommend think
 
 > You wouldn't pay off your $50k student loan before first paying off your $5k credit card and it's because of the high interest rate. The best debt to pay off first is one that has the highest loan payment to recurring payment reduction ratio, i.e. the one that reduces your overall debt payments the most, and that is usually the loan with the highest interest rate.
 
-Technical debt is prioritized like [other technical decisions](/handbook/engineering/#prioritizing-technical-decisions) in [product groups](/company/team/structure/#product-groups) by [product management](/handbook/product/product-management/process/#prioritization). 
+Technical debt is prioritized like [other technical decisions](/handbook/engineering/#prioritizing-technical-decisions) in [product groups](/company/team/structure/#product-groups) by [product management](/handbook/product/product-management/process/#prioritization).
 
 For technical debt which might span, or fall in gaps between groups they should be brought up for a [globally optimzed](/handbook/values/#global-optimization) prioritization in [retrospectives](/handbook/engineering/management/team-retrospectives/) or directly with the appropriate member of the [Product Leadership team](/handbook/product/leadership/). Additional avenues for addressing technical debt outside of product groups are [Rapid Action issues](/handbook/engineering/development/#rapid-action-issue) and [working groups](/company/team/structure/working-groups/).
 
@@ -537,9 +537,10 @@ There are two issue boards being reviewed in this refinement exercise.
 
 1. To participate in the weekly refinement, ask your engineering director to forward the invite of *Availability & Performance Refinement* meeting which is at 16:30 UTC (summer) or 17:30 UTC (winter) every Tuesday. Here is the [meeting agenda](https://docs.google.com/document/d/1SanPUz86cIyRQR5kRmXyCLLE8sZVpx0auu_W6jY94W4/edit?usp=sharing).
 1. To nominate issues to either of the boards above:
-   1. GitLab.com Infra/Dev Triage: use the label `infradev`.
-   1. Assign a severity on the issue to help asses the priority assignment for the refinement session.
+   1. Assign [a severity](/handbook/engineering/quality/issue-triage/#severity) on the issue to help asses the priority assignment for the refinement session.
+      1. When assigned severity is the highest and the issue is potentially preventing the Infrastructure department from performing regular operations, additionally apply the `~production request` label. When an issue has `~infradev ~S1 ~P1 ~production request` labels applied, it is required to work on immediate resolution.  In the case of a `~production request`, please engage Development management based on group assignment to further the process along.  
    1. Ensure that the issue clearly explains the problem, the (potential) impact on GitLab.com's availability, and ideally, clearly defines a proposed solution to the problem.
+   1. GitLab.com Infra/Dev Triage: use the label `infradev`.
    1. Performance Refinement: use the label `performance-refinement`.
 1. For the issues under the **Open** column:
    1. An engineering manager will be assigned if either the `Milestone` or the label `workflow::ready for development` is missing.
