@@ -263,6 +263,14 @@ development"` label.
 
 #### Develop & Test
 
+Issues that have the `~feature` and `~Deliverable` labels require a [Release
+Post](/handbook/product/communication/#release-posts) to be ready for publishing along with the
+corresponding feature. The schedule to create and review a Release Post is naturally challenging
+so, to allow Product Managers to work in parallel, Engineering should add a Documentation stub
+early in the [WIP
+MR](https://docs.gitlab.com/ee/user/project/merge_requests/work_in_progress_merge_requests.html) so
+that the final hyperlink to the documentation is available well before the end of the iteration.
+
 ```mermaid
 graph TD
   L1>"~workflow::ready for development"]
