@@ -56,12 +56,13 @@ The MQL scoring model below is correct as of 11 March 2020. Additional changes a
 
 |**Action**|**Token**|**Points**|**Type**|**Program Status Changes**|**Type**|**Schedule/Flow Limit**|
 |:-----:|:----------:|:-----:|:--------:|:-------------:|:-----:|:-----:|
-|Attends Webcast or Virtual Sponsorship or Self Service Virtual Event|{{my.Attends Webcast}}|+15|Behavior|Webcast > Attended<br>Virtual Sponsorship > Attended<br>Self-Service Virtual Event > Attended|Trigger|Everytime|
-|Attends on Demand Webcast or Virtual Sponsorship or Self Service Virtual Event|{{my.On Demand Webcast - Default}}|+15|Behavior|Virtual Sponsorship > Attended On-demand<br>Webcast > Attended On-demand<br>Self-Service Virtual Event > Attended On-demand|Trigger|Everytime|
-|Attends Owned Event|{{my.Owned Event - Attended}}|+75| Owned Event > Attended|Trigger|Behavior|Everytime|
+|Attends Webcast or Virtual Sponsorship or Self Service Virtual Event or Sponsored Webcast|{{my.Attends Webcast}}|+15|Behavior|Webcast > Attended<br>Virtual Sponsorship > Attended<br>Self-Service Virtual Event > Attended<br> Sponsored Webcast > Attended|Trigger|Everytime|
+|Attends on Demand Webcast or Virtual Sponsorship or Self Service Virtual Event|{{my.On Demand Webcast - Default}}|+15|Behavior|Virtual Sponsorship > Attended On-demand<br>Webcast > Attended On-demand<br>Self-Service Virtual Event > Attended On-demand<br>Sponsored Webcast > Attended On-demand|Trigger|Everytime|
+|Attended On-demand - Hosted Elsewhere|{{my.On Demand - Hosted Elsewhere}}|-5|Behavior|Requsted via Sponsored Webcast template|Trigger|Everytime|
+|Attends Owned Event|{{my.Owned Event - Attended}}|+75|Behavior| Owned Event > Attended|Trigger|Everytime|
 |Requested Follow up - Virtual Sponsorship, speaking session, owned event, field event, conference, survey|{{my.Live Event - Requested Follow Up}}|+100|Behavior|Virtual Sponsorship > Follow Up Requested<br>Speaking Session > Follow Up Requested<br>Owned Event > Follow Up Requested<br>Field Event > Follow Up Requested<br>Conference > Follow Up Requested<br>Survey > Requested Contact|Trigger|Everytime|
 |Registered - Virtual, Webcast, Owned, Field Event|{{my.Registered - Events or Webcasts}}|+15|Behavior|Virtual Sponsorship > Registered<br>Owned Event > Registered or Waitlist<br>Webcast > Registered<br>Field Event > Registered|Trigger|Everytime|
-|Registered - Self-Service Virtual Events|{{my.Registered Self-Service Virtual Events}}|+10|Behavior|Self-Service Virtual Event > Registered|Triger|Everytime|
+|Registered - Self-Service Virtual Events|{{my.Registered Self-Service Virtual Events}}|+10|Behavior|Self-Service Virtual Event > Registered<br> Sponsored Webcast > Registered|Triger|Everytime|
 |Visited Booth - Field Events, Conference, Virtual Sponsorship|{{my.Visited Booth}}|+30|Behavior|Virtual Sponsorship > Visited Booth<br>Field Event > Visited Booth<br>Conference > Visited Booth|Trigger|Everytime|
 |Content Download - Form Fill|{{my.Content Download - Default}}|+30|Behavior|PF Content > Content Consumed OR<br>PF Specific Forms|Trigger|Everytime|
 |Content Download - High Intent|{{my.Content Download - High Intent}}|+90|Behavior|Specific Forms on pages - <br>/just-commit/reduce-cycle-time<br>/just-commit/lower-tco/<br>/just-commit/secure-apps/|Trigger|Once|
@@ -86,25 +87,6 @@ The MQL scoring model below is correct as of 11 March 2020. Additional changes a
 |Title - Developer, Engineer (including French)|{{my.Title - Low Tier}}|-10|Demographic|Title Contains: developer, engineer AND <br> Title not contains: Executive, Manager, Director |Trigger|Once|
 |Unsubscribes from Emails|{{my.Unsubscribed}}|-25|Behavior|Unsubscribes from Any Email OR<br>Unsubscibe = TRUE|Trigger|Once|
 
-##### Visited Booth - Field / Conference / Virtual Sponsorship   
-
-This [smart campaign](https://page.gitlab.com/#SC7097A1) is only triggered when the **Program Status** of *ANY* program is changed IN MARKETO to:  
-- `Virtual Sponsorship > Visited Booth`
-- `Field Event > Visited Booth`
-- `Conference > Visited Booth`
-
-When the workflow runs it adds **30 points** to the `Person Score`. A person record can flow through this smart campaign workflow **every time** it is triggered.
-
-##### Follow Up Requested - Field / Owned / Conference / Speaking Session / Virtual Sponsorship
-
-This [smart campaign](https://page.gitlab.com/#SC7098A1) is only triggered when the **Program Status** of *ANY* program is changed IN MARKETO to: 
-- `Virtual Sponsorship > Follow Up Requested`
-- `Speaking Session > Follow Up Requested`
-- `Owned Event > Follow Up Requested`
-- `Field Event > Follow Up Requested`
-- `Conference > Follow Up Requested`
-
-When the workflow runs it adds **40 points** to the `Person Score`. A person record can flow through this smart campaign workflow **every time** it is triggered.
 
 ### Folder Structure
 
@@ -113,19 +95,22 @@ Below is the folder structure to hold and categorize different operational progr
 
 - Active Marketing Programs
     - Account Based Marketing (ABM)
-    - Conferences
+    - Conference
     - Emails
-        - Newsletters
-        - Security
         - Adhoc Emails
-    - Field Events
+        - General Newsletter (Bi-weekly)
+        - Remote Newsletter (Monthly)
+        - Security Releases
+    - Field Event
     - Gated Content
     - Integrated Campaigns
     - Nurtures
     - Owned Events
     - Virtual Events
         - GitLab Webcasts
-        - Virtual Sponsorships
+        - On Demand Reseller Webcasts
+        - Sponsored Virtual Conference
+        - Sponsored Webcast
     - Web Forms
 - Operational - Do not edit
     - Data Management
