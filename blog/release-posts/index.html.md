@@ -70,10 +70,9 @@ _**Note:** The specific steps that should be followed, when they are due, and th
 
 ### Release Post Manager
 
-Each month a Product Manager will lead the release post, as defined in the [Release Post Scheduling page](managers/). The Release Post Manager is listed as the Author of the release post when the post is published.
+Each month a Product Manager will lead the release post, as defined in the [Release Post Scheduling page](managers/). The Release Post Manager is listed as the Author of the release post when the post is published. Each month a Product Manager also acts as a shadow to support the Release Post Manager tasks if needed, act as back up on decisions in absence of the Release Post Manager and prepare to run the next release post. By shadowing the month prior to leading the effort, Product Managers are prepared and aware of any shifts in processes or optimizations needed since the last time they participated.
 
-Product Managers can volunteer for any release that doesn't have someone assigned yet.
-Otherwise, they will be assigned using a fair scheduling principle:
+Product Managers can volunteer for any release that doesn't have someone assigned yet. To add yourself as release post manager or release post manager's shadow, simply do an MR to add your name to [Release Post Scheduling page](managers/). Otherwise, PMs will be assigned using a fair scheduling principle:
 
 1. Members that never managed a release post before
 1. Members that have the longest interval since they managed their last release post
@@ -229,7 +228,7 @@ The release post manager, the Messaging lead and the TW lead will need to commun
 
 #### Content reviews
 
-The due dates for various reviews across all participants can be found on the release post MR and release post item MR templates (#templates). PM contributors are encouraged to cease attempts to add new content blocks after the final merge deadline of the 17th, and especially after final content assempbly happens at 8 AM PT (3 PM UTC). But if highly  impactful features are released it is up to the discretion of the Release Post Manager to work with the PM and Messaging lead to add more content blocks up until the 21st.
+The due dates for various reviews across all participants can be found on the release post MR and release post item MR templates (#templates). PM contributors are encouraged to cease attempts to add new content blocks after the final merge deadline of the 17th, and especially after final content assembly happens at 8 AM PT (3 PM UTC). But if highly  impactful features are released it is up to the discretion of the Release Post Manager to work with the PM and Messaging lead to add more content blocks up until the 21st.
 
 Keeping an eye on the various content reviews  (TW, PMM and Director) for the individual release post items (content block MRs) is the responsiblity of PM contributor. However, it is recommended that the Release Post Manager keep an eye on how many items are not yet marked with the Ready label on the 10th of the month or not yet merged on the 16th of the month, and check in with PMs  in Slack Release Post channel to support and clear hurdles if needed. A really easy way to do this is to keep your eyes on the [Preview page](https://about.gitlab.com/releases/gitlab-com/) and copy edit and link check items as new items appear.
 
@@ -310,7 +309,7 @@ For more guidance about what to include in the release post please reference the
 
 When writing your content blocks, be sure to reference [Writing release blog posts](https://about.gitlab.com/handbook/product/communication/#writing-release-blog-posts) and [Writing about features](https://about.gitlab.com/handbook/product/communication/#writing-about-features) to ensure your release post item writeups align with how GitLab communicates. This will also ensure a smoother and more speedy review process for your release post items.
 
-PM contributors are encouraged to use disreation if wanting to add new content blocks after the final merge deadline of the 17th, and especially after final content assempbly happens at 8 AM PST (3 PM UTC). But if if highly  impactful features are released that can not wait till the next blog post, PMs shoudl reach out and coordinate with the Release Post Manager. It is up to the discretion of the Release Post Manager to work with the PM and Messaging lead to add more content blocks up until the 21st.
+PM contributors are encouraged to use disreation if wanting to add new content blocks after the final merge deadline of the 17th, and especially after final content assembly happens at 8 AM PST (3 PM UTC). But if if highly  impactful features are released that can not wait till the next blog post, PMs shoudl reach out and coordinate with the Release Post Manager. It is up to the discretion of the Release Post Manager to work with the PM and Messaging lead to add more content blocks up until the 21st.
 
 #### Primary vs Secondary
 
