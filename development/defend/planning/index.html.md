@@ -179,7 +179,7 @@ Anything larger than 5 should be broken down whenever possible.
 Defend issues follow the [labels defined in the Contribution Guide](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/issue_workflow.md#labels),
 specifically the `~frontend` and `~backend` Specialization labels.
 
-When an issue has both Specialization labels, and the size of the effort does not warrant breaking the issue into more than one issue, the weight can be broken down into
+When an issue has both Specialization labels, the weight can be broken down into
 [`~backend-weight`](https://gitlab.com/gitlab-org/gitlab/-/labels?utf8=%E2%9C%93&subscribed=&search=backend-weight)
 and
 [`~frontend-weight`](https://gitlab.com/gitlab-org/gitlab/-/labels?utf8=%E2%9C%93&subscribed=&search=frontend-weight).
