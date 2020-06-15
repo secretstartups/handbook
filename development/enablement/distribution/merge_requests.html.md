@@ -15,7 +15,9 @@ Merge Requests are the responsibility of all Distribution Engineers. For the mos
 
 ## Reviewers
 
-By default, every Distribution Engineer team who is not a Maintainer on a project should consider themselves a Reviewer. You are encouraged to spend some of your time looking at unassigned Merge Requests in any of our [projects](https://about.gitlab.com/handbook/engineering/development/enablement/distribution/#projects), and working with contributors to ensure they meet our standards, before passing them on to a Maintainer for final review and merge.
+By default, every Distribution Engineer team who is not a Maintainer on a project should consider themselves a Reviewer. You are encouraged to spend some of your time looking at unassigned Merge Requests in any of our [projects](https://about.gitlab.com/handbook/engineering/development/enablement/distribution/#projects).
+
+Reviewers are responsible for working with contributors to ensure that changes meet our standards, before approving and passing them on to a Maintainer for final review and merge. When you encounter a situation as Reviewer where you are unsure whether something meets our standards, ping a Maintainer directly within the Merge Request with the question.
 
 Additionally, in the spirit of "everyone can contribute", anyone who is interested is encouraged to be a Reviewer. There should be no barrier preventing anyone from reviewing available merge requests. We encourage any interested party to participate.
 
@@ -37,7 +39,7 @@ If a merge request is assigned directly to you as a Maintainer, you are encourag
 1. When ready for review, the Author applies the "Workflow::ready for review" label.
 1. When they are able to work on the merge request, a Reviewer assigns it to themselves, and adds the "Workflow::in review" label.
 1. The Reviewer works with the Author to get it to a state where they approve it. At this stage, it is expected that the Author and the Reviewer will assign the merge request back and forth as appropriate.
-1. Once approved, the Reviewer assigns the merge request to a Maintainer for final review/merge. If the Maintainer has any comments, then they work with the Author to clarify.
+1. Once approved, the Reviewer chooses and assigns the merge request to a Maintainer for final review/merge. If the Maintainer has any comments, then they work with the Author to clarify.
 
 **NOTE**: If you are working on a merge request that requires a response quicker than the [First-response SLO](https://about.gitlab.com/handbook/engineering/workflow/code-review/#first-response-slo), please `@` mention the `gitlab-org/distribution` group in order to alert the Distribution team.
 
