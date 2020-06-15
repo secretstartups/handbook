@@ -252,7 +252,8 @@ All production servers managed by chef have a base role that configures each ser
 to `/var/log/unattended-upgrades/*.log`.
 
 Unattended upgrades is configured to automatically patch all security upgrades for packages with the exception of the GitLab omnibus package.
-Critical security releases for GitLab are deployed to GitLab by a separate process. You can read more about that process in the [release docs](https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/process.md#critical-security-releases).
+
+The critical change process is described in the [emergency change process](/handbook/engineering/infrastructure/emergency-change-process) overview.
 
 ### Patching Validation
 
