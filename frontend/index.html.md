@@ -59,7 +59,7 @@ fun and quirkiness to our team calls (so that we can learn more about each other
 **How does it work**
 - Winner of the previous theme will determine the theme of the next month
 - Theme will be announced a few weeks before the next month
-- Everyone in the call should write down who they think is the winner on a piece of paper and reveal it all at once (to prevent voting bias) during the voting
+- Everyone in the call should write down who they think is the winner in the zoom chat and reveal it all at once (to prevent voting bias) during the voting
 
 | Date | Theme | Winner |
 |---|---|---|
@@ -92,7 +92,8 @@ fun and quirkiness to our team calls (so that we can learn more about each other
 | 2020-03-03 | What is your favourite food to make? | Chris B |
 | 2020-04-06 | What do you listen to while you are working? | Coung |
 | 2020-05-05 | What skill would you like to master? | Andrew |
-| 2020-06-02 | [Describe your perfect date](https://www.youtube.com/watch?v=-BNwiqDGz5g) | ? |
+| 2020-06-02 | [Describe your perfect date](https://www.youtube.com/watch?v=-BNwiqDGz5g) | Sam |
+| 2020-07-07 | Which historical figure would you most like to go for a drink with? | ? |
 
 ### Frontend calendar
 
