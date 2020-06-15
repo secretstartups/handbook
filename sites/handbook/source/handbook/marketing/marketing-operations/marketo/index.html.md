@@ -12,7 +12,7 @@ title: "Marketo"
 ### Tools Uses  
 
 ### Forms   
-Nearly all the forms on our website (`about.gitlab.com`) are Marketo embedded forms. Marketing Operations is responsible for maintaining existing forms and creating any new forms.   
+Nearly all the forms on our website (`about.gitlab.com`) are Marketo embedded forms. Marketing Operations is responsible for maintaining existing forms and creating any new forms. If you need a new form created, please open a [form creation issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request). 
 
 All forms should follow these guidelines:  
 - Field labels are always ALL CAPS
@@ -25,7 +25,6 @@ All forms should follow these guidelines:
 
 For more information on website form management [click here](https://about.gitlab.com/handbook/marketing/marketing-operations/#website-form-management).
 
-If you need a new form created, please open this [form creation issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request). 
 
 ### Smart Campaigns - Operational 
 
@@ -120,6 +119,19 @@ Below is the folder structure to hold and categorize different operational progr
 
 *Nested under each folder there are programs. Quarterly folders are created at the end of the quarter to help with organization. Quarterly folders will be archived after two quarters. In the future if we have additional types of folders to add, we can do so.* 
 
+### Account Based Marketing List   
+
+ABM lists are built by request for the Field Marketing and Marketing Program team to target & send emails/invitations to accounts deemed to be high priority by Sales. 
+The **MktgOps** team is responsible for creating & maintaining these lists. 
+
+If a new ABM list is needed, please open an issue in the Marketing Operations project & utilize the [DMA_request issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=dma_request).
+
+### Geographic DMA List   
+
+The Geographic DMA (direct marketing area) were built for the Field Marketing and Marketing Program team to target & send emails/invitations related to Field &/or Corporate marketing events. The **MktgOps** team is responsible for creating & maintaining these lists.  You can find these lists in the `Database` of Marketo in the `Geographic DMA List` [Folder](https://app-ab13.marketo.com/#SL52900024A1). 
+
+If a new DMA list is needed, please open an issue in the Marketing Operations project & utilize the [DMA_request issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=dma_request). 
+
 ### Targeted Email Lists
 The Field Marketing and Marketing Program teams use targeted email lists as a tool when pursuing specific regions, sectors or companies. The Marketing Operations team will handle the creation of targeted email lists in Marketo after they are requested by the Field Marketing and Program Managers via an issue in the Marketing Operations project. Procedures for these targeted lists are as follows:
 
@@ -133,112 +145,4 @@ The Field Marketing and Marketing Program teams use targeted email lists as a to
 * List request is required 7 days prior to email deployment - FMM / MPM
 * Final Smart List is available 2 days prior to email deployment - MOps
 
-### Geographic DMA List   
 
-The Geographic DMA (direct marketing area) were built for the Field Marketing and Marketing Program team to target & send emails/invitations related to Field &/or Corporate marketing events. 
-The **MktgOps** team is responsible for creating & maintaining these lists. 
-
-If a new DMA list is needed, please open an issue in the Marketing Operations project & utilize the [DMA_request issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=dma_request). 
-
-#### AMER
-##### East
-- Atlanta, Geogia
-- Baltimore, Maryland
-- Boston, Massachusetts 
-- Charlotte, North Carolina
-- Chicago, Illinois
-- Cincinnati, Ohio
-- Dallas, Texas
-- District Of Columbia
-- Houston, Texas
-- Maryland (Eastern area, PubSec)
-- Miami, Fla
-- Montreal, Quebec, Canada
-- Nashville, Tennessee
-- New York City
-- Philadelphia, Pennsylvania 
-- Quebec City, Quebec, Canada
-- Raleigh, North Carolina
-- San Antonio, Texas
-- Tampa, Florida
-- Toronto, Ontario, Canada
-- Virginia (Northern area, PubSec)
-- Virginia (Southeast area, PubSec)
-
-##### West
-- Boise, Idaho
-- Calgary, Alberta, Canada
-- Denver, Colorado
-- Des Moines, Iowa
-- Irvine, California
-- Los Angeles, California
-- Minneapolis, Minnesota
-- Phoenix, Arizona
-- Portland, Oregon
-- Salt Lake City, Utah
-- San Diego, California
-- San Francisco, California
-- San Jose, California
-- Seattle, Washington
-- St. Louis, Missouri
-- Vancouver, British Columbia, Canada
-
-#### APAC
-- Adelaide, Australia
-- Auckland, New Zealand
-- Bangalore, India
-- Bangkok, Thailand
-- Beijing, China
-- Brisbane, Australia
-- Busan, South Korea
-- Canberra, Australia
-- Chennai, India
-- Christchurch, New Zealand
-- Darwin, Australia
-- Guangzhou, China
-- Hanoi, Vietnam
-- Ho Chi Minh City / Saigon, Vietnam
-- Hobart, Australia
-- Hong Kong
-- Kolkata, India
-- Kowloon, Hong Kong
-- Kuala Lumpur, Malaysia
-- Manila, Philippines
-- Melbourne, Australia
-- Mumbai, India
-- New Delhi, India
-- Oksaka, Japan
-- Perth, Australia
-- Quezon City, Philippines
-- Seoul, South Korea
-- Shanghai, China
-- Shenzen, China
-- Singapore
-- Sydney, Australia
-- Tianjin, China
-- Tokyo, Japan
-- Wellington, New Zealand
-- Yokohama, Japan
-
-#### EMEA
-- All Netherlands
-- All of United Kingdom
-- Amsterdam, Netherlands
-- Barcelona, Spain
-- Berlin, Germany
-- Cape Town, South Africa
-- Helsinki, Finland
-- London, United Kingdom
-- Manchester, United Kingdom
-- Munich, Germany
-- Stockholm, Sweden
-- Stuttgart, Germany
-- Toulouse, France
-- Vienna, Austria
-
-### Account Based Marketing List   
-
-ABM lists are built by request for the Field Marketing and Marketing Program team to target & send emails/invitations to accounts deemed to be high priority by Sales. 
-The **MktgOps** team is responsible for creating & maintaining these lists. 
-
-If a new ABM list is needed, please open an issue in the Marketing Operations project & utilize the [DMA_request issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=dma_request).
