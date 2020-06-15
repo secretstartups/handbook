@@ -28,7 +28,7 @@ The Static Analysis group largely follows GitLab's [Product Development Flow](/h
 ### Community Contributions
 
 The Static Analysis group is actively reserving capacity each iteration to be responsive to MRs 
-from the community. Each backend engineer in the group will serve as the Community Manager on a rotating basis. The Community Manager has the following responsibilities, in priority order:
+from the community. Each backend engineer in the group will serve as the [Community Merge Request Coach](https://about.gitlab.com/job-families/expert/merge-request-coach/) on a rotating basis. The Community Merge Request Coach has the following responsibilities, in priority order:
 
 1. Triage and work with community contributors to help drive their MRs to completion.
 1. Release feature(s) to core.
