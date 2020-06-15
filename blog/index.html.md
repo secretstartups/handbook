@@ -1097,6 +1097,16 @@ You might find the following video helpful:
 </figure>
 <!-- blank line -->
 
+
+#### If the Review App is missing
+
+The website and blog posts are deployed as web application into CI/CD environments. For cost savings, idle deployments can be stopped automatically causing halted review apps.
+
+In order to restart the review app, click on the last pipeline icon and retry the `review` job. This will re-deploy the environment and enable the review app in the MR again.
+
+![Restart Review App](/images/handbook/marketing/review-app-restart.png){: .shadow.medium.center}
+
+
 #### Making changes to your blog post
 
 If you need to make changes to your file, you can edit it by clicking on the edit button, which will take you to the same interface as when you added your new file. Just make your changes, edit the commit message to say what you did and hit `Commit changes`.
