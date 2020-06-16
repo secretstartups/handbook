@@ -210,6 +210,7 @@ The below instructions apply to either livestreams to YouTube or recorded videos
 1. Drag and drop your recording into the window to upload it. Keep the privacy dropdown on the default 'Public' setting (unless there is confidential material). Use the dropdown menu to set the video to private if it the video contains confidential material.
 1. While it's uploading, edit the title and description. Place "Confidential:" at the beginning of the video's title if the video will be kept private on our YouTube channel.
 1. Be sure to include relevant links (for example a handbook page or presentation) in the description, and add the video to any relevant playlists.
+2. In the "Comments and ratings" section, select "Hold potentially inappropriate comments for review" - this allows all valid comments to be posted, allowing everyone to contribute, but holds spam or derogatory comments for review. There may be videos where we do not wish to open the comments section or need to moderate each comment. If you think your video would potentially need to go this route, add your question to the #marketing Slack channel.
 1. When it is done uploading, press publish, then click on the Embed tab and copy the code, and insert that in the relevant part of the handbook or documentation.
 1. After uploading a video to the GitLab Unfiltered channel, be sure to add a link to the new video in the #content-updates channel in Slack.
 

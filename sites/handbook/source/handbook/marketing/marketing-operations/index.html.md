@@ -367,7 +367,7 @@ For **Content Syndication**, follow the instructions documented in [the Content 
 For all other campaign types, follow Steps 1-5 below. All steps are required.
 
 ##### Step 1: Clone the Marketo program indicated below
-* Sponsored Webcast: [YYYYMMDD_HostName_Topic (External Webcast Template)](https://app-ab13.marketo.com/#ME4634A1)
+* Sponsored Webcast: [YYMMDD_ExternalWebcastVendorName_Topic_Region](https://app-ab13.marketo.com/#PG5523A1)
 * Virtual Conference: [YYYYMMDD_Vendor_VirtualConfName (Virtual Conference Template)](https://app-ab13.marketo.com/#ME4739A1) 
 * Self-hosted Webcast or Self-hosted Webcast with Promotion: [YYYYMMDD_WebcastTopic_Region (Single time slot)](https://app-ab13.marketo.com/#ME3845A1)   
 * (MPM use only) Conference: [YYYYMMDD_Conference_Template](https://app-ab13.marketo.com/#ME5100A1)
@@ -402,6 +402,8 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 * Click the "Smart Campaigns" folder
 * Select the `Interesting Moments` smart campaign. 
 * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
+* Click to the "Schedule" tab and click `Activate`.
+* For Sponsored webcasts, you will also need to activate the `Processing` campaign. Select `01 Processing`
 * Click to the "Schedule" tab and click `Activate`.
 
 ##### Step 5: Update the Salesforce campaign
