@@ -162,15 +162,8 @@ and weight inflation over-emphasizes predictability.
 
 We are using the Fibonacci sequence for issue weights.
 
-The weights we use are:
-
-| Weight | Value | Description  |
-| --- | --- | --- |
-| 1 | Trivial | The problem is very well understood, no extra investigation is required, the exact solution is already known and just needs to be implemented, no surprises are expected, and no coordination with other teams or people is required.<br><br>Examples: documentation updates, bugs that have already been investigated and can be fixed with a few lines of code, technical debt that we know exactly how to address. |
-| 2 | Small | The problem is well understood and a solution is outlined, but a little bit of extra investigation will probably still be required to realize the solution.<br><br>Examples: creation of a new API endpoint or UI element exposing existing data, regular bugs or performance issues where some investigation has already taken place. |
-| 3 | Medium | Features that are well understood and relatively straightforward. Bugs that are relatively poorly understood and may not yet have a suggested solution.<br><br>Examples: regular features, potentially requiring backend and frontend work, most bugs or performance issues. |
-| 5 | Large | Features that are well understood, but known to be hard. Bugs that are very poorly understood, and will not have a suggested solution.<br><br>Examples are large features with a backend and frontend component, or bugs or performance issues that have seen some initial investigation but have not yet been reproduced or otherwise "figured out". |
-| 8 | Extra-Large | Very large features that are not very well understood and contain a large amount of hidden complexity. Many surprises are inevitable, and coordination with other teams or people is unavoidable. |
+Definitions of each numeric value are associated with the frontend-weight & backend-weight labels:
+https://gitlab.com/groups/gitlab-org/-/labels?utf8=%E2%9C%93&subscribed=&search=-weight%3A%3A 
 
 Anything larger than 5 should be broken down whenever possible.
 
