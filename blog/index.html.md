@@ -1086,6 +1086,17 @@ If the link to the review app results in the error shown below, please check tha
 
 ![review app error](/images/handbook/marketing/review-app-error.png){: .shadow.medium.center}
 
+#### If the review app is missing
+
+If you don't see `View app` button, you may need to restart the review app.* 
+
+Click on the last pipeline icon and retry the `review` job. This will re-deploy the environment and enable the review app in the MR again.
+
+![Restart Review App](/images/handbook/marketing/review-app-restart.png){: .shadow.medium.center}
+
+*The website and blog posts are deployed as web application into CI/CD environments. For cost savings, idle deployments can be stopped automatically, causing halted review apps.
+{: .note}
+
 #### If your pipeline fails
 
 If the blog post pipeline fails, it will suggest you retry, but the merge button will not be clickable. Instead, click on the red (failed) icon on your pipeline and you will see a list of builds with the failed ones on top. Click on the "retry" icon on the right to re-run the build.
@@ -1096,16 +1107,6 @@ You might find the following video helpful:
   <iframe src="https://www.youtube.com/embed/WlgH-6cX1k8" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
-
-
-#### If the Review App is missing
-
-The website and blog posts are deployed as web application into CI/CD environments. For cost savings, idle deployments can be stopped automatically causing halted review apps.
-
-In order to restart the review app, click on the last pipeline icon and retry the `review` job. This will re-deploy the environment and enable the review app in the MR again.
-
-![Restart Review App](/images/handbook/marketing/review-app-restart.png){: .shadow.medium.center}
-
 
 #### Making changes to your blog post
 
