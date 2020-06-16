@@ -44,6 +44,7 @@ I work at the intersection of culture, operations, people, talent branding, mark
 * Carta blog — [A Q&A with GitLab’s head of remote](https://carta.com/blog/gitlab-interview-covid-19-remote-landscape/)
 * Customer Centric Podcast — [Darren Murph: home is where the office is](https://customercentric.unbabel.com/podcast/darren-murph-gitlab)
 * Changelog Podcast — [Creating GitLab’s remote playbook](https://changelog.com/podcast/397)
+* The Culture Factor Podcast — [Guinness World Record, and How to Build a Strong Remote Culture by the Expert](https://podcasts.apple.com/us/podcast/guinness-world-record-how-to-build-strong-remote-culture/id1509073814?i=1000477974014)
 * Bright & Early Podcast — [Darren Murph: Remote Work at GitLab](https://www.brightandearlypodcast.com/33)
 * Working Without Borders: The Get on Board Podcast — [Darren Murph on leading a remote culture at GitLab](https://medium.com/getonbrd/working-without-borders-s01e02-darren-murph-head-of-remote-at-gitlab-5567d7c634fd)
 * Outside The Valley: [Darren Murph of GitLab - Why Companies Should Go All-Remote](https://arc.dev/blog/podcast-ep23-gitlab-darren-murph-96ggw37q6t)
