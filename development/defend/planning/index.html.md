@@ -160,12 +160,7 @@ and weight inflation over-emphasizes predictability.
 
 #### Possible Values
 
-We are using the Fibonacci sequence for issue weights.
-
-Definitions of each numeric value are associated with the frontend-weight & backend-weight labels:
-https://gitlab.com/groups/gitlab-org/-/labels?utf8=%E2%9C%93&subscribed=&search=-weight%3A%3A 
-
-Anything larger than 5 should be broken down whenever possible.
+We are using the Fibonacci sequence for issue weights. Definitions of each numeric value are associated with the [frontend-weight & backend-weight labels](https://gitlab.com/groups/gitlab-org/-/labels?utf8=%E2%9C%93&subscribed=&search=-weight%3A%3A). Anything larger than 5 should be broken down whenever possible.
 
 #### Weight Labels
 
