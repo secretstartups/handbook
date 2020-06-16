@@ -274,7 +274,6 @@ it 'is due to a bug', quarantine: {
                         type: :bug
                       }
 it 'is being worked on', quarantine: { type: :investigating }
-it 'is a new test', quarantine: { type: :new }
 context 'when these tests rely on another MR', quarantine: {
                                                  type: :waiting_on,
                                                  issue: 'https://gitlab.com/gitlab-org/gitlab/merge_requests/12345'
