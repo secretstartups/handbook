@@ -15,7 +15,7 @@ Merge Requests are the responsibility of all Distribution Engineers. For the mos
 
 ## Reviewers
 
-By default, every Distribution Engineer team who is not a Maintainer on a project should consider themselves a Reviewer. You are encouraged to spend some of your time looking at unassigned Merge Requests in any of our [projects](https://about.gitlab.com/handbook/engineering/development/enablement/distribution/#projects).
+By default, every Distribution Engineer team member who is not a Maintainer on a project should consider themselves a Reviewer. You are encouraged to spend some of your time looking at unassigned Merge Requests in any of our [projects](https://about.gitlab.com/handbook/engineering/development/enablement/distribution/#projects).
 
 Reviewers are responsible for working with contributors to ensure that changes meet our standards, before approving and passing them on to a Maintainer for final review and merge. When you encounter a situation as Reviewer where you are unsure whether something meets our standards, ping a Maintainer directly within the Merge Request with the question.
 
