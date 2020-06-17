@@ -702,7 +702,7 @@ Example:
 
   Renders:
 
-    ![Click to tweet](/images/handbook/marketing/click-to-tweet.png){: .shadow}
+  ![Click to tweet](/images/handbook/marketing/click-to-tweet.png){: .shadow}
 
 ### Merch banner and sidebar
 
