@@ -367,9 +367,9 @@ For **Content Syndication**, follow the instructions documented in [the Content 
 For all other campaign types, follow Steps 1-5 below. All steps are required.
 
 ##### Step 1: Clone the Marketo program indicated below
-* Sponsored Webcast: [YYMMDD_ExternalWebcastVendorName_Topic_Region](https://app-ab13.marketo.com/#PG5523A1)
-* Virtual Conference: [YYYYMMDD_Vendor_VirtualConfName (Virtual Conference Template)](https://app-ab13.marketo.com/#ME4739A1) 
-* Self-hosted Webcast or Self-hosted Webcast with Promotion: [YYYYMMDD_WebcastTopic_Region (Single time slot)](https://app-ab13.marketo.com/#ME3845A1)   
+* Sponsored Webcast: [YYYYMMDD_HostName_Topic (External Webcast Template)](https://app-ab13.marketo.com/#ME4634A1)
+* Virtual Conference: [YYYYMMDD_Vendor_VirtualConfName (Virtual Conference Template)](https://app-ab13.marketo.com/#ME5121A1) 
+* Self-hosted Webcast or Self-hosted Webcast with Promotion: [YYYYMMDD_SelfServiceTopic_Region](https://app-ab13.marketo.com/#ME5143A1)   
 * (MPM use only) Conference: [YYYYMMDD_Conference_Template](https://app-ab13.marketo.com/#ME5100A1)
 * (MPM use only) Conference Speaking Session: [YYYYMMDD_SpeakingSession_Template](https://app-ab13.marketo.com/#ME5092A1)
 * (MPM use only) Field Event: [YYYYMMDD_FieldEvent_Template](https://app-ab13.marketo.com/#ME5083A1)
@@ -377,8 +377,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 * (MPM use only) PathFactory Listener: [TEMPLATE - `PF - Asset Type - Name of Asset`](https://app-ab13.marketo.com/#PG3875A1)
 * (MPM use only) Integrated Campaign: [FY20IntegratedCampaign_Template](https://app-ab13.marketo.com/#PG4924A1)
 * (MPM use only) Owned Event: [YYYYMMDD_OwnedEvent_Template](https://app-ab13.marketo.com/#ME4722A1)
-* (MPM use only) GitLab Hosted Webcast (single timeslot): [YYYYMMDD_WebcastTopic_Region (Single time slot)](https://app-ab13.marketo.com/#ME3845A1)
-* (MPM use only) GitLab Hosted Webcast (multi timeslot): [YYYYMMDD_WebcastTopic_Region (Multiple Time Slot)](https://app-ab13.marketo.com/#MF3195A1)
+* (MPM use only) GitLab Hosted Webcast (single timeslot): [YYYYMMDD_WebcastTopic_Region](https://app-ab13.marketo.com/#ME5512A1)
 * **Name the program using the campaign tag**
 
 ##### Step 2: Sync to Salesforce
@@ -389,12 +388,9 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 ##### Step 3: Update Marketo tokens
 * Complete the information for each token. Instructions for what to enter for each token are included in the template.
    * Note that it is important that all tokens are completed as the "Interesting Moments" Smart Campaigns pushes information to Salesforce based on the tokens. Depending on the campaign, some auto-responders and emails rely on tokens as well.
-   * Self-hosted Webcast or Self-Hosted Webcast with Promotion: You do not need to update the following tokens:
-        * {{my.apiKey}} - Leave this as-is, no changes
-        * {{my.apiSecret}} - Leave this as-is, no changes
-        * ((my.email header image url}} - You will need this if you had custom images created. Otherwise, an MPM can help on a generic image.
-        * {{my.ondemandurl}} - This will be entered AFTER the event date. It is the link to the recorded webcast.
-        * {{my.zoomWebinarId}} - Leave this blank. 
+   * You do not need to update the following tokens upon setup:
+        * ((my.email header image url}} - This is optional. You will need this if you had custom images created.
+        * {{my.ondemandurl}} - This will be entered AFTER the event date. It is the link to the recorded webcast. You will need to come back after the event and update this token.
 
 * Update the utm_campaign field using the following format: Campaign Tag, with no spaces, capitalization, underscores, or special characters.
 
@@ -403,7 +399,8 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 * Select the `Interesting Moments` smart campaign. 
 * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
 * Click to the "Schedule" tab and click `Activate`.
-* For Sponsored webcasts, you will also need to activate the `Processing` campaign. Select `01 Processing`
+* Select the `01 Processing` smart campaign.
+* The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
 * Click to the "Schedule" tab and click `Activate`.
 
 ##### Step 5: Update the Salesforce campaign
@@ -418,6 +415,8 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
     * Update `Region` and `Sub-region`, if these are local or targeted to a specific region
     * Update budget holder
     * Click "Save"
+
+* Add the Marketo program link and SFDC campaign link to the epic. 
 
 #### Steps to Setup Content Syndication in Marketo and SFDC
 
@@ -453,6 +452,8 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
     * Update `End Date` to 90 days from date of launch (if this is an ongoing campaign, update appropriately)
     * Upaded `Budgeted Cost` if you have the data available
     * Click Save
+
+* Add the Marketo program link and SFDC campaign link to the epic. 
 
 ## Campaigns
 Campaigns are used to track efforts of marketing tactics - field events, webcasts, content downloads. The campaign types align with how marketing tracks spend and align the way records are tracked across three of our core systems (Marketo, Salesforce and Bizible) for consistent tracking. Leveraging campaign aligns our efforts across Marketing, Sales and Finance.
