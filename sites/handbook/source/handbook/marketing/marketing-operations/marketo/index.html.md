@@ -9,7 +9,16 @@ title: "Marketo"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-### Tools Uses  
+### Marketo <> Salesforce.com Connection
+You can find a list of all Marketo fields and their corresponding mappings to SFDC [here](https://docs.google.com/spreadsheets/d/1kIKnHqjYE7GdCqxIKKjJGDzw086lB6FRyE7N-BZUqi4/edit#gid=0).
+
+When any lead/contact is created in SFDC, it will automatically sync and create in Marketo - nothing is held back. Likewise, when a lead/contact is deleted in SFDC, it will delete in Marketo as well. Alternatively, Marketo does not automatically push all records to SFDC and a deleted record in Marketo will not delete in SFDC unless specifically told to. 
+
+A lead will sync from Marketo to SFDC in these scenarios:
+1. Member of Program that is synced to SFDC
+2. When they reach `MQL` status and reach 90 points
+3. TBD (Finding all sync points is a WIP)
+
 
 ### Forms   
 Nearly all the forms on our website (`about.gitlab.com`) are Marketo embedded forms. Marketing Operations is responsible for maintaining existing forms and creating any new forms. If you need a new form created, please open a [form creation issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request). 
