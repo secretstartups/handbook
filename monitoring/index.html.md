@@ -85,6 +85,9 @@ We have 3 prometheus clusters: main prometheus, prometheus-db, and prometheus-ap
 - [prometheus-db](https://prometheus-db.gprd.gitlab.net/graph): It collects Postgresql database related [metrics](https://prometheus-db.gprd.gitlab.net/targets)  such as pg-bouncer exporter and postgres-exporter.
 - [prometheus-app](https://prometheus-app.gprd.gitlab.net/graph): It collects application related [metrics](https://prometheus-app.gprd.gitlab.net/targets).
 
+#### Thanos
+
+[Thanos Query](https://thanos-query.ops.gitlab.net) can be used to query metrics aggregated across Prometheus clusters.
 
 #### [Public Monitoring Infrastructure](https://dashboards.gitlab.com/)
 
