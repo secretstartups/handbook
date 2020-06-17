@@ -635,6 +635,12 @@ In the below example, the following was included in the blog post's [frontmatter
 
 ![Hero CTA preview](/images/handbook/marketing/hero-cta.png){:.shadow}
 
+#### Comments
+
+Comments are present on all posts by default. In the rare case that you want to disable comments on a particular blog post, you can do so by adding a line to the frontmatter: `comments: false`
+
+Please do this only with good reason, as comments are an important source of feedback and engagement on blog posts.
+
 #### EE trial banner
 To not display the EE trial banner on the blog post, set `ee_cta` to `false` in the frontmatter. It is set to true by default, so there's no need to add `ee_cta: true` to the frontmatter. Only set to false on the rare occasion you have a strong reason to not display the banner (usually in the case of posts that are for developers and our open source community).
 
@@ -795,11 +801,6 @@ merch_four:
 #### Requesting new merchandise 
 
 If you have a new asset you'd like to promote with merchandise on the blog, please open an issue in the Corporate Marketing project using the [`blog-merch-request` issue template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=blog-merch-request). When you have filled in the required copy, please ping @luke to assign someone from the Design team to create the required images. When you have these, create a merge request to add the new merch to the www-gitlab-com repository and update the [current merch items](#current-merch-items) in this handbook. If you're not sure how, please ping @laurenbarker or @rebecca on your issue.
-
-### Comments
-
-Comments are present in all posts by default. Set it to false only if you have a strong reason to
-do so (`comments: false`). They are our best source of feedback on posts.
 
 ### Adding code blocks
 
