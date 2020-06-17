@@ -110,6 +110,7 @@ Below is the folder structure to hold and categorize different operational progr
         - On Demand Reseller Webcasts
         - Sponsored Virtual Conference
         - Sponsored Webcast
+        - Self-Service Events
     - Web Forms
 - Operational - Do not edit
     - Data Management
