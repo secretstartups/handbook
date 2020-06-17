@@ -441,7 +441,7 @@ guest: true # required when the author is not a GitLab Team Member or there is m
 ee_cta: false # required only if you do not want to display the EE-trial banner
 install_cta: false # required only if you do not want to display the 'Install GitLab' banner
 twitter_text: "Text to tweet" # optional;  If no text is provided it will use post's title.
-featured: yes # reviewer should set
+featured: yes # reviewer should set. Please remove this line if post is Unfiltered
 postType: content definition # i.e.: content marketing, product, corporate
 merch_banner: merch_one
 merch_sidebar: merch_one
@@ -513,6 +513,8 @@ In the absence of a custom cover image, you can use the default, but please only
 #### Featured
 
 Add `featured: yes` to the frontmatter of a post to create a featured post. The most recent featured post will be shown at the top of the blog in the featured section (even if more are tagged). To remove a post from being featured, remove the `featured: yes` line from the frontmatter.
+
+[Unfiltered blog](/handbook/marketing/blog/unfiltered) posts should not be featured.
 
 #### Categories
 
