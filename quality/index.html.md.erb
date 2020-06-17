@@ -126,7 +126,7 @@ We staff our department with the following gearing ratios:
 * Though there should be a 1:1 ratio between Software Engineer in Test to [Product Groups](/handbook/product/categories/#hierarchy), this is still a work in progress.
 In order to address the immediate needs of those groups which have no Software Engineer in Test assigned, we came up with "Primary" and "Secondary" ownership for Software Engineers in Test.
 * When an SET is mentioned as the Primary SET for a specific group, they are fully aligned with that specific group. They will be collaborating with the stable counterparts on:
-  * [Quad Planning](https://about.gitlab.com/handbook/product-development-flow/#build-phase-1-plan) activities
+  * [Quad Planning](/handbook/product-development-flow/#build-phase-1-plan) activities
   * MR code review of `spec/features/*` changes.
   * Team meetings of that specifc group
 * When an SET is mentioned as the Secondary SET for a specific group, they are only partially available for that group and it is more of a passive ownership.
@@ -135,16 +135,52 @@ In order to address the immediate needs of those groups which have no Software E
 
 This Primary/Secondary SET arrangement is temporary, until the Quality Engineering team is staffed to meet the above mentioned ratio.
 
-## Quality Engineering processes
+## Communication
 
-### Task management and tracking
+In addition to GitLab's [communication guidelines](/handbook/communication) and [engineering communication](/handbook/engineering/#communication), we communicate and collaborate actively across GitLab in the following venues:
+
+* [Group Conversation](group-conversation)
+* [Week-in-review](week-in-review)
+* [Department meetings](department-meetings)
+* [Engineering-wide retrospective](engineering-wide-retrospective)
+
+### Group Conversation
+
+Our [group conversation](/handbook/people-group/group-conversations/) happens every 6 weeks.
+This is a company wide discussion where we highlight achievements, challenges and progress of the department.
+You can look up the historical prep of our group conversations using the [`group-conversation`](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues?label_name[]=group-conversation) label in our issue tracker.
+
+### Week-in-review
+
+By the end of the week, we populate the [Engineering week-in-Review document**](https://docs.google.com/document/d/1EkfzI85aqw8chYDBf2GLRvjKEa3s0FWHMI3u0DIr-xg/edit) with relevant updates from our department.
+Every Monday a reminder is sent to all of engineering in the [#eng-week-in-review](https://gitlab.slack.com/messages/CJWA4E9UG) slack channel to read summarize updates in the google doc.
+
+### Department meetings
+
+We try to have as few meetings as possible. We currently have 3 recurring meetings for the whole department.
+Everyone in the Department is free to join and the agenda is available to everyone in the company. Every meeting is also recorded.
+
+1. **Quality Department Weekly**: This is where the whole department comes together weekly to discuss our day-to-day challenges, propose automation framework improvements and catchup on important announcements.
+This is also a place to connect socially with the rest of the department. This meeting happens in 2 parts to accommodate our team members across multiple timezones.
+  * Part 1 - Wednesday 0730 UTC
+  * Part 2 - Wednesday 2030 UTC (adjusts per PDT)
+1. **Engineering Productivity Team Weekly**: The Engineering Productivity team meets weekly to discuss engineering wide process improvements. This meeting is scheduled for every Tuesday at 1300 UTC.
+1. **Quality Engineering Staff Weekly**: This weekly brings together Quality Engineering's management team to discuss directional plans, long-term initiatives, hiring goals and address issues that require attention. This meeting is scheduled for every Wednesday at 1430 UTC (adjusts per PDT).
+1. **On-call triage rotation handoff** This meeting is to facilitate the handoff of the rotation between the timezones. This meeting is scheduled for every Tuesday and Thursday at 8:30am PST.
+
+### Engineering-wide retrospective
+
+The Quality team holds an asynchronous retrospective for each release.
+The process is automated and notes are captured in [Quality retrospectives](https://gitlab.com/gl-retrospectives/quality/) (GITLAB ONLY)
+
+## Task management
 
 We have top level boards (at the `gitlab-org` level) to communicate what is being worked on for all teams in quality engineering.
 Each board has a cut-line on every column that is owned by an individual. Tasks can be moved vertically to be above or below the cut-line.
 The cut-line is used to determine team member capacity, it is assigned to the `Backlog` milestone. The board itself pulls from `any milestone` as a catch-all so we have insights into past, current and future milestones.
 The cut-line also serves as a healthy discussion between engineers and their manager in their 1:1s. Every task on the board should be sized according to our [weight definitions](/handbook/engineering/quality/guidelines/#weights).
 
-#### How to use the board and cut-line
+### How to use the board and cut-line
 {:.no_toc}
 * Items above the cut-line are issues in-progress and have current priority.
 * Items under the cut-line are not being actively worked on.
@@ -156,7 +192,7 @@ The cut-line also serves as a healthy discussion between engineers and their man
 
 [Discussion on the intent and how to use the board](https://drive.google.com/open?id=1w3z9u_VCvMSpg7OOWvOW17mEMpezi6jH)
 
-#### Team boards
+### Team boards
 {:.no_toc}
 * [Dev QE Team](https://gitlab.com/groups/gitlab-org/-/boards/425899)
 * [Ops & CI/CD QE Team](https://gitlab.com/groups/gitlab-org/-/boards/978348)
@@ -166,16 +202,17 @@ The cut-line also serves as a healthy discussion between engineers and their man
 
 The boards serve as a single pane of glass view for each team and help in communicating the overall status broadly, transparently and asynchronously.
 
-### Quality department pipeline triage rotation
+
+## Quality department pipeline triage on-call rotation
 
 Every member in the Quality Department shares the responsibility of analyzing the daily QA tests against `master` and `staging` branches.
 More details can be seen [here](/handbook/engineering/quality/guidelines/#quality-department-pipeline-triage-rotation)
 
-### Development and infrastructure collaboration
+## Refinement processes
 
 We currently have 2 venues of collaboration with [Development](/handbook/engineering/development/) and [Infrastructure](/handbook/engineering/infrastructure/) departments.
 
-#### Availability and performance refinement
+### Availability and performance issues
 
 To mitigate performance issues, Quality Engineering will triage and groom performance issues for Product Management and Development via a weekly
 [Availability & Performance Refinement](https://gitlab.com/groups/gitlab-org/-/boards/1233204). The goal is to make the performance of various aspects of our application empirical with tests, environments, and metrics.
@@ -183,14 +220,14 @@ To mitigate performance issues, Quality Engineering will triage and groom perfor
 Quality Engineering will ensure that performance issues are identified and/or created on the board with the label `~performance-refinement`.
 These issues that are surfaced to the refinement meeting will be severitized according to our definitions.
 
-##### Identifying issues
+#### Identifying issues
 {:.no_toc}
 
 Quality Engineering will focus in identifying issues in the following areas:
 * Existing customer impacting performance bugs [in our issue tracker](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=performance&label_name[]=customer&label_name[]=bug).
 * Early warning on performance degradation which have not had customer exposure but poses a risk in the future.
 
-##### Refinement
+#### Refinement
 {:.no_toc}
 
 A manager in the Quality Engineering department will lead refinement with issues populated before hand in the board. Issues are walked through from high to low severity covering `~S1`, `~S2` and `~S3` performance bugs.
@@ -202,29 +239,12 @@ Deliverable of refinement each issue:
 
 Please see the [Development department's Infrastructure and Quality collaboration](/handbook/engineering/development/#continuous-delivery-infrastructure-and-quality-collaboration) handbook section.
 
-#### Development requests
+### Development request issues
 
 Quality Engineering will track productivity, metric and process automation improvement work items
 in the [Development-Quality](https://gitlab.com/groups/gitlab-org/-/boards/1262515) board to service the [Development](/handbook/engineering/development/) department.
 Requirements and requests are to be created with the label `~dev-quality`. The head of both departments will review and groom the board on an on-going basis.
 Issues will be assigned and worked on by an Engineer in the [Engineering Productivity team](engineering-productivity-team) team and [communicated broadly](/handbook/engineering/quality/triage-operations/#communicate-early-and-broadly-about-expected-automation-impact) when each work item is completed.
-
-### Meetings
-
-We try to have as few meetings as possible. We currently have 3 recurring meetings for the whole department.
-Everyone in the Department is free to join and the agenda is available to everyone in the company. Every meeting is also recorded.
-
-1. **Quality Department Weekly**: This is where the whole department comes together weekly to discuss our day-to-day challenges, propose automation framework improvements and catchup on important announcements.
-This is also a place to connect socially with the rest of the department. This meeting happens in 2 parts to accommodate our team members across multiple timezones.
-  * Part 1 - Wednesday 0730 UTC
-  * Part 2 - Wednesday 2030 UTC (adjusts per PDT)
-1. **Engineering Productivity Team Weekly**: The Engineering Productivity team meets weekly to discuss engineering wide process improvements. This meeting is scheduled for every Tuesday at 1300 UTC.
-1. **Quality Engineering Staff Weekly**: This weekly brings together Quality Engineering's management team to discuss directional plans, long-term initiatives, hiring goals and address issues that require attention. This meeting is scheduled for every Wednesday at 1430 UTC (adjusts per PDT).
-
-### Team retrospective
-
-The Quality team holds an asynchronous retrospective for each release.
-The process is automated and notes are captured in [Quality retrospectives](https://gitlab.com/gl-retrospectives/quality/) (GITLAB ONLY)
 
 ### Release process overview
 
