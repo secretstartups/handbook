@@ -700,9 +700,9 @@ Example:
   <%= partial "includes/blog/tweet", locals: { text: 'The Operations experience then should really just be that I go to work in the morning and see an email summary of what has happened, without me having to do anything', author: 'MarkPundsack' } %>
   ```
 
-  Renders:
+Renders:
 
-  ![Click to tweet](/images/handbook/marketing/click-to-tweet.png){: .shadow}
+![Click to tweet](/images/handbook/marketing/click-to-tweet.png){: .shadow}
 
 ### Merch banner and sidebar
 
