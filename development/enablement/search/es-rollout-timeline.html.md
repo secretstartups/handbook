@@ -70,28 +70,44 @@ title: Advanced Global Search Rollout on GitLab.com
   - Re-indexing does not require downtime any more on GitLab.com.
   - [Zero downtime re-indexing related work started](https://gitlab.com/groups/gitlab-org/-/epics/2752).
 
-- 2020-04-08: Enabled 271 new groups and the total number of enabled groups is [310](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/1788) (__3%__).
+- 2020-04-08: More groups were enabled and the total enabled groups is about __3%__(https://gitlab.com/gitlab-com/gl-infra/production/-/issues/1788).
 
 - 2020-04-09:
-  - Enabled 301 new groups and the total number of enabled groups is [611](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/1925) (__6%__).
+  - More groups were enabled and the total enabled groups is about __6%__(https://gitlab.com/gitlab-com/gl-infra/production/-/issues/1925).
   - Started investigating [how to speed up initial indexing of groups](https://gitlab.com/gitlab-org/gitlab/-/issues/214280)
     - Increasing the number of Sidekiq workers has been discussed.
     - [The impact on other parts of GitLab.com was also evaluated.](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/377)
 
-- 2020-04-27: Enabled 325 new groups and the total number of enabled groups is [937](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/1977) (__9%__).
+- 2020-04-27: More groups were enabled and the total enabled groups is about __9%__(https://gitlab.com/gitlab-com/gl-infra/production/-/issues/1977).
 
 - 2020-04-28: [A blog post](https://about.gitlab.com/blog/2020/04/28/elasticsearch-update/) was published which shared lessons learned from rolling out Advanced Global Search on GitLab.com.
 
-- 2020-04-30: Enabled 313 new groups and the total number of enabled groups is [1250](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2012) (__12%__).
+- 2020-04-30: More groups were enabled and the total enabled groups is about __12%__(https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2012).
 
 - 2020-05-08: Started working on [moving repository indexing jobs to Redis sorted sets](https://gitlab.com/gitlab-org/gitlab/-/issues/205178), which would help
   - Boost indexing performance.
   - Isolate incremental index update and initial indexing to separate job queues, accelerating both indexing job types.
 
-- 2020-05-20: Enabled 348 new groups and the total number of enabled groups is [1597](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2168) (__16%__).
+- 2020-05-20: More groups were enabled and the total enabled groups is about __16%__(https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2168).
 
-- 2020-05-24: Enabled 75 new groups and the total number of enabled groups is [1674](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2185) (__17%__).
+- 2020-05-24: More groups were enabled and the total enabled groups is about __17%__(https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2185).
 
 - 2020-05-27: Merged [remove partial word matching from code search](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/32771), which would help reduce the storage size significantly.
 
 - 2020-06-04: [Another re-indexing](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2213) was done on GitLab.com. The last storage optimization change was applied. It saved another 75% storage over previous optimizations and resulted in __a total of 86.1% index size reduction__.
+
+- 2020-06-09: More groups were enabled and the total enabled groups is about __20%__(https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2233).
+
+- 2020-06-10: More groups were enabled and the total enabled groups is about __21%__(https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2234).
+
+- 2020-06-14: More groups were enabled and the total enabled groups is about __22%__(https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2209). [More Sidekiq workers were added](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-com/-/merge_requests/237) and the impact on overall GitLab.com was closely monitored during this rollout. The conclusion was made that it's safe to double the number of Sidekiq workers for Elasticsearch jobs.
+
+- 2020-06-15: More groups were enabled and the total enabled groups is about __25%__(https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2275).
+
+- 2020-06-15: More groups were enabled and the total enabled groups is about __26%__(https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2276). [Number of Sidekiq workers were doubled again](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-com/-/merge_requests/266) and monitoring data showed it's safe to keep the number of Sidekiq workers used in this rollout. The increased processing power would allow much faster rollout.
+
+- 2020-06-16: More groups were enabled and the total enabled groups is about __27%__(https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2279).
+
+- 2020-06-16: More groups were enabled and the total enabled groups is about __39%__(https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2280).
+
+- 2020-06-17: More groups were enabled and the total enabled groups is about __64%__(https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2287).
