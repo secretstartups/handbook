@@ -97,8 +97,6 @@ Componentization provides scale by creating headroom throughout the freed up res
 
 Componentization is not free:
 
-
-
 - Data comes from a separate subsystem and thus a separate runtime scope, so data mappers and data composers are required to compose the data we need. The application must now take over some of those responsibilities, which had been previously delegated to the datastore. 
 - Internal latencies will increase, so caching enters the equation; cross-indexing may be required
 - Failure modes become more diffuse: a complete component failure may be straightforward to detect, but when results are returned, we must be able to ascertain said results are the full set of results expected, or be able to understand when partial results are being returned.
@@ -147,12 +145,8 @@ Sometimes, it makes sense to split a given component in terms of time. Pipelines
 
 Performance indicators are scalability-related instrumentation that enables us to understand component and application scalability limits. They’re currently being worked on by the Scalability Team:
 
-
-
 - [**https://docs.google.com/document/d/1lZ7RKtv7yCkV7MVx-7UfZZMvEB9lzLrrFDUw0oVFxXA/edit#heading=h.ibm29qjhrqeb**](https://docs.google.com/document/d/1lZ7RKtv7yCkV7MVx-7UfZZMvEB9lzLrrFDUw0oVFxXA/edit#heading=h.ibm29qjhrqeb)
 - https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/382
-
-
 
 Performance indicators lead us to prioritize scalability work.
 
