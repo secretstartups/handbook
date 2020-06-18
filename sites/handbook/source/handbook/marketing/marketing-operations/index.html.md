@@ -413,7 +413,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
     * Update the description (if any)
     * Update `Budgeted Cost`
     * Update `Region` and `Sub-region`, if these are local or targeted to a specific region
-    * Update `Budget Holder`
+    * Update `Budget Holder`, if money will be spent against the campaign. 
     * Click "Save"
 
 * Add the Marketo program link and SFDC campaign link to the epic. 
