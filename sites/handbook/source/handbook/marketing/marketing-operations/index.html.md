@@ -151,7 +151,7 @@ Periodically Marketing Operations makes significant changes to our system and pr
 Marketing Operations approves any invoices that have not already been coded and approved through a Finance issue or that exceed the original cost estimate. We make use of Tipalti for this process. Team leads will confirm that services were performed or products were received also through Tipalti. Campaign tags are used to track costs related to events and campaigns.
 
 ## Lead Scoring, Lead Lifecycle, and MQL Criteria
-A Marketo Qualified Lead is a lead that has reached a certain threshold, we have determined to be 90 points accumulated, based on demographic/firmographic and/or behavioral information. The "MQL score" is comprised of various actions and/or profile data that are weighted with positive or negative point values. Every time a `Person Score` is updated, LeanData will run a check to see if the record needs to be processed through the flow.
+A Marketing Qualified Lead is a lead that has reached a certain threshold, we have determined to be 90 points accumulated, based on demographic/firmographic and/or behavioral information. The `Person Score` is comprised of various actions and/or profile data that are weighted with positive or negative point values. Every time a `Person Score` is updated, LeanData will run a check to see if the record needs to be processed through the flow.
 
 ### MQL Scoring Model
 The overall model is based on a 100 point system. Positive and negative points are assigned to a record based on their demographic and/or firmographic information, and their behavior and/or engagement with GitLab marketing. You can find granular scoring on the [Marketo Page](/handbook/marketing/marketing-operations/marketo#mql-scoring-model).
@@ -178,7 +178,7 @@ Gearing ratios are used as business drivers to forecast long term financial goal
 
 The gearing ratios for marketing are as follows:
 
-- **Inquiries per MQL**: at the top of the marketing funnel, this is the conversion rate at which [Inquiries](/handbook/business-ops/resources/#glossary) become Marketo Qualified Leads ([MQL's](/handbook/business-ops/resources/#mql-definition)).
+- **Inquiries per MQL**: at the top of the marketing funnel, this is the conversion rate at which [Inquiries](/handbook/business-ops/resources/#glossary) become Marketing Qualified Leads ([MQL's](/handbook/marketing/marketing-operations/#lead-scoring-lead-lifecycle-and-mql-criteria)).
 
 - **MQL to SAO**: this is the mid-funnel conversion rate at which MQL's become Sales Accepted Opportunities ([SAO's](/handbook/business-ops/resources/#criteria-for-sales-accepted-opportunity-sao)).
 
@@ -262,7 +262,7 @@ dataLayer.push(
 In the event Marketo has an outage and/or the forms go offline, the forms with highest usage/visibility (Free Trial and Contact Us) have been recreated as Google forms that can be embedded on the related pages as a temporary measure to minimize any effect till the outage is past.
 
 ## Initial Source
-`Initial Source` is first "known" touch attribution or when a website visitor becomes a known name in our database, once set it should never be changed or overwritten. For this reason Salesforce is set up so that you are unable to update both the `Initial Source` and `Lead Source` fields. If merging records, keep the `Initial Source` that is oldest (or set first). When creating Lead/Contact records and you are unsure what `Initial Source` should be used, ask in the `#lead-questions` Slack channel.
+`Initial Source` is the first "known" touch attribution or when a website visitor becomes a known name in our database, once set it should never be changed or overwritten. For this reason Salesforce is set up so that you are unable to update both the `Initial Source` and `Lead Source` fields. If merging records, keep the `Initial Source` that is oldest (or set first). When creating Lead/Contact records and you are unsure what `Initial Source` should be used, ask in the `#lead-questions` Slack channel.
 
 The values listed below are the only values currently supported. If you attempt to upload or import leads or contacts into Salesforce without one of these initial sources you will encounter a validation rule error. If you think that there needs to be a new Initial Source added to this list and into Salesforce please slack the appropriate team member(s) listed in the [Tech Stack](/handbook/business-ops/tech-stack-applications/#tech-stack-applications).
 
@@ -347,7 +347,7 @@ The Lead & Contact objects in Salesforce have unified statuses with the followin
 | :--- | :--- |
 | Raw | Untouched brand new lead |
 | Inquiry | Form submission, meeting @ trade show, content offer |
-| MQL | Marketo Qualified through systematic means |
+| MQL | Marketing Qualified through systematic means |
 | Accepted | Actively working to get in touch with the lead/contact |
 | Qualifying | In 2-way conversation with lead/contact |
 | Qualified | Progressing to next step of sales funnel (typically OPP created & hand off to Sales team) |
@@ -413,7 +413,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
     * Update the description (if any)
     * Update `Budgeted Cost`
     * Update `Region` and `Sub-region`, if these are local or targeted to a specific region
-    * Update budget holder
+    * Update `Budget Holder`
     * Click "Save"
 
 * Add the Marketo program link and SFDC campaign link to the epic. 
@@ -641,23 +641,5 @@ Any webcast that is held by GitLab or a sponsored webcast with a partner. This i
 | Attended On-demand              | Watched the recorded webcast                                                          | Yes      |
 
 
-## Bizible Attribution
 
- In 4Q18, we are making updates to the Bizible Channel rules, but currently, these channels and subchannels are pulled into Salesforce and can be further filtered by using `medium` for those channels with overlap or with `Ad Campaign name` to search for specific UTMs or campaigns:
-
-| Bizible Online Channel or subchannel | Type of marketing |SFDC Marketing Channel-path |
-|---|---|---|
-|`CPC`|Google Adwords or other Paid Search|CPC.Adwords|
-|`Display`|Display ads in Doubleclick, Terminus, etc|Display|
-|`Paid Social`|Ads in Facebook or LinkedIn |Paid Social.[Name of site]|
-|`Organic`|Organic search|Marketing Site.Organic|
-|`Other`|Not specifically defined |[Name of channel].Other|
-|`Partners`|Google or events|	Marketing Site.Web Direct|
-|`Email`|Nurture, Newsletter, Outreach emails|Email.[Name of email type]|
-|`Field Event`|From Field event, will show Salesforce campaign as touchpoint source|Email.[Field Event]|
-|`Conference`|From conference, will show Salesforce campaign as touchpoint source|Conference|
-|`Social`|Any referral from any defined social media site| Social.[Name of site]|
-|`Sponsorship`|Paid sponsorships, Display, and Demand gen as well as Terminus|Sponsorship|
-|`Web Direct`|Unknown or direct (NOTE: this is not the same as Web direct/self-serve in SFDC, this is a Web referral where the original source was not captured)|Marketing Site.Web Direct|
-|`Web Referral`|Referral from any site not otherwise defined|Marketing Site.Web Referral|
 
