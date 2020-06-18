@@ -3,6 +3,8 @@ layout: handbook-page-toc
 title: "Database"
 ---
 
+
+
 We know that the database will not scale up *ad eternum*, so we have been exploring solutions involving **database sharding** to scale it out. Two proposals are under consideration:
 
 - [Namespace sharding](https://about.gitlab.com/handbook/engineering/development/enablement/database/doc/root-namespace-sharding.html), and
@@ -40,7 +42,7 @@ This proposal proposes federation through namespaces, so we must carefully evalu
 
 Namespaces are *relationship entitie*s, which are extremely complex to federate, as they permeate the entire stack.
 
-## Tenancy
+## Tenancy [WIP]
 
 ### Summary
 

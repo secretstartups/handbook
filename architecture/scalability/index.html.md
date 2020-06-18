@@ -33,16 +33,11 @@ Frameworks help contextualize our thinking around a problem by breaking it into 
 Under this model, the axes represent the following scalability strategies:
 
 - **`X`**-axis: **cloning**
-
-- - cloning of services and data without bias (i.e., "*like*" workers, duplicating entire datasets)
-
+  - cloning of services and data without bias (i.e., "*like*" workers, duplicating entire datasets)
 - **`Y`**-axis: **componentization**
-
-- - separation of work responsibility based on type of data and/or work performed
-
+  - separation of work responsibility based on type of data and/or work performed
 - **`Z`**-axis: **federation**
-
-- - separation based on customer or requestor bias
+  - separation based on customer or requestor bias
 
 These are well-known strategies we are intuitively familiar with. The power of formally adopting the framework lies in that we can now contextualize these strategies and potentially *consider* several moves ahead in a systematic fashion. The following figure (source: https://upload.wikimedia.org/wikipedia/commons/5/5f/Scale_Cube.png) depicts these axes:
 
