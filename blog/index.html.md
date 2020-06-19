@@ -1104,6 +1104,13 @@ Click on the last pipeline icon and retry the `review` job. This will re-deploy 
 
 If the blog post pipeline fails, it will suggest you retry, but the merge button will not be clickable. Instead, click on the red (failed) icon on your pipeline and you will see a list of builds with the failed ones on top. Click on the "retry" icon on the right to re-run the build.
 
+Common errors are:
+
+- A special character in the frontmatter keys (for example, `#`). Fix this by wrapping the text value into single quotes: `title: 'Everyone can contribute: Insights from #GitChallenge'`
+- A dangling new line in the first line. The frontmatter header needs to start with `---`.
+- The GitLab/Twitter authors have the `@` character added. This is not needed, remove the `@` character.
+
+
 You might find the following video helpful:
 <!-- blank line -->
 <figure class="video_container">
