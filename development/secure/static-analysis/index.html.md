@@ -25,6 +25,79 @@ The Static Analysis group at GitLab is charged with developing solutions which p
 The Static Analysis group largely follows GitLab's [Product Development Flow](/handbook/product-development-flow/) as well as  
 [Secure's interpretation of this workflow](/handbook/engineering/development/secure/#workflow).
 
+### Product Prioritization Labels
+
+Lorem ipsum introduction malkovich malkovich malkovich...
+
+[Issue board](https://gitlab.com/gitlab-org/gitlab/-/boards/1578273?label_name[]=group%3A%3Astatic%20analysis).
+
+#### `~SAST: Common Need`
+
+Features we expect everyone to need and use
+
+*Goal:* How do we protect from the most common security issues
+
+*Measure:* Opportunity for impact
+
+##### Types of issues
+
+* Scanner updates
+* Language coverage
+* OWASP Top 10
+* Better Vunl Metadata
+* Documentation
+
+#### `~SAST: Advanced Config`
+
+Features we don’t expect everyone to use
+
+*Goal:* Enable customization in configuration and enable advanced capabilities advanced users
+
+*Measure:* Power and flexibility
+
+##### Types of issues
+
+* Customize rulesets
+* Monorepo support
+* Security scan customization
+
+#### `~SAST: Enforce & Control`
+
+Use least disruptive settings by default and allow customizations
+
+*Goal:* Provide robust policies and controls to enforce security compliance
+
+*Measure:* Policy & Compliance
+
+##### Types of issues
+
+* New scanners
+* Policy ideas
+* Compliance features
+
+#### `~SAST: Workflow`
+
+*Goal:* Enable workflows to ensure the appropriate attention on issues and allowing them to be tracked overtime.
+
+*Measure:* Trust Scanner Issues & Track over time
+
+##### Types of issues
+
+* Speedy Scanners
+* Usage ping data
+
+#### `~SAST: Integrate`
+
+Strongly defined integration harness to make internal/external integrations easier and more conformant
+
+*Goal:* Provide defined integration point, enabling easier integrations
+
+*Measure:* Be an ecosystem player
+
+##### Types of issues
+
+* Integration related ideas
+
 ### Community Contributions
 
 The Static Analysis group is actively reserving capacity each iteration to be responsive to MRs 
