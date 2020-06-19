@@ -268,6 +268,27 @@ To that end, we will have:
   * any alerts that can have been silenced and may go handoff
   * links to specific graphs to watch for areas of concern
 
+## Communicating a change that requires Downtime ("maintenance window")
+
+From time to time we will need to run a production change that requires downtime, affecting customers and our SLO. This section covers how to successfully manage communications in these type of situations.
+
+As a reference, we should communicate ~1.5 months before the change, for a C1 that does not carry a significant architecture change. Longer preparation time is adviced if the change involves a large migration or a significant architecture change.
+
+Steps:
+* Create a Google doc with the change communication message draft. Have it reviewed by mgmt and relevant people.
+* Create an issue for the official company communication about the change.
+    * Example: https://gitlab.com/gitlab-com/gl-infra/production/-/issues/1993
+    * Try not to iterate in the Communication Issue - all the comments/changes/marks will be visible to customers.
+    * Set it to CONFIDENTIAL until the day we publish it in status.io, when we will set it to VISIBLE.
+* 1 month before the change at least (if possible):
+** Ask our TAMs in our customer success channel about their preferences on how to communicate this change to our main customers:
+    *** Make sure that our main customers TAMs (TMobile, HEB, Chegg, etc.) are included in this "ping".
+    *** They might propose that we communicate in the customer's channel about the especifics of the change. If that is the case draft a msg, agree on its content with the TAM and share it in the relevant customer Slack channels (in sync with the TAM).
+* Shortly after that, the Communication Issue should be linked to a simple post in status.io (by clicking in "new maintenance"). Share that maintenance in status.io via all the possible channels (mail, tweet, slack, etc). From there customers will be able to ask questions and comment on it. The company official way to communicate downtime to customers is via status.io.
+* From this point, when the upcoming change is already public, we should:
+    ** Check the Communication Issue periodically, to see if we have question/comments from our customers, to address them timely.
+    ** Remind customers about the upcoming change 2 weeks, 1 week, 3 days and 1 day before the change time, via status.io.
+
 # Production Change Lock (PCL)
 
 While changes we make are rigorously tested and carefully deployed, it is a good practice to temporarily halt production changes during certain events such as GitLab LiveStream, GitLab Summit and days where LOA (leave of absence), due to holidays, is high in engineering teams. We categorize these special periods of times into two buckets:
