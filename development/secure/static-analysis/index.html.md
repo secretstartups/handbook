@@ -27,7 +27,7 @@ The Static Analysis group largely follows GitLab's [Product Development Flow](/h
 
 ### Product Prioritization Labels
 
-Lorem ipsum introduction malkovich malkovich malkovich...
+We also use additional labels to categorize different types of requests. These labels represent the top areas of product impact we are currently focused on within the Static Analysis team. 
 
 [Issue board](https://gitlab.com/gitlab-org/gitlab/-/boards/1578273?label_name[]=group%3A%3Astatic%20analysis).
 
