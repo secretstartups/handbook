@@ -13,16 +13,18 @@ title: "Marketing Operations"
 
 Marketing Operations (MktgOps) supports the entire Marketing team to streamline processes and manage related tools. Due to those tools, we often support other teams at GitLab as well. MktgOps works closely with Sales Operations (SalesOps) to ensure information between systems is seamless, data is as accurate as possible and terminology is consistent in respective systems. Not only are we assisting with marketing operations but we are also involved in the operations of marketing, such as the budget and strategies.
 
+Our team is structured as business partners to the rest of Marketing - see focus next to the names below.
+
 ## Marketing Operations README's
 
-* Dara Warde
-* Claudia Beer
-* Beth Peterson
-* Amy Waller
-* Robert Kohnke
-* Nichole LaRue
-* Jameson Burton
-* [Sarah Daily](/handbook/marketing/marketing-operations/readme/sarah-daily/index.html)
+* Dara Warde, Director
+* Claudia Beer, Manager
+* Beth Peterson, Senior - SDR focus
+* Amy Waller, Senior - Campaign focus
+* [Sarah Daily](/handbook/marketing/marketing-operations/readme/sarah-daily/index.html) - Content focus
+* Nichole LaRue - SDR focus
+* Jameson Burton, Associate
+* Robert Kohnke - Reporting
 
 ## Important Resources
 - [Marketing Metrics](/handbook/marketing/marketing-operations/marketing-metrics)
@@ -106,7 +108,7 @@ We use Labels for several purposes. One is to categorize the tool or area that i
 
 *Backlog*
 
-- `MktgOps::0 - To Be Triaged`: Issue initially created, used in templates, the starting point for any label that involves MktgOps
+- `MktgOps::0 - To Be Triaged`: Issue initially created, used in templates, the starting point for any label that involves MktgOps (except for List Uploads)
 - `MktgOps::1 - Planning`: Issues that are currently being scoped/considered but are not being actively worked on.
 - `MktgOps::2 - On Deck`: Issues that have been scoped/considered and will be added to the In Process queue next. 
 - `MktgOps::5 - On Hold`: Issue that is not within existing scope of Mktg OPS current targets, blocked by MktgOps-related task/issue, or external (non-GitLab) blocker. May be a precursor to being closed out.
@@ -125,9 +127,9 @@ The MktgOps team will only create a milestone one beyond the current iteration, 
 
 A milestone cannot be closed nor marked complete until the milestone's accompanying merge request has been merged. Within every milestone there is a `WIP` merge request with all commits being changes to our handbook. All team members contribute their changes to the milestone merge request. The merge request should be tagged with marketing operations labels and the current milestone.
 
-## No Meeting Mondays
+## No Meeting Fridays
 
-The Marketing Operations team started a new experiment on 2020-04-20 to commit to no internal meetings on Mondays. Please try not to schedule meetings for team members on Mondays so they can devote time for deep work in milestone-related issues. Thanks!
+The Marketing Operations team had started an experiment on 2020-04-20 to commit to no internal meetings one day of the week. Now the entire Marketing team has moved to Focus Fridays. Please try not to schedule meetings for team members on Fridays, so they can devote time for deep work in milestone-related issues. Thanks!
 
 ### Operational Timeline of Changes  
 
@@ -142,6 +144,7 @@ Periodically Marketing Operations makes significant changes to our system and pr
 | 6110 | Marketing Site|Not used - All agency fees and contract work intended to improve the marketing site |
 | 6120 | Advertising|All media buying costs as well as agency fees and software subscriptions related to media buying |
 | 6130 | Events|All event sponsorships, booth shipping, event travel, booth design, event production as well as agency fees and software costs related to events |
+| 6135 | Swag|Any swag related expense
 | 6140 | Email|All 3rd party email sponsorships as well as agency fees and software costs related to mass email communications and marketing automation |
 | 6150 | Brand|All PR, AR, content, swag and branding costs |
 | 6160 | Prospecting|Not used - All costs related to prospecting efforts |
@@ -278,19 +281,15 @@ Status in the table below means:
 | AE Generated                    | Sourced by an Account Executive through networking or professional groups                                    | Active   |
 | CE Download                     | Downloaded CE version of GitLab                                                                              | Active   |
 | CE Usage Ping                   | Created from CE Usage Ping data                                                                              | Active   |
-| CE Version Check                | to be evaluated                                                                                              | Inactive |
 | Clearbit                        | transition to `Prospecting` -> sub field `Clearbit`                                                          | Active   |
 | Conference                      | Stopped by our booth or received through event sponsorship                                                   | Active   |
-| CORE Check-Up                   | will be activated for new records created by the Instance Review in-product                                  | Inactive |
-| Datanyze                        | transition to `Prospecting` -> sub field `Datanyze`                                                          | Active   |
+| Datanyze                        | transition to `Prospecting` -> sub field `Datanyze`                                                          | Inactive   |
 | Demo                            | Filled out form to watch demo of GitLab                                                                      | Active   |
 | DiscoverOrg                     | transition to `Prospecting` -> sub field `DiscoverOrg`                                                       | Active   |
 | Education                       | Filled out form applying to the Educational license program                                                  | Active   |
-| EE Version Check                | to be evaluated                                                                                              | Inactive |
 | Email Request                   | Used when an email was received through an alias (*will be deprecated*)                                      | Active   |
 | Email Subscription              | Subscribed to our opt-in list either in preference center or various email capture field on GitLab website   | Active   |
 | Employee Referral               | to be evaluated                                                                                              | Active   |
-| Event partner                   | to be evaluated                                                                                              | Inactive |
 | Field Event                     | Paid events we do not own but are active participant (Meetups, Breakfasts, Roadshows)                        | Active   |
 | Gated Content - General         | Download an asset that does not fit into the other Gated Content categories                                  | Active   |
 | Gated Content - eBook         | Download a digital asset categorized as an eBook                                 | Active   |
@@ -299,16 +298,13 @@ Status in the table below means:
 | Gated Content - Whitepaper     | Download a white paper                                                                                       | Active   |
 | Gemnasium                       | Previous a Gemnasium customer/prospect merged into our database when acquired                                | Active   |
 | GitLab Hosted                   | GitLab Hosted customer/user                                                                                  | Active   |
-| GitLab Subscription Portal      | Account created through the Subscription app (check for duplicates & merge record if found)                  | Inactive |
 | GitLab.com                      | Registered for GitLab.com account                                                                            | Active   |
 | Gitorious                       | Previous a Gitorios customer/prospect merged into our database                                               | Active   |
-| gmail                           | unknown, to be deprecated                                                                                    | Inactive |
 | InsideView                      | transition to `Prospecting` -> sub field `InsideView`                                                        | Inactive |
-| Leadware                        | transition to `Prospecting` -> sub field `Leadware`                                                          | Active   |
+| Leadware                        | transition to `Prospecting` -> sub field `Leadware`                                                          | Inactive   |
 | Legacy                          | to be evaluated                                                                                              | Active   |
 | LinkedIn                        | transition to `Prospecting` -> sub field `LinkedIn`                                                          | Active   |
 | Live Event                      | transition to correct category based on first event attended -> `Owned Event`; `Field Event` or `Conference` | Active   |
-| MovingtoGitLab                  | to be evaluated                                                                                              | Inactive |
 | Newsletter                      | to be evaluated                                                                                              | Active   |
 | OnlineAd                        | to be evaluated                                                                                              | Inactive |
 | OSS                             | Open Source Project records related to the OSS offer for free licensing                                      | Active   |
@@ -317,7 +313,7 @@ Status in the table below means:
 | Partner                         | GitLab partner sourced name either through their own prospecting and/or events                               | Active   |
 | Promotion                       | to be evaluated                                                                                              | Active   |
 | Prospecting                     | Account research and development prospecting work                                                           | Pending  |
-| Prospecting - LeadIQ            | transition to `Prospecting` -> sub field `LeadIQ`                                                            | Active   |
+| Prospecting - LeadIQ            | transition to `Prospecting` -> sub field `LeadIQ`                                                            | Inactive   |
 | Public Relations                | to be evaluated                                                                                              | Active   |
 | Referral                        | to be evaluated                                                                                              | Inactive |
 | Registered                      | transition to correct event type source                                                                      | Inactive |
@@ -450,7 +446,8 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
     * Update the description
     * Update `Start Date` to the date of launch
     * Update `End Date` to 90 days from date of launch (if this is an ongoing campaign, update appropriately)
-    * Upaded `Budgeted Cost` if you have the data available
+    * Update `Budgeted Cost` if you have the data available
+    * Update `Region` if you have the data available
     * Click Save
 
 * Add the Marketo program link and SFDC campaign link to the epic. 
