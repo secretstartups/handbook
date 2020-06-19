@@ -55,11 +55,11 @@ title: Developer Cheatsheet
   - `git push --force-with-lease` (force-with-lease ensures nobody else has pushed to the branch since you last pulled)
 - See [this blog post](https://about.gitlab.com/blog/2016/12/08/git-tips-and-tricks/) and our [git cheatsheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) for more git tips.
 
-### Working with Issues/MRs
+## Working with Issues/MRs
 
 * [Expanding Issue/MR Threads for Searching](https://gitlab.com/gitlab-org/gitlab/issues/38235)
 
-#### New habits
+## New habits
 
 Though the [contributor and development docs](https://docs.gitlab.com/ee/development/) are the single source of truth, there are some additional habits that may be worth developing when you're new to the code contribution process.
 
@@ -73,15 +73,29 @@ Depending on your existing habits and `git` practices the habits below may help 
 - Keep localization files up to date
     - When adding English copy, messages, or labels don't forget to [update localization files](https://docs.gitlab.com/ee/development/i18n/externalization.html#updating-the-po-files-with-the-new-content)
 
-### Dealing with Broken Master
+## Dealing with Broken Master
 
 * https://about.gitlab.com/handbook/engineering/workflow/#broken-master
 * https://about.gitlab.com/handbook/engineering/workflow/#maintaining-throughput-during-broken-master
 
-### Browser Testing
+## Browser Testing
 
 * Browser Testing: https://docs.gitlab.com/ee/development/fe_guide/index.html#browser-support
 * Dynamic element validation in E2E tests: https://docs.gitlab.com/ee/development/testing_guide/end_to_end/dynamic_element_validation.html
+
+## Links on Testing and Software Design
+
+About testing:
+
+* Vue test utils guide:  https://vue-test-utils.vuejs.org/guides/
+* Book: The way of the web tester: https://pragprog.com/titles/jrtest/
+* An essay on mocks: https://martinfowler.com/articles/mocksArentStubs.html
+* Clean architecture book: https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164
+
+Some frontendmasters workshops related to testing that I want to take after the web security workshop:
+
+* https://frontendmasters.com/courses/testing-practices-principles/
+* https://frontendmasters.com/courses/testing-javascript/
 
 ### Running Web IDE Terminal in GDK
 
