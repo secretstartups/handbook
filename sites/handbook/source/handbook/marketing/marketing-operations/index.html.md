@@ -125,9 +125,9 @@ The MktgOps team will only create a milestone one beyond the current iteration, 
 
 A milestone cannot be closed nor marked complete until the milestone's accompanying merge request has been merged. Within every milestone there is a `WIP` merge request with all commits being changes to our handbook. All team members contribute their changes to the milestone merge request. The merge request should be tagged with marketing operations labels and the current milestone.
 
-## No Meeting Fridays
+## No Meeting Mondays
 
-Please try not to schedule meetings for team members on Fridays so they can devote time for deep work in milestone-related issues. Thanks!
+The Marketing Operations team started a new experiment on 2020-04-20 to commit to no internal meetings on Mondays. Please try not to schedule meetings for team members on Mondays so they can devote time for deep work in milestone-related issues. Thanks!
 
 ### Operational Timeline of Changes  
 
