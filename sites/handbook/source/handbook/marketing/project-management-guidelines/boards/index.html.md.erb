@@ -54,6 +54,12 @@ Depending on the scope of the issues which need to be managed, the board should 
 
 The order of issues on Board Lists can be arranged by dragging and dropping them and be used to determine the relative priority of the related issues.  When an issue is moved vertically on a board, this changes the relative relationship of the issue on **ALL** boards in GitLab.
 
+#### Stay tuned for future features
+
+We're investing in boards to add cool features like
+- swimlanes
+- advanced editing of Issues and MORE
+
 ### Known limitations
 
 1. Moving issues from one list to another on a board **ONLY** makes one change (adding/removing a label, assigning/unassigning an issue).
@@ -68,8 +74,33 @@ The order of issues on Board Lists can be arranged by dragging and dropping them
 
 If the relevant issues that need to be managed in a board are at the project level, then create the board at the project.
 
-### Stay tuned for future features
+### Define Workflow and Iteration boards for each Marketing group
 
-We're investing in boards to add cool features like
-- swimlanes
-- advanced editing of Issues and MORE
+1. There should be a minimum of 2 boards per Marketing group: Workflow and Iteration.
+1. Each group should have its own label to be able to create the board
+1. Each issue the group is working on should use at the very least that label
+1. These two main issue boards should be listed on each team's section on the [Marketing handbook landing page](/handbook/marketing/).
+
+### Workflow board
+
+**Goal**: describes the task status for a given sprint.
+
+- Generally filtered by team label
+- Board scope set to the current sprint
+- Can be further filtered by assignee.
+- Uses the `mktg-status::` scoped labels as lists
+- [Workflow board example](https://gitlab.com/groups/gitlab-com/-/boards/1781956?milestone_title=%23started&&label_name[]=tech-evangelism)
+
+![Workflow board](/handbook/marketing/project-management-guidelines/images/workflow-board.png)
+
+### Iteration board
+
+**Goal**: describes the planned workload through iterations
+
+- Can be further filtered by assignee
+- Uses the [main marketing iterations](/handbook/marketing/project-management-guidelines/milestones/#iterations) as lists
+- Backlog is a milestone (permanently dragged to the left, and collapsed)
+- Optionally: at their discretion groups can add a milestones board for project milestones
+- [Iteration board example](https://gitlab.com/groups/gitlab-com/-/boards/1672643?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=tech-evangelism)  
+
+![Iteration board](/handbook/marketing/project-management-guidelines/images/iteration-board.png)
