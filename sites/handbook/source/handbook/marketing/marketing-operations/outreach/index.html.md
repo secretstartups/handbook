@@ -99,22 +99,19 @@ As such there are [sending limits built into the Outreach platform](https://supp
 * Outreach has a **hard limit** of 5,000 emails in a rolling seven day period.  
     * If you max out in Outreach, your emails will be queued to try again in 24 hours, when your account drops below this hard limit.
 
-### Outreach Automation
-Outreach will automatically update SFDC `status` and `contact status` in these scenarios.
+### Outreach Stages
+Outreach stages are a 1:1 match with SFDC Status. The rulesets help push prospects along into the correct stage/status based on their actions. This eliminates the need for triggers to match status to stage.
 
-| Trigger Name | Outreach Stage | SFDC Status | Status Reason | Conditions |
+### Outreach Automation
+Outreach will make updates based on these scenarios. Triggers fire in order of operation.
+
+| Trigger Name | Prospect Conditions | Account Conditions | Trigger Actions |
 |---|---|---|---|---|
-|01 - Operational - Added to Sequence - Accepted|`Added to Sequence`| `Accepted`| |Only if lead or contact status is `Raw`, `MQL`, or `Inquiry`. 
-|01 - Operational - Added to Sequence - Accepted|`Attempting to Contact`| `Accepted`| |Only if lead or contact status is `Raw`, `MQL`, or `Inquiry`.
-|01 - Operational - Added to Sequence - Accepted|`Unresponsive - Added to follow up`| `Accepted`| |Only if lead or contact status is `Raw`, `MQL`, or `Inquiry`.
-|02 - Operational - Responded & SDR Engaged - Qualifying|`Responded`| `Qualifying`| |Only if lead or contact status is `Raw`, `MQL`, `Inquiry`, or `Accepted`.
-|02 - Operational - Responded & SDR Engaged - Qualifying|`SDR Engaged`| `Qualifying`| |Only if lead or contact status is `Raw`, `MQL`, `Inquiry`, or `Accepted`.
-|03 - Operational - Nurture - No Response|`Unresponsive`| `Nurture`|`No response` |Only if lead or contact status is `Raw`, `MQL`, `Inquiry`, `Accepted`, or `Qualifying`.
-|03 - Operational - Nurture - No Response|`Nurture`| `Nurture`|`No response` |Only if lead or contact status is `Raw`, `MQL`, `Inquiry`, `Accepted`, or `Qualifying`.
-|04 - Operational - Nurture - Accepted|`Added to Sequence`| `Accepted`| |This will trigger if a lead or contact is in status `Nurture` and is `Added to Sequence` again, in this scenario it will remove status reason of `No response`.
-|05 - Operational - Not Interested - Unsubscribe - Unqualified|`Not Interested - Unsubscribe`| `Unqualified`|`Unsubscribe` |
-|05 - Operational - Not Interested - Unsubscribe - Unqualified|`Do Not Contact`| `Unqualified`|`Unsubscribe` |
-|06 - Operational - Attempting to Contact - Bounce - Bad Data|`Attempting to Contact - Bounce`| `Bad Data`|`Bounced email` |
+|00 - Inactive Contact and Lead|Inactive Contact or Lead Checkbox is True||Stop All Sequences
+|01 - Community Queue|Owner is Community Queue||Stop All Sequences
+|02 - Set Nurture Status Reason|Stage is `Nurture`| |Set `Nurture ` Status Reason to `No response`
+|03 - Set Unqualified Status Reason|Stage is `Unqualified`||Set `Unqualified` Status Reason to `Unsubscribe`
+|04 - Set Bad Data Status Reason|Stage is `Bad Data`||Set `Bad Data` Reason to `Bounced email`
 
 ### Outreach Merge and Delete
 

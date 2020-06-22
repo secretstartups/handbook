@@ -9,10 +9,19 @@ title: "Marketo"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-### Tools Uses  
+### Marketo <> Salesforce.com Connection
+You can find a list of all Marketo fields and their corresponding mappings to SFDC [here](https://docs.google.com/spreadsheets/d/1kIKnHqjYE7GdCqxIKKjJGDzw086lB6FRyE7N-BZUqi4/edit#gid=0).
+
+When any lead/contact is created in SFDC, it will automatically sync and create in Marketo - nothing is held back. Likewise, when a lead/contact is deleted in SFDC, it will delete in Marketo as well. Alternatively, Marketo does not automatically push all records to SFDC and a deleted record in Marketo will not delete in SFDC unless specifically told to. 
+
+A lead will sync from Marketo to SFDC in these scenarios:
+1. Member of Program that is synced to SFDC
+2. When they reach `MQL` status and reach 90 points
+3. TBD (Finding all sync points is a WIP)
+
 
 ### Forms   
-Nearly all the forms on our website (`about.gitlab.com`) are Marketo embedded forms. Marketing Operations is responsible for maintaining existing forms and creating any new forms.   
+Nearly all the forms on our website (`about.gitlab.com`) are Marketo embedded forms. Marketing Operations is responsible for maintaining existing forms and creating any new forms. If you need a new form created, please open a [form creation issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request). 
 
 All forms should follow these guidelines:  
 - Field labels are always ALL CAPS
@@ -25,7 +34,6 @@ All forms should follow these guidelines:
 
 For more information on website form management [click here](https://about.gitlab.com/handbook/marketing/marketing-operations/#website-form-management).
 
-If you need a new form created, please open this [form creation issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request). 
 
 ### Smart Campaigns - Operational 
 
@@ -56,12 +64,13 @@ The MQL scoring model below is correct as of 11 March 2020. Additional changes a
 
 |**Action**|**Token**|**Points**|**Type**|**Program Status Changes**|**Type**|**Schedule/Flow Limit**|
 |:-----:|:----------:|:-----:|:--------:|:-------------:|:-----:|:-----:|
-|Attends Webcast or Virtual Sponsorship or Self Service Virtual Event|{{my.Attends Webcast}}|+15|Behavior|Webcast > Attended<br>Virtual Sponsorship > Attended<br>Self-Service Virtual Event > Attended|Trigger|Everytime|
-|Attends on Demand Webcast or Virtual Sponsorship or Self Service Virtual Event|{{my.On Demand Webcast - Default}}|+15|Behavior|Virtual Sponsorship > Attended On-demand<br>Webcast > Attended On-demand<br>Self-Service Virtual Event > Attended On-demand|Trigger|Everytime|
-|Attends Owned Event|{{my.Owned Event - Attended}}|+75| Owned Event > Attended|Trigger|Behavior|Everytime|
-|Requested Follow up - Virtual Sponsorship, speaking session, owned event, field event, conference, survey|{{my.Live Event - Requested Follow Up}}|+100|Behavior|Virtual Sponsorship > Follow Up Requested<br>Speaking Session > Follow Up Requested<br>Owned Event > Follow Up Requested<br>Field Event > Follow Up Requested<br>Conference > Follow Up Requested<br>Survey > Requested Contact|Trigger|Everytime|
+|Attends Webcast or Virtual Sponsorship or Self Service Virtual Event or Sponsored Webcast|{{my.Attends Webcast}}|+15|Behavior|Webcast > Attended<br>Virtual Sponsorship > Attended<br>Self-Service Virtual Event > Attended<br> Sponsored Webcast > Attended|Trigger|Everytime|
+|Attends on Demand Webcast or Virtual Sponsorship or Self Service Virtual Event|{{my.On Demand Webcast - Default}}|+15|Behavior|Virtual Sponsorship > Attended On-demand<br>Webcast > Attended On-demand<br>Self-Service Virtual Event > Attended On-demand<br>Sponsored Webcast > Attended On-demand|Trigger|Everytime|
+|Attended On-demand - Hosted Elsewhere|{{my.On Demand - Hosted Elsewhere}}|-5|Behavior|Requsted via Sponsored Webcast template|Trigger|Everytime|
+|Attends Owned Event|{{my.Owned Event - Attended}}|+75|Behavior| Owned Event > Attended|Trigger|Everytime|
+|Requested Follow up - Virtual Sponsorship, speaking session, owned event, field event, conference, survey, webcast|{{my.Live Event - Requested Follow Up}}|+100|Behavior|Virtual Sponsorship > Follow Up Requested<br>Speaking Session > Follow Up Requested<br>Owned Event > Follow Up Requested<br>Field Event > Follow Up Requested<br>Conference > Follow Up Requested<br>Webcast > Follow Up Requested<br>Survey > Requested Contact|Trigger|Everytime|
 |Registered - Virtual, Webcast, Owned, Field Event|{{my.Registered - Events or Webcasts}}|+15|Behavior|Virtual Sponsorship > Registered<br>Owned Event > Registered or Waitlist<br>Webcast > Registered<br>Field Event > Registered|Trigger|Everytime|
-|Registered - Self-Service Virtual Events|{{my.Registered Self-Service Virtual Events}}|+10|Behavior|Self-Service Virtual Event > Registered|Triger|Everytime|
+|Registered - Self-Service Virtual Events|{{my.Registered Self-Service Virtual Events}}|+10|Behavior|Self-Service Virtual Event > Registered<br> Sponsored Webcast > Registered|Triger|Everytime|
 |Visited Booth - Field Events, Conference, Virtual Sponsorship|{{my.Visited Booth}}|+30|Behavior|Virtual Sponsorship > Visited Booth<br>Field Event > Visited Booth<br>Conference > Visited Booth|Trigger|Everytime|
 |Content Download - Form Fill|{{my.Content Download - Default}}|+30|Behavior|PF Content > Content Consumed OR<br>PF Specific Forms|Trigger|Everytime|
 |Content Download - High Intent|{{my.Content Download - High Intent}}|+90|Behavior|Specific Forms on pages - <br>/just-commit/reduce-cycle-time<br>/just-commit/lower-tco/<br>/just-commit/secure-apps/|Trigger|Once|
@@ -86,25 +95,6 @@ The MQL scoring model below is correct as of 11 March 2020. Additional changes a
 |Title - Developer, Engineer (including French)|{{my.Title - Low Tier}}|-10|Demographic|Title Contains: developer, engineer AND <br> Title not contains: Executive, Manager, Director |Trigger|Once|
 |Unsubscribes from Emails|{{my.Unsubscribed}}|-25|Behavior|Unsubscribes from Any Email OR<br>Unsubscibe = TRUE|Trigger|Once|
 
-##### Visited Booth - Field / Conference / Virtual Sponsorship   
-
-This [smart campaign](https://page.gitlab.com/#SC7097A1) is only triggered when the **Program Status** of *ANY* program is changed IN MARKETO to:  
-- `Virtual Sponsorship > Visited Booth`
-- `Field Event > Visited Booth`
-- `Conference > Visited Booth`
-
-When the workflow runs it adds **30 points** to the `Person Score`. A person record can flow through this smart campaign workflow **every time** it is triggered.
-
-##### Follow Up Requested - Field / Owned / Conference / Speaking Session / Virtual Sponsorship
-
-This [smart campaign](https://page.gitlab.com/#SC7098A1) is only triggered when the **Program Status** of *ANY* program is changed IN MARKETO to: 
-- `Virtual Sponsorship > Follow Up Requested`
-- `Speaking Session > Follow Up Requested`
-- `Owned Event > Follow Up Requested`
-- `Field Event > Follow Up Requested`
-- `Conference > Follow Up Requested`
-
-When the workflow runs it adds **40 points** to the `Person Score`. A person record can flow through this smart campaign workflow **every time** it is triggered.
 
 ### Folder Structure
 
@@ -113,19 +103,23 @@ Below is the folder structure to hold and categorize different operational progr
 
 - Active Marketing Programs
     - Account Based Marketing (ABM)
-    - Conferences
+    - Conference
     - Emails
-        - Newsletters
-        - Security
         - Adhoc Emails
-    - Field Events
+        - General Newsletter (Bi-weekly)
+        - Remote Newsletter (Monthly)
+        - Security Releases
+    - Field Event
     - Gated Content
     - Integrated Campaigns
     - Nurtures
     - Owned Events
     - Virtual Events
         - GitLab Webcasts
-        - Virtual Sponsorships
+        - On Demand Reseller Webcasts
+        - Sponsored Virtual Conference
+        - Sponsored Webcast
+        - Self-Service Events
     - Web Forms
 - Operational - Do not edit
     - Data Management
@@ -134,6 +128,19 @@ Below is the folder structure to hold and categorize different operational progr
 - Archive
 
 *Nested under each folder there are programs. Quarterly folders are created at the end of the quarter to help with organization. Quarterly folders will be archived after two quarters. In the future if we have additional types of folders to add, we can do so.* 
+
+### Account Based Marketing List   
+
+ABM lists are built by request for the Field Marketing and Marketing Program team to target & send emails/invitations to accounts deemed to be high priority by Sales. 
+The **MktgOps** team is responsible for creating & maintaining these lists. 
+
+If a new ABM list is needed, please open an issue in the Marketing Operations project & utilize the [DMA_request issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=dma_request).
+
+### Geographic DMA List   
+
+The Geographic DMA (direct marketing area) were built for the Field Marketing and Marketing Program team to target & send emails/invitations related to Field &/or Corporate marketing events. The **MktgOps** team is responsible for creating & maintaining these lists.  You can find these lists in the `Database` of Marketo in the `Geographic DMA List` [Folder](https://app-ab13.marketo.com/#SL52900024A1). 
+
+If a new DMA list is needed, please open an issue in the Marketing Operations project & utilize the [DMA_request issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=dma_request). 
 
 ### Targeted Email Lists
 The Field Marketing and Marketing Program teams use targeted email lists as a tool when pursuing specific regions, sectors or companies. The Marketing Operations team will handle the creation of targeted email lists in Marketo after they are requested by the Field Marketing and Program Managers via an issue in the Marketing Operations project. Procedures for these targeted lists are as follows:
@@ -148,112 +155,4 @@ The Field Marketing and Marketing Program teams use targeted email lists as a to
 * List request is required 7 days prior to email deployment - FMM / MPM
 * Final Smart List is available 2 days prior to email deployment - MOps
 
-### Geographic DMA List   
 
-The Geographic DMA (direct marketing area) were built for the Field Marketing and Marketing Program team to target & send emails/invitations related to Field &/or Corporate marketing events. 
-The **MktgOps** team is responsible for creating & maintaining these lists. 
-
-If a new DMA list is needed, please open an issue in the Marketing Operations project & utilize the [DMA_request issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=dma_request). 
-
-#### AMER
-##### East
-- Atlanta, Geogia
-- Baltimore, Maryland
-- Boston, Massachusetts 
-- Charlotte, North Carolina
-- Chicago, Illinois
-- Cincinnati, Ohio
-- Dallas, Texas
-- District Of Columbia
-- Houston, Texas
-- Maryland (Eastern area, PubSec)
-- Miami, Fla
-- Montreal, Quebec, Canada
-- Nashville, Tennessee
-- New York City
-- Philadelphia, Pennsylvania 
-- Quebec City, Quebec, Canada
-- Raleigh, North Carolina
-- San Antonio, Texas
-- Tampa, Florida
-- Toronto, Ontario, Canada
-- Virginia (Northern area, PubSec)
-- Virginia (Southeast area, PubSec)
-
-##### West
-- Boise, Idaho
-- Calgary, Alberta, Canada
-- Denver, Colorado
-- Des Moines, Iowa
-- Irvine, California
-- Los Angeles, California
-- Minneapolis, Minnesota
-- Phoenix, Arizona
-- Portland, Oregon
-- Salt Lake City, Utah
-- San Diego, California
-- San Francisco, California
-- San Jose, California
-- Seattle, Washington
-- St. Louis, Missouri
-- Vancouver, British Columbia, Canada
-
-#### APAC
-- Adelaide, Australia
-- Auckland, New Zealand
-- Bangalore, India
-- Bangkok, Thailand
-- Beijing, China
-- Brisbane, Australia
-- Busan, South Korea
-- Canberra, Australia
-- Chennai, India
-- Christchurch, New Zealand
-- Darwin, Australia
-- Guangzhou, China
-- Hanoi, Vietnam
-- Ho Chi Minh City / Saigon, Vietnam
-- Hobart, Australia
-- Hong Kong
-- Kolkata, India
-- Kowloon, Hong Kong
-- Kuala Lumpur, Malaysia
-- Manila, Philippines
-- Melbourne, Australia
-- Mumbai, India
-- New Delhi, India
-- Oksaka, Japan
-- Perth, Australia
-- Quezon City, Philippines
-- Seoul, South Korea
-- Shanghai, China
-- Shenzen, China
-- Singapore
-- Sydney, Australia
-- Tianjin, China
-- Tokyo, Japan
-- Wellington, New Zealand
-- Yokohama, Japan
-
-#### EMEA
-- All Netherlands
-- All of United Kingdom
-- Amsterdam, Netherlands
-- Barcelona, Spain
-- Berlin, Germany
-- Cape Town, South Africa
-- Helsinki, Finland
-- London, United Kingdom
-- Manchester, United Kingdom
-- Munich, Germany
-- Stockholm, Sweden
-- Stuttgart, Germany
-- Toulouse, France
-- Vienna, Austria
-
-### Account Based Marketing List   
-
-ABM lists are built by request for the Field Marketing and Marketing Program team to target & send emails/invitations to accounts deemed to be high priority by Sales. 
-The **MktgOps** team is responsible for creating & maintaining these lists. 
-
-If a new ABM list is needed, please open an issue in the Marketing Operations project & utilize the [DMA_request issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=dma_request).

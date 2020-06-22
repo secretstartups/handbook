@@ -41,7 +41,7 @@ The main tools used by Marketing and integrated with Salesforce are:
 - [Drift](/handbook/marketing/marketing-operations/drift)
 - [LeanData](/handbook/marketing/marketing-operations/leandata)
 - [PathFactory](/handbook/marketing/marketing-operations/pathfactory)
-- Sigstr
+- [Sigstr](/handbook/marketing/marketing-operations/sigstr)
 - Demandbase
 - DiscoverOrg
 - LinkedIn Sales Navigator
