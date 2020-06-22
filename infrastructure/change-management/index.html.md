@@ -281,7 +281,7 @@ Steps:
     * Try not to iterate in the Communication Issue - all the comments/changes/marks will be visible to customers.
     * Set it to CONFIDENTIAL until the day we publish it in status.io, when we will set it to VISIBLE.
 * 1 month before the change at least (if possible):
-** Ask our TAMs in our customer success channel about their preferences on how to communicate this change to our main customers:
+** Ask our TAMs in our #customer-success channel about their preferences on how to communicate this change to our main customers:
     *** Make sure that our main customers TAMs (TMobile, HEB, Chegg, etc.) are included in this "ping".
     *** They might propose that we communicate in the customer's channel about the especifics of the change. If that is the case draft a msg, agree on its content with the TAM and share it in the relevant customer Slack channels (in sync with the TAM).
 * Shortly after that, the Communication Issue should be linked to a simple post in status.io (by clicking in "new maintenance"). Share that maintenance in status.io via all the possible channels (mail, tweet, slack, etc). From there customers will be able to ask questions and comment on it. The company official way to communicate downtime to customers is via status.io.
