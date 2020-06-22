@@ -5,8 +5,8 @@ title: "Scalability"
 
 **Scalability is a strategic practice**. We need
 
-*  A framework to evaluate decisions in context
-* Best practices guidelines to lead our scalability design
+*  A framework to evaluate technical scalability-related decisions in context
+* Best practices guidelines to lead our scalability design and implementation
 
 
 
@@ -55,14 +55,14 @@ The Scale Cube can be applied to any component in all iterations.
 
 ## Example: Postgres current state
 
-GitLab.com is currently running at `[1,0,0]`: the database is composed of N fully replicated instances (a primary RW with several RO secondaries), each of which contains a duplicate of the entire dataset. This configuration can be scaled vertically for the RW workload by adding more hardware, and horizontally for the RO workload (increased query capacity) by adding more replicas.
+GitLab.com is currently running at `[1,1,0]`: 
 
-Two limiting factors will play a role:
+* `X`-axis: The database is composed of N fully replicated instances (a primary RW with several RO secondaries), each of which contains a duplicate of the entire dataset. This configuration can be scaled vertically for the RW workload by adding more hardware, and horizontally for the RO workload (increased query capacity) by adding more replicas. Two limiting factors will play a role:
+  * RW capacity is directly proportional to hardware capacity (vertical scaling)
+  * RO capacity will eventually run into the limits imposed by replication lag (CAP will play a role)
+* `Y`-axis: We are already migrating some data (diffs) off the database thorugh componentization, albeit without creating a service
 
-- RW capacity is directly proportional to hardware capacity (vertical scaling)
-- RO capacity will eventually run into the limits imposed by replication lag (CAP will play a role)
-
-A [recent analysis](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/10340) indicates our database capacity is well beyond the 12-month range (and estimate that will be updated weekly). As we ponder scalability options, the questions are are asking is whether the next iteration implements `[1,1,0]` or `[1,0,1]`. Current proposals essentially advocate for the latter strategy, but there is a case to be made for picking bits and pieces of each to get started on our journey of scalability as a practice.
+A [recent analysis](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/10340) indicates our database capacity is well beyond the 12-month range (and estimate that will be updated weekly). As we ponder scalability options, the question is whether the next iteration implements `[1,2,0]` or `[1,1,1]`. Current proposals essentially advocate for the latter strategy, but there is a case to be made for choosing an entirely different direction.
 
 
 

@@ -20,15 +20,13 @@ Which one of the two sharding proposals should we choose? They’re both sensibl
 
 # Proposals
 
-Both database sharding proposals advocate for splitting along the **`z`**-axis. This section evaluates the proposals through the lens of the scalability framework and its best practices.
+Both proposals advocate for splitting along the **`z`**-axis through sharding. This section evaluates the proposals through the lens of the scalability framework and its best practices.
 
 ## Namespaces [WIP]
 
 ### Summary
 
-The Namespace sharding proposal seems logical at the outset: assuming we do not wish to break up GitLab.com into subdomains, namespaces are the next highest level construct available. 
-
-* Namespaces are a relationship entity: their primary (and only?) function is that of grouping a set of users and projects (with associated permissions, labels, etc).
+The Namespace sharding proposal seems logical at the outset: it avoids breaking up GitLab.com into subdomains, so namespaces are the next highest level entity available. However, namespaces are relationship entities: their primary (and only?) function is that of grouping a set of users and projects (with associated permissions, labels, etc), which runs squarely against `[NFR]`. Unfortunately, the proposal arbitrarily chooses root namespaces as the federation dimension, so in reality, only a subset of namespaces would be sharded. This adds complexity, as we not longer have a variable that works *all the time*.
 
 ### Analysis
 
@@ -60,16 +58,16 @@ CBF indicates we should componetize before we federate, but the tenant proposal 
 
 The proposal outlines several benefits: 
 
-* Technically straightforward: this argument is somewhat debatable, as we have queries all over the code base that will now need to take into account the `tenant_id`.
-* Sharding on a single key: most federated sharing occurs this way, so this probably isn't an inherent benefit. It is perhaps more concreate that namespaces, since there is only one level to consider (this he domain).
-* Minimal application drift (unsure why another approach would cause any drift)
+* Technically straightforward: this argument is somewhat debatable, as we have queries all over the code base that will now need to take into account the `tenant_id`. Intuitively, a change that affects the entire stack is risky: we are bound to find edge cases given the swatch of the application we intend to change,
+* Sharding on a single key: most federated sharing occurs (and should occur) this way, so this probably isn't an inherent benefit. It is perhaps more concrete that namespaces, since it federates the entire subset of `tenant_id`s.
+* Minimal application drift: it is not clear why any other approach would create any drift. There are ways to componentize and federate in the same database.
 * Easier data residency: true
-* SaaS migration: true
-* Incremental rollout: basically true of any approach
-* Customer demand: true, but customer demand was rootted in availability, not scalability, and also driven by the desire to have Geo functionality available, which this option does not provide.
+* SaaS migration: this is also debatable. Extracting the data that belongs to a `tenant_id` and migrating it to an entirely new database will not be trivial. It's achievable, of course.
+* Incremental rollout: also true of any approach
+* Customer demand: true, but customer demand was rooted in availability concerns, not scalability, and also driven by the desire to have Geo functionality available, which this option does not provide.
 * Full parity with self-managed: true in that N=1 for self-managed.
 
-A tenant can potentially become large enough that it overwhelms the infrastructure underlying its tenant pod. The tenant proposal would likely force a tenant into sub-tenancy, again incurring on end-point destination issues and further migrations. Even if we by then we chose another scalability axis, we would now be dealing with federated migrations.
+A successful tenant, however, can potentially become large enough that it overwhelms the infrastructure underlying its tenant pod. The tenant proposal would likely force a tenant into sub-tenancy, again incurring on end-point destination issues and further migrations. Even if we by then we chose another scalability axis, we would now be dealing with federated migrations.
 
 ##### `[MVF]` Minimum, Variable-depth Federation.
 
@@ -77,7 +75,7 @@ This proposal argues that total isolation is the easiest, most straight-forward 
 
 ##### `[NFE]` Never Federate Entities
 
-If we create a new entity, the **tenant**, we should not federate on a specific entity.
+If we create a new entity, the **tenant**, we should not federate on a specific instance of said entity, i.e., we should decouple a spacifi tenant from a swimlane. Thus, customers belong to a tenant swimlane: they're not a swimlane themselves.
 
 ##### `[FCC]` Federation is a Customer Choice
 
