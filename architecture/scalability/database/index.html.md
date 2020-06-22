@@ -7,7 +7,7 @@ title: "Database"
 
 We know that the database will not scale up *ad eternum*, so we have been exploring solutions involving **database sharding** to scale it out. Two proposals are under consideration:
 
-- [Namespace sharding](https://about.gitlab.com/handbook/engineering/development/enablement/database/doc/root-namespace-sharding.html), and
+- [Namespace sharding](https://docs.google.com/document/d/1BYbbUEM16G_9qaBqc23B3n1-4hmXcdadoqBIs-rn9rE/edit#), and
 - [Tenant sharding](https://docs.google.com/document/d/12KDzzeiqs0C9GnQtuPE8BJZVqrfsEBUy3vFD7_RFfho/edit)
 
 Both approaches are backed by relevant data analysis, and they both reflect a desire to find a visible, high-level, easy-to-grasp splitting variable to use in the creation of logical groupings to shard the database, especially within the context of our values of Iteration ([MVC](https://about.gitlab.com/handbook/values/#minimal-viable-change-mvc)) and Efficiency ([Boring solutions](https://about.gitlab.com/handbook/values/#boring-solutions)).
