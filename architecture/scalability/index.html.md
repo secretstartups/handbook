@@ -12,7 +12,7 @@ title: "Scalability"
 
 # The framework
 
-Frameworks help contextualize our thinking around a problem by breaking it into manageable conceptual parts, providing vantage points from which we can *evaluate* choices in boh the present and the future. Our design becomes more predictable, our discussions more focused, our decisions likely more accurate and correct. We can make tradeoffs more visible, and, hopefully, easier to understand and reason about.
+Frameworks help contextualize our thinking around a problem by breaking it into manageable conceptual parts, providing vantage points from which we can *evaluate* choices in both the present and the future. Our design becomes more predictable, our discussions more focused, our decisions likely more accurate and correct. We can make tradeoffs more visible, and, hopefully, easier to understand and reason about.
 
 [**Swimlanes**](https://akfpartners.com/growth-blog/fault-isolation-swim-lane) and the [**Scale Cube**](https://akfpartners.com/growth-blog/scale-cube) are widely adopted models to manage both fault isolation and scalability in a structured fashion.
 
