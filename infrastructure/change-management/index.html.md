@@ -272,13 +272,12 @@ To that end, we will have:
 
 From time to time we will need to run a production change that requires downtime, affecting customers and our SLO. This section covers how to successfully manage communications in these type of situations.
 
-As a reference, we should communicate ~1.5 months before the change, for a C1 that does not carry a significant architecture change. Longer preparation time is adviced if the change involves a large migration or a significant architecture change.
+As a reference, we should communicate 5-6 weeks before the change, for a C1 that does not carry a significant architecture change. Longer preparation time is adviced if the change involves a large migration or a significant architecture change.
 
 Steps:
 * Create a Google doc with the change communication message draft. Have it reviewed by mgmt and relevant people.
 * Create an issue for the official company communication about the change.
     * Example: https://gitlab.com/gitlab-com/gl-infra/production/-/issues/1993
-    * Try not to iterate in the Communication Issue - all the comments/changes/marks will be visible to customers.
     * Set it to CONFIDENTIAL until the day we publish it in status.io, when we will set it to VISIBLE.
 * 1 month before the change at least (if possible):
 ** Ask our TAMs in our #customer-success channel about their preferences on how to communicate this change to our main customers:
