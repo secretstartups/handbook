@@ -692,6 +692,7 @@ This MR has **not** been reviewed by any other TW. For this MR, you'll check:
 - The title of the bug, for syntax and clarity.
 - The link to the bug report.
 - Whether the bug has been closed.
+  - If the bug is closed, was it closed on or before the current milestone?
   - If the bug is still open, make sure that the responsible EM, PM, or bug author is aware of the situation.
   - If the bug will not be closed by the 20th of the month, remove the entry from the Bugs MR.
 
