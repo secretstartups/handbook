@@ -500,33 +500,33 @@ The naming convention for each of the listeners is specific to the asset type & 
 
 This process is for new assets in PathFactory that **have not** already been distributed from a content track. For any retroactive listening campaigns for assets that have already been distributed from a content track, please create an issue in the marketing operations project and assign it to `@sdaily`.
 
-**Salesforce**
+**Create Program in Marketo and sync to Salesforce**
 
-1.  Create a new campaign and name it according to the naming conventions above (example: `PF - Webcast - [campaign_name]`). The campaign name should match the parent campaign for the gated asset for easy searchability.
+1.  Navigate to the [PathFactory Listening Template](https://app-ab13.marketo.com/#PG3875A1) (located under `Active Marketing Programs` > `Gated Content` > `Pathfactory Listening`)
+1.  Right-click and clone the template (see picture below) - name it according to the naming convention (example: `PF - Webcast - [campaign_name]`. The campaign name should match the parent campaign for the gated asset for easy searchability.)
+1.  When the Program Summary loads, next to "Salesforce Campaign Sync" click `not set`
+1.  From the dropdown, select `Create New` (this will create the synced campaign in Salesforce)
 
-![image](/handbook/marketing/marketing-operations/pathfactory/sfdc-pf-campaign.png)
-
-1.  Mark the campaign as `Active`.
-1.  Add the parent campaign for the gated asset to create a 1:1 relationship.
-1.  Mark the type as `PF Content`.
-1.  Under Bizible attribution, select `Include only "Responded" Campaign Members` next to `Enable Bizible Touchpoints`.
-1.  Mark the status as `In Progress`.
-1.  Click `Save`.
-1.  Wait at least 15 minutes for the new campaign to show up and sync to Marketo.
-
-**Marketo**
-
-1.  Navigate to the `PathFactory Listening` folder located under `Active Marketing Programs` > `Gated Content`.
-1.  Expand the folder of the asset type you are setting up a listening campaign for. If an asset type is not represented, please create an issue in the marketing operations project and assign it to `@sdaily`.
-1.  Right-click and clone any of the existing listening campaigns.
+**Update Marketo Smart Campaign**
+1.  Expand the Marketo program and select `PF - Listening (Triggered)`.
+1.  In the `Smart List`, add the URL slug you created in the PathFactory content library for your asset within the brackets `[ ]`.
+1.  In the `Smart List`, add the URL of your landing page to the "not filled out form" filter to make sure you don't create a second touchpoint (a duplicate of the form fill action) upon form fill of your asset.
+1.  Navigate to the `Schedule` tab and click `Activate`.
 
 ![image](/handbook/marketing/marketing-operations/pathfactory/clone-program.png)
 
-1.  From the campaign, navigate to `Setup` and add `SFDC Campaign Sync` to the `Summary` window pane.
-2.  Select the PathFactory Salesforce campaign that you created 15 minutes ago.
-3.  Expand the campaign and select `PF - Listening (Triggered)`.
-4.  In the `Smart List`, add the URL slug from PathFactory within the brackets `[ ]`.
-5.  Navigate to the `Schedule` tab and click `Activate`.
+**Update the Newly Created Campaign in Salesforce**
+
+1. Navigate to the newly created campaign (same name as you created above in Marketo) - [shortcut to PF Listening Campaigns list](https://gitlab.my.salesforce.com/701?fcf=00B4M000004tY6O&rolodexIndex=-1&page=1)
+
+![image](/handbook/marketing/marketing-operations/pathfactory/sfdc-pf-campaign.png)
+
+1.  Check that the `Active` checkbox is checked.
+1.  Change the Parent Campaign to be the gated asset or on-demand webcast to create a 1:1 relationship.
+1.  Under Bizible attribution, select `Include only "Responded" Campaign Members` next to `Enable Bizible Touchpoints`.
+1.  Mark the Status as `In Progress`.
+1.  Click `Save`.
+
 
 Assets needing a listening campaign should following the above naming conventions. If an asset type is not represented in a Marketo listening campaign folder, please create an issue in the marketing operations project and assign it to `@sdaily`.
 
