@@ -60,21 +60,50 @@ Because of the filtering limitations and the massive volume of potential milesto
 
 For example:
 
-- A **project** milestone in the **"Field Marketing"** project should be named:
-  - `**fm_**Milestone Name`
+- A **project** milestone in the **"Revenue Marketing"** project should be named:
+  - `**rm_**Milestone Name`
 - A **group** milestone in the **"Strategic Marketing"** group should be named:
   - `**sm_**Milestone Name`
 
 This will help in two ways.  First, when looking at lists of milestones, they can be sorted and put the related milestones together.   Second, in issues, when adding a milestone, you can search by name, which will make it easy to find the right subset of milestones (either for the project or group)
-
-### Milestone Dates & Duration - It depends, though shorter is often better
-
-Because the milestone has dates for start and finish, the implication is that issues and MRs in the milestone are completed in this time window.  If the milestone window is 3 weeks, then the expectation is that the work in the milestone is completed in that time frame.
-
-Every team and every project is unique and there is no ONE answer for milestone duration.  Some teams have had milestones as long as a quarter, others 4 weeks and others 1 week.  Choose the duration that works for your team, learn, and evolve.
 
 ### Milestone Description - Include milestone history and who owns
 
 Because the milestone does not yet include change history or details about who created it or why, we should use the description field to fill in the blanks.
 
 - In the description field describe the purpose of the milestone and who is milestone owner/manager
+
+### Milestones
+
+- **Use for**: larger units of work (in scope and duration) that resemble a release. E.g. an executive topic or campaign
+- **Implement with**: [milestones](https://docs.gitlab.com/ee/user/project/milestones/)
+- **Time and duration**: variable
+- **Naming convention**: `teamprefix: MilestoneName` (e.g. `MPM: an integrated campaign`)
+- **Issue management**: via workflow and iteration issue boards
+- **Scope**: default to lowest scope. Define at the [top `marketing` group](https://gitlab.com/groups/gitlab-com/marketing/-/milestones/) for executive topics and integrated campaigns.
+
+![Project Milestone](/handbook/marketing/project-management-guidelines/images/project-milestones.png)
+
+Recommended dates and duration: it depends, though shorter is often better. Because the milestone has dates for start and finish, the implication is that issues and MRs in the milestone are completed in this time window.  If the milestone window is 3 weeks, then the expectation is that the work in the milestone is completed in that time frame.
+
+Every team and every project is unique and there is no one answer for milestone duration.  Some teams have had milestones as long as a quarter, others 4 weeks and others 1 week.  Choose the duration that works for your team, learn, and evolve.
+
+### Iterations
+
+- **Use for**: planning agile or agile-like sprints
+- **Implement with**: [milestones](https://docs.gitlab.com/ee/user/project/milestones/) at present. After or during the 13.2 GitLab.com release [iterations](https://docs.gitlab.com/ee/user/group/iterations/) will be used instead ([the first Iterations MVC was shipped with GitLab 13.1 release](https://gitlab.com/groups/gitlab-org/-/epics/2422).
+- **Time and duration**: 1 week, from Mondays to Fridays
+- **Naming convention**: `Marketing: YYYY-MM-DD`, with the ISO-formatted date being the end date of the milestone. `Marketing:` allows for filtering out only the Marketing-wide iterations, and the ISO date can help further filtering on month/day when assigning the milestone to an issue.
+- **Issue management**: via [workflow](/handbook/marketing/project-management-guidelines/boards/#workflow-board) and [iteration](/handbook/marketing/project-management-guidelines/boards/#iteration-board) issue boards
+- **Scope**: defined at the [top `marketing` group](https://gitlab.com/groups/gitlab-com/marketing/-/milestones/), essentially for executive topics and integrated campaigns, but it is encouraged that all groups in Marketing use this one set of iterations for a unified workflow. These are the only iterations that will be defined at this level.
+
+![Iterations](/handbook/marketing/project-management-guidelines/images/iterations.png)
+
+### Backlog
+
+- **Use for**: issues that are either not ready to be scheduled or not planned yet. Also as a bucket to choose and schedule issues for the next iteration(s) or milestone(s)
+- **Implement with**: [milestones](https://docs.gitlab.com/ee/user/project/milestones/) at present.
+- **Time and duration**: undefined. Start and due dates are not set.
+- **Naming convention**: `Backlog`
+- **Issue management**: see [TBD: backlog refinement]()
+- **Scope**: defined at the [top `marketing` group](https://gitlab.com/groups/gitlab-com/marketing/-/milestones/). When scheduling backlog issues on an issue board or on an issue list, the backlog can be further filtered by team.
