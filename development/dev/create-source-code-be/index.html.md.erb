@@ -181,3 +181,16 @@ All feedback from the retrospective should ultimately end up in the issue for re
 ### Career development
 
 <%= partial("handbook/engineering/development/dev/create/career_development.erb", locals: { group: "Source Code" }) %>
+
+### Performance Monitoring
+
+The Create:Source Code BE team is responsible for keeping some API endpoints and
+controller actions performant (e.g. below our target speed index).
+
+Here are some Kibana visualizations that give a quick overview on how they perform:
+
+- [Create::Source Code: Controller Actions](https://log.gprd.gitlab.net/app/kibana#/visualize/edit/32698f60-b145-11ea-bfe2-25f984e253f8?_g=(filters%3A!()%2CrefreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-7d%2Cto%3Anow)))
+- [Create::Source Code: Endpoints](https://log.gprd.gitlab.net/app/kibana#/visualize/edit/104d4bf0-a0d9-11ea-8cfd-8dcd98a55a1d?_g=(filters%3A!()%2CrefreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-7d%2Cto%3Anow)))
+
+These tables are filtered by the endpoints and controller actions that the group
+handles and sorted by P90 (slowest first) for the last 7 days by default.
