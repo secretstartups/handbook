@@ -180,14 +180,27 @@ For published recordings of recurring meetings, which should be posted on the Un
 
 When publishing, Youtube will ask if the content is made for kids. GitLab content should be marked as "No, it's not made for kids". 
 
-## Starting a recorded video that is/is not Livestreamed
+## Never call it a livestream or just a recording
+
+It is essential that we always know if something is public or private.
+Always mention that both in the countdown and in the calendar invite title.
+
+Therefore say:
+
+- Public stream
+- Private stream
+- Public recording
+- Private recording
+
+Never say: livestream or recording since those are ambiguous.
+
+## Countdown
 
 The below instructions apply to either livestreams to YouTube or recorded videos that are uploaded to YouTube soon afterwards.
 
-1. When the meeting or call is about to start (5 seconds or so before the start time), the moderator starts the recording and everyone on the call can hear: "This call is being recorded". This ensures that there is no empty space at the beginning of the call.
-1. If the meeting is to be livestreamed, the moderator asks the host "Can I initiate/start the countdown?" and waits for confirmation. The moderator counts down from three ("I'll start the countdown for this public/private stream in 3, 2, 1"), and nothing else is said by the moderator beyond this point so that so it is not accidentally recorded. Click `Live to YouTube` and start the livestream. Be sure not to click `Live to YouTube` any earlier than 1 minute before the start.
-1. If the meeting is only to be recorded, the moderator does not complete Step 2 above.
+1. The moderator asks the host "NAME OF PERSON, can I initiate the countdown for this public/private tream?" and waits for confirmation. The moderator counts down from three ("I'll start the countdown for this public/private stream/recording in 3, 2, 1"), and nothing else is said by the moderator beyond this point so that so it is not accidentally recorded. Click `Live to YouTube` and start the livestream. Be sure not to click `Live to YouTube` any earlier than 1 minute before the start since it can time out.
 1. The host should do an introduction stating who they are, what their role is, and what the meeting is about, e.g. "I am Jane Doe, the VP of Widget Production, and today's Group Conversation is about the molding phase of widget production."
+1. Please note that if the recording starts a 'this meeting is being recorded' message the host should talk over that because otherwise the recorded video will needed editing to prevent an awkward pause.
 
 #### Useful links
 {:.no_toc}
