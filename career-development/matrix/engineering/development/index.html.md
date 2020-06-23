@@ -11,11 +11,13 @@ title: "Development Department Career Framework"
 
 ## Development Department Career Framework
 
+<%= partial("handbook/engineering/career-development/matrix/engineering/development/dev/dev_career_matrix_nav.erb") %>
+
 These are the expected competencies of team members at GitLab by Job Title.
  
 1. [Intermediate](/handbook/engineering/career-development/matrix/engineering/development/intermediate)
-1. [Senior](/handbook/engineering/career-development/matrix/engineering/developmen/senior)
-1. [Staff](/handbook/engineering/career-development/matrix/engineering/developmen/staff)
+1. [Senior](/handbook/engineering/career-development/matrix/engineering/development/senior)
+1. [Staff](/handbook/engineering/career-development/matrix/engineering/development/staff)
 1. Distinguished
 1. Fellow
 
@@ -24,7 +26,7 @@ These are the expected competencies of team members at GitLab by Job Title.
 
 * CI/CD
 * Defend
-* Dev
+* [Dev](handbook/engineering/career-development/matrix/engineering/development/dev)
 * Enablement
 * Growth
 * Ops
