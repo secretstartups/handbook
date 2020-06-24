@@ -140,7 +140,7 @@ We ask these questions and use this scorecard to ensure that we're prioritizing 
      - [EMEA_Event_Field_Marketing](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=EMEA_Event_Field_Marketing)
      - [Corporate Event](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=corporate-event-request#)
 1. **Event Owner** copy/paste the `campaign tag` form the budget document into template. 
-2. **Event Owner** to ping the GL Accountant (@angulol) in the main event issue to request campaign tag be created in Netsuite.
+2. **Event Owner** to ping the GL Accountant (@GGGONZALEZ) in the main event issue to request campaign tag be created in Netsuite.
 1. When ready, the **Event Owner** update **label** to `status::wip`, this is handoff where MPMs will create subsequent Epics/Issues. 
 1. MPM will use the **exact `campaign tag`** as the SFDC Campaign and Marketo Program name so it is the unique identifier across all systems. 
 
