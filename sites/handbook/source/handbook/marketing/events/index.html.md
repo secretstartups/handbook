@@ -348,7 +348,7 @@ In this timeline, BD = Business Days, and incorporates US public holidays and T 
 Sometimes, it becomes necessary to change the date of an offline event. Once the FMM has identified that the date will change, the **FMM** will:  
 
 * Update the event date and the campaign tag on the main event issue and in the Budget Document.  
-* In the main event issue, ping the GL Accountant (@angulol) with the old campaign tag to be removed from Netsuite and the new campaign tag to be added in Netsuite.  
+* In the main event issue, ping the GL Accountant (@GGGONZALEZ) with the old campaign tag to be removed from Netsuite and the new campaign tag to be added in Netsuite.  
 * Tag the MPM for the event in a comment to notify them that the date has changed.  
 
 If the change in the date is related to COVID-19, the **FMM** will: 
