@@ -281,7 +281,7 @@ Steps:
     * Set it to CONFIDENTIAL until the day we publish it in status.io, when we will set it to VISIBLE.
 * 1 month before the change at least (if possible):
     * Ask our TAMs in our #customer-success channel about their preferences on how to communicate this change to our main customers:
-        * Make sure that our main customers TAMs are included in this "ping". If we need to get the list of our Marquee customers, it is [here](we can get the list of main/marquee customers.  Possibly https://gitlab.com/gitlab-com/gl-infra/marquee-account-alerts/-/blob/master/marquee-accounts.yml?).
+        * Make sure that our main customers TAMs are included in this "ping". If we need to get the list of our Marquee customers, it is [here](https://gitlab.com/gitlab-com/gl-infra/marquee-account-alerts/-/blob/master/marquee-accounts.yml).
         * They might propose that we communicate in the customer's channel about the specifics of the change. If that is the case draft a msg, agree on its content with the TAM and share it in the relevant customer Slack channels (in sync with the TAM).
 * Shortly after that, the Communication Issue should be linked to a simple post in status.io (by clicking in "new maintenance"). We should engage with the CMOC to Share that maintenance in status.io, via all the possible channels (mail, tweet, slack, etc). From there customers will be able to ask questions and comment on it.
 [The company official way to communicate downtime to customers is via status.io].
