@@ -68,7 +68,18 @@ Once those are done, they should:
     4. **Note:** MRs that introduce very simple changes are good, but should not be the only source of reviews
 4. Assign the MR to their manager and mention the existing maintainers of the relevant project (GitLab, GitLab Shell, etc) and area (backend, frontend, etc.).
 
-The MR will remain open for 5 working days. If **more than half** of the existing maintainers of the relevant engineering group e.g., backend approve of the MR, or there are no significant objections raised in this period, we've got ourselves a new maintainer!
+The MR will then:
+
+1. The MR will remain open for 5 working days.
+   If **more than half** of the existing maintainers of the relevant engineering group e.g., backend approve of the MR,
+   and there are no significant objections raised in this period, we've got ourselves a new maintainer!
+
+2. If the MR does not have enough approvals after this period, but no significant objections, then the manager
+   should ping the existing maintainers again and keep the MR open for 5 more working days. After the extra period,
+   the manager should assume that no response as a neutral response and can merge the MR!
+
+3. If *there are significant objections*, the maintainers who raise the objections should actively work with the
+   maintainer nominee's manager to develop a plan on how to resolve the objections.
 
 Since the manager of the new maintainer is the MR assignee, they should be the one merging the MR.
 
@@ -76,7 +87,6 @@ It is helpful if the person merging the MR also leaves a comment with a summary,
 
 When the manager merges the MR, they should announce this change in the applicable channels listed under [keeping yourself informed section of the engineering handbook](/handbook/engineering/#keeping-yourself-informed) and `#backend_maintainers`/`#frontend_maintainers` and `#backend`/`#frontend`. We should also update the ["Engineering Week-in-Review"](https://docs.google.com/document/d/1EkfzI85aqw8chYDBf2GLRvjKEa3s0FWHMI3u0DIr-xg/edit) Google doc.
 
-If *there are significant objections*, the maintainers who raise the objections should actively work with the maintainer nominee's manager to develop a plan on how to resolve the objections.
 
 The existing maintainers of the relevant engineering group and project will also raise any areas for growth on the merge request. If there are many gaps, the reviewer will need to address these before asking for reconsideration.
 
