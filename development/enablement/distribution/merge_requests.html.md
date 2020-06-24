@@ -15,7 +15,7 @@ Merge Requests are the responsibility of all Distribution Engineers. For the mos
 
 ## Reviewers
 
-By default, every Distribution Engineer team member who is not a Maintainer on a project should consider themselves a Reviewer. You are encouraged to spend some of your time looking at unassigned Merge Requests in any of our [projects](https://about.gitlab.com/handbook/engineering/development/enablement/distribution/#projects).
+By default, every Distribution Engineer team member who is not a Maintainer on a project should consider themselves a Reviewer. You are encouraged to spend some of your time looking at Merge Requests in any of our [projects](https://about.gitlab.com/handbook/engineering/development/enablement/distribution/#projects) that are either unassigned, or have the "workflow::ready for review" label.
 
 Reviewers are responsible for working with contributors to ensure that changes meet our standards, before approving and passing them on to a Maintainer for final review and merge. When you encounter a situation as Reviewer where you are unsure whether something meets our standards, ping a Maintainer directly within the Merge Request with the question.
 
@@ -29,13 +29,13 @@ Project Maintainers are encouraged to ensure that Reviewers, and in particular R
 
 ## Assigning Merge Requests
 
-To help achieve all of this, we should urge contributors to **not** assign merge requests to an individual when looking for initial review, unless there is a specific reason someone should look at a merge request. Rather, the merge request should have the "Workflow::ready for review" label applied, and a Reviewer will assign it to themselves when they are beginning to look into it. When looking for a merge request to work on, consider the [First-response SLO](https://about.gitlab.com/handbook/engineering/workflow/code-review/#first-response-slo). Anything in danger of breaching that deadline should be looked at first.
+To help achieve all of this, we should urge contributors to **not** assign merge requests to an individual when looking for initial review, unless there is a specific reason someone should look at a merge request. Rather, the merge request should have the "workflow::ready for review" label applied, and a Reviewer will assign it to themselves when they are beginning to look into it. When looking for a merge request to work on, consider the [First-response SLO](https://about.gitlab.com/handbook/engineering/workflow/code-review/#first-response-slo). Anything in danger of breaching that deadline should be looked at first.
 
 If a merge request is assigned directly to you as a Maintainer without prior review, you are encouraged to assign it to an available Reviewer. If a merge request is assigned directly to you as a Reviewer, use your judgment. If you will not be able to work on it soon, try and find another Reviewer to take a look.
 
 ## Review iteration
 
-Once the merge request is in review, the "Workflow::in review" label should remain on the merge request as the Reviewer/Maintainer and Author iterate through feedback.
+Once the merge request is in review, the "workflow::in review" label should remain on the merge request as the Reviewer/Maintainer and Author iterate through feedback.
 
 When the merge request is ready to be handed back for changes or further review, ensure that the individual responsible for the next step is assigned and signal the handoff with a fresh comment mentioning the individual in the Merge Request.
 
@@ -44,8 +44,8 @@ When the merge request is ready to be handed back for changes or further review,
 ## Workflow
 
 1. Author opens a merge request in a project.
-1. When ready for review, the Author applies the "Workflow::ready for review" label.
-1. When they are able to work on the merge request, a Reviewer assigns it to themselves, and adds the "Workflow::in review" label.
+1. When ready for review, the Author applies the "workflow::ready for review" label.
+1. When they are able to work on the merge request, a Reviewer assigns it to themselves, and adds the "workflow::in review" label.
 1. The Reviewer works with the Author to get it to a state where they approve it. At this stage, it is expected that the Author and the Reviewer will assign the merge request back and forth as described in [review iteration](#review-iteration).
 1. Once approved, the Reviewer assigns the merge request to a Maintainer for final review/merge. If the Maintainer has any comments, then they work with the Author to clarify.
 
