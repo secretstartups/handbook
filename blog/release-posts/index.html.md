@@ -309,7 +309,7 @@ For more guidance about what to include in the release post please reference the
 
 When writing your content blocks, be sure to reference [Writing release blog posts](https://about.gitlab.com/handbook/product/communication/#writing-release-blog-posts) and [Writing about features](https://about.gitlab.com/handbook/product/communication/#writing-about-features) to ensure your release post item writeups align with how GitLab communicates. This will also ensure a smoother and more speedy review process for your release post items.
 
-PM contributors are encouraged to use disreation if wanting to add new content blocks after the final merge deadline of the 17th, and especially after final content assembly happens at 8 AM PST (3 PM UTC). But if if highly  impactful features are released that can not wait till the next blog post, PMs shoudl reach out and coordinate with the Release Post Manager. It is up to the discretion of the Release Post Manager to work with the PM and Messaging lead to add more content blocks up until the 21st.
+PM contributors are encouraged to use discretion if wanting to add new content blocks after the final merge deadline of the 17th, and especially after final content assembly happens at 8 AM PST (3 PM UTC). But if if highly  impactful features are released that can not wait till the next blog post, PMs shoudl reach out and coordinate with the Release Post Manager. It is up to the discretion of the Release Post Manager to work with the PM and Messaging lead to add more content blocks up until the 21st.
 
 #### Primary vs Secondary
 
