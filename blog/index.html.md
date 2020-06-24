@@ -315,6 +315,18 @@ If GitLab has been included in an analyst report and you wish to share this news
 1. A more substantive blog post may take longer to draft but should result in greater visibility for your news. 
 1. If the blog post consists of more than just an announcement it is less critical to publish straight away – consider requesting to share the news on the day via social channels, then following with a blog post later.  
 
+#### Newsjacking 
+
+These are generally popular if GitLab genuinely has something meaningful or useful to contribute to the conversation. The point of a newsjacking post should not be self serving. 
+
+This post about [an experimental Git feature](/blog/2020/03/13/partial-clone-for-massive-repositories/) is a great example, because it takes something newsy, [contextualizes it](#contextualize-your-post), and then goes into a tutorial. 
+
+Examples of successful newsjacking posts:
+
+- [Resources for companies embracing remote work](/blog/2020/03/06/resources-for-companies-embracing-remote-work/)
+- [How can we help solve the COBOL programmer shortage?](/blog/2020/04/23/cobol-programmer-shortage/)
+- [How Git Partial Clone lets you fetch only the large file you need](/blog/2020/03/13/partial-clone-for-massive-repositories/)
+
 ### Trends
 
 *From [2018 blog analysis](https://gitlab.com/gitlab-com/marketing/content-marketing/issues/248) conducted in 2018-10
