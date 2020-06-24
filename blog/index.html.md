@@ -234,10 +234,11 @@ The blog editorial team will assess the content of the post and decide how best 
 
 Once agreed, the blog team will assign and communicate the expected publish date.
 
-
 ## Writing blog posts – best practices
 
-Based on an [analysis of the traffic to blog posts from Q4 2019](https://docs.google.com/spreadsheets/d/1UzxsrnVVBUYx2Jrznj6Y4iDhWA4x4GaN0NGn2L01SO0/edit?usp=drive_web&ouid=113436756933099280536), it's clear that technical/actionable/how-to content attracts the most blog readers and thus should be the focus of the majority of the content we create for the blog.
+We review traffic to blog posts on a quarterly basis. You can view past analyses and takeaways in the [Editorial team handbook](/handbook/marketing/growth-marketing/content/editorial-team/#blog-traffic-analyses), but below are the key points for all team members to keep in mind.
+
+It's clear that technical/actionable/how-to content attracts the most blog readers and thus should be the focus of the majority of the content we create for the blog.
 
 ### Think of our audience first
 
@@ -384,26 +385,6 @@ Look for the following patterns:
 1. [How we do Vue: one year later](/blog/2017/11/09/gitlab-vue-one-year-later/)
 
 Team members can also browse the [Content Marketing Dashboard](https://datastudio.google.com/open/1NIxCW309H19eLqc4rz0S8WqcmqPMK4Qb) to see more examples of current blog posts drawing high traffic.
-
-### Conducting a blog analysis
-
-Pull information on all blog posts to document how many sessions each post received in the month, and how many sessions they received of all time. Categorize them by type, bracket, total sessions in month, total sessions to date, category, theme, and topic. Eventually add first touch point revenue data.
-Search Google Drive for `Blog Performance` to find the appropriate sheet to work from.
-
-- Blog post links should be added as they are published and category, audience, theme, and topic should be filled out.
-- The Managing Editor and Manager, Content Marketing should review last month on the 1st of the month to fill out session information and make observations
-- Review 1st of each quarter to update total sessions
-
-**Column explanations:**
-
-- Type: helps identify the frequency of which certain types of information is shared on our current blog
-- Bracket: helps quickly sort blog posts by performance level
-- Category: indicates class of information
-- Total sessions in month: how many sessions the post received in the month it was published
-- Audience: indicates who we expect to reach
-- Theme: indicates the structure of the post
-- Topic: indicates the main subject covered
-
 
 ### Preparing confidential blog posts
 In the event that we have a big announcement to make and the information must remain confidential until, use the forked project `https://gitlab.com/gitlab-com/marketing/www-gitlab-com` to prepare your merge request.
