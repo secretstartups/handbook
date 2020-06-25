@@ -48,7 +48,7 @@ In this stage, the PM establishes new work that they would like to see in the Ge
 ##### Problem validation
 
 The PM tries to establish that the issue describes a problem with the Geo feature that is customer-relevant (internal and external), 
-or has some other clear merrit (e.g. a technical improvement in the backend). The PM will draw on other group members, customers and the UX organisation where necessary.  
+or has some other clear merit (e.g. a technical improvement in the backend). The PM will draw on other group members, customers and the UX organisation where necessary.  
 If the problem is validated, the issue is moved forward to the next stage, otherwise it is closed with a short explanation on *why* the problem will not be considered. This explanation should also contain
 a link [to the category strategy](/handbook/product/product-management/process/#category-direction).
 
@@ -73,6 +73,8 @@ The PM and the engineer will work together to create all of the issues required 
 - documentation issues
 - testing that is broader than the scope of individual issues
 - post-release items such as rake tasks, migrations or monitoring issues
+
+Ideally, epics and issues should be broken down by external functionality rather than by implementation details. There will be exceptions such as refactors and performance improvements.
 
 Post-release tasks that need to be performed by SRE's are created in the Infrastructure team project and cannot be
 added to Epics as related issues. For these, it's useful to list them in the Epic description.
@@ -206,15 +208,14 @@ enough context to review your work
 
 ### Weights
 
-We use the weights from the set [1, 3, 5, 10, 20] where the value represents a "best work day". A "best work day" means
+We use the weights from the set [1, 2, 3, 4, 5, 10] where the value represents a "best work day". A "best work day" means
 a day where there are no interruptions, emails or other demands on your time.
 For example, if an issue is assigned a weight of 5 then an engineer should be able to complete the work in 5 days if
 this were the only thing that they needed to do for those five days.
 
-If an issue is assigned a weight of 20, then the issue is too big and will need to be broken down further. Issues
-weighted at 10 will also need a rough to-do list added to the issue. (An issue of this size probably doesn't need multiple
-related issues, but a to-do list will help understand how the 10 points need to be spent.) You can assign a weight of 20 if there
-is a lot of uncertainty around the issue and more planning is needed.
+If an issue is assigned a weight of 10, then the issue is too big and will need to be broken down further. This usually means promoting the issue to an epic and raising individual issues that have a lower weight. 
+
+If any issue is weighted above a 3, we should ask ourselves if it can be further broken down. We should do this even if the issue was already broken out from an even larger issue.
 
 ## Retrospectives
 
