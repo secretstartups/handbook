@@ -275,66 +275,90 @@ Status in the table below means:
 - Active = can be selected from picklist
 - Inactive = cannot be selected from picklist, but a record may exist with this source
 
-| Source                          | Definition and/or transition plan                                                                            | Status*  |
-|:--------------------------------|:-------------------------------------------------------------------------------------------------------------|:---------|
-| Advertisement                   | to be evaluated                                                                                              | Active   |
-| AE Generated                    | Sourced by an Account Executive through networking or professional groups                                    | Active   |
-| CE Download                     | Downloaded CE version of GitLab                                                                              | Active   |
-| CE Usage Ping                   | Created from CE Usage Ping data                                                                              | Active   |
-| Clearbit                        | transition to `Prospecting` -> sub field `Clearbit`                                                          | Active   |
-| Conference                      | Stopped by our booth or received through event sponsorship                                                   | Active   |
-| Datanyze                        | transition to `Prospecting` -> sub field `Datanyze`                                                          | Inactive   |
-| Demo                            | Filled out form to watch demo of GitLab                                                                      | Active   |
-| DiscoverOrg                     | transition to `Prospecting` -> sub field `DiscoverOrg`                                                       | Active   |
-| Education                       | Filled out form applying to the Educational license program                                                  | Active   |
-| Email Request                   | Used when an email was received through an alias (*will be deprecated*)                                      | Active   |
-| Email Subscription              | Subscribed to our opt-in list either in preference center or various email capture field on GitLab website   | Active   |
-| Employee Referral               | to be evaluated                                                                                              | Active   |
-| Field Event                     | Paid events we do not own but are active participant (Meetups, Breakfasts, Roadshows)                        | Active   |
-| Gated Content - General         | Download an asset that does not fit into the other Gated Content categories                                  | Active   |
-| Gated Content - eBook         | Download a digital asset categorized as an eBook                                 | Active   |
-| Gated Content - Report          | Download a gated report                                                                                      | Active   |
-| Gated Content - Video           | Watch a gated video asset                                                                                    | Active   |
-| Gated Content - Whitepaper     | Download a white paper                                                                                       | Active   |
-| Gemnasium                       | Previous a Gemnasium customer/prospect merged into our database when acquired                                | Active   |
-| GitLab Hosted                   | GitLab Hosted customer/user                                                                                  | Active   |
-| GitLab.com                      | Registered for GitLab.com account                                                                            | Active   |
-| Gitorious                       | Previous a Gitorios customer/prospect merged into our database                                               | Active   |
-| InsideView                      | transition to `Prospecting` -> sub field `InsideView`                                                        | Inactive |
-| Leadware                        | transition to `Prospecting` -> sub field `Leadware`                                                          | Inactive   |
-| Legacy                          | to be evaluated                                                                                              | Active   |
-| LinkedIn                        | transition to `Prospecting` -> sub field `LinkedIn`                                                          | Active   |
-| Live Event                      | transition to correct category based on first event attended -> `Owned Event`; `Field Event` or `Conference` | Active   |
-| Newsletter                      | to be evaluated                                                                                              | Active   |
-| OnlineAd                        | to be evaluated                                                                                              | Inactive |
-| OSS                             | Open Source Project records related to the OSS offer for free licensing                                      | Active   |
-| Other                           | Should never be used but is a legacy source that will be deprecated                                          | Active   |
-| Owned Event                     | Events that are created, owned, run by GitLab                                                                | Active   |
-| Partner                         | GitLab partner sourced name either through their own prospecting and/or events                               | Active   |
-| Promotion                       | to be evaluated                                                                                              | Active   |
-| Prospecting                     | Account research and development prospecting work                                                           | Pending  |
-| Prospecting - LeadIQ            | transition to `Prospecting` -> sub field `LeadIQ`                                                            | Inactive   |
-| Public Relations                | to be evaluated                                                                                              | Active   |
-| Referral                        | to be evaluated                                                                                              | Inactive |
-| Registered                      | transition to correct event type source                                                                      | Inactive |
-| Request - Contact               | Filled out contact request form on GitLab website                                                            | Active   |
-| Request - Professional Services | Any type of request that comes in requesting to engage with our Customer Success team                        | Active   |
-| Sales                           | to be evaluated                                                                                              | Inactive |
-| SDR Generated                   | Sourced by an SDR through networking or professional groups                                                  | Active   |
-| Security Newsletter             | Signed up for security alerts                                                                                | Active   |
-| Seminar - Partner               | not actively used - transition to `Owned Event` or `Field Event`                                             | Active   |
-| SocialMedia                     | to be evaluated                                                                                              | Inactive |
-| Swag Store                      | to be evaluated                                                                                              | Inactive |
-| Trial - Enterprise              | In-product or web request for self-hosted Enterprise license                                                 | Active   |
-| Trial - GitLab.com              | In-product SaaS trial request                                                                                | Active   |
-| Unknown                         | need to evaluate what records are in this status - it should never be used                                   | Inactive |
-| Unsubscribe Form                | to be evaluated                                                                                              | Inactive |
-| Web                             | transition to `Web Direct`                                                                                   | Active   |
-| Web Chat                        | Engaged with us through website chat bot                                                                     | Active   |
-| Web Direct                      | Created when purchase is made direct through the portal (check for duplicates & merge record if found)       | Active   |
-| Webcast                         | Register for any online webcast (not incl `Demo`)                                                            | Active   |
-| Word of Mouth                   | to be evaluated                                                                                              | Active   |
-| Zoominfo                        | transition to `Prospecting` -> sub field `Zoominfo`                                                          | Inactive |
+| Source | Source Bucket | Definition and/or transition plan | Status* |
+| :-------------------------------- | :------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------- | :--------- |
+| CE Download | core | Downloaded CE version of GitLab | Active |
+| CE Usage Ping | core | Created from CE Usage Ping data | Active |
+| CORE Check-Up | core |  | Active |
+| Demo | inbound | Filled out form to watch demo of GitLab | Active |
+| Education | inbound | Filled out form applying to the Educational license program | Active |
+| Email Request | inbound | Used when an email was received through an alias (*will be deprecated*) | Active |
+| Email Subscription | inbound | Subscribed to our opt-in list either in preference center or various email capture field on GitLab website | Active |
+| Gated Content - General | inbound | Download an asset that does not fit into the other Gated Content categories | Active |
+| Gated Content - eBook | inbound | Download a digital asset categorized as an eBook | Active |
+| Gated Content - Report | inbound | Download a gated report | Active |
+| Gated Content - Video | inbound | Watch a gated video asset | Active |
+| Gated Content - Whitepaper | inbound | Download a white paper | Active |
+| GitLab.com | inbound | Registered for GitLab.com account | Active |
+| Newsletter | inbound | to be evaluated | Active |
+| OSS | inbound | Open Source Project records related to the OSS offer for free licensing | Active |
+| Request - Contact | inbound | Filled out contact request form on GitLab website | Active |
+| Request - Professional Services | inbound | Any type of request that comes in requesting to engage with our Customer Success team | Active |
+| Security Newsletter | inbound | Signed up for security alerts | Active |
+| Trial - Enterprise | inbound | In-product or web request for self-hosted Enterprise license | Active |
+| Trial - GitLab.com | inbound | In-product SaaS trial request | Active |
+| Web | inbound | transition to `Web Direct` | Active |
+| Web Chat | inbound | Engaged with us through website chat bot | Active |
+| Consultancy Request | inbound |  | Active |
+| Drift | inbound |  | Active |
+| Request - Community | inbound |  | Active |
+| Request - Public Sector | inbound |  | Active |
+| Startup Application | inbound |  | Active |
+| Other | Other | Should never be used but is a legacy source that will be deprecated | Active |
+| AE Generated | outbound | Sourced by an Account Executive through networking or professional groups | Active |
+| Clearbit | outbound | transition to `Prospecting` -> sub field `Clearbit` | Active |
+| DiscoverOrg | outbound | transition to `Prospecting` -> sub field `DiscoverOrg` | Active |
+| LinkedIn | outbound | transition to `Prospecting` -> sub field `LinkedIn` | Active |
+| SDR Generated | outbound | Sourced by an SDR through networking or professional groups | Active |
+| Prospecting - General | outbound |  | Active |
+| Advertisement | paid demand gen | to be evaluated | Active |
+| Conference | paid demand gen | Stopped by our booth or received through event sponsorship | Active |
+| Field Event | paid demand gen | Paid events we do not own but are active participant (Meetups, Breakfasts, Roadshows) | Active |
+| Owned Event | paid demand gen | Events that are created, owned, run by GitLab | Active |
+| Promotion | paid demand gen | to be evaluated | Active |
+| Virtual Sponsorship | paid demand gen |  | Active |
+| Purchased List | purchased list |  | Active |
+| Employee Referral | referral | to be evaluated | Active |
+| Partner | referral | GitLab partner sourced name either through their own prospecting and/or events | Active |
+| Word of Mouth | referral | to be evaluated | Active |
+| Event Partner | referral |  | Active |
+| Existing Client | referral |  | Active |
+| External Referral | referral |  | Active |
+| Webcast | virtual event | Register for any online webcast (not incl `Demo`) | Active |
+| Webinar | virtual event |  | Active |
+| Web Direct | web direct | Created when purchase is made direct through the portal (check for duplicates & merge record if found) | Active |
+| GitLab Subscription Portal | web direct |  | Active |
+| CE Version Check | core |  | Inactive |
+| Contact Request | inbound |  | Inactive |
+| Content | inbound |  | Inactive |
+| EE Version Check | inbound |  | Inactive |
+| Enterprise Trial | inbound |  | Inactive |
+| MovingtoGitLab | inbound |  | Inactive |
+| White Paper | inbound |  | Inactive |
+| Legacy | Other | to be evaluated | Inactive |
+| Swag Store | Other | to be evaluated | Inactive |
+| Unknown | Other | need to evaluate what records are in this status - it should never be used | Inactive |
+| WTLondonR | Other |  | Inactive |
+| Public Relations | Other | to be evaluated | Inactive |
+| InsideView | Other | transition to `Prospecting` -> sub field `InsideView` | Inactive |
+| OnlineAd | Other | to be evaluated | Inactive |
+| Referral | Other | to be evaluated | Inactive |
+| Registered | Other | transition to correct event type source | Inactive |
+| Sales | Other | to be evaluated | Inactive |
+| SocialMedia | Other | to be evaluated | Inactive |
+| Unsubscribe Form | Other | to be evaluated | Inactive |
+| Gemnasium | outbound | Previous a Gemnasium customer/prospect merged into our database when acquired | Inactive |
+| GitLab Hosted | outbound | GitLab Hosted customer/user | Inactive |
+| Gitorious | outbound | Previous a Gitorios customer/prospect merged into our database | Inactive |
+| Live Event | outbound | transition to correct category based on first event attended -> `Owned Event`; `Field Event` or `Conference` | Inactive |
+| Datanyze | outbound | transition to `Prospecting` -> sub field `Datanyze` | Inactive |
+| Leadware | outbound | transition to `Prospecting` -> sub field `Leadware` | Inactive |
+| Prospecting - LeadIQ | outbound | transition to `Prospecting` -> sub field `LeadIQ` | Inactive |
+| Zoominfo | outbound | transition to `Prospecting` -> sub field `Zoominfo` | Inactive |
+| gmail | outbound |  | Inactive |
+| seamless.ai | outbound |  | Inactive |
+| Prospecting | outbound | Account research and development prospecting work | Inactive |
+| Seminar - Partner | referral | not actively used - transition to `Owned Event` or `Field Event` | Inactive |
 
 ## Lead and Contact Statuses
 The Lead & Contact objects in Salesforce have unified statuses with the following definitions. If you have questions about current status, please ask in #lead-questions channel on Slack.
