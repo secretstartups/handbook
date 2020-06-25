@@ -152,10 +152,10 @@ If you don't have a PagerDuty account and need to find out who the current oncal
 
 ### Reporting an Incident
 
-If you are a GitLab team member and would like to report an incident related to GitLab.com and have the EOC paged in to respond, choose one of the two reporting methods below. Regardless of the method chose, please stay online until the EOC has had a chance to come online and engage with you regarding the incident. Thanks for your help!
+If you are a GitLab team member and would like to report a possible incident related to GitLab.com and have the EOC paged in to respond, choose one of the reporting methods below. Regardless of the method chose, please stay online until the EOC has had a chance to come online and engage with you regarding the incident. Thanks for your help!
 
 
-#### Report an Incident from Slack
+#### Report an Incident via Slack
 
 Type `/incident declare` in Slack (e.g `#production`) and follow the prompts. The incident declaration is orchestrated through IMA (incident management automation) and will create an incident issue.
 
