@@ -91,7 +91,7 @@ You can choose a cover image for yourself by following the [guidelines in the bl
 
 ### Review
 
-As a final step, you might want to do a quick search of our blog to see if there are related posts you could include links to in your post. Cross-linking helps the reader and helps SEO, meaning more people will see what you've written. When you are completely finished, assign your MR to another team member for review. Ideally they should be someone familiar with the topic you are writing about, so that they can fact check as well as catch typos or grammatical errors. They might find this [editorial review checklist](/handbook/marketing/corporate-marketing/content/editorial-team/#editorial-review-checklist) helpful.
+As a final step, you might want to do a quick search of our blog to see if there are related posts you could include links to in your post. Cross-linking helps the reader and helps SEO, meaning more people will see what you've written. When you are completely finished, assign your MR to another team member for review. Ideally they should be someone familiar with the topic you are writing about, so that they can fact check as well as catch typos or grammatical errors. They might find this [editorial review checklist](/handbook/marketing/growth-marketing/content/editorial-team/#editorial-review-checklist) helpful.
 
 - _Please ensure the `unfiltered` category has been entered in the post frontmatter._
 
