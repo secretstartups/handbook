@@ -52,7 +52,7 @@ Please submit a request via an `announcement` issue template in the [Corporate M
 
 **If the above does not apply to your blog post idea**, please open an issue in the [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues) project, using the `Blog post` template. Include a short summary of your proposed blog post where indicated, and add the `Blog::Pitch` label to ensure your pitch is triaged. Unless your post is urgent, there is no need to ping the Editorial team as pitches with that label are reviewed weekly. 
 
-If you hope to publish on a specific date or within a specific timeframe, please allow at least three weeks' lead time from the date you open your issue and ping `@rebecca` immediately, as the [Editorial calendar](#blog-calendar) fills up quickly and we cannot guarantee there will be a slot for your post without adequate notice. Please give a rationale for your proposed publish date in the issue description so the team can prioritize accordingly.
+If you hope to publish on a specific date or within a specific timeframe, please allow at least three weeks' lead time from the date you open your issue and ping `@rebecca` immediately, as the [Editorial calendar](/handbook/marketing/growth-marketing/content/editorial-team/#blog-calendar) fills up quickly and we cannot guarantee there will be a slot for your post without adequate notice. Please give a rationale for your proposed publish date in the issue description so the team can prioritize accordingly.
 
 If you do not intend to write the post yourself but are just suggesting an idea you think would be worth pursuing, please make this clear in your issue description.
 
@@ -103,7 +103,7 @@ Below are links to blog post proposals that demonstrate the value the post will 
 1. Use the `Blog post` merge request template for your MR and ensure it is set to close the associated issue automatically.
 1. Assign the issue and associated merge request to yourself and apply the appropriate labels based on what stage of creation you are on. Once it's ready for editorial review, assign both to @rebecca. She will assign a member of the Editorial team to review the post.
 
-Note for the Content team: If your blog post is already scheduled and appears on the [blog calendar](/handbook/marketing/blog/#blog-calendar) please submit your MR and associated issue directly to @vsilverthorne or @skassabian for review.
+Note for the Content team: If your blog post is already scheduled and appears on the [blog calendar](/handbook/marketing/growth-marketing/content/editorial-team/#blog-calendar) please submit your MR and associated issue directly to @vsilverthorne or @skassabian for review.
 {: .alert .alert-info .note}
 
 Blog post ideas and proposals for [Content Hack Day](/handbook/marketing/corporate-marketing/content/content-hack-day/) should be created in the [Content Hack Day project](https://gitlab.com/gitlab-com/content-hack-day). We keep these issues in a separate project because not all ideas and proposals that come from Hack Day will be worked on.
