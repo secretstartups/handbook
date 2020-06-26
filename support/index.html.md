@@ -287,8 +287,6 @@ The regions listed above are the regions for which each call may be the most con
 
 All Zoom and agenda links can be found on the relevant calendar entry in the Support Calendar.
 
-Past recordings of our meetings are [available on Google Drive](https://drive.google.com/drive/u/0/folders/0B5OISI5eJZ-DcnBxS05QUTdyekk).
-
 #### Support Leadership Meetings
 
 The Support management team meet regularly. Details of these calls are on the [Support Managers page](/handbook/support/managers)
