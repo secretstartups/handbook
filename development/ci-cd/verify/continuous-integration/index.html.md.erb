@@ -141,6 +141,17 @@ The Continuous Integration category covers a wide feature area, so in order to c
 | `ci::triggers` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::triggers) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::triggers) | Issues related to pipeline triggers|
 | `ci::variables` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::variables) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::variables) | Relates to functionality surrounding pre-defined and user-defined variables available in the Build environment. Formerly `~ci variables` |
 
+#### Collaboration with UX and Engineering
+
+Product Designers play a critical role in the development of user facing issues. They collaborate with the [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) and the Product Manager to design the user experience for the issue. Once the design is agreed upon, the DRI is assigned to implement that design and functionality during the milestone for which the issue is planned.
+
+The DRI is responsible for ensuring their solution matches the design and functionality agreed upon in the issue. The Product Designer will continue to help collaborate on the issue throughout the milestone where needed (e.g. questions, roadblocks, etc.), but their approval on merge requests is not required. Instead, they work with the Product Manager to do feature and UX assurance of the solution once it has been deployed to production.
+
+The DRI works with the Product Designer throughout the `workflow:in dev` phase to uncover possible problems with the solution early enough that exhibit unexpected behaviour to what was originally agreed upon. If there are changes to be added that weren't agreed upon in the initial issue - a followup issue should be made and the DRI should work with the Product Manager to schedule that issue in a following milestone. This allows us to focus on [cleanup over signoff](https://about.gitlab.com/handbook/values/#cleanup-over-sign-off), iterate quickly on issues with [a low level of shame](https://about.gitlab.com/handbook/values/#low-level-of-shame), and still make sure we accomplish what we've agreed upon. We should be careful not to hold off on completing these followup issues so that we don't build up a significant amount of UX debt issues.
+
+If we find that solutions are consistently not matching the agreed upon design, we will hold a retrospective with the DRI, designer, and product manager to discuss where the gaps in communication are so that we can improve. It may be necessary to begin requiring a UX approval for merge requests on certain issues to help the DRI meet the requirements.
+
+
 ### Technical debt
 
 We track our technical debt using the following [CI Technical Debt board](https://gitlab.com/groups/gitlab-org/-/boards/1438885), where we track issues in the planning phase. This board has 2 main sections:
