@@ -24,7 +24,7 @@ In general, you should look for customer details in this order:
 3. Within customers.gitlab.com
 
 For an overview and runthrough of all three platforms, watch Amanda Rueda's
-[How to use Salesforce from a support perspective](https://drive.google.com/file/d/1HLMRvom0REVbP6-vmsgfdNOfBLqs2fEc/view)
+[How to use Salesforce from a support perspective](https://drive.google.com/drive/u/0/search?q=Amanda%27s%20Salesforce%20Class%20parent:1JDdcj2ESdCc_ReG0-n7RyAIxbIFkcQ1K)
 video.
 
 ### Within Zendesk

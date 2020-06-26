@@ -359,7 +359,7 @@ Managers will:
 
 If you're interested in becoming a stable counterpart for a group, please create an MR to add your name under 'Support' for the relevant team on [data/stages.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/stages.yml) and add your name to the list on the [source/includes/product/_categories-names.erb](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/includes/product/_categories-names.erb) file, then assign to your manager.
 
-There's a [video on google drive](https://drive.google.com/open?id=1BL3d9dKC6Ksmuj3wwqN-WCDBqdROpaNt) (internal link) with some discussion on how to perform the role.
+There's a [video on google drive](https://drive.google.com/drive/u/0/search?q=parent:1-Cb1GVf5KfsehPDtCWjz6Q1u1b4xE37D) (internal link) with some discussion on how to perform the role.
 
 Tips:
 - Subscribe to issues at the [group level](https://gitlab.com/groups/gitlab-org/-/issues) to pick up all the projects that make up GitLab.

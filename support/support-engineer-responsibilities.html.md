@@ -17,7 +17,7 @@ title: Support Engineer Responsibilities
 1. The '**What does success look like?**' sections help encourage consistent contributions across our global team. They're not 'hard targets' that must be met. They're to help you know how and where to contribute to succeed in your role.
 1. **Performance measurement for annual reviews and promotions are separate activities to the core responsibilities described here.**
      1. The People Group is responsible for the [GitLab annual review process](/handbook/people-group/360-feedback/).
-     1. Speak to your manager about working towards a promotion and view the [promotion template documents in the Support team drive](https://drive.google.com/drive/folders/1LZ6AkjVv4JW0CiHYTGzyMQdGadyOgDY_) (Internal only).
+     1. Speak to your manager about working towards a promotion and view the [promotion template documents in the Support team drive](https://drive.google.com/drive/search?q=parent:1LZ6AkjVv4JW0CiHYTGzyMQdGadyOgDY_) (Internal only).
 1. Support Engineering has [team level performance indicators](/handbook/support/#how-we-measure-our-performance). Successfully carrying out the responsibilities on this page will, directly or indirectly, help improve our KPIs. All team-level KPIs are, in turn, related to GitLab's company-level [Objectives and Key Results](https://about.gitlab.com/company/okrs/).
 
 ## Support Engineer Areas of Focus

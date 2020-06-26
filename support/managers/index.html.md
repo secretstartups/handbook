@@ -57,7 +57,7 @@ The purpose of these meetings is **not** to:
 
 ### Organization of Support Leadership Meetings
 
-1. The agenda and notes are in a Google Doc: [Support leadership calls agenda and notes](https://docs.google.com/document/d/1lwi6bfVIkgdq_f7TVGNF7DDTwIc-mYVx1jelWzg6sLo/edit) (internal only)
+1. The agenda and notes are in a Google Doc: [Support leadership calls agenda and notes](https://drive.google.com/drive/u/0/search?q=%22Support%20leadership%20calls%20agenda%20and%20notes%20%282020%29%22%20parent:1eBkN9gosfqNVSoRR9LkS2MHzVGjM5-t5) (internal only)
 1. Most agenda items should be linked to an existing issue. If an item does not have an existing issue, raise one before putting it in the agenda.
 1. Agenda items that do not need to be linked to an existing issue are:
    - Discussion surrounding a specific individual's promotion, performance or individual situation
@@ -71,7 +71,7 @@ The purpose of these meetings is **not** to:
    make progress through the agenda.
 1. All participants should be familiar with the [Video Calls Section](/handbook/communication/#video-calls)
    of the Communication page in the Handbook.
-1. See this video, [Managing Support Leadership Sync Agendas and Meetings](https://drive.google.com/open?id=1wwQwMPdkkDnAcxLAMm2nCXVv52XmPtlt),
+1. See this video, [Managing Support Leadership Sync Agendas and Meetings](https://drive.google.com/drive/u/0/search?q=managing%20support%20leadership%20sync%20agendas%20and%20meetings%20parent:1h1iaTgBbZJZG7CBNYUCRQPhMXe1xXlbM),
 for more information, including how to edit and use the agenda and notes document. 
 
 ### Call Procedure

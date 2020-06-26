@@ -168,7 +168,7 @@ Proceed in the following order:
 
 1. Unpack the project export file into a folder: `tar -zxvf filename.tar.gz -C project_export`.
 1. **[USERS MAPPED ONLY!]** Perform one last [Verify User List](#2-verify-user-list) check to ensure no changes have been made.
-1. If the customer shared a one-time download link, upload the export to the [appropriate team's GDrive folder](https://drive.google.com/drive/folders/1RpCb_li2RTYsE8GnVFExCux3QpZ2i0TD) and use the link to this version for the import issue.
+1. If the customer shared a one-time download link, upload the export to the [appropriate team's GDrive folder](https://drive.google.com/drive/search?q=parent:1RpCb_li2RTYsE8GnVFExCux3QpZ2i0TD) and use the link to this version for the import issue.
 1. Delete the export from GDrive once Infrastructure has confirmed that they have a copy (as per the infra import issue).
 1. Delete any local copies of the export.
 
@@ -215,6 +215,6 @@ After the import has completed successfully, perform the following steps.
 
 ### Resources
 
-If it's helpful, there is a [video recording from 2019-05-22](https://drive.google.com/open?id=1v0LQi0povBlP2RhpsD1drfpux5kFq7Fq) (GitLab internal) where the first half is a walkthrough of the process, and the second half talks through troubleshooting issues.
+If it's helpful, there is a [video recording from 2019-05-22](https://drive.google.com/drive/u/0/search?q=2019-05-22_import-session parent:1Yli_1UlO1vrzhCuNN1pdZLRpqbfYQW7Q) (GitLab internal) where the first half is a walkthrough of the process, and the second half talks through troubleshooting issues.
 
 [Time And Date](https://www.timeanddate.com/worldclock/converter.html?iso=20200615T220000&p1=1440) can be used to convert timezones to UTC, useful for when imports are scheduled for a future time.
