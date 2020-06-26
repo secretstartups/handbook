@@ -234,7 +234,7 @@ Thoughput for the CoS team is measured as all MRs in [across GitLab Company name
 Executive Time is measured through the CEO calendar. [Sid's Calendar Export](https://docs.google.com/spreadsheets/d/1xVaH7zrY8MIwI2TbZrcQnc8yepuHFFk87Ga7KZTB28o/edit?usp=drive_web&ouid=113483692538021736976) is a private google sheet built of a google apps script.
 The script is triggered to download all of the Calendar data every time it is run.
 The `filtered_columns` tab on this sheet pulls only the relevant columns for analyses.
-This tab is then pulled by [SheetLoad](/handbook/business-ops/data-team/#using-sheetload) into the SheetLoad drive and then ingested into [Snowflake](/handbook/business-ops/data-team/#-data-warehouse).
+This tab is then pulled by [SheetLoad](/handbook/business-ops/data-team/data-platform/#using-sheetload) into the SheetLoad drive and then ingested into [Snowflake](/handbook/business-ops/data-team/#-data-warehouse).
 Events [are categorized based on the event name and sender](https://gitlab.com/gitlab-data/analytics/blob/master/transform/snowflake-dbt/models/sheetload/base/sheetload_calendar.sql#L20), as outlined by the [EBA team best practices](/handbook/eba/#eba-team-best-practices).
 All personal events are filtered out.
 Those categories are applied to our [OKRs](/company/okrs/).
