@@ -32,7 +32,7 @@ Terraform configuration is currently divided into three environment:
 * [ops](https://ops.gitlab.net/gitlab-com/gitlab-com-infrastructure/tree/master/environments/ops)
 
 
-There is [shared terraform config](https://ops.gitlab.net/gitlab-com/gitlab-com-infrastructure/tree/master/shared)
+There is [shared terraform config](https://ops.gitlab.net/gitlab-com/gitlab-com-infrastructure/-/blob/master/environments/ops/shared-configurations.tf)
 for both staging and production
 to keep topology parity between these environments. Instance sizing, fleet sizes
 and other environment specific configuration is set in variable files for
