@@ -31,32 +31,80 @@ In an effort to continually improve our ability to derive success of campaigns, 
 
 ## In Progress and Future Campaigns
 **[See Epic for FY21 Integrated Camapigns >>](https://gitlab.com/groups/gitlab-com/marketing/-/epics/749)**
-* [GitOps Use Case](https://gitlab.com/groups/gitlab-com/marketing/-/epics/745)
-* [Version Control & Collaboration Use Case](https://gitlab.com/groups/gitlab-com/marketing/-/epics/742)
-* [Germany CI Localized](https://gitlab.com/groups/gitlab-com/marketing/-/epics/809)
-* [France CI Localized](https://gitlab.com/groups/gitlab-com/marketing/-/epics/752)
 
 ## Active Integrated Campaigns
 
-### 🚀 CI Use Case
+### 🚀 GitOps Use Case
 
-**MPM Owner: Agnes Oetama**
+**MPM Owner: Eirini Pan**
 
-* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/741)
-* [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/873)
-* [Live landing page](https://about.gitlab.com/why/use-continuous-integration-to-build-and-test-faster/)
-* [Slack](https://gitlab.slack.com/archives/CVDQL20BA)
-* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001df8y)
+**Launched: 2020-06-22**
+
+* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/745)
+* [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/891)
+* [Live landing page](https://about.gitlab.com/why/gitops-infrastructure-automation/)
+* [Slack](https://gitlab.slack.com/archives/C0119FNPA84)
+* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001dgJ9)
+
+### 🚀 Version Control & Collaboration (VC&C) Use Case
+
+**MPM Owner: Jenny Tiemann**
+
+**Launched: 2020-06-09**
+
+* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/742)
+* [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/927)
+* [Live landing page](hhttps://about.gitlab.com/why/simplify-collaboration-with-version-control/)
+* [Slack](https://gitlab.slack.com/archives/CVB3AKJNA)
+* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001dfsw)
+
+### 🚀 France CI Localized
+
+**MPM Owner: Eirini Pan**
+
+**Launched: 2020-05-15**
+
+* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/752)
+* [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/956)
+* [Live landing page](https://about.gitlab.com/fr/pourquoi/integration-continue-pour-construire-et-tester-plus-rapidement/)
+* [Slack](https://gitlab.slack.com/archives/C012N4QKYQY)
+* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001dfjQ)
+
+### 🚀 German CI Localized
+
+**MPM Owner: Indre Kryzeviciene**
+
+**Launched: 2020-04-29**
+
+* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/809)
+* [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/982)
+* [Live landing page](https://about.gitlab.com/de/warum/nutze-continuous-integration-fuer-schnelleres-bauen-und-testen/)
+* [Slack](https://gitlab.slack.com/archives/C012QLG1NJD)
+* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001dfqW)
 
 ### 🚀 DevSecOps Use Case
 
 **MPM Owner: Megan Mitchell**
+
+**Launched: 2020-04-29**
 
 * [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/743)
 * [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/874)
 * [Live landing page](https://about.gitlab.com/why/shift-your-security-scanning-left/)
 * [Slack](https://gitlab.slack.com/archives/CV8GZ63GR)
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001df4w?srPos=0&srKp=701)
+
+### 🚀 CI Use Case
+
+**MPM Owner: Agnes Oetama**
+
+**Launched: 2020-04-27**
+
+* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/741)
+* [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/873)
+* [Live landing page](https://about.gitlab.com/why/use-continuous-integration-to-build-and-test-faster/)
+* [Slack](https://gitlab.slack.com/archives/CVDQL20BA)
+* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001df8y)
 
 ### 🚀 Increase operational efficiencies
 
@@ -71,6 +119,8 @@ In an effort to continually improve our ability to derive success of campaigns, 
 ### 🚀 AWS Partner
 
 **MPM Owner: Nout Boctor-Smith**
+
+**Launched: 2020-09-22**
 
 * [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/624)
 * [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/638)
