@@ -22,12 +22,12 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
 
 - GitLab BV (Netherlands) - HR Savvy
 - GitLab BV (Belgium) - SD Worx
-- GitLab IT BV - iiPay payment service
+- GitLab IT BV - [iiPay](#iipay)
 - GitLab Federal (US) - ADP
 - GitLab Inc (US) - ADP
 - GitLab GmbH (Germany) - CloudPay
 - GitLab LTD (UK) - Vistra
-- GitLab PTY (Australia) - CloudPay
+- GitLab PTY (Australia) - [iiPay](#iipay)
 - GitLab PTY (New Zealand) - CloudPay
 - GitLab Canada Corp (Canada) - CloudPay
 
@@ -46,7 +46,7 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
 1. Employees of GitLab PTY NZ will get pay their salary on the 28th of each month, and they can access their pay slip via [CloudPay's ESS portal](https://payroll.cloudpay.net/app/servlet/workflow?mode=ess).
 1. Employees of GitLab BV that are employed through GitLab's co-employer PE0:
    - Global Upside (India) will get their salary wired by the last day of the month. Global Upside will send pay slips electronically through their HR portal.
-   - Safeguard are paid monthly and on the last day of the month (depending on the country) with exception to Switzerland, which is the 25th of each month.Payslips are provided electronically by Safeguard.
+   - Safeguard are paid monthly and on the last day of the month (depending on the country) with exception to Switzerland, which is the 25th of each month. Pay slips are provided electronically by Safeguard.
 1. Contractors from Nigeria, South Africa, and the US will get pay within 15 days after they submitted their monthly invoices for services to nonuspayroll@gitlab.com.
 1. Contractors from Poland, Russia,Ukraine & Romania will get paid by the 25th of each month through CXC Global.
 1. All other contractors will get pay on the 22nd of the month by iiPay and remittance advice will send to their gitlab email address.
@@ -188,10 +188,16 @@ Generate the following reports and saved them on Google Shared drive for Federal
 1. Payroll notify Financial Controller after each Payroll is approved.
 
 
-### Contractors
+### iiPay
 
-#### iiPay:
+To view pay slips visit the [iiPay sign-in portal](https://pay.iipaysp.com/GITL).
+
+If you have not received an invitation to create an account, visit the [register URL](https://pay.iipaysp.com/RegisterUser/GITL).
+
+#### Contractors:
+
 1. Team members must submit their salary invoices through BambooHR and expenses through Expensify by the 8th of each month. For example, submit May salary invoice in the month of May, which is the current month.
+
 1. To enter salary invoice in BambooHR:
    * Visit "My Info" page
    * Select "Request a Change", locate at the upper right corner in that section
