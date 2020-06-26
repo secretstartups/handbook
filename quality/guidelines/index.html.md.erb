@@ -80,7 +80,7 @@ This shall follow our [dogfooding](/handbook/engineering#dogfooding) process.
 ## Quality Department pipeline triage on-call rotation
 
 This is a schedule to share the responsibility of debugging/analysing the failures
-in the various scheduled pipelines that run on multiple environments. 
+in the various scheduled pipelines that run on multiple environments.
 Quality department's on-call do not include work outside GitLab's normal business hours.
 In the current iteration, we have a timezone based rotation and triage activities happen during each team member's working hours.
 
@@ -96,6 +96,7 @@ and for [specific instructions on how to do an appropriate level of investigatio
 * Reporting and analyzing the End to End test failures in [Staging](https://ops.gitlab.net/gitlab-org/quality/staging/pipelines), [Canary](https://ops.gitlab.net/gitlab-org/quality/canary/pipelines) and [Production](https://ops.gitlab.net/gitlab-org/quality/production/pipelines) pipelines takes priority over [Nightly](https://gitlab.com/gitlab-org/quality/nightly/pipelines), MR, [GitLab `master`](https://gitlab.com/gitlab-org/gitlab/pipelines) or [GitLab FOSS `master`](https://gitlab.com/gitlab-org/gitlab-foss/pipelines) pipelines.
 * If there is a time constraint, the [DRI] should report and analyze the failures in [Staging](https://ops.gitlab.net/gitlab-org/quality/staging/pipelines), [Canary](https://ops.gitlab.net/gitlab-org/quality/canary/pipelines) and [Production](https://ops.gitlab.net/gitlab-org/quality/production/pipelines) pipelines just enough to determine if it is an application or an infrastructure problem, and [escalate as appropriate](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html). All the reported failures in those pipelines should be treated as ~P1/~S1 until it's determined that they're not. That means they should be investigated ASAP, ideally within 2 hours of the report. If the [DRI] will not be able to do so, they should delegate any investigation they're unable to complete to the Secondary. If the Secondary is not available or will also not be able to complete the investigations, solicit help in the #quality slack channel.
 * It is important that all other failure investigations are completed in a timely manner, ideally within 24 hours of the report. If the [DRI] is unable to investigate all the reported failures on [all the pipelines](/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#scheduled-qa-test-pipelines) on time, they should delegate the remaining work to the Secondary. If the Secondary is not available, solicit help in the #quality slack channel.
+* Cross-cutting issues such as https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/530 are triaged by the on call DRI to determine the next action. Other team-members should notify the DRI if they come across such an issue. The DRI can inform the rest of the department via the #quality channel, if necessary.
 * Everyday the APAC/EMEA Primary DRI summarizes the failures found for that day in the triage issue and this serves as an asynchronous handoff to the AMER DRI.
 * On Tuesdays and Thursdays at 8:30AM PST, there is a "Pipeline on-call rotation standup/hand-off" meeting which help in more collaboration.
 
