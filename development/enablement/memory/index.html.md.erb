@@ -22,46 +22,13 @@ The Memory team is responsible for optimizing GitLab application performance by 
 The following people are permanent members of the Memory Team:
 
 <%-# Hard coding the team makeup for now until team.yml reflects the team structure -%>
-<table>
-<thead>
-<tr>
-<th>Person</th>
-<th>Role</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Craig Gomes</td>
-<td><a href="/job-families/engineering/backend-engineer/#engineering-manager">Engineering Manager, Memory</a></td>
-</tr>
-<tr>
-<td>Kamil Trzciński</td>
-<td><a href="/job-families/engineering/distinguished-engineer/">Distinguished Engineer, Ops and Enablement</a></td>
-</tr>
-<tr>
-<td>Qingyu Zhao</td>
-<td><a href="/job-families/engineering/backend-engineer">Senior Backend Engineer, Memory</a></td>
-</tr>
-<tr>
-<td>Aleksei Lipniagov</td>
-<td><a href="/job-families/engineering/backend-engineer">Senior Backend Engineer, Memory</a></td>
-</tr>
-<tr>
-<td>Nikola Milojevic</td>
-<td><a href="/job-families/engineering/backend-engineer">Senior Backend Engineer, Memory</a></td>
-</tr>
-<tr>
-<td>Matthias Käppler</td>
-<td><a href="/job-families/engineering/backend-engineer">Senior Backend Engineer, Memory</a></td>
-</tr>
-</tbody>
-</table>
+<%= direct_team(manager_role: 'Backend Engineering Manager, Memory') %>
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Memory/, direct_manager_role: 'Backend Engineering Manager, Memory & Database') %>
+<%= stable_counterparts(role_regexp: /[,&] Memory/, direct_manager_role: 'Backend Engineering Manager, Memory') %>
 
 ## Meetings
 Where we can we follow the GitLab values and communicate asynchronously.  However, there have a few important recurring meetings.  Please reach out to the [#g_memory](https://gitlab.slack.com/messages/CGN8BUCKC) Slack channel if you'd like to be invited.

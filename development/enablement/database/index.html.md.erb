@@ -24,39 +24,13 @@ The following people are permanent members of the Database Team:
 The following people are permanent members of the Database Team:
 
 <%-# Hard coding the team makeup for now until team.yml reflects the team structure -%>
-<%-# <%= direct_team(manager_role: 'Engineering Manager, Database') %>
-<table>
-<thead>
-<tr>
-<th>Person</th>
-<th>Role</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Craig Gomes</td>
-<td><a href="/job-families/engineering/backend-engineer/#engineering-manager">Engineering Manager, Database</a></td>
-</tr>
-<tr>
-<td>Andreas Brandl</td>
-<td><a href="/job-families/engineering/backend-engineer">Staff Backend Engineer, Database</a></td>
-</tr>
-<tr>
-<td>Patrick Bair</td>
-<td><a href="/job-families/engineering/backend-engineer">Senior Backend Engineer, Database</a></td>
-</tr>
-<tr>
-<td>Yannis Roussos</td>
-<td><a href="/job-families/engineering/backend-engineer">Senior Backend Engineer, Database</a></td>
-</tr>
-</tbody>
-</table>
+<%= direct_team(manager_role: 'Backend Engineering Manager, Database') %>
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Database/, direct_manager_role: 'Backend Engineering Manager, Memory & Database') %>
+<%= stable_counterparts(role_regexp: /[,&] Database/, direct_manager_role: 'Backend Engineering Manager, Database') %>
 
 ## Meetings
 
