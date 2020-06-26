@@ -18,11 +18,11 @@ Our team is structured as business partners to the rest of Marketing - see focus
 ## Marketing Operations README's
 
 * Dara Warde, Director
-* Claudia Beer, Manager
-* Beth Peterson, Senior - SDR focus
-* Amy Waller, Senior - Campaign focus
-* [Sarah Daily](/handbook/marketing/marketing-operations/readme/sarah-daily/index.html) - Content focus
-* Nichole LaRue - SDR focus
+* Claudia Beer, Manager - Oversees business partners
+* Beth Peterson, Senior - SDR business partner
+* Amy Waller, Senior - Campaign business partner
+* [Sarah Daily](/handbook/marketing/marketing-operations/readme/sarah-daily/index.html) - Content business partner
+* Nichole LaRue - SDR business partner
 * Jameson Burton, Associate
 * Robert Kohnke - Reporting
 
@@ -42,10 +42,10 @@ The main tools used by Marketing and integrated with Salesforce are:
 - [LeanData](/handbook/marketing/marketing-operations/leandata)
 - [PathFactory](/handbook/marketing/marketing-operations/pathfactory)
 - [Sigstr](/handbook/marketing/marketing-operations/sigstr)
-- Demandbase
+- [Demandbase](/handbook/marketing/revenue-marketing/account-based-marketing/#demandbase)
 - DiscoverOrg
 - LinkedIn Sales Navigator
-- Bizible
+- [Bizible](/handbook/marketing/marketing-operations/bizible/)
 
 Other tools directly used by Marketing and maintained by Marketing Operations:  
 - [Bizzabo](/handbook/marketing/marketing-operations/bizzabo)
@@ -77,10 +77,10 @@ If you are interested in or would like to request a new tool be added to the tec
 
 ## Working with Marketing Operations
 
-### MktgOps Motto: If it isn't an Issue, it isn't OUR issue.   
+### Our Motto: If it isn't an Issue, it isn't OUR issue.   
 
-### MktgOps Issues
-The MktgOps team works from issues and issue boards. If you are needing our assistance with any project, please open an issue and use the ~MktgOps::0 - To Be Triaged label anywhere within the GitLab repo. 
+### Use of Issues
+The MktgOps team works from issues and issue boards. If you are needing our assistance with any project, please open an issue and use the ~MktgOps::0 - To Be Triaged label anywhere within the GitLab repo. Prior to opening a new issue, feel free to reach out to your business partner to see if there is already a related issue that you can add your comments to.
 
 With [Agile Delivery](https://about.gitlab.com/solutions/agile-delivery/) being one of the solutions that GitLab (as a product) addresses, the Marketing Operations team aims to follow many of the agile methodologies. To help us in that effort, please create any Marketing Operations issues in the following format. 
 
@@ -89,15 +89,20 @@ With [Agile Delivery](https://about.gitlab.com/solutions/agile-delivery/) being 
 **Format:** `As a _____ (role in marketing), I would like to ____________(need), so that ________________(reason).`
 
 MktgOps uses a [global issue board](https://gitlab.com/groups/gitlab-com/-/boards/825719) and will capture any issue in any group/sub-group in the repo since we work with so many other teams. There is also a [`Marketing Operations` project](https://gitlab.com/gitlab-com/marketing/marketing-operations) within the [`Marketing` project](https://gitlab.com/gitlab-com/marketing).     
+### Use of Epics
 
+In order to categorize various related issues, we will make use of epics to help a team member organize our work, especially if it crosses multiple milestones. If it is a MktgOps epic, we will add the `In Epic` label to it, so that we can easily see that it is part of an epic on our kanban board.
+
+### Labeling
 
 We use Labels for several purposes. One is to categorize the tool or area that is affected. Another is to show priority. And lastly, we may use them to identify the stage they are in, either before or after being put into a milestone/iteration. We generally use the stage labels for our kanban Columns.
 
 **Categories:**
-- `MktgOps - FYI`: Issue is not directly related to operations, no action items for MktgOps but need to be aware of the campaign/email/event
+- `MktgOps - FYI`: Issue is not directly related to operations, no action items for MktgOps but need to be aware of the issue
 - `MktgOps - Reporting`: Any reporting request for MktgOps
-- `MktgOps - List Import`: Used for list imports of any kind - event or general/ad hoc
+- `MktgOps - List Import`: Used for list imports of any kind - event or general/ad hoc (do not also use To Be Triaged scoped label)
 - `Marketo`, `Bizible`, `Cookiebot`, `Demandbase`, `DiscoverOrg`, `Drift`, `GDPR`, `LeanData`, `LinkedIn Sales Navigator`, `Outreach-io`, `PathFactory`, `Periscope`, `Sigstr`: used to highlight one of our tech stack tools
+- `In Epic`: bright yellow label to show that it is part of a MktgOps epic
 
 **Priorities:**
 - `MktgOps-Priority::1 - Top Priority`: Issue that is related to a breaking change, OKR focus, any other prioritized project by MktgOps leadership. This category will be limited because not everything can be a priority.
@@ -108,14 +113,14 @@ We use Labels for several purposes. One is to categorize the tool or area that i
 
 *Backlog*
 
-- `MktgOps::0 - To Be Triaged`: Issue initially created, used in templates, the starting point for any label that involves MktgOps (except for List Uploads)
-- `MktgOps::1 - Planning`: Issues that are currently being scoped/considered but are not being actively worked on.
-- `MktgOps::2 - On Deck`: Issues that have been scoped/considered and will be added to the In Process queue next. 
-- `MktgOps::5 - On Hold`: Issue that is not within existing scope of Mktg OPS current targets, blocked by MktgOps-related task/issue, or external (non-GitLab) blocker. May be a precursor to being closed out.
-- `MktgOps::6 - Blocked`: Issue that is currently being worked on by Mktg Ops and at least one other team wherein MktgOps is waiting for someone else/another team to complete an action item before being able to proceed.
+- `MktgOps::0 - To Be Triaged`: Issue initially created, used in templates, the starting point for any label that involves MktgOps (except for List Uploads); no real discussion on the issue; generally unassigned
+- `MktgOps::1 - Planning`: Issues assigned to a MktgOps team meber and are currently being scoped/considered but are not being actively worked on yet.
+- `MktgOps::2 - On Deck`: Issues that have been scoped/considered and will be added to an upcoming iteration/milestone.
+- `MktgOps::5 - On Hold`: Issue that is not within existing scope of Mktg OPS current targets, or another department as deprioritized. May be a precursor to being closed out.
+- `MktgOps::6 - Blocked`: Issue that was being worked on by Mktg Ops and at least one other team wherein MktgOps is waiting for someone else/another team to complete an action item before being able to proceed. Could be locked by MktgOps-related task/issue, or external (non-GitLab) blocker.
 
 *In Milestone*
-- `MktgOps::3 - In Process`: Issues that are actively being worked on in the current two-week/sprint
+- `MktgOps::3 - In Process`: Issues that are actively being worked on in the current two-week sprint/milesstone.
 - `MktgOps::4 - UAT`: Issues that MktgOps has completed its required tasks for and is ready for User Acceptance Testing/review and approval by the Requester/Approver.
 - `MktgOps::7 - Completed`: MktgOps has completed their task on this issue although the issue may not be closed. The hope is that we will be using this one less as we simply scope an issue so that MktgOps can just close it when complete.
 
