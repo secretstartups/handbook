@@ -102,6 +102,50 @@ This tactic also creates an environment to ask for early review on a WIP merge r
 #### Measurement
 If the **Code Review** and **Starting New Work** sections do not have a meaningful impact by the end of %13.2 we will remove them from our process playbook. We define meaningful impact as reducing the amount of issues we carry over milestone to milestone by at least 15% - from 15 to below 12 (Ideally much lower).
 
+### Issue progress updates
+When an engineer is actively working (workflow of ~workflow::"In dev" or further right on current milestone) on an issue they will periodically leave status updates as top-level comments in the issue. The status comment should include the updated health status, any blockers, notes on what was done, if review has started, and anything else the engineer feels is beneficial. If there are multiple people working on it also include whether this is a front end or back end update. An update for each of MR associated with the issue should be included in the update comment. Engineers should also update the [health status](https://docs.gitlab.com/ee/user/project/issues/#health-status-ultimate) of the issue at this time.
+
+This update need not adhere to a particular format. Some ideas for formats:
+
+```text
+Health status: (On track|Needs attention|At risk)
+Notes: (Share what needs to be shared specially when the issue needs attention or is at risk)
+```
+
+```text
+Health status: (On track|Needs attention|At risk)
+What's left to be done:
+What's blocking: (probably empty when on track)
+```
+
+```text
+## Update <date>
+Health status: (On track|Needs attention|At risk)
+What's left to be done:
+
+### MRs
+1. !MyMR1
+1. !MyMR2
+1. !MyMR3
+```
+
+There are several benefits to this approach:
+
+* Team members can better identify what they can do to help the issue move along the board
+* Creates an opening for other engineers to engage and collaborate if they have ideas
+* Leaving a status update is a good prompt to ask questions and start a discussion
+* The wider GitLab community can more easily follow along with product development
+* A history of the roadblocks the issue encountered is readily available in case of retrospection
+* Product and Engineering managers are more easily able to keep informed of the progress of work
+
+Some notes/suggestions:
+
+* We typically expect engineers to leave at least one status update per week, barring special circumstances
+* Ideally status updates are made at a logical part of an engineers workflow, to minimize disruption
+* It is not necessary that the updates happen at the same time/day each week
+* Generally when there is a logical time to leave an update, that is the best time
+* Engineers are encouraged to use these updates as a place to collect some technical notes and thoughts or "think out loud" as they work through an issue
+
 ### Closing Issues
 After an engineer has ensured that the [Definition of Done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done) is met for an issue, they are the ones responsible for closing it. The engineer responsible for verifying an issue is done is the engineer who is the DRI for that issue, or the DRI for the final merge request that completes the work on an issue.
 
@@ -114,7 +158,7 @@ This synchronous meeting is to discuss anything that is blocking, or notable fro
 #### Testing Group Refinement Meeting
 This synchronous meeting is to refine and triage the current and next milestone's issues. In this meeting we should be: discussing priority, sizing issues, estimating the weight of issues, keeping track of our milestone bandwidth and removing issues appropriately.
 
-### Async Daily Standups
+#### Async Daily Standups
 
 We use [geekbot](https://geekbot.com/) integrated with Slack for our daily async standup. The purpose of the daily standup meeting is to keep the team informed about what everyone is working on, and to surface blockers so we can eliminate them. The standup bot will run at 10am in the team members local time and ask 2 questions:
 1. What will you do today?
