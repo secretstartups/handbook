@@ -312,7 +312,7 @@ If the notetaker is not available when it is their turn, they should find a subs
 
 ### Support Week in Review
 
-Every Friday, we do a week in review, inspired by the [greater Engineering organization week in review](https://docs.google.com/document/d/1EkfzI85aqw8chYDBf2GLRvjKEa3s0FWHMI3u0DIr-xg/edit).  You can add topics any time to the [support week in review google document](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/edit).
+Every Friday, we do a week in review, inspired by the [greater Engineering organization week in review](https://drive.google.com/drive/u/0/search?q=type:document%20title%20%22Engineering%20week-in-review%22).  You can add topics any time to the [support week in review google document](https://drive.google.com/drive/u/0/search?q=%22Support%20Week%20in%20Review%22%20-archive%20-Senior%20parent:1eBkN9gosfqNVSoRR9LkS2MHzVGjM5-t5).
 
 Any workflow changes or announcements should be shared in the SWIR and we recommend you check at least once a week to stay up to date on recent changes.
 Ideally, the information shared here should have a permanent location such as an issue or merge request.

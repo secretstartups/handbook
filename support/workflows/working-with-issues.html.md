@@ -51,7 +51,7 @@ Required:
 - [Stage](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#stage-labels): Unsure of which? Check out [label descriptions](https://gitlab.com/gitlab-org/gitlab/-/labels), [DevOps Stages](/handbook/product/categories/#devops-stages), [features list by stage](/features) or similar existing issue.
 - [Type Labels](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#type-labels) should be added by the template, but *add* them if any are missing.
   - On the [GitLab.com Support Forum](https://gitlab.com/gitlab-com/support-forum/), add `~support request`.
-- `~customer`, if appropriate `~customer+`: [see list](https://docs.google.com/spreadsheets/d/19jpPvS9W0rDJUbwZ_AfdaItTxF72GGNUGh7zkrug12w/edit?usp=sharing) (internal)
+- `~customer`, if appropriate `~customer+`: [see list](https://drive.google.com/drive/u/0/search?q=title:%20%22Customer%2B%20Accounts%22) (internal)
 - `~regression ##.x` if applicable; for high-impact ones, add `~"Next Patch Release"` and ping the relevant lead and subject area experts
 
 **Note:** The use of `~customer+` is under discussion and may change in the near future. Please refer to [sales #302](https://gitlab.com/gitlab-com/sales/issues/302).

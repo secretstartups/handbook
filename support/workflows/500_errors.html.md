@@ -86,7 +86,7 @@ At times a search will turn up a Sentry issue that appears to reference the info
 
 You can then click a specific event to view the Sentry issue for that user.
 
-See the [Sentry guide](https://docs.getsentry.com/hosted/learn/search/) and [this presentation](https://docs.google.com/presentation/d/1j1J4NhGQEYBY8la6lCK-N-bw749TbcTSFTD-ANHiels/edit#slide=id.p) (GitLab internal only) for more information.
+See the [Sentry guide](https://docs.getsentry.com/hosted/learn/search/) and [this presentation](https://drive.google.com/drive/u/0/search?q=%22Sentry%22%20parent:1UT1VKASEzvCzWVX9fDLkYhDju35NxiLT) (GitLab internal only) for more information.
 
 #### Searching by Correlation ID
 

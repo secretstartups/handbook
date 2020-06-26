@@ -12,4 +12,4 @@ category: Infrastructure for troubleshooting
 
 ## Sentry
 
-This [deck](https://docs.google.com/presentation/d/1j1J4NhGQEYBY8la6lCK-N-bw749TbcTSFTD-ANHiels/edit#slide=id.p) (GitLab internal only) provides an introduction to using Sentry for tracking errors in GitLab.
+This [deck](https://drive.google.com/drive/u/0/search?q=Sentry%20parent:1UT1VKASEzvCzWVX9fDLkYhDju35NxiLT) (GitLab internal only) provides an introduction to using Sentry for tracking errors in GitLab.
