@@ -171,16 +171,20 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   click sec:ds "/job-families/engineering/security-management#director-of-security";
 ```
 
-#### Test Engineering
+#### Quality Engineering
 
 ```mermaid
   graph LR;
   qual:jset(Junior Software Engineer in Test)-->qual:iset(Intermediate Software Engineer in Test);
   qual:iset(Intermediate Software Engineer in Test)-->qual:sset(Senior Software Engineer in Test);
-
   qual:sset(Senior Software Engineer in Test)-->qual:stset(Staff Software Engineer in Test);
   qual:sset(Senior Software Engineer in Test)-->qual:qem(Quality Engineering Manager);
   qual:qem(Quality Engineering Manager)-->qual:dqe(Director of Quality Engineering);
+  
+  qual:ibeep(Intermediate Backend Engineer, Engineering Productivity)-->qual:sbeep(Senior Backend Engineer, Engineering Productivity);
+  qual:sbeep(Senior Backend Engineer, Engineering Productivity)-->qual:stbeep(Staff Backend Engineer, Engineering Productivity);
+  qual:ibeep(Senior Backend Engineer, Engineering Productivity)-->qual:bemep(Backend Engineering Manager, Engineering Productivity);
+  qual:bemep(Backend Engineering Manager, Engineering Productivity)-->qual:dqe(Director of Quality Engineering);
 
   click qual:jset "/job-families/engineering/software-engineer-in-test#junior-software-engineer-in-test";
   click qual:iset "/job-families/engineering/software-engineer-in-test#intermediate-software-engineer-in-test";
