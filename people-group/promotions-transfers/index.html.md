@@ -309,7 +309,7 @@ After the offer is approved and extended by the hiring manager, the Recruiter wi
 
 Once the contract is signed, the Candidate Experience Specialist will move the internal candidate to “Hired” in Greenhouse, making sure to **not** export to BambooHR.
 
-After the internal candidate is moved to “Hired”, the recruiting team will notify the Total Rewards Analyst who will [update BambooHR]((/handbook/people-group/promotions-transfers/#processing-promotion-or-transfer-changes) with appropriate changes.
+After the internal candidate is moved to “Hired”, the recruiting team will notify the Total Rewards Analyst who will [update BambooHR](/handbook/people-group/promotions-transfers/#processing-promotion-or-transfer-changes) with appropriate changes.
 
 ### Leveling Up Your Skills
 
