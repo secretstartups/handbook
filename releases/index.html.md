@@ -25,8 +25,8 @@ title: "Releases"
 
 ## Overview and terminology
 
-* **Monthly self-managed release**: GitLab version (XX.YY.0) [published every month on the 22nd](https://gitlab.com/gitlab-org/release/docs/blob/master/general/monthly/process.md). From this monthly release, [patch](https://gitlab.com/gitlab-org/release/docs/blob/master/general/patch/process.md), [non-critical](https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/process.md#non-critical-security-releases), and [critical](https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/process.md#critical-security-releases) security releases are created as needed
-* **GitLab.com releases**: [Auto-deploy releases](https://gitlab.com/gitlab-org/release/docs/blob/master/general/deploy/auto-deploy.md) that are deployed from [auto-deploy branches created from master][auto-deploy], on regular intervals
+* **Monthly self-managed release**: GitLab version (XX.YY.0) [published every month on the 22nd][process-monthly-release]. From this monthly release, [patch][process-patch-release], [non-critical][process-security-release-non-critical], and [critical][process-security-release-critical] security releases are created as needed
+* **GitLab.com releases**: [Auto-deploy releases][process-auto-deploy-release] that are deployed from [auto-deploy branches created from master][auto-deploy], on regular intervals
 
 The `self-managed release` is a collection of many successfully deployed `auto-deploy`
 releases on GitLab.com.
@@ -331,6 +331,18 @@ In addition to that, engage with the releases managers in the [#releases] channe
 
 If a regression is found in a new feature, and only that feature is affected, follow the directions in the QA issue for a regular regression.
 
+### What's the process for a release of type X?
+
+The different processes are documented here:
+
+- Self-managed releases:
+  - [Monthly releases][process-monthly-release]
+  - [Critical security releases][process-security-release-critical]
+  - [Non-critical security releases][process-security-release-non-critical]
+  - [Patch releases][process-patch-release]
+- GitLab.com releases:
+  - [Auto-deploy releases][process-auto-deploy-release]
+
 [semver]: https://semver.org
 [canary]: /handbook/engineering#canary-testing
 [development month]: /handbook/engineering/workflow/#product-development-timeline
@@ -345,3 +357,8 @@ If a regression is found in a new feature, and only that feature is affected, fo
 [severity]: /handbook/engineering/quality/issue-triage/#severity
 [#releases]: https://gitlab.slack.com/archives/C0XM5UU6B
 [#f_upcoming_release]: https://gitlab.slack.com/archives/C0139MAV672
+[process-monthly-release]: https://gitlab.com/gitlab-org/release/docs/blob/master/general/monthly/process.md
+[process-auto-deploy-release]: https://gitlab.com/gitlab-org/release/docs/blob/master/general/deploy/auto-deploy.md
+[process-security-release-critical]: https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/process.md#critical-security-releases
+[process-security-release-non-critical]: https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/process.md#non-critical-security-releases
+[process-patch-release]: https://gitlab.com/gitlab-org/release/docs/blob/master/general/patch/process.md
