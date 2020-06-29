@@ -103,11 +103,11 @@ Automated tasks in the [release-tools] project are setup to drive the next steps
 
 - Twice every hour, a task runs to cherry-pick merge requests labeled with `~"Pick into auto-deploy"` (See [Labels of importance]).
 - Twice every hour, a task searches for the latest "green build" in the auto-deploy branch.
-  - If it finds a commit that has not been previously deployed, it will start the process of creating a new package
-  - If it the commit has already been deployed, the task will not take any actions.
+  - If it finds a commit that has not been previously deployed, it will start the process of creating a new package.
+  - If the commit has already been deployed, the task will not take any actions.
 
 When a new package is built, it is automatically deployed to `staging.gitlab.com`.
-As part of the deployment to this environment, set of automated QA integration tests are ran.
+As part of the deployment to this environment, a set of automated QA integration tests are run.
 
 When the automated QA test pass, the deployment automatically progresses to the
 [canary] stage.
