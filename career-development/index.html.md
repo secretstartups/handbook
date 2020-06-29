@@ -182,7 +182,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   
   qual:ibeep(Intermediate Backend Engineer, Engineering Productivity)-->qual:sbeep(Senior Backend Engineer, Engineering Productivity);
   qual:sbeep(Senior Backend Engineer, Engineering Productivity)-->qual:stbeep(Staff Backend Engineer, Engineering Productivity);
-  qual:ibeep(Senior Backend Engineer, Engineering Productivity)-->qual:bemep(Backend Engineering Manager, Engineering Productivity);
+  qual:sbeep(Senior Backend Engineer, Engineering Productivity)-->qual:bemep(Backend Engineering Manager, Engineering Productivity);
   
   qual:bemep(Backend Engineering Manager, Engineering Productivity)-->qual:dqe(Director of Quality Engineering);
   qual:qem(Quality Engineering Manager)-->qual:dqe(Director of Quality Engineering);
