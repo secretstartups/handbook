@@ -1,0 +1,127 @@
+---
+layout: handbook-page-toc
+title: "Sales Training"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+# **GitLab Sales Learning Framework**
+GitLab field team members are expected to be knowledgeable and proficient across a variety of topics, skills, behaviors, and processes. For ease of consumption, sales training resources are organized in 6 categories below. If you are looking for more immediate access to resources to support your selling efforts, please check out the [Sales Resources](/handbook/marketing/product-marketing/sales-resources/) page.
+
+## **GitLab Target Audiences** 
+Successful field team members must have an intimate understanding of ideal customer profiles, customer environments where opportunities for GitLab are most ripe, targeted buyer personas, industry-relevant insights, and more.
+
+| **Topic** | **Resource(s)** |
+| ------ | ------ |
+| What is GitLab’s ideal customer profile? | - [Handbook page](/handbook/marketing/revenue-marketing/account-based-marketing/#ideal-customer-profile) <br> [GitLab Account Based Marketing and Ideal Customer Profile](https://youtu.be/6TbtGiS9Eak) (Mar 2020, 34 minutes) |
+| What business problems does GitLab help customers solve? | - Check out the value drivers and other materials on the GitLab [Command of the Message page](/handbook/sales/command-of-the-message/) | 
+| What are target buyer personas and their pain points? | - [GitLab Buyer Personas](/handbook/marketing/product-marketing/roles-personas/#buyer-personas) <br> - [Interview with an IT Agility Director](/handbook/sales/it-agility-director-interview/) <br> - Learn more about [Enterprise IT roles & key pain points](/handbook/marketing/product-marketing/enterprise-it-roles/) |
+| What are target user personas and their pain points? | - [Handbook page](/handbook/marketing/product-marketing/roles-personas/#user-personas) | 
+
+## **Industry Topics & Trends**
+To serve as trusted advisors to customers and partners, GitLab field team members must be able to competently and confidently engage with customers on topics like the Software Development Life Cycle (SDLC), Source Code Management (SCM) / Version Control & Collaboration, open source & open core, DevOps, Continuous Integration & Continuous Delivery (CI/CD), containers, Kubernetes, and more.
+
+| **Topic** | **Resource(s)** |
+| ------ | ------ |
+| What is DevOps? | - [DevOps Explained](/devops/) (20 minutes) <br> - [Video](https://www.youtube.com/watch?v=_I94-tJlovg) (Dec 2013, 7 minutes) <br> - [Stages of the DevOps Lifecycle](https://about.gitlab.com/stages-devops-lifecycle/) <br> - [DevOps terms: 10 essential concepts, explained](https://enterprisersproject.com/article/2019/8/devops-terms-10-essential-concepts) <br> - [Key Findings of Annual DORA (DevOps Research & Assessment) Survey](https://www.youtube.com/watch?v=VBsQmE8LIYM) (Dec 2018, 12 minutes) <br> - [Understand the Industry in which GitLab Competes](https://www.youtube.com/watch?v=qQ0CL3J08lI) (Jan 2018, 11.5 minutes) |
+| What is the software development life cycle and how is software developed and deployed? | - [GitLab's public website on the SDLC](/sdlc/) <br> - [What is the Software Development Lifecycle (SDLC)?](https://www.youtube.com/watch?v=Ancdhr3t2sE) (July 2018, 11 minutes) <br> - [Software Development Lifecycle (SDLC) in 9 minutes!](https://www.youtube.com/watch?v=i-QyW8D3ei0) (Jan 2016, 9 minutes) <br> - [How is software made using GitLab?](https://www.youtube.com/watch?v=UuX-GnYWNwo&feature=youtu.be) (Nov 2019, 23 minutes)|
+| What is Git? | - [Git Tutorials](https://www.youtube.com/playlist?list=PLu-nSsOS6FRIg52MWrd7C_qSnQp3ZoHwW) |
+| What is cloud-native? | - [GitLab website](https://about.gitlab.com/cloud-native/) <br> - [Video on Cloud-Native Transformation](https://www.youtube.com/watch?v=WsIM034RnAc) (Mar 2019, 29 minutes) |
+| What is SCM? | - [Video](https://drive.google.com/file/d/13YIChJtWWTI2ekfM3ClSi0DMZRFpaQ9b/view) (June 2019, 29 minutes) |
+| What is CI and CD? | - [GitLab Continuous Integration (CI) & Continuous Delivery (CD)](/stages-devops-lifecycle/continuous-integration/) <br> - [Modernize Your CI/CD eBook](https://learn.gitlab.com/c/modernize-your-ci-cd) |
+| What is DevSecOps? <br> What is "shift left?" | - [DevSecOps with GitLab](/solutions/dev-sec-ops/) <br> - [2019 Global Developer Report: DevSecOps](https://learn.gitlab.com/devsecops/2019-global-develope) <br> - [Speed up secure software delivery with DevSecOps](/blog/2019/04/30/speed-secure-software-delivery-devsecops/) (Apr 2019) |
+| What is Auto DevOps? | - [Auto DevOps](/stages-devops-lifecycle/auto-devops/) |
+| What is GitOps and Infrastructure as Code? | - [Why GitOps should be the workflow of choice](/blog/2020/04/17/why-gitops-should-be-workflow-of-choice/) (Apr 2020) <br> - [Optimize GitOps workflow with version control from GitLab](/blog/2019/10/28/optimize-gitops-workflow/) (Oct 2019) <br> - [How to deploy to any cloud using GitLab for GitOps](/blog/2019/11/18/gitops-prt-3/) (Nov 2019) |
+| What is open source? | Check out [this post](https://opensource.com/resources/what-open-source) on opensource.com |
+| What is open core? | [What to consider with an open source business model](/blog/2019/07/05/thoughts-on-open-source/) (Jul 2019) |
+| What are microservices? | - [Video: What are microservices?](https://www.youtube.com/watch?v=petnTitp6CQ) (Jan 2019, 19 minutes) |
+| What is serverless? | - [What is Serverless?](https://www.youtube.com/watch?v=GBOroGozm5w) (Jan 2019, 18 minutes) | 
+| What are containers? | - [What are containers and why do you need them?](https://www.cio.com/article/2924995/what-are-containers-and-why-do-you-need-them.html) (Jun 2017) <br> - [What are containers?](https://www.youtube.com/watch?v=wuhxSLapDe0) (Mar 2018, 9 minutes) |
+| What is Kubernetes? | - [What is Kubernetes?](https://www.youtube.com/watch?v=ALW6VBviSgQ) (Jun 2018, 12 minutes) <br> - [The Evolution of the Kubernetes Landscape](https://www.youtube.com/watch?v=5OLkPK4MRVQ) (Nov 2019, 30 minutes) <br> - [First Steps to Becoming Certified Kubernetes App Developer](https://www.katacoda.com/courses/kubernetes/first-steps-to-ckad-certification) (30-60 minutes) <br> - [Kubernetes API Fundamentals](katacoda.com/openshift/courses/operatorframework/k8s-api-fundamentals) (30 minutes) |
+| What is complete DevOps? | - [The entire DevOps lifecycle in one application](https://about.gitlab.com/stages-devops-lifecycle/) |
+| What is concurrent DevOps? | - [Video](https://www.youtube.com/watch?v=bDTYHGEIeM0) (Apr 2019, 24.5 minutes) <br> - GitLab Concurrent DevOps white paper ([internal link](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/source/resources/downloads/gitlab-concurrent-devops-whitepaper.pdf)) ([gated link](https://about.gitlab.com/resources/whitepaper-concurrent-devops/)) |
+| How do I keep up to date with industry trends? | - Review and subscribe to the following blogs: [Hacker News](https://news.ycombinator.com/), [Martin Fowler](https://martinfowler.com/), and [New Stack](https://thenewstack.io/) | 
+
+## **Why GitLab?**
+GitLab field team members must be able to clearly articulate a compelling, differentiated, value-driven message to customers, prospects, and partners.
+
+| **Topic** | **Resource(s)** |
+| ------ | ------ |
+| What is GitLab? | - [Video](https://www.youtube.com/watch?v=MqL6BMOySIQ) (Sep 2018, 3 minutes) <br> - [GitLab infomercial](https://youtu.be/gzYTZhJlHoI) featuring David Astor (Feb 2020, 5.5 minutes) |
+| Key value drivers and differentiators | - Review the [Command of the Message](/handbook/sales/command-of-the-message/) page <br> - [Operational Efficiencies](https://youtu.be/8z1ek4Qwnqw) (May 2020, 32 minutes) <br> - [End to End Visibility & Insights](https://youtu.be/cduwGbXOScY) (Apr 2020, 31 minutes) | 
+| Positioning GitLab | - GitLab customer deck ([presentation](https://docs.google.com/presentation/d/1SHSmrEs0vE08iqse9ZhEfOQF1UWiAfpWodIE6_fFFLg/edit?usp=sharing)) <br> - GitLab customer deck ([video](https://youtu.be/UdaOZ9vvgXM)) (Dec 2019, 28 minutes) <br> - GitLab Sales Kick Off 2020: Articulating and Selling the GitLab Vision & Customer Journey ([slides](https://drive.google.com/open?id=14kO1iTqSwuvV-7CDHThslUv8_QP_EnaZg4yG-1romZc)) ([video](https://www.youtube.com/watch?v=DtL38mgpycE)) (Feb 2020, 37.5 minutes) <br> - [GitLab value prop messaging](/handbook/marketing/product-marketing/messaging/#gitlab-value-proposition) <br> - [Pitch deck](https://docs.google.com/presentation/d/1dVPaGc-TnbUQ2IR7TV0w0ujCrCXymKP4vLf6_FDTgVg/edit?usp=sharing) <br> - [Delivering the GitLab pitch deck](https://drive.google.com/open?id=1vRgU1o-o4kcOblQCxNi3h6xrN7KQZY1H) (Apr 2019, 14 minutes) <br> - [Keys to Faster Delivery (Accelerate Digital Transformation)](https://youtu.be/MwSJuKYXAy4) (Jul 2019, 18.5 minutes) <br> - [Removing Software Bottlenecks](https://www.youtube.com/watch?v=RT-fKTFevEY) (Mar 2019, 30 minutes) <br> [Ten Reasons Not to Start with GitLab Starter](https://youtu.be/Np8MyDorw5U) (May 2020, 10 minutes) | 
+| GitLab culture | - [GitLab Culture](https://about.gitlab.com/company/culture/) <br> - [GitLab Values](/handbook/values/) <br> - [This is GitLab video](https://www.youtube.com/watch?v=Mkw1-Uc7V1k) (Feb 2018, 3.5 minutes) <br> - [Everyone Can Contribute video](https://www.youtube.com/watch?v=V2Z1h_2gLNU) (May 2019, 3.5 minutes) | 
+| GitLab subscription model | - [How GitLab.com Subscriptions Work](https://www.youtube.com/watch?v=W-ZYi4H4XMM) (Jun 2019, 29 minutes) | 
+| GitLab vision | - Review [GitLab’s Direction](/direction/#single-application) |
+| Follow GitLab | - Review and subscribe to the [GitLab blog](/blog/) | 
+
+## **Competition**
+To maximize opportunities, GitLab field team members must demonstrate the knowledge and ability to beat out various competitors.
+
+| **Topic** | **Resource(s)** |
+| ------ | ------ |
+| Who are GitLab's competitors? | - [GitLab Comparison Page](/devops-tools/) |
+| What is Competitive Intelligence? | - Check out the [Handbook page](https://about.gitlab.com/handbook/marketing/product-marketing/competitive/) |
+| Microsoft Azure DevOps | - [Proactively Competing Against Microsoft](https://docs.google.com/presentation/d/1WUdzaNn-tgm3Pa1W3JQyGjcR9JOR2a0rLUTA7zRNIt8/edit?usp=sharing) presentation (SKO 2020, internal only) <br> - [Proactively Competing Against Microsoft](https://www.youtube.com/watch?v=Ds_U8iiUOz8) private video (Feb 2020, 58 minutes) <br> - [Azure DevOps Competitive Review: Part 1 of 2](https://www.youtube.com/watch?v=T-zfXQpvtAw) (Nov 2018, 23 minutes) <br> - [Azure DevOps Competitive Review: Part 2 of 2](https://www.youtube.com/watch?v=NeMzSOg7dV4) (Nov 2018, 13 minutes) |
+| GitHub | - [GitHub Tiers & Support](https://youtu.be/HY1bffR8Kfc) (May 2020, 30 Minutes) <br> - [GitHub Competitive Update](https://youtu.be/1iMBhe0wUdI) (Apr 2020, 26 minutes) <br> - [First Dive into GitHub Actions](https://youtu.be/RlT5tAALm5w) (Nov 2019, 38 minutes)| 
+| Jenkins | - [Proactively Competing Against Jenkins](https://drive.google.com/open?id=1IvftLfaQyKn5-n1GLgCZokOoLU-FFzQ8LfJ9cf0FVeg) presentation (SKO 2020, internal only) <br> - [Competing Against Jenkins and CloudBees](https://youtu.be/a95DQqRTOHw) (Sep 2019, 25 minutes) <br> - [Jenkins: Competitive Overview](https://www.youtube.com/watch?v=_HJMtp-fcHc) (Feb 2019, 31 minutes) <br> - [Jenkins: Overcoming Objections](https://www.youtube.com/watch?v=qrENxT9iPvE) (Mar 2019, 26 minutes) <br> - [GitLab vs Jenkins, where is GitLab weaker?](https://www.youtube.com/watch?v=3Wr3O6mY5VE) (Feb 2019, 25.5 minutes) |
+| Where may one find additional competitive insights? | - [Crayon Market and Competitive Intelligence Tool Launch](https://youtu.be/qCKj6zB-Ebk) (Sep 2019, 30 minutes) <br> - [Competitive Battlecards on Crayon](https://app.crayon.co/intel/gitlab/battlecards/) (log in via Okta SSO!) |
+
+## **GitLab Portfolio**
+GitLab field team members must understand how various elements of the GitLab portfolio (offering tiers, SDLC phases, services, training, etc.) solve customer challenges. 
+
+| **Topic** | **Resource(s)** |
+| ------ | ------ |
+| What is GitLab's product strategy?  | - [GitLab Direction](/direction/) <br> - [Advantages of a single application](/handbook/product/single-application/) <br> - GitLab Sales Kick Off 2020: Product Strategy & Vision with Q&A ([slides](https://drive.google.com/open?id=1DfsjznCwqBz9MpueftriC1QS81QHuXcdAACqtdcFPU0)) ([video](https://www.youtube.com/watch?v=fS5T-XOvXPk)) (Feb 2020, 78.5 minutes) |
+| What are GitLab's product tiers? | - [GitLab Tiers](/handbook/marketing/product-marketing/tiers/) <br> - [Why GitLab Ultimate/Gold?](/pricing/ultimate/) <br> - [Why GitLab Premium/Silver?](/pricing/premium/) <br> - [Feature comparison](/pricing/self-managed/feature-comparison/) <br> - [Top 10 Reasons Not to Start with GitLab Starter](https://youtu.be/Np8MyDorw5U) (May 2020, 10 minutes) <br> - [GitLab Ultimate is Ready for Primetime](https://www.youtube.com/watch?v=3M8SIeykbrM) (Nov 2019, 31. minutes) <br> - [How to upgrade your customer to a higher tier](https://www.youtube.com/watch?v=8ZpU7PZzFyY) (Jul 2019, 26 minutes) <br> - [Discovery Questions for Selling GitLab Ultimate/Gold and GitLab Premium/Silver](/handbook/sales/qualification-questions/#questions-for-selling-gitlab-premiumsilver-and-ultimategold) | 
+| How is GitLab priced? | - [Pricing page](/pricing/) <br> - [Pricing model](/handbook/ceo/pricing/) in the Handbook | 
+| What are the GitLab customer use cases (solutions)? | - Check out the [Customer Use Cases Handbook page](/handbook/use-cases/) <br> - [Use Case Driven Go To Market (GTM)](/handbook/marketing/product-marketing/usecase-gtm/) |
+| Where may I learn about the Version Control & Collaboration use case / solution (formerly Source Code Management (SCM))? | - Check out the [Version Control & Collaboration Handbook page](handbook/marketing/product-marketing/usecase-gtm/version-control-collaboration/) <br> - [The GitLab Journey & The SCM Use Case](https://www.youtube.com/watch?v=GN891Bqc6QY) (Mar 2020, 27 minutes) | 
+| Where may I learn about the Continuous Integration (CI) customer use case / solution? | - Check out the [Continuous Integration (CI) Handbook page](/handbook/marketing/product-marketing/usecase-gtm/ci/) <br> - [The GitLab Journey & The CI Use Case](https://www.youtube.com/watch?v=JoeaTYIH5lI) (Mar 2020, 30 minutes) <br> - [Forrester Wave Cloud CI Report: What It Means to GitLab Sales, Customers & Prospects](https://youtu.be/q6YXIvHZuDU) (Oct 2019, 32 minutes) <br> - Complete the Continuous Integration Customer Use Case / Solution learning path by going to [Google Classroom](https://classroom.google.com/) (internal only). At the top of that page, click the "+" icon and then enter Class code "4oy74tz" to join the class. <br> - Just want to take the knowledge check quiz? [Click Here](https://forms.gle/SYcjEptqKyfohUHx7) | 
+| Where may I learn about the DevSecOps customer use case / solution (aka Shift Left Security)? |  - Check out the [DevSecOps Handbook page](/handbook/marketing/product-marketing/usecase-gtm/devsecops/) | 
+| Where may I learn about the Simplify DevOps customer use case / solution? | - Check out the [Simplify DevOps Handbook page](/handbook/marketing/product-marketing/usecase-gtm/simplify-devops/) <br> - [GitLab AutoDevOps Run Click-Through Demo](https://www.youtube.com/watch?v=V_6bR0Kjju8) (Apr 2019, 21 minutes) | 
+| Where may I learn about the GitOps customer use case / solution? | - Check out the [GitOps Handbook page](/handbook/marketing/product-marketing/usecase-gtm/gitops/) | 
+| Where may I learn about the Agile Planning customer use case / solution? | - Check out the [Agile Planning website page](/solutions/agile-delivery/) (Handbook page coming soon) <br> - [Agile Project & Portfolio Management on GitLab Click-Through Demo](https://www.youtube.com/watch?v=Eo8pFoE6DjU) (Jun 2019, 30 minutes) |
+| Are additional customer use cases / solutions being considered and/or developed? | - Yes, check out the [Customer Use Cases Handbook page](/handbook/use-cases/) for the latest and greatest information. |
+| What about services? | - Professional services, available through GitLab or partners, help to optimize your organization's adoption of GitLab, continue to leverage the tools your teams use every day, facilitate your transition to GitLab, and deliver hands-on training to accelerate your team’s adoption <br> - [Services to Accelerate Customer Adoption](/handbook/customer-success/professional-services-engineering/sales-enablement/) <br> - [How to engage Professional Services to help you sell and scope](/handbook/customer-success/professional-services-engineering/working-with/) <br> - [Professional Services Full Catalog](/services/catalog/) <br> - [Professional Services Offerings & Positioning](https://www.youtube.com/watch?v=_04S2JhVZ5A) (Apr 2020, 29 minutes) <br> - [Selling Services to Accelerate Customer Adoption](https://youtu.be/ngTI5-1cQK4) (Oct 2019, 28 minutes) |
+| What about GitLab security? | - [Product Stage Direction - Secure](/direction/secure/) <br> - From SCM and CI to Security: Paths to Ultimate ([slides](https://docs.google.com/presentation/d/1VTCfKcAZ4NS2xQu8C-fA6pugCdvUbb0MfQhimLiAGak/) from GitLab Sales Kick Off 2020) <br> - [How GitLab Helps Customers Achieve Compliance](https://youtu.be/MRaCKYDXmuI) (May 2020, 26 minutes) <br> - [Forrester Software Composition Analysis (SCA) Wave & Security Q&A](https://www.youtube.com/watch?v=FIfZCg02G3o) (Apr 2019, 30 minutes) <br> [GitLab SOC2 Security Compliance](/handbook/engineering/security/security-assurance/security-compliance/soc2.html) | 
+| What are the most common technical questions that GitLab sales team members should be able to answer? | - Check out the [Technical Questions for Sales](/handbook/sales/training/technical-questions-for-sales/) page | 
+
+## **Functional and Technical Skills & Processes**
+To optimize productivity, GitLab field team members must be able to consistently demonstrate the skills and behaviors (including adherence to standard processes and use of tools like Salesforce, Gainsight, and others) that lead to desired outcomes. These functional and technical skills and processes are complementary and in addition to GitLab's [Values](/handbook/competencies/#values-competencies) and [Remote Working](/handbook/competencies/#remote-work-competencies) competencies.
+
+| **Topic** | **Resource(s)** |
+| ------ | ------ |
+| What are the critical skills and behaviors needed to succeed in a field role at GitLab? | - [Field Functional Competencies](/handbook/sales/training/field-functional-competencies/) |
+| What is social selling? | - [Social Selling Basics presentation](https://docs.google.com/presentation/d/1UCRF6PC6al8XxT8E_4rDKkQjkW6WGPA6gybWeuRIg7A/edit?usp=sharing) <br> - [Social Selling Basics video](https://youtu.be/w-C4jts-zUw) (Jul 2019, 20 minutes) <br> - [Social Selling_Sales Enablement_2019-07-11](https://www.youtube.com/watch?v=Ir7od3stk70) (Jul 2019, 28 minutes) <br> - [LinkedIn Sales Navigator resources](https://docs.google.com/document/d/1UF69ieck4AdHadzgPmZ5X1GBs3085JhlYaMowLj0AOg/edit?usp=sharing) |
+| How do I find out what version of GitLab my customers are using? <br> How do I find organizations in my patch using GitLab CE? | - [Version.GitLab.Com Walk-Through](https://www.youtube.com/watch?v=lBWwlbd1J5k) (Jul 2019, 8.5 minutes) |
+| What does a good discovery call look like? | - [Anatomy of a Successful Discovery Call](https://youtu.be/maai4tuDtoM) video (Jul 2019, 21 minutes) |
+| How do I lead with insights? | [Pipeline Creation - Leading with Insights](https://www.youtube.com/watch?v=fNiGq5uOxgo) (Nov 2019, 10 minutes) |
+| How do I forecast at GitLab? | - [Sales Forecasting at GitLab](/handbook/sales/#forecasting) |
+| What is Chorus.ai and how do I use it? | - [Chorus.ai](https://www.chorus.ai/) is a leading conversation intelligence platform <br> - [How to find a call in Chorus](https://hello.chorus.ai/listen?guid=10c8460049f842e99477de4e9f2affca) (Jul 2019, 4 minutes) <br> - [How to review a call in Chorus](https://hello.chorus.ai/listen?guid=5fc22bca9ec04141a5245062b7907f09) (Jul 2019, 7 minutes) <br> - [How to comment and share moments in Chorus](https://hello.chorus.ai/listen?guid=199654f39cbd4fc69c00e839ea406930) (Jul 2019, 5 minutes) <br> - [How to gain compliance on recorded calls (primarily for NA)](https://hello.chorus.ai/listen?guid=6d8a5c1bcb364547bb8dc2eed8a5e6a5) (Jul 2019, 6 minutes) |
+| Where do I learn about quarterly co-terms? | - [Quarterly Co-Terms May 2020 Update](https://youtu.be/CnLfeDhbzcM) (May 2020, 27 minutes) |
+| How do I find customer references? | - [Reference Edge - Customer Reference Process](https://youtu.be/8Le_Ovglnq8) video (Jan 2020, 25 minutes) |
+| Presentation skills | - [How to Avoid Death by PowerPoint](https://www.youtube.com/watch?v=Iwpi1Lm6dFo) (20 minutes) | 
+| Proof of Value for SAs | - [Proof of Value Review](https://docs.google.com/presentation/d/1LpvXLtviKOlDay5p3XtgDsWDW8x8WS8_SF9qT13zkoU/edit#slide=id.g153a2ed090_0_63) |
+| Customer Onboarding for Technical Account Managers (TAMs) | - [Customer Onboarding Custom Object Video](https://drive.google.com/file/d/17Y8LpYTaLwIByyd-BKN9e8u80oxaqFtt/view) (Nov 2019, 17 minutes) <br> - [Customer Onboarding Custom Object Deck](https://docs.google.com/presentation/d/1SBQ_FbCsPfycTxdtoracQTAh7WOpGPPAqptXfRiZdvc/edit#slide=id.g29a70c6c35_0_68) <br> - [Customer Onboarding SalesForce Dashboard](https://gitlab.my.salesforce.com/?ec=302&startURL=%2F01Z4M000000skrQ) |
+| Gainsight for TAMs | - [Gainsight Foundations](https://education.gainsight.com/gainsight-foundations-nxt-fka-101/315512) (overview of the Gainsight NXT Platform and a brief demo of key capabilities) (26 minutes) <br> - [Gainsight Reports and Dashboards](https://education.gainsight.com/series/end-user-training-for-nxt/gainsight-reports-dashboards-nxt-replaces-102) (overview of how to leverage dashboards within the tool to make better decisions on managing your accounts) (19 minutes) <br> - [Calls to Action (CTA), Playbooks, and the Cockpit](https://education.gainsight.com/series/end-user-training-for-nxt/gainsight-cockpit-playbooks-nxt-replaces-102) (overview of Calls to Action (CTAs) in the Cockpit, the tool to manage customer outreach, as well as playbooks) (23 minutes) <br> - [360 View, Health Scores, and Timeline](https://education.gainsight.com/series/end-user-training-for-nxt/gainsight-360-timeline-nxt-replaces-102) (overview of the 360 feature for research and call prep, Timeline for centralized note-taking, and an overview of health scores and trend insights) (34 minutes) <br> - [Sally Bot in Slack](https://education.gainsight.com/series/end-user-training-for-nxt/gainsight-sally) (overview of what Sally is and how to use it) (15 minutes) |
+| Other | - [Things I Wish I Knew During My First Few Quarters at GitLab](https://youtu.be/3gprWrDTEQM) video (Aug 2019, 25.5 minutes) <br> - Sessions (presentations, videos) from [GitLab Sales Kick Off 2020](/handbook/sales/training/SKO/#sales-kick-off-2020) <br> - [How to Host a GitLab Meetup](https://www.youtube.com/watch?v=h24aS5rpfmM) (May 2019, 36.5 minutes) |
+| Where can I go to learn more? | - Bookmark the [GitLab Sales Handbook](/handbook/sales/) <br> - [Upcoming and past Level Up sales enablement webcasts](/handbook/sales/training/sales-enablement-sessions/) <br> - [Customer Success Skills Exchange GitLab Unfiltered playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KorkxIFgZGnzzxjZRCGROt_) on YouTube <br> - Check out past [Customer Success meetings](https://about.gitlab.com/handbook/customer-success/#customer-success-meetings) where new features from recent product releases are discussed and/or demo'ed  |
+
+# **Sales Enablement Sessions**
+Live sales enablement videocasts are held every Thursday from 12:00-12:30pm ET with the exception of the last two weeks of every quarter. Sessions are recorded and published to YouTube, made available for on-demand playback, and added to the inventory above. [Learn more here](/handbook/sales/training/sales-enablement-sessions/).
+
+# **Customer Success Skills Exchange**
+Live customer success enablement videocasts are held every Wednesday, and delivered on a weekly basis alternating time slots every other week. Every two weeks they are delivered at 10:30-11:20am ET, and the alternating weeks are delivered at 2:00-2:50pm ET. Sessions are recorded and published to [YouTube](https://www.youtube.com/playlist?list=PL05JrBw4t0KorkxIFgZGnzzxjZRCGROt_), and made available for on-demand playback.
+
+# **SDR Coaching**
+Similar sessions are held for GitLab’s SDR team every Wednesday from 12:30-1:00pm ET. Learn more [here](/handbook/sales/training/sdr-coaching). 
+
+# **Additional Notes**
+*  Learn about GitLab customer training on the [GitLab Training Tracks site](/training/)
+*  Learn about the [weekly GitLab Sales Enablement webcast series](/handbook/marketing/product-marketing/enablement/)
+*  Learn about the [weekly GitLab SDR Enablement webcast series](/handbook/marketing/product-marketing/enablement/#xdr-bdrsdr-coaching)

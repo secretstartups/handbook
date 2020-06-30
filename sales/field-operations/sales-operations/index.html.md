@@ -1,0 +1,181 @@
+---
+layout: handbook-page-toc
+title: "Sales Operations"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+{::options parse_block_html="true" /}
+
+## Charter
+
+Sales Operations is a part of Field Operations. We aim to help facilitate new and existing processes throughout our field organization via the use of systems, policies, and direct support. Sales Operations is responsible for the following key areas:
+
+*  [Territories](https://about.gitlab.com/handbook/sales/territories/)
+*  Go To Market data
+*  Bookings
+*  Deal Support (see [Deal Desk](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#welcome-to-the-deal-desk-handbook))
+*  Sales Support
+*  Partner Operations
+*  [Customer Success Operations](/handbook/sales/field-operations/sales-operations/customer-success-operations)
+
+## Sales Support - Deal Desk and Sales Operations
+
+The GitLab Sales Support team includes two groups: Deal Desk and Sales Operations.
+
+The Deal Desk team is comprised of in-field resources aligned to the time zones of our sales team. Visit the [Deal Desk Handbook](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#welcome-to-the-deal-desk-handbook) for more information about Sales Support, SLAs, Team Members, Quote Configuration, and more.
+
+## How to Communicate with Us
+
+* Slack: [#sales-support](https://gitlab.slack.com/archives/sales-support)
+* Salesforce: [@sales-Support](https://gitlab.my.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F94M000000fy2K)
+
+## Field Operations Calendar
+
+<iframe src="https://calendar.google.com/calendar/embed?src=gitlab.com_hhs5o85g05lho9agbkfhv8lc40%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+## Working with us
+* [Sales Operations Agile Board](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/boards/1655825?label_name[]=SalesOPS)
+* [Sales Operations Project](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations)
+
+### Steps to getting help from Sales Operations
+1.  Create an issue in our [project](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations), making sure to provide detailed business requirments. Please leave assignee blank.
+2.  There are existing templates to use, most will fall under the General Request template. 
+3.  New Issues that are in review will be tagged with the `SalesOps::New_Request` label automatically on creation.
+4.  An issue will be assigned to a Milestone, given an assignee and the `SalesOps::Assigned` if it is ready to be worked on.
+5.  Any issue that cannot be slotted into the next two milestones will be put in the backlog denoted by `SalesOps::Backlog` until it can be planned.
+6.  Please review the status of any issue on our agile [board.](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations)
+
+## Updating Zuora and Salesforce Quote Templates  
+In order to update quote templates that are used in Salesforce, and pulled in from Zuora, please reference the below resources provided by Zuora. 
+1.  [General overview to update quote templates](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings/Customize_Quote_Templates)
+2.  [Leveraging mail merge fields to update templates](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings/Customize_Quote_Templates/C_Customize_Quote_Template_using_Word_Mail_Merge) - This must be completed in Microsoft word and saved accordingly
+3.  [Reference the merge fields that are supported](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings/Customize_Quote_Templates/K_Supported_Merge_Fields_for_Quote_Templates_and_Mapping_to_Salesforce#Charge_Summary.Quote_Rate_Plan_Merge_Fields)
+4.  [How to displaty multiple quote charges in a table](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings/Customize_Quote_Templates/E_Customize_Quote_Templates_Using_Microsoft_Word_Mail_Merge)
+5.  [Uploading to Zuora and connect to Salesforce](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings)
+
+## Account List Import
+Here are the guidelines for requesting account list loads from Sales Operations. Please follow the instructions below.
+The SLA for account list loads into Salesforce is 5-7 business days.  
+  
+**For uploading a list of net new accounts**
+* We have a template you can use to dedupe a list of accounts you have sourced [here in the google drive](https://docs.google.com/spreadsheets/d/1zm4uA2_d7aj31BY2wTxNw6HoElyWJQkjMYY4e1D3tRM/edit#gid=1823098798). This template will help you dedupe the account list and also format your list for upload into Salesforce.  Please follow the directions in the README in the template doc and reach out to #sales-support in Slack if you have any questions.
+
+**Preparing the list:**
+1. Clean up list to remove any duplicates and columns not needed. 
+2. Update field names to Salesforce compatible values. Only include the required fields listed below.
+3. Unless you discuss with us prior, nothing else will be loaded and the extra columns will be ignored in the import.
+4. Account Source format: List - Name of Source - Date with no spaces or characters.
+5. Create an issue in our [project](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations) using the Account List Import [template](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues). Include a link to the list and description of the list load.
+6. One Tab per sheet, one list load per sheet / one sheet per issue.
+ 
+
+**Required Fields:**
+
+| **Label** | **Field Name** | **Data Type** |
+| ------ | ------ | ------ |
+| Account Source | AccountSource | Picklist |
+| Employees | NumberOfEmployees | Number(8,0) |
+| Account Name | Name | Name |
+| Type | Type | Picklist |
+| Account Record Type | RecordType | Picklist |
+| Website | Website | URL(255) |
+| Billing Street | Billing Street| Address |
+| Billing City | Billing City | Address |
+| Billing State/Province | Billing State/Province | Address|
+| Billing Zip/Postal Code | Billing Zip/Postal Code | Address |
+| Billing Country | Billing Country | Address |
+
+
+<details>
+<summary markdown='span'>
+  Operators Guide: Instructions for Sales Operations team on completing Account List Imports
+</summary>
+
+#### Prepping the List
+
+1. Check the data in the provided list: 
+    * Only one tab per list
+    * Make sure the google sheet template was used to ensure the list has been de duped
+    * Double check that everything is in the correct format. [**Reference for correct Billing Address Formatting.**](https://docs.google.com/spreadsheets/d/1_FOkc7CHBDaEzPmpoXtkiQE-u-QB_uuJIcAA4mU1gd0/edit?usp=sharing) and ensure that there are no extra columns, only required fields in the template.
+    * If there is an exception and there are additional columns not in the template check the account fields and check to see if they are in the correct format, check for field dependencies, etc. 
+
+1. Add Account Owner ID
+    * Add a column to the spreadsheet and Label it Account Owner ID
+    * Go into Salesforce Setup>Manage Users>Users and find your User ID (15 or 18) number and copy
+    * Paste your User ID into the Account Owner ID column in the spreadsheet 
+1. Add Record Type ID:
+    * Insert a column to the left of the RecordType column and label RecordType ID
+    * Go into Salesforce Setup>Customize>Accounts>Record Types (Pull the number out of the URL (number after id= and before the &))
+    * Paste into the RecordType ID column>copy down
+1. Format the Account Source Column
+    * Naming convention: List-Vendor-Identifier-Date (example:List-DiscoverOrg-FranceAC-20200407
+    * Copy and paste values down the column with the correct format
+1. Create the Account Source Name in Salesforce
+    * Go into Salesforce>Setup>Customize>Account>Fields>Account Source
+    * Select New and type the Account Source Name you created in step 4
+    * Select the record types that it pertains to (standard and channel)>save
+    * Select Reorder>check “Display values alphabetically, not in the order entered
+1. Save the prepped list for the data load:
+    * Save the Excel file in CSV format on your computer
+    * Go into the Salesforce reports tab>Account List Import Folder
+    * Clone an existing list report. Add a filter Account Source equals and select the name of the list you created from the picklist
+    * Select SAVE AS and type the name of the list you created in step 4
+    * Save and Run and leave open as this can be refreshed during the data load 
+    
+#### Data Load Instructions
+1. Open the data loader. Select Insert. Login in production
+1. Go to Settings. Change the batch size to 20. Click OK
+1. Select Account Object. Browse for the file. Select list CSV file. Click Next
+1. Create or Edit Map Fields. Auto-Match Fields to Columns (Usually works for most columns)
+    * Make sure that website is mapped
+    * Map Number of employees to the NumberofEmployees: Manual-Admin field
+    * Drop and drag any missing fields
+    * Leave RecordType blank (nothing matches)
+    * Click OK. Click Next. Select where the error log will save to. Make sure to save to a location otherwise it will save to a mysterious location on your machine
+
+</details>
+
+## Account List Update
+
+**Preparing the list:**
+1. Create an Account report in SFDC. 
+2. Include the Account ID as a field on your report.  This is required to do a mass update. 
+3. Include the fields on your report that you want updated. 
+4. Save your report in a public folder so it can be accessed later if needed.
+4. Export your report, making sure you have included the Account ID.
+5. Update the export.  Please keep the origional values in the export and create a new column with the new values. Ex: If you want to update website, you will have 2 website columns.  Website and then Website New.  Website New will be the column you create and where the new value is captured.
+5. Create an issue in our [project](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations) using the Account List Import [template](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues). Include a link to the list and description of the list load.
+6. One Tab per sheet, one list update per sheet / one sheet per issue.
+7. If you need help pulling the report or walking though these steps, please slack us with a link to the issue you created in the `#sales-support` Slack channel.
+
+## Sales Operations Sponsored Dashboards and Maintenance
+
+The Sales Operations team has sponsored a comprehensive but consumable "Reporting Package" (via SFDC Dashboards) with validated (SalesOps approved) metrics to the Account Executives. This list will continue to evolve and will be maintained during onboarding and offboarding process.
+
+### Enterprise: West
+1. [WEST ENT Pipeline Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXBZ)
+2. [FY21 CQ WEST ENT Sales Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXBo)
+
+### Enterprise: East
+3. [EAST ENT Pipeline Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXBU)
+4. [FY21 CQ EAST ENT Sales Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXBj)
+
+### Enterprise: PubSec
+5. [PubSec Pipeline Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXC3)
+6. [FY21 CQ PubSec Sales Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXCD)
+
+### Enterprise: EMEA 
+7. [EMEA Enterprise Pipeline Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oX78)
+7. [FY21 CQ EMEA ENT Sales Dashboard](https://gitlab.my.salesforce.com/01Z4M000000slbx)
+
+### Enterprise: APAC
+8. [APAC ENT Pipeline Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXAR)
+9. [FY21 CQ APAC ENT Sales Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXA2)
+
+
+In addition to sponsored reporting, Sales Ops will maintain existing reports by archiving or deleteing any report or dashboard not used in 180 days.

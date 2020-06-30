@@ -1,0 +1,73 @@
+---
+layout: handbook-page-toc
+title: "Sales Manager Best Practices"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+# Sales Manager Best Practices
+
+### Onboarding New Team Members 
+* Successful onboarding plays a critical role in getting your team member on the path to success! Before a new team member joins, please review the onboarding process so you know what to expect and can help set expectations with your new hire! [The onboarding page](https://about.gitlab.com/handbook/people-group/general-onboarding/) has a lot of great resources including links to the [Sales specific onboarding issue](https://about.gitlab.com/handbook/people-group/general-onboarding/#role-specific-templates).
+* For more information on the onboarding process, please feel free to check out the Onboarding Education Session and AMA we had with Sales leaders on June 3, 2020:
+
+<!-- blank line -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hambdfyj0xU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- blank line -->
+ 
+
+### Review Command Plans
+
+*   Regularly review an aggregate of your team's Command Plans in this [Salesforce Report](https://gitlab.my.salesforce.com/00O4M000004e1dZ). This will allow you to scan your team's progress on both a macro and micro level and identify possible information gaps or obstacles that can hinder an opportunity. 
+
+### Opportunity Coaching
+
+*  Regularly leverage the [Command of the Message and MEDDPICC sales manager materials](/handbook/sales/command-of-the-message/#resources-sales-manager-materials)
+*  Use the following outline for your opportunity consult sessions:
+
+| **Step** | **Duration (minutes)** | **Description** |
+| ------ | ------ | ------ |
+| Manager Set-Up | 5 | - Set expectations of the call by stating the purpose, process and payoff of the session |
+| Seller-Led Opportunity Overview | 10 (uninterrupted) | - Provides brief opportunity background (e.g., relevant account history, recent changes on opportunity) <br> - Describes current deal state (e.g., sales process stage, forecast stage, key business issues, compelling event) <br> - Identifies gaps in Mantra, MEDDPICC, and additional challenges for discussion |
+| Manager Consult | 30 | - Ask open-ended, two-sided questions around focus areas to inspect (in a good, helpful way) the opportunity <br> - Provide relevant feedback and coaching based on the identified gaps and challenges <br> - Assist the seller in defining an action plan and exactly “how” to execute on the next steps |
+| Manager + Seller Agree to Action Plan | 5 | - Seller recaps opportunity-specific sales strategy <br> - Seller documents next steps/critical actions in CRM or via email to manager |
+
+*   Develop an Coaching Action Plan for each rep on your team. Conduct one-on-one development sessions with each person to review their plan.
+*   Conduct **weekly** Opportunity Consults with each rep on your team to review specific command plans. 
+*   Coaches should ask more questions to first understand the current level of understanding of those they are coaching before explaining key or misunderstood concepts.
+*   When conducting Opportunity Consults, coaches should encourage reps to commit to specific, concrete, actionable next steps (i.e., “I am going to do X, Y, and Z to test my Champion” instead of “I am going to test my Champion”) and request that the reps document those action items in a shared way (i.e. document in Salesforce or send a summary wrap-up communication after the meeting).
+*   Include the SA and TAM teams in Opportunity Consults – these should be team conversations and facilitate improved transparency and collaboration.
+*   Coach reps on the best practices related to the close plan within a command plan:
+    *   Close plans should be updated in real time and at minimum on a weekly basis
+    *   Time stamp the latest update at the top with the date of the refresh
+    *   Each line item should start with a specific date
+    *   Liberally use ( ) or ** ** between line items or at the end of line items to denote Close Plan gaps that the SAL intends to fill during the next communication with the prospect/customer. This is a key **_pay-off to the SAL_** item to highlight since it should help make them better
+    *   Keep the action / people involved / expected outcome as crisp as possible. Endeavor to keep it on one line so as not to make it a blog.
+    *   Refer to the Paper Process when appropriate so efforts aren't duplicated
+    *   If you can still ask, "what happens between one line item and the next" and you don't know...then see item 4 and use that knowledge as a guide to continually drive higher fidelity through each communication.
+
+### Strategic Coaching
+
+*   Celebrate your wins and socialize success stories to help with motivation across teams 
+*   Continue to leverage your fellow managers for feedback and input on what is working well
+*   Lead with “Why” in team and 1:1 rep discussions (GitLab has done a good job of explaining “Why” for GitLab organizationally, but managers will want to ensure that daily interactions lead with “Why” for teams and individual reps)
+*   Enable partner sellers to jointly run deals leveraging Command of the Message and MEDDPICC
+*   Conduct Command of the Message and MEDDPICC refresh sessions covering 1-2 slides/tools per week
+
+### Career Development
+
+*   Leverage GitLab's [Career Development](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/) resources
+
+### Performance Management
+
+*   [Performance Assessment and Succession Planning](/handbook/people-group/performance-assessments-and-succession-planning/)
+*   [Performance Management Overview for Sales Managers](https://youtu.be/mIPFhq0Th1w) (May 2020, 18 minutes, private)
+
+### Leadership Toolkit 
+* For additional leadership resources, check out the [Leadership toolkit](https://about.gitlab.com/handbook/people-group/leadership-toolkit/)
+
+
