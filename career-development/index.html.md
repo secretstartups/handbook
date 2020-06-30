@@ -292,6 +292,8 @@ In return, the department with which they are apprenticing agrees to:
 * Offer meaningful projects for the apprentice to work on
 * Be flexible, so that the apprentice can continue to support their primary team and carry an appropriate workload
 
+By default, apprenticeships last for 6 months. At the end of 6 months, both the apprentice and the department will determine whether it makes sense to extend the timeframe further.
+
 If you wish to apprentice with an Engineering team, start by speaking with your manager.
 
 ## Junior Engineers
