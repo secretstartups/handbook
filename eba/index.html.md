@@ -21,7 +21,7 @@ This page details processes and general guidelines specific to the Executive Bus
 * Jaclyn Grant (Sr. EBA) supporting Paul Machle (CFO), Stella Treas (CoS) and Finance VPs and Sr. Leadership 
 * Trevor Knudsen (EBA) supporting Dave Gilbert (VPR), and Carol Teskey (Director, Global People Ops)
 * Katie Gammon (EBA) supporting David Hong (VP of Field Operations), David Sakamoto (VP of Customer Success), Ryan O’Nell (VP of Commercial Sales), Mike Pyle (VP of Enterprise Sales), Brandon Jung (VP of Alliances), and Michelle Hodges (VP of Worldwide Channels)
-* Kristie Thomas (EBA) supporting Scott Williamson (EVP of Product), Mark Pundsack (VP of Product Strategy), Eric Johnson (EVP Engineering) and Johnathan Hunt (VP of Security) 
+* Kristie Thomas (EBA) supporting Scott Williamson (EVP of Product),Eric Johnson (EVP Engineering), Johnathan Hunt (VP of Security) and Product VPs
 
 ## Contact us 
 We'd love for our fellow team members to contact us in slack at #eba-team. If you need to quickly communicate with the entire team please @ mention exec-admins in slack.
