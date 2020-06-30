@@ -1,0 +1,18 @@
+---
+layout: default
+title: "Professional Services Engineering Workflows"
+---
+
+.wrapper.sidebar-layout-wrapper.clearfix
+  %aside{:class => "tocs-sidebar"}
+    %h4 About
+    %p This is a collection of SOPs used by the GitLab Professional Services Engineering team.
+    .row
+      = partial '/handbook/customer-success/professional-services-engineering/workflows/workflow-list'
+  .container.md-page
+    %ol.breadcrumb
+      %li You are here:
+      = breadcrumbs(current_page)
+      = partial "includes/layout/handbook_search.html.haml"
+    %section
+      = partial('/handbook/customer-success/professional-services-engineering/workflows/process')

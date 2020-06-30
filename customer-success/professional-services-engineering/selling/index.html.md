@@ -1,0 +1,120 @@
+---
+layout: handbook-page-toc
+title: "Selling Professional Services"
+---
+# Selling Professional Services
+{:.no_toc}
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+You can also [watch the sales enablement session](/handbook/customer-success/professional-services-engineering/sales-enablement) about how to sell services.
+
+## Workflow for selling Professional Services
+
+There are 4 main steps for selling Professional Services:
+1. Identify the right services needed.
+1. Create the Professional Services opportunity in SFDC.
+1. Generate the SOW / Service Description Docs
+1. Close the opportunity
+
+```mermaid
+graph LR;
+  a["1. Identify services needed "]-->b["Create the PS opportunity in SFDC"];
+  b--custom-->c["Services Calulator"];
+  b--standard-->d["SKU Catalog in Zuora/SFDC"];
+  c-->e["3. Generate SOW or Serivce Desc. Docs"];
+  d-->e;
+  e-->f["4. Close the opportunity"];
+```
+
+### Step 1: Identify the right service
+
+The SAL/ISR can find the general services the PS team offers on the [services page](/services/) or for more details specific SKU offerings, on the [full catalog](/services/catalog). The SAL/ISR can pull the SA in for help selecting services needed based on customer requirements.
+
+### Step 2: Create the opportunity in SFDC
+
+The SAL/ISR [creates a Professional Services Only opportunity](/handbook/business-ops/resources/#creating-a-professional-services-opportunity).
+
+#### Standard Services Only
+If the customer only needs standard services from the service catalog, the SAL/ISR can generate the quote from within the newly created SFDC PS opportunity by:
+1. click `New Quote`. 
+1. fill in the required contact information and date fields.
+1. click `next`.
+1. Click the drop down box next to the New Quote Flow and select `Add Add on Products`.
+1. In the Professional Services and Training Row, click the drop down that says `Select Plan` to see the current SKU offerings that can be added to the opportunity.
+
+This process will generate a services description document that the SAL/ISR can and should share with the customer without additional approval. The SAL/ISR should meet with the customer to review the service deliverables, duration, and pricing and should confirms no customizations are needed. Again, can pull in the SA for assistance if needed.
+
+#### Custom-Scoped Services
+If the SAL/ISR/SA determine that the customer requires additional services outside of those listed in the [full catalog](/services/catalog), the SA should initiate a scoping engagement with the PS team by opening the [Services Calculator](http://services-calculator.gitlab.io/) and filling out the information required. If you don't know the specifics, you can leave the defaults and submit it. This will add an issue to the  Sr. Engagement Manager's queue to follow with you. Check out the [detailed steps below](#custom-scoped-services-detailed-workflow) for custom-scoped engagements for more details. 
+
+### Step 3: Create and add the SOW
+
+For standard SKUs, the service description document is generated directly from SFDC/zuora under the quotes section. Upload the signed version of this document when you receive it from the customer. 
+
+For custom scoped SOWs, once you receive the SOW from the Sr. Engagement Manager and have gotten it back from the customer with signature, attach it to the SOW doc to the SFDC PS opportunity. 
+
+### Step 4: Close the opportunity
+Once the services have been rendered and the project is closed, the SAL/ISR should obtain signatures from the customer. The SAL/ISR should move the opportunity to `Closed Won` status
+
+Once the agreement is `Closed Won`, ask in the `@ps-scheduling` group in the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) slack channel to help schedule the delivery of services. 
+
+### Custom-Scoped Services Detailed Workflow
+
+1. SA: Create baseline SoW from Services Calculator
+1. SA: Add details to issue around customer requirements
+1. SA & Sr. PS Engagement Manager: Conduct detailed scoping call with the customer
+1. PSE: Develop Custom SoW and pricing for customer
+1. Account team: Deliver SoW to the customer, add to the Salesforce (SFDC) opportunity
+1. Send for signature (just like software terms)
+1. When Closed Won PS team will assign engineer and service delivery will start typically with 4 weeks lead time
+
+
+<!-- ### Detailed Process
+
+1. Sales and account team to introduce early in discussions.
+1. The SA can do basic scoping and use the [calculator](/handbook/customer-success/professional-services-engineering/selling/#services-calculator) for an estimate.
+  - This should be a good estimate to secure budget.
+1. Customer should execute Subscription Agreement AND Consulting Services Agreement.
+1. The SA can use the [custom SoW scoping details](/handbook/customer-success/professional-services-engineering/scoping/) page to help drive the conversation and uncover required capabilities for the custom SoW.
+1. The SA will create the SoW from the [calculator](/handbook/customer-success/professional-services-engineering/selling/#services-calculator), scoping the project and estimating both schedule and cost for the SoW. 
+1. The calculator automatically creates an approval issue on the [SoW Proposal Approval board](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/boards/1353982?&label_name[]=Services%20Calculator).
+1. SA: Check and add any more details to the issue created on the SoW Proposal Approval board.
+1. SA: Fill out any additional scoping details. Ensure the issue is assigned to a Solutions Manager for review, and move it to the `proposal::Scoping` step.
+1. SA & PSE: Conduct more detailed scoping call (only when needed) to [prepare SoW](/handbook/customer-success/professional-services-engineering/#statement-of-work-creation).
+1. If there are additional scoping questions needed to scope the engagement, Professional Services Engineering will inform the account team within three (3) business days of this call.
+1. Once all scoping questions are complete, move the SoW to the `proposal::Writing` step.
+1. Once written, move the SoW to the `proposal::Cost Estimate` step where a Manager of Professional Services will provide a [cost estimate](/handbook/customer-success/vision/#professional-services-standard-cost) used to calculate the expected margin for the project. It will be completed and ready for the account team review within one (1) business week.
+1. Move the SoW to the `proposal::ReadyForApproval` step.
+1. The SoW is approved by the Senior Director of Professional Services or VP of Customer Success.
+1. Move the SoW to the `proposal::Approved` step. Assign the issue to the SA for delivery to the customer via the account team. -->
+
+## FAQ
+
+#### Do we have set SKUs I can use?
+
+Yes - for off the shelf items, we have [SKUs](/services/catalog).
+
+#### What are our daily or hourly rates?
+
+We do not currently have an hourly or daily rate.  Nor do we plan to have an hourly rate.  Just as with GitLab support, the mission of our Professional Service group is not to bill hours, but to achieve success for our Customers.  So just as we don't offer support by the call or by the hour, we do not offer Professional Services by the day or the hour.
+
+In the future, we may have a daily rate or a daily rate for on-site support.  However, we currently do not for the same reasons listed above.
+
+#### What if the customer only wants training?
+
+If the customer is an EE customer, we can offer training.  However, training will need to be scoped out by the Customer Success department before quoting a price.  The account executive will also be required to provide the use case for the need for just training.
+
+Example use case might be:
+
+Customer is under license utilization and we need to prevent churn, help expand usage into additional groups and other business units.
+
+#### What options exist for CE Customers?
+
+GitLab CE is ideal for personal projects or small groups with minimal user management and workflow control needs.  Because these groups don't typically need a lot of focus on scaled implementation or training, we currently do not offer implementation, integration or training services to our CE customers.  Many of our [partners](/resellers/) offer such services.  However, we find that many customers who have been running a CE instance and are looking to transition to a scaled implementation of GitLab may require a [Discovery Engagement](#discovery-engagement) to determine the customer's long-term needs.
+
+If a customer is upgrading from CE to EE, Professional Services should be engaged to scope out the requirements for the transition if the customer will need services in the transition.
