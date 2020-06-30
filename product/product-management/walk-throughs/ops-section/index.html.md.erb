@@ -1,0 +1,72 @@
+---
+layout: handbook-page-toc
+title: Ops Section Product Walk-through Script
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+This page is the script for the Ops Section [product walk-through](/handbook/product/communication/#recording-videos-to-showcase-features). [Here is a recent video recording](https://www.youtube.com/watch?v=O6a6zIy18Vw) of this walk-through.
+
+## Setup
+
+### Create a group
+Create a group with GitLab Gold tier.
+
+### Create three sub-projects
+1. From the Ruby on Rails Template
+1. Cloned from Serverless example
+1. From the Plain HTML Template
+
+### Attach a Cluster and Install Apps
+1. Helm
+1. Ingress
+1. Cert-Manager
+1. Prometheus
+1. Knative
+1. Elastic Stack
+Use a Cluster Config Project
+
+### Instrument your Rails App
+1. With a feature flag
+1. For Sentry
+1. For Tracing (TBD)
+1. Add a business metric (TBD)
+1. Add an alert
+1. Add an incident template to @mention you
+
+## Prep
+1. Create an MR in the Rails project
+1. Redeploy the Rails project
+1. Send traffic to Rail project that triggers an alert & incident
+1. Invoke the Pages Functions project
+
+## Live Walk-through
+1. Show group and list of projects
+1. Show attached cluster, installed apps, ability to uninstall and reinstall (if using CI show that)
+1. Show cluster management project and ability to adjust config there
+1. Show group cluster level environment view
+1. Jump to Rail project - show live site, see that there is no CI/CD config
+1. Show created MR, review diff, show review app (and highlight difference between review app and production), jump into pipeline - review ADO pipeline steps
+1. Show environment - highlight how we defind number of pods, ability to jump to live environment, console access
+1. Drill into production - highlight ability to rollback to previous commit
+1. Jump from environment to metrics - showcase response metrics and system metrics by default, business metrics easily instrumented, showcase recent deploy
+1. Jump to Pod Logs - showcase ability to search through logs
+1. Jump to Error tracking - showcase ability to see recent errors, dismiss, error details, create issue from error
+1. Jump to feature flags - 
+1. Incident response - Notice that there is a todo for you from the Incident
+    1. Jump to the incident issue - highlight payload, auto-creation, look at the charts and embed a metric for discussion in a comment
+    1. Checkout the logs
+    1. Perform some action (update replica count?)
+    1. Close the incident when alert has cleared
+1. Jump to Function Static Pages
+    1. Checkout live site - perform function action - wait for cold boot - perform again
+    1. Jump to Function project where code is
+    1. Showcase serverless.yml simple config
+    1. Showcase the two written functions code
+    1. Showcase Serverless panel with function names
+    1. Show recent invocations
+    1. Highlight ease of creating a platform for development teams

@@ -1,0 +1,60 @@
+---
+layout: handbook-page-toc
+title: Product Investment
+---
+
+This page is meant to provide insight into how we consider and allocate our investment across our [Product Hierarchy](/handbook/product/categories/#hierarchy).
+
+## Investment by Stage
+
+| Section - Stage | [Lifecycle](/direction/maturity/) |
+|-----------------|-----------|
+<% data.sections.each do |sectionKey, section| %>
+  <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
+    <% stageLine=[] %>
+    <% stageLine << "#{section.name}:#{stage.display_name}"%>
+    <% stageLine << "#{stage.lifecycle}" if stage.lifecycle %>
+    <%= "| #{stageLine.join(' | ')} |" if stageLine %>
+  <% end %>
+<% end %>
+
+## Investment by Group
+
+| Section - Stage:Group | Value |
+|-----------------------|-------|
+<% data.sections.each do |sectionKey, section| %>
+  <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
+    <% stage.groups.each do |groupKey, group| %>
+      <% groupLine=[] %>
+      <% groupLine << "#{section.name} - #{stage.display_name}:#{group.name}" %>
+      <% groupLine << " " %>
+      <%= "| #{groupLine.join(' | ')} |" if groupLine %>
+    <% end %>
+  <% end %>
+<% end %>
+
+## Investment by Category
+
+| Section - Stage:Group - Category | [Priority Level](/handbook/marketing/website/#category-attributes) |
+|----------------------------------|----------------|
+<% data.sections.each do |sectionKey, section| %>
+  <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
+    <% stage.groups.each do |groupKey, group| %>
+      <% if group.categories %>
+        <% group.categories.each do |categoryKey| %>
+          <% category = data.categories[categoryKey] %>
+          <% puts categoryKey unless category%>
+          <% categoryLine=[] %>
+          <% categoryLine << "#{section.name} - #{stage.display_name}:#{group.name} - #{category.name}" %>
+          <% categoryLine << "#{category.priority_level}" if category.priority_level %>
+          <%= "| #{categoryLine.join(' | ')} |" if categoryLine %>
+        <% end %>
+      <% end %>
+    <% end %>
+  <% end %>
+<% end %>
+
+## Changes
+
+Changes to this page are made by adding new values to the single sources of truth ([categories.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/categories.yml) and [stages.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/stages.yml)) and then editing this page in order to display those values in table form. Be sure the definition for any column value is defined in [stage](/handbook/marketing/website/#stage-attributes) and [category attributes](/handbook/marketing/website/#category-attributes) and that the column headers link to those definitions.
+    

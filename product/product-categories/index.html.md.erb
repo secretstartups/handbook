@@ -1,0 +1,305 @@
+---
+layout: handbook-page-toc
+title: Product sections, stages, groups, and categories
+extra_js:
+    - listjs.min.js
+    - categories.js
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+[**Principles**](/handbook/product/product-principles) - [**Processes**](/handbook/product/product-processes) - [**Categorization**](/handbook/product/product-categories) - [**GitLab the Product**](/handbook/product/gitlab-the-product) - [**Being a Product Manager**](/handbook/product/product-manager-role) - [**Product Leadership**](/handbook/product/product-leadership/)
+
+## Interfaces
+
+We want intuitive interfaces both within the company and with the wider
+community. This makes it more efficient for everyone to contribute or to get
+a question answered. Therefore, the following interfaces are based on the
+product categories defined on this page:
+
+- [Home page](/)
+- [Product page](/product/)
+- [Product Features](/features/)
+- [Pricing page](/pricing/)
+- [DevOps Lifecycle](/stages-devops-lifecycle/)
+- [DevOps Tools](/devops-tools/)
+- [Product Direction](/direction/)
+- [Stage visions](/direction/#devops-stages)
+- [Documentation](https://docs.gitlab.com/ee/#complete-devops-with-gitlab)
+- [Engineering](/handbook/engineering/) Engineering Manager/Developer/Designer titles, their expertise, and department, and team names.
+- [Product manager](/handbook/product/) responsibilities which are detailed on this page
+- [Our pitch deck](/handbook/marketing/product-marketing/#company-pitch-deck), the slides that we use to describe the company
+- [Strategic marketing](/handbook/marketing/product-marketing/) specializations
+
+## Hierarchy
+The categories form a hierarchy:
+
+1. **Sections**: Are a collection of stages. We attempt to align these logically along common workflows like Dev, Sec and Ops.
+   Sections are maintained in [`data/sections.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/sections.yml).
+1. **Stages**: Stages start with the 7 **loop stages**, then add Manage, Secure,
+   and Defend to get the 10 (DevOps) **value stages**, and then add the Growth
+   and Enablement **team stages**. Values stages are what we all talk about in
+   our marketing.
+   Stages are maintained in [`data/stages.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/stages.yml).
+   Each stage has a corresponding [`devops::<stage>` label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#stage-labels) under the `gitlab-org` group.
+1. **Group**: A stage has one or more [groups](/company/team/structure/#product-groups).
+   Groups are maintained in [`data/stages.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/stages.yml).
+   Each group has a corresponding [`group::<group>` label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#group-labels) under the `gitlab-org` group.
+1. **Categories**: A group has one or more categories. Categories are high-level
+   capabilities that may be a standalone product at another company. e.g.
+   Portfolio Management. To the extent possible we should map categories to
+   vendor categories defined by [analysts](/handbook/marketing/product-marketing/analyst-relations/).
+   There are a maximum of 8 high-level categories per stage to ensure we can
+   display this on our website and pitch deck.
+   ([Categories that do not show up on marketing pages](/handbook/marketing/website/#working-with-stages-groups-and-categories)
+   show up here in *italics* and do not count toward this limit.) There may need
+   to be fewer categories, or shorter category names, if the aggregate number of
+   lines when rendered would exceed 13 lines, when accounting for category names
+   to word-wrap, which occurs at approximately 15 characters.
+   Categories are maintained in [`data/categories.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/categories.yml).
+   Each category has a corresponding [`Category:<Category>` label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#category-labels) under the `gitlab-org` group.
+1. **Features**: Small, discrete functionalities. e.g. Issue weights. Some
+   common features are listed within parentheses to facilitate finding
+   responsible PMs by keyword.
+   Features are maintained in [`data/features.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/features.yml).
+   It's recommended to associate [feature labels](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#feature-labels) to a category or a group with `feature_labels` in the [`data/categories.yml` or `data/stages.yml`](/handbook/marketing/website/#working-with-stages-groups-and-categories).
+
+Notes:
+
+- Groups may have scope as large as all categories in a stage, or as small as a single category within a stage, but most will form part of a stage and have a few categories in them.
+- Stage, group, category, and feature labels are used by the automated triage
+operation ["Stage and group labels inference from category labels"](/handbook/engineering/quality/triage-operations/).
+- We don't move categories based on capacity. We put the categories in the stages where they logically fit, from a customer perspective. If something is important and the right group doesn't have capacity for it, we adjust the hiring plan for that group, or do [global optimizations](https://about.gitlab.com/handbook/product/product-management/process/#prioritize-global) to get there faster.
+- We don't have silos. If one group needs something in a category that is owned by another group, go ahead and contribute it.
+
+### Naming
+
+Anytime one hierarchy level's scope is the same as the one above or below it, they can share the same name.
+
+For groups that have two or more categories, but not *all* categories in a stage, the group name must be a [unique word](/handbook/communication/#mecefu-terms) or a summation of the categories they cover. For such groups, their name should be written as "Stage:Group" when the writer wants to give extra context. This can be useful in email signatures, job titles, and other communications. E.g. "Monitor:Health" rather than "Monitor Health" or "Monitor, Health."
+
+### More Details
+
+Every category listed on this page must have a link to a direction page. Categories may also have documentation and marketing page links. When linking to a category using the category name as the anchor text (e.g. from the chart on the homepage) you should use the URLs in the following hirearchy:
+
+Marketing product page > docs page > direction page
+
+E.g Link the marketing page. If there's no marketing page, link to the docs. If there's no docs, link to the direction page.
+
+### Solutions
+
+[Solutions](#solutions) can consist of multiple categories as defined on this
+page, but there are also other ones, for example industry verticals. Solutions typically represent a customer challenge, how GitLab capabilities come together to meet that challenge, and business benefits of using our solution.
+
+### Capabilities
+
+Capabilities can refer to stages, categories, or features, but not solutions.
+
+### Layers
+
+Adding more layers to the hierarchy would give it more fidelity but would hurt
+usability in the following ways:
+
+1. Harder to keep the [interfaces](#Interfaces) up to date.
+1. Harder to automatically update things.
+1. Harder to train and test people.
+1. Harder to display more levels.
+1. Harder to reason, falsify, and talk about it.
+1. Harder to define what level something should be in.
+1. Harder to keep this page up to date.
+
+We use this hierarchy to express our organizational structure within the Product and Engineering organizations.
+Doing so serves the goals of:
+
+- Making our groups externally recognizable as part of the DevOps lifecycle so that stakeholders can easily understand what teams might perform certain work
+- Ensuring that internally we keep groups to a reasonable number of stable counterparts
+
+As a result, it is considered an anti-pattern to how we've organized for categories to move between groups out
+of concern for available capacity.
+
+When designing the hierarchy, the number of sections should be kept small
+and only grow as the company needs to re-organize for [span-of-control](/handbook/leadership/#management-group)
+reasons. i.e. each section corresponds to a Director of Engineering and a
+Director of Product, so it's an expensive add. For stages, the DevOps loop
+stages should not be changed at all, as they're determined from an [external
+source](https://en.wikipedia.org/wiki/DevOps_toolchain). At some point we may
+change to a different established bucketing, or create our own, but that will
+involve a serious cross-functional conversation. While the additional value
+stages are our own construct, the loop and value stages combined are the primary
+stages we talk about in our marketing, sales, etc. and they shouldn't be changed
+lightly. The other stages have more flexibility as they're not currently
+marketed in any way, however we should still strive to keep them as minimal as
+possible. Proliferation of a large number of stages makes the product surface
+area harder to reason about and communicate if/when we decide to market that
+surface area. As such, they're tied 1:1 with sections so they're the
+minimal number of stages that fit within our organizational structure. e.g.
+Growth was a single group under Enablment until we decided to add a Director
+layer for Growth; then it was promoted to a section with specialized
+groups under it. The various buckets under each of the non-DevOps stages are
+captured as different groups. Groups are also a non-marketing construct, so we
+expand the number of groups as needed for organizational purposes. Each group
+usually corresponds to a backend engineering manager and a product manager, so
+it's also an expensive add and we don't create groups just for a cleaner
+hierarchy; it has to be justified from a [span-of-control](/handbook/leadership/#management-group)
+perspective or limits to what one product manager can handle.
+
+## Changes
+
+The impact of changes to stages and groups is felt [across the company](/company/team/structure/#stage-groups).
+Merge requests with
+[changes to stages and groups and significant changes to categories](/handbook/marketing/website/#working-with-stages-groups-and-categories)
+need to be created, approved, and/or merged by each of the below:
+
+1. EVP of Product
+1. VP of Product Strategy
+1. The Director of Product relevant to the stage group(s)
+1. The Director of Engineering relevant to the stage group(s)
+1. CEO
+
+The following people need to be on the merge request so they stay informed:
+
+1. EVP of Engineering
+1. Senior Director of Development
+1. Director of Quality Engineering
+1. Engineering Productivity (by @ mentioning `@gl-quality/eng-prod`)
+1. The Product Marketing Manager relevant to the stage group(s)
+
+After approval and before merging, obtain final confirmation from the Engineering Manager for Quality Engineering before proceeding with changes that:
+
+* Adds a new category, group or stage
+* Moves an existing category to a new or existing group
+* Moves an existing group to a new or existing stage
+* Renames a group or stage
+* Deletes a group or stage
+
+This is to ensure that [GitLab Bot auto-labeling](https://about.gitlab.com/handbook/engineering/quality/triage-operations/#auto-labelling-of-issues) can be updated prior to the change, which can be [disruptive if missed](https://gitlab.com/gitlab-org/quality/triage-ops/-/issues/467#note_337325686).
+
+### Examples
+
+Because it helps to be specific about what is a significant change and what should trigger the above
+approval process, below are two non-exhaustive lists of examples that would and would not, respectively, require approval.
+
+Changes that require the above approvers include:
+* Changes to a stage, group, or category name
+* Removal or addition of a stage, group, or category
+
+Changes that require approval only from the relevant Product Director include:
+* Changing a category maturity date
+* Changes to section or group member lists
+* Changes to a category vision page
+
+## DevOps Stages
+
+![DevOps Loop](devops-loop-and-spans.png)
+
+<%= partial("includes/product/categories") %>
+<%= partial("includes/product/categories-names") %>
+
+## Possible future Stages
+
+We have boundless [ambition](/handbook/product/product-principles/#how-this-impacts-planning), and we expect GitLab to continue to add new stages to the DevOps lifecycle. Below is a list of future stages we are considering:
+
+1. Data, maybe leveraging [Meltano product](https://meltano.com/)
+1. ML/AI, maybe leveraging [Kubeflow](https://www.kubeflow.org/)
+1. Networking, maybe leveraging some of the [open source standards for networking](https://www.linux.com/news/5-open-source-software-defined-networking-projects-know/) and/or [Terraform networking providers](https://www.terraform.io/docs/providers/type/network-index.html)
+1. Design, we already have [design management](https://gitlab.com/groups/gitlab-org/-/epics/1445) today
+1. Govern, combined dashboards for secure, defend, and maybe things like requirements management
+
+Stages are different from the [application types](/direction/maturity/#application-type-maturity) you can service with GitLab.
+
+## Maturity
+
+Not all categories are at the same level of maturity. Some are just minimal and
+some are lovable. See the [category maturity page](/direction/maturity/) to see where each
+category stands.
+
+## Solutions
+
+GitLab also does the things below that are composed of multiple categories.
+
+1. Software Composition Analysis (SCA) = Dependency Scanning + License Compliance + Container Scanning
+1. Application Performance Monitoring (APM) = Metrics + Tracing + Real User Monitoring (RUM)
+1. Project Management = Issue Tracking + Kanban Boards + Time Tracking
+1. Agile Portfolio Management = Epics + Roadmaps + Issue Tracking + Kanban Boards + Time Tracking
+
+We are [intentional in not defining SCA as containing SAST and Code Quality](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/26897#note_198503054) despite some analysts using the term to
+also include those categories.
+
+## Other functionality
+
+This list of other functionality so you can easily find the team that owns it.
+Maybe we should make our features easier to search to replace the section below.
+
+### Other functionality in [Plan](/handbook/product/categories/#plan-stage) stage
+
+- markdown functionality
+- assignees
+- milestones
+- due dates
+- labels
+- issue weights
+- quick actions
+- email notifications
+- todos
+- GraphQL API foundational code
+
+### Other functionality in [Create](/handbook/product/categories/#create-stage) stage
+
+#### [Source Code group](/handbook/product/categories/#source-code-group)
+
+- [Repository Mirroring](https://docs.gitlab.com/ee/workflow/repository_mirroring.html)
+- SSH git operations ([gitlab-shell](https://gitlab.com/gitlab-org/gitlab-shell))
+- [gitlab-workhorse](https://gitlab.com/gitlab-org/gitlab-workhorse)
+
+### Other functionality in Verify
+
+- [Runner](https://docs.gitlab.com/runner/)
+
+### Other functionality in [Secure](/handbook/product/categories/#secure-stage) stage
+
+#### [Composition Analysis group](/handbook/product/categories/#composition-analysis-group)
+
+- [Dependency List](https://docs.gitlab.com/ee/user/application_security/dependency_scanning/#dependency-list)
+- [Policy Settings](https://gitlab.com/groups/gitlab-org/-/epics/2075)
+- Security Reports Integration
+
+#### [Threat Insights group](/handbook/product/categories/#threat-insights-group)
+
+- [Pipeline and Merge Request Security reports](https://docs.gitlab.com/ee/user/project/merge_requests/#security-reports-ultimate)
+- [Interacting with Vulnerabilities](https://docs.gitlab.com/ee/user/application_security/index.html#interacting-with-the-vulnerabilities)
+- [Security Dashboards](https://docs.gitlab.com/ee/user/application_security/security_dashboard/)
+- [Security Approvals](https://docs.gitlab.com/ee/user/application_security/#security-approvals-in-merge-requests)
+
+### Other functionality in [Monitor stage](/handbook/product/categories/#monitor-stage)
+
+#### [APM group](/handbook/product/categories/#apm-group)
+
+- [GitLab Self-monitoring](https://gitlab.com/groups/gitlab-org/-/epics/783)
+- [Instrumentation Workflow](https://gitlab.com/groups/gitlab-org/-/epics/1945)
+- [Triaging Workflow](https://gitlab.com/groups/gitlab-org/-/epics/1947)
+
+#### [Health group](/handbook/product/categories/#health-group)
+
+- [Operations Dashboard](https://gitlab.com/groups/gitlab-org/-/epics/141)
+- [Resolve Workflow](https://gitlab.com/groups/gitlab-org/-/epics/1972)
+- [Improve Workflows](https://gitlab.com/groups/gitlab-org/-/epics/1973)
+
+### Facilitated functionality
+
+Some product areas are have a broad impact across multiple stages. Examples of this include, among others:
+
+* Navigation used throughout the application, including the top bar and side bar.
+* Shared project views, like the [project](https://docs.gitlab.com/ee/user/project/#projects) overview and settings page.
+* Functionality specific to the [admin area](https://docs.gitlab.com/ee/user/admin_area/settings/) and not tied to a feature belonging to a particular stage.
+* UI components available through our design system, [Pajamas](https://design.gitlab.com/).
+
+While the mental models for these areas are maintained by specific stage groups, everyone is encouraged to contribute within the guidelines that those teams establish. For example, anyone can contribute a new setting following the established guidelines for Settings. When a contribution is submitted that does not conform to those guidelines, we merge it and "fix forward" to encourage innovation. 
+
+If you encounter an issue falling into a facilitated area:
+
+* For issues that relate to updating the guidelines, apply the `group::category` label for the facilitating group. For example, to update the guidelines for adding a Setting, apply the `group::access` label.
+* For issues that relate to adding content related to a facilitated area, apply the `group::category` label for the most closely related group. For example, when adding a new setting related to Merge Requests, apply the `group::source code` label.
