@@ -38,6 +38,7 @@ I work at the intersection of culture, operations, people, talent branding, mark
 * Fortune — [Why GitLab hired a ‘head of remote’ before the coronavirus pandemic](https://fortune.com/2020/05/28/coronavirus-head-of-remote-work-from-home-gitlab-github-jobs/)
 * TechCrunch — [GitLab's Head of Remote on hiring, onboarding, and why Slack is a no-work zone](https://techcrunch.com/2020/05/19/gitlabs-head-of-remote-on-hiring-onboarding-and-why-they-dont-do-work-stuff-on-slack/)
 * TechCrunch — [What people tend to get wrong about remote work](https://techcrunch.com/2020/05/20/what-people-tend-to-get-wrong-about-remote-work/)
+* Ceridian — [Intentionally remote: Why this isn’t just a big experiment](https://www.ceridian.com/blog/intentionally-remote-why-this-isn-t-just-a-big-experiment-according-to-gitlab)
 * Unito — [GitLab’s Darren Murph on Building Remote Company Culture](https://unito.io/blog/remote-company-culture-darren-murph-gitlab/)
 * HR Exchange Network — [Challenges and Opportunities in the Remote Workplace](https://www.hrexchangenetwork.com/hr-talent-management/columns/challenges-and-opportunities-in-the-remote-workplace)
 * Business Insider — [Read the exact onboarding guide GitLab uses to manage its fully remote, 1,200-person staff and ensure new hires thrive from day one](https://www.businessinsider.com/how-gitlab-largest-fully-remote-company-onboards-new-employees-guide)
