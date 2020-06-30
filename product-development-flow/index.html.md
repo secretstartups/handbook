@@ -219,7 +219,7 @@ You can view all the work in happening in this track [on this board](https://git
 
 ## Build track  
 
-The build track is where we plan, develop, and deliver value to our users by building [MVCs](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc), fixing defects, patching security vulnerabilities, enhancing user experience, and improving performance. DRIs across engineering disciplines involving [Design, Backend, Frontend and Quality](https://about.gitlab.com/handbook/product/product-management/process/#pm-em-ux-and-set-quad-dris) work closely together to implement MVCs while in close collaboration with the Product Manager. Decisions are made quickly if challenges arise. We make sure to instrument [usage](/handbook/product/performance-indicators/) and performance measurements, so once MVCs are delivered to the hands of customers, feedback is captured quickly for learnings to refine the next iteration.
+The build track is where we plan, develop, and deliver value to our users by building [MVCs](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc), fixing defects, patching security vulnerabilities, enhancing user experience, and improving performance. DRIs across engineering disciplines involving [Design, Backend, Frontend and Quality](https://about.gitlab.com/handbook/product/product-management/process/#pm-em-ux-and-set-quad-dris) work closely together to implement MVCs while in close collaboration with the Product Manager. Decisions are made quickly if challenges arise. We make sure to instrument [usage](/handbook/product/product-processes/#instrumentation-for-gitlabcom/) and performance measurements, so once MVCs are delivered to the hands of customers, feedback is captured quickly for learnings to refine the next iteration.
 
 ### Build Goals & Outcomes
 
@@ -260,7 +260,7 @@ For user-facing deliverables, Product Designers work with Engineering to validat
    1. SET determines if the feature change needs to run `package-and-qa` regression job, this is made clear in the above section.
    1. If the SET has recommendations (e.g. running regression job, writing additional tests, etc.), the SET applies the `quad-planning::complete-action` label to the issue.  If no additional action needs to be taken, the SET applies the `quad-planning::complete-no-action` label to the issue.
    1. The SET unassigns themselves from the issue.
-1. EM works with assignees to create a `Build Plan` that outlines the number of MRs and responsibilities for assigned team members. EM and PM provide a focus on [iteration](/handbook/product/product-principles/#iteration) when reviewing these plans.
+1. EM works with assignees to create a `Build Plan` that outlines the number of MRs and responsibilities for assigned team members. EM and PM provide a focus on [iteration](/handbook/product/#iteration) when reviewing these plans.
 1. EM applies `workflow::scheduling` to allow for a buffered priority queue.
 1. PM assigns them to a specific milestone/release. Follow the product development timeline when scheduling implementation issues into milestones. Note that engineering will apply the `workflow::ready for development` and `deliverable` labels during the next phase, in alignment with the PM.
 
