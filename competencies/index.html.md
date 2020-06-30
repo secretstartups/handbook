@@ -31,7 +31,7 @@ A competency is defined as a set of skills, knowledge, and behaviors that allow 
  </figure>
  <!-- blank line -->
 
-## How we use competencies 
+## Where we use competencies 
 
 The following initiatives should use the same competencies as their SSoT.
 Instead of maintaining separate materials they should link back to the most relevant place where the competency is defined. For general competencies, this is likely our [values](/handbook/values) page. For role specific competencies, this is likely the [job-family](/handbook/hiring/job-families/#format) page.
