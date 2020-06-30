@@ -99,7 +99,7 @@ Each of the values and remote work competencies have a knowledge assessment in t
 1. [Iteration](https://about.gitlab.com/handbook/values/#iteration-competency)
 1. [Transparency](/handbook/values/#transparency-competency)
 
-Take this [Knowledge Assessment](/handbook/values/#gitlab-values-certification) to become certified in the values.
+In addition to the knowledge assessemnts for each value, you can take this [Knowledge Assessment](/handbook/values/#gitlab-values-certification) to become certified in the values.
 
 ### Remote Work Competencies 
 1. [Manager of One](https://about.gitlab.com/handbook/leadership/#managers-of-one)
