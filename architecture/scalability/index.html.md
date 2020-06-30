@@ -22,8 +22,6 @@ Frameworks help contextualize our thinking around a problem by breaking it into 
 
 *A “swim lane” or fault isolation zone is a failure domain. A failure domain is a group of services within a boundary such that any failure within that boundary is contained within the boundary and the failure does not propagate or affect services outside of the said boundary.*
 
-[TODO: DIAGRAM: swimlane diagram, contextualized to GitLab]
-
 
 
 ## The Scale Cube
@@ -116,8 +114,6 @@ Federation may be as simple as having separate DNS endpoints into GitLab.com for
 
 Never federate relationships. Relationships are not true entities, even if they sometimes take the form of entities. For examples, namespaces are *relationship entities*: their sole function if to function as a relationship bridge. Compare to true entities, like projects, users, or issues.
 
-
-
 ## `[NFE]` Never Federate Entities
 
 Much like we should never use an entity’s attribute as a primary key, we should never federate entities to create intrinsic swimlanes, which is to say, never use an entity’s attribute identifier as a swimlane identifier. Federate using an entity’s attribute allowing for multiple entities to share a swimlane. In the extreme case, N = 1, but not by making the entity’s identifier the swimlane’s identifier.
@@ -126,9 +122,9 @@ Much like we should never use an entity’s attribute as a primary key, we shoul
 
 We should never force customers to embrace federation, especially existing customers. In particular, federation on edge layers, which tend to be those closest to the customer, can be extremely disruptive (e.g., front doors). People tend to hardcode names in configurations and scripts. This is very true for us, where millions of people have cloned repositories with Git configurations pointing to GitLab.com.
 
-## `[FEM]` Federation Enables Monetization.
+## `[CTF]` Compliance Through Federation
 
-Since federation is based on customer or requestor bias, it enables the activation of features along those boundaries for customers that want a certain feature (geolocated data). In addition to monetization, federation is closely associated with regulatory compliance.
+Since federation is based on customer or requestor bias, it enables the activation of features along those boundaries for customers that want a certain feature (geolocated data). Regulatory compliance is thus enabled through federation.
 
 ## `[CTL]` Componentizing on Time Locality
 
@@ -143,23 +139,13 @@ Performance indicators are scalability-related instrumentation that enables us t
 - [**https://docs.google.com/document/d/1lZ7RKtv7yCkV7MVx-7UfZZMvEB9lzLrrFDUw0oVFxXA/edit#heading=h.ibm29qjhrqeb**](https://docs.google.com/document/d/1lZ7RKtv7yCkV7MVx-7UfZZMvEB9lzLrrFDUw0oVFxXA/edit#heading=h.ibm29qjhrqeb)
 - https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/382
 
-Performance indicators lead us to prioritize scalability work.
+Performance indicators allow prioritization of scalability work.
 
 ## Articulate Objectives
 
-It is important to articulate scalability objectives before embarking on scalability work. It needs not be a detailed specification: simplicity rules, and the objectives can be refined over time. 
-
-- Postgres Scalability objective has been defined as **100x**
-
-- Translate 100x to KPIs
-
-When this objective is defined, it must be mapped to capacity planning and saturation metrics. (Note: KIs are key) Most of the time, we will not be able to accurately predict the exact effects of a given scalability iteration. Estimates are therefore ok (but show the math).
+It is important to articulate scalability objectives before embarking on scalability work. It needs not be a detailed specification: simplicity rules, and the objectives can be refined over time. (Note: PIs are key) Most of the time, we will not be able to accurately predict the exact effects of a given scalability iteration. Estimates are therefore ok (but show the math).
 
 ## Scope the Solution
 
-What potential solutions(s) would meet the objectives? Use the Scale Cube and Best Practices to scope it (them), and evaluate what future steps might look like. Bonus points for step-functions.
-
-
-
-## [TODO: connect with Architecture Evolution]
+What potential solutions(s) would meet the objectives? Use the Scale Cube and Best Practices to scope it (them), and evaluate what future steps might look like (step-functions). Engage through the Architecture Workflow.
 
