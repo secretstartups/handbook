@@ -67,7 +67,7 @@ If the prospect responds with interest, the person who found them will collect t
 
 If the prospect wants to talk with someone at GitLab to learn more about future opportunities, the person who found them will send them the Calendly link of the assigned Recruiter for the Talent Pool so a brief 15-20 "career conversation" call can be set up.  Not all prospects who get moved to “Nurture” have to complete a call. 
 
-The person who completes the "career conversation" call will add brief notes to the prospects profile in Greenhouse and add the tags "Check Activity Feed" and "Had Video Chat" to the prospect's profile.  If the prospect should no longer be considered as a prospect after the call, select the option to “stop considering as a prospect”. 
+The person who completes the "career conversation" call will add brief notes to the prospects profile in Greenhouse and add the tags "Check Activity Feed" and "Had Video Chat" to the prospect's profile. If the person who completes the "career conversation" call considers the prospect to be great overall match to GitLab they will add the “Top Candidate” tag as well. If the prospect should no longer be considered as a prospect after the call, select the option to “stop considering as a prospect”. 
 
 ### **Step 6: Nurture Prospects**
 
