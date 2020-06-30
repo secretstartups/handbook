@@ -275,6 +275,25 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
 
 A limited [internship pilot](/handbook/engineering/internships/) is launching in 2020. Depending on the success of the pilot we may choose to roll it out further.
 
+## Apprenticeships
+
+Sometimes, a member of the GitLab team might want to experience working in a new role without making a permanent change. If the department they want to learn more about can support this effort, then this offers a good opportunity for an apprenticeship. 
+
+The apprentice agrees to:
+
+* Continue to support their current role and report to their current manager
+* Dedicate a pre-determined percentage of their time to the apprenticeship role
+* Have clear timelines and deliverables throughout the apprenticeship
+* Communicate their assignments and availability clearly to both departments
+
+In return, the department with which they are apprenticing agrees to:
+
+* Provide guidance and support to the apprentice
+* Offer meaningful projects for the apprentice to work on
+* Be flexible, so that the apprentice can continue to support their primary team and carry an appropriate workload
+
+If you wish to apprentice with an Engineering team, start by speaking with your manager.
+
 ## Junior Engineers
 
 Junior Engineers require a high degree of mentorship to effectively set them up for success. Because GitLab Engineering is scaling so quickly at the moment (100% in 2018, 125% in 2019) we are not hiring at the junior level. A good guideline for what it takes to meet our intermediate criteria is 2 years of professional experience with rapid growth. We encourage you to apply, even if you have questions.
