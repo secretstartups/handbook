@@ -24,7 +24,7 @@ title: "Performance"
 
 ### Target
 
-Performance of GitLab and GitLab.com is ultimately about the user experience. As also described in the [product management handbook](/handbook/product/#performance), "faster applications are better applications".
+Performance of GitLab and GitLab.com is ultimately about the user experience. As also described in the [product management handbook](/handbook/product/gitlab-the-product/#performance), "faster applications are better applications".
 
 Our target is: an average **Speed Index of less than 2 seconds** for GitLab.com
 
