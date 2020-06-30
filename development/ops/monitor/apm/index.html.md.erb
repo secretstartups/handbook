@@ -187,11 +187,11 @@ We only use issue weights when we have to move an issue from one milestone to th
 
 ### Merge Request Rate KPI
 
-To help us stay on track with [Development KPIs](/handbook/engineering/development/performance-indicators/index.html), we track this in our <a href="<%= signed_periscope_url(dashboard: 681347, embed: 'v2', filters: [{name: "development_section", value: "ops"},{name: "team", value: ["monitor_apm_fe","monitor_apm_be"] }], visible: ["development_section", "team"] ) %>">metrics dashboard</a>:
+To help us stay on track with the [Development KPIs](/handbook/engineering/development/performance-indicators/index.html), we track merge request rate and mean time to merge:
 
-<embed width="50%" style="min-height:300px;" src="<%= signed_periscope_url({ chart: 9035725, dashboard: 694012 , embed: "v2"}) %>">
-<embed width="50%" style="min-height:300px;" src="<%= signed_periscope_url({ chart: 9035723, dashboard: 694012 , embed: "v2"}) %>">
-<embed width="50%" style="min-height:300px;" src="<%= signed_periscope_url({ chart: 9035724, dashboard: 694012 , embed: "v2"}) %>">
+<embed width="40%" style="min-height:200px;" src="<%= signed_periscope_url({ chart: 9035725, dashboard: 694012 , embed: "v2"}) %>">
+<embed width="40%" style="min-height:200px;" src="<%= signed_periscope_url({ chart: 9035723, dashboard: 694012 , embed: "v2"}) %>">
+<embed width="40%" style="min-height:200px;" src="<%= signed_periscope_url({ chart: 9035724, dashboard: 694012 , embed: "v2"}) %>">
 
 Starting in 13.2, we are experimenting with some best practices to increase our MR Rate and decrease our Mean Time to Merge metrics. Here are some of the things we are working on:
 
