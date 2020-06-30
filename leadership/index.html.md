@@ -1,0 +1,374 @@
+---
+layout: handbook-page-toc
+title: "Leadership"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+This page contains leadership pointers.
+The first couple of headers indicate which group they apply to, using the groupings
+defined on our [team structure page](/company/team/structure/).
+
+## GitLab team members
+
+1. At GitLab, leadership is requested from everyone, whether an individual contributor or member of the leadership team.
+1. As a leader, GitLab team members will follow your behavior, so always do the right thing.
+1. Everyone that joins GitLab should consider themselves ambassadors of our [values](/handbook/values) and protectors of our [culture](/company/culture/).
+1. Behavior should be consistent inside and outside the company, just do the right thing inside the company, and don't fake it outside.
+1. GitLab respects your judgment of what is best for you, since you know yourself best. If you have a better opportunity somewhere else don't stay at GitLab out of a sense of loyalty to the company.
+1. In tough times people will put in their best effort when they are doing it for each other.
+1. We work [asynchronously](/company/culture/all-remote/management/#asynchronous). Lead by example and make sure people understand that [things need to be written down in issues as they happen](/company/culture/all-remote/self-service/#paying-it-forward).
+1. We are not a democratic or consensus driven company. People are encouraged to give their comments and opinions, but in the end [one person decides](/handbook/people-group/directly-responsible-individuals/) the matter after they have listened to all the feedback.
+1. It is encouraged to disagree and have constructive debates but please [argue intelligently](https://www.brainpickings.org/2014/03/28/daniel-dennett-rapoport-rules-criticism/).
+1. We value truth seeking over cohesion.
+1. We avoid [meetings](/company/culture/all-remote/meetings/), when possible, because they don't support the asynchronous work flow and are hard to conduct due to timezone differences.
+1. Start meetings on time, be on time yourself, don't ask if everyone is there, and don't punish people that have shown up on time by waiting for people or repeating things for those that come late. When a meeting unblocks a process or decision, don't celebrate that but instead address the question: How can we unblock in the future without needing a meeting?
+1. We give [feedback](/company/culture/all-remote/effective-communication/#feedback-is-a-gift), lots of it. Don't hold back on suggestions for improvements.
+1. If you meet external people, always ask what they think we should improve.
+1. Following from [Paul Graham's advice](https://twitter.com/paulg/status/802102152319606784): Strive to make the organization simpler.
+1. Saying something to the effect of "as you might have heard", "unless you've been living in a cage you know", "as everyone knows", or "as you might know" is toxic. The people that know don't need it to be said. The people that don't know feel like they missed something and might be afraid to ask about the context.
+1. [Don't use someone else's name](https://twitter.com/emiliejayg/status/1198731054162432000?s=12), remind people of your title, or otherwise ["pull rank"](/handbook/values/#dont-pull-rank) to get things done.
+
+## Groups
+
+A group is any arrangement of people that is not reflected directly in our [org structure](/company/team/structure/).
+
+## Management group
+
+Members of the management group are expected to demonstrate leadership in the way all [GitLab team members are](/handbook/leadership/#gitlab-team-members), plus:
+
+1. Ensuring team members feel included and valued is one of the most important tasks of a manager. Proactively create psychological safety with your team members so that diverse perspectives can be heard and everyone can communicate and contribute authentically and creatively.
+1. Ensuring team members understand what is expected of them in their roles is a critical role that managers have to ensure company success. Managers should ensure job families include specific [performance indicators](/handbook/hiring/job-families/#why-job-families-have-performance-indicators) and that is clearly communicated to each team member.
+1. [Managing underperformance](/handbook/underperformance) is another important task of a manager.
+1. When times are great, be a voice of moderation. When times are bad, be a voice of hope. In order to effectively be the voice of hope, managers should make sure they understand the company mission, goals, and leadership decisions. If managers have concerns about leadership decisions, they should voice them to leaders in order to understand the context, share key insights from their team members to ensure we make sound decisions, and then be able to explain context to their team members.
+1. To maintain an effective organization, a manager's span of control should be around 7 people, ranging anywhere from 4 to 10. Below this range the inefficiency of an extra organizational layer is larger than the benefit of a specialized group. Above this range, the manager doesn't have time to do proper 1:1s anymore.
+1. The span of control is the same at every level of the organization. This prevents the organization from having an additional layer that adds cost and reduces decision making speed. To increase the number of reports you can handle increase delegation to the [directly responsible individual](/handbook/people-group/directly-responsible-individuals/) who can be a manager. Size the number of reports on where you expect the organization to be in 6 months from now.
+1. When you praise someone, try to do it [publicly and in front of an audience](/handbook/communication/#say-thanks). When you give suggestions to improve, do it privately [1 on 1](/handbook/leadership/1-1/). A [Harvard study](https://hbr.org/2013/03/the-ideal-praise-to-criticism) has shown that the ideal ratio of positive to negative feedback for high-performing teams is nearly 6:1. Be generous with your positive feedback. 
+1. Express gratitude in team meetings, group conversations, and other communications to people who constructively challenge your opinions and ask difficult questions. This helps create psychological safety, promote our values, and prevent [the five dysfunctions](/handbook/values/#five-dysfunctions).
+1. Understand that there are different ways to get to the same goal. There are different perspectives, and discussions need to happen.
+1. When someone says they are considering quitting, drop everything and listen to them. Ask questions to find out what their concerns are. If you delay, the person will not feel valued and the decision will be irreversible.
+1. In addition to announcing new team member arrivals, departures are also announced in the `#team-member-updates` chat channel (but only after the Google/Slack accounts are revoked, see the [offboarding page](/handbook/people-group/offboarding/) and the [offboarding checklist](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/offboarding.md) for details). We must respect the privacy of the individual concerned. If you are asked why someone has left or is leaving, please refer that person to the [general guidelines](/handbook/communication/#not-public) section of the handbook where we describe what can and cannot be shared.
+1. People should not be given a raise or a title because they ask for it or threaten to quit. We should pro-actively give raises and promote people without people asking. If you do it when people ask, you are being unfair to people that don't ask and you'll end up with many more people asking.
+1. Don't refer to GitLab [as a family](https://hbr.org/2014/06/your-company-is-not-a-family). It is great that our team feels like a close-knit group and we should encourage that, as this builds a stronger team. But _families_ and _teams_ are different. _Families_ come together for the relationship and do what is critical to retain it. _Teams_ are assembled for the task and do what is required to complete it. Don't put the relationship above the task. Besides, families don't have an [offboarding process](/handbook/people-group/offboarding/). Families should have unconditional love, while teams have conditional love. [The best companies are supporters of families.](https://twitter.com/myriadwill/status/917772249624702976). The idea that your team is your family can lead to unwarranted pressure: ["this office is like a family... in that there is vague pressure to be here on holidays"](https://twitter.com/emilieschario/status/1182454709925416961)
+1. Praise and credit the work of your reports to the rest of the company, never present it as your own. This and many other great lessons can be found in an [Ask MetaFilter thread](http://ask.metafilter.com/300002/My-best-manager-did-this) worth reading.
+1. Try to be aware of your [cognitive biases](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18).
+1. Combine [consistency and agility](https://hbr.org/2017/01/the-best-strategic-leaders-balance-agility-and-consistency).
+1. Consider maintaining a [README](/handbook/engineering/readmes/eric-johnson/) file for your teams which documents your expectations and working style. Encourage MRs to it.
+1. Although our time scales are shorter, there is a great article about [how to think about PIPs](https://mfbt.ca/how-i-talk-to-leaders-about-firing-people-8149dfcb035b).
+1. Do everything to unblock people. If someone has a question that is keeping them from being productive, try to answer the question yourself or find someone who can.
+1. Communicate in a [professional manner](/company/culture/all-remote/effective-communication/) as though your words will be shared widely (e.g. published in a newspaper).
+1. Employ [multimodal communication](/handbook/communication/#multimodal-communication) to broadcast important decisions.
+1. You are expected to [respond on social media](/handbook/marketing/social-media-guidelines/). If you have questions, please seek counsel in the `#social_media` chat channel.
+1. Make sure your reports experience a [sense of progress](http://tomtunguz.com/progress-principle/) in their work.
+1. A tweet by [Sam Altman](https://twitter.com/sama/status/804138512878473220) combined with a reply by [Paul Graham](https://twitter.com/paulg/status/804209365305659392) says it best: "People either get shit done or they don't. And it's easy to be tricked because they can be smart but never actually do anything." Watch for results instead of articulate answers to questions, otherwise you'll take too much time identifying under-performers.
+1. [GitLab Contribute](/company/culture/contribute/) (formerly GitLab summits) is meant for [informal communication](/company/culture/all-remote/informal-communication/) and [bonding](/company/culture/all-remote/in-person/) across the company. There is a limited time for business activities during GitLab Contribute so all our regular meetings should happen outside of it. We want informal, cross team, and open-ended meetings that include individual contributors. For example, inviting everyone to suggest currently missing functionality in GitLab.
+1. Never delay a decision until GitLab Contribute. Instead, use them as a deadline to get things done earlier.
+1. We don't have explicit 20% time at GitLab. We measure [results and not hours](/handbook/values/#measure-results-not-hours). If people are getting good results in the work that is assigned to them they are free to contribute to other parts of the company or work on a pet project. Don't say, "Your work on that pet project is hurting your performance." Instead, say, "We agreed to get X done but it is delayed, what happened and how can I help?"
+1. Pick a metric before launching something new. 9 out of 10 launches fail. If a project is not working out shut it down completely. Starving a team of headcount to have it die a slow death is not frugal nor motivating. Fund the winners which will still take years to break even.
+1. Do not discuss raises in advance because the salary calculator may change before the amount of the raise is decided.
+2. Do not discuss promotions, salary increases, or bonuses until the changes have gone through the entire approval process. People Ops will inform the manager when they can inform the team member of the promotion and increase.
+1. Instead of prescribing a direction to your reports, it is best to ask questions following the [Socratic method](https://en.wikipedia.org/wiki/Socratic_method) until you're happy with the direction. Your reports will have deeper knowledge in a more narrow area, so it is easy to draw different conclusions because they base theirs on different data. That is why the questions are so important.
+1. Follow [Berkshire's common injunction](https://www.hb.org/the-psychology-of-human-misjudgment-by-charles-t-munger/): "Always tell us the bad news promptly. It is only the good news that can wait." Make sure to inform your manager of bad news as quickly as possible. Promptly reporting bad news is essential to preserving the trust that is needed to recover from it.
+1. Try to avoid military analogies and imagery. We're not an army, we're not at war, there is no battle, we're not killing anyone, and we don't have weapons. Military language is [not inclusive](https://www.london.edu/faculty-and-research/lbsr/killing-the-competition) and can lead to zero sum thinking. We take competing and winning very seriously, but there is no need to describe things using vocabulary of physical violence. Similarly, non-collaborative and aggressive terms like "rockstar" and "badass" put up walls between people. If a term is standard in the industry, for example [killing a Unix process](https://shapeshed.com/unix-kill/#how-to-kill-a-process), it is acceptable to use it because that is more efficient. Do use "primary-secondary" instead of "master-slave" for replication mechanisms.
+1. Complain up and explain down. Raise concerns you hear to your manager. When peers or reports complain, explain why a decision was made. If you don't understand why, ask your manager.
+1. Create empathy for decisions from other leaders that negatively impact your team by explaining the reasons behind them. Organize a recorded AMA session with your team and the other leaders and encourage your team (as well as yourself) to ask any unanswered questions. Lead by example by ensuring that the discussion exposes what is [best for the organization as a whole](/handbook/values/#global-optimization). Never present yourself as protecting the team from the rest of the organization; this creates a [siege mentality](https://en.wikipedia.org/wiki/Siege_mentality) and hinders [collaboration](/handbook/values/#collaboration).
+1. Coach team members to establish good [remote work practices](/company/culture/all-remote/), by encouraging [asynchronous communication](/company/culture/all-remote/management/#asynchronous), being [handbook-first](/handbook/handbook-usage/#why-handbook-first), communicating poor audio or [video quality](/blog/2019/08/05/tips-for-mastering-video-calls/), or pointing out an open microphone.
+
+
+## Director group
+
+Members of the director group are expected to demonstrate leadership in the way all members of the [management group](/handbook/leadership/#management-group) are, plus:
+
+1. They have the ability to align the day-to-day execution to the top objectives of the company, and they are responsible for making sure the top objectives are well communicated to team members.
+1. They work peer-to-peer and sponsor healthy conflict amongst the team to resolve issues quickly, escalating only when all options are exhausted.
+1. They ambitiously define roles for, grow and hire their teams for what is needed from the business in the next 3-4 years.
+1. They coach their teams to work within the [communication guidelines](/handbook/communication/) and lead by example.
+
+## S-group
+
+These are the [senior leaders](/company/team/structure/#senior-leaders).
+Members of the S-group are expected to demonstrate leadership in the way all members of the [director group](/handbook/leadership/#director-group) are, plus:
+
+1. They have significant strategic and functional responsibility.
+1. They have significant operating budget responsibility (things like compensation planning, budget allocation, negotiation, investment tradeoff decisions).
+1. They have leverage and influence over the performance and success of large teams (both reporting directly and indirectly) and their success will result in increased success across large numbers of people.
+1. The impact of their decisions are broad and significant.
+1. Some of them have critical external responsibility to represent the company and make decisions and statements for which the company is accountable.
+
+This is an uncommon title and a small group that is nominated by the E-group. Please don't set expectations with internal/external candidates without initiating the discussion with the CEO first. The CEO has approval on addition of all these titles.
+
+## E-group
+
+These are the [executives](/company/team/structure/#executives).
+Members of the E-group are expected to demonstrate leadership in the way all members of the [S-group](/handbook/leadership/#s-group) are, plus:
+
+1. They suggest relevant, ambitious, and quantifiable OKRs and achieve 70% of them.
+1. They are reliable and ensure their teams complete what they agreed to do.
+1. They are proactive about detecting and communicating problems in their functions before other departments even notice them.
+1. They hire and retain leaders that perform better in their functional areas.
+1. They create roles and set requirements for what is needed 3-4 years out and hire for that profile.
+1. They get a huge amount of things done by iterating quickly and training their department in iteration.
+1. They define and communicate the business strategy and vision, instead of being overly tactical in the business.
+1. They share insights about other functional areas that make others better at their job.
+1. They suggest and implement improvements to our cross-functional processes.
+1. They frequently help achieve results outside their function.
+1. They make other executives better in their discipline.
+
+## Interim and Acting Leadership
+In some cases, a individual in the [Management group](#management-group), [Director group](#director-group), [S-group](#s-group), or even [E-group](#e-group) may have an "Interim" or "Acting" title.
+1. **Acting** means that someone is occupying this role temporarily and will move back to their original role after a set amount of time or other conditions, such as an external hire.
+1. **Interim** means the individual is working on a promotion into the role.
+
+In either case, they will be fulfilling the full responsibilities of the role. If you have any questions, about the future of the role, please ask them or their manager.
+
+Individual departments will have their own criteria for who is eligible to occupy these roles, so please check the career development page for your department.
+
+## All-Directs
+
+You may occassionally hear of the E-Group hosting an "All-Directs" call or meeting.
+The All-Directs group is made up of anyone who reports directly to the e-group.
+It is made up of some ICs, some managers, some directors, and some senior leaders.
+This group is called on to help provide input and communicate messaging when appropriate.
+As an example, the [all-directs meets after every e-group offsite](/handbook/ceo/offsite/#all-directs-zoom-call).
+
+<iframe class="dashboard-embed" src="https://app.periscopedata.com/shared/eac267ee-22c2-4a1e-87c0-f90db206d930?embed=true" height="500"> </iframe>
+
+
+## Making decisions
+
+1. We use our [values](/handbook/values/), and particularly our [values hierarchy](/handbook/values/#hierarchy), to guide the decisions we make.
+1. We combine the [best of both hierarchical and consensus organizations](/company/culture/all-remote/management/#separating-decision-gathering-from-decision-making). Hierarchical organizations have good speed but are bad at gathering data, leading to people saying yes but not doing it. Consensus organizations are good at gathering data but lack speed, leading to projects happening under the radar. We split decisions into two phases. The data gathering phase has the best of consensus organizations, where everyone can contribute. The decision phase has the best of a hierarchical organization, the person that does the work or their manager decides what to do.
+1. If you apply consensus in both the data gathering phase and the decision phase you lose speed and you get decisions that try to stay under the radar so there are fewer people to convince.
+1. If you apply hierarchy in both the data gathering phase and the decision phase you lose valuable input.
+1. Providing input but then not being part of the decision making phase is counterintuitive, you feel ignored. We'll have to accept that people listened to us but don't owe us an explanation to have fast decisions based on everyone's input.
+1. At GitLab, decision making is based on an informed and knowledgeable hierarchy, not on consensus or democracy. Voting on material decisions shows a lack of informed leadership.
+1. Make data driven decisions but consider environments that do not allow reliable data collection. According to [research by the Harvard Business Review](https://hbr.org/2016/02/the-rise-of-data-driven-decision-making-is-real-but-uneven), "experience and knowledge of leaders in the subject matter still outperforms purely data-driven approaches."
+1. When analyzing trends, never show cumulative graphs because they always look up and to the right even if business is bad.
+1. Be aware of your unconscious biases and emotional triggers.
+1. We don't have project managers. Individual contributors need to manage themselves. Not everyone will be able to do this effectively and fit our organization. Making someone responsible for managing others will cause negative effects to the results of the people that can manage themselves. If you manage yourself you have a much greater freedom to make decisions, and those decisions are based on deep knowledge of the situation. We want to retain the people that can handle that responsibility and therefore we can't retain the ones that struggle. Assigning a project manager/coordinator/case manager/etc. to something is an indicator that something is wrong and we are picking the wrong solution. The notable exception to this is in the [Professional Services](/services/) organization. While most functions at GitLab are serving the product or the company, ProServe is a services company which collaborates closely with customers and is sometimes contractually obligated to have project managers.
+1. The person that does the work makes the decisions, they are the [Directly Responsible Individual (DRI)](/handbook/people-group/directly-responsible-individuals/). They should listen to the data and informed opinions of others to arrive at their decision. Part of making good decisions is knowing who has good information and/or experience that informs that decision. Once a DRI has made a decision, [Disagree, commit, and disagree](https://about.gitlab.com/handbook/values/#disagree-commit-and-disagree)
+1. A DRI may make a decision that results in (and is hence the cause of) negative feelings, but it is important to remember [Collaboration is not consensus](https://about.gitlab.com/handbook/values/#collaboration-is-not-consensus) and [People are not their work](https://about.gitlab.com/handbook/values/#people-are-not-their-work). While others are invited to contribute data and informed opinions during the decision making process, the DRI is not responsible for how they feel. When contributing supporting information to making a decision, it is the responsibility of the contributors to do so with data, use cases, historic examples, etc and not personal opinions or attacks.
+1. Short way to phrase this: We can allow others into our kitchen because we can always send them out (inviting people to give input is much easier if you retain the ability to make a decision by yourself).
+
+> If good decision-making appears complicated, that’s because it is and has been for a long time. Let me quote from Alfred Sloan, who spent a lifetime preoccupied with decision-making: “Group decisions do not always come easily. There is a strong temptation for the leading officers to make decisions themselves without the sometimes onerous process of discussion.”
+> - _Chapter 5: Decisions, Decisions of High Output Management by Andy Grove_
+
+## Communication should be direct, not hierarchical
+
+Most companies communicate from top to bottom through a chain of command. This communication flow often empowers managers, but it also introduces inefficiency as team members are not able to connect directly with the people they need to communicate with in order to get their work done. At GitLab, every team member is encouraged to reach out to whoever is the correct person (or people) to quickly unblock issues, solve problems or support in other ways. We don't encourage unnecessary friction in asking team members to escalate through managers and wait for responses to come back. What matters is efficiency in getting to results. Slack the CEO, Slack a VP, or Slack a peer. Do what you need to do to make GitLab successful.
+
+Managers should not be bottlenecks or silos for communication.
+Anyone should feel [comfortable](/handbook/values/#short-toes) reaching out to anyone else with the best information they can to solve a problem.
+This is a more [efficient](/handbook/values/#efficiency), [transparent](/handbook/values/#transparency), and [collaborative](/handbook/values/#collaboration) way to work.
+
+## Giving Feedback
+
+Giving regular [feedback](/company/culture/all-remote/effective-communication/#feedback-is-a-gift) is extremely important for both managers and team members. Feedback can take the form of coaching sessions, separate from [1-on-1 meetings](/handbook/leadership/1-1). Giving feedback is also about being prepared and, depending on the situation, you should create separate agendas and structure them as follows:
+
+- Provide [context](/company/culture/all-remote/effective-communication/#understanding-low-context-communication)
+- Use a framework for your feedback. Examples: 1) Two Areas: [Praise](/company/culture/all-remote/effective-communication/#feedback-is-a-gift) (What's working well) and Tips (What could be done differently) or 2), Three Areas: Start, Stop, Continue
+- Ask yourself, is this:
+  - Actionable
+  - Specific
+  - [Kind](/handbook/values/#kindness) (Does the feedback help the person? Note: Being kind is not the same as being nice.)
+  - Objective (similar to Fair)
+  - Relevant to the job role and [compa ratio](/handbook/total-rewards/compensation/compensation-calculator/#compa-ratio)
+
+  Ask the questions listed in the [1-on-1 guide](/handbook/leadership/1-1) and the [career development discussion at the 1-on-1](/handbook/leadership/1-1/#career-development-discussion-at-the-1-1) section.
+
+### Identifying root causes
+
+Sometimes when performance dips, the best way to tackle it is to try to determine the root cause. This is easier said than done. There is a great tool that [CEB (now Gartner)](https://www.cebglobal.com/) created to help with this called [performance issue root cause diagnostic](https://offices.depaul.edu/human-resources/employee-relations/Documents/Performance%20Issue%20Root%20Cause%20Diagnostic.pdf). It may not always be possible or appropriate to determine the root cause, so the [underperformance process](/handbook/underperformance/) should be followed.
+## Responding to Negative Feedback
+
+As a leader, the way you respond to negative [feedback](/company/culture/all-remote/effective-communication/#feedback-is-a-gift) makes a significant impact
+on your team. Remember that it can be difficult for people to approach someone
+in authority with concerns and respond with sensitivity and appreciation. In particular, we
+recommend that you keep the following in mind:
+
+- Don't argue or get defensive. Accept the feedback for what it is: an attempt
+  to help you improve your work or your professional relationships. If you do
+  have to explain yourself, try to remain empathetic.
+- It's fine (even preferable) to defer action. When presented with negative
+  feedback, we often feel like we have to either justify our actions or promise
+  change, and since change isn't always easy when you're responsible for a
+  large team, justification becomes the default. It's OK to say you need time to
+  evaluate the feedback and decide how to proceed.
+- [The Right Way to Respond to Negative
+  Feedback](https://hbr.org/2018/05/the-right-way-to-respond-to-negative-feedback)
+- If a team member from your department or another part of the org comes to you and says they do not feel like they or their reports' contributions are valued by your reports, the manager should try to resolve this. Research shows that this is more likely to happen to underrepresented minorities. Please note that [DRIs are free to ignore feedback](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) without acknowledging it and that [valuing contributions isn't the same as agreeing with them](https://about.gitlab.com/handbook/values/#collaboration-is-not-consensus). This is about co-opting someone else's idea without attribution and/or dismissing an idea with an ad-hominem remark.
+
+## 1-on-1
+
+Please see [/handbook/leadership/1-1](/handbook/leadership/1-1).
+
+## Skip level interactions
+
+Please see [/handbook/leadership/skip-levels](/handbook/leadership/skip-levels).
+
+## Managers of one
+
+In an all-remote organization, we want each team member to be a [manager of one](https://signalvnoise.com/posts/1430-hire-managers-of-one). A [manager of one](/handbook/values/#managers-of-one) is an attribute associated with our [Efficency value](/handbook/values/#efficiency). To be successful at GitLab, team members need to develop their daily priorities to achieve goals. Managers of one set the tone for their work, assign items and determine what needs to get done. No matter what role you serve, self-leadership is an essential skill needed to be successful as a manager of one.
+
+**Skills and behavior of being a manager of one as a Team Member**:
+*  Takes responsibilty to complete tasks and goals within appropriate timelines
+*  Delivers on commitments independently and without supervision
+*  Drives issue-based discussions grounded in a clear understanding of challenges and barriers
+*  Highlights areas for process improvement and proactively brings them up with leadership
+*  Continuously looks for opportunities to improve or iterate on current processes
+*  Communicates status of goals and delivers on agreed-upon timing of completion with leadership
+
+**Skills and behaviors of being a manager of one as a People Leader**:
+*  Holds their team accountable for establishing goals and meeting their commitments
+*  Consistently hires managers of one that fit the [GitLab values](/handbook/values/)
+*  Establishes goals for their team while seeking input from leadership
+*  Skilled at having difficult conversations with team members and leadership
+*  Strengthens team relationships using empathy and [emotional intelligence](/handbook/people-group/learning-and-development/emotional-intelligence/) to adapt as needed to enable the manager of one skills and behaviors
+*  Serves as a role model for what it takes to be successful as a manager of one in an all-remote setting
+
+## No matrix organization
+
+1. We believe everyone deserves to report to exactly one person that knows and understands what you do day to day. [The benefit of having a technically competent manager is easily the largest positive influence on a typical worker’s level of job satisfaction.](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work) We have a simple functional hierarchy, everyone has one manager that is experienced in their subject matter. Matrix organizations or [dotted lines](https://www.global-integration.com/glossary/dotted-line-reporting/) are too hard to get right.
+1. We don't want a matrix organization where you work with a lead day to day but formally report to someone else.
+1. The advantage of a functional structure is that you get better feedback and training since your manager understands your work better than a general manager.
+1. For the organization, forgoing a separate class of managers ensures a simple structure with clear responsibilities.
+1. A functional organization structure mimics the top structure of our organizations (Finance, Sales, Engineering, etc.).
+1. It reduces compensation costs, coordination costs, and office politics.
+1. The disadvantage is that your manager has a limited amount of time for you and probably has less experience managing people.
+1. To mitigate these disadvantages we should offer ample training, coaching, support structures, and processes to ensure our managers can handle these tasks correctly and in a limited amount of time.
+1. Everyone deserves a great manager that helps you with your career. They should let you know when you should improve, hire a great team, and motivate and coach you to get the best out of you.
+1. "Nuke all matrices. Nuke all dual reporting structures. And nuke as many shared services functions as you possibly can." from the great [guide to big companies from Marc Andreessen](http://pmarchive.com/guide_to_big_companies_part2.html) (the other guides are awesome too).
+1. We recommend reading [High Output Management](/handbook/leadership/#books), and its author coined Grove's law: All large organizations with a common business purpose end up in a hybrid organizational form. We believe a dual reporting structure is inevitable, we just want to delay it as long as possible.
+1. We do make features with a [DevOps stage group](/company/team/structure/#groups) that is a collection of teams and [stable counterparts](/company/team/structure/#specialist).
+1. Whenever there is need to work on a specific, high-level, cross functional business problem, we can assemble a [working group](/company/team/structure/working-groups/).
+1. Functional companies are easier when you focus on one product. Apple focuses on the iPhone and can have a [unitary/functional/integrated organizational form](https://stratechery.com/2016/apples-organizational-crossroads/). The advantage is that you can make one strong integrated product. We can also maintain a functional organization as long as we keep offering new functionality as features of GitLab instead of different products. The fact that we're in touch with the market because we use our own product helps as well.
+1. Having functional managers means that they are rarely spending 100% of their time managing. They always get their hands dirty. Apart from giving them relevant experience, it also focuses them on the output function more than the process. Hopefully both the focus and not having a lot of time for process reduces the amount of politics.
+
+## Stable counterparts
+
+We want to promote organic cross-functional collaboration by giving people stable counterparts for other functions they need to work with. For example, each Strategic Account Leader (SAL) works with one Sales Development Representative (SDR). With our [categories](/handbook/product/categories/) every backend team of developers maps to a [Product Manager (PM)](/job-families/product/product-manager/) and a [frontend team](/handbook/engineering/frontend/#teams).
+
+Giving people a **stable counterpart** allows for more social trust and familiarity, which speeds up decision making, prevents communication problems, and reduces the risk of conflicts. This way we can work effectively cross functionally without the [downsides of a matrix organization](#no-matrix-organization).
+
+## Factory vs. studio
+
+We want the best combination of [a factory and a studio](https://medium.com/@mcgd/factory-vs-studio-fb83b3fe9e14). The studio element means anyone can chime in about anything, from a user to the CEO. You can step outside your work area and contribute. The factory element means everyone has a clearly assigned task and authority.
+
+## Process gets a bad rep
+
+Process has a bad reputation. It has that reputation for things that we try to avoid doing at GitLab. When you have processes that are not needed it turns into a bureaucracy. A good example are approval processes. We should keep approval processes to a minimum, by both giving people the authority to make decisions by themselves and by having a quick lightweight approval process where needed.
+
+But process also has good aspects. Having a documented process for how to communicate within the company greatly reduces time spend on on-boarding, increases speed, and prevents mistakes. A counterintuitive effect is that it also makes it easier to change processes. It is really hard to change a process that doesn't have a name or location and lives in different versions in the heads of people. Changing a written process and distributing the [diff](https://en.wikipedia.org/wiki/Diff_utility#Usage) is much easier.
+
+## Recruiting and retention
+
+Managers have an tremendous responsibility around recruiting and [retention](/handbook/people-group/people-group-metrics/#team-member-retention) of team members.
+
+* Voluntary departures should be low, especially unexpected ones. The most common reasons for resignations can be tied back to the manager.
+* We want few candidates to decline an offer, especially when the reason isn't compensation.
+* We need adequate candidate pipeline volume and quality, especially for crucial positions.
+* Candidates that have a proposed offer should meet the bar, especially for more senior positions.
+* Build a _global team_. Unless shown with a business case, "we can’t find the talent out of the bay" goes against our [diversity, inclusion and belonging mission](/company/culture/inclusion/#diversity-inclusion--belonging-mission-at-gitlab) and the [Location Factor KPI](/handbook/people-group/people-group-metrics/#average-location-factor).
+
+## Building High Performing Teams
+
+Building a team to deliver [results](https://about.gitlab.com/handbook/values/#results) is a very important aspect of improving [efficiency](https://about.gitlab.com/handbook/values/#efficiency) and [iteration](https://about.gitlab.com/handbook/values/#iteration). A high-performing team will always deliver results. As a leader at GitLab, your role is to develop a high-performing team to reach the desired level of performance and productivity. There are certain traits that high-performing teams display at GitLab: 
+
+- Have a clear vision of their objectives and goals
+- Stay committed to achieving their goals
+- Manage conflicts
+- Maintain effective communication and a healthy relationship with each other
+- Make unanimous decisions as a team
+
+**Skills and behavior of [building high performing teams competency](https://about.gitlab.com/handbook/competencies/#list) for Managers**:
+
+- Models and encourages teamwork by fostering collaboration, communication, trust, shared goals, mutual accountability and support
+- Fosters an environment where results are balanced with time management of multiple assignments and DRI's on important topics
+- Empowers team members to be a Manager of One and gives them the tools to grow professionally in their careers
+- Attracts and retains top talent by creating an inclusive environment built on trust, delegation, accountability, and teachability
+
+## Articles
+
+1. [Carta's Manager’s FAQ](https://readthink.com/a-managers-faq-35858a229f84)
+1. [Carta's How to hire](https://carta.com/blog/how-to-hire/)
+1. [How Facebook Tries to Prevent Office Politics](https://hbr.org/2016/06/how-facebook-tries-to-prevent-office-politics)
+1. [The Management Myth](http://www.theatlantic.com/magazine/archive/2006/06/the-management-myth/304883/)
+1. [Later Stage Advice for Startups](http://themacro.com/articles/2016/07/later-stage-advice-for-startups/)
+1. [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
+1. [This Is The Most Difficult Skill For CEOs To Learn](http://www.businessinsider.com/whats-the-most-difficult-ceo-skill-managing-your-own-psychology-2011-4)
+1. Great article about [how to think about PIPs](https://mfbt.ca/how-i-talk-to-leaders-about-firing-people-8149dfcb035b), although our time scales are shorter.
+1. [Impraise Blog: 1-on-1s for Engaged Employees](https://www.impraise.com/blog/1-on-1s-for-engaged-employees-how-good-managers-should-do-them)
+1. [Mind Tools: Giving Feedback: Keeping Team Member Performance High, and Well Integrated](https://www.mindtools.com/pages/article/newTMM_98.htm)
+1. [Remote.Co: 5 Tips for Providing Feedback to Remote Workers](https://remote.co/5-tips-for-providing-feedback-to-remote-workers/)
+1. [Really interesting blog post from Hanno on remote team feedback](https://hanno.co/blog/remote-team-feedback/)
+1. [51 questions to ask in one-on-ones with a manager](https://getlighthouse.com/blog/questions-ask-one-on-ones-manager/)
+1. [HBR: The rise of data driven decision making is real but uneven](https://hbr.org/2016/02/the-rise-of-data-driven-decision-making-is-real-but-uneven)
+1. [Forbes: 6 Tips for Making Better Decisions](https://www.forbes.com/sites/mikemyatt/2012/03/28/6-tips-for-making-better-decisions/#966eb3b34dca)
+
+## Books
+
+Books in this section [can be expensed](/handbook/spending-company-money).
+
+Notable books from the [E-Group Offsite Book Selections](/handbook/ceo/offsite/#previous-reads) may be added to the list below.
+
+We sometimes self-organize [book clubs](/handbook/leadership/book-clubs) to read through these books as a group.
+
+1. [High Output Management](https://www.goodreads.com/book/show/324750.High_Output_Management) - Andrew Grove
+    * [Top 10 quotes](https://getlighthouse.com/blog/andy-grove-quotes-leadership-high-output-management/)
+    * [Book club](/handbook/leadership/book-clubs/#high-output-management)
+1. [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) - Ben Horowitz
+    * [Chase Wright's notes](https://docs.google.com/document/d/1Uxva11x1YX4zci1FHmF45UTYjGLPMU5HmrbmflINoG4/)
+1. [The score takes care of itself - Bill Walsh - PDF](http://coachjacksonspages.com/The%20Score%20Takes%20Care.pdf)
+1. [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.goodreads.com/book/show/15014.Crucial_Conversations) - Kerry Patterson
+    * Notes from the [E-group](#e-group) reading:
+        * Virtual teams are much more likely to fail on crucial conversations than colocated teams
+        * We need to develop the skill of sensing the tone of a-sync conversations to uncover potential issues
+        * We need to find a way to create psychological safety for people in official channels
+        * Starting with empathy is a great way to gather the context needed in a tense situation - this is hard a-sync, but more important
+        * Consider getting context 1-on-1 (through Slack) before posting a comment in an issue that you might regret later
+        * As leaders, we need to give context as well. A good question is: "What would have to change for us to get X prioritized..."
+        * Documenting something is *not* a replacement for having the hard conversation
+    * [Book club](/handbook/leadership/book-clubs/#crucial-conversations)
+1. [The Advantage: Why Organization Health Trumps Everything Else In Business](https://www.goodreads.com/book/show/12975375-the-advantage) - Patrick Lencioni
+1. [The Five Dysfunctions of a Team: A Leadership Fable](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team) - Patrick Lencioni
+1. [Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers](https://www.goodreads.com/book/show/61329.Crossing_the_Chasm) - Geoffrey A. Moore
+1. [The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter](https://www.goodreads.com/book/show/15824358-the-first-90-days) - Michael D. Watkins
+1. [The 21 Irrefutable Laws of Leadership: Follow Them and People Will Follow You](https://www.goodreads.com/book/show/815716.The_21_Irrefutable_Laws_of_Leadership) - John C. Maxwell
+1. [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) - Daniel Kahneman
+1. [The Power of Habit](https://www.goodreads.com/book/show/12609433-the-power-of-habit) - Charles Duhigg
+1. [Your Brain at Work](https://www.goodreads.com/book/show/6899290-your-brain-at-work) - David Rock
+1. [Start with Why](https://www.goodreads.com/book/show/7108725-start-with-why) - Simon Sinek
+1. [Leaders Eat Last](https://www.goodreads.com/book/show/16144853-leaders-eat-last) - Simon Sinek
+1. [How to Win Friends & Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) - Dale Carnegie
+1. [How Google Works](https://www.goodreads.com/book/show/23158207-how-google-works) - Eric Schmidt
+1. [Good to Great](https://www.goodreads.com/book/show/76865.Good_to_Great) - James C. Collins
+1. [The Last Lecture](https://www.goodreads.com/book/show/40611510-the-last-lecture) - Randy Pausch
+1. [Mastery](https://www.goodreads.com/book/show/13589182-mastery) - Robert Greene
+1. [Radical Candor](https://www.goodreads.com/book/show/48430205-radical-candor) - Kim Malone Scott
+1. [Creativity, Inc](https://www.goodreads.com/book/show/18077903-creativity-inc) - Ed Catmull, Amy Wallace
+1. [Turn the Ship Around!](https://www.goodreads.com/book/show/16158601-turn-the-ship-around) - L. David Marquet
+
+## Email Lists
+
+1. [Software Lead Weekly](http://softwareleadweekly.com/)
+1. [Threatpost Security Newsletter](https://threatpost.com/) (Subscribe at the bottom of the page)
+
+## Training
+
+When you give leadership training please [screenshare the handbook instead of creating a presentation](/handbook/handbook-usage/#screenshare-the-handbook-instead-of-creating-a-presentation).
+
+## People Group
+
+Feel free to reach out to anyone in the People Group for further support on leadership development topics. You can find us on the [team page](/company/team/), search for `People Operations`. The team may also be reached in the `#peopleops` chat channel.
+
+## Being a public company
+
+Learn more on GitLab's view of [being a public company](/handbook/being-a-public-company/).
+
+## Biggest risks
+
+We have a page which documents our [biggest risks](/handbook/leadership/biggest-risks/). Many of our [values](/handbook/values/) help to mitigate some of these risks.
