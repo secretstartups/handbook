@@ -185,6 +185,22 @@ We only use issue weights when we have to move an issue from one milestone to th
 | 5      | 50% Remaining |
 | 10     | 100% Remaining/Not Started |
 
+### Merge Request Rate KPI
+
+To help us stay on track with the [Development KPIs](/handbook/engineering/development/performance-indicators/index.html), we track merge request rate and mean time to merge:
+
+<embed width="40%" style="min-height:200px;" src="<%= signed_periscope_url({ chart: 9035725, dashboard: 694012 , embed: "v2"}) %>">
+<embed width="40%" style="min-height:200px;" src="<%= signed_periscope_url({ chart: 9035723, dashboard: 694012 , embed: "v2"}) %>">
+<embed width="40%" style="min-height:200px;" src="<%= signed_periscope_url({ chart: 9035724, dashboard: 694012 , embed: "v2"}) %>">
+
+Starting in 13.2, we are experimenting with some best practices to increase our MR Rate and decrease our Mean Time to Merge metrics. Here are some of the things we are working on:
+
+- **Smaller MRs**: Break down MRs into individual components. This includes separating frontend and backend, but could also be more fine-grained such as separating database changes, service calls, API changes, etc.
+- **Detailed Descriptions**: Be sure to include enough information in the description of the MR so someone who is not familiar with the work can quickly understand the intent and scope of the MR. The description could include: links to related issues and MRs, screenshots, plans for future iterations, or database query plans.
+- **Self-review**: Before submitting your MR for review, do an initial review yourself as if you were reviewing someone else's MR. This can help catch issues early, and may remove some of the back-and-forth between yourself and reviewers.
+- **Assigning MRs to Monitor Team First**: See [Assigning MRs](#assigning-mrs-for-code-review)
+
+
 ## Recurring Meetings
 While we try to keep our process pretty light on meetings, we do hold a [Monitor APM Weekly Meeting](https://docs.google.com/document/d/1Y9woIjy7ySV3lbIJHuoyROYPZhtO1L_w3XDhgGKzZt8/edit?usp=sharing) to triage and prioritize new issues, discuss our upcoming issues, and uncover any unknowns.
 
