@@ -1,0 +1,154 @@
+---
+layout: handbook-page-toc
+title: "Recruiting Process Framework for REQs"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Recruiting Process Framework for REQs
+
+**Purpose**: The Recruiting Process Framework provides guidance on the recruiting process for the recruiting team, hiring manager, and hiring team to efficiently hire top talent and create a positive candidate experience when it comes to hiring to a REQ.
+
+**Variations**: It’s understood that variations to the process may occur given particular situations that make sense to a specified hiring team or need.
+
+The communicated Recruiting Process Framework specifically focuses on approved REQs and candidates who are moving forward. It is understood that candidates who will be [declined will be done so in a timely and respectful manner](/handbook/hiring/interviewing/#rejecting-candidates).
+
+## Search Team
+* **[Hiring Manager](/handbook/hiring/recruiting-framework/hiring-manager/):** The Hiring Manager is the individual who is hiring for the particular vacancy. In most situations, the person hired into this vacancy will report into this individual.
+* **Hiring Team:** The Hiring Team is a group of people the Hiring Manager asks to be involved in the interview process. The Hiring Team will assess candidates for a given vacancy based on what is defined in the [REQ Intake Issue](/gl-recruiting/req-intake/-/issues) and the [Hiring Repo](https://gitlab.com/gitlab-com/people-group/hiring-processes/-/tree/master). 
+* **[Recruiter](https://about.gitlab.com/handbook/hiring/recruiting-framework/recruiter/):** The Recruiter is the main point of contact for the Hiring Manager, Hiring Team, and all candidates associated with the REQ. The Recruiter will directly source for prospects as well as partner with there Sourcer and Candidate Experience Specialist throught the process. For more information on what role a Recruiter may play, please visit the [Recruiter Job Family](/job-families/people-ops/recruiter/).
+* **[Sourcer](https://about.gitlab.com/handbook/hiring/recruiting-framework/sourcer/):** The Sourcer is partnered with the Recruiter to provide expertise around finding passive talent. For more information on what role a Sourcer may play, please visit the [Sourcer Job Family](/job-families/people-ops/recruiting-sourcer/).
+* **[Candidate Experience Specialist (CES)](/handbook/hiring/recruiting-framework/coordinator/):** The CES partners with the Recruiter and Sourcer on all scheduling, background check, references and offer needs. For more information on what role a CES may play, please visit the [CES Job Family](/job-families/people-ops/candidate-experience/).
+
+### **Step 1: Identify hiring need**
+The Hiring Manager will determine the need for a vacancy and ensure it is listed on the Gitlab Hiring Plan. Once confirmed, the Hiring Manager will notify the [Recruiting Manager/Lead specific to their org](/handbook/hiring/recruiting-alignment/) utilizing the steps provided on the [vacancy creation process](/handbook/hiring/vacancies/#vacancy-creation-process).
+
+###  **Step 2: Create vacancy in Greenhouse**
+The Recruiting Manager/Lead will create the vacancy in Greenhouse following the [vacancy creation](/handbook/hiring/vacancies/#open-the-vacancy-in-greenhouse) guidelines. The assigned Recruiter, CES, and Sourcer should receive an email notification from Greenhouse when the vacancy is approved. 
+
+### **Step 3: Complete intake session, agree on priority level, & complete a sourcing session**
+The **intake session** provides an opportunity to gain alignment on the requirements, hiring process and, perhaps most importantly, the expectations and responsibilities of the recruiter, sourcer, CES, hiring team, and hiring manager. Recruiters and Sourcers should come prepared for the intake session with insights and should act as a talent advisor.
+
+The Recruiter will schedule the intake session and must open a [**REQ Intake Issue**](https://gitlab.com/gl-recruiting/req-intake/issues/new) ahead of the intake session so the Recruiter, Sourcer, and Hiring Manager can contribute to it ahead of time. A link to the [**REQ Intake Issue**](https://gitlab.com/gl-recruiting/req-intake/issues/new) should be included in the invite.  The Recruiter should include the Hiring Manager, Sourcer, and CES on the intake session invite.  Everyone involved in hiring for the REQ should be tagged into the issue so everyone understands the requirments, process, and individual accountabilities. 
+
+During the intake session all participants should agree on the **Sourcing Priority** (P0, P1, P2). Every role should receive sourcing support based on the [Recruiting Alingmnent](/handbook/hiring/recruiting-alignment/).
+
+The Sourcer will schedule a **Sourcing Session** after the intake session to make sure we consider outbound talent for every opening at GitLab.
+
+*  The Sourcer and Recruiter will discuss with Hiring Manager who should participate in the Sourcing session. 
+*  The Sourcing Session is focused on finding outbound candidates outside of our Talent Community. 
+*  Our recommendation is to have at least Hiring Manager and Interviewers participating in a Sourcing Session but if the team is too busy and can’t contribute to the sourcing effort, a Sourcing Session should be handled only by Sourcer or by Sourcer and Recruiter with the majority of prospects expected from Sourcer.)
+*  The Sourcing Session should be scheduled within 5 business days after the intake call. (For the “ever-green” and “volume” roles we recommend having regular Sourcing Sessions every month.)
+*  All Sourcing sessions that include team members outside of the Recruiting team should be set up for 30 minutes by default and could be done 
+live or in an async way. 
+*  We don’t require a specific number of profiles to be added by every participant, however, Sourcer should come up with at least 20 qualified profiles for the role.
+*  Sourcer will reach out to all the candidates that are added during the Sourcing Session within 2 business days and add their profiles to Greenhouse.
+*  Sourcer assigned to the role is responsible for all the further updates and status changes in Greenhouse.
+
+### **Step 4: Indentify & Engage Top Talent (Prospects)**
+
+**4.1 - Source prospects**
+
+The Recuiter, Sourcer, and Hiring Manager will partner in finding top talent using different sourcing avenues to find candidates, with LinkedIn and GitLab Talent Community being the most used and efficient ones. *(It is possible that other Recruiters, Sourcers, and/or members of the CES Team will provide additonal [sourcing support](/handbook/hiring/recruiting-framework/#sourcing-support)*.
+
+**4.2 - Add prospects to Greenhouse**
+
+All approached prospects should be added in Greenhouse as prospects.**Greenhouse is the source of truth.**  Every sourced prospect should have the name of the person who sourced them in the Source field. If a Prospect was sourced by a Recruiting Team Member from the Talent Community, that user will need to [manually update the candidate's source](/handbook/hiring/greenhouse/#high-level-workflow) information.
+
+There are multiple ways to add the candidates, as follows: 
+
+* [LinkedIn](https://support.greenhouse.io/hc/en-us/articles/204110135-Add-Prospects-to-Greenhouse-via-LinkedIn-RSC-Integration)  
+* [Greenhouse plug-in](https://support.greenhouse.io/hc/en-us/articles/201444934-Prospecting-with-Greenhouse-Prospecting-Google-Chrome-Plugin) 
+* [Maildrop](https://support.greenhouse.io/hc/en-us/articles/201990630)
+* [Enable LinkedIn Recruiter System Connect (RSC)](https://support.greenhouse.io/hc/en-us/articles/115005678103-Enable-LinkedIn-Recruiter-System-Connect-RSC-) so you can export candidates in one click as prospects 
+
+How to add prospects to REQs:
+* [From Greenhouse Talent Community Video Walkthrough](https://drive.google.com/file/d/1if4lWdmQPy7K6sw_sHFf5XIGijQHfbIP/view)
+* [From LinkedIn Video Walkthrough](https://drive.google.com/file/d/1ESbhDVsRou81xNcKLhU9SqW2ObjuenAx/view)
+
+**4.3 - Reach Out**
+
+Use our [reach out templates](https://docs.google.com/presentation/d/1ySqgLoYnFUGtb7hdywav6iSb_NBPRhfIs6WZlGne6Ww/edit?usp=sharing) or create your own messaging for reaching out to candidates
+
+#### **Sourcing Support**
+
+Anyone on the Recruitment Team can provide sourcing support for priority REQs.  The focus should be P0 and P1 REQs.  If you want to help with a specific REQ, please engage with the Recruiter directly to verify the REQ is in fact a priority. If the REQ is a priority, use the [REQ Intake Issue](https://gitlab.com/gl-recruiting/req-intake/-/issues) and the [Hiring Repo](https://gitlab.com/gitlab-com/people-group/hiring-processes/-/tree/master) to learn more about the REQ.
+
+If you are helping a Recruiter source for an open REQ please verify the prospects you find are best qualified *before* reaching out to them. Share added prospects in bulk with the Recruiter vs. sending multiple one-off pings to the Recruiter.  This can be done by  sending the Recruiter a Greenhouse link to the candidate pool using filters (applied on DATE, source NAME, role title). 
+*  The Recruiter has a *7 day SLA* to review the prospects you share 
+     *  If the prospect is not qualified, the Recruiter will select the option to “stop considering as a prospect”
+     *  If the prospect is qualified the Recruiter will ask you to engage the prospect
+          * If the prospect responds and is NOT interested, select the option to “stop considering as a prospect” in Greenhouse
+          * If the prospect does not respond before the REQ is filled, the Recruiter should reject all prospects in bulk and select the option to not send an email.
+          * If the prospect responds with interest, the person who found them will select the option to “convert to candidate” in Greenhouse and will work to schedule a screen between the candidate and the Recruiter.
+
+#### **Use Greenhouse to track prospects**
+
+* Use the [Follow](https://support.greenhouse.io/hc/en-us/articles/203800369-Follow-Email-Notifications-About-Candidate-or-Prospect) button to get timely updates on the candidate's status. 
+* [Follow-up Reminders](https://support.greenhouse.io/hc/en-us/articles/360017456592-Follow-up-Reminders) to resend the assessment, availability or for any other important updates.  
+* [Tags](https://support.greenhouse.io/hc/en-us/articles/360027904392-Assign-Candidate-Tag-): The most common tags used are “Location sourcing” and “diversity sourcing”. You can also create your [auto tags](https://support.greenhouse.io/hc/en-us/articles/360000060551)
+* [Greenhouse Candidates Filter](https://support.greenhouse.io/hc/en-us/articles/360004175751-Best-Practices-Sourcing-Strategies): Similar to LinkedIn, Greenhouse has filters to track your pipeline. Under the candidates section, you can check any team members and your candidates tagged under a specific job, interview stage, location and so on. The most commonly used are Source, Profile details, Jobs and Location. Example - [Filter Candidates by Custom Job Fields](https://support.greenhouse.io/hc/en-us/articles/360003493951-Filter-Candidates-by-Custom-Job-Fields)
+
+For more information about Greenhouse and it’s tips & tricks, please refer to this [document](https://docs.google.com/document/d/1BbO5v_IJEq4QR9KpI7T3fSCwdCapVOZCyNgEk6MYO0s/edit)
+
+### **Step 5: Weekly Check-In Issue**
+
+* Each week the req is open the CES creates a [weekly check-in issue](https://gitlab.com/gl-recruiting/req-intake/-/blob/master/.gitlab/issue_templates/req-weekly-check-in.md) in the [Req Intake Project](https://gitlab.com/gl-recruiting/req-intake). Instructions are found on the issue template, the participants are the CES, Recruiter, Sourcer and fyi for the Hiring Team. The issue is used to update the health of the req, report on KRs, as well as allow for interview alignment. 
+
+* Each req belongs to two [Epics](https://gitlab.com/groups/gl-recruiting/-/epics); one parent and one child epic. The parent epics can be used as a dashboard to show the funcitional leader the overall health of their open reqs. 
+
+### **Step 6: Interview Stages**
+
+* When the prospect responds with interest, select the option to “convert to candidate” in Greenhouse
+
+#### Global Self-Identification Survey
+
+* When the candidate is moved into the `Screening` stage, the person sending out the request to schedule an interview will need to send the **Global Self-Identification Survey** before **any** other steps are taken. Information about sending the survey can be found [here](/handbook/hiring/greenhouse/#global-self-identification-survey).
+
+#### Screening
+
+* When the prospect responds with interest, select the option to “convert to candidate” in Greenhouse and work to [schedule a screening call](/handbook/hiring/greenhouse/#scheduling-interviews-with-greenhouse) and send a confirmation to the applicant. 
+
+#### Assessment
+
+* As determined previously in the intake session with the hiring manager, if there is an assessment involved in the initial interview process, send candidates the assessment through the provided Greenhouse template. The assessment grader is to be added to the appropriate location on the template email to ensure a notification will be sent to them once the applicant has completed the assessment.
+
+#### Team Interview
+
+*  Once a screening call is completed and a candidate is still determined as top talent, team interviews will be scheduled. To do this, the recruiter will request availability from the applicant using Greenhouse templates while cc’ing the CES, who will [schedule team interviews](/handbook/hiring/recruiting-framework/coordinator/#schedule-team-interviews).
+* The number of team interviews and order will vary from vacacny to vacancy. An example of what a Team Interview may look like is:
+  * Round 1: 50 minute interview with Hiring Manager
+  * If applicable, Round 2A: 25 minute interview with a Hiring Team member
+  * If applicable, Round 2B: 25 minute interview with a Hiring Team member
+  * If applicable, Round 3: 50 minute Executive Interview
+* The Recruiter should confirm focus areas have been assigned to the interview team. This should have been taken care of in the [REQ Intake Issue](https://gitlab.com/gl-recruiting/req-intake/-/issues)
+* The candidate should be provided clear expectations of the process, location of interviewers, timeline to hire, etc. 
+* When Team Interviews have completed, follow up with the hiring manager on next steps. Depending on the level of the role and outcome of interviews, next steps may include additional interviews including an executive interview or moving to reference checks.
+
+* The [Weekly Check-In Issue](/hiring/recruiting-framework/req-overview/#step-5-weekly-check-in-issue) has a section for an async interview debrief. This may be needed if there is an apparent disconnect with the hiring team (team is not aligned on requirements, level, etc.). Jarring differences in feedback and ratings are a flag that should trigger information in that section of the issue template. This can also be used if the hiring team consistently provides delayed feedback, or if candidate ISAT surveys are uncovering other concers with the process. Interview debriefs are a helpful way to evaluate how the process has been going thus far and if we need to change our strategy or approach.
+
+### **Step 7: References and Background Check**
+
+Once a Hiring Manager has determined they want to move forward with a candidate, the Recruiter or CES will reach out to the candidate to request their references contact details and inform them a backgound check is being issued, using the Greenhouse email template. The CES will [initiate the background check](/handbook/hiring/recruiting-framework/coordinator/#initiate-background-check). 
+
+### **Step 8: Justification (Engineering Only)**
+
+### **Step 9: Offer Approval**
+
+Once references are completed or as they are in progress, the Recruiter will move the candidate to offer stage and collect and submit offer details in Greenhouse. The Recruiter will ensure the offer is routed for approval.
+
+### **Step 10: Req Retro Issue**
+
+When a candidate is moved to the Offer stage in Greenhouse the CES is notified via the Greenhouse notification configuration. At that time the CES should create the [Req Retro Issue](https://gitlab.com/gl-recruiting/req-intake/-/blob/master/.gitlab/issue_templates/req-retro.md) found in the [Req Intake Project](https://gitlab.com/gl-recruiting/req-intake). Instructions are found on the issue template, the participants are the CES, Recruiter, Sourcer and the Hiring Manager. The issue is used to reacap the req, report on KRs, as well discussing what went well during the process and what can be improved upon.  
+
+### **Step 11: Verbal Offer**
+Once the offer is approved in Greenhouse and references are completed, an offer will be verbalized to the candidate by the Recruiter or Hiring Manager.
+
+*A verbal offer can **only** be communicated once the offer has been fully approved in Greenhouse.  Ahead of the official approval, the Recruiter may choose to have a conversation regarding what a potential compensation package may look like, however, the Recruiter must be clear that they are not extending a formal verbal offer as the offer has yet to be approved.* 
+
+### **Step 11: Contract**
+Once a verbal offer is made to a candidate, the Recruiter will notify CES to [send a contract](/handbook/hiring/recruiting-framework/coordinator/#send-contract) to the candidate. The candidate will receive the contract once the appropriate internal signature is provided. Once a candidate signs a contract, the CES will provide further information on next steps.
