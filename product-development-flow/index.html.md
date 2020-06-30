@@ -89,7 +89,7 @@ Please note that an opportunity canvas is not required for product functionality
 
 Label: `workflow::validation backlog`
 
-Every PM should maintain a backlog of potential validation opportunities. Validation opportunities may come from customers, internal stakeholders, product usage insights, support tickets, win/loss data, or other [sensing mechanisms](/handbook/product/product-management/process/#sensing-mechanisms). Validation opportunities should be captured as an issue and described in customer problem language, and should avoid jumping ahead to feature/solution language. 
+Every PM should maintain a backlog of potential validation opportunities. Validation opportunities may come from customers, internal stakeholders, product usage insights, support tickets, win/loss data, or other [sensing mechanisms](/handbook/product/product-processes/#sensing-mechanisms). Validation opportunities should be captured as an issue and described in customer problem language, and should avoid jumping ahead to feature/solution language. 
 
 Sometimes it can be tricky to identify a good issue for problem validation. The following situations often are good criteria:
 
