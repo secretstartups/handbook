@@ -14,3 +14,11 @@ These charts show metrics filtered for the [Dev sub-department](/handbook/engine
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
 <% end %>
+
+### Quality Indicators
+
+#### Bugs open vs closed
+
+This chart displays all `~"S1"` and `~"S2"` `~"bug"` issues without `~"security"` for the Dev Sub-Department.
+
+<embed width="100%" height="500" src="<%= signed_periscope_url(bugs_open_vs_closed_rate_params(sub_department: 'dev')) %>">
