@@ -107,7 +107,7 @@ Take this [Knowledge Assessment](/handbook/values/#gitlab-values-certification) 
 
 Test your knowledge and self-reflect on the Remote Work Competencies by completing the knowledge assessment as a [People Leader](https://docs.google.com/forms/d/e/1FAIpQLSemWK_Ki0aAMepKAQnaN-uMr1JBlkCs3O80sBli4PaTl2uoDA/viewform) or an [Individual Contributor](https://docs.google.com/forms/d/e/1FAIpQLScN70eoAjJ0tuj_iSgFRkyRbeNLrO9Yz52897619IkwoNW-cw/viewform). Earn at least an 80% to receive a certificate! 
 
-#### Functional Competencies (additional links to be added)
+#### Functional Competencies
 * [Field Competencies](https://about.gitlab.com/handbook/sales/training/field-functional-competencies/)
 * [Engineering Competencies](https://about.gitlab.com/handbook/engineering/career-development/career-matrix.html#technical-competencies)
 
