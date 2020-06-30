@@ -89,7 +89,7 @@ Remote Work Competencies are defined by role: team member or people leader. Team
 
 ## List
 
-#### Values Competencies
+### Values Competencies
 1. [Collaboration](/handbook/values/#collaboration-competency)
 1. [Results](/handbook/values/#results-competency)
 1. [Efficiency](/handbook/values/#efficiency-competency)
@@ -99,7 +99,7 @@ Remote Work Competencies are defined by role: team member or people leader. Team
 
 Take this [Knowledge Assessment](/handbook/values/#gitlab-values-certification) to become certified in the values.
 
-#### Remote Work Competencies 
+### Remote Work Competencies 
 1. [Manager of One](https://about.gitlab.com/handbook/leadership/#managers-of-one)
 1. [Effective Communication](https://about.gitlab.com/handbook/communication/#effective-communication-competency) : includes Working async: [Why](/company/culture/all-remote/asynchronous/) and [How](/handbook/communication/), Well written artifacts, [Single Source of Truth](/handbook/documentation/#documentation-is-the-single-source-of-truth-ssot) and [Producing video](/handbook/communication/youtube/)
 1. [Handbook first](https://about.gitlab.com/handbook/handbook-usage/#handbook-first-competency)
@@ -107,7 +107,8 @@ Take this [Knowledge Assessment](/handbook/values/#gitlab-values-certification) 
 
 Test your knowledge and self-reflect on the Remote Work Competencies by completing the knowledge assessment as a [People Leader](https://docs.google.com/forms/d/e/1FAIpQLSemWK_Ki0aAMepKAQnaN-uMr1JBlkCs3O80sBli4PaTl2uoDA/viewform) or an [Individual Contributor](https://docs.google.com/forms/d/e/1FAIpQLScN70eoAjJ0tuj_iSgFRkyRbeNLrO9Yz52897619IkwoNW-cw/viewform). Earn at least an 80% to receive a certificate! 
 
-#### Functional Competencies
-* [Field Competencies](https://about.gitlab.com/handbook/sales/training/field-functional-competencies/)
-* [Engineering Competencies](https://about.gitlab.com/handbook/engineering/career-development/career-matrix.html#technical-competencies)
+### Functional Competencies
 
+#### [Field Competencies](https://about.gitlab.com/handbook/sales/training/field-functional-competencies/)
+
+#### [Engineering Competencies](https://about.gitlab.com/handbook/engineering/career-development/career-matrix.html#technical-competencies)
