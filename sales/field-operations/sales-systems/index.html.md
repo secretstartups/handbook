@@ -34,7 +34,7 @@ Below is a list of the different technical skill sets found on the Sales System 
 5.  Please review the status of any issue on our agile [board.](https://gitlab.com/groups/gitlab-com/-/boards/1117318?label_name[]=SalesSystems)
 
 #### Getting help with Bugs
-* There is an important difference to make between bugs and features. Lucky enough we can explore the differences on the [Feature Vs Bug](/handbook/product/product-management/process/feature-or-bug.html) section of the handbook. This should help in digging deeper but for a quick refernce: 
+* There is an important difference to make between bugs and features. Lucky enough we can explore the differences on the [Feature Vs Bug](/handbook/product/product-processes/#issues.html) section of the handbook. This should help in digging deeper but for a quick refernce: 
    * Bug
       * If somehting worked yesterday and not today.
       * If you are encountering error codes that tell you to contact and administrator (different from a validation rule error).
