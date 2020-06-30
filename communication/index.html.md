@@ -643,7 +643,7 @@ This makes the link more prominent and makes it easier to follow while viewing t
 1. Monetary amounts shouldn't have one digit, so prefer $19.90 to $19.9.
 1. If an email needs a response, write the answer at the top of it.
 1. Use the future version of words, just like we don't write internet with a capital letter anymore. We write frontend and webhook without a hyphen or space.
-1. Our homepage is / (with the `about.` and with `https`).
+1. Our homepage is https://about.gitlab.com/ (with the `about.` and with `https`).
 1. Try to use the [active voice](https://writing.wisc.edu/Handbook/CCS_activevoice.html) whenever possible.
 1. Refer to environments that are installed and run "on-premises" by the end-user as "self-managed."
 1. If you use headers, properly format them (`##` in Markdown, "Heading 2" in Google Docs); start at the second header level because header level 1 is for titles. Do not end headers with a colon. Do not use emoji in headers as these cause links to have strange characters.
