@@ -163,6 +163,7 @@ Anyone can test their knowledge on {insert cert name here}. To obtain a certific
 This can be done in the same MR as Step 5 or as a separate MR. 
 
 1. In the data team project, add a new file to the [sheetload base folder](https://gitlab.com/gitlab-data/analytics/-/tree/master/transform/snowflake-dbt/models/sheetload/base). The file name should begin with `sheetload`, then follow the same naming as the sheet, and end with a `.sql` file extension, such as `sheetload_compensation_certificate.sql`.
+1. Declare each new tab as source in the `table` section of [sources.yml](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/models/sheetload/base/sources.yml)
 1. The body of the file should be as follows
 ```
 WITH source AS (
