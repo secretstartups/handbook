@@ -55,6 +55,24 @@ title: Developer Cheatsheet
   - `git push --force-with-lease` (force-with-lease ensures nobody else has pushed to the branch since you last pulled)
 - See [this blog post](https://about.gitlab.com/blog/2016/12/08/git-tips-and-tricks/) and our [git cheatsheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) for more git tips.
 
+## Squashing down a branch which has has master merged into it
+
+When a branch has followed a merge instead of a rebase workflow, it can get very confusing to know what is going on, and you want to just squash it down to a single commit.  But, you can't just do a regular interactive rebase relative to master if the branch has had master merged into it.  Here's what you have to do instead.
+
+Note there may be more efficient ways of doing this, suggestions are welcome...
+
+Assuming branch is named `branch` and upstream is named `master`:
+
+1. Do a log of all the commits on the branch: `git log master..branch --oneline`
+1. Find the last (latest) commit on the branch. It will be the top one, assume it is `123456`.
+1. Find the first (earliest) commit on the branch. It will be the bottom one, assume it is `abcdef`.
+1. Reset hard to the first commit: `git reset --hard abcdef`
+1. `merge --squash` the last commit: `git merge --squash 123456`
+1. There may be extra changes from the master commits that you don't want.  Get rid of them with:
+    1. `git restore --staged .`
+    1. `git checkout .`
+    1. `git clean -df`
+
 ## Working with Issues/MRs
 
 * [Expanding Issue/MR Threads for Searching](https://gitlab.com/gitlab-org/gitlab/issues/38235)
