@@ -147,12 +147,17 @@ If you suspect that certain test is failing due to the `gitlab/gitlab-{ce|ee}-qa
 The aim of this step is to categorize the failure as either a stale test, a bug in the test, a bug in the application code, or a flaky test.
 
 We use the following labels to capture the cause of the failure.
-* `~"failure::investigating"`: Default label to apply at the start of investigation. 
+* `~"failure::investigating"`: Default label to apply at the start of investigation.
 * `~"failure::stale-test"`: [Stale test due to application change](#stale-test-due-to-application-change)
 * `~"failure::broken-test"`: [Bug in the test](#bug-in-the-test)
 * `~"failure::flaky-test"`: [Flaky test](#flaky-test)
 * `~"failure::test-environment"`: [Failure due to test environment](#failure-due-to-test-environment)
-* `~bug`: [Bug in the application](#bug-in-the-application) 
+* `~bug`: [Bug in the application](#bug-in-the-application)
+
+**Note**: It might take a while for a fix to propagate to all environments. Be aware that a new failure could be related
+to a recently-merged fix that hasn't made it to the relevant environment yet. Similarly, if a known failure occurs but
+the test should pass because a fix has been merged, verify that the fix has been deployed to the relevant environment
+before attempting to troubleshoot further.
 
 ##### Stale test due to application change
 
@@ -178,9 +183,9 @@ See [Quarantining Tests]
 The failure was caused by a bug in the application code.
 
 - Include your findings in a note in the issue about the failure.
-- Add the steps to reproduce the bug and expected/actual behavior. 
+- Add the steps to reproduce the bug and expected/actual behavior.
 - Apply the `~"bug"` label, and cc-ing the corresponding Engineering Managers (EM), QEM, and SET.
-- If there is an issue open already for the bug, mark the new issue as a duplicate of the original bug. 
+- If there is an issue open already for the bug, mark the new issue as a duplicate of the original bug.
 - Communicate the issue in the corresponding Slack channels.
 - Do *not* [quarantine][quarantining tests] the test immediately unless the bug won't be fixed quickly (e.g. if it is a minor/superficial bug). Instead, leave a comment in the issue for the bug asking if the bug can be fixed in the current release. If it can't, quarantine the test.
 - When the reason for quarantining a test is because of a low severity bug in the code which will not be fixed in the upcoming couple of releases, add `type: :bug` in the `quarantine` tag.
@@ -195,6 +200,17 @@ The failure is due to flakiness in the test itself.
 
 - Include your findings in a note in the issue about the failure.
 - Apply the `~"failure::flaky-test"` label.
+
+Flakiness can be caused by a myriad of problems. Examples of underlying problems
+that have caused us flakiness include:
+
+* Not waiting appropriately for pages to load or transitions from one state to another to complete.
+* Animations preventing tests from interacting with elements.
+* Non-independent tests (i.e. test A passes when run first, but fails otherwise).
+* Actions not completing successfully (e.g. logging out).
+
+For more details, see the list with example issues in our
+[Testing standards and style guidelines section on Flaky tests](https://docs.gitlab.com/ee/development/testing_guide/flaky_tests.html).
 
 See [Quarantining Tests]
 
