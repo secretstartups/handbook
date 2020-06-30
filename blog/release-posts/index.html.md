@@ -1098,7 +1098,7 @@ extras:
 
 _To be added by Product Managers or Engineering Managers and merged by either._
 
-Describe the deprecations happening in that release or in upcoming releases. Note that there are differences in [deprecations and removals](https://about.gitlab.com/handbook/product/#deprecating-and-removing-features),
+Describe the deprecations happening in that release or in upcoming releases. Note that there are differences in [deprecations and removals](https://about.gitlab.com/handbook/product/gitlab-the-product/#deprecating-and-removing-features),
 so be sure to include the relevant details on when the feature will be removed from GitLab in the post. Let our community know about a future deprecation as soon as possible. When adding deprecations be sure to keep with the same structure of "XYZ feature or function will be deprecated at ABC time."
 
 The due date is defined by the removal of that feature. The field is required, and should be set as:
@@ -1153,7 +1153,7 @@ _To be added by Product Managers or Engineering Managers and merged by either._
 Describe the features that are being removed in the upcoming release. Removals should be planned.
 If possible, set up a [deprecation](#deprecation) notice at least one minor release before removing a feature.
 
-Note the differences between [deprecations and removals](https://about.gitlab.com/handbook/product/#deprecating-and-removing-features),
+Note the differences between [deprecations and removals](https://about.gitlab.com/handbook/product/gitlab-the-product/#deprecating-and-removing-features),
 so be sure to include the relevant details on when the feature will be removed from GitLab in the post.
 
 The `date_of_removal`due date is defined by the removal of that feature. The field is required, and should be set as:
