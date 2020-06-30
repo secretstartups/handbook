@@ -1,0 +1,316 @@
+---
+layout: handbook-page-toc
+title: "Edit this website locally"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Introduction
+
+This is a guide on what you'll need to install and run on your machine so you can make edits locally. This is quicker than in the web interface and allows you a better overview and preview when making complex changes.
+Once you're set up, you will find the source files for the Handbook here [/source/handbook/](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source)
+
+## 1. Help is available for team members
+
+If you work for GitLab Inc., we don't expect you to figure this out by yourself.
+If you have questions, ask anyone for help. You're more likely to have success with:
+
+- People that have [Merge Request buddy](/handbook/people-group/general-onboarding/mr-buddies) as an expertise on the [team page](/company/team/).
+- People that have been here longer than 3 months. The [team page](/company/team/) lists people in order of how long they have been here.
+- People that have 'engineer' in their title.
+- We encourage you to meet someone new by asking someone you don't know for help. You can also ask for help in #questions or #peopleops by posting 'Who can do a video call with me to help me work on the website locally /handbook/git-page-update/ ?'. If the other options don't work for you, please ask your onboarding buddy.
+
+## 2. Start using GitLab
+
+1. Here's where you can find step-by-step guides on the [basics of working with Git and GitLab](https://docs.gitlab.com/ee/gitlab-basics/README.html). You'll need those later.
+1. Create your [SSH Keys](https://docs.gitlab.com/ee/gitlab-basics/create-your-ssh-keys.html).
+1. For more information about using Git and GitLab see [GitLab University](https://docs.gitlab.com/ee/university/).
+
+## 3. Install Git
+
+1. Open a terminal.
+1. Check your Git version by executing: `git --version`.
+1. If Git is not installed, you should be prompted to install it. Follow this [guide](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html) to installing Git and
+linking your account to Git.
+
+## 4. Install Ruby Version Manager (RVM)
+
+[Ruby Version Manager (RVM)](https://rvm.io/) is a command-line utility that allows you to easily install and switch between different versions of the [Ruby](https://www.ruby-lang.org/) programming language, which is used to build this website. It can be installed directly from a command prompt (e.g., in macOS Terminal) with the following command:
+
+```bash
+curl -sSL https://get.rvm.io | bash -s stable
+```
+
+Once RVM has been installed, ensure that your updated terminal environment has been loaded by closing your terminal window and opening a new one.
+
+## 5. Install Ruby and Bundler
+
+The version of Ruby that you'll need to build this website will change from time to time, but you can always check what version that is by looking at the contents of `.ruby-version` in the root of the `www-gitlab-com` directory. You can always check it [on GitLab](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.ruby-version) even if you haven't yet cloned your own local copy of the repository.
+
+If `.ruby-version` specifies version `2.6.5`, you can install it with RVM like so:
+
+1. In a terminal, execute: `rvm install 2.6.5` to install Ruby
+   (enter your system password if prompted).
+1. Execute: `rvm use 2.6.5 --default` to set your default Ruby to `2.6.5`.
+1. Execute: `ruby --version` to verify Ruby is installed. You should see:
+   `ruby 2.6.5p114 (2019-10-01 revision 67812)`.
+1. Execute: `gem install bundler` to install [Bundler](http://bundler.io/).
+
+## 6. Clone the source of the website and install its dependencies
+
+1. If you set up SSH keys previously, in terminal execute: `git clone git@gitlab.com:gitlab-com/www-gitlab-com.git` to clone the website. If you prefer using https, then execute: `git clone https://gitlab.com/gitlab-com/www-gitlab-com.git`, but note that if you've activated 2FA on your GitLab.com account, you'll need to take some additional steps to set up [personal access tokens](https://gitlab.com/profile/personal_access_tokens). If you ever want to switch between SSH and https, execute `git remote remove origin`, followed by `git remote add origin [..]` where the `[..]` is the part that starts with `git@` for SSH, or with `https:` for https.
+1. Execute: `cd www-gitlab-com` to change to the `www-gitlab-com` directory.
+1. Execute: `bundle install` to install all gem dependencies.
+1. Install additional dependencies [Homebrew, nvm, yarn, and rbenv](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/development.md).  If not installed, step 8 may result in an error.
+
+## 7. Prevent newlines from causing all following lines in a file to be tagged as changed
+
+Git is able to automatically convert line endings between `CRLF` and `LF` and vice versa. Execute the following command to configure Git to convert `CRLF` to `LF` on commit but otherwise leave line endings alone:
+
+```bash
+git config --global core.autocrlf input
+```
+
+If you'd like to learn more about Git's formatting and whitespace options see the "Formatting and Whitespace" section under "[Git Configuration](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)" in "[Pro Git](https://git-scm.com/book/)".
+
+## 8. Preview website changes locally
+
+1. In a terminal, execute: `NO_CONTRACTS=true bundle exec middleman`.
+1. Wait for the log line: `== View your site at "http://localhost:4567", "http://127.0.0.1:4567"`.
+1. Visit [http://localhost:4567/](http://localhost:4567/) in your browser.
+1. You will need to install a text editor to edit the site locally. We recommend
+   [Sublime Text 3](http://www.sublimetext.com/3) or [Atom](https://atom.io/). Use command / ctrl P to quickly open the file you need.
+1. Refresh your browser to see your changes.
+
+## 9. Test if all URL links in a page are valid
+
+Until this is automated in CI, a quick way to see if there are any invalid
+links inside a page is the following.
+
+1. Install the [check-my-links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf/) extension in Chrome or the [Broken Link Checker](https://addons.mozilla.org/en-US/firefox/addon/find-broken-links/) addon in Firefox.
+1. Open the page you wish to preview (see previous step).
+1. Click the newly installed extension in the upper right corner of Chrome.
+
+A pop-up window will open and tell you how many links, if any, are invalid.
+Fix any invalid links and ideally any warnings, commit and push your changes,
+and test again.
+
+All internal links (links leading to other parts of the website) should be relative.
+
+## 10. Start contributing
+
+Most pages that you might want to edit are written in markdown [Kramdown](http://kramdown.gettalong.org/).
+Read through our [Markdown Guide](/handbook/markdown-guide/) to understand its syntax and create new content.
+
+Instructions on how to update the website are in the
+[readme of www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/README.md).
+
+## 11. Add yourself to the Team Page
+
+We are happy to have you join our company and to include you in our [team page](/company/team/)! Ask anyone in the company for
+help if you need it. There are **three** ways to update the website.  Choose the method below that feels most comfortable and have the following information handy:
+
+* An invitation to the [www-gitLab-com project](https://gitlab.com/gitlab-com/www-gitlab-com) at your GitLab email account.
+* Name of your manager
+* Name of the People Ops Specialist helping you with onboarding.
+<a name="picture-requirements"></a>
+* A picture of yourself for the team page
+  > **Picture Requirements**
+  >
+  > * Crop image to a perfect square.
+  > * Keep maximum dimension under 400 by 400 pixels.
+  > * Use the JPEG (`.jpg`) or PNG (`.png`) format.
+  > * Keep the file size below 100k.
+  > * Test image in color and black-and-white (you will add the color version).
+  > * The image file should be located in the folder `/source/images/team/`
+  > * Name file `yournameinlowercase` and add the appropriate file extension.
+* Story about your background and interests. (See other team member profiles for examples.)
+* Your personal Twitter / GitLab handles
+* A relative link to your role. If your link is `https://about.gitlab.com/job-families/engineering/support-engineer/` use `/job-families/engineering/support-engineer/`. Refer to other entries for reference.
+
+### Method 1: Add your info on GitLab.com using the Web IDE
+
+  1. Go to the [GitLab.com / www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/) project.
+  2. On the Repository page, click on the button labeled `Web IDE` near the middle of the page next to History and Find File buttons.
+  3. In the file browser, navigate to `source/images/team`.
+  4. Click the `⋁` icon next to the `team` directory and choose upload file and choose the photo of yourself. Be sure to follow the [picture requirements](#picture-requirements).
+  5. Next, navigate to `data/team.yml` in the file browser and click on it to open the editor.
+  6. <%= partial "team-page-fields" %>
+  7. Once you have finished this, click the `Commit` button in the bottom left. It should say something like `2 unstaged and 0 staged changes`. This will bring up a sidebar with an `Unstaged` and `Staged` area.
+  8. Check the files to ensure your updates are what you expect. If they are, click the check mark above the changed file list to "stage" all changes. You can also use the `Stage` button in the upper-right of the changed file view to stage each one individually. You should now see `0 unstaged and 2 staged changes`.
+  9. Once you have verified all of the edits, click commit and enter a short commit message in the box that appears. Your commit message should describe what you have changed. Choose `Create a new branch`. Name the branch in the format of `yourinitials-add-YOURNAME-to-team-page-date` or similar. Example: `plh-add-paulalilyherbert-to-team-page-feb06`
+  10. Tick the `Start a new merge request` checkbox. Then click `Commit` once more.
+  11. Fill out the merge request details and assign it to your manager. If your manager does not have access to merge your MR based on the permissions described above, then please reference the specific members page for the www-gitlab-com project for review.  Check the `Delete source branch when merge request is accepted` box to cleanup your merge request when complete. Click `Submit merge request` to submit the MR for review.
+
+
+### Method 2: Add your info on GitLab.com using the 'web interface'
+
+  1. Go to the [GitLab.com / www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/) project.
+  1. Click the `+` under the red line near the top of the screen.
+  1. Click `New branch`.
+  1. For `Branch name`, name it something unique (it's temporary so don't worry too much about the exact name) like *your initials-team-page-update-yourdepartment-the date* and click `Create branch`. Example: `hk-team-page-update-custsupport-feb06` 
+  1. Start by adding your image. Click on `Repository` on the left side then `Files`.
+  1. Click on `source`, then `images`, then `team`.
+  1. At the top of the page click `+` and choose `Upload file` to upload your picture. Be sure to follow the [picture requirements](#picture-requirements). Add text *Add YourFirstName YourLastName to team page* and click `Upload file`.
+  1. Navigate on your branch near the top of the page following the text that has your unique branch name and click on the text that follows your branch name `www-gitlab-com`.
+  1. Now you will edit your biographical information. All the bio information displayed on the Team page is pulled from a data file. Click on `data`, and then scroll down to `team.yml`.
+  1. Click on `edit` on the top right side of your screen.
+  1. <%= partial "team-page-fields" %>
+  1. After you added your information, add a comment to your commit and click on “Commit Changes”.
+  1. Now [Create a merge request](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html) in [GitLab.com](https://gitlab.com/gitlab-com/www-gitlab-com) with the branch that you created by clicking `Create merge request` button.
+  - Create a title that describes your changes at a high level.
+  - Add a description of your changes
+  - Assign the merge request to yourself
+  - Make sure the source branch is the one you created `hk-team-page-update-custsupport-feb06` (as an example from above) and the target is `master`
+  - Check the box `delete source branch when merge request is accepted`
+  1. Click `submit merge request`
+    At the upper right of the new page, click `edit` next to `Assignee` and also assign the merge request to your manager.
+
+### Method 3: Add your info using a Local Git clone (using the terminal and an IDE)
+
+  1. Download Git, following the [start using git documentation](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html).
+  2. Follow the steps to create and add your [SSH keys](https://docs.gitlab.com/ee/gitlab-basics/create-your-ssh-keys.html).
+  3. Clone the [www-gitlab-com project](https://gitlab.com/gitlab-com/www-gitlab-com) through your shell, following the [command line commands documentation](https://docs.gitlab.com/ee/gitlab-basics/command-line-commands.html).
+  4. Create and checkout a new branch for the changes you will be making.
+  5. Add your picture to the `source/images/team/` directory in the repository and `git add` it. Be sure to follow the [picture requirements](#picture-requirements).
+  6. Open `data/team.yml` in your favorite editor.
+  7. <%= partial "team-page-fields" %>
+  8. Save changes to `data/team.yml` and `git add` it.
+  9. To see your changes locally, follow the directions in `README.md`.
+  10. After validating your changes, commit your changes to the new branch of www-gitlab-com that you created in step 4, with a comment *Add FirstName LastName to team page* and push your branch. You may need to set the remote as upstream or you can use `--set-upstream` option and specify remote as upstream.
+  11. [Create a Merge Request](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html) in [GitLab.com](https://gitlab.com/gitlab-com/www-gitlab-com) with the branch that you created and assign it to your manager for review.
+
+  *Note:* This method may take longer than other methods, because it requires `git clone` for around 4GB size repository.
+  *Note:* When you test locally, the map on top of the page won't show your photo. This is because it is not populated with local data. [More about how the map works](https://gitlab.com/gitlab-com/teampage-map/blob/master/README.md#background). You will see your picture on the map as soon as your Merge Request is merged.
+  *Note:* Searching the handbook in your local environment yields production results, so navigate directly to the team page via URL to see your changes.
+
+### Add your pet(s) to the Team Pets Page
+
+  Using what you learned in the [steps above](#11-add-yourself-to-the-team-page), consider adding your pet to the [Team Pets page](/company/team-pets/). You can follow these instructions for adding them via the Web IDE.
+
+  1. Again, find the picture that you'd like to add to the team pets page, and update the picture's name to the following format: `petname.jpg` or `petname.png`. Ensure the picture size is around 400x400 (*it must be square*, see [picture requirements](#picture-requirements)).
+  1. Go to the [GitLab.com / www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/) project.
+  1. On the Repository page, you will see a Web IDE button near the middle of the page next to History and Find File buttons.
+  1. In the file browser, navigate to `source/images/team/pets`.
+  1. Click the `⋁` icon next to the `pets` directory and choose upload file and choose the photo you prepared in step 1.
+  1. Next, navigate to in the file browser `data/pets.yml` and click on it to open the editor.
+  1. Add your pet by following the format of the existing pets on the page (you can copy and paste their lines of code, even). Ensure that you include your pet's name, your full name, and the image you uploaded in step 1.
+  1. Once you have finished this, click the `Commit` button in the bottom left. It should say something like `2 unstaged and 0 staged changes`. This will bring up a sidebar with an `Unstaged` and `Staged` area.
+  1. Check the file to ensure your updates are what you expect. If they are, click the check mark next to the filename to "stage" these changes.
+  1. Once you have verified all of the edits, click commit once more. Here, enter a short commit message including what you've changed. Choose `Create a new branch and merge request`. Choose a branch name of your choosing. Remember to name it something unique. We recommend the format *your initials-team-page-update-yourdepartment-the date* Example: `mh-team-page-update-custsupport-feb06` 
+  1. Fill out the merge request details and assign it to your manager for review.
+
+## 12. Edit the Handbook
+
+### WebIDE, using the browser
+The Web Integrated Development Environment (IDE) is used to make changes within the browser. This method requires no setup.
+
+1. Find the handbook page to edit.
+1. Click on the `Edit this page` button at the bottom of the page.
+1. On the page, you should see the relevant file in the repository displayed. Click on the `Web IDE` button on the right side.
+1. Edit the page using [MarkDown](/handbook/markdown-guide/). You can preview your changes (but links will not work).
+    * Note: You can edit other pages by browsing through the filelist on the left side in the Web IDE.
+1. After making your changes, click the `Commit...` button in the bottom left to review the list of changed files. Click on each file to review the changes and click the tick icon to stage the file.
+1. Once you have staged some changes, you can add a commit message and commit the staged changes. The message should be as brief as possible, since it has a character limit. You can add more detail in the description in a subsequent step. Unstaged changes will not be committed.
+1. Choose the option to create a new branch and create merge request. For your branch, use a descriptive name with hyphens and no spaces, so that you can find it again later, but it's temporary so don't worry too much about the exact name. We recommend the format *your initials-team-page-update-yourdepartment-the date* Example: `mh-team-page-update-custsupport-feb06`.
+1. Submit and you will be taken to the merge request (MR) page.
+1. Feel free to add a more detailed message in the description box. For the options, check `Remove source branch`.
+1. Assign the MR to the [Directly Responsible Individual (DRI)](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/):
+  - If the DRI for the page(s) being updated isn't immediately clear, then assign it to your manager.
+  - If your manager does not have merge rights, please ask someone to merge it _after_ it has been approved by your manager in [#mr-buddies](https://gitlab.slack.com/archives/CLM8K5LF4).
+
+### Locally, using the terminal
+
+  1. If you haven't already, follow steps 1-5 in the "Add yourself to the Team Page"'s "Add Locally (using the terminal)" section above.  (This step is necessary as the handbook lives in the same repository as the rest of GitLab.com).  If you're following this guide in order and have already added yourself to the team page, instead go back to the main branch (via `git checkout master`) and there create a new branch for your handbook edits.
+  2. The handbook lives under `source/handbook`.  For the most part, you can locate the specific item to edit via that item's URL.  For instance, this page is /handbook/git-page-update/ and its source lives in `source/handbook/git-page-update/index.html.md`.
+  3. Edit away!  See the "Start Contributing" section, above, for details about the Markdown that most pages are written in.
+  4. Preview your changes locally by following the directions in `README.md`.  Keep in mind that the local server won't auto-reload when you change a page, so you'll need to restart it to see what you've done.
+  5. Once you've made your changes and verified they appear the way you want them to, commit them with a comment and push your branch.
+  6. As above, [Create a Merge Request](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html) in the [www-gitlab-com project](https://gitlab.com/gitlab-com/www-gitlab-com).  If you're onboarding, don't forget to assign it to your manager.
+
+## Marking a merge request as a Work in Progress (WIP)
+
+1. You can easily prevent a merge request from being merged before you're ready by marking it as a *work in progress*. Simply type "WIP:" at the beginning of your merge request title (e.g. "WIP: My Handbook Change"). To merge once you're ready, edit your MR and remove "WIP:" from the title.
+  1. **Note:** Only mark a merge request as "WIP" (Work in Progress) if it will negatively affect the company if merged too early. That can be the case for application code but is almost never possible for handbook MRs.
+
+## Ready to merge
+
+Handbook Merge Requests should have the branch set to delete.
+It should not have commits set to squash.
+We do not squash commits because of the [possible negative effects](https://medium.com/@fredrikmorken/why-you-should-stop-using-git-rebase-5552bee4fed1).
+Then assign the MR to a maintainer for review and merging.
+
+## How to solve a broken pipeline in a merge request
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/PeopYsoweGU" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+*In the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) video above, two colleagues share their screens and walk through the process detailed below.*
+
+---
+
+If you create a merge request during a period where there is an issue in master causing [pipelines to fail](/blog/2019/09/11/how-to-avoid-broken-master-with-pipelines-for-merge-requests/), you'll notice that failures will continue to occur even if you retry pipeline within the GitLab Web IDE interface.
+
+Once the issue in master is fixed, you can solve this by using terminal to merge the latest version of master into your branch (which you can find in your [merge request](https://docs.gitlab.com/ee/user/project/merge_requests/)).
+
+For those who primarily use Web IDE to interface with GitLab, it can feel foreign to engage [locally](/handbook/marketing/product-marketing/getting-started/102/). Before diving in deeper, be sure to read our [*GitLab 101 – a primer for the non-technical*](/blog/2019/08/02/gitlab-for-the-non-technical/) blog post.
+
+The process is fairly straightforward once you have completed the [necessary steps listed in the GitLab Handbook to edit locally](/handbook/git-page-update/).
+
+Once you are properly equipped to edit locally, open a [terminal window](/handbook/marketing/product-marketing/getting-started/102/#a-little-terminal-time) and execute the following.
+
+1. Navigate to the appropriate project. If you've cloned the project to your root directory, try `cd www-gitlab-com`
+1. `git checkout master`
+1. `git pull` (This brings in the most recent changes from master to your local machine.)
+1. `git checkout TK` (Replace `TK` with your branch from the merge request. This is easily copied by clicking the **Copy Branch Name** icon to the right of **Request to merge** at the top of your merge request page.)
+1. `git merge master` (This takes the changes from master and merges them into your local `TK` branch.)
+1. `:q` (Entering `:q` followed by a **Return keystroke**  quits vim which is the editor your terminal opened when adding the stock commit message to the merge.)
+1. `git push` (This takes local machine files and pushes to the cloud.)
+
+Once this has been executed, you'll see new commits added to your merge request, and the pipeline will automatically begin to re-run. If completed correctly, the pipeline will pass now that the latest master was merged into your branch.
+
+If you are a GitLab team member and you get stuck, please ask for help in the `#mr-buddies` Slack channel.
+
+### Debugging a failed pipeline in the GitLab handbook
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/WlgH-6cX1k8" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+*In the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) video above, Jean shares a quick overview of how to go about identifying why a pipeline might be failing for a merge request to the GitLab handbook.*
+
+### Why is my pipeline failing?
+
+If you've made a merge request, only to see that your pipeline has failed, a troubleshooting process begins. 
+
+You can learn more about why pipelines fail, what failures mean, and how to resolve conflicts by viewing this [explainer video](https://youtu.be/Qg0ICfs_Noo) hosted on GitLab Unfiltered.
+
+### Where do I report handbook issues and request help?
+
+For those inside the GitLab organization, you can request help on individual merge requests via [Merge Request Buddies](/handbook/people-group/general-onboarding/mr-buddies/) in the `#mr-buddies` Slack channel. 
+
+The `#master-broken-www-gitlab-com` Slack channel is exclusively for monitoring and responding to build issues with the `www-gitlab-com` project master branch. This is an excellent first stop to see if there is an ongoing issue impacting your pipeline. 
+
+If you suspect a systemic issue, inquire in the `#handbook-escalation` Slack channel, and check to see if others are reporting similar errors in `#is-this-known`. 
+
+The [Static Site Editor Team](/handbook/engineering/development/dev/create-static-site-editor/) is responsible for enhancing the editing experience for static sites inside of GitLab, including the handbook.
+
+General GitLab handbook discussion occurs in the `#handbook` channel, while an automated feed of merged handbook updates can be found in the `#handbook-updates` channel. 
+
+## Where should content go?
+GitLab has a lot of places you can put web content including the [website](/handbook/marketing/website/), [blog](/handbook/marketing/blog/), [docs](https://docs.gitlab.com/ee/development/documentation/index.html), and the [handbook](/handbook/handbook-usage/). Here's an overview of where you should create a merge request to add content.
+1. **[blog](/handbook/marketing/blog/)**: The blog is a great place to start. If you don't know where to put content, then write a blog post! Great blogs can always be then copied or modified for the website, docs, and handbook later. Blog posts are especially good for news, announcements, and current trends because blog posts are tied to a specific date.
+1. **[website](/handbook/marketing/website/)**: This is the main marketing site for GitLab and where folks will tend to go first to find out information about GitLab (the product and the company). The website contains a broad set of content from [product pages](/product) to [customer case studies](/customers). The website is the best place for [evergreen](https://www.wordstream.com/blog/ws/2012/10/16/guide-to-evergreen-content-marketing) articles such as [topic](/handbook/marketing/website/#topics) and [solution](/handbook/marketing/website/#solutions) pages since it's not tied to specific date.
+1. **[docs](https://docs.gitlab.com/ee/development/documentation/index.html)**: The docs are where are all technical information about GitLab self-managed and GitLab.com belongs. If the intended audience for the content is a user of GitLab then it should be in the docs. The docs are great place for both reference docs (what are the configurable settings for a feature, e.g. [what can you do with issues](https://docs.gitlab.com/ee/user/project/issues/index.html)) and narrative docs (how to do x with y, e.g. how to set up [HA on AWS](https://docs.gitlab.com/ee/university/high-availability/aws/README.html#doc-nav)).
+1. **[handbook](/handbook/handbook-usage/)**: The handbook is for any content that needs to be [used by GitLab team-members to do their job](/handbook/handbook-usage/). If you put content on the blog, website, and docs, but you think it would be helpful for GitLab team-members to do their job then link to the content from the handbook.
+
+Sometimes the lines are blurry and it can seem as though there are multiple places that would be a good fit. For example, "how to" articles make great blog posts, but could be more discoverable to users if they are in the docs. Just pick one. It's better to create content somewhere than nowhere. When in doubt, start with the blog.
