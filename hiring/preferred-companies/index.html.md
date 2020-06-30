@@ -262,9 +262,30 @@ GitLab is a single application for the complete DevOps Lifecycle. As such, we're
 
 ### Verify
 
-* Cloudbees
+#### Continuous Integration
+
+* GitHub
+* Jenkins
+* Bamboo
+* TravisCI
 * CircleCI
-* Travis CI
+* CodeFresh
+* Codeship
+* JetBrains/TeamCity
+* Harness
+* JFrog
+* Buildkite
+* BitBucket
+
+#### Testing
+
+* CodeClimate
+* Codacy
+* SonarQube
+* Coverity
+* DiffBlue
+* Marker.io
+* Eggplant
 
 ### Release
 
