@@ -1,0 +1,117 @@
+---
+layout: handbook-page-toc
+title: Account Ownership Verification
+category: GitLab.com
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Overview
+
+While this workflow focuses on disabling [Two-factor Authentication](http://docs.gitlab.com/ee/profile/two_factor_authentication.html) on a GitLab.com account, it should also be used any time ownership of an account needs to be verified, such as for [account changes](/handbook/support/workflows/account_changes.html).
+
+2FA removal and other account actions can only be taken if the [workflow](#workflow) below is successful.
+
+## Access by User Action
+
+In many cases, users can regain access to their account using the following methods:
+
+### Entering a recovery code
+
+Users can try and login using their saved [two-factor recovery codes](https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html#recovery-codes).
+
+### Generating new recovery codes via SSH
+
+If a user didn't save their recovery codes, new ones can be generated with the command below via SSH if they've previously added an SSH key to their account. The new recovery codes can then be used at sign in. This option is presented to users in the Zendesk macro and the auto-response they'll receive if they chose `Two-Factor Authentication (Account Recovery)` as the problem type for the Zendesk ticket. If they cannot use this method then move on to the manual methods below.
+
+```plain
+ssh git@gitlab.com 2fa_recovery_codes
+```
+
+If a user has added an SSH key to their account but receives a `Permission denied (publickey)` error when using the command above, they may need to manually register their private SSH key using `ssh-agent` if they're using a non-default SSH key pair file path. Direct the user to [our documentation](https://docs.gitlab.com/ee/ssh/README.html#working-with-non-default-ssh-key-pair-paths) for guidance on how to solve this.
+
+## Access with Support Intervention
+
+If the user is unable to remove 2FA or otherwise regain access to their account using the above methods and responds with the need for further verification, then the user will need to provide evidence of account ownership before we can disable 2FA on their account.
+
+If a user has lost their account recovery codes and has no SSH key registered, proving they own the account can be difficult. In these cases, please use the workflow below.
+
+### Workflow
+
+As part of access recovery, if 2FA removal is not involved, then skip the following steps and move on to the next section.
+
+1. Apply the **"Account::2FA Removal SSH Info & Challenges"** Macro
+1. The macro marks the ticket as "Pending"
+
+#### If the user responds with the need for further verification (by answering the challenges)
+
+1. Using the [Risk Factor Worksheet](https://docs.google.com/spreadsheets/d/1NBH1xaZQSwdQdJSbqvwm1DInHeVD8_b2L08-V1QG1Qk/edit#gid=0) (internal only), determine the appropriate data classification level and the risk factor you have determined from customer's answers to the challenges.
+   - For almost all cases, the originating email should be the same as the one listed on the account.
+
+1. Use the macro **"Account::2FA::2FA Internal Note"** It leaves an internal note on the ticket. Edit with the relevant admin link, your proposed data classification level, challenges and the risk factor.
+
+1. Request that your decision be peer-reviewed by another member of the team via Slack.
+
+1. For disabling 2FA: If you agree with the decision; log into your admin account and locate the username in the users table or by going to `https://gitlab.com/admin/users/usernamegoeshere`
+      1. Under the account tab, click `Edit`, add an [Admin Note](/handbook/support/workflows/admin_note.html), and save.
+      1. On the account tab, click on `Disable 2FA`.
+      1. Use the **"Account::2FA::2FA Removal Verification - Successful"** macro.
+
+1. In case you disagree, leave an internal note on the ticket stating your thoughts on what the risk factor should be and reply to the Slack conversation for further discussion. Once agreed, apply above step.
+
+**Note**: This only applies if you think the challenges were passed, in case the user sends back very minimal information and it's clear it's not sufficient, reply asking for more information immediately after their response.
+
+#### User Successfully Proves Account Ownership
+
+1. For other situations other than 2FA, please see [Account Changes workflow](account_changes.html).
+
+#### User Fails to Prove Account Ownership
+
+1. If the user is unable to pass the selected challenges:
+   1. Inform them that without verification we will not be able take any action on the account. For 2FA, use the **Account::2FA::2FA Removal Verification - GitLab.com - Failed** macro.
+   1. Mark the ticket as "Solved"
+
+### GitLab Team Members
+
+If the user is a GitLab employee, follow the below process:
+
+1. Perform steps for SSH key and recovery codes, if possible.
+1. Confirm authenticity of the request by contacting the employee via phone or video call.
+1. Add an [Admin Note](/handbook/support/workflows/admin_note.html) with relevant information.
+
+### Large Customers
+
+For customers who are large enough to have an account management project, an issue within their specific project can be used as verification.
+
+#### Setup
+
+1. Create an issue template called `2FA Verification.md` that contains the following:
+
+   ```plain
+   User to reset: `@user`
+   ZD Ticket: `ZD ticket number`
+   /label ~"2FA Reset"
+   ```
+
+1. Create a list of Slack handles in a file called `2FA Reset Owners.md` that lists individuals who are authorized to request a 2FA reset.
+
+#### Usage
+
+1. When a user for a large customer writes in, use a shared communication medium (e.g. a shared Slack channel) to ping the folks listed in the `2FA Reset Owners.md` file, alerting them that a request exists, and that they can expedite the processing of the request. You can use the following as a template for this message:
+
+   ```plain
+   Hi @user - we got a request from `REQUESTOR_EMAIL` to reset 2FA on their account. Could you vouch for them by creating an issue via https://gitlab.com/path/to/account/project/issues/new?issuable_template=2FA%20Verification and filling in all of the details there?
+
+   Once you've done that, link the issue here and I'll get them reset. If you don't get to this, we'll use our standard account verification procedures to determine if they're eligible for a 2FA reset.
+   ```
+
+1. Continue processing the request as normal, issuing appropriate challenges. If a `2FA Reset Owner` gets back to you, include that in your risk factor assessment.
+1. Comment in the issue and Slack thread that you've reset 2FA and close the issue.
+
+## Authentication For GLGL Reports
+
+In the event that a customer requests a report of their group's users from [GLGL](https://gitlab.com/gitlab-com/support/toolbox/glgl), consult the [dotcom-internal wiki](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/-/wikis/Procedures/GLGL-Report-Authentication) for the process of authenticating the requestor.

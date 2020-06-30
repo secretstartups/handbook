@@ -1,0 +1,8 @@
+%section
+  %h4.clearfix Categories
+  %ul.nav
+  - pages.each do |category, workflow_pages|
+    %li
+      %a{:href => "##{category}" }
+        %span.badge.pull-right> #{workflow_pages.count}
+        #{category}

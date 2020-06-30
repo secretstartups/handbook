@@ -1,0 +1,75 @@
+---
+layout: handbook-page-toc
+title: Support Operations Team
+---
+
+# Introduction to Support Operations Team (Support-Ops):
+ 
+Support Operations Team is responsible for supporting the day-to-day operations
+and software systems used by GitLab’s global Technical Support team, primarily
+our Zendesk instance, and integrations with internal business processes and
+tools. The Support Operations Team is exclusively responsible for handling
+Zendesk Support and Explore related queries. Further details and
+responsibilities are explained
+[here](https://about.gitlab.com/handbook/support/support-ops/).
+
+## Mission:
+ 
+To help the Technical Support Team spontaneously and make their day to day
+workflow simple and easier so the efficiency and result values of Technical
+Support Team increases.
+
+## Vision:
+  
+To provide the “Best in Class” support to our support team specifically and
+GitLab to increase the overall value of GitLab as a team, organization and
+product.
+
+**Vision Target 2021- 2022:**
+
+- To solve Technical Support Team Zendesk related issues within 3 months.
+- Increase efficiency of Zendesk to enable Support to achieve KPIs
+
+## Responsibilities
+
+The core responsibilities of the Support Ops team are:
+
+* Zendesk (main and us federal instance)
+  * [Shared Organizations](responsibilities.html#shared-organizations-in-zendesk)
+  * [Salesforce - Zendesk sync](responsibilities.html#salesforce-zendesk-sync)
+  * [SFDC<>US Federal Zendesk sync](responsibilities.html#sfdcus-federal-zendesk-sync)
+* [Customer Satisfaction Survey (CSAT)](responsibilities.html#customer-satisfaction-survey-csat)
+* Calendly
+* [PagerDuty](responsibilities.html#pagerduty)
+* [Slack Notifications](responsibilities.html#slack-notifications)
+
+## The Support Operations Team:
+
+| Name | Role  | Slack Handle |
+|--|--|--|
+| [Jason Colyer](https://gitlab.com/jcolyer) | Support Operations Manager | @jcolyer |
+| [Nabeel Bilgrami](https://gitlab.com/nabeel.bilgrami) | Support Operations Specialist (Main Instance) | @nabeel.bilgrami |
+| TBD | Support Operations Specialist (US Federal)} 
+
+## Support Operations Important Links:
+
+* [Main Project](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project)
+* [Progress Board](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/boards/1171115)
+* [Priority Vice Issues Board](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/boards/1738899)
+* [Project Labels](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/blob/master/README.md)
+
+## Support Operations Workflow:
+
+![](https://lh6.googleusercontent.com/gLFocegPFVnk9wx4YbHDZV78N1rLlymzeekgu3c-YgtWN22kKiXnE7HTtzhn-mnb7ZafZZRTAr9Igw2zK748T-eun36I3ecLJs1OzC1HqbsDgpBwzal2D-LRafKUZQr7h2RgFRUM)
+
+This diagram explains how the general fixes are handled by the Support Operations Team.
+
+## Support Operations Changelogs:
+
+The Support Operations Team usually make the critical changes usually in weekend
+and communicate them via Slack channel #support_team-chat
+([https://gitlab.slack.com/archives/CCBJYEWAW](https://gitlab.slack.com/archives/CCBJYEWAW))
+and SWIR
+([https://about.gitlab.com/handbook/support/#support-week-in-review](https://about.gitlab.com/handbook/support/#support-week-in-review)).
+We are working on standardizing the release schedule of changes and a single
+communication channel where the questions and issues can be discussed.
