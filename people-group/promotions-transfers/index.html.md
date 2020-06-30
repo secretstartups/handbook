@@ -88,7 +88,7 @@ To promote or change compensation for one of your direct reports, do the followi
 
 **Things to consider before you start the process:**
 * There will be situations when an employee is ready to move to the next level through a promotion, however, due to the nature of the business, that particular role or next level may not be available for business reasons. For example, the employee is ready for a Manager or Director role, however, the business does not have the need, budget or scope for an additional manager/director at that time. The position may or may not become available in the future but it is not a guarantee.
-* If the vacancy is being advertised via the [jobs page](https://about.gitlab.com/jobs/) the individual must submit an application for the role in order to be compliant with global anti-discrimination laws. Similarly, if there is no vacancy posting, one must be created and shared on the company call so that everyone has the opportunity to apply and be considered.
+* If the vacancy is being advertised via the [jobs page](https://about.gitlab.com/jobs/) the individual must submit an application for the role in order to be compliant with global anti-discrimination laws. Similarly, if there is no vacancy posting, one must be created and shared on the `#new-vacancies` slack channel so that everyone has the opportunity to apply and be considered.
 
 ### Creating a Promotion or Compensation Change Document
 
