@@ -268,9 +268,10 @@ GitLab employees can access the disount table [here.](https://gitlab.my.salesfor
         *    2nd deal: =>$10,000
         *   3rd deal: => $10,000
 
-    Services Attach requests shall be submitted to GitLab via the Partner Portal as a deal registration, must include reasonable information and documentation (as requested by GitLab) to demonstrate the Referral Clients receipt of the Partner Professional Services and must be approved by GitLab Sales.
+    Services Attach requests shall be submitted to GitLab via the Partner Portal as a deal registration, Services Attach requests shall be submitted to GitLab via the Partner Portal as a deal registration (Deal Registration Type = Services Attach), must include reasonable information and documentation (as requested by GitLab) to demonstrate the Referral Clients receipt of the Partner Professional Services and must be approved by GitLab Sales.
 
-    Each rebate paid out quarterly, 45 days after the end of each quarter.
+    Each rebate paid out quarterly, 45 days after the end of each quarter.  
+
 
 *   **Referral Fees** - Referral fees are paid to partners for identifying Partner Initiated GitLab software sales opportunities that are not being resold by the partner. To qualify for a referral fee, partners must enter a referral fee deal registration in our Partner Portal. Each registration received by GitLab qualifies as a "Qualified Referral," provided that the referral is a GitLab sales opportunity that is new to GitLab, and the customer/prospect is willing to enter into a binding written agreement with GitLab to use our products and services.
     *   All referral deal registrations must be approved by GitLab before becoming eligible for a referral fee. Referral fees are paid out quarterly, 45 days after the end of each quarter.
@@ -314,9 +315,9 @@ GitLab Open and Select partners have access to the proposal-based GitLab Marketi
 *  Help partners educate their GitLab teams
 
 * **To receive MDF, you must:**
-  *  Submit a proposal to GitLab
+  *  Submit a proposal to GitLab via the GitLab Partner Portal
   *  Have an authorized GitLab Marketing Manager review and approve the proposal
-  *  Promptly submit the required proof of performance documentation to GitLab following the activity
+  *  Promptly submit the required proof of performance documentation to GitLab 30 days following the activity
 
 
 ##### MDF Investment Objectives
@@ -571,7 +572,7 @@ Your website needs to have a landing page with information about GitLab. You can
 
 *   The GitLab Authorized reseller logo lets your prospects and customers know that we are working with you.
 *   Use our Authorized Reseller Logo on your materials where appropriate and in accordance with our brand guidelines.
-*   The logos are available in the README file of the[ resellers project](https://gitlab.com/gitlab-com/resellers/)
+*   The logos are available in the README file of the[ resellers project](https://gitlab.com/gitlab-com/resellers/) they may also be accessed in the Marketing collection in the Asset Library in the Partner Portal.
 
 
 #### Requesting Market Development Funds - MDF
@@ -580,7 +581,8 @@ To obtain MDF funding, please complete the following steps prior to any activity
 
 
 
-*   MDF Request – All MDF requests should be submitted in advance of each planned marketing activity, using the MDF request form found on the GitLab Partner Portal. Note: MDF requests must be submitted prior to the start of an activity, or the request may be rejected.
+*   MDF Request – All MDF requests should be submitted in advance of each planned marketing activity, using the MDF request form found on the GitLab Partner Portal. Please have a conversation with your designated Channel Account Manager for intial agreement prior to submitting the request form in the portal. 
+*   Note: MDF requests must be submitted prior to the start of an activity, or the request may be rejected.
 *   Please note, as our program is proposal-based, GitLab does not guarantee every eligible partner will receive MDF. In addition, funding levels are subject to change at GitLab’s discretion.
 *   MDF Approval – After submission of the MDF request, your GitLab Channel Marketing Manager will review and approve/deny the request. You’ll be notified via email. You must get formal approval before proceeding with your activity.
 *   Completing Activity – Partners have the funding quarter and the following quarter to complete approved activities. If at any point within the funding quarter you decide the allocated funds will not be used for the approved activity, you must notify your Channel Marketing Manager.
@@ -589,10 +591,10 @@ To obtain MDF funding, please complete the following steps prior to any activity
 
 #####  Proof of Performance (POP) and Claiming Funds
 
- The GitLab MDF program is reimbursement-based. For prior approved marketing claims to be reimbursed, the following conditions must be met:
+ The GitLab MDF program is proposal-based. For prior approved marketing claims to be reimbursed, the following conditions must be met:
 
 
-*   You must submit a payment claim within 30 calendar days of completion of the activity via the Partner Portal.
+*   You must submit a payment claim within 30 calendar days of completion of the activity via the MDF Reimbursement Request Form on the GitLab Partner Portal.
 *   Proof of performance as defined above for each activity must be submitted.  Proof of performance must demonstrate that the activity occurred and that GitLab was appropriately represented
 *   International currency: Claims may be paid in local currency upon GitLab’s discretion; currency rates are based on the date GitLab pays the reimbursement.
 *   Once a claim is fully approved and all questions about the claim have been answered, you should expect to receive reimbursement within 45 days.
@@ -622,7 +624,7 @@ MDF may not be used for capital expenses or the normal cost of business.
 #####  SECTION HERE?
 
 
-Access to MDF fund requests will be granted only to select individuals at a partner.  From the GitLab Partner Portal home page, navigate to Marketing and select “MDF Request.” The “MDF Request” option only appears if you are authorized to participate. Upon selecting MDF Request, complete the first part of the firm to create a fund request. Once completed, submit it and it will be routed to a GitLab Representative for approval.
+Partners can access the MDF Request From from the GitLab Partner Portal home page, navigate to Marketing and select “MDF Request.”  Upon selecting MDF Request, complete the first part of the firm to create a fund request. Once completed, submit it and it will be routed to a GitLab Representative for approval within 14 business days. 
 
 Once the marketing or enablement activity is completed, return to the original request and complete the proof of performance documentation as outlined in the Proof of Performance section above. ****
 
