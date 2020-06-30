@@ -253,12 +253,6 @@ Support will take the lead on all incoming requests in the queue and only forwar
 4. When beginning a proactive time block, open your opportunities view and sort by Next Steps Date.
 5. Your Next Steps should be specific and compelling so that you can take action on them within 3 minutes of reading.
 
-#### Overdue Opportunity Process
-1.  An overdue opportunity report goes out every Tuesday to managers.
-2.  An email alert goes out directly to the opportunity owner when the oppty is past due upon edit of the opportunity. Ex: an action needs to happen to trigger the email. 
-3.  Sales Operations will give until the 15th of the month and then forklift any opportunity with a close date in the past month to a future close date.
-4.  Managers have "over due" reports on their dashboards for review as needed.
-
 #### Web Direct Oppty Management in Salesforce
 - Find the report view for all CFQ "current fiscal quarter" Web Direct purchases in your territory "SMB_Web Directs CFQ _name":
 
