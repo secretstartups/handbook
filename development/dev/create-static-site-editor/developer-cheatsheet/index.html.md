@@ -55,7 +55,7 @@ title: Developer Cheatsheet
   - `git push --force-with-lease` (force-with-lease ensures nobody else has pushed to the branch since you last pulled)
 - See [this blog post](https://about.gitlab.com/blog/2016/12/08/git-tips-and-tricks/) and our [git cheatsheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) for more git tips.
 
-## Squashing down a branch which has has master merged into it
+## Squashing down a branch which has had master merged into it
 
 When a branch has followed a merge instead of a rebase workflow, it can get very confusing to know what is going on, and you want to just squash it down to a single commit.  But, you can't just do a regular interactive rebase relative to master if the branch has had master merged into it.  Here's what you have to do instead.
 
