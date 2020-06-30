@@ -257,7 +257,7 @@ In parallel with feature development, a merge request should be prepared by the 
 the required content. **Do not wait** for the feature to be merged before
 drafting the release post item, it is recommended PMs write Release Post Item MRs as they prepare for the milestone Kickoff.
 
-**Important**: This procedure applies until the 17th, at 11:59 PM PT (6:59 AM UTC). After this time, anyone who wants to include a change in the upcoming release post can either coordinate updates directly on the release post branch with the Release Post Manager or submit it in a separate MR, targeting the `release-X-Y` branch, and assign it to the Release Post Manager to merge. For more information, see our documentation ho how to [Develop on a feature branch](https://docs.gitlab.com/ee/topics/git/feature_branch_workflow.html).
+**Important**: This procedure applies until the 17th, at 11:59 PM PT (6:59 AM UTC). After this time, anyone who wants to include a change in the upcoming release post can either coordinate updates directly on the release post branch with the Release Post Manager or submit it in a separate MR, targeting the `release-X-Y` branch, and assign it to the Release Post Manager to merge. For more information, see our documentation of how to [Develop on a feature branch](https://docs.gitlab.com/ee/topics/git/feature_branch_development.html#use-case-gitlabs-release-posts).
 {:.alert .alert-info}
 
 ##### Key dates
@@ -274,10 +274,19 @@ drafting the release post item, it is recommended PMs write Release Post Item MR
 - Create a new branch from `master` for each feature/deprecation
 - Open a merge request targeted at the `master` branch
 - Use the [Release Post Item template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md)
-- Content should be one YAML file added to `data/release_posts/unreleased/`
-  - See `data/release_posts/unreleased/samples/` for format and sample content
-  - Note that the structure needs to be preserved, like `features:` then `top:`, then the feature content
-- Images should be placed in `/source/images/unreleased/`
+- **Before the 17th of each month at 11:59 PM PT (6:59 AM UTC)**
+  - Content should be one YAML file added to `data/release_posts/unreleased/` on the `master` branch
+    - See `data/release_posts/unreleased/samples/` for format and sample content
+    - Note that the structure needs to be preserved, like `features:` then `top:`, then the feature content
+    - Images should be placed in `/source/images/unreleased/`
+- **After the 17th of each month at 11:59 PM PT (6:59 AM UTC)**
+  - *If you're creating a new MR,* target the `release-X-Y` branch.
+  - *If you're modifying an MR from before the 17th,* update your MR to target the `release-X-Y` branch **and** move the YAML and image files into the release-specific folder.
+  - Content should be one YAML file added to `data/release_posts/X_Y/` on the `release-X-Y` branch. For help, see the [documentation for this use case](https://docs.gitlab.com/ee/topics/git/feature_branch_development.html#use-case-gitlabs-release-posts)
+    - See `data/release_posts/unreleased/samples/` for format and sample content
+    - Note that the structure needs to be preserved, like `features:` then `top:`, then the feature content
+    - Images should be placed in `/source/images/X_Y/`
+    - Assign to the Release Post Manager to merge.
 - Also add your feature to the bottom of `data/features.yml` as part of the same merge request
 - Complete the PM checklist that's included in the [MR template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md)
 - Assign the MR to the relevant Tech Writer for review
