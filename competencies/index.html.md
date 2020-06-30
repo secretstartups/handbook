@@ -89,6 +89,8 @@ Remote Work Competencies are defined by role: team member or people leader. Team
 
 ## List
 
+Each of the values and remote work competencies have a knowledge assessment in the relevent section of the handbook that you can take to self assess your current level of understanding. 
+
 ### Values Competencies
 1. [Collaboration](/handbook/values/#collaboration-competency)
 1. [Results](/handbook/values/#results-competency)
