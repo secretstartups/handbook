@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Custom Support Assisted Customer Requests
-category: Runbook - Custom requests
+title: Support Assisted Customer Requests
+category: References
 ---
 
 - TOC
@@ -9,12 +9,22 @@ category: Runbook - Custom requests
 
 ## Overview
 
-This runbook purpose is to provide a simple to use document with the steps to perform before, during, and after the scheduled customer work.
-Custom support assisted customer requests refers to any action which requires the creation of scripts to complete the action which otherwise wouldn't be possible to do within the platform.
+At times Support may be called on to assist customers in requests which require taking actions that wouldn't be possible within the normal structure of
+the application. 
+
+For example:
+ - migrating a set of users from one identity provider to another
+ - bulk removing 2FA from a set of users
+
+The purpose of this workflow is to demonstrate the structure of a runbook that includes the steps required before, during, and after scheduled customer work.
+
+A **runbook** is an internal document that details how to handle a particular situation in detail. It is highly technical and aimed at the IC doing the action.
+
+
 
 ## Project to store runbooks
 
-The runbooks will be store in an issue in the [runbook project](https://gitlab.com/gitlab-com/support/runbooks/-/issues)
+The runbooks will be stored in an issue in the [runbook project](https://gitlab.com/gitlab-com/support/runbooks/-/issues)
 Due to the nature of the information on the runbook, the contents will be `confidential`.
 
 ## Runbook structure
@@ -34,12 +44,12 @@ Runbook name:
 
 #### Runbook name
 
-A name from the runbook, for best practices we can use: `CUSTOMER` - `REQUESTED TASK`
-So for Acme requesting us to enforce 2FA on all of their groups. the name should be: 
-Acme - Enforce 2FA on All groups
+A name from the runbook. Please use the format: `CUSTOMER` - `REQUESTED TASK`
+So for Acme requesting us to enforce 2FA on all of their groups the name would be: 
+`Acme - Enforce 2FA on All Groups`
 
 #### Runbook description
-A small summary of the work to be done, also including the expected goal from the task.
+A small summary of the work to be done, including the expected result from the task.
 
 #### DRI
 The owner of the task and main contact for schedule and execution.
@@ -74,7 +84,7 @@ This table is optional but a useful element to have to increase the efficiency d
 
 Mark the item if completed otherwise provide details which prevents it.
 
-- [ ] Inform on `#support_gitlab-com` or `#support_self-managed` and `#support_manager` slack channel about the work to be done with a runbook link
+- [ ] Inform  `#support_gitlab-com` or `#support_self-managed` and `#support_manager` Slack channel about the work to be done with a runbook link
 
 - [ ] Verify that any rollback plan can be execute by an engineer from every region
 
