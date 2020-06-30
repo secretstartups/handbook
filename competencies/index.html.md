@@ -97,7 +97,7 @@ Remote Work Competencies are defined by role: team member or people leader. Team
 1. [Iteration](https://about.gitlab.com/handbook/values/#iteration-competency)
 1. [Transparency](/handbook/values/#transparency-competency)
 
-Take this [Knowledge Assessment](/handbook/values/#gitlab-values-certification) to become certified in the [CREDIT](/handbook/values/#credit) values. Check out [additional details](/handbook/values/#gitlab-values-certification).
+Take this [Knowledge Assessment](/handbook/values/#gitlab-values-certification) to become certified in the values.
 
 #### Remote Work Competencies 
 1. [Manager of One](https://about.gitlab.com/handbook/leadership/#managers-of-one)
