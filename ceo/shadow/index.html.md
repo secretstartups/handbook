@@ -176,9 +176,9 @@ Exceptional community members may be able to participate, as well.
 | 2020-07-06 | 2020-07-10 | NO SHADOWS - PTO | NO SHADOWS - PTO |
 | 2020-07-13 | 2020-07-17 | [David DeSanto](https://gitlab.com/ddesanto) - Director of Product, Secure & Defend | [Hila Qu](https://gitlab.com/hilaqu) - Director of Product, Growth |
 | 2020-07-20 | 2020-07-24 | NO SHADOWS - PERSONAL  | NO SHADOWS - PERSONAL |
-| 2020-07-27 | 2020-07-31 | AVAILABLE - REMOTE | [David DeSanto](https://gitlab.com/ddesanto) - Director of Product, Secure & Defend |
+| 2020-07-27 | 2020-07-31 | [Tim Rizzi](https://gitlab.com/trizzi) - Sr. Product Manager, Package | [David DeSanto](https://gitlab.com/ddesanto) - Director of Product, Secure & Defend |
 | 2020-08-03 | 2020-08-07 | NO SHADOWS - PTO | NO SHADOWS - PTO |
-| 2020-08-10 | 2020-08-14 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2020-08-10 | 2020-08-14 | [Tim Rizzi](https://gitlab.com/trizzi) - Sr. Product Manager, Package | AVAILABLE - REMOTE |
 | 2020-08-17 | 2020-08-21 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2020-08-24 | 2020-08-28 | AVAILABLE - REMOTE | AVAILABLE - REMOTE | 
 | 2020-08-31 | 2020-09-17 | NO SHADOWS - PERSONAL  | NO SHADOWS - PERSONAL | 
