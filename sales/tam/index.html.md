@@ -16,8 +16,8 @@ Total Addressable Market is the annual revenue opportunity of the entirety of Gi
 | 2013 | Enthusiasts | 1m | $20 | 20m |
 | 2015 | Developers | 20m | $100 | 2b |
 | 2019 | DevSecOps | 41m<sup>1</sup> | $350 | 14b |
-| 2023<sup>2</sup> | Full platform | 60m | $1188 | 49b |
-| 2030<sup>2</sup> | Software<sup>3</sup> | 100m+ | $1188 | 100b+ |
+| 2023<sup>2</sup> | Full platform | 41m<sup>1</sup> | $1188 | 49b |
+| 2025<sup>2</sup> | Entire process | 60m<sup>3</sup> | $1188 | 71b |
 
 <sup>1</sup>22m developers ([from IDC](https://www.idc.com/getdoc.jsp?containerId=US44363318)) plus security and operations
 
