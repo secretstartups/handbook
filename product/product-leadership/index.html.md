@@ -36,12 +36,12 @@ This group can be referenced in GitLab.com issues using the `@gl-product-plt` ha
 
 ## Product Leadership ReadMe's
 
-* [Scott Williamson's README](scott-williamson.html)
-* [Jeremy Watson's README](jeremy-watson.html)
-* [Eric Brinkman's README](eric-brinkman.html)
+* [Scott Williamson's README](/handbook/product/readme/scott-williamson.html)
+* [Jeremy Watson's README](/handbook/product/readme/jeremy-watson.html)
+* [Eric Brinkman's README](/handbook/product/readme/eric-brinkman.html)
 * [Kevin Chu's README](https://gitlab.com/kbychu/README)
 * [Kenny Johnston's README](https://gitlab.com/kencjohnston/README)
-* [Tim Hey's README](tim-hey.html)
+* [Tim Hey's README](/handbook/product/readme/tim-hey.html)
 * [Jason Yavorska's README](https://metaluna.io/plan)
 
 ## Product Manager/Leader Collaboration
