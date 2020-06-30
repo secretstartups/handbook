@@ -11,7 +11,7 @@ title: "Iteration"
 
 ## Overview
 
-In order to provide the changes in an [iterative](https://about.gitlab.com/handbook/values/#iteration) and [incremental manner](https://about.gitlab.com/handbook/product/#iteration), complex changes should be [split into smaller ones](https://about.gitlab.com/handbook/values/#make-small-merge-requests) to simplify the review process. As a result, more people are involved in the particular feature development as a whole that helps to receive [diverse](https://about.gitlab.com/handbook/values/#diversity-inclusion) feedback. Meanwhile, fewer people are involved in one particular merge request that makes the [collaboration](https://about.gitlab.com/handbook/values/#collaboration) more effective and scoped to a particular piece of functionality.
+In order to provide the changes in an [iterative](https://about.gitlab.com/handbook/values/#iteration) and [incremental manner](https://about.gitlab.com/handbook/product/product-principles/#iteration), complex changes should be [split into smaller ones](https://about.gitlab.com/handbook/values/#make-small-merge-requests) to simplify the review process. As a result, more people are involved in the particular feature development as a whole that helps to receive [diverse](https://about.gitlab.com/handbook/values/#diversity-inclusion) feedback. Meanwhile, fewer people are involved in one particular merge request that makes the [collaboration](https://about.gitlab.com/handbook/values/#collaboration) more effective and scoped to a particular piece of functionality.
 
 ## How to split a merge request
 
