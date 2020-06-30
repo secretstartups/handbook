@@ -59,7 +59,7 @@ Below is a list of the different technical skill sets found on the Sales System 
 2.  You have access to a personal [SFDC Dev Sandbox](https://gitlab.my.salesforce.com/07E?retURL=%2Fui%2Fsetup%2FSetup%3Fsetupid%3DDeploy&setupid=DataManagementCreateTestInstance).
 3.  Your SFDC Dev Environment is correctly pointed at your SFDC Dev Sandbox
 4.  You have cloned our [Git repository](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src) into your local Sandbox working directory.
-5.  You are working from a GitLab issue with clear technical specifications that deliver on the agreed business requirmenets.
+5.  You are working from a GitLab issue with clear technical specifications that deliver on the agreed business requirements.
 
 **Change Managment Steps:**
 1.  Make sure you start on branch master and `git pull`.
