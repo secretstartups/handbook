@@ -1,0 +1,110 @@
+---
+layout: handbook-page-toc
+title: "Handbook Style Guide"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Introduction
+
+GitLab's general communications practices are detailed at [GitLab Communication](/handbook/communication/), but beyond those we do have some channel-specific guidance available. This page is for Handbook-specific guidance that does not necessarily apply to the company overall or to other specific channels such as [GitLab Documentation](https://docs.gitlab.com/) or the [GitLab Blog](/blog/).
+
+In the absence of Handbook-specific guidance, you can't go wrong by following GitLab's [Writing Style Guidelines](/handbook/communication/#writing-style-guidelines) and [Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide.html). The GitLab Documentation site also offers a list of [topic-specific style guides](https://docs.gitlab.com/ee/development/contributing/style_guides.html).
+
+So what is style? Is it aesthetics? Information architecture? Interaction design? Technical implementation conventions? It can be all of these things, but we'll start this style guide with some information about common elements and tasks.
+
+## Headings
+
+Content headings should be descriptive enough to suggest their corresponding content when they or corresponding fragment identifiers are seen out of context.
+
+Content headings should be second-level headings and below. First-level headings are reserved for page titles.
+
+Fragment identifiers are automatically generated from most headings. Keep that in mind when choosing your headings.
+
+## Capitalization
+
+### Use Title Case for Titles and Headings
+
+Handbook content currently uses both `Title Case` and `Sentence case` for titles and headlines. While sentence case can be a nice design option, title case can actually convey important information independent of punctuation, typographic emphasis, or additional descriptive text—it says _this text is the name of something_ all by itself. That might seem obvious from the styling of a title or a heading, but it isn't obvious in references from other contexts, such as links from other pages, of which there are _many_ in the Handbook. Thus, title case should be preferred over sentence case for Handbook titles and headings. Note that the GitLab Blog [uses sentence case](/handbook/marketing/corporate-marketing/content/editorial-team/#case), but that is a different context and the Blog is not as reference-heavy as the Handbook.
+
+### Capitalize Brand Names
+
+Brand names such as "Apple" and "Slack" are proper nouns, so they should usually be capitalized. If a brand name uses unusual capitalization, as in "eBay" and "VMware", then follow the brand's convention.
+
+### Use Kebab Case for File and Directory Names
+
+For easy reading, easy typing, and consistency use kebab case—lowercase letters with hyphens between words—for all file and directory names unless you have a specific reason for doing otherwise (e.g., due to a programming convention for which underscores are preferred or because a file is primarily intended for download and you want it to have a certain name when downloaded).
+
+See [URL Guidelines](#url-guidelines) for more information about best practices for URLs.
+
+## Links
+
+### Link Guidelines
+
+<!-- blank line -->
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/ZGqLlrnZXw0" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+*In the [GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq7QUX-Ux5fOunQotqJbECc) video above, GitLab's [Shane R.](https://gitlab.com/shanerice) explains the importance of cross-linking and re-using links on `about.gitlab.com` to build authority and contribute to a single source of truth.*
+
+Links from the Handbook should conform to a few general guidelines:
+
+* Linked text should describe the content to which the link leads. A page title or description is usually a good choice and preferable to something like "this" or "here".
+* Link URLs should not result in unnecessary redirection. HTTP redirection (e.g., via [redirect.rb](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/lib/redirect.rb) and [redirects.yml](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/redirects.yml)) can be helpful, especially for handling external links and bookmarks, but it is better for link and bookmark reliability (and sometimes loading speed) to skip redirection whenever possible.
+* Link URLs should not specify default file names or extensions unless excluding them would result in redirection. Overly specific link URLs are more likely to break in response to future changes.
+* Same-site links should use root-relative URLs, not absolute URLs or document-relative URLs.
+* Same-_page_ URLs should just be fragment identifiers (e.g., `#link-guidelines`).
+
+See [Understanding Absolute and Relative URLs](#understanding-absolute-and-relative-urls) for more information about each type of URL.
+
+## URLs
+
+### URL Guidelines
+
+In general, Handbook URLs should describe their content and be as clean and easy to remember as feasible. Unless there is a good reason for formatting URLs otherwise (e.g., language conventions or technical limitations), they should be entirely lower case, any two words should be separated by a single hyphen, and ampersands should be replaced by "and", _not_ an additional hyphen.
+
+Files and directories should _never_ be given names that differ from the names of other files or directories in the same location only by letter case. Case-sensitive file systems allow such naming, but our source code is shared with people using various different file systems, including case-_insensitive_ file systems, upon which the mere existence such similarly named files in a repository can cause problems. For example, new macOS systems use case-insensitive APFS by default and on those systems Git can end up alternately showing two differently-capitalized files as modified when no changes have actually been made to either.
+
+### Understanding Absolute and Relative URLs
+
+When you’re adding or editing links in the Handbook (or really, _anywhere_ on the marketing site) please keep in mind that root-relative URLs are preferable for our same-site links.
+
+Absolute URLs are the ones that look like this:
+
+```
+https://about.gitlab.com/handbook/
+```
+
+With absolute URLs links always load the _live_ version of the site—even when run from a development, testing, or staging context. They're great for sharing URLs via Slack, issue and merge request comments, email, and social media, but _not_ for same-site links.
+
+Document-relative URLs are the ones that look like this:
+```
+../product/technical-writing/
+```
+
+With document-relative URLs links can break when either a linking document or a linked document is moved separately from the other document. These kinds of URLs can be great for maintaining relationships between documents in different contexts, but links that use this kind of URL are best managed by automated systems that won't forget to update them.
+
+Root-relative URLs, _the kind we prefer for use in the Handbook_, look like this:
+
+```
+/handbook/communication/
+```
+
+With root-relative URLs same-site links can work properly during local development and testing, during automated tests and staging, and on the live site. And unlike with links that use document-relative URLs, moving a document won't break its same-site links to other pages that do not move with it.
+
+## Related Resources
+
+* [GitLab Communication](/handbook/communication/)
+* [Blog style guide](/handbook/marketing/growth-marketing/content/editorial-team/#blog-style-guide)
+* [GitLab Documentation guidelines](https://docs.gitlab.com/ee/development/documentation/)
+  * [Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide.html)
+* [Style guides](https://docs.gitlab.com/ee/development/contributing/style_guides.html)
+* [Pajamas Design System](https://design.gitlab.com/)
+* [Markdown Guide](/handbook/markdown-guide/)
