@@ -1,0 +1,73 @@
+---
+layout: handbook-page-toc
+title: "Slack Integrations"
+---
+
+- TOC
+{:toc}
+
+## Overview
+
+For several smaller automations we use integrations with Slack. On this
+page you can find an overview of all the integrations we've set up. Most
+of these integrations use a Slack bot named `PeopleOps Bot`.
+
+#### Anniversary announcements
+
+A scheduled pipeline is configured to automatically send a message
+congratulating all team members celebrating a work anniversary that week to the
+Slack channel `#team-member-updates`. The message will contain list of all such
+team members and the number of years they are celebrating at GitLab.
+
+Currently, the pipeline is scheduled to be run at 10:00 AM UTC on every
+Thursday.
+
+#### New hire announcements
+
+A scheduled pipeline is configured to automatically send a message containing a
+list of all new team members who are joining GitLab in the following week. It
+includes details like name, email address, joining date, and their job title.
+The message also includes a link to a [Sisense chart](https://app.periscopedata.com/app/gitlab/503779) containing a
+detailed breakdown and overview of the hiring process over time.
+
+While we create this message, we check if there are any team members that have
+"missing data". When they do, the message, is sent to `#peopleops-alerts`. This
+way, the People Experience associate, can make sure the data is added and run the
+following command to re-run the pipeline:
+
+```
+/pops run joiningannouncement
+```
+
+When there is no missing data, the message is posted directly to `#team-member-updates`.
+
+Currently, the pipeline is scheduled to be run at 08:00 AM UTC every
+Thursday.
+
+#### Informing People Experience Associates about details missing in BambooHR for upcoming new hires
+
+For the new hire announcements to be accurate, it is required to ensure the
+BambooHR details of team members joining the following week is as complete as
+possible. To help PeopleOps team in this task, another scheduled pipeline is
+run to verify if the BambooHR details of all incoming team members is complete.
+This pipeline notifies Since People Experience Associates in `#peopleops-alerts` channel
+about people whose details are missing and the details that are missing for each
+person.
+
+Since People Experience Associates should have enough time to fix these missing
+details before new hire announcements are sent, it is necessary this job should
+be run an adequate amount of time before the new hire announcements job is run.
+Currently, the pipeline is scheduled to be run at 02:00 PM on every Wednesday.
+
+### Offboarding sheet
+
+There's a Google sheet that keeps track of team members that need to be offboarded.
+The integration checks daily if anyone needs to be offboarded today or tomorrow. When
+ people need to be offboarded, it will post a message saying so with a link to that
+ Google Sheet. This is posted to the private Slack channel `people_exp_ops` with no
+ personal information in the message.
+
+### Onboarding survey
+Onboarding survey: whenever a team member fills in the onboarding survey, the form entrance
+is put into a slack message to the private Slack channel `onboarding-survey`. This way the
+People Experience team can discuss and take action.

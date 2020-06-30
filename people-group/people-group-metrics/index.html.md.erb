@@ -1,0 +1,185 @@
+---
+layout: handbook-page-toc
+title: "People Group Metrics"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Reporting
+
+All People Group Metrics are being moved from manual calculation to an automated calculation of KPIs through Sisense (formerly Periscope).
+
+## Average Location Factor
+
+The average location factor of all team members per department or division. The location factor directly correlates to geographical area in the [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator). The company wide average location factor target is < 0.65. Each division and department also has their own average location factor target.
+<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 6238450, dashboard: 482006, embed: 'v2') %>">
+
+
+|   Division  |   Target  |
+| ----------- | --------- |
+| Engineering |   0.58    |
+| G&A         |   0.69    |
+| Marketing   |   0.72    |
+| Meltano     |   0.67    |
+| Product     |   0.72    |
+| Sales       |   0.72    |
+|**Grand Total** |  **0.65**   |
+
+|   Department  |   Target  |
+| ----------- | --------- |
+| Accounting  |   0.68       |
+| Brand & Digital Design | 0.80 |
+| Business Development   |   0.82    |
+| Business Operations |   0.70    |
+| CEO         |   1.00    |
+| Channel   |   0.86    |
+| Commercial Sales     |   0.69    |
+| Community Relations | 0.66 |
+| Consulting Delivery | 0.74 |
+| Corporate Marketing       |   0.79    |
+| Customer Success       |   0.69    |
+| Customer Support       |   0.61    |
+| Demand Generation       |   0.67    |
+| Development      |   0.54    |
+| Digital Marketing       |   0.80    |
+| Education Delivery | 0.74 |
+| Enterprise Sales       |   0.74    |
+| Field Marketing       |   0.71    |
+| Field Operations      |   0.89    |
+| Finance       |   0.73    |
+| Infrastructure       |   0.58    |
+| Legal                |   0.69    |
+| Marketing Ops       |   0.71    |
+| People      |   0.72    |
+| Practice Management | 0.74 |
+| Product Management     |   0.72    |
+| Product Marketing       |   0.79    |
+| Product Strategy | 0.72 |
+| Quality      |   0.58    |
+| Recruiting      |   0.62    |
+| Security      |   0.66    |
+| UX      |   0.63    |
+|**Grand Total** |  **0.65**   |
+
+## Percent Over Compensation Band
+
+This metric is manually calculated by the Total Rewards Team. This metric will be moved to Periscope once the Total Rewards team can use Compaas as the single source of truth for reporting purposes.
+
+The Total Rewards Analysts will analyze against how many team members in a division or department are compensated above the bands specific by our [Global Compensation](/handbook/total-rewards/compensation/#compensation-principles) policy. To determine this, use the "In Range? (Metrics)" column from the Low Location Factor Reporting and generate a pivot table using a count of "FALSE" per department and division. Add this information to the "Location Factor Graphs/Summary" tab to generate a percentage based on total headcount per department and division as well as the raw number. The number can help explain the percentage if a department or division is small, for example.
+
+The percent over compensation band cap is <= 1%.
+
+**Weight of Percent Over Compensation Band**:
+
+| % Over Top End of Comp Band | Weighting |
+|-----------------------------|-----------|
+| 0.01% to 4.9%               | 0.25      |
+| 5% to 9.9%                  | 0.5       |
+| 10% to 14.9%                | 0.75      |
+| 15%+                        | 1         |
+
+The purpose of weighting how far over someone is from compensation band is to ensure if there are those over comp band slightly, they are not held at the same level as those hired well over range.
+
+## Onboarding Satisfaction (OSAT)
+
+The Onboarding Satisfaction (OSAT) Survey allows new team members to provide feedback around their Onboarding and Onboarding Buddy experience within thirty days of joining GitLab.
+The Onboarding Satisfaction target is currently > 4.5 and is measured against month of hire as opposed to month of survey completion.
+View the Onboarding Satisfaction (OSAT) Survey [here](https://docs.google.com/a/gitlab.com/forms/d/e/1FAIpQLSdU8qxThxRu3tdrExFGBJ1GlyucCoJj2kDpcvOlM4AiRGOavQ/viewform).
+Read more about [how we measure satisfaction at GitLab](/handbook/business-ops/data-team/metrics/#satisfaction).
+
+<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 6873595, dashboard: 482006, embed: 'v2') %>">
+
+## Onboarding task completion < X (TBD)
+
+Tracking the days it takes to complete onboarding task completion from the day the onboarding task is open to the day all People Group tasks are complete on the onboarding task. The target is still to be determined.
+
+## Ship X% of work scope within agreed timeframe
+
+Ensuring the timeframe that is set for each specific work scope is met.
+
+## Proposals defined for each issue = 100%
+
+Triaging issues in the [People Operations Engineering Issue Tracker](https://gitlab.com/gitlab-com/people-group/people-operations-engineering) and ensuring they are ready for development.
+
+## Team Members
+
+For calculating KPIs we define Team Members on the date measured as the number of full time equivalent employees or contractors who are providing services to GitLab and are listed on our Team page.
+Excluded from this category are board members, board observers, core team members, and advisors.
+The canonical source of truth of the number of team members comes from BambooHR.
+
+## Team Member Voluntary Turnover
+
+Voluntary turnover is any instance in which a team member actively chooses to leave GitLab. GitLab measures voluntary turnover over a rolling 12 month period, as well as over a calendar month.  (The default period is over a rolling 12 month period.) The rolling 12 month voluntary team member turnover cap is < 10%. In order to achieve the rolling 12 month voluntary team member turnover cap, the monthly voluntary team member turnover cap is < 0.83% (10/12). The data is housed in BambooHR.
+
+Rolling Voluntary Team Member Turnover = (Number of Team Members actively choosing to leave GitLab/Average Total Team Members Count) x 100
+
+Industry Standard Turnover is [22% overall](https://radford.aon.com/insights/infographics/2017/technology/q1-2017-turnover-rates-hiring-sentiment-by-industry-at-us-technology-companies): 15% voluntary and 7% involuntary for software companies.
+
+<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 6873851, dashboard: 482006, embed: 'v2') %>">
+
+
+## Team Member Retention
+
+Team Member Retention = (1-(Number of Team Members leaving GitLab/Average of the 12 month Total Team Member Headcount)) x 100
+
+GitLab measures team member retention over a rolling 12 month period, as well as over a calendar month. (The default period is over a rolling 12 month period.) The 12 month team member retention target is > 84%.   In order to achieve the rolling 12 month team member retention target, the monthly team member total turnover target is < 1.3% (16/12). The data is housed in BambooHR.
+
+Retention is calculated in [Periscope](https://app.periscopedata.com/app/gitlab/482006/People-KPIs?widget=6251791&udv=904340).
+
+## Spend Per Team Member
+
+The spend per team member metric is intended to track variances across the company in compensation, discretionary bonuses, promotions, and involuntary attrition. This metric does not have an associated goal as the purpose is not to reduce costs, but instead understand the early indicators of something going wrong or what may be going well. Consistency should be the key evaluator of the KPI.
+
+The spend per team member monthly metrics can be found in the `Spend Per Team Member` folder on the google drive which is accessible to the [Total Rewards](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group) team, [Compensation Group](/handbook/total-rewards/compensation/#gitlabs-compensation-principles), and the associated Financial Planning and People Business Partner team. Access is limited as these documents contain sensitive, confidential data.   
+
+### Promotions
+
+* Run the Promotions/Transfers report from BambooHR. Change the Showing from Active to All.
+* Set the conditional formatting on the Compensation Change Reason to highlight "Promotion"
+* Separate out all data in the month of the review to add to the rolling 12 month totals
+* Add columns for the Amount of USD change per year, and the percent increase by determining the values using the record in BambooHR.
+* Determine the Promotions Spend Summary by including Rolling 12 Month Payroll Spend (base salary and bonuses), and Average Percent Increase
+* Filter this information by Division, Gender, and Ethnicity by creating pivot tables.
+  * For the Divisional breakdown, Rolling 12 Month Payroll Spend (salary and bonuses), and Average Percent Increase.
+  * For Gender and Ethnicity, the pivot table should calculate the count of those promoted. In a column to the right of the pivot table, use the [Identity Data](/company/culture/inclusion/identity-data/) to determine what percent of the population was promoted.
+
+### Transfers
+
+* Run the Point in Time Report from BambooHR with the following columns: "Employee Name" "Employee #" "Division" "Department" "Job Title" as of the start of the month
+* Run the same report with the end of the month.
+* Remove the data from the month no longer part of the rolling 12 month period.
+* Add Columns in for Division Match,	Department Match,	Job Title Match and Filter by which line items are false based on the two reports
+* Add all Transfers to the "Transfer Analysis Tab" and add the Effective Date by looking it up in the job information table in BambooHR.
+* Exclude any data related to organizational moves that the person had no control over. For example, the recruiting department being separated out of People Ops is not a transfer for internal mobility into new roles.
+* Create a pivot table to outline the number of transfers into the division in the last rolling 12 months. Add a line for the headcount as of the last day of the rolling 12 month period. Add one more line to take the percentage of transfers into the department.
+
+TODO Next iterations: Outline divisions those are transferring out of, generate a way to analyze compensation implications of transfers (Difficult to report since not all transfers come with a comp change).
+
+### Compensation
+
+1. Generate a chart for the compa ratio distribution by Division.
+  * Using the "Comp Data Analysis & Modeling" Google spreadsheet, copy over the employee ID, first name, last name, and Comp Compa Ratio columns.
+  * Using a vlookup, add the division to the report for filtering.
+  * Create a pivot table to take the average compa ratio based on Division.
+1. Determine the Total Target Compensation (inclusive of OTE) as of the end of the month
+  * Using the BambooHR report, take the max of the USD OTE and Annual USD column.
+  * Create a pivot table to sum the values by division.
+  
+## Performance Management
+
+This PBP team will work on updating this as a Performance Indicator / revisiting the content. 
+
+1. Measure the variance of [PIPs](/handbook/underperformance/#performance-improvement-plan-pip) at GitLab.
+  * Run the Employment Status History Report from BambooHR.
+  * Sort by Employment Status and filter to "PIP"
+  * Use the count function to determine the "Total Number of PIPs at GitLab"
+  * Add the following information to the table: PIPs in last rolling 12 months, Number of PIPs Successfully completed, Number of PIPs resulting in a termination
+  * Comment on any takeaways based on the data.
+
+We should strive for a PIP success rate of 50% or more.
+This indicates that we identity underperformance early when it is easier to remediate than later.
+It also indicates to our team members a PIP means we still believe in them and want to make them successful, it isn't a one way street to job termination.
