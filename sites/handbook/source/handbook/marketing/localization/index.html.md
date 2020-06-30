@@ -16,6 +16,21 @@ GitLab is a global company that does business around the world. In order to best
 
 Our current localization capablities are limited due to resources and bandwidth. Currently, we are focused on translating content that aligns to our P0 countries. Additionally, we are enabling our field marketing teams to get lighweight translations that don't require internal development or design resources. 
 
+### Internal Reviews
+
+To ensure translated content makes contextual and technical sense, we have internal native language speakers review the content. Internal reviewers **are expected** to review content for accuracy and quality and identify small mistakes made by the translator. Internal reviewers **are not expected** to copyedit or rewrite documents. If the quailty of a translated document is poor and needs to be written, the reviewer should stop reading and let the requestor know that the translation is not usable and provide a reason why. The requestor should provide this feedback to the translator. 
+
+#### Process for requesting a review
+
+1. Open a translation review request 
+1. Complete all requested fields in the issue
+
+| Language | Reviewers |
+| ------ | ------ |
+| French | cell |
+| German | @amimmo |
+| Japanese | @toshitakaito |
+
 ### Priority Countries
 
 #### P0: Countries that provide the most opportunity for GitLab
