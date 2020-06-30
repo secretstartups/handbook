@@ -1,0 +1,263 @@
+---
+layout: handbook-page-toc
+title: "Board of Directors and Corporate Governance"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+{::options parse_block_html="true" /}
+
+## Corporate Governance Documents
+
+1. [Amended and Restated Bylaws of GitLab Inc. (January 31, 2019)](/handbook/board-meetings/bylaws.html)
+
+## Board and Committee Composition
+
+* [Board of Directors Job Description](/job-families/board-of-directors/board_member/)
+
+### Board of Directors
+
+**Members:** Sid Sijbrandij, Bruce Armstrong, Matthew Jacobson, David Hornik, Sue Bostrom, Karen Blasing, Godfrey Sullivan
+
+### Audit Committee
+
+* **Chairperson:** Karen Blasing
+* **Members:** Bruce Armstrong, David Hornik
+* **Management DRI:** Chief Financial Officer
+   
+   *[Audit Committee Charter]((https://about.gitlab.com/handbook/board-meetings/committees/audit/))
+
+### Compensation Committee
+
+* **Chairperson:** Sue Bostrom
+* **Members:** Bruce Armstrong, Matthew Jacobson
+* **Management DRI:** Chief People Officer
+   
+   *[Compensation Committee Charter](https://about.gitlab.com/handbook/board-meetings/committees/compensation/)
+
+### Nominating and Corporate Governance Committee
+
+* **Chairperson:** Matthew Jacobson
+* **Members:** Sid Sijbrandij, Sue Bostrom
+* **Management DRI:** Chief Legal Officer
+   
+   *[Nominating and Corporate Governance Committee Charter](https://about.gitlab.com/handbook/board-meetings/committees/nomgov/) 
+
+## Location
+
+The board meeting is [all remote](/company/culture/all-remote/) because hybrid is a bad experience for remote participants, see [video calls](/handbook/communication/#video-calls) point 10.
+
+## Board Meeting Schedule
+1. Board of Directors meetings are held quarterly and they are all remote; everyone joins with their own video conference setup from a separate location.
+1. Meetings are scheduled on the Thursday 6 weeks after the end of the quarter, assuming availability of the Directors.
+1. The 2020/2021 schedule of Board meetings is as follows:
+* 2020-03-05
+* 2020-06-04
+* 2020-09-09
+* 2020-12-08
+* 2021-03-18
+* 2021-06-17
+* 2021-09-21
+* 2021-12-14
+
+The Staff EBA to the CEO shall ensure that there are separate calendar invites for all attendees within each session, all including exact session start and end times, the appropriate Zoom link, and links to the notes doc, agenda and any supplemental materials:
+* Board of Directors Meeting - General Session
+   * Duration: 2 hours
+   * Attendees: GitLab Board of Directors, E-Group, GitLab team members participating in the deep dive, outside legal firm representatives, Board observers
+* Session 2: Administration Session
+   * Duration: 25 - 50 minutes, as needed
+   * Attendees: GitLab Board of Directors, GitLab CFO and CLO, outside legal firm, Board observers
+* Session 3: Closed Session
+* Duration: 50 minutes
+   * Attendees: GitLab Board of Directors
+
+## Board Meeting Process
+
+### Timeline
+
+1. The Staff EBA to the CEO is the DRI for scheduling the Board meetings and E-Group debrief meetings and updating the dates on this page.
+1. The Chief of Staff (CoS) is the DRI for assembling the deck and sends a reminder to the E-Group and EBA team 4 weeks in advance of the meeting with the templates for the materials to be created.
+1. The CoS reaches out before the meeting to collect questions from the board members and prepares and shares the agenda.
+1. The CoS sends another reminder to the E-Group 2 weeks in advance of the meeting.
+1. The E-Group has the complete presentations ready 8 days prior to the meeting.
+1. Eight days before the meeting, the CoS submits all materials to Legal and Finance for review.
+1. Once approved, the CoS distributes the Board materials 7 days before the meeting. All presentations and content should be finalized at this time with no further changes. The Staff EBA to the CEO is responsible for sharing settings on all materials. Materials should be shared with the E-Group, the `board@` alias, Board Observers, and the outside legal firm. Any exceptions must be confirmed by the Staff EBA to the CEO before shipping.
+1. The CFO is the DRI for the Administrative deck and will share this with the CLO and Staff EBA to the CEO at least 1 week before the board meeting and then with the Board 4 business days prior to the Board meeting.
+1. The day before the meeting, the Staff EBA to the CEO ensures that the Introduction section of the agenda is up to date with the latest attendees.
+1. The CoS is responsible for ensuring that the Board meeting runs according to the time allotted.
+1. The CLO is responsible for maintaining the minutes of the meeting and submitting for Board approval.
+1. The CLO ensures that PDF versions of the materials including presentations, exhibits, approved minutes, and administrative materials are securely stored on Google Drive labeled with the date of the meeting.
+
+#### Next Meeting's Timeline
+This section is updated after every Board Meeting by the CoS for the next Board Meeting
+
+1. Meeting is scheduled for 2020-09-09. The E-Group debrief meeting is scheduled for 2020-09-10.
+1. 2020-08-12 The CoS sends a reminder to the E-Group and EBA team 4 weeks in advance of the meeting. 
+1. 2020-08-19 The CoS reaches out before the meeting to collect questions from the board members and prepares and shares the agenda.
+1. 2020-08-26 The CoS sends another reminder to the E-Group 2 weeks in advance of the meeting.
+1. 2020-08-31 The E-Group has the complete presentation ready 9 days prior to the meeting.
+1. 2020-09-01 Eight days before the meeting, the CoS submits all materials to Legal and Finance for review.
+1. 2020-09-02 Once approved, the CoS distributes the Board materials 7 days before the meeting. The Staff EBA to the CEO is responsible for sharing settings on all materials. Materials should be shared with the E-Group, the `board@` alias, Board Observers, and the outside legal firm. Any exceptions must be confirmed by the Staff EBA to the CEO before shipping.
+1. 2020-09-08 The Staff EBA to the CEO ensures that the Introduction section of the agenda is up to date with the latest attendees.
+1. 2020-09-09 Board of Directors Meeting; CoS ensures the meeting runs according to the time allotted.
+1. 2020-09-10 The CLO ensures that PDF versions of the materials including presentations, exhibits, approved minutes, and administrative materials are securely stored on Google Drive labeled with the date of the meeting. The E-Group has a 50 minute debrief meeting.
+
+### Agenda
+
+1. We try to avoid presentations during meetings, but there are two presentations at all Board Meetings:
+   * 8 minutes for any deep dives
+   * 5-10 minutes during the Administrative Session for Board Committee readouts by the Committee Chairperson updating the Board as to the Committee’s activities and highlighting the items requiring Board approval, if any.
+1. Prior to distributing the board deck, the CoS groups questions together by function.
+1. After the General Session of the Board Meeting, there is then an "Administrative Session" attended by the CFO and CLO and the full Board (along with Observers).
+1. At the conclusion of the Administrative Session the CFO and CLO depart and the full Board shall meet for a closed session.
+
+### Board Deck
+
+1. The deck should highlight three key asks for board input within the meeting. Each ask should have a few key slides that provide historical context, current status, and plans for the future. 
+1. The deck will include one slide that provides an overview of the competitive landscape and another slide that identifies GitLab's top 3 R&D investments. 
+1. The deck should not exceed 10 slides per individual function, unless the function is scheduled to provide a deep dive.
+1. Each E-Group member may include 1 additional slide with their asks of the Board.
+1. Slides should convey a high-level overview as opposed to operational updates and should not include embedded links.
+1. Put information on public webpages such as [/strategy](/company/strategy/) as much as possible.
+1. Sensitive information goes into the Administrative deck managed by the CFO.
+
+#### Company Scorecard
+The CEO's presentation starts with 3 scorecard slides.  The goal of the scorecard is to quickly provide the Board of Directors an understanding of GitLab's top priorities and assess the prior quarter's performance.
+The DRI for the scorecard is the CEO, but should be reviewed by the E-Group as part of the OKR process.  
+The first slide will capture GitLab's [3 year strategy sequence](/company/strategy/#sequence). The 2 following slides will focus on a set of company-level OKRs for the upcoming quarter with a defined measurable outcome of success (forward looking) and grades for the prior quarter.
+The previous quarter OKRs will have 3 columns: 
+1. Strategic Category describing the objective of the OKR including IACV (go-to-market goals), Great Product and Great Team (corporate objectives) 
+1. Measurement of Success column describing the key results from the [company OKRs](/company/okrs/)
+1. Grades for the top OKRs of the prior quarter (backwards looking) with 'Green' meaning achieved stretch goal, 'Yellow' meaning within 30% of goal, and 'Red' meaning missing the goal by over 30%. This column should also have a summary of the actuals.
+
+The previous quarter OKR scorecard would look as follows:
+
+| Strategic Category |  Measurement of Success (EXAMPLES) | Grade / Achieved (EXAMPLES) |
+|----------------------------------------|-------------------|---------------------------------------------------------------------------------------|
+| IACV |  IACV = X, Pipeline = Y | Green - achieved IACV of X and pipeline goals of X |
+| IACV |  Improve sales efficiency to X | Red - achieved sales efficency of Y |
+| Popular Product | Increase SpU (Stages per User) by Y stages because using an extra stage triples conversion. | Yellow - shipped 1 out of 2 features only increased by x stages |
+| Great team | Increase company diversity.  X% of outbound sourcing directed toward diverse candidates | Green - achieved Y% of outbound sourcing| 
+
+The future quarter OKRs will have 2 columns: 
+1. Strategic Category describing the objective of the OKR including IACV (go-to-market goals), Great Product and Great Team (corporate objectives) 
+1. Measurement of Success column describing the key results from the [company OKRs](/company/okrs/)
+
+The future quarter OKR scorecard would look as follows:
+
+| Strategic Category |  Measurement of Success (EXAMPLES) | 
+|----------------------------------------|-------------------|
+| IACV |  IACV = X, Pipeline = Y | 
+| IACV |  Improve sales efficiency to X |
+| Popular Product | Increase SpU (Stages per User) by Y stages because using an extra stage triples conversion. | 
+| Great team | Increase company diversity.  X% of outbound sourcing directed toward diverse candidates |  
+
+### CEO Video and Memo
+
+The CEO is responsible for submitting both a memo and a video to the BoD in advance of the Board meeting. The memo should be 1.5-2 pages capturing the highlights across the organization for the quarter. The video should be in the style of an earnings call to give a general overview of what is and is not working. The CoS will upload the video to YouTube as an unlisted video and ensure both the video and the memo get distributed to the Board with the other materials.
+
+### Deep Dives
+
+Deep dives are the only functions with greater than 10 slides.
+Deep dives are 8-minute presentations followed by Q&A up to the 30 minute allotment.
+
+There will be two deep dives on the agenda for each board meeting:
+
+1. 30 minutes allotted to a single functional area on a rotational basis
+1. 30 minutes allotted to a topic(s) of strategic or operational importance to the Company
+
+The functional deep dive rotation schedule is as follows:
+* Product management and product strategy (2020-06)
+* Finance (2020-09)
+* Legal (2020-12)
+* Engineering (2021-03)
+* Sales (2021-06)
+* Marketing (2021-09)
+* People (2021-12)
+
+Functional deep dives cover the following:
+* Highlights over the last quarter (how we got here)
+   * Additional details on each highlight
+* Major wins (in case there's anything worth mentioning that is a win, but might not be a highlight)
+* Key challenges
+   * Additional details on each key challenge
+* Upcoming budget
+   * Budget overview
+   * Intent for budget
+   * Themes for investment
+* Initiatives and what to expect in the next quarter (peak to year)
+* OKRs
+   * Past quarter OKRs & Results
+   * Next quarter OKRs & Results
+* Function KPIs
+* Capabilities and org structure
+
+#### Sales Slides
+The Sales Slides should always include:
+1. An overview of segment and geographic success
+1. A sales overview including revenue, % of plan, growth versus last year and other key metrics
+
+#### Finance Presentation
+The Finance slides are as follows:
+1. Review past quarter and YTD: Bookings review (growth rates) / new/growth and by sales zone
+1. Review past quarter and YTD: P&L vs plan with commentary
+1. Review past quarter and YTD: Revenue deep dive
+1. Review past quarter and YTD: Gross Margin deep dive
+1. Review past quarter and YTD: Cash waterfall
+1. Forward looking: Rolling forecast that we will hold company accountable to in next quarter with commentary
+1. Forward looking: Cash projection through end of year
+1. Forward looking: LR plan adjustments with commentary
+1. Forward looking: Balance sheet projection to match the 4Q Forecast
+
+## Executive Stable Counterparts
+
+Every GitLab Executive, except the CEO, has a [Stable Counterpart](/handbook/engineering/infrastructure/library/organization/stable-counterparts/).
+The Board Member and Exec should meet at least once per quarter.
+The goal of codifying Board Member-Exec Stable Counterparts is to help build relationships between Execs and Board Members and maintain clear lines of communication outside of traditional methods, such as Board meetings.
+“Can you please give me your SWOT analysis of the market?”, “What are you seeing competitively in the field?”, “What interesting products are getting traction in our market?” are productive examples of questions from Board Members.
+
+| Executive (by start date) | Board Member |
+|------------------|--------------|
+| [Sid Sijbrandij](/company/team/?department=executive#sytse) | [Godfrey Sullivan](/company/team/?department=board#godfrey-s) |
+| [Paul Machle](/company/team/?department=executive#pmachle) | [Karen Blasing](/company/team/?department=board#karen-b) |
+| [Mark Pundsack](/company/team/?department=executive#markpundsack) | (Future Board Member) |
+| [Eric Johnson](/company/team/?department=executive#edjdev) | (Future Board Member) |
+| [Michael McBride](/company/team/?department=executive#mmcb) | [Bruce Armstrong](/company/team/?department=board#bruce-a) |
+| [Todd Barr](/company/team/?department=executive#tbarr) | [Sue Bostrom](/company/team/?department=board#sue-bostrom) |
+| [Scott Williamson](/company/team/?department=executive#sfwgitlab) | [Matthew Jacobson](/company/team/?department=board#matthewjacobson) |
+| [Robin Schulman](/company/team/?department=executive#rschulman) | [David Hornik](/company/team/?department=board#david-hornik) |
+| (Future Chief People Officer) | (Future Board Member) |
+
+## Quarterly AMA with the Board
+We will have one Board member per quarter conduct an AMA (Ask Me Anything) session with the GitLab team.  AMA’s are 25 minutes and live streamed to GitLab Unfiltered on YouTube. These AMA's are scheduled by the Staff EBA to the CEO. 
+* [David Hornik's AMA](https://www.youtube.com/watch?v=LwZNbF6_PX0%C2%A0)
+
+## Board Selection Process
+
+### Roles and Responsibilities
+* [Nominating and Corporate Governance Committee](/handbook/board-meetings/#nominating-and-corporate-governance-committee) - Collaborate on Board evolution. Provide recommendations for potential new GitLab BoD members; meet and vet potential new board members; provide feedback on candidates.
+* CEO and Selected Members of [E-Group](/handbook/leadership/#e-group) - Meet and vet potential new board members; provide feedback on candidates.
+* [CLO](/job-families/legal/chief-legal-officer/) - Nominating and Corporate Governance Committee DRI.
+* [CEO's Staff Executive Business Administrator](/job-families/people-ops/executive-business-administrator/) - DRI for Board and Committee scheduling.
+* [Manager, Recruiting Operations](/job-families/people-ops/recruiting-operations/) - Responsible for drafting communication to potential Board members. Email communication with Nominating and Corporate Governance Committee when questions arise or guidance is needed.
+
+### Interview Process
+
+#### Independent
+1. First meeting with the nominating board member;  50-minute meeting.
+1. CEO and Board members: 50-minute meetings.
+1. GitLab CRO, CFO, CLO and other E-Group members as requested.
+1. Any parties as requested by the candidate.
+
+## Board Renewal Process
+Assuming GitLab adopts a three class structure, a Director can belong to Class I, Class II or Class III. Some of our Directors will be in Class 1 and will be up for reelection as early as the first year the company is public, while other Directors will not be up for reelection until 2 or 3 years after the company is public. The decision as to which director is in which class is typically made close to when a company goes public. Various factors in making this determination are taken into consideration; for example, some VC Directors may prefer to leave the Board earlier in the public company lifecycle due to the number of commitments or requirements imposed by their respective funds.
+
+## References
+
+1. [AVC post](http://avc.com/2016/02/do-you-want-better-board-meetings-then-work-the-phone/)
+1. [AVC comment](http://avc.com/2016/02/do-you-want-better-board-meetings-then-work-the-phone/#comment-2489615046)
+1. [Techcrunch article](http://techcrunch.com/2016/02/01/1270130/)
