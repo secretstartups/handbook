@@ -472,7 +472,7 @@ To help with prioritization and decision-making process here, we recommend think
 
 Technical debt is prioritized like [other technical decisions](/handbook/engineering/#prioritizing-technical-decisions) in [product groups](/company/team/structure/#product-groups) by [product management](/handbook/product/product-management/process/#prioritization).
 
-For technical debt which might span, or fall in gaps between groups they should be brought up for a [globally optimzed](/handbook/values/#global-optimization) prioritization in [retrospectives](/handbook/engineering/management/team-retrospectives/) or directly with the appropriate member of the [Product Leadership team](/handbook/product/leadership/). Additional avenues for addressing technical debt outside of product groups are [Rapid Action issues](/handbook/engineering/development/#rapid-action-issue) and [working groups](/company/team/structure/working-groups/).
+For technical debt which might span, or fall in gaps between groups they should be brought up for a [globally optimzed](/handbook/values/#global-optimization) prioritization in [retrospectives](/handbook/engineering/management/team-retrospectives/) or directly with the appropriate member of the [Product Leadership team](/handbook/product/product-leadership/). Additional avenues for addressing technical debt outside of product groups are [Rapid Action issues](/handbook/engineering/development/#rapid-action-issue) and [working groups](/company/team/structure/working-groups/).
 
 ## UX debt
 
@@ -480,7 +480,7 @@ Sometimes features release to production without meeting design and [Pajamas](ht
 
 We apply the `UX debt` label to these issues, and it is prioritized like [other technical decisions](/handbook/engineering/#prioritizing-technical-decisions) in [product groups](/company/team/structure/#product-groups) by [product management](/handbook/product/product-management/process/#prioritization). You can see the number of UX debt issues on the [UX Debt dashboard](https://app.periscopedata.com/app/gitlab/641753/UX-Debt).
 
-As with [technical debt](#technical-debt), UX debt should be brought up for [globally optimized](/handbook/values/#global-optimization) prioritization in [retrospectives](/handbook/engineering/management/team-retrospectives/) or directly with the appropriate member of the [Product Leadership team](/handbook/product/leadership/).
+As with [technical debt](#technical-debt), UX debt should be brought up for [globally optimized](/handbook/values/#global-optimization) prioritization in [retrospectives](/handbook/engineering/management/team-retrospectives/) or directly with the appropriate member of the [Product Leadership team](/handbook/product/product-leadership/).
 
 ## Security is everyone's responsibility
 
