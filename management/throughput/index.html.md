@@ -35,8 +35,8 @@ labels, the highest one in the list takes precedence.
 - `~"Community contribution"`: A community contribution label takes precedence over other labels. Therefore, while the work may introduce a new feature or resolve a bug, we prioritize this label over others due to the importance of this particular category.
 You may use a second label such as `~bug` or `~feature` if you would like to add an additional identifier.
 - `~security`: Security-related MRs.
-- `~bug`: Defects in shipped code. Read more about [features vs bugs](/handbook/product/product-management/process/feature-or-bug.html)
-- `~feature`: Any MR that contains work to support the implementation of a feature and/or results in an improvement in the user experience. Read more about [features vs bugs](/handbook/product/product-management/process/feature-or-bug.html)
+- `~bug`: Defects in shipped code. Read more about [features vs bugs](/handbook/product/product-processes/#issues.html)
+- `~feature`: Any MR that contains work to support the implementation of a feature and/or results in an improvement in the user experience. Read more about [features vs bugs](/handbook/product/product-processes/#issues.html)
 - `~backstage`: This is a hard category but you can consider it the NOT of all the other labels. Better yet, it is the work we do to keep the product running smoothly or our own development running smoothly.
 Technical debt is under this category, though to keep the categories simple, we currently do not use the `~"technical debt"` label. Please use `~backstage` instead. Some examples of work that fit under this label:
   - Architecture: Refers to work improving the organization and structure of our code. E.g. MR Refactor, Componentizing the UI
