@@ -1,0 +1,1083 @@
+---
+layout: handbook-page-toc
+title: "Accounting and Reporting"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+This page contains GitLab's accounting and reporting policies, desktop procedures and guidelines. Our goal is to complete the monthly accounting close process within 10 business days from the last day of the month. Accounting and reporting process at GitLab is classified as enumerated below.
+
+
+## Quote to cash
+
+### Invoicing to customers
+
+** Calculated Billings**
+Calculated billings is defined as revenue plus the sequential change in total deferred revenue as presented on the balance sheet.
+
+We do not believe that calculated billings provides a meaningful indicator of financial performance as billings can be impacted by timing volatility of renewals, co-terming upgrades and multi year prepayment of subscriptions.
+
+For order approval and invoicing process please view the [Billing Ops page.](https://about.gitlab.com/handbook/finance/accounting/finance-ops/billing-ops/)
+
+**Invoicing: One Time Events**
+
+1. Send the below information via email to ar@gitlab.com
+    *  Company name
+    *  Company AP email
+    *  Address
+    *  Billing contact name
+    *  Billing contact email
+    *  Charge amount
+    *  Event name and subject
+
+**Amendments to Subscriptions**
+<a name="Amendments"></a>
+
+To amend a customer's account, choose one of the options below from the subscription page in Zuora.
+
+1. Terms and Conditions - used to change the end date of a product
+2. New Product - choose when adding a product
+3. Update a product - choose when making a change to a current product
+4. Remove a product - used when removing a product
+5. Renewal
+
+**Zuora Subscription Data Management**
+{: #zuora-sub-data-management}
+
+**Basic Assumptions**
+
+* Subscriptions should only be cancelled with 45 days of the start. Exceptions can be made (see [Support Workflows](/handbook/support/workflows/))
+* Subscriptions can be linked across multiple Zuora and SalesForce (SFDC) Accounts, but not SFDC Ultimate Parent Accounts.
+* All Zuora Accounts must be linked to a valid SFDC Account.
+* MRR can change historically due to customer behavior (renewals, cancellations, etc.)
+
+**New Accounts vs New Subscriptions**
+
+There are instances where a new account in Zuora is required rather than just a new subscription in an existing account. This is determined by the sold-to contact person.
+
+Within the customer account portal, customers can only see a single Zuora account at a time. If a customer wants to add a subscription and the contact information is the same, then the subscription can be added to the existing account.
+
+If a customer wants an additional subscription for a different sold to contact, then a new Zuora account will be created so that every sold to contact can log into the portal and manage their subscriptions.
+
+**Linking Renewal Subscriptions**
+
+When a customer renews their subscription, a new subscription is typically created. This can create challenges for calculating metrics like dollar retention for a subscription because once subscription has ended and another has started. To address this, a linkage is made between the original subscription and its renewal(s).
+
+The field `Renewal subscription` is used to create the mapping. These are the following constraints on this field:
+* This field defines a unidirectional relationship that points to a separate subscription name.
+* A renewal subscription can start on the same or future day as the original subscription start date to which it is linked to, but never in the past.
+* Any number of subscriptions can point to the same renewal subscription as long as the time constraint is met.
+* A subscription may have any number of renewal subscriptions that it points to as long as the time constraint is met. This is a one-to-many relationship. Each renewal subscription to which the original subscription is linked is input in the field and are separated by two pipes.
+  * For example, subscription [A-S00009093](https://www.zuora.com/apps/Subscription.do?method=view&id=2c92a0ff635c92e601635fdb126b3967) is linked to `A-S00009096 || A-S00009095`
+* Renewal subscriptions can point to subscriptions under separate Zuora Accounts
+* Renewal subscriptions can start 12 months or less after the original subscription. Practically, this is because a linkage of greater than 12 months has no effect on any relevant metrics (Retention or Yearly counts).
+
+The process to make the linkage is as follows:
+1. Cancel the old subscription in Zuora.
+1. Copy and paste the new subscription in "Renewal Subscription" field with no trailing spaces.
+
+### Zuora subscription status 'active'
+The active subscription status in Zuora needs to be reviewed in connection to the end date.
+If the end date is in the future it means that the subscription is still within the term and the customer is able to use the product.
+An ‘active’ subscription with an end date in the past means that the subscription was not renewed and the customer doesn’t have access to the product since the end date.
+We currently don’t actively cancel these subscriptions as this is a manual process and the cancellation or lack of it does not have any impact on other processes.
+Additionally, where subscriptions remain in an active status they can be renewed by the customers on the customer portal
+
+### Invoice cancellations and refunds
+
+For step by step processes please view [Billing Ops page.](https://about.gitlab.com/handbook/finance/accounting/finance-ops/billing-ops/)
+
+**How to process a partial refund in Stripe**
+
+1. Log in to Stripe.
+1. Type in the cardholder’s name in the search field at the top of the screen.
+1. Click on the original charge that will be refunded.
+1. Click on the refund button.
+1. Enter in the amount to refund.
+1. Enter in the reason code.
+1. In the description field, enter the reason for the refund and include the invoice that was created in Zuora for the refunded amount.
+1. Click on refund.
+1. Go back to Zuora.
+1. Put the customer account in silent mode under "Communication Profile."
+1. Post the invoice draft.
+1. Transfer to credit balance.
+   * Accounting Code: Stripe - Inc
+1. Put the customer account back into Default/B2B under "Communication Profile."
+1. Verify that the balance due is $0.00 on the refund invoice that was created.
+1. Manually e-mail the customer, do not use Zuora to create the email as you cannot update the contents. Include a screenshot of the partial refund from Stripe and attach a copy of the refund invoice.
+
+### Accounting for income from sale of merchandise
+
+**Posting Swag Shop transactions in NetSuite**
+Transactions from the Swag Shop are remitted to the Comerica checking account daily and should be booked in NetSuite at the end of each month.
+1. In Shopify, download the transaction report in CSV format (found under Orders, then Export).
+  * This report contains swag shop revenue and tax data to be recorded in NetSuite.
+1. In portal used for swag download the orders report which should include cost for swag sold.
+1. Record the revenue, tax, cost and cash received.  At times cost maybe estimated using a historical average.
+1. Record the tax collected in the Ava Tax Portal.
+1. Create a journal entry in NetSuite under the GitLab Inc subsidiary, using the last day of the month as the entry date.
+
+### Accounts receivable
+
+**Accounting for customer collections**
+**Cash Receipt**
+<a name="cash-receipt"></a>
+
+**Credit card customer**
+
+Follow this procedure if the customer paid by credit card.
+You may recall from the invoicing process that there was still a balance due when saving the invoice.  The following steps will record the payment and remove the balance due.
+
+1. Login to Stripe dashboard and click on Payments under Transactions (left hand side). You will see a listing of the latest Stripe transactions listed by amount, Recurly transaction, name, date, and time. There is also an option to filter the report by clicking on XXX at the top left. Click on XXX to export to excel. This will give you a workbook area and also a breakdown of the fees which we will work on later.
+1. In NetSuite, click on the "Transactions" tab on the left.
+    * Click on the orange "OPEN INVOICES " tab. This will bring up all open invoices listed by date, invoice #, customer, etc.
+1. Match invoice #s  between the Stripe dashboard and NetSuite. If you click on a transaction in the Stripe dashboard, it will take you to a screen that shows more detail, including the invoice # being paid. You can work your way from the bottom up.
+1. In NetSuite, click "Receive Payment" on the matched payment and invoice.
+1.  Receiving the payment
+    * Enter the payment date, which is the payment date from Stripe dashboard.
+    * Payment method = Credit Card.
+    * Reference no. = "Recurly Transaction ID:" found under Metadata in Stripe dashboard.
+    * Deposit to = Stripe.
+    * NetSuite will auto-fill the payment amount with the entire balance due. No need to change this unless the payment amount from Stripe is different.
+    * Click on "Save and Close".
+    * Repeat the above for all the remaining invoices that were paid by credit card.
+
+1. Post a journal entry to record Stripe Fees.
+    * In NetSuite, click on the "+" sign. Under "Other", select "Journal Entry".
+    * It is okay to leave the journal date as long as it is within the month the fees were incurred. If not, change it to the last day of the month.
+    * NetSuite will auto fill the journal number. Do not change.
+    * Account #1 Entry
+      * Fill the "Account #1" entry with "Credit Card Transaction fees".
+      * Fill the "Debits" entry with the value from the Stripe report that was exported. The value will be the sum of "Column I" in the Stripe report, which is the fee amount. Be sure to only sum the rows which you just posted payments for.
+      * Leave the "Credits" entry empty.
+      * Fill the "Description" entry with "To record credit card transaction fees for period (enter the date range for the transactions posted)".
+      * Leave the "Name" entry empty.
+      * Fill the "Class" entry with "Sales".
+    * Account #2 Entry
+      * Fill the "Account #2" entry with "Stripe".
+      * Leave the "Debits" entry empty.
+      * The "Credits" entry will autofill. This should be the same amount as the "Debits" entry for Account #1.
+      * The "Description" entry will autofill. This should be the same as the "Description" entry for Account #1.
+      * Leave the "Name" entry blank.
+      * Leave the "Class" entry blank.
+      * Click "Save".
+
+This transaction transfers the payment obligation from the customer to Stripe.  The payment obligation from Stripe is removed when Stripe transfers  the funds to GitLab's bank account.
+
+**Posting a payment from Stripe when a transfer is received from Stripe**
+
+Post a journal entry:
+1. Fill the "Journal Date" with the date that payment was received in the bank.
+1. Fill the "Credit Account" with Stripe.
+1. Fill the "Debit Account" with "Comerica Checking - GitLab Inc."
+1. Leave "Name" blank.
+1. Leave "Class" blank.
+1. Fill the "Description" with "To record Stripe transfer (date of transfer)".
+1. Click "Save".
+
+**Posting a payment from a “bank customer”**
+
+In Netsuite:
+1. Click on the “+” sign.
+1. Click on “Receive Payment” under Customers.
+1. Fill the "Payment Date" with the date payment was received.
+1. Fill the "Payment Method" choose from the dropdown menu.
+1. Fill the "Reference No." with the check # or bank reference # from incoming wire.
+1. Fill the "Deposit to" with "Comerica Checking".
+1. Fill the "Amount Received" with the amount received from the incoming wire.
+
+For step by step cash collections process please view [Billing Ops page.](https://about.gitlab.com/handbook/finance/accounting/finance-ops/billing-ops/)
+
+**Account receivable provisions, bad debts and other period close adjustments**
+
+### Accounts Receivable Performance Indicators
+
+**Time for Invoices to be generated when a deal is closed won in Salesforce < 24 hours**
+
+The time from when a deal is closed won in Salesforce to when the invoice is generated. Professional services are excluded from this performance indicator. This is tracked over a calendar month. The target is < 24 hours.
+
+
+## Procure to Pay
+
+Procure to pay is the process of requisitioning, purchasing, receiving, paying for and accounting for goods and services. It includes the following sub processes
+
+### Vendor Master Management
+
+1. New vendors will be added into Tipalti by AP which will generate an onboarding email request to the vendor (Tipalti is an AP Payment Processing System that feeds data into NetSuite).  New vendors are identified by an approved finance issue.  If the vendor is not already set up in NetSuite it is considered a new vendor.
+1. Once a vendor receives the onboarding request, they will need to onboard themselves into the portal and have to include their banking details and tax information which will all be stored in the secure portal.
+1.  Once a vendor onboards themselves in Tipalti the vendor record will auto feed into NetSuite and the vendor is created.  Only after a vendor has onboarded themselves into Tipalti will they be ready to have invoices processed against their vendor record.
+1.  The vendor will receive auto generated instructions via email on how to submit their invoices to GitLab upon onboarding.  They can submit their invoices directly to the Tipalti portal or send them to *gitlab@supplierinvoices.com*.
+1.  If a vendor has any questions and/or ap inquiries please email them to ap@gitlab.com
+
+Please note Tipalti go live is 2019-11-01; therefore, any already existing active vendors will be sent a one-time onboarding request from Tipalti via email.  Vendors need to onboarded themselves into Tipalti in order to be paid.  If you are a GitLab recurring vendor and did not get an onboarding email from Tipalti please reach out to ap@gitlab.com.
+
+### Invoice Accounting
+
+Invoices will arrive by email to gitlab@supplierinvoices.com or directly uploaded into the Tipalti Portal by the vendor.
+
+1. The invoice is auto scanned into Tipalti (Tipalti is an AP Payment Processing System that feeds data into NetSuite)
+1. AP locates the finance issue which corresponds with the invoice received to identify the invoice approver and the GL coding.  If the invoice does not have a finance issue the AP team verifies that it is a recurring vendor and seeks approval from the prior invoice approver and ensures the approver is in line with the authorization matrix.  If AP receives an invoice and it is not a recurring vendor and/or there is no approved finance issue, AP will not record the invoice in NetSuite.  AP will then locate the team member requesting the service and will ask them to reference an approved finance issue before the invoice could be recorded.  AP will reference the finance issue in the header of the invoice when processing in Tipalti.
+1. AP routes the invoice to the appropriate GitLab team-member(s) via the Tipalit portal to obtain approval.
+1. The bill approver(s) are responsible to ensure that services/items were rendered/received as expected and billed accordingly.  They also need review the account, department and class to ensure bill is coded in line with the expected budget.
+1. Once the requestor approves the invoice via Tipalti AP will be notified and Tipalti will automatically update the status of the invoice to approved and will record the transaction into NetSuite.
+1. Tipalti will send auto notifications to the business partners if they do not approve an invoice timely.  If an approver rejects the invoice AP will be notified and will act accordingly.
+
+**Entering a Bill (invoice) in NetSuite**
+Please note the below steps reference how to manually enter bills into NetSuite.  Effective 2019-11-01 all AP invoices should be getting processed through Tipalti and will automatically record the transaction into NetSuite after the invoice has been approved by the corresponding business partner.
+
+1. On the home page, click the “+” icon near the global search bar at the top of the screen and select “Bill."
+1. Select the appropriate vendor record. If adding a new vendor, follow the bullets below before proceeding, otherwise skip to step 3.
+    * Enter the company name, email address, applicable subsidiary, physical address, payment terms, primary currency, and Tax ID. (Note that the address field is located under the "Address" tab, while the Tax ID, primary currency, and payment terms fields are located under the "Financial" tab)
+    * Enter the banking information in the "Comments" field then click “Save.”
+    * Go to the "+" icon at the top of the vendor record and select "Bill" from the dropdown box.
+1. Enter Bill date. The due date should auto-fill based on payment terms entered during vendor setup. If not, select the correct due date and update the vendor record after the bill has been entered and saved.
+1. Enter Bill number.
+1. Go to the "Expense and Items" tab below to enter the expense details.
+1. Select appropriate GL-account under the "Account" dropdown box. (Be sure to check whether the invoice represents a prepaid expense, fixed asset, etc.)
+1. Enter Bill amount.
+1. Select tax code, if applicable.
+1. Enter department. (This must be entered if the account you selected in step 6 is an expense account)
+1. Add attachments: Go to the "Communication" tab and find the "Files" subtab.
+1. Click "New File.” A new window will appear, allowing you to select the file you wish to attach.
+1. In the new window, select the "Attachments Received" folder in the dropdown box, then click "Choose File" to attach both a copy of the vendor bill and email approval. (The supporting email approval must be attached along with a copy of the invoice)
+1. Click "Save.”
+1. In Google Drive, file invoice in the “Unpaid” folder.
+
+###  Payment Process
+
+**Processing payment for invoices**
+
+1. On a weekly basis, AP will generate a batch in Tipalti of invoices due to be paid.
+1. AP will submit the batch to the payment approvers through the Tipalti portal.
+1. Management will review and approve the payment batches directly in the Tipalti portal.
+1. Management will communicate to AP via email to ap@gitlab.com when rejecting payments in the batches.  This will ensure AP is aware that payment is still pending and follow up is required.
+1. Once payments are approved the vendors will be paid and Tipalti will automatically record the payment in NetSuite and change the status of the invoice to paid.
+
+Please note: Invoices will be paid upon vendor payment terms.  Any invoice approved and sent to AP by EOD Tuesday can be paid the same week on Friday and/or based on the vendor payment terms if the terms are NOT due UPON Receipt.  Any invoice approved and sent to AP from Wednesday to Friday of that week will be paid the following Friday and/or based on the vendor payment terms, whichever comes first.
+
+### Expense Reports - Expensify
+
+All team members will have access to Expensify within 2 days from their hire date.  If you didn't receive an email from Expensify for your access, then please contact expenses@gitlab.com. Expense reports are to be submitted once a month, at least. Additional information on getting started with Expensify and creating/submitting expense reports can be found [here.](https://docs.expensify.com/using-expensify-day-to-day/using-expensify-as-an-expense-submitter/report-actions-create-submit-and-close)
+
+The procedure by which reimbursable expenses are processed varies and is dependent on contributor legal status (e.g. independent contractor, employee) and subsidiary assignment (BV, Canada Corp, Federal, Inc, GmbH, LTD, PTY). Check with Payroll if you are unsure about either of these.
+
+For information regarding the company expense policy, check out the section of our team handbook on [Spending Company Money](/handbook/spending-company-money). Managers and Payroll team will review the expenses for compliance with the company travel policy.  The CEO will review selected escalations at least annually.
+
+Team members should also consider the terms and conditions of their respective contractor agreements, when submitting invoices to the company.
+
+Team members in a US policy will be automatically reimbursed through Expensify after their report is "final approved" within 7 business days by Payroll team. For all other team members, please see the reimbursement process below based on your location or employment status.
+
+**Note **- If your cost center is the Cost of Sales, please be sure to select the COGS category for your expense reimbursement.  For all other departments, you will need to use the categories without COGS from the drop-down list.  The manager must review the selected category to ensure proper coding before approval.  You can find your cost center in BambooHR under My Info -> Job -> Cost Center.
+
+**Virtual Meal with GitLab Team Member** Due to the suspension of the [Visiting Grant](/handbook/incentives/#visiting-grant), we are temporarily replacing it with the Virtual Meal with [GitLab Team Member(s)](/handbook/communication/#top-misused-terms):
+*  from now until April 30, 2020, you can submit up to 2 meals
+*  up to $25 per meal (not limited to pizza)
+*  submit it under Meals provided by Company
+*  add "Virtual Meal with GitLab Team Member" on the description line
+*  list the attendee and a screenshot of the virtual party to the expense report. The screenshot is the receipt for this purpose.
+
+
+##### SafeGuard
+Team members who are employed through SafeGuard must submit their expense for reimbursement through Expensify.  All expense reports must be submitted and approved by manager by the 8th of each month to include in the current month payment.
+
+Team members in France, Italy, and Spain must submit their expenses through:
+*  Expensify
+*  Safeguard in-house expense reimbursement
+*  GitLab payroll send the expense approval to Safeguard after the team member's manager approved the report
+*  Team members send the original receipts to Safeguard
+
+
+##### Global Upside
+
+* Team members must submit their expenses through Expensify, and Payroll will approve for reimbursement within 5 business days after the approval from the manager.  The reimbursement is through GitLab AP.
+
+##### iiPay
+
+* All Individual contractors or C2C, with exception of Hungary, Nigeria, South Africa, and Switzerland, will be reimbursed by iiPay by the 22nd of each month.  All expense reports must be approved by manager by the 8th of each month to be include in the current month payment.  For contractor with C2C status, be sure to contact Payroll team via email at nonuspayroll@gitlab.com if you need to set up a separate bank for your expense reimbursement.
+
+##### Legal entities
+
+* Expense reports for GitLab Ltd (UK) must be approved by the manager on or before the 14th of each month enable for it to include in the current month payroll.
+* Expense reports for GitLab Canada Corp must be approved by the manager before the 1st day of each payroll period.  Please see [Payroll Calendar](https://docs.google.com/spreadsheets/d/1ECkI_Z8R82j1eipJEEybXjO-EDtzw4TuhJPOnHypDho/edit#gid=0) for the payroll cut off date.
+* Expense reports for GitLab BV (Belgium and Netherlands), GmbH (Germany), PTY Ltd (Australia) are reimbursed via GitLab AP within 10 business days from the approval date by their manager.
+* Expense reports for GitLab Inc, GitLab Inc Billable, and GitLab Federal reimbursed via Expensify, and Payroll will final approved the report within 5 business days after the approval from their manager.
+
+##### Hungary, Nigeria, South Africa
+
+* Please include your expenses along with receipts on your monthly salary invoice.
+
+##### Poland, Russia, Ukraine
+
+* Expense reports must be approved by the manager on or before the 8th of each month enable for it to be included in the current month payroll
+* GitLab Payroll will send the approved expense amount to CXC EMEA payroll included with the monthly salary
+* Team members must include the approved expense amount on their monthly invoice
+
+
+##### Non-Reimbursable Expenses
+
+Examples of things we have not reimbursed:
+1. Costume for end of summit party.
+1. Boarding expense for dog while traveling.
+1. Headphones costing $800 which were found to be in excess of our standard equipment guidelines.
+1. Batteries for smoke detector.
+1. Meals during the Contribute when team members opt out of the company provided meal option.
+1. Cellphones and accessories.
+1. Travel related expenses for family members of GitLab employees
+1. Fitness equipments (treadmill, etc..) and gym membership
+1. Meals from the co-working day(s)
+
+In accordance with [Reimbursable Expense guidelines](/handbook/finance/accounting/#reimbursable-expenses), independent contractors should note which expenses are Contribute related on their invoices, prior to submitting to the company.
+
+**Billable Expenses**
+If you have an expense report that can be billed back to a customer please make sure to check the "billable" flag in Expensify along with tagging the customer name under the "customer" field in Expensify.
+
+
+### Employee reimbursements - Expensify
+
+**Processing Expensify Reports**
+
+1. Expensify will auto sync and record expense reports into NetSuite once the report is "final approved."  "Final Approved," means it has been approved by the employee's manager and completed an audit review by a finance team member.
+1. Accounting will do a daily check to ensure all reports which are "final approved" are successfully synced.  If any errors arise, AP will work out the errors until the report syncs into NetSuite.
+
+**Paying Expensify Reports**
+
+1. Employee's in a US policy will be automatically reimbursed through Expensify after their report is "final approved" within 1-4 business days.  Once an employee is reimbursed Expensify will auto sync the payment to the record to close the report as paid.
+1. All other employees who are not paid directly through Expensify, payroll and/or a 3rd party vendor will be paid directly through GitLab's AP department with the normal weekly Friday AP payment run as long as their report was "final approved" no later than EOD Tuesday of that same week.  Any report "final approved" on Wednesday to Friday of that week will be reimbursed the following Friday.  Once an employee is reimbursed AP will create the payment in NetSuite against the record to close the report as paid. These reports will be paid through Tipalti (an AP payment processing tool)
+
+Tipalti Paid Reports paid through GitLab's AP Department:
+1. AP will send the employee an auto generated email from Tipalti with instructions on how to onboard.  Only after an employee onboards themselves in Tipalti will payments be issued. (A one-time onboarding request will be sent to active employee's on 2019-10-28 to allow them time to onboard themselves in the portal).  Any employee's after 2019-11-01 will be sent onboarding requests upon hire and/or upon first submission of an expense report.
+
+Please Note:  The timing of reimbursement can vary if you are being reimbursed directly from payroll, CXC, SafeGuard and/or iiPay
+
+**Expense Specialist Job Family Performance Indicators**
+
+1. Average days to action <= 3 business days
+
+    Number of days from when an employee's manager approves report to when expense specialist does final approval for payment or responds to employee in Expensify if there is a concern. (Approval for payment is not the reimbursement date.) This is calculated on a calendar month basis. The target for this is currently three business days.
+
+2. Time to get a new employee set up in Expensify < 3 business days
+
+    Have new employee set up in Expensify within 3 business days from employee start date.
+
+
+**Travel and Expense Guidelines**
+
+**Spend reduction**
+
+When reducing spend, we'll not take the easy route of (temporarily) reducing discretionary spending.
+Discretionary spending includes expenses like travel, conferences, gifts, bonuses, merit pay increases and summits.
+By reducing in these areas we put ourselves at risk of [increasing voluntary turnover among the people we need most](https://steveblank.com/2009/12/21/the-elves-leave-middle-earth-–-soda’s-are-no-longer-free/).
+Discretionary spending is always subject to questioning, we are frugal and all spending needs to contribute to our goals.
+But we should not make cuts in reaction to the need to reduce spend; that would create a mediocre company with mediocre team members.
+Instead, we should do the hard work of identifying positions and costs that are not contributing to our goals.
+Even if this causes a bit more disruption in the short term, it will help us ensure we stay a great place to work for the people who are here.
+
+**Renting Cars in the United States and Canada**
+
+**Third Party Liability**
+
+Purchase the liability insurance that is excess of the standard inclusion of State minimum coverage in the rental agreement at the rental agency. GitLab’s insurance policy provides liability insurance for rental cars while conducting company business, but it may be excess over any underlying liability coverage through the driver or credit card company used to purchase the rental.
+
+Purchase the liability offered at the rental counter if there are foreign employees renting autos in the US or Canada. While workers' compensation would protect an injured US employee, other passengers may have the right to sue. To ensure that GitLab has protection when a foreign employee invites another person into the car we recommend the purchase of this insurance when offered at the rental counter.
+
+**Physical Damage – Collision Damage Waiver**
+
+**Do not** purchase the Collision Damage Waiver offered at the rental counter. GitLab purchases coverage for damage to rented vehicles.
+ If travel to Mexico is required, **purchase** the liability insurance for Mexico offered at the rental counter. You should verify that the rental agreement clearly states that the vehicle may be driven into Mexico and liability coverage will apply.
+
+**Renting Cars- Countries other than the US and Canada**
+
+**Third Party Liability**
+
+Purchase the liability insurance offered at the rental counter when traveling outside the US and Canada. Automobile Bodily Injury and Property Damage Liability insurance are required by law in almost every country. Please verify this coverage is included with the rental agreement.
+
+**Physical Damage – Collision Damage Waiver**
+
+Purchase the Collision Damage Waiver or Physical Damage Coverage offered by the rental agency when traveling outside the US and Canada.
+
+In the event of an accident resulting in damage to the rental car, the foreign rental agency will charge the credit card used to make the reservation with an estimated amount of repair costs if insurance is not purchased. If this happens, GitLab does not purchase Foreign Corporate Hired Auto Physical Damage Coverage to reimburse for damages.
+
+**Personal Use by Employee or Family Members of Business Auto Rentals**
+
+Coverage is **not** provided for personal use of automobiles or when family members are driving. Please evaluate whether your own personal automobile insurance provides an extension for this coverage. If it does not, or you are renting a vehicle outside the US or Canada or taking a US rented vehicle into Mexico, we recommend that you purchase the liability and physical damage coverage offered by the rental agency to protect your personal liability when not engaged in company business. GitLab will not pay for liability or damage to the rental vehicle resulting from personal use or use by non-employees.
+
+
+**Non-Reimbursable Expenses**
+
+In order to purchase goods and services on behalf of the company, you should first [consult the Signature Authorization Matrix](/handbook/finance/authorization-matrix/) to determine the approval requirements. Note that this **does not** include travel expenses and other incidentals. These expenses should be self-funded then submitted for reimbursement within Expensify, or in the case of independent contractors, included in invoices to the company (per the guidelines above).
+
+If approval is not required, then proceed and send the invoice to Accounts Payable (ap@gitlab.com). If approval is required, create a confidential issue in the [Finance Issue Tracker](https://gitlab.com/gitlab-com/finance) and tag the required functional and financial approvers. Most importantly, the team member making the purchase request is ultimately responsible for final review and approval of the invoices. Final review and approval are critical process controls that help ensure we don't make erroneous payments to vendors. All original invoices and payment receipts must be sent to Accounts Payable.
+
+
+**Creation of Expense Tags**
+
+**In NetSuite:**
+If you would like to track spend for a particular campaign, project and/or event you can do that through expense tag also known as classes in NetSuite.  If you would like to request an expense tag to be set up please send your request to ap@gitlab.com and they can set it up for you.
+1. In NetSuite go to Setup-Company-Classes-New
+1. Add the name of the expense tag under Name
+1. Under subsidiaries highlight GitLab Inc and check the box that states "Include in Children"
+1. Save
+
+Expensify will auto-sync any new "expense tags" on a daily basis but if the Expensify admin wants to manually sync they can by following these steps:
+
+**In Expensify:**
+1. Go to the Admin page and click on the *Policies* tab.
+1. Select a policy and find the *Connections* subtab. The NetSuite connector is located on this page.
+1. Click the *Sync Now* button for the NetSuite connector. The page will run a prompt showing sync status.
+1. Once the syncing process is complete, go to the *Tags* subtab.
+1. Search for the tag by name under classifications (i.e. the NetSuite profiles created in prior steps)
+
+
+
+**Company Credit Cards**
+<a name="company-cc"></a>
+
+We have worked to reduce the number of outstanding company credit cards in an effort to centralize corporate purchasing, however, there are still certain situations where it may be more practical to issue additional corporate cards. This will be addressed on a case-by-case basis and final approval will come from the CFO. Please contact the Finance team if you would like further information on this.
+
+GitLab team-members carrying company cards in their name are required to submit expenses in [Expensify](https://www.expensify.com/) on a monthly basis. Reports are to be submitted no later than the fourth business day of each month as the American Express statement period-end date is generally between the 28th and 30th of each month.
+
+Card transactions are auto-imported into Expensify which then auto-generates the expense reports to match that of the American Express statements. Below you will find directions on how to sign up for an American Express account and submit these expenses in accordance with company policy.
+
+**Creating an American Express account**
+
+Once you receive your card, [register the card in the American Express portal.](http://www.americanexpress.com/confirmcard)
+
+**Submitting company credit card expenses**
+
+On a daily basis, Expensify will auto-generate an expense report and leave the report open until it is submitted.  You can submit your report(s) on a regular basis but need to ensure that all are submitted no later than the 3rd business day following the statement end date.  Please help to ensure you are submitting all expenses which corresponds to the American Express statement period.  Accounting will send out a reminder email informing you of the statement period and due date of when the report(s) need to be submitted by.  Before submitting any expense report you must ensure the following:
+
+**1. Coding expenses**
+- In some cases, Expensify reports will show payment processor names (i.e. Stripe, PayPal) rather than the actual payee merchant, making it difficult to identify charges. This can be resolved by downloading your Amex statement from the portal, which contains greater detail.
+
+ **2. Required supplementary information**
+Certain purchases require additional data in order for the Finance team to accurately process transactions.
+
+Expense reports are considered incomplete if missing any of the following data:
+- **Expense Tags:** If applicable, add expense tags under "Classifications". Common tag examples include company contributes, marketing campaigns, and professional service engagements.
+- **Laptops/Equipment:** Purchases of laptops and other assets in excess of $1,000 USD (per item) must include the name of the GitLab team-member for whom the asset was purchased.
+- **Airfare/Travel:** Purchases of flights, transportation, and lodging on behalf of other GitLab team-members must also include the name of the corresponding individual.
+
+**3. Attaching receipts**
+- Any expense over $25 USD requires a legible receipt. No exceptions!  Anyone not complying with policy may have their card cancelled.
+
+**4. Submit the report**
+- Reports are due on the 3rd business day of each month. Failure to meet these policy guidelines on an ongoing basis will result in permanent cancellation of your card!
+
+ **Note that company credit card expenses should never be commingled with reimbursable expense reports. Reimbursable expenses should always be submitted separately. Please contact the Accounting Manager if you have any questions.**
+
+
+### Summit Costs and other key expenses
+
+
+**Marketing Campaign Expenses**
+Please see the [campaign expense guidelines in the Marketing handbook](/handbook/marketing/marketing-sales-development/marketing-operations/#campaign-cost-tracking).
+**GitLab Contribute Cost Tracking**
+(Previously GitLab Summit)
+Tracking expenses for company Contributes enables us to analyze our spend and find opportunities to iterate, and in turn, improve subsequent Contributes. To enable tracking we create an expense tag that will allow GitLab team-members to tag Contribute related expenses in Expensify. This should be done prior to the announcement of each Contribute.
+
+- To categorize an expense under an expense tag to track a specific marketing campaign, contribute expense and/or any special project you will do this under the "classifications" tag in Expensify.
+
+
+## Property, Plant and Equipment
+
+Property, plant and equipment is the long-term asset or noncurrent asset section of the balance sheet. Following are the sub-processes:
+
+### Acquisition and Capitalization
+
+**Capital Assets Policy**
+
+**Purpose**
+This policy establishes the minimum cost (capitalization amount) used to determine the capital assets recorded in GitLab's financial statements.
+
+**Capital Assets Defined**
+
+A “Capital Asset” is a unit of property that has an economic useful life extending beyond 12 months **and** was acquired (or in some cases, produced) for a cost of [$5,000 (USD)](/handbook/total-rewards/compensation/#exchange-rates) or more. Capital Assets must be capitalized and depreciated for financial reporting purposes.
+
+**Capitalization Thresholds**
+
+GitLab establishes [$5,000 (USD)](/handbook/total-rewards/compensation/#exchange-rates) as the minimum amount required for capitalization. Any item with a cost below this amount is expensed on the date of purchase.
+
+### Depreciation/Amortization
+
+**Methodology**
+
+All capital assets are recorded at historical cost as of the acquisition date. These assets are depreciated on a straight-line basis, with the number of depreciation periods being determined by asset class.
+
+* **Equipment:** For our purposes, equipment generally consists of computers and other related office tools. Equipment under our INC entity is assigned a standard useful life of three (3) years. However, equipment under our BV entity is depreciated over five (5) years due to Dutch tax laws, which limit depreciation of capitals assets to a maximum of 20% of the asset cost per year. The following link contains additional information on Dutch tax laws surrounding capital and fixed  assets: [Netherlands Capital and Fixed Assets Guide](http://www.ey.com/gl/en/services/tax/worldwide-capital-and-fixed-assets-guide---xmlqs?preview&XmlUrl=/ec1mages/taxguides/WCFAG-2017/WCFAG-NL.xml)
+
+* **Furniture:** Furniture includes office furniture and other fixtures. The standard useful life for furniture is seven (7) years. This depreciation schedule applies to all entities.
+
+Invoices and purchase receipts for capital assets are retained for a minimum of five years.
+
+### Fixed Asset Register and Asset Tracking
+
+Items paid for by the company are property of the company.  Assets with purchasing value in excess of [$5000 USD](/handbook/total-rewards/compensation/#exchange-rates) are recorded through NetSuite and tracked using Floqast with an account reconciliation which includes details by individual asset purchased.  The account reconciliation serves as an asset register.  The accounting team  captures each individual asset purchased with the following information:
+
+1. Period and Date of purchase
+1. Asset Cost
+1. Asset Category
+1. Asset Description
+1. Useful life
+1. Name of employee assets was purchased on behalf of
+1. Serial number, if available
+1. GL Coding
+
+Once the information is captured in BlackLine a depreciation schedule will populate and accounting will book an entry in NetSuite each month to record the depreciation of the asset until it is fully depreciated.
+
+### Disposition of an Asset
+
+Assets will be disposed of if purchased by an employee upon termination (if approved by ITOps) or if the item is no longer useful before the useful life.
+
+1. If a team member would like to purchase an asset from the company (i.e. a laptop), they would request through an issue to IT Ops and accounting to obtain the amount to be paid. This is derived from original cost less accumulated depreciation.  If and asset is purchased accounting team will collect the funds and will book the appropriate accounting treatment to dispose of the asset.
+
+1. If an asset is no longer usable before the useful life has been reached the employee needs to submit an issue to IT Ops and accounting to inform them.  IT Ops will evaluate and if they deem the item is no longer useful accounting will book the appropriate accounting treatment to dispose of the asset.
+
+## Accounting Policies
+
+Record to report process is governed by the following accounting policies:
+
+### Related Party Transaction Policy
+
+**Purpose** This policy defines related-party transactions, identifies the significance of related party accounting implications and provides guidance regarding approval and reporting of related-party transactions in relation to GitLab.
+
+**Scope** This procedure applies to the Key Management Personnel (members of the e-group), Board of Directors and their relevant entities/VC’s they represent and to all the related party transactions.  Finance and Legal will jointly review all reported potential related party transactions.
+
+**Policy**
+All transactions with related parties require the prior approval of the Chief Financial Officer. In the event the related party transaction involves the Chief Financial Officer the Chief Legal Officer will be responsible for approving. In considering the approval of a related-party transaction, a legitimate business case must be developed including the arm's length nature of the proposed transaction and the disclosure implications of such a transaction in GitLab's financial statements.
+Applicable standard or Regulation
+Securities and Exchange Commission Regulation S-K (Item 404 (b); FASB statement no 57.
+Definitions:
+Related party transactions: A business deal or arrangement between two parties who have an existing relationship (i.e a purchasing agent buying materials from a company owned by a spouse).Transactions that exceed $120,000 per year concerning executives, directors and stakeholders with 5% or more of company stock (or an immediate family member) legally requires disclosure to the SEC for publicly traded companies per Security and Exchange Commission Regulation S-K Item 404 (b).
+ Related Party: The Financial Accounting Standards Board defines a related party in Statement No. 57 (FASB 57), Related Party Disclosures. For the purposes of this policy, a related party is:
+1. An employee of GitLab
+1. An affiliate of GitLab
+1. A principal owner of GitLab
+1. Members of the immediate family of an employee or principal owner of GitLab
+1. A trust for the benefit of employees
+1. An entity for which investments are accounted for by the equity method
+Another party may also be considered a related party if it can significantly influence the management and operating policies of GitLab. Related-party transactions may be recurring or infrequent in nature.
+
+
+
+**Procedures**
+Accounting Implications
+The existence of related-party transactions may have a significant effect on GitLab’s financial statements. Transactions between or among related parties differ from transactions between unrelated parties in that they are, by definition, not at arm's length. Not dealing at arm's length may significantly influence the price and terms of transactions, and make it difficult to distinguish between the form and the substance of the transaction.
+Except for recurring transactions, the assumption is that it is difficult to substantiate that a related-party transaction is at arm's length as it is generally not possible to determine whether such a transaction would have taken place or what the terms and manner of the settlement would have been had the parties not been related.
+FASB Statement No. 57 requires GitLab to disclose significant related party relationships and transactions in GitLab's financial statements. This disclosure is considered significant because it provides the user of the financial statements with relevant information to interpret GitLab's operating results.
+Legal and Finance will send to the relevant parties (Board Members, Key Personnel) quarterly and/or yearly a form to detail potential related party transactions or to confirm those that were reviewed prior of potential related party transactions.  These will be reviewed and reported in GitLab’s financial statements as outlined above.
+Reporting of related party transactions
+In the event that a related-party transaction is contemplated, the transaction should immediately be discussed with GitLab's chief financial officer or Principal Accounting Officer. Details of the proposed transaction to be discussed include:
+1. The identification of the related party and the affiliation to GitLab
+1. The nature of the proposed transaction and the amount of the transaction
+1. Supporting evidence to support the arm's length nature of the proposed transaction including the terms and manner of settlement had the parties not been related
+1. The anticipated impact on GitLab's financial statement and disclosure
+In no event should a related-party transaction be entered into without prior written consent of the Chief Financial Officer. In the case that the Chief Financial Officer has a potential conflict of interest the audit committee shall be required to approve the transaction.
+
+
+### Investment Policy
+
+**Purpose**
+The purpose of this policy is to establish the responsibility, authority and guidelines for the investment of operating surplus cash.  Surplus cash is defined as those funds exceeding the operating requirements of the Company and not immediately required for working capital or near term financial obligations.
+
+**Scope**
+This policy shall apply to the Company and all subsidiaries.  This investment policy will be reviewed periodically to ensure that it remains consistent with the overall objectives of the Company and with current financial trends.
+
+**Approved Brokerage Institutions**
+The Company may use the following brokerage institutions:
+
+1. Morgan Stanley Smith Barney LLC
+1. Comerica Securities, Inc.
+
+**Investment Objectives**
+
+The basic objectives of the Company’s investment program are, in order of priority:
+Safety and preservation of principal by investing in a high quality, diversified portfolio of securities, mutual funds, and bank deposits.
+Liquidity of investments that is sufficient to meet the Company’s projected cash flow requirements and strategic needs.
+Maximize after-tax market rates of return on invested funds that are consistent with the stated objectives herein, conservative risk tolerance and the Company’s current tax position.
+Maturity Limits
+Individual security maturities should not exceed 24 months.  The weighted average maturity of the portfolio shall not exceed 12 months.  A maturity or effective maturity by definition shall include puts, announced calls or other structural features which will allow the Company to redeem the investments at a quantifiable price consistent with liquidity, safety and preservation of capital.
+
+**Eligible Investments**
+United States Government Securities:
+Marketable debt securities which are direct obligations of the U.S.A., issued by or guaranteed as to principal and interest by the U.S. Government and supported by the full faith and credit of the United States.
+United States Government Agency Securities:
+Debt securities issued by the Government Sponsored Enterprises, Federal Agencies and certain international institutions which are not direct obligations of the United States, but involve Government sponsorship and are fully guaranteed by government agencies or enterprises, including but not limited to:
+·   	Federal Farm Credit Bank (FFCB)
+·   	Federal Home Loan Bank (FHLB)
+·   	Federal Home Loan Mortgage Corporation (FHLMC)
+·   	Federal National Mortgage Association (FNMA)
+
+**Money Market funds**
+
+Money Market Funds must be rated AAA or equivalent by at least one NRSROs.
+
+At time of purchase investment restrictions:
+
+Investment Products (Rating, Sector Concentration, Issuer Concentration)
+
+1. US Government (AA+, No Sector Concentration, No Issue Concentration)
+1. Agency (AA+, 50% Sector Concentration, 10% Issuer Concentration)
+1. Money Market Funds - US Government/Treasury (AAA, No Sector Concentration, 50% Issuer Concentration)
+
+### Prepaid Expense Policy
+
+**Purpose**
+This policy describes the methodology used to monitor and account for GitLab’s prepaid expenses.
+
+**Prepaid Expenses Defined**
+A [*Prepaid Expense*](https://www.investopedia.com/terms/p/prepaidexpense.asp?ad=dirN&qo=investopediaSiteSearch&qsrc=0&o=40186) arises when a cash disbursement is made for goods and services prior to realizing the associated benefits of the underlying goods and services. These transactions are recorded as assets until the goods and services are realized, at which point an expense is recorded. Our minimum threshold for recording prepaid expenses is [$5,000 USD](/handbook/total-rewards/compensation/#exchange-rates) unless it is an event with a specific event date in the future identified by the campaign tag. Anything under this amount and not associated with a future event is expensed immediately.
+
+**Identification and Recording of Prepaid Expenses**
+Once a purchase request makes it through the [company approval workflow](/handbook/finance/procure-to-pay/), Accounting will take the following steps to ensure prepaid expenses are recorded accurately:
+
+1. The Accounts Payable Administrator flags all bills that qualify as prepaid expenses during the normal course of processing bills in the AP mailbox.
+
+1. The flagged bills are then analyzed and added to the asset register located in Google drive. Information includes expense category, department, benefit period, and amount to be amortized.
+
+1. At the end of each month, the Accountant reconciles the prepaid additions to the general ledger, which includes verifying amortization schedules and amounts.
+
+Amortization is recorded straight line based on a mid-month amortization method as follows:
+If the first month of service begins on the 1st to the 15th of the month, a full month amortization will be recorded in the current month.  If the first month of service begins on the 16th to the last day of the month, amortization will begin on the 1st day of the subsequent month.
+
+Mid-Month Amortization Method does not apply to prepaid expenses with a monthly amortization equal to or greater than 50,000 USD or if the amortization if spread only over 1 period.  If monthly amortization is equal to or more than 50,000 USD, the first month amortization will be calculated based on actual number of days where services were rendered.
+
+Prepaid Not Paid:  For any prepaid expenses not processed for payment, an adjustment for "prepaid not paid" is posted to the respective prepaid expense account and AP manual adjusment account (GL Account 2001).  A prepaid expense is not treated as an asset if a liability remains in the AP sub-ledger.  Prepaid not paid adjusments are performed on a quartly basis at minimum.
+Any deposits paid which will be held for more than 12 months such as security deposits or deposits to retain consultants will be booked to Security & Other Deposits (GL Account 1620)
+
+Prepaid Bonuses with a Clawback will be recoreded to Prepaid Bonus w/Clawback (GL Account 1152) and will be amortized in accordance with the bonus agreement terms, using the mid-month convention.
+
+4. Finally, the balance is reviewed one last time when the Senior Accounting Manager performs a review of the financials prior to closing the period.
+
+**Contribute related expenses**
+Team member travel expenses are expensed in the period incurred. Costs related to third party vendors such as hotels, facilities, excursions are recorded to prepaid expenses and recognized as expense at the time of the event.
+
+
+### Accrued Liabilities Policy
+
+**Purpose**
+To provide clear guidance concerning the identification and recording of items included in GitLab’s accrued and other liability accounts. The purpose of monthly accrual processes is to allocate expenses to the proper accounting period and match expenses with related revenues. At the close of each month, accrual processes ensure that all expenses related to that month are correctly included in the company's financial statements. Additionally, this policy establishes standards and guidelines for ensuring that GitLab accounts for monthly accruals in a manner that is compliant with management's objectives and generally accepted accounting principles (GAAP). This policy applies to GitLab and all subsidiaries.
+
+**Identification**
+We require that all expenses be recorded where expense exceeds $5K USD or above, in the period the expense was incurred. The accrual process should be completed on a monthly/quarterly basis to ensure liabilities are recorded accurately in their respective periods and/or quarters.  Accruals are booked by vendor, invoice and/or approved finance contract issue.  If multiple invoices are less than $5K USD for the same vendor in the same period and the aggregate exceeds $5K USD the expense maybe considered for accrual on a quarterly basis.
+
+The following items should be accrued monthly as necessary (note: this list is not all-inclusive):
+- Accounts Payable:
+	* Contracts: Amounts due under contracts, including retainer fees. These items should be recorded as they become billable.
+	* Professional Fees: This liability includes legal, tax, and aduit consulting and other professional fees.
+	* Legal Contingencies: Pending or threatened litigation, and actual or probable settlement. Legal contingencies should be determined with the help of GitLab’s VP of Legal - Commercial, IP & Compliance.
+- Wages and Compensation:
+	* Team Wages: This includes employee wages and independent contractor fees.
+	* Commissions: Liabilities arising from commission obligations to team members who are eligible for commission compensation.
+	* Bonuses: Liabilities related to bonus payments for GitLab team-members.
+	* Taxes: All employment taxes required for statutory compliance that relate to the GitLab team.
+- Any other material obligation not mentioned above that is a liability of GitLab
+
+**Timing**
+
+Obligations that accrue over time are recorded throughout the accounting period in a methodical and rational manner. Obligations that accrue when an event occurs should be recorded at the time of the event.
+
+Factors that are considered in determining the time of recording accrued liabilities include:
+
+1. Risks of ownership passed to GitLab through receipt of goods or services.
+2. The expense must have been incurred during the month being closed; that is, the product or service must have been received on or before the last day of the month in order to qualify as an expense.
+3. Even though an expense may have been initially budgeted in the month, it is not eligible for accrual unless the company received the product or service.
+4. Accruals are reversed in the next month and re-accrued the following month, as needed.
+5. If payment is due prior to receiving goods or services, the amount should be accrued to prepaid expenses.
+
+**Procedural**
+The Finance team is responsible for having procedures in place to reconcile accounts monthly and for keeping documentation to support accrued liabilities. Payables and accrued liabilities are recorded at face value, plus or minus any applicable adjustments. In most cases, the payable amount can be determined from the vendor bill. If not, then the amount should be verified against any relevant documents before recording the liability. When actual values are not available, the recorded value should be based on best available estimates. Estimates should be based on current market price and experience/history.
+1.  Legal Professional Fees:  Monthly templates are e-mailed by the 1st to all legal firms requesting them to complete with all outstanding bills and unbilled services as of that month end (ex. e-mails are sent by April 1st requesting services as of March 31st).  The responses from all legal firms are complied and reviewed with the VP of Legal - Commercial, IP & Compliance by the 5th, and accruals are made based on the responses and review.  In addition, any potential legal contigencies are discussed during the monthly meeting with the VP of Legal and an accrual is recorded if the loss is deemed probable and the amount can be reasonably estimated.
+2.  Tax and Audit Professional Fees:  Similarlily e-mails with the template are sent to the tax and audit firms and the tax responses are compiled and reviewed with the Director of Tax and the audit firm responses are reviewed with the Accounting and External Reporting Manager by the 5th and appropriate accruals are made based on the review.
+
+The Sr. Accounting Manager is responsible for performing an overall review of accrued liabilities, one to three business days after accounts payable closes each month, to help ensure that all expenses are captured accurately.
+
+ **Please see [Procure-to-Pay](/handbook/finance/procure-to-pay/)**
+
+### Credit Card Use Policy
+
+**Purpose**
+This policy establishes the appropriate business use, responsibilities, and authorization of the Company’s credit card policy.
+The purpose of this policy is to ensure that Company credit cards are used for appropriate business purposes and that adequate controls are established for day-to-day use.
+
+**Scope**
+The Company credit card policy applies to all employees who are approved to use a company credit card, including their managers.
+This policy defines Company credit card access and use, and expense authorization and reimbursement for company employees.
+This policy applies to all Company locations and departments.
+
+**Policy**
+1.  Employees may be issued a Company credit card where the nature of their job responsibilities requires the purchase of services, business travel or supplies that cannot be obtained through an approved finance contract issue or be invoiced to GitLab under normal procedures.  The credit card should be used only as a last resort or where immediate purchase is needed (eg. at a conference, etc).   No other person is permitted to use an approved Company credit card for charges other than the name of the employee that is shown on the credit card (exception under BizOps Card).
+2.  Authorization for the issuance of a credit card requires the approval of the Principal Accounting Officer.
+3.  Company Credit Cards may not be used for personal expenses of any nature or where an approved [finance contract issue process](https://about.gitlab.com/handbook/finance/procure-to-pay/#vendor-and-contract-approval-workflow) can be used with prior planning involved.
+  * Cards are only to be used where pre-planning was not able to occur such as extra food at an event or last-minute materials used to host an event or unusual items at a marketing or sales events that were not anticipated and cannot be directly billed to accounts payable for said event.
+  * Recurring charges or anything that can be billed directly through our accounts payable department should NOT be put on the corporate card unless the vendor ONLY accepts a credit card, even if asking for other payment methods.
+  * Purchases up to $10,000USD per transaction are allowed to be charged on a card, but any expense over $5,000USD must have an approved finance issue associated with the expense.
+  * Credit cards can be used to charge sponsorships, annual subscriptions or deposits for events if the charge is less than $5,000USD and does not require a signature (remember, anything that needs a signature MUST go through the finance issue approval process no matter the cost). If the expense is between $5,000 USD and $10,000USD and there is an accompanying approved finance issue, you may also use the corporate card.
+  * Any purchase exceeding $10,000USD and up to $20,000USD will be allowed to be charged on the card but needs to have an approved finance issue with direct manager approval and/or executive level approval based on our [authorization matrix](/handbook/finance/authorization-matrix/).  The approval needs to be attached to the charge in Expensify upon submission.
+  * Anything over $20,000USD should not be charged on the card and has to go through the normal finance contract issue approval process.
+  * If you have a recurring charge and the vendor only takes credit card we can make an exception to allow the card to be charged if the per-transaction charge is under $10,000USD.  If over $10,000USD provide an approved finance issue following the signature authority matrix.  You can create a blanket issue for each calendar year.
+  * The Corporate Travel Card is to only be used by TripActions to book approved travel on behalf of GitLab through the TripActions portal.
+  * The BizOps IT Card is to only be used by BizOps to make purchases for new hire equipment following the Spending Company Money guidelines.  This is the only card that is allowed to be shared in a secure vault to only BizOps IT personnel responsible for new hire purchases.
+  * The misuse of an approved company credit card by the respective employee will result in disciplinary action and loss of the card.
+
+**Procedures**
+1. Authorization for the issuance of a credit card can be obtained by initiating a finance issue and providing the justified business case as to why the card is needed.  The finance issue must be approved by the Principal Accounting Officer before a card can be issued.  Assign the finance issue to the Sr. Accounting Operations Manager and Sr. Accounts Payable Specialist and your immediate manager.  Once the immediate manager approves the Sr. Accounting Operations Manager will request approvals from PAO before card is ordered.
+2. If a card is granted, it is the responsibility of the employee to submit timely expense reports within three (3) business days following the credit card billing statement end date.
+3. Monthly, American Express with auto-feed the credit card charges into Expensify under the cardholder name.  It is the cardholder’s responsibility to attach each corresponding receipt to each charge and categorize the charge accordingly.  Expense reports are to be submitted to accounting no later than the 3rd business day of each month following each statement end date.  See Company Credit Cards section in the handbook for more details on the submission process.
+4. Once the cardholder submits their report to accounting, accounting will perform their audit review then will forward the report to the card owners’ immediate manager before the report can be processed.  The manager is responsible to provide approval no later than 2 business days upon receipt of the report.
+5. Accounting personnel will formally notify the employee’s manager of any outstanding expense reports when are 1 business day overdue.
+6. The Company reserves the right to revoke the Company credit card at any time and will provide notice to an employee upon doing so.
+
+**Responsibility**
+1. Employees holding Company credit cards are responsible for adhering to this policy by:
+- Using the cards for their intended purpose.
+- Retaining and attaching receipts to all charges and providing explanations for all credit card transactions.
+- Timely submitting expense reports for any and all credit card transactions.
+2. Managers are responsible for:
+- Limiting the use of Company credit cards to those employees who require a card for company business.
+- Reviewing and approving expense reports for credit card transactions used by their employees on a timely basis.
+3. Accounting personnel are responsible for:
+- Ensuring all credit card transactions are properly authorized and are for business purposes only.
+- Processing payments for credit card statements on a timely basis and accruing for expenses in the proper accounting period.
+- Reviewing all expense reports and forwarding to the employee’s manager for final review and ensure all expenses are recorded accordingly.
+
+### Foreign Currency Translation Policy
+
+**Overview**
+Foreign currency translation describes the method used in converting a foreign entity's functional currency (as determined and documented in GitLab.com>Finance>Issues>#630) to the reporting entity's financial statement currency. Prior to translating the foreign entity’s financial statements into the reporting entity’s currency, the foreign entity’s financials must be prepared in accordance with generally accepted accounting principles (GAAP), specifically under [Financial Accounting Standards Board (FASB) Statement No.52](http://www.fasb.org/summary/stsum52.shtml). GitLab’s financial statement reporting currency is USD. The functional currency of our non-U.S. subsidiaries is the local currency. Changes in foreign currency translation are recorded in other comprehensive income (loss), which is reported in the consolidated statement of equity and ultimately carried over to the consolidated balance sheet, under equity.
+
+**Exchange Rates**
+Exchange rates used in the currency translation process vary across the three primary financial statement components:
+
+ - **Assets and Liabilities:**  Exchange rate between functional currency and reporting currency at period-end.
+ - **Income Statement:**  The average exchange rates during the period presented.
+ - **Equity:** The historical exchange rate at the date when entry is made to shareholder's equity. Changes in retained earnings are based on historical exchange rates of each period's income statement.
+
+**Transaction Risk vs Translation Risk**
+
+**Currency Transaction Risk**
+Currency transaction risk is due to company transactions denominated in foreign currencies. These transactions must be restated into the entity functional currency equivalents before they can be recorded. Gains(losses) are recognized when a payment is made or interim balance sheet dates.
+
+**Currency Translation Risk**
+Currency translation risk occurs due to the company owning assets and liabilities denominated in a foreign currency.
+
+**Cumulative Translation Adjustment**
+A cumulative translation adjustment (CTA) is an entry to the comprehensive income section of a translated balance sheet that summarizes the gains(losses) resulting from exchange rate differences over time. Currency values shift constantly, affecting how a currency is valued against others. The CTA is a line item in the consolidated balance sheet that captures gains(losses) associated with international business activity and exposure to foreign markets. The changes in CTA are recorded in other comprehensive income (loss). CTA’s are required under GAAP since they help distinguish between actual operating gains(losses) and those that arise from the currency translation process. Additional information on our reporting standards surrounding CTA's can be found in [FASB Topic 830, "Foreign Currency Matters."](http://www.fasb.org/jsp/FASB/Document_C/DocumentPage?cid=1176162203697&acceptedDisclaimer=true)
+
+Recording CTA - Exchange rate gains and losses for individual transactions are captured automatically by our ERP system, NetSuite. However, a CTA entry must be made in order to properly distinguish currency translation gains(losses) from other general gains(losses) in the consolidated financial statements. This entry includes reconciliation of any intercompany activity that generates foreign exchange gains(losses). The CTA is made on a monthly basis as part of our financial statement reporting cycle.
+
+
+### Chart of Accounts Policy
+
+**Scope**
+This policy establishes GitLab’s guidelines regarding the structure, responsibilities and requirements underlying the [chart of accounts (COA).](https://www.investopedia.com/terms/c/chart-accounts.asp)
+
+**Purpose**
+This policy establishes formal responsibilities and accountabilities for how GitLab handles requests for new, modified or closed data elements on the COA. The Controller is responsible for all aspects of financial accounting and reporting, and governs the COA.  All requests for new or modified (including closure/deactivation) COA segments, hierarchies, and configuration attributes are subject to approval by the Finance team.
+
+**Changes to the COA**
+All requests for new or modified accounts must be submitted to the Accounting Manager for review and approval through a request using the Finance issue tracker.
+
+There are other stakeholders associated with the COA that may influence certain business decisions or financial system configurations. The Controller and Accounting Manager will include selected stakeholders in the related procedures and processes when and if appropriate. Potential stakeholders include, but may not be limited to:
+- Financial Planning and Analysis
+- Data & Analytics
+- Other departments who have shared functionalities within the financial system
+
+The general ledger attributes subject to this policy will be defined by the Controller based upon factors including but not limited to:
+- Creating and maintaining consistency for the structure of accounts
+- Standard accounting policies and practices
+- Regulatory compliance requirements and reporting needs
+- Financial and operational reporting needs and requirements
+- External accounting and financial reporting requirements
+
+Once an amendment to the COA has been approved, the Accounting Manager will ensure the necessary changes are implemented by updating and then closing the issue.
+
+**Administration**
+The COA is maintained in NetSuite. Changes to the COA can only be made by the Controller and/or Accounting Manager.
+
+#### Account Reconciliation Policy
+
+**Scope**
+This policy applies to GitLab Inc. (“GitLab” or the “Company”) and all of its subsidiaries.
+
+**Purpose**
+To establish guidelines for assessing, preparing and reviewing balance sheet account reconciliations on a consistent basis in accordance with corporate policies and US Generally Accepted Accounting Principles (“GAAP”).
+
+**Policy**
+Account reconciliations are prepared and reviewed monthly or quarterly for each active balance sheet account at the natural account level based upon the risk rating assessed (see risk rating assessment below).  Account reconciliations will be prepared consolidated in USD or by entity in the respective functional currency.
+
+Each month end close the Senior Accounting Manager assigns each balance sheet account or groups of accounts to its respective preparer and reviewer using BlackLine (Account Reconciliation Tool).  The assignments are set once and will roll over into the next accounting period.  The Senior Accounting Manager will make changes to assignments as needed.  The preparer and reviewers can not be the same person to ensure segregation of duties.
+
+The balances from NetSuite will be auto synced into BlackLine each period end so the preparers can prepare their recons based on the NetSuite ending balance for their respective assigned accounts.
+
+The preparer(s) will ensure the following:
+- Review all activities ensure activity is recorded properly.
+- Identify any reconciling items.
+- Upload any supporting documentation and/or add schedules as needed.
+- Certifies the recon in BlackLine which will auto route it to the reviewer(s) for their review and approval.
+
+The reviewer(s) will ensure the following:
+- Ensures account reconciliations are prepared in compliance with this policy.
+- Ensures the account reconciliations are complete, accurate and appropriate.
+- Certifies the account reconciliation in the Blackline which will update the status of the recon to the reviewed/approved status.  Once the recon is reviewed/approved the recon can’t be altered.
+
+BlackLine will auto certify the recon on our behalf if the following is met:
+- No activity
+- Balance is zero
+
+If the balance changes after review, approval or auto certification the recon will automatically be decertified by BlackLine and the preparer and reviewers will need to follow the above steps again.
+
+**Risk Rating Assessment**
+Once a year in the beginning of Q4, the Controller and/or CFO will review each active balance sheet account and rate it from High, Medium and Low.  The risk level of each account is evaluated based both on the quantitative value (to determine materiality) and the qualitative factors listed below:
+- Level of judgement required:  risk increases as level of judgement required increases
+- routine/non-routine transactions: risk increases as amount of non-routine/non-standard processes required to record the activity increases
+- History of issues: risk increases as the number of audit-related adjustments, questions, restatements increases.
+- Complexity: risk increases due to business/system changes, new pronouncements, and new complex calculations that impact the balance sheet.
+
+High Risk Accounts will be reconciled by the preparer monthly (for the exception of tax and equity related accounts which will be reconciled quarterly) and will require 1st level review by an accounting manager or above and 2nd level review by the CFO or PAO.
+
+Medium Risk Accounts will be reconciled by the preparer monthly and will require 1st level review by an accounting manager or above.
+
+Low Risk Accounts will be reconciled by the preparer monthly or quarterly and will require 1st level review by an accounting manager or above.
+
+If there is no activity and/or the account balance is zero the reconciliation will be auto certified by BlackLine.
+
+Once each reconciliation is reviewed/approved the account reconciliation is locked in BlackLine and no further changes can be made for that period.
+
+**Completeness Check**
+Once the period is officially closed the Senior Accounting Manager will ensure all recons are in approved, reviewed or in a auto-certified status before moving into the next period.
+
+## PS Fair Value Allocation Process:
+
+The process of allocating and recomputing the recognizable revenue when the contractually stated price for any deliverable is not proportionate to the corresponding “fair value” (stand-alone selling price of each deliverable). Therefore, GitLab has created the process below to help recognize revenue accordingly.
+
+The process for this is listed below:
+
+1. Identification:
+  - Any client with a license booking and PS booking within 30 days of each other.
+  - Any client with multiple PS SKU’s with any one of the booking being within 30 days.
+1. Identify Performance Obligation:
+  - All the performance obligations/deliverables i.e. license, implementation, migration, training, etc. should be identified.
+1. Stand-alone Fair Value:
+  - Identify the stand-alone fair value for each performance obligation/deliverable which were identified in Step 2. Use/Refer to this [template](https://docs.google.com/spreadsheets/d/1E0gv1x7aln7u5lR61Og3l0_Sv5QhlD6jsbmzSI6MsmY/edit).
+1. Allocation
+  - The total transaction price (combined value if multiple deals identified in Step 1) should be allocated in the ratio of their fair value calculated in Step 3.
+1. Revenue Recognition
+  - Revenue should be recognized separately for each performance obligation/deliverable as per the Revenue Recognition policy.
+
+### Reporting
+The below details the current reporting structure for GitLab.  This will be updated as our reporting evolves.
+
+#### Cash
+Defined as cash in the bank.  Also counts short term securities that are readily convertable into cash within the next 90 days.
+
+#### Cash Burn and Average Cash Burn
+The change in cash balance from period to period excluding equity or debt financing. Average cash burn is measured over the prior three months.  The analysis can be found on the [Finance Dashboard](https://app.periscopedata.com/app/gitlab/483606/Finance-KPIs?widget=6880820&udv=0). Cash data is sourced from Netsuite.
+
+#### Line of Credit (LOC) Available
+The amount of contractually committee line of credit extended by the bank that is not in default status.
+
+#### Free Cash Flow (FCF)
+{: #fcf}
+Cash flow from operations as defined by GAAP less Capital Expenditures.
+
+#### Gross Burn Rate
+Total operating expenses plus capital expenditures.
+
+#### Non GAAP Revenue (Ratable Recognition)
+The amount of subscription revenue recognized using ratable accounting treatment as calculated by the subscription amount divided equally over the subscription term. Note that other GAAP adjustments such as non-delivery, performance obligations are not accounted for in this metric.
+
+#### Adding New GL Accounts
+
+GitLab has an established GL Accounting system for reporting specific expenses. However, sometimes additional GL accounts need to be added to better clarify expenses that occur as GitLab continues to mature as an organization. When the need for a new GL account arises, Accounting will create an issue in the Finance repository and notify the following teams to ensure the changes are effectively communicated.
+
+- Accounts Payable
+- Accounting
+- FP&A
+- Data
+
+#### Policy on Treasury activities
+(Open, closing of bank accounts, approvals, authorization matrix etc)
+[Desktop procedures](https://docs.google.com/document/d/1oNthwJ4aYRE5fpN5g1-G-4ejZ2yWUlfNW5JAF7CiP_A/edit?usp=sharing)
+
+#### Technical Accounting Performance Indicators
+##### Deals reviewed for revenue recognition = 100%
+All deals with a contract value above $50,000 executed in a particular week to be reviewed for revenue recognition matters, before the end of Wednesday of the following week.
+##### Issue opened for all key technical accounting matters <= 2 working days
+An issue to be opened for all key technical accounting matters within 2 working days of obtaining knowledge about the same.
+##### Key technical accounting matters to documented <= 5 working days
+All key technical accounting matters to documented in an accounting memo within 5 working days of opening an issue thereon.
+##### Technical accounting queries disposed of <= 2 working days
+All routine technical accounting queries to be disposed of within 2 working days.
+
+#### Journal Entries and Mass Loads for NetSuite
+
+
+
+The accounting team uses standard and advanced intercompany journal entries to complete their monthly close processes.  In addition, mass loads are used to add or update vendor and employee records, for example. See link for templates.
+[JE and Mass Load templates](https://docs.google.com/spreadsheets/d/1Jt01Il3DYhXefHEGXOiBrGTQK6bWQODV7-Iw7iGj5Qc/edit#gid=1846405456)
+
+Journal entries are either manual or system generated.  System generated entries would include elimination entries calculated by NetSuite when the elimination process is run as part of month end close or exchange rate adjustments based on final exchange rates.  Manual journal entries are entered by the appropriate person in the Accounting department, depending on the nature of the entry.  All manual journal entries require approval and posting by a second person in order to verify accuracy and that the appropriate documentation is included with the entry.
+
+Manual journal entries are recorded in order to ensure our financial statements are materially accurate.  As such, subsequent to the issuance of the preliminary reporting package, certain manual journal entries will not be recorded if they are immaterial.  It is inefficient to record entries that would not have a material impact on the users of our financial statements unless these entries would be material if accumulated.  Effective February 1, 2020, thresholds for manual journal entries are as follows:
+
+| **Journal Entry Type** | **Threshold** |
+| ------ | ------ |
+|Accruals |$5,000 |
+|Allocations between Departments (requires approval by FP&A team) |$25,000 |
+|Reclass between Accounts |$10,000 |
+
+Journal entry types not included above will always be recorded, no matter the amount.  These include entries such as bank account activity, payroll, and taxes.
+
+
+### Recording Employee Stock Option Expense
+
+Employee stock options are recorded on a calendar quarterly basis. The puropse of this entry is to record the expense and allocate it between the appropriate departments.
+
+1. Request a copy of the Carta report named "GitLab-Inc 20XX Equity Incentive Plan Grant Date Annual US GAAP Consolidated" from the CFO (the report should be in CSV/Excel format).
+1. We will focus on the Expense Summary and Date tabs
+1. On the Expense Summary tab, click on the journal entry amount to see column and tabs being referenced in the formula.
+    * This should be column AX of the Date tab, and this column will be used to allocate the total expense between departments.
+1. Sort the columns on the Date tab and delete all rows with a zero balance
+1. Add a column to the Date tab with department information that corresponds to the employees referenced in column B (department information can be found in NetSuite).
+1. Create a pivot table using the data from column AX and the department column created in the previous step.
+    * The pivot table should provide the amount of stock option expense attributable to each department.
+1. Check that the total amount of the pivot table matches the amount on the Expense Summary tab.
+1. Proceed to NetSuite to create a journal entry that matches the Expense Summary tab.
+1. Date the journal entry using the last day of the quarter being closed.
+1. The debit side of the entry uses GL "6077 Stock Compensation Expense" for all departments other than Cost of Sales which uses GL "5090 Stock Compensation Cost of Sales."
+1. Be sure to fill in the Department attribute when adding lines to the journal entry.
+1. The credit side of the entry only needs one line and uses GL "3015 Additional Paid in Capital- Stock Options"
+1. Save the report used to calculate the journal entry and attach it to the entry within NetSuite.
+1. Click Save and the entry is complete
+
+
+
+## Month-End Review & Close
+
+Each month the Senior Accounting Manager will lead a Month-End review to discuss any updates that need to occur before Month-End Close. The review will also include topics for future improvements and to discuss any outstanding tasks from the previous Month-End review. This review is to encourage colloabration, identify efficiences, and quickly fix any discrepancies. The Month-End review guidelines are highlighted below:
+
+1. All team members who are involved in the close process are encouraged to add topics to the [Month-End review doc](https://docs.google.com/document/d/1fr2PA_A4idTpxmbRzAL4fQY_VP8cW4c2lXyWR_cowC8/edit#)
+1. During monthly review meeting, the team reviews previous issues and adds new takeaway issues to [Month End Review](https://gitlab.com/gitlab-com/finance/boards/799989?&label_name[]=Month%20End%20Review) GitLab board. Issues specific to the Month-End review process can be found [here](https://gitlab.com/gitlab-com/finance/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=&issuable_template=month_end_review)
+1. After the conclusion of the Month-End review, the team focuses on closing tasks
+1. Repeat 1
+
+In addition to the Month-End review process, Accounting will coordinated the Month-End Close Checklist to ensure all closing tasks are completed.
+
+- [Month-End Close Checklist](https://docs.google.com/a/gitlab.com/spreadsheets/d/1SSUQpudxxpPgXIS97Ctuj-JRII0qhq0I3r19jmBKU7c/edit?usp=sharing)
+### Preliminary vs Final
+
+The monthly close process includes both a preliminary and final close process. If any adjustments come out of the preliminary financial review the Accounting team will book the adjustments before the final financial results are published. After any adjustments are made the accounting team will then record the intercompany calculations and ensure all intercompany eliminates properly before officially closing the month.  Once the period is officially closed the accounting team will run the final financials and distribute to the appropriate management team.  The intercompany calculations are the very last entry during the month end close process. Therefore, the Accounting team ensures that the preliminary financial results are corrected and/or updated before the intercompany calculations are completed and books are officially closed to improve efficiency.
+
+## Intercompany transactions
+
+### Intercompany Calculation and Settlement
+
+This section will be updated soon. 
+
+## Reporting
+## Types of Reporting:
+
+### Internal / Management Reporting
+* Profit and Loss Statements (P&Ls)
+   * Management P&Ls - A roll up of departmental reporting.  These P&Ls form the primary basis for budgeting and variance analysis.
+   * Business Unit P&Ls - GitLab has one business unit at this time.
+   * Geographic P&L’s - used primarily for showing performance in various regions.
+   * Channel P&Ls - used to measure performance by channel of distribution.
+   * Product P&Ls - used to show performance by product line
+* The rolling twelve month expense trend can be found in Sisense here: [Expense Trend](https://app.periscopedata.com/app/gitlab/550489/12-Month-Expense-Trend)
+* Plan to Actual comparison
+
+### External Reporting
+* Public Format - These are the audited financial statements that are reported to investors, bank, the public, etc.
+   * With and without stock option expense
+   * Department Roll up
+   * Future - SEC Requirements
+* Statutory P&Ls - used for tax filings on an entity by entity basis.
+* Bank Reporting
+   * Compliance certificate
+   * Borrowing base calculation
+   * Financials: Income Statement, Balance Sheet, Cash Flow, AR Aging, AP Aging
+
+#### Differences between Management Reporting and External Reporting
+* Stock Based Compensation Expense
+   * Management reporting does not include expenses associated with stock based compensation, including: 1) amortization of stock compensation expense and 2) compensation charges related to secondary offerings.  Stock based compensation expense is included in our external reporting.
+* Operating Expenses
+   *  Management reporting has the following operating expense line items: Research and Development, GitLab.com, Sales, Marketing, General and Adminstrative.  
+   *  External reporting has the following operating expense line items: Research and Development, Sales and Marketing, General and Adminstrative.  GitLab.com operating expenses are included in Sales and Marketing for external reporting purposes.
+
+
+### Financial Planning and Analysis (FP&A)
+
+[FP&A Handbook](/handbook/finance/financial-planning-and-analysis/)
+
+
+##  Hire to Retire
+
+
+<a name="payroll-inc"></a>
+
+
+
+### Commission Payment Process
+<a name="commission"></a>
+
+1. Each sales person will receive their own calculation template.
+1. Salesperson is to complete their monthly template four days (payroll will send reminder) prior to first payroll of the month. Upon completion, salesperson will ping a manager for review and approval.
+1. Approving manager will ping accounting upon approval.
+1. Accounting will review and reconcile paid vs unpaid invoices.
+1. Accounting will note in calculation template the amounts to be paid in commission.
+1. Accounting will ping payroll that commission calculation is complete.
+1. Commission will get pay on the 1st check date of the month for US team members and at the end of the month for all other countries.
+
+
+### Importing Swag Shop data to Avalara
+
+In [Shopify](https://www.shopify.com/login):
+1. Click on "Orders" in the left-hand toolbar.
+1. Select "Export" and the desired transaction history period.
+1. Download the report in CSV format.
+1. Copy the transaction data from the Shopify report to the [Avalara Tax Import template](https://drive.google.com/file/d/19_UBjfqKcnuOWDfHfRVfFRc5L35QF4Gf/view?usp=sharing) located in the Google Drive.
+    * Note that the import will fail if the columns that are highlighted green are left blank. Also check to ensure that the state and local tax data is entered into the correct columns. This is required for tax compliance.
+1. Save file for the remaining steps below.
+
+In [Avalara](https://admin-avatax.avalara.net/login.aspx?ReturnUrl=%2fAvaTax%2fTools%2fItemImportUpload.aspx):
+1. Click on "Reports".
+1. Select the "Import Data" option.
+1. When prompted, choose the CSV import option.
+1. Check the import status report to ensure all transactions are successfully imported.
+
+
+
+#### Tax on stock options
+
+### Cash Forecasting and Tracking
+
+1. The Controller maintains the actual and forecast reporting for cash by entity.
+2. The google sheet is updating weekly and reconciled to Netsuite once per month.
+3. To find the internal google sheet search for "Cash Flow Forecast". If you need permission to access email the controller.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
