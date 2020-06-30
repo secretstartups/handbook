@@ -380,7 +380,7 @@ Once the Labor Contract has been signed by both CIIC and the new hire the indivi
 
 ## Employment Agreements for GitLab team-members in Germany
 
-A wet signature is required for German employment agreements the following process must be followed:
+Please note, due to German labor law, the stock options are not included in the contract template and are not to be listed on the contract. If the candidate asks specifically for this information to be listed on the contract, please seek guidance from the CES Team Lead and/or Legal. A wet signature is required for German employment agreements the following process must be followed:
 
 1. The Offer is made by the recruiter per the [hiring process](/handbook/hiring).
 1. The Candidate Experience Specialist sends the new team member the GreenHouse email template: German Contract Step 1.
