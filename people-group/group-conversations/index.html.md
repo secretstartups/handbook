@@ -187,7 +187,7 @@ Note: If you will be out of office on the day of your Group Conversation, or nee
 ## After the Call
 
 1. Once the call has finished, quickly audit the YouTube video for any issues (e.g., another stream on the video, errant transcript in the description). If you identify any issues with the video, [contact Security immediately](/handbook/engineering/security/#engaging-the-security-on-call). 
-1. All calls are published live to YouTube, with the exception of Finance, Sales, Security, Channel, and Partnerships. Every call is reviewed live to change livestream to private should anything confidential arise.
+1. All calls are published live to YouTube, with the exception of Finance, Sales, Security, and Partnerships. Every call is reviewed live to change livestream to private should anything confidential arise.
 1. If streaming live is not available, ensure the call is [uploaded to Youtube](/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube) and then announced in the appropriate slack channel. (i.e. `#whats-happening-at-gitlab`, `#apac`) 
 1. The conversation is also announced on and the recording linked from our company call agenda.
 1. Calls are 5 times a week 30 minutes before the company call, 8:00 to 8:25am Pacific.
