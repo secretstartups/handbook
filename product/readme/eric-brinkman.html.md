@@ -36,6 +36,8 @@ As a Director of Product at GitLab, it's my job to build and lead a high functio
 * Serving team members by helping them work through tough issues.
 * Collaborating with team members on important product strategy initiatives.
 
+In June of 2020, I was promoted to Senior Director of Product. For more information on why I was promoted, check out my promotion [doc](https://docs.google.com/document/d/e/2PACX-1vTYv7raFcINAYQfiHpTHjqsZ7eSvlENL7MuKhKWVCoPRZLmcGS9vtg8siI8dzn_3KXdho9MR_NI3nT1/pub).
+
 ## Communicating and working with me
 
 * I love getting to know people personally and deeply - if this is not your desired style/interaction, please let me know and I will adapt to you and your communication style!
@@ -60,6 +62,14 @@ As a Director of Product at GitLab, it's my job to build and lead a high functio
 * I desire to be approachable, please let me know if I ever come off as opposite of that. If you need to chat outside of a schedule 1x1, feel free to drop an ad-hoc meeting on the calendar, even if it’s the same day.
 * I am typically very quick to respond to Slack/Text/Email during working hours. At times, I will turn off notifications to get deep work done, but will typically check in once an hour if I'm in that mode.
 * I go back and forth between having the Slack app installed on my phone and not. If it's installed notifications are turned off.
+
+## 360 Feedback and Development Themes
+
+Throughout the spring of 2020, we ran a company wide 360 feedback process. The following are themes that Eric is working on for personal and professional development based on that feedback.
+
+* Aligning our strategy and business objectives
+* Becoming a data driven organization
+* Hiring for diversity
 
 ## Eric's favorite things
 
