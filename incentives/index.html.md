@@ -223,7 +223,7 @@ The following is an example of a cumlative Referral Bonuses:
 An underrepresented group describes a subset of a population that holds a smaller percentage within a significant subgroup than the subset holds in the general population. The accepted definition of “underrepresented minorities” from the National Science Foundation and other major research institutions focuses on racial and ethnic groups whose representation in a profession is significantly below their representation in the general population. While any non-majority group in the workplace is a “minority”, they are not considered to be “underrepresented” unless they meet this definition.  
 
 We offer a referral bouns premium for the following groups:
-* Women in Engineering, Product & Sales - Globally
+* Women in Engineering, Product & Sales Division - Globally
 * Women in [Leadership](/company/team/structure/#organizational-chart) - Globally
 * African American/Black - Globally
 * Hispanic American/Latino - Globally
