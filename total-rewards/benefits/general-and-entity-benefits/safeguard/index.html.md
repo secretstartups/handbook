@@ -15,6 +15,13 @@ Can't find what you're looking for? Try the main [People Operations page](/handb
 
 The following benefits are provided by [Safeguard](https://www.safeguardglobal.com/) and apply to team members who are contracted through Safeguard. If there are any questions, these should be directed to People Operations at GitLab who will then contact the appropriate individual at Safeguard.
 
+## Brazil
+* Medical and dental insurances are provided by the local provider, Operadora Bradesco Saúde.
+* Both the company and team members make contributions to the National Institute of Social Security which covers benefits such as retirement, pension, illness, disability and unemployment. These social security contributions are included as part of Safeguard’s payroll process.
+
+## France
+Social security contributions towards pension, disability and health insurance are made via Safeguard’s payroll process.
+
 ## Ireland
 
 - Currently Safeguard does not provide private healthcare
