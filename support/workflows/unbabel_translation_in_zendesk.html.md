@@ -50,7 +50,11 @@ You can also use [a javascript snippet](https://gitlab.com/gitlab-com/support/to
 
 To request a translation automatically, simply reply as you normally would as an internal note with the #unbabel hashtag included at the top of your content. 
 
-Please also ensure that the `always_unbabel` , `unbabel_en`, `unbabel_reply`, `unbabeled` tags are included.
+Please also ensure that the `always_unbabel` , `unbabel_en`, `unbabel_reply`, `unbabeled` tags are included, otherwise your response might not be translated automatically.
+Should this happen, you will need to add the missing tags, and create a new internal note with the #unbabel hashtag included at the top of your content.
+
+Once you submit your response, it may take several seconds for Unbabel to automatically translate your internal comment, but it can take several minutes if a human is required
+to manually translate your internal comment. To view the status of the translation, you can open the Apps sidebar in the ticket, and scroll down to the **Unbabel for Zendesk Support** box.
 
 ### Excluding Text from Translation
 
