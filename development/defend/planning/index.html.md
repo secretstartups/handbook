@@ -146,7 +146,7 @@ read through all the comments. The important bits should be captured in the desc
 Note the following differences when refining bugs:
 
 1. As a guideline, spend no more than 1 hour per issue. Bugs that take too long to refine are
-   indicative of a harder issue.
+   indicative of a more complex issue.
 1. Do not add weight. Our velocity represents the capacity to deliver bug-free work.
 1. When you hit the time limit for refinement, it's ok to have uncertainty in the [Implementation
    Plan](#implementation-plan). It's sufficient just to direct where you expect the code change to be (high or low level).
