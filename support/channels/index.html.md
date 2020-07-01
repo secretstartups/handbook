@@ -62,11 +62,11 @@ For customers on free plans (.com 'Free' and self-managed 'Starter') there is th
 
 ## Partner Support
 
-There are 2 types of Partners; Open and Select. 
+There are 2 types of Partners: Open and Select. 
 
-Open Partners generally will create a ticket on behalf of a customer and GitLab Support will then work with the customer on the ticket. Support will be provided based on the subscription plan of the customer.
+Open Partners generally will create a ticket on behalf of a customer and GitLab Support will then work directly with the customer on the ticket. Support will be provided **based on the customer's subscription plan**.
 
-Select Partners will create and manage a ticket, acting as the go between for the customer and GitLab Support. Select Partners will receive [Priority Support](https://about.gitlab.com/support/#priority-support) regardless of the subscription plan of the customer.
+Select Partners will create and manage a ticket, acting as the go between for the customer and GitLab Support. Select Partners will receive **[Priority Support](https://about.gitlab.com/support/#priority-support) regardless of the customer's subscription plan**.
 
 ## GitLab issue trackers
 
