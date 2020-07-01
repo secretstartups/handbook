@@ -15,19 +15,21 @@ According to Gartner "Application performance monitoring (APM) is a suite of mon
 The APM team in GitLab is responsible for building a suite of monitoring solutions focusing on Logs, Metrics and Tracing all within GitLab UI
 you can read more about our monitoring visions for [Logs](https://about.gitlab.com/direction/monitor/apm/logging/), [Metrics](https://about.gitlab.com/direction/monitor/apm/metrics/) and [Traces](https://about.gitlab.com/direction/monitor/apm/tracing/).
 
-### North Star Metric (NSM)
+### Performance Indicator (Formally known as NSM)
 
-The APM group's mission is to help our customers decrease the frequency and severity of their production issues. As such, we've defined the team's North Star Metric (NSM) to be the total number of metric and log views. The decision to use this NSM is the following:
+The APM group's mission is to help our customers decrease the frequency and severity of their production issues. As such, we've defined the team's Performance Indicator (PI) to be the total number of metrics and log views. The decision to use this NSM is the following:
 * [Metric views are the entry point to monitoring](https://app.periscopedata.com/app/gitlab/636549/APM---CUSTOMER-USAGE-(Logs-+-Metrics)?widget=8437765&udv=989280)- The more useful our dashboards are, the more likely users are to come back and not default to some other tool to help them understand what is happening in their system.
 * Log views - Logs help teams correlate an event to the system's internal logs as part of the Triage workflow. The more views we'll have, the more likely that teams are resolving their production issues using our tools.
 
-Since the NSM is a single metric we've decided to combine those two metrics into a single one, which represents the team's NSM.
+Since the PI is a single metric, we've decided to combine those two metrics into a single one, representing the team's PI.
 
-### Accessing NSM data
+### Accessing PI data
 
-Currently, we are tracking the number of metrics view (see chart below), counting the number of log view will be available in 13.1
 
-<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 8437765, dashboard: 636549, embed: 'v2') %>">
+<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 9033545, dashboard: 636549, embed: 'v2') %>">
+
+<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 9033558, dashboard: 636549, embed: 'v2') %>">
+
 
 ## Communication
 
