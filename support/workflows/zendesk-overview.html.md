@@ -60,7 +60,7 @@ We use Zendesk Macros as a tool to help support common workflows and allow us to
 
 We currently have 3 reporting tools available:
 
-- Sisense - We use [Sisense](/handbook/business-ops/data-team/data-platform/periscope/) mostly to track our KPIs
+- Sisense - We use [Sisense](/handbook/business-ops/data-team/platform/periscope/) mostly to track our KPIs
 - Explore - Newest Zendesk Reporting tool. Customer analytics toolkit that helps us measure and optimize every interaction a customer has with GitLab.
 - Insights/GoodData - Zendesk Legavy reporting tool. Insights is an analytics offering with data and best-practice dashboards. It will be discontinued in the future in favour of Explore, no specific date has been announced.
 
