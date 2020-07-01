@@ -1037,6 +1037,19 @@ They help us describe the type of behavior that we expect from people we hire.
 They help us to know how to behave in the organization and what to expect from others.
 Values are a framework for distributed decision making; they allow you to determine what to do without asking your manager.
 
+## Scenarios: How to scale the business while preserving GitLab value? 
+This section aims to provide some real world examples to show you how you can approach everyday business scenarios and challenges with GitLab Value in mind.
+
+**Scenario 1**: *For certain business decisions or projects, GitLab team members may have a lot of opinions and interest, and they want to provide their feedback and comments. On the other hand,  it might be challenging for the project owner to digest and respond to all these inputs. What should you do in this scenario?*  
+
+First of all, everyone can contribute at GitLab. We encourage team members to share their feedback and leave their comments on issues. Leaving feedback and comments show team members care about this topic and they care about GitLab as a company. Their perspectives may also help uncover potential risks and problems in the project. 
+
+There shouldn't be a [“Don’t they have their job to do”](https://www.youtube.com/watch?v=U9de50APPAg) type of response. Furthermore, we shouldn’t judge team members who are perceived as being the “squeaky wheel”.  At GitLab, we [Measure Results Not Hours](https://about.gitlab.com/handbook/values/#measure-results-not-hours). As long as the team members are producing their required results, it is their freedom to decide how to spend their time. 
+
+On the other hand, as GitLab grows in size, we need to make decisions and the decisions may not be agreed to by everyone.  If a decision or project is sensitive or controversial, and receives large amounts of feedback, it can be challenging for the project owner to handle. We need to think about how to address that challenge - for example, the manager of the project owner may need to get involved to help route the feedback, or we may need to ask team members to submit their feedback to their managers first. 
+
+
+
 ## Why our values are public
 
 Companies are encouraged to copy and implement GitLab's values. They are Creative Commons and can be copied verbatim.
