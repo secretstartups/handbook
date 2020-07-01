@@ -9,26 +9,26 @@ title: "Total Addressable Market"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-Total Addressable Market is the annual revenue opportunity of the entirety of GitLab’s market. The potential value of everyone worldwide that could purchase our product.
+Total Addressable Market (TAM) is derived by multiplying the estimated number of seats licenses (Users) available by GitLab's potential annual average revenue per user (ARPU).  
 
 | Year | Audience | Users | ARPU | TAM |
 | ---- | -------- | ----- | ---- | --- |
 | 2013 | Enthusiasts | 1m | $20 | 20m |
 | 2015 | Developers | 20m | $100 | 2b |
-| 2019 | DevSecOps | 41m<sup>1</sup> | $350 | 14b |
-| 2023<sup>2</sup> | Full platform | 41m<sup>1</sup> | $1188 | 49b |
-| 2025<sup>2</sup> | Entire process | 60m<sup>3</sup> | $1188 | 71b |
+| 2019 | Enterprise | 41m<sup>1</sup> | $350 | 14b |
+| 2023 | DevSecOps | 50m<sup>2</sup> | $500 | 25b |
+| 2025 | Platform | 60m<sup>3</sup> | $1,188 | 71b |
 
-<sup>1</sup>22m developers ([from IDC](https://www.idc.com/getdoc.jsp?containerId=US44363318)) plus security and operations
+<sup>1</sup>GitLab projection for users within organizations of more than 2,000 employees
 
-<sup>2</sup>Projection
+<sup>2</sup>GitLab projection for users accountable for software development, security, and operations
 
-<sup>3</sup>Additional projected audience:
+<sup>3</sup>Additional potential users:
  1. Product managers
  1. Management
- 1. Compliance people
- 1. Designers
+ 1. Compliance
  1. Network engineers
+ 1. Designers 
 
 
 
