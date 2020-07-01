@@ -60,11 +60,11 @@ If you need help with scripting for fixes, internal tools, or any other reason.
 |---------------|--------|-----------------|
 | Ruby/Rails    | AMER | Davin <br> JasonY |
 |               | EMEA | Ronald <br> Catalin |
-|               | APAC | Wei-Meng Lee <br> Arihant <br> Priyan |
+|               | APAC | Wei-Meng Lee <br> Arihant <br> Priyan <br> Anton |
 | GO            | APAC |   |
 |               | EMEA | Catalin |
 |               | AMER |   |
-| JavaScript    | APAC | Wei-Meng Lee <br> Arihant |
+| JavaScript    | APAC | Wei-Meng Lee <br> Arihant <br> Anton |
 |               | EMEA | Ronald <br> Catalin |
 |               | AMER | Davin |
 | Vue.js        | APAC | Wei-Meng Lee |
@@ -155,14 +155,14 @@ This section is ordered by stage and group according to the [product categories 
 |------------------------|--------|-------------|
 | CI | EMEA | DeAndre <br> Ronald <br> Silvester <br> David Wainaina|
 |    | AMER | Cynthia <br> Harish <br> Cody West <br> Cleveland <br> Gabe <br> Caleb W. |
-|    | APAC | Alex Tanayno <br> Athar <br> Arihant <br> Priyan|
+|    | APAC | Alex Tanayno <br> Athar <br> Arihant <br> Priyan <br> Anton |
 | Jenkins Integration | AMER | Aric |
 
 ##### Runner
 
 | Topic                  | Region | Team Member |
 |------------------------|--------|-------------|
-| GitLab Runner          | APAC   | Alex Tanayno <br> Arihant            |
+| GitLab Runner          | APAC   | Alex Tanayno <br> Arihant <br> Anton |
 |                        | EMEA   | Ronald <br> Silvester     |
 |                        | AMER   | Davin   |
 | Kubernetes Executor    | AMER   |             |
@@ -235,11 +235,13 @@ This section is ordered by stage and group according to the [product categories 
 
 #### Secure
 
-| Group             | Topic                  | Team Member |
-|-------------------|------------------------|-------------|
-| Static Analysis   | SAST                   | AMER: <br> Thiago <br> Greg |
-| Dynamic Analysis | DAST                   | AMER: <br> Thiago <br> Greg |
-| Composition Analysis | Dependency Scanning <br> Container Scanning <br> License Compliance | AMER: <br> Greg |
+| Group             | Topic                  | Region | Team Member |
+|-------------------|------------------------|--------|-------------|
+| Static Analysis   | SAST                   | AMER   | Thiago <br> Greg |
+|                   |                        | APAC   | Anton |
+| Dynamic Analysis  | DAST                   | AMER   | Thiago <br> Greg |
+|                   |                        | APAC   | Anton |
+| Composition Analysis | Dependency Scanning <br> Container Scanning <br> License Compliance | AMER   | Greg |
 
 #### Defend
 
