@@ -119,7 +119,7 @@ Test your knowledge and self-reflect on the Remote Work Competencies by completi
 
 In addition to our values, remote work, and functional competencies, we have identified manger competencies that serve as the foundation to a whole person approach to management. Our leadership and management development programs incorporate the competencies as the bedrock for creating impactful training for our people.  
 
-1. [Emotional Intelligence](/company/culture/gitlab-101/)
+1. [Emotional Intelligence](https://about.gitlab.com/handbook/people-group/learning-and-development/emotional-intelligence/#emotional-intelligence-manager-competency)
 2. [Modeling a Culture of Feedback](/handbook/people-group/guidance-on-feedback/#modeling-a-culture-of-feedback-manager-competency)
 3. [Coaching](/handbook/people-group/learning-and-development/career-development/coaching/#coaching-manager-competency)
 4. [Conflict Resolution](/handbook/people-group/leadership-toolkit/Managing-conflict/#conflict-resolution-competency)
