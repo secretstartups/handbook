@@ -188,7 +188,7 @@ The format is: misused term => correct term, reason why.
    1. Seat link is number of seats on a license
    1. [Version check](/handbook/sales/process/version-check/) is what version of GitLab a subscription is using
    1. [Usage ping](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#usage-ping-core-only) is high level data of how GitLab is being used in a license
-   1. [Snowplow](/handbook/business-ops/data-team/data-platform/snowplow/) is a dynamic site for web event analytics
+   1. [Snowplow](/handbook/business-ops/data-team/platform/snowplow/) is a dynamic site for web event analytics
    1. [Google Analytics](/handbook/tools-and-tips/#google-analytics) is a static site for receiving data from about.gitlab.com and docs.gitlab.com
    1. Database events is using the database records of Gitlab.com to look at how people are using the application.
 1. Rule of thumb => Guideline or Heuristic, since rule of thumb is of [dubious historical origins](https://www.phrases.org.uk/meanings/rule-of-thumb.html) and can be considered a violent or non-inclusive term.
