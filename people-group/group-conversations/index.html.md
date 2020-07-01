@@ -30,7 +30,7 @@ Below is a guide to help everyone get the most out of these conversations. If yo
 
 ### Host
 
-Before you host your first Group Conversation, complete this [Group Conversation training issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/.gitlab/issue_templates/group-conversation-host.md). 
+Before you host your first Group Conversation, complete this [Group Conversation training issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/group-conversation-host.md). 
 The host of a Zoom call is the person leading the conversation, usually the [DRI](/handbook/people-group/group-conversations/#schedule--dri), subject matter expert and overseer of the slides created for a call. Another term for the role is presenter. Questions will generally be directed to the host, and they will usually answer them unless they feel that another team member has more information or expertise to answer. The host/presenter makes sure that questions are asked in the order they are listed in the agenda document. The "host" term can be confusing as Zoom has a specific definition for host, which in practice GitLab does not assign to the term. _More information on Zoom's definition of "host" is explained below_. 
 
 ### Moderator
