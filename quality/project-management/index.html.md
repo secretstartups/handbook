@@ -14,20 +14,43 @@ title: "Quality Team's Project Management"
 The Quality team currently works cross-functionally and our task ownership spans multiple projects.
 
 * **GitLab.org**
-  * [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa/)
-  * [GitLab-Insights](https://gitlab.com/gitlab-org/gitlab-insights/)
-  * [Insights configuration for the `gitlab-org` group](https://gitlab.com/gitlab-org/quality/insights-config/)
+  * [Gitlab QA](https://gitlab.com/gitlab-org/gitlab-qa/)
   * [GitLab-Triage](https://gitlab.com/gitlab-org/gitlab-triage)
-  * [GitLab CE Tests](https://gitlab.com/gitlab-org/gitlab-ce/)
-  * [GitLab EE Tests](https://gitlab.com/gitlab-org/gitlab-ee/)
-  * [Known QA failures](https://gitlab.com/groups/gitlab-org/-/boards/1385578?scope=all&utf8=✓&state=opened&label_name[]=QA&label_name[]=Quality&label_name[]=bug)
+  * [GitLab](https://gitlab.com/gitlab-org/gitlab/)
+  * [GitLab Customer Portal](https://gitlab.com/gitlab-org/customers-gitlab-com)
   * **Quality Group**
-    * [Quality team's task](https://gitlab.com/gitlab-org/quality/team-tasks/boards/)
+    * [Quality team tasks](https://gitlab.com/gitlab-org/quality/team-tasks/)
     * [Triage-Ops](https://gitlab.com/gitlab-org/quality/triage-ops/)
     * [Nightly tests](https://gitlab.com/gitlab-org/quality/nightly)
     * [Staging tests](https://gitlab.com/gitlab-org/quality/staging)
-    * Canary tests (future)
-    * Production tests (future)
+    * [Canary test pipeline](https://gitlab.com/gitlab-org/quality/canary)
+    * [Production test pipeline](https://gitlab.com/gitlab-org/quality/production)
+    * [Known QA failures](https://gitlab.com/groups/gitlab-org/quality/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=bug)
+
+### Reviewers and maintainers
+
+Upon joining the Quality department, team members are granted either developer, maintainer, or owner access to a variety of core projects. For projects where only developer access is initially granted, there are some criteria that should be met before maintainer access is granted.
+
+For general information, please see the [engineering workflow page](https://about.gitlab.com/handbook/engineering/workflow/code-review/#how-to-become-a-maintainer) about how to become a maintainer.
+
+* [GitLab (/qa)](https://gitlab.com/gitlab-org/gitlab/-/tree/master/qa)
+  * Quality team members are code owners for this directory. If you are tagged by a developer and don't yet feel comfortable approving a merge request, please tag another member of the Quality department to help review.
+  * In general, we expect that team members will generally feel comfortable and will be granted maintainer access once they have:
+    * Completed 5 merged MRs related to improvements to the framework.  
+    * Completed 10 merged MRs related to adding new end-to-end tests or making substantial improvements to existing ones.
+* [GitLab-QA](https://gitlab.com/gitlab-org/gitlab-qa)
+  * Completed 5 merged MRs that demonstrate good understanding of the codebase.
+* [GitLab Triage](https://gitlab.com/gitlab-org/gitlab-triage/)
+  * Completed 10 merged MRs with all MRs reviewed by the Engineering Productivity team and resulting in no reverts.
+  * After completing the above requirement the maintainer should be vetted by an existing maintainer in the Engineering Productivity team. An issue should be created in the project outlining the reasons why this person should be a maintainer. List all 10 MRs in the issue to help aid with review.
+  * After the issue has been reviewed and approved by manager of the Engineering Productivity team, an access request will be created to grant the engineer maintainer role.
+* [Triage Ops](https://gitlab.com/gitlab-org/quality/triage-ops/)
+  * Engineers who authored at least 10 merged MRs should be given Maintainer access.
+* [GitLab customer portal (/qa)](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/staging/qa/)
+  * Quality Growth team members are code owners for this directory. If you are tagged by a developer and don't yet feel comfortable approving a merge request, please tag another member of the Quality Growth team to help review.
+  * In general, we expect that team members will generally feel comfortable and will be granted maintainer access once they have:
+    * Completed 5 merged MRs related to improvements to the framework.  
+    * Completed 10 merged MRs related to adding new end-to-end tests or making substantial improvements to existing ones.
 
 ## Project Management
 
@@ -83,28 +106,20 @@ This also ensures that the data rolled up to the top level board is consistent.
      * [`Development`](https://gitlab.com/gitlab-org/gitlab-qa/boards/2922)
      * [`Priorities`](https://gitlab.com/gitlab-org/gitlab-qa/boards/787592)
      * [`Scheduling`](https://gitlab.com/gitlab-org/gitlab-qa/boards/787593)
-  * [GitLab-Insights](https://gitlab.com/gitlab-org/gitlab-insights/)
-     * [`Development`](https://gitlab.com/gitlab-org/gitlab-insights/boards/443349)
-     * [`Priorities`](https://gitlab.com/gitlab-org/gitlab-insights/boards/787583)
-     * [`Scheduling`](https://gitlab.com/gitlab-org/gitlab-insights/boards/787576)
   * [GitLab-Triage](https://gitlab.com/gitlab-org/gitlab-triage/)
      * [`Development`](https://gitlab.com/gitlab-org/gitlab-triage/boards/316854)
      * [`Priorities`](https://gitlab.com/gitlab-org/gitlab-triage/boards/788523)
      * [`Scheduling`](https://gitlab.com/gitlab-org/gitlab-triage/boards/788524)
-  * [GitLab CE](https://gitlab.com/gitlab-org/gitlab-ce/): GitLab CE issues with `~Quality`
-    * [`Quality: Development`](https://gitlab.com/gitlab-org/gitlab-ce/boards/793776)
-    * [`Quality: Priorities`](https://gitlab.com/gitlab-org/gitlab-ce/boards/793777)
-    * [`Quality: Scheduling`](https://gitlab.com/gitlab-org/gitlab-ce/boards/793779)
-  * [GitLab EE](https://gitlab.com/gitlab-org/gitlab-ee/): GitLab EE issues with `~Quality`
-    * [`Quality: Development`](https://gitlab.com/gitlab-org/gitlab-ee/boards/793784)
-    * [`Quality: Priorities`](https://gitlab.com/gitlab-org/gitlab-ee/boards/793788)
-    * [`Quality: Scheduling`](https://gitlab.com/gitlab-org/gitlab-ee/boards/793791)
+  * [GitLab](https://gitlab.com/gitlab-org/gitlab/): GitLab issues with `~Quality`
+    * [`Quality: Development`](https://gitlab.com/gitlab-org/gitlab/boards/793784)
+    * [`Quality: Priorities`](https://gitlab.com/gitlab-org/gitlab/boards/793788)
+    * [`Quality: Scheduling`](https://gitlab.com/gitlab-org/gitlab/boards/793791)
   * **[Quality group](https://gitlab.com/gitlab-org/quality)**
-    * [Triage-Ops](https://gitlab.com/gitlab-org/quality/triage-ops/): GitLab-Triage setup for CE/EE and etc.
+    * [Triage-Ops](https://gitlab.com/gitlab-org/quality/triage-ops/): GitLab-Triage setup
       * [`Development`](https://gitlab.com/gitlab-org/quality/triage-ops/boards/701857)
       * [`Priorities`](https://gitlab.com/gitlab-org/quality/triage-ops/boards/793763)
       * [`Scheduling`](https://gitlab.com/gitlab-org/quality/triage-ops/boards/793764)
-    * [Quality Task](https://gitlab.com/gitlab-org/quality/team-tasks) Roadmap and initiative planning
+    * [Quality Tasks](https://gitlab.com/gitlab-org/quality/team-tasks) Roadmap and initiative planning
       * [`Roadmaps`](https://gitlab.com/gitlab-org/quality/team-tasks/boards/548459)
       * [`Initiatives`](https://gitlab.com/gitlab-org/quality/team-tasks/boards/793708)
     * [Nightlies](https://gitlab.com/gitlab-org/quality/nightly)
