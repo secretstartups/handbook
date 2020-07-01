@@ -102,24 +102,24 @@ Each of the values and remote work competencies have a knowledge assessment in t
 In addition to the knowledge assessemnts for each value, you can take this [Knowledge Assessment](/handbook/values/#gitlab-values-certification) to become certified in the values.
 
 ### Remote Work Competencies 
-1. [Manager of One](https://about.gitlab.com/handbook/leadership/#managers-of-one)
-1. [Effective Communication](https://about.gitlab.com/handbook/communication/#effective-communication-competency) : includes Working async: [Why](/company/culture/all-remote/asynchronous/) and [How](/handbook/communication/), Well written artifacts, [Single Source of Truth](/handbook/documentation/#documentation-is-the-single-source-of-truth-ssot) and [Producing video](/handbook/communication/youtube/)
-1. [Handbook first](https://about.gitlab.com/handbook/handbook-usage/#handbook-first-competency)
-1. [Using GitLab](https://about.gitlab.com/handbook/using-gitlab-at-gitlab/#using-gitlab-competency): includes [Install GitLab](/install/) and [GitLab administration](/ee/administration/)
+1. [Manager of One](/handbook/leadership/#managers-of-one)
+1. [Effective Communication](/handbook/communication/#effective-communication-competency) : includes Working async: [Why](/company/culture/all-remote/asynchronous/) and [How](/handbook/communication/), Well written artifacts, [Single Source of Truth](/handbook/documentation/#documentation-is-the-single-source-of-truth-ssot) and [Producing video](/handbook/communication/youtube/)
+1. [Handbook first](/handbook/handbook-usage/#handbook-first-competency)
+1. [Using GitLab](/handbook/using-gitlab-at-gitlab/#using-gitlab-competency): includes [Install GitLab](/install/) and [GitLab administration](/ee/administration/)
 
 Test your knowledge and self-reflect on the Remote Work Competencies by completing the knowledge assessment as a [People Leader](https://docs.google.com/forms/d/e/1FAIpQLSemWK_Ki0aAMepKAQnaN-uMr1JBlkCs3O80sBli4PaTl2uoDA/viewform) or an [Individual Contributor](https://docs.google.com/forms/d/e/1FAIpQLScN70eoAjJ0tuj_iSgFRkyRbeNLrO9Yz52897619IkwoNW-cw/viewform). Earn at least an 80% to receive a certificate! 
 
 ### Functional Competencies
 
-#### [Field Competencies](https://about.gitlab.com/handbook/sales/training/field-functional-competencies/)
+#### [Field Competencies](/handbook/sales/training/field-functional-competencies/)
 
-#### [Engineering Competencies](https://about.gitlab.com/handbook/engineering/career-development/career-matrix.html#technical-competencies)
+#### [Engineering Competencies](/handbook/engineering/career-development/career-matrix.html#technical-competencies)
 
 #### Manager and Leadership Competencies
 
 In addition to our values, remote work, and functional competencies, we have identified manger competencies that serve as the foundation to a whole person approach to management. Our leadership and management development programs incorporate the competencies as the bedrock for creating impactful training for our people.  
 
-1. [Emotional Intelligence](https://about.gitlab.com/handbook/people-group/learning-and-development/emotional-intelligence/#emotional-intelligence-manager-competency)
+1. [Emotional Intelligence](/handbook/people-group/learning-and-development/emotional-intelligence/#emotional-intelligence-manager-competency)
 2. [Modeling a Culture of Feedback](/handbook/people-group/guidance-on-feedback/#modeling-a-culture-of-feedback-manager-competency)
 3. [Coaching](/handbook/people-group/learning-and-development/career-development/coaching/#coaching-manager-competency)
 4. [Conflict Resolution](/handbook/people-group/leadership-toolkit/Managing-conflict/#conflict-resolution-competency)
