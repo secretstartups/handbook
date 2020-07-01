@@ -37,7 +37,7 @@ The parent google group of the sales team is sales-all. Several child groups fal
 
 See the below chart for a visualization of the Google Group hierarchy
 
-![Sales Google Groups](/handbook/sales/images/newsalesgg_v2.jpg)
+![Sales Google Groups](/handbook/sales/images/newsalesgg_v3.jpg)
 
 To confirm if you are in a particular Google Group, see the [G-Suite Group Membership Reports.](/handbook/business-ops/it-ops-team/#automated-group-membership-reports-for-managers) To gain access to new Google Groups, please [fill out an access request (AR) form.](/handbook/business-ops/it-ops-team/access-requests/) 
 
