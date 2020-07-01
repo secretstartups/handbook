@@ -37,17 +37,16 @@ An issue is considered completely triaged when:
 
 ## Priority
 
-Priority labels help us define the time a ~bug fix should be completed. Priority determines how quickly the defect turnaround time must be.
+Priority labels help us define the time a ~bug or ~"corrective action" fix should be completed. Priority determines how quickly the defect turnaround time must be.
 If there are multiple defects, the priority decides which defect has to be fixed immediately versus later.
-This label documents the planned timeline & urgency which is used to measure against our target SLO on delivering ~bug fixes.
+This label documents the planned timeline & urgency which is used to measure against our target SLO on delivering ~bug and ~"corrective action" fixes.
 
-| Label | Meaning         | Target SLO (currently only applies to `~bug` and `~security` defects)      |
-|-------|-----------------|----------------------------------------------------------------------------|
-| `~P1` | Urgent Priority | The current release + potentially immediate hotfix to GitLab.com (30 days) |
-| `~P2` | High Priority   | The next release (60 days)                                                 |
-| `~P3` | Medium Priority | Within the next 3 releases (approx one quarter or 90 days)                 |
-| `~P4` | Low Priority    | Anything outside the next 3 releases (more than one quarter or 120 days)   |
-
+| Label | Meaning         | Target SLO (currently only applies to `~bug` and `~security` defects)      | Target SLO (`~corrective action`) |
+|-------|-----------------|----------------------------------------------------------------------------|-----------------------------------|
+| `~P1` | Urgent Priority | The current release + potentially immediate hotfix to GitLab.com (30 days) | 1 week                            |
+| `~P2` | High Priority   | The next release (60 days)                                                 | 30 days                           |
+| `~P3` | Medium Priority | Within the next 3 releases (approx one quarter or 90 days)                 | 60 days                           |
+| `~P4` | Low Priority    | Anything outside the next 3 releases (more than one quarter or 120 days)   | 90 days                           |
 
 ## Severity
 
