@@ -173,7 +173,7 @@ If you accidentally push security commits to `gitlab-org/gitlab`, we recommend t
 2. Inform a release manager in `#releases`. It may be possible to execute a garbage collection (via the Housekeeping task in the repository settings) to remove the commits.
 
 For more information on how the entire process works for security releases, see the
-[documentation on security releases](https://gitlab.com/gitlab-org/release-tools/blob/master/doc/security.md).
+[documentation on security releases](https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/process.md).
 
 ## Basics
 
