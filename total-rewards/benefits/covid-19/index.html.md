@@ -89,6 +89,19 @@ A full list of webinars taking place for the week and links to register can be f
 
 For recordings of Sessions that have already taken place, please see [Modern Health's YouTube Channel](https://www.youtube.com/playlist?list=PLZoFVlbgk0-Nk-K8prckRd0vgJqT0ecmi).
 
+### Sanvello COVID-19 Trial
+
+Sanvello, an app dedicated to managing and treating stress, anxiety, and depression, has a trial during COVID-19 to July 15. If you would like to join this free trial, please sign up for Sanvello directly. We will be sending out a survey later in the year to evaluate usage of this by the GitLab community. 
+
+Instructions for downloading trial:
+1. Navigate to your phone's app store and search for "Sanvello" or navigate to the [online app](https://www.sanvello.com/app#/app/login). 
+1. Register for an account (you do not need to provide a GitLab email to access this service). 
+1. That's all you need to do to access the trial of Sanvello to July 15. 
+
+#### Sanvello Premium Accesss through UHC
+
+For more information on how to access Sanvello Premium if enrolled in a UHC medical plan (US team members only), please see the [UHC Premium Access](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#uhc-premium-access-to-sanvello) section of the US benefits page in the handbook. 
+
 ### Global Resources
 
 * Our [Employee Assistance Program](/handbook/total-rewards/benefits/general-and-entity-benefits/#employee-assistance-program), Modern Health, is prepared to help with personalized coaching and therapy. They have a library of resources to help manage stress, cope with anxiety, and improve your mental well-being.

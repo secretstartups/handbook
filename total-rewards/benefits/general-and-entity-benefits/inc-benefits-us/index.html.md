@@ -123,6 +123,21 @@ Domestic Partner Reimbursements: If the team member is not legally married to th
 
 Telehealth services for UHC members can be accessed by signing into [MyUHC](https://www.myuhc.com/) and selecting "Connect with a Doctor Online." Estimated out-of-pocket cost is disclosed on the virtual visit platform. Currently costs related to this service are waived through June 18, 2020. 
 
+#### UHC Premium Access to Sanvello
+
+Sanvello is an app for managing and treating stress, anxiety, and depression. They are owned by the UnitedHealth Group. Any enrollee into a UHC medical plan can access the premium version of the Sanvello app for free. 
+
+Instructions for registering:
+1. Download the Sanvello app from the app store.
+1. Select "Get Started" and follow the instructions on the screen.
+1. One you have registered for an account, select “Check Coverage” beneath “Upgrade via Insurance”.
+1. Enter “UnitedHealthcare(UHC)" as your health insurance provider.
+1. Fill out your name, date of birth, and gender. 
+1. Your Member ID and Policy/Group Number is located on your UHC ID card. You can find your virtual ID card by logging into [Lumity](https://user.lumity.com/login).
+     * The Member ID is equivalent to your ID #.
+     * The Policy/Group Number is equivalent to your Group ID #.
+1. Once you have filled out your insurance information, click upgrade. 
+
 #### UHC Period to Submit Claims
 
 For in-network services: 90 days from Date of Service.
