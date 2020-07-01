@@ -222,6 +222,7 @@ The full company tech stack list with definitions can be found on the [Business 
 3. [Gainsight](https://about.gitlab.com/handbook/business-ops/tech-stack/#gainsight)
 4. [Leandata](https://about.gitlab.com/handbook/business-ops/tech-stack/#leandata)
 5. [Salesforce](https://about.gitlab.com/handbook/business-ops/tech-stack/#salesforce)
+6. [Chorus](https://about.gitlab.com/handbook/business-ops/tech-stack/#chorus)
 
 </details> 
 
