@@ -75,6 +75,27 @@ Linear Attribution is the simplest and most all-encompassing of the multi-touch 
 
 ![image](/handbook/marketing/marketing-operations/bizible/Linear-Bizible.png)
 
+#### How GitLab Calculates Linear Attribution IACV
+Here is an example of how we calculate linear IACV:    
+
+There are two opportunities, Opportunity A and Opportunity B.   
+Opportunity A has an IACV of $10,000. There are a total of 100 touchpoints (attribution touchpoints) associated with that opportunity. Each touchpoint is valued at $100 ($10,000 / 100 touchpoints). We call that the `Weighted Linear IACV`  
+
+Opportunity B has an IACV of $15,000. There are a total of 100 touchpoints (attribution touchpoints) associated with that opportunity. Each touchpoint is valued at $150 ($15,000 / 100 touchpoints). We call that the `Weighted Linear IACV`
+
+Of the Touchpoints on Opportunity A, they are split among 2 different campaigns - 60 touches in Campaign Y and 40 in Campaign Z.   
+
+Of the Touchpoints on Opportunity B, they are split among 2 different campaigns - 40 touches in Campaign Y and 60 in Campaign Z. 
+
+To calculate the linear attribution IACV in each of those two campaigns we use the following calculation:   
+**Campaign Y** : 60 touches (from Opp A) at a `Weighted Linear IACV` of $100/touch = $6,000 + 40 touches (from Opp B) at a `Weighted Linear IACV` of $150/touch = $6,000. Total: $12,000 linear IACV.    
+
+**Campaign Z** : 40 touches (from Opp A) at a `Weighted Linear IACV` of $100/touch = $4,000 + 60 touches (from Opp B) at a `Weighted Linear IACV` of $150/touch = $9,000. Total: $13,000 linear IACV. 
+
+
+The Checksum is to combine the IACV of both opportunites ($10,000+$15,000=$25,000) and compare it to the sum of the linear IACV of all campaigns those opportunities are a part of: ($12,000+$13,000=$25,000). The results of the sums are equivalent - we are good.   
+
+
 ## Bizible Channel and Sub-Channel Mapping
 
  In 4Q18, we are making updates to the Bizible Channel rules, but currently, these channels and subchannels are pulled into Salesforce and can be further filtered by using `medium` for those channels with overlap or with `Ad Campaign name` to search for specific UTMs or campaigns:
