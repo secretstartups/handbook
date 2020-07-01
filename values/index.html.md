@@ -1037,10 +1037,14 @@ They help us describe the type of behavior that we expect from people we hire.
 They help us to know how to behave in the organization and what to expect from others.
 Values are a framework for distributed decision making; they allow you to determine what to do without asking your manager.
 
-## Scenarios: How to scale the business while preserving GitLab value? 
+## Scenarios
+
 This section aims to provide some real world examples to show you how you can approach everyday business scenarios and challenges with GitLab Value in mind.
 
-**Scenario**: *For certain business decisions or projects, GitLab team members may have a lot of opinions and interest, and they want to provide their feedback and comments. On the other hand,  it might be challenging for the project owner to digest and respond to all these inputs. What should you do in this scenario?*  
+### How to scale the business while preserving GitLab value? 
+This section aims to provide some real world examples to show you how you can approach everyday business scenarios and challenges with GitLab Value in mind.
+
+**Scenario 1**: *For certain business decisions or projects, GitLab team members may have a lot of opinions and interest, and they want to provide their feedback and comments. On the other hand,  it might be challenging for the project owner to digest and respond to all these inputs. What should you do in this scenario?*  
 
 First of all, everyone can contribute at GitLab. We encourage team members to share their feedback and leave their comments on issues. Leaving feedback and comments show team members care about this topic and they care about GitLab as a company. Their perspectives may also help uncover potential risks and problems in the project. 
 
