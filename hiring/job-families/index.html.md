@@ -129,7 +129,22 @@ Job Families should have three to five PIs.
 * Click the Submit merge request button at the bottom
 
 ### Once the Merge Request is Submitted
-* The pipeline will run to prepare the changes
+* Several pipelines will run. Among them one that specifically test for `Inclusive language` in the job families. If you're using 
+language that is marked as subtly masculine-coded, fixed-coded or using misused words, the pipeline will fail and you'll be asked to fix this.
+* In case you get that error, the first recommendation is to read the error. It will say what is wrong with the text. For example:
+
+```
+1. ["ATTENTION: In /builds/gitlab-com/www-gitlab-com/source/job-families/marketing/reference-program-manager/index.html.md you're using masculine gender-coded language", "Masculine coded words used: analyst, analytical, decision, driven, leader"]
+2. ["ATTENTION: In /builds/gitlab-com/www-gitlab-com/source/job-families/marketing/production-designer/index.html.md you're using fixed-coded language", "Fixed coded words used: established"]
+```
+
+In this case, there's two job families that failed and each for a different reason. You can do two things now:
+- fix the text to be more inclusive, commit your changes and the pipeline will run again
+- if you disagree or you feel like the pipeline found a false positive, you can add the file to [this list](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/inclusiveness_check.yml). The files in this list are ignored by the inclusiveness check.
+
+If you want, you can also use this [online tool](https://inclusiveness-check.herokuapp.com/) while working on fixing the problems.
+
+### Once the Merge Request is merged
 * Once it is merged - it is pushed to master to make the changes and the pipeline will need to run again to make the changes official.
 * Once the MR has been merged, you will be able to go into the directory you added to and see your newly created Job Family there.  
 
