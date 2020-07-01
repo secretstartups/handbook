@@ -20,7 +20,7 @@ For Omnibus installs on a single server, this is fairly straightforward. Replace
 a raw snippet.
 
 ```shell
-$ curl -o /tmp/$mr_iid.patch https://gitlab.com/gitlab-org/gitlab/merge_requests/$mr_iid.patch
+$ curl -o /tmp/$mr_iid.patch https://gitlab.com/gitlab-org/gitlab/-/merge_requests/$mr_iid.patch
 $ cd /opt/gitlab/embedded/service/gitlab-rails
 $ patch -p1 -b -f < /tmp/$mr_iid.patch
 $ gitlab-ctl restart
