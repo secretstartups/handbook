@@ -115,7 +115,7 @@ Test your knowledge and self-reflect on the Remote Work Competencies by completi
 
 #### [Engineering Competencies](https://about.gitlab.com/handbook/engineering/career-development/career-matrix.html#technical-competencies)
 
-#### [Product Competencies]()
+#### [Product Competencies](/handbook/product/product-manager-role/#competencies)
 
 #### Manager and Leadership Competencies
 
