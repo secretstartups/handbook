@@ -45,4 +45,4 @@ At GitLab, **Architecture** is:
   * SEs are technical partners to Managers in their Department's teams 
   * SEs actively participate in quarterly team OKRs
 
-It is wort stressing that partnerships and close working relations as outlined above **are not exclusionary**. GitLab relies heavility on cross-functional, cross-level relationships, and and we want to continue fostering those relationships to their maximum potential. Thus, the above relationship descriptions simply outline a responsibility perspective vs a boundary of any kind.
+It is worth stressing that partnerships and close working relations as outlined above **are not exclusionary**. GitLab relies heavility on cross-functional, cross-level relationships, and and we want to continue fostering those relationships to their maximum potential. Thus, the above relationship descriptions simply outline a responsibility perspective vs a boundary of any kind.
