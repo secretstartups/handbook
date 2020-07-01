@@ -103,7 +103,8 @@ The goal of the refinement process is to
 
 ### Refinement steps for Engineers:
 
-1.  Issues you need to groom will be assigned to you by your EM. 
+1.  Issues you need to refine will be assigned to you by your EM. Note the
+    [differences for bugs](#bug-refinement).
 2.  Backend/Frontend labels:
     * If a backend engineer is required for the issue, ensure a `backend` label. Otherwise, remove
       any backend label, assign any relevant labels and you are done. 
@@ -139,6 +140,18 @@ In order for someone to understand the issue and its implementation, they should
 read through all the comments. The important bits should be captured in the description as the
 **single source of truth.** 
 
+
+#### Bug Refinement
+
+Note the following differences when refining bugs:
+
+1. As a guideline, spend no more than 1 hour per issue. Bugs that take too long to refine are
+   indicative of a more complex issue.
+1. Do not add weight. Our velocity represents the capacity to deliver new, bug-free features.
+1. When you hit the time limit for refinement, it's ok to have uncertainty in the [Implementation
+   Plan](#implementation-plan). It's sufficient just to direct where you expect the code change to be (high or low level).
+
+
 ### Failing Refinement:
 
 An issue should fail refinement if it can not be worked on without additional information or
@@ -147,6 +160,7 @@ decisions to be made. To fail an issue:
     be done.
 2.  Unassign yourself if you can not contribute further to issue at the current time. 
 3.  Assign the `workflow::blocked` label.
+
 
 ### Weights
 
@@ -157,6 +171,9 @@ purpose of the refinement process.
 It is perfectly acceptable if items take longer than the initial weight. We do not want to inflate
 weights, as [velocity is more important than predictability](/handbook/engineering/#velocity-over-predictability)
 and weight inflation over-emphasizes predictability. 
+
+We do not add weights to bugs as this would be double-counting points. When our delivery contains
+bugs, the velocity *should* go down so we have time to address any systemic quality problems.
 
 #### Possible Values
 
