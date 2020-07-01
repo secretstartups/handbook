@@ -1,284 +1,48 @@
 ---
 layout: markdown_page
-title: "Architecture Evolution at GitLab"
+title: "Architecture"
 ---
 
-## GitLab Architecture
+## Complexity at Scale
 
-Software professionals have come up with a lot of great metaphors about what
-software actually is. Some people believe that software is like a castle that
-needs constant maintenance, others think about software as a garden that needs
-care and careful cultivation.
+As GitLab grows, through the introduction of new features and improvements on existing ones, so does its **complexity**, an effect compounded by the care and feeding of a single codebase that supports the wide variety of environments in which it runs, from small self-managed instances to very large installations such as GitLab.com. The company itself adds to this complexity from an organizational perspective: nearly 1300 employees world-wide contribute in one way or another to both the product and the company, and use it on a daily basis to carry their responsibilities. About 550 people in Engineering are directly responsible for the codebase and its operation, for the infrastructure powering GitLab.com, and for the support of self-managed instances running in customer sites; another 50+ people in the Product organization chart the future of the product.
 
-At GitLab we believe that software might be more complex than that, and that
-software is more [similar to
-life](https://en.wikipedia.org/wiki/Entropy_and_life) itself.
+[Our values](https://about.gitlab.com/handbook/values/), coupled with strong know-how and unparalled dedication, provide critical guidance to manage these complexities. At the same time, we have known for some time we are crossing a threshold in which **complexity at scale**, both technical and organizational, is playing a significant role. We know we need to fine-tune our technical discipline and integrate it across the organization to ensure we can continue to deliver on our values. In this context, we have been exploring the adoption of *Architecture* to help us in this regard.
 
-Because of that it needs to adapt and evolve, usually through iteration.
+## Architecture
 
-### Evolutionary Architecture
+Martin Fowler's [Software Architeture Guide](https://martinfowler.com/architecture/) provides an excellent discussion on the notion of **Architecture**, and there is much to be learned from this and other sources. The question before us is, then, how to contextualize those learnings.
 
-As software products grow, become more complex, and get more widely used,
-things that were working well on a small scale, might not be sufficient on a
-much bigger scale.
+Much like the rest of the software world, we have been wary of all the negative baggage that *Architecture* implies, particularly as some of that baggage would seemingly fly in the face of our values. Thus why we have taken the time to carefully consider what Architecture means for us, and how to implement it in alignment with our values and at the scale that both the product and the company demand.
 
-1. We allow engineers to lead the evolution of the software.
-1. We have a process that helps us make architectural changes a success.
-1. We have a way to determine what work is important and what is not.
-1. We constantly work on finding a balance between reactive work, preventive work, and innovation.
-1. We know how to leverage knowledge of people that know most about GitLab.
-1. We empower people to work on things that prevent a variety of problems from happening.
-1. We empower people to work on things that are a leverage and make everyone else more productive.
-1. We allow people to experiment and innovate while being efficient and using their time wisely.
-1. We have a process that makes it possible to allocate resources and hold people accountable.
-1. We have a process that ensures we can get things done.
+We have intuitively known that, at GitLab, Architecture is not a role proper (i.e., no such title exists in the company). We understand Architecture as an aspect of all the technical roles that exist in the company, a concept to leverage the vast amounts of experience distributed across the company, as a channel to ensure we can continue to 
 
-### GitLab Architecture Evolution Workflow
+## Architecture at GitLab
 
-TL;DR:
+At GitLab, **Architecture** is:
 
-1. Anyone can open an issue with a change proposal and label it with `~"Architecture decision"`,
-1. The author collaborates with their manager to understand better the scope of the change,
-1. Based on the scope of the proposal, the author and their manager collaborate together to find an
-   Engineering Leader who will be a decision maker that will either approve or reject the proposal,
-1. The author and their manager find an `Architecture Evolution Coach` on the [team page](/company/team/),
-   someone who works on the level close to the Engineering Leader who is going to be the decision maker,
-1. Optionally the author and their manager collaborate to find a Domain Expert if help from one would be useful,
-1. The author collaborates with the architecture evolution coach and a domain expert to create a
-   blueprint merge request of the proposal,
-1. In the RFC-like style they get more people involved into the discussion to collect more feedback,
-1. The blueprint describes 1-year landscape and 3 iterations in the first 3 milestones,
-1. When specific enough, the blueprint gets merged by an Engineering Leader,
-1. 3 [Directly Responsible Individuals
-   (DRIs)](/handbook/people-group/directly-responsible-individuals/) get assigned and collaborate together to get the work done,
-1. A [Working Group](/company/team/structure/working-groups/) can be formed if needed, but is not required,
-1. DRIs propagate the blueprint across sub-departments and ensure that work gets scheduled,
-1. Teams schedule their work based on their interpretation of 1-year and 3-months landscapes,
-1. DRIs described in the blueprint are the decision makers for the approach taken,
-1. After 3 iterations work can be concluded or expanded for the next 3 iterations.
+* A [collection of **practices**](practice/) that provide technical frameworks to **guide** (not dictate) our thinking, design and discussions so we can *iterate* quickly and deliver *results*. These include:
+  * [Scalability Practice](practice/scalability/)
+  * Availability Practice
+  * ...
+* A [*collaborative* **workflow**](workflow/) that provides the necessary organizational amplification to foster *inclussion*, and drive ideas and priorities from all corners of the company.
+* A reliance on **influence** rather than authority to *efficiently* and *transparently* drive decisions, engage stakeholders, and promote trust across the organization
 
-### Finding people that will amplify your influence
+**Architecture as a practice is everyone's responsibility**, but it's notably engrained in senior technical leadership roles. Within said roles, the roles' levels and their sphere of influence determine DRI responsibilities within the practice:
 
-![influence](/handbook/engineering/architecture/influence.png)
+* Engineering Fellows (EFs) are DRIs for the overall Architecture Practice
+  * EFs operate at the [Division and Department](https://about.gitlab.com/company/team/structure/#organizational-structure) levels (EVPs, VPs and Senior Directors), and, to a lesser but still significant extent, [E-group](https://about.gitlab.com/handbook/leadership/#e-group)
+  * EFs are technical partners to their Department's VPs and Senior Directors ([S-group](https://about.gitlab.com/handbook/leadership/#s-group))
+  * EFs produce joint, 1-year roadmaps for the company's technical direction aligned with Product
+  * EFs have strong input on Department OKRs
+* Distinguished Engineers (DEs) are DRIs for the Architecture Practice in their respective Departments and Sub-departments
+  * DEs operate at the [Department and Sub-department](https://about.gitlab.com/company/team/structure/#organizational-structure) levels (Directors and Senior Managers)
+  * DEs are technical partners to Directors and Senior Managers in their Departments ([D-group](https://about.gitlab.com/handbook/leadership/#director-group))
+  * DEs produce 6-month roadmaps for their department's technical direction, again aligned with Product
+  * DEs also have strong input in aligning OKRs at the department level
+* Staff Engineers (SEs) are DRIs for the Architecture Practice in their respective Teams
+  * SEs operate at the [Sub-department and Team](https://about.gitlab.com/company/team/structure/#organizational-structure) levels (Senior Managers and Managers)
+  * SEs are technical partners to Managers in their Department's teams 
+  * SEs actively participate in quarterly team OKRs
 
-The author of a proposal and their Engineering Manager collaborate together to
-find people that will be amplifiers of their influence:
-
-* An Engineering Leader (for example - a Director of Engineering)
-* An Architecture Evolution Coach (for example - a Distinguished Engineer)
-* A Domain Expert (for example - a Senior Backend Engineer)
-
-During the process of working on the proposal, the author will collaborate with
-an Architecture Evolution Coach and, optionally, a Domain Expert to create a
-blueprint of the change. The blueprint merge request will be then either
-approved or rejected by an Engineering Leader.
-
-In order to choose the right people, the author and their manager first need to
-understand what is the scope of their proposal, what departments and teams will
-need to help to get the work done and how important it is for the organization.
-
-The first step is to find an Engineering Leader that will be responsible for
-approving the proposal and merging the blueprint merge request. The Engineering
-Leader needs to be someone who works on [an appropriate level in the
-organization](/company/team/org-chart/) to carry on the vision described in the
-proposal. For example, changes that involve only one team can be approved by an
-Engineering Manager, multiple teams within a one section - a Director of
-Engineering, but changes that span more than one department might require
-approval from a Executive VP or CEO.
-
-Understanding who is the decision maker will make it easier to find an
-Architecture Evolution Coach because the best Architecture Evolution Coach will
-be someone who works on the level that is closest to the level of the
-Engineering Leader who is the decision maker (see the diagram above).
-
-Domain Expert is someone who knows most about the topic and this person can
-work on any level in the organization, it even can be the author themself.
-
-Once the blueprint of the proposal gets approved and merged, DRIs will be
-assigned to carry on the vision and coordinate work required to get it done.
-
-All these people are here to amplify the influence of the author of the
-proposal in an environment that fosters creativity and knowledge sharing.
-
-### Role of an Architecture Evolution Coach
-
-Architecture Evolution Coach is an expertise assigned to team members, visible
-on their profiles on [the team page](/company/team/).
-
-All Engineering Fellows and Distinguished Engineers are Architecture Evolution
-Coaches by default.
-
-The purpose of involving a coach in the process of creating a blueprint is to
-allow people that know most about GitLab to share their knowledge and
-perspective on introducing complex architectural changes. This makes it easier
-to avoid the cost of working on the wrong thing, iterating improperly and
-fosters knowledge sharing.
-
-### Role of a Domain Expert
-
-[Domain Expert Engineer](
-https://docs.gitlab.com/ee/development/code_review.html#domain-experts) is an
-engineering role at GitLab held by team members that are engineers with a deep
-experience in a particular area.
-
-1. Domain Experts help to ensure conceptual integrity of the features and
-   changes their groups / stages / sections are working on,
-1. Domain Experts help to collaborate with EMs and PMs and other Engineers to
-   ensure the quality of work done in their area of interest,
-1. Domain Experts help to help to plan and draft necessary architectural and
-   conceptual changes that will become a leverage in their area of interest.
-
-A Domain Expert is an engineer, usually an Individual Contributor, who knows
-most about a codebase and a domain in the area of proposed changes, but might
-still lack the deep understanding of the process behind introducing complex
-architectural changes, hence the collaboration between a Domain Expert and an
-Architecture Evolution Coach might be very useful.
-
-Sometimes there is an Architecture Evolution Coach available who is also a
-Domain Expert in a particular area. In that case there is no need to involve
-another person.
-
-### Proposing changes
-
-Anyone can open an issue about a change they believe we should work on.
-
-It can be a complex backstage improvement, an architectural change, a
-productivity improvement, or an efficiency improvement. It can be anything else
-that is too complex for a single individual contributor to handle.
-
-Although we usually prefer [starting with a merge
-requests](/handbook/communication/#everything-starts-with-a-merge-request), in
-case of complex changes like that, a merge request might not be something that
-is actionable, so we usually start with an issue.
-
-Creating an issue is easier and less visible, it is an additional step before
-creating a draft merge request that helps to overcome anxiety related to
-speaking up and proposing big improvements. It is easier to capture ideas in
-issues than to create a merge request with a blueprint of a solution.
-
-The issue should be labeled with ~"Architecture decision" label, can be made
-visible in the
-[#architecture-decision](https://gitlab.slack.com/archives/CJ4DB7517) Slack
-channel as per [cross-functional
-collaboration](/handbook/engineering/development/#cross-functional-collaboration).
-
-Then author of the issue loops an Architecture Evolution Coach and a Domain
-Expert in and they collaborate together to create a blueprint merge request.
-Collaboration between the coaches and a person who had an idea ensures that
-only proposals that that are achievable get described in a blueprint merge
-request. This makes it also easier to avoid the cost of iterating on the
-product architecture improperly and fosters knowledge sharing.
-
-### Blueprint merge request
-
-A blueprint merge request is a description of [Why, How and
-What](https://en.wikipedia.org/wiki/Start_With_Why) of the change that has been
-proposed in the issue.
-
-* Why - what is the motive and purpose, what is the problem are we trying to solve
-* How - how are we going to achieve that (1-year landscape)
-* What - what is the outcome, how can we measure it
-
-A blueprint merge request gets created and made visible as a result of
-collaboration between an Architecture Evolution Coach, a Domain Expert and a
-person who had an idea. The author and coaches also need to be mentioned in the
-blueprint.
-
-It needs to be written as a Markdown page in the
-`handbook/engineering/architecture/blueprints` directory in `www-gitlab-com`
-project.
-
-It describes the goal of the change and the 1-year landscape of how to make it
-happen.
-
-### Describing iterations
-
-At this point there is a blueprint merge request present in `www-gitlab-com`
-project, but it only describes the 1-year landscape. It is not precise enough
-to reason about how to get it done, how to iterate wisely to get the most of
-this work.
-
-People that got involved into the discussion in the blueprint merge request
-collaborate together to extend it with a 3-months landscape. More Domain
-Experts get involved if necessary. The result of this collaboration could be
-a description of three first iterations that can be done in a one milestone each.
-These iterations need to be a two-way-door solutions with a measurable impact.
-
-If it is not possible to find at least two iterations, the blueprint merge
-request can not be approved and merged.
-
-Once the iterations are described, in the merge request, the blueprint needs to
-get assign to an Engineering Leader for approval and merge.
-
-### Getting the blueprint merged
-
-The blueprint merge request needs to be approved and merged by the Engineering
-Leader who has been chosen as a final decision maker.
-
-The choice of the leader depends on the extent of proposed changes, the area
-that the changes are supposed to be applied to and perceived cost of this
-architectural change.
-
-[Organization structure chart](/company/team/structure/) can be useful to
-determine who the Engineering Leader could be.
-
-### Finding DRIs
-
-Once the merge request gets merged, the Engineering Leader who merged the
-proposal collaborates with people involved to find Directly Responsible
-Individuals who will be decision makers from now on and will be responsible for
-the progress.
-
-The blueprint needs three people that will become DRIs:
-
-1. An Engineering Lead (for example - Director of Engineering)
-1. A Product Lead (for example - Senior Product Manager)
-1. A Domain Expert (for example - Senior Backend Engineer)
-
-The Engineering Leader who approved the proposal can become an Engineer Lead
-DRI, but they can also delegate this to someone else. It is important to choose
-people taking their area of interest and responsibility into account and the
-"How" description that depends on where the proposed change needs to happen,
-who knows the most about particular area of the product, service, and codebase.
-
-Then DRIs will propagate the blueprint downstream, to respective teams that
-will need to be involved, and these teams will schedule the work based on their
-interpretation of 1-year landscape and proposed iterations that will happen in
-the next 3 months. If a Working Groups gets formed the list of DRIs can be
-extended according to the process of how Working Groups organize efforts around
-the work.
-
-### Getting things done
-
-DRIs can decide to form a [Working
-Group](/company/team/structure/working-groups/) to structure the efforts
-related to the architecture change better, but whether a Working Group should
-be formed or not depends on the size of the change and if forming a Working
-Group actually makes sense in this particular case.
-
-The concept of a Working Groups can be an extension of the Architecture
-Evolution Workflow, but if it is not applicable in a particular case, a
-different process can be followed, like the suggested one that is described
-below.
-
-1. A bi-weekly call should be scheduled to coordinate the work with all people
-   involved,
-1. Teams assigned will allocate resources for the work that needs to be done,
-1. Domain Experts working on the teams will prepare their interpretations of
-   3-months iterations,
-1. The work will be split into smaller issues and people interested in taking
-   ownership of these issues will be assigned,
-1. Product Lead DRI will coordinate the work with Product Managers in
-   respective Teams,
-1. An Engineering Lead DRI will coordinate the work with Engineering Managers
-   responsible for respective teams,
-1. Domain Experts and individual engineers will be invited to the bi-weekly
-   sync meeting.
-
-### What happens next
-
-After the iterations described in the blueprint are done, the work can be
-extended to the next three iterations and the blueprint needs to be updated.
-
-Alternatively the work can be concluded and the blueprint needs to be updated
-with results / outcomes.
+It is wort stressing that partnerships and close working relations as outlined above **are not exclusionary**. GitLab relies heavility on cross-functional, cross-level relationships, and and we want to continue fostering those relationships to their maximum potential. Thus, the above relationship descriptions simply outline a responsibility perspective vs a boundary of any kind.
