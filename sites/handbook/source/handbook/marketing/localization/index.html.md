@@ -22,7 +22,7 @@ To ensure translated content makes contextual and technical sense, we have inter
 
 #### Process for requesting a review
 
-1. Open a translation review request 
+1. Open a [translation review request](https://gitlab.com/gitlab-com/marketing/growth-marketing/global-content/content-marketing/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) 
 1. Complete all requested fields in the issue
 
 | Language | Reviewers |
