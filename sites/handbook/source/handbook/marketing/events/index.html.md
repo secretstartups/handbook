@@ -852,16 +852,14 @@ Carson, CA 90810
 **Creating Event Badges:**  
 
 **SFDC**  
-* Log into SFDC and find your event campaign
-* Scroll down in the campaign and click on `View All Campaign Members`
-* Click `Customize`
-* On the list on the left side of the page, click and drag `Member Status` to the filter field section
-* Set to `Member Status` equals `Registered` (type in `Registered`)
-* Click `OK` and then `Run Report`
-* This generates a report with all the attendees who have registered for the event
+* Log into SFDC, click Reports and search for `Name Tag Export` in the `Field Marketing` folder, or go to this [link](https://gitlab.my.salesforce.com/00O4M000004aIM0).
+* Update `Select Campaign` by clicking the lookup next to the field
+* Find the campaign that has members you need to export
+* Click `Run Report`
+* This generates a report with everyone who has registered for the event.
 * Click `Export Details`
 * Under the `Export File Format` field, select either `Excel Format` or `Comma Delimited` (whichever works best on your laptop)
-* This will create a downloaded file of registered attendees. From here, copy and paste into a Google sheets document and make any corrections to capitalization, spelling errors, etc.. This document will be utilized when creating the badge template so remember to also filter alphabetically by last name. If you will be checking off attendees utilizing this spreadsheet, remember to add a check-in column as well.
+* This will create a downloaded file of registered members. From here, copy and paste into a Google sheets document and make any corrections to capitalization, spelling errors, etc.. This document will be utilized when creating the badge template so remember to also filter alphabetically by last name. If you will be checking off attendees utilizing this spreadsheet, remember to add a check-in column as well.
 
 **Avery Template**  
 * Go to avery.com and log in with the events login found in the Marketing 1pass
