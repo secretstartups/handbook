@@ -1042,7 +1042,6 @@ Values are a framework for distributed decision making; they allow you to determ
 This section aims to provide some real world examples to show you how you can approach everyday business scenarios and challenges with GitLab Value in mind.
 
 ### How to scale the business while preserving GitLab value? 
-This section aims to provide some real world examples to show you how you can approach everyday business scenarios and challenges with GitLab Value in mind.
 
 **Scenario 1**: *For certain business decisions or projects, GitLab team members may have a lot of opinions and interest, and they want to provide their feedback and comments. On the other hand,  it might be challenging for the project owner to digest and respond to all these inputs. What should you do in this scenario?*  
 
