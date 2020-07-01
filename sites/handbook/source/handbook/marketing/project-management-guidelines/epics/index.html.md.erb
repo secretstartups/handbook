@@ -18,20 +18,24 @@ title: "Epics project management guidelines"
 ### Key things to know
 
 1. Epics are defined at the group level
+1. Epics can now be made confidential (when created from [epics](https://gitlab.com/groups/gitlab-com/marketing/-/epics?sort=created_desc) > `Create New`)
 1. Epics can contain both issues and epics as children
 1. Epics can be used as a filter in both issue lists and issue boards
 1. Epics provide visibility on: child epic and issue status, roadmap timeline (Gantt chart)
-1. An epic provides a roadmap view if it contains one or more child epics which have a start or due date
-1. The roadmap view provides a timeline and completion status based on issue weight completion
+1. An epic is visible on a roadmap view if it contains a start or due date - [all marketing roadmap here](https://gitlab.com/groups/gitlab-com/marketing/-/roadmap?scope=all&utf8=%E2%9C%93&state=opened)
+1. Child epics are also visible on a roadmap view, nested under their parent, when they have a start or due date
+1. The roadmap view provides a timeline of epics as well as completion status of each based on aggregate issue weight completion for issues linked to the epics
 1. The roadmap view is available on the individual epic and on the group page under `Epics > Roadmap`. The group page view provides additional filtering, sort order and timeline units for display 
 1. An issue can only be assigned to one epic
 1. Epics can have multiple child epics up to a depth of 5
 
 ### Known Limitations
 
-1. Epics cannot be confidential ([epic](https://gitlab.com/groups/gitlab-org/-/epics/3003))
 1. Epics cannot be created from templates ([issue](https://gitlab.com/gitlab-org/gitlab/-/issues/37079))
-however, there are two workarounds.  First - Epics **Can** be created from an issue that is promoted to an Epic. (in this case, an Issue Template could be a surrogate for an Epic template).  Second - The mixture of issues related to an epic can be templatized in a spreadsheet and uploaded to populate the issues related to a given epic.  See this [epic template overview](https://about.gitlab.com/handbook/marketing/product-marketing/getting-started/104/)
+however, there are three workarounds
+  1. First - Epics **Can** be created from an issue that is promoted to an Epic. (in this case, an Issue Template could be a surrogate for an Epic template)
+  1. Second - The mixture of issues related to an epic can be templatized in a spreadsheet and uploaded to populate the issues related to a given epic.  See this [epic template overview](https://about.gitlab.com/handbook/marketing/product-marketing/getting-started/104/) - note for collaborative epics that span multiple GitLab projects/teams: with this process, for the total number of projects/teams the issues span, you will need to complete that number of uploads of the spreadsheet, broken out by project/team.
+  1. Third - Include code for the epic in the relevant handbok page to be copy/pasted, with issuable template hyperlinks. See [this handbook page](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#code-for-epic) for an example
 1. Epics do not have an assignee
 1. Epics cannot be created in projects ([issue](https://gitlab.com/gitlab-org/gitlab/-/issues/31840))
 1. Epics cannot be cloned ([issue](https://gitlab.com/gitlab-org/gitlab/-/issues/29115))
