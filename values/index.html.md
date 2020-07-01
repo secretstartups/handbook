@@ -1048,7 +1048,7 @@ This section aims to provide some real world examples to show you how you can ap
 
 Everyone can contribute at GitLab. We encourage team members to share feedback and leave comments on issues. Leaving feedback and comments shows that team members care about a topic and about GitLab as a company. These perspectives may also uncover potential risks and problems in the project. 
 
-There shouldn't be a [“Don’t they have their job to do”](https://www.youtube.com/watch?v=U9de50APPAg) type of response. Furthermore, we shouldn’t judge team members who are perceived as being the “squeaky wheel”.  At GitLab, we [Measure Results Not Hours](https://about.gitlab.com/handbook/values/#measure-results-not-hours). As long as the team members are producing their required results, it is their freedom to decide how to spend their time. 
+There shouldn't be a [“Don’t they have their job to do?”](https://www.youtube.com/watch?v=U9de50APPAg) type of response. Furthermore, we shouldn’t judge team members who are perceived as being the “squeaky wheel.”  At GitLab, we [measure results, not hours](/handbook/values/#measure-results-not-hours). As long as a team member is producing required results, they are empowered to decide how to spend their time. 
 
 On the other hand, as GitLab grows in size, we need to make decisions and the decisions may not be agreed to by everyone.  If a decision or project is sensitive or controversial, and receives large amounts of feedback, it can be challenging for the project owner to handle. We need to think about how to address that challenge - for example, the manager of the project owner may need to get involved to help route the feedback, or we may need to ask team members to submit their feedback to their managers first. 
 
