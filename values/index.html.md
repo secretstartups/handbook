@@ -644,7 +644,7 @@ We demonstrate diversity, inclusion and belongings when we foster an environment
 If you would like to improve your skills or expand your knowledge on topics relating to Diversity, Inclusion, & Belonging at GitLab, check out our resources: 
 
 -  [Being an Ally](/company/culture/inclusion/being-an-ally/)
--  [Being Inclusive](company/culture/inclusion/being-inclusive/)
+-  [Being Inclusive](/company/culture/inclusion/being-inclusive/)
 -  [Recognizing Bias](/company/culture/inclusion/unconscious-bias/)
 
 <table class="tg">
