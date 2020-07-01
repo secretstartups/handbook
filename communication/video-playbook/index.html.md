@@ -76,3 +76,6 @@ A: Please check the video template that you use to open an issue in order to fin
 
 If you'd like to connect with someone on the Digital Production team for more help, please open an issue using one of the aforementioned templates and ping us in the `youtube` Slack channel.
 
+### Additional resources 
+
+* The [virtual events page](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/) and [best practices guide](/source/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/best-practices/) provide useful information if you intend to create videos from or for live events.
