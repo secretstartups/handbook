@@ -117,7 +117,7 @@ The person responsible for the customer's license renewal is listed under
 ### Within customers.gitlab.com
 
 1. Log in to [customers.gitlab.com](https://customers.gitlab.com/admin) admin area
-   with the credentials in the 1Password Support vault.
+   (sign in with Okta).
 
 2. In the **Customers** section, search for a domain or full email address.
 
