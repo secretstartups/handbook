@@ -37,7 +37,7 @@ First Response Time Hawks directly drive achievement in our [Service Level Agree
       * [The correct priority](/handbook/support/workflows/setting_ticket_priority.html#setting-ticket-priority)
       * The correct ticket form (such as GitLab.com, if they're asking for GitLab.com support). Take special notice of tickets with form `Other Request`. This is usually because the ticket was created by email. **Change the form to the most appropriate form type and then fill in additional metadata where possible**.
       * The correct **Self-managed Problem Type** selected
-1. [Keep an eye on the FRTH View in ZenDesk](https://gitlab.zendesk.com/agent/filters/360060245433)
+1. [Keep an eye on the FRTH View in ZenDesk](https://gitlab.zendesk.com/agent/filters/360038124359)
 1. You have full authority to call in and ask others for help if volume is high, or you are stumped.
 1. You should expect to see new and different things that you are not an expert in. Where possible, take the time to dive deep and try and understand the problem.
 
@@ -78,7 +78,7 @@ SLA Hawks drive achievement via our KPI's for [Service Level Agreement KPI](/han
 
 ## The Process in Action
 
-1. Each day, sort the Zendesk view for [Self Managed Premium and Ultimate](https://gitlab.zendesk.com/agent/filters/304899127) by '*Next SLA Breach*' ascending, starting with most breached ticket first.
+1. Each day, sort the Zendesk view for [SM with SLA](https://gitlab.zendesk.com/agent/filters/360038124139) by '*Next SLA Breach*' ascending, starting with most breached ticket first.
 2. Read the ticket yourself and if you feel you know what the next action is, do that (e.g. ask the customer for more information, solve the ticket if the issue is resolved, send your own reply if you have a great idea). There's no need to spend too long at this stage - 10 minutes at most. If the next action requires more work move on to the next step.
 3. If you feel the priority does not match our [Definitions of Support Impact](/support/#definitions-of-support-impact) reach out to the customer and agree on the new priority. Use the macro [General::Changed priority](https://gitlab.zendesk.com/agent/admin/macros/360093631494).
 4. If a ticket **has an assignee**:
