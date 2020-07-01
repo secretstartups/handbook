@@ -13,7 +13,9 @@ title: Manager Challenge
 
 Welcome to the Manager Challenge page. We are rolling out a 4 week manager challenge in September 2020, "The GitLab Great Managers Program." All details relating to the challenge can be found here on this page. 
 
-[embed overview slide deck for full challenge here] 
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vST_3shd7g0Y6E46JaCdtpXKHfj6D8TAjF-fgZ4IiZ_1NETN2f8ROjBE6NtOpCSs0YXwWgYq-oHryO9/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
 
 ## Week 1
 
