@@ -15,7 +15,7 @@ GitLab has competencies as a common framework to learn things. This page is a [S
 
 A competency is defined as a set of skills, knowledge, and behaviors that allow an individual to effectively and efficiently carry out their role. There are three key categories of competencies at GitLab: 
 
-*  Values Competencies - a common set of behaviors and skills that reflect the organizational [values](https://about.gitlab.com/handbook/values/) needed across the workforce
+*  Values Competencies - a common set of behaviors and skills that reflect the organizational [values](/handbook/values/) needed across the workforce
 *  Remote Competencies - the skills and knowledge required to perform in an all-remote enviornment
 *  Functional Competencies - the skills, knowledge, and behaviors required to perform at the functional level
 
@@ -95,8 +95,8 @@ Each of the values and remote work competencies have a knowledge assessment in t
 1. [Collaboration](/handbook/values/#collaboration-competency)
 1. [Results](/handbook/values/#results-competency)
 1. [Efficiency](/handbook/values/#efficiency-competency)
-1. [Diversity, Inclusion & Belonging ](https://about.gitlab.com/handbook/values/#diversity-inclusion--belonging-competency)
-1. [Iteration](https://about.gitlab.com/handbook/values/#iteration-competency)
+1. [Diversity, Inclusion & Belonging ](/handbook/values/#diversity-inclusion--belonging-competency)
+1. [Iteration](/handbook/values/#iteration-competency)
 1. [Transparency](/handbook/values/#transparency-competency)
 
 In addition to the knowledge assessemnts for each value, you can take this [Knowledge Assessment](/handbook/values/#gitlab-values-certification) to become certified in the values.
