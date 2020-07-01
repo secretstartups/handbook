@@ -150,7 +150,7 @@ Anyone can test their knowledge on {insert cert name here}. To obtain a certific
 1. In cell A1 of the first sheet, add the formula to pull from the original responses. For example, `=IMPORTRANGE("https://link-to-responsessheet.com", "Form Responses 1!A1:M10000")`.
 1. Make an MR to add the new tab name to the `sheets.yml` file under the [values_certificate name sheet](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/sheetload/sheets.yml#L111). [Example](https://gitlab.com/gitlab-data/analytics/-/merge_requests/2834/diffs#e66fb606d4d1df437ce4fe679e4431b6b90494c4_108_108)
 1. Run the `clone_raw` and `sheetload` pipeline jobs. 
-1. Assign the MR to the [Data Engineer supporting G&A](https://about.gitlab.com/handbook/business-ops/data-team/data-organization/#data-engineers) and cc the Data Analyst, People.
+1. Assign the MR to the [Data Engineer supporting G&A](https://about.gitlab.com/handbook/business-ops/data-team/organization/#data-engineers) and cc the Data Analyst, People.
 
 | Clone Raw Pipeline | Sheetload Pipeline |
 | ------ | ------ |
