@@ -115,6 +115,8 @@ Test your knowledge and self-reflect on the Remote Work Competencies by completi
 
 #### [Engineering Competencies](https://about.gitlab.com/handbook/engineering/career-development/career-matrix.html#technical-competencies)
 
+#### [Product Competencies]()
+
 #### Manager and Leadership Competencies
 
 In addition to our values, remote work, and functional competencies, we have identified manger competencies that serve as the foundation to a whole person approach to management. Our leadership and management development programs incorporate the competencies as the bedrock for creating impactful training for our people.  
