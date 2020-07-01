@@ -96,6 +96,8 @@ To calculate the linear attribution IACV in each of those two campaigns we use t
 The Checksum is to combine the IACV of both opportunites ($10,000+$15,000=$25,000) and compare it to the sum of the linear IACV of all campaigns those opportunities are a part of: ($12,000+$13,000=$25,000). The results of the sums are equivalent - we are good.   
 
 
+Note: If the IACV of the opportunity/opportunities is/are negative, then the resulting `Weighted Linear IACV` and final linear IACV of the campaign(s) could be negative. 
+
 ## Bizible Channel and Sub-Channel Mapping
 
  In 4Q18, we are making updates to the Bizible Channel rules, but currently, these channels and subchannels are pulled into Salesforce and can be further filtered by using `medium` for those channels with overlap or with `Ad Campaign name` to search for specific UTMs or campaigns:
