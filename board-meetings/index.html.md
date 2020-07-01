@@ -225,7 +225,7 @@ The goal of codifying Board Member-Exec Stable Counterparts is to help build rel
 | [Sid Sijbrandij](/company/team/?department=executive#sytse) | [Godfrey Sullivan](/company/team/?department=board#godfrey-s) |
 | [Paul Machle](/company/team/?department=executive#pmachle) | [Karen Blasing](/company/team/?department=board#karen-b) |
 | [Mark Pundsack](/company/team/?department=executive#markpundsack) | (Future Board Member) |
-| [Eric Johnson](/company/team/?department=executive#edjdev) | (Future Board Member) |
+| [Eric Johnson](/company/team/?department=executive#edjdev) | [Godfrey Sullivan](/company/team/?department=board#godfrey-s) |
 | [Michael McBride](/company/team/?department=executive#mmcb) | [Bruce Armstrong](/company/team/?department=board#bruce-a) |
 | [Todd Barr](/company/team/?department=executive#tbarr) | [Sue Bostrom](/company/team/?department=board#sue-bostrom) |
 | [Scott Williamson](/company/team/?department=executive#sfwgitlab) | [Matthew Jacobson](/company/team/?department=board#matthewjacobson) |
