@@ -174,10 +174,10 @@ Rep letters will be sent quarterly by the Internal Audit Team. Reps are required
 
 | **Activity** | **Timeline** |  
 | ------ | ------ |  
-| Roll out certificates by Internal Audit | 25th of the last month of the quarter |  
-| Receive responses by | 8th of the subsequent month after the quarter end |  
-| Internal Audit to collate all the information and communicate to Principal Accounting Officer | 9th of the subsequent month after the quarter end |  
-| Principal Accounting Officer and Chief Financial Officer to review  the responses and  to communicate to audit committee | 12th of the subsequent month after the quarter end |  
+| Roll out certificates by Internal Audit | 4th day of the subsequent month after the quarter-end |  
+| Receive responses by | 8th day of the subsequent month after the quarter-end |  
+| Internal Audit to collate all the information and communicate to Principal Accounting Officer | 12th day of the subsequent month after the quarter-end |  
+| Principal Accounting Officer and Chief Financial Officer to review  the responses and  to communicate to audit committee | 14th day of the subsequent month after the quarter-end |  
 
 * If any of the timelines above fall under a public holiday then the previous working day will be a due date for the respective activity.
 
