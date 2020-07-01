@@ -145,21 +145,15 @@ While some GitLab team-members may not receive an increase due to already being 
 
 January 2020 was the first annual compensation review using Compaas. Based on some awesome [feedback](https://gitlab.com/gitlab-com/people-group/Compensation/issues/80) from our GitLab team, we are working to have the following iterations to our process in Compaas before the next cycle. There are certain items that we may not be able to have implemented since any change to Compaas updates their tool for all clients. Where that is the case we will outline that it is a limitation for future reference.
 
-* Implement Proxy Access for People Business Partners
-* Self Reporting from Compaas for Admins
-* Once slates are submitted, the ability to see more detail (e.g. compa group, percent change, etc)
-* Market vs COLA percentage increases to understand the context behind the min comp increase
-* Ability to see the compensation calculator bands within compaas
+* Implement Proxy Access for People Business Partners. Update: Can set them up as an approver of the slates that are relevant to them to give PBPs access / visibilty. 
+* Reason behind percentage increases to understand the context behind the min comp increase
+* Ability to see the compensation calculator bands within compaas (they have generated something similar for confirmation letters that we are working on having compaas add directly into the rewards tool). 
 * Ability to delete notes as a slate owner
 * Managers and team members to be able to log in and see where they fall in compensation for Compaas Analytics
-* Approver and slate owner navigation so you don't have to toggle back and forth, but instead everything is in once place
-* Ability to move team member to another slate (due to a manager change for example)
-* Ability to approve slates for an approver as an Admin
-* Ability to update budgets as an Admin
+* Approver and slate owner navigation so you don't have to toggle back and forth, but instead everything is in once place. Update: Still on separate slates, but you can see everyone by navigating to "All Employees" tab. 
 * Ability to review who has/has not logged in with which ID and which permissions
 * Show promotion/comp change history for managers to have additional context to percent increase
 * Mobile responsive
-* Rounding practices: Currently in Compaas as x% instead of x.xx%. Alternatively, should GitLab implement [rounding up of salary](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/117)?
 
 #### Communicating Compensation Increases
 
