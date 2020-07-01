@@ -20,14 +20,22 @@ Our current localization capablities are limited due to resources and bandwidth.
 
 To ensure translated content makes contextual and technical sense, we have internal native language speakers review the content. Internal reviewers **are expected** to review content for accuracy and quality and identify small mistakes made by the translator. Internal reviewers **are not expected** to copyedit or rewrite documents. If the quailty of a translated document is poor and needs to be written, the reviewer should stop reading and let the requestor know that the translation is not usable and provide a reason why. The requestor should provide this feedback to the translator. 
 
+**Guidelines for reviewers**
+
+1. Identify copy mistakes.
+1. Identify areas where the context did not translate well and needs more attention. 
+1. Identify words or phrases that should **not** be translated. 
+1. If by the third second page it is clear that the translation is too poor to be used, stop reading and let the requestor know that translation is not usable and should be resumbitted. 
+
 #### Process for requesting a review
 
 1. Open a [translation review request](https://gitlab.com/gitlab-com/marketing/growth-marketing/global-content/content-marketing/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) 
-1. Complete all requested fields in the issue
+1. Complete all requested fields in the issue. 
+1. Content DRI to assign the reviewer. Reviewers are rotated in the order listed below. 
 
 | Language | Reviewers |
 | ------ | ------ |
-| French | cell |
+| French | @k33g | @aseguillon | @c.dios |
 | German | @amimmo |
 | Japanese | @toshitakaito |
 
