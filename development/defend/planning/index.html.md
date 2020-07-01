@@ -149,7 +149,7 @@ Note the following differences when refining bugs:
    indicative of a harder issue.
 1. Do not add weight. Our velocity represents the capacity to deliver bug-free work.
 1. When you hit the time limit for refinement, it's ok to have uncertainty in the [Implementation
-   Plan](#implementation-plan).
+   Plan](#implementation-plan). It's sufficient just to direct where you expect the code change to be (high or low level).
 
 
 ### Failing Refinement:
