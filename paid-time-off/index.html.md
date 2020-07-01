@@ -253,9 +253,9 @@ Take care not to burn yourself out!
 
 The following is a list of all statutory annual vacation entitlements by entity and country. Once the statutory amounts have been taken, employees can still make use of GitLab's No Ask Time Off policy.
 
-1. GitLab Ltd (UK)
-    * Employees are entitled to at least 20 vacation days. The days will accrue from the start date. There is no carryover for unused vacation days.
-1. GitLab BV (Netherlands)
+1. GitLab LTD (UK Employees)
+    * Employees are [entitled to at least 28 vacation days](https://www.gov.uk/holiday-entitlement-rights), this is broken down by 20 days standard annual leave plus 8 public holidays. These days will accrue from the start date. It is important for UK team members to utilise time off for public holidays as the total amount of annual leave is accrued here inclusive of public holidays. Under normal circumstances, there is no carryover for unused vacation days. However given the situation surrounding COVID-19 the UK govenerment has [relaxed measures](https://www.gov.uk/government/news/rules-on-carrying-over-annual-leave-to-be-relaxed-to-support-key-industries-during-covid-19) on the carry over of annual leave for the following two calander years (2020-2021,2021-2022).
+1. GitLab BV (Netherlands Employees)
     * Employees are entitled to at least 20 vacation days per year. The days will accrue at 1.67 days/month from the team member's start date. Moving forward, all 20 days will be awarded on January 1st annually (not on a monthly basis). Any unused days will be carried into the next calendar year, but expire on July 1st. Should the team member leave GitLab within the calendar year, an entitlement to a pro rata part vacation days exists. If this pro rata entitlement is exceeded by the team member, the team member will have to reimburse GitLab for the surplus of vacation days taken but not accrued.
 1. GitLab BV (Belgium)
     * Employees are entitled to at least 20 vacation days; the days taken must be communicated to the Belgian payroll provider each month by People Ops. These days do not carry over into the next calendar year.
