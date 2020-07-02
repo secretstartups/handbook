@@ -297,9 +297,9 @@ We understand that our customers have non-developer use cases. Please [contact o
      1. Some other vendors' pricing metrics are like this as well.
      
      We currently think the pros with the non-cumulative approach outweigh the pros with the cumulative approach.
-1. Per user vs. per namespace: Are the consumption limits provisioned per user or per namespace? 
-In the case of per namespace, the user gets more minutes and storage when they create another namespace. In the case of per user, the user receives fixed minutes and storage across all his/her contributions.  We currently provision consumption limits per namespace. A user namespace also receives the group namespace’s quota. 
-1. Does storage pricing include other storage types: attachments, containers, etc.? 
+1. Per user vs. per namespace: Are the consumption limits provisioned per user or per namespace?
+In the case of per namespace, the user gets more minutes and storage when they create another namespace. In the case of per user, the user receives fixed minutes and storage across all their contributions.  We currently provision consumption limits per namespace. A user namespace also receives the group namespace’s quota.
+1. Does storage pricing include other storage types: attachments, containers, etc.?
      The single storage pricing covers registry (containers are part of it), repository, artifacts, and attachments, etc.
 
 
