@@ -26,9 +26,9 @@ stateDiagram
   GitLab --> App:5. Build App
   GitLab --> TestEnv:6. Deploy
   App --> TestEnv
-  GitLab --> TestEnv:7.Run quality tests
-  GitLab --> TestEnv:8.Run security tests
-  TestEnv --> Developer:6.Verify application
+  GitLab --> TestEnv:7. Run quality tests
+  GitLab --> TestEnv:8. Run security tests
+  TestEnv --> Developer:9. Verify application
 
 ```
 
@@ -37,17 +37,17 @@ stateDiagram
 ```mermaid
 stateDiagram
   Developer --> GitLab:1. Deploy
- GitLab --> ProductionEnvironment:2.Deploy
- Developer --> GitLab:3.Mark issue as fixed
+ GitLab --> ProductionEnvironment:2. Deploy
+ Developer --> GitLab:3. Mark issue as fixed
 ```
 
 ## GitLab Maintain Code
 
 ```mermaid
 stateDiagram
- ProductionEnviroment --> GitLab:1.Application logs
- ProductionEnviroment --> GitLab:2.Application metrics
- GitLab --> Developer:3.Review logs & Metrics
+ ProductionEnviroment --> GitLab:1. Application logs
+ ProductionEnviroment --> GitLab:2. Application metrics
+ GitLab --> Developer:3. Review logs & Metrics
 ```
 
 
@@ -69,8 +69,8 @@ stateDiagram
   Developer --> CDTool:8. Login
   Developer --> CDTool:9. Deploy application
   Application --> CDTool:10. Load
-  CDTool --> TestEnivronment:11. Deploy
-  TestEnivronment --> Developer:12. Verify application
+  CDTool --> TestEnvironment:11. Deploy
+  TestEnvironment --> Developer:12. Verify application
 ```
 
 ## Multiple Devops Tools Test Code
@@ -120,17 +120,17 @@ stateDiagram
   CDTool --> ProductionEnvironment:8. Deploy Application
   ProductionOps --> Developer:9. Deployment Complete
   Application --> CDTool
-  Developer --> IssueTracker:10.Close issue
+  Developer --> IssueTracker:10. Close issue
 ```
 
 ## Multiple DevOps Tools Maintain Application
 
 ```mermaid
 stateDiagram
- ProductionEnviroment --> LogApplication:1.Application logs
+ ProductionEnviroment --> LogApplication:1. Application logs
  Developer --> LogApplication:3. Login 
  LogApplication --> Developer:4. View Logs
- ProductionEnviroment --> MetricsApplication:2.Application metrics
+ ProductionEnviroment --> MetricsApplication:2. Application metrics
  Developer --> MetricsApplication:5. Login 
  MetricsApplication --> Developer:6. View Metrics
 ```
