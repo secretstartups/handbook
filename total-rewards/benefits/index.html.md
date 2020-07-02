@@ -15,6 +15,7 @@ description: Find answers to your questions about GitLab's benefits.
 * [Modern Health](/handbook/total-rewards/benefits/modern-health)
 * [Global Benefits Survey](/handbook/total-rewards/benefits/benefits-survey)
 * [Resources for COVID-19](/handbook/total-rewards/benefits/covid-19)
+* [Parental Leave and Return Tool Kit for GitLab Managers and Team Members](/handbook/total-rewards/benefits/parental-leave-toolkit/)
 
 ## Introduction
 
@@ -24,23 +25,28 @@ On this page, you can find information about the principles that guide GitLab's 
 
 These principles will guide our benefit strategies and decisions.
 
-* **Collaboration**
+### Collaboration
   - Work with providers, vendors, and global networks to benchmark benefit data from other similar sized companies.
   - Foster cross-company understanding.
-* **Results**
+
+### Results
   - Evangelize benefit programs in each entity.
   - Transform “statutory” to “competitive.”
   - Make benefits a very real aspect of compensation during the hiring process.
   - Measure team member engagement and benefit enrollment.
-* **Efficiency**
+
+### Efficiency
   - Use the GitLab Inc (US) benefits as a starting point, and try to stay as consistent as possible within the US baseline.
   - Iterate on changes for specific countries based on common practices and statutory regulations.
-* **Diversity, Inclusion & Belonging**
+
+### Diversity, Inclusion & Belonging
   - Actively work to ensure that our benefit choices are inclusive of all team members.
-* **Iteration**
+
+### Iteration
   - Regularly review current benefits (bi-annually) and propose changes.
   - Everything is always in draft.
-* **Transparency**
+
+### Transparency
   - Announce and document benefits to keep them updated.
   - Share upcoming benefit plans internally before implementing them.
   - Invite discussion and feedback.
