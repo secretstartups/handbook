@@ -41,7 +41,7 @@ At GitLab, **Architecture** is:
   * DEs produce 6-month roadmaps for their department's technical direction, again aligned with Product
   * DEs also have strong input in aligning OKRs at the department level
 * Staff Engineers (SEs) are DRIs for the Architecture Practice in their respective Teams
-  * SEs operate at the [Sub-department and Team](https://about.gitlab.com/company/team/structure/#organizational-structure) levels (Senior Managers and Managers)
+  * SEs operate at the [Sub-department and Team](https://about.gitlab.com/company/team/structure/#organizational-structure) levels (frequently working with Senior Managers and Managers)
   * SEs are technical partners to Managers in their Department's teams 
   * SEs actively participate in quarterly team OKRs
 
