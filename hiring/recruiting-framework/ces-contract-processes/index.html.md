@@ -346,7 +346,10 @@ GitLab is working in partnership with Global Upside for employing GitLab team-me
 1. Once Global Upside has drafted up the contract, they will place it in Egnyte and email the CES to review and approve.
     -CES should double-check that the contract reflects all the correct information that we sent to them.
 1. Once the contract is signed by the new hire, Global Upside will notify the CES.
-1. Proceed with marking them as hired in Greenhouse, adjusting the ‘Accepted’ date to match the ‘Sent’ date, sending the welcome email, and making sure all other candidates have been rejected prior to marking as hired and closing the req. 
+1. Proceed with marking them as hired in Greenhouse, adjusting the ‘Accepted’ date to match the ‘Sent’ date, sending the welcome email, and making sure all other candidates have been rejected prior to marking as hired and closing the req.
+1. Lastly, once the background check is completed for a new hire that is located in India. The CES needs to share that background check with Global Upside.     - Send the new hire the 'India - Background Check Notification' email that is located in the candidate email templates. This notifies the new hire that GitLab will be sharing their background check with Global Upside. 
+    - The CES will upload the PDF of the completed background check to the safe and encrypted portal, Egnyte, in the 'Background Checks' folder under Client Upload.
+
 
 ## Employment Agreements for GitLab team-members in China
 
