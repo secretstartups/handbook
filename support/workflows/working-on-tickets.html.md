@@ -12,36 +12,79 @@ category: Handling tickets
 
 ## What is the "Working on Tickets" workflow?
 
-The [core responsibility of GitLab Support Engineers](/handbook/support/support-engineer-responsibilities.html) is to resolve customer problems by solving support tickets on a daily basis. You accomplish this using the "Working on Tickets" workflow. The focus is **being responsible for the continuous progress toward resolution of a specific set of tickets**. What does this look like?
+The [core responsibility of GitLab Support Engineers](/handbook/support/support-engineer-responsibilities.html) is to resolve user problems by solving support tickets on a daily basis. You accomplish this using the "Working on Tickets" workflow. The focus is **being responsible for the continuous progress toward resolution of a specific set of tickets**. What does this look like?
 
-It starts with assigning a ticket to yourself at the moment when you make the first public comment on it. From that point forward you should be thinking about how you can keep that ticket moving toward a resolution that's acceptable to the customer. Don't worry - you're not responsible for creating the solution, only for making the solution happen. **You're the leader, not the sole contributor.** If you can resolve the ticket independently, great! If not, ask others to help by working with you (*e.g.,* create a thread in Slack, arrange a pairing session). If you're not able to find someone to work with you, please let your manager know so that they can help with next steps.
+**It starts with assigning a ticket to yourself at the moment when you make the first public comment on it.** From that point forward you should be thinking about how you can keep that ticket moving toward a resolution that's acceptable to the user. Don't worry - you're not responsible for creating the solution, only for making the solution happen. **You're the leader, not the sole contributor.** If you can resolve the ticket independently, great! If not, ask others (*e.g.* create a Slack thread) to help by pairing with you or by providing internal comments in the ticket to suggest next steps. Note that Senior and Staff Support Engineers are specifically charged with putting a large percentage of their time into helping the rest of the team, so they're a great resource when you need ticket help. If you're not able to find someone to work with you, please let your manager know so that they can help with next steps.
 
 Benefits of working on tickets assigned to yourself:
-1.  You won't have to read through a series of updates from multiple support engineers, and the customer, to understand the ticket history, current status, or plan of action. In fact, we encourage you to include a brief description of those items - history (what's happened so far), current status, next steps - in most of your updates to the customer so that your last update always tells you what you need to know.
-1.  With one person in charge of each ticket, you can take a consistent approach to resolving the problem, you can explain why and what you're doing, and you won't repeat or contradict an action taken by somebody else on the ticket. This is a much better experience for the customer.
-1.  Knowing that you're in charge of a ticket gives you freedom to set and manage customer expectations at each step along the way, so the customer will know what's going on and who's working on their behalf. Again, this is a customer experience enhancement.
+1.  You won't have to read through a series of updates from multiple support engineers, and the user, to understand the ticket history, current status, or plan of action. In fact, we encourage you to include a brief description of those items - history (what's happened so far), current status, next steps - in most of your updates to the user so that your last update always tells you what you need to know.
+1.  With one person in charge of each ticket, you can take a consistent approach to resolving the problem, you can explain why and what you're doing, and you won't repeat or contradict an action taken by somebody else on the ticket. This is a much better experience for the user.
+1.  Knowing that you're in charge of a ticket gives you freedom to set and manage user expectations at each step along the way, so the user will know what's going on and who's working on their behalf. Again, this is a user experience enhancement.
 
 When you're "Working on Tickets", you're driving achievement of our KPI of [Support Satisfaction](/handbook/support/#support-satisfaction-ssat) by helping to resolve tickets as quickly and effectively as possible.
 
 ### The Process in Action
 
+#### Brief Summary
 Here's what to do when you're actively working on tickets in Zendesk. Divide your efforts between:
 
-*  taking **next** steps on tickets that are already in your [My Assigned Tickets](https://gitlab.zendesk.com/agent/filters/360062369834) view, and
-*  identifying and taking **first** steps on new tickets in the main queue (`SM Support for MY_REGION & All Regions - Needs Assignee` view).
+1. taking **next** steps on tickets that are already in your
+   [My Assigned Tickets](https://gitlab.zendesk.com/agent/filters/360062369834)
+   view, and
+2. assigning yourself new tickets from the main view for your region and
+   current focus (see [Main Views](#main-views) table), and identifying and
+   taking **first** steps on those tickets
 
-The basic workflow looks like this:
-1. Start your work at the top of your own queue
+#### Main Views
+These views show all the unassigned tickets for their respective region and
+focus. All tickets in these views should be new, since all tickets should be
+assigned when the first reply is made.
+
+<table>
+  <tr><th>Current Focus</th><th>Region</th><th>Main View Name with Link</th></tr>
+  <tr>
+    <td rowspan="3">Self-Managed</td>
+    <td>AMER</td>
+    <td>[SM Need Assignee: AMER+All Region](https://gitlab.zendesk.com/agent/admin/views/360038123559)</td>
+  </tr>
+  <tr>
+    <td>APAC</td>
+    <td>[SM Need Assignee: APAC+All Region](https://gitlab.zendesk.com/agent/admin/views/360038102880)</td>
+  </tr>
+  <tr>
+    <td>EMEA</td>
+    <td>[SM Need Assignee: EMEA+All Region](https://gitlab.zendesk.com/agent/admin/views/360038102260)</td>
+  </tr>
+  <tr>
+    <td rowspan="3">GitLab.com</td>
+    <td>AMER</td>
+    <td>[.com Need Assignee: AMER+All Region](https://gitlab.zendesk.com/agent/admin/views/360038122359)</td>
+  </tr>
+  <tr>
+    <td>APAC</td>
+    <td>[.com Need Assignee: APAC+All Region](https://gitlab.zendesk.com/agent/admin/views/360038122399)</td>
+  </tr>
+  <tr>
+    <td>EMEA</td>
+    <td>[.com Need Assignee: EMEA+All Region](https://gitlab.zendesk.com/agent/admin/views/360038102160)</td>
+  </tr>
+</table>
+
+*NOTE: For more information about views, see the
+[Views section of our Zendesk Overview page](/handbook/support/workflows/zendesk-overview.html#views).*
+
+#### The Full Workflow
+1. Start your work at the top of your own view
 1. Determine whether you can identify any next steps to make progress
-   1. If you can, then take those steps, including updating the customer
+   1. If you can, then take those steps, including updating the user
    1. If not, then link the ticket in Slack and ask for help from your teammates
-1. If it's been an hour or more since you checked the main queue (or your own queue is up-to-date or empty), and you have the capacity to take on another ticket, then:
-   1. If the ticket at the top of the main queue has an SLA that will expire in an hour or less, assign that ticket to yourself 
+1. If it's been an hour or more since you checked the [Main Views](#main-views), or your own view is up-to-date or empty, and **you have the capacity to take on another ticket**, then:
+   1. Assign to yourself the top ticket in the view
 1. If you've asked in Slack for help on a ticket, and nobody has stepped up to help, and you feel you can't wait any longer for help, then:
    1. `@mention` your manager in Slack in the thread where you requested help, and ask them what the next steps should be
-1. If there are tickets left in your queue to work on, then go back to step 1
-1. Go back to `Finding a New Ticket`
+1. If there are tickets left in your view to work on, then go back to step 1, else go back to step 3
 
+#### Workflow Visual
 See the [Working on Tickets Flowchart](#working-on-tickets-flowchart) for a visual representation.
 
 <!-- ![Working on Tickets process flowchart](assets/working-on-tickets-workflow.png) -->
@@ -49,27 +92,39 @@ See the [Working on Tickets Flowchart](#working-on-tickets-flowchart) for a visu
 ### Keep In Mind:
 
 1. Teamwork is really important with this workflow. Be aware of what's happening across the board and jump in! Pairing with someone is a great way to work out complex issues.
-1. When you send the customer an update, the normal action is to set the ticket status to `Pending`. We are now waiting for a reply from the customer and there is no SLA clock counting.
-1. Occasionally you will send a customer a reply letting them know that you're going to follow up with further information. In this case you should set the ticket status to `Open` or `On-hold`. When this happens ZenDesk still removes the SLA. To help ensure we don't forget to follow up, a trigger automatically assigns the ticket to you (if it's not already assigned to someone else) so that you can see it in your queue.
-1. For all tickets in which the customer is waiting on a response from Support, **always provide an update** on its status and work that has been done. Aim to do this daily, and definitely no less than every four days (the length of the On-hold period).
+1. When you send the user an update, the normal action is to set the ticket status to `Pending`. We are now waiting for a reply from the user and there is no SLA clock counting.
+1. Occasionally you will send a user a reply letting them know that you're going to follow up with further information. In this case you should set the ticket status to `Open` or `On-hold`. When this happens ZenDesk still removes the SLA. To help ensure we don't forget to follow up, a trigger automatically assigns the ticket to you (if it's not already assigned to someone else) so that you can see it in your view.
+1. For all tickets in which the user is waiting on a response from Support, **always provide an update** on its status and work that has been done. Aim to do this daily, and definitely no less than every four days (the length of the On-hold period).
 
 ### FAQ About Working on Tickets workflow
 
 1. **How many tickets should I have assigned to me?** There's no specific number. Aim to take as many tickets as you can while being sure that you can give good attention to each of them daily (unless they’re on hold). You might expect that to be somewhere between three and ten open, pending or on-hold tickets in your [My Assigned Tickets](https://gitlab.zendesk.com/agent/filters/360062369834) view.
+1. **Isn't it the FRT Hawk's responsibility to give the first response on a
+   ticket, not mine?** New tickets are everyone's responsibility, not just the
+   FRT Hawk's. The FRT Hawk's job is **not** to provide the first
+   response on every new ticket, but rather to provide that first response when
+   nobody else has been able to take the ticket in time to meet SLA.
 1. **A ticket is assigned to someone else - can I work on it?** Absolutely! Support Engineers should [balance their day](/handbook/support/support-engineer-responsibilities.html#2-help-meet-our-service-level-objectives-for-ticket-reply-times-daily) between being 'proactive' (working on your assigned tickets) and 'reactive' (helping prevent tickets from breaching their SLAs). Tickets breaching soon may be assigned to a team member in a different region. When replying to these tickets, be sure that your next steps align with the action plan that the assignee has described on their replies or ticket summary.
-1. **I'm going to be absent, what do I do with my assigned tickets?** If you'll be absent for only a day or two, please ask your customers whether they want to wait for your return or work with others in your absence. For those who will wait, place their tickets on hold. For longer absences, please inform your customers that your tickets will be reassigned due to your upcoming absence. Then, find someone willing to take over each ticket, and review the tickets with them before reassigning. If you can't find someone to assign your ticket to, you can 'unassign' by assigning it to a 'group' (e.g. 'Support EMEA', 'Support APAC', 'Support AMER'). It doesn't matter which group - the ticket will still be visible for all Support Engineers. Be sure in this situation to create a very clear and thorough ticket summary so that the next engineer can come up to speed very quickly.
-1. **A ticket has diverged into more than one problem. What do I do?** It's recommended to keep tickets focused on a single problem that's clearly described by the ticket Title. If the customer asks about another problem, you are encouraged to "**split**" the ticket **by creating a new ticket on behalf of the customer**. The new ticket should focus on a single issue and keep the original ticket on the original issue. This helps reduce time to resolution and makes it easier for us to focus on fixing the problem at hand:
+1. **If I can provide a good response on a new (unassigned) ticket, but I don't
+   want to assign to myself, may I?** Every response should be part of a ticket
+   that is assigned to somebody. If the ticket is assigned to someone else,
+   please offer them your suggestion in an internal note. If the ticket is
+   unassigned (new), please assign it to yourself and then send your first
+   response to the ticket requester. And remember, you have a whole team ready
+   to help you drive that ticket to a great resolution, so you're never alone.
+1. **I'm going to be absent, what do I do with my assigned tickets?** If you'll be absent for only a day or two, please ask your users whether they want to wait for your return or work with others in your absence. For those who will wait, place their tickets on hold. For longer absences, please inform your users that your tickets will be reassigned due to your upcoming absence. Then, find someone willing to take over each ticket, and review the tickets with them before reassigning. If you can't find someone to assign your ticket to, you can 'unassign' by assigning it to a 'group' (e.g. 'Support EMEA', 'Support APAC', 'Support AMER'). It doesn't matter which group - the ticket will still be visible for all Support Engineers. Be sure in this situation to create a very clear and thorough ticket summary so that the next engineer can come up to speed very quickly.
+1. **A ticket has diverged into more than one problem. What do I do?** It's recommended to keep tickets focused on a single problem that's clearly described by the ticket Title. If the user asks about another problem, you are encouraged to "**split**" the ticket **by creating a new ticket on behalf of the user**. The new ticket should focus on a single issue and keep the original ticket on the original issue. This helps reduce time to resolution and makes it easier for us to focus on fixing the problem at hand:
     1. Click `+ Add` near the top of the Zendesk screen to create a new ticket
-    1. Set the customer as the Requester (use the same email address as the original ticket)
+    1. Set the user as the Requester (use the same email address as the original ticket)
     1. Give the new ticket a helpful 'Subject'
     1. Paste or write in the relevant text for the new ticket description
     1. Set the correct ticket form and other meta data from the sidebar
-    1. Submit as 'New' if the next action is for GitLab or as 'Pending' if the next action is for the customer
-    1. Add a reply on the original ticket, letting the customer know that you've split their ticket. (You could also add an internal note with a link to the new ticket you created if that seems helpful.) 
+    1. Submit as 'New' if the next action is for GitLab or as 'Pending' if the next action is for the user
+    1. Add a reply on the original ticket, letting the user know that you've split their ticket. (You could also add an internal note with a link to the new ticket you created if that seems helpful.) 
 1. **Can I reassign a ticket to someone else?** There are some situations in which you should look to reassign a ticket:
    1. If you'll be absent, see the FAQ above about reassigning tickets when you'll be absent.
-   1. If you've determined that specific expertise outside your own is required to resolve the ticket, your first choice should be to pair with an expert so that you can get the ticket resolved and learn in the process. But if pairing is not reasonable, go ahead and reassign the ticket after discussing it with the other support engineer.  Be sure to send a message to the customer informing them that you’ve asked another support engineer with relevant expertise to take over the ticket, and that you’ve reviewed the ticket with that engineer.
-   1. If you've become overloaded with tickets, feel free to rebalance your load by finding one or more teammates to take over some of your tickets. Be sure you discuss each ticket before reassigning it so that the other support engineers don't have to start from scratch. Then inform the customer that you’ve asked another support engineer to take over the ticket due to time constraints.
+   1. If you've determined that specific expertise outside your own is required to resolve the ticket, your first choice should be to pair with an expert so that you can get the ticket resolved and learn in the process. But if pairing is not reasonable, go ahead and reassign the ticket after discussing it with the other support engineer.  Be sure to send a message to the user informing them that you’ve asked another support engineer with relevant expertise to take over the ticket, and that you’ve reviewed the ticket with that engineer.
+   1. If you've become overloaded with tickets, feel free to rebalance your load by finding one or more teammates to take over some of your tickets. Be sure you discuss each ticket before reassigning it so that the other support engineers don't have to start from scratch. Then inform the user that you’ve asked another support engineer to take over the ticket due to time constraints.
 
 ## Working on Tickets Flowchart
 
@@ -79,20 +134,20 @@ A([My Tickets]) --> B
 B[Open the 'My Assigned Tickets View' in Zendesk] --> B1
 B1{Are there tickets left in <BR> your view that need work?} -->|Yes| C
 B1 -->|No| NT2
-C[Select top ticket from queue] --> D
+C[Select top ticket from view] --> D
 D{Can you make progress and <BR> take the next steps?}
-D -->|Yes| E[Update the customer<BR>with the next steps]
+D -->|Yes| E[Update the user<BR>with the next steps]
 D -->|No| F[Link the ticket in<BR>Slack and ask <BR> teammates for help]
 E & F --> NT0
 
 NT0([Finding a New Ticket]) --> NT1
-NT1{Have you checked <BR> the main queue <BR> in the last hour?} -->|Yes| AH0
+NT1{Have you checked <BR> the main view <BR> in the last hour?} -->|Yes| AH0
 NT1 -->|No| NT2
 NT2{Do you have capacity <BR> for another ticket?} -->|No| AH0
 NT2 -->|Yes| NT3
-NT3{Is there a ticket in the <BR> main queue expiring <BR> within an hour?} -->|No| AH0
+NT3{Is there a ticket in <BR> the main view?} -->|No| AH0
 NT3 -->|Yes| NT4
-NT4([Assign the ticket to yourself]) --> B1
+NT4([Assign the top ticket to yourself]) --> B1
 
 AH0([Check on Help Requests]) --> AH1
 AH1{Is there a ticket <BR> on which you need <BR> help but nobody's <BR> volunteered?} -->|Yes| AH2
@@ -108,14 +163,15 @@ AH2["@"mention your manager in <BR> Slack in the thread <BR> where you requested
       1. This takes it out of the 'Needs assignee' view so other engineers won't waste
          time on it
       1. *NOTE: The SLA clock continues to run!*
-   1. Work on the ticket and aim to get a helpful reply out to the customer. Work with the team if needed as described above.
-   1. If you're not able to get a reply out to the customer even after seeking help, it's OK to unassign the ticket as described above, though this should be a last resort. Please add an Internal Note summarizing anything you discovered during your research.
-   This helps the next person who picks up the ticket.
+   1. Work on the ticket and aim to get a helpful reply out to the user. Work with the team if needed as described above.
+   1. If you're not able to get a reply out to the user even after seeking
+      help, please speak with a manager to determine an appropriate course of
+      action.
 1. If the ticket is already assigned to someone else and you're stepping in to
    help them, then:
    1. Add yourself to the **CCs**
    1. Enter a short internal note stating "assisting"
-   1. Proceed to write and send your reply to the customer, or to pair with the
+   1. Proceed to write and send your reply to the user, or to pair with the
       assignee to work on the ticket
 
 ### What if someone is working on a ticket that I’d like to work on?
@@ -129,15 +185,15 @@ If another engineer is looking at a ticket that you’re interested in working o
 
 ### A ticket is close to breaching SLA; I'm working on it, but I need more time for my full reply.
 
-1. Please send the customer a short message to update them on the action plan:
+1. Please send the user a short message to update them on the action plan:
    what you're doing, what progress you've made, and what's left to do. Let
    them know when you expect to have next steps for them to take. Doing this
    will not only prevent an SLA breach, it will very likely be well-received by
-   the customer. Remember, you don't need to have a full answer in order for
+   the user. Remember, you don't need to have a full answer in order for
    your message to be useful.
 1. When sending the short public reply, set the ticket status to `On-hold` or `Open`. `On-hold` is useful when waiting for information from another team. `Open` is useful when you want to keep the ticket visible to the rest of the Support team. (See below for more details on choosing a ticket status.)
 1. When you take the above action, **keep your commitment and get back to the
-   customer on time and with a full reply including next steps**. Keep in mind
+   user on time and with a full reply including next steps**. Keep in mind
    that you've stopped the SLA clock, so it's up to you to respond on time. **Do
    not take this action if you are not planning to be the one to follow up.**
 
@@ -149,7 +205,7 @@ Sometimes, you might require help from senior support engineers, subject matter 
 1. Check the [Support Team Knowledge Areas](https://about.gitlab.com/handbook/support/workflows/knowledge_areas.html) handbook page to see if someone would be able to assist you.
 1. Look for assistance in the internal Support Slack channels.
    1. Initiate a crush session or a [pairing session](https://gitlab.com/gitlab-com/support/support-pairing) in the [#support_self-managed](https://gitlab.slack.com/app_redirect?channel=support_self-managed) or [#support_gitlab-com](https://gitlab.slack.com/app_redirect?channel=support_gitlab-com) Slack channels.
-   1. If you now have some new ideas to try, make sure you have a clear plan of action and engage with the customer.
+   1. If you now have some new ideas to try, make sure you have a clear plan of action and engage with the user.
 1. If you still require further assistance, reach out in the Slack channel of the appropriate [stage/group](https://about.gitlab.com/features/).
    1. If the situation demands (bug, regression, feature request etc) and an issue doesn't already exist, a new issue must have been filed related to the ticket and linked in all appropriate places.
 1. If you are unable to get assistance from a developer through the previous step, a Product Manager might need to be involved - reach out to a Support Engineering Manager via the [#support_managers](https://gitlab.slack.com/app_redirect?channel=support_managers) Slack channel for assistance.
@@ -161,19 +217,19 @@ Each ticket in Zendesk has a [status](https://support.zendesk.com/hc/en-us/artic
 |  **Status** | **Meaning** | **Notes** |
 | --- | --- | --- |
 |  New | The ticket has just been opened and has had no replies. |  |
-|  Open | The ticket has had one or more replies, and the customer is waiting on GitLab Support to provide the next reply. |  |
-|  Pending | The ticket has been replied to and is waiting on the customer to provide additional information. | After 3 days in "Pending", a customer will receive a further response reminding them that the ticket exists. If there are no responses after a total of 7 days, the ticket will be moved to Solved. |
-|  On-Hold | GitLab support is working on the ticket and may be waiting for information from another team | Placing a ticket on-hold will assign it to the engineer. After four days the ticket will move back to open status, requiring an update to the customer. On-hold is transparent to the customer (they see the status as 'Open') so there is no need to inform the customer that the ticket is being put on-hold. It's the engineer's responsibility to ensure timely replies or set the ticket back to 'Open' if they are no longer working on it. Setting a ticket to 'on-hold' while working on the ticket can be useful as it takes it out of the main queue, thus saving other engineers from wasting time reading the ticket. |
-|  Solved | The ticket has been solved | A customer who replies to a Solved ticket will re-open it. A Solved ticket will transition to 'Closed' after 4 days. |
-|  Closed | The ticket is archived | A customer who replies to a Closed ticket will open a new ticket with a note that relates the new case to the closed ticket. |
+|  Open | The ticket has had one or more replies, and the user is waiting on GitLab Support to provide the next reply. |  |
+|  Pending | The ticket has been replied to and is waiting on the user to provide additional information. | After 3 days in "Pending", a user will receive a further response reminding them that the ticket exists. If there are no responses after a total of 7 days, the ticket will be moved to Solved. |
+|  On-Hold | GitLab support is working on the ticket and may be waiting for information from another team | Placing a ticket on-hold will assign it to the engineer. After four days the ticket will move back to open status, requiring an update to the user. On-hold is transparent to the user (they see the status as 'Open') so there is no need to inform the user that the ticket is being put on-hold. It's the engineer's responsibility to ensure timely replies or set the ticket back to 'Open' if they are no longer working on it. Setting a ticket to 'on-hold' while working on the ticket can be useful as it takes it out of the main view, thus saving other engineers from wasting time reading the ticket. |
+|  Solved | The ticket has been solved | A user who replies to a Solved ticket will re-open it. A Solved ticket will transition to 'Closed' after 4 days. |
+|  Closed | The ticket is archived | A user who replies to a Closed ticket will open a new ticket with a note that relates the new case to the closed ticket. |
 
 ### Handling Large Files
 
-Zendesk has a [fixed maximum attachment size](https://support.zendesk.com/hc/en-us/articles/235860287-What-is-the-maximum-attachment-size-I-can-include-in-ticket-comments-) of 20MB per file. If you need a customer to share a larger file than this, then see [Provide Large Files to GitLab Support](/support/providing-large-files.html) for information on how to do so.
+Zendesk has a [fixed maximum attachment size](https://support.zendesk.com/hc/en-us/articles/235860287-What-is-the-maximum-attachment-size-I-can-include-in-ticket-comments-) of 20MB per file. If you need a user to share a larger file than this, then see [Provide Large Files to GitLab Support](/support/providing-large-files.html) for information on how to do so.
 
 ### Filling Out Ticket Fields
 
-Depending on the queue you are working on and the form the ticket belongs to, you might need to fill out some ticket fields manually. Those fields help us capture important data that will help us improve the customer experience. As a high percentage of our tickets are solved/closed automatically through our workflows, it is important to make sure that before you submit your response to a ticket, you check that all required (*) fields and relevant non-required fields have been filled out.
+Depending on the view you are working on and the form the ticket belongs to, you might need to fill out some ticket fields manually. Those fields help us capture important data that will help us improve the user experience. As a high percentage of our tickets are solved/closed automatically through our workflows, it is important to make sure that before you submit your response to a ticket, you check that all required (*) fields and relevant non-required fields have been filled out.
 
 ### Copying contents of Slack threads to internal notes
 
@@ -194,23 +250,9 @@ If you see an SLA notification in Slack, start a thread and consider this a _sma
 
 If a customer's reply is the last one in the ticket, do not set it to any status silently (except for Solved), because the breach clock will continue to run and the ticket may breach silently. Instead, send a confirmation, greeting, or other message, while also changing the status.
 
-### GitLab.com Views
-
-Support Engineers who are currently focused on helping GitLab.com customers should work on tickets in the [GitLab.com views](/handbook/support/workflows/zendesk-overview.html#views).
-
-### Self-Managed Views
-
-Support Engineers who are currently focused on helping self-managed customers should work on tickets in the [Self-Managed views](/handbook/support/workflows/zendesk-overview.html#views).
-
-### Non-Support Views
-
-1. Security
-1. Accounts Receivables & Refunds
-
-
 ### Using On-Hold Status
 
-You should use the On-hold status when it is necessary to do some internal work, e.g. reproduce a complex bug, discuss something with developers or wait for a session scheduled with a customer. When setting the status to On-hold it will be automatically assigned to you by the trigger [`Automatically assign on-hold ticket to an agent who put it to the on-hold status`](https://gitlab.zendesk.com/agent/admin/triggers/360033242313).
+You should use the On-hold status when it is necessary to do some internal work, e.g. reproduce a complex bug, discuss something with developers or wait for a session scheduled with a user. When setting the status to On-hold it will be automatically assigned to you by the trigger [`Automatically assign on-hold ticket to an agent who put it to the on-hold status`](https://gitlab.zendesk.com/agent/admin/triggers/360033242313).
 
 If you think that it should be assigned to someone else (e.g. session is scheduled for another engineer), feel free to re-assign it. Tickets without assignee will be automatically reopened by the trigger
 [`Automatically reopen on-hold tickets without assignee`](https://gitlab.zendesk.com/agent/admin/triggers/360028981853). Tickets in on-hold status _with_ an assignee will be automatically reopened in 4 days by the automation [`Reopen on-hold tickets after 4 days`](https://gitlab.zendesk.com/agent/admin/automations/360028978393).
@@ -220,7 +262,7 @@ If a customer's reply is the last one in the ticket, do not set it to the On-hol
 
 ### Merging Tickets
 
-If you're merging two customer tickets that are related and it's not 100% obvious to the customer, be sure to send a message letting them know why you're merging them. If you don't, it often causes confusion and they open follow ups asking why it was closed without comment.
+If you're merging two of a user's tickets that are related and it's not 100% obvious to the user, be sure to send a message letting them know why you're merging them. If you don't, it often causes confusion and they open follow-ups asking why it was closed without comment.
 
 Additionally, when [Merging Tickets](https://support.zendesk.com/hc/en-us/articles/203690916-Merging-tickets), leave `Requester can see this comment` **unchecked** in the ticket that's being merged into (the second ticket from the top) in order to maintain the SLA. If the merge comment is made public, Zendesk considers it a response and removes the SLA.
 
@@ -228,7 +270,7 @@ Additionally, when [Merging Tickets](https://support.zendesk.com/hc/en-us/articl
 
 ### Removing Information From Tickets
 
-We ask customers to send us logs and other files that are crucial in helping us solve the problems they are experiencing. If a customer requests deletion of information shared in a support ticket, or if we suspect sensitive information was accidentally shared, ask a Support manager to delete the files using the [`Ticket Redaction`](https://www.zendesk.com/apps/support/ticket-redaction/) app. Only Zendesk administrators have access to this app.
+We ask users to send us logs and other files that are crucial in helping us solve the problems they are experiencing. If a user requests deletion of information shared in a support ticket, or if we suspect sensitive information was accidentally shared, ask a Support manager to delete the files using the [`Ticket Redaction`](https://www.zendesk.com/apps/support/ticket-redaction/) app. Only Zendesk administrators have access to this app.
 
 To delete text or attachments from a ticket:
 
@@ -238,7 +280,7 @@ To delete text or attachments from a ticket:
 
 ### Handling emails forwarded from others at GitLab
 
-Every now and then, a GitLab team-member will forward a support request from a customer, prospective customer, user, etc. These requests then appear as tickets from the team member, instead of from the original requestor. Always reply directly to the original requester, keeping the person who forwarded it in the cc. You will need to manually alter the "Requester" field of the ticket, by clicking on the "(change)" link next to the email address of the apparent requester in the ticket title.
+Every now and then, a GitLab team member will forward a support request from a customer, prospective customer, user, etc. These requests then appear as tickets from the team member, instead of from the original requestor. Always reply directly to the original requester, keeping the person who forwarded it in the cc. You will need to manually alter the "Requester" field of the ticket, by clicking on the "(change)" link next to the email address of the apparent requester in the ticket title.
 
 Please see [Requesting Support for Customers](https://about.gitlab.com/handbook/support/internal-support/#requesting-support-for-customers) for more details.
 
@@ -259,7 +301,7 @@ Please see [Requesting Support for Customers](https://about.gitlab.com/handbook/
 1. Your manager will give you feedback on:
      1. Technical quality
      1. Communication quality
-     1. Collaboration quality (where appropriate, did you work with other Support Team members, managers, other GitLab team members or directly with the customer on a call)
+     1. Collaboration quality (where appropriate, did you work with other Support Team members, managers, other GitLab team members or directly with the user on a call)
 
 ### Context
 
@@ -287,7 +329,7 @@ Help encourage an even distribution of 'volume' of ticket work amongst the team.
 
 ### How to do it
 
-1. Focus on solving customer problems via tickets as the core part of your work.
+1. Focus on solving user problems via tickets as the core part of your work.
 
 That's it! For most people that's all you need to do. Once you've completed onboarding and have been helping out with tickets for two months or more, it's useful to gauge your contribution compared to the rest of the team.
 
@@ -376,9 +418,9 @@ Here's an example week for folks working on self-managed tickets:
 </table>
 
 1. Support Engineers that have completed onboarding are expected to achieve the baseline as a minimum. Don't worry in a given week if you don't meet the numbers. The baseline is a guide to help balance team contributions - it is not a stick to penalize anyone.
-1. There are good reasons why you might not achieve the baseline on a given week (e.g. vacation, illness, working on other projects, carrying out interviews) and you should keep your manager informed when you're not able to focus on resolving customer problems by contributing to support tickets.
-1. If you don't meet the baseline you should discuss the reasons with your manager. If they're not satisfied that there are good reasons for not meeting the baseline, they will ask you to focus more on solving customer problems on Support tickets so that you meet the baseline in future weeks. This helps balance contributions across the global team.
+1. There are good reasons why you might not achieve the baseline on a given week (e.g. vacation, illness, working on other projects, carrying out interviews) and you should keep your manager informed when you're not able to focus on resolving user problems by contributing to support tickets.
+1. If you don't meet the baseline you should discuss the reasons with your manager. If they're not satisfied that there are good reasons for not meeting the baseline, they will ask you to focus more on solving user problems on Support tickets so that you meet the baseline in future weeks. This helps balance contributions across the global team.
 1. We believe in quality, not quantity - more is not automatically better.
 1. We recognize that the three metrics selected are not a complete indication of 'good work' on their own.
-1. We recognize that the metrics for 'public replies' and 'internal notes' can be 'gamed' by making small updates. We trust the team to do the right thing for the customer and GitLab. This is why the ticket baseline is the last part of 'how to succeed' in this area. It is more important to make quality updates and balance your focus between 'proactive' work on your assigned tickets and 'reactive' work to prevent SLA breaches.
+1. We recognize that the metrics for 'public replies' and 'internal notes' can be 'gamed' by making small updates. We trust the team to do the right thing for the user and GitLab. This is why the ticket baseline is the last part of 'how to succeed' in this area. It is more important to make quality updates and balance your focus between 'proactive' work on your assigned tickets and 'reactive' work to prevent SLA breaches.
 1. There is no automated process to report on people that don't meet the baseline. The baseline is there to help you gauge your contribution and as a conversation starter between you and your manager.
