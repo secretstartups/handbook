@@ -66,7 +66,7 @@ Employee referrals are made through issues based on details mentioned [here](htt
     
 **Scorecard updating**
 
-* Scorecards are text boxes where the vacancy creator can add in his/her notes. Some scorecards for different roles or stages may have additional text boxes for specific questions. If a text box is required, there will be a red asterisk by the question.
+* Scorecards are text boxes where the vacancy creator can add in their notes. Some scorecards for different roles or stages may have additional text boxes for specific questions. If a text box is required, there will be a red asterisk by the question.
 * Underneath the first text box "Key Take-Away".
 * Further, there are two additional links, Private Note and Note for Other Interviewers, which will open upon clicking.
 * Below the text boxes for notes, each role has a list of attributes that we are looking for. Each stage in the process has certain attributes highlighted that it's recommended for evaluation.
