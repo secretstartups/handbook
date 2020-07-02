@@ -24,7 +24,7 @@ Certification programs allow GitLab to validate skills, knowledge, and behavior 
 ### Current Certifications 
 
 * [GitLab 101](/handbook/people-group/learning-and-development/certifications/gitlab-101/)
-* [Remote Work Foundations](https://about.gitlab.com/company/culture/all-remote/remote-certification/#remote-work-foundation-certification-criteria)
+* [Remote Work Foundations](/company/culture/all-remote/remote-certification/#remote-work-foundation-certification-criteria)
 
 ### Upcoming
 
@@ -43,8 +43,8 @@ When you complete and pass a knowledge assessment, you may recieve a certificate
 
 * [GitLab Values](/handbook/values/#gitlab-values-certification)
 * [GitLab Communication](/handbook/communication/#communication-certification)
-* [Being an Ally](https://about.gitlab.com/company/culture/inclusion/being-an-ally/#being-an-ally-knowledge-assessment)
-* [Inclusion](https://about.gitlab.com/company/culture/inclusion/being-inclusive/#inclusion-knowledge-assessment)
+* [Being an Ally](/company/culture/inclusion/being-an-ally/#being-an-ally-knowledge-assessment)
+* [Inclusion](/company/culture/inclusion/being-inclusive/#inclusion-knowledge-assessment)
 * [GitLab Compensation](/handbook/total-rewards/compensation/#knowledge-checks)
 * [GitLab Benefits](/handbook/total-rewards/benefits/#knowledge-assessment)
 * [The importance of a handbook-first approach to documentation](/company/culture/all-remote/handbook-first-documentation/#gitlab-handbook-first-documentation-knowledge-assessment)
