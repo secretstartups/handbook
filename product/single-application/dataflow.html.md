@@ -68,7 +68,6 @@ graph TB
 
 DeveloperMain(Developer)
 
-  subgraph Develop
     AppD(App)
     SourceControlD(Source Control)
     CIToolD(CI Tool)
@@ -89,7 +88,6 @@ DeveloperMain(Developer)
     CDToolD -- 11. Deploy --> TestEnvD
     AppD --10. Pull --> CDToolD
     TestEnvD -- 12. Verify --> DeveloperD
-    end
 
 SecEngMain(Security Eng)
 
@@ -99,7 +97,6 @@ SecEngMain --> SecEngD
 DeveloperMain --1. Develop -->DeveloperD
 DeveloperMain --2. Test -->DeveloperT
 
-subgraph Test
   DeveloperT(Developer)
   TestToolT(Test Tool)
   SAST(SAST Tool)
@@ -125,11 +122,9 @@ subgraph Test
   SecretScan --> DependencyScan
   DependencyScan --> DAST
   TestToolT -- 8. Review results --> QualityTeamT
-  end
 
 DeveloperMain --3. Deploy --> DeveloperDep
 
-subgraph Deploy
   DeveloperDep(Developer)
   QualityTeamDep(Quality Team)
   ProdOpsD(Production Ops)
@@ -144,7 +139,6 @@ subgraph Deploy
   CDTool --5. Deploy --> ProdEnv
   ProdOpsD --6. Complete --> DeveloperDep
   DeveloperDep -- 7.  Close issue --> IssueTrackerDep
-end
 
 DeveloperMain -- 4. Maintain -->DeveloperM
 QualityTeamMain(QualityTeam)
@@ -154,7 +148,6 @@ ProdOpsMain(Production Ops)
 ProdOpsMain --> ProdOpsD
 ProdOpsMain --> ProdOpsMaintain
 
-subgraph Maintain
   DeveloperM(Developer)
   ProdEnvM(Prod Env)
   LogApp(Log App)
@@ -166,11 +159,6 @@ subgraph Maintain
   DeveloperM --4. Login & View --> MetricsApp
   ProdOpsMaintain -- 3. Login & View--> LogApp
   ProdOpsMaintain --4. Login & View --> MetricsApp
-end
-
-
-  classDef default fill:#FFFFFF,stroke:#0C7CBA;
-  %%class GitLab,Developer test
 
   classDef default fill:#FFFFFF,stroke:#0C7CBA;
   %%class GitLab,Developer test
