@@ -27,6 +27,7 @@ Do you have a team member preparing for parental leave and want to ensure you un
    * First, ask how they are doing.
    * Update the team member on what they have missed since they have been out and any context you have captured in the 1:1 doc.
    * If possible, advise the team member to archive all emails when they come back to start fresh. If there is something they need to follow up on, have their colleagues follow up in a new correspondence or add them to an active thread.
+   * Recommend that they read [GitLab's guide to parenting as a remote worker](/company/culture/all-remote/parenting/)
 
 ### General Guidelines For Managers on Resource Allocation 
 
@@ -90,16 +91,21 @@ A nice way to celebrate a team member's new addition to their family is by hosti
 * Start meeting off with opening ice breaker: An option is a Baby MadLibs game.
 * Game 1 - Measure the belly. If the soon-to-be parent is an expecting mom, you can play this game. It requires a roll of toilet paper. Participants guess how many sheets of toilet paper it will take to wrap around the expecting mom's belly. The closest guess gets a prize.
 * Open presents - Have the soon-to-be parent save the presents shipped to them to be opened during the celebration.
-* Game 2 - Songs with the word "Baby". Have participants write as many songs as they can think of that have the word "baby" in them. Whoever thinks of the most songs within three minutes, wins a prize.  
+* Game 2 - Songs with the word "Baby." Have participants write as many songs as they can think of that have the word "baby" in them. Whoever thinks of the most songs within three minutes, wins a prize.  
 * Close the event with an open forum for people to ask fun questions and send positive affirmations.
 
 ## Team Member Tool Kit
 
 * Review our [parental leave benefits/policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave)
-* Slack channel to connect with other parents `#intheparenthood`.
+* Slack channel to connect with other parents — `#intheparenthood` ([Join Slack channel](https://gitlab.slack.com/app_redirect?channel=intheparenthood) - *for GitLab team members only*)
 * Read the handbook section on [returning from parental leave](/handbook/paid-time-off/#returning-from-work-after-parental-leave) with tips for the transition back to work
+* Read [GitLab's guide to parenting as a remote worker](/company/culture/all-remote/parenting/)
 * Consider reaching out to a [Parental Leave Reentry Buddy](#parental-leave-reentry-buddies)
 
 ## Parental Leave Policy Feedback
 
 If you have any feedback about your parental leave experience for the People group to review you can always email `total-rewards@gitlab.com` or open an issue using our [Parental Feedback Issue Template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=).
+
+----
+
+Return to the main [GitLab Benefits page](/handbook/total-rewards/benefits/).
