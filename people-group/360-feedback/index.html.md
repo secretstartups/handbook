@@ -94,9 +94,9 @@ If you would like to learn more, we held a [Delivering Feedback Live Learning co
 **General Tips:**
 * It is ok to skip a question by typing N/A if you don't have meaningful feedback in that area. Don't create a "story" where there is none.
 * Try to explain the why? Thinking through the "why" of the feedback will help you provide better and more meaningful feedback.
-* Try to avoid comparing different team members, rather compare the person against himself/ herself. For example: How was Janes performance in January against her performance in May as oppossed to how is Janes performance Vs Johns performance. Team members have very different backgrounds, personalities, strengths and other elements that dictate their performance. The most important thing is that they are making progress and this should be encouraged.
+* Try to avoid comparing different team members, rather compare the person against themselves. For example: How was person X's performance in January compared to their performance in May, as oppossed to person X's performance compared to person Z's performance. Team members have very different backgrounds, personalities, strengths and other elements that dictate their performance. The most important thing is that they are making progress and this should be encouraged.
 * Try to complete feedback for 1 or 2 people a day, versus waiting until the last minute. Spending 10-20 minutes a day on this can make thinking through and writing the feedback less overwhelming.
-* If you have submitted your reviewers already in Culture Amp and need to make a change, please email peopleops@gitlab.com with the changes and we will update the tool.
+* If you have submitted your requests for feedback in Culture Amp and need to make a change (add or remove a reviewer(s)), please email peopleops@gitlab.com with the requested changes and we will update your profile if still within the deadline where changes can occur.
 
 **Bias**
 
