@@ -77,9 +77,9 @@ Considering joining the program? Hear from past shadows about their experience:
 </figure>
 <!-- blank line -->
 
-5. AMA with the CEO Shadow Alumni on 2019-08-23
+5. [AMA with the CEO Shadow Alumni on 2019-08-23](https://www.youtube.com/watch?v=TxivABJ16jE)
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/TxivABJ16jE" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/watch?v=TxivABJ16jE" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
