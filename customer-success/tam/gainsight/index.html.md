@@ -142,6 +142,8 @@ New feature requests can be submitted by creating an issue and selecting the [Ga
 
 The status of Gainsight issues can be viewed on the [Gainsight issue board](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/boards/1731118?&label_name[]=gainsight).
 
+To request new Email Templates be added to Gainsight, or Programs in [Journey Orchestrator](https://www.gainsight.com/journey-orchestrator/), use the Sales Ops board above and put the content and format of your email in Markdown (if possible). Then `@mention` a Gainsight administrator.
+
 ## Support Tickets
 
 To submit a support ticket about Gainsight, you have two options.
