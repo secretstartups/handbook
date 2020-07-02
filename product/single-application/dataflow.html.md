@@ -14,40 +14,48 @@ The source data can be found in this [spreadsheet](https://docs.google.com/sprea
 
 # GitLab
 
-## GitLab Develop and Test Code
-
 ```mermaid
-stateDiagram
+graph TB
+  subgraph Develop and Test
+    Developer1(Developer)
+    App1[App]
+    TestEnv1([Test<br>Environment])
+    App1 -- 5. Deploy --> TestEnv1
+    TestEnv1 -- 8.Verify application --> Developer1
+  end
 
-  Developer --> GitLab:1. Login
-  Developer --> GitLab:2. View Issue
-  Developer --> GitLab:3. Change Code
-  Developer --> GitLab:4. Submit MR
-  GitLab --> App:5. Build App
-  GitLab --> TestEnv:6. Deploy
-  App --> TestEnv
-  GitLab --> TestEnv:7. Run quality tests
-  GitLab --> TestEnv:8. Run security tests
-  TestEnv --> Developer:9. Verify application
+  subgraph Deploy Code
+    Developer2(Developer)
+    ProdEnv1([Production<br>Environment])
+    App2[App]
+    App2 --> ProdEnv1
+  end
 
-```
+  subgraph Maintain Code
+    Developer3(Developer)
+    ProdEnv2([Production<br>Environment])
+  end
 
-## Gitlab Deploy Code
+  GitLab[GitLab]
 
-```mermaid
-stateDiagram
-  Developer --> GitLab:1. Deploy
- GitLab --> ProductionEnvironment:2. Deploy
- Developer --> GitLab:3. Mark issue as fixed
-```
+  Developer1 -- 1. Login --> GitLab
+  Developer1 -- 2. View Issue --> GitLab
+  Developer1 -- 3. Change Code<br>+ Submit MR --> GitLab
+  GitLab -- 4. Build App --> App1
+  %%GitLab -- 5. Deploy --> TestEnv1
+  GitLab -- 6. Run quality tests --> TestEnv1
+  GitLab -- 7. Run security tests --> TestEnv1
 
-## GitLab Maintain Code
+  Developer2 -- 1. Deploy --> GitLab
+  Developer2 -- 2. Mark issue<br>as fixed --> GitLab
+  TestEnv1 -- Promote --> App2
 
-```mermaid
-stateDiagram
- ProductionEnviroment --> GitLab:1. Application logs
- ProductionEnviroment --> GitLab:2. Application metrics
- GitLab --> Developer:3. Review logs & Metrics
+  ProdEnv2 -- 1. Application Logs --> GitLab
+  ProdEnv2 -- 2. Application Metrics --> GitLab
+  Developer3 -- 3. Review Logs --> GitLab
+
+  classDef default fill:#FFFFFF,stroke:#0C7CBA;
+  %%class GitLab,Developer test
 ```
 
 
@@ -69,8 +77,8 @@ stateDiagram
   Developer --> CDTool:8. Login
   Developer --> CDTool:9. Deploy application
   Application --> CDTool:10. Load
-  CDTool --> TestEnvironment:11. Deploy
-  TestEnvironment --> Developer:12. Verify application
+  CDTool --> TestEnivronment:11. Deploy
+  TestEnivronment --> Developer:12. Verify application
 ```
 
 ## Multiple Devops Tools Test Code
@@ -120,17 +128,17 @@ stateDiagram
   CDTool --> ProductionEnvironment:8. Deploy Application
   ProductionOps --> Developer:9. Deployment Complete
   Application --> CDTool
-  Developer --> IssueTracker:10. Close issue
+  Developer --> IssueTracker:10.Close issue
 ```
 
 ## Multiple DevOps Tools Maintain Application
 
 ```mermaid
 stateDiagram
- ProductionEnviroment --> LogApplication:1. Application logs
+ ProductionEnviroment --> LogApplication:1.Application logs
  Developer --> LogApplication:3. Login 
  LogApplication --> Developer:4. View Logs
- ProductionEnviroment --> MetricsApplication:2. Application metrics
+ ProductionEnviroment --> MetricsApplication:2.Application metrics
  Developer --> MetricsApplication:5. Login 
  MetricsApplication --> Developer:6. View Metrics
 ```
