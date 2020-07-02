@@ -269,7 +269,7 @@ In an all-remote organization, coaching is a critical skill for managers to deve
 - Facilitates job performance growth of team members by providing regular coaching sessions
 - Understands team members long-term career goals and acts as a mentor and guide to achieving them. 
 - Conducts development and career planning dialogues with team members continuously
-- Reflects on his/her leadership style and impact on the team and team situation
+- Reflects on their leadership style and impact on the team and team situation
 - Seeks new coaching approaches and techniques and exemplifies what it means to continuously develop their skills
 - Delivers effective strategies for dealing with cases of [underperformance](https://about.gitlab.com/handbook/underperformance/) and instills that in other leaders across the organization
 
