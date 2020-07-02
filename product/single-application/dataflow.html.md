@@ -61,87 +61,97 @@ graph TB
 
 # Multiple DevOps Tools
 
-## Multiple DevOps Tools Develop Code
-
 ```mermaid
 
-stateDiagram
-  Developer --> IssueTracker:1. Login
-  Developer --> IssueTracker:2. View Issue
-  Developer --> SourceControl:3. Login
-  Developer --> SourceControl:4. Change code
-  Developer --> CITool:5. Login
-  Developer --> CITool:6. Submit merge request
-  SourceControl --> CITool
-  CITool --> Application:7. Build 
-  Developer --> CDTool:8. Login
-  Developer --> CDTool:9. Deploy application
-  Application --> CDTool:10. Load
-  CDTool --> TestEnivronment:11. Deploy
-  TestEnivronment --> Developer:12. Verify application
+graph TB
+
+DeveloperMain(Developer)
+
+  subgraph Develop
+    AppD(App)
+    SourceControlD(Source Control)
+    CIToolD(CI Tool)
+    CDToolD(CD Tool)
+    TestEnvD(Test Env)
+    IssueTrackerD(Issue Tracker)
+    DeveloperD(Developer)
+    DeveloperD -- 1. Login --> IssueTrackerD
+    DeveloperD -- 2. View Issue --> IssueTrackerD
+    DeveloperD -- 3. Login --> SourceControlD
+    DeveloperD -- 4. View Issue --> SourceControlD
+    DeveloperD -- 5. Login --> CIToolD
+    DeveloperD -- 6. Submit MR --> CIToolD
+    SourceControlD --> CIToolD
+    CIToolD -- 7. Build --> AppD
+    DeveloperD -- 8. Login --> CDToolD
+    DeveloperD -- 9. Deploy --> CDToolD
+    CDToolD -- 11. Deploy --> TestEnvD
+    AppD --10. Pull --> CDToolD
+    TestEnvD -- 12. Verify --> DeveloperD
+    end
+
+
+DeveloperMain --1. Develop -->DeveloperD
+DeveloperMain --2. Test -->DeveloperT
+
+subgraph Test
+  DeveloperT(Developer)
+  TestToolT(Test Tool)
+  SAST(SAST Tool)
+  SecretScan(Secret Scan)
+  DependencyScan(Dependency Scan)
+  SecEngT(Security Eng)
+  TestResults(Test Results)
+  DeveloperT --1. Login & Run Tests --> TestToolT
+  TestToolT --> TestResults
+  SAST --> TestResults
+  SecretScan --> TestResults
+  DAST --> TestResults
+  DependencyScan --> TestResults
+  DeveloperT -- 2. Login & Run Tests --> SAST
+  DeveloperT -- 3. Login & Run Tests --> SecretScan
+  DeveloperT -- 4. Login & Run Tests --> DependencyScan
+  DeveloperT -- 5. RequestDAST Scan--> SecEngT 
+  SecEngT -- 6.  Login & Run Tests --> DAST
+  TestResults -- 7. Review Results --> DeveloperT 
+  TestToolT --> SAST
+  SAST --> SecretScan
+  SecretScan --> DependencyScan
+  DependencyScan --> DAST
+  end
+
+DeveloperMain --3. Deploy --> DeveloperDep
+
+subgraph Deploy
+  DeveloperDep(Developer)
+  QualityTeam(Quality Team)
+  ProdOpsD(Production Ops)
+  SecEngD(Security Eng)
+  CDTool(CD Tool)
+  ProdEnv(Prod Env)
+  IssueTrackerDep(Issue Tracker)
+  DeveloperDep -- 1. Request Approval --> QualityTeam
+  QualityTeam --2. Approval --> SecEngD
+  SecEngD -- 3. Approval --> ProdOpsD
+  ProdOpsD -- 4. Login and Deploy --> CDTool
+  CDTool --5. Deploy --> ProdEnv
+  ProdOpsD --6. Complete --> DeveloperDep
+  DeveloperDep -- 7.  Close issue --> IssueTrackerDep
+end
+
+DeveloperMain -- 4. Maintain -->DeveloperM
+
+subgraph Maintain
+  DeveloperM(Developer)
+  ProdEnvM(Prod Env)
+  LogApp(Log App)
+  MetricsApp(Metrics App)
+  ProdEnvM --1 . Logs --> LogApp
+  LogApp --2. Metrics --> MetricsApp
+  DeveloperM -- 3. Login & View--> LogApp
+  DeveloperM --4. Login & View --> MetricsApp
+end
+
+  classDef default fill:#FFFFFF,stroke:#0C7CBA;
+  %%class GitLab,Developer test
 ```
-
-## Multiple Devops Tools Test Code
-
-```mermaid
-stateDiagram
-  Developer --> TestTool:1. Login
-  Developer --> TestTool:2. Run Tests
-  TestTool --> Application: 3. Run Tests
-  Application --> TestTool: 4. Test Results
-  TestTool --> Developer: 5. Test Results
-  Developer --> SAST:6. Login
-  Developer --> SAST:7. Run Tests
-  SAST --> Code: 8. Run Tests
-  Code --> SAST: 9. Test Results
-  SAST --> Developer: 10. Test Results
-  Developer --> SecretScan:11. Login
-  Developer --> SecretScan:12. Run Tests
-  SecretScan --> Code: 13. Run Tests
-  Code --> SecretScan: 14. Test Results
-  SecretScan --> Developer: 15. Test Results
-  Developer --> DependencyScan:11. Login
-  Developer --> DependencyScan:12. Run Tests
-  DependencyScan --> Code: 13. Run Tests
-  Code --> DependencyScan: 14. Test Results
-  DependencyScan --> Developer: 15. Test Results
-  Developer --> SecurityTeam: 16. Ask for DAST
-  SecurityTeam --> DAST: 17. Login
-  SecurityTeam --> DAST: 18. Run Scan
-  DAST --> Application: 19. Run Scan
-  Application --> DAST: 20. Scan Results
-  DAST --> SecurityTeam: 21. Results
-  SecurityTeam --> Developer: 22. Results
-```
-
-## Multiple DevOps Tools Deploy Code
-
-```mermaid
-stateDiagram
-  Developer --> QualityTeam:1. Request approval
-  QualityTeam --> Developer:3. Send approval
-  Developer --> SecurityTeam:2. Request approval
-  SecurityTeam --> Developer:4. Send approval
-  Developer --> ProductionOps:5. Request deployment
-  ProductionOps --> CDTool:6. Login
-  ProductionOps --> CDTool:7. Deploy
-  CDTool --> ProductionEnvironment:8. Deploy Application
-  ProductionOps --> Developer:9. Deployment Complete
-  Application --> CDTool
-  Developer --> IssueTracker:10.Close issue
-```
-
-## Multiple DevOps Tools Maintain Application
-
-```mermaid
-stateDiagram
- ProductionEnviroment --> LogApplication:1.Application logs
- Developer --> LogApplication:3. Login 
- LogApplication --> Developer:4. View Logs
- ProductionEnviroment --> MetricsApplication:2.Application metrics
- Developer --> MetricsApplication:5. Login 
- MetricsApplication --> Developer:6. View Metrics
-```
-
-
-
