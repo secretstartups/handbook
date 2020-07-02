@@ -15,8 +15,8 @@ Taxation in Belgium depends on whether the Stock Option offer has been accepted 
 Stock Option Plan
 
 ## When taxed?
-- Taxed at Exercise: Employee accepted stock options more than 60 days from the offer date (i.e., the date the employee was first notified, in writing, of the material terms of his/her award).
-- Taxed at Grant: Employee accepted stock options within 60 days of the offer date (i.e., the date the employee was first notified, in writing, of the material terms of his/her award).
+- Taxed at Exercise: Employee accepted stock options more than 60 days from the offer date (i.e., the date the employee was first notified, in writing, of the material terms of their award).
+- Taxed at Grant: Employee accepted stock options within 60 days of the offer date (i.e., the date the employee was first notified, in writing, of the material terms of their award).
 
 ## What is taxed?
 - Taxed at Exercise: The "spread", i.e. Difference between the Offer Price and Exercise Price 
