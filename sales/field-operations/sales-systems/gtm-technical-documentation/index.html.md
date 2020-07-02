@@ -17,7 +17,7 @@ The Documentation below is organized by Feature, each section will have the rele
 
 ## Territory Success Planning
 
-**Business Process this supports:** [Territory Success Planning](/handbook/sales/field-operations/sales-operations/go-to-market/#territory-success-planning-tsp)
+**Business Process this supports:** [Territory Success Planning](/handbook/sales/field-operations/sales-operations/#territory-success-planning-tsp)
 
 **Overview:** The goal of TSP is to keep a set of staging fields constantly update to date from a variety of data sources, then at given intervals copy these vales to the "Actual" set of fields for general use. This allows for us to contantly receive changes but only apply those changes in a control fashion at given intervals. This also allows us to easily track exceptions. Note: This project was orginally referred to as ATAM, which is why the API names of the fields reference that instead of TSP.
 
