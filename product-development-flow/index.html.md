@@ -347,8 +347,8 @@ For updates that affect the overall phases by modifying core definitions, workfl
 you can create an issue or MR and assign it to the Product Operations DRI for collaboration and iteration. 
 The Product Operations DRI will make sure alignment happens with the following stakeholders:
 
-1. EVP of Product
-1. VP of Product Management
-1. Director of User Experience
-1. Senior Director of Development
-1. Director of Quality
+1. [EVP of Product](/company/team/#sfwgitlab)
+1. [VP of Product Management](/company/team/#adawar)
+1. [VP of UX](/company/team/#clenneville)
+1. [VP of Development](/company/team/#clefelhocz1)
+1. [Director of Quality Engineering](/company/team/#meks)
