@@ -22,7 +22,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE    | TOPIC                                                                      | SPEAKER/S                                              |
 |---------|----------------------------------------------------------------------------|--------------------------------------------------------|
-| July 2 | Closing Best Practices                                                     | Timo Schuit                          |
 | July 9  | Co-Selling with Partners                                                  | Ed Cepulis                           |
 | July 14  | Forrester TEI Report                                                     | Forrester Representitive             |
 | July 16  | The GitLab Journey & the GitOps Use Case                                 | William Chia                         |
@@ -33,6 +32,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2020-07-02 | **[Closing Best Practices](https://youtu.be/y3iLSsAD24s)**          |   Private              |
 | 2020-06-25 | **[Q2 FY21 Competitive Update](https://youtu.be/S_z_hgf3ASc)**                                       | Private |
 | 2020-06-18 | **[NEW Forrester TEI Report](https://youtu.be/AwYPuWruCjE)**                         | Private  |
 | 2020-06-11  | **[Best Practices for Selling Premium/Silver and Ultimate/Gold](https://youtu.be/jvMPcLdQNI0)**    | Private
