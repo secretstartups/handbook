@@ -124,7 +124,7 @@ This section is updated after every Board Meeting by the CoS for the next Board 
 1. Slides should convey a high-level overview as opposed to operational updates and should not include embedded links.
 1. Put information on public webpages such as [/strategy](/company/strategy/) as much as possible.
 1. Sensitive information goes into the Administrative deck managed by the CFO.
-1. Font size should be minimum 16pt, footnotes excluded. We want to make sure everything gets read
+1. Font size should be minimum 16pt, footnotes excluded. We want to make sure everything can be read.
 
 #### Company Scorecard
 The CEO's presentation starts with 3 scorecard slides.  The goal of the scorecard is to quickly provide the Board of Directors an understanding of GitLab's top priorities and assess the prior quarter's performance.
