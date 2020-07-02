@@ -95,6 +95,12 @@ Considering joining the program? Hear from past shadows about their experience:
   <iframe src="https://www.youtube.com/embed/4yhtYcOZn3w" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
+8. [CEO Shadows AMA on 2020-07-02](https://www.youtube.com/watch?v=Yey83s3zGMM)
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=Yey83s3zGMM" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 <!-- blank line -->
 
 ### What is the feedback from the CEO?
