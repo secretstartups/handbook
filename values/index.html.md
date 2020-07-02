@@ -74,7 +74,7 @@ Give as much positive feedback as you can, and do it in a public way.
 {:.no_toc}
 There are aspects of GitLab culture, such as intentional transparency, that are unintuitive to outsiders and new team members.
 Be willing to invest in people and engage in open dialogue.
-For example, consider making private issues public wherever possible so that we can all learn from the experience.
+For example, consider making private issues public wherever possible so that we can all learn from the experience. Don't be afraid of judgement or scrutiny when sharing publicly, we all understand [it's impossible to know everything](/handbook/values/#its-impossible-to-know-everything).
 
 Everyone can **remind** anyone in the company about our values.
 If there is a disagreement about the interpretations, the discussion can be escalated to more people within the company without repercussions.
