@@ -124,10 +124,11 @@ If a Group Conversation is cancelled, the People Ops and People Experience teams
 1. Reduce distractions for yourself and the attendees by:
    - having the presentation open in its own new browser window, and only sharing that window in Zoom.
    - switching off notifications (from Slack, email, etc.). On Mac, in the notification center in the upper right hand corner, click on Notifications, select Do Not Disturb (sometimes you need to scroll up to see the option).
+1. The Moderator of the call may advise the Host that the conversation needs to be recorded via Zoom. As the Host, when hearing the automated "This meeting is being recorded", please note that you can start talking immediately and do not need to wait for the automated message to complete.
 
 ## During the Call
 
-### Livestreaming the Call
+### Streaming the Call
 
 All group conversations (Public and Private) will be streamed to YouTube Unfiltered. 
 
@@ -139,17 +140,23 @@ The `People Experience and People Specialist` teams are responsible for starting
 
 _Important: The DRI for the Group Conversation also has hosting rights. Zoom will automatically assign the first person (DRI or People Ops) who logs into the call as `host`. It is necessary to have `host` rights (**`co-hosting` rights are not sufficient**) in order to be able to livestream the call to YouTube. If the DRI logs in before you, please ask them to transfer you host rights by clicking `Manage Participants` at the bottom of the Zoom page, hover over the `GitLab Moderator` participant, click the `More` dropdown menu, and select `Make Host`._ 
 
-5. Ensure the clock on your computer is enabled to include seconds by clicking the Apple icon in the upper lefthand corner of your screen, selecting `System Preferences`, opening `Date and Time` preferences, and checking `Display the time with seconds`. 
+4. Ensure the clock on your computer is enabled to include seconds by clicking the Apple icon in the upper lefthand corner of your screen, selecting `System Preferences`, opening `Date and Time` preferences, and checking `Display the time with seconds`. 
 
-6. Ask the DRI "`May I start the countdown for this public/private stream?`" (_Note: Be sure to verify in the calendar invitation whether the meeting is publicly streamed or privately streamed_) If they do not respond, ask them by name. 
-7. As soon as the DRI confirms it is ok to proceed, state "`I will start the countdown for this public/private stream in 3, 2, 1...`" and select the Go Live button. 
+5. Ask the DRI "`May I start the countdown for this public/private stream?`" (_Note: Be sure to verify in the calendar invitation whether the meeting is publicly streamed or privately streamed_) If they do not respond, ask them by name. 
+6. As soon as the DRI confirms it is ok to proceed, state "`I will start the countdown for this public/private stream in 3, 2, 1...`" and select the Go Live button. 
 
-- If you experience the error "Please grant nesessary privilege for livestreaming" click on the "Not me" option that appears beside the GitLab Unfiltered account on the middle of the page. You will then be prompted to sign in again, please do so and click "Go Live". 
+- If you experience the error "Please grant necessary privilege for livestreaming" click on the "Not me" option that appears beside the GitLab Unfiltered account on the middle of the page. You will then be prompted to sign in again, please do so and click "Go Live". 
 
-8. Post a 5 and 2 minute warning within the zoom chat. This will help keep everyone aware of the time and to stay on track. 
-9. At time, it is encouraged to annouce that we are at time and to thank everyone for their time and collaboration. Allow the speakers to conclude the meeting. 
-10. At the end of the meeting, select stop streaming.
-11. End the Zoom meeting by clicking 'End Meeting' and then 'End Meeting for All'. 
+- In the event that you are unable to stream to YouTube due to errors, inform the Host that you will record the conversation via Zoom and upload the video to YouTube after the conversation has ended. Post the YouTube link to the #group-conversations Slack channel when done. 
+
+- The People Experience Team is currently trialing different 'Captioning' options for the Group Conversations and may need to record the session to Zoom for testing. The host will be informed of this prior to the start of the conversation. 
+
+- As the Host, when hearing the automated "This meeting is being recorded", please note that you can start talking immediately and do not need to wait for the automated message to complete. 
+
+7. Post a 5 and 2 minute warning within the zoom chat. This will help keep everyone aware of the time and to stay on track. 
+8. At time, it is encouraged to annouce that we are at time and to thank everyone for their time and collaboration. Allow the speakers to conclude the meeting. 
+9. End the Zoom meeting by clicking 'End Meeting' and then 'End Meeting for All'. 
+  - If ending the "Meeting for all" does not end the stream to YouTube, this is because an outdated version of Zoom is being used. The moderator will need to log into YouTube Studio and manually end the stream. Thereafter, ensure that your Zoom is updated.  
 
 
 <figure class="video_container">
