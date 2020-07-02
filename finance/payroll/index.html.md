@@ -223,7 +223,7 @@ Generate the following reports and saved them on Google Shared drive for Federal
     * SWIFT (as needed or available due to each country's banking requirements)
     * Account type
 1.  If you are changing your bank details for any reason please let nonuspayroll@gitlab.com know and you can update BambooHR accordingly so another test payment can be set up. Please dont change your banking details just before the deadlines per above as this will cause delays in payment.
-1.  If you recieve a promotion, salary increase and you need to back date it you can include the back pay amount on one invoice with a comment of the detail or submit two separate invoices which ever is prefered, and let Payroll know
+1.  If you receive a promotion, salary increase and you need to back date it, you can include the back pay amount on one invoice with a comment of the detail or submit two separate invoices which ever is prefered, and let Payroll know.
 
 
 
@@ -251,7 +251,7 @@ The internal deadline for changes is the 8th of each month, Payroll will send by
 
 #### Global Upside
 
-Payroll changes will be send by the 10th of the month.  Global Upside will send an estimated invoice by the 5th of the previous month. For any additional adjustment, They will invoice the adjustment on the following months invoice.
+Payroll changes will be send by the 10th of the month.  Global Upside will send an estimated invoice by the 5th of the previous month. For any additional adjustment, they will invoice the adjustment on the following months invoice.
 
 #### Payroll cut off date
 
@@ -260,7 +260,14 @@ All payroll changes (demographic information, job, bonus/commission payout reque
 - GitLab Inc and GitLab Federal [Payroll calendar](https://docs.google.com/spreadsheets/d/12NmHxC8UI5CKK-j7MXO91o3PtcR4Z-lC-elnPkPFhjY/edit#gid=0)
 - GitLab Canada Corp [Payroll calendar](https://docs.google.com/spreadsheets/d/1ECkI_Z8R82j1eipJEEybXjO-EDtzw4TuhJPOnHypDho/edit#gid=0)
 - Global Upside [Payroll Calendar](https://docs.google.com/spreadsheets/d/1At1qOHUwQCVueBZdZ8gEwAitUzQA_9yJkhhir0Z6U-U/edit#gid=0)
-- For all non-US entities, the payroll cut off date is 8th of each month.
+- GitLab LTD [Payroll Calendar](https://docs.google.com/spreadsheets/d/12Ch7jkpGLD3eQbzOx3zf7FBqsuMRrevj3hALajfj9aY/edit#gid=1241976897)
+- GitLab BV (Netherlands) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1c9bOUTLVsadWtM0gy6tqTHa6DDar0YGT1N4mT02xvOc/edit#gid=887208509)
+- GitLab BV (Belgium) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1eMPUirNk-AtBMTF4tE49G1xCHWES_r2VfDph5KiIHP0/edit#gid=1680317269)
+- GitLab GMBH [Payroll Calendar](https://docs.google.com/spreadsheets/d/19lNDx_aiAQDoSKBRRWF779jT2qB5lG84PrBOYQYd5sI/edit#gid=1165608204)
+- GitLab PTY LTD [Payroll Calendar](https://docs.google.com/spreadsheets/d/1CO7H27ofFcFL7ztVi8Eg8_hI3W8mUwAwUtePsPJkdGw/edit#gid=724771463)
+- For all PEOs and iiPay Contractors, the payroll cut off date is 8th of each month. 
+    - CXC (Poland, Ukraine, Russia, Romania) [Payroll Calendar](https://docs.google.com/spreadsheets/d/18cPImcwNM4muYxJj-NHQ6YwPrxG45AmDn7GZ1t-N1rI/edit#gid=114243454)
+    -  SafeGuard ([S. Korea,France, Hungary, Ireland](hhttps://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=775664482), [Japan](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=23411182), [Brazil](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=1366369546), [Italy](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=2113229619), [South Africa](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=818494923), [Spain](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=2086701953), [Switzerland](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=1979351390)) Payroll Calendar
 
 ## Performance Indicators
 
