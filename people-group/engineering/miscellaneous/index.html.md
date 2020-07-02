@@ -15,13 +15,15 @@ Since 2020-05-25 every day at 09AM UTC, we have a pipeline running that syncs th
 the day before to the team.yml file.
 
 We fetch all the new team members with a start date of the previous day and check if they opted-in on
-being synec to the team page. Opt-in happens by setting `Export Name/Location to Team Page?` to `Yes`
-on their BambooHR profile. This is a task on day one for the new team member. When they selected yes, we
-grab some data (name, job title, start date, department and country) and format it, so it can be added to
-the team page.
+being synced to the team page. Opt-in happens by setting `Export Name/Location to Team Page?` to `Yes`
+on their BambooHR profile. This is a task on day one for the new team member. 
 
-We then create a merge request so it can be merged. The merge is not automatically set. Considering this
-is a new sync we've added to the automation process we want to check the MRs before setting them to merge.
+If they selected yes, we grab some data (name, job title, start date, department and country) and format it, 
+so it can be added to the team page entry. If they did not opt-in, we still add an entry to the team page. 
+However that entry is anonymized. 
+
+We then create a merge request on `www-gitlab-com` project so it can be merged. The merge is not automatically set. 
+Considering this is a new sync we've added to the automation process we want to check the MRs before setting them to merge.
 This check happens by the People Operations Engineer and the Senior Manager, People Operations.
 
 ## Team members to Modern Health
