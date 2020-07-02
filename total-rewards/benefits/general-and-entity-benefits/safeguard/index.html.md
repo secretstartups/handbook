@@ -85,6 +85,9 @@ If eligible, team members can use [GitLab's Parental Leave policy](/handbook/tot
 
 Safeguard uses multiple third parties across the globe to assist in locations where they do not have a direct payroll.
 
+## South Africa
+Medical, pension and life insurance benefits are currently being reviewed in this [issue](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/135). 
+
 ## Switzerland
 
 As per social security obligations, for its part, the employer pays:
