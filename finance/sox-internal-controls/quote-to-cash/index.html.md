@@ -938,7 +938,7 @@ There are two models in which customers can use the product:<br>
     1. On premise model i.e self managed<br>
     2. On cloud model
 
-In case of a self managed model the customer downloads the products onto his/her server and manages the product. 
+In case of a self managed model the customer downloads the products onto their server and manages the product.
 
 In the case of the on cloud model the product is hosted on GitLab server and is available to customers through the internet.
 
@@ -950,7 +950,7 @@ Sales is made to customer through following channels:
 
 **a. Web Direct Sales:**
 
-Customer logs in to Customers Portal and directly buys the product as per his/her requirements.
+Customer logs in to Customers Portal and directly buys the product as per their requirements.
 
 * Step 1: Customer completes the purchase in Customers Portal and credit card details go through. An opportunity is automatically created in Salesforce.
 
@@ -1037,12 +1037,12 @@ Customers can cancel the subscription anytime within 45 days and avail full refu
 **2. On Cloud  Model**
 
 In the on cloud model there is no concept of Licence Keys, the successful provisioning of an account will automatically enable the customer to start using the account.<br>
-Once a purchase has been made the customer has to connect his/her customer account (Customer Portal) with GitLab.com by opening both the tabs simultaneously and selecting the connect option available in the customer portal. 
+Once a purchase has been made the customer has to connect their customer account (Customer Portal) with GitLab.com by opening both the tabs simultaneously and selecting the connect option available in the customer portal.
 
 
 **a. Web Direct Sales:**
 
-Customer logs in to Customers Portal and directly buys the product as per his/her requirements.
+Customer logs in to Customers Portal and directly buys the product as per their requirements.
 
 
 * Step 1: Customer logs on to the Customer Portal and  clicks on [“Buy new subscription”](https://docs.google.com/document/d/1rMWfTtj76ye3xuNGqgjBvItEQsUwJhDwLHot0bnbi1o/edit) to select the subscription needed. If the customer is an already existing customer then the system [prompts](https://docs.google.com/document/d/1jsnXvmMNiYTlkO_Xro2U4mEN5_wC5Qi1O4VPhtHpuxE/edit) if the customer wants to manage an existing account or add a new subscription.
@@ -1069,7 +1069,7 @@ Sales team is involved in the sales process, SalesForce is used to create custom
 
 * Step 5: Log on to a different browser tab and log in to GitLab.com. Come back to Customer portal and Click on [“Change linked account/Link account”](https://docs.google.com/document/d/1xtp_m_ZWxxwKYrPcPz-bkicDtTWHl-hulBKMNYFQOzc/edit) to connect both the accounts. There is an API Cache that has the login details, once the “Change linked account/Link account” button is selected the accounts get linked.
 
-* Step 6: Now the customer needs to [link the name space](https://docs.google.com/document/d/1zaC76xddppTwwT-MoMQmilp2FSZSRCQZF3fRwEZhjOY/edit). Because on GitLab.com a customer can have unlimited number of groups and the customer can link his/her subscription to any one of the groups or your personal namespace. This process basically indicates to the system as to where the subscription is applied to.
+* Step 6: Now the customer needs to [link the name space](https://docs.google.com/document/d/1zaC76xddppTwwT-MoMQmilp2FSZSRCQZF3fRwEZhjOY/edit). Because on GitLab.com a customer can have unlimited number of groups and the customer can link their subscription to any one of the groups or your personal namespace. This process basically indicates to the system as to where the subscription is applied to.
 
 * Step 7: Select “[Change linked namespace](https://docs.google.com/document/d/1XwAKdUpNbcFKYHl5X3JqjhXEYg4-xeYyH3pXzQJGkU8/edit)” and come into the namespace by clicking on the namespace.
 
@@ -1126,7 +1126,7 @@ GitLab reseller is involved in the sales process, Sales representative uses Sale
 
 * Step 9: Log on to a different browser tab and log in to GitLab.com. Come back to Customer portal and Click on “Change linked account/Link account” to connect both the accounts. There is an API Cache that has the login details, once the [“Change linked account/Link account”](https://docs.google.com/document/d/1irrKsrhnnVtU3Qcl5-bkqxKReqIIZShWB1DPhrNiKW0/edit) button is selected the accounts get linked.
 
-* Step 10: Now the customer needs to [link the name space](https://docs.google.com/document/d/1M3ZHmri2s0njoZl9jelITpG-WxT6X8Jlwp_dXZNnTo8/edit?usp=drive_web&ouid=111314924466435551734). Because on GitLab.com a customer can have unlimited number of groups and the customer can link his/her subscription to any one of the groups or your personal namespace. This process basically indicates to the system as to where the subscription is applied to.
+* Step 10: Now the customer needs to [link the name space](https://docs.google.com/document/d/1M3ZHmri2s0njoZl9jelITpG-WxT6X8Jlwp_dXZNnTo8/edit?usp=drive_web&ouid=111314924466435551734). Because on GitLab.com a customer can have unlimited number of groups and the customer can link their subscription to any one of the groups or your personal namespace. This process basically indicates to the system as to where the subscription is applied to.
 
 * Step 11: Select “[Change linked namespace](https://docs.google.com/document/d/1i-mpZY4EQer5QWoims6eEItRgZe9mp0Pek5edIHxWjM/edit)” and come into the namespace by clicking on the namespace.
 
