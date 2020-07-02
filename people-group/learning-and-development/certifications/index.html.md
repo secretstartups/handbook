@@ -43,8 +43,8 @@ When you complete and pass a knowledge assessment, you may recieve a certificate
 
 * [GitLab Values](/handbook/values/#gitlab-values-certification)
 * [GitLab Communication](/handbook/communication/#communication-certification)
-* [Being an Ally](/company/culture/inclusion/ally-training/#ally-certification)
-* [Inclusion](/company/culture/inclusion/inclusion-training/#inclusion-certification)
+* [Being an Ally](https://about.gitlab.com/company/culture/inclusion/being-an-ally/#being-an-ally-knowledge-assessment)
+* [Inclusion](https://about.gitlab.com/company/culture/inclusion/being-inclusive/#inclusion-knowledge-assessment)
 * [GitLab Compensation](/handbook/total-rewards/compensation/#knowledge-checks)
 * [GitLab Benefits](/handbook/total-rewards/benefits/#knowledge-assessment)
 * [The importance of a handbook-first approach to documentation](/company/culture/all-remote/handbook-first-documentation/#gitlab-handbook-first-documentation-knowledge-assessment)
