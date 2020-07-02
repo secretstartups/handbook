@@ -156,18 +156,21 @@ This section describes the approval chain after a manager submits a promotion or
     - Job family alignment
     - Values alignment
     - While not a requirement, some promotion documents also include: references from other team members and improvement areas
-1. Review the Compa Group submitted for knowledge, skills, and ability alignment. The [Compa Group Worksheet](/handbook/total-rewards/compensation/compensation-calculator/#determining) is optional, but still used in Engineering to use as a tool for the manager to determine the compa group.
-    - Bonuses
+    - Check the sharing settings, as this should be readable by everyone at GitLab with a link
+1. Review the Compa Group submitted for knowledge, skills, and ability alignment. The [Compa Group Worksheet](/handbook/total-rewards/compensation/compensation-calculator/#determining) is optional, but often in Engineering used as a tool for the manager to determine the compa group. Additionally check: 
+    - Bonuses received by the team member
     - Current Compa Group (I.E. Typically before moving to promotion the team member should be `thriving` in their current role)
 1. Ping the manager requesting the promotion via Slack to confirm that the department leader and E-Group leader are aware and supportive of the promotion.
 1. Align with the `Manager, Total Rewards` in the private #promo_compensation Slack channel to ensure Compensation notes are added in BambooHR.
 1. Cross-check Compensation adjustment in accordance with the [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/). 
-1. Share the promotion information in the private Division-specific promotion Slack channel with an overview of:
+1. We want for promotions and compensation changes in Engineering that they are approved by all leaders up to the EVPE. As BambooHR has a limit in the amount of approvers use the Division specific slack channel to have approval of all leaders. 
+1. If an approver is skipped in BambooHR: Share the promotion information in the private Division-specific promotion Slack channel with an overview of:
     - Team member name
     - Promotion request (current job title and new job title)
     - Compensation notes (current compensation, proposed compensation, increase %, additional stock options, compa group, compensation calculator)
-1. Await approval from both the department leader and E-Group leader informally in Slack.
+1. `@mention` the skipped department leader for approval in the Division-specific promotion Slack channel. Example: Promotion for Backend Engineer to Senior Backend Engineer. The BambooHR process includes the direct manager, department Director and EVPE. The missing department leader here is the VP of Development. In this case `@mention` the VP of Development for approval. 
 1. PBP approves the promotion request in BambooHR. 
+
 
 ### For Total Rewards: Processing Promotions & Compensation Changes
 
