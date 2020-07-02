@@ -229,7 +229,7 @@ Generate the following reports and saved them on Google Shared drive for Federal
 
 #### CXC Global
 
-Team members in Poland, Russia, Ukraine & Romania will get paid through CXC Global.  Team members will need to submit their monthly invoice (Salary, bonus, commission, expense, etc...) to CXC Global by the 20th of each month. Team members should ensure their expenses are approved on expensify by the 8th of each month so they can include on their invoice to CXC. Payroll will submit commission, bonus, and expenses to CXC by the 10th of each month (depending on when the weekend falls, then it will be the working day before).  For new hires starting after the 1st of each month, the pro-rated calculation is: `(monthly salary / # of business days for that month) * actual work days from the hire date`
+Team members in Poland, Russia, Ukraine & Romania will get paid through CXC Global.  Team members will need to submit their monthly invoice (Salary, bonus, commission, expense, etc...) to CXC Global by the 20th of each month This is [the template](https://docs.google.com/spreadsheets/d/1uQ-0KOgifQW0ZNiUS4z5nk1pQstwSpSXdYYM11KElCk/edit#gid=1931869221) you could use for any CXC invoice, but this is not mandatory, you can also use your own format.. Team members should ensure their expenses are approved on expensify by the 8th of each month so they can include on their invoice to CXC. Payroll will submit commission, bonus, and expenses to CXC by the 10th of each month (depending on when the weekend falls, then it will be the working day before).  For new hires starting after the 1st of each month, the pro-rated calculation is: `(monthly salary / # of business days for that month) * actual work days from the hire date`
 
 ### PEO
 
