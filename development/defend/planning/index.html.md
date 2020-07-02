@@ -83,9 +83,13 @@ based on the PMs **priorities** and EMs **capacity** estimations.
 
 Scope of the next release is finalized by EMs and PMs.
 
-* EM output: `Deliverable` or `Stretch` labels applied to issues for which we have capacity to achieve.
-* PM output: Remove all issues lacking above labels from the next release.
+* EM output: `Deliverable` labels applied to issues we are committing to deliver.
+* EM output: move issues that we are unlikely to deliver[^1] to the next iteration.
+* PM output: accept scope and priority.
 * EM output: assignment of issues to individuals to work in the next release.
+
+[^1]: we do not use `Stretch` labels; anything that isn't labelled as a `Deliverable` is
+a stretch goal by definition and should be kept in scope as such.
 
 ---
 
