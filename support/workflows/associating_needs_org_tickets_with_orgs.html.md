@@ -231,13 +231,14 @@ better to check with Sales if the status is valid or not:
   ![SFDC show feed](/images/handbook/support/sfdc_show_feed.png)
 
 * Send a message there asking to clarify the customer's status and mention
-  `@[Sales-Support]` username in SFDC, they should be able to help with such cases.
-  The `[` brackets `]` ensure that SFDC recognizes this as the user to notify.
+  `@Sales-Support` username in SFDC, they should be able to help with such cases.
+  Make sure that `@Sales-Support` is converted into clickable username, otherwise
+  Sales Support team will not get your message (see the GIF below):
 
   Example of the message:
 
   ```
-  John Doe (Support Engineer): @[Sales-Support], this organization has
+  John Doe (Support Engineer): @Sales-Support, this organization has
   Support Level set to Expired, and they opened a new ticket. Can you clarify if
   the support is really expired and if we should decline support for this customer, or
   this is some kind of error and Support Level should be updated? Customer also
