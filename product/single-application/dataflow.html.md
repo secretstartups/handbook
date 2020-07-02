@@ -63,6 +63,7 @@ graph TB
 
 ```mermaid
 
+
 graph TB
 
 DeveloperMain(Developer)
@@ -90,6 +91,10 @@ DeveloperMain(Developer)
     TestEnvD -- 12. Verify --> DeveloperD
     end
 
+SecEngMain(Security Eng)
+
+SecEngMain--> SecEngT
+SecEngMain --> SecEngD
 
 DeveloperMain --1. Develop -->DeveloperD
 DeveloperMain --2. Test -->DeveloperT
@@ -102,6 +107,7 @@ subgraph Test
   DependencyScan(Dependency Scan)
   SecEngT(Security Eng)
   TestResults(Test Results)
+  QualityTeamT(Quality Team)
   DeveloperT --1. Login & Run Tests --> TestToolT
   TestToolT --> TestResults
   SAST --> TestResults
@@ -118,20 +124,21 @@ subgraph Test
   SAST --> SecretScan
   SecretScan --> DependencyScan
   DependencyScan --> DAST
+  TestToolT -- 8. Review results --> QualityTeamT
   end
 
 DeveloperMain --3. Deploy --> DeveloperDep
 
 subgraph Deploy
   DeveloperDep(Developer)
-  QualityTeam(Quality Team)
+  QualityTeamDep(Quality Team)
   ProdOpsD(Production Ops)
   SecEngD(Security Eng)
   CDTool(CD Tool)
   ProdEnv(Prod Env)
   IssueTrackerDep(Issue Tracker)
-  DeveloperDep -- 1. Request Approval --> QualityTeam
-  QualityTeam --2. Approval --> SecEngD
+  DeveloperDep -- 1. Request Approval --> QualityTeamDep
+  QualityTeamDep --2. Approval --> SecEngD
   SecEngD -- 3. Approval --> ProdOpsD
   ProdOpsD -- 4. Login and Deploy --> CDTool
   CDTool --5. Deploy --> ProdEnv
@@ -140,17 +147,30 @@ subgraph Deploy
 end
 
 DeveloperMain -- 4. Maintain -->DeveloperM
+QualityTeamMain(QualityTeam)
+QualityTeamMain --> QualityTeamT
+QualityTeamMain --> QualityTeamDep
+ProdOpsMain(Production Ops)
+ProdOpsMain --> ProdOpsD
+ProdOpsMain --> ProdOpsMaintain
 
 subgraph Maintain
   DeveloperM(Developer)
   ProdEnvM(Prod Env)
   LogApp(Log App)
   MetricsApp(Metrics App)
+  ProdOpsMaintain(Production Ops)
   ProdEnvM --1 . Logs --> LogApp
   LogApp --2. Metrics --> MetricsApp
   DeveloperM -- 3. Login & View--> LogApp
   DeveloperM --4. Login & View --> MetricsApp
+  ProdOpsMaintain -- 3. Login & View--> LogApp
+  ProdOpsMaintain --4. Login & View --> MetricsApp
 end
+
+
+  classDef default fill:#FFFFFF,stroke:#0C7CBA;
+  %%class GitLab,Developer test
 
   classDef default fill:#FFFFFF,stroke:#0C7CBA;
   %%class GitLab,Developer test
