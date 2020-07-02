@@ -299,7 +299,8 @@ Deal registration and associated discounts are only available to partners that h
 
 
 *   Deal registration approval is based upon order of receipt of the registration, qualification of the opportunity, partner ability to deliver in-country/region support, partner relationship with customer.  Final deal registration approval decision will be made by GitLab Sales.
-*   Only one partner can earn a deal registration discount per opportunity.
+*   Only one partner can earn a deal registration discount per opportunity.  Partners, other than the partner granted the deal registration discount that request a quote, will receive the fulfillment
+discount rate. 
 *   New customer opportunities or new opportunities with existing customers can qualify for deal registration.  Add-on sales to renewals can qualify for deal registration.
 *   Approved deal registrations have standard 90-day expiration from the date of original approval (Deal Registration extensions beyond the initial 90 days approval are at the sole discretion of GitLab).
 *   GitLab collaborates with partners holding the approved deal registration and is available to support partners throughout the entire sales process.
