@@ -166,7 +166,8 @@ Sample Questions:
 * If Sid is **driving himself** to a meeting, he likes to plan phone calls to catch up with the team. Check with him who he'd like to talk with during his commute and schedule accordingly or post in #ceo channel in slack offering a call with Sid our team members.
 * Due to a busy schedule Sid has a preference of meeting setup: First try for a video call or a meeting at Mission Control. If the other party presses to meet at their location, confirm if that is OK before accepting.
 * Sales meetings are important. If the CEO can help the process, feel free to include him in the meeting by working with the EBA to CEO on this. Please include the sales rep and solutions architect in this meeting. The person requesting the meeting should provide a meeting brief document to the EBA at the time of their request to schedule. 
-* Office hours hosted by the CEO like Iteration Office Hours should be live streamed publicly by default and the live stream should be hosted by a member of the EBA team or CEO Shadow. 
+* Office hours hosted by the CEO like Iteration Office Hours should be live streamed publicly by default and the live stream should be hosted by a member of the EBA team or a CEO Shadow. 
+* If there is a video posted in advance of a [Group Conversation](https://about.gitlab.com/handbook/people-group/group-conversations/) in slack, please comment and @ mention Sid so he may watch the video at his leisure. 
 
 ### CEO Email Management
 
