@@ -324,6 +324,9 @@ The schedule with directly responsible individuals (DRI) is as follows:
 - People Experience Associates moderate Group Conversations and AMAs. If an AMA is created with short notice and there are no People Ops team members available, then People Ops will not be able to moderate or livestream.
 - To request an AMA be put on the GitLab team meetings calendar, the requestor should find a date and time on the GitLab Team Meetings calendar that works for the AMA host. 
 - The requestor will fill out the AMA Request Form shortcut in the `#peopleops` Slack Channel. 
+- As part of designated Bring Your Family and Friends to Work events, some AMAs will be open to family members (including kids) and friends. These AMAs will be a subset of AMAs that do not contain sensitive data (sensitive data includes: information we usually don't share publicly). These events will be publicized ahead of time through #whats-happening-at-gitlab. The calendar invite for these AMAs will specify that they are "open to family and friends."
+
+We suggest each person attend via their own device to avoid [hybrid meetings](https://about.gitlab.com/handbook/communication/#hybrid-calls-are-horrible). We encourage you to follow up with your guest after to debrief and share call impressions. For this it might be good to be in the same room but only if you are sure not to get echo's.
 
 
 - The AMA Request Form asks for the following information: 
