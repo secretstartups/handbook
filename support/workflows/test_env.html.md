@@ -29,12 +29,12 @@ a new topology.
 The resources that are created in these environments are:
 - **temporary**: if you need access to persistent resources as part of an integration or application, please don't create it in one of these testing environments.
 - **destructible**: be aware that anyone may destroy your provisioned resources at any time; by accident or on purpose.
-- **potentially expensive**: please clean up any unused resources when you are done. (**Exception**: you are welcome to keep a droplet on DO to maintain an Omnibus install, as specified in the Support Engineering Onboarding)
+- **potentially expensive**: please clean up any unused resources when you are done. (**Exception**: you are welcome to keep a VM in GCP to maintain an Omnibus install, as specified in the Support Engineering Onboarding)
 
-### Digital Ocean and Docker Testing Environment
+There's 2 stages to approach creating your Ephemeral Testing instances. The first stage is to provision the infrastructure (in either GCP, DO, AWS, Azure, Okta) followed by the second stage where our products are deployed to the servers. 
 
-For a Digital Ocean and Docker testing environment (droplet) [follow this guide](https://gitlab.com/gitlab-com/dev-resources/blob/master/dev-resources/README.md).
-Once you've gone through all the steps **excluding** [Usage](https://gitlab.com/gitlab-com/dev-resources/blob/master/dev-resources/README.md#usage) you can skip to the below section named [Creating GitLab test instance](/handbook/support/workflows/test_env.html#creating-gitlab-test-instance).
+NOTE: **Note:**
+Please be aware that we don't have access to the DO console and we are moving away from DO and focusing on using GCP as our cloud provider. Also we are transitioning from using the [dev-resources](https://gitlab.com/gitlab-com/dev-resources/blob/master/dev-resources/README.md) project in favor of [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md).
 
 ### GCP Testing Environment
 
@@ -42,6 +42,10 @@ Login to [GCP console](https://console.cloud.google.com/) using your GitLab Goog
 
 For a GCP Testing environment, you should have access to the `gitlab-support` project as a baseline entitlement.
 If you do not, please create an access request and tag your manager.
+
+You should also have access to the `support-resources` project and be able to use [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) as a means of spinning up complex resources in a convenient and prohramatic way. With this project you are able to directly Gitlab and Runner instances as well as regular Basic server instances (for which you can follow the steps in [Creating Gitlab Test Instance](/handbook/support/workflows/test_env.html#creating-gitlab-test-instance) to continue to install Gitlab).
+
+You can also use [dev-resources](https://gitlab.com/gitlab-com/dev-resources/blob/master/dev-resources/README.md) to spin up resources on GCP, but you will not have console access to those resources. (the project is now considered legacy and we will be moving away from it).
 
 #### GKE Cluster
 
@@ -64,6 +68,11 @@ Specifically for *Group* SAML/SCIM (GitLab.com) testing, shared account credenti
 ### Okta Testing Environment
 
 For SAML/SCIM testing, please open an access request for GitLab's Okta Preview instance with `admin` role and ability to add *Applications*.
+
+### Digital Ocean and Docker Testing Environment
+
+For a Digital Ocean droplets [follow this guide](https://gitlab.com/gitlab-com/dev-resources/blob/master/dev-resources/README.md).
+Once you've  created your resource you can follow the section named [Creating GitLab test instance](/handbook/support/workflows/test_env.html#creating-gitlab-test-instance) (though do keep in mind that we are moving away from this project).
 
 ## Persistent Local Environments
 
