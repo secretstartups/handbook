@@ -65,11 +65,12 @@ Ops Engineer always adds the reason why an issue is moved to blocked.
 All projects are public in this [group](https://gitlab.com/gitlab-com/people-group/peopleops-eng/).
 
 You can find more information on the following pages:
+- [Access Request Issues](/handbook/people-group/engineering/access-requests-issues)
+- [Email Automation](/handbook/people-group/engineering/email-automation)
 - [Employment Issues](/handbook/people-group/engineering/employment-issues)
 - [Greenhouse <> BambooHR Sync](/handbook/people-group/engineering/gh-bhr-sync)
-- [Access Request Issues](/handbook/people-group/engineering/access-requests-issues)
-- [Slack Integrations](/handbook/people-group/engineering/slack-integrations)
 - [Miscellaneous](/handbook/people-group/engineering/miscellaneous)
+- [Slack Integrations](/handbook/people-group/engineering/slack-integrations)
 
 ## Data
 
