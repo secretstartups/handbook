@@ -44,17 +44,17 @@ It is essential that the People Operations Specialist is informed of all changes
 | Employee                 | Employee     | Global   |
 | Contractor : IND         | Cont-IND     | Non-US   |
 | Contractor : C2C*        | Cont-C2C     | Non-US   |
-| Employee : PEO           | Emp-PEO      | Non-US   | 
+| Employee : PEO           | Emp-PEO      | Non-US   |
 | Contractor : PEO         | Cont-PEO     | Non-US   |
 | Consultant               | Cons-US      | US Only  |
-| Intern                   | Intern       | Global   |   
+| Intern                   | Intern       | Global   |
 
 * C2C means Company to Company
-* IND means Independent 
+* IND means Independent
 
 ## Team Member Types by Country
 
-To ensure the accurate entry of information in BambooHR, we created this table as guidance of what is applicaple in which location. When adding new team members to BambooHR, please ensure you use this terminology for accurate reporting. 
+To ensure the accurate entry of information in BambooHR, we created this table as guidance of what is applicaple in which location. When adding new team members to BambooHR, please ensure you use this terminology for accurate reporting.
 
 More information related to payroll processes can be found on the [Payroll handbook page](/handbook/finance/payroll/).
 
@@ -129,7 +129,7 @@ Upon joining GitLab some team members (location dependent, see the below table f
 As per the [onboarding process](/handbook/people-group/general-onboarding/onboarding-processes/#adding-a-new-team-member-to-bamboohr) a notification in BambooHR would have been created.
 
 The People Experience Team is responsible for managing the probationary period process internally (communication with the team member, their manager, confirmation of probationary period completion, and updating BambooHR), while the People Operations Specialist Team is responsible for managing relationships with legal counsel externally on a global scale to ensure compliance and iteration.
-If an exception request is made to end a probation period early, this should be escalated by the team member's manager to a skip-level and the People Business Partner via email. We will then evaluate the risk, performance and overall reason for the request. Further escalation to Legal might be necessary as well as decision making on how to proceed. There should be no expectation of approval.  
+If an exception request is made to end a probation period early, this should be escalated by the team member's manager to a skip-level and the People Business Partner via email. We will then evaluate the risk, performance and overall reason for the request. Further escalation to Legal might be necessary as well as decision making on how to proceed. There should be no expectation of approval.
 
 ### Important steps during the Probation Period:
 1. Hiring Manager's are responsible for reviewing performance half-way through the probation period. If any under-performance has been found, this should be communicated to the People Group immediately (either via a People Operations Business Partner or by emailing the People Experience Team).
@@ -168,6 +168,26 @@ Current Entities and Co-employers with Probationary Periods:
   </tbody>
 </table>
 
+Countries without Probation Periods:
+
+<% entities_without_prob = data.entity_mapper.select {|entity| entity.fetch('probation', '') === 'None'}.sort_by {|k, v| k['country']}%>
+<table>
+  <thead>
+    <tr>
+      <th>Country</th>
+      <th>Notice</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% entities_without_prob.each do |entity| %>
+      <tr>
+        <td><%= entity['country'] %></td>
+        <td><%= entity.fetch('notice_after_probation', 'N/A') %> </td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
 ## Approval for Outside Projects / Activities
 
 Before beginning work on outside projects, second jobs, additional work - paid or unpaid, that could potentially impair your ability to perform your obligations to GitLab or could be deemed a conflict of interest, you must obtain approval in writing from your Manager, and further approval from your Function leaders as needed, facilitated by the relevant People Partner for your division and department. This is also required to those at Offer stage who are yet to start their employment with GitLab.
@@ -186,7 +206,7 @@ For any approved outside activity in which the GitLab team member will use their
 
 ### Steps as a Current Candidate (actively engaged in the hiring process)
 
-1. Once the candidate receives the written contract, they will list all outside projects and activites in the PIAA section. 
+1. Once the candidate receives the written contract, they will list all outside projects and activites in the PIAA section.
 1. When the Candidate Experience Specialist receives the signed contract, they will review to see if information was input into the PIAA portion of the contract. If so, they will notify the People Experience team in the #people-exp_ces private slack channel with the link to the Greenhouse profile.
 1. The People Experience team will kick off the approval process and upload the approval into BambooHR
 
@@ -235,13 +255,13 @@ If any changes are needed to any one of the contract templates, please ping the 
 3. If you have editing rights in the doc, change the document view to "Suggesting" mode on the top right hand side. If you do not have editing rights, you are able to make a comment on the doc or alternatively ping the People Ops Group for assistance with having the suggestions added to the contract for approval.
 4. Any edits that are made will then be made as a suggestion to the contract
 5. Once you have made the required changes, please tag the Senior Manager, People Operations as well as our Labour Legal Representative at GitLab to view and approve the relevant changes
-6. Once the changes have been approved, it is important to notify the Candidate Experience Specialist Team to update the contracts available in Greenhouse. 
+6. Once the changes have been approved, it is important to notify the Candidate Experience Specialist Team to update the contracts available in Greenhouse.
 
-*Important* no changes or edits should be made to the contracts without the required approval 
+*Important* no changes or edits should be made to the contracts without the required approval
 
 The following contracts are for reference only and are viewable by anyone with the link.
 
-### United States 
+### United States
 - [GitLab Inc., employee offer letter without OTE](https://docs.google.com/document/d/1Uc6dG7lVbu-dTXXTdPBVPku2MMrwOl-DLaG5vAUGYKc/edit?usp=sharing)
 - [GitLab Inc., employee offer letter with OTE](https://docs.google.com/document/d/1nwP-PM5OYWfEKFpC2orh8J_KebzU0Jf-v-ry2KpJ84U/edit?usp=sharing)
 - [GitLab Inc., employee offer letter with director bonus](https://docs.google.com/document/d/1s63o5dKTgsCp31Yia9K1wvU9s79_bL3rTrGIgj4-O9c/edit?usp=sharing)
@@ -253,7 +273,7 @@ The following contracts are for reference only and are viewable by anyone with t
 - [GitLab Federal LLC, employee offer letter without clearance, with OTE](https://docs.google.com/document/d/1KGeYtRqidwlEHlSlptZ_wiQfB-Dod2r9w-mpBINI7As/edit?usp=sharing)
 - [GitLab Federal LLC, employee offer letter with clearance, with OTE](https://docs.google.com/document/d/1A7sJsafGAWb3pID3zCGb6h0rc09d_YY4ljfyaOx2VmY/edit?usp=sharing)
 
-### Belgium 
+### Belgium
 - [GitLab BV Belgium, Dutch & English employee contract without OTE](https://docs.google.com/document/d/1CvWnVa4ZWWW6VPMvVBPnH920h7jjHiTd8LtvQroToug/edit?usp=sharing)
 - [GitLab BV Belgium, Dutch & English employee contract with OTE](https://docs.google.com/document/d/1GTiGkTPbUrV9GPBZRUydcY20zKbdPwwOKSj8c1YAoAQ/edit?usp=sharing)
 
@@ -280,7 +300,7 @@ New Zealand new hires should use this New Zealand contract, which is governed by
 - [GitLab UK Ltd, without OTE](https://docs.google.com/document/d/1DkC6V1ldVtRQhKLUcTknirydSaxh5ZCSvlGsP1OTHdk/edit?usp=sharing)
 - [GitLab UK Ltd, with OTE](https://docs.google.com/document/d/1LE4FsdcDzH9MbwKtx1OIc4TUNOV9i1XGH3ln2SaJXXo/edit?usp=sharing)
 
-### Canada 
+### Canada
 - [GitLab Canada Corp, All Provinces except Quebec, employment agreement without OTE](https://docs.google.com/document/d/1A6sHEU_G5IhyXPvJ9H312Dl9N2gq_cIvBZg1ngHa3G0/edit?usp=sharing)
 - [GitLab Canada Corp, All Provinces except Quebec, employment agreement with OTE](https://docs.google.com/document/d/12V0dC8eKcIdHi2lKKf3FFIgdmb_NQy2S0N8N838UbBE/edit?usp=sharing)
 - [GitLab Canada Corp, Quebec only, employment agreement without OTE](https://docs.google.com/document/d/1mcGP28KalDu51FGBpEAnFFJOMoNEGhd6TDDyQAqATpE/edit?usp=sharing)
@@ -314,7 +334,7 @@ However, at this time we are unable to hire employees and contractors in the spe
 
 As GitLab continues to scale, we will be converting all team members to an employment scalable as per our [OKR](https://about.gitlab.com/company/okrs/fy20-q3/). This is the different forms of employment:
 
-* Contractor through a PEO (Professional Employer Organization with a local presense) 
+* Contractor through a PEO (Professional Employer Organization with a local presense)
 * Employees through a PEO (Professional Employer Organization)
 * GitLab entity
 
@@ -324,7 +344,7 @@ This also aligns with GitLab's [strategy](/company/strategy/#sequence) and growt
 
 Team members with Independent Contractor agreements are ineligible for employee benefits. The compensation team members receive for services provided as independent contractors, reflects the difference in the cost of employee benefits provided to employees, which is estimated at 17%. GitLab reserves the right to review and revise its agreements, and to convert team members from independent contractor to employee where appropriate. If a team member is converted to an employee of either a PEO or a GitLab Entity, the team member will be eligible for employee benefits, and the salary will be adjusted downward to reflect the cost of these benefits now being added to your overall compensation.  GitLab will take all steps that it is able to provide affected team members sufficient notice of a change such that they can plan accordingly.
 
-We were interviewed live by members of the Recruiting and People Business Partner teams, and we encourage all team members to watch this video with frequently asked questions about Country Conversions: 
+We were interviewed live by members of the Recruiting and People Business Partner teams, and we encourage all team members to watch this video with frequently asked questions about Country Conversions:
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/3Eoo4QJXr4E" frameborder="0" allowfullscreen="true"> </iframe>
@@ -332,9 +352,9 @@ We were interviewed live by members of the Recruiting and People Business Partne
 
 The People Operations Specialist is responsible for managing the country conversion processes outlined below.
 
-### Contractor to PEO/Contractor Conversions 
+### Contractor to PEO/Contractor Conversions
 
-#### Phase 1: Pre-Conversion 
+#### Phase 1: Pre-Conversion
 
 1. The People Operations Specialist team will pull a [weekly report](https://gitlab.bamboohr.com/reports/custom/People+Specialist+Weekly+Country+Conversions/765) every Monday via BambooHR to review the amount of hires per country (this should include reporting on current offers). When we reach five team members in a country, this is the indicator to proceed with a country conversion (if that process is not already in progress). The People Operations Specialist team will rotate who pulls this report on a monthly basis. The monthly report owners can be reviewed in the [Weekly Operations call agenda](https://docs.google.com/document/d/1PKjNAzbktcFgBHuOTVyyVhegxrcZtbwlbZK1fmnRmjo/edit?ts=5deeba10#).
 1. The DRI for Country Conversion decisions is our Director of Tax. All requests for converting a country will be sent by the Director of Tax to countryconversions@gitlab.com email alias and confirm the conversion priority (green, yellow or red according to urgency).
@@ -350,9 +370,9 @@ The People Operations Specialist is responsible for managing the country convers
 1. The Total Rewards team will focus on benefits evaluation for the `non-official country vendor recommendation` first and aim to align the benefits package with GitLab's needs.
 1. In the event that the Total Rewards team determine that the non-official country vendor recommendation is not a fit for GitLab's benefits needs, the People Operations Specialist will share the runner-up selection for benefits reviewal.
 1. After a final recommendation is agreed upon, the People Operations Specialist country owner will send an email to the Director of Tax providing a comparative overview of the existing solution, all country vendor options, and rationale for the selected recommendation.
-1. If the Director of Tax approves the recommendation, they will indicate written approval, and copy the CFO (Chief Financial Officer) on the email for final approval. 
+1. If the Director of Tax approves the recommendation, they will indicate written approval, and copy the CFO (Chief Financial Officer) on the email for final approval.
 
-#### Phase 2: Conversion 
+#### Phase 2: Conversion
 
 1. If the CFO approves the recommendation, proceed to the following steps. If the recommendation is not approved, the People Operations Specialist should proceed with investigating other options.
 1. The People Operations Specialist will save record of the country vendor approval given via email by the CFO in the corresponding country folder found in the [Country Vendor Information](https://drive.google.com/drive/u/0/folders/14nhToiahmt5ANKoHGTbJztjaQ3jEVP6r) folder in Google Drive
@@ -361,14 +381,14 @@ The People Operations Specialist is responsible for managing the country convers
 _Note: All questions relating to the converion should be sent to the People Operation Specialist via email with the countryconversions@gitlab.com email alias copied._
 1. The People Operations Specialist should tag the Recruiting team in the country issue to confirm that a new country vendor has been selected and to highlight conversion date.
 1. The People Operations Specialist should tag the Recruiting and CES team in the `people-group-confidential` Slack channel to confirm that a new country vendor has been selected and to highlight conversion date.
-1. The People Operations Specialist will check Contract Works to confirm the notice period with the current vendor (if applicable) and provide written notice as soon as possible. 
-    * Note: When written notice is provided to the current vendor, it is important that the Specialist confirms whether team members need to individually resign as well, and if so, what the timeline for individual resignations is. 
+1. The People Operations Specialist will check Contract Works to confirm the notice period with the current vendor (if applicable) and provide written notice as soon as possible.
+    * Note: When written notice is provided to the current vendor, it is important that the Specialist confirms whether team members need to individually resign as well, and if so, what the timeline for individual resignations is.
 1. The People Operations Specialist will complete the onboarding document for the country vendor that was selected. These templates are found in the `Employee and Contracts Templates and Staging` folder in the shared drive. These should then be sent to the main Account Manager of the selected PEO to confirm which local contact should be used for the conversion.
-1. The selected vendor will share the drafted employment contracts with the People Specialist for review. The People Specialist should review the contracts themselves and seek additional feedback/approval from the Senior Manager, People Operations and Employment Counsel. 
+1. The selected vendor will share the drafted employment contracts with the People Specialist for review. The People Specialist should review the contracts themselves and seek additional feedback/approval from the Senior Manager, People Operations and Employment Counsel.
 1. The People Opertions Specialist will share a draft of the contract with the team members of the impacted country for additional feedback before having them signed.
 1. The selected country vendor will then reach out to the team member and start the onboarding and contract signing process.
 1. The People Operations Specialist will send a "heads up" email to the team members in the country converting regarding the `Mutual Termination Agreement` that will be shared using [this template](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/issue_templates/cc_mutual_term_agreement.md).
-1. The `Mutual Termination Agreements` should be sent ~72 hours ***after*** team members have received their new contracts. 
+1. The `Mutual Termination Agreements` should be sent ~72 hours ***after*** team members have received their new contracts.
 1. The People Operations Specialist will complete the `Mutual Termination Agreement`, found in the Drive called `Employee and Contractor Templates and Staging` mentioned above. This will need to uploaded to HelloSign signed by both the team member and CFO in accordance with the new selected start date of the team member. The start date is usually within two calendar months after the initial conversion email was sent.<br> _Note: Once the Mutual Termination Agreement is signed, it is essential that it is uploaded to the team member's BambooHR profile in the `Contracts & Changes` section._<br>
 1. The People Operations Specialist will keep the issue created above up to date with any questions asked documented in the relevant section of the handbook.
 1. The People Operations Specialist will update the Payroll team to confirm the change as well as the internal compensation calculator
@@ -380,27 +400,27 @@ _Note: All questions relating to the converion should be sent to the People Oper
 ### Contractor/PEO to Legal Entity Conversion
 
 1. The assigned People Operations Specialist sends [an initial email](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/issue_templates/cc_emailtemplate_generic_announcement.md) to all team members currently located in the converting country and links the country issue so team members may follow progress and provide feedback. cc `countryconversions@domain.com` and `nonuspayroll@domain.com`, as well as the Sr. Manager, Global Payroll and Payments.
-1. As soon as all legal requirements for the legal Entity are in place (bank account, entity name, payroll process) and you receive confirmation from the Director of Tax and Payroll that it is prudent to do so, give notice of termination to current PEO. In the issue, state that notice has been given and list the go live date for the Entity. 
+1. As soon as all legal requirements for the legal Entity are in place (bank account, entity name, payroll process) and you receive confirmation from the Director of Tax and Payroll that it is prudent to do so, give notice of termination to current PEO. In the issue, state that notice has been given and list the go live date for the Entity.
 1. Ask the current PEO of the overlap or transition time. Certain PEOs require 2 weeks of transition time where they cannot hire any new team members. This means that new hires will not be able to start in this location during these 2 weeks, unless there is a contract ready for the entity.
 1. In the opened issue, ping all affected team members as well as all hiring managers of affected team members. Comment to let the hiring managers know that their direct report(s) is/are located in a country undergoing this process.
 1. Ping the Total Rewards team in the issue, so that they may provide benefits information as it is received.
 1. The People Operations Specialist will arrange a kick-off call with all team members in this location to communicate that we are transitioning and the transition date. There should be payroll and total reward representatives on the call to answer any questions the team members will have.
 1. The People Operations Specialist will send the [team member conversion email](https://drive.google.com/drive/folders/105ZI49EwHHCtrwCJ5eqkHaPZh5ajal4b) to team members and cc managers to confirm the conversion date and next steps.
 _Note: All questions relating to the converion should be sent to the People Operation Specialist via email with the countryconversions@gitlab.com email alias copied._
-1. The People Operations Specialist should tag the Recruiting team in the country issue to confirm that the country is being converted to a legal entity and  highlight conversion date. Communicate any PEO overlap or transition time, per item 3. 
-1. The People Operations Specialist should tag the Recruiting and CES team in the `people-group-confidential` Slack channel to confirm that the country is being converted to a legal entity and  highlight conversion date. Communicate any PEO overlap or transition time, per item 3. 
+1. The People Operations Specialist should tag the Recruiting team in the country issue to confirm that the country is being converted to a legal entity and  highlight conversion date. Communicate any PEO overlap or transition time, per item 3.
+1. The People Operations Specialist should tag the Recruiting and CES team in the `people-group-confidential` Slack channel to confirm that the country is being converted to a legal entity and  highlight conversion date. Communicate any PEO overlap or transition time, per item 3.
 1. The People Opertions Specialist will share a draft of the contract with the team members of the impacted country for additional feedback before having them staged.
 1. 45 days prior to go live date, the People Operations Specialist should prepare and stage the new contracts in HelloSign.
 1. Once new contracts are signed, the People Operations Specialist should save copies in each team member's BambooHR profile, in the `Contracts & Changes` folder.
 1. The People Operations Specialist will send a "heads up" email to the team members in the country converting regarding the `Mutual Termination Agreement` that will be shared using [this template](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/issue_templates/cc_mutual_term_agreement.md).
-1. The `Mutual Termination Agreements` should be sent ~72 hours ***after*** team members have received their new contracts. 
+1. The `Mutual Termination Agreements` should be sent ~72 hours ***after*** team members have received their new contracts.
 1. The People Operations Specialist will complete the `Mutual Termination Agreement`, found in the Drive called `Employee and Contractor Templates and Staging` mentioned above. This will need to uploaded to HelloSign signed by both the team member and CFO in accordance with the new selected start date of the team member. The start date is usually within two calendar months after the initial conversion email was sent.<br> _Note: Once the Mutual Termination Agreement is signed, it is essential that it is uploaded to the team member's BambooHR profile in the `Contracts & Changes` folder._<br>
 1. The People Operations Specialist will work with Total Rewards, local counsel and Legal to create a new Time Off policy (if applicable). Document this policy in the handbook, add it to BambooHR and add all team members to said policy with the correct policy start date.
 1. The People Operations Specialist will keep the issue created above up to date with any questions asked, documented in the relevant section of the handbook.
 1. The People Operations Specialist will update the Payroll team to confirm the change as well as the internal compensation calculator.
 1. The People Operations Specialist will update BambooHR with the team member status for: `payroll type`, `location`, and any other relevant updates.
 1. The People Operations Specialist will update to the [entity mapper](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/entity_mapper.yml) file.
-1. The People Operations Specialist will notify Recruiting Operations to update the dropdown for `entity` in Greenhouse. 
+1. The People Operations Specialist will notify Recruiting Operations to update the dropdown for `entity` in Greenhouse.
 1. The People Operations Specialist will notify the People Analyst team by emailing `total-rewards@gitlab.com` to audit BambooHR and other systems to ensure there are no pending updates.
 1. The People Operations Specialist will update various handbook links, inlduding: remove the converted country from the [Country Hiring Guidelines](/jobs/faq/#country-hiring-guidelines) by searching for the country in the [Country Hiring Status .yml file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/country_hiring_status.yml) and changing `hiring: false` to `hiring: true`; update the [Employment Types at GitLab](/handbook/contracts/#employee-types-at-gitlab) and collaborate with the Candidate Experience Specialist team to update the [Contracts & International Expansion](https://about.gitlab.com/handbook/people-group/contracts-and-international-expansion) page.
 1. The People Operations Specialist will update the country `status` in the Country [Conversions and Entity Creation Tracking](https://gitlab.com/gitlab-com/people-group/General/issues/367) issue to reflect the conversion as complete.
@@ -454,21 +474,21 @@ classDef PHASE fill:#DCDCDC, stroke: #333
 
 ## Compensation Review for Country Conversions
 
-When team members convert from "contractor" to "employee" status through an entity or PEO, the expected behavior is to remove the 17% contractor additive from the [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/#contract-factor). 
+When team members convert from "contractor" to "employee" status through an entity or PEO, the expected behavior is to remove the 17% contractor additive from the [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/#contract-factor).
 
-As part of the country conversion and benefits review process, the Total Rewards and People Operations team will review the gross value of cash compensation and benefits while also ensuring alignment to the employee rate in the compensation calculator. 
+As part of the country conversion and benefits review process, the Total Rewards and People Operations team will review the gross value of cash compensation and benefits while also ensuring alignment to the employee rate in the compensation calculator.
 
-Here is an example of costs to analyze in order to ensure team members keep a similar value in their gross compensation: 
-* Salary and variable cash compensation without the 17% contractor factor. 
+Here is an example of costs to analyze in order to ensure team members keep a similar value in their gross compensation:
+* Salary and variable cash compensation without the 17% contractor factor.
 * 5% payroll administration fee. (This is an estimate of how much of the 17% is used to administer your own payroll whereas on a PEO GitLab would bear that cost).
 * Health Insurance Premiums.
-* Pension Premiums and/or match.  
+* Pension Premiums and/or match.
 * Any other relevant entity-specific benefit costs.
 * All federal and local government payroll and employer taxes independent contractors are required to pay to taxing authorities
-If benefits are provided as statutory by local government, some of these costs may be incorporated into the overall taxes paid by the company. 
-The purpose of this analysis is to ensure the gross pay value is aligned pre and post conversion. 
+If benefits are provided as statutory by local government, some of these costs may be incorporated into the overall taxes paid by the company.
+The purpose of this analysis is to ensure the gross pay value is aligned pre and post conversion.
 
-The total rewards and people ops specialist team should also review alignment to the compensation ranges based on the new employee status and most recent compa group review. For example, if reducing the salary for a contractor results in a lower compa group at the employee rate, it might not be an appropriate new salary to propose. Whenever we change salaries as part of a country conversion, there should be consistency applied among all team members in that country. 
+The total rewards and people ops specialist team should also review alignment to the compensation ranges based on the new employee status and most recent compa group review. For example, if reducing the salary for a contractor results in a lower compa group at the employee rate, it might not be an appropriate new salary to propose. Whenever we change salaries as part of a country conversion, there should be consistency applied among all team members in that country.
 
 ## Relocations & Contract Renewals
 
@@ -500,7 +520,7 @@ If you are going to spend six months or more in one location this will be consid
 1. If your relocation is to a different geo area, then to stay aligned with our [compensation principles](/handbook/total-rewards/compensation/#compensation-principles) and per the [standard contract agreements](/handbook/contracts/), you should obtain *written agreement from your manager* (email will do) at least 30 days prior to any official move. If you are considering a move it is best to discuss this with your manager as soon as possible, before you have actually moved, to understand the impact to compensation or your role at GitLab. In almost all situations the compensation may change. In some instances a move will not align to your proposed location, (e.g. a recruiter hired in EMEA to support EMEA would not be approved to move to the US). It is the company's discretion to offer you a contract in your new location or to not continue with your contract based on a relocation. For an idea about the impact please check with our Total Rewards Manager, Brittany Rohde, for an accurate salary in the new [geographical area](/handbook/total-rewards/compensation/compensation-calculator/#geographical-areas).
 1. To initiate a request for relocation, the team member or manager can reach out to their assigned People Business Partner (PBP). The PBP will work with the Total Rewards team to review the request and any changes in compensation.
 1. If a team member is moving to a location with a lower or equivalent location factor, the change only needs to be approved by their manager and the assigned People Business Partner. If the team member is moving to a location with a higher location factor, they will need their People Business Partner and their group's Executive approval.
-1. Once approved, the PBP will confirm the relocation with the People Operations Specialist and Total Rewards teams. 
+1. Once approved, the PBP will confirm the relocation with the People Operations Specialist and Total Rewards teams.
 1. The People Operations Specialists will create a new contract for the team member, confirming with the relevant PBP that the team member is aware of compensation changes, if applicable.
 1. The People Operations Specialist will ensure that all approval documents including email threads are saved in the team member's BambooHR `Contracts & Changes` folder.
 1. The People Operations Specialists will have the final contract audited by another People Specialist or the Senior Manager, People Operations. The People Operations Specialist will then stage the contract in HelloSign and send for signature first to the Senior Director, People Success, and subsequently to the team member. The signed contract will be save in the team member's `Contracts & Changes` folder in BambooHR.
@@ -529,16 +549,16 @@ If you are going to spend six months or more in one location this will be consid
   * For US team members - update the locality in BambooHR
   * For US team members - update the benefit group (if required)
 
-### Contract Renewals 
+### Contract Renewals
 
 The below process can be used for the following:
 
 * Temporary contract to indefinite contract
 * Temporary contract to temporary contract (after the initial contract expires)
 * Contract update for invoice purposes due to individual incorporation of an entity
-Note: In most cases this process will apply specifically for team members in the Netherlands. 
+Note: In most cases this process will apply specifically for team members in the Netherlands.
 
-When creating a new contract, if it is to be for 12 months, that timeframe is always to be written as (for example): 
+When creating a new contract, if it is to be for 12 months, that timeframe is always to be written as (for example):
 
 - Jan 1, 2010 to Dec 31, 2010
 - Feb 20, 2004 to Feb 19, 2005
@@ -548,10 +568,10 @@ When renewing a contract, if it is to be for 12 months, the timeframes are at be
 - First 12-month contract starts on June 14, 2019. That entails that the contract ends on June 13, 2020.
 - Second 12-month contract will start on June 14, 2020 and end on June 13, 2021.
 
-1. Using the Relocation & Contract Renewal's [tracker](https://docs.google.com/spreadsheets/d/14nDqTtM7zycvvyKIscW-kQTJ_25WWUFQvDz3jZTyWL0/edit#gid=1600318886) view the upcoming team member contract expiry's. On the sheet you will see the People Operations Specialist owner, if you are the owner be sure to note the end date and start the below process 2 months before the end date. 
-1. Take note of the team members details and reach out to the team members manager via email using the following [template](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/netherlands_temp_contract_renewal.md), be sure to CC the team members People Business Partner. 
+1. Using the Relocation & Contract Renewal's [tracker](https://docs.google.com/spreadsheets/d/14nDqTtM7zycvvyKIscW-kQTJ_25WWUFQvDz3jZTyWL0/edit#gid=1600318886) view the upcoming team member contract expiry's. On the sheet you will see the People Operations Specialist owner, if you are the owner be sure to note the end date and start the below process 2 months before the end date.
+1. Take note of the team members details and reach out to the team members manager via email using the following [template](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/netherlands_temp_contract_renewal.md), be sure to CC the team members People Business Partner.
 1. Once you have received confirmation on next steps from the team members line manager be sure to save the thread under the team members profile on BambooHR.
-1. Using the correct contract template from the [templates folder](https://drive.google.com/drive/u/0/folders/1KlKyfJ0wg42GJHzmRbggVs_pTI0xeJRH) complete with required team member details. These details can be found on the team members BambooHR profile. 
+1. Using the correct contract template from the [templates folder](https://drive.google.com/drive/u/0/folders/1KlKyfJ0wg42GJHzmRbggVs_pTI0xeJRH) complete with required team member details. These details can be found on the team members BambooHR profile.
 1. Do not keep the `Stock Options` line in the Key Terms section, unless additional shares are being given.
 1. When you have a completed contract be sure to allow a team member to peer review it for you. This can be done by posting the document link in the People Ops private slack channel. Indicate that you are reviewing it by using the 'Eyes' emoji. 
 1. Once reviewed, stage the contract for signing in HelloSign. 
