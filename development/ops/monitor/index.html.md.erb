@@ -152,7 +152,8 @@ Such an approach helps us to communicate better not only between the engineers, 
 1. Model: [`Metrics::UsersStarredDashboard`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/app/models/metrics/users_starred_dashboard.rb) was properly placed under `Metrics` namespace which relates to [Metrics](https://about.gitlab.com/handbook/product/product-categories/#apm-group) product category.
 1. Grape API instance: [`API::Metrics::UsersStarredDashboard`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/api/metrics/user_starred_dashboards.rb) was properly placed in `lib/api` dicrectory under `API` top-level namespace and than in `Metrics` subnamespace which relates to [Metrics](https://about.gitlab.com/handbook/product/product-categories/#apm-group) product category.
 
-#### Cases where better namespace could be selected 
+#### Cases where better namespace could be selected
+
 1. [`Gitlab::Prometheus::MetricGroup`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/gitlab/prometheus/metric_group.rb) should be named `Gitlab::Metrics::Prometheus::MetricGroup` and placed at `lib/gitlab/metrics/prometheus/metric_group.rb`
 1. [`Projects::PerformanceMonitoring::DashboardsController`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/app/controllers/projects/performance_monitoring/dashboards_controller.rb) should be named `Projects::Metrics::DashboardsController` and placed at `app/controllers/projects/metrics/dashboards_controller.rb`
 1. Model added as part of [Annotations feature](https://gitlab.com/groups/gitlab-org/-/epics/2621) should be named `::Metrics::Dashboard::Annotation` instead of `DashboardAnnotation` or `MetricsDashboardAnnotation` and respectively it should be placed at `app/models/metrics/dashboard/annotation.rb` instead of `metrics_dashboard_annotation.rb`
