@@ -9,7 +9,7 @@ title: "Employment Issues"
 ## Employment issues
 
 People Experience Asscoiates make use of GitLab's [ChatOps](https://docs.gitlab.com/ee/ci/chatops/)
-functionality to automate creation of onboarding, offboarding and transition issues. By executing a
+functionality to automate creation of Onboarding, Offboarding and Career Mobility issues. By executing a
 Slack command a pipeline is triggered in the `employment-automation` project, which runs the
 related job and replies with a link to the newly created issue.
 
@@ -124,7 +124,7 @@ GitLab issue comment reminding the People Experience Associates to removes the r
 Currently, the pipeline is scheduled to run everyday at 04:00 AM UTC. It will comment on
 all the offboarding issues created 5 days before the current date.
 
-### Internal Transition issues
+### Career Mobility issues
 
 The Slack command used for this is:
 
@@ -133,7 +133,7 @@ The Slack command used for this is:
 ```
 
 The Slack command triggers a pipeline in the `employment` project, which will
-run the job `transition`, and reply with a link to the newly created internal transition
+run the job `transition`, and reply with a link to the newly created Career Mobility
 issue. The issue will be automatically assigned to the following people:
 - People Experience Associate who ran the command
 - the team member
