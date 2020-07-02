@@ -52,7 +52,7 @@ Contact Procurement directly in Slack via #procurement if you have questions.
 
 ### 1: Purchase Type: Software/SaaS
 
-1. Open a Vendor Contract Request issue with [this template](https://gitlab.com/gitlab-com/finance/issues/new?issuable_template=software_vendor_contract_request) to begin the process.
+1. Open a Vendor Contract Request issue with [this template](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) to begin the process.
 1. Create this issue **BEFORE** agreeing to business terms and/or pricing. 
 1. It is preferred we negotiate the best pricing up front to keep our ongoing costs to a minimum across our long-term relationships with vendors. We also continue to evaluate supplier pricing at the time of renewal to minimize our ongoing costs across our long-term relationships with vendors.
 
@@ -60,7 +60,7 @@ A video tutorial of the issue creation process can be found [**HERE**](https://g
 
 ### 2: Purchase Type: Professional Services and all other contract types
 
-1. Open a Vendor Contract Request issue with [this template](https://gitlab.com/gitlab-com/finance/issues/new?issuable_template=general_vendor_contract_request) 
+1. Open a Vendor Contract Request issue with [this template](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=general_vendor_contract_request) 
 1. Create this issue **BEFORE** agreeing to business terms and/or pricing. 
 1. This template can be used for addendums that either do or do not change pricing.
 
@@ -68,7 +68,7 @@ A video tutorial of the issue creation process can be found [**HERE**](https://g
 
 ### 3: Purchase Type: Field Marketing and Events withOUT Confidential Data
 
-1. Open a Vendor Contract Marketing & Events Request [issue with this template](https://gitlab.com/gitlab-com/finance/issues/new?issuable_template=vendor_contracts_marketing_events)
+1. Open a Vendor Contract Marketing & Events Request [issue with this template](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=vendor_contracts_marketing_events)
 1. Examples for this template type include marketing events, programs, sponsorships, catering, hotels, swag and services that do NOT involve the processing or sharing of data.
 1. Due to the rapid nature of these types of requests, procurement will only negotiate if spend is greater then $100K and there is business justification and alignment to do so. 
 1. If you will be sharing confidential data with the vendor, please use the template under Purchase Type #2 above.
@@ -123,7 +123,7 @@ GitLab team-members must obtain the appropriate approvals from other departments
      - Enter the signatory's name and email in HelloSign
  1. Once the contract is signed by GitLab, send the contract to your vendor (if not already signed by the vendor) through HelloSign.
  1. After the contract is signed by both parties, upload the fully executed contract to ContractWorks. You will need to upload the fully signed pdf into the folder labeled **01. To Be Standardized**, which in under the parent folder **01. Uncategorized**. Legal will then organize the contracts using their [instructions and best practices](/handbook/legal/vendor-contract-filing-process)
-      - If you need access to ContractWorks, please process an access request [here](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=New_Access_Request).
+      - If you need access to ContractWorks, please process an access request [here](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Single+Person+Access+Request).
 
 - Note: If your vendor has a signature tool they would like to use and all approvals have been received in the contract issue, request that the vendor send the final contract version with the legal stamp for signature and also include the issue link. This will avoid delays in signature.
 
@@ -141,8 +141,8 @@ It is the responsibility of the business owner/issue creator to request a Purcha
      - A PO will not be created unless all approvals have been received in the contract request issue and your vendor will not be paid.
 1. Enter the contract start and end date
      - A PO will not be created until these dates are added to the issue in the appropriate step. The request will be rejected and delayed until this is entered.
-1. Add the "PO To-Do" label to the issue. This prompts the PO creation process. 
-     - A PO will not be created until this tag is added to the issue. The request will not be seen and the PO will not be created until this tag is added.
+1. Add the `PO To-Do` label to the issue. This prompts the PO creation process. 
+     - A PO will not be created until this label is added to the issue. The request will not be seen and the PO will not be created until this tag is added.
 1. Enter the Invoice Approver name. This is the person who will approve and be contacted in the event there are any invoice questions.
      - If no invoice approver name is entered, the PO will default to the person who opened the issue. In the event this is the incorrect person, payment to the vendor may be delayed.
 
@@ -158,14 +158,14 @@ It is the responsibility of the business owner/issue creator to request a Purcha
 - [Logo Authorization Template](https://drive.google.com/file/d/1Vtq3UHc8lMfIbVFJ3Mc-PZZjb6_CKAvm/view?usp=sharing)
 - [Media Consent and Release Form](https://drive.google.com/file/d/10pplnb9HMK0J0E8kwERi8rRHvAs_rKoH/view?usp=sharing)
 
->### Step by step guide on the PO creation process the procurement team is responsible for within Netsuite can be found [here](https://about.gitlab.com/handbook/finance/procurement/purchase-order-process/)
+>### Step by step guide on the PO creation process the procurement team is responsible for within Netsuite can be found [here](/handbook/finance/procurement/purchase-order-process/)
 
 
 ### Contract Request Capacity & Back Log
 
-All open contract issue requests, are located at the [Procurement Issue Board](https://gitlab.com/gitlab-com/finance/-/boards/1270606?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=a.hansen)
+All open contract issue requests, are located at the [Procurement Issue Board](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/boards/1844091)
 
-In the event you have an issue that hasn't received a prompt response from procurement, requestor should tag Aleshia Hansen in the #procurement Slack channel and provide:
+In the event you have an issue that hasn't received a prompt response from procurement, requestor should mention Aleshia Hansen in the #procurement Slack channel and provide:
 
 1. Link to the Vendor Contract Approval issue; and 
 1. Timeline
@@ -186,7 +186,7 @@ Contact Procurement directly in Slack via #procurement if you have questions.
 
 ###  Opening a PO Change Approval issue
 
-1.  The Business Owner / Requestor has to open a PO Change Approval issue with [this template](https://gitlab.com/gitlab-com/finance/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=) to begin the process.
+1.  The Business Owner / Requestor has to open a PO Change Approval issue with [this template](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=PO_Change_Approval) to begin the process.
 1.  Once the change has been approved by all parties, the Procurement team will amend the Purchase Order in NetSuite.
 2.  The Business Owner / Requestor has to send the bill back to Accounts Payable (either by logging into Tipalti or directly clicking on the button "Send back to AP" from the email) and notify that the PO has been amended by adding the PO Change Approval issue URL.
     *  **If the bill is not sent back to AP by the Business Owner, the process will not move forward and the invoice won't be paid.**
