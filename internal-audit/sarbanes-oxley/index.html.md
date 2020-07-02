@@ -108,105 +108,25 @@ The below [RACI ](https://en.m.wikipedia.org/wiki/Responsibility_assignment_matr
    [FY 20](https://docs.google.com/spreadsheets/d/1Cx3izdj9-LRIXzQW6cOTSMFabQ5jd8OVLL1zmK0Clhc/edit?usp=sharing)<br>
    [FY 21]()
 
-## 2. ELC
+## [2. ELC](https://about.gitlab.com/handbook/finance/sox-internal-controls/)
 
-|Sl.no #|Process|Control Mapping
-|:---|:---|:---|
-|1|Integrity and ethical values|[C.01](https://about.gitlab.com/handbook/people-operations/code-of-conduct/) and [C.02](https://about.gitlab.com/handbook/people-operations/code-of-conduct/)
-|2|Organisational structure|[C.03](https://docs.google.com/document/d/166XksiBM28zzAtsEpkHsFNLMAmz_lcFTxNPfg6WM204/edit?usp=sharing) and [C.04](https://about.gitlab.com/handbook/finance/authorization-matrix/)
-|3|Board of Directors & Audit Committee|[C.05](https://about.gitlab.com/handbook/board-meetings/), [C.06](https://about.gitlab.com/handbook/board-meetings/#audit-committee-charter) and [C.07](https://about.gitlab.com/handbook/board-meetings/)
-|4|Entity-wide objectives|[C.08](https://docs.google.com/document/d/1HALK81OatVCO7tRIj9YzDIaqQqmpCiomT6sT1fHrIIY/edit?usp=sharing)
-|5|Risk Assessment|[C.09](https://about.gitlab.com/handbook/board-meetings/), C.10, [C.11](https://about.gitlab.com/handbook/finance/accounting/), [C.12](https://about.gitlab.com/handbook/tax/) and [C.16](https://about.gitlab.com/handbook/people-operations/code-of-conduct/)
-|6|Monitoring|[C.13](https://about.gitlab.com/handbook/board-meetings/), [C.14](https://about.gitlab.com/handbook/engineering/security/#sts=Information%20Security%20Policies ) and [C.15](https://about.gitlab.com/handbook/engineering/development/enablement/geo/)
-
-## 3.ITGC controls
-
-[FY21 SOX in-scope applications](https://gitlab.com/gitlab-com/internal-audit/internal-audit/-/issues/198)
-
-|**Sl #**|**Control Family**|**Control Mapping**
-|:---|:---|:---|
-|1|Business Continuity|[BC.1.01](https://about.gitlab.com/handbook/engineering/security/guidance/BC.1.01_business_continuity_plan.html), [BC.1.02](https://about.gitlab.com/handbook/engineering/security/guidance/BC.1.02_business_continuity_roles_responsibilities.html#bc102---business-continuity-plan-roles-and-responsibilities), [BC.1.03](https://about.gitlab.com/handbook/engineering/security/guidance/BC.1.03_continuity_testing.html#bc103---continuity-testing), [BC.1.04](https://about.gitlab.com/handbook/engineering/security/guidance/BC.1.04_business_impact_analysis.html#bc104---business-impact-analysis)
-|2|Backup Management|[BU.1.01](https://about.gitlab.com/handbook/engineering/security/guidance/BU.1.01_backup_configuration.html#bu101---backup-configuration), [BU.1.02](https://about.gitlab.com/handbook/engineering/security/guidance/BU.1.02_resilience_testing.html#bu102---resilience-testing), [BU.1.03](https://about.gitlab.com/handbook/engineering/security/guidance/BU.1.03_alternate_storage.html#bu103---backup-management-alternate-storage)
-|3|Change Management|[CM.1.01](https://about.gitlab.com/handbook/engineering/security/guidance/CM.1.01_change_management_workflow.html#cm101---change-management-workflow), [CM.1.02](https://about.gitlab.com/handbook/engineering/security/guidance/CM.1.02_change_approval.html#cm102---change-approval), [CM.2.01](https://about.gitlab.com/handbook/engineering/security/guidance/CM.2.01_segregation_of_duties.html)
-|4|Configuration Management|[CFG.1.01](https://about.gitlab.com/handbook/engineering/security/guidance/CFG.1.01_baseline_configuration_standard.html#cfg101---baseline-configuration-standard)
-|5|Identity and Access Management|[IAM.1.01](https://about.gitlab.com/handbook/engineering/security/guidance/IAM.1.01_logical_access_provisioning.html#iam101---logical-access-provisioning), [IAM.1.02](https://about.gitlab.com/handbook/engineering/security/guidance/IAM.1.02_logical_access_deprovisioning.html#iam102---logical-access-de-provisioning), [IAM.1.04](https://about.gitlab.com/handbook/engineering/security/guidance/IAM.1.04_logical_access_review.html#iam104---logical-access-review), [IAM.1.05](https://about.gitlab.com/handbook/engineering/security/guidance/IAM.1.05_role_change_access_deprovisioning.html#iam105---transfers-access-de-provisioning), [IAM.1.06](https://about.gitlab.com/handbook/engineering/security/guidance/IAM.1.06_shared_logical_accounts.html#iam106---shared-logical-accounts), [IAM.2.01](https://about.gitlab.com/handbook/engineering/security/guidance/IAM.2.01_unique_identifiers.html#iam201---unique-identifiers), [IAM.2.02](https://about.gitlab.com/handbook/engineering/security/guidance/IAM.2.02_password_authentication.html#iam202---password-authentication), [IAM.2.03](https://about.gitlab.com/handbook/engineering/security/guidance/IAM.2.03_multifactor_authentication.html#iam203---multi-factor-authentication), [IAM.2.04](https://about.gitlab.com/handbook/engineering/security/guidance/IAM.2.04_authentication_credential_maintenance.html#iam204---authentication-credential-maintenance), [IAM.2.08](https://about.gitlab.com/handbook/engineering/security/guidance/IAM.2.08_account_lockout.html#iam208---account-lockout), [IAM.3.02](https://about.gitlab.com/handbook/engineering/security/guidance/IAM.3.02_source_code_security.html#iam302---source-code-security), [IAM.3.03](https://about.gitlab.com/handbook/engineering/security/guidance/IAM.3.03_service_account_restriction.html#iam303---service-account-restrictions), [IAM.4.01](https://about.gitlab.com/handbook/engineering/security/guidance/IAM.4.01_remote_connections.html#iam401---remote-connections), [IAM.4.03](https://about.gitlab.com/handbook/engineering/security/guidance/IAM.4.03_remote_maintenance_authentication_sessions.html#iam403---remote-maintenance-authentication-sessions)
-|6|Incident Response|[IR.1.01](https://about.gitlab.com/handbook/engineering/security/guidance/IR.1.01_incident_response_plan.html#ir101---incident-response-plan)
-|7|Network Operations|[NO.1.01](https://about.gitlab.com/handbook/engineering/security/guidance/NO.1.01_network_policy_enforcement_points.html), [NO.2.01](https://about.gitlab.com/handbook/engineering/security/guidance/NO.2.01_network_segmentation.html#no201---network-segmentation)
-|8|Risk Management|[RM.1.01](https://about.gitlab.com/handbook/engineering/security/guidance/RM.1.01_risk_assessment.html#rm101---risk-assessment), [RM.1.02](https://about.gitlab.com/handbook/engineering/security/guidance/RM.1.02_continuous_monitoring.html)
-|9|Service Lifecycle|[SLC.1.02](https://about.gitlab.com/handbook/engineering/security/guidance/SLC.1.02_source_code_management.html#slc102---source-code-management)
-|10|Systems Monitoring|[SYS.1.01](https://about.gitlab.com/handbook/engineering/security/guidance/SYS.1.01_audit_logging.html#sys101---audit-logging), [SYS.1.02](https://about.gitlab.com/handbook/engineering/security/guidance/SYS.1.02_secure_audit_logging.html#sys102---secure-audit-logging), [SYS.1.05](https://about.gitlab.com/handbook/engineering/security/guidance/SYS.1.05_audit_logging_service_provider.html#sys105---audit-logging-service-provider-logging-requirements), [SYS.1.07](https://about.gitlab.com/handbook/engineering/security/guidance/SYS.1.07_audit_log_capacity_retention.html#sys107---audit-log-capacity-and-retention)
-|11|Third Party Management|[TPM.1.01](https://about.gitlab.com/handbook/engineering/security/guidance/TPM.1.01_third_party_assurance_review.html#tpm101---third-party-assurance-review)
-|12|Vulnerability Management|[VUL.3.01](https://about.gitlab.com/handbook/engineering/security/guidance/VUL.3.01_infrastructure_patch_management.html#vul301---infrastructure-patch-management)
-|13|Data Management|[DM.4.01](https://about.gitlab.com/handbook/engineering/security/guidance/DM.4.01_encryption_of_data_in_transit.html#dm401---encryption-of-data-in-transit), [DM.4.02](https://about.gitlab.com/handbook/engineering/security/guidance/DM.4.02_encryption_of_data_at_rest.html#dm402---encryption-of-data-at-rest))
+## [3.ITGC controls](https://about.gitlab.com/handbook/finance/sox-internal-controls/)
 
 ## 4. Business Process Risk Control Matrix (RCM)
    [FY 20](https://docs.google.com/spreadsheets/d/1RLC2Fj0Ft81TR-pkMTY8_QwvOKTNjXHUG003MiZrygI/edit?usp=sharing)<br>
-   [FY 21]()
+   [FY 21](https://docs.google.com/spreadsheets/d/1tb8sOagQDSSxX7iSTuO9Daob9Zs93HjkFHXSEl-0SJM/edit?usp=sharing)
 
 ## 5. Desktop Procedures (DTP)
 
-#### Quote to Cash - [Introduction](https://docs.google.com/document/d/1t1d5cJtRb_Junzse4tf3yip3HgzgpFWQA9_Svt3hyQc/edit#heading=h.1fob9te)
+|**Sl #**|**Financial Process**|
+|:---|:---|
+|1|[Quote to Cash](https://about.gitlab.com/handbook/finance/sox-internal-controls/quote-to-cash/)
+|2|[Procure to Pay](https://about.gitlab.com/handbook/finance/sox-internal-controls/procure-to-pay/)
+|3|[Hire to Retire](https://about.gitlab.com/handbook/finance/sox-internal-controls/hire-to-retire/)
+|4|[Regulatory](https://about.gitlab.com/handbook/finance/sox-internal-controls/regulatory/)
+|5|[Record to Report](https://about.gitlab.com/handbook/finance/sox-internal-controls/record-to-report/)
+|6|[Stock Compensation](https://about.gitlab.com/handbook/finance/sox-internal-controls/stock-compensation/)
 
-|**#**|**Process Name**|Controls Mapped|
-|:---|:---|:---|
-|1|[Customer account creation and Conversion of lead to opportunity](https://about.gitlab.com/handbook/finance/accounting/#1-customer-account-management-and-lead-conversion-to-opportunity)|C.01 and C.02
-|2|[Price master management](https://about.gitlab.com/handbook/finance/accounting/#2-price-master-management)|C.03 and C.04
-|3|[Quote creation](https://about.gitlab.com/handbook/finance/accounting/#3-quote-creation)|C.05, C.06, C.07 and C.08
-|4|[Reseller Management](https://about.gitlab.com/handbook/finance/accounting/#4-reseller-management)|C.09
-|5|[Contract Management](https://about.gitlab.com/handbook/finance/accounting/#5-contract-management)|
-|6|[Invoicing to customers (Sales team assisted product sale, Web portal sale and Services)](https://about.gitlab.com/handbook/finance/accounting/#6-invoicing-to-customers)|C.10, C.11, C.12, C.13, C.14 and C.15
-|7|[Invoice cancellations and refunds](https://about.gitlab.com/handbook/finance/accounting/#7-invoice-cancellations-and-refunds)|C.16 and C.17
-|8|[Revenue recognition (for product subscription, services)](https://about.gitlab.com/handbook/finance/accounting/#8-revenue-recognition-and-accounting-for-other-quote-to-cash-transactions-in-net-suite)|C.18
-|9|[Accounting of income from sale of merchandise](https://about.gitlab.com/handbook/finance/accounting/#9-accounting-for-income-from-sale-of-merchandise)|C.19
-|10|[Accounting of income from GCP Referral](https://about.gitlab.com/handbook/finance/accounting/#10-accounting-for-income-on-gcp-referral)|C.20
-|11|[Accounts receivable](https://about.gitlab.com/handbook/finance/accounting/#11-accounts-receivable)|C.21, C.22, C.23, C.24, C.25, C.26, C.27 and C.28
-|12|[Incentive payouts to Sales executives](https://about.gitlab.com/handbook/finance/accounting/#12-commission-payouts-to-sales-executives)|C.29, C.30 and C.31
-
-#### Procure to Pay - [Introduction](https://drive.google.com/open?id=1fO4IRg_fKSAgWFHsnaWv7kl7uNyeDS_Dl6HWu7Ey5l0)
-
-|**#**|**Process Name**|Controls Mapped|
-|:---|:---|:---|
-|1|[Procurement](https://drive.google.com/open?id=1xxAB5jSmXxQ0scKxUXfL9j4MIeE1aDd5Y_mAlysynr0)|C.01 and C.02
-|2|[Accounts Payable](https://drive.google.com/open?id=1AZIp8MqEtxtGbijH97EljtlIRviqh2aNIJqWrpMzImM)|C.03, C.04, C.05, C.06, C.07, C.08, C.09, C.10, C.11, C.12, C.13, C.14, C.15, C.16, C.17, C.18 and C.21
-|3|[Travel](https://drive.google.com/open?id=10hastIDFa-m-LFOgxmM5KRKUdO7clt48VXDPpGStnnw)|
-|4|[Marketing](https://drive.google.com/open?id=1r1_r5m6dr48HG8JTBS3f2OYvOiz5VNsDFJRsT_MrTo8)|C.20
-|5|[R&D Expenses](https://drive.google.com/open?id=1nU5OBQaaaZmgTbIRAPWyFomvnGi-evdYcJjfiFM92Ws)|
-|6|[Expense Reimbursements](https://drive.google.com/open?id=1_DjD_pn65z0CI4-VpIupEzY22qZlrK-OIjXkjg1ibpY)|C.19
-
-#### Hire to Retire - [Introduction](https://docs.google.com/document/d/14kxSCQ8U4xEhGXyr8aub8eyuoh9KfWK91EPhDYYwqq4/edit#bookmark=id.99u938tklyh8)
-
-|**#**|**Process Name**|Controls Mapped|
-|:---|:---|:---|
-|1|[Recruitment](https://about.gitlab.com/handbook/finance/accounting/#recruitment)|C.02 and C.03
-|2|[Employee Master Creation and Updates](https://about.gitlab.com/handbook/finance/accounting/#employee-master-creation-and-updates)|C.04, C.05, C.06 and C.07
-|3|[Payroll Processing for US](https://about.gitlab.com/handbook/finance/accounting/#payroll-processing-for-us)|C.09, C.10, C.11, C.12, C.13, C.14 and C.15
-|4|[Payroll Processing for Non-US](https://about.gitlab.com/handbook/finance/accounting/#payroll-processing-for-non-us)|C.09, C.10, C.11, C.12, C.13, C.14 and C.15
-|5|[Leave Management for Payroll Processing](https://about.gitlab.com/handbook/finance/accounting/#leave-management-for-payroll-processing)|C.08
-|6|[Employee Exits](https://about.gitlab.com/handbook/finance/accounting/#clearance--exit-procedure)|C.16
-
-
-#### Regulatory - [Introduction](https://docs.google.com/document/d/1AXTb7qc71_Wg91Y-LPr04AlNTBw5z5cKJTKzluyib0U/edit?usp=sharing)
-
-|**#**|**Process Name**|Controls Mapped|
-|:---|:---|:---|
-|1|[Sales Tax](https://about.gitlab.com/handbook/finance/accounting/#sales-tax)|C.01, C.02, C.03, C.04, C.05 and C.06
-|2|[Wage Tax](https://about.gitlab.com/handbook/finance/accounting/#wage-tax)|C.09, C.10, C.11, C.12, C.13, C.14, C.15, C.16 and C.17
-|3|[Corporate Income Tax](https://about.gitlab.com/handbook/finance/accounting/#corporate-income-tax)|C.07 and C.08
-|4|Tax on Stock Options|⏰
-
-
-#### Record to Report - [Introduction](https://docs.google.com/document/d/14eC5Qaq3nfyj31nKDymoviOtahcp4INZiSXhCW5aCOE/edit#heading=h.gl2gb0uaddjn)
-
-|**#**|**Process Name**|**Controls Mapped**|
-|:---|:---|:---|
-|1|[User Access Management in Netsuite](https://about.gitlab.com/handbook/finance/accounting/#access-management-in-netsuite)|C.05
-|2|[Chart of Accounts](https://about.gitlab.com/handbook/finance/accounting/#creation-of-chart-of-accounts-and-gl-accounts)|C.01, C.02, C.03 and C.04
-|3|[Journal entries](https://about.gitlab.com/handbook/finance/accounting/#recording-of-journal-entries)|C.33 and C.35
-|4|[Financial Planning and Analysis](https://about.gitlab.com/handbook/finance/accounting/#financial-planning-and-analysis-fpa)|C.17
-|5|[Reconciliations](https://about.gitlab.com/handbook/finance/accounting/#balance-sheet-reconciliation)|C.10 and C.11
-|6|[Period End closure](https://about.gitlab.com/handbook/finance/accounting/#period-end-closure-and-reporting)|C.06, C.07, C.08, C.09, C.12, C.13, C.14, C.15, C.16, C.18. C.19, C.20, C.21, C.32 and C.34
-|7|[Treasury](https://about.gitlab.com/handbook/finance/accounting/#policy-on-treasury-activities)|C.27, C.28, C.29, C.30 and C.31
-|8|[Financial Reporting](https://about.gitlab.com/handbook/finance/accounting/#reporting-1)|C.22, C.23, C.24, C.25 and C.26
 
 ## 6. Disclosure Committee
  [Link](https://about.gitlab.com/handbook/internal-audit/sarbanes-oxley/#disclosure-committee-charter-effective-2019-10-17)
