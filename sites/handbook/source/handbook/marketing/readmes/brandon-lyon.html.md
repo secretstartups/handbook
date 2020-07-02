@@ -26,14 +26,13 @@ Hi 👋 my name is Brandon Lyon. I'm a marketing web developer and designer at G
 
 ## About Me
 
-- 🤙 I'm born and raised on the West Coast.
-- 🏄 I've travelled the world but California is the only place that feels like home.
 - ❤️ I love design and development.
-- 📖 I'm a lifelong learner who values knowledge.
-- 🍸 Coffee, gin, or wine please. I'm not much of a beer person.
+- 🏄 I've travelled the world but California is the only place that feels like home. Yay wine country and beaches!
+- 📖 I value knowledge.
+- 🍸 Coffee, wine, gin, or tea please. I'm not much of a beer person.
 - 🕹️ Video games take up most of my spare time.
-- 🥏 Sports aren't my thing but I do disc golf.
-- 🌲🐈 I'm a plant and animal person.
+- 🥏 Sports aren't my thing but I do play disc golf.
+- 🌲🐈 I love plants and animals.
 
 ### Myers-Briggs Personality type:
 
@@ -54,21 +53,21 @@ Hi 👋 my name is Brandon Lyon. I'm a marketing web developer and designer at G
 
 ## How I think
 
-- Clarity of communication is paramount, especially when context is insufficient.
-- **Who, what, when, where, and why?** Sometimes how (although I prefer to leave how open-ended).
+- I operate in a judgement-free zone.
+- I want you to feel comfortable around me. Please let me know if there is any way I can improve.
 - The phrase "intent vs impact" is of high importance to me.
 - I prefer the frank and direct approach and won't take it personally. Decades of design reviews have hardened me.
 - ^ I understand and empathize that not everyone else feels that way.
+- Clarity of communication is paramount.
+- **Who, what, when, where, and why?** Sometimes how (although I prefer to leave how open-ended).
 - Please help me document things! I document everything because I have a good short term memory but a terrible long term memory.
-- I prefer planning before a task rather than adapting on the fly. Measure twice cut once.
-- Long term thinking is preferable vs. short term.
-- I plan projects knowing that chaos will happen and I try to expect the unexpected.
-- I'm somewhere in-between introvert and extrovert. People are exhausting but I also prefer hanging out to being alone.
+- I prefer planning before starting a task rather than adapting on the fly. Measure twice cut once.
+- Long term thinking is preferable vs. short term thinking.
 - I value self-sufficiency.
-- I operate in a judgement-free zone.
-- I want you to feel comfortable around me. Please let me know if there is any way I can improve.
-- I like to live in the moment. Don't dwell on the past. Tomorrow might never come. Plan assuming both that it will and it won't.
-- My background in architecture adds a unique behavioral psychology element to my designs. You can create a sidewalk but people are still going to walk on the grass instead.
+- I plan projects knowing that entropy & chaos will happen. I try to expect the unexpected.
+- I'm somewhere in-between introvert and extrovert. Interacting with people can be exhausting but it's also enjoyable.
+- My background in architecture adds a unique behavioral psychology element to my designs. You can create a sidewalk but people are still going to walk on the grass instead. The same logic applies to website design.
+- I like to live in the moment. Don't dwell on the past. Make plans assuming that tomorrow might or might not happen.
 
 ## What I do
 
@@ -104,7 +103,7 @@ There are only so many hours in a week. If you add something to my sprint, then 
 
 ### Communication
 
-I tend to start the first day of the week by answering issues and only answer issues that day. If you don't hear from me on an issue until next week, that's why. It helps me focus on accomplishing planned tasks. If you need to contact me urgently then you might want to try Slack. That said, I tend to turn off Slack during the second half of the day. This also helps me focus on work that needs to get done.
+I try to limit my interactions with issue threads to one day per week. If you don't hear from me on an issue until next week, that's why. It helps me focus on accomplishing planned tasks. If you need to contact me urgently then you might want to try Slack. That said, I tend to turn off Slack during the second half of the day. This also helps me focus on work that needs to get done.
 
 ## Conclusion
 
