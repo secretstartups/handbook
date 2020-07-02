@@ -16,7 +16,7 @@ This page covers the factors to consider for customer health, guidelines for sel
 
 ### Customer Health Categories and Risks
 
-The following guideline will provide Technical Account Managers (TAMs) guidance to choose the right health assessment for her/his customer account. Health considers both delivery of value and outcomes to customers and business impact to GitLab. The following are the categories to assess and associated risks with each.
+The following guideline will provide Technical Account Managers (TAMs) guidance to choose the right health assessment for their customer account. Health considers both delivery of value and outcomes to customers and business impact to GitLab. The following are the categories to assess and associated risks with each.
 
 1. **Product adoption and utilization**: There is a delayed, low or materially reduced usage (i.e., drop in usage) as measured by license consumption, features / use cases, product version (i.e., not adopting current versions - self-managed only), and/or GitLab stages. Value and outcome delivery to the customer misses expectations as defined by the customer. This may also be impacted by way the customer is using the product (i.e., processes, operations and/or policies) where the customer may not be leveraging GitLab best practices to maximize the value of the solution.
 2. **Product experience**: Customer has enhancements or defect fixes that are necessary for a customer and have not been delivered. The risk is determined according to the criticality of the request, severity of the issues, and/or number of enhancements and defects. Missed expectations for feature release can also impact product experience.
