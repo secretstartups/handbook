@@ -153,6 +153,8 @@ _Important: The DRI for the Group Conversation also has hosting rights. Zoom wil
 
 - As the Host, when hearing the automated "This meeting is being recorded", please note that you can start talking immediately and do not need to wait for the automated message to complete. 
 
+- **In the event that the conversation is being recorded, it is important that the Moderator still announces whether the recording is public or private.** 
+
 7. Post a 5 and 2 minute warning within the zoom chat. This will help keep everyone aware of the time and to stay on track. 
 8. At time, it is encouraged to annouce that we are at time and to thank everyone for their time and collaboration. Allow the speakers to conclude the meeting. 
 9. End the Zoom meeting by clicking 'End Meeting' and then 'End Meeting for All'. 
