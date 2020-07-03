@@ -1004,6 +1004,16 @@ The alphabetically sorted starter list below spotlights a few of GitLab's [many 
 | `#travel` | A place to discuss all things [travel](/company/culture/all-remote/people/#travelers)! |
 | `#women` | Employee resource group for members and allies. |
 
+### Slackbots 
+We have a few slackbots to help us with frequently asked questions and other slackbot's that directly help us to remain inclusive in our language and align closely with our [Diversity, Inclusion and Belonging Value](https://about.gitlab.com/handbook/values/#diversity-inclusion).
+The following list is reflective of the onces we use for Diversity, Inclusion and Belonging and the suggested changes to use. We iterate on this list, as a GitLab Team Member, to view active slackbots that we use, kindly view them in Slack, under: GitLab > Customize Your Workspace > Slackbot. 
+
+| `you guys` | Are you including people of multiple genders? Please consider using "everyone," "team," "y'all," or similar instead. You can read more about inclusive language in our handbook: https://about.gitlab.com/handbook/general-guidelines/#behavior-and-language |
+| `hey guys, hi guys, you guys, salesman, salesmen, businessman, businessmen` | Are you including people of multiple genders? Please consider using "everyone," "team," "y'all," or similar instead. You can read more about inclusive language in our handbook: https://about.gitlab.com/handbook/general-guidelines/#behavior-and-language |
+| `on your toes, on anybody's toes` | It's probably okay. \nAs companies grow, their speed of decision making goes down since there are more people involved. We should counteract that by having short toes and feel comfortable letting others contribute to our domain.\nhttps://about.gitlab.com/handbook/values/#short-toes |
+| `aggressive` | Did you mean ambitious? |
+| `gitlabber, gitlabbers` | The term `gitlabber` is a commonly misused term. Please use "GitLab team member" instead. You can read more about this in our handbook: https://about.gitlab.com/handbook/communication/#top-misused-terms |
+
 ### Why are we upgraded to the Plus tier?
 
 We upgraded tiers to improve efficiency and security with the ability to use Okta to login into Slack. This will help us scale by improving provisioning and deprovisioning of our corporate systems. This upgrade will also allow us to improve the auditing requirements where identity management is in scope. The Plus tier also includes announcement only channels, 99.99% guaranteed up time, 24x7 support with guaranteed response in four hours or less, and the ability of [Corporate Export.](https://slack.com/help/articles/204897248)
