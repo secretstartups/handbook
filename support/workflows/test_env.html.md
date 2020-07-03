@@ -49,8 +49,7 @@ The resources that are created in these environments are:
 
 There's 2 stages to approach creating your Ephemeral Testing instances. The first stage is to provision the infrastructure (in either GCP, DO, AWS, Azure, Okta) followed by the second stage where our products are deployed to the servers. 
 
-NOTE: **Note:**
-Please be aware that we don't have access to the DO console and we are moving away from DO and focusing on using GCP as our cloud provider. Also we are transitioning from using the [dev-resources](https://gitlab.com/gitlab-com/dev-resources/blob/master/dev-resources/README.md) project in favor of [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md).
+**Note:** Please be aware that we don't have access to the DO console and we are moving away from DO and focusing on using GCP as our cloud provider. Also we are transitioning from using the [dev-resources](https://gitlab.com/gitlab-com/dev-resources/blob/master/dev-resources/README.md) project in favor of [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md).
 
 ### GCP Testing Environment
 
