@@ -47,7 +47,7 @@ Please see the [PR handbook](/handbook/marketing/corporate-marketing/#requests-f
 
 ### 📝 If you want to write about something else
 
-If your proposed post doesn't meet the [criteria for an announcement](#-if-you-want-to-share-news-or-an-update-or-are-seeking-feedback), please [follow the instructions below to pitch your idea to the Editorial team](#how-to-pitch-a-blog-post). This process is intended to ensure the Editorial team is spending the bulk of their time working on posts that get results and align with the goals for the blog.
+If your proposed post doesn't meet the [criteria for an announcement](#-if-you-want-to-share-newsan-update-or-are-seeking-feedback), please [follow the instructions below to pitch your idea to the Editorial team](#how-to-pitch-a-blog-post). This process is intended to ensure the Editorial team is spending the bulk of their time working on posts that get results and align with the goals for the blog.
 
 ### If you don't want to pitch your post
 
