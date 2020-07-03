@@ -278,8 +278,9 @@ The following labels are used to track the incident lifecyle from active inciden
 | `~Incident::Active` | Indicates that the incident labeled is active and ongoing. |
 | `~Incident::Mitigated` | Indicates that the incident has been mitigated, but immediate post-incident activity may be ongoing (monitoring, messaging, etc.) |
 | `~Incident::Resolved` | Indicates that SRE engagement with the incident has ended and GitLab.com is fully operational. |
-| `~Incident::Review-Scheduled` | Indicates that an incident review writeup is required (S1/S2) or requested and that the review has been added to the agenda for an upcoming review meeting. |
-| `~Incident::Review-Completed` | Indicates that an incident review writeup has been completed (the review was discussed in a review meeting and all notes from that meeting have been added to the review write-up). |
+| `~Incident::Review-in-Progress`  | Indicates that an incident met the threshold for requiring a review (S1/S2) or the IMOC or EOC for the incident chose to include a review (S3/S4) for the purposes of deriving and creating needed corrective actions. |
+| `~Incident::Review-Scheduled`   | Indicates that the incident review has been added to the agenda for an upcoming review meeting. |
+| `~Incident::Review-Completed`   | Indicates that an incident review writeup has been completed (the review was discussed in a review meeting and all notes from that meeting have been added to the review write-up). |
 
 [Labels](https://gitlab.com/gitlab-com/gl-infra/production/-/labels?utf8=%E2%9C%93&subscribed=&search=Incident%3A%3A)
 
