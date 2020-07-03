@@ -127,6 +127,15 @@ GitLab team-members must obtain the appropriate approvals from other departments
 
 - Note: If your vendor has a signature tool they would like to use and all approvals have been received in the contract issue, request that the vendor send the final contract version with the legal stamp for signature and also include the issue link. This will avoid delays in signature.
 
+>### Vendor Contract Access Request
+
+Similar to our Access Request process for team members, we have an access request process for consultants or professional services providers. If the vendor you are working with requires access to systems to complete work, create a Vendor Access Request. Include [**only systems that are necessary**](https://about.gitlab.com/handbook/engineering/security/Access-Management-Policy.html#access-management) to the work that the vendor will be performing. 
+
+Use this [access request template](https://gitlab.com/gitlab-com/contingent-workers/lifecycle/-/issues/new?issuable_template=access-request) and assign it to yourself and the relevant provisioner(s) for the tools that the professional services provider requires access to.
+
+Create an [orientation issue](https://gitlab.com/gitlab-com/contingent-workers/lifecycle/-/issues/new?issuable_template=orientation-issue) if the professional services provider wants support through the set up of the most common tools used at GitLab. Assign to yourself and the professional services provider if they have a GitLab account with the required access.
+
+
 >### Payment
 1. Vendors will be required to create an account within Tipalti in order to receive payment
 1. For complete details on how to obtain payment, please visit Accounting's [Procure to Pay](/handbook/finance/accounting/#procure-to-pay) page.
