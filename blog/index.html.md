@@ -25,17 +25,11 @@ The [GitLab blog](/blog) is managed by [@rebecca](https://gitlab.com/rebecca) th
 
 ## Publishing process
 
-If you'd like to write about something for the GitLab blog, please follow the instructions below to pitch your idea to the Editorial team. This process is intended to ensure the Editorial team is spending the bulk of their time working on posts that get results and align with the goals for the blog.
+If you'd like to write about something for the GitLab blog, please use the guide below to decide which process to follow:
 
-If you prefer, you can submit a complete blog post to the [GitLab Unfiltered blog](/handbook/marketing/blog/unfiltered/) without pitching first. The [Unfiltered blog is monitored weekly for posts to feature](/handbook/marketing/corporate-marketing/content/editorial-team/#featuring-unfiltered-posts) on the main blog. Unfiltered posts are not shared on GitLab's official social media handles.
+### 📣 If you want to share news/an update or are seeking feedback 
 
-**Why do we use a pitching process?** Many people throughout GitLab the company and community contribute to the blog. Our pitching process ensures we can prioritize submissions so we don't overwhelm our audience with too much content at once, and to help our contributors craft their ideas in a way that will get views. After reviewing years of data, we know what type of content is likely to get views and what is unlikely to resonate. We want to help every contributor maximize the impact of their contribution.
-
-Data shows that more blog posts does not equal more views. In fact, too much content can have a negative impact on our traffic. The pitching process allows us to review each article and schedule it at the most appropriate time. We've found that publishing ~3 articles per week is the most effective publishing cadence for the GitLab blog.
-
-### How to pitch a blog post
-
-Before pitching a blog post, if you are a GitLab team member and your proposed blog post includes any of the following:
+If your proposed blog post includes any of the following:
 
 - A new product feature and capabilities
 - A partner integration 
@@ -47,14 +41,33 @@ Before pitching a blog post, if you are a GitLab team member and your proposed b
 - A deprecation
 - A change in policy or pricing 
 - A product promotion (launching or ending)
+- A request for feedback from customers or our community
 
-Please submit a request via an `announcement` issue template in the [Corporate Marketing project](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues), as outlined in the [PR handbook](/handbook/marketing/corporate-marketing/#requests-for-announcements). This is to ensure we have an opportunity to identify the best channel to share your news before starting work on a draft.
+Please see the [PR handbook](/handbook/marketing/corporate-marketing/#requests-for-announcements) for instructions on submitting a request via an `announcement` issue template in the [Corporate Marketing project](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues). This is to ensure we have an opportunity to identify the best channel to share your news before starting work on a blog post draft.
 
-**If the above does not apply to your blog post idea**, please open an issue in the [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues) project, using the `Blog post` template. Include a short summary of your proposed blog post where indicated, and add the `Blog::Pitch` label to ensure your pitch is triaged. Unless your post is urgent, there is no need to ping the Editorial team as pitches with that label are reviewed weekly. 
+### 📝 If you want to write about something else
+
+If your proposed post doesn't meet the [criteria for an announcement](#-if-you-want-to-share-news-or-an-update-or-are-seeking-feedback), please [follow the instructions below to pitch your idea to the Editorial team](#how-to-pitch-a-blog-post). This process is intended to ensure the Editorial team is spending the bulk of their time working on posts that get results and align with the goals for the blog.
+
+### If you don't want to pitch your post
+
+If you prefer, you can submit a complete blog post to the [GitLab Unfiltered blog](/handbook/marketing/blog/unfiltered/) without pitching first. The [Unfiltered blog is monitored weekly for posts to feature](/handbook/marketing/corporate-marketing/content/editorial-team/#featuring-unfiltered-posts) on the main blog. Unfiltered posts are not shared on GitLab's official social media handles.
+
+## How to pitch a blog post
+
+Please open an issue in the [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=blog-post) using the `Blog post` template. Include a short summary of your proposed blog post where indicated, and add the `Blog::Pitch` label to ensure your pitch is triaged. Unless your post is urgent, there is no need to ping the Editorial team as pitches with that label are reviewed weekly. 
 
 If you hope to publish on a specific date or within a specific timeframe, please allow at least three weeks' lead time from the date you open your issue and ping `@rebecca` immediately, as the [Editorial calendar](/handbook/marketing/growth-marketing/content/editorial-team/#blog-calendar) fills up quickly and we cannot guarantee there will be a slot for your post without adequate notice. Please give a rationale for your proposed publish date in the issue description so the team can prioritize accordingly.
 
+If you prefer, you can start drafting your blog post right away, before getting approval. All this means is that you may need to edit your post based on feedback from the Editorial team, or publish directly to [Unfiltered](/handbook/marketing/blog/unfiltered/) instead. If you're not concerned about whether you publish on the main blog or Unfiltered, this may suit you. 
+
 If you do not intend to write the post yourself but are just suggesting an idea you think would be worth pursuing, please make this clear in your issue description.
+
+### Why do we use a pitching process?
+
+Many people throughout GitLab the company and community contribute to the blog. Our pitching process ensures we can prioritize submissions so we don't overwhelm our audience with too much content at once, and to help our contributors craft their ideas in a way that will get views. After reviewing years of data, we know what type of content is likely to get views and what is unlikely to resonate. We want to help every contributor maximize the impact of their contribution.
+
+Data shows that more blog posts does not equal more views. In fact, too much content can have a negative impact on our traffic. The pitching process allows us to review each article and schedule it at the most appropriate time. We've found that publishing ~3 articles per week is the most effective publishing cadence for the GitLab blog.
 
 **If you don't want to pitch a blog post, but would rather publish directly to the GitLab Unfiltered blog, please visit the [Unfiltered blog handbook](/handbook/marketing/blog/unfiltered/) to get started.**
 
@@ -63,12 +76,6 @@ Note: All blog posts related to the Board must be reviewed by legal prior to pub
 
 Note: If you're planning to write a tutorial post describing how to do something with GitLab, please ensure that the relevant [documentation](https://docs.gitlab.com/) exists _first_ before you write a blog post about it. A blog post should not replace documentation, but should add more information, context, and color around a technical subject, linking back to the documentation for full instructions.
 {: .alert .alert-info .note}
-
-### Triage of pitches
-
-The Editorial team will review issues with the label `Blog::Pitch` every Monday, and a team member will respond on your issue to let you know whether to move forward with your draft.
-
-If your pitch isn't accepted, no problem! The Editorial team will suggest that you submit your post to the [GitLab Unfiltered blog](/handbook/marketing/blog/unfiltered/) instead. The [Unfiltered blog is monitored weekly for posts to feature](/handbook/marketing/corporate-marketing/content/editorial-team/#featuring-unfiltered-posts) on the main blog.
 
 ### How to get your blog post pitch accepted
 
@@ -97,9 +104,15 @@ Below are links to blog post proposals that demonstrate the value the post will 
 - [How to avoid broken master with Pipelines for merged results and Merge Train](https://gitlab.com/gitlab-com/www-gitlab-com/issues/4786)
 - [Git performance on NFS](https://gitlab.com/gitlab-com/www-gitlab-com/issues/4653)
 
+### Triage of pitches
+
+The Editorial team will review issues with the label `Blog::Pitch` every Monday, and a team member will respond on your issue to let you know whether to move forward with your draft.
+
+If your pitch isn't accepted, no problem! The Editorial team will suggest that you submit your post to the [GitLab Unfiltered blog](/handbook/marketing/blog/unfiltered/) instead. The [Unfiltered blog is monitored weekly for posts to feature](/handbook/marketing/corporate-marketing/content/editorial-team/#featuring-unfiltered-posts) on the main blog.
+
 ### If your pitch is accepted
 
-1. Feel free to start your draft using this [blog post template](https://docs.google.com/document/d/1TavHlYbHQ8U1C82TEzcYaLS9l0sm89jEcBNQ0gBgkcw/edit) which has all the relevant information already embedded. Then see the [formatting guidelines](#formatting-guidelines) for help with creating and formatting your blog post MR.
+1. If you haven't already, feel free to start your draft using this [blog post template](https://docs.google.com/document/d/1TavHlYbHQ8U1C82TEzcYaLS9l0sm89jEcBNQ0gBgkcw/edit) which has all the relevant information already embedded. Then see the [formatting guidelines](#formatting-guidelines) for help with creating and formatting your blog post MR.
 1. Use the `Blog post` merge request template for your MR and ensure it is set to close the associated issue automatically.
 1. Assign the issue and associated merge request to yourself and apply the appropriate labels based on what stage of creation you are on. Once it's ready for editorial review, assign both to @rebecca. She will assign a member of the Editorial team to review the post.
 
@@ -107,18 +120,6 @@ Note for the Content team: If your blog post is already scheduled and appears on
 {: .alert .alert-info .note}
 
 Blog post ideas and proposals for [Content Hack Day](/handbook/marketing/corporate-marketing/content/content-hack-day/) should be created in the [Content Hack Day project](https://gitlab.com/gitlab-com/content-hack-day). We keep these issues in a separate project because not all ideas and proposals that come from Hack Day will be worked on.
-
-## Time-sensitive posts: Official announcements, company updates, breaking changes, and news
-
-Before you open an issue for making an official announcement or sharing a company update or other news on the blog, please see the [PR handbook](/handbook/marketing/corporate-marketing/#requests-for-announcements) regarding announcements. In some cases we may communicate the announcement via channels other than the blog.
-
-If the Corporate Communications team decides that we will go ahead with a blog post, please follow [the process outlined below](/handbook/marketing/blog/#process-for-time-sensitive-posts).
-
-### Joint announcements
-
-Joint announcements with partners or other third parties should first be [proposed to the Corporate Communications team](/handbook/marketing/corporate-marketing/#requests-for-announcements) ahead of writing to maximize impact and ensure alignment across teams. They will decide whether we issue a press release, blog post, or communicate via other channels. If they decide to move forward with a blog post, please follow the instructions to [pitch the blog post idea](/handbook/marketing/blog/#how-to-pitch-a-blog-post) to the Editorial team.
-
-If we are doing a joint announcement with another company, the announcement post should appear on one party's site, to maximize impact. If both parties wish to publish a blog post about an announcement, the posts should be original and each take a unique angle, offering something new and valuable to the reader. In some cases this may mean a post takes more time to be researched, written, and reviewed, which may necessitate publishing shortly after the official announcement, if planning further ahead is not possible. Posts tend to get more traffic with this approach, rather than publishing and promoting duplicate posts on two blogs, or rushing to get a straightforward announcement out.
 
 ### Process for time-sensitive posts
 
@@ -206,6 +207,12 @@ When the merge request has been reviewed by the Editorial team, please assign th
 We should not proceed to publish the blog post until the partner manager has received the feedback and/or has received acknowledgment from the partner that they have read the draft within the 48-hour window. If we need to escalate within the Alliance team, @bjung is the highest escalation point within that team.
 
 **It should be noted that this is a courtesy review of the content, not a formal approval from our partner to publish the post. It should ultimately be GitLab's decision if to go live with the post or not.**
+
+### Joint announcements
+
+Joint announcements with partners or other third parties should first be [proposed to the Corporate Communications team](/handbook/marketing/corporate-marketing/#requests-for-announcements) ahead of writing to maximize impact and ensure alignment across teams. They will decide whether we issue a press release, blog post, or communicate via other channels. If they decide to move forward with a blog post, please follow the instructions [for time-sensitive blog posts](#process-for-time-sensitive-posts).
+
+If we are doing a joint announcement with another company, the announcement post should appear on one party's site, to maximize impact. If both parties wish to publish a blog post about an announcement, the posts should be original and each take a unique angle, offering something new and valuable to the reader. In some cases this may mean a post takes more time to be researched, written, and reviewed, which may necessitate publishing shortly after the official announcement, if planning further ahead is not possible. Posts tend to get more traffic with this approach, rather than publishing and promoting duplicate posts on two blogs, or rushing to get a straightforward announcement out.
 
 ### Guest posts by GitLab partners
 
