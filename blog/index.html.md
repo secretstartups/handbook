@@ -123,7 +123,9 @@ Blog post ideas and proposals for [Content Hack Day](/handbook/marketing/corpora
 
 ### Process for time-sensitive posts
 
-If you have followed the directions in the [PR handbook](/handbook/marketing/corporate-marketing/#requests-for-announcements) and the Corporate Communications team has decided that a blog post is the best way to communicate your announcement, please follow the process below.
+First, please see [If you want to share news/an update or are seeking feedback](#-if-you-want-to-share-newsan-update-or-are-seeking-feedback) to check if you need to open an announcement request issue. 
+
+If you have already followed those directions in the [PR handbook](/handbook/marketing/corporate-marketing/#requests-for-announcements) and the Corporate Communications and Editorial teams have decided that a blog post is the best way to communicate your announcement, please follow the process below.
 
 1. Start by opening an issue in the [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues) project, using the `Blog post` template and applying the `priority` label. **Even if you do not have a draft or a confirmed publish date, it's important to open the issue as far in advance as possible and ping @rebecca so she knows it is coming and can prioritize accordingly.**
 1. The issue title should reflect the date on which you expect to publish.
