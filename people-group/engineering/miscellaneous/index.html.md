@@ -38,3 +38,32 @@ the following in a CSV file:
 
 This CSV file is then uploaded to a S3 bucket that is maintained by Modern Health. They process the file
 so the team members can have access to Modern Health
+
+## CI Job Families Inclusivenes Check
+Whenever a merge request is created on the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/) project, we run a pipeline that checks for 
+inclusive language in the job families. We use an open source [Ruby gem](https://gitlab.com/gitlab-com/www-gitlab-com/) to perform this check.
+
+Currently that library covers:
+- the usage of masculine vs feminine-coded language 
+- the usage of gendered pronouns
+- misusued words
+- fixed vs growth mindset
+
+The following results lead to failure of the pipeline:
+- High usage of masculine-coded language: this means the job family is using more masculine-coded words than feminine-coded words. 
+  This could lead to fewer applicants from diverse groups. 
+- Usage of any misused words as this could excluded diverse groups
+- High usage of fixed-coded language: this means the job family is using more fixed-coded words than growth-coded. Again, this could lead to fewer applicants from a diverse group
+- Usage of gendered pronouns: we want to be inclusive to all
+
+If your job family fails but the wording used is valid, you can add your file to a list to be skipped. This file can be found on the same project [here](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/inclusiveness_check.yml).
+
+In the following video Lien Van Den Steen, People Ops Engineer talked with Kelly Murdock, Senior Recruiter how they can audit job families. The following is discussed:
+- what is checked 
+- how to audit job families that are currently on the `skipped` list
+- how to interpret these results
+- what results should we aim for
+
+<figure class='video_container'>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/0ZIfDU0l2sU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
