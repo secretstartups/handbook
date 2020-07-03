@@ -1,4 +1,4 @@
----
+ ---
 layout: handbook-page-toc
 title: "GitLab Communication"
 extra_js:
@@ -1089,7 +1089,7 @@ The recommended defaults when sharing a document for GitLab internal purposes is
 
 ## Zoom
 
-GitLab uses [Zoom](https://zoom.us/) for video communications.
+GitLab uses [Zoom](https://zoom.us/) for internal and external video communications. Some of our customers and partners have different preferred tools and to facilitate the communication with those parties, GitLab supports WebEx and MS Teams. However, the use of these tools needs to be approved by the IT department and should only be used when an external party requests it. 
 
 ### Usage guidelines
 
