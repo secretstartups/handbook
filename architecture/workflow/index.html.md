@@ -163,7 +163,7 @@ channel as per [cross-functional
 collaboration](/handbook/engineering/development/#cross-functional-collaboration).
 
 Then author of the issue loops an Architecture Evolution Coach and a Domain
-Expert in and they collaborate together to create a blueprint merge request.
+Expert then collaborate together to create a blueprint merge request.
 Collaboration between the coaches and a person who had an idea ensures that
 only proposals that that are achievable get described in a blueprint merge
 request. This makes it also easier to avoid the cost of iterating on the
