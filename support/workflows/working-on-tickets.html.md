@@ -100,7 +100,7 @@ See the [Working on Tickets Flowchart](#working-on-tickets-flowchart) for a visu
 
 1. **How many tickets should I have assigned to me?** There's no specific number. Aim to take as many tickets as you can while being sure that you can give good attention to each of them daily (unless they’re on hold). You might expect that to be somewhere between three and ten open, pending or on-hold tickets in your [My Assigned Tickets](https://gitlab.zendesk.com/agent/filters/360062369834) view.
 1. **Isn't it the FRT Hawk's responsibility to give the first response on a
-   ticket, not mine?** New tickets are everyone's responsibility, not just the
+   ticket, not mine?** In the past, FRT Hawks were responsible for new tickets. We've evolved our approach so that now new tickets are everyone's responsibility, not just the
    FRT Hawk's. The FRT Hawk's job is **not** to provide the first
    response on every new ticket, but rather to provide that first response when
    nobody else has been able to take the ticket in time to meet SLA.
