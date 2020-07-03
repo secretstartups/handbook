@@ -250,9 +250,9 @@ Refer to this original answer on [Askubuntu](http://askubuntu.com/a/13364/12242)
 
 ### Webex
 
-If people want to use Webex instead of Zoom consider installing their [native app](https://www.webex.com/downloads.html).
-Before attending a Webex meeting you can test to ensure your Webex is setup correctly by joining a [test meeting](https://www.webex.com/test-meeting.html).
-With the in-browser plugin the screen sharing sometimes doesn't work.
+GitLab uses [Zoom](https://zoom.us/) for internal and external video communications. Some of our customers and partners have different preferred tools and to facilitate the communication with those parties, GitLab supports WebEx. If you need to use Webex instead of Zoom consider installing their [native app](https://www.webex.com/downloads.html). 
+
+Before attending a Webex meeting you can test to ensure your Webex is setup correctly by joining a [test meeting](https://www.webex.com/test-meeting.html). With the in-browser plugin the screen sharing sometimes doesn't work.
 
 ### Whereby
 
