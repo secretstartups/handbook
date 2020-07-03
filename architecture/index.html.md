@@ -13,7 +13,7 @@ As GitLab grows, through the introduction of new features and improvements on ex
 
 Martin Fowler's [Software Architeture Guide](https://martinfowler.com/architecture/) provides an excellent discussion on the notion of **Architecture**, and there is much to be learned from this and other sources. The question before us is, then, how to contextualize those learnings.
 
-Much like the rest of the software world, we have been wary of all the negative baggage that *Architecture* implies, particularly as some of that baggage would seemingly fly in the face of our values. Thus why we have taken the time to carefully consider what Architecture means for us, and how to implement it in alignment with our values and at the scale that both the product and the company demand.
+Much like the rest of the software world, we have been wary of all the negative baggage that *Architecture* implies, particularly as some of that baggage would seemingly fly in the face of our values. This is why we have taken the time to carefully consider what Architecture means for us, and how to implement it in alignment with our values and at the scale that both the product and the company demand.
 
 We have intuitively known that, at GitLab, Architecture is not a role proper (i.e., no such title exists in the company). We understand Architecture as a component of all technical roles, a set of practices to leverage the vast amount of experience distributed across the company, and a workflow to ensure we can continue to scale efficiently.
 
