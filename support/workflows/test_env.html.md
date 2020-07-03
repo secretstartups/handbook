@@ -63,7 +63,7 @@ You should have access to this as a baseline entitlement. If you do not, please 
 
 **Note:** you may also have access to the `gitlab-internal` GCP project. You should **not** create resources in this project.
 
-You should also have access to the `support-resources` project and be able to use [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) as a means of spinning up complex resources in a convenient and programmatic way. With this project you are able to directly Gitlab and Runner instances as well as regular Basic server instances (for which you can follow the steps in [Creating Gitlab Test Instance](/handbook/support/workflows/test_env.html#creating-gitlab-test-instance) to continue to install Gitlab).
+You should also have access to the `support-resources` project and be able to use [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) as a means of spinning up complex resources in a convenient and programmatic way. With this project you are able to directly GitLab and Runner instances as well as regular Basic server instances (for which you can follow the steps in [Creating GitLab Test Instance](/handbook/support/workflows/test_env.html#creating-gitlab-test-instance) to continue to install GitLab).
 
 #### GKE Cluster
 
