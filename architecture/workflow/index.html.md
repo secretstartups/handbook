@@ -198,7 +198,7 @@ project, but it only describes the 1-year landscape. It is not precise enough
 to reason about how to get it done, how to iterate wisely to get the most of
 this work.
 
-People that got involved into the discussion in the blueprint merge request
+Those who have been involved in the discussion in the blueprint merge request
 collaborate together to extend it with a 3-months landscape. More Domain
 Experts get involved if necessary. The result of this collaboration could be
 a description of three first iterations that can be done in a one milestone each.
