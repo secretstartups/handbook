@@ -38,7 +38,7 @@ Please see [our guide on giving feedback](/handbook/people-group/guidance-on-fee
 1. Paint a picture of how things could look in a couple of years.
 1. Share best practices you've noticed.
 
-## Details
+## Hallway
 
 1. Every item on the details starts with exactly one tag, the tag can come from one of four categories:
     1. Timing
