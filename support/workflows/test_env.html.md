@@ -10,6 +10,22 @@ category: Infrastructure for troubleshooting
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Selecting the Right Testing Environment
+
+Support Engineer's need testing environments to learn how to support GitLab and also to replicate customer issues.
+
+This page explains the main choices available to you. Some guidelines:
+
+1. You should choose a way to spin up a specific version of GitLab quickly so that you can replicate customer issues. The current recommended way to do this is to use [Support Resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md)
+1. Testing locally is also recommended - configure a Docker / VM based system (details below) to your taste the lets you quickly spin up a specific GitLab version.
+1. You will need licenses for all self-managed tiers so you can match the features available with your customer's features - see the next section.
+1. For most testing, a single box Omnibus installation will be fine.
+1. If you need a more complex environment (e.g. with a runner configured) [support resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) can help you.
+1. For K8s Helm installations, we recommend using GKE - see the section below.
+1. If you need to replicate specific cloud provider environments (e.g. for a scaled architecture), see the sections on GCP, AWS and Azure below.
+
+Have fun!
+
 ## Testing Environment License
 
 For a test license you can log into the license app with your GitLab login. You can use one of the [shared licenses](https://license.gitlab.com/licenses/1449) or if you need special add-ons, such as geo, you can generate a new one.
@@ -40,12 +56,14 @@ Please be aware that we don't have access to the DO console and we are moving aw
 
 Login to [GCP console](https://console.cloud.google.com/) using your GitLab Google account credentials.
 
-For a GCP Testing environment, you should have access to the `gitlab-support` project as a baseline entitlement.
-If you do not, please create an access request and tag your manager.
+You can use [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) to automatically spin up resources. They will appear in the `support-resources` GCP project. All Support Engineers should have access to this project.
+
+If you need to manually create resources in a GCP Testing environment, please use the `gitlab-support` project. 
+You should have access to this as a baseline entitlement. If you do not, please create an access request and tag your manager.
+
+**Note:** you may also have access to the `gitlab-internal` GCP project. You should **not** create resources in this project.
 
 You should also have access to the `support-resources` project and be able to use [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) as a means of spinning up complex resources in a convenient and programmatic way. With this project you are able to directly Gitlab and Runner instances as well as regular Basic server instances (for which you can follow the steps in [Creating Gitlab Test Instance](/handbook/support/workflows/test_env.html#creating-gitlab-test-instance) to continue to install Gitlab).
-
-You can also use [dev-resources](https://gitlab.com/gitlab-com/dev-resources/blob/master/dev-resources/README.md) to spin up resources on GCP, but you will not have console access to those resources. (the project is now considered legacy and we will be moving away from it).
 
 #### GKE Cluster
 
@@ -70,6 +88,8 @@ Specifically for *Group* SAML/SCIM (GitLab.com) testing, shared account credenti
 For SAML/SCIM testing, please open an access request for GitLab's Okta Preview instance with `admin` role and ability to add *Applications*.
 
 ### Digital Ocean and Docker Testing Environment
+
+**Note:** DO and dev-resources are being deprecated in favor of [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md)
 
 For a Digital Ocean droplets [follow this guide](https://gitlab.com/gitlab-com/dev-resources/blob/master/dev-resources/README.md).
 Once you've  created your resource you can follow the section named [Creating GitLab test instance](/handbook/support/workflows/test_env.html#creating-gitlab-test-instance) (though do keep in mind that we are moving away from this project).
