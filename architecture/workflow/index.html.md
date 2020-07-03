@@ -252,7 +252,7 @@ the work.
 
 DRIs can decide to form a [Working
 Group](/company/team/structure/working-groups/) to structure the efforts
-related to the architecture change better, but whether a Working Group should
+related to the architecture change. Key considerations in deciding to form a Working Group are
 be formed or not depends on the size of the change and if forming a Working
 Group actually makes sense in this particular case.
 
