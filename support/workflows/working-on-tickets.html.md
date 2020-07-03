@@ -197,6 +197,47 @@ If another engineer is looking at a ticket that you’re interested in working o
    that you've stopped the SLA clock, so it's up to you to respond on time. **Do
    not take this action if you are not planning to be the one to follow up.**
 
+### A ticket is close to breaching SLA. Should I help or defer to the assignee?
+
+When you're helping the SLA Hawk to prevent tickets from breaching you need to
+make a judgement call on what the best action is for the user.
+
+**Usually** you will take next steps to move the ticket forward and reply with a
+helpful response even if the ticket is assigned to someone else and originates
+in another region.
+
+**Occasionally** it's more helpful to let the user know that the assignee will
+get back to them soon. **When would you do this?** There are no hard rules but
+consider things like:
+
+1. Are you unclear about the next step because you don't have
+   full context and it's not a problem with which you're familiar?
+1. Is the customer being severely impacted by the problem?
+1. Is the customer clearly in another region?
+   (check the 'Events' view in Zendesk and see where they're
+   located - shown at the bottom of all their replies)
+1. Is the assignee out of office today / tomorrow?
+
+If you choose to do this, make sure the ticket already has an assignee and send
+a public reply letting them know that:
+
+> Bob will be back in touch with you later today with an update. Let us know if you need assistance before then.
+
+If the ticket has no preferred region set (the field is blank due to the user
+submitting the ticket by email) you could also ask:
+
+> I notice you're based in the USA, is it OK if we set the preferred region for this ticket to 'AMERICAS' so you'll receive replies during US office hours?
+
+You can now put the ticket 'on-hold'.
+
+As a courtesy it is **important to add an internal note** to let Bob know your
+reasoning for sending the holding reply and checking they're OK with that. You
+can also ping them in Slack if you wish. Be mindful of how you feel if someone
+does this for a ticket assigned to you and explain why you thought this was the
+best course of action. You might write something like:
+
+> Putting on hold as Bob is part way through replicating this problem and is in communication with software engineers in his region about the issue. User is based in AMER so is not expecting round the clock replies. Hope that's OK Bob?
+
 ### I need deeper technical assistance on a non-emergency case - what do I do?
 
 Sometimes, you might require help from senior support engineers, subject matter experts or developers on your tickets. These tickets are most likely either long-running or technically challenging. We encourage [collaboration](https://about.gitlab.com/handbook/values/#collaboration) and you can use the following steps as a general guideline if you are unsure of what to do next:
@@ -252,13 +293,23 @@ If a customer's reply is the last one in the ticket, do not set it to any status
 
 ### Using On-Hold Status
 
-You should use the On-hold status when it is necessary to do some internal work, e.g. reproduce a complex bug, discuss something with developers or wait for a session scheduled with a user. When setting the status to On-hold it will be automatically assigned to you by the trigger [`Automatically assign on-hold ticket to an agent who put it to the on-hold status`](https://gitlab.zendesk.com/agent/admin/triggers/360033242313).
+You should use the On-hold status when it is necessary to do some internal work,
+e.g. reproduce a complex bug, discuss something with developers or wait for a
+session scheduled with a user. When setting the status to On-hold it will be
+automatically assigned to you by the trigger
+[`Automatically assign on-hold ticket to an agent who put it to the on-hold status`](https://gitlab.zendesk.com/agent/admin/triggers/360033242313).
 
-If you think that it should be assigned to someone else (e.g. session is scheduled for another engineer), feel free to re-assign it. Tickets without assignee will be automatically reopened by the trigger
-[`Automatically reopen on-hold tickets without assignee`](https://gitlab.zendesk.com/agent/admin/triggers/360028981853). Tickets in on-hold status _with_ an assignee will be automatically reopened in 4 days by the automation [`Reopen on-hold tickets after 4 days`](https://gitlab.zendesk.com/agent/admin/automations/360028978393).
-
-If a customer's reply is the last one in the ticket, do not set it to the On-hold status silently due to the same reasons as stated above in the
-[Zendesk SLAs and Breach Alerts](#zendesk-slas-and-breach-alerts)). Instead, reply to the ticket while also changing the status.
+If you think that it should be assigned to someone else (*e.g.* session is
+scheduled for another engineer), feel free to re-assign it. Tickets without an
+assignee will be automatically reopened by the trigger
+[`Automatically reopen on-hold tickets without assignee`](https://gitlab.zendesk.com/agent/admin/triggers/360028981853).
+Tickets in on-hold status _with_ an assignee will be automatically reopened in 4
+days by the automation
+[`Reopen on-hold tickets after 4 days`](https://gitlab.zendesk.com/agent/admin/automations/360028978393).
+1. If a user's reply is the last one in the ticket, do not set it to the On-hold
+2. status silently due to the same reasons as stated above in the
+[Zendesk SLAs and Breach Alerts](#zendesk-slas-and-breach-alerts)). Instead,
+reply to the ticket while also changing the status.
 
 ### Merging Tickets
 

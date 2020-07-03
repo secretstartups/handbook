@@ -16,6 +16,7 @@ Tickets are the core part of what we use Zendesk for.
   * Agent comments via email are public by default
 * Attachments
   * Customers can attach files
+  * Require authentication to download
 * Tags
   * Enable tags on tickets
 * CCs

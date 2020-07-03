@@ -35,13 +35,6 @@ The customer facing URL for the Federal Zendesk Instance is [federal-support.git
 
 Our US Federal Customers will be provided with an email address they can email to in case of emergency. The emergency email triggers an emergency page that our engineers will respond to within the time outlined in our Support Page. 
 
-#### Working on US Federal Tickets
+#### Working Tickets
 
-Tickets received within our US Federal Instance cannot be discussed about outside of the Federal Instance. If you need help with a ticket, please CC other engineers within Zendesk using Private Notes. 
-
-You can still ask general questions to our Global Support Team regarding tickets to benefit from other team members' expertise, as long as you don't mention that a Federal customer is experiencing an issue related to the topic of your question and without mentioning the name of the Federal Customer experiencing the issue. No discussions regarding the ticket should happen in Slack or GitLab issues. 
-
-If you need a managers' help with a ticket, please keep in mind that only US Citizens have access to our US Federal Instance, which means that some of our managers can help you with tickets. If you are a US Citizen and your manager isn't, please feel free to reach out to a different manager.
-
-The volume of tickets in our US Federal Instance is way lower than our main instance, so we have set up a trigger that sends a Slack message to #feed_zd-federal whenever a new ticket is created, so that the instance doesn't have to be monitored by our engineers all the time. The Slack message doesn't contain any customer identifying information, just informs our team that a new ticket has been created and the name of the Technical Account Manager of the organization who created the ticket. 
-
+Please see [Working with federal tickets](/handbook/support/workflows/federal_tickets.html) for information about working tickets on this instance.
