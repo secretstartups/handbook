@@ -25,7 +25,7 @@ At GitLab, **Architecture** is:
   * [Scalability Practice](practice/scalability/)
   * Availability Practice
   * ...
-* A [*collaborative* **workflow**](workflow/) that provides the necessary organizational amplification to foster *inclussion*, and drive ideas and priorities from all corners of the company.
+* A [*collaborative* **workflow**](workflow/) that provides the necessary amplification to foster *inclusion*, and drive ideas and priorities from all corners of the company.
 * A reliance on **influence** rather than authority to *efficiently* and *transparently* drive decisions, engage stakeholders, and promote trust across the organization
 
 **Architecture as a practice is everyone's responsibility**, but it's notably engrained in senior technical leadership roles. Within said roles, the roles' levels and their sphere of influence determine DRI responsibilities within the practice:
