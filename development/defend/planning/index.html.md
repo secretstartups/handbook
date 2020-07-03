@@ -104,7 +104,7 @@ The goal of the refinement process is to
 ### Refinement steps for Engineers:
 
 1.  Issues you need to refine will be assigned to you by your EM. Note the
-    [differences for bugs](#bug-refinement).
+    [differences for bugs](#bug-diagnosis).
 2.  Backend/Frontend labels:
     * If a backend engineer is required for the issue, ensure a `backend` label. Otherwise, remove
       any backend label, assign any relevant labels and you are done. 
@@ -141,7 +141,7 @@ read through all the comments. The important bits should be captured in the desc
 **single source of truth.** 
 
 
-#### Bug Refinement
+#### Bug Diagnosis
 
 Note the following differences when refining bugs:
 
