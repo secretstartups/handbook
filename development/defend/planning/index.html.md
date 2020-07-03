@@ -89,7 +89,7 @@ Scope of the next release is finalized by EMs and PMs.
 * EM output: assignment of issues to individuals to work in the next release.
 
 [^1]: we do not use `Stretch` labels; anything that isn't labelled as a `Deliverable` is
-a stretch goal by definition and should be kept in scope as such.
+      a stretch goal by definition and should be kept in scope as such.
 
 ---
 
@@ -223,3 +223,5 @@ outlined in this document](https://gitlab.com/gitlab-com/www-gitlab-com/issues/4
 and complexity of the issue does not warrant breaking it down into multiple sub-issues then apply
 frontend and backend weights separately using their respective `frontend-weight` & `backend-weight`
 [weight labels](#weight-labels). The EMs will use those individuals labels to populate the combined weight field.
+
+## Footnotes
