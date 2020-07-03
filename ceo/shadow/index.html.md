@@ -109,7 +109,7 @@ This is feedback received from some Alumni shadows and their managers
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ1FyJrtnLS76qq-Oi5wi3F7Gd5yJFQc-DyOSVTNZgxM63rJQUtYmWa_4mp5MjaGa_rut5o68fNdNep/embed?start=true&loop=false&delayms=2000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+</figure>
 ### What is the feedback from the CEO?
 
 Hear what our CEO has to say about the CEO shadow program.
