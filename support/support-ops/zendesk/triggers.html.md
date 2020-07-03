@@ -826,6 +826,9 @@ Triggers are managed via Zendesk and are version controled (to a degree).
     * Subject: [{{ticket.account}}] Re: {{ticket.title}}
     * Body:
       > Your request ({{ticket.id}}) has been updated. To add additional comments, reply to this email.
+      > 
+      > Please note that any attachments you might see will require logging into the Support Portal to access/download them
+      > 
       > {{ticket.comments_formatted}}
 * Conditions:
   * Meets ALL of:
