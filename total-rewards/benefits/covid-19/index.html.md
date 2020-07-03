@@ -142,7 +142,22 @@ For more information on how to access Sanvello Premium if enrolled in a UHC medi
 
 ### United Kingdom
 
-* [Patient Access](https://www.patientaccess.com/) has an online symptom checker to see if you need medical help if you think you may have COVID-19. You may also have the option to connect with your General Practitioner through a [video consultation](https://support.patientaccess.com/appointments/video-consultations).
+#### England
+
+* The NHS provides an [online COVID-19 symptom checker](https://111.nhs.uk/covid-19/) which can give advice on self-isolation as well as providing links to booking COVID-19 testing.
+* Residents in England registered with an NHS GP can book an appointment via the [NHS App](https://www.nhs.uk/using-the-nhs/nhs-services/the-nhs-app/).
+
+#### Scotland
+
+* Official advice for Scotland can be found on the [Scottish Government website](https://www.nhsinform.scot/illnesses-and-conditions/infections-and-poisoning/coronavirus-covid-19). This includes a symptom checker, advice on self-isolation and how to book a test. 
+
+#### Wales
+
+* Official advice for Wales can be found on the [Welsh Government website](https://gov.wales/coronavirus).
+
+#### Northern Ireland
+* Official advice for Northern Ireland can be found on the [nidirect website](https://www.nidirect.gov.uk/campaigns/coronavirus-covid-19).
+
 
 ### Canada
 
