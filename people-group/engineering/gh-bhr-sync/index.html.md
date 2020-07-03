@@ -46,7 +46,7 @@ from Greenhouse. We do add a note on the candidate's activity saying we synced t
 | `entity` (Offer data)                                                                                                            | `customInc/BV`                       |
 | "Hired" (Hardcoded value - not from Greenhouse)                                                                                  | `customNotes`                        |
 | `starts_at` (Offer data)                                                                                                         | `date`                               |
-| `job_title` (Offer data)                                                                                                         | `jobTitle`                           |
+| `job_title` (Offer data, can only be synced if the title exists on BambooHR)                                                     | `jobTitle`                           |
 | `hiring_manager` (Offer data)                                                                                                    | `reportsTo`                          |
 | `starts_at` (Offer data)                                                                                                         | `startDate`                          |
 | Mapped by Greenhouse entity using [this file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/entity_mapper.yml) | `location`                           |
@@ -67,11 +67,12 @@ from Greenhouse. We do add a note on the candidate's activity saying we synced t
 | `customAnnualAmountLocal` \* customCurrencyConversionFactor                                                                      | `customAnnualAmountUSD`              |
 | `customAnnualAmountUSD` \* `customUSDAnnualSalary`                                                                               | `customOTEUSD`                       |
 | `customVariablePay` \* `salary`                                                                                                  | `customOTELocal`                     |
-| `job_code` (Offer data)                                                                                                          | `customJobCode`                      |
+| `job_code` (Offer data, can only be synced if the job code exists on BambooHR                                                    | `customJobCode`                      |
 | `job_grade` (Offer data)                                                                                                         | `customJobGrade`                     |
 | `sales_geo_differential` (Offer data)                                                                                            | `customSalesGeoDifferential`         |
 | `starts_at` (Offer data)                                                                                                         | `customEffectiveDate`                |
 | `compa_group` (Offer data)                                                                                                       | `customExperienceFactor(CompaRatio)` |
+| `ghp_id` (Offer data)                                                                                                            | `customNumber`                       |
 
 Besides syncing the above fields, we also sync:
 
