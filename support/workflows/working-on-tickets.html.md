@@ -79,7 +79,7 @@ assigned when the first reply is made.
    1. If you can, then take those steps, including updating the user
    1. If not, then link the ticket in Slack and ask for help from your teammates
 1. If it's been an hour or more since you checked the [Main Views](#main-views), or your own view is up-to-date or empty, and **you have the capacity to take on another ticket**, then:
-   1. Assign to yourself the top ticket in the view
+   1. Assign to yourself the top ticket (new or open) in the view [for your region](#main-views)
 1. If you've asked in Slack for help on a ticket, and nobody has stepped up to help, and you feel you can't wait any longer for help, then:
    1. `@mention` your manager in Slack in the thread where you requested help, and ask them what the next steps should be
 1. If there are tickets left in your view to work on, then go back to step 1, else go back to step 3
