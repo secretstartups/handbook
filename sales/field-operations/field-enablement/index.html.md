@@ -117,7 +117,7 @@ The below is a work in progress as we define success measures across each stage 
    *  **[Director, Field Enablement](/job-families/sales/director-of-field-enablement/)**
          *  [David Somers](/company/team/#dcsomers)
    *  **[Program Managers: Enterprise Sales, Commercial Sales, and Technical Sales / Customer Success](/job-families/sales/program-manager-field-enablement/)**
-         *  [Shelley Bates](/company/team/#Shell) (Partner Enablement)
+         *  TBH (Partner Enablement)
          *  [Eric Brown](/company/team/#ejbrown71) (Enterprise Sales Enablement)
          *  [Tanuja Paruchuri](/company/team/#tparuchuri) (Sales & Customer Success Onboarding)
          *  [Kris Reynolds](/company/team/#kreynolds1) (Customer Success Enablement)
