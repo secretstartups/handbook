@@ -22,7 +22,7 @@ Give your agenda document these headers:
 1. Performance Management
 1. Feedback
 1. Vision
-1. Details
+1. Hallway
 
 ## Performance management
 
@@ -40,7 +40,7 @@ Please see [our guide on giving feedback](/handbook/people-group/guidance-on-fee
 
 ## Hallway
 
-1. Every item on the details starts with exactly one tag, the tag can come from one of four categories:
+1. Every item in the hallway section starts with exactly one tag, the tag can come from one of four categories:
     1. Timing
       * `ISO DATE` (example: 2017-05-21 or 2017-05) - indicating when this item will be discussed next
       * `RELEASE NUMBER` (example: 9.4 or 9.5) - alternative to `ISO DATE` to indicate when this item will be discussed next
