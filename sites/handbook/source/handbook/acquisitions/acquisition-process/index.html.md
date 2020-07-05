@@ -72,7 +72,7 @@ The process is comprised of four key stages:
 ### Early Diligence
 1. Select [code name](/handbook/acquisition-process/#acquisitions_are_confidential) to use instead of target company name. Update Slack channel: `#acq-code_name`.
 1. Sign a mutual NDA as linked on our [legal handbook page](/handbook/legal/).
-1. [Form the acquisition team](/handbook/acquisition-process/#forming_an_acquisition_team).
+1. [Form the acquisition team](/handbook/acquisition-process/#forming_an_acquisition_team) and add entire team to the channel and documents. 
 1. Confirm internal acquisition champion - every acquisition needs a lead champion; someone who is advocating for the acquisition, helping drive the acquisition rationale, and seeing its successful integration. For most acquisitions that fit our [approach](/handbook/acquisitions), the champion will come from GitLab's Product team, at the Director level, accompanied by an engineering champion from the GitLab's Engineering team, at the Director level, respectively. For other acquisitions, champions may come from other internal functions.
 1. Preliminary financial & legal diligence - list of preliminary documents to share with GitLab:
    1. Financials:
@@ -157,21 +157,12 @@ The process is comprised of four key stages:
          1. Link to final version of APA      
 1. The corporate development acquisition lead will coordinate the signing and closing of the deal
 
-### Integration
-The Corporate Development team is responsible for overseeing and facilitating the integration of the acquisition post-closing, working closely with Legal, Product, Engineering, and Finance. The DRI for the integration stage is the Dir. Corporate Development. This will consist of several aspects and [best practices](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/how-the-best-acquirers-excel-at-integration):
-1. Operational shutdown (if appropriate):
-   1. Execution of customer sunset plans
-   1. Shutdown of target company and its entities
-1. Alignment on objectives and goals:
-   1. Incorporate the integration plan into GitLab's roadmap
-   1. Introduce Deal Milestones into respective departmental OKRs
-   1. Create or update product vision in case a new product area is added to GitLab
-1. People & Culture:
-   1. Cultural integration plan, analyzing similarities and differences in the two companies' cultures
-   1. Onboarding of acquired team members
-1. Performance tracking:
-   1. Identify and continuously revisit business performance metrics to track the deal's added value and ROI over time
-   1. Delivery against product plans and OKRs
+
+### [Integration](/handbook/acquisitions/acquisition-process/integration)
+The Corporate Development team is responsible for overseeing and facilitating the integration of the acquisition post-closing, working closely with Legal, Product, Engineering, and Finance. 
+
+The integration process is outlined in our [acquisition integration page](/handbook/acquisitions/acquisition-process/integration).
+
 
 ## Acquisition Team
 An acquisition team will consist of the following GitLab functional team members:
@@ -180,9 +171,14 @@ An acquisition team will consist of the following GitLab functional team members
 1. Product Manager
 1. Dir. Engineering
 1. Engineering team member
-1. Finance / accounting team member
+1. Finance team member
+1. Director of Tax
+1. Principal Accounting Officer
 1. Legal team member
 1. HR Business Partner
+1. People Ops Business Partner
+1. Recruiting manager
+
 
 To assign the product manager, after the product call or as soon as it's clear which product category the features will be implemented into, contact the category product director for the assignment.
 
@@ -197,7 +193,7 @@ To assign the engineering team member, contact the engineering manager of the re
 | Engineering | 1. Technical diligence | 1. Code quality review 1. Integration strategy validation - feasibility and timeline |
 | Finance | 1. Lead financial diligence 1. Validate business case and deal structure | |
 | Legal | 1. Review entity, assets and existing agreements 1. Evaluate sunset and customer transition path | 1. Term Sheet 1. Acquisition agreement|
-| HR Business Partner | 1. Lead the compensation review 1. Lead the interview process during the early and due diligence stages to completion |
+| People Ops Business Partner | 1. Lead the compensation review 1. Lead the interview process during the early and due diligence stages to completion |
 
 ## Acquisitions Are Confidential
 At GitLab, we treat all acquisition discussions as confidential and share any information internally on a need-to-know basis. 
