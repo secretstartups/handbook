@@ -129,7 +129,7 @@ all the offboarding issues created 5 days before the current date.
 The Slack command used for this is:
 
 ```
-/pops run transition <id_in_BambooHR_URL>
+/pops run careermobility <id_in_BambooHR_URL>
 ```
 
 The Slack command triggers a pipeline in the `employment` project, which will
