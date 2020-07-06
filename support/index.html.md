@@ -422,7 +422,7 @@ Artifacts of approval can include:
 ### Support Workflows
 
 - [Support Workflows](/handbook/support/workflows)
-   - [Internal Policies and Procedures Wiki](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/-/wikis/home)
+   - [Internal Policies and Procedures Wiki](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/home)
    - [How to Work with Tickets](/handbook/support/workflows/working-on-tickets.html)
    - [How to Submit issues to Product/Development](/handbook/support/workflows/working-with-issues.html)
    - [How to Submit Code to the GitLab Application](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md)

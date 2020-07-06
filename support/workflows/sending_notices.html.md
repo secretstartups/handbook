@@ -22,7 +22,7 @@ We may also occasionally need to do this to inform certain users of a feature th
 
 We may be asked by infrastructure either through an issue or Slack to notify a user or customer that their account has been temporarily blocked for some reason. In these cases, do the following:
 
-1. Copy the link to the issue where it's mentioned that the user was blocked. If none exists, create one in [dotcom-internal](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/issues) with the details.
+1. Copy the link to the issue where it's mentioned that the user was blocked. If none exists, create one in [internal-requests](https://gitlab.com/gitlab-com/support/internal-requests/issues) with the details.
 1. Create a new ticket in Zendesk with the requestor as the **primary email address** of the user in question and apply the macro.
 1. Supplement the response provided by the macro with the specific reasoning for the block and send it.
 1. Add a note to the ticket that contains a link to the issue.

@@ -46,4 +46,4 @@ Abuse Case:
 `2018-11-05 | Flagged for terms violation |  Abuse Case | https://gitlab.zendesk.com/agent/tickets/123` 
 
 User Blocked:
-`2019-07-07 | User blocked by infra | see https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/issues/441`
+`2019-07-07 | User blocked by infra | see https://gitlab.com/gitlab-com/support/internal-requests/issues/441`

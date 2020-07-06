@@ -66,16 +66,16 @@ You cannot send public replies to customers with a Light Agent account - if you 
 ### Regarding GitLab.com and Self-Managed
 
 >**IMPORTANT TRIAL NOTE**: It's not yet officially recommended for support to start a trial on a namespace. If one is needed, *have the user initiate a normal Gold trial first*. 
-If a Silver or Bronze trial plan are needed  [open an issue](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/issues/new?issuable_template=Plan%20Change%20Request) using the `Plan Change Request` template to have the plan downgraded to Bronze or Silver.
+If a Silver or Bronze trial plan are needed  [open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Plan%20Change%20Request) using the `Plan Change Request` template to have the plan downgraded to Bronze or Silver.
 
 | Request      | What To Do                                                 |
 | ---------- | ------------------------------------------------------------ |
-| Extend GitLab.com Trial | [Open an issue](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/issues/new?issuable_template=GitLab.com%20Trial%20Extension) using the `GitLab.com Trial Extension` template.
-| Extend Self-Managed Trial | [Open an issue](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/issues/new?issuable_template=Self%20Managed%20Trial%20Extension) using the `Self Managed Trial Extension` template.
-| Grant Bronze or Silver Trial | [Open an issue](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/issues/new?issuable_template=Plan%20Change%20Request) using the `Plan Change Request` template.
-| Change Plan of a GitLab.com Namespace | [Open an issue](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/issues/new?issuable_template=Plan%20Change%20Request) using the `Plan Change Request` template.
-| Claim Dormant GitLab.com Namespace | [Open an issue](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/issues/new?issuable_template=Dormant%20Namespace%20Request) using the `Dormant Namespace Request` template.
-| Request Pipeline Minutes Reset | [Open an issue](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/issues/new?issuable_template=Pipeline%20Quota%20Reset%20Request) using the `Pipeline Quota Reset Request` template.
+| Extend GitLab.com Trial | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=GitLab.com%20Trial%20Extension) using the `GitLab.com Trial Extension` template.
+| Extend Self-Managed Trial | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Self%20Managed%20Trial%20Extension) using the `Self Managed Trial Extension` template.
+| Grant Bronze or Silver Trial | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Plan%20Change%20Request) using the `Plan Change Request` template.
+| Change Plan of a GitLab.com Namespace | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Plan%20Change%20Request) using the `Plan Change Request` template.
+| Claim Dormant GitLab.com Namespace | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Dormant%20Namespace%20Request) using the `Dormant Namespace Request` template.
+| Request Pipeline Minutes Reset | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Pipeline%20Quota%20Reset%20Request) using the `Pipeline Quota Reset Request` template.
 
 ### Regarding GitLab Support, Plans, and Namespaces
 
@@ -84,28 +84,28 @@ If a Silver or Bronze trial plan are needed  [open an issue](https://gitlab.com/
 | Schedule Upgrade Assistance Call | [Open an issue](https://gitlab.com/gitlab-com/support/support-team-meta/issues/new?issuable_template=Upgrade%20Assistance%20Request) using the `Upgrade Assistance` template. |
 | Who is on-call for Self-Managed Support? | Run `/chatops run oncall support` in [#support_self-managed](https://gitlab.slack.com/messages/support_self-managed/) to find out. This will **not** page the on-call person. You can also run that command in a direct message to `GitLab Chatops`. |
 | Who is on-call for GitLab.com CMOC? | Run `/chatops run oncall cmoc` in [#support_gitlab-com](https://gitlab.slack.com/archives/C4XFU81LG) to find out. This will **not** page the on-call person. You can also run that command in a direct message to `GitLab Chatops`. |
-| Contact a GitLab.com User | [Open an issue](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/issues/new?issuable_template=Contact%20Request) using the `Contact Request` template.  |
+| Contact a GitLab.com User | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Contact%20Request) using the `Contact Request` template.  |
 | Excessive reCaptcha on GitLab.com | While it's happening, post in [#support_gitlab-com](https://gitlab.slack.com/messages/C4XFU81LG/) and link to the issue/MR in question to be added to the allowlist.
 
 ### Regarding Licensing
 
 | Request      | What To Do                                                 |
 | ---------- | ------------------------------------------------------------ |
-| Send/Resend EULA | [Open an issue](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/issues/new?issuable_template=EULA) using the `EULA` template.
-| Assistance With License Issue | [Open an issue](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/issues/new?issuable_template=license%20issue) using the `License Issue` template.
+| Send/Resend EULA | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=EULA) using the `EULA` template.
+| Assistance With License Issue | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=license%20issue) using the `License Issue` template.
 
 ### Regarding Legal
 
 | Request      | What To Do                                                 |
 | ---------- | ------------------------------------------------------------ |
-| Log Preservation Request | [Open an issue](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/issues/new?issuable_template=Information%20Request) using the `Information Request` template.
+| Log Preservation Request | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Information%20Request) using the `Information Request` template.
 | Submit DMCA Request | [Open an issue](https://gitlab.com/gitlab-com/gl-security/abuse/issues/new?issuable_template=dmca_meta_issue) using the `DMCA Meta Issue` template.
 
 ### Other
 
 #### I want to escalate a ticket
 
-GitLab Support targets a 95% SLA acheievement KPI. This means that some tickets breaching is expected. Our SLA is for a _First Reply_ but we also internally track next reply. Asking for eyes on or the escalation of a ticket in [#support_gitlab-com](https://gitlab.slack.com/archives/C4XFU81LG) or [#support_self-managed](https://gitlab.slack.com/archives/C4Y5DRKLK) creates unnecessary stress on Support Engineers who may be in the midst of working on higher priority tickets. Depending on whether you want to draw attention to either a Zendesk ticket or an issue created in `dotcom-internal`, follow the steps below.
+GitLab Support targets a 95% SLA acheievement KPI. This means that some tickets breaching is expected. Our SLA is for a _First Reply_ but we also internally track next reply. Asking for eyes on or the escalation of a ticket in [#support_gitlab-com](https://gitlab.slack.com/archives/C4XFU81LG) or [#support_self-managed](https://gitlab.slack.com/archives/C4Y5DRKLK) creates unnecessary stress on Support Engineers who may be in the midst of working on higher priority tickets. Depending on whether you want to draw attention to either a Zendesk ticket or an issue created in `internal-requests`, follow the steps below.
 
 **Zendesk Tickets**
 
@@ -115,7 +115,7 @@ GitLab Support targets a 95% SLA acheievement KPI. This means that some tickets 
 
 **Dotcom Internal Issues**
 
-1. Post in [#support_managers](https://gitlab.slack.com/archives/CBVAE1L48) with a link to the issue and a short explanation of why it requires urgent attention. Please also keep in mind that issues in `dotcom-internal` have no SLA.
+1. Post in [#support_managers](https://gitlab.slack.com/archives/CBVAE1L48) with a link to the issue and a short explanation of why it requires urgent attention. Please also keep in mind that issues in `internal-requests` have no SLA.
 
 #### My customer is having trouble applying their GitLab.com subscription
 

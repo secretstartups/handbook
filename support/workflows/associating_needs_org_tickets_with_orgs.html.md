@@ -102,7 +102,7 @@ You should be able to access it with your `dev.gitlab.org` account.
 For GitLab.com, in the Customers Portal, trials are marked with an expiration
 date under the **Trials** column in the `GitLab Groups` Tab next to a namespace.
 If needed, also check the
-[dotcom-internal project](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/issues)
+[internal-requests project](https://gitlab.com/gitlab-com/support/internal-requests/issues)
 for manual plan changes.
 
 ### Finding the existing organization in Zendesk
@@ -312,4 +312,3 @@ If you're sure that the ticket is related to **GitLab.com**, but you see it in
 > only changed the tags so that it is not listed in the wrong queue, please verify
 > if the customer is paying GitLab.com user and add the necessary tags so that
 > correct SLA policy is applied to the ticket.
-
