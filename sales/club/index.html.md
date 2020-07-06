@@ -38,6 +38,6 @@ For GitLab's FY21 President's Club, 42 GitLab team members (along with 1 guest p
 | Non-Sales MVPs | 2 | VP/CRO selection (sales leader nominations to be collected by 1/31/21) |
 
 ## Additional Criteria
-- Sales management must have a total of 36 SAL months under management to qualify (e.g. 1 SAL all year would be 12 SAL months). 
+- Sales management must have a total of 36 SAL months under management during the fiscal year to qualify (e.g. 1 SAL all year would be 12 SAL months). 
 
 Please direct any questions to your manager.
