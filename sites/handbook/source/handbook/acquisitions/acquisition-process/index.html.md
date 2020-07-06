@@ -10,7 +10,7 @@ title: "Acquisition Process"
 {:toc .hidden-md .hidden-lg}
 
 This is a detailed view of our acquisition process. For more information about
-our acquisitions approach visit our [acquisitions handbook](/handbook/acquisitions).
+our acquisitions approach visit our [acquisitions handbook](/handbook/acquisitions/).
 
 ### Acquisitions Deal Funnel
 The corporate development team conducts a comprehensive screening of our industry ecosystem in order to identify potential acquisition opportunities. Below is an overview of our target funnel.
