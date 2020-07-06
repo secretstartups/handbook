@@ -127,7 +127,7 @@ Things to think about:
 1. **How many team members does this impact?** Generally the higher the number of team members impacted, the more likely you are to need Internal Communications help. 
 1. **How does this communication fit into the wider company narrative?** Think about the bigger picture, do you have the 'why' of what you are doing? Do you need help to shape this?
 1. **Is the subject contentious?** (see guidance on contentious issues below)
-1. **What is the likely reaction going to be?** Think back to similar communications, what was the reaction, do you think this is likely to happen again?
+1. **What is the likely reaction going to be?** Think back to similar communications. What was the reaction? What does this mean for your internal communications approach?
 1. **Is it a complicated, will everyone understand it?** Not everyone does the same job as you, are you able to explain it in simple terms that everyone can understand?
 1. **What should the communication plan be?** Is this a one off communication or is it split into phases? 
 1. **Do you need guidance on any people or legal aspects to it?** Generally changes that impact people could potentially have legal or employment aspects to it and you may need advice and approval from the People Group and/or Legal.
