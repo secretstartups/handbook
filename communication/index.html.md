@@ -117,7 +117,7 @@ Issues are useful when there isn't a specific code change that is being proposed
 
 ### What is Internal Communication?
 
-"Internal communication is any kind of work-related communication that happens within an organization, from companywide announcements to conversations between coworkers. Thinking of internal communications as a companywide strategy, rather than the responsibility of an individual or department, can help your organization address structural pain points and create a culture of trust, transparency and cohesion". Source:(https://slackhq.com/internal-communication) 
+Internal communication is any work related communication at a company. Internal Communication includes conversations between team members, wider team discussions, or internal announcements. At GitLab, everyone can contribute to the effectiveness of Internal Communications to support aspects of GitLab culture, such as intentional transparency and engaging people in open dialogue. 
 
 ### When do you need to engage the Internal Communication Team?
 
@@ -148,7 +148,6 @@ Things to think about:
 1. A person 
 
 **Examples of potentially contentious topics at GitLab (list not exhaustive):**
-1. Politics
 1. Diversity, Inclusion, and Belonging issues
 1. Privacy 
 1. Unpopular changes/decisions 
