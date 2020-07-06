@@ -52,11 +52,18 @@ Detailed investigation of the deploy timings is shown in [the following comment]
 
 Comparison between VM and Kubernetes deployment timing is not precise due to how two systems operate at this time. Namely, we do not run VM's and pods at the same time, so we don't deploy to them at the same time, same circumstances and with the same workloads. Also, VM's are taken out of rotation with a specific concurrency, and as a group of services rather than specific shard (sub-service). Still, we can do some rough comparisons.
 
+On the level of single processing unit, single Sidekiq VM and single Sidekiq pod, we can compare time it takes to put traffic on the new version.
+Single VM takes 3 minutes and 40 seconds to install and configure, and a maximum of 30 seconds to start processing requests. A single Sidekiq pod, takes 60s on average to enter the ready state and the same maximum of 30 seconds for the process to start processing requests.
+
+*This means that on the single processing unit level we see 3x improvement in deployment speed.*
+
 Very rough comparison of the whole Sidekiq service would say that for 24 VM nodes we run Sidekiq workloads that have not yet been migrated to Kubernetes, we take approximately 30 minutes to upgrade GitLab on them. In February 2020 when we had no Sidekiq services in Kubernetes, this service deployment would take around 50 minutes.
 
 On the other side, it currently takes around 3 minutes to start up a number of pods that can serve traffic shortly after they are started for the services that have been migrated to Kubernetes.  
 
-This would mean that the total time it takes to deploy our Sidekiq fleet (at the time of writing this doc) went from 50 minutes to around 35 for a similarly organised Sidekiq service, with majority of the time still occupied by workloads running in VM's.
+The total time it takes to deploy our Sidekiq fleet (at the time of writing this doc) went from 50 minutes to around 35 for a similarly organised Sidekiq service, with majority of the time still occupied by workloads running in VM's.
+
+*This means that on the service level, we see approximately 1.5x improvement in deployment speed.*
 
 #### Dogfooding official installation method
 
