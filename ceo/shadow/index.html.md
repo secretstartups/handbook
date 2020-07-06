@@ -139,7 +139,7 @@ You're also eligible if you work(ed) at an investment firm and while there helpe
 
 Exceptions to eligability:
 
-CEO Shadow rotations will be reserved for [All-Directs](/handbook/leadership/#all-directs) during the week of [E-Group Offsites](/handbook/ceo/offsite/#schedule). An exception will be made if there is last minute availablity, and an All-Direct is not available to serve in this role during this window.
+CEO Shadow rotations will be reserved for [All-Directs](/handbook/leadership/#all-directs) during the week of [E-Group Offsites](/handbook/ceo/offsite/#schedule). An exception will be made if there is last minute availablity as two All-Directs are not available to serve in this role during this window.
 
 **COVID-19 Note:** During this time, all shadow rotations are fully remote. 
 Given the CEO generally works from 8 a.m. to 6 p.m. Pacific,
