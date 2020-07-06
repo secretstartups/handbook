@@ -41,15 +41,15 @@ The Total Rewards Team will notify the People Experience Team of a pending migra
 The [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) will then be **created by the People Experience Associate** assigned by following the steps below:
 
 1. One day prior to the effective date, the People Experience Associate will start the Career Mobility Issue process. 
-1. In Slack, go to your profile as if you were going to send a Slack message to yourself. Type the command /pops run transition BambooHR_ID_number (not Employee ID #). This number is found in the team member's BambooHR profile URL, after id=. It is a 5-digit number. An example of the command would be /pops run onboarding 00000. If BambooHR's API is down, this ChatOps command will fail and will need to be created manually.
-1. You will be pinged in Slack once the onboarding issue is created, which usually takes 30 seconds or so. The ping will include a link to the new Career Mobility issue.
+1. In Slack, go to your profile as if you were going to send a Slack message to yourself. Type the command /pops run careermobility BambooHR_ID_number (not Employee ID #). This number is found in the team member's BambooHR profile URL, after id=. It is a 5-digit number. An example of the command would be /pops run careermobility 00000. If BambooHR's API is down, this ChatOps command will fail and will need to be created manually.
+1. You will be pinged in Slack once the career mobility issue is created, which usually takes 30 seconds or so. The ping will include a link to the new Career Mobility issue.
 1. Add a due date of two weeks from the migration effective date.
 1. Check to see that the previous Manager and new Manager is listed correctly in the issue.
 1. Complete all applicable tasks under the People Experience list. 
 
 ## Compliance
 
-The People Experience Coordinator completes a weekly audit of all Career Mobility Issues opened within that specific week and checks that all tasks have been completed by all members applicable. In the event that tasks are still outstanding, the People Experience Coordinator will ping the relevant team members within the offboarding issue to call for tasks to be completed.
+The People Experience Associates complete a weekly audit of all Career Mobility Issues opened within that specific week and checks that all tasks have been completed by all members applicable. In the event that tasks are still outstanding, the People Experience Associate will ping the relevant team members within the career mobility issue to call for tasks to be completed.
 
 Once all tasks have been completed, the People Experience Coordinator or Associate will close the Career Mobility Issue accordingly.
 
