@@ -185,7 +185,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ------ | ------ | ------ | ------ |
-| 2020-06-29 | 2020-07-03 | [Hila Qu](https://gitlab.com/hilaqu) - Director of Product, Growth | [Jim Riley](https://gitlab.com/jrileyinva) - ASM - Public Sector |
 | 2020-07-06 | 2020-07-10 | NO SHADOWS - PTO | NO SHADOWS - PTO |
 | 2020-07-13 | 2020-07-17 | [David DeSanto](https://gitlab.com/ddesanto) - Director of Product, Secure & Defend | [Hila Qu](https://gitlab.com/hilaqu) - Director of Product, Growth |
 | 2020-07-20 | 2020-07-24 | NO SHADOWS - PERSONAL  | NO SHADOWS - PERSONAL |
@@ -879,5 +878,5 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2020-05-25 | 2020-06-05 | [Sophie Pouliquen](https://gitlab.com/spouliquen1) | Senior Technical Account Manager | | 
 | 2020-06-01 | 2020-06-19 | [Jackie Meshell](https://gitlab.com/jmeshell) | Senior Product Manager, Release Management | [Recording 📹: Four things I learned as a CEO Shadow](https://youtu.be/iAiYAnkdQLQ) | 
 | 2020-06-15 | 2020-06-26 | [Wayne Haber](https://gitlab.com/whaber) | Director Engineering, Defend | [What is the GitLab CEO shadow program?  Why should you apply to participate?  How did I see the GitLab values in action?](https://www.youtube.com/watch?v=JVaPRtY6wMQ) | 
-
+| 2020-06-22 | 2020-07-03 | [Jim Riley](https://gitlab.com/jrileyinva) | Area Sales Manager - Public Sector| |
 
