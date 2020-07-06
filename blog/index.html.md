@@ -81,7 +81,7 @@ Note: If you're planning to write a tutorial post describing how to do something
 
 The team will be assessing pitches against the following criteria:
 
-1. The post idea aligns with the [blog objectives](/handbook/marketing/blog/#objectives) and [scope](/handbook/marketing/blog/#scope); and/or
+1. The post idea aligns with the [blog objectives](/handbook/marketing/growth-marketing/content/editorial-team/#objectives) and [scope](/handbook/marketing/growth-marketing/content/editorial-team/#scope); and/or
 1. The idea shows potential to become [a high-performing post](/handbook/marketing/blog/#attributes-of-a-successful-blog-post)
 
 To give your idea the best chance of being accepted, be sure to demonstrate how your pitch meets the criteria above. It may also help to think about the following:
