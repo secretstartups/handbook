@@ -73,7 +73,7 @@ The process is comprised of four key stages:
 1. Select [code name](/handbook/acquisition-process/#acquisitions_are_confidential) to use instead of target company name. Update Slack channel: `#acq-code_name`.
 1. Sign a mutual NDA as linked on our [legal handbook page](/handbook/legal/).
 1. [Form the acquisition team](/handbook/acquisition-process/#forming_an_acquisition_team) and add entire team to the channel and documents. 
-1. Confirm internal acquisition champion - every acquisition needs a lead champion; someone who is advocating for the acquisition, helping drive the acquisition rationale, and seeing its successful integration. For most acquisitions that fit our [approach](/handbook/acquisitions), the champion will come from GitLab's Product team, at the Director level, accompanied by an engineering champion from the GitLab's Engineering team, at the Director level, respectively. For other acquisitions, champions may come from other internal functions.
+1. Confirm internal acquisition champion - every acquisition needs a lead champion; someone who is advocating for the acquisition, helping drive the acquisition rationale, and seeing its successful integration. For most acquisitions that fit our [approach](/handbook/acquisitions/), the champion will come from GitLab's Product team, at the Director level, accompanied by an engineering champion from the GitLab's Engineering team, at the Director level, respectively. For other acquisitions, champions may come from other internal functions.
 1. Preliminary financial & legal diligence - list of preliminary documents to share with GitLab:
    1. Financials:
       1. Balance sheet
@@ -158,10 +158,10 @@ The process is comprised of four key stages:
 1. The corporate development acquisition lead will coordinate the signing and closing of the deal
 
 
-### [Integration](/handbook/acquisitions/acquisition-process/integration)
+### [Integration](/handbook/acquisitions/acquisition-process/integration/)
 The Corporate Development team is responsible for overseeing and facilitating the integration of the acquisition post-closing, working closely with Legal, Product, Engineering, and Finance. 
 
-The integration process is outlined in our [acquisition integration page](/handbook/acquisitions/acquisition-process/integration).
+The integration process is outlined in our [acquisition integration page](/handbook/acquisitions/acquisition-process/integration/).
 
 
 ## Acquisition Team
