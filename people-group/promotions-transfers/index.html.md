@@ -36,7 +36,7 @@ A [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/employment-
 
 ## Career Mobility Issue Creation Process
 
-The Total Rewards Team will notify the People Experience Team of a pending migration of a team member via @ mention in the [Promotion/Transfer Tracker](https://docs.google.com/spreadsheets/d/10O0idnLKcE4MHaNSt9dcvRzTx0Q_G6klKcznvmgrJbY/edit#gid=0). The [People Experience Coordinator](https://about.gitlab.com/job-families/people-ops/people-experience-associate/#people-experience-coordinator) will then assign the migration to a [People Experience Associate](https://about.gitlab.com/job-families/people-ops/people-experience-associate/).
+The Total Rewards Team will notify the People Experience Team of a pending migration of a team member via @ mention in the Promotion/Transfer Tracker. The [People Experience Coordinator](https://about.gitlab.com/job-families/people-ops/people-experience-associate/#people-experience-coordinator) will then assign the migration to a [People Experience Associate](https://about.gitlab.com/job-families/people-ops/people-experience-associate/).
 
 The [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) will then be **created by the People Experience Associate** assigned by following the steps below:
 
@@ -353,7 +353,6 @@ If at the end of your internship, you are interested in transferring teams pleas
 #### Starting your new interning role
 
 Please create a new issue in the [Training project](https://gitlab.com/gitlab-com/people-ops/Training/issues/new), choose the `interning_for_learning` template, and fill out the placeholders.
-Here is [an example](https://docs.google.com/document/d/1Oo7gnsFN5t_tQWgkYUqx3TWVRjlIiFvcG0veTabPH4g/edit#heading=h.vp8zbds2lyqa).
 
 Once you've agreed upon the internship goals, both managers should inform their respective groups' People Business Partner.
 
