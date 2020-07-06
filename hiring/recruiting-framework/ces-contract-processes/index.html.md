@@ -220,9 +220,12 @@ _GitLab IT BV contracts should only be used for contractors. All Netherlands **e
 ## Process for GitLab Team Members in Australia
 GitLab has an entity in Australia and use this [contract](https://docs.google.com/document/d/1YjvQnYsXBVDIRdV950az7Nw7vfEdUZyrEzXl0Jqqivk/edit) in this location. All team members in this location are employees.
 
+## Process for GitLab Team Members in New Zealand
+GitLab has an entity in Australia, and New Zealand falls under that entity. These two contracts are used for this location: [Without OTE](https://docs.google.com/document/d/1TWrlDF9geNZGfuQ7FK1UUh17mM9ocqP7saQjDM8NN2U/edit#) and [With OTE](https://docs.google.com/document/d/1lO4T32nK2tZEUZQ6_sLEmg1gIhYNaJSwExzzMVrV2vI/edit). All team members in this location are employees.
+
 ## CXC
 
-GitLab is working in partnership with [CXC Global](http://cxcglobal.com/) to employ GitLab team-members located in **Poland**, **Ukraine**, **Romania**, **Russia** and **New Zealand**. The actual employment contracts will be sent and issued by CXC and are in accordance with local labor law. CXC also handles the processing and payment of payroll and associated taxes and compliance in each of the countries on behalf of GitLab. The contracts themselves are between the individual and CXC. 
+GitLab is working in partnership with [CXC Global](http://cxcglobal.com/) to employ GitLab team-members located in **Poland**, **Ukraine**, **Romania**, and **Russia**. The actual employment contracts will be sent and issued by CXC and are in accordance with local labor law. CXC also handles the processing and payment of payroll and associated taxes and compliance in each of the countries on behalf of GitLab. The contracts themselves are between the individual and CXC. 
 
 CXC provides a 12 month contract in these locations, and this can be extended. They are only able to support contractors that have an established entity/company in these countries (listed above). The offer details will be provided to CXC by GitLab's hiring team.
 
@@ -252,24 +255,6 @@ To create the contract:
 1. The Candidate Experience Specialist will now [mark the candidate as hired](/handbook/hiring/recruiting-framework/coordinator/#send-contract)[](see steps 10-12).
 
 
-### New Zealand
-
-CXC will hire individuals as casual employees with an initial contract of two years. This can be extended. Working time is set at 40 hours each week and payment of salary happens on a monthly basis upon payment of invoices that CXC will submit to GitLab at the beginning of each month. In addition to the details on leave, as stated in CXC's contract, further details are also provided in a separate letter.
-
-1. Offer is made by the recruiter per the [hiring process](/handbook/hiring).
-1. The Candidate Experience Specialist emails the new team member the Contract Info Request - New Zealand from GreenHouse.
-1. The Candidate Experience Specialist will update the GreenHouse offer details when the new team member provides the necessary details and then generates the CXC form out of GreenHouse.
-1. The Candidate Experience Specialist will stage the form for their own signature via DocuSign and Cc the new team member and the appropriate CXC contact. Contact details can be found in 1password => People Operations Vault => Entity & Co-employer HR Contacts
-1. The Candidate Experience Specialist should add the candidate to the [PEO Tracking Sheet](https://docs.google.com/spreadsheets/d/1gSOVTJ1Yv-YsSaliJwKVf-1H0vBZXxb5NWFiqCwT-uo/edit#gid=0) and keep track of communication between GitLab.
-1. CXC will then prepare the SOW and contract.
-1. CXC will then reach out to the candidates directly to coordinate the contract signing and onboarding to CXC's payroll.
-1. CXC will send a copy of the signed contract to the Candidate Experience Specialist.
-1. The Candidate Experience Specialist will upload a copy of the signed contract to Greenhouse prior to marking the candidate as hired and exporting candidate to BambooHR.
-  - Select Offer Details tab on left menu bar.
-  - Scroll down to Offer Documents section.
-  - Click Upload Signed Offer Document.
-1. The CES will adjust the 'Accepted' date to match the 'Sent' date.
-1. The Candidate Experience Specialist will now [mark the candidate as hired](/handbook/hiring/recruiting-framework/coordinator/#send-contract)[](see steps 10-12).
 
 
 ## Safeguard
