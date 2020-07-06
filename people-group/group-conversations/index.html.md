@@ -172,22 +172,22 @@ _Important: The DRI for the Group Conversation will also have hosting rights. Zo
 
 ### Additional Notes (Moderator)
 
-- Close or Mute the YouTube page to avoid an echo; you do not need to monitor YouTube during the presentation. Zoom will show `Live on Youtube` throughout the call.
-- Announce that the stream is live and whether it will be either public or private within the call.
-- Remember to only share the slides if illustrating something, otherwise let the speakers be visible in `Speaker View` setting on Zoom.
-- End the zoom call for everyone immediately at the end of the meeting as it subsequently ends the livestream. Press `End Meeting` and then `End Meeting for All`.
-- The calendar events for all streamed Group Conversations should adhere to our YouTube [Visibility Guidelines](/handbook/communication/youtube/#visibility).
-- As the Group Conversation and Zoom Host, when hearing the automated "This meeting is being recorded", please note that you can start talking immediately and do not need to wait for the automated message to end.
+1. Close or Mute the YouTube page to avoid an echo; you do not need to monitor YouTube during the presentation. Zoom will show `Live on Youtube` throughout the call.
+1. Announce that the stream is live and whether it will be either public or private within the call.
+1. End the zoom call for everyone immediately at the end of the meeting as it subsequently ends the livestream. Press `End Meeting` and then `End Meeting for All`.
+1. The calendar events for all streamed Group Conversations should adhere to our YouTube [Visibility Guidelines](/handbook/communication/youtube/#visibility).
 
 ### Additional Notes (Host)
 
 1. The People Experience Team is currently trialing different 'Captioning' options for Group Conversations and may need to record the session to Zoom for testing purposes. The Host should informed of this prior to the start of the Group Conversation. 
+1. As the Group Conversation and Zoom Host, when hearing the automated "This meeting is being recorded", please note that you can start talking immediately and do not need to wait for the automated message to end.
 1. Right now, everyone within GitLab i.e. all team members are invited to each call, we'll invite the wider community later.
 1. Make sure there is a list of 15 numbered items that only contains a space, this will make it easier to add things.
 1. Join the call 2-3 minutes early to ensure you're ready when it starts.
-1. If the call is to be livestreamed, the moderator will follow the script as directed in the [Livestreaming the Call](/handbook/people-group/group-conversations/#livestreaming-the-call) section on this page.
+1. If the call is to be streamed, the moderator will follow the script as directed in the [streaming the Call](/handbook/people-group/group-conversations/#duringthecall) section on this page.
 1. When the meeting starts introduce yourself and say a few words about what this call is about. For example, "Hello everyone, I'm Diane and I lead the [team]. I am looking forward to answer your questions about our [group name] group."
 1. Do not present your slides. Invite the first person to verbalize their question, respond and when relevant mention a slide number. This is similar to what we do during [board meetings](/handbook/board-meetings/).
+1. Remember to only share the slides if illustrating something, otherwise let the speakers be visible in `Speaker View` setting on Zoom.
 1. It is okay to wait until at least two questions have been entered before starting to answer questions, and allow some time for folks to read the slides at the start of the call.
 1. If someone can't verbalize their question (not in call, driving, audio problems) read it aloud for people watching only the video.
 1. Tone should be informal, like explaining to a friend what happened in the group last month, and shouldn't require a lot of presentation.
@@ -201,9 +201,8 @@ _Important: The DRI for the Group Conversation will also have hosting rights. Zo
 ## After the Call
 
 1. Once the call has finished, quickly audit the YouTube video for any issues (e.g., another stream on the video, errant transcript in the description). If you identify any issues with the video, [contact Security immediately](/handbook/engineering/security/#engaging-the-security-on-call). 
-1. All calls are published live to YouTube, with the exception of Finance, Sales, Security, and Partnerships. Every call is reviewed live to change livestream to private should anything confidential arise.
+1. All calls are published live to YouTube, with the exception of Finance, Sales, Security, and Partnerships. Every call is reviewed live to change stream to private should anything confidential arise.
 1. If streaming live is not available, ensure the call is [uploaded to Youtube](/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube) and then announced in the appropriate slack channel. (i.e. `#whats-happening-at-gitlab`, `#apac`) 
-1. The conversation is also announced on and the recording linked from our company call agenda.
 1. Calls are 5 times a week 30 minutes before the company call, 8:00 to 8:25am Pacific.
 1. The call is recorded automatically, and all calls are transferred every hour to a Google Drive folder called "GitLab Videos", which is accessible to all users with a GitLab.com e-mail account.
 1. Video recordings will be published on our blog so contributors, users, and customers can see it. We're aiming to publish a blog post once a week of that weeks' recordings with the matching slides in one go.
