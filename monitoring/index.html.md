@@ -128,6 +128,8 @@ To learn how to set up a new graph or dashboard using Grafana, take a look at th
 * [PostgresSQL Overview](https://dashboards.gitlab.com/dashboard/db/postgresql-overview): useful to understand how is the database behaving in depth. Use this graph to review if we have spikes of exclusive locks, active or idle in transaction processes
 * [PostgresSQL Queries](https://dashboards.gitlab.com/dashboard/db/postgresql-queries) use this dashboard to understand if we have blocked or slow queries, dead tuples, etc.
 * [Storage Stats](https://dashboards.gitlab.com/dashboard/db/storage-stats) use this dashboard to understand storage use and performance.
+* [Cloudflare traffic overview](https://dashboards.gitlab.com/d/sPqgMv9Zk/cloudflare-traffic-overview): use this dashboard to understand cloudflare traffic
+* [Logging](https://dashboards.gitlab.com/d/USVj3qHmk/logging): use this dashboard to understand how Fluentd, StackDriver and PubSub are performing.
 
 #### Private Whitebox Monitor
 
