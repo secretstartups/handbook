@@ -74,7 +74,7 @@ The process is comprised of four key stages:
 1. Sign a mutual NDA as linked on our [legal handbook page](/handbook/legal/).
 1. [Form the acquisition team](/handbook/acquisition-process/#forming_an_acquisition_team) and add entire team to the channel and documents. 
 1. Confirm internal acquisition champion - every acquisition needs a lead champion; someone who is advocating for the acquisition, helping drive the acquisition rationale, and seeing its successful integration. For most acquisitions that fit our [approach](/handbook/acquisitions), the champion will come from GitLab's Product team, at the Director level, accompanied by an engineering champion from the GitLab's Engineering team, at the Director level, respectively. For other acquisitions, champions may come from other internal functions.
-1. Preliminary financial & legal diligence - list of preliminary documents to share with GitLab:
+1. Preliminary diligence - below is a list of documents to share with GitLab:
    1. Financials:
       1. Balance sheet
       1. Profit and Loss sheet
@@ -89,6 +89,15 @@ The process is comprised of four key stages:
    1. Asset list:
       * Any assets that are needed for the business and will be part of the acquisition
       * Assets excluded from the acquisition
+   1. Technical Bill of Materials (BOM) - a complete document which lists:
+      1. Repositories
+      1. Additional (non-code) assets
+      1. Domain names
+      1. Servers
+      1. Dependencies
+      1. Data
+      1. Trademarks
+      1. Social media accounts
 1. Early technical diligence:
    1. In case the target company has open source components, the respective Dir. Engineering (dependent on GitLab stage) will start an early code review to determine: code quality, development practices, contributions and more. That should be turned around within 2-3 business days.
    1. Hands-on product and code screen-share session (2 hours): the technical lead, as assigned by the respective Dir. Engineering, together with the respective Dir. Product will lead a screen-share session aimed at a hands-on validation of the product functionalities and an overview of the code.
