@@ -303,10 +303,11 @@ If you're sure that the ticket is related to **GitLab.com**, but you see it in
 **SM with SLA queue**, do the following:
 
 1. Change the **Form** to **GitLab.com** (if it's not like that already)
-2. Remove the tag that is related to self-managed plans (e.g. **basic** or
+1. Remove the tag that is related to self-managed plans (e.g. **basic** or
 **premium**)
-3. Add **free_customer** tag to the ticket.
-4. Add the internal note with the following content:
+1. Do one of the following:
+    1. If you know what plan level the user is on, choose the appropriate one under "Tell us about your subscription".
+    1. Add the internal note with the following content:
 > This ticket was in SM with SLA queue, but it's obviously related to GitLab.com.
 > I did not go into details whether this is a paying or free GitLab.com user, I
 > only changed the tags so that it is not listed in the wrong queue, please verify
