@@ -152,7 +152,7 @@ Things to think about:
 1. Diversity, Inclusion, and Belonging issues
 1. Privacy 
 1. Unpopular changes/decisions 
-1. Something being taken away, such as a benefit
+1. A change to something that people care about, such as a benefit
 1. Something being implemented, such as an IT application
 
 ## Top Tips and Best Practices 
