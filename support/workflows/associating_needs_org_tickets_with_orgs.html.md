@@ -235,6 +235,8 @@ better to check with Sales if the status is valid or not:
   Make sure that `@Sales-Support` is converted into clickable username, otherwise
   Sales Support team will not get your message (see the GIF below):
 
+  ![Pinging Sales-Support in SFDC](/images/handbook/support/sfdc_sales_support.gif)
+
   Example of the message:
 
   ```
