@@ -115,6 +115,47 @@ Issues are useful when there isn't a specific code change that is being proposed
 
 ## Internal Communication
 
+### What is Internal Communication?
+
+"Internal communication is any kind of work-related communication that happens within an organization, from companywide announcements to conversations between coworkers. Thinking of internal communications as a companywide strategy, rather than the responsibility of an individual or department, can help your organization address structural pain points and create a culture of trust, transparency and cohesion". Source:(https://slackhq.com/internal-communication) 
+
+### When do you need to engage the Internal Communication Team?
+
+Things to think about: 
+
+1. **What do you need to communicate?** Think about importance and urgency, whether it's business as usual or if you have a call-to-action. 
+1. **How many team members does this impact?** Generally the higher the number of team members impacted, the more likely you are to need Internal Communications help. 
+1. **How does this communication fit into the wider company narrative?** Think about the bigger picture, do you have the 'why' of what you are doing? Do you need help to shape this?
+1. **Is the subject contentious?** (see guidance on contentious issues below)
+1. **What is the likely reaction going to be?** Think back to similar communications, what was the reaction, do you think this is likely to happen again?
+1. **Is it a complicated, will everyone understand it?** Not everyone does the same job as you, are you able to explain it in simple terms that everyone can understand?
+1. **What should the communication plan be?** Is this a one off communication or is it split into phases? 
+1. **Do you need guidance on any people or legal aspects to it?** Generally changes that impact people could potentially have legal or employment aspects to it and you may need advice and approval from the People Group and/or Legal.
+1. **If in doubt, always reach out!** Slack #internal-communications, or create new issue using [internal-communications-request template](https://gitlab.com/gitlab-com/chief-of-staff-team/internal-communications/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=)
+
+### What is a contentious issue?
+
+**A contentious issue is something that:**
+- People are likely to disagree or argue with
+- Something that is controversial
+
+**What can be contentious? (list not exhaustive):**
+1. A decision/policy/issue/subject
+1. Feedback
+1. An opinion 
+1. Wording
+1. A meeting
+1. A person 
+
+**Examples of potentially contentious topics at GitLab (list not exhaustive):**
+1. Politics
+1. Diversity, Inclusion, and Belonging issues
+1. Privacy 
+1. Unpopular changes/decisions 
+1. Something being taken away, such as a benefit
+1. Something being implemented, such as an IT application
+
+## Top Tips and Best Practices 
 1. All written communication happens in English, even when sent one on one, because sometimes you need to forward an email or chat.
 1. Use **asynchronous communication** when possible: merge requests (preferred) or issues. Announcements happen on the appropriate slack channels and [people should be able to do their work without getting interrupted by chat](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d#.21t7089jk).
 1. Discussion in issues or Merge Requests is preferred over everything else. If you need a response urgently, you can Slack someone with a link to your comment on an issue or merge request, asking them to respond there, however be aware that they still may not see it straight away. See [Slack](/handbook/communication#slack) for more.
@@ -135,7 +176,6 @@ Issues are useful when there isn't a specific code change that is being proposed
 1. It is perfectly fine to create a channel, even for a single customer meeting. These channels should be named "a_&lt;customer-name&gt;-internal" to indicate their "internal" nature (not shared with customers).
 1. Use [low-context communications](https://en.wikipedia.org/wiki/High-context_and_low-context_cultures) by being explicit in your communications. We are a remote-only company, located all over the world. Provide as much context as possible to avoid confusion. Relatedly, we use [ubiquitous language](#ubiquitous-language) for communication efficiency.
 1. When discussing concepts, be careful not to lean too much into hypotheticals. There is a tipping point in which it decreases value and no longer becomes constructive at helping everyone come into a unified decision.
-
 
 ### How to make a Companywide Announcement
 
