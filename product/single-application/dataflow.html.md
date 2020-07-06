@@ -16,18 +16,18 @@ The source data can be found in this [spreadsheet](https://docs.google.com/sprea
 
 ```mermaid
 graph TB
-    Developer1(Developer)
+    Developer1(Developer<br>Develops & Tests)
     App1[App]
     TestEnv1([Test<br>Environment])
     App1 -- 5. Deploy --> TestEnv1
     TestEnv1 -- 8.Verify application --> Developer1
 
-    Developer2(Developer)
+    Developer2(Developer Deploys)
     ProdEnv1([Production<br>Environment])
     App2[App]
     App2 --> ProdEnv1
 
-    Developer3(Developer)
+    Developer3(Developer Maintains)
     ProdEnv2([Production<br>Environment])
 
   GitLab[GitLab]
