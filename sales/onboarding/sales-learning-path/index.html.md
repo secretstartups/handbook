@@ -294,7 +294,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 
 ### 14. SAs Only: Set Up Your Demo Environment
 *  **ACTIVITY: Obtain Gold Level Access to Enable All Features on GitLabg.com (Assignment - 15 minutes - 10 points)**
-   -An [example request](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/issues/310)
+   -An [example request](https://gitlab.com/gitlab-com/support/internal-requests/issues/310)
 *  **ACTIVITY: Create a demo account on GitLab.demo.i20.online (Assignment - 10 points)**
    -Once you've created a login, contact your manager to be promoted to an Administrator. This will give you access to the Admin area of self-hosted installations, which is unavailable on GitLab.com.
 *  **ACTIVITY: Set Up Standby Demo Environment (Assignment - 30 minutes - 10 points)**
