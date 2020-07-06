@@ -35,7 +35,7 @@ labels, the highest one in the list takes precedence.
 - `~"Community contribution"`: A community contribution label takes precedence over other labels. Therefore, while the work may introduce a new feature or resolve a bug, we prioritize this label over others due to the importance of this particular category.
 You may use a second label such as `~"bug"` or `~"feature"` if you would like to add an additional identifier.
 - `~"security"`: Security-related MRs.
-- `~"bug"`: Defects in shipped code. Read more about [features vs bugs](/handbook/product/product-processes/#issues.html).
+- `~"bug"`: Defects in shipped code. Read more about [features vs bugs](/handbook/product/product-processes/#issues).
 - `~"feature"`: Any MR that contains work to support the implementation of a feature and/or results in an improvement in the user experience. Read more about [features vs bugs](/handbook/product/product-processes/#issues.html).
   - `~"feature::addition"`: Work towards the creation of a new feature. This includes user facing and non-user facing changes such as data model, feature flag and other backend pre-work.
   - `~"feature::maintenance"`: Refinements to an existing feature that is not related to `~bug` resolution. This would include `~"technical debt"` and industry standard updates such as work towards Rails upgrade.
