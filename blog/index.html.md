@@ -1109,7 +1109,7 @@ If the blog post pipeline fails, it will suggest you retry, but the merge button
 Common errors are:
 
 - A special character in the front matter keys (for example, `#`). Fix this by wrapping the text value into single quotes: `title: 'Everyone can contribute: Insights from #GitChallenge'`
-- A dangling new line in the first line. The front matter header needs to start with `---`.
+- A dangling new line in the first line. The front matter header needs to start with **3 dashes**: `---`.
 - The GitLab/Twitter authors have the `@` character added. This is not needed, remove the `@` character.
 
 
