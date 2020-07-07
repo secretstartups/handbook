@@ -61,6 +61,27 @@ of the Support Leadership Team.
 
 Remember to [communicate _why_ and not just _what_](https://about.gitlab.com/handbook/values/#say-why-not-just-what).
 
+### Issues and MRs
+The first step in constructing your change proposal is to create an issue or
+a MR to describe your proposal and invite discussion.
+
+#### Issue
+Until you know what change you are proposing, and so can open a MR, use an
+issue for presenting the problem that you are working to solve and for hosting
+a discussion around that topic. An issue is especially useful during the
+testing phase.
+
+#### MR
+As soon as possible, create the MR(s) to present the actual proposed changes.
+Include at least the following in the MR:
+* The decision and the reasoning behind it (such as data and test results
+  that led to the decision)
+* Summarize the testing, both what tests were run and what the results were
+* Link to the [Message Plan Issue](#the-process-change-rollout-plan)
+
+*NOTE: If there's any part of the proposed changes that cannot be presented through
+a MR, place the information in the issue instead.*
+
 ### Communicating a Local Change
 Even for a change that you’ve determined will be local, inform the leadership
 team. Put it as an “inform” item in the agenda for the next
@@ -107,3 +128,29 @@ We make data driven decisions whenever possible. If your proposed change doesn't
     *  try to run them in parallel with each other to save time
     *  limit your testing to the two or three most likely potential solutions
 
+## Standard Timelines
+For future iterations:
+
+Do we want to have standard timelines for certain steps in a rollout?
+* Initial discussion length
+* Days from rollout start to adoption complete
+
+## Rolling Out a Change
+
+### Roles in Change Management
+During the rollout, use these terms and their provided descriptions to
+communicate clearly about the different roles people can play in the change
+process.
+
+| Role | Description |
+| --- | --- |
+| Champion | Person who will advocate for the change due to their strong interest in, and possible responsibility for, the success of the change. Most of the time champions are managers. |
+| User | Person who use the processes, documents and resources that are being changed. |
+| Impacted Non-User | Person who is not an actual user of the processes, documents and resources that are being changed, yet who will experience changes in the behaviors of the users. <br>*E.g.* Support Engineers may notice managers responding differently to escalations, though they themselves do not need to do anything new. |
+
+### The Process Change Rollout Plan
+When it's time at last to make the change, create a
+[Process Change Rollout Plan issue](https://gitlab.com/gitlab-com/support/managers/change-management/issues/new?issuable_template=support-change-rollout).
+The process change rollout plan template contains instructions to guide you
+through filling in all the appropriate details. And the issue itself then
+describes your full action plan.
