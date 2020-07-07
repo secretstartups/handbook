@@ -17,5 +17,5 @@ title: "Recruiting Process Framework"
    - [Hiring Manager Processes](/handbook/hiring/recruiting-framework/hiring-manager/)
    - [Req Creation Process](/handbook/hiring/recruiting-framework/req-creation/)
    - [Req Overview Processes](/handbook/hiring/recruiting-framework/req-overview/)
-   - [Recruiting Operations Processes](/handbook/hiring/recruiting-framework/recruiting-operations)
+   - [Recruiting Operations & Insights Processes](/handbook/hiring/recruiting-framework/recruiting-operations-insights)
    - [Talent Community Processes](/handbook/hiring/recruiting-framework/talent-community/)
