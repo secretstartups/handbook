@@ -21,3 +21,6 @@ We believe an excellent forecasting process enables us to deploy our resources e
 <figure class="video_container">
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vStHiw-vsSJXuWFkB-iZ37wZXI1GXdI1bQpTin5TfU6v1_PWMFgSjxuttzgCqUeucagCiLPjJAmOKkq/pubhtml?widget=true&amp;headers=false"></iframe>
 </figure>
+
+## Pipeline Velocity
+[File](https://docs.google.com/spreadsheets/d/1O81k_XpInMqn_pLPdbPJruh_nq0QQthJ9-nOiXZzBf0/edit#gid=2079563316)
