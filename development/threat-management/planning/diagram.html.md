@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Defend Product Development Flow
+title: Threat Management Product Development Flow
 ---
 
 # On this page
@@ -206,6 +206,7 @@ graph TD
   A1(Design Issue)
   A2[Provide input<br>and design<br>adjustments]
   A3([Provide input<br>on technical<br>feasibility, sizing])
+  A4a(["Creates<br>MVC Issue(s)"])
   A4(["Creates<br>Implementation Issue(s)"])
   A5["Feature Epic<br>(final design)"]
   A6("Design Issue<br>(closed)")
@@ -218,12 +219,12 @@ graph TD
   A1 --> A5
   A1 --> A2 --> A1
   A2 --> A3 --> A2
-  A3 --> A4 --> A5 --- A6
+  A3 --> A4a --> A4 --> A5 --- A6
   A5 --> A7 --> A9
   A7 --- A8
 
   classDef idea fill:#ffffff,stroke:#19957C;
-  class A1,A4,A6,A7 idea
+  class A1,A4a,A4,A6,A7 idea
 
   classDef feature fill:#ffffff,stroke:#0C7CBA;
   class A0,A5,A9,A9b feature
@@ -245,13 +246,36 @@ child Implementation Issues are delivered. Final requirements and design assets,
 copied here from the Design Issue for reference; at this point the Design Issue is closed. The Epic
 is closed when all Issues are delivered.
 
+**Feature Issues**
+
+All Feature Issues rolling-up to the Feature Epic are their own
+[MVC](/handbook/values/#minimal-viable-change-mvc)s in that they are independently-releasable
+slices of value. Each issue contains its own criteria for delivery, including any implementation
+details and links to relevant design assets for just this Issue. 
+
+Feature Issues are used by our PMs to support tracking on the homepage as well as creating release posts.
+
 
 **Implementation Issues**
 
-All Implementation Issues rolling-up to the Feature Epic are their own
-[MVC](/handbook/values/#minimal-viable-change-mvc)s in that they are independently-releasable
-slices of value. Each issue contains its own criteria for delivery, including any implementation
-details and links to relevant design assets for just this Issue.
+Implementation issues allow each Feature Issue to be broken into small, discrete tasks that can move independently through the product workflow. 
+Whenever possible Implementation Issues should also be independently-releasable and provide value to the customer. 
+When they have to be grouped with other Implementatation Issues, a feature branch should be created to merge the dependant pieces of work together prior to merging into the default branch.  
+
+Here is the structure of an generic Design Issue --> Feature Epic --> Feature Issue(s) --> Implementation Issue(s)
+```mermaid
+graph TD;
+Feature_Epic-->Design_Issue;
+Feature_Epic-->MVC1_Feature_Issue; 
+Feature_Epic-->MVC2_Feature_Issue;
+MVC2_ParentIssue-->MVC2_FE1_Issue;
+MVC2_ParentIssue-->MVC2_BE1_Issue;
+MVC2_ParentIssue-->MVC2_BE2_Issue;
+MVC1_ParentIssue-->MVC1_FE1_Issue;
+MVC1_ParentIssue-->MVC1_BE1_Issue;
+
+```
+
 
 The Engineering Manager is responsible for ensuring these are created, refined and contain
 weights; the `~"workflow::scheduling"` label is then applied to indicate to the Product Manager
@@ -259,6 +283,9 @@ that an Issue is ready for scheduling by being assigned a Milestone.
 
 Once an Implementation Issue has a weigth and a Milestone, it receives the `~"workflow::ready for
 development"` label.
+
+
+
 
 
 #### Develop & Test

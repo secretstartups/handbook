@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Defend Planning
+title: Threat Management Planning
 ---
 
 # On this page
@@ -185,7 +185,7 @@ We are using the Fibonacci sequence for issue weights. Definitions of each numer
 
 #### Weight Labels
 
-Defend issues follow the [labels defined in the Contribution Guide](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/issue_workflow.md#labels),
+Threat Management issues follow the [labels defined in the Contribution Guide](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/issue_workflow.md#labels),
 specifically the `~frontend` and `~backend` Specialization labels.
 
 When an issue has both Specialization labels, the weight can be broken down into
