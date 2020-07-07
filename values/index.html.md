@@ -443,6 +443,10 @@ Team members should first [search for their own answers](/company/culture/all-re
 {:.no_toc}
 Optimize solutions globally for the broader GitLab community. Making a process efficient for one person or a small group may not be the efficient outcome for the whole GitLab community. As an example, it may be best to discard a renewal process that requires thousands of customers to each spend two hours in favor of one that only takes sixty seconds, even when it may make a monthly report less efficient internally! In a decision, ask yourself "For whom does this need to be most efficient?" Quite often, the answer may be your users, contributors, customers, or team members that are dependent upon your decision.
 
+##### Conistency is not a value
+{:.no_toc}
+Consistency is helpful as GitLab scales; the right processes can help optimize solutions globally. However, consistency does not come at the cost of a DRI or a group completing work efficiently; DRIs are encouraged to iterate on existing processes and should choose efficiency over consistency.
+
 ##### Be respectful of others' time
 {:.no_toc}
 Consider the time investment you are asking others to make with meetings and a permission process. Try to avoid meetings, and if one is necessary, try to make attendance optional for as many people as possible. Any meeting should have an agenda linked from the invite, and you should document the outcome. Instead of having people ask permission, trust their judgment and offer a consultation process if they have questions.
