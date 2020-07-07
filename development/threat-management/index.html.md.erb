@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Defend Stage
+title: Threat Management sub-department
 ---
 
 ## On this page
@@ -9,7 +9,17 @@ title: Defend Stage
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-The defend stage is in the "Secure & Defend" sub-department (with the secure stage).
+The Threat Management sub-department contributes to development in the [Secure & Defend
+section](/handbook/product/categories/#secure--defend-section).
+
+We are responsible for defending applications, networks and infrastructure from security
+intrusions. Our sub-department maps to the [Defend
+Stage](/handbook/product/categories/#defend-stage) and the [Threat Insights
+Group](/handbook/product/categories/#threat-insights-group) in the [Secure
+Stage](/handbook/product/categories/#secure-stage).
+
+You can learn more about our approach on the direction pages for [Defend](/direction/defend/) and
+[Secure](/direction/secure/).
 
 ## Vision
 
@@ -21,8 +31,8 @@ By the end of FY21:
 * To give our customers increasingly better controls to defend themselves against attacks (and to help drive more revenue from more customers wanting these categories), we should successfully deliver on the maturity roadmap.
 * All categories have customer use tracking enabled so we can accurately gauge customer acceptance.
 * The (relatively new) defend development team is achieving all metrics that all development teams track (MR's per month per engineer, developer to maintainer ratio, etc.)
-* The defend team has implemented one significant idea to improve the GitLab architecture overall (such as perhaps a framework and guideline for implementation of services).
-* The defend team publishes >=2 blog entries on security trends to inform our customers, prospects, and the security industry as a whole.
+* The sub-department has implemented one significant idea to improve the GitLab architecture overall (such as perhaps a framework and guideline for implementation of services).
+* The sub-department publishes >=2 blog entries on security trends to inform our customers, prospects, and the security industry as a whole.
 
 ## Mission
 
@@ -34,17 +44,14 @@ Provide features to allow customers to manage their security risks effectively a
 
 For more details, see the [Defend stage](/stages-devops-lifecycle/defend/).
 
-## Defend Team
+## Sub-department Members
 
-The Defend Team is responsible for defending applications, networks and infrastructure from security intrusions.  The team maps to the [defend](/handbook/product/categories/#defend) transversal page. You can learn more about our approach on the [Defend Vision](/direction/defend/) page.
-
-## Team Members
-
-The following people are permanent members of the Defend Stage:
+The following people are permanent members of this sub-department.
 
 <%= direct_team(manager_role: 'Director of Engineering, Defend') %>
 
 ### Backend
+
 #### Container Security
 
 <%=  direct_team(role_regexp: /Container Security/, manager_role: 'Backend Engineering Manager, Defend') %>
@@ -75,11 +82,9 @@ The defend team makes use of a number of open source projects including:
 
 <%= partial("direction/categories", :locals => { :stageKey => "defend" }) %>
 
-## Defend YouTube Playlist
+## Threat Management YouTube Playlists
 
-You can find demos of features, team meetings, release kick-offs, public group sessions, and more in the [Defend YouTube Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq4CHpCTMv3OdquJXm6ggYr).
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL05JrBw4t0Kq4CHpCTMv3OdquJXm6ggYr" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+You can find demos of features, recorded synchronous meetings, release kick-offs, public group sessions, and more in the [Defend](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq4CHpCTMv3OdquJXm6ggYr) and [Secure](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq7yUrZazEF3diazV29RRo1) YouTube playlists.
 
 
 ## Issue Boards
@@ -88,19 +93,18 @@ We use the following Workflow Boards to track issue progress throughout a milest
 * [Threat Insights group](https://gitlab.com/groups/gitlab-org/-/boards/364214?label_name[]=group%3A%3Athreat%20insights&milestone_title=%23started)
 * [Container Security group](https://gitlab.com/groups/gitlab-org/-/boards/364214?label_name[]=group%3A%3Acontainer%20security&milestone_title=%23started)
 
-## Delineate Secure and Defend
+## Delineate Secure and Defend Stages
 
 It is important to delineate who the EM and PM DRIs are for every functionality, especially where this may not be obvious.  It is documented on a dedicated [delineation page](delineate_secure_defend.html).
 
 ## Label Usage
 
-If you are submitting an issue about a Defend Stage feature, use `devops::defend` and one of the following group and category labels.
-Leave the issue unassigned, do not set a milestone, and do not add a `workflow` label. Depending on the urgency of the issue please @mention members of the team and post in the #s_defend Slack channel. 
-Doing this will get the issue in front of the most appropriate team members and will make it so that Defend Stage work is tracked appropriately for various metrics.
+In addition to the [Workflow Labels Documentation](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#workflow-labels), the labels below are of particular interest to us:
 
 | Label 						                 | Use        									                                         |
 | --------------------------------------------   |-------------------------------------------------------------------------------------- |
-| `devops::defend`	    			             | All issues related to the Defend Stage      	                                         |
+| `devops::defend`	    			                   | All issues related to the Defend Stage      	                                         |
+| `devops::secure`	    			                   | All issues related to the Secure Stage      	                                         |
 | `group::threat insights`                       | Vulnerability Management, UEBA, Responsible Disclosure	                             |
 | `group::container security`                    | WAF, Container Network Security, Container Behavior Analytics                         |
 | `Category:Vulnerability Management`            | subset of `group::threat insights` issues related to Vulnerability Management         |
@@ -110,8 +114,6 @@ Doing this will get the issue in front of the most appropriate team members and 
 | `Category:Container Network Security`          | subset of `group::container security` issues related to Container Network Security    |
 | `Category:Container Behavior Analytics`        | subset of `group::container security` issues related to Container Behavior Analytics  |
 
-
-Additional labels should be added according to the [Workflow Labels Documentation](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#workflow-labels).
 
 ## Skills
 
@@ -170,7 +172,7 @@ To update the documentation, follow this process:
 * [#s_defend](https://gitlab.slack.com/archives/s_defend)
 * [#s_defend-standup](https://gitlab.slack.com/archives/CQ29K6XR7)
 * [#g_defend_container_security](https://gitlab.slack.com/archives/CU9V380HW)
-* [#s_defend_threat_insights](https://gitlab.slack.com/archives/CV09DAXEW)
+* [#g_secure_threat_insights](https://gitlab.slack.com/archives/CV09DAXEW)
 
 
 ## How to work with us
