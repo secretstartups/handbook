@@ -68,7 +68,7 @@ Team members have 7 days to nominate reviewers before the survey launches on 202
 
 **Reviewer Nomination Process:**
 In Culture Amp, a reviewer is anyone who is requested to provide feedback for a team member.  Reviewers can be managers, direct reports or co-workers.  Here are some best practices for selecting reviewers:
-- Nominate around 7/10 team members including your manager, any direct reports and a selection of peers.
+- Nominate around 7/10 team members including your manager, any direct reports and a selection of peers. If you are in heavily cross-functional or leadership roles consider selecting more than 10 team members and ensuring you have cross-functional representation in line with your level of collaboration.
 - Search for team members using their email or last name, as CultureAmp does not support listing Preferred Name, only Legal Name and Email.
 - Reviewers need to be in a position to provide meaningful feedback, supported by examples, that will help you find a focus.
 - Choose people who you have worked closely with for at least 3 months.  An exception is where you may have worked very closely with someone, say on a project, but for a shorter amount of time.
