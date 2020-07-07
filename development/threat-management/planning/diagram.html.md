@@ -258,24 +258,24 @@ Feature Issues are used by our PMs to support tracking on the homepage as well a
 
 **Implementation Issues**
 
-Implementation issues allow each Feature Issue to be broken into small, discrete tasks that can move independently through the product workflow. 
+Implementation issues allow each Feature Issue to be broken into small, discrete tasks that can move independently through the build workflow steps. 
 Whenever possible Implementation Issues should also be independently-releasable and provide value to the customer. 
 When they have to be grouped with other Implementatation Issues, a feature branch should be created to merge the dependant pieces of work together prior to merging into the default branch.  
 
-Here is the structure of an generic Design Issue --> Feature Epic --> Feature Issue(s) --> Implementation Issue(s)
+Here is the structure of a generic Design Issue, Feature Epic, Feature Issue(s), Implementation Issue(s) breakdown: 
+
 ```mermaid
 graph TD;
 Feature_Epic-->Design_Issue;
 Feature_Epic-->MVC1_Feature_Issue; 
 Feature_Epic-->MVC2_Feature_Issue;
-MVC2_ParentIssue-->MVC2_FE1_Issue;
-MVC2_ParentIssue-->MVC2_BE1_Issue;
-MVC2_ParentIssue-->MVC2_BE2_Issue;
-MVC1_ParentIssue-->MVC1_FE1_Issue;
-MVC1_ParentIssue-->MVC1_BE1_Issue;
+MVC2_Feature_Issue-->MVC2_FE1_Implementation_Issue;
+MVC2_Feature_Issue-->MVC2_BE1_Implementation_Issue;
+MVC2_Feature_Issue-->MVC2_BE2_Implementation_Issue;
+MVC1_Feature_Issue-->MVC1_FE1_Implementation_Issue;
+MVC1_Feature_Issue-->MVC1_BE1_Implementation_Issue;
 
 ```
-
 
 The Engineering Manager is responsible for ensuring these are created, refined and contain
 weights; the `~"workflow::scheduling"` label is then applied to indicate to the Product Manager
