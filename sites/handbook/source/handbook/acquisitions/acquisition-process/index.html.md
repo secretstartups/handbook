@@ -10,7 +10,7 @@ title: "Acquisition Process"
 {:toc .hidden-md .hidden-lg}
 
 This is a detailed view of our acquisition process. For more information about
-our acquisitions approach visit our [acquisitions handbook](/handbook/acquisitions).
+our acquisitions approach visit our [acquisitions handbook](/handbook/acquisitions/).
 
 ### Acquisitions Deal Funnel
 The corporate development team conducts a comprehensive screening of our industry ecosystem in order to identify potential acquisition opportunities. Below is an overview of our target funnel.
@@ -58,7 +58,7 @@ The process is comprised of four key stages:
 1. Intro calls: The purpose of this 30-min call is to learn more about the potential target company and assess if further acquisition discussions make sense. The agenda for the call is:
     1. Company overview including team, products, financials, and funding
     1. Discuss which features could accelerate GitLab's roadmap
-    1. Review the GitLab acquisition process including deal terms, as appropriate ([acquisitions handbook](/handbook/acquisitions))
+    1. Review the GitLab acquisition process including deal terms, as appropriate ([acquisitions handbook](/handbook/acquisitions/))
     *  TARGET TEAM: Ahead of this call please review our [roadmap](/direction/) and outline which of your current and future product features can be implemented into GitLab's product categories. Outline a simple integration timeline for those features, considering an MVC release on the first month after joining GitLab and monthly releases following with quick iterations.
 1. Share call summary ([Initial Acquisition Review Template](https://docs.google.com/document/d/1RekjfQj89pIV7DZzeNZ00HYOwqlqlDFm7Gy4yZET9rc/edit?usp=sharing), a GitLab internal document) of companies that are aligned with GitLab's acquisition strategy ("Qualified Pipeline") with relevant product lead. 
    *  Create a new, private Slack channel (format: `#acq-company_name`) and add the internal GitLab document to the top. Add EVP Product and the relevant product and engineering leaders to help with the initial assessment of the opportunity. 
@@ -171,10 +171,10 @@ The process is comprised of four key stages:
 1. The corporate development acquisition lead will coordinate the signing and closing of the deal
 
 
-### [Integration](/handbook/acquisitions/acquisition-process/integration)
+### [Integration](/handbook/acquisitions/acquisition-process/integration/)
 The Corporate Development team is responsible for overseeing and facilitating the integration of the acquisition post-closing, working closely with Legal, Product, Engineering, and Finance. 
 
-The integration process is outlined in our [acquisition integration page](/handbook/acquisitions/acquisition-process/integration).
+The integration process is outlined in our [acquisition integration page](/handbook/acquisitions/acquisition-process/integration/).
 
 
 ## Acquisition Team
