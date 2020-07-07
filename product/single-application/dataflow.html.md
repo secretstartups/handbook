@@ -16,35 +16,28 @@ The source data can be found in this [spreadsheet](https://docs.google.com/sprea
 
 ```mermaid
 graph TB
-  subgraph Develop and Test
-    Developer1(Developer)
+    Developer1(1. Developer<br>Develops & Tests)
     App1[App]
     TestEnv1([Test<br>Environment])
     App1 -- 5. Deploy --> TestEnv1
     TestEnv1 -- 8.Verify application --> Developer1
-  end
 
-  subgraph Deploy Code
-    Developer2(Developer)
+    Developer2(2. Developer Deploys)
     ProdEnv1([Production<br>Environment])
     App2[App]
     App2 --> ProdEnv1
-  end
 
-  subgraph Maintain Code
-    Developer3(Developer)
+    Developer3(3. Developer Maintains)
     ProdEnv2([Production<br>Environment])
-  end
 
   GitLab[GitLab]
 
-  Developer1 -- 1. Login --> GitLab
-  Developer1 -- 2. View Issue --> GitLab
-  Developer1 -- 3. Change Code<br>+ Submit MR --> GitLab
-  GitLab -- 4. Build App --> App1
-  %%GitLab -- 5. Deploy --> TestEnv1
-  GitLab -- 6. Run quality tests --> TestEnv1
-  GitLab -- 7. Run security tests --> TestEnv1
+  Developer1 -- 1. Login &<br> View Issue --> GitLab
+  Developer1 -- 2. Change Code<br>+ Submit MR --> GitLab
+  GitLab -- 3. Build App --> App1
+  GitLab -- 4. Deploy --> TestEnv1
+  GitLab -- 5. Run quality tests --> TestEnv1
+  GitLab -- 6. Run security tests --> TestEnv1
 
   Developer2 -- 1. Deploy --> GitLab
   Developer2 -- 2. Mark issue<br>as fixed --> GitLab
