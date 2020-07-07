@@ -95,6 +95,7 @@ The process is comprised of four key stages:
       1. Domain names
       1. Servers
       1. Dependencies
+      1. Database schemas
       1. Data
       1. Trademarks
       1. Social media accounts
