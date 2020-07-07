@@ -97,6 +97,15 @@ Section channels (prefixed with `s_`) correspond to sections within departments.
 * **[`#s_enablement`](https://gitlab.slack.com/archives/s_enablement)**: For the [Enablement section](/handbook/product/categories/#enablement-section).
 * **[`#s_growth`](https://gitlab.slack.com/archives/s_growth)**: For the [Growth section](/handbook/product/categories/#growth-section).
 
+#### Sub-Department Channels (sd_)
+
+Sub-department channels (prefixed with `sd_`) correspond to sub-departments within departments.
+
+**Example**
+
+* **[`#sd_threat_mgmt`](https://gitlab.slack.com/archives/sd_threat_mgmt)**: For the [Threat Management sub-department](handbook/engineering/development/threat-management/).
+
+
 #### Values Feed Channels (values-feed-)
 
 These channels are automated to show all messages from throughout our Slack channels that are reacted to with one of our values emojis:
