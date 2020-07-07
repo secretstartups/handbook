@@ -56,7 +56,7 @@ For GitLab.com Availability, please refer to the [Availability Prioritization](/
 
 | Type of `~bug`         | `~S1` - Blocker                                       | `~S2` - Critical                                      | `~S3` - Major                                | `~S4` - Low                                    |
 |------------------------|-------------------------------------------------------|-------------------------------------------------------|----------------------------------------------|------------------------------------------------|
-| Functional <br> (includes impact to user experience `~UX~`) | Unusable feature with no workaround; user is blocked | Broken feature with an unacceptably complex workaround; users do not understand the workaround and are likely to ask for support | Broken feature with a workaround; users are self sufficient in completing the task with the workaround; however, it can cause significant delays | Functionality is inconvenient or has a cosmetic issue  |
+| Functional <br> (includes impact to user experience `~UX~`) | Unusable feature with no workaround. User is blocked or believes that they are blocked. | Broken feature with an unacceptably complex workaround. Users do not understand the workaround and are likely to ask for support. | Broken feature with a workaround. Users are self sufficient in completing the task with the workaround; however, it can cause significant delays. | Functionality is inconvenient or has a cosmetic issue.  |
 | `~performance` Response time <br> (API/Web)[^1] | Above 9000ms to timing out   | Between 2000ms and 9000ms                             | Between 1000ms and 2000ms                    | Between 500ms and 1000ms                       |
 | `~performance` Degradation <br> (to be reviewed for deprecation) |             | Degradation is guaranteed to occur in the near future | Degradation is likely to occur in the near future | Degradation may occur but it's not likely |
 | Affected Users <br> (to be reviewed for deprecation) | Impacts 50% or more of users | Impacts between 25%-50% of users                 | Impacts up to 25% of users                   | Impacts less than 5% of users                  |
@@ -72,9 +72,10 @@ If a issue seems to fall between two severity labels, assign it to the higher se
   - Security breach.
   - Unable to create an issue or merge request.
   - Unable to add a comment or thread to the issue or merge request.
+  - An error message displays (that looks like a blocker) when the message should instead be informational. 
 - Example(s) of `~S2`
-  - Cannot submit changes through the web IDE but the command line works.
-  - A status widget on the merge request page is not working but information can be seen in the test pipeline page.
+  - Cannot submit changes through the web IDE, but the command line works.
+  - A status widget on the merge request page is not working, but information can be seen in the test pipeline page.
 - Example(s) of `~S3`
   - Can create merge requests only from the Merge Requests list view, not from an Issue page.
   - Status is not updated in real time and needs a page refresh.
