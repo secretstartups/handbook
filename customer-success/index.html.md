@@ -149,6 +149,10 @@ In an effort to keep AWS spend down initiatives are being taken automatically cl
 * In 7 days if the instance is still off a snapshot will be taken and it will be terminated.
 * If the instance is still on but the expiration has not been changed it will be terminated.
 
+### Customer Success Tools and Scripts
+
+By customer or internal request, we sometimes develop tools to automate certain GitLab tasks using the API. The resulting tools and scripts are publicly available for everyone to use and contribute to in the [GitLab CS Tools group](https://gitlab.com/gitlab-cs-tools).
+
 ###  Frequently Asked Questions
 
 Customer Success team members maintain a [FAQ](/handbook/customer-success/faq) to keep questions customers ask documented in a place where everyone can view and contribute to.
