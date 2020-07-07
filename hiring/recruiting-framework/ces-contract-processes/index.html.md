@@ -313,7 +313,7 @@ To create the contract:
 
 ## Preparing Employment Agreements for GitLab team-members in India
 
-GitLab is working in partnership with Global Upside for employing GitLab team-members located in India. The process for creating and sending an agreement is as follows:
+GitLab is working in partnership with [Global Upside](https://globalupside.com) for employing GitLab team-members located in India. The process for creating and sending an agreement is as follows:
 
 1. The Offer is made by the recruiter per the [hiring process](/handbook/hiring).
 1. CES sends “Global Upside-Information Request” email to the new hire to collect additional details.
