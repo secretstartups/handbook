@@ -285,6 +285,17 @@ It is recommended that team members inform their manager of their desire to move
 
 If you are unsure of the role, set up a coffee chat with the hiring manager to introduce yourself. Express your interest in the role and your desire to learn more about the vacancy requirements and skills needed. If after that conversation you do not feel that you are qualified or comfortable making the move, ask the hiring manager to provide guidance on what you can do to develop yourself so you will be ready for the next opportunity. It may also be possible to set up an [interning for learning](/handbook/people-group/promotions-transfers/#interning-for-learning) situation with the hiring manager.
 
+#### Announcing Internal Promotions/Transfers
+
+While the [Internal Transition Issue](https://about.gitlab.com/handbook/people-group/promotions-transfers/#internal-transition-issue) aims to kick off the logistics of switching roles, the guidelines below are meant to guide the communication of internal promotions and transitions to ensure consistency and alignment from all parties involved.
+
+1. Prior to any company-wide announcement, the team member should be given the opportunity to share the news with their immediate team members.
+1. The `new manager` should post the announcement in the `#team-member-updates` Slack channel. This should ideally happen (timezome permitting) on the **same day that the candidate signs their [Letter of Adjustment](https://about.gitlab.com/handbook/contracts/#letter-of-adjustment)**.
+1. For cases where announcing on the same day the Letter of Adjustment is signed is not possible, the announcement should no more than 24 hours after the candidate has signed.
+1. Following this initial announcement, the `current manager` can proceed with making this announcement in other relevant team-specific channels.
+
+_NOTE: Though the Total Rewards and People Experience team may have visibility into promotions or transfers due to the administration of updating information as part of their roles, they should not communicate with the team member about their promotion/tranfer until an announcement has been made._--
+
 #### Realignment of Resources impacting multiple team members
 
 Company priorities can change and occasionally some or all members of a team may be asked to transfer to high priority vacancies within other teams.
