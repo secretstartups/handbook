@@ -201,7 +201,7 @@ Rep letters will be sent quarterly by the Internal Audit Team. Reps are required
 
 
 ##### PS SPIFF Tracking Process: 
-1. Standard Professional Services Deal Process: Follow standard Professional Services deal process - https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/
+1. Standard Professional Services Deal Process: Follow standard [Professional Services deal process](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/)
 2. Primary TAM must be identified on the Account record to receive credit
 3. Assigning Solution Architect to Opportunity: The following teams can edit the "Primary Solution Architect Field" on the related Opportunity 
     * Solution Architects
@@ -212,5 +212,5 @@ Rep letters will be sent quarterly by the Internal Audit Team. Reps are required
 4. Professional Services Compensation:
     * SFDC will capture the PS $ amount in the field named "Comp Pro Serv Value" on the license related opp
     * This will capture both pre-existing SKUs AND associated Professional Services Opportunities for an SOW
-5. SFDC - Dashboard to track PS Open pipe and won deals: https://gitlab.my.salesforce.com/01Z4M000000slWT Note "Comp Pro Serv Value" on Opportunity will reflect amount considered for compensation.
+5. [SFDC Dashboard](https://gitlab.my.salesforce.com/01Z4M000000slWT) to track PS Open pipe and won deals.   Note "Comp Pro Serv Value" on Opportunity will reflect amount considered for compensation.
 
