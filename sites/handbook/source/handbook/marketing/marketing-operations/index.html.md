@@ -274,7 +274,7 @@ In the event Marketo has an outage and/or the forms go offline, the forms with h
 
 The values listed below are the only values currently supported. If you attempt to upload or import leads or contacts into Salesforce without one of these initial sources you will encounter a validation rule error. If you think that there needs to be a new Initial Source added to this list and into Salesforce please slack the appropriate team member(s) listed in the [Tech Stack](/handbook/business-ops/tech-stack-applications/#tech-stack-applications).
 
-The `Initial Source` table below is current as of 9 October 2019.
+The `Initial Source` table below is current as of 7 July 2020.
 
 Status in the table below means:
 - Active = can be selected from picklist
@@ -295,75 +295,27 @@ Status in the table below means:
 | Gated Content - Video | inbound | Watch a gated video asset | Active |
 | Gated Content - Whitepaper | inbound | Download a white paper | Active |
 | GitLab.com | inbound | Registered for GitLab.com account | Active |
-| Newsletter | inbound | to be evaluated | Active |
+| Newsletter | inbound |  | Active |
 | OSS | inbound | Open Source Project records related to the OSS offer for free licensing | Active |
 | Request - Contact | inbound | Filled out contact request form on GitLab website | Active |
-| Request - Professional Services | inbound | Any type of request that comes in requesting to engage with our Customer Success team | Active |
+| Request - Professional Services | inbound | Any type of request that comes in requesting to engage with our Professional Services team | Active |
 | Security Newsletter | inbound | Signed up for security alerts | Active |
 | Trial - Enterprise | inbound | In-product or web request for self-hosted Enterprise license | Active |
 | Trial - GitLab.com | inbound | In-product SaaS trial request | Active |
-| Web | inbound | transition to `Web Direct` | Active |
+| Web | inbound |  | Active |
 | Web Chat | inbound | Engaged with us through website chat bot | Active |
 | Consultancy Request | inbound |  | Active |
 | Drift | inbound |  | Active |
 | Request - Community | inbound |  | Active |
 | Request - Public Sector | inbound |  | Active |
 | Startup Application | inbound |  | Active |
-| Other | Other | Should never be used but is a legacy source that will be deprecated | Active |
+| Other | Other |  | Active |
 | AE Generated | outbound | Sourced by an Account Executive through networking or professional groups | Active |
-| Clearbit | outbound | transition to `Prospecting` -> sub field `Clearbit` | Active |
-| DiscoverOrg | outbound | transition to `Prospecting` -> sub field `DiscoverOrg` | Active |
-| LinkedIn | outbound | transition to `Prospecting` -> sub field `LinkedIn` | Active |
-| SDR Generated | outbound | Sourced by an SDR through networking or professional groups | Active |
-| Prospecting - General | outbound |  | Active |
-| Advertisement | paid demand gen | to be evaluated | Active |
-| Conference | paid demand gen | Stopped by our booth or received through event sponsorship | Active |
-| Field Event | paid demand gen | Paid events we do not own but are active participant (Meetups, Breakfasts, Roadshows) | Active |
-| Owned Event | paid demand gen | Events that are created, owned, run by GitLab | Active |
-| Promotion | paid demand gen | to be evaluated | Active |
-| Virtual Sponsorship | paid demand gen |  | Active |
-| Purchased List | purchased list |  | Active |
-| Employee Referral | referral | to be evaluated | Active |
-| Partner | referral | GitLab partner sourced name either through their own prospecting and/or events | Active |
-| Word of Mouth | referral | to be evaluated | Active |
-| Event Partner | referral |  | Active |
-| Existing Client | referral |  | Active |
-| External Referral | referral |  | Active |
-| Webcast | virtual event | Register for any online webcast (not incl `Demo`) | Active |
-| Webinar | virtual event |  | Active |
-| Web Direct | web direct | Created when purchase is made direct through the portal (check for duplicates & merge record if found) | Active |
-| GitLab Subscription Portal | web direct |  | Active |
-| CE Version Check | core |  | Inactive |
-| Contact Request | inbound |  | Inactive |
-| Content | inbound |  | Inactive |
-| EE Version Check | inbound |  | Inactive |
-| Enterprise Trial | inbound |  | Inactive |
-| MovingtoGitLab | inbound |  | Inactive |
-| White Paper | inbound |  | Inactive |
-| Legacy | Other | to be evaluated | Inactive |
-| Swag Store | Other | to be evaluated | Inactive |
-| Unknown | Other | need to evaluate what records are in this status - it should never be used | Inactive |
-| WTLondonR | Other |  | Inactive |
-| Public Relations | Other | to be evaluated | Inactive |
-| InsideView | Other | transition to `Prospecting` -> sub field `InsideView` | Inactive |
-| OnlineAd | Other | to be evaluated | Inactive |
-| Referral | Other | to be evaluated | Inactive |
-| Registered | Other | transition to correct event type source | Inactive |
-| Sales | Other | to be evaluated | Inactive |
-| SocialMedia | Other | to be evaluated | Inactive |
-| Unsubscribe Form | Other | to be evaluated | Inactive |
-| Gemnasium | outbound | Previous a Gemnasium customer/prospect merged into our database when acquired | Inactive |
-| GitLab Hosted | outbound | GitLab Hosted customer/user | Inactive |
-| Gitorious | outbound | Previous a Gitorios customer/prospect merged into our database | Inactive |
-| Live Event | outbound | transition to correct category based on first event attended -> `Owned Event`; `Field Event` or `Conference` | Inactive |
-| Datanyze | outbound | transition to `Prospecting` -> sub field `Datanyze` | Inactive |
-| Leadware | outbound | transition to `Prospecting` -> sub field `Leadware` | Inactive |
-| Prospecting - LeadIQ | outbound | transition to `Prospecting` -> sub field `LeadIQ` | Inactive |
-| Zoominfo | outbound | transition to `Prospecting` -> sub field `Zoominfo` | Inactive |
-| gmail | outbound |  | Inactive |
-| seamless.ai | outbound |  | Inactive |
-| Prospecting | outbound | Account research and development prospecting work | Inactive |
-| Seminar - Partner | referral | not actively used - transition to `Owned Event` or `Field Event` | Inactive |
+| Clearbit | outbound |  | Active |
+| Datanyze | outbound |  | Active |
+| DiscoverOrg | outbound |  | Active |
+| Leadware | outbound | Sourced by an SDR through networking or professional groups | Active |
+| LinkedIn | outbound |  | Active |
 
 ## Lead and Contact Statuses
 The Lead & Contact objects in Salesforce have unified statuses with the following definitions. If you have questions about current status, please ask in #lead-questions channel on Slack.
