@@ -35,7 +35,7 @@ graph TB
   Developer1 -- 1. Login &<br> View Issue --> GitLab
   Developer1 -- 2. Change Code<br>+ Submit MR --> GitLab
   GitLab -- 3. Build App --> App1
-  %%GitLab -- 4. Deploy --> TestEnv1
+  GitLab -- 4. Deploy --> TestEnv1
   GitLab -- 5. Run quality tests --> TestEnv1
   GitLab -- 6. Run security tests --> TestEnv1
 
