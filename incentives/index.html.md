@@ -284,7 +284,7 @@ To claim the grant, include a line item on your expense report or invoice along 
 
 [meetup-calendar]: https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV85cWZnajRuMm9nZHMydmlhMDFrb3ZoaGpub0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t
 
-### Significant Life Event Grants
+#### Significant Life Event Grants
 
 As we continue to prioritize the health and safety of our team members, GitLab is temporarily suspending the Significant Life Event Grant program until further notice.  We continue to monitor the situation and will update this information and the [travel policy](/handbook/travel/#travel-guidance-covid-19) accordingly.
 
