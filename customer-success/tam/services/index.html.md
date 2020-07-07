@@ -56,6 +56,7 @@ There are various services a Technical Account Manager will provide to ensure th
 - Upgrade planning
 - User adoption strategy
 - Migration strategy and planning
+- [Infrastructure upgrade coordination](/handbook/customer-success/tam/services/infrastructure-upgrade)
 - Launch support
 - Monitors support tickets and ensures that the customer receives the appropriate support levels
 - Support ticket escalations
