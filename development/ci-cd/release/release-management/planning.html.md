@@ -13,6 +13,14 @@ description: 'How the Release Team Operates'
 
 ## Planning
 
+### Think Big sessions
+
+Our team meets every two weeks synchronously to discuss and align on the Release Management direction, user research findings, and brainstorm on product design and engineering proposals.
+
+Think Big sessions allow our team to stay aligned on our medium to long-term goals, and ensure that our short-term goals and deliverables are leading us in that direction. Some of the goals of this meeting revolve around discussing possible ideas and solutions for feature implementation, discuss open questions the team DRIs had that research could answer, share research results as they came in to keep the entire team informed, and capture new ideas to be discussed asyncrhonously.
+
+Watch all Release Management Think Big recordings on [GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0Kpu857Z8gKR_BiPI-EXln1X).
+
 ### Kanban
 
 We work in a continuous Kanban manner while still aligning with Milestones.
