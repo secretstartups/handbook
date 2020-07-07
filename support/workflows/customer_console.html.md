@@ -120,11 +120,11 @@ Find namespaces similar to the given string
 #### Sample
 
 ```ruby
-irb(main):421:0> find_namespace('MSBAI')
+irb(main):421:0> find_namespace('test')
 [!] Possible matches:
-	[+] Name Mohamed Sbai         | Full Path msbai
-	[+] Name Mostapha Sbai        | Full Path msbai1
-	[+] Name MSBAI                | Full Path msbai2
+	[+] Name Test Example         | Full Path test
+	[+] Name Other Example        | Full Path test1
+	[+] Name My Test              | Full Path test2
 => " "
 ```
 
