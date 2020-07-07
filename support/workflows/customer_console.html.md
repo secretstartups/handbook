@@ -107,6 +107,27 @@ trial                             true
  zuora_account_id
 ```
 
+### find_namespace
+
+Find namespaces similar to the given string 
+
+#### Parameters
+
+| Name | Required | Details |
+| ------ | ------ | ------ |
+| `:namespace` | *Yes* | The namespace to search for, it can be complete or partial|
+
+#### Sample
+
+```ruby
+irb(main):421:0> find_namespace('MSBAI')
+[!] Possible matches:
+	[+] Name Mohamed Sbai         | Full Path msbai
+	[+] Name Mostapha Sbai        | Full Path msbai1
+	[+] Name MSBAI                | Full Path msbai2
+=> " "
+```
+
 ## Plan Methods
 
 ### **change_plan**
