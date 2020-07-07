@@ -61,10 +61,6 @@ The compensation calculator is a tool to assist the Total Rewards team in determ
 
 As with all things at GitLab, the compensation calculator is a constant work in progress. There are a few options for reporting a discrepancy if you find the calculator isn't outputting data that is true to market.
 
-### Rounding Best Practice
-
-Previously, our compensation calculator and processes (percentage changes from compensation review, relocations, currency fluctuations, etc.) produced numbers that were exact, sometimes down to the dollar and cents. To make the numbers more digestible, we are implementing a practice to round up compensation in the local currency to the nearest hundredth. This rounding practice applies to future compensation changes from July 2020 onwards.
-
 **If you are an internal GitLab team member or external to GitLab:**
 
 * Create an issue utilizing the issue templates.
@@ -77,6 +73,10 @@ Previously, our compensation calculator and processes (percentage changes from c
 
 * You can use the [Reporting a Compensation Discrepancy Form](https://forms.gle/tEmiwzYxCJqZhivF8).
    * Providing an email is optional, but we will only reach out directly with any updates if an email is provided.
+
+### Rounding Best Practice
+
+Previously, our compensation calculator and processes (percentage changes from compensation review, relocations, currency fluctuations, etc.) produced numbers that were exact, sometimes down to the dollar and cents. To make the numbers more digestible, we are implementing a practice to round up compensation in the local currency to the nearest hundredth. This rounding practice applies to future compensation changes from July 2020 onwards.
 
 ## SF Benchmark
 
