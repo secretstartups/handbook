@@ -154,3 +154,4 @@ Qualitative Success Metrics
 | [March 2020: 2020-04-02](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-04-02) | We're Live! Time to Level Up with Field Flash. ⚡️ | Partner Program launch, COVID-19 resources & sales process changes |
 | [April 2020: 2020-05-05](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-05-05) | GitLab Field Flash: Your Top Field Highlights from April ⚡️ | GitHub competitive resources, GTM Field Update, requirements management |
 | [May 2020: 2020-06-02](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-06-02) | GitLab Field Flash: Your Top Field Highlights from May ⚡️ | Pricing overview, QBR ask follow-ups, GitLab 13.0 milestone release |
+| [June 2020: 2020-07-07](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-07-07) | NEW ⚡️ GitLab Field Flash: June Edition ⚡️ | GitLab Compete page, GitLab vs. BitBucket, Ecosystem Technology Partners |
