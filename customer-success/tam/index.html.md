@@ -27,6 +27,7 @@ title: "Technical Account Management Handbook"
 
 - [Account Engagement](/handbook/customer-success/tam/engagement/)
 - [Account Onboarding](/handbook/customer-success/tam/onboarding/)
+- [Digital Journey](/handbook/customer-success/tam/digital-journey/)
 - [Cadence Calls](/handbook/customer-success/tam/cadence-calls/)
 - [Success Plans](/handbook/customer-success/tam/success-plans/)
 - [Playbooks](/handbook/customer-success/playbooks/)
