@@ -60,7 +60,7 @@ See the [Playbooks Page](/handbook/customer-success/playbooks)
 
 ### Technical Account Managers
 * [Technical Account Manager handbook](/handbook/customer-success/tam/)
-* [Commercial TAM handbook](handbook/customer-success/comm-sales/#technical-account-managers)
+* [Commercial TAM handbook](/handbook/customer-success/comm-sales/#technical-account-managers)
 
 ### Demo Systems
 * [Demo Systems documentation](/handbook/customer-success/demo-systems/)
