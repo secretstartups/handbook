@@ -27,33 +27,33 @@ We recorded a training on this subject:
 * Transfers occur when someone changes job families. A Backend Engineer would transfer to a Site Reliability Engineer.
 * Change in specialty has no impact to job family. Therefore, this is not a promotion or a transfer.
 
-## Internal Transition Issue 
+## Career Mobility Issue 
 
-A [Internal Transition Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/blob/master/.gitlab/issue_templates/internal_transition.md) is created when the one of the following criteria is met;
-- Change from Individual Contributor to Manager
-- Change from Manager to Individual Contributor
-- Change of team
+A [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) is created when the one of the following criteria is met;
+- Migration from Individual Contributor to Manager
+- Migration from Manager to Individual Contributor
+- Migration of Team
 
-## Internal Transition Issue Creation Process
+## Career Mobility Issue Creation Process
 
-The Total Rewards Team will notify the People Experience Team of a pending transition of a team member via @ mention in the [Promotion/Transfer Tracker](https://docs.google.com/spreadsheets/d/10O0idnLKcE4MHaNSt9dcvRzTx0Q_G6klKcznvmgrJbY/edit#gid=0). The [People Experience Coordinator](https://about.gitlab.com/job-families/people-ops/people-experience-associate/#people-experience-coordinator) will then assign the transition to a [People Experience Associate](https://about.gitlab.com/job-families/people-ops/people-experience-associate/).
+The Total Rewards Team will notify the People Experience Team of a pending migration of a team member via @ mention in the Promotion/Transfer Tracker. The [People Experience Coordinator](https://about.gitlab.com/job-families/people-ops/people-experience-associate/#people-experience-coordinator) will then assign the migration to a [People Experience Associate](https://about.gitlab.com/job-families/people-ops/people-experience-associate/).
 
-The [Internal Transition Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/blob/master/.gitlab/issue_templates/internal_transition.md) will then be **created by the People Experience Associate** assigned by following the steps below:
+The [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) will then be **created by the People Experience Associate** assigned by following the steps below:
 
-1. One day prior to the effective date, the People Experience Associate will start the transition issue process. 
-1. In Slack, go to your profile as if you were going to send a Slack message to yourself. Type the command /pops run transition BambooHR_ID_number (not Employee ID #). This number is found in the team member's BambooHR profile URL, after id=. It is a 5-digit number. An example of the command would be /pops run onboarding 00000. If BambooHR's API is down, this ChatOps command will fail and will need to be created manually.
-1. You will be pinged in Slack once the onboarding issue is created, which usually takes 30 seconds or so. The ping will include a link to the new transition issue.
-1. Add a due date of two weeks from the transition effective date.
+1. One day prior to the effective date, the People Experience Associate will start the Career Mobility Issue process. 
+1. In Slack, go to your profile as if you were going to send a Slack message to yourself. Type the command /pops run careermobility BambooHR_ID_number (not Employee ID #). This number is found in the team member's BambooHR profile URL, after id=. It is a 5-digit number. An example of the command would be /pops run careermobility 00000. If BambooHR's API is down, this ChatOps command will fail and will need to be created manually.
+1. You will be pinged in Slack once the career mobility issue is created, which usually takes 30 seconds or so. The ping will include a link to the new Career Mobility issue.
+1. Add a due date of two weeks from the migration effective date.
 1. Check to see that the previous Manager and new Manager is listed correctly in the issue.
 1. Complete all applicable tasks under the People Experience list. 
 
 ## Compliance
 
-The People Experience Coordinator completes a weekly audit of all transition issues opened within that specific week and checks that all tasks have been completed by all members applicable. In the event that tasks are still outstanding, the People Experience Coordinator will ping the relevant team members within the offboarding issue to call for tasks to be completed.
+The People Experience Associates complete a weekly audit of all Career Mobility Issues opened within that specific week and checks that all tasks have been completed by all members applicable. In the event that tasks are still outstanding, the People Experience Associate will ping the relevant team members within the career mobility issue to call for tasks to be completed.
 
-Once all tasks have been completed, the People Experience Coordinator or Associate will close the transition issue accordingly.
+Once all tasks have been completed, the People Experience Coordinator or Associate will close the Career Mobility Issue accordingly.
 
-All transition tasks by the applicable team members needs to be completed within 2 weeks of the transition start date.
+All migration tasks by the applicable team members needs to be completed within 2 weeks of the migration start date.
 
 ## BambooHR or Greenhouse Process
 
@@ -146,7 +146,7 @@ This section describes the approval chain after a manager submits a promotion or
 1. If the request is approved, the Total Rewards team will process the change on BambooHR and stage the Letter of Adjustment in HelloSign.
 1. HelloSign will prompt the manager to discuss the promotion with the team member and announce on the Slack **#team-member-updates** channel where the manager describes how the individual met the promotion criteria and includes a link to the merge request where the individual's title is updated on the team page.
 1. When announcing or discussing a promotion on Slack **#team-member-updates** channel, please include a link the promotion Google Doc to increase visibility for the reasons behind the promotion.
-1. For change of departments or change of roles (individual contributor to managers), People Experience Associates will create an internal transition issue.
+1. For change of departments or change of roles (individual contributor to managers), People Experience Associates will create a Career Mobility Issue.
 
 ### For People Business Partners: Approving Promotions & Compensation Changes
 
@@ -197,7 +197,7 @@ This section describes the approval chain after a manager submits a promotion or
    * Add sign date field for the team member
    * **Note:** Make sure that **a)** "Assign signer order” option has been selected while preparing the doc, and **b)** In **Settings >> Profile >> Send an email to all parties in an ordered signature request when the request has started** option is unchecked.
 1. Once signed by all parties, save the letter to the “Contracts & Changes” folder in BambooHR.
-1. If some amount of onboarding in the new role or offboarding from the old role is required (for example a change in access levels to infrastructure systems; switch in groups and email aliases, etc.), notify People Experience Associates in the internal Promotions/Transfers spreadsheet tracker (using the `people-exp@domain.com` alias) and the People Experience Associates will create an associated [Internal Transition Issue](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/internal_transition.md.md) with the [Slack command](https://about.gitlab.com/handbook/people-group/engineering/#internal-transition-issue-creation) list and track associated tasks for the previous and new manager. Tag or mention the aligned [People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) in the Internal Transition Issue.
+1. If some amount of onboarding in the new role or offboarding from the old role is required (for example a change in access levels to infrastructure systems; switch in groups and email aliases, etc.), notify People Experience Associates in the internal Promotions/Transfers spreadsheet tracker (using the `people-exp@domain.com` alias) and the People Experience Associates will create an associated [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) with the [Slack Command](https://about.gitlab.com/handbook/people-group/engineering/#internal-transition-issue-creation) list and track associated tasks for the previous and new manager. Tag or mention the aligned [People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) in the Career Mobility Issue.
 1. The previous manager will be prompted to create an [Access Removal Request Issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/blob/master/.gitlab/issue_templates/Access%20Removal%20Request.md) and the new manager will create an [Access Request Issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests) to ensure the correct access is given for the new role and deprovisioned for the previous role, if need be.
 
 ## Demotions
@@ -356,7 +356,6 @@ If at the end of your internship, you are interested in transferring teams pleas
 #### Starting your new interning role
 
 Please create a new issue in the [Training project](https://gitlab.com/gitlab-com/people-ops/Training/issues/new), choose the `interning_for_learning` template, and fill out the placeholders.
-Here is [an example](https://docs.google.com/document/d/1Oo7gnsFN5t_tQWgkYUqx3TWVRjlIiFvcG0veTabPH4g/edit#heading=h.vp8zbds2lyqa).
 
 Once you've agreed upon the internship goals, both managers should inform their respective groups' People Business Partner.
 
