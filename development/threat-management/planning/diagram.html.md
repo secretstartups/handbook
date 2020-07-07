@@ -206,7 +206,7 @@ graph TD
   A1(Design Issue)
   A2[Provide input<br>and design<br>adjustments]
   A3([Provide input<br>on technical<br>feasibility, sizing])
-  A4a(["Creates<br>MVC Issue(s)"])
+  A4a(["Creates<br>Feature Issue(s)"])
   A4(["Creates<br>Implementation Issue(s)"])
   A5["Feature Epic<br>(final design)"]
   A6("Design Issue<br>(closed)")
