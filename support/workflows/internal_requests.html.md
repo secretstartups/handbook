@@ -12,7 +12,7 @@ category: GitLab.com
 
 ----
 
-This document details the various workflows that should be followed in order to properly service requests that we receive in the [dotcom-internal](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/issues) issue tracker along with which template to use if you need to open an issue in it yourself to document an action taken on a GitLab.com user or group. First, it will go over the general workflow you should follow when faced with a new issue in `dotcom-internal` and then it will inform you how to perform the specific tasks required to process each type of request.
+This document details the various workflows that should be followed in order to properly service requests that we receive in the [internal-requests](https://gitlab.com/gitlab-com/support/internal-requests/issues) issue tracker along with which template to use if you need to open an issue in it yourself to document an action taken on a GitLab.com user or group. First, it will go over the general workflow you should follow when faced with a new issue in `internal-requests` and then it will inform you how to perform the specific tasks required to process each type of request.
 
 ## General Workflow
 
@@ -77,7 +77,7 @@ If any fields in the issue description were filled out incorrectly by the submit
 
 Should a user request a temporary extension of the size limit of their repository the following workflow should be used if that extension is granted.
 
-1. Open an issue in the **[dotcom-internal](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/issues)** issue tracker using the `Repo Size Limit` issue template.
+1. Open an issue in the **[internal-requests](https://gitlab.com/gitlab-com/support/internal-requests/issues)** issue tracker using the `Repo Size Limit` issue template.
 1. Using your GitLab.com admin account navigate to the project in question while appending **/edit** to the URL. For example, if the project in question is located at **https://gitlab.com/group/subgroup/project/** you would navigate to **https://gitlab.com/group/subgroup/project/edit**.
 1. Enter a new value in the **Repository size limit (MB)** field.
 1. Click **Save changes**.
@@ -87,7 +87,7 @@ Should a user request a temporary extension of the size limit of their repositor
 
 Customers may ask that a project they recently marked for deletion be deleted immediately so that they can reuse that project's path without needing to wait. Should a customer request this through Zendesk, do the following.
 
-1. Open an issue in the **[dotcom-internal](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/issues)** issue tracker using the `Soft-Deleted Project` issue template.
+1. Open an issue in the **[internal-requests](https://gitlab.com/gitlab-com/support/internal-requests/issues)** issue tracker using the `Soft-Deleted Project` issue template.
 1. Fill in the details of the template and submit the issue.
 1. Add a link to the issue to the Zendesk ticket and inform the customer that we've asked an engineer to process the deletion.
 

@@ -18,7 +18,7 @@ The list of common requests/issues below is reference for internal support engin
 | Issue Tracker |Use Case | 
 |------|-------|
 | [GitLab Issue Tracker](https://gitlab.com/gitlab-org/gitlab/issues) |   Issue related to self-managed or GitLab.com functionality or backend processing  |  
-| [Support Engineer Escalations](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/-/issues) | Customers portal issue which may be billing or bad data related    |
+| [Support Engineer Escalations](https://gitlab.com/gitlab-com/support/internal-requests/-/issues) | Customers portal issue which may be billing or bad data related    |
 | [Customers Portal](https://gitlab.com/gitlab-org/customers-gitlab-com/issues) | Issue is caused specifically by something within the Customers Portal    |   
 | [License App](https://gitlab.com/gitlab-org/license-gitlab-com/issues) | Issue is affecting self-managed license generation or generated licenses    |  
 
@@ -65,7 +65,7 @@ Transactions at GitLab are defined as anything related to purchasing; issues or 
         -  If this is unsuccessful (either [tries to charge for users due to known issue](https://gitlab.com/gitlab-org/customers-gitlab-com/issues/630) or appears to associate but doesn’t really do anything), continue …
     1. Reset the pipeline minutes via GitLab.com admin UI. Sometimes this shakes things loose and the association actually works.
         - If this works, stop and notify user.
-        - If this is unsuccessful, create an SE issue ([example](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/issues/1050)). Include Zendesk link, customers portal link, Customer ID, Group Name, Group ID, Subscription (number/name). Assign the `SE escalation` label.
+        - If this is unsuccessful, create an SE issue ([example](https://gitlab.com/gitlab-com/support/internal-requests/issues/1050)). Include Zendesk link, customers portal link, Customer ID, Group Name, Group ID, Subscription (number/name). Assign the `SE escalation` label.
 
 1. **User wants to pay monthly.** - [This is not an available option.](https://about.gitlab.com/pricing/licensing-faq/#can-i-pay-for-the-subscription-monthly)
 
@@ -82,7 +82,7 @@ Licensing requests refers to problems or questions related to license keys for t
 
 1. **Instructions for activating the license key.** For Self-Managed subscriptions, a license key must be uploaded in order to unlock the applicable paid features. Follow the instructions for [uploading the license key](https://docs.gitlab.com/ee/user/admin_area/license.html#uploading-your-license)
 
-1. **User wants to know when they will receive the license key or who the license will be sent to.** The license key will be emailed, [to the email address associated with the subscription in the customers portal](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1044#note_318221832), once subscription payment is approved internally by the billing team.  If there is an unusually long delay, assign the ticket to the "License, Renewals and Upgrades" queue or [open an issue](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/issues/new?issuable_template=license%20issue) using the "license issue" template. 
+1. **User wants to know when they will receive the license key or who the license will be sent to.** The license key will be emailed, [to the email address associated with the subscription in the customers portal](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1044#note_318221832), once subscription payment is approved internally by the billing team.  If there is an unusually long delay, assign the ticket to the "License, Renewals and Upgrades" queue or [open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=license%20issue) using the "license issue" template. 
 
 1. **User doesn't renew paid Self-Managed plan, what happens to the license and features?** The license key will expire 14 days after the expiration date. The system will revert to  read-only mode  if a new key is not uploaded. If  the user doesn't purchase  another plan and  subsequently upload a new license, instruct them to remove the old license so the system will revert to the free Core (EE) functionality. Note, it is no longer necessary to downgrade to CE package.
 

@@ -114,4 +114,4 @@ For customers who are large enough to have an account management project, an iss
 
 ## Authentication For GLGL Reports
 
-In the event that a customer requests a report of their group's users from [GLGL](https://gitlab.com/gitlab-com/support/toolbox/glgl), consult the [dotcom-internal wiki](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/-/wikis/Procedures/GLGL-Report-Authentication) for the process of authenticating the requestor.
+In the event that a customer requests a report of their group's users from [GLGL](https://gitlab.com/gitlab-com/support/toolbox/glgl), consult the [internal-requests wiki](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/Procedures/GLGL-Report-Authentication) for the process of authenticating the requestor.

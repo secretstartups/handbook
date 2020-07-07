@@ -102,7 +102,7 @@ You should be able to access it with your `dev.gitlab.org` account.
 For GitLab.com, in the Customers Portal, trials are marked with an expiration
 date under the **Trials** column in the `GitLab Groups` Tab next to a namespace.
 If needed, also check the
-[dotcom-internal project](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/issues)
+[internal-requests project](https://gitlab.com/gitlab-com/support/internal-requests/issues)
 for manual plan changes.
 
 ### Finding the existing organization in Zendesk
@@ -235,6 +235,8 @@ better to check with Sales if the status is valid or not:
   Make sure that `@Sales-Support` is converted into clickable username, otherwise
   Sales Support team will not get your message (see the GIF below):
 
+  ![Pinging Sales-Support in SFDC](/images/handbook/support/sfdc_sales_support.gif)
+
   Example of the message:
 
   ```
@@ -296,3 +298,20 @@ When you see the required tag in the dropdown list, select it.
 ### Associated Triggers:
 - [Add need-org tag](https://gitlab.zendesk.com/agent/admin/triggers/360001567348)
 - [Remove need-org tag](https://gitlab.zendesk.com/agent/admin/triggers/360017109414)
+
+### GitLab.com ticket is in SM with SLA queue
+
+If you're sure that the ticket is related to **GitLab.com**, but you see it in 
+**SM with SLA queue**, do the following:
+
+1. Change the **Form** to **GitLab.com** (if it's not like that already)
+1. Remove the tag that is related to self-managed plans (e.g. **basic** or
+**premium**)
+1. Do one of the following:
+    1. If you know what plan level the user is on, choose the appropriate one under "Tell us about your subscription".
+    1. Add the internal note with the following content:
+> This ticket was in SM with SLA queue, but it's obviously related to GitLab.com.
+> I did not go into details whether this is a paying or free GitLab.com user, I
+> only changed the tags so that it is not listed in the wrong queue, please verify
+> if the customer is paying GitLab.com user and add the necessary tags so that
+> correct SLA policy is applied to the ticket.
