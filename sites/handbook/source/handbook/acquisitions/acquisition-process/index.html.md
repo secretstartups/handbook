@@ -91,6 +91,7 @@ The process is comprised of four key stages:
       * Assets excluded from the acquisition
    1. Technical Bill of Materials (BOM) - a complete document which lists:
       1. Repositories
+      1. Issue trackers / bug management systems
       1. Additional (non-code) assets
       1. Domain names
       1. Servers
