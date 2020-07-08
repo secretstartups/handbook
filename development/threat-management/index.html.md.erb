@@ -48,39 +48,37 @@ For more details, see the [Defend stage](/stages-devops-lifecycle/defend/).
 
 The following people are permanent members of this sub-department.
 
-<%= direct_team(manager_role: 'Director of Engineering, Defend') %>
+<%= direct_team(manager_role: 'Director of Engineering, Threat Management') %>
 
 ### Backend
 
 #### Container Security
 
-<%=  direct_team(role_regexp: /Container Security/, manager_role: 'Backend Engineering Manager, Defend') %>
+<%=  direct_team(role_regexp: /Container Security/, manager_role: 'Backend Engineering Manager, Threat Management') %>
 
 #### Threat Insights
 
-<%=  direct_team(role_regexp: /Threat Insights/, manager_role: 'Backend Engineering Manager, Defend') %>
+<%=  direct_team(role_regexp: /Threat Insights/, manager_role: 'Backend Engineering Manager, Threat Management') %>
 
 ### Frontend
 
-<%=  direct_team(role_regexp: /Engineer/, manager_role: 'Frontend Engineering Manager, Defend') %>
+<%=  direct_team(role_regexp: /Engineer/, manager_role: 'Frontend Engineering Manager, Threat Management') %>
 
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Defend/, direct_manager_role: nil, other_manager_roles: ['Director of Engineering, Defend','Frontend Engineering Manager, Defend','Backend Engineering Manager, Defend']) %>
+<%= stable_counterparts(role_regexp: /[,&] Defend/, direct_manager_role: nil, other_manager_roles: ['Director of Engineering, Threat Management','Frontend Engineering Manager, Threat Management','Backend Engineering Manager, Threat Management']) %>
 
 ## Open-source projects
 
-The defend team makes use of a number of open source projects including:
+The Threat Management team makes use of a number of open source projects including:
 * [Kubernetes](https://kubernetes.io/)
 * [ModSecurity Web Application Firewall](https://modsecurity.org/)
 * [OWASP ModSecurity Web App Firewall Rule Set](https://owasp.org/www-project-modsecurity-core-rule-set/)
 * [Cilium Network Policies for Kubernetes](https://github.com/cilium/cilium)
 
-
-<%= partial("direction/categories", :locals => { :stageKey => "defend" }) %>
 
 ## Threat Management YouTube Playlists
 
