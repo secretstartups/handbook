@@ -215,8 +215,8 @@ To demote one of your direct reports, a manager should follow the following step
 - The manager should discuss any performance issues or possible demotions with the People Business Partner in their scheduled meetings with a corresponding google doc.
 - To initiate the process, the manager must obtain agreement from two levels of management.
 - Proposed changes to a current vacancy description or a new vacancy description should be delivered with request for approval by the second level manager and the People Ops Manager.
-- Demotions should also include a review of [compensation](/handbook/total-rewards/compensation/) and [stock options](/handbook/stock-options/#stock-option-grant-levels) in the google doc. Managers should consult with Total Rewards Analysts on these topics; and of course always adhere to the Global Compensation Calculator.
-- Once agreement is reached on the demotion and changes (if any) in compensation, send the google doc to the CEO for final approval.
+- Demotions should also include a review of [compensation](/handbook/total-rewards/compensation/) and [stock options](/handbook/stock-options/#stock-option-grant-levels) in the google doc. Managers should consult with Total Rewards team on these topics; and of course always adhere to the Global Compensation Calculator. 
+- Once agreement is reached on the demotion and changes (if any) in compensation, the total rewards team will act as the point of escalation to have any demotion reviewed and approved by the Compensation Group once the relevant google doc is complete. 
 - Once approved, the manager informs the individual. Please cc total-rewards@domain once the individual has been informed, to processes the changes in the relevant administrative systems, and stage a [Letter of Adjustment](https://about.gitlab.com/handbook/people-group/contracts-and-international-expansion/#letter-of-adjustment).
 - Changes in title are announced on the `#team-member-updates` Slack channel.
 - The manager will initiate any necessary onboarding or offboarding.
