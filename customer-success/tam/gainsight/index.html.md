@@ -133,8 +133,15 @@ The `Referenceable Customers` field on the C360 Attributes section highlights [i
 The videos listed here are internal to GitLab only. You will need to be logged in to the "GitLab Unfiltered" YouTube channel to access them.
 
 - [Gainsight Overview and Demo](https://youtu.be/6NuyNSNipgc)
+- [Gainsight Foundations](https://education.gainsight.com/gainsight-foundations-nxt-fka-101)
 - [Gainsight Enablement 1](https://youtu.be/PL9shBdCMmo): health score, call logging, and creating a success plan.
 - [Gainsight CTAs](https://www.youtube.com/watch?v=qkjmTh3Qad4&feature=youtu.be)
+- [Gainsight TAM Dashboard and Customer 360](https://www.youtube.com/watch?v=01IhQpSN2us&feature=youtu.be)
+- [Gainsight Assist Gmail Plugin](https://www.youtube.com/watch?v=7_gPQv-CHHA&feature=youtu.be)
+- [Gainsight Account Triage](https://drive.google.com/file/d/1-jM7j-tpY3kC6kZR4xjXS8iUPrkoBrn9/view)
+- [Executive Business Reviews with Gainsight](https://www.youtube.com/watch?v=LE1aNw4OiHw&feature=youtu.be)
+- [Sally Slackbot](https://education.gainsight.com/series/end-user-training/gainsight-sally)
+- [How a Gainsight CSM Uses Gainsight](https://education.gainsight.com/series/end-user-training-for-nxt/how-a-gainsight-csm-uses-gainsight)
 
 ## Feature Requests
 
