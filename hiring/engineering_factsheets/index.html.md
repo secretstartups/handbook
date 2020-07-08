@@ -32,7 +32,7 @@ Adriel Santiago - Interim Frontend Engineering Manager, Monitor
 **Product Vision page:** https://about.gitlab.com/direction/product-vision/#monitor
 **How the team works:** The team cross collaborates with the product team and other engineering departments to build out features that drive their respective product stages to maturity and beyond. 
 **Links to relevant Handbook pages:** 
-[Product categories page](/handbook/product/categories/#ops-section)
+[Product categories page](/handbook/product/product-categories/#ops-section)
 [Frontend Monitor Team Page](/handbook/engineering/frontend/monitor/)
 [Frontend Engineer job posting](https://boards.greenhouse.io/gitlab/jobs/4065693002)
 [Frontend Engineer job family](/job-families/engineering/frontend-engineer/)
@@ -49,7 +49,7 @@ Sam Goldstein (Director of Engineering, Ops)
 [Product Vision page](/direction/product-vision/#monitor)
 **How the team works:** Performance is a critical aspect of the user experience, and ensuring your application is responsive and available is everyone's responsibility. We want to help address this need for development teams, by integrating key performance analytics and feedback into the tool developers already use every day.
 **Links to relevant Handbook pages:** 
-[Product categories page](/handbook/product/categories/#ops-section)
+[Product categories page](/handbook/product/product-categories/#ops-section)
 [Monitor Team page](/handbook/engineering/development/ops/monitor/)
 [Backend Engineer job family](/job-families/engineering/backend-engineer/)
 [Engineering Workflow](/handbook/engineering/workflow/)
@@ -68,7 +68,7 @@ Clement Ho - Frontend Engineering Manager, Monitor (Interim for Configure/Server
 [Product vision page](/direction/product-vision/#configure)
 How the team works: The team cross collaborates with the product team and other engineering departments to build out features that drive their respective product stages to maturity and beyond.
 **Links to relevant Handbook pages:**
-[Product categories page](/handbook/product/categories/#ops-section)
+[Product categories page](/handbook/product/product-categories/#ops-section)
 [Frontend Configure Team page](/handbook/engineering/frontend/configure/)
 [Frontend Engineer job posting](https://boards.greenhouse.io/gitlab/jobs/4065693002)
 [Frontend Engineer job family](/job-families/engineering/frontend-engineer/)
@@ -85,7 +85,7 @@ Sam Goldstein - (Director of Engineering, Ops)
 [Product Vision page](/direction/configure/)
 **How the team works:** The Configure stage deals with the configuration and operation of applications and infrastructure, including Auto DevOps, Kubernetes integration, and ChatOps. We aim to make complex tasks (such as standing up new environments) fast and easy as well as providing operators all the necessary tools to execute their day-to-day actions upon their infrastructure.
 **Links to relevant Handbook pages:** 
-Product categories page: https://about.gitlab.com/handbook/product/categories/#ops-section
+Product categories page: https://about.gitlab.com/handbook/product/product-categories/#ops-section
 [Configure Team Page](/handbook/engineering/ops/configure/)
 [Backend Engineer job family](/job-families/engineering/backend-engineer/)
 [Engineering Workflow](/handbook/engineering/workflow/)
@@ -105,7 +105,7 @@ Clement Ho - Frontend Engineering Manager, Monitor (Interim for Configure/Server
 [Product vision page](/direction/product-vision/#configure)
 How the team works: The team cross collaborates with the product team and other engineering departments to build out features that drive their respective product stages to maturity and beyond.
 **Links to relevant Handbook pages:**
-[Product categories page](/handbook/product/categories/#ops-section)
+[Product categories page](/handbook/product/product-categories/#ops-section)
 [Frontend Configure Team page](/handbook/engineering/frontend/configure/)
 [Frontend Engineer job posting](https://boards.greenhouse.io/gitlab/jobs/4065693002)
 [Frontend Engineer job family](/job-families/engineering/frontend-engineer/)
@@ -123,7 +123,7 @@ Dylan Griffifth (Engineering Manager, Serverless Interim)
 [Product Vision page](/direction/configure/serverless/)
 **How the team works:** Serverless computing provides an easy way to build highly scalable applications and services, eliminating the pains of provisioning & maintaining. synchronous communication, working with Agile methodologies. 
 **Links to relevant Handbook pages:** 
-[Product categories page](/handbook/product/categories/#ops-section)
+[Product categories page](/handbook/product/product-categories/#ops-section)
 [Serverless Team page](/handbook/engineering/ops/serverless/)
 [Backend Engineer job family](/job-families/engineering/backend-engineer/)
 [Engineering Workflow](/handbook/engineering/workflow/)
@@ -143,7 +143,7 @@ Daniel Cipoleetti (Frontend Engineering Manager, Verify)
 [Product vision page](/direction/product-vision/#verify)
 **How the team works:** The Verify stage is all about making sure that your code does what you expected it to do, meets quality standards, and is secure; all via automated testing. We bring best practices from top development teams, and make them the easy, default way to work.
 **Links to relevant Handbook pages:**
-[Product Categories page](/handbook/product/categories/#cicd-section)
+[Product Categories page](/handbook/product/product-categories/#cicd-section)
 [Frontend Verify Team page](/handbook/engineering/frontend/verify-release/)
 [Frontend Engineer job posting](https://boards.greenhouse.io/gitlab/jobs/4065693002)
 [Frontend Engineer job family](/job-families/engineering/frontend-engineer/)
@@ -162,7 +162,7 @@ Elliot Rushton (Engineering Manager, Verify)
 [Product Vision page](/direction/verify/)
 **How the team works:** The Verify stage of the DevOps pipeline covers the CI lifecycle as well as testing (unit, integration, acceptance, performance, etc.). Our mission is to help developers feel confident in delivering their code to production. Asynchronous communication, working with Agile methodologies, incorporating a more continuous delivery model, all of the collaboration is done through GitLab Issues and Slack. 
 **Links to relevant Handbook pages:** 
-[Product categories page](/handbook/product/categories/#ops-section)
+[Product categories page](/handbook/product/product-categories/#ops-section)
 [Verify team page](/handbook/engineering/ops/verify/)
 [Backend Engineer job family](/job-families/engineering/backend-engineer/)
 [Engineering Workflow](/handbook/engineering/workflow/)
@@ -182,7 +182,7 @@ Nicole Williams (Frontend Engineering Manager, Release)
 [Product vision page](/direction/product-vision/#release)
 **How the team works:** A key part of CD is being able to deploy. Continuous Delivery and Deployment consists of a step further CI, deploying your application to production at every push to the default branch of the repository.
 **Links to relevant Handbook pages:**
-[Product Categories page](/handbook/product/categories/#cicd-section)
+[Product Categories page](/handbook/product/product-categories/#cicd-section)
 [Frontend Release Team page](/handbook/engineering/frontend/verify-release/)
 [Frontend Engineer job posting](https://boards.greenhouse.io/gitlab/jobs/4065693002)
 [Frontend Engineer job family](/job-families/engineering/frontend-engineer/)
@@ -201,7 +201,7 @@ John Hampton (Engineering Manager, Release:Release Management)
 [Product Vision page](/direction/release/)
 **How the team works:** The Release stage comes after your build and test pipeline is complete and ensures that your software makes it through your review apps, pre-production environments, and ultimately to your users with zero touch needed. It is part of the CI/CD department. Asynchronous communication, working with Agile methodologies, incorporating a more continuous delivery model, all of the collaboration is done through GitLab Issues and Slack. 
 **Links to relevant Handbook pages:**
-[Product categories page](/handbook/product/categories/#ops-section)
+[Product categories page](/handbook/product/product-categories/#ops-section)
 [Release Team page](/stages-devops-lifecycle/release/)
 [Backend Engineer job family](/job-families/engineering/backend-engineer/)
 [Engineering Workflow](/handbook/engineering/workflow/)
@@ -221,7 +221,7 @@ Daniel Croft  (Engineering Manager, Package)
 [Product vision page](/direction/product-vision/#package)
 **How the team works:** A key part of CI is being able to deploy. Continuous Integration works by pushing small code chunks to your application’s code base hosted in a Git repository, and, to every push, run a pipeline of scripts to build, test, and validate the code changes before merging them into the main branch.
 **Links to relevant Handbook pages:**
-[Product Categories page](/handbook/product/categories/#cicd-section)
+[Product Categories page](/handbook/product/product-categories/#cicd-section)
 [Frontend Engineer job posting](https://boards.greenhouse.io/gitlab/jobs/4065693002)
 [Frontend Engineer job family](/job-families/engineering/frontend-engineer/)
 [Engineering Workflow](/handbook/engineering/workflow/)
@@ -239,7 +239,7 @@ Daniel Croft  (Engineering Manager, Package)
 **Product Vision page:** https://about.gitlab.com/direction/package/
 **How the team works:** The Package stage allows you to publish, consume and discover packages, all in one place. We believe that source code and dependencies should live in one secure environment, protected by your GitLab credentials. The efficiencies gained by centralization allow you to focus on productivity. By integrating with GitLab's CI/CD product, we can ensure efficient and reliable pipelines. Asynchronous communication, working in Kanban, all of the collaboration is done through GitLab Issues and Slack, always iterating on the process. 
 **Links to relevant Handbook pages:** 
-[Product categories page](/handbook/product/categories/#ops-section)
+[Product categories page](/handbook/product/product-categories/#ops-section)
 [Package Team page](/handbook/engineering/development/ci-cd/package/)
 [Backend Engineer job family](/job-families/engineering/backend-engineer/)
 [Engineering Workflow](/handbook/engineering/workflow/)
@@ -290,7 +290,7 @@ Dennis Tang (Frontend Engineering Manager, Manage and Fulfilment)
 [Product vision page](/direction/fulfillment/)
 **How the team works:** The team cross collaborates with the product team and other engineering departments to build out features that drive their respective product stages to maturity and beyond. 
 **Links to relevant Handbook pages:**
-[Product Categories page](/handbook/product/categories/#growth-section)
+[Product Categories page](/handbook/product/product-categories/#growth-section)
 [Frontend Engineer job posting](https://boards.greenhouse.io/gitlab/jobs/4065693002)
 [Frontend Engineer job family](/job-families/engineering/frontend-engineer/)
 [Engineering Workflow](/handbook/engineering/workflow/)
@@ -324,11 +324,11 @@ James Lopez - Backend Engineering Manager, Fulfillment
 **Leadership Team:**
 Bartek Marnane (Director of Engineering, Growth)
 
-[Product vision page](/handbook/product/categories/#growth-section)
+[Product vision page](/handbook/product/product-categories/#growth-section)
 
 **How the team works:** The team cross collaborates with the product team and other engineering departments to build out features that drive their respective product stages to maturity and beyond.
 **Links to relevant Handbook pages:**
-[Product categories page](/handbook/product/categories/#growth-section)
+[Product categories page](/handbook/product/product-categories/#growth-section)
 [Growth Team page](/handbook/engineering/development/growth/retention/)
 [Growth Acquisition and Conversion](/handbook/engineering/development/growth/acquisition-conversion-be-telemetry/)
 [Growth Upsell](/handbook/engineering/development/growth/upsell/)
@@ -347,7 +347,7 @@ Craig Gomes	(Engineering Manager, Memory)
 [Product Vision page] https://about.gitlab.com/direction/create/ecosystem/
 [How the team works] https://about.gitlab.com/direction/create/ecosystem/#overview
 **Links to relevant Handbook pages:** 
-[Product categories page](/handbook/product/categories/#memory-group)
+[Product categories page](/handbook/product/product-categories/#memory-group)
 [Memory team page](/handbook/engineering/development/enablement/memory/#team-members)
 [Backend Engineer job family](/job-families/engineering/backend-engineer/)
 [Engineering Workflow](/handbook/engineering/workflow/)
@@ -364,7 +364,7 @@ Bartek Marnane (Director of Engineering, Growth)
 [Product Vision page](/direction/telemetry/)
 **How the team works** The overall vision for the Telemetry group is to ensure that we have a robust, consistent and modern telemetry data framework in place to best serve our internal Product, Sales, and Customer Success teams. The group also maintains the Version Check application as described above and also ensures that GitLab's Product team have the right analysis tool in place that allows the best possible insights into the data provided through the Collection tools.
 **Links to relevant Handbook pages:** 
-[Product categories page](/handbook/product/categories/#ops-section)
+[Product categories page](/handbook/product/product-categories/#ops-section)
 [Telemetry Team Page](/handbook/engineering/development/growth/fulfillment/#team-members)
 [Backend Engineer job family](/job-families/engineering/backend-engineer/)
 [Engineering Workflow](/handbook/engineering/workflow/)
@@ -377,10 +377,10 @@ Bartek Marnane (Director of Engineering, Growth)
 **Projected Team Size:** 5
 **Hiring Managers:**
 Chun Du (Director of Engineering, Enablement)
-[Product Vision page](/handbook/product/categories/#sts=Ecosystem%20group)
+[Product Vision page](/handbook/product/product-categories/#sts=Ecosystem%20group)
 [How the team works](/handbook/engineering/development/enablement/ecosystem/#mission)
 **Links to relevant Handbook pages:** 
-[Product categories page](/handbook/product/categories/#sts=Ecosystem%20group)
+[Product categories page](/handbook/product/product-categories/#sts=Ecosystem%20group)
 [Ecosystem Team page](/handbook/engineering/development/enablement/ecosystem/#team-members)
 [Backend Engineer job family](/job-families/engineering/backend-engineer/)
 [Engineering Workflow](/handbook/engineering/workflow/)
@@ -594,7 +594,7 @@ Jason Yavorska, Director of Product - CI/CD
 [Product handbook](/handbook/product/)
 [Product Manager job family](/job-families/product/product-manager/)
 [Product process](/handbook/product/product-management/process/)
-[Product categories](/handbook/product/categories/)
+[Product categories](/handbook/product/product-categories/)
 
 **Team vision:** The primary goal of the Product team is to consistently create products and experiences that customers love and value. Our vision is to replace disparate DevOps toolchains with a single application that is pre-configured to work by default across the entire DevOps lifecycle.
 
