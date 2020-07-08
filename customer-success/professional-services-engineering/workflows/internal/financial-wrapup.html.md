@@ -4,8 +4,25 @@ title: Financial Wrap-up
 category: Internal
 ---
 
-Once the SOW items have been delivered in full and the project sign off has been received or passive acceptance:
+Once SOW items have been delivered and ready for billing and/or revenue recognition, the following should be completed:
 
-1. Attach the signed Project sign off document or attach the email where the Project sign off document was sent to the customer via email in the SalesForce opportunity.
-1. At the top of the page, in the post freeform box, chatter Andrew Murray, Siddharth Malik, Sarah McCauley, and Anna Piaseczna and add a note outlining if we got a signed Project Sign Off, acceptance was given via email, or if we have passive acceptance and then copy in the URL.  Hit share.
+Training or PS where the entire project is complete:
+1. Attach the signed Project sign off document or attach the email where the Project sign off document was sent to the customer via email in the PSE Object
+1. Update the PSE Object dates and update the status to "Closure"
+1. The Project Coordinator will update the PSE Object status to "Complete" once month end is completed and closed with the Finance team
+
+Milestone completion ready for billing and or revenue recognition, the following should be completed:
+1. Attach the signed Project sign off document or attach the email where the Project sign off document was sent to the customer via email in the PSE Object
+1. Attach the Trainig Roster to the PSE Object when the training is complete
+1. The Project Coordinator will then tag the billing and revenue team in the PSE Object to make Finance aware of completion
+
+T&M Hours Monthly ready for billing and or revenue recognition, the following should be completed:
+1. Project Coordinator pulls the hourly tracking report and add the report to the PSE Object
+1. Project Coordinator will then tag the billing and revenue team in the PSE Object to make Finance aware of completion
+
+Project that contain Milestone or T&M Hourly billing are completed in full the project status should be updated to "Closure" status and project dates updated.
+The Project Coordinator will update the PSE Object status to "Complete" once month end is completed and closed with the Finance team.
+
+
+
 
