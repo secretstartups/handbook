@@ -36,20 +36,20 @@ A [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/employment-
 
 ## Career Mobility Issue Creation Process
 
-The Total Rewards Team will notify the People Experience Team of a pending migration of a team member via @ mention in the Promotion/Transfer Tracker. The [People Experience Coordinator](https://about.gitlab.com/job-families/people-ops/people-experience-associate/#people-experience-coordinator) will then assign the migration to a [People Experience Associate](https://about.gitlab.com/job-families/people-ops/people-experience-associate/).
+The Total Rewards Team will notify the People Experience Team of a pending migration of a team member via @ mention in the Promotion/Transfer Tracker. The [People Experience Associate](https://about.gitlab.com/job-families/people-ops/people-experience-associate/) currently in the assignment rotation will assign the migration to an Associate in the People Exp/Ops Tracker.
 
 The [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) will then be **created by the People Experience Associate** assigned by following the steps below:
 
 1. One day prior to the effective date, the People Experience Associate will start the Career Mobility Issue process. 
 1. In Slack, go to your profile as if you were going to send a Slack message to yourself. Type the command /pops run careermobility BambooHR_ID_number (not Employee ID #). This number is found in the team member's BambooHR profile URL, after id=. It is a 5-digit number. An example of the command would be /pops run careermobility 00000. If BambooHR's API is down, this ChatOps command will fail and will need to be created manually.
-1. You will be pinged in Slack once the career mobility issue is created, which usually takes 30 seconds or so. The ping will include a link to the new Career Mobility issue.
+1. You will be pinged in Slack once the Career Mobility issue is created, which usually takes 30 seconds or so. The ping will include a link to the new issue.
 1. Add a due date of two weeks from the migration effective date.
 1. Check to see that the previous Manager and new Manager is listed correctly in the issue.
 1. Complete all applicable tasks under the People Experience list. 
 
-## Important Tasks once Transition has been finalised 
+## Important Tasks once Career Mobility has been finalised 
 
-1. This needs action from both the current and new managers to set the transitioning team member up for success in their new role. This may include:
+1. This needs action from both the current and new managers to set the migrating team member up for success in their new role. This may include:
 - Creating the correct Access Requests for systems needed and for systems no longer needed.
 - Create any training issue that may be required. 
 - Reminding the team member to update their title on the team page.
