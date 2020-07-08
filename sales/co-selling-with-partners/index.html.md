@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Sales"
+title: "Co-Selling with Partners"
 ---
 
 ## On this page
@@ -9,4 +9,6 @@ title: "Sales"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Co-Selling with Partners
+## Heading 1
+
+## Heading 2
