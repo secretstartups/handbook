@@ -212,6 +212,27 @@ As a coach uses their core coaching skills, a coachee can access their own set o
 *  **Learn**: Coaching conversations revolve around learning by discovering new perpsectivies by coming to a new understanding or realization. 
 *  **Transform**: Change is a core attribute of coaching. Sometimes the transformation may be small, when a coachee has increased clarity on appropriate action to move forward. At times the transformation may be more profound, as a coachee is able to shift their mindset in a way that there's no going back.
 
+## Trust and Coaching
+
+Building trust is an important ingredient in coaching and team dynamics. Trust lies at the heart of a functioning and cohesive team. There are five dysfunctions of a team [according to Patrick Lencioni](https://www.youtube.com/watch?v=GCxct4CR-To) that can break down trust throughout the team: 
+
+1. **Absence of Trust:** Team members are reluctant to be vulnerable with one another and are unwilling to admit their mistakes, weaknesses, or need for help. 
+2. **Fear of Conflict:** Lack of trust prevents the flow of unfiltered, passionate debate about tasks, activities, and projects. These conversations are crucial to ensure all voices are heard and all options considered. 
+3. **Lack of Commitment:** Without some conflict it is difficult for team members to commit to decisions, fostering an environment where ambiguity prevails. A team with strong commitment is more likely to put in more effort. 
+4. **Avoidance of Accountability:** When teams do not commit to a clear plan of action, even the most focused and driven individuals are hesitant to call their peers on actions and behaviors that may seem counterproductive. 
+5. **Inattention to Results:** When no one is accountable, team members may naturally tend to put their own needs ahead of the collective goals; for example, career development and recognition. 
+
+**[The Trust Equation&trade;](https://trustedadvisor.com/why-trust-matters/understanding-trust/understanding-the-trust-equation#:~:text=The%20Trust%20Equation%20uses%20four,%2C%20Intimacy%20and%20Self%2DOrientation.&text=The%20Trust%20Quotient%20is%20a,trustworthiness%20against%20the%20four%20variables.)** is a concept to help increase trustworthiness with your team. The more trust you have with team members, the easier it will be to have coaching conversations. 
+
+The trust equation uses four objective variables to measure trustworthiness: 
+
+1. Credibility: My word is believable
+2. Reliability: I do what I say I will do
+3. Intimacy: I empathize with others
+4. Self-Orientation: My focus is on my team, not personal gain
+
+The trust equation has one variable in the denominator (self-orientation) and three in the numerator (credibility, reliability, intimacy). Increasing the value of the factors in the numerator increases the value of trust. Increasing the denominator (self-orientation) decreases the value of trust. 
+
 ## Planning for action
 
 The planning for action phase is about enabling the coachee to make a plan with action steps that support their goals. 
@@ -249,7 +270,6 @@ The coach might also want to end the conversation with a few statements about wh
 *  What I admire you for is...
 *  What you have helped me realize, learn or reminded me about is...
 
-
 ## Additional coaching skills
 
 * Offering a big picture perspective
@@ -264,7 +284,7 @@ The coach might also want to end the conversation with a few statements about wh
 
 In an all-remote organization, coaching is a critical skill for managers to develop and improve upon as they progress in their careers. Coaching helps to facilitate the career development of team members through regular coaching conversations. Coaching helps team members change behavior, improve performance, and sustain commitment through encouragement, support, collaborative problem-solving, goal setting, and [feedback](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/). 
 
-**Skills and behavior of the [coaching competency](https://about.gitlab.com/handbook/competencies/) for managers: **
+**Skills and behavior of the [coaching competency](https://about.gitlab.com/handbook/competencies/) for managers:**
 
 - Facilitates job performance growth of team members by providing regular coaching sessions
 - Understands team members long-term career goals and acts as a mentor and guide to achieving them. 
