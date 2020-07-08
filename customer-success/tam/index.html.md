@@ -118,7 +118,7 @@ The team is working on efficiency initiatives to increase the contracts under ma
 - [Using Salesforce within Customer Success](/handbook/customer-success/using-salesforce-within-customer-success/)
 - [Customer Success Vision](/handbook/customer-success/vision/)
 - [GitLab Positioning](/handbook/positioning-faq/)
-- [Product Stages and the POCs for each](/handbook/product/categories/#devops-stages/)
+- [Product Stages and the POCs for each](/handbook/product/product-categories/#devops-stages/)
 - [How to Provide Feedback to Product](/handbook/product/how-to-engage/#feedback-template/)
 - [Sales handbook](/handbook/sales/)
 - [Support handbook](/handbook/support/)
