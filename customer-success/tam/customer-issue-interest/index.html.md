@@ -35,6 +35,6 @@ A recommended practice when tracking an issue that a customer is interested in i
 
 ## High Priority Requests
 
-If a customer has [identified an issue that is high priority](/handbook/product/product-management/process/#issues-important-to-customers), such as a work-stoppage bug or a feature required for the customer to meet a deadline, reach out to the Product Manager responsible for the part of GitLab the issue addresses and discuss it with them directly.
+If a customer has [identified an issue that is high priority](/handbook/product/product-processes/#issues-important-to-customers), such as a work-stoppage bug or a feature required for the customer to meet a deadline, reach out to the Product Manager responsible for the part of GitLab the issue addresses and discuss it with them directly.
 
 **Note:** you should still take the steps shown above to indicate customer interest, so that it's noted publicly. This is just an additional step to accelerate Product looking at and addressing the issue.
