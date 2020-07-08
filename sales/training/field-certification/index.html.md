@@ -59,12 +59,12 @@ Please note: The GitLab Moments That Matter continue to evolve. To see that late
 ## Roadmap
 We are on schedule to deliver the first learning paths for the Field Certification Program in FY21Q3. 
 - Pipeline Generation & Qualification for Strategic Account Leaders
-- The Reqiured 7 for Account Executives 
+- The Required 7 for Account Executives 
 - Demoing to Win for Solutions Architects
 - Onboarding the Customer for Technical Account Managers 
 
 <figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/1A6W2INGaKZHH8vSP_av4VPUBYq7Pq5QbBE63jieI1kU/edit?usp=sharing" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1A6W2INGaKZHH8vSP_av4VPUBYq7Pq5QbBE63jieI1kU/edit?embed?start=false&loop=false&delayms=3000&slide=id.g5741598ac4_0_70" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
 To get involved or follow along with the development, check out the [Field Certification Issues Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1637426). We love feedback and questions, so check us out on Slack in #field-cert-program. 
