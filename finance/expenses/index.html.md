@@ -5,9 +5,9 @@ title: Expenses
 
 ## Introduction
 
-Welcome to the Expense page!  You should be able to find answers to most of your questions here.  If you can't find what you are looking for, then:
+Welcome to the Expenses page!  You should be able to find answers to most of your questions here.  If you can't find what you are looking for, then:
 - **Chat channel**: #expense-reporting-inquiries
-- **Email**: expneses@gitlab.com
+- **Email**: expenses@gitlab.com
 
 All team members will have access to Expensify within 2 days from their hire date.  If you didn't receive an email from Expensify for your access, then please contact expenses@gitlab.com. Expense reports are to be submitted once a month, at least. Additional information on getting started with Expensify and creating/submitting expense reports can be found [here.](https://docs.expensify.com/using-expensify-day-to-day/using-expensify-as-an-expense-submitter/report-actions-create-submit-and-close)
 
@@ -19,15 +19,10 @@ Team members should also consider the terms and conditions of their respective c
 
 Team members in a US policy will be automatically reimbursed through Expensify after their report is "final approved" within 7 business days by Payroll team. For all other team members, please see the reimbursement process below based on your location or employment status
 
-### Expenses
-
-
-
 
 ### Setting up a home office for the first time?
 
 Take inspiration from our [all-remote page covering key considerations for a comfortable, ergonomic workspace](/company/culture/all-remote/workspace/). You can also consult the `#questions` and `#remote` channels in Slack for recommendations from other GitLab team members.
-
 
 
 ### Not sure what to buy?
