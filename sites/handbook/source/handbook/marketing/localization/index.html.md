@@ -45,6 +45,8 @@ To ensure translated content makes contextual and technical sense, we have inter
 
 1. US
 1. Canada
+1. UK/Ireland 
+1. Australia/New Zealand 
 1. Germany
 1. France
 1. Japan
