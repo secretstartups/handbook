@@ -19,7 +19,9 @@ This is a two-fold problem:
 1. Serving customers is not fast enough.
 1. Infrastructure costs can be high because the infrastructure size is the same regardless of the demand.
 
-With Kubernetes, both of these problems are addressed in one go. Kubernetes allows scaling infrastructure based on demand at the moment, rather than based on the best guess projections. When the demand is low, Kubernetes will automatically scale down the infrastructure, thus reducing cost.
+At GitLab (currently, year 2020), we use Terraform to manage VM lifecycle in Google Cloud Platform, and Chef for ensuring consistent configuration. Auto-scaling VM's and using these tools is of course possible. However, in order to accomplish that we need to write additional tooling that would allow us to scale VM's with demand. Further more, even with the VM auto-scaling automation in place, the response times for machine creation, installing and configuring GitLab would still be measured in multiple minutes.
+
+With Kubernetes, both of above mentioned problems are addressed in one go. Kubernetes allows scaling infrastructure based on demand at the moment, rather than based on the best guess projections. When the demand is low, Kubernetes will automatically scale down the infrastructure, thus reducing cost. Kubernetes is also made to be an orchestrator, backed by a vast community. This allows us to leverage industry standard tool instead of writing and maintaining our own custom solution.
 
 GitLab.com has been at fast growing phase where we've already experienced the challenges described above. It is reasonable to assume that we can reap benefits that Kubernetes brings to systems at scale.
 
@@ -37,13 +39,19 @@ If we use [a single Sidekiq shard as an example](https://gitlab.com/gitlab-com/g
 
 #### Infrastructure size and cost
 
-TODO: Add
+We reduced the number of nodes required to run the workload from 10 to 3 nodes.
+The Kubernetes nodes (at the time of writing this doc) are larger than the ones used as VM's, but this is a function of our need to understand how the workload behaves in a new environment and having more headroom for unexpected situations.
+
+What we've seen historically, with other migrations such as [Container Registry](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/1074), is that we save around 50% of nodes, while retaining the same node type. In addition to this, our service capacity grows significantly because a single node can handle many more pods serving the traffic than a single VM is capable of.
 
 #### Performance impact
 
 The job processing latencies have been comparable or better since migrating the workload to Kubernetes. The details can be seen in the [performance section of post migration analysis](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/920#shard-performance).
 
-TODO: Add why
+The performance gains are hard to assign to a single change, and our understanding is that this is due to:
+
+1. Removal of NFS dependency - Performance of NFS degrades with number of requests.
+1. We are able to scale better to match peak and non-peak traffic.
 
 
 #### Release and deployment speed
