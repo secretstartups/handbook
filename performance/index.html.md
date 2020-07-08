@@ -427,7 +427,7 @@ Issues with `~availability` label directly impacts the availability of GitLab.co
 
 We categorize these issues based on the impact to GitLab.com's customer business goal and day to day workflow. 
 
-The prioritization scheme adheres to our [product prioritization](https://about.gitlab.com/handbook/product/product-management/process/#prioritization) where security and availability work are prioritized over feature velocity. 
+The prioritization scheme adheres to our [product prioritization](https://about.gitlab.com/handbook/product/product-processes/#how-we-prioritize-work) where security and availability work are prioritized over feature velocity. 
 
 The presence of these severity labels modifies the standard severity labels(`~S1`, `~S2`, `~S3`, `~S4`) by additionally taking into account the impact as described below. 
 The severity of these issues may change depending on the re-analysis of the impact to GitLab.com customers.
