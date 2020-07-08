@@ -56,7 +56,7 @@ If the problem is validated, the issue is moved forward to the next stage, other
 
 ##### Solution validation
 
-Once the problem is validated, the PM will consider creating an Epic if [the scope of the solution is large enough](/handbook/product/product-management/process/#epics-for-a-single-iteration).
+Once the problem is validated, the PM will consider creating an Epic if [the scope of the solution is large enough](/handbook/product/product-processes/#epics-for-a-single-iteration).
 They will then reach out to the Engineering Manager (EM) for a technical contact in the team. The EM assigns [ownership](#epic-ownership) to an engineer. The engineer will work with the PM
 to determine a technical solution for the problem.
 
