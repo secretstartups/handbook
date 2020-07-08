@@ -130,8 +130,9 @@ After creating a success plan, you will need to input the objectives that you've
 - **Name**: Objective title, such as “Cut Time to First Commit by 20%”
 - **Owner**: Who is invested in this objective
 - **Due Date**: Due date for the objective
-- **Category**:  Indicate if the objective is Stage Adoption, Rev Expansion, or ROI Success
+- **Objective Category**:  Indicate if the objective is Stage Adoption, Rev Expansion, or ROI Success
    - **Stage Name**: if `Stage Adoption` is selected, select the Stage Name for reference and reporting purposes
+- **Stage Name**: if the objective category above is `Stage Adoption`, then select from this dropdown which stage you're helping the customer adopt
 - **Status**: Mark the objective “New” or “Work in Progress”
 - **Priority**: Indicate if the priority is Low, Medium, or High
 - **Playbook**: If the objective is for Stage Adoption, choose the corresponding playbook
