@@ -238,6 +238,47 @@ The full company tech stack list with definitions can be found on the [Business 
 
 </details> 
 
+<details>
+<summary markdown='span'>
+  Salesforce Access Removal Process
+</summary>
+
+1.  To ensure the appropriate users have access and that we're being fiscally responsible in terms of overall usage, users with no usage in 90 days will be deactivated. 
+2.  Usage will be reviewed once at the beginning of the second month of the quarter so as not to disrupt any quarter end/quarter start cadences. The dates are scheduled on the Field Ops calander.
+3.  An [Access Change Request](https://about.gitlab.com/handbook/business-ops/employee-enablement/it-ops-team/access-requests/#access-change-request) will be created and an email will be sent to users as extra notification.
+4.  If access is needed in the future, please submit a new [Access Request](https://about.gitlab.com/handbook/business-ops/employee-enablement/it-ops-team/access-requests/#single-person-access-request) and we can confirm if SFDC is the correct place to gather this information or if other tools can provide it.
+
+<details>
+<summary markdown='span'> Instructions for Sales Operations team on completing SFDC Access Removal Process
+</summary>
+
+**Identifying the Users**
+
+1. Check the Data in the [Provided Report](https://gitlab.my.salesforce.com/00O4M000004aGGo): 
+    * Make sure the last login date is set to LESS than or equal to 90 Days ago. 
+    * Verify that no integration users or users that might be tied to an external system are not included in the access removal.  If there are questions, error on the cautious side and work with Sales Systems. 
+1. Create an [Access Change Request](https://about.gitlab.com/handbook/business-ops/employee-enablement/it-ops-team/access-requests/#access-change-request)
+    * List the users that will be removed so that we have record of reason and users if needed in the future. 
+1. Email Notification:
+    * Work with Sales Operations Manager to send the email notification.  This is an extra step for extra visibility to users and might not always be needed depending on volume and other communication that has occured. 
+    * Example Email:
+    
+        Hope that you are having a good week.  We in SalesOps are doing a cleanup of our tech stack tools to ensure the appropriate users have access and that we're being fiscally responsible in terms of overall usage.  During this process, we've discovered that nearly **XXX** Salesforce.com users haven't logged in for 3 months or more.  If you're receiving this message, your user account falls into this bucket. 
+        As such, I'm writing to let you know that we'll be deactivating your SFDC license on XXX in an effort to ensure that we have enough licenses to provision to our new and existing Sales people; who leverage the tool daily. 
+        So what does this mean for you?  
+        Effective XXX you will no longer have access to SFDC
+        If there's critical SFDC data that you need for your role, please submit a new Access Request and we can confirm if SFDC is the correct place to gather this information or if other tools can provide it
+        Please let me know if you have any questions.
+
+1. Deactivating Users in Salesforce
+    * From Salesforce, access the setup menue and then manager users.  
+    * Locate the user and uncheck the Active box, or click the Freeze button.  Freeze should only be used if the user can not be fully deactivated due to impact to other system or process. 
+    * If a user is frozen set a reminder in an issue to go back and deactivate user once related systems / process have been udpated. 
+
+</details>
+</details>
+
+
 ## **Sales Operations Sponsored Dashboards and Maintenance**
 
 The Sales Operations team has sponsored a comprehensive but consumable "Reporting Package" (via SFDC Dashboards) with validated (SalesOps approved) metrics to the Account Executives. This list will continue to evolve and will be maintained during the onboarding and offboarding process. In addition to sponsored reporting, Sales Ops will maintain existing reports by archiving or deleting any report or dashboard not used in 180 days.
