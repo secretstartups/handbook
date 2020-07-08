@@ -184,6 +184,9 @@ The GitLab team understands the importance of inclusive interviewing, and we str
   * Marketing Ops
   * UX
   * Quality
+  * Finance
+  * Accounting
+  * People Operations 
 
 </details>
 
