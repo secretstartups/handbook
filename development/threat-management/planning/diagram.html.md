@@ -259,7 +259,7 @@ Feature Issues are used by our PMs to support tracking on the homepage as well a
 **Implementation Issues**
 
 Implementation issues allow each Feature Issue to be broken into small, discrete tasks that can move independently through the build workflow steps. 
-Whenever possible Implementation Issues should also be independently-releasable and provide value to the customer. 
+Whenever possible, Implementation Issues should also be independently-releasable and provide value to the customer. 
 When they have to be grouped with other Implementatation Issues, a feature branch should be created to merge the dependant pieces of work together prior to merging into the default branch.  
 
 Here is the structure of a generic Design Issue, Feature Epic, Feature Issue(s), Implementation Issue(s) breakdown: 
