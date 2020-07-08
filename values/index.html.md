@@ -445,7 +445,7 @@ Optimize solutions globally for the broader GitLab community. Making a process e
 
 ##### Conistency is not a value
 {:.no_toc}
-Consistency is helpful as GitLab scales; the right processes can help optimize solutions globally. However, consistency does not come at the cost of a DRI or a group completing work efficiently; DRIs are encouraged to iterate on existing processes and should choose efficiency over consistency.
+The right processes can be helpful for global optimization. However, in many organizations processes are introduced for the sake of consistency. Consistency is not a GitLab value and it should not be introduced unless we are certain that it can enable efficiency for the right group.
 
 ##### Be respectful of others' time
 {:.no_toc}
