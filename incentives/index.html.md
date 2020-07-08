@@ -224,7 +224,7 @@ An underrepresented group describes a subset of a population that holds a smalle
 
 We offer a referral bouns premium for the following groups:
 * Women in Engineering, Product & Sales Division - Globally
-* Women in [Leadership](/company/team/structure/#organizational-chart) - Globally
+* Women in [Management](/company/team/structure/#organizational-chart) - Globally
 * African American/Black - Globally
 * Hispanic American/Latino - Globally
 * Native American/Native - Globally
