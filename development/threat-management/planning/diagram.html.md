@@ -264,7 +264,7 @@ development"` label.
 #### Develop & Test
 
 Issues that have the `~feature` and `~Deliverable` labels require a [Release
-Post](/handbook/product/communication/#release-posts) to be ready for publishing along with the
+Post](/handbook/product/product-processes/#communication#release-posts) to be ready for publishing along with the
 corresponding feature. The schedule to create and review a Release Post is naturally challenging
 so, to allow Product Managers to work in parallel, Engineering should add a Documentation stub
 early in the [WIP
