@@ -47,11 +47,19 @@ The [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/employmen
 1. Check to see that the previous Manager and new Manager is listed correctly in the issue.
 1. Complete all applicable tasks under the People Experience list. 
 
+## Important Tasks once Transition has been finalised 
+
+1. This needs action from both the current and new managers to set the transitioning team member up for success in their new role. This may include:
+- Creating the correct Access Requests for systems needed and for systems no longer needed.
+- Create any training issue that may be required. 
+- Reminding the team member to update their title on the team page.
+- If we are in the middle of company wide 360 reviews, it is encouraged that the current manager and new manager arrange a successful handover of the feedback, whether sync or async. 
+
 ## Compliance
 
-The People Experience Associates complete a weekly audit of all Career Mobility Issues opened within that specific week and checks that all tasks have been completed by all members applicable. In the event that tasks are still outstanding, the People Experience Associate will ping the relevant team members within the career mobility issue to call for tasks to be completed.
+The People Experience Associate completes a bi-weekly audit of all transition issues that are still open and checks that all tasks have been completed by all members applicable. In the event that tasks are still outstanding, the People Experience Associate will ping the relevant team members within the transition issue to call for tasks to be completed.
 
-Once all tasks have been completed, the People Experience Coordinator or Associate will close the Career Mobility Issue accordingly.
+Once all tasks have been completed and the issue is still open, the People Experience Associate will close the transition issue accordingly. The transitioning team member can also close the issue once satisfied all the tasks are complete.
 
 All migration tasks by the applicable team members needs to be completed within 2 weeks of the migration start date.
 
