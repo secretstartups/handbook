@@ -299,7 +299,7 @@ Once a feature has been thoroughly tested the [feature flag](https://docs.gitlab
 
 GitLab Inc has to be selective in working on particular issues. We have a limited capacity to work on new things. Therefore, we have to schedule issues carefully.
 
-Product Managers are responsible for scheduling all issues in their respective [product areas](/handbook/product/product-categories/#devops-stages), including features, bugs, and tech debt. Product managers alone determine the [prioritization](/handbook/product/product-management/process/#prioritization), but others are encouraged to influence the PMs decisions. The UX Lead and Engineering Leads are responsible for allocating people making sure things are done on time. Product Managers are _not_ responsible for these activities, they are not project managers.
+Product Managers are responsible for scheduling all issues in their respective [product areas](/handbook/product/product-categories/#devops-stages), including features, bugs, and tech debt. Product managers alone determine the [prioritization](/handbook/product/product-processes/#how-we-prioritize-work), but others are encouraged to influence the PMs decisions. The UX Lead and Engineering Leads are responsible for allocating people making sure things are done on time. Product Managers are _not_ responsible for these activities, they are not project managers.
 
 Direction issues are the big, prioritized new features for each release. They are limited to a small number per release so that we have plenty of capacity to work on other important issues, bug fixes, etc.
 
@@ -470,7 +470,7 @@ To help with prioritization and decision-making process here, we recommend think
 
 > You wouldn't pay off your $50k student loan before first paying off your $5k credit card and it's because of the high interest rate. The best debt to pay off first is one that has the highest loan payment to recurring payment reduction ratio, i.e. the one that reduces your overall debt payments the most, and that is usually the loan with the highest interest rate.
 
-Technical debt is prioritized like [other technical decisions](/handbook/engineering/#prioritizing-technical-decisions) in [product groups](/company/team/structure/#product-groups) by [product management](/handbook/product/product-management/process/#prioritization).
+Technical debt is prioritized like [other technical decisions](/handbook/engineering/#prioritizing-technical-decisions) in [product groups](/company/team/structure/#product-groups) by [product management](/handbook/product/product-processes/#how-we-prioritize-work).
 
 For technical debt which might span, or fall in gaps between groups they should be brought up for a [globally optimzed](/handbook/values/#global-optimization) prioritization in [retrospectives](/handbook/engineering/management/team-retrospectives/) or directly with the appropriate member of the [Product Leadership team](/handbook/product/product-leadership/). Additional avenues for addressing technical debt outside of product groups are [Rapid Action issues](/handbook/engineering/development/#rapid-action-issue) and [working groups](/company/team/structure/working-groups/).
 
@@ -478,7 +478,7 @@ For technical debt which might span, or fall in gaps between groups they should 
 
 Sometimes features release to production without meeting design and [Pajamas](https://design.gitlab.com/) specifications. We create UX debt issues to capture these discrepancies. For the same reasons as technical debt, we don't want UX debt to grow faster than our code base.
 
-We apply the `UX debt` label to these issues, and it is prioritized like [other technical decisions](/handbook/engineering/#prioritizing-technical-decisions) in [product groups](/company/team/structure/#product-groups) by [product management](/handbook/product/product-management/process/#prioritization). You can see the number of UX debt issues on the [UX Debt dashboard](https://app.periscopedata.com/app/gitlab/641753/UX-Debt).
+We apply the `UX debt` label to these issues, and it is prioritized like [other technical decisions](/handbook/engineering/#prioritizing-technical-decisions) in [product groups](/company/team/structure/#product-groups) by [product management](/handbook/product/product-processes/#how-we-prioritize-work). You can see the number of UX debt issues on the [UX Debt dashboard](https://app.periscopedata.com/app/gitlab/641753/UX-Debt).
 
 As with [technical debt](#technical-debt), UX debt should be brought up for [globally optimized](/handbook/values/#global-optimization) prioritization in [retrospectives](/handbook/engineering/management/team-retrospectives/) or directly with the appropriate member of the [Product Leadership team](/handbook/product/product-leadership/).
 
