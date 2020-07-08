@@ -9,21 +9,15 @@ title: Threat Management sub-department
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-The Threat Management sub-department contributes to development in the [Secure & Defend
-section](/handbook/product/product-categories/#secure--defend-section).
+The Threat Management engineering sub-department contributes to development in the [Secure & Defend sections](/handbook/product/product-categories/#secure--defend-section).
 
-We are responsible for defending applications, networks and infrastructure from security
-intrusions. Our sub-department maps to the [Defend
-Stage](/handbook/product/product-categories/#defend-stage) and the [Threat Insights
-Group](/handbook/product/product-categories/#threat-insights-group) in the [Secure
-Stage](/handbook/product/product-categories/#secure-stage).
+We are responsible for defending applications, networks and infrastructure from security intrusions via giving users insights into threats at the vulnerability, network, container, operating system, and application layers. Our sub-department consists of all groups in the [Defend Stage](/handbook/product/product-categories/#defend-stage) and the [Threat Insights Group](/handbook/product/product-categories/#threat-insights-group) in the [Secure Stage](/handbook/product/product-categories/#secure-stage).
 
-You can learn more about our approach on the direction pages for [Defend](/direction/defend/) and
-[Secure](/direction/secure/).
+You can learn more about our approach on the direction pages for [Secure](/direction/secure/) and [Defend](/direction/defend/).
 
 ## Vision
 
-Protect our customers' cloud-native applications, services, and infrastructure from the ever-evolving threat landscape.
+Protect our users' applications, services, and infrastructure from the ever-evolving threat landscape.
 
 ### FY21 Vision
 
@@ -42,7 +36,7 @@ Employ security controls for our customers at the container, network, host, and 
 
 Provide features to allow customers to manage their security risks effectively and efficiently.
 
-For more details, see the [Defend stage](/stages-devops-lifecycle/defend/).
+For more details, see the [Secure stage](/stages-devops-lifecycle/secure/) and [Defend stage](/stages-devops-lifecycle/defend/).
 
 ## Sub-department Members
 
@@ -52,13 +46,13 @@ The following people are permanent members of this sub-department.
 
 ### Backend
 
-#### Container Security
-
-<%=  direct_team(role_regexp: /Container Security/, manager_role: 'Backend Engineering Manager, Threat Management') %>
-
-#### Threat Insights
+#### Secure Stage: Threat Insights
 
 <%=  direct_team(role_regexp: /Threat Insights/, manager_role: 'Backend Engineering Manager, Threat Management') %>
+
+#### Defend Stage: Container Security
+
+<%=  direct_team(role_regexp: /Container Security/, manager_role: 'Backend Engineering Manager, Threat Management') %>
 
 ### Frontend
 
@@ -78,12 +72,19 @@ The Threat Management team makes use of a number of open source projects includi
 * [ModSecurity Web Application Firewall](https://modsecurity.org/)
 * [OWASP ModSecurity Web App Firewall Rule Set](https://owasp.org/www-project-modsecurity-core-rule-set/)
 * [Cilium Network Policies for Kubernetes](https://github.com/cilium/cilium)
+* [Falco Cloud-Native runtime security](https://falco.org/)
+* [AppArmor operating system and application policies](https://gitlab.com/apparmor/apparmor/-/wikis/home)
 
 
 ## Threat Management YouTube Playlists
 
-You can find demos of features, recorded synchronous meetings, release kick-offs, public group sessions, and more in the [Defend](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq4CHpCTMv3OdquJXm6ggYr) and [Secure](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq7yUrZazEF3diazV29RRo1) YouTube playlists.
+You can find demos of features, recorded synchronous meetings, release kick-offs, public group sessions, and more in the Threat Management playlist:
 
+<!-- blank line -->
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL05JrBw4t0KpqY7EwA_JaCtb9YrfPLA6d" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
 
 ## Issue Boards
 
@@ -156,6 +157,8 @@ To update the documentation, follow this process:
 
 ## Common Links
 
+* [Threat Management subdepartment calendar](https://www.google.com/calendar/render?cid=c_22hchbpp1srt17n7cavvrkggfo@group.calendar.google.com)
+* [Secure stage calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9tZDBhbzM2Z3B2bDV2MWY0MTI4ZXJobmo2Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 * [Defend stage calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9lZDYyMDd1ZWw3OGRlMGoxODQ5dmpqbmIza0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 ### Product Documentation Links
@@ -166,16 +169,27 @@ To update the documentation, follow this process:
 * [Security Dashboard](https://docs.gitlab.com/ee/user/application_security/security_dashboard/)
 * [Standalone Vulnerabilities](https://docs.gitlab.com/ee/user/application_security/vulnerabilities/#standalone-vulnerability-pages)
 
-### Slack Channels
-* [#s_defend](https://gitlab.slack.com/archives/s_defend)
-* [#s_defend-standup](https://gitlab.slack.com/archives/CQ29K6XR7)
-* [#g_defend_container_security](https://gitlab.slack.com/archives/CU9V380HW)
-* [#g_secure_threat_insights](https://gitlab.slack.com/archives/CV09DAXEW)
+### Slack
 
+
+* [Stage #s_secure](https://gitlab.slack.com/archives/C8S0HHM44)
+* [Stage #s_defend](https://gitlab.slack.com/archives/s_defend)
+* [Subdepartment #sd_threat_mgmt](https://gitlab.slack.com/archives/C017A7JGP7S) and `@threat management engineering`
+* [Subdepartment #sd_threat_mgmt_leadership](https://gitlab.slack.com/archives/C0159F9S6VA)
+* [Subdepartment #threat_mgmt_standup](https://gitlab.slack.com/archives/CQ29K6XR7)
+* [Group #g_defend_container_security](https://gitlab.slack.com/archives/CU9V380HW)
+* [Group #g_secure_threat_insights](https://gitlab.slack.com/archives/CV09DAXEW)
+* [#sd_threat_mgmt_frontend](https://gitlab.slack.com/archives/C013MM369B7) and `@threat management frontend`
+* [#sd_threat_mgmt_backend](https://gitlab.slack.com/archives/C013CET9PGF) and `@threat management backend`
+
+
+<!---
 
 ## How to work with us
 
 While we love to get contributions from our users in the community, we also strive to attract talents in the Engineer teams of this stage to bring our product to the next level.
+
+
 
 Check out our Defend promotion video to learn more: 
 <figure class="video_container">
@@ -183,3 +197,4 @@ Check out our Defend promotion video to learn more:
 </figure>
 
 Our open positions are listed on the GitLab [Jobs page](/jobs/apply/): Select "Defend" Under "Engineering", then "Developement".
+--->
