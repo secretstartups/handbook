@@ -50,7 +50,7 @@ In this stage, the PM establishes new work that they would like to see in the Ge
 The PM tries to establish that the issue describes a problem with the Geo feature that is customer-relevant (internal and external), 
 or has some other clear merit (e.g. a technical improvement in the backend). The PM will draw on other group members, customers and the UX organisation where necessary.  
 If the problem is validated, the issue is moved forward to the next stage, otherwise it is closed with a short explanation on *why* the problem will not be considered. This explanation should also contain
-a link [to the category strategy](/handbook/product/product-management/process/#category-direction).
+a link [to the category strategy](/handbook/product/product-processes/#category-direction).
 
 ##### Solution validation
 
