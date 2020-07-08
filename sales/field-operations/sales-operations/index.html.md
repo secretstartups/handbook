@@ -18,8 +18,8 @@ Sales Operations is a part of Field Operations. We aim to help facilitate new an
 
 <div class="flex-row" markdown="0" style="height:80px">
   <a href="https://about.gitlab.com/handbook/sales/territories/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Territories</a>
-  <a href="" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Go To Market</a>
-  <a href="https://about.gitlab.com/handbook/sales/#quarterly-business-reviews" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Quarterly Business Reviews</a>
+  <a href="https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#sales-operations-go-to-market" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Go To Market</a>
+  <a href="https://about.gitlab.com/handbook/sales/qbrs/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Quarterly Business Reviews</a>
   <a href="https://about.gitlab.com/handbook/business-ops/resources/#account-ownership-rules-of-engagement" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Rules of Engagement</a>
     </div>
 
@@ -35,7 +35,7 @@ Sales Operations is a part of Field Operations. We aim to help facilitate new an
 <div class="flex-row" markdown="0" style="height:80px">
     <a href="https://about.gitlab.com/handbook/customer-success/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Customer Success</a>
     <a href="https://about.gitlab.com/handbook/sales/field-operations/sales-systems/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Systems</a>
-    <a href="" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Commissions</a>
+    <a href="https://about.gitlab.com/handbook/sales/commissions/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Commissions</a>
     <a href="https://about.gitlab.com/handbook/marketing/marketing-operations/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Marketing Operations</a>
     <a href="https://about.gitlab.com/handbook/business-ops/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Operations</a>
 </div>
