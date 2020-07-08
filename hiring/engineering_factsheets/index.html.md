@@ -592,9 +592,9 @@ Eric Brinkman, Director of Product - Dev
 Jason Yavorska, Director of Product - CI/CD
 **Useful links:**
 [Product handbook](/handbook/product/)
-[Product Manager job family](/job-families/product/product-manager/)
-[Product process](/handbook/product/product-management/process/)
-[Product categories](/handbook/product/product-categories/)
+[Product Manager job family](/handbook/product/product-manager-role/)
+[Product process](/handbook/product/product-processes/)
+[Product categories](/handbook/product/product-categories)
 
 **Team vision:** The primary goal of the Product team is to consistently create products and experiences that customers love and value. Our vision is to replace disparate DevOps toolchains with a single application that is pre-configured to work by default across the entire DevOps lifecycle.
 
