@@ -44,7 +44,7 @@ Topics are in alphabetical order with team members grouped by region.
 |               | EMEA   | Catalin                                                                                                                                               |
 | Kubernetes    | AMER   | Harish <br> JasonC <br> Michael Lussier <br> Thiago <br> Caleb W. <br> JasonY <br> Lewis                                                              |
 |               | APAC   | Alex Tanayno <br> Julian <br> Arihant <br> Priyan                                                                                                     |
-| Linux         | AMER   | Greg <br> Keven <br> Gabe <br> Cody West <br> James Lopes <br> Will <br> Davin <br> Lewis                                                             |
+| Linux         | AMER   | Greg <br> Keven <br> Gabe <br> Cody West <br> James Lopes <br> Will <br> Davin <br> Lewis <br> Tom H                                                           |
 |               | EMEA   | Ben <br> David Wainaina <br> Catalin                                                                                                                  |
 |               | APAC   | Mike <br> Priyan                                                                                                                                      |
 | Omnibus       | AMER   | Aric <br> Diana <br> Greg <br> Harish <br> John <br> Nathan <br> Gabe <br> Cody West <br> Keven <br> Davin <br> JasonY <br> Lewis <br> Brie <br> Phil |
