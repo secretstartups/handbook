@@ -300,7 +300,7 @@ Labels: `workflow::production`
 1. Engineering/quality/PM should validate again that the feature works for all users.
 1. The release post item needs to be merged following the instructions in the [template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md), which will then cause it to appear on the [gitlab.com releases page](/releases/gitlab-com/).
 
-If the feature is part of the [Dogfooding process](/handbook/product/product-management/process/#dogfooding-process):
+If the feature is part of the [Dogfooding process](/handbook/product/product-processes/#dogfooding-process):
 
 1. At this point, you should label the issue as `Dogfooding::Promote Feature`
 1. You should present it in the weekly Product Call to get everyone on board
