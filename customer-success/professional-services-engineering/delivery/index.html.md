@@ -111,23 +111,28 @@ Click the blue button to access your group and create your first project.
 1. <strong>For GitLab with Git Basics course instructors</strong>: When an attendee submits their certification assessment, review their work in the demo lab cloud within 7 days of the attendee's submission and manually release their results using the attendee's completed Google Form. [Here are the detailed instructions](https://gitlab.com/gitlab-com/customer-success/professional-services-group/education-services/-/wikis/GitLab-Certification-Instructions) for certifying customers.
 
 ### Tracking activities 
-
-##### Definition of internal time
-
-All internal time is anything that is not scheduled under the customer project or issue. Some examples of internal time would be the following:
-
-* PTO, Sick Time, Holiday
-* Ramp Up 
-* General Administrative
-* Practice Development
-* Mentoring
-* Personal Development/ Training
-* Tool Development
-
-- All Time should be recorded in issues that roll up to the major epics.
+- All Time should be recorded in an issues that roll up to the major epics.
 - Best practice is to record time at the time you are working on a task.  This provides the most accurate account of hours worked and when it was worked.  
-- Time will be recorded weekly.  Each PSE is required and responsible for tracking their own hours.  
-- Issues will need to be attached to one of the Major Epic topics below:
+- Each PSE is required and responsible for tracking their own hours, and submitted weekly by Monday morning for the previouis week worked.  A minimum of 40, or whatever the hours worked per week is in your country.
+- Issues will need to be attached to one of the Major Epic topics.
+
+### Hours tracking- Customer Projects
+
+Accurate time tracking records of hours is essential to ensure revenue can be recognized based upon percentage completion of a project scope as outlined in a Statement of Work ("SOW"), and this data is used in the calculation of gross margin.
+
+Billable hours represent work hours that a staff member reports as being aligned to a specific SOW. The format for daily time tracking for each team member is shown below, and should be reviewed by the PS leadership for approval and sign-off. Rounding to the nearest hour is acceptable, and please ensure data is recorded in numeric format without the use of text strings such as "hrs".
+
+#### Time tracking entry and approval workflow
+
+
+* All Issues are attached to Epics using the [epic categories](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#epic-categories) as a guide.
+* [PSE Hours Report Generator](https://gitlab-com.gitlab.io/customer-success/professional-services-group/issue-mover/) pulls all time spent from issues that the user is either an author of, or an assignee, and creates the time tracking spreadsheet at the end of the designated fiscal quarter.
+* A PS Delivery Manager will APPROVE the hours, create an issue and attach it to the Time Tracking Epic with the `ManagerCertifiedTimesheet` label
+* The approving manager will submit to the Head of PS, [Sr. Director of Professional Services](https://about.gitlab.com/job-families/sales/director-of-professional-services/) for next level approval.  The Head of PS with apply judgement on productive utilization.
+* Head of Professional Services will submit to the Professional Services Finance Partner for final approval.
+
+
+
 
 #### Issue board
 
@@ -138,7 +143,9 @@ Issues are created for all work by PS.
 #### Epic categories
 
 * [Major Group Global Company Meetings](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/epics/551) 
-  * Company conferences like the Sales Kick Off and Contribute
+  * [SKO](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1251)
+  * [Contribute](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1252)
+  * [Commit](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1376) 
 * [Major Group Project Work](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/epics/536) 
   * ALL project hours
   * Internal/ Sales Handoff Calls
@@ -148,40 +155,43 @@ Issues are created for all work by PS.
   * Status/ Close out customer calls
   * Customer Travel
 * [Major Group Global PS Project- PS Internal](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/epics/535) 
-  * Knowledge Sharing - Assisting Co-Worker
-  * General Administrative
+  * [Knowledge Sharing](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1253) 
+    * (Slack)
+    * (Internal Q&A)
+  * [General Administrative](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1254)
     * Time Sheets
     * Expense Reports
     * Reviews
     * HR Items
     * General Emails
-    * Meetings/ Staff Time
+  * [Meetings/ Staff Time](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1255)
     * Internal Meeting
-    * Stand- Up Calls
     * 1:1s
     * Weekly Webinars
     * All Hands
     * Team Calls
-  * Travel Time - Excluding Customer Travel
-  * Personal Enablement
+  * [Travel Time](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1258) 
+    * Excluding Customer Travel
+  * [Personal Enablement](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1257)
     * Development
     * Ramp Up
     * HR Training
 * [Major Group Global PS Project- Internal Assisted](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/epics/534) 
-  * Sales Assistance
+  * [Sales Assistance](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1247)
     * All Pre-Sales activities
     * SOW Creation
-  * Engineering Support
+  *  [Support Assistance](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1248)
     * Support Cases, (if pulled into customer questions after the project is closed)
     * Engineering Support
-  *  Practice Development
+  *  [Practice Development](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1249)
     * Creating process/documents
     * Templates
     * Articles/ Tools
-  * Mentoring
+  * [Product Development](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1339)
+  * [Mentoring](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1250)
 * [Major Group Global PS Projects- PTO/ Holidays](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/epics/533) 
-  * ALL Holidays
-  * ALL Sick/ PTO hours
+  * [PS Team Holidays](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1246)
+  * [PS Team PTO/ Sick Days](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1245)
 
 #### Labels
 
@@ -193,20 +203,6 @@ There are three types of project tracking labels
 
 `Embedded Engineer` (time and materials project) - Bill time and materials direct to customer
 
-### Hours tracking
-
-Accurate time tracking records of hours is essential to ensure revenue can be recognized based upon percentage completion of a project scope as outlined in a Statement of Work ("SOW"), and this data is used in the calculation of gross margin.
-
-Billable hours represent work hours that a staff member reports as being aligned to a specific SOW. The format for daily time tracking for each team member is shown below, and should be reviewed by the PS leadership for approval and sign-off. Rounding to the nearest hour is acceptable, and please ensure data is recorded in numeric format without the use of text strings such as "hrs".
-
-#### Time tracking entry and approval workflow
-
-* PSEs are required to track all hours using issues and all hours for the week should add up to a minimum of 40, or whatever the hours worked per week is in your country.
-* All Issues are attached to Epics using the [epic categories](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#epic-categories) as a guide.
-* [PSE Hours Report Generator](https://gitlab-com.gitlab.io/customer-success/professional-services-group/issue-mover/) pulls all time spent from issues that the user is either an author of, or an assignee, and creates the time tracking spreadsheet at the end of the designated fiscal quarter.
-* A PS Delivery Manager will APPROVE the hours, create an issue and attach it to the Time Tracking Epic with the `ManagerCertifiedTimesheet` label
-* The approving manager will submit to the Head of PS, [Sr. Director of Professional Services](https://about.gitlab.com/job-families/sales/director-of-professional-services/) for next level approval.  The Head of PS with apply judgement on productive utilization.
-* Head of Professional Services will submit to the Professional Services Finance Partner for final approval.
  
 ### How to complete a project
 
