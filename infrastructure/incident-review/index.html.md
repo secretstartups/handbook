@@ -51,7 +51,8 @@ _Incident resolution = date incident was resolved_
 
 Incident Reviews are conducted in [production](https://gitlab.com/gitlab-com/gl-infra/production/issues) issues&mdash;except in the case of extenuating circumstances when Infrastructure or Engineering management determines a synchronous video call should be held. The issues should have the `~IncidentReview` label attached.
 
-1. Every incident must be assigned a DRI, most of the time this will be the EOC who responded to, or declared the incident. The incident review should be assigned to the DRI, immediately when it is created.
+1. Every incident must be assigned a DRI. The DRI is the Engineer on Call (EOC).
+1. The incident review should be assigned to the DRI, immediately when it is created.
 1. The output of an incident review should include one or more issues labeled `~Corrective Action`.  Linking already existing issues for corrective action is appropriate if the incident was similar to a prior event and corrective actions overlap.
 1. The DRI is responsible for selecting and assigning corrective actions that should be prioritized and resolved within a specific timeframe.
 1. All issues labeled `~Corrective Action` must have an assigned priority label, it is the responsibility of the DRI to ensure that the priorities are set.
