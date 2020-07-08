@@ -833,7 +833,7 @@ For example, do not suggest that you're "working in real-time" when a matter is 
 
 Do not use a cool term such as "tiger team" when the [existing term of "working group"](/company/team/structure/working-groups/) is more exact. While cool terms such as these may be useful for persuading colleagues to join you in working towards a solution, the right way isn't to use flowery language.
 
-The last example is when we used 'Prioritizing for Global Optimization' for what we now call a [headcount reset](/handbook/product/product-management/process/#prioritize-global). When we [renamed it](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/31101/diffs) we saw a good reduction in the use of this disruptive practice of moving people around.
+The last example is when we used 'Prioritizing for Global Optimization' for what we now call a [headcount reset](/handbook/product/product-processes/#prioritize-global). When we [renamed it](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/31101/diffs) we saw a good reduction in the use of this disruptive practice of moving people around.
 
 ## Deep Dives
 
