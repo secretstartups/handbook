@@ -14,8 +14,8 @@ title: "CEO Shadow Program"
 ### Introduction
 
 At GitLab, being a CEO shadow at is not a job title, but a temporary assignment to shadow the CEO.
-The shadows will be present at [all meetings of the CEO](/handbook/ceo/#ceo-meeting-cadence) during their rotation. 
-GitLab is an [all-remote](/company/culture/all-remote/) company, but the CEO has in-person meetings with external organizations. 
+The shadows will be present at [all meetings of the CEO](/handbook/ceo/#ceo-meeting-cadence) during their rotation.
+GitLab is an [all-remote](/company/culture/all-remote/) company, but the CEO has in-person meetings with external organizations.
 Unless you're joining the program during one of our [remote rotations](#remote-shadow-rotations), you will stay in San Francisco during the entire [rotation](#rotation-rhythm) and travel with the CEO.
 
 ### Goal
@@ -58,7 +58,7 @@ Other names considered:
 
 ### What is it like?
 
-Considering joining the program? Hear from past shadows about their experience: 
+Considering joining the program? Hear from past shadows about their experience:
 
 1. [Day 2 of Erica Lindberg](https://www.youtube.com/watch?v=xrWR0uU4nbQ)
 2. [Acquisitions, growth curves, and IPO strategies: A day at Khosla Ventures](/blog/2019/04/08/khosla-ventures-gitlab-meeting/)
@@ -137,15 +137,15 @@ Considerations are cumulative and can be:
 
 You're also eligible if you work(ed) at an investment firm and while there helped to lead a private round in GitLab.
 
-**COVID-19 Note:** During this time, all shadow rotations are fully remote. 
+**COVID-19 Note:** During this time, all shadow rotations are fully remote.
 Given the CEO generally works from 8 a.m. to 6 p.m. Pacific,
-it's best for remote shadows to be in Pacific, Mountain, or Central time zones. 
-Other time zones will be considered on a case-by-case basis. 
+it's best for remote shadows to be in Pacific, Mountain, or Central time zones.
+Other time zones will be considered on a case-by-case basis.
 
 Learn more about what to expect from a [remote shadow rotation](#remote-shadow-rotations).
 
-Shadows with scheduled rotations always have the option to delay to later in the year if they'd prefer to do their rotation in person. 
-Shadows who have chosen to delay their rotations until another time include: 
+Shadows with scheduled rotations always have the option to delay to later in the year if they'd prefer to do their rotation in person.
+Shadows who have chosen to delay their rotations until another time include:
 * Jarka Kosanova
 * James Ramsey
 
@@ -192,21 +192,21 @@ Exceptional community members may be able to participate, as well.
 | 2020-08-03 | 2020-08-07 | NO SHADOWS - PTO | NO SHADOWS - PTO |
 | 2020-08-10 | 2020-08-14 | AVAILABLE - REMOTE  | [Tim Rizzi](https://gitlab.com/trizzi) - Sr. Product Manager, Package |
 | 2020-08-17 | 2020-08-21 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2020-08-24 | 2020-08-28 | AVAILABLE - REMOTE | AVAILABLE - REMOTE | 
-| 2020-08-31 | 2020-09-17 | NO SHADOWS - PERSONAL  | NO SHADOWS - PERSONAL | 
-| 2020-09-21 | 2020-09-25 | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend | AVAILABLE - REMOTE | 
-| 2020-09-28 | 2020-10-02 | AVAILABLE | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend | 
-| 2020-10-05 | 2020-10-09 | NO SHADOWS - Presidents Club | NO SHADOWS - Presidents Club | 
+| 2020-08-24 | 2020-08-28 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2020-08-31 | 2020-09-17 | NO SHADOWS - PERSONAL  | NO SHADOWS - PERSONAL |
+| 2020-09-21 | 2020-09-25 | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend | AVAILABLE - REMOTE |
+| 2020-09-28 | 2020-10-02 | AVAILABLE | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend |
+| 2020-10-05 | 2020-10-09 | NO SHADOWS - Presidents Club | NO SHADOWS - Presidents Club |
 | 2020-10-12 | 2020-10-16 | NO SHADOWS - PTO | NO SHADOWS - PTO |
-| 2020-10-26 | 2020-10-30 | AVAILABLE - REMOTE | AVAILABLE - REMOTE | 
-| 2020-11-02 | 2020-11-06 | AVAILABLE - REMOTE | AVAILABLE - REMOTE | 
-| 2020-11-09 | 2020-11-13 | AVAILABLE - REMOTE | AVAILABLE - REMOTE | 
-| 2020-11-16 | 2020-11-20 | AVAILABLE - REMOTE | AVAILABLE - REMOTE | 
-| 2020-11-23 | 2020-11-27 | NO CEO SHADOWS - Thanksgiving | NO CEO SHADOWS - Thanksgiving | 
-| 2020-11-30 | 2020-12-04 | AVAILABLE - REMOTE | AVAILABLE - REMOTE | 
-| 2020-12-09 | 2020-12-13 | AVAILABLE - REMOTE | AVAILABLE - REMOTE | 
+| 2020-10-26 | 2020-10-30 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2020-11-02 | 2020-11-06 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2020-11-09 | 2020-11-13 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2020-11-16 | 2020-11-20 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2020-11-23 | 2020-11-27 | NO CEO SHADOWS - Thanksgiving | NO CEO SHADOWS - Thanksgiving |
+| 2020-11-30 | 2020-12-04 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2020-12-09 | 2020-12-13 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 
-The week of 2020-12-13 will be the last CEO Shadow Rotation of 2020 to allow our team members to focus on the holiday season and put family and friends first. 
+The week of 2020-12-13 will be the last CEO Shadow Rotation of 2020 to allow our team members to focus on the holiday season and put family and friends first.
 
 If you have questions regarding the planned rotation schedule, please ping the Executive Admin to the CEO. The EBA to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation.
 
@@ -237,7 +237,7 @@ Feel free to schedule a coffee chat with any of the CEO Shadow Alumni. You can r
 #### Create an onboarding issue
 
 Outgoing shadows are responsible for training incoming shadows. We currently track on-boarding in the [ceo-shadow](https://gitlab.com/gitlab-com/ceo-shadow) project.
-The incoming shadow is responsible for creating their onboarding issue using the `on-boarding` template. If your [rotation is remote](#remote-shadow-rotations), be sure to use the `onboarding-remote` template. 
+The incoming shadow is responsible for creating their onboarding issue using the `on-boarding` template. If your [rotation is remote](#remote-shadow-rotations), be sure to use the `onboarding-remote` template.
 Assign both incoming and outgoing shadows to the issue.
 
 #### Explore the CEO Shadow project
@@ -281,7 +281,7 @@ However, there are many short-term administrative tasks you'll be asked to perfo
 1. Prepare for and receive guests at Mission Control.
 1. Offer GitLab swag to guests at Mission Control before they leave.
 1. Answer the phone and door at Mission control.
-1. Consider posting an unfiltered blog, a recorded reflection of your experience, or a CEO Interview on a topic of your choice. Link this to the table in the [Alumni](/handbook/ceo/shadow/#alumni/) section. 
+1. Consider posting an unfiltered blog, a recorded reflection of your experience, or a CEO Interview on a topic of your choice. Link this to the table in the [Alumni](/handbook/ceo/shadow/#alumni/) section.
 1. Improve and provide training to incoming CEO Shadows.
 1. Speak up when the [CEO displays flawed behavior](/handbook/ceo/#flaws).
 
@@ -297,7 +297,7 @@ Once those items have an open MR against them, post in the `#ceo-shadow` channel
 ### Meetings & Events
 #### CEO's Calendar
 1. At the start of the week, review the CEO's calendar. The CEO's calendar is the single source of truth. Shadows should check the CEO's calendar for updates often. You will not be invited to each meeting. Meetings that the shadows may **not** attend will have a separate calendar entry on the CEO's schedule that states "No CEO Shadows". When in doubt, reach out to CEO Executive Business Admin to confirm if you should attend or not. There will be some meetings and events the shadows do not attend. Do not feel obligated to attend every meeting — all meetings are considered optional.
-1. Add the CEO's calendar to your Google Calendar by clicking the `+` next to "Other Calendars".  Then click `Subscribe to Calendar`, search for the CEO's name and click enter. 
+1. Add the CEO's calendar to your Google Calendar by clicking the `+` next to "Other Calendars".  Then click `Subscribe to Calendar`, search for the CEO's name and click enter.
 1. Because candidate interviews are marked as "private" (busy) for confidentiality reasons, the Executive Business Admin will invite the shadows to those events directly. As a result, you will get an email from Greenhouse asking for candidate feedback, which is not necessary.
 1. Meetings with those outside of GitLab may not be on Zoom. Prior to the call, check the CEO's calendar and load any other conferencing programs that may be needed. It may be necessary to dial-in via phone for  audio-conferences. If you have any problems confirming the link, reach out to the `#ceo-shadow` slack channel
 
@@ -315,7 +315,7 @@ You will attend all GitLab meetings of the CEO, including but not limited to:
 1. Interviews with candidates.
 1. Conversations with board members.
 
-Like all meetings at GitLab, meetings will begin promptly, regardless of the shadows' attendance. You will travel with the CEO to meetings, team off-sites, and conferences outside of San Francisco per the CEO's schedule. 
+Like all meetings at GitLab, meetings will begin promptly, regardless of the shadows' attendance. You will travel with the CEO to meetings, team off-sites, and conferences outside of San Francisco per the CEO's schedule.
 Executive Business Admin to the CEO will assist you with conference registration and travel accommodations during these time frames.
 
 The CEO's Executive Business Admin will ask external people if they are comfortable with the shadows joining prior to the scheduled meeting, and will share a link to the CEO shadow page to provide context.
@@ -360,7 +360,7 @@ When scheduling an interview with the CEO, the EBA to the CEO will create a shar
 This notes document is then added to the scorecard for the candidate in Greenhouse.
 
 * Shadows should ensure they mark comments they provide with their full name.
-* Please **do not** complete the automated Greenhouse report that follows the interview, entitled `REMINDER: Please fill out your scorecard for [NAME]`. CEO shadows are asked to simply delete this email. 
+* Please **do not** complete the automated Greenhouse report that follows the interview, entitled `REMINDER: Please fill out your scorecard for [NAME]`. CEO shadows are asked to simply delete this email.
 
 
 ##### Valley Meetings
@@ -375,7 +375,7 @@ Personal meetings will be marked as "busy" on the calendar. Shadows do not atten
 
 #### Removing yourself from personal CEO documents
 
-For certain meetings, such as Valley Meetings, a CEO Shadow may be added to an agenda document which is accessible to people outside of the GitLab organization. 
+For certain meetings, such as Valley Meetings, a CEO Shadow may be added to an agenda document which is accessible to people outside of the GitLab organization.
 
 At the conclusion of the call, the CEO Shadows should remove themselves from document(s) they were added to via the following steps.
 
@@ -534,20 +534,20 @@ When traveling with the CEO, keep the following in mind:
 
 ![GitLab all-remote mentor](/images/all-remote/ceo-shadow-gitlab-awesomeness.jpg){: .shadow.medium.center}
 
-The CEO Shadow Program is temporarily fully remote because of COVID-19 [travel restrictions](#travel-guidance-covid-19). 
-The shadows will participate in all meetings from their usual work environment. 
+The CEO Shadow Program is temporarily fully remote because of COVID-19 [travel restrictions](#travel-guidance-covid-19).
+The shadows will participate in all meetings from their usual work environment.
 
-While remote shadows won't get to work from Mission Control or attend in-person meetings with the CEO, they will still get an immersive experience through the program. 
-A remote rotation may also be an ideal opportunity for a team member who has been unable to travel for an in-person rotation in the past. 
+While remote shadows won't get to work from Mission Control or attend in-person meetings with the CEO, they will still get an immersive experience through the program.
+A remote rotation may also be an ideal opportunity for a team member who has been unable to travel for an in-person rotation in the past.
 
 For insights on maximizing a remote CEO Shadow rotation, view takeaway recap videos from [Betsy](https://youtu.be/DGJCuMVp6FM) (Talent Brand Manager) and [Darren](https://youtu.be/4yhtYcOZn3w) (Head of Remote), as well as Darren's [blog](/blog/2020/05/22/gitlab-remote-ceo-shadow-takeaways/).
 
 #### Tips for remote shadows
 
 - Be sure that you have an [ergonomic workspace](/company/culture/all-remote/workspace/). You'll be taking lots of notes during meetings, and will want a comfortable setup.
-- Communicate clearly with your co-shadow about shared tasks since you will not be working together in person. 
+- Communicate clearly with your co-shadow about shared tasks since you will not be working together in person.
 - Take breaks from your desk when there is a break in the CEO's schedule. Because you're not working from Mission Control or traveling to other meetings with the CEO, it's important to make time to [move around.](/company/culture/all-remote/tips/#dedicate-time-for-health-and-fitness)
-- Depending on your time zone, working in Pacific Time may be an adjustment to your typical working hours. [Plan ahead,](/company/culture/all-remote/getting-started/#establish-routine-with-family-and-friends) especially if you're balancing responsibilities with family, pets, roommates, etc. 
+- Depending on your time zone, working in Pacific Time may be an adjustment to your typical working hours. [Plan ahead,](/company/culture/all-remote/getting-started/#establish-routine-with-family-and-friends) especially if you're balancing responsibilities with family, pets, roommates, etc.
 - Consider switching locations in your home or workspace during the CEO's 1:1 meetings. Since you [won't be taking active notes](#responsibilities) in these calls, this is a good opportunity to change position or scenery intermittently throughout the day.
 
 ## Mission Control Guide
@@ -875,8 +875,7 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2020-05-04 | 2020-05-15 | [Darren Murph](https://gitlab.com/dmurph) | Head of Remote | [GitLab CEO Shadow recap — key takeaways and lessons learned from a remote rotation](https://about.gitlab.com/blog/2020/05/22/gitlab-remote-ceo-shadow-takeaways/) |
 | 2020-05-11 | 2020-05-22 | [Emily Kyle](https://gitlab.com/emily) | Manager, Corporate Events |  |
 | 2020-05-11 | 2020-05-22 | [Candace Williams](https://gitlab.com/cwilliams3) | Diversity, Inclusion & Belonging  Manager |  |
-| 2020-05-25 | 2020-06-05 | [Sophie Pouliquen](https://gitlab.com/spouliquen1) | Senior Technical Account Manager | | 
-| 2020-06-01 | 2020-06-19 | [Jackie Meshell](https://gitlab.com/jmeshell) | Senior Product Manager, Release Management | [Recording 📹: Four things I learned as a CEO Shadow](https://youtu.be/iAiYAnkdQLQ) | 
-| 2020-06-15 | 2020-06-26 | [Wayne Haber](https://gitlab.com/whaber) | Director Engineering, Defend | [What is the GitLab CEO shadow program?  Why should you apply to participate?  How did I see the GitLab values in action?](https://www.youtube.com/watch?v=JVaPRtY6wMQ) | 
+| 2020-05-25 | 2020-06-05 | [Sophie Pouliquen](https://gitlab.com/spouliquen1) | Senior Technical Account Manager | |
+| 2020-06-01 | 2020-06-19 | [Jackie Meshell](https://gitlab.com/jmeshell) | Senior Product Manager, Release Management | [Recording 📹: Four things I learned as a CEO Shadow](https://youtu.be/iAiYAnkdQLQ) |
+| 2020-06-15 | 2020-06-26 | [Wayne Haber](https://gitlab.com/whaber) | Director Engineering, Defend | [Video](https://www.youtube.com/watch?v=JVaPRtY6wMQ) and [Blog](/blog/2020/07/08/ceo-shadow-impressions-takeaways/): What is the GitLab CEO shadow program?  Why should you apply to participate?  How did I see the GitLab values in action?  |
 | 2020-06-22 | 2020-07-03 | [Jim Riley](https://gitlab.com/jrileyinva) | Area Sales Manager - Public Sector| |
-
