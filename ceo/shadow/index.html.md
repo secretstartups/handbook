@@ -192,8 +192,8 @@ Exceptional community members may be able to participate, as well.
 | 2020-07-27 | 2020-07-31 | [Tim Rizzi](https://gitlab.com/trizzi) - Sr. Product Manager, Package | [David DeSanto](https://gitlab.com/ddesanto) - Director of Product, Secure & Defend |
 | 2020-08-03 | 2020-08-07 | NO SHADOWS - PTO | NO SHADOWS - PTO |
 | 2020-08-10 | 2020-08-14 | AVAILABLE - REMOTE  | [Tim Rizzi](https://gitlab.com/trizzi) - Sr. Product Manager, Package |
-| 2020-08-17 | 2020-08-21 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2020-08-24 | 2020-08-28 | AVAILABLE - REMOTE | AVAILABLE - REMOTE | 
+| 2020-08-17 | 2020-08-21 | [Sam White](https://gitlab.com/sam.white) - Sr. Product Manager, Defend | AVAILABLE - REMOTE |
+| 2020-08-24 | 2020-08-28 | AVAILABLE - REMOTE | [Sam White](https://gitlab.com/sam.white) - Sr. Product Manager, Defend | 
 | 2020-08-31 | 2020-09-17 | NO SHADOWS - PERSONAL  | NO SHADOWS - PERSONAL | 
 | 2020-09-21 | 2020-09-25 | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend | AVAILABLE - REMOTE | 
 | 2020-09-28 | 2020-10-02 | AVAILABLE | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend | 
