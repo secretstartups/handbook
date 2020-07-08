@@ -74,7 +74,7 @@ Give as much positive feedback as you can, and do it in a public way.
 {:.no_toc}
 There are aspects of GitLab culture, such as intentional transparency, that are unintuitive to outsiders and new team members.
 Be willing to invest in people and engage in open dialogue.
-For example, consider making private issues public wherever possible so that we can all learn from the experience.
+For example, consider making private issues public wherever possible so that we can all learn from the experience. Don't be afraid of judgement or scrutiny when sharing publicly, we all understand [it's impossible to know everything](/handbook/values/#its-impossible-to-know-everything).
 
 Everyone can **remind** anyone in the company about our values.
 If there is a disagreement about the interpretations, the discussion can be escalated to more people within the company without repercussions.
@@ -620,7 +620,7 @@ This is documented on our page about [interviewing](/handbook/hiring/interviewin
 {:.no_toc}
 Be consciously inclusive in [meetings](/company/culture/all-remote/meetings/) by giving everyone present an opportunity to talk and present their points of view. This can be especially important in a remote setting.
 
-With internal meetings, consider using an agenda document for questions. For example, with GitLab [Group Conversations](https://about.gitlab.com/handbook/people-group/group-conversations/), every meeting has a numbered list that GitLab team members can add questions to. During the meeting, questions are answered in turn and discussions noted in the same document.
+With internal meetings, consider using an agenda document for questions. For example, with GitLab [Group Conversations](https://about.gitlab.com/handbook/people-group/group-conversations/), every meeting has a numbered list that GitLab team members can add questions to. During the meeting, questions are answered in turn and discussions noted in the same document. Sometimes, these documents can have so much traffic (during the meeting) such that only a limited number of people can edit the document. In these situations, those who have questions should post on zoom chat and those who can edit the document should help copy the question over to the document. In addition, those who can edit the document should also post in zoom chat to see if anyone has any questions that they could help add to the document so that meeting attendees are more empowered to contribute to the conversation.
 
 Customers are not used to working in this way. To promote inclusion with customers: ask participants for their goals; make sure during demos that you pause for question; leave time for discussion.
 
