@@ -80,6 +80,26 @@ Simply put:
 1. You are welcome to follow this up with a Slack message in [#g_scalability](https://gitlab.slack.com/archives/g_scalability).
 1. Please don't add any `workflow` labels to the issue. The team will triage the issue and apply these.
 
+### Scalability review requests
+
+If you're working on a feature that will have specific scaling requirements, you
+can create an issue with the [review request
+template](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/new?issuable_template=Review%20Request).
+Some examples are:
+
+1. [Review Request - Impact on database load for enabling advanced global search](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/377)
+1. [Review Request - Assumptions about build prerequisite-related application limits](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/421)
+1. [Review Request - Throttling for Cleanup Policies Scaling Request](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/461)
+
+This template gives the team the information we need to help you, and will
+immediately put the issue on our [build board](#issue-boards) with a high
+priority.
+
+This process is an example of [doing something that doesn't
+scale](/handbook/values/#do-things-that-dont-scale); as we do more of these,
+we'll learn what topics can be covered more efficiently by training,
+documentation, and tooling.
+
 ## How does the Scalability Team engage with Stage Groups?
 
 When we observe a situation on GitLab.com that needs to be addressed alongside a stage group, we first raise an issue
