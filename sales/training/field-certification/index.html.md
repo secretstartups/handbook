@@ -64,7 +64,7 @@ We are on schedule to deliver the first learning paths for the Field Certificati
 - Onboarding the Customer for Technical Account Managers 
 
 <figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/1A6W2INGaKZHH8vSP_av4VPUBYq7Pq5QbBE63jieI1kU/edit?embed?start=false&loop=false&delayms=3000&slide=id.g5741598ac4_0_70" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTEMXWL70J785BYq93uFS_xLxebYidow_49-K9hUcrrf-LfBR8EGjPXE3hD6Sr1ouy6Dx62Ppzcy5fA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
 To get involved or follow along with the development, check out the [Field Certification Issues Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1637426). We love feedback and questions, so check us out on Slack in #field-cert-program. 
