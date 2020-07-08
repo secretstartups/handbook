@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Customer Renewal Tracking"
+title: "Commercial Renewal Process"
 ---
 
 ## On this page
@@ -10,24 +10,24 @@ title: "Customer Renewal Tracking"
 {:toc .hidden-md .hidden-lg}
 
 View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional TAM-related handbook pages.
-Link to [Commercial Renewal Process](/handbook/customer-success/comm-sales/renewals/)
----
 
-A key part of the customer relationship lifecycle is the renewal phase.  TAMs must proactively track the renewal dates of their customers and align with their Strategic Account Manager (SAL) to ensure that a customer renewal takes place.
+
+
+A key part of the customer relationship lifecycle is the renewal phase.  TAMs must proactively track the renewal dates of their customers and align with their Account Executive (AE) to ensure that a customer renewal takes place.
 
 ## Timeframe
 
-At the beginning of each month a TAM should review their list of accounts in Salesforce and note the renewal dates for their accounts.  If a renewal date is within six months the TAM should schedule two “Renewal Review” meetings with the appropriate SAL and Solutions Architect (SA).  The first “Renewal Review” meeting should be scheduled five months out from the renewal date and the second should be scheduled three months out from the renewal date.
+At the beginning of each month a TAM should review their list of accounts in Salesforce and note the renewal dates for their accounts.  If a renewal date is within six months the TAM should schedule two “Renewal Review” meetings with the appropriate AE and Solutions Architect (SA).  The first “Renewal Review” meeting should be scheduled five months out from the renewal date and the second should be scheduled three months out from the renewal date.
 
 ## Renewal Review Meeting
 
 A “Renewal Review” meeting should have the following attendees:
 
-- Strategic Account Leader
+- Account Executive
 - Solutions Architect
 - Technical Account Manager
 
-For strategic accounts (with a ACV over $250k) the following attendees should be added as well:
+For strategic accounts (with a ACV over $100k) the following attendees should be added as well:
 
 - Regional Sales Director
 - TAM Regional Manager
@@ -49,3 +49,4 @@ From this meeting a set of action items should be created to improve customer ut
 ## Customer Cadence
 
 The action items created from the “Renewal Review” meeting should be incorporated into the TAM customer cadence meetings and into any pending QBRs. The TAM should prioritize these reviews early in the renewal horizon.
+
