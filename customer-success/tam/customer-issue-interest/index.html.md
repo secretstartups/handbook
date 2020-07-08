@@ -25,7 +25,7 @@ To indicate a customer's interest in an issue, add the link to their SalesForce 
 
 **Note:** make sure that you are using a customer **account link** and _not_ an **opportunity link**. The Sisense dashboard will only use account links to tabulate interest.
 
-Product uses the [RICE framework](/handbook/product/product-management/process/#prioritization) to determine prioritization of features and issues. Adding customer interest to issues helps increase the RICE score and the visibility of the issue.
+Product uses the [RICE framework](/handbook/product/product-processes/#how-we-prioritize-work) to determine prioritization of features and issues. Adding customer interest to issues helps increase the RICE score and the visibility of the issue.
 
 ## Customer Collaboration Project
 
