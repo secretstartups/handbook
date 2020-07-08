@@ -332,7 +332,7 @@ We have the following deadlines:
   - Release scope is finalized. In-scope issues marked with milestone `m`; label `deliverable` applied.
   - Kickoff document is updated with relevant items to be included.
 - By month `M-1, 16th` (at least 1 day before milestone `m` begins):
-  - [Group Kickoffs calls](/handbook/product/product-management/process/#kickoff-meetings) recorded and uploaded.
+  - [Group Kickoffs calls](/handbook/product/product-processes/#kickoff-meetings) recorded and uploaded.
 - On month `M-1, 18th` (or next business day, milestone `m` begins): **Kick off!** 📣
   - [Company Kickoff](#kickoff) call live streamed.
   - Development on milestone `m` begins
