@@ -147,7 +147,7 @@ To ensure we safeguard our customers data, we:
 1. [Utilizing bug bounty programs](/handbook/engineering/security/#vulnerability-reports-and-hackerone) like HackerOne
 1. Conducting [threat intelligence](/handbook/engineering/security/#threat-intelligence)
 1. Have an [internal Red Team](/handbook/engineering/security/#red-team)
-1. Enable our customers to secure their applications via our [Defend Stage](/handbook/product/categories/#defend-stage) categories and features
+1. Enable our customers to secure their applications via our [Defend Stage](/handbook/product/product-categories/#defend-stage) categories and features
 
 ## 10. Economic Downturn
 {:#economic-downturn}
