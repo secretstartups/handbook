@@ -288,7 +288,7 @@ Anyone who reaches the `Screening` stage must be sent out the **Global Self-Iden
 1. Ensure Job Post: `Global Self-Identification Survey (Remote)` is [offline]
 1. Check: `Hide basic fields (i.e. name, email, phone number, resume, cover letter, location, education)`
 1. Select Template: `Global Self-Identification Survey`
-1. Send email from: `no-reply@greenhouse` (should default in)
+1. Send email from: `noreply@gitlab.com` (should default in)
 
 ### Scheduling interviews with Greenhouse
 
