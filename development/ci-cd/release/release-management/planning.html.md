@@ -53,11 +53,11 @@ In this stage, the PM establishes new work that they would like to see in the Re
 
 The PM tries to establish that the issue describes a problem with the Release feature that is customer-relevant (internal and external),
 or has some other clear merit (e.g. a technical improvement in the backend). The PM will draw on other group members, customers and the UX organization where necessary.  
-If the problem is validated, the issue is moved forward to the next stage, otherwise it is closed with a short explanation on _why_ the problem will not be considered. This explanation should also contain a link [to the category strategy](/handbook/product/product-management/process/#category-direction).
+If the problem is validated, the issue is moved forward to the next stage, otherwise it is closed with a short explanation on _why_ the problem will not be considered. This explanation should also contain a link [to the category strategy](/handbook/product/product-processes/#category-direction).
 
 ##### Solution validation
 
-Once the problem is validated, the PM will consider creating an Epic if [the scope of the solution is large enough](/handbook/product/product-management/process/#epics-for-a-single-iteration).
+Once the problem is validated, the PM will consider creating an Epic if [the scope of the solution is large enough](/handbook/product/product-processes/#epics-for-a-single-iteration).
 They will then reach out to the Engineering Manager (EM) for a technical contact in the team. The EM assigns [ownership](#epic-ownership) to an engineer. The engineer will work with the PM to determine a technical solution for the problem.
 
 If designs are required, the PM will add the `workflow::design` label and collaborate with UX to create the user stories required to solve the customer problem. Story mapping is a recommended way to visualize the user stories of a new feature in a holistic way. The story map can even be annotated to indicate which user stories need to be included in each release increment. More information on this process is noted in the [Product Development Workflow](https://about.gitlab.com/handbook/product-development-flow/#validation-phase-3-solution-validation). In some situations, the PM and UX may decide the issue is ready for `cicd::active` and will move the issue to `workflow::scheduling` for EM review.
