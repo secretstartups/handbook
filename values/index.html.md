@@ -370,42 +370,42 @@ We demonstrate results when we do what we promised to each other, customers, use
 
 <table class="tg">
   <tr>
-    <th class="tg-0lax">Level</th>
+    <th class="tg-0lax">[Grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)</th>
     <th class="tg-0lax">Demonstrates Results Competency by…</th>
     <th class="tg-0lax">Knowledge Assessment<br></th>
   </tr>
   <tr>
-    <td class="tg-0lax">Junior/Associate</td>
+    <td class="tg-0lax">5</td>
     <td class="tg-0lax">Develops the skills needed to commit and execute on agreed actions.</td>
     <td class="tg-0lax" rowspan="3"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfcsI30XAW3hjwzlpo-HV6g_uZUIa-cqxJgEdiNfdHADBpsTQ/viewform">Knowledge Assessment for Individual Contributors</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Intermediate</td>
+    <td class="tg-0lax">6</td>
     <td class="tg-0lax">Applies commitment to results and demonstrates ability to execute on agreed actions.</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><br>Senior</td>
+    <td class="tg-0lax"><br>7</td>
     <td class="tg-0lax">Models a sense of urgency and commitment to deliver results.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Staff/Manager</td>
+    <td class="tg-0lax">8</td>
     <td class="tg-0lax">Coaches team members to collaborate and work iteratively towards results with the focus on the outcome and not hours worked.</td>
     <td class="tg-0lax" rowspan="6"><a href="https://docs.google.com/forms/d/e/1FAIpQLSf9ZFJb3Fx86rI_Fmk1X88jSuDDvz9p4WLTfBmkYCmgrFDOgw/viewform">Knowledge Assessment for People Leaders</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Senior Manager</td>
+    <td class="tg-0lax">9</td>
     <td class="tg-0lax">Fosters a culture of ownership of personal performance.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Director</td>
+    <td class="tg-0lax">10</td>
     <td class="tg-0lax">Drives efficient execution of results ensuring collaboration between team members.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Senior Director</td>
+    <td class="tg-0lax">11</td>
     <td class="tg-0lax">Develops quarterly OKR's ensuring the performance and results of one or more teams.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">VP</td>
+    <td class="tg-0lax">12</td>
     <td class="tg-0lax">Leads the achievement of results while driving the continued alignment to our values of collaboration, efficiency, diversity, iteration and transparency.</td>
   </tr>
   <tr>
