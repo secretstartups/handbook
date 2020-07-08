@@ -335,20 +335,21 @@ The schedule with directly responsible individuals (DRI) is as follows:
 
 - People Experience Associates (with support as needed from People Operations Specialists) manage the GitLab Team Meetings calendar and their events.
 - People Experience Associates moderate Group Conversations and AMAs. If an AMA is created with short notice and there are no People Ops team members available, then People Ops will not be able to moderate or livestream.
-- To request an AMA be put on the GitLab team meetings calendar, the requestor should find a date and time on the GitLab Team Meetings calendar that works for the AMA host. 
-- The requestor will fill out the AMA Request Form shortcut in the `#peopleops` Slack Channel. 
 - As part of designated Bring Your Family and Friends to Work events, some AMAs will be open to family members (including kids) and friends. These AMAs will be a subset of AMAs that do not contain sensitive data (sensitive data includes: information we usually don't share publicly). These events will be publicized ahead of time through #whats-happening-at-gitlab. The calendar invite for these AMAs will specify that they are "open to family and friends."
 
 We suggest each person attend via their own device to avoid [hybrid meetings](https://about.gitlab.com/handbook/communication/#hybrid-calls-are-horrible). We encourage you to follow up with your guest after to debrief and share call impressions. For this it might be good to be in the same room but only if you are sure not to get echo's.
 
+### Steps to Request an AMA
 
-- The AMA Request Form asks for the following information: 
-  - Title of AMA (Host) 
-  - Public or Private Livestream
-  - Date & Time (YYYY-MM-DD PST)
-  - Moderator 
+1. To request an AMA be put on the GitLab team meetings calendar, the requestor should find a date and time on the GitLab Team Meetings calendar that works for the AMA host. 
+1. The requestor will fill out the AMA Request Form [shortcut](https://slack.com/help/articles/360004063011-Work-with-apps-in-Slack-using-shortcuts#shortcuts-menu) in the `#group-conversations` Slack Channel. 
+  - The AMA Request Form asks for the following information: 
+    - Title of AMA (Host) 
+    - Public or Private Livestream
+    - Date & Time (YYYY-MM-DD PST)
+    - Moderator 
     - Select EBA/PeopleOps/PEA/Other 
-  - Agenda Link
+    - Agenda Link
 - The People Experience Associate will create the event in the PeopleOps Zoom account and add it to the GitLab team meetings calendar. The PEA will add the AMA document link in the description and invite `everyone@domain.com` to the meeting.
 
 ## Archiving Content
