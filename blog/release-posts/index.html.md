@@ -314,9 +314,9 @@ drafting the release post item, it is recommended PMs write Release Post Item MR
 
 Be sure to reference your Direction items and Release features. All items which appear
 in our [Upcoming Releases page](https://about.gitlab.com/upcoming-releases/) should be included in the relevant release post.
-For more guidance about what to include in the release post please reference the [Product Handbook](https://about.gitlab.com/handbook/product/communication/#release-posts).
+For more guidance about what to include in the release post please reference the [Product Handbook](https://about.gitlab.com/handbook/product/product-processes/#communication#release-posts).
 
-When writing your content blocks, be sure to reference [Writing release blog posts](https://about.gitlab.com/handbook/product/communication/#writing-release-blog-posts) and [Writing about features](https://about.gitlab.com/handbook/product/communication/#writing-about-features) to ensure your release post item writeups align with how GitLab communicates. This will also ensure a smoother and more speedy review process for your release post items.
+When writing your content blocks, be sure to reference [Writing release blog posts](https://about.gitlab.com/handbook/product/product-processes/#communication#writing-release-blog-posts) and [Writing about features](https://about.gitlab.com/handbook/product/product-processes/#communication#writing-about-features) to ensure your release post item writeups align with how GitLab communicates. This will also ensure a smoother and more speedy review process for your release post items.
 
 PM contributors are encouraged to use discretion if wanting to add new content blocks after the final merge deadline of the 17th, and especially after final content assembly happens at 8 AM PST (3 PM UTC). But if if highly impactful features are released that can not wait till the next blog post, PMs shoudl reach out and coordinate with the Release Post Manager. It is up to the discretion of the Release Post Manager to work with the PM and Messaging lead to add more content blocks up until the 21st.
 
@@ -373,7 +373,7 @@ make sure that:
 As noted in the [Release Post Item template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md):
 
 - Make it clear if a feature is **new**, or is an improvement to an existing feature.
-- Make sure your content is reasonably aligned with guidance in [Writing about features](https://about.gitlab.com/handbook/product/communication/#writing-about-features).
+- Make sure your content is reasonably aligned with guidance in [Writing about features](https://about.gitlab.com/handbook/product/product-processes/#communication#writing-about-features).
 - Ensure that titles use sentence case with feature and product names in capital case.
 
 Write the description of every feature as you do to regular blog posts. Please write according to
@@ -527,7 +527,7 @@ Content blocks are listed in the post in alphabetical order, so to order the con
 _Each PM is responsible for pinging their PMM counterpart when they need a review on the messaging for a Release Post Item MR or changes to `features.yml`._
 
 - Leave comments for the PMs on the items file in the MR. Make sure to comment in the diff on the line that you are referring to so that the PM has the context and comments can be resolved appropriately.
-- See [writing about features](/handbook/product/communication/#writing-about-features) as a guideline for what feature descriptions show have.
+- See [writing about features](/handbook/product/product-processes/#communication#writing-about-features) as a guideline for what feature descriptions show have.
 - Review the messaging for these features look for these 4 elements
     - **problem/solution**: Does this describe the user pain points (problem) as well as how the new feature removes the paint points (solves the problem)?
     - **short/pithy**: Is this communicated clearly with the fewest words possible?
