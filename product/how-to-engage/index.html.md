@@ -99,7 +99,7 @@ schedule any necessary changes for an upcoming release.
 If you have any product-related questions, comments, input, or otherwise, the
 product manager is the primary person you should talk to, _if creating an issue
 does not suffice_. Otherwise, [read this section on how to create an
-issue](/handbook/product/product-management/process/#how-to-submit-a-new-issue).
+issue](/handbook/product/product-processes/#how-to-submit-a-new-issue).
 
 This includes, but is not limited to, features, bugs, and other changes that need
 to be prioritized, changed, discussed, or need more attention.
