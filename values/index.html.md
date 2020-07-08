@@ -1114,7 +1114,7 @@ From our values we excluded some behaviors that are obvious; we call them our *p
 1. Be truthful and honest.
 1. Be dependable, reliable, fair, and respectful.
 1. Be committed, creative, inspiring, and passionate.
-1. Be deserving of the trust of our users and customers.
+1. Be deserving of the trust of our team members, users and customers.
 1. Act in the best interest of the company, our team members, our customers, users, and investors.
 1. Act in accordance with the law.
 1. Don't show favoritism as [it breeds resentment, destroys employee morale, and creates disincentives for good performance](https://www.employmentlawfirms.com/resources/employment/discrimination/laws-preventing-favoritism-in-the-workplace). Seek out ways to be fair to everyone.
