@@ -159,7 +159,7 @@ This report contains the 66 most recent unlabelled issues requiring initial tria
   1. Add a [team label](https://gitlab.com/gitlab-org/gitlab/blob/master/doc/development/contributing/issue_workflow.md#team-labels)
   and [stage label](https://gitlab.com/gitlab-org/gitlab/blob/master/doc/development/contributing/issue_workflow.md#stage-labels).
   1. If it is unclear whether the issue is a bug or a support request:
-    * @mention the PM/EM for the [relevant group](/handbook/product/categories/) and ask for their opinion.
+    * @mention the PM/EM for the [relevant group](/handbook/product/product-categories/) and ask for their opinion.
   1. If the issue is a request for help:.
       * Use this template to provide resources and close the issue:
 
@@ -182,13 +182,13 @@ This report contains the 66 most recent unlabelled issues requiring initial tria
   1. If the issue is spam:
     * [Report the abuse](https://docs.gitlab.com/ee/user/abuse_reports.html) and make the issue confidential. Flag the report that is raised in the [#abuse](https://gitlab.slack.com/messages/C0HPYBJ3D) slack channel with a link to the issue and alert the `@abuse-team`.
   1. (Optional) Add relevant [subject labels](https://gitlab.com/gitlab-org/gitlab/blob/master/doc/development/contributing/issue_workflow.md#subject-labels).
-  1. (Optional) Mention relevant PM/EMs from the relevant stage group from [product devstages categories](/handbook/product/categories/#devops-stage).
+  1. (Optional) Mention relevant PM/EMs from the relevant stage group from [product devstages categories](/handbook/product/product-categories/#devops-stage).
 * Enlist help as needed by mentioning folks in the [#triage](https://gitlab.slack.com/messages/C39HX5TRV) slack channel.
 * Example: [https://gitlab.com/gitlab-org/gitlab-ce/issues/57834](https://gitlab.com/gitlab-org/gitlab-ce/issues/57834)
 
 ### Group level bugs, features, and UX debt
 
-This report contains the relevant bugs, feature requests, and UX debt issues that belong to a group in our [DevOps stages](/handbook/product/categories/#devops-stages).
+This report contains the relevant bugs, feature requests, and UX debt issues that belong to a group in our [DevOps stages](/handbook/product/product-categories/#devops-stages).
 The goal is to achieve [complete-triage](/handbook/engineering/quality/issue-triage#complete-triage) by the Product Manager, Engineering Manager, UX team member in that area.
 
 The report itself is divided into 4 main parts.
@@ -250,7 +250,7 @@ This section contains bugs which has past our targeted SLO based on the priority
 ### Group level idle merge requests
 
 This report contains idle merge requests that belong to a group in our
-[DevOps stages](/handbook/product/categories/#devops-stages).
+[DevOps stages](/handbook/product/product-categories/#devops-stages).
 
 Some merge requests are being idle with no activity on them and are merged
 more than 30 days from the time when they are opened. This report attempts to

@@ -190,7 +190,7 @@ The failure was caused by a bug in the application code.
 - Do *not* [quarantine][quarantining tests] the test immediately unless the bug won't be fixed quickly (e.g. if it is a minor/superficial bug). Instead, leave a comment in the issue for the bug asking if the bug can be fixed in the current release. If it can't, quarantine the test.
 - When the reason for quarantining a test is because of a low severity bug in the code which will not be fixed in the upcoming couple of releases, add `type: :bug` in the `quarantine` tag.
 
-To find the appropriate team member to cc, please refer to the [Organizational Chart](/company/team/org-chart/). The [Quality Engineering team list](/handbook/engineering/quality/#quality-engineering-teams) and [DevOps stage group list](/handbook/product/categories/#devops-stages) might also be helpful.
+To find the appropriate team member to cc, please refer to the [Organizational Chart](/company/team/org-chart/). The [Quality Engineering team list](/handbook/engineering/quality/#quality-engineering-teams) and [DevOps stage group list](/handbook/product/product-categories/#devops-stages) might also be helpful.
 
 See [Quarantining Tests]
 
