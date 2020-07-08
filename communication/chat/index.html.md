@@ -60,16 +60,16 @@ These channels are for teams and GitLab team-members interested in a specific fe
 
 #### Group Channels (g_)
 
-Group channels (prefixed with a `g_`) correspond to a [DevOps Stage group](/handbook/product/categories/#hierarchy) and other [engineering departments and teams](/handbook/engineering/#engineering-departments--teams).
+Group channels (prefixed with a `g_`) correspond to a [DevOps Stage group](/handbook/product/product-categories/#hierarchy) and other [engineering departments and teams](/handbook/engineering/#engineering-departments--teams).
 
 **Example**
 
-* **[`#g_create`](https://gitlab.slack.com/archives/g_create)**: Channel for the [Create](/handbook/product/categories/#create) development group.
+* **[`#g_create`](https://gitlab.slack.com/archives/g_create)**: Channel for the [Create](/handbook/product/product-categories/#create) development group.
 * **[`#g_geo`](https://gitlab.slack.com/archives/g_geo)**: Dedicated to the [Geo group](/handbook/engineering/development/enablement/geo/).
 
 #### Category Channels (c_)
 
-Category channels (prefixed with a `c_`) correspond to a [DevOps Stage group category](/handbook/product/categories/#hierarchy).
+Category channels (prefixed with a `c_`) correspond to a [DevOps Stage group category](/handbook/product/product-categories/#hierarchy).
 
 **Example**
 
@@ -94,8 +94,8 @@ Section channels (prefixed with `s_`) correspond to sections within departments.
 
 **Examples**
 
-* **[`#s_enablement`](https://gitlab.slack.com/archives/s_enablement)**: For the [Enablement section](/handbook/product/categories/#enablement-section).
-* **[`#s_growth`](https://gitlab.slack.com/archives/s_growth)**: For the [Growth section](/handbook/product/categories/#growth-section).
+* **[`#s_enablement`](https://gitlab.slack.com/archives/s_enablement)**: For the [Enablement section](/handbook/product/product-categories/#enablement-section).
+* **[`#s_growth`](https://gitlab.slack.com/archives/s_growth)**: For the [Growth section](/handbook/product/product-categories/#growth-section).
 
 #### Sub-Department Channels (sd_)
 
