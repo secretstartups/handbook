@@ -128,6 +128,7 @@ This section is ordered by stage and group according to the [product categories 
 | Topic       | Region | Team Member       |
 | ----------- | ------ | ----------------- |
 | Code Owners | AMER   | Tristan <br> Will |
+| Repository Mirroring | AMER | Tristan |
 
 ##### Editor
 
