@@ -26,7 +26,7 @@ Create an issue in the [analytics project](https://gitlab.com/gitlab-com/sales-t
 | Matt Benzaquen | Sr Manager Sales Strategy | [@mbenza](https://gitlab.com/mbenza) | 
 | Melia Vilain | Sr Sales Analytics Analyst | [@mvilain](https://gitlab.com/mvilain) |
 | David Mack | Sr Sales Analytics Analyst | [@DavidMack](https://gitlab.com/DavidMack) |
-| TBD | Sr Sales Analytics Analyst | TBD |
+| Noel Figuera | Sr Sales Analytics Analyst | [@nfiguera](https://gitlab.com/nfiguera)  |
 
 ### Sales Headcount Change Management Process
 
