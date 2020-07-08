@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "GitLab Consultant Onboarding and Offboarding Processes"
+title: "External Consultant Orientation and Access Deprovisioning"
 ---
 
 ## On this page
@@ -11,15 +11,20 @@ title: "GitLab Consultant Onboarding and Offboarding Processes"
 
 ## Introduction
 
-From time-to-time, GitLab will bring in the expertise of external consultants to work on a task for a defined engagement. These temporary staff may, on a case-by-case basis, require access to GitLab's systems for a period of time, including Slack, customer data, and [infrastructure environments](/handbook/engineering/infrastructure/environments/).
+GitLab will from time-to-time bring in the expertise of External Consultants to work on a specific task for a pre-defined period. Depending on the nature of this engagement and the tasks at hand, the aforementioned External Consultant(s) may require access to certain GitLab systems and information which may include Slack; Customer Data, and [Infrastructure Environments](https://about.gitlab.com/handbook/engineering/infrastructure/environments/).
 
-Please make sure to add the prefix `-CTR` to any usernames and handles that are temporarily created for the user. This allows team members to quickly ascertain whether someone is a consultant, and for auditing to be done on these accounts.
+## Consultant Orientation
 
-## Onboarding Processes
+- The Orientation Issue for External Consultants can be found in the [Lifecycle Management Project](https://gitlab.com/gitlab-com/contingent-workers/lifecycle) - this issue should only be created by a **Vendor Manager** i.e. the individual responsible for initiating the consulting relationship, once a [Vendor Contract Request](https://gitlab.com/gitlab-com/Finance-Division/finance/-/blob/master/.gitlab/issue_templates/general_vendor_contract_request.md) has been created an moved through the approval process.
 
-- For engineer consultant onboarding, [create a new issue in the infrastructure tracker](https://gitlab.com/gitlab-com/infrastructure/issues/new?issuable_template=consultant_onboarding), using the [consultant_onboarding](https://gitlab.com/gitlab-com/infrastructure/blob/master/.gitlab/issue_templates/consultant_onboarding.md) template.
-- If the contractor is assigned access to any repositories on a GitLab instance, please ensure that an expiry date is set for the access.
-- The signed contract should be added into ContractWorks instead of BambooHR. 
+Once this process is complete the External Consultant will be added to ContractWorks and not BambooHR which is strictly for GitLab Team Members.
 
-## Offboarding Process
-- For engineer consultant offboarding, [create a new issue in the infrastructure tracker](https://gitlab.com/gitlab-com/infrastructure/issues/new?issuable_template=consultant_offboarding), using the [consultant_offboarding](https://gitlab.com/gitlab-com/infrastructure/blob/master/.gitlab/issue_templates/consultant_offboarding.md) template.
+## Important Actions
+
+- If you will be making use of an External Consultant please be sure to add the prefix `-CTR` to any associated Usernames and / or Handles that are temporarily created for this user. This allows Team Members to quickly ascertain whether someone is an External Consultant and allows for auditing to be done on these accounts.
+- If an External Consultant is assigned access to any repositories on a GitLab instance, please be sure to set an expiry date for this access which is aligned to the length of engagement.
+
+## Deprovisioning Access
+
+The Vendor Manager is responsible for initiating External Consultant offboarding functions once the External Consultant reaches the end of their engagement with GitLab.  This will predominantly center on the deprovisioning of access to any GitLab systems and information which were made available at the time of orientation with the support of IT Ops and the Tech Stack Provisioners.  
+
