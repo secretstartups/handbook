@@ -64,7 +64,7 @@ An effective product leader should:
 
 - Respect that multiple voices influencing the group will be confusing to the
   execution team, and avoid coming out of left field with changing priorities.
-  The PM owns the [day-to-day interaction](/handbook/product/product-management/process/#working-with-your-group)
+  The PM owns the [day-to-day interaction](/handbook/product/product-processes/#working-with-your-group)
   with their group and the leader should influence through the directly responsible
   PM.
 
