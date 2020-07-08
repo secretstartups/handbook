@@ -48,7 +48,7 @@ Using the appropriate labels is _critical_ to ensuring visibility of issues and 
 
 Required:
 
-- [Stage](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#stage-labels): Unsure of which? Check out [label descriptions](https://gitlab.com/gitlab-org/gitlab/-/labels), [DevOps Stages](/handbook/product/categories/#devops-stages), [features list by stage](/features) or similar existing issue.
+- [Stage](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#stage-labels): Unsure of which? Check out [label descriptions](https://gitlab.com/gitlab-org/gitlab/-/labels), [DevOps Stages](/handbook/product/product-categories/#devops-stages), [features list by stage](/features) or similar existing issue.
 - [Type Labels](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#type-labels) should be added by the template, but *add* them if any are missing.
   - On the [GitLab.com Support Forum](https://gitlab.com/gitlab-com/support-forum/), add `~support request`.
 - `~customer`, if appropriate `~customer+`: [see list](https://docs.google.com/spreadsheets/d/19jpPvS9W0rDJUbwZ_AfdaItTxF72GGNUGh7zkrug12w/edit?usp=sharing) (internal)
@@ -65,7 +65,7 @@ Optional, but highly recommended:
 
 ## Escalate New and Existing Issues
 
-The Support team can directly ping the PM on the issue or in the #product Slack channel (see [DevOps Stages](/handbook/product/categories/#devops-stages)) in case this may help with communication. Comments might include asking for an update on behalf of the customer, or discussing the severity or priority especially if it needs to be increased.
+The Support team can directly ping the PM on the issue or in the #product Slack channel (see [DevOps Stages](/handbook/product/product-categories/#devops-stages)) in case this may help with communication. Comments might include asking for an update on behalf of the customer, or discussing the severity or priority especially if it needs to be increased.
 
 ## Creating Issues
 

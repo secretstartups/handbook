@@ -80,7 +80,7 @@ If you need help with scripting for fixes, internal tools, or any other reason.
 
 ### Product Stages
 
-This section is ordered by stage and group according to the [product categories page](/handbook/product/categories/#devops-stages). If no one is listed for an area, look for a Support Counterpart on the product page.
+This section is ordered by stage and group according to the [product categories page](/handbook/product/product-categories/#devops-stages). If no one is listed for an area, look for a Support Counterpart on the product page.
 
 #### Manage
 
