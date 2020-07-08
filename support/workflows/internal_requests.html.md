@@ -36,7 +36,7 @@ graph TD;
   M-->N[Apply Status::On Hold, Set Due Date, and Inform Submitter];
 ```
 
-### SE Escalations
+### GitLab.com Console
 
 ```mermaid
 graph TD;

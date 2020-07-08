@@ -15,46 +15,46 @@ Refer to this page when a user has questions/issues related to transactions, lic
 ## Issue Trackers
 The list of common requests/issues below is reference for internal support engineers. Unless specifically noted, utilize the following issue tracker decision table for submitting issues.
 
-| Issue Tracker |Use Case | 
+| Issue Tracker |Use Case |
 |------|-------|
-| [GitLab Issue Tracker](https://gitlab.com/gitlab-org/gitlab/issues) |   Issue related to self-managed or GitLab.com functionality or backend processing  |  
+| [GitLab Issue Tracker](https://gitlab.com/gitlab-org/gitlab/issues) |   Issue related to self-managed or GitLab.com functionality or backend processing  |
 | [Support Engineer Escalations](https://gitlab.com/gitlab-com/support/internal-requests/-/issues) | Customers portal issue which may be billing or bad data related    |
-| [Customers Portal](https://gitlab.com/gitlab-org/customers-gitlab-com/issues) | Issue is caused specifically by something within the Customers Portal    |   
-| [License App](https://gitlab.com/gitlab-org/license-gitlab-com/issues) | Issue is affecting self-managed license generation or generated licenses    |  
+| [Customers Portal](https://gitlab.com/gitlab-org/customers-gitlab-com/issues) | Issue is caused specifically by something within the Customers Portal    |
+| [License App](https://gitlab.com/gitlab-org/license-gitlab-com/issues) | Issue is affecting self-managed license generation or generated licenses    |
 
 
 
 ## Transactions
-Transactions at GitLab are defined as anything related to purchasing; issues or questions. For example. credit card problems, bugs, trying to make a purchase and running into confusion/problems etc. 
+Transactions at GitLab are defined as anything related to purchasing; issues or questions. For example. credit card problems, bugs, trying to make a purchase and running into confusion/problems etc.
 
 
 
-1. **User reports an inability to upgrade from one paid plan to another.** 
+1. **User reports an inability to upgrade from one paid plan to another.**
 
-    - GitLab.com users can upgrade their paid plan to a higher tier in the [customers portal](https://customers.gitlab.com/customers/sign_in) by selecting the `Upgrade` button beneath the subscription widget. 
+    - GitLab.com users can upgrade their paid plan to a higher tier in the [customers portal](https://customers.gitlab.com/customers/sign_in) by selecting the `Upgrade` button beneath the subscription widget.
     - Self-managed GitLab users need to be put in contact with a sales rep in order to upgrade their plan to a higher tier. Utilize the `Upgrade Plan Request` macro in Zendesk. This will request necessary information from the user and reassign the ticket to the License, Renewals and Upgrades queue.
 
 1. **User wants to trial a plan other than Gold on GitLab.com.** GitLab.com [only offers the self-service ability to trial the Gold subscription](https://gitlab.com/gitlab-org/customers-gitlab-com/issues/409). With manager approval, GitLab.com support can assist with trials of other plans. Ask the user to create the GitLab.com Gold trial, then change the plan via the customers portal admin `GitLab Groups` page.
 
-1. **User receives an error during the purchasing process within the [customers portal](https://customers.gitlab.com/customers/sign_in).** When purchasing a subscription via the customers portal if a user receives an error about an address or credit card, check the address listed in the `My Account` section of the customers portal. This is typically due to a bad address (city/state/zip code). If the address is correct and the error persists, change the Zendesk form to "GitLab.com". The support team will submit [an issue](https://gitlab.com/gitlab-com/support/dotcom/dotcom-escalations/issues) and utilize the SE Escalation template. A support engineer will rule out if this is a billing or bad data issue and advise if a [customers portal issue](https://gitlab.com/gitlab-org/customers-gitlab-com/issues) is needed.
+1. **User receives an error during the purchasing process within the [customers portal](https://customers.gitlab.com/customers/sign_in).** When purchasing a subscription via the customers portal if a user receives an error about an address or credit card, check the address listed in the `My Account` section of the customers portal. This is typically due to a bad address (city/state/zip code). If the address is correct and the error persists, change the Zendesk form to "GitLab.com". The support team will submit [an issue](https://gitlab.com/gitlab-com/support/dotcom/dotcom-escalations/issues) and utilize the "Customers Console Escalation" label. A support engineer will rule out if this is a billing or bad data issue and advise if a [customers portal issue](https://gitlab.com/gitlab-org/customers-gitlab-com/issues) is needed.
 
 1. **User wants to downgrade subscription.** There is currently [no ability to downgrade a subscription from a self-service perspective](https://gitlab.com/gitlab-org/customers-gitlab-com/issues/368). If a user wants to downgrade and they are within 45 days of the purchase, send the request to the AR team by selecting the form `Accounts Receivable` in Zendesk and advise the user to purchase the desired plan once cancelled/refunded. If the user is outside of the 45 day period, advise them that we can cancel the purchase but the subscription will not be refunded. In this case you can also consider passing the issue to the assigned Account Manager in sales if the deal is midmarket or higher.
 
 1. **User wants the red renewal approaching banner message in their Self-Managed system removed.** This message will be displayed to all users in the 30 days leading up to the renewal date. The message will only be removed when a new license key is uploaded.
 
-1. **User doesn't know the steps to purchase a GitLab.com subscription.** 
-   
-   - Create an account in [GitLab.com](https://gitlab.com/users/sign_in) 
+1. **User doesn't know the steps to purchase a GitLab.com subscription.**
+
+   - Create an account in [GitLab.com](https://gitlab.com/users/sign_in)
    - [Create a group](https://docs.gitlab.com/ee/user/group/#create-a-new-group) if desired in GitLab.com and [add group members](https://docs.gitlab.com/ee/user/group/#add-users-to-a-group)
    - Create an account in the [customers portal](https://customers.gitlab.com/customers/sign_up)
    - Associate GitLab.com account with customers portal account. First log into GitLab.com, then in another tab in the same browser open the customers portal and navigate to `My Account` and select `Change Linked Account`
-   - Purchase desired subscription from https://about.gitlab.com/pricing/#compare-options, selecting the desired group during the purchase process. 
+   - Purchase desired subscription from https://about.gitlab.com/pricing/#compare-options, selecting the desired group during the purchase process.
 
 1. **User doesn't see their group during purchase process.** If the customer can't see their Group when purchasing a subscription, one of the below options are likely happening:
    - They need to create a Group on GitLab.com first
    - They need to associate their GitLab.com account with their customers portal account
 
-1. **User purchased CI minutes but they aren't associated with their group.** 
+1. **User purchased CI minutes but they aren't associated with their group.**
 
     1. Check to see if the minutes are associated with the users personal namespace.
     1. Check to see if the user who purchased the minutes has owner permission for the group which the minutes should be associated.
@@ -65,7 +65,7 @@ Transactions at GitLab are defined as anything related to purchasing; issues or 
         -  If this is unsuccessful (either [tries to charge for users due to known issue](https://gitlab.com/gitlab-org/customers-gitlab-com/issues/630) or appears to associate but doesn’t really do anything), continue …
     1. Reset the pipeline minutes via GitLab.com admin UI. Sometimes this shakes things loose and the association actually works.
         - If this works, stop and notify user.
-        - If this is unsuccessful, create an SE issue ([example](https://gitlab.com/gitlab-com/support/internal-requests/issues/1050)). Include Zendesk link, customers portal link, Customer ID, Group Name, Group ID, Subscription (number/name). Assign the `SE escalation` label.
+        - If this is unsuccessful, create a console esclation issue ([example](https://gitlab.com/gitlab-com/support/internal-requests/issues/1050)). Include Zendesk link, customers portal link, Customer ID, Group Name, Group ID, Subscription (number/name). Assign the `Customers Console escalation` label.
 
 1. **User wants to pay monthly.** - [This is not an available option.](https://about.gitlab.com/pricing/licensing-faq/#can-i-pay-for-the-subscription-monthly)
 
@@ -77,12 +77,12 @@ Transactions at GitLab are defined as anything related to purchasing; issues or 
 
 
 ## Licensing
-Licensing requests refers to problems or questions related to license keys for the Self-Managed product. 
+Licensing requests refers to problems or questions related to license keys for the Self-Managed product.
 
 
 1. **Instructions for activating the license key.** For Self-Managed subscriptions, a license key must be uploaded in order to unlock the applicable paid features. Follow the instructions for [uploading the license key](https://docs.gitlab.com/ee/user/admin_area/license.html#uploading-your-license)
 
-1. **User wants to know when they will receive the license key or who the license will be sent to.** The license key will be emailed, [to the email address associated with the subscription in the customers portal](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1044#note_318221832), once subscription payment is approved internally by the billing team.  If there is an unusually long delay, assign the ticket to the "License, Renewals and Upgrades" queue or [open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=license%20issue) using the "license issue" template. 
+1. **User wants to know when they will receive the license key or who the license will be sent to.** The license key will be emailed, [to the email address associated with the subscription in the customers portal](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1044#note_318221832), once subscription payment is approved internally by the billing team.  If there is an unusually long delay, assign the ticket to the "License, Renewals and Upgrades" queue or [open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=license%20issue) using the "license issue" template.
 
 1. **User doesn't renew paid Self-Managed plan, what happens to the license and features?** The license key will expire 14 days after the expiration date. The system will revert to  read-only mode  if a new key is not uploaded. If  the user doesn't purchase  another plan and  subsequently upload a new license, instruct them to remove the old license so the system will revert to the free Core (EE) functionality. Note, it is no longer necessary to downgrade to CE package.
 
@@ -90,10 +90,10 @@ Licensing requests refers to problems or questions related to license keys for t
 
 A license key will error if any of the following 3 values are incorrect:
 
-| Key Field |Definition & source of truth | 
+| Key Field |Definition & source of truth |
 |------|-------|
-| Users count |   We identify the minimum amount via the active.users command: `sudo gitlab-rails runner 'p User.active.count'`  | 
-| Previous users count |   We can try to assume based on licenses in our License App but this cannot be certain since multiple licenses may be generated for one period. Instead, the best identifier is the system itself. For this we request a screenshot of the user statistics panel from `Admin Area -> Overview -> Dashboard`. The Previous users count = `Users in License` in the widget on the top left. | 
+| Users count |   We identify the minimum amount via the active.users command: `sudo gitlab-rails runner 'p User.active.count'`  |
+| Previous users count |   We can try to assume based on licenses in our License App but this cannot be certain since multiple licenses may be generated for one period. Instead, the best identifier is the system itself. For this we request a screenshot of the user statistics panel from `Admin Area -> Overview -> Dashboard`. The Previous users count = `Users in License` in the widget on the top left. |
 | True-up count |   The best identifier for this value is to take Max Users - Previous users count. I recommend using the historical.max command: `sudo gitlab-rails runner 'p ::HistoricalData.max_historical_user_count'` for the Max count.  |
 
 Note that for Ultimate licenses, guest users are not counted in the licensed user count. Therefore, the `User.active.count` will be a greater number than the `Active Users` count displayed in the Admin UI dashboard. This can be confusing in a situation where the customer is downgrading from Ultimate or if they have an Ultimate trial, as they'll need a license for `User.active.count` rather than what's displayed for `Active Users`.
@@ -122,7 +122,7 @@ Consider the following examples:
 
 
 ## Billing
-Billing refers to inquiries which can be handled by our Accounts Receivable team. Examples of common billing requests are list below. These request should be sent to Accounts Receivable using the `General>Accounts Receivable` macro. 
+Billing refers to inquiries which can be handled by our Accounts Receivable team. Examples of common billing requests are list below. These request should be sent to Accounts Receivable using the `General>Accounts Receivable` macro.
 
 1. Copy of invoice - _check first if the invoice is available in the [customers portal](https://customers.gitlab.com/customers/sign_in),  if  yes, walk the customer through locating the invoices under Payment History for future self-service ability._
 1. Changes to invoice (address, company name, VAT #, etc)  - _before sending this to AR, make sure the customer has provided all of the needed information._
@@ -147,22 +147,22 @@ The following information is helpful to provide to the AR team when transfering 
     1. **Renewals workflow** - a current customer wants a renewal quote.
         - Identify if the company is in SFDC; look up the email domain in SFDC global search. Note the `Type` field in the SFDC account record (Customer vs. Prospect). Note the Account Owner and the Opportunity Owner of the upcoming renewal opportunity. Pass the request to the opportunity owner.
         - If the opportunity and account owner is listed as "SFDC Admin", check the `Sales Segment` field as this is likely Small Business. If so, use the [Sales territories](https://about.gitlab.com/handbook/sales/territories/) reference to identify who it should be referred to using the [Pass to Sales ZD macro](https://gitlab.zendesk.com/agent/admin/macros/360025924680).
-    1. **Additional reasons to escalate to renewal sales**: 
+    1. **Additional reasons to escalate to renewal sales**:
         - complaint with request of credit (ex. GitLab.com performance has been terrible, they want credit)
         - any paper quote request for orders more than $1,000 annually (has a PO, can't pay via credit card, need an invoice prior to payment
         - downgrading product tiers
         - transitioning from one product to another (GitLab.com <-> Self-Managed)
         - downgrading the number of users
         - renewal cancellation/refund other than SMB
-    1. **Workflow for tickets which have been escalated to sales** - daily, review the tickets which have been escalated to sales, requesting status and closing as possible. _(pro tip: create a personal ticket view where "Escalated to Sales" = checked, to pull these out into their own queue)_ 
-        - Ping in Slack ([#sales](https://gitlab.slack.com/archives/C02NE5PQM) for new business, [#account-management](https://gitlab.slack.com/archives/C44SXGG8M) for renewals) if ticket is urgent or the copy to the sales person was not answered. Copy the manager on the 2nd ping in Slack. 
+    1. **Workflow for tickets which have been escalated to sales** - daily, review the tickets which have been escalated to sales, requesting status and closing as possible. _(pro tip: create a personal ticket view where "Escalated to Sales" = checked, to pull these out into their own queue)_
+        - Ping in Slack ([#sales](https://gitlab.slack.com/archives/C02NE5PQM) for new business, [#account-management](https://gitlab.slack.com/archives/C44SXGG8M) for renewals) if ticket is urgent or the copy to the sales person was not answered. Copy the manager on the 2nd ping in Slack.
 
 ## Troubleshooting sales-assisted transactions for GitLab.com
 
 If the user sees a subscription in the customers portal but doesn't see the paid plan active in their GitLab.com account, have the user associate the group with the subscription.
 
 Associating a group with a subscription in the customers portal:
-1. Log into: https://customers.gitlab.com/customers/sign_in 
+1. Log into: https://customers.gitlab.com/customers/sign_in
 1. Navigate to **Manage Purchases**
 1. Select **Change linked group**
 1. Select the desired group from the **This subscription is for dropdown**

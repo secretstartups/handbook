@@ -40,7 +40,7 @@ Issues are not scheduled for a particular release unless Product adds them to a 
 
 Regardless of the type of issue, please include any relevant information _along_ with a link. Also check that the [correct labels](#adding-labels) have been applied.
 
-Please see the product handbook to see [what information product wants us to provide for feature requests](https://about.gitlab.com/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature) 
+Please see the product handbook to see [what information product wants us to provide for feature requests](https://about.gitlab.com/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature)
 
 ## Adding Labels
 
@@ -124,7 +124,7 @@ If you create a feature proposal on behalf of a customer, please follow the same
 | Service/Product       | Escalation Type                                                                                  | Escalation Point                                         |  Assignment      |
 |-----------------------|-------------------------------------------------------------------------------------------------|---------------------------------------------------------|----------------------- |
 | GitLab Infrastructure | Anything related to the **running of GitLab.com**, performance, something breaks                | https://gitlab.com/gitlab-com/infrastructure/issues/new | Production Lead/Senior Production Engineer
-| GitLab.com Support Engineers| Anything related to the **use of GitLab.com**, operations that can't be performed with admin access  | https://gitlab.com/gitlab-com/support/internal-requests/issues/new | Use `~"SE Escalation"` label |
+| GitLab.com Support Engineers| Anything related to the **use of GitLab.com**, operations that can't be performed with admin access  | https://gitlab.com/gitlab-com/support/internal-requests/issues/new | Use `~"GitLab.com Console Escalation"` label |
 | GitLab Support        | Any and all questions in relation to providing customer service for GitLab users and customers. | https://gitlab.com/gitlab-com/support/support-team-meta/issues/new        | Support Team Lead/Senior Support Engineer
 
 **See the [GitLab team page](/company/team/) for assignments**
