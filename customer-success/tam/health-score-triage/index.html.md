@@ -49,7 +49,7 @@ Engagement, adoption and/or experiences are lower than expected, risking GitLab'
 - Lack of engagement, responsiveness or participation in meetings and/or events
 - Changes of roles (e.g., sponsor or champion), organizational change or acquisition
 - Lack of adoption of releases (self-managed only) where they are more than a major release behind the current release
-- Not leveraging technical support services or has a large number of cases and/or high severity cases (0 tickets per month or 6-15 tickets per month)
+- Not leveraging technical support services or has a large number of cases and/or high severity cases (6-15 tickets per month, or no ticket(s) opened after being advised by the TAM that Support is the best path to resolution for an issue(s))
 - Poor experiences with Support, Professional Services or another part of GitLab
 - Working with a single contact at a company (single-threaded).
 
