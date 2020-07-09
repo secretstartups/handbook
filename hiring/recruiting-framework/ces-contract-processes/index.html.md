@@ -78,7 +78,6 @@ To change a start date after a **GitLab entity** contract has been signed and th
    - Save
    - In the "Make a Note" section in Greenhouse state the old start date and the new state date
    - Save
-1. Update the [GitLab Onboarding Tracker](https://docs.google.com/spreadsheets/d/1L1VFODUpfU249E6OWc7Bumg8ko3NXUDDeCPeNxpE6iE/edit#gid=1721125348) start date and at mention/tag the assigned People Experience Associate in the Google Sheet so they are aware of the new start date. Ensure you move the row to the appropriate section in the sheet as well. In addition, please add a note on the tracker for the People Experience team.
 1. Update the People Experience Team in Slack Workflow.
     - Open private Slack channel `#people-exp_ces`
     - Click Shortcuts button in the bottom left corner (looks like a lightning bolt)
@@ -117,7 +116,14 @@ To change a start date after a **PEO** contract has been signed and the new team
    - Save
    - In the "Make a Note" section in Greenhouse state the old start date and the new state date
    - Save
-1. Update the [GitLab Onboarding Tracker](https://docs.google.com/spreadsheets/d/1L1VFODUpfU249E6OWc7Bumg8ko3NXUDDeCPeNxpE6iE/edit#gid=1721125348) start date and at mention/tag the assigned People Ops Specialist in the Google Sheet so they are aware of the new start date. Ensure you move the row to the appropriate section in the sheet as well. In additiion, please add a note on the tracker for the People Ops team.
+1. Update the People Experience Team in Slack Workflow.
+    - Open private Slack channel `#people-exp_ces`
+    - Click Shortcuts button in the bottom left corner (looks like a lightning bolt)
+    - Click "New Start Date        Workflow"
+    - Fill in Team Member Name with the New Hire Name
+    - Fill in Original Start Date (YYYY-MM-DD)
+    - Fill in New Start Date (YYYY-MM-DD)
+    - Fill in Reason For Change. This is to inform the People Experience team of the reason for the new date (i.e. Public Holiday, New Hire request, Hiring Manager request, etc.).
 1. Update BambooHR to reflect the new start date.
    - Sign into Bamboo HR
    - Search of the new team member's name
