@@ -243,6 +243,8 @@ Code Units:
    *  This flags accounts that have been deleted from Salesforce (since they were merged or deleted) and that need to be deleted from Gainsight 
 *  Admin - Load GS Contacts to SFDC
    * This is the second half of the bi-directional sync of Contacts between Gainsight <> Salesforce. Gainsight pushes Contacts back to Salesforce that do not have an External Contact Id and that have a unique Email address that does not already exist within Salesforce (in order to avoid duplicates). This External Id is then appending by the Connector 2.0 on the next scheduled sync. 
+* SFDC RefEdge Reference Status
+   * This is pushing to our Reference Profile in SFDC what a Gainsight directed Referenc Status would be. The goal is to get better alignment between the Reference Team and the Customer Success Team and to help decrease the amount of time it takes for the Reference Team to learn of any improvmenets or problems at once of our reference accounts. 
 
 
 ##### Admin Daily - Stage Adoption
