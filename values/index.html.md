@@ -1060,7 +1060,19 @@ As long as a team member is producing required results, they are empowered to de
 
 On the other hand, as GitLab grows in size, we need to make decisions and the decisions may not be agreed to by everyone.  
 If a decision or project is sensitive or controversial, and receives large amounts of feedback, it can be challenging for the project DRI to handle. 
-We need to think about how to address that challenge - for example, the manager of the project owner may need to get involved to help route the feedback, or we may need to ask team members to submit their feedback to their managers first. 
+In these cases, it's best to have have time-boxed feedback built into timelines.
+
+In a hypothetical example where a DRI needs to decide between red and gold potatoes for a stew, they would create an issue with the following sentiment:
+
+> We’re deciding between red potatoes and gold potatoes to go into the soup. We have to decide by Tuesday 2020-07-14 so that we can get our order to the grocery store on Wednesday 2020-07-15. We’ll be collecting input and feedback until that point. Jane is the DRI and will make the decision on 2020-07-14 with all the information we have at that point. Here is the framework we’re using for the decision:
+>
+> * are there allergies to consider?
+> * cost per pound
+> * team member preferences
+>
+> Once the decision is made, it will be what is going into the stew.
+
+This method [has shown itself to be effective](https://gitlab.com/groups/gitlab-com/marketing/-/epics/858#what-happens-next) at soliciting productive feedback that doesn't derail a timeline while ensuring team members feel heard. 
 
 
 
