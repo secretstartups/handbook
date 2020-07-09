@@ -26,6 +26,9 @@ This initial phase reviews new and updated lead records to ensure they meet the 
 
 ### Lead to account match
 Records that meet all [record validation](#record-validation) criteria and can be matched to an existing Salesforce account by LeanData are then assessed using the workflow below. If LeanData is able to identify the SDR responsible for engaging the lead, the record is assigned. If LeanData is not able to identify the aligned SDR, the lead progresses to the [unmatched lead](#unmatched-lead) workflow.
+- **`SDR Assigned` match** - Used to route ABM, PubSec, EMEA Large and AMER Mid-Market leads. The custom account object field `SDR Assigned` is populated with SDR
+- **Owner mapping available** - Used to route leads from `Named` accounts. Owner mappings are maintained within LeanData linking SDRs aligned to Named accounts with an account owner. If a lead is matched to an account with an owner mapping available, the record is assigned to the SDR listed in the owner mapping.
+- **[TSP]-based alignment** - Used to route EMEA Mid-Market leads.  
 
 ### Unmatched lead
 
