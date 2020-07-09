@@ -15,6 +15,19 @@ LeanData is an application used within Salesforce (SFDC) to process and assign [
 ## Lead routing workflow
 Current as of 2020-07-09
 
+The LeanData lead routing flowbuilder can broken into three major sections: [record validation](#record-validation), [lead to account match](#lead-to-account-match) and [unmatched lead](#unmatched-lead). 
+
+### Record validation
+This initial phase reviews new and updated lead records to ensure they meet the criteria to route to an SDR. These checks include confirming:
+- Leads were created by an admin user
+- Score thresholds are met
+- Company information is available
+- Last Interesting Moment listed does not require specialized routing or supression from SDR organization
+
+### Lead to account match
+
+### Unmatched lead
+
 ### FlowBuilder   
 
 #### `New Lead` Node 
