@@ -9,7 +9,7 @@ title: "Sales Finance"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Sales Finance
+## Welcome to Sales Finance Page!
 
 ## Common Links
 
