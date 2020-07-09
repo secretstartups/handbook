@@ -94,7 +94,11 @@ To receive tuition reimbursement, GitLab team members should follow the followin
 
 **Tax Implications for Tuition Reimbursement by Country**
 
-In some countries, tuition reimbursement may be considered as taxable income and can be (partially) exempted from personal income taxes or subject to employer withholding taxes. Please contact [Payroll](mailto:payroll@gitlab.com) or [People Ops](mailto:peopleops@gitlab.com) when you have questions.
+In some countries, tuition reimbursement may be considered as taxable income and can be (partially) exempted from personal income taxes or subject to employer withholding taxes. 
+
+For example, in the United States 2020 tax year if GitLab [pays over $5,250 for educational benefits for you during the year, you must generally pay tax on the amount over $5,250](https://www.irs.gov/newsroom/tax-benefits-for-education-information-center).
+
+Please contact [Payroll](mailto:payroll@gitlab.com) or [People Ops](mailto:peopleops@gitlab.com) when you have questions.
 
 #### Tuition Reimbursement for English Language Courses
 
