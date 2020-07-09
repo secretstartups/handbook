@@ -3,16 +3,16 @@ layout: handbook-page-toc
 title: "Making Gifs"
 ---
 
-Go to the [Handbook](/handbook/)
-
 Animated gifs are an awesome way of showing of features that need a little more than just an image, either for marketing purposes or explaining a feature in more detail. This page holds all information on the entire process of creating a gif.
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
-- TOC
+* TOC
 {:toc .hidden-md .hidden-lg}
 
+<br>
 ## General
 
 > The GIF format is popular because it works everywhere and has a no-fuss UI. – [Kornel](https://kornel.ski/efficient-gifs#sec44)
@@ -63,10 +63,10 @@ There are many different tools to record your screen or to create gifs. Use whic
 
 A few things are important in this section:
 
-- Screen region support (ability to create a gif off a small portion of the screen)
-- Cursor support (ability to include your cursor in the gif)
-- FPS support (ability to control the amount of frames per second of the outputted gif, important if you want to show some interaction detail)
-- Local saving of gif (uploading to a server should only be an option)
+* Screen region support (ability to create a gif off a small portion of the screen)
+* Cursor support (ability to include your cursor in the gif)
+* FPS support (ability to control the amount of frames per second of the outputted gif, important if you want to show some interaction detail)
+* Local saving of gif (uploading to a server should only be an option)
 
 #### Gifox (macOS)
 
@@ -74,10 +74,10 @@ A few things are important in this section:
 
 Worthy of mentioning:
 
-- [Kap](https://getkap.co/) (free and open source!)
-- [Giphy capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984?mt=12) (free and a great option!)
-- [Licecap](http://www.cockos.com/licecap/) (free, but limited options for output, results can have bad colors)
-- [ScreenToGif](http://www.screentogif.com/) (Windows, free and open source with powerful editor)
+* [Kap](https://getkap.co/) (free and open source!)
+* [Giphy capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984?mt=12) (free and a great option!)
+* [Licecap](http://www.cockos.com/licecap/) (free, but limited options for output, results can have bad colors)
+* [ScreenToGif](http://www.screentogif.com/) (Windows, free and open source with powerful editor)
 
 #### FFCast + FFmpeg (Linux)
 
@@ -98,11 +98,11 @@ On every Mac, Quicktime has already been installed. It features a nice screen re
 
 Worthy of mentioning:
 
-- [Screeny](https://itunes.apple.com/us/app/screeny/id440991524?mt=12) (free for now)
-- [Screenflow](http://www.telestream.net/screenflow/) (not free)
-- [Gif Brewery](http://gifbrewery.com/) (not free)
-- [ffscreencast](https://github.com/cytopia/ffscreencast) (CLI tool, only capture the whole screen)
-- [CloudApp](https://www.getcloudapp.com/) (free with a paid option)
+* [Screeny](https://itunes.apple.com/us/app/screeny/id440991524?mt=12) (free for now)
+* [Screenflow](http://www.telestream.net/screenflow/) (not free)
+* [Gif Brewery](http://gifbrewery.com/) (not free)
+* [ffscreencast](https://github.com/cytopia/ffscreencast) (CLI tool, only capture the whole screen)
+* [CloudApp](https://www.getcloudapp.com/) (free with a paid option)
 
 #### Camstudio (Windows)
 
@@ -124,16 +124,16 @@ Example command:
 
 Worthy of mentioning:
 
-- [Drop to Gif](http://mortenjust.github.io/droptogif/) (Great free open source option to just convert on macOS with a GUI!)
-- [Screengif](https://github.com/dergachev/screengif) (CLI similar to gifify)
-- [Gif Brewery](http://gifbrewery.com/) (macOS, not free)
+* [Drop to Gif](http://mortenjust.github.io/droptogif/) (Great free open source option to just convert on macOS with a GUI!)
+* [Screengif](https://github.com/dergachev/screengif) (CLI similar to gifify)
+* [Gif Brewery](http://gifbrewery.com/) (macOS, not free)
 
 #### Convert video to gif online
 
-- [EZGif](http://ezgif.com/video-to-gif) (Pretty good results and provides some settings)
-- [Giphy Gifmaker](https://giphy.com/create/gifmaker) (You can keep your GIFs private if you have an account. Otherwise: "all of your GIF are belong to GIPHY")
-- [imgur Video to GIF](https://imgur.com/vidgif) (Create a GIF from hundreds of popular video sites. Use Download to get a GIF or link for .gifv format)
+* [EZGif](http://ezgif.com/video-to-gif) (Pretty good results and provides some settings)
+* [Giphy Gifmaker](https://giphy.com/create/gifmaker) (You can keep your GIFs private if you have an account. Otherwise: "all of your GIF are belong to GIPHY")
+* [imgur Video to GIF](https://imgur.com/vidgif) (Create a GIF from hundreds of popular video sites. Use Download to get a GIF or link for .gifv format)
 
 ## Relevant links
 
-- [Product Handbook](/handbook/product)
+* [Product Handbook](/handbook/product)
