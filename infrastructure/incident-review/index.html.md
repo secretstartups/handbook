@@ -68,7 +68,7 @@ Incident Reviews are conducted in the incident issue and their workflow is track
 
 Incident review sessions are open on the GitLab Team Meetings calendar with the title `Incident Review Recurring Sessions` and occur at the following two times: 
 1. Tuesdays at 13:30 - 14:20 UTC
-1. Wednesdays at 00:00 - 00:50 UTC
+1. Tuesdays at 22:00 - 22:50 UTC
 
 GitLab team members are encouraged to review the incident review issues listed in the [agenda](https://docs.google.com/document/d/1Llm9tXHC2dNt_eercRUUXlUyWmOVw00wmXWQQbWvv2c/edit#) and add questions/comments under them.
 
