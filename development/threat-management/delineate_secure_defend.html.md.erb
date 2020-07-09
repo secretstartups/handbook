@@ -15,20 +15,42 @@ In the spirit of establishing a [DRI](/handbook/people-group/directly-responsibl
 
 ## Page/Function table
 
-|	GitLab Page/Functionality Name	|	Example URL in GitLab.com	|	Short description	|	Product Manager	|	Primary Development Team	|
-|	---	|	---	|	---	|	---	|	---	|
-|	Security Dashboards	|	[link](https://gitlab.com/gitlab-org/defend/webgoat/-/security/dashboard/?project_id=17172530&scope=dismissed&page=1&days=90)	|	Displays summary of vulnerabilities and allows management of the list of vulnerabilities - [instance](https://docs.gitlab.com/ee/user/application_security/security_dashboard/#instance-security-dashboard), [group](https://docs.gitlab.com/ee/user/application_security/security_dashboard/#group-security-dashboard), [project](https://docs.gitlab.com/ee/user/application_security/security_dashboard/#project-security-dashboard)	|	Matt Wilson	|	Secure:Threat Insights	|
-|	Vulnerability list	|	[link](https://gitlab.com/gitlab-org/defend/webgoat/-/security/vulnerabilities)	|	Displays and allows management of a list of vulnerabilities	|	Matt Wilson	|	Secure:Threat Insights	|
-|	Vulnerability detail	|	[link](https://gitlab.com/gitlab-org/defend/webgoat/-/security/vulnerabilities/870888)	|	Allows user to view detail of vulnerability and manage it	|	Matt Wilson	|	Secure:Threat Insights	|
-|	Threat Monitoring	|	[link](https://gitlab.com/gitlab-org/defend/waf-enablement-demo/-/threat_monitoring)	|	Displays statistics and other related information on container security enabled features such as web application firewall (WAF) and container network security (CNS)	|	Sam White	|	Defend:Container Security	|
-|	Pipeline Security Tab	|	[link](https://gitlab.com/gitlab-org/defend/webgoat/pipelines/121635847/security)	|	Secure: Composition Analysis, Displays vulnerability findings for a specific pipeline.	|	Matt Wilson	|	Secure:Threat Insights	|
-|	Dependency List	|	[link](https://gitlab.com/gitlab-org/defend/webgoat/-/dependencies)	|	Allows users to see their dependencies detected	|	Nicole Schwartz	|	Secure:Composition Analysis	|
-|	License Compliance	|	[link](https://gitlab.com/gitlab-org/defend/webgoat/-/licenses)	|	Allows users to see their licenses detected and policies set	|	Nicole Schwartz	|	Secure:Composition Analysis	|
-|	Security Configuration	|	[link](https://gitlab.com/gitlab-org/defend/webgoat/-/security/configuration)	|	View and configure scanners for a project. **Note**: The main configuration screen falls under Vulnerability Management but the detailed configuration screen for any given scanner is owned by that scanner's PM and Secure team.	|	Secure PMs by their categories	|	Secure by their categories	|
-|	Merge Request Security Widget	|	[link](https://docs.gitlab.com/ee/user/project/merge_requests/#security-reports-ultimate)	|	Display comparison of source branch results with target branch results. Also includes [Security approvals in merge requests](https://docs.gitlab.com/ee/user/application_security/#security-approvals-in-merge-requests)	|	Matt Wilson	|	Secure:Threat Insights	|
-|	Security Scanner Integration Documentation	|	[Docs](https://docs.gitlab.com/ee/development/integrations/secure.html)	|	Secure: Composition Analysis, Technical details about how to build a scanner that is compatible with GitLab	|	Sam Kerr	|	Secure by categories	|
-|	Secure Partner Onboarding Docs	|	[Docs](https://docs.gitlab.com/ee/development/integrations/secure_partner_integration.html#secure-partner-integration---onboarding-process)	|	Overview of how to partner with GitLab to build a scanner	|	Sam Kerr	|	Secure by their categories	|
-|	Security Report Schema	|	[Repo](https://gitlab.com/gitlab-org/security-products/security-report-schemas/)	|	Secure: Composition Analysis, Shared schemas for how vulnerabilities should be reported regardless of analyzer	|	Sam Kerr	|	Secure by their categories	|
-|	Interacting with the vulnerabilities	|	[link](https://docs.gitlab.com/ee/user/application_security/index.html#interacting-with-the-vulnerabilities)	|	View, Dismiss, or Confirm (and create related Issue) vulnerability findings the configured scanners detect. This applies to all locations where we display a finding (dashboards, pipeline view, MR view. Also includes the generic auto-remediation flow (though the remediation data itself is provided by the analyzers so fall under the corresponding group for implementation)	|	Matt Wilson	|	Secure:Threat Insights	|
+|	GitLab Page/Functionality Name	|	Example URL in GitLab.com	|	Short description	|	Product Manager	|	Primary Development Team	| Engineering sub-department |
+|	---	|	---	|	---	|	---	|	---	| --- | 
+|	Security Dashboards	|	[link](https://gitlab.com/gitlab-org/defend/webgoat/-/security/dashboard/?project_id=17172530&scope=dismissed&page=1&days=90)	|	Displays summary of vulnerabilities and allows management of the list of vulnerabilities - [instance](https://docs.gitlab.com/ee/user/application_security/security_dashboard/#instance-security-dashboard), [group](https://docs.gitlab.com/ee/user/application_security/security_dashboard/#group-security-dashboard), [project](https://docs.gitlab.com/ee/user/application_security/security_dashboard/#project-security-dashboard)	|	Matt Wilson	|	Secure:Threat Insights	| Threat Management | 
+|	Vulnerability list	|	[link](https://gitlab.com/gitlab-org/defend/webgoat/-/security/vulnerabilities)	|	Displays and allows management of a list of vulnerabilities	|	Matt Wilson	|	Secure:Threat Insights	| Threat Management |
+|	Vulnerability detail	|	[link](https://gitlab.com/gitlab-org/defend/webgoat/-/security/vulnerabilities/870888)	|	Allows user to view detail of vulnerability and manage it	|	Matt Wilson	|	Secure:Threat Insights	| Threat Management |
+|	Threat Monitoring	|	[link](https://gitlab.com/gitlab-org/defend/waf-enablement-demo/-/threat_monitoring)	|	Displays statistics and other related information on container security enabled features such as web application firewall (WAF) and container network security (CNS)	|	Sam White	|	Defend:Container Security	|  Threat Management |
+|	Pipeline Security Tab	|	[link](https://gitlab.com/gitlab-org/defend/webgoat/pipelines/121635847/security)	|	Secure: Composition Analysis, Displays vulnerability findings for a specific pipeline.	|	Matt Wilson	|	Secure:Threat Insights	| Threat Management |
+|	Dependency List	|	[link](https://gitlab.com/gitlab-org/defend/webgoat/-/dependencies)	|	Allows users to see their dependencies detected	|	Nicole Schwartz	|	Secure:Composition Analysis	| Secure |
+|	License Compliance	|	[link](https://gitlab.com/gitlab-org/defend/webgoat/-/licenses)	|	Allows users to see their licenses detected and policies set	|	Nicole Schwartz	|	Secure:Composition Analysis	| Secure |
+|	Security Configuration	|	[link](https://gitlab.com/gitlab-org/defend/webgoat/-/security/configuration)	|	View and configure scanners for a project. **Note**: The main configuration screen falls under Vulnerability Management but the detailed configuration screen for any given scanner is owned by that scanner's PM and Secure team.	|	Secure PMs by their categories	|	Secure by their categories	| Secure |
+|	Merge Request Security Widget	|	[link](https://docs.gitlab.com/ee/user/project/merge_requests/#security-reports-ultimate)	|	Display comparison of source branch results with target branch results. Also includes [Security approvals in merge requests](https://docs.gitlab.com/ee/user/application_security/#security-approvals-in-merge-requests)	|	Matt Wilson	|	Secure:Threat Insights	| Threat Management |
+|	Security Scanner Integration Documentation	|	[Docs](https://docs.gitlab.com/ee/development/integrations/secure.html)	|	Secure: Composition Analysis, Technical details about how to build a scanner that is compatible with GitLab	|	Sam Kerr	|	Secure by categories	| Secure |
+|	Secure Partner Onboarding Docs	|	[Docs](https://docs.gitlab.com/ee/development/integrations/secure_partner_integration.html#secure-partner-integration---onboarding-process)	|	Overview of how to partner with GitLab to build a scanner	|	Sam Kerr	|	Secure by their categories	| Secure |
+|	Interacting with the vulnerabilities	|	[link](https://docs.gitlab.com/ee/user/application_security/index.html#interacting-with-the-vulnerabilities)	|	View, Dismiss, or Confirm (and create related Issue) vulnerability findings the configured scanners detect. This applies to all locations where we display a finding (dashboards, pipeline view, MR view. Also includes the generic auto-remediation flow (though the remediation data itself is provided by the analyzers so fall under the corresponding group for implementation)	|	Matt Wilson	|	Secure:Threat Insights	|  Threat Management |
 
+## Security Report Schema
+
+_Draft_
+
+[Repo](https://gitlab.com/gitlab-org/security-products/security-report-schemas/)
+
+Matt Wilson (for PM) and Thiago Figueiro (for EM) will be the DRIs for approving changes to the vulnerability report schema.
+
+### Approval process
+1. If the change is low risk, no approval needed.  Just tag Matt and Thiago in the issue and/or merge request as an FYI.
+2. If the change is high risk, request approval via an issue (in project TBD with what issue template TBD).  If you do not receive a response within 3 business days, assume it is approved.
+
+### Risk levels
+
+#### Low risk
+
+* Adding a new optional field
+* Changing the name or data type of something not yet in use
+
+#### High risk
+
+* Changing the name or data type of something already in use
+* Adding a new required field
 
