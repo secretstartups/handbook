@@ -114,7 +114,7 @@ The below is a work in progress as we define success measures across each stage 
    1. Improve sales asset management (in collaboration with Marketing)
    1. Sales events support (SKO, QBRs) 
 1. **Who must do what?**
-   *  **[Director, Field Enablement](/job-families/sales/director-of-field-enablement/)**
+   *  **[Sr. Director, Field Enablement](/job-families/sales/director-of-field-enablement/#senior-director-field-enablement)**
          *  [David Somers](/company/team/#dcsomers)
    *  **[Program Managers: Enterprise Sales, Commercial Sales, and Technical Sales / Customer Success](/job-families/sales/program-manager-field-enablement/)**
          *  TBH (Partner Enablement)
