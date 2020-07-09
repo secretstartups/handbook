@@ -91,7 +91,14 @@ See the [Working on Tickets Flowchart](#working-on-tickets-flowchart) for a visu
 
 ### Keep In Mind:
 
-1. Teamwork is really important with this workflow. Be aware of what's happening across the board and jump in! Pairing with someone is a great way to work out complex issues.
+1. Teamwork is really important with this workflow. Be aware of what's happening
+   across the board: watch Slack channels for requests from other SEs on their
+   tickets, and check the `.com with SLA` or `SM with SLA` view (depending on
+   your current focus) occasionally for tickets that need some help. To be sure
+   that your suggestions align with the work the assignee has already done,
+   it's best to post an internal note or to pair with them. If you decide to
+   post a public response, be sure that your next steps align with the action
+   plan that the assignee has described on their replies or ticket summary.
 1. When you send the user an update, the normal action is to set the ticket status to `Pending`. We are now waiting for a reply from the user and there is no SLA clock counting.
 1. Occasionally you will send a user a reply letting them know that you're going to follow up with further information. In this case you should set the ticket status to `Open` or `On-hold`. When this happens ZenDesk still removes the SLA. To help ensure we don't forget to follow up, a trigger automatically assigns the ticket to you (if it's not already assigned to someone else) so that you can see it in your view.
 1. For all tickets in which the user is waiting on a response from Support, **always provide an update** on its status and work that has been done. Aim to do this daily, and definitely no less than every four days (the length of the On-hold period).
@@ -104,7 +111,14 @@ See the [Working on Tickets Flowchart](#working-on-tickets-flowchart) for a visu
    FRT Hawk's. The FRT Hawk's job is **not** to provide the first
    response on every new ticket, but rather to provide that first response when
    nobody else has been able to take the ticket in time to meet SLA.
-1. **A ticket is assigned to someone else - can I work on it?** Absolutely! Support Engineers should [balance their day](/handbook/support/support-engineer-responsibilities.html#2-help-meet-our-service-level-objectives-for-ticket-reply-times-daily) between being 'proactive' (working on your assigned tickets) and 'reactive' (helping prevent tickets from breaching their SLAs). Tickets breaching soon may be assigned to a team member in a different region. When replying to these tickets, be sure that your next steps align with the action plan that the assignee has described on their replies or ticket summary.
+1. **A ticket is assigned to someone else - can I work on it?** Absolutely!
+   Support Engineers should
+   [balance their day](/handbook/support/support-engineer-responsibilities.html#2-help-meet-our-service-level-objectives-for-ticket-reply-times-daily)
+   between working on their assigned tickets and helping others to make progress
+   on their own tickets. Tickets breaching soon may be assigned to a team member
+   in a different region. When replying to these tickets, be sure that your next
+   steps align with the action plan that the assignee has described on their
+   replies or ticket summary.
 1. **If I can provide a good response on a new (unassigned) ticket, but I don't
    want to assign to myself, may I?** Every response should be part of a ticket
    that is assigned to somebody. If the ticket is assigned to someone else,
@@ -376,7 +390,8 @@ Please see [Requesting Support for Customers](https://about.gitlab.com/handbook/
 
 ### Aim
 
-Balance your focus between 'proactive' work to continue the progress on your assigned tickets and 'reactive' work to assist in making progress and preventing SLA breaches on other tickets.
+Alternate your focus between working on your assigned tickets and assisting
+others with making progress on theirs.
 
 ### How to do it
 
@@ -485,5 +500,9 @@ Here's an example week for folks working on self-managed tickets:
 1. If you don't meet the baseline you should discuss the reasons with your manager. If they're not satisfied that there are good reasons for not meeting the baseline, they will ask you to focus more on solving user problems on Support tickets so that you meet the baseline in future weeks. This helps balance contributions across the global team.
 1. We believe in quality, not quantity - more is not automatically better.
 1. We recognize that the three metrics selected are not a complete indication of 'good work' on their own.
-1. We recognize that the metrics for 'public replies' and 'internal notes' can be 'gamed' by making small updates. We trust the team to do the right thing for the user and GitLab. This is why the ticket baseline is the last part of 'how to succeed' in this area. It is more important to make quality updates and balance your focus between 'proactive' work on your assigned tickets and 'reactive' work to prevent SLA breaches.
+1. We recognize that the metrics for 'public replies' and 'internal notes' can
+   be 'gamed' by making small updates. We trust the team to do the right thing
+   for the user and GitLab. This is why the ticket baseline is the last part of
+   'how to succeed' in this area. It is more important to make quality updates
+   on your assigned tickets and to help others to do the same on theirs.
 1. There is no automated process to report on people that don't meet the baseline. The baseline is there to help you gauge your contribution and as a conversation starter between you and your manager.
