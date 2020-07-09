@@ -3,8 +3,6 @@ layout: handbook-page-toc
 title: "Making Gifs"
 ---
 
-Animated gifs are an awesome way of showing of features that need a little more than just an image, either for marketing purposes or explaining a feature in more detail. This page holds all information on the entire process of creating a gif.
-
 ## On this page
 
 {:.no_toc .hidden-md .hidden-lg}
@@ -12,7 +10,8 @@ Animated gifs are an awesome way of showing of features that need a little more 
 * TOC
 {:toc .hidden-md .hidden-lg}
 
-<br>
+Animated gifs are an awesome way of showing of features that need a little more than just an image, either for marketing purposes or explaining a feature in more detail. This page holds all information on the entire process of creating a gif.
+
 ## General
 
 > The GIF format is popular because it works everywhere and has a no-fuss UI. – [Kornel](https://kornel.ski/efficient-gifs#sec44)
