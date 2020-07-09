@@ -496,7 +496,8 @@ This is used for campaigns that can either be organised through a 3rd party vend
 | Member Status                   | Definition                                                                            | Success  |
 |:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
 | No Action                       | default starting position for all records                                             |          |
-| Registered                      | Registered for the event                                                              |          |      
+| Waitlist                        | Holding state if registration is full will be moved to `Registered` if space opens    |          |
+| Registered                      | Registered for the event                                                              |          | 
 | No Show                         | Registered, but did not attend the event                                              |          |
 | Attended                        | Attended the Event                                                                    | Yes      |
 
