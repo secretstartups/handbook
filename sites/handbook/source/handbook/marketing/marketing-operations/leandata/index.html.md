@@ -25,6 +25,7 @@ This initial phase reviews new and updated lead records to ensure they meet the 
 - Last Interesting Moment listed does not require specialized routing or supression from SDR organization
 
 ### Lead to account match
+Records that meet all [record validation](#record-validation) criteria and can be matched to an existing Salesforce account by LeanData are then assessed using the workflow below. If LeanData is able to identify the SDR responsible for engaging the lead, the record is assigned. If LeanData is not able to identify the aligned SDR, the lead progresses to the [unmatched lead](#unmatched-lead) workflow.
 
 ### Unmatched lead
 
