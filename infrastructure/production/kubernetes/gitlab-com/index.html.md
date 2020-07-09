@@ -19,7 +19,7 @@ This is a two-fold problem:
 1. Serving customers is not fast enough.
 1. Infrastructure costs can be high because the infrastructure size is the same regardless of the demand.
 
-At GitLab (currently, year 2020), we use Terraform to manage VM lifecycle in Google Cloud Platform, and Chef for ensuring consistent configuration. Auto-scaling VM's and using these tools is of course possible. However, in order to accomplish that we need to write additional tooling that would allow us to scale VM's with demand. Further more, even with the VM auto-scaling automation in place, the response times for machine creation, installing and configuring GitLab would still be measured in multiple minutes.
+At GitLab (currently, year 2020), we use Terraform to manage VM lifecycle in Google Cloud Platform, and Chef for ensuring consistent configuration. Auto-scaling VM's and using these tools is of course possible. However, in order to accomplish that we need to write additional tooling that would allow us to scale VM's with demand. Furthermore, even with the VM auto-scaling automation in place, the response times for machine creation, installing and configuring GitLab would still be measured in multiple minutes.
 
 With Kubernetes, both of above mentioned problems are addressed in one go. Kubernetes allows scaling infrastructure based on demand at the moment, rather than based on the best guess projections. When the demand is low, Kubernetes will automatically scale down the infrastructure, thus reducing cost. Kubernetes is also made to be an orchestrator, backed by a vast community. This allows us to leverage industry standard tool instead of writing and maintaining our own custom solution.
 
