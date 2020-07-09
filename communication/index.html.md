@@ -419,30 +419,20 @@ If there is something that you want to discuss, but you do not feel that it is
 a reasonable option to discuss with either your manager or CEO, then you can reach
 out to any of the other [C-level GitLab team members](/company/team/org-chart/) or our board member Bruce Armstrong.
 
-## Take a Break Call
+## Social Call
 
-1. Take a Break Calls, happen three times a day on Tuesday and Thursday to accommodate all timezones. These calls have 5 predetermined topics for team members to choose from. You can find the topics listed in the invite, as well as the link for that topic. These calls are not mandatory, but are a great way to get to know your fellow team members.
+1. The Social Call, happens three times a day on Tuesday and Thursday to accommodate all timezones. These calls have no set agenda and are an open forum for team members to meet and talk freely. These calls are not mandatory, but are a great way to get to know your fellow team members.
    *  APAC/ EMEA: 9:00AM GMT+2
    *  EMEA/ AMER: 9:00AM GMT-5
    *  AMER/ APAC: 9:00AM GMT+11
 1. Once a month, we hold an AMA with a GitLab Executive to talk about anything that may currently be top of mind for team members.
-1. Everyone at GitLab is invited to the Take A Break Call.
+1. Everyone at GitLab is invited to the Social Call.
 1. We use [Zoom](https://gitlab.zoom.us), (please be sure to mute your microphone when not speaking). If using the Zoom web app, you can go to settings and check always mute microphone when joining a meeting.
 1. The calls are no longer recorded, but you can view  previous calls in the Google Drive folder called "GitLab Videos". There is a subfolder called "GitLab Company Call", which is accessible to all users with a GitLab.com e-mail account.
 1. We start on time and do not wait for people.
 1. These calls are unstructured to allow for natural interaction, but everyone should get a chance to share at least once.
 1. It helps to pause slightly between talking about different topics to allow for discussion.
 1. If you are unsure of who should start or speak next, follow the order listed in Zoom.
-
-Some Topics for Calls:
-
-1. Hobbies and interests.
-1. What you've been up to recently.
-1. Things you're looking forward to.
-1. Sports and wellness.
-1. Cooking, entertaining, and creative projects.
-1. Travel, kids, family, and pets.
-1. Music, books, TV & movies, and video/board games.
 
 ## Release Retrospectives and Kickoffs
 {: #kickoffs}
