@@ -158,7 +158,7 @@ This section is ordered by stage and group according to the [product categories 
 | ------------------- | ------ | ----------------------------------------------------------------------------------- |
 | CI                  | EMEA   | DeAndre <br> Ronald <br> Silvester <br> David Wainaina                              |
 |                     | AMER   | Cynthia <br> Harish <br> Cody West <br> Cleveland <br> Gabe <br> Caleb W. <br> Phil |
-|                     | APAC   | Alex Tanayno <br> Athar <br> Arihant <br> Priyan <br> Anton                         |
+|                     | APAC   | Alex Tanayno <br> Athar <br> Arihant <br> Priyan <br> Anton <br> Sameer             |
 | Jenkins Integration | AMER   | Aric                                                                                |
 
 ##### Runner
