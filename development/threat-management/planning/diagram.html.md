@@ -268,7 +268,7 @@ Implementation issues allow each Feature Issue to be broken into small, discrete
 Whenever possible, Implementation Issues should also be independently-releasable and provide value to the customer. 
 When they have to be grouped with other Implementatation Issues, a feature branch should be created to merge the dependant pieces of work together prior to merging into the default branch.  
 
-**Structure of a Singluar MVC Feature**
+**Structure of a Singular MVC Feature**
 ```mermaid
 graph LR;
 Feature_Epic[Feature Epic]-->Design_Issue(Design Issue);
