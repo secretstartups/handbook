@@ -150,12 +150,12 @@ title: "Sales & Customer Success Quick Start Learning Path"
    - Skim and bookmark the [Handbook](https://about.gitlab.com/handbook/customer-success/)
 
 ### 6. Sales Process
-*  **Overview: Command of the Message & MEDDPICC (Assignment - 1 Hour - 10 Points - Pre Work)**
-   - Check out the [video](https://drive.google.com/open?id=1gvYLAP7kzbJ0dFIK2dG3WI3lI7VSnIWo&authuser=0) for an overview on Command of the Message, and MEDDPICC. The [PowerPoint](https://drive.google.com/open?id=1VrhUxk6wr6mTaMS1nbqP_WErC--W65dSi5YKm1K6sOM&authuser=0) in the video is attached as well as the Command of the Message [participant guide](https://drive.google.com/open?id=1rFTcWNxUKLQBTGyZKhs8pCMLzml5hAfn&authuser=0).
+*  **Overview: Command of the Message & MEDDPPICC (Assignment - 1 Hour - 10 Points - Pre Work)**
+   - Check out the [video](https://drive.google.com/open?id=1gvYLAP7kzbJ0dFIK2dG3WI3lI7VSnIWo&authuser=0) for an overview on Command of the Message, and MEDDPPICC. The [PowerPoint](https://drive.google.com/open?id=1VrhUxk6wr6mTaMS1nbqP_WErC--W65dSi5YKm1K6sOM&authuser=0) in the video is attached as well as the Command of the Message [participant guide](https://drive.google.com/open?id=1rFTcWNxUKLQBTGyZKhs8pCMLzml5hAfn&authuser=0).
 *  **Command of the Message Full E-Learning Course (Assignment - 2 Hours - 10 Points - Pre Work)**
    - Please sign in to Lyearn and complete the Command of the Message Fast Start eLearning before your in person training. **Please note: The welcome and enrollment emails will come from the following sender name and email address: “Command Center Admin” – fm-no-reply@lyearn.com. Please check your junk, spam and clutter folders if you did not receive these emails.
-*  **MEDDPICC Full E-Learning Course (Assignment - 2 Hours - 10 Points - Pre Work)**
-   - Please sign in to [Lyearn](https://gitlab.lyearn.com/#/login) and complete the MEDDPICC full eLearning course. **Please note: The welcome and enrollment emails will come from the following sender name and email address: “Command Center Admin” – fm-no-reply@lyearn.com. Please check your junk, spam and clutter folders if you did not receive these emails.
+*  **MEDDPPICC Full E-Learning Course (Assignment - 2 Hours - 10 Points - Pre Work)**
+   - Please sign in to [Lyearn](https://gitlab.lyearn.com/#/login) and complete the MEDDPPICC full eLearning course. **Please note: The welcome and enrollment emails will come from the following sender name and email address: “Command Center Admin” – fm-no-reply@lyearn.com. Please check your junk, spam and clutter folders if you did not receive these emails.
 *  **GitLab Value Framework (Material - Sales Collateral - 35 Minutes)**
    - The GitLab [value framework](https://about.gitlab.com/handbook/sales/command-of-the-message/#resources-core-content) is one of the most useful tools available for salespeople. Take a look to understand our value drivers, how to uncover customer needs, and how to articulate value and differentiation. A [framework summary](https://about.gitlab.com/handbook/sales/command-of-the-message/#resources-core-content) is also avaliable for quick reference.
 * **Seller Deficit Disorder (Material - Sales Collateral - 15 Minutes - Pre Work)**
@@ -373,7 +373,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
    - Go to [classroom.google.com](classroom.google.com).
    - On the top right of the Classes page, click + then > Join class.
    - Enter the code **e7hfgg0** and click Join.
-*  **MEDDPICC Opportunity Qualification (Assignment - Classroom - 1 Hour - 10 Points - Post Work)**
+*  **MEDDPPICC Opportunity Qualification (Assignment - Classroom - 1 Hour - 10 Points - Post Work)**
    - Use this [template](https://docs.google.com/document/d/17Rr03SHKQ2XXlOnvuhz68F8pTxNhr6nOK70TBwB63oc/edit?usp=sharing) to begin qualifying an account suggested by your manager.
 *  **Create a Light Territory Plan (Assignment - 1 Hour - 10 Points)**
    - Create a light territory plan to review with your manager.
