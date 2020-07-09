@@ -4,6 +4,7 @@ title: "Incident Review"
 ---
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
@@ -23,45 +24,66 @@ Not every incident requires a review. But, if an incident matches any of the fol
 
 ## Incident Review Process
 
-Incident reviews (of S1/S2 incidents) have two steps:
-
-
-#### Authoring the Incident Review
+### Authoring the Incident Review
 
 The first step in the Incident Review process is the synchronous review of the incident by representatives of the teams involved in the resolution of the incident. This step is conducted as close to the incident date as possible and does not require a complete Incident Review write up. The outcome of this first step should be a published Incident Review, per defined [timelines](#incident-review-timeline).
 
+### Review of Root Cause and Corrective Actions
 
-#### Review of Root Cause and Corrective Actions
-
-Incident reviews second step is engaging with the customer, through the point of contact such as a TAM. This should always involve sharing the findings from the first step in an async form. In case of a customer requiring a sync to discuss the finding, the Infrastructure management will organise the discussion with important stakeholders of this process, per defined [timelines](#incident-review-timeline) 
+Incident reviews second step is engaging with the customer, through the point of contact such as a TAM. This should always involve sharing the findings from the first step in an async form. In case of a customer requiring a sync to discuss the finding, the Infrastructure management will organise the discussion with important stakeholders of this process, per defined [timelines](#incident-review-timeline)
 
 1. IMOC for the Incident updates the TAM team on expected AIR timelines.
 1. IMOC provides TAM published review. IMOC can also include a recording of the review, if the recording does not contain sensitive information.
 1. TAM communicates to IMOC whether their customer(s) would like a synchronous review and the TAM schedules a review with the customer.
 1. TAM facilitates Customer access to the review and the Customer can add a set of questions prior to the meeting and all participants can collaborate on any changes or additions to corrective actions.
 
-#### Incident Review Timeline
-_Incident resolution = date incident was resolved_
+## Incident Review Timeline
 
-1. Incident resolution: Incident Review issue is created and [IMOC and EOC are assigned](#incident-review-issue-creation-and-ownership).
-1. Incident resolution + 2 days: IMOC sets expectations with TAM on delivery date of Incident Review.
-1. Incident resolution + 7 days: Incident Review is authored and ready for review by additional stakeholders.
+1. **Immediately following the incident**: The incident review is started in the original incident issue and the [EOC is assigned](#incident-review-issue-creation-and-ownership).
+   1. IMOC and EOC invite stakeholders for involvement in authoring the incident review. This can include one of more of:
+       1. Appropriate **development team(s)**, involved in changes that contributed to the incident.
+       1. A **Quality-engineering team**, in order to look for improvements to the QA process could have mitigated or reduced the length of the incident.
+       1. The **Delivery team**, when release processes contributed to the incident.
+       1. The **Scalability team**, when scaling bottlenecks contributed to the incident.
+       1. The **Dev-Escalation engineer** for the incident.
+       1. The **CMOC**, if necessary.
+       1. **Product Managers**, for example, if the incident could have been avoided by the prioritisation of specific ~Infradev/technical debt work.
+       1. **Technical Account Managers**, if the incident directly impacted one of more major accounts
+       1. For S1 incidents, **directors** responsible for the invited teams should also be invited.
+   1. For teams, the manager should be invited, and, if they wish, can delegate responsibility to another member of the team.
+1. **Within seven working-days of the incident**: Incident Review is authored and ready for review by stakeholders.
 
-#### Incident Review Issue Creation and Ownership 
+## Incident Review Issue Creation and Ownership
 
-Incident Reviews are conducted in [production](https://gitlab.com/gitlab-com/gl-infra/production/issues) issues&mdash;except in the case of extenuating circumstances when Infrastructure or Engineering management determines a synchronous video call should be held. The issues should have the `~IncidentReview` label attached.
+Incident Reviews are conducted in the incident issue and their workflow is tracked on the [Production Incidents Board](https://gitlab.com/gitlab-com/gl-infra/production/-/boards/1717012?label_name[]=incident).
 
-1. Every incident must be assigned a DRI. The DRI is the Engineer on Call (EOC).
-1. The incident review should be assigned to the DRI, immediately when it is created.
-1. The output of an incident review should include one or more issues labeled `~Corrective Action`.  Linking already existing issues for corrective action is appropriate if the incident was similar to a prior event and corrective actions overlap.
+1. Every incident and its review must be assigned a DRI. The DRI is the Engineer on Call (EOC).
+1. The output of an incident review should include one or more issues labeled `~Corrective Action`.  Labeling and linking existing issues as corrective action is appropriate.
 1. The DRI is responsible for selecting and assigning corrective actions that should be prioritized and resolved within a specific timeframe.
+   1. Refer to the `Target SLO` for `~Corrective Action` in this [table](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority).
 1. All issues labeled `~Corrective Action` must have an assigned priority label, it is the responsibility of the DRI to ensure that the priorities are set.
-1. For high priority `~Corrective Action` issues, a due date should be set on the issue to ensure that expectation are set for resolving them.
-1. After discussion on the Incident Review issue has ended and all `~Corrective Action` issues have been linked, the issue can be closed.
+1. After discussion on the Incident Review issue has ended and all `~Corrective Action` issues have been linked, the incident review issue can be closed.
 
-The infrastructure team keeps track of [Corrective
-Actions](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1181205?&label_name[]=corrective%20action)
-on a dedicated board. The prioritization and assignment of issues is collectively handled by the Reliability Engineering managers.
+## Synchronous Review Meeting Sessions
+
+Incident review sessions are open on the GitLab Team Meetings calendar with the title `Incident Review Recurring Sessions` and occur at the following two times: 
+1. Tuesdays at 13:30 - 14:20 UTC
+1. Wednesdays at 00:00 - 00:50 UTC
+
+GitLab team members are encouraged to review the incident review issues listed in the [agenda](https://docs.google.com/document/d/1Llm9tXHC2dNt_eercRUUXlUyWmOVw00wmXWQQbWvv2c/edit#) and add questions/comments under them.
+
+The purpose of these sessions are to encourage discussion, asking questions and ensure that all aspects of the incident are reviewed, including:
+
+1. Is the incident review completed to the appropriate level?
+1. Were our monitoring systems effective?
+1. Is there a sufficient understanding of the circumstances that led to the outage? If not, is there a plan to improve observability to improve understanding in future?
+1. Was the root cause sufficiently deep?
+1. Are the corrective actions appropriate and have the appropriate assigned priorities?
+1. Do the stakeholders agree with the findings?
+
+## Updating the GitLab SaaS Infrastructure Meeting
+
+In order to circulate the findings of the incident review across a wider audience, the IMOC should include a link to completed incident reviews in the [GitLab SaaS Infrastructure meeting](/handbook/engineering/infrastructure/#gitlab-saas-infrastructure) [agenda](https://docs.google.com/document/d/1fLQQBKt0mShmTk_mJ-BmBM6OFjal63-AH7yKSbMg6_s/edit#).
 
 ---
 
