@@ -265,16 +265,24 @@ When they have to be grouped with other Implementatation Issues, a feature branc
 Here is the structure of a generic Design Issue, Feature Epic, Feature Issue(s), Implementation Issue(s) breakdown: 
 
 ```mermaid
-graph TD;
-Feature_Epic-->Design_Issue;
-Feature_Epic-->MVC1_Feature_Issue; 
-Feature_Epic-->MVC2_Feature_Issue;
-MVC2_Feature_Issue-->MVC2_FE1_Implementation_Issue;
-MVC2_Feature_Issue-->MVC2_BE1_Implementation_Issue;
-MVC2_Feature_Issue-->MVC2_BE2_Implementation_Issue;
-MVC1_Feature_Issue-->MVC1_FE1_Implementation_Issue;
-MVC1_Feature_Issue-->MVC1_BE1_Implementation_Issue;
+graph LR;
+Feature_Epic[Feature Epic]-->Design_Issue(Design Issue);
+Feature_Epic-->MVC1_Epic[MVC1 Epic];
+Feature_Epic-->MVC2_Epic[MVC2 Epic];
 
+MVC1_Epic-->MVC1_Feature_Issue[Feature Issue];
+MVC1_Epic-->MVC1_FE1_Implementation_Issue([FE Implementation Issue]);
+MVC1_Epic-->MVC1_BE1_Implementation_Issue([BE Implementation Issue]);
+
+MVC2_Epic-->MVC2_Feature_Issue[Feature Issue];
+MVC2_Epic-->MVC2_FE1_Implementation_Issue([FE Implementation Issue]);
+MVC2_Epic-->MVC2_BE1_Implementation_Issue([BE Implementation Issue]);
+MVC2_Epic-->MVC2_BE2_Implementation_Issue([BE Implementation Issue #2]);
+
+classDef feature fill:#ffffff,stroke:#0C7CBA;
+class Feature_Epic,MVC1_Epic,MVC2_Epic feature
+classDef idea fill:#ffffff,stroke:#19957C;
+class Design_Issue,MVC1_Feature_Issue,MVC1_FE1_Implementation_Issue,MVC1_BE1_Implementation_Issue,MVC2_Feature_Issue,MVC2_FE1_Implementation_Issue,MVC2_BE1_Implementation_Issue,MVC2_BE2_Implementation_Issue idea
 ```
 
 The Engineering Manager is responsible for ensuring these are created, refined and contain
@@ -283,9 +291,6 @@ that an Issue is ready for scheduling by being assigned a Milestone.
 
 Once an Implementation Issue has a weigth and a Milestone, it receives the `~"workflow::ready for
 development"` label.
-
-
-
 
 
 #### Develop & Test
