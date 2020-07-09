@@ -78,11 +78,20 @@ The following members of other functional teams are our stable counterparts:
 
 ## How We Work
 
-* [Apply budget for professional development](./processes/budget_approval.html)
-* Integrated Team (Pilot Program)
-  * The Enablement Sub-department is experimenting `Integrated Team` model where both Frontend and Backend Engineers report to a single Engineering Manager and work in an integral team, which is different from many other sub-departments. The frontend work of Enablement teams are relatively light compared to other sub-departments, as a result the ratio of BE:FE is 12:1 by the end of FY2020, and the projected ratio of FY2021 is even higher. After taking many factors into consideration (see [discussions](https://gitlab.com/gitlab-com/www-gitlab-com/issues/5775)), Enablement Sub-department will continue experimenting the Integrated Team model for operational efficiency.
-* Tracking Spikes and Operational Efforts
-  * Enablement teams generally work at a lower level in the tech stack than other development teams. More effort is directed towards spikes and operational work and is not captured in MR throughput metrics. Examples include setting up and monitoring Geo on staging or working with infrastructure to roll out advanced global search. To better capture these efforts, teams are encouraged to label relevant issues as `~Enablement:Tracking` and add an issue weight equal to the estimated number of person-days spent. We will track these issues along with throughput metrics in the Enablement dashboard. It is still important to apply our iteration value to these issues and break them down into the smallest possible amounts of work.
+### Professional Development
+[Budget application for professional development](./processes/budget_approval.html)
+### Integrated Team (Pilot Program)
+The Enablement Sub-department is experimenting `Integrated Team` model where both Frontend and Backend Engineers report to a single Engineering Manager and work in an integral team, which is different from many other sub-departments. The frontend work of Enablement teams are relatively light compared to other sub-departments, as a result the ratio of BE:FE is 12:1 by the end of FY2020, and the projected ratio of FY2021 is even higher. After taking many factors into consideration (see [discussions](https://gitlab.com/gitlab-com/www-gitlab-com/issues/5775)), Enablement Sub-department will continue experimenting the Integrated Team model for operational efficiency.
+### Long Standing Merge Requests
+* Engineering managers and team members will periodically review the [long standing MRs](https://app.periscopedata.com/app/gitlab/576886/New-Enablement-Section-Overview-Dashboard?widget=7530886&udv=0) and decide appropriate actions for MRs lasting more than 30 days.
+* From time to time, MRs are created without intention to merge, such as research spikes, novel ideas, etc. In this case, always prefix the MR subject line with `WIP`. These MRs exempt from the above review.
+
+| WIP in Subject? | > 30 days? | Action Required? |
+| ------ | ------ | ------ |
+| Yes | Yes | No |
+| Yes | No | No |
+| No | Yes | Yes |
+| No | No | No |
 
 ## Software Subscriptions
 The Enablement teams leverage the following software or SaaS services to deliver our products. For general information of procurement, checkout the [procurement team page](/handbook/finance/procurement/). For procurement questions, bring to [#procurement](https://gitlab.slack.com/archives/CPTMP6ZCK). To make new Purchase Order (PO), create a new [procurement issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request).
