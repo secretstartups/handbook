@@ -211,6 +211,9 @@ Email creation, campaigns, follow up reporting and sending is the responsibility
 
 At GitLab, we strive to communicate with people in a way that is beneficial to them. Most of our email marketing communications follow an explicit opt-in policy, although at times, we will communicate via email to people who have not explicitly opted-in. We do this to offer something of value (ex. an invite to a workshop, dinner, the opportunity to meet an industry leader, etc. not an email inviting to read a blog post) to the person. We always include the unsubscribe link in our communications, and we respect the unsubscribe list. In addition to the unsubscribe button at the bottom of all of our emails, we have available our [Email Subscription Center](/company/preference-center/), where people can control their email communication preferences. There are currently four [email segments](/handbook/marketing/marketing-sales-development/marketing-operations//#email-segments).
 
+Certain emails can bypass unsubscribe by being marked as `operational`. Operational emails need to be transactional and should not be marketing in nature. Examples include critical system alerts, auto-responder emails after an action is taken (ex. registration confirmation), event reminders with link to attend event, post event recording, and account balances.
+Emails that contain mostly marketing or promotional content like newsletters, event invites and sales emails are not considered `operational`. Only Mops and certain MPMs have access to this feature in Marketo. If you have any questions on whether or not your email is operational, contact Mops and/or Legal.
+
 ### Email Segments
 
 Database segments and how someone subscribes to specific segment:  
@@ -237,6 +240,7 @@ Invitation and/or notification emails sent about future webcasts.
 
 **Live Events**   
 Invitation emails to attend a live event (VIP or Executive Lunch), meet-up, or in-person training. These emails are sent to a geo-locational subset of the overall segment. This type of email is also used when we are attending a conference and want to make people aware of any booth or event we may be holding and/or sponsoring.
+
 
 
 ## Website Form Management
