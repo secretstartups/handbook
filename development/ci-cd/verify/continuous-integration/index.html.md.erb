@@ -12,7 +12,7 @@ title: "Verify:Continuous Integration Group"
 ## Vision
 
 For an understanding of what this team is going to be working on take a look at [the product
-vision](/direction/verify/).
+vision](/direction/verify/) and the [Category direction of Continuous Integration](https://about.gitlab.com/direction/verify/continuous_integration/)
 
 ## Performance Indicator
 
@@ -53,11 +53,18 @@ The following members of other functional teams are our stable counterparts:
 
 Like most GitLab backened teams we spend a lot of time working in Rails on the main [GitLab CE app](https://gitlab.com/gitlab-org/gitlab-ce), but we also do a lot of work in Go which is the language that [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner) is written in. Familiarity with Docker and Kubernetes is also useful on our team.
 
-## Common Links
+## Useful Links
 
  * [Issue Tracker: `~group::continuous integration`](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Acontinuous%20integration)
  * [Slack Channel: `#g_ci`](https://gitlab.slack.com/archives/g_ci)
- * [Roadmap]()
+ * [GitLab Unfiltered: Continuous Integration group](https://www.youtube.com/playlist?list=PL05JrBw4t0KpsVi6PG4PvDaVM8lKmB6lV)
+
+### Getting Started
+
+For those new to CI, these links may be helpful in learning more about the product and technology.
+
+ * [CI/CD Development Documentation](https://docs.gitlab.com/ee/development/cicd/index.html)
+ * [CI Backend Architectural Walkthrough - May 2020](https://www.youtube.com/watch?v=ew4BwohS5OY)
 
 ## How We Work
 
@@ -108,12 +115,6 @@ The following are definitions of the health status options:
 - At Risk - The issue has a high likelyhood of missing the current milestone deadline.
 
 
-#### Labels
-
-| Label                 | |  | Description |
-| ----------------------| -------| ----|------------|
-| `CI/CD core platform` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=CI%2FCD%20Core%20Platform) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=CI%2FCD+Core+Platform) | Any issues and merge requests related to [CI/CD core domain](#core-domain), either as changes to be made or as observable side effects. |
-
 #### Category Labels
 
 The Continuous Integration group supports the product marketing categories described below:
@@ -145,6 +146,15 @@ The Continuous Integration category covers a wide feature area, so in order to c
 | `ci::triggers` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::triggers) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::triggers) | Issues related to pipeline triggers|
 | `ci::variables` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::variables) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::variables) | Relates to functionality surrounding pre-defined and user-defined variables available in the Build environment. Formerly `~ci variables` |
 
+#### Other Notable Labels
+
+| Label                 | |  | Description |
+| ----------------------| -------| ----|------------|
+| `CI/CD core platform` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=CI%2FCD%20Core%20Platform) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=CI%2FCD+Core+Platform) | Any issues and merge requests related to [CI/CD core domain](#core-domain), either as changes to be made or as observable side effects. |
+| `onboarding` | [Issues](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Acontinuous%20integration&label_name[]=onboarding) | | Issues that are helpful for someone onboarding to Verify:CI as a new team member. |
+| [`Good for 1st time contributors`] | [Issues](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Acontinuous%20integration&label_name[]=Good%20for%201st%20time%20contributors) | | Issues that are good for first time community contributors, and could similarly be labeled for `onboarding` |
+
+
 #### Collaboration with UX and Engineering
 
 Product Designers play a critical role in the development of user facing issues. They collaborate with the [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) and the Product Manager to design the user experience for the issue. Once the design is agreed upon, the DRI is assigned to implement that design and functionality during the milestone for which the issue is planned.
@@ -154,7 +164,6 @@ The DRI is responsible for ensuring their solution matches the design and functi
 The DRI works with the Product Designer throughout the `workflow:in dev` phase to uncover possible problems with the solution early enough that exhibit unexpected behaviour to what was originally agreed upon. If there are changes to be added that weren't agreed upon in the initial issue - a followup issue should be made and the DRI should work with the Product Manager to schedule that issue in a following milestone. This allows us to focus on [cleanup over signoff](https://about.gitlab.com/handbook/values/#cleanup-over-sign-off), iterate quickly on issues with [a low level of shame](https://about.gitlab.com/handbook/values/#low-level-of-shame), and still make sure we accomplish what we've agreed upon. We should be careful not to hold off on completing these followup issues so that we don't build up a significant amount of UX debt issues.
 
 If we find that solutions are consistently not matching the agreed upon design, we will hold a retrospective with the DRI, designer, and product manager to discuss where the gaps in communication are so that we can improve. It may be necessary to begin requiring a UX approval for merge requests on certain issues to help the DRI meet the requirements.
-
 
 ### Technical debt
 
@@ -229,7 +238,14 @@ The verify stage has a separate Slack channel under [`#s_verify`](https://gitlab
 
 ##### GitLab Issues and MRs
 
-Most spontaneous team communiation happens in issues and MRs. Our issues have a group label of [`~"group::continuous integration"`](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=group%3A%3Acontinuous+integration&scope=all).
-You can also tag a team member with `@mention` in the issue if you have someone specific to ask.
+Most spontaneous team communiation happens in issues and MRs. Our issues have a group label of [`~"group::continuous integration"`](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=group%3A%3Acontinuous+integration&scope=all).  You can also tag a team member with `@mention` in the issue if you have someone specific to ask.
 
 If you need to call the attention of the entire group, you can tag `@gitlab-com/ci-group`.
+
+## Developer Onboarding
+ 
+Welcome to Verify:CI! Whether you're transferring internally or joining GitLab as a new hire, you'll be assigned an [onboarding buddy](https://about.gitlab.com/handbook/general-onboarding/onboarding-buddies/). If you are an internal transfer, your manager will appoint you an onboarding buddy so you can have someone to work with as you're getting familiarized with CI, our codebase, our tech stack and the team.
+
+Read over this page as a starting point, and feel free to set up regular sync or async conversations with your buddy. It's also recommended to schedule a few coffee chats to meet some members of our team. Your manager may optionally create an onboarding checklist for you to go through if it's helpful.
+
+In the our list of issues, there are also ones with an `~onboarding` label that are smaller issues to onboard onto the product. If there aren't any in the current [CI Build](https://gitlab.com/groups/gitlab-org/-/boards/1372896?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Acontinuous%20integration&label_name[]=onboarding&milestone_title=%23upcoming) board to work on, reach out to your EM/PM to see which issues you can work on as part of your onboarding period.
