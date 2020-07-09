@@ -34,21 +34,21 @@ Topics are in alphabetical order with team members grouped by region.
 | Technology    | Region | Team Member                                                                                                                                           |
 | ------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Docker        | AMER   | Harish <br> Cody West <br> Caleb W. <br> Davin <br> Lewis                                                                                             |
-|               | APAC   | Julian <br> Priyan                                                                                                                                    |
+|               | APAC   | Julian <br> Priyan <br> Athar                                                                                                                                    |
 |               | EMEA   | Catalin                                                                                                                                               |
 | ElasticSearch | AMER   | Blair <br> Michael Lussier <br> JasonC                                                                                                                |
 | Git LFS       | AMER   | Diana <br> Will <br> Lewis                                                                                                                            |
 |               | EMEA   | Ben                                                                                                                                                   |
 | HA            | AMER   | Aric <br> James <br> JasonC <br> Gabe <br> Lewis                                                                                                      |
-|               | APAC   | Mike                                                                                                                                                  |
+|               | APAC   | Mike <br> Athar                                                                                                                                                 |
 |               | EMEA   | Catalin                                                                                                                                               |
 | Kubernetes    | AMER   | Harish <br> JasonC <br> Michael Lussier <br> Thiago <br> Caleb W. <br> JasonY <br> Lewis                                                              |
 |               | APAC   | Alex Tanayno <br> Julian <br> Arihant <br> Priyan                                                                                                     |
 | Linux         | AMER   | Greg <br> Keven <br> Gabe <br> Cody West <br> James Lopes <br> Will <br> Davin <br> Lewis <br> Tom H                                                           |
 |               | EMEA   | Ben <br> David Wainaina <br> Catalin                                                                                                                  |
-|               | APAC   | Mike <br> Priyan                                                                                                                                      |
+|               | APAC   | Mike <br> Priyan <br> Athar                                                                                                                                      |
 | Omnibus       | AMER   | Aric <br> Diana <br> Greg <br> Harish <br> John <br> Nathan <br> Gabe <br> Cody West <br> Keven <br> Davin <br> JasonY <br> Lewis <br> Brie <br> Phil |
-|               | APAC   | AlexS <br> Anton <br> Weimeng <br> Mike <br> Priyan                                                                                                   |
+|               | APAC   | AlexS <br> Anton <br> Weimeng <br> Mike <br> Priyan <br> Athar                                                                                                   |
 |               | EMEA   | Catalin                                                                                                                                               |
 | Performance   | AMER   | Will <br> Cody West                                                                                                                                   |
 |               | EMEA   | Catalin                                                                                                                                               |
@@ -57,26 +57,26 @@ Topics are in alphabetical order with team members grouped by region.
 
 If you need help with scripting for fixes, internal tools, or any other reason.
 
-| Technology              | Region | Team Member                                                |
-| ----------------------- | ------ | ---------------------------------------------------------- |
-| Ruby/Rails              | AMER   | Davin <br> JasonY <br> Lewis                               |
-|                         | EMEA   | Ronald <br> Catalin                                        |
-|                         | APAC   | Wei-Meng Lee <br> Arihant <br> Priyan <br> Anton           |
-| GO                      | APAC   |                                                            |
-|                         | EMEA   | Catalin                                                    |
-|                         | AMER   |                                                            |
-| JavaScript              | APAC   | Wei-Meng Lee <br> Arihant <br> Anton                       |
-|                         | EMEA   | Ronald <br> Catalin                                        |
-|                         | AMER   | Davin <br> Phil                                            |
-| Vue.js                  | APAC   | Wei-Meng Lee                                               |
-|                         | EMEA   | Catalin                                                    |
-| Ansible                 | APAC   | Wei-Meng Lee <br> Julian <br> Mike <br> Priyan <br> JasonY |
-| Zendesk app development | EMEA   | DeAndre                                                    |
-| Bash                    | APAC   | Mike <br> Priyan                                           |
-|                         | EMEA   | David Wainaina <br> Catalin                                |
-|                         | AMER   | Davin <br> Lewis                                           |
-| Python                  | APAC   | Matthew                                                    |
-|                         | EMEA   | Catalin                                                    |
+| Technology              | Region | Team Member                                                               |
+| ----------------------- | ------ | ------------------------------------------------------------------------- |
+| Ruby/Rails              | AMER   | Davin <br> JasonY <br> Lewis                                              |
+|                         | EMEA   | Ronald <br> Catalin                                                       |
+|                         | APAC   | Wei-Meng Lee <br> Arihant <br> Priyan <br> Anton <br> Athar               |
+| GO                      | APAC   | Athar                                                                     |
+|                         | EMEA   | Catalin                                                                   |
+|                         | AMER   |                                                                           |
+| JavaScript              | APAC   | Wei-Meng Lee <br> Arihant <br> Anton <br> Athar                           |
+|                         | EMEA   | Ronald <br> Catalin                                                       |
+|                         | AMER   | Davin <br> Phil                                                           |
+| Vue.js                  | APAC   | Wei-Meng Lee <br> Athar                                                   |
+|                         | EMEA   | Catalin                                                                   |
+| Ansible                 | APAC   | Wei-Meng Lee <br> Julian <br> Mike <br> Priyan <br> JasonY <br> Athar     |
+| Zendesk app development | EMEA   | DeAndre                                                                   |
+| Bash                    | APAC   | Mike <br> Priyan                                                          |
+|                         | EMEA   | David Wainaina <br> Catalin                                               |
+|                         | AMER   | Davin <br> Lewis                                                          |
+| Python                  | APAC   | Matthew <br> Athar                                                        |
+|                         | EMEA   | Catalin                                                                   |
 | AMER                    | Lewis  |
 
 ### Product Stages
@@ -165,7 +165,7 @@ This section is ordered by stage and group according to the [product categories 
 
 | Topic               | Region | Team Member                          |
 | ------------------- | ------ | ------------------------------------ |
-| GitLab Runner       | APAC   | Alex Tanayno <br> Arihant <br> Anton |
+| GitLab Runner       | APAC   | Alex Tanayno <br> Arihant <br> Anton <br> Athar |
 |                     | EMEA   | Ronald <br> Silvester                |
 |                     | AMER   | Davin <br> Phil                      |
 | Kubernetes Executor | AMER   | Phil                                 |
