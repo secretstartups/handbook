@@ -12,7 +12,7 @@ title: Product Leadership
 [**Principles**](/handbook/product/product-principles) - [**Processes**](/handbook/product/product-processes) - [**Categorization**](/handbook/product/product-categories) - [**GitLab the Product**](/handbook/product/gitlab-the-product) - [**Being a PM**](/handbook/product/product-manager-role) - [**Performance Indicators**](/handbook/product/performance-indicators/) - [**Leadership**](/handbook/product/product-leadership/)
 
 ## General Product Organizational Structure
-The GitLab Product team includes team members at various levels of [Product Management job titles](/handbook/product/product-management/career-development/#product-management-career-development-framework) across our [organizational levels](/company/team/structure/#levels) with scope at various points in our [product hierarchy](/handbook/product/product-categories/#hierarchy). As a result there can be instances where peers across layers don't have the same title. We will always abide by [GitLab's layer structure](/company/team/structure/#layers).
+The GitLab Product team includes team members at various levels of [Product Management job titles](https://about.gitlab.com/handbook/product/product-manager-role/#product-management-career-development-framework) across our [organizational levels](/company/team/structure/#levels) with scope at various points in our [product hierarchy](/handbook/product/product-categories/#hierarchy). As a result there can be instances where peers across layers don't have the same title. We will always abide by [GitLab's layer structure](/company/team/structure/#layers).
 
 | Level | Job Families | Hierarchy Scopes |
 | - | - | - |
