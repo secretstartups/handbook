@@ -21,7 +21,16 @@ On top of these processes, we've also documented guidelines for when [a customer
 
 The Product team maintains a [Sisense dashboard](https://app.periscopedata.com/app/gitlab/480786/User-Requested-Issues) to aggregate issues and customer interest in those issues. Information is automatically gathered from [GitLab issues](https://gitlab.com/gitlab-org/gitlab/issues) by scanning for SalesForce customer account links.
 
-To indicate a customer's interest in an issue, add the link to their SalesForce account as a comment on the issue. The Sisense page automation will detect this, and use the customer's SalesForce data such as Total Account Value and seat licenses to add them to the page. This also maintains a customer's privacy on public issues, since SalesForce links are only accessible to GitLab employees with proper credentials.
+To indicate a customer's interest in an issue, add the following information in a comment on the issue:
+
+- Link to the customer Salesforce account
+- Use case
+- Urgency for the customer
+- Impact of not shipping the feature
+
+The Sisense page automation will detect this, and use the customer's SalesForce data such as Total Account Value and seat licenses to add them to the page. This also maintains a customer's privacy on public issues, since SalesForce links are only accessible to GitLab employees with proper credentials.
+
+The Product team relies on the additional details about customer impact to help them prioritize delivery of features. Please make sure to include those details and not just the Salesforce link, and be realistic about customer impact.
 
 **Note:** make sure that you are using a customer **account link** and _not_ an **opportunity link**. The Sisense dashboard will only use account links to tabulate interest.
 
