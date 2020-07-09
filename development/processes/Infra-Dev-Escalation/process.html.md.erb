@@ -214,10 +214,17 @@ N --> O[Done];
      a replacement will be found.
    * In the instance of an ongoing escalation being handed over to
      another incoming on-call engineer the current on-call engineers
-     summarize status of on-going issues in
-     [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4)
-     and in the issues by the end of their stretch of shifts, to hand
-     over smoothly.
+     summarize full context of on-going issues, such as but not limited to 
+        * Current status
+        * What was attempted
+        * What to explore next if any clue
+        * Anything that helps bring the next on-call engineer up to speed quickly
+
+     These summary items should be in written format in the following locations: 
+        * _Existing_ threads in [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4)
+        * Incident tracking issues 
+
+     This shall be completed at the end of shifts to hand over smoothly.
    * For current Infrastructure issues and status, refer to [Infra/Dev Triage](https://gitlab.com/groups/gitlab-org/-/boards/1193197?&label_name[]=gitlab.com&label_name[]=infradev) board.
    * For current Production incident issues and status, refer to [Production Incidents](https://gitlab.com/gitlab-com/gl-infra/production/-/boards/1717012?label_name[]=incident) board.
    * If an incident is ongoing at the time of handover, outgoing engineers may
