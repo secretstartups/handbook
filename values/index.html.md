@@ -441,11 +441,11 @@ Team members should first [search for their own answers](/company/culture/all-re
 
 ##### Efficiency for the right group
 {:.no_toc}
-Optimize solutions globally for the broader GitLab community. Making a process efficient for one person or a small group may not be the efficient outcome for the whole GitLab community. As an example, it may be best to discard a renewal process that requires thousands of customers to each spend two hours in favor of one that only takes sixty seconds, even when it may make a monthly report less efficient internally! In a decision, ask yourself "For whom does this need to be most efficient?" Quite often, the answer may be your users, contributors, customers, or team members that are dependent upon your decision.
+Optimize solutions globally for the broader GitLab community. Making a process efficient for one person or a small group may not be the efficient outcome for the whole GitLab community. 
+As an example, it may be best to discard a renewal process that requires thousands of customers to each spend two hours in favor of one that only takes sixty seconds, even when it may make a monthly report less efficient internally! 
+In a decision, ask yourself "For whom does this need to be most efficient?" Quite often, the answer may be your users, contributors, customers, or team members that are dependent upon your decision.
 
-##### Conistency is not a value
-{:.no_toc}
-The right processes can be helpful for [global optimization](#global-optimization). However, there is a tendency to introduce processes for the sake of consistency. Consistency is not a GitLab value. New processes should not be introduced for the sake of consistency unless we are certain that it can enable [efficiency for the right group](#efficiency-for-the-right-group).
+It is easy to to confuse consistency for efficiency. Consistency can be easier to identify; it is also viewed as beneficial because it makes manaing processes more efficient. However, efficient process management is not necessary efficiency for the right group. We should be careful when optimizing for consistency.
 
 ##### Be respectful of others' time
 {:.no_toc}
