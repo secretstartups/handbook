@@ -16,7 +16,7 @@ They are scheduled by [People Experience Associates](/job-families/people-ops/pe
 Everyone is invited to participate by adding questions and comments to the Google Doc linked in the calendar invite. 
 Non-confidential group conversations are streamed live and shared publicly to our [GitLab Unfiltered YouTube channel](https://www.youtube.com/playlist?list=PL05JrBw4t0KpUeT6ozUTatC-JbNoJCC-e).
 
-Group Conversations at GitLab used to be called Functional Group Updates, but they were renamed to Group Conversations because they're not presentations or updates; they are conversations. 
+Group Conversations at GitLab used to be called Functional Group Updates, but they were renamed to Group Conversations because they're not presentations or updates; they are conversations. Functional groups is a former term used, now encompassed by the term **Departments**. 
 
 In this video our CEO, Sid gives our team tips and tricks for their FGU. This still applies to Group Conversations.
 
@@ -288,7 +288,7 @@ Presentation - https://example.com [Input your presentation's URL and check if i
 
 ## Schedule & DRI
 
-There is a rotating schedule with each functional group having a conversation on a regular interval. 
+There is a rotating schedule with each Department having a conversation on a regular interval. 
 We usually do not have Group Conversations or Company calls between December 23rd and January 2nd. We also tend to cancel these during [Contribute](https://about.gitlab.com/company/culture/contribute/).
 The schedule with directly responsible individuals (DRI) is as follows:
 
