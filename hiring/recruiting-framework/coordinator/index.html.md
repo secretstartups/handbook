@@ -146,10 +146,9 @@ One person from the recruiting team (typically the [Candidate Experience Special
       * Instructions on the [Notebook Ordering Process](/handbook/business-ops/it-ops-team/#laptops) are included with this email.
    1. The recruiter will unpublish the vacancy in Greenhouse for the internal job board and disposition any remaining candidates if necessary. Once complete, the recruiter will ping the Candidate Experience Specialist to close the role or close the role themselves.
    1. The recruiter should create a MR on the [Careers page](/jobs/careers/) to remove the vacancy from the list. The CES should audit that this step was complete.
-   1. The final step before handing off to the People Experience Associate is for the Candidate Experience Specialist to complete the  on the "CES Steps Complete" column on the [GitLab Onboarding Tracker](https://docs.google.com/spreadsheets/d/1L1VFODUpfU249E6OWc7Bumg8ko3NXUDDeCPeNxpE6iE/edit?usp=sharing). Should the start date change after the welcome email is sent please see the required steps [here](/handbook/hiring/recruiting-framework/ces-contract-processes/#how-to-update-a-start-date-after-the-contract-is-signed).
-   1. Exception to the start date and onboarding date alignment: If a new team member requires a specific start date for legal reasons (cannot have break in employment) but the People Experience Team cannot start onboarding on that specific day (because of Public Holiday), the Candidate Experience Specialist adds a note about the exception to the Important notes from CES column of the [GitLab Onboarding Tracker](https://docs.google.com/spreadsheets/d/1L1VFODUpfU249E6OWc7Bumg8ko3NXUDDeCPeNxpE6iE/edit?usp=sharing). The Contract, Greenhouse and BambooHR should reflect the same start date regardless of the actual onboarding date. However the GitLab Onboarding Tracker should reflect the actual onboarding date. 
+   1. Should the start date change after the welcome email is sent, the CES team will use the steps listed [here](/handbook/hiring/recruiting-framework/ces-contract-processes/#how-to-update-a-start-date-after-the-contract-is-signed).
+   1. Exception to the start date and onboarding date alignment: If a new team member requires a specific start date for legal reasons (cannot have break in employment) but the People Experience Team cannot start onboarding on that specific day (because of Public Holiday), the Candidate Experience Specialist should use the steps mentioned above using the Slack bot to inform the People Experience team. The Contract, Greenhouse and BambooHR should reflect the same start date regardless of the actual onboarding date. However the GitLab Onboarding Tracker should reflect the actual onboarding date. 
 
-The Candidate Experience Specialist will make it a part of their weekly tasks to check the [GitLab Onboarding Tracker](https://docs.google.com/spreadsheets/d/1L1VFODUpfU249E6OWc7Bumg8ko3NXUDDeCPeNxpE6iE/edit?usp=sharing) to ensure their new team members are handed off properly to the People Experience Specialist.
 
 ### Mid-Point Check-In Follow-up
 
@@ -167,7 +166,7 @@ If necessary you may cancel the email, which is now showing under the Email Cand
 
 People Experience Associate will create the onboarding issue and start the [onboarding tasks](/handbook/people-group/general-onboarding/onboarding-processes/) no later than one week before the new team member joins. Should a contract not be signed prior to 4 working days from the start date, a new start date will be required.
 
-For questions about the new team member's onboarding status, view the People Experience Associate assigned via the Google sheet [GitLab Onboarding Tracker](https://docs.google.com/spreadsheets/d/1L1VFODUpfU249E6OWc7Bumg8ko3NXUDDeCPeNxpE6iE/edit?usp=sharing) and @mention them in the `#peopleops-confidential` Slack channel.
+For questions about the new team member's onboarding status, you can @mention them in the `#peopleops-confidential` Slack channel.
 
 For questions about the new team member's laptop, ping [IT Ops](#it-ops) in Slack. If the questions arise through email, forward the email to itops@gitlab.com and ping IT Ops in #it-ops Slack, and @it-ops-team too due to volume.
 
