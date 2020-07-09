@@ -179,9 +179,8 @@ If the import is scheduled for a future date and time:
 1. [Open an issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/new?issuable_template=import) in the Infrastructure tracker using the `Import` template with all available information.
 1. Add date/time with timezone (~1 hour later than expected time of receiving the import is recommended).
 1. Add the infrastructure issue link as an internal note to the Zendesk ticket.
-1. Post in [#production](https://gitlab.slack.com/archives/C101F3796) asking for the import to be assigned to the [EOC](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#engineer-on-call-eoc-responsibilities) on-call at the requested import time.
-   - Example: `"Hi team, got an import request scheduled for 2019-00-00 at 00:00 UTC. Appreciate if you could assign this to whomever is on-call at the time. ISSUE LINK"`
-1. Once we receive a link to the export, add it to the issue.
+1. Look up who will be oncall in [the PagerDuty SRE schedule](https://gitlab.pagerduty.com/schedules) and assign it to them.
+1. Once we receive a link to the export, update the issue with the link to the project.
 
 ### Import ASAP
 
@@ -215,6 +214,6 @@ After the import has completed successfully, perform the following steps.
 
 ### Resources
 
-If it's helpful, there is a [video recording from 2019-05-22](https://drive.google.com/open?id=1v0LQi0povBlP2RhpsD1drfpux5kFq7Fq) (GitLab internal) where the first half is a walkthrough of the process, and the second half talks through troubleshooting issues.
+There is a [video recording from 2019-05-22](https://drive.google.com/open?id=1v0LQi0povBlP2RhpsD1drfpux5kFq7Fq) (internal) where the first half is a walkthrough of the process, and the second half talks through troubleshooting issues.
 
 [Time And Date](https://www.timeanddate.com/worldclock/converter.html?iso=20200615T220000&p1=1440) can be used to convert timezones to UTC, useful for when imports are scheduled for a future time.
