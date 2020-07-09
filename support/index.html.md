@@ -446,6 +446,9 @@ The customer URL for the Federal Support Instance is [federal-support.gitlab.com
 
 All our Support Engineers have access to the GitLab Support Instance, whereas only Support Engineers who are US Citizens have access to the GitLab US Federal Support Instance.
 
+### Ticketing Style Guide
+A collection of best practices and suggestions for [styling and responding to Zendesk tickets](/handbook/support/workflows/ticketing_style_guide.html).
+
 ### Time Off
 The Support Team follows [GitLab's paid time off policy](/handbook/paid-time-off). However, do note that if a large number of people are taking the same days off, you may be asked to reschedule. If a holiday is important to you, please schedule it early.
 
