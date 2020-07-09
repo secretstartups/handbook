@@ -23,7 +23,7 @@ At GitLab (currently, year 2020), we use Terraform to manage VM lifecycle in Goo
 
 With Kubernetes, both of above mentioned problems are addressed in one go. Kubernetes allows scaling infrastructure based on demand at the moment, rather than based on the best guess projections. When the demand is low, Kubernetes will automatically scale down the infrastructure, thus reducing cost. Kubernetes is also made to be an orchestrator, backed by a vast community. This allows us to leverage industry standard tool instead of writing and maintaining our own custom solution.
 
-GitLab.com has been at fast growing phase where we've already experienced the challenges described above. It is reasonable to assume that we can reap benefits that Kubernetes brings to systems at scale.
+GitLab.com is at the fast growing phase where we've already experienced the challenges described above. It is reasonable to assume that we can reap benefits that Kubernetes brings to systems at scale.
 
 ### How do we measure the success of this migration?
 
