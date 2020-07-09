@@ -445,7 +445,7 @@ Optimize solutions globally for the broader GitLab community. Making a process e
 
 ##### Conistency is not a value
 {:.no_toc}
-The right processes can be helpful for global optimization. However, in many organizations processes are introduced for the sake of consistency. Consistency is not a GitLab value and it should not be introduced unless we are certain that it can enable efficiency for the right group.
+The right processes can be helpful for [global optimization](#global-optimization). However, there is a tendency to introduce processes for the sake of consistency. Consistency is not a GitLab value and it should not be introduced unless we are certain that it can enable [efficiency for the right group](#efficiency-for-the-right-group).
 
 ##### Be respectful of others' time
 {:.no_toc}
