@@ -484,7 +484,6 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 ## Campaigns
 Campaigns are used to track efforts of marketing tactics - field events, webcasts, content downloads. The campaign types align with how marketing tracks spend and align the way records are tracked across three of our core systems (Marketo, Salesforce and Bizible) for consistent tracking. Leveraging campaign aligns our efforts across Marketing, Sales and Finance.
 
-#### Salesforce campaigns
 
 ### Campaign Type & Progression Status
 A record can only progress **one-way** through a set of event statuses. A record *cannot* move backward though the statuses.
@@ -504,7 +503,7 @@ A method of tracking a group (cohort) of targeted known records and/or records i
 
 
 #### Conference
-Any large event that we have paid to sponsor, have a booth/presence and are sending representatives from GitLab (example: AWS). This is tracked as an *offline* Bizible channel.
+Any large event run by Corporate Marketing that we have paid to sponsor, have a booth/presence and are sending representatives from GitLab (example: AWS re:Invent, DevOps Enterprise Summit). This is tracked as an *offline* Bizible channel because we do not host a registration page, and receive a list of booth visitors post-event.
 
 | Member Status                   | Definition                                                                            | Success  |
 |:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
@@ -518,8 +517,29 @@ Any large event that we have paid to sponsor, have a booth/presence and are send
 | Visited Booth                   | Stopped by booth for any reason                                                       | Yes      |
 | Follow Up Requested             | Requested additional details about GitLab to be sent post event                       | Yes      |
 
+#### Content Syndication
+White Paper or other content offer that is hosted by a third party. This is tracked as an *offline* Bizible Channel and touchpoint.
+
+| Member Status                   | Definition                                                                            | Success  |
+|:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
+| No Action                       | default starting position for all records                                             |          |
+| Downloaded                      | Downloaded content                                                                    | Yes      |
+
+#### Direct Mail
+This is when a package or piece of mail is sent out.
+
+| Member Status                   | Definition                                                                            | Success  |
+|:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
+| No Action                       | default starting position for all records                                             |          |
+| Registered                      | Registered to recieve direct mail via landing page or form                            |          |
+| Queued                          | Shipment is being put together, waiting to be shipped                                 |          |
+| Shipped                         | Package has been shipped                                                              |          |
+| Undeliverable                   | Package was returned or undeliverable to addressee                                    |          |
+| Delivered                       | Package was received by the addressee                                                 | Yes      |
+| Responded                       | Recipient took action or CTA (trackable on PURLs                                      | Yes      |
+
 #### Field Event
-This is an event that we have paid to participate in but do not own the registration or event hosting duties (example: Rancher event). This is tracked as an *offline* Bizible channel.
+This is an event run by Field Marketing that we have paid to participate in but do not own the registration or event hosting duties (example: Lighthouse Roadshow, CIO Summit, AWS Summit). This is tracked as an *offline* Bizible channel because we do not host a registration page, and receive a list of attendees post-event. 
 
 | Member Status                   | Definition                                                                            | Success  |
 |:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
@@ -566,23 +586,25 @@ A static list built for ad hoc requests by the FMM or MPM team. This campaign ty
 | Member Status                   | Definition                                                                            | Success  |
 |:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
 | No Action                       | default starting position for all records                                             |          |
-| Sales Nominated               | Any record proactively identified by Sales to be included in the campaign                    |        |
-| Marketing List                       | Any record identified by targeting filters applied by Marketing Operations to build the initial list                                             |          |
+| Sales Nominated                 | Any record proactively identified by Sales to be included in the campaign                    |        |
+| Marketing List                  | Any record identified by targeting filters applied by Marketing Operations to build the initial list                                             |          |
 | Organic Engaged               | Occasionally used when we are wanting to track & include any records engaging with specific marketing web pages                    | Yes      |
 
 
 #### Owned Event
-This is an event that we have created, own registration and arrange speaker/venue (example: Gary Gruver Roadshow). This is tracked as an *online* Bizible channel.
+This is an event that we have created, own registration and arrange speaker/venue (example: GitLab Connects). This is tracked as an *online* Bizible channel because we manage the registration through our website.
 
 
 | Member Status                   | Definition                                                                            | Success  |
 |:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
 | No Action                       | default starting position for all records                                             |          |
+| Subscribed to Updates           | Subcribed to GitLab event updates via form fill                                       |          | 
 | Sales Invited                   | Invitation/Information about event sent by Sales/SDR                                  |          |
 | Sales Nominated                 | Sales indicated record to receive triggered event email sent by Marketing             |          |
 | Marketing Invited               | Marketing geo-targeted email                                                          |          |
 | Waitlisted                      | Holding state if registration is full will be moved to `Registered` if space opens    |          |
 | Registered                      | Registered for event                                                                  |          |
+| Cancelled                       | Registered, but cancelled ahead of the event                                          |          |
 | No Show                         | Registered but did not attend event                                                   |          |
 | Attended                        | Attended event                                                                        | Yes      |
 | Follow Up Requested             | Requested additional details about GitLab to be sent post event                       | Yes      |
@@ -594,7 +616,8 @@ This campaign type is used to track consumption of specific PathFactory assets. 
 | Member Status                   | Definition                                                                            | Success  |
 |:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
 | No Action                       | default starting position for all records                                             |          |
-| Content Consumed                   | Status when the corresponding Marketo listener picks up the contents consumption.                                  | Yes         |
+| Content Consumed                | Status when the corresponding Marketo listener picks up the contents consumption.     | Yes      |
+| Fast Moving Buyer               | Reached engagement threshold and viewed 3 pieces of content                           | Yes      |              
 
 
 
@@ -609,6 +632,18 @@ This campaign type is used for our third party prospecting vendors or meeting se
 | Meeting No Show               | Scheduled meeting was cancelled or not attended                    |          |
 | Meeting Attended               | Scheduled meeting at conference was attended                     | Yes      |
 
+
+#### Self-Service Virtual Event
+This is a light weight virtual event that can be hosted on GitLabber's personal zoom. This is tracked as an *online* Bizible channel.
+
+| Member Status                   | Definition                                                                            | Success  |
+|:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
+| No Action                       | default starting position for all records                                             |          |
+| Waitlisted                      | Holding state if registration is full will be moved to `Registered` if space opens    |          |
+| Registered                      | Registered for event                                                                  |          |
+| No Show                         | Registered but did not attend event                                                   |          |
+| Attended                        | Attended event                                                                        | Yes      |
+| Attended On-demand              | Watched/consumed the presentation materials post-event on-demand                      | Yes      |
 
 #### Speaking Session
 This campaign type can be part of a larger Field/Conference/Owned event but we track engagement interactions independently from the larger event to measure impact. It is something we can drive registration. It is for tracking attendance at our speaking engagements. This is tracked as an *offline* Bizible channel.
@@ -625,6 +660,35 @@ This campaign type can be part of a larger Field/Conference/Owned event but we t
 | Attended                        | Attended speaking session event                                                       | Yes      |
 | Follow Up Requested             | Had conversation with speaker or requested additional details to be sent post event   | Yes      |
 
+#### Sponsored Webcast
+This is webcast hosted on an external partner/vendor platform. The status of Attended On-demand accounts for Gitlab hosted On-Demand and non-Gitlab hosted On-demand webcasts. The difference will be accounted for in the program scoring. This is tracked as an *online* Bizible channel.
+
+| Member Status                   | Definition                                                                            | Success  |
+|:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
+| No Action                       | default starting position for all records                                             |          |
+| Registered                      | Registered for webcast                                                                |          |
+| Attended                        | Attended event                                                                        | Yes      |
+| Attended On-demand              | Watched/consumed the presentation materials post-event on-demand                      | Yes      |
+
+#### Survey
+A survey that we run through a 3rd party. Tracks respondents and new leads we receive. This is tracked as an *offline* Bizible Channel and touchpoint.
+
+| Member Status                   | Definition                                                                            | Success  |
+|:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
+| Member                          | default starting position for all records                                             |          |
+| Invited                         | Was invited, but did not participate in survey                                        |          |
+| Filled-out Survey               | Filled out survey and opted-in to be contacted by GitLab                              | Yes      |
+| Follow Up Requested             | Filled out survey and requested to be contacted by sales                              | Yes      |
+
+#### Vendor Arranged Meetings
+Used for campaigns where a third party vendor is organizing one-to-one meetings with prospect or customer accounts. This does not organize meetings set internally by GitLab team members. An example would be a "speed dating" style meeting setup where a vendor organized meetings with prospects of interest to GitLab. This is tracked as an *offline* Bizible Channel and touchpoint.
+
+| Member Status                   | Definition                                                                            | Success  |
+|:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
+| No Action                       | default starting position for all records                                             |          |
+| Attended               | LEAD or CONTACT record that has been identified for marketing campaign prospecting          | Yes      |
+
+
 
 #### Trial
 Track cohort of Trials for each product line (Self-hosted or SaaS) to see their influence. In-product trials are tracked as an **offline** Bizible touchpoint. Webform Self-hosted trials are an **online** Bizible touchpoint.
@@ -632,8 +696,7 @@ Track cohort of Trials for each product line (Self-hosted or SaaS) to see their 
 | Member Status                   | Definition                                                                            | Success  |
 |:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
 | No Action                       | default starting position for all records                                             |          |
-| Target List               | LEAD or CONTACT record that has been identified for marketing campaign prospecting                    | Yes      |
-
+| Target List               | success, attended scheduled meeting | Yes      |
 
 #### Virtual Sponsorship
 A virtual event that we sponsor and/or participate in that we do not own the registration but will generate a list of attendees, engagement and has on-demand content consumption post-live virtual event. This is tracked as an *offline* Bizible channel.
@@ -646,6 +709,7 @@ A virtual event that we sponsor and/or participate in that we do not own the reg
 | Marketing Invited               | Marketing targeted email                                                              |          |
 | Waitlisted                      | Holding state if registration is full will be moved to `Registered` if space opens    |          |
 | Registered                      | Registered for event                                                                  |          |
+| Meeting Requested               | Meeting set to occur at event                                                         |          |
 | No Show                         | Registered but did not attend event                                                   |          |
 | Attended                        | Attended event                                                                        |          |
 | Visited Booth                   | Stopped by booth for any reason                                                       | Yes      |
@@ -653,7 +717,7 @@ A virtual event that we sponsor and/or participate in that we do not own the reg
 | Attended On-demand              | Watched/consumed the presentation materials post-event on-demand                      | Yes      |
 
 #### Webcast
-Any webcast that is held by GitLab or a sponsored webcast with a partner. This is tracked as an *online* Bizible channel.
+Any webcast that is held by GitLab. This is tracked as an *online* Bizible channel.
 
 | Member Status                   | Definition                                                                            | Success  |
 |:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
@@ -664,8 +728,8 @@ Any webcast that is held by GitLab or a sponsored webcast with a partner. This i
 | Registered                      | Registered through online form                                                        |          |
 | No Show                         | Registered but did not attend live webcast                                            |          |
 | Attended                        | Attended the live webcast                                                             | Yes      |
+| Follow Up Requested             | Requested additional details about GitLab to be sent post event                       | Yes      |
 | Attended On-demand              | Watched the recorded webcast                                                          | Yes      |
-
 
 
 

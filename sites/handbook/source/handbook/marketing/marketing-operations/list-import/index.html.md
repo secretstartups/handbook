@@ -194,11 +194,6 @@ The Alliance list import follows the same guidelines as [Field & Corporate event
           * Suppression of records in general Marketing communication
 
 
-
-#### Ad Hoc Import
-
-TBA
-
 ##### Acceleration Team Monthly Import
 
 The Acceleration Team has list import requests every month for their target patches. They presently are using a modified version of the Ad Hoc import template. 
@@ -271,3 +266,7 @@ Please **do not** make any changes to the programs, campaigns or related workflo
 1. In left side menu, navigate to `Tags` and select the appropriate tag for that list
 1. Copy the **Outreach** URL and paste into the List Import issue.  
 1. Repeat steps above for each list in the issue. 
+
+### About Long-term Lead Data Storage
+
+Included on the `event-list-upload` issue template is the `Lead Data: Active` scoped label. This label will be used as of July 2020 to track leads' personal data that we have stored in G Drive, likely from the aforementioned list imports. After a soon-to-be-determined amount of time, MktgOps will be required to find the lead data and remove it from G Drive. Once the data has been removed from G Drive, the scoped label will be changed to the `Lead Data: Inactive` label to signal that lead data now lives in Salesforce only. During the transition period, MktgOps will need to proactively add the `Lead Data: Active` label to list import issues where it does not appear.

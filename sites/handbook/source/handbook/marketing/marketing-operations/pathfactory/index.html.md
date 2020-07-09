@@ -27,17 +27,13 @@ PathFactory (PF) is leveraged as our [content library & content distribution sys
 
 The Marketing Operations team is responsible for managing access requests & provisioning the appropriate level of access for each role/function. Providing access is generally hanlded via baseline entitlement; however, if you need access and it is *not* part of your roles baseline entitlement please open a [`Single Person Access Request` issue](/handbook/business-ops/it-ops-team/access-requests/#single-person-access-request) and provide business reason why access is needed.   
 
-### User Roles   
+**User Roles**   
+
 There are three levels of access - Admin, Author, Reporter - which are granted based on the persons' role and team function within GitLab. **All access levels** have the ability to view the analtyics page within the tool. 
 
-#### Admin  
-Admin access is granted to Marketing Operations only.  
-
-#### Author 
-`Author` access allows user to build, edit and publish content tracks applying existing tags to the assets. This level of access is granted to the Marketing Program Managers and select Content team members.  
-
-#### Reporter 
-`Reporter` access provides general visibility to content within PathFactory but does not allow end user to create or modify any of the content, tracks or tags. This level of access is granted for the general GitLab team member both within Marketing and elsewhere who have a business need to have access.  
+- `Admin` access is granted to Marketing Operations only.  
+- `Author` access allows user to build, edit and publish content tracks applying existing tags to the assets. This level of access is granted to the Marketing Program Managers and select Content team members.  
+- `Reporter` access provides general visibility to content within PathFactory but does not allow end user to create or modify any of the content, tracks or tags. This level of access is granted for the general GitLab team member both within Marketing and elsewhere who have a business need to have access.  
 
 ## Training
 
@@ -51,13 +47,12 @@ Admin access is granted to Marketing Operations only.
 **Marketing Operations**
 
 * [Generic PathFactory request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/pathfactory_request.md)
-* [Set up listening campaign for gated content in PathFactory](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/pf-listening-campaign.md)
 
 **Digital Marketing**
 
 * [Generic PathFactory request](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/blob/master/.gitlab/issue_templates/pathfactory_request.md)
 
-## Marketo vs. PathFactory - how do they differ?
+## Marketo vs. PathFactory
 
 ☝️ **Pathfactory ≠ Email Nurture. Pathfactory is a tool that - instead of driving to a single asset - drives to a related-content experience.**
 
@@ -72,17 +67,19 @@ Yes, the PathFactory track acts as a supplement to the existing Marketo nurture 
 
 ## Changelog
 
-Periodically, significant changes are made or added to PathFactory and processes that affect overall data and reporting. As such we have a [changelog](https://docs.google.com/document/d/1qd9X-V0WNBTklCKNYVRmjJtiOcPu6dZYkfJ2uuQt_Co/edit?usp=sharing). **Everyone with `Author` access that is making additions or changes to assets, content tracks, or otherwise should add their changes to the changelog with a linked issue.** Scenarios for adding to the changelog:
+Periodically, significant changes are made or added to PathFactory and processes that affect overall data and reporting. As such we have a [changelog](https://docs.google.com/document/d/1qd9X-V0WNBTklCKNYVRmjJtiOcPu6dZYkfJ2uuQt_Co/edit?usp=sharing). **Everyone with `Author` access that is making significant changes in PathFactory should add their changes to the changelog with a linked issue and/or relevant PathFactory links.** 
+
+**Scenarios for adding to the changelog:**
 
 1.  Creation or launch of a new content track and where it will be used
 1.  Creation or launch of a new website promoter
-1.  Additions or changes to a form strategy within a live content track
-1.  Additions or changes to assets within a live content track
+1.  Additions or changes to a form strategy within a `[LIVE]` content track
+1.  Additions or changes to assets within a `[LIVE]` content track
 1.  Expiration of an asset from the content library
 1.  Change of a custom URL slug for an asset or content track and why
-1.  Change of promote settings within a live content track and why
+1.  Change of promote settings within a `[LIVE]` content track and why
 
-### Instructions
+**Instructions**
 
 1.  Open the [PathFactory changelog doc](https://docs.google.com/document/d/1qd9X-V0WNBTklCKNYVRmjJtiOcPu6dZYkfJ2uuQt_Co/edit?usp=sharing).
 1.  Add the date you made the change if it doesn't already exist.
@@ -252,7 +249,7 @@ Form strategy is used on content tracks to collect data from unknown visitors an
 
 **Please Note:** We have [listening campaigns](#listening-campaigns) in Marketo set up to capture consumption of content that would have been gated had PathFactory not been implemented. The listeners also incorporate PathFactory activity into the [MQL scoring model](/handbook/business-ops/resources/#mql-scoring-model). This means that you do not need to add form strategy to a content track if entry point is from a landing page and there are listening campaigns set up for assets in your track that would normally be gated. [Please create an issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues) in the Marketing Operations repo and assign `@sdaily` to set up a lisetning campaign for an asset.
 
-###### Adding form strategy to a content track
+##### Adding form strategy to a content track
 
 1.  In the content track settings sidebar (left), toggle "Forms Strategy" to `On`.
 1.  Click `View Form Strategy` located below the `Add Content` button.
@@ -276,7 +273,7 @@ Form strategy is used on content tracks to collect data from unknown visitors an
 3.  Under `Display Behavior` you can choose to serve the form based on the number of content assets viewed or the total time spent on the track. This decision lies with the directly responsible MPM.
 4.  All other options for content track rules are the same for individual assets (see above).
 
-#### Testing a track link:
+#### Testing a track link
 
 1. Click through the experience to ensure assets, CTAs, and forms load properly and that promoters are working as intended.
 1. Remove any extraneous `?` (there should only be one immediately after the end of the URL).
@@ -287,6 +284,10 @@ Form strategy is used on content tracks to collect data from unknown visitors an
 
 1. Change the target track title in use to `[LIVE] Name of track`.
 
+**When a track has been archived (no longer in use):**
+
+1. Change the target track title that's no longer in use to `[ARCHIVED] Name of track`.
+
 #### Adjustments to live content tracks
 
 * You can add assets and adjust the position of assets to a `[LIVE]` content track. 
@@ -294,13 +295,9 @@ Form strategy is used on content tracks to collect data from unknown visitors an
 
 ## PathFactory forms
 
-The forms used in PathFactory are Marketo forms. They are added to PathFactory using the Marketo script, but they should also include the PathFactory capture tag and Google Tag Manager script to capture form fills in Google Analytics and track form submission back to Marketo. 
+The forms used in PathFactory are Marketo forms. They are added to PathFactory using the Marketo script, but they should also include the PathFactory capture tag and Google Tag Manager script to capture form fills in Google Analytics and track form submission back to Marketo. If a new form is created, the PathFactory capture tag and Google Tag Manager script **must be applied**. To request a new form, please open an issue using the `pathfactory_request.md` issue template in the marketing operations project and assign it to `@sdaily`.
 
-**Important:** If a new form is created, the PathFactory capture tag and Google Tag Manager script **must be applied**. 
-
-To request a new form, please open an issue using the `pathfactory_request.md` issue template in the marketing operations project and assign it to `@sdaily`.
-
-## Using PathFactory links
+## PathFactory links
 
 *  Only content track links are meant to be used and shared. Do not share individual asset links from the content library.
 *  You can use a content track link for multiple use cases as long as you apply UTMs appropriately. Applying UTMs helps us differentiate how the track performed across different channels.
@@ -331,6 +328,9 @@ To request a new form, please open an issue using the `pathfactory_request.md` i
 
 1. For a PF Marketo link, it will typically already include a question mark "?". To add UTMs, first add an ampersand `&` at the end of the PF link, followed by the UTMs.
     * Example: `https://learn.gitlab.com/c/devops-explained-git?x=GVFK3F&lb_email={{lead.Email Address}}&utm_source=email&utm_campaign=test`
+1. Remove any extraneous `?` (there should only be one immediately after the end of the URL).
+1. Watch for extra `&`.
+1. Ping `@sdaily` to review the link before implementation for quality assurance purposes.
 
 **PathFactory links behind a form fill on a landing page**
 
@@ -338,11 +338,21 @@ To request a new form, please open an issue using the `pathfactory_request.md` i
 
 `https://learn.gitlab.com/c/gcn-dev-sec-ops-how-?x=XOIXTl&lb_email=`
 
-### Adding a PathFactory URL to Marketo:
+**Using a content track with a custom URL**
 
-1. Remove any extraneous `?` (there should only be one immediately after the end of the URL).
-1. Watch for extra `&`.
-1. Ping `@sdaily` to review the link before implementation for quality assurance purposes.
+1. If your content track has a custom URL, you will notice the `?` in a different location than with content tracks that don't have a custom URL.
+   * With no custom URL: `https://learn.gitlab.com/c/gcn-dev-sec-ops-how-?x=XOIXTl&lb_email=` (`x=XOIXTl` = content track ID)
+   * With custom URL: `https://learn.gitlab.com/cicd/cloud-ci-tools-matur?lb_email={{lead.Email Address}}`
+
+### Custom query strings
+
+PathFactory’s custom query string manager allows you to manage and append query strings when sharing a link to a content track or explore page.
+
+1. Select `Organization Settings` in the dropdown menu in the top right corner.
+1. Select the `Custom Query Strings` tab.
+1. Create your custom query. When you save the new query string, it will be available whenever you access a content track in PathFactory and click the `Share` button or icon.
+
+**Note:** Do not delete or edit the default query string for Marketo as that query string is an important way to integrate with PathFactory. 
 
 ## Explore pages
 
@@ -399,7 +409,7 @@ You are able to change the appearance of the following components of a content t
 
 [Video walkthrough of appearances](http://successwith.lookbookhq.com/c/ilos-appearance-conf?x=Blrk3E) (Nook login required)
 
-### Create a new appearance group
+**Create a new appearance group**
 
 1. Click the gear icon at the top right of the page. Select `Appearances` from the drop-down menu.
 1. Click `Add Appearance`.
@@ -408,8 +418,6 @@ You are able to change the appearance of the following components of a content t
 1. Change the font of the text by selecting from the drop-down menu. Click the `B` button to bold the text. Click on the `A` buttons to change the text size.
 1. When you are done making changes click `Add Appearance`.
 1. Once you’ve created your `Appearance` groups, you can apply this styling to any of your content tracks. Simply select the appearance group from the drop-down menu under `Experience Settings`.
-
-## Tracking content
 
 ### Content topics
 
@@ -616,11 +624,9 @@ Use the `Content Activation` tab in the PathFactory for Sales app in Salesforce 
 
 You can use this same process to share content from the lead, contact, account, and opportunity. 
 
-**Important:** You must use the Outreach option to share links to properly track activity and associate it back to the person you sent it to. If you don't follow this process, the person you send it to may or may not be served a form if they are `unknown` within PathFactory.
+**Important: You must use the Outreach option to share links to properly track activity and associate it back to the person you sent it to. If you don't follow this process, the person you send it to may or may not be served a form if they are `unknown` within PathFactory.**
 
-### Fast-moving buyer alerts
-
-A fast-moving buyer alert is an email alert set up in Marketo to send a lead's details to the sales owner. The email alert is triggered when the lead's engagement in PathFactory meets a threshold of at least 90 seconds and views at least 3 assets.
+**Outreach**
 
 ### FAQs
 

@@ -9,9 +9,8 @@ title: "LeanData"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Tool Uses     
-
-LeanData works within the Salesforce (SFDC) ecosystem and is primarily responsible for routing all record types ([lead](#lead-routing-object), [contact](#contact-routing-object), [account](#account-routing-object) and [opportunity](#opportunity-routing-object)). Leveraging the advanced functionality with LeanData we are able to build and execute the Sales and Marketing Go-to-Market (GTM) strategy.  
+## Overview     
+LeanData is an application used within Salesforce (SFDC) to process and assign [lead](#lead-routing-object), [contact](#contact-routing-object) and [account](#account-routing-object) record types. LeanData allows for the creation of dynamic and complex record routing to support Go-to-Market (GTM) strategy.  
 
 ## LEAD Routing Object
 
@@ -26,11 +25,14 @@ Current as of 9 December 2019
 
 1. `Created by Admin` = Records must be created by `Sales Admin` AND have `Person Score` < (greater  than) 15 points.
      1. Minimum of 15 points means the records has interacted with *at least* one piece of content, is a known name or provided a company-domained `Email`.
-1. `Company Missing?` = if the `Company` field is empty or filled with a non-standard enrichment value the workflow will send to `Standardize Company` node. 
+1. `Do Not Route? (New)` = Records must not have the `Do Not Route` checkbox checked.
+2. `GitLab email address? (New)` = Records must not have an email that contains gitlab.com.
+2. `Company Missing?` = if the `Company` field is empty or filled with a non-standard enrichment value, the workflow will send to `Standardize Company` node. 
      1. Accepted enrichable value is `[[unknown]]` OR **blank**.
      2. Any other value will render the field "filled" and enrichment solutions **will not** overwrite.
+1. `LIM Suppression` = `Last Interesting Moment Desc` must not be equal to any currently suppressed value. 
 1. `Matched Account` matches `Company Name` to any existing ACCOUNT with Salesforce (SFDC).  
-     1. If matched records advances to `Route to Matched Account` which will leverage the [owner mapping](#owner-mapping) functionality routing to the designated SDR. 
+     1. If matched records advances to `Route to Matched Account` which will leverage the [owner mapping](#owner-mapping) functionality or `SDR Assigned` listed on the account object to route the record to the designated SDR. 
      1. If ACCOUNT Owner is `Invalid`, `Inactive` or `Sales Admin` -> workflow will push record to `Sales Segment` node. 
 1. `Sales Segment` - filter records based on segment (Large, Mid-market, SMB, Unknown), enriched on the SFDC record by our designated data sources. Explanation of how `Sales Segment` is determined can be found on the [Business Ops Resource page](/handbook/business-ops/resources/#segmentation)
      1. If `Large` => `Enterprise` this will route and filter based on the pairings for the Enterprise level SDRs. 
@@ -49,7 +51,7 @@ Current as of 9 December 2019
      1. If TRUE => `Matched Account` node
      1. If FALSE => LeanData will put them in a holding queue until the `Person Score` is updated again at which point LeanData will check criteria again. 
 
-==> Routing will then follow same path as `New Lead` flow starting at **Step 3** [above](#new-lead-node).
+==> Routing will then follow same path as `New Lead` flow starting at **Step 5** [above](#new-lead-node).
 
 
 ### Monthly Updates  
@@ -133,16 +135,3 @@ More information about [Record Ownership](/handbook/business-ops/resources/#reco
 
 ### Round Robin   
 Details TBA
-
-### Schedules
-
-#### Vacation Setting
-{:.no_toc}
-
-When someone is scheduled to be out of office for any amount of time we are able to leverage the LeanData **Vacation Setting** to designate a *temporary* routing change. The need to manually route is limited assignment flow will **automatically** remove / re-add the person to the flows.    
-
-For assignment rules leveraging the [**round robin**](#round-robin) functionality, there must be *at least* ONE "active" member at all times. 
-
-##### Submit a Vacation   
-
-The Marketing Operations team are the only ones able to add or delete a vaction request. If you need to schedule and submit a vacation, please use the [`LeanData OOO` issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=leandata_ooo)) within the Marketing Operations project. 

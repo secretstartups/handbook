@@ -28,14 +28,15 @@ I created this personal README document to help you get to know me and how I wor
 
 ## My typical week
 
-* In Marketing Operations, we have `No meeting Mondays`. I reserve Monday for deep work related to [current milestone issues](https://gitlab.com/groups/gitlab-com/-/milestones?utf8=%E2%9C%93&search_title=mktg&state=&sort=).
-* I have most of my meetings Tuesday - Friday.
+* In Marketing Operations, we have `Focus Fridays`. I reserve Friday for deep work related to [current milestone issues](https://gitlab.com/groups/gitlab-com/-/milestones?utf8=%E2%9C%93&search_title=mktg&state=&sort=).
+* I have most of my meetings Monday - Thursday.
 * I clean up my to-dos and MRs every Friday.
 * I use Clockwise to block focus time for me during the week.
+* Every Friday morning at 7 AM, I block an hour for personal development and coding. I'm currently going through the [SFDC Admin Beginner path](https://trailhead.salesforce.com/en/content/learn/trails/force_com_admin_beginner) on Trailhead and using [Codeacademy](https://www.codecademy.com/) to brush up on JavaScript, Ruby on Rails, Git, Command Line, and SQL. Please try not to schedule any meetings for me at this time. 
 
 ## My typical day
 
-* I get up at 6:30 AM on most days (if my dogs don’t wake me up first).
+* I get up at 6:00 AM on most days (if my dogs don’t wake me up first).
 * I start working at 7 AM and take my first break around 11 AM. 
 * I typically address emails, to-dos, and Slack DMs first.
 * I prefer to have meetings in the morning but will meet anytime during my normal working hours. 
@@ -46,18 +47,20 @@ I created this personal README document to help you get to know me and how I wor
 
 ## Tools I admin
 
-* [PathFactory](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory)
-* Sigstr
-* Hotjar
-* Disqus
-* Cookiebot
-* [Litmus](https://about.gitlab.com/handbook/marketing/marketing-operations/litmus)
-* Sprout Social
-* [YouTube](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/)
-* Vimeo
-* [RushTranslate](https://about.gitlab.com/handbook/marketing/marketing-operations/rushtranslate/)
-* Rev.com
-* Swiftype
+1. Cookiebot
+1. Disqus
+1. Hotjar
+1. [Litmus](https://about.gitlab.com/handbook/marketing/marketing-operations/litmus)
+1. [PathFactory](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory)
+1. Rev.com
+1. [RushTranslate](https://about.gitlab.com/handbook/marketing/marketing-operations/rushtranslate/)
+1. ScreamingFrog
+1. SEMrush
+1. [Sigstr](https://about.gitlab.com/handbook/marketing/marketing-operations/sigstr)
+1. Sprout Social
+1. Swiftype
+1. Vimeo
+1. [YouTube](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/)
 
 ## Issue templates I'm mentioned in
 
