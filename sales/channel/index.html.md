@@ -21,42 +21,108 @@ The Channel is a critical part of our strategy moving forward as it will help us
 
 ![GitLab Channel Value](/handbook/sales/channel/images/channel_handbook1.png)
 
-## Channels Partner Types 
+The purpose of this page is to provide the  GitLab Sales team insights on the GitLab channel partner community and how to best work with our partners.
 
-### Alliances
+Additional related channel resources:
 
-[Alliances](/handbook/alliances/)
 
-### Resellers 
 
-Primary monetization is through reselling GitLab licenses and services.
-Resellers can be a service partner too (often known as a Solution Provider).
+*   [Channel Operations Page](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/)  - Learn how to manage partner deals in Salesforce and other operational tips when working with partners.
+*   [Channel Partner Program page]( https://about.gitlab.com/handbook/resellers/) - This page provides an overview of the GitLab channel partner program, the expectations of partners, benefits for partner and how partners can work with GitLab. 
+
+
+## **Channels Partner Types**
+
+
+### **Resellers**
+
+Primary monetization is through reselling GitLab licenses and services. Resellers can be a service partner too (often known as a Solution Provider).
+
+
 
 1. VAR/VAD (Value Added Reseller or Distributor): Channel services including resale, implementation, contracting, support, financing etc.
-1. DMR (Direct Market Reseller): Primary business is resale of the software, often does not implement.
-Value are the contracts that these partners have in place with customers.
+2. DMR (Direct Market Reseller): Primary business is resale of the software, often does not implement. Value are the contracts that these partners have in place with customers.
 
-[Learn how to become a GitLab reseller today](/handbook/resellers/)
 
-### Services partners
+### **Services partners**
 
-Primary monetization is through the sale of services.
-This can be a one-time implementation, ongoing support or advisory, managed services, or outsourcing.
-Services partners will resell GitLab services, deliver services on behalf of GitLab or deliver GitLab certified services.
-Services partners can be a reseller partner too (often known as a Solution Provider).
+Primary monetization is through the sale of services. This can be a one-time implementation, ongoing support or advisory, managed services, or outsourcing. Services partners will resell GitLab services, deliver services on behalf of GitLab or deliver GitLab certified services. Services partners can be a reseller partner too (often known as a Solution Provider).
 
-1. Global Systems Integrators have a large global workforce and can deliver on almost any customer need.
-Examples: Accenture, Deloitte, TCS, Wipro
-1. Regional Systems Integrators are large workforce but with single continental focus and a more limited offering of services.
-Examples: CI&T, Slalom
-1. Boutique Systems Integrators are very focused DevOps partners that could be deep experts on GitLab and the nuances of getting it setup and running it.
-Examples - CloudReach, Flux7
-1. Managed Service Providers  provide ongoing support for solutions/applications.
-Examples: Rackspace
 
-### Existing GitLab Partner Program
 
-[Resellers program](/resellers/program/)
+1. Global Systems Integrators have a large global workforce and can deliver on almost any customer need. Examples: Accenture, Deloitte, TCS, Wipro
+2. Regional Systems Integrators are large workforce but with single continental focus and a more limited offering of services. Examples: CI&T, Slalom
+3. Boutique Systems Integrators are very focused DevOps partners that could be deep experts on GitLab and the nuances of getting it setup and running it. Examples - CloudReach, Flux7
+4. Managed Service Providers provide ongoing support for solutions/applications. Examples: Rackspace
+
+
+### **Alliances**
+
+[Alliances](https://about.gitlab.com/handbook/alliances/)
+
+**How can GitLab sellers benefit from our channel partners?**
+
+GitLab channel partners have established sales forces that help us multiply our sales coverage.  Through that coverage and deep customer relationships, partners can identify new customer opportunities and new sales opportunities with existing customers, resulting in ARR growth.  Through their service offerings and vendor partnerships, they can deliver more complete solutions than GitLab can alone, and drive customer adoption of GitLab.  As a result, the GitLab channel will:
+
+
+
+1. Improve customer reach and experience
+    1. Resellers/SI’s that know & can make intros to  your customers
+    2. Ease of order processing
+2. Channel leverage
+    3. Resellers/SI’s that bring us into new opportunities & grow existing
+    4. Decreased Customer Acquisition Cost 
+    5. Improved Net & Gross Retention
+3. Services Capacity to Adopt and Expand GitLab deployments
+    6. SI’s that help our customers deliver more value 
+    7. Stage Monthly Active Users Acceleration
+4. Market Position
+    8. Acquire partners from the Atlassian/Cloud Bees channel 
+    9. Monetize the GitHub channel 
+    10. Align to the AWS channel
+
+**Partners can help you scale and working with them is comp neutral**
+
+**[Channel Neutral Compensation](https://about.gitlab.com/handbook/sales/commissions/#channel-neutral-compensation)**
+
+FY21 commissions will be channel neutral for all deals through partners (including Distributors, if applicable), which means standard partner discounts are credited back to the salesperson and must follow [order processing procedures](https://about.gitlab.com/handbook/business-ops/order-processing/) to correctly flag partner attribution. Total IACV on the deal after all discounts will count towards quota credit, but the channel neutral amount does not qualify for quota credit and only pays out for compensation at BCR. See Channel Neutral section referenced in the [FY21 Commission Plan presentation](https://docs.google.com/presentation/d/1lPZAmdHPPJwhJ4felwsgDXopIt7Usn3UnK5siOpQMlY/edit#slide=id.g7da31a6494_6_0)
+
+Partner Services also qualify for [FY21 Professional Services Spiff (v2)](https://about.gitlab.com/handbook/sales/commissions/#fy21-professional-services-spiff-v2).  So as partners help customers adopt and expand their GitLab deployments, they can earn a Services Attach rebate and the GitLab sales team can earn the Professional Services Spiff.
+
+**Maximizing value by working with Channel Partners**
+
+Developing successful relationships with channel partners in your region requires some effort, but has a great payback.  Following are a few key tips that will help you develop relationships with GitLab channel partners and greatly increase your sales effectiveness.
+
+
+
+*   **Honor Partner ←→ Customer Relationships**
+    *   **Respect Deal Reg’s from Partners:  <span style="text-decoration:underline;">No</span>** direct sales of opportunities with approved Partner Deal  Reg without prior approval of VP, Global Channel Sales 
+    *   **Recognize Incumbent Partners***: Do not bring another Partner into your customer convos
+*   **For new Deal Reg’s in your pipeline**
+    *   Be prepared to construct a simple joint pursuit plan in SFDC (CAMs are here to support same)
+    *   Strive to team with the trained Partner people
+*   **The program determines the partner discount**
+    *   Our agreement with partners is that by initiating, assisting or fulfilling sales opportunities, or selling services, partners will earn set amount based on their partner track.
+    *   These discounts are determined by the program and not GitLab Sales on individual opportunities.
+*   **Respect incumbent partners**
+    *   Support them in driving renewals and incremental sales
+    *   Do not bring competing partners into the account
+*   **Stay Focused on the Customer’s Needs & Priorities  **
+    *   Partners can complete a customer solution with additional products and services
+*   **Give to Get (LevelUp coming)**
+    *   Bring Select/Open partners into GitLab opportunities
+    *   Ask them about opportunities they may have for GitLab
+*   **Collaborate with Partners in your Region (LevelUp coming)**
+    *   Treat them as an extension of your team
+    *   Plan with key partners in your region
+    *   Communicate regularly with them around sales opportunities and pipelines
+    *   Help keep GitLab top of mind with them.  Educate them on GitLab.
+*   **If misalignments or escalations arise during deal pursuits**
+    *   Contact the CAM
+    *   Chat with your peers that have channel co-selling experience
+    *   Escalate to your manager 
+    *   No customer collisions: Strive to stay aligned \
+on customer calls - take differing POVs offline 
 
 ### GitLab Channels Program Updates - April 2020
 
