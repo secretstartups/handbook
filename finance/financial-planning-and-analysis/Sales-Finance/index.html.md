@@ -15,6 +15,15 @@ title: "Sales Finance"
 
   * [Professional Services (PS) Finance](/handbook/finance/financial-planning-and-analysis/Sales-Finance/Professional-Services-Finance)
 
+### Finance Business Partner Alignment
+
+| Name | Function |
+| -------- | ---- |
+| Frederick | All |
+| Enterprise Sales, Channels, & Alliances | Alexandria Curtis |
+| Commercial Sales, Customer Success, Field Ops | Yi Sun |
+| Professional Services (Consulting Delivery, Education Delivery, Practice Management) | Sid Malik |
+
 ## Sales Forecast Rhythm
 We believe an excellent forecasting process enables us to deploy our resources effectively, risk-manage the business, and provide early warning systems. At GitLab, we design our Sales Forecast Rhythm to foster careful inspection and execution of bookings target throughout the quarter. Each week we review various aspects of the business, such as Current/Next Quarter pipeline, Renewals timing, and leading indicators KPIs, to name but a few.
 
