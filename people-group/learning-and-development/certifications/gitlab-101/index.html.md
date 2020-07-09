@@ -224,7 +224,7 @@ To create a merge request:
 1. Select the soft wrap/no wrap button in the top right (just above the text box) to how you prefer
 1. Find the portion of the page you were wanting to change and make your proposed changes.
 1. Update the "Commit message" - this should describe the changes you made in a few words (ex. Add Values Certification to Page)
-1. Update the "Target Branch" - this will be simlilar to the commit message, but shorter and using dashes instead of spaces. Every branch name must be unique and we recommend starting it with your initials (ex. cg-add-values-cert-iteration-june4)
+1. Update the "Target Branch" - this will be similar to the commit message, but shorter and using dashes instead of spaces. Every branch name must be unique and we recommend starting it with your initials (ex. cg-add-values-cert-iteration-june4)
 1. Click "Commit changes" - don't worry, this will just create your merge request, it will not make your changes reflect right away (someone still has to merge it before your changes will be reflected).
 1. On the next page the "Title" will auto populate as the Commit message from the previous page
 1. Answer the questions in the "Description section"
@@ -239,11 +239,11 @@ To create a merge request:
 
 ### How to search for a GitLab Merge Request
 
-You can search for a GitLab Merge Request in the same way as you search for a GitLab Issue [outlined above](/handbook/people-group/learning-and-development/certifications/gitlab-101/#How-to-search-for-a-GitLab-Issue). The only dfference is to select the "Merge requests" button in the top right, rather than the Issues button.
+You can search for a GitLab Merge Request in the same way as you search for a GitLab Issue [outlined above](/handbook/people-group/learning-and-development/certifications/gitlab-101/#How-to-search-for-a-GitLab-Issue). The only difference is to select the "Merge requests" button in the top right, rather than the Issues button.
 
 ### Helpful Tips for Merge Requests
    1. Who can merge your Merge Request (MR)? - your manager should have the ability to merge (i.e. [maintainer access](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions)). If they don't have the ability to merge, they will know who you can assign it to for review/merging.
-      1. If you assign your MR to someone who isn't a Maintainer, there will be a yellow triangle with an exclamation point by thier picture.
+      1. If you assign your MR to someone who isn't a Maintainer, there will be a yellow triangle with an exclamation point by their picture.
    1. Soft Wrap - when you are editing your MR, you can either select soft wrap or no wrap. If you select "soft wrap" you will be able to see all of the text in one screen. If you select "no wrap" (which is the default) you will have to scroll to the right if the text on the line is wider than the page.
    1. Squash Commits -
    1. Delete Branch -
