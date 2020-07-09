@@ -19,7 +19,6 @@ title: "Technical Account Management Handbook"
 - [TAM and Support Interaction](/handbook/customer-success/tam/support/)
 - [Escalation Process](/handbook/customer-success/tam/escalations/)
 - [Account Handoff](/handbook/customer-success/tam/account-handoff/)
-- [Capturing Customer Interest in GitLab Issues](/handbook/customer-success/tam/customer-issue-interest/)
 - [Usage Ping Playbook](/handbook/customer-success/tam/usage-ping-faq/)
 - [TAM READMEs](/handbook/customer-success/tam/readmes/) (Optional)
 
