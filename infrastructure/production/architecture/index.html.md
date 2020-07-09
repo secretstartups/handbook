@@ -231,7 +231,6 @@ Digital Ocean houses several servers that do not need to directly interact with 
 
 * Chef Configuration Management Servers
 * Kerberos
-* Our backup environment for CI Runners
 * [Forum](https://forum.gitlab.com)
 * [Quality Insights](http://quality-dashboard.gitlap.com)
 
