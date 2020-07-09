@@ -254,7 +254,7 @@ GitLab employees can access the disount table [here.](https://gitlab.my.salesfor
 #### Definitions and Qualifications
 
 
-*   **PIO Discount – **You can earn the largest available product discount with a **Partner Initiated Opportunity** . It must be a new opportunity to our sales team and can be for a new or existing customer. The partner is also expected to assist the GitLab Sales team in closing the sale. This is an upfront discount and the amount depends on your track within the GitLab Partner Program. To qualify for PIO discounts, partners must submit a deal registration to GitLab via our Partner Portal, and it must be approved by GitLab Sales to qualify. PIO is available for both resale and referral opportunities.  Please visit the Deal Registration Program guideline in the Program Guide for additional details.
+*   **PIO Discount – **You can earn the largest available product discount with a **Partner Initiated Opportunity** . It must be a new opportunity to our sales team and can be for a new or existing customer. The partner is also expected to assist the GitLab Sales team in closing the sale. True ups and add-on licenses at renewal can also qualify for PIO discounts.  This is an upfront discount and the amount depends on your track within the GitLab Partner Program. To qualify for PIO discounts, partners must submit a deal registration to GitLab via our Partner Portal, and it must be approved by GitLab Sales to qualify. PIO is available for both resale and referral opportunities.  Please visit the Deal Registration Program guideline in the Program Guide for additional details.
 *   **Partner Assist Opportunity** is a discount earned for a GitLab-sourced opportunity where the partner assists our sales team in closing the deal. This may include demonstrating GitLab software, organizing executive meetings, delivery of services, etc. This is an upfront discount and the amount depends on your track within the GitLab Partner Program. To qualify for Partner Assist discounts, partners must submit a deal registration to GitLab via our Partner Portal, and it must be approved by GitLab Sales to qualify. Please visit the Deal Registration Program guideline in the Program Guide for additional details.
 
 
@@ -307,7 +307,7 @@ discount rate.
 *   In the event the engagement is dissolved, the GitLab Sales Rep will generally notify you by phone or email. GitLab will reconsider other deal registrations submitted for this deal, in chronological order of submission. If there are no other registration requests submitted, the GitLab Sales Rep will typically initiate engagement with a reseller of the GitLab Sales Rep’s choosing.
 
 
-#### The Market Development Funds (MDF) Program
+### The Market Development Funds (MDF) Program
 
 GitLab Open and Select partners have access to the proposal-based GitLab Marketing Development Funds (MDF) Program, which provides funding support for eligible marketing and partner enablement activities that help to:
 
