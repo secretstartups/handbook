@@ -490,6 +490,17 @@ This is when a package or piece of mail is sent out.
 | Delivered                       | Package was received by the addressee                                                 | Yes      |
 | Responded                       | Recipient took action or CTA (trackable on PURLs                                      | Yes      |
 
+#### Executive Roundtables
+This is used for campaigns that can either be organised through a 3rd party vendor or GitLab, covering both in-person and virtual roundtables. It is a gathering of high level CxO attendees run as an open discussion between the moderator/host, GitLab expert and delegates. There usually aren't any presentations, but instead a discussion where anyone can chime in to speak. The host would prepare questions to lead discussion topics and go around the room asking delegates questions to answer. This is tracked as an *offline* Bizible Channel and touchpoint.
+
+| Member Status                   | Definition                                                                            | Success  |
+|:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
+| No Action                       | default starting position for all records                                             |          |
+| Registered                      | Registered for the event                                                              |          |      
+| No Show                         | Registered, but did not attend the event                                              |          |
+| Attended                        | Attended the Event                                                                    | Yes      |
+
+
 #### Field Event
 This is an event run by Field Marketing that we have paid to participate in but do not own the registration or event hosting duties (example: Lighthouse Roadshow, CIO Summit, AWS Summit). This is tracked as an *offline* Bizible channel because we do not host a registration page, and receive a list of attendees post-event. 
 
@@ -638,7 +649,10 @@ Used for campaigns where a third party vendor is organizing one-to-one meetings 
 | Member Status                   | Definition                                                                            | Success  |
 |:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
 | No Action                       | default starting position for all records                                             |          |
-| Attended               | LEAD or CONTACT record that has been identified for marketing campaign prospecting          | Yes      |
+| Registered                      | Registered for the event                                                              |          |      
+| No Show                         | Registered, but did not attend the event                                              |          |
+| Attended                        | Attended the Event                                                                    | Yes      |
+| Follow Up Requested             | Had conversation with speaker or requested additional details to be sent post event   | Yes      |
 
 
 
