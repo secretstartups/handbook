@@ -13,6 +13,12 @@ title: "Milestones project management guidelines"
 
 ## Background
 
+There are two concepts of time-based tracking in GitLab.
+* [Milestones](/handbook/marketing/project-management-guidelines/milestones/#milestones): useful for tracking the progress of multiple issues across a specific time period, and when planning and managing epics.
+* [Iterations](/handbook/marketing/project-management-guidelines/milestones/#iterations): useful for planning agile or agile-like sprints to capture action items to be completed within a specific time period.
+
+##Milestones
+
 [Milestones](https://docs.gitlab.com/ee/user/project/milestones/) are a great way to track the progress of multiple related issues across a specific time period.  With milestones, you can see how fast issues are being completed in that time period ([burndown chart](https://docs.gitlab.com/ee/user/project/milestones/burndown_charts.html)), and you can view the issues grouped by labels, and grouped by status (unassigned, assigned, and completed)
 
 Milestones are **very useful** when tracking the progress of multiple issues and when planning and managing epics.
@@ -73,12 +79,12 @@ Because the milestone does not yet include change history or details about who c
 
 - In the description field describe the purpose of the milestone and who is milestone owner/manager
 
-### Milestones
+### Milestones Details
 
 - **Use for**: larger units of work (in scope and duration) that resemble a release. E.g. an executive topic or campaign
 - **Implement with**: [milestones](https://docs.gitlab.com/ee/user/project/milestones/)
 - **Time and duration**: variable
-- **Naming convention**: `teamprefix: MilestoneName` (e.g. `MPM: an integrated campaign`)
+- **Naming convention**: `teamprefix: MilestoneName`
 - **Issue management**: via workflow and iteration issue boards
 - **Scope**: default to lowest scope. Define at the [top `marketing` group](https://gitlab.com/groups/gitlab-com/marketing/-/milestones/) for executive topics and integrated campaigns.
 
@@ -88,12 +94,22 @@ Recommended dates and duration: it depends, though shorter is often better. Beca
 
 Every team and every project is unique and there is no one answer for milestone duration.  Some teams have had milestones as long as a quarter, others 4 weeks and others 1 week.  Choose the duration that works for your team, learn, and evolve.
 
-### Iterations
+## Iterations
+
+### Define iterations at highest level required
+
+Define iterations at the HIGHEST level required of the organization as possible (for a cohsive approach using the same time-basis).
+
+### Iteration Naming Convention - Mktg in name
+
+A consistent **Naming Convention** is helpful to ensure similar iterations (i.e. not including `Mktg:` are used by only the Marketing department at GitLab.
+
+### Iterations Details
 
 - **Use for**: planning agile or agile-like sprints to capture tasks/user stories that can be completed within the iteration.
 - **Implement with**: [milestones](https://docs.gitlab.com/ee/user/project/milestones/) at present. After or during the 13.2 GitLab.com release [iterations](https://docs.gitlab.com/ee/user/group/iterations/) will be used instead ([the first Iterations MVC was shipped with GitLab 13.1 release](https://gitlab.com/groups/gitlab-org/-/epics/2422).
 - **Time and duration**: 2 weeks, from Mondays to the following Sunday
-- **Naming convention**: `MK YY-MM-DD`, with the ISO-formatted date being the end date of the milestone. `MK:` allows for filtering out only the Marketing-wide iterations, and the ISO date can help further filtering on month/day when assigning the milestone to an issue.
+- **Naming convention**: `Mktg: YYYY-MM-DD`, with the ISO-formatted date being the **end date** of the milestone. `Mktg:` allows for filtering to only the Marketing-wide iterations, and the ISO date can help further filtering on month/day when assigning the milestone to an issue.
 - **Issue management**: via [workflow](/handbook/marketing/project-management-guidelines/boards/#workflow-board) and [iteration](/handbook/marketing/project-management-guidelines/boards/#iteration-board) issue boards
 - **Scope**: defined at the [top `marketing` group](https://gitlab.com/groups/gitlab-com/marketing/-/milestones/), essentially for executive topics and integrated campaigns, but it is encouraged that all groups in Marketing use this one set of iterations for a unified workflow. These are the only iterations that will be defined at this level.
 
