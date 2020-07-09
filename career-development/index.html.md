@@ -277,7 +277,11 @@ A limited [internship pilot](/handbook/engineering/internships/) is launching in
 
 ## Apprenticeships
 
-Sometimes, a member of the GitLab team might want to experience working in a new role without making a permanent change. If the department they want to learn more about can support this effort, then this offers a good opportunity for an apprenticeship. 
+Sometimes, a member of the GitLab team might want to experience working in a new role without making a permanent change. If the department they want to learn more about can support this effort, then this offers a good opportunity for an apprenticeship.
+
+Eligibility criteria:
+* Your are excelling in your role (no performance issues)
+* You have been working full time with GitLab for at least 6 months
 
 The apprentice agrees to:
 
@@ -295,6 +299,8 @@ In return, the department with which they are apprenticing agrees to:
 By default, apprenticeships last for 6 months. At the end of 6 months, both the apprentice and the department will determine whether it makes sense to extend the timeframe further.
 
 If you wish to apprentice with an Engineering team, start by speaking with your manager.
+
+**Important**: The Apprenticeship program should differ from any situations where there is actual temporary or permanent [realignment/redeployment/secondment](https://about.gitlab.com/handbook/people-group/promotions-transfers/#realignment-of-resources-impacting-multiple-team-members) as a result of changing business needs. If you are unsure whether your situation is aligned with the Apprenticeship program or falls into a resources realignment, please discuss with your aligned [People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division). 
 
 ## Junior Engineers
 
