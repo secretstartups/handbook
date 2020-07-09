@@ -35,7 +35,7 @@ Topics are in alphabetical order with team members grouped by region.
 | ------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Docker        | AMER   | Harish <br> Cody West <br> Caleb W. <br> Davin <br> Lewis                                                                                             |
 |               | APAC   | Julian <br> Priyan <br> Athar                                                                                                                                    |
-|               | EMEA   | Catalin                                                                                                                                               |
+|               | EMEA   | Catalin <br> Rehab                                                                                                                                               |
 | ElasticSearch | AMER   | Blair <br> Michael Lussier <br> JasonC                                                                                                                |
 | Git LFS       | AMER   | Diana <br> Will <br> Lewis                                                                                                                            |
 |               | EMEA   | Ben                                                                                                                                                   |
@@ -44,12 +44,13 @@ Topics are in alphabetical order with team members grouped by region.
 |               | EMEA   | Catalin                                                                                                                                               |
 | Kubernetes    | AMER   | Harish <br> JasonC <br> Michael Lussier <br> Thiago <br> Caleb W. <br> JasonY <br> Lewis                                                              |
 |               | APAC   | Alex Tanayno <br> Julian <br> Arihant <br> Priyan                                                                                                     |
+|               | EMEA   | Rehab                                                                                                     |
 | Linux         | AMER   | Greg <br> Keven <br> Gabe <br> Cody West <br> James Lopes <br> Will <br> Davin <br> Lewis <br> Tom H                                                           |
-|               | EMEA   | Ben <br> David Wainaina <br> Catalin                                                                                                                  |
+|               | EMEA   | Ben <br> David Wainaina <br> Catalin <br> Rehab                                                                                                                  |
 |               | APAC   | Mike <br> Priyan <br> Athar                                                                                                                                      |
 | Omnibus       | AMER   | Aric <br> Diana <br> Greg <br> Harish <br> John <br> Nathan <br> Gabe <br> Cody West <br> Keven <br> Davin <br> JasonY <br> Lewis <br> Brie <br> Phil |
 |               | APAC   | AlexS <br> Anton <br> Weimeng <br> Mike <br> Priyan <br> Athar                                                                                                   |
-|               | EMEA   | Catalin                                                                                                                                               |
+|               | EMEA   | Catalin  <br> Rehab                                                                                                                                             |
 | Performance   | AMER   | Will <br> Cody West                                                                                                                                   |
 |               | EMEA   | Catalin                                                                                                                                               |
 
@@ -73,7 +74,7 @@ If you need help with scripting for fixes, internal tools, or any other reason.
 | Ansible                 | APAC   | Wei-Meng Lee <br> Julian <br> Mike <br> Priyan <br> JasonY <br> Athar     |
 | Zendesk app development | EMEA   | DeAndre                                                                   |
 | Bash                    | APAC   | Mike <br> Priyan                                                          |
-|                         | EMEA   | David Wainaina <br> Catalin                                               |
+|                         | EMEA   | David Wainaina <br> Catalin <br> Rehab                                               |
 |                         | AMER   | Davin <br> Lewis                                                          |
 | Python                  | APAC   | Matthew <br> Athar                                                        |
 |                         | EMEA   | Catalin                                                                   |
@@ -100,6 +101,7 @@ This section is ordered by stage and group according to the [product categories 
 | Topic          | Region | Team Member |
 | -------------- | ------ | ----------- |
 | Project Import | AMER   | Cynthia     |
+|                | EMEA   | Rehab       |
 
 #### Plan
 
@@ -216,7 +218,7 @@ This section is ordered by stage and group according to the [product categories 
 | Secrets Management    | Amer   | JamesM                                           |
 | Release Evidence      | Amer   | JamesM                                           |
 | GitLab Pages          | Amer   | John <br> Keven <br> JamesM <br> Brie <br> Davin |
-|                       | EMEA   | Catalin                                          |
+|                       | EMEA   | Catalin <br> Rehab                               |
 
 #### Configure
 
@@ -293,6 +295,6 @@ This section is ordered by stage and group according to the [product categories 
 | PostgreSQL          | EMEA   | Ben         |
 |                     | AMER   |             |
 |                     | APAC   | Mike        |
-| Database Migrations | EMEA   |             |
+| Database Migrations | EMEA   | Rehab       |
 |                     | AMER   |             |
 |                     | APAC   |             |
