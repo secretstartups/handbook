@@ -206,8 +206,9 @@ graph TD
   A1(Design Issue)
   A2[Provide input<br>and design<br>adjustments]
   A3([Provide input<br>on technical<br>feasibility, sizing])
-  A4a(["Creates<br>Feature Issue(s)"])
-  A4(["Creates<br>Implementation Issue(s)"])
+  A4(["Optionally Creates<br>MVC Epic(s)"])
+  A4a["Optionally Creates<br>MVC Feature Issue(s)"]
+  A4b(["Creates<br>Implementation Issue(s)"])
   A5["Feature Epic<br>(final design)"]
   A6("Design Issue<br>(closed)")
   A7(["Implementation Issue(s)<br>(refined)"])
@@ -219,15 +220,15 @@ graph TD
   A1 --> A5
   A1 --> A2 --> A1
   A2 --> A3 --> A2
-  A3 --> A4a --> A4 --> A5 --- A6
+  A3 --> A4 --> A4a --> A4b --> A5 --- A6
   A5 --> A7 --> A9
   A7 --- A8
 
   classDef idea fill:#ffffff,stroke:#19957C;
-  class A1,A4a,A4,A6,A7 idea
+  class A1,A4b,A6,A7 idea
 
   classDef feature fill:#ffffff,stroke:#0C7CBA;
-  class A0,A5,A9,A9b feature
+  class A0,A4,A4a,A5,A9,A9b feature
 
   classDef plain fill:#ffffff,stroke:#000000;
   class A2,A3,A8,A10 plain
@@ -246,6 +247,11 @@ child Implementation Issues are delivered. Final requirements and design assets,
 copied here from the Design Issue for reference; at this point the Design Issue is closed. The Epic
 is closed when all Issues are delivered.
 
+**MVC Feature Epics**
+When a Feature Epic and it's associated Design Issue is large enough to break into mulitple MVCs, multiple MVC Feature Epics will be created. 
+
+
+
 **Feature Issues**
 
 All Feature Issues rolling-up to the Feature Epic are their own
@@ -262,8 +268,23 @@ Implementation issues allow each Feature Issue to be broken into small, discrete
 Whenever possible, Implementation Issues should also be independently-releasable and provide value to the customer. 
 When they have to be grouped with other Implementatation Issues, a feature branch should be created to merge the dependant pieces of work together prior to merging into the default branch.  
 
-Here is the structure of a generic Design Issue, Feature Epic, Feature Issue(s), Implementation Issue(s) breakdown: 
+**Structure of a Singluar MVC Feature**
+```mermaid
+graph LR;
+Feature_Epic[Feature Epic]-->Design_Issue(Design Issue);
 
+Feature_Epic[Feature Epic]-->Feature_Issue[Feature Issue];
+Feature_Epic[Feature Epic]-->FE1_Implementation_Issue([FE Implementation Issue]);
+Feature_Epic[Feature Epic]-->BE1_Implementation_Issue([BE Implementation Issue]);
+Feature_Epic[Feature Epic]-->BE2_Implementation_Issue([BE Implementation Issue #2]);
+
+classDef feature fill:#ffffff,stroke:#0C7CBA;
+class Feature_Epic,MVC1_Epic,MVC2_Epic,Feature_Issue feature
+classDef idea fill:#ffffff,stroke:#19957C;
+class Design_Issue,FE1_Implementation_Issue,BE1_Implementation_Issue,BE2_Implementation_Issue idea
+```
+
+**Structure of a Multiple MVC Feature**
 ```mermaid
 graph LR;
 Feature_Epic[Feature Epic]-->Design_Issue(Design Issue);
@@ -280,9 +301,9 @@ MVC2_Epic-->MVC2_BE1_Implementation_Issue([BE Implementation Issue]);
 MVC2_Epic-->MVC2_BE2_Implementation_Issue([BE Implementation Issue #2]);
 
 classDef feature fill:#ffffff,stroke:#0C7CBA;
-class Feature_Epic,MVC1_Epic,MVC2_Epic feature
+class Feature_Epic,MVC1_Epic,MVC2_Epic,MVC2_Feature_Issue,MVC1_Feature_Issue feature
 classDef idea fill:#ffffff,stroke:#19957C;
-class Design_Issue,MVC1_Feature_Issue,MVC1_FE1_Implementation_Issue,MVC1_BE1_Implementation_Issue,MVC2_Feature_Issue,MVC2_FE1_Implementation_Issue,MVC2_BE1_Implementation_Issue,MVC2_BE2_Implementation_Issue idea
+class Design_Issue,MVC1_FE1_Implementation_Issue,MVC1_BE1_Implementation_Issue,MVC2_FE1_Implementation_Issue,MVC2_BE1_Implementation_Issue,MVC2_BE2_Implementation_Issue idea
 ```
 
 The Engineering Manager is responsible for ensuring these are created, refined and contain
