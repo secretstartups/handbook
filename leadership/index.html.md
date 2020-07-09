@@ -240,7 +240,7 @@ In an all-remote organization, we want each team member to be a [manager of one]
 1. It reduces compensation costs, coordination costs, and office politics.
 1. The disadvantage is that your manager has a limited amount of time for you and probably has less experience managing people.
 1. To mitigate these disadvantages we should offer ample training, coaching, support structures, and processes to ensure our managers can handle these tasks correctly and in a limited amount of time.
-1. Everyone deserves a great manager that helps you with your career. They should let you know when you should improve, hire a great team, and motivate and coach you to get the best out of you.
+1. Everyone deserves a great manager that helps them with their career. A manager should hire a great team, should let you know when to improve, motivate and coach you to get the best out of you.
 1. "Nuke all matrices. Nuke all dual reporting structures. And nuke as many shared services functions as you possibly can." from the great [guide to big companies from Marc Andreessen](http://pmarchive.com/guide_to_big_companies_part2.html) (the other guides are awesome too).
 1. We recommend reading [High Output Management](/handbook/leadership/#books), and its author coined Grove's law: All large organizations with a common business purpose end up in a hybrid organizational form. We believe a dual reporting structure is inevitable, we just want to delay it as long as possible.
 1. We do make features with a [DevOps stage group](/company/team/structure/#groups) that is a collection of teams and [stable counterparts](/company/team/structure/#specialist).
