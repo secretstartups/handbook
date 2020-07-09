@@ -1058,7 +1058,9 @@ Furthermore, we shouldnâ€™t judge team members who are perceived as being the â€
 At GitLab, we [measure results, not hours](/handbook/values/#measure-results-not-hours). 
 As long as a team member is producing required results, they are empowered to decide how to spend their time. 
 
-On the other hand, as GitLab grows in size, we need to make decisions and the decisions may not be agreed to by everyone.  If a decision or project is sensitive or controversial, and receives large amounts of feedback, it can be challenging for the project DRI to handle. We need to think about how to address that challenge - for example, the manager of the project owner may need to get involved to help route the feedback, or we may need to ask team members to submit their feedback to their managers first. 
+On the other hand, as GitLab grows in size, we need to make decisions and the decisions may not be agreed to by everyone.  
+If a decision or project is sensitive or controversial, and receives large amounts of feedback, it can be challenging for the project DRI to handle. 
+We need to think about how to address that challenge - for example, the manager of the project owner may need to get involved to help route the feedback, or we may need to ask team members to submit their feedback to their managers first. 
 
 
 
