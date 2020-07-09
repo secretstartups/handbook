@@ -158,6 +158,7 @@ We plan in monthly cycles in accordance with our [Product Development Timeline](
 * By the 4th, Product should have created a planning issue for their group in the [Manage project](https://gitlab.com/gitlab-org/manage/issues) for the coming release.
   * This issue should include a tentative plan for the release, along with links to boards that represent the proposed work for the milestone. Please see examples from [Fulfillment](https://gitlab.com/gitlab-org/fulfillment-meta/issues/37), [Manage](https://gitlab.com/gitlab-org/manage/issues/65), and [Create](https://gitlab.com/gitlab-org/create-stage/issues/33)!
   * Issues without estimates should have the `workflow::planning breakdown` label applied to make estimation easier and be marked for the coming release as `Deliverable`. Issues of particular significance to our stage's strategy should be marked with `direction`.
+  * At this stage, the Product Manager applies the `quad-planning::ready` label to all `feature` issues and assigns them to the SET counterpart for the group. 
   * To review the proposed scope and kick start estimation, synchronous meetings with Engineering and Design are recommended.
 * By the 12th, all planned issues proposed for the next release should be estimated by engineering (`workflow:ready for development`).
   * To assist with capacity planning, we track the cumulative weight of closed issues over the past 3 releases on a rolling basis. The proposed scope of work for the next release should not exceed 80% of this to account for slippage from the previous release.
@@ -228,6 +229,16 @@ Engineers who are part of the rota should work from [this board](https://gitlab.
 | 13.4 | [ifarkas](https://gitlab.com/ifarkas) |   |
 | 13.5 | [alexpooley](https://gitlab.com/alexpooley) | [manojmj](https://gitlab.com/manojmj)  |
 
+#### Refinement
+
+To help with milestone planning, we encourage asynchronously weighing issues to help get them `ready for development`.
+
+1. Engineering Manager will review the [Refinement Board](https://gitlab.com/groups/gitlab-org/-/boards/1747837) on a weekly basis.
+1. Each Engineer is assigned a few issues per week from the board to be weighed as per the [estimation](#estimation) process. Where possible, the people closest to the problem will be assigned.
+1. The Engineer assesses issue to determine if it is `workflow:ready for development` or not. Clarifying questions are asked on the issue. Product Manager adjusts description and scope as needed. This process may take a few days and the objective is to have an issue defined well enough to be estimated.
+1. Once all questions are answered and issue is understood well enough, Engineering assigns a weight to the issue.
+1. To encourage collaboration, the Engineer will pick someone else from the team (at random) to review the discussion.
+1. If the reviewer is happy with the weight and scope they will set the `workflow:ready for development` label. Alternatively they should raise their concerns in the issue.
 
 ### Group Import - additional considerations 
 
