@@ -243,42 +243,42 @@ We demonstrate collaboration when we take action to help others and include othe
 
 <table class="tg">
   <tr>
-    <th class="tg-0lax">Level</th>
+    <th class="tg-0lax">[Grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)</th>
     <th class="tg-0lax">Demonstrates Collaboration Competency by…</th>
     <th class="tg-0lax">Knowledge Assessment<br></th>
   </tr>
   <tr>
-    <td class="tg-0lax">Junior/Associate</td>
+    <td class="tg-0lax">5</td>
     <td class="tg-0lax">Develops collaboration skills by learning from other team members</td>
     <td class="tg-0lax" rowspan="3"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdeehhYsNgUapGmQjq9LDsXnwhFVU4uIy0SSYQ3Dks85IG0BQ/viewform">Knowledge Assessment for Individual Contributors</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Intermediate</td>
+    <td class="tg-0lax">6</td>
     <td class="tg-0lax">Grows collaboration skills by using different types of communication; files issues appropriately, asks in the right Slack channels and uses the right labels.</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><br>Senior</td>
+    <td class="tg-0lax"><br>7</td>
     <td class="tg-0lax">Models collaborative behavior for fellow team members and others within the group.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Staff/Manager</td>
+    <td class="tg-0lax">8</td>
     <td class="tg-0lax">Coaches team members on how to collaborate more effectively and pointing team members to the right channels to collaborate.</td>
     <td class="tg-0lax" rowspan="6"><a href="https://docs.google.com/forms/d/e/1FAIpQLSd09nkhy80zAziFbdDgaq7LLqJD_LFxPloyPhVSBZjf1Ghgug/viewform">Knowledge Assessment for People Leaders</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Senior Manager</td>
+    <td class="tg-0lax">9</td>
     <td class="tg-0lax">Fosters collaborative decision making and problem solving across the departments.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Director</td>
+    <td class="tg-0lax">10</td>
     <td class="tg-0lax">Drives team collaboration across divisions/departments, silos, and division boundaries.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Senior Director</td>
+    <td class="tg-0lax">11</td>
     <td class="tg-0lax">Develops networks and builds partnerships, engages in cross-functional activities; collaborates across boundaries, and finds common ground with a widening range of stakeholders.  Utilizes contacts to build and strengthen internal support base</td>
   </tr>
   <tr>
-    <td class="tg-0lax">VP</td>
+    <td class="tg-0lax">12</td>
     <td class="tg-0lax">Leads collaboration and teamwork in daily routines, prioritizing interactions, information sharing, and real time decision making across divisions/departments. Encourages greater cross-functional collaboration among e-team leaders.</td>
   </tr>
   <tr>
@@ -370,42 +370,42 @@ We demonstrate results when we do what we promised to each other, customers, use
 
 <table class="tg">
   <tr>
-    <th class="tg-0lax">Level</th>
+    <th class="tg-0lax">[Grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)</th>
     <th class="tg-0lax">Demonstrates Results Competency by…</th>
     <th class="tg-0lax">Knowledge Assessment<br></th>
   </tr>
   <tr>
-    <td class="tg-0lax">Junior/Associate</td>
+    <td class="tg-0lax">5</td>
     <td class="tg-0lax">Develops the skills needed to commit and execute on agreed actions.</td>
     <td class="tg-0lax" rowspan="3"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfcsI30XAW3hjwzlpo-HV6g_uZUIa-cqxJgEdiNfdHADBpsTQ/viewform">Knowledge Assessment for Individual Contributors</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Intermediate</td>
+    <td class="tg-0lax">6</td>
     <td class="tg-0lax">Applies commitment to results and demonstrates ability to execute on agreed actions.</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><br>Senior</td>
+    <td class="tg-0lax"><br>7</td>
     <td class="tg-0lax">Models a sense of urgency and commitment to deliver results.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Staff/Manager</td>
+    <td class="tg-0lax">8</td>
     <td class="tg-0lax">Coaches team members to collaborate and work iteratively towards results with the focus on the outcome and not hours worked.</td>
     <td class="tg-0lax" rowspan="6"><a href="https://docs.google.com/forms/d/e/1FAIpQLSf9ZFJb3Fx86rI_Fmk1X88jSuDDvz9p4WLTfBmkYCmgrFDOgw/viewform">Knowledge Assessment for People Leaders</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Senior Manager</td>
+    <td class="tg-0lax">9</td>
     <td class="tg-0lax">Fosters a culture of ownership of personal performance.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Director</td>
+    <td class="tg-0lax">10</td>
     <td class="tg-0lax">Drives efficient execution of results ensuring collaboration between team members.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Senior Director</td>
+    <td class="tg-0lax">11</td>
     <td class="tg-0lax">Develops quarterly OKR's ensuring the performance and results of one or more teams.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">VP</td>
+    <td class="tg-0lax">12</td>
     <td class="tg-0lax">Leads the achievement of results while driving the continued alignment to our values of collaboration, efficiency, diversity, iteration and transparency.</td>
   </tr>
   <tr>
@@ -494,42 +494,42 @@ We demonstrate efficiency when we work on the right things, not doing more than 
 
 <table class="tg">
   <tr>
-    <th class="tg-0lax">Level</th>
+    <th class="tg-0lax">[Grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)</th>
     <th class="tg-0lax">Demonstrates Efficiency Competency by…</th>
     <th class="tg-0lax">Knowledge Assessment<br></th>
   </tr>
   <tr>
-    <td class="tg-0lax">Junior/Associate</td>
+    <td class="tg-0lax">5</td>
     <td class="tg-0lax">* Developing an understanding of being a manager of 1: Take responsibility for your own tasks and deliver on commitments <br> * Brings up ideas for process improvements to 1:1s. * Learns to write everything down as it is far more efficient to read a document at your convenience than to have to ask and explain.</td>
     <td class="tg-0lax" rowspan="3"><a href="https://docs.google.com/forms/d/e/1FAIpQLSes0ht9Zj8_bijft2WQmGH4wbmTtzs-ArFHbWoF5H8EiRNI8w/viewform">Knowledge Assessment for Individual Contributors</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Intermediate</td>
+    <td class="tg-0lax">6</td>
     <td class="tg-0lax">* Has a growing understanding of efficiency and is acting by surfacing process inefficiencies in the team <br> * Seeks out ways to be more effective in their role, while also starting to mentor others in ways to work efficiently.</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><br>Senior</td>
+    <td class="tg-0lax"><br>7</td>
     <td class="tg-0lax">* Models a culture of efficiency within the team where people make good, timely decisions using available data and assessing multiple alternatives <br> * Models using boring solutions for increasing the speed of innovation for our organization and product </td>
   </tr>
   <tr>
-    <td class="tg-0lax">Staff/Manager</td>
+    <td class="tg-0lax">8</td>
     <td class="tg-0lax">* Takes ownership of own team process inefficiencies, implements cross team efforts in ensuring things are running smoothly <br> Implements a way of working in the team where team members first search for their own answers and, if an answer is not readily found or the answer is not clear, ask in public as we all should have a low level of shame</td>
     <td class="tg-0lax" rowspan="6"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc45Yrl0FbXOJ27DMFec8L7b7I_Egtlgd7CUeRj2GQCdBhe2g/viewform">Knowledge Assessment for People Leaders</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Senior Manager</td>
+    <td class="tg-0lax">9</td>
     <td class="tg-0lax">* Takes ownership of group level process inefficiencies, guides cross sub-departments in ensuring things are running smoothly <br> Fosters a culture in the sub-departments where you respect others' time and promote self-service and self-learning</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Director</td>
+    <td class="tg-0lax">10</td>
     <td class="tg-0lax">* Drives the framework of frugality on a department level and owns departments efforts in ensuring things are running smoothly <br> * Drives efficient resolution of highly complex or unusual business problems that impact the department / team. Holds their managers and peers accountable for upholding this value</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Senior Director</td>
+    <td class="tg-0lax">11</td>
     <td class="tg-0lax">* Develops the framework and strategy of frugality cross division.  Resulting in efforts ensuring things are running smoothly <br> * Develops leaders to action on division/department/team inefficiencies. Hold their management teams accountable for upholding this value.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">VP</td>
+    <td class="tg-0lax">12</td>
     <td class="tg-0lax">* Leads with efficiency across the company. Ensures efficient resource allocation decisions across the company <br> * Leads across company strategy and policy improvements that move the business towards more efficiency. They hold their senior management and the e-group accountable for upholding this value</td>
   </tr>
   <tr>
@@ -649,42 +649,42 @@ If you would like to improve your skills or expand your knowledge on topics rela
 
 <table class="tg">
   <tr>
-    <th class="tg-0lax">Level</th>
+    <th class="tg-0lax">[Grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)</th>
     <th class="tg-0lax">Demonstrates Diversity &amp; Inclusion Competency by…</th>
     <th class="tg-0lax">Knowledge Assessment<br></th>
   </tr>
   <tr>
-    <td class="tg-0lax">Junior/Associate</td>
+    <td class="tg-0lax">5</td>
     <td class="tg-0lax">Develops an understanding of the impact of biases; seeks to learn more about their own biases. Is accountable for their actions, apologizes and learns from their mistakes.</td>
     <td class="tg-0lax" rowspan="3"><a href="https://docs.google.com/forms/d/e/1FAIpQLScwmN71M4BR3wHgHP7niVllo70BY2HT1nM2uxsxHc4Mz7cRcA/viewform">Knowledge Assessment for Individual Contributors</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Intermediate</td>
+    <td class="tg-0lax">6</td>
     <td class="tg-0lax">Has a growing understanding of the impact of biases; fosters a sense of inclusion and belonging on their team. Holds themselves and peers accountable for upholding this value by kindly pointing out when mistakes might be made. Encourages an inclusive team environment where differences are encouraged and everyone can contribute.</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><br>Senior</td>
+    <td class="tg-0lax"><br>7</td>
     <td class="tg-0lax">Actively aware of how bias or exclusion might occur on a team and helps to facilitate a team environment where team members belong and feel safe. Models empathy with their interactions with customers and cross functional team members.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Staff/Manager</td>
+    <td class="tg-0lax">8</td>
     <td class="tg-0lax">Implements best practices to limit bias on their team. They ensure blameless accountability is practiced throughout their team. Creates an environment where team members feel safe to share ideas and welcomes individual differences.</td>
     <td class="tg-0lax" rowspan="6"><a href="https://docs.google.com/forms/d/e/1FAIpQLSel_U-audrhPvDlHFAbxF7Jvn5prDns2p8iGzWOTbL1oGraxg/viewform">Knowledge Assessment for People Leaders</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Senior Manager</td>
+    <td class="tg-0lax">9</td>
     <td class="tg-0lax">Proactively finds ways of facilitating an inclusive team environment and assesses processes to protect against unconscious bias. They hold their team members accountable including cross functional stakeholders. Promotes individual differences across their team and other departments.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Director</td>
+    <td class="tg-0lax">10</td>
     <td class="tg-0lax">Drives diversity, inclusion and sense of belonging across their department. They hold their managers and peers accountable for upholding this value. They are actively involved in the execution of D&amp;I strategies and encourage others to participate.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Senior Director</td>
+    <td class="tg-0lax">11</td>
     <td class="tg-0lax">Embeds the value of Diversity &amp; Inclusion across their division and finds opportunities to limit the impact of bias on decision making processes. Uses feedback and data to formulate a strategy on how to make improvements. They hold their management teams accountable for upholding the value.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">VP</td>
+    <td class="tg-0lax">12</td>
     <td class="tg-0lax">Leads with the value of Diversity &amp; Inclusion across the company and finds opportunities to limit the impact of bias on decision making processes. They sponsor internal initiatives to increase trust, psychological safety and inclusion. They hold their senior management and the e group accountable for upholding this value.</td>
   </tr>
   <tr>
@@ -819,42 +819,42 @@ We demonstrate iteration when we do the smallest thing possible, getting it out 
 
 <table class="tg">
   <tr>
-    <th class="tg-0lax">Level</th>
+    <th class="tg-0lax">[Grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)</th>
     <th class="tg-0lax">Demonstrates Iteration Competency by…</th>
     <th class="tg-0lax">Knowledge Assessment<br></th>
   </tr>
   <tr>
-    <td class="tg-0lax">Junior/Associate</td>
+    <td class="tg-0lax">5</td>
     <td class="tg-0lax">Develops own knowledge by trying and failing. When asking questions isn't content with silence or unhelpful/incomplete responses, seeks out primary sources.</td>
     <td class="tg-0lax" rowspan="3"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfkD0zgXArA0ul26LPexcWpg4HDoqdAUTgepf8uSW1p3WXz6w/viewform">Knowledge Assessment for Individual Contributors</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Intermediate</td>
+    <td class="tg-0lax">6</td>
     <td class="tg-0lax">Actively looks for opportunities to iterate and contribute to boring solutions. Balances short term gains and long term benefit with team’s help. Ships things that aren't 100% knowing that you'll either be able to improve them in the next revision. Asks questions with abandon. Publicly shares failures if you'll help colleagues learn.</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><br>Senior</td>
+    <td class="tg-0lax"><br>7</td>
     <td class="tg-0lax">Independently balances short term gains and long term benefit. Identifies opportunities to  model the processes around iteration. If a colleague privately asks a question, asks the question in a public channel (if they don't know the answer). Models a growth-mindset by exposing the limits of your knowledge and demonstrating the machine you've built to fill those gaps.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Staff/Manager</td>
+    <td class="tg-0lax">8</td>
     <td class="tg-0lax">Is able to take long term goals and turn them into small actionable steps that can be implemented in an iterative way. Identifies and prevents decisions that are not “two-way door decisions”. Ships. All the time. Sounds like a broken record in discussions with more junior members of the team; always asking if we can make something smaller.</td>
     <td class="tg-0lax" rowspan="6"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdbstfn78uKNKfeDOCEY3Nr4O1q8plcqoDDvttlLR9fMOmRfQ/viewform">Knowledge Assessment for People Leaders</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Senior Manager</td>
+    <td class="tg-0lax">9</td>
     <td class="tg-0lax">In addition to upholding the requirements of a Staff/Manager level, a Sr. Manager practices and fosters the value of iteration to team members. They hold their team members accountable for iteration and boring solutions.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Director</td>
+    <td class="tg-0lax">10</td>
     <td class="tg-0lax">In addition to upholding the requirements of a Sr. Manager, a Director proactively finds ways to drive the value of iteration and boring solutions.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Senior Director</td>
+    <td class="tg-0lax">11</td>
     <td class="tg-0lax">In addition to upholding the requirements of a  Director , a Sr. Director embeds the value of Iteration across the department and division.  They use their cognitive and analytical abilities to anticipate and adapt to unpredictabilities in regards to strategic risk in a way that benefits all involved.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">VP</td>
+    <td class="tg-0lax">12</td>
     <td class="tg-0lax">In addition to upholding the requirements of a Sr. Director , a VP leads the way for the value of Iteration across the division and cross functional teams. They confidently lead their teams through change and proactively take risks based on values and the strategic vision.</td>
   </tr>
   <tr>
@@ -972,42 +972,42 @@ We demonstrate transparency when we are open with as many things as possible red
 
 <table class="tg">
   <tr>
-    <th class="tg-0lax">Level</th>
+    <th class="tg-0lax">[Grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)</th>
     <th class="tg-0lax">Demonstrates Transparency Competency by…</th>
     <th class="tg-0lax">Knowledge Assessment<br></th>
   </tr>
   <tr>
-    <td class="tg-0lax">Junior/Associate</td>
+    <td class="tg-0lax">5</td>
     <td class="tg-0lax">Uses public issue trackers, projects, and repositories when possible. Looks for opportunities to publicly share the things that they are working on.</td>
     <td class="tg-0lax" rowspan="3"><a href="https://docs.google.com/forms/d/e/1FAIpQLSci4NyS50rWLyVSV0NJTlqX4b9F1hyPkLRWtM9e3ubF_ewZIA/viewform">Knowledge Assessment for Individual Contributors</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Intermediate</td>
+    <td class="tg-0lax">6</td>
     <td class="tg-0lax">Provides context and background on projects and issues so that those with no prior knowledge are able to contribute to the discussion. They welcome feedback and new ideas as they know that will lead to a better solution.</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><br>Senior</td>
+    <td class="tg-0lax"><br>7</td>
     <td class="tg-0lax">Continually surfaces improvements across their functional area of expertise. They share feedback with others and understand how to disagree and commit to final solutions. They model what it means to be as open as possible.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Staff/Manager</td>
+    <td class="tg-0lax">8</td>
     <td class="tg-0lax">Implements open processes across their team. They also track team issues and projects openly so their team members are aware of everything that is happening on a team at a given time. They leverage feedback to drive the best possible outcomes with the information they have available. They also share feedback with their team and their peers in a timely, kind manner so their position on a given topic is known.</td>
     <td class="tg-0lax" rowspan="6"><a href="https://docs.google.com/forms/d/e/1FAIpQLScSQzcpEOYCUvpeb0l1YdDFWrxQ2hzCqqCxjqsLyylJPVub6Q/viewform">Knowledge Assessment for People Leaders</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Senior Manager</td>
+    <td class="tg-0lax">9</td>
     <td class="tg-0lax">Fosters and coaches openness across cross functional departments. They lead cross functional issues, projects and ideas inviting feedback to generate the best possible solution. They hold their teams accountable to continue to find opportunities to share things openly. They give feedback to their team members, peers and managers in a timely, kind manner so their position on a topic is known.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Director</td>
+    <td class="tg-0lax">10</td>
     <td class="tg-0lax">Drives their departmental strategy with openness as a key value. They hold their management team accountable to working openly and pushes them to make everything transparent even when it might be difficult to do so. They coach managers on the value that additional feedback can bring to the end solution.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Senior Director</td>
+    <td class="tg-0lax">11</td>
     <td class="tg-0lax">Develops leaders that work openly and continue to provide timely, kind feedback across their division. They develop leaders that drive their teams with openness as a foundational part of the way that they operate.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">VP</td>
+    <td class="tg-0lax">12</td>
     <td class="tg-0lax">Leads the company by being open in all things. They are open with things that might traditionally not be shared broadly. They communicate directly and provide feedback in a timely manner to initiatives happening within their department and across the company. They hold the e group and other leaders accountable for upholding this value.</td>
   </tr>
   <tr>
