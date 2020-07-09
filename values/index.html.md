@@ -1043,7 +1043,10 @@ This section aims to provide some real world examples to show you how you can ap
 
 ### How to scale the business while preserving GitLab values? 
 
-**Scenario 1**: *For certain business decisions or projects, GitLab team members may have a lot of opinions and interest, and they want to provide their feedback and comments. On the other hand,  it might be challenging for the project DRI to digest and respond to all these inputs. What should you do in this scenario?*  
+**Scenario 1**: *For certain business decisions or projects, GitLab team members may have a lot of opinions and interest, 
+and they want to provide their feedback and comments. 
+On the other hand,  it might be challenging for the project DRI to digest and respond to all these inputs. 
+What should you do in this scenario?*  
 
 Everyone can contribute at GitLab. We encourage team members to share feedback and leave comments on issues. Leaving feedback and comments shows that team members care about a topic and about GitLab as a company. These perspectives may also uncover potential risks and problems in the project. 
 
