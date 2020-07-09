@@ -194,6 +194,9 @@ I'm planning to take Parental Leave, what should I do before my leave starts?
 How do I initiate my Parental Leave?
 * Submit your time off by selecting the Parental Leave category in PTO Ninja at least 30 days before your leave starts. Your manager and the Total Rewards team will get notified after you submit your leave. Please note, even though we have a "no ask, must tell" Parental Leave Policy, some countries require extra paperwork or notifications to a PEO so it's important that the Total Rewards team is aware of your leave at least 30 days before your leave starts.
 
+When does my four months of Parental Leave start?
+* This period starts on the first day that you take off. This day can be in advance of the day that the baby arrives.
+
 Do I have to take my Parental Leave in one continuous period?
 * No, we encourage you to plan and arrange your Parental Leave in a way that suits you and your family's needs. You may split your Parental Leave dates as you see fit, so long as it is within the 12 months of the birth or adoption date.
 
