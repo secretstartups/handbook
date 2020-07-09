@@ -5,7 +5,6 @@ title: Support Operations Processes
 
 # Support Operations Processes
 
-<!-- to be added as other MRs add these sections
 For a general overview of the day to day processes, see the
 [Support Operations Responsibility Checklist](responsibility_checklist.html).
 
@@ -13,15 +12,14 @@ For a general overview of the day to day processes, see the
 
 For GitLab specific processes, see [GitLab Processes](gitlab.html).
 
+<!--
 ## Pagerduty
 
 For Pagerduty specific processes, see [Pagerduty Processes](pagerduty.html).
-
+-->
 ## Zendesk
 
 For Zendesk specific processes, see [Zendesk Processes](zendesk.html).
-
--->
 
 ### Reviewing Feedback
 
