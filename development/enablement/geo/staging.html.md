@@ -62,11 +62,13 @@ The staging environment does not have the data (repositories, LFS Objects, uploa
 
 Every month, a Geo backend engineer will be responsible for monitoring Geo on staging and creating/escalating any issues. This is not an on-call shift and the staging rotation engineer is not required to fix any issues themselves. Prior to their rotation month, the incoming person should make sure they have SSH access to the staging environment and that they are set up to receive monitoring alerts.
 
-##### Rotation Schedule (Next 4 Months)
+##### Rotation Schedule
 
-| Month | Name             |
-| ----- | ------           |
-| May   | [`@mkozono`](https://gitlab.com/mkozono) |
-| June  | [`@toon`](https://gitlab.com/toon) |
-| July  | [`@dbalexandre`](https://gitlab.com/dbalexandre) |
-| August| (slot available) |
+| Month     | Name             |
+| -----     | ------           |
+| October   | [`@aakriti.gupta`](https://gitlab.com/aakriti.gupta) |
+| September | [`@alexives`](https://gitlab.com/alexives) |
+| August    | [`@vsizov`](https://gitlab.com/vsizov) |
+| July      | [`@dbalexandre`](https://gitlab.com/dbalexandre) |
+| June      | [`@toon`](https://gitlab.com/toon) |
+| May       | [`@mkozono`](https://gitlab.com/mkozono) |
