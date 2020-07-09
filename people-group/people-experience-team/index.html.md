@@ -9,9 +9,11 @@ title: "People Experience Team"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+# People Experience Team
+
 ## People Experience Team Availability
 
-Holidays with no availability for onboarding:
+Holidays with no availability for onboarding/offboarding/career mobility issues:
 
 | Date                        |
 |-----------------------------------|
@@ -25,7 +27,7 @@ Holidays with no availability for onboarding:
 - What urgent tasks are there that need to be reassigned:
 * Onboarding
 * Offboarding
-* Internal Transitions
+* Career Mobilities
 * Any other tasks
 - Is there anything else that we should be made aware of and contribute to whilst you are away?
 2. The People Experience Coordinator will then reassign tasks to an alternative People Experience Associate.
@@ -38,6 +40,37 @@ Holidays with no availability for onboarding:
 
 ## People Experience Team Processes
 
+### Weekly Rotations 
+
+The People Experience Team are currently trialling a task rotation on a weekly basis. The allocation tracker can be found in the [People Exp/Ops Tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e7a2c42#gid=2024040529). This will initially be trialled on a weekly rotation and then possibly moved to monthly. 
+
+A task will be allocated based on a ongoing team member rotation between all People Experience Associates. 
+
+The following factors will also be taken into consideration:
+
+- Scheduled PTO for the team members
+- Ensure that the tasks split evenly and fairly 
+- A tracker will be kept to track the data of how the tasks are split up
+
+The Rotation groups are listed as follows:
+
+- Letters of Employment / VOE / OSAT Feedback
+- Probation / Anniversary Queries / Gift Requests
+- BHR Onboarding Report / Moo Report
+- Allocations for Onboarding / Offboarding / Mobility
+
+#### Allocations for Onboarding
+
+- We always try and split evenly and fairly
+-  
+
+#### Allocations for Offboarding
+
+- Team has 24 hours to create and notify of the offboarding issue
+- The person that is in the allocation rotation will also add the offboarding to the PEA team calendar
+
+#### Allocations for Career Mobility 
+
 ### Audits 
 
 - Onboarding
@@ -45,6 +78,25 @@ Holidays with no availability for onboarding:
 - Transition
 - Probation Period
 - Referrals
+
+### Pulling of BambooHR Onboarding Data
+
+- Report is pulled every Monday and Wednesday
+Please list steps here for the process :) 
+
+### Anniversary Period Gift Queries
+
+Process will be included here (current and potentially new process)
+
+### Gift Requests
+
+When a team member completes the GitLab gift form request, the People Experience team receives an email to people-exp@domain.com to process the request. Most often, these are requests for flowers to be sent to another team member. Please see the below steps for guidance on how to process these requests:
+
+- Navigate and open the gift form requests in `Google spreadsheet`. 
+- Open the PeopleOps 1Password Vault and select `Gift & Flower Vendors` to gain access to the various vendors used. 
+- Place order and once confirmed, add data, including order confirmation link, to spreadsheet. 
+- Send the requesting team member an email or message in Slack to confirm that you have processed the request/order. 
+- Use the Gift [page](https://about.gitlab.com/handbook/people-group/#gifts) in the Handbook for any further information regarding the policy for gift order requests. 
 
 ### HelloSign
 
