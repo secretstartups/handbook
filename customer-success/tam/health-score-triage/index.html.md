@@ -36,7 +36,7 @@ Engagement, adoption and experiences are as expected or better than expected, de
 - Progressive adoption of GitLab use cases as defined by their success plan, considering their stage in their journey
 - Regular communication and engagement in meetings
 - Positive feedback on the product and experience and/or high scores on NPS surveys
-- Leveraging support services as defined by creation of tickets
+- Leveraging support services as defined by creation of tickets (1-5 tickets per month)
 - Interest in providing feedback and engaging with GitLab through other programs and events (e.g., Commit, CAB)
 
 #### Yellow
@@ -49,7 +49,7 @@ Engagement, adoption and/or experiences are lower than expected, risking GitLab'
 - Lack of engagement, responsiveness or participation in meetings and/or events
 - Changes of roles (e.g., sponsor or champion), organizational change or acquisition
 - Lack of adoption of releases (self-managed only) where they are more than a major release behind the current release
-- Not leveraging technical support services or has a large number of cases and/or high severity cases
+- Not leveraging technical support services or has a large number of cases and/or high severity cases (0 tickets per month or 6-15 tickets per month)
 - Poor experiences with Support, Professional Services or another part of GitLab
 - Working with a single contact at a company (single-threaded).
 
@@ -63,6 +63,7 @@ Engagement, adoption and/or experiences are significantly lower than expected wh
 - Lack of any engagement
 - Loss of sponsor or champion due to change of role or organization or acquisition
 - Significantly poor experiences with Support or Professional Services
+- Significant number of support tickets (16+ per month)
 
 ### Communication Guidelines
 
