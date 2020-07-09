@@ -99,6 +99,45 @@ As such there are [sending limits built into the Outreach platform](https://supp
 * Outreach has a **hard limit** of 5,000 emails in a rolling seven day period.  
     * If you max out in Outreach, your emails will be queued to try again in 24 hours, when your account drops below this hard limit.
 
+### Importing SFDC Reports
+
+Step 1:
+Create your SFDC report and save it into the `Unfiled Public Reports` folder.
+- Report can only be a lead or contact report
+- Limit to 2000 records per import
+- Minimum Required fields:
+    - Lead ID
+    - Email
+    - First Name
+    - Last Name
+ - Note: you may only map fields that already exist within Outreach, but the import is set up to load additional data points during the upload. You do not need to create your report with a bunch of fields to get them into Outreach.
+  
+Step 2:
+Navigate to the &#9889;Quick Actions button and choose `Bulk Create`.
+- Select your `Import Type` as `Prospects Salesforce Report`
+- You will need to enter the report ID or choose the name of your report from the dropdown
+- Choose the frequency as `Once`
+
+Step 3:
+Next you will review the mapping of the above 4 fields in the Outreach plugin. These usually auto-populate if Outreach can determine the correct field.
+   - If a field is not mapped please select it from the drop down
+     - If you need additional guidance while mapping please contact Marketing Operations
+   - Please do not try to map fields that do not exist already in Outreach it is ok to the leave these fields as `Not mapped`
+   - Outreach will prompt you that there are unmapped fields and you can hit continue
+
+Step 4:
+On the next screen you will be prompted with more fields. To prevent from overriding important data please select the following:
+- Owner - `Use owner from data`
+- Stage - `Use stage from data`
+- Timezone - Leave blank
+- Source - Leave blank
+- Additional Tags: You may assign tags as you need them
+- Load additional data from Salesforce - Prechecked check box
+- What to do with duplicates? - `Skip`
+
+Step 5:
+Select the `Start Import` button on the next screen.
+
 ### Outreach Stages
 Outreach stages are a 1:1 match with SFDC Status. The rulesets help push prospects along into the correct stage/status based on their actions. This eliminates the need for triggers to match status to stage.
 

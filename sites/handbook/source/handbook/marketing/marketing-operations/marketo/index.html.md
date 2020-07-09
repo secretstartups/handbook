@@ -21,7 +21,9 @@ A lead will sync from Marketo to SFDC in these scenarios:
 
 
 ### Forms   
-Nearly all the forms on our website (`about.gitlab.com`) are Marketo embedded forms. Marketing Operations is responsible for maintaining existing forms and creating any new forms. If you need a new form created, please open a [form creation issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request). 
+Nearly all the forms on our website (`about.gitlab.com`) are Marketo embedded forms. Marketing Operations is responsible for maintaining existing forms and creating any new forms. If you need a new form created, please open a [form creation issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request).
+
+**Translated Forms Available**: Spanish, French, Italian, German, Portuguese. If you require a new language, please gather the [translations](https://about.gitlab.com/handbook/marketing/localization/#current-state) and then create an [issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request).
 
 All forms should follow these guidelines:  
 - Field labels are always ALL CAPS
@@ -68,33 +70,34 @@ The MQL scoring model below is correct as of 11 March 2020. Additional changes a
 |Attends on Demand Webcast or Virtual Sponsorship or Self Service Virtual Event|{{my.On Demand Webcast - Default}}|+15|Behavior|Virtual Sponsorship > Attended On-demand<br>Webcast > Attended On-demand<br>Self-Service Virtual Event > Attended On-demand<br>Sponsored Webcast > Attended On-demand|Trigger|Everytime|
 |Attended On-demand - Hosted Elsewhere|{{my.On Demand - Hosted Elsewhere}}|-5|Behavior|Requsted via Sponsored Webcast template|Trigger|Everytime|
 |Attends Owned Event|{{my.Owned Event - Attended}}|+75|Behavior| Owned Event > Attended|Trigger|Everytime|
-|Requested Follow up - Virtual Sponsorship, speaking session, owned event, field event, conference, survey, webcast|{{my.Live Event - Requested Follow Up}}|+100|Behavior|Virtual Sponsorship > Follow Up Requested<br>Speaking Session > Follow Up Requested<br>Owned Event > Follow Up Requested<br>Field Event > Follow Up Requested<br>Conference > Follow Up Requested<br>Webcast > Follow Up Requested<br>Survey > Requested Contact|Trigger|Everytime|
+|Attends Vendor Arranged meeting|{{my.Attends Vendor Arranged Meeting}}|+50|Behavior|Vendor Arranged Meeting > Attended|Trigger|Everytime|
+|Requested Follow up - Virtual Sponsorship, speaking session, owned event, field event, conference, survey, sponsored webcast, webcast|{{my.Live Event - Requested Follow Up}}|+100|Behavior|Virtual Sponsorship > Follow Up Requested<br>Speaking Session > Follow Up Requested<br>Owned Event > Follow Up Requested<br>Field Event > Follow Up Requested<br>Conference > Follow Up Requested<br>Webcast > Follow Up Requested<br>Survey > Requested Contact|Trigger|Everytime|
 |Registered - Virtual, Webcast, Owned, Field Event|{{my.Registered - Events or Webcasts}}|+15|Behavior|Virtual Sponsorship > Registered<br>Owned Event > Registered or Waitlist<br>Webcast > Registered<br>Field Event > Registered|Trigger|Everytime|
 |Registered - Self-Service Virtual Events|{{my.Registered Self-Service Virtual Events}}|+10|Behavior|Self-Service Virtual Event > Registered<br> Sponsored Webcast > Registered|Triger|Everytime|
 |Visited Booth - Field Events, Conference, Virtual Sponsorship|{{my.Visited Booth}}|+30|Behavior|Virtual Sponsorship > Visited Booth<br>Field Event > Visited Booth<br>Conference > Visited Booth|Trigger|Everytime|
 |Content Download - Form Fill|{{my.Content Download - Default}}|+30|Behavior|PF Content > Content Consumed OR<br>PF Specific Forms|Trigger|Everytime|
 |Content Download - High Intent|{{my.Content Download - High Intent}}|+90|Behavior|Specific Forms on pages - <br>/just-commit/reduce-cycle-time<br>/just-commit/lower-tco/<br>/just-commit/secure-apps/|Trigger|Once|
 |Content Syndication - Download|{{my.Content Syndication}}|+15|Behavior|Content Syndication > Downloaded|Trigger|Everytime|
+|Contact Sales Form|{{my.Contact Request Form}}|+100|Behavior|Fills out form: FORM 1415: Contact Request - Light4 or 2078: SFDX-Offer ONLY|Trigger|Once|
 |Demo Request|{{my.Demo Requested}}|+90|Behavior|Campaign Requested|Trigger|Once|
 |Filled-out Survey|{{my.Survey Filled-Out}}|+45|Behavior|Survey > Filled-out Survey|Trigger|Everytime|
 |Interest in Enterprise|{{my.Interest in Enterprise}}|+50|Behavior|Visits - about.gitlab.com/free-trial/|Trigger|Once|
 |Multiple Career Page Visits|{{my.Multiple Web Visits - Career}}|-25|Behavior|Vists 3x about.gitlab.com/jobs/|Trigger|Once|
-|Subscribe - Live Event|{{my.Subscribe - Live Event}}|+10|Behavior|Live Events / Conferences (L) is True|Trigger|Once|
-|Subscribe - Newsletter|{{my.Subscribe - Newsletter}}|+10|Behavior|Newsletter (L) is True|Trigger|Once|
-|Subscribe - Security|{{my.Subscribe - Security}}|+10|Behavior|Security Alerts (L) is True|Trigger|Once|
-|Subscribe - Webcast|{{my.Subscribe - Webcast}}|+10|Behavior| Webcasts (L) is True|Trigger|Once|
-|Contact Sales Form|{{my.Contact Request Form}}|+100|Behavior|Fills out form: FORM 1415: Contact Request - Light4|Trigger|Once|
 |Professional Services Request|{{my.Contact Request Form}}|+100|Behavior|Fills out Form: FORM 1476: prof_serv_rqst|Trigger|Once|
 |Request - Public Sector|{{my.Contact Request Form}}|+100|Behavior|Fills out Form: wf_federal_sales.FORM 1411: PubSec Contact|Trigger|Once|
 |Trial - Enterprise|{{my.Trial Form}}|+100|Behavior|Fills out Form(2): FORM 1318: Self-Hosted Enterprise Trial Form<br>FORM 2150: Self-Hosted Enterprise Trial Form v2|Trigger|Once|
 |Trial - Enterprise (in Product)|{{my.Trial Form}}|+100|Behavior|Trial - Enterprise = True AND<br>SFDC Created date in last 24 hours AND<br>Does not meet Trial-Enterprise Criteria|Batch|Every Morning / Once|
 |Trial - GitLab.com|{{my.Trial Form}}|+100|Behavior|Trial - Gitlab.com = TRUE AND<br>SFDC Created in last 24 hours|Batch|Every Morning / Once|
+|Subscribe - Live Event|{{my.Subscribe - Live Event}}|+10|Behavior|Live Events / Conferences (L) is True|Trigger|Once|
+|Subscribe - Newsletter|{{my.Subscribe - Newsletter}}|+10|Behavior|Newsletter (L) is True|Trigger|Once|
+|Subscribe - Security|{{my.Subscribe - Security}}|+10|Behavior|Security Alerts (L) is True|Trigger|Once|
+|Subscribe - Webcast|{{my.Subscribe - Webcast}}|+10|Behavior| Webcasts (L) is True|Trigger|Once|
 |Generic Email Address|{{my.Generic Email}}|-5|Demographic|Has Generic Email Domain|Trigger|Once|
-|Title - VP, Manager, Director, Senior, Head, CIO, CEO, CFO, CSO, Founder, CTO, Chief, Executive or Lead (including French)|{{my.Title - High Tier}}|+50|Demographic|Title contains: VP, Vice President, Manager, Director, Senior, Head, CIO, CEO, CFO, CSO, Founder, CTO, Chief or Lead|Trigger|Once|
-|Title - VP, Manager, Director, Senior, Head, CIO, CEO, CFO, CSO, Founder, CTO, Chief, Executive or Lead (including French)|{{my.Title - High Tier}}|+50|Demographic|Not in Trigger Campaign AND <br>Title Contains: VP, Vice President, Manager, Director, CIO, CEO, CFO, CSO, Founder, CTO, Chief or Head|Batch|Every Morning / Once|
+|Title - VP, Manager, Director, Senior, Sr, Principal, Head, CIO, CEO, CFO, CSO, Founder, CTO, Chief, Executive, President or Lead (including French)|{{my.Title - High Tier}}|+50|Demographic|Title contains: VP, Vice President, Manager, Director, Senior, Head, CIO, CEO, CFO, CSO, Founder, CTO, Chief or Lead|Trigger|Once|
+|Title - VP, Manager, Director, Senior, Sr, Principal, Head, CIO, CEO, CFO, CSO, Founder, CTO, Chief, Executive, President or Lead (including French)|{{my.Title - High Tier}}|+50|Demographic|Not in Trigger Campaign AND <br>Title Contains: VP, Vice President, Manager, Director, CIO, CEO, CFO, CSO, Founder, CTO, Chief or Head|Batch|Every Morning / Once|
 |Title - Developer, Engineer (including French)|{{my.Title - Low Tier}}|-10|Demographic|Title Contains: developer, engineer AND <br> Title not contains: Executive, Manager, Director |Trigger|Once|
 |Unsubscribes from Emails|{{my.Unsubscribed}}|-25|Behavior|Unsubscribes from Any Email OR<br>Unsubscibe = TRUE|Trigger|Once|
-
+|Large Account|{{my.Large Account}}|+20|Demographic|Leads/Contacts of target ABM Accounts|Batch|Once|
 
 ### Folder Structure
 
