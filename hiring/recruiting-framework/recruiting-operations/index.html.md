@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Recruiting Process - Recruiting Operations Tasks"
+title: "Recruiting Process - Recruiting Operations & Insights Tasks"
 ---
 
 ## On this page
@@ -9,7 +9,7 @@ title: "Recruiting Process - Recruiting Operations Tasks"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Recruiting Process Framework - Recruiting Operations Tasks
+## Recruiting Process Framework - Recruiting Operations & Insights Tasks
 
 ### System Access
 
@@ -20,10 +20,13 @@ To gain access to a system listed below, please follow the respective link to th
 #### DocuSign
 * C.E.S. and Sales Operations Team only - please contact the Recruiting Operations & Insights Team
 #### Greenhouse
+
 * [See how to join Greenhouse in the handbook.](https://about.gitlab.com/handbook/hiring/greenhouse/#how-to-join-greenhouse)
 #### HelloSign
+<!-- blank line -->
 * [See how to request a HelloSign account in the handbook.](https://about.gitlab.com/handbook/people-group/people-experience-team/#hellosign)
 #### LinkedIn Recruiter
+<!-- blank line -->
 * [See the LinkedIn Recruiter Seat Request process in the handbook.](https://about.gitlab.com/handbook/hiring/sourcing/#upgrading-your-linkedin-account)
 ----
 ### System Processes
@@ -31,12 +34,24 @@ To gain access to a system listed below, please follow the respective link to th
 #### DocuSign
 * TBA
 #### Greenhouse
-* **Candidate Profile Merge Requests**
+**Candidate Profile Merge Requests**
    * Consider the following when merging candidate/prospect profiles:
       * Ensure that the Source, Coordinator, and Recruiter listed in the Details tab remains the same.
       * If a candidate is marked as *Hired*, ensure the profile that they were *Hired* on is the **Primary Profile**.
-* **Offer and Requisition Approvals**
-* **Referral Submissions**
+<!-- blank line -->
+**Offer Approvals**
+* TBA
+<!-- blank line -->
+**Requisition Approvals**
+* To re-open a closed requisition and increase the opening count:
+   1. Navigate to the *Approvals* tab, select `Edit Job & Openings`
+   1. Navigate down to the *Openings* section and select `Add New.` 
+   1. Once a new opening populates, manually add the Opening ID number. The `Hiring Manager` section should mirror the other openings.
+   1. Verify with the recruiter if the opening is a Backfill or New Hire. Select `Reopen as Draft`.
+   1. Restart the approval process by selecting `Request Approval.` Mark a Total Rewards approver as approved. Send a note to Finance to review the additional opening request. Be sure to cc the recruiter in that note.
+<!-- blank line -->
+**Referral Submissions**
+<!-- blank line -->
    * [See how to process Referral Submissions in the handbook.](https://about.gitlab.com/handbook/hiring/referral-operations/#transferring-referral-submissions-to-greenhouse)
 ----
 ### Reporting
@@ -44,7 +59,7 @@ To gain access to a system listed below, please follow the respective link to th
 * **Monthly Metrics Reports**
     * The *Monthly Metrics* are comprised of reports from both BambooHR and Greenhouse. Some of the reports are automated and are available in Sisense dashboards. The following is a list of those reports and their respective links, where applicable.
         * **[BambooHR] Diversity Data**
-            * Instrutions: Pull and export the report into a *private* Google Sheet. **Add** a column for `Region` next to `Country` and assign the appropriate region (e.g. APAC, EMEA, LATAM, or NORAM) formulaically. **Create** a pivot table to record the following information: Age, Country, Ethnicity, Gender, and Region. This data is used to update the [Identity Data](https://about.gitlab.com/company/culture/inclusion/identity-data/) page.
+            * Instructions: Pull and export the report into a *private* Google Sheet. **Add** a column for `Region` next to `Country` and assign the appropriate region (e.g. APAC, EMEA, LATAM, or NORAM) formulaically. **Create** a pivot table to record the following information: Age, Country, Ethnicity, Gender, and Region. This data is used to update the [Identity Data](https://about.gitlab.com/company/culture/inclusion/identity-data/) page.
         * **[Greenhouse] Hiring Speed Per Candidate**
             * Filters: Job Status = All; Departments = All Departments; Check "Include Migrated Candidates"
             * Instructions: Pull and export the report into the *Monthly Metrics* sheet. Filter the report to the desired month and **add** a column for `Time to Accept`. Using the `DATEDIF` function, calculate the *Applied On Date* to the *Accepted Date* measuring days.
