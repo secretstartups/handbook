@@ -135,3 +135,6 @@ More information about [Record Ownership](/handbook/business-ops/resources/#reco
 
 ### Round Robin   
 Details TBA
+
+### Need to make a change to lead routing? 
+Open an issue using our [LeanData change request issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=leandata_change_sdralignment).
