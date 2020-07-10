@@ -33,7 +33,7 @@ Some of the ones considered were:
 | **Underperformance** | Below average performance and inconsistent behaviors; operating from previous business models despite feedback focus is on performance management | Average to below average performance with limited capacity to increase performance through enablement capabilities; focus is on evaluating fit in the role; development is on improving performance | High Potential team member who is underperforming due to newness of role, business strategy or management team: focus is on enhancing contribution and leveraging leadership capabilities |
 | Performance ↑ Potential → <b> | **Low Potential** | **Medium potential**| **High Potential**|
 
-This matrix is an individual assessment tool that evaluates both an employee's current contribution to the organization and their potential level of contribution.
+This matrix is an individual assessment tool that evaluates both a team members current contribution to the organization and their potential level of contribution.
 It is commonly used in succession planning as a method of evaluation an organization's talent pool, identifying potential leaders, and identifying any gaps or risks.
 It is regularly considered a catalyst for robust dialogue and is considered more accurate than one person's opinion.
 The performance/potential matrix can be a diagnostic tool for development.
@@ -65,7 +65,7 @@ Roughly 60-65% of the organization will fall into Boxes 4, 5, and 6.
 These are your Core Performers.
 All distributions are suggested by level (i.e. you wouldn't compare an Intermediate IC with a Director).
 
-Employees in Boxes 1, 2, 3, and 4  are those who consistently demonstrate the highest potential for future success and promotability.
+Team members in Boxes 1, 2, 3, and 4  are those who consistently demonstrate the highest potential for future success and promotability.
 
 #### Skill/will matrix
 
