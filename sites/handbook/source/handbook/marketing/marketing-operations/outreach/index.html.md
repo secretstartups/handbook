@@ -162,7 +162,7 @@ Prospects that get deleted in Outreach live in the recycle bin until permanently
 
 ### Keeping Outreach Tidy
 
-Marketing Ops will be responsible for pausing and locking sequences used by former team members. They will also be responsible for deleting tasks held by former team members. Procedure for this process is as follows:
+Marketing Ops will be responsible for pausing and locking sequences used by former team members. They will also be responsible for deleting tasks held by former team members. The MktgOps team will also be responsible for monitoring and cleaning the SAL's and AE's unused sequences and overdue tasks as necessary. Procedure for the former team members process is as follows:
 - During the deprovisioning process, any former team member with an Outreach profile will be added to the `Former Team Member` Outreach team. This instruction has been added to the deprovisioning template.
 - Use the `Sort & Filter` function of Outreach to track tasks and sequences owned by members of the `Former Team Members` team. Tasks can be outright deleted, sequences deactivated and locked. Instructions for locking sequences below.
 - If there are sequences owned by members of the `Former Team Members` team that are being used by current GitLab team members, change ownership of the sequence to a current team member. MktgOps users are preferred, but change to a team member using the sequence where appropriate.
