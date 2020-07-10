@@ -46,7 +46,7 @@ Topics are in alphabetical order with team members grouped by region.
 | Kubernetes    | AMER   | Harish <br> JasonC <br> Michael Lussier <br> Thiago <br> Caleb W. <br> JasonY <br> Lewis                                                              |
 |               | APAC   | Alex Tanayno <br> Julian <br> Arihant <br> Priyan                                                                                                     |
 |               | EMEA   | Rehab                                                                                                     |
-| Linux         | AMER   | Greg <br> Keven <br> Gabe <br> Cody West <br> James Lopes <br> Will <br> Davin <br> Lewis <br> Tom H                                                           |
+| Linux         | AMER   | Greg <br> Keven <br> Gabe <br> Cody West <br> James Lopes <br> Will <br> Davin <br> Lewis <br> Tom H <br> Duncan                                                          |
 |               | EMEA   | Ben <br> David Wainaina <br> Catalin <br> Rehab <br> Alin                                                                                                                 |
 |               | APAC   | Mike <br> Priyan <br> Athar <br> AlexS                                                                                                                                     |
 | Omnibus       | AMER   | Aric <br> Diana <br> Greg <br> Harish <br> John <br> Nathan <br> Gabe <br> Cody West <br> Keven <br> Davin <br> JasonY <br> Lewis <br> Brie <br> Phil |
@@ -77,7 +77,7 @@ If you need help with scripting for fixes, internal tools, or any other reason.
 | Ansible                 | AMER   | JasonY                                                                    |
 |                         | APAC   | Wei-Meng Lee <br> Julian <br> Mike <br> Priyan <br> AlexS <br> Athar      |
 | Zendesk app development | EMEA   | DeAndre                                                                   |
-| Bash                    | APAC   | Mike <br> Priya <br> AlexS                                                          |
+| Bash                    | APAC   | Mike <br> Priya <br> AlexS <br> Duncan                                                         |
 |                         | EMEA   | David Wainaina <br> Catalin <br> Rehab <br> Alin                                              |
 |                         | AMER   | Davin <br> Lewis                                                          |
 | Python                  | APAC   | Matthew <br> Athar                                                        |
