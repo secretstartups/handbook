@@ -872,7 +872,9 @@ Internal slack messages between team members are still considered professional c
 1. If you must send a work-related direct message, don't start a conversation with "Hi" or "Hey" as that interrupts their work without communicating anything. If you have a quick question, just ask the question directly, and the person will respond asynchronously. If you truly need to have a synchronous communication, then start by asking for that explicitly, while mentioning the subject. e.g., "I'm having trouble understanding issue #x, can we talk about it quickly?".
 
 #### Do not use group direct messages
-Use private channels instead of group direct messages. Group direct messages are very hard to maintain, track and respond to. First, consider whether the conversation can take place in a public channel. If not, please use a private channel instead.
+Use private channels instead of group direct messages. Group direct messages are very hard to maintain, track, and respond to. They also have a key limitation in that you can't add people to the conversation. This is a hinderance to collaboration and transparency. 
+
+Consider whether the conversation can take place in a public channel. If not, please use a private channel instead. This channel may have a short-term purpose. It is acceptable to leave the channel and/or archive it if you are no longer an active participant or the channel is no longer in use.
 
 #### Why we track % of messages that are not DMs
 
