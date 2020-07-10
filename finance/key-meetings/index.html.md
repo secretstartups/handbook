@@ -55,7 +55,6 @@ Functions that have these meetings are:
 *  Marketing (Todd Barr - function DRI)
 *  People Group (Carol Teskey - function DRI)
 *  Product (Scott Williamson - function DRI)
-*  Product Strategy (Mark Pundsack - function DRI)
 *  Sales (Michael McBride - function DRI)
 *  Support (Tom Cooney - function DRI)
 
