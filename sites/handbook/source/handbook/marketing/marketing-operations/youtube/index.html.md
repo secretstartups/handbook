@@ -174,7 +174,7 @@ Remember that when you're signed into YouTube using an official GitLab account t
 Our YouTube channels contain a lot of content.
 As a result, it can often be hard to find videos once they are published, particularly on the Unfiltered channel.
 Make liberal use of [tags](https://support.google.com/youtube/answer/146402) and [playlists](https://support.google.com/youtube/answer/57792) to organize the video content you publish. 
-For published recordings of recurring meetings, which should be posted on the Unfiltered channel, please search for a playlist to put the video in. If there is no applicable playlist. please create one.
+For published recordings of recurring meetings, which should be posted on the Unfiltered channel, please search for a playlist to put the video in. If there is no applicable playlist. please create one. You can also create a playlist that would automatically add new videos containing certain text in their titles, descriptions or tags to avoid manual steps ([instructions](https://support.google.com/youtube/answer/6084053?hl=en))
 
 ## Audience on Youtube
 
