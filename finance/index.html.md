@@ -6,7 +6,7 @@ title: "Finance"
 ## Welcome to the GitLab Finance Handbook
 {: .no_toc}
 
-The GitLab Finance team includes multiple functional groups: Accounting, Financial Planning & Analysis, Legal, Tax and Business Operations Programs.
+The GitLab Finance Department includes multiple Teams: Accounting, Financial Planning & Analysis, Legal, Tax and Business Operations Programs.
 {: .note}
 
 # On this page

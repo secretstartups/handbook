@@ -32,32 +32,31 @@ It includes the following sub processes:
 
 [Link to Flowchart](https://docs.google.com/presentation/d/1o1FyUqvq524wTKc8EK9RxwWuF2L72i9QAqhXVW_HYGs/edit#slide=id.g7a5d2379ec_2_0)
 
-Introduction:
+### Introduction
 
-This section outlines the various [procurement](https://about.gitlab.com/handbook/finance/procurement/) activities that happen at GitLab. Purchase Request Issues are created on GitLab.com. Necessary approvals are obtained according to the vendor contract issue [template](https://gitlab.com/gitlab-com/finance/-/issues/new?issuable_template=software_vendor_contract_request) used and the [authorization matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/).
+This section outlines the various [procurement](/handbook/finance/procurement/) activities.
 
-**Procurement Budgeting**
+##### Procurement Budgeting
 
-All departments submit their yearly budgets to finance team for review, comment and eventually approval. These budgets include any planned purchases for items,  or software that the department needs. When someone initiates the procurement process, the procurement team reaches out to the Finance Business Partner to confirm whether that item or software is in the approved plan for that person’s department. If the item or software isn’t part of the approved plan, then this would need to go through a purchase approval process as per [authorization matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/) **(P2P.C.01)**. 
-For more information on budget preparation and variance analyses, refer to [FP&A page here.](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#expense-controls-and-improving-efficiency)
+All departments submit their yearly budgets to finance team for review, comment and eventually approval. These budgets include any planned purchases for items,  or software that the department needs. When someone initiates the procurement process, the procurement team reaches out to the Finance Business Partner to confirm whether that item or software is in the approved plan for that person’s department. If the item or software isn’t part of the approved plan, then this would need to go through a purchase approval process as per [authorization matrix](/handbook/finance/authorization-matrix/) **(P2P.C.01)**. 
+For more information on budget preparation and variance analyses, refer to [FP&A page here.](/handbook/finance/financial-planning-and-analysis/#expense-controls-and-improving-efficiency)
 
-**Creating an issue for purchase request**
+##### Creating an issue for purchase request
 
 A confidential issue is to be created each time a person (the requestor) wants to purchase something on behalf of GitLab. An issue is created at least 60-90 days before the service/product is needed to allow for the best negotiations and terms. Issues are always created before agreeing to business terms / and or pricing. 
 
 There are 3 contract templates to be used, depending on the type purchase.
 
-
-**[Template 1](https://gitlab.com/gitlab-com/finance/issues/new?issuable_template=software_vendor_contract_request)** is to be used for these purchase types: 
+**[Template 1](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request)** is to be used for these purchase types: 
 1. SaaS Agreements
 1. SaaS Renewals
  
-**[Template 2](https://gitlab.com/gitlab-com/finance/issues/new?issuable_template=general_vendor_contract_request)** is to be used for these purchase types:
+**[Template 2](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=general_vendor_contract_request)** is to be used for these purchase types:
 1. Professional Services
 1. Field Marketing Events With confidential data being shared
 1. All other contract types
  
- **[Template 3](https://gitlab.com/gitlab-com/finance/issues/new?issuable_template=vendor_contracts_marketing_events)** is to be used for these purchase types:
+ **[Template 3](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=vendor_contracts_marketing_events)** is to be used for these purchase types:
 1. Field Marketing Events without confidential data being shared
  
  
@@ -74,15 +73,15 @@ There are 3 contract templates to be used, depending on the type purchase.
   - If this application integrates with current GitLab applications, then this box is checked off and the application names are mentioned.
   - If any data from this application is to be reported on from the warehouse or Business Intelligence tool, the box is checked, and a discovery issue for the Data team is also submitted [here](https://gitlab.com/gitlab-data/analytics/issues/new?issuable_template=Extraction%20Discovery).
   - Any additional documents are linked and the box is checked (RFPs, use cases).
-  - The [Data Protection Impact Assessment Policy](https://about.gitlab.com/handbook/engineering/security/dpia-policy/).
+  - The [Data Protection Impact Assessment Policy](/handbook/engineering/security/dpia-policy/).
  is consulted to understand whether the contract will need security review. Any contracts that will share RED or ORANGE data will need security approval prior to signing. Additionally, an annual reassessment of vendor's security posture is performed as part of the contract renewal. If any non-public GitLab data will be processed, transmitted, or stored by the vendor, a review of the vendor's information security program is required in order to obtain security approval. The Security Compliance team needs 3 business days to complete this review from the time they receive all necessary documentation from the vendor.
-  - Complete a DPIA (Data protection impact assessment) for the item [here](https://gitlab.com/gitlab-com/gl-security/compliance/compliance/issues/new?issuable_template=Data%20Protection%20Impact%20Assessment). This is done in partnership with  GitLab's Data Protection Officer and reviewed by Security Compliance during the Security Review. For more info refer [here](https://about.gitlab.com/handbook/engineering/security/dpia-policy/).
+  - Complete a DPIA (Data protection impact assessment) for the item [here](https://gitlab.com/gitlab-com/gl-security/compliance/compliance/issues/new?issuable_template=Data%20Protection%20Impact%20Assessment). This is done in partnership with  GitLab's Data Protection Officer and reviewed by Security Compliance during the Security Review. For more info refer [here](/handbook/engineering/security/dpia-policy/).
   - After the DPIA is completed, the box is checked. If this is a renewal, the prior period DPIA is checked.
   <br> 
 
 - STEP 2:
 
-  Any unsigned contract/quotes are attached [here](https://drive.google.com/open?id=1Xes_98GXt4B1JLT88ZyojPJnEO6T_LpI), and the box is checked off. The number of bids to be acquired is according to  spend amount [Link to authorization matrix](https://about.gitlab.com/handbook/finance/procurement/#prior-to-contacting-procurement).
+  Any unsigned contract/quotes are attached [here](https://drive.google.com/open?id=1Xes_98GXt4B1JLT88ZyojPJnEO6T_LpI), and the box is checked off. The number of bids to be acquired is according to  spend amount [Link to authorization matrix](/handbook/finance/procurement/#prior-to-contacting-procurement).
 
     * Spends above $100k require multiple bids while spends above $250k require a RFP. Vendr helps GitLab get bids for Software spends, and an intake form on Vendor’s website can be submitted [here](https://www.vendr.com/intake-form) **(P2P.C.02)**. 
   A bid waiver can be requested from the functional leader and procurement on the issue. Negotiation with the vendor and  quote obtainment also occurs here. After these bids are obtained, they are compared. This comparison is done on a case by case basis. Internal discussion is done on a separate, confidential issue, where the bids are uploaded and compared, and the requestor/team reaches out to the vendors directly to negotiate. GitLab requires a contract even if the vendor doesn’t, and in this case legal can and will provide [contract terms] (https://about.gitlab.com/handbook/finance/Procurement/vendor-terms-and-conditions/) to govern the transaction based on the level of risk. 
@@ -103,24 +102,23 @@ There are 3 contract templates to be used, depending on the type purchase.
     * Depending on public or non public data the boxes are checked off accordingly.
     * The results of the DPIA completed in the first step (red/yellow/orange) are entered here in the appropriate box. 
     * If Non Public Data will be shared, an NDA is filled out [here](https://drive.google.com/file/d/1kQfvcnJ_G-ljZKmBnAFbphl-yFfF7W5U/view) and attached.
-    * Additional Security Documentation is requested from the vendor outlined [here](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-compliance/third-party-vendor-security-review.html#email-template-for-requesting-security-documentation). After this data is requested and received, this box is checked off. 
+    * Additional Security Documentation is requested from the vendor outlined [here](/handbook/engineering/security/security-assurance/security-compliance/third-party-vendor-security-review.html#email-template-for-requesting-security-documentation). After this data is requested and received, this box is checked off. 
 <br>
 
 - STEP 4: 
 
   This step is all about getting approvals. The functional, budgeting, security, procurement, and legal approvals need to be obtained in the [issue](https://drive.google.com/open?id=195RvdGgDPqg7nQXRZdNd2qtw34eg10bV)), before an item is procured.
-  Functional Approval is based on the [authorization matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/). Technology approval is obtained by the VP of Information Technology. 
+  Functional Approval is based on the [authorization matrix](/handbook/finance/authorization-matrix/). Technology approval is obtained by the VP of Information Technology. 
 
   The finance business partner is tagged in the item request issue, and needs to approve the item, after verifying that the spend is part of the planned budget. The Finance Business Partner also provides the Department and the GL account that this spend is to use, as well as the entity. 
 
   Security tags the appropriate reviewer/approver here.
-  Anytime Non - Public GitLab data will be stored or processed by the vendor, security approval is required. Security is responsible for reviewing vendor security practices and will adhere to the Third Party Vendor Security Review Process outlined [here](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-compliance/third-party-vendor-security-review.html#email-template-for-requesting-security-documentation_). The Security Team assesses whether the vendor has the appropriate security policies and practices in place to protect any date that Gitlab shares with them. 
+  Anytime Non - Public GitLab data will be stored or processed by the vendor, security approval is required. Security is responsible for reviewing vendor security practices and will adhere to the Third Party Vendor Security Review Process outlined [here](/handbook/engineering/security/security-assurance/security-compliance/third-party-vendor-security-review.html#email-template-for-requesting-security-documentation_). The Security Team assesses whether the vendor has the appropriate security policies and practices in place to protect any date that Gitlab shares with them. 
 
     * If no vendor security review is needed, the box is checked by the Security Team.
     * If a security review was performed, and there are no risks associated with the use of this vendor, the box is checked and no approval is required.
     * If a security review was performed, and risks were identified with compensating controls in place, the Security Manager checks off the box, giving approval.
     * If a security review was performed, and major risks were identified, and the use of the vendor isn’t recommended, the Security Director or VP approval is required.
-
 
   Procurement approval is the next step. Procurement will not approve a contract issue until all other approvals have been received to validate the appropriate approval process and policies have been followed. In the event procurement approves an issue prior to other approvals in an attempt to avoid being the source of a backlog, procurement will comment on the issue that their approval is "subject to remaining approvals". At this point it is the responsibility of the issue owner to follow the remaining process and secure remaining approvals BEFORE obtaining contract signature.
 
@@ -146,7 +144,7 @@ There are 3 contract templates to be used, depending on the type purchase.
 
 - STEP 5:
 
-  After all approvals are obtained, the contract with the legal stamp and the [issue](https://drive.google.com/open?id=1Y7GFZ8wrrY7mBLYsT2BhrRjkrju9UUml) are sent to the finance authorized signatory using Hellosign. The signatory is according to this [approval matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/). 
+  After all approvals are obtained, the contract with the legal stamp and the [issue](https://drive.google.com/open?id=1Y7GFZ8wrrY7mBLYsT2BhrRjkrju9UUml) are sent to the finance authorized signatory using Hellosign. The signatory is according to this [approval matrix](/handbook/finance/authorization-matrix/). 
 
 - STEP 6:
 
@@ -215,8 +213,8 @@ There are 3 contract templates to be used, depending on the type purchase.
      * If no additional items need to be added, Click on the ["Communication" tab"](https://drive.google.com/open?id=1XuBDKCTUC7y-9tDkA3T1ECSj6odxk1TD).
      * Select the checkbox ["To be E-Mailed"](https://drive.google.com/open?id=1aoP1-i59g6LALR025gVDa_zg1ePxAf-L) and populate it with the vendor email address.
      
-  5. Open the Custom tab](https://drive.google.com/open?id=1akiMjrAjhPn6cDvB8KqE9WvEOsPODodb).
-     * Requestor name](https://drive.google.com/open?id=13LZzVZBLEo2OMkRSmI2sBRqtRgxUOc0H)[] → Person who opened the [Finance issue](https://drive.google.com/open?id=1pWZ0vK8qhfgvPTxqKZeGkrPwN32c9yq3).
+  5. Open the [Custom tab](https://drive.google.com/open?id=1akiMjrAjhPn6cDvB8KqE9WvEOsPODodb).
+     * [Requestor name](https://drive.google.com/open?id=13LZzVZBLEo2OMkRSmI2sBRqtRgxUOc0H)[] → Person who opened the [Finance issue](https://drive.google.com/open?id=1pWZ0vK8qhfgvPTxqKZeGkrPwN32c9yq3).
      * Requestor’s [email](https://drive.google.com/open?id=11gvs3DFo5VSzgYwmaioaUTW-Qvvikr_v) → Auto-populated after adding the requestor's name.
 
   6. Once all information has been entered, select ["Save"](https://drive.google.com/open?id=1hkUTxnbFX5zeIUWkFZZDU8ynXbNHzTbv).
@@ -233,27 +231,19 @@ There are 3 contract templates to be used, depending on the type purchase.
 
   The accounts payable specialist checks if the vendor is available on NetSuite and Tipalti, and if not, sends them an onboarding request on Tipalti, after checking the [box](https://drive.google.com/open?id=1yxmljD-4UzYeH_eFKcp_Q-2wjP6JJERn) on the issue. After the vendor self onboards, or is onboarded on Tipalti, they are automatically set up on NetSuite too. 
 
-
 - STEP 8:
 
-
-  For all technology solutions, the requestor opens an [issue](https://drive.google.com/open?id=1XFPSXYFiPMY35N5xPYN0aAQ32pI4VxDS) to add the tool to the tech stack.
-
+  For all technology solutions, the requestor opens an [issue](https://gitlab.com/gitlab-com/business-ops/Business-Operations/issues/new?issuable_template=Add%20New%20System%20to%20Tech%20Stack%20Application%20List) to add the tool to the tech stack.
 
 - STEP 9: 
 
   Contract savings [details](https://drive.google.com/open?id=1XF1VA9CnjH_pPRFxAzXSa0YhE2TU0c09) are entered here by Procurement, including negotiation details, the initial bid, the final pricing, and savings.
 
-
 - STEP 10: 
 
   The [Issue](https://drive.google.com/open?id=1X9nyt8CWlVg329cb9FqiuprOcUlCZnb8) is closed and stored for future reference.
 
-
-
 **Template 2:**
-
-
 
 * The contract [issue](https://drive.google.com/open?id=1mNxWOPfm3rsIGbCIa_3jE7tB9uw68Ybd) is assigned to the requestor
 <br>
@@ -261,18 +251,17 @@ There are 3 contract templates to be used, depending on the type purchase.
 * STEP 1:
   * Enter the [name](https://drive.google.com/open?id=1X5445UgR4RBnIoPu9kyrkORlPmIFChkn) of the vendor at the top, and enter the URL of the vendor below this.
   * A high-level description of the vendor is given next (to understand why this vendor may need to be contracted).
-  * The [Data Protection Impact Assessment Policy](https://about.gitlab.com/handbook/engineering/security/dpia-policy/) is consulted to understand whether the contract will need security review. Any contracts that will share RED or ORANGE data will need security approval prior to signing. Additionally, an annual reassessment of the vendor's security posture is performed as part of the contract renewal. If any non-public GitLab data will be processed, transmitted, or stored by the vendor, a review of the vendor's information security program is required in order to obtain security approval. The Security Compliance team needs 3 business days to complete this review from the time they receive all necessary documentation from the vendor.
-  * Complete a [DPIA (Data protection impact assessment)](https://gitlab.com/gitlab-com/gl-security/compliance/compliance/issues/new?issuable_template=Data%20Protection%20Impact%20Assessment) for the item. This is done in partnership with  GitLab's Data Protection Officer and reviewed by Security Compliance during the Security Review. For more info check [here.](https://about.gitlab.com/handbook/engineering/security/dpia-policy/)
+  * The [Data Protection Impact Assessment Policy](/handbook/engineering/security/dpia-policy/) is consulted to understand whether the contract will need security review. Any contracts that will share RED or ORANGE data will need security approval prior to signing. Additionally, an annual reassessment of the vendor's security posture is performed as part of the contract renewal. If any non-public GitLab data will be processed, transmitted, or stored by the vendor, a review of the vendor's information security program is required in order to obtain security approval. The Security Compliance team needs 3 business days to complete this review from the time they receive all necessary documentation from the vendor.
+  * Complete a [DPIA (Data protection impact assessment)](https://gitlab.com/gitlab-com/gl-security/compliance/compliance/issues/new?issuable_template=Data%20Protection%20Impact%20Assessment) for the item. This is done in partnership with  GitLab's Data Protection Officer and reviewed by Security Compliance during the Security Review. For more info check [here.](/handbook/engineering/security/dpia-policy/)
   * After the DPIA is completed, the box is checked. If this is a renewal, the prior period DPIA is checked. 
 <br>
 
 * STEP 2:
-  * Any unsigned contract/quotes are attached [here](https://drive.google.com/open?id=1X4T6x6yi2AZf8JZG7q1JMN5ouC4ivA3Z), and the box is checked off. The number of bids to be acquired is according to  spend amount [Link to bid requirements](https://about.gitlab.com/handbook/finance/procurement/#prior-to-contacting-procurement).
+  * Any unsigned contract/quotes are attached [here](https://drive.google.com/open?id=1X4T6x6yi2AZf8JZG7q1JMN5ouC4ivA3Z), and the box is checked off. The number of bids to be acquired is according to  spend amount [Link to bid requirements](/handbook/finance/procurement/#prior-to-contacting-procurement).
 
   Spends above $100k require multiple bids while spends above $250k require a RFP **(P2P.C.02)**. A bid waiver can be requested from the functional leader and procurement on the issue. 
   Negotiation with the vendor and  quote obtainment also occurs here. After these bids are obtained, they are compared. This comparison is done on a case by case basis. Internal discussion is done on a separate, confidential issue, where the bids are uploaded and compared, and the requestor/team reaches out to the vendors directly to negotiate.  
   GitLab requires a contract even if the vendor doesn’t, and in this case legal can and will provide contract terms to govern the transaction based on the level of risk. GitLab’s standard contract is shown [here](https://drive.google.com/open?id=1K0pJyeQKgjDMfbsob8By-72PbMRSjgNj).  
-
 
     * The Total Contract value is entered and the box is checked off. 
     * The expected Return on Investment is calculated and entered and the box is checked off. 
@@ -284,12 +273,11 @@ There are 3 contract templates to be used, depending on the type purchase.
 
 * STEP 3:
 
-
   * The type of GitLab data that will be processed by the vendor as a part of this contract is entered [here](https://drive.google.com/open?id=1YM6MR_8Hwmz3y0LkM9eRxDuC-elDObqS).
   * Depending on public or non public data the boxes are checked off accordingly. 
   * The results of the DPIA completed in the first step (red/yellow/orange) are entered here in the appropriate box. 
   * If Non Public Data will be shared, an NDA is filled out [here](https://drive.google.com/file/d/1kQfvcnJ_G-ljZKmBnAFbphl-yFfF7W5U/view), and attached
-  * Additional Security Documentation is requested from the vendor outlined [here](https://about.gitlab.com/handbook/engineering/security/third-party-vendor-security-review.html#email-template-for-requesting-security-documentation). After this data is requested and received, the box is checked off. 
+  * Additional Security Documentation is requested from the vendor outlined [here](/handbook/engineering/security/third-party-vendor-security-review.html#email-template-for-requesting-security-documentation). After this data is requested and received, the box is checked off. 
 <br>
 
 * STEP 4:
@@ -300,7 +288,7 @@ There are 3 contract templates to be used, depending on the type purchase.
   The finance business partner is tagged in the item request issue, and needs to approve the item, after verifying that the spend is part of the planned budget. The Finance Business Partner also provides the Department and the GL account that this spend is to use, as well as the entity. 
 
   Security tags the appropriate reviewer/approver here.
-  Anytime Non - Public GitLab data will be stored or processed by the vendor, security approval is required. Security is responsible for reviewing vendor security practices and will adhere to the Third Party Vendor Security Review Process outlined [here](https://about.gitlab.com/handbook/engineering/security/third-party-vendor-security-review.html#email-template-for-requesting-security-documentation_). The Security Team assesses whether the vendor has the appropriate security policies and practices in place to protect any date that Gitlab shares with them. 
+  Anytime Non - Public GitLab data will be stored or processed by the vendor, security approval is required. Security is responsible for reviewing vendor security practices and will adhere to the Third Party Vendor Security Review Process outlined [here](/handbook/engineering/security/third-party-vendor-security-review.html#email-template-for-requesting-security-documentation_). The Security Team assesses whether the vendor has the appropriate security policies and practices in place to protect any date that Gitlab shares with them. 
   * If no vendor security review is needed, the box is checked by the Security Team.
   * If a security review was performed, and there are no risks associated with the use of this vendor, this box is checked and no approval is required.
   * If a security review was performed, and risks were identified with compensating controls in place, the Security Manager checks the box of, giving approval.
@@ -313,7 +301,7 @@ There are 3 contract templates to be used, depending on the type purchase.
 
 * STEP 5:
 
-  After all [approvals](https://drive.google.com/open?id=1912gNTWsmou6UywqJdTu7ikcQ-KBM0qK) are obtained, the contract with the legal stamp and the issue are sent to the finance authorized signatory using Hellosign. The signatory is according to the [approval matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/). 
+  After all [approvals](https://drive.google.com/open?id=1912gNTWsmou6UywqJdTu7ikcQ-KBM0qK) are obtained, the contract with the legal stamp and the issue are sent to the finance authorized signatory using Hellosign. The signatory is according to the [approval matrix](/handbook/finance/authorization-matrix/). 
 <br>
 
 * STEP 6:[Screenshot Link](https://drive.google.com/open?id=1GOkEzJHsSdMgx3gulrdIE7gI8qOVTIgA)
@@ -341,9 +329,7 @@ The contract signed by both parties is then uploaded to ContractWorks.
   The [Issue](https://drive.google.com/open?id=1Zt6o0A-fuY7knuugFjhdsBbjVSAvLlk3) is closed, and stored for future reference.
 <br>
 
-
 **Template 3:** 
-
 
 Confirmation is given [here](https://drive.google.com/open?id=1Zi6Ay8BOZAAaujMF7asMIkpzNwjyV8b6) that no confidential information will be shared to the vendor as a part of this contract. The box is checked off. 
 
@@ -366,7 +352,7 @@ Confirmation is given [here](https://drive.google.com/open?id=1Zi6Ay8BOZAAaujMF7
 
   This step is all about obtaining approvals. The functional, budgeting, procurement, and legal are obtained(on the [issue](https://drive.google.com/open?id=13T8FTcskQD8JvoYGwOa2JfchjYEUrNrZ)), before the item is procured.
 
-  Functional Approval is based on the [authorization matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/). 
+  Functional Approval is based on the [authorization matrix](/handbook/finance/authorization-matrix/). 
 
   * If the contract is below $10,000 , the Field Marketing Country Manager is tagged for approval.
 
@@ -383,12 +369,12 @@ Confirmation is given [here](https://drive.google.com/open?id=1Zi6Ay8BOZAAaujMF7
 
 * STEP 4:
 
-  After [all approvals](https://drive.google.com/open?id=1a-npEknlQAzy-Olo3xsmA9wmg0pVPs-4) are obtained, the contract with the legal stamp and the issue are sent to the finance authorized signatory using Hellosign. The signatory is according to this [approval matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/). 
+  After [all approvals](https://drive.google.com/open?id=1a-npEknlQAzy-Olo3xsmA9wmg0pVPs-4) are obtained, the contract with the legal stamp and the issue are sent to the finance authorized signatory using Hellosign. The signatory is according to this [approval matrix](/handbook/finance/authorization-matrix/). 
 <br>
 
 * STEP 5:
 
-  The accounts payable specialist checks if the vendor is available on NetSuite and Tipalti, and if not, sends them an onboarding   request on Tipalti using the vendor information provided, after checking the [box](https://drive.google.com/open?   id=11OJVnGicP3nflauSreR1ryUW_PaVCx-E) on the issue. After the vendor self onboards, or is onboarded on Tipalti, they are  automatically set up on NetSuite too. 
+  The accounts payable specialist checks if the vendor is available on NetSuite and Tipalti, and if not, sends them an onboarding request on Tipalti using the vendor information provided, after checking the [box](https://drive.google.com/open?   id=11OJVnGicP3nflauSreR1ryUW_PaVCx-E) on the issue. After the vendor self onboards, or is onboarded on Tipalti, they are  automatically set up on NetSuite too. 
 <br>
 
 * STEP 6: [Screenshot Link](https://drive.google.com/open?id=1_yjJL5C4TQ-Ma5GBJa6TO8zUZi4D1094)
@@ -396,7 +382,7 @@ Confirmation is given [here](https://drive.google.com/open?id=1Zi6Ay8BOZAAaujMF7
   The Gitlab signed contract PDF is uploaded to HelloSign, and sent to the vendor for signature.
   The contract signed by both parties is then uploaded to ContractWorks. 
 
-  Purchase Orders are used for purchases over $100,000 USD, or with an annual spend of over $100,000 USD.If an invoice is received that is at or above $100K and there is no PO, the invoice will not be paid until a PO is created which could cause delays to the vendor's receipt of payment.
+  Purchase Orders are used for purchases over $100,000 USD, or with an annual spend of over $100,000 USD. If an invoice is received that is at or above $100K and there is no PO, the invoice will not be paid until a PO is created which could cause delays to the vendor's receipt of payment.
 
   It is the responsibility of the business owner/issue creator to request a Purchase Order be generated. To do this, complete the steps below within the vendor contract request issue. Once these steps are completed, a PO will be generated by the procurement team:
 
@@ -537,7 +523,7 @@ Once the vendor is onboarded, they become [Payable](](https://docs.google.com/do
 
 * Step 2: Coding of Invoices in Tipalti
 
-  All the invoices submitted either directly by the vendor through Tipalti or through “gitlab@supplierinvoices.com” are coded by the AP Specialist and a line item is created which is reflected in AP team’s Tipalti portal. When the AP specialist receives an invoice, he/she cross-references it with its respective approved contract issue before sending it to the business head for approval. If he/she can’t find one, he/she reaches out to the requestor and if the invoice is above $5000, then the invoice isn’t processed.
+  All the invoices submitted either directly by the vendor through Tipalti or through `gitlab@supplierinvoices.com` are coded by the AP Specialist and a line item is created which is reflected in AP team’s Tipalti portal. When the AP specialist receives an invoice, he/she cross-references it with its respective approved contract issue before sending it to the business head for approval. If he/she can’t find one, he/she reaches out to the requestor and if the invoice is above $5000, then the invoice isn’t processed.
 
 * Step 3: Coding of Invoices by AP Specialist
 
@@ -549,7 +535,6 @@ Once the vendor is onboarded, they become [Payable](](https://docs.google.com/do
       * The Department
       * The Class
       * The service date (the time period the service is rendered)
-
 
   This [information](https://docs.google.com/document/d/1OSM73OGeuNc_MqtX8cW56keYP4YbZDU8q29fHzvTK2Y/edit) comes from the [finance issue](https://docs.google.com/document/d/17q_RbAUe0FRxnBWigzdcchTgI8BesGmJLEoIv3rYXGM/edit) for the invoice and is provided by the Finance Business Partner and the Director of Tax. 
 
@@ -564,7 +549,7 @@ Once the vendor is onboarded, they become [Payable](](https://docs.google.com/do
 
   Once the AP Specialist reviews the invoice, the invoice is sent to the relevant team for approval (to confirm that the invoice is valid). Anyone on the team can approve **(P2P.C.05 and P2P.C.09)**.
 
-  The approver is entered using the dropdown menu shown [here]((https://docs.google.com/document/d/18iy7zLLglcswEdsVC_M3E4KjO8pdg8dQpXosQY0TfBg/edit)). 
+  The approver is entered using the dropdown menu shown [here](https://docs.google.com/document/d/18iy7zLLglcswEdsVC_M3E4KjO8pdg8dQpXosQY0TfBg/edit). 
 
 
 * Step 2: Approving the Invoice
@@ -593,7 +578,6 @@ Once the vendor is onboarded, they become [Payable](](https://docs.google.com/do
 
   Click on Pay Bills on Specific Date, and [enter the date](https://docs.google.com/document/d/18wUjGRq0j0Ec-tqqowi04el_d5lWfSE2p-dsxosCLRk/edit). Usually the date is set to the following Monday so that Tipalti has enough time to get funded. Pay bills based on payment cycle is never selected. 
 
-
 * Step 2: Submitting an Invoice for payment
 
   Once the invoice is prepared for payment it is now ready to be submitted for payment.AP specialist selects the invoice to be submitted for payment, and clicks on [“Submit”](https://docs.google.com/document/d/1-QSWPOkgopWBYR1iE7OQSLnzM1HSd5wnkMhKeNFbHz4/edit).
@@ -610,9 +594,7 @@ Once the vendor is onboarded, they become [Payable](](https://docs.google.com/do
 
   Each invoice in the batch on Tipalti is approved, and once that happens, Tipalti can release the payments **(P2P.C.14)**. 
 
-
   In the [status column](https://docs.google.com/document/d/12AgtDF1ztgoAvKSVQJVqlYxfP9DY3oJNVMJcbJFLElY/edit) of the Payment Summary section, depending on who has approved, it’ll say “_ of 2”.
-
 
 * Step 4: Funding of Tipalti
 
@@ -646,7 +628,6 @@ Once the vendor is onboarded, they become [Payable](](https://docs.google.com/do
 
   The spreadsheet shows all the payments that went through in that time period. It also shows the expected ending balance, which should match the bank account balance. 
 
-
   On a monthly basis, the AP specialist keeps track of anything that's aged, and does research as to why **(P2P.C.17)**. If any clean up needs to be done, the AP specialist works on doing so **(P2P.C.17)**.
 
   To access the aging report, log on to NetSuite, and click vendors/payables.
@@ -667,7 +648,7 @@ Once the vendor is onboarded, they become [Payable](](https://docs.google.com/do
 
     *  Choose the period and click [refresh](https://docs.google.com/document/d/1qPtfoJRm17X0tusoyddThFE9ikKv7zFG207V12KnI28/edit).
 
-    *  The AP account [tota](https://docs.google.com/document/d/1EieFKrBgOkZLTBSCJadFHz4d3_QoJrjSC4GvuljvuOo/edit) should tie with the aging report total.
+    *  The AP account [total](https://docs.google.com/document/d/1EieFKrBgOkZLTBSCJadFHz4d3_QoJrjSC4GvuljvuOo/edit) should tie with the aging report total.
 
   This [file](https://docs.google.com/document/d/1g6iKJnNJPcIjyr5-5mWKCTot_zIp0S9qe5ORXlxWPK8/edit) is then loaded onto FloQast for review, and the Senior Accounting Operations Manager works with the AP specialist to investigate all the open balances **(P2P.C.17)**.
 
@@ -695,7 +676,7 @@ All other employees who are not paid directly through Expensify, payroll and/or 
 |Contractors|Tipalti|
 |PEOs|PEO's from Tipalti|
 
-More information on this can be found here: 1. [Link](https://about.gitlab.com/handbook/finance/payroll/#expenses), 2.  [Link](https://about.gitlab.com/handbook/finance/accounting/#8-employee-reimbursements---expensify)
+More information on this can be found here: 1. [Link](/handbook/finance/payroll/#expenses), 2.  [Link](/handbook/finance/accounting/#8-employee-reimbursements---expensify)
 
 The data for employees that aren’t paid through Expensify is extracted via a report and forwarded to the correct people (Payroll/Third Party) for reimbursement. All the relevant and approved expense reports are exported as a CSV, and then forwarded.  This is done by the Payroll Specialist EMEA. 
 
@@ -746,11 +727,9 @@ To log in to TripActions via Okta,
 * Enter your [security key](https://docs.google.com/document/d/1OeM7pv83klQjeD2vgnNmVMOnkr5FvKgI2vmbXQJnGu4/edit).
 * Click on the [TripActions](https://docs.google.com/document/d/1mru9oPK0KJq54s0r4jVGWGRscpjZmd8lURLGq0UbTAY/edit) after logging in to Okta.
 
-
 After processing occurs, TripActions [opens](https://docs.google.com/document/d/19zjWD_bCCryv92AfVBibl5a-AZoKxeaUj8BgYcwlCiM/edit) .
 
 TripActions also synchronizes with BambooHR, so that the details of the employee (department, manager, etc) are loaded onto TripActions, and Expensify so that every TripActions expense is pushed to Expensify and then approved by the employee’s reporting manager. All receipts are auto attached by TripActions or Montpac.  
-
 There is a [reconciliation report](https://docs.google.com/document/d/19sCsKwNjw3IHGK5ES_vnLFkC_pRfghjpk9sFF24E9FU/edit) that is prepared by comparing the charges per the Amex Statement to the bookings made once a month.  The reconciliation report is prepared by the Senior Accounting Operations Manager and reviewed by the PAO. The reconciliation is prepared and sent for approval to the PAO by 1st business day of the month.
 
 Montpac uses this recon report to help with coding and informs the Senior Accounting Operations Manager/Accounts Payable Manager (in future) if any receipts are missing and the Senior Accounting Operations Manager will reach out to TripActions to get the bills.
@@ -758,9 +737,7 @@ Montpac uses this recon report to help with coding and informs the Senior Accoun
 
 To book, [select](https://docs.google.com/document/d/1nvBTQwnIyca5BkONwUUGbEm-mSd-9StvJN_c40lKW_4/edit) what you want to book (flights, hotels, trains, cars).
 
-
 * **Flights**
-
 
 All flights have to be booked through TripActions (Business related flights). No credit card is needed.
  
@@ -789,13 +766,10 @@ GitLab has a [travel policy](https://docs.google.com/document/d/1Hqc-X8zB24ZvzNt
 * Directors and Executives are permitted to fly first class. 
 * Anyone can request an upgrade, but justification should be given to the person’s reporting manager, or the request will be denied.
 
-
-[Link to the travel budget limits](https://about.gitlab.com/handbook/spending-company-money/#travel)
+[Link to the travel budget limits](/handbook/spending-company-money/#travel)
 
 If a booking is not according to this policy, or out of policy, the user’s manager gets an [email](https://docs.google.com/document/d/1UJ8s9zpljMX2RB1OwOYS4w-FFVB1moEfDvznHQdsluE/edit)  with a justification for the booking being out of policy.
 If the manager doesn’t deny the request within 24 hours, then the request is automatically approved. If the manager wants to cancel the booking after 24 hours, they or the employee need to reach out to TripActions support to do so. There may be cancellation fees involved, depending on what was booked. 
-
-
 
 * **Hotels** 
 
@@ -813,8 +787,6 @@ Select the [option](https://docs.google.com/document/d/1vOcpGO25Iu-YwLmkneJGxUYu
 Choose the [room option](https://docs.google.com/document/d/1tJx3Za2bbj49GFkvW9t8IODidtJy27N0T21iPKF597A/edit) that you want. 
 
 The process followed to make the payment is the same as in flights except, the employee will use their personal credit card to make the payment.
-
-
 
 * **Trains**
 
@@ -838,7 +810,6 @@ The process followed to make payment for the trip is the same as the flights.
 
 Cars booked through TripActions need to be charged to a personal credit card. The costs can be submitted for reimbursement via Expensify.
 
-
 To book a car, select the car tab.
 Fill in all the necessary [details](https://docs.google.com/document/d/1NO2mPYZ_SmaFsQvpcjaZ6-DY6Ic9xQEybmcwvP9Zztw/edit) like; 
 * Cars by airports/Cars by location
@@ -856,7 +827,6 @@ The process followed to make the payment is the same as in flights except, the e
 To bill a trip to a client, select the [bill to client](https://docs.google.com/document/d/1Dykp81UjKuWHWgalE6KJvGuDEOAEuv99QPsdbURl_vQ/edit) option at the beginning of the booking.
 
 At the end screen, enter the [name](https://docs.google.com/document/d/1JTA2unfyi9rQAc68ypOY63mbMRUFBgCS8nG780YcWhQ/edit) of the client that you want to bill.
-
 
 For more information on billing a client, please see [here](https://patch-19826112268552.about.gitlab-review.app/handbook/finance/sox-internal-controls/index.html#6-employee-reimbursement) 
 
@@ -893,14 +863,12 @@ Next, the payment information is entered. You can also [enter](https://docs.goog
 
 After everything is filled out, you can review the invite one last time, and then send out the invitation by clicking [“Send emails to all guests”](https://docs.google.com/document/d/1S4mQiOmJD-QZhm6G3uL7diFa-4YzHkOQQAo0FaMvKjM/edit).
 
-
-
 **Self Booking**
 
-If the employee chooses not to use TripActions for whatever reason they can pay for it themselves or with their company credit card, and then get reimbursed via Expensify. They still need to book as per spending [policy](https://about.gitlab.com/handbook/spending-company-money/#travel), as their reporting manager will need to approve on Expensify. 
+If the employee chooses not to use TripActions for whatever reason they can pay for it themselves or with their company credit card, and then get reimbursed via Expensify. They still need to book as per spending [policy](/handbook/spending-company-money/#travel), as their reporting manager will need to approve on Expensify. 
 
 
-For more info, please visit [here](https://about.gitlab.com/handbook/travel/#booking-travel-through-tripactions-)
+For more info, please visit [here](/handbook/travel/#booking-travel-through-tripactions)
 
 <br>
 
@@ -945,14 +913,11 @@ Program spends include those that drive activity into the marketing areas such a
 1. Community Relations
 1. Team building/Enablement
 
-
-
 **Budgeting**
-
 
 Marketing budgets are rolling and are created top-down by the Chief Marketing Officer with help from Marketing Ops and Finance Business partner using the CFO’s guidance based on Operating Expenditure as a percentage of Non-GAAP revenue. Budgets are finalized and approved by the Board of Directors.  The budget is broken out department wise and the departmental leadership builds a bottom-up plan based upon this guidance. 
 
-The [Marketing Capacity Model](https://docs.google.com/document/d/15l4olZxYfm-n9LDRI7tCX_a1E1euoweG1WiU08bFaEQ/edit)  feeds into the [GitLab financial model](https://docs.google.com/document/d/1ByPgYlxT0dhtsAKduRDAxm8KDQ8wFjaZMX3QIV6yJFQ/edit) and is the planning model for the Marketing organization.
+The [Marketing Capacity Model](https://docs.google.com/document/d/15l4olZxYfm-n9LDRI7tCX_a1E1euoweG1WiU08bFaEQ/edit) feeds into the [GitLab financial model](https://docs.google.com/document/d/1ByPgYlxT0dhtsAKduRDAxm8KDQ8wFjaZMX3QIV6yJFQ/edit) and is the planning model for the Marketing organization.
 
 This model contains all active GitLabbers and their salary information. It also contains benchmark salary data and bonus and benefits packages. 
 
@@ -973,11 +938,10 @@ The FY20XX  Marketing Plan in the [Revenue Model](https://docs.google.com/docume
 
 1. Community Relations spend is the money that the Community Relations team uses to build and maintain relationships with the open-source community. 
 
-1. Staff training and enrichment is training and development.	`	
+1. Staff training and enrichment is training and development.	
 
 1. People Spend includes salaries and benefits, office equipment, payroll tax, and other people driven costs. 
  
-
 **Budgets Vs Actuals**
 
 Budgets Vs Actuals for Marketing Spends are tracked on NetSuite.
@@ -994,8 +958,7 @@ Budgets Vs Actuals for Marketing Spends are tracked on NetSuite.
 * Budgeted amounts, actual amounts, and the amount over budget are [displayed](https://docs.google.com/document/d/1k1ZIn9HsEL6bor42Psr-ey1Bz1EcEFak2I_UqMIpaNw/edit).
 
 This [data](https://docs.google.com/document/d/1GaZPC5rm0PDZ8RexzVI9BYyu0TsdrOLfkA89DmLh2i4/edit) also flows into Sisense so that it can be visualized in the dashboard form. This data is updated in real-time.
-Any spending is approved via the [Procure to Pay process](https://patch-19826112268552.about.gitlab-review.app/handbook/finance/sox-internal-controls/index.html#1-procurement), and each spend is approved depending on the template used and the [authorization matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/).
-
+Any spending is approved via the [Procure to Pay process](/handbook/finance/sox-internal-controls/index.html#1-procurement), and each spend is approved depending on the template used and the [authorization matrix](/finance/authorization-matrix/).
 
 **Post Marketing Event Assessments**
 
@@ -1008,9 +971,7 @@ After the event takes place, all relevant data is entered on SalesForce. Sisense
 When the spend for the event gets put through the procurement process again (for repetitions), a screenshot of the actual Pipe to Spend is posted on the issue, and a decision is made on whether the event will be approved again **(P2P.C.01)**.
 A similar process is followed for other marketing events (non-field).
 
-For more info on marketing please visit [here.](https://about.gitlab.com/handbook/marketing/)
-
-<br>
+For more info on marketing please visit [here.](/handbook/marketing/)
 
 ## 5. Research and Development
 
@@ -1044,7 +1005,6 @@ Frontend is responsible for working on GitLab’s products. This includes both t
 
 R&D is driven from the product management side where GitLab identifies and funds the features and categories that it wants to have available for the next calendar year. 
 
-
 **Budgeting**
 
 The finance team is responsible for the budget. All department leaders in conjunction with the Finance Business Partner  submit their yearly ongoing budgets to finance. These budgets include any tools or software that the department needs. These budgets are approved by the E group, and the board and are reviewed quarterly.  Variances between budget vs actuals are tracked on Google Sheets for GitLab.com, using the data from NetSuite. These are looked at in the monthly infrastructure meetings. 
@@ -1063,7 +1023,7 @@ The model shows all of the revenue that [support](https://docs.google.com/docume
 
 The cloud service internal costs are allocated towards the internal costs, and cloud service external costs are attributed depending on paid vs free users. Paid Users are booked to Cost of Good Sold and Free/Internal Users are booked to Marketing Expenses.
 
-Paid and free users are calculated using a Sisense dashboard that comes from NetSuite, which shows the total number of free/internal and paid users. [Screenshot Link ](https://docs.google.com/document/d/1xtJn-S-JecMbwXI3nsxPcVETciE3TUFNAkw1xsluRKE/edit)
+Paid and free users are calculated using a Sisense dashboard that comes from NetSuite, which shows the total number of free/internal and paid users. [Screenshot Link](https://docs.google.com/document/d/1xtJn-S-JecMbwXI3nsxPcVETciE3TUFNAkw1xsluRKE/edit)
 
 
 * **Cloud Services Allocation:** [Screenshot Link](https://docs.google.com/document/d/1Gj6LPD7GbLrUwtbAiKA-1fBwgFxJJQen7_9okGkaZhs/edit)
@@ -1112,7 +1072,7 @@ The data for employees that aren’t paid through Expensify is extracted via a r
 |Contractors|Tipalti|
 |PEOs|Tipalti|
 
-more information on this can be found on [Payroll Page](https://about.gitlab.com/handbook/finance/payroll/#expenses), [Employee reimbursements - Expensify](https://about.gitlab.com/handbook/finance/accounting/#8-employee-reimbursements---expensify)
+more information on this can be found on [Payroll Page](/handbook/finance/payroll/#expenses), [Employee reimbursements - Expensify](/handbook/finance/accounting/#8-employee-reimbursements---expensify)
 
 **Onboarding**
 
@@ -1126,7 +1086,6 @@ Employees are added to Expensify when they join as a part of the onboarding task
 * Enter your [email and password](https://drive.google.com/open?id=1bmk3Elojn2Z8L9zWUSmrzUJX-03wMhvAR4Q6Nrpq9Zw), and click verify. You can also log on to Expensify via Okta.
 
 *  Verify your identity by following the instructions on the screen.
-
 
 **Creation of an expense** 
 
@@ -1315,8 +1274,3 @@ This is used to [merge](https://docs.google.com/document/d/1NMTd5w39lfg3E_31UFbJ
 *  Expensify interfaces to NetSuite real time. Any errors in syncing are sent as email notifications to the AP specialist, and are cleared on a daily basis **(P2P.C.19)**.
 
     [Example](https://drive.google.com/open?id=10erextzRruVNaOPQjZmSvoszJg_rx9k498XIwrDR6Co) of an error notification email from Expensify.
-
-
-
-
-

@@ -19,6 +19,7 @@ My name is Chase Wright and I'm the Manager, Corporate FP&A at GitLab.
 * [GitLab Handle](https://gitlab.com/wwright)
 * [Team Page](/company/team/#wwright)
 * [Chase's 1:1 Template](https://docs.google.com/document/d/1TAPGgJ3rREKskj8rgoTp_VSwu7tbkDxZ9Kd4cPWaEAc/edit#)
+* [Chase's First 180 Days In Role Template](https://docs.google.com/document/d/1z3pcr80n13YxBvmiQ0UwqzDT3uS-gOfl6JkFdSYLH80/edit#)
  
 First of all, I’m really excited to be working with each of you and scaling GitLab together.
 
