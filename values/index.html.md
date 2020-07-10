@@ -443,7 +443,7 @@ Team members should first [search for their own answers](/company/culture/all-re
 {:.no_toc}
 Optimize solutions globally for the broader GitLab community. Making a process efficient for one person or a small group may not be the efficient outcome for the whole GitLab community. As an example, it may be best to discard a renewal process that requires thousands of customers to each spend two hours in favor of one that only takes sixty seconds, even when it may make a monthly report less efficient internally! In a decision, ask yourself "For whom does this need to be most efficient?" Quite often, the answer may be your users, contributors, customers, or team members that are dependent upon your decision.
 
-It is easy to confuse consistency for efficiency. Consistency can be easier to identify; it is also viewed as beneficial because it makes managing processes more efficient. However, efficiency in process management is not the same as efficiency for the right group. We should be careful when optimizing for consistency.
+It is easy to prioritize consistency for efficiency, because consistency can be easier to define and identify. We should be careful when optimizing for consistency, and take a company-wide lens in evaluating whether changes should be made to improve efficiency for GitLab as a whole.
 
 ##### Be respectful of others' time
 {:.no_toc}
