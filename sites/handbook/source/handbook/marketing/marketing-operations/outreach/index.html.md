@@ -159,3 +159,22 @@ Outreach will automatically merge and delete lead, contact, and account informat
 If a lead or contact is currently in an active sequence Outreach will let that lead or contact finish the sequence. This allows the SDR to complete their outreach if working on a duplicate prospect. Once a prospect has been marked as finished. The next time Outreach looks for changes in SFDC it will merge or delete the prospect accordingly.
 
 Prospects that get deleted in Outreach live in the recycle bin until permanently deleted. Both Sales Enablement and Marketing Operations have the ability to remove leads from this recycle bin and bring them back into Outreach if there is ever a scenario that requires this action.
+
+### Keeping Outreach Tidy
+
+Marketing Ops will be responsible for pausing and locking sequences used by former team members. They will also be responsible for deleting tasks held by former team members. Procedure for this process is as follows:
+- During the deprovisioning process, any former team member will be added to the `Former Team Member` Outreach team. This instruction has been added to the deprovisioning template.
+- Use the `Sort & Filter` function of Outreach to track tasks and sequences owned by members of the `Former Team Members` team. Tasks can be outright deleted, sequences deactivated and locked. Instructions for locking sequences below.
+- If there are sequences owned by members of the `Former Team Members` team that are being used by current GitLab team members, change ownership of the sequence to a current team member. MktgOps users are preferred, but change to a team member using the sequence where appropriate.
+
+SDRs will be asked by SDR Leadership to periodically remove their older, unsued and inactive sequences from view and use. To qualify for clean up, a sequence needs to meet these criteria:
+- There are no active prospects in the sequence
+- If there are active prospects in the sequence, check the date when the prospects were added. If prospects have been stuck on a step or paused for a prolonged period of time, consider those prospects inactive
+- The sequence has not been used in 13 months or longer
+
+Outreach sequences are a useful source of a/b testing data for customer responses, so the best course of action is not to outright delete sequences. Instead, follow these steps:
+- Deactivate/pause the sequence. If there are prospects still in the sequence, there will be a warning regarding the outcome of those prospects' path through the sequence. Assuming the prospects have been deemed inactive, proceed in deactivating the sequence
+- From the `Sort & Filter` view, select the checkbox on all applicable sequences
+- Proceed to the top of the page and click the padlock icon, which shows the Lock and Restore feature. Select [Lock to lock the unneeded sequences](https://support.outreach.io/hc/en-us/articles/115005151633-Locking-vs-Deleting-Sequences)
+
+Congrats! You've just helped keep Outreach as a tidy tool for yourself and your teammates. Reward yourself with a tasty treat, if desired. 
