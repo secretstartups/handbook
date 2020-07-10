@@ -162,38 +162,4 @@ _Question format: Likert scale, multiple choice, open-ended_
 
 ## People Experience Team Process
 
-### Google Sheets
-
-<% countries = data.entity_mapper.select {|entities| entities['probation_months'] == 3}.map {|selection| selection['country']} %>
-
-1. Pull a report from BambooHR with the following fields
-    - First Name
-    - Last Name
-    - Country
-    - Hire Date
-    - Reporting to
-    - Work Email
-1. Click *More* then *export report as... CSV*
-1. Open Google Sheets, then a blank spreadsheet.
-1. Click File, Import, Upload, then upload and select the BambooHR CSV file.
-1. Filter by *Hire Date* - Newest to Oldest or Z-A
-1. Put a blank Column to the right of Hire Date
-    - Name this Column *Values Check-In Due Date*
-1. To get the due date here, use the formula - Hire date + 70 ie. (=cell+70) the 70 here represents 10 weeks (70 days).
-1. Filter the country listing by
-<% countries.each do |country| %>
-  - <%= country %>
-<% end %>
-1. Change the Values Check-In due date for these countries to 56 (8 weeks). Reason here is that these countries have a 3 Month probation and all others have 6 months or not applicable.
-1. Add a column to the right of *Values Check-In Due date* and name *Date Email to be sent*
-1. In this column populate with = Values check-in due date - 14, this gives us the date that we should send and the team member 14 days to complete.
-
-### Sending The Emails
-
-1. Use the info from the column *Date Email to be sent* to determine who to send the email to
-1. Send this [email](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/team_member_values_check_in.md) to the team members
-1. Forward the above email to the team members managers with this [email](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/manager_values_check_in.md)
-1. Track responses on the Google form & prompt completion - this is important for those who are on probationary periods.
-
-
-
+There's an automation setup to check daily who needs to receive the check-in email. You can find more information about it [here](/handbook/people-group/engineering/email-automation/#values-check-in-email).
