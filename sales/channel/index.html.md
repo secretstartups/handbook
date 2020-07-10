@@ -377,3 +377,60 @@ The quickest way to get help is by using the following Slack channels:
 - #channel-sales
 - #channel-ops
 - #alliances
+
+## Channels groups, projects, and labels
+
+**Groups**
+Use the GitLab.com group for epics that may include issues within and outside the Channels Team group. 
+- https://gitlab.com/groups/gitlab-com/-/boards/1508300?label_name[]=Channel
+
+- Guidelines for  Partner Folders:  
+  - The partners Group is further divided into regional sub-groups
+  - Within each region sub-group Partners will get their own group
+  - Partner groups contain a collaboration project and internal project
+  - Partner employees should be explicitly invited to collaboration group
+  - Internal group should not be visible to non-GitLab employees and may contain licensing details or other sensitive information
+  - Additional projects may be created within the partner subgroup to contain code bases for prototypes or PoV
+  - Please avoid creating additional subgroups within partner groups 
+
+**Projects**
+- Create issues under the “Channels” project
+
+**Epics**
+- From FY21 Q3 - OKRs will be formed as EPICs and issues related to that Epic should be associated 
+- Broad initiatives will have EPICs with several issues to support that project 
+
+**Labels**
+  - **Team labels**
+      - Channel- issue initially created, used in templates, the starting point for any label that involves Channels
+      - Channel Ops - label for issues that directly impact the Channel Ops & team.  DRI will be defined in the intro of the issue
+      - Channel Program  - label for issues that directly impact the Dir of Channel Programs  & team. DRI will be defined in the intro of the issue
+      - Channel Services- label for issues that directly impact the Channel Services Manager. DRI will be defined in the intro of the issue
+      - Channel Marketing- label for issues that directly impact the Channel Marketing team. DRI will be defined in the intro of the issue
+      - Channel Distribution- label for issues that directly impact the Distribution leader. DRI will be defined in the intro of the issue
+      - Channel GSI - label for issues that are owned by the Dir of GSI. DRI will be defined in the intro of the issue
+      - Internal Channel Enablement- label for issues that are focused on Internal Channel Enablement issues. DRI will be defined in the intro of the issue
+      - Channel Handbook Needs- label for issues that are about pending or planned Channel Handbook changes. DRI will be defined in the intro of the issue
+      - QBR - Requests from Sales QBRs
+
+   - **Priority Weighting (using Eisenhower matrix and weighted tabs in Gitlab)** 
+      - WEIGHT 1 ~ Channel Priority:1 - Home runs (high value to GitLab and high likelihood of success that align to Sales & Channel OKRs) and committed to completion within stated milestones. This category will be limited because not everything can be a priority.  These are both URGENT & IMPORTANT 
+      - WEIGHT 2 ~ Channel Priority:2 - Big Bets (high value to GitLab, lower time urgency, longer dependencies or lower likelihood of success) within stated milestones.  These are not urgent but IMPORTANT to our success
+      - WEIGHT 3 - Channel Priority:3 - Small wins within stated milestones.  These are URGENT but not strategically important.  Delegate or push out 
+      - WEIGHT 4 - Channel Priority:4 - Small wins that are important but high value.  Should be slotted in where backlog allows 
+      - WEIGHT 5 - Channel Priority:Backlog - Things in the queue not currently being worked LABEL 
+
+**DRI** 
+To be stated in intro of issue and assigned to that person.  There maybe 1 or more assignee but the DRI should be stated intro of issues
+
+**Milestones**
+- Milestones are within 2 week windows 
+- Channel - FY2xQxM(month#)a (1st-15th) or b(16th-30th),
+- Like this: Channel - **FY21Q2 3a**
+
+**Due Dates**
+What is the expected due date of completion or NBA (next best action - next key iteration and should be mentioned in the issue)? 
+
+
+
+
