@@ -158,6 +158,25 @@ Throughout the workflow, issues should be addressed in the following priority or
 1. `package:active` label: least effort to largest
 1. `workflow::scheduling` label: These are issues that require weighting, feedback and scheduling before being moved to `package:active`
 
+### Bug Triaging
+
+#### Investigation
+
+A bug investigation is a two part process:
+
+1. Reproduce the bug locally with the same conditions as described in bug issue.
+1. Analyze the possible fix and its complexity.
+
+At the end of this process, the engineer should be able to [weight](https://about.gitlab.com/handbook/engineering/development/ci-cd/package/#issue-weighting) the issue.
+
+The whole process can take a few minutes to several hours (or even days). The assigned engineer should timebox this process to avoid investing too much time in it, without communicating and coordinating with EM and PM, and thus hindering the milestone planning. We suggest that anything that goes above half a day should be coordinated with the team.
+
+If a bug investigation takes more time than intended, it's better to:
+
+- Stop the investigation.
+- Post the current situation in the issue.
+- Inform the Engineering Manager and the Product Manager that will plan more time for the investigation.
+
 ### How we measure results
 
 In order to better align our effort with our customer's needs we will use the following methodology to measure our results. We believe that our best measure of success and progress is our [product category maturity plan](https://about.gitlab.com/direction/maturity/#package). Progress towards these goals will be measured as follows:
