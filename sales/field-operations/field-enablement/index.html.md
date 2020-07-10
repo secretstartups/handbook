@@ -55,7 +55,7 @@ Chat between David Somers (Sr. Director, Field Enablement) and Sid Sijbrandij (C
 <!-- blank line -->
 
 <details>
-<summary>Key Discussion Points</summary>
+<summary markdown="span">Key Discussion Points</summary>
 
 - Our [Mission](/company/strategy/#mission) is that Everyone Can Contribute, and our most important value is [Results](/handbook/values/#results). Like we've extended that to the Handbook, we want to extend it to our Learning Materials.
 - We want to leverage the best of an e-learning platform, with the benefits of reminders, interactivity, and more but make sure the materials we produce are also available to those who aren't using an e-learning platform, while fulfilling [our mission](/company/strategy/#mission).
