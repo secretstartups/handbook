@@ -22,7 +22,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE    | TOPIC                                                                      | SPEAKER/S                                              |
 |---------|----------------------------------------------------------------------------|--------------------------------------------------------|
-| July 9  | Co-Selling with Partners                                                  | Ed Cepulis                           |
 | July 14  | Forrester TEI Report                                                     | Forrester Representitive             |
 | July 16  | The GitLab Journey & the GitOps Use Case                                 | William Chia                         |
 | July 23 | No sessions during last two weeks of a quarter                            | N/A                                  |
@@ -32,6 +31,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2020-07-09 | **[Channel Partner Success for GitLab Sellers](https://youtu.be/OeykHQetd7U)**          |   Private              |
 | 2020-07-02 | **[Closing Best Practices](https://youtu.be/y3iLSsAD24s)**          |   Private              |
 | 2020-06-25 | **[Q2 FY21 Competitive Update](https://youtu.be/S_z_hgf3ASc)**                                       | Private |
 | 2020-06-18 | **[NEW Forrester TEI Report](https://youtu.be/AwYPuWruCjE)**                         | Private  |
@@ -119,7 +119,7 @@ There are a few places to see previous Sales Enablement sessions:
 ### Scheduling trainings
 
 **4-6 weeks before the start of a new quarter**
-*   Solicit input from sales leaders, product marketing, and others (e.g. Sales Ops) on sales enablement topics for the next quarter
+*   Solicit input from sales leaders, product marketing, Channel, Alliances and others (e.g. Sales Ops) on sales enablement topics for the next quarter
 
 **2-4 weeks before the start of a new quarter**
 *   Alignment call to finalize topics & tentative schedule with
