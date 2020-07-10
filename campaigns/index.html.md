@@ -224,11 +224,27 @@ Ideally, campaigns will be agreed at least a quarter in advance to allow for amp
 ***The Marketing Program Manager owner of the integrated campaign will create the epic with the following structure - details and links to be added up on creation of documents and timeline defined.***
 
 ```
+> NAME THIS EPIC: Name of Campaign [Integrated Campaign] (i.e. DevSecOps Use Case [Integrated Campaign])
+
+> Start Date: date epic is opened, Due Date: launch date
+
 ## 🙌 Overview of _[Campaign Name]_ Integrated Campaign Epic
 
-This is the parent epic, organizing the epics to and issues for the **[camaign name]** integrated campaign, launch date `TBD`. The related issues will be included below (upon rollout of the campaign) with _DRIs, due dates, and labels_ assigned appropriately.
+This is the parent epic, organizing the epics to and issues for the integrated campaign, launch date `TBD`. The related issues will be included below (upon rollout of the campaign) with _DRIs, due dates, and labels_ assigned appropriately.
 
 _Please see related issues for details related to their respective purposes - this epic will be used for high level communication regarding the integrated campaign._
+
+## Team
+* Marketing Programs: [name] @[handle] 
+* Digital Marketing: 
+* Content Marketing: 
+* Product Marketing: 
+* Technical Marketing: 
+* Evangelism: 
+* Growth Marketing: 
+* Web Design/Dev: 
+* SDR: 
+* Organic Social: 
 
 ### [Campaign Execution Timeline >>]() - Owned by MPM
 ### [Campaign Brief >>]() `to be added once created`
@@ -242,24 +258,13 @@ _Please see related issues for details related to their respective purposes - th
 ## ⚡ Quick Links
 * [Marketo Program]()
 * [SFDC]()
-* [PathFactory Issue]()
-* [Design Issue]()
-* [Datastudio Dashboard]()
+* [Sisense Overview Dashboard](https://app.periscopedata.com/app/gitlab/631669/WIP:-Integrated-Campaigns-Overview-Dashboard)
 
 ## 👥 Target persona
 **[Target Persona & Positioning Matrix]()**
 * **Level:** [to be filled in after kickoff call]
 * **Function:** [to be filled in after kickoff call]
 
-## 📅 Key timeline dates
-* [ ] **[day of week] [ISO date]** - Campaign Brief Due
-* [ ] **[day of week] [ISO date]** - Persona/Positioning/Messaging Matrix Due
-* [ ] **[day of week] [ISO date]** - Content Journey Map Due
-* [ ] **[day of week] [ISO date]** - Imagery Concepting Final
-* [ ] **[day of week] [ISO date]** - Paid Ads Provided to Agency
-* [ ] **[day of week] [ISO date]** - Nurture + Pathfactory Live
-* [ ] **[day of week] [ISO date]** - Landing Page Live
-* [ ] **[day of week] [ISO date]** - Reporting V1
 
 /label ~"Marketing Programs" ~"Content Marketing" ~"Digital Marketing Programs" ~"Product Marketing" ~SDR ~"MPM Integrated" ~mktg-growtn ~tech-evangelism ~"MPM Priority" ~mktg-website ~design ~"Socil Media" ~"Strategic Marketing" ~"mktg-status::plan"
 ```
