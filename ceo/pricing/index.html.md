@@ -74,6 +74,10 @@ Below we list product categories and the current and proposed features which res
 
 For detailed use-cases per tier, visit the [Per Tier Use-Cases page](/handbook/ceo/pricing/per-tier-use-cases).
 
+### Partner integration considerations
+
+When building integrations to partners it is possible to make exceptions to our buyer-based model when our tiers don't align well with those of the partner, but only in favor of lower tiers. As an example - a partner who provides a team collaboration tool with a free tier might desire any GitLab integration to be present in our free tier despite it clearly being appropriate for single team usage. The go-to-market benefits of this partnership can outweigh the divergence from our buyer-based model. 
+
 ## Lower tiers have more relative value
 
 Our lower tiers have:
