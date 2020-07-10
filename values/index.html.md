@@ -32,6 +32,8 @@ actionable below.
 ### About our values
 {:.no_toc}
 
+![GitLab values illustration](/images/all-remote/gitlab-values-tanukis.jpg){: .shadow.medium.center}
+
 We take inspiration from other companies, and we always go for the [boring solutions](#boring-solutions).
 Just like the rest of our work, we continually adjust our values and strive to make them better.
 GitLab values are a living document.
