@@ -94,4 +94,4 @@ filling in the name of the person you swapped with. Also see [this article](http
 
 ### Adding and removing people from the roster
 
-When adding a new team member to the on-call roster, it's inevitable that the rotation schedule will shift. The manager adding a new team member will add the individual towards the end of the current rotation to avoid changing the current schedule, however as there might be a need to add an individual to the top of the rotation a change in the current rotation might be unavoidable. When adding a new team member to the rotation, the manager will raise the topic to their team(s) to make sure everyone has ample time to make changes. 
+When adding a new team member to the on-call roster, it's inevitable that the rotation schedule will shift. The manager adding a new team member will add the individual towards the end of the current rotation to avoid changing the current schedule, if possible. When adding a new team member to the rotation, the manager will raise the topic to their team(s) to make sure everyone has ample time to review the changes. 
