@@ -50,7 +50,7 @@ Equal Employment Opportunity
  Diversity, Inclusion & Belonging  is one of GitLab's core [values](/handbook/values) and
  GitLab is dedicated to providing equal employment opportunities (EEO) to all team members
  and candidates for employment without regard to race, color, religion, gender,
- national origin, age, disability, or genetics. One example of how put this into practice
+ national origin, age, disability, caste, class, or genetics. One example of how we put this into practice
  is through sponsorship of [diversity events](/blog/2016/03/24/sponsorship-update/)
 
  GitLab complies with all applicable laws governing nondiscrimination in employment. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer,
