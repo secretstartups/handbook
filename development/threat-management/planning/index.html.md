@@ -131,10 +131,11 @@ The goal of the refinement process is to
     *  Update the issue description with an [implementation plan](#implementation-plan). 
     *  Ensure the issue title is accurate for the work being done.
     *  Open up new issues for 'follow-up' work, or work that was forced out of scope. 
-6. Assign a [weight](#weights). 
-    * If the issue requires both frontend & backend work apply the respective frontend-weight or
-      backend-weight label. 
-7. Unassign the issue from yourself & reassign it to your EM.
+6. Encourage Community Contributions.
+    *  If the scope of the issue is well defined and there are no dependencies, consider adding [contribution Labels](/handbook/marketing/community-relations/code-contributor-program/#contribution-labels).
+7. Assign a [weight](#weights). 
+    * If the issue requires both frontend & backend work it should be split into two issues and weighted independently.
+8. Unassign the issue from yourself & reassign it to your EM.
 
 When you are done refining, anyone should be able to read the issue description and should know
 what the issue is solving, how it is solving the problem, and the technical plan for implementing
@@ -183,16 +184,6 @@ bugs, the velocity *should* go down so we have time to address any systemic qual
 
 We are using the Fibonacci sequence for issue weights. Definitions of each numeric value are associated with the [frontend-weight & backend-weight labels](https://gitlab.com/groups/gitlab-org/-/labels?utf8=%E2%9C%93&subscribed=&search=-weight%3A%3A). Anything larger than 5 should be broken down whenever possible.
 
-#### Weight Labels
-
-Threat Management issues follow the [labels defined in the Contribution Guide](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/issue_workflow.md#labels),
-specifically the `~frontend` and `~backend` Specialization labels.
-
-When an issue has both Specialization labels, the weight can be broken down into
-[`~backend-weight`](https://gitlab.com/gitlab-org/gitlab/-/labels?utf8=%E2%9C%93&subscribed=&search=backend-weight)
-and
-[`~frontend-weight`](https://gitlab.com/gitlab-org/gitlab/-/labels?utf8=%E2%9C%93&subscribed=&search=frontend-weight).
-In these cases, the value of the issue's numeric `weight` field will be set by the EM to be the sum of these weights rounded-up to the nearest Fibonacci number.
 
 ## Implementation Plan
 
@@ -218,10 +209,7 @@ discovery process.
 
 **Q:** If an issue has both frontend and backend work how should I weight it?
 
-**A:** Issues that require both frontend and backend work can be broken into [sub-issues as
-outlined in this document](https://gitlab.com/gitlab-com/www-gitlab-com/issues/4588). If the size
-and complexity of the issue does not warrant breaking it down into multiple sub-issues then apply
-frontend and backend weights separately using their respective `frontend-weight` & `backend-weight`
-[weight labels](#weight-labels). The EMs will use those individuals labels to populate the combined weight field.
+**A:** Issues that require both frontend and backend work should be broken into multiple implementation issues as
+outlined in [this document](diagram.html#plan). 
 
 ## Footnotes
