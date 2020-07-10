@@ -21,7 +21,7 @@ GitLab uses Slack profiles as an internal team directory, where team members can
 ## Letter of Employment
 {: #letter-of-employment}
 
-If you need a letter from GitLab verifying your employment/contractor status, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSeop7IJJtN9OWasZl9S992sH5iNio0j916SJa0mBDgc2-2hNA/viewform). People Experience team will verify the accuracy and send you an email with the signed letter. We will also verify (but not provide) National Identification Numbers. In addition, if the request comes from a third party, People Experience team will always verify that the information is appropriate to share and check with you if you have given authorization to share any personal information.
+If you need a letter from GitLab verifying your employment/contractor status, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSeop7IJJtN9OWasZl9S992sH5iNio0j916SJa0mBDgc2-2hNA/viewform). The People Experience team will verify the accuracy and send you an email with the signed letter. We will also verify (but not provide) National Identification Numbers. In addition, if the request comes from a third party, the People Experience team will always verify that the information is appropriate to share and check with you if you have given authorization to share any personal information.
 
 ## Letter Confirming Remote Employment
 {: #letter-confirming-remote-employment}
@@ -31,7 +31,7 @@ If you need GitLab to create a letter confirming that you work remotely, please 
 ## Employment Verification
 {: #emplyoment-verification}
 
-If you need GitLab People Ops to complete an employment verification form, usually for the purposes or a loan or security access, please have the relevant company or organization request this by emailing `people-exp@domain.com` for Non US team members and `uspayroll@domain.com` for US team members. In the event that you are employed via a **PEO** (SafeGuard, Global Upside, CXC. Remote etc) you must request the information directly from them, if you require assistance on the contact details please email `peopleops@domain.com`. 
+If you need People Operations to complete an employment verification form, usually for the purposes or a loan or security access, please have the relevant company or organization request this by emailing `people-exp@domain.com` for Non US team members and `uspayroll@domain.com` for US team members. In the event that you are employed via a **PEO** (SafeGuard, Global Upside, CXC. Remote etc) you must request the information directly from them, if you require assistance on the contact details please email `peopleops@domain.com`. 
 
 The People Experience or Payroll team will complete the requested documents using HelloSign or ensure that the information is sent in an encrypted format. Requests for any information not in BambooHR, the People Experience team will make contact with the relevant department, usually Payroll vis private Slack channel.  
 
