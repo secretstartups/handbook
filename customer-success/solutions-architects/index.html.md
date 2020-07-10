@@ -211,7 +211,9 @@ The SA team associated with each region will monitor the triage board and/or an 
 
 ## Request Solutions Support from Product
 
-In the cases where a prospects or customers have required capabilities that do not map directly to our product offering, Solutions Architects may need additional assistance from the Product Manager(s). For efficency, this is the recommendaed apporach:
+In the cases where a prospect or customer have required capabilities that do not map directly to our product offering, Solutions Architects may need additional assistance from the Product Manager(s). 
+
+For efficency, this is the recommendaed apporach:
 1) Document the usecase the prospect is trying to solve in an issue on their [Account Management Project](https://gitlab.com/gitlab-com/account-management). This should include the customer business objectives, existing approach, and communication between the prospect (call recordings, emails, etc).
 2) Document the solutions or work-arounds that were explored with the customer.
 3) Reach out to the Product Manager with a link to the Account Management issue and request an internal review. 
