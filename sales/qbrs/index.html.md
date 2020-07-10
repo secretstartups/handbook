@@ -54,11 +54,15 @@ QBRs are typically organized by region, and the agenda is determined by the Regi
 
 **Leadership QBRs**
 1. Segment Sales VP
-1. Segment Sales VP direct reports (RDs and ASMs)
-1. Chief Revenue Officer (CRO) (optional)
+1. Segment Sales VP direct reports (RDs, ASMs, and Inside Sales Managers)
+1. Chief Revenue Officer (CRO) and CRO EBA (both optional)
+1. Chief Marketing Officer (CMO) (optional)
 1. CRO direct reports
-1. Senior Director of Revenue Marketing
+1. VP of Demand Gen
+1. VP of Revenue Marketing
 1. VP of Field Ops direct reports
+1. Sr. Program Manager, ENT Sales Enablement
+1. Sr. Program Manager, Customer Success Enablement (optional)
 
 ### QBR Participation
 QBRs include account teams, leadership, and delegates from across the business: 
