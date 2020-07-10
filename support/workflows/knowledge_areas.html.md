@@ -5,10 +5,11 @@ category: References
 ---
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
-{:toc .hidden-md .hidden-lg}
+  {:toc .hidden-md .hidden-lg}
 
 ### Overview
 
@@ -30,266 +31,274 @@ Please remember to post in the appropriate Slack channel (such as #kubernetes) a
 
 Topics are in alphabetical order with team members grouped by region.
 
-| Technology    | Region | Team Member     |
-|---------------|--------|-----------------|
-| Docker        | AMER | Harish <br> Cody West  <br> Caleb W. <br> Davin |
-|               | APAC | Julian <br> Priyan |
-|               | EMEA | Catalin           |
-| ElasticSearch | AMER | Blair  <br> Michael Lussier  <br>  JasonC |
-| Git LFS       | AMER | Diana <br> Will |
-|               | EMEA | Ben                |
-| HA            | AMER | Aric <br> James <br> JasonC <br> Gabe |
-|               | APAC | Mike |
-|               | EMEA | Catalin           |
-| Kubernetes    | AMER | Harish <br> JasonC <br> Michael Lussier <br> Thiago <br> Caleb W. <br> JasonY |
-|               | APAC | Alex Tanayno <br> Julian <br> Arihant <br> Priyan |
-| Linux         | AMER | Greg <br> Keven <br> Gabe <br> Cody West <br> James Lopes <br> Will <br> Davin |
-|               | EMEA | Ben  <br> David Wainaina <br> Catalin |
-|               | APAC | Mike <br> Priyan |
-| Omnibus       | AMER | Aric  <br> Diana <br> Greg <br> Harish <br> John <br> Nathan <br> Gabe <br> Cody West <br> Keven <br> Davin <br> JasonY |
-|               | APAC | AlexS <br> Anton <br> Weimeng <br> Mike <br> Priyan |
-|               | EMEA | Catalin           |
-| Performance   | AMER | Will <br> Cody West |
-|               | EMEA | Catalin           |
+| Technology    | Region | Team Member                                                                                                                                           |
+| ------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Docker        | AMER   | Harish <br> Cody West <br> Caleb W. <br> Davin <br> Lewis                                                                                             |
+|               | APAC   | Julian <br> Priyan <br> Athar                                                                                                                                    |
+|               | EMEA   | Catalin <br> Rehab <br> Alin                                                                                                                                               |
+| ElasticSearch | AMER   | Blair <br> Michael Lussier <br> JasonC                                                                                                                |
+|               | APAC   | AlexS                                                                                                                                                 |
+| Git LFS       | AMER   | Diana <br> Will <br> Lewis                                                                                                                            |
+|               | EMEA   | Ben                                                                                                                                                   |
+| HA            | AMER   | Aric <br> James <br> JasonC <br> Gabe <br> Lewis                                                                                                      |
+|               | APAC   | Mike <br> Athar <br> AlexS                                                                                                                                                |
+|               | EMEA   | Catalin                                                                                                                                               |
+| Kubernetes    | AMER   | Harish <br> JasonC <br> Michael Lussier <br> Thiago <br> Caleb W. <br> JasonY <br> Lewis                                                              |
+|               | APAC   | Alex Tanayno <br> Julian <br> Arihant <br> Priyan                                                                                                     |
+|               | EMEA   | Rehab                                                                                                     |
+| Linux         | AMER   | Greg <br> Keven <br> Gabe <br> Cody West <br> James Lopes <br> Will <br> Davin <br> Lewis <br> Tom H                                                           |
+|               | EMEA   | Ben <br> David Wainaina <br> Catalin <br> Rehab <br> Alin                                                                                                                 |
+|               | APAC   | Mike <br> Priyan <br> Athar <br> AlexS                                                                                                                                     |
+| Omnibus       | AMER   | Aric <br> Diana <br> Greg <br> Harish <br> John <br> Nathan <br> Gabe <br> Cody West <br> Keven <br> Davin <br> JasonY <br> Lewis <br> Brie <br> Phil |
+|               | APAC   | AlexS <br> Anton <br> Weimeng <br> Mike <br> Priyan                                                                                                   |
+|               | EMEA   | Catalin <br> Segolene <br> Rehab <br> Alin                                                                                                                                          |
+|               | APAC   | AlexS <br> Anton <br> Weimeng <br> Mike <br> Priyan <br> Athar                                                                                                   |
+|               | EMEA   | Catalin  <br> Rehab                                                                                                                                             |
+| Performance   | AMER   | Will <br> Cody West                                                                                                                                   |
+|               | EMEA   | Catalin <br> Alin                                                                                                                                              |
 
 ### Scripting Languages
 
 If you need help with scripting for fixes, internal tools, or any other reason.
 
-| Technology    | Region | Team Member     |
-|---------------|--------|-----------------|
-| Ruby/Rails    | AMER | Davin <br> JasonY |
-|               | EMEA | Ronald <br> Catalin |
-|               | APAC | Wei-Meng Lee <br> Arihant <br> Priyan <br> Anton |
-| GO            | APAC |   |
-|               | EMEA | Catalin |
-|               | AMER |   |
-| JavaScript    | APAC | Wei-Meng Lee <br> Arihant <br> Anton |
-|               | EMEA | Ronald <br> Catalin |
-|               | AMER | Davin |
-| Vue.js        | APAC | Wei-Meng Lee |
-|               | EMEA | Catalin |
-| Ansible       | APAC | Wei-Meng Lee <br> Julian <br> Mike <br> Priyan <br> JasonY |
-| Zendesk app development | EMEA | DeAndre |
-| Bash          | APAC | Mike <br> Priyan |
-|               | EMEA | David Wainaina <br> Catalin |
-|               | AMER | Davin |
-| Python        | APAC | Matthew |
-|               | EMEA | Catalin |
+| Technology              | Region | Team Member                                                               |
+| ----------------------- | ------ | ------------------------------------------------------------------------- |
+| Ruby/Rails              | AMER   | Davin <br> JasonY <br> Lewis                                              |
+|                         | EMEA   | Ronald <br> Catalin                                                       |
+|                         | APAC   | Wei-Meng Lee <br> Arihant <br> Priyan <br> Anton <br> Athar               |
+| GO                      | APAC   | Athar                                                                     |
+|                         | EMEA   | Catalin                                                                   |
+|                         | AMER   |                                                                           |
+| JavaScript              | APAC   | Wei-Meng Lee <br> Arihant <br> Anton <br> Athar                           |
+|                         | EMEA   | Ronald <br> Catalin <br> Alin                                                      |
+|                         | AMER   | Davin <br> Phil                                                           |
+| Vue.js                  | APAC   | Wei-Meng Lee <br> Athar                                                   |
+|                         | EMEA   | Catalin                                                                   |
+| Ansible                 | AMER   | JasonY                                                                    |
+|                         | APAC   | Wei-Meng Lee <br> Julian <br> Mike <br> Priyan <br> AlexS <br> Athar      |
+| Zendesk app development | EMEA   | DeAndre                                                                   |
+| Bash                    | APAC   | Mike <br> Priya <br> AlexS                                                          |
+|                         | EMEA   | David Wainaina <br> Catalin <br> Rehab <br> Alin                                              |
+|                         | AMER   | Davin <br> Lewis                                                          |
+| Python                  | APAC   | Matthew <br> Athar                                                        |
+|                         | EMEA   | Catalin <br> Alin                                                                   |
+| AMER                    | Lewis  |
 
 ### Product Stages
 
-This section is ordered by stage and group according to the [product categories page](/handbook/product/categories/#devops-stages). If no one is listed for an area, look for a Support Counterpart on the product page.
+This section is ordered by stage and group according to the [product categories page](/handbook/product/product-categories/#devops-stages). If no one is listed for an area, look for a Support Counterpart on the product page.
 
 #### Manage
 
 ##### Access
 
-| Topic                  | Region | Team Member |
-|------------------------|--------|-------------|
-| LDAP                   | AMER | Blair <br> Diana <br> Harish <br> JasonC |
-|                        | APAC | Alex Tanayno <br> Athar <br> Matthew <br> Priyan  |
-| SAML                   | AMER | Blair <br> Diana <br> JasonC |
-|                        | APAC | Anton <br> Arihant|
-| SSO for Groups         | AMER | Cynthia <br> Tristan <br> Arihant |
+| Topic          | Region | Team Member                                      |
+| -------------- | ------ | ------------------------------------------------ |
+| LDAP           | AMER   | Blair <br> Diana <br> Harish <br> JasonC         |
+|                | APAC   | Alex Tanayno <br> Athar <br> Matthew <br> Priyan |
+| SAML           | AMER   | Blair <br> Diana <br> JasonC                     |
+|                | APAC   | Anton <br> Arihant                               |
+| SSO for Groups | AMER   | Cynthia <br> Tristan <br> Arihant                |
 
 ##### Import
 
-| Topic                  | Region | Team Member |
-|------------------------|--------|-------------|
-| Project Import         | AMER | Cynthia |
+| Topic          | Region | Team Member |
+| -------------- | ------ | ----------- |
+| Project Import | AMER   | Cynthia     |
+|                | EMEA   | Rehab       |
 
 #### Plan
 
 ##### Project Management
 
-| Topic                  | Region | Team Member |
-|------------------------|--------|-------------|
-| Issue Tracking         | APAC   | Arihant |
+| Topic          | Region | Team Member |
+| -------------- | ------ | ----------- |
+| Issue Tracking | APAC   | Arihant     |
 
 ##### Portfolio Management
 
-| Topic                  | Region | Team Member |
-|------------------------|--------|-------------|
-|  | | |
+| Topic | Region | Team Member |
+| ----- | ------ | ----------- |
+|       |        |             |
 
 ##### Certify
 
-| Topic                  | Region | Team Member |
-|------------------------|--------|-------------|
-| Service Desk | Amer | John |
+| Topic        | Region | Team Member |
+| ------------ | ------ | ----------- |
+| Service Desk | Amer   | John        |
 
 #### Create
 
 ##### Source Code
 
-| Topic                  | Region | Team Member |
-|------------------------|--------|-------------|
-| Code Owners | AMER | Tristan <br> Will |
+| Topic       | Region | Team Member       |
+| ----------- | ------ | ----------------- |
+| Code Owners | AMER   | Tristan <br> Will |
+| Repository Mirroring | AMER | Tristan |
 
 ##### Editor
 
-| Topic                  | Region | Team Member |
-|------------------------|--------|-------------|
-| Snippets | AMER | John |
-| Web IDE | AMER | John |
+| Topic    | Region | Team Member |
+| -------- | ------ | ----------- |
+| Snippets | AMER   | John        |
+| Web IDE  | AMER   | John        |
 
 ##### Gitaly
 
-| Topic                  | Region | Team Member |
-|------------------------|--------|-------------|
-| Gitaly | AMER | Will |
+| Topic  | Region | Team Member |
+| ------ | ------ | ----------- |
+| Gitaly | AMER   | Will        |
 
 ##### Ecosystem
 
-| Topic                  | Region | Team Member |
-|------------------------|--------|-------------|
-| JIRA Integration | AMER | Tristan <br> Aric |
-|		   | APAC | Priyan |
+| Topic            | Region | Team Member       |
+| ---------------- | ------ | ----------------- |
+| JIRA Integration | AMER   | Tristan <br> Aric |
+|                  | APAC   | Priyan            |
 
 #### Verify
 
 ##### Continuous Integration
 
-| Topic                  | Region | Team Member |
-|------------------------|--------|-------------|
-| CI | EMEA | DeAndre <br> Ronald <br> Silvester <br> David Wainaina|
-|    | AMER | Cynthia <br> Harish <br> Cody West <br> Cleveland <br> Gabe <br> Caleb W. |
-|    | APAC | Alex Tanayno <br> Athar <br> Arihant <br> Priyan <br> Anton |
-| Jenkins Integration | AMER | Aric |
+| Topic               | Region | Team Member                                                                         |
+| ------------------- | ------ | ----------------------------------------------------------------------------------- |
+| CI                  | EMEA   | DeAndre <br> Ronald <br> Silvester <br> David Wainaina                              |
+|                     | AMER   | Cynthia <br> Harish <br> Cody West <br> Cleveland <br> Gabe <br> Caleb W. <br> Phil |
+|                     | APAC   | Alex Tanayno <br> Athar <br> Arihant <br> Priyan <br> Anton <br> Sameer             |
+| Jenkins Integration | AMER   | Aric                                                                                |
 
 ##### Runner
 
-| Topic                  | Region | Team Member |
-|------------------------|--------|-------------|
-| GitLab Runner          | APAC   | Alex Tanayno <br> Arihant <br> Anton |
-|                        | EMEA   | Ronald <br> Silvester     |
-|                        | AMER   | Davin   |
-| Kubernetes Executor    | AMER   |             |
-|                        | EMEA   |             |
-|                        | APAC   |             |
-| Windows                | AMER   |             |
-|                        | EMEA   |             |
-|                        | APAC   | Anton       |
+| Topic               | Region | Team Member                          |
+| ------------------- | ------ | ------------------------------------ |
+| GitLab Runner       | APAC   | Alex Tanayno <br> Arihant <br> Anton <br> Athar |
+|                     | EMEA   | Ronald <br> Silvester                |
+|                     | AMER   | Davin <br> Phil                      |
+| Kubernetes Executor | AMER   | Phil                                 |
+|                     | EMEA   |                                      |
+|                     | APAC   |                                      |
+| Windows             | AMER   |                                      |
+|                     | EMEA   |                                      |
+|                     | APAC   | Anton                                |
 
 ##### Testing
 
-| Topic                  | Region | Team Member |
-|------------------------|--------|-------------|
-|                        | AMER   |             |
-|                        | EMEA   |             |
-|                        | APAC   |             |
+| Topic | Region | Team Member |
+| ----- | ------ | ----------- |
+|       | AMER   |             |
+|       | EMEA   |             |
+|       | APAC   |             |
 
 #### Package
 
-| Topic                  | Region | Team Member |
-|------------------------|--------|-------------|
-| Package                | AMER   | Thiago <br> Sara <br> Caleb W. |
-|                        | EMEA   |             |
-|                        | APAC   |             |
-| Container Registry     | AMER   |  Will <br> Davin |
-|                        | EMEA   |             |
-|                        | APAC   |             |
-| Helm Chart Registry    | AMER   |             |
-|                        | EMEA   |             |
-|                        | APAC   |             |
-| Dependency Proxy       | AMER   |             |
-|                        | EMEA   |             |
-|                        | APAC   | Anton       |
+| Topic               | Region | Team Member                    |
+| ------------------- | ------ | ------------------------------ |
+| Package             | AMER   | Thiago <br> Sara <br> Caleb W. |
+|                     | EMEA   |                                |
+|                     | APAC   |                                |
+| Container Registry  | AMER   | Will <br> Davin                |
+|                     | EMEA   |                                |
+|                     | APAC   |                                |
+| Helm Chart Registry | AMER   |                                |
+|                     | EMEA   |                                |
+|                     | APAC   |                                |
+| Dependency Proxy    | AMER   |                                |
+|                     | EMEA   |                                |
+|                     | APAC   | Anton                          |
 
 #### Release
 
 ##### Progressive Delivery
 
-| Topic                  | Region | Team Member |
-|-------------|------------------------|-------------|
-|  | | |
+| Topic | Region | Team Member |
+| ----- | ------ | ----------- |
+|       |        |             |
 
 ##### Release Management
 
-| Topic                  | Region | Team Member |
-|-------------|------------------------|-------------|
-| Release Orchestration | Amer | JamesM |
-| Secrets Management | Amer | JamesM |
-| Release Evidence | Amer | JamesM |
-| GitLab Pages | Amer | John <br> Keven <br> JamesM <br> Brie <br> Davin |
-|              | EMEA | Catalin |
+| Topic                 | Region | Team Member                                      |
+| --------------------- | ------ | ------------------------------------------------ |
+| Release Orchestration | Amer   | JamesM                                           |
+| Secrets Management    | Amer   | JamesM                                           |
+| Release Evidence      | Amer   | JamesM                                           |
+| GitLab Pages          | Amer   | John <br> Keven <br> JamesM <br> Brie <br> Davin |
+|                       | EMEA   | Catalin <br> Rehab                               |
 
 #### Configure
 
-| Topic                  | Region | Team Member |
-|------------------------|--------|-------------|
-|  | | |
+| Topic | Region | Team Member |
+| ----- | ------ | ----------- |
+|       |        |             |
 
 #### Monitor
 
-| Topic                  | Region | Team Member |
-|------------------------|--------|-------------|
-| Metrics                | APAC   | Arihant |
+| Topic   | Region | Team Member |
+| ------- | ------ | ----------- |
+| Metrics | APAC   | Arihant     |
 
 ##### Health
 
-| Topic                  | Region | Team Member |
-|------------------------|--------|-------------|
-|  | | |
+| Topic | Region | Team Member |
+| ----- | ------ | ----------- |
+|       |        |             |
 
 #### Secure
 
-| Group             | Topic                  | Region | Team Member |
-|-------------------|------------------------|--------|-------------|
-| Static Analysis   | SAST                   | AMER   | Thiago <br> Greg |
-|                   |                        | APAC   | Anton |
-| Dynamic Analysis  | DAST                   | AMER   | Thiago <br> Greg |
-|                   |                        | APAC   | Anton |
-| Composition Analysis | Dependency Scanning <br> Container Scanning <br> License Compliance | AMER   | Greg |
+| Group                | Topic                                                               | Region | Team Member      |
+| -------------------- | ------------------------------------------------------------------- | ------ | ---------------- |
+| Static Analysis      | SAST                                                                | AMER   | Thiago <br> Greg |
+|                      |                                                                     | APAC   | Anton            |
+| Dynamic Analysis     | DAST                                                                | AMER   | Thiago <br> Greg |
+|                      |                                                                     | APAC   | Anton            |
+| Composition Analysis | Dependency Scanning <br> Container Scanning <br> License Compliance | AMER   | Greg             |
 
 #### Defend
 
 ##### Container Security
 
-| Topic                  | Region | Team Member |
-|------------------------|--------|-------------|
-|  WAF | AMER | Brie |
+| Topic | Region | Team Member |
+| ----- | ------ | ----------- |
+| WAF   | AMER   | Brie        |
 
 #### Growth
 
-| Topic                  | Region | Team Member |
-|------------------------|--------|-------------|
-| License and Renewals | AMER | Blair <br> Cynthia <br> David C <br> Harish <br> Keven
-|                      | APAC | Jerome <br> Sameer  |
-|                      | EMEA | Rene |
-| Escalation Points      | EMEA | Donique |
-|                        | AMER | Tom H |
-|                        | APAC | Rotanak |
+| Topic                | Region | Team Member                                            |
+| -------------------- | ------ | ------------------------------------------------------ |
+| License and Renewals | AMER   | Blair <br> Cynthia <br> David C <br> Harish <br> Keven |
+|                      | APAC   | Jerome <br> Sameer                                     |
+|                      | EMEA   | Rene                                                   |
+| Escalation Points    | EMEA   | Donique                                                |
+|                      | AMER   | Tom H                                                  |
+|                      | APAC   | Rotanak                                                |
 
 #### Enablement
 
 ##### Distribution
 
-| Topic                  | Region | Team Member |
-|------------------------|--------|-------------|
-| Cloud Native / Chart   | AMER   | JasonY      |
-|                        | EMEA   |             |
-|                        | APAC   | Priyan      |
+| Topic                | Region | Team Member |
+| -------------------- | ------ | ----------- |
+| Cloud Native / Chart | AMER   | JasonY      |
+|                      | EMEA   |             |
+|                      | APAC   | Priyan      |
 
 ##### Geo
 
-| Topic                  | Region | Team Member |
-|------------------------|--------|-------------|
-| Geo                    | EMEA | Alin <br> Catalin |
-|                        | AMER | Aric <br> Harish <br> John <br> Gabe |
-|                        | APAC | Anton   |
-| Backup/Restore         | EMEA |               |
-|                        | AMER | Davin |
-|                        | APAC |               |
+| Topic          | Region | Team Member                                     |
+| -------------- | ------ | ----------------------------------------------- |
+| Geo            | EMEA   | Alin <br> Catalin                               |
+|                | AMER   | Aric <br> Harish <br> John <br> Gabe <br> Lewis |
+|                | APAC   | Anton <br> AlexS                                |
+| Backup/Restore | EMEA   |                                                 |
+|                | AMER   | Davin <br> Lewis                                |
+|                | APAC   | AlexS                                                |
 
 ##### Database
 
-| Topic                  | Region | Team Member |
-|------------------------|--------|-------------|
-| PostgreSQL             | EMEA   | Ben         |
-|                        | AMER   |             |
-|                        | APAC   | Mike        |
-| Database Migrations    | EMEA   |             |
-|                        | AMER   |             |
-|                        | APAC   |             |
+| Topic               | Region | Team Member |
+| ------------------- | ------ | ----------- |
+| PostgreSQL          | EMEA   | Ben         |
+|                     | AMER   |             |
+|                     | APAC   | Mike        |
+| Database Migrations | EMEA   | Rehab       |
+|                     | AMER   |             |
+|                     | APAC   |             |

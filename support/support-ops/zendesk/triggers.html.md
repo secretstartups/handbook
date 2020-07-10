@@ -599,14 +599,26 @@ Triggers are managed via Zendesk and are version controled (to a degree).
 
 * Actions:
   * Make private comment:
+This should create a private comment containing the following:
     > Salesforce link: https://gitlab.my.salesforce.com/{{ticket.organization.custom_fields.salesforce_id}}
+    > 
     > Support Level: {{ticket.organization.custom_fields.support_level.title}}
+    > 
     > Account type: {{ticket.organization.custom_fields.account_type.title}}
+    > 
     > Sales Segmentation: {{ticket.organization.custom_fields.sales_segmentation}}
     > 
+    > 
     > Account Owner: {{ticket.organization.custom_fields.account_owner}}
+    > 
     > Technical Account Manager: {{ticket.organization.custom_fields.technical_account_manager}}
+    > 
     > Manual Support Upgrade: {{ticket.organization.custom_fields.manual_support_upgrade}}
+    > 
+    > 
+    > Organization Notes:
+    > 
+    > {{ticket.organization.notes}}
   * `Add tags` `private_comment`
 * Conditions:
   * Meets ALL of:
@@ -826,6 +838,9 @@ Triggers are managed via Zendesk and are version controled (to a degree).
     * Subject: [{{ticket.account}}] Re: {{ticket.title}}
     * Body:
       > Your request ({{ticket.id}}) has been updated. To add additional comments, reply to this email.
+      > 
+      > Please note that any attachments you might see will require logging into the Support Portal to access/download them
+      > 
       > {{ticket.comments_formatted}}
 * Conditions:
   * Meets ALL of:

@@ -68,7 +68,7 @@ A GitLab.com admin is required to correctly map users in GitLab, [per our docume
 
 #### Other Cases
 
-If you're unsure of whether or not we should perform an import for a specific requestor, get input via #support_managers Slack channel or an [internal issue](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/-/issues/new). If a manager approves, proceed with the import.
+If you're unsure of whether or not we should perform an import for a specific requestor, get input via #support_managers Slack channel or an [internal issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new). If a manager approves, proceed with the import.
 
 ### Identify Import Errors
 
@@ -179,9 +179,8 @@ If the import is scheduled for a future date and time:
 1. [Open an issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/new?issuable_template=import) in the Infrastructure tracker using the `Import` template with all available information.
 1. Add date/time with timezone (~1 hour later than expected time of receiving the import is recommended).
 1. Add the infrastructure issue link as an internal note to the Zendesk ticket.
-1. Post in [#production](https://gitlab.slack.com/archives/C101F3796) asking for the import to be assigned to the [EOC](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#engineer-on-call-eoc-responsibilities) on-call at the requested import time.
-   - Example: `"Hi team, got an import request scheduled for 2019-00-00 at 00:00 UTC. Appreciate if you could assign this to whomever is on-call at the time. ISSUE LINK"`
-1. Once we receive a link to the export, add it to the issue.
+1. Look up who will be oncall in [the PagerDuty SRE schedule](https://gitlab.pagerduty.com/schedules) and assign it to them.
+1. Once we receive a link to the export, update the issue with the link to the project.
 
 ### Import ASAP
 

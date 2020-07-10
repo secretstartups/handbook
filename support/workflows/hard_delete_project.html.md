@@ -24,7 +24,7 @@ This workflow will be no longer be necessary once the work in [https://gitlab.co
 1. From the admin area, head to **Projects** then filter the namespace from the **Namespaces** drop down. [[2](#screenshot-2)]
     - Note: Subgroups may be difficult to filter. In this case, grab the subgroup's `ID` to the `namespace_id` in the URL parameter `https://gitlab.com/admin/projects?namespace_id=(subgroup_id)`. [[3](#screenshot-3)]
 1. Find the project(s) in question and click **Delete**. You will be prompted to confirm the project name. [[4](#screenshot-4)]
-1. If all else fails, [open an SE escalation](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/issues/new?issuable_template=Soft-Deleted%20Project).
+1. If all else fails, [open an SE escalation](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Soft-Deleted%20Project).
 
 ### Screenshots
 

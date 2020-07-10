@@ -64,6 +64,18 @@ The highlighted code can be skipped for translation by adding 3 brackets around 
 
 The above can also be used to protect sensitive information from a human translator when sending a translation request.
 
+### Disabling Unbabel in a Specific Ticket
+
+Sometimes Unbabel is triggered if a customer's signature was written in a language
+that requires translation but the customer replies in English, and the translation is not needed. 
+In this case, there is a way to disable Unbabel in this specific ticket:
+
+- Open the ticket in question.
+- Click Apps > Unbabel for Zendesk Support.
+- click `Wrong language?` and select `English`.
+
+From now on, Unbabel will not be triggered in this ticket.
+
 ### Help with Translation
 
 If for some reason you have difficulty in understanding the automated translation, an actual human intervention can actually be requested . Simply click the link `Can’t understand the translation?` in the Unbabel app box and this will send your response for translation to Unbabel editors.

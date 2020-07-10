@@ -24,7 +24,7 @@ Creating, updating and escalating GitLab issues correctly is an important part o
 
 ## Issue Prioritization
 
-In general, the Product team  will [prioritize all issues](/handbook/product/product-management/process/#prioritization) (not just customer requests) based on types of issues and the [direction of the product](/direction).
+In general, the Product team  will [prioritize all issues](/handbook/product/product-processes/#how-we-prioritize-work) (not just customer requests) based on types of issues and the [direction of the product](/direction).
 
 The Support Team plays a role in communicating the **impact to customers** of issues and feature requests. By using appropriate templates, adding labels, and adding relevant information in descriptions and comments, the team can communicate which issues affect customers along with their priority and severity. By participating in the scheduling effort for each release, the Support Team represents an additional voice of the customer in product development.
 
@@ -48,7 +48,7 @@ Using the appropriate labels is _critical_ to ensuring visibility of issues and 
 
 Required:
 
-- [Stage](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#stage-labels): Unsure of which? Check out [label descriptions](https://gitlab.com/gitlab-org/gitlab/-/labels), [DevOps Stages](/handbook/product/categories/#devops-stages), [features list by stage](/features) or similar existing issue.
+- [Stage](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#stage-labels): Unsure of which? Check out [label descriptions](https://gitlab.com/gitlab-org/gitlab/-/labels), [DevOps Stages](/handbook/product/product-categories/#devops-stages), [features list by stage](/features) or similar existing issue.
 - [Type Labels](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#type-labels) should be added by the template, but *add* them if any are missing.
   - On the [GitLab.com Support Forum](https://gitlab.com/gitlab-com/support-forum/), add `~support request`.
 - `~customer`, if appropriate `~customer+`: [see list](https://drive.google.com/drive/u/0/search?q=title:%20%22Customer%2B%20Accounts%22) (internal)
@@ -65,7 +65,7 @@ Optional, but highly recommended:
 
 ## Escalate New and Existing Issues
 
-The Support team can directly ping the PM on the issue or in the #product Slack channel (see [DevOps Stages](/handbook/product/categories/#devops-stages)) in case this may help with communication. Comments might include asking for an update on behalf of the customer, or discussing the severity or priority especially if it needs to be increased.
+The Support team can directly ping the PM on the issue or in the #product Slack channel (see [DevOps Stages](/handbook/product/product-categories/#devops-stages)) in case this may help with communication. Comments might include asking for an update on behalf of the customer, or discussing the severity or priority especially if it needs to be increased.
 
 ## Creating Issues
 
@@ -124,7 +124,7 @@ If you create a feature proposal on behalf of a customer, please follow the same
 | Service/Product       | Escalation Type                                                                                  | Escalation Point                                         |  Assignment      |
 |-----------------------|-------------------------------------------------------------------------------------------------|---------------------------------------------------------|----------------------- |
 | GitLab Infrastructure | Anything related to the **running of GitLab.com**, performance, something breaks                | https://gitlab.com/gitlab-com/infrastructure/issues/new | Production Lead/Senior Production Engineer
-| GitLab.com Support Engineers| Anything related to the **use of GitLab.com**, operations that can't be performed with admin access  | https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/issues/new | Use `~"SE Escalation"` label |
+| GitLab.com Support Engineers| Anything related to the **use of GitLab.com**, operations that can't be performed with admin access  | https://gitlab.com/gitlab-com/support/internal-requests/issues/new | Use `~"SE Escalation"` label |
 | GitLab Support        | Any and all questions in relation to providing customer service for GitLab users and customers. | https://gitlab.com/gitlab-com/support/support-team-meta/issues/new        | Support Team Lead/Senior Support Engineer
 
 **See the [GitLab team page](/company/team/) for assignments**

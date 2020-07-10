@@ -49,8 +49,23 @@ This workflow applies if:
 ### Marking Free Users for GitLab.com
 
 For GitLab.com, if a user cannot be identified as a customer, nor a
-[trial or prospect](#trials-and-prospects), then change the subscription
-dropdown to "Free user" and choose the appropriate "problem type".
+[trial or prospect](#trials-and-prospects), it should be marked as `Free user`. See example below:
+
+* a user `username@domain.tld` submits a ticket to GitLab Support.
+* you search by the requester's e-mail i.e. `username@domain.tld`, the e-mail
+  specified in the field `Email associated with your subscription`, or using the 
+  customer's domain and you cannot find any related accounts in SFDC.
+* you search for the same data in the Customer Portal and cannot find any accounts there.
+* if an account exists in the Customer Portal, no subscriptions are shown and you see 
+  `Choose a plan that suits your needs` when using `Impersonate` functionality.
+
+In such case, select `Free user` in `Tell us about your GitLab subscription` dropdown and
+submit the ticket to apply the changes. This ticket will now disappear from the `Needs Org & Triage` view
+and will be visible in `Free/Self-Provisioned Trial Support` view.
+
+**Note:** be extra careful when searching using the customer's domain: there can be generic domains
+that you are not aware of, and there can be large customers with multiple organizaions using the same
+domain. Therefore, search by e-mail is more reliable.
 
 #### Trials and Prospects
 
@@ -102,7 +117,7 @@ You should be able to access it with your `dev.gitlab.org` account.
 For GitLab.com, in the Customers Portal, trials are marked with an expiration
 date under the **Trials** column in the `GitLab Groups` Tab next to a namespace.
 If needed, also check the
-[dotcom-internal project](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/issues)
+[internal-requests project](https://gitlab.com/gitlab-com/support/internal-requests/issues)
 for manual plan changes.
 
 ### Finding the existing organization in Zendesk
@@ -158,6 +173,7 @@ associated with the organizations. The current process for this is as follows:
 1. If the user is not listed there, you will need to reach out to the TAM (Technical Account Manager) or Account Owner (sometimes referred to as AM / Account Manager) to
    confirm they should be added. Ask the TAM / Account Owner to add the user under the
    contacts for that Salesforce Account. (You can find the TAM / Account Owner name in Zendesk on the Organization's screen - this is synced from SalesForce.)
+   You can also ask the user to provide a screenshot of the `/admin/license` endpoint from their instance or to tell you the e-mail to which the license their organisation is using is associated to. If they provide one of these two, once you verify the license/e-mail is valid (e.g. in [Licenses portal](https://license.gitlab.com/)), it is OK to associate this particular user to the org that owns the license. To do this quickly, you can use the macro called **Self-Managed::Locating GitLab subscription**. Also note that there is a field in the ticket titled **Email associated with your GitLab instance**. It is possible that it is already populated and that user already provided the e-mail that is owning the license, in which case we don't need to explicitly ask for it (or the screenshot).
 1. Once the user is added as a contact in Salesforce, you may safely associate
    the user to the organization.
 
@@ -235,6 +251,8 @@ better to check with Sales if the status is valid or not:
   Make sure that `@Sales-Support` is converted into clickable username, otherwise
   Sales Support team will not get your message (see the GIF below):
 
+  ![Pinging Sales-Support in SFDC](/images/handbook/support/sfdc_sales_support.gif)
+
   Example of the message:
 
   ```
@@ -296,3 +314,20 @@ When you see the required tag in the dropdown list, select it.
 ### Associated Triggers:
 - [Add need-org tag](https://gitlab.zendesk.com/agent/admin/triggers/360001567348)
 - [Remove need-org tag](https://gitlab.zendesk.com/agent/admin/triggers/360017109414)
+
+### GitLab.com ticket is in SM with SLA queue
+
+If you're sure that the ticket is related to **GitLab.com**, but you see it in 
+**SM with SLA queue**, do the following:
+
+1. Change the **Form** to **GitLab.com** (if it's not like that already)
+1. Remove the tag that is related to self-managed plans (e.g. **basic** or
+**premium**)
+1. Do one of the following:
+    1. If you know what plan level the user is on, choose the appropriate one under "Tell us about your subscription".
+    1. Add the internal note with the following content:
+> This ticket was in SM with SLA queue, but it's obviously related to GitLab.com.
+> I did not go into details whether this is a paying or free GitLab.com user, I
+> only changed the tags so that it is not listed in the wrong queue, please verify
+> if the customer is paying GitLab.com user and add the necessary tags so that
+> correct SLA policy is applied to the ticket.

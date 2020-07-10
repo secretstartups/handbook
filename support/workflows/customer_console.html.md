@@ -16,7 +16,7 @@ Using the customer console for internal requests is only for specials cases wher
 
 Console access requires a completed [Access Request](https://gitlab.com/gitlab-com/access-requests/issues/new?issuable_template=Single%20Person%20Access%20Request) as outlined in the [Console Bootcamp](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=Bootcamp%20-%20GitLab.com%20Console) and its completion.
 
-The scope of what's outlined in this workflow is for frequently used functions which are pre-loaded via [console training wheels project](https://gitlab.com/gitlab-com/support/toolbox/console-training-wheels). Please [check the internal dotcom wiki](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/-/wikis/Console-related) for functions not included here.
+The scope of what's outlined in this workflow is for frequently used functions which are pre-loaded via [console training wheels project](https://gitlab.com/gitlab-com/support/toolbox/console-training-wheels). Please [check the internal dotcom wiki](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/Console-related) for functions not included here.
 
 ## Using the support console
 
@@ -105,6 +105,27 @@ trial                             true
  email                             jdoe@examplecorp.net
  uid                               666666
  zuora_account_id
+```
+
+### find_namespace
+
+Find namespaces similar to the given string 
+
+#### Parameters
+
+| Name | Required | Details |
+| ------ | ------ | ------ |
+| `:namespace` | *Yes* | The namespace to search for, it can be complete or partial|
+
+#### Sample
+
+```ruby
+irb(main):421:0> find_namespace('test')
+[!] Possible matches:
+	[+] Name Test Example         | Full Path test
+	[+] Name Other Example        | Full Path test1
+	[+] Name My Test              | Full Path test2
+=> " "
 ```
 
 ## Plan Methods

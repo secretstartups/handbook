@@ -335,7 +335,7 @@ You can read about how we got this started
 As a result of our direct interactions with customers, the Support Team occupies a unique position in GitLab that gives us the opportunity to connect product managers with customer feedback. To take advantage of this opportunity, we've adopted a model that is known within GitLab as "Stable Counterparts." In brief, a "stable counterpart" is an assigned, permanent contact for a GitLab Team Member within another function in the company. See the [Stable counterparts](https://about.gitlab.com/handbook/leadership/#stable-counterparts) item on the Leadership page, and [An ode to stable counterparts](https://about.gitlab.com/blog/2018/10/16/an-ode-to-stable-counterparts/) for more information.
 
 How do we align Support Team people to the product?
-- Development of the product is broken down into [sections, stages and groups; that page](/handbook/product/categories/#devops-stages) is the single source of truth about who is performing this role, and what vacancies there are.
+- Development of the product is broken down into [sections, stages and groups; that page](/handbook/product/product-categories/#devops-stages) is the single source of truth about who is performing this role, and what vacancies there are.
 - Each section should have a Support manager counterpart.
 - Each group should have an individual contributor counterpart.
 - Currently (2019-11) to make it easier for product managers, each PM will get the same individual contributor counterpart for all the parts of the product they manage. That might mean a whole stage, multiple groups, or just a single group.
@@ -363,7 +363,7 @@ There's a [video on google drive](https://drive.google.com/drive/u/0/search?q=pa
 
 Tips:
 - Subscribe to issues at the [group level](https://gitlab.com/groups/gitlab-org/-/issues) to pick up all the projects that make up GitLab.
-- There are [labels for each section (devops::) and group (group::)](/handbook/product/categories/#hierarchy). Search for, say, [group::](https://gitlab.com/groups/gitlab-org/-/labels?&search=group%3A%3A) and each label is provided with a link to a view of issues, MRs and epics.
+- There are [labels for each section (devops::) and group (group::)](/handbook/product/product-categories/#hierarchy). Search for, say, [group::](https://gitlab.com/groups/gitlab-org/-/labels?&search=group%3A%3A) and each label is provided with a link to a view of issues, MRs and epics.
 - [Subscribe to labels](/blog/2016/04/13/feature-highlight-subscribe-to-label/) and [set up email notifications.](https://docs.gitlab.com/ee/user/profile/notifications.html)
 - For issues only (not MRs or Epics) RSS is also an option. From the issue search results, you can select the RSS feed button to get a custom RSS feed.
 - [Engineering team pages](/handbook/engineering/#engineering-departments-sections--teams) usually have information about their labels, slack channels, boards, and meetings under 'useful links' at the end.
@@ -420,7 +420,7 @@ Artifacts of approval can include:
 ### Support Workflows
 
 - [Support Workflows](/handbook/support/workflows)
-   - [Internal Policies and Procedures Wiki](https://gitlab.com/gitlab-com/support/dotcom/dotcom-internal/-/wikis/home)
+   - [Internal Policies and Procedures Wiki](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/home)
    - [How to Work with Tickets](/handbook/support/workflows/working-on-tickets.html)
    - [How to Submit issues to Product/Development](/handbook/support/workflows/working-with-issues.html)
    - [How to Submit Code to the GitLab Application](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md)
@@ -443,6 +443,9 @@ At GitLab, the Support Team currently manages 2 different [Zendesk Instances](/h
 The customer URL for the Federal Support Instance is [federal-support.gitlab.com](https://federal-support.gitlab.com) which is a CNAME for [gitlab-federal-support.zendesk.com](https://gitlab-federal-support.zendesk.com) 
 
 All our Support Engineers have access to the GitLab Support Instance, whereas only Support Engineers who are US Citizens have access to the GitLab US Federal Support Instance.
+
+### Ticketing Style Guide
+A collection of best practices and suggestions for [styling and responding to Zendesk tickets](/handbook/support/workflows/ticketing_style_guide.html).
 
 ### Time Off
 The Support Team follows [GitLab's paid time off policy](/handbook/paid-time-off). However, do note that if a large number of people are taking the same days off, you may be asked to reschedule. If a holiday is important to you, please schedule it early.
