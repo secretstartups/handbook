@@ -15,7 +15,7 @@ Cookiebot is a cookie and online tracking consent solution we use to ensure comp
 
 **How does Cookiebot work?**
 
-Before you consent to any cookies, Cookiebot blocks all JavaScript on our site in order to prevent cookies from being set.This works by intercepting the and preventing the document ready event. Once cookie consent has been granted by the end user, Cookiebot then restarts the JavaScripts.
+Before you consent to any cookies, Cookiebot blocks all JavaScript on our site in order to prevent cookies from being set. This works by intercepting the and preventing the document ready event. Once cookie consent has been granted by the end user, Cookiebot then restarts the JavaScripts.
 
 Note that any JavaScript on `about.gitlab.com` requiring the use of document ready may have problems reinitializing after cookie consent has been granted and will not work before that timeframe.
 
