@@ -49,8 +49,23 @@ This workflow applies if:
 ### Marking Free Users for GitLab.com
 
 For GitLab.com, if a user cannot be identified as a customer, nor a
-[trial or prospect](#trials-and-prospects), then change the subscription
-dropdown to "Free user" and choose the appropriate "problem type".
+[trial or prospect](#trials-and-prospects), it should be marked as `Free user`. See example below:
+
+* a user `username@domain.tld` submits a ticket to GitLab Support.
+* you search by the requester's e-mail i.e. `username@domain.tld`, the e-mail
+  specified in the field `Email associated with your subscription`, or using the 
+  customer's domain and you cannot find any related accounts in SFDC.
+* you search for the same data in the Customer Portal and cannot find any accounts there.
+* if an account exists in the Customer Portal, no subscriptions are shown and you see 
+  `Choose a plan that suits your needs` when using `Impersonate` functionality.
+
+In such case, select `Free user` in `Tell us about your GitLab subscription` dropdown and
+submit the ticket to apply the changes. This ticket will now disappear from the `Needs Org & Triage` view
+and will be visible in `Free/Self-Provisioned Trial Support` view.
+
+**Note:** be extra careful when searching using the customer's domain: there can be generic domains
+that you are not aware of, and there can be large customers with multiple organizaions using the same
+domain. Therefore, search by e-mail is more reliable.
 
 #### Trials and Prospects
 
