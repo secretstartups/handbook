@@ -28,23 +28,27 @@ measure it at a team level (or higher), not at an individual level.
 
 ## Implementation
 
-Each merge request must have one of the following labels. These labels
-assign a category in the charts. If an MR has more than one of these
-labels, the highest one in the list takes precedence.
+Throughput types classify merge requests and issues with a the top level types
+in the list below. If an issue or merge request has more than one of these
+labels then the highest one in the list takes precedence.
 
-- `~"Community contribution"`: A community contribution label takes precedence over other labels. Therefore, while the work may introduce a new feature or resolve a bug, we prioritize this label over others due to the importance of this particular category.
+Some throughput types have sub-types such as `~"feature"` with
+`~"feature::maintenance"`. Type labels will be inferred from sub-types with
+[`triage-serverless`](https://gitlab.com/gitlab-org/quality/triage-serverless)
+to aid in throughput type reporting. Application of the sub-type label is
+encouraged for the measuring the type at the lowest level of specificity.
+
+1. `~"Community contribution"`: A community contribution label takes precedence over other labels. Therefore, while the work may introduce a new feature or resolve a bug, we prioritize this label over others due to the importance of this particular category.
 You may use a second label such as `~"bug"` or `~"feature"` if you would like to add an additional identifier.
-- `~"security"`: Security-related MRs.
-- `~"bug"`: Defects in shipped code. Read more about [features vs bugs](/handbook/product/product-processes/#issues).
-- `~"feature"`: Any MR that contains work to support the implementation of a feature and/or results in an improvement in the user experience. Read more about [features vs bugs](/handbook/product/product-processes/#issues.html).
+1. `~"security"`: Security-related MRs.
+1. `~"bug"`: Defects in shipped code. Read more about [features vs bugs](/handbook/product/product-processes/#issues).
+1. `~"feature"`: Any MR that contains work to support the implementation of a feature and/or results in an improvement in the user experience. Read more about [features vs bugs](/handbook/product/product-processes/#issues.html).
   - `~"feature::addition"`: Work towards the creation of a new feature. This includes user facing and non-user facing changes such as data model, feature flag and other backend pre-work.
   - `~"feature::maintenance"`: Refinements to an existing feature that is not related to `~bug` resolution. This would include `~"technical debt"` and industry standard updates such as work towards Rails upgrade.
-- `~"tooling"`: MRs related to engineering tooling.
+1. `~"tooling"`: MRs related to engineering tooling.
   - `~"tooling::pipelines"`: MRs related to pipelines configuration.
   - `~"tooling::workflow"`: MRs related to improvements of the engineering workflow and release tooling like Danger, RuboCop, linters, etc.
-- `~"documentation"`: For documentation-only MRs, use `~"documentation"` only unless the work is attributable to code changes for a feature or bug, and in that case, use `~"feature"` or `~"bug"`, even if the doc change is being made late for a feature/bug from a previous milestone.
-
-Application of sub-type labels such as `~feature::addition` will cause the parent type to be automatically applied by GitLab Bot through a [`triage-serverless`](https://gitlab.com/gitlab-org/quality/triage-serverless) reaction rule. Application of the lowest level type label is encouraged for more accurate identification of work.
+1. `~"documentation"`: For documentation-only MRs, use `~"documentation"` only unless the work is attributable to code changes for a feature or bug, and in that case, use `~"feature"` or `~"bug"`, even if the doc change is being made late for a feature/bug from a previous milestone.
 
 If it does not have any of these, it will be tracked in the 'undefined'
 bucket instead. The Engineering Manager for each team is ultimately
@@ -71,6 +75,7 @@ This guidance may be helpful if you are wondering the go-forward type label base
   - `~"Danger bot"`
   - `~"static analysis"`
   - release tooling
+  - Docs tooling changes
 - `~"tooling::pipelines"` for changes to project pipeline configurations
 
 `~backstage` will be removed with <https://gitlab.com/gitlab-org/quality/triage-ops/-/issues/483>.
