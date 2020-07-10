@@ -28,9 +28,7 @@ This is the [email](/handbook/people-group/values-check-in/) that is send to our
 Every day at 10AM UTC we run a scheduled pipeline. This pipeline will fetch all the team members that are eligble to get this values check in.
 For every eligble team member we send out two emails:
 - one to the team member
-- one to the team member's manager
+- one to the team member's manager: this is determined by the manager for the team member on BambooHR
 
 The email address used to send the email is `peoplespecialists@domain` and is set with a `reply-to: peopleops@domain` as nobody monitors replies to `peoplespecialists@`.
 The email address is strictly used for automation.
-
-Currently this email automation is in test mode. This means that instead of sending it to the incoming team member, the email is send to the People Operations Engineer.
