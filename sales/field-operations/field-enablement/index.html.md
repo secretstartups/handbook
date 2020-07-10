@@ -53,129 +53,104 @@ Chat between David Somers (Sr. Director, Field Enablement) and Sid Sijbrandij (C
 <!-- blank line -->
 
 <details>
-<summary markdown="span">
-  Key Discussion Points
-</summary>
+<summary>Key Discussion Points</summary>
 
-* Our [Mission](/company/strategy/#mission) is that Everyone Can Contribute, and our most important value is [Results](https://about.gitlab.com/handbook/values/#results). Like we've extended that to the Handbook, we want to extend it to our Learning Materials.
-* We want to leverage the best of an e-learning platform, with the benefits of reminders, interactivity, and more but make sure the materials we produce are also available to those who aren't using an e-learning platform, while fulfilling [our mission](/company/strategy/#mission). 
-* There are benefits to keeping our e-learning material [handbook-first](https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first):
+- Our [Mission](/company/strategy/#mission) is that Everyone Can Contribute, and our most important value is [Results](/handbook/values/#results). Like we've extended that to the Handbook, we want to extend it to our Learning Materials.
+- We want to leverage the best of an e-learning platform, with the benefits of reminders, interactivity, and more but make sure the materials we produce are also available to those who aren't using an e-learning platform, while fulfilling [our mission](/company/strategy/#mission). 
+- There are benefits to keeping our e-learning material [handbook-first](/handbook/handbook-usage/#why-handbook-first):
    * Folks who have already completed a formal training through an e-learning platform may want to return to the materials
    * Those who never go through the formal platform may also benefit from the materials
    * The handbook continues to be the SSOT, with the e-learning platform leveraging handbook materials through screenshots, embeds, and more
-
 </details>
 
 ## Six Critical Questions
 Inspired by _The Advantage: Why Organizational Health Trumps Everything Else in Business_ by Patrick Lencioni
 
 <details>
-<summary markdown="span">
-  1. Why does the GitLab Field Enablement team exist?
-</summary>
-
-See our team mission in the [Overview](https://about.gitlab.com/handbook/sales/field-operations/field-enablement/#overview) section.
-
+<summary>1. Why does the GitLab Field Enablement team exist?</summary>
+See our team mission in the [Overview](/handbook/sales/field-operations/field-enablement/#overview) section.
 </details>
+
 <details>
-<summary markdown="span">
-  2. How do we behave?
-</summary>
+<summary markdown="span">2. How do we behave?</summary>
+On our best day, we show up with a positive attitude while demonstrating [GitLab’s values](/handbook/values/) along with the following behaviors to overcome the [Five Dysfunctions](/handbook/values/#five-dysfunctions):
 
-On our best day, we show up with a positive attitude while demonstrating [GitLab’s values](https://about.gitlab.com/handbook/values/) along with the following behaviors to overcome the [Five Dysfunctions](https://about.gitlab.com/handbook/values/#five-dysfunctions):
-
-* Trust: Extend trust, actively listen, and assume noble intent; give and receive feedback with respect and solicit feedback often
-* Embrace Healthy Conflict**: Engage in constructive conflict for the purpose of achieving shared goals & objectives; resolve personal issues, quickly and directly
-* Commitment: Support decisions once decisions are made with a GitLab team-first approach
-* Accountability: Hold ourselves and each other accountable while encouraging each other & celebrating successes
-* **Results**: Strong drive for results and a focus on the customer; demonstrate passion for continuous learning & improvement
-
+- **Trust**: Extend trust, actively listen, and assume noble intent; give and receive feedback with respect and solicit feedback often
+- **Embrace Healthy Conflict**: Engage in constructive conflict for the purpose of achieving shared goals & objectives; resolve personal issues, quickly and directly
+- **Commitment**: Support decisions once decisions are made with a GitLab team-first approach
+- **Accountability**: Hold ourselves and each other accountable while encouraging each other & celebrating successes
+- **Results**: Strong drive for results and a focus on the customer; demonstrate passion for continuous learning & improvement
 </details>
+
 <details>
-<summary markdown="span">
-  3. What does the Field Enablement team do?
-</summary>
+<summary markdown="span">3. What does the Field Enablement team do?</summary>
 
-* Define, coordinate, and/or lead the development and delivery of effective enablement solutions (training, technology, knowledge, content, process, and tools) for GitLab sales reps, Customer Success professionals, and partners
-* Lead facilitation of prioritized behavior change in the GitLab field organization
-* Serve as a champion for the field – ensure they are regularly informed about relevant business and organizational updates and have access to enablement materials necessary for day-to-day work 
-* Collaborate cross-functionally with key stakeholders including Sales, Customer Success, Marketing, Sales Ops, Product, and PeopleOps
-
+- Define, coordinate, and/or lead the development and delivery of effective enablement solutions (training, technology, knowledge, content, process, and tools) for GitLab sales reps, Customer Success professionals, and partners
+- Lead facilitation of prioritized behavior change in the GitLab field organization
+- Serve as a champion for the field – ensure they are regularly informed about relevant business and organizational updates and have access to enablement materials necessary for day-to-day work 
+- Collaborate cross-functionally with key stakeholders including Sales, Customer Success, Marketing, Sales Ops, Product, and PeopleOps
 </details>
-<details>
-<summary markdown="span">
-  4. What does success look like?
-</summary>
 
+<details>
+<summary markdown="span">4. What does success look like?</summary>
 The below is a work in progress as we define success measures across each stage of the customer journey:
 
-**Engage & Educate the Customer**
-* Increase # of rep-sourced opps
-* Accelerate sales cycle time and improve conversion of MQLs to SAOs 
-* Accelerate and improve predictability of new rep ramp time
-
-**Progress the Opportunity & Close the Deal** 
-* Increase # of closed deals per rep
-* Accelerate sales cycle time and improve conversion of SAOs to Closed/Won deals
-* Increase average sale price (inclusive of improved product mix to sell more Premium/Silver and Ultimate/Gold)
-* Accelerate and improve predictability of new rep ramp time
-* Improve forecasting accuracy
-* Improve win rates
-
-**Retain & Expand**
-* Improve renewal rates (inclusive of up-sell and cross-sell)
-* Accelerate customer time to value
-* Increase breadth of stage adoption
-
+- **Engage & Educate the Customer**
+    - Increase # of rep-sourced opps
+    - Accelerate sales cycle time and improve conversion of MQLs to SAOs 
+    - Accelerate and improve predictability of new rep ramp time
+- **Progress the Opportunity & Close the Deal** 
+    - Increase # of closed deals per rep
+    - Accelerate sales cycle time and improve conversion of SAOs to Closed/Won deals
+    - Increase average sale price (inclusive of improved product mix to sell more Premium/Silver and Ultimate/Gold)
+    - Accelerate and improve predictability of new rep ramp time
+    - Improve forecasting accuracy
+    - Improve win rates
+- **Retain & Expand**
+    - Improve renewal rates (inclusive of up-sell and cross-sell)
+    - Accelerate customer time to value
+    - Increase breadth of stage adoption
 </details>
+
 <details>
-<summary markdown="span">
-  5. What is most important right now (2HFY21)?
-</summary>
+<summary markdown="span">5. What is most important right now (2HFY21)?</summary>
 
 1. Field certification program (Sales, CS & Partner audiences)
-2. Sales methodology & process
-      * Command of the Message & MEDDPICC operationalization
-3. Functional onboarding training for Sales & Customer Success roles
-      * Continued execution & ongoing iteration to accelerate time to productivity for new field team members
-4. Support launch & expansion of new GitLab channel partner program
-      * Embrace partner enablement as an extension of GitLab Sales and Customer Success enablement
-5. Standard operating procedures for Sales & Customer Success
-      * Sales process documentation
-      * Sales enablement to reduce the dependence of SALs & AEs on SAs
-6. Improve learning experience via enhanced L&D tooling 
-      * LMS/LXP selection & implementation
-7. Launch sales/field communications strategy
-8. Continuous learning
-      * CS Skills Exchange, Sales Enablement Level Up Webcast series
-9. Improve sales asset management (in collaboration with Marketing)
-10. Sales events support (SKO, QBRs) 
-
+1. Sales methodology & process
+    - Command of the Message & MEDDPICC operationalization
+1. Functional onboarding training for Sales & Customer Success roles
+    - Continued execution & ongoing iteration to accelerate time to productivity for new field team members
+1. Support launch & expansion of new GitLab channel partner program
+    - Embrace partner enablement as an extension of GitLab Sales and Customer Success enablement
+1. Standard operating procedures for Sales & Customer Success
+    - Sales process documentation
+    - Sales enablement to reduce the dependence of SALs & AEs on SAs
+1. Improve learning experience via enhanced L&D tooling 
+    - LMS/LXP selection & implementation
+1. Launch sales/field communications strategy
+1. Continuous learning
+    - CS Skills Exchange, Sales Enablement Level Up Webcast series
+1. Improve sales asset management (in collaboration with Marketing)
+1. Sales events support (SKO, QBRs) 
 </details>
+
 <details>
-<summary markdown="span">
-  6. Who must do what?
-</summary>
+<summary markdown="span">6. Who must do what?</summary>
 
-**[Sr. Director, Field Enablement](/job-families/sales/director-of-field-enablement/#senior-director-field-enablement)**
-* [David Somers](/company/team/#dcsomers)
-
-**[Program Managers: Enterprise Sales, Commercial Sales, and Technical Sales / Customer Success](/job-families/sales/program-manager-field-enablement/)**
-* [Eric Brown](/company/team/#ejbrown71) (Enterprise Sales Enablement)
-* [Tanuja Paruchuri](/company/team/#tparuchuri) (Sales & Customer Success Onboarding)
-* [Kris Reynolds](/company/team/#kreynolds1) (Customer Success Enablement)
-* [Kelley Shirazi](/company/team/#kelley-shirazi) (Commercial Sales Enablement)
-* TBH (Partner Enablement)
-
-**[Sales Training Facilitator](/sales/sales-training-facilitator-field-enablement/)**
-* [John Blevins](/company/team/#jblevins608)
-
-**[Sales Communications Manager](/job-families/sales/sales-communications-manager/)**
-* [Monica Jacob](/company/team/#monicaj)
-
-**[Technical Instructional Designer](/job-families/sales/technical-instructional-designer/)**
-* [Issac Abbasi](/company/team/#iabbasi)
-
+- **[Sr. Director, Field Enablement](/job-families/sales/director-of-field-enablement/#senior-director-field-enablement)**
+    - [David Somers](/company/team/#dcsomers)
+- **[Program Managers: Enterprise Sales, Commercial Sales, and Technical Sales / Customer Success](/job-families/sales/program-manager-field-enablement/)**
+    - [Eric Brown](/company/team/#ejbrown71) (Enterprise Sales Enablement)
+    - [Tanuja Paruchuri](/company/team/#tparuchuri) (Sales & Customer Success Onboarding)
+    - [Kris Reynolds](/company/team/#kreynolds1) (Customer Success Enablement)
+    - [Kelley Shirazi](/company/team/#kelley-shirazi) (Commercial Sales Enablement)
+    - TBH (Partner Enablement)
+- **[Sales Training Facilitator](/sales/sales-training-facilitator-field-enablement/)**
+    - [John Blevins](/company/team/#jblevins608)
+- **[Sales Communications Manager](/job-families/sales/sales-communications-manager/)**
+    - [Monica Jacob](/company/team/#monicaj)
+- **[Technical Instructional Designer](/job-families/sales/technical-instructional-designer/)**
+    - [Issac Abbasi](/company/team/#iabbasi)
 </details>   
 
 
