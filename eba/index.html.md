@@ -424,7 +424,7 @@ Access to Mission Control: In case of a meeting in San Francisco at Mission Cont
 * For interviews: CES should tag EBA on Greenhouse to review times submitted by the candidate, or to provide times for the VP
 * If you add any meetings to calendar directly, tick the box “Attendees can modify” so EBA can change if necessary
 * External meeting requests (with those outside of GitLab): email EBA and VP and loop them in with external parties. EBA will then schedule directly with external parties.
-* Internal meeting requests (with other GitLabbers)
+* Internal meeting requests (with other GitLab Team Members)
   * Please slack EBA in #sales-vp channel 
   * If the meeting is confidential (ex: interviews), please slack EBA directly
 * Please include the following in your slack/email
