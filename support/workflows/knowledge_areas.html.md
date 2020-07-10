@@ -37,17 +37,18 @@ Topics are in alphabetical order with team members grouped by region.
 |               | APAC   | Julian <br> Priyan <br> Athar                                                                                                                                    |
 |               | EMEA   | Catalin <br> Rehab <br> Alin                                                                                                                                               |
 | ElasticSearch | AMER   | Blair <br> Michael Lussier <br> JasonC                                                                                                                |
+|               | APAC   | AlexS                                                                                                                                                 |
 | Git LFS       | AMER   | Diana <br> Will <br> Lewis                                                                                                                            |
 |               | EMEA   | Ben                                                                                                                                                   |
 | HA            | AMER   | Aric <br> James <br> JasonC <br> Gabe <br> Lewis                                                                                                      |
-|               | APAC   | Mike <br> Athar                                                                                                                                                 |
+|               | APAC   | Mike <br> Athar <br> AlexS                                                                                                                                                |
 |               | EMEA   | Catalin                                                                                                                                               |
 | Kubernetes    | AMER   | Harish <br> JasonC <br> Michael Lussier <br> Thiago <br> Caleb W. <br> JasonY <br> Lewis                                                              |
 |               | APAC   | Alex Tanayno <br> Julian <br> Arihant <br> Priyan                                                                                                     |
 |               | EMEA   | Rehab                                                                                                     |
 | Linux         | AMER   | Greg <br> Keven <br> Gabe <br> Cody West <br> James Lopes <br> Will <br> Davin <br> Lewis <br> Tom H                                                           |
 |               | EMEA   | Ben <br> David Wainaina <br> Catalin <br> Rehab <br> Alin                                                                                                                 |
-|               | APAC   | Mike <br> Priyan <br> Athar                                                                                                                                      |
+|               | APAC   | Mike <br> Priyan <br> Athar <br> AlexS                                                                                                                                     |
 | Omnibus       | AMER   | Aric <br> Diana <br> Greg <br> Harish <br> John <br> Nathan <br> Gabe <br> Cody West <br> Keven <br> Davin <br> JasonY <br> Lewis <br> Brie <br> Phil |
 |               | APAC   | AlexS <br> Anton <br> Weimeng <br> Mike <br> Priyan                                                                                                   |
 |               | EMEA   | Catalin <br> Segolene <br> Rehab <br> Alin                                                                                                                                          |
@@ -73,9 +74,10 @@ If you need help with scripting for fixes, internal tools, or any other reason.
 |                         | AMER   | Davin <br> Phil                                                           |
 | Vue.js                  | APAC   | Wei-Meng Lee <br> Athar                                                   |
 |                         | EMEA   | Catalin                                                                   |
-| Ansible                 | APAC   | Wei-Meng Lee <br> Julian <br> Mike <br> Priyan <br> JasonY <br> Athar     |
+| Ansible                 | AMER   | JasonY                                                                    |
+|                         | APAC   | Wei-Meng Lee <br> Julian <br> Mike <br> Priyan <br> AlexS <br> Athar      |
 | Zendesk app development | EMEA   | DeAndre                                                                   |
-| Bash                    | APAC   | Mike <br> Priyan                                                          |
+| Bash                    | APAC   | Mike <br> Priya <br> AlexS                                                          |
 |                         | EMEA   | David Wainaina <br> Catalin <br> Rehab <br> Alin                                              |
 |                         | AMER   | Davin <br> Lewis                                                          |
 | Python                  | APAC   | Matthew <br> Athar                                                        |
@@ -285,10 +287,10 @@ This section is ordered by stage and group according to the [product categories 
 | -------------- | ------ | ----------------------------------------------- |
 | Geo            | EMEA   | Alin <br> Catalin                               |
 |                | AMER   | Aric <br> Harish <br> John <br> Gabe <br> Lewis |
-|                | APAC   | Anton                                           |
+|                | APAC   | Anton <br> AlexS                                |
 | Backup/Restore | EMEA   |                                                 |
 |                | AMER   | Davin <br> Lewis                                |
-|                | APAC   |                                                 |
+|                | APAC   | AlexS                                                |
 
 ##### Database
 
