@@ -19,7 +19,6 @@ title: "Technical Account Management Handbook"
 - [TAM and Support Interaction](/handbook/customer-success/tam/support/)
 - [Escalation Process](/handbook/customer-success/tam/escalations/)
 - [TAM-to-TAM Account Handoff](/handbook/customer-success/tam/account-handoff/)
-- [Usage Ping Playbook](/handbook/customer-success/tam/usage-ping-faq/)
 - [TAM READMEs](/handbook/customer-success/tam/readmes/) (Optional)
 
 ### Customer journey
@@ -29,6 +28,7 @@ title: "Technical Account Management Handbook"
 - [Digital Journey](/handbook/customer-success/tam/digital-journey/)
 - [Cadence Calls](/handbook/customer-success/tam/cadence-calls/)
 - [Success Plans](/handbook/customer-success/tam/success-plans/)
+- [Usage Ping](/handbook/customer-success/tam/usage-ping-faq/)
 - [Playbooks](/handbook/customer-success/playbooks/)
 - [Stage Adoption](/handbook/customer-success/tam/stage-adoption/)
 - [Executive Business Reviews (EBRs)](/handbook/customer-success/tam/ebr/)

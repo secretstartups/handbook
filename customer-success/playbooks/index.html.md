@@ -61,7 +61,7 @@ The following playbooks are aligned to our [customer adoption journey](https://a
 | Create Success Plan | **Yes** | Automated | CTA | Lifecycle |      |
 | Executive Business Reviews | **Yes** | Automated | CTA | Lifecycle | [EBR in a Box](https://drive.google.com/open?id=1wQp59jG8uw_UtdNV5vXQjlfC9g5sRD5K)     |
 | New Customer Onboarding | **Yes** | Automated | CTA | Lifecycle |      |
-| Usage Ping Enablement | **Yes** | Manual | CTA | Lifecycle |
+| Usage Ping Enablement | **Yes** | Manual | CTA | Lifecycle | [Usage Ping FAQ](/handbook/customer-success/tam/usage-ping-faq/) |
 | Upcoming Renewal | Coming Soon | Automated | CTA | Lifecycle |      |
 | Prometheus & Grafana | Coming Soon | Manual | Not Available | Not Available |  [Internal link - existing Playbook](https://drive.google.com/open?id=1pEu4FxYE8gPAMKGaTDOtdMMfoEKjsfBQ)    |
 | GitLab Days | Coming Soon | Manual | Not Available | Not Available | [Internal link - existing Playbook](https://drive.google.com/open?id=1LrAW0HI-8SiPzgqCfMCy2mf9XYvkWOKG)     |
@@ -70,8 +70,3 @@ The following playbooks are aligned to our [customer adoption journey](https://a
 | Health Check | - | Manual | CTA | Activity |  |
 
 TAMs create playbooks to provide a prescriptive methodology to help with customer discussions around certain aspects of GitLab. We currently have a [Stage Adoption Guideline](/handbook/customer-success/tam/stage-adoption/) to assist with understanding where a customer stands, and we are working on merging adoption maps into the use case pages.
-
-
-
-
-
