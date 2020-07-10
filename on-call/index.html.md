@@ -18,6 +18,13 @@ If you're a GitLab team member looking for who is currently the Engineer On Call
 If you're a GitLab team member looking for help with a security problem, please see the [Engaging the Security On-Call](/handbook/engineering/security/#engaging-the-security-on-call) section.
 {: .alert .alert-info}
 
+## Expectations for On-Call
+
+- If you are on call, then you are expected to be available and ready to respond to PagerDuty pings as soon as possible, but certainly within any response times set by our [Service Level Agreements](/support/#priority-support) in the case of Customer Emergencies. This may require bringing a laptop and reliable internet connection with you if you have plans outside of your work space while being on call, as an example.
+- We take on-call seriously. There are escalation policies in place so that if a first responder does not respond fast enough another team member or members is/are alerted. Such policies are essentially expected to never be triggered, but they cover extreme and unforeseeable circumstances.
+- Provide support to the release managers in the release process.
+- As noted in the [main handbook](/handbook/paid-time-off), after being on-call take time off. Being available for issues and outages will wear you off even if you had no pages, and resting is critical for proper functioning. Just let your team know.
+- More detailed descriptions can be found [here](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/uncategorized/lead-away.md).
 
 ## Customer Emergency On-Call Rotation
 
@@ -31,25 +38,6 @@ If you're a GitLab team member looking for help with a security problem, please 
 - If you need to reach the current on-call engineer and they're not accessible on Slack (e.g. it's a weekend, or the end of a shift), you can [manually trigger a PagerDuty incident](https://support.pagerduty.com/docs/incidents#section-manually-trigger-an-incident) to get their attention, selecting **Customer Support** as the Impacted Service and assigning it to the relevant Support Engineer.
 - See the [GitLab Support On-Call Guide](/handbook/support/on-call/) for a more
   comprehensive guide to handling customer emergencies.
-
-#### Expectations for On-Call
-
-- If you are on call, then you are expected to be available and ready to respond to PagerDuty pages as soon as possible, but certainly within any response times set by our [Service Level Agreements](/support/#priority-support) in the case of Customer Emergencies. This may require bringing a laptop and reliable internet connection with you if you have plans outside of your work space while being on call, as an example.
-- We take on-call seriously. There are escalation policies in place so that if a first responder does not respond fast enough another team member or members is/are alerted. Such policies are essentially expected to never be triggered, but they cover extreme and unforeseeable circumstances.
-- Provide support to the release managers in the release process.
-- Automate as much as possible to get rid of toil, create new alerts and tools to enhance the on-call experience.
-- As noted in the [main handbook](/handbook/paid-time-off), after being on-call take time off. Being available for issues and outages will wear you off even if you had no pages, and resting is critical for proper functioning. Just let your team know.
-- More detailed descriptions can be found [here](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/uncategorized/lead-away.md).
-
-#### Swapping On-Call Duty
-
-To swap an on-call shift, or temporarily replace someone currently on-call, add an override on the main schedule in PagerDuty.
-This is done by clicking on the relevant block of time in PagerDuty, selecting "override", and
-filling in the name of the person you swapped with. Also see [this article](https://support.pagerduty.com/hc/en-us/articles/202830170-Creating-and-Deleting-Overrides) for reference.
-
-#### Changing the rotation of the current schedule 
-
-When [adding new team member](/handbook/on-call/#adding-and-removing-people-from-the-roster) it's inevitable that the rotation schedule will shift. The manager adding a new team member will add the individual towards the end of the current rotation to avoid changing the current schedule, however as there might be a need to add an individual to the top of the rotation a change in the current rotation might be unavoidable. When adding a new team member to the rotation, the manager will raise the topic on the weekly call to make sure everyone has ample time to make changes. 
 
 ## Reliability Engineering Team On-Call Rotation
 
@@ -94,8 +82,16 @@ The Infrastructure department's Reliability Engineering teams provide 24x7 on-ca
 - The list of pipelines which are monitored are defined on our [pipeline](handbook/engineering/quality/guidelines/debugging-qa-test-failures/#scheduled-qa-test-pipelines) page. 
 - The schedule and roster is defined on our [schedule](handbook/engineering/quality/guidelines/#schedule) page.
 
-## Adding and removing people from the roster
+## PagerDuty
 
-In principle, it is straightforward to add or remove people from the on-call schedules, through the same "schedule editing" links provided above for setting overrides. However, **do not** change the timezone setting (located in the upper left corner of the image below) unless you absolutely most certainly intend to. As indicated in the image below, when editing a schedule (adding, removing, changing time blocks, etc.), make sure you keep the timezone setting in the upper left corner constant. If you change the timezone setting, PagerDuty will _not_ move the time 'blocks' for on-call duty, but instead it will assume that you meant to keep the selected time blocks (e.g. "11am to 7pm") in the _new_ timezone. As a result, your new schedule may become disjointed from the old ones (old = the schedule as set _before_ the "change on this date" selection), and gaps may appear in the schedule.
+We use [PagerDuty](http://gitlab.pagerduty.com/) to set the on-call
+schedules, and to route notifications to the appropriate individual(s).
 
-![changing pagerduty](/handbook/on-call/changing_pagerduty.png)
+### Swapping On-Call Duty
+
+To swap on-call duty with someone, select the relevant block of time in PagerDuty, selecting "override" and
+filling in the name of the person you swapped with. Also see [this article](https://support.pagerduty.com/hc/en-us/articles/202830170-Creating-and-Deleting-Overrides) for reference.
+
+### Adding and removing people from the roster
+
+When adding a new team member to the on-call roster, it's inevitable that the rotation schedule will shift. The manager adding a new team member will add the individual towards the end of the current rotation to avoid changing the current schedule, however as there might be a need to add an individual to the top of the rotation a change in the current rotation might be unavoidable. When adding a new team member to the rotation, the manager will raise the topic to their team(s) to make sure everyone has ample time to make changes. 
