@@ -374,17 +374,6 @@ Access to Mission Control: In case of a meeting in San Francisco at Mission Cont
 * Use personal Zoom links for interviews, all other meetings, especially external meetings, should utilize a one-time Zoom link
 
 
-## Scheduling for Mark Pundsack, VP of Product Strategy
-
-* Morning meeting times should be reserved for those outside of US time zones
-* Mark does not mind others scheduling into his calendar, but meeting requests should be made so that it can be modified if necessary
-* "Work time" should be preserved whenever possible
-* "Blocked" times on the calendar coincide with personal time away from work, please confirm with the EBA for Product & Engineering prior to scheduling over this
-* All meeting requests should include an agenda or doc for reference that should be provided to the EBA for Product & Engineering at least 48 hours prior to the scheduled meeting
-* Meetings should be scheduled around the Group Conversations and Company Calls unless unavoidable.  If scheduling over these calls, please confirm in Slack #eba-team channel prior to sending an invite
-* Working Sessions will be recorded and uploaded to GitLab's Unfiltered channel on YouTube within 24-hours (this can be private or public depending on the information discussed in the session)
-
-
 ## Scheduling for Scott Williamson, VP of Product
 
 * All meeting requests should go through the EBA for Product & Engineering
@@ -396,7 +385,6 @@ Access to Mission Control: In case of a meeting in San Francisco at Mission Cont
 * Red blocks are either personal appointments or working blocks that cannot be compromised
 * Reminders at -2 weeks, -1 week and -2 days should be put ont the calendar for the following events: OKR, Group Conversations (Product and Growth), Board of Director meetings, Monthly Key Meetings
 * 1:1's should always be rescheduled instead of cancelled unless unavoidable due to OOO/PTO schedules
-
 
 ## Scheduling for Dave Gilbert, VP of Recruiting
 
@@ -434,7 +422,6 @@ Access to Mission Control: In case of a meeting in San Francisco at Mission Cont
   * Duration: 25 mins, 50 mins, etc.
   * Subject of the meeting
   * Provide context: include agenda to be covered. Share google doc if available to be included in invite or link relevant issues, slides, etc.
-
 
 ## Scheduling for Finance VPs and Sr. Leadership
 
