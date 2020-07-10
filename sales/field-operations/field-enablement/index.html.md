@@ -3,6 +3,8 @@ layout: handbook-page-toc
 title: "Field Enablement"
 ---
 
+{::options parse_block_html="true" /}
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -12,9 +14,9 @@ title: "Field Enablement"
 ## Overview
 
 The Field Enablement team's mission is to help customers successfully grow and evolve in their journey with GitLab to achieve positive business outcomes with effective enablement solutions aligned to [Gitlab’s values](/handbook/values/). We do this by:
-*  Collaborating with cross-functional stakeholders (including but not limited to Sales, Customer Success, Marketing, Sales Ops, Product/Engineering, and the People team) to lead the facilitation of prioritized behavior change in the GitLab Field Team to achieve desired business outcomes. 
-*  Defining, coordinating, and/or leading the development and delivery of effective enablement solutions for GitLab Sales, Customer Success, and Partners throughout all phases of the customer journey as well as different stages of each team member's tenure and/or experience at or with GitLab. 
-*  Championing the needs and interests of the Field Team (all routes to market) – ensuring that they are regularly informed about relevant business and organizational updates and have access to enablement materials necessary for day-to-day work to meet and exceed business objectives. 
+*  Collaborating with cross-functional stakeholders (including but not limited to Sales, Customer Success, Marketing, Sales Ops, Product/Engineering, and the People team) to lead the facilitation of prioritized behavior change in the GitLab Field Team to achieve desired business outcomes.
+*  Defining, coordinating, and/or leading the development and delivery of effective enablement solutions for GitLab Sales, Customer Success, and Partners throughout all phases of the customer journey as well as different stages of each team member's tenure and/or experience at or with GitLab.
+*  Championing the needs and interests of the Field Team (all routes to market) – ensuring that they are regularly informed about relevant business and organizational updates and have access to enablement materials necessary for day-to-day work to meet and exceed business objectives.
 
 Please see our [Key Programs](/handbook/sales/field-operations/field-enablement/#key-programs) to learn more. Want to communicate with us? Please Slack us at [#field-enablement-team](https://gitlab.slack.com/archives/field-enablement-team).
 
@@ -56,7 +58,7 @@ Chat between David Somers (Sr. Director, Field Enablement) and Sid Sijbrandij (C
 <summary>Key Discussion Points</summary>
 
 - Our [Mission](/company/strategy/#mission) is that Everyone Can Contribute, and our most important value is [Results](/handbook/values/#results). Like we've extended that to the Handbook, we want to extend it to our Learning Materials.
-- We want to leverage the best of an e-learning platform, with the benefits of reminders, interactivity, and more but make sure the materials we produce are also available to those who aren't using an e-learning platform, while fulfilling [our mission](/company/strategy/#mission). 
+- We want to leverage the best of an e-learning platform, with the benefits of reminders, interactivity, and more but make sure the materials we produce are also available to those who aren't using an e-learning platform, while fulfilling [our mission](/company/strategy/#mission).
 - There are benefits to keeping our e-learning material [handbook-first](/handbook/handbook-usage/#why-handbook-first):
    * Folks who have already completed a formal training through an e-learning platform may want to return to the materials
    * Those who never go through the formal platform may also benefit from the materials
@@ -67,7 +69,7 @@ Chat between David Somers (Sr. Director, Field Enablement) and Sid Sijbrandij (C
 Inspired by _The Advantage: Why Organizational Health Trumps Everything Else in Business_ by Patrick Lencioni
 
 <details>
-<summary>1. Why does the GitLab Field Enablement team exist?</summary>
+<summary markdown="span">1. Why does the GitLab Field Enablement team exist?</summary>
 See our team mission in the [Overview](/handbook/sales/field-operations/field-enablement/#overview) section.
 </details>
 
@@ -87,7 +89,7 @@ On our best day, we show up with a positive attitude while demonstrating [GitLab
 
 - Define, coordinate, and/or lead the development and delivery of effective enablement solutions (training, technology, knowledge, content, process, and tools) for GitLab sales reps, Customer Success professionals, and partners
 - Lead facilitation of prioritized behavior change in the GitLab field organization
-- Serve as a champion for the field – ensure they are regularly informed about relevant business and organizational updates and have access to enablement materials necessary for day-to-day work 
+- Serve as a champion for the field – ensure they are regularly informed about relevant business and organizational updates and have access to enablement materials necessary for day-to-day work
 - Collaborate cross-functionally with key stakeholders including Sales, Customer Success, Marketing, Sales Ops, Product, and PeopleOps
 </details>
 
@@ -97,9 +99,9 @@ The below is a work in progress as we define success measures across each stage 
 
 - **Engage & Educate the Customer**
     - Increase # of rep-sourced opps
-    - Accelerate sales cycle time and improve conversion of MQLs to SAOs 
+    - Accelerate sales cycle time and improve conversion of MQLs to SAOs
     - Accelerate and improve predictability of new rep ramp time
-- **Progress the Opportunity & Close the Deal** 
+- **Progress the Opportunity & Close the Deal**
     - Increase # of closed deals per rep
     - Accelerate sales cycle time and improve conversion of SAOs to Closed/Won deals
     - Increase average sale price (inclusive of improved product mix to sell more Premium/Silver and Ultimate/Gold)
@@ -125,13 +127,13 @@ The below is a work in progress as we define success measures across each stage 
 1. Standard operating procedures for Sales & Customer Success
     - Sales process documentation
     - Sales enablement to reduce the dependence of SALs & AEs on SAs
-1. Improve learning experience via enhanced L&D tooling 
+1. Improve learning experience via enhanced L&D tooling
     - LMS/LXP selection & implementation
 1. Launch sales/field communications strategy
 1. Continuous learning
     - CS Skills Exchange, Sales Enablement Level Up Webcast series
 1. Improve sales asset management (in collaboration with Marketing)
-1. Sales events support (SKO, QBRs) 
+1. Sales events support (SKO, QBRs)
 </details>
 
 <details>
@@ -173,7 +175,7 @@ The below is a work in progress as we define success measures across each stage 
           - `career dev` - label for issues related to career development
           - `field certification` - label for issues related to https://about.gitlab.com/handbook/sales/training/field-certification/
           - `field communications` - label for items that include work by/with the Field Communications team within Field Enablement
-          - `field events` - label for Field Enablement-supported events (e.g. QBRs, SKO, President's Club, etc.) 
+          - `field events` - label for Field Enablement-supported events (e.g. QBRs, SKO, President's Club, etc.)
           - `force management` - label for issues related to Force Management engagement
              - `vff` - label for Value Framework Feedback
              - `vff::new` - starting point for Value Framework feedback
@@ -187,13 +189,13 @@ The below is a work in progress as we define success measures across each stage 
           - `status:scheduled` - used in conjunction with sales enablement sessions to indicate when a session topic has been prioritized and scheduled
       - **Priority labels**
           - `FE:new request` - label for triaging new requests originating outside of the Field Enablement team
-          - `FE priority::1` - Home runs (high value to GitLab and high likelihood of success that align to S&CE OKRs) and committed to completion within 90 days. This category will be limited because not everything can be a priority. 
+          - `FE priority::1` - Home runs (high value to GitLab and high likelihood of success that align to S&CE OKRs) and committed to completion within 90 days. This category will be limited because not everything can be a priority.
           - `FE priority::2` - Big Bets (high value to GitLab, lower likelihood of success) within 90 days
           - `FE priority::3` - Small wins (lower value to GitLab, high likelihood of success) within 90 days
           - `FE priority::Backlog` - Things in the queue not currently being worked
           - `QBR` - Requests from Sales QBRs
    *  **Field Enablement Issue Boards**
-      - [Field Enablement By Initiative Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1191445) 
+      - [Field Enablement By Initiative Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1191445)
       - [Field Enablement By Priority Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1644552?&label_name[]=field%20enablement)
       - [Sales Enablement Sessions Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1231617)
       - [Customer Success Skills Exchange Board](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/boards/1414538)
