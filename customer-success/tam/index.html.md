@@ -18,7 +18,7 @@ title: "Technical Account Management Handbook"
 - [TAM and Product Interaction](/handbook/customer-success/tam/product/)
 - [TAM and Support Interaction](/handbook/customer-success/tam/support/)
 - [Escalation Process](/handbook/customer-success/tam/escalations/)
-- [Account Handoff](/handbook/customer-success/tam/account-handoff/)
+- [TAM-to-TAM Account Handoff](/handbook/customer-success/tam/account-handoff/)
 - [Usage Ping Playbook](/handbook/customer-success/tam/usage-ping-faq/)
 - [TAM READMEs](/handbook/customer-success/tam/readmes/) (Optional)
 
