@@ -10,29 +10,24 @@ title: "Demystifying the Metrics Conversation"
 {:toc .hidden-md .hidden-lg}
 
 ## Overview
-Many sales reps find the Metrics portion of the Command of the Message customer conversation to be a difficult one for one or more of the below reasons.
-- Many customers don’t have good metrics
+Many sales reps struggle with the Metrics portion of the Command of the Message customer conversation framework to be a difficult one. To learn more, check out the Force Management blog, ["Why Sales Reps Struggle with Metrics in the Sales Conversation."](https://www.forcemanagement.com/blog/why-sales-reps-struggle-with-metrics-in-the-sales-conversation). Below are some of the challenges your peers have shared.
+- Many customers don’t have good metrics and may not know what to measure
 - Customers may be reluctant to share metric details for negotiation purposes (they don't want to admit how compelling of an ROI GitLab can provide!)
-- Challenge with finding the perfect proof point(s) to demonstrate how we've helped other organizations
+- Sales team members struggle with finding the perfect proof point(s) to demonstrate how we've helped similar organizations (e.g. similar industry, business challenge, geography, etc.)
 - Difficulty connecting Metrics with Positive Business Outcomes (PBOs)
 - Metrics, if used in the wrong way, can get complex and technical
-
-To learn more, check out the Force Management blog, ["Why Sales Reps Struggle with Metrics in the Sales Conversation."](https://www.forcemanagement.com/blog/why-sales-reps-struggle-with-metrics-in-the-sales-conversation)
 
 The following sections outline practical tips to help demystify the Metrics conversation and overcome the challenges identified above. 
 
 ## Embrace Your Role as the Trusted Advisor
-- Customers may not know why their DevOps initiatives are not delivering desired or optimal results
-- Help them diagnose and lead with insights to help them accomplish their Positive Business Outcomes (PBOs)
-
-## Demonstrate Empathy
-Below is an example of how Nico Ochoa (Strategic Account Leader, US West) opens some of his conversations to connect with his customers to try to understand what challenges they are experiencing. 
+Keep in mind that many customers may not understand why their DevOps initiatives are not delivering desired or optimal results. Help them diagnose and lead with insights to help them accomplish their Positive Business Outcomes (PBOs). Below is an example of how Nico Ochoa (Strategic Account Leader, US West) opens some of his conversations to connect with his customers to try to understand what challenges they are experiencing. 
 
 “If you’re like other organizations we speak with, below are some of the common challenges they encounter in their software development life cycle:
 1. There is still significant room for improvement in their DevOps processes
 1. They lack visibility across their entire Software Development Life Cycle
 1. They are unable to clearly measure and assess developer productivity
 1. Silos persist between Development, Security, and Operations teams
+
 Are any of these true for your organization?”
 
 ![empathy-word-cloud](/handbook/sales/command-of-the-message/empathy-word-cloud.png)
@@ -41,6 +36,8 @@ Are any of these true for your organization?”
 The best Metrics conversations are **STORIES** that articulate quantifiable measurements and proof of the business benefits of the solution to the customer’s problem(s). Examples:
 - John May (Strategic Account Leader, US East) leverages this [DORA State of DevOps 2019 slide](https://docs.google.com/presentation/d/1cNcqXbcYR5pEfz-t8_VBE86fqdma_Jc7ws5Icm9FDKY/edit?usp=sharing) to emotionally appeal to individuals' desire to become elite performers and highlights relevant success stories of organizations ([Ticketmaster](/blog/2017/06/07/continous-integration-ticketmaster/), [Verizon Connect](https://www.youtube.com/watch?v=zxMFaw5j6Zs), [Paessler AG](/customers/paessler/), and more) that have accomplished this with GitLab
 - Nico Ochoa (Strategic Account Leader, US West) explains the value of GitLab by talking in terms of a software factory and applying lean manufacturing principles. More specifically, GitLab applies these principles to take waste out of the process of developing and deploying applications to increase operational efficiencies, deliver better products faster, and reduce security and compliance risk.
+
+As a follow on to the above, familiarize yourself with GitLab's Value Stream Management (VSM) & Value Stream Analytics capabilities ([start here](https://youtu.be/0MR7Q8Wiq6g)). Effectively articulating these capabilities plays to two of GitLab's key differentiators: 1) Single Application for Entire DevOps Lifecycle and 2) End-to-End Insight and Visibility. Additional short customer-facing VSM videos are available at [Learn@GitLab](/learn/). 
 
 ## Know the Difference Between Economic and Technical Metrics
 
