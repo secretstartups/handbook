@@ -86,6 +86,10 @@ We send out an investor email. It consists of seven parts:
 
 The email includes a link to the [GitLab Metrics](/handbook/business-ops/data-team/kpi-index/#gitlab-metrics) sheet.
 
+We distribute the investor update by the 10th day after the end of the month. 
+
+The draft email is created in a google doc that is shared in #investor-update on slack. The google doc should not have any html as the document is pasted into an email for distribution by the CEO. 
+
 We first laid this out in [a blog post which we no longer keep up to date](/blog/2018/10/17/how-we-keep-investors-in-the-loop/).
 
 ## Performance Indicators (assuming publicly traded)
