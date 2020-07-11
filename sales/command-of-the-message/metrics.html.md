@@ -30,8 +30,6 @@ Keep in mind that many customers may not understand why their DevOps initiatives
 
 Are any of these true for your organization?”
 
-![empathy-word-cloud](/handbook/sales/command-of-the-message/empathy-word-cloud.png)
-
 ## Be a Good Storyteller
 The best Metrics conversations are **STORIES** that articulate quantifiable measurements and proof of the business benefits of the solution to the customer’s problem(s). Examples:
 - John May (Strategic Account Leader, US East) leverages this [DORA State of DevOps 2019 slide](https://docs.google.com/presentation/d/1cNcqXbcYR5pEfz-t8_VBE86fqdma_Jc7ws5Icm9FDKY/edit?usp=sharing) to emotionally appeal to individuals' desire to become elite performers and highlights relevant success stories of organizations ([Ticketmaster](/blog/2017/06/07/continous-integration-ticketmaster/), [Verizon Connect](https://www.youtube.com/watch?v=zxMFaw5j6Zs), [Paessler AG](/customers/paessler/), and more) that have accomplished this with GitLab
