@@ -42,18 +42,72 @@ Value drivers describe what organizations are likely proactively looking for or 
 
 Differentiators can influence a technical buyer's decision criteria in defining the required capabilities for the solution they are seeking. Effective differentiators must be perceived as valuable by the customer and be defensible.  
 
-| **GitLab Differentiator** | **Description** |
-| :------: | ------ |
-| **Single Application for Entire DevOps Lifecycle** | - Complete DevSecOps platform delivered as a single application<br> - One interface, one user-model, one data model<br> - A software ‘factory’ that supports the entire DevOps lifecycle<br> - Deeply integrated, making developers happier and more efficient<br> - Centralized collaboration for a wide variety of roles (collaborate without waiting) |
-| **Leading SCM and CI in One Application** | - The backbone of a DevOps toolchain in one application<br> - Streamlines code review and collaboration<br> - Start with SCM or CI (or both)<br> - One interface, one user-model, one data model<br> - Interoperable with other tools (continue using tools you love!)<br> - Proven enterprise scale | 
-| **Built In Security and Compliance** | - Security features out-of-the-box (code scanning, dependency scanning, secrets detection, etc.)<br> - Automated security testing and audit controls to facilitate policy compliance<br> - Shift left: move security testing earlier in the development lifecycle; security testing at the point of code commit<br> - Developers get immediate feedback about new vulnerabilities they introduce<br> - Enables better collaboration between development and security teams<br> - One interface, one user-model, one data model for DevSecOps | 
-| **Deploy Your Software Anywhere** | - Deploy to any environment, any cloud<br> - Support for GCP, AWS, Azure, OpenShift, VMWare, On Prem, Bare Metal, etc.<br> - Workflow portability: one deployment workflow regardless of destination | 
-| **Optimized for Kubernetes** | - Enables adoption of modern cloud-native development patterns such as microservices and serverless<br> - Minimizes the Kubernetes learning curve by enabling setup and use of clusters from the GitLab user interface<br> - View and manage Kubernetes deployment pod details and logs from the GitLab user interface<br> - Automatic monitoring of every Kubernetes deployed application and the clusters they are deployed to<br> - Built-in canary and incremental deployment strategies with automatic canary metric collection and display<br> - Active contributor to the future of cloud native technologies (through the Cloud Native Computing Foundation) | 
-| **End-to-End Insight and Visibility** | - Common data model uniquely allows for insights across the entire DevSecOps lifecycle<br> - Configurable insights dashboard that shows status of work items over time<br> - Cycle analytics data helps identify areas of improvement of cycle times<br> - Security insights provide a roll-up of vulnerabilities<br> - Program level insights help keep projects on-track | 
-| **Flexible GitLab Hosting Options** | - Use in the cloud or install in your own environment (cloud or on-prem)<br> - Feature parity between GitLab.com and self-managed<br> - Migrate from one hosting option to another when needs change<br> - Implement hybrid hosting models to support scaling (like CI Runners in the cloud)<br> - Easy to upgrade and maintain in any environment | 
-| **Rapid Innovation** | - Releases every month, for 100+ months running<br> - A constant stream of new features --> GitLab gets more valuable over time<br> - Uniquely transparent product development process; customers, partners and community can contribute | 
-| **Open Source; Everyone Can Contribute** | - Open core development model allows anyone to contribute to the functionality of the product<br> - Uniquely transparent product development process engaging customers, partners and the community<br> - Strong and growing community (100K+ organizations and millions of users)<br> - Harness open source innovations within the product experience (eg. Prometheus) | 
-| **Collaborative and Transparent Customer Experience** | - We operationalize our core values into how we develop our product and engage with our community and customers<br> - Extreme transparency around roadmaps, issues, company meetings and processes<br> - We use GitLab for collaborating with customers in a transparent way, for both issue resolution and roadmap iteration<br> - GitLab provides an evolving case study of DevSecOps and agile practices at scale, accessible through the public handbook |
+**Single Application for Entire DevOps Lifecycle** 
+- Complete DevSecOps platform delivered as a single application
+- One interface, one user-model, one data model
+- A software ‘factory’ that supports the entire DevOps lifecycle
+- Deeply integrated, making developers happier and more efficient
+- Centralized collaboration for a wide variety of roles (collaborate without waiting) 
+
+**Leading SCM and CI in One Application**
+- The backbone of a DevOps toolchain in one application
+- Streamlines code review and collaboration
+- Start with SCM or CI (or both)
+- One interface, one user-model, one data model
+- Interoperable with other tools (continue using tools you love!)
+- Proven enterprise scale
+
+**Built In Security and Compliance** 
+- Security features out-of-the-box (code scanning, dependency scanning, secrets detection, etc.)
+- Automated security testing and audit controls to facilitate policy compliance
+- Shift left: move security testing earlier in the development lifecycle; security testing at the point of code commit
+- Developers get immediate feedback about new vulnerabilities they introduce
+- Enables better collaboration between development and security teams
+- One interface, one user-model, one data model for DevSecOps
+
+**Deploy Your Software Anywhere** 
+- Deploy to any environment, any cloud
+- Support for GCP, AWS, Azure, OpenShift, VMWare, On Prem, Bare Metal, etc.
+- Workflow portability: one deployment workflow regardless of destination
+
+**Optimized for Kubernetes**
+- Enables adoption of modern cloud-native development patterns such as microservices and serverless
+- Minimizes the Kubernetes learning curve by enabling setup and use of clusters from the GitLab user interface
+- View and manage Kubernetes deployment pod details and logs from the GitLab user interface
+- Automatic monitoring of every Kubernetes deployed application and the clusters they are deployed to
+- Built-in canary and incremental deployment strategies with automatic canary metric collection and display
+- Active contributor to the future of cloud native technologies (through the Cloud Native Computing Foundation)
+
+**End-to-End Insight and Visibility**
+- Common data model uniquely allows for insights across the entire DevSecOps lifecycle
+- Configurable insights dashboard that shows status of work items over time
+- Cycle analytics data helps identify areas of improvement of cycle times
+- Security insights provide a roll-up of vulnerabilities
+- Program level insights help keep projects on-track 
+
+**Flexible GitLab Hosting Options**
+- Use in the cloud or install in your own environment (cloud or on-prem)
+- Feature parity between GitLab.com and self-managed
+- Migrate from one hosting option to another when needs change
+- Implement hybrid hosting models to support scaling (like CI Runners in the cloud)
+- Easy to upgrade and maintain in any environment
+
+**Rapid Innovation**
+- Releases every month, for 100+ months running
+- A constant stream of new features --> GitLab gets more valuable over time
+- Uniquely transparent product development process; customers, partners and community can contribute 
+
+**Open Source; Everyone Can Contribute** 
+- Open core development model allows anyone to contribute to the functionality of the product
+- Uniquely transparent product development process engaging customers, partners and the community
+- Strong and growing community (100K+ organizations and millions of users)
+- Harness open source innovations within the product experience (eg. Prometheus)
+
+**Collaborative and Transparent Customer Experience**
+- We operationalize our core values into how we develop our product and engage with our community and customers
+- Extreme transparency around roadmaps, issues, company meetings and processes
+- We use GitLab for collaborating with customers in a transparent way, for both issue resolution and roadmap iteration
+- GitLab provides an evolving case study of DevSecOps and agile practices at scale, accessible through the public handbook
 </details>
 
 <details>
@@ -61,14 +115,12 @@ Differentiators can influence a technical buyer's decision criteria in defining 
 
 The Mantra is a framework you can use to clearly demonstrate that you have a complete understanding of your customer's goals, needs, and metrics for success. It also provides you with a customer-focused context to transition from the customer's needs which you have clearly articulated into how GitLab helps meet those needs. The Mantra is also a very good meeting prepartion tool to determine how well you know you're customer. If you cannot clearly articulate a customer-specific mantra, then you are not ready to progress the deal and you need to do more research. Below is a breakown of the CoM Mantra framework which can be adjusted and articulated in your own words.
 
-| **COM Mantra** | **Description** |
-| ------ | ------ |
-| What I hear you saying Mr./Ms. Customer is that these are the **Positive Business Outcomes** you’re trying to achieve…| Have you clearly captured your customer's business goals?|
-| In order to achieve these positive business outcomes, we agreed that these are the **Required Capabilities** you’re going to need..| Have you clearly captured and documented the customer's requiremet and aligned them with Gitlab's products and features? |
-| And you’ll probably want to measure these required capabilities using these **Metrics** | Have you worked with the customer to determine what metrics will measure success? |
-| Let me tell you **How We Do It…** | Can you articulate how the GitLab product works? |
-| Let me tell you **How We Do It Better/Differently…** | Did you research and align GitLab's Defensible Differentiators witih the customer's needs? |
-| But don’t take my word for it…**(Proof Points)** | Can you offer tangible evidence that you’ve been able to satisfy the Required Capabilities? |
+*  What I hear you saying Mr./Ms. Customer is that these are the **Positive Business Outcomes** you’re trying to achieve...
+*  In order to achieve these positive business outcomes, we agreed that these are the **Required Capabilities** you’re going to need...
+*  And you’ll probably want to measure these required capabilities using these **Metrics** 
+*  Let me tell you **How We Do It...**
+*  Let me tell you **How We Do It Better/Differently...**
+*  But don’t take my word for it...(Proof Points)**
 </details>
 
 <details>
@@ -153,10 +205,17 @@ Over time, the GitLab Value Framework and associated content above will iterate 
 <details>
 <summary markdown="span">Value Framework Iteration</summary>
 
-The below table summarizes enhancements made to the GitLab Value Framework and CoM materials since the original version 1.0 launch in Aug 2019.
+Below is a summary of enhancements made to the GitLab Value Framework and CoM materials since the original version 1.0 launch in Aug 2019.
+ 
+**Version 1.1 (May 2020)**
+- Created this stand-alone CoM Handbook page
+- Exposed mantra, GitLab value drivers, and differentiators in Handbook
+- Adjusted [core content](https://about.gitlab.com/handbook/sales/command-of-the-message/#resources-core-content) sharing settings to make available for public consumption
+- Integrated Professional Services value proposition into the GitLab Value Framework
+- Introduced [Discovery Questions for Selling GitLab Premium/Silver and Ultimate/Gold](https://about.gitlab.com/handbook/sales/qualification-questions/#questions-for-selling-gitlab-premiumsilver-and-ultimategold)
+- Updated proof points
 
-| Version | Timing | Enhancements |
-| ------ | ------ | ------ |
-| 1.1 | May 2020 | - Created this stand-alone CoM Handbook page <br> - Exposed mantra, GitLab value drivers, and differentiators in Handbook <br> - Adjusted [core content](https://about.gitlab.com/handbook/sales/command-of-the-message/#resources-core-content) sharing settings to make available for public consumption <br> - Integrated Professional Services value proposition into the GitLab Value Framework <br> - Introduced [Discovery Questions for Selling GitLab Premium/Silver and Ultimate/Gold](https://about.gitlab.com/handbook/sales/qualification-questions/#questions-for-selling-gitlab-premiumsilver-and-ultimategold) <br> - Updated proof points |
-| 1.2 | Aug 2020 | - [More Proactive and Robust Metrics Guidance](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/184) <br> - Additional Proof Points update |
+**Version 1.2 (Aug 2020)**
+- [More Proactive and Robust Metrics Guidance](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/184)
+- Additional Proof Points update
 </details>
