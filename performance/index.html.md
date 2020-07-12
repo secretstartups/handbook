@@ -419,7 +419,7 @@ To go a little deeper and measure performance of the application & infrastructur
 
 For instance, to get the transaction timing for the merge request referenced above first visit the merge request page, then visit the Rails Controller dashboard and scroll down to the [Transaction Details table](https://dashboards.gitlab.net/dashboard/db/rails-controllers?panelId=11&fullscreen&orgId=1&var-action=Projects::MergeRequestsController%23show). We do not currently have time series graphs _per URL_ nor do we have specific targets in terms of what this timing should be.
 
-## Availability and Performance Prioritization
+## Availability and Performance labels
 {: #availability-performance-labels}
 
 ### Availability
