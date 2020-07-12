@@ -60,7 +60,7 @@ For GitLab.com Availability, please refer to the [Availability Prioritization](/
 | `~performance` Response time <br> (API/Web)[^1] | Above 9000ms to timing out   | Between 2000ms and 9000ms                             | Between 1000ms and 2000ms                    | Between 500ms and 1000ms                       |
 | `~performance` Degradation <br> (to be reviewed for deprecation) |             | Degradation is guaranteed to occur in the near future | Degradation is likely to occur in the near future | Degradation may occur but it's not likely |
 | Affected Users <br> (to be reviewed for deprecation) | Impacts 50% or more of users | Impacts between 25%-50% of users                 | Impacts up to 25% of users                   | Impacts less than 5% of users                  |
-| `~availability` GitLab.com Availability |See [Availability section](/handbook/engineering/quality/issue-triage#availability)|See [Availability section](/handbook/engineering/performance/#availability)|See [Availability section](/handbook/engineering/performance/#availability)|See [Availability section](/handbook/engineering/performance/#availability)|
+| `~availability` GitLab.com Availability |See [Availability section](/handbook/engineering/quality/issue-triage#availability-severity)|See [Availability section](/handbook/engineering/performance/#availability)|See [Availability section](/handbook/engineering/performance/#availability)|See [Availability section](/handbook/engineering/performance/#availability)|
 | `~security` Security Vulnerability |See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|
 
 ### Examples of severity levels
@@ -101,7 +101,7 @@ The severity of these issues may change depending on the re-analysis of the impa
 | `~S3` | Broad impact on GitLab.com and minor inconvenience to customer's day-to-day workflow. No workaround needed.  | Inconsistently reproducible | Within 30 days | Next release after resolution | `~P2` |
 | `~S4` | Minimal impact on GitLab.com, no known customers affected | Inconsistently reproducible | 60 days  | Next release after resolution | `~P3` |
 
-#### Availability prioritization band
+#### Availability prioritization
 
 To call out specifics on what priorities can be set on an availability issue, please refer to the prioritization band table below.
 
