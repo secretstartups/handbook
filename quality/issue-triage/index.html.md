@@ -60,10 +60,11 @@ For GitLab.com Availability, please refer to the [Availability Prioritization](/
 | `~performance` Response time <br> (API/Web)[^1] | Above 9000ms to timing out   | Between 2000ms and 9000ms                             | Between 1000ms and 2000ms                    | Between 500ms and 1000ms                       |
 | `~performance` Degradation <br> (to be reviewed for deprecation) |             | Degradation is guaranteed to occur in the near future | Degradation is likely to occur in the near future | Degradation may occur but it's not likely |
 | Affected Users <br> (to be reviewed for deprecation) | Impacts 50% or more of users | Impacts between 25%-50% of users                 | Impacts up to 25% of users                   | Impacts less than 5% of users                  |
-| `~availability` GitLab.com Availability |See [Availability Prioritization](/handbook/engineering/performance/#availability)|See [Availability Prioritization](/handbook/engineering/performance/#availability)|See [Availability Prioritization](/handbook/engineering/performance/#availability)|See [Availability Prioritization](/handbook/engineering/performance/#availability)|
+| `~availability` GitLab.com Availability |See [Availability section](/handbook/engineering/quality/issue-triage#availability)|See [Availability section](/handbook/engineering/performance/#availability)|See [Availability section](/handbook/engineering/performance/#availability)|See [Availability section](/handbook/engineering/performance/#availability)|
 | `~security` Security Vulnerability |See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|
 
 ### Examples of severity levels
+{:.no_toc .hidden-md .hidden-lg}
 
 If a issue seems to fall between two severity labels, assign it to the higher severity label.
 
@@ -81,6 +82,35 @@ If a issue seems to fall between two severity labels, assign it to the higher se
 - Example(s) of `~S4`
   - Label colors are incorrect.
   - UI elements are not fully aligned.
+
+### Availability severity
+
+Issues with `~availability` label directly impacts the availability of GitLab.com. It is considered as another category of `~bug`.
+
+We categorize these issues based on the impact to GitLab.com's customer business goal and day to day workflow. 
+
+The prioritization scheme adheres to our [product prioritization](/handbook/product/product-processes/#how-we-prioritize-work) where security and availability work are prioritized over feature velocity. 
+
+The presence of these severity labels modifies the standard severity labels(`~S1`, `~S2`, `~S3`, `~S4`) by additionally taking into account the impact as described below. 
+The severity of these issues may change depending on the re-analysis of the impact to GitLab.com customers.
+
+| Severity | Availability impact | Reproducibility | Time to resolve (TTR) | Deployment target | Minimum priority |
+| -------- | ------------------- | --------------- | --------------------- | ----------------- | ---------------- |
+| `~S1` | Roadblock on GitLab.com and blocking customer's business goals and day to day workflow | Consistently reproducible | Within 48 hrs | Hotfix to GitLab.com | `~P1` |
+| `~S2` | Significant impact on GitLab.com and customer's day-to-day workflow. Customers have an acceptable workaround in place. | Consistently reproducible | Within 5 business days | Next deployment window after resolution | `~P1` |
+| `~S3` | Broad impact on GitLab.com and minor inconvenience to customer's day-to-day workflow. No workaround needed.  | Inconsistently reproducible | Within 30 days | Next release after resolution | `~P2` |
+| `~S4` | Minimal impact on GitLab.com, no known customers affected | Inconsistently reproducible | 60 days  | Next release after resolution | `~P3` |
+
+#### Availability prioritization band
+
+To call out specifics on what priorities can be set on an availability issue, please refer to the prioritization band table below.
+
+| Issue with the labels  | Allowed priorities | Not-allowed priorities |
+| ------ | ------ | ------ |
+| `~availability` `~S1`  | `~P1` only | `~P2`, `~P3`, and `~P4` |
+| `~availability` `~S2`  | `~P1` only | `~P2`, `~P3`, and `~P4` |
+| `~availability` `~S3`  | `~P2` as baseline, `~P1` allowed | `~P3`, and `~P4` |
+| `~availability` `~S4`  | `~P3` as baseline, `~P2` and `~P1` allowed | `~P4` |
 
 **Improving performance**: It may not be possible to reach the intended response time in one iteration.
 We encourage performance improvements to be broken down. Improve where we can and then re-evaluate the next appropriate level of severity & priority based on the new response time.
