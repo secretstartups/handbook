@@ -86,6 +86,7 @@ It generally occurs in:
 
 In 2020, the following offsite dates have been confirmed (starting dates):
 * 2020-05-26
+* 2020-08-17
 
 ## Timeline
 
