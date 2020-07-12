@@ -423,30 +423,8 @@ For instance, to get the transaction timing for the merge request referenced abo
 {: #availability-performance-labels}
 
 ### Availability
-Issues with `~availability` label directly impacts the availability of GitLab.com. It is considered as another category of `~bug`.
 
-We categorize these issues based on the impact to GitLab.com's customer business goal and day to day workflow. 
-
-The prioritization scheme adheres to our [product prioritization](https://about.gitlab.com/handbook/product/product-processes/#how-we-prioritize-work) where security and availability work are prioritized over feature velocity. 
-
-The presence of these severity labels modifies the standard severity labels(`~S1`, `~S2`, `~S3`, `~S4`) by additionally taking into account the impact as described below. 
-The severity of these issues may change depending on the re-analysis of the impact to GitLab.com customers.
-
-| Severity | Availability impact | Reproducibility | Time to resolve (TTR) | Deployment target | Minimum priority |
-| -------- | ------------------- | --------------- | --------------------- | ----------------- | ---------------- |
-| `~S1` | Roadblock on GitLab.com and blocking customer's business goals and day to day workflow | Consistently reproducible | Within 48 hrs | Hotfix to GitLab.com | `~P1` |
-| `~S2` | Significant impact on GitLab.com and customer's day-to-day workflow. Customers have an acceptable workaround in place. | Consistently reproducible | Within 5 business days | Next deployment window after resolution | `~P1` |
-| `~S3` | Broad impact on GitLab.com and minor inconvenience to customer's day-to-day workflow. No workaround needed.  | Inconsistently reproducible | Within 30 days | Next release after resolution | `~P2` |
-| `~S4` | Minimal impact on GitLab.com, no known customers affected | Inconsistently reproducible | 60 days  | Next release after resolution | `~P3` |
-
-To call out specifics on what priorities can be set on an availability issue, please refer to the prioritization band table below.
-
-| Issue with the labels  | Allowed priorities | Not-allowed priorities |
-| ------ | ------ | ------ |
-| `~availability` `~S1`  | `~P1` only | `~P2`, `~P3`, and `~P4` |
-| `~availability` `~S2`  | `~P1` only | `~P2`, `~P3`, and `~P4` |
-| `~availability` `~S3`  | `~P2` as baseline, `~P1` allowed | `~P3`, and `~P4` |
-| `~availability` `~S4`  | `~P3` as baseline, `~P2` and `~P1` allowed | `~P4` |
+This section has been moved to [Availability severity](/handbook/engineering/quality/issue-triage#availability).
 
 ### Performance
 
