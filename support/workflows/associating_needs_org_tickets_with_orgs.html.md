@@ -223,7 +223,8 @@ unless it was purchased additionally. Their tickets **will have no SLA**, and it
 status on the SFDC side according to [Finding the existing organization in SFDC](#finding-the-existing-organization-in-sfdc).
 
 - `Expired`. In general, it means that their self-managed license or GitLab.com subscription is expired
-but often it can be caused by some incorrect information on the SFDC side. Follow the section [Handling customers with expired licenses and updating info on SFDC side](#handling-customers-with-expired-licenses-and-updating-info) to fix it.
+but often it can be caused by some incorrect information on the SFDC side. Follow the section [Handling customers with expired licenses and updating info on SFDC side](#handling-customers-with-expired-licenses-and-updating-info) to fix it,
+and then follow the [Fixing tags for tickets with `Expired` organization](#fixing-tags-for-tickets-with-expired-organization) section.
 Note that we have [an ongoing issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/634)
 that causes a lot of accounts to be incorrectly shown as `Expired` in SFDC. Follow the same workflow to deal with them.
 
