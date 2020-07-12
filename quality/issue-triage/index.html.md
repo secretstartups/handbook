@@ -60,7 +60,7 @@ For GitLab.com Availability, please refer to the [Availability Prioritization](/
 | `~performance` Response time <br> (API/Web)[^1] | Above 9000ms to timing out   | Between 2000ms and 9000ms                             | Between 1000ms and 2000ms                    | Between 500ms and 1000ms                       |
 | `~performance` Degradation <br> (to be reviewed for deprecation) |             | Degradation is guaranteed to occur in the near future | Degradation is likely to occur in the near future | Degradation may occur but it's not likely |
 | Affected Users <br> (to be reviewed for deprecation) | Impacts 50% or more of users | Impacts between 25%-50% of users                 | Impacts up to 25% of users                   | Impacts less than 5% of users                  |
-| `~availability` GitLab.com Availability |See [Availability section](/handbook/engineering/quality/issue-triage#availability-severity)|See [Availability section](/handbook/engineering/performance/#availability)|See [Availability section](/handbook/engineering/performance/#availability)|See [Availability section](/handbook/engineering/performance/#availability)|
+| `~availability` GitLab.com Availability |See [Availability](/handbook/engineering/quality/issue-triage#availability)|See [Availability](/handbook/engineering/performance/#availability)|See [Availability](/handbook/engineering/performance/#availability)|See [Availability](/handbook/engineering/performance/#availability)|
 | `~security` Security Vulnerability |See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|
 
 ### Examples of severity levels
@@ -83,7 +83,7 @@ If a issue seems to fall between two severity labels, assign it to the higher se
   - Label colors are incorrect.
   - UI elements are not fully aligned.
 
-### Availability severity
+### Availability
 
 Issues with `~availability` label directly impacts the availability of GitLab.com. It is considered as another category of `~bug`.
 
@@ -112,6 +112,8 @@ To call out specifics on what priorities can be set on an availability issue, pl
 | `~availability` `~S3`  | `~P2` as baseline, `~P1` allowed | `~P3`, and `~P4` |
 | `~availability` `~S4`  | `~P3` as baseline, `~P2` and `~P1` allowed | `~P4` |
 
+### Performance
+
 **Improving performance**: It may not be possible to reach the intended response time in one iteration.
 We encourage performance improvements to be broken down. Improve where we can and then re-evaluate the next appropriate level of severity & priority based on the new response time.
 
@@ -119,7 +121,7 @@ We encourage performance improvements to be broken down. Improve where we can an
 This run happens nightly and results are outputted to the [wiki on the GPT project.](https://gitlab.com/gitlab-org/quality/performance/-/wikis/Benchmarks/Latest/10k)
 
 
-## Triaging Issues
+## Triagi### Availabilityng Issues
 
 Initial triage involves (at a minimum) labelling an issue appropriately, so un-triaged issues can be discovered by searching for issues without any labels.
 
