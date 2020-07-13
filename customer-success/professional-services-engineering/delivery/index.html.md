@@ -46,7 +46,7 @@ See the details in the Project workflow section of the [PS Project Management](h
 
 ### Planning and Delivering Education Services
 
-PSEs who deliver GitLab Education Services instructor-led courses can use the following workflow to ensure smooth interactions with customers.
+PSEs who deliver GitLab Education Services instructor-led courses can use the following workflow to ensure smooth interactions with customers. In addition, PSEs should complete these [GitLab Certified Trainer](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-trainer-process/) steps for each course they are scheduled to deliver.
 
 #### Preparation steps
 
