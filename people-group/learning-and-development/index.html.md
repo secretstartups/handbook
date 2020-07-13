@@ -67,7 +67,7 @@ Live Learning sessions will be conducted on a monthly basis. There will be a Zoo
 
 <ul>
 <li>10 minutes - introduction/content</li> 
-<li>J10-15 minutes - Q&A</li>
+<li>10-15 minutes - Q&A</li>
 </ul>
 
 <b>Format for 50 minute sessions (times below are approximate):</b>
@@ -90,7 +90,6 @@ Live Learning sessions will be conducted on a monthly basis. There will be a Zoo
 <b>The 2020 Live Learning schedule is as follows:</b>
 
 <ul>
-<li>June - Recognizing Bias (2020-06-24)</li> 
 <li>July - Understanding Social Styles (Date TBD)</li>
 <li>August - TBC</li>
 <li>September - GitLab Great Managers Program - 30 Day Challenge (Kickoff Date TBD)</li>
@@ -113,6 +112,7 @@ Live Learning sessions will be conducted on a monthly basis. There will be a Zoo
 <li>January - <a href="/company/culture/inclusion/being-an-ally/">Ally Training</a></li>
 <li>February - <a href="/handbook/people-group/guidance-on-feedback/#receiving-feedback">Receiving Feedback</a></li>
 <li>June - <a href="/handbook/people-group/guidance-on-feedback/#delivering-feedback">Delivering Feedback</a></li>
+<li>June - <a href="/company/culture/inclusion/unconscious-bias/">Recognizing Bias</a></li> 
 </ul>
 
 <b>2019</b>
