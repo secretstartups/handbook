@@ -127,10 +127,7 @@ What should you do if you receive a potential phishing email or text from GitLab
   If any systems provide an option to use SMS text as a second factor, this is highly discouraged.
   Phone company security can be easily subverted by attackers allowing them to take over a phone account.
   _(Ref: [6 Ways Attackers Are Still Bypassing SMS 2-Factor Authentication](https://www.securityweek.com/6-ways-attackers-are-still-bypassing-sms-2-factor-authentication) / [2 minute Youtube social engineering attack with a phone call and crying baby](https://www.youtube.com/watch?v=lc7scxvKQOo))_
-1. If you do not have a YubiKey, you may consider [purchasing one](/handbook/spending-company-money/).
-  A Yubikey or other hardware token can be used as a convenient 2-factor authentication
-  method after a first has been added to Okta, G Suite, GitLab instances, and
-  many other sites. Purchasing Yubikey is not mandatory, but is considered as an extra layer of authentication for better security.
+1. A Universal 2nd Factor or [U2F](https://en.wikipedia.org/wiki/Universal_2nd_Factor) hardware token can be used as a secure and convenient 2-factor authentication method for Okta, G Suite, GitLab instances, and many other sites. If you do not have one, you may consider [purchasing one](https://about.gitlab.com/handbook/spending-company-money/). Popular choices include Yubico's YubiKey and Solokeys' Solo Security Key. For more information on U2F and choices, visit the [Tools and Tips page](https://about.gitlab.com/handbook/tools-and-tips/#u2f).
 1. When signing up for a new service on behalf of GitLab:
    - Request a [Security Review](https://gitlab.com/gitlab-com/gl-security/compliance/compliance/issues/new?issuable_template=SOC%20Report%20Review) by opening an issue in the Compliance project.
    - If shared access is required by multiple team members to a single account,
