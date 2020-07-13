@@ -9,6 +9,10 @@ title: "GitLab Onboarding"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+# Ta-New-Ki Welcome Call
+
+Before your first day, the People Experience team hosts a pre-onboarding call with all new team members. This Zoom call is a chance for new team members to meet and learn more about what they can experience before they start.
+
 # Onboarding at GitLab
 
 Onboarding is [incredibly important](/company/culture/all-remote/onboarding/) at GitLab. We don't expect you to hit the ground running from day one.
