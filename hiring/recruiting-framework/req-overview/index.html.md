@@ -146,7 +146,23 @@ Once references are completed or as they are in progress, the Recruiter will mov
 When a candidate is moved to the Offer stage in Greenhouse the CES is notified via the Greenhouse notification configuration. At that time the CES should create the [Req Retro Issue](https://gitlab.com/gl-recruiting/req-intake/-/blob/master/.gitlab/issue_templates/req-retro.md) found in the [Req Intake Project](https://gitlab.com/gl-recruiting/req-intake). Instructions are found on the issue template, the participants are the CES, Recruiter, Sourcer and the Hiring Manager. The issue is used to reacap the req, report on KRs, as well discussing what went well during the process and what can be improved upon.  
 
 ### **Step 11: Verbal Offer**
+
 Once the offer is approved in Greenhouse and references are completed, an offer will be verbalized to the candidate by the Recruiter or Hiring Manager.
+
+The Recruiter will email the candidate and ask if they want to book a zoom call to discuss the offer details. During that call the Recruiter will go over:
+- Start Date
+- Job Title
+- Salary
+- General and specific benefits
+- Contract type
+- [Onboarding process](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-processes/)
+- [Stock options](https://about.gitlab.com/handbook/stock-options/)
+- [Unlimited paid-time-off](https://about.gitlab.com/handbook/paid-time-off/)
+- [Incentives](https://about.gitlab.com/handbook/incentives/)
+- [Office equipment/reimbursements](https://about.gitlab.com/handbook/spending-company-money/)
+- [Employment Assistance Program](https://about.gitlab.com/handbook/benefits/#employee-assistance-program)
+
+After the verbal offer is made the recruiter can send an email to the candidate with all the information covered in the zoom call. 
 
 *A verbal offer can **only** be communicated once the offer has been fully approved in Greenhouse.  Ahead of the official approval, the Recruiter may choose to have a conversation regarding what a potential compensation package may look like, however, the Recruiter must be clear that they are not extending a formal verbal offer as the offer has yet to be approved.* 
 
