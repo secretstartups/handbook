@@ -10,43 +10,45 @@ category: Handling tickets
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## How to respond to customer feedback
+## How to respond to Support Satisfaction feedback
 To understand the factors contributing to [Support Satisfaction](https://about.gitlab.com/handbook/support/performance-indicators/#support-satisfaction-ssat), Support Managers review feedback received for support tickets.
 
-The [Support Week in Review document](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/edit) identifies the current **SSAT Reviewing Manager**, with a link to the rotation in [PagerDuty](https://gitlab.pagerduty.com/schedules#P9UIIDY). During the rotation, the reviewing manager reviews all customer feedback and responds as needed.
+The [Support Week in Review document](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/edit) identifies the current **SSAT Reviewing Manager**, with a link to the rotation in [PagerDuty](https://gitlab.pagerduty.com/schedules#P9UIIDY). During the rotation, the reviewing manager reviews all feedback Issues and responds as needed.
 
 ### Required tools
-1. Customer Feedback Issues [are created and assigned](https://about.gitlab.com/handbook/support/support-ops/responsibilities.html#support-satisfaction-survey-ssat) to the SSAT Reviewing Manager automatically. The Manager receives email notification from GitLab and a To-Do item.
-1. All Customer Feedback Issues are shown in the [Customer Feedback Tracker](https://gitlab.com/gitlab-com/support/feedback/) (internal only).
+1. Feedback Issues [are created and assigned](https://about.gitlab.com/handbook/support/support-ops/responsibilities.html#support-satisfaction-survey-ssat) to the SSAT Reviewing Manager automatically. The Manager receives email notification from GitLab and a To-Do item.
+1. All Feedback Issues are shown in the [Feedback Tracker](https://gitlab.com/gitlab-com/support/feedback/) (internal only).
 
 ### How to handle "Good" Reviews
-For reviews with a "satisfaction::good" rating - go through each and read through the comments.
+Feedback Issues with label "satisfaction::good" - go through each and read through the comments.
 
-* If a specific person is mentioned, add the comment and ticket number to the [Support Week in Review document](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/edit) in the **Kudos** section for the week.
-* If there are general sentiments or themes, feel free to congratulate the whole team.
-* Be aware that engineers can see the Feedback comments on their tickets, and get notified by ZenDesk when a Feedback comment is added. You do not need to notify them or their managers.
+1. If a specific person is mentioned, add the comment and ticket number to the [Support Week in Review document](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/edit) in the **Kudos** section for the week.
+1. If there are general sentiments or themes, feel free to congratulate the whole team. For example, if we were praised for our overall approach to support, speed, clarity, etc.
+1. If no further action is needed, `close` the Feedback Issue.
 
-The GitLab Support Bot cleans up old "satisfaction::good" issues by closing them when they've had no activity in 7 days. However, if you're reviewing, no action needs to be taken, and the customer does not need to be contacted to discuss the ticket, you may `/close` it yourself.
+**Note:** Support Engineers can see the Feedback comments on their tickets, and get notified by ZenDesk when a Feedback comment is added. You do not need to notify them or their managers.
+
+**Note:** After 7 days of inactivity, the GitLab Support Bot closes "satisfaction::good" issues. 
 
 ### How to handle "Bad" Reviews
 For reviews with a "satisfaction::bad" rating, follow this process.
 
-1. Open the associated ticket and review its history. Add a comment to the Customer Feedback Issue (NOT the ticket!) that details:
+1. Open the associated ticket and review its history. Add a comment to the Feedback Issue (NOT the ticket!) that details:
 
 ```
 * **Summary of ticket/feedback:** 
 * **Action to be taken:** 
-* **Contact customer to discuss feedback? (Y/N)** 
+* **Contact user to discuss feedback? (Y/N)** 
 ```
 
-2. Apply one of the `feedback` project labels that best describe the situation:
+2. Apply **one** `feedback` project label that best describes the situation:
 
    * feedback::process
      - Support process not followed/does not exist
    * feedback::tech-skills
      - Technical skills lacking to resolve/work around problem
    * feedback::soft-skills
-     - Wording of responses and/or mishandling of the customer 
+     - Wording of responses and/or mishandling of the user/account 
    * feedback::docs-issue
      - Documentation not helpful or missing
    * feedback::product-issue
@@ -56,41 +58,40 @@ For reviews with a "satisfaction::bad" rating, follow this process.
    * feedback::lacking-info
      - Not enough information supplied to progress investigation in ticket
 
-This may not be an exhaustive list - for a full list of feedback labels
-and their descriptions, visit the [labels page in the support-feedback project](https://gitlab.com/gitlab-com/support/feedback/-/labels?utf8=%E2%9C%93&subscribed=&search=feedback%3A%3A).
+**Note:** For the full list of feedback labels and their descriptions, visit the [labels page in the support-feedback project](https://gitlab.com/gitlab-com/support/feedback/-/labels?utf8=%E2%9C%93&subscribed=&search=feedback%3A%3A).
 
-3. Determine whether additional [action needs to be taken](#if-there-is-action-to-be-taken). If no action needs to be taken, and the customer does not need to be contacted to discuss the ticket, you may `/close` it.
+3. Determine whether additional [action needs to be taken](#if-there-is-action-to-be-taken). If no action needs to be taken, and the user does not need to be contacted to discuss the ticket, `/close` the Feedback Issue.
 
 ### If there is action to be taken
 Determine the course of action and tag appropriate people.
 
 Examples of possible actions:
- - Contact the customer (see [below](#if-the-customer-is-to-be-contacted))
- - Create an issue to discuss the feedback in `support-team-meta` (please cross-link as related)
+ - Contact the user (see [below](#if-the-user-should-be-contacted))
+ - Create a new Issue to discuss the feedback in `support-team-meta` (cross-link the Feedback Issue as related)
  - Tag the manager of the person or people who participated in the ticket to discuss in a 1:1
  - Tag a product group for awareness (some negative feedback is product related)
 
-If further discussion is warranted, leave the issue open. Otherwise, you may `/close` it.
+If further discussion is warranted, leave the Feedback Issue open. Otherwise, `/close` it.
 
-### If the customer should be contacted
-If you feel like the customer should be contacted:
+### If the user should be contacted
+If you feel like the user should be contacted:
 
-1. Send them an email from your GitLab email address. Make sure you do the following:
+1. Send the user an email from your GitLab email address. Make sure you do the following:
  - introduce yourself, describing who you are and your role at GitLab
  - note the specifics of the situation, including ticket ID
  - restate and validate the customer's comments
  - offer any apologies or clarifications required, including links to relevant documentation
  - if appropriate, offer your Calendly link to schedule a video call
 
-2. Add the text of your email as a comment in the Customer Feedback Issue. Once you've done so, you may `/close` the issue; followup with the customer can continue via email.
+2. Add the text of your email as a comment in the Feedback Issue. Once you've done this, `/close` the Feedback Issue; followup can continue via email.
 
-3. If there are any additional actions that arise from your interaction with the customer, please go back and note them in the Customer Feedback Issue.
+3. If there are any additional actions that arise from your interaction with the user, go back and note them in the Feedback Issue.
 
 ### What does success look like?
 At the end of your rotation:
-1. You should have performed the triage work described above in "Good" and "Bad" sections for each Customer Feedback Issue assigned to you.
-1. Any customer contact has been initiated, and is either complete or in-process.
-1. All Customer Feedback Issues assigned to you should be closed, or only have outstanding dependencies on other groups (or on the customer).
+1. You should have performed the triage work described above in "Good" and "Bad" sections for each Feedback Issue assigned to you.
+1. Any user contact or GitLab group contact has been initiated, and is either complete or in-process.
+1. All Feedback Issues assigned to you should be closed, or only have outstanding dependencies on other groups (or on the user).
 
 ### How fast do I need to respond?
-Currently there is no SLA for responding to Customer Feedback Issues - but if the above process is followed, no issue should wait more than 7 days without an initial response.
+Currently there is no SLA for responding to Feedback Issues - but if the above process is followed, no issue should wait more than 7 days without an initial response.
