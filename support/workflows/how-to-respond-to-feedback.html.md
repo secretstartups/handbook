@@ -24,7 +24,7 @@ For reviews with a "satisfaction::good" rating - go through each and read throug
 
 * If a specific person is mentioned, add the comment and ticket number to the [Support Week in Review document](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/edit) in the **Kudos** section for the week.
 * If there are general sentiments or themes, feel free to congratulate the whole team.
-* Remember that engineers can see the Feedback comments on their tickets, and get notified by ZenDesk when a Feedback comment is added -- so you do not need to notify them or their managers.
+* Be aware that engineers can see the Feedback comments on their tickets, and get notified by ZenDesk when a Feedback comment is added. You do not need to notify them or their managers.
 
 The GitLab Support Bot cleans up old "satisfaction::good" issues by closing them when they've had no activity in 7 days. However, if you're reviewing, no action needs to be taken, and the customer does not need to be contacted to discuss the ticket, you may `/close` it yourself.
 
