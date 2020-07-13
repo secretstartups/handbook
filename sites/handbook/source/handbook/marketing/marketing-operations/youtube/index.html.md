@@ -158,12 +158,16 @@ We don't post:
 
 ## Unable to view a video on Youtube
 
-If you get a "Video unavailable This video is private." error on youtube, the error may be caused because the video is private to GitLab Unfiltered and you are accessing the video with your individual Youtube account. In order to see the video, click your photo or icon in the top right of Youtube, then click > Switch Account > GitLab Unfiltered. Once you are on GitLab unfiltered, reload the page and you can view the video. 
+If you get a "Video unavailable This video is private." error on youtube, the error may be caused because the video is private to GitLab Unfiltered and you are accessing the video with your individual Youtube account. 
+In order to see the video, 
+1. Click your photo or icon in the top right of Youtube 
+2. Then click > Switch Account > GitLab Unfiltered (If GitLab Unfiltered is not an option, see [Access](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#access) )
+3. Once you are on GitLab unfiltered, reload the page and you can view the video 
 
 ## Access
 
 1. GitLab branded channel: To request access, create a [Single Person Access Request issue](https://about.gitlab.com/handbook/business-ops/employee-enablement/it-ops-team/access-requests/#single-person-access-request) and assign the listed provisioner (column G) from the [Tech Stack spreadsheet](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=0). 
-1. GitLab Unfiltered: Everyone should get access to YouTube Unfiltered during onboarding. If you do not see an invitation in your Inbox, please check the [Pending Invitations](https://myaccount.google.com/brandaccounts) section of your GSuite account. If your invitation is not there, please request a new invitation in the peopleops Slack channel.
+1. GitLab Unfiltered: Everyone should get access to YouTube Unfiltered during onboarding. If you do not see an invitation in your Inbox, please check the [Pending Invitations](https://myaccount.google.com/brandaccounts) section of your GSuite account. If your invitation is not there, please request a new invitation in the `#peopleops` Slack channel.
 
 ## Commenting
 
