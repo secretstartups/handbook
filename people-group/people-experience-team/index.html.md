@@ -112,3 +112,7 @@ As the DRI for HelloSign, when a team member needs to have access to sign docume
 #### Monthly Billing
 
 1. When monthly expenses are due, we need to be able to provide Finance with the specific team members name in order to assign to the correct Department. To do this we would need to send a request to HelloSign Support on a monthly basis and often the response is not received in time for the monthly expenses. Once the list is received from HelloSign, simply send the Accounts Payable Specialist an email with the information.  
+
+#### 1Password Recovery Emails
+
+As we have admin rights to 1Password, on occassion we receive emails to people-exp@domain.com from 1Password with the subject line `Recovery has been continued!` to assist with the recovery of a team members 1Password access. Simply ignore and delete this email, as the IT Ops Team will assist with the recovery. 
