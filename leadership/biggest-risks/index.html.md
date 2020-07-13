@@ -19,8 +19,6 @@ We frequently get asked questions like:
 
 On this page, we document the biggest risks and how we intend to mitigate them. We also have a [biggest tailwinds](/handbook/leadership/biggest-tailwinds) page to see what waves we are riding in our current market.
 
-Biggest risks have numbers attached to them for [ease of reference, not for ranking](/handbook/communication/#numbering-is-for-reference-not-as-a-signal).
-
 ## 1. Lowering the hiring bar
 {:#lowering-the-hiring-bar}
 
