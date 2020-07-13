@@ -1,29 +1,43 @@
 ## Common Links
 
-| **GitLab.com Status** | [**Status Page**](https://status.gitlab.com/)
-| **How to get help** | [**How to get help**](/handbook/engineering/infrastructure/production/#how-to-get-help)
-| **Incident Management** | [How we handle GitLab.com incidents](/handbook/engineering/infrastructure/incident-management/) |
-| **Change Management**   | [How we manage changes to GitLab.com](/handbook/engineering/infrastructure/change-management/) |
-
-| **Workflow** | [**How may we be of service?**](production/#workflow--how-we-work) | | |
-| **Issue Trackers** | [**Infrastructure**](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/): [Milestones](https://gitlab.com/gitlab-com/gl-infra/infrastructure/milestones), [OnCall](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=oncall) | [**Production**](https://gitlab.com/gitlab-com/gl-infra/production/issues/): [Incidents](https://gitlab.com/gitlab-com/gl-infra/production/issues?label_name%5B%5D=incident), [Changes](https://gitlab.com/gitlab-com/gl-infra/production/issues?label_name%5B%5D=change), [Deltas](https://gitlab.com/gitlab-com/gl-infra/production/issues?label_name%5B%5D=delta) | [**Delivery**](https://gitlab.com/gitlab-com/gl-infra/delivery)
-| **Slack Channels** | [#infrastructure-lounge](https://gitlab.slack.com/archives/infrastructure-lounge), [#database](https://gitlab.slack.com/archives/database) | [#alerts](https://gitlab.slack.com/archives/alerts), [#production](https://gitlab.slack.com/archives/production) | [#g_delivery](https://gitlab.slack.com/archives/g_delivery)
-| **Operations** | [Runbooks](https://gitlab.com/gitlab-com/runbooks) (please contribute!) | **On-call**: [Handover Document](https://docs.google.com/document/d/1IrTi06fUMgxqDCDRD4-e7SJNPvxhFML22jf-3pdz_TI), [Reports](https://gitlab.com/gitlab-com/gl-infra/production/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=oncall%20report) |
+| **General Issue Trackers**                      | **General Slack Channels** | **Team Slack Channels** | **Resources**                                     |
+|-------------------------------------------------|----------------------------|-------------------------|---------------------------------------------------|
+| [Infrastructure issue queue][infra]             | [#production]              | [#sre_observability]    | [Production Architecture][architecture]           |
+| [Production incidents, and changes][production] | [#infrastructure-lounge]   | [#sre_datastores]       | [Operational Runbooks][runbooks]                  |
+| [Delivery][delivery]                            | [#incident-management]     | [#sre_coreinfra]        | [Environments][environments]                      |
+| [Scalability][scalability]                      | [#announcements]           | [#g_delivery]           | [Monitoring][monitoring]                          |
+|                                                 | [#feed_alerts-general]     | [#g_scalability]        | [Readiness Reviews][readiness]                    |
 
 ## Other Pages
 
-| **GitLab.com** | [Architecture](/handbook/engineering/infrastructure/production/architecture/) | [Environments](/handbook/engineering/infrastructure/environments/) | [Monitoring](/handbook/engineering/monitoring/) | [Performance](/handbook/engineering/performance/) |
-| **Production** | [SRE Onboarding](/handbook/engineering/infrastructure/team/reliability/sre-onboarding/) | [Readiness Guide](https://gitlab.com/gitlab-com/gl-infra/infrastructure/blob/master/.gitlab/issue_templates/production_readiness.md) | [Database Reliability](/handbook/engineering/infrastructure/database/) | [On-call Handover](/handbook/engineering/infrastructure/on-call-handover/) |
+* [On-call Handover](/handbook/engineering/infrastructure/on-call-handover/)
+* [GitLab.com and GitLab Hosted data breach notification policy](/security/#data-breach-notification-policy)
+* [Infrastructure careers and internships][interning]
 
-- [Production team handbook](/handbook/engineering/infrastructure/production/)
-- [GitLab.com and GitLab Hosted data breach notification policy](/security/#data-breach-notification-policy)
-- [Interning with SRE](/handbook/engineering/infrastructure/career/)
 
-<!-- This was from a different page!
+[status]: https://status.gitlab.com/
+[help]: /handbook/engineering/infrastructure/production/#how-to-get-help
+[incident]: /handbook/engineering/infrastructure/incident-management/
+[change]: /handbook/engineering/infrastructure/change-management/
+[infra]: https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/
+[production]: https://gitlab.com/gitlab-com/gl-infra/production/issues/
+[delivery]: https://gitlab.com/gitlab-com/gl-infra/delivery/issues/
+[scalability]: https://gitlab.com/gitlab-com/gl-infra/scalability/issues
 
-| **GitLab.com Status** | [**Status Page**](https://status.gitlab.com/) | **Getting help** | [**How to get help**](/handbook/engineering/infrastructure/production/#how-to-get-help) |
-| **Changes**   | [Managing changes](/handbook/engineering/infrastructure/change-management/) |
-| **State** | [**Production Board**](https://gitlab.com/gitlab-com/gl-infra/production/-/boards/1204483) | [**On-Call Board**](https://gitlab.com/groups/gitlab-com/-/boards/962703?&label_name[]=SRE%3AOn-call) | |
-| **Issue Trackers** | [Incidents](https://gitlab.com/gitlab-com/gl-infra/production/issues?label_name%5B%5D=incident), [Hotspots](https://gitlab.com/gitlab-com/gl-infra/production/issues?label_name%5B%5D=hotspot)  | [Changes](https://gitlab.com/gitlab-com/gl-infra/production/issues?label_name%5B%5D=change) | [Deltas](https://gitlab.com/gitlab-com/gl-infra/production/issues?label_name%5B%5D=delta) |
-| **Slack Channels** | [#incident-management](https://gitlab.slack.com/archives/incident-management) | [#alerts](https://gitlab.slack.com/archives/alerts) | [#production](https://gitlab.slack.com/archives/production) |
-| **Operations** | [Runbooks](https://gitlab.com/gitlab-com/runbooks) | **On-call** |[Handover Document](https://docs.google.com/document/d/1IrTi06fUMgxqDCDRD4-e7SJNPvxhFML22jf-3pdz_TI), [Reports](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues?scope=all&utf8=%E2%9C%93&state=closed&label_name[]=oncall%20report) | -->
+[#production]: https://gitlab.slack.com/archives/production
+[#infrastructure-lounge]: https://gitlab.slack.com/archives/infrastructure-lounge
+[#incident-management]: https://gitlab.slack.com/archives/incident-management
+[#announcements]: https://gitlab.slack.com/archives/announcements
+[#feed_alerts-general]: https://gitlab.slack.com/archives/feed_alerts-general
+[#g_delivery]: https://gitlab.slack.com/archives/g_delivery
+[#g_scalability]: https://gitlab.slack.com/archives/g_scalability
+[#sre_observability]: https://gitlab.slack.com/archives/sre_observability
+[#sre_datastores]: https://gitlab.slack.com/archives/sre_datastores
+[#sre_coreinfra]: https://gitlab.slack.com/archives/sre_coreinfra
+
+[architecture]: /handbook/engineering/infrastructure/production/architecture/
+[environments]: /handbook/engineering/infrastructure/environments/
+[monitoring]: /handbook/engineering/infrastructure
+[runbooks]: https://gitlab.com/gitlab-com/runbooks
+[readiness]: /handbook/engineering/infrastructure/production/readiness/
+[interning]: /handbook/engineering/infrastructure/career/
