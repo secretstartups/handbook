@@ -150,9 +150,9 @@ When a candidate is moved to the Offer stage in Greenhouse the CES is notified v
 Once the offer is approved in Greenhouse and references are completed, an offer will be verbalized to the candidate by the Recruiter or Hiring Manager.
 
 The Recruiter will email the candidate and ask if they want to book a zoom call to discuss the offer details. During that call the Recruiter will go over:
-- Starting date
-- Job title
-- Base salary
+- Start Date
+- Job Title
+- Salary
 - General and specific benefits
 - Contract type
 - [Onboarding process](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-processes/)
@@ -162,7 +162,7 @@ The Recruiter will email the candidate and ask if they want to book a zoom call 
 - [Office equipment/reimbursements](https://about.gitlab.com/handbook/spending-company-money/)
 - [Employment Assistance Program](https://about.gitlab.com/handbook/benefits/#employee-assistance-program)
 
-After the verbal offer is made the recruiter will send an email to the candidate with all the information covered in the zoom call. 
+After the verbal offer is made the recruiter can send an email to the candidate with all the information covered in the zoom call. 
 
 *A verbal offer can **only** be communicated once the offer has been fully approved in Greenhouse.  Ahead of the official approval, the Recruiter may choose to have a conversation regarding what a potential compensation package may look like, however, the Recruiter must be clear that they are not extending a formal verbal offer as the offer has yet to be approved.* 
 
