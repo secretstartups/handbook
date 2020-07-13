@@ -43,7 +43,7 @@ so the team members can have access to Modern Health
 
 ## CI Job Families Inclusivenes Check
 Whenever a merge request is created on the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/) project, we run a pipeline that checks for 
-inclusive language in the job families. We use an open source [Ruby gem](https://gitlab.com/gitlab-com/www-gitlab-com/) to perform this check.
+inclusive language in the job families. We use an open source [Ruby gem](https://gitlab.com/lienvdsteen/linter) to perform this check.
 
 Currently that library covers:
 - the usage of masculine vs feminine-coded language 
