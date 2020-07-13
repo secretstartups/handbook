@@ -67,7 +67,7 @@ Live Learning sessions will be conducted on a monthly basis. There will be a Zoo
 
 <ul>
 <li>10 minutes - introduction/content</li> 
-<li>J10-15 minutes - Q&A</li>
+<li>10-15 minutes - Q&A</li>
 </ul>
 
 <b>Format for 50 minute sessions (times below are approximate):</b>
