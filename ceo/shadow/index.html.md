@@ -189,7 +189,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ------ | ------ | ------ | ------ |
-| 2020-07-06 | 2020-07-10 | NO SHADOWS - PTO | NO SHADOWS - PTO |
 | 2020-07-13 | 2020-07-17 | [David DeSanto](https://gitlab.com/ddesanto) - Director of Product, Secure & Defend | [Hila Qu](https://gitlab.com/hilaqu) - Director of Product, Growth |
 | 2020-07-20 | 2020-07-24 | NO SHADOWS - PERSONAL  | NO SHADOWS - PERSONAL |
 | 2020-07-27 | 2020-07-31 | [Tim Rizzi](https://gitlab.com/trizzi) - Sr. Product Manager, Package | [David DeSanto](https://gitlab.com/ddesanto) - Director of Product, Secure & Defend |
