@@ -56,7 +56,8 @@ For reviews with a "satisfaction::bad" rating, follow this process.
    * feedback::lacking-info
      - Not enough information supplied to progress investigation in ticket
 
-This may not be an exhaustive list - for a full list and their descriptions, visit the [labels page in the support-feedback project](https://gitlab.com/gitlab-com/support/feedback/-/labels?utf8=%E2%9C%93&subscribed=&search=feedback%3A%3A).
+This may not be an exhaustive list - for a full list of feedback labels
+and their descriptions, visit the [labels page in the support-feedback project](https://gitlab.com/gitlab-com/support/feedback/-/labels?utf8=%E2%9C%93&subscribed=&search=feedback%3A%3A).
 
 3. Determine whether additional action needs to be taken (see section below). If no action needs to be taken, and the customer does not need to be contacted to discuss the ticket, you may `/close` it.
 
