@@ -28,7 +28,7 @@ measure it at a team level (or higher), not at an individual level.
 
 ## Implementation
 
-Throughput types classify merge requests and issues with a the top level types
+Throughput types classify merge requests and issues with a top level type
 in the list below. If an issue or merge request has more than one of these
 labels then the highest one in the list takes precedence.
 
