@@ -20,7 +20,7 @@ The Professional Services (PS) at GitLab forms a part for the Customer Success d
 Consulting Delivery deals with technology services like implementation, migration, etc., while Education Delivery provides training and certification services.
 
 
-# Professional Services Offerings:
+## Professional Services Offerings:
 
 
 - Implementation Services
@@ -31,7 +31,7 @@ Consulting Delivery deals with technology services like implementation, migratio
 
 More details of the offerings can be found at the PS Offering [Page](https://about.gitlab.com/services/>) and full [cataog](https://about.gitlab.com/services/catalog/)
 
-# Selling Professional Services:
+## Selling Professional Services:
 
 Professional services are usually sold through 2 packages:
 
@@ -47,7 +47,7 @@ The sale process of an Off-the-Shelf SKU is on lines of a License, however the s
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRTDUBlSfgoHo_kBa3GIE-wNmFqmyyu3ZO7dwvjW3AI-L6FYAkWNP_Tg-6V1A_iPFst0pxjmTfQ0bx_/pubhtml?gid=1540049258&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 </figure>
 
-# Professional Services Matrics:
+## Professional Services Matrics:
 
 **Targets:**
 
@@ -69,10 +69,10 @@ Detailed definitions to determine and track utilization can be found on the [PS 
 
 The PS team is organized according to specialized functions and responsibilities, details [here](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#team-functions)
 
-# PS Finance Team (FP&A):
+## PS Finance Team (FP&A):
 
 The Finance Team at GitLab manages the budget and planning processes for Professional Services by building and maintaining long-term financial models. Define the business drivers and KPIs in collaboration with the Professional Services leadership. The finance team owns the rolling forecast process and provides real-time information on the organization is performating against the forecast.
 
-# Reporting
+## Reporting
 
 Coming Soon....
