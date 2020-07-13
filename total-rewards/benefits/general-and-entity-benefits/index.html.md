@@ -57,16 +57,19 @@ GitLab has a "no ask, must tell" time off policy [time off policy](/handbook/pai
 
 ### Tuition Reimbursement
 
-GitLab supports team members who wish to continue their education and growth within their professional career. If you are a full-time GitLab team member and have been employed for more than three months, you are eligible to participate in this program.
-To be eligible for reimbursement, courses must be a requirement of a degree or certification program and delivered through a credentialed college or university or effective online education such as [Udacity](https://www.udacity.com/).
+GitLab supports team members who wish to continue their education and growth within their professional career. GitLab team-members are eligible for a reimbursement of up to [20,000 USD](/handbook/total-rewards/compensation/#exchange-rates) per calendar year (January 1st - December 31st) depending on tenure, performance, and company need for the learned skill. A course is considered to be included in the calendar year in which the course is paid/reimbursed (which should also be the same calendar year in which the course ends). 
 
-GitLab team-members are eligible for a reimbursement of up to [20,000 USD](/handbook/total-rewards/compensation/#exchange-rates) per calendar year (January 1st - December 31st) depending on tenure, performance, and company need for the learned skill. A course is considered to be included in the calendar year in which the course is paid/reimbursed (which should also be the same calendar year in which the course ends). Approval must be obtained from the e-group member in charge of your organization and in accordance with the [signature authorization policy](/handbook/finance/authorization-matrix/). There is no limit to the number of years a team member can participate in the program. Courses eligible for reimbursement include classes for credit resulting in a grade (not pass/fail), courses providing continuing education credits, and/or courses taken as part of a certification program. You must earn a passing grade equivalent to a “B” or obtain a successful completion certification to submit for reimbursement.
 
-Budget estimations for tuition reimbursement is based on utilization rates from past years. The budget is managed on a company-wide scale, not division-specific. For example, approving tuition reimbursement for a team member in Engineering, does not "take away" budget from other engineers. Eligibility is managed on an individual basis. Eligibility for this benefit is part of each GitLab team member's Total Rewards package. 
+**Tuition Reimbursement FAQs**
 
-The program will cover only the tuition and enrollment related fees. Additional fees related to parking, books, supplies, technology, or administrative charges are not covered as part of the program. Tuition will be validated by receipt showing proof of payment. A description of the course(s) and degree or certification program along with a final grade report or satisfactory certificate of completion are required to receive reimbursement.
+Can I participate in this program?
+* If you are a full-time GitLab team member and have been employed for more than three months, you are eligible to participate in this program.
 
-If you voluntarily terminate employment with GitLab after completion of the course and prior to completing twelve consecutive months of active employment after completion of the course, you will refund the entire amount of the educational expenses provided to you.
+What courses are eligible for reimbursement?
+* Courses must be a requirement of a degree or certification program and delivered through a credentialed college or university or effective online education such as [Udacity](https://www.udacity.com/).
+* There is no limit to the number of years a team member can participate in the program. 
+* Courses eligible for reimbursement include classes for credit resulting in a grade (not pass/fail), courses providing continuing education credits, and/or courses taken as part of a certification program. You must earn a passing grade equivalent to a “B” or obtain a successful completion certification to submit for reimbursement.
+* A description of the course(s) and degree or certification program along with a final grade report or satisfactory certificate of completion are required to receive reimbursement.
 
 Examples of requests that may be approved:
 
@@ -80,18 +83,36 @@ Examples of requests that may be denied:
 
 * A Marketing Manager seeking a master's in Human Resources, but has no intention of applying to a role in people ops.
 * A Frontend Engineer seeking a master's in computer science who is on a performance improvement plan or having discussions around underperformance.
+* Tuition Reimbursement Budget**
+Budget estimations for tuition reimbursement is based on utilization rates from past years. The budget is managed on a company-wide scale, not division-specific. For example, approving tuition reimbursement for a team member in Engineering, does not "take away" budget from other engineers. Eligibility is managed on an individual basis. Eligibility for this benefit is part of each GitLab team member's Total Rewards package. 
+
+Do I need to get approval to participate in this program?
+* Yes, seek verbal approval from your manager before you submit your tuition reimbursement form.
+* Approval will also be obtained from the e-group member in charge of your organization via Hello Sign in accordance with the [signature authorization policy](/handbook/finance/authorization-matrix/)
+
+I'm planning on taking a degree program, do I need approval for each class or for each semester/term?
+* A Tuition Reimbursement Application will be needed for each semester, however, the relevance of the classes taken for each semester will be subject to the approval of the manager and e-group leader.
+
+What is covered in the tuition reimbursement program?
+* The program will cover only the tuition and enrollment related fees. Additional fees related to parking, books, supplies, technology, or administrative charges are not covered as part of the program. Tuition will be validated by receipt showing proof of payment. 
+
+What happens if I leave GitLab?
+* If you voluntarily terminate employment with GitLab after completion of the course and prior to completing twelve consecutive months of active employment after completion of the course, you will refund the entire amount of the educational expenses provided to you.
+
 
 **Tuition Reimbursement Process**
 
 To receive tuition reimbursement, GitLab team members should follow the following process:
 
-1. GitLab team member first discusses their interest in professional development with their manager.
-1. If the manager agrees that the degree or certification program is aligned with the business and growth opportunities within GitLab, a minimum of three weeks prior to the course start date, the GitLab team member fills out a [Tuition Reimbursement Agreement](https://docs.google.com/document/d/1-WvPzoUMpcaUUOm3Gl5eDKQDw_-TtI4J0LP5ifMa8Vo/edit) and forwards it to the Total Rewards Analyst team at total-rewards@ domain to stage for the proper signatures (GitLab team member, Manager, People Operations) in HelloSign.
+1. Discuss your interest in professional development with your manager. If the manager agrees that the degree or certification program is aligned with the business and growth opportunities within GitLab, fill out the **first** page of the [Tuition Reimbursement Application Form](https://docs.google.com/document/d/1-WvPzoUMpcaUUOm3Gl5eDKQDw_-TtI4J0LP5ifMa8Vo/edit).
+1. If you are participating in a degree program, a Tuition Reimbursement Application Form will be needed for each semester or term. If this is the case, list down the course codes and names of the courses you are taking under the "Course" section of the form. 
+1. Once you have filled out the first page of the form, share or forward it to total-rewards@ domain.
+1. The Total Rewards will stage the second page for signatures in Hello Sign.
 1. The Total Rewards Analyst will confirm there are no additional [tax implications](/handbook/people-group/code-of-conduct/#tax-implications-for-tuition-reimbursement-by-country) for reimbursement in the team member's country.
 1. The Total Rewards Analyst  will file the application and signed agreement in BambooHR.
 1. The Total Rewards Analyst will also log the tuition reimbursement in the "Tuition Reimbursement Log" found on the Google Drive.
-1. Once the course is completed, an official grade report or successful certification of completion must be submitted to People Operations.
-1. After grades are verified, People Operations will ensure the reimbursement is processed through the applicable payroll by the second pay cycle after submission.
+1. Once the course is completed, an official grade report or successful certification of completion must be submitted to Total Rewards.
+1. After grades are verified, Total Rewards will ensure the reimbursement is processed through the applicable payroll by the second pay cycle after submission.
    * If the program does not allow for tuition deferment and this would cause financial strain on the team member, they can email the Total Rewards Analyst at total-rewards@domain to receive 50% of the reimbursement up front and the other 50% upon successful completion of the course.
 
 **Tax Implications for Tuition Reimbursement by Country**
