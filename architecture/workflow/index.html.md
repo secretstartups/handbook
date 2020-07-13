@@ -47,13 +47,13 @@ TL;DR:
 1. The author collaborates with the architecture evolution coach and a domain expert to create a
    blueprint merge request of the proposal,
 1. In the RFC-like style they get more people involved into the discussion to collect more feedback,
-1. The blueprint describes 1-year landscape and 3 iterations in the first 3 milestones,
+1. The blueprint describes 1-year forecast and 3 iterations in the first 3 milestones,
 1. When specific enough, the blueprint gets merged by an Engineering Leader,
 1. 3 [Directly Responsible Individuals
    (DRIs)](/handbook/people-group/directly-responsible-individuals/) get assigned and collaborate together to get the work done,
 1. A [Working Group](/company/team/structure/working-groups/) can be formed if needed, but is not required,
 1. DRIs propagate the blueprint across sub-departments and ensure that work gets scheduled,
-1. Teams schedule their work based on their interpretation of 1-year and 3-months landscapes,
+1. Teams schedule their work based on their interpretation of 1-year and 3-months forecasts,
 1. DRIs described in the blueprint are the decision makers for the approach taken,
 1. After 3 iterations work can be concluded or expanded for the next 3 iterations.
 
@@ -176,7 +176,7 @@ What](https://en.wikipedia.org/wiki/Start_With_Why) of the change that has been
 proposed in the issue.
 
 * Why - what is the motive and purpose, what is the problem are we trying to solve
-* How - how are we going to achieve that (1-year landscape)
+* How - how are we going to achieve that (1-year forecast)
 * What - what is the outcome, how can we measure it
 
 A blueprint merge request gets created and made visible as a result of
@@ -188,13 +188,13 @@ It needs to be written as a Markdown page in the
 `handbook/engineering/architecture/blueprints` directory in `www-gitlab-com`
 project.
 
-It describes the goal of the change and the 1-year landscape of how to make it
+It describes the goal of the change and the 1-year forecast of how to make it
 happen.
 
 ### Describing iterations
 
 At this point there is a blueprint merge request present in `www-gitlab-com`
-project, but it only describes the 1-year landscape. It is not precise enough
+project, but it only describes the 1-year forecast. It is not precise enough
 to reason about how to get it done, how to iterate wisely to get the most of
 this work.
 
@@ -202,7 +202,7 @@ Those who have been involved in the discussion in the blueprint merge request
 collaborate together to extend it with a 3-months landscape. More Domain
 Experts get involved if necessary. The result of this collaboration could be
 a description of three first iterations that can be done in a one milestone each.
-These iterations need to be a two-way-door solutions with a measurable impact.
+These iterations need to be [two-way-door](https://about.gitlab.com/handbook/values/#make-two-way-door-decisions) solutions with a measurable impact.
 
 If it is not possible to find at least two iterations, the blueprint merge
 request can not be approved and merged.
@@ -243,7 +243,7 @@ who knows the most about particular area of the product, service, and codebase.
 
 Then DRIs will propagate the blueprint downstream, to respective teams that
 will need to be involved, and these teams will schedule the work based on their
-interpretation of 1-year landscape and proposed iterations that will happen in
+interpretation of 1-year forecast and proposed iterations that will happen in
 the next 3 months. If a Working Groups gets formed the list of DRIs can be
 extended according to the process of how Working Groups organize efforts around
 the work.
