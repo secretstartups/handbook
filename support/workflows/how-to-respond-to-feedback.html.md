@@ -65,7 +65,7 @@ and their descriptions, visit the [labels page in the support-feedback project](
 Determine the course of action and tag appropriate people.
 
 Examples of possible actions:
- - Contact the customer (see below)
+ - Contact the customer (see [below](#if-the-customer-is-to-be-contacted))
  - Create an issue to discuss the feedback in `support-team-meta` (please cross-link as related)
  - Tag the manager of the person or people who participated in the ticket to discuss in a 1:1
  - Tag in a product group for awareness (some negative feedback is product related)
