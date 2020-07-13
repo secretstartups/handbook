@@ -767,3 +767,36 @@ Support may update chosen priority to meet these definitions.
     * Tag: `support_githost_io`
   * subscribers@gitlab.zendesk.com
     * Tag: `subscribers_gitlab.zendesk.com`
+
+### [Organization Name (partners)](https://gitlab.zendesk.com/agent/admin/ticket_fields/360012167559)
+
+* Description: https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/2445
+* User title: What is the name of the organization this is for? Name (partners)
+* Type: text
+* Permissions: Editable for end users
+* Required to submit a request
+
+### [Organization Email (partners)](https://gitlab.zendesk.com/agent/admin/ticket_fields/360012194200)
+
+* Description: https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/2445
+* User title: What is the email address of the customer with whom we should work at the Organization?
+* Type: text
+* Permissions: Editable for end users
+* Required to submit a request
+
+### [Partner troubleshooting](https://gitlab.zendesk.com/agent/admin/ticket_fields/360012194220)
+
+* Description: https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/2445
+* User title: Troubleshooting Details
+* User description: Please describe the steps you've taken so far in working on this issue with the customer.
+* Type: multi-line
+* Permissions: Editable for end users
+* Require to submit a request
+
+### [Customer Name (partners)](https://gitlab.zendesk.com/agent/admin/ticket_fields/360012167579)
+
+* Description: https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/2445
+* User title: What is the customer's name?
+* Type: text
+* Permissions: Editable for end users
+* Require to submit a request

@@ -614,3 +614,73 @@ metadata.
   * Editable for end users
 
 </details>
+
+### [Open Partner Form](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/360000818199)
+
+* Title: Support for Open Partners
+
+<details>
+<summary> <b>Fields</b> </summary>
+
+* Organization Name (partners)
+  * Required for end users, Editable for end users
+* Organization Email (partners)
+  * Required for end users, Editable for end users
+* Customer Name (partners)
+  * Required for end users, Editable for end users
+* Subject
+  * System field, Required for end users
+* Priority
+  * System field
+* Description
+  * System field, Required for end users
+* GitLab Version
+  * Required for end users, Editable for end users
+* Self Managed GitLab Install Type
+  * Required for end users, Editable for end users
+* Preferred Region for Support
+  * Editable for end users
+* Customer Priority
+  * Editable for end users
+* GitLab Issues
+* ARR
+* Document This
+* GitLab Plan
+* Channel (Received at email)
+* Partner troubleshooting
+  * Required for end users, Editable for end users
+
+</details>
+
+### [Select Partner Form](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/360000837100)
+
+* Title: Support for Select Partners
+
+<details>
+<summary> <b>Fields</b> </summary>
+
+* Organization Name (partners)
+  * Required for end users, Editable for end users
+* Subject
+  * System field, Required for end users
+* Priority
+  * System field
+* Description
+  * System field, Required for end users
+* GitLab Version
+  * Required for end users, Editable for end users
+* Self Managed GitLab Install Type
+  * Required for end users, Editable for end users
+* Preferred Region for Support
+  * Editable for end users
+* Customer Priority
+  * Editable for end users
+* GitLab Issues
+* ARR
+* Document This
+* GitLab Plan
+* Channel (Received at email)
+* Partner troubleshooting
+  * Required for end users, Editable for end users
+
+</details>
