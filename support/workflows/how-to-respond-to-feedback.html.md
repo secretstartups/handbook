@@ -62,7 +62,7 @@ and their descriptions, visit the [labels page in the support-feedback project](
 3. Determine whether additional [action needs to be taken](#if-there-is-action-to-be-taken). If no action needs to be taken, and the customer does not need to be contacted to discuss the ticket, you may `/close` it.
 
 ### If there is action to be taken
-Determine the course of action and tag in appropriate people.
+Determine the course of action and tag appropriate people.
 
 Examples of possible actions:
  - Contact the customer (see below)
