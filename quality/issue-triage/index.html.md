@@ -64,6 +64,8 @@ For GitLab.com Availability, please refer to the [Availability Prioritization](/
 | `~security` Security Vulnerability |See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|
 | `~UX` User experience problem | "I can't figure this out." Users are blocked or so confused that they believe they are blocked. | "I know why this is happening, but it's really painful to solve." Users do not understand the workaround and are likely to ask for support. | "This still works, but I have to make small changes to my process." Users are self sufficient in completing the task with the workaround, but may be significantly delayed. |  "There is a small inconvenience/inconsistency." Usability isn't ideal or there is a small cosmetic issue. |
 
+### UX debt
+
 Issues labeled as `~UX Debt` can also have a severity and priority labels applied *without* an accompanying `~bug` label. UX Debt results from the decision to release a user-facing feature that needs refinement, with the intention to improve it in subsequent iterations. Because it is an intentional decision, `~UX Debt` should not have a severity higher than `~S3`, because [MVCs](https://about.gitlab.com/handbook/values/#minimal-viable-change-mvc) should not have obvious bugs or significant usability problems.
 
 ### Examples of severity levels
