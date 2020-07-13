@@ -374,7 +374,7 @@ Access to Mission Control: In case of a meeting in San Francisco at Mission Cont
 * Use personal Zoom links for interviews, all other meetings, especially external meetings, should utilize a one-time Zoom link
 
 
-## Scheduling for Scott Williamson, VP of Product
+## Scheduling for Scott Williamson, EVP of Product
 
 * All meeting requests should go through the EBA for Product & Engineering
 * 1:1's with direct reports should occur weekly unless scheduling conflicts
