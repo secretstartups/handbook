@@ -10,8 +10,13 @@ title: "Demystifying the Metrics Conversation"
 {:toc .hidden-md .hidden-lg}
 
 ## Overview
-Many sales reps struggle with the Metrics portion of the Command of the Message customer conversation framework to be a difficult one. To learn more, check out the Force Management blog, ["Why Sales Reps Struggle with Metrics in the Sales Conversation."](https://www.forcemanagement.com/blog/why-sales-reps-struggle-with-metrics-in-the-sales-conversation). Below are some of the challenges your peers have shared.
-- Many customers don’t have good metrics and may not know what to measure
+Many sales reps struggle with the Metrics portion of the Command of the Message customer conversation framework to be a difficult one. To learn more, check out the Force Management blog, ["Why Sales Reps Struggle with Metrics in the Sales Conversation."](https://www.forcemanagement.com/blog/why-sales-reps-struggle-with-metrics-in-the-sales-conversation) One of the most common challenges is that many customers don't have good metrics, they aren't measuring, and they may not know what to measure. Check out the below video from Nico Ochoa (Strategic Account Leader, US West).
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/wkhVEg2C11M" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+Below are some additional challenges your peers have shared.
 - Customers may be reluctant to share metric details for negotiation purposes (they don't want to admit how compelling of an ROI GitLab can provide!)
 - Sales team members struggle with finding the perfect proof point(s) to demonstrate how we've helped similar organizations (e.g. similar industry, business challenge, geography, etc.)
 - Difficulty connecting Metrics with Positive Business Outcomes (PBOs)
@@ -20,7 +25,13 @@ Many sales reps struggle with the Metrics portion of the Command of the Message 
 The following sections outline practical tips to help demystify the Metrics conversation and overcome the challenges identified above. 
 
 ## Embrace Your Role as the Trusted Advisor
-Keep in mind that many customers may not understand why their DevOps initiatives are not delivering desired or optimal results. Help them diagnose and lead with insights to help them accomplish their Positive Business Outcomes (PBOs). Below is an example of how Nico Ochoa (Strategic Account Leader, US West) opens some of his conversations to connect with his customers to try to understand what challenges they are experiencing. 
+Keep in mind that many customers may not understand why their DevOps initiatives are not delivering desired or optimal results. Assist them in their diagnosis and lead with insights to help them accomplish their Positive Business Outcomes (PBOs). Listen to how Nico approaches initial discovery conversations.
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/ImjQqcHoI3U" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+Below is just one example of how you could leverage Nico's approach to open the conversation with your customers to begin to understand the specific challenges they are experiencing. 
 
 “If you’re like other organizations we speak with, below are some of the common challenges they encounter in their software development life cycle:
 1. There is still significant room for improvement in their DevOps processes
@@ -30,10 +41,20 @@ Keep in mind that many customers may not understand why their DevOps initiatives
 
 Are any of these true for your organization?”
 
+Another critical way to embrace your role as a trusted advisor is to become and stay intimately familiar with the specific problems that GitLab helps to solve. Watch the below video and master your knowledge of [GitLab's customer use cases](/handbook/use-cases/).
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/4wZQ_oxOcRs" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ## Be a Good Storyteller
-The best Metrics conversations are **STORIES** that articulate quantifiable measurements and proof of the business benefits of the solution to the customer’s problem(s). Examples:
-- John May (Strategic Account Leader, US East) leverages this [DORA State of DevOps 2019 slide](https://docs.google.com/presentation/d/1cNcqXbcYR5pEfz-t8_VBE86fqdma_Jc7ws5Icm9FDKY/edit?usp=sharing) to emotionally appeal to individuals' desire to become elite performers and highlights relevant success stories of organizations ([Ticketmaster](/blog/2017/06/07/continous-integration-ticketmaster/), [Verizon Connect](https://www.youtube.com/watch?v=zxMFaw5j6Zs), [Paessler AG](/customers/paessler/), and more) that have accomplished this with GitLab
-- Nico Ochoa (Strategic Account Leader, US West) explains the value of GitLab by talking in terms of a software factory and applying lean manufacturing principles. More specifically, GitLab applies these principles to take waste out of the process of developing and deploying applications to increase operational efficiencies, deliver better products faster, and reduce security and compliance risk.
+The best Metrics conversations are **STORIES** that articulate quantifiable measurements and proof of the business benefits of the solution to the customer’s problem(s). John May (Strategic Account Leader, US East) leverages this [DORA State of DevOps 2019 slide](https://docs.google.com/presentation/d/1cNcqXbcYR5pEfz-t8_VBE86fqdma_Jc7ws5Icm9FDKY/edit?usp=sharing) to emotionally appeal to individuals' desire to become elite performers and highlight relevant success stories of organizations ([Ticketmaster](/blog/2017/06/07/continous-integration-ticketmaster/), [Verizon Connect](https://www.youtube.com/watch?v=zxMFaw5j6Zs), [Paessler AG](/customers/paessler/), and more) that have become Elite Performers by adopting and expanding their GitLab footprint. Learn more from John in this [Art Behind Command of the Message](https://youtu.be/-iIK7SlplEo) sales enablement videocast (GitLab internal only, Oct 2019, 26 minutes).
+
+Listen to how Nico Ochoa (Strategic Account Leader, US West) explains the value of GitLab by talking in terms of a software factory and applying lean manufacturing principles. More specifically, GitLab applies these principles to take waste out of the process of developing and deploying applications to increase operational efficiencies, deliver better products faster, and reduce security and compliance risk.
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/vtlAs68YY8M" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 As a follow on to the above, familiarize yourself with GitLab's Value Stream Management (VSM) & Value Stream Analytics capabilities ([start here](https://youtu.be/0MR7Q8Wiq6g)). Effectively articulating these capabilities plays to two of GitLab's key differentiators: 1) Single Application for Entire DevOps Lifecycle and 2) End-to-End Insight and Visibility. Additional short customer-facing VSM videos are available at [Learn@GitLab](/learn/). 
 
@@ -44,15 +65,25 @@ As a follow on to the above, familiarize yourself with GitLab's Value Stream Man
 * Economic metrics typically align to one or more of three [customer value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers)
 * Check out the [Forrester Total Economic Impact](/handbook/marketing/product-marketing/analyst-relations/forrester-tei/) study
 
+Listen to Nico Ochoa (Strategic Account Leader, US West) describe his role in [helping a large tech firm be able to measure success and improve business outcomes](https://youtu.be/m1Gori76d-I) (GitLab internal only, June 2020, 3 minutes).
+
 ### Technical Metrics
 **Technical metrics** highlight measurable results that prove the solution's capabilities.
 * Review [Getting Started with Agile Metrics](/handbook/marketing/product-marketing/devops-metrics/)
 * Consider reading ["Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations"](https://itrevolution.com/book/accelerate/)
 
-### Bringing It Together
+Hear what Nico says about cycle time compression, helping organizations do more with less, and improving developer satisfaction.
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/91wfyVNRLVw" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/MUrGWgDcxMs" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 To better navigate Metrics conversations, listen to the 7-minute Force Management [Metrics in the Sales Conversation podcast](https://soundcloud.com/force-management-1/metrics-in-the-sales-conversation) and implement these practices:
-1. Recognize that your solution impacts decision-makers in different ways and their reasoning for choosing your solution over alternatives is also different. 
+1. Recognize that your solution impacts decision-makers in different ways and their reasoning for choosing your solution over alternatives is also different 
 1. Understand what each stakeholder/decision-maker cares about and help them (especially your Champions) understand how your solution impacts
     - What they care about, and 
     - What other stakeholders/decision-makers care about
