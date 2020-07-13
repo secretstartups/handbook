@@ -36,7 +36,7 @@ Some throughput types have sub-types such as `~"feature"` with
 `~"feature::maintenance"`. Type labels will be inferred from sub-types with
 [`triage-serverless`](https://gitlab.com/gitlab-org/quality/triage-serverless)
 to aid in throughput type reporting. Application of the sub-type label is
-encouraged for the measuring the type at the lowest level of specificity.
+encouraged for measuring the type at the highest level of specificity.
 
 1. `~"Community contribution"`: A community contribution label takes precedence over other labels. Therefore, while the work may introduce a new feature or resolve a bug, we prioritize this label over others due to the importance of this particular category.
 You may use a second label such as `~"bug"` or `~"feature"` if you would like to add an additional identifier.
