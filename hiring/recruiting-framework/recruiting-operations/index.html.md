@@ -20,14 +20,18 @@ To gain access to a system listed below, please follow the respective link to th
 #### DocuSign
 * C.E.S. and Sales Operations Team only - please contact the Recruiting Operations & Insights Team
 #### Greenhouse
+<!-- blank line -->
 
-* [See how to join Greenhouse in the handbook.](https://about.gitlab.com/handbook/hiring/greenhouse/#how-to-join-greenhouse)
+[See how to join Greenhouse in the handbook.](https://about.gitlab.com/handbook/hiring/greenhouse/#how-to-join-greenhouse)
 #### HelloSign
 <!-- blank line -->
-* [See how to request a HelloSign account in the handbook.](https://about.gitlab.com/handbook/people-group/people-experience-team/#hellosign)
+
+[See how to request a HelloSign account in the handbook.](https://about.gitlab.com/handbook/people-group/people-experience-team/#hellosign)
 #### LinkedIn Recruiter
 <!-- blank line -->
-* [See the LinkedIn Recruiter Seat Request process in the handbook.](https://about.gitlab.com/handbook/hiring/sourcing/#upgrading-your-linkedin-account)
+
+[See the LinkedIn Recruiter Seat Request process in the handbook.](https://about.gitlab.com/handbook/hiring/sourcing/#upgrading-your-linkedin-account)
+<!-- blank line -->
 ----
 ### System Processes
 
@@ -45,14 +49,16 @@ To gain access to a system listed below, please follow the respective link to th
 **Requisition Approvals**
 * To re-open a closed requisition and increase the opening count:
    1. Navigate to the *Approvals* tab, select `Edit Job & Openings`
-   1. Navigate down to the *Openings* section and select `Add New.` 
+   1. Navigate down to the *Openings* section and select `Add New`. 
    1. Once a new opening populates, manually add the Opening ID number. The `Hiring Manager` section should mirror the other openings.
    1. Verify with the recruiter if the opening is a Backfill or New Hire. Select `Reopen as Draft`.
-   1. Restart the approval process by selecting `Request Approval.` Mark a Total Rewards approver as approved. Send a note to Finance to review the additional opening request. Be sure to cc the recruiter in that note.
+   1. Restart the approval process by selecting `Request Approval`. Mark a Total Rewards approver as approved. Send a note to Finance to review the additional opening request. Be sure to cc the recruiter in that note.
 <!-- blank line -->
 **Referral Submissions**
 <!-- blank line -->
-   * [See how to process Referral Submissions in the handbook.](https://about.gitlab.com/handbook/hiring/referral-operations/#transferring-referral-submissions-to-greenhouse)
+
+[See how to process Referral Submissions in the handbook.](https://about.gitlab.com/handbook/hiring/referral-operations/#transferring-referral-submissions-to-greenhouse)
+<!-- blank line -->
 ----
 ### Reporting
 
@@ -73,11 +79,15 @@ To gain access to a system listed below, please follow the respective link to th
             * Filters: Use Data From = Global Self-Identification Survey; Columns = Milestones; Job Status = All; Departments = All Departments; Group of Candidates = Candidates who applied during a specific date range; Application Date = Custom Range (enter the desired month); Check "Include Migrated Candidates"
             * Instructions: Pull and export the report into the *Monthly Metrics* sheet.
         * **[Greenhouse] Referrals Over Time**
-            *Filters: Rows = Department; Columns = Month; Job Status = All; Departments = All Departments; Date Applied  = Custom Range (enter the desired month)
+            * Filters: Rows = Department; Columns = Month; Job Status = All; Departments = All Departments; Date Applied  = Custom Range (enter the desired month)
             * Instructions: Pull and export the report into the *Monthly Metrics* sheet.
         * **[Sisense] [Discretionary Bonuses Overview](https://app.periscopedata.com/app/gitlab/507956/Discretionary-Bonuses-Overview)**
         * **[Sisense] [GitLabbers by Org Structure](https://app.periscopedata.com/app/gitlab/512946/GitLabbers-by-Org-Structure)**
-* **Weekly, Monthly, and Quarterly Reports**
+<!-- blank line -->
+* **Weekly Reports**
+    * **[Greenhouse] Last 15 in [Stage]**
+        * Filters: Use Job Status = Open; Status = Active; Departments = All Departments (select desired department if applicable); Stage = (select desired stage); Last Activity = (select desired date)
+        * Instructions: Pull and export the report into the **Last 15 in [Stage]** sheet. Include links to candidate Greenhouse profiles and a column for *Location Factor*.
 * **Ad Hoc Reports**
     * [Report Request](https://gitlab.com/gl-recruiting/operations/-/issues/new?issuable=Report%20Request)
 
