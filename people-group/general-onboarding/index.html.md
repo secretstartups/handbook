@@ -15,13 +15,28 @@ Onboarding is [incredibly important](/company/culture/all-remote/onboarding/) at
 
 We highly recommend taking at least two full weeks for onboarding and only in week three starting with team specific onboarding and training. Please feel free to participate in your team's work in your first two weeks, but don't feel like you have to contribute heavily.
 
-All onboarding steps are in the [onboarding issue template](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding.md) which is owned by the People Experience Team. The onboarding process is [self-driven and self-learning](https://about.gitlab.com/handbook/values/#self-service-and-self-learning), whilst also remaining as [asynchronous](https://about.gitlab.com/handbook/values/#bias-towards-asynchronous-communication) as possible settling into the remote lift at GitLab. 
+All onboarding steps are in the [onboarding issue template](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding.md) which is owned by the People Experience Team. The onboarding process for the new team member is [self-driven and self-learning](https://about.gitlab.com/handbook/values/#self-service-and-self-learning), whilst also remaining as [asynchronous](https://about.gitlab.com/handbook/values/#bias-towards-asynchronous-communication) as possible settling into the remote life at GitLab. 
 
 Each onboarding issue has a main section that contains tasks relevant to all GitLab team-members and a due date of 30 days. Below the main section are department and role-specific tasks. Some roles and departments have tasks that link to a supplemental issue template or an additional onboarding page.  Reach out to your [onboarding buddy](/handbook/people-group/general-onboarding/onboarding-buddies/) or other GitLab team members if you need help understanding or completing any of your tasks.
 
 Through onboarding issues, you should gain access to our team member [baseline entitlements](https://about.gitlab.com/handbook/engineering/security/#baseline-role-based-entitlements-access-runbooks--issue-templates). On Day 2 of onboarding an [Access Request](https://about.gitlab.com/handbook/people-group/engineering/#access-request-issue-creation) will be generated, if a template has been created for the role. Access requests are owned by the IT team. If you have any access requests related questions, please reach out to #it-help in Slack.
 
-The lists below categorize each onboarding resource by its location.
+## Slack Channel Support for New Team Members
+
+By default, all new team members are added to the below Slack channels from day 1 to ensure that they are able to ask any questions or for assistance in the correct channels upfront:
+
+- #new_team_members
+- #peopleops
+- #diversity_inclusion_and_belonging
+- #it_help
+- #expense-reporting-inquiries
+- #payroll
+- #questions
+- #donut-be-strangers
+- #team-member-updates
+- #thanks
+- #totalrewards
+- #whats-happening-at-gitlab
 
 ## Managers of New Team Members 
 
@@ -45,6 +60,7 @@ To ensure a successful completion of the onboarding issue, it is important that 
 * I have checked and this task is not applicable to me
 
 ### Onboarding Issue Template Links
+
 These templates are used by the People Experience team to onboard new team members. 
 
 - [All GitLab team-members](https://gitlab.com/gitlab-com/people-group/employment-templates-2/-/blob/master/.gitlab/issue_templates/onboarding.md)
