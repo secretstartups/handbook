@@ -156,7 +156,7 @@ The Recruiter will email the candidate and ask if they want to book a zoom call 
 - General and specific benefits
 - Contract type
 - [Onboarding process](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-processes/)
-- [Stock pptions](https://about.gitlab.com/handbook/stock-options/)
+- [Stock options](https://about.gitlab.com/handbook/stock-options/)
 - [Unlimited paid-time-off](https://about.gitlab.com/handbook/paid-time-off/)
 - [Incentives](https://about.gitlab.com/handbook/incentives/)
 - [Office equipment/reimbursements](https://about.gitlab.com/handbook/spending-company-money/)
