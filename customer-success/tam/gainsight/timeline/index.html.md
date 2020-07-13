@@ -25,6 +25,8 @@ The following activities can be logged in Gainsight:
 
 The "Last Activity Date" field in the customer's record reflects the latest "Call" or "In-Person Meeting" activity entry to be logged for the customer. These are the only entry types that affect Last Activity Date since we want to track when we are having synchronous conversations with the customer.
 
+Please note it may take up to 2 hours after logging a timeline event before the "Last Activity Date" is updated.
+
 ## How to Log Activities in Timeline
 
 To log activities (calls, meetings, updates, etc.), you'll primarily follow these steps:
