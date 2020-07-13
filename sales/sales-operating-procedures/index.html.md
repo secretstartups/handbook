@@ -32,3 +32,4 @@ For more information on each SOP phase, see the recordings from our four-part we
 | 2020-05-15 | [Phase 1: Educate and Engage the Customer](https://www.youtube.com/watch?v=FsHzfxMy0jw) |
 | 2020-05-29 | [Phase 2: Facilitate the Opportunity](https://www.youtube.com/watch?v=LQOES-oXLvQ) |
 | 2020-06-11 | [Phase 3: Deal Closure](https://www.youtube.com/watch?v=Va4Ih5Tj89Q) |
+| 2020-07-09 | [Phase 4: Retain and Expand](https://www.youtube.com/watch?v=aiiHttbbVc4) |
