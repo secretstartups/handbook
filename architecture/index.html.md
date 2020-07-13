@@ -33,7 +33,7 @@ At GitLab, **Architecture** is:
 * Engineering Fellows (EFs) are DRIs for the overall Architecture Practice
   * EFs operate at the [Division and Department](https://about.gitlab.com/company/team/structure/#organizational-structure) levels (EVPs, VPs and Senior Directors), and, to a lesser but still significant extent, [E-group](https://about.gitlab.com/handbook/leadership/#e-group)
   * EFs are technical partners to their Department VPs and Senior Directors ([S-group](https://about.gitlab.com/handbook/leadership/#s-group))
-  * EFs produce joint, 1-year roadmaps for the company's technical direction aligned with Product
+  * EFs lead the collaborative production of 12-month Technology Roadmaps. Technology Roadmaps are distinct from Product Roadmaps, yet both are still aligned and supportive of GitLab goals. Technology Roadmaps are to be updated as needed, but at least every 6 months.
   * EFs have strong input on Department OKRs
 * Distinguished Engineers (DEs) are DRIs for the Architecture Practice in their respective Departments and Sub-departments
   * DEs operate at the [Department and Sub-department](https://about.gitlab.com/company/team/structure/#organizational-structure) levels (Directors and Senior Managers)
