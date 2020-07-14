@@ -66,6 +66,10 @@ There are multiple ways to add the candidates, as follows:
 * [Maildrop](https://support.greenhouse.io/hc/en-us/articles/201990630)
 * [Enable LinkedIn Recruiter System Connect (RSC)](https://support.greenhouse.io/hc/en-us/articles/115005678103-Enable-LinkedIn-Recruiter-System-Connect-RSC-) so you can export candidates in one click as prospects 
 
+Keep in mind, a candidate could have the source, `Applied through your website's jobs page` or `Jobs page on your website`, if they signed-up to the **Talent Community** prior to the correct tracking link being associated with the in-take form. In that situation, please change their source to `Talent Community`.
+If a candidate is moved from one requisition to another by a *Recruiting Team Member* and the candidate **did not** apply recently, then please update their source to  `Greenhouse Sourcing`.
+
+
 How to add prospects to REQs:
 * [From Greenhouse Talent Community Video Walkthrough](https://drive.google.com/file/d/1if4lWdmQPy7K6sw_sHFf5XIGijQHfbIP/view)
 * [From LinkedIn Video Walkthrough](https://drive.google.com/file/d/1ESbhDVsRou81xNcKLhU9SqW2ObjuenAx/view)
