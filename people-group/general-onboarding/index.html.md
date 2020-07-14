@@ -9,9 +9,9 @@ title: "GitLab Onboarding"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# Ta-New-Ki Welcome Call
+# Ta-New-Ki Welcome Call (Pre-Onboarding)
 
-Before your first day, the People Experience team hosts a pre-onboarding call with all new team members. This Zoom call is a chance for new team members to meet and learn more about what they can experience before they start.
+The People Experience Team hosts a pre-onboarding call known as the Ta-New-Ki call (a play on the abstract Tanuki i.e. Japanese raccoon dog you will find in our logo).  The purpose of this call which is hosted in Zoom is to give soon to onboard team members to meet / socialise an addition to offering an opportunity to ask any lingering questions ahead of their start date.  Internally we refer to this as an AMA (Ask Me Anything) call.
 
 # Onboarding at GitLab
 
