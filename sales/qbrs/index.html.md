@@ -61,7 +61,7 @@ QBRs are typically organized by region, and the agenda is determined by the Regi
 1. VP of Demand Gen
 1. VP of Revenue Marketing
 1. VP of Field Ops direct reports
-1. Sr. Program Manager, ENT Sales Enablement
+1. Sr. Program Manager, ENT or COMM Sales Enablement
 1. Sr. Program Manager, Customer Success Enablement (optional)
 
 ### QBR Participation
@@ -69,15 +69,16 @@ QBRs include account teams, leadership, and delegates from across the business:
 1. All Strategic Account Leaders (SALs) and Account Executives (AEs), Solution Architects (SAs), Technical Account Managers (TAMs), and Channel Account Managers
 1. All Sales, Channel, and Customer Success Managers
 1. 1-2 delegates from the following teams will participate
-1. Field Marketing
-1. Demand Generation (Sales Dev)
-1. Product Marketing
-1. Product / Engineering
-1. Alliances
-1. Sales Ops
-1. Sales Strategy
-1. Field Enablement
-1. Finance
+   1. Field Marketing
+   1. Demand Generation (Sales Dev)
+   1. Product Marketing
+   1. Product / Engineering
+   1. Alliances
+   1. Sales Ops
+   1. Sales Strategy
+   1. Field Enablement
+   1. Finance
+   1. People Group
 1. Field executives (VP+) will participate in these sessions when possible
 
 ## QBR Best Practices
