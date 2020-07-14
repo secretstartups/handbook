@@ -192,6 +192,12 @@ The {role name} is a [grade #](/handbook/total-rewards/compensation/compensation
 #### {Specialty} Requirements
 * {add a bulleted list of requirements for this specialty here}
 
+## Performance Indicators
+* {add a bulleted list of performance indicators for this family here}
+
+## Career Ladder
+{Insert brief description of the career ladder here.}
+
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
@@ -199,12 +205,8 @@ Candidates for this position can expect the hiring process to follow the order b
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring).
 
-## Apply
-
-## About GitLab
-
-## Compensation
 ```
+*Please note the **Compensation** and **About GitLab** sections will auto-populate because of the job family formatting. 
 
 ## Helpful Tips
 
