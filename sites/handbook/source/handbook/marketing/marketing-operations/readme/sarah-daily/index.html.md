@@ -13,7 +13,7 @@ I created this personal README document to help you get to know me and how I wor
 
 ## About me
 
-* My name is Sarah Daily (last name jokes are welcome and I've also had some people just call me `Daily`). I am a Marketing Operations Manager on the [Marketing Operations team](https://about.gitlab.com/handbook/marketing/marketing-operations/) at GitLab and I focus on content.
+* My name is Sarah Daily (last name jokes are welcome and I've also had some people just call me `Daily`). I am a Senior Marketing Operations Manager on the [Marketing Operations team](https://about.gitlab.com/handbook/marketing/marketing-operations/) at GitLab and I focus on content.
 * I currently live in [Pagosa Springs, CO](https://www.google.com/maps/place/Pagosa+Springs,+CO+81147/@37.2673803,-107.0497475,14z/data=!3m1!4b1!4m5!3m4!1s0x873ddb6e9b07b449:0x7b8616cc41f8157f!8m2!3d37.26945!4d-107.0097617) with my partner Becca and our two dogs [MaddieJo and Chewie](https://about.gitlab.com/company/team-pets/#132-maddiejo-and-chewie).
 * I was born and raised in northeastern Oklahoma.
 * I am an [Advocate](https://www.16personalities.com/infj-personality) ([INFJ-A / INFJ-T](https://www.16personalities.com/articles/assertive-advocate-infj-a-vs-turbulent-advocate-infj-t)) personality type.
@@ -47,7 +47,7 @@ I created this personal README document to help you get to know me and how I wor
 
 ## Tools I admin
 
-1. Cookiebot
+1. [Cookiebot](https://about.gitlab.com/handbook/marketing/marketing-operations/cookiebot/)
 1. Disqus
 1. Hotjar
 1. [Litmus](https://about.gitlab.com/handbook/marketing/marketing-operations/litmus)
