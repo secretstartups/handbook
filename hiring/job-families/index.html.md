@@ -198,6 +198,12 @@ Candidates for this position can expect the hiring process to follow the order b
 {Insert hiring process steps here.}
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring).
+
+## Apply
+
+## About GitLab
+
+## Compensation
 ```
 
 ## Helpful Tips
