@@ -205,6 +205,7 @@ Additional details about our process can be found on our [hiring page](/handbook
 ## About GitLab
 
 ## Compensation
+{No need to add this section as auto-populated.}
 ```
 
 ## Helpful Tips
