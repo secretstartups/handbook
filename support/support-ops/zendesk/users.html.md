@@ -44,58 +44,6 @@ Zendesk users are the people within Zendesk.
   * What can this agent do with macros? Can add and edit personal, group, and
     global macros
 
-### Advisor
-
-* Description: Can automate ticket workflows, manage channels and make private
-  comments on tickets
-* Tickets:
-  * What kind of tickets can this agent access? All within this agent's group
-  * What type of comments can this agent make? Private only
-  * Can edit ticket properties: true
-  * Can delete tickets: false
-  * Can view deleted tickets: false
-  * Can merge tickets: false
-  * Can edit ticket tags: true
-* People:
-  * What access does this agent have to end-user profiles? Read only
-  * May this user view lists of user profiles? Can view all users in your
-    account
-  * Can add or modify groups & organizations: false
-* Explore:
-  * What can this agent do in Explore? View reports
-* Tools:
-  * What can this agent do with reports? Cannot view
-  * What can this agent do with views? Add and edit personal, group and global
-    views
-  * What can this agent do with macros? Can add and edit personal, group, and
-    global macros
-
-### All-Access
-
-* Description: This level means that this individual has been background checked
-  and is available to work on VIP accounts. Non All Access users will not be
-  able to view any tickets that are VIP. This satisfies contractual obligations.
-* Tickets:
-  * What kind of tickets can this agent access? All within this agent's group
-  * What type of comments can this agent make? Public and Private
-  * Can edit ticket properties: true
-  * Can delete tickets: true
-  * Can view deleted tickets: false
-  * Can merge tickets: true
-  * Can edit ticket tags: true
-* People:
-  * What access does this agent have to end-user profiles? Add, edit, and delete
-    all
-  * May this user view lists of user profiles? Can view all users in your
-    account
-  * Can add or modify groups & organizations: false
-* Explore:
-  * What can this agent do in Explore? View reports
-* Tools:
-  * What can this agent do with reports? Can view, add and edit
-  * What can this agent do with views? Add and edit personal views
-  * What can this agent do with macros? Cannot add or edit
-
 ### GitLab Staff
 
 * Description:
@@ -152,8 +100,7 @@ Zendesk users are the people within Zendesk.
 * Tools:
   * What can this agent do with reports? Can view, add and edit
   * What can this agent do with views? Add and edit personal views
-  * What can this agent do with macros? Can add and edit personal, group, and
-    global macros
+  * What can this agent do with macros? Cannot add or edit
 
 ### GitLab Staff - Reporting only
 
@@ -174,30 +121,6 @@ Zendesk users are the people within Zendesk.
 * Tools:
   * What can this agent do with reports? Can view, add and edit
   * What can this agent do with views? See views only
-  * What can this agent do with macros? Cannot add or edit
-
-### Restricted Access
-
-* Description: This user role is given to users who are not background checked
-  so that we can meet contractual obligations.
-* Tickets:
-  * What kind of tickets can this agent access? All within this agent's group
-  * What type of comments can this agent make? Public and Private
-  * Can edit ticket properties: true
-  * Can delete tickets: false
-  * Can view deleted tickets: false
-  * Can merge tickets: true
-  * Can edit ticket tags: false
-* People:
-  * What access does this agent have to end-user profiles? Read only
-  * May this user view lists of user profiles? Can view all users in your
-    account
-  * Can add or modify groups & organizations: false
-* Explore:
-  * What can this agent do in Explore? View reports
-* Tools:
-  * What can this agent do with reports? Can view only
-  * What can this agent do with views? Add and edit personal views
   * What can this agent do with macros? Cannot add or edit
 
 ### Salesforce Integration role
@@ -279,8 +202,7 @@ Zendesk users are the people within Zendesk.
 * Tools:
   * What can this agent do with reports? Can view, add and edit
   * What can this agent do with views? Add and edit personal views
-  * What can this agent do with macros? Can add and edit personal, group, and
-    global macros
+  * What can this agent do with macros? Cannot add or edit
 
 ### Support Staff - Professional Services
 
@@ -310,8 +232,7 @@ Zendesk users are the people within Zendesk.
 * Tools:
   * What can this agent do with reports? Can view, add and edit
   * What can this agent do with views? Add and edit personal views
-  * What can this agent do with macros? Can add and edit personal, group, and
-    global macros
+  * What can this agent do with macros? Cannot add or edit
 
 ### Support Staff Admin
 
@@ -341,10 +262,8 @@ Zendesk users are the people within Zendesk.
   * What can this agent do in Explore? View reports
 * Tools:
   * What can this agent do with reports? Can view, add and edit
-  * What can this agent do with views? Add and edit personal, group and global
-    views
-  * What can this agent do with macros? Can add and edit personal, group, and
-    global macros
+  * What can this agent do with views? Add and edit personal views
+  * What can this agent do with macros? Cannot add or edit
 
 ### Tech Support
 
@@ -368,8 +287,7 @@ Zendesk users are the people within Zendesk.
 * Tools:
   * What can this agent do with reports? Can view, add and edit
   * What can this agent do with views? Add and edit personal views
-  * What can this agent do with macros? Can add and edit personal, group, and
-    global macros
+  * What can this agent do with macros? Cannot add or edit
 
 ### Light agent
 
@@ -389,7 +307,6 @@ Zendesk users are the people within Zendesk.
   * What can this agent do with reports? Can view only
   * What can this agent do with views? See views only
   * What can this agent do with macros? Cannot add or edit
-
 
 
 ## User Fields
