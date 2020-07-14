@@ -203,7 +203,6 @@ Additional details about our process can be found on our [hiring page](/handbook
 {No need to add this section as auto-populated.}
 
 ## About GitLab
-{No need to add this section as auto-populated.}
 
 ## Compensation
 ```
