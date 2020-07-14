@@ -291,6 +291,24 @@ Building a team to deliver [results](https://about.gitlab.com/handbook/values/#r
 - Empowers team members to be a Manager of One and gives them the tools to grow professionally in their careers
 - Attracts and retains top talent by creating an inclusive environment built on trust, delegation, accountability, and teachability
 
+### Strategies to Build High Performing Teams
+
+The [Drexler-Sibbet Team Performance Model](https://www.kaizenko.com/drexler-sibbet-team-performance-model/) is an excellent tool to help build high performing teams at GitLab. The model provides a roadmap for a team and a common language. It is a simplified description of how a team works together that highlights the most important things the team needs to focus on to reach high performance. At GitLab, we can use it as a frame of reference to developing high performing teams. It can help Managers ensure new and existing team members know the mission and direction of the team by the following: 
+- To form your team
+- To guide what your team does
+- To monitor how well your team is doing
+- to diagnose where your team may be struggling or identify the keys to your team's success
+
+**7 Stages to developing high performing teams:**
+1. Orientation - Why are we here? Team members need to see a sense of team identity and how individual team members fit in. 
+2. Trust Building - Who are you? Team members share mutual regard for each other and are open and supportive of trust-based relationships. 
+3. Goal Clarification - What are we doing? Assumptions are made clear; individual assumptions are made known with a clear vision of the end state. 
+4. Commitment - How will we do it? Team members understand how it will make decisions and do the work. 
+5. Implementation - Who does what, when, where? Team members have a sense of clarity and can operate effectively due to the alignment of shared goals.
+6. High Performance - Wow! The team is accomplishing more than it expected. The team has taken off, creativity is fostered and goals are surpassed. 
+7. Renewal - Why continue? The team is given recognition and celebrates achievements of individuals that produce valuable work. Reflect on lessons learned and reassess for the future. 
+
+
 ## Articles
 
 1. [Carta's Manager’s FAQ](https://readthink.com/a-managers-faq-35858a229f84)
