@@ -39,7 +39,7 @@ to aid in throughput type reporting. Application of the sub-type label is
 encouraged for measuring the type at the highest level of specificity.
 
 1. `~"Community contribution"`: A community contribution label takes precedence over other labels. Therefore, while the work may introduce a new feature or resolve a bug, we prioritize this label over others due to the importance of this particular category.
-You may use a second label such as `~"bug"` or `~"feature"` if you would like to add an additional identifier.
+You may apply a second throughput label such as `~"bug"` or `~"feature"` to indicate the throughput type.
 1. `~"security"`: Security-related MRs.
 1. `~"bug"`: Defects in shipped code. Read more about [features vs bugs](/handbook/product/product-processes/#issues).
 1. `~"feature"`: Any MR that contains work to support the implementation of a feature and/or results in an improvement in the user experience. Read more about [features vs bugs](/handbook/product/product-processes/#issues.html).
