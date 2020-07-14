@@ -16,7 +16,6 @@ Pages to read for more information:
 * [Tickets](tickets.html)
 * [Triggers](triggers.html)
 * [Users](users.html)
-* [Views](views.html)
 
 ## Macros
 
@@ -24,6 +23,27 @@ Instead of managing these via Zendesk itself, we instead us the
 [Zendesk Macros](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/)
 GitLab project. This allows us to have version-controlled macros. See the
 project for more details.
+
+## Views
+
+Instead of managing these via Zendesk itself, we instead us the
+[Zendesk Views](https://gitlab.com/gitlab-com/support/support-ops/zendesk-views)
+GitLab project. This allows us to have version-controlled views. See the
+project for more details.
+
+### View Information
+
+Currently, Zendesk has 3 view types:
+
+* Default: Pre-defined views created by Zendesk
+* Shared: Views created by the Zendesk Administrator(s) (ie. Support Ops)
+* Personal: Views created by you and usable only by you
+
+Currently, Zendesk views have some limitations:
+
+* Only 12 visable views (Default and Shared) will be displayed.
+* Views cannot use criteria that is not "defined", meaning it must be selectable data (text fields will not work, as an example).
+* You can only display up to 8 personal views
 
 ## FAQs
 
