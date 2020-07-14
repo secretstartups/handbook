@@ -31,6 +31,8 @@ b. For vendor agreements, Requestor will [file the document in ContractWorks](/h
 
 ## Authorization Matrix
 
+*(All Functional Approvals require approval from previous tiers in hierarchy - Example: A CEO approval must also be approved by the exec team member prior to the CEO)*
+
 Any change or amendement to the authorization matrix is approved by the Board. 
 
 <table border="1">
