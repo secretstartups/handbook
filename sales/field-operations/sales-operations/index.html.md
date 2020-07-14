@@ -84,7 +84,7 @@ The #sales-support slack channel is monitored by several groups within Field Ope
 7. [Requesting Reassignment](https://about.gitlab.com/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
 8. [If LEAD or CONTACT is owned by SDR team member](https://about.gitlab.com/handbook/business-ops/resources/#record-creation-in-salesforce)
 9. [Locked Deal](https://about.gitlab.com/handbook/business-ops/resources/#locking-opportunities-as-a-result-of-their-at-risk-potential)
-
+10. [Deal Desk assistance](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#salesforce-chatter-communication)
 
 </details>
 
