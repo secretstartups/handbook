@@ -332,3 +332,16 @@ If you're sure that the ticket is related to **GitLab.com**, but you see it in
 > only changed the tags so that it is not listed in the wrong queue, please verify
 > if the customer is paying GitLab.com user and add the necessary tags so that
 > correct SLA policy is applied to the ticket.
+
+### Organization is incorrectly marked as a Prospect in SFDC
+
+In SFDC, you may notice an organization has the Type set to `Prospect` but associated with a non Expired support level,
+and the account in the Customer Portal shows that the org has a valid self-managed license or a GitLab.com subscription. 
+In this case, it you may need to update the org in SFDC:
+
+- Check if `Subscriptions` section in SFDC contains information about a valid subscription and is not empty.
+- Check if account in the Customer Portal contains information about the purchased subscription.
+- Double click `Prospect` type, change it to `Customer` and click `Save`.
+- After that, notify `@Sales-Support` by following the steps similar to the ones in [this section](#handling-customers-with-expired-licenses-and-updating-info-on-sfdc-side) to tag them.
+- **IMPORTANT**: if you are not sure about the changes, ask `Sales-Support` to do it on their own.
+- As soon as the org has a valid `Customer` type, it will be propagated to Zendesk.
