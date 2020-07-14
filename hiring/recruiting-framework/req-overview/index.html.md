@@ -107,7 +107,7 @@ For more information about Greenhouse and it’s tips & tricks, please refer to 
 
 ### **Step 6: Interview Stages**
 
-* When the prospect responds with interest, select the option to “convert to candidate” in Greenhouse
+* When the prospect responds with interest and we have a matching requisition, select the option to “convert to candidate” in Greenhouse.
 
 #### Global Self-Identification Survey
 
@@ -115,19 +115,17 @@ For more information about Greenhouse and it’s tips & tricks, please refer to 
 
 #### Screening
 
-* When the prospect responds with interest, select the option to “convert to candidate” in Greenhouse and work to [schedule a screening call](/handbook/hiring/greenhouse/#scheduling-interviews-with-greenhouse) and send a confirmation to the applicant.
-
 During the screening stage, it is important we capture the following information in Greenhouse and be able to pull data from this information when required. Please refer to the following check list when conducting a screening call:
 
 1. **Locality**
-     * Instructions: Navigate to the `Details` tab in the candidate's profile > Navigate to the `Additional Details` section > Select the candidate's location in the `Locality` drop down menu.
+     * Instructions: Navigate to the `Details` tab in the candidate's profile > Navigate to the `Additional Details` section > Select the candidate's location in the `Locality` drop down menu. *Please note this is mapped to the location factors as provided by the Total Rewards Team and may not be their specific location.*
 1. **Do you have a significant other or family member that is currently a GitLab team member?**
      * Instructions: Navigate to the `Details` tab in the candidate's profile > Navigate to the `Additional Details` section > Select an option in the `Family Relationship` drop down menu. Select *N/A* if the candidate answers no.
 1. **Notice period (if the candidate is currently employed)**
      * Instructions: This information is captured in the Screening call Scorecard.
 1. **Salary expectations**
      * Instructions: This information is captured in the Screening call Scorecard as a *Private Note*.
-If at any time during the interview process a candidate is declined due to compensation, you must include compensation information as this is used for reporting purposes. To do so, navigate to the `Private` tab in the candidate's profile > Navigate to the `Other Details` section > Fill out the `Currency` and `Compensation Expectations` fields.
+If at any time during the interview process a candidate is declined due to compensation, you must add compensation information to the profile as this is used for reporting purposes. To do so, navigate to the `Private` tab in the candidate's profile > Navigate to the `Other Details` section > Fill out the `Currency` and `Compensation Expectations` fields.
 1. **Are you eligible to work where you are located?**
      * Instructions: This information is captured in the Screening call Scorecard.
 1. **Are you subject to any employment agreements and/or post-employment restrictions with your current employer or a past employer?**
