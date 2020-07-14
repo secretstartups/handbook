@@ -342,10 +342,10 @@ You will not attend a meeting when:
 1. If any participant in the meeting is uncomfortable.
 1. If the CEO wants more privacy.
 
-###### "Take a break" calls
+###### Social calls
 {:.no_toc}
 
-When it comes time for the ["Take a break" call](/handbook/communication/#take-a-break-call), CEO shadows should attend on their own.
+When it comes time for the [Social calls](/handbook/communication/#social-call), CEO shadows should attend on their own.
 You are encouraged to share your experience as a shadow with your call group while you are shadowing.
 
 ###### Media Briefings
