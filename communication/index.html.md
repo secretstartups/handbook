@@ -744,6 +744,8 @@ Make sure that domains don't overlap, for example [organization size](/handbook/
 
 If a term is ambiguous don't use it, for example our [hiring definitions](/handbook/hiring/#definitions) have roles and vacancies but avoid the ambiguous word job.
 
+Make sure that projects and working groups have clear and direct names. Prefer "CI Spend Reduction Working Group" to "Project Raven Working Group".
+
 Make sure that people can infer as much as possible from the word, for example our [subscription options](/handbook/marketing/product-marketing/tiers/) allow you to know if someone if using self-managed or GitLab.com.
 
 Make sure terms don't overlap without clearly defining how and why, for example see our [tier definitions](/handbook/marketing/product-marketing/tiers/#definitions).
@@ -773,6 +775,7 @@ An example of a MECEFU term is our [sales segmentation](/handbook/business-ops/r
 One nit-pick is that the Medium of SMB and Mid of Mid-Market sound very similar.
 
 ## Simple Language
+{: #simple-language}
 
 Simple Language is meant to encourage everyone at GitLab to simplify the language we use.
 We should always use the most clear, straightfoward, and meaningful words possible in every conversation.
