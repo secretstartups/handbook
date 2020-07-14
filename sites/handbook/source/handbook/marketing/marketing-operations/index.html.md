@@ -49,7 +49,7 @@ The main tools used by Marketing and integrated with Salesforce are:
 
 Other tools directly used by Marketing and maintained by Marketing Operations:  
 - [Bizzabo](/handbook/marketing/marketing-operations/bizzabo)
-- Cookiebot
+- [Cookiebot](/handbook/marketing/marketing-operations/cookiebot)
 - Disqus
 - Eventbrite
 - Frame.io
