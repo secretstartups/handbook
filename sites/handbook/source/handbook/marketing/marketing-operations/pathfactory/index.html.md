@@ -41,6 +41,7 @@ There are three levels of access - Admin, Author, Reporter - which are granted b
 *  [Getting started video series](http://successwith.pathfactory.com/c/lookbookhq-tutorial-?x=Blrk3E)
 *  [Digital marketing brown bag session overview](https://drive.google.com/open?id=1Hzb6ard48k-11r5a8oBDD_NLjeZnkMK2) - [Slides](https://drive.google.com/open?id=1XxOIE2O-VW0I9z09kpLs5ops52oF6iDSP1a1MF8NkGY)
 *  [Author role training](https://drive.google.com/file/d/1YdK96hzDj043iESfDXV7ejz5sgbIXKCv/view?usp=sharing)
+*  [PathFactory for Sales SDR enablement training session](https://drive.google.com/file/d/1mD-rWd6W7d_5O4tHM1lUsQBvVsb5YpAG/view)
 
 ## Issue templates
 
@@ -579,7 +580,8 @@ PathFactory for Sales is an extension of PathFactory within Salesforce that give
 
 ### Training
 
-[PathFactory for Sales SDR onboarding track](https://internal.lookbookhq.com/c/pf-for-sales-one-pag?x=5RhDye)
+*  [PathFactory for Sales SDR onboarding track](https://internal.lookbookhq.com/c/pf-for-sales-one-pag?x=5RhDye)
+*  [PathFactory for Sales SDR enablement training session](https://drive.google.com/file/d/1mD-rWd6W7d_5O4tHM1lUsQBvVsb5YpAG/view)
 
 ### Saved searches
 
