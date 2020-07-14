@@ -200,7 +200,6 @@ Candidates for this position can expect the hiring process to follow the order b
 Additional details about our process can be found on our [hiring page](/handbook/hiring).
 
 ## Apply
-{No need to add this section as auto-populated.}
 
 ## About GitLab
 
