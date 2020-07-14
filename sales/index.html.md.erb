@@ -559,6 +559,29 @@ When looking at a time horizon of the next twelve months delta ARR will equal IA
 
 Delta ARR = iACV - [True Ups] + [Coterm difference] +/- [Timing differences]
 
+##### ARR Analysis Framework
+
+While retention calculations measure changes compared to the same period in a previous year, we also need to measure changes over smaller time periods (month-to-month and quarter-to-quarter) to make real-time business decisions and evaluate the immediate impact of our programs and initiatives. While the net and gross retention metrics are externally reported, corporate metrics, the month-to-month and quarter-to-quarter MRR/ARR changes reporting is used for internal analysis. Delta ARR is reported at the parent account level, with drill down capability to see account level detail.
+
+Types of Delta ARR:
+- new - ARR for the customer's first paying month/quarter
+- expansion - ARR increased from previous month/quarter
+- contraction - ARR decreased from previous month/quarter
+- no impact - ARR remained the same from previous month/quarter
+- cancelled - ARR decreased all the way to zero for a customer who was paying in the previous month/quarter
+
+Reasons for Delta ARR:
+- seat change - a change in the quantity of seats purchased
+- price change - a change in discount
+- tier change up - an upward change in the product purchased within an existing deployment model (i.e., from Silver up to Gold)
+- tier change down - a downward change in the product purchased within an existing deployment model (i.e., from Silver down to Bronze)
+- conversion - a change from SaaS to Self-Managed or vice versa (i.e., Silver to Premium)
+
+These reasons can also happen in combination, such as a change in tier and a change in quantity of seats at the same time. When this happens, the ARR Change reporting will attribute a specific dollar value of contraction or expansion ARR to each reason.
+
+We can also use Delta ARR reporting to understand loss of contracts or consolidation of contracts at the parent and account level.
+
+
 #### ProServe Contract Value (PCV)
 
 {: #pcv}
