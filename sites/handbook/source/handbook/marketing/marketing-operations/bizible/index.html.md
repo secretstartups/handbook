@@ -101,3 +101,22 @@ This diagram is to be used internally and with Pathfactory to understand the att
 
 <div style="width: 600px;" class="embed-thumb"> <h1 style="position: relative;vertical-align: middle;display: inline-block; font-size: 24px; line-height:22px; color: #393939;margin-bottom: 10px; font-weight: 300;font-family: Proxima Nova, sans-serif;"> <div style="padding-left:50px"> <span style="max-width:555px;display: inline-block;overflow: hidden; white-space: nowrap;text-overflow: ellipsis;line-height: 1; height: 25px; margin-top: -3px;">Bizible Online and Offline Touchpoints with Pathfactory</span> <span style="position:relative;top:-3px;font-size: 16px; margin-top: -6px; line-height: 24px;color: #393939; font-weight: 300;"> by Jackie Gragnola</span> </div> </h1> <div style="position: relative; height: 0;overflow: hidden; height: 400px; max-width: 800px; min-width: 320px; border-width: 1px; border-style: solid; border-color: #d8d8d8;"> <div style="position: absolute;top: 0;left: 0;z-index: 10; width: 600px; height: 100%;background: url(https://murally.blob.core.windows.net/thumbnails/gitlab5736/murals/gitlab5736.1591891091477-5ee25493ffb242307083f62f.png?v=da3cd548-888e-47ea-abc3-048e523ea435) no-repeat center center; background-size: cover;"> <div style="position: absolute;top: 0;left: 0;z-index: 20;width: 100%; height: 100%;background-color: white;-webkit-filter: opacity(.4);"> </div> <a href="https://app.mural.co/t/gitlab5736/m/gitlab5736/1591891091477/bc32fc9e77c6098d524c9a6c9c11afb8e3158504" target="_blank" rel="noopener noreferrer" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; display: block; height: 50px; background: transparent;"> <img src="https://app.mural.co/static/images/btn-enter-mural.svg" alt="ENTER THE MURAL" width="233" height="50"> </a> </div> </div> </div>
 
+## Bizible Reports in SFDC
+
+Below are some frequently used bizible reports in SFDC and their use cases.
+
+### Use case: Track registration by source for GitLab owned gated landing pages
+
+**Bizible report type used: Bizible person with Bizible touchpoints (Custom)**
+
+Below are step by step instructions on how to track registration by driving channel for zoom webcasts, where the registration is set up on about.gitlab or Marketo pages.
+
+Step 1: Click SFDC report tab.
+Step 2: Create new report. In the search bar, type and select report type:`Bizible person with Bizible touchpoints (Custom)` and click `create`.
+Step 3: Within the SFDC report, make sure at the top the filters as set as `Show All bizible persons` and `Date Field Range is set to All Time`.
+Step 4: Add filter:  `Form url contains [insert webcast landing page unique identifier]` (e.g: Form url contains automate-security-ci)
+Step 5: Select summary format and group by `Marketing Channel - Path`.
+
+Training Video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VbmqYu7WFOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
