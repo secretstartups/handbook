@@ -27,18 +27,18 @@ Because this page needs to be concise and consistent, please ensure to follow th
 
 | Stage (Label) | Track | Responsible | Completion Criteria | Who Transitions Out |
 | ----- | --------- | ------------------- | --------------- | ------------------ |
-| `workflow::start` | N/A | Product | Item has enough information to enter problem validation. | Product | 
-| `workflow::problem validation` | [Validation](#validation-track) | Product | Item is validated and defined enough to propose a solution | Product | 
-| `workflow::design`  | [Validation](#validation-track) | UX | Design work is complete enough for issue to be validated or implemented. Product and Engineering confirm the proposed solution is viable and feasible. | UX | 
+| `workflow::start` | N/A | Product | Item has enough information to enter problem validation. | Product |
+| `workflow::problem validation` | [Validation](#validation-track) | Product | Item is validated and defined enough to propose a solution | Product |
+| `workflow::design`  | [Validation](#validation-track) | UX | Design work is complete enough for issue to be validated or implemented. Product and Engineering confirm the proposed solution is viable and feasible. | UX |
 | `workflow::solution validation`  | [Validation](#validation-track) | Product, UX | Product Manager works with UX to validate the solution with users. | Product |
-| `issue::needs issue review` | [Review](#review-track-optional)(Optional) | Product (Original PM) | Issue needs review by a Peer PM to help issue become more iterative, clearer, and better aligned with GitLab strategy | Product (Reviewer PM)
-| `issue::reviewed` | [Review](#review-track-optional)(Optional) | Product (Reviewer PM) | Issue has been reviewed and is ready to move to Build | Product (Original PM) |
-| `workflow::planning breakdown`  | [Build](#build-track) | Product, UX, Engineering | Issue has backend and/or frontend labels and estimated weight attached | Engineering | 
+| `workflow::needs issue review` | [Review](#review-track-optional)(Optional) | Product (Original PM) | Issue needs review by a Peer PM to help issue become more iterative, clearer, and better aligned with GitLab strategy | Product (Reviewer PM)
+| `workflow::issue reviewed` | [Review](#review-track-optional)(Optional) | Product (Reviewer PM) | Issue has been reviewed and is ready to move to Build | Product (Original PM) |
+| `workflow::planning breakdown`  | [Build](#build-track) | Product, UX, Engineering | Issue has backend and/or frontend labels and estimated weight attached | Engineering |
 | `workflow::scheduling`  | [Build](#build-track) | Engineering | Issue has a numerical milestone label | Product/Engineering |
-| `workflow::ready for development` | [Build](#build-track) | Engineering | An engineer has started to work on the issue | Engineering | 
-| `workflow::In dev` | [Build](#build-track) | Engineering | Initial engineering work is complete and review process has started | Engineering | 
-| `workflow::In review` | [Build](#build-track) | Engineering | MR(s) are merged | Engineering | 
-| `workflow::verification` | [Build](#build-track) | Engineering | Work is demonstrable on production | Engineering | 
+| `workflow::ready for development` | [Build](#build-track) | Engineering | An engineer has started to work on the issue | Engineering |
+| `workflow::In dev` | [Build](#build-track) | Engineering | Initial engineering work is complete and review process has started | Engineering |
+| `workflow::In review` | [Build](#build-track) | Engineering | MR(s) are merged | Engineering |
+| `workflow::verification` | [Build](#build-track) | Engineering | Work is demonstrable on production | Engineering |
 | `workflow::blocked` | N/A | Product/Engineering | Work is no longer blocked | Engineering |
 
 ## Validation track  
