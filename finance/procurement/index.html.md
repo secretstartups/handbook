@@ -129,7 +129,7 @@ GitLab team-members must obtain the appropriate approvals from other departments
 
 >### Vendor Contract Access Request
 
-Similar to our Access Request process for team members, we have an access request process for consultants or professional services providers. If the vendor requires access to systems to complete work, the Vendor Manager is responsible for creation of a Vendor Access Request and Orientation issue. 
+Similar to our Access Request process for team members, we have an access request process for consultants or professional services providers. If the vendor requires access to systems to complete work, the vendor manager (ie. the GitLab team member who will manage the relationship with the temporary service provider) is responsible for creation of a Vendor Access Request and Orientation issue. 
 
 These issues aren't created in the same location as access requests for employees so find the link below so use this [access request template](https://gitlab.com/gitlab-com/contingent-workers/lifecycle/-/issues/new?issuable_template=access-request) and assign it to yourself and the relevant provisioner(s) for the tools that the professional services provider requires access to. In the AR, include [**only systems that are necessary**](https://about.gitlab.com/handbook/engineering/security/Access-Management-Policy.html#access-management) to the work that the vendor will be performing. 
 
