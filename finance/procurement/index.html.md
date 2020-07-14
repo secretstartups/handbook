@@ -212,7 +212,7 @@ Contact Procurement directly in Slack via #procurement if you have questions.
 
 ##### Contract Templates
 
-- [Mutual Non-Disclosure Agreement](https://drive.google.com/file/d/1kQfvcnJ_G-ljZKmBnAFbphl-yFfF7W5U/view?usp=sharing)
+- [Mutual Non-Disclosure Agreement (NDA)](https://drive.google.com/file/d/1kQfvcnJ_G-ljZKmBnAFbphl-yFfF7W5U/view?usp=sharing)
 - [Logo Authorization Template](https://drive.google.com/file/d/1Vtq3UHc8lMfIbVFJ3Mc-PZZjb6_CKAvm/view?usp=sharing)
 
 ## Procurement Main Objectives
