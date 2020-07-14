@@ -88,6 +88,7 @@ Keep in mind, open-ear headphones can often be worn longer than in-ear or closed
 
 ### Keyboards
   * Macally Bluetooth wireless keyboard - [US](https://www.amazon.com/Macally-Bluetooth-Computers-Rechargeable-Indicators/dp/B07K24ZLWC)
+  * Logitech Ergo K860 Wireless Ergonomic Keyboard with Wrist Rest [US](https://www.amazon.com/gp/product/B07ZWK2TQT/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
 
 ### Office Furniture
 
