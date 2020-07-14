@@ -135,9 +135,13 @@ As an engineer is available to start a new issue, he/she can self-assign the nex
 
 ### Workflow Labels
 
-We use standard workflow labels on issues as described in the [product development flow](https://about.gitlab.com/handbook/product-development-flow/#build-phase-2-develop--test). Specifically we use `workflow::ready for development` when the issue has enough information to start development, `workflow::In dev` as we are working on the issue, `workflow::In review` when a merge request is in review, and `workflow::verification` after the merge request has been merged and we are testing the change in staging and production.
+We use standard workflow labels on issues as described in the [product development flow](https://about.gitlab.com/handbook/product-development-flow/#build-phase-2-develop--test). We use `workflow::design` when working on design for the issue, `workflow::ready for development` when the issue has enough information to start development, `workflow::In dev` as we are working on the issue, `workflow::In review` when a merge request is in review, and `workflow::verification` after the merge request has been merged and we are testing the change in staging and production.
 
 It is the responsibility of the assigned engineer for an issue to keep the workflow label up-to-date for the issue. We use the [APM Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1165027) board to visualize the issues.
+
+### Completing Design Issues
+
+When UX is actively working on designs for an issue, the issue is assigned `workflow::design` label. Once design is complete, we close the design issue and create an implementation issue labelled `workflow::ready for development` with the design issue linked as related.
 
 ### Assigning MRs for code review
 
