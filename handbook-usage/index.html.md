@@ -219,7 +219,7 @@ To ensure that people's time is well spent looking at the handbook we should fol
 1. Have a great search function (we use Algolia), plus make it public so you can [Google search](/handbook/tools-and-tips/searching/)
 1. Test people on their [knowledge](/company/culture/all-remote/learning-and-development/) during onboarding
 1. Give real examples
-1. Avoid corporate speak, describe things like you're talking to a friend. For more, see our communications guide on [Say What You Mean (SWYM)](/handbook/communication/#say-what-you-mean-swym).
+1. Avoid corporate speak, describe things like you're talking to a friend. For more, see our communications guide on [Simple Language](/handbook/communication/#simple-language).
 
 ## Wiki handbooks don't scale
 
