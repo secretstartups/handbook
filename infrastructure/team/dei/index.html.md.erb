@@ -1,0 +1,91 @@
+---
+layout: handbook-page-toc
+title: "Distinguished Engineer, Infrastructure"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+![xkcd #670: Wow, that's less than $200 per ... uh ... that's a good deal!](https://imgs.xkcd.com/comics/spinal_tap_amps.png)
+
+Image by Randall Munroe, [xkcd.com](https://xkcd.com/670/)
+
+## Responsibilities
+
+The **Distinguished Engineer, Infrastructure** is a member of the Infrastructure team and works with both management and individual contributors to achieve the department's objectives.
+
+### Specific areas of focus and interest within the infrastucture department:
+
+* **Resource Utilisation and Saturation**: the cloud infrastructure that we run GitLab.com is, for our purposes,
+  almost infinitely expandable, for our ability to scale up is limited by the bottlenecks and saturation points
+  in our application and associated infrastructure. As DE, Infrastructure, it is my responsibility to understand,
+  model, monitor and communicate these critical components.
+* **Capacity Planning**: related to resource utilisation and saturation, capacity planning is about understanding
+  when we will hit these critical bottlenecks, and planning ahead to avoid them.
+* **Service Level Monitoring**: service-level monitoring is about measuring quality of service from the point-of-view of the consumers of a service.
+  At GitLab we monitor four key metrics for each service, Apdex (a measure of latency), Requests-per-Second, Error Rates and Saturation & Utilization. Together
+  we sometimes refer to these metrics as ARES (from the first letters of the measurements). We also define service-level objectives, or SLOs, for each service
+  and monitor the services against these objectives.
+* **Attribution & Ownership**: GitLab's monolithic architecture provides us with many advantages, but being able to attribute a change that leads to a particular
+  regression or bug is more challenging with this model. While some components, such as Gitaly and Pages, are easy to attribute to a responsible team, most
+  changes are not. Attribution & ownership is about assigning responsibility of areas of the codebase to particular teams (usually via `feature_categories`).
+  This is a two-way process: it's about encouraging development teams to be involved in the execution of their code in production and infrastructure teams
+  communicating back to the development teams.
+* **Observability**: metrics, logs and traces. Having good observability allows engineers to better understand the
+  internal state of the application. In turn, better understanding helps improve availability, resilience, and reduce mean-time-to-
+* **GitLab.com Incidents**: I will frequently join incident calls. Primarily, I'm there to observe, so that we can iteratively improve our
+  systems to avoid similar incidents in future.
+
+### Mentoring
+
+> Of all the attributes that go to make up a distinguished engineer, being the engineer that inspires and helps others is, to my mind, the single most important. A distinguished engineer is someone a team can build around for any project, a person who will spend time developing others and making them far better at their job then they were before.
+
+<small>Taken from [On the Myth of the 10X Engineer and the Reality of the Distinguished Engineer, RedMonk](https://redmonk.com/fryan/2016/12/12/on-the-myth-of-the-10x-engineer-and-the-reality-of-the-distinguished-engineer/).</small>
+
+Engineering ICs from any part of the organisation are welcome to reach out to discuss career development, mentoring, either on a formal or informal basis.
+
+### Customer Needs
+
+> A distinguished engineer will bring a relentless focus on delivering value for customers. They understand the customer need, and when it’s a new market they spend a lot of time trying to understand what the potential needs will be. They adjust course when necessary, and bring their team long with them.
+
+<small>Taken from [On the Myth of the 10X Engineer and the Reality of the Distinguished Engineer, RedMonk](https://redmonk.com/fryan/2016/12/12/on-the-myth-of-the-10x-engineer-and-the-reality-of-the-distinguished-engineer/).</small>
+
+https://gitlab.slack.com/archives/D3PDQRTML
+
+## North Star Principals
+
+Inspiration taken from https://randsinrepose.com/archives/how-to-rands/
+
+**A heavy bias towards action**
+
+> Long meetings where we are endlessly debating potential directions are often valuable, but I believe starting is the best way to begin learning and make progress. This is not always the correct strategy. This strategy annoys those who like to debate.
+
+**Iteration**
+
+Related to the previous point, frequent, small, low-risk reversible incremental changes are almost always preferable to big risky changes. Compounding small incremental changes leads to huge
+
+**Feedback**
+
+I'll gladly accept feedback, and will try my best to address it. Please DM me on Slack, or better yet, setup a call.
+
+## Talks
+
+Occassionally I will talk at conferences. Here are some of the talks I have given:
+
+* Devopsdays Cape Town 2019 https://devopsdays.org/events/2019-cape-town/program/andrew-newdigate/
+* Monitorama PDX 2019 https://vimeo.com/341141334
+* PromCon EU 2019 https://www.youtube.com/watch?v=swnj6KTRg08
+* Google Cloud Next 2019 - Lhttps://www.youtube.com/watch?v=Ve_9mbJHPXQ
+* ScaleConf 2020 https://www.youtube.com/watch?v=2zL9DymXi1E
+
+
+
+## Engage with Andrew
+
+1. Start with an issue in the [Infrastructure tracker]((https://gitlab.com/gitlab-com/gl-infra/infrastucture/issues/new)).
+1. You are welcome to follow this up with a Slack message in [#infrastucture](https://gitlab.slack.com/archives/g_infrastructure).
+1. Join the Distinguished Office Hours call
+
