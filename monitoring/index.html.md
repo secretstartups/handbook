@@ -181,6 +181,7 @@ It provides a simple UI on GCP with CPU and Memory usage data for:
 
 * [Gitaly (and Praefect)](https://gitlab.com/gitlab-org/gitaly)
 * [Workhorse](https://gitlab.com/gitlab-org/gitlab-workhorse)
+* [GitLab Pages](https://gitlab.com/gitlab-org/gitlab-pages)
 
 For more information, there's a [quick video tutorial](https://www.youtube.com/watch?v=q3uudK1lU8g) available.
 
