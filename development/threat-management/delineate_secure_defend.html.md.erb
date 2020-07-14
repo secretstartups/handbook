@@ -140,24 +140,10 @@ View, Dismiss, or Confirm (and create related Issue) vulnerability findings the 
 
 _Draft_
 
-Matt Wilson (for PM) and Thiago Figueiro (for EM) will be the DRIs for approving changes to the [security report schemas](https://gitlab.com/gitlab-org/security-products/security-report-schemas).
+Matt Wilson (for PM) and Thiago Figueiro (for EM) will be the DRIs for approving changes to the [security report schemas](https://gitlab.com/gitlab-org/security-products/security-report-schemas). In case they're unavailable, their backup is David and Wayne.
 
 ### Approval process
 
-Merge request template `Security Report Schema` will be used to make the DRIs (Matt & Thiago) and their backup in case they are OOO (David & Wayne).  This template will mention their GitLab account names so they are automatically informed when a merge request is created using the template.
+Issue and Merge Request templates `Security Report Schema` will be used to make the DRIs and their backup aware of the change. These templates will mention their GitLab account names so they are automatically informed when a change is proposed and implemented.
 
-1. If the change is low risk, no approval needed.  Just use  the `Security Report Schema` merge request template as an FYI to the DRIs.
-2. If the change is high risk, request approval via using a merge request `Security Report Schema`.  If you do not receive a response within 3 business days, assume it is approved.
-
-### Risk levels
-
-#### Low risk
-
-* Adding a new optional field
-* Changing the name or data type of something not yet in use
-
-#### High risk
-
-* Changing the name or data type of something already in use
-* Adding a new required field
-
+They will have checkboxes that they will need to check to acknowledge their review/approval.
