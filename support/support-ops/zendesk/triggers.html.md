@@ -729,7 +729,6 @@ This should create a private comment containing the following:
     * `Form` is not `GitLab Community Edition (CE)`
     * `Form` is not `License Renewals and Upgrades`
     * `Form` is `GitLab.com`
-    * `Form` is `Gitlab.com (SAAS) Account Related Form`
     * `Form` is not `Accounts Receivable / Refunds`
     * `Form` is not `Security Issue`
   * Meets ANY of:
@@ -2142,3 +2141,42 @@ This should create a private comment containing the following:
     * `Tags` do not contain `feedback_exported`
     * `Satisfaction` is `No reason provided`
     * `Satisfaction` is `Bad`
+
+### [Slack Services Live Feed (GitLab.com SASS Account Related Tickets))](https://gitlab.zendesk.com/agent/admin/triggers/360046183759)
+
+* Actions:
+  * Notify #zd-gitlab-com-feed:
+    ```json
+    {
+        "attachments": [
+            {
+                "fallback": "",
+                "color": "#4AACD8",
+                "pretext": "{{ticket.status}} ticket updated by {{current_user.name}}: <{{ticket.link}}|Ticket #{{ticket.id}}>",
+                "title": "{{ticket.title}}",
+    			      "author_name": "{{ticket.organization.name}}",
+                "title_link": "{{ticket.link}}",
+                "text": "{{ticket.latest_comment}}",
+                "fields": [
+                    {
+                        "short": true
+                    }
+                ],
+                "footer": "ZenDesk",
+                "footer_icon": "https://slack-imgs.com/?c=1&o1=wi32.he32.si&url=https%3A%2F%2Fa.slack-edge.com%2F436da%2Fimg%2Funfurl_icons%2Fzendesk.png"
+            }
+        ]
+    }
+    ```
+* Conditions:
+  * Meets ALL of:
+    * `Comment` is `Present (public or private)`
+    * `Form` is not `Self-Managed`
+    * `Form` is not `GitLab Community Edition (CE)`
+    * `Form` is not `License Renewals and Upgrades`
+    * `Form` is `GitLab.com SAAS Account Related`
+    * `Form` is not `Accounts Receivable / Refunds`
+    * `Form` is not `Security Issue`
+  * Meets ANY of:
+    * `Ticket` is `Created`
+    * `Ticket` is `Updated`
