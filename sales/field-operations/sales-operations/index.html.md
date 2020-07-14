@@ -77,7 +77,7 @@ The #sales-support slack channel is monitored by several groups within Field Ope
 
 1. [Contract assistance](https://about.gitlab.com/handbook/sales/#reaching-the-sales-team-internally)
 2. [Updating or creating Opportunity Splits ](https://about.gitlab.com/handbook/sales/#opportunity-splits)
-3. [Salesforce Lightning for Gmail](Salesforce Lightning for Gmail)
+3. [Salesforce Lightning for Gmail](https://about.gitlab.com/handbook/sales/#salesforce-lightning-for-gmail)
 4. [Support from the Community Advocacy Team](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/#working-with-the-community-advocacy-team)
 5. [DataFox/DiscoverOrg segmentation conflicts](https://about.gitlab.com/handbook/business-ops/resources/#segmentation)
 6. [Reassigning to a Territory Rep](https://about.gitlab.com/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
