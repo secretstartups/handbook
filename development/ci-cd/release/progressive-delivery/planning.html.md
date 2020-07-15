@@ -40,6 +40,8 @@ We use the following boards are used to monitor this process
 - [Release Management : Build](https://gitlab.com/groups/gitlab-org/-/boards/1488065?&label_name[]=cicd%3A%3Aactive&label_name[]=group%3A%3Arelease%20management)
 - [Progressive Delivery : Build](https://gitlab.com/groups/gitlab-org/-/boards/1489558?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=cicd%3A%3Aactive&label_name[]=group%3A%3Aprogressive%20delivery)
 
+### Process in detail
+
 #### Plan
 
 We use the [Planning Boards](#planning-boards) to triage issues that are not yet planned for a milestone. Issues in this board are labeled _cicd::planning_ and the group label (_group::release management_ or _group::progressive delivery_).
@@ -111,13 +113,14 @@ We use the [Build boards](#build-boards) to look at _cicd::active_ issues in the
 
 Because of the way that the boards in GitLab work, we needed to limit this to the started milestone, but are looking at how to have this roll in a more continuous manner.
 
-The Engineering Manager (EM) owns this board and uses it to facilitate building out the Epics and issues that the team have decided are ready for development.
+The Engineering Manager (EM) owns this board and uses it to facilitate building out the Epics and issues that the team has decided are ready for development. All the engineers need to keep the issues aligned with the status of the corresponding merge requests.
 
-Issues are added in the "ready for development" column in priority order. When an engineer is open, they can pick unassigned issues from the top of this list. As their work progresses, they advance the issue through the "in dev" and "in review" columns. Engineers need to keep the issues aligned with the status of the corresponding merge requests.
+The following statuses are used:
 
-When an issue is "in review", the MR should be assigned to both the original engineer and the reviewer so that it is clear that the merge request has an active reviewer. This helps the EM to see how much work is allocated to each person.
-
-The column for "verification" is where the owner of the Epic, or the PM will ensure that the issue fits into the context of the solution. This is also where we confirm if a release note is required for this issue, and assign the correct milestone.
+* **ready for development**: issues are sorted by highest priority. Unassigned issues can be picked up from the top of the list;
+* **in dev**: an engineer is currently working on the issue;
+* **in review**: the MR should be assigned to both the original engineer and the reviewer so that it is clear that the merge request has an active reviewer. This helps the EM to see how much work is allocated to each person;
+* **verification**: the owner of the Epic, or the PM, will ensure that the issue fits into the context of the solution. In this state we also confirm if a release note is required for this issue, and assign the correct milestone.
 
 #### Release and Post-Release
 

@@ -118,7 +118,7 @@ Both `~workflow::ready for development` and `cicd::active` labels **are** requir
 
 We use the [Build board](https://gitlab.com/groups/gitlab-org/-/boards/1489558?label_name[]=cicd%3A%3Aactive&label_name[]=group%3A%3Aprogressive%20delivery) to track features as they make their way from idea to production. _This should is the only place that developers should find new work_. This board does not have a concept of a Milestone, it represents the development lifecycle and is populated with issues that have been previously evaluated. On occasion, unscheduled issues like high priority bugs, community contributions, the like will appear on this board. Here, issues move more or less linearly from Ready for Development thru to Verification.
 
-On occasion they have to return to and earlier state like `workflow:ready for development` as priorities shift, `workflow::refinement` if the issue was not truly ready, or to `workflow::blocked` if we are unable to proceed. As a point of clarification, `workflow::scheduling` contains issues that are ready to go and that we're waiting to act until we have capacity or waiting planned for specific milestone while `workflow::refinement` is about the proposal needing polishing.
+On occasion they have to return to an earlier state like `workflow:ready for development` as priorities shift, `workflow::refinement` if the issue was not truly ready, or to `workflow::blocked` if we are unable to proceed. As a point of clarification, `workflow::scheduling` contains issues that are ready to go and that we're waiting to act until we have capacity or waiting planned for specific milestone while `workflow::refinement` is about the proposal needing polishing.
 
 Issues if over a weight of 1, will have multiple MRs. Each of these associated MRs will likely be in a different stage of development. It's important to update the issues on the build board with the latest, most relevant state. Example, if an issue has three MRs with one in review, another in development, and one ready for development, then the we should place that issue is in ~"workflow::In dev" as this is where the most activity for this issue is happening - it's the most relevant signal to the rest of the team. Because we have a one-to-many relationship between our issues and MRs, activity on the board will appear slow. Async Issue Updates and weekly sync meetings both outlined below help with any ambiguity that this system introduces.
 
@@ -204,7 +204,7 @@ With the knowledge that [things take longer than you think](https://erikbern.com
 
 In order to make sure iterations are efficient, it is important to ensure issues are clearly defined and broken down before the start of an iteration.
 In order to accomplish this, engineering evaluation will take place for issues that require it (small changes and bug fixes typically won’t require this analysis).
-With each milestone we collect a series of upcoming issues to be review and discussed asynchronously into a meta Needs Weight Issue ([example issue](https://gitlab.com/gitlab-org/gitlab/-/issues/212773)). These issues should have the label `workflow::planning breakdown`. We use this label not only for well-defined user stories, but also functional, performance, documentation, and security issues.
+With each milestone we collect a series of upcoming issues to be reviewed and discussed asynchronously into a meta Needs Weight Issue ([example issue](https://gitlab.com/gitlab-org/gitlab/-/issues/212773)). These issues should have the label `workflow::planning breakdown`. We use this label not only for well-defined user stories, but also functional, performance, documentation, and security issues.
 See the [Build phase](https://about.gitlab.com/handbook/product-development-flow/#build-phase-1-plan) of the Product Development Workflow.
 
 Assigned engineers will work with Product, UX and other engineers to determine the implementation plan for a proposed feature. As the assigned engineer provides a propsed breakdown, they should also affix a weight to the issue. See below.
@@ -252,17 +252,17 @@ Here is how to work on PoC step:
   in the MR description, that you think it's the best.
 - Try to implement the feature in the merge request. Frontend and bakcend engineers
   can work on the same branch.
-- If it takes too long time to make the feature actually works on your local development machine,
+- If it takes too long time to make the feature actually work on your local development machine,
   your technical proposal might need to be reconsidered. You can seek the other viable approaches
   by hearing from domain experts or the other developers.
-- If you see technical difficulties that seems impossible to be solved in the same milestone,
+- If you see technical difficulties that seem impossible to be solved in the same milestone,
   you should raise a concern that there is a blocker thus we might
   not be able to finish the feature by the due date.
 - If the change size is too large (e.g. you had to modify over 1000-1500 lines without tests),
   you should raise a concern that the issue is too large to ship within one milestone,
   and you can make a suggestion that what can be done in the release and what can be done
   in the next milestone (i.e. issue split).
-- In the PoC review, you should ask domain/performance/security experts or the other engineers who are familer on the context
+- In the PoC review, you should ask domain/performance/security experts or the other engineers who are familar with the context
   to review the technical approach and actual code. This is to ensure that there are no big red flags on the proposed solution.
 - In the PoC review, you should ask PM and UX to review the feature's behavior.
   This is to ensure that the feature is correctly implemented and orthogonal to our problem to solve.
@@ -270,7 +270,7 @@ Here is how to work on PoC step:
 - You don't need to write neither tests nor documentation. It can be done later.
 - You don't need to fix failed pipelines. You can fix the broken tests later. (Although, it might have some useful information)
 - You don't need to write well-organized code. Refactoring can be done later.
-- The PoC MR is not for merge, however, you can copy and paste the changes into the actual MRs, and poish later.
+- The PoC MR is not for merge, however, you can copy/paste the changes into the actual MRs, and poish later.
 - Definition of done of PoC step is collecting approvals from PM, UX, domain/performance/security experts.
 - Once it's done, you can estimate the number of MRs. For example, if the change size is 1000,
   you can split it to 5 MRs with 200 LoC. As you add tests in the actual development,
@@ -285,13 +285,13 @@ For example, improving code quality, refactoring code, writing tests, writing do
 Here are the examples of PoC step. [Example 1](https://gitlab.com/gitlab-org/gitlab/merge_requests/16276),
 [Example 2](https://gitlab.com/gitlab-org/gitlab/merge_requests/18115)
 
-#### Issue template for a feature development
+#### Issue template for feature development
 
 This is an issue template for feature development. It includes some
 important engineering tasks to be done in general.
 
 <details>
-<summary>Click me to collapse/fold the Issue template for a feature development.</summary>
+<summary>Click me to collapse/fold the Issue template for feature development.</summary>
 <pre>
 ```
 <!-- The issue begins with "Problme to solve", "Intended users", "Proposal", etc.
@@ -439,7 +439,7 @@ This check-in is optional and can be skipped if you don't need any help, don't h
 A status update comment should include the percentage complete of the work, the confidence of the person that their estimate is correct, and, optionally, any notes on what was done. Indications of other key steps like if review has started should also be included.
 In the case where multiple developers are active on this issue, it could be good to include whether this is a front-end or back-end update if there are multiple people working on it. Finally, for each MR associated, please include an entry for each.
 
-On of our colleagues, Nick Kipling, has created a tool called [TalTal](https://taltal.netlify.app/) to help make this process easier. _The use of the TalTal tool is totally optional_.
+One of our colleagues, Nick Kipling, has created a tool called [TalTal](https://taltal.netlify.app/) to help make this process easier. _The use of the TalTal tool is totally optional_.
 
 Below are some templates that you might find also useful.
 
