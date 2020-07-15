@@ -100,7 +100,7 @@ Procurement will not approve a contract issue until all other approvals have bee
 1. The Security Compliance team needs 3 business days to complete this review from the time they receive all necessary documentation from the vendor 
 1. A contract cannot be signed until it has been approved by the security team. Once the security team approves the vendor and/or identifies gaps in the vendor's security practices for negotiation, security will provide their approval in the issue.
 1. Consult the [Data Classification Policy](https://docs.google.com/document/d/15eNKGA3zyZazsJMldqTBFbYMnVUSQSpU14lo22JMZQY/edit#heading=h.a7l25bv5e2pi) to understand whether your contract will need security review. Any contracts that will share RED or ORANGE data will need security approval prior to signing. Additionally, an annual reassessment of vendor's security posture is performed as part of the contract renewal.
-1. Complete a [Privacy Review](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#); please note that this will be done in partnership with GitLab's Privacy Officer and reviewed by Security Compliance during the Security Review.
+1. Complete a [Privacy Review](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=Vendor-Procurement-Privacy-Review); please note that this will be done in partnership with GitLab's Privacy Officer and reviewed by Security Compliance during the Security Review.
 
 >### Vendor Contract Approval Process
 
@@ -179,7 +179,7 @@ Before approving issues, the procurement team verifies:
 
 Similar to our Access Request process for team members, we have an access request process for consultants or professional services providers. If the vendor requires access to systems to complete work, the vendor manager (ie. the GitLab team member who will manage the relationship with the temporary service provider, generally a people manager) is responsible for creation of a Vendor Access Request and Orientation issue. 
 
-These issues aren't created in the same location as access requests for employees so find the link below so use this [access request template](https://gitlab.com/gitlab-com/contingent-workers/lifecycle/-/issues/new?issuable_template=access-request) and assign it to yourself and the relevant provisioner(s) for the tools that the professional services provider requires access to. In the AR, include [**only systems that are necessary**](https://about.gitlab.com/handbook/engineering/security/Access-Management-Policy.html#access-management) to the work that the vendor will be performing. 
+These issues aren't created in the same location as access requests for employees so find the link below so use this [access request template](https://gitlab.com/gitlab-com/contingent-workers/lifecycle/-/issues/new?issuable_template=access-request) and assign it to yourself and the relevant provisioner(s) for the tools that the professional services provider requires access to. In the AR, include [**only systems that are necessary**](/handbook/engineering/security/Access-Management-Policy.html#access-management) to the work that the vendor will be performing. 
 
 Create an [orientation issue](https://gitlab.com/gitlab-com/contingent-workers/lifecycle/-/issues/new?issuable_template=orientation-issue) if the professional services provider wants support through the set up of the most common tools used at GitLab. Assign to yourself and the professional services provider if they have a GitLab account with the required access.
 
@@ -249,17 +249,19 @@ Contact Procurement directly in Slack via #procurement if you have questions.
     *  **If the bill is not sent back to AP by the Business Owner, the process will not move forward and the invoice won't be paid.**
 
 #### Vendor Code of Ethics
-All vendors that GitLab does business with, must legally comply with the [Supplier Code of Ethics](https://about.gitlab.com/handbook/people-group/code-of-conduct/#partner-code-of-ethics). When having discussions with your vendor regarding the contract, make them aware of this requirement.
+All vendors that GitLab does business with, must legally comply with the [Supplier Code of Ethics](/handbook/people-group/code-of-conduct/#partner-code-of-ethics). When having discussions with your vendor regarding the contract, make them aware of this requirement.
 
 ### Modern Slavery and Human Trafficking Compliance Program
 
 GitLab condemns exploitation of humans through the illegal and degrading practices of human trafficking, slavery, servitude, forced labor, forced marriage, the sale/exploitation of chilren and adults and debt bondage (“Modern Slavery”).  To combat such illegal activities, GitLab has implemented this Modern Slavery and Human Trafficking Compliance Program.  
 
 *Risk Areas and Markets*
+
 While Modern Slavery can occur in any country and in any market, some regions and sectors present higher likelihood of vioaltions. Geographies with higher incidents of slavery are India, China, Pakistan, Bangladesh, Uzbekistan, Russia, Nigeria, Indonesia and Egypt. Consumer sectors such as food, tobacco and clothing are high risk sectors; but Modern Slavery can occur in many markets.*  
  (*According to Source: Statista, Walk Free Foundation, https://www.statista.com/chart/4937/modern-slavery-is-a-brutal-reality-worldwide/)  
 
 *Actions to Address Modern Slavery Risks*
+
 All vendors, providers and entities providing services or products to GitLab (“Vendors”) are expected to comply with [GitLab’s Partner Code of Ethics](/handbook/people-group/code-of-conduct/#partner-code-of-ethics) which specifically addresses Modern Slavery laws.  Compliance with the Partner Code of Ethics will be included in Vendor contracts and/or purchase orders going forward.  Existing Vendor contracts will be updated with the appropriate language upon renewal.
 
 Those entities who are of higher risk or whom GitLab suspects may be in violation of Modern Slavery laws, may be required to complete an audit.  Audits may be presented in the form of a questionnaire or may be an onsite visit.  Any known or suspected violations will be raised to Legal and/or Compliance.  Failure to comply with Modern Slavery laws will result in a termination of the relationship and GitLab retains all rights in law and equity.
@@ -267,9 +269,11 @@ Those entities who are of higher risk or whom GitLab suspects may be in violatio
 Vendors understand and agree that violations of Modern Slavery laws may require mandatory reporting to governing authorities. GitLab has discretion if and how to best consult with Vendors for purposes of Modern Slavery reporting. GitLab is senstive to and will take into consideration, the relationship and the risk profile of Vendor to ensure that Modern Slavery risks have been appropriately identified, assessed and addressed and that the Vendor is aware of what actions it needs to take.
 
 *Assessment of Effectiveness*
+
 GitLab will review its Modern Slavery and Human Trafficking Compliance Program on an annual basis or sooner if it is determined there is increased exposure or concerns with overall compliance.   The Program may be amended from time to time by GitLab, to ensure compliance with the most current Modern Slavery laws and regulations.
 
 *Compliance Program Approval*
+
 GitLab’s Executive Team reviewed and approves this Modern Slavery and Human Trafficking Compliance Program.
 
 ## Related Docs and Templates
@@ -278,7 +282,7 @@ GitLab’s Executive Team reviewed and approves this Modern Slavery and Human Tr
 
 * [Uploading Third Party Contracts to ContractWorks](/handbook/legal/vendor-contract-filing-process/)
 * [Compliance](/handbook/legal/global-compliance/) - general information about compliance issues relevant to the company
-* [Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information) - general information about each legal entity of the company
+* [Company Information](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/company-information) - general information about each legal entity of the company
 * [Trademark](/handbook/marketing/growth-marketing/brand-and-digital-design/brand-guidelines/#trademark) - information regarding the usage of GitLab's trademark
 * [Authorization Matrix](/handbook/finance/authorization-matrix/) - the authority matrix for spending and binding the company and the process for signing legal documents
 
