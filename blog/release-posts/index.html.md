@@ -110,7 +110,7 @@ The Release Post Manager is accountable for:
 `#releases` Slack channel and  only merge once they've pinged you in Slack to confirm the packages are released, which will be sometime around 14:10 - 14:20)
 - Creating and collecting feedback in the release post retro issue during the release post
 - Doing a sync retro with the Tech Writing and Messaging leads sometime between the 23rd and the 1st of the month, to identify and collaboratively complete actions to improve  process and update the handbook/MRs
-- [Communicate](#communication) with our Community Advocates as needed to field questions that come up from viewers of the release post blog once it is live on the 22nd
+- [Communicate](#communication) with our Community Advocates following the [Involving Experts workflow](https://about.gitlab.com/handbook/marketing/community-relations/community-advocacy/workflows/involving-experts/) as needed to field questions that come up from viewers of the release post blog once it is live on the 22nd 
 
 **The initial steps of creating a release post branch and the release post merge request are explained below. All subsequent steps for Release Post Manager are documented as checklist items in the merge request that gets created below.**
 
