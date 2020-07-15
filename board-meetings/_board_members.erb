@@ -1,5 +1,5 @@
 <% data.team.each do |slugKey, slug| %>
-  <% next unless (slug.stage == slugKey) %>
+  <% next unless (slug.locality == slugKey) %>
   <% l = [] %>
 ##### <%= slug.name %>
 <%= slug.name + " " + slug.role + "  " unless slug.picture.blank? %>
