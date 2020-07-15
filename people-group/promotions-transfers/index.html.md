@@ -38,11 +38,10 @@ A [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/employment-
 
 The Total Rewards Team will notify the People Experience Team of a pending migration of a team member via @ mention in the Promotion/Transfer Tracker. The [People Experience Associate](https://about.gitlab.com/job-families/people-ops/people-experience-associate/) currently in the assignment rotation will assign the migration to an Associate in the People Exp/Ops Tracker.
 
-The [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) will then be **created by the People Experience Associate** assigned by following the steps below:
+The [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) will then be **created by the People Experience Associate** assigned by using the [automated Slack command](/handbook/people-group/engineering/employment-issues/#career-mobility-issues) one day prior to the effective date. 
 
-1. One day prior to the effective date, the People Experience Associate will start the Career Mobility Issue process. 
-1. In Slack, go to your profile as if you were going to send a Slack message to yourself. Type the command /pops run careermobility BambooHR_ID_number (not Employee ID #). This number is found in the team member's BambooHR profile URL, after id=. It is a 5-digit number. An example of the command would be /pops run careermobility 00000. If BambooHR's API is down, this ChatOps command will fail and will need to be created manually.
-1. You will be pinged in Slack once the Career Mobility issue is created, which usually takes 30 seconds or so. The ping will include a link to the new issue.
+Important things to ensure: 
+
 1. Add a due date of two weeks from the migration effective date.
 1. Check to see that the previous Manager and new Manager is listed correctly in the issue.
 1. Complete all applicable tasks under the People Experience list. 
