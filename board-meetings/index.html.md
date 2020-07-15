@@ -23,6 +23,8 @@ title: "Board of Directors and Corporate Governance"
 
 **Members:** Sid Sijbrandij, Bruce Armstrong, Matthew Jacobson, David Hornik, Sue Bostrom, Karen Blasing, Godfrey Sullivan
 
+<%= partial("board-meetings/board_members", :locals => { :deptKey => "Board" }) %>
+
 ### Audit Committee
 
 * **Chairperson:** Karen Blasing
