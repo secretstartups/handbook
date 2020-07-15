@@ -19,25 +19,25 @@ Welcome to the Manager Challenge page. We are rolling out a pilot 4 week manager
 
 ## Week 1
 
-Add info for week 1 here 
+During week one we will discuss **Getting to Know your Team**. Information covered in week one can be found on the [SOCIAL STYLES page](/handbook/people-group/learning-and-development/emotional-intelligence/social-styles/). 
 
 [embed week 1 slide deck here] 
 
 ## Week 2
 
-Add info for week 2 here 
+During week two we will discuss **Trust and Coaching**. Information covered in week two can be found on the [Coaching page](/handbook/people-group/learning-and-development/career-development/coaching/). 
 
 [embed week 2 slide deck here] 
 
 ## Week 3
 
-Add info for week 3 here 
+During week three we will discuss **Building and Inclusive/Belonging Environment**. Information covered in week three can be found on the [page](). 
 
 [embed week 3 slide deck here] 
 
 ## Week 4
 
-Add info for week 4 here 
+During week four we will discuss **Developing High Performing Teams**. Information covered in week four can be found on the [Building High Performing Teams page](/handbook/people-group/learning-and-development/building-high-performing-teams/).  
 
 [embed week 4 slide deck here] 
 
