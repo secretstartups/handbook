@@ -363,7 +363,7 @@ Year 5: Put in 3K, GitLab matches 1500. Leave the company get 15K own money + $7
 
 The 401(k) Committee will meet quarterly with Betterment to review how the plan is doing as well as updates from the Betterment investment team.
 
-**Committee Memebers:**
+**Committee Members:**
 Chair: Principal Accounting Officer (PAO)
 **Other Members:**
 * Principal Accounting Officer
