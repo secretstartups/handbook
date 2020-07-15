@@ -69,7 +69,7 @@ During week four we will discuss **Developing High Performing Teams**. Informati
 1. **Is the content in the slides in the Handbook?**
      - Yes! All of the content will be in the Handbook. We are creating Google Slides to visualize the content for the challenges but all of it will live in the handbook. 
 1. **What if I can’t attend a Live Learning session or complete a challenge?**
-     - If you miss a challenge or live learning session you can go back and complete the challenge anytime. All of the material will be posted on this page, including the live learning recordings. 
+     - If you miss a challenge or live learning session you can go back and complete the challenge anytime. Each SSOT page for material covered will be on linked this page. The live learning recordings will be on the respective SSOT page (ex. the recording for the Week 3 Trust & Coaching session will be on the [Coaching page](/handbook/people-group/learning-and-development/career-development/coaching/)). 
 1. **What if I am out of office for part of the program?**
      - As long as you complete the challenge and let the Learning and Development know when you have completed them, it is okay to be out of office. 
 1. **I'm not a Manager, can I still participate?**
