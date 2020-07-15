@@ -2,6 +2,6 @@
   <% next unless (slug.locality == "Amsterdam") %>
   <% l = [] %>
 ##### <%= slug.name %>
-<%= slug.name + " " + slug.role + slug.departments + "  " unless slug.picture.blank? %>
+<%= slug.name + " " + slug.role + slug.departments.to_s + "  " unless slug.picture.blank? %>
 <%= l.join(' • ') unless l.empty? %>
 <% end %>
