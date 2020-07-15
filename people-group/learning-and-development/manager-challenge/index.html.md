@@ -40,3 +40,21 @@ Add info for week 3 here
 Add info for week 4 here 
 
 [embed week 4 slide deck here] 
+
+## FAQs
+
+**Question**
+
+Answer. 
+
+**Question**
+
+Answer. 
+
+**Question**
+
+Answer. 
+
+**Question**
+
+Answer. 
