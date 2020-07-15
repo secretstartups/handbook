@@ -1043,7 +1043,7 @@ This section aims to provide some real world examples to show you how you can ap
 
 ### How to scale the business while preserving GitLab values? 
 
-**Scenario 1**: *For certain business decisions or projects, GitLab team members may have a lot of opinions and interest, 
+**Scenario 1**: *For certain business decisions or projects (such as [compensation](/handbook/total-rewards/compensation/) and [end-point management](/handbook/business-ops/employee-enablement/it-ops-team/endpoint-management/) ), GitLab team members may have a lot of opinions and interest, 
 and they want to provide their feedback and comments. 
 On the other hand,  it might be challenging for the project DRI to digest and respond to all these inputs. 
 What should you do in this scenario?*  
