@@ -21,7 +21,7 @@ Our team is structured as business partners to the rest of Marketing - see focus
 * Claudia Beer, Manager - Oversees business partners
 * Beth Peterson, Senior - SDR business partner
 * Amy Waller, Senior - Campaign business partner
-* [Sarah Daily](/handbook/marketing/marketing-operations/readme/sarah-daily/index.html) - Content business partner
+* [Sarah Daily, Senior](/handbook/marketing/marketing-operations/readme/sarah-daily/index.html) - Content business partner
 * Nichole LaRue - SDR business partner
 * Jameson Burton, Associate
 * Robert Kohnke - Reporting
@@ -146,7 +146,7 @@ Periodically Marketing Operations makes significant changes to our system and pr
 | :--- | :--- | :--- |
 | 6060 | Software Subscriptions |All software subscriptions |
 | 6100 | Marketing|Reserved for Marketing GL accounts|
-| 6110 | Marketing Site|Not used - All agency fees and contract work intended to improve the marketing site |
+| 6110 | Marketing Site|All agency fees and contract work intended to improve the marketing site |
 | 6120 | Advertising|All media buying costs as well as agency fees and software subscriptions related to media buying |
 | 6130 | Events|All event sponsorships, booth shipping, event travel, booth design, event production as well as agency fees and software costs related to events |
 | 6135 | Swag|Any swag related expense
