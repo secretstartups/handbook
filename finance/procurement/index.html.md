@@ -81,7 +81,6 @@ A video tutorial of the field marketing and events issue creation process can be
 1. In this event legal can and will provide contract terms to govern the transaction based on the level of risk.
 1. Open the appropriate vendor contract request to initiate the process
 
-
 ## Deep Dive on the Vendor Contract Issue Process
 Procurement will not approve a contract issue until all other approvals have been received to validate the appropriate approval process and policies have been followed. In the event procurement approves an issue prior to other approvals in an attempt to avoid being the source of a backlog, procurement will comment in the issue that their approval is "subject to remaining approvals". At this point it is the responsibility of the issue owner to follow the remaining process and secure remaining approvals BEFORE obtaining contract signature.
 
@@ -117,17 +116,17 @@ When and how is a contract negotiated?
 
 **For Software <$75K:**
    * Procurement will assign to our third-party partner, Vendr, to negotiate the transaction. *Procurement reserves the right to engage Vendr at a higher or lower threshold based on current bandwidth.*
-   * If it is a renewal/existing vendor, Procurement Ops Analyst will pull previous contract from contract works and post to issue. 
+   * If it is a renewal/existing vendor, Procurement Ops Analyst will pull previous contract from Contract Works and post to issue. 
       * Procurement Ops Analyst will note any discrepancy in previous order amount, vs. new quote, if available.
-      * If contract is unavailable in contract works, Procurement Ops Analyst to request contract from issue creator.
+      * If contract is unavailable in Contract Works, Procurement Ops Analyst to request contract from issue creator.
       * If issue creator does not have the contract, Vendr will request from vendor during the negotiation process.
    * Ops Analyst will schedule a call with negotiator (Vendr or Sr. Mgr, Procurement), issue creator, and finance business partner (as optional).
    * Procurement Ops Analyst add “Procurement::Vendr” label
 
 **For Software >$75K:**
    * Procurement will negotiate internally. *Procurement reserves the right to engage Vendr at a higher or lower threshold based on current bandwidth.*
-   * If this is a renewal/existing vendor, Procurement Ops Analyst to pull previous contract from contract works and post to issue. 
-      * If contract is unavailable in contract works, Procurement Ops Analyst to request contract from issue creator.
+   * If this is a renewal/existing vendor, Procurement Ops Analyst to pull previous contract from Contract Works and post to issue. 
+      * If contract is unavailable in Contract Works, Procurement Ops Analyst to request contract from issue creator.
       * If issue creator does not have the contract, Sr. Mgr Procurement will request from vendor during the negotiation process.
       * Procurement Ops Analyst will note any discrepancy in previous order amount, vs. new quote if available.
       * Procurement Ops Analyst schedule call with Sr. Mgr Procurement, issue creator and finance partner (optional) to review need.
@@ -160,7 +159,6 @@ Before approving issues, the procurement team verifies:
       * If it is an on-site event or involves data that might not be publicly available, the Sr. Mgr Procurement must approve
    * In the event procurement approves the purchase request issue before the other approvers to avoid being a bottleneck, procurement will note our approval as pending outstanding approvers.
 
-
 >### Vendor Contract Signing Process
 
 1. Do not send the contract to the authorized signatory until all approvals are received. Doing so can put GitLab in a direct financial and/or legal risk which could need to be escalated.
@@ -182,7 +180,6 @@ Similar to our Access Request process for team members, we have an access reques
 These issues aren't created in the same location as access requests for employees so find the link below so use this [access request template](https://gitlab.com/gitlab-com/contingent-workers/lifecycle/-/issues/new?issuable_template=access-request) and assign it to yourself and the relevant provisioner(s) for the tools that the professional services provider requires access to. In the AR, include [**only systems that are necessary**](/handbook/engineering/security/Access-Management-Policy.html#access-management) to the work that the vendor will be performing. 
 
 Create an [orientation issue](https://gitlab.com/gitlab-com/contingent-workers/lifecycle/-/issues/new?issuable_template=orientation-issue) if the professional services provider wants support through the set up of the most common tools used at GitLab. Assign to yourself and the professional services provider if they have a GitLab account with the required access.
-
 
 >### Payment
 1. Vendors will be required to create an account within Tipalti in order to receive payment
@@ -216,7 +213,6 @@ It is the responsibility of the business owner/issue creator to request a Purcha
 - [Media Consent and Release Form](https://drive.google.com/file/d/10pplnb9HMK0J0E8kwERi8rRHvAs_rKoH/view?usp=sharing)
 
 >### Step by step guide on the PO creation process the procurement team is responsible for within Netsuite can be found [here](/handbook/finance/procurement/purchase-order-process/)
-
 
 ### Contract Request Capacity & Back Log
 
