@@ -165,6 +165,7 @@ The Recruiter will email the candidate and ask if they want to book a zoom call 
 - [Unlimited paid-time-off](https://about.gitlab.com/handbook/paid-time-off/)
 - [Incentives](https://about.gitlab.com/handbook/incentives/)
 - [Office equipment/reimbursements](https://about.gitlab.com/handbook/spending-company-money/)
+- [Configuring your new laptop](https://about.gitlab.com/handbook/business-ops/employee-enablement/it-ops-team/#configuring-new-laptops)
 - [Employment Assistance Program](https://about.gitlab.com/handbook/benefits/#employee-assistance-program)
 
 After the verbal offer is made the recruiter can send an email to the candidate with all the information covered in the zoom call. 
