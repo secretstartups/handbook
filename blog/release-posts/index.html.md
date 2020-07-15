@@ -332,7 +332,7 @@ A feature should be `Primary` if the feature...
 
 #### Reviews
 
-PM Director/Group Manager  and PMM reviews are highly recommended, but the Tech Writer review is the only one required for inclusion in the Release Post. The Tech Writing review should be focused on looking for typos, grammar errors, and helping with style. PMs are responsible for coordinating any significant content/tech changes. Communicating priority about which release post items are most important for review will help Product Section leads, PMMs, and Tech Writers review the right items by the 10th of each month, so ensure the proper labels ares applied to the MR and assign reviewers to the MR when it is ready for them to review (ex: `Tech Writing`, `Direction`, `Deliverable`, etc).
+PM Director/Group Manager and PMM reviews are highly recommended, but the Tech Writer review is the only one required for inclusion in the Release Post. Tech Writer reivew is required even when late additions are made to the relaese post after the 18th of the month.  The Tech Writing review should be focused on looking for typos, grammar errors, and helping with style. PMs are responsible for coordinating any significant content/tech changes. Communicating priority about which release post items are most important for review will help Product Section leads, PMMs, and Tech Writers review the right items by the 10th of each month, so ensure the proper labels ares applied to the MR and assign reviewers to the MR when it is ready for them to review (ex: `Tech Writing`, `Direction`, `Deliverable`, etc). 
 
 ##### Recommendations for optional PM Director/Group Manager and PMM Reviews:
 
