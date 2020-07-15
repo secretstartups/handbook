@@ -64,8 +64,6 @@ I created this personal README document to help you get to know me and how I wor
 
 ## Issue templates I'm mentioned in
 
-* [Gated-Content-Request-Analysts-MPM.md](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/blob/master/.gitlab/issue_templates/Gated-Content-Request-Analysts-MPM.md)
-* [Gated-Content-Request-MPM.md](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/blob/master/.gitlab/issue_templates/Gated-Content-Request-MPM.md)
 * [pathfactory_request.md](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/blob/master/.gitlab/issue_templates/pathfactory_request.md)
 * [mktgops_team_standup.md](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/mktgops_team_standup.md)
 * [pathfactory_request.md (MOps)](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/pathfactory_request.md)
@@ -73,5 +71,6 @@ I created this personal README document to help you get to know me and how I wor
 
 ## How to reach me
 
-* **Slack**: Direct message or mention is the best way to reach me during the day (my handle is `@sdaily`). I will always have Slack open during my typical working hours. If you have an urgent message or need me to repond quickly the best approach is a direct message with a link to the issue you need me to contribute to. I like to focus deeply on the task at hand, so please expect my responses on email and Slack to be [asynchronous](https://about.gitlab.com/handbook/communication/). Your messages are important to me and I will respond as soon as I can.
+* **Slack**: Please use the `#mktgops` channel to contact me and try to [avoid direct messages if possible](https://about.gitlab.com/handbook/communication/#avoid-direct-messages). I like to focus deeply on the task at hand, so please expect my responses on email and Slack to be [asynchronous](https://about.gitlab.com/handbook/communication/). Your messages are important to me and I will respond as soon as I can.
 * **Coffee chat**: You can schedule a 30 min coffee chat with me via **[Calendly](https://calendly.com/sdaily/30min)**.
+* **After hours**: In an effort to mitigate my screen time and create more separation between work and home, I do not have Slack or email installed on my phone. If you have an emergency, you may text me on my cell number provided on my Slack profile.
