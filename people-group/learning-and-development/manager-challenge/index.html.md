@@ -21,6 +21,14 @@ Welcome to the Manager Challenge page. We are rolling out a pilot version of a 4
 
 During week one we will discuss **Getting to Know your Team & Managing Underperformance**. Information covered in week one can be found on the [SOCIAL STYLES page](/handbook/people-group/learning-and-development/emotional-intelligence/social-styles/). 
 
+| Day     | Daily Challenge | Length of Time   |  Format | Activity | Competency Alignment |
+|---------|-----------------|------------------|---------|----------|----------------------|
+| Day 1   | 4 Week Challenge Intro | 20 minutes | Self-paced Daily Challenge |  |  |
+| Day 2   | Get to know your SOCIAL STYLE | 20 minutes | Self-paced Daily Challenge |  |  |
+| Day 3   | Get to know your team | 20 minutes | Self-paced Daily Challenge |  |  |
+| Day 4   | Attend Live Learning | 50 minutes | Live Learning |  |  |
+| Day 5   | Self Reflection and Weekly Evaluation | 20 minutes | Virtual Team Meeting |  |  |
+
 [embed week 1 slide deck here] 
 
 ### Week 2
