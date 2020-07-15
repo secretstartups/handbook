@@ -428,7 +428,7 @@ out to any of the other [C-level GitLab team members](/company/team/org-chart/) 
 1. Once a month, we hold an AMA with a GitLab Executive to talk about anything that may currently be top of mind for team members.
 1. Everyone at GitLab is invited to the Social Call.
 1. We use [Zoom](https://gitlab.zoom.us), (please be sure to mute your microphone when not speaking). If using the Zoom web app, you can go to settings and check always mute microphone when joining a meeting.
-1. The calls are no longer recorded, but you can view  previous calls in the Google Drive folder called "GitLab Videos". There is a subfolder called "GitLab Company Call", which is accessible to all users with a GitLab.com e-mail account.
+1. The calls are no longer recorded.
 1. We start on time and do not wait for people.
 1. These calls are unstructured to allow for natural interaction, but everyone should get a chance to share at least once.
 1. It helps to pause slightly between talking about different topics to allow for discussion.
@@ -537,7 +537,9 @@ for a video call.
 1. Google Calendar also has a [Zoom plugin](https://chrome.google.com/webstore/detail/zoom-scheduler/kgjfgplpablkjnlkjmjdecgdpfankdle?hl=en-US) where you can easily add a Zoom link for a video call to the invite
 1. For meetings that are scheduled with Zoom:
    1. If you need more privileges on Zoom (longer meeting times, more people in the meeting, etc.), please contact People Operations Specialist as described [specifically for Zoom](/handbook/tools-and-tips/#sts=Zoom).
-   1. Note that if you select to record meetings to the cloud (setting within Zoom), they will be automatically placed in the GitLab Videos folder in Google Drive on an hourly basis via a [scheduled pipeline](https://gitlab.com/gitlab-com/zoom-sync/pipelines). You can find these videos in Google Drive by entering in the search bar: `title:"GitLab Videos" source:domain`. The [script for syncing the files is here](https://gitlab.com/gitlab-com/zoom-sync).
+   1. Note that if you select to record meetings to the cloud (setting within Zoom), you must include the text `[REC]` in the meeting title if you want them to be automatically placed in the `GitLab Videos Recorded` folder in Google Drive on an hourly basis via a [scheduled pipeline](https://gitlab.com/gitlab-com/zoom-sync/pipelines).
+   1. You can find these videos in Google Drive by looking under `Shared drives` and `GitLab Videos Recorded`. If you do not have access to this drive, contact [IT Ops](https://gitlab.com/gitlab-com/business-ops/itops/issue-tracker/issues).
+   1. The [script for syncing the files is here](https://gitlab.com/gitlab-com/zoom-sync).
    1. Note also that after a meeting ends, Zoom may take some time to process the recording before it is actually available. The sync to Google Drive happens on the hour mark, so if the recording is not available, it may take another hour to be transferred.
 1. As a remote company we are always striving to have the highest fidelity, collaborative conversations. Use of a headset with a microphone, is strongly suggested.
    1. If other people are using headphones then no-headphones works fine. But if multiple people aren't using headphones you get distractions.
