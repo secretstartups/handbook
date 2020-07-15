@@ -110,6 +110,7 @@ The Release Post Manager is accountable for:
 `#releases` Slack channel and  only merge once they've pinged you in Slack to confirm the packages are released, which will be sometime around 14:10 - 14:20)
 - Creating and collecting feedback in the release post retro issue during the release post
 - Doing a sync retro with the Tech Writing and Messaging leads sometime between the 23rd and the 1st of the month, to identify and collaboratively complete actions to improve  process and update the handbook/MRs
+- [Communicate](#communication) with our Community Advocates as needed to field questions that come up from viewers of the release post blog once it is live on the 22nd
 
 **The initial steps of creating a release post branch and the release post merge request are explained below. All subsequent steps for Release Post Manager are documented as checklist items in the merge request that gets created below.**
 
@@ -225,6 +226,8 @@ git push
 #### Communication
 
 The release post manager, the Messaging lead and the TW lead will need to communicate about topics that are related to the release post but not relevant to all participants in the main [Slack release post channel](https://gitlab.slack.com/archives/C3TRESYPJ). The Release Post Manager will create a Slack channel called "X-Y-release-post-prep  to faciliate communication specific to the release post leads, which will be utilized till the 21st to minimize noise in the main release post Slack channel. On the 22nd, this channel will be abandoned and all communication will default to the main release post Slack channel for the final day of collaboration.
+
+The Communicty Advocates team will reach out to the release post manager in Slack #release-post when they need help responding to iquiries about content in the release post blog. These needs will primarily arise within the first week of going live with the blog. However, as Author for a specific release post, you may get poinged to help coordinate a response some weeks later as issues arise. You will usually just need to find the best DRI to handle the issue, often the PM of the release post item in question. 
 
 #### Content reviews
 
