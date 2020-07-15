@@ -5,6 +5,32 @@ title: Support Operations Zendesk Processes
 
 # Zendesk Processes
 
+## Users
+
+### Provisioning Agents
+
+You should not need to ever provision an agent in Zendesk, as this is handled
+via Okta. Everyone at GitLab can have Light Agent access. What you may need
+to do is upgrade someone's role or group within Zendesk. You should ensure
+there is a valid AR for this before proceeding. Once you have verified this,
+find the user in Zendesk, select the Role dropdown, and change it to the
+correct role (from the AR details).
+
+### Deprovisioning Agents
+
+You will, from time to time, get a request to deprovision an agent (these will
+mostly stem from Offboarding tasks). To deprovision a user, go to
+that user's page in Zendesk and do the following:
+
+* Unassign any active tickets (less than Closed) from that user
+* Remove user's tags from Tags section
+* Demote the user's role to that of end-user
+* Suspend the user
+
+After doing so, take a screenshot of the user page (the screenshot should show
+that the user is now an end-user and suspended). Post this screenshot in the
+offboarding issue to verify they have been deprovisioned. 
+
 ## Organizations
 
 ### Shared Organization Process
