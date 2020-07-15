@@ -233,6 +233,25 @@ The trust equation uses four objective variables to measure trustworthiness:
 
 The trust equation has one variable in the denominator (self-orientation) and three in the numerator (credibility, reliability, intimacy). Increasing the value of the factors in the numerator increases the value of trust. Increasing the denominator (self-orientation) decreases the value of trust. 
 
+## Neurosciene of Trust
+
+Studies have shown that building trust has an impact on the brain. The neuroscience shows that recognition has the largest effect on trust when it occurs after a [goal has been met](https://hbr.org/2017/01/the-neuroscience-of-trust). The neuroscience of trust can help team members and managers in the following ways: 
+- Important for being empathetic, relating to others needs
+- Enables planning, making quality decisions, and being creative
+- Helps the process of learning and memory
+- Decreases threat and fear responses
+- Decreases cortisol and blood pressure levels
+
+**Eight management behaviors that foster trust: **
+1. Recognize excellence
+2. Induce "challenge stress" 
+3. Give people discretion in how they work
+4. Enable job crafting
+5. Share information broadly
+6. Intentionally build relationships
+7. Facilitate whole-person growth
+8. Show vulnerability
+
 ## Planning for action
 
 The planning for action phase is about enabling the coachee to make a plan with action steps that support their goals. 
