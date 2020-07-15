@@ -20,7 +20,7 @@ The Professional Services (PS) at GitLab forms a part for the Customer Success d
 Consulting Delivery deals with technology services like implementation, migration, etc., while Education Delivery provides training and certification services.
 
 
-# Professional Services Offerings:
+## Professional Services Offerings:
 
 
 - Implementation Services
@@ -31,7 +31,7 @@ Consulting Delivery deals with technology services like implementation, migratio
 
 More details of the offerings can be found at the PS Offering [Page](https://about.gitlab.com/services/>) and full [cataog](https://about.gitlab.com/services/catalog/)
 
-# Selling Professional Services:
+## Selling Professional Services:
 
 Professional services are usually sold through 2 packages:
 
@@ -40,3 +40,36 @@ Off-the-Shelf SKU’s [Standard SKU’s](ttps://about.gitlab.com/handbook/custom
 [![](https://mermaid.ink/img/eyJjb2RlIjoiZ3JhcGggVERcbiAgQVtTdGFuZGFyZCBTZXJ2aWNlXVxuICBBIC0tPnxZZXN8IEJbT2ZmLXRoZS1zaGVsZiBTS1Unc11cbiAgQSAtLT58Tm98IENbQ3VzdG9tZSBTS1UsIGNvbnRhY3QgUFMgVGVhbV1cbiAgXG5cdFx0IiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgQVtTdGFuZGFyZCBTZXJ2aWNlXVxuICBBIC0tPnxZZXN8IEJbT2ZmLXRoZS1zaGVsZiBTS1Unc11cbiAgQSAtLT58Tm98IENbQ3VzdG9tZSBTS1UsIGNvbnRhY3QgUFMgVGVhbV1cbiAgXG5cdFx0IiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)
 
 A detailed process on the selling of Professional Services can be found [here](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/working-with/)
+
+The sale process of an Off-the-Shelf SKU is on lines of a License, however the same for a Custom SKU includes multiple teams at different stages:
+
+
+## Professional Services Matrics:
+
+**Targets:**
+
+
+- Long Term Profitability Target - 30% Gross Margin
+
+- Utilization - 70% billable hours
+
+**Utilization:**
+
+Utilization for Engineers is tracked and categorized into 2 categories:
+
+
+- Billable Utilization: Time worked on defined scope, that will be charged to the customer as per the contractual SOW.
+
+- Productive Utilization: Time worked on assigned tasks that benefit GitLab and GitLab Customers (includes marketing, sales, general management, training, internal projects, etc.)
+
+Detailed definitions to determine and track utilization can be found on the [PS Page](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#team-metrics)
+
+The PS team is organized according to specialized functions and responsibilities, details [here](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#team-functions)
+
+## PS Finance Team (FP&A):
+
+The Finance Team at GitLab manages the budget and planning processes for Professional Services by building and maintaining long-term financial models. Define the business drivers and KPIs in collaboration with the Professional Services leadership. The finance team owns the rolling forecast process and provides real-time information on the organization is performating against the forecast.
+
+## Reporting
+
+Coming Soon....
