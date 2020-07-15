@@ -106,16 +106,6 @@ In an effort to continually improve our ability to derive success of campaigns, 
 * [Slack](https://gitlab.slack.com/archives/CVDQL20BA)
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001df8y)
 
-### 🚀 Increase operational efficiencies
-
-**MPM Owner: Jenny Tiemann**
-
-* *Note: this was recently updated (Q1 FY21) with focus on cost-saving messaging*
-* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/367)
-* [Live landing page](/just-commit/lower-tco/)
-* [Slack](https://gitlab.slack.com/archives/CCWUCP4MS)
-* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000000CyiL)
-
 ### 🚀 AWS Partner
 
 **MPM Owner: Nout Boctor-Smith**
@@ -138,6 +128,16 @@ In an effort to continually improve our ability to derive success of campaigns, 
 * [SFDC Campaign >>](https://gitlab.my.salesforce.com/70161000000VxvJ)
 
 ## Past Integrated Campaigns
+
+### 🚀 Increase operational efficiencies
+
+**MPM Owner: Jenny Tiemann**
+
+* *Note: this is being sunsetted in Q3 FY21 and existing records in nurture will continue until all emails have deployed.*
+* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/367)
+* [Live landing page](/just-commit/lower-tco/)
+* [Slack](https://gitlab.slack.com/archives/CCWUCP4MS)
+* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000000CyiL)
 
 ### 🌄 Deliver better products faster
 
