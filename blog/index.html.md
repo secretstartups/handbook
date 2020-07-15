@@ -501,11 +501,11 @@ We try to keep images on the blog neutral in terms of gender, ethnicity, etc. Th
 
 ##### Original images
 
-If you prefer, you can [create an image](#artwork).
+If you would like an original design for your blog post image, please [open a design request](/handbook/marketing/growth-marketing/#brand-and-design-issue-templates). If you prefer, you can [create an image](#artwork) yourself.
 
 ##### Images for integration posts
 
-If the blog post is about an integration, please request a custom cover image ahead of time by pinging @luke on the blog post issue or MR. If you have or can source the integration partner's logo, it's helpful to attach or link to it in your comment. 
+If the blog post is about an integration, the DRI from Partner Marketing should [open a design request](/handbook/marketing/growth-marketing/#brand-and-design-issue-templates) for a custom cover image as far in advance as possible.
 
 ##### Default cover image
 
