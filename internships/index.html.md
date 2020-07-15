@@ -61,8 +61,9 @@ The internship program will primarily be [remote](/company/culture/all-remote/),
     - **Updated 2020-03-16:** This week was originally scheduled as a co-located program. However, due to travel restrictions and public health concerns surrounding the COVID-19 pandemic, we are changing this to a remote program.
 1. Weeks 2-15: Remote internship   
     - Interns will work remotely in their assigned team
-1. Week 16: Intern send-off - San Francisco
-    - The interns will co-locate for their final week in San Francisco to process their experience and socialize with each other
+1. Week 16: Intern send-off - Remote
+    - The interns will focus in their final week on processing their experience and socialize with each other
+    - **Updated 2020-06-22:** This week was originally scheduled as a co-located program. However, due to travel restrictions and public health concerns surrounding the COVID-19 pandemic, we are changing this to a remote program.
 
 #### Internship day-to-day activities
 1. Week 1: Intern Fast Boot
@@ -92,7 +93,6 @@ The internship program will primarily be [remote](/company/culture/all-remote/),
         - Participate in [retrospectives](/handbook/engineering/internships/#team-retrospective) to help improve the internship program.
         - Complete final Skills Gap Analysis with their engineering manager
         - Share experiences and learnings with the company and wider-community through media such as blog posts and GitLab Unfiltered.
-        - Have the opportunity to meet GitLab leaders local to the San Francisco bay area (depending on availability).
 
 #### Compensation
 
