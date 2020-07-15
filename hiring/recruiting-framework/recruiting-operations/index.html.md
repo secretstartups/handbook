@@ -15,16 +15,40 @@ title: "Recruiting Process - Recruiting Operations & Insights Tasks"
 
 To gain access to a system listed below, please follow the respective link to the appropriate page on how to go about submitting an `Access Request` Issue:
 
-#### ContactOut
+<details>
+  <summary markdown='span'>
+  ContactOut
+  </summary>
 Sourcing Team only - please contact the Sourcing Manager.
-#### DocuSign
+</details>
+
+<details>
+  <summary markdown='span'>
+  DocuSign
+  </summary>
 C.E.S. and Sales Operations Team only - please contact the Recruiting Operations & Insights Team.
-#### Greenhouse
+</details>
+
+<details>
+  <summary markdown='span'>
+  Greenhouse
+  </summary>
 [See how to join Greenhouse in the handbook.](https://about.gitlab.com/handbook/hiring/greenhouse/#how-to-join-greenhouse)
-#### HelloSign
+</details>
+
+<details>
+  <summary markdown='span'>
+  HelloSign
+  </summary>
 [See how to request a HelloSign account in the handbook.](https://about.gitlab.com/handbook/people-group/people-experience-team/#hellosign)
-#### LinkedIn Recruiter
-[See the LinkedIn Recruiter Seat Request process in the handbook.](https://about.gitlab.com/handbook/hiring/sourcing/#upgrading-your-linkedin-account)
+</details>
+
+<details>
+  <summary markdown='span'>
+  LinkedIn
+  </summary>
+See the LinkedIn Recruiter Seat Request process in the handbook.](https://about.gitlab.com/handbook/hiring/sourcing/#upgrading-your-linkedin-account)
+</details>
 
 ----
 ### System Processes
