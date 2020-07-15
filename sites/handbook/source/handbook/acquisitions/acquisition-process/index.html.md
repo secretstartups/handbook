@@ -101,7 +101,7 @@ The process is comprised of four key stages:
       1. Trademarks
       1. Social media accounts
 1. Early technical diligence:
-   1. In case the target company has open source components, the respective Dir. Engineering (dependent on GitLab stage) will start an early code review to determine: code quality, development practices, contributions and more. That should be turned around within 2-3 business days.
+   1. In case the target company has open source components, the respective Dir. Engineering (dependent on GitLab stage) will start an early code review to determine: code quality, development practices, contributions, license compliance and more. That should be turned around within 2-3 business days.
    1. Hands-on product and code screen-share session (2 hours): the technical lead, as assigned by the respective Dir. Engineering, together with the respective Dir. Product will lead a screen-share session aimed at a hands-on validation of the product functionalities and an overview of the code.
    1. Founder technical interviews - founders will go through two rounds of interviews to assess technical and cultural alignment.
 1. Resume review - Review of all employee resumes
