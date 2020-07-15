@@ -574,17 +574,48 @@ e.g.:
 
 Note that the GitLab entity information will be populated via the following rules. This table is based on the [ISO-2 billing country code](http://www.nationsonline.org/oneworld/country_code_list.htm) of the direct customer or reseller we are delivering invoices to:
 
-| **Entity**      |**Direct / Unauthorized Reseller** | **Authorized Reseller**
-|-------      |---------- |  ---- |
-|BV (Netherlands)         | NL | Not AU, DE, UK, or US |
-|GmbH (Germany)       | DE | DE |
-|Ltd (United Kingdom)          | UK | UK |
-|Inc (United States)          | Not AU, NL, DE, or UK | US|
-|Pty Ltd (Australia)          | Not NL, DE, UK, or US | AU |
+<table>
+	<thead>
+		<tr>
+			<th>GitLab Entity</th>
+			<th>Direct Customers and Unofficial Resellers</th>
+			<th>Authorised Resellers</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>BV (NL)</td>
+			<td>NL</td>
+			<td rowspan="5">NOTE: Currently the default invoice entity is BV in the quoting tool.
+				<br />
+				<br />For new resellers: GL entity should be determined based on the signed reseller agreement.
+				<br />
+				<br />For old resellers: check the entity under the account in Zuora
+			</td>
+		</tr>
+		<tr>
+			<td>GmbH (DE)</td>
+			<td>DE</td>
+		</tr>
+		<tr>
+			<td>Ltd (UK)</td>
+			<td>UK</td>
+		</tr>
+		<tr>
+			<td>Inc. (US)</td>
+			<td>All customers outside of NL, DE, UK, AU</td>
+		</tr>
+		<tr>
+			<td>PTY LTD (AU)</td>
+			<td>AU</td>
+		</tr>
+	</tbody>
+</table>
 
-* For example:
-  * a direct customer or unauthorized reseller in the Netherlands (NL) will be billed out of GitLab BV; Germany from GitLab GmbH; United Kingdom from GitLab Ltd; any direct customer outside these countries will be billed from GitLab Inc.
-  * an authorized reseller based on Germany will be billed from GitLab GmbH; United Kingdom from GitLab Ltd; United States from GitLab Inc; any resellers based outside these countries will be billed out of GitLab BV. 
+
+**Note**: all initial web direct subscriptions ordered through the portal are placed on the US entity. (Clarification: however if the initial order was invoiced by the DE entity -through a sales assisted order- and customer orders an add-on via the portal, the add-on will be invoiced by DE as well.)
+
+**Important**: in case of add-ons, the add-on quote/order form must reflect the same invoice entity that was on the initial/base deal.
 
 
 
