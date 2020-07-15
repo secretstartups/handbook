@@ -41,20 +41,45 @@ Add info for week 4 here
 
 [embed week 4 slide deck here] 
 
+
 ## FAQs
 
-**Question**
+**What is the Manager Challenge Program?**
 
 Answer. 
 
-**Question**
+**Is this a Pilot?**
+
+The first time this program is relseased in September 2020 it will be a pilot. 
+
+**Do I have to participate?**
+
+Participation is not required, but it will be very helpful for your growth as a people leader. 
+
+**What skills will I be building?**
 
 Answer. 
 
-**Question**
+**Why do I need to take part in this?**
 
 Answer. 
 
-**Question**
+**How does this complement our values?**
 
 Answer. 
+
+**Is the content in the slides in the Handbook?**
+
+Answer. 
+
+**What if I can’t attend a Live Learning session or complete a challenge?**
+
+Answer. 
+
+**What if I am OOO for part of the program?**
+
+Answer. 
+
+**How do I receive a certification?**
+
+Attending all live learning sessions, self-reflection of weekly forum, application of what you learned on the job 
