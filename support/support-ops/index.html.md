@@ -73,3 +73,16 @@ and SWIR
 ([https://about.gitlab.com/handbook/support/#support-week-in-review](https://about.gitlab.com/handbook/support/#support-week-in-review)).
 We are working on standardizing the release schedule of changes and a single
 communication channel where the questions and issues can be discussed.
+
+## Frequently Asked Questions (F.A.Q.):
+
+* If we receive any probelm in using Zendesk, can we contact Zendesk directly?
+Please contact Support-Ops team first. Discuss the problem by asking a question in channel and tagging @support-ops. It is a high probability that we can help you resolve the problem at hand. In cases where we cannot and we do need to contact Zendesk support directly, it is best to have Support-Ops handle that.
+* What will happen if Zendesk is down globally?
+Zendesk will only go down when the internet is globally effected because they use Pods for services. This ensures that if a region is facing is downtime, Zendesk can quickly mitigate that while making sure services run smoothly. However, if you are still facing any problem accessing Zendesk, please contact the support-ops team. In the case that Zendesk is down globally, we have email support option available.
+* Is there any disaster recovery plan available?
+Zendesk keeps the data in backup servers will all due diligence. This ensures that we can recover data when it is needed. These backups are utilized to restore Zendesk in the case it fails due to a problem on Zendesk's end.
+
+Also, the support-ops team ensures all triggers, automations, views, macros, forms, fields, conditions, etc are documented to save the hassle of writing up everything from scratch.
+
+
