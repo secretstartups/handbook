@@ -112,6 +112,54 @@ GitLab team-members must obtain the appropriate approvals from other departments
 
 1. If you are purchasing new software/tools, you also need to get approval from IT as identified in the contract issue request.  
 
+>### Negotiation Process
+When and how is a contract negotiated?
+
+**For Software <$75K:**
+   * Procurement will assign to our third-party partner, Vendr, to negotiate the transaction. *Procurement reserves the right to engage Vendr at a higher or lower threshold based on current bandwidth.*
+   * If it is a renewal/existing vendor, Procurement Ops Analyst will pull previous contract from contract works and post to issue. 
+      * Procurement Ops Analyst will note any discrepancy in previous order amount, vs. new quote, if available.
+      * If contract is unavailable in contract works, Procurement Ops Analyst to request contract from issue creator.
+      * If issue creator does not have the contract, Vendr will request from vendor during the negotiation process.
+   * Ops Analyst will schedule a call with negotiator (Vendr or Sr. Mgr, Procurement), issue creator, and finance business partner (as optional).
+   * Procurement Ops Analyst add “Procurement::Vendr” label
+
+**For Software >$75K:**
+   * Procurement will negotiate internally. *Procurement reserves the right to engage Vendr at a higher or lower threshold based on current bandwidth.*
+   * If this is a renewal/existing vendor, Procurement Ops Analyst to pull previous contract from contract works and post to issue. 
+      * If contract is unavailable in contract works, Procurement Ops Analyst to request contract from issue creator.
+      * If issue creator does not have the contract, Sr. Mgr Procurement will request from vendor during the negotiation process.
+      * Procurement Ops Analyst will note any discrepancy in previous order amount, vs. new quote if available.
+      * Procurement Ops Analyst schedule call with Sr. Mgr Procurement, issue creator and finance partner (optional) to review need.
+   * Procurement Ops Analyst add “Procurement::In Negotiation" label
+
+**For Non-Software:**
+   * Procurement will negotiate non-software agreements on an as-needed basis if opportunity for savings is identified.
+   * If the contract is >$100K, more than one bid is required
+   * If the contract is >$250K, an RFP is required
+
+>### Procurement Team Approval Process
+Before approving issues, the procurement team verifies:
+
+1. Was the right purchase request issue type used?
+   * Software: includes IT and Security review and approvals
+   * Marketing: Must be non-confidential data. If confidential data is involved and/or shared, a General template must be used for required approvals.
+   * General: Consulting and all other services
+2. Were the correct individuals tagged for approval?
+   * Confirm the appropriate parties are tagged and have approved according to the [Authorization Matrix](/handbook/finance/authorization-matrix/)?
+3. Negotiation Process has been followed.
+   * See above as applicable
+4. Contract Review
+   * To confirm dollar amounts match, confirm currency, confirm entities match in quote, and general scope is addressed.
+   * If entities do not match, procurement will tag the issue creator and budget approver to confirm which entity should be used. 
+5. Approval Authority
+   * Procurement Ops Analyst can approve purchase requests up to $25K 
+      * Purchase requests >$25K will be approved by the Sr. Mgr Procurement
+   * Procurement Ops Analyst can approve up to $100K for Field Mktg/Event purchase requests withOUT confidential data
+      * Purchase requests >$100K for Field Mktg/Events will be approved by the Sr. Mgr Procurement
+      * If it is an on-site event or involves data that might not be publicly available, the Sr. Mgr Procurement must approve
+   * In the event procurement approves the purchase request issue before the other approvers to avoid being a bottleneck, procurement will note our approval as pending outstanding approvers.
+
 
 >### Vendor Contract Signing Process
 
@@ -199,6 +247,30 @@ Contact Procurement directly in Slack via #procurement if you have questions.
 1.  Once the change has been approved by all parties, the Procurement team will amend the Purchase Order in NetSuite.
 2.  The Business Owner / Requestor has to send the bill back to Accounts Payable (either by logging into Tipalti or directly clicking on the button "Send back to AP" from the email) and notify that the PO has been amended by adding the PO Change Approval issue URL.
     *  **If the bill is not sent back to AP by the Business Owner, the process will not move forward and the invoice won't be paid.**
+
+#### Vendor Code of Ethics
+All vendors that GitLab does business with, must legally comply with the [Supplier Code of Ethics](https://about.gitlab.com/handbook/people-group/code-of-conduct/#partner-code-of-ethics). When having discussions with your vendor regarding the contract, make them aware of this requirement.
+
+### Modern Slavery and Human Trafficking Compliance Program
+
+GitLab condemns exploitation of humans through the illegal and degrading practices of human trafficking, slavery, servitude, forced labor, forced marriage, the sale/exploitation of chilren and adults and debt bondage (“Modern Slavery”).  To combat such illegal activities, GitLab has implemented this Modern Slavery and Human Trafficking Compliance Program.  
+
+*Risk Areas and Markets*
+While Modern Slavery can occur in any country and in any market, some regions and sectors present higher likelihood of vioaltions. Geographies with higher incidents of slavery are India, China, Pakistan, Bangladesh, Uzbekistan, Russia, Nigeria, Indonesia and Egypt. Consumer sectors such as food, tobacco and clothing are high risk sectors; but Modern Slavery can occur in many markets.*  
+ (*According to Source: Statista, Walk Free Foundation, https://www.statista.com/chart/4937/modern-slavery-is-a-brutal-reality-worldwide/)  
+
+*Actions to Address Modern Slavery Risks*
+All vendors, providers and entities providing services or products to GitLab (“Vendors”) are expected to comply with [GitLab’s Partner Code of Ethics](/handbook/people-group/code-of-conduct/#partner-code-of-ethics) which specifically addresses Modern Slavery laws.  Compliance with the Partner Code of Ethics will be included in Vendor contracts and/or purchase orders going forward.  Existing Vendor contracts will be updated with the appropriate language upon renewal.
+
+Those entities who are of higher risk or whom GitLab suspects may be in violation of Modern Slavery laws, may be required to complete an audit.  Audits may be presented in the form of a questionnaire or may be an onsite visit.  Any known or suspected violations will be raised to Legal and/or Compliance.  Failure to comply with Modern Slavery laws will result in a termination of the relationship and GitLab retains all rights in law and equity.
+
+Vendors understand and agree that violations of Modern Slavery laws may require mandatory reporting to governing authorities. GitLab has discretion if and how to best consult with Vendors for purposes of Modern Slavery reporting. GitLab is senstive to and will take into consideration, the relationship and the risk profile of Vendor to ensure that Modern Slavery risks have been appropriately identified, assessed and addressed and that the Vendor is aware of what actions it needs to take.
+
+*Assessment of Effectiveness*
+GitLab will review its Modern Slavery and Human Trafficking Compliance Program on an annual basis or sooner if it is determined there is increased exposure or concerns with overall compliance.   The Program may be amended from time to time by GitLab, to ensure compliance with the most current Modern Slavery laws and regulations.
+
+*Compliance Program Approval*
+GitLab’s Executive Team reviewed and approves this Modern Slavery and Human Trafficking Compliance Program.
 
 ## Related Docs and Templates
 
