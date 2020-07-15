@@ -35,7 +35,6 @@ For each job at GitLab, the job family is the single source of truth for the exp
 - Career Path: **Moving to and moving from** which describes possible current and future roles which move to the job family and which the job family might move to. Here is [an example](/job-families/product/product-manager/#moving-to-and-moving-from).
 - Career Ladder: The next job family. All levels should be on one job family, except when the next job family manages over multiple job families. For [example](/job-families/people-ops/people-operations/#career-ladder).
 - Hiring process
-- Apply
 - About GitLab
 - Compensation
 
@@ -56,7 +55,7 @@ If you're working with a team lead or management job family, you should be aware
 
 Manager job families are those responsible for directly managing other GitLab team-members. They *do* hire, promote, and terminate employees, and performance management is one of their key functions. Nomenclature to represent someone is a manager of people can be clarified with "Manager, Benchmark" (e.g., Manager, Marketing) The same holds true for director. Nomenclature to represent when someone manages a job function, and might not have people management responsibilities, can be clarified with "Benchmark Manager" (e.g., Marketing Manager)
 
-## New Job Family Creation
+## New Job Family Creation or Additional Level/Role within a Current Job Family
 
 If a hiring manager is creating a new job family within the organization, the hiring manager will need to create the job family.  If this is a job family that already exists (for example, Gitaly Developer would use the Developer position description), update the current position description to stay DRY. If the compensation for the job family is the same as one already in `job_families.yml`, you should just update the specialty, do not create a new job family.
 
@@ -66,7 +65,7 @@ If you use these slides please remember that the HANDBOOK is the most up to date
 1. Create the relevant page in `/job-families/[department]/[name-of-job-family]`, being sure to use only lower case in naming your directory if it doesn't already exist, and add it to the correct department subdirectory.
 1. The file type should be `index.html.md`.
 1. Add each paragraph to the position description, for an example see the [backend engineer job family](/job-families/engineering/backend-engineer). All job families must have Requirements, Responsibilities, Performance Indicators, [Job Grades](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades), and a Hiring Process. There is a template below that may be useful.
-1. Assign the Merge Request to your manager, executive leadership, and the Chief of Staff to review. After all have reviewed, ask the CEO to merge by at-mentioning the CEO in the #job-family chat channel. In the MR, cc `@gl-total-rewards` for a compensation review.
+1. Assign the Merge Request to your manager, executive leadership, and the Chief of Staff to review. After all have reviewed, ask the CEO to merge by at-mentioning the CEO in the #job-family chat channel. 
 1. Once the merge request has been merged, the People Ops Analyst will reach out to the People Business Partner who supports the function to understand the job description and job family requirements in determining the appropriate compensation benchmark.
 1. Total Rewards Team will propose a [benchmark](/handbook/total-rewards/compensation/compensation-calculator/#new-benchmark) to add to the [job families](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/job_families.yml) file in GitLab and assign it to the leader of group. Once merged, the entry on the `job_families.yml` file will automatically cause the [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator) to show at the bottom of the position description page.
 7. Total Rewards Team: Once merged, add this benchmark to the backend comp calc and compaas changes sheet.
@@ -154,7 +153,7 @@ In October 2019, we added a CI Job that checks that job families have Requiremen
 
 Under requirements, every role must have `Ability to use GitLab`. This will also fail the pipeline.
 
-## Template for New Job Family
+## Templates for New Job Family
 ```
 ---
 layout: job_family_page
@@ -192,13 +191,83 @@ The {role name} is a [grade #](/handbook/total-rewards/compensation/compensation
 #### {Specialty} Requirements
 * {add a bulleted list of requirements for this specialty here}
 
+## Performance Indicators
+* {add a bulleted list of performance indicators for this family here}
+
+## Career Ladder
+{Insert brief description of the career ladder here.}
+
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 {Insert hiring process steps here.}
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring).
+
 ```
+*Please note the **Compensation** and **About GitLab** sections will auto-populate because of the job family formatting. 
+
+```
+---
+layout: job_family_page
+title: {Insert Title of Job Family Here}
+---
+
+{Insert brief description of the job family here.}
+
+## Role
+{Insert brief description of the role here. Include what position it reports to.}
+
+### Responsibilities
+* {add a bulleted list of responsibilities here}
+
+### Requirements
+* Ability to use GitLab
+* {add a bulleted list of requirements here}
+
+### Job Grade
+The {role name} is a [grade #](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Performance Indicators
+* {add a bulleted list of performance indicators for this family here}
+
+### Career Ladder
+{Insert brief description of the career ladder here.}
+
+### Hiring Process
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+{Insert hiring process steps here.}
+
+Additional details about our process can be found on our [hiring page](/handbook/hiring).
+
+## Role
+{Insert brief description of the role here. Include what position it reports to.}
+
+### Responsibilities
+* {add a bulleted list of responsibilities here}
+
+### Requirements
+* Ability to use GitLab
+* {add a bulleted list of requirements here}
+
+### Job Grade
+The {role name} is a [grade #](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Performance Indicators
+* {add a bulleted list of performance indicators for this family here}
+
+### Career Ladder
+{Insert brief description of the career ladder here.}
+
+### Hiring Process
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+{Insert hiring process steps here.}
+
+Additional details about our process can be found on our [hiring page](/handbook/hiring).
+```
+*Please note the **Compensation** and **About GitLab** sections will auto-populate because of the job family formatting.
 
 ## Helpful Tips
 
