@@ -1,8 +1,7 @@
 <% data.team.each do | slug| %>
-  <% next unless (slug.locality == slugKey) %>
+  <% next unless (slug.locality == "Kharkiv") %>
   <% l = [] %>
 ##### <%= slug.name %>
 <%= slug.name + " " + slug.role + "  " unless slug.picture.blank? %>
 <%= l.join(' • ') unless l.empty? %>
-
 <% end %>
