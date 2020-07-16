@@ -86,7 +86,7 @@ The company will reimburse for the following expenses if you need it for work or
 1. Mileage is reimbursed according to local law: [US rate per mile](http://www.irs.gov/Tax-Professionals/Standard-Mileage-Rates), [rate per km in the Netherlands](http://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/auto_en_vervoer/auto_van_de_onderneming/autokosten/u_rijdt_in_uw_eigen_auto), or [rate in Belgium](https://fedweb.belgium.be/nl/verloning_en_voordelen/vergoedingen/vergoeding-voor-reiskosten). Add a screenshot of a map to the expense in Expensify indicating the mileage.
 1. Internet connection subscription.
 	* For employees outside the Netherlands: follow normal expense report process.
-	* For employees in the Netherlands: fill in and sign the [Regeling Internet Thuis](https://docs.google.com/a/gitlab.com/document/d/1J70geARMCjRt_SfxIY6spdfpTbv_1v_KDeJtGRQ6JmM/edit#heading=h.5x5ssjstqpkq) form and send it to the People Experience team at `people-exp@domain`. The People Experience team will then send it to the payroll provider in the Netherlands via email. The details of the payroll provider can be found in the PeopleOps vault in 1Password under "Payroll Contacts". 
+	* For employees in the Netherlands: fill in and sign the [Regeling Internet Thuis](https://docs.google.com/a/gitlab.com/document/d/1J70geARMCjRt_SfxIY6spdfpTbv_1v_KDeJtGRQ6JmM/edit#heading=h.5x5ssjstqpkq) form and send it to the People Experience team at `people-exp@ gitlab.com`. The People Experience team will then send it to the payroll provider in the Netherlands via email. The details of the payroll provider can be found in the PeopleOps vault in 1Password under "Payroll Contacts". 
 1. VPN service subscription. Please read [Why We Don't Have A Corporate VPN](/handbook/security/#why-we-dont-have-a-corporate-vpn) for more information about VPN usage at GitLab.
 1. Mobile subscription, we commonly pay for that if you call a lot as a salesperson or executive, or if your position requires participation in an oncall rotation. If your device cost is part of your monthly subscription cost, please do not include the device cost from the expense reimbursement.
 1. Telephone land line (uncommon, except for positions that require a lot of phone calls)
@@ -160,7 +160,7 @@ No problem, and consider adding it to this list if others can benefit as well.
 These instructions apply if a team member is unable to purchase items, for whatever reason.
 
 1. New team member will make a list of requested items and prices, noting if they are out of the budget range listed on this page (if applicable), and send to their manager for approval. We ask that only one list be sent, versus multiple lists.
-1. The team member's manager will send the approved (or edited) list to Accounting (nonuspayroll@domain.com OR uspayroll@domain.com, and CC ap@domain.com) for final approval and dispensation.
+1. The team member's manager will send the approved (or edited) list to Accounting (nonuspayroll@gitlab.com OR uspayroll@gitlab.com, and CC ap@gitlab.com) for final approval and dispensation.
 1. Once approved, Payroll will send the team member an invoice template to fill with the approved items, prices and the team member's bank information.
 1. The approved final amount will be sent to the team member's bank and they can then purchase their approved items.
 
