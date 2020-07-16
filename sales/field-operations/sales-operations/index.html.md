@@ -88,7 +88,7 @@ The #sales-support slack channel is monitored by several groups within Field Ope
 
 </details>
 
-</details>
+<details>
 <summary markdown='span'>
   Steps to create an issue for an account list import
 </summary>
