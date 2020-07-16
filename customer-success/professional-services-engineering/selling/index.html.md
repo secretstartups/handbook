@@ -61,7 +61,7 @@ For custom scoped SOWs, once you receive the SOW from the Sr. Engagement Manager
 ### Step 4: Close the opportunity
 Once the services have been rendered and the project is closed, the SAL/ISR should obtain signatures from the customer. The SAL/ISR should move the opportunity to `Closed Won` status
 
-Once the agreement is `Closed Won`, ask in the `@ps-scheduling` group in the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) slack channel to help schedule the delivery of services. 
+As the agreement approaches `Closed Won`, make sure to request `@ps-scheduling` to  identify a potential start date in the `#professional-services` slack channel given the [typical lead times for starting a PS engagement](/handbook/customer-success/professional-services-engineering/working-with/#lead-time-for-starting-a-professional-services-engagement).  
 
 ### Custom-Scoped Services Detailed Workflow
 
