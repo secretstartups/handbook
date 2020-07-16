@@ -61,7 +61,7 @@ Per the current [Referral Submission Process](https://about.gitlab.com/handbook/
     * *"Submitting referral on behalf of `REFERRER_NAME` for Req # `XXXX`."*
     * Please be sure to `@-mention` the requisition's *Recruiter*.
 1. Send a email to the referred candidate. Select `Email REFERRAL_NAME` in the right column and select the **Default Referral Confirmation Receipt** email template.
-    * Make sure that the email is sent from the `no-reply@domain` alias.
+    * Make sure that the email is sent from the `no-reply@gitlab` alias.
     * Add the referring Team Member to the `CC` field.
     * Click `Send Email`.
 1. Follow-up in the Issue and confirm that the referral has been submitted and please mention that the Team Member will be able to follow their referral in the **My Referrals** section of their Greenhouse dashboard.
@@ -69,7 +69,7 @@ Per the current [Referral Submission Process](https://about.gitlab.com/handbook/
 
 #### How to Respond to Referral Update Requests
 
-The Recruiting Team uses the [GitLab Service Desk](/product/service-desk/) to track incoming emails to the `referral@domain` email. These emails will, in turn, show up as `Issues`.
+The Recruiting Team uses the [GitLab Service Desk](/product/service-desk/) to track incoming emails to the `referral@gitlab` email. These emails will, in turn, show up as `Issues`.
 
 To set-up notifications for the [Referral Service Desk Project](https://gitlab.com/gl-recruiting/referrals), please do the following:
 

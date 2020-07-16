@@ -66,7 +66,7 @@ To see what positions are available to submit an external candidate for please v
 
 #### Referral Statuses
 
-You can stay up-to-date on the status of your referral(s) in the **My Referrals** section of your Greenhouse dashboard or in the Referral Booster app. If you have any questions regarding your referral, please sent an email to the `referrals@domain`. Please note that the Recruiting Team is **unable** to provide candidate-specific feedback to Referrers (i.e you); only to the Candidate themselves. You can expect Referrals to be reviewed by the Hiring Team within **10-days** of their submission.
+You can stay up-to-date on the status of your referral(s) in the **My Referrals** section of your Greenhouse dashboard or in the Referral Booster app. If you have any questions regarding your referral, please sent an email to the `referrals@gitlab.com`. Please note that the Recruiting Team is **unable** to provide candidate-specific feedback to Referrers (i.e you); only to the Candidate themselves. You can expect Referrals to be reviewed by the Hiring Team within **10-days** of their submission.
 
 Although we place special emphasis on Referrals, we treat Referral interviews the same as we do non-Referrals. Referral interviews should not be more or less demanding than any other interview.
 
@@ -94,4 +94,4 @@ Other scenarios to be mindful of:
     * ... may choose to move the candidate on in the interview process, even if the candidate received a "no" from a fellow Interviewer - we **don't** operate on a [single-veto basis](#single-vetos).
     * ... will review all information and feedback about the Referral (giving both positive and negative feedback fair consideration) and will make the final hire or no hire decision.
 
-For any additional questions, please email `referrals@domain`.
+For any additional questions, please email `referrals@gitlab`.
