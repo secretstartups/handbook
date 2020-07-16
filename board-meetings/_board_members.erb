@@ -3,6 +3,6 @@
 <% next unless (department == "Board") %>
 <%= "<img src =/images/team/" + slug.picture + ">"
 slug.name
-slug.story
+slug.story.to_s
 <% end %>
 <% end %>
