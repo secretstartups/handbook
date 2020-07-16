@@ -11,4 +11,4 @@ title: Psychological Safety
 
 ## Introduction
 
-Welcome to the psychological safety page! 
+Welcome to the psychological safety page. More information will be added soon!
