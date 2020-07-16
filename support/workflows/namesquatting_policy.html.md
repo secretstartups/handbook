@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Dormant Namespace Policy
+title: Name Squatting Policy
 category: GitLab.com
 ---
 
@@ -12,7 +12,7 @@ category: GitLab.com
 
 ### Overview
 
-As per the [statement of support](/support/#dormant-namespace-requests), dormant namespaces can be released when they meet the appropriate criteria.
+As per the [statement of support](/support/#name-squatting-policy), namespaces may be released when they meet the appropriate criteria.
 
 **NOTE:** When applying any of the macros ensure to replace the placeholder **“REQUESTEDNAME”** with the namespace requested.
 
