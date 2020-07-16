@@ -237,11 +237,7 @@ Keeping an eye on the various content reviews  (TW, PMM and Director) for the in
 
 The content review of the Performance Improvements and Bug Fixes MRs are the responsibility of the Release Post Manager and the TW Lead.
 
-The review of all content for quality, including the marketing intro, is recommended for the Release Post Manager to keep things smooth, since it is the Release Post Manager's responsibility to make sure all content  is completed until by the 20th of the month, ensuring a one day buffer is left for final error fixes and 
-
-The content review of the Performance Improvements and Bug Fixes MRs are the responsibility of the Release Post Manager and the TW Lead.
-
-The review of all content for quality, including the marketing intro, is recommended for the Release Post Manager to keep things smooth, since it is the Release Post Manager's responsibility to make sure all content  is completed until by the 20th of the month, ensuring a one day buffer is left for final error fixes and small improvements.
+The review of all content for quality, including the marketing intro, is recommended for the Release Post Manager to keep things smooth, since it is the Release Post Manager's responsibility to make sure all content is completed until by the 20th of the month, ensuring a one day buffer is left for final error fixes and small improvements.
 
 #### Next steps
 
