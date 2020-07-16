@@ -17,17 +17,19 @@ Welcome to the Manager Challenge page. We are rolling out a pilot version of a 4
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vST_3shd7g0Y6E46JaCdtpXKHfj6D8TAjF-fgZ4IiZ_1NETN2f8ROjBE6NtOpCSs0YXwWgYq-oHryO9/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
+[embed pilot welcome video here] 
+
 ### Week 1
 
 During week one we will discuss **Getting to Know your Team & Managing Underperformance**. Information covered in week one can be found on the [SOCIAL STYLES](/handbook/people-group/learning-and-development/emotional-intelligence/social-styles/) and [Underperformance page](https://about.gitlab.com/handbook/underperformance/). 
 
 | Day     | Daily Challenge | Length of Time   |  Format | Activity | Competency Alignment |
 |---------|-----------------|------------------|---------|----------|----------------------|
-| Day 1   | 4 Week Challenge Intro | 20 minutes | Self-paced Daily Challenge | TBA |  |
-| Day 2   | Get to know your SOCIAL STYLE | 20 minutes | Self-paced Daily Challenge | TBA | * Collaboration (Getting to know individuals on a personal and professional level) <br> * Diversity, Inclusion, & Belonging (Building a safe community for your team members) |
-| Day 3   | Get to know your team | 20 minutes | Self-paced Daily Challenge | TBA | * Collaboration (Getting to know individuals on a personal and professional level) <br> * Diversity, Inclusion, & Belonging (Building a safe community for your team members) |
-| Day 4   | Attend Live Learning | 50 minutes | Live Learning | TBA | * Results (Measure results not hours) <br> * Efficiency (Be respectful of other's time <br> * Manager of One <br> * Handbook First <br> * Iteration  |
-| Day 5   | Self Reflection and Weekly Evaluation | 20 minutes | Virtual Team Meeting | TBA | * Collaboration (Getting to know individuals on a personal and professional level) <br> * Diversity, Inclusion, & Belonging (Building a safe community for your team members) |
+| Day 1    | 4 Week Challenge Intro | 20 minutes | Self-paced Daily Challenge | TBA |  |
+| Day 2    | Get to know your SOCIAL STYLE | 20 minutes | Self-paced Daily Challenge | TBA | * Collaboration (Getting to know individuals on a personal and professional level) <br> * Diversity, Inclusion, & Belonging (Building a safe community for your team members) |
+| Day 3    | Get to know your team | 20 minutes | Self-paced Daily Challenge | TBA | * Collaboration (Getting to know individuals on a personal and professional level) <br> * Diversity, Inclusion, & Belonging (Building a safe community for your team members) |
+| Day 4    | Attend Live Learning | 50 minutes | Live Learning | TBA | * Results (Measure results not hours) <br> * Efficiency (Be respectful of other's time <br> * Manager of One <br> * Handbook First <br> * Iteration  |
+| Day 5    | Self Reflection and Weekly Evaluation | 20 minutes | Virtual Team Meeting | TBA | * Collaboration (Getting to know individuals on a personal and professional level) <br> * Diversity, Inclusion, & Belonging (Building a safe community for your team members) |
 
 [embed week 1 slide deck here] 
 
