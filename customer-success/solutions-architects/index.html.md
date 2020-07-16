@@ -221,4 +221,4 @@ To be efficient as possible, this is the recommended approach:
 
 3) Reach out to the Product Manager with a link to the Account Management issue and request an internal review. 
 
-4) Set up a call with the prospect or customer to determine the next best steps.
+4) **Communication**: Set up a call with the prospect or customer to determine the next best steps.
