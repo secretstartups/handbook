@@ -84,7 +84,7 @@ difference between your old level and your new level based on the grant levels c
 If you currently have more options than what your old level was eligible for
 (for example, if you joined early in the history of the company), you will still
 receive the difference between the two levels as an additional grant. Contact by email
-total-rewards@domain if that wasn't done.
+total-rewards@ gitlab.com if that wasn't done.
 
 ## Option Refresh Program
 
