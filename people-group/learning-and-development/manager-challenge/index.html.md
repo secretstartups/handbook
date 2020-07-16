@@ -23,11 +23,11 @@ During week one we will discuss **Getting to Know your Team & Managing Underperf
 
 | Day     | Daily Challenge | Length of Time   |  Format | Activity | Competency Alignment |
 |---------|-----------------|------------------|---------|----------|----------------------|
-| Day 1   | 4 Week Challenge Intro | 20 minutes | Self-paced Daily Challenge |  |  |
-| Day 2   | Get to know your SOCIAL STYLE | 20 minutes | Self-paced Daily Challenge |  |  |
-| Day 3   | Get to know your team | 20 minutes | Self-paced Daily Challenge |  |  |
-| Day 4   | Attend Live Learning | 50 minutes | Live Learning |  |  |
-| Day 5   | Self Reflection and Weekly Evaluation | 20 minutes | Virtual Team Meeting |  |  |
+| Day 1   | 4 Week Challenge Intro | 20 minutes | Self-paced Daily Challenge | TBA |  |
+| Day 2   | Get to know your SOCIAL STYLE | 20 minutes | Self-paced Daily Challenge | TBA | * Collaboration (Getting to know individuals on a personal and professional level) <br> * Diversity, Inclusion, & Belonging (Building a safe community for your team members) |
+| Day 3   | Get to know your team | 20 minutes | Self-paced Daily Challenge | TBA | * Collaboration (Getting to know individuals on a personal and professional level) <br> * Diversity, Inclusion, & Belonging (Building a safe community for your team members) |
+| Day 4   | Attend Live Learning | 50 minutes | Live Learning | TBA | * Results (Measure results not hours) <br> * Efficiency (Be respectful of other's time <br> * Manager of One <br> * Handbook First <br> * Iteration  |
+| Day 5   | Self Reflection and Weekly Evaluation | 20 minutes | Virtual Team Meeting | TBA | * Collaboration (Getting to know individuals on a personal and professional level) <br> * Diversity, Inclusion, & Belonging (Building a safe community for your team members) |
 
 [embed week 1 slide deck here] 
 
@@ -37,11 +37,11 @@ During week two we will discuss **Trust and Coaching**. Information covered in w
 
 | Day     | Daily Challenge | Length of Time   |  Format | Activity | Competency Alignment |
 |---------|-----------------|------------------|---------|----------|----------------------|
-| Day 6   | a | 20 minutes | Self-paced Daily Challenge |  |  |
-| Day 7   | a | 20 minutes | Self-paced Daily Challenge |  |  |
-| Day 8   | a | 20 minutes | Self-paced Daily Challenge |  |  |
-| Day 9   | Attend Live Learning | 50 minutes | Live Learning |  |  |
-| Day 10  | Self Reflection and Weekly Evaluation | 20 minutes | Self-paced Daily Challenge |  |  |
+| Day 6   | TBA | 20 minutes | Self-paced Daily Challenge | TBA | TBA |
+| Day 7   | TBA | 20 minutes | Self-paced Daily Challenge | TBA | TBA |
+| Day 8   | TBA | 20 minutes | Self-paced Daily Challenge | TBA | TBA |
+| Day 9   | Attend Live Learning | 50 minutes | Live Learning | TBA | TBA |
+| Day 10  | Self Reflection and Weekly Evaluation | 20 minutes | Self-paced Daily Challenge | TBA | TBA |
 
 [embed week 2 slide deck here] 
 
@@ -51,11 +51,11 @@ During week three we will discuss **Building and Inclusive/Belonging Environment
 
 | Day     | Daily Challenge | Length of Time   |  Format | Activity | Competency Alignment |
 |---------|-----------------|------------------|---------|----------|----------------------|
-| Day 11   | a | 20 minutes | Self-paced Daily Challenge |  |  |
-| Day 12   | a | 20 minutes | Self-paced Daily Challenge |  |  |
-| Day 13   | a | 20 minutes | Self-paced Daily Challenge |  |  |
-| Day 14   | Attend Live Learning | 50 minutes | Live Learning |  |  |
-| Day 15  | Self Reflection and Weekly Evaluation | 20 minutes | Self-paced Daily Challenge |  |  |
+| Day 11   | TBA | 20 minutes | Self-paced Daily Challenge | TBA | TBA |
+| Day 12   | TBA | 20 minutes | Self-paced Daily Challenge | TBA | TBA |
+| Day 13   | TBA | 20 minutes | Self-paced Daily Challenge | TBA | TBA |
+| Day 14   | Attend Live Learning | 50 minutes | Live Learning | TBA | TBA |
+| Day 15   | Self Reflection and Weekly Evaluation | 20 minutes | Self-paced Daily Challenge | TBA | TBA |
 
 [embed week 3 slide deck here] 
 
@@ -65,11 +65,11 @@ During week four we will discuss **Developing High Performing Teams**. Informati
 
 | Day     | Daily Challenge | Length of Time   |  Format | Activity | Competency Alignment |
 |---------|-----------------|------------------|---------|----------|----------------------|
-| Day 16   | a | 20 minutes | Self-paced Daily Challenge |  |  |
-| Day 17   | a | 20 minutes | Self-paced Daily Challenge |  |  |
-| Day 18   | a | 20 minutes | Self-paced Daily Challenge |  |  |
-| Day 19   | Attend Live Learning | 50 minutes | Live Learning |  |  |
-| Day 20  | Self Reflection and Weekly Evaluation | 20 minutes | Self-paced Daily Challenge |  |  |
+| Day 16   | TBA | 20 minutes | Self-paced Daily Challenge | TBA | TBA |
+| Day 17   | TBA | 20 minutes | Self-paced Daily Challenge | TBA | TBA |
+| Day 18   | TBA | 20 minutes | Self-paced Daily Challenge | TBA | TBA |
+| Day 19   | Attend Live Learning | 50 minutes | Live Learning | TBA | TBA |
+| Day 20   | Self Reflection and Weekly Evaluation | 20 minutes | Self-paced Daily Challenge | TBA | TBA |
 
 [embed week 4 slide deck here] 
 
