@@ -57,7 +57,7 @@ GitLab has a "no ask, must tell" time off policy [time off policy](/handbook/pai
 
 ### Tuition Reimbursement
 
-GitLab supports team members who wish to continue their education and growth within their professional career. GitLab team-members are eligible for a reimbursement of up to [20,000 USD](/handbook/total-rewards/compensation/#exchange-rates) per calendar year (January 1st - December 31st) depending on tenure, performance, and company need for the learned skill. A course is considered to be included in the calendar year in which the course is paid/reimbursed (which should also be the same calendar year in which the course ends). 
+GitLab supports team members who wish to continue their education and growth within their professional career. GitLab team-members are eligible for a reimbursement of up to [20,000 USD](/handbook/total-rewards/compensation/#exchange-rates) per calendar year (January 1st - December 31st) depending on tenure, performance, company need for the learned skill, and available budget. A course is considered to be included in the calendar year in which the course is paid/reimbursed (which should also be the same calendar year in which the course ends). 
 
 
 **Tuition Reimbursement FAQs**
@@ -83,8 +83,9 @@ Examples of requests that may be denied:
 
 * A Marketing Manager seeking a master's in Human Resources, but has no intention of applying to a role in people ops.
 * A Frontend Engineer seeking a master's in computer science who is on a performance improvement plan or having discussions around underperformance.
-* Tuition Reimbursement Budget**
-Budget estimations for tuition reimbursement is based on utilization rates from past years. The budget is managed on a company-wide scale, not division-specific. For example, approving tuition reimbursement for a team member in Engineering, does not "take away" budget from other engineers. Eligibility is managed on an individual basis. Eligibility for this benefit is part of each GitLab team member's Total Rewards package. 
+* If the tuition reimbursement budget has been reached, then your request may be denied, even if you meet eligibility requirements.
+
+Budget estimations for tuition reimbursement are based on utilization rates from past years. The budget is managed on a company-wide scale, not division-specific. For example, approving tuition reimbursement for a team member in Engineering does not "take away" budget from other engineers. Eligibility is managed on an individual basis. Eligibility for this benefit is part of each GitLab team member's Total Rewards package. 
 
 Do I need to get approval to participate in this program?
 * Yes, seek verbal approval from your manager before you submit your tuition reimbursement form.
