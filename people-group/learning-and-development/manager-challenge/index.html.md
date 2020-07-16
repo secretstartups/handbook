@@ -35,17 +35,41 @@ During week one we will discuss **Getting to Know your Team & Managing Underperf
 
 During week two we will discuss **Trust and Coaching**. Information covered in week two can be found on the [Coaching page](/handbook/people-group/learning-and-development/career-development/coaching/). 
 
+| Day     | Daily Challenge | Length of Time   |  Format | Activity | Competency Alignment |
+|---------|-----------------|------------------|---------|----------|----------------------|
+| Day 6   | a | 20 minutes | Self-paced Daily Challenge |  |  |
+| Day 7   | a | 20 minutes | Self-paced Daily Challenge |  |  |
+| Day 8   | a | 20 minutes | Self-paced Daily Challenge |  |  |
+| Day 9   | Attend Live Learning | 50 minutes | Live Learning |  |  |
+| Day 10  | Self Reflection and Weekly Evaluation | 20 minutes | Self-paced Daily Challenge |  |  |
+
 [embed week 2 slide deck here] 
 
 ### Week 3
 
 During week three we will discuss **Building and Inclusive/Belonging Environment**. Information covered in week three can be found on the [page](). 
 
+| Day     | Daily Challenge | Length of Time   |  Format | Activity | Competency Alignment |
+|---------|-----------------|------------------|---------|----------|----------------------|
+| Day 11   | a | 20 minutes | Self-paced Daily Challenge |  |  |
+| Day 12   | a | 20 minutes | Self-paced Daily Challenge |  |  |
+| Day 13   | a | 20 minutes | Self-paced Daily Challenge |  |  |
+| Day 14   | Attend Live Learning | 50 minutes | Live Learning |  |  |
+| Day 15  | Self Reflection and Weekly Evaluation | 20 minutes | Self-paced Daily Challenge |  |  |
+
 [embed week 3 slide deck here] 
 
 ### Week 4
 
 During week four we will discuss **Developing High Performing Teams**. Information covered in week four can be found on the [Building High Performing Teams page](/handbook/people-group/learning-and-development/building-high-performing-teams/).  
+
+| Day     | Daily Challenge | Length of Time   |  Format | Activity | Competency Alignment |
+|---------|-----------------|------------------|---------|----------|----------------------|
+| Day 16   | a | 20 minutes | Self-paced Daily Challenge |  |  |
+| Day 17   | a | 20 minutes | Self-paced Daily Challenge |  |  |
+| Day 18   | a | 20 minutes | Self-paced Daily Challenge |  |  |
+| Day 19   | Attend Live Learning | 50 minutes | Live Learning |  |  |
+| Day 20  | Self Reflection and Weekly Evaluation | 20 minutes | Self-paced Daily Challenge |  |  |
 
 [embed week 4 slide deck here] 
 
