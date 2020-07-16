@@ -145,4 +145,32 @@ While each of GitLab's [values](/handbook/values/) are extremely important to me
 * Please do not take offense to periods of silence. I prefer long, uninterrupted windows of time for [deep work](/company/culture/all-remote/asynchronous/#mental-health). I disable **all** notifications on my Mac and everything but iMessage on my phone. This allows me to focus deeply on one task at a time, which is a more [efficient](/handbook/values/#efficiency) way of working than attempting to [multitask](https://signalvnoise.com/posts/1589-multitasking-is-the-fastest-way-to-mediocrity). In return, I will devote my full attention to your request and respond thoughtfully, with context and passion. 
 * Unless specifically mentioned, I don’t expect immediate responses from anyone. I [respect others’ time](/handbook/communication/#be-respectful-of-others-time) and want you to have the space for a thoughtful response.
 
+## Work from home office setup
+
+When you primarily work from home, investing in your [workspace](/company/culture/all-remote/workspace/) is important. Below is a list of the current equipment I use. 
+
+![GitLab Sony A6400 webcam setup](/images/all-remote/sony-a6400-webcam-setup-gitlab.jpg){: .shadow.medium.center}
+
+* [Sony Alpha A6400 mirrorless camera](https://www.sony.com/electronics/interchangeable-lens-cameras/ilce-6400) (used as a webcam)
+* 16-50mm OSS f3.5-5.6 kit lens (would prefer a prime lens at f1/.8; Job at Remote [uses one](https://blog.remote.com/maximum-productivity-home-office))
+* [Elgato HD 60 S+ capture card](https://www.elgato.com/en/gaming/game-capture-hd60-s-plus) (converts HDMI to USB, which converts the mirrorless camera stream into a stream that your computer recognizes as a webcam)
+* [Elgato Key Light](https://www.elgato.com/en/gaming/key-light) (directed at the wall so that light bounces softly back on my face and workspace)
+* [M-Audio Uber Mic](https://m-audio.com/ubermic)
+* Tripod mount
+* mini-HDMI to HDMI cable (you'll need this to go from your mirrorless camera into the Elgato HD 60 S+)
+* USB-C cable (included with Elgato HD 60 S+)
+* Micro-USB power cable (included with camera)
+* [Steelcase Gesture chair](https://www.steelcase.com/products/office-chairs/gesture/) (can be found secondhand for far less than retail)
+* [Apple Thunderbolt Display](https://en.wikipedia.org/wiki/Apple_Thunderbolt_Display) (x2); *this model is no longer produced*
+* [Klipsch ProMedia 2.1 speakers](https://www.klipsch.com/products/klipsch-promedia-2-1-thx-certified-computer-speaker)
+* [13-inch Apple MacBook Pro](https://www.apple.com/macbook-pro/)
+* [Twelve South HiRise for MacBook laptop stand](https://www.twelvesouth.com/products/hirise-for-macbook)
+* [Apple Magic Mouse](https://www.apple.com/shop/product/MLA02LL/A/magic-mouse-2-silver)
+* [Apple Keyboard with numeric keypad](https://www.apple.com/shop/product/MQ052LL/A/magic-keyboard-with-numeric-keypad-us-english-silver) (wired version no longer produced)
+* [Grovemade mouse pad](https://grovemade.com/product/leather-and-walnut-mouse-pad/?initial=66)
+
+This is the result of that as viewed through Zoom. Note that while the video output of this arrangement is 1080p, Zoom and most other video call tools cap resolution at 720p. 
+
+![GitLab Sony A6400 webcam output](/images/all-remote/sony-a6400-webcam-output-gitlab.jpg){: .shadow.medium.center}
+
 Return to the main [Marketing handbook section](/handbook/marketing/).
