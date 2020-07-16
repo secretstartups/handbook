@@ -15,7 +15,7 @@ This is the [email](https://gitlab.com/gitlab-com/people-group/employment-templa
 to our team members on the day before their employment.
 
 Every day we run 3 scheduled pipelines. They are each setup for a specific region:
-- JAPAC at 10AM UTC
+- Americas at 10AM UTC
 - EMEA at 4AM UTC
 - Americas at 6PM UTC
 
