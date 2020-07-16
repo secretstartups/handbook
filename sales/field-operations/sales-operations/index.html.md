@@ -72,6 +72,24 @@ The #sales-support slack channel is monitored by several groups within Field Ope
 
 <details>
 <summary markdown='span'>
+  Steps to requesting help using Salesforce Chatter
+</summary>
+
+1. [Contract assistance](https://about.gitlab.com/handbook/sales/#reaching-the-sales-team-internally)
+2. [Updating or creating Opportunity Splits ](https://about.gitlab.com/handbook/sales/#opportunity-splits)
+3. [Salesforce Lightning for Gmail](https://about.gitlab.com/handbook/sales/#salesforce-lightning-for-gmail)
+4. [Support from the Community Advocacy Team](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/#working-with-the-community-advocacy-team)
+5. [DataFox/DiscoverOrg segmentation conflicts](https://about.gitlab.com/handbook/business-ops/resources/#segmentation)
+6. [Reassigning to a Territory Rep](https://about.gitlab.com/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
+7. [Requesting Reassignment](https://about.gitlab.com/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
+8. [If LEAD or CONTACT is owned by SDR team member](https://about.gitlab.com/handbook/business-ops/resources/#record-creation-in-salesforce)
+9. [Locked Deal](https://about.gitlab.com/handbook/business-ops/resources/#locking-opportunities-as-a-result-of-their-at-risk-potential)
+10. [Deal Desk assistance](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#salesforce-chatter-communication)
+
+</details>
+
+<details>
+<summary markdown='span'>
   Steps to create an issue for an account list import
 </summary>
 
