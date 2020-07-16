@@ -94,7 +94,9 @@ Instructions for adding keyword searches in Chrome and Firefox can be found abov
 | --- | --- | --- |
 | Search GitLab handbook | hb | https://about.gitlab.com/handbook/#stq=%s |
 | Search GitLab docs | gd | https://docs.gitlab.com/search/?q=%s |
-| Search GitLab issues | gi | https://gitlab.com/gitlab-org/gitlab/-/issues?search=%s |
+| Search GitLab issues | gi | https://gitlab.com/search?search=%s&group_id=9970&project_id=278964&scope=issues |
+| Search gitlab-org group | go | https://gitlab.com/search?search=%s&group_id=9970 |
+| Search gitlab-com group | gc | https://gitlab.com/search?search=%s&group_id=6543 |
 | Go to specific epic | epic | https://gitlab.com/groups/gitlab-org/-/epics/%s |
 | Go to specific issue | issue | https://gitlab.com/gitlab-org/gitlab/issues/%s |
 | Go to specific MR | mr | https://gitlab.com/gitlab-org/gitlab/merge_requests/%s |
