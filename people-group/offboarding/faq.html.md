@@ -25,7 +25,7 @@ This depends on your location. When you complete your Exit Interview, the People
 
 **When will I receive (if applicable) commissions payment(s)?**
 
-Any commissions earned will be paid (directly deposited) on date provided by `nonuspayroll@domain` to the People Ops Specialist, who will relay this information to you during your Exit Interview or prior to it. If you have any questions on this payment, please contact Swetha Akshyap, Sales Commissions Manager at `skashyap@gitlab.com`.
+Any commissions earned will be paid (directly deposited) on date provided by `nonuspayroll@ gitlab.com` to the People Ops Specialist, who will relay this information to you during your Exit Interview or prior to it. If you have any questions on this payment, please contact Swetha Akshyap, Sales Commissions Manager at `skashyap@gitlab.com`.
 
 **When do I submit my final reimbursable expenses?**
 
@@ -33,7 +33,7 @@ Please create your final expense report to Expensify (for employees), OR, please
 
 **How do I submit reimbursable expenses if I don’t have a GitLab access to Expensify?**
 
-Finance provides an invoice template that can be emailed to your personal email. Return the completed form to `uspayroll@domain.com`
+Finance provides an invoice template that can be emailed to your personal email. Return the completed form to `uspayroll@gitlab.com`
 
 ### Benefits
 
@@ -43,7 +43,7 @@ Typically, benefits coverage ends at the end of the month during which you leave
 
 *USA*
 
-If you are a US-based team member, your benefits will cease on last day of the month of your departure. You are eligible for Consolidated Omnibus Budget Reconciliation Act (“COBRA”), the carrier (Lumity) has been notified and the carrier will send out the paperwork to your home address on file. You may also be eligible under the Patient Protection and Affordable Care Act (“PPACA”) for subsidized health care options via the marketplace. If you are interested it is important that you sign up with the market place well before the 15th of the month to have coverage for the following month. Under the Health Insurance Portability and Accountability Act of 1996 (HIPAA), if you need a certificate of credible coverage please download it from your current carrier's online portal or request it from the Compensation & Benefits team by emailing `total-rewards@domain.com`. If you move, please email `people-exp@domain.com` so that we can keep your address up to date in BambooHR.
+If you are a US-based team member, your benefits will cease on last day of the month of your departure. You are eligible for Consolidated Omnibus Budget Reconciliation Act (“COBRA”), the carrier (Lumity) has been notified and the carrier will send out the paperwork to your home address on file. You may also be eligible under the Patient Protection and Affordable Care Act (“PPACA”) for subsidized health care options via the marketplace. If you are interested it is important that you sign up with the market place well before the 15th of the month to have coverage for the following month. Under the Health Insurance Portability and Accountability Act of 1996 (HIPAA), if you need a certificate of credible coverage please download it from your current carrier's online portal or request it from the Compensation & Benefits team by emailing `total-rewards@gitlab.com`. If you move, please email `people-exp@gitlab.com` so that we can keep your address up to date in BambooHR.
 
 *Canada*
 
