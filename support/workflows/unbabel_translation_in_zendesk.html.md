@@ -72,7 +72,7 @@ In this case, there is a way to disable Unbabel in this specific ticket:
 
 - Open the ticket in question.
 - Click Apps > Unbabel for Zendesk Support.
-- click `Wrong language?` and select `English`.
+- `Change` the `Customer language` to `English`.
 
 From now on, Unbabel will not be triggered in this ticket.
 
