@@ -129,7 +129,20 @@ Job Families should have three to five PIs.
 
 ### Once the Merge Request is Submitted
 * Several pipelines will run. Among them one that specifically test for `Inclusive language` in the job families. If you're using 
-language that is marked as subtly masculine-coded, fixed-coded or using misused words, the pipeline will fail and you'll be asked to fix this.
+language that is marked as subtly masculine-coded, fixed-coded or using misused words, the pipeline will fail and you'll be asked to fix this. Some examples of masculine and fixed language are below, with neutral and growth alternatives listed. Please reference (and add to) [this list](https://docs.google.com/document/d/1YBzbnzKrsTLtAL5L3M5Gt4ZCuCDwPVgwJbeCt62qBIY/edit) for suggested words to use in place of masculine or fixed language. 
+
+| Masculine-Coded | Neutral Alternatives |
+| ------ | ------ |
+| Driven | Guided <br> Steered |
+| Objective | Goal <br> Target |
+| Strong | Robust <br> Substantial |
+
+| Fixed-Coded | Growth Alternative |
+| ------ | ------ |
+| Brilliant | Highly determined |
+| Rockstar| Motivated |
+| Super smart | Work hard |
+
 * In case you get that error, the first recommendation is to read the error. It will say what is wrong with the text. For example:
 
 ```
