@@ -56,7 +56,9 @@ Once you complete the onboarding pathway modules, have a discussion with your ma
 
 Our onboarding pathway gives new Support Engineers an opportunity to learn at their own pace and explore. We strongly believe in learning by doing ([70/20/10 learning model](https://trainingindustry.com/wiki/content-development/the-702010-model-for-learning-and-development/)), and encourage Support Engineers to start contributing on tickets with public or internal comments from as early as your 3rd week. 
 
-To help with that, the following reference table can be used as a guideline on what they can aim to achieve in their first few months in GitLab Support. This can also be used by managers as a reference on where they can expect to see their new hire in their first 6 months.
+To help with that, the following reference table was built based on data, and can be used as a guideline on what they can aim to achieve in terms of getting comfortable with ticket management in their first 6 months in GitLab Support. It can also be used by managers as a reference on where they can expect to see their new hire in their first 6 months.
+
+Note: The data is by month - for instance, in my 4th month as a Dotcom support engineer, I can aim to make 60+ comments on tickets.
 
 | Month | Public Comments Reference Range - Self Managed | Public Comments Reference Range - Dotcom |
 | ------ |  ------ | ------ |
