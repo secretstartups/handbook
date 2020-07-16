@@ -221,7 +221,7 @@ This section is ordered by stage and group according to the [product categories 
 | Secrets Management    | Amer   | JamesM                                           |
 | Release Evidence      | Amer   | JamesM                                           |
 | GitLab Pages          | Amer   | John <br> Keven <br> JamesM <br> Brie <br> Davin |
-|                       | EMEA   | Catalin <br> Rehab                               |
+|                       | EMEA   | Catalin <br> Rehab <br> Katrin                   |
 
 #### Configure
 
@@ -249,7 +249,7 @@ This section is ordered by stage and group according to the [product categories 
 |                      |                                                                     | APAC   | Anton            |
 | Dynamic Analysis     | DAST                                                                | AMER   | Thiago <br> Greg |
 |                      |                                                                     | APAC   | Anton            |
-| Composition Analysis | Dependency Scanning <br> Container Scanning <br> License Compliance | AMER   | Greg             |
+| Composition Analysis | Dependency Scanning <br> Container Scanning <br> License Compliance | AMER   | Greg <br> Katrin |
 
 #### Defend
 
