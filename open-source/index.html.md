@@ -23,14 +23,7 @@ TBD
 
 ## Creating an open source project
 
-TBD
-- Which license to use
-- Where to publish
-- Any approvals needed?
-- Readme
-    - Code of conduct
-    - License
-    - How to contribute
+See [Creating a new project](https://about.gitlab.com/handbook/engineering/#creating-a-new-project) for the instructions.
 
 ## Contributing to a third party project
 
