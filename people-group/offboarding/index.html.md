@@ -45,7 +45,7 @@ If resignation is the only solution after you have discussed your concerns, plea
     _Note: For GitLab UK team members, payroll can pay up to and including the 5th day of the following month. For example, if a team member's last day is February 2nd, the team member can receive their final pay for this in January's payroll._
 
 1. ***PBP***: The PBP will also inform the team member that they will receive and invitation in the next 48 hours from CultureAmp to complete an exit survey.
-1. ***PBP***: PBP will forward the resignation email to the People Experience team at `people-exp@domain.com`, the People Operations Specialist team email inbox `peopleops@domain.com`, as well as to the payroll lead. The PBP will indicate the last day, reason for resignation, and rehire eligibility in the email. 
+1. ***PBP***: PBP will forward the resignation email to the People Experience team at `people-exp@gitlab.com`, the People Operations Specialist team email inbox `peopleops@gitlab.com`, as well as to the payroll lead. The PBP will indicate the last day, reason for resignation, and rehire eligibility in the email. 
 _Note: If the team member has a contract with a co-employer, the payroll lead will forward the email to the contact at the co-employer._
 1. ***Experience***: The People Experience Associates will save a pdf of the resignation email to the team member's BambooHR profile.
 1. ***Specialist***: The first People Specialist to reply to the resignation email forwarded from the PBP will be the `DRI` for the offboarding process; both offboarding process management and Exit Interview. It is expected that a Specialist replies within a ***maximum*** of 24 hours. 

@@ -59,7 +59,7 @@ _Please note that the below timeline is just a guide, and you should always chec
 
 ### Prague Contribute 2020 Visa Invitation Letter
 
-If you need a visa to travel to Czech Republic, please fill out this [form](https://docs.google.com/a/gitlab.com/forms/d/1hqwakBUfV5uybwtYHnRvkT_ZTm1CEUKqdNmU6e-BPdQ/edit). People Ops Specialist will verify accuracy and send you an email with the signed letter. If a GitLab team member would like to request a letter for their registered guest, GitLab can provide a short letter stating that we encourage guests to attend our conference. Please email People Ops at peopleops@domain with the full name and passport numbers of your guest to request for this letter.
+If you need a visa to travel to Czech Republic, please fill out this [form](https://docs.google.com/a/gitlab.com/forms/d/1hqwakBUfV5uybwtYHnRvkT_ZTm1CEUKqdNmU6e-BPdQ/edit). People Ops Specialist will verify accuracy and send you an email with the signed letter. If a GitLab team member would like to request a letter for their registered guest, GitLab can provide a short letter stating that we encourage guests to attend our conference. Please email People Ops at peopleops@ gitlab.com with the full name and passport numbers of your guest to request for this letter.
 
 Once a request is sent, People Ops Specialist please use the `Template Visa Letter for Significant Others - GitLab` in the `Prague Visa Letter` shared folder to complete the letter, convert it to a pdf and forward it to the requestor.
 
@@ -107,7 +107,7 @@ It is possible to make an appointment within 2 weeks.
 ### Right to Immigrate to the Netherlands
 
 Everyone that meets the following requirements can move to the Netherlands, you will also still need to pass the formal visa application process to qualify.
-If you meet the requirements kindly read our [Relocation section](/handbook/people-group/contracts-and-international-expansion/#relocation) in our Code of Conduct, to ensure your request has been evaluated and approve. Email Peopleops@domain if you have any questions.
+If you meet the requirements kindly read our [Relocation section](/handbook/people-group/contracts-and-international-expansion/#relocation) in our Code of Conduct, to ensure your request has been evaluated and approve. Email Peopleops@ gitlab.com if you have any questions.
 If you don't meet a requirement you have to file a request with your manager, please indicate clearly which requirements you meet and which ones you do not meet.
 
 - When using the [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/) do you meet the Dutch salary requirement for [highly skilled migrants for 3 more years](https://ind.nl/en/Pages/required-amounts-income-requirement.aspx#Application_for_residence_permit_highly_skilled_migrant_and_European_Blue_Card) (be aware that the Dutch government bumps the requirement at 30, so if you're older than 27 you have to meet the higher norm).<br>

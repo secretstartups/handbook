@@ -350,7 +350,7 @@ We suggest each person attend via their own device to avoid [hybrid meetings](ht
     - Moderator 
     - Select EBA/PeopleOps/PEA/Other 
     - Agenda Link
-- The People Experience Associate will create the event in the PeopleOps Zoom account and add it to the GitLab team meetings calendar. The PEA will add the AMA document link in the description and invite `everyone@domain.com` to the meeting.
+- The People Experience Associate will create the event in the PeopleOps Zoom account and add it to the GitLab team meetings calendar. The PEA will add the AMA document link in the description and invite `everyone@gitlab.com` to the meeting.
 
 ## Archiving Content
 

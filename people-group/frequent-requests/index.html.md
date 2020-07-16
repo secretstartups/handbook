@@ -31,14 +31,14 @@ If you need GitLab to create a letter confirming that you work remotely, please 
 ## Employment Verification
 {: #emplyoment-verification}
 
-If you need People Operations to complete an employment verification form, usually for the purposes or a loan or security access, please have the relevant company or organization request this by emailing `people-exp@domain.com` for Non US team members and `uspayroll@domain.com` for US team members. In the event that you are employed via a **PEO** (SafeGuard, Global Upside, CXC. Remote etc) you must request the information directly from them, if you require assistance on the contact details please email `peopleops@domain.com`. 
+If you need People Operations to complete an employment verification form, usually for the purposes or a loan or security access, please have the relevant company or organization request this by emailing `people-exp@gitlab.com` for Non US team members and `uspayroll@gitlab.com` for US team members. In the event that you are employed via a **PEO** (SafeGuard, Global Upside, CXC. Remote etc) you must request the information directly from them, if you require assistance on the contact details please email `peopleops@gitlab.com`. 
 
 The People Experience or Payroll team will complete the requested documents using HelloSign or ensure that the information is sent in an encrypted format. Requests for any information not in BambooHR, the People Experience team will make contact with the relevant department, usually Payroll vis private Slack channel.  
 
 The People Experience team will always verify that the information is appropriate to share and check with you to be sure that you have given authorization to share any personal information, if a signed consent form is not included in the request.
 
 ## Request for GitLab's phone number
-Team members often are asked for a company phone number to complete a mortgage application, loan request or similar application.  Our company phone number is outlined on the [GitLab Communication page](https://about.gitlab.com/handbook/communication/#phone-number) but this phone number will direct the caller to make the request via email.  If the requester requires speaking to a human, please email total-rewards@domain and someone on the Total Rewards team will provide their phone number based on availability.
+Team members often are asked for a company phone number to complete a mortgage application, loan request or similar application.  Our company phone number is outlined on the [GitLab Communication page](https://about.gitlab.com/handbook/communication/#phone-number) but this phone number will direct the caller to make the request via email.  If the requester requires speaking to a human, please email total-rewards@gitlab and someone on the Total Rewards team will provide their phone number based on availability.
 
 ## Reference Request
 {: #reference-request}
@@ -64,7 +64,7 @@ you to provide information about your financial status, usually in the form of a
 of your total financial status (including any savings you have). The requirements for
 this seem to vary a bit between mortgage providers.
 
-If you need a werkgeversverklaring, be sure to reach out to peopleops@domain. THe People Specialist team will then forward the request to our Payroll Vendor in the Netherlands, to ensure the document is created in Dutch.
+If you need a werkgeversverklaring, be sure to reach out to peopleops@gitlab. THe People Specialist team will then forward the request to our Payroll Vendor in the Netherlands, to ensure the document is created in Dutch.
 
 ## Business Cards
 {: #business-cards}

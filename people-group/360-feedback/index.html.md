@@ -40,7 +40,7 @@ Team members who started at GitLab in the last 90 days are welcome to but not ex
 Managers will be assigned as the coach for their direct reports.  It is important that all managers review and send out the 360 feedback within 48 hours once the survey closes and you are sent the results. 
 
 - If a team member is in the process of migrating to a new role, the current manager and new manager should arrange a successful handover of the feedback, whether sync or async. 
-- If your manager changes throughout the 360 process, please contact peopleops@domain.com to make this change on Culture Amp.
+- If your manager changes throughout the 360 process, please contact peopleops@ gitlab.com to make this change on Culture Amp.
 
 This section outlines the process for the 360 cycle using the tool Culture Amp. Culture Amp is a tool that makes it easy to collect, understand and act on team member feedback.  It helps improve engagement, the experience and effectiveness of every team member.  We have recorded a training overview of the 360 process via Culture Amp for your review and created a slide-deck to provide [guidance on 360-Feedback](https://docs.google.com/presentation/d/1YxnAWDO0GPSWX5hDepgwMOohT0ZsGzqmUHxvBpaHf7E/edit#slide=id.g77644d9eff_0_0), kindly review before you give feedback.  
 

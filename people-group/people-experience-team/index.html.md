@@ -120,7 +120,7 @@ Process will be included here (current and potentially new process)
 
 ### Gift Requests
 
-When a team member completes the GitLab gift form request, the People Experience team receives an email to people-exp@domain.com to process the request. Most often, these are requests for flowers to be sent to another team member. Please see the below steps for guidance on how to process these requests:
+When a team member completes the GitLab gift form request, the People Experience team receives an email to people-exp@gitlab.com to process the request. Most often, these are requests for flowers to be sent to another team member. Please see the below steps for guidance on how to process these requests:
 
 - Navigate and open the gift form requests in `Google spreadsheet`. 
 - Open the PeopleOps 1Password Vault and select `Gift & Flower Vendors` to gain access to the various vendors used. 
@@ -156,7 +156,7 @@ Here are the steps to follow when scheduling a Group Conversation or AMA:
     - Add the description and agenda link 
     - Add the Host and Moderator to the description
     - Add to the GitLab Team Meetings
-    - Invite everyone@domain.com 
+    - Invite everyone@gitlab.com 
 1. Click 'Save' 
 1. You will be prompted to select whether you would like to send invitation emails to Google Calendar guests? Select 'Don't Send'
 1. You will receive a bunch of automated messages in your personal Inbox regarding the scheduled call, you can simply ignore and delete them. 
@@ -182,4 +182,4 @@ As the DRI for HelloSign, when a team member needs to have access to sign docume
 
 ### Regeling Internet Thuis form
 
-New team members based in the Netherlands will send an email to people-exp@domain.com with the Regeling Internet Thuis form. The People Experience team will then forward this form to the payroll provider in the Netherlands via email. The contact information can be found in the People Ops 1Password vault, under "Payroll Contacts"
+New team members based in the Netherlands will send an email to people-exp@gitlab.com with the Regeling Internet Thuis form. The People Experience team will then forward this form to the payroll provider in the Netherlands via email. The contact information can be found in the People Ops 1Password vault, under "Payroll Contacts"
