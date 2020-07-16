@@ -847,7 +847,7 @@ This aligns with how we work since everything at GitLab is [public by default](/
 1. Only G-Suite domain admins are allowed to provision Google Groups and email distributions.
 1. Emails are asynchronous, for example, if your manager emails you on a weekend it is fine to reply during the workweek.
 1. If an email is or has become **urgent** feel free to ping people via chat referencing the subject of the email.
-1. If you or your team needs to send an email to a group of team members, not grouped in a current [Google email group](https://gitlab.com/gitlab-com/security-tools/report-gsuite-group-members), and specifically related to PII (location, state, country, etc) please contact a Total Rewards Analyst at total-rewards@domain who can create an email list from BambooHR data, with approval.
+1. If you or your team needs to send an email to a group of team members, not grouped in a current [Google email group](https://gitlab.com/gitlab-com/security-tools/report-gsuite-group-members), and specifically related to PII (location, state, country, etc) please contact a Total Rewards Analyst at total-rewards@gitlab who can create an email list from BambooHR data, with approval.
 
 ## Slack
 
