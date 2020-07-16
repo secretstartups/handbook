@@ -15,14 +15,17 @@ This is the [email](https://gitlab.com/gitlab-com/people-group/employment-templa
 to our team members on the day before their employment.
 
 Every day we run 3 scheduled pipelines. They are each setup for a specific region:
-- JAPAC at ?AM UTC
+- JAPAC at 10AM UTC
 - EMEA at 6AM UTC
-- Americas at ?AM UTC
+- Americas at 6PM UTC
 
- Each of those pipelines will fetch all the team members that have a start day for the next day 
- and then filter out the ones for the region they need to send the email to. This ensures we don't
- send out the email too later or too early. The region of the team member is determined from the
- region that is on their BambooHR profile.
+For the JAPAC pipeline it will fetch the team members with a start date for the next day (timezones).
+For the EMEA and Americas pipeline it will fetch all the team members that have a start day equal
+to the current day (so who is starting today). The pipeline then filters out the ones for the region
+they need to send the email to. This all is to ensure we don't send out the email too late or too early. 
+The region of the team member is determined from the region that is on their BambooHR profile. This is the 
+first iteration, if we need to split it up by countries, we can rework the current implementation.
+
  
 We fetch some other data besides the region as well:
 - their onboarding issue URL
