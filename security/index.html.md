@@ -255,6 +255,19 @@ Passwords are one of the primary mechanisms that protect GitLab information syst
 * Authentication failed login attempts information needs to be recorded within the application logs such as: name, date, number of failed attempts, unique log identifier.
 * Repeated failed login attempts must trigger a temporary account lockout after 10 failed attempts. The lockout may end after a designated period of time, or require a manual unlock, depending on the profile of the application.
 
+### Two Factor Authentication
+
+All GitLab team members should use [Two Factor Authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) (2FA) whenever possible. Usage of 2FA by GitLab team members is **required** for access to the production environment. It should be noted that references to MFA (Multi-Factor Authentication) are often included in language associated with third party products and certain Compliance references (e.g. [IAM.2.03 - Multi-factor Authentication](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-compliance/guidance/IAM.2.03_multifactor_authentication.html) ), but the general concept is still covered by the term "2FA". There are different 2FA methods that can be used by GitLab team members. These are ranked by security strength:
+
+- [U2F](https://en.wikipedia.org/wiki/Universal_2nd_Factor). U2F (Universal 2nd Factor) uses a hardware token and is considered the most secure method, assuming the hardware token itself is physically secured.
+- [Push Authentication](https://en.wikipedia.org/wiki/Authenticator#Mobile_Push). For Push Authentication to work, the authentication service and a complementary mobile app typically use RSA keys and OOB (Out Of Band) communications to perform the secondary authentication. GitLab uses Okta, and by using the [Okta Verify](https://help.okta.com/en/prod/Content/Topics/Mobile/okta-verify-overview.htm) mobile app, you can perform Push Authentication. From a pure cryptographic perspective this is _slightly_ less secure than U2F as U2F uses secure hardware storage, otherwise they are pretty much equal.
+- [TOTP](https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm). TOTP (Time-based One Time Password) is a popular method for a second factor. This can be done via a mobile app (Google Authenticator, Duo Security, etc) although there are some software implementations as well. While not as secure as U2F or Push as TOTP could be [phished](https://en.wikipedia.org/wiki/Phishing) (although the attack window would be extremely short), it is still a very secure method of authentication. As 1Password is used by GitLab team members, this could be used for TOTP after proper configuration ([see below](https://about.gitlab.com/handbook/security/#two-factor-authentication-and-time-based-one-time-passwords)).
+- [SMS](https://en.wikipedia.org/wiki/SMS). SMS (Short Message Service) is a method of using text messaging to provide out-of-band (OOB) authentication. As the messages can be spoofed or intercepted more easily than other methods, SMS is not recommended for 2FA. As of this writing the Security Department is unaware of GitLab assets or third party applications that team members are using that _only_ support SMS 2FA, but if you need to use something that only offers SMS as a second factor for GitLab, contact the [Security Department](https://about.gitlab.com/handbook/engineering/security/#slack-channels).
+
+There is a reason that multiple 2FA methods are supported (e.g. Okta supports U2F, Push, and TOTP). Situations are different for different team members. For team members that travel a lot, they might feel more comfortable using Push instead of U2F if they are concerned about losing the hardware token during their travels. Many team members us 1Password and TOTP for the convenience. Many services support configuring multiple methods, which can be used for different situations or as a backup if a factor is lost. The idea is that we give team members a choice so that they can adapt a 2FA solution that best suits their needs. Again, contact the [Security Department](https://about.gitlab.com/handbook/engineering/security/#slack-channels) if you have questions.
+
+For a better understanding of how 2FA fits into GitLab, refer to the [Accounts and Passwords](https://about.gitlab.com/handbook/security/#accounts-and-passwords) section, which includes pointers to setting up passwords, acquiring U2F tokens, and links to further resources.
+
 ### Application Authentication Requirements
 * Authentication to an application should contain Multi-Factor authentication (Token, OTP Generator, SSO, YubiKey/Titan or equivalent) and or a SAML Assertion after logging into an authentication portal is recommended (e.g., Okta).
 * Authentication to an application should support individual users, not groups.
@@ -531,7 +544,7 @@ To create a personal local vault:
 
 ### Two Factor Authentication and Time-based One Time Passwords
 
-All GitLab team-members should use two factor authentication (2FA) whenever possible.
+As stated in the [GitLab Password Policy Guidelines](https://about.gitlab.com/handbook/security/#gitlab-password-policy-guidelines), all GitLab team-members should use two factor authentication (2FA) whenever possible.
 
 1Password provides an alternative solution that does not
 require using your smartphone: 1Password Time-based One Time Passwords
