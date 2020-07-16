@@ -883,8 +883,8 @@ Carson, CA 90810
 * Separate individual badges, stuff in clear holders/clips that come with the badge paper, and arrange in badge carrying case
 
 
-### AMER Field Marketing Venue Search and Contract Requests
-For venue search and contract requests, the FMM can open an issue utilizing the [`AMER_VenueSearch_ContractRequest`](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=AMER_VenueSearch_ContractRequest) template. Follow the instructions to provide event details and assign to the FMC.  
+### AMER Field Marketing Venue Search
+For venue search requests, the FMM can open an issue utilizing the [`AMER_VenueSearch`](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=AMER_VenueSearch) template. Follow the instructions to provide event details and assign to the FMC.  
 
 ### AMER Field Marketing Event Copy Deadline Process
 * FMM to assign MPM and FMC when creating the event issue
