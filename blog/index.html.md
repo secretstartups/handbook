@@ -321,6 +321,7 @@ If GitLab has been included in an analyst report and you wish to share this news
 1. [Straightforward announcements do not draw much traffic](https://gitlab.com/gitlab-com/marketing/product-marketing/-/issues/733).
 1. The content of the blog post should not repeat information from the handbook or a landing page without offering more insight or detail.
 1. If the need for a blog post is only to direct people to a landing page, it's better to skip the blog post altogether and request promotion of the landing page directly.
+1. Think about it this way: would your blog post stand on its own without the news? If it would still make a great blog post if the award/designation was just a footnote or a CTA at the end, then you're on the right track. 
 1. A more substantive blog post may take longer to draft but should result in greater visibility for your news. 
 1. If the blog post consists of more than just an announcement it is less critical to publish straight away – consider requesting to share the news on the day via social channels, then following with a blog post later.  
 
