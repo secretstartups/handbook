@@ -22,7 +22,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE    | TOPIC                                                                      | SPEAKER/S                                              |
 |---------|----------------------------------------------------------------------------|--------------------------------------------------------|
-| July 16  | The GitLab Journey & the GitOps Use Case                                 | William Chia                         |
 | July 23 | No sessions during last two weeks of a quarter                            | N/A                                  |
 | July 30 | No sessions during last two weeks of a quarter                            | N/A                                  |
 
@@ -30,7 +29,8 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
-| 2020-07-14  | **[Special: Forrester TEI Report](https://youtu.be/J_6QgemCz2E)**                                                     | Private           |
+| 2020-07-16 | **[The GitLab Journey & the GitOps Use Case](https://youtu.be/Ap14indu2-w)**     | Public                        |
+| 2020-07-14  | **[Special: Forrester TEI Report](https://youtu.beJ_6QgemCz2E)**                   | Private           |
 | 2020-07-09 | **[Channel Partner Success for GitLab Sellers](https://youtu.be/OeykHQetd7U)**          |   Private              |
 | 2020-07-02 | **[Closing Best Practices](https://youtu.be/y3iLSsAD24s)**          |   Private              |
 | 2020-06-25 | **[Q2 FY21 Competitive Update](https://youtu.be/S_z_hgf3ASc)**                                       | Private |
