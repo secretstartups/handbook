@@ -167,6 +167,12 @@ address. For example, if the host is `someuser@gitlab.com` and the
 meeting title is `Company Training [REC]`, the folder will appear as
 `someuser@gitlab.com-Company Training`.
 
+To make it easier for meetings to be uploaded automatically without
+changing the title, the sync script also uses an [allow list](https://gitlab.com/gitlab-com/zoom-sync#allow-list).
+If a meeting title matches the provided regex with the given host's e-mail address, the
+meeting will also be uploaded to Google Drive. File a merge request
+to change [the current list](https://gitlab.com/gitlab-com/zoom-sync/-/blob/master/zoom_sync.yml).
+
 Consider setting your default recording view to "Gallery view".
 
 To do this:
