@@ -134,7 +134,7 @@ For future iterations:
 Do we want to have standard timelines for certain steps in a rollout?
 * Initial discussion length
 * Days from rollout start to adoption complete
-
+Do we want to weigh the impact of changes to ensure that we aren't changing too many complex things at once?
 ## Rolling Out a Change
 
 ### Roles in Change Management
