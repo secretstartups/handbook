@@ -291,15 +291,50 @@ This tactic also creates an environment to ask for early review on a WIP merge r
 
 ### Async Status Updates
 
-Since we are a [remote](/company/culture/all-remote/) company, we utilize a Slack plugin called [Geekbot](https://geekbot.io/) to coordinate various status updates. There are currently 3 status updates configured in Geekbot, one is weekly and two are daily:
+Since we are a [remote](/company/culture/all-remote/) company, we depend on asynchronous updates to communicate the status of our work. We currently use 3 methods to communicate with the team, two occur daily and one occurs weekly:
+
+#### Async Issue Updates
+
+Our daily updates on progress and status will be added to the issues as a comment. A daily update may be skipped if there was no change in progress. It's preferable to update the issue rather than the related merge requests, 
+as those do not provide a view of the overall progress.
+
+The status comment should include what percentage complete the work is, the confidence of the person that their estimate is correct and, notes on what was done and/or if review has started. Finally, if there are multiple MRs associated with an issue, please include an entry for each. 
+
+A couple of suggestions to consider when adding your async updates:
+* It may be good to include whether this is a front end or back end update if there are multiple people working on it
+* Adding technical notes as you work through an issue is a great way to create an opening for others to engage and collaborate.
+
+Examples:
+
+```
+Complete: 80%
+Confidence: 90%
+Notes: expecting to go into review tomorrow
+Concern: ~frontend
+```
+
+```
+Issue status: 20% complete, 75% confident
+MR statuses:
+!11111 - 80% complete, 99% confident - docs update - need to add one more section
+!21212 - 10% complete, 70% confident - api update - database migrations created, working on creating the rest of the functionality next
+```
+
+#### Daily Standup
+
+The [Geekbot](https://geekbot.io/) Daily Standup is configured to run each morning Monday through Thursday and posts to `#g_release-management` Slack channel. It has just one question:
+
+1. ***Is there anything you could use a hand with today, or any blockers?***
+
+    This check-in is **optional** and can be skipped if you don't need any help or don't have any blockers. Be sure to ask for help early, your team is always happy to lend a hand.
 
 #### Weekly Status Update
 
 The **Weekly Status Update** is configured to run at noon on Fridays on the `#g_release-management` Slack channel, and contains three questions:
 
-1. ***What progress was made on your deliverables this week?*** (MRs and demos are good for this)
+1. ***What progress was made on your deliverables this week?*** 
 
-    The goal with this question is to show off the work you did, even if it's only part of a feature. This could be a whole feature, a small part of a larger feature, an API to be used later, or even just a copy change.
+    The goal with this question is to show off the work you did, and **celebrate merge announcements** (merge parrot!). This could be a whole feature, a small part of a larger feature, an API to be used later, or even just a copy change.
 
 2. ***What do you plan to work on next week?*** (think about what you'll be able to merge by the end of the week)
 
@@ -308,22 +343,6 @@ The **Weekly Status Update** is configured to run at noon on Fridays on the `#g_
 3. ***Who will you need help from to accomplish your plan for next week?*** (tag specific individuals so they know ahead of time)
 
     This helps to ensure that the others on the team know you'll need their help and will surface any issues earlier.
-
-#### Daily Standup
-
-The **Daily Standup** is configured to run each morning Monday through Thursday and posts to `#g_release-management` Slack channel. It has just one question:
-
-1. ***Is there anything you could use a hand with today, or any blockers?***
-
-    This check-in is optional and can be skipped if you don't need any help or don't have any blockers. Be sure to ask for help early, your team is always happy to lend a hand.
-
-#### Daily Social
-
-The optional **Daily Social** is configured to run each morning and posts to `#g_cicd_social`. It has just one question:
-
-1. ***What was something awesome, fun, or interesting that you did yesterday outside of work?***
-
-    This check-in is optional and can be skipped if you don't have anything to share.
 
 #### Taking Time Off
 
