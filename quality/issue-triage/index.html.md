@@ -121,7 +121,7 @@ We encourage performance improvements to be broken down. Improve where we can an
 This run happens nightly and results are outputted to the [wiki on the GPT project.](https://gitlab.com/gitlab-org/quality/performance/-/wikis/Benchmarks/Latest/10k)
 
 
-## Triagi### Availabilityng Issues
+## Triaging Issues
 
 Initial triage involves (at a minimum) labelling an issue appropriately, so un-triaged issues can be discovered by searching for issues without any labels.
 
