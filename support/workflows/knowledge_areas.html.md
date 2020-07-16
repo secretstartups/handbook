@@ -68,11 +68,12 @@ If you need help with scripting for fixes, internal tools, or any other reason.
 |                         | EMEA   | Catalin                                                                   |
 |                         | AMER   |                                                                           |
 | JavaScript              | APAC   | Wei-Meng Lee <br> Arihant <br> Anton <br> Athar                           |
-|                         | EMEA   | Ronald <br> Catalin <br> Alin                                                      |
+|                         | EMEA   | Ronald <br> Catalin <br> Alin                                             |
 |                         | AMER   | Davin <br> Phil                                                           |
 | Vue.js                  | APAC   | Wei-Meng Lee <br> Athar                                                   |
 |                         | EMEA   | Catalin                                                                   |
 | Ansible                 | AMER   | JasonY                                                                    |
+|                         | EMEA   | Shem                                                                      |
 |                         | APAC   | Wei-Meng Lee <br> Julian <br> Mike <br> Priyan <br> AlexS <br> Athar      |
 | Zendesk app development | EMEA   | DeAndre                                                                   |
 | Bash                    | APAC   | Mike <br> Priya <br> AlexS <br> Duncan                                                         |
@@ -160,7 +161,7 @@ This section is ordered by stage and group according to the [product categories 
 
 | Topic               | Region | Team Member                                                                         |
 | ------------------- | ------ | ----------------------------------------------------------------------------------- |
-| CI                  | EMEA   | DeAndre <br> Ronald <br> Silvester <br> David Wainaina                              |
+| CI                  | EMEA   | DeAndre <br> Ronald <br> Silvester <br> David Wainaina <br> Shem                    |
 |                     | AMER   | Cynthia <br> Harish <br> Cody West <br> Cleveland <br> Gabe <br> Caleb W. <br> Phil |
 |                     | APAC   | Alex Tanayno <br> Athar <br> Arihant <br> Priyan <br> Anton <br> Sameer             |
 | Jenkins Integration | AMER   | Aric                                                                                |
