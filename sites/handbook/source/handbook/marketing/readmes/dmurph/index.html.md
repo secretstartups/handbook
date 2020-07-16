@@ -1,7 +1,11 @@
 ---
 layout: markdown_page
 title: "Darren Murph's README"
+canonical_path: "/handbook/marketing/readmes/dmurph/"
 twitter_image: "/images/opengraph/all-remote.jpg"
+twitter_image_alt: "GitLab remote team graphic"
+twitter_site: "@gitlab"
+twitter_creator: "@gitlab"
 ---
 
 ## On this page
