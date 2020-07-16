@@ -38,6 +38,7 @@ I work at the intersection of culture, operations, people, talent branding, mark
 * Fortune — [Why GitLab hired a ‘head of remote’ before the coronavirus pandemic](https://fortune.com/2020/05/28/coronavirus-head-of-remote-work-from-home-gitlab-github-jobs/)
 * TechCrunch — [GitLab's Head of Remote on hiring, onboarding, and why Slack is a no-work zone](https://techcrunch.com/2020/05/19/gitlabs-head-of-remote-on-hiring-onboarding-and-why-they-dont-do-work-stuff-on-slack/)
 * TechCrunch — [What people tend to get wrong about remote work](https://techcrunch.com/2020/05/20/what-people-tend-to-get-wrong-about-remote-work/)
+* Make The Leap Digital — [Remote Work Tips From GitLab's Head of Remote And Guinness World Record Top Publisher](https://www.linkedin.com/pulse/remote-work-tips-from-gitlabs-head-guinness-world-record-mandy-fransz/)
 * Ceridian — [Intentionally remote: Why this isn’t just a big experiment](https://www.ceridian.com/blog/intentionally-remote-why-this-isn-t-just-a-big-experiment-according-to-gitlab)
 * Unito — [GitLab’s Darren Murph on Building Remote Company Culture](https://unito.io/blog/remote-company-culture-darren-murph-gitlab/)
 * HR Exchange Network — [Challenges and Opportunities in the Remote Workplace](https://www.hrexchangenetwork.com/hr-talent-management/columns/challenges-and-opportunities-in-the-remote-workplace)
@@ -152,7 +153,7 @@ When you primarily work from home, investing in your [workspace](/company/cultur
 ![GitLab Sony A6400 webcam setup](/images/all-remote/sony-a6400-webcam-setup-gitlab.jpg){: .shadow.medium.center}
 
 * [Sony Alpha A6400 mirrorless camera](https://www.sony.com/electronics/interchangeable-lens-cameras/ilce-6400) (used as a webcam)
-* 16-50mm OSS f3.5-5.6 kit lens (would prefer a prime lens at f1/.8; Job at Remote [uses one](https://blog.remote.com/maximum-productivity-home-office))
+* 16-50mm OSS f3.5-5.6 kit lens (would prefer a prime lens at f1.8; Job at Remote [uses one](https://blog.remote.com/maximum-productivity-home-office))
 * [Elgato HD 60 S+ capture card](https://www.elgato.com/en/gaming/game-capture-hd60-s-plus) (converts HDMI to USB, which converts the mirrorless camera stream into a stream that your computer recognizes as a webcam)
 * [Elgato Key Light](https://www.elgato.com/en/gaming/key-light) (directed at the wall so that light bounces softly back on my face and workspace)
 * [M-Audio Uber Mic](https://m-audio.com/ubermic)
