@@ -1,9 +1,7 @@
 <% data.team.each do | slug| %>
     <% slug.departments.each do | department| %>
         <% next unless (department == "Board") %>
-            <% l = [] %>
             ##### <%= slug.name %>
             <%= slug.name + " " + slug.picture + "  " unless slug.picture.blank? %>
-            <%= l.join(' • ') unless l.empty? %>
         <% end %>
     <% end %>
