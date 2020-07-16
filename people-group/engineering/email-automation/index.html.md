@@ -14,8 +14,21 @@ People Operations team sends out several emails for different reasons. When poss
 This is the [email](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_email.md) that is send
 to our team members on the day before their employment.
 
-Every day at 6AM UTC we run a scheduled pipeline. This pipeline will fetch all the team members that have a start day for the next day. We fetch some data:
-- their onboarding issue
+Every day we run 3 scheduled pipelines. They are each setup for a specific region:
+- Americas at 10AM UTC
+- EMEA at 4AM UTC
+- JAPAC at 6PM UTC
+
+For the JAPAC pipeline it will fetch the team members with a start date for the next day (timezones).
+For the EMEA and Americas pipeline it will fetch all the team members that have a start day equal
+to the current day (so who is starting today). The pipeline then filters out the ones for the region
+they need to send the email to. This all is to ensure we don't send out the email too late or too early. 
+The region of the team member is determined from the region that is on their BambooHR profile. This is the 
+first iteration, if we need to split it up by countries, we can rework the current implementation.
+
+ 
+We fetch some other data besides the region as well:
+- their onboarding issue URL
 - their name
 
 This data is used to populate the email that we then send to them. The email address used to send the email is `onboarding@domain` and is set with a `reply-to: people-exp@domain` as nobody monitors replies to `onboarding@`. The email address is strictly used for automation.
