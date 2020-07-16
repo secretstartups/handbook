@@ -16,7 +16,7 @@ to our team members on the day before their employment.
 
 Every day we run 3 scheduled pipelines. They are each setup for a specific region:
 - JAPAC at 10AM UTC
-- EMEA at 6AM UTC
+- EMEA at 4AM UTC
 - Americas at 6PM UTC
 
 For the JAPAC pipeline it will fetch the team members with a start date for the next day (timezones).
