@@ -108,3 +108,9 @@ Also,If you see value in sharing Usage Ping data, but it's not technically possi
 [Usage Statistics Collected](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#usage-statistics-collected)
 
 [Network Configuration](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#network-configuration)
+
+## GitLab.com accounts
+
+There is no usage ping generated for individual name spaces in Gitlab.com. Some usage data is still being collected, and you can use Sisense (formerly Periscope) to view a report for individual customers. The dashboards available so far are WIP and may change location and content as they are refined. You can adjust the filters to properly identify the account you want to review.
+
+[WIP---SaaS Activity](https://app.periscopedata.com/app/gitlab/684495/WIP---SaaS-Activity)
