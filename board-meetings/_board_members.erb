@@ -1,8 +1,8 @@
 <% data.team.each do | slug| %>
 <% slug.departments.each do | department| %>
 <% next unless (department == "Board") %>
-<%= "<img src =/images/team/" + slug.picture + ">" %>
-slug.name
-slug.story.to_s
+<%= "<img src =/images/team/" + slug.picture + "> " %>
+<%= slug.name %>
+<%= slug.story.to_s %>
 <% end %>
 <% end %>
