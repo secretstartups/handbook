@@ -283,7 +283,6 @@ In keeping with GitLab's value of transparency, all of the Kubernetes cluster co
 
 At the present time, the Kubernetes cluster servicing GitLab.com does not have any public ingress. All inbound requests are routed both through CloudFlare for caching and HAProxy which routes between the new cluster and the legacy VM infrastructure. Node pools are used to isolate workloads for different services running in the cluster and are defined in Terraform. For Sidekiq, multiple pods are configured for Sidekiq cluster to divide sidekiq queues into different resource groups. See the [chart documention for Sidekiq](https://docs.gitlab.com/charts/charts/gitlab/sidekiq/) for more details.
 
-
 Monitoring is configured using the [prometheus0-operator helm chart](https://github.com/helm/charts/tree/master/stable/prometheus-operator) in the namespace `monitoring`. Logging is configured using a fork of the [fluentd-elasticsearch helm chart](https://gitlab.com/gitlab-org/charts/fluentd-elasticsearch) where the logs for every pod is forwarded to a unique elasticsearch index. This chart is deployed in the namespace `logging`.
 
 ### Configuration updates
