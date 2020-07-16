@@ -1,7 +1,7 @@
 <% data.team.each do | slug| %>
 <% slug.departments.each do | department| %>
 <% next unless (department == "Board") %>
-<%= "<img src =/images/team/" + slug.picture + "> " %>
+<%= raw("<img src =/images/team/") + slug.picture + raw("> ") %>
 <%= slug.name %>
 <%= slug.story.to_s %>
 <% end %>
