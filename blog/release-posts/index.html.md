@@ -155,7 +155,7 @@ The manual way can be done either locally or using the GitLab Web IDE:
 
 1. Create a new branch `release-X-Y` from `master`
 1. On `release-X-Y` branch, create the blog post file, containing the introduction and the blog post frontmatter information:
-   1. In `source/releases/posts/` directory, add a new file called `YYYY-MM-22-gitlab-X-Y-released.html.md` by copying the
+   1. In `sites/marketing/source/releases/posts/` directory, add a new file called `YYYY-MM-22-gitlab-X-Y-released.html.md` by copying the
       [monthly release blog template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/monthly_release_blog_template.html.md).
 1. On `release-X-Y` branch, create the release post data directory, to which features and other data will be added:
    1. Create a new directory `X_Y` in the `data/release_posts` directory.
@@ -177,7 +177,7 @@ Create a merge request with the introductory changes _after the previous post ha
 
    ![release post MR template](release-post-mr-template.png){:.shadow}
 
-**Important**: all the files related to the release process, including [`data/features.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/features.yml), [`data/mvps.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/mvps.yml) and [`source/includes/home/ten-oh-announcement.html.haml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/includes/home/ten-oh-announcement.html.haml) must be committed in this MR.
+**Important**: all the files related to the release process, including [`data/features.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/features.yml), [`data/mvps.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/mvps.yml) and [`sites/marketing/source/includes/home/ten-oh-announcement.html.haml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/includes/home/ten-oh-announcement.html.haml) must be committed in this MR.
 {:.alert .alert-info}
 
 #### Create MRs for Bugs and Performance Improvements
@@ -1313,7 +1313,7 @@ The template and helper files are used to render the blog post from the many con
   - [Helper (Ruby) file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/helpers/release_post_helpers.rb): when the release post is being rendered, the helper combines all the release post items into a variable that is used by the include (Haml) file. The output of the helper is consistent with single data file process used until GitLab 12.8.
 - **Content:**
   - **Data (YAML) files**: each contain the content for one feature, improvement, or deprecation. Data files are added to the [unreleased](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/release_posts/unreleased) directory, and then moved to a [release](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/release_posts/12_8) directory. The purpose of the helper (Ruby) is to combine these files when rendering the release post.
-  - **Blog post (Markdown) file**: the blog post file holds the introduction of the blog post and frontmatter ([template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/monthly_release_blog_template.html.md), [example](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/releases/posts/2017-05-22-gitlab-9-2-released.html.md)).
+  - **Blog post (Markdown) file**: the blog post file holds the introduction of the blog post and frontmatter ([template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/monthly_release_blog_template.html.md), [example](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/sites/marketing/source/releases/posts/2017-05-22-gitlab-9-2-released.html.md)).
 
 To learn more how the template system works, read through an overview on [Modern Static Site Generators](/blog/2016/06/10/ssg-overview-gitlab-pages-part-2/).
 
@@ -1389,7 +1389,7 @@ The Delivery team is responsible for creating release posts for [patch](https://
 
 
 
-Release posts should live in `source/releases/posts`. For patch and security releases,
+Release posts should live in `sites/marketing/source/releases/posts`. For patch and security releases,
 please make sure to specify them in the title, add the correct [category](../#categories):
 
 - Patch releases:

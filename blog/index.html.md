@@ -547,7 +547,7 @@ If you're not sure which category your post belongs in, just put a placeholder i
 - `company` – company announcements, news, or events
 - `security` - security-related posts
 - `unfiltered` – posts on [GitLab Unfiltered](/handbook/marketing/blog/unfiltered/)
-- `releases` - release posts, security and patch releases, operational product updates or announcements of changes affecting users. If you need to communicate something important to users (i.e. not a tutorial, feature post, technical deep dive, etc.), please use the `releases` category, as some users subscribe to this category for important updates and may not visit the rest of the blog. Posts in the `releases` category need to be in the `source/releases/posts` directory, not `sites/blog/source/blog/blog-posts`. Please see the [Release Post handbook](/handbook/marketing/blog/release-posts/) for more.
+- `releases` - release posts, security and patch releases, operational product updates or announcements of changes affecting users. If you need to communicate something important to users (i.e. not a tutorial, feature post, technical deep dive, etc.), please use the `releases` category, as some users subscribe to this category for important updates and may not visit the rest of the blog. Posts in the `releases` category need to be in the `sites/marketing/source/releases/posts` directory, not `sites/marketing/source/blog/blog-posts`. Please see the [Release Post handbook](/handbook/marketing/blog/release-posts/) for more.
 
 We're working on improving category pages and tagging, but for now you can find posts under the same category by navigating to
 `https://about.gitlab.com/blog/categories/category-name/`. Dashes will be automatically added
@@ -564,7 +564,7 @@ following files:
 1. If a category changes, you need to replace it in all posts. Here's a one-liner command you can run:
 
     ```sh
-    find .sites/blog/source/blog/blog-posts -type f -exec sed -i 's/categories: old/categories: new/' {} \;
+    find .sites/marketing/source/blog/blog-posts -type f -exec sed -i 's/categories: old/categories: new/' {} \;
     ```
 
     where `old` is the old category and `new` is the new one.
@@ -1031,7 +1031,7 @@ Try to have them harmonically aligned with the title, which overlays the backgro
 
 ## When your post is formatted and you're ready to create your merge request
 
- You can go about this a couple of ways: by adding a new file to `sites/blog/source/blog/blog-posts/` in the UI, or using the terminal on your own computer.
+ You can go about this a couple of ways: by adding a new file to `sites/marketing/source/blog/blog-posts/` in the UI, or using the terminal on your own computer.
 
 ### Creating a blog post MR from the UI
 
@@ -1062,7 +1062,7 @@ Click on the link to the right of `Request to merge` (this is the name of your b
 
 ![branch name](/images/handbook/marketing/branch-name-screengrab.png){: .shadow.medium.center}
 
-Now navigate to `sites/blog/source/blog/blog-posts/` in the tree view, then click on the `+` dropdown menu and select `New file`.
+Now navigate to `sites/marketing/source/blog/blog-posts/` in the tree view, then click on the `+` dropdown menu and select `New file`.
 
 ![New file](/images/handbook/marketing/new-file.png){: .shadow.medium.center}
 
@@ -1220,4 +1220,4 @@ This is usually because the image filename and what you entered in the frontmatt
 
 Make sure that the image path is correct (i.e. it begins with `/images/blogimages/` – no missing slash at the front, no `source` before the first slash).
 
-It often helps to look at the file of [another recent blog post that is already live](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/sites/blog/source/blog/blog-posts) and compare it to your file to see if there are any discrepancies.  
+It often helps to look at the file of [another recent blog post that is already live](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/sites/marketing/source/blog/blog-posts) and compare it to your file to see if there are any discrepancies.  
