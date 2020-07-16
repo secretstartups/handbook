@@ -471,6 +471,7 @@ This section provides guidance on how to decide on top 3 features or themes and 
     - Ping on #release-post slack channel with your top 3 themes/features. Make sure to include the EVP and VP of Product as well as all product section leads (Scott, Anoop and all of Anoop's direct reports)
     - Once you receive feedback, ping on the #ceo channel with your top 3 themes/features.
     - By 18th EOD of the release month, update the release post MR with the introduction and received feedback from product team and CEO on the release post. Note that if a feature moves from secondary to primary or visa versa, its image must also be moved. Also, secondary features do not require images while primary features do.
+    - Add the video link from the kickoff call recording once it's available. The video link will be posted on the [direction page](https://about.gitlab.com/direction/kickoff/) for each monthly release (usually the call will occur on the 18th unless that date falls on a weekend, for example).
     - By 18th of the release month, check the content blocks / features.yml (Optional as this is also reviewed by individual PMMs)
 - **By the 20th of the release month**
     - Update the release blurb that appears on the homepage. In the announcement file, update rows 3,8 and 11 with the relevant details for the current release including both release number and month. (in the release branch - update /source/includes/home/ten-oh-announcement.html.haml.)
