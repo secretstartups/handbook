@@ -42,14 +42,26 @@ The DRI for the integration stage is the Dir. Corporate Development. This will c
    1. Acquisition lead (Dir. Corp. Dev.)
    1. Main engineer leading the integration efforts from the acquired company
 
-
 ### People integration
 
 1. 2 months after the new team members have joined GitLab, the [acquisition employee survey](https://docs.google.com/document/d/19unq7wVuZLiMklvvTxfRkV3NhI6gm_B6u5ipGUhxP9E/edit) should be sent by the People Ops Business Partner through CultureAmp
 
-### Team enablement
+### Field enablement
+#### Messaging
+The GitLab Field and Marketing organizations have aligned on a go-to-market approach based on a standard and consistent customer value-based messaging framework. As such, the Acquisition Integration team should partner with Product Marketing and document the following:
+1. What [**customer value driver(s)**](/handbook/sales/command-of-the-message/#customer-value-drivers) does this acquisition augment and how?
+1. How does this acquisition augment our existing **differentiators** (see under the [Additional Resources](/handbook/sales/command-of-the-message/#additional-resources) section) and/or introduce new ones?
+1. How does this acquisition augment our existing [**customer use cases**](/handbook/use-cases/)?
 
-1. **Snapshot video** - Ahead of the announcement the Product champion will record a short video (up to 10 minutes) which will be included as part of the PR for the acquisition as well as resource for enablement for the GitLab team. The video should cover the following points:
+#### Role-based learning objectives
+After the value-based messaging has been completed, partner with the Field Enablement team to define role-based learning objectives. To get started, the team should answer the below questions for Sales Development Reps and each field role (e.g. Account Executive / Strategic Account Leader, Channel Sales Manager, Solution Architect, Technical Account Manager, Professional Services Engineer) as it relates to the acquisition:
+1. **Knowledge gaps**: What does that role need to KNOW that they may not know today?
+1. **Behavior gaps**: What does that role need to be able to DO, ARTICULATE, and/or SHOW that they may not be able to today?
+
+#### Enablement development
+Once the above is completed, the team proceeds to enablement development and execution. Below is our standard enablement assets for acquisitions. The acquisition team should evaluate the list below and any changes or additions to it specific to the acquisition at hand.
+
+1. **Snapshot video** - Ahead of the announcement, the Product champion will record a short video (up to 10 minutes) which will be included as part of the PR for the acquisition as well as resource for enablement for the GitLab team. The video should cover the following points:
    1. An overview of the categories the acquisition is relevant for
    1. Why these categories are important to GitLab's users and how they fit 
    1. What value will the completed integration of the acquisition deliver to our users
@@ -57,3 +69,4 @@ The DRI for the integration stage is the Dir. Corporate Development. This will c
 1. **Prospect FAQ** - A prospect FAQ document will be created answering questions which are likely to come up from our customers
 1. **Overview webcast** - A webcast for our field teams will be scheduled 1-2 months from announcement providing a more in-depth overview of the acquisition and its impact for our product, customers and prospects.
 1. **Technical webcast** - Scheduled around the delivery of the MVC of the integration efforts, a technical webcast for our field teams will be scheduled to provide a demo of the new functionality and new product workflows.
+1. **Field Communication Plan** - Field Communications will work with the Product DRI to create a communications plan using the [Field Communication Playbook](/handbook/sales/field-communications/#field-communications-playbook) that disseminates key resources and information to field team members. 
