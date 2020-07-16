@@ -1,17 +1,8 @@
-<table width = 95% border=0>
 <% data.team.each do | slug| %>
 <% slug.departments.each do | department| %>
 <% next unless (department == "Board") %>
-<tr>
-<td width = 300>
 <%= "<img src =/images/team/" + slug.picture + ">"
-</td>
-<td>
-<b> slug.name </b>
-<br>
+slug.name
 slug.story
-</td>
-</tr>
 <% end %>
 <% end %>
-</table>
