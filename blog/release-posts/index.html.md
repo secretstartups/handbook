@@ -237,6 +237,10 @@ Keeping an eye on the various content reviews  (TW, PMM and Director) for the in
 
 The content review of the Performance Improvements and Bug Fixes MRs are the responsibility of the Release Post Manager and the TW Lead.
 
+The review of all content for quality, including the marketing intro, is recommended for the Release Post Manager to keep things smooth, since it is the Release Post Manager's responsibility to make sure all content  is completed until by the 20th of the month, ensuring a one day buffer is left for final error fixes and 
+
+The content review of the Performance Improvements and Bug Fixes MRs are the responsibility of the Release Post Manager and the TW Lead.
+
 The review of all content for quality, including the marketing intro, is recommended for the Release Post Manager to keep things smooth, since it is the Release Post Manager's responsibility to make sure all content  is completed until by the 20th of the month, ensuring a one day buffer is left for final error fixes and small improvements.
 
 #### Next steps
@@ -357,7 +361,7 @@ To enable Engineering Managers to merge their feature blocks as soon as an issue
 
 #### Reviwing, editing and updating merged content blocks
 
-After content block MRs are merged, they can be viewed on the [Preview page](https://about.gitlab.com/releases/gitlab-com/) and should be updated/edited via MRs to master up until the **final merge deadline of the 17th**. Starting on the 18th, content block MRs should be viewed in the Review app of the release post branch after **final content assembly**, and updated/edited on the release post branch by coordinating with the Release Post Manager.
+After content block MRs are merged, they can be viewed on the [Preview page](https://about.gitlab.com/releases/gitlab-com/) and should be updated/edited via MRs to master up until the **final merge deadline of the 17th**. Starting on the 18th, content block MRs should be viewed in the Review app of the release post branch after **final content assembly**, and updated/edited on the release post branch by coordinating with the Release Post Manager. It's important to check this page after the content block MR is merged becuase this page is LIVE to users and should be error free. 
 
 #### Accountability
 
