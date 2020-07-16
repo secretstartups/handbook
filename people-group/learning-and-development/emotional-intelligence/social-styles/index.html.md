@@ -231,6 +231,17 @@ Interested in learning about your own SOCIAL STYLE and those of your team? Below
 
 5. **Aggregate Results** - Maintain a centralized location where exisiting and new team memebers can view individual social styles. 
 
+**Sample Slack Message for Managers to send to their team to complete the assessment:**
+
+> Hi Team, I wanted to introduce you to a personality assessment called SOCIAL STYLEs. This is a great way to help us strengthen relationships and improve communication. Take some time to read the [Understanding SOCIAL STYLES handbook page](https://about.gitlab.com/handbook/people-group/learning-and-development/emotional-intelligence/social-styles/). When you are ready, take the [free assessment](https://www.iths.org/wp-content/uploads/SELF-ASSESSMENT_OF_SOCIAL_STYLES.pdf) to learn about your own unique style. We will come together as a group later in the week or during our regular meeting cadence to discuss our results. The more we know about each other, the better we can operate as a team! 
+
+Once you know your team's SOCIAL STYLE, what do you do next?
+- Talk to your team members about their style
+- Give them opportunities to apply their styles in their day-to-day work
+- Consider style based partnering opportunities
+- Reference the language of SOCIAL STYLEs when working together
+- Develop and invest in your team members individual style
+
 ## Example of putting styles into practice
 
 Below is an example of Persona that is used to show how social styles can be put into practice as a Manager within GitLab. **Personas's are a tool to show a representation of the target audience**. In this example, we've applied the SOCIAL STYLES framework to a ficitious manager at GitLab and how they could use the assessment within their team to personalize a management approach. Personas are archetypical users whose goals and characteristics represent the needs of a larger group. In this example, Managers. However, we can use personas for any audience at GitLab and beyond.  
