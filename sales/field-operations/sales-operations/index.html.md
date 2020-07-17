@@ -184,7 +184,7 @@ The SLA for account list loads into Salesforce is 5-7 business days.
 3. Include the fields on your report that you want updated. 
 4. Save your report in a public folder so it can be accessed later if needed.
 4. Export your report, making sure you have included the Account ID.
-5. Update the export.  Please keep the origional values in the export and create a new column with the new values. Ex: If you want to update website, you will have 2 website columns.  Website and then Website New.  Website New will be the column you create and where the new value is captured.
+5. Update the export.  Please keep the original values in the export and create a new column with the new values. Ex: If you want to update website, you will have 2 website columns.  Website and then Website New.  Website New will be the column you create and where the new value is captured.
 5. Create an issue in our [project](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations) using the Account List Import [template](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues). Include a link to the list and description of the list load.
 6. One Tab per sheet, one list update per sheet / one sheet per issue.
 7. If you need help pulling the report or walking though these steps, please slack us with a link to the issue you created in the `#sales-support` Slack channel.
@@ -289,7 +289,7 @@ The full company tech stack list with definitions can be found on the [Business 
         Please let me know if you have any questions.
 
 1. Deactivating Users in Salesforce
-    * From Salesforce, access the setup menue and then manager users.  
+    * From Salesforce, access the setup menu and then manager users.  
     * Locate the user and uncheck the Active box, or click the Freeze button.  Freeze should only be used if the user can not be fully deactivated due to impact to other system or process. 
     * If a user is frozen set a reminder in an issue to go back and deactivate user once related systems / process have been udpated. 
 
