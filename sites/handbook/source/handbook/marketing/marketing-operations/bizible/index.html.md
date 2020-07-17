@@ -132,13 +132,14 @@ Below are some frequently used bizible reports in SFDC and their use cases.
 
 **Bizible report type used: Bizible person with Bizible touchpoints (Custom)**
 
-Below are step by step instructions on how to track registration by driving channel for zoom webcasts, where the registration is set up on about.gitlab or Marketo pages.
+Below are step-by-step instructions on how to track registration by driving channel for zoom webcasts, where the registration is set up on about.gitlab or Marketo pages.
 
-Step 1: Click SFDC report tab.
-Step 2: Create new report. In the search bar, type and select report type:`Bizible person with Bizible touchpoints (Custom)` and click `create`.
-Step 3: Within the SFDC report, make sure at the top the filters as set as `Show All bizible persons` and `Date Field Range is set to All Time`.
-Step 4: Add filter:  `Form url contains [insert webcast landing page unique identifier]` (e.g: Form url contains automate-security-ci)
-Step 5: Select summary format and group by `Marketing Channel - Path`.
+- Step 1: Click SFDC report tab.
+- Step 2: Create new report. In the search bar, type and select report type:`Bizible person with Bizible touchpoints (Custom)` and click `create`.
+- Step 3: Within the SFDC report, make sure at the top the filters as set as `Show All bizible persons` and `Date Field Range is set to All Time`.
+- Step 4: Add filter:  `Form url contains [insert webcast landing page unique identifier]` (e.g: Form url contains automate-security-ci)
+- Step 5: Select summary format and group by `Marketing Channel - Path`.
+
 
 Training Video:
 
