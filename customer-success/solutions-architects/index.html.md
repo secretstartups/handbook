@@ -219,6 +219,6 @@ To be efficient as possible, this is the recommended approach:
 
 2) **Exploration**: If applicable, document the solutions or work-arounds that were explored with the customer and why that was not sufficient.
 
-3) Reach out to the Product Manager with a link to the Account Management issue and request an internal review. 
+3) **Suggestion**: Reach out to the Product Manager with a link to the Account Management issue and request an internal review. 
 
 4) **Communication**: Set up a call with the prospect or customer to determine the next best steps.
