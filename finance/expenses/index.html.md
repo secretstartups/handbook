@@ -166,7 +166,9 @@ Team members in France, Italy, and Spain must submit their expenses through:
 
 * Please include your expenses along with receipts on your monthly salary invoice.
 
-##### Poland, Russia, Ukraine
+##### CXC 
+
+Poland, Russia, Ukraine & Romania:
 
 * Expense reports must be approved by the manager on or before the 8th of each month enable for it to be included in the current month payroll
 * GitLab Payroll will send the approved expense amount to CXC EMEA payroll included with the monthly salary
