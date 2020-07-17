@@ -130,7 +130,7 @@ There are additional health score criteria that are automatically created and do
       - Green: Active Success Plan
       - Yellow: Draft Success Plan
       - Red: No Success Plan
- - Mid-Market - also must be above 20k ARR
+   - Mid-Market - also must be above 20k ARR
       - Green: Active Success Plan
       - Yellow: Draft Success Plan
       - Red: No Success Plan
