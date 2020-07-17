@@ -253,7 +253,7 @@ to maintain your tools.
 
 ### Conversational Development
 
-Conversational development carries a conversation across functional groups
+Conversational development carries a conversation across Departments and teams
 through the DevOps lifecycle, involving gatekeepers at every step. By providing
 relevant context, a feature that is only possible with an integrated solution
 like GitLab, we can reduce cycle time, making it easier to diagnose problems and
