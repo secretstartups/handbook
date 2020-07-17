@@ -116,9 +116,24 @@ There are a number of [enablement videos](/handbook/customer-success/tam/gainsig
 
 There are additional health score criteria that are automatically created and do not require manual updating, including:
 
-- Deployment/Upgrades
-- Engagement
-- ROI
+- Engagement - based on recency of last call/meeting with the customer
+   - Enterprise:
+      - Green: <= 30 days
+      - Yellow: > 30 days and <= 60 days
+      - Red: > 60 days
+   - Mid-Market:
+      - Green: <= 90 days
+      - Yellow: > 90 days and <= 120 days
+      - Red: > 120 days
+- ROI - based on whether the customer has a Success Plan or not
+   - Enterprise:
+      - Green: Active Success Plan
+      - Yellow: Draft Success Plan
+      - Red: No Success Plan
+ - Mid-Market - also must be above 20k ARR
+      - Green: Active Success Plan
+      - Yellow: Draft Success Plan
+      - Red: No Success Plan
 - Support Issues
 
 ##### Triage CTA
