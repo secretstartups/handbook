@@ -118,23 +118,7 @@ Enterprise Solutions Architects typically support two sales teams made up of Sal
 
 #### SA/TAM engagement overlap
 
-The SA owns all pre-sales technical relationships and activities. The SA quarterbacks technical conversations prior to the sale. TAM involvement prior to the sale models the expectations for customer relationships after the sale. TAM involvement should supplement, not displace, SA pre-sales ownership of the account.  
-
-TAM engagement prior to the sale should occur in the following situations:  
-
-* During POV kickoff or when appropriate in deep conversations on technology if no POV will occur
-* When a shared Slack channel is created for the customer
-* A shared customer issue tracking project has been created that will affect the account long-term
-* As requested by the SA if the TAM has a specific subject matter expertise relevant to the conversation
-
-The TAM owns the account post-sale. SA's are to remain involved in the following situations:  
-
-* Development of expansion plans with the SAL and TAM
-* A new POV or product evaluation begins for a single team or an enterprise-wide upgrade - anything affecting IACV may require SA involvement
-* Any product license expansions that require overviews, education and competitive insights prior to close
-* Any professional services are being discussed and an SOW may required drafting
-* If a TAM is over-committed or unable to support a customer request, the SA may be requested to assist
-* Support of GitLab days or other on-site evangelism of GitLab at customer sites
+The relationship and division of responsibilities between SA and TAM is [documented on the Account Team page](/handbook/customer-success/account-team/#sa-tam-overlap-and-account-handoff).
 
 ## When and How to Engage a Solutions Architect
 
