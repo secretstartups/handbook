@@ -159,9 +159,19 @@ You can also configure Zoom to save to the cloud automatically.
 Go to "My Meeting Settings" and find the "Recording" section, then click on "Cloud Recording".
 Setting the topic of the meeting is important, otherwise all meetings will be recorded with a generic name.
 Once recording is complete, your videos will not appear in the “Recordings” section of your Zoom account.
-Your recordings will automatically be saved to a folder on Google Drive under "GitLab Videos".
-***This functionality is currently not working since we enabled passwords in Zoom.
-ITOps is working to fix this***
+
+If the meeting title contains the text `[REC]`, these recordings will
+automatically be saved to a folder on Google Drive under `GitLab Videos Recorded`.
+The name of the folder will be prefixed by the host's e-mail
+address. For example, if the host is `someuser@gitlab.com` and the
+meeting title is `Company Training [REC]`, the folder will appear as
+`someuser@gitlab.com-Company Training`.
+
+To make it easier for meetings to be uploaded automatically without
+changing the title, the sync script also uses an [allow list](https://gitlab.com/gitlab-com/zoom-sync#allow-list).
+If a meeting title matches the provided regex with the given host's e-mail address, the
+meeting will also be uploaded to Google Drive. File a merge request
+to change [the current list](https://gitlab.com/gitlab-com/zoom-sync/-/blob/master/zoom_sync.yml).
 
 Consider setting your default recording view to "Gallery view".
 
@@ -418,4 +428,3 @@ To make it easy to set up Zoom sessions for your calendar events, enable the [Go
 This adds a dropdown option right inside of Google Calendar to add Zoom to the event.
 When users view the event, they will see specially formatted Zoom details that includes the link to the meeting, and a clickable phone number if they are dialing in.
 The add-on will also follow your preferences in your Zoom account for [using your personal link or a unique link](#using-your-personal-link-versus-a-uniquerandom-link).
-
