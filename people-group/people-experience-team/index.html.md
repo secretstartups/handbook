@@ -58,6 +58,7 @@ The Rotation groups are listed as follows:
 - Probation / Anniversary Queries / Gift Requests
 - BHR Onboarding Report / Moo Report
 - Allocations for Onboarding / Offboarding / Mobility
+- I-9 Administration / Pruning of Stale Records
 
 #### Allocations for Onboarding
 
