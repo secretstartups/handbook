@@ -14,7 +14,7 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 ----
 This page covers the factors to consider for customer health, guidelines for selecting the appropriate rating, communication guidelines, instructions for the account triage issue creation, and updating the health assessment in Gainsight.
 
-### Customer Health Categories and Risks
+## Customer Health Categories and Risks
 
 The following guideline will provide Technical Account Managers (TAMs) guidance to choose the right health assessment for their customer account. Health considers both delivery of value and outcomes to customers and business impact to GitLab. The following are the categories to assess and associated risks with each.
 
@@ -25,11 +25,11 @@ The following guideline will provide Technical Account Managers (TAMs) guidance 
 5. **Customer sentiment**: The customer has expressed concerns and/or dissatisfaction with their experiences with GitLab (i.e., sales, professional services, support, product, etc.) through direct conversations, surveys (e.g., NPS), social media or other communication channels.
 6. **Other organizational factors**: The customer's business performance is materially impacted and declining. The company is acquired, merging with another company, divested or another structural change to customer's business.
 
-### Health Assessment Guidelines
+## Health Assessment Guidelines
 
 The items below serve as *guidelines* for the TAM to assess and record customer health and should consider where the customer is their lifecycle journey.
 
-#### Green
+### Green
 
 Engagement, adoption and experiences are as expected or better than expected, delivering value and outcomes as appropriate the customer's stage in their journey.
 
@@ -39,7 +39,7 @@ Engagement, adoption and experiences are as expected or better than expected, de
 - Leveraging support services as defined by creation of tickets (1-5 tickets per month)
 - Interest in providing feedback and engaging with GitLab through other programs and events (e.g., Commit, CAB)
 
-#### Yellow
+### Yellow
 
 Engagement, adoption and/or experiences are lower than expected, risking GitLab's ability to deliver customer value and outcomes and/or drive future revenue growth.
 
@@ -53,7 +53,7 @@ Engagement, adoption and/or experiences are lower than expected, risking GitLab'
 - Poor experiences with Support, Professional Services or another part of GitLab
 - Working with a single contact at a company (single-threaded).
 
-#### Red
+### Red
 
 Engagement, adoption and/or experiences are significantly lower than expected where issues are blocking GitLab's ability to deliver expected value, outcomes, or positive experiences as defined by the customer. There is a direct impact to renewal in terms of churn (e.g., loss of customer, reduced seats, tier downgrade, discount related to missed expectations)
 
@@ -65,23 +65,23 @@ Engagement, adoption and/or experiences are significantly lower than expected wh
 - Significantly poor experiences with Support or Professional Services
 - Significant number of support tickets (16+ per month)
 
-### Communication Guidelines
+## Communication Guidelines
 
 The following are guidelines on who to notify when an account is yellow or red. Please make sure the following people are notified with the respective customer health ratings.
 
-#### Yellow Health Rating
+### Yellow Health Rating
 
 - Account Team (i.e., Strategic Account Leader or Account Executive, Solution Architect)
 - Regional TAM Manager
 - TAM Director (all non-Public Sector customers) or Director of Customer Success Public Sector (for Public Sector customers)
 
-#### Red Health Rating
+### Red Health Rating
 
 - Include the list above as well as…
 - Area Sales Manager and Regional Director
 - Vice President of Customer Success
 
-### Responsibilities
+## Responsibilities
 
 The TAM is responsible for coordinating with all relevant parties to develop a plan to address the risks. Typically, this will involve the account team and communication group (above), as well as other resources such as Product Managers, marketing, executive or engineering resources meeting to develop and deliver the plan to address the risks. The TAM then drives execution of the strategy and is responsible for regular updates to the triage issue. When the risks have been addressed bringing the customer to a healthy / green status, the triage issue can be closed.
 
@@ -89,9 +89,7 @@ The TAM is responsible for coordinating with all relevant parties to develop a p
 
 - **Failure to upgrade.** Is the customer more than a major release behind? Work with the customer to explain the new features and security updates of the current version of GitLab and address any internal technical limitations that have prevented upgrades. Develop an upgrade plan with the customer if appropriate.
 
-### System Procedures
-
-#### Gainsight
+### Gainsight
 
 The two fields TAMs update are TAM Sentiment and Product Risk, with each having a different weight in determining overall account health. The guidelines are as follows:
 
@@ -112,7 +110,7 @@ You will receive CTAs automatically to update health scores if they are out of d
 
 There are a number of [enablement videos](/handbook/customer-success/tam/gainsight/#videos) you can watch to learn how to update customer health assessment and log activities that affect that assessment.
 
-##### Other Gainsight Scorecard Attributes
+#### Other Gainsight Scorecard Attributes
 
 There are additional health score criteria that are automatically created and do not require manual updating, including:
 
@@ -121,7 +119,7 @@ There are additional health score criteria that are automatically created and do
 - ROI
 - Support Issues
 
-##### Triage CTA
+#### Triage CTA
 
 When an account's health status changes to something other than [Green](#green), it may warrant creating a [Gainsight CTA](/handbook/customer-success/tam/gainsight/#ctas). The following criteria determine the creation of the triage CTA:
 
@@ -134,22 +132,19 @@ To manually create the triage CTA, perform the following steps:
 - Create a new CTA, and select "Risk" as the type.
 - Choose the triage playbook.
 
-_Automatic triage CTA creation is triggered by the Gainsight rule `CTA - Create Triage CTA when health becomes Red or Yellow` the next day._
+Automatic triage CTA creation is triggered by the Gainsight rule `CTA - Create Triage CTA when health becomes Red or Yellow` the next day.
 
-#### GitLab Account Triage Project
+### GitLab Account Triage Project
 
 An account risk issue should be created in the [Account Triage Project](https://gitlab.com/gitlab-com/customer-success/account-triage) if the customer health assessment is either yellow or red. These are also viewable in the [TAM Risk Account Issue Board.](https://gitlab.com/gitlab-com/customer-success/account-triage/-/boards/703769)
 
-##### Issue Template
+#### Issue Template
 
 When creating an issue in the [Account Triage](https://gitlab.com/gitlab-com/customer-success/account-triage) project, the default template will set up the details you should include. Follow the instructions laid out in the issue description by the template for what information should be documented in the issue.
 
-##### Issue Classification Labels
+#### Issue Labels
 
-- `~E&A` Expected and Avoidable
-- `~E&U` Expected and Unavoidable
-- `~U&A` Unexpected and Avoidable
-- `~U&U` Unexpected and Unavoidable
+When creating triage issues, it's important to apply the correct labels to the issue, so that we can easily track, have a holistic view of the at risk accounts, and be able to triage regionally and/or by priority. It is expected for each issue to contain one of each of the below label categories. Please refer to the [issue template](#issue-template) for more details on how to use them.
 
 ##### Risk Labels
 
@@ -164,6 +159,25 @@ When creating an issue in the [Account Triage](https://gitlab.com/gitlab-com/cus
 - `~EMEA`
 - `~APAC`
 - `~LATAM`
+- `~Commercial`
+
+##### Issue Classification Labels
+
+- `~E&A` Expected and Avoidable
+- `~E&U` Expected and Unavoidable
+- `~U&A` Unexpected and Avoidable
+- `~U&U` Unexpected and Unavoidable
+
+##### Customer Success Risk Reasons
+
+- `~risk::lack of adoption`
+- `~risk::product experience`
+- `~risk::lack of engagement`
+- `~risk::loss of sponsor or champion`
+- `~risk::customer sentiment`
+- `~risk::other organizational factors`
+- `~risk::lack of budget`
+- `~risk::competition`
 
 ## Related Processes
 
