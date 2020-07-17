@@ -217,7 +217,7 @@ If the SA is unable to determine an approach that works for the prospect, the ne
 To be efficient as possible, this is the recommended approach:
 1) **Document**: Document the use-case the prospect is trying to solve in an issue on their [Account Management Project](https://gitlab.com/gitlab-com/account-management). Include the customer business objectives, existing approach, and communication between the prospect (call recordings, emails, etc).
 
-2) If applicable, document the solutions or work-arounds that were explored with the customer and why that was not sufficient.
+2) **Exploration**: If applicable, document the solutions or work-arounds that were explored with the customer and why that was not sufficient.
 
 3) Reach out to the Product Manager with a link to the Account Management issue and request an internal review. 
 
