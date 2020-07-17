@@ -18,11 +18,11 @@ Due to privacy issues, GitLab cannot provide a copy of the logs without a court 
 
 Always include a link to the log as an internal note, with additional information if needed.
 
-If required, post in the #support_managers channel for a senior agent or manager review.
+If required, post in the #support_managers channel for a senior engineer or manager review.
 
 A standard response is available in ZenDesk as a macro `GitLab.com::Audit logs access request`.
 
-Log requests beyond a summary similar to the examples requires legal approval and are [dealt with by SecOps](https://gitlab.com/gitlab-com/gl-security/secops/operations/blob/master/.gitlab/issue_templates/Information_Request.md).
+Log requests beyond a summary (similar to the examples below) or where logs are not readily available on Kibana require legal approval and are dealt with by [Security Incident Response Team (SIRT)](https://about.gitlab.com/handbook/engineering/security/#sirt---security-incident-response-team-former-security-operations) ([template for reference](https://gitlab.com/gitlab-com/gl-security/secops/operations/-/issues/new?issuable_template=Information_Request)). In these cases, please move the ticket to the Security queue with a note.
 
 ## What we can provide
 
