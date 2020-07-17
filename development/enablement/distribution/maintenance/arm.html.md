@@ -13,7 +13,7 @@ title: "Distribution Team Infrastructure: ARM"
 
 [Scaleway][scaleway] is the current provider for ARM runner instances. All
 [distribution][distribution] team members should be able to log into the
-provider using the credentials stored in **1Password**.
+provider using `distribution-be` credentials stored in **1Password** Build vault.
 
 ## Teams Working on ARM Related Tasks
 
