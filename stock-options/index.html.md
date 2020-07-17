@@ -370,7 +370,7 @@ Each quarter before the board meeting, the Total Rewards Analyst will run a repo
 1. Copy and paste the information from the pending approval tab to the proper column.
 1. Enter ISO or International as the option type (ISO is for US employees).
 1. Enter country for each participant.
-1. Enter functional group for each participant.
+1. Enter Department for each participant.
 1. For low/high this should reflect the highest and lowest number of options someone in that level was contracted. Leave this blank for promotion.
 1. Run a report on [refresh grants](/handbook/stock-options/#option-refresh-program) and add these to the sheet.
 1. Ping the CFO that the report is ready for review.
