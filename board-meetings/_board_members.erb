@@ -8,7 +8,7 @@
 <div class="col-lg-4" id="<%= slug.slug %>" style="text-align: center;position: relative;max-width: 400px;margin: 0 auto 45px;height:230px;">
 <div class="card">
 <div class="front">
-<% photo = image_tag "/images/team/#{member.picture}", style: 'border-radius:50%;', alt: member.name, width: 120, height: 120 %>
+<% photo = image_tag "/images/team/#{member.picture.to_s[0..-5]}-crop.jpg", style: 'border-radius:50%;', alt: member.name, width: 120, height: 120 %>
 <% if slug.gitlab %>
 <%= link_to photo, "##{slug.gitlab}", class: 'member-id', 'data-twitter': member.twitter ? "##{member.twitter}" : nil %>
 <% else %>
