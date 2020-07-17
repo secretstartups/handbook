@@ -72,8 +72,8 @@ If you will be out of office on the day of your Group Conversation, or need a pe
 - Please update the Alternate Host line in the Group Conversation Agenda document.
 - Please notify any of the People Experience Associates in the #group-conversations Slack channel so that they may change the host in Zoom's settings.
 
-All Zoom meetings now require passwords. If a Group Conversation event was created in Zoom (in the People Ops Zoom account) prior to this rule, please update the GC event in Zoom and in the GitLab Team Meetings calendar.
-  - Log into the People Ops Zoom account, go to Meetings, find the relevant Group Conversation, then click Edit this Meeting, click the Require meeting password checkbox, Save.
+All Zoom meetings now require passwords. If a Group Conversation event was created in Zoom (in the People Operations Zoom account) prior to this rule, please update the GC event in Zoom and in the GitLab Team Meetings calendar.
+  - Log into the People Operations Zoom account, go to Meetings, find the relevant Group Conversation, then click Edit this Meeting, click the Require meeting password checkbox, Save.
   - Update the GitLab Team Meetings calendar event with the new longer URL which adds ?pwd= and then 20 random letters and numbers.  
 
 ### Preparation Tips
@@ -83,7 +83,7 @@ A little bit of preparation can go a long way in making the call worthwhile for 
 #### Logistics
 
 1. You can invite someone within your team to give the update. It doesn't need to be the team lead, but the team lead is responsible for making sure that it is given.
-1. Make sure to add the link of the presentation to the Group Conversation Agenda Document invite at least 24 hours _before_ the call takes place. This allows team members to see the presentation, to click links, have [random access](https://twitter.com/paulg/status/838301787086008320) during the presentation,  and to quickly scan the presentation if they missed it. Please also add who the speaker will be to the presentation and the invite. People Ops will ping the appropriate team member at the 24-hour mark if the event hasn't been updated yet.
+1. Make sure to add the link of the presentation to the Group Conversation Agenda Document invite at least 24 hours _before_ the call takes place. This allows team members to see the presentation, to click links, have [random access](https://twitter.com/paulg/status/838301787086008320) during the presentation,  and to quickly scan the presentation if they missed it. Please also add who the speaker will be to the presentation and the invite. People Operations will ping the appropriate team member at the 24-hour mark if the event hasn't been updated yet.
 1. Post links to the Group Conversation Agenda Document and the slides or video in the #whats-happening-at-gitlab channel 24 hours before the call.
 1. Consider blocking off the 30 minutes before your scheduled to lead a Group Conversation
 
@@ -113,7 +113,7 @@ There are three layers of content in a presentation:
 
 We try not to cancel a GC. 
 We prefer to have half-prepared GCs over delaying them, but occassionally there may be a last-minute cancellation. 
-If a Group Conversation is cancelled, the People Ops and People Experience teams should ask a member of the e-group to host an AMA.
+If a Group Conversation is cancelled, the People Operations and People Experience teams should ask a member of the e-group to host an AMA.
 
 ### 24 Hours Before the Call
 
@@ -143,7 +143,7 @@ The `People Experience and People Specialist` teams are responsible for moderati
 1. Ping the [DRI](https://about.gitlab.com/handbook/people-group/group-conversations/#schedule--dri) of the Group Conversation you will be moderating in the `group-conversations` Slack channel a minimum of 24 hours prior to the call to confirm they will be hosting.
 2. If the host for the particular Group Conversation you are moderating has not hosted a call of this nature before, be sure to assign the [Group Conversation Training Issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/group-conversation-host.md) to them to support their preparation for the call.
 3. Ensure there are 15 numbered lines below the Date, Topic, Host Name, and Slide Deck Link in the [Group Conversation Agenda](https://docs.google.com/document/d/1zELoftrommhRdnEOAocE6jea6w7KngUDjTUQBlMCNAU/edit) where team members will be able to add their questions. Ensure you have spaced out the numbers. To do this you must press the enter key and skip to the amount of lines that you require (15). Then select the blank space that has been created. When you have selected all of the blank space, click on the 'Numbered List' option in the Google Docs toolbar.
-4. Log into Zoom `5-minutes prior` to the start of the Group Conversation from the People Ops Zoom account. You can double check to ensure you are logged in to the People Ops account by going to [Zoom](zoom.us/signin) and verifying that the Tanuki Logo appears in the upper-righthand corner.
+4. Log into Zoom `5-minutes prior` to the start of the Group Conversation from the People Operatios Zoom account. You can double check to ensure you are logged in to the People Operations account by going to [Zoom](zoom.us/signin) and verifying that the Tanuki Logo appears in the upper-righthand corner.
 5. Ensure the clock on your computer is enabled to include seconds by clicking the Apple icon in the upper lefthand corner of your screen, selecting `System Preferences`, opening `Date and Time` preferences, and selecting `Display the time with seconds`.
 
 _Important: The DRI for the Group Conversation will also have hosting rights. Zoom will automatically assign the first person i.e. either the DRI or Moderator who logs into the call as `Host`. It is necessary to have `Host` rights (**`co-hosting` rights are not sufficient**) in order to be able to livestream the call to YouTube. If the DRI logs in before you, please ask them to transfer you host rights by clicking `Manage Participants` at the bottom of the Zoom page, hover over the `GitLab Moderator` participant, click the `More` dropdown menu, and select `Make Host`._ 
@@ -334,8 +334,8 @@ The schedule with directly responsible individuals (DRI) is as follows:
 ## Request an AMA
 
 - People Experience Associates (with support as needed from People Operations Specialists) manage the GitLab Team Meetings calendar and their events.
-- People Experience Associates moderate Group Conversations and AMAs. If an AMA is created with short notice and there are no People Ops team members available, then People Ops will not be able to moderate or livestream.
-- As part of designated Bring Your Family and Friends to Work events, some AMAs will be open to family members (including kids) and friends. These AMAs will be a subset of AMAs that do not contain sensitive data (sensitive data includes: information we usually don't share publicly). These events will be publicized ahead of time through #whats-happening-at-gitlab. The calendar invite for these AMAs will specify that they are "open to family and friends."
+- People Experience Associates moderate Group Conversations and AMAs. If an AMA is created with short notice and there are no People Operations team members available, then People Operations will not be able to moderate or livestream.
+- As part of designated Bring Your Family and Friends to Work events, some AMAs will be open to family members (including kids) and friends. These AMAs will be a subset of AMAs that do not contain sensitive data (sensitive data includes: information we usually don't share publicly). These events will be publicized ahead of time through #whats-happening-at-gitlab. The calendar invite for these AMAs will specify that they are "open to family and friends." To arrange this, reach out to your EBA team member and ask them to update the calendar invite to show "open to family and friends". In the event your EBA is OOO, please reach out to the People Experience Associate team to add it. 
 
 We suggest each person attend via their own device to avoid [hybrid meetings](https://about.gitlab.com/handbook/communication/#hybrid-calls-are-horrible). We encourage you to follow up with your guest after to debrief and share call impressions. For this it might be good to be in the same room but only if you are sure not to get echo's.
 
@@ -350,6 +350,7 @@ We suggest each person attend via their own device to avoid [hybrid meetings](ht
     - Moderator 
     - Select EBA/PeopleOps/PEA/Other 
     - Agenda Link
+    - Confirm if this call is "open to friends and family"
 - The People Experience Associate will create the event in the PeopleOps Zoom account and add it to the GitLab team meetings calendar. The PEA will add the AMA document link in the description and invite `everyone@gitlab.com` to the meeting.
 
 ## Archiving Content
