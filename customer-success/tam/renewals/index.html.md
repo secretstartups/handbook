@@ -19,6 +19,17 @@ A key part of the customer relationship lifecycle is the renewal phase.  TAMs mu
 
 At the beginning of each month a TAM should review their list of accounts in Salesforce and note the renewal dates for their accounts.  If a renewal date is within six months the TAM should schedule two “Renewal Review” meetings with the appropriate SAL and Solutions Architect (SA).  The first “Renewal Review” meeting should be scheduled five months out from the renewal date and the second should be scheduled three months out from the renewal date.
 
+## Customer Prioritization
+
+On the Gainsight Attributes section, the TAM can set the priority level per customer with levels 1-5, with 1 being the highest. This is used to categorize customers into different priority levels such as:
+
+- Upcoming renewal(s)
+- Expansion opportunities
+- Risk
+
+The `TAM Portfolio` Dashboard is used to help highlight and review each client, including their priority level.
+
+
 ## Renewal Review Meeting
 
 A “Renewal Review” meeting should have the following attendees:
