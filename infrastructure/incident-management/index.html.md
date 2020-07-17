@@ -268,10 +268,10 @@ Status can be set independent of state. The only time these must align is when a
 ## Incident Workflow
 
 ### Purpose
-In order to effectively track specific metrics and have a single pane of glass for incidents and their reviews, specific labels are used.
+In order to effectively track specific metrics and have a single pane of glass for incidents and their reviews, specific labels are used. The below [workflow diagram](#workflow-diagram) describes the two paths an incident can take from `open` to `closed`. The two paths are dictated by the severity of the issue, `S1` and `S2` incidents require a review. In certain cases an `S3` or `S4` incident can take the review workflow path. [Details here](/handbook/engineering/infrastructure/incident-review/#review-criteria)
 
 ### Labeling
-The following labels are used to track the incident lifecyle from active incident to completed incident review.
+The following labels are used to track the incident lifecyle from active incident to completed incident review. [Label Source](https://gitlab.com/gitlab-com/gl-infra/production/-/labels?utf8=%E2%9C%93&subscribed=&search=Incident%3A%3A)
 
 | **Label** | **Workflow State** |
 | ---------- | -------------- |
@@ -280,9 +280,21 @@ The following labels are used to track the incident lifecyle from active inciden
 | `~Incident::Resolved` | Indicates that SRE engagement with the incident has ended and GitLab.com is fully operational. |
 | `~Incident::Review-in-Progress`  | Indicates that an incident met the threshold for requiring a review (S1/S2) or the IMOC or EOC for the incident chose to include a review (S3/S4) for the purposes of deriving and creating needed corrective actions. |
 | `~Incident::Review-Scheduled`   | Indicates that the incident review has been added to the agenda for an upcoming review meeting. |
-| `~Incident::Review-Completed`   | Indicates that an incident review writeup has been completed (the review was discussed in a review meeting and all notes from that meeting have been added to the review write-up). |
+| `~Incident::Review-Completed`   | Indicates that an incident review has been completed, but there are notes to incorporate from the review writeup prior to closing the issue. |
 
-[Labels](https://gitlab.com/gitlab-com/gl-infra/production/-/labels?utf8=%E2%9C%93&subscribed=&search=Incident%3A%3A)
+### Workflow Diagram
+ 
+```mermaid
+graph TD
+  A[Incident is declared] --> B[Incident::Active]
+  B --> C[Incident::Mitigated]
+  C --> D[Incident::Resolved]
+  D -->|S1/S2| E[Incident::Review-in-Progress]
+  D -->|S3/S4| Z[Closed]
+  E --> F[Incident::Review-Scheduled]
+  F --> G[Incident::Review-Completed]
+  G --> Z
+```
 
 ### Incident Board
 The board which tracks all GitLab.com incidents from active to reviewed is located [here](https://gitlab.com/gitlab-com/gl-infra/production/-/boards/1717012?&label_name[]=incident).

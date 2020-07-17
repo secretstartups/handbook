@@ -14,6 +14,7 @@ title: "Incident Review"
 
 > The primary goals of writing an Incident Review are to ensure that the incident is documented, that all contributing root cause(s) are well understood, and, especially, that effective preventive actions are put in place to reduce the likelihood and/or impact of recurrence.[^1]
 
+### Review Criteria
 Not every incident requires a review. But, if an incident matches any of the following criteria, an incident review must be completed:
 
 1. Incident was declared an S1/S2
