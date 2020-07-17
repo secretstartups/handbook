@@ -1360,63 +1360,35 @@ To learn more how the template system works, read through an overview on [Modern
 
 ### Release post item generator
 
-The [release post item generator](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/bin/release-post-item) can help you create release post items quickly from your local command line.
+The [release post item generator](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/bin/release-post-item) automates the creation of release post items using issues. Issues are the source of truth, should have a clear description, and should be well labeled. The script uses this information to prefill release post items:
 
-To use the generator, after cloning the `www-gitlab-com` project to you
-computer:
+- issue title for `title`
+- issue `devops::` label for `stage`
+- issue `group::` labels for assigning the group product manager as reporter
+- issue `Category:` labels for `categories`
+- issue `release post item::` labels for content block type
+- issue tier labels for `available_in`
+- issue web url for `issue_url`
+- issue description 'Problem to solve' section for the `description`
+- issue description image with the name mockup (`![mockup](/uploads/...)`) for the `image_url`
 
-- Create a new feature branch:
-  - `git checkout master`
-  - `git checkout -b exciting-new-feature`
-- Run the generator
-  - `bin/release-post-item <issue_url>`
-- Select the item type (top, primary, etc)
-- Complete the pre-filled template. Pre-filled fields include:
-  - `available_in` based on issue labels
-  - `reporter` based on your Git config
-  - `stage` based on issue labels
-  - `categories` based on issue labels
-  - `issue_url` from the URL provided
-- Commit, push and follow the link to create a merge request!
+The generator script is configured to run regularly as a scheduled job using GitLab CI. This means it can be used simply by adding a label, and waiting for the next scheduled run.
 
-```
-bin/release-post-item https://gitlab.com/gitlab-org/gitlab/-/issues/20337
+1. Update your issue description with a clear problem to solve.
+1. Apply the correct group, stage, category, and tier labels.
+1. Apply a release post item label to the issue. The supported labels are `release post item::top`, `release post item::primary`, `release post item::secondary`, `release post item::deprecation`, and `release post item::removal`.
+1. Wait for the scheduled CI job to run (every hour). A merge request with a draft release post item will be created, and assigned to the group's product manager. The issue will be relabeled `release post item::in review`.
 
->> Please specify the index for the category of release post item:
-1. Top feature
-2. Primary feature
-3. Secondary feature
-4. Deprecation
+The generator script can also be run on your computer.
 
-?> 3
+1. Clone the `www-gitlab-com` project, and install dependencies using `bundle install`
+1. Run the script, providing your GitLab private access token, and the issue URL:
 
-create data/release_posts/unreleased/test-feature.yml
----
-features:
-  secondary:
-  - name: Review changes file-by-file in a merge request
-    available_in:
-    - core
-    - starter
-    - premium
-    - ultimate
-    gitlab_com: true
-    documentation_link: https://docs.gitlab.com/ee/#amazing
-    image_url: "/images/unreleased/feature-a.png"
-    reporter: jramsay
-    stage: create
-    categories:
-    - Code Review
-    issue_url: https://gitlab.com/gitlab-org/gitlab/-/issues/20337
-    description: |
-      Lorem ipsum [dolor sit amet](#link), consectetur adipisicing elit.
-      Perferendis nisi vitae quod ipsum saepe cumque quia `veritatis`.
+   ```shell
+   PRIVATE_TOKEN=<token> bin/release-post-item --no-local <issue_url>
+   ```
 
-hint add a screenshot, commit, and push your changes!
-    git add data/release_posts/unreleased/test-feature.yml
-    git commit -m "Review changes file-by-file in a merge request
-    git push -u origin
-```
+Refer to `bin/release-post-item --help` for complete documentation.
 
 ### Release post item linting
 
