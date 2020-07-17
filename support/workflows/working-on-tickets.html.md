@@ -121,11 +121,10 @@ See the [Working on Tickets Flowchart](#working-on-tickets-flowchart) for a visu
    replies or ticket summary.
 1. **If I can provide a good response on a new (unassigned) ticket, but I don't
    want to assign to myself, may I?** Every response should be part of a ticket
-   that is assigned to somebody. If the ticket is assigned to someone else,
-   please offer them your suggestion in an internal note. If the ticket is
-   unassigned (new), please assign it to yourself and then send your first
-   response to the ticket requester. And remember, you have a whole team ready
-   to help you drive that ticket to a great resolution, so you're never alone.
+   that is assigned to somebody. If the ticket is unassigned (new), please 
+   assign it to yourself and then send your first response to the ticket 
+   requester. And remember, you have a whole team ready to help you drive that 
+   ticket to a great resolution, so you're never alone.
 1. **I'm going to be absent, what do I do with my assigned tickets?** If you'll
    be absent for only a day or two, please ask your users whether they want to
    wait for your return or work with others in your absence. For those who will
