@@ -17,6 +17,11 @@ The [Marketing Metrics Dashboard](https://app.periscopedata.com/app/gitlab/43155
 
 The [Marketing Linear Attribution Dashboard](https://app.periscopedata.com/app/gitlab/556414/Marketing-Linear-Attribution) provides insight into the campaigns, channels, assets, forms and landing pages that drive our goals.
 
+### Marketing trial sign up flow
+
+We use a variety of methods and systems to collect leads and understand how people discover GitLab. This is a basic overview of these visitors move through marketing systems.
+
+![Trial sign up flow](/images/handbook/marketing/marketing-operations/trial-sign-up-flow.png)
 
 ### Marketing Metric Charts - Base Fields and Base Data Filters
 

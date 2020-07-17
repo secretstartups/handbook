@@ -21,7 +21,7 @@ Our team is structured as business partners to the rest of Marketing - see focus
 * Claudia Beer, Manager - Oversees business partners
 * Beth Peterson, Senior - SDR business partner
 * Amy Waller, Senior - Campaign business partner
-* [Sarah Daily](/handbook/marketing/marketing-operations/readme/sarah-daily/index.html) - Content business partner
+* [Sarah Daily, Senior](/handbook/marketing/marketing-operations/readme/sarah-daily/index.html) - Content business partner
 * Nichole LaRue - SDR business partner
 * Jameson Burton, Associate
 * Robert Kohnke - Reporting
@@ -146,7 +146,7 @@ Periodically Marketing Operations makes significant changes to our system and pr
 | :--- | :--- | :--- |
 | 6060 | Software Subscriptions |All software subscriptions |
 | 6100 | Marketing|Reserved for Marketing GL accounts|
-| 6110 | Marketing Site|Not used - All agency fees and contract work intended to improve the marketing site |
+| 6110 | Marketing Site|All agency fees and contract work intended to improve the marketing site |
 | 6120 | Advertising|All media buying costs as well as agency fees and software subscriptions related to media buying |
 | 6130 | Events|All event sponsorships, booth shipping, event travel, booth design, event production as well as agency fees and software costs related to events |
 | 6135 | Swag|Any swag related expense
@@ -284,42 +284,64 @@ Status in the table below means:
 - Active = can be selected from picklist
 - Inactive = cannot be selected from picklist, but a record may exist with this source
 
-| Source | Source Bucket | Definition and/or transition plan | Status* |
-| :-------------------------------- | :------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------- | :--------- |
-| CE Download | core | Downloaded CE version of GitLab | Active |
-| CE Usage Ping | core | Created from CE Usage Ping data | Active |
-| CORE Check-Up | core |  | Active |
-| Demo | inbound | Filled out form to watch demo of GitLab | Active |
-| Education | inbound | Filled out form applying to the Educational license program | Active |
-| Email Request | inbound | Used when an email was received through an alias (*will be deprecated*) | Active |
-| Email Subscription | inbound | Subscribed to our opt-in list either in preference center or various email capture field on GitLab website | Active |
-| Gated Content - General | inbound | Download an asset that does not fit into the other Gated Content categories | Active |
-| Gated Content - eBook | inbound | Download a digital asset categorized as an eBook | Active |
-| Gated Content - Report | inbound | Download a gated report | Active |
-| Gated Content - Video | inbound | Watch a gated video asset | Active |
-| Gated Content - Whitepaper | inbound | Download a white paper | Active |
-| GitLab.com | inbound | Registered for GitLab.com account | Active |
-| Newsletter | inbound |  | Active |
-| OSS | inbound | Open Source Project records related to the OSS offer for free licensing | Active |
-| Request - Contact | inbound | Filled out contact request form on GitLab website | Active |
-| Request - Professional Services | inbound | Any type of request that comes in requesting to engage with our Professional Services team | Active |
-| Security Newsletter | inbound | Signed up for security alerts | Active |
-| Trial - Enterprise | inbound | In-product or web request for self-hosted Enterprise license | Active |
-| Trial - GitLab.com | inbound | In-product SaaS trial request | Active |
-| Web | inbound |  | Active |
-| Web Chat | inbound | Engaged with us through website chat bot | Active |
-| Consultancy Request | inbound |  | Active |
-| Drift | inbound |  | Active |
-| Request - Community | inbound |  | Active |
-| Request - Public Sector | inbound |  | Active |
-| Startup Application | inbound |  | Active |
-| Other | Other |  | Active |
-| AE Generated | outbound | Sourced by an Account Executive through networking or professional groups | Active |
-| Clearbit | outbound |  | Active |
-| Datanyze | outbound |  | Active |
-| DiscoverOrg | outbound |  | Active |
-| Leadware | outbound | Sourced by an SDR through networking or professional groups | Active |
-| LinkedIn | outbound |  | Active |
+| | Source | Source Bucket | Definition and/or transition plan | Status* |                                                                                                                                                                                                             |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| | :-------------------------------- | :------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------- | :--------- | |
+| | CE Download | core | Downloaded CE version of GitLab | Active |                                                                                                                                                                                                                    |
+| | CE Usage Ping | core | Created from CE Usage Ping data | Active |                                                                                                                                                                                                                  |
+| | CORE Check-Up | core |  | Active |                                                                                                                                                                                                                                                 |
+| | Demo | inbound | Filled out form to watch demo of GitLab | Active |                                                                                                                                                                                                                |
+| | Education | inbound | Filled out form applying to the Educational license program | Active |                                                                                                                                                                                       |
+| | Email Request | inbound | Used when an email was received through an alias (*will be deprecated*) | Active |                                                                                                                                                                       |
+| | Email Subscription | inbound | Subscribed to our opt-in list either in preference center or various email capture field on GitLab website | Active |                                                                                                                               |
+| | Gated Content - General | inbound | Download an asset that does not fit into the other Gated Content categories | Active |                                                                                                                                                         |
+| | Gated Content - eBook | inbound | Download a digital asset categorized as an eBook | Active |                                                                                                                                                                                      |
+| | Gated Content - Report | inbound | Download a gated report | Active |                                                                                                                                                                                                              |
+| | Gated Content - Video | inbound | Watch a gated video asset | Active |                                                                                                                                                                                                             |
+| | Gated Content - Whitepaper | inbound | Download a white paper | Active |                                                                                                                                                                                                           |
+| | GitLab.com | inbound | Registered for GitLab.com account | Active |                                                                                                                                                                                                                |
+| | Newsletter | inbound |  | Active |                                                                                                                                                                                                                                                 |
+| | OSS | inbound | Open Source Project records related to the OSS offer for free licensing | Active |                                                                                                                                                                                 |
+| | Request - Contact | inbound | Filled out contact request form on GitLab website | Active |                                                                                                                                                                                         |
+| | Request - Professional Services | inbound | Any type of request that comes in requesting to engage with our Professional Services team | Active |                                                                                                                                  |
+| | Security Newsletter | inbound | Signed up for security alerts | Active |                                                                                                                                                                                                           |
+| | Trial - Enterprise | inbound | In-product or web request for self-hosted Enterprise license | Active |                                                                                                                                                                             |
+| | Trial - GitLab.com | inbound | In-product SaaS trial request | Active |                                                                                                                                                                                                            |
+| | Web | inbound |  | Active |                                                                                                                                                                                                                                                        |
+| | Web Chat | inbound | Engaged with us through website chat bot | Active |                                                                                                                                                                                                           |
+| | Consultancy Request | inbound |  | Active |                                                                                                                                                                                                                                        |
+| | Drift | inbound |  | Active |                                                                                                                                                                                                                                                      |
+| | Request - Community | inbound |  | Active |                                                                                                                                                                                                                                        |
+| | Request - Public Sector | inbound |  | Active |                                                                                                                                                                                                                                    |
+| | Startup Application | inbound |  | Active |                                                                                                                                                                                                                                        |
+| | Other | Other |  | Active |                                                                                                                                                                                                                                                        |
+| | AE Generated | outbound | Sourced by an Account Executive through networking or professional groups | Active |                                                                                                                                                                     |
+| | Clearbit | outbound |  | Active |                                                                                                                                                                                                                                                  |
+| | Datanyze | outbound |  | Active |                                                                                                                                                                                                                                                  |
+| | DiscoverOrg | outbound |  | Active |                                                                                                                                                                                                                                               |
+| | Leadware | outbound | Sourced by an SDR through networking or professional groups | Active |                                                                                                                                                                                       |
+| | LinkedIn | outbound |  | Active |                                                                                                                                                                                                                                                  |
+| | Prospecting | outbound |  | Active |                                                                                                                                                                                                                                               |
+| | Prospecting - General | outbound |  | Active |                                                                                                                                                                                                                                     |
+| | Prospecting - LeadIQ | outbound |  | Active |                                                                                                                                                                                                                                      |
+| | SDR Generated | outbound | Sourced by an SDR through networking or professional groups | Active |                                                                                                                                                                                  |
+| | Advertisement | paid demand gen |  | Active |                                                                                                                                                                                                                                      |
+| | Conference | paid demand gen | Stopped by our booth or received through event sponsorship | Active |                                                                                                                                                                               |
+| | Field Event | paid demand gen | Paid events we do not own but are active participant (Meetups, Breakfasts, Roadshows) | Active |                                                                                                                                                   |
+| | Owned Event | paid demand gen | Events that are created, owned, run by GitLab | Active |                                                                                                                                                                                           |
+| | Promotion | paid demand gen |  | Active |                                                                                                                                                                                                                                          |
+| | Virtual Sponsorship | paid demand gen |  | Active |                                                                                                                                                                                                                                |
+| | Purchased List | purchased list |  | Active |                                                                                                                                                                                                                                      |
+| | Employee Referral | referral |  | Active |                                                                                                                                                                                                                                         |
+| | Partner | referral | GitLab partner sourced name either through their own prospecting and/or events | Active |                                                                                                                                                                     |
+| | Word of Mouth | referral |  | Active |                                                                                                                                                                                                                                             |
+| | Event Partner | referral |  | Active |                                                                                                                                                                                                                                             |
+| | Existing Client | referral |  | Active |                                                                                                                                                                                                                                           |
+| | External Referral | referral |  | Active |                                                                                                                                                                                                                                         |
+| | Webcast | virtual event | Register for any online webcast (not incl `Demo`) | Active |                                                                                                                                                                                             |
+| | Webinar | virtual event |  | Active |                                                                                                                                                                                                                                              |
+| | Web Direct | web direct | Created when purchase is made direct through the portal (check for duplicates & merge record if found) | Active |                                                                                                                                        |
+
 
 ## Lead and Contact Statuses
 The Lead & Contact objects in Salesforce have unified statuses with the following definitions. If you have questions about current status, please ask in #lead-questions channel on Slack.
@@ -350,8 +372,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 ##### Step 1: Clone the Marketo program indicated below
 * Sponsored Webcast: [YYMMDD_ExternalWebcastVendorName_Topic_Region](https://app-ab13.marketo.com/#PG5523A1)
 * Virtual Conference: [YYYYMMDD_Vendor_VirtualConfName (Virtual Conference Template)](https://app-ab13.marketo.com/#ME5121A1) 
-* Self-hosted Webcast or Self-hosted Webcast with Promotion: [YYYYMMDD_SelfServiceTopic_Region](https://app-ab13.marketo.com/#ME5143A1)   
-* Vendor Arranged Meetings [YYYYMMDD_ArrangedMeetingsVendorName_Region](https://app-ab13.marketo.com/#PG5698D4)
+* Self-Service Virtual Event with or without Promotion: [YYYYMMDD_SelfServiceTopic_Region](https://app-ab13.marketo.com/#ME5143A1)   
 * (MPM use only) Conference: [YYYYMMDD_Conference_Template](https://app-ab13.marketo.com/#ME5100A1)
 * (MPM use only) Conference Speaking Session: [YYYYMMDD_SpeakingSession_Template](https://app-ab13.marketo.com/#ME5092A1)
 * (MPM use only) Field Event: [YYYYMMDD_FieldEvent_Template](https://app-ab13.marketo.com/#ME5083A1)
