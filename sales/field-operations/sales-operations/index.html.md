@@ -14,7 +14,9 @@ title: "Sales Operations"
 
 ## **Charter**
 
-Sales Operations is a part of Field Operations. We aim to help facilitate new and existing processes throughout our field organization via the use of systems, policies, and direct support. Sales Operations main focus is on the Sales organization and supports this group through the following key functions: 
+Sales Operations is a part of Field Operations.
+We aim to help facilitate new and existing processes throughout our field organization via the use of systems, policies, and direct support.
+Sales Operations main focus is on the Sales organization and supports this group through the following key functions:
 
 <div class="flex-row" markdown="0" style="height:80px">
   <a href="https://about.gitlab.com/handbook/sales/territories/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Territories</a>
@@ -49,7 +51,8 @@ Sales Operations is a part of Field Operations. We aim to help facilitate new an
 
 ## **How to Communicate with Us**
 
-The #sales-support slack channel is monitored by several groups within Field Operations to give guidance or direction.  Salesforce  [chatter](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#salesforce-chatter-communication ) @sales-support is monitored by the Deal Desk team and they will re-direct any questions to Sales Operations if needed.
+The #sales-support slack channel is monitored by several groups within Field Operations to give guidance or direction.
+Salesforce [chatter](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#salesforce-chatter-communication ) `@sales-support` is monitored by the Deal Desk team and they will re-direct any questions to Sales Operations if needed.
 
 * Slack: [#sales-support](https://gitlab.slack.com/archives/sales-support)
 * Salesforce: [@sales-Support](https://gitlab.my.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F94M000000fy2K)
@@ -61,12 +64,13 @@ The #sales-support slack channel is monitored by several groups within Field Ope
   Steps to creating an issue
 </summary>
 
-1.  Create an issue in our [project](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations), making sure to provide detailed business requirments. Please leave assignee blank.
-2.  There are existing templates to use, most will fall under the General Request template. 
-3.  New Issues that are in review will be tagged with the `SalesOps::New_Request` label automatically on creation.
-4.  An issue will be assigned to a Milestone, given an assignee and the `SalesOps::Assigned` if it is ready to be worked on.
-5.  Any issue that cannot be slotted into the next two milestones will be put in the backlog denoted by `SalesOps::Backlog` until it can be planned.
-6.  Please review the status of any issue on our agile [board.](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations)
+1. Create an issue in our [project](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations), making sure to provide detailed business requirements.
+Please leave assignee blank.
+1. There are existing templates to use, most will fall under the General Request template. 
+1. New Issues that are in review will be tagged with the `SalesOps::New_Request` label automatically on creation.
+1. An issue will be assigned to a Milestone, given an assignee and the `SalesOps::Assigned` if it is ready to be worked on.
+1. Any issue that cannot be slotted into the next two milestones will be put in the backlog denoted by `SalesOps::Backlog` until it can be planned.
+1. Please review the status of any issue on our agile [board.](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations)
 
 </details>
 
@@ -76,15 +80,15 @@ The #sales-support slack channel is monitored by several groups within Field Ope
 </summary>
 
 1. [Contract assistance](https://about.gitlab.com/handbook/sales/#reaching-the-sales-team-internally)
-2. [Updating or creating Opportunity Splits ](https://about.gitlab.com/handbook/sales/#opportunity-splits)
-3. [Salesforce Lightning for Gmail](https://about.gitlab.com/handbook/sales/#salesforce-lightning-for-gmail)
-4. [Support from the Community Advocacy Team](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/#working-with-the-community-advocacy-team)
-5. [DataFox/DiscoverOrg segmentation conflicts](https://about.gitlab.com/handbook/business-ops/resources/#segmentation)
-6. [Reassigning to a Territory Rep](https://about.gitlab.com/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
-7. [Requesting Reassignment](https://about.gitlab.com/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
-8. [If LEAD or CONTACT is owned by SDR team member](https://about.gitlab.com/handbook/business-ops/resources/#record-creation-in-salesforce)
-9. [Locked Deal](https://about.gitlab.com/handbook/business-ops/resources/#locking-opportunities-as-a-result-of-their-at-risk-potential)
-10. [Deal Desk assistance](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#salesforce-chatter-communication)
+1. [Updating or creating Opportunity Splits ](https://about.gitlab.com/handbook/sales/#opportunity-splits)
+1. [Salesforce Lightning for Gmail](https://about.gitlab.com/handbook/sales/#salesforce-lightning-for-gmail)
+1. [Support from the Community Advocacy Team](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/#working-with-the-community-advocacy-team)
+1. [DataFox/DiscoverOrg segmentation conflicts](https://about.gitlab.com/handbook/business-ops/resources/#segmentation)
+1. [Reassigning to a Territory Rep](https://about.gitlab.com/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
+1. [Requesting Reassignment](https://about.gitlab.com/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
+1. [If LEAD or CONTACT is owned by SDR team member](https://about.gitlab.com/handbook/business-ops/resources/#record-creation-in-salesforce)
+1. [Locked Deal](https://about.gitlab.com/handbook/business-ops/resources/#locking-opportunities-as-a-result-of-their-at-risk-potential)
+1. [Deal Desk assistance](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#salesforce-chatter-communication)
 
 </details>
 
@@ -93,19 +97,23 @@ The #sales-support slack channel is monitored by several groups within Field Ope
   Steps to create an issue for an account list import
 </summary>
 
-Here are the guidelines for requesting account list loads from Sales Operations. Please follow the instructions below.
-The SLA for account list loads into Salesforce is 5-7 business days.  
+Here are the guidelines for requesting account list loads from Sales Operations.
+Please follow the instructions below.
+The SLA for account list loads into Salesforce is 5-7 business days.
   
 **For uploading a list of net new accounts**
-* We have a template you can use to dedupe a list of accounts you have sourced [here in the google drive](https://docs.google.com/spreadsheets/d/1zm4uA2_d7aj31BY2wTxNw6HoElyWJQkjMYY4e1D3tRM/edit#gid=1823098798). This template will help you dedupe the account list and also format your list for upload into Salesforce.  Please follow the directions in the README in the template doc and reach out to #sales-support in Slack if you have any questions.
+* We have a template you can use to dedupe a list of accounts you have sourced [here in the google drive](https://docs.google.com/spreadsheets/d/1zm4uA2_d7aj31BY2wTxNw6HoElyWJQkjMYY4e1D3tRM/edit#gid=1823098798).
+This template will help you dedupe the account list and also format your list for upload into Salesforce.
+Please follow the directions in the README in the template doc and reach out to #sales-support in Slack if you have any questions.
 
 **Preparing the list:**
 1. Clean up list to remove any duplicates and columns not needed. 
-2. Update field names to Salesforce compatible values. Only include the required fields listed below.
-3. Unless you discuss with us prior, nothing else will be loaded and the extra columns will be ignored in the import.
-4. Account Source format: List - Name of Source - Date with no spaces or characters.
-5. Create an issue in our [project](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations) using the Account List Import [template](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues). Include a link to the list and description of the list load.
-6. One Tab per sheet, one list load per sheet / one sheet per issue.
+1. Update field names to Salesforce compatible values. Only include the required fields listed below.
+1. Unless you discuss with us prior, nothing else will be loaded and the extra columns will be ignored in the import.
+1. Account Source format: List - Name of Source - Date with no spaces or characters.
+1. Create an issue in our [project](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations) using the Account List Import [template](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues).
+Include a link to the list and description of the list load.
+1. One tab per sheet, one list load per sheet / one sheet per issue.
  
 
 **Required Fields:**
@@ -180,21 +188,21 @@ The SLA for account list loads into Salesforce is 5-7 business days.
 
 **Preparing the list:**
 1. Create an Account report in SFDC. 
-2. Include the Account ID as a field on your report.  This is required to do a mass update. 
-3. Include the fields on your report that you want updated. 
-4. Save your report in a public folder so it can be accessed later if needed.
-4. Export your report, making sure you have included the Account ID.
-5. Update the export.  Please keep the original values in the export and create a new column with the new values. Ex: If you want to update website, you will have 2 website columns.  Website and then Website New.  Website New will be the column you create and where the new value is captured.
-5. Create an issue in our [project](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations) using the Account List Import [template](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues). Include a link to the list and description of the list load.
-6. One Tab per sheet, one list update per sheet / one sheet per issue.
-7. If you need help pulling the report or walking though these steps, please slack us with a link to the issue you created in the `#sales-support` Slack channel.
+1. Include the Account ID as a field on your report. This is required to do a mass update. 
+1. Include the fields on your report that you want updated. 
+1. Save your report in a public folder so it can be accessed later if needed.
+1. Export your report, making sure you have included the Account ID.
+1. Update the export.  Please keep the original values in the export and create a new column with the new values. Ex: If you want to update website, you will have 2 website columns.  Website and then Website New.  Website New will be the column you create and where the new value is captured.
+1. Create an issue in our [project](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations) using the Account List Import [template](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues). Include a link to the list and description of the list load.
+1. One Tab per sheet, one list update per sheet / one sheet per issue.
+1. If you need help pulling the report or walking though these steps, please slack us with a link to the issue you created in the `#sales-support` Slack channel.
 
 </details>
 
 
 ## **How we work**
 
-- [Sales Opertions Agile Board](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/boards/1655825?label_name[]=SalesOPS)
+- [Sales Operations Agile Board](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/boards/1655825?label_name[]=SalesOPS)
 - [Sales Operations Project](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations)
 - [Focus Fridays](https://about.gitlab.com/handbook/sales/#focus-fridays)
 - Field Operations Calendar
@@ -209,11 +217,11 @@ The SLA for account list loads into Salesforce is 5-7 business days.
 </summary>
 
 In order to update quote templates that are used in Salesforce, and pulled in from Zuora, please reference the below resources provided by Zuora. 
-1.  [General overview to update quote templates](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings/Customize_Quote_Templates)
-2.  [Leveraging mail merge fields to update templates](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings/Customize_Quote_Templates/C_Customize_Quote_Template_using_Word_Mail_Merge) - This must be completed in Microsoft word and saved accordingly
-3.  [Reference the merge fields that are supported](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings/Customize_Quote_Templates/K_Supported_Merge_Fields_for_Quote_Templates_and_Mapping_to_Salesforce#Charge_Summary.Quote_Rate_Plan_Merge_Fields)
-4.  [How to displaty multiple quote charges in a table](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings/Customize_Quote_Templates/E_Customize_Quote_Templates_Using_Microsoft_Word_Mail_Merge)
-5.  [Uploading to Zuora and connect to Salesforce](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings) 
+1. [General overview to update quote templates](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings/Customize_Quote_Templates)
+1. [Leveraging mail merge fields to update templates](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings/Customize_Quote_Templates/C_Customize_Quote_Template_using_Word_Mail_Merge) - This must be completed in Microsoft word and saved accordingly
+1. [Reference the merge fields that are supported](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings/Customize_Quote_Templates/K_Supported_Merge_Fields_for_Quote_Templates_and_Mapping_to_Salesforce#Charge_Summary.Quote_Rate_Plan_Merge_Fields)
+1. [How to displaty multiple quote charges in a table](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings/Customize_Quote_Templates/E_Customize_Quote_Templates_Using_Microsoft_Word_Mail_Merge)
+1. [Uploading to Zuora and connect to Salesforce](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings) 
 
 </details> 
 
@@ -222,9 +230,11 @@ In order to update quote templates that are used in Salesforce, and pulled in fr
   Primary Quote System
 </summary>
 
-The Primary Quote system is a 1:1 relationship in SFDC that connects the total transaction amount on a quote with the amount on its related opportunity. This is to ensure we are forecasting the same amount that we will book and enables further automation as the quote is sent to Zuora billing. To support sales situations that require multiple quotes (for instance: a small deal option and a big deal option), sales reps can identify which one of their quote is "Primary".
+The Primary Quote system is a 1:1 relationship in SFDC that connects the total transaction amount on a quote with the amount on its related opportunity.
+This is to ensure we are forecasting the same amount that we will book and enables further automation as the quote is sent to Zuora billing.
+To support sales situations that require multiple quotes (for instance: a small deal option and a big deal option), sales reps can identify which one of their quote is "Primary".
 
-[Primary Quote technical documentation here:](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#primary-quote-system) 
+[Primary Quote technical documentation here:](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#primary-quote-system) 
 
 </details> 
 
@@ -234,13 +244,13 @@ The Primary Quote system is a 1:1 relationship in SFDC that connects the total t
 </summary>
 
 The full company tech stack list with definitions can be found on the [Business Operations - Tech Stack Details page
-](https://about.gitlab.com/handbook/business-ops/tech-stack/). Here are the tools that the Sales Operations team works with on a daily basis.
-1. [Clari](https://about.gitlab.com/handbook/business-ops/tech-stack/#clari)
-2. [Datafox](https://about.gitlab.com/handbook/business-ops/tech-stack/#datafox)
-3. [Gainsight](https://about.gitlab.com/handbook/business-ops/tech-stack/#gainsight)
-4. [Leandata](https://about.gitlab.com/handbook/business-ops/tech-stack/#leandata)
-5. [Salesforce](https://about.gitlab.com/handbook/business-ops/tech-stack/#salesforce)
-6. [Chorus](https://about.gitlab.com/handbook/business-ops/tech-stack/#chorus)
+](/handbook/business-ops/tech-stack/). Here are the tools that the Sales Operations team works with on a daily basis.
+1. [Clari](/handbook/business-ops/tech-stack/#clari)
+1. [Datafox](/handbook/business-ops/tech-stack/#datafox)
+1. [Gainsight](/handbook/business-ops/tech-stack/#gainsight)
+1. [Leandata](/handbook/business-ops/tech-stack/#leandata)
+1. [Salesforce](/handbook/business-ops/tech-stack/#salesforce)
+1. [Chorus](/handbook/business-ops/tech-stack/#chorus)
 
 </details> 
 
@@ -249,10 +259,10 @@ The full company tech stack list with definitions can be found on the [Business 
   Overdue Opportunity Process
 </summary>
 
-1.  An overdue opportunity report goes out every Tuesday to managers.
-2.  An email alert goes out directly to the opportunity owner when the oppty is past due upon edit of the opportunity. Ex: an action needs to happen to trigger the email. 
-3.  Sales Operations will give until the 15th of the month and then forklift any opportunity with a close date in the past month to a future close date.
-4.  Managers have "over due" reports on their dashboards for review as needed.
+1. An overdue opportunity report goes out every Tuesday to managers.
+1. An email alert goes out directly to the opportunity owner when the oppty is past due upon edit of the opportunity. Ex: an action needs to happen to trigger the email. 
+1. Sales Operations will give until the 15th of the month and then forklift any opportunity with a close date in the past month to a future close date.
+1. Managers have "over due" reports on their dashboards for review as needed.
 
 </details> 
 
@@ -261,10 +271,10 @@ The full company tech stack list with definitions can be found on the [Business 
   Salesforce Access Removal Process
 </summary>
 
-1.  To ensure the appropriate users have access and that we're being fiscally responsible in terms of overall usage, users with no usage in 90 days will be deactivated. 
-2.  Usage will be reviewed once at the beginning of the second month of the quarter so as not to disrupt any quarter end/quarter start cadences. The dates are scheduled on the Field Ops calander.
-3.  An [Access Change Request](https://about.gitlab.com/handbook/business-ops/employee-enablement/it-ops-team/access-requests/#access-change-request) will be created and an email will be sent to users as extra notification.
-4.  If access is needed in the future, please submit a new [Access Request](https://about.gitlab.com/handbook/business-ops/employee-enablement/it-ops-team/access-requests/#single-person-access-request) and we can confirm if SFDC is the correct place to gather this information or if other tools can provide it.
+1. To ensure the appropriate users have access and that we're being fiscally responsible in terms of overall usage, users with no usage in 90 days will be deactivated. 
+1. Usage will be reviewed once at the beginning of the second month of the quarter so as not to disrupt any quarter end/quarter start cadences. The dates are scheduled on the Field Ops calander.
+1. An [Access Change Request](/handbook/business-ops/employee-enablement/it-ops-team/access-requests/#access-change-request) will be created and an email will be sent to users as extra notification.
+1. If access is needed in the future, please submit a new [Access Request](/handbook/business-ops/employee-enablement/it-ops-team/access-requests/#single-person-access-request) and we can confirm if SFDC is the correct place to gather this information or if other tools can provide it.
 
 <details>
 <summary markdown='span'> Instructions for Sales Operations team on completing SFDC Access Removal Process
@@ -275,7 +285,7 @@ The full company tech stack list with definitions can be found on the [Business 
 1. Check the Data in the [Provided Report](https://gitlab.my.salesforce.com/00O4M000004aGGo): 
     * Make sure the last login date is set to LESS than or equal to 90 Days ago. 
     * Verify that no integration users or users that might be tied to an external system are not included in the access removal.  If there are questions, error on the cautious side and work with Sales Systems. 
-1. Create an [Access Change Request](https://about.gitlab.com/handbook/business-ops/employee-enablement/it-ops-team/access-requests/#access-change-request)
+1. Create an [Access Change Request](handbook/business-ops/employee-enablement/it-ops-team/access-requests/#access-change-request)
     * List the users that will be removed so that we have record of reason and users if needed in the future. 
 1. Email Notification:
     * Work with Sales Operations Manager to send the email notification.  This is an extra step for extra visibility to users and might not always be needed depending on volume and other communication that has occured. 
@@ -299,7 +309,9 @@ The full company tech stack list with definitions can be found on the [Business 
 
 ## **Sales Operations Sponsored Dashboards and Maintenance**
 
-The Sales Operations team has sponsored a comprehensive but consumable "Reporting Package" (via SFDC Dashboards) with validated (SalesOps approved) metrics to the Account Executives. This list will continue to evolve and will be maintained during the onboarding and offboarding process. In addition to sponsored reporting, Sales Ops will maintain existing reports by archiving or deleting any report or dashboard not used in 180 days.
+The Sales Operations team has sponsored a comprehensive but consumable "Reporting Package" (via SFDC Dashboards) with validated (SalesOps approved) metrics to the Account Executives.
+This list will continue to evolve and will be maintained during the onboarding and offboarding process.
+In addition to sponsored reporting, Sales Ops will maintain existing reports by archiving or deleting any report or dashboard not used in 180 days.
 
 <details>
 <summary markdown='span'>Enterprise Dashboards </summary>
@@ -330,15 +342,18 @@ The Sales Operations team has sponsored a comprehensive but consumable "Reportin
 
 ### **Account Ownership Rules of Engagement**
 
-[Account Ownership Rules of Engagement Handbook](https://about.gitlab.com/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
+[Account Ownership Rules of Engagement Handbook](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
 
 ### **Sales Territories**
 
-[Sales Territories](https://about.gitlab.com/handbook/sales/territories/)
+[Sales Territories](/handbook/sales/territories/)
 
 ### **Territory Success Planning (TSP)**
 
-TSP is an automated process workflow intended to properly segment & route Salesforce accounts to the correct Sales territory & respective owner. This clarifies who should own which accounts & reduces current Ops overhead to manage manually. TSP fields are designed to be real time reflections of the best data we have, not necessarily the current Go To Market approach. Requests to override the TSP information can also be submitted in the Account Review section of the account
+TSP is an automated process workflow intended to properly segment & route Salesforce accounts to the correct Sales territory & respective owner.
+This clarifies who should own which accounts & reduces current Ops overhead to manage manually.
+TSP fields are designed to be real time reflections of the best data we have, not necessarily the current Go To Market approach.
+Requests to override the TSP information can also be submitted in the Account Review section of the account.
 
 <details>
 <summary markdown='span'>Operators Guide: Territory Success Planning (TSP) </summary>
