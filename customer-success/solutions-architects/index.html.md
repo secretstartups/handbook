@@ -215,7 +215,7 @@ When a prospect or customer have required capabilities that do not map directly 
 If the SA is unable to determine an approach that works for the prospect, the next best action is to reach out to the Product Manager. To determine what Product Manager is appropriate, review the [Product Categories handbook page](https://about.gitlab.com/handbook/product/product-categories/).
 
 To be efficient as possible, this is the recommended approach:
-1) Document the use-case the prospect is trying to solve in an issue on their [Account Management Project](https://gitlab.com/gitlab-com/account-management). Include the customer business objectives, existing approach, and communication between the prospect (call recordings, emails, etc).
+1) **Document**: Document the use-case the prospect is trying to solve in an issue on their [Account Management Project](https://gitlab.com/gitlab-com/account-management). Include the customer business objectives, existing approach, and communication between the prospect (call recordings, emails, etc).
 
 2) If applicable, document the solutions or work-arounds that were explored with the customer and why that was not sufficient.
 
