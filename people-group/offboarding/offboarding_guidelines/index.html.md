@@ -9,7 +9,7 @@ title: "GitLab Offboarding Guidelines"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-The [People Experience Coordinator](/job-families/people-ops/people-experience-associate/#people-experience-coordinator) will assign the relevant offboarding to the People Experience Associate from within the offboarding tracker. Once assigned, the People Experience Associate creates the [offboarding issue](https://gitlab.com/gitlab-com/people-group/employment/-/blob/master/.gitlab/issue_templates/offboarding.md), immediately upon request by the People Business Partner team in the #offboarding Slack channel and completes all People Experience tasks within 24 hours. Many other teams work to deprovision access, this should be regarded as urgent and expected to be completed in 5 working days with the exception of [Laptop returns](/handbook/business-ops/it-ops-team/#returning-oldoffboarded-laptops), which can take 2 - 4 weeks.  
+The [People Experience Associate](/job-families/people-ops/people-experience-associate/) in the relevant [rotation](https://about.gitlab.com/handbook/people-group/people-experience-team/#weeklyrotation) will assign the offboarding team member to a People Experience Associate from within the offboarding [tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e7a2c42#gid=989170380). Once assigned, the assigned People Experience Associate creates the [offboarding issue](https://gitlab.com/gitlab-com/people-group/employment/-/blob/master/.gitlab/issue_templates/offboarding.md), within 12 hours of the offboarding date (may be sooner once the relevant Associate in the rotation is online) as is stipulated in the #offboarding Slack channel submitted by the People Business Partner. Many other teams work to deprovision access including the ITOps team, this should be regarded as urgent and expected to be completed in 5 working days with the exception of [Laptop returns](/handbook/business-ops/it-ops-team/#returning-oldoffboarded-laptops), which can take 2 - 4 weeks.  
 
 # Offboarding Issues
 
@@ -87,8 +87,8 @@ DO NOT delete any blog mentions.
 
 # Compliance 
 
-The People Experience Coordinator completes a weekly audit of all offboarding issues opened within that specific week and checks that all tasks have been completed by all Departments. In the event that tasks are still outstanding, the People Experience Coordinator will ping the relevant Departments within the offboarding issue to call for tasks to be completed. 
+The People Experience Associates in the relevant rotation will complete a weekly audit of all offboarding issues opened within that specific week and check that all tasks have been completed by all Team Member and/or Departments. In the event that tasks are still outstanding, the People Experience Associate will ping the relevant Departments within the offboarding issue to call for tasks to be completed. 
 
-Once all tasks have been completed, the People Experience Coordinator or Associate will close the offboarding issue and mark as completed in the offboarding tracker. 
+Once all tasks have been completed, the People Experience Associate will close the offboarding issue and mark as completed in the offboarding tracker. 
 
 All offboarding tasks by all Departments need to be completed within 5 days of the offboarding date. For systems that are more critical and time sensitive, these will be completed within the first 24 hours (example 1Password, Okta, Slack) by the relevant Departments. Information about application & system deprovisioners can be found on the [Tech Stack Applications handbook page](https://about.gitlab.com/handbook/business-ops/tech-stack-applications/).

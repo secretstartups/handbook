@@ -13,13 +13,13 @@ title: "GitLab Offboarding"
 
 The offboarding process execution is shared by the People Business Partners (PBPs), People Specialists, People Experience team, and Tech Stack Provisioners. 
 
-The People Experience team is responsible for creating the actual [offboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md) and executing on logistical tasks to remove access from certain systems and eliminate specific information in the handbook, etc. as outlined [here](https://about.gitlab.com/handbook/people-group/offboarding/offboarding_guidelines/), while the PBPs and People Specialists collaborate to work through the rest of the process.
+The People Experience team is responsible for creating the actual [offboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md) within 12 hours of the offboarding date (may be sooner once the team member in the rotation becomes available) and executing the logistical tasks to remove access from certain systems and eliminate specific information in the handbook, etc. as outlined [here](https://about.gitlab.com/handbook/people-group/offboarding/offboarding_guidelines/), while the PBPs and People Specialists collaborate to work through the rest of the process.
 
 ## Compliance
 
-The People Experience Coordinator completes a weekly audit of all offboarding issues opened within that specific week and checks that all tasks have been completed by all Departments. In the event that tasks are still outstanding, the People Experience Coordinator will ping the relevant Departments within the offboarding issue to call for tasks to be completed.
+The People Experience Associates complete a weekly audit of all offboarding issues opened within that specific week and check that all tasks have been completed by all Departments. In the event that tasks are still outstanding, the People Experience Associate will ping the relevant Team Members / Departments within the offboarding issue to call for tasks to be completed.
 
-Once all tasks have been completed, the People Experience Coordinator or Associate will close the offboarding issue and mark as completed in the offboarding tracker.
+Once all tasks have been completed, the People Experience Associate will close the offboarding issue and mark as completed in the offboarding tracker.
 
 All offboarding tasks by all Departments need to be completed within 5 days of the offboarding due date. For systems that are more critical and time sensitive, these will be completed within the first 24 hours (example 1Password, Okta, Slack) by the relevant Departments. Information about application & system deprovisioners can be found on the [Tech Stack Applications](https://about.gitlab.com/handbook/business-ops/tech-stack-applications/) handbook page.
 
