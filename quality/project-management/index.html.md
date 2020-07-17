@@ -36,21 +36,23 @@ For general information, please see the [engineering workflow page](https://abou
 * [GitLab (/qa)](https://gitlab.com/gitlab-org/gitlab/-/tree/master/qa)
   * Quality team members are code owners for this directory. If you are tagged by a developer and don't yet feel comfortable approving a merge request, please tag another member of the Quality department to help review.
   * In general, we expect that team members will generally feel comfortable and will be granted maintainer access once they have:
-    * Completed 5 merged MRs related to improvements to the framework.  
-    * Completed 10 merged MRs related to adding new end-to-end tests or making substantial improvements to existing ones.
+    * Authored and reviewed 3 MRs related to improvements to the framework.  
+    * Authored and reviewed 5 MRs related to adding new end-to-end tests or making substantial improvements to existing ones.
 * [GitLab-QA](https://gitlab.com/gitlab-org/gitlab-qa)
-  * Completed 5 merged MRs that demonstrate good understanding of the codebase.
+  * Authored and reviewed 5 merged MRs that demonstrate good understanding of the codebase.
+  * Reviewed 5 MRs that make substantial improvements.
 * [GitLab Triage](https://gitlab.com/gitlab-org/gitlab-triage/)
-  * Completed 10 merged MRs with all MRs reviewed by the Engineering Productivity team and resulting in no reverts.
+  * Completed 5 merged MRs with all MRs reviewed by the Engineering Productivity team and resulting in no reverts.
+  * Reviewed 5 MRs.
   * After completing the above requirement the maintainer should be vetted by an existing maintainer in the Engineering Productivity team. An issue should be created in the project outlining the reasons why this person should be a maintainer. List all 10 MRs in the issue to help aid with review.
   * After the issue has been reviewed and approved by manager of the Engineering Productivity team, an access request will be created to grant the engineer maintainer role.
 * [Triage Ops](https://gitlab.com/gitlab-org/quality/triage-ops/)
-  * Engineers who authored at least 10 merged MRs should be given Maintainer access.
+  * Engineers who authored and reviewed at least 10 merged MRs should be given Maintainer access.
 * [GitLab customer portal (/qa)](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/staging/qa/)
   * Quality Growth team members are code owners for this directory. If you are tagged by a developer and don't yet feel comfortable approving a merge request, please tag another member of the Quality Growth team to help review.
   * In general, we expect that team members will generally feel comfortable and will be granted maintainer access once they have:
-    * Completed 5 merged MRs related to improvements to the framework.  
-    * Completed 10 merged MRs related to adding new end-to-end tests or making substantial improvements to existing ones.
+    * Authored and reviewed 5 MRs related to improvements to the framework.  
+    * Authored and reviewed 10 MRs related to adding new end-to-end tests or making substantial improvements to existing ones.
 
 ## Project Management
 
