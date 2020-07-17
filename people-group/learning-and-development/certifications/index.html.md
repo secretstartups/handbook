@@ -151,7 +151,7 @@ Anyone can test their knowledge on {insert cert name here}. To obtain a certific
 1. In cell A2 of the first sheet, add the formula to pull from the original responses. For example, `=IMPORTRANGE("https://link-to-responsessheet.com", "Form Responses 1!A2:M10000")`. Copy & paste column headers from the original sheet.
 1. Make an MR to add the new tab name to the `sheets.yml` file under the [values_certificate name sheet](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/sheetload/sheets.yml#L111). [Example](https://gitlab.com/gitlab-data/analytics/-/merge_requests/2834/diffs#e66fb606d4d1df437ce4fe679e4431b6b90494c4_108_108)
 1. Run the `clone_raw` and `sheetload` pipeline jobs. 
-1. Assign the MR to the [Data Engineer supporting G&A](https://about.gitlab.com/handbook/business-ops/data-team/organization/#data-engineers) and cc the Data Analyst, People.
+1. Assign the MR to the [Data Engineer supporting People](https://about.gitlab.com/handbook/business-ops/data-team/organization/#data-engineers) and cc the Data Analyst, People.
 
 | Clone Raw Pipeline | Sheetload Pipeline |
 | ------ | ------ |
@@ -178,7 +178,7 @@ WITH source AS (
 where the line that begins with `FROM` is edited to reflect the name of the certificate, as is the line that begins with `{{cleanup_certificates`. The final line should include the email address column from the sheet exactly as is with spaces replaced as underscores. In other words if the column name is `"Email Address"`, it should be `"Email_Address"`. Remember to keep the quotes. 
 1. Update the [sheetload_certificates_unioned](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/models/sheetload/xf/sheetload_certificates_unioned.sql#L9) model with a new row that follows the existing convention. If the new model's name is `sheetload_compensation_certificate.sql` the new row should be `ref('sheetload_communication_certificate'),`, including the comma. Avoid editing the last row in the list for ease. 
 1. If this is a separate MR from Step 5, trigger the `specify_model` pipeline. If this is the same MR, trigger the `specify_raw_model` pipeline. At the next screen, on the Key include `DBT_MODELS` and the value is `+sheetload_certificates_unioned`.
-1. Assign the MR to the Data Engineer support G&A and cc the Data Analyst, People.
+1. Assign the MR to the Data Engineer support People and cc the Data Analyst, People.
 
 | Specify Model Pipeline | Specify Raw Model Pipeline |
 | ------ | ------ |
