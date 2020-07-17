@@ -691,25 +691,57 @@ While credit card processing fees are not allocated company wide, it is importan
 
 ###### Step 2: Red Process
 
-The allocation cycle for GitLab's SaaS offering [GitLab.com](https://gitlab.com) starts. The Finance Business Parter for R&D maintains an allocation model to provide Accounting with an allocation breakout of expenses as well as a P&L based on allocation. The model can be found by searching My Drive > GitLab.com Model. The allocation for GitLab.com is broken out into two different methods.
+The Finance Business Partner owns gross margin and is responsible for developing and maintaining the allocation methodology for GitLab’s SaaS offering, [GitLab.com](https://gitlab.com).  The Finance Business Partner for R&D maintains an allocation model to provide Accounting with an allocation breakout of expenses as well as a P&L based on allocation.  Our allocation policy is to align the expenses with 1) revenue for paying users and place in Cost of Revenue on our P&L, 2) internal usage and consumption for Research &Development, and 3) free user usage for Sales & Marketing.  The [GitLab.com Model](https://docs.google.com/spreadsheets/d/18lFcPMdtGsrcvZ3scutDUVC5ipVnO-2t8AiaXX7oz2Q/edit#gid=2025876977) can be broken out into three different sections Customer Support, Hosting Expense, and Infrastructure outlined below:
 
+#### *Customer Support*
 
-1. Free vs Paid Users
-   - Infrastructure
-   - 3rd Party Expenses [i.e. Hosting Services]
+Customer Support is only available to paid users in our product entitlements, however in some circumstances are required to support free users. The allocation should align customer support costs to the tiers receiving the services. The metric used to allocate the expense is Ticket Time to Resolution by Tier.  This data is sourced directly from Zendesk and represents the total time spent on tickets closed within the month.  In Zendesk, at the time of ticket submission, each support ticket is tagged based on the customer’s subscription level. This data is reviewed on a monthly basis by the support team to ensure it’s accuracy.
 
-1. Percentage of Revenue
-   - Customer Support
+It is possible that a support ticket may be tagged to a free user. There are three reasons for this: 1) Free users, who are not entitled to support, submit a ticket 2) a free user requires SaaS  administrative support 3) the customer’s subscription has expired and needs help with renewal or licensing. While the third scenario the user is tagged free, all tickets associated with licensing and renewals are reallocated out to the paid tiers.  
 
-- Allocation for Infrastructure and 3rd Party expenses are based off of usage from free, paid and internal users of GitLab.
-- Allocation of Customer Support are based off of expected revenue from GitLab's self hosted and SaaS offerings.
+#### *Hosting Expenses*
 
-These allocation breakouts will be documented in the GitLab.com model and will flow into the Post Allocation P&Ls. GitLab allocates these expenses to 3 Cost Centers
+The first part of the Hosting Expense allocation is Rackspace/GCP costs, representing the majority of total hosting costs.  GCP Costs are made up of the following drivers: object storage, repo storage, CI Compute, Other Compute, Networking, and Discounts.  These costs are mapped according to the SKU descriptions, updated monthly.
 
-1. Marketing - Free users
-1. R&D - Internal users
-1. Cost of Sales - Paid users
+**Object Storage**
 
+Object Storage is primarily used for container registry, artifacts, and uploads and is mapped, by tier, using both count of namespaces and Gigabytes (GBs) usage on a monthly basis.  GBs usage, total object storage costs are the usage drivers that are used to allocate the costs to paid, free, and internal users.
+
+__Repo Storage__
+
+Repo storage  is used for project, snippet, and wiki storage and is mapped, by tier, using both count of namespaces and Gigabytes (Gbs) usage on a monthly basis.  Gbs usage is the driver that is used to allocate costs to paid, free, and internal users.
+
+__CI Compute__
+
+The CI project within GCP is used for runner-management and all other individual runner jobs.  These costs are mapped, by tier, using both count of namespaces and minutes used on a monthly basis.  Count of CI minutes consumed,is the driver used to  allocate cost to paid, free, and internal users.
+
+__Other Compute & Networking__
+
+We currently do not have any metrics to track monthly usage for other compute costs and networking.  Costs are allocated based on the cost allocation of object storage.
+
+__Data__
+
+Data is obtained from the GCP billing portal and mapped by SKU into the cost categories (link to mapping tab).  The mapping is reviewed and updated on a monthly basis.  For redundancy, the data is also downloaded directly from GCP using BigQuery.  
+
+__GCP Discounts__
+
+Once the allocations are complete. Sustained Use, Committed Use, and Spending Based Discounts are allocated proportionally based on the allocations completed.  
+
+__Other Vendor Allocations__
+
+There are two types of ElasticSearch costs: logging and search clusters.  The search functionality is available only to paying customers so this is 100% allocated to Cost of Revenue.  Logging is treated as a marketing expense as we are gathering data to better serve customers, it is allocated to free users. 
+
+For all other vendors, allocations are based on the following criteria:
+
+**Internal:** Based on the proportion of GitLab headcount compared to gitlab.com Monthly Active Users
+
+**Paid:** Based on total paid users compared to total gitlab.com Monthly Active Users
+
+**Free:** Based on total free users compared to total gitlab.com Monthly Active Users
+
+#### *Infrastructure*
+
+The Infrastructure teams costs are allocated according to the final hosting expenses allocation.  Using the internal, free, and paid percentage allocation from hosting, the infrastructure team costs are allocated at the same weighting. 
 
 ###### Step 3: Blue Process
 
