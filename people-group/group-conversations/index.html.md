@@ -209,82 +209,9 @@ _Important: The DRI for the Group Conversation will also have hosting rights. Zo
 1. Slides with a lot of text that can be read on their own with lots of links are appreciated.
 1. GC DRIs are encouraged to add uploads to the [Group Conversations playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KpUeT6ozUTatC-JbNoJCC-e) within the GitLab Unfiltered YouTube channel. You may also use Google to [search for past Group Conversations](https://www.google.com/search?&hl=en-us&biw=1366&bih=921&tbm=vid&ei=HFzuXc7WLYO3ggeMxIG4BQ&q=gitlab+unfiltered+group+conversation&oq=gitlab+unfiltered+group+conversation&gs_l=psy-ab.3..33i160k1.23243.31186.0.31344.38.31.0.7.7.0.144.2401.25j5.30.0....0...1c..64.psy-ab..1.36.2340...0j0i8i30k1j0i30k1j33i299k1.0.45wyTBKz0bI). 
 
-
-## Template for the blog post
+## Template for a blog post
 
 For instructions on how to create a blog post, please see our [Blog Handbook](/handbook/marketing/blog/#create-a-new-post).
-
-Please copy the code block below and paste it into a blog post with the file name `yyyy-mm-dd-group-conversation.html.md`.
-
-```md
----
-title: "GitLab's Functional Group Updates - MMM DD-DD" # replace "MMM" with the current month, and "DD-DD" with the date range
-author: Name Surname
-author_gitlab: gitlab.com-username
-author_twitter: twitter-username
-categories: Functional Group Updates
-image_title: '/images/blogimages/functional-group-update-blog-cover.jpg'
-description: "The Functional Groups at GitLab give an update on what they've been working on"
----
-
-<!-- beginning of the intro - leave it as is -->
-
-Every day from Monday to Thursday, right before our [GitLab Company call](/handbook/#company-call), a different Group initiates a [conversation](/handbook/people-group/group-conversations/) with our team.
-
-The format of these calls is simple and short where attendees have access to the presentation content and presenters can either give a quick presentation or jump straight into the agenda and answering questions.
-
-<!-- more -->
-
-## Recordings
-
-All of the updates are recorded using [Zoom](https://zoom.us) at the time of the call. All the recordings will be uploaded to our YouTube account and made public, with the exception of the Sales and Finance updates.
-
-<!-- end of the intro -->
-
-<!-- beginning of the FG block - repeat as many times as necessary (copy and paste the entire block) -->
-
-----
-
-### XXX Team
-
-[Presentation slides](link-to-slides-deck)
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/8vJBc8MJihE" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-<!-- end of the FG block -->
-
-<!-- beginning of the FG block - repeat as many times as necessary (copy and paste the entire block) -->
-
-----
-
-### XXX Team
-
-[Presentation slides](link-to-slides-deck)
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/8vJBc8MJihE" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-<!-- end of the FG block -->
-
-----
-
-Questions? Leave a comment below or tweet [@GitLab](https://twitter.com/gitlab)! Would you like to join us? Check out our [job openings](/jobs/)!
-
-```
-
-Presentation - https://example.com [Input your presentation's URL and check if its set to view only for anyone with the link if using Google Slides]
-
-- After the video is done uploading, click "Video Manager" in the bottom right corner.
-- Edit the video to start when the meeting actually starts:
-  - Click **Edit** next to the video icon.
-  - Click the **Enhancements** tab on the top menu bar.
-  - Click **Trim** on the bottom right. Slide the left edge of the bar to a few moments before the presentation begins, and the right edge of the bar to a few moments after the presentation ends. Click **Done**.
-- Take a screenshot of the second slide of the presentation to make it as custom thumbnail for your video on YouTube. You can upload your custom thumbnail under the **Info and Settings** tab when you are editing a video.
-- After the video is finished being edited, change the security level back to "public".
-- Make sure to use correct format for [embedding videos from YouTube](/handbook/markdown-guide/#display-videos-from-youtube) into the blog post. Replace the video URL only.
 
 ## Schedule & DRI
 
