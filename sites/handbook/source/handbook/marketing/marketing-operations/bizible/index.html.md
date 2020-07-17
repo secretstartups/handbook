@@ -132,7 +132,7 @@ Below are some frequently used bizible reports in SFDC and their use cases.
 
 **Bizible report type used: Bizible person with Bizible touchpoints (Custom)**
 
-Below are step by step instructions on how to track registration by driving channel for zoom webcasts, where the registration is set up on about.gitlab or Marketo pages.
+Below are step-by-step instructions on how to track registration by driving channel for zoom webcasts, where the registration is set up on about.gitlab or Marketo pages.
 
 - Step 1: Click SFDC report tab.
 - Step 2: Create new report. In the search bar, type and select report type:`Bizible person with Bizible touchpoints (Custom)` and click `create`.
