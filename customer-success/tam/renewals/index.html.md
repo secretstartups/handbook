@@ -21,7 +21,16 @@ At the beginning of each month a TAM should review their list of accounts in Sal
 
 ## TAM Prioritization
 
-On the Gainsight Attributes section, the TAM can set the priority level per customer with levels 1-5, with 1 being the highest. This is used to categorize customers into different priority levels such as:
+On the Gainsight Attributes section, the TAM can set the priority level per customer with levels 1-5, with 1 being the highest. Reasons include:
+
+* Use in SALSATAM meetings to ensure team alignment
+* If everything is important, than nothing is important. TAMs and Managers have visibility into how much attention a particular client should or is receiving, and provide a talking point to discuss when/if things change
+* Managers have more visibility into the potential workload of the team member via more context on the makeup of the overall portfolio
+* TAMs have more insight into their portfolio and where they should be spending their time
+* TAMs can run associated campaigns of education to low touch or less engaged customers or strategic (high touch) customers to be automatically invited to Customer Advisory Boards or events
+* Used to further segmentat customers, beyond the [Sales Segmentation](/handbook/business-ops/resources/#segmentation)
+
+Criteria to apply includes:
 
 - Upcoming renewal(s)
 - Expansion opportunities
