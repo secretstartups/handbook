@@ -18,15 +18,13 @@ To use Unbabel effectively, please refer to the following when responding to tic
 
 ### Languages we support
 
-The following are the languages we support in tickets at this time:
+The languages we support in tickets at this time are listed [on the GitLab support page](/support/#language-support).
 
-- Chinese (Simplified)
-- German
-- Japanese
-- Korean
-- Portuguese
-- Spanish
+Within Unbabel
 
+- Chinese in our list of languages is Chinese (Simplified)
+- Portuguese includes Portuguese(BR) from the list.
+- Spanish includes Spanish Latin America from the list.
 
 ### Configuring Unbabel in Zendesk
 
