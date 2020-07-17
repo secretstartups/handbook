@@ -65,8 +65,21 @@ C.E.S. and Sales Operations Team only - please contact the Recruiting Operations
 ----
 ### System Processes
 
-#### DocuSign
-#### Greenhouse
+
+<details>
+  <summary markdown='span'>
+  DocuSign
+  </summary>
+
+TBA
+
+ </details>
+
+ <details>
+  <summary markdown='span'>
+  Greenhouse
+  </summary>
+
 * **Candidate Profile Merge Requests**
    * Consider the following when merging candidate/prospect profiles:
       * Ensure that the Source, Coordinator, and Recruiter listed in the Details tab remains the same.
@@ -82,6 +95,8 @@ C.E.S. and Sales Operations Team only - please contact the Recruiting Operations
        1. Restart the approval process by selecting `Request Approval`. Mark a Total Rewards approver as approved. Send a note to Finance to review the additional opening request. Be sure to cc the recruiter in that note.
 * **Referral Submissions**
     * [See how to process Referral Submissions in the handbook.](https://about.gitlab.com/handbook/hiring/referral-operations/#transferring-referral-submissions-to-greenhouse)
+
+ </details>
 
 ----
 ### Reporting
@@ -106,7 +121,10 @@ The *Monthly Metrics* are comprised of reports from both BambooHR and Greenhouse
   </summary>
 
 * **System**: Greenhouse
-* **Filters**: Job Status = All; Departments = All Departments; Check "Include Migrated Candidates"
+* **Filters**:
+    * Job Status = All
+    * Departments = All Departments
+    * Check *"Include Migrated Candidates"*
 * **Instructions**: Pull and export the report into the *Monthly Metrics* sheet. Filter the report to the desired month and **add** a column for `Time to Accept`. Using the `DATEDIF` function, calculate the *Applied On Date* to the *Accepted Date* measuring days.
 
 </details>
@@ -117,7 +135,11 @@ The *Monthly Metrics* are comprised of reports from both BambooHR and Greenhouse
   </summary>
 
 * **System**: Greenhouse
-* **Filters**: Job Status = All; Departments = All Departments; Activity Date = Custom Range (enter the desired month); Check "Include Migrated Candidates"
+* **Filters**: 
+    * Job Status = All
+    * Departments = All Departments
+    * Activity Date = Custom Range (Enter Desired Month)
+    * Check *"Include Migrated Candidates"*
 * **Instructions**: Pull and export the report into the *Monthly Metrics* sheet. Sort the report by `Offers Rejected`. For every recorded rejected offer, verify the reasoning by searching the `Requisition ID` in Greenhouse. Go to the `Candidates` tab, select all candidate statuses, then set Stage = Offer in the Jobs dropdown. Click into the profile to verify the reasoning for the rejected offer. If **no** reasoning is provided, or if clarification is needed, @-mention the responsible Recruiter.
 
 </details>
@@ -128,7 +150,13 @@ The *Monthly Metrics* are comprised of reports from both BambooHR and Greenhouse
   </summary>
 
 * **System**: Greenhouse
-* **Filters**: Rows = Stage; Job Status = All; Departments = All Departments; Group of Candidates = Candidates who applied during a specific date range; Application Date = Custom Range (enter the desired month); Check "Include Migrated Candidates"
+* **Filters**:
+    * Rows = Stage
+    * Job Status = All
+    * Departments = All Departments
+    * Group of Candidates = Candidates Who Applied During a Specific Date Range
+    * Application Date = Custom Range (Enter Desired Month)
+    * Check *"Include Migrated Candidates"*
 * **Instructions**: Pull and export the report into the *Monthly Metrics* sheet.
 
 </details>
@@ -139,8 +167,15 @@ The *Monthly Metrics* are comprised of reports from both BambooHR and Greenhouse
   </summary>
 
 * **System**: Greenhouse
-* **Filters**: Use Data From = Global Self-Identification Survey; Columns = Milestones; Job Status = All; Departments = All Departments; Group of Candidates = Candidates who applied during a specific date range; Application Date = Custom Range (enter the desired month); Check "Include Migrated Candidates"
-* Instructions: Pull and export the report into the *Monthly Metrics* sheet.
+* **Filters**:
+    * Use Data From = Global Self-Identification Survey
+    * Columns = Milestones
+    * Job Status = All
+    * Departments = All Departments
+    * Group of Candidates = Candidates Who Applied During a Specific Date Range
+    * Application Date = Custom Range (Enter Desired Month)
+    * Check *"Include Migrated Candidates"*
+* **Instructions**: Pull and export the report into the *Monthly Metrics* sheet.
 
 </details>
 
@@ -150,7 +185,12 @@ The *Monthly Metrics* are comprised of reports from both BambooHR and Greenhouse
   </summary>
 
 * **System**: Greenhouse
-* **Filters**: Rows = Department; Columns = Month; Job Status = All; Departments = All Departments; Date Applied  = Custom Range (enter the desired month)
+* **Filters**:
+    * Rows = Department
+    * Columns = Month
+    * Job Status = All
+    * Departments = All Departments
+    * Date Applied = Custom Range (Enter Desired Month)
 * **Instructions**: Pull and export the report into the *Monthly Metrics* sheet.
 
 </details>
@@ -171,7 +211,7 @@ The *Monthly Metrics* are comprised of reports from both BambooHR and Greenhouse
   </summary>
 
 * **System**: Sisense
-* **Dashboard**[GitLabbers by Org Structure](https://app.periscopedata.com/app/gitlab/512946/GitLabbers-by-Org-Structure)
+* **Dashboard**: [GitLabbers by Org Structure](https://app.periscopedata.com/app/gitlab/512946/GitLabbers-by-Org-Structure)
 
 </details>
 
@@ -187,7 +227,8 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
   </summary>
 
 * **System**: Greenhouse
-* **Filters**: Submitted Between = Custom Range (enter the desired month);
+* **Filters**:
+    * Submitted Between = Custom Range (Enter Desired Month)
 * **Instructions**: Pull and export the report into the *Greenhouse ISAT* sheet.
 
 </details>
@@ -197,7 +238,7 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
   CRM Metrics
   </summary>
 
-* **System*8: Greenhouse
+* **System**: Greenhouse
 * **Instructions**: Refresh the [Base] sheets, which are linked to Greenhouse via their *Google Sheets Connector*. Copy the data from the `[BASE] Prospect Conversion` and paste it into the `prospect_conversion_data` sheet, matching the existing columns. Filter the sheet by the `Converted to Candidate` column - remove "0" - then sort the sheet alphabetically by the `Prospect Pool` column. Combine all duplicates so that only aggregated pool information remains. Calculate the *Conversion Rate* (Converted to Candidate/Prospects in Pool/Stages) and use that information to update the `Historical Metrics` and `Pool Metrics` tabs. Secondly, copy the data from the `[Base] Prospecting Activity` sheet and paste that into the `prospecting_activity_data` sheet, matching the existing columns. Next, assign a *Role* to Recruiting Team Members **only** (e.g. *Recruiting Manager*, *Recruiter*, or *Sourcer*). Remove all "Blanks" from the `Role` column and calculate the *Conversion Rate (Converted to Candidate/Prospects Added). Reference that range when updating the chart on the `Historical Metrics` tab.
 
 </details>
@@ -208,7 +249,10 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
   </summary>
 
 * **System**: Greenhouse
-* **Filters**: Job Status = All; Departments = All Departments; Check "Include Migrated Candidates"
+* **Filters**:
+    * Job Status = All
+    * Departments = All Departments
+    * Check *"Include Migrated Candidates"*
 * **Instructions**: Pull and export the report into the *Applies to Offer Accepts* sheet. Filter the report to the desired month and **add** a column for `Time to Accept`. Using the `DATEDIF` function, calculate the *Applied On Date* to the *Accepted Date* measuring days.
 
 </details>
@@ -219,7 +263,12 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
   </summary>
 
 * **System**: Greenhouse
-* **Filters**: Job Status = Open; Status = Active; Departments = All Departments (select desired department if applicable); Stage = (select desired stage); Last Activity = (select desired date)
+* **Filters**:
+    * Job Status = Open
+    * Status = Active
+    * Departments = All Departments (or Select Desired Department(s))
+    * Stage = (Select Desired Stage)
+    * Last Activity = (Select Desired Date)
 * **Instructions**: Pull and export the report into the **Last 15 in [Stage]** sheet. Include links to candidate Greenhouse profiles and a column for *Location Factor*.
 
 </details>
@@ -230,7 +279,28 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
   </summary>
 
 * **System**: Greenhouse
-* **Instructions**:
+    * **Report**: Pipeline by Demographic
+    * **Filter**:
+        * Use Data From = Global Self-Identification Survey
+        * Columns = Milestones
+        * Job Status = All
+        * Departments = All Departments
+        * Group of Candidates = Candidates Who Applied During a Specific Date Range
+        * Application Date = Custom Range
+            * Enter > `2020-04-30`
+        * Check *"Include Migrated Candidates"*
+    * **Report**: All Candidates tab
+    * **Filters**:
+        * Candidates = All Jobs
+        * Candidate Status = All
+        * Reach Milestone = Assessment
+        * Job Post = Pending Submission
+        * Last Activity > `2020-04-30`
+    * **Instructions**: Pull the report within Greenhouse, export- and upload it to the *Global Self-Identification Survey Data* sheet. 
+* **System**: Sisense
+* **Dashboard**: [Recruiting Metrics Parul](https://app.periscopedata.com/app/gitlab/668158/WIP_Recruiting_Metrics_parul)
+    * `Screen` values only.
+* **Instructions**: Pull/refresh and import the aforementioned reports into the sheet. Update the charts to make sure they're tied to the correct ranges. The `Responses` field in the **Survey Responses** box will automatically refresh if the report is refreshed via the *Greenhouse Reports Connector* tool. The second report from Greenhouse will need to be manually imported and, when doing so, please be sure to delete the old tab and re-name the new one with the same name (i.e. `candidate_report`). Doing that will allow the `Survey Sends` field to automatically updated in the **Survey Sends** box. Reference the `Screen` values in the Sisense dashboard of as May 2020 and sum the values up to the current month. Enter that value in the `Hit Screening` field of each box; the corresponding percentage will automatically update. Lastly, update the appropriate cells in the `historical` tab and please be sure to refresh the range for the *Ethnicity Self-Identification Percentage* chart.
 
 </details>
 
@@ -259,7 +329,7 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
   Ad Hoc Report
   </summary>
 
-* [Report Request](https://gitlab.com/gl-recruiting/operations/-/issues/new?issuable=Report%20Request)
+For an Ad Hoc report, please [create an Issue](https://gitlab.com/gl-recruiting/operations/-/issues/new?issuable=Report%20Request) using the `Report Request` template.
 
 </details>
 
