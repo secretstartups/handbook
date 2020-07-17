@@ -117,6 +117,12 @@ GitLab Support targets a 95% SLA acheievement KPI. This means that some tickets 
 
 1. Post in [#support_managers](https://gitlab.slack.com/archives/CBVAE1L48) with a link to the issue and a short explanation of why it requires urgent attention. Please also keep in mind that issues in `internal-requests` have no SLA.
 
+##### Trials and Prospect Support
+
+[Trial licenses do not include support at any level.](https://about.gitlab.com/support/#trials-support) If you've been contacted by a prospect whose evaluation of GitLab includes evaluating support expertise or SLA performance, instruct them to use "Sales assisted trial" as the subscription level and include your name and email address when filling out the ticket form.
+
+Please note that prospects receive a 24 hour best effort "SLA".
+
 #### My customer is having trouble applying their GitLab.com subscription
 
 The customer has more than likely run into an issue during the purchase process or is unaware of how to apply their subscription to their group. The following documentation outlines how to subscribe to GitLab.com, link your GitLab.com account to the [Customers Portal](https://customers.gitlab.com), and apply that subscription to their group.
