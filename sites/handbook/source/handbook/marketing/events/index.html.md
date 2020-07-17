@@ -352,9 +352,8 @@ Sometimes, it becomes necessary to change the date of an offline event. Once the
 * Tag the MPM for the event in a comment to notify them that the date has changed.  
 
 If the change in the date is related to COVID-19, the **FMM** will: 
-* Keep the original line item in the budget as it stands - do not change any dates or remove any funding - complete the [COVID19 section](https://docs.google.com/spreadsheets/d/1QC6P0VRWwJheOlGB-9bX8JIF8_4UY3h1cGVT_gacv5M/edit#gid=1097873786&range=AC1) in your specific tab. 
-* If the new date is known, add a new line item for this new date 
-* If the new date is NOT known, do not update anything until you know the new date
+* Remove the line item from your region tab in the budget document. 
+* Complete the [COVID-19 Cancellations Tracker - FM Only](https://docs.google.com/spreadsheets/d/1QC6P0VRWwJheOlGB-9bX8JIF8_4UY3h1cGVT_gacv5M/edit#gid=1753355316&range=A1) - ONLY if we have made a payment against the cancelled event, as this is where Finance and Accounting will go to track the refunds we may need to account for.
 
 If the date changes after the MPM set up the issues, epic, and tracking for the event, the **MPM** must make the following updates:
 
@@ -441,7 +440,7 @@ Once the DRI has identified that an event is cancelled, the **FMM** will:
 * Update the event issue with [Cancelled] in the event title.
 * Tag the MPM and relevant internal contacts for the event in a comment to notify them that the date has changed.
 * Close the main Field/ Corporate Marketing event issue.
-* Keep the budget line item just as it was when you entered in the info. Do not remove any funding or delete out the date. If this cancellation is due to COVID19, then please fill out [those cells](https://docs.google.com/spreadsheets/d/1QC6P0VRWwJheOlGB-9bX8JIF8_4UY3h1cGVT_gacv5M/edit#gid=1097873786&range=AC1) in the budget.
+* Remove the event line item from the regional tab
    * FMM DRI will add requested refund info directly [into field budget document](https://docs.google.com/spreadsheets/d/1QC6P0VRWwJheOlGB-9bX8JIF8_4UY3h1cGVT_gacv5M/edit#gid=1753355316&range=A2). 
    * See [instructions](https://gitlab.com/gitlab-com/finance/-/issues/2287) on how to technically obtain a refund with finance. 
    * For Corporate Events please track cancellations refunds in [this doc](https://docs.google.com/spreadsheets/d/1WVWZjSF6f5jAFqHO4hXcV8mN975ITT4eXScSn0F_FU8/edit#gid=1109485360). Only add events where we will be getting money back from a vendor at this time. 
