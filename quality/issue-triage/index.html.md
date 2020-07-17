@@ -50,7 +50,7 @@ This label documents the planned timeline & urgency which is used to measure aga
 
 ## Severity
 
-Severity labels help us clearly communicate the impact of a `~bug` on users. There can be multiple facets of the impact. The below is a guideline.
+Severity labels help us clearly communicate the impact of a `~bug` on users. There can be multiple facets of a `~bug`. The below is a guideline. The presence of bug category labels `~availability `, `~performance`, `~security`, and `~UX` denotes to use the severity definition in that category.
 
 For GitLab.com Availability, please refer to the [Availability Prioritization](/handbook/engineering/performance/#availability) section in the handbook.
 
