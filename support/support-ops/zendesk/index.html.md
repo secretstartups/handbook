@@ -45,6 +45,13 @@ Currently, Zendesk views have some limitations:
 * Views cannot use criteria that is not "defined", meaning it must be selectable data (text fields will not work, as an example).
 * You can only display up to 8 personal views
 
+## Triggers
+
+Instead of managing these via Zendesk itself, we instead us the
+[Zendesk Triggers](https://gitlab.com/gitlab-com/support/support-ops/zendesk-triggers)
+GitLab project. This allows us to have version-controlled triggers. See the
+project for more details.
+
 ## FAQs
 
 ### What to do when Zendesk is not connecting at all?
