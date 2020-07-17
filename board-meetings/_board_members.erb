@@ -2,28 +2,28 @@
 <% data.team.select { | member | member.departments.include? 'Board' }.each_slice(4) do | slugA, slugB, slugC, slugD | %>
 <tr>
 <td>
-<%= "<img src=\"/images/team/" + slugA.picture.to_s[8..-5] + "-crop.jpg\">" if slugA %>
+<%= "<img src=\"/images/team/" + slugA.picture.to_s[0..-5] + "-crop.jpg\">" if slugA %>
 <br>
 <%= slugA.name if slugA %>
 <br>
 <%= slugA.twitter if slugA %>
 </td>
 <td>
-<%= "<img src=\"/images/team/" + slugB.picture.to_s[8..-5] + "-crop.jpg\">" if slugB %>
+<%= "<img src=\"/images/team/" + slugB.picture.to_s[0..-5] + "-crop.jpg\">" if slugB %>
 <br>
 <%= slugB.name if slugB %>
 <br>
 <%= slugB.twitter if slugB %>
 </td>
 <td>
-<%= "<img src=\"/images/team/" + slugC.picture.to_s[8..-5] + "-crop.jpg\">" if slugC %>
+<%= "<img src=\"/images/team/" + slugC.picture.to_s[0..-5] + "-crop.jpg\">" if slugC %>
 <br>
 <%= slugC.name if slugC %>
 <br>
 <%= slugC.twitter if slugC %>
 </td>
 <td>
-<%= "<img src=\"/images/team/" + slugD.picture.to_s[8..-5] + "-crop.jpg\">" if slugD %>
+<%= "<img src=\"/images/team/" + slugD.picture.to_s[0..-5] + "-crop.jpg\">" if slugD %>
 <br>
 <%= slugD.name if slugD %>
 <br>
