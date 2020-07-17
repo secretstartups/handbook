@@ -161,7 +161,7 @@ To search for recorded events in [GitLab Unfiltered via our YouTube Channel](htt
 * You can also click on the “[Videos](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/videos)” tab.
 * Sort by “Date Added (newest)” or “Date Added (oldest).”
 * Locate the recording you need.
-* You can also search recordings grouped in "[Playlists](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/playlists)" that are organized by functional groups and topics.
+* You can also search recordings grouped in "[Playlists](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/playlists)" that are organized by Departments, teams, or topics.
 
 ## Searching for changes using Git history and Git blame
 
