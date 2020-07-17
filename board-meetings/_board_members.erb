@@ -1,12 +1,12 @@
+<table>
 <% data.team.each do | slug| %>
 <% slug.departments.each do | department| %>
 <% next unless (department == "Board") %>
-<table>
-<% member_avatar = "<img src =/images/team/" + slug.picture + "> " %>
 <tr>
+<td><% member_avatar = "<img src =/images/team/" + slug.picture + "> " %></td>
 <td width = 300><%= slug.twitter %></td>
 <td><%= slug.name %><br><%= slug.story.to_s %><br></td>
 </tr>
+<% end %>
+<% end %>
 </table>
-<% end %>
-<% end %>
