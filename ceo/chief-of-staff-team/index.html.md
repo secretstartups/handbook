@@ -159,12 +159,6 @@ It's [3-days long](/handbook/ceo/offsite/#schedule) with an All-Directs the foll
 There are [recurring content discussions](/handbook/ceo/offsite/#recurring-discussion-topics).
 Here is feedback on the last [offsite all-directs meeting](https://gitlab.com/gitlab-com/cos-team/-/issues/18).
 
-## Board meetings
-
-The CoS runs the [Board Meeting Process](/handbook/board-meetings/#board-meeting-process).
-It's useful to note the [next meetings timeline](/handbook/board-meetings/#next-meetings-timeline).
-The CEO has a [video and a memo](/handbook/board-meetings/#ceo-video-and-memo) that the CoS prepares.
-
 ## CEO Performance Evaluation
 
 Every spring the Board does a CEO Evaluation, through which a number of areas for focus come up.
