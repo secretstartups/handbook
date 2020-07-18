@@ -107,8 +107,8 @@ We work from the bottom up in agendas, unless told to prioritize otherwise.
 
 The Chief of Staff plays a key role in support Board Meetings.
 
-The Board Meetings page is the single source of truth for information on the Board, but some of the responsibilities of the Chief of staff include:
-As per the [timeline](/handbook/board-meetings/#timeline):
+The Board Meetings page is the single source of truth for information on the Board, but some of the responsibilities of the Chief of staff include, as per the [timeline](/handbook/board-meetings/#timeline):
+
 1. reaching out before the meeting to collect questions from the board members.
 1. sending reminders, preparing the agenda and chairing the meeting.
 1. sends a reminder to the e-group two weeks in advance of the meeting.
