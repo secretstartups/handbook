@@ -127,14 +127,13 @@ We use a handbook page for each quarter.
 The CEO's Objectives every quarter map to the [sequence](/company/strategy/#sequence) of our [strategy](/company/strategy/#strategy).
 The CEO's KRs are what we're measuring for the company for that quarter.
 
-OKR improvement points are in this issue: https://gitlab.com/gitlab-com/cos-team/-/issues/9
-
 ## KPIs
 
-While OKRs are [what's changing](/company/okrs/#okrs-are-what-is-different) every quarter- what we're focused on moving (improving, being more efficient, etc.), [KPIs](/handbook/ceo/kpis/) are how we're consistently measuring how we're doing as an organization.
+While OKRs are [what's changing](/company/okrs/#okrs-are-what-is-different) every quarter, what we're focused on moving (improving, being more efficient, etc.), [KPIs](/handbook/ceo/kpis/) are how we're consistently measuring how we're doing as an organization.
 KPIs occur at multiple [layers](/handbook/ceo/kpis/#layers-of-kpis) and have [multiple parts](/handbook/ceo/kpis/#parts-of-a-kpi).
 The data team maintains [a list of GitLab KPIs and links to where they are defined](/handbook/business-ops/data-team/kpi-index/).
-There is a process for [updating the list](/handbook/business-ops/data-team/kpi-index/#updating) by adding, removing, or changing a KPI.
+There is a process for [updating the list](/handbook/business-ops/data-team/kpi-index/#updating-an-existing-kpi) by adding, removing, or changing a KPI.
+
 
 ## General Group Conversation
 
