@@ -285,14 +285,14 @@ We understand that our customers have non-developer use cases. Please [contact o
      
      The pros with the accumulative approach are:
      1. It makes more logical sense. 
-     1. It is more fair as customers will have more minutes as they sign up more users.
+     1. It is more fair as customers will have more minutes and storage as they sign up more users.
      1. It is aligned with our tier pricing metric.
      1. It incentivizes more users per namespace of which we know it drives conversion.
      1. It drives free users to more quickly buy consumption and convert them into customers.
     
      The pros with the non-cumulative approach are:
      1. It seems that per namespace is easier to communicate.
-     1. Customers don't need to do calculations on how many minutes they are getting in total when signing on contracts, renewals, adding users, etc. as long as they stay under the total it is a predictable bill.
+     1. Customers don't need to do calculations on the total minutes and storage they are getting when signing on contracts, renewals, adding users, etc. as long as they stay under the total it is a predictable bill.
      1. It is simpler to implement, and we already have it.
      1. The allotment with the plan is to get people started, not for serious consumption, that you can buy separately.
      1. It looks like a bigger number of minutes and storage.
