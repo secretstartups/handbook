@@ -42,8 +42,8 @@ Format for 25 minute Leadership Forum session:
 Leadership Forum Schedule:
 
 *Forum 1*
-* Participants: [S-Group](/handbook/leadership/#s-group)
-* Guide: [E-Group](/handbook/leadership/#e-group) member
+* Participants: [S-Group](/company/team/structure/#s-group)
+* Guide: [E-Group](/company/team/structure/#e-group) member
 * Date: Q1 2020
 * Topic: Setting clear job expectations to avoid [confusion about the expected output of each role](/handbook/leadership/biggest-risks/#confusion-about-the-expected-output).
 * Prework: Prior to attending this forum, participants should familiarize themselves with the [confusion about the expected output](/handbook/leadership/biggest-risks/#confusion-about-the-expected-output) section of the handbook and then complete the online [test](https://forms.gle/sMFVXziKkHNLVDeS8).
