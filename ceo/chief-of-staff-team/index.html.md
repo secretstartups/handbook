@@ -107,8 +107,8 @@ We work from the bottom up in agendas, unless told to prioritize otherwise.
 
 The Chief of Staff plays a key role in support Board Meetings.
 
-The Board Meetings page is the single source of truth for information on the Board, but some of the responsibilities of the Chief of staff include:
-As per the [timeline](/handbook/board-meetings/#timeline):
+The Board Meetings page is the single source of truth for information on the Board, but some of the responsibilities of the Chief of staff include, as per the [timeline](/handbook/board-meetings/#timeline):
+
 1. reaching out before the meeting to collect questions from the board members.
 1. sending reminders, preparing the agenda and chairing the meeting.
 1. sends a reminder to the e-group two weeks in advance of the meeting.
@@ -127,14 +127,13 @@ We use a handbook page for each quarter.
 The CEO's Objectives every quarter map to the [sequence](/company/strategy/#sequence) of our [strategy](/company/strategy/#strategy).
 The CEO's KRs are what we're measuring for the company for that quarter.
 
-OKR improvement points are in this issue: https://gitlab.com/gitlab-com/cos-team/-/issues/9
-
 ## KPIs
 
-While OKRs are [what's changing](/company/okrs/#okrs-are-what-is-different) every quarter- what we're focused on moving (improving, being more efficient, etc.), [KPIs](/handbook/ceo/kpis/) are how we're consistently measuring how we're doing as an organization.
+While OKRs are [what's changing](/company/okrs/#okrs-are-what-is-different) every quarter, what we're focused on moving (improving, being more efficient, etc.), [KPIs](/handbook/ceo/kpis/) are how we're consistently measuring how we're doing as an organization.
 KPIs occur at multiple [layers](/handbook/ceo/kpis/#layers-of-kpis) and have [multiple parts](/handbook/ceo/kpis/#parts-of-a-kpi).
 The data team maintains [a list of GitLab KPIs and links to where they are defined](/handbook/business-ops/data-team/kpi-index/).
-There is a process for [updating the list](/handbook/business-ops/data-team/kpi-index/#updating) by adding, removing, or changing a KPI.
+There is a process for [updating the list](/handbook/business-ops/data-team/kpi-index/#updating-an-existing-kpi) by adding, removing, or changing a KPI.
+
 
 ## General Group Conversation
 
@@ -159,12 +158,6 @@ It's [3-days long](/handbook/ceo/offsite/#schedule) with an All-Directs the foll
 [There is a book](/handbook/ceo/offsite/#book-choice).
 There are [recurring content discussions](/handbook/ceo/offsite/#recurring-discussion-topics).
 Here is feedback on the last [offsite all-directs meeting](https://gitlab.com/gitlab-com/cos-team/-/issues/18).
-
-## Board meetings
-
-The CoS runs the [Board Meeting Process](/handbook/board-meetings/#board-meeting-process).
-It's useful to note the [next meetings timeline](/handbook/board-meetings/#next-meetings-timeline).
-The CEO has a [video and a memo](/handbook/board-meetings/#ceo-video-and-memo) that the CoS prepares.
 
 ## CEO Performance Evaluation
 
