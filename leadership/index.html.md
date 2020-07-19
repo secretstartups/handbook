@@ -33,24 +33,6 @@ defined on our [team structure page](/company/team/structure/).
 1. Saying something to the effect of "as you might have heard", "unless you've been living in a cage you know", "as everyone knows", or "as you might know" is toxic. The people that know don't need it to be said. The people that don't know feel like they missed something and might be afraid to ask about the context.
 1. [Don't use someone else's name](https://twitter.com/emiliejayg/status/1198731054162432000?s=12), remind people of your title, or otherwise ["pull rank"](/handbook/values/#dont-pull-rank) to get things done.
 
-## Groups
-
-A group is any arrangement of people that is not reflected directly in our [org structure](/company/team/structure/).
-
-## Management group
-
-
-## Director group
-
-
-## S-group
-
-These are the [senior leaders](/company/team/structure/#senior-leaders).
-
-## E-group
-
-These are the [executives](/company/team/structure/#executives).
-
 
 ## Interim and Acting Leadership
 In some cases, a individual in the [Management group](#management-group), [Director group](#director-group), [S-group](#s-group), or even [E-group](#e-group) may have an "Interim" or "Acting" title.
@@ -210,7 +192,7 @@ Managers have an tremendous responsibility around recruiting and [retention](/ha
 
 ## Building High Performing Teams
 
-Building a team to deliver [results](https://about.gitlab.com/handbook/values/#results) is a very important aspect of improving [efficiency](https://about.gitlab.com/handbook/values/#efficiency) and [iteration](https://about.gitlab.com/handbook/values/#iteration). A high-performing team will always deliver results. As a leader at GitLab, your role is to develop a high-performing team to reach the desired level of performance and productivity. There are certain traits that high-performing teams display at GitLab: 
+Building a team to deliver [results](https://about.gitlab.com/handbook/values/#results) is a very important aspect of improving [efficiency](https://about.gitlab.com/handbook/values/#efficiency) and [iteration](https://about.gitlab.com/handbook/values/#iteration). A high-performing team will always deliver results. As a leader at GitLab, your role is to develop a high-performing team to reach the desired level of performance and productivity. There are certain traits that high-performing teams display at GitLab:
 
 - Have a clear vision of their objectives and goals
 - Stay committed to achieving their goals
@@ -227,20 +209,20 @@ Building a team to deliver [results](https://about.gitlab.com/handbook/values/#r
 
 ### Strategies to Build High Performing Teams
 
-The [Drexler-Sibbet Team Performance Model](https://www.kaizenko.com/drexler-sibbet-team-performance-model/) is an excellent tool to help build high performing teams at GitLab. The model provides a roadmap for a team and a common language. It is a simplified description of how a team works together that highlights the most important things the team needs to focus on to reach high performance. At GitLab, we can use it as a frame of reference to developing high performing teams. It can help Managers ensure new and existing team members know the mission and direction of the team by the following: 
+The [Drexler-Sibbet Team Performance Model](https://www.kaizenko.com/drexler-sibbet-team-performance-model/) is an excellent tool to help build high performing teams at GitLab. The model provides a roadmap for a team and a common language. It is a simplified description of how a team works together that highlights the most important things the team needs to focus on to reach high performance. At GitLab, we can use it as a frame of reference to developing high performing teams. It can help Managers ensure new and existing team members know the mission and direction of the team by the following:
 - To form your team
 - To guide what your team does
 - To monitor how well your team is doing
 - to diagnose where your team may be struggling or identify the keys to your team's success
 
 **7 Stages to developing high performing teams:**
-1. Orientation - Why are we here? Team members need to see a sense of team identity and how individual team members fit in. 
-2. Trust Building - Who are you? Team members share mutual regard for each other and are open and supportive of trust-based relationships. 
-3. Goal Clarification - What are we doing? Assumptions are made clear; individual assumptions are made known with a clear vision of the end state. 
-4. Commitment - How will we do it? Team members understand how it will make decisions and do the work. 
+1. Orientation - Why are we here? Team members need to see a sense of team identity and how individual team members fit in.
+2. Trust Building - Who are you? Team members share mutual regard for each other and are open and supportive of trust-based relationships.
+3. Goal Clarification - What are we doing? Assumptions are made clear; individual assumptions are made known with a clear vision of the end state.
+4. Commitment - How will we do it? Team members understand how it will make decisions and do the work.
 5. Implementation - Who does what, when, where? Team members have a sense of clarity and can operate effectively due to the alignment of shared goals.
-6. High Performance - Wow! The team is accomplishing more than it expected. The team has taken off, creativity is fostered and goals are surpassed. 
-7. Renewal - Why continue? The team is given recognition and celebrates achievements of individuals that produce valuable work. Reflect on lessons learned and reassess for the future. 
+6. High Performance - Wow! The team is accomplishing more than it expected. The team has taken off, creativity is fostered and goals are surpassed.
+7. Renewal - Why continue? The team is given recognition and celebrates achievements of individuals that produce valuable work. Reflect on lessons learned and reassess for the future.
 
 
 ## Articles

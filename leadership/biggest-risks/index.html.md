@@ -31,7 +31,7 @@ To ensure the people we hire make the company better, we:
 1. Ensure that interviewers are scoring candidates consistently. [Some teams are actively doing this](/handbook/engineering/frontend/interview-metrics/)
 1. Review the interview scores of new hires to look for trends
 1. [Identify and take action on underperformance](/handbook/underperformance)
-1. (make this unneeded) Have the CPO and CEO sample new hires and review [manager](/handbook/leadership/#management-group), [staff engineer](/job-families/engineering/backend-engineer/), [principal product manager](/job-families/product/product-manager/) and up hires
+1. (make this unneeded) Have the CPO and CEO sample new hires and review [manager](/company/team/structure/#management-group), [staff engineer](/job-families/engineering/backend-engineer/), [principal product manager](/job-families/product/product-manager/) and up hires
 1. Compare the external title with the new title being given
 1. Conduct bar raiser interviews
 1. Review cohort performance in the company (completion of onboarding tasks, bonuses, performance review, 360 feedback, performance indicators)
@@ -236,7 +236,7 @@ Also, see the [fork and commoditize](#fork-and-commoditize) move that is availab
 Often startups struggle through the transition when founders leave the company, especially when those founders also serve as the CEO.
 
 To ensure we avoid this risk we:
-1. Built a highly capable [E-Group](/handbook/leadership/#e-group) and [Board of Directors](/handbook/board-meetings/)
+1. Built a highly capable [E-Group](/company/team/structure/#e-group) and [Board of Directors](/handbook/board-meetings/)
 1. Actively discourage a cult of personality around our CEO
 1. Have the CEO take normal vacations
 1. Actively help the CEO grow with the company, including training, coaching, and feedback
@@ -252,7 +252,7 @@ If we work handbook second, we risk losing these benefits.
 
 To ensure we avoid this risk, we:
 1. Ensure all new hires read and understand the [communication guidelines](/handbook/communication/), as part of their [onboarding](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding.md)
-1. Make the ability to coach team members to work handbook first a requirement for promotion to [Director or above](/handbook/leadership/#director-group)
+1. Make the ability to coach team members to work handbook first a requirement for promotion to [Director or above](/company/team/structure/#director-group)
 1. Explicitly ask CEO Shadows to [promote working handbook first](/handbook/ceo/shadow/#promote-communication-best-practices)
 1. Empower all team members to help promote our [communication guidelines](/handbook/communication/)
 
