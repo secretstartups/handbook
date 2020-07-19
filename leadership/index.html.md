@@ -382,7 +382,7 @@ When you give leadership training please [screenshare the handbook instead of cr
 ## People Group
 
 Feel free to reach out to anyone in the People Group for further support on leadership development topics. You can find us on the [team page](/company/team/), search for `People Operations`. The team may also be reached in the `#peopleops` chat channel.
-
+ 
 ## Being a public company
 
 Learn more on GitLab's view of [being a public company](/handbook/being-a-public-company/).
