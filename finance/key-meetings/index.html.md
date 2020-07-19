@@ -43,7 +43,7 @@ The inability to consolidate Monthly Key Meetings *should never block its schedu
 ## Invitees
 
 Required invites are the CEO, the CFO, and the function head.
-Optional attendees are all other members of [the e-group](/handbook/leadership/#e-group).
+Optional attendees are all other members of [the e-group](/company/team/structure/#e-group).
 The meetings are open to all team members who are interested.
 The meetings are also to be livestreamed to GitLab Unfiltered.
 Functions that have these meetings are:
