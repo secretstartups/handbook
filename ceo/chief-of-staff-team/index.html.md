@@ -214,27 +214,6 @@ There is no pressure to respond to Geekbot as soon as it messages you.
 When Geekbot asks, "What will you do today?" try answering with specific details.
 Give responses to Geekbot that truly communicate to your team what you're working on that day, so that your team can help you understand if some priority has shifted or there is additional context you may need.
 
-## Performance Indicators
-
-<iframe class="dashboard-embed" src="https://app.periscopedata.com/shared/bcfef667-7d2b-45d7-9638-a23e196e2067?embed=true" height="1200"> </iframe>
-
-### Throughput
-
-Thoughput for the CoS team is measured as all MRs in [across GitLab Company namespaces](https://gitlab.com/gitlab-data/analytics/tree/master/transform/snowflake-dbt/macros#get-internal-parent-namespaces) divided by the number of team members.
-
-### Executive Time for the CEO
-
-Executive Time is measured through the CEO calendar. [Sid's Calendar Export](https://docs.google.com/spreadsheets/d/1xVaH7zrY8MIwI2TbZrcQnc8yepuHFFk87Ga7KZTB28o/edit?usp=drive_web&ouid=113483692538021736976) is a private google sheet built of a google apps script.
-The script is triggered to download all of the Calendar data every time it is run.
-The `filtered_columns` tab on this sheet pulls only the relevant columns for analyses.
-This tab is then pulled by [SheetLoad](/handbook/business-ops/data-team/platform/#using-sheetload) into the SheetLoad drive and then ingested into [Snowflake](/handbook/business-ops/data-team/#-data-warehouse).
-Events [are categorized based on the event name and sender](https://gitlab.com/gitlab-data/analytics/blob/master/transform/snowflake-dbt/models/sheetload/base/sheetload_calendar.sql#L20), as outlined by the [EBA team best practices](/handbook/eba/#eba-team-best-practices).
-All personal events are filtered out.
-Those categories are applied to our [OKRs](/company/okrs/).
-Every event only gets one category.
-This is hard since some events may arguably fall into multiple.
-For example, a 1:1 with a CRO could go towards IACV, but since it's a 1:1 it goes towards Great Team, like all 1:1s.
-
 ## Chief of Staff Shadow
 The Chief of Staff may occasionally have a Chief of Staff Shadow, a GitLab team member who will participate in a specific project or initiative for a fixed period of time. Shadow responsibilities could include: taking notes, providing feedback, and/or supporting the overall initiative success. This role would be in addition to any existing responsibilities at GitLab. Participants would opt in to experience another function within GitLab and contribute to a different part of the business. Since participation would be in addition to an existing workload, managers must sign off before a CoS Shadow can participate. Interested team members can share their interest with the Chief of Staff.
 
