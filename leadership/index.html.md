@@ -39,84 +39,18 @@ A group is any arrangement of people that is not reflected directly in our [org 
 
 ## Management group
 
-Members of the management group are expected to demonstrate leadership in the way all [GitLab team members are](/handbook/leadership/#gitlab-team-members), plus:
-
-1. Ensuring team members feel included and valued is one of the most important tasks of a manager. Proactively create psychological safety with your team members so that diverse perspectives can be heard and everyone can communicate and contribute authentically and creatively.
-1. Ensuring team members understand what is expected of them in their roles is a critical role that managers have to ensure company success. Managers should ensure job families include specific [performance indicators](/handbook/hiring/job-families/#why-job-families-have-performance-indicators) and that is clearly communicated to each team member.
-1. [Managing underperformance](/handbook/underperformance) is another important task of a manager.
-1. When times are great, be a voice of moderation. When times are bad, be a voice of hope. In order to effectively be the voice of hope, managers should make sure they understand the company mission, goals, and leadership decisions. If managers have concerns about leadership decisions, they should voice them to leaders in order to understand the context, share key insights from their team members to ensure we make sound decisions, and then be able to explain context to their team members.
-1. To maintain an effective organization, a manager's span of control should be around 7 people, ranging anywhere from 4 to 10. Below this range the inefficiency of an extra organizational layer is larger than the benefit of a specialized group. Above this range, the manager doesn't have time to do proper 1:1s anymore.
-1. The span of control is the same at every level of the organization. This prevents the organization from having an additional layer that adds cost and reduces decision making speed. To increase the number of reports you can handle increase delegation to the [directly responsible individual](/handbook/people-group/directly-responsible-individuals/) who can be a manager. Size the number of reports on where you expect the organization to be in 6 months from now.
-1. When you praise someone, try to do it [publicly and in front of an audience](/handbook/communication/#say-thanks). When you give suggestions to improve, do it privately [1 on 1](/handbook/leadership/1-1/). A [Harvard study](https://hbr.org/2013/03/the-ideal-praise-to-criticism) has shown that the ideal ratio of positive to negative feedback for high-performing teams is nearly 6:1. Be generous with your positive feedback. 
-1. Express gratitude in team meetings, group conversations, and other communications to people who constructively challenge your opinions and ask difficult questions. This helps create psychological safety, promote our values, and prevent [the five dysfunctions](/handbook/values/#five-dysfunctions).
-1. Understand that there are different ways to get to the same goal. There are different perspectives, and discussions need to happen.
-1. When someone says they are considering quitting, drop everything and listen to them. Ask questions to find out what their concerns are. If you delay, the person will not feel valued and the decision will be irreversible.
-1. In addition to announcing new team member arrivals, departures are also announced in the `#team-member-updates` chat channel (but only after the Google/Slack accounts are revoked, see the [offboarding page](/handbook/people-group/offboarding/) and the [offboarding checklist](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/offboarding.md) for details). We must respect the privacy of the individual concerned. If you are asked why someone has left or is leaving, please refer that person to the [general guidelines](/handbook/communication/#not-public) section of the handbook where we describe what can and cannot be shared.
-1. People should not be given a raise or a title because they ask for it or threaten to quit. We should pro-actively give raises and promote people without people asking. If you do it when people ask, you are being unfair to people that don't ask and you'll end up with many more people asking.
-1. Don't refer to GitLab [as a family](https://hbr.org/2014/06/your-company-is-not-a-family). It is great that our team feels like a close-knit group and we should encourage that, as this builds a stronger team. But _families_ and _teams_ are different. _Families_ come together for the relationship and do what is critical to retain it. _Teams_ are assembled for the task and do what is required to complete it. Don't put the relationship above the task. Besides, families don't have an [offboarding process](/handbook/people-group/offboarding/). Families should have unconditional love, while teams have conditional love. [The best companies are supporters of families.](https://twitter.com/myriadwill/status/917772249624702976). The idea that your team is your family can lead to unwarranted pressure: ["this office is like a family... in that there is vague pressure to be here on holidays"](https://twitter.com/emilieschario/status/1182454709925416961)
-1. Praise and credit the work of your reports to the rest of the company, never present it as your own. This and many other great lessons can be found in an [Ask MetaFilter thread](http://ask.metafilter.com/300002/My-best-manager-did-this) worth reading.
-1. Try to be aware of your [cognitive biases](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18).
-1. Combine [consistency and agility](https://hbr.org/2017/01/the-best-strategic-leaders-balance-agility-and-consistency).
-1. Consider maintaining a [README](/handbook/engineering/readmes/eric-johnson/) file for your teams which documents your expectations and working style. Encourage MRs to it.
-1. Although our time scales are shorter, there is a great article about [how to think about PIPs](https://mfbt.ca/how-i-talk-to-leaders-about-firing-people-8149dfcb035b).
-1. Do everything to unblock people. If someone has a question that is keeping them from being productive, try to answer the question yourself or find someone who can.
-1. Communicate in a [professional manner](/company/culture/all-remote/effective-communication/) as though your words will be shared widely (e.g. published in a newspaper).
-1. Employ [multimodal communication](/handbook/communication/#multimodal-communication) to broadcast important decisions.
-1. You are expected to [respond on social media](/handbook/marketing/social-media-guidelines/). If you have questions, please seek counsel in the `#social_media` chat channel.
-1. Make sure your reports experience a [sense of progress](http://tomtunguz.com/progress-principle/) in their work.
-1. A tweet by [Sam Altman](https://twitter.com/sama/status/804138512878473220) combined with a reply by [Paul Graham](https://twitter.com/paulg/status/804209365305659392) says it best: "People either get shit done or they don't. And it's easy to be tricked because they can be smart but never actually do anything." Watch for results instead of articulate answers to questions, otherwise you'll take too much time identifying under-performers.
-1. [GitLab Contribute](/company/culture/contribute/) (formerly GitLab summits) is meant for [informal communication](/company/culture/all-remote/informal-communication/) and [bonding](/company/culture/all-remote/in-person/) across the company. There is a limited time for business activities during GitLab Contribute so all our regular meetings should happen outside of it. We want informal, cross team, and open-ended meetings that include individual contributors. For example, inviting everyone to suggest currently missing functionality in GitLab.
-1. Never delay a decision until GitLab Contribute. Instead, use them as a deadline to get things done earlier.
-1. We don't have explicit 20% time at GitLab. We measure [results and not hours](/handbook/values/#measure-results-not-hours). If people are getting good results in the work that is assigned to them they are free to contribute to other parts of the company or work on a pet project. Don't say, "Your work on that pet project is hurting your performance." Instead, say, "We agreed to get X done but it is delayed, what happened and how can I help?"
-1. Pick a metric before launching something new. 9 out of 10 launches fail. If a project is not working out shut it down completely. Starving a team of headcount to have it die a slow death is not frugal nor motivating. Fund the winners which will still take years to break even.
-1. Do not discuss raises in advance because the salary calculator may change before the amount of the raise is decided.
-2. Do not discuss promotions, salary increases, or bonuses until the changes have gone through the entire approval process. People Ops will inform the manager when they can inform the team member of the promotion and increase.
-1. Instead of prescribing a direction to your reports, it is best to ask questions following the [Socratic method](https://en.wikipedia.org/wiki/Socratic_method) until you're happy with the direction. Your reports will have deeper knowledge in a more narrow area, so it is easy to draw different conclusions because they base theirs on different data. That is why the questions are so important.
-1. Follow [Berkshire's common injunction](https://www.hb.org/the-psychology-of-human-misjudgment-by-charles-t-munger/): "Always tell us the bad news promptly. It is only the good news that can wait." Make sure to inform your manager of bad news as quickly as possible. Promptly reporting bad news is essential to preserving the trust that is needed to recover from it.
-1. Try to avoid military analogies and imagery. We're not an army, we're not at war, there is no battle, we're not killing anyone, and we don't have weapons. Military language is [not inclusive](https://www.london.edu/faculty-and-research/lbsr/killing-the-competition) and can lead to zero sum thinking. We take competing and winning very seriously, but there is no need to describe things using vocabulary of physical violence. Similarly, non-collaborative and aggressive terms like "rockstar" and "badass" put up walls between people. If a term is standard in the industry, for example [killing a Unix process](https://shapeshed.com/unix-kill/#how-to-kill-a-process), it is acceptable to use it because that is more efficient. Do use "primary-secondary" instead of "master-slave" for replication mechanisms.
-1. Complain up and explain down. Raise concerns you hear to your manager. When peers or reports complain, explain why a decision was made. If you don't understand why, ask your manager.
-1. Create empathy for decisions from other leaders that negatively impact your team by explaining the reasons behind them. Organize a recorded AMA session with your team and the other leaders and encourage your team (as well as yourself) to ask any unanswered questions. Lead by example by ensuring that the discussion exposes what is [best for the organization as a whole](/handbook/values/#global-optimization). Never present yourself as protecting the team from the rest of the organization; this creates a [siege mentality](https://en.wikipedia.org/wiki/Siege_mentality) and hinders [collaboration](/handbook/values/#collaboration).
-1. Coach team members to establish good [remote work practices](/company/culture/all-remote/), by encouraging [asynchronous communication](/company/culture/all-remote/management/#asynchronous), being [handbook-first](/handbook/handbook-usage/#why-handbook-first), communicating poor audio or [video quality](/blog/2019/08/05/tips-for-mastering-video-calls/), or pointing out an open microphone.
-
 
 ## Director group
 
-Members of the director group are expected to demonstrate leadership in the way all members of the [management group](/handbook/leadership/#management-group) are, plus:
-
-1. They have the ability to align the day-to-day execution to the top objectives of the company, and they are responsible for making sure the top objectives are well communicated to team members.
-1. They work peer-to-peer and sponsor healthy conflict amongst the team to resolve issues quickly, escalating only when all options are exhausted.
-1. They ambitiously define roles for, grow and hire their teams for what is needed from the business in the next 3-4 years.
-1. They coach their teams to work within the [communication guidelines](/handbook/communication/) and lead by example.
 
 ## S-group
 
 These are the [senior leaders](/company/team/structure/#senior-leaders).
-Members of the S-group are expected to demonstrate leadership in the way all members of the [director group](/handbook/leadership/#director-group) are, plus:
-
-1. They have significant strategic and functional responsibility.
-1. They have significant operating budget responsibility (things like compensation planning, budget allocation, negotiation, investment tradeoff decisions).
-1. They have leverage and influence over the performance and success of large teams (both reporting directly and indirectly) and their success will result in increased success across large numbers of people.
-1. The impact of their decisions are broad and significant.
-1. Some of them have critical external responsibility to represent the company and make decisions and statements for which the company is accountable.
-
-This is an uncommon title and a small group that is nominated by the E-group. Please don't set expectations with internal/external candidates without initiating the discussion with the CEO first. The CEO has approval on addition of all these titles.
 
 ## E-group
 
 These are the [executives](/company/team/structure/#executives).
-Members of the E-group are expected to demonstrate leadership in the way all members of the [S-group](/handbook/leadership/#s-group) are, plus:
 
-1. They suggest relevant, ambitious, and quantifiable OKRs and achieve 70% of them.
-1. They are reliable and ensure their teams complete what they agreed to do.
-1. They are proactive about detecting and communicating problems in their functions before other departments even notice them.
-1. They hire and retain leaders that perform better in their functional areas.
-1. They create roles and set requirements for what is needed 3-4 years out and hire for that profile.
-1. They get a huge amount of things done by iterating quickly and training their department in iteration.
-1. They define and communicate the business strategy and vision, instead of being overly tactical in the business.
-1. They share insights about other functional areas that make others better at their job.
-1. They suggest and implement improvements to our cross-functional processes.
-1. They frequently help achieve results outside their function.
-1. They make other executives better in their discipline.
 
 ## Interim and Acting Leadership
 In some cases, a individual in the [Management group](#management-group), [Director group](#director-group), [S-group](#s-group), or even [E-group](#e-group) may have an "Interim" or "Acting" title.
