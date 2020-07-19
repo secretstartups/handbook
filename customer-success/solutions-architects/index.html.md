@@ -210,3 +210,17 @@ Customer Success Team (SA/TAM) engagement for customer interactions, RFP's, audi
 ### Triage of Issues
 
 The SA team associated with each region will monitor the triage board and/or an associated Slack channel for incoming work and will contact the appropriate Customer Success team members via Slack, email or phone depending on required skills, schedules and availability. SLA for activity is 48 hours unless the issue is marked with an 'Expedite' label.
+
+## Request Solutions Support from Product
+
+When a prospect or customer have required capabilities that do not map directly to our product offering, Solutions Architect’s first step is to explore solutions or work-arounds that would satisfy their requirements with our current toolset. 
+If the SA is unable to determine an approach that works for the prospect, the next best action is to reach out to the Product Manager. To determine what Product Manager is appropriate, review the [Product Categories handbook page](https://about.gitlab.com/handbook/product/product-categories/).
+
+To be efficient as possible, this is the recommended approach:
+1) **Document**: Document the use-case the prospect is trying to solve in an issue on their [Account Management Project](https://gitlab.com/gitlab-com/account-management). Include the customer business objectives, existing approach, and communication between the prospect (call recordings, emails, etc).
+
+2) **Exploration**: If applicable, document the solutions or work-arounds that were explored with the customer and why that was not sufficient.
+
+3) **Suggestion**: Reach out to the Product Manager with a link to the Account Management issue and request an internal review. 
+
+4) **Communication**: Set up a call with the prospect or customer to determine the next best steps.
