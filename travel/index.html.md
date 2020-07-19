@@ -239,7 +239,7 @@ should continue.
 
 To request an exception:
 1.  Talk to your manager and explain the rationale for your business essential travel
-2.  Your manager will propose to the [E-group member](/handbook/leadership/#e-group) for your team who will, if supported, propose the trip for approval to the COVID-19 Committee via the slack channel #covid19-response-committee. Only requests from the E-Group member should be posted to the slack channel. 
+2.  Your manager will propose to the [E-group member](/company/team/structure/#e-group) for your team who will, if supported, propose the trip for approval to the COVID-19 Committee via the slack channel #covid19-response-committee. Only requests from the E-Group member should be posted to the slack channel. 
 
 How to route exception requests to E-Group:
 1. After your manager has approved your business essential travel, please route the request to the appropriate E-Group member using the [communication guidelines and slack channels listed](/handbook/communication/#getting-in-touch-with-the-e-group). For approvals from the CRO, please use #cro-approvals in slack and @ mention the CRO with the exception request. The request should come from the CRO's direct report. 
