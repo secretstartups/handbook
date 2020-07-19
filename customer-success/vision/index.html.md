@@ -141,6 +141,12 @@ These reasons can also happen in combination, such as a change in tier and a cha
 
 We can also use ARR Change reporting to understand loss of contracts or consolidation of contracts at the parent and account level.
 
+## External Reporting
+### Gross Retention
+We calculate our dollar-based gross retention rate as of the period end by starting with the ARR from all subscription customers as of 12 months prior to such period, or Prior Period ARR. We then deduct from the Prior Period ARR any ARR from subscription customers who have contracted or are no longer customers as of the current period end, or Current Period Remaining ARR. We then divide the total Current Period Remaining ARR by the total Prior Period ARR to arrive at our dollar-based gross retention rate. Our dollar-based gross retention rate reflects customer losses as well as reflects customer contraction.
+
+### Net Retention
+We calculate dollar-based net retention rate as of a period end by starting with the Annual Recurring Revenue (ARR) from the cohort of all customers as of 12 months prior to such period-end, or the Prior Period ARR. We then calculate the ARR from these same customers as of the current period-end, or the Current Period ARR. Current Period ARR includes any expansion and is net of contraction or attrition over the last 12 months, but excludes ARR from new customers in the current period. We then divide the total Current Period ARR by the total Prior Period ARR to arrive at the point-in-time dollar-based net retention rate.
 
 ## Professional Services Standard Cost
 
