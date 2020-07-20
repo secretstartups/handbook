@@ -204,6 +204,16 @@ There are four styles related to the SOCIAL STYLE model. Each style represents a
     <li>Focused on innovation and vision with a future timeframe</li>
   </ul>
 
+  <b> Orientation of an Expressive:</b>
+  <ul>
+    <li>Want to be appreciated!</li>
+    <li>Faster-paced</li>
+    <li>Unstructured</li>
+    <li>Impulsive</li>
+    <li>Future timeframe</li>
+    <li>Innovative & vision</li>
+  </ul>
+
   <p>
     <b>How to handle the Expressive:</b>
     <ul>
