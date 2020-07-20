@@ -307,6 +307,8 @@ discount rate.
 *   GitLab collaborates with partners holding the approved deal registration and is available to support partners throughout the entire sales process.
 *   In the event the engagement is dissolved, the GitLab Sales Rep will generally notify you by phone or email. GitLab will reconsider other deal registrations submitted for this deal, in chronological order of submission. If there are no other registration requests submitted, the GitLab Sales Rep will typically initiate engagement with a reseller of the GitLab Sales Rep’s choosing.
 
+To learn how to enter a deal registration, vist the [Deal Registration Instructions] (https://about.gitlab.com/handbook/resellers/#deal-registration-instructions) section below.
+
 
 ### The Market Development Funds (MDF) Program
 
@@ -429,10 +431,7 @@ GitLab training programs are available primarily through the [GitLab Partner Por
 
 #### Deal Registration Instructions
 
-Our GitLab Deal Registration process allows us to incentivize our partners to source and close GitLab products and services opportunities and avoid channel conflict. The following provides instructions for this process.
-
-
-*   [https://about.gitlab.com/handbook/resellers/#deal-registration](https://about.gitlab.com/handbook/resellers/#deal-registration)
+Our GitLab Deal Registration process allows us to incentivize our partners to source and close GitLab products and services opportunities and avoid channel conflict. You can find an overview of the deal registration program, including rules of engagement [here] (https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview).  The following provides instructions for this process.
 
 
 ##### Submitting a Deal Registration
