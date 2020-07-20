@@ -183,13 +183,12 @@ graph LR
   A("<img src='https://about.gitlab.com/images/devops-tools/atlassian-products/jira-software-logo.svg'; width='33' />"<br>Plan)
   B("<img src='https://about.gitlab.com/images/devops-tools/github-logo-small.png'; width='30' />"<br>Create)
   C("<img src='https://about.gitlab.com/images/devops-tools/spinnaker-logo.svg'; width='30' />"<br>Release)
-  D(Manage)
+  D(Defend)
   E(Configure)
   F("<img src='https://about.gitlab.com/images/devops-tools/new-relic-logo.png'; width='30' />"<br>Monitor)
   G("<img src='https://about.gitlab.com/images/devops-tools/jenkins-logo-small.png'; width='30' />"<br>Verify)
   H("<img src='https://about.gitlab.com/images/devops-tools/veracode-logo.png'; width='50' />"<br>Secure)
   I("<img src='https://about.gitlab.com/images/devops-tools/spinnaker-logo.svg'; width='30' />"<br>Package)
-  J(Defend)
 
   A --> B
   A --> C
@@ -198,6 +197,10 @@ graph LR
   B --> C
   B --> H
   B --> F
+  C --> E
+  C --> G
+  C --> F
+  C --> D
   G --> H
   G --> I
   G --> C
@@ -205,9 +208,18 @@ graph LR
   H --> C
   H --> I
   I --> C
-  C --> G
-  C --> F
-  C --> J
+
+  subgraph Manage
+  A
+  B
+  C
+  D
+  E
+  F
+  G
+  H
+  I
+
 ```
 
 ### Security benefits
