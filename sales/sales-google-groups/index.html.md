@@ -29,7 +29,7 @@ The parent google group of the sales team is sales-all. Several child groups fal
 | sales-alliances | segment | Members of the alliance partners team | 
 | sales-fieldops | segment | Members of the field operations team |
 | sales-ops | team | Members of the sales operations team | 
-| sales-enablement | team | Members of the field enablement team | 
+| field-enablement | team | Members of the field enablement team | 
 | sales-analytics | team | Members of the sales strategy team | 
 | sales-recruiting | segment | People partners and sales recruiters who support the field organization |
 | sales-leaders | leadership | Regional directors and above | 
@@ -37,7 +37,7 @@ The parent google group of the sales team is sales-all. Several child groups fal
 
 See the below chart for a visualization of the Google Group hierarchy
 
-![Sales Google Groups](/handbook/sales/images/newsalesgg_v3.jpg)
+![Sales Google Groups](/handbook/sales/images/newsalesgg_v4.jpg)
 
 To confirm if you are in a particular Google Group, see the [G-Suite Group Membership Reports.](/handbook/business-ops/it-ops-team/#automated-group-membership-reports-for-managers) To gain access to new Google Groups, please [fill out an access request (AR) form.](/handbook/business-ops/it-ops-team/access-requests/) 
 
