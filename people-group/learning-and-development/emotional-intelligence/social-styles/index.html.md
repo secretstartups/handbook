@@ -74,6 +74,16 @@ There are four styles related to the SOCIAL STYLE model. Each style represents a
     <li>Tomorrow timeframe</li>
   </ul>
 
+  <b>Orientation of a Driver:</b>
+  <ul>
+    <li>Want to Win!</li>
+    <li>Action</li>
+    <li>Fast paced</li>
+    <li>Structured</li>
+    <li>Tomorrow timeframe</li>
+    <li>Results & speed</li>
+  </ul>
+
   <p>
     <b>How to handle the Driver:</b>
     <ul>
