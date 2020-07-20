@@ -368,6 +368,24 @@ This initial plan does not replace communication during the development process.
 The engineers involved in the development of a feature should continuously communicate the status
 of their work.
 
+#### Design collaboration
+
+Input from all team members is welcomed for design collaboration.
+- Discussions on designs should happen within the issue through the issue comments and/or the design comments.
+    - Any discussions in Slack or Figma should be migrated or summarized in the the issue.
+- When feedback is needed the designer should tag relevent team members and @gl-static-site-editor.
+
+It is up to the designer of the group to maintain the design information on an issue to help the team understand the current direction. Here are the responsibilities of the designer:
+- Add a link to the Figma URL to the issue `Description` section
+- Update `Description` to align with current design direction (if needed)
+- Archive any images in the `Designs` section that is out of date
+- Designs uploaded to the `Designs` section should be prefixed with either `concept` or `direction`
+    - `concept` applies to ideas, explorations, and options for the implementation
+    - `direction` applies to designs where a decision has been made and ready for implementation
+- A design could have multiple direction over the lifetime of an issue so the full naming convention is `direction-yyyymmdd-description`
+    - For example `direction-20200720-publishing-flow-with-long-names`
+- After a sync meeting, add a comment with a link to the ad-hoc meeting recordings and any key highlights/decisions made in the meeting.   
+
 #### Requesting feedback
 
 You should strive for receiving feedback early and often in your Merge Requests.
