@@ -19,6 +19,24 @@ Welcome to the Manager Challenge page. We are rolling out a pilot version of a 4
 
 [embed pilot welcome video here] 
 
+### What 
+
+The Four Week Manager Challenge Program is a blended learning approach that incorporates self-paced daily challenges and live learning sessions to build foundational management skills. The program incorporates leadership assessments, interactive live learning sessions, and digital learning. 
+
+### Why 
+
+The program is intended to build a set of baseline skills that complement our values to enable Managers to lead teams at GitLab. To date, there has not been a formal GitLab Manager training program and this will serve as our first iteration. 
+
+### How will it help
+
+Learn the basic principles of what it means to be a manager using a whole person approach to leadership. The program was built to incorporate themes identified during interviews with team members and managers at GitLab. 
+
+### What do I need to do
+
+Set aside time each day to participate in the challenge and live learning sessions. Complete the weekly self-evaluations and comment in the Slack channel during discussions.
+
+## Pilot Program 
+
 ### Week 1
 
 During week one we will discuss **Getting to Know your Team & Managing Underperformance**. Information covered in week one can be found on the [SOCIAL STYLES](/handbook/people-group/learning-and-development/emotional-intelligence/social-styles/) and [Underperformance page](https://about.gitlab.com/handbook/underperformance/). 
