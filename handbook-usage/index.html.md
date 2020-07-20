@@ -139,7 +139,7 @@ In an all-remote, asyncronous organization, each team member should practice han
 **Skills and behaviors of handbook first as a People Leader**:
 * Holds their team and others accountable for being handbook first 
 * Enables new team members and managers on how to leverage the handbook as a resource. 
-* Serves as a role model for what it takes to be means to be handbook first.
+* Serves as a role model for what it means to be handbook first.
 
 ### The Private handbook
 
