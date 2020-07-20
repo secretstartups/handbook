@@ -21,7 +21,7 @@ An example format guideline:
 * Implementation Overview (how is it implemented?)
 * Q&A
 
-**Note:** The support team have documented similar initiatives in the handbook: [Support Deep Dives](/handbook/support/advanced-topics/index.html#deep-dive-sessions) and [Support Bootcamps](/handbook/support/advanced-topics/index.html#support-bootcamps).
+**Note:** The support team have documented similar initiatives in the handbook: [Support Deep Dives](/handbook/support/advanced-topics/index.html#deep-dives) and [Support Bootcamps](/handbook/support/advanced-topics/index.html#support-bootcamps).
 
 ### Preparation steps
 If you're new to presenting at GitLab the steps can be a bit daunting. The steps are mostly documented [elsewhere in the handbook](/handbook/tools-and-tips/), but are summarized here to give an overview.
@@ -29,7 +29,7 @@ If you're new to presenting at GitLab the steps can be a bit daunting. The steps
 #### Schedule the call
 
 1. Ensure you have a [Pro zoom account](/handbook/tools-and-tips/#zoom) by checking the [web interface](https://zoom.us/profile). This is needed so the call length isn't limited and to cloud record.
-1. Duplicate the [presentation template](/handbook/tools-and-tips/#google-slides-templates) and get a sharing URL to add to the calendar. This will avoid spamming attendees by editing the description later. You can make it private or include a WIP slide until nearer the talk.
+1. Duplicate the [presentation template](/handbook/tools-and-tips/#google-slides) and get a sharing URL to add to the calendar. This will avoid spamming attendees by editing the description later. You can make it private or include a WIP slide until nearer the talk.
 1. Use the Zoom App to schedule the call.
 1. Set a title as this will be used for the recording.
 1. Set it to record automatically.
@@ -48,11 +48,13 @@ At a minimum it usually makes sense to invite your team to the session, but you 
 
 1. The recording will be available through the [Zoom web interface](https://zoom.us/recording) after processing.
 1. Upload it to Google Drive.
-1. Upload it to YouTube.
-* Follow the [instructions in 1Password](/handbook/communication/#upload-conversations-to-youtube) to get access.
-* Add it to your team's playlist (if available).
-* You can copy the description from a [previous talk](https://www.youtube.com/watch?v=CW0SujsABrs&list=PLFGfElNsQthZ-D0khZ_NSb5Bdl2xkF97m&index=2).
-* You can screenshot the first slide and use that as the video thumbnail.
+1. Upload it to YouTube:
+
+   * Follow the [instructions](/handbook/marketing/marketing-operations/youtube/#access) to get access.
+   * Add it to your team's playlist (if available).
+   * You can copy the description from a [previous talk](https://www.youtube.com/watch?v=CW0SujsABrs&list=PLFGfElNsQthZ-D0khZ_NSb5Bdl2xkF97m&index=2).
+   * You can screenshot the first slide and use that as the video thumbnail.
+
 1. Create a .pdf of the talk to avoid the GitLab community needing Google Drive permissions for access.
 1. Link to the talk from relevant development docs so the community can discover it.
 
