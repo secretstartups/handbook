@@ -76,7 +76,9 @@ There are four styles related to the SOCIAL STYLE model. Each style represents a
 
 **The SOCIAL STYLES Model&trade;** below categorizes the four unique styles: **Analytical**, **Driver**, **Expressive**, and **Amiable**. Team members can identify what style they are and adapt their approaches and communication style accordingly to their team. 
 
-![SOCIAL STYLES Model](/images/handbook/social_styles_model.png)
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSs8mxLteOjZq5_DfZgSum4R138_GzW5XPXi7lqZlxiUyrHpNMxl_FFIgKBRCWpEFsVtaV8R-2z2ogk/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
 
 ## The four styles and how to handle 
 
