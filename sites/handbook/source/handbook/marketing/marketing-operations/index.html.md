@@ -719,10 +719,25 @@ Any webcast that is held by GitLab. This is tracked as an *online* Bizible chann
 | Sales Nominated                 | Sales indicated record to receive triggered event email sent by Marketing             |          |
 | Marketing Invited               | Marketing geo-targeted email                                                          |          |
 | Registered                      | Registered through online form                                                        |          |
-| No Show                         | Registered but did not attend live webcast                                            |          |
+| No Show                         | Registered, but did not attend live webcast                                            |          |
 | Attended                        | Attended the live webcast                                                             | Yes      |
 | Follow Up Requested             | Requested additional details about GitLab to be sent post event                       | Yes      |
 | Attended On-demand              | Watched the recorded webcast                                                          | Yes      |
 
+#### Workshop
+An in-person or virtual workshop where the attendees are guided through an agenda of real life use cases within GitLab. This is tracked as an *offline* Bizible channel.
 
+
+| Member Status                   | Definition                                                                            | Success  |
+|:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
+| No Action                       | default starting position for all records                                             |          |
+| Sales Invited                   | Invitation/Information about event sent by Sales/SDR                                  |          |
+| Sales Nominated                 | Sales indicated record to receive triggered event email sent by Marketing             |          |
+| Marketing Invited               | Marketing geo-targeted email                                                          |          |
+| Waitlisted                      | Holding state if registration is full will be moved to Registered if space opens      |          |
+| Registered                      | Registered or indicated attendance at the session                                     |          |
+| Cancelled                       | Registered, but cancelled ahead of the event                                          |          |
+| No Show                         | Registered, but did not attend event                                                  |          |
+| Attended                        | Attended workshop event                                                               | Yes      |
+| Follow Up Requested             | Requested additional details about GitLab to be sent post event                       | Yes      |
 
