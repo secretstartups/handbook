@@ -159,6 +159,8 @@ Anyone can test their knowledge on {insert cert name here}. To obtain a certific
 
 **Important note:** The headers in the sheet MUST include `Timestamp`, `Score`, and `First & Last Name` exactly.
 
+If you are updating this section, please refer to the [SheetLoad](/handbook/business-ops/data-team/platform/#using-sheetload) portion of the handbook and assign the MR to a member of the Data Team for review.
+
 ### Step 6: Add to dbt
 
 This can be done in the same MR as Step 5 or as a separate MR. 
