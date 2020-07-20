@@ -41,8 +41,29 @@ In the SOCIAL STYLE Model their are two scales of behavior:
 
 1.  **Assertiveness:**
     *  Dimension of behavior that measures the degree to which others perceive a person as tending to ask or tell in interctions with others. (Ask versus Tell)
+
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQjmHDBLOvUkiKUWyIbs8LuaHSFSHOqmHSZqTwxdY9SuScWWrxgtfPRWhi8aRyMAUrw33Nt5YDv2Oma/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
+
 2. **Responsiveness:**
     *  Dimension of behavior that measures the degree to which others perceive a person as tending to control or display their feelings and emotions when interacting. (Control versus Emotes)
+
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSaAoNlsDCmdHRdfcmsgdW2v6FNiiI9Bf1FGc4q3EgoUbAuY4qW0Xw68J29rSIF0bsLsrL7Hhk4bEXc/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>    
+
+### Personality vs Behavior
+
+**Behavior:** What you say (verbal) and do (non-verbal)
+
+**Personality:**  The Combination of ideas, values, hopes, dreams, attitudes, abilities, as well as the behavior that others can observe that encompa
+
+**SOCIAL STYLES:** Pattern of actions that others can observe and agree upon for describing one’s behavior
+
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSGVmCDCF2hFfy7810AY0mMPeaBfsfYvOWYTp37roeBBRxCwAZdiqpdHXfV69tYRjuFfy2yk2CDAUS6/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
 
 ### The four styles
 
@@ -55,7 +76,9 @@ There are four styles related to the SOCIAL STYLE model. Each style represents a
 
 **The SOCIAL STYLES Model&trade;** below categorizes the four unique styles: **Analytical**, **Driver**, **Expressive**, and **Amiable**. Team members can identify what style they are and adapt their approaches and communication style accordingly to their team. 
 
-![SOCIAL STYLES Model](/images/handbook/social_styles_model.png)
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSs8mxLteOjZq5_DfZgSum4R138_GzW5XPXi7lqZlxiUyrHpNMxl_FFIgKBRCWpEFsVtaV8R-2z2ogk/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
 
 ## The four styles and how to handle 
 
@@ -72,6 +95,16 @@ There are four styles related to the SOCIAL STYLE model. Each style represents a
     <li>Be impatient with delays</li>
     <li>Interested in results and speed</li>
     <li>Tomorrow timeframe</li>
+  </ul>
+
+  <b>Orientation of a Driver:</b>
+  <ul>
+    <li>Want to Win!</li>
+    <li>Action</li>
+    <li>Fast paced</li>
+    <li>Structured</li>
+    <li>Tomorrow timeframe</li>
+    <li>Results & speed</li>
   </ul>
 
   <p>
@@ -147,6 +180,17 @@ There are four styles related to the SOCIAL STYLE model. Each style represents a
     <li>Easy for others to communicate and share with</li>
   </ul>
 
+  <b> Orientation of an Amiable:</b>
+  <ul>
+    <li>Want to be liked!</li>
+    <li>Relationships</li>
+    <li>Risk-averse</li>
+    <li>Slower-paced</li>
+    <li>Harmony</li>
+    <li>Consensus</li>
+    <li>Present time-frame</li>
+  </ul>
+
   <p>
     <b>How to handle the Amiable:</b>
     <ul>
@@ -181,6 +225,16 @@ There are four styles related to the SOCIAL STYLE model. Each style represents a
     <li>Can make mistakes and have frequent changes in direction and focus due to their desire to act on opinions, hunches, and intuitions versus facts and data</li>
     <li>Prefers faster-paced and unstructured environments</li>
     <li>Focused on innovation and vision with a future timeframe</li>
+  </ul>
+
+  <b> Orientation of an Expressive:</b>
+  <ul>
+    <li>Want to be appreciated!</li>
+    <li>Faster-paced</li>
+    <li>Unstructured</li>
+    <li>Impulsive</li>
+    <li>Future timeframe</li>
+    <li>Innovative & vision</li>
   </ul>
 
   <p>
@@ -260,4 +314,4 @@ Below are additional resources on social styles for review
 *  [Managerial Success Stories](https://tracom.com/wp-content/uploads/2019/01/Managerial-Success-Story-TRACOM_ss2018.pdf)
 *  [Communicating with Style](https://www.wilsonlearning.com/wlw/articles/w/hidden-cost-comm/en-gb)
 
-
+The SSOT for the slides on this page can be found in [this folder](https://drive.google.com/drive/folders/1mc4IYz80KT8y4BgpZYvYuPRAOvk3bEAU?usp=sharing). 
