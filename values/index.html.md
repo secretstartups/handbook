@@ -245,7 +245,7 @@ We demonstrate collaboration when we take action to help others and include othe
 
 <table class="tg">
   <tr>
-    <th class="tg-0lax"><a href="https://about.gitlab.com/handbook/total-rewards/compensation/#gitlab-job-grades">GitLab Job Grade</a></th>
+    <th class="tg-0lax"><a href="https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades">GitLab Job Grade</a></th>
     <th class="tg-0lax">Demonstrates Collaboration Competency by…</th>
     <th class="tg-0lax">Knowledge Assessment<br></th>
   </tr>
@@ -372,7 +372,7 @@ We demonstrate results when we do what we promised to each other, customers, use
 
 <table class="tg">
   <tr>
-    <th class="tg-0lax"><a href="https://about.gitlab.com/handbook/total-rewards/compensation/#gitlab-job-grades">GitLab Job Grade</a></th>
+    <th class="tg-0lax"><a href="https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades">GitLab Job Grade</a></th>
     <th class="tg-0lax">Demonstrates Results Competency by…</th>
     <th class="tg-0lax">Knowledge Assessment<br></th>
   </tr>
@@ -496,7 +496,7 @@ We demonstrate efficiency when we work on the right things, not doing more than 
 
 <table class="tg">
   <tr>
-    <th class="tg-0lax"><a href="https://about.gitlab.com/handbook/total-rewards/compensation/#gitlab-job-grades">GitLab Job Grade</a></th>
+    <th class="tg-0lax"><a href="https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades">GitLab Job Grade</a></th>
     <th class="tg-0lax">Demonstrates Efficiency Competency by…</th>
     <th class="tg-0lax">Knowledge Assessment<br></th>
   </tr>
@@ -651,7 +651,7 @@ If you would like to improve your skills or expand your knowledge on topics rela
 
 <table class="tg">
   <tr>
-    <th class="tg-0lax"><a href="https://about.gitlab.com/handbook/total-rewards/compensation/#gitlab-job-grades">GitLab Job Grade</a></th>
+    <th class="tg-0lax"><a href="https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades">GitLab Job Grade</a></th>
     <th class="tg-0lax">Demonstrates Diversity &amp; Inclusion Competency by…</th>
     <th class="tg-0lax">Knowledge Assessment<br></th>
   </tr>
@@ -821,7 +821,7 @@ We demonstrate iteration when we do the smallest thing possible, getting it out 
 
 <table class="tg">
   <tr>
-    <th class="tg-0lax"><a href="https://about.gitlab.com/handbook/total-rewards/compensation/#gitlab-job-grades">GitLab Job Grade</a></th>
+    <th class="tg-0lax"><a href="https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades">GitLab Job Grade</a></th>
     <th class="tg-0lax">Demonstrates Iteration Competency by…</th>
     <th class="tg-0lax">Knowledge Assessment<br></th>
   </tr>
@@ -974,7 +974,7 @@ We demonstrate transparency when we are open with as many things as possible red
 
 <table class="tg">
   <tr>
-    <th class="tg-0lax"><a href="https://about.gitlab.com/handbook/total-rewards/compensation/#gitlab-job-grades">GitLab Job Grade</a></th>
+    <th class="tg-0lax"><a href="https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades">GitLab Job Grade</a></th>
     <th class="tg-0lax">Demonstrates Transparency Competency by…</th>
     <th class="tg-0lax">Knowledge Assessment<br></th>
   </tr>
