@@ -210,15 +210,16 @@ graph LR
   I --> C
 
   subgraph Manage
-  A
-  B
-  C
-  D
-  E
-  F
-  G
-  H
-  I
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+  end
 
 ```
 
