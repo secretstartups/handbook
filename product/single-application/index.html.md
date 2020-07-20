@@ -180,23 +180,33 @@ Below is a flowchart illustration of the various integrations necessary between 
 ```mermaid
 
 graph LR
-  A(Plan) --> C(Create)
-  A --> E(Release)
-  A --> F(Monitor)
-  C --> G(Verify)
-  C --> E
-  C --> H(Secure)
-  C --> F
+  A("<img src='https://about.gitlab.com/images/devops-tools/atlassian-products/jira-software-logo.svg'; width='33' />"<br>Plan)
+  B("<img src='https://about.gitlab.com/images/devops-tools/github-logo-small.png'; width='30' />"<br>Create)
+  C("<img src='https://about.gitlab.com/images/devops-tools/spinnaker-logo.svg'; width='30' />"<br>Release)
+  D(Manage)
+  E(Defend)
+  F("<img src='https://about.gitlab.com/images/devops-tools/new-relic-logo.png'; width='30' />"<br>Monitor)
+  G("<img src='https://about.gitlab.com/images/devops-tools/jenkins-logo-small.png'; width='30' />"<br>Verify)
+  H("<img src='https://about.gitlab.com/images/devops-tools/veracode-logo.png'; width='50' />"<br>Secure)
+  I("<img src='https://about.gitlab.com/images/devops-tools/spinnaker-logo.svg'; width='30' />"<br>Package)
+
+  A --> B
+  A --> C
+  A --> F
+  B --> G
+  B --> C
+  B --> H
+  B --> F
   G --> H
-  G --> I(Package)
-  G --> E
+  G --> I
+  G --> C
   G --> F
-  H --> E
+  H --> C
   H --> I
-  I --> E
-  E --> G
-  E --> F
-  E --> J(Defend)
+  I --> C
+  C --> G
+  C --> F
+  C --> J
 ```
 
 ### Security benefits
