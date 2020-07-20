@@ -129,7 +129,7 @@ There are additional health score criteria that are automatically created and do
       - Green: <= 90 days
       - Yellow: > 90 days and <= 120 days
       - Red: > 120 days
-- ROI - based on whether the customer has a Success Plan or not
+<!-- - ROI - based on whether the customer has a Success Plan or not
    - Enterprise:
       - Green: Active Success Plan
       - Yellow: Draft Success Plan
@@ -138,7 +138,9 @@ There are additional health score criteria that are automatically created and do
       - Green: Active Success Plan
       - Yellow: Draft Success Plan
       - Red: No Success Plan
+-->
 - Support Issues
+
 
 ##### Triage CTA
 
