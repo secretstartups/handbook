@@ -108,6 +108,8 @@ All changes should have change plans. Planning is the way the infrastructure dep
 
 Plan issues are opened in the [production](https://gitlab.com/gitlab-com/gl-infra/production/issues) project tracker. Each issue should be opened using an issue template for the corresponding level of criticality: `C1`, `C2`, `C3`, or `C4`. It must provide a detailed description of the proposed change and include all the requested information in the template. Every plan issue is initially labeled `~"change::unscheduled"` until it can be reviewed and scheduled with a Due Date. After the plan is approved and scheduled it should be labeled `~"change::scheduled"` for visibility.
 
+All change requests, regardless of the change criticality follow the same [change management template](https://gitlab.com/gitlab-com/gl-infra/production/blob/master/.gitlab/issue_templates/change.md).
+
 ## Change Criticalities
 
 ### Criticality 1
