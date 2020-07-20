@@ -340,7 +340,7 @@ reply to the ticket while also changing the status.
 
 If you're merging two of a user's tickets that are related and it's not 100% obvious to the user, be sure to send a message letting them know why you're merging them. If you don't, it often causes confusion and they open follow-ups asking why it was closed without comment.
 
-Additionally, when [Merging Tickets](https://support.zendesk.com/hc/en-us/articles/203690916-Merging-tickets), leave `Requester can see this comment` **unchecked** in the ticket that's being merged into (the second ticket from the top) in order to maintain the SLA. If the merge comment is made public, Zendesk considers it a response and removes the SLA. Merging tickets won't affect the status of tickets.
+Additionally, when [Merging Tickets](https://support.zendesk.com/hc/en-us/articles/203690916-Merging-tickets), leave `Requester can see this comment` **unchecked** in the ticket that's being merged into (the second ticket from the top) in order to maintain the SLA. If the merge comment is made public, Zendesk considers it a response and removes the SLA. The ticket that was merged into another ticket is closed while the status of the target ticket is unaffected.
 
 **NOTE:** Any ticket merge is final -- there is no option to undo it.
 
