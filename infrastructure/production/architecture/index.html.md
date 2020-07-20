@@ -260,16 +260,39 @@ We use a lot of cool ([but boring](/handbook/values/)) technologies here at GitL
 * [Ruby](https://www.ruby-lang.org/) (probably goes without saying)
 * [Terraform](https://www.terraform.io)
 
-## Proposed Cloud Native Architecture
-{: #infra-proposed-cloud-native}
+## GitLab.com on Kubernetes
+{: #gitlab-com-on-kubernetes}
 
-We are working on running GitLab.com on Kubernetes by containerizing all the different services and components that are necessary to run GitLab-EE at GitLab.com scale.
+* **[Migration epic ](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/112)**: Parent epic for all infrastructure department work to migrate GitLab.com to Kubernetes.
+* **[Application blockers](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=kubernetes-migration-blocker)**: Label used to track blockers in the application and cloud-native charts that are preventing the migration of GitLab.com to Kubernetes.
 
-This is the proposed architecture to move from what we are running in static VMs to a container orchestration managed world.
+The infrastructure department is transitioning GitLab.com to Kubernetes using the [GitLab cloud native helm chart](https://docs.gitlab.com/charts/). Migrating GitLab.com to Kubernetes will be completed in phases, prioritizing services that are stateless and ready to be run in a cloud-native environment at GitLab.com scale. See the [reasoning for the migrating away from virtual machines](/handbook/engineering/infrastructure/production/kubernetes/gitlab-com/) for more details including the justification for the migration. The following is a high-level overview of the current configuration of GitLab.com on Kubernetes:
 
-### Pods Definition
-{: #infra-proposed-archi-pods}
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vQlL0iAAJDx5TOkvrJ607_DVbRTWUc_IFhlh0NR6N0IfC2-O5r-aqy_whcIrFPVC7Kr4V_YnjS8gCA2/pub?w=900&h=788">
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vT9k6ZoyVGeDlWWrdHFwnGliGi1lC_gVzUy-Al1GJMbqN6Q28vEuMrQuQkyBdvLbaLfpEgPlqyRfGc7/pub?w=935&h=823">
+[Source](https://docs.google.com/drawings/d/1Z8HOKqT-B6Y2eqDXUPjLI5CfjWeY5BwlRny-oNcIrmE/edit), GitLab internal use only
 
-[Source](https://docs.google.com/drawings/d/1BL9hjUUvnZarjO-f_ENoCKdlSTX_MGWXVbZSjkjEd04/edit), GitLab internal use only
+### Cluster Configuration
+{: #cluster-configuration }
+
+In keeping with GitLab's value of transparency, all of the Kubernetes cluster configuration for GitLab.com is public, including infrastructure and configuration. GitLab.com uses a single Kubernetes cluster for production with a separate cluster for staging. The reasoning behind using a single cluster for an environment is documented in [cluster limitation investigative issue](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/791).
+The following projects are used to manage the installation:
+* [k8s-workloads/gitlab-com](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-com): Contains the GitLab.com configuration for the [GitLab helm chart](https://gitlab.com/gitlab-org/charts/gitlab).
+* [k8s-workloads/gitlab-helmfiles](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-helmfiles/): Contains the configuration for services that are not directly related to the GitLab application. This includes includes cluster logging and monitoring and integrations like PlantUML.
+* [gitlab-com-infrastructure](https://gitlab.com/gitlab-com/gitlab-com-infrastructure/): Terraform configuration for the cluster, all resources necessary to run the cluster are configured here including the cluster, node pools, service accounts and IP address reservations.
+
+All inbound web, git http, and git ssh requests are received at CloudFlare which has HAProxy as an origin. HAProxy routes between the new cluster and the legacy VM infrastructure. Node pools are used to isolate workloads for different services running in the cluster and are defined in Terraform. For Sidekiq, multiple pods are configured for Sidekiq cluster to divide Sidekiq queues into different resource groups. See the [chart documention for Sidekiq](https://docs.gitlab.com/charts/charts/gitlab/sidekiq/) for more details.
+
+Monitoring is configured using the [prometheus-operator helm chart](https://github.com/helm/charts/tree/master/stable/prometheus-operator) in the namespace `monitoring`. Alerting for the cluster uses generated [rules](https://gitlab.com/gitlab-com/runbooks/-/tree/master/rules) that feed up to our [overall SLA](/handbook/engineering/infrastructure/performance-indicators/#gitlab-com-availability) for the platform. Dashboards are generated using the [Prometheus Kubernetes Mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) which allow us drill into scaling events and cluster resource usage including pod memory, CPU, and network utilization.
+
+Logging is configured using a fork of the [fluentd-elasticsearch helm chart](https://gitlab.com/gitlab-org/charts/fluentd-elasticsearch) where the logs for every pod is forwarded to a unique Elasticsearch index. This chart is deployed in the namespace `logging`.
+
+### Configuration updates
+
+There is a single namespace `gitlab` that is used exclusively for the GitLab application.  Chart configuration updates are set in the [gitlab-com k8s-workloads project](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-com) where there are [yaml configuration files](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-com/-/tree/master/releases/gitlab/values) that set defaults for the GitLab.com environment with per-environment overrides. Changes to this configuration are applied by the SRE and Delivery team after a review using a MR review workflow. When a change is approved on GitLab.com the pipeline that applies the change is run on a separate operations environment to ensure that configuration updates do not depend on the availability of the production environment.
+
+For namespaces in the cluster for other services like logging, monitoring, etc. a similar GitOps workflow is followed using the [gitlab-helmfiles](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-helmfiles) project.
+
+### Application updates
+
+Updates are deployed to both VM infrastructure and the Kubernetes cluster in lock-step, this ensures that the same version is deployed to both VMs and the cluster. When an application update is ready, the CI pipeline that deploys to virtual machines triggers a [k8s-workloads/gitlab-com](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-com) pipeline that updates the application image in the cluster. This pipeline is run on a separate operations environment to ensure that application updates do not depend on the availability of GitLab.com.
