@@ -107,15 +107,22 @@ If a Silver or Bronze trial plan are needed  [open an issue](https://gitlab.com/
 
 GitLab Support targets a 95% SLA acheievement KPI. This means that some tickets breaching is expected. Our SLA is for a _First Reply_ but we also internally track next reply. Asking for eyes on or the escalation of a ticket in [#support_gitlab-com](https://gitlab.slack.com/archives/C4XFU81LG) or [#support_self-managed](https://gitlab.slack.com/archives/C4Y5DRKLK) creates unnecessary stress on Support Engineers who may be in the midst of working on higher priority tickets. Depending on whether you want to draw attention to either a Zendesk ticket or an issue created in `internal-requests`, follow the steps below.
 
-**Zendesk Tickets**
+##### Zendesk Tickets
+{: .no_toc}
 
 1. Review the SLA associated with the account and the amount of time left until a breach by logging into [Zendesk](https://gitlab.zendesk.com) using Okta. It's not typically necessary to escalate an issue that is hours away from a breach. If the ticket has had a first reply, then you are looking at an "internal breach".
 1. Post a link to the ticket and a reason for why this ticket needs special attention into [#support_managers](https://gitlab.slack.com/archives/CBVAE1L48). Feel free to tag `@supportmanagers`. When you do this, we ask that you go above and beyond to help. If something breached, it means we are probably stuck. Take a look at the ticket and try and call in a relevant department manager to help. Messages where you ask other groups for help are more likely to get resolved sooner.
 1. Understand that we'll do our best to prioritize appropriately taking into account all of the tickets in the queues - there may be more pressing items.
 
-**Dotcom Internal Issues**
+##### Issues in `internal-requests`
+{: .no_toc}
 
 1. Post in [#support_managers](https://gitlab.slack.com/archives/CBVAE1L48) with a link to the issue and a short explanation of why it requires urgent attention. Please also keep in mind that issues in `internal-requests` have no SLA.
+
+##### Redirecting Escalations (For GitLab Support Use Only)
+{: .no_toc}
+
+If a ticket or issue escalation is posted in the wrong channel, simply add the `:escalation:` emoji as a reaction to the post and the user will be directed to re-post the escalation in [#support_managers](https://gitlab.slack.com/archives/CBVAE1L48) via a [Slack Workflow](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows).
 
 ##### Trials and Prospect Support
 
