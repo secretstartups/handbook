@@ -77,6 +77,8 @@ If a Silver or Bronze trial plan are needed  [open an issue](https://gitlab.com/
 | Claim Dormant GitLab.com Namespace | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Dormant%20Namespace%20Request) using the `Dormant Namespace Request` template.
 | Request Pipeline Minutes Reset | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Pipeline%20Quota%20Reset%20Request) using the `Pipeline Quota Reset Request` template.
 
+For any request related to grace period of an existing plan will be treated as trials. To make such requests for both self-managed or GitLab.com please consider creating trial extension issues and update the title accrodingly which states it's an existing customer.
+
 ### Regarding GitLab Support, Plans, and Namespaces
 
 | Request      | What To Do                                                 |
