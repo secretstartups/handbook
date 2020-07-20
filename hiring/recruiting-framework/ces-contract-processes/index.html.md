@@ -245,7 +245,7 @@ To create the contract:
     -Click “Send Email”
 1. The Candidate Experience Specialist will generate the CXC form out of GreenHouse.
     -Click “Generate”
-    -Select “CXC Global Template” **or** “CXC New Zealand SOW” for New Zealand ONLY from the dropdown
+    -Select “CXC Global Template” from the dropdown
     -Click “Generate”
 1. The Candidate Experience Specialist will stage the form for their own signature via DocuSign, the new team member and the appropriate CXC contact. Contact details can be found in 1password => People Operations Vault => Entity & Co-employer HR Contacts.
 1. The Candidate Experience Specialist should add the candidate to the [PEO Tracking Sheet](https://docs.google.com/spreadsheets/d/1gSOVTJ1Yv-YsSaliJwKVf-1H0vBZXxb5NWFiqCwT-uo/edit#gid=0) and keep track of communication between GitLab.
