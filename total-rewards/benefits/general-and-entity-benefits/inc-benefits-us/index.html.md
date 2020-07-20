@@ -289,6 +289,8 @@ If you would like to transfer your HSA from a previous account, please contact D
 
 If you would like to adjust your HSA contributions please log into [Lumity](https://lumity.com/).
 
+FSAs are employer-owned accounts. If you leave GitLab, you cannot take FSA accounts with you. You are able to use your full FSA amounts up to and on your last day, but not afterwards. Your FSA benefits stop on your termination date. Discovery Benefits asks that all claims be submitted up to 90 days after termination date. For additional information, please reach out to Discovery Benefits at 866.451.3399.
+
 ## Basic Life Insurance and AD&D
 
 GitLab offers company paid [basic life](https://drive.google.com/open?id=1wl62igCepQ23kjF8QnyVLsvorkr7joxP) and [accidental death and dismemberment (AD&D)](https://drive.google.com/open?id=1wl62igCepQ23kjF8QnyVLsvorkr7joxP) plans through UHC. The Company pays for basic life insurance coverage valued at two times annual base salary with a maximum benefit of $250,000, which includes an equal amount of AD&D coverage.
@@ -358,6 +360,10 @@ Year 5: Put in 3K, GitLab matches 1500. Leave the company get 15K own money + $7
 * The team member must have a contribution for a check date to be eligible for the employer match.
 * Employer matching will be released into participant accounts three business days after the check date.
 * For team members who defer more than 6% on each check date, Payroll and People Operations will conduct a true up quarterly.
+
+### 401(k) Rollover
+
+If you leave GitLab and would like to rollover your 401(k) account, contact Betterment directly to get more information about this process. You can reach Betterment, by Chat in the app, by phone at 855-906-5281, and by email at `support@betterment.com`. They also have a Rollovers section on their site going into detail.
 
 ### 401(k) Committee
 
