@@ -275,7 +275,7 @@ The infrastructure department is transitioning GitLab.com to Kubernetes using th
 ### Cluster Configuration
 {: #cluster-configuration }
 
-In keeping with GitLab's value of transparency, all of the Kubernetes cluster configuration for GitLab.com is public, including infrastructure and configuration. GitLab.com uses a single Kubernetes cluster for production with a separate cluster for staging. The reasoning behind using a single cluster for an environment is documented in https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/791.
+In keeping with GitLab's value of transparency, all of the Kubernetes cluster configuration for GitLab.com is public, including infrastructure and configuration. GitLab.com uses a single Kubernetes cluster for production with a separate cluster for staging. The reasoning behind using a single cluster for an environment is documented in [cluster limitation investigative issue](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/791).
 
 * [k8s-workloads/gitlab-com](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-com): Contains the GitLab.com configuration for the [GitLab helm chart](https://gitlab.com/gitlab-org/charts/gitlab).
 * [k8s-workloads/gitlab-helmfiles](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-helmfiles/): Contains the configuration for all namespaces outside of GitLab, this includes logging, monitoring, etc.
