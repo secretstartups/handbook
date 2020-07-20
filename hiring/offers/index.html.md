@@ -107,7 +107,7 @@ If the offer is for a manager or individual contributor, the CPO or CEO do not n
 
 Once the offer package has been approved by the approval chain, the verbal offer will be given, which will be followed by an official contract, which is sent through Greenhouse. During the verbal offer, it is important that the Recruiter or individual making the offer, communicate to the candidate that we will never expect anyone to join on a National Holiday in their location and if they can therefore confirm a viable start date. It is also important when communicating the offer to go over the candidate’s [employment type](https://about.gitlab.com/handbook/people-group/contracts-and-international-expansion/#team-member-types-at-gitlab) and [benefits](https://about.gitlab.com/handbook/total-rewards/benefits/). 
 
-You can find more about the verbal offer [here](https://about.gitlab.com/handbook/hiring/recruiting-framework/req-overview/#step-11-verbal-offer). 
+You can find more about making a verbal offer [here](https://about.gitlab.com/handbook/hiring/recruiting-framework/req-overview/#step-11-verbal-offer). 
 
 Offers made to new team members should be documented in Greenhouse through the notes thread between the person authorized to make the offer and the Candidate Experience Specialist.
 
