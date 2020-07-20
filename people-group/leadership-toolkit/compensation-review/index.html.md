@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Compensation Review"
+title: "Compensation Review Communication"
 ---
 
 ## On this page
@@ -9,24 +9,9 @@ title: "Compensation Review"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Annual Compensation - Communication Guidelines
+### Compensation Review cycles
 
-### Timelines
-
-**For Employees:**
-* **Feb 1** - Managers will receive approval from Compensation to start communicating
-increases on or before Feb 1.  Do not communicate to team members until we have approval from Compensation.
-* **Feb 1** - Increases are effective Feb 1 and will be paid in the regular payroll cycle based on your location.
-* **Feb 1 - 13**:  Managers will log into BambooHR (or Compaas) to see the final approved amount.  The final amount may be higher or lower than originally scheduled.  Make sure you understand the reason for the amount prior to communicating.  
-* **Feb 14**:  Employees will be able to see their increase in BambooHR
-
-**For Contractors:**
-* **Feb 1** - Managers will receive approval from Compensation to start communicating
-increases on or before Feb 1.  Do not communicate to team members until we have approval from Compensation.
-* **Feb 1** - Increases are effective Feb 1 and will be paid in the regular payroll cycle based on your location.
-* **Feb 1 - 6**:  Managers will log into BambooHR (or Compaas) to see the final approved amount.  The final amount may be higher or lower than originally scheduled.  Make sure you understand the reason for the amount prior to communicating.  
-* **Feb 7**:  Contractors will be able to see their increase in BambooHR in order to submit invoices by Feb 8th.
-
+Check the most up to date information with regards to our [Annual Compensation Review cycle](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline) and our [Catch Up Compensation Review cycle](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#catch-up-compensation-review-timeline) on the [Total Rewards page](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle). 
 ### Communication recommendations
 
 * **Communicate the increase face-to-face over [Zoom](/handbook/communication/#zoom).** As a manager, this is an opportunity for you to have a conversation with your team member about their increase and the reason behind it.  Having the conversation over Zoom allows for you to have a dialogue with your team member (versus just sharing the number or percentage) and allows you to pick up other information like tone and non-verbal cues which can tell you more about how someone is feeling.
