@@ -157,6 +157,17 @@ There are four styles related to the SOCIAL STYLE model. Each style represents a
     <li>Easy for others to communicate and share with</li>
   </ul>
 
+  <b> Orientation of an Amiable:</b>
+  <ul>
+    <li>Want to be liked!</li>
+    <li>Relationships</li>
+    <li>Risk-averse</li>
+    <li>Slower-paced</li>
+    <li>Harmony</li>
+    <li>Consensus</li>
+    <li>Present time-frame</li>
+  </ul>
+
   <p>
     <b>How to handle the Amiable:</b>
     <ul>
