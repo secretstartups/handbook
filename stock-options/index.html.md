@@ -189,6 +189,10 @@ team member quitting because of personal circumstances. In most cases there will
 to pay for shares and the taxes yourself, or lose the options, even when you are fully vested. And, of course, [being a publicly listed company in 2020
 is our public ambition](/company/strategy/), but neither the timing, nor whether it happens at all, is guaranteed.
 
+If you leave GitLab after less than a year, your Carta account will stay active but all unvested GitLab shares (which will be all of them as our vesting schedule starts at 1 year) will show as expired and you will not be able to take any actions with those shares. At the exercise expiration date, since no options were exercised, all options will return to the option pool to be reissued by GitLab.
+
+You can reach a Carta support rep by calling (650) 669-8381 but you will have to enter a support PIN that is associated with you. You can find this PIN by logging into your Carta account, clicking Help, then Contact Us and the PIN will be there.
+
 ## Administration
 
 Option grants are approved by the Board of Directors at regularly scheduled quarterly board meetings. After your grant has been approved by the Board you will receive a grant notice by email from [Carta](https://carta.com/) containing information relevant to the grant including the number of shares, exercise price, vesting period and other key terms. We use Carta to administer our stock option program.
