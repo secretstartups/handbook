@@ -44,6 +44,18 @@ In the SOCIAL STYLE Model their are two scales of behavior:
 2. **Responsiveness:**
     *  Dimension of behavior that measures the degree to which others perceive a person as tending to control or display their feelings and emotions when interacting. (Control versus Emotes)
 
+### Personality vs Behavior
+
+**Behavior:** What you say (verbal) and do (non-verbal)
+
+**Personality:**  The Combination of ideas, values, hopes, dreams, attitudes, abilities, as well as the behavior that others can observe that encompa
+
+**SOCIAL STYLES:** Pattern of actions that others can observe and agree upon for describing one’s behavior
+
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSGVmCDCF2hFfy7810AY0mMPeaBfsfYvOWYTp37roeBBRxCwAZdiqpdHXfV69tYRjuFfy2yk2CDAUS6/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
+
 ### The four styles
 
 There are four styles related to the SOCIAL STYLE model. Each style represents a particular patter of actions that others can observe and agree upon for describing one's behavior. 
