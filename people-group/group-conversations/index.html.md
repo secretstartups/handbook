@@ -99,11 +99,10 @@ There are three layers of content in a presentation:
   - Feelings, this is the verbal and non-verbal communication in the video feed, how you feel about the take away, 'I'm proud of the band for picking up the pace'.
 
 1. Save time and ensure asynchronous communication by writing information on the slides. Many people will not be able to participate in Group Conversations, either live or recorded, but can read through the slides.
-2. Slides with a lot of text that can be read on their own with lots of links are appreciated.
-3. Please add the link to your Group Conversation recordings folder in Google Drive to the invite. This enables team members to easily review the recording afterward.
-4. If you want to present please consider [posting a recording to YouTube](/handbook/marketing/marketing-operations/youtube/) at least a day before the meeting, link it from the Google Doc, and mention it in the relevant slack channels.
-5. Once a quarter, add a slide covering items being actioned from the engagement survey.
-6. Use this [slide deck](https://docs.google.com/presentation/d/16FZd01-zCj_1jApDQI7TzQMFnW2EGwtQoRuX82dkOVs/edit?usp=sharing) as template to your presentation. Presentations should allow editing (preferred) or commenting from everyone at GitLab.
+1. Slides with a lot of text that can be read on their own with lots of links are appreciated.
+1. If you want to present please consider [posting a recording to YouTube](/handbook/marketing/marketing-operations/youtube/) at least a day before the meeting, link it from the Google Doc, and mention it in the relevant slack channels.
+1. Once a quarter, add a slide covering items being actioned from the engagement survey.
+1. Use this [slide deck](https://docs.google.com/presentation/d/16FZd01-zCj_1jApDQI7TzQMFnW2EGwtQoRuX82dkOVs/edit?usp=sharing) as template to your presentation. Presentations should allow editing (preferred) or commenting from everyone at GitLab.
 
 ##### Examples of good presentations
 
