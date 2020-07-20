@@ -175,7 +175,7 @@ Enterprises that use a complex toolchain often need [20 people to manage all the
 
 ### Flowchart
 
-Below is a flowchart illustration of the various integrations necessary between tools specified above. 
+Below is a flowchart illustration of the various integrations necessary between tools specified above.
 
 ```mermaid
 
@@ -184,11 +184,12 @@ graph LR
   B("<img src='https://about.gitlab.com/images/devops-tools/github-logo-small.png'; width='30' />"<br>Create)
   C("<img src='https://about.gitlab.com/images/devops-tools/spinnaker-logo.svg'; width='30' />"<br>Release)
   D(Manage)
-  J(Defend)
+  E(Configure)
   F("<img src='https://about.gitlab.com/images/devops-tools/new-relic-logo.png'; width='30' />"<br>Monitor)
   G("<img src='https://about.gitlab.com/images/devops-tools/jenkins-logo-small.png'; width='30' />"<br>Verify)
   H("<img src='https://about.gitlab.com/images/devops-tools/veracode-logo.png'; width='50' />"<br>Secure)
   I("<img src='https://about.gitlab.com/images/devops-tools/spinnaker-logo.svg'; width='30' />"<br>Package)
+  J(Defend)
 
   A --> B
   A --> C
