@@ -410,6 +410,17 @@ We should ensure that GitLab makes it easy to help with enterprise workflows:
 - We run quality and security tools automatically and provide dashboards to check status instead of making it a step in the process.
 - We limit the impact of mistakes with incremental rollout and automatic rollback.
 
+When considering a customer need for enforcement or limitations:
+- Deeply understand and document the underlying customer problem. It's our responsibility to understand the need we are solving for before we even consider imposing controls on our users.
+- Solve for individual use cases first. Native functionality.
+- Consider the smallest group of users first. Don't reach for instance-wide controls, but instead iterate from the smallest segment possible (e.g. a sub-set of projects).
+- Provide simple workarounds and overrides. 
+
+As an example, customers requested instance-wide enforcement through required CI jobs. Doing this would have been a mistake. Instead:
+* We understood their problem more deeply, and realized we could build capabilities to perform these checks in existing primitives (like [external rules](https://gitlab.com/groups/gitlab-org/-/epics/3869) in MR approvals).
+* We limited the scope of the problem, and avoided any limitations at the instance-level. Instead, we planned to scope the default-off impact as small as possible to only projects with a particular [compliance framework](https://docs.gitlab.com/ee/user/project/settings/#compliance-framework-premium).
+* We intentionally planned for workarounds. A developer should be able to override these limitations inside merge requests. They should also be able to create subgroups that isn't subject to these controls.
+
 ### Prefer small primitives
 
 Small primitives are building blocks in GitLab. They are an abstraction _not_ at
