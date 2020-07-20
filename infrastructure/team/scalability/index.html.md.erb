@@ -251,16 +251,17 @@ project](https://gitlab.com/gitlab-com/gl-infra/triage-ops). These
 perform tasks such as automatically labelling issues, asking the author
 to add labels, and creating weekly triage issues.
 
-We currently have two weekly triage issues:
-
-1. Board refinement - walk through the [Planning Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1697168) and move
-   issues forward towards `workflow-infra::Ready` where possible.
-2. `Service::Unknown` refinement - lists issues with `Service::Unknown`
-   with the goal of adding a defined service, where possible.
-
 We rotate the triage ownership each month, with the current triage owner
 responsible for picking the next one (a reminder is added to their last
 triage issue).
+
+Weekly triage issues contain three tasks:
+
+1. Board refinement - walk through the [Planning Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1697168) and move
+   issues forward towards `workflow-infra::Ready` where possible.
+2. `Service::Unknown` refinement - go through issues marked `Service::Unknown` with the goal of adding a defined service, where possible.
+3. Review request processing - the goal is to move these issues to `workflow-infra::In Progress`, either through picking them up
+   directly, or asking on our team channel if any one else is able.
 
 ### Issue boards
 
