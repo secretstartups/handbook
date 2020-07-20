@@ -419,7 +419,7 @@ When considering a customer need for enforcement or limitations:
 As an example, customers requested instance-wide enforcement through required CI jobs. Doing this would have been a mistake. Instead:
 * We understood their problem more deeply, and realized we could build capabilities to perform these checks in existing primitives (like [external rules](https://gitlab.com/groups/gitlab-org/-/epics/3869) in MR approvals).
 * We limited the scope of the problem, and avoided any limitations at the instance-level. Instead, we planned to scope the default-off impact as small as possible to only projects with a particular [compliance framework](https://docs.gitlab.com/ee/user/project/settings/#compliance-framework-premium).
-* We intentionally planned for workarounds. A developer should be able to override these limitations inside merge requests. They should also be able to create subgroups that isn't subject to these controls.
+* We intentionally planned for workarounds. A developer should be able to override these limitations inside merge requests. They should also be able to create subgroups that aren't subject to these controls.
 
 ### Prefer small primitives
 
