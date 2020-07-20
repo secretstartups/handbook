@@ -70,6 +70,10 @@ POC issues are also time-boxed with a due date applied to these items and should
 
 It is also important to note that not all POCs will be successful, and that is OK! Some avenues of research may not be successful, and the POC will have saved us from investing significant time in a solution that will not meet our needs. The goal is early feedback and fast iteration.
 
+###### Design phase
+
+In the design phase the product designer will require input from stakeholders such as engineering and product management to push forward a design concept. Ideally, the product designer is working ahead of the current milestone and will require feedback on issues ahead of the build track or even the planning breakdown. This [issue board](https://gitlab.com/groups/gitlab-org/-/boards/1884154) is used to make sure engineering has visibility on the items that require their input ahead of time so they can be accounted for in terms of availability and is mentioned in the Needs/Weight issues.
+
 ##### Planning Breakdown
 
 The PM and the engineer will work together to create all of the issues required to build the solution. This includes
