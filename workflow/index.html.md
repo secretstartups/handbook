@@ -441,11 +441,13 @@ Milestones closure is in the remit of [the Delivery team](https://about.gitlab.c
 ### Milestone cleanup schedule
 
 - On `M, 19th` if `M, 22nd` is Monday:
-- On `M, 20th` if `M, 22nd` is Friday:
-- On `M, 20th` or `M, 21st` whichever is Friday, if `M, 22nd` is on weekend:
-  - Open issues and merge requests will be moved to the next milestone, and
-    labelled with `~"missed:x.y"`.
-  - `~"missed-deliverable"` will also be added whenever `~"Deliverable"`
+- On `M, 20th` or `M, 21st` whichever is Friday, if `M, 22nd` is on weekend.
+- On `M, 21st` if `M, 22nd` is any other day
+
+These actions will be applied to open issues:
+- Open issues and merge requests will be moved to the next milestone, and
+  labelled with `~"missed:x.y"`.
+- `~"missed-deliverable"` will also be added whenever `~"Deliverable"`
     is presented.
 
 Milestones are closed when the Delivery team no longer needs to create a backport release for a specific milestone.
@@ -538,7 +540,7 @@ There are two issue boards being reviewed in this refinement exercise.
 1. To participate in the weekly refinement, ask your engineering director to forward the invite of *Availability & Performance Refinement* meeting which is at 16:30 UTC (summer) or 17:30 UTC (winter) every Tuesday. Here is the [meeting agenda](https://docs.google.com/document/d/1SanPUz86cIyRQR5kRmXyCLLE8sZVpx0auu_W6jY94W4/edit?usp=sharing).
 1. To nominate issues to either of the boards above:
    1. Assign [a severity](/handbook/engineering/quality/issue-triage/#severity) on the issue to help asses the priority assignment for the refinement session.
-      1. When assigned severity is the highest and the issue is potentially preventing the Infrastructure department from performing regular operations, additionally apply the `~production request` label. When an issue has `~infradev ~S1 ~P1 ~production request` labels applied, it is required to work on immediate resolution.  In the case of a `~production request`, please engage Development management based on group assignment to further the process along.  
+      1. When assigned severity is the highest and the issue is potentially preventing the Infrastructure department from performing regular operations, additionally apply the `~production request` label. When an issue has `~infradev ~S1 ~P1 ~production request` labels applied, it is required to work on immediate resolution.  In the case of a `~production request`, please engage Development management based on group assignment to further the process along.
    1. Ensure that the issue clearly explains the problem, the (potential) impact on GitLab.com's availability, and ideally, clearly defines a proposed solution to the problem.
    1. GitLab.com Infra/Dev Triage: use the label `infradev`.
    1. Performance Refinement: use the label `performance-refinement`.
