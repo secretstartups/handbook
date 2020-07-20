@@ -78,6 +78,25 @@ For detailed use-cases per tier, visit the [Per Tier Use-Cases page](/handbook/c
 
 When building integrations to partners it is possible to make exceptions to our buyer-based model when our tiers don't align well with those of the partner, but only in favor of lower tiers. As an example - a partner who provides a team collaboration tool with a free tier might desire any GitLab integration to be present in our free tier despite it clearly being appropriate for single team usage. The go-to-market benefits of this partnership can outweigh the divergence from our buyer-based model. 
 
+### Alternative Representations of Buyer Based Tiers
+
+We've found it difficult to express our buyer based tier succintly in various places including our [pricing page](/pricing). As a result we occasionally use different taxonomies to express the value in our tiers.
+
+#### Capabilities
+
+We've found that bundling our features within tiers into capabilities [resulted in improved conversion performance on our pricing page](ISSUE LINK). While it is how we present the value of our tiers, this capability based representation is not meant to replace, supplant or direct our Buyer Based Tiering decision.
+
+The following are our current set of capabilities:
+* Single-project management
+* More control over your code
+* Multi-project management
+* Code integrity controls
+* Multi-region support
+* Company-wide portfolio management
+* Application Security
+* Enterprise Insights
+* Compliance Automation
+
 ## Lower tiers have more relative value
 
 Our lower tiers have:
