@@ -37,6 +37,11 @@ Set aside time each day to participate in the challenge and live learning sessio
 
 ## Pilot Program 
 
+- 12 Daily Challenges
+- 4 Live Learning Sessions
+- 4 Weekly Self Evaluations and Reflections
+- Certification Upon Completion
+
 ### Week 1
 
 During week one we will discuss **Getting to Know your Team & Managing Underperformance**. Information covered in week one can be found on the [SOCIAL STYLES](/handbook/people-group/learning-and-development/emotional-intelligence/social-styles/) and [Underperformance page](https://about.gitlab.com/handbook/underperformance/). 
