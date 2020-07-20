@@ -165,7 +165,7 @@ Zendesk users are the people within Zendesk.
     all
   * May this user view lists of user profiles? Can view all users in your
     account
-  * Can add or modify groups & organizations: true
+  * Can add or modify groups & organizations: false
 * Explore:
   * What can this agent do in Explore? View reports
 * Tools:
@@ -196,7 +196,7 @@ Zendesk users are the people within Zendesk.
     all
   * May this user view lists of user profiles? Can view all users in your
     account
-  * Can add or modify groups & organizations: true
+  * Can add or modify groups & organizations: false
 * Explore:
   * What can this agent do in Explore? Create reports and manage permissions
 * Tools:
@@ -226,7 +226,7 @@ Zendesk users are the people within Zendesk.
     all
   * May this user view lists of user profiles? Can view all users in your
     account
-  * Can add or modify groups & organizations: true
+  * Can add or modify groups & organizations: false
 * Explore:
   * What can this agent do in Explore? View reports
 * Tools:
