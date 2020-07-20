@@ -445,12 +445,16 @@ IACV may relate to future periods (within twelve months).
 
 IACV can be calculated by adding First Order IACV + Connected New IACV + Growth IACV.
 
-Beginning ARR + IACV may not equal ending ARR due to the following reasons:
+More explicitly Beginning ARR + IACV may not equal ending ARR due to the following reasons:
 1. True Ups: true-ups are included in IACV but not in the change in ARR (Delta ARR)
 1. Timing: the change in ARR only includes contracts that have started where as IACV is based on the close date so the difference in the close dates of the contracts driving the IACV to the subscription start date impacts the difference
 3. Co-term: if contract value is less than 12 months the change in ARR will show the 12 month value and IACV will show the value of the contract.
 
 End ARR - Beginning ARR (Delta ARR) = iACV - [True Ups] + [Coterm difference] +/- [Timing difference]
+
+Additionally IACV can be used to calculate Total ARR when combined with the renewal base.
+
+Total ARR = New IACV + Growth IACV (Gross) + Renewals (including Multiyear mid-contract ARR) + Churn - [True Ups] +/- [bookings timing] +/- [co-term adjustment]
 
 The final IACV value comes from the Net_IACV field in the Salesforce opportunities table.
 
@@ -552,12 +556,22 @@ Contract value from the first new subscription order with an Account that is rel
 
 The change in annual recurring revenue (ARR) from one period to the next.
 
+Note: Delta ARR is not currently a metric that we can use for operational purposes including planning, compensation or as a KPI.  We are documenting assumptions to enable a transition to Delta ARR from iACV when our systems are processes are ready to support that move.
+
 When looking at a time horizon of the next twelve months delta ARR will equal IACV except:
 1. True-ups are included in IACV but not in delta ARR
 1. Timing: delta ARR only includes contracts that have started where as IACV is based on the close date so the difference in the close dates of the contracts driving the IACV to the subscription start date impacts the difference
 1. Co-term: if contract value is less than 12 months delta ARR will show the 12 month value and IACV will show the value of the contract.
 
 Delta ARR = iACV - [True Ups] + [Coterm difference] +/- [Timing differences]
+
+Delta ARR can be broken down in the following format to show how our ARR changes from period to period.
+
+Delta ARR = ARR Period 1 - ARR Period 0 = New Business (First Order) + Growth Business (Connected New + Growth) + Renewals + Churn 
+
+Notes: 
+Renewals is the renewal base and includes multi-year bookings that renew their ARR although they are contractually committed.
+Churn is the amount of ARR that is lost due to lost customers or downgraded customers.
 
 #### ProServe Contract Value (PCV)
 
