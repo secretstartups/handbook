@@ -180,15 +180,15 @@ Below is a flowchart illustration of the various integrations necessary between 
 ```mermaid
 
 graph LR
-  A("<img src='https://about.gitlab.com/images/devops-tools/atlassian-products/jira-software-logo.svg'; width='33' />"<br>Plan)
-  B("<img src='https://about.gitlab.com/images/devops-tools/github-logo-small.png'; width='30' />"<br>Create)
-  C("<img src='https://about.gitlab.com/images/devops-tools/spinnaker-logo.svg'; width='30' />"<br>Release)
+  A(Plan)
+  B(Create)
+  C(Release)
   D(Defend)
   E(Configure)
-  F("<img src='https://about.gitlab.com/images/devops-tools/new-relic-logo.png'; width='30' />"<br>Monitor)
-  G("<img src='https://about.gitlab.com/images/devops-tools/jenkins-logo-small.png'; width='30' />"<br>Verify)
-  H("<img src='https://about.gitlab.com/images/devops-tools/veracode-logo.png'; width='50' />"<br>Secure)
-  I("<img src='https://about.gitlab.com/images/devops-tools/spinnaker-logo.svg'; width='30' />"<br>Package)
+  F(Monitor)
+  G(Verify)
+  H(Secure)
+  I(Package)
 
   A --> B
   A --> C
@@ -197,10 +197,10 @@ graph LR
   B --> C
   B --> H
   B --> F
-  C --> E
   C --> G
   C --> F
   C --> D
+  E --> C
   G --> H
   G --> I
   G --> C
