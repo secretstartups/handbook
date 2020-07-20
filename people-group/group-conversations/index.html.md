@@ -91,7 +91,7 @@ A little bit of preparation can go a long way in making the call worthwhile for 
 
 Use presentations to document everything people should know about your group. These presentations are for attendees to review and generate questions from for the call. You can also record and upload a [YouTube video](/handbook/marketing/marketing-operations/youtube/) if there is additional context that would be beneficial to supplement with the slides.
 
-**Please remember that you should NOT present during a Group Conversation.** Synchronous calls are for conversation and discussion. It is the responsinility of the attendees to prepare questions before the call to maximize value of time spent synchronously. If someone does start to present the slides in the group conversation everyone is encouraged to say: 'At GitLab we use meetings for conversation and not presentation, but please do consider recording a video for next time.' Expect to be interrupted if presenting more than a 15 second welcome statement. 
+**Please remember that you should NOT present during a Group Conversation.** Synchronous calls are for conversation and discussion. It is the responsibility of the attendees to prepare questions before the call to maximize value of time spent synchronously. If someone does start to present the slides in the group conversation everyone is encouraged to say: 'At GitLab we use meetings for conversation and not presentation, but please do consider recording a video for next time.' Expect to be interrupted if presenting more than a 15 second welcome statement. 
 
 There are three layers of content in a presentation:
   - Data, this is the contents of the slide.
