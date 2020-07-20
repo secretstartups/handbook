@@ -127,9 +127,21 @@ Job Families should have three to five PIs.
 * Check: Delete source branch when merge request is accepted.
 * Click the Submit merge request button at the bottom
 
-### Once the Merge Request is Submitted
-* Several pipelines will run. Among them one that specifically test for `Inclusive language` in the job families. If you're using 
-language that is marked as subtly masculine-coded, fixed-coded or using misused words, the pipeline will fail and you'll be asked to fix this.
+### Inclusive Language Check
+* Once the merge request is submitted several pipelines will run. Among them one that specifically test for `Inclusive language` in the job families. If you're using language that is marked as subtly masculine-coded, fixed-coded or using misused words, the pipeline will fail and you'll be asked to fix this. Some examples of masculine and fixed language are below, with neutral and growth alternatives listed. Please reference (and add to) [this list](https://docs.google.com/document/d/1YBzbnzKrsTLtAL5L3M5Gt4ZCuCDwPVgwJbeCt62qBIY/edit) for suggested words to use in place of masculine or fixed language. 
+
+| Masculine-Coded | Neutral Alternatives |
+| ------ | ------ |
+| Driven | Guided <br> Steered |
+| Objective | Goal <br> Target |
+| Strong | Robust <br> Substantial |
+
+| Fixed-Coded | Growth Alternative |
+| ------ | ------ |
+| Brilliant | Highly determined |
+| Rockstar| Motivated |
+| Super smart | Work hard |
+
 * In case you get that error, the first recommendation is to read the error. It will say what is wrong with the text. For example:
 
 ```
@@ -141,17 +153,17 @@ In this case, there's two job families that failed and each for a different reas
 - fix the text to be more inclusive, commit your changes and the pipeline will run again
 - if you disagree or you feel like the pipeline found a false positive, you can add the file to [this list](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/inclusiveness_check.yml). The files in this list are ignored by the inclusiveness check.
 
-If you want, you can also use this [online tool](https://inclusiveness-check.herokuapp.com/) while working on fixing the problems.
+If you want, you can also use this [online tool](https://inclusiveness-check.herokuapp.com/) while working on fixing the problems. 
 
-### Once the Merge Request is merged
-* Once it is merged - it is pushed to master to make the changes and the pipeline will need to run again to make the changes official.
-* Once the MR has been merged, you will be able to go into the directory you added to and see your newly created Job Family there.  
-
-### Help! My pipeline is failing.
+### Other Reasons for a Failed Pipeline
 
 In October 2019, we added a CI Job that checks that job families have Requirements, Responsibilities, Performance Indicators, [Job Grades](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades), and a Hiring Process, as per the below template.
 
 Under requirements, every role must have `Ability to use GitLab`. This will also fail the pipeline.
+
+### Once the Merge Request is merged
+* Once it is merged - it is pushed to master to make the changes and the pipeline will need to run again to make the changes official.
+* Once the MR has been merged, you will be able to go into the directory you added to and see your newly created Job Family there. 
 
 ## Templates for New Job Family
 ```
