@@ -71,6 +71,9 @@ To improve sales efficiency and reduce the dependence of GitLab sales team membe
 
 *  **Learn more**: Administrators have more powerful user management capabilities. Check out [all the differences between GitLab.com and self-managed](/handbook/marketing/product-marketing/dot-com-vs-self-managed/#all-differences-between-gitlabcom-and-self-managed).
 
+### Manage Quiz 
+
+* Please take a moment to answer the questions in this short [quiz](https://forms.gle/imYEn2k2C8aTxMBC8) based on the above videos and handbook resources for the top technical questions on the Manage stage.
 
 ### Plan
 
@@ -108,6 +111,9 @@ To improve sales efficiency and reduce the dependence of GitLab sales team membe
 
 *  **Learn more**: Review the [GitLab Jira development panel integration](https://docs.gitlab.com/ee/integration/jira_development_panel.html) documentation
 
+### Plan Quiz 
+
+* Please take a moment to answer the questions in this short [quiz](https://forms.gle/ywpWPxZjmDQJ1seB8) based on the above videos and handbook resources for the top technical questions on the Plan stage.
 
 ### Create
 
@@ -150,6 +156,9 @@ To improve sales efficiency and reduce the dependence of GitLab sales team membe
 
 *  **Learn more**: Check out the [GitLab Create Features page](https://about.gitlab.com/features/#create)
 
+### Create Quiz 
+
+* Please take a moment to answer the questions in this short [quiz](https://forms.gle/wF5KoPFKCwBXJSLKA) based on the above videos and handbook resources for the top technical questions on the Create stage.
 
 ### Verify
 
