@@ -29,7 +29,7 @@ Not every incident requires a review. But, if an incident matches any of the fol
 
 The first step in the Incident Review process is the synchronous review of the incident by representatives of the teams involved in the resolution of the incident. This step is conducted as close to the incident date as possible and does not require a complete Incident Review write up. The outcome of this first step should be a published Incident Review, per defined [timelines](#incident-review-timeline).
 
-### Review of Root Cause and Corrective Actions
+### Review of Root Causes and Corrective Actions
 
 Incident reviews second step is engaging with the customer, through the point of contact such as a TAM. This should always involve sharing the findings from the first step in an async form. In case of a customer requiring a sync to discuss the finding, the Infrastructure management will organise the discussion with important stakeholders of this process, per defined [timelines](#incident-review-timeline)
 
@@ -78,7 +78,7 @@ The purpose of these sessions are to encourage discussion, asking questions and 
 1. Is the incident review completed to the appropriate level?
 1. Were our monitoring systems effective?
 1. Is there a sufficient understanding of the circumstances that led to the outage? If not, is there a plan to improve observability to improve understanding in future?
-1. Was the root cause sufficiently deep?
+1. Were the root causes explored in sufficient depth?
 1. Are the corrective actions appropriate and have the appropriate assigned priorities?
 1. Do the stakeholders agree with the findings?
 
