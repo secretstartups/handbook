@@ -7,13 +7,18 @@ This page is meant to provide insight into how we consider and allocate our inve
 
 ## Investment by Stage
 
-| Section - Stage | [Lifecycle](/direction/maturity/) |
-|-----------------|-----------|
+| Section - Stage | [Lifecycle](/direction/maturity/) | Horizon | Usage Driver Score | Revenue Driver Score | SAM Driver Score | Stage Development Spend % |
+|-|-|-|-|-|-|-|
 <% data.sections.each do |sectionKey, section| %>
   <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
     <% stageLine=[] %>
     <% stageLine << "#{section.name}:#{stage.display_name}"%>
     <% stageLine << "#{stage.lifecycle}" if stage.lifecycle %>
+    <% stageLine << "#{stage.horizon}" if stage.horizon %>
+    <% stageLine << "#{stage.usage_driver_score}" if stage.usage_driver_score %>
+    <% stageLine << "#{stage.revenue_driver_score}" if stage.revenue_driver_score %>
+    <% stageLine << "#{stage.sam_driver_score}%" if stage.sam_driver_score %>
+    <% stageLine << "#{stage.stage_development_spend_percent}" if stage.stage_development_spend_percent %>
     <%= "| #{stageLine.join(' | ')} |" if stageLine %>
   <% end %>
 <% end %>
