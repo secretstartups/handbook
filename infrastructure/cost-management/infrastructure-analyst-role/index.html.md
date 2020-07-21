@@ -2,6 +2,25 @@
 layout: handbook-page-toc
 title: "Infrastructure Analyst Role"
 ---
+
+
+---
+layout: handbook-page-toc
+title: "Infrastructure Analyst Role"
+description: "Defines role and responsibilites of infra analyst"
+---
+
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .toc-list-icons .hidden-md .hidden-lg}
+
+{::options parse_block_html="true" /}
+
+----
+
 ### Responsibilities
 - Optimize infra spend through committed spend programs and supporting enterprise contract deals
 - Ad Hoc Analysis of Infrastructure hosting spend
