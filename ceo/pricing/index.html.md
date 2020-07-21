@@ -86,7 +86,7 @@ We've found it difficult to express our buyer based tier succintly in various pl
 
 We've found that bundling our features within tiers into capabilities [resulted in improved conversion performance on our pricing page](ISSUE LINK). While it is how we present the value of our tiers, this capability based representation is not meant to replace, supplant or direct our Buyer Based Tiering decision.
 
-```The followings are our current set of capabilities:
+The following are our current set of capabilities:
 
 Starter/Bronze:
 * Single-project management
