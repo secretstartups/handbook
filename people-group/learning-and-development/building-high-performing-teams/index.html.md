@@ -72,7 +72,7 @@ Why am I here? Team needs to move from complete freedom to a set of “boundarie
 4. Set clear expectations with your team from the start and ask them to identify where your team is in the model
 5. Assign a buddy or mentor to each new team member to help them acclimate to the team
 
-## Stage 2 Trust Building - Who are you?
+### Stage 2 Trust Building - Who are you?
 
 Who are you? Team members share a mutual regard - the climate is positive, people are respectful and supportive. There is a willingness to be forthright, open, and free!
 - Willingness to be forthright, open, and free in working with team members. 
@@ -97,7 +97,7 @@ Who are you? Team members share a mutual regard - the climate is positive, peopl
 5. Establish team ground rules and communication protocol
 6. Review the model with the team quarterly and track progress
 
-## Stage 3 Goal Clarification - What are we doing?
+### Stage 3 Goal Clarification - What are we doing?
 
 What are we doing? Explicit assumptions are made clear; individual assumptions are made known. A clear vision of the end state and what the team is working towards. 
 - Assumptions are made clear; individual assumptions are made known where values are stated explicitly.
@@ -119,7 +119,7 @@ What are we doing? Explicit assumptions are made clear; individual assumptions a
 2. Collectively develop team goals in support of the mission and vision. Make sure the goals are SMART (specific, measurable, attainable, realistic, time-sensitive). Document the goals and periodically assess. 
 3. During 1:1s, discuss how the individual team member’s performance ties to the team goals. Ask the team member for their assessment of how their contributions tie to the team.  
 
-## Stage 4 Commitment - How will we do it?
+### Stage 4 Commitment - How will we do it?
 
 How will we do it? The team manages its resources well to make use of what they have to do the job. The team needs to understand how it will make decisions; how much control and influence are shared.
 - Decisions are made about exactly how time, resource allocation, and team members will be managed.
@@ -142,7 +142,7 @@ How will we do it? The team manages its resources well to make use of what they 
 2. Review, document, and communicate the responsibilities
 3. Define and document individual roles. Discuss assumptions that team members have about roles. Address differences in assumptions. 
 
-## Stage 5 Implementation - Who does what, when, where?
+### Stage 5 Implementation - Who does what, when, where?
 
 Who does what, when, and where? There is clarity so that the team can take off and move towards creativity. Clear processes in place that blend with the team. 
 - This stage indicates that the team has all of the boundaries it needs to begin operating effectively. 
@@ -167,7 +167,7 @@ Who does what, when, and where? There is clarity so that the team can take off a
 4. Utilize GitLab schedules and trackers and assign someone to own components of the plans. 
 5. Periodically solicit input from senior leaders on the team’s performance and execution. Share the feedback with the team. 
 
-## Stage 6 High Performance - Wow!
+### Stage 6 High Performance - Wow!
 
 The team accomplishes more than it is expected to. The team has taken off and creativity is fostered to reach new levels of productivity and results. 
 - WOW!!! The team accomplished more than it expected to. The team has taken off and boundaries are lifted. Creativity is fostered. The team is agile, flexible, and can adjust goals as needed.
@@ -192,7 +192,7 @@ The team accomplishes more than it is expected to. The team has taken off and cr
         - What else can we achieve and accomplish that would be added value to GitLab?
 3. Conduct team after-action reviews and debriefs. Reflect on what the team learned and what the team could have done differently. 
 
-## Stage 7 Renewal - Why Continue? 
+### Stage 7 Renewal - Why Continue? 
 
 Why continue? It is time to give recognition to or celebrate the achievement of individuals that produce valuable work and provide results - take joy in what the team does. 
 
