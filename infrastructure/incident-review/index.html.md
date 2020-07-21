@@ -72,7 +72,9 @@ Incident review sessions are open on the GitLab Team Meetings calendar with the 
 1. Tuesdays at 13:30 - 14:20 UTC
 1. Tuesdays at 22:00 - 22:50 UTC
 
-GitLab team members are encouraged to review the incident review issues listed in the [agenda](https://docs.google.com/document/d/1Llm9tXHC2dNt_eercRUUXlUyWmOVw00wmXWQQbWvv2c/edit#) and add questions/comments under them. The IMOC assigned to a review is responsible for ensuring that stakeholders outside of Infrastructure are aware of the review. This can be done by adding the review to the agenda and adding an assignment, in the agenda doc, to the relevant stakeholders.
+The assigned IMOC is responsible for properly labeling the Incident Review issue (see [Incident-Management#labeling](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#labeling) `~Incident::Review-Scheduled` and adding it to the [agenda](https://docs.google.com/document/d/1Llm9tXHC2dNt_eercRUUXlUyWmOVw00wmXWQQbWvv2c/edit#).
+
+GitLab team members are encouraged to review the issues listed in the [agenda](https://docs.google.com/document/d/1Llm9tXHC2dNt_eercRUUXlUyWmOVw00wmXWQQbWvv2c/edit#) and add questions/comments. The IMOC assigned to a review is responsible for ensuring that stakeholders outside of Infrastructure are aware of the review. This can be achieved by inviting them to the Google Calendar event for when the incident will be discussed, posting in their teams' Slack channels, at-mentioning them in the issue, and assigning them directly in the Google Doc&mdash;or some combination of those options.
 
 The purpose of these sessions are to encourage discussion, asking questions and ensure that all aspects of the incident are reviewed, including:
 
