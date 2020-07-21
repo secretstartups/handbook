@@ -2,12 +2,19 @@
 layout: handbook-page-toc
 title: Product Investment
 ---
-
+<% 
+totalScore = 0
+data.sections.each do |sectionKey, section|
+  data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage|
+    totalScore += stage.usage_driver_score + stage.revenue_driver_score + stage.sam_driver_score
+  end
+end
+%>
 This page is meant to provide insight into how we consider and allocate our investment across our [Product Hierarchy](/handbook/product/product-categories/#hierarchy).
 
 ## Investment by Stage
 
-| Section - Stage | [Lifecycle](/direction/maturity/) | Horizon | Usage Driver Score | Revenue Driver Score | SAM Driver Score | Combined Score | Stage Development Spend % |
+| Section - Stage | [Lifecycle](/direction/maturity/) | Horizon | Usage Driver Score | Revenue Driver Score | SAM Driver Score | Combined Score | Total Score | Stage Development Spend % |
 |-|-|-|-|-|-|-|
 <% data.sections.each do |sectionKey, section| %>
   <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
@@ -20,6 +27,7 @@ This page is meant to provide insight into how we consider and allocate our inve
     <% stageLine << "#{stage.revenue_driver_score}" if stage.revenue_driver_score %>
     <% stageLine << "#{stage.sam_driver_score}%" if stage.sam_driver_score %>
     <% stageLine << "#{combinedScore}" %>
+    <% stageLine << "#{totalScore}" %>
     <% stageLine << "#{stage.stage_development_spend_percent}" if stage.stage_development_spend_percent %>
     <%= "| #{stageLine.join(' | ')} |" if stageLine %>
   <% end %>
