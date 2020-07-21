@@ -113,6 +113,8 @@ The goal of the implementation plan is to spur critical analysis of the issue an
 The implementation plan will also permit other engineers to review the issue and call out any areas of the application that might have dependencies or
 been overlooked.
 
+The implementation plan might be limited to a single step but it should not be skipped, even when the implementation is simple.
+This improves consistency across issues, and communicates that issues have been properly refined.
 
 ### FAQs
 
