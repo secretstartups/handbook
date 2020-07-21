@@ -12,3 +12,9 @@ title: Psychological Safety
 ## Introduction
 
 Welcome to the psychological safety page. More information will be added soon!
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/O0kAMpRp2hU" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
