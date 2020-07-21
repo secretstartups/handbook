@@ -48,14 +48,14 @@ departments = ['Verify', 'Package', 'Release', 'Defend', 'Dev' , 'Enablement', '
 department_regexp = /(#{Regexp.union(departments)})/
 %>
 
-<%=  direct_team(role_regexp: department_regexp, manager_role: 'Senior Director of Development') %>
+<%=  direct_team(role_regexp: department_regexp, manager_role: 'VP of Development') %>
 
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Development/, direct_manager_role: 'Senior Director of Development') %>
+<%= stable_counterparts(role_regexp: /[,&] Development/, direct_manager_role: 'VP of Development') %>
 
 ## Team Composition
 
@@ -207,14 +207,14 @@ It is recommended that daily progress is updated in the agenda.  Once the exit c
 ### Email alias and roll-up
 1. Available email alias (a.k.a. Google group):
 
-   Managers, Directors, Sr. Director's teams: each alias includes everyone in the respective organization.
+   Managers, Directors, VP's teams: each alias includes everyone in the respective organization.
 
 1. Naming convention:
 
    team@gitlab.com, examples below -
    * Managers: configure-be@gitlab.com includes all the engineers reporting to the Configure backend engineering manager.
    * Directors: ops-section@gitlab.com includes all the engineers and managers reporting to the director of engineering, Ops.
-   * Sr. Director: development@gitlab.com includes all engineers, managers, and directors reporting to the senior director of development.
+   * VP of Development: development@gitlab.com includes all engineers, managers, and directors reporting to the VP of Development.
 
 1. Roll up:
 
