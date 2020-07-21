@@ -1,11 +1,8 @@
-
 ---
 layout: handbook-page-toc
 title: "Infrafin"
 description: "Infrafin Board"
 ---
-
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -31,7 +28,7 @@ Quantify what the impact of the issue at hand is
 
 Partner with whoever the SME for the area is to find out how the issue can be resolved.
 
-### 4. Resolve the issue
+#### 4. Resolve the issue
 
 Due to the nature of being bucketed as a short term initiative, these should be relatively low effort, high impact initiatives and generally these should be completed as soon as possible. The weights on these issue will automatically be set to 8
 

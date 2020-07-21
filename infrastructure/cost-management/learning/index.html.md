@@ -43,7 +43,7 @@ This could also be called a "product", the two are interchangeable, and this can
 
 ### GitLab Specific Dimensions
 
-### Feature
+#### Feature
 - CI Windows Runners
 - Gitaly Dedicated Nodes
 
