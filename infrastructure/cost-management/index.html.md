@@ -4,7 +4,6 @@ title: "Cost Management"
 description: "GitLab Cost Management"
 ---
 
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 

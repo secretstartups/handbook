@@ -1,12 +1,6 @@
 ---
 layout: handbook-page-toc
 title: "Infrastructure Analyst Role"
----
-
-
----
-layout: handbook-page-toc
-title: "Infrastructure Analyst Role"
 description: "Defines role and responsibilites of infra analyst"
 ---
 
