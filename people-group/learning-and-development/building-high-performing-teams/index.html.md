@@ -76,6 +76,15 @@ Why am I here? Team needs to move from complete freedom to a set of “boundarie
 4. Set clear expectations with your team from the start and ask them to identify where your team is in the model
 5. Assign a buddy or mentor to each new team member to help them acclimate to the team
 
+<details>
+  <summary markdown='span'>
+    Step 1 Diagram
+  </summary>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRHRyishV7cc9k78hA7coEyYw0udvNBIWOgZZtMCxmzwPBPU_0_7b6BizAxH_1qocAZHhGhyWxuOcCt/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</details>
+
 ### Stage 2 Trust Building - Who are you?
 
 Who are you? Team members share a mutual regard - the climate is positive, people are respectful and supportive. There is a willingness to be forthright, open, and free!
