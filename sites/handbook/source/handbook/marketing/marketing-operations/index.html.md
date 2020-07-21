@@ -209,7 +209,7 @@ Email creation, campaigns, follow up reporting and sending is the responsibility
 
 ### Email Communication Policy  
 
-At GitLab, we strive to communicate with people in a way that is beneficial to them. Most of our email marketing communications follow an explicit opt-in policy, although at times, we will communicate via email to people who have not explicitly opted-in. We do this to offer something of value (ex. an invite to a workshop, dinner, the opportunity to meet an industry leader, etc. not an email inviting to read a blog post) to the person. We always include the unsubscribe link in our communications, and we respect the unsubscribe list. In addition to the unsubscribe button at the bottom of all of our emails, we have available our [Email Subscription Center](/company/preference-center/), where people can control their email communication preferences. There are currently four [email segments](/handbook/marketing/marketing-sales-development/marketing-operations//#email-segments).
+At GitLab, we strive to communicate with people in a way that is beneficial to them. Most of our email marketing communications follow an explicit opt-in policy, although at times, we will communicate via email to people who have not explicitly opted-in. We do this to offer something of value (ex. an invite to a workshop, dinner, the opportunity to meet an industry leader, etc. not an email inviting to read a blog post) to the person. We always include the unsubscribe link in our communications, and we respect the unsubscribe list. In addition to the unsubscribe button at the bottom of all of our emails, we have available our [Email Subscription Center](/company/preference-center/), where people can control their email communication preferences.
 
 Certain emails can bypass unsubscribe by being marked as `operational`. Operational emails need to be transactional and should not be marketing in nature. Examples include critical system alerts, auto-responder emails after an action is taken (ex. registration confirmation), event reminders with link to attend event, post event recording, and account balances.
 Emails that contain mostly marketing or promotional content like newsletters, event invites and sales emails are not considered `operational`. Only Mops and certain MPMs have access to this feature in Marketo. If you have any questions on whether or not your email is operational, contact Mops and/or Legal.
@@ -372,7 +372,9 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 ##### Step 1: Clone the Marketo program indicated below
 * Sponsored Webcast: [YYMMDD_ExternalWebcastVendorName_Topic_Region](https://app-ab13.marketo.com/#PG5523A1)
 * Virtual Conference: [YYYYMMDD_Vendor_VirtualConfName (Virtual Conference Template)](https://app-ab13.marketo.com/#ME5121A1) 
-* Self-Service Virtual Event with or without Promotion: [YYYYMMDD_SelfServiceTopic_Region](https://app-ab13.marketo.com/#ME5143A1)   
+* Self-Service Virtual Event with or without Promotion: [YYYYMMDD_SelfServiceTopic_Region](https://app-ab13.marketo.com/#ME5143A1)
+* Vendor Arranged Meetings: [YYYYMMDD_ArrangedMeetingsVendorName_Region](https://app-ab13.marketo.com/#PG5698A1)
+* Executive Roundtables: [YYYYMMDD_ExecutiveRoundtable_Topic_Region](https://app-ab13.marketo.com/#ME6028A1)
 * (MPM use only) Conference: [YYYYMMDD_Conference_Template](https://app-ab13.marketo.com/#ME5100A1)
 * (MPM use only) Conference Speaking Session: [YYYYMMDD_SpeakingSession_Template](https://app-ab13.marketo.com/#ME5092A1)
 * (MPM use only) Field Event: [YYYYMMDD_FieldEvent_Template](https://app-ab13.marketo.com/#ME5083A1)
@@ -394,7 +396,6 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
    * You do not need to update the following tokens upon setup:
         * ((my.email header image url}} - This is optional. You will need this if you had custom images created.
         * {{my.ondemandurl}} - This will be entered AFTER the event date. It is the link to the recorded webcast. You will need to come back after the event and update this token.
-
 * Update the utm_campaign field using the following format: Campaign Tag, with no spaces, capitalization, underscores, or special characters.
 
 ##### Step 4: Activate Marketo smart campaign(s)
