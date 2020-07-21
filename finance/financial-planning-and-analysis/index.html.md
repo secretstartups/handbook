@@ -255,7 +255,7 @@ Generally accepted accounting principles (GAAP) does not provide definitive guid
 
 Thresholds Materiality
 
-Coming soon...
+We believe that Revenue & EBIT actuals that have a greater variance of  +/- 5% vs Plan or Forecast is considered material. 
 
 Logging Threshold Differences
 
