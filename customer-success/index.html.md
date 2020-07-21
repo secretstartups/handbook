@@ -170,7 +170,8 @@ Customer Success has a few standing meetings:
 
 The different groups within CS also have standing meetings, including meetings for the SAs, PS, and TAMs groups, regional groups, and social calls.
 
-On the All CS Team Call, once a month, we have a few volunteers to discuss and/or demo new features from the most recent release:
+### GitLab Release Technical Showcase 
+Following the latest GitLab release, once a month on the All CS Team Call, we have a few volunteers to discuss and/or demo new features from the most recent release:
 
 | GitLab Release | Feature | Presenter | Role | Region | Recording |
 |----------------|---------|-----------|------|--------|-----------|
