@@ -15,23 +15,25 @@ This page is meant to provide insight into how we consider and allocate our inve
 
 ## Investment by Stage
 
-| Section - Stage | [Lifecycle](/direction/maturity/) | Horizon | Usage Driver Score | Revenue Driver Score | SAM Driver Score | Combined Score | Total Score | Stage Development Spend % |
-|-|-|-|-|-|-|-|
+| Section - Stage | [Lifecycle](/direction/maturity/) | Horizon | Usage Driver Score | Revenue Driver Score | SAM Driver Score | Combined Score | % of Total Score | Stage Development Spend % | Difference |
+|-|-|-|-|-|-|-|-|
 <% data.sections.each do |sectionKey, section| %>
   <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
     <% next if !stage.marketing %>
     <% stageLine=[] %>
     <% combinedScore = stage.usage_driver_score.to_i + stage.revenue_driver_score.to_i + stage.sam_driver_score.to_i %>
     <% percent_of_total = (combinedScore.to_f/totalScore.to_f)*100 %>
-    <% stageLine << "#{section.name}:#{stage.display_name}"%>
+    <% difference = stage.stage_development_spend_percent.to_f - percent_of_total%>
+    <% stageLine << "#{stage.display_name}"%>
     <% stageLine << "#{stage.lifecycle}" if stage.lifecycle %>
     <% stageLine << "#{stage.horizon}" if stage.horizon %>
     <% stageLine << "#{stage.usage_driver_score}" if stage.usage_driver_score %>
     <% stageLine << "#{stage.revenue_driver_score}" if stage.revenue_driver_score %>
     <% stageLine << "#{stage.sam_driver_score}" if stage.sam_driver_score %>
     <% stageLine << "#{combinedScore}" %>
-    <% stageLine << "#{percent_of_total.round(2)}%" %>
+    <% stageLine << "#{percent_of_total.round(1)}%" %>
     <% stageLine << "#{stage.stage_development_spend_percent}%" if stage.stage_development_spend_percent %>
+    <% stageLine << "#{difference.round(1)}%" %>
     <%= "| #{stageLine.join(' | ')} |" if stageLine %>
   <% end %>
 <% end %>
