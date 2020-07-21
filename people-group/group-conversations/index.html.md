@@ -131,11 +131,15 @@ If a Group Conversation is cancelled, the People Operations and People Experienc
 
 ## Group Conversation Moderators
 
+The `People Experience and People Specialist` teams are responsible for moderating the following calls:
+
+- AMAs (If requested with sufficient notice as per instructions [here](https://about.gitlab.com/handbook/people-group/group-conversations/#request-an-ama)) 
+- Group Conversations 
+- CEO 101 (Introductions and Livestream)
+
 ### Preparing for and Streaming the Call
 
 All Group Conversations (Public and Private) will be streamed to YouTube within GitLab Unfiltered. 
-
-The `People Experience and People Specialist` teams are responsible for moderating all Group Conversations and starting the stream by following the steps detailed below:
 
 ### Prior to the Call
 
@@ -260,7 +264,7 @@ The schedule with directly responsible individuals (DRI) is as follows:
 ## Request an AMA
 
 - People Experience Associates (with support as needed from People Operations Specialists) manage the GitLab Team Meetings calendar and their events.
-- People Experience Associates moderate Group Conversations and AMAs. If an AMA is created with short notice and there are no People Operations team members available, then People Operations will not be able to moderate or livestream.
+- People Experience Associates moderate Group Conversations and AMAs. If an AMA is created with short notice (less than 24 hours) and there are no People Operations team members available, then People Operations will not be able to moderate or livestream.
 - As part of designated Bring Your Family and Friends to Work events, some AMAs will be open to family members (including kids) and friends. These AMAs will be a subset of AMAs that do not contain sensitive data (sensitive data includes: information we usually don't share publicly). These events will be publicized ahead of time through #whats-happening-at-gitlab. The calendar invite for these AMAs will specify that they are "open to family and friends." To arrange this, reach out to your EBA team member and ask them to update the calendar invite to show "open to family and friends". In the event your EBA is OOO, please reach out to the People Experience Associate team to add it. 
 
 We suggest each person attend via their own device to avoid [hybrid meetings](https://about.gitlab.com/handbook/communication/#hybrid-calls-are-horrible). We encourage you to follow up with your guest after to debrief and share call impressions. For this it might be good to be in the same room but only if you are sure not to get echo's.
