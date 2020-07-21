@@ -326,3 +326,8 @@ This is not seen as a true offboarding, but there are still relevant steps to ta
 
 1. The People Experience Associate will manually create a skeletal [offboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates-2/-/blob/master/.gitlab/issue_templates/offboarding.md) and only include deprovisioning tasks that are applicable to the access that was given up to that point.
 1. The People Experience Associate will inform the [team member with ownership rights](https://about.gitlab.com/job-families/people-ops/people-operations/#director-global-people-operations) of BambooHR to delete the team members' BambooHR profile entirely by messaging them in the private People Ops Slack channel.
+
+## PEO Offboarding Guidelines
+
+As part of the [country conversion process](/handbook/people-group/contracts-and-international-expansion/#country-conversions), the People Specialist team obtains information from our PEOs in each country regarding offboarding processes and requirements. All information obtained is documented below:
+
