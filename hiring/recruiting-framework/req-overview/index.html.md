@@ -19,7 +19,7 @@ The communicated Recruiting Process Framework specifically focuses on approved R
 
 ## Search Team
 * **[Hiring Manager](/handbook/hiring/recruiting-framework/hiring-manager/):** The Hiring Manager is the individual who is hiring for the particular vacancy. In most situations, the person hired into this vacancy will report into this individual.
-* **Hiring Team:** The Hiring Team is a group of people the Hiring Manager asks to be involved in the interview process. The Hiring Team will assess candidates for a given vacancy based on what is defined in the [REQ Intake Issue](/gl-recruiting/req-intake/-/issues) and the [Hiring Repo](https://gitlab.com/gitlab-com/people-group/hiring-processes/-/tree/master). 
+* **Hiring Team:** The Hiring Team is a group of people the Hiring Manager asks to be involved in the interview process. The Hiring Team will assess candidates for a given vacancy based on what is defined in the [REQ Kick-off Issue](/gl-recruiting/req-intake/-/issues) and the [Hiring Repo](https://gitlab.com/gitlab-com/people-group/hiring-processes/-/tree/master). 
 * **[Recruiter](https://about.gitlab.com/handbook/hiring/recruiting-framework/recruiter/):** The Recruiter is the main point of contact for the Hiring Manager, Hiring Team, and all candidates associated with the REQ. The Recruiter will directly source for prospects as well as partner with there Sourcer and Candidate Experience Specialist throught the process. For more information on what role a Recruiter may play, please visit the [Recruiter Job Family](/job-families/people-ops/recruiter/).
 * **[Sourcer](https://about.gitlab.com/handbook/hiring/recruiting-framework/sourcer/):** The Sourcer is partnered with the Recruiter to provide expertise around finding passive talent. For more information on what role a Sourcer may play, please visit the [Sourcer Job Family](/job-families/people-ops/recruiting-sourcer/).
 * **[Candidate Experience Specialist (CES)](/handbook/hiring/recruiting-framework/coordinator/):** The CES partners with the Recruiter and Sourcer on all scheduling, background check, references and offer needs. For more information on what role a CES may play, please visit the [CES Job Family](/job-families/people-ops/candidate-experience/).
@@ -30,19 +30,19 @@ The Hiring Manager will determine the need for a vacancy and ensure it is listed
 ###  **Step 2: Create vacancy in Greenhouse**
 The Recruiting Manager/Lead will create the vacancy in Greenhouse following the [vacancy creation](/handbook/hiring/vacancies/#open-the-vacancy-in-greenhouse) guidelines. The assigned Recruiter, CES, and Sourcer should receive an email notification from Greenhouse when the vacancy is approved. 
 
-### **Step 3: Complete intake session, agree on priority level, & complete a sourcing session**
-The **intake session** provides an opportunity to gain alignment on the requirements, hiring process and, perhaps most importantly, the expectations and responsibilities of the recruiter, sourcer, CES, hiring team, and hiring manager. Recruiters and Sourcers should come prepared for the intake session with insights and should act as a talent advisor.
+### **Step 3: Complete kick-off session, agree on priority level, & complete a sourcing session**
+The **kick-off session** provides an opportunity to gain alignment on the requirements, hiring process and, perhaps most importantly, the expectations and responsibilities of the recruiter, sourcer, CES, hiring team, and hiring manager. Recruiters and Sourcers should come prepared for the kick-off session with insights and should act as a talent advisor.
 
-The Recruiter will schedule the intake session and must open a [**REQ Intake Issue**](https://gitlab.com/gl-recruiting/req-intake/issues/new) ahead of the intake session so the Recruiter, Sourcer, and Hiring Manager can contribute to it ahead of time. A link to the [**REQ Intake Issue**](https://gitlab.com/gl-recruiting/req-intake/issues/new) should be included in the invite.  The Recruiter should include the Hiring Manager, Sourcer, and CES on the intake session invite.  Everyone involved in hiring for the REQ should be tagged into the issue so everyone understands the requirments, process, and individual accountabilities. 
+The Recruiter will schedule the kick-off session and must open a [**REQ Kick-off Issue**](https://gitlab.com/gl-recruiting/req-intake/issues/new) ahead of the kick-off session so the Recruiter, Sourcer, and Hiring Manager can contribute to it ahead of time. A link to the [**REQ Kick-off Issue**](https://gitlab.com/gl-recruiting/req-intake/issues/new) should be included in the invite.  The Recruiter should include the Hiring Manager, Sourcer, and CES on the kick-off session invite.  Everyone involved in hiring for the REQ should be tagged into the issue so everyone understands the requirments, process, and individual accountabilities. 
 
-During the intake session all participants should agree on the **Sourcing Priority** (P0, P1, P2). Every role should receive sourcing support based on the [Recruiting Alingmnent](/handbook/hiring/recruiting-alignment/).
+During the kick-off session all participants should agree on the **Sourcing Priority** (P0, P1, P2). Every role should receive sourcing support based on the [Recruiting Alingmnent](/handbook/hiring/recruiting-alignment/).
 
-The Sourcer will schedule a **Sourcing Session** after the intake session to make sure we consider outbound talent for every opening at GitLab.
+The Sourcer will schedule a **Sourcing Session** after the kick-off session to make sure we consider outbound talent for every opening at GitLab.
 
 *  The Sourcer and Recruiter will discuss with Hiring Manager who should participate in the Sourcing session. 
 *  The Sourcing Session is focused on finding outbound candidates outside of our Talent Community. 
 *  Our recommendation is to have at least Hiring Manager and Interviewers participating in a Sourcing Session but if the team is too busy and can’t contribute to the sourcing effort, a Sourcing Session should be handled only by Sourcer or by Sourcer and Recruiter with the majority of prospects expected from Sourcer.)
-*  The Sourcing Session should be scheduled within 5 business days after the intake call. (For the “ever-green” and “volume” roles we recommend having regular Sourcing Sessions every month.)
+*  The Sourcing Session should be scheduled within 5 business days after the kick-off call. (For the “ever-green” and “volume” roles we recommend having regular Sourcing Sessions every month.)
 *  All Sourcing sessions that include team members outside of the Recruiting team should be set up for 30 minutes by default and could be done 
 live or in an async way. 
 *  We don’t require a specific number of profiles to be added by every participant, however, Sourcer should come up with at least 20 qualified profiles for the role.
@@ -80,7 +80,7 @@ Use our [reach out templates](https://docs.google.com/presentation/d/1ySqgLoYnFU
 
 #### **Sourcing Support**
 
-Anyone on the Recruitment Team can provide sourcing support for priority REQs.  The focus should be P0 and P1 REQs.  If you want to help with a specific REQ, please engage with the Recruiter directly to verify the REQ is in fact a priority. If the REQ is a priority, use the [REQ Intake Issue](https://gitlab.com/gl-recruiting/req-intake/-/issues) and the [Hiring Repo](https://gitlab.com/gitlab-com/people-group/hiring-processes/-/tree/master) to learn more about the REQ.
+Anyone on the Recruitment Team can provide sourcing support for priority REQs.  The focus should be P0 and P1 REQs.  If you want to help with a specific REQ, please engage with the Recruiter directly to verify the REQ is in fact a priority. If the REQ is a priority, use the [REQ kick-off Issue](https://gitlab.com/gl-recruiting/req-intake/-/issues) and the [Hiring Repo](https://gitlab.com/gitlab-com/people-group/hiring-processes/-/tree/master) to learn more about the REQ.
 
 If you are helping a Recruiter source for an open REQ please verify the prospects you find are best qualified *before* reaching out to them. Share added prospects in bulk with the Recruiter vs. sending multiple one-off pings to the Recruiter.  This can be done by  sending the Recruiter a Greenhouse link to the candidate pool using filters (applied on DATE, source NAME, role title). 
 *  The Recruiter has a *7 day SLA* to review the prospects you share 
@@ -133,7 +133,7 @@ If at any time during the interview process a candidate is declined due to compe
 
 #### Assessment
 
-* As determined previously in the intake session with the hiring manager, if there is an assessment involved in the initial interview process, send candidates the assessment through the provided Greenhouse template. The assessment grader is to be added to the appropriate location on the template email to ensure a notification will be sent to them once the applicant has completed the assessment.
+* As determined previously in the kick off session with the hiring manager, if there is an assessment involved in the initial interview process, send candidates the assessment through the provided Greenhouse template. The assessment grader is to be added to the appropriate location on the template email to ensure a notification will be sent to them once the applicant has completed the assessment.
 
 #### Team Interview
 
@@ -143,7 +143,7 @@ If at any time during the interview process a candidate is declined due to compe
   * If applicable, Round 2A: 25 minute interview with a Hiring Team member
   * If applicable, Round 2B: 25 minute interview with a Hiring Team member
   * If applicable, Round 3: 50 minute Executive Interview
-* The Recruiter should confirm focus areas have been assigned to the interview team. This should have been taken care of in the [REQ Intake Issue](https://gitlab.com/gl-recruiting/req-intake/-/issues)
+* The Recruiter should confirm focus areas have been assigned to the interview team. This should have been taken care of in the [REQ kick-off Issue](https://gitlab.com/gl-recruiting/req-intake/-/issues)
 * The candidate should be provided clear expectations of the process, location of interviewers, timeline to hire, etc. 
 * When Team Interviews have completed, follow up with the hiring manager on next steps. Depending on the level of the role and outcome of interviews, next steps may include additional interviews including an executive interview or moving to reference checks.
 
