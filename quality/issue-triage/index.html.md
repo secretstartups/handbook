@@ -69,7 +69,6 @@ For GitLab.com Availability, please refer to the [Availability Prioritization](/
 Issues labeled as `~UX Debt` can also have a severity and priority labels applied *without* an accompanying `~bug` label. UX Debt results from the decision to release a user-facing feature that needs refinement, with the intention to improve it in subsequent iterations. Because it is an intentional decision, `~UX Debt` should not have a severity higher than `~S3`, because [MVCs](https://about.gitlab.com/handbook/values/#minimal-viable-change-mvc) should not intentionally have obvious bugs or significant usability problems.
 
 ### Examples of severity levels
-{:.no_toc .hidden-md .hidden-lg}
 
 If a issue seems to fall between two severity labels, assign it to the higher severity label.
 
