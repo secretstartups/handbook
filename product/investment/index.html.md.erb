@@ -30,7 +30,7 @@ This page is meant to provide insight into how we consider and allocate our inve
     <% stageLine << "#{stage.revenue_driver_score}" if stage.revenue_driver_score %>
     <% stageLine << "#{stage.sam_driver_score}" if stage.sam_driver_score %>
     <% stageLine << "#{combinedScore}" %>
-    <% stageLine << "#{percent_of_total}%" %>
+    <% stageLine << "#{percent_of_total.round(2)}%" %>
     <% stageLine << "#{stage.stage_development_spend_percent}%" if stage.stage_development_spend_percent %>
     <%= "| #{stageLine.join(' | ')} |" if stageLine %>
   <% end %>
