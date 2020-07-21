@@ -13,11 +13,21 @@ title: Psychological Safety
 
 Welcome to the psychological safety page. More information will be added soon!
 
+## What is Psychological Safety
+
+Psychological safety is [defined by Amy Edmondson](https://www.jstor.org/stable/2666999?seq=1) as a “shared belief held by members of a team that the team is safe for interpersonal risk taking”.
+
+Watch the video below to learn more about psychological safety. 
+
 <!-- blank line -->
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/O0kAMpRp2hU" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
+
+## How it Works
+
+[add slide with diagram]
 
 ### Psychological Safety vs Danger
 
