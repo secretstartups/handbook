@@ -77,6 +77,12 @@ If a Silver or Bronze trial plan are needed  [open an issue](https://gitlab.com/
 | Claim Dormant GitLab.com Namespace | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Dormant%20Namespace%20Request) using the `Dormant Namespace Request` template.
 | Request Pipeline Minutes Reset | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Pipeline%20Quota%20Reset%20Request) using the `Pipeline Quota Reset Request` template.
 
+Grace period extensions are also treated similarly to trial extensions. To request these for either self-managed or GitLab.com, create a trial extension issue and update the title accordingly to indicate that it is an existing customer.
+Please consider the following:
+
+1. A previous trial needs to exist for the customer. If no trial was created at any point a trial can be created by the customer the following day as the plan expires.
+1. We can provide grace period extensions as long as the current plan is not ongoing, in other words, if the plan expires on the 15th, we can increase the grease period starting the next day. please plan accordingly.
+
 ### Regarding GitLab Support, Plans, and Namespaces
 
 | Request      | What To Do                                                 |
