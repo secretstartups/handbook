@@ -273,6 +273,10 @@ The left hand side represents your style while the top represents your counterpa
 | **Amiable** | Shift Focus more toward the goal, less generalities | Pick up the pace, focus less on the relationship | Focus more on the issues at hand and less on popularity and networking | Focus less on the relationship and more on details | 
 | **Analytical** | Pick up the pace and focus less on details and more on the goal | Focus a little less on detail. Be a little more causal | Focus a little more on the relationship. Be more casual | Try to look at ideas more objectively. You both need to be right. |
 
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRgSbOLpusk0gMSSEKd6WqIq-QXgR3AnDrKRYPzgDzTwmqw8kS8rZlSYoVWucF9yVG6zuBp1nGLYeof/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
+
 ## Discover Your SOCIAL STYLE
 
 Interested in learning about your own SOCIAL STYLE and those of your team? Below are five steps you can take as an individual contributor or a people manager to better understand your people. 
