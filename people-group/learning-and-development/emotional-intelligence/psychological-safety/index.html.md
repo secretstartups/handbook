@@ -27,7 +27,9 @@ Watch the video below to learn more about psychological safety.
 
 ## How it Works
 
-[add slide with diagram]
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQn6_E_jGgOUz9OBe0hYopG5MYF4k6-MV2NsdESCpxjYenS9ikKD8mylL_Id44GXzl5-lHLltwHsWLD/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
 
 ### Psychological Safety vs Danger
 
