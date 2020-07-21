@@ -147,7 +147,7 @@ These include:
 * [Talent Assessment and Succession Planning](/handbook/people-group/performance-assessments-and-succession-planning/) (1.5 hrs, ~10 mins per function)
 * [Director+ Promotions](/handbook/people-group/promotions-transfers/index.html#offer-process-in-bamboohr-or-greenhouse) (as-needed based on number of people, estimate ~10 mins per person)
 * [Book Discussion](/handbook/ceo/offsite/#book-choice) (30 minutes - 1 hour)
-* Spending Plus/Minus 10% - Each e-group member will present a list of initiatives where they would spend additional budget dollars if made available and a list of items where they would make reductions if necessary. The amount of each list will equal 10% of the current quarter forecasted gross expenses. (1 hour)
+* Spending Plus/Minus 10% - Each e-group member will present a list of initiatives where they would spend additional budget dollars if made available and a list of items where they would make reductions if necessary. The amount of each list will equal 10% of the current quarter forecasted gross expenses. These initiatives should be added to the E-Group Offsite agenda one week in advance of the offsite by the E-Group member of each function. (1 hour)
 * Board preparation - Align on key messaging, presentation outline and ownership for completing slides for next board meeting. (1 hour)
 
 ## Follow up
