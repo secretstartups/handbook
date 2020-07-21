@@ -497,6 +497,34 @@ Unsure what content types align with your asset? Use the table below as a guidel
 
 All roles and permissions have access to reporting functionality in PathFactory. Feel free to peruse `Path Analytics` or view insights in the content library and content tracks. If you would like a scheduled report or have a different PathFactory data request, create an issue in the Marketing Operations repo and assign `@sdaily`.
 
+### Target analytics
+
+There are two ways to view Target Analytics:
+
+1. **For *all* Target Tracks:** view data from all of your Target Tracks - compare the performance of all tracks
+1. **For a *specific* Target Track:** view data from a single Target Track - drill down into the specifics of how a track is performing
+
+**View analytics for all target tracks**
+
+1. Click the `Campaign Tools` dropdown menu item in the top navigation panel, then select `Target`.
+1. From the `Target Tracks` page, click `Target Analytics` next to the `Create Target Track` button.
+
+The `Target Analytics Overview` dashboard gives you an overview of how *all* your Target Tracks are performing.
+
+### Recommended analytics
+
+### Explore analytics
+
+### ABM analytics
+
+### Website promoter analytics
+
+### Defining visitor activities
+
+### Path analytics
+
+### Using account-based analytics
+
 ## Listening Campaigns 
 
 In Marketo, we have programs built to "listen" for PathFactory (PF) activity & content consumption allowing us to track behaviour without having to physically gate all the assets which disrupts the user experience.   
@@ -546,7 +574,6 @@ This process is for new assets in PathFactory that **have not** already been dis
 1.  Under Bizible attribution, select `Include only "Responded" Campaign Members` next to `Enable Bizible Touchpoints`.
 1.  Mark the Status as `In Progress`.
 1.  Click `Save`.
-
 
 Assets needing a listening campaign should following the above naming conventions. If an asset type is not represented in a Marketo listening campaign folder, please create an issue in the marketing operations project and assign it to `@sdaily`.
 
