@@ -6,7 +6,8 @@ title: Product Investment
 totalScore = 0
 data.sections.each do |sectionKey, section|
   data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage|
-    totalScore += stage.usage_driver_score + stage.revenue_driver_score + stage.sam_driver_score
+    next if !stage.marketing
+    totalScore += stage.usage_driver_score.to_i + stage.revenue_driver_score.to_i + stage.sam_driver_score.to_i
   end
 end
 %>
@@ -18,17 +19,19 @@ This page is meant to provide insight into how we consider and allocate our inve
 |-|-|-|-|-|-|-|
 <% data.sections.each do |sectionKey, section| %>
   <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
+    <% next if !stage.marketing %>
     <% stageLine=[] %>
-    <% combinedScore = stage.usage_driver_score + stage.revenue_driver_score + stage.sam_driver_score %>
+    <% combinedScore = stage.usage_driver_score.to_i + stage.revenue_driver_score.to_i + stage.sam_driver_score.to_i %>
+    <% percent_of_total = (combinedScore.to_f/totalScore.to_f)*100 %>
     <% stageLine << "#{section.name}:#{stage.display_name}"%>
     <% stageLine << "#{stage.lifecycle}" if stage.lifecycle %>
     <% stageLine << "#{stage.horizon}" if stage.horizon %>
     <% stageLine << "#{stage.usage_driver_score}" if stage.usage_driver_score %>
     <% stageLine << "#{stage.revenue_driver_score}" if stage.revenue_driver_score %>
-    <% stageLine << "#{stage.sam_driver_score}%" if stage.sam_driver_score %>
+    <% stageLine << "#{stage.sam_driver_score}" if stage.sam_driver_score %>
     <% stageLine << "#{combinedScore}" %>
-    <% stageLine << "#{totalScore}" %>
-    <% stageLine << "#{stage.stage_development_spend_percent}" if stage.stage_development_spend_percent %>
+    <% stageLine << "#{percent_of_total}%" %>
+    <% stageLine << "#{stage.stage_development_spend_percent}%" if stage.stage_development_spend_percent %>
     <%= "| #{stageLine.join(' | ')} |" if stageLine %>
   <% end %>
 <% end %>
