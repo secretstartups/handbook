@@ -115,3 +115,31 @@ For customers who are large enough to have an account management project, an iss
 ## Authentication For GLGL Reports
 
 In the event that a customer requests a report of their group's users from [GLGL](https://gitlab.com/gitlab-com/support/toolbox/glgl), consult the [internal-requests wiki](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/Procedures/GLGL-Report-Authentication) for the process of authenticating the requestor.
+
+## Account Ownership Change Request for Paid Groups
+
+Our [support page](https://about.gitlab.com/support/#ownership-disputes) outlines that this option is not available for unpaid groups.
+
+If a request is received, verify:
+
+1. Current paid subscription is applied to the namespace.
+1. Sole Owner's primary email address matches company domain.
+1. Requestor has a GitLab.com account. Typically this user will already be a member but is not Owner.
+
+If the existing Owner's account does not have 2FA, suggest they issue a password reset and claim the account directly. Otherwise, send a message with the following blurb:
+
+```plain
+In order to transfer ownership, please provide a letter in PDF format outlining that the existing owner has left and ownership needs to be provided to a current employee. In the letter, please ensure that it is on company letterhead and includes:
+
+- the name, email address, and GitLab username of the departed employee
+- the name, email address (tied to the GitLab account), and GitLab username of employee who should be added
+- that the current employee should be added to the group as an `Owner`
+- the group name and full path (URL)
+- name, position, and signature by authorized signatory
+
+In addition, please include a copy of your last invoice from GitLab.
+```
+
+Whenever possible, include the current account owner from GitLab in the conversation.
+
+Once received, double check all the requested information is included. If not, let them know what's missing. If yes, add or elevate the requested user to Owner role.
