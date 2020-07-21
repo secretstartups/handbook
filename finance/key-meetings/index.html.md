@@ -125,7 +125,7 @@ To create these slides, you will need *Editor* access in Sisense.
 ### Performance Indicator Pages
 
 Many functions or departments now have Performance Indicator pages that allow one to move top-to-bottom in the handbook to see both KPIs and PIs. 
-Here is an example of the Senior Director of Development presenting the [Development Department's KPIs and PIs](/handbook/engineering/development/performance-indicators/) in advance of their monthly Key Meeting. 
+Here is an example of the VP of Development presenting the [Development Department's KPIs and PIs](/handbook/engineering/development/performance-indicators/) in advance of their monthly Key Meeting. 
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/8C9oniGinYM" frameborder="0" allowfullscreen="true"> </iframe>
