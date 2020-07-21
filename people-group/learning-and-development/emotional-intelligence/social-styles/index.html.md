@@ -37,17 +37,19 @@ What seperates great managers from good ones is the ability to treat each team m
 
 ## Scales of behavior and the four styles
 
-In the SOCIAL STYLE Model their are two scales of behavior: 
+In the SOCIAL STYLE Model their are two scales of behavior: Assertiveness & Responsiveness. 
 
-1.  **Assertiveness:**
-    *  Dimension of behavior that measures the degree to which others perceive a person as tending to ask or tell in interctions with others. (Ask versus Tell)
+### Assertiveness
+
+Dimension of behavior that measures the degree to which others perceive a person as tending to ask or tell in interctions with others. (Ask versus Tell)
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQjmHDBLOvUkiKUWyIbs8LuaHSFSHOqmHSZqTwxdY9SuScWWrxgtfPRWhi8aRyMAUrw33Nt5YDv2Oma/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
-2. **Responsiveness:**
-    *  Dimension of behavior that measures the degree to which others perceive a person as tending to control or display their feelings and emotions when interacting. (Control versus Emotes)
+### Responsiveness
+
+Dimension of behavior that measures the degree to which others perceive a person as tending to control or display their feelings and emotions when interacting. (Control versus Emotes)
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSaAoNlsDCmdHRdfcmsgdW2v6FNiiI9Bf1FGc4q3EgoUbAuY4qW0Xw68J29rSIF0bsLsrL7Hhk4bEXc/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -270,6 +272,10 @@ The left hand side represents your style while the top represents your counterpa
 | **Expressive** | Shift focus more toward the goal, less generalities. Be a little less casual | Listen more, take notes, don't try to outtalk each other | Slow your pace and focus more on the relationship | Focus on some detail in relation to the goals |
 | **Amiable** | Shift Focus more toward the goal, less generalities | Pick up the pace, focus less on the relationship | Focus more on the issues at hand and less on popularity and networking | Focus less on the relationship and more on details | 
 | **Analytical** | Pick up the pace and focus less on details and more on the goal | Focus a little less on detail. Be a little more causal | Focus a little more on the relationship. Be more casual | Try to look at ideas more objectively. You both need to be right. |
+
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRgSbOLpusk0gMSSEKd6WqIq-QXgR3AnDrKRYPzgDzTwmqw8kS8rZlSYoVWucF9yVG6zuBp1nGLYeof/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
 
 ## Discover Your SOCIAL STYLE
 
