@@ -251,13 +251,13 @@ The FP&A team takes the following into consideration while evaluating variances 
 
 #### Performance Indicator: Variance percentage
 
-We  measure our team performance based on our forecast accuracy, also known as variance percentage. Variance percentage is defined as the difference between actuals and Plan or rolling forecast. We calculate it as follows:
+We measure our team performance based on our forecast accuracy, also known as variance percentage. Variance percentage is defined as the difference between actuals and Plan or rolling forecast. We calculate it as follows:
 
 Variance Percentage (Plan) = (Actuals - Plan)/Plan  or
 
 Variance Percentage (Forecast) = (Actuals - Rolling Forecast)/Rolling Forecast
 
-Our goal is to have revenue and EBIT variance percentage within +/- 2%. 
+Our goal is to have revenue and EBIT variance percentage within +/- 2% on a quarterly basis.
 
 ##### Types of Threshold and Materiality
 
