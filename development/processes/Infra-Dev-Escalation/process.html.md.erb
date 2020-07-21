@@ -13,25 +13,6 @@ title: Development Escalation Process
 
 This page outlines the development team on-call process and guidelines for developing the rotation schedule for handling infrastructure incident escalations.
 
-## COVID-19 Mitigation Plan
-Due to the impacts and uncertainties caused by the COVID-19 outbreak, to maximize flexibility for all team members while providing complete business coverage, below are temporary measurements to mitigate risks of the dev on-call coverage.
-
-1. **On-call Engineers**: Please confirm your availability **one day** ahead of your scheduled slot. 
-   1. Do nothing if you will be available.
-   1. In case you are not available for the scheduled slot next day.
-      1. Remove yourself from the signed slot in [scheduling spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing).
-      1. Immediately notify the coordinators of the month in `column G` of the spreadsheet via Slack direct message and adding a `Comment` to the cell of open slot by explictly tagging the coordinators and assigning to one of the coordinators.
-   1. In the case of extreme urgency such as becoming unavailable for an upcoming shift in a few hours, please raise attention in the [#dev-escalation](https://gitlab.slack.com/archives/CLKLMSUR4).
-      1. Engineers who can fill in are highly appreciated to backfill.
-      1. Coordinators please try your best to coordinate the backfill effort.
-1. **Coordinator**:
-   1. Two coordinators are required throughout the end of July 2020. Follow the process of [coordinator](#Coordinator) to sign up.
-   1. The two coordinators cannot be in the same zone: AMER, EMEA, APAC.
-   1. The two coordinators work out who is the primary and who is secondary.
-      1. The primary coordinator is the DRI for planning the upcoming month, while the secondary is welcome to assist.
-      1. The secondary coordinator supplements the primary for emergency planning when engineers become unavailable in short notice.
-      1. Between the primary and secondory, the one who receives the notification first shall take actions to backfill vacancy as soon as possible.
-
 ## Expectation
 
 The expectation for the development engineers is to be a technical consultant and collaborate with the teams who requested on-call escalation to troubleshoot together. There is no expectation that the development engineer is solely responsible for a resolution of the escalation.
@@ -98,27 +79,6 @@ Examples of non-qualified issues:
    * Ping domain expert engineer and their engineering manager IMMEDIATELY in [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4). Make the best guess and it's fine to ping multiple persons when you are not certain. Domain experts are expected to get engaged ASAP.
    * If needed, next level is to ping the development director(s) of the domain in [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4).
 1. Whenever the issue is downgraded from P1/S1, the escalation process ends.
-
-```mermaid
-graph TD;
-A[Escalation Arises] --> B(Issue Registered);
-B --> C("On-call Engr Pinged <br /> (#dev-escalation/phone)");
-D[On-call Schedule Sheet ] --> C;
-C --> E("Initial Response <br /> (GitLab.com=15mins, S-M=Best Effort)");
-E --> F{Domain Expertise};
-F --> |Yes|G[Solution];
-F --> |No|H("Ping Expert(s) <br /> (Engr & Mgr)");
-H --> I{Further Escalation?};
-I --> |No|G;
-I --> |Yes|J("Ping Director(s)");
-J --> K(Expert Pinged);
-K --> G;
-G --> L{Validation};
-L --> |No|G;
-L --> |Yes|M(Deploy & Release);
-M --> N(Documentation);
-N --> O[Done];
-```
 
 ### Logistics
 1. All on-call engineers, managers, distinguished engineers, fellows (who are not co-founders) and directors are required to join [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4).
