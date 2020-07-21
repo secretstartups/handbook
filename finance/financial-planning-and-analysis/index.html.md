@@ -249,7 +249,17 @@ The FP&A team takes the following into consideration while evaluating variances 
 - The correlation to other variance (i.e. did a immaterial difference in one place cause a material difference in another)
 - The inherent character of the variance (i.e. does the expense correlate to the traits of the business)
 
-Types of Threshold
+#### Performance Indicator: Variance percentage
+
+We  measure our team performance based on our forecast accuracy, also known as variance percentage. Variance percentage is defined as the difference between actuals and Plan or rolling forecast. We calculate it as follows:
+
+Variance Percentage (Plan) = (Actuals - Plan)/Plan  or
+
+Variance Percentage (Forecast) = (Actuals - Rolling Forecast)/Rolling Forecast
+
+Our goal is to have revenue and EBIT variance percentage within +/- 2%. 
+
+##### Types of Threshold and Materiality
 
 Generally accepted accounting principles (GAAP) does not provide definitive guidance in distinguishing material information from immaterial information. Therefore, GitLab uses a percentage based approach for defining materiality thresholds and can be found below. The [Plan vs Actuals vs Forecast](https://app.periscopedata.com/app/gitlab/525851/Plan-vs-Actuals-vs-Forecast) Sisense dashboard provides the data for the threshold analysis via a color coded legend.
 
