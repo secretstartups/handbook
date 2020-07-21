@@ -293,7 +293,9 @@ To track all tool deprovisioning, please open an offboarding issue following the
 #### Returning Property To GitLab
 {: #returning-property}
 
-As part of offboarding, any GitLab property valued above 1,000 USD needs to be returned to GitLab. One exception to this rule is that the team member can opt to purchase their laptop at a depreciated market price which will be provided by Finance upon request.
+As part of offboarding, any GitLab property valued above 1,000 USD needs to be returned to GitLab. 
+
+For laptops, please refer to the [Laptop Buy Back Policy](https://about.gitlab.com/handbook/business-ops/it-ops-team/#laptop-buy-back-policy) which states that team-members have the option to buy back their existing laptops either when it gets refreshed for a new one, or when the team member is offboarding. If the team member has completed 1 calendar year or more at GitLab at the time of laptop refresh or offboarding, they can opt to keep their laptop at no cost. If the team member hasn't completed 1 calendar year at GitLab at that time, they have the option to purchase their laptop for current market value.
 
 To return your laptop to GitLab, please contact itops@gitlab.com immediately upon offboarding.
 
