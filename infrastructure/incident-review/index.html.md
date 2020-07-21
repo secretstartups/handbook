@@ -40,7 +40,7 @@ Incident reviews second step is engaging with the customer, through the point of
 
 ## Incident Review Timeline
 
-1. **Immediately following the incident**: The incident review is started in the original incident issue and the [EOC is assigned](#incident-review-issue-creation-and-ownership).
+1. **Immediately following the incident**: The incident review is started in the original incident issue and the [EOC and IMOC are assigned](#incident-review-issue-creation-and-ownership).
    1. IMOC and EOC invite stakeholders for involvement in authoring the incident review. This can include one of more of:
        1. Appropriate **development team(s)**, involved in changes that contributed to the incident.
        1. A **Quality-engineering team**, in order to look for improvements to the QA process could have mitigated or reduced the length of the incident.
@@ -59,11 +59,12 @@ Incident reviews second step is engaging with the customer, through the point of
 Incident Reviews are conducted in the incident issue and their workflow is tracked on the [Production Incidents Board](https://gitlab.com/gitlab-com/gl-infra/production/-/boards/1717012?label_name[]=incident).
 
 1. Every incident and its review must be assigned a DRI. The DRI is the Engineer on Call (EOC).
+   1. The Incident Manager on Call (IMOC) is also assigned to the issue.
 1. The output of an incident review should include one or more issues labeled `~Corrective Action`.  Labeling and linking existing issues as corrective action is appropriate.
 1. The DRI is responsible for selecting and assigning corrective actions that should be prioritized and resolved within a specific timeframe.
    1. Refer to the `Target SLO` for `~Corrective Action` in this [table](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority).
 1. All issues labeled `~Corrective Action` must have an assigned priority label, it is the responsibility of the DRI to ensure that the priorities are set.
-1. After discussion on the Incident Review issue has ended and all `~Corrective Action` issues have been linked, the incident review issue can be closed.
+1. After discussion on the Incident Review issue has ended, all `~Corrective Action` issues have been linked, and notes from the review are incorporated into the Incident Review issue, the incident review issue can be closed.
 
 ## Synchronous Review Meeting Sessions
 
@@ -71,7 +72,7 @@ Incident review sessions are open on the GitLab Team Meetings calendar with the 
 1. Tuesdays at 13:30 - 14:20 UTC
 1. Tuesdays at 22:00 - 22:50 UTC
 
-GitLab team members are encouraged to review the incident review issues listed in the [agenda](https://docs.google.com/document/d/1Llm9tXHC2dNt_eercRUUXlUyWmOVw00wmXWQQbWvv2c/edit#) and add questions/comments under them.
+GitLab team members are encouraged to review the incident review issues listed in the [agenda](https://docs.google.com/document/d/1Llm9tXHC2dNt_eercRUUXlUyWmOVw00wmXWQQbWvv2c/edit#) and add questions/comments under them. The IMOC assigned to a review is responsible for ensuring that stakeholders outside of Infrastructure are aware of the review. This can be done by adding the review to the agenda and adding an assignment, in the agenda doc, to the relevant stakeholders.
 
 The purpose of these sessions are to encourage discussion, asking questions and ensure that all aspects of the incident are reviewed, including:
 
