@@ -13,7 +13,9 @@ This workflow is meant to provide guidance on when GitLab Team members might off
 
 ```mermaid
 graph TD;
-A[Determine Eligibility]-->B[Determine Import Type];
+M[Customer does test imports]
+-->A[Determine Eligibility]
+-->B[Determine Import Type];
 B-->C[Users Mapped];
 B-->D[Users Not Mapped];
 C-->F[Create Admin Account Access Request];
@@ -72,7 +74,9 @@ If you're unsure of whether or not we should perform an import for a specific re
 
 ### Identify Import Errors
 
-We can only offer an import if no validation (not timeout) error is found on a previously attempted import. If the user is getting a version import/export error, ensure that the export originated from a [compatible version of GitLab](https://docs.gitlab.com/ee/user/project/settings/import_export.html#version-history).
+We can only offer an import if no validation (not timeout) error is found on a previously attempted import. Most timeout related imports end up with a partial import with very few or zero issues or merge requests. Where there is a relatively smaller difference (10% or less), then there are most likely errors with those specific issues or merge requests.
+
+Anytime there is an error, ensure that the export originated from a [compatible version of GitLab](https://docs.gitlab.com/ee/user/project/settings/import_export.html#version-history).
 
 >**NOTE:** See the [Diagnose Errors on GitLab.com](/handbook/support/workflows/500_errors.html) workflow for more details on searching Kibana and Sentry.
 
@@ -81,7 +85,11 @@ We can only offer an import if no validation (not timeout) error is found on a p
   - json.controller: `Projects::ImportsController` with error status
 - In Sentry, search/look for: `Projects::ImportService::Error` ; make sure to remove the `is:unresolved` filter.
 
-If there is an error, search for an existing issue. Errors where the metadata is throwing an error and no issue exists, consider creating one from Sentry. If no error is found and the import is partial, most likely it is a timeout issue.
+If there is an error, search for an existing issue. Errors where the metadata is throwing an error and no issue exists, consider creating one from Sentry.
+
+If no error is found and the import is partial, most likely it is a timeout issue.
+
+> **NOTE:** In all cases, the import process is the same except that infra has a longer timeout period. If any validation errors are not worked out ahead of time, these will crop up during the infra import as well.
 
 ### Known Import Issues
 
@@ -95,6 +103,12 @@ Use the `GitLab.com::Import::Determine_Eligibility.json` Zendesk macro to make t
 ## Stage 2: Offering Import & Preparation
 
 Follow the steps for either [Users Mapped](#users-mapped) or [Users Not Mapped](#users-not-mapped) depending on the type of import we're performing. Once the steps in either section are complete, move on to [Stage 3: Import](#stage-3-import).
+
+### Timing and scheduling ahead
+
+When customers request a specific time period for the imports to be done, they should *always* do a test import for each project and make note of how long it takes. It can be approximate, but should give everyone a clear idea of whether it's reasonable to be done within the given time period. Remember that both Support and Infra require additional time in addition to the actual import time.
+
+This is particularly true in cases where more than 1 project is required.
 
 ### Users Mapped
 
