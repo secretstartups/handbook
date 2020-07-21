@@ -160,9 +160,25 @@ During the meeting:
 
 If you would like to learn more, we held a [Receiving Feedback Live Learning course](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/#receiving-feedback) on 2020-02-25. 
 
-### Creating Action Plans in Culture Amp
+### Action Plans
 
-Once feedback has been delivered, a manager and direct report both have the option to create an Action Plan in Culture Amp. This part of the process is up to the manager’s discretion, and you may also choose to follow up in 1:1 meetings or via other processes. If you choose to use Culture Amp, here’s an overview of how it might work:
+Once feedback has been delivered, a manager and direct report both have the option to create an Action Plan in Culture Amp. This part of the process is up to the manager’s discretion, and you may also choose to follow up in 1:1 meetings or via other processes. 
+
+#### Action Plan in Culture Amp
 * Have your direct report click the flag icon to the left of any items they want to work on. This makes those items available in the “Action plan” interface.
 * Discuss with your direct report and choose one area to focus on. Managers and their direct reports have identical views and options at this step.
 * Work together to create an action title, description, and due date. Once submitted, this will appear as the “focus” item in the Action Plan area.
+
+#### Discussion During 1:1
+
+If you choose to discuss 360 feedback during your 1:1, here are a few questions we recommend including in the discussion:
+
+* What were a couple of your strengths?
+* What were a couple of improvement areas?
+* Were there any surprises? 
+* What did you agree with?
+* What did you disagree with?
+* What action would you like to take as next steps?
+* How can I support you?
+
+_Note: Be sure to share these questions with your team member ahead of time so they have a chance to reflect and are able to come prepared for the discussion._
