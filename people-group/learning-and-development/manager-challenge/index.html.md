@@ -14,7 +14,7 @@ title: Manager Challenge
 Welcome to the Manager Challenge page. We are rolling out a pilot version of a 4 Week Manager Challenge in September 2020, "The GitLab Manager Challenge Program." All details relating to the challenge can be found here on this page. The first iteration of the program will be a pilot to a subset of team members at GitLab. Once the pilot has concluded, we will roll out the program to the broader GitLab community!
 
 <figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vST_3shd7g0Y6E46JaCdtpXKHfj6D8TAjF-fgZ4IiZ_1NETN2f8ROjBE6NtOpCSs0YXwWgYq-oHryO9/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vST_3shd7g0Y6E46JaCdtpXKHfj6D8TAjF-fgZ4IiZ_1NETN2f8ROjBE6NtOpCSs0YXwWgYq-oHryO9/embed?start=true&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
 **What** 
