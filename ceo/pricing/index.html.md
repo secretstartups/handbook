@@ -86,7 +86,22 @@ We've found it difficult to express our buyer based tier succintly in various pl
 
 We've found that bundling our features within tiers into capabilities [resulted in improved conversion performance on our pricing page](ISSUE LINK). While it is how we present the value of our tiers, this capability based representation is not meant to replace, supplant or direct our Buyer Based Tiering decision.
 
-The following are our current set of capabilities:
+```The followings are our current set of capabilities:
+
+Starter/Bronze:
+* Single-project management
+* More control over your code
+
+Premium/Silver:
+* Multi-project management
+* Code integrity controls
+* Multi-region support
+
+Ultimate/Gold:
+* Company-wide portfolio management
+* Application Security
+* Enterprise Insights
+* Compliance Automation
 * Single-project management
 * More control over your code
 * Multi-project management
