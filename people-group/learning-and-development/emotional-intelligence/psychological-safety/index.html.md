@@ -17,6 +17,8 @@ Welcome to the psychological safety page. More information will be added soon!
 
 Psychological safety is [defined by Amy Edmondson](https://www.jstor.org/stable/2666999?seq=1) as a “shared belief held by members of a team that the team is safe for interpersonal risk taking”.
 
+It's not all about being warm and fuzzy and sharing your feelings. It is about being comfortable admitting when you are wrong or have made a mistake as well as challenging each other for the better. 
+
 Watch the video below to learn more about psychological safety. 
 
 <!-- blank line -->
