@@ -31,8 +31,6 @@ description: "GitLab Cost Management"
 
 
 
-#
-
 ## <i class="fas fa-bullhorn fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>Contact Us
 
 #### <i class="fab fa-slack fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i>Slack 
