@@ -7,7 +7,7 @@ title: Static Site Editor Team
 
 {:.no_toc .hidden-md .hidden-lg}
 
-* TOC
+- TOC
 {:toc .hidden-md .hidden-lg}
 
 ## Vision
@@ -30,13 +30,13 @@ The following members of other functional teams are our stable counterparts:
 
 Depending on the context here are the most appropriate ways to reach out to the Static Site Editor group:
 
-* GitLab epics/issue/MRs: `@gl-static-site-editor`
-* Email: `static-site-editor@gitlab.com`
-* Slack: `#g_create_static_site_editor` and `@static-site-editor-team`
+- GitLab epics/issue/MRs: `@gl-static-site-editor`
+- Email: `static-site-editor@gitlab.com`
+- Slack: `#g_create_static_site_editor` and `@static-site-editor-team`
 
 ## Projects
 
-The team works primarily on the two projects listed below:
+The Static Site Editor team works on the projects listed below:
 
 ### GitLab Product
 
@@ -62,7 +62,7 @@ The repository is undergoing a refactor into a monorepo structure and the handbo
 
 ### GitLab Docs
 
-The Static Site Editor engineering team develops and maintains the [GitLab Docs project](https://gitlab.com/gitlab-org/gitlab-docs).
+The Static Site Editor engineering team develops and maintains the [GitLab Docs project](https://gitlab.com/gitlab-org/gitlab-docs). The category direction can be viewed here: [https://about.gitlab.com/direction/create/gitlab_docs/](https://about.gitlab.com/direction/create/gitlab_docs/)
 
 #### Process
 
@@ -71,6 +71,11 @@ The Static Site Editor engineering team develops and maintains the [GitLab Docs 
 3. The EM is responsible for reviewing issues labelled `workflow::planning breakdown` and if determined that it is ready for implementation assign the `workflow::ready for development` label to it.
 4. The EM schedules issues that are ready for development by adding a milestone, assignee and the `Deliverable` label to it.
 5. Team members that have completed their `Deliverables` for a milestone are free to choose issues from the backlog (i.e. in `workflow::ready for development`) to work on. Issues will always be listed in priority order from top to bottom on the [workflow board](https://gitlab.com/groups/gitlab-org/-/boards/1791199).
+
+#### Decision making
+
+1. The DRI for feature requirements on the Technical Writers team is Susan Tacker (@susantacker)
+2. The DRI for technical implementation on the SSE team is Jean du Plessis (@jeanduplessis)
 
 ## Meetings
 
@@ -115,9 +120,9 @@ For more urgent items, feel free to use [#g_create_static_site_editor](https://g
 ### Issue Boards
 
 | **Projects** | **Grouped by Deliverables** | **Grouped by Assignee** | **Grouped by Workflow** |
-| --- | ------------ | ----------- | -------- |
-| GitLab, GitLab Docs,<br>Static Site Editor Template Project | [View board](https://gitlab.com/groups/gitlab-org/-/boards/1846) | [View board](https://gitlab.com/groups/gitlab-org/-/boards/1476633)  | [View board](https://gitlab.com/groups/gitlab-org/-/boards/1791199)  |
-| GitLab Handbook | [View board](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/1397778)  | [View board](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/1637971)  | [View board](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/1625854)  |
+| -------- | ----------------------- | ------------------- | ------------------- |
+| GitLab, GitLab Docs,<br>Static Site Editor Template Project | [View board](https://gitlab.com/groups/gitlab-org/-/boards/1846) | [View board](https://gitlab.com/groups/gitlab-org/-/boards/1476633) | [View board](https://gitlab.com/groups/gitlab-org/-/boards/1791199) |
+| GitLab Handbook | [View board](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/1397778) | [View board](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/1637971) | [View board](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/1625854) |
 
 ### Epic/Issue process
 
@@ -136,20 +141,20 @@ The following tree structure indicates the epic and issue hierarchy we follow fo
                     └── implementation MR
 ```
 
-* Each maturity level (minimal, viable, complete, lovable) is represented by an epic which holds further epics describing the user stories.
-* A user story epic then consists out of one or more feature issues that detail the requirements of the features that make up the user story.
-* Feature issues are then split out further into implementation issues.
-* Each implementation issue is then delivered through one or more MRs.
+- Each maturity level (minimal, viable, complete, lovable) is represented by an epic which holds further epics describing the user stories.
+- A user story epic then consists out of one or more feature issues that detail the requirements of the features that make up the user story.
+- Feature issues are then split out further into implementation issues.
+- Each implementation issue is then delivered through one or more MRs.
 
 #### Guidelines
 
-* We collaborate at the user story epic level using comments to discuss the user story requirements and what features it might involve.
-* The PM is the DRI for user story epics and any changes to the description of the user journey requires their approval.
-* We try to scope feature issues so that they can be delivered in a single release.
-* We collaborate at the feature issue level using comments to discuss the feature requirements and consider implementation considerations.
-* We do not require a 1:1 mapping between MRs and implementation issues, instead we encourage engineers to iterate to the implementation issue requirements through multiple small MRs
-* A feature issue might require multiple team members to implement it. For instance it could require work across the design, backend and frontend disciplines, however, it will only have one DRI.
-* We only assign one DRI to an implementation issue
+- We collaborate at the user story epic level using comments to discuss the user story requirements and what features it might involve.
+- The PM is the DRI for user story epics and any changes to the description of the user journey requires their approval.
+- We try to scope feature issues so that they can be delivered in a single release.
+- We collaborate at the feature issue level using comments to discuss the feature requirements and consider implementation considerations.
+- We do not require a 1:1 mapping between MRs and implementation issues, instead we encourage engineers to iterate to the implementation issue requirements through multiple small MRs
+- A feature issue might require multiple team members to implement it. For instance it could require work across the design, backend and frontend disciplines, however, it will only have one DRI.
+- We only assign one DRI to an implementation issue
 
 #### Parent/Child issues
 
@@ -170,10 +175,10 @@ Implementation issues progress through the workflow stages independently from th
 | Feature issue | Product Manager |
 | Implementation issue | Feature issue DRI |
 
-* Aim to keep the *Feature issue* titles descriptive but succinct
-    * Ex. `Remove YAML front matter from editable content in the Static Site Editor`
-* Prefix *Implementation issue* titles with the succinct *Feature issue* title follow by a `::` syntax. Feel free to abbreviate "Static Site Editor" with SSE in the implementation issue.
-    * Ex. `Remove YAML front matter from editable content in the SSE::Sync model in component`
+- Aim to keep the *Feature issue* titles descriptive but succinct
+    - Ex. `Remove YAML front matter from editable content in the Static Site Editor`
+- Prefix *Implementation issue* titles with the succinct *Feature issue* title follow by a `::` syntax. Feel free to abbreviate "Static Site Editor" with SSE in the implementation issue.
+    - Ex. `Remove YAML front matter from editable content in the SSE::Sync model in component`
 
 #### User story planning process
 
@@ -326,11 +331,11 @@ label, or by dragging the issue from one column on the board to the next.
 
 When creating an issue that relates to our group make sure to always add the following labels:
 
-* Our group label: `group::static site editor`
-* Category label:
-    * `Category:Static Site Editor` for issues relating to the product we are building
-    * `Category:GitLab Handbook` for issues relating to work we are doing on the GitLab Handbook in [gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com)
-* A discipline label (`frontend` and/or `backend`) if relevant to indicate which disciplines will need to be involved in actioning the issue.
+- Our group label: `group::static site editor`
+- Category label:
+    - `Category:Static Site Editor` for issues relating to the product we are building
+    - `Category:GitLab Handbook` for issues relating to work we are doing on the GitLab Handbook in [gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com)
+- A discipline label (`frontend` and/or `backend`) if relevant to indicate which disciplines will need to be involved in actioning the issue.
 
 The EM and PM is responsible for setting any other relevant labels and milestones on the issues.
 
@@ -338,12 +343,12 @@ The EM and PM is responsible for setting any other relevant labels and milestone
 
 All MRs¹ should contain the following labels to accurately reflect in our [metrics dashboard](https://app.periscopedata.com/app/gitlab/574876/Static-Site-Editor-Team-Metrics-Dashboard):
 
-* Our group label: `group::static site editor`
-* One of the following throughput categorization labels:
-    * `feature` - when introducting new or updated functionality
-    * `bug` - when fixing a bug
-    * `backstage` - when doing behind the scenes work.
-    * `security` - when fixing a security vulnerability
+- Our group label: `group::static site editor`
+- One of the following throughput categorization labels:
+    - `feature` - when introducting new or updated functionality
+    - `bug` - when fixing a bug
+    - `backstage` - when doing behind the scenes work.
+    - `security` - when fixing a security vulnerability
 
 ¹ Exception for `gitlab-com/www-gitlab-com` repo: Content related MRs (think fixing a spelling mistake, updating the info on the team page etc) should not contain the group label as it should not count towards our throughput.
 
@@ -359,10 +364,10 @@ engineers should coordinate in advance the data contract expectations between bo
 stack and document those expectations in the deliverable’s issue. These are examples of data
 contracts that team members can agree in advance:
 
-* Which endpoints are required.
-* API request data structure.
-* API response data structure.
-* Error handling.
+- Which endpoints are required.
+- API request data structure.
+- API response data structure.
+- Error handling.
 
 This initial plan does not replace communication during the development process.
 The engineers involved in the development of a feature should continuously communicate the status
@@ -371,11 +376,13 @@ of their work.
 #### Design collaboration
 
 Input from all team members is welcomed for design collaboration.
+
 - Discussions on designs should happen within the issue through the issue comments and/or the design comments.
     - Any discussions in Slack or Figma should be migrated or summarized in the the issue.
 - When feedback is needed the designer should tag relevent team members and @gl-static-site-editor.
 
 It is up to the designer of the group to maintain the design information on an issue to help the team understand the current direction. Here are the responsibilities of the designer:
+
 - Add a link to the Figma URL to the issue `Description` section
 - Update `Description` to align with current design direction (if needed)
 - Archive any images in the `Designs` section that is out of date
@@ -384,7 +391,7 @@ It is up to the designer of the group to maintain the design information on an i
     - `direction` applies to designs where a decision has been made and ready for implementation
 - A design could have multiple direction over the lifetime of an issue so the full naming convention is `direction-yyyymmdd-description`
     - For example `direction-20200720-publishing-flow-with-long-names`
-- After a sync meeting, add a comment with a link to the ad-hoc meeting recordings and any key highlights/decisions made in the meeting.   
+- After a sync meeting, add a comment with a link to the ad-hoc meeting recordings and any key highlights/decisions made in the meeting.
 
 #### Requesting feedback
 
@@ -406,9 +413,9 @@ If a deliverable has backend and frontend components, develop those components b
 [feature flag](https://docs.gitlab.com/ee/development/feature_flags/#feature-flags-in-development-of-gitlab).
 Once all the components are merged into master, create a Merge Request that:
 
-* Integrates the backend and frontend components.
-* Adds documentation for the deliverable if necessary.
-* Adds a changelog entry.
+- Integrates the backend and frontend components.
+- Adds documentation for the deliverable if necessary.
+- Adds a changelog entry.
 
 Do not add a changelog entry in your Merge Requests if your work is hidden behind a feature flag.
 
@@ -417,19 +424,19 @@ Do not add a changelog entry in your Merge Requests if your work is hidden behin
 We use workflow labels to identify the current stage of a deliverable. Use the following guidelines
 to assign a workflow label:
 
-* Assign the `~workflow::in dev` once you have started to work on a deliverable.
-* Assign the `~workflow::in review` once all the tasks required to complete a deliverable are under review.
-* Assign the `~workflow::verification` when the deliverable is demonstrable on production.
+- Assign the `~workflow::in dev` once you have started to work on a deliverable.
+- Assign the `~workflow::in review` once all the tasks required to complete a deliverable are under review.
+- Assign the `~workflow::verification` when the deliverable is demonstrable on production.
 
 #### Using issue tasks
 
 When multiple contributors are assigned to an issue:
 
-* Ensure a task list exists in the description
-* Each contributor's `@handle` is appended to their task item(s) to convey explicit ownership
-    * This lends itself to GitLab's use of a [*directly responsible individual* (DRI)](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual), but at the task vs. project level
-* When a merge request is made for a task, append the MR link to the task
-* When a merge request is successfully merged, check the task's checkbox to communicate that the task is 100% complete
+- Ensure a task list exists in the description
+- Each contributor's `@handle` is appended to their task item(s) to convey explicit ownership
+    - This lends itself to GitLab's use of a [*directly responsible individual* (DRI)](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual), but at the task vs. project level
+- When a merge request is made for a task, append the MR link to the task
+- When a merge request is successfully merged, check the task's checkbox to communicate that the task is 100% complete
 
 When a single contributor is assigned to an issue all tasks are implied to be owned by the issue owner.
 
@@ -486,18 +493,18 @@ New team members to the Static Site Editor group can use the resources below, in
 
 The following channels are important to be a part of:
 
-* [#g_create_static_site_editor](https://gitlab.slack.com/archives/CQ29L6B7T)
-* [#g_create_static_site_editor_eng](https://gitlab.slack.com/archives/CU90JTCF8)
-* [#g_create_static_site_editor_standup](https://gitlab.slack.com/archives/CUD52A59A)
-* [#handbook](https://gitlab.slack.com/archives/C81PT2ALD)
-* [#handbook-escalation](https://gitlab.slack.com/archives/CVDP3HG5V)
-* [#master-broken-www-gitlab-com](#https://gitlab.slack.com/archives/C413US389)
+- [#g_create_static_site_editor](https://gitlab.slack.com/archives/CQ29L6B7T)
+- [#g_create_static_site_editor_eng](https://gitlab.slack.com/archives/CU90JTCF8)
+- [#g_create_static_site_editor_standup](https://gitlab.slack.com/archives/CUD52A59A)
+- [#handbook](https://gitlab.slack.com/archives/C81PT2ALD)
+- [#handbook-escalation](https://gitlab.slack.com/archives/CVDP3HG5V)
+- [#master-broken-www-gitlab-com](#https://gitlab.slack.com/archives/C413US389)
 
 The following Slack channels, while optional, are relevant to our group and you should consider joining them:
 
-* [#engineering-dev](https://gitlab.slack.com/archives/CG7FPF4KT)
-* [#s_create](https://gitlab.slack.com/archives/CQ08Z46N9)
-* [#g_create-fe](https://gitlab.slack.com/archives/CGPEQCL23)
+- [#engineering-dev](https://gitlab.slack.com/archives/CG7FPF4KT)
+- [#s_create](https://gitlab.slack.com/archives/CQ08Z46N9)
+- [#g_create-fe](https://gitlab.slack.com/archives/CGPEQCL23)
 
 ### PTO Ninja
 
