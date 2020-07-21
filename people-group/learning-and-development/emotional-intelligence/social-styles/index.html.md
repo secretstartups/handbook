@@ -37,17 +37,19 @@ What seperates great managers from good ones is the ability to treat each team m
 
 ## Scales of behavior and the four styles
 
-In the SOCIAL STYLE Model their are two scales of behavior: 
+In the SOCIAL STYLE Model their are two scales of behavior: Assertiveness & Responsiveness. 
 
-1.  **Assertiveness:**
-    *  Dimension of behavior that measures the degree to which others perceive a person as tending to ask or tell in interctions with others. (Ask versus Tell)
+### Assertiveness
+
+Dimension of behavior that measures the degree to which others perceive a person as tending to ask or tell in interctions with others. (Ask versus Tell)
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQjmHDBLOvUkiKUWyIbs8LuaHSFSHOqmHSZqTwxdY9SuScWWrxgtfPRWhi8aRyMAUrw33Nt5YDv2Oma/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
-2. **Responsiveness:**
-    *  Dimension of behavior that measures the degree to which others perceive a person as tending to control or display their feelings and emotions when interacting. (Control versus Emotes)
+### Responsiveness
+
+Dimension of behavior that measures the degree to which others perceive a person as tending to control or display their feelings and emotions when interacting. (Control versus Emotes)
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSaAoNlsDCmdHRdfcmsgdW2v6FNiiI9Bf1FGc4q3EgoUbAuY4qW0Xw68J29rSIF0bsLsrL7Hhk4bEXc/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
