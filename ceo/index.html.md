@@ -116,7 +116,7 @@ As part of my role, I participate in a variety of meetings both internal and ext
 
 ### Weekly Meetings
 1. [1-1s](/handbook/leadership/1-1/) with my direct reports and [EBA](/handbook/eba/). 25-50 minutes.
-1. [E-Group](/handbook/leadership/#e-group) Call. 50 minutes.
+1. [E-Group](/company/team/structure/#e-group) Call. 50 minutes.
 1. Recruiting Syncs on key Executive hires. 25 minutes.
 1. Candidate Interviews. 25-80 minutes.
 1. PR Interviews. 25-50 minutes.

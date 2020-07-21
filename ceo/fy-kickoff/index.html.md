@@ -16,7 +16,7 @@ The call is 80 minutes long and takes place over Zoom.
 The doc is circulated early so that all time zones can submit questions.
 
 The goal of the Kickoff is to discuss the strategy and plans for the next fiscal year.
-Each member of the [e-group](/handbook/leadership/#e-group) has 5 minutes to discuss their part of the business.
+Each member of the [e-group](/company/team/structure/#e-group) has 5 minutes to discuss their part of the business.
 
 The call concludes with an AMA with all executives.
 Team members can ask questions of any particular executive or the execs may choose amongst themselves who responds.

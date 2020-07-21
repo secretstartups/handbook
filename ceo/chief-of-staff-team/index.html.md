@@ -38,7 +38,7 @@ The Chief of Staff and their team may work on projects that fit *any combination
 
 This is not an exhaustive list of the types of work the CoS might do.
 
-The CoST works closely with the [CEO](/job-families/chief-executive-officer/), the [E-Group](/handbook/leadership/#e-group), the [EBA to the CEO](/job-families/people-ops/executive-business-administrator/), and [CEO Shadows](/handbook/ceo/shadow/).
+The CoST works closely with the [CEO](/job-families/chief-executive-officer/), the [E-Group](/company/team/structure/#e-group), the [EBA to the CEO](/job-families/people-ops/executive-business-administrator/), and [CEO Shadows](/handbook/ceo/shadow/).
 
 #### Many Functional
 
