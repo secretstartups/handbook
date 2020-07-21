@@ -48,6 +48,10 @@ Let's explore the stages in more detail and strategies you can implement as a Ma
 6. **High-Performance** - Wow! The team is accomplishing more than it expected. The team has taken off, creativity is fostered and goals are surpassed. 
 7. **Renewal** - Why continue? The team is given recognition and celebrates achievements of individuals that produce valuable work. Reflect on lessons learned and reassess for the future.
 
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTiO3RkrjOgOJ6tqvEEg7BXIP6wJrlmazKHD-IUTDXTnGmDC3m4h7N0eXG1kUWoHmSGArkcsHOo1ln0/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
+
 ### Stage 1 Orientation - Why am I here?
 
 Why am I here? Team needs to move from complete freedom to a set of “boundaries and constraints” that are needed to operate. The first step is to understand the purpose of the team. 
@@ -222,7 +226,7 @@ Why continue? It is time to give recognition to or celebrate the achievement of 
 ### Summary
 The Drexler-Sibbet Team Performance Model is an excellent tool to building and maintaining high performing teams at GitLab. As a Manager, use some of the tactical steps outlined on this page to ensure your team has a common understanding of the direction of the team. Your team will be on its way to building a high performing team!
 
-## Additional resources
+## Additional Resources
 - Read:[Building and Leading High-Performing Remote Teams](https://www.shrm.org/resourcesandtools/hr-topics/technology/pages/building-leading-high-performing-remote-teams.aspx) - SHRM
 - Read:[What Google Learned From Building the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - NYTimes
 - Watch: [How Google Builds the Perfect Team](https://www.youtube.com/watch?v=v2PaZ8Nl2T4) - Tech Insider
