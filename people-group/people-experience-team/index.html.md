@@ -54,7 +54,7 @@ The following factors will also be taken into consideration:
 
 The Rotation groups are listed as follows:
 
-- Letters of Employment / VOE / OSAT Feedback
+- Letters of Employment / VOE 
 - Probation / Anniversary Queries / Gift Requests
 - BHR Onboarding Report / Moo Report
 - Allocations for Onboarding / Offboarding / Mobility
@@ -63,17 +63,16 @@ The Rotation groups are listed as follows:
 #### Allocations for Onboarding
 
 - We always try and split evenly and fairly
- 
-
 
 #### Allocations for Offboarding
 
 - Team has 12 hours to create and notify of the offboarding issue
 - The person that is in the allocation rotation will also add the offboarding to the PEA team calendar
-
+- Due to different time zones, the offboarding issue creation and task completion can be tagged team by the Associates. 
 
 #### Allocations for Career Mobility 
 
+- We always try and split evenly and fairly
 
 
 ### Audits 
@@ -115,9 +114,27 @@ This WIP and will be included here soon.
 
 - Report is pulled every Monday and Wednesday
 
+### OSAT Team Member Feedback
+
+Once a new team member has completed their onboarding, they are asked to complete the `Onboarding Survey` to share their experience. Based on the scores received, the People Experience Associate assigned to the specific team members onboarding, will complete the following:
+
+- Score of 4 or higher: use own discretion based on the feedback received and see whether there are any improvements or changes that can be made to the onboarding template / onboarding process (this can be subjective). 
+- Score of 3 or lower: reach out to the team member that has provided feedback and schedule a coffee chat to further discuss their concerns and feedback provided. 
+
+#### Onboarding Buddy Feedback
+
+In the same survey, new team members are able to provide a score and feedback on their onboarding buddy. If the score and feedback received is constructive and valuable insights when the score is low, the People Experience Associate assigned to that specific team members onboarding, should reach out to the manager of the onboarding buddy and provide feedback in a polite and supportive way.  
+
 ### Anniversary Period Gift Queries
 
-Process will be included here (current and potentially new process)
+*Current Process*
+
+Team members celebrating their first, third and fifth anniversaries with GitLab would have received an email from the People Experience Team asking them to complete their information in order to have their item shipped. Due to production and shipping delays, many team members are still waiting for their gifts and are instructed to make contact with people-exp@gitlab for follow up. Once we receive the request:
+
+1. Advise the team member that we will follow up with the vendor and get back to them. 
+1. Send an email to the DRI at the vendor and ask for feedback on the team members order, providing the team members name and anniversary unique code. Please cc People Experience Team Lead. 
+1. Add the team members request to the `Anniversary Pending Feedback` spreadsheet in Google Drive. 
+1. Once feedback is received, depending on the situation, we will still need to get approval that the item may be shipped or an order needs to be placed again. Important to note that there are time delays in getting the approval required in order to get back to the team member.  
 
 ### Gift Requests
 
@@ -125,6 +142,7 @@ When a team member completes the GitLab gift form request, the People Experience
 
 - Navigate and open the gift form requests in `Google spreadsheet`. 
 - Open the PeopleOps 1Password Vault and select `Gift & Flower Vendors` to gain access to the various vendors used. 
+- If a voucher for meal delivery is requested, ensure to check that the vendor is available in the team members location. 
 - Place order and once confirmed, add data, including order confirmation link, to spreadsheet. 
 - Send the requesting team member an email or message in Slack to confirm that you have processed the request/order. 
 - Use the Gift [page](https://about.gitlab.com/handbook/people-group/#gifts) in the Handbook for any further information regarding the policy for gift order requests. 
@@ -162,7 +180,7 @@ Here are the steps to follow when scheduling a Group Conversation or AMA:
 1. You will be prompted to select whether you would like to send invitation emails to Google Calendar guests? Select 'Don't Send'
 1. You will receive a bunch of automated messages in your personal Inbox regarding the scheduled call, you can simply ignore and delete them. 
 
-That's it, you have successfully scheduled the meeting! Now just remember to let the requesting team member know to check that it has been done so correctly. 
+That's it, you have successfully scheduled the meeting! Now just remember to let the requesting team member know to check that you have completed the request. 
 
 
 ### HelloSign
