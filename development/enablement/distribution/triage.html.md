@@ -139,7 +139,7 @@ If someone is asking for support in the omnibus-gitlab project, point them to th
 ```
 Provided description seems to point to this issue not being related to this project. This can be the case when installation and `gitlab-ctl reconfigure` run went without issues, but your GitLab instance is still giving 500 error page with an error in the log.
 
-For this reason, I will close this issue and you can check on [how to find further help](/get-help/) on the GitLab website.
+For this reason, I will close this issue and you can check on [how to find further help](https://about.gitlab.com/get-help/) on the GitLab website.
 
 /close
 ```
