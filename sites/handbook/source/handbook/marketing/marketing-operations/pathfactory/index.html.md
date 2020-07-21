@@ -11,7 +11,7 @@ title: "PathFactory"
 
 ## Uses
 
-PathFactory (PF) is leveraged as our [content library & content distribution system](/handbook/marketing/corporate-marketing/content/#content-library). The [Digital Marketing Programs team](/handbook/marketing/revenue-marketing/digital-marketing-programs/) is primarily responsible for all the of the content within the PathFactory tool. Marketing program managers work with other teams in marketing to organize and curate assets into tracks that are then disseminated for use in Marketo, `about.gitlab.com`, and other campaign-related channels.
+PathFactory (PF) is leveraged as our [content library & content distribution system](/handbook/marketing/corporate-marketing/content/#content-library). The [global content](https://about.gitlab.com/handbook/marketing/growth-marketing/content/) and [Digital Marketing Programs](/handbook/marketing/revenue-marketing/digital-marketing-programs/) teams are primarily responsible for all the of the content within the PathFactory. Marketing program managers work with other teams in marketing to organize and curate assets into tracks that are then disseminated for use in Marketo, `about.gitlab.com`, and other campaign-related channels. 
 
 | **Team** | **Rules of Engagement** | **User Roles** |
 | ------ | ------ | ------ |
@@ -54,17 +54,19 @@ There are three levels of access - Admin, Author, Reporter - which are granted b
 
 * [Generic PathFactory request](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/blob/master/.gitlab/issue_templates/pathfactory_request.md)
 
-## Marketo vs. PathFactory
+## PathFactory vs. Marketo
 
 ☝️ **PathFactory ≠ Email Nurture. PathFactory is a tool that - instead of driving to a single asset - drives to a related-content experience.**
 
 Nurture is a channel to bring an individual to the content. Just like ads, social, website, etc. drive to CTAs, PathFactory link is the CTA - a *powerful* CTA because it can lead the individual down a "choose your own adventure" path of consumption which we track.
 
 **What are the differing goals of PathFactory and Marketo?**  
+
 * **Marketo nurture:** To keep the GitLab top of mind and deliver relevant content (via PathFactory)
 * **PathFactory:** To increase consumption/engagemet with GitLab content
 
 **Can records be in Marketo nurture and PathFactory nurture at the same time? If not, is 1 prioritized over the other?**  
+
 Yes, the PathFactory track acts as a supplement to the existing Marketo nurture instead of a replacement. It allows us to provide related content in a seamless way for the end-user (better than simply providing a PDF link and to improve "binging" of content).
 
 ## PathFactory vs. CMS vs. DAM
@@ -305,7 +307,7 @@ Form strategy is used on content tracks to collect data from unknown visitors an
 
 ## PathFactory forms
 
-The forms used in PathFactory are Marketo forms. They are added to PathFactory using the Marketo script, but they should also include the PathFactory capture tag and Google Tag Manager script to capture form fills in Google Analytics and track form submission back to Marketo. If a new form is created, the PathFactory capture tag and Google Tag Manager script **must be applied**. To request a new form, please open an issue using the `pathfactory_request.md` issue template in the marketing operations project and assign it to `@sdaily`.
+The forms used in PathFactory are Marketo forms. They are added to PathFactory using the Marketo script, but they should also include the PathFactory capture tag, Google Tag Manager script to capture form fills in Google Analytics and track form submission back to Marketo, and custom parameters to capture additional information behind the form fill. If a new form is created, the PathFactory capture tag, Google Tag Manager script, and custom paramters **must be applied**. To request a new form, please open an issue using the `pathfactory_request.md` issue template in the marketing operations project and assign it to `@sdaily`.
 
 ## PathFactory links
 
