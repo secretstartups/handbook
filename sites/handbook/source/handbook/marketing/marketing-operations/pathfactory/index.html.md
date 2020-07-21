@@ -22,6 +22,7 @@ PathFactory (PF) is leveraged as our [content library & content distribution sys
 | Account Based Marketing | View content performance | Author |
 | Customer Reference Programs | Upload new case studies and customer content | Author |
 | Technical Evangelism | Upload new technical content for use in campaigns | Author |
+| Sales Development Representative (SDR) | PathFactory for Sales | Sales user (PathFactory for Sales only) |
 
 ## Access   
 
@@ -55,16 +56,24 @@ There are three levels of access - Admin, Author, Reporter - which are granted b
 
 ## Marketo vs. PathFactory
 
-☝️ **Pathfactory ≠ Email Nurture. Pathfactory is a tool that - instead of driving to a single asset - drives to a related-content experience.**
+☝️ **PathFactory ≠ Email Nurture. PathFactory is a tool that - instead of driving to a single asset - drives to a related-content experience.**
 
-Nurture is a channel to bring an individual to the content. Just like ads, social, website, etc. drive to CTAs, Pathfactory link is the CTA - a *powerful* CTA because it can lead the individual down a "choose your own adventure" path of consumption which we track.
+Nurture is a channel to bring an individual to the content. Just like ads, social, website, etc. drive to CTAs, PathFactory link is the CTA - a *powerful* CTA because it can lead the individual down a "choose your own adventure" path of consumption which we track.
 
 **What are the differing goals of PathFactory and Marketo?**  
-* **Marketo nurture:** To keep the GitLab top of mind and deliver relevant content (via Pathfactory)
+* **Marketo nurture:** To keep the GitLab top of mind and deliver relevant content (via PathFactory)
 * **PathFactory:** To increase consumption/engagemet with GitLab content
 
 **Can records be in Marketo nurture and PathFactory nurture at the same time? If not, is 1 prioritized over the other?**  
 Yes, the PathFactory track acts as a supplement to the existing Marketo nurture instead of a replacement. It allows us to provide related content in a seamless way for the end-user (better than simply providing a PDF link and to improve "binging" of content).
+
+## PathFactory vs. CMS vs. DAM
+
+**Content Management System (CMS)** - A content management system is a software application that can be used to manage the creation and modification of digital content. 
+
+**Digital Asset Management (DAM)** - Digital asset management (DAM) is a system that stores, shares and organizes digital assets in a central location.
+
+**PathFactory** - Content experience software used to allow buyers to binge-consume content, remove friction, and create more qualified leads, faster.
 
 ## Changelog
 
