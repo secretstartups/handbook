@@ -137,17 +137,17 @@ The Mantra is a framework you can use to clearly demonstrate that you have a com
 <summary markdown="span">Job Aids</summary>
 
 *  Overview resources
-   - Comprehensive [GitLab CoM & MEDDPICC training slide deck](https://drive.google.com/open?id=1bWdV__GwN9WzkidBc0qMFu1GGln3rf5C)
-   - [GitLab CoM & MEDDPICC Participant Guide](https://drive.google.com/open?id=1qSn-PZJ9_mk-dhnRY01BdoeBcrtC7jVr)
+   - Comprehensive [GitLab CoM & MEDDPPICC training slide deck](https://drive.google.com/open?id=1bWdV__GwN9WzkidBc0qMFu1GGln3rf5C)
+   - [GitLab CoM & MEDDPPICC Participant Guide](https://drive.google.com/open?id=1qSn-PZJ9_mk-dhnRY01BdoeBcrtC7jVr)
 *  Prepare
    - [Pre-Call Plan](https://docs.google.com/document/d/1yjyfvMoDvayZca5hXiIwSHYc9T1M3mTc7ocqzjhqOf8/copy)
 *  Discovery
    - [Customer Call Notes Template](https://docs.google.com/document/d/1hlLvfgQMgQS5g2ykEc6eNZP_wZd1M8GSmS-JsN_vICU/copy)
       - You may also choose to utilize the [Role Play Notes](https://docs.google.com/document/d/185a4mI3HMFnV_l6NwrsAndduFFlTvm5tPiIuPVy0ONQ/copy) template
 *  Qualify
-   - [Capturing "MEDDPICC" Questions for Deeper Qualification](/handbook/sales/#capturing-meddpicc-questions-for-deeper-qualification)
-   - [MEDDPICC training slides](https://drive.google.com/open?id=1i3D64esfBitwn1ZXKB1-yjs52Z5hMsUggVClUKTcqjk)
-   - [MEDDPICC template](https://docs.google.com/document/d/1WbHoSL4r7S553n90sAEVuSdBNImWfCk3vTJINw2ud8A/copy)
+   - [Capturing "MEDDPPICC" Questions for Deeper Qualification](/handbook/sales/#capturing-meddppicc-questions-for-deeper-qualification)
+   - [MEDDPPICC training slides](https://drive.google.com/open?id=1i3D64esfBitwn1ZXKB1-yjs52Z5hMsUggVClUKTcqjk)
+   - [MEDDPPICC template](https://docs.google.com/document/d/1WbHoSL4r7S553n90sAEVuSdBNImWfCk3vTJINw2ud8A/copy)
    - [Opportunity Qualifier](https://docs.google.com/document/d/1Tz6bQKD4Ff2-XqpSXRQslD8yvrphwXaL6oEl74DAjeQ/copy)
 *  Role Play materials
    - [Role Play Prep Sheet](https://docs.google.com/document/d/1nQ2yH4hg_btFi5XGHhvDjNh9-TKgxAYGO-bLYl8cMdc/copy)
@@ -171,12 +171,12 @@ The Mantra is a framework you can use to clearly demonstrate that you have a com
 *  [Manager Coaching & Reinforcement Playbook](https://drive.google.com/open?id=1perfP59qxJlEs9AEkoPt4su23Jwk7IqK) (Feb 2020)
 *  [Opportunity Coaching Guide](https://docs.google.com/document/d/1IZA9Fo2SvZOrtUVpXOjwwqs76lKdXFs4hTezbxRq5v8/copy) (Aug 2019)
 *  [Coaching & Reinforcement Template](https://drive.google.com/file/d/0B-mC9VLTLN0bTWRUdFlKbVlpUVlia05wOGJQcUNwUVA2elpz/view?usp=sharing) (Feb 2020) 
-*  [GitLab CoM & MEDDPICC Fast Start Program Manager Playbook](https://drive.google.com/open?id=1n76gU6whKW51ixMfFvgXoGsq512PsCHG) (Aug 2019)
+*  [GitLab CoM & MEDDPPICC Fast Start Program Manager Playbook](https://drive.google.com/open?id=1n76gU6whKW51ixMfFvgXoGsq512PsCHG) (Aug 2019)
 *  Featured Command Center training modules (note: course access requires Force Management Command Center license)
      - [Skill/Will Model course](https://gitlab.lyearn.com/#/learner/courses/5b0ec54911bac00011139811/card) (40 minutes)
      - [Coaching Model course](https://gitlab.lyearn.com/#/learner/courses/5b0edb16c6b58400126eb350/card) (39 minutes)
      - Opportunity Coaching Best Practices Series
-          - [Opportunity Coaching powered by MEDDPICC](https://gitlab.lyearn.com/#/learner/courses/5b32b9337f8a9800195a8288/card) (21 minutes)
+          - [Opportunity Coaching powered by MEDDPPICC](https://gitlab.lyearn.com/#/learner/courses/5b32b9337f8a9800195a8288/card) (21 minutes)
           - [Selecting the Right Deals](https://gitlab.lyearn.com/#/learner/courses/5e8f67688ab5f033dace51ab/card) (5 minutes)
           - [Establishing a Cadence](https://gitlab.lyearn.com/#/learner/courses/5e8f675b8ab5f087b4ce5197/card) (5 minutes)
           - [Preparing the Seller](https://gitlab.lyearn.com/#/learner/courses/5e8f674a8ab5f06592ce5183/card) (10 minutes)

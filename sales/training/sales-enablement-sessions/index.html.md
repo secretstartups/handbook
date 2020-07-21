@@ -18,19 +18,30 @@ title: "Sales Enablement Sessions"
 ## Upcoming Training
 To see what training is coming soon, view the [Sales Enablement Session issue list](https://gitlab.com/groups/gitlab-com/sales-team/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=sales%20enablement%20sessions).
 
-**Summer 2020 Lineup**
+**Fall 2020 Lineup**
 
-| DATE    | TOPIC                                                                      | SPEAKER/S                                              |
-|---------|----------------------------------------------------------------------------|--------------------------------------------------------|
-| July 14  | Forrester TEI Report                                                     | Forrester Representitive             |
-| July 16  | The GitLab Journey & the GitOps Use Case                                 | William Chia                         |
-| July 23 | No sessions during last two weeks of a quarter                            | N/A                                  |
-| July 30 | No sessions during last two weeks of a quarter                            | N/A                                  |
+| DATE   | TOPIC                                                                    | SPEAKER S                                       |
+|--------|--------------------------------------------------------------------------|-------------------------------------------------|
+|  Aug 6 | The Value of Professional Services: A CFO's Perspective                  | Paul Machle, Michael Lutz  |
+| Aug 13 | Q3 FY21 GitLab Product Release Update for Sales                          | Brian Glanz                                     |
+| Aug 20 | Gainsight Overview for Sales                                             | Jeff Beaumont                                   |
+| Aug 27 | ROI Analysis                                                             | Mahesh Kumar (Sales)                            |
+|  Sep 3 | Demystifying the Metrics Conversation                                    | David Somers, John Jeremiah, TBD Sales          |
+| Sep 10 | Atlassian & the GitLab/Jira Customer Conversation                        | Mahesh Kumar, Aleeta Bell (Sales)               |
+| Sep 17 | Maximizing Value of Partners in a Deal (Co-Selling with Partners Part 2) | David Forsch, Ed Cepulis                        |
+| Sep 24 | Q3 FY21 Competitive Update                                               | Mahesh Kumar                                    |
+|  Oct 1 | Deal Structure Best Practices                                            | TBD                                             |
+|  Oct 8 | VMware                                                                   | Amy Brandenburg, TBD                            |
+| Oct 15 | Proof Points & Analyst Resources Update                                  | Colin Fletcher (Sales)                          |
+| Oct 22 |              No sessions during last two weeks of a quarter                                                              
+| Oct 29 |              No sessions during last two weeks of a quarter                                                           |                                                
 
 ## Past Sessions
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2020-07-16 | **[The GitLab Journey & the GitOps Use Case](https://youtu.be/Ap14indu2-w)**     | Public                        |
+| 2020-07-14  | **[Special: Forrester TEI Report](https://youtu.beJ_6QgemCz2E)**                   | Private           |
 | 2020-07-09 | **[Channel Partner Success for GitLab Sellers](https://youtu.be/OeykHQetd7U)**          |   Private              |
 | 2020-07-02 | **[Closing Best Practices](https://youtu.be/y3iLSsAD24s)**          |   Private              |
 | 2020-06-25 | **[Q2 FY21 Competitive Update](https://youtu.be/S_z_hgf3ASc)**                                       | Private |

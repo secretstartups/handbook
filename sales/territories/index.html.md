@@ -148,15 +148,15 @@ For other countries outside AMER, governments agencies will be handled by the te
 
 | Sub-Region     | Area           | **Territory Name**                     | Sales              | SDR                |
 | :------------- | :------------- | :--------------------------------- | :----------------- | :----------------- |
-| ANZ            | ANZ            | **Large-APAC-AUS Northern Terriories** | Anthony McMahon    | Glenn Perez        |
-| ANZ            | ANZ            | **Large-APAC-AUS Queensland**          | Anthony McMahon    | Glenn Perez        |
+| ANZ            | ANZ            | **Large-APAC-AUS Northern Territory**  | David Haines       | Belinda Singh      |
+| ANZ            | ANZ            | **Large-APAC-AUS Queensland**          | David Haines       | Belinda Singh      |
 | ANZ            | ANZ            | **Large-APAC-AUS South Australia**     | Danny Petronio     | Belinda Singh      |
-| ANZ            | ANZ            | **Large-APAC-AUS Sydney**              | Anthony McMahon    | Glenn Perez        |
-| ANZ            | ANZ            | **Large-APAC-AUS Victoria**            | Danny Petronio     | Belinda Singh      |
+| ANZ            | ANZ            | **Large-APAC-AUS Sydney**              | David Haines       | Belinda Singh      |
+| ANZ            | ANZ            | **Large-APAC-AUS Victoria**            | Danny Petronio     | Glenn Perez        |
 | ANZ            | ANZ            | **Large-APAC-AUS Western Australia**   | Rob Hueston        | Belinda Singh      |
 | ANZ            | ANZ            | **Large-APAC-ACT**                     | Rob Hueston        | Belinda Singh      |
-| ANZ            | ANZ            | **Large-APAC-North Sydney**            | Anthony McMahon    | Glenn Perez        |
-| ANZ            | ANZ            | **Large-APAC-NZ**                      | Anthony McMahon    | Belinda Singh      |
+| ANZ            | ANZ            | **Large-APAC-North Sydney**            | David Haines       | Belinda Singh      |
+| ANZ            | ANZ            | **Large-APAC-NZ**                      | David Haines       | Belinda Singh      |
 | Asia Central   | Asia Central   | **Large-APAC-Central Asia**            | Rob Hueston        | Glenn Perez        |
 | Asia Central   | Asia Central   | **Large-APAC-Kazakhstan**              | Rob Hueston        | Glenn Perez        |
 | Asia SE        | Southeast Asia | **Large-APAC-Cambodia**                | Claudia Cheong     | Glenn Perez        |
@@ -167,7 +167,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Asia SE        | Southeast Asia | **Large-APAC-Thailand**                | Claudia Cheong     | Glenn Perez        |
 | Asia SE        | Southeast Asia | **Large-APAC-Viet Nam**                | Claudia Cheong     | Glenn Perez        |
 | Asia SE        | Singapore      | **Large-APAC-Singapore**               | Claudia Cheong     | Glenn Perez        |
-| Asia South     | India          | **Large-APAC-India**                   | Danny Petronio     | Belinda Singh      |
+| Asia South     | India          | **Large-APAC-India**                   | Danny Petronio     | Glenn Perez        |
 | China          | China          | **Large-APAC-China**                   | Danny Petronio     | Aletha Alfarania   |
 | China          | Taiwan         | **Large-APAC-Taiwan**                  | Danny Petronio     | Aletha Alfarania   |
 | Japan          | Japan          | **Large-APAC-Japan**                   | Rob Hueston        | Minsu Han          |

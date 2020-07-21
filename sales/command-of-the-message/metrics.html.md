@@ -64,6 +64,7 @@ As a follow on to the above, familiarize yourself with GitLab's Value Stream Man
 **Economic metrics** highlight how your solution attaches to the customer's large strategic initiatives.
 * Economic metrics typically align to one or more of three [customer value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers)
 * Check out the [Forrester Total Economic Impact](/handbook/marketing/product-marketing/analyst-relations/forrester-tei/) study
+     - Watch the [Forrester TEI Report webcast](https://youtu.be/J_6QgemCz2E) (1 hour, July 2020, internal only) featuring Forrester analysts
 
 Listen to Nico Ochoa (Strategic Account Leader, US West) describe his role in [helping a large tech firm be able to measure success and improve business outcomes](https://youtu.be/m1Gori76d-I) (GitLab internal only, June 2020, 3 minutes).
 

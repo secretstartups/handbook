@@ -13,7 +13,7 @@ title: "Commercial Sales"
 
 ### About 
 
-The Commercial Sales department is part of the overall [GitLab Sales](/handbook/sales) functional group. We focus on [SMB and Mid-Market](/handbook/business-ops/resources/#segmentation) customers to deliver maximum value throughout the entire journey with GitLab.
+The Commercial Sales department is part of the overall [GitLab Sales](/handbook/sales) Division. We focus on [SMB and Mid-Market](/handbook/business-ops/resources/#segmentation) customers to deliver maximum value throughout the entire journey with GitLab.
 
 ### Center of Excellence
 
@@ -25,7 +25,7 @@ Why call it Center of Excellence?
 - This is our current platform for collaboration
 
 How?
-1. Choose one of the active Topics currently available below. Refer to the team list to see what is unassigned.  Note, to take a topic you do not have to be a Subject Matter Expert (SME) in the area or DRI as they may belong to a different functional group. 
+1. Choose one of the active Topics currently available below. Refer to the team list to see what is unassigned.  Note, to take a topic you do not have to be a Subject Matter Expert (SME) in the area or DRI as they may belong to a different Department. 
 2. Pick an achievable set of commitments and nail it. These should be forecastable and not something too aspirational for the timeframe
 3. Decide for yourself if you want that same topic for 3 or 6 months
 4. Start with the problem related to your subject that you think needs to be solved

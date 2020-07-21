@@ -22,7 +22,8 @@ The term *"sales"* refers to the Sales Team and *"field"* encompasses the Custom
 
 ### Teams
 * [Sales Operations](/handbook/sales/field-operations/sales-operations/)
-    *   [Deal Desk](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#welcome-to-the-deal-desk-handbook)
+    *   [Deal Desk](/handbook/sales/field-operations/sales-operations/deal-desk/#welcome-to-the-deal-desk-handbook)
+    *   [Customer Success Operations](/handbook/sales/field-operations/sales-operations/customer-success-operations)
 * [Sales Systems](/handbook/sales/field-operations/sales-systems/)
 * [Sales Strategy](/handbook/sales/field-operations/sales-strategy/) 
 * [Field Enablement](/handbook/sales/field-operations/field-enablement/)
