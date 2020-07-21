@@ -2,7 +2,33 @@
 layout: handbook-page-toc
 title: Product Investment
 ---
-<% 
+
+This page is meant to provide insight into how we consider and allocate our investment across our [Product Hierarchy](/handbook/product/product-categories/#hierarchy).
+
+## Investment by Stage
+
+We have a framework we use to assess the investment level for each stage.  The three investment drivers are as follows:
+
+1. <span class="colour" style="color:rgb(0, 0, 0)">Product Usage Driver Score is a measure of the number of active users per month for that stage</span>
+2. <span class="colour" style="color:rgb(0, 0, 0)">Revenue Driver score is a measure of the ability of that stage to increase revenue through higher ASP or seat adds</span>
+3. <span class="colour" style="color:rgb(0, 0, 0)">SAM (Served Addressable Market) Driver score is a measure of the size of the DevOps market that stage enables GitLab to serve over the next three years</span>
+
+Each driver is scored on a 1-5 basis.  Here is a description of how each driver is scored.
+
+| Score | Usage Driver Key | Revenue Driver Key | SAM Driver Key |
+| ----- | ---------------- | ------------------ | -------------- |
+| 1 | <10k SMAU | Not a driver of paid sales | <200m SAM over the next three years |
+| 2 | 10k-50k SMAU | Used by paid customers, but not a major element in paid sales | 200m-500m SAM over the next three years |
+| 3 | 50k-100k SMAU | Key element in Starter+ sales | 500m-1B SAM over the next three years |
+| 4 | 100k-200k SMAU | Key element in Premium+ sales | 1B-2B SAM over the next 3 years |
+| 5 | >200k SMAU | Key element in Ultimate sales | >2B SAM over the next three years |
+
+The following table provides scores for each of our DevSecOps stages and a comparison of the total score to our current development spend allocation.
+
+| Stage | Usage Driver Score | Revenue Driver Score | SAM Driver Score | Combined Score | % of Total Score | Stage Development Spend % | Difference |
+|-|-|-|-|-|-|-|-|
+<%
+# this calculates the total score across all stages needed to calculate the percent of total score 
 totalScore = 0
 data.sections.each do |sectionKey, section|
   data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage|
@@ -11,12 +37,6 @@ data.sections.each do |sectionKey, section|
   end
 end
 %>
-This page is meant to provide insight into how we consider and allocate our investment across our [Product Hierarchy](/handbook/product/product-categories/#hierarchy).
-
-## Investment by Stage
-
-| Section - Stage | [Lifecycle](/direction/maturity/) | Horizon | Usage Driver Score | Revenue Driver Score | SAM Driver Score | Combined Score | % of Total Score | Stage Development Spend % | Difference |
-|-|-|-|-|-|-|-|-|
 <% data.sections.each do |sectionKey, section| %>
   <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
     <% next if !stage.marketing %>
@@ -25,8 +45,6 @@ This page is meant to provide insight into how we consider and allocate our inve
     <% percent_of_total = (combinedScore.to_f/totalScore.to_f)*100 %>
     <% difference = stage.stage_development_spend_percent.to_f - percent_of_total%>
     <% stageLine << "#{stage.display_name}"%>
-    <% stageLine << "#{stage.lifecycle}" if stage.lifecycle %>
-    <% stageLine << "#{stage.horizon}" if stage.horizon %>
     <% stageLine << "#{stage.usage_driver_score}" if stage.usage_driver_score %>
     <% stageLine << "#{stage.revenue_driver_score}" if stage.revenue_driver_score %>
     <% stageLine << "#{stage.sam_driver_score}" if stage.sam_driver_score %>
@@ -40,6 +58,9 @@ This page is meant to provide insight into how we consider and allocate our inve
 
 ## Investment by Group
 
+To be added.
+
+<!--
 | Section - Stage:Group | Value |
 |-----------------------|-------|
 <% data.sections.each do |sectionKey, section| %>
@@ -52,9 +73,13 @@ This page is meant to provide insight into how we consider and allocate our inve
     <% end %>
   <% end %>
 <% end %>
+-->
 
 ## Investment by Category
 
+To be added.
+
+<!--
 | Section - Stage:Group - Category | [Priority Level](/handbook/marketing/website/#category-attributes) |
 |----------------------------------|----------------|
 <% data.sections.each do |sectionKey, section| %>
@@ -73,6 +98,7 @@ This page is meant to provide insight into how we consider and allocate our inve
     <% end %>
   <% end %>
 <% end %>
+-->
 
 ## Changes
 
