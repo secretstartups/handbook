@@ -267,6 +267,8 @@ The [Candidate Experience Specialist](/job-families/people-ops/candidate-experie
 
 1. If there are any links in the description, click on the link, then click the link icon in the text box toolbar, then change `Target` to `New Window`, then click `Ok` and repeat for any other links in the description; this will ensure all links work properly.
 
+1. **If there is an extneral job post you should delete it.** Click on the ellipsis button - delete. 
+
 1. ``Settings`
    - Send Confirmation Email to Candidates: select the `Internal Auto-Reply after Application` from the drop-down list
    - Application Confirmation Page: Default
