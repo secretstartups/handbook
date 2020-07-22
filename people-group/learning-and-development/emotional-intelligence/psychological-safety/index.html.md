@@ -56,3 +56,5 @@ Psychological safety has impacts on diversity and inclusion in organizations. Ev
 - Read: [The Role of Psychological Safety in Diversity and Inclusion](https://www.psychologytoday.com/us/blog/the-fearless-organization/202006/the-role-psychological-safety-in-diversity-and-inclusion) - Psychology Today 
 - Read: [The Fearless Organization by Amy C. Edmondson](https://www.amazon.com/Fearless-Organization-Psychological-Workplace-Innovation/dp/1119477247/ref=sr_1_1?keywords=The+Fearless+Organization&qid=1567701716&s=gateway&sr=8-1)
 - Listen: [Creating Psychological Safety in the Workplace](https://hbr.org/podcast/2019/01/creating-psychological-safety-in-the-workplace) - HBR 
+
+The SSOT for the slides on this page can be found in [this folder](https://drive.google.com/drive/folders/1RLXcBUM1IKx8KmgQSR-dPDwvkso6bVJL).
