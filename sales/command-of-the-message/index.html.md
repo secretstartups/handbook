@@ -34,6 +34,7 @@ Value drivers describe what organizations are likely proactively looking for or 
 | [GitLab CXO Digital Transformation Discovery Guide](https://drive.google.com/open?id=1balLINV-vnd6-6TYzF3SIIJKrBPUQofVSDgQ5llC2Do) | 3-page conversation guide for executive discussions |
 | [Proof Points](/handbook/sales/command-of-the-message/proof-points.html) | don't take our word for it--3rd party validation from customers, analysts, industry awards, and peer reviews |
 | [NEW Customer deck based on GitLab value drivers](https://docs.google.com/presentation/d/1SHSmrEs0vE08iqse9ZhEfOQF1UWiAfpWodIE6_fFFLg/edit?usp=sharing) | alternative to the standard GitLab pitch deck that starts with the customer's perspective and aligns to the 3 value drivers. Video [here](https://youtu.be/UdaOZ9vvgXM) |
+| [Demystifying the Metrics Conversation](/handbook/sales/command-of-the-message/metrics.html) | tips and tricks for navigating the Metrics conversation with customers |
 
 ## Additional Resources
 
