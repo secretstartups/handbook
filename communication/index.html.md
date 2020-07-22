@@ -133,6 +133,24 @@ Things to think about:
 1. **Do you need guidance on any people or legal aspects to it?** Generally changes that impact people could potentially have legal or employment aspects to it and you may need advice and approval from the People Group and/or Legal.
 1. **If in doubt, always reach out!** Slack #internal-communications, or create new issue using [internal-communications-request template](https://gitlab.com/gitlab-com/chief-of-staff-team/internal-communications/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=)
 
+## Communicating Change 
+
+Every project is different, and each communication strategy should be tailored to reflect the scope and scale of the change. If your project includes a change with a significant impact on team members, or if the project is running into a lot of resistance, then your strategy should emphasize a more comprehensive communication approach.
+
+### Considerations for a change proposal
+
+1. Consider whether the change 'subject' is [public by default.](https://about.gitlab.com/handbook/communication/#not-public) 
+1. [Everything should start with a Merge Request](https://about.gitlab.com/handbook/communication/#everything-starts-with-a-merge-request) but a [Confidential Issue](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html), visible only to members of a project with sufficient permissions, may be considered if an issue is contentious (see below).
+
+### Things to include in change proposal 
+1. Summary of what you are solving for in simple terms (Address the What, Why, When, Who and How) 
+1. Solutions you are considering
+1. Current or alternative proposals
+1. DRI 
+1. Milestones - Development period, Feedback period, Iteration period, Go/No-go decision, proposed implementation date etc
+1. Feedback mechanism (an Issue, a Slack channel, an AMA etc)
+1. Links and references
+
 ### What is a contentious issue?
 
 **A contentious issue is something that:**
