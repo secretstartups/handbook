@@ -7,7 +7,7 @@ title: Growth
 
 {:.no_toc}
 
-* TOC
+- TOC
 {:toc}
 
 ## Overview
@@ -17,20 +17,20 @@ scaling GitLab's business value. To accomplish this, Growth analyzes the entire 
 a customer to the flow across multiple GitLab features - and even reactivation of lost users. Several groups
 help with this mission:
 
-* [Acquisition](https://about.gitlab.com/direction/acquisition/), [Conversion](https://about.gitlab.com/direction/conversion/), [Expansion](https://about.gitlab.com/direction/expansion/) and [Retention](https://about.gitlab.com/direction/retention/) connect users to the existing value that GitLab already delivers by
+- [Acquisition](https://about.gitlab.com/direction/acquisition/), [Conversion](https://about.gitlab.com/direction/conversion/), [Expansion](https://about.gitlab.com/direction/expansion/) and [Retention](https://about.gitlab.com/direction/retention/) connect users to the existing value that GitLab already delivers by
 rapid experimentation.
-* [Fulfillment](https://about.gitlab.com/direction/fulfillment/) ensures a terrific experience throughout the
+- [Fulfillment](https://about.gitlab.com/direction/fulfillment/) ensures a terrific experience throughout the
 buyer journey for customers doing business with GitLab.
-* [Telemetry](https://about.gitlab.com/direction/telemetry/) builds the backbone of data that other groups need to be successful, enabling a data-informed product
+- [Telemetry](https://about.gitlab.com/direction/telemetry/) builds the backbone of data that other groups need to be successful, enabling a data-informed product
 culture at GitLab.
 
 Growth is commonly asking and finding solutions for these types of questions:
 
-* Why are so many users signing up for GitLab but never logging in?
-* How do we successfully attract new customers to GitLab?
-* How do we successfully win back customers that once used and/or paid for GitLab but have canceled their subscription?
-* What is the first action taken after logging in and is it the right one for maximum connection to value?
-* How can we grow the amount of customers that use all stages of GitLab?
+- Why are so many users signing up for GitLab but never logging in?
+- How do we successfully attract new customers to GitLab?
+- How do we successfully win back customers that once used and/or paid for GitLab but have canceled their subscription?
+- What is the first action taken after logging in and is it the right one for maximum connection to value?
+- How can we grow the amount of customers that use all stages of GitLab?
 
 ### Why Invest in a Growth Function?
 
@@ -45,13 +45,13 @@ involves direct sales.
 
 #### AARRR framework to understand our Funnel
 
-ARRR stands for *Acquisition*, *Activation*, *Retention*, *Revenue*, and *Referral* which is often referred to as ["Pirate Metrics"](https://amplitude.com/blog/2016/02/25/actionable-pirate-metrics). These five words represent the customer journey and the various means a product manager may apply a North Star metric to drive a desired behavior in the funnel.
+ARRR stands for _Acquisition_, _Activation_, _Retention_, _Revenue_, and _Referral_ which is often referred to as ["Pirate Metrics"](https://amplitude.com/blog/2016/02/25/actionable-pirate-metrics). These five words represent the customer journey and the various means a product manager may apply a North Star metric to drive a desired behavior in the funnel.
 
-* Acquisition measures user actions that show awareness of the feature
-* Activation illustrates a user has begun to apply the feature
-* Retention is the continued use of the feature over time
-* Revenue captures the monetary value acquired from feature usage
-* Referral focuses on measuring behaviors that drive users to encourage others to consume the feature
+- Acquisition measures user actions that show awareness of the feature
+- Activation illustrates a user has begun to apply the feature
+- Retention is the continued use of the feature over time
+- Revenue captures the monetary value acquired from feature usage
+- Referral focuses on measuring behaviors that drive users to encourage others to consume the feature
 
 ``` mermaid
 classDiagram
@@ -84,8 +84,8 @@ seek to derive best practices from the industry and adapting them to work with
 our culture. Here are a few articles we’ve found helpful as we are formulating a
 Growth strategy and vision:
 
-* [What Are Growth Teams For, and What Do They Work On?](https://news.greylock.com/what-are-growth-teams-for-and-what-do-they-work-on-a339d0c0dee3)
-* [Sustainable Product Growth](https://www.sequoiacap.com/article/sustainable-product-growth)
+- [What Are Growth Teams For, and What Do They Work On?](https://news.greylock.com/what-are-growth-teams-for-and-what-do-they-work-on-a339d0c0dee3)
+- [Sustainable Product Growth](https://www.sequoiacap.com/article/sustainable-product-growth)
 
 The Acquisition, Conversion, Expansion and Retention groups are GitLab's approach to a dedicated,
 experiment-driven Growth team. These groups are expected to always start with a hypothesis.
@@ -96,7 +96,7 @@ what people do in the application, and qualitative research, in essence the
 “why” behind the data.
 
 Growth should focus on metrics that are important at the company level, while also considering
-company strategy. Each group will own a north star KPI which are linked [here](https://about.gitlab.com/handbook/product/metrics/). At the same time, we strive to be *informed by data* and *driven by empathy* towards our users. This guideline will help us make informed decisions that align with our strategy *and* bring value to our users, avoiding the usage of dark patterns to move a KPI in the right direction.
+company strategy. Each group will own a north star KPI which are linked [here](https://about.gitlab.com/handbook/product/metrics/). At the same time, we strive to be _informed by data_ and _driven by empathy_ towards our users. This guideline will help us make informed decisions that align with our strategy _and_ bring value to our users, avoiding the usage of dark patterns to move a KPI in the right direction.
 
 Acquisition, Conversion, Expansion and Retention will consist of a product manager, engineering manager, UX manager,
 some full-stack engineers, a (shared) data analyst, and four Product Designers.
@@ -120,10 +120,10 @@ graph LR
 
 The foundational user journey is from Create -> Verify. This is the most common combination of stages, and we believe when users experience these two stages they begin to understand the broader power of a single application for the entire DevOps lifecycle. We are working on several projects to increase the number of users enjoying Create and Verify together. Examples:
 
-* [Get up and running quickly using GitLab CI](https://gitlab.com/groups/gitlab-org/-/epics/2072)
-* [Make CI Runner easy for self-managed GitLab users](https://gitlab.com/groups/gitlab-org/-/epics/2778#solutions-roadmap)
-* [Encourage users to try out CI pipelines](https://gitlab.com/groups/gitlab-org/growth/-/epics/14)
-* [Improve experience migrating from Jenkins to GitLab](https://gitlab.com/groups/gitlab-org/-/epics/2735#urgency-and-next-steps)
+- [Get up and running quickly using GitLab CI](https://gitlab.com/groups/gitlab-org/-/epics/2072)
+- [Make CI Runner easy for self-managed GitLab users](https://gitlab.com/groups/gitlab-org/-/epics/2778#solutions-roadmap)
+- [Encourage users to try out CI pipelines](https://gitlab.com/groups/gitlab-org/growth/-/epics/14)
+- [Improve experience migrating from Jenkins to GitLab](https://gitlab.com/groups/gitlab-org/-/epics/2735#urgency-and-next-steps)
 
 Note: There are numerous potential variants to this adoption journey, but it's important to keep this representation simple and consistent. Please check with Scott Williamson first before making any changes to the adoption journey image.
 
@@ -144,44 +144,44 @@ In addition to the weekly Growth meeting, Growth team members participate in the
 
 1. Weekly Growth Engineering
     1. Attendees: Growth team members
-    2. Goals: Discuss anything Growth engineering related.
-    3. Agenda: [link](https://drive.google.com/drive/search?q=title:%22Growth%20Engineering%20Weekly%22)
-2. Weekly Product Analytics and Data Weekly Sync
+    1. Goals: Discuss anything Growth engineering related.
+    1. Agenda: [link](https://drive.google.com/drive/search?q=title:%22Growth%20Engineering%20Weekly%22)
+1. Weekly Product Analytics and Data Weekly Sync
     1. Attendees: Product Analytics and Data
-    2. Goals: Stay in-sync for work across product analytics, data engineering, and data analysis.
-    3. Agenda: [link](https://docs.google.com/document/d/1csx0ZLhRIu_JcG2mXsmB14RA9oQfTtfO-p0Dywi9w9I/edit?usp=sharing)
-3. Weekly Growth EM Staff Meeting
+    1. Goals: Stay in-sync for work across product analytics, data engineering, and data analysis.
+    1. Agenda: [link](https://docs.google.com/document/d/1csx0ZLhRIu_JcG2mXsmB14RA9oQfTtfO-p0Dywi9w9I/edit?usp=sharing)
+1. Weekly Growth EM Staff Meeting
     1. Attendees: Growth EMs
-    2. Goals: Stay in-sync on growth engineering efforts.
-    3. Agenda: [link](https://docs.google.com/document/d/1SgoDre0anuIX_Qlg_fY5M_tgq4CWOeovA_MOvCtIugU/edit#heading=h.ygginho2r29b)
-4. Bi-weekly growth PM sync
+    1. Goals: Stay in-sync on growth engineering efforts.
+    1. Agenda: [link](https://docs.google.com/document/d/1SgoDre0anuIX_Qlg_fY5M_tgq4CWOeovA_MOvCtIugU/edit#heading=h.ygginho2r29b)
+1. Bi-weekly growth PM sync
     1. Attendees: Growth PMs
-    2. Goals: Stay in sync as a PM team, discuss PM specific issues/ideas
-    3. Agenda: [link](https://drive.google.com/drive/search?q=title:%22Bi-Weekly%20Growth%20PM%20Team%20Call%22)
-5. Bi-weekly sync meeting with Customer Success
+    1. Goals: Stay in sync as a PM team, discuss PM specific issues/ideas
+    1. Agenda: [link](https://drive.google.com/drive/search?q=title:%22Bi-Weekly%20Growth%20PM%20Team%20Call%22)
+1. Bi-weekly sync meeting with Customer Success
     1. Attendees: Retention, Expansion, Customer Success
-    2. Goals: Share data & learnings, discuss oppportunities for upcoming experiments, stay coordinated on programmatic vs. manual testing and learnings
-    3. Agenda: [link](https://drive.google.com/drive/u/1/search?q=retention/expansion/success%20sync%20agenda)
-6. Bi-weekly sync with Product Analytics, Data, Customer Success, and Sales
+    1. Goals: Share data & learnings, discuss oppportunities for upcoming experiments, stay coordinated on programmatic vs. manual testing and learnings
+    1. Agenda: [link](https://drive.google.com/drive/u/1/search?q=retention/expansion/success%20sync%20agenda)
+1. Bi-weekly sync with Product Analytics, Data, Customer Success, and Sales
     1. Product Analytics, Data, Customer Success, and Sales
-    2. Goals: Stay in-sync for work across Product Analytics, Data, Customer Success, and Sales
-    3. Agenda: [link](https://docs.google.com/document/d/1riUXq1GdavnSWJklrebBeZnzcAl6XATyLod9tR6-AlQ/edit?usp=sharing)
-7. Monthly sync meeting with the Data team
+    1. Goals: Stay in-sync for work across Product Analytics, Data, Customer Success, and Sales
+    1. Agenda: [link](https://docs.google.com/document/d/1riUXq1GdavnSWJklrebBeZnzcAl6XATyLod9tR6-AlQ/edit?usp=sharing)
+1. Monthly sync meeting with the Data team
     1. Attendees: Growth PMs and Data team
-    2. Goals: Keep the Data team aware of upcoming changes that may impact them, get proactive feedback on how to set up data and tracking needs
-    3. Agenda: [link](https://drive.google.com/drive/u/1/search?q=title:%20Data:Growth%20PM%20Sync)
-8. Monthly sync with Growth Marketing
+    1. Goals: Keep the Data team aware of upcoming changes that may impact them, get proactive feedback on how to set up data and tracking needs
+    1. Agenda: [link](https://drive.google.com/drive/u/1/search?q=title:%20Data:Growth%20PM%20Sync)
+1. Monthly sync with Growth Marketing
     1. Attendees: Growth PMs and Growth Marketers
-    2. Goals: Stay in-sync and work as efficiently as possible together
-    3. Agenda: [link](https://drive.google.com/drive/u/1/search?q=title:%20%22Growth%20//%20Marketing%20Sync%22)
-9. Monthly sync with Product, Legal, Compliance, Data, and Privacy
+    1. Goals: Stay in-sync and work as efficiently as possible together
+    1. Agenda: [link](https://drive.google.com/drive/u/1/search?q=title:%20%22Growth%20//%20Marketing%20Sync%22)
+1. Monthly sync with Product, Legal, Compliance, Data, and Privacy
     1. Attendees: Product, Legal, Compliance, Data, and Privacy
-    2. Goals: Answer any legal, compliance, and privacy concerns
-    3. Agenda: [link](https://docs.google.com/document/d/1g5DjHNw1bqE7oSH29XneMjn9WCS9Bjcd0jja_2VPjOM/edit?usp=sharing)
+    1. Goals: Answer any legal, compliance, and privacy concerns
+    1. Agenda: [link](https://docs.google.com/document/d/1g5DjHNw1bqE7oSH29XneMjn9WCS9Bjcd0jja_2VPjOM/edit?usp=sharing)
 10. Monthly sync with Growth section and Application Security
     1. Attendees: Product, Engineering, Application security
-    2. Goals: Growth / Application Security stable counterparts monthly discussion
-    3. Agenda: [link](https://drive.google.com/drive/search?q=title:%22Growth%20section%20and%20appsec%22)
+    1. Goals: Growth / Application Security stable counterparts monthly discussion
+    1. Agenda: [link](https://drive.google.com/drive/search?q=title:%22Growth%20section%20and%20appsec%22)
 
 ### Growth ideation and prioritization
 
@@ -189,9 +189,9 @@ Anyone is welcome to submit ideas offline to idea backlog as issues (name, descr
 
 To prioritize, the growth groups will use the [ICE framework](https://blog.growthhackers.com/the-practical-advantage-of-the-ice-score-as-a-test-prioritization-framework-cdd5f0808d64), which consists of the following elements, scored on a scale of 1-10:
 
-* Impact - high score for high impact
-* Confidence - high score for high confidence
-* Ease - high score for ease
+- Impact - high score for high impact
+- Confidence - high score for high confidence
+- Ease - high score for ease
 
 ### Feature Ownership
 
@@ -199,23 +199,23 @@ The Fulfillment Group is responsible for the maintenance and technical strategy 
 
 Key areas of focus for the Fulfillment Group are:
 
-* Payment gateway integration (Stripe, Zuora and other providers where necessary), management, and support.
-* Implementing new Pricing, Plans, and account requirements as directed by the Principal Pricing Manager.
-* Abstracting the customers application away from users to provide a seamless experience for account management of self hosted and GitLab.com accounts.
-* Ensuring the technical backend and frontend of the customers and license applications have strong test coverage, deployment, and monitoring processes and meet performance and scalability requirements.
-* Prioritization and action on the removal of technical debt by staying inline with GitLab.com best practices for technology stack, architecture, design systems, and coding. Collaborating with other Growth groups for common concerns.
-* Reviewing and merging internal and external contributions to the customers and licensing applications.
-* Allowing customers to manage billing/customer information (company details, billing address, customer address, credit card / banking information)
+- Payment gateway integration (Stripe, Zuora and other providers where necessary), management, and support.
+- Implementing new Pricing, Plans, and account requirements as directed by the Principal Pricing Manager.
+- Abstracting the customers application away from users to provide a seamless experience for account management of self hosted and GitLab.com accounts.
+- Ensuring the technical backend and frontend of the customers and license applications have strong test coverage, deployment, and monitoring processes and meet performance and scalability requirements.
+- Prioritization and action on the removal of technical debt by staying inline with GitLab.com best practices for technology stack, architecture, design systems, and coding. Collaborating with other Growth groups for common concerns.
+- Reviewing and merging internal and external contributions to the customers and licensing applications.
+- Allowing customers to manage billing/customer information (company details, billing address, customer address, credit card / banking information)
 
 The Acquisition, Conversion, Expansion, Retention, and Fulfillment Product Teams will collaborate on longer-term strategic initiatives that involve the customers and license applications to ensure that the underlying technical architecture implemented by the Fulfillment engineering team supports the longer-term roadmap of each of the below areas.
 
-*Acquisition* is measured by the New Signup ARR KPI and this team is responsible for optimizing the UX workflow for new user sign-ups, both self-hosted and on GitLab.com. This team will also be involved in sign up messaging (in conjunction with the marketing team), first-run experiences, initial purchase, and multi-channel engagement for users that have not progressed into active product use.
+_Acquisition_ is measured by the New Signup ARR KPI and this team is responsible for optimizing the UX workflow for new user sign-ups, both self-hosted and on GitLab.com. This team will also be involved in sign up messaging (in conjunction with the marketing team), first-run experiences, initial purchase, and multi-channel engagement for users that have not progressed into active product use.
 
-*Conversion* is measured by the Free to Paid Trial ARR growth KPI and owns the experience of new customers choosing to trial GitLab (both self hosted and on GitLab.com). This team will manage processes related to trial lengths, restrictions and internal touch points, and optimize both in product and external messaging for customers trialing GitLab.
+_Conversion_ is measured by the Free to Paid Trial ARR growth KPI and owns the experience of new customers choosing to trial GitLab (both self hosted and on GitLab.com). This team will manage processes related to trial lengths, restrictions and internal touch points, and optimize both in product and external messaging for customers trialing GitLab.
 
-*Expansion* is measured by the Net Retention KPI and owns the experience of customers upgrading to higher tiers, and adopting more users. Upgrades can be influenced by messaging, navigation changes, empty state UX, and other forms throughout other sections of the product.
+_Expansion_ is measured by the Net Retention KPI and owns the experience of customers upgrading to higher tiers, and adopting more users. Upgrades can be influenced by messaging, navigation changes, empty state UX, and other forms throughout other sections of the product.
 
-*Retention* is measured by the Gross Retention KPI and works holistically to prevent customer churn by improving the customer journey and internal processes of renewing accounts (including true-ups), soliciting and acting on feedback from customers who have chosen not to renew, and owning multi-channel messaging such as email and in-app messaging to drive renewals.
+_Retention_ is measured by the Gross Retention KPI and works holistically to prevent customer churn by improving the customer journey and internal processes of renewing accounts (including true-ups), soliciting and acting on feedback from customers who have chosen not to renew, and owning multi-channel messaging such as email and in-app messaging to drive renewals.
 
 Ownership of an experience or workflow includes the priorization and delivery of related bugs, security fixes and other [technical priorities](https://about.gitlab.com/handbook/engineering/#prioritizing-technical-decisions) by that team.
 
@@ -225,10 +225,10 @@ A growth deliverable should be a released feature or a launched effort that is e
 
 We will use the label `~Growth-Deliverable` to differentiate this from a typical product deliverable. A "Growth-Deliverable" should be:
 
-* Able to stand on its own (can be potentially released/launched on its own)
-* Expected to directly impact KPI or improve internal/external user experience on its own
-* Typically should be a product change, but can include emails etc. if it meet 1) AND 2)
-* Growth deliverable can also be a piece of UX research, analysis, if these are large scope and require significant amount of work from PM, OR they provide valuable insight for growth experiments
+- Able to stand on its own (can be potentially released/launched on its own)
+- Expected to directly impact KPI or improve internal/external user experience on its own
+- Typically should be a product change, but can include emails etc. if it meet 1) AND 2)
+- Growth deliverable can also be a piece of UX research, analysis, if these are large scope and require significant amount of work from PM, OR they provide valuable insight for growth experiments
 
 ### Working across stages
 
@@ -241,12 +241,12 @@ on larger initiatives that need specialized knowledge or ongoing focus.
 It is the responsibility of other stages to maintain and expand core value in their respective product areas; it's
 Growth's mission to streamline delivery of that value to users. For example:
 
-* [Manage](https://about.gitlab.com/handbook/product/product-categories/#manage-stage) is responsible for user registration and
+- [Manage](https://about.gitlab.com/handbook/product/product-categories/#manage-stage) is responsible for user registration and
 management. This stage maintains a long-term vision on how users are created and maintained in GitLab, with a roadmap that
 includes other categories and priorities.
-* Growth may identify user registration as an opportunity to further the group's [priorities](#growth-ideation-and-prioritization). Growth's
+- Growth may identify user registration as an opportunity to further the group's [priorities](#growth-ideation-and-prioritization). Growth's
 engineering team may ship smaller improvements independently of Manage's direct involvement during implementation (such as [soft email confirmation](https://gitlab.com/gitlab-org/growth/product/issues/7)), but may need to partner with Manage on larger efforts like a completely [new onboarding](https://gitlab.com/gitlab-org/gitlab-ce/issues/57832) experience.
-* The group ultimately owning the change - in this case, Manage - would review Growth's contributions into their area of the product
+- The group ultimately owning the change - in this case, Manage - would review Growth's contributions into their area of the product
 and - like a contribution coming from the wider community - ultimately own the final result.
 
 ### Growth RADCIE and DRIs
