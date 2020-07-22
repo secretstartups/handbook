@@ -427,7 +427,7 @@ out to any of the other [C-level GitLab team members](/company/team/org-chart/) 
 1. The Social Call, happens three times a day on Tuesday and Thursday to accommodate all timezones. These calls have no set agenda and are an open forum for team members to meet and talk freely. These calls are not mandatory, but are a great way to get to know your fellow team members.
    *  Social Call 1: APAC/ EMEA: 11:00PM PT
    *  Social Call 2: EMEA/ AMER: 6:00AM PT (Tuesday's and Thursday's PT)
-   *  Social Call 3: AMER/ APAC: 3:00PM PT
+   *  Social Call 3: AMER/ APAC: 3:00PM PT (Tuesday's and Thursday's PT)
 1. Once a month, we hold an AMA with a GitLab Executive to talk about anything that may currently be top of mind for team members.
 1. Everyone at GitLab is invited to the Social Call.
 1. We use [Zoom](https://gitlab.zoom.us), (please be sure to mute your microphone when not speaking). If using the Zoom web app, you can go to settings and check always mute microphone when joining a meeting.
