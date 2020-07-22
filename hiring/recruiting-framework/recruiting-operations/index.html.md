@@ -85,7 +85,7 @@ TBA
       * Ensure that the Source, Coordinator, and Recruiter listed in the Details tab remains the same.
       * If a candidate is marked as *Hired*, ensure the profile that they were *Hired* on is the *Primary Profile*.
 * **Offer Approvals**
-    * TBA
+    * The Offer Approvals process can be accessed in the [Greenhouse Handbook page](https://about.gitlab.com/handbook/hiring/greenhouse/#updating-requisition-and-offer-approval-flows)
 * **Requisition Approvals**
     * To re-open a closed requisition and increase the opening count:
        1. Navigate to the *Approvals* tab, select `Edit Job & Openings`
@@ -363,7 +363,9 @@ The Recruiting Operations & Insights team utilizes [Recruiting Operations Issues
   Greenhouse Offer and Requisition Approvals
   </summary>
 
-* TBA
+* "Can we add/remove team member from this approval chain?"
+    * The process to add/remove an existing approver from an approval chain can be accessed in the [Greenhouse Handbook page](https://about.gitlab.com/handbook/hiring/greenhouse/#updating-requisition-and-offer-approval-flows)
+        * Please be sure to update the [Greenhouse Approvals Tracker](https://docs.google.com/spreadsheets/d/1az2hy_l15F6uPHda3W-R6aLHhplYaBxsNdjurmwB3Wc/edit?ts=5eb44f4c#gid=236189940) when updating the approvals flow for requisitions.
 
 </details>
 
@@ -387,7 +389,8 @@ The Recruiting Operations & Insights team utilizes [Recruiting Operations Issues
   Re-Opening Requisitions
   </summary>
 
-* TBA
+* "I need to update the offer details/send a new contract to the new hire. Can you please reopen this requisition?"
+    * The process to reopen a requisition for this scenario can be found in the [CES Contract Processes Handbook page](https://about.gitlab.com/handbook/hiring/recruiting-framework/ces-contract-processes/#how-to-resend-a-contract-after-being-marked-as-hired).
 
 </details>
 
