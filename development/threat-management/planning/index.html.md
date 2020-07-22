@@ -134,7 +134,7 @@ The goal of the refinement process is to
 6. Encourage Community Contributions.
     *  If the scope of the issue is well defined and there are no dependencies, consider adding [contribution Labels](/handbook/marketing/community-relations/code-contributor-program/#contribution-labels).
 7. Assign a [weight](#weights). 
-    * If the issue requires both frontend & backend work it should be split into two issues and weighted independently.
+    * If the issue requires both frontend and backend work, it should be split and weighed independently.
 8. Unassign the issue from yourself & reassign it to your EM.
 
 When you are done refining, anyone should be able to read the issue description and should know
@@ -207,9 +207,9 @@ the discovery are known and completed. Discovery issues can have a habit of drag
 creating actionable steps, the refinement process should lock down what needs to be answered in the
 discovery process.
 
-**Q:** If an issue has both frontend and backend work how should I weight it?
+**Q:** If an issue has both frontend and backend work how should I weigh it?
 
 **A:** Issues that require both frontend and backend work should be broken into multiple implementation issues as
-outlined in [this document](diagram.html#plan). 
+outlined in the [planning diagrams](diagram.html#plan). 
 
 ## Footnotes
