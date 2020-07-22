@@ -237,7 +237,7 @@ The format is: misused term => correct term, reason why.
 1. Game Day => Simulation Day, since Game Day may seem more militaristic.
 1. GitLab monitoring dashboard => GitLab metrics dashboard, monitoring dashboard is too generic and is often confused with the GitLab's self-monitoring features.
 1. Second-class citizen => When referencing people, "different class of team member" or "being treated like you don't belong/like an outsider" is preferred when discussing such environments, since citizen has political and socioeconomic connotations. In a [hybrid-remote](/company/culture/all-remote/hybrid-remote/#disadvantages-to-hybrid-remote) environment (e.g. not GitLab, which is [all-remote](/company/culture/all-remote/guide/#why-remote)), those outside of the office may feel inferior or deprioritized compared to coworkers who routinely work onsite.
-1. Top/Bottom of the hour => Start of the meeting, while most time zones in the world are offset from UTC by a whole number of hours, a few are offset by [30 or 45 minutes](https://www.timeanddate.com/time/time-zones-interesting.html).
+1. Top/Bottom of the hour => Start of the meeting, while most timezones in the world are offset from UTC by a whole number of hours, a few are offset by [30 or 45 minutes](https://www.timeanddate.com/time/time-zones-interesting.html).
 1. Poor man's solution => [Boring solution](/handbook/values/#boring-solutions), since it is gender-specific and implies that someone with less money would come up with a substandard solution compared to someone who has more money.
 1. Biweekly/Bimonthly => Twice weekly/monthly or every two weeks/months, since biweekly and bimonthly are ambiguous terms.
 1. Functional group leader => [E-group](https://about.gitlab.com/handbook/leadership/#e-group) leader, as the term "functional group leader" is a past term that has now been updated. See [Org Structure](https://about.gitlab.com/company/team/structure/#organizational-structure).
@@ -425,9 +425,9 @@ out to any of the other [C-level GitLab team members](/company/team/org-chart/) 
 ## Social Call
 
 1. The Social Call, happens three times a day on Tuesday and Thursday to accommodate all timezones. These calls have no set agenda and are an open forum for team members to meet and talk freely. These calls are not mandatory, but are a great way to get to know your fellow team members.
-   *  Social Call 1: APAC/ EMEA: 9:00AM GMT+2
-   *  Social Call 2: EMEA/ AMER: 9:00AM GMT-5
-   *  Social Call 3: AMER/ APAC: 9:00AM GMT+11
+   *  Social Call 1: APAC/ EMEA: 7:00AM UTC
+   *  Social Call 2: EMEA/ AMER: 1:00PM UTC 
+   *  Social Call 3: AMER/ APAC: 10:00PM UTC
 1. Once a month, we hold an AMA with a GitLab Executive to talk about anything that may currently be top of mind for team members.
 1. Everyone at GitLab is invited to the Social Call.
 1. We use [Zoom](https://gitlab.zoom.us), (please be sure to mute your microphone when not speaking). If using the Zoom web app, you can go to settings and check always mute microphone when joining a meeting.
