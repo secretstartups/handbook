@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Learning - GCP"
-description: "Learn about various aspects of cost management for GCP"
+title: "AWS"
+description: "Learn about various aspects of cost management for AWS"
 ---
 
 

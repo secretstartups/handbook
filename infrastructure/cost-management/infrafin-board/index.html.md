@@ -13,6 +13,68 @@ description: "Infrafin Board"
 
 ----
 
+## Criteria
+While we would like each team to be as efficient as possible, it is not scalable or realistic for us to talk to each individual about one server or a few servers they are spinning up. For that reason we provide learning resources for those individuals to try and price out their own resources and then we define the following minimum requirements for something to be considered as part of the infrafin board. If the issue meets any of the following criteria and it is within our scope of control (part of central billing that we have visibility into) it can be added as a potential infrafin issue.
+- Impact of issue (current or near future) is $10K/quarter or more
+- Issue is part of an OKR for the current quarter
+- If cost is less than $10K/quarter, but month over month cost has doubled for a particular team or service for an unknown or unplanned reason
+
+## Prioritization
+
+Weighting of infrafin issues is done in a similar fashion to RICE framework, but with the 4 factors below considered as part of the weighting. The weights are summed and then divided by 4 to normalize all the weights between 0 and 10, with 10 being the most important or impactful
+
+### Weight Factors
+#### Cost Savings
+Measure of savings as a result of resolving the issue on a quarterly basis. This measure should always be calculated pre-discounts for weighting to maintain consistent weighting across GCP projects and across vendors.
+
+| Factor Value    | Weight |
+|-----------------|--------|
+| < $10K/QTR      |    0.5 |
+| $10K-$25K/QTR   |      2 |
+| $25K-$50K/QTR   |      4 |
+| $50K-$100K/QTR  |      6 |
+| $100K-$200K/QTR |      8 |
+| $200K-$500K/QTR |      9 |
+| > $500K/QTR     |     10 |
+
+#### Customer Impact
+Factor meant to capture potential negative consequences of a change if production changes to the application are required. There are some cases where an infrafin issue would have a beneficial impact to customers also, but since this is only meant to capture negative effects, a large but beneficial customer impact should be weighted as low customer impact.
+
+| Factor Value         | Weight |
+|----------------------|--------|
+| < 5% of Users        |     10 |
+| 5-25% of Users       |      6 |
+| 25%-50% of Users     |      3 |
+| 50-80% of Users      |    1.5 |
+| 80% or more of Users |    0.5 |
+
+#### Future Potential Cost Impact
+Measure of future cost that will be incurred if nothing is done to resolve an issue. This measure should always be calculated pre-discounts for weighting to maintain consistent weighting across GCP projects and across vendors. This measure is usually quite speculative, but it is meant to capture both growth in costs or in cases of abuse or un-needed servers the future cost of not addressing these problems.
+
+| Factor Value    | Weight |
+|-----------------|--------|
+| < $10K/QTR      |    0.5 |
+| $10K-$25K/QTR   |      2 |
+| $25K-$50K/QTR   |      4 |
+| $50K-$100K/QTR  |      6 |
+| $100K-$200K/QTR |      8 |
+| $200K-$500K/QTR |      9 |
+| > $500K/QTR     |     10 |
+
+#### Effort Required
+This factor captures the general timeline for how much time and effort is required to resolve the issue.
+
+| Factor Value | Weight |
+|--------------|--------|
+| < 1 week     |     10 |
+| 1 wk - 1mo   |      7 |
+| 1 mo - 3mo   |      5 |
+| 3 mo - 6 mo  |      3 |
+| 6 mo - 1 yr  |      2 |
+| 1 yr - 2 yr  |      1 |
+| > 2 yr       |      0 |
+
+
 ## Infrafin Board
 
 ### Short Term Saving Initiatives Process
