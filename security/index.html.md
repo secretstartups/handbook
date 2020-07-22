@@ -211,12 +211,12 @@ Most major applications (Slack, Zoom, Okta Verify) have been examined and vetted
 5. If you have security **suggestion**, create an issue on the
   [security issue tracker](https://gitlab.com/gitlab-com/security/issues/)
   and ping the security team. New security best practices and processes should be
-  added to the [company call agenda].
+  added to the `#whats-happening-at-gitlab` slack channel
 6. Do not sign in to any GitLab related account using public computers, such as
   library or hotel kiosks.
 
 [How to identify a basic phishing attack]: #how-to-identify-a-basic-phishing-attack
-[company call agenda]: https://docs.google.com/document/d/1JiLWsTOm0yprPVIW9W-hM4iUsRxkBt_1bpm3VXV4Muc/edit
+
 [0-day attack]: https://en.wikipedia.org/wiki/Zero-day_(computing)
 [email to wire cash]: http://blog.centrify.com/ceo-fraud-business-email-compromise/
 
