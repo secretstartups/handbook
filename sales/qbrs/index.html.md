@@ -93,10 +93,14 @@ QBRs include account teams, leadership, and delegates from across the business:
 
 ### Best Practices for Attendees 
 1. Please join on time and ensure your microphone is muted to avoid disruptions. 
-1. Please contribute by taking notes during the QBRs. Everyone can (and should!) contribute, but attendees from these teams are expected to pitch in on note taking: 
+1. Please contribute by taking notes during the QBRs. Everyone can (and should!) contribute, but delegates from these teams are expected to pitch in on note taking: 
    1. Sales Operations
    1. Field Enablement 
    1. Product Marketing
+   1. Field Marketing
+   1. Sales Dev
+   1. Channel
+   1. Alliances
 1. All sessions will be recorded and there will be a verbatim written transcription available via Chorus, so notes taken during QBRs should focus on key takeaways and value-add commentary and conversation. See [Note Taking](/handbook/sales/qbrs/#qbr-note-taking) section below for full note taking guidance.  
 
 ## QBR Communication
@@ -119,7 +123,19 @@ QBRs include account teams, leadership, and delegates from across the business:
 ### QBR Note Taking
 The purpose of notes is to capture meaningful insights that come out of the *conversation* during a QBR - questions and answers, feedback, asks, etc. Do not capture verbatim notes or data that is already documented on a slide. Chorus will capture a written verbatim transcript and the recordings on YouTube will show the slides.
 
-Additional note taking guidance coming soon... 
+**Q: Who should take notes?**
+
+A: If you are attending as a delegate, please note that it is part of your responsibility to contribute to note-taking in the QBR. 
+
+**Q: What specific information should the delegate capture?**
+
+A: In order to serve as an active participant in QBRs, there is no need to take verbatim notes during the sessions. 
+1. Make as detailed notes as possible *pertaining to asks, action items, or specific improvement requests*. Please include reference to the specific slide in the rep's presentation that pertains to the ask when possible.
+1. Capture meaningful insights that come from conversations during the QBR, not information already written in a slide.
+
+**Q: How will the rest of the information be captured?**
+
+A: Zoom will be connected with Chorus to record the slides as well as create a transcript of the call that will be uploaded to each team's/QBR's Google drive following the session. Each session will also be recorded and uploaded to YouTube Unfiltered. This reduces the need to take verbatim notes.
 
 ### Where to Find Past QBRs 
 1. QBR recordings will be uploaded to GitLab's YouTube Unfiltered account. Playlist naming will follow this format: ENT QX-FYXX QBRs, COMM QX-FYXX QBRs, and Channel QX-FYXX QBRs.
@@ -214,8 +230,9 @@ Below is a sample roll-out of the QBR planning and execution process that is fol
 
 #### 1 week before QBRs are scheduled to start
 1. Sales Ops to create master notes spreadsheet and notes documents for each QBR. Notes document to include the following:
-   1. Assigned session note takers
    1. Note Taking Best Practices
+   1. Example notes section
+   1. Link to final QBR schedule 
 1. Field Enablement to finalize all calendar invites with updated information – final schedule, notes document.
 1. Field Enablement to create 3 YouTube Unfiltered playlists for QBR recordings:
    1. ENT QX-FYXX QBRs
@@ -229,5 +246,5 @@ Below is a sample roll-out of the QBR planning and execution process that is fol
 
 #### 1 week following QBRs
 1. RDs/ASMs should upload their QBR recordings into the designated YouTube Unfiltered folder.
-   1. Include meeting “minutes” (i.e. when individual presentations start) and Chorus transcription link. 
+   1. Include the Chorus transcription link. 
 1. Sales Ops team begins triaging and actioning on QBR asks. Execute on top-priority asks in a Cannonball run. 
