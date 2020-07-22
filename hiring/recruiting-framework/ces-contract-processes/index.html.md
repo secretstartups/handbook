@@ -437,7 +437,7 @@ Please note, due to German labor law, the stock options are not included in the 
 
 ## Employment Agreements for GitLab team-members located everywhere else (IT BV contractor agreements)
 
-1. Review the [Hiring Status](/jobs/hiring-status/) of the location you are working with. If the location has not been evaluated yet, we issue a IT BV contractor agreement.
+1. Review the [Hiring Status](https://about.gitlab.com/handbook/people-group/contracts-and-international-expansion/#country-hiring-guidelines) of the location you are working with. If the location has not been evaluated yet, we issue a IT BV contractor agreement.
 1. If the candidate would like to use their own entity for the contractor agreement update the offer details with the Contractor Name and Address. You will use the IT BV Contractor Agreement - C2C in these cases.
 1. Generate IT BV Contractor Agreement - Independent or the IT BV Contractor Agreement - C2C
 1. Select Send with DocuSign
