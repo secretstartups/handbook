@@ -497,33 +497,48 @@ Unsure what content types align with your asset? Use the table below as a guidel
 
 All roles and permissions have access to reporting functionality in PathFactory. Feel free to peruse `Path Analytics` or view insights in the content library and content tracks. If you would like a scheduled report or have a different PathFactory data request, create an issue in the Marketing Operations repo and assign `@sdaily`.
 
-### Target analytics
+### Target track analytics
 
-There are two ways to view Target Analytics:
+1. [Analytics for a Specific Target Track](https://lookbookhq.force.com/nook/s/article/analytics-for-a-specific-target-track)
+1. [Analytics for All Target Tracks](https://lookbookhq.force.com/nook/s/article/analytics-for-all-target-tracks)
 
-1. **For *all* Target Tracks:** view data from all of your Target Tracks - compare the performance of all tracks
-1. **For a *specific* Target Track:** view data from a single Target Track - drill down into the specifics of how a track is performing
+### Recommended track analytics
 
-**View analytics for all target tracks**
+1. [Analytics for a Specific Recommend Track](https://lookbookhq.force.com/nook/s/article/analytics-for-a-specific-recommend-track)
+1. [Analytics for All Recommend Tracks](https://lookbookhq.force.com/nook/s/article/analytics-for-all-recommend-tracks)
 
-1. Click the `Campaign Tools` dropdown menu item in the top navigation panel, then select `Target`.
-1. From the `Target Tracks` page, click `Target Analytics` next to the `Create Target Track` button.
+### Explore page analytics
 
-The `Target Analytics Overview` dashboard gives you an overview of how *all* your Target Tracks are performing.
-
-### Recommended analytics
-
-### Explore analytics
+1. [Explore Page Analytics](https://lookbookhq.force.com/nook/s/article/explore-page-analytics)
 
 ### ABM analytics
 
+1. [Understanding Account Based Analytics](https://lookbookhq.force.com/nook/s/article/understanding-account-based-analytics)
+1. [Understanding Route Analytics](https://lookbookhq.force.com/nook/s/article/understanding-route-analytics)
+
 ### Website promoter analytics
+
+1. [Website Promoter Analytics](https://lookbookhq.force.com/nook/s/article/website-promoter-analytics)
 
 ### Defining visitor activities
 
+1. [Understanding Visitor Activities](https://lookbookhq.force.com/nook/s/article/understanding-visitor-activities)
+
 ### Path analytics
 
+1. [Introducing: Path Analytics](https://lookbookhq.force.com/nook/s/article/path-analytics-intro)
+1. [Path Analytics: Overview Dashboard](https://lookbookhq.force.com/nook/s/article/pa-overview)
+1. [Path Analytics: Visitors](https://lookbookhq.force.com/nook/s/article/pa-visitors)
+1. [Path Analytics: Accounts](https://lookbookhq.force.com/nook/s/article/pa-accounts)
+1. [Path Analytics: Content](https://lookbookhq.force.com/nook/s/article/pa-content)
+1. [Path Analytics FAQ](https://lookbookhq.force.com/nook/s/article/path-analytics-faq)
+1. [Using and Sharing Path Analytics Reports](https://lookbookhq.force.com/nook/s/article/looker-overview)
+1. [Types of Path Analytics Reports](https://lookbookhq.force.com/nook/s/article/looker-reports)
+1. [Path Analytics Reports FAQ](https://lookbookhq.force.com/nook/s/article/looker-reports-faq)
+
 ### Using account-based analytics
+
+1. [Using Account Based Analytics](https://lookbookhq.force.com/nook/s/article/account-based-analytics)
 
 ## Listening Campaigns 
 
