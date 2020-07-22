@@ -126,8 +126,6 @@ We ask these questions and use this scorecard to ensure that we're prioritizing 
      1. `Campaign Tag` ISO date = **first** day of event (if multiday) - Example: AWS reInvent Dec 2-5, 2019, `Campaign Tag` = `20191202_AWS_re:Invent` this will also be applied to the SFDC Campaign name & Marketo Program name
      1. If budget line corresponds to one vendor and the vendor is known, they will add that information as well to make matching future invoices easier. 
      1. We do not want to set this up too soon as it affects many systems - see [date change](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/#changes-to-offline-events-dates)
-1. Finance will subscribe to the budget document. When new `campaign tag` is added, Finance is responsible for adding to NetSuite *class* and Expensify for use weekly. 
-     - Any modifications in NetSuite update to Expensify nightly. 
 
 **NOTE**: Event owners are DRI to create/setup campaign names & tags. MPMs are no longer responsible for creation but they are responsible for using them exactly in Marketo program & SFDC campaign creation.
 
@@ -135,8 +133,6 @@ We ask these questions and use this scorecard to ensure that we're prioritizing 
 
 #### All events under the employee [authorization matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix) approval threshold **AND** No contract or security review required
 1. **Event Owner** creates issue using the appropriate regional template with auto-applied `status::plan` label
-     - [AMER_Field_Marketing_Event](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=AMER_Field_Marketing_Event)
-     - [EMEA_Event_Field_Marketing](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=EMEA_Event_Field_Marketing)
      - [Corporate Event](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=corporate-event-request#)
 1. **Event Owner** copy/paste the `campaign tag` form the budget document into template. 
 2. **Event Owner** to ping the GL Accountant (@GGGONZALEZ) in the main event issue to request campaign tag be created in Netsuite.
@@ -145,8 +141,6 @@ We ask these questions and use this scorecard to ensure that we're prioritizing 
 
 #### All events OVER the employee [authorization matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix) approval threshold **AND** Contract or Security review required
 1. **Event Owner** creates issue using the appropriate regional template with auto-applied `status::plan` label
-     - [AMER_Field_Marketing_Event](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=AMER_Field_Marketing_Event)
-     - [EMEA_Event_Field_Marketing](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=EMEA_Event_Field_Marketing)
      - [Corporate Event](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=corporate-event-request#)
 1. **Event Owner (For Field Marketing, all finance issues are to be processed by the regional FMCs)** creates finance issue following the [Procure to Pay Process](/handbook/finance/procure-to-pay/#procure-to-pay-process) and includes the `campaign tag` from the budget document. 
      - ROI calculation for event in the final cost section
