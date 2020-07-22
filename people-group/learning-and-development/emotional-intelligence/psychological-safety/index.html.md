@@ -11,7 +11,7 @@ title: Psychological Safety
 
 ## Introduction
 
-Welcome to the psychological safety page. More information will be added soon!
+On this page we are going to review psychological safety and it's importance. 
 
 ## What is Psychological Safety
 
