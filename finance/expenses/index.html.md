@@ -19,11 +19,58 @@ Team members should also consider the terms and conditions of their respective c
 
 Team members in a US policy will be automatically reimbursed through Expensify after their report is "final approved" within 7 business days by Payroll team. For all other team members, please see the reimbursement process below based on your location or employment status
 
+## Office Equipment and Supplies
+
+The company will reimburse for the following items if you **need it for work or use it mainly for business**, and local law allows us to pay for it without incurring payroll taxes. Please keep in mind that while the amounts below are guidelines and not strict limits, any purchase (other than a laptop) that will cost GitLab $1000 USD per item (or over) will require approval from your Manager and Accounting.
+
+The below averages are what GitLab **usually** reimburse. If you prefer to spend more on a given item, that's OK considering the average price. You may attach the receipt during expensing which shows the full purchase price. You are also welcome to expense the `GitLab Average Price in USD` portion. For example, if you purchase a high-end Steelcase ergonomic chair, you are welcome to expense the average price per the table below and cover the rest with personal funds. We are encouraging our members to use their best judgment when spending the company's money. 
+
+Team members should not use a Corporate Card to purchase office equipment for their personal workspace.  All office equipment purchases for a team member's personal workspace should be made on a personal credit card and expensed.  For Laptop Purchases/Refreshes, please refer to [IT Ops Laptop](/handbook/business-ops/it-ops-team/#laptops) policy and procedure.
 
 ### Setting up a home office for the first time?
 
 Take inspiration from our [all-remote page covering key considerations for a comfortable, ergonomic workspace](/company/culture/all-remote/workspace/). You can also consult the `#questions` and `#remote` channels in Slack for recommendations from other GitLab team members.
 
+### Software
+1. We have central [license management](/handbook/tools-and-tips/other-apps/#jetbrains) for you to
+   request licenses for JetBrains' products like RubyMine / GoLand.
+1. We do not issue Microsoft Office 365 licenses, as GitLab uses Google's G Suite
+   ([Docs](/handbook/communication/#google-docs), Slides, Sheets, etc.) instead.
+1. For security related software, refer to the security page for [laptop and desktop
+   configuration](/handbook/security/#laptop-or-desktop-system-configuration).
+
+### Hardware
+
+It is uncommon for you to need all of the items listed below. Read [GitLab's guide to a productive home office or remote workspace](/company/culture/all-remote/workspace/), and use your best judgement and buy them as you need them. If you wonder if something is common, feel free to ask IT Ops (and in turn, IT Ops should update the list).
+
+| Item                                                         | Average Price in USD | Importance | Why                                                          |
+| ------------------------------------------------------------ | -------------------- | ---------- | ------------------------------------------------------------ |
+| [Height-adjustable desk](/company/culture/all-remote/workspace/#desks) | $500                 | 10/10      | We use our desks everyday and need them to be ergonomic and adjustable to our size and needs, whether that is sitting or standing. |
+| [Ergonomic chair](/company/culture/all-remote/workspace/#chairs) | $200                 | 10/10      | We use our desk chairs hours at a time, and need them to be healthy, supportive, and comfortable. |
+| [Headphones (wired or wireless, with mic ability)](/company/culture/all-remote/workspace/#headphones) | $200                 | 10/10      | We use our headphones everyday during our [meetings](/company/culture/all-remote/meetings/), to connect with our fellow team members. We need our headphones to be comfortable, functional, and great quality. |
+| [External monitor](/company/culture/all-remote/workspace/#monitors) | $380                 | 10/10      | Finding a monitor that is large, comfortable to use with sharpness is extremely important for our eyes and health. |
+| [Keyboard](/company/culture/all-remote/workspace/#external-keyboard-and-mouse) | $250                 | 10/10      | Find a keyboard that works for you and is comfortable for your workflow and hand size. |
+| [Mouse or Trackpad](/company/culture/all-remote/workspace/#external-keyboard-and-mouse) | $80 or $145          | 10/10      | Find a mouse/trackpad that works for you and is comfortable for your workflow. |
+| Laptop stand                                                 | $90                  | 10/10      | Your eyes and head must look at the same angle as you work and so your laptop must be elevated if you are working with an external monitor. |
+| [Webcam](/company/culture/all-remote/workspace/#webcams)     | $80                  | 9/10       | If you would like a much better image quality than from the camera in your laptop, a webcam can make video conversation better. For those who interface routinely with clients, leads, and external parties, you may also consider a pricier [mirrorless or DSLR camera as a webcam](https://docs.crowdcast.io/en/articles/1935406-how-to-use-your-dslr-as-a-webcam). |
+| [Dedicated microphone](/company/culture/all-remote/workspace/#microphones) | $130                 | 6/10       | For those who routinely interface with clients, leads, media, and external parties — or create regular content for GitLab channels — you may also consider a dedicated microphone to capture your voice with added richness and detail. |
+| Portable 15" external monitor                                | $200                 | 9/10       | You have the freedom to work from any location, and having a portable monitor allows that your workflow does not suffer from being constrained to a single small laptop screen. |
+| USB-C Adapter                                                | $80                  | 9/10       | Most MacBooks only have 1 free USB-C port, so an adapter with additional ports is a necessity. |
+| HDMI/monitor cable                                           | $15                  | 9/10       | Find a quality cable so that the connection between your laptop and monitor is healthy and secure. |
+| [Yubikey](https://www.yubico.com/store/)                     | $50                  | 8/10      | Per our [Security Practices](https://about.gitlab.com/handbook/security/), purchasing Yubikey is not mandatory, but is considered as an extra layer of authentication for better security. |
+| Monitor Privacy Filter                                       | $80                  | 8/10       | Important if you work in public places and need to be certain your work cannot be seen. |
+| WiFi Router with guest functionality     | $80                  | 7/10       | If your existing router does not allow for isolating your work notebook from your personal devices in your home network, consider buying a router that does. |
+| Laptop bag or backpack                                       | $60                  | 7/10       | Carry your laptop and external monitor safely with this travel bag. We recommended you get a bag (or backpack) with straps so the device stays on you when you need your hands free. |
+| [Earpods](https://www.apple.com/shop/product/MNHF2AM/A/earpods-with-35-mm-headphone-plug) | $30                  | 7/10       | If you use your headphones at home but would like lighter headphones to use while on the go, these earpods are the way to go. |
+| Ethernet connector                                           | $20                  | 6/10       | This is if you choose to connect to your internet directly versus by Wi-Fi. |
+
+### Other
+1. Business cards ordered from Moo as per the [instructions](/handbook/people-group/#business-cards) provided by PeopleOps.
+	* Urgent Business cards needed for day of start can be requested by emailing peopleops@gitlab.com. As a last resort, Moo does offer 3 to 4-Day Express service.
+1. Work-related books.
+
+### Transport/Delivery of free procurements
+Also feel free to check your local [Freecycle group](https://www.freecycle.org/) or similar second-hand/free markets when looking for equipment, especially furniture such as desks and chairs. GitLab will reimburse the cost of any transport and delivery services you need to procure the item(s) provided the total cost does not exceed the average spend for the item based on the table above.
 
 ### Not sure what to buy?
 
@@ -102,7 +149,6 @@ Purchase the Collision Damage Waiver or Physical Damage Coverage offered by the 
 
 In the event of an accident resulting in damage to the rental car, the foreign rental agency will charge the credit card used to make the reservation with an estimated amount of repair costs if insurance is not purchased. If this happens, GitLab does not purchase Foreign Corporate Hired Auto Physical Damage Coverage to reimburse for damages.
 
-
 ### Virtual Meal with GitLab Team member(s)
 
 Due to the suspension of the [Visiting Grant](/handbook/incentives/#visiting-grant), we are temporarily replacing it with the Virtual Meal with [GitLab Team Member(s)](/handbook/communication/#top-misused-terms):
@@ -145,7 +191,6 @@ Team members in France, Italy, and Spain must submit their expenses through:
 *  Safeguard in-house expense reimbursement
 *  GitLab payroll send the expense approval to Safeguard after the team member's manager approved the report
 *  Team members send the original receipts to Safeguard
-
 
 ##### Global Upside
 
