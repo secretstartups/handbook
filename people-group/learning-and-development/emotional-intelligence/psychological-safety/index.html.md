@@ -11,7 +11,7 @@ title: Psychological Safety
 
 ## Introduction
 
-On this page we are going to review psychological safety and it's importance. 
+On this page we are going to review psychological safety and it's importance for successful teams. 
 
 ## What is Psychological Safety
 
