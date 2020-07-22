@@ -65,6 +65,14 @@ The "source of truth" for the contract templates are in the Google Drive, in the
 
 To change or update a contract that has already been created and uploaded into Greenhouse, return to the corresponding Google Drive doc in the "Greenhouse Templates" folder, open the templates that need to be updated (there may be multiple that need to be changed, since there are different varieties of each contract to accommodate bonus structures, full-time/part-time, etc.), then update each accordingly. If you need to add new tokens to accommodate the change, be sure to follow step 5.3 in the above instructions. Once you have finished making any updates, click "File" in Google Docs, then "Download as" and "Microsoft Word (.docx)". Then go back to the "[Offer Templates](https://app2.greenhouse.io/account/offer_letter_templates)" section in Greenhouse. Find the contract that you are replacing, copy the name of it so you can maintain consistency, then click the three dots `...` to the right of the template name, then click delete and confirm. Then click "Upload New", paste the name of the template, and upload the new version. Click "Test" to validate that everything translated correctly (per step 9 above), and you are ready to use the new template.
 
+### How to Send a Family Member Relationship Acknowledgment 
+
+Consistent with GitLab’s policy governing Hiring Significant Others or Family Members, GitLab is committed to a policy of employment and advancement based on **qualifications and merit** and does not discriminate in favor of or in opposition to the employment of significant others or family members. Any new hire that has a family member relationship that is currently employed at GitLab must sign [this acknowledgment](https://docs.google.com/document/d/1IseZy4zJZMgP0VCAsGqCP3I6sfnavGdD81THnqljaPI/edit?usp=sharing) along with the GitLab team member. This process is done in conjuction with sending out the contract.
+
+1. If you have not been notified by the recruiter that there is a family relationship in play, there is now a field in the 'Offer Details' that will show whether a relationship exists. It, however, will not show who that family member is. The CES will reach out to the recruiter to find out who the current GitLab team member is. 
+1. Once the family member is identified, you will send the [Family Member Relationship Acknowledgment](https://docs.google.com/document/d/1IseZy4zJZMgP0VCAsGqCP3I6sfnavGdD81THnqljaPI/edit?usp=sharing) via DocuSign to the new hire as well as the GitLab team member for signing. 
+1. After all parties have signed, upload a copy into both the new hire and the current GitLab team members BambooHR profile.
+
 ### How to Update a Start Date After the Contract is Signed
 
 To change a start date after a **GitLab entity** contract has been signed and the new team member has been "hired" in GreenHouse the Candidate Experience Specialist will complete the following steps:
