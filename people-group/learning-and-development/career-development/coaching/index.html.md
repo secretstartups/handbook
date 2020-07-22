@@ -242,7 +242,7 @@ Studies have shown that building trust has an impact on the brain. The neuroscie
 - Decreases threat and fear responses
 - Decreases cortisol and blood pressure levels
 
-**Eight management behaviors that foster trust: **
+**Eight management behaviors that foster trust:**
 1. Recognize excellence
 2. Induce "challenge stress" 
 3. Give people discretion in how they work
