@@ -45,29 +45,37 @@ More information can be found on the [compensation page](/handbook/sales/commiss
 - For partners to transact, they must join the GitLab Partner Program via the partner portal.
 - Non Contracted partners may transact on a one-off basis, only with approval of channel leadership.
 
-**PIO - Partner Initiated Opportunity**
-- Any opportunity that was brought to GitLab via a Deal Registration.
+**Partner Initiated Opportunity - PIO **
+- A PIO is any new sales opportunity that was brought to GitLab via a Deal Registration.
 - The opportunity must be new to our sales team, and can be for a new or existing customer.
-- This is an upfront discount and is dependent on the partners track within the GitLab Partner Program.
+- This can be for either a resale or referral opportunity.  For resale, the partner receives an upfront discount that is dependent on the partners track within the GitLab Partner Program.
+- True ups and add-on licenses at renewal can also qualify as a PIO.
+- The partner is also expected to assist the GitLab Sales team in closing the sale. 
+- Referral rebate paymentss are paid out at the end of each GitLab fiscal quarter
+- The determination of PIO is at the sales rep & CAM determination and tracked via SFDC opportunities.
 
-**Channel Assist Opportunity**
+**Partner Assist Opportunity**
 - Any opportunity where the partner assists our sales team to close the deal.
 - This may be a customer demo, an executive introduction meeting, delivery of services, etc.
-- This would be a Deal Registration, but for a GitLab sourced opportunity, so it does not qualify for PIO.
-- The determination of Channel Assist is at the sales rep determination and tracked via SFDC opportunities.
+- Partners need to submit a Deal Registration for Partner Assist.  Since it is for a GitLab sourced opportunity, it does not qualify for PIO.
+- The determination of Partner Assist is at the sales rep & CAM determination and tracked via SFDC opportunities.
 
-**Channel Fulfill Opportunity**
+**Partner Fulfill Opportunity**
 - Any opportunity that was fulfilled by a partner but closed independently via the GitLab sales team.
 - The partner has only processed the order and didn’t provide any meaningful support to close the deal.
 
 **Services Attach**
 - Any partner delivered services that are provided to the end user in support of a GitLab deployment.
-- This will result in a 2.5% upfront discount from the product.
-- This is stackable for up to three (3) independent services provided by the partner to a single end user.
-- This will be administered as an upfront discount from the GitLab license price on the initial sale.
-- The partner may sell their own services, after the initial sale, for a rebate of 2.5% of the Net license price for a period of up to nine (9) months.
+- This will result in a 2.5% upfront discount from the product for resales opportunities and a rebate if partner is not involved in resale.
+- The resale discount will be administered as an upfront discount from the GitLab license price on the initial sale.
+- This is stackable for up to three (3) independent services engagements provided by the partner to a single end user.
+- The partner may sell their own services, for a rebate of 2.5% of the Net license price for a period of up to twelve (12) months.
 - The maximum is 7.5% discount or rebate with any combination of upfront or post sales of partner branded services.
-- Services may be delivered by a non-Authorized service partner, which will be paid as a referral fee.
+- Rebate paymentss are paid out at the end of each GitLab fiscal quarter
+- Partner Services engagements must meet the following partner services engagement deal size minimums to qualify:
+        *    1st deal: => $7,500 in services
+        *    2nd deal: =>$10,000 in services
+        *    3rd deal: => $10,000 in services
 - Rebates and referral fees may require CRO approval.
 
 **Services Resale**
