@@ -38,3 +38,6 @@ Watch the video below to learn more about psychological safety.
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRzAtUx8ptPA5FbZ1Pn_GKRQB_9I_K98Sxr7GBfssU3FxpkVUXCA9kyg7j5xWV6X9NEOR0zC7SdGuJb/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
+
+## Additional Resources 
+- Read: [The Role of Psychological Safety in Diversity and Inclusion](https://www.psychologytoday.com/us/blog/the-fearless-organization/202006/the-role-psychological-safety-in-diversity-and-inclusion) - Psychology Today 
