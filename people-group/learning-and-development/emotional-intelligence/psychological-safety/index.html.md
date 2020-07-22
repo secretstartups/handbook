@@ -41,3 +41,4 @@ Watch the video below to learn more about psychological safety.
 
 ## Additional Resources 
 - Read: [The Role of Psychological Safety in Diversity and Inclusion](https://www.psychologytoday.com/us/blog/the-fearless-organization/202006/the-role-psychological-safety-in-diversity-and-inclusion) - Psychology Today 
+- Listen: [Creating Psychological Safety in the Workplace](https://hbr.org/podcast/2019/01/creating-psychological-safety-in-the-workplace) - HBR 
