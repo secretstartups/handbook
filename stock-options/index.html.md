@@ -65,7 +65,7 @@ Standard Option Grants are broken out by level for each division. If you have an
 | Senior Director             | Senior Director                    | Senior Director                | Senior Director                                  | Senior Director        | 25,000 |
 | Distinguished / Director    | Director                           | Director                       | Regional Director                                | Director               | 20,000 |
 | N/A                         | N/A                                | Staff PMM                      | N/A                                              | Principal/Group Product Manager | 15,000 |
-| Senior Manager (of people)  | Senior Manager (of people)         | Senior PMM / Senior Manager (of people) | Area Sales Manager / Managers in Customer Success (SA, TAM, IE) | Senior Product Manager | 10,000 |
+| Senior Manager (of people)  | Senior Manager (of people)         | Senior PMM / Senior Manager (of people) | Area Sales Manager / Managers in Customer Success (SA, TAM, IE) / Senior Manager (of people) | Senior Product Manager | 10,000 |
 | Staff / Manager (of people) | Staff (Lead) / Manager (of people) | Manager, (of people) / PMM              | Strategic Account Leader / Customer Success (SA, TAM, IE)   | Product Manager        | 5,000 |
 | Senior                      | Senior / Partner                   | Senior Marketing Manager                | Account Executive                                | Senior Product Ops     | 4,000 |
 | Intermediate                | Intermediate / Billing Specialist  | Marketing Manager / SDR Lead & Acceleration | SMB Customer Advocate                            | Product Operations     | 3,000 |
