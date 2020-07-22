@@ -252,7 +252,7 @@ GitLab job grades aid in mapping a role for internal equity with respect to cash
 | 11    | Senior Director |	                                |
 | 10    |	Director	      |                                 |
 | 9.5   |                 |                                 |
-| 9	    | Manager (Sales)         |         	                      |
+| 9	    | Manager (Sales) <br> Senior Manager (Sales)        |         	                      |
 | 8	    | Manager (Demand Generation)                |	Enterprise & Customer Success   |
 | 7			|                 | Mid Market                      |
 | 6			|                 | SMB/SDR Lead & Acceleration                             |
