@@ -96,6 +96,7 @@ This will be the responsibility of the People Experience Associate that is assig
     - Ensure that all the different departments complete their tasks within the 5 day due date. 
     - Immediate action is required from the People Experience Team and the IT Ops Team once the issue has been created. 
     - Ping the relevant team members to call for a task to be completed in the offboarding issue.
+    - Confirm that a departure announcement has been made in #team-member-updates on Slack.
 
 - Career Mobility 
 
