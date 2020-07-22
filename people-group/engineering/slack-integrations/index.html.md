@@ -73,7 +73,7 @@ is put into a slack message to the private Slack channel `onboarding-survey`. Th
 People Experience team can discuss and take action.
 
 ## Nominator
-We're using a custom Slack app, the [Bonusbot](https://gitlab.com/gitlab-com/people-group/peopleops-eng/nominatorbot/) 
+We're using a custom Slack app, the [Nominatorbot](https://gitlab.com/gitlab-com/people-group/peopleops-eng/nominatorbot/) 
 that team members can use to nominate others for discretionary bonuses. This is currently
 in a test phase with the People Group. 
 
