@@ -18,15 +18,14 @@ month, this schedule for the **current+1** release begins on the first week of t
 
 There's a [diagram](diagram.html) that (hopefully) helps understand the process.
 
-### Week 0 / ONGOING: Planning Breakdown
-
-*If release X.0 ships on April 22, then planning for release X.1 starts by the week of Feb 24-28*
+### ONGOING: Planning Breakdown
 
 Top priority issues from upcoming release milestones will go through **Planning Breakdown** with
-Product Managers (PMs), Engineering Managers (EMs) & Engineers from the respective groups at least
-ONE week prior to Week 1.  Weekly group-level syncronous meetings will facilitate this discussion.
+Product Managers (PMs), Engineering Managers (EMs) & Engineers from the respective groups.  
+Weekly group-level syncronous meetings will facilitate this discussion.
 The list of issues to be discussed will be provided by the PM at least 1 day prior to the meeting.
 The expectation is that all attendees have reviewed the issues prior to the start of the meeting.
+To signify that an issue has been reviewed in advance by an attendee they should add the :carrot: emoji to the issue.
 
 Questions to be answered:
 1. Are requirements clear enough to understand intent of request?
@@ -43,27 +42,23 @@ delivered in an iteration, are independent "slices" of value that can be used by
 mocked UIs or backend-only work that is inaccessible), and when all delivered will completely
 fulfill the original issue's requirements.
 
-* EM output: Once all of the above requirements have been satisfied the EM will add the
-  `needs-refinement` label and assign the issue to an engineer for refinement.
+* EM output: Once all of the above requirements have been satisfied the EM will move the issue into the
+  `workflow::refinement` state and assign the issue to an engineer for refinement.
 
 ### Week 1: Refinement
 
 *If release X.0 ships on April 22, then Week 1 for planning release X.1 begins on or before the week of March 2-6*
 
-Engineers [refine](#refinement-steps-for-engineers) issues assigned in the **current+1** release. They are encouraged
-to ask questions and authorized to push back on PM if issues lack the information and/or designs
+Engineers [refine](#refinement-steps-for-engineers) issues assigned to them in the **current+1** release. 
+They are encouraged to ask questions and authorized to push back on PM if issues lack the information and/or designs
 required for successful refinement and execution.
 
-* EM Output: move issues into the `workflow::scheduling` state once they have ensured a [combined
-  weight](#weight-labels) has been assigned.
+* EM Output: move issues into the `workflow::ready for dev` state and unassign themselves once they have completed their refinement.
 
 #### *Why are we assigning issues for refinement?*
 
 Issues are assigned to engineers to ensure we have focus on the highest-priority items, as
-determined by Product Management.  This is **not** an assignment to work on the issue, though there
-will be an effort made to make sure the engineer(s) who groom an issue will be the one(s) working
-upon it.
-
+determined by Product Management.  This is **not** an assignment to work on the issuet.
 
 ### Week 2: Release Scope DRAFT Complete
 
@@ -71,11 +66,6 @@ upon it.
 
 EMs and PMs complete a first pass of **current+1** release.  Rough scope of the release is defined
 based on the PMs **priorities** and EMs **capacity** estimations. 
-* EM Output: Issues selected for execution in the **current+1** release are moved into
-  `workflow::ready for dev` state.
-* PM Output: All issues for **current+1** release in the `workflow::ready for dev` state have been
-  confirmed to be in the correct priority order.
-
 
 ### Week 3: Release Scope FINAL & Kickoff!
 
@@ -85,8 +75,8 @@ Scope of the next release is finalized by EMs and PMs.
 
 * EM output: `Deliverable` labels applied to issues we are committing to deliver.
 * EM output: move issues that we are unlikely to deliver[^1] to the next iteration.
-* PM output: accept scope and priority.
-* EM output: assignment of issues to individuals to work in the next release.
+* PM Output: `Deliverable` issues for **current+1** release in the `workflow::ready for dev` state have been
+  confirmed to be in the correct priority order.
 
 [^1]: we do not use `Stretch` labels; anything that isn't labelled as a `Deliverable` is
       a stretch goal by definition and should be kept in scope as such.
@@ -123,7 +113,7 @@ The goal of the refinement process is to
     *  Are there dependencies? Call those out. 
 4. If the issue is not complete:
     *  Tag the relevant people that can help complete the issue and outline what is needed. Tag the
-       appropriate EM and PM, so they know that the item can not be fully groomed.
+       appropriate EM and PM, so they know that the item can not be fully refined.
     * If you are unable to resolve blockers to your refinement within a reasonable amount of time
       (2-3 days dependign on size of initative) see [Failing Refinement](#failing-refinement).
 5. Ensure the issue is fully understood.
@@ -191,16 +181,16 @@ A list of the steps and the parts of the code that will need to get updated to i
 feature. The implementation plan should also call out any responsibilities for other team members
 or teams. [Example](https://gitlab.com/gitlab-org/gitlab/issues/5656#execution).
 
-The goal of the implementation plan is to spur critical analysis of the issue and have the groomer
+The goal of the implementation plan is to spur critical analysis of the issue and have the engineer refining the issue
 think through what parts of the application will get touched. The implementation plan will also
 permit other engineers to review the issue and call out any areas of the application that might
 have dependencies or been overlooked.
 
 ## FAQs
 
-**Q:** Should discovery issues be groomed?
+**Q:** Should discovery issues be refined?
 
-**A:** Yes. Discovery issues should be groomed but some of the steps above may not be relevant. Use
+**A:** Yes. Discovery issues should be refined but some of the steps above may not be relevant. Use
 good judgement to apply the process above. The purpose of refining a discovery issue is to make
 sure the scope of the discovery is clear, what the output will be and that the prerequisites for
 the discovery are known and completed. Discovery issues can have a habit of dragging out or not
