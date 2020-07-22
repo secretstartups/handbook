@@ -42,7 +42,7 @@ When you have psychological safety in the workplace, the following things increa
 
 ## Psychological Safety vs Danger
 
-When you have psychological safety people become more motivaated because they feel more able to take risks. 
+When you have psychological safety people become more motivated because they feel more able to take risks. 
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRzAtUx8ptPA5FbZ1Pn_GKRQB_9I_K98Sxr7GBfssU3FxpkVUXCA9kyg7j5xWV6X9NEOR0zC7SdGuJb/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
