@@ -52,11 +52,9 @@ This label documents the planned timeline & urgency which is used to measure aga
 
 Severity labels help us clearly communicate the impact of a `~bug` on users. There can be multiple facets of a `~bug`. The below is a guideline. The presence of bug category labels `~availability `, `~performance`, `~security`, and `~UX` denotes to use the severity definition in that category.
 
-For GitLab.com Availability, please refer to the [Availability Prioritization](/handbook/engineering/performance/#availability) section in the handbook.
-
 | Type of `~bug`         | `~S1` - Blocker                                       | `~S2` - Critical                                         | `~S3` - Major                                | `~S4` - Low                                    |
 |------------------------|-------------------------------------------------------|----------------------------------------------------------|----------------------------------------------|------------------------------------------------|
-| Functional <br>        | Unusable feature with no workaround.                  | Broken feature with an unacceptably complex workaround.  | Broken feature with a workaround.            | Functionality is inconvenient.                 |
+| General bugs           | Broken feature with no workaround.                    | Broken feature with an unacceptably complex workaround.  | Broken feature with a workaround.            | Functionality is inconvenient.                 |
 | `~performance` Response time <br> (API/Web)[^1] | Above 9000ms to timing out   | Between 2000ms and 9000ms                                | Between 1000ms and 2000ms                    | Between 500ms and 1000ms                       |
 | `~performance` Degradation <br> (to be reviewed for deprecation) |             | Degradation is guaranteed to occur in the near future    | Degradation is likely to occur in the near future | Degradation may occur but it's not likely |
 | Affected Users <br> (to be reviewed for deprecation) | Impacts 50% or more of users | Impacts between 25%-50% of users                    | Impacts up to 25% of users                   | Impacts less than 5% of users                  |
