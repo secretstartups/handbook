@@ -187,5 +187,10 @@ To add additional contacts to an account, you can add them in Salesforce or Gain
 There is a Gainsight Chrome extension available for TAMs to use to help sync their emails. If a user's email address is in Gainsight under the account, it will auto-link any emails and update the account's timeline. Please note we recommend [BCCing Salesforce](/handbook/customer-success/tam/gainsight/timeline/#bccing-emails) rather than syncing every email to Gainsight. See Gainsight's support article on [Email Assist](https://support.gainsight.com/Gainsight_NXT/Email_Assist) for more details.
 
 ## Common errors & troubleshooting
+### Query API invalid response
 
-If you receive an an error that says "Query API invalid response", try clearing your browser cache and cookies. We recommend also checking in a private browser (Incognito Mode, etc.) to verify it's a browser configuration issue.
+If you receive a message error  "Query API invalid response", try clearing your browser cache and cookies. We recommend also checking in a private browser (Incognito Mode, etc.) to verify it's a browser configuration issue.
+
+### Success plan objectives updated failed
+
+If your receive a message error "SUCCESS_PLAN_OBJECTIVES_UPDATED_FAILED" when changing the status of a Success Plan from Draft to Active could be because there is some CTAs which its due date is less than one of the task's due date, as part of the workaround, try re-applying the due date on Tasks which updated properly the CTA's due date and then try to change Success Plan to Active again.
