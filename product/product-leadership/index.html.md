@@ -100,7 +100,7 @@ An effective product leader should:
   coaching should be provided consistently, clearly, and in an actionable way, with
   the intent of avoiding "surprise problems". In the same vein, following up on
   requests for context, advice, and so on from the PMs is a priority. The
-  [socratic method](/handbook/leadership/#management-group) is
+  [socratic method](/company/team/structure/#management-group) is
   recommended as a great approach that works particularly well with PMs.
 
 - Prioritize hiring, being sure to include PMs (and EMs/team members) who will work

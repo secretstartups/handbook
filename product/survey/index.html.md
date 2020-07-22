@@ -4,10 +4,12 @@ title: Product Survey Outcomes
 ---
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
 
 ## September
 
@@ -100,9 +102,9 @@ being worked on (group merge requests).
 
 We are! You can see our full vision and plans here:
 
-[Portfolio management](https://gitlab.com/groups/gitlab-org/-/roadmap?scope=all&utf8=✓&state=opened&label_name[]=Plan&label_name[]=portfolio%20management&layout=QUARTERS)
+[Portfolio management](https://gitlab.com/groups/gitlab-org/-/roadmap?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=Plan&label_name%5B%5D=portfolio%20management&layout=QUARTERS)
 
-[Project management (issues, boards, labels, milestones)](https://gitlab.com/groups/gitlab-org/-/roadmap?scope=all&utf8=✓&state=opened&label_name[]=Plan&label_name[]=project%20management&layout=QUARTERS)
+[Project management (issues, boards, labels, milestones)](https://gitlab.com/groups/gitlab-org/-/roadmap?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=Plan&label_name%5B%5D=project%20management&layout=QUARTERS)
 
 [Jira integration](/direction/#jira-integration)
 
@@ -142,7 +144,7 @@ Fabio: we are introducing [group-level security dashboard](https://gitlab.com/gi
 
 ##### Integrate Gitter
 
-We're working on this, see [our Gitter roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Gitter).
+We're working on this, see [our Gitter roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=Gitter).
 
 ##### Better support for non-developer workflows (designers, writers)
 
@@ -154,9 +156,8 @@ Fabio: we want to support security teams as first-class users (e.g., default vie
 
 Jeremy: we’re still immensely reluctant to add fully custom roles to GitLab. It adds a lot of complexity to the product, confuses our documentation, and adds an extra layer of configuration that we still don’t feel is worth the maintenance required. The underlying problem (our permissions framework isn’t flexible enough, esp. For rules-heavy enterprises) still demands a solution:
 
-* We’ll continue building out feature-level configuration. This is less risk and we’re able to ship these changes faster.
-
-* We’re considering a feature to make feature-level configuration more flexible, called Policies. This would be an EE feature that lets instances restrict what the various roles can do.
+- We’ll continue building out feature-level configuration. This is less risk and we’re able to ship these changes faster.
+- We’re considering a feature to make feature-level configuration more flexible, called Policies. This would be an EE feature that lets instances restrict what the various roles can do.
 
 ##### Better integration between Salesforce / GitLab / all internal apps
 
@@ -167,9 +168,8 @@ in Q4.
 
 We have had conversations with Microsoft about GVFS and are following its development closely. There are a number of [considerations](https://gitlab.com/groups/gitlab-org/-/epics/93#considerations) that prevent using GVFS in most organizations today even if GitLab supported the GVFS protocol. Namely:
 
-* the need to run a custom fork of the Git binary on every client, and
-
-* the need to run a file system driver which only exists for Windows.
+- the need to run a custom fork of the Git binary on every client, and
+- the need to run a file system driver which only exists for Windows.
 
 Most importantly we have higher priorities which are needed by many customers, namely Gitaly HA which is critical to the Cloud Native project, GitLab.com and the horizontal scalability of GitLab. Related to this is the deduplication of objects across fork networks.
 
@@ -222,7 +222,6 @@ Andreas: We agree, and this is planned for 2019. See the epic on [Auditing and d
 ##### Better support for Windows shops
 
 xx
-
 
 #### What are we doing product-wise that we shouldn't be doing? Why?
 

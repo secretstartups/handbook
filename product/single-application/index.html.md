@@ -18,12 +18,13 @@ Other vendors offer a kit plane you have to assemble yourself, GitLab is a type 
 ### Single application vs multiple applications
 
 For example, the experience of one enterprise customer that converted from multiple DevOps tools to GitLab was:
-* Nine-times fewer hours of elapsed time from when a developer chooses to work on a change to when it is in production
-* Ten-times fewer separate tools for purchasing to buy, for IT to install, and for users to have to authenticate to
-* Four-times fewer hours of hands-on keyboard time and four-times fewer tasks for people to do, allowing them to be more productive
-* Five-times fewer different teams requiring to be involved and four-times fewer handoffs between teams, allowing them to be more productive and making the time to value more predictable
 
-[![DevOps GitLab compared with multiple DevOps tools](./devops_single_multiple_tool_comparison.png "DevOps GitLab compared with multiple DevOps tools")](./dataflow.html)
+- Nine-times fewer hours of elapsed time from when a developer chooses to work on a change to when it is in production
+- Ten-times fewer separate tools for purchasing to buy, for IT to install, and for users to have to authenticate to
+- Four-times fewer hours of hands-on keyboard time and four-times fewer tasks for people to do, allowing them to be more productive
+- Five-times fewer different teams requiring to be involved and four-times fewer handoffs between teams, allowing them to be more productive and making the time to value more predictable
+
+[![DevOps GitLab compared with multiple DevOps tools](./devops_single_multiple_tool_comparison.png)](./dataflow.html)
 
 ### How does having one application vs many applications impact the workflow?
 
@@ -175,28 +176,50 @@ Enterprises that use a complex toolchain often need [20 people to manage all the
 
 ### Flowchart
 
-Below is a flowchart illustration of the various integrations necessary between tools specified above. 
+Below is a flowchart illustration of the various integrations necessary between tools specified above.
 
-```mermaid
-
+``` mermaid
 graph LR
-  A(Plan) --> C(Create)
-  A --> E(Release)
-  A --> F(Monitor)
-  C --> G(Verify)
-  C --> E
-  C --> H(Secure)
+  A(Plan)
+  B(Create)
+  C(Release)
+  D(Defend)
+  E(Configure)
+  F(Monitor)
+  G(Verify)
+  H(Secure)
+  I(Package)
+
+  A --> B
+  A --> C
+  A --> F
+  B --> G
+  B --> C
+  B --> H
+  B --> F
+  C --> G
   C --> F
+  C --> D
+  E --> C
   G --> H
-  G --> I(Package)
-  G --> E
+  G --> I
+  G --> C
   G --> F
-  H --> E
+  H --> C
   H --> I
-  I --> E
-  E --> G
-  E --> F
-  E --> J(Defend)
+  I --> C
+
+  subgraph Manage
+    A
+    B
+    C
+    D
+    E
+    F
+    G
+    H
+    I
+  end
 ```
 
 ### Security benefits
@@ -212,15 +235,18 @@ When we have [added aggregated logging](https://gitlab.com/gitlab-org/gitlab-ee/
 1. When fuzzing or a human hits a vulnerability generate a [pcap file](https://en.wikipedia.org/wiki/Pcap) with the request and start scanning production traffic for this.
 
 ### Lower operating expense (OpEx)
+
 Building and maintaining integration between multiple individual point tools comes with additional overt and
 hidden costs.
 
 #### Overt cost
+
 The overt cost of paying for [licensing and support of multiple tools](/roi/replace/) is
 higher than a single application. A single application can charge less because its fixed costs are distributed
 across the functionality, whereas separate vendors each need to pay those costs themselves for each of their solutions.
 
 #### Hidden cost
+
 Businesses that manage a toolchain pay hidden operating costs in the form of engineering time needed to
 build and maintain the toolchain instead of using those engineering resources to write software with
 business logic that delivers differentiated value. For a large enterprise this can be the difference
@@ -290,8 +316,8 @@ faster.
 
 Every GitLab projects comes with a container registry. That means there is no
 need for elaborate configuration to be able to use and push container images in
-CI. Rather, all you have to do is use a [pre-defined
-variable](https://docs.gitlab.com/ee/user/project/container_registry.html) in
+CI. Rather, all you have to do is use a [pre-defined](https://docs.gitlab.com/ee/user/project/container_registry.html)
+variable in
 your CI configuration file (`.gitlab-ci.yml`).
 
 ### Use cases, not modules

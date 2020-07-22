@@ -14,33 +14,40 @@ The source data can be found in this [spreadsheet](https://docs.google.com/sprea
 
 # GitLab
 
-```mermaid
+``` mermaid
 graph TB
-    Developer1(1. Developer<br>Develops & Tests)
+    Developer1(1. Developer<br>
+Develops & Tests)
     App1[App]
-    TestEnv1([Test<br>Environment])
+    TestEnv1([Test<br>
+Environment])
     App1 -- 5. Deploy --> TestEnv1
     TestEnv1 -- 8.Verify application --> Developer1
 
     Developer2(2. Developer Deploys)
-    ProdEnv1([Production<br>Environment])
+    ProdEnv1([Production<br>
+Environment])
     App2[App]
     App2 --> ProdEnv1
 
     Developer3(3. Developer Maintains)
-    ProdEnv2([Production<br>Environment])
+    ProdEnv2([Production<br>
+Environment])
 
   GitLab[GitLab]
 
-  Developer1 -- 1. Login &<br> View Issue --> GitLab
-  Developer1 -- 2. Change Code<br>+ Submit MR --> GitLab
+  Developer1 -- 1. Login &<br>
+ View Issue --> GitLab
+  Developer1 -- 2. Change Code<br>
++ Submit MR --> GitLab
   GitLab -- 3. Build App --> App1
   GitLab -- 4. Deploy --> TestEnv1
   GitLab -- 5. Run quality tests --> TestEnv1
   GitLab -- 6. Run security tests --> TestEnv1
 
   Developer2 -- 1. Deploy --> GitLab
-  Developer2 -- 2. Mark issue<br>as fixed --> GitLab
+  Developer2 -- 2. Mark issue<br>
+as fixed --> GitLab
   TestEnv1 -- Promote --> App2
 
   ProdEnv2 -- 1. Application Logs --> GitLab
@@ -51,11 +58,9 @@ graph TB
   %%class GitLab,Developer test
 ```
 
-
 # Multiple DevOps Tools
 
-```mermaid
-
+``` mermaid
 
 graph TB
 

@@ -410,6 +410,21 @@ We should ensure that GitLab makes it easy to help with enterprise workflows:
 - We run quality and security tools automatically and provide dashboards to check status instead of making it a step in the process.
 - We limit the impact of mistakes with incremental rollout and automatic rollback.
 
+When considering a customer need for enforcement or limitations:
+- Deeply understand and document the underlying customer problem. It's our responsibility to understand the need we are solving for before we even consider imposing controls.
+- Solve for individual use cases first. Trying to solve a specific problem with a non-specific solution is risky and not [iterative](https://about.gitlab.com/handbook/product/product-principles/#iteration). Instead, start with a single use case and build a specific, non-enforced solution in GitLab.
+- Consider the smallest group of users first. Don't reach for instance-wide controls, but instead iterate from the smallest segment possible (e.g. a sub-set of projects).
+- Provide simple workarounds and overrides. Consider extreme scenarios like recovering from a SEV-1 incident; there should always be a simple, fast escape hatch.
+
+As an example, customers requested instance-wide enforcement through required CI jobs. Doing this would have been a mistake. Instead:
+* We understood their problem more deeply, and realized we could build capabilities to perform these checks in existing primitives (like [external rules](https://gitlab.com/groups/gitlab-org/-/epics/3869) in MR approvals).
+* We limited the scope of the problem, and avoided any limitations at the instance-level. Instead, we planned to keep the impact as small as possible by requiring customers to scope this feature to only projects with a particular [compliance framework](https://docs.gitlab.com/ee/user/project/settings/#compliance-framework-premium).
+* We intentionally planned for workarounds. A developer should be able to override these limitations inside merge requests, such as with [two-person approvals](https://gitlab.com/gitlab-org/gitlab/-/issues/219386). They should also be able to create subgroups that aren't subject to these controls.
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/QCfOQs8S4OQ" frameborder="0" allowfullscreen="true"></iframe>
+</figure>
+
 ### Prefer small primitives
 
 Small primitives are building blocks in GitLab. They are an abstraction _not_ at
