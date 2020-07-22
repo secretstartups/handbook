@@ -54,7 +54,7 @@ Required:
 - `~customer`, if appropriate `~customer+`: [see list](https://docs.google.com/spreadsheets/d/19jpPvS9W0rDJUbwZ_AfdaItTxF72GGNUGh7zkrug12w/edit?usp=sharing) (internal)
 - `~regression ##.x` if applicable; for high-impact ones, add `~"Next Patch Release"` and ping the relevant lead and subject area experts
 
-For `~customer`+`~bug` labeled issues, the Severity and Priority estimates are required:
+For `~customer`+`~bug` labeled issues, the Severity and Priority estimates are required. If they are missing, please add them to attract PM attention to the issue:
 - [Priority](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority): often Support has a better idea of the impact on the customer(s), please explain the impact in a comment when you assign the priority label. Feel free to have the customer add a comment as well, adding any other context they feel might be important.
 - [Severity](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity): Follow the definitions to the best of your ability when assigning severity. If it's an `~S1`, mention the PM and consider posting in the appropriate Slack channel as well.
 
