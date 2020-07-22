@@ -57,9 +57,8 @@ If your event fits the criteria above and you would like support from marketing,
 * [**Corporate Events**](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=Corporate-Event-Request)
 * **Field Marketing**  
 `Please Note:` *These requests will be reviewed by the appropriate regional Field Marketing Manager. Even if the event is free or low-cost, all requests must be approved by Field Marketing prior to any commitment to ensure the event or tactic aligns to the marketing strategy, meets MQL objectives and Field Marketing can properly execute to maximize GitLab’s future success.*
-  *  For AMER Field Marketing event requests, please select and utilize the [`AMER_Event_Request_Template`](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=AMER_Event_Request_Template)
-  *  For EMEA Field Marketing event requests, please select and utilize the [`EMEA_Event_Request_Template`](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=EMEA_Event_Request_Template)
-  *  For APAC Field Marketing event requests, please select and utilize the [`APAC_Event_Request_Template`](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=APAC_Event_Request_Template)  
+  *  To suggest a Field Marketing event (in-person or virtual) or other tactic request for review, please open an [`Event_Tactic_Request`](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=Event_Tactic_Request) issue and follow the instructions.
+
 
 Be sure you review the issue template and provide all necessary information that is asked of you in the issue. We especially need goals/ reason to attend. 
 
