@@ -39,11 +39,16 @@ In the Task Information section, please input “Other” for any blank section
 To incentivize working with our Channel partners, 'Channel Neutral' means that we will not reduce $ value to individual sellers even if the Channel business reduces total iACV to GitLab (via disocunts or rebates).
 More information can be found on the [compensation page](/handbook/sales/commissions/#channel-neutral-compensation).
 
+
 ##  Program Definitions
 
 **Program Compliance**
 - For partners to transact, they must join the GitLab Partner Program via the partner portal.
 - Non Contracted partners may transact on a one-off basis, only with approval of channel leadership.
+
+**Partner Program Discounts**
+- The GitLab Partner Program provides partners with set discounts based on their engagement in opportunities (see definitions below) and their partner program track.
+- GitLab employees can access the disount table [here.](https://gitlab.my.salesforce.com/0694M000008xAk4)  Partners can find the discount table in the Asset Library on the GitLab Partner Portal.
 
 **Partner Initiated Opportunity - PIO **
 - A PIO is any new sales opportunity that was brought to GitLab via a Deal Registration.
