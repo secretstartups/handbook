@@ -24,7 +24,7 @@ However that entry is anonymized.
 
 We then create a merge request on `www-gitlab-com` project so it can be merged. The merge is not automatically set. 
 Considering this is a new sync we've added to the automation process we want to check the MRs before setting them to merge.
-This check happens by the People Operations Engineer and the Senior Manager, People Operations.
+The merge request is assigned to the People Experience Team and they set it to merge when the pipeline succeeds.
 
 ## Team members to Modern Health
 [Modern Health](/handbook/total-rewards/benefits/modern-health) needs a weekly update about all our active
