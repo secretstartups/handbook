@@ -369,3 +369,4 @@ The Product Operations DRI will make sure alignment happens with the following s
 1. [VP of UX](https://about.gitlab.com//company/team/#clenneville)
 1. [VP of Development](https://about.gitlab.com//company/team/#clefelhocz1)
 1. [Director of Quality Engineering](https://about.gitlab.com//company/team/#meks)
+1. [Product Leadership Team](https://about.gitlab.com/handbook/product/product-leadership/#product-leadership-team-structure)
