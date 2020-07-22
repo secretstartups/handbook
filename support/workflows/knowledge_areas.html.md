@@ -76,11 +76,11 @@ If you need help with scripting for fixes, internal tools, or any other reason.
 |                         | EMEA   | Shem                                                                      |
 |                         | APAC   | Wei-Meng Lee <br> Julian <br> Mike <br> Priyan <br> AlexS <br> Athar      |
 | Zendesk app development | EMEA   | DeAndre                                                                   |
-| Bash                    | APAC   | Mike <br> Priya <br> AlexS <br> Duncan                                                         |
-|                         | EMEA   | David Wainaina <br> Catalin <br> Rehab <br> Alin                                              |
+| Bash                    | APAC   | Mike <br> Priya <br> AlexS <br> Duncan                                    |
+|                         | EMEA   | David Wainaina <br> Catalin <br> Rehab <br> Alin                          |
 |                         | AMER   | Davin <br> Lewis                                                          |
 | Python                  | APAC   | Matthew <br> Athar                                                        |
-|                         | EMEA   | Catalin <br> Alin                                                                   |
+|                         | EMEA   | Catalin <br> Alin <br> Muhamed                                            |
 | AMER                    | Lewis  |
 
 ### Product Stages
@@ -234,6 +234,7 @@ This section is ordered by stage and group according to the [product categories 
 | Topic   | Region | Team Member |
 | ------- | ------ | ----------- |
 | Metrics | APAC   | Arihant     |
+| [Monitoring GitLab](https://docs.gitlab.com/ee/administration/monitoring/) | EMEA | Muhamed | 
 
 ##### Health
 
