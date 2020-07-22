@@ -358,13 +358,13 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
    - Instructions to join the class on your own:
    - Go to [classroom.google.com](classroom.google.com).
    - On the top right of the Classes page, click + then > Join class.
-   - Enter the code **548fj4q** and click Join.
+   - Enter the code **rfo76ti** and click Join.
 *  **Chorus.ai (Assignment - Classroom - 30 Minutes - 10 Points - Post Work)**
    - Please complete the Chorus.ai learning path. Chorus is a powerful conversation analytics platform that will help you expand your knowledge, ramp up faster, and adopt best practices! Time to complete is approximately 30 minutes.
    - Instructions to join the class on your own:
    - Go to [classroom.google.com](classroom.google.com).
    - On the top right of the Classes page, click + then > Join class.
-   - Enter the code **me2cmyj** and click Join.
+   - Enter the code **3pyea4i** and click Join.
 *  **Listen to Chorus Calls (Assignement - 10 points - Post Work)**
    - Using [Chorus](https://www.chorus.ai/) listen to 3 calls that were with another team member in your same role.
 *  **Clari for Salespeople (Assignment - Classroom - 1 Hour - 10 Points - Post Work)**
@@ -372,7 +372,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
    - Instructions to join the class on your own:
    - Go to [classroom.google.com](classroom.google.com).
    - On the top right of the Classes page, click + then > Join class.
-   - Enter the code **e7hfgg0** and click Join.
+   - Enter the code **3dfmc4w** and click Join.
 *  **MEDDPPICC Opportunity Qualification (Assignment - Classroom - 1 Hour - 10 Points - Post Work)**
    - Use this [template](https://docs.google.com/document/d/17Rr03SHKQ2XXlOnvuhz68F8pTxNhr6nOK70TBwB63oc/edit?usp=sharing) to begin qualifying an account suggested by your manager.
 *  **Create a Light Territory Plan (Assignment - 1 Hour - 10 Points)**
