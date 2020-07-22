@@ -170,8 +170,11 @@ In order to see the video,
 1. GitLab Unfiltered: Everyone should get access to YouTube Unfiltered during onboarding. If you do not see an invitation in your Inbox, please check the [Pending Invitations](https://myaccount.google.com/brandaccounts) section of your GSuite account. If your invitation is not there, please request a new invitation in the `#peopleops` Slack channel.
 
 ## Commenting
+Please remember that if you find a user comment to respond to on one of our channel videos, that it will be perceived as official communication from the company. In almost all cases, unless your job specifically requires you to interact in a community manager role or capacity, it is best to switch to a personal account prior to engaging with a video or user on YouTube. 
 
-Remember that when you're signed into YouTube using an official GitLab account that any interaction you may have with other groups or people on the site (e.g. such as in the comments sections of videos) will be perceived as official communication from the company. In almost all cases, unless your job specifically requires you to interact in a community manager role or capacity, it is best to switch to a personal account prior to engaging with a video or user on YouTube.
+Consider switching to your personal account, responding to the comment, and identifying yourself as a GitLab employee offering help. 
+
+Please do not comment on videos from non-GitLab YouTube accounts using any company related YouTube profile. Commenting as GitLab is reserved for responses to our owned videos on our channels only.
 
 ## Organizing
 
