@@ -162,7 +162,7 @@ This section is ordered by stage and group according to the [product categories 
 | Topic               | Region | Team Member                                                                         |
 | ------------------- | ------ | ----------------------------------------------------------------------------------- |
 | CI                  | EMEA   | DeAndre <br> Ronald <br> Silvester <br> David Wainaina <br> Shem                    |
-|                     | AMER   | Cynthia <br> Harish <br> Cody West <br> Cleveland <br> Gabe <br> Caleb W. <br> Phil |
+|                     | AMER   | Cynthia <br> Harish <br> Cody West <br> Cleveland <br> Gabe <br> Caleb W. <br> Phil <br> Brie |
 |                     | APAC   | Alex Tanayno <br> Athar <br> Arihant <br> Priyan <br> Anton <br> Sameer             |
 | Jenkins Integration | AMER   | Aric                                                                                |
 
