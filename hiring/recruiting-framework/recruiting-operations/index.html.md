@@ -363,7 +363,7 @@ The Recruiting Operations & Insights team utilizes [Recruiting Operations Issues
   Greenhouse Offer and Requisition Approvals
   </summary>
 
-* "Can we add/remove team member from this approval chain?"
+* "Can we add/remove approver from this approval chain?"
     * The process to add/remove an existing approver from an approval chain can be accessed in the [Greenhouse Handbook page](https://about.gitlab.com/handbook/hiring/greenhouse/#updating-requisition-and-offer-approval-flows)
         * Please be sure to update the [Greenhouse Approvals Tracker](https://docs.google.com/spreadsheets/d/1az2hy_l15F6uPHda3W-R6aLHhplYaBxsNdjurmwB3Wc/edit?ts=5eb44f4c#gid=236189940) when updating the approvals flow for requisitions.
 
