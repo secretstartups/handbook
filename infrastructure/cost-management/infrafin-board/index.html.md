@@ -1,15 +1,19 @@
 ---
 layout: handbook-page-toc
-title: "Cost Management"
+title: "Infrafin"
+description: "Infrafin Board"
 ---
-### Resources
-Cost Management Epic: https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/103
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
 
-Infrafin Board: https://gitlab.com/groups/gitlab-com/-/boards/1502173?label_name[]=infrafin
+- TOC
+{:toc .toc-list-icons .hidden-md .hidden-lg}
+
+{::options parse_block_html="true" /}
+
+----
 
 ## Infrafin Board
-### Weekly Meeting
-We have a weekly infrafin meeting on Tuesdays at 5 pm UTC to go over the status and any major updates for infrafin issues. Anything not captured directly in the issues is put in the agenda doc.
 
 ### Short Term Saving Initiatives Process
 Some savings initiatives can happen on a much horter time horizon, either because of the urgency or because we can handle the implmenetation from within the infrastructure department. Some examples of this include purchasing CUD from GCP, or AWS savings plan to optimize the cost of our servers across the whole company, or investigating and fixing specific billing anomalies that we see over time.
@@ -24,9 +28,9 @@ Quantify what the impact of the issue at hand is
 
 Partner with whoever the SME for the area is to find out how the issue can be resolved.
 
-### 4. Resolve the issue
+#### 4. Resolve the issue
 
-Due to the nature of being bucketed as a short term initiative, these should be relatively low effort, high impact initiatives and generally these should be completed as soon as possible.
+Due to the nature of being bucketed as a short term initiative, these should be relatively low effort, high impact initiatives and generally these should be completed as soon as possible. The weights on these issue will automatically be set to 8
 
 #### 5. Follow-up
 After the change has been made, confirm the numbers match close to what was expected.
@@ -37,6 +41,7 @@ After the change has been made, confirm the numbers match close to what was expe
 These are initiatives that require cross-team collaboration and major changes in a service or infrastructure to happen. Some examples include implementing online registry garbage collection, optimizing our internal CI usage, and changing machine types or storage types for one of our major services.
 
 #### 1. Initial Data Exploration
+
 The first step is to take a macro view of our infrastructure to understand where we are spending most of our money today, how fast is it growing, and where are we likely to spend more money in the future
 This can be done using whatever tools are available, but today this is mainly done by going into the billing consoles for the various vendors to get a better understanding of where our spend is going.
 
@@ -71,63 +76,3 @@ If risk is high and cost savings estimated to be over $50k/quarter, then exec sp
 
 #### 7. Follow-up
 Analyze the real impact of the change and expectations going forward.
-
-### GCP CUD Purchase Approval Process
-#### 1. Fill out [CUD Analysis Template](https://docs.google.com/spreadsheets/d/1yAIpX875Mjcq-DfuyFi4C-y5FaWGoAvoHmW6qHj9Rlc) with relevant details for new request
-CUD Analysis should assume the other commitments do not end. CUD renewals should be looked at in a separate analysis so there is no confusion of CUD that cover new and existing covered usage.
-
-#### 2. Fill out New GCP CUD issue template in Finance
-Include and ping any engineering manager who will be significantly impacted by the change so they can confirm they do not expect major changes in their usage for the term of the commit. Include the spreadsheet from step 1 in the issue.
-
-The template should include the commitment details, important high level financial details, and the engineering details about which services are most affected by the commitment. 
-
-Before the commitment is considered, the infrastructure analyst should talk with the teams that use the majority of the usage that is being committed to make sure there aren't any major changes expected during the term of the commitment. 
-Those teams should be cc'ed in the issue and if they have any concerns voice them at that time.
-
-Example Issue: https://gitlab.com/gitlab-com/finance/-/issues/2377
-
-#### 3. Once approved, execute purchase
-The engineering manager assigned in the issue should make the actual purchase in the billing console. If needed, the requester should join a call with them so they can both confirm the purchase is correct.
-
-#### 4. Add the commitment to CUD commitments [master spreadsheet](https://docs.google.com/spreadsheets/d/1qwsrRidYsYgoEIbCA6VDhdZW_P6ljeYcLMcja2bhCtc)
-
-#### 5. Follow-Up
-If a team is planning on making a major change to their infrastructure that would affect the commit during the term, they should check with the infrastructure analyst to assess the impact first.
-
-### Cost Dimensions with examples
-#### Vendor
-- GCP
-- AWS
-- Azure
-- Elastic
-- CloudFlare
-
-### Service
-- Gitaly
-- CI
-- Patroni
-
-### Feature
-- CI Windows Runners
-- Gitaly Dedicated Nodes
-
-#### Usage Type
-- Compute
-- Storage
-- Networking
-
-#### Product
-- Compute Engine / EC2
-- Object Storage / S3
-
-#### Sku
-- N1 Predefine Instance Core running in Ameriacas
-- Standard Storage US Multi-region
-
-#### Tier
-- Free
-- Open Source
-- GitLab Internal
-- Bronze
-- Silver
-- Gold
