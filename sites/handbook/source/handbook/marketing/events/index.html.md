@@ -751,18 +751,8 @@ GitLab's Community Relations team reviews and manages our community events (typi
 - For events where a field marketing representative cannot be present, the FM DRI will assign an onsite lead. The DRI will be responsible for coordinating with this person and providing them with any info they will need to help run the event in their absence. This person will be the venue point of contact as well as responsible for set up and tear down.
 - FOR EMEA: We must ensure we are gathering GDPR compliant leads - Lead devices scanning follow up needs to be in event T&C. If GDPR is not in the T&C, we are not allowed to follow up on the leads. Scanning a lead is not automatically GDPR compliant if visitors have not agreed to it.
 
-### Field Marketing Tags
-The Field Marketing team will always associate a charge with an [event campaign tag](/handbook/marketing/events/#all-events---setting-up-the-campaign-tag) when applicable. If a charge is not associated with a specific event, we will then utilize the below regional tags.
-
-**Swag Tags** - These tags are utilized for swag purchases not associated with a specific event (example - a bulk order of pens) as well as overall swag management costs (warehouse storage fees, order entry fees, inventory management, etc.).   
-`swag_AMER_marketingfield`  
-`swag_APAC_marketingfield`  
-`swag_EMEA_marketingfield`  
-
-**General Tags** - These tags are utilized for any general purchase not related to swag or associated with a specific event (example - bannerstands, table throws, popup displays, etc.).  
-`general_AMER_marketingfield`  
-`general_APAC_marketingfield`  
-`general_EMEA_marketingfield`  
+### Field Marketing Campaign Tags
+For Field Marketing campaign tag details, please visit the Field Marketing page [here](/handbook/marketing/revenue-marketing/field-marketing/#field-marketing-campaign-tags).
 
 ### AMER Field Marketing Swag
 The AMER Field Marketing team utilizes our swag vendor, Nadel. Nadel is available to produce, ship and store swag and event material. The FMM is responsible for accessing the [Nadel Portal](https://rhu270.veracore.com/v5fmsnet/MONEY/OeFrame.asp?PmSess1=2095144&Action=LOGIN&pos=GIT476&v=4&OfferID=&sxref=) via the Field Marketing team login available in the 1Password Marketing Vault to order all swag and trade show items for their events.
