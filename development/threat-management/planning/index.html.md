@@ -25,7 +25,7 @@ Product Managers (PMs), Engineering Managers (EMs) & Engineers from the respecti
 Weekly group-level syncronous meetings will facilitate this discussion.
 The list of issues to be discussed will be provided by the PM at least 1 day prior to the meeting.
 The expectation is that all attendees have reviewed the issues prior to the start of the meeting.
-An attendee should add the carrot emoji to signify that an issue has been reviewed in advance.
+Attendees should add the carrot emoji to signify that an issue has been reviewed in advance.
 
 Questions to be answered:
 1. Are requirements clear enough to understand intent of request?
@@ -50,7 +50,7 @@ fulfill the original issue's requirements.
 *If release X.0 ships on April 22, then Week 1 for planning release X.1 begins on or before the week of March 2-6*
 
 Engineers [refine](#refinement-steps-for-engineers) issues assigned to them in the **current+1** release. 
-They are encouraged to ask questions and authorized to push back on PM if issues lack the information and/or designs
+They are encouraged to ask questions and are authorized to push back on PM if issues lack the information and/or designs
 required for successful refinement and execution.
 
 * Engineering output: Move issue into the `workflow::ready for dev` state and unassign themselves if they have completed refinement. Assign the issue to their EM if for any reason refinement could not be completed.
