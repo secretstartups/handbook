@@ -21,12 +21,11 @@ There's a [diagram](diagram.html) that (hopefully) helps understand the process.
 ### ONGOING: Planning Breakdown
 
 Top priority issues from upcoming release milestones will go through **Planning Breakdown** with
-Product Managers (PMs), Engineering Managers (EMs) & Engineers from the respective groups.  
+Product Managers (PMs), Engineering Managers (EMs) & Engineers from the respective groups.
 Weekly group-level syncronous meetings will facilitate this discussion.
 The list of issues to be discussed will be provided by the PM at least 1 day prior to the meeting.
 The expectation is that all attendees have reviewed the issues prior to the start of the meeting.
 An attendee should add the carrot emoji to signify that an issue has been reviewed in advance.
-
 
 Questions to be answered:
 1. Are requirements clear enough to understand intent of request?
@@ -54,7 +53,7 @@ Engineers [refine](#refinement-steps-for-engineers) issues assigned to them in t
 They are encouraged to ask questions and authorized to push back on PM if issues lack the information and/or designs
 required for successful refinement and execution.
 
-* Engineering Output: Move issue into the `workflow::ready for dev` state and unassign themselves if they have completed refinement. Assign the issue to their EM if for any reason refinement could not be completed.
+* Engineering output: Move issue into the `workflow::ready for dev` state and unassign themselves if they have completed refinement. Assign the issue to their EM if for any reason refinement could not be completed.
 
 #### *Why are we assigning issues for refinement?*
 
@@ -75,8 +74,8 @@ based on the PMs **priorities** and EMs **capacity** estimations.
 Scope of the next release is finalized by EMs and PMs.
 
 * EM output: `Deliverable` labels applied to issues we are committing to deliver.
-* EM output: move issues that we are unlikely to deliver[^1] to the next iteration.
-* PM Output: `Deliverable` issues for **current+1** release in the `workflow::ready for dev` state have been
+* EM output: Move issues that we are unlikely to deliver[^1] to the next iteration.
+* PM output: Issues with `Deliverable` labels in the `workflow::ready for dev` state have been
   confirmed to be in the correct priority order.
 
 [^1]: we do not use `Stretch` labels; anything that isn't labelled as a `Deliverable` is
