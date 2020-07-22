@@ -21,22 +21,24 @@ We measure the value we contribute by using a [Product Performance Indicator](ht
 
 ARRR stands for Acquisition, Activation, Retention, Revenue, and Referral which are often referred to collectively as "Pirate Metrics". These five words represent the customer journey and the various means a product manager may apply a Performance Indicator metric to drive a desired behavior in the funnel.
 
-classDiagram
+```mermaid
+graph pirate_funnel
   Acquistion --|> Activation
-    Acquistion: Awareness
-	Acquistion: Measurement (Views of Testing Docs Pages) 
+  Acquistion: Awareness
+	Acquistion: Measurement (# of page views of test coverage parsing docs) 
   Activation --|> Retention
 	Activation : Use
-	Activation: Measurement (pipelines that generate a JUnit or Coverage Report) 				
+	Activation: Measurement (# of page views of Projec Code Coverage Graph by day) 				
   Retention --|> Revenue
 	Retention : Continued Use
-	Retention: Measurement (Insert Metric) 
+	Retention: Measurement (# of projects that have a viewed Code Coverage Graph by day) 
   Revenue --|> Referral
 	Revenue : Payment
-	Revenue: Measurement (Paid GMAU) 
+	Revenue: Measurement (# pf projects that have viewed Group Code Coverage Graph by day) 
   Referral --|> Acquistion
 	Referral : Talk about
-	Referral: Measurement (Insert Metric) 
+	Referral: Measurement (TBD) 
+```
 
 ## Mission
 
