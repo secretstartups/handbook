@@ -46,9 +46,9 @@ title: "Financial Planning & Analysis"
 
 Purpose: GitLab's operating plan is a guideline to understand how much capital it needs and how the capital will be consumed. The operating plan helps GitLab answer questions like "how fast can we hire and when?"
 
-What: The operating plan is a three statement (Income Statement, Balance Sheet and Statement of Cashflow), non-GAAP bottoms-up plan that spans the current fiscal year. The revenue is driven off the GitLab revenue model and the expense part of the plan is at the headcount and vendor level.
+What: The operating plan is a three statement (Income Statement, Balance Sheet and Statement of Cashflow), non-GAAP bottoms-up plan that spans the current fiscal year. The revenue is driven off the GitLab revenue model and the expense part of the plan is at the headcount and vendor level. The Operating Plan will be a 90% confidence Plan.
 
-Governance: The operating plan is approved by the board of directors every year.
+Governance: The Operating Plan is approved by the board of directors every year.
 
 #### Actuals
 
@@ -85,9 +85,8 @@ Governance: A target that relates to IACV is usually agreed upon by the DRI of t
 What: Baseline is a measurement of actual expense or revenue that relates to a certain point in time (i..e month, quarter or year). We use baselines to measure progress of improvement against actual results. The progress can be stated in monthly, quarterly or annualized terms.
 
 ### Mechanics of the Operating Plan:
-
-- The revenue model predicts new business based on the [growth persistence model](/handbook/finance/financial-planning-and-analysis/#forecasting-growth-using-a-growth-persistence-model) and growth from existing business based on net retention assumptions. Understanding how much revenue is anticipated determines how much capital will be needed for growth in the foreseeable future.
-
+- The Operating Plan Bookings Plan is developed by completing a bottoms up assessment of expected renewals, churn, expansion bookings and new bookings. This Plan is validated via analysis of historical cohort behavior, landed account potential (LAM), marketing Plans and sales capacity.
+- The Operating Plan includes expenses for sales and marketing except for anticipated commissions between the 90% confidence Plan and the 50/50 bookings goal. Expenses for R&D, G&A and Cost of Revenue are planned at the 90% confidence Booking Plan level. The operating Plan also assumes that the corporate bonus target will be set at the 50% confidence level.
 - The [rolling 4 quarter forecast](/handbook/finance/financial-planning-and-analysis/#rolling-4-quarter-forecast) builds off of the revenue projected in the revenue model. During the rolling 4 quarter, departments build out plans to help meet their strategic goals. Understanding the departmental plans determines how much of the capital will be consumed for foreseeable future.
 
 - The [budget](/handbook/finance/financial-planning-and-analysis/#budgeting-@-gitLab) looks to GitLab's [long term profitiablity goals](/handbook/finance/financial-planning-and-analysis/#long-term-profitability-targets) and incorporates plans made during the rolling 4 quarter forecast in addition to revenue forecasts from the revenue model. In order to have a budget, GitLab must have a forecast(s) for it's operating plan. Therefore, the revenue and rolling 4 quarter forecasts are critical to set budgets. Budgets help GitLab understand how it's spends its cash and help predict long term targets, but ultimately budgets are a guideline.
@@ -100,6 +99,7 @@ What: Baseline is a measurement of actual expense or revenue that relates to a c
 * Planning begins with an annual planning process that drives the annual board approved budget.
 * Every month as part of the close process the team will generate a monthly forecast
 * Every quarter as part of the close process the team will generate a four quarter rolling forecast
+* If GitLab is exceeding the Operating Plan, on a quarterly basis the executive team can decide to increase expense as long as we maintain EBIT goals approved by the board of directors.
 
 ### Annual Planning Steps (WIP)
 * Align executive team on strategic priorities
