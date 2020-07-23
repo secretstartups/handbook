@@ -11,7 +11,7 @@ title: "Deal Closure"
 
 # DEAL CLOSURE
 
-You have obtained the verbal commit from the economic buyer and it’s now time to close the opportunity and get the deal signature.  You will need to reapply **MEDDPICC** throughout this phase to accomplish the following tasks and close the deal:  
+You have obtained the verbal commit from the economic buyer and it’s now time to close the opportunity and get the deal signature.  You will need to reapply **MEDDPPICC** throughout this phase to accomplish the following tasks and close the deal:  
 
 1. Create a Mutual Close Plan
 1. Create a Deal Package
