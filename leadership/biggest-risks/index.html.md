@@ -36,7 +36,7 @@ To ensure the people we hire make the company better, we:
 1. Conduct bar raiser interviews
 1. Review cohort performance in the company (completion of onboarding tasks, bonuses, performance review, 360 feedback, performance indicators)
 
-## 2. Underperformance
+## 2. Lack of performance management
 {:#underperformance}
 
 In a similar vein, it is important that we do not slow down, which means being very proactive in addressing [underperformance](/handbook/underperformance/).
