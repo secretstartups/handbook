@@ -25,7 +25,7 @@ Product Managers (PMs), Engineering Managers (EMs) & Engineers from the respecti
 Weekly group-level synchronous meetings will facilitate this discussion.
 The list of issues to be discussed will be provided by the PM at least 1 day prior to the meeting.
 The expectation is that all attendees have reviewed the issues prior to the start of the meeting.
-Attendees should add the carrot emoji to signify that an issue has been reviewed in advance.
+Attendees should add the carrot 🥕 emoji to signify that an issue has been reviewed in advance.
 
 Questions to be answered:
 1. Are requirements clear enough to understand intent of request?
