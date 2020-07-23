@@ -182,7 +182,7 @@ The location factor depends on your [geographical area](#geographical-areas). To
 
 To determine your area:
 
-   1. Select the country you live in. This will filter out all areas outside of your country. Based on the remaining choices under "area," if you live within a commutable one hour and forty-five minutes of a city listed, you may use that as your location. If not, you will select "Everywhere else." If the only item listed for the country is "All," the country has the same location factor regardless of the city you live in. If applicable, a state or province might be listed instead of a city.
+   1. Select the country you live in. This will filter out all areas outside of your country. Based on the remaining choices under "area," if you live within a commutable one hour and forty-five minutes of a city listed, you may use that as your location. If you are within a commutable one hour and forty-five minutes of more than one city, the city with the shortest commute would be used as your location. If not, you will select "Everywhere else." If the only item listed for the country is "All," the country has the same location factor regardless of the city you live in. If applicable, a state or province might be listed instead of a city.
    1. If your country is not listed, reach out to total-rewards@domain to gather relevant data.
    1. When you move, [you have to inform People Ops and Total Rewards](/handbook/people-group/contracts-and-international-expansion/#relocation) and your compensation may be adjusted up or down. Refer to Total Rewards Analysts to see what the likely impact will be.
 
