@@ -97,6 +97,10 @@ I'm planning on taking a degree program, do I need approval for each class or fo
 What is covered in the tuition reimbursement program?
 * The program will cover only the tuition and enrollment related fees. Additional fees related to parking, books, supplies, technology, or administrative charges are not covered as part of the program. Tuition will be validated by receipt showing proof of payment. 
 
+When will I receive my tuition reimbursement?
+* Your tuition reimbursement will be paid in the following pay cycle after you have completed the course and sent your official grade report or successful certification of completion to Total Rewards.
+* If the program does not allow for tuition deferment and this would cause financial strain, you can request to receive 50% of the reimbursement up front and the other 50% upon successful completion of the course. 
+
 What happens if I leave GitLab?
 * If you voluntarily terminate employment with GitLab after completion of the course and prior to completing twelve consecutive months of active employment after completion of the course, you will refund the entire amount of the educational expenses provided to you.
 
@@ -114,7 +118,6 @@ To receive tuition reimbursement, GitLab team members should follow the followin
 1. The Total Rewards Analyst will also log the tuition reimbursement in the "Tuition Reimbursement Log" found on the Google Drive.
 1. Once the course is completed, an official grade report or successful certification of completion must be submitted to Total Rewards.
 1. After grades are verified, Total Rewards will ensure the reimbursement is processed through the applicable payroll by the second pay cycle after submission.
-   * If the program does not allow for tuition deferment and this would cause financial strain on the team member, they can email the Total Rewards Analyst at total-rewards@domain to receive 50% of the reimbursement up front and the other 50% upon successful completion of the course.
 
 **Tax Implications for Tuition Reimbursement by Country**
 
