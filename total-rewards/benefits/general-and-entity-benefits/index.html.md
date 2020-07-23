@@ -227,6 +227,9 @@ When does my 16 weeks of Parental Leave start?
 Do I have to take my Parental Leave in one continuous period?
 * No, we encourage you to plan and arrange your Parental Leave in a way that suits you and your family's needs. You may split your Parental Leave dates as you see fit, so long as it is within the 12 months of the birth or adoption date.
 
+When does my Parental Leave coverage begin if I don't meet the initial requirements for paid leave? 
+* GitLab payroll coverage begins once you meet the requirements. Until then, you will not receive pay.  If for example, you are someone who qualifies after 6 months at Gitlab and then goes on leave at the start of your 120th day at GitLab, you would not receive payment from GitLab for the first 60 days. You would receive payment from GitLab for up to 60 additional days taken within a year from the birth event.
+
 Can I change the dates of my Parental Leave?
 * Absolutely, you can edit your Parental Leave dates via PTO Ninja.
 
