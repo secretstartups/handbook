@@ -63,7 +63,16 @@ To send out a mass communication to the general Talent Community
 
 ### **Step 5: Convert Prospects to Nurture**
 
-If the prospect responds with interest, the person who found them will collect the prospects email address, add it to Greenhouse, and will update the prospect stage in Greenhouse from “Contacted” to “Nurture”.
+If the prospect responds with interest, the person who found them will collect the prospects email address and will update the prospect stage in Greenhouse from “Contacted” to “Nurture”.
+
+It is **required** we capture the following information in Greenhouse for all prospects converted to the "Nurture" stage. 
+
+- [ ] Email Address
+- [ ] Current Resume or PDF of LinkedIn Profile
+- [ ] Locality
+     * Instructions: When making an assumption, default to a higher location factor. **Reminder:** this needs to be updated during the screening call if our assumption was incorrect.
+
+Keep in mind, Tags can take care of other key pieces of information we may want to include on a prospect's profile.
 
 If the prospect wants to talk with someone at GitLab to learn more about future opportunities, the person who found them will send them the Calendly link of the assigned Recruiter for the Talent Pool so a brief 15-20 "career conversation" call can be set up.  Not all prospects who get moved to “Nurture” have to complete a call. 
 
@@ -72,3 +81,4 @@ The person who completes the "career conversation" call will add brief notes to 
 ### **Step 6: Nurture Prospects**
 
 Prospects whose prospect stage in Greenhouse is “Nurture” should receive a monthly message from GitLab.  
+
