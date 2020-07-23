@@ -178,11 +178,6 @@ For many reasons, a team member may require more time off for parental leave. Ma
 
 If you have been at GitLab for a six months and completed your probationary period your parental leave is fully paid. If you've been at GitLab for less than a six months it depends on your jurisdiction. If applicable, commissions are paid while on parental leave based on the prior six months of performance with a cap at 100% of plan. For example, if in the six months prior to starting parental leave you attained 85% of plan, you will be compensated at the same rate while on leave. On the day you return from leave and going forward, your commissions will be based on current performance only.
 
-Here is an example of how pay would work for someone who is not on commission and has been at GitLab for exactly 4 months at the time that they go on parenal leave. This person goes on leave the day that the baby comes and chooses to take off 4.5 months.
-
-- Day 61 - Day 120: GitLab compensation through payroll. The combination of any government compensation and GitLab payroll pay to equal 100% of GitLab payroll.
-- Day 120 - Day 135: Employee enters unpaid leave. 0% pay through payroll.
-
 You are entitled to and need to comply with your local regulations. They override our policy.
 
 To [alleviate the stress](/handbook/paid-time-off/#returning-from-work-after-parental-leave) associated with returning to work after parental leave, GitLab supports team members coming back at [50% capacity](/handbook/paid-time-off/#returning-to-work-at-50-capacity). Parents at GitLab who are reentering work following parental leave are encouraged to reach out to team members who self-designate as a [Parental Leave Reentry Buddy](/handbook/total-rewards/benefits/parental-leave-toolkit/).
@@ -203,7 +198,7 @@ Do I have to take my Parental Leave in one continuous period?
 * No, we encourage you to plan and arrange your Parental Leave in a way that suits you and your family's needs. You may split your Parental Leave dates as you see fit, so long as it is within the 12 months of the birth or adoption date.
 
 When does my Parental Leave coverage begin if I don't meet the initial requirements for paid leave? 
-* GitLab payroll coverage begins once you meet the requirements. Until then, you will not receive pay.  If for example, you are someone who qualifies after 6 months at Gitlab and then goes on leave at the start of your 120th day at GitLab, you would not receive payroll for the first 60 days. You would receive payroll for up to 60 additional days taken within a year from the birth event.
+* GitLab payroll coverage begins once you meet the requirements. Until then, you will not receive pay.  If for example, you are someone who qualifies after 6 months at Gitlab and then goes on leave at the start of your 120th day at GitLab, you would not receive payment from GitLab for the first 60 days. You would receive payment from GitLab for up to 60 additional days taken within a year from the birth event.
 
 Can I change the dates of my Parental Leave?
 * Absolutely, you can edit your Parental Leave dates via PTO Ninja.
