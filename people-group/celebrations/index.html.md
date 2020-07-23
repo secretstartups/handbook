@@ -17,7 +17,7 @@ Once per week, GitLab team-members with a hire-date anniversary will get a post 
 
 ### Anniversary Gifts
 
-Directions on how to order your gift will be sent via email on the last day of the month of your anniversary. If you have not received your anniversary gift within 8 weeks (please consider global shipping) of your anniversary, please email peopleops@gitlab, so they can follow up.
+Directions on how to order your gift will be sent via email on the last day of the month of your anniversary. If you have not received your anniversary gift within 8 weeks (please consider global shipping) of your anniversary, please email people-exp@gitlab, so they can follow up.
 
 Work Anniversary Gifts are as follows:
 * Year 1:  Custom mug with a representation of your commits in GitLab
