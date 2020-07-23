@@ -30,6 +30,7 @@ Watch the video below where Susan David explains psychological safety.
 ## How it Works
 
 When you have psychological safety in the workplace, the following things increase: 
+
 - Collaboration
 - Innovation
 - Inclusion
