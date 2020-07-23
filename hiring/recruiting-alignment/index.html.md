@@ -29,7 +29,7 @@ title: "Recruiting Alignment"
 | UX        &   Technical Writing               | Rupert Douglas  |Cyndi Walsh                                        | Kike Adio   |  Ashley Jones      | Zsusanna Kovacs      |Anastasia Pshegodskaya|
 | AMER Support                   | Chantal Rollison    |Cyndi Walsh                                        | Lea Hanapol  |  Ashley Jones    | Alina Moise  |Anastasia Pshegodskaya|
 | EMEA Support  | Catarina Ferreira/Trust Ogor/Rupert Douglas       |Liam McNally/Cyndi Walsh                                      | Corinne Sapolu/Kike Adio  |  Ashley Jones        | Joanna Michniewicz/Zsuzsanna Kovacs       |Anastasia Pshegodskaya|
-| APAC Support  | Eva Petreska/Matt Allen         |Liam McNally/Cyndi Walsh                                     | Taharah Nix/Kike Adio   |  Ashley Jones       | Zsuzsanna Kovacs/Chris Chruz       |Anastasia Pshegodskaya|
+| APAC Support  | Ryan Demmer/Matt Allen         |Liam McNally/Cyndi Walsh                                     | Kalene Godoy/Kike Adio   |  Ashley Jones       | Caesar Hsiao/Chris Chruz       |Anastasia Pshegodskaya|
 | Security                  | Ryan Demmer    |    Liam McNally                                     | Shiloh Barry  |  Ashley Jones      | Caesar Hsiao      |Anastasia Pshegodskaya|
 | Development - Secure/Defend      | Ryan Demmer     |Liam McNally                                      | Shiloh Barry |  Ashley Jones         | Caesar Hsiao       |Anastasia Pshegodskaya|
 | Infrastructure            | Matt Allen     |Cyndi Walsh                                        | Kike Adio |  Ashley Jones      | Chris Cruz |Anastasia Pshegodskaya|
