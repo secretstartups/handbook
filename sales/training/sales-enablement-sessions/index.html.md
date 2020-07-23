@@ -20,21 +20,21 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 **Fall 2020 Lineup**
 
-| DATE   | TOPIC                                                                    | SPEAKER S                                       |
+| DATE   | TOPIC                                                                    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|
-|  Aug 6 | The Value of Professional Services: A CFO's Perspective                  | Paul Machle, Michael Lutz  |
+|  Aug 6 | The Value of Professional Services: A CFO's Perspective                  | Paul Machle, Michael Lutz                       |
 | Aug 13 | Q3 FY21 GitLab Product Release Update for Sales                          | Brian Glanz                                     |
 | Aug 20 | Gainsight Overview for Sales                                             | Jeff Beaumont                                   |
-| Aug 27 | ROI Analysis                                                             | Mahesh Kumar (Sales)                            |
-|  Sep 3 | Demystifying the Metrics Conversation                                    | David Somers, John Jeremiah, TBD Sales          |
-| Sep 10 | Atlassian & the GitLab/Jira Customer Conversation                        | Mahesh Kumar, Aleeta Bell (Sales)               |
+| Aug 27 | ROI Analysis                                                             | Mahesh Kumar, Sales (TBD)                       |
+|  Sep 3 | Demystifying the Metrics Conversation                                    | David Somers, John Jeremiah, Sales (TBD)        |
+| Sep 10 | Atlassian & the GitLab/Jira Customer Conversation                        | Mahesh Kumar, Aleeta Bell (Sales TBD)           |
 | Sep 17 | Maximizing Value of Partners in a Deal (Co-Selling with Partners Part 2) | David Forsch, Ed Cepulis                        |
 | Sep 24 | Q3 FY21 Competitive Update                                               | Mahesh Kumar                                    |
-|  Oct 1 | Deal Structure Best Practices                                            | TBD                                             |
-|  Oct 8 | VMware                                                                   | Amy Brandenburg, TBD                            |
-| Oct 15 | Proof Points & Analyst Resources Update                                  | Colin Fletcher (Sales)                          |
-| Oct 22 |              No sessions during last two weeks of a quarter                                                              
-| Oct 29 |              No sessions during last two weeks of a quarter                                                           |                                                
+|  Oct 1 | Deal Structure Best Practices                                            | Jesse Rabbits, Sales (TBD)                      |
+|  Oct 8 | Leveraging the GitLab/VMware Alliance                                    | Amy Brandenburg, Sales (TBD)                    |
+| Oct 15 | Proof Points & Analyst Resources Update                                  | Colin Fletcher, Sales (TBD)                     |
+| Oct 22 | No sessions during last two weeks of a quarter                           | N/A                                             |                                   
+| Oct 29 | No sessions during last two weeks of a quarter                           | N/A |                                                                                                                                                                
 
 ## Past Sessions
 
