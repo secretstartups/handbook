@@ -40,7 +40,7 @@ If resignation is the only solution after you have discussed your concerns, plea
     * The PBP will acknowledge the receipt of the resignation with the team member confirming the last working day. Feel free to reference this [example email](https://docs.google.com/document/d/1rZvczqEuyyFDAzjheiF4LpcLuvj9fFd6maPOSDwkYpQ/edit).
     * **If the team member is located in a country with statutory holiday allowance**, the holiday taken should be confirmed with the manager and team member via email and then filed in BambooHR.
     * Once that has been done an Acknowledgement Letter can be prepared, which will depend on the `location` and `employment status` of the team member.
-    * A couple of examples can be reviewed here: [GitLab Ltd (UK) Resignation Acknowledgement](https://docs.google.com/document/d/1zV1qnZmjQaNZ3QUjrLOtod-FbboNCPmYdqCLIAc7aos/edit)and [GitLab BV (Netherlands) Resignation Acknowledgement](https://docs.google.com/document/d/1-9hCL2Xs5po4lZ19L2vrcmGxQIYRD-Emyci3F63kt0c/edit)
+    * A couple of examples can be reviewed here: [GitLab Ltd (UK) Resignation Acknowledgement](https://docs.google.com/document/d/1zV1qnZmjQaNZ3QUjrLOtod-FbboNCPmYdqCLIAc7aos/edit), [GitLab BV (Netherlands) Resignation Acknowledgement](https://docs.google.com/document/d/1-9hCL2Xs5po4lZ19L2vrcmGxQIYRD-Emyci3F63kt0c/edit) and [GitLab/Lyra Relieving Letter for India](https://docs.google.com/document/d/1uPlL_l8N-WJXZu2ISNh--eWCY2aB9bSqt9zaj-jmh6w/edit)
 
     _Note: For GitLab UK team members, payroll can pay up to and including the 5th day of the following month. For example, if a team member's last day is February 2nd, the team member can receive their final pay for this in January's payroll._
 
