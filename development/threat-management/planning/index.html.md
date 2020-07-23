@@ -53,7 +53,7 @@ Engineers [refine](#refinement-steps-for-engineers) issues assigned to them in t
 They are encouraged to ask questions and are authorized to push back on PM if issues lack the information and/or designs
 required for successful refinement and execution.
 
-* Engineering output: Move issue into the `workflow::ready for dev` state and unassign themselves if they have completed refinement. Assign the issue to their EM if for any reason refinement could not be completed.
+* Engineering output: Move issue into the `workflow::ready for dev` state and unassign themselves if they have completed refinement. Leave issue in `workflow::refinement` and assign the issue to their EM if for any reason refinement could not be completed.
 
 #### *Why are we assigning issues for refinement?*
 
