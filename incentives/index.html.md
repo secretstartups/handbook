@@ -237,7 +237,11 @@ For information regarding the program details and team member eligibility and un
 
 If a team member has been referred, the People Experience team will review team members' self-identification data in BambooHR including Gender, Ethnicity and Veteran status to determine if the team member qualifies as belonging to a select underrepresented group. The People Experience team will edit the referrer's referral bonus as applicable. The Total Rewards Analysts will confirm the bonus amount when it is entered into BambooHR and will process the bonus.
 
-* Exceptions: no bonuses for hiring people who report to you directly or are in your direct reporting chain, and no bonus for the executive team (VP and above).
+* Exceptions
+   * no bonus for hiring people who report to you directly or are in your direct reporting chain,
+   * no bonus for the executive team members (VP and above),
+   * no bonus if you refer a current team members,
+   * no bonus for a [Boomerang Team Member](https://www.bamboohr.com/hr-glossary/boomerang-employee/)
 
 * In the event that more than one GitLab employee refers the same team member for the same role the People Ops team will ask the new team member to confirm who they were referred by (who should get the credit). If they mention two or more people then the bonus will be split between them.
 
