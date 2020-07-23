@@ -1028,8 +1028,6 @@ You should have an issue for the blog post you are writing. Go to the issue and 
 
 Now you have a merge request! Please edit the title to be "WIP: blog post - Title of blog post".
 
-Placing "blog post" in your MR title will trigger a blog-only build for review apps, which means you will be able to preview your blog post much sooner.
-
 Make sure you select the blog post template for your MR, as this contains some important tasks for you to complete.
 
 ![MR template for blog post](/images/handbook/marketing/blog-mr-template.png){: .shadow.medium.center}
