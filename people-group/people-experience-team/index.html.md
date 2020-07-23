@@ -115,6 +115,12 @@ This WIP and will be included here soon.
 
 - Report is pulled every Monday and Wednesday
 
+### Weekly Moo Report
+
+Every week, the People Experience Associate in the rotation creates a Report in BambooHR containing all Active Employees in three columns: their First Name, their Last Name, their GitLab work email. People Experience Associate adds this data to the `GitLab : Moo` spreadsheet in a new weekly tab titled that Tuesday's date (format yyyy-mm-dd) so that our Moo Rep can grab this data and send out email invitations to new team members from the Moo platform.
+
+Please note that all info from the report is added to the sheet, including any past hires. The Moo system will only send the invitation to the new members not previously listed on the sheet. This ensures that any potential missed members still receive their invitation.
+
 ### OSAT Team Member Feedback
 
 Once a new team member has completed their onboarding, they are asked to complete the `Onboarding Survey` to share their experience. Based on the scores received, the People Experience Associate assigned to the specific team members onboarding, will complete the following:
