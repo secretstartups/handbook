@@ -78,18 +78,6 @@ How to add prospects to REQs:
 
 Use our [reach out templates](https://docs.google.com/presentation/d/1ySqgLoYnFUGtb7hdywav6iSb_NBPRhfIs6WZlGne6Ww/edit?usp=sharing) or create your own messaging for reaching out to candidates
 
-**4.4 - Engaging Nurture Prospects**
-
-When engaging with prospects in the Nurture stage, it is important we capture the following information in Greenhouse and be able to pull data from this information when required. Please refer to the following check list when engaging with Nurture Prospects:
-
-- [ ] **LinkedIn Profile**
-- [ ] **Email Address**
-- [ ] **Current Resume or PDF of LinkedIn Profile**
-- [ ] **Locality**
-     * Instructions: When making an assumption, default to a higher location factor. **Reminder:** this needs to be updated during the screening call if our assumption was incorrect.
-
-Keep in mind, Tags can take care of other key pieces of information we may want to include on a prospect's profile.
-
 #### **Sourcing Support**
 
 Anyone on the Recruitment Team can provide sourcing support for priority REQs.  The focus should be P0 and P1 REQs.  If you want to help with a specific REQ, please engage with the Recruiter directly to verify the REQ is in fact a priority. If the REQ is a priority, use the [REQ kick-off Issue](https://gitlab.com/gl-recruiting/req-intake/-/issues) and the [Hiring Repo](https://gitlab.com/gitlab-com/people-group/hiring-processes/-/tree/master) to learn more about the REQ.
