@@ -605,7 +605,7 @@ understand theirs. We are continuously [working on getting better at this topic]
 
 ##### Inclusive benefits
 {:.no_toc}
-We list our [Parental Leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) publicly so people don't have to ask for them during interviews.
+We list our [Parental Leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) publicly so people don't have to ask during interviews.
 
 ##### Inclusive language & pronouns
 {:.no_toc}
