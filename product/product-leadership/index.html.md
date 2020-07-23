@@ -33,9 +33,8 @@ All Managers and above in the Product function (as well as the VP of Product Str
 Product team members who:
 
 - Report directly to the [EVP of Product](/job-families/product/evp-of-product/)
-- Report directly to the [VP of Product](/job-families/product/vp-of-product/)
+- Report directly to the [VP of Product Management](/job-families/product/vp-of-product/)
 - Are Director+
-- The [VP of Product Strategy](/job-families/product/vp-of-product-strategy/)
 
 This group can be referenced in GitLab.com issues using the `@gl-product-plt` handle.
 
