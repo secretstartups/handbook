@@ -26,13 +26,13 @@ title: "Sales Manager Best Practices"
 
 ### Opportunity Coaching
 
-*  Regularly leverage the [Command of the Message and MEDDPICC sales manager materials](/handbook/sales/command-of-the-message/#resources-sales-manager-materials)
+*  Regularly leverage the [Command of the Message and MEDDPPICC sales manager materials](/handbook/sales/command-of-the-message/#resources-sales-manager-materials)
 *  Use the following outline for your opportunity consult sessions:
 
 | **Step** | **Duration (minutes)** | **Description** |
 | ------ | ------ | ------ |
 | Manager Set-Up | 5 | - Set expectations of the call by stating the purpose, process and payoff of the session |
-| Seller-Led Opportunity Overview | 10 (uninterrupted) | - Provides brief opportunity background (e.g., relevant account history, recent changes on opportunity) <br> - Describes current deal state (e.g., sales process stage, forecast stage, key business issues, compelling event) <br> - Identifies gaps in Mantra, MEDDPICC, and additional challenges for discussion |
+| Seller-Led Opportunity Overview | 10 (uninterrupted) | - Provides brief opportunity background (e.g., relevant account history, recent changes on opportunity) <br> - Describes current deal state (e.g., sales process stage, forecast stage, key business issues, compelling event) <br> - Identifies gaps in Mantra, MEDDPPICC, and additional challenges for discussion |
 | Manager Consult | 30 | - Ask open-ended, two-sided questions around focus areas to inspect (in a good, helpful way) the opportunity <br> - Provide relevant feedback and coaching based on the identified gaps and challenges <br> - Assist the seller in defining an action plan and exactly “how” to execute on the next steps |
 | Manager + Seller Agree to Action Plan | 5 | - Seller recaps opportunity-specific sales strategy <br> - Seller documents next steps/critical actions in CRM or via email to manager |
 
@@ -55,8 +55,8 @@ title: "Sales Manager Best Practices"
 *   Celebrate your wins and socialize success stories to help with motivation across teams 
 *   Continue to leverage your fellow managers for feedback and input on what is working well
 *   Lead with “Why” in team and 1:1 rep discussions (GitLab has done a good job of explaining “Why” for GitLab organizationally, but managers will want to ensure that daily interactions lead with “Why” for teams and individual reps)
-*   Enable partner sellers to jointly run deals leveraging Command of the Message and MEDDPICC
-*   Conduct Command of the Message and MEDDPICC refresh sessions covering 1-2 slides/tools per week
+*   Enable partner sellers to jointly run deals leveraging Command of the Message and MEDDPPICC
+*   Conduct Command of the Message and MEDDPPICC refresh sessions covering 1-2 slides/tools per week
 
 ### Career Development
 
