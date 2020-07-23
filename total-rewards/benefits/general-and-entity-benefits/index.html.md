@@ -85,7 +85,7 @@ Examples of requests that may be denied:
 * A Frontend Engineer seeking a master's in computer science who is on a performance improvement plan or having discussions around underperformance.
 * If the tuition reimbursement budget has been reached, then your request may be denied, even if you meet eligibility requirements.
 
-Budget estimations for tuition reimbursement are based on utilization rates from past years. The budget is managed on a company-wide scale, not division-specific. For example, approving tuition reimbursement for a team member in Engineering does not "take away" budget from other engineers. Eligibility is managed on an individual basis. Eligibility for this benefit is part of each GitLab team member's Total Rewards package. 
+Budget estimations for tuition reimbursement are based on utilization rates from past years, adjusted for the size of the company. The budget is managed on a company-wide scale, not division-specific. For example, approving tuition reimbursement for a team member in Engineering does not "take away" budget from other engineers. Eligibility is managed on an individual basis. Eligibility for this benefit is part of each GitLab team member's Total Rewards package. 
 
 Do I need to get approval to participate in this program?
 * Yes, seek verbal approval from your manager before you submit your tuition reimbursement form.
