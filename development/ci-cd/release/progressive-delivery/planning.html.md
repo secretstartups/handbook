@@ -72,7 +72,7 @@ It is also important to note that not all POCs will be successful, and that is O
 
 ###### Design phase
 
-In the design phase the product designer will require input from stakeholders such as engineering and product management to push forward a design concept. Ideally, the product designer is working ahead of the current milestone and will require feedback on issues ahead of the build track or even the planning breakdown. This [issue board](https://gitlab.com/groups/gitlab-org/-/boards/1884154) is used to make sure engineering has visibility on the items that require their input ahead of time so they can be accounted for in terms of availability and is mentioned in the Needs/Weight issues.
+In the `workflow::design` phase the product designer will require input from stakeholders such as engineering and product management to push forward a design concept. Ideally, the product designer is working ahead of the current milestone and will require feedback on issues ahead of the build track or even for `workflow::planning breakdown` phase. This [issue board](https://gitlab.com/groups/gitlab-org/-/boards/1884154) is used to make sure engineering has visibility on the items that require their input ahead of time so they can be accounted for in terms of availability and is mentioned in the Needs/Weight issues.
 
 ##### Planning Breakdown
 
