@@ -46,9 +46,9 @@ title: "Financial Planning & Analysis"
 
 Purpose: GitLab's operating plan is a guideline to understand how much capital it needs and how the capital will be consumed. The operating plan helps GitLab answer questions like "how fast can we hire and when?"
 
-What: The operating plan is a three statement (Income Statement, Balance Sheet and Statement of Cashflow), non-GAAP bottoms-up plan that spans the current fiscal year. The revenue is driven off the GitLab revenue model and the expense part of the plan is at the headcount and vendor level.
+What: The operating plan is a three statement (Income Statement, Balance Sheet and Statement of Cashflow), non-GAAP bottoms-up plan that spans the current fiscal year. The revenue is driven off the GitLab revenue model and the expense part of the plan is at the headcount and vendor level. The Operating Plan will be a 90% confidence Plan.
 
-Governance: The operating plan is approved by the board of directors every year.
+Governance: The Operating Plan is approved by the board of directors every year.
 
 #### Actuals
 
@@ -85,9 +85,8 @@ Governance: A target that relates to IACV is usually agreed upon by the DRI of t
 What: Baseline is a measurement of actual expense or revenue that relates to a certain point in time (i..e month, quarter or year). We use baselines to measure progress of improvement against actual results. The progress can be stated in monthly, quarterly or annualized terms.
 
 ### Mechanics of the Operating Plan:
-
-- The revenue model predicts new business based on the [growth persistence model](/handbook/finance/financial-planning-and-analysis/#forecasting-growth-using-a-growth-persistence-model) and growth from existing business based on net retention assumptions. Understanding how much revenue is anticipated determines how much capital will be needed for growth in the foreseeable future.
-
+- The Operating Plan Bookings Plan is developed by completing a bottoms up assessment of expected renewals, churn, expansion bookings and new bookings. This Plan is validated via analysis of historical cohort behavior, landed account potential (LAM), marketing Plans and sales capacity.
+- The Operating Plan includes expenses for sales and marketing with capacity to achieve bookings at a 50% confidence level. Expenses for R&D, G&A, Sales Commissions and Cost of Revenue are planned at the 90% confidence Booking Plan level. The Operating Plan also assumes that the corporate bonus target will be fully achieved at the 50% confidence level.
 - The [rolling 4 quarter forecast](/handbook/finance/financial-planning-and-analysis/#rolling-4-quarter-forecast) builds off of the revenue projected in the revenue model. During the rolling 4 quarter, departments build out plans to help meet their strategic goals. Understanding the departmental plans determines how much of the capital will be consumed for foreseeable future.
 
 - The [budget](/handbook/finance/financial-planning-and-analysis/#budgeting-@-gitLab) looks to GitLab's [long term profitiablity goals](/handbook/finance/financial-planning-and-analysis/#long-term-profitability-targets) and incorporates plans made during the rolling 4 quarter forecast in addition to revenue forecasts from the revenue model. In order to have a budget, GitLab must have a forecast(s) for it's operating plan. Therefore, the revenue and rolling 4 quarter forecasts are critical to set budgets. Budgets help GitLab understand how it's spends its cash and help predict long term targets, but ultimately budgets are a guideline.
@@ -100,6 +99,7 @@ What: Baseline is a measurement of actual expense or revenue that relates to a c
 * Planning begins with an annual planning process that drives the annual board approved budget.
 * Every month as part of the close process the team will generate a monthly forecast
 * Every quarter as part of the close process the team will generate a four quarter rolling forecast
+* If GitLab is exceeding the Operating Plan, on a quarterly basis the executive team can decide to increase expense as long as we maintain EBIT goals approved by the board of directors.
 
 ### Annual Planning Steps (WIP)
 * Align executive team on strategic priorities
@@ -308,13 +308,13 @@ Once these components are in place, a comparison showing the difference between 
 | ISOdate_CampaignShortName | $000's | $000's | $000's | $000's | $000's |
 
 
-#### Making Changes to the Plan to Optimize for Growth
+#### Making Changes to the Plan to Optimize for Growth, Efficiency, or Risk
 
-Our Plan is intended to ensure that the Company has sufficiently considered what is required to support the Company's financial goals. The Plan ensures that there is accountability across all divisions that can be measured. The Plan is not intended to represent a cap on what we can invest in support of maximizing the growth of the Company.  We encourage our team members to actively seek opportunities that will help us grow faster. Those growth initiatives will be evaluated, as follows:
+Predictability is a top priority. If we are exceeding our Plan, the company will have opportunities to make additional investments that fit within our EBIT and free cash flow margin structure. We encourage our team members to actively seek opportunities that will help us grow faster or become more efficient each quarter. Ideally, team members can do this within the budget allocation. If a growth/efficiency initiatives requires additional spend will be evaluated and agreed upon by eGroup, as follows:
 
-1. If the investment will allow us to exceed our IACV plan by at least an equal amount in the current year we will do it. The e-group will be informed of the increased spend and anticipated impact.
-1. If the increased spend will allow us to exceed our IACV targets next year then we will quantify the impact and raise our financial guidance for the following year. The e-group will review these investments and will, in some cases, request board approval for relief against current year planning targets.
-1. If we need to exceed spend to achieve our current plan we should review as an e-group and inform the board. We won't necessarily get plan relief unless there are extenuating circumstances but we will do what is right for the business.
+1. If the investment will allow us to increase bookings or increase efficiency in the current year or in future periods with a positive return.  
+1. If the investment de-risks future years bookings achievement
+1. If the investment decreases risk / increases compliance per our Enterprise Risk Management program
 
 #### Out of Budget Business Case
 
@@ -329,7 +329,7 @@ This business case should be completed in conjunction with your [Finance Busines
 * Can we measure the impact in terms of ROI or KPI improvement?
 * Have we investigated any other options?
 
-Together with your FBP , this analysis should be presented to your leader for approval.
+Together with your FBP , this analysis should be presented to your leader and then to eGroup for Approval.
 
 
 ## Investor and Board Communication
