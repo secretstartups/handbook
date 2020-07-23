@@ -275,6 +275,8 @@ drafting the release post item, it is recommended PMs write Release Post Item MR
 - **17th of the month - Merged**: release post item MR merged by the Engineering Manager if feature has been merged
 - **18th of the month - Final content assembly**: and release post blog content lock in preparation for final reviews/editing
 
+After the 18th of month, late additions are only accepted at the discretion of the Release Post Manager. Please see [late additions to the release post](#merging-content-blocks-after-the-18th) for more details. 
+
 ##### Instructions
 
 - Create a new branch from `master` for each feature/deprecation
@@ -358,9 +360,16 @@ Engineering Managers are the DRIs for merging these MRs when the feature is merg
 
 To enable Engineering Managers to merge their feature blocks as soon as an issue has closed, please ensure all scheduled items you want to include in the release post have content blocks MRs created for them and have the `Ready` label applied when content contribution and reviews are completed.
 
-#### Reviwing, editing and updating merged content blocks
+#### Reviewing, editing and updating merged content blocks
 
 After content block MRs are merged, they can be viewed on the [Preview page](https://about.gitlab.com/releases/gitlab-com/) and should be updated/edited via MRs to master up until the **final merge deadline of the 17th**. Starting on the 18th, content block MRs should be viewed in the Review app of the release post branch after **final content assembly**, and updated/edited on the release post branch by coordinating with the Release Post Manager. It's important to check this page after the content block MR is merged becuase this page is LIVE to users and should be error free. 
+
+#### Merging content blocks after the 18th
+After the 18th of month, late additions are only accepted at the discretion of the Release Post Manager. Please limit requests to merge content blocks to ones that meet one of the following criteria:
+- It is a **primary** feature
+- It is a high impact feature 
+- It is a high impact bug fix
+- It directly relates to the theme
 
 #### Accountability
 
