@@ -111,6 +111,7 @@ The Release Post Manager is accountable for:
 - Creating and collecting feedback in the release post retro issue during the release post
 - Doing a sync retro with the Tech Writing and Messaging leads sometime between the 23rd and the 1st of the month, to identify and collaboratively complete actions to improve  process and update the handbook/MRs
 - [Communicate](#communication) with our Community Advocates following the [Involving Experts workflow](https://about.gitlab.com/handbook/marketing/community-relations/community-advocacy/workflows/involving-experts/) as needed to field questions that come up from viewers of the release post blog once it is live on the 22nd 
+- Making sure the auto sorting of secondary features by title (alpha) and stage generally looks good or is revised if need be [Content Reviews](#content-reviews)
 
 **The initial steps of creating a release post branch and the release post merge request are explained below. All subsequent steps for Release Post Manager are documented as checklist items in the merge request that gets created below.**
 
@@ -236,6 +237,8 @@ The due dates for various reviews across all participants can be found on the re
 Keeping an eye on the various content reviews  (TW, PMM and Director) for the individual release post items (content block MRs) is the responsiblity of PM contributor. However, it is recommended that the Release Post Manager keep an eye on how many items are not yet marked with the Ready label on the 10th of the month or not yet merged on the 16th of the month, and check in with PMs  in Slack Release Post channel to support and clear hurdles if needed. A really easy way to do this is to keep your eyes on the [Preview page](https://about.gitlab.com/releases/gitlab-com/) and copy edit and link check items as new items appear. It's also important to do this becuase this page is LIVE to users and should be error free. 
 
 The content review of the Performance Improvements and Bug Fixes MRs are the responsibility of the Release Post Manager and the TW Lead.
+
+The review and any needed adjustment to the ordering of secondary features due to stakeholder feedback is the responsibility of the release post manager. Secondary features, bug fixes, performance improvements, deprecations, removals, and upgrade notes are all sorted alphabetically by title, grouped by stage. To affect the sort order of the secondary features, a change to the content block's `title` is required. The release post manager should work with the product managers of the content blocks to make these changes, to  ensure accuracy and alignment``
 
 The review of all content for quality, including the marketing intro, is recommended for the Release Post Manager to keep things smooth, since it is the Release Post Manager's responsibility to make sure all content is completed until by the 20th of the month, ensuring a one day buffer is left for final error fixes and small improvements.
 
@@ -491,29 +494,9 @@ This section provides guidance on how to decide on top 3 features or themes and 
 
 #### Feature order
 
-The messaging lead orders the primary features in the release post to align with the themes they've identified and incorporated into their introduction for the release post.
+The messaging lead orders the primary features in the release post to align with the themes they've identified and incorporated into their introduction for the release post. Primary feature content blocks are sorted alphabetically by file name so the messaging lead can affect the order of these items by adding a 2-digit numerical prefix to the file name of each individual content block. For example, `01_filename.yml`, `02_another_file.yml`, etc. 
 
-Content blocks are listed in the post in alphabetical order, so to order the content, add a 2-digit numerical prefix to the name of each individual content block file. Eg: `01_filename.yml`, `02_filename.yml`, etc.
-
-- The release features are listed in a YAML data file linked as "Items" in the release post MR description. For example, see the [data file for GitLab 11.1](https://gitlab.com/gitlab-com/www-gitlab-com/blob/release-11-1/data/release_posts/2018_07_22_gitlab_11_1_released.yml)
-- The order of features in this file is the order they appear in the blog post.
-- More impactful features should be closer to the top of the blog post.
-- Note that primary vs. secondary designation overrides filename sort order. Primary features will always appear at the top above secondary features regardless of their file name. You will also want to order the primaries using their file names. (For example, using `01` through `09`).
-- It is ok to have primary features near the top that are not mentioned in the introduction.
-- A suggested file name/numbering structure to aid in sort order is to group similar release post items together by stage:
-* 01-09 reserved for primary items
-* 10-19 for manage
-* 20-29 plan
-* 30-39 create
-* 40-49 verify
-* 50-59 package
-* 60-69 release
-* 70-79 configure
-* 80-89 monitor
-* 90-99 secure and defend
-* 100-110 enablement
-- Helpful hint: numbers can be reused if there are more than 10 features in a given stage.
-
+Secondary features, bug fixes, performance improvements, deprecations, removals, and upgrade notes are all sorted alphabetically by title, grouped by stage. In cases where the messaging lead wants to manually affect the sort order of the secondary features, a change to the content block's `title` is required. It is recommended this be coordinated with the release post manager so the PM and the PMM of the content block are involved as needed. 
 
 ##### Marketing coordination
 
