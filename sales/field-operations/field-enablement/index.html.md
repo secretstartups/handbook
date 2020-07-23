@@ -40,7 +40,9 @@ Please see our [Key Programs](/handbook/sales/field-operations/field-enablement/
 *  [Field Certification Program](/handbook/sales/training/field-certification)
     *  [Sales Operating Procedures](/handbook/sales/sales-operating-procedures/)
 *  [Sales Manager Best Practices](/handbook/sales/field-operations/field-enablement/sales-manager-best-practices)
-*  [Field Flash Newsletter](/handbook/sales/field-communications/field-flash-newsletter/)
+*  [Field Communications](https://about.gitlab.com/handbook/sales/field-communications/)
+   *  [Field Flash Newsletter](/handbook/sales/field-communications/field-flash-newsletter/)
+   *  [Monthly GitLab Release Email to Sales](https://about.gitlab.com/handbook/sales/field-communications/monthly-release-sales-email)
 *  Sales Events
     *  [Sales Kick Off](/handbook/sales/training/SKO)
     *  [Sales QBRs](/handbook/sales/#quarterly-business-reviews)
