@@ -36,6 +36,7 @@ Please see our [Key Programs](/handbook/sales/field-operations/field-enablement/
     *  [Customer Success Skills Exchange](/handbook/sales/training/customer-success-skills-exchange)
     *  [Sales Enablement Level Up Webcast Series](/handbook/sales/training/sales-enablement-sessions/)
     *  [Sales Training Resources](/handbook/sales/training/)
+    *  [Technical Questions for Sales](/handbook/sales/training/technical-questions-for-sales/)
 *  [Field Certification Program](/handbook/sales/training/field-certification)
     *  [Sales Operating Procedures](/handbook/sales/sales-operating-procedures/)
 *  [Sales Manager Best Practices](/handbook/sales/field-operations/field-enablement/sales-manager-best-practices)
