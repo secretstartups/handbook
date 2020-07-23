@@ -120,7 +120,7 @@ The below is a work in progress as we define success measures across each stage 
 
 1. Field certification program (Sales, CS & Partner audiences)
 1. Sales methodology & process
-    - Command of the Message & MEDDPICC operationalization
+    - Command of the Message & MEDDPPICC operationalization
 1. Functional onboarding training for Sales & Customer Success roles
     - Continued execution & ongoing iteration to accelerate time to productivity for new field team members
 1. Support launch & expansion of new GitLab channel partner program
