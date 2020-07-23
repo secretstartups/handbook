@@ -52,11 +52,11 @@ More information can be found on the [compensation page](/handbook/sales/commiss
 
 **Partner Initiated Opportunity - PIO**
 - A PIO is any new sales opportunity that was brought to GitLab via a Deal Registration.  A PIO could be:
-        *    An opportunity with new customer to GitLab
-        *    An opportunity with a customer/prospect with which GitLab is already engaged, but was not aware of the specific opportunity
-        *    An existing customer upgrade to a higher pricing plan - including from our free/core product.  This could be for a customer that was originally sold direct.
-        *    Additional licenses sold, often at time of renewal. 
-        *    True-ups to an original partner opportunity. 
+    -  An opportunity with new customer to GitLab
+    -  An opportunity with a customer/prospect with which GitLab is already engaged, but was not aware of the specific opportunity
+    -  An existing customer upgrade to a higher pricing plan - including from our free/core product.  This could be for a customer that was originally sold direct.
+    -  Additional licenses sold, often at time of renewal. 
+    -  True-ups to an original partner opportunity. 
 - The opportunity must be new to our sales team, and can be for a new or existing customer.
 - This can be for either a resale or referral opportunity.  
 - The partner is expected to assist the GitLab Sales team in closing the sale. 
@@ -81,9 +81,9 @@ More information can be found on the [compensation page](/handbook/sales/commiss
 - This is stackable for up to three (3) independent services engagements over a twelve (12) month period, provided by the partner to a single end user.
 - The maximum discount or rebate is 7.5% with any combination of upfront or post sales partner branded services.
 - Partner Services engagements must meet the following partner services engagement deal size minimums to qualify:
-        *    1st deal: => $7,500 in services
-        *    2nd deal: =>$10,000 in services
-        *    3rd deal: => $10,000 in services
+    -  1st deal: => $7,500 in services
+    -  2nd deal: =>$10,000 in services
+    -  3rd deal: => $10,000 in services
 - Partners must register a Services Attach deal registration to qualify for the incentive.
 - Rebate payments are paid out at the end of each GitLab fiscal quarter.
 - Rebates and referral fees may require CRO approval.
