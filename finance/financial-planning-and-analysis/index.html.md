@@ -298,13 +298,13 @@ Once these components are in place, a comparison showing the difference between 
 | ISOdate_CampaignShortName | $000's | $000's | $000's | $000's | $000's |
 
 
-#### Making Changes to the Plan to Optimize for Growth
+#### Making Changes to the Plan to Optimize for Growth, Efficiency, or Risk
 
-Our Plan is intended to ensure that the Company has sufficiently considered what is required to support the Company's financial goals. The Plan ensures that there is accountability across all divisions that can be measured. The Plan is not intended to represent a cap on what we can invest in support of maximizing the growth of the Company.  We encourage our team members to actively seek opportunities that will help us grow faster. Those growth initiatives will be evaluated, as follows:
+Predictability is a top priority. If we are exceeding our Plan, the company will have opportunities to make additional investments that fit within our EBIT and free cash flow margin structure. We encourage our team members to actively seek opportunities that will help us grow faster or become more efficient each quarter. Ideally, team members can do this within the budget allocation. If a growth/efficiency initiatives requires additional spend will be evaluated and agreed upon by eGroup, as follows:
 
-1. If the investment will allow us to exceed our IACV plan by at least an equal amount in the current year we will do it. The e-group will be informed of the increased spend and anticipated impact.
-1. If the increased spend will allow us to exceed our IACV targets next year then we will quantify the impact and raise our financial guidance for the following year. The e-group will review these investments and will, in some cases, request board approval for relief against current year planning targets.
-1. If we need to exceed spend to achieve our current plan we should review as an e-group and inform the board. We won't necessarily get plan relief unless there are extenuating circumstances but we will do what is right for the business.
+1. If the investment will allow us to increase bookings or increase efficiency in the current year or in future periods with a positive return.  
+1. If the investment de-risks future years bookings achievement
+1. If the investment decreases risk / increases compliance per our Enterprise Risk Management program
 
 #### Out of Budget Business Case
 
@@ -319,7 +319,7 @@ This business case should be completed in conjunction with your [Finance Busines
 * Can we measure the impact in terms of ROI or KPI improvement?
 * Have we investigated any other options?
 
-Together with your FBP , this analysis should be presented to your leader for approval.
+Together with your FBP , this analysis should be presented to your leader and then to eGroup for Approval.
 
 
 ## Investor and Board Communication
