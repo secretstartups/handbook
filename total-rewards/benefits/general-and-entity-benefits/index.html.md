@@ -180,7 +180,6 @@ If you have been at GitLab for a six months and completed your probationary peri
 
 Here is an example of how pay would work for someone who is not on commission and has been at GitLab for exactly 4 months at the time that they go on parenal leave. This person goes on leave the day that the baby comes and chooses to take off 4.5 months.
 
-- Day 1 - Day 60: 0% pay through payroll. Possible government compensation based on location.
 - Day 61 - Day 120: GitLab compensation through payroll. The combination of any government compensation and GitLab payroll pay to equal 100% of GitLab payroll.
 - Day 120 - Day 135: Employee enters unpaid leave. 0% pay through payroll.
 
