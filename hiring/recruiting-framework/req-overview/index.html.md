@@ -132,7 +132,7 @@ During the screening stage, it is important we capture the following information
 1. **Locality**
      * Instructions: Navigate to the `Details` tab in the candidate's profile > Navigate to the `Additional Details` section > Select the candidate's location in the `Locality` drop down menu. *Please note this is mapped to the location factors as provided by the Total Rewards Team and may not be their specific location.*
 1. **Do you have a significant other or family member that is currently a GitLab team member?**
-     * Instructions: Navigate to the `Details` tab in the candidate's profile > Navigate to the `Additional Details` section > Select an option in the `Family Relationship` drop down menu. Select *N/A* if the candidate answers no.
+     * Instructions: Navigate to the `Details` tab in the candidate's profile > Navigate to the `Additional Details` section > Select an option in the `Family Relationship` drop down menu. Select *N/A* if the candidate answers no. Add the 'family member' tag to their Greenhouse profile if there is a relationship to be aware of. The CES will need this to process a disclosure in conjunction with the contract at the time of offer. 
 1. **Notice period (if the candidate is currently employed)**
      * Instructions: This information is captured in the Screening call Scorecard.
 1. **Salary expectations**
