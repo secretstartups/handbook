@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Secure Planning
+title: Secure Engineering Refinement
 ---
 
 ## On this page
@@ -9,26 +9,26 @@ title: Secure Planning
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Backlog Refinement
+## Overview
 
-Backlog refinement is the most important step to ensure an issue is ready to move into development and that the issue will match
+Engineering refinement is the most important step to ensure an issue is ready to move into development and that the issue will match
 everyone's expectations when the work is delivered.
 
 The goal of the refinement process is to
-*  Identify and resolve outstanding questions or discussions.
-*  Raise any questions, concerns or alternative approaches.
-*  Outline an implementation plan.
-*  Ensure issue is ready to be worked on.
-*  Assign a weight to the issue.
+
+- Identify and resolve outstanding questions or discussions.
+- Raise any questions, concerns or alternative approaches.
+- Outline an implementation plan.
+- Ensure issue is ready to be worked on.
+- Assign a weight to the issue.
 
 The refinement process can break down the issue into technical subtasks by following the [sub-issue convention](https://gitlab.com/gitlab-com/www-gitlab-com/issues/4588) but we should avoid redefining the scope of an implementation issue as this should have already been done during the Planning Breakdown with UX and PM.
 
-### When backlog refinement should be completed
+## When engineering refinement should be completed
 
-Backlog refinement should be an ongoing activity for all engineers. Our aim is to have enough issues to fill two 
-iterations ready to be scheduled. Every engineer should try to break down enough issues each week to result in a total weight 
-of at least 6, and should do this following the weekly team meetings.
-
+Engineering refinement should be an ongoing activity for all engineers.
+Our aim is to have enough issues to fill two iterations ready to be scheduled.
+Unless specified differently for your team, every engineer should try to refine enough issues each week to result in a total weight of at least 6, and should do this following the weekly team meetings.
 
 *  [Composition Analysis][ca]
 *  [Dynamic Analysis][da]
@@ -41,7 +41,7 @@ of at least 6, and should do this following the weekly team meetings.
 [sa]: https://gitlab.com/groups/gitlab-org/-/boards/1590105?label_name[]=group%3A%3Astatic%20analysis
 [frontend]: https://gitlab.com/gitlab-org/gitlab/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Asecure&label_name[]=workflow%3A%3Aplanning%20breakdown&label_name[]=frontend&weight=None
 
-### Steps:
+## Steps
 
 1.  Assign yourself the issue
 2.  If an engineer is required for the issue, ensure the appropriate `~backend` or `~frontend` label is applied. Otherwise, remove any backend/frontend label, assign any relevant labels and you are done.
@@ -58,31 +58,32 @@ of at least 6, and should do this following the weekly team meetings.
     *  Ensure the issue title is accurate for the work being done.
     *  Open up new issues for 'follow-up' work, or work that was forced out of scope.
 6. Assign a [weight](#weights) and set the label `~workflow::scheduling`
-7. Once refinement is done unassign yourself.
+7. Remove the respective `secure:refinement-backend` or `secure:refinement-frontend` label.
+8. Once refinement is done unassign yourself.
 
 When you are done refining, anyone should be able to read the issue description and should know what the issue is solving, how it is solving the problem,
 and the technical plan for implementing the issue.
 
 In order for someone to understand the issue and its implementation, they should **not** have to read through all the comments. The important bits should be captured in the description, as the **single source of truth.**
 
-### Failing Refinement:
+## Failing Refinement
 
 An issue should fail refinement if it can not be worked on without additional information or decisions to be made. To fail an issue:
 1.  Leave a comment on the issue that it can not be worked on, and highlights what still needs to be done.
 2.  Unassign yourself if you can not contribute further to issue at the current time.
-3.  Assign the `~workflow::blocked` label.
+3.  Assign the `blocked` label.
 
 
-### Weights
+## Weights
 
 Weights are used as a *rough* order of magnitude to help signal to the rest of the team how much work is involved.
 Weights should be considered an output of the refinement process rather than its purpose.
 
-The weighting system roughly aligns the scales used by other teams within GitLab. However, we use comparative sizing rather than 
-assigning time estimates to possible values. A curated set of reference issues have been provided below, which will be updated periodically 
+The weighting system roughly aligns the scales used by other teams within GitLab. However, we use comparative sizing rather than
+assigning time estimates to possible values. A curated set of reference issues have been provided below, which will be updated periodically
 to keep examples as current as possible.
 
-#### Possible Values
+### Possible Values
 
 It is perfectly acceptable if items take longer than the initial weight. We do not want to inflate weights,
 as [velocity is more important than predictability](/handbook/engineering/#velocity-over-predictability) and weight inflation over-emphasizes predictability.
@@ -97,14 +98,14 @@ as [velocity is more important than predictability](/handbook/engineering/#veloc
 | 13 | Extra-extra-large task | [Add support for REST API scans to DAST](https://gitlab.com/gitlab-org/gitlab/-/issues/10928) |
 | Bigger | Epic in disguise |  |
 
-#### Capacity planning documentation from other teams
+### Capacity planning documentation from other teams
 
 * [Plan:Project Management BE Team Capacity Planning](/handbook/engineering/development/dev/plan-project-management-be/#capacity-planning)
 * [Create: Source Code BE Team Weights](/handbook/engineering/development/dev/create-source-code-be/#weights)
 * [Geo Team Weights](/handbook/engineering/development/enablement/geo/#weights)
 * [Enablement:Memory](/handbook/engineering/development/enablement/memory/)
 
-### Implementation Plan
+## Implementation Plan
 
 A list of the steps and the parts of the code that will need to get updated to implement this feature. The implementation plan should also
 call out any responsibilities for other team members or teams. An example: https://gitlab.com/gitlab-org/gitlab/issues/5656#execution
@@ -116,7 +117,7 @@ been overlooked.
 The implementation plan might be limited to a single step but it should not be skipped, even when the implementation is simple.
 This improves consistency across issues, and communicates that issues have been properly refined.
 
-### FAQs
+## FAQs
 
 **Q:** Should discovery issues be groomed?
 
