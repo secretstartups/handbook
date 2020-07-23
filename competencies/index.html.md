@@ -105,7 +105,7 @@ In addition to the knowledge assessemnts for each value, you can take this [Know
 1. [Manager of One](/handbook/leadership/#managers-of-one)
 1. [Effective Communication](/handbook/communication/#effective-communication-competency) : includes Working async: [Why](/company/culture/all-remote/asynchronous/) and [How](/handbook/communication/), Well written artifacts, [Single Source of Truth](/handbook/documentation/#documentation-is-the-single-source-of-truth-ssot) and [Producing video](/handbook/communication/youtube/)
 1. [Handbook first](/handbook/handbook-usage/#handbook-first-competency)
-1. [Using GitLab](/handbook/using-gitlab-at-gitlab/#using-gitlab-competency): includes [Install GitLab](/install/) and [GitLab administration](/ee/administration/)
+1. [Using GitLab](/handbook/using-gitlab-at-gitlab/#using-gitlab-competency)
 
 Test your knowledge and self-reflect on the Remote Work Competencies by completing the knowledge assessment as a [People Leader](https://docs.google.com/forms/d/e/1FAIpQLSemWK_Ki0aAMepKAQnaN-uMr1JBlkCs3O80sBli4PaTl2uoDA/viewform) or an [Individual Contributor](https://docs.google.com/forms/d/e/1FAIpQLScN70eoAjJ0tuj_iSgFRkyRbeNLrO9Yz52897619IkwoNW-cw/viewform). Earn at least an 80% to receive a certificate! 
 
