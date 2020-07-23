@@ -1,0 +1,86 @@
+---
+layout: handbook-page-toc
+title: "Scalability Team Goals"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Current Goals
+
+Our goals are based on our [vision statement](../#vision).
+
+We are focused on the following two goals:
+1. Understand the scaling risks to the most significant services for GitLab.com
+1. 75% of the known scaling bottlenecks have been addressed
+
+The reason for specifying 75% is that there will always be more. If we got to 100%, it means we haven't performed
+enough recent investigation. The goals keep each the other in balance.
+
+### 1. Understand the scaling risks to the most significant services for GitLab.com
+
+**How do we measure our progress?**
+
+We measure the percentage of our knowledge of the scaling risks to each service.
+
+In [an issue](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/431), we determined the list of services that
+the Scalability team should consider. These services have been listed in the table below.
+
+For each service, we rate ourselves on a scale of 3 by answering three questions
+1. Do we know how to identify bottlenecks in this service?
+1. Have we identified bottlenecks in this service?
+1. Have we raised corrective epics or issues for what we have found?
+
+This is averaged for a total across all services.
+
+|**Service**|**We know how to identify bottlenecks**|**We have identified bottlenecks**     |**Correction epics/issues are raised**| **Total** |
+|-----------|---------------------------------------|---------------------------------------|--------------------------------------|-----------|
+| Service:API | | | | |
+| Service:CI Runner | | | | |
+| Service:Elasticsearch | | | | |
+| Service:Git | | | | |
+| Service:Gitaly | | | | |
+| Service:Mailroom | | | | |
+| Service:Pages | | | | |
+| Service:pgbouncer | | | | |
+| Service:Postgres | | | | |
+| Service:Praefect | | | | |
+| Service:Redis | | | | |
+| Service:RedisCache | | | | |
+| Service:RedisSidekiq | | | | |
+| Service:Registry | | | | |
+| Service:Share | | | | |
+| Service:Sidekiq | | | | |
+| Service:Web | | | | |
+|           |                                       |                                       |                                      | TOTAL % |
+
+### 2. 75% of the known scaling bottlenecks have been addressed
+
+**How do we measure our progress?**
+
+We count the number of epics raised through the method above, and we use the percentage of closed epics as our measure.
+
+|**Service**|**List of Epics or Issues**|**Status**|**Percentage Complete**|
+|-----------|---------------------------|----------|-----------------------|
+| Service:API | | | |
+| Service:CI Runner | | | |
+| Service:Elasticsearch | | | |
+| Service:Git | | | |
+| Service:Gitaly | | | |
+| Service:Mailroom | | | |
+| Service:Pages | | | |
+| Service:pgbouncer | | | |
+| Service:Postgres | | | |
+| Service:Praefect | | | |
+| Service:Redis | | | |
+| Service:RedisCache | | | |
+| Service:RedisSidekiq | | | |
+| Service:Registry | | | |
+| Service:Share | | | |
+| Service:Sidekiq | | | |
+| Service:Web | | | |
+| | | | TOTAL % |
+
