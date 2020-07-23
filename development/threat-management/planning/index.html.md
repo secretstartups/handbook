@@ -22,7 +22,7 @@ There's a [diagram](diagram.html) that (hopefully) helps understand the process.
 
 Top priority issues from upcoming release milestones will go through **Planning Breakdown** with
 Product Managers (PMs), Engineering Managers (EMs) & Engineers from the respective groups.
-Weekly group-level syncronous meetings will facilitate this discussion.
+Weekly group-level synchronous meetings will facilitate this discussion.
 The list of issues to be discussed will be provided by the PM at least 1 day prior to the meeting.
 The expectation is that all attendees have reviewed the issues prior to the start of the meeting.
 Attendees should add the carrot emoji to signify that an issue has been reviewed in advance.
