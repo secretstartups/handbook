@@ -58,7 +58,7 @@ required for successful refinement and execution.
 #### *Why are we assigning issues for refinement?*
 
 Issues are assigned to engineers to ensure we have focus on the highest-priority items, as
-determined by Product Management.  This is **not** an assignment to work on the issuet.
+determined by Product Management.  This is **not** an assignment to work on the issue.
 
 ### Week 2: Release Scope DRAFT Complete
 
