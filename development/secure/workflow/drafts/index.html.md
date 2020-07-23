@@ -32,4 +32,6 @@ Updates such as grammatical fixes, typos, and clarifications are welcome at any 
 
 ## Upcoming version
 
+The upcoming version is the [FY21-Q3 DRAFT](./FY21-Q3/), which will be rolled out on August 2020.
+
 ### Changes summary
