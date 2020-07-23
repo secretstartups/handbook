@@ -51,4 +51,33 @@ To work with these queues we leverage issue boards and relevant filters. We valu
 - [Code Review process](https://docs.gitlab.com/ee/development/code_review.html)
 
 ## Issue Refinement
+
 See our [Issue Refinement](./refinement/) page.
+
+## Editing this page
+
+### Update frequency
+
+To avoid change fatigue, Secure team members stick to the same workflow for a quarter (aligned with Fiscal Year Quarters).
+Updates such as grammatical fixes, typos, and clarifications are welcome at any time but substantive changes must be
+submitted to [the draft of the next version](./drafts/) and will only be rolled out when the next quarter starts.
+
+### Reviews and approvals
+
+To make updates such as grammatical fixes and typos, you can create an MR and have it reviewed and merged by anyone with merge rights.
+
+For updates that affect the overall phases by modifying core definitions, workflow labels or other cross-functionally utilized processes,
+you can create an MR to the [the draft of the next version](./drafts/) and assign it to the relevant impacted counterparts (Engineering, roduct, UX, QA, etc.).
+
+### Experiments
+
+All team members are encouraged to expirement improvements to the existing workflow.
+Trying things out is often the best way to see the benefit or downside of a suggested change.
+To make sure this is clearly understood by all counterparts who may be affected by this temporary change,
+it is very welcome that the experiment is listed here and clearly communicated first.
+
+#### Ongoing experiments
+
+<!---
+- Title - DRI - link to an issue describing the change and collecting feedback.
+-->
