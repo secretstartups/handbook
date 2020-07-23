@@ -72,3 +72,14 @@ The person who completes the "career conversation" call will add brief notes to 
 ### **Step 6: Nurture Prospects**
 
 Prospects whose prospect stage in Greenhouse is “Nurture” should receive a monthly message from GitLab.  
+
+When engaging with prospects in the Nurture stage, it is important we capture the following information in Greenhouse and be able to pull data from this information when required. Please refer to the following check list when engaging with Nurture Prospects:
+
+- [ ] **LinkedIn Profile**
+- [ ] **Email Address**
+- [ ] **Current Resume or PDF of LinkedIn Profile**
+- [ ] **Locality**
+     * Instructions: When making an assumption, default to a higher location factor. **Reminder:** this needs to be updated during the screening call if our assumption was incorrect.
+
+Keep in mind, Tags can take care of other key pieces of information we may want to include on a prospect's profile.
+
