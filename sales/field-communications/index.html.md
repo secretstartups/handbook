@@ -97,6 +97,8 @@ If you answered no to any of these questions, consider the playbook for Tier 3 u
     * The primary spokespeople for this update should be the relevant DRI. 
     * Since Tier 2 updates typically do not include enablement webinars or other live demo opportunities, DRIs should consider doing a short, asynchronous video recording to share with their update. 
         * i.e. Screenshare of the steps to take when implementing a new process. 
+    * Note that, in order to reduce burden, there are special limitations around surveys sent to the Field team – only one survey per month.  
+       * If the survey limit has already been reached in a month, Field Communications will work with the requestor to find the best next-available time.  
 
 ### Practical Application
 Sales Ops has created a new tag that the field must start using in all opportunities in SFDC. They engage Field Enablement to update SQS materials and Field Communication to ensure that this Wednesday is available to communicate the update. Sales Ops records a quick, 3-minute screenshare briefly explaining the change and showing where to find it in SFDC. 
@@ -124,6 +126,9 @@ Examples: Outside (non-field) requests for feedback/input, team member changes, 
 * Considerations: 
     * Blackout restrictions applied for end-of-quarter or noisy days. Tier 3 announcements not permitted in last two weeks of quarter or on days when 1-2 other higher-impact updates (Tier 1 and/or Tier 2) have gone out.
     * The primary spokespeople for this update should be the relevant DRI. 
+    * Note that, in order to reduce burden, there are special limitations around surveys sent to the Field team – only one survey per month.  Surveys that fall in the Tier 2 category will be prioritized. 
+       * If the survey limit has already been reached in a month, Field Communications will work with the requestor to find the best next-available time.  
+
 
 #### Field Communications Playbook Flowchart
 ![field-communications-playbook-flowchart](/handbook/sales/field-communications/field-communications_playbook-flowchart.png)
@@ -144,6 +149,7 @@ Once you've reviewed the playbook above and would like to request Field Communic
    1. `Field Announcement::Tier 1` 
    1. `Field Announcement::Tier 2` 
    1. `Field Announcement::Tier 3` 
+   - Note: If the announcement request includes a request to survey some or all field team members, the `Field Survey` tag will be applied to the issue and Field Communications will work with the requestor to determine if request fits within the survey limits set each month or if plans should be adjusted. (See the "Considerations" sections for Tier 2 and 3 playbooks above.) 
 - Field Communications will collaborate with the requester on the announcement details directly in the issue to finalize the roll-out plan. 
 
 ## Key Field Communications Programs
