@@ -39,7 +39,7 @@ See the below chart for a visualization of the Google Group hierarchy
 
 ![Sales Google Groups](/handbook/sales/images/newsalesgg_v4.jpg)
 
-To confirm if you are in a particular Google Group, see the [G-Suite Group Membership Reports.](/handbook/business-ops/employee-enablement/#automated-group-membership-reports-for-managers) To gain access to new Google Groups, please [fill out an access request (AR) form.](/handbook/business-ops/employee-enablement/onboarding-access-requests/access-requests/) 
+To confirm if you are in a particular Google Group, see the [G-Suite Group Membership Reports.](/handbook/business-ops/team-member-enablement/#automated-group-membership-reports-for-managers) To gain access to new Google Groups, please [fill out an access request (AR) form.](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) 
 
 ## Slack Groups
 
@@ -50,7 +50,7 @@ The primary Slack channels for the field are:
 - #sales-support: The general channel to ask for sales support from Field Operations.
 - #customer-success: The general channel to interact with & within Customer Success.
 
-All field team members should star and follow these three channels for important updates about the business. There are multiple team channels in the field organization, outlined below. Please follow the channels relevant to your role. To gain access to private channels, please [fill out an access request (AR) form.](/handbook/business-ops/employee-enablement/onboarding-access-requests/access-requests/)
+All field team members should star and follow these three channels for important updates about the business. There are multiple team channels in the field organization, outlined below. Please follow the channels relevant to your role. To gain access to private channels, please [fill out an access request (AR) form.](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/)
 
 ### Field Slack Channels
 The below channels are specific to the field organization. 

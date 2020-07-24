@@ -94,7 +94,7 @@ To get a calendar invite to the weekly Sales Enablement session, make sure you a
 - SDR Team `sdr@`
 - Marketing team `marketing@`
 
-You can [fill out an access request](/handbook/business-ops/employee-enablement/onboarding-access-requests/access-requests/) to request access to the email group. These groups are invited to the meeting so that each individual person does not need an invite.
+You can [fill out an access request](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) to request access to the email group. These groups are invited to the meeting so that each individual person does not need an invite.
 
 ### Training Playlist
 
