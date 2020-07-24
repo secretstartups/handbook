@@ -104,7 +104,7 @@ These sessions help us to ensure that we look for outbound talent and leverage o
 for all the roles we’re hiring for.
 
 Once a new role is opened, Sourcer assigned to the role will discuss with Recruiter and Hiring Manager 
-who should participate in the Sourcing session and schedule it within 5 business days after the intake call.
+who should participate in the Sourcing session and schedule it within 5 business days after the kickoff call.
 
 You can find more information about Sourcing Sessions on the [Recruiting Process](https://about.gitlab.com/handbook/hiring/recruiting-framework/req-overview/#step-3-complete-intake-session-agree-on-priority-level--complete-a-sourcing-session) page.
 
@@ -187,7 +187,7 @@ You can download in bulk in an XLS file several profiles and you can run your se
 
 ## Sourcing for specific Teams
 
-Teams might have different hiring criterias depending on technology, field, product area etc. This can also change with time. Sometimes we might need a candidate who needs a clearance or has multiple endorsements for Ruby, tenure at established/strong Rails companies, startup/product experience or has to meet our longevity requirements. To make sure you search is aligned with the specifics of that role/team check the [intake form of that role](https://about.gitlab.com/handbook/hiring/recruiting-framework/#step-3-complete-intake-session-agree-on-priority-level--complete-a-sourcing-session).
+Teams might have different hiring criterias depending on technology, field, product area etc. This can also change with time. Sometimes we might need a candidate who needs a clearance or has multiple endorsements for Ruby, tenure at established/strong Rails companies, startup/product experience or has to meet our longevity requirements. To make sure you search is aligned with the specifics of that role/team check the [kickoff meeting details of that role](https://about.gitlab.com/handbook/hiring/recruiting-framework/#step-3-complete-intake-session-agree-on-priority-level--complete-a-sourcing-session).
 
 Here's an example workflow for sourcing **Product Design** candidates:
 
