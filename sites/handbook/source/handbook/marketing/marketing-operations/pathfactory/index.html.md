@@ -97,7 +97,7 @@ Periodically, significant changes are made or added to PathFactory and processes
 1.  Add the date you made the change if it doesn't already exist.
 1.  Add a bullet with your GitLab username and document the changes you made, making sure to include links to issues or relevant PathFactory links.
 
-## Requesting a content track
+## Request a content track
 
 PathFactory is primarily a demand generation tool that allows leads and prospects to self-nurture with content that is bundled in a personalized experience. As a result, marketing program managers are the DRIs for creating content tracks for use in campaigns, event marketing, and email nurture streams. If you would like to request a content track, please open an issue in the digital marketing programs repository using the [PathFactory request issue template](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=pathfactory_request) and assign it to your designated MPM. If you require a content track outside of this use case, please use the [Generic PathFactory request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/pathfactory_request.md) issue template in the marketing operations project and provide a detailed business case.
 
@@ -207,7 +207,8 @@ Before creating a new content track, decide what type of content track (target v
 
 ### Create a content track
 
-1. When you're ready, navigate to the content track type you want to create (target or recommend), and click the "Create track" button in the top right.
+1. When you're ready, select `Campaign Tools` in the top navigation bar and select the content track type you want to create (target or recommend).
+1. Click the "Create track" button in the top right.
 1. Name your content track. Be descriptive about the topic or campaign that your track will be used for. If you're unsure, review the names of other content tracks to get an idea. The content track name is for internal use only and will not be shown to visitors. Each content track has to have a unique name. You cannot use duplicate names for content tracks.
 1. Choose to clone an existing content track, which will copy all assets from that content track into yours, or simply start from scratch.
 1. Choose the folder where your content track will live. Follow the current folder hierarchy for organization which is currently set up by team. If none of the folders accurately represent your content track, ping `@sdaily` to create a new folder in the structure.
@@ -256,9 +257,9 @@ This is where you will choose how your content track displays to the visitor. No
 
 ##### Form strategy
 
-Form strategy is used on content tracks to collect data from unknown visitors and should only be used when a track entry point is **not** from a webform or landing page (i.e. direct link from digital ad or web promoter). Not all content tracks will or should have form strategy turned on. The forms used in PathFactory are directly tied to currently existing Marketo forms. If the form strategy is implemented, please ensure `Show to Known Visitors` is left **unchecked**. For help with PathFactory forms and workflows, please create an issue in the Marketing Operations repository, apply `MKtgOps` & `PathFactory` labels, and assign `@sdaily`.
+Form strategy is used on content tracks to collect data from unknown visitors and should only be used when a track entry point is **not** from a webform or landing page (i.e. direct link from digital ad or web promoter). Not all content tracks will or should have form strategy turned on. The forms used in PathFactory are directly tied to currently existing Marketo forms. If the form strategy is implemented, please ensure `Show to Known Visitors` is left **unchecked**. For help with PathFactory forms and workflows, please create an issue in the Marketing Operations project and assign `@sdaily`.
 
-**Please Note:** We have [listening campaigns](#listening-campaigns) in Marketo set up to capture consumption of content that would have been gated had PathFactory not been implemented. The listeners also incorporate PathFactory activity into the [MQL scoring model](/handbook/business-ops/resources/#mql-scoring-model). This means that you do not need to add form strategy to a content track if entry point is from a landing page and there are listening campaigns set up for assets in your track that would normally be gated. [Please create an issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues) in the Marketing Operations repo and assign `@sdaily` to set up a lisetning campaign for an asset.
+**Please Note:** We have [listening campaigns](#listening-campaigns) in Marketo set up to capture consumption of content that would have been gated had PathFactory not been implemented. The listeners also incorporate PathFactory activity into the [MQL scoring model](/handbook/business-ops/resources/#mql-scoring-model). All gated content in PathFactory should have a listening campaign in Marketo.
 
 ##### Adding form strategy to a content track
 
@@ -269,7 +270,7 @@ Form strategy is used on content tracks to collect data from unknown visitors an
 **Form strategy for individual assets:**
 
 1.  Click `Add Rule` in the `Content Rules` row. 
-1.  Select the `General Form (2074) LIVE` form. This is the only form that is set up with capture tags to appropriately track data from PathFactory to Marketo. Do not use any other forms.
+1.  Select the `General Form (2074) LIVE` form unless otherwise required according to campaign needs.
 1.  Under `Display Behavior`, click the dropdown and choose the assets where you want the form to show. (**Please Note:** only assets that you have added to the content track will show in the dropdown. If you want the form to show on an asset that *is not* in the track, you will need to add it first.)
 1.  Select the amount of seconds you want to delay before the form shows on the asset. Ten seconds is the default selection.
 1.  Select additional options for the form behavior. If you will be using the content track or individual asset links in an email, you are working with a known audience and therefore should only select `Show to unknown users`. This prevents forms being shown to users who are already known in Marketo. However, if you are using the form on the web or other channels, you'll want to select `Show to unknown users` only.
@@ -280,7 +281,7 @@ Form strategy is used on content tracks to collect data from unknown visitors an
 **Form strategy for content tracks:**
 
 1.  Click `Add Rule` in the `Track Rule` row. 
-2.  Select the `General Form (2074) LIVE` form.
+2.  Select the `General Form (2074) LIVE` form unless otherwise required according to campaign needs.
 3.  Under `Display Behavior` you can choose to serve the form based on the number of content assets viewed or the total time spent on the track. This decision lies with the directly responsible MPM.
 4.  All other options for content track rules are the same for individual assets (see above).
 
@@ -306,7 +307,7 @@ Form strategy is used on content tracks to collect data from unknown visitors an
 
 ## PathFactory forms
 
-The forms used in PathFactory are Marketo forms. They are added to PathFactory using the Marketo script, but they should also include the PathFactory capture tag, Google Tag Manager script to capture form fills in Google Analytics and track form submission back to Marketo, and custom parameters to capture additional information behind the form fill. If a new form is created, the PathFactory capture tag, Google Tag Manager script, and custom paramters **must be applied**. To request a new form, please open an issue using the `pathfactory_request.md` issue template in the marketing operations project and assign it to `@sdaily`.
+The forms used in PathFactory are hardcoded Marketo form script. They are added to PathFactory using the Marketo script, but they should also include the PathFactory capture tags, Google Tag Manager script to capture form fills in Google Analytics and track form submission back to Marketo, and custom parameters to capture additional information behind the form fill. If a new form is created, the PathFactory capture tag, Google Tag Manager script, and custom paramters **must be hardcoded in the script**. To request a new form, please open an issue using the `pathfactory_request.md` issue template in the marketing operations project and assign it to `@sdaily`.
 
 ## PathFactory links
 
