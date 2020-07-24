@@ -112,6 +112,8 @@ Because capabilities are filters for our Buyer Based tiers, there can occasional
 1. Adjust the feature to a different capability to match
 1. Adjust the naming of the capability to better capture the distinction between tiers
 
+Note - it is OK for the features of a capability to be in the listed tier and any lower tier.
+
 ## Lower tiers have more relative value
 
 Our lower tiers have:
