@@ -32,7 +32,7 @@ Questions to be answered:
 2. Do we know the boundaries of work to be accomplished?
 3. Is all research and solution validation complete?
 
-If the answer is “No” to any of the above questions enumerate questions and assign back to PM. 
+If the answer is “No” to any of the above questions enumerate questions and assign back to PM.
 
 If the answer is "Yes" to all of the above questions then team estimates **whether or not the issue
 can be delivered in a single iteration** (ignoring any other work that may be in that same
@@ -49,23 +49,21 @@ fulfill the original issue's requirements.
 
 *If release X.0 ships on April 22, then Week 1 for planning release X.1 begins on or before the week of March 2-6*
 
-Engineers [refine](#refinement-steps-for-engineers) issues assigned to them in the **current+1** release. 
+Engineers [refine](#refinement-steps-for-engineers)[^2] issues assigned to them in the **current+1** release.
 They are encouraged to ask questions and are authorized to push back on PM if issues lack the information and/or designs
 required for successful refinement and execution.
 
 * Engineering output: Move issue into the `workflow::ready for dev` state and unassign themselves if they have completed refinement. Leave issue in `workflow::refinement` and assign the issue to their EM if for any reason refinement could not be completed.
 
-#### *Why are we assigning issues for refinement?*
-
-Issues are assigned to engineers to ensure we have focus on the highest-priority items, as
-determined by Product Management.  This is **not** an assignment to work on the issue.
+[^2]: we assign issues for refinement to ensure we have focus on the highest-priority items, as
+      determined by Product Management.  This is **not** an assignment to work on the issue.
 
 ### Week 2: Release Scope DRAFT Complete
 
 *If release X.0 ships on April 22, then Week 2 for planning release X.1 is March 9-13*
 
 EMs and PMs complete a first pass of **current+1** release.  Rough scope of the release is defined
-based on the PMs **priorities** and EMs **capacity** estimations. 
+based on the PMs **priorities** and EMs **capacity** estimations.
 
 ### Week 3: Release Scope FINAL & Kickoff!
 
@@ -86,9 +84,9 @@ Scope of the next release is finalized by EMs and PMs.
 ## Backlog Refinement
 
 Backlog refinement is the most important step to ensure an issue is ready to move into development
-and that the issue will match everyone's expectations when the work is delivered. 
+and that the issue will match everyone's expectations when the work is delivered.
 
-The goal of the refinement process is to 
+The goal of the refinement process is to:
 *  Identify and resolve outstanding questions or discussions.
 *  Raise any questions, concerns or alternative approaches.
 *  Outline an implementation plan.
@@ -98,42 +96,44 @@ The goal of the refinement process is to
 ### Refinement steps for Engineers:
 
 1.  Issues you need to refine will be assigned to you by your EM. Note the
-    [differences for bugs](#bug-diagnosis).
-2.  Backend/Frontend labels:
+    differences for [bugs](#bug-diagnosis) and [spikes](#refinement-for-spikes).
+1.  Backend/Frontend labels:
     * If a backend engineer is required for the issue, ensure a `backend` label. Otherwise, remove
-      any backend label, assign any relevant labels and you are done. 
+      any backend label, assign any relevant labels and you are done.
     * If a frontend engineer is required for the issue, ensure a `frontend` label. Otherwise,
-      remove any frontend label, assign any relevant labels and you are done. 
-3.  Check the issue for completeness.
+      remove any frontend label, assign any relevant labels and you are done.
+1.  Check the issue for completeness.
     *  Does it have the necessary designs?
     *  Is the functionality clearly articulated and is there a consensus or decision on how it
        should function?
-    *  Are the technical details outlined? 
+    *  Are the technical details outlined?
     *  Has a consensus been reached or decision been made in areas of discussion?
-    *  Are there dependencies? Call those out. 
-4. If the issue is not complete:
+    *  Are there dependencies? Call those out.
+1. If the issue is not complete:
     *  Tag the relevant people that can help complete the issue and outline what is needed. Tag the
        appropriate EM and PM, so they know that the item can not be fully refined.
     * If you are unable to resolve blockers to your refinement within a reasonable amount of time
       (2-3 days dependign on size of initative) see [Failing Refinement](#failing-refinement).
-5. Ensure the issue is fully understood.
+1. Ensure the issue is fully understood.
     *  Update the issue description with the final description of what will be implemented.
-    *  Update the issue description with an [implementation plan](#implementation-plan). 
+    *  Update the issue description with an [implementation plan](#implementation-plan).
     *  Ensure the issue title is accurate for the work being done.
-    *  Open up new issues for 'follow-up' work, or work that was forced out of scope. 
-6. Encourage Community Contributions.
-    *  If the scope of the issue is well defined and there are no dependencies, consider adding [contribution Labels](/handbook/marketing/community-relations/code-contributor-program/#contribution-labels).
-7. Assign a [weight](#weights). 
+    *  Open up new issues for 'follow-up' work, or work that was forced out of scope.
+1. Assign a [weight](#weights).
     * If the issue requires both frontend and backend work, it should be split and weighed independently.
-8. Unassign the issue from yourself & reassign it to your EM.
+1. Encourage Community Contributions.
+    *  If the scope of the issue is well defined and there are no dependencies, consider adding [contribution Labels](/handbook/marketing/community-relations/code-contributor-program/#contribution-labels).
+    * The `~"Good for 1st time contributors"` label is particularly helpful but note that you would
+      be [volunteering to mentor new contributors](/handbook/marketing/community-relations/code-contributor-program/#issues-for-first-time-contributors).
+1. Unassign the issue from yourself & reassign it to your EM.
 
 When you are done refining, anyone should be able to read the issue description and should know
 what the issue is solving, how it is solving the problem, and the technical plan for implementing
-the issue. 
+the issue.
 
 In order for someone to understand the issue and its implementation, they should **not** have to
 read through all the comments. The important bits should be captured in the description as the
-**single source of truth.** 
+**single source of truth.**
 
 
 #### Bug Diagnosis
@@ -147,13 +147,23 @@ Note the following differences when refining bugs:
    Plan](#implementation-plan). It's sufficient just to direct where you expect the code change to be (high or low level).
 
 
+#### Refinement for spikes
+
+1. Do not add weights[^3].
+1. Time-box how much time to spend on the issue.
+1. The deliverable is typically an answer or solution to be used in upcoming issues.
+
+[^3]: a spike doesn't directly add value to users so it shouldn't contribute to our velocity. The
+      information delivered by a spike is what will be useful to deliver direct value to users.
+
+
 ### Failing Refinement:
 
 An issue should fail refinement if it can not be worked on without additional information or
 decisions to be made. To fail an issue:
 1.  Leave a comment on the issue that it can not be worked on, and highlights what still needs to
     be done.
-2.  Unassign yourself if you can not contribute further to issue at the current time. 
+2.  Unassign yourself if you can not contribute further to issue at the current time.
 3.  Assign the `workflow::blocked` label.
 
 
@@ -161,11 +171,11 @@ decisions to be made. To fail an issue:
 
 Weights are used as a *rough* order of magnitude to help signal to the rest of the team how much
 work is involved.  Weights should be considered an artifact of the refinement process, not the
-purpose of the refinement process. 
+purpose of the refinement process.
 
 It is perfectly acceptable if items take longer than the initial weight. We do not want to inflate
 weights, as [velocity is more important than predictability](/handbook/engineering/#velocity-over-predictability)
-and weight inflation over-emphasizes predictability. 
+and weight inflation over-emphasizes predictability.
 
 We do not add weights to bugs as this would be double-counting points. When our delivery contains
 bugs, the velocity *should* go down so we have time to address any systemic quality problems.
@@ -200,6 +210,6 @@ discovery process.
 **Q:** If an issue has both frontend and backend work how should I weigh it?
 
 **A:** Issues that require both frontend and backend work should be broken into multiple implementation issues as
-outlined in the [planning diagrams](diagram.html#plan). 
+outlined in the [planning diagrams](diagram.html#plan).
 
 ## Footnotes
