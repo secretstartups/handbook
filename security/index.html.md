@@ -319,7 +319,7 @@ method to your 1Password account for convenience.
 1. If you do not have access to a vault that is part of the baseline entitlements
   for your role and team, mention `gitlab-com/business-ops/itops` in your onboarding
   issue or in #it-ops on slack. For all other access, create an
-  [access request issue](https://gitlab.com/gitlab-com/business-ops/itops/issue-tracker/issues).
+  [access request issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new).
 1. Use Watchtower to find passwords that need to be changed. Watchtower tells
 users about password breaches and other security problems on the websites they
 have saved in 1Password Teams, so users can take action. This is not something
