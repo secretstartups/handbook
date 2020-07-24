@@ -135,6 +135,17 @@ During an incident, the CMOC will:
 1. Update the status page at regular intervals in accordance with [the severity of the incident](https://about.gitlab.com/handbook/support/workflows/cmoc_workflows.html#frequency-of-updates).
 1. Notify GitLab Community Advocates via Slack using the `@advocates` handle at the start of an incident.
 
+##### How to engage the CMOC?
+
+If, during an incident, EOC or IMOC decide to engage CMOC, they should do that
+by paging the on-call person:
+- Using the `/pd-cmoc` command in Slack
+or
+- Directly from PagerDuty in the [Incident Management - CMOC Rotation](https://gitlab.pagerduty.com/escalation_policies#PNH1Z1L)
+schedule in PagerDuty. That can be done by navigating to [Incidents page in PagerDuty](https://gitlab.pagerduty.com/incidents),
+and then creating the new incident while picking **Incident Management - CMOC** as
+**Impacted Service**.
+
 ### Runbooks
 
 [Runbooks](https://gitlab.com/gitlab-com/runbooks) are available for
