@@ -469,7 +469,6 @@ Based on the Family and Medical Leave Act, or [FMLA](https://www.dol.gov/whd/fml
       - Once the team member has filed a claim for STD, they will need to confirm the start and end dates of the STD.
       - The typical pay for STD is six weeks for a vaginal birth and eight weeks for a c-section. STD can be extended if the team member has a pregnancy related complication (bed rest, complications from delivery, etc).
       - TODO Outline letters to send and process to apply for STD.
-    - For non-birthing parents (including maternity leave when adopting and paternity leave), email total-rewards@ domain with details of your planned leave.
 1. The Compensation and Benefits team will confirm [payroll details](#payroll-processing-during-parental-leave) with the Controller.  
 1. The team member will notify the Compensation and Benefits team on their first day back to work.
 1. TODO Outline process to return the team member to work

@@ -221,6 +221,9 @@ I'm planning to take Parental Leave, what should I do before my leave starts?
 How do I initiate my Parental Leave?
 * Submit your time off by selecting the Parental Leave category in PTO Ninja at least 30 days before your leave starts. Your manager and the Total Rewards team will get notified after you submit your leave. Please note, even though we have a "no ask, must tell" Parental Leave Policy, some countries require extra paperwork or notifications to a PEO so it's important that the Total Rewards team is aware of your leave at least 30 days before your leave starts.
 
+Will I get a confirmation that Total Rewards received my Parental Leave request?
+* Total Rewards won't send you an email or any kind of notification unless we require further information or documents from you (as some entities require further paperwork). 
+
 When does my 16 weeks of Parental Leave start?
 * This period starts on the first day that you take off. This day can be in advance of the day that the baby arrives.
 
@@ -231,13 +234,17 @@ When does my Parental Leave coverage begin if I don't meet the initial requireme
 * GitLab payroll coverage begins once you meet the requirements. Until then, you will not receive pay.  If for example, you are someone who qualifies after 6 months at Gitlab and then goes on leave at the start of your 120th day at GitLab, you would not receive payment from GitLab for the first 60 days. You would receive payment from GitLab for up to 60 additional days taken within a year from the birth event.
 
 Can I change the dates of my Parental Leave?
-* Absolutely, you can edit your Parental Leave dates via PTO Ninja.
+* Absolutely, you can edit your Parental Leave dates via PTO Ninja. Total Rewards will receive a notification everytime you edit your Parental Leave dates so no need to follow up with an email.
 
 Is the 16-week balance per birth or adoption event?
 * Yes, you may take up to 16 weeks of Parental Leave per birth or adoption event.
 
 I haven't been at GitLab for 6 months, can I go on Paid Time Off to spend time with my family?
 * Of course, please refer to our [Paid Time Off policy](https://about.gitlab.com/handbook/paid-time-off/#paid-time-off).
+
+What support is available after I return from Parental Leave?
+* This [handbook page](/handbook/paid-time-off/#returning-from-work-after-parental-leave) has resources for team members returning to work after parental leave.
+* You may [return to work at 50% capacity](handbook/paid-time-off/#returning-to-work-at-50-capacity). Please note, if you wish to use your Parental Leave on a part-time basis, you may arrange this via PTO Ninja (for instance, taking 2 days of Parental Leave out of 5 weeks for a certain period of time). If you have used up your Parental Leave balance of 16 weeks and you wish to return to work on a part-time capacity, discuss your options with your manager first.
 
 Is there anything else that I need to know to initiate my Parental Leave?
 * Some countries require extra paperwork or have specific leave requirements, which are subject to change as legal requirements change. Please take a look at your country's leave policy:
