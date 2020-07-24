@@ -170,9 +170,9 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
 
 1. You'll be redirected to the vacancy in Greenhouse, where you can review the vacancy, make any changes, or make any updates.
 
-#### Intake Call
+#### Kick-off Session
 
-   Details about the Intake Call are found [here](/handbook/hiring/recruiting-framework/req-overview/#step-3-complete-intake-session-agree-on-priority-level--complete-a-sourcing-session).
+Details about the Kick-off Session are found [here](/handbook/hiring/recruiting-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-sessionn).
 
 #### Publishing the Job
 
