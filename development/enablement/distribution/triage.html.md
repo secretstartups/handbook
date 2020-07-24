@@ -132,16 +132,28 @@ triage duty can be summarized as follows
 
 Copy and paste into issues where appropriate
 
-##### For problems not related to package installation and configuration
+##### For problems not related to the GitLab codebases
 
 If someone is asking for support in the omnibus-gitlab project, point them to the correct place to look
 
 ```
-Provided description seems to point to this issue not being related to this project. This can be the case when installation and `gitlab-ctl reconfigure` run went without issues, but your GitLab instance is still giving 500 error page with an error in the log.
+We are sorry you are having troubles. The provided issue description seems to indicate that the problem is not related to this project. Commonly this indicates other troubles such as network connectivity or filesystem permissions.
 
-For this reason, I will close this issue and you can check on [how to find further help](https://about.gitlab.com/get-help/) on the GitLab website.
+For this reason, I will close this issue and recommend checking out [how to get further help](https://about.gitlab.com/get-help/) on the GitLab website.
 
 /close
+```
+
+##### For problems related to GitLab code but not specifically Omnibus
+
+If someone is asking for help with a bug that seems related to GitLab code other than Omnibus
+
+```
+We are sorry you are having troubles. The provided issue description seems to indicate that the problem is not related to Omnibus.
+
+For this reason, we are moving this report to a more appropriate issue queue.  Please review the bug templates for the new project in case they require additional information to help diagnose the problem.
+
+We also recommend checking out [how to get further help](https://about.gitlab.com/get-help/) on the GitLab website.
 ```
 
 ##### For issues that lack enough information
