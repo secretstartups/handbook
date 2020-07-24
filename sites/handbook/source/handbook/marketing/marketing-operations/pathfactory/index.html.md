@@ -26,14 +26,14 @@ PathFactory (PF) is leveraged as our [content library & content distribution sys
 
 ## Access   
 
-The Marketing Operations team is responsible for managing access requests & provisioning the appropriate level of access for each role/function. Providing access is generally hanlded via baseline entitlement; however, if you need access and it is *not* part of your roles baseline entitlement please open a [`Single Person Access Request` issue](/handbook/business-ops/it-ops-team/access-requests/#single-person-access-request) and provide business reason why access is needed.   
+The Marketing Operations team is responsible for managing access requests & provisioning the appropriate level of access for each role/function. PathFactory is not provisioned as a baseline entitlement. If you or your team require access, please open a [`Single Person Access Request` issue](/handbook/business-ops/it-ops-team/access-requests/#single-person-access-request) and provide business reason why access is needed. For certain permissions or roles, you may be required to go through training before access is provisioned. 
 
 **User Roles**   
 
-There are three levels of access - Admin, Author, Reporter - which are granted based on the persons' role and team function within GitLab. **All access levels** have the ability to view the analtyics page within the tool. 
+There are three levels of access - `Admin`, `Author`, `Reporter` - which are granted based on the persons' role and team function within GitLab. **All access levels** have the ability to view the analtyics page within the tool. 
 
 - `Admin` access is granted to Marketing Operations only.  
-- `Author` access allows user to build, edit and publish content tracks applying existing tags to the assets. This level of access is granted to the Marketing Program Managers and select Content team members.  
+- `Author` access allows user to build, edit and publish content tracks applying existing tags to the assets.
 - `Reporter` access provides general visibility to content within PathFactory but does not allow end user to create or modify any of the content, tracks or tags. This level of access is granted for the general GitLab team member both within Marketing and elsewhere who have a business need to have access.  
 
 ## Training
@@ -99,7 +99,7 @@ Periodically, significant changes are made or added to PathFactory and processes
 
 ## Requesting a content track
 
-PathFactory is primarily a demand generation tool that allows leads and prospects to self-nurture with content that is bundled in a personalized experience. As a result, marketing program managers are the DRIs for creating content tracks for use in campaigns, event marketing, and email nurture streams. If you would like to request a content track, please open an issue in the digital marketing programs repository using the [PathFactory request issue template](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=pathfactory_request) and assign it to your designated MPM. 
+PathFactory is primarily a demand generation tool that allows leads and prospects to self-nurture with content that is bundled in a personalized experience. As a result, marketing program managers are the DRIs for creating content tracks for use in campaigns, event marketing, and email nurture streams. If you would like to request a content track, please open an issue in the digital marketing programs repository using the [PathFactory request issue template](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=pathfactory_request) and assign it to your designated MPM. If you require a content track outside of this use case, please use the [Generic PathFactory request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/pathfactory_request.md) issue template in the marketing operations project and provide a detailed business case.
 
 ## Content library
 
@@ -109,7 +109,6 @@ PathFactory is primarily a demand generation tool that allows leads and prospect
 1. Use the search to determine if it’s already been added. If you try to add an asset that's already in the library, the system will tell you it already exists.
 1. Ensure you have the most valuable version of the asset (blog post vs. case study or PDF).
 1. Ensure you have the most recent version of the asset.
-1. Do not add web pages to the content library (e.g. `/product` or `/solutions`) that have an active website promoter.
 
 ### How to upload content
 
@@ -137,7 +136,7 @@ PathFactory is primarily a demand generation tool that allows leads and prospect
     1.  **Please Note:** DO NOT change a custom URL slug that is part of a `[LIVE]` content track. You can see whether an asset is part of a live content track by clicking on it in the content library and scrolling to the bottom of the preview pane. This action can affect any links to this item that have been previously shared and break the asset consumption tracking via [listening campaign](#listening-campaigns). 
     1. If a URL slug needs to be modified, please open an issue, assign to `@sdaily`.  
 1. We force `https://` to content tracks by default. As a result, all assets must use `https://` in the link to work in the content track properly. If you upload content that is *not secure*, it *will not* show a lock icon next to the URL and it will not work in a secure content track. Please manually add `https://` if it is not already there.
-1. If you need to replace an asset source, you can do so from the content library. Select the asset from the content library, then from the preview pane on the left under `Source URL`, click the pencil/edit icon, then either paste the new URL for the asset or upload the new file.
+1. If you need to replace an asset source but keep the same link, you can do so from the content library. Select the asset from the content library, then from the preview pane on the left under `Source URL`, click the pencil/edit icon, then either paste the new URL for the asset or upload the new file.
 
 ### Bulk upload
 
