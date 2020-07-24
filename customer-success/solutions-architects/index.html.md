@@ -118,21 +118,23 @@ Enterprise Solutions Architects typically support two sales teams made up of Sal
 
 #### SA/TAM engagement overlap
 
-The SA owns all pre-sales technical relationships and activities. The SA quarterbacks technical conversations prior to the sale. TAM involvement prior to the sale models the expectations for customer relationships after the sale. TAM involvement should supplement, not displace, SA pre-sales ownership of the account.  
+Generally, the SA owns all pre-sales technical relationships and activities while a TAM owns growth after an initial sale.  However, the SA will still be involved with the customer after an initial sale in several circumstances. Likewise, a TAM will become involved prior to a sale for context and collaboration.
 
-TAM engagement prior to the sale should occur in the following situations:  
+TAM engagement prior to the sale should occur in the following situations: 
 
-* During POV kickoff or when appropriate in deep conversations on technology if no POV will occur
+* At the POV completion & presentation meeting when the results are reviewed and next steps agreed upon
 * When a shared Slack channel is created for the customer
 * A shared customer issue tracking project has been created that will affect the account long-term
 * As requested by the SA if the TAM has a specific subject matter expertise relevant to the conversation
 
-The TAM owns the account post-sale. SA's are to remain involved in the following situations:  
+
+
+The TAM owns the account post-sale. SA's remain involved in the following situations: 
 
 * Development of expansion plans with the SAL and TAM
-* A new POV or product evaluation begins for a single team or an enterprise-wide upgrade - anything affecting IACV may require SA involvement
-* Any product license expansions that require overviews, education and competitive insights prior to close
-* Any professional services are being discussed and an SOW may required drafting
+* A new POV or product evaluation begins for a single team or an enterprise-wide upgrade
+* Any product license expansion that require overviews, education and competitive insights prior to close
+* Any Professional Services that are being discussed and may require an SOW
 * If a TAM is over-committed or unable to support a customer request, the SA may be requested to assist
 * Support of GitLab days or other on-site evangelism of GitLab at customer sites
 
@@ -208,3 +210,17 @@ Customer Success Team (SA/TAM) engagement for customer interactions, RFP's, audi
 ### Triage of Issues
 
 The SA team associated with each region will monitor the triage board and/or an associated Slack channel for incoming work and will contact the appropriate Customer Success team members via Slack, email or phone depending on required skills, schedules and availability. SLA for activity is 48 hours unless the issue is marked with an 'Expedite' label.
+
+## Request Solutions Support from Product
+
+When a prospect or customer have required capabilities that do not map directly to our product offering, Solutions Architect’s first step is to explore solutions or work-arounds that would satisfy their requirements with our current toolset. 
+If the SA is unable to determine an approach that works for the prospect, the next best action is to reach out to the Product Manager. To determine what Product Manager is appropriate, review the [Product Categories handbook page](https://about.gitlab.com/handbook/product/product-categories/).
+
+To be efficient as possible, this is the recommended approach:
+1) **Document**: Document the use-case the prospect is trying to solve in an issue on their [Account Management Project](https://gitlab.com/gitlab-com/account-management). Include the customer business objectives, existing approach, and communication between the prospect (call recordings, emails, etc).
+
+2) **Exploration**: If applicable, document the solutions or work-arounds that were explored with the customer and why that was not sufficient.
+
+3) **Suggestion**: Reach out to the Product Manager with a link to the Account Management issue and request an internal review. 
+
+4) **Communication**: Set up a call with the prospect or customer to determine the next best steps.

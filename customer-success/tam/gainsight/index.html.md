@@ -44,7 +44,7 @@ If you are logging in through Salesforce, you can also quickly open the Salesfor
 
 To access Gainsight directly, go to [gitlab.gainsightcloud.com](https://gitlab.gainsightcloud.com/) and when prompted for your username and password, enter _only_ your GitLab email address. As soon as it is entered, the screen should change to indicate that you are using single sign-on, and when you click "log in" it will redirect you to Okta.
 
-- If you need to request access to Gainsight, fill out an [Access Request](/handbook/business-ops/employee-enablement/it-ops-team/access-requests/#single-person-access-request) and have your manager add the manager approved label.
+- If you need to request access to Gainsight, fill out an [Access Request](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#single-person-access-request) and have your manager add the manager approved label.
 - If you need help locating the Gainsight NXT tab in Salesforce or the Gainsight Okta tile, submit an issue using the [Gainsight Request Template](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=).
 
 ### Confirm your timezone
@@ -162,7 +162,7 @@ To submit a support ticket about Gainsight, you have two options.
 
 Gainsight is synched with Salesforce so that everything that happens in Gainsight is pulled into Salesforce, allowing Salesforce to remain our SSOT but also allowing us to not have to duplicate information. Gainsight is also integrated and syncs with Zendesk so TAMs can view customer support tickets within Gainsight.
 
-**Salesforce** syncs are queued at 12AM Pacific Time (7AM UTC). The full sync typically is completed by 4AM PT (11AM UTC). Note that "Last Activity Date" field syncs every two hours. **Zendesk** syncs are queued to run every day at 12AM Pacific Time (7AM UTC).
+**Salesforce** syncs are queued at 12AM Pacific Time (7AM UTC). The full sync typically is completed by 4AM PT (11AM UTC). Note that "Last Activity Date" field syncs every two hours (based on "call" or "Meeting" type). **Zendesk** syncs are queued to run every day at 12AM Pacific Time (7AM UTC).
 
 If you see a data issue (e.g. account hierarchy, ARR, etc.), check if this is the same information that's in Salesforce. If so, use Salesforce chatter and at-mention `sales-support` with the items that need to be updated and/or reviewed. If the issue is specifically Gainsight and not sourced from Salesforce, pull in CS Ops.
 
