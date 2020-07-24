@@ -1043,7 +1043,7 @@ Values are a framework for distributed decision making; they allow you to determ
 
 ## How to scale the business while preserving GitLab values? 
 
-*For certain business decisions or projects (such as [compensation](/handbook/total-rewards/compensation/) and [end-point management](/handbook/business-ops/employee-enablement/it-ops-team/endpoint-management/) ), GitLab team members may have a lot of opinions and interest, 
+*For certain business decisions or projects (such as [compensation](/handbook/total-rewards/compensation/) and [end-point management](/handbook/business-ops/employee-enablement/onboarding-access-requests/endpoint-management/) ), GitLab team members may have a lot of opinions and interest, 
 and they want to provide their feedback and comments. 
 On the other hand,  it might be challenging for the project DRI to digest and respond to all these inputs. 
 What should you do in this scenario?*  
