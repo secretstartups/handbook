@@ -106,11 +106,19 @@ GitLab Canada Corp's statutory vacation requirements are found on the [GitLab PT
 
 ## Parental Leave
 
-**Manitoba Statutory General Entitlement:**
+**Statutory General Entitlement:**
 
 * Employees who have worked at GitLab for at least seven consecutive months are entitled to [17 weeks of maternity leave and/or 63 weeks of parental leave](https://www.gov.mb.ca/labour/standards/doc,parental-leave,factsheet.html).
 * Maternity leave is classified as leave taken by mothers near the end of a pregnancy or immediately afterwards. Parental leave is classified as leave taken by fathers and mothers to care for a child after birth or adoption. 
 * If an employee wishes to take the full 63 weeks of parental leave, the employee will receive [100% paid leave from GitLab for 16 weeks, if eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) and the rest will be unpaid.
+
+**GitLab Parental Leave Payments and Employment Insurance**
+
+The Employment Insurance benefit is government financial assistance to parents who are away from work to care for their newborn or newly adopted child or if they are pregnant or have recently given birth.
+
+If you are eligible to receive Employment Insurance during your parental leave, GitLab will top up the difference to ensure you are receiving full pay for up to 16 weeks of your parental leave. Your Employment Insurance application must indicate that you are receiving supplement pay from GitLab. The combined amount of your Employment Insurance payments and top up payments from GitLab will not exceed your normal weekly earnings. The top up payment will also not be used to reduce other statutory accumulated benefits such as sick leave, vacation leave or severance pay.
+
+If you are ineligible to receive Employment Insurance during your parental leave, GitLab will pay you 100% of your pay for up to 16 weeks of your parental leave. Per the statutory requirements in Canada, you will be ineligible to receive any Employment Insurance payments if you are receiving full parental leave pay from GitLab. If you have further questions, please email Total Rewards.
 
 ## Canada Pension Plan (CPP)
 
