@@ -245,7 +245,7 @@ Upon completion of each certification program, partners will earn a badge and wi
 
 The GitLab Partner Program helps develop your practice to best fit your business model. You can earn one-time and recurring revenues from product and services sales, referrals, and services delivery and resale.
 
-To view the GitLab Partner Program Discount and Referral Fee Table please visit the [GitLab Partner Portal](https://partners.gitlab.com) (must be an authorized Partner) and access discount table in the Program Documents folder in the Asset Library.
+To view the GitLab Partner Program Discount and Referral Fee Table please visit the [GitLab Partner Portal](https://partners.gitlab.com) (must be an authorized Partner) and access discount table in the Program Documents folder in the Asset Library.  Note, no discounts are given on sales of Bronze / Starter sales or renewals.
 
 Authorized Public Sector Partner can earn one-time and recurring revenues from product and services sales, referrals, as well as services deliver and resale.  To view Public Sector Discounts please visit the [GitLab Partner Portal](https://partners.gitlab.com) (must be an authorized Public Sector Partner) and access discount table in the Program Documents folder in the Asset Library.
 
