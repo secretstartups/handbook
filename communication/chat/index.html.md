@@ -43,7 +43,7 @@ To raise an issue with a specific team, please use below most commonly used chan
 ### Channel Categories
 
 #### Account Channels (a_)
-These channels (prefixed with a `a_`) are for team members to collaborate and communicate regarding the account for a customer organization. In some cases, they are marked as private or we are connected to customer's own Slack workspace using Shared Channels. To request a new channel or to make changes to existing channels, please use the [access request process](/handbook/business-ops/employee-enablement/onboarding-access-requests/access-requests/#slack-google-groups-1password-vaults-or-groups-access-requests).
+These channels (prefixed with a `a_`) are for team members to collaborate and communicate regarding the account for a customer organization. In some cases, they are marked as private or we are connected to customer's own Slack workspace using Shared Channels. To request a new channel or to make changes to existing channels, please use the [access request process](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#slack-google-groups-1password-vaults-or-groups-access-requests).
 
 Many customers that require coordination across GitLab teams have dedicated channels in slack to discuss that customer's needs internally. Those channels are all postfixed with `-internal`.
 
