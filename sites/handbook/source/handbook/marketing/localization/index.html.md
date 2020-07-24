@@ -35,9 +35,9 @@ To ensure translated content makes contextual and technical sense, we have inter
 
 | Language | Reviewers |
 | ------ | ------ |
-| French | @k33g | @aseguillon | @c.dios |
+| French | @k33g | @aseguillon | @c.dios | @jsorensen
 | German | @amimmo | @svij | @jdsmits |
-| Japanese | @toshitakaito |
+| Japanese | @toshitakaito | @jsorensen | @ljlane 
 
 ### Priority Countries
 
