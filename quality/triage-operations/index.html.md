@@ -50,8 +50,8 @@ There is a large amount of automation that uses stage, group, and category label
 
 _Regarding legacy team labels, the mapping can be seen in [Automation to ensure that issues and MRs with legacy team labels have a 1:1 mapping to their devops stage or group label](https://gitlab.com/gitlab-org/quality/triage-ops/issues/201)._
 
-Our triage bot will automatically infer stage and group labels based on the
-category/feature and team labels already set on an issue. This is available for **open** issues.
+Our triage bot will automatically infer section, stage, and group labels based
+on the category/feature and team labels already set on an issue. This is available for **open** issues.
 
 The most important rules are:
 
@@ -59,6 +59,7 @@ The most important rules are:
 * A group label is chosen only if the highest group match from its category labels is > 50%.
 * A group label is chosen only if it matches the already set stage label (if applicable).
 * A stage label is set based on the chosen or already set group label.
+* A section label is set based on the chosen or already set group or stage label.
 * The bot leaves a message that explains its inference logic.
 
 The following logic was initially implemented in
@@ -87,6 +88,10 @@ graph TB;
   G{Group is detected based on category labels<br>with a match rate > 50% among<br>all category labels?} -- Yes --> X7[Set group and<br>stage labels.];
   G -- No --> X8[Manual triage<br>required.];
 ```
+
+After the above inference is done, a section label will be added based on the
+inferred or existing stage or group label. An explanation will not be added
+in this step if the inferred labels contain only a section label.
 
 Check out the
 [list of actual use-cases](https://gitlab.com/gitlab-org/quality/triage-ops/merge_requests/155#test-cases)
