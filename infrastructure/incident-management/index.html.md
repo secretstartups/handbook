@@ -157,7 +157,16 @@ If you are a GitLab team member and would like to report a possible incident rel
 
 #### Report an Incident via Slack
 
-Type `/incident declare` in Slack (e.g `#production`) and follow the prompts. The incident declaration is orchestrated through IMA (incident management automation) and will create an incident issue.
+Type `/incident declare` in the `#production` channel in GitLab's Slack and follow the prompts (detailed description and screenshot below). This will open an incident issue and allows a GitLab team member to page the EOC and/or IMOC about the incident issue.
+
+![Incident Declaration Slack window](incident-declare-slack.png)<br/>*Incident Declaration Slack window*
+
+| Field | Field Instructions |
+|---|---|
+| Title | This is the title of the incident issue, place a brief description of what you are witnessing on GitLab.com |
+| Detailed Description | Add any additional details here to assist the SRE responding to the incident |
+| Severity | If unsure about the severity to choose, but you are seeing a large amount of customer impact, please select S1. More details here: [Incident Severity](#incident-severity). |
+| Tasks | You can safely ignore the first two options, if you'd like to ensure that the incident manager on-call (IMOC) and/or the communication manager on-call (CMOC) is notified via a page to their mobile device, select one or both of those options. Note: the engineer on-call is notified via this workflow. |
 
 
 #### Report an Incident via Email
@@ -258,7 +267,7 @@ Status can be set independent of state. The only time these must align is when a
 
 ### Incident Severity
 
-**Incident severities encapsulate the impact of an incident and scope the resources allocated to handle it**. Detailed definitions are provided for each severity, and these definitions are reevaluated as new circumstances become known. Incident management uses our standardized severity definitions, which can be found under our [issue workflow documentation](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#severity-labels).
+**Incident severities encapsulate the impact of an incident and scope the resources allocated to handle it**. Detailed definitions are provided for each severity, and these definitions are reevaluated as new circumstances become known. Incident management uses our standardized severity definitions, which can be found under [availability severities](/handbook/engineering/quality/issue-triage/#availability).
 
 ### Alert Severities
 
