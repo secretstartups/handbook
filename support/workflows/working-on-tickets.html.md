@@ -331,10 +331,9 @@ assignee will be automatically reopened by the trigger
 Tickets in on-hold status _with_ an assignee will be automatically reopened in 4
 days by the automation
 [`Reopen on-hold tickets after 4 days`](https://gitlab.zendesk.com/agent/admin/automations/360028978393).
-1. If a user's reply is the last one in the ticket, do not set it to the On-hold
-2. status silently due to the same reasons as stated above in the
-[Zendesk SLAs and Breach Alerts](#zendesk-slas-and-breach-alerts)). Instead,
-reply to the ticket while also changing the status.
+
+If a user's reply is the last one in the ticket, do not set it to the On-hold status silently due to the same reasons as stated above in the
+[Zendesk SLAs and Breach Alerts](#zendesk-slas-and-breach-alerts)). Instead reply to the ticket while also changing the status.
 
 ### Merging Tickets
 
