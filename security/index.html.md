@@ -145,8 +145,8 @@ What should you do if you receive a potential phishing email or text from GitLab
 
 **The following instructions are for Apple (MacBook Pro or Air) users. Linux users please go to the [Linux Tools](https://about.gitlab.com/handbook/tools-and-tips/linux/#linux-setup-future) section of the handbook.**
 
-1. Set up **full disk encryption** with [FileVault] (for details, refer to [Apple Support](https://support.apple.com/en-in/HT204837)). GitLab is currently utilizing [JAMF](/handbook/business-ops/employee-enablement/onboarding-access-requests/endpoint-management/) for endpoint management and can assist with this step. 
-1. Set up a screen saver with **password lock** on your laptop with a timeout of 5 minutes or less. GitLab is currently utilizing [JAMF](/handbook/business-ops/employee-enablement/onboarding-access-requests/endpoint-management/) for endpoint management and can assist with this step. 
+1. Set up **full disk encryption** with [FileVault] (for details, refer to [Apple Support](https://support.apple.com/en-in/HT204837)). GitLab is currently utilizing [JAMF](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/) for endpoint management and can assist with this step. 
+1. Set up a screen saver with **password lock** on your laptop with a timeout of 5 minutes or less. GitLab is currently utilizing [JAMF](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/) for endpoint management and can assist with this step. 
 1. Never leave your unlocked computer **unattended**. Activate the screensaver,
   lock the desktop, or close the lid.
 1. For backups on macOS follow this tutorial: [How to use Time Machine](https://support.apple.com/en-us/HT201250)
@@ -162,14 +162,14 @@ What should you do if you receive a potential phishing email or text from GitLab
 1. Do not install software with many known security vulnerabilities. At this point GitLab's [vendor security review](/handbook/engineering/security/security-assurance/security-compliance/third-party-vendor-security-review.html) scope does not include services individually deployed on endpoint devices. After a decision regarding deployment of an endpoint management solution is made the process will be redesigned accordingly and services, where applicable, will be retroactively reviewed. Please ensure you continue to follow the requirements defined in the [acceptable use policy](/handbook/people-group/acceptable-use-policy/).
 1. Enable automatic software updates for security patches. On macOS, this is
   found under "System Preferences" -> "Software Update", "Automatically keep
-  my Mac up to date". GitLab is currently utilizing [JAMF](/handbook/business-ops/employee-enablement/onboarding-access-requests/endpoint-management/) for endpoint management and can assist with this step. 
+  my Mac up to date". GitLab is currently utilizing [JAMF](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/) for endpoint management and can assist with this step. 
 1. Enable your system's built in firewall. In macOS, this can be found in
    `System Settings` -> `Security & Privacy` under the `Firewall` tab. It is
    recommended to select "Block all incoming connections"; however, if choosing
    not to block all incoming traffic, apply the following configuration (see screenshot):
     * Deselect "Automatically allow downloaded signed software to receive incoming messages"
     * Select "Enable stealth mode"
-    * GitLab is currently utilizing [JAMF](/handbook/business-ops/employee-enablement/onboarding-access-requests/endpoint-management/) for endpoint management and can assist with this step. 
+    * GitLab is currently utilizing [JAMF](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/) for endpoint management and can assist with this step. 
 
 ![macOS Firewall Settings](macos_firewall_settings.png)
 
