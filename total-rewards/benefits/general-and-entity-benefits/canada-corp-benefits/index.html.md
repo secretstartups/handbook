@@ -151,7 +151,7 @@ Canada Life has designed [tools and services](https://www.greatwestlife.com/you-
 
 ## Canada Life User Portal and App 
 
-Canada Life has a [user portal](canadalife.com) and App available to download that allows you to access your benefits information and ID cards. Please see the [brochure](https://drive.google.com/file/d/1ohL0svax7CEyfuNl1Xn0HcURwJ9I5HYm/view?usp=sharing) for more information and instructions on registering. 
+Canada Life has a [user portal](https://www.canadalife.com/) and App available to download that allows you to access your benefits information and ID cards. Please see the [brochure](https://drive.google.com/file/d/1ohL0svax7CEyfuNl1Xn0HcURwJ9I5HYm/view?usp=sharing) for more information and instructions on registering. 
 
 ## Frequently asked questions
 
