@@ -38,7 +38,7 @@ so support-ops can double check to ensure there is nothing blocking the sync.
 
 ## Shared Organizations
 
-You have the option of allowing all of the members in an organization to see each other's tickets. This is referred to as a shared organization. Read more about this process in the [Support Engineer Ops page](https://about.gitlab.com/handbook/support/support-ops/#shared-organizations-in-zendesk) 
+You have the option of allowing all of the members in an organization to see each other's tickets. This is referred to as a shared organization. Read more about this process in the [Support Engineer Ops page](https://about.gitlab.com/handbook/support/support-ops/processes/zendesk.html#shared-organization-process) 
 
 ## Adding users to organizations
 
