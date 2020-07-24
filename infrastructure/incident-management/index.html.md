@@ -33,7 +33,7 @@ resolution. To that end, incident management provides:
 1. a **root-cause analysis** (RCA),
 1. and a post-incident review that assigns a **severity** classification after assessing the impact and scope of the incident.
 
-When an [incident starts](#declaring-an-incident): we use the #incident-management slack channel for chat based communication.  There is a Situation Room Zoom link in the channel description for incident team members to join for synchronous communication.  There should be a link to an incident issue in the #incident-management channel.  We prefer to keep status updates and main comments in a thread from that issue announcment.  This makes it easier for incoming oncall for EOC and CMOC to look for status on handoffs.
+When an [incident starts](#declaring-an-incident): we use the #incident-management slack channel for chat based communication.  There is a Situation Room Zoom link in the channel description for incident team members to join for synchronous communication.  There should be a link to an incident issue in the [`#incident-management`](https://gitlab.slack.com/archives/CB7P5CJS1) channel.  We prefer to keep status updates and main comments in a thread from that issue announcment.  This makes it easier for incoming oncall for EOC and CMOC to look for status on handoffs.
 
 
 ### Ownership
