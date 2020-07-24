@@ -25,7 +25,7 @@ GitLab-managed assets are provided to conduct GitLab business with consideration
 
 Those receiving GitLab-provided assets are responsible for exercising good judgment when using GitLab-managed computers and accessing GitLab-managed data.
 
-As per the [onboarding issue procedures](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding.md) outlined in our handbook, evidence of device encryption and device serial number must be provided to IT Ops prior to the completion of onboarding period. All MAC laptops procured by GitLab will come configured with [JAMF](/handbook/business-ops/employee-enablement/it-ops-team/endpoint-management/). GitLab team members procuring and expensing MAC Laptops will require [JAMF](/handbook/business-ops/employee-enablement/it-ops-team/endpoint-management/) to be installed. Please work with IT Ops to ensure [JAMF](/handbook/business-ops/employee-enablement/it-ops-team/endpoint-management/) is properly installed. 
+As per the [onboarding issue procedures](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding.md) outlined in our handbook, evidence of device encryption and device serial number must be provided to IT Ops prior to the completion of onboarding period. All MAC laptops procured by GitLab will come configured with [JAMF](/handbook/business-ops/employee-enablement/onboarding-access-requests/endpoint-management/). GitLab team members procuring and expensing MAC Laptops will require [JAMF](/handbook/business-ops/employee-enablement/onboarding-access-requests/endpoint-management/) to be installed. Please work with IT Ops to ensure [JAMF](/handbook/business-ops/employee-enablement/onboarding-access-requests/endpoint-management/) is properly installed. 
 
 ### Security and Proprietary Information
 
@@ -76,7 +76,7 @@ All personal mobile computing devices used to access GitLab-managed data, includ
 
 #### Unable to Use Company Laptop
 
-For new employees who have not received a company laptop, there are [exception processes](/handbook/business-ops/it-ops-team/#exception-processes) for using non-company devices.
+For new employees who have not received a company laptop, there are [exception processes](/handbook/business-ops/employee-enablement/onboarding-access-requests/#exception-processes) for using non-company devices.
 
 The same exception processes apply in the case of a corporate laptop being unavailable due to loss, theft or disrepair. See [lost or stolen procedures](/handbook/security/#panic-email) for additional information. While the exception processes are considered a temporary solution, you still need to make sure the non-company system meets [basic configuration standards](/handbook/security/#laptop-or-desktop-system-configuration), and a Microsoft Windows system is still not allowed access under any circumstances.
 
