@@ -80,7 +80,7 @@ When building integrations to partners it is possible to make exceptions to our 
 
 ### Capabilities
 
-We've found that bundling our features within tiers into capabilities [resulted in improved conversion performance on our pricing page](ISSUE LINK). While it is how we present the value of our tiers, this capability based representation serves as an additive filter for, and is not a replace of, our Buyer Based Tiering decision.
+We've found that bundling our features within tiers into capabilities [resulted in improved conversion performance on our pricing page](https://gitlab.com/groups/gitlab-com/marketing/growth-marketing/-/epics/11). While it is how we present the value of our tiers, this capability based representation serves as an additive filter for, and is not a replace of, our Buyer Based Tiering decision.
 
 Here is a video of the CEO discussing this concept with a Product Leader.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SI-IL7D5YPA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
