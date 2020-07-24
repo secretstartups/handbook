@@ -22,3 +22,9 @@ Sigstr appends campaign banners to Outreach signatures every 24 hours. If they a
 - First name
 - Last name
 - Email address
+
+## Banner ad image best practices
+
+ The image will be constrained to half the size to ensure high density of pixels. Use the same banner ad size for all campaigns.
+
+- 600-900 pixels wide x 120-240 pixels tall
