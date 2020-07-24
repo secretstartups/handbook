@@ -78,7 +78,7 @@ This factor captures the general timeline for how much time and effort is requir
 ## Infrafin Board
 
 ### Short Term Saving Initiatives Process
-Some savings initiatives can happen on a much horter time horizon, either because of the urgency or because we can handle the implmenetation from within the infrastructure department. Some examples of this include purchasing CUD from GCP, or AWS savings plan to optimize the cost of our servers across the whole company, or investigating and fixing specific billing anomalies that we see over time.
+Some savings initiatives can happen on a much horter time horizon, either because of the urgency or because we can handle the implementation solely from within the infrastructure department. Some examples of this include purchasing CUD from GCP, or AWS savings plan to optimize the cost of our servers across the whole company, or investigating and fixing specific billing anomalies that we see over time.
 
 #### 1. Initial Data Exploration
 In this scenario, the issue is already known,  potentially because of earlier data exploration or other work, but there is still usually some data exploration to do to understand these issues better.
@@ -88,11 +88,11 @@ Quantify what the impact of the issue at hand is
 
 #### 3. Identify and Partner with SME
 
-Partner with whoever the SME for the area is to find out how the issue can be resolved.
+Partner with whoever the SME for the area is to find out how the issue can be resolved. If the SME is unknown, the infra analyst will work with the Infra PM to find who the right person is.
 
 #### 4. Resolve the issue
 
-Due to the nature of being bucketed as a short term initiative, these should be relatively low effort, high impact initiatives and generally these should be completed as soon as possible. The weights on these issue will automatically be set to 8
+Due to the nature of being bucketed as a short term initiative, these should be relatively low effort, high impact initiatives and generally these should be completed as soon as possible. The weights on these issue will automatically be set to 7
 
 #### 5. Follow-up
 After the change has been made, confirm the numbers match close to what was expected.
@@ -104,37 +104,39 @@ These are initiatives that require cross-team collaboration and major changes in
 
 #### 1. Initial Data Exploration
 
-The first step is to take a macro view of our infrastructure to understand where we are spending most of our money today, how fast is it growing, and where are we likely to spend more money in the future
+If the problem area is not well understood, the first step to discovering one of these initiatives is to take a macro view of our infrastructure to understand where we are spending most of our money today, how fast is it growing, and where are we likely to spend more money in the future.
 This can be done using whatever tools are available, but today this is mainly done by going into the billing consoles for the various vendors to get a better understanding of where our spend is going.
+
+In the case that an initiative is already well understood you can skip steps 1-2 and move directly to step 3.
 
 #### 2. Decide on focus area
 
-There are many different factors to choose from when it comes to deciding on which issues to tackle, but the main factors in descending order of important would be:
+There are many different factors to choose from when it comes to deciding on which issues to tackle, but the main factors which align with our weighting system in descending order of importance would be:
 
 - Cost
+- Future Potential Cost
 - Customer impact
-- Current and future potential growth
-- Ease of solution implementation
+- Effort Required
 
-There are some ways we can condense this data down to make it easier, such as by using a weighted MoM growth metric around certain dimensions to see what areas of our spend are both very high and also continuing to grow at a rapid pace.
+There are some ways we can condense this data down to make it easier to compare, such as by using a weighted MoM growth metric around certain dimensions to see what areas of our spend are both very high and also continuing to grow at a rapid pace.
 
 #### 3. Initial Cost Estimate
 
-Once an area to focus on has been chosen, then we can come up with a proposal about how we could change or implement something to optimize our cost, and come up with a cost estimate of what this might be. This will be the quarterly savings label, and this is the main step as an IA to do, which will help give finance and PM's a good understanding of how they want to prioritize the issue.
+Once an area to focus on has been chosen, then we can come up with a proposal about how we could change or implement something to optimize our cost, and come up with a cost estimate of what this might be. This will be the quarterly savings label, and this is the main step as an Infra Analyst to do, which will help give finance and PM's a good understanding of how they want to prioritize the issue.
 
-#### 4. Estimate of effort and timeline by SME
+The Infra Analyst should work with the Subject Matter Expert to make sure the assumptions are well defined and that the estimate makes sense given the assumptions.
 
-SME for the service/area being analyzed will decide how difficult and time intensive this solution would be to implement
+#### 4. Estimate of effort and customer impact by SME
 
-#### 5. Initial Risk Estimate
+SME for the service/area being analyzed will decide how difficult and time intensive this solution would be to implement and how many customers it could impact. The SME can partner with the infra analyst to come up with these estimates if needed.
 
-Based on what SME has to say and the cost estimate, and projected growth in future, a low/medium/high risk label is assigned which specifies how much more of a problem this could be in the future if nothing is done soon, and the potential to materially impact our budget plan
+If a SME cannot be identified the Infra Analyst can work with the infra pm to find who the right person is.
 
-#### 6. Prioritization Decision Made
+#### 5. Prioritization Decision Made
 
-PM and finance partner decide where this should fall in roadmap.
+Infra PM takes the issue and decides where it should fit in within other team's roadmap or milestones depending on the priority in context of infrafin items.
 
-If risk is high and cost savings estimated to be over $50k/quarter, then exec sponsor chosen to oversee project to completion.
+If the issue weight is over 7 (and not a short term initiative), infra PM should also consider getting an exec sponsor for the project.
 
-#### 7. Follow-up
-Analyze the real impact of the change and expectations going forward.
+#### 6. Follow-up
+Once completed, analyze the real impact of the change and expectations going forward.
