@@ -295,7 +295,8 @@ employees take entitled leave with 14 days’ notice
 1. PTO Ninja will automatically add any time off taken for sick and vacation accruals.  
 
 _Note: In January, People Ops will adjust any negative carryover back to zero, for all accruals in BambooHR for the year. To do this go to Time Off, Adjust Balance, and add any extra days._
-## Returning from work after parental leave
+
+## Returning to work after parental leave
 
 It's important to acknowledge that returning to work after [parental leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) can be difficult. Even with smooth reentries, life and work interplay differently when one adds another member to their family. Everyone transitions differently, and the impact on an individual varies depending on role, as well as a litany of personal factors.
 
@@ -340,7 +341,8 @@ To alleviate the stress associated with returning to work after parental leave, 
 
 This provides space for a team member to test out life adjustments and iterate further without feeling overwhelmed by a full workload. For instance, if a prearranged daycare solution turns out to be suboptimal, this 50% capacity window empowers a parent to iterate — to find a different solution with the air cover at work to put in the appropriate amount of research and care.
 
-Some team members might want to work part-time for a longer time period or even forever. Please see GitLab's [Part-time contracts](/handbook//total-rewards/benefits/general-and-entity-benefits/#part-time-contracts) page to learn more.
+Some team members might want to work part-time for a longer time period or even forever. If you would like to have this discussion, please talk to your manager. You can head to the [Part-time contracts](/handbook/total-rewards/benefits/general-and-entity-benefits/#part-time-contracts) page to learn more.
+
 
 ### Parental Leave Reentry Buddies
 
