@@ -78,13 +78,14 @@ For detailed use-cases per tier, visit the [Per Tier Use-Cases page](/handbook/c
 
 When building integrations to partners it is possible to make exceptions to our buyer-based model when our tiers don't align well with those of the partner, but only in favor of lower tiers. As an example - a partner who provides a team collaboration tool with a free tier might desire any GitLab integration to be present in our free tier despite it clearly being appropriate for single team usage. The go-to-market benefits of this partnership can outweigh the divergence from our buyer-based model. 
 
-### Alternative Representations of Buyer Based Tiers
+### Capabilities
 
-We've found it difficult to express our buyer based tier succintly in various places including our [pricing page](/pricing). As a result we occasionally use different taxonomies to express the value in our tiers.
+We've found that bundling our features within tiers into capabilities [resulted in improved conversion performance on our pricing page](ISSUE LINK). While it is how we present the value of our tiers, this capability based representation serves as an additive filter for, and is not a replace of, our Buyer Based Tiering decision.
 
-#### Capabilities
+Here is a video of the CEO discussing this concept with a Product Leader.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SI-IL7D5YPA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-We've found that bundling our features within tiers into capabilities [resulted in improved conversion performance on our pricing page](ISSUE LINK). While it is how we present the value of our tiers, this capability based representation is not meant to replace, supplant or direct our Buyer Based Tiering decision.
+#### Current Capabilities List
 
 The following are our current set of capabilities:
 
@@ -92,25 +93,24 @@ Starter/Bronze:
 * Single-project management
 * More control over your code
 
-Premium/Silver:
+Premium/Silver (all above AND):
 * Multi-project management
 * Code integrity controls
 * Multi-region support
 
-Ultimate/Gold:
+Ultimate/Gold (all above AND):
 * Company-wide portfolio management
 * Application Security
 * Enterprise Insights
 * Compliance Automation
-* Single-project management
-* More control over your code
-* Multi-project management
-* Code integrity controls
-* Multi-region support
-* Company-wide portfolio management
-* Application Security
-* Enterprise Insights
-* Compliance Automation
+
+#### What happens when capabilities don't match our Buyer Based Tiering Decisions?
+
+Because capabilities are filters for our Buyer Based tiers, there can occasionally be instances where a feature's tier and its natural capability don't match. In that case we should either:
+
+1. Adjust the feature's tier to match
+1. Adjust the feature to a different capability to match
+1. Adjust the naming of the capability to better capture the distinction between tiers
 
 ## Lower tiers have more relative value
 
