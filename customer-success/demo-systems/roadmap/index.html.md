@@ -156,7 +156,7 @@ When the demo systems team was established in October 2019, we created a prelimi
         </tr>
         <tr>
             <td>FY21-Q2</td>
-            <td><a href="https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests/demosys-okrs/-/issues/7">demosys-okrs#7</a> <a href="https://gitlab.com/gitlab-com/business-ops/employee-enablement/it-ops-issue-tracker/-/issues/301">it-ops#301</a></td>
+            <td><a href="https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests/demosys-okrs/-/issues/7">demosys-okrs#7</a> <a href="https://gitlab.com/gitlab-com/business-ops/team-member-enablement/it-ops-issue-tracker/-/issues/301">it-ops#301</a></td>
             <td>Transition AWS `gitlab-np` account to new IT Ops AWS account</td>
         </tr>
         <tr>
