@@ -210,7 +210,7 @@ This review will only take into account a compa group alignment (if any). Team m
 
 ### Catch-up Compensation Review Timeline
 
-1. Compa Group Review
+1. 2020-07-01 - 2020-07-17: Compa Group Review
    * The Total Rewards team will reach out to the managers to obtain compa groups for each active team member with a hire date between November 1 and January 31. Optionally, managers may also evaluate team members who received a 0% increase during the last Annual Compensation Review cycle.
    * Manager will then use the [Compa Group Guidelines](/handbook/total-rewards/compensation/compensation-calculator/#compa-group) to assess each team member's classification within their current position. 
       * For a suggested evaluation and communication strategy, the manager can review the [Compa Group Communication](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#compa-group-communication) section.
@@ -218,14 +218,15 @@ This review will only take into account a compa group alignment (if any). Team m
       * To allow managers sufficient time to communicate the approved Compa Group and to allow changes to be made to the finalized Compa Group (if necessary), self-service view access will be turned off for Compa Groups in BambooHR until the Total Rewards team notifies managers that the Compa Groups have been reviewed and finalized. This will be no later than August 3rd.
    * Compa Groups should be submitted to BambooHR no later than July 17th, with each manager's manager reviewing and approving no later than July 24th.
    * Once all requests have been reviewed and approved, the executive leaders of each group will review the breakdown with the Total Rewards team along with the People Business Partner for their group.
-1. Using the updated Compa Groups, the Total Rewards team will calculate a proposed increase for each team member using the exchange rate as of 2020-07-01.
-1. [Manager Review](/handbook/total-rewards/compensation/compensation-review-cycle/#manager-review) in Compaas
+1. 2020-07-24 - 2020-08-03: Using the updated Compa Groups, the Total Rewards team will calculate a proposed increase for each team member using the exchange rate as of 2020-07-01.
+1. 2020-08-05 - 2020-08-18 [Manager Review](/handbook/total-rewards/compensation/compensation-review-cycle/#manager-review) in Compaas
    * All indirect managers will also review the increases compared to their budget.
    * Each division leader is responsible for making sure their group stays within budget.
    * Depending on budget constraints, the increases for the individual team members may be adjusted up or down by management and reviewed by Total Rewards.
-   * The target dates for opening Compaas for Manager review is August 5 through August 18. All approvals will be due by August 21. 
-1. Total Rewards Analysts will update [BambooHR](https://www.bamboohr.com/d/) by August 28th, and notify all payroll providers to be effective September 1st. Letters of adjustment are not necessary for catch-up compensation review changes.
-1. The new compensation amount will be hidden in BambooHR once uploaded giving managers a chance to review this directly with their reports. Managers will have until 5 PM MT on September 4th to have a conversation with their reports before visibility will be turned back on. 
+   * The target dates for opening Compaas for Manager review is August 5 through August 18. 
+1. 2020-08-18 - 2020-08-21: Next level leadership, up to E-Group should approve the compensation changes. All approvals will be due by August 21. 
+1. 2020-08-21 - 2020-08-28: Total Rewards Analysts will update [BambooHR](https://www.bamboohr.com/d/) by August 28th, and notify all payroll providers to be effective September 1st. Letters of adjustment are not necessary for catch-up compensation review changes.
+1. 2020-08-28 - 2020-09-05: Managers have conversations with their team members. The new compensation amount will be hidden in BambooHR once uploaded giving managers a chance to review this directly with their reports. Managers will have until 5 PM MT on September 4th to have a conversation with their reports before visibility will be turned back on. 
 
 ### Catch-up Compensation Review FAQs
 
@@ -272,3 +273,25 @@ Ranges will be provided where applicable for reference during manager review in 
 1. What are the key differences between Annual Compensation Review and Catch-up Compensation Review?
 
 Catch-up Compensation Review should be considered an extension of Annual Compensation Review to align team members to market who weren't eligible or didn't receive an increase during Annual Compensation Review. While during Annual Compensation Review, the Total Rewards team reviews and refreshs the inputs to the Compensation Calculator such as benchmarks and locations factors, Catch-up Compensation Review serves to align eligible team members to market based on the Compensation Calculator inputs determined last cycle. 
+
+### Catch-Up Communication Guidelines for Managers
+
+In the Leaderhsip Toolkit you can find a page about [Communicating Compensation changes](https://about.gitlab.com/handbook/people-group/leadership-toolkit/compensation-review/). Specifically to the Catch Up Compensation review below you can find a useful script/explanation to kick off the conversation around the Catch-Up Review. 
+
+Kicking off the Catch-Up compensation review conversation: 2 Situations: 
+
+1. Team member is eligible because they received a 0% increase during the last Annual Compensation Review cycle: 
+    * This year we have introduced a Catch-Up compensation review to make sure our team members' compensation aligns with the knowledge, skills and abilities compared to market. We wanted to overcome the situations where team members would have to wait more than 12 months for their compensation to be reviewed again. 
+    * With the Catch-Up review we review Compa Groups, location factors (as determined in January of this year), role benchmark changes (as reviewed in January of this year) and exchange rate changes. We evaluate whether all these factors ensure that you are paid according to market. 
+   * At the beginning of this year you didn't receive an increase in compensation, that makes you eligible for this Catch-Up review. 
+   * After reviewing all the factors above you will/will not receive an adjustment in your compensation. 
+   * Use the script as outlined on [this page](https://about.gitlab.com/handbook/people-group/leadership-toolkit/compensation-review/#scenarios-situations-and-reactions) depending on the situation. 
+   * It's important to know that at the end of the year you will be eligible for the yearly compensation review.
+
+1. Team member is eligible because they started in November, December or January:
+    * This year we have introduced a Catch-Up compensation review to make sure our team members' compensation aligns with the knowledge, skills and abilities compared to market. We wanted to overcome the situations where team members who were hired in November, December or January would have to wait more than 12 months for their compensation to be reviewed. 
+    * With the Catch-Up review we review Compa Groups, location factors (as determined in January of this year), role benchmark changes (as reviewed in January of this year) and exchange rate changes. We evaluate whether all these factors ensure that you are paid according to market. 
+   * This is the first time for you to go through a Compensation review here at GitLab, so I can imagine it might be a new process. 
+   * After reviewing all the factors above you will/will not receive an adjustment in your compensation. 
+   * Use the script as outlined on [this page](https://about.gitlab.com/handbook/people-group/leadership-toolkit/compensation-review/#scenarios-situations-and-reactions) depending on the situation. 
+   * It's important to know that at the end of the year you will be eligible for the yearly compensation review and will be included in the regular yearly cycle. 
