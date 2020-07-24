@@ -25,7 +25,7 @@ PathFactory (PF) is leveraged as our [content library & content distribution sys
 
 ## Access   
 
-The Marketing Operations team is responsible for managing access requests & provisioning the appropriate level of access for each role/function. Providing access is generally hanlded via baseline entitlement; however, if you need access and it is *not* part of your roles baseline entitlement please open a [`Single Person Access Request` issue](/handbook/business-ops/employee-enablement/onboarding-access-requests/access-requests/#single-person-access-request) and provide business reason why access is needed.   
+The Marketing Operations team is responsible for managing access requests & provisioning the appropriate level of access for each role/function. Providing access is generally hanlded via baseline entitlement; however, if you need access and it is *not* part of your roles baseline entitlement please open a [`Single Person Access Request` issue](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#single-person-access-request) and provide business reason why access is needed.   
 
 **User Roles**   
 
