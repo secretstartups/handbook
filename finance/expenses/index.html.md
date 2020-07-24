@@ -25,7 +25,7 @@ The company will reimburse for the following items if you **need it for work or 
 
 The below averages are what GitLab **usually** reimburse. If you prefer to spend more on a given item, that's OK considering the average price. You may attach the receipt during expensing which shows the full purchase price. You are also welcome to expense the `GitLab Average Price in USD` portion. For example, if you purchase a high-end Steelcase ergonomic chair, you are welcome to expense the average price per the table below and cover the rest with personal funds. We are encouraging our members to use their best judgment when spending the company's money. 
 
-Team members should not use a Corporate Card to purchase office equipment for their personal workspace.  All office equipment purchases for a team member's personal workspace should be made on a personal credit card and expensed.  For Laptop Purchases/Refreshes, please refer to [IT Ops Laptop](/handbook/business-ops/it-ops-team/#laptops) policy and procedure.
+Team members should not use a Corporate Card to purchase office equipment for their personal workspace.  All office equipment purchases for a team member's personal workspace should be made on a personal credit card and expensed.  For Laptop Purchases/Refreshes, please refer to [IT Ops Laptop](/handbook/business-ops/employee-enablement/onboarding-access-requests/#laptops) policy and procedure.
 
 ### Setting up a home office for the first time?
 
