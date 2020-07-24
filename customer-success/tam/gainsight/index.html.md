@@ -162,7 +162,7 @@ To submit a support ticket about Gainsight, you have two options.
 
 Gainsight is synched with Salesforce so that everything that happens in Gainsight is pulled into Salesforce, allowing Salesforce to remain our SSOT but also allowing us to not have to duplicate information. Gainsight is also integrated and syncs with Zendesk so TAMs can view customer support tickets within Gainsight.
 
-**Salesforce** syncs are queued at 12AM Pacific Time (7AM UTC). The full sync typically is completed by 4AM PT (11AM UTC). Note that "Last Activity Date" field syncs every two hours. **Zendesk** syncs are queued to run every day at 12AM Pacific Time (7AM UTC).
+**Salesforce** syncs are queued at 12AM Pacific Time (7AM UTC). The full sync typically is completed by 4AM PT (11AM UTC). Note that "Last Activity Date" field syncs every two hours (based on "call" or "Meeting" type). **Zendesk** syncs are queued to run every day at 12AM Pacific Time (7AM UTC).
 
 If you see a data issue (e.g. account hierarchy, ARR, etc.), check if this is the same information that's in Salesforce. If so, use Salesforce chatter and at-mention `sales-support` with the items that need to be updated and/or reviewed. If the issue is specifically Gainsight and not sourced from Salesforce, pull in CS Ops.
 
