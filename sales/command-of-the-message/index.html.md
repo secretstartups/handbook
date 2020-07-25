@@ -36,80 +36,108 @@ Value drivers describe what organizations are likely proactively looking for or 
 | [NEW Customer deck based on GitLab value drivers](https://docs.google.com/presentation/d/1SHSmrEs0vE08iqse9ZhEfOQF1UWiAfpWodIE6_fFFLg/edit?usp=sharing) | alternative to the standard GitLab pitch deck that starts with the customer's perspective and aligns to the 3 value drivers. Video [here](https://youtu.be/UdaOZ9vvgXM) |
 | [Demystifying the Metrics Conversation](/handbook/sales/command-of-the-message/metrics.html) | tips and tricks for navigating the Metrics conversation with customers |
 
-## Additional Resources
+## GitLab Differentiators
+
+Differentiators can influence a technical buyer's decision criteria in defining the required capabilities for the solution they are seeking. Effective differentiators must be perceived as valuable by the customer and be defensible.
 
 <details>
-<summary markdown="span">GitLab Differentiators</summary>
+<summary markdown="span">Single Application for Entire DevOps Lifecycle</summary>
 
-Differentiators can influence a technical buyer's decision criteria in defining the required capabilities for the solution they are seeking. Effective differentiators must be perceived as valuable by the customer and be defensible.  
-
-**Single Application for Entire DevOps Lifecycle** 
-- Complete DevSecOps platform delivered as a single application
-- One interface, one user-model, one data model
-- A software ‘factory’ that supports the entire DevOps lifecycle
-- Deeply integrated, making developers happier and more efficient
-- Centralized collaboration for a wide variety of roles (collaborate without waiting) 
-
-**Leading SCM and CI in One Application**
-- The backbone of a DevOps toolchain in one application
-- Streamlines code review and collaboration
-- Start with SCM or CI (or both)
-- One interface, one user-model, one data model
-- Interoperable with other tools (continue using tools you love!)
-- Proven enterprise scale
-
-**Built In Security and Compliance** 
-- Security features out-of-the-box (code scanning, dependency scanning, secrets detection, etc.)
-- Automated security testing and audit controls to facilitate policy compliance
-- Shift left: move security testing earlier in the development lifecycle; security testing at the point of code commit
-- Developers get immediate feedback about new vulnerabilities they introduce
-- Enables better collaboration between development and security teams
-- One interface, one user-model, one data model for DevSecOps
-
-**Deploy Your Software Anywhere** 
-- Deploy to any environment, any cloud
-- Support for GCP, AWS, Azure, OpenShift, VMWare, On Prem, Bare Metal, etc.
-- Workflow portability: one deployment workflow regardless of destination
-
-**Optimized for Kubernetes**
-- Enables adoption of modern cloud-native development patterns such as microservices and serverless
-- Minimizes the Kubernetes learning curve by enabling setup and use of clusters from the GitLab user interface
-- View and manage Kubernetes deployment pod details and logs from the GitLab user interface
-- Automatic monitoring of every Kubernetes deployed application and the clusters they are deployed to
-- Built-in canary and incremental deployment strategies with automatic canary metric collection and display
-- Active contributor to the future of cloud native technologies (through the Cloud Native Computing Foundation)
-
-**End-to-End Insight and Visibility**
-- Common data model uniquely allows for insights across the entire DevSecOps lifecycle
-- Configurable insights dashboard that shows status of work items over time
-- Cycle analytics data helps identify areas of improvement of cycle times
-- Security insights provide a roll-up of vulnerabilities
-- Program level insights help keep projects on-track 
-
-**Flexible GitLab Hosting Options**
-- Use in the cloud or install in your own environment (cloud or on-prem)
-- Feature parity between GitLab.com and self-managed
-- Migrate from one hosting option to another when needs change
-- Implement hybrid hosting models to support scaling (like CI Runners in the cloud)
-- Easy to upgrade and maintain in any environment
-
-**Rapid Innovation**
-- Releases every month, for 100+ months running
-- A constant stream of new features --> GitLab gets more valuable over time
-- Uniquely transparent product development process; customers, partners and community can contribute 
-
-**Open Source; Everyone Can Contribute** 
-- Open core development model allows anyone to contribute to the functionality of the product
-- Uniquely transparent product development process engaging customers, partners and the community
-- Strong and growing community (100K+ organizations and millions of users)
-- Harness open source innovations within the product experience (eg. Prometheus)
-
-**Collaborative and Transparent Customer Experience**
-- We operationalize our core values into how we develop our product and engage with our community and customers
-- Extreme transparency around roadmaps, issues, company meetings and processes
-- We use GitLab for collaborating with customers in a transparent way, for both issue resolution and roadmap iteration
-- GitLab provides an evolving case study of DevSecOps and agile practices at scale, accessible through the public handbook
+-  Complete DevSecOps platform delivered as a single application<br>
+-  One interface, one user-model, one data model<br>
+-  A software ‘factory’ that supports the entire DevOps lifecycle<br>
+-  Deeply integrated, making developers happier and more efficient<br>
+-  Centralized collaboration for a wide variety of roles (collaborate without waiting)<br>
 </details>
+
+<details>
+<summary markdown="span">Leading SCM and CI in One Application</summary>
+
+-  The backbone of a DevOps toolchain in one application<br>
+-  Streamlines code review and collaboration<br>
+-  Start with SCM or CI (or both)<br>
+-  One interface, one user-model, one data model<br>
+-  Interoperable with other tools (continue using tools you love!)<br>
+-  Proven enterprise scale<br>
+</details>
+
+<details>
+<summary markdown="span">Built In Security and Compliance</summary>
+
+-  Security features out-of-the-box (code scanning, dependency scanning, secrets detection, etc.)<br>
+-  Automated security testing and audit controls to facilitate policy compliance<br>
+-  Shift left: move security testing earlier in the development lifecycle; security testing at the point of code commit<br>
+-  Developers get immediate feedback about new vulnerabilities they introduce<br>
+-  Enables better collaboration between development and security teams<br>
+-  One interface, one user-model, one data model for DevSecOps<br>
+</details>
+
+<details>
+<summary markdown="span">Deploy Your Software Anywhere</summary>
+
+-  Deploy to any environment, any cloud<br>
+-  Support for GCP, AWS, Azure, OpenShift, VMWare, On Prem, Bare Metal, etc.<br>
+-  Workflow portability: one deployment workflow regardless of destination<br>
+</details>
+
+<details>
+<summary markdown="span">Optimized for Kubernetes</summary>
+
+-  Enables adoption of modern cloud-native development patterns such as microservices and serverless<br>
+-  Minimizes the Kubernetes learning curve by enabling setup and use of clusters from the GitLab user interface<br>
+-  View and manage Kubernetes deployment pod details and logs from the GitLab user interface<br>
+-  Automatic monitoring of every Kubernetes deployed application and the clusters they are deployed to<br>
+-  Built-in canary and incremental deployment strategies with automatic canary metric collection and display<br>
+-  Active contributor to the future of cloud native technologies (through the Cloud Native Computing Foundation)<br>
+</details>
+
+<details>
+<summary markdown="span">End-to-End Insight and Visibility</summary>
+
+-  Common data model uniquely allows for insights across the entire DevSecOps lifecycle<br>
+-  Configurable insights dashboard that shows status of work items over time<br>
+-  Cycle analytics data helps identify areas of improvement of cycle times<br>
+-  Security insights provide a roll-up of vulnerabilities<br>
+-  Program level insights help keep projects on-track<br>
+</details>
+
+<details>
+<summary markdown="span">Flexible GitLab Hosting Options</summary>
+
+-  Use in the cloud or install in your own environment (cloud or on-prem)<br>
+-  Feature parity between GitLab.com and self-managed<br>
+-  Migrate from one hosting option to another when needs change<br>
+-  Implement hybrid hosting models to support scaling (like CI Runners in the cloud)<br>
+-  Easy to upgrade and maintain in any environment<br>
+</details>
+
+<details>
+<summary markdown="span">Rapid Innovation</summary>
+
+-  Releases every month, for 100+ months running<br>
+-  A constant stream of new features --> GitLab gets more valuable over time<br>
+-  Uniquely transparent product development process; customers, partners and community can contribute<br>
+</details>
+
+<details>
+<summary markdown="span">Open Source; Everyone Can Contribute</summary>
+
+-  Open core development model allows anyone to contribute to the functionality of the product<br>
+-  Uniquely transparent product development process engaging customers, partners and the community<br>
+-  Strong and growing community (100K+ organizations and millions of users)<br>
+-  Harness open source innovations within the product experience (eg. Prometheus)<br>
+</details>
+
+<details>
+<summary markdown="span">Collaborative and Transparent Customer Experience</summary>
+
+-  We operationalize our core values into how we develop our product and engage with our community and customers<br>
+-  Extreme transparency around roadmaps, issues, company meetings and processes<br>
+-  We use GitLab for collaborating with customers in a transparent way, for both issue resolution and roadmap iteration<br>
+-  GitLab provides an evolving case study of DevSecOps and agile practices at scale, accessible through the public handbook<br>
+</details> 
+
+## Additional Resources
 
 <details>
 <summary markdown="span">Command of the Message Mantra</summary>
@@ -121,7 +149,7 @@ The Mantra is a framework you can use to clearly demonstrate that you have a com
 *  And you’ll probably want to measure these required capabilities using these **Metrics** 
 *  Let me tell you **How We Do It...**
 *  Let me tell you **How We Do It Better/Differently...**
-*  But don’t take my word for it...(Proof Points)**
+*  But don’t take my word for it...**(Proof Points)**
 </details>
 
 <details>
@@ -138,8 +166,8 @@ The Mantra is a framework you can use to clearly demonstrate that you have a com
 <summary markdown="span">Job Aids</summary>
 
 *  Overview resources
-   - Comprehensive [GitLab CoM & MEDDPPICC training slide deck](https://drive.google.com/open?id=1bWdV__GwN9WzkidBc0qMFu1GGln3rf5C)
-   - [GitLab CoM & MEDDPPICC Participant Guide](https://drive.google.com/open?id=1qSn-PZJ9_mk-dhnRY01BdoeBcrtC7jVr)
+   - Comprehensive [GitLab CoM & MEDDPICC training slide deck](https://drive.google.com/open?id=1bWdV__GwN9WzkidBc0qMFu1GGln3rf5C) (prior to transition to MEDDPPICC)
+   - [GitLab CoM & MEDDPICC Participant Guide](https://drive.google.com/open?id=1qSn-PZJ9_mk-dhnRY01BdoeBcrtC7jVr) (prior to transition to MEDDPPICC)
 *  Prepare
    - [Pre-Call Plan](https://docs.google.com/document/d/1yjyfvMoDvayZca5hXiIwSHYc9T1M3mTc7ocqzjhqOf8/copy)
 *  Discovery
@@ -172,12 +200,12 @@ The Mantra is a framework you can use to clearly demonstrate that you have a com
 *  [Manager Coaching & Reinforcement Playbook](https://drive.google.com/open?id=1perfP59qxJlEs9AEkoPt4su23Jwk7IqK) (Feb 2020)
 *  [Opportunity Coaching Guide](https://docs.google.com/document/d/1IZA9Fo2SvZOrtUVpXOjwwqs76lKdXFs4hTezbxRq5v8/copy) (Aug 2019)
 *  [Coaching & Reinforcement Template](https://drive.google.com/file/d/0B-mC9VLTLN0bTWRUdFlKbVlpUVlia05wOGJQcUNwUVA2elpz/view?usp=sharing) (Feb 2020) 
-*  [GitLab CoM & MEDDPPICC Fast Start Program Manager Playbook](https://drive.google.com/open?id=1n76gU6whKW51ixMfFvgXoGsq512PsCHG) (Aug 2019)
+*  [GitLab CoM & MEDDPICC Fast Start Program Manager Playbook](https://drive.google.com/open?id=1n76gU6whKW51ixMfFvgXoGsq512PsCHG) (Aug 2019) (prior to transition to MEDDPPICC)
 *  Featured Command Center training modules (note: course access requires Force Management Command Center license)
      - [Skill/Will Model course](https://gitlab.lyearn.com/#/learner/courses/5b0ec54911bac00011139811/card) (40 minutes)
      - [Coaching Model course](https://gitlab.lyearn.com/#/learner/courses/5b0edb16c6b58400126eb350/card) (39 minutes)
      - Opportunity Coaching Best Practices Series
-          - [Opportunity Coaching powered by MEDDPPICC](https://gitlab.lyearn.com/#/learner/courses/5b32b9337f8a9800195a8288/card) (21 minutes)
+          - [Opportunity Coaching powered by MEDDPICC](https://gitlab.lyearn.com/#/learner/courses/5b32b9337f8a9800195a8288/card) (21 minutes) (note: does not include 2nd P for Partners)
           - [Selecting the Right Deals](https://gitlab.lyearn.com/#/learner/courses/5e8f67688ab5f033dace51ab/card) (5 minutes)
           - [Establishing a Cadence](https://gitlab.lyearn.com/#/learner/courses/5e8f675b8ab5f087b4ce5197/card) (5 minutes)
           - [Preparing the Seller](https://gitlab.lyearn.com/#/learner/courses/5e8f674a8ab5f06592ce5183/card) (10 minutes)
@@ -218,5 +246,6 @@ Below is a summary of enhancements made to the GitLab Value Framework and CoM ma
 
 **Version 1.2 (Aug 2020)**
 - [More Proactive and Robust Metrics Guidance](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/184)
+- Change from MEDDPICC to MEDDPPICC (https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/305)
 - Additional Proof Points update
 </details>
