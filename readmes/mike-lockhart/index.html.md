@@ -68,9 +68,12 @@ The same goes for unconcious biases: if I do or say something to upset you, plea
  * I'm more of a morning person than a night owl, usually do my best work before 12:00 (local), and not very useful after about 16:00
  * I have a [four-bit list of rules](https://milosophical.me/pg/4-bit-rules.html) that I work by in computing. You'll probably see a lot of overlap with GitLab's core Values&hellip;
  * I strive to write down new learnings and observations as soon as possible. I keep a [digital lab book](https://gitlab.com/mlockhart/lab) for this purpose
- * Also I keep and a [public wiki](https://milohax.net) for more general notes. Dumping things in there gets them out of my brain, so that I can focuss better
+ * Also I keep a [public wiki](https://milohax.net) for more general notes. Dumping things in there gets them out of my brain, so that I can focuss better
  * New things excite me: be they technology, methods, people, language, ideas&hellip;
- 
+ * Start with "Why?"
+ * Find a way
+ * Stay calm and be kind
+ * Fight for better-er
 
 ## What I assume about others
 
