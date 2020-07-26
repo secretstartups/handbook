@@ -63,6 +63,7 @@ C.E.S. and Sales Operations Team only - please [contact the Recruiting Operation
 </details>
 
 ----
+
 ### System Processes
 
 
@@ -73,9 +74,9 @@ C.E.S. and Sales Operations Team only - please [contact the Recruiting Operation
 
 TBA
 
- </details>
+</details>
 
- <details>
+<details>
   <summary markdown='span'>
   Greenhouse
   </summary>
@@ -96,7 +97,7 @@ TBA
 * **Referral Submissions**
     * [See how to process Referral Submissions in the handbook.](https://about.gitlab.com/handbook/hiring/referral-operations/#transferring-referral-submissions-to-greenhouse)
 
- </details>
+</details>
 
 ----
 ### Reporting
