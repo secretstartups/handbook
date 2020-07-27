@@ -12,8 +12,8 @@ title: Expenses
 ## Introduction
 
 Welcome to the Expenses page!  You should be able to find answers to most of your questions here.  If you can't find what you are looking for, then:
-- **Chat channel**: #expense-reporting-inquiries
-- **Email**: expenses@gitlab.com
+- **Chat channel**: `#expense-reporting-inquiries`
+- **Email**: `expenses@gitlab.com`
 
 All team members will have access to Expensify within 2 days from their hire date.  If you didn't receive an email from Expensify for your access, then please contact expenses@gitlab.com. Expense reports are to be submitted once a month, at least. Additional information on getting started with Expensify and creating/submitting expense reports can be found [here.](https://docs.expensify.com/using-expensify-day-to-day/using-expensify-as-an-expense-submitter/report-actions-create-submit-and-close)
 
