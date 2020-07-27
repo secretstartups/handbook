@@ -24,7 +24,7 @@ This page contains a table of performance indicators order by their maturity (as
         <td>Maturity</td>
         <td>Reason(s)</td>
     </tr>
-    <% data.performance_indicators.sort_by{ |pi| pi_maturity_level(pi) }.each do |pi| %>
+    <% performance_indicators_by_maturity_level.each do |pi| %>
     <tr>
         <td><%= pi.name %></td>
         <td><%= pi.org %></td>
