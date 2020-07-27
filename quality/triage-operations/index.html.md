@@ -196,7 +196,7 @@ The report itself is divided into 4 main parts.
 * UX debt issues
 * Frontend bugs
 * Bugs (likely backend)
-* `~P1` and `~P2` bugs past the target SLO.
+* `~S1` and `~S2` bugs past the target SLO.
 
 The bug sections also contains a heatmap.
 
@@ -327,10 +327,10 @@ Issues which have a label of `~Deliverable` without a milestone will have the mi
 
 ### Missed SLO
 
-Issues which have a priority and missed the [SLO target](/handbook/engineering/quality/issue-triage/#priority) will be labeled with `~missed-SLO`. The calculation for elapsed time starts from the date of the priority label being applied. This enables reporting on SLO target adherence.
+Issues which have a severity label and missed the [SLO target](/handbook/engineering/quality/issue-triage/#severity) will be labeled with `~missed-SLO`. The calculation for elapsed time starts from the date of the severity label was applied. This enables reporting on SLO target adherence.
 
-* Automation Condition: Issue with priority label present and is opened past SLO target.
-* We currently only detect missed SLOs for `~P1` and `~P2` bugs.
+* Automation Condition: Issue with severity label present and is remains in an open state past SLO target.
+* We currently only detect missed SLOs for `~S1` and `~S2` bugs.
 * Automation Action:
   * The label `~missed-SLO` is applied.
 * Example: <https://gitlab.com/gitlab-org/gitlab-ce/issues/61662>
