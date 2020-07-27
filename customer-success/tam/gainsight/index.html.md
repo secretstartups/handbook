@@ -189,8 +189,8 @@ There is a Gainsight Chrome extension available for TAMs to use to help sync the
 ## Common errors & troubleshooting
 ### Query API invalid response
 
-If you receive a message error  "Query API invalid response", try clearing your browser cache and cookies. We recommend also checking in a private browser (Incognito Mode, etc.) to verify it's a browser configuration issue.
+If you receive the message error  "Query API invalid response", try clearing your browser cache and cookies. We recommend also checking in a private browser (Incognito Mode, etc.) to verify it's a browser configuration issue.
 
 ### Success plan objectives updated failed
 
-If your receive a message error "SUCCESS_PLAN_OBJECTIVES_UPDATED_FAILED" when changing the status of a Success Plan from Draft to Active could be because there is some CTAs which its due date is less than one of the task's due date, as part of the workaround, try re-applying the due date on Tasks which updated properly the CTA's due date and then try to change Success Plan to Active again.
+If your receive the error message "SUCCESS_PLAN_OBJECTIVES_UPDATED_FAILED" when changing the status of a Success Plan from Draft to Active, it could be because there is one or more CTAs with a due date earlier than one of its tasks' due date. To correct this, re-apply the due date on tasks which will update the CTA's due date, and then try to change the Success Plan to Active again.
