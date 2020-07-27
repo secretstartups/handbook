@@ -190,7 +190,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ------ | ------ | ------ | ------ |
-| 2020-07-20 | 2020-07-24 | NO SHADOWS - PERSONAL  | NO SHADOWS - PERSONAL |
 | 2020-07-27 | 2020-07-31 | [Tim Rizzi](https://gitlab.com/trizzi) - Sr. Product Manager, Package | [David DeSanto](https://gitlab.com/ddesanto) - Director of Product, Secure & Defend |
 | 2020-08-03 | 2020-08-07 | NO SHADOWS - PTO | NO SHADOWS - PTO |
 | 2020-08-10 | 2020-08-14 | [Amy Brandenburg](https://gitlab.com/abrandenburg) - Technology Alliances Manager | [Tim Rizzi](https://gitlab.com/trizzi) - Sr. Product Manager, Package |
@@ -198,8 +197,8 @@ Exceptional community members may be able to participate, as well.
 | 2020-08-24 | 2020-08-28 | [Mike Miranda](https://gitlab.com/mikemiranda) - Account Executive, Commercial Sales | [Sam White](https://gitlab.com/sam.white) - Sr. Product Manager, Defend | 
 | 2020-08-31 | 2020-09-17 | NO SHADOWS - PERSONAL  | NO SHADOWS - PERSONAL |
 | 2020-09-21 | 2020-09-25 | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend | [Mike Miranda](https://gitlab.com/mikemiranda) - Account Executive, Commercial Sales  |
-| 2020-09-28 | 2020-10-02 | AVAILABLE | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend |
-| 2020-10-05 | 2020-10-09 | NO SHADOWS - Presidents Club | NO SHADOWS - Presidents Club |
+| 2020-09-28 | 2020-10-02 | AVAILABLE - REMOTE | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend |
+| 2020-10-05 | 2020-10-09 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2020-10-12 | 2020-10-16 | NO SHADOWS - PTO | NO SHADOWS - PTO |
 | 2020-10-26 | 2020-10-30 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2020-11-02 | 2020-11-06 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
