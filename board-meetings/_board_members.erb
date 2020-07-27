@@ -20,6 +20,14 @@
 </h5>
 <% end %>
 <div class="social">
+<% if member.linkedin %>
+<a href="https://www.linkedin.com/in/<%= member.linkedin %>">
+<span class="sr-only">
+LinkedIn
+</span>
+<i class="fab fa-linkedin"></i>
+</a>
+<% end %>
 <% if member.twitter %>
 <a href="https://twitter.com/<%= member.twitter %>">
 <span class="sr-only">
