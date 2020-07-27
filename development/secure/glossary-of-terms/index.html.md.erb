@@ -1,0 +1,150 @@
+---
+layout: handbook-page-toc
+title: Secure and Defend Glossary of Terms
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Goals
+
+The Secure Glossary of Terms aims to achieve the following:
+
+- Promote a ubiquitous language that can be used everywhere - with customers, on issues, in Slack, in code.
+- Improve the effectiveness of communication between Secure team members.
+- Reduce the potential for miscommunication.
+- New team members, and community contributors, can get up to speed faster, reducing the time to productivity.
+
+## Scope
+
+The definitions of the terms outlined in this document are provided in the specific context of the GitLab Secure
+Products. Please note, therefore, that a term may have a different meaning to users outside of GitLab Secure.
+
+
+## Terms
+
+### Analyzer
+
+Software that performs a scan. The scan analyzes an attack surface for Vulnerabilities and produces a report containing Findings. Reports adhere to the Secure Report Format.
+
+Analyzers integrate into GitLab using a CI job. The report produced by the Analyzer is published as an artifact once the job is complete.
+This is ingested by GitLab, to allow users to visualize and manage found vulnerabilities. More information can be found at [Security Scanner Integration](https://docs.gitlab.com/ee/development/integrations/secure).
+
+Many GitLab Analyzers follow a standard approach using Docker to run a wrapped Scanner. For example, the Docker image `bandit-sast` is an Analyzer that wraps the Scanner `Bandit`.
+The [Common library](https://gitlab.com/gitlab-org/security-products/analyzers/common) can be optionally used to assist building an Analyzer.
+
+### Attack Surface
+
+The different places in an application that are vulnerable to attack. Secure products discover and search the attack surface during scans.
+
+Each product defines the attack surface differently, for example, SAST will use files and line numbers, while DAST uses URLs.
+
+### CVE
+
+Common Vulnerabilities and Exposures (CVE®) is a list of common identifiers for publicly known cybersecurity
+Vulnerabilities. The list is managed by the [Mitre Corporation](https://cve.mitre.org/).
+
+### CVSS
+
+The Common Vulnerability Scoring System is a free and open industry standard for assessing the severity of computer system security Vulnerabilities.
+
+### CWE
+
+Common Weakness Enumeration (CWE™) is a community-developed list of common software and hardware weakness types that have security ramifications.
+"Weaknesses" are flaws, faults, bugs, Vulnerabilities, or other errors in software or hardware implementation, code, design, or architecture
+that if left unaddressed could result in systems, networks, or hardware being vulnerable to attack. The CWE List and associated classification
+taxonomy serve as a language that can be used to identify and describe these weaknesses in terms of CWEs.
+
+### Duplicate Finding
+
+A legitimate Finding which was found, but for some reason is reported multiple times. This can occur when different
+scanners find the same Finding, or when a single scan inadvertently creates the same Finding more than once.
+
+### False Positive
+
+A Finding which does not actually exist but is incorrectly reported as existing.
+
+### Feedback
+
+Feedback provided by the user about a Finding. Types of Feedback include dismissal, creating an issue, or
+creating a merge request.
+
+### Finding
+
+An asset that has the potential to be vulnerable, identified within a project by an Analyzer.
+
+Assets include but are not restricted to source code, binary packages, containers, dependencies, networks, applications, and infrastructure.
+
+### Insignificant Finding
+
+A legitimate Finding that a particular customer does not care about.
+
+### Location Fingerprint
+
+A Finding's Location Fingerprint is a text value that is unique for each location on the Attack Surface.
+Each Secure product defines this according to their type of Attack Surface, for example, SAST will incorporate file path
+and line number.
+
+### Pipeline Security Tab
+
+A page that displays Findings discovered in the associated CI Pipeline.
+
+### Primary Identifier
+
+A Finding's Primary Identifier is a value that is unique for each Finding. The external type
+and external ID of the Finding's [first identifier](https://gitlab.com/gitlab-org/security-products/security-report-schemas/-/blob/v2.4.0-rc1/dist/sast-report-format.json#L228) combines to create the value.
+
+Examples of Primary Identifiers include ZAP's `PluginID`, or `CVE` for Klar. 
+Note that the identifier must be stable; subsequent scans must return the same value for the same Finding, even if the location has slightly changed.
+
+### Report Type / Scan Type
+
+Describe the type of scan, must be one of `container_scanning`, `dependency_scanning`, `dast` or `sast`.
+
+Please use Scan Type instead of Report Type in future.
+
+### Scanner
+
+Software that can scan for Vulnerabilities. The resulting report of the scan is typically not in the Secure Report Format. Examples include ESLint, Klar, and ZAP.
+
+### Secure Product
+
+A group of features related to a specific area of application security with first-class support by GitLab.
+
+Products include Container Scanning, Dependency Scanning, Dynamic Application Security Testing (DAST),
+Secret Detection and Static Application Security Testing (SAST). Each of these products typically includes one or more
+Analyzers.
+
+### Secure Report Format
+
+A standard report format that Secure products comply with when creating JSON reports. The format is described by a
+[JSON schema](https://gitlab.com/gitlab-org/security-products/security-report-schemas).
+
+### Security Dashboard
+
+Provides an overview of all the Vulnerabilities for a project, group, or GitLab instance. Vulnerabilities are only created from Findings
+discovered on the default branch of the project.
+
+### Vulnerability
+
+A flaw that has a negative impact on the security of its environment. Vulnerabilities describe the error or weakness,
+and do not describe where the error is located (see [Finding](#finding)).
+
+Each Vulnerability maps to a unique Finding.
+Plans are underway to group related Findings to the same Vulnerability to empower users with additional
+workflows and improve the tracking of Findings.
+
+### Vulnerability Tracking
+
+Deals with the responsibility of matching Findings across scans so that the life cycle of
+a Finding can be understood. Engineers and Security Teams use this information to decide whether to merge code
+changes, to see unresolved Findings and when they were introduced.
+
+Vulnerabilities are tracked by comparing Location Fingerprint, Primary Identifier, and Report Type.
+
+### Vulnerability Occurrence
+
+Deprecated, see [Finding](#finding).
