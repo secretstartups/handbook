@@ -512,6 +512,8 @@ Any change or amendement to the authorization matrix is approved by the Board.
 - (6) Recurring consumption operating costs on approved contracts do not require multiple approvals. Spend analysis is monitored on a quarterly basis against Plan. Approved costs in this category include hosting services for gitlab.com, bounty programs, lead generation ad placement spend.
 - (7) Only applies to approvals outside of the discount authorization matrix.
 - (8) For cloud provider committed usage (GCP only) transactions, CFO delegates approvals to VP Finance (not to exceed CFO signing limit)
+- (9) The CEO approves all initial multiyear commitments. Renewals of existing systems subject to approval levels in above table.
+
 ## Banking Controls
 
 - All accounts are to be established so initiator and approver must be different.
