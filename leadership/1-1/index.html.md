@@ -116,3 +116,20 @@ We understand that this meeting format may feel a bit awkward as we will openly 
 - Review most recent performance evaluations, compa group worksheets, OKRs, and goals.
 - Share any additional feedback since recent reviews.
 - Are there any follow-on 1-1-1 transition meetings needed?
+
+## Shadowed 1-1
+
+Shadowing a 1-1 is a scenario in which a GitLab team member attends the 1-1 of their manager and their manager's manager. The intent of this model to provide trust through transparency, build connections between team members and leaders who they may not otherwise interact with regularly, and open opportunities for collaboration be providing a broader knowledge to team members. The shadowed 1-1 is exemplified by Sid by having the CEO Shadows attend 1-1s with his direct reports.
+
+### Agenda
+
+Portions of the agenda will be suitable for sharing and others will not. Care should be taken to separate items that could breach our communication guidelines or potentially reveal confidential information. A suggestion on how to handle this would either be to not share the agenda with the shadow(s) or have a separate agenda for private items, these are just suggestions. 
+
+### Attendees
+
+Attendance could be limited to direct reports but could also include other people. A suggestion might be to have a sign up for attendance and, in order to maintain the relationship and support expected to arise from 1-1 meetings, alternate shadow weeks with non-shadowed weeks. Suggest having a separate zoom link for shadowed 1-1s.
+
+### Example
+
+An engineering manager decides to open up their 1-1 meetings to their team. The engineering manager checks with their manager that this is acceptable and determines a plan for review. When a shadow will be present, this should be indicated clearly on the agenda. Utilising a separate zoom link, all 3 people join and walk through the agenda. Participation level of the team member is up to the regular participants of the 1-1 but, consider encouraging engagement. At a point where sensitive topics need to be discussed, the team member will be asked to leave.
+
