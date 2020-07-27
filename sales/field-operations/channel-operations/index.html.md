@@ -36,7 +36,7 @@ In the Task Information section, please input “Other” for any blank section
 
 ##  Channel Neutral
 
-To incentivize working with our Channel partners, 'Channel Neutral' means that we will not reduce $ value to individual sellers even if the Channel business reduces total iACV to GitLab (via disocunts or rebates).
+To incentivize working with our Channel partners, 'Channel Neutral' means that we will not reduce $ value to individual sellers even if the Channel business reduces total iACV to GitLab (via discounts or rebates).
 More information can be found on the [compensation page](/handbook/sales/commissions/#channel-neutral-compensation).
 
 **Channel Neutral Comp**
@@ -48,7 +48,8 @@ More information can be found on the [compensation page](/handbook/sales/commiss
 
 **Partner Program Discounts**
 - The GitLab Partner Program provides partners with set discounts based on their engagement in opportunities (see definitions below) and their partner program track.
-- GitLab employees can access the disount table [here.](https://gitlab.my.salesforce.com/0694M000008xAk4)  Partners can find the discount table in the Asset Library on the GitLab Partner Portal.
+- Partners are not eligible for discounts on sales or renewals of Bronze / Starter licenses.
+- GitLab employees can access the discount table [here.](https://gitlab.my.salesforce.com/0694M000008xAk4)  Partners can find the discount table in the Asset Library on the GitLab Partner Portal.
 
 **Partner Initiated Opportunity - PIO**
 - A PIO is any new sales opportunity that was brought to GitLab via a Deal Registration.  A PIO could be:
@@ -60,8 +61,9 @@ More information can be found on the [compensation page](/handbook/sales/commiss
 - The opportunity must be new to our sales team, and can be for a new or existing customer.
 - This can be for either a resale or referral opportunity.  
 - The partner is expected to assist the GitLab Sales team in closing the sale. 
+- For US Public Sector, each unique customer opportunity within a single government program can be partner initiated.
 - For resale, the partner receives an upfront discount that is dependent on the partners track within the GitLab Partner Program.
-- Referral rebate paymentss are paid out at the end of each GitLab fiscal quarter
+- Referral rebate payments are paid out at the end of each GitLab fiscal quarter
 - The determination of PIO is at the sales rep & CAM determination and tracked via SFDC opportunities.
 
 **Partner Assist Opportunity**
@@ -94,7 +96,7 @@ More information can be found on the [compensation page](/handbook/sales/commiss
 
 **Incumbency Renewals**
 - Incumbent partners qualify for program renewal discounts.  The partners that transacts the most recent sale (IACV) are considered the incumbent
-- A different partner can earn incumbency discount only through formal written communications from the customer.
+- A different partner can earn an incumbency discount only through formal written communications from the customer.
 - In some cases, a customer purchased their most recent subscription directly from GitLab, but is directed to a partner for renewal. Partners are encouraged to engage with these customers, but their first renewal of a formerly direct customer will not be discounted for partners. 
 - To earn partner discounts, partners will be required to meet compliance requirements (i.e. in good credit standing, have provided quarterly updates on customer, review within 30 days of renewal, etc).
 
