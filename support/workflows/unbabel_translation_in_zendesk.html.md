@@ -54,6 +54,8 @@ Should this happen, you will need to add the missing tags, and create a new inte
 Once you submit your response, it may take several seconds for Unbabel to automatically translate your internal comment, but it can take several minutes if a human is required
 to manually translate your internal comment. To view the status of the translation, you can open the Apps sidebar in the ticket, and scroll down to the **Unbabel for Zendesk Support** box.
 
+![Translation required](/images/support/Unbabel_Translation_Required.png)
+
 After a translated response has been sent to the customer via Unbabel it is necessary to manually set the ticket status as **Pending** since Unbabel will incorrectly set the ticket status as **Open**.
 
 ### Excluding Text from Translation
