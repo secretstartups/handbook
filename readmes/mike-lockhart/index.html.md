@@ -18,7 +18,7 @@ Please feel free to contribute to this page by opening a merge request, particul
 ## Related pages
 
  * [@mlockhart](https://gitlab.com/mlockhart) GitLab, Inc company profile
- * [GitLabbook](https://gitlab.com/mlockhart/lab) general field notes, code, snippets, issues
+ * [GitLabbook](https://gitlab.com/mlockhart/lab) general field notes, code, snippets, issues and work log
  * [Milosophical Me](https://milosophical.me) personal web
  * [List of Preferences](https://milosophical.me/pg/preferences.html) for text editor, OS, food and so on
  * [MILOHAX.NET](https://milohax.net) public [memex](https://en.wikipedia.org/wiki/Memex) [TiddlyWiki](https://en.wikipedia.org/wiki/TiddlyWiki)
@@ -46,9 +46,9 @@ I enjoy meeting and engaging with people, and solving customers' technical probl
 
 #### Background
  
-I grew up in [Northern Tasmania](https://www.google.com/maps/@-38.8597166,146.4518042,7z) in the 1980s, cutting my teeth on 8-bit British micro's, eagerly typing in codes from computer magazines and library books. After graduating from Uni of Tasmania I moved to Sydney, then the Blue Mountains, and spent 15 years [cat-hurding](https://www.youtube.com/watch?v=Ns_eDz3PUaI) at major IT corporations on all sorts of computers from mainframes to mobiles. My family and I returned to Tassie in 2013, where since I have been working as a support sysop for Linux-based web systems. My wife Jenny and I juggle three boys and various animals, in a little house South of Hobart.
+I grew up in [Northern Tasmania](https://www.google.com/maps/@-40.6667943,146.3199683,6z) in the 1980s, cutting my teeth on 8-bit British micro's, eagerly typing in codes from computer magazines and library books. After graduating from Uni of Tasmania I moved to Sydney, then the Blue Mountains, and spent 15 years [cat-hurding](https://www.youtube.com/watch?v=Ns_eDz3PUaI) at major IT corporations on all sorts of computers from mainframes to mobiles. My family and I returned to Tassie in 2013, where since I have been working as a support sysop for Linux-based web systems. My wife Jenny and I juggle three boys and various animals, in a little house South of Hobart.
 
-When not computing, I like to read, walk the dog while listening to music or audio books, podcasts and _Support Week In Review_, cycle (casually) and play music. I play percussion, keyboards, a little bit of blues harp, and code. I also play trombone since I was ten, but not since our first child. With the family I like to play card- or board-games, and I regularly get involved in the boys' Scouting activites.
+When not computing, I like to read, walk our dog while listening to music, or audio books, podcasts and _Support Week In Review_. I also cycle (casually) and play music. I play percussion, keyboards, a little bit of blues harp, and code. I also play trombone since I was ten, but not since our first child. With the family I like to play card- or board-games, and I regularly get involved in the boys' Scouting activites.
 
 ## How you can help me
 
@@ -111,7 +111,8 @@ I want to earn your trust and gain a better understanding of how you work.
 ## Strengths
 
  * People ask me strange technical questions, because I know obscure things about computers and internets
- * I've worked in the customer-facing support role for a long time and understand the sub-value "assume good intent"
+ * I've worked in the customer-facing support role all my career, and understand the sub-value "assume good intent" as well as keeping timely updates for customers
+ * Not affraid to admit when I don't know something, but I will find it out or ask for help from someone who does know
  * Approach difficult conversations with humility and empathy
  * I will have your back, even if I don't have the skills. At the very least, I make a good "rubber duck"/"sounding board". No idea is too crazy, though we may both laugh about it afterwards
 
