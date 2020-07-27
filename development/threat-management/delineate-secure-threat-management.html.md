@@ -136,14 +136,59 @@ View, Dismiss, or Confirm (and create related Issue) vulnerability findings the 
 * Engineering sub-department: Threat Management
 
 
-## [Security Report Schema](https://gitlab.com/gitlab-org/security-products/security-report-schemas)
+## Technical Boundaries
 
-_Draft_
+Ownership of the end-to-end technical solution spans multiple groups. This section clarifies
+cross-group maintainership of code artifacts between [Threat
+Insights](/handbook/product/product-categories/#threat-insights-group) and the remaining groups in
+the [Secure Stage](/handbook/product/product-categories/#secure-stage).
 
-Matt Wilson (for PM) and Thiago Figueiro (for EM) will be the DRIs for approving changes to the [security report schemas](https://gitlab.com/gitlab-org/security-products/security-report-schemas). In case they're unavailable, their backup is David and Wayne.
+The diagram below is an over-simplified representation of the architecture but helps understand the
+delineation.
+
+```mermaid
+%% editing these is easier using the live editor: https://mermaid-js.github.io/mermaid-live-editor/
+
+graph TD
+  subgraph "Secure Stage, excluding Threat Insights"
+    SR["Scanner Report<br>(json report)"]
+    P(Parsers)
+    JS[schema]
+    RF[Report Findings]
+    JS --- P
+    P --> RF
+    SR --> P
+  end
+
+  subgraph "Threat Insights"
+    VF[(Vulnerability Findings)]
+    VFS[schema]
+    V[(Vulnerability)]
+    VS[schema]
+    VFS --- VF
+    VS --- V
+  end
+
+  RF --> VF --> V
+```
 
 ### Approval process
 
-Issue and Merge Request templates `Security Report Schema` will be used to make the DRIs and their backup aware of the change. These templates will mention their GitLab account names so they are automatically informed when a change is proposed and implemented.
+Issues are used to make the DRI and their backup aware of the change. In case a DRI is unavailable,
+their line manager is the backup.
 
-They will have checkboxes that they will need to check to acknowledge their review/approval.
+Merge Requests use [Code Owners](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/CODEOWNERS) to [enforce approval](https://docs.gitlab.com/ee/user/project/code_owners.html#approvals-by-code-owners) of changes.
+
+
+#### Vulnerability Management Database Schema
+
+* Product DRI: Matt Wilson.
+* Engineering DRI: Thiago Figueiro.
+
+
+#### [Security Report Schema](https://gitlab.com/gitlab-org/security-products/security-report-schemas)
+
+The reports JSON schemas are maintained by the relevant Secure groups (Backend team) matching the corresponding categories.
+For instance, the Static Analysis group is responsible for the SAST category, so its backend team is responsible for the `sast` report JSON schema.
+Additionally, any modification of the shared definitions and structure must be approved by each group's backend team.
+
