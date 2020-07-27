@@ -13,7 +13,7 @@
 <% if member.locality || member.country %>
 <% location = [member.locality, member.country].compact.join(", ") %>
 <h5 style="font-size: 14px;font-weight: 400;color: #828282;margin: 0;">
-<%= "<a href=\"https://maps.google.com?q=#{location}\" style=\"color: #828282;\">" %>
+<%= "<a href=\"https://maps.google.com?q=#{location}\" style=\"color: #828282;text-decoration:none;\">" %>
 <%= location %>
 <%= member.country_info&.emoji_flag %>
 </a>
@@ -21,7 +21,7 @@
 <% end %>
 <div class="social">
 <% if member.linkedin %>
-<a href="https://www.linkedin.com/in/<%= member.linkedin %>">
+<a href="https://www.linkedin.com/in/<%= member.linkedin %>" style="padding:4px;text-decoration:none;">
 <span class="sr-only">
 LinkedIn
 </span>
@@ -29,7 +29,7 @@ LinkedIn
 </a>
 <% end %>
 <% if member.twitter %>
-<a href="https://twitter.com/<%= member.twitter %>">
+<a href="https://twitter.com/<%= member.twitter %>" style="padding:4px;text-decoration:none;">
 <span class="sr-only">
 Twitter
 </span>
