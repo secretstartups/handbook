@@ -292,6 +292,8 @@ General triage automation is run to label and update issues which help with repo
 
 Open issues and merge requests that have missed the current release will be rescheduled to the next active milestone. This identifies pending work that was not completed within the planned milestone.
 
+**Note:** Confidential issues will be skipped as part of the `missed` label application. Please see the [this issue](https://gitlab.com/gitlab-org/quality/triage-ops/-/issues/45) for more information
+
 * Automation Condition: Open issues or merge requests that missed the current
   milestone, i.e. current date is
   * `>= 19th` if the 22nd is on a Monday
