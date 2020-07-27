@@ -212,6 +212,7 @@ Books that the E-Group finds noteworthy should be added to the [Leadership Books
 
 ### Previous Reads
 
+* [Current] [So You want to Talk about Race](https://www.goodreads.com/book/show/35099718-so-you-want-to-talk-about-race) by Ijeoma Oluo
 * [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead) by Brené Brown
 * [Better Allies](https://www.goodreads.com/book/show/43545460-better-allies) by Karen Catlin
 * [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work) by Morten Hansen
