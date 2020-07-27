@@ -3,6 +3,12 @@ layout: handbook-page-toc
 title: Expenses
 ---
 
+## On this page
+{:.no_toc}
+
+- TOC
+{:toc}
+
 ## Introduction
 
 Welcome to the Expenses page!  You should be able to find answers to most of your questions here.  If you can't find what you are looking for, then:
@@ -269,6 +275,7 @@ Examples of things we have not reimbursed:
 
 In accordance with [Reimbursable Expense guidelines](/handbook/finance/accounting/#reimbursable-expenses), independent contractors should note which expenses are Contribute related on their invoices, prior to submitting to the company.
 
+----
 
-
+Return to the main [finance page](/handbook/finance/).
 
