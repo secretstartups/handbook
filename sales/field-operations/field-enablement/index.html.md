@@ -14,7 +14,7 @@ title: "Field Enablement"
 ## Overview
 
 The Field Enablement team's mission is to help customers successfully grow and evolve in their journey with GitLab to achieve positive business outcomes with effective enablement solutions aligned to [Gitlab’s values](/handbook/values/). We do this by:
-*  Collaborating with cross-functional stakeholders (including but not limited to Sales, Customer Success, Marketing, Sales Ops, Product/Engineering, and the People team) to lead the facilitation of prioritized behavior change in the GitLab Field Team to achieve desired business outcomes.
+*  Collaborating with cross-functional stakeholders (including but not limited to Sales, Customer Success, Marketing, Sales Ops, Product/Engineering, and the People team) to address prioritized knowledge gaps and lead the facilitation of prioritized behavior change in the GitLab Field Team to achieve desired business outcomes.
 *  Defining, coordinating, and/or leading the development and delivery of effective enablement solutions for GitLab Sales, Customer Success, and Partners throughout all phases of the customer journey as well as different stages of each team member's tenure and/or experience at or with GitLab.
 *  Championing the needs and interests of the Field Team (all routes to market) – ensuring that they are regularly informed about relevant business and organizational updates and have access to enablement materials necessary for day-to-day work to meet and exceed business objectives.
 
