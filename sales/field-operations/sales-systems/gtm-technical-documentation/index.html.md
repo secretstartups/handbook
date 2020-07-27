@@ -124,6 +124,7 @@ Code Units:
 * Create a Chatter Group with the alias that you want the end users to be able to chatter in Salesforce
 * Create a Queue that will own the Case until it is automatically switched into a users name who will work the case
 * Update the `ChatterFeedCommentClass` and the `ChatterFeedItemTest` to monitor for the use of the Chatter Group in chatters within Salesforce
+* Add a picklist value to the `Origin` field on the case object
 
 **Related Epic**
 * [@Sales-Ops Case Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/7)
