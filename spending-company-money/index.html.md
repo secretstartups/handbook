@@ -30,6 +30,15 @@ The guidelines below describe what people in our team commonly expense. Some of 
 1. Receipt Required Amount - [$25 USD](/handbook/total-rewards/compensation/#exchange-rates)
 1. Expenses must be submitted within 90 days of purchase.
 
+For further information on Expenses, visit the [Expenses handbook section](/handbook/finance/expenses/). 
+
+The aforementioned section covers details including:
+1. Reimbursing coworking fees and external office space.
+1. Office equipment and workspace supplies
+1. Work-related online courses and professional development certifications
+1. Year-end holiday party budget 
+1. Travel expense guidelines 
+
 ## Advance
 
 These instructions apply if a team member is unable to purchase items, for whatever reason.
