@@ -27,6 +27,7 @@ The program also creates opportunities for the CEO to build relationships with t
 The shadows will also often connect with one another, developing new cross-functional relationships.
 
 ### What it is not
+
 The CEO Shadow Program is not a performance evaluation or the next step to a promotion. Being a CEO shadow is not needed to get a promotion or a raise, and should not be a consideration factor for a promotion or raise, as diverse applicants have different eligibilities.
 
 ### Benefits for the company
@@ -137,7 +138,7 @@ Considerations are cumulative and can be:
 
 You're also eligible if you work(ed) at an investment firm and while there helped to lead a private round in GitLab.
 
-Exceptions to eligability:
+Exceptions to eligibility:
 
 CEO Shadow rotations will be reserved for [All-Directs](/handbook/leadership/#all-directs) during the week of [E-Group Offsites](/handbook/ceo/offsite/#schedule). An exception will be made if there is last minute availablity as two All-Directs are not available to serve in this role during this window.
 
@@ -213,7 +214,9 @@ The week of 2020-12-13 will be the last CEO Shadow Rotation of 2020 to allow our
 If you have questions regarding the planned rotation schedule, please ping the Executive Admin to the CEO. The EBA to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation.
 
 ## Preparing for the Program
+
 ### Important things to note
+
 1. This is not a performance evaluation
 1. Plan to observe and ask questions.
 1. Don't plan to do any of your usual work. Prepare your team as if you were on vacation.
@@ -278,13 +281,12 @@ However, there are many short-term administrative tasks you'll be asked to perfo
 1. Solve urgent issues. For example, help solve a complaint from a customer or coordinate the response to a technical issue.
 1. Share [thanks](/handbook/communication/#say-thanks) in the `#thanks` channel in Slack when it comes from a customer or wider community member in a meeting.
 1. Compile a report on a subject.
-1. Write an [Unfiltered blog post](/blog/categories/unfiltered/) based on a conversation, something you learned, or your experience. These do not need to be approved by the CEO but he will happily review him if you'd like. Please see [the blog handbook](/handbook/marketing/blog/unfiltered/) for information about the publishing process, and be sure to read previous CEO shadows' blog posts before you start writing to ensure that your post has a new angle.
+1. Write an unfiltered blog, a recorded reflection of your experience, or a CEO Interview on a topic of your choice. Please see [the blog handbook](/handbook/marketing/blog/unfiltered/) for information about the publishing process, and be sure to read previous CEO shadows' blog posts before you start writing to ensure that your post has a new angle. Link this to the table in the [Alumni](/handbook/ceo/shadow/#alumni/) section. These do not need to be approved by the CEO but he will happily review them if you'd like.
 1. Ensure visual aids and presentations are visible to guests during in-person meetings.
 1. Prepare for and receive guests at Mission Control.
 1. Offer GitLab swag to guests at Mission Control before they leave.
 1. Answer the phone and door at Mission control.
-1. Consider posting an unfiltered blog, a recorded reflection of your experience, or a CEO Interview on a topic of your choice. Link this to the table in the [Alumni](/handbook/ceo/shadow/#alumni/) section.
-1. Improve and provide training to incoming CEO Shadows.
+1. Provide training to the incoming CEO Shadow(s).
 1. Speak up when the [CEO displays flawed behavior](/handbook/ceo/#flaws).
 
 #### Collecting and managing tasks
@@ -292,9 +294,9 @@ However, there are many short-term administrative tasks you'll be asked to perfo
 
 The CEO shadows maintain a project called [CEO Shadow Tasks](https://gitlab.com/gitlab-com/ceo-shadow/tasks/-/boards/1385894).
 It is linked in the `#ceo-shadow` Slack channel description.
-Collect tasks using the first name of the shadow who captured it.
-Add at the end to indicate who will action it.
-Once those items have an open MR against them, post in the `#ceo-shadow` channel.
+Collect tasks using the first name of the shadow who captured it and
+the name of the person that will complete the task.
+Once an MR has been opened, post in the `#ceo-shadow` channel.
 
 ### Meetings & Events
 #### CEO's Calendar
@@ -305,8 +307,7 @@ Once those items have an open MR against them, post in the `#ceo-shadow` channel
 
 #### Types of meetings
 
-There are three types of meetings one the CEO's calendar: GitLab meetings, Valley meetings, and personal meetings. This is probably the most open program in the world.
-The program's continued success depends on the participants respecting confidentiality during the program, after the program, and after they leave GitLab.
+There are three types of meetings one the CEO's calendar: GitLab meetings, Valley meetings, and personal meetings. Please note, the program's continued success depends on the participants respecting confidentiality during the program, after the program, and after they leave GitLab.
 
 ##### GitLab Meetings
 {:.no_toc}
@@ -398,7 +399,7 @@ Meetings come in many different formats, as listed above. Your responsibilities 
   <iframe src="https://www.youtube.com/embed/DtRWvIzOnP4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Assume that you are taking notes in a Google Doc affixed to the meeting invite unless it is a [1:1](/handbook/leadership/1-1/) between the CEO and his direct reports, a board meeting, an internal meeting where the CEO is not the host, or it is explicitly stated not to take notes. If you're unsure whether or not to take notes, default to taking them or ask the CEO. The goal of the notes is to collect the main points and outcomes, not a full transcript.
+Assume that you are taking notes in a Google Doc affixed to the meeting invite unless it is a [1:1](/handbook/leadership/1-1/) between the CEO and his direct reports, a board meeting, an internal meeting where the CEO is not the host, or it is explicitly stated not to take notes. If you're unsure whether or not to take notes, default to taking them or ask the CEO. The goal of the notes is to collect the main points and outcomes, not a full transcript of the conversation.
 In many cases, shadows may not understand fully what is being discussed. As you are taking notes, be mindful that the goal of the program is to absorb what is being said in the meetings you are in. When you do not understand what it is being said, pause to listen and avoid documenting incorrect information.
 If a notes document is not already linked, see the [templates available here](/handbook/eba/#meeting-request-requirements).
 
@@ -408,12 +409,12 @@ Tips:
 * Add extra blank lines after a bulleted or numbered line to make it easier for multiple notetakers to type notes. In the agenda provided, press enter to add a numbered line, followed by a space and press enter again to create a blank line (as Google documents will not allow a numbered line to be empty).
 * Consider clicking somewhere in the document where people are not actively reading or writing so that your name next to the cursor doesn't hide that text.
 * Showing up one to two minutes early to a meeting may give you an opportunity to network with GitLab team members who you do not know.
-* Put Zoom in "gallery mode" so you can see all participants (rather than only the person currently speaking). This allows everyone to see the entire audience which facilitates inclusion and better communication.
-* If you aren't sure where meeting attendees are in Google document, click on their face or initials in the upper-right side of the window. Doing this will cause your cursor to jump to wherever their cursor is in the document.
-* It can be challenging to coordinate with the other shadow on who is taking notes at any point in time.  Consider agreeing with the other shadow to "show your hands" in Zoom to indicate that you are not currently taking notes.
+* Put Zoom in "gallery mode" so you can see all participants (rather than only the person currently speaking). This allows everyone to see the entire audience which creates a more inclusive environment and fosters better communication.
+* If you aren't sure where meeting attendees are in a Google document, click on their face or initials in the upper-right side of the window. Doing this will cause your cursor to jump to wherever their cursor is in the document.
+* It can be challenging to coordinate with the other shadow on who is taking notes at any point in time. Consider agreeing with the other shadow to "show your hands" in Zoom to indicate that you are not currently taking notes.
 
 ##### Keeping time
-Shadows are responsible for being aware of the current time and providing a verbal 5-minute warning to the meeting participants so that they can comfortably wrap up the meeting. Don't wait minutes for a break, just say 'we have 5 minutes left.' Please use the calendar invite as an indication how long the meeting should last. We do [speedy meetings](/handbook/communication/#scheduling-meetings). *Note: Just like notes, timekeeping is _not_ required for 1-1s between the CEO and direct reports.*
+Shadows are responsible for being aware of the current time and providing a verbal 5-minute warning to the meeting participants so that they can comfortably wrap up the meeting. Don't wait for a break in conversation, just say 'we have 5 minutes left.' Please use the calendar invite as an indication how long the meeting should last. We do [speedy meetings](/handbook/communication/#scheduling-meetings). *Note: Just like notes, timekeeping is _not_ required for 1-1s between the CEO and direct reports.*
 
 Shadows should also notify meeting participants if a meeting is running over the allocated time by saying 'we're in overtime'.
 
@@ -453,7 +454,6 @@ checking the "last modified" date.
 
 #### Attending in-person events with the CEO
 
-
 When attending events with the CEO, keep the following in mind:
 1. Remind the CEO to bring extra business cards before leaving. And bring a few for yourself.
 1. The CEO has outlined his [transport preferences](/handbook/ceo/#transport).
@@ -464,7 +464,7 @@ When attending events with the CEO, keep the following in mind:
 The CEO often has work events that are also social events.
 In Silicon Valley, social and work are very intertwined.
 These mostly take the form of lunches or dinners.
-CEO shadows are invited unless otherwise specified, but there is no expectation or obligation to join, this is an optional part of the program.
+CEO shadows are invited unless otherwise specified, but there is no expectation or obligation to join.
 
 ### Promote Communication Best Practices
 
@@ -475,18 +475,14 @@ It's important that everyone encourages others to follow the [communication guid
 *  When someone starts a Group Conversation with a presentation, ask them to stop and [record a video next time](/handbook/people-group/group-conversations/#presentation)
 
 ### Email Best Practices
-In order to ensure continuity across CEO shadow participants. Always, cc `ceo-shadow@gitlab.com` on emails as part of the program. This ensure that even after
-you've left the program the response and follow up can be tracked.
-
+In order to ensure continuity across CEO shadow participants. Always, cc `ceo-shadow@gitlab.com` on emails as part of the program. This ensures that even after you've left the program the response and follow-up can be tracked.
 
 ### Friendly competition
-
 
 CEO shadows label the handbook MRs they create with the `ceo-shadow` label.
 It's a point of competition between CEO shadows to try to best the previous shadows number of merge requests.
 
 <iframe class="dashboard-embed" src="https://app.periscopedata.com/shared/40ce74a5-00ff-4a5d-8162-b1fe212d8cbc?embed=true" height="700"> </iframe>
-
 
 ### Follow activity from the CEO
 Shadows are encouraged to follow the CEO's activity on various platforms to get a complete picture of his everyday activities and where he directs his attention.
@@ -530,7 +526,7 @@ When traveling with the CEO, keep the following in mind:
 1. For airport pickup with the CEO, research the terminal the CEO arrives in and plan to be there to meet with the driver before the CEO.
 1. Keep the EBA to the CEO and onsite EBA updated regularly and promptly on estimated arrival time in `#ceo-shadow` Slack channel to ensure the schedule is on time.
 1. If travel plans change, please update the EBA(s) in Slack immediately so cancellations to prior transportation can be made promptly to not incur fees.
-1. When returning to San Francisco if on a different airline, be sure to arrive before the CEO and communicate a [meetup location if traveling back to Mission Control](#rideshare-from-airport) together.
+1. When returning to San Francisco, if on a different airline, be sure to arrive before the CEO and communicate a [meetup location if traveling back to Mission Control](#rideshare-from-airport) together.
 
 ### Remote shadow rotations
 
@@ -548,7 +544,7 @@ For insights on maximizing a remote CEO Shadow rotation, view takeaway recap vid
 
 - Be sure that you have an [ergonomic workspace](/company/culture/all-remote/workspace/). You'll be taking lots of notes during meetings, and will want a comfortable setup.
 - Communicate clearly with your co-shadow about shared tasks since you will not be working together in person.
-- Take breaks from your desk when there is a break in the CEO's schedule. Because you're not working from Mission Control or traveling to other meetings with the CEO, it's important to make time to [move around.](/company/culture/all-remote/tips/#dedicate-time-for-health-and-fitness)
+- Take breaks from your desk when there is a break in the CEO's schedule. Because you're not working from Mission Control or traveling to other meetings with the CEO, it's important to take time to [move around.](/company/culture/all-remote/tips/#dedicate-time-for-health-and-fitness)
 - Depending on your time zone, working in Pacific Time may be an adjustment to your typical working hours. [Plan ahead,](/company/culture/all-remote/getting-started/#establish-routine-with-family-and-friends) especially if you're balancing responsibilities with family, pets, roommates, etc.
 - Consider switching locations in your home or workspace during the CEO's 1:1 meetings. Since you [won't be taking active notes](#responsibilities) in these calls, this is a good opportunity to change position or scenery intermittently throughout the day.
 
