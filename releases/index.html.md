@@ -343,6 +343,22 @@ The different processes are documented here:
 - GitLab.com releases:
   - [Auto-deploy releases][process-auto-deploy-release]
 
+### A security issue was assigned to me, where should I start?
+
+See the [Security Release process as Developer] documentation for more information.
+
+Also, make sure to see [Security Releases How to video] for a broad explanation about all the steps required as Developer when working on a security fix.
+
+### Why wasn't my security fix included in the Security Release?
+
+Security issues created on [GitLab Security] need to be associated with the Security Release Tracking issue for them to be included on the Security
+Release. Make sure to use the [security issue template] and follow the steps there.
+
+### How many backports do I need when working on a security issue?
+
+Besides the merge request targeting `master`, three backports will be needed targeting the last two monthly releases and the current release. 
+For more information, see [security release backports].
+
 [semver]: https://semver.org
 [canary]: /handbook/engineering#canary-testing
 [development month]: /handbook/engineering/workflow/#product-development-timeline
@@ -362,3 +378,8 @@ The different processes are documented here:
 [process-security-release-critical]: https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/process.md#critical-security-releases
 [process-security-release-non-critical]: https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/process.md#non-critical-security-releases
 [process-patch-release]: https://gitlab.com/gitlab-org/release/docs/blob/master/general/patch/process.md
+[Security Release process as Developer]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/developer.md
+[Security Releases How to video]: https://www.youtube.com/watch?v=ixtUDxM3nWA
+[GitLab Security]: https://gitlab.com/gitlab-org/security/
+[security issue template]: https://gitlab.com/gitlab-org/security/gitlab/issues/new?issuable_template=Security+developer+workflow
+[security release backports]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/developer.md#backports
