@@ -140,3 +140,30 @@ If the issue weight is over 7 (and not a short term initiative), infra PM should
 
 #### 6. Follow-up
 Once completed, analyze the real impact of the change and expectations going forward.
+
+
+
+## Infrafin Initiatives & FP&A
+Some infrafin initiatives may be included in our financial plan. Examples of this can be seen in the savings tab of our [Vendor Rolling Forecast](https://docs.google.com/spreadsheets/d/1H5OyPAXoQhEJGYYwPoeSElCjhMyzkoz4NB9qEtk53T0/edit?usp=sharing) Spreadsheet. The criteria for initiatives included as part of this are very strict as these would be expected to be completed on time with relatively accurate savings numbers. Labels `ready_for_plan_` can be used by infra analyst to designate when an initiative has sign off and is ready to be included in the next forecast, and `in_plan` can be used to denote when this has actually been included as part of the forecast.
+
+### Criteria to be included in forecast
+- firm due date set with sign off from both infra PM and relevant stage PM if necessary
+- confidence in savings number > 50%
+- `ready_for_plan` label on issue with estimated actual savings, meaning that the number takes into account any relevant discounts as well as other initiatives already included in the forecast which may have overlapping savings.
+
+
+
+## Labeling
+
+- `infrafin`
+
+used to put issues on the infrafin board
+- `Savings-Estimate`
+
+Estimate of quarterly savings of the initiative. Savings labels should be before any discounts are applied and disregarding other initiatives that amy affect the number. This way, we have a consistent and isolated savings estimate label for each initiative to prioritze by
+- `ready_for_plan`
+
+used once the issue has passed the criteria mentioned above and is ready to be reviewed and put into the forecast
+- `in_plan`
+
+used once the initiative is included into the forecast
