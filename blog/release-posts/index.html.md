@@ -240,7 +240,11 @@ The content review of the Performance Improvements and Bug Fixes MRs are the res
 
 The review and any needed adjustment to the ordering of secondary features due to stakeholder feedback is the responsibility of the release post manager. Secondary features, bug fixes, performance improvements, deprecations, removals, and upgrade notes are all sorted alphabetically by title, grouped by stage. To affect the sort order of the secondary features, a change to the content block's `title` is required. The release post manager should work with the product managers of the content blocks to make these changes, to  ensure accuracy and alignment``
 
+After the release post MR has been generated, additional feedback is solicited from the CEO and product leaders via Slack. A best practice for capturing feedback from slack is is to copy the feedback into the MR comments with checkboxes to ensure each item is addressed. PMs can be tagged there also for easier tracking and follow up.  Refer to [this 13.0 MR comment thread ](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/48201#note_345230940)for reference.
+
 The review of all content for quality, including the marketing intro, is recommended for the Release Post Manager to keep things smooth, since it is the Release Post Manager's responsibility to make sure all content is completed until by the 20th of the month, ensuring a one day buffer is left for final error fixes and small improvements.
+
+A best practice for capturing feedback is to copy it from Slack into the MR comments with checkboxes to ensure each item is addressed. PMs can be tagged there also for easier tracking and follow up.  Refer to [this 13.0 MR comment thread ](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/48201#note_345230940)for reference.
 
 #### Next steps
 
@@ -269,8 +273,7 @@ drafting the release post item, it is recommended PMs write Release Post Item MR
 ##### Key dates
 
 - During kickoff preparation, or when planning for the upcoming milestone: consider creating the release posts early to enable the team to [work backwards](https://www.product-frameworks.com/Amazon-Product-Management.html)
-- **10th of the month - Drafted**: ready for review by Product Marketing, Tech Writer, and
-- PM  Group Manager or PM Director
+- **10th of the month - Drafted**: ready for review by Product Marketing, Tech Writer, and PM  Group Manager or PM Director
 - **11th to 16th of the month - Reviewed**: reviewed by all required stakeholders, content revised as needed and ready to be merged
 - **17th of the month - Merged**: release post item MR merged by the Engineering Manager if feature has been merged
 - **18th of the month - Final content assembly**: and release post blog content lock in preparation for final reviews/editing
