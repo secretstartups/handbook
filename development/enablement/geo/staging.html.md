@@ -58,9 +58,33 @@ The staging environment does not have the data (repositories, LFS Objects, uploa
 - [Grafana - Geo Secondary status](https://dashboards.gitlab.net/d/l8ifheiik/geo-status?orgId=1&refresh=5m&var-environment=gstg&var-prometheus=prometheus-01-inf-gstg&var-app_prometheus=prometheus-app-01-inf-gstg&var-events_interval=1h)
 - [Sentry](https://sentry.gitlab.net/gitlab/geo-staging-gitlabcom/issues/1387504)
 
-#### Engineering Support Rotation
+#### Geo Engineer Responsibilities and Support Rotation
 
-Every month, a Geo backend engineer will be responsible for monitoring Geo on staging and creating/escalating any issues. This is not an on-call shift and the staging rotation engineer is not required to fix any issues themselves. Prior to their rotation month, the incoming person should make sure they have SSH access to the staging environment and that they are set up to receive monitoring alerts.
+**Everyone** is responsible for QA testing their own MRs on it (whenever applicable). Make sure anything important gets addressed, and anything less is tracked. If you notice a problem with Geo on staging, then feel free to ping/assign the rotation engineer as DRI.
+
+Every month, a Geo backend engineer will be the DRI for monitoring Geo on staging and creating/escalating any issues. This is not an on-call shift and the DRI is not required to fix any issues themselves. Prior to their rotation month, the incoming person should make sure they:
+
+* have SSH access to the staging environment
+* can view the Geo admin UI on staging
+* have enabled notifications for the [geo-staging-gitlabcom project on Sentry](https://sentry.gitlab.net/gitlab/geo-staging-gitlabcom/)
+
+The main goals for this rotation:
+* Ensure Geo on staging works.
+* Distribute responsibility for keeping Geo on staging working.
+* Better understand the experience of a customer sysadmin
+
+##### DRI Daily Tasks
+
+* Check https://staging.gitlab.com/admin/geo/nodes. If anything seems weird, ask about it in `#geo-for-gitlab-dot-com`. Cross-post in `#g_geo` if needed. Make sure anything important is addressed.
+* Check Sentry. Right now there is a lot of noise, but it can help us identify some edge cases or if something is wrong under the hood.
+
+##### When Geo on Staging is not Working
+
+* Drive toward a diagnosis by:
+  * Investigating with Sentry, Kibana, Grafana, etc, and via SSH into the server.
+  * Opening issues
+  * Asking others for help
+* Help prioritize issues with Engineering Manager, Product Manager, and Infrastructure counterparts.
 
 ##### Rotation Schedule
 
