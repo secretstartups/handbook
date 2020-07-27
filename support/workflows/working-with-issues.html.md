@@ -54,13 +54,15 @@ Required:
 - `~customer`, if appropriate `~customer+`: [see list](https://docs.google.com/spreadsheets/d/19jpPvS9W0rDJUbwZ_AfdaItTxF72GGNUGh7zkrug12w/edit?usp=sharing) (internal)
 - `~regression ##.x` if applicable; for high-impact ones, add `~"Next Patch Release"` and ping the relevant lead and subject area experts
 
+For `~customer`+`~bug` labeled issues, a Severity estimate is required. If it is missing, please add them to attract PM attention to the issue:
+- [Severity](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity): Follow the definitions to the best of your ability when assigning severity. If it's an `~S1`, mention the PM and consider posting in the appropriate Slack channel as well.  As Support often has a better idea of the impact on the customer(s), please explain the impact in a comment when you assign the Severity label. Feel free to have the customer add a comment as well, adding any other context they feel might be important.
+
 **Note:** The use of `~customer+` is under discussion and may change in the near future. Please refer to [sales #302](https://gitlab.com/gitlab-com/sales/issues/302).
 
 Optional, but highly recommended:
 
 - [Group](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#group-labels)
 - [Subject](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#subject-labels)
-- [Severity](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#severity-labels): often Support has a better idea of the impact on the customer(s), and if S1, mention PM and consider posting in appropriate Slack channel as well.
 - `~Reproduced on GitLab.com` if applicable
 
 ## Escalate New and Existing Issues
