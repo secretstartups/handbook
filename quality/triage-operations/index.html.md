@@ -310,6 +310,7 @@ Open issues and merge requests that have missed the current release will be resc
 
 Open issues and merge requests planned as `~Deliverable` but have a `~missed:x.y`
 label will have the `~missed-deliverable` label applied.
+**Note:** Confidential issues will be skipped as part of the `missed` label application. Please see the [this issue](https://gitlab.com/gitlab-org/quality/triage-ops/-/issues/45) for more information
 
 * Automation Condition: Open issues or merge requests with the `~Deliverable`
   label and a `~missed:x.y` label, and no `~missed-deliverable` label.
