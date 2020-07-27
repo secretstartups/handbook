@@ -96,7 +96,6 @@ The MQL scoring model below is correct as of 11 March 2020. Additional changes a
 |Generic Email Address|{{my.Generic Email}}|-5|Demographic|Has Generic Email Domain|Trigger|Once|
 |Title - VP, Manager, Director, Principal, Head, CIO, CEO, CFO, CSO, Founder, CTO, Chief, Executive, President or Lead (including French)|{{my.Title - High Tier}}|+50|Demographic|Title contains: VP, Vice President, Manager, Director, Senior, Head, CIO, CEO, CFO, CSO, Founder, CTO, Chief or Lead|Trigger|Once|
 |Title - VP, Manager, Director, Principal, Head, CIO, CEO, CFO, CSO, Founder, CTO, Chief, Executive, President or Lead (including French)|{{my.Title - High Tier}}|+50|Demographic|Not in Trigger Campaign AND <br>Title Contains: VP, Vice President, Manager, Director, CIO, CEO, CFO, CSO, Founder, CTO, Chief or Head|Batch|Every Morning / Once|
-|Title - Developer, Engineer (including French)|{{my.Title - Low Tier}}|-10|Demographic|Title Contains: developer, engineer AND <br> Title not contains: Executive, Manager, Director |Trigger|Once|
 |Unsubscribes from Emails|{{my.Unsubscribed}}|-25|Behavior|Unsubscribes from Any Email OR<br>Unsubscibe = TRUE|Trigger|Once|
 |Large Account|{{my.Large Account}}|+20|Demographic|Leads/Contacts of target ABM Accounts|Batch|Once|
 
