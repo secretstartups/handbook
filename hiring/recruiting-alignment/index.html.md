@@ -14,7 +14,7 @@ title: "Recruiting Alignment"
 | Enterprise Sales, APAC | Simon Poon | Kelly Murdock | Lea Hanopol | Ashley Jones| Viren Rana |Anastasia Pshegodskaya|
 | Commercial Sales,	NA/EMEA | Marcus Carter| Kelly Murdock   | Ashley Jones|April Hoffbauer| Susan Hill  | Anastasia Pshegodskaya|
 | Commercial Sales, APAC | Simon Poon |Kelly Murdock | Lea Hanopol | Ashley Jones |Viren Rana |Anastasia Pshegodskaya|
-| Channel Sales, NA | Stephanie Sarff |Kelly Murdock | Shiloh Barry | Ashley Jones| Kanwal Matharu |Anastasia Pshegodskaya|
+| Channel Sales, NA | Stephanie Sarff |Kelly Murdock | Kalene Godoy | Ashley Jones| Kanwal Matharu |Anastasia Pshegodskaya|
 | Channel Sales, EMEA | Debbie Harris |Kelly Murdock | Corinne Sapolu | Ashley Jones| Kanwal Matharu |Anastasia Pshegodskaya|
 | Channel Sales, APAC | Simon Poon |Kelly Murdock | Lea Hanopol| Ashley Jones| Viren Rana |Anastasia Pshegodskaya|
 | Field Operations,	NA/EMEA/APAC | Kelly Murdock   |Dave Gilbert| Taharah Nix| Ashley Jones |Susan Hill   | Anastasia Pshegodskaya|
@@ -22,23 +22,23 @@ title: "Recruiting Alignment"
 | Customer Success, EMEA | Debbie Harris  | Kelly Murdock |Corinne Sapolu |Ashley Jones|Kanwal Matharu |Anastasia Pshegodskaya|
 | Customer Success, APAC | Simon Poon |Kelly Murdock | Lea Hanopol |Ashley Jones| Viren Rana |Anastasia Pshegodskaya|
 | Federal Sales, Customer Success, Marketing | Stephanie Garza  |Kelly Murdock | Corinne Sapolu |Ashley Jones| Susan Hill |Anastasia Pshegodskaya|
-| Marketing, North America | Steph Sarff   |Dave Gilbert   | Shiloh Barry |Ashley Jones|J.D. Alex |Anastasia Pshegodskaya|
-| Marketing, EMEA | Sean Delea   |Dave Gilbert   | Kike Adio |Ashley Jones| Viren Rana |Anastasia Pshegodskaya|
+| Marketing, North America | Steph Sarff   |Dave Gilbert   | Kalene Godoy |Ashley Jones|J.D. Alex |Anastasia Pshegodskaya|
+| Marketing, EMEA | Sean Delea   |Dave Gilbert   | Corinne Sapolu |Ashley Jones| Viren Rana |Anastasia Pshegodskaya|
 | G&A | Maria Gore   | Dave Gilbert   |Taharah Nix |Ashley Jones|Loredana Iluca |Anastasia Pshegodskaya|
-| Quality                   | Rupert Douglas   |Cyndi Walsh                                       | Kike Adio  |  Ashley Jones  | Caesar Hsiao      |Anastasia Pshegodskaya|
-| UX        &   Technical Writing               | Rupert Douglas  |Cyndi Walsh                                        | Kike Adio   |  Ashley Jones      | Zsusanna Kovacs      |Anastasia Pshegodskaya|
-| AMER Support                   | Chantal Rollison    |Cyndi Walsh                                        | Lea Hanapol  |  Ashley Jones    | Alina Moise  |Anastasia Pshegodskaya|
-| EMEA Support  | Catarina Ferreira/Trust Ogor/Rupert Douglas       |Liam McNally/Cyndi Walsh                                      | Corinne Sapolu/Kike Adio  |  Ashley Jones        | Joanna Michniewicz/Zsuzsanna Kovacs       |Anastasia Pshegodskaya|
-| APAC Support  | Ryan Demmer/Matt Allen         |Liam McNally/Cyndi Walsh                                     | Kalene Godoy/Kike Adio   |  Ashley Jones       | Caesar Hsiao/Chris Chruz       |Anastasia Pshegodskaya|
-| Security                  | Ryan Demmer    |    Liam McNally                                     | Shiloh Barry  |  Ashley Jones      | Caesar Hsiao      |Anastasia Pshegodskaya|
-| Development - Secure/Defend      | Ryan Demmer     |Liam McNally                                      | Shiloh Barry |  Ashley Jones         | Caesar Hsiao       |Anastasia Pshegodskaya|
-| Infrastructure            | Matt Allen     |Cyndi Walsh                                        | Kike Adio |  Ashley Jones      | Chris Cruz |Anastasia Pshegodskaya|
-| Development - Dev         | Catarina Ferreira   |Liam McNally                                    | Corinne Sapolu  | Ashley Jones       | Joanna Michniewicz       |Anastasia Pshegodskaya|
-| Development - Dev  | Eva Petreska  |Liam McNally                                          | Taharah Nix|  Ashley Jones     | Zsuzsanna Kovacs      |Anastasia Pshegodskaya|
-| Development - Dev      | Trust Ogor    | Liam McNally                                          | Lea Hanopol   |  Ashley Jones       | Alina Moise       |Anastasia Pshegodskaya|
-| Product Management  | Matt Allen    |Cyndi Walsh                  | Kike Adio |  Ashley Jones  |  Chris Cruz |Anastasia Pshegodskaya|
-| Product & Engineering - Non-Dev (Key Roles)   | Cyndi Walsh   | Liam McNally                 | Ashley Jones |  April Hoffbauer |  Chris Cruz |Anastasia Pshegodskaya|
-| Engineering - Dev (Key Roles)  | Liam McNally   | Dave Gilbert               | Lea Hanopol  |  Ashley Jones  |  Chris Cruz  |Anastasia Pshegodskaya|
+| Quality | Rupert Douglas   |Cyndi Walsh | Taharah Nix  |  Ashley Jones  | Caesar Hsiao |Anastasia Pshegodskaya|
+| UX & Technical Writing | Rupert Douglas |Cyndi Walsh | Taharah Nix  |  Ashley Jones  | Zsusanna Kovacs  |Anastasia Pshegodskaya|
+| AMER Support| Chantal Rollison  |Cyndi Walsh  | Lea Hanapol  | Ashley Jones  | Alina Moise |Anastasia Pshegodskaya|
+| EMEA Support  | Catarina Ferreira/Trust Ogor/Rupert Douglas |Liam McNally/Cyndi Walsh | Corinne Sapolu/Taharah Nix/Lea Hanopol  |  Ashley Jones  | Joanna Michniewicz/Zsuzsanna Kovacs  |Anastasia Pshegodskaya|
+| APAC Support  | Ryan Demmer/Matt Allen   |Liam McNally/Cyndi Walsh | Kalene Godoy/Taharah Nix   |  Ashley Jones | Caesar Hsiao/Chris Chruz  |Anastasia Pshegodskaya|
+| Security | Ryan Demmer  |  Liam McNally | Kalene Godoy  |  Ashley Jones | Caesar Hsiao  |Anastasia Pshegodskaya|
+| Development - Secure/Defend  | Ryan Demmer  |Liam McNally  | Kalene Godoy |  Ashley Jones  | Caesar Hsiao   |Anastasia Pshegodskaya|
+| Infrastructure   | Matt Allen  |Cyndi Walsh  | Taharah Nix |  Ashley Jones  | Chris Cruz |Anastasia Pshegodskaya|
+| Development - Dev   | Catarina Ferreira   |Liam McNally  | Corinne Sapolu  | Ashley Jones   | Joanna Michniewicz  |Anastasia Pshegodskaya|
+| Development - Dev  | Eva Petreska | Liam McNally  | Taharah Nix |  Ashley Jones | Zsuzsanna Kovacs  |Anastasia Pshegodskaya|
+| Development - Dev  | Trust Ogor | Liam McNally    | Lea Hanopol  |  Ashley Jones  | Alina Moise  |Anastasia Pshegodskaya|
+| Product Management  | Matt Allen   |Cyndi Walsh  | Taharah Nix |  Ashley Jones  |  Chris Cruz |Anastasia Pshegodskaya|
+| Product & Engineering - Non-Dev (Key Roles)   | Cyndi Walsh   | Liam McNally  | Ashley Jones |  April Hoffbauer |  Chris Cruz |Anastasia Pshegodskaya|
+| Engineering - Dev (Key Roles)  | Liam McNally   | Dave Gilbert  | Lea Hanopol  |  Ashley Jones  |  Chris Cruz  |Anastasia Pshegodskaya|
 
 ## Recruiting Operations and Talent Branding Alignment
 
