@@ -35,28 +35,27 @@ Identity is a critical element of the implementation of a ZTN framework. GitLab 
 
 In many enterprise environments, virtual private networks (VPN) are used to
 allow access to less secured resources, typically also protected by an
-enterprise firewall. At GitLab, as an all remote company, we do most of our
-work using other Software-as-a-Service (SaaS) providers that we rely on to
-maintain confidentiality of communication and data. Additionally adding VPN
-connectivity only marginally improves the security of using those systems.
-For the use case of laptop usage in untrusted environments, such as coffee
-shops and coworking spaces, a baseline of always-on host protections, such as
-up-to-date security patching, host firewalls, and antivirus, should be
-prioritized.
-
-Team members should follow the [system configuration guidelines](#laptop-or-desktop-system-configuration)
-at a minimum to secure their workstations.
+enterprise firewall. Adding corporate VPN connectivity only marginally improves
+the security of using those systems and assumes a network perimeter is in place.
+At GitLab, as an all remote company, we do most of our work using other 
+Software-as-a-Service (SaaS) providers that we rely on to maintain 
+confidentiality of communication and data.
 
 In relation to [Zero Trust](#zero-trust), a corporate VPN is a perimeter, which
 ZTN architecture deemphasizes as a basis for making authorization decisions.
 Current access to critical systems is managed through alternative controls.
 
 While a corporate VPN is not implemented at this time, there are other valid
-use cases for which individual team members may still wish to use a personal
+use cases for which individual team members may still wish to use a _personal_
 VPN, such as privacy or preventing traffic aggregation. Team members that
-wish to use a personal VPN service for any reason may still [expense one].
+wish to use a personal VPN service for any reason may still [expense one](/handbook/spending-company-money/#expenses).
 
-[expense one]: /handbook/spending-company-money/#expenses
+For the use case of laptop usage in untrusted environments, such as coffee
+shops and coworking spaces, team members should prioritize a baseline of always-on host protections,
+such as up-to-date security patching, host firewalls, and antivirus, by following the
+[system configuration guidelines](#laptop-or-desktop-system-configuration)
+at a minimum. That said, a personal VPN may provide additional protections in these situations.
+For more on personal VPNs see the [tips for Wi-Fi usage](/handbook/tools-and-tips/#wi-fi-usage).
 
 ## Contact GitLab Security
 
