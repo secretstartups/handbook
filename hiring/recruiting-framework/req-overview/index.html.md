@@ -107,7 +107,7 @@ For more information about Greenhouse and it’s tips & tricks, please refer to 
 
 We use **On track**, **Needs attention**, and **At risk** to define the requisitions health. We define each level as...
 
-- On track: We are confident this requisition will be hired by the expected start date. There are no unaddressed issues related to the candidate pipeline and hiring teams seem to be well aligned.
+- On track: We are confident this requisition will be hired by the expected start date. There are no unaddressed issues related to the candidate pipeline and hiring teams are aligned.
 - Needs attention: Hiring teams have concerns, answered questions, or noticed a misalignment that requires collaboration if we are to provide an excellent candidate experience and hire the requisiton before the planned hire date. Steps are being taken to recify the issues that are present. 
 - At risk: We will not make the targeted hire date without immediate action to rectify the situation. 
 
