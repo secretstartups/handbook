@@ -204,7 +204,7 @@ Further information and corresponding discussion are available under [Compensati
 
 ### Coworking Space Agreement
 
-We researched whether there was an account that could be set up with a coworking space chain that would make it easier for team members to utilize these spaces. Three major chains with global coverage were contacted with one responding. After conducting a survey, the type of account this chain offers doesn't align with the way the majority of team members utilize coworking spaces. Team members are still welcome to follow the existing process of [expensing a coworking space](/handbook/spending-company-money/).
+We researched whether there was an account that could be set up with a coworking space chain that would make it easier for team members to utilize these spaces. Three major chains with global coverage were contacted with one responding. After conducting a survey, the type of account this chain offers doesn't align with the way the majority of team members utilize coworking spaces. Team members are still welcome to follow the existing process of [expensing a coworking space](/handbook/finance/expenses/#coworking-or-external-office--space).
 
 Further information, survey results, and corresponding discussion are available under [Compensation Issue #30](https://gitlab.com/gitlab-com/people-ops/Compensation/issues/30) (internal).
 
