@@ -1,7 +1,7 @@
 ---
 layout: markdown_page
 title: "MikeL's README"
-job: "Support Engineer (APAC)"
+job: "Support Engineer - APAC"
 ---
 
 <!-- This template will help you build out your very own GitLab README, a great tool for transparently letting others know what it's like to work with you, and how you prefer to be communicated with. Each section is optional. You can remove those you aren't comfortable filling out, and add sections that are germane to you. --> 
