@@ -90,8 +90,7 @@ On our best day, we show up with a positive attitude while demonstrating [GitLab
 <details>
 <summary markdown="span">3. What does the Field Enablement team do?</summary>
 
-- Define, coordinate, and/or lead the development and delivery of effective enablement solutions (training, technology, knowledge, content, process, and tools) for GitLab sales reps, Customer Success professionals, and partners
-- Lead facilitation of prioritized behavior change in the GitLab field organization
+- Define, coordinate, and/or lead the development and delivery of effective enablement solutions (training, technology, knowledge, content, process, and tools) for GitLab sales reps, Customer Success professionals, and partners to address prioritized knowledge gaps and behavior change in the GitLab field organization
 - Serve as a champion for the field – ensure they are regularly informed about relevant business and organizational updates and have access to enablement materials necessary for day-to-day work
 - Collaborate cross-functionally with key stakeholders including Sales, Customer Success, Marketing, Sales Ops, Product, and PeopleOps
 </details>
