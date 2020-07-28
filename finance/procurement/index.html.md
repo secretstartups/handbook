@@ -293,3 +293,24 @@ Procurement operates with three main goals
 1.  Cost Savings
 2.  Centralize Spending
 3.  Compliance
+
+## Procurement Performance Indicators
+Effective August 1, 2020
+
+Response times to initial requests for review <= 2 business days
+*Monthly average response time to new procurement purchase request issues within 24 business hours. Issues with missing information will be rejected after two consecutive attempts to follow up.
+
+Reject unresponsive purchase request issues <= 4 business days
+* If issue creator fails to respond to procurement teams requests for additional information after 2 consecutive attempts over less then 4 business days, issue will be moved to a "Procurement::Rejected" status. 
+
+Administer, maintain, and manage the procurement purchase request issue tracker (daily, ongoing) <=24 hours
+* Triage and assign issues in the procurement [issue board](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/boards/1844091) within 2 business days of receipt.
+
+Ensure all contracts have the correct approvals in place before signed = 100%
+* Verify the correct approvers have approved all purchase requests according to the [Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/) before the contract is signed. 
+
+Ensure all fully executed vendor contracts are posted to ContractWorks = 100%
+* Upload all fully executed agreement to ContractWorks for accurate recording. Legal team will assign terms and fields.
+
+Negotiation Cycle Average Days <= 90 days
+* Average number of days on a quarterly basis during the Negotiation phase. This is identified by time spend in the "Procurement::Negotiation" label. 
