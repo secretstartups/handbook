@@ -313,4 +313,4 @@ Negotiation Cycle Average Days <= 60 days
 * Average number of days on a quarterly basis for the Negotiation phase. This is identified by time spent in the "Procurement::Negotiation" or "Procurement::Vendr" label. 
 
 'Turn-Around' times <= 3 business days
-* Monthly average response times to proposal updates, commercial constructs, procurement questions, etc.
+* Monthly average response times within purchase request issues for proposal updates, commercial constructs, procurement questions, etc.
