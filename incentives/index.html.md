@@ -210,7 +210,7 @@ Chances are that if you work at GitLab, you have great friends and peers who wou
 We encourage and support [diversity](/handbook/values) and [frugality](/handbook/values) on our team and in our hiring practices, so we will offer the following referral bonuses once the new team member has been with the company for 3 months. We will award the highest cumulative dollar amount as outlined below:
 * [$500](/handbook/total-rewards/compensation/#exchange-rates) base referral bonus for a new hire.
 * [$1,000](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus for a hire from a [Location factor](/handbook/total-rewards/compensation/compensation-calculator/calculator/) less than 0.65.
-* [$1,500](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus for a hire from a ["select underrepresented group"](#premium-bonus-for-select-underrepresented-groups).
+* [$1,500](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus for a hire from a ["select underrepresented group"](#add-on-bonus-for-select-underrepresented-groups).
 
 The following is an *example* of a cumlative Referral Bonus:
 * Hire a refered Strategic Account Leader: $500
