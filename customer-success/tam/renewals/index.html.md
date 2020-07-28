@@ -21,7 +21,7 @@ At the beginning of each month a TAM should review their list of accounts in Sal
 
 ## TAM Prioritization
 
-On the Gainsight Attributes section, the TAM can set the priority level per customer with levels 1-5, with 1 being the highest. Definitions include:
+On the Gainsight Attributes section, the TAM can set the priority level per customer with levels 1-3, with 1 being the highest. Definitions include:
 
 1. High Touch: TAM-led onboarding, regular cadence calls, full TAM-led customer lifecycle
 2. Medium Touch: TAM-led onboarding, quarterly check-ins, renewal touch point
