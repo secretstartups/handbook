@@ -120,6 +120,14 @@ Code Units:
 * Tests
    * [ChatterFeedItemTest.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/ChatterFeedItemTest.cls)
 
+**Steps to add a Group:** 
+* Do to limitations with Salesforce much of the minor updates must be implemented manually in production
+* Create a Chatter Group with the alias that you want the end users to be able to chatter in Salesforce (In Production)
+* Create a Queue that will own the Case until it is automatically switched into a users name who will work the case. (Changeset)
+   * Review Queue member and email options with requester 
+* Update the `ChatterFeedCommentClass` and the `ChatterFeedItemTest` to monitor for the use of the Chatter Group in chatters within Salesforce (Changeset)
+* Add a picklist value to the `Origin` field on the case object (In Production)
+
 **Related Epic**
 * [@Sales-Ops Case Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/7)
    
