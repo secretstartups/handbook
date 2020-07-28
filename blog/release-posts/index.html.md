@@ -244,8 +244,6 @@ After the release post MR has been generated, additional feedback is solicited f
 
 The review of all content for quality, including the marketing intro, is recommended for the Release Post Manager to keep things smooth, since it is the Release Post Manager's responsibility to make sure all content is completed until by the 20th of the month, ensuring a one day buffer is left for final error fixes and small improvements.
 
-A best practice for capturing feedback is to copy it from Slack into the MR comments with checkboxes to ensure each item is addressed. PMs can be tagged there also for easier tracking and follow up.  Refer to [this 13.0 MR comment thread ](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/48201#note_345230940)for reference.
-
 #### Next steps
 
 Now that you have created the release post MR, refer to the checklist in the MR for each action that you need to take and the due dates of each action.
