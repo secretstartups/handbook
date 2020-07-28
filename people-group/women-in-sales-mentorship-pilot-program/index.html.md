@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Women in Sales Mentorship Pilot Program"
+title: "Sales Diversity Inclusion & Belonging Initatives"
 ---
 
 ## On this page
@@ -9,9 +9,9 @@ title: "Women in Sales Mentorship Pilot Program"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# Women in Sales Pilot Program 
+# Sales Diversity Inclusion & Belonging Initatives
 
-
+## Women in Sales Mentorship Program Pilot
 
 As discussed in [GitLab’s Remote Playbook](https://about.gitlab.com/company/culture/all-remote/), the intentionality behind communication, especially in remote settings, is a critical element of success. This pilot program aims to support GitLab’s communications plan by purposefully creating and cultivating opportunities for mentors, mentees, and connection. 
 
@@ -148,3 +148,32 @@ You are eligible to apply for the program if you meet the requirements below:
 
 
 Interested in what other mentorship opportunities exist at GitLab? Check out the [Minorities in Tech](https://about.gitlab.com/company/culture/inclusion/erg-minorities-in-tech/mentoring/) pilot program! 
+
+# Reverse Ask Me Anything
+
+**The Reverse AMA format** - Questions asked by a facilitator (typically a member of the leadership team), answered by the group.
+
+In Sales, we piloted this format with our black team members. We wanted to start with this underrepresented group to acknowledge that our Black team members may be processing a lot of emotions in different ways as a result of domestic and global events. Our [values](https://about.gitlab.com/handbook/values/) promote being inclusive and being an [ally](https://about.gitlab.com/handbook/communication/ally-resources/), and we need to lean into these values.
+
+**Benefits**
+* Improve efforts at driving inclusion and belonging at every level
+* Enhance open communication
+* Direct access to the Executive level
+* Opportunity to share experiences and provide feedback
+* Improve Recruiting, Retention and Mobility of this URG:
+* Continue to grow our great network of diverse talent. A key step in endorsing that GitLab (and the Sales org) is a great place for minority talent, is for current team members from URGs to confirm this.
+
+**Goals**
+* To continue the momentum of conveying genuine empathy and solidarity for our Black team members
+* To address areas of challenges and opportunities identified by Black Sales team members
+* To allow for open, honest communication within a specific format
+* To increase interaction between Sales Leadership and team members
+* To increase the visibility of this group
+* To increase direct access to the CRO
+* To identify opportunities to implement specific DI&B initiatives with leadership support
+
+**Format**
+* A 50 minute closed Zoom call
+* Attendees: CRO and interested Sales Team members who identify as Black
+* Questions asked by CRO, answered by Black Sales team members
+* Call will be hosted by People Business Partners
