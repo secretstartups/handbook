@@ -96,6 +96,7 @@ This will be the responsibility of the People Experience Associate that is assig
     - Ensure that all the different departments complete their tasks within the 5 day due date. 
     - Immediate action is required from the People Experience Team and the IT Ops Team once the issue has been created. 
     - Ping the relevant team members to call for a task to be completed in the offboarding issue.
+    - Confirm that a departure announcement has been made in #team-member-updates on Slack.
 
 - Career Mobility 
 
@@ -114,6 +115,12 @@ This WIP and will be included here soon.
 
 - Report is pulled every Monday and Wednesday
 
+### Weekly Moo Report
+
+Every week, the People Experience Associate in the rotation creates a Report in BambooHR containing all Active Employees in three columns: their First Name, their Last Name, their GitLab work email. People Experience Associate adds this data to the `GitLab : Moo` spreadsheet in a new weekly tab titled that Tuesday's date (format yyyy-mm-dd) so that our Moo Rep can grab this data and send out email invitations to new team members from the Moo platform.
+
+Please note that all info from the report is added to the sheet, including any past hires. The Moo system will only send the invitation to the new members not previously listed on the sheet. This ensures that any potential missed members still receive their invitation.
+
 ### OSAT Team Member Feedback
 
 Once a new team member has completed their onboarding, they are asked to complete the `Onboarding Survey` to share their experience. Based on the scores received, the People Experience Associate assigned to the specific team members onboarding, will complete the following:
@@ -129,12 +136,16 @@ In the same survey, new team members are able to provide a score and feedback on
 
 *Current Process*
 
-Team members celebrating their first, third and fifth anniversaries with GitLab would have received an email from the People Experience Team asking them to complete their information in order to have their item shipped. Due to production and shipping delays, many team members are still waiting for their gifts and are instructed to make contact with people-exp@gitlab for follow up. Once we receive the request:
+Team members celebrating their first, third and fifth anniversaries with GitLab would have received an email from the People Experience Team asking them to complete their information in order to have their item shipped. Due to production and shipping delays, many team members celebrating their anniversaries prior to June 2020 are still waiting for their gifts and are instructed to complete the `First Anniversary Gifts` [form](https://docs.google.com/forms/d/e/1FAIpQLScgBaNWmqEA5Tx2jZlffiDIeOfn7fvyyy7oF7cXQrSq9saYvQ/viewform). Once we receive a request on the form:
 
-1. Advise the team member that we will follow up with the vendor and get back to them. 
-1. Send an email to the DRI at the vendor and ask for feedback on the team members order, providing the team members name and anniversary unique code. Please cc People Experience Team Lead. 
-1. Add the team members request to the `Anniversary Pending Feedback` spreadsheet in Google Drive. 
-1. Once feedback is received, depending on the situation, we will still need to get approval that the item may be shipped or an order needs to be placed again. Important to note that there are time delays in getting the approval required in order to get back to the team member.  
+1. Check to see whether the team members are listed on the current `Orders Backordered Datasheet` in Google Drive.
+    - If the team member's name is not included on there, we can take this as confirmation that an order was never received for the team member. The team member can then either proceed with ordering the existing Tanuki socks in the Swag store or wait for the new socks to be designed and produced. 
+    - If the team member's name is on the backlog to be shipped out, this should be shipped out soon, but may have some delays with reaching the team members due to the pandemic. 
+1. Advise the team member how they should proceed based on the above (either place order for Tanuki socks, wait for new design, or advise their shipment will arrive soon).  
+
+*New Process*
+
+With the new sock design being released soon for first year celebrants, the process will be different to the current process and will be updated soon! 
 
 ### Gift Requests
 

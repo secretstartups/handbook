@@ -32,6 +32,11 @@ Each onboarding issue has a main section that contains tasks relevant to all Git
 
 Through onboarding issues, you should gain access to our team member [baseline entitlements](https://about.gitlab.com/handbook/engineering/security/#baseline-role-based-entitlements-access-runbooks--issue-templates). On Day 2 of onboarding an [Access Request](https://about.gitlab.com/handbook/people-group/engineering/#access-request-issue-creation) will be generated, if a template has been created for the role. Access requests are owned by the IT team. If you have any access requests related questions, please reach out to #it-help in Slack.
 
+## Onboarding Check-In Call
+All new team members are invited to the Onboarding Check-In call. This call occurs every other Thursday in both an APAC/EMEA and an Americas friendly time. 
+
+This call is available for new team members to ask questions about onboarding, benefits, and anything else they have not been able to find the answer to. It is an AMA (Ask Me Anything) style call. Coming prepared with questions is always encouraged.
+
 ## Slack Channel Support for New Team Members
 
 By default, all new team members are added to the below Slack channels from day 1 to ensure that they are able to ask any questions or for assistance in the correct channels upfront:

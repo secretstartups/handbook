@@ -69,6 +69,15 @@ Why am I here? Team needs to move from complete freedom to a set of “boundarie
 - How will my skill be used?
 - How can I best contribute?
 
+<details>
+  <summary markdown='span'>
+    Stage 1 Diagram
+  </summary>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRHRyishV7cc9k78hA7coEyYw0udvNBIWOgZZtMCxmzwPBPU_0_7b6BizAxH_1qocAZHhGhyWxuOcCt/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</details>
+
 **Stage 1 Manager Tasks:**
 1. Document the team’s purpose/mission
 2. Review the model with new and existing team members
@@ -78,10 +87,10 @@ Why am I here? Team needs to move from complete freedom to a set of “boundarie
 
 <details>
   <summary markdown='span'>
-    Step 1 Diagram
+    Sage 1 Manager Tasks Diagram
   </summary>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRHRyishV7cc9k78hA7coEyYw0udvNBIWOgZZtMCxmzwPBPU_0_7b6BizAxH_1qocAZHhGhyWxuOcCt/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSiNEAtjZlzmTqNCNCrN81l2lTEg-VpRgVNC2UGyyprbjwcng_f4UDI3MstrgEkfU3NY-q9qJUy0BT0/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 </details>
 

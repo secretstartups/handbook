@@ -40,7 +40,7 @@ If resignation is the only solution after you have discussed your concerns, plea
     * The PBP will acknowledge the receipt of the resignation with the team member confirming the last working day. Feel free to reference this [example email](https://docs.google.com/document/d/1rZvczqEuyyFDAzjheiF4LpcLuvj9fFd6maPOSDwkYpQ/edit).
     * **If the team member is located in a country with statutory holiday allowance**, the holiday taken should be confirmed with the manager and team member via email and then filed in BambooHR.
     * Once that has been done an Acknowledgement Letter can be prepared, which will depend on the `location` and `employment status` of the team member.
-    * A couple of examples can be reviewed here: [GitLab Ltd (UK) Resignation Acknowledgement](https://docs.google.com/document/d/1zV1qnZmjQaNZ3QUjrLOtod-FbboNCPmYdqCLIAc7aos/edit)and [GitLab BV (Netherlands) Resignation Acknowledgement](https://docs.google.com/document/d/1-9hCL2Xs5po4lZ19L2vrcmGxQIYRD-Emyci3F63kt0c/edit)
+    * A couple of examples can be reviewed here: [GitLab Ltd (UK) Resignation Acknowledgement](https://docs.google.com/document/d/1zV1qnZmjQaNZ3QUjrLOtod-FbboNCPmYdqCLIAc7aos/edit), [GitLab BV (Netherlands) Resignation Acknowledgement](https://docs.google.com/document/d/1-9hCL2Xs5po4lZ19L2vrcmGxQIYRD-Emyci3F63kt0c/edit) and [GitLab/Lyra Relieving Letter for India](https://docs.google.com/document/d/1uPlL_l8N-WJXZu2ISNh--eWCY2aB9bSqt9zaj-jmh6w/edit)
 
     _Note: For GitLab UK team members, payroll can pay up to and including the 5th day of the following month. For example, if a team member's last day is February 2nd, the team member can receive their final pay for this in January's payroll._
 
@@ -295,7 +295,7 @@ To track all tool deprovisioning, please open an offboarding issue following the
 
 As part of offboarding, any GitLab property valued above 1,000 USD needs to be returned to GitLab. 
 
-For laptops, please refer to the [Laptop Buy Back Policy](https://about.gitlab.com/handbook/business-ops/it-ops-team/#laptop-buy-back-policy) which states that team-members have the option to buy back their existing laptops either when it gets refreshed for a new one, or when the team member is offboarding. If the team member has completed 1 calendar year or more at GitLab at the time of laptop refresh or offboarding, they can opt to keep their laptop at no cost. If the team member hasn't completed 1 calendar year at GitLab at that time, they have the option to purchase their laptop for current market value.
+For laptops, please refer to the [Laptop Buy Back Policy](/handbook/business-ops/team-member-enablement/onboarding-access-requests/#laptop-buy-back-policy) which states that team-members have the option to buy back their existing laptops either when it gets refreshed for a new one, or when the team member is offboarding. If the team member has completed 1 calendar year or more at GitLab at the time of laptop refresh or offboarding, they can opt to keep their laptop at no cost. If the team member hasn't completed 1 calendar year at GitLab at that time, they have the option to purchase their laptop for current market value.
 
 To return your laptop to GitLab, please contact itops@gitlab.com immediately upon offboarding.
 

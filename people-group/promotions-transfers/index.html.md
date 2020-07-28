@@ -27,7 +27,7 @@ We recorded a training on this subject:
 * Transfers occur when someone changes job families. A Backend Engineer would transfer to a Site Reliability Engineer.
 * Change in specialty has no impact to job family. Therefore, this is not a promotion or a transfer.
 
-## Career Mobility Issue 
+## Career Mobility Issue
 
 A [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) is created when the one of the following criteria is met;
 - Migration from Individual Contributor to Manager
@@ -38,21 +38,21 @@ A [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/employment-
 
 The Total Rewards Team will notify the People Experience Team of a pending migration of a team member via @ mention in the Promotion/Transfer Tracker. The [People Experience Associate](https://about.gitlab.com/job-families/people-ops/people-experience-associate/) currently in the assignment rotation will assign the migration to an Associate in the People Exp/Ops Tracker.
 
-The [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) will then be **created by the People Experience Associate** assigned by using the [automated Slack command](/handbook/people-group/engineering/employment-issues/#career-mobility-issues) one day prior to the effective date. 
+The [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) will then be **created by the People Experience Associate** assigned by using the [automated Slack command](/handbook/people-group/engineering/employment-issues/#career-mobility-issues) one day prior to the effective date.
 
-Important things to ensure: 
+Important things to ensure:
 
 1. Add a due date of two weeks from the migration effective date.
 1. Check to see that the previous Manager and new Manager is listed correctly in the issue.
-1. Complete all applicable tasks under the People Experience list. 
+1. Complete all applicable tasks under the People Experience list.
 
-## Important Tasks once Career Mobility has been finalised 
+## Important Tasks once Career Mobility has been finalised
 
 1. This needs action from both the current and new managers to set the migrating team member up for success in their new role. This may include:
 - Creating the correct Access Requests for systems needed and for systems no longer needed.
-- Create any training issue that may be required. 
+- Create any training issue that may be required.
 - Reminding the team member to update their title on the team page.
-- If we are in the middle of company wide 360 reviews, it is encouraged that the current manager and new manager arrange a successful handover of the feedback, whether sync or async. 
+- If we are in the middle of company wide 360 reviews, it is encouraged that the current manager and new manager arrange a successful handover of the feedback, whether sync or async.
 
 ## Compliance
 
@@ -75,7 +75,7 @@ All migration tasks by the applicable team members needs to be completed within 
   * Apply and approval through the Greenhouse [hiring process](/handbook/hiring/) for any change in territory, segment, or specialty that requires a change in job family or level, change in compensation or stock adjustment or requires a backfill request.
 * Promotions to Director and above: approval through the [BambooHR Approval Process](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process) to ensure the CFO/CEO have insight and approval into leadership promotions.
     * The [e-group](https://about.gitlab.com/company/team/structure/#e-group) will review any promotion at Director level (or above) in their weekly meeting 3 months before the promotion is intended to take place and feedback may be provided to the individual and their manager to work on. This is to ensure consistent leadership qualities across the company. Exceptions to this timeline can be made at the e-group's discretion. We do not yet have a similar method to ensure consistency in external hires for Director (and above) roles but we hope to add it soon.
-    * All Director level (or above) promotions will be reviewed by the [e-group](/company/team/structure/#e-group) on a quarterly basis at the e-group offsite. Proposed promotions will be assessed against the criteria outlined in our [Leadership Levels](/handbook/leadership/leadership-levels/), as well as the business need for the promotion, each of the [Values](/handbook/values/), [our competencies](/handbook/competencies/), and considerations.
+    * All Director level (or above) promotions will be reviewed by the [e-group](/company/team/structure/#e-group) on a quarterly basis at the e-group offsite. Proposed promotions will be assessed against the criteria outlined in our [Team Structure](/company/team/structure/), as well as the business need for the promotion, each of the [Values](/handbook/values/), [our competencies](/handbook/competencies/), and considerations.
     * The only exception to this process is when filling an open Director and above role with an existing GitLab team member for a role posted publicly that an internal team member applies for. If external candidates have been considered and interviewed, and the internal candidate earns the role through a standard hiring process (screening, full interview process) then the recruiter may make an offer to the candidate as soon as the offer is approved. There should be no difference in the timing or process of making and accepting an offer for open roles between internal and external candidates.
 
 ## Greenhouse Process Requirements
@@ -164,19 +164,19 @@ This section describes the approval chain after a manager submits a promotion or
     - Values alignment
     - While not a requirement, some promotion documents also include: references from other team members and improvement areas
     - Check the sharing settings, as this should be readable by everyone at GitLab with a link
-1. Review the Compa Group submitted for knowledge, skills, and ability alignment. The [Compa Group Worksheet](/handbook/total-rewards/compensation/compensation-calculator/#determining) is optional, but often in Engineering used as a tool for the manager to determine the compa group. Additionally check: 
+1. Review the Compa Group submitted for knowledge, skills, and ability alignment. The [Compa Group Worksheet](/handbook/total-rewards/compensation/compensation-calculator/#determining) is optional, but often in Engineering used as a tool for the manager to determine the compa group. Additionally check:
     - Bonuses received by the team member
     - Current Compa Group (I.E. Typically before moving to promotion the team member should be `thriving` in their current role)
 1. Ping the manager requesting the promotion via Slack to confirm that the department leader and E-Group leader are aware and supportive of the promotion.
 1. Align with the `Manager, Total Rewards` in the private #promo_compensation Slack channel to ensure Compensation notes are added in BambooHR.
-1. Cross-check Compensation adjustment in accordance with the [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/). 
-1. We want for promotions and compensation changes in Engineering that they are approved by all leaders up to the EVPE. As BambooHR has a limit in the amount of approvers use the Division specific slack channel to have approval of all leaders. 
+1. Cross-check Compensation adjustment in accordance with the [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/).
+1. We want for promotions and compensation changes in Engineering that they are approved by all leaders up to the EVPE. As BambooHR has a limit in the amount of approvers use the Division specific slack channel to have approval of all leaders.
 1. If an approver is skipped in BambooHR: Share the promotion information in the private Division-specific promotion Slack channel with an overview of:
     - Team member name
     - Promotion request (current job title and new job title)
     - Compensation notes (current compensation, proposed compensation, increase %, additional stock options, compa group, compensation calculator)
-1. `@mention` the skipped department leader for approval in the Division-specific promotion Slack channel. Example: Promotion for Backend Engineer to Senior Backend Engineer. The BambooHR process includes the direct manager, department Director and EVPE. The missing department leader here is the VP of Development. In this case `@mention` the VP of Development for approval. 
-1. PBP approves the promotion request in BambooHR. 
+1. `@mention` the skipped department leader for approval in the Division-specific promotion Slack channel. Example: Promotion for Backend Engineer to Senior Backend Engineer. The BambooHR process includes the direct manager, department Director and EVPE. The missing department leader here is the VP of Development. In this case `@mention` the VP of Development for approval.
+1. PBP approves the promotion request in BambooHR.
 
 
 ### For Total Rewards: Processing Promotions & Compensation Changes
@@ -214,8 +214,8 @@ To demote one of your direct reports, a manager should follow the following step
 - The manager should discuss any performance issues or possible demotions with the People Business Partner in their scheduled meetings with a corresponding google doc.
 - To initiate the process, the manager must obtain agreement from two levels of management.
 - Proposed changes to a current vacancy description or a new vacancy description should be delivered with request for approval by the second level manager and the People Ops Manager.
-- Demotions should also include a review of [compensation](/handbook/total-rewards/compensation/) and [stock options](/handbook/stock-options/#stock-option-grant-levels) in the google doc. Managers should consult with Total Rewards team on these topics; and of course always adhere to the Global Compensation Calculator. 
-- Once agreement is reached on the demotion and changes (if any) in compensation, the total rewards team will act as the point of escalation to have any demotion reviewed and approved by the Compensation Group once the relevant google doc is complete. 
+- Demotions should also include a review of [compensation](/handbook/total-rewards/compensation/) and [stock options](/handbook/stock-options/#stock-option-grant-levels) in the google doc. Managers should consult with Total Rewards team on these topics; and of course always adhere to the Global Compensation Calculator.
+- Once agreement is reached on the demotion and changes (if any) in compensation, the total rewards team will act as the point of escalation to have any demotion reviewed and approved by the Compensation Group once the relevant google doc is complete.
 - Once approved, the manager informs the individual. Please cc total-rewards@ gitlab.com once the individual has been informed, to processes the changes in the relevant administrative systems, and stage a [Letter of Adjustment](https://about.gitlab.com/handbook/people-group/contracts-and-international-expansion/#letter-of-adjustment).
 - Changes in title are announced on the `#team-member-updates` Slack channel.
 - The manager will initiate any necessary onboarding or offboarding.
@@ -262,7 +262,7 @@ If selected for the role, a [letter of adjustment](/handbook/contracts/#letter-o
 
 ## Department Transfers Manager Initiated
 
-If you are a manager wishing to recruit someone, the process is the same as a team member initiated transfer.  We encourage the hiring manager to be transparent with the team member's current manager.  This will allow the current manager the maximal amount of time to plan for the transfer and speed up the overall process.  
+If you are a manager wishing to recruit someone, the process is the same as a team member initiated transfer.  We encourage the hiring manager to be transparent with the team member's current manager.  This will allow the current manager the maximal amount of time to plan for the transfer and speed up the overall process.
 ### Internal Department Transfers
 
 If you are interested in another position within your department and the manager is also your manager you must do the following;
@@ -310,7 +310,7 @@ Company priorities can change and occasionally some or all members of a team may
 In cases where multiple individuals are asked to transfer to high priority roles:
 
 1. Legal counsel and the People Business Partner for the group should be notified to align on the process and impact of the resources realignment.
-1. Select a DRI to coordinate the overall realingment process.  This DRI should work closely with their People Business Partner to ensure we comply with all local labor laws.  
+1. Select a DRI to coordinate the overall realingment process.  This DRI should work closely with their People Business Partner to ensure we comply with all local labor laws.
 1. Communicate the reassignment decision to effected team members.  Emphasize this is not about poor performance, but rather a way to shift high value individuals to the highest priorities.
 1. Organize one or more Team Pitch Office Hours meeting where individuals considering transfers can learn about teams that are hiring.  Hiring managers should attend the office hours to talk about what is interesting about their teams.  [Team Pitch Office Hours video](https://www.youtube.com/watch?v=-MgiUA7sAHU&feature=youtu.be)
 1. Encourage individuals considering transfers to meet with hiring managers to get more information about the roles they are interested in.
@@ -380,4 +380,3 @@ Once you've agreed upon the internship goals, both managers should inform their 
 #### Recommendations
 
 We recommend that, at any given time, each [team](/company/team/structure/#team-and-team-members) is handling only one intern. This is to allow for an efficient and focused mentorship without impacting the capacity of the team. You can, of course, adjust this depending on the size of the team but please consider the impact of mentoring when scheduling internships.
-

@@ -11,7 +11,7 @@ title: Manager Challenge
 
 ## Introduction
 
-Welcome to the Manager Challenge page. We are rolling out a pilot version of a 4 Week Manager Challenge in September 2020, "The GitLab Manager Challenge Program." All details relating to the challenge can be found here on this page. The first iteration of the program will be a pilot to a subset of team members at GitLab. Once the pilot has concluded, we will roll out the program to the broader GitLab community!
+Welcome to the Manager Challenge page. We are rolling out a pilot version of a 4 Week Manager Challenge in September 2020, "The GitLab Manager Challenge Program." All details relating to the challenge can be found here on this page. The first iteration of the program will be a pilot to a subset of team members at GitLab. Once the pilot has concluded, we will roll out the program to the broader GitLab team!
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vST_3shd7g0Y6E46JaCdtpXKHfj6D8TAjF-fgZ4IiZ_1NETN2f8ROjBE6NtOpCSs0YXwWgYq-oHryO9/embed?start=true&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -123,5 +123,5 @@ During week four we will discuss **Developing High Performing Teams**. Informati
      - As long as you complete the challenge and let the Learning and Development know when you have completed them, it is okay to be out of office. 
 1. **I'm not a Manager, can I still participate?**
      - Yes, you can still participate but we ask that you complete the activities asynchronously for your own professional development. Once you are ready to become a manager, you will be equipped with a set of baseline management skills. 
-1. **How do I receive a certification?**
+1. **Will I receive a certification?**
      - Yes! Once you complete all challenges, attend the live learning sessions, and complete the self-reflection activities, you will receive the "GitLab Managers Challenge" certificate.
