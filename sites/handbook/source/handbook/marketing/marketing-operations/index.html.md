@@ -416,7 +416,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
     * Update the description (if any)
     * Update `Budgeted Cost`
     * Update `Region` and `Sub-region`, if these are local or targeted to a specific region
-    * Update `Budget Holder`, if the campaign results in offline Bizible touchpoints based on campaign type (i.e. content syndication, sponsored webcast, etc.) - [more information here](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/2920)
+    * Update `Budget Holder`, if the campaign results in offline Bizible touchpoints based on campaign type (i.e. content syndication, sponsored webcast, etc.) - NOTE: an offling Bizible touchpoint happens when we gather a lead offline and in order for the system to have this name you must go through a [list upload process](https://about.gitlab.com/handbook/marketing/marketing-operations/list-import/). 
     * Click "Save"
 
 * Add the Marketo program link and SFDC campaign link to the epic. 
