@@ -225,7 +225,7 @@ Additional details about our process can be found on our [hiring page](/handbook
 *Please note the **Compensation** and **About GitLab** sections will auto-populate because of the job family formatting. 
 
 **Second Template**
-The second template is appropriate when there are many different job titles within the same family. 
+The second template is appropriate when there are three or more job titles within the same family. 
 
 After pasting this template search for *{add* to quickly navigate to areas of input.
 ```
