@@ -209,21 +209,21 @@ Chances are that if you work at GitLab, you have great friends and peers who wou
 
 We encourage and support [diversity](/handbook/values) and [frugality](/handbook/values) on our team and in our hiring practices, so we will offer the following referral bonuses once the new team member has been with the company for 3 months. We will award the highest cumulative dollar amount as outlined below:
 * [$500](/handbook/total-rewards/compensation/#exchange-rates) base referral bonus for a new hire.
-* [$1,000](/handbook/total-rewards/compensation/#exchange-rates) supplemental referral bonus for a hire from a [Location factor](/handbook/total-rewards/compensation/compensation-calculator/calculator/) less than 0.65.
-* [$1,500](/handbook/total-rewards/compensation/#exchange-rates) supplemental referral bonus for a hire from a ["select underrepresented group"](#premium-bonus-for-select-underrepresented-groups).
+* [$1,000](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus for a hire from a [Location factor](/handbook/total-rewards/compensation/compensation-calculator/calculator/) less than 0.65.
+* [$1,500](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus for a hire from a ["select underrepresented group"](#premium-bonus-for-select-underrepresented-groups).
 
-The following is an example of a cumlative Referral Bonuses:
+The following is an *example* of a cumlative Referral Bonus:
 * Hire a refered Strategic Account Leader: $500
 * With a location factor of 0.6: + $1,000
-* who self-identifies as Native American/Native: + $1,500
+* Who self-identifies as Native American/Native: + $1,500
 * Cumulative referral bonus to the referring party: **$3,000**
 
-### Premium Bonus for Select Underrepresented Groups
+### Add-On Bonus for Select Underrepresented Groups
 
 An underrepresented group describes a subset of a population that holds a smaller percentage within a significant subgroup than the subset holds in the general population. The accepted definition of “underrepresented minorities” from the National Science Foundation and other major research institutions focuses on racial and ethnic groups whose representation in a profession is significantly below their representation in the general population. While any non-majority group in the workplace is a “minority”, they are not considered to be “underrepresented” unless they meet this definition.  
 
-We offer a referral bouns premium for the following groups:
-* Women in Engineering, Product & Sales Division - Globally
+We offer an add-on referral bouns for the following groups:
+* Women in Engineering, Product, & Sales Division - Globally
 * Women in [Management](/company/team/structure/#organizational-chart) - Globally
 * African American/Black - Globally
 * Hispanic American/Latino - Globally
