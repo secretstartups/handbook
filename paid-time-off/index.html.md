@@ -132,6 +132,7 @@ Team members may request an unpaid leave of absence by working with their manage
 * Peopleops will confirm with the team member via email that the request has been approved including the start date and end date of the unpaid leave.
 * The team member should contact their manager 2 weeks prior to the unpaid leave of absence ending to confirm the return to work date.  The team member may ask for additional unpaid time off, however the manager has the discretion to deny any additional time off requests.  
 * At anytime during the unpaid leave the team member receives a payroll payment, they are to immediately notify their manager and Peopleops via email.  Any funds paid in error are subject to repayment.
+* Once the team member has a confirmed return to work date, they should communicate that date in advance to their manager and to the total rewards team (total-rewards@gitlab.com) so the total reward's team can reinstate pay. 
 
 ### Communicating Other Status Using PTO Ninja
 
