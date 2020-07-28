@@ -1026,7 +1026,7 @@ You should have an issue for the blog post you are writing. Go to the issue and 
 
 ![Create merge request button](/images/handbook/marketing/create-mr-screengrab.png){: .shadow.medium.center}
 
-Now you have a merge request! Please edit the title to be "WIP: Blog Post - Title of blog post".
+Now you have a merge request! Please edit the title to be "Draft: Blog Post - Title of blog post".
 
 Make sure you select the blog post template for your MR, as this contains some important tasks for you to complete.
 
