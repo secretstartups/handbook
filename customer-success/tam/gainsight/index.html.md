@@ -189,7 +189,7 @@ There is a Gainsight Chrome extension available for TAMs to use to help sync the
 ## Common errors & troubleshooting
 ### Query API invalid response
 
-If you receive the message error  "Query API invalid response", try clearing your browser cache and cookies. We recommend also checking in a private browser (Incognito Mode, etc.) to verify it's a browser configuration issue.
+If you receive the error message "Query API invalid response", try clearing your browser cache and cookies. We recommend also checking in a private browser (Incognito Mode, etc.) to verify it's a browser configuration issue.
 
 ### Success plan objectives updated failed
 
