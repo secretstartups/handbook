@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Code of Business Conduct & Ethics and GitLab People Policy Directory"
+title: "Code of Business Conduct & Ethics"
 ---
 
 ## On this page
