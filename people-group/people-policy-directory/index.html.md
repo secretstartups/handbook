@@ -310,6 +310,15 @@ Report suspected discrimination right away and never retaliate against anyone wh
 
 Every employee or contractor has a right to a work environment free from harassment, regardless of whether the harasser is a co-worker, supervisor, manager, customer, vendor, or visitor. Please refer to the [GitLab Anti-Harassment Policy](/handbook/anti-harassment/) for more information. As is the case with any violation of the Code, you have a responsibility to report any harassing behavior or condition, whether you are directly involved or just a witness.
 
+### Personal Hygiene
+
+When attending Contribute or any conference, public meeting, customer meeting or meet-up, kindly keep in mind you are representing GitLab. Personal hygiene and hygiene in general helps to maintain health and prevent the spread of diseases and various other illnesses. We motivate everyone to maintain cleanliness.
+For more information about our Contribute Code of Conduct, read more [here](/company/culture/contribute/coc/).
+
+### Social Responsibility
+
+We pride ourselves on being a company that operates with integrity, makes good choices, and does the right thing in every aspect of our business. We will continually challenge ourselves to define what being a responsible company means to us, and work to translate our definition into behavior and improvements at GitLab. We seek to align our social and environmental efforts with our business goals and continue to develop both qualitative and quantitative metrics to assess our progress.
+
 ### Substance Abuse
 
 GitLab strives to maintain a workplace that is free from illegal use, possession, sale, or distribution of alcohol or controlled substances. Legal or illegal substances shall not be used in a manner that impairs a person’s performance of assigned tasks. This will help to maintain the efficient and effective operation of the business, and to ensure customers receive the proper service. GitLab team members must also adhere to the local laws of where they reside and where they travel to, including the [GitLab Contribute](/company/culture/contribute/).
