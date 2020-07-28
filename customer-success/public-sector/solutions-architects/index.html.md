@@ -54,7 +54,7 @@ The customer may ask for a description of the CI process or other complex proces
 
 ### Tips and tricks in response writing
 
-- As much as possible use [active rather than passive voice](https://www.grammarly.com/blog/active-vs-passive-voice/).
-- Eliminate pronouns.  Example 1, "GitLab CI will do x" rather than "Our CI will do x".  Example 2, "The GitLab team will x" rather than "We will x".
-- Organization of the response is as important as the content.
-- If specific requirements are expected to be answered by the response, add notations to the requirement number being met within the text of the response.  Example, "GitLab's SAST scanner will analyze your source code for known vulnerabilities (Req 1.a.1)"
+* As much as possible use [active rather than passive voice](https://www.grammarly.com/blog/active-vs-passive-voice/).
+* Eliminate pronouns.  Example 1, "GitLab CI will do x" rather than "Our CI will do x".  Example 2, "The GitLab team will x" rather than "We will x".
+* Organization of the response is as important as the content.
+* If specific requirements are expected to be answered by the response, add notations to the requirement number being met within the text of the response.  Example, "GitLab's SAST scanner will analyze your source code for known vulnerabilities (Req 1.a.1)"
