@@ -295,15 +295,12 @@ Procurement operates with three main goals
 3.  Compliance
 
 ## Procurement Performance Indicators
-Effective August 1, 2020
+Effective August 1, 2020. Process of measurement in progress.
 
 Response times to initial requests for review <= 2 business days
-*Monthly average response time to new procurement purchase request issues within 24 business hours. Issues with missing information will be rejected after two consecutive attempts to follow up.
+* Monthly average response time to new procurement purchase request issues within 2 business days. Issues with missing or incomplete information will be rejected after two consecutive attempts to follow up with the issue creator.
 
-Reject unresponsive purchase request issues <= 4 business days
-* If issue creator fails to respond to procurement teams requests for additional information after 2 consecutive attempts over less then 4 business days, issue will be moved to a "Procurement::Rejected" status. 
-
-Administer, maintain, and manage the procurement purchase request issue tracker (daily, ongoing) <=24 hours
+Administer, maintain, and manage the procurement purchase request issue tracker (daily, ongoing) <= 2 busines days
 * Triage and assign issues in the procurement [issue board](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/boards/1844091) within 2 business days of receipt.
 
 Ensure all contracts have the correct approvals in place before signed = 100%
@@ -312,5 +309,8 @@ Ensure all contracts have the correct approvals in place before signed = 100%
 Ensure all fully executed vendor contracts are posted to ContractWorks = 100%
 * Upload all fully executed agreement to ContractWorks for accurate recording. Legal team will assign terms and fields.
 
-Negotiation Cycle Average Days <= 90 days
-* Average number of days on a quarterly basis during the Negotiation phase. This is identified by time spend in the "Procurement::Negotiation" label. 
+Negotiation Cycle Average Days <= 60 days
+* Average number of days on a quarterly basis for the Negotiation phase. This is identified by time spent in the "Procurement::Negotiation" or "Procurement::Vendr" label. 
+
+'Turn-Around' times <= 3 business days
+* Monthly average response times to proposal updates, commercial constructs, procurement questions, etc.
