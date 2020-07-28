@@ -565,8 +565,9 @@ This process is for new assets in PathFactory that **have not** already been dis
 
 **Create Program in Marketo and sync to Salesforce**
 
-1.  Navigate to the [PathFactory Listening Template](https://app-ab13.marketo.com/#PG3875A1) (located under `Active Marketing Programs` > `Gated Content` > `Pathfactory Listening`)
+1.  Navigate to the PathFactory Listening Template - [TEMPLATE - `PF - Asset Type - Name of Asset`](https://app-ab13.marketo.com/#PG3875A1) (located under `Active Marketing Programs` > `Gated Content` > `Pathfactory Listening`)
 1.  Right-click and clone the template (see picture below) - name it according to the naming convention (example: `PF - Webcast - [campaign_name]`. The campaign name should match the parent campaign for the gated asset for easy searchability.)
+1.  Move program under the correct folder based on type and the quarter.
 1.  When the Program Summary loads, next to "Salesforce Campaign Sync" click `not set`
 1.  From the dropdown, select `Create New` (this will create the synced campaign in Salesforce)
 
