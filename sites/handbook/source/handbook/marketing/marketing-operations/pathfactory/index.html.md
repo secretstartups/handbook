@@ -248,7 +248,7 @@ This is where you will choose how your content track displays to the visitor. No
 
 Form strategy is used on content tracks to collect data from unknown visitors and should only be used when a track entry point is **not** from a webform or landing page (i.e. direct link from digital ad or web promoter). Not all content tracks will or should have form strategy turned on. The forms used in PathFactory are directly tied to currently existing Marketo forms. If the form strategy is implemented, please ensure `Show to Known Visitors` is left **unchecked**. For help with PathFactory forms and workflows, please create an issue in the Marketing Operations repository, apply `MKtgOps` & `PathFactory` labels, and assign `@sdaily`.
 
-**Please Note:** We have [listening campaigns](#listening-campaigns) in Marketo set up to capture consumption of content that would have been gated had PathFactory not been implemented. The listeners also incorporate PathFactory activity into the [MQL scoring model](/handbook/business-ops/resources/#mql-scoring-model). This means that you do not need to add form strategy to a content track if entry point is from a landing page and there are listening campaigns set up for assets in your track that would normally be gated. [Please create an issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues) in the Marketing Operations repo and assign `@sdaily` to set up a lisetning campaign for an asset.
+**Please Note:** We have [listening campaigns](#listening-campaigns) in Marketo set up to capture consumption of content that would have been gated had PathFactory not been implemented. The listeners also incorporate PathFactory activity into the [MQL scoring model](/handbook/business-ops/resources/#mql-scoring-model). This means that you do not need to add form strategy to a content track if entry point is from a landing page and there are listening campaigns set up for assets in your track that would normally be gated. [Please create an issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues) in the Marketing Operations repo and assign `@sdaily` to set up a listening campaign for an asset.
 
 ##### Adding form strategy to a content track
 
@@ -396,6 +396,10 @@ The header is applied to an Explore experience from the base content track you c
 **I don’t like the order that my content is arranged on the Explore page; how do I move my content around?**
 
 All changes to the content in an explore page has to be done in the base content track that the explore page is built from. This includes the order of your content, so if you want to reorder your content you have to do so in the base content track.
+
+**Can I create a custom hero for a header on my page?**
+
+Yes!  You can add a custom hero image by navigating to `Appearances Configuration` and selecting the appearance you would like to modify.  Then click on the `Explore` tab and select `cover image` for Hero layout and upoad your custom image under `Hero Image`.  Make sure you click save on both the explore image upload and then again to save the appearance edits you have made.  (recommended size for a hero image is 1600x500)
 
 ## Appearances
 
