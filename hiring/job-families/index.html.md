@@ -168,53 +168,56 @@ Under requirements, every role must have `Ability to use GitLab`. This will also
 ## Templates for New Job Family
 
 There are two templates on this page. The first template is appropriate when the job family has 1 or 2 job titles and more specialities; [for example](/job-families/engineering/backend-engineer/). Each of these titles can have multiple levels. The second template is appropriate when there are many different job titles within the same family; [for example](/job-families/people-ops/total-rewards/). 
+
+After pasting this template search for *{add* to quickly navigate to areas of input.
+
 ```
 ---
 layout: job_family_page
-title: {Insert Title of Job Here}
+title: {add text of job family name}
 ---
 
-{Insert brief description of the role here.}
+{add brief description of the role}
 
 ## Responsibilities
-* {add a bulleted list of responsibilities here}
+* {add a bulleted list}
 
 ## Requirements
 * Ability to use GitLab
-* {add a bulleted list of requirements here}
+* {add a bulleted list}
 
 ## Levels
-### {Name of Level - i.e. Junior/Senior/Manager}
+### {add name of level - i.e. Junior/Senior/Manager}
 
-#### {Level} Job Grade
-The {role name} is a [grade #](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+#### {add Level} Job Grade
+The {add the role name} is a [grade #](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### {Level} Responsibilities
-* {add level responsibilities here}
+#### {add Level} Responsibilities
+* {add a bulleted list}
 
-#### {Level} Requirements
-* {add level requirements here}
+#### {add Level} Requirements
+* {add a bulleted list}
 
-#### {Level} Performance Indicators
+#### {add Level} Performance Indicators
 * {add at least one KPI that this role will be the DRI for}
 
 ## Specialties
-### {Name of Specialty - i.e. Security, Monitor, Create, etc.}
-{Insert brief description of the specialty here.}
+### {add name of Specialty - i.e. Security, Monitor, Create, etc.}
+{add a brief description of the specialty}
 
-#### {Specialty} Requirements
-* {add a bulleted list of requirements for this specialty here}
+#### {add Specialty} Requirements
+* {add a bulleted list}
 
 ## Performance Indicators
-* {add a bulleted list of performance indicators for this family here}
+* {add at least one KPI that this role will be the DRI for}
 
 ## Career Ladder
-{Insert brief description of the career ladder here.}
+{add brief description of the career ladder}
 
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-{Insert hiring process steps here.}
+{add a bulleted list of the hiring process steps here}
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring).
 
@@ -222,64 +225,66 @@ Additional details about our process can be found on our [hiring page](/handbook
 *Please note the **Compensation** and **About GitLab** sections will auto-populate because of the job family formatting. 
 
 **Second Template**
+The second template is appropriate when there are many different job titles within the same family. 
 
+After pasting this template search for *{add* to quickly navigate to areas of input.
 ```
 ---
 layout: job_family_page
-title: {Insert Title of Job Family Here}
+title: {add text of job family name}
 ---
 
-{Insert brief description of the job family here.}
+{add brief description of the job family}
 
 ## Role
-{Insert brief description of the role here. Include what position it reports to.}
+{add brief description of the role here, include what position it reports to}
 
 ### Responsibilities
-* {add a bulleted list of responsibilities here}
+* {add a bulleted list]
 
 ### Requirements
 * Ability to use GitLab
-* {add a bulleted list of requirements here}
+* {add a bulleted list}
 
 ### Job Grade
-The {role name} is a [grade #](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The {add role name} is a [grade #](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Performance Indicators
-* {add a bulleted list of performance indicators for this family here}
+* {add at least one KPI that this role will be the DRI for}
 
 ### Career Ladder
-{Insert brief description of the career ladder here.}
+{add a brief description of the career ladder here}
 
 ### Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-{Insert hiring process steps here.}
+{add a bulleted list of the hiring process steps here}
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring).
 
 ## Role
-{Insert brief description of the role here. Include what position it reports to.}
+{add brief description of the role here, include what position it reports to}
 
 ### Responsibilities
-* {add a bulleted list of responsibilities here}
+* {add a bulleted list}
 
 ### Requirements
 * Ability to use GitLab
-* {add a bulleted list of requirements here}
+* {add a bulleted list}
 
 ### Job Grade
-The {role name} is a [grade #](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The {add role name} is a [grade #](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Performance Indicators
-* {add a bulleted list of performance indicators for this family here}
+* {add at least one KPI that this role will be the DRI for}
 
 ### Career Ladder
-{Insert brief description of the career ladder here.}
+{add a brief description of the career ladder}
 
 ### Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-{Insert hiring process steps here.}
+{add a bulleted list of the hiring process steps here}
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring).
 ```
