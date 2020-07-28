@@ -25,7 +25,9 @@ advance of the production upgrade.
 1. If the customer has a
    [Technical Account Manager (TAM)](/handbook/customer-success/tam/#what-is-a-technical-account-manager-tam),
    they reach out to the TAM with the required information. From there, the TAM
-   creates a [support-team-meta issue using the `Upgrade Assistance Request` issue template](https://gitlab.com/gitlab-com/support/support-team-meta/issues/new?issuable_template=Upgrade%20Assistance%20Request).
+   creates a [support-team-meta issue using the `Upgrade Assistance Request` issue template](https://gitlab.com/gitlab-com/support/support-team-meta/issues/new?issuable_template=Upgrade%20Assistance%20Request). If the customer does not have an assigned TAM, and reaches out
+   to support themselves to schedule, the support engineer should ensure they have provided all necessary information and
+   create this issue.
 1. The current [manager on-call](/handbook/support/on-call/index.html#manager-on-call) will act as a DRI for the issue at this moment.
    That manager should also ping the Support Manager who will be on-call during
    the upgrade window so they can be involved in this process.
