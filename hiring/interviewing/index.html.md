@@ -135,7 +135,7 @@ These steps may vary role-to-role, so please review the hiring process on the jo
   1. Team members who review the pre-screening questionnaire answers should refer to the private GitLab [applicant-questionnaires project](https://gitlab.com/gitlab-com/people-ops/applicant-questionnaires) that holds guides on how to review each of the questionnaires. Candidates who receive an assessment are moved to the "Assessment" stage in Greenhouse by a member of the Recruiting team and sent the questionnaire. The recruiting team also chooses a member of the hiring team to review the responses once they are submitted.
   1. When a candidate returns their assessment, the recruiting team member who sent the assessment and the hiring team member who was chosen to review it will receive a notification. Once a reviewer submits the feedback for the assessment in Greenhouse, the recruiting team will be notified.
   1. Candidates that have satisfactory assessment results may be invited to a screening call. Disqualified candidates will be sent a note informing them of the rejection.
-1. [**Screening call**](#conducting-a-screening-call):
+1. [**Screening call**](/hiring/recruiting-framework/req-overview/#screening):
   1. If the candidate qualifies for continued consideration, one of our [recruiters](/job-families/people-ops/recruiter/) will conduct a screening call using Zoom and scheduling it via Greenhouse.
   1. A member of the employment team will move the candidate to the "Screening" stage in Greenhouse. They will reach out to the candidate to collect their availability and then send out calendar invitations to both the interviewer and candidate.
   1. Our [recruiters](/job-families/people-ops/recruiter/) will do a screening call;
