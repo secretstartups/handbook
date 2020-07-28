@@ -167,7 +167,7 @@ Under requirements, every role must have `Ability to use GitLab`. This will also
 
 ## Templates for New Job Family
 
-There are two templates on this page. The first template is appropriate when the job family has 1 or 2 job titles and more specalities; [for example](/job-families/engineering/backend-engineer/). The second template is appropriate when there are many different job titles within the same family; [for example](/job-families/people-ops/total-rewards/). 
+There are two templates on this page. The first template is appropriate when the job family has 1 or 2 job titles and more specialities; [for example](/job-families/engineering/backend-engineer/). Each of these titles can have multiple levels. The second template is appropriate when there are many different job titles within the same family; [for example](/job-families/people-ops/total-rewards/). 
 ```
 ---
 layout: job_family_page
