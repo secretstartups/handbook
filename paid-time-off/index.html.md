@@ -55,6 +55,7 @@ As we all work remotely it can sometimes be difficult to know when and how to pl
 1. If during a PTO event, you realize that certain days will need to be changed from PTO to Sick Time, or another category, please email `peopleops@gitlab.com` with your specific request and People Operations Specialists will complete your request, per the [instructions](/handbook/paid-time-off/#instructions-for-people-ops-to-update-pto-ninja-events). Events can only be changed after the PTO Ninja event has completed itself.
 
 ### Communicating Your Time Off
+
 Communicate broadly when you will be away so other people can manage time efficiently, projects don't slip through the cracks, and so that you don't get bothered while away.  
 1. You should add the time off using [PTO Ninja](#pto-ninja) to Slack. Please use the following syntax which uses the [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) date notation in order to avoid confusion: `OOO from YYYY-MM-DD to YYYY-MM-DD, please contact XXX for assistance`.
     * PTO Ninja will automatically add this time to BambooHR and as a busy event on your Google Calendar. Your manager will also receive a free event on their calendar.  
@@ -80,12 +81,45 @@ Communicate broadly when you will be away so other people can manage time effici
    * Vacation Delegate - enter their email address and Payroll will grant the backup team member the necessary access
    * Note - remove the vacation delegate after your PTO
 
-## Communicating Illness Related Leave
-In the unfortunate event that a team member is dealing with a medical situation, they are under no obligation to reveal details to their manager directly. Instead, you can reach out to the [Total Rewards team](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group). The Total Rewards team will inform the People Business Partner and Manager on need-to-know basis.
+### Sick Time - Taking and Reporting
+
+In keeping with our [values](/handbook/values) of freedom, efficiency, transparency, kindness, and boring solutions, we have crafted the following protocol around sick time for all GitLab team-members.
+
+#### Sick Time Procedures - All Team Members
+
+If you or a loved one is ill, we want you to take care of yourself or your loved one(s). To facilitate this, you should take sick time when you need it. Sick time is meant to be used when you are ill, or to care for family members including your parent(s), child(ren), spouse, registered domestic partner, grandparent(s), grandchild(ren), or sibling(s).
+
+You still need to report when you take sick time, by entering the dates as an `Out Sick` type of OOO event in [PTO Ninja](/handbook/paid-time-off/#pto-ninja) via Slack. Once entered in PTO Ninja, your sick time will be automatically updated in BambooHR and payroll can note and update any other systems as needed.
+
+If you need sick leave for more than 8 consecutive calendar days, follow the instructions in the [Communicating Illness-Related Leave](/handbook/paid-tim-off/#communicating-illness-related-leave) section. 
+
+
+#### Sick Time Procedures - USA
+
+Employees of GitLab Inc. can take off sick time in line with our paid time off policy. Sick time does not get paid out in case of termination, nor does it reduce your final paycheck in case of a negative balance. Related to the topic of extended leave requests, see information about [short term disability](/handbook/total-rewards/benefits/general-and-entity-benefits/) through UHC / your state.
+
+#### Sick Time Procedures - Netherlands
+
+Employees of GitLab B.V. have further rights and responsibilities regarding sick time based on Dutch law, as written into their employment [contracts](/handbook/contracts/#employee-contractor-agreements):
+
+- Once People Operations has been notified of the sickness they will also inform HRSavvy.
+- GitLab has engaged with an occupational health and safety centre, Zorg van de Zaak, to assist employees of GitLab B.V. who may need support while being on long-term sick leave.
+- If an employee is sick, People Operations will inform HRSavvy and they will be registered in their HR portal from the first day of sickness.
+- If the employee is then on long-term sick leave (1 working week or more), People Operations will instruct HRSavvy to register the employee at the occupational health and safety service, depending on the situation and agreement with the employee.
+- Zorg van de Zaak's contact details can be found in the People Operations 1Password vault.
+
+#### Doctor's Note
+
+Please be aware that certain countries require a doctor's note or similar type of proper documentation for your sick time.
+
+## Communicating Illness-Related Leave
+
+In the unfortunate event that a team member is dealing with a medical situation, they are under no obligation to reveal details to their manager directly. Instead, you can reach out to the [Total Rewards team](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group). The Total Rewards team will inform the People Business Partner and Manager on a need-to-know basis.
 
 If the team member does choose to start the conversation about [accommodations in the US](https://www.dol.gov/odep/return-to-work/employer-accommodations.htm) or [accommodations in the EU](https://ec.europa.eu/social/main.jsp?catId=1473) needed with the manager, we would ask the manager to reach out to the [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) aligned with their division. The People Business Partner will inform the Total Rewards Team.
+What can (or must) be accommodated varies from location to location: GitLab will comply with the applicable laws in your specific location.
+The manager should under no circumstances reveal any illness-related leave to other team members to ensure we respect the privacy of the team member affected.
 
-The manager should under no circumstances reveal any illness related leave to other team members to ensure we respect the privacy of the team member affected.
 
 ### Communicating Time Off for Emergency Situations
 Emergencies, by definition are unexpected.  They can range from natural disasters, terrorist events, accidents, family deaths, hospitalization and any other unexpected situation.  During these times we ask team members to use their best judgement as well as listen to and adhere to public safety officials when possible.  If an unexpected emergency occurs please contact your manager via Slack or email as soon as possible if you will be unavailable or unable to work.  This will allow your manager to confirm your safety and reassign any critical work during your absence.  If you do not have an emergency contact in BambooHR please go ahead and complete that section.  We will only contact that person if we are unable to reach you via Slack, email or phone.  
@@ -190,8 +224,6 @@ If you discover that multiple people in your team want to be off at the same tim
 1. Select the team member's name and find the OOO event in their hisotry.
 1. Delete said entry using the `[...]` overflow menu on the righthand side of the screen.
 1. Add a new OOO event(s) by clicking the +Add Event button.
-
-
 
 ### Recognizing Burnout
 
@@ -342,7 +374,6 @@ To alleviate the stress associated with returning to work after parental leave, 
 This provides space for a team member to test out life adjustments and iterate further without feeling overwhelmed by a full workload. For instance, if a prearranged daycare solution turns out to be suboptimal, this 50% capacity window empowers a parent to iterate — to find a different solution with the air cover at work to put in the appropriate amount of research and care.
 
 Some team members might want to work part-time for a longer time period or even forever. If you would like to have this discussion, please talk to your manager. You can head to the [Part-time contracts](/handbook/total-rewards/benefits/general-and-entity-benefits/#part-time-contracts) page to learn more.
-
 
 ### Parental Leave Reentry Buddies
 
