@@ -103,7 +103,6 @@ There are three layers of content in a presentation:
 1. If you want to present please consider [posting a recording to YouTube](/handbook/marketing/marketing-operations/youtube/) at least a day before the meeting, link it from the Google Doc, and mention it in the relevant slack channels.
 1. Once a quarter, add a slide covering items being actioned from the engagement survey.
 1. Use this [slide deck](https://docs.google.com/presentation/d/16FZd01-zCj_1jApDQI7TzQMFnW2EGwtQoRuX82dkOVs/edit?usp=sharing) as template to your presentation. Presentations should allow editing (preferred) or commenting from everyone at GitLab.
-1. When charting data, please avoid the use of cumulative graphs. Cumulative graphs can [hide trends](https://heap.io/blog/data-stories/how-to-lie-with-data-visualization) and are [far more likely to be misinterpreted](https://measuringu.com/cumulative-graphs/).
 
 ##### Examples of good presentations
 
