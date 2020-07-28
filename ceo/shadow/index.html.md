@@ -195,7 +195,7 @@ Exceptional community members may be able to participate, as well.
 | 2020-08-10 | 2020-08-14 | [Amy Brandenburg](https://gitlab.com/abrandenburg) - Technology Alliances Manager | [Tim Rizzi](https://gitlab.com/trizzi) - Sr. Product Manager, Package |
 | 2020-08-17 | 2020-08-21 | [Sam White](https://gitlab.com/sam.white) - Sr. Product Manager, Defend | [Amy Brandenburg](https://gitlab.com/abrandenburg) - Technology Alliances Manager |
 | 2020-08-24 | 2020-08-28 | [Mike Miranda](https://gitlab.com/mikemiranda) - Account Executive, Commercial Sales | [Sam White](https://gitlab.com/sam.white) - Sr. Product Manager, Defend | 
-| 2020-08-31 | 2020-09-17 | NO SHADOWS - PERSONAL  | NO SHADOWS - PERSONAL |
+| 2020-08-31 | 2020-09-17 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2020-09-21 | 2020-09-25 | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend | [Mike Miranda](https://gitlab.com/mikemiranda) - Account Executive, Commercial Sales  |
 | 2020-09-28 | 2020-10-02 | AVAILABLE - REMOTE | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend |
 | 2020-10-05 | 2020-10-09 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
