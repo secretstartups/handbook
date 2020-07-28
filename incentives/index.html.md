@@ -240,7 +240,7 @@ If a team member has been referred, the People Experience team will review team 
 * Exceptions
    * no bonus for hiring people who report to you directly or are in your direct reporting chain,
    * no bonus for a current executive team member (VP and above) who's referral is hired,
-   * no bonus if you refer a current team members,
+   * no bonus if you refer current team members,
    * no bonus for refering a [Boomerang Team Member](https://www.bamboohr.com/hr-glossary/boomerang-employee/).
 
 * In the event that more than one GitLab employee refers the same team member for the same role the People Ops team will ask the new team member to confirm who they were referred by (who should get the credit). If they mention two or more people then the bonus will be split between them.
