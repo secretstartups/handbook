@@ -178,7 +178,7 @@ In FY21, the budget was 6% of all team members as of October 31, 2019. For the n
 1. Annual Compensation Review Budget
   * 6% of those who were not promoted. Therefore 6% of 88% of the population.  
   * The annual compensation review budget is held by each e-group leader. The leader can allocate budget however appropriate within their division, but cannot move funds to another division. 
-  * The budget for grade 12 and above is managed by the Compensation Group internally to GitLab, and approved by the Compensation Committee at the Board level. 
+  * The budget for [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and above is managed by the Compensation Group internally to GitLab, and approved by the Compensation Committee at the Board level. 
 1. Relocation Budget
   * Relocations are not considered in the budget. Theoretically throughout the year, there would be a net zero from those moving to higher-cost and lower-cost regions.
 1. Budget Rollovers: The budget from annual compensation review can rollover into the catch up compensation review or the promotion budget for that fiscal year. For example, if Engineering has 20,000 USD left after the FY22 annual compensation review process, they can use these funds for promotions in FY22. At the end of each fiscal year, the budgets will reset.
