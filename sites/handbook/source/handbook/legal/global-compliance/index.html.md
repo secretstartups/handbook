@@ -50,7 +50,7 @@ format if requested.
 
 **The right to be notified** – If there has been a data breach which compromises an individual’s personal data, the individual has a right to be informed within 72 hours of first having become aware of the breach. 
 
-For more information, reach out to GitLab's [Data Protection Officers](/security/#data-protection-officers)
+For more information, reach out to GitLab's [Data Protection Office](https://about.gitlab.com/privacy/#data-protection)
 
 ## Confidential Information
 
