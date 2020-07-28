@@ -54,7 +54,9 @@ There are three levels of access - `Admin`, `Author`, `Reporter` - which are gra
 
 * [Generic PathFactory request](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/blob/master/.gitlab/issue_templates/pathfactory_request.md)
 
-## PathFactory vs. Marketo
+## What is PathFactory?
+
+### PathFactory vs. Marketo
 
 ☝️ **PathFactory ≠ Email Nurture. PathFactory is a tool that - instead of driving to a single asset - drives to a related-content experience.**
 
@@ -69,7 +71,9 @@ Nurture is a channel to bring an individual to the content. Just like ads, socia
 
 Yes, the PathFactory track acts as a supplement to the existing Marketo nurture instead of a replacement. It allows us to provide related content in a seamless way for the end-user (better than simply providing a PDF link and to improve "binging" of content).
 
-## PathFactory vs. CMS vs. DAM
+### PathFactory vs. CMS vs. DAM
+
+PathFactory is not a single source of truth (SSoT) for all GitLab content, but rather content that has been activated in a marketing campaign.
 
 **Content Management System (CMS)** - A content management system is a software application that can be used to manage the creation and modification of digital content. 
 
