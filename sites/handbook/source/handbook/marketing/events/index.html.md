@@ -733,7 +733,7 @@ For **OWNED** events, the Marketo program is pushed to the Marketo Check-in app 
 If you need support, use the #mktgops slack channel.
 
 ## Swag for Events
-Swag selection and creation is managed by Corporate Marketing. All information on swag can be found in the [Corporate Marketing handbook](/handbook/marketing/corporate-marketing/#swag). For event related swag and tracking purposes, we utilize the tags `swag_corporate` and `swag_community`. For Field Marketing our tags are broken down by region - `swag_AMER_marketingfield`, `swag_APAC_marketingfield` and `swag_EMEA_marketingfield`.  
+Swag selection and creation is managed by Corporate Marketing. All information on swag can be found in the [Corporate Marketing handbook](/handbook/marketing/corporate-marketing/#swag). For event related swag and tracking purposes, we utilize the tags `swag_corporate` and `swag_community`.
 
 
 ## Specifics for Community Relations
@@ -741,7 +741,7 @@ Swag selection and creation is managed by Corporate Marketing. All information o
 GitLab's Community Relations team reviews and manages our community events (typically an event with less than 250 attendees that is targetting end users of GitLab) including [Meetups](/handbook/marketing/community-relations/evangelist-program/#meetups). The [Community Relations handbook](/handbook/marketing/community-relations/evangelist-program/#community-events) has additional information on the events the Community Relations team will support.
 
 ## Specifics for Corporate Events
-## Specifics for Field Events
+## Specifics for Field Marketing Events
 - For events where a field marketing representative cannot be present, the FM DRI will assign an onsite lead. The DRI will be responsible for coordinating with this person and providing them with any info they will need to help run the event in their absence. This person will be the venue point of contact as well as responsible for set up and tear down.
 - FOR EMEA: We must ensure we are gathering GDPR compliant leads - Lead devices scanning follow up needs to be in event T&C. If GDPR is not in the T&C, we are not allowed to follow up on the leads. Scanning a lead is not automatically GDPR compliant if visitors have not agreed to it.
 
@@ -759,6 +759,18 @@ Nadel Admin Portal Demo - [View Here](https://drive.google.com/open?id=1YNNjr-A8
 - **Shipping:** Please make sure to specify all shipping requirements and deadlines when ordering your items. Nadel will provide return shipping labels with each order for easy return shipping to the warehouse after your event.
 - **Lead Times:** Please be aware that ordering newly designed swag or placing reorders for existing items requires adequate lead time. Timeframes vary greatly based on the items selected and design approval. General Lead Times: 6 weeks to produce a new item and 2-3 weeks to reorder current designs.
 - **Stickers:** For sticker orders, please utilize our [Sticker Mule](https://www.stickermule.com/) account. Delivery options and timelines are provided during the ordering process. Any new sticker designs must be approved by the brand team for brand consistency. You can suggest new designs in the swag slack channel or more formally in an issue in the [Swag Project](https://gitlab.com/gitlab-com/swag_suggestions).
+
+### AMER Field Marketing Event Assets 
+Each FMM and FMC is to keep a GitLab tablecloth, popup banner and table runner with them to be utilized for events. Ordering instructions are provided during onboarding, but if replacement items are needed, please contact your Field Marketing Coordinator. Additional event assets (including popup booths) are stocked at the Nadel warehouse and can be shipped via the [Nadel Portal](https://rhu270.veracore.com/v5fmsnet/MONEY/OeFrame.asp?PmSess1=2406114&Action=LOGIN&pos=GIT476&v=4&OfferID=&sxref=) utilizing the Field Marketing team login available in the 1Password Marketing Vault. 
+
+#### Returning AMER Field Marketing Event Assets
+It is the FMM’s responsibility to not only ship assets to events, but to also ensure the onsite event DRI ships the items back within **3 days** of the end of the event. When shipping items via the Nadel portal, there is an option to include return shipping labels during the ordering process so items can be sent back to Nadel directly. The return shipping labels will be included on the outside of the box in a sleeve marked `Return Documents Enclosed`. The FMM is to make sure the onsite event DRI is aware of the location of the return shipping labels. If a return shipping label is not included for any reason during the Nadel ordering process, the FMM is to provide the GitLab Fedex account number (available in the 1Password Marketing Vault) and the return shipping address listed below to the onsite event DRI. The onsite event DRI will then need to drop off the items to a Fedex location.  
+
+**Nadel Warehouse Address for Returns:**      
+DG Receiving Dept - GIT476 (FM)  
+2270 E 220th Street  
+Deliveries To: Dock Door 21  
+Carson, CA 90810     
 
 ### AMER Sales Welcome Swag Kits
 New AMER sales team members will be provided the [AMER Sales Welcome Swag Kit Order Form](https://docs.google.com/forms/d/1MDEnjM-K-ootOzf2SBT-8KQWYjN4bedZu4ActvFrYds/edit) in their Google Classroom training module. Please take note of the approved sales teams listed in the form to make sure you are eligible for a kit and please limit to one kit per person. New orders are placed once a week and order confirmations, as well as shipping confirmations, will be sent out by our swag vendor, Nadel. For any questions please contact `@krogel`.
@@ -789,9 +801,6 @@ Delivery options and timelines are provided during the ordering process. Any new
   - Swag items required and Quantities
 - **Return items to warehouse**: FMC will coordinate with Ten&One the return of all banners, table cloths, back walls, counter top, iPads (not SWAG) back to Ten&One Address: Agentur, Meyerbeerstraße 12, 81247 München, Germany, Phone: +49 89 2554190
 
-### AMER Field Marketing Event Assets 
-Each FMM and FMC is to keep a GitLab tablecloth, popup banner and table runner with them to be utilized for events. Ordering instructions are provided during onboarding, but if replacement items are needed, please contact your Field Marketing Coordinator. Additional event assets (including popup booths) are stocked at the Nadel warehouse and can be shipped via the [Nadel Portal](https://rhu270.veracore.com/v5fmsnet/MONEY/OeFrame.asp?PmSess1=2406114&Action=LOGIN&pos=GIT476&v=4&OfferID=&sxref=) utilizing the Field Marketing team login available in the 1Password Marketing Vault. 
-
 ### AMER Field Marketing QR Codes for Events
 A QR code with a general GitLab PathFactory track and a QR code with a general PubSec PathFactory track are available for use. FMMs/DRIs can follow the links below to print and display at events. Table-top signs to display the QR codes are available in Nadel - search for `Tabletop Display`.
   - [General track QR code](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/uploads/4e60a958192f8d3e336d1d963bfbe551/General-Track-Qr-Sign.pdf)
@@ -807,16 +816,7 @@ If this template does not meet your needs, additional designs may be requested b
     - If YES and the QR code is for a specific event, pull the existing UTM from the related event epic and attach to the end of the URL that needs tracking 
     - Please loop in your MPM for assistance with campaign UTMs, or `@mnguyen4` & `@shanerice` if your MPM is not available 
 
-Design will then create and provide a PDF for the FMM/FMC to print on their own for the event. 
-
-### Returning AMER Field Marketing Event Assets
-It is the FMM’s responsibility to not only ship assets to events, but to also ensure the onsite event DRI ships the items back within **3 days** of the end of the event. When shipping items via the Nadel portal, there is an option to include return shipping labels during the ordering process so items can be sent back to Nadel directly. The return shipping labels will be included on the outside of the box in a sleeve marked `Return Documents Enclosed`. The FMM is to make sure the onsite event DRI is aware of the location of the return shipping labels. If a return shipping label is not included for any reason during the Nadel ordering process, the FMM is to provide the GitLab Fedex account number (available in the 1Password Marketing Vault) and the return shipping address listed below to the onsite event DRI. The onsite event DRI will then need to drop off the items to a Fedex location.  
-
-**Nadel Warehouse Address for Returns:**      
-DG Receiving Dept - GIT476 (FM)  
-2270 E 220th Street  
-Deliveries To: Dock Door 21  
-Carson, CA 90810      
+Design will then create and provide a PDF for the FMM/FMC to print on their own for the event.     
 
 ### AMER Field Marketing Badge and Event Check-In Process
 **Items to Purchase:**
@@ -864,11 +864,10 @@ Carson, CA 90810
 * Click `Open PDF` and print utilizing the Avery badge paper previously purchased
 * Separate individual badges, stuff in clear holders/clips that come with the badge paper, and arrange in badge carrying case
 
+### Field Marketing Venue Search
+For venue search requests, the FMM can open an issue utilizing the [`Venue_Search`](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=Venue_Search) template. Follow the instructions to provide event details and assign to the regional FMC.  
 
-### AMER Field Marketing Venue Search
-For venue search requests, the FMM can open an issue utilizing the [`AMER_VenueSearch`](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=AMER_VenueSearch) template. Follow the instructions to provide event details and assign to the FMC.  
-
-### AMER Field Marketing Event Copy Deadline Process
+### Field Marketing Event Copy Deadline Process
 * FMM to assign MPM and FMC when creating the event issue
 * FMC to attach their regional event tracking label to the event issue and confirm MPM is assigned and all appropriate labels have been included
 * MPM to create epic and related issues and assign to FMM and FMC
@@ -878,17 +877,6 @@ For venue search requests, the FMM can open an issue utilizing the [`AMER_VenueS
 * For event issues that include `Follow up: planned from Field Marketing`, FMC to link follow up issue in this section once follow up issue has been created
 * FMM to check off deadline tasks and ping the MPM in the corresponding MPM issue as they are completed
 * One (1) business day before task is due, FMC to ping FMM in corresponding MPM issue with copy reminder
-
-### AMER Field Marketing Corporate Credit Card Usage
-The regional FMCs will each hold a GitLab corporate credit card. Please closely review the usage details below and note that the card holder must be the person to process each transaction. Contact your FMC directly for card usage requests and include the purpose of the charge, the event issue link and campaign tag for appropriate expense tagging. 
-
-* FMCs will NOT give out their credit card number. The FMCs will make the purchase for you. 
-* FMC credit cards are approved for charges of up to $10,000. If a charge above this amount is required, please inform the FMC in advance to allow time for additional approval. 
-* FMC credit cards may not be used for personal expenses of any nature.
-* FMC credit cards can be utilized for online orders through companies such as Stickermule and Vistaprint. 
-* FMC credit cards should not be used to charge sponsorships, annual subscriptions, deposits for events, recurring charges, or anything that can be billed directly through our accounts payable department via the [Procure to Pay Process](/handbook/finance/procure-to-pay/). Exceptions can be made for emergency charges needed immediately, or for vendors who only accept credit card payment. 
-
-For more details regarding the corporate credit card usage policy or how to submit a request for your own corporate credit card, please visit the [Credit Card Usge Policy](/handbook/finance/accounting/#credit-card-use-policy) page.
 
 ### Lightning meetings with CXO
 
