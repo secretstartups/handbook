@@ -324,6 +324,10 @@ If you're sure that the ticket is related to **GitLab.com**, but you see it in
 1. Change the **Form** to **GitLab.com** (if it's not like that already)
 1. Remove the tag that is related to self-managed plans (e.g. **basic** or
 **premium**)
+   1. **NOTE:** Do not remove a plan tag without adding another one. A ticket
+      without a plan tag will receive no SLA and not be visible in a view! If you
+      are unsure of how to proceed, please reach out to @support-operations in
+      slack.
 1. Do one of the following:
     1. If you know what plan level the user is on, choose the appropriate one under "Tell us about your subscription".
     1. Add the internal note with the following content:
