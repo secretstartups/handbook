@@ -15,7 +15,7 @@ The People Experience Team hosts a pre-onboarding call known as the Ta-New-Ki ca
 
 This call occurs every two weeks on Monday at two times to account for timezones. 
 - 12:00am PT
-- 8:00am PT
+- 08:00am PT
 
 
 Please note that this call will take a place a week or two before your actual start date. 
