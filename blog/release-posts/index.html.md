@@ -435,7 +435,7 @@ It's the PMs discretion on which bugs or performance improvements to include in 
 - Amount of impacted users - if the bug you're fixing impacts many users consider adding it to the release post. Not all high volume bugs are worth calling out, be sure to consider severity as well.
 - Severity - if the bug is severe (even if it impacts fewer users) consider including it. A performance improvement is a good example, it could be on a feature that sees less use but if you're able to make a significant improvemnt it's worth calling out.
 - Any data-loss or security related bug - you've likely already pushed a fix with relevant content in a patch release. If not, be sure to include those types of issues.
-- Bugs with high demand - demand beying interest from customers (in the form of upvotes, discussions on issues) or the wider community.
+- Bugs with high demand - demand being interest from customers (in the form of upvotes, discussions on issues) or the wider community.
 
 It's also recommended you collaborate with your EM in deciding what to include.
 
