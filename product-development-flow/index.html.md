@@ -27,7 +27,7 @@ Because this page needs to be concise and consistent, please ensure to follow th
 
 | Stage (Label) | Track | Responsible | Completion Criteria | Who Transitions Out |
 | ----- | --------- | ------------------- | --------------- | ------------------ |
-| `workflow::start` | N/A | Product | Item has enough information to enter problem validation. | Product |
+| `workflow::validation backlog` | N/A | Product | Item has enough information to enter problem validation. | Product |
 | `workflow::problem validation` | [Validation](#validation-track) | Product | Item is validated and defined enough to propose a solution | Product |
 | `workflow::design`  | [Validation](#validation-track) | UX | Design work is complete enough for issue to be validated or implemented. Product and Engineering confirm the proposed solution is viable and feasible. | UX |
 | `workflow::solution validation`  | [Validation](#validation-track) | Product, UX | Product Manager works with UX to validate the solution with users. | Product |
