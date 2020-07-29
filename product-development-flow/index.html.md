@@ -28,7 +28,7 @@ Because this page needs to be concise and consistent, please ensure to follow th
 | Stage (Label) | Track | Responsible | Completion Criteria | Who Transitions Out |
 | ----- | --------- | ------------------- | --------------- | ------------------ |
 | `workflow::start` | N/A | Product | Item has enough information to enter problem validation. | Product |
-| `workflow::problem validation` | [Validation](#validation-track) | Product | Item is validated and defined enough to propose a solution | Product |
+| `workflow::problem validation` | [Validation](#validation-track) | Product, UX | Item is validated and defined enough to propose a solution | Product |
 | `workflow::design`  | [Validation](#validation-track) | UX | Design work is complete enough for issue to be validated or implemented. Product and Engineering confirm the proposed solution is viable and feasible. | UX |
 | `workflow::solution validation`  | [Validation](#validation-track) | Product, UX | Product Manager works with UX to validate the solution with users. | Product |
 | `workflow::needs issue review` | [Review](#review-track-optional)(Optional) | Product (Original PM) | Issue needs review by a Peer PM to help issue become more iterative, clearer, and better aligned with GitLab strategy | Product (Reviewer PM)
@@ -121,9 +121,9 @@ To run the problem validation process:
 
 1. PM opens a `Problem validation research` issue using the available template in the [UX Research](https://gitlab.com/gitlab-org/ux-research/) project. Once completed, please assign the issue to the relevant UX Researcher.
 
-1. Product Manager, Product Designer, and UX Researcher meet to discuss the appropriate research methodology, timescales, and user recruitment needs. 
+1. [Product Manager, Product Designer, and UX Researcher](/handbook/engineering/ux/ux-research/#ux-research-at-gitlab) meet to discuss the appropriate research methodology, timescales, and user recruitment needs. 
 
-1. The next steps in the process depend on the research methodology chosen. Regardless of the methodology chosen, PM and UX Researcher execute the research study together. It is beneficial to also invite Engineers to shadow the research study. This can help the team broadly understand existing user behaviors.
+1. The next steps in the process depend on the research methodology chosen. Regardless of the methodology chosen, PM, PD and UX Researcher execute the research study together. It is beneficial to also invite Engineers to shadow the research study. This can help the team broadly understand existing user behaviors.
 	- [Follow the process for user interviews](https://about.gitlab.com/handbook/engineering/ux/ux-research/#for-user-interviews)
 	- [Follow the process for surveys](https://about.gitlab.com/handbook/engineering/ux/ux-research/#for-surveys)
 
