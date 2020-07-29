@@ -92,8 +92,7 @@ Sales Development Reps (SDRs) have their own separate onboarding process (but ma
 
 | DATES | GEO | LOCATION | ISSUE |
 | ------ | ------ | ------ | ------ |
-| Jul 9-17, 2020 | AMER | Virtual | [SQS10 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/353) |
-| Aug 17-26, 2020 | EMEA/APAC | Virtual | issue TBD |
+| Aug 17-26, 2020 | EMEA/APAC | Virtual | [SQS11 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/437) |
 | Sep 28-Oct 6, 2020 | AMER | Virtual | issue TBD |
 
 ## Swag for New Sales Team Members
