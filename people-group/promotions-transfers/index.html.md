@@ -320,15 +320,15 @@ In cases where multiple individuals are asked to transfer to high priority roles
 1. Ask hiring manager to approve transfer.  If they don't approve look at the individual's first or second choice.
 1. Follow the normal process for recording and announcing each transfer.
 
-#### For People Ops & Recruiting Team
+#### For People Success & Recruiting Team
 
-Vacancies will be posted both [externally and internally](/handbook/hiring/vacancies/#vacancy-creation-process) using Greenhouse for at least 3 business days.
+Vacancies will be posted internally using the Greenhouse internal job board for at least 3 business days. If a role is not posted internally there must be a business case documentd in the HRIS file of the team member who received the new role. 
 
 Once an internal candidate completes their interviews and the internal references are completed, an offer needs to be submitted and approved in Greenhouse by working with the new manager, the People Business Partner, and the People Ops Analyst. Once the offer is approved, the offer will be extended verbally to the internal candidate by the hiring manager for the role.
 
-After the offer is approved and extended by the hiring manager, the Recruiter will follow up with an email containing the details, and the Candidate Experience Specialist will prepare and send a Letter of Adjustment (LOA) through Greenhouse for the GitLab Signatory and the internal candidate to sign.
+After the offer is approved and extended by the hiring manager, the Candidate Experience Specialist will prepare and send a Letter of Adjustment (LOA) through Greenhouse for the GitLab Signatory and the internal candidate to sign.
 
-Once the contract is signed, the Candidate Experience Specialist will move the internal candidate to “Hired” in Greenhouse, making sure to **not** export to BambooHR.
+Once the contract is signed, the Candidate Experience Specialist will move the internal candidate to “Hired” in Greenhouse.
 
 After the internal candidate is moved to “Hired”, the recruiting team will notify the Total Rewards Analyst who will [update BambooHR](/handbook/people-group/promotions-transfers/#processing-promotion-or-transfer-changes) with appropriate changes.
 
