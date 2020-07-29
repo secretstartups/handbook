@@ -33,15 +33,5 @@ This ticket will be marked as "Solved"
 ```
 1. Mark the ticket as "Solved"
 
-### Incoming [Information Request](https://gitlab.com/gitlab-com/support/services/services-internal/blob/master/.gitlab/issue_templates/information_request.md)
-In response to a subpoena, someone from legal may create an [Information Request](https://gitlab.com/gitlab-com/support/services/services-internal/blob/master/.gitlab/issue_templates/information_request.md). 
-- Assign the issue to yourself to note that you'll be taking end-to-end ownership of it.
-- If you need more details, feel free to ask clarifying questions in the issue or take it to a call.
-
-#### Processing the request
-
-Notes:
-- Treat all information with extreme care. Delete any local copies once you've shared them.
-- As some requests for logs may come in well after Kibana logs expire, you may need to contact infrastructure for access to historical logs.
-- Package requested information into a .zip file and share them directly with the requestor's `@gitlab.com` account. 
+Note: All information requests are handled by Legal and Security.
 
