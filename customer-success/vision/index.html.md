@@ -119,35 +119,6 @@ We need to choose a single retention level to measure for customer success, so t
 
 A measure of the causes for retention (compared to the same time period for the previous year) MRR decreases (churn) or increases (expansion). Churn is specified as Cancellation or Downgrades. Expansion is specified as Seat Expansion, Product Change, Product Change/Seat Change Mix, or Discount/Price Change. These are reported as a percentage using the change in MRR for the given reason over the total MRR change for all types in either the Churn or Expansion category. Trueups are excluded from these metrics.
 
-### ARR Changes
-
-A measure of changes to ARR compared to the same time period for the previous month or fiscal quarter. While retention calculations measure changes compared to the same period in a previous year, we also need to measure changes over smaller time periods (month-to-month and quarter-to-quarter) to make real-time business decisions and evaluate the immediate impact of our programs and initiatives. While the net and gross retention metrics are externally reported, corporate metrics, the month-to-month and quarter-to-quarter MRR/ARR changes reporting is used for internal analysis. ARR changes are reported at the parent account level, with drill down capability to see account level detail.
-
-Types of ARR changes:
-- new - ARR for the customer's first paying month/quarter
-- expansion - ARR increased from previous month/quarter
-- contraction - ARR decreased from previous month/quarter
-- no impact - ARR remained the same from previous month/quarter
-- cancelled - ARR decreased all the way to zero for a customer who was paying in the previous month/quarter
-
-Reasons for ARR changes:
-- seat change - a change in the quantity of seats purchased
-- price change - a change in discount
-- tier change up - an upward change in the product purchased within an existing deployment model (i.e., from Silver up to Gold)
-- tier change down - a downward change in the product purchased within an existing deployment model (i.e., from Silver down to Bronze)
-- conversion - a change from SaaS to Self-Managed or vice versa (i.e., Silver to Premium)
-
-These reasons can also happen in combination, such as a change in tier and a change in quantity of seats at the same time. When this happens, the ARR Change reporting will attribute a specific dollar value of contraction or expansion ARR to each reason.
-
-We can also use ARR Change reporting to understand loss of contracts or consolidation of contracts at the parent and account level.
-
-## External Reporting
-### Gross Retention
-We calculate our dollar-based gross retention rate as of the period end by starting with the ARR from all subscription customers as of 12 months prior to such period, or Prior Period ARR. We then deduct from the Prior Period ARR any ARR from subscription customers who have contracted or are no longer customers as of the current period end, or Current Period Remaining ARR. We then divide the total Current Period Remaining ARR by the total Prior Period ARR to arrive at our dollar-based gross retention rate. Our dollar-based gross retention rate reflects customer losses as well as reflects customer contraction.
-
-### Net Retention
-We calculate dollar-based net retention rate as of a period end by starting with the Annual Recurring Revenue (ARR) from the cohort of all customers as of 12 months prior to such period-end, or the Prior Period ARR. We then calculate the ARR from these same customers as of the current period-end, or the Current Period ARR. Current Period ARR includes any expansion and is net of contraction or attrition over the last 12 months, but excludes ARR from new customers in the current period. We then divide the total Current Period ARR by the total Prior Period ARR to arrive at the point-in-time dollar-based net retention rate.
-
 ## Professional Services Standard Cost
 
 We use a standard cost estimate to project margin on PS Statements of Work. The standard rate is calculated by dividing the average annual OTE plus benefits by the estimated annual billable hours. For this calculation, we assume 1,880 billable hours annually. We update the standard cost estimate on a quarterly basis.  
