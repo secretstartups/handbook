@@ -19,6 +19,31 @@ A key part of the customer relationship lifecycle is the renewal phase.  TAMs mu
 
 At the beginning of each month a TAM should review their list of accounts in Salesforce and note the renewal dates for their accounts.  If a renewal date is within six months the TAM should schedule two “Renewal Review” meetings with the appropriate SAL and Solutions Architect (SA).  The first “Renewal Review” meeting should be scheduled five months out from the renewal date and the second should be scheduled three months out from the renewal date.
 
+## TAM Prioritization
+
+On the Gainsight Attributes section, the TAM can set the priority level per customer with levels 1-3, with 1 being the highest. Definitions include:
+
+1. High Touch: TAM-led onboarding, regular cadence calls, full TAM-led customer lifecycle
+2. Medium Touch: TAM-led onboarding, quarterly check-ins, renewal touch point
+3. Digital Touch: No direct TAM involvement, onboarding and enablement driven by email-led digital journey
+
+Why do we use a prioritization system?
+
+* Use in SALSATAM meetings to ensure team alignment
+* If everything is important, than nothing is important. TAMs and Managers have visibility into how much attention a particular client should or is receiving, and provide a talking point to discuss when/if things change
+* Managers have more visibility into the potential workload of the team member via more context on the makeup of the overall portfolio
+* TAMs have more insight into their portfolio and where they should be spending their time
+* TAMs can run associated campaigns of education to low touch or less engaged customers or strategic (high touch) customers to be automatically invited to Customer Advisory Boards or events
+* Used to further segmentat customers, beyond the [Sales Segmentation](/handbook/business-ops/resources/#segmentation)
+
+Criteria to apply includes:
+- Future account growth
+- Size of the account 
+- Risk / health of account
+
+The `TAM Portfolio` Dashboard is used to help highlight and review each client, including their priority level.
+
+
 ## Renewal Review Meeting
 
 A “Renewal Review” meeting should have the following attendees:
