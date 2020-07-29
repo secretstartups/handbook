@@ -100,6 +100,11 @@ and external ID of the Finding's [first identifier](https://gitlab.com/gitlab-or
 Examples of Primary Identifiers include ZAP's `PluginID`, or `CVE` for Klar. 
 Note that the identifier must be stable; subsequent scans must return the same value for the same Finding, even if the location has slightly changed.
 
+### Report Finding
+
+A [Finding](#finding) that only exists in a report produced by an Analyzer and is yet to be persisted to the database.
+The Report Finding becomes a [Vulnerability Finding](#vulnerability-finding) once it's imported into the database.
+
 ### Report Type / Scan Type
 
 Describe the type of scan, must be one of `container_scanning`, `dependency_scanning`, `dast` or `sast`.
@@ -136,6 +141,10 @@ and do not describe where the error is located (see [Finding](#finding)).
 Each Vulnerability maps to a unique Finding.
 Plans are underway to group related Findings to the same Vulnerability to empower users with additional
 workflows and improve the tracking of Findings.
+
+### Vulnerability Finding
+
+When a [Report Finding](#report-finding) is stored to the database, it becomes a vulnerability [Finding](#finding).
 
 ### Vulnerability Tracking
 
