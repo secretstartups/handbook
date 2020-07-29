@@ -37,10 +37,9 @@ Why do we use a prioritization system?
 * Used to further segmentat customers, beyond the [Sales Segmentation](/handbook/business-ops/resources/#segmentation)
 
 Criteria to apply includes:
-
-- Upcoming renewal(s)
-- Expansion opportunities
-- Risk
+- Future account growth
+- Size of the account 
+- Risk / health of account
 
 The `TAM Portfolio` Dashboard is used to help highlight and review each client, including their priority level.
 
