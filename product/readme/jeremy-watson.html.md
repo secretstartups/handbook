@@ -25,7 +25,9 @@ Please feel free to contribute to this page by opening a merge request.
 
 While all of GitLab’s values are extremely important to me, our values of [collaboration](https://about.gitlab.com/handbook/values/#collaboration), [diversity, inclusion and belonging](https://about.gitlab.com/handbook/values/#diversity--inclusion), and [transparency](https://about.gitlab.com/handbook/values/#transparency) are particularly dear to me.
 
-Although performance feedback is typically [not public by default](https://about.gitlab.com/handbook/communication/#not-public), in the spirit of transparency I am choosing to share [my most recent 360 feedback from [June 2020](https://drive.google.com/file/d/1Y6S0w3nZjN_WANFxme9k87OUix6l1I_a/view?usp=sharing) and [January 2019](https://drive.google.com/open?id=1h8VrRxkfNewCja1BVb9-_Yhu0WSucKAK) here. I may or may not share future 360 reviews as I always want others to be able to provide me with candid feedback, especially about areas for improvement, without fear that their words (even anonymously) may be made public.
+### 360 Feedback
+
+Although performance feedback is typically [not public by default](https://about.gitlab.com/handbook/communication/#not-public), in the spirit of transparency I am choosing to share my most recent 360 feedback from [June 2020](https://drive.google.com/file/d/1Y6S0w3nZjN_WANFxme9k87OUix6l1I_a/view?usp=sharing) and [January 2019](https://drive.google.com/open?id=1h8VrRxkfNewCja1BVb9-_Yhu0WSucKAK) here. I have an [issue to track areas of improvement](https://gitlab.com/gitlab-org/manage/general-discussion/-/issues/17235) I'd like to focus on from my latest round of feedback. I may or may not share future 360 reviews as I always want others to be able to provide me with candid feedback, especially about areas for improvement, without fear that their words (even anonymously) may be made public.
 
 ## My role as Group Manager
 
