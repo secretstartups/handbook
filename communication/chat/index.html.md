@@ -88,14 +88,18 @@ These channels are used to help GitLab team-members who are in the same general 
 
 These channels are temporary and used to focus communication around a specific project. As an ephemeral channel they are archived once a project is complete and can be found in Slack by searching for `proj_`
 
-#### Section Channels (s_)
+#### Working Group Channels (wg_)
 
-Section channels (prefixed with `s_`) correspond to sections within departments.
+These channels are temporary and used to focus communication around a specific working group. As an ephemeral channel they are archived once the working group's exit criteria is met and can be found in Slack by searching for `wg_`
+
+#### Stage Channels (s_)
+
+Stage channels (prefixed with `s_`) correspond to stages within sub-departments.
 
 **Examples**
 
-* **[`#s_enablement`](https://gitlab.slack.com/archives/s_enablement)**: For the [Enablement section](/handbook/product/product-categories/#enablement-section).
-* **[`#s_growth`](https://gitlab.slack.com/archives/s_growth)**: For the [Growth section](/handbook/product/product-categories/#growth-section).
+* **[`#s_enablement`](https://gitlab.slack.com/archives/s_enablement)**: For the [Enablement stage](/handbook/product/product-categories/#enablement-stage).
+* **[`#s_create`](https://gitlab.slack.com/archives/s_create)**: For the [Create stage](/handbook/product/product-categories/#create-stage).
 
 #### Sub-Department Channels (sd_)
 
