@@ -567,25 +567,37 @@ Delta ARR = iACV - [True Ups] + [Coterm difference] +/- [Timing differences]
 
 ##### ARR Analysis Framework
 
-While retention calculations measure changes compared to the same period in a previous year, we also need to measure changes over smaller time periods (month-to-month and quarter-to-quarter) to make real-time business decisions and evaluate the immediate impact of our programs and initiatives. While the net and gross retention metrics are externally reported, corporate metrics, the month-to-month and quarter-to-quarter MRR/ARR changes reporting is used for internal analysis. Delta ARR is reported at the parent account level, with drill down capability to see account level detail.
+A measure of changes to ARR compared to the prior month, fiscal quarter, or year. While retention calculations measure changes compared to the same period in a previous year, we also need to measure changes over smaller time periods (month-to-month and quarter-to-quarter) to make real-time business decisions and evaluate the immediate impact of our programs and initiatives. While the net and gross retention metrics are externally reported, corporate metrics, the month-to-month and quarter-to-quarter ARR changes reporting is used for internal analysis. ARR changes are reported at the parent account level, with drill down capability to see account level detail.
 
 Types of Delta ARR:
 - new - ARR for the customer's first paying month/quarter
 - expansion - ARR increased from previous month/quarter
 - contraction - ARR decreased from previous month/quarter
+- churn - ARR decreased all the way to zero for a customer who was paying in the previous month/quarter
 - no impact - ARR remained the same from previous month/quarter
-- cancelled - ARR decreased all the way to zero for a customer who was paying in the previous month/quarter
 
 Reasons for Delta ARR:
 - seat change - a change in the quantity of seats purchased
 - price change - a change in discount
-- tier change up - an upward change in the product purchased within an existing deployment model (i.e., from Silver up to Gold)
-- tier change down - a downward change in the product purchased within an existing deployment model (i.e., from Silver down to Bronze)
-- conversion - a change from SaaS to Self-Managed or vice versa (i.e., Silver to Premium)
-
-These reasons can also happen in combination, such as a change in tier and a change in quantity of seats at the same time. When this happens, the ARR Change reporting will attribute a specific dollar value of contraction or expansion ARR to each reason.
+- tier change - an upward or downward change in the product purchased (i.e., from Silver up to Gold)
 
 We can also use Delta ARR reporting to understand loss of contracts or consolidation of contracts at the parent and account level.
+
+#### ARR Changes - Cost Accounting Methodology
+
+The reasons for ARR changes can happen in combination, such as a change in tier and a change in quantity of seats at the same time. When this happens, the ARR Change reporting will attribute a specific dollar value of contraction or expansion ARR to each reason. Attributing the specific dollar value to change when there is only 1 reason for the ARR change is straight forward. The attribution methodology gets more complex when there are 2 or 3 reasons for the ARR change. 
+
+When a customer changes tiers, a change due to tier and price occurs. However, the cost accounting methodology that is used only attriubtes dollars to the price change reason when the product tier stays the same and there is a change in price per seat. Therefore, the price change reason only measures changes in discounts and does not measure changes in product tiers. Increased dollars per seat resulting from a tier change are attributed to the tier change reason and not to the price change reason. These attribution rules result in only 1 or 2 reasons being applicable for any ARR change with price and tier change being an invalid combination. 
+
+Here are the combinations of reasons that ARR change can be attributed to:
+- seat change
+- price change
+- tier change
+- seat change and price change
+- seat change and tier change
+
+Here are examples of ARR changes when there are 2 reasons for the change:
+
 
 
 #### ProServe Contract Value (PCV)
