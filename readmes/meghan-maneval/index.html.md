@@ -3,7 +3,7 @@ layout: markdown_page
 title: "Meghan Maneval's README"
 ---
 
-## [Meghan's] README
+## Meghan Maneval's README
 
 **[Meghan Maneval- Manager, Risk and Field Security.]** This page is intended to help others understand what it might be like to work with me, especially people who haven’t worked with me before. 
 
@@ -16,12 +16,13 @@ Please feel free to contribute to this page by opening a merge request.
 * GitLab Profile: [Meghan Maneval · GitLab](https://gitlab.com/mmaneval20)
 * LinkedIn Profile: [Meghan Dobson-Maneval](https://www.linkedin.com/in/meghanmaneval/)
 
-# My original major in college was actually Interior Design and Architecture.  However, shortly after my first semester, I decided to change my major to Management of Technology.
+# About Me
+
+* My original major in college was actually Interior Design and Architecture.  However, shortly after my first semester, I decided to change my major to Management of Technology.
 * My first job after graduation was an IT Auditor for an insurance company.
 * I moved to Arizona from Boston in 2008 and pursued my Master’s Degree in Business. 
 * In 2016, I accepted a role at a global language services company to build out their Information Security Management System and Enterprise Risk Management program with the goal of ISO 27001 Certification. 
-* I am a mother to 5 amazing children from age 9 to 19. 
-* We live in a  [small town](https://www.maranaaz.gov/)between Tucson and Phoenix Arizona. 
+* I am a mother to 5 amazing children from age 9 to 19. We live in a  [small town](https://www.maranaaz.gov/) between Tucson and Phoenix Arizona. 
 * My hobbies include: 
 	* Reading- anything from Jane Austin to JK Rowling and everything in between. 
 	* Anything outdoors (which may seem odd when our temperatures get above 115* F in the summers). I love camping, hiking, swimming, and general exploring. 
@@ -43,8 +44,7 @@ One of the things that drew me to GitLab was the clearly documented values. I am
 
 # What I assume about others
 * I assume that if a due date is provided, the due date will be met. If there is risk to competing something on time, I expect that party to prepare an alternate timeline and a plan to meet the updated due date. 
-* I assume that if others have questions for me, they will reach out. If they don’t ask for help or clarification, I assume they have all the information to complete the task. 
-* I have a quick reply rate for emails and I expect the same curtsey from others. 
+* I assume that if others have questions for me, they will reach out. If they don’t ask for help or clarification, I assume they have all the information to complete the task.  
 * I assume that others are open and honest and won’t hide things from me. 
 
 # What I want to earn
