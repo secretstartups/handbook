@@ -3,6 +3,12 @@ layout: markdown_page
 title: "GitLab Public Sector Rules of Engagement"
 ---
 
+## Government Customers/Contracting
+
+We must ensure all statements and representation to government procurement officials are accurate and truthful, including costs and other financial data. If your assignment directly involves the government or if you are responsible for someone working with the government on behalf of GitLab, be alert to the special rules and regulations applicable to our government customers. Please review the rules below for more details on dealing with the US Federal Government.  Please note that government agencies, in general (US or otherwise) have more strenuous requirements than traditional customers.  Be aware of the heightened sensitivity around dealing with any government entity or foreign official.
+
+Any conduct that could appear improper should be avoided when dealing with government officials and employees or contractors. Payments, gifts, or other favors given to a government official or employee are strictly prohibited as it may appear to be a means of influence or a bribe. Failure to avoid these activities may expose the government agency, the government employee, our company, and you to substantial fines and penalties.
+
 GitLab Public Sector sales team sells EES, EEP, EEU, GitLab Hosted, and custom training directly to:
 
 ## U.S. Federal Government
