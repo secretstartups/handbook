@@ -108,6 +108,14 @@ The team is working on efficiency initiatives to increase the contracts under ma
 - Monitors support tickets and ensures that the customer receives the appropriate support levels
 - Support ticket escalations
 
+#### TAM Tools
+The following articulates where collaboration and customer management is owned: 
+- Customer Collaboration Projects: GitLab, shared with customer. 
+- Boards & planning, prioritization of milestones: GitLab, customer collab projects
+- Email & call logging:  Gainsight, notetaker in Chorus.ai
+- Customer health score:  Gainsight
+- Call notes:  Gdoc for collaboration, link to doc referenced in Gainsight
+
 ## Related pages
 
 - [Dogfooding in Customer Success](/handbook/customer-success/#dogfooding/)
