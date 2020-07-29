@@ -409,7 +409,7 @@ Look for the following patterns:
 Team members can also browse the [Content Marketing Dashboard](https://datastudio.google.com/open/1NIxCW309H19eLqc4rz0S8WqcmqPMK4Qb) to see more examples of current blog posts drawing high traffic.
 
 ### Preparing confidential blog posts
-In the event that we have a big announcement to make and the information must remain confidential until, use the forked project `https://gitlab.com/gitlab-com/marketing/www-gitlab-com` to prepare your merge request.
+In the event that we have a big announcement to make and the information must remain confidential until, use the forked project `https://gitlab.com/gitlab-com/marketing/www-gitlab-com` to prepare your merge request.  
 
 
 ## Publishing natively on LinkedIn and Medium
