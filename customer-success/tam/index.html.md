@@ -110,11 +110,10 @@ The team is working on efficiency initiatives to increase the contracts under ma
 
 #### TAM Tools
 The following articulates where collaboration and customer management is owned: 
-- Customer Collaboration Projects: GitLab, shared with customer. 
-- Boards & planning, prioritization of milestones: GitLab, customer collab projects
-- Email & call logging:  Gainsight, notetaker in Chorus.ai
-- Customer health score:  Gainsight
-- Call notes:  Gdoc for collaboration, link to doc referenced in Gainsight
+1. [**Account Management Projects**](https://gitlab.com/gitlab-com/account-management):  Shared project between GitLab team members and customer. Used to prioritize/plan work with customer. 
+1. [**Google Drive**](https://drive.google.com/drive/u/0/folders/0B-ytP5bMib9Ta25aSi13Q25GY1U): Internal. Used to capture call notes and other customer related documents. 
+1. [**Chorus**](https://about.gitlab.com/handbook/business-ops/tech-stack/#chorus): Internal. Used to record Zoom calls.
+1. [**Gainsight**](https://gitlab.gainsightcloud.com/): Internal. Used to track customer health score, logging [customer activity](https://about.gitlab.com/handbook/customer-success/tam/gainsight/timeline/#activity-types) (i.e. calls, emails, meetings)
 
 ## Related pages
 
