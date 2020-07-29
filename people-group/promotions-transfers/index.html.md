@@ -322,15 +322,9 @@ In cases where multiple individuals are asked to transfer to high priority roles
 
 #### For People Success & Recruiting Team
 
-Vacancies will be posted internally using the Greenhouse internal job board for at least 3 business days. If a role is not posted internally there must be a business case documentd in the HRIS file of the team member who received the new role. 
+Vacancies will be posted internally using the Greenhouse internal job board for at least 3 business days. If a role is not posted internally there must be a business case documentd in the HRIS file of the team member who received the new role. See [Department Transfers](/handbook/people-group/promotions-transfers/#department-transfers) for additional details.
 
-Once an internal candidate completes their interviews and the internal references are completed, an offer needs to be submitted and approved in Greenhouse by working with the new manager, the People Business Partner, and the People Ops Analyst. Once the offer is approved, the offer will be extended verbally to the internal candidate by the hiring manager for the role.
-
-After the offer is approved and extended by the hiring manager, the Candidate Experience Specialist will [prepare and send a Letter of Adjustment (LOA)](https://about.gitlab.com/handbook/people-group/contracts-and-international-expansion/#letter-of-adjustment) through Greenhouse for the GitLab Signatory and the internal candidate to sign.
-
-Once the contract is signed, the Candidate Experience Specialist will move the internal candidate to “Hired” in Greenhouse.
-
-After the internal candidate is moved to “Hired”, the recruiting team will notify the Total Rewards Analyst who will [update BambooHR](/handbook/people-group/promotions-transfers/#processing-promotion-or-transfer-changes) with appropriate changes.
+More details can be found on the [Intneral Applications](/handbook/hiring/interviewing/#internal-applicants) page and the [Letter of Adjustment (LOA)](/handbook/people-group/contracts-and-international-expansion/#letter-of-adjustment) page.
 
 ### Leveling Up Your Skills
 
