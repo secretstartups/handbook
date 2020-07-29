@@ -26,9 +26,9 @@ This is an opportunity to share with the Total Rewards team what benefits you th
 
 Thank you again for playing a part in our efforts to continually improve total rewards at GitLab. If you have any questions, please reach out to the Total Rewards team via email.
 
-### Global Benefits Survey Results 2019
+### Global Benefits Survey Results 2020
 
-Participation: 62%
+Participation: 62% (0% YOY change)
 
 **Rating Rubric**
 5 - strongly agree
@@ -37,158 +37,230 @@ Participation: 62%
 2 - disagree
 1 - strongly disagree
 
-**Rating Rubric Results:**
+#### Benefits Satisfaction Score
 
-1. I Understand the Benefits Package
-  * | GitLab                 | Score |
-    |------------------------|-------|
-    | Male	                 | 4.16  |
-    | Female                 | 4.21  |
-    | Individual Contributor | 4.13  |
-    | Manager                | 4.35  |
-    | Leader                 | 4.46  |
-    | Company Overall        | 4.18  |
-1. The general benefits at GitLab are equal to or better than what is offered by similar employers
-  * | GitLab                 | Score |
-    |------------------------|-------|
-    | Male	                 | 3.67  |
-    | Female                 | 3.66  |
-    | Individual Contributor | 3.72  |
-    | Manager                | 3.33  |
-    | Leader                 | 3.46  |
-    | Company Overall        | 3.66  |
-1. I believe my benefits package is equal to or better than what is offered by similar employers
-  * | GitLab                 | Score |
-    |------------------------|-------|
-    | Male	                 | 3.44  |
-    | Female                 | 3.50  |
-    | Individual Contributor | 3.54  |
-    | Manager                | 3.00  |
-    | Leader                 | 3.27  |
-    | Company Overall        | 3.46  |
-1. The general benefits at GitLab save me a great deal of time and/or money, and add significant value to my employee experience
-  * | GitLab                 | Score |
-    |------------------------|-------|
-    | Male	                 | 3.75  |
-    | Female                 | 3.79  |
-    | Individual Contributor | 3.83  |
-    | Manager                | 3.38  |
-    | Leader                 | 3.54  |
-    | Company Overall        | 3.77  |
-1. My benefits package provides quality coverage for myself and, if applicable, my dependents
-  * | GitLab                 | Score |
-    |------------------------|-------|
-    | Male	                 | 3.59  |
-    | Female                 | 3.63  |
-    | Individual Contributor | 3.63  |
-    | Manager                | 3.38  |
-    | Leader                 | 3.58  |
-    | Company Overall        | 3.60  |
-1. The wellness offerings at GitLab help me lead a happier, healthier life
-  * | GitLab                 | Score |
-    |------------------------|-------|
-    | Male	                 | 3.39  |
-    | Female                 | 3.28  |
-    | Individual Contributor | 3.41  |
-    | Manager                | 3.26  |
-    | Leader                 | 2.92  |
-    | Company Overall        | 3.36  |
-1. I believe our benefits package is one of the top reasons why people apply
-  * | GitLab                 | Score |
-    |------------------------|-------|
-    | Male	                 | 2.87  |
-    | Female                 | 2.81  |
-    | Individual Contributor | 2.96  |
-    | Manager                | 2.40  |
-    | Leader                 | 2.35  |
-    | Company Overall        | 2.86  |
-1. Should I have or care for a(nother) child, the parental leave policy is sufficient	 
-  * | GitLab                 | Score |
-    |------------------------|-------|
-    | Male	                 | 3.95  |
-    | Female                 | 3.44  |
-    | Individual Contributor | 3.82  |
-    | Manager                | 3.61  |
-    | Leader                 | 4.04  |
-    | Company Overall        | 3.81  |
-1. The vacation policy allows me sufficient time to recharge
-  * | GitLab                 | Score |
-    |------------------------|-------|
-    | Male	                 | 4.48  |
-    | Female                 | 4.40  |
-    | Individual Contributor | 4.49  |
-    | Manager                | 4.27  |
-    | Leader                 | 4.38  |
-    | Company Overall        | 4.46  |
-1. I believe our benefits package is one of the top reasons why people stay at GitLab
-  * | GitLab                 | Score |
-    |------------------------|-------|
-    | Male	                 | 3.08  |
-    | Female                 | 3.13  |
-    | Individual Contributor | 3.21  |
-    | Manager                | 2.58  |
-    | Leader                 | 2.54  |
-    | Company Overall        | 3.09  |
-1. I believe investing more of the company's money into improving benefits will help attract and retain top talent
-  * | GitLab                 | Score |
-    |------------------------|-------|
-    | Male	                 | 4.16  |
-    | Female                 | 4.25  |
-    | Individual Contributor | 4.20  |
-    | Manager                | 4.25  |
-    | Leader                 | 3.85  |
-    | Company Overall        | 4.18  |
+The benefits satisfaction score is an average of responses to all ratings questions including general company-wide benefits questions and country-specific questions. Country breakdown only provided for n>4.
 
-**Comment Responses:**
+By Country:
 
-Please note this is a summary of suggestions based on aggregated global team member feedback, but are not guaranteed to be implemented or adjusted at GitLab.
+| Country             | Score |
+| --------------------|-------|
+| Australia           | 3.68  |
+| Austria             | 3.32  |
+| Canada              | 3.46  |
+| Germany             | 3.52  |
+| Hungary             | 3.44  |
+| India               | 3.48  |
+| Ireland             | 3.06  |
+| Mexico              | 3.42  |
+| Netherlands         | 3.26  |
+| New Zealand         | 3.61  |
+| Poland              | 3.59  |
+| Romania             | 3.51  |
+| Russian Federation  | 3.63  |
+| Singapore           | 3.33  |
+| South Africa        | 3.79  |
+| Turkey              | 3.81  |
+| Ukraine             | 3.43  |
+| United Kingdom      | 3.48  |
+| United States       | 3.69  |
 
-1. What provider for benefits would you prefer? (Entity/PEO where we have data)
-  * Australia: BUPA, HCF, NIB, AHM
-  * Canada: Great West Life, Blue Cross, Manulife, Sunlife
-  * India: ICICI Lombard, Apollo Munich, Bajaj Allianz
-  * Ireland: VHI. Laya, Irish Life
-  * Netherlands: UMC Zorgverzekering, VGZ, ABP
-  * United Kingdom: Virgin Active, BUPA, AVIVA, AXA PPP
-  * United States: 45% of respondents commented, 21% UHC, 14% BCBS, 3% Kaiser, 2% Cigna
-1. What general benefit do you think would be the best new addition to the company's offering to implement?
-  * Wellness program (gym, fitness, etc) (overwhelming support for this)
-  * Global insurance programs to align with US/UK
-  * Pension with company match globally
-  * Company Annual Bonus or extra month pay for vacation bonus
-  * Charitable Giving
-  * Team Level Contribute
-  * Other Benefits: Loan Assistance, Childcare, Pet Insurance, Food Allowance
-1. What benefits would you want GitLab to retain?
-  * Unlimited Paid Time Off
-  * Parental Leave
-  * Stock Options
-  * Tuition Reimbursement
-  * Contribute
-  * Remote Work
-  * Travel Stipend/Visiting Grant
-  * Employee Assistance Program
-  * All Benefits
-1. What benefits would be most willing to sacrifice to allow for new benefits?
-  * Sales Incentive Dinner
-  * Stock Options
-  * Employee Assistance Program
-  * Tuition Reimbursement
-  * Visiting Grant
-  * Referral/Discretionary Bonus
-  * Travel Accident Insurance
+By demographic:
+
+| Demographic            | Score |
+|------------------------|-------|
+| Male                   | 3.60  |
+| Female                 | 3.59  |
+| Individual Contributor | 3.64  |
+| Manager                | 3.47  |
+| Leader                 | 3.49  |
+| Company Overall        | 3.60  |
+
+#### General Benefits Survey Responses
+
+1. I understand my benefits package at GitLab.
+
+    | GitLab                 | 2019 Score | 2020 Score | YOY Change |
+    |------------------------|------------|------------|------------|
+    | Male	                 | 4.16       | 3.89       | -7.63%     |
+    | Female                 | 4.21       | 3.87       | -6.86%     |
+    | Individual Contributor | 4.13       | 3.88       | -6.15%     |
+    | Manager                | 4.35       | 3.88       | -10.90%    |
+    | Leader                 | 4.46       | 4.00       | -10.31%    |
+    | Company Overall        | 4.18       | 3.88       | -7.07%     |
+1. The general benefits at GitLab are equal to or better than what is offered by similar employers.
+
+    | GitLab                 | 2019 Score | 2020 Score | YOY Change |
+    |------------------------|------------|------------|------------|
+    | Male	                 | 3.67       | 3.42       | -6.90%     |
+    | Female                 | 3.66       | 3.46       | -5.58%     | 
+    | Individual Contributor | 3.72       | 3.50       | -5.80%     |
+    | Manager                | 3.33       | 3.23       | -2.98%     | 
+    | Leader                 | 3.46       | 3.12       | -9.96%     |
+    | Company Overall        | 3.66       | 3.43       | -6.31%     | 
+1. The general benefits at GitLab save me a great deal of time and/or money, and add significant value to my employee experience.
+
+    | GitLab                 | 2019 Score | 2020 Score | YOY Change |
+    |------------------------|------------|------------|------------|
+    | Male	                 | 3.75       | 3.65       | -2.66%     |
+    | Female                 | 3.79       | 3.59       | -5.40%     |
+    | Individual Contributor | 3.83       | 3.70       | -3.39%     |
+    | Manager                | 3.38       | 3.41       |  0.84%     |
+    | Leader                 | 3.54       | 3.43       | -3.00%     |
+    | Company Overall        | 3.77       | 3.63       | -3.71%     |
+1. My benefits package provides quality coverage for myself and, if applicable, my dependents.
+
+    | GitLab                 | 2019 Score | 2020 Score | YOY Change |
+    |------------------------|------------|------------|------------|
+    | Male	                 | 3.59       | 3.82       |   6.45%    |
+    | Female                 | 3.63       | 3.72       |   2.39%    |
+    | Individual Contributor | 3.63       | 3.77       |   3.86%    |
+    | Manager                | 3.38       | 3.83       |  13.36%    |
+    | Leader                 | 3.58       | 3.81       |   6.41%    |
+    | Company Overall        | 3.60       | 3.79       |   5.14%    | 
+1. The wellness offerings at GitLab help me lead a happier, healthier life.
+
+    | GitLab                 | 2019 Score | 2020 Score | YOY Change |
+    |------------------------|------------|------------|------------|
+    | Male	                 | 3.39       | 3.23       | -4.86%     |
+    | Female                 | 3.28       | 3.28       | -0.01%     |
+    | Individual Contributor | 3.41       | 3.31       | -3.07%     |
+    | Manager                | 3.26       | 3.01       | -7.76%     |
+    | Leader                 | 2.92       | 3.18       |  8.78%     |
+    | Company Overall        | 3.36       | 3.24       | -3.50%     |
+1. I believe our benefits package is one of the top reasons people apply to work at GitLab.
+
+    | GitLab                 | 2019 Score | 2020 Score | YOY Change |
+    |------------------------|------------|------------|------------|        
+    | Male	                 | 2.87       | 3.04       |  5.87%     |
+    | Female                 | 2.81       | 3.16       | 12.40%     |
+    | Individual Contributor | 2.96       | 3.18       |  7.38%     |
+    | Manager                | 2.40       | 2.76       | 14.87%     |
+    | Leader                 | 2.35       | 2.79       | 18.83%     |
+    | Company Overall        | 2.86       | 3.08       |  7.55%     |
+1. Should I have or care for a(nother) child, the parental leave policy is sufficient.
+
+    | GitLab                 | 2019 Score | 2020 Score | YOY Change |
+    |------------------------|------------|------------|------------|
+    | Male	                 | 3.95       | 3.95       |  0.09%     |
+    | Female                 | 3.44       | 3.60       |  4.60%     |
+    | Individual Contributor | 3.82       | 3.84       |  0.49%     |
+    | Manager                | 3.61       | 3.89       |  7.68%     |
+    | Leader                 | 4.04       | 3.80       | -6.04%     |
+    | Company Overall        | 3.81       | 3.84       |  0.91%     |
+1. The vacation policy allows me sufficient time to recharge.
+
+    | GitLab                 | 2019 Score | 2020 Score | YOY Change |
+    |------------------------|------------|------------|------------|
+    | Male	                 | 4.48       | 4.39       | -2.09%     | 
+    | Female                 | 4.40       | 4.37       | -0.68%     |
+    | Individual Contributor | 4.49       | 4.43       | -1.29%     |
+    | Manager                | 4.27       | 4.24       | -0.79%     |
+    | Leader                 | 4.38       | 4.21       | -3.94%     |
+    | Company Overall        | 4.46       | 4.38       | -1.76%     |
+1. I believe our benefits package is one of the top reasons why people stay at GitLab.
+
+    | GitLab                 | 2019 Score | 2020 Score | YOY Change |
+    |------------------------|------------|------------|------------|
+    | Male	                 | 3.08       | 3.24       |  5.21%     |
+    | Female                 | 3.13       | 3.31       |  5.77%     |
+    | Individual Contributor | 3.21       | 3.35       |  4.36%     |
+    | Manager                | 2.58       | 3.00       | 16.28%     |
+    | Leader                 | 2.54       | 2.98       | 17.37%     |
+    | Company Overall        | 3.09       | 3.26       |  5.58%     |
+1. I believe investing more of the company’s money into improving benefits at GitLab will help to attract and retain talent.
+
+    | GitLab                 | 2019 Score | 2020 Score | YOY Change |
+    |------------------------|------------|------------|------------|
+    | Male	                 | 4.16       | 4.13       | -0.68%     |
+    | Female                 | 4.25       | 4.16       | -2.07%     |
+    | Individual Contributor | 4.20       | 4.16       | -0.97%     |
+    | Manager                | 4.25       | 4.11       | -3.27%     |
+    | Leader                 | 3.85       | 4.02       |  4.39%     |
+    | Company Overall        | 4.18       | 4.14       | -0.93%     | 
+1. When I take time off, I don't feel it is necessary to check in with work periodically.
+
+    | GitLab                 | 2020 Score |
+    |------------------------|------------|
+    | Male	                 | 3.67       |
+    | Female                 | 3.40       |
+    | Individual Contributor | 3.68       |
+    | Manager                | 3.33       |
+    | Leader                 | 3.23       |
+    | Company Overall        | 3.59       |
+1. I understand how our PTO works in sync with my local statutory PTO entitlement.
+
+    | GitLab                 | 2020 Score |
+    |------------------------|------------|
+    | Male	                 | 3.98       |
+    | Female                 | 4.02       |
+    | Individual Contributor | 4.02       |
+    | Manager                | 3.85       |
+    | Leader                 | 4.12       |
+    | Company Overall        | 3.99       |
+1. I believe our Employee Assistance Plan offered by Modern Health is a valuable benefit worth retaining.
+
+    | GitLab                 | 2020 Score |
+    |------------------------|------------|
+    | Male	                 | 3.10       |
+    | Female                 | 3.40       |
+    | Individual Contributor | 3.20       |
+    | Manager                | 3.14       |
+    | Leader                 | 3.22       |
+    | Company Overall        | 3.19       |
+1. If I have questions or concerns regarding benefits, I know whom to reach out to.
+
+    | GitLab                 | 2020 Score |
+    |------------------------|------------|
+    | Male	                 | 3.85       |
+    | Female                 | 3.78       |
+    | Individual Contributor | 3.77       |
+    | Manager                | 3.97       |
+    | Leader                 | 4.08       |
+    | Company Overall        | 3.82       |
+1. What has worked best in convincing me to take PTO?
+
+    | Response                                                                       | Count | % of Respondents |
+    |--------------------------------------------------------------------------------|-------|------------------|
+    | Stress                                                                         | 333   | 42%              |
+    | Example from my manager.                                                       | 391   | 50%              |
+    | Encouragement from my manager/peers to support my wellbeing through time off.  | 475   | 61%              |
+    | Example from leaders, for example Sid.                                         | 456   | 58%              |
+    | Reduced workload.                                                              | 101   | 13%              |
+    | Other (Expanded on below.)                                                     | 118   | 15%              |
+
+    * Summary of Other Responses:
+      * When I feel it's needed. 
+      * Family first/family time.
+      * Addressing burn out/taking time to rest.
+      * Example from peers.
+      * PTO Ninja reminders.
+      * Friends and Family Day specifically.
+1. I participated in the Simple Habit free trial and would like to see this benefit offered permanently (survey respondents were instructed to select one).
+
+    | Response                                                                                                                               | Count | % of Respondents |
+    |----------------------------------------------------------------------------------------------------------------------------------------|-------|------------------|
+    | Yes, I participated and agree with the statement above.                                                                                | 15    | 2%               | 
+    | No, I did not participate, but am interested in GitLab offering a meditation and mental-wellness benefit in addition to Modern Health. | 500   | 64%              | 
+    | Yes, I participated and do not agree with the statement above.                                                                         | 6     | 1%               | 
+    | No, I did not participate and am not interested in GitLab offering a mediation and mental-wellness benefit.                            | 258   | 33%              | 
+1. What corporate social responsibility activities would you like to see GitLab enter? The purpose of corporate social responsibility is to give back to the community, take part in philanthropic causes, and provide positive social value. 
+   * Summary of Responses:
+     * Giving team members a set amount of money to donate to causes they support each year.
+     * Donation matching for donations made by team members or hours volunteered.
+     * Community/Volunteer Day(s) similar to Friends & Family Day where everyone has the day off.
+     * Youth initiatives including supporting underrepresented, underprivileged, and/or minority youth in their education, coding, mentorship, etc.
+     * Donating to and supporting causes that support ending inequality such as causes that support LGBTQ+ people, Black Lives Matter, organizations that support minorities and minorities in tech, etc.
+     * Coding initiatives especially for women and minorities. 
+     * Donating to and supporting environmental causes, reducing our carbon footprint, creating an incentive program for team members to be more green. 
+     * Supporting open source projects. 
+     * Donating free licenses and GitLab support/training to charitable organizations.
+     * Providing mentorships and internships in support of D&I initiatives. 
+
 
 **Action Items/Issues to Open:**
 
-Please note this is the first iteration/more immediate goals, but this section will be updated as we progress through the project.
-
-* Clarify what Benefits Contractors are eligible for: [Merge Request](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/26491/diffs)
-* Ensure all PEO benefits are documented on the respective page: TODO
-* Benchmark against other remote companies/survey data to prioritize new benefits to offer/replace: TODO
-* Review Implementation of a Wellness Program (Gym/Fitness): [Issue](https://gitlab.com/gitlab-com/people-ops/Compensation/issues/37)
-* Review Global Health Benefits, Pension, Life Insurance: TODO
-* Establish a benefits budget with Finance to implement new benefits: TODO
-* Review all PEO benefits to ensure they align to our global benefits principles: TODO
+TODO
 
 ## Benefits Not Currently Being Implemented
 
