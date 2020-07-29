@@ -72,18 +72,20 @@ Onboarding survey: whenever a team member fills in the onboarding survey, the fo
 is put into a slack message to the private Slack channel `onboarding-survey`. This way the
 People Experience team can discuss and take action.
 
-## Nominator
+### Nominator
 We're using a custom Slack app, the [Nominatorbot](https://gitlab.com/gitlab-com/people-group/peopleops-eng/nominatorbot/) 
 that team members can use to nominate others for discretionary bonuses. This is currently
-in a test phase with the People Group. 
+in a test phase with the People Group. Although the bot is technically available for everyone, 
+its's only been communicated with the People Group.
 
 To nominate someone you type in `/nominate name of team member`. The bot will open a dialog
 with additional details to fill in. Once filled in, you can submit the dialog. This data
 will be stored in a Google Spreadsheet and is sent through Slack to the nominee's manager.
 
 The manager can then decide to approve or reject this nomination. On approval, the bot will
-send this nomination to BambooHR, where it will be approved or rejected by the Total Rewards
-Team.
+send this nomination to the second level manager, People Business Partners and Total Rewards
+team. Each of them have to approve. On the final approval, it is added to BambooHR in the
+bonus table.
 
 Upcoming iterations can be found [here](https://gitlab.com/groups/gitlab-com/people-group/peopleops-eng/-/boards/1655060?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=p-nominatorbot)
 Issues with the bot and/or feedback about the process can be created [here](https://gitlab.com/gitlab-com/people-group/peopleops-eng/nominatorbot/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=)
