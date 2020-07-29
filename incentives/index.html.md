@@ -109,7 +109,7 @@ This process is currently being tested by the People group. Although everyone ca
 1. Go to Slack and type `/nominate name of the team member`
 1. Slack will open a dialog and ask you for some details about the nomination. Use the motivation text field, to write a few sentences describing how the GitLab team member has demonstrated a specific GitLab value in their work.  Please make sure you have viewed the valid and invalid criteria listed above. Don't forget that the nomination request should tie to our values and be detailed enough to ensure that the nomination meets the criteria. You can select the values it applies to.
 1. Once submitted, the bot will send this over to the manager to kick-off the approval flow
-1. Currently the bot does not report back on the status, we do ask the manager to report back. There's an [issue](https://gitlab.com/gitlab-com/people-group/peopleops-eng/nominatorbot/-/issues/16) to get this implemented
+1. Once everyone has approved the bot will report back to you with the good news. If it's rejected we ask the person who rejects, to reach out to you. That is not done by the bot.
 
 **Manager Process**
 1. The Nominator bot will send you a Slack DM asking to approve or reject the nomination. 
