@@ -6,9 +6,9 @@ title: "Public Sector Solutions Architects"
 # Public Sector Solutions Architect Handbook
 {:.no_toc}
 
-Solutions Architects (SA) in the Public Sector provide subject matter expertise and industry experience throughout the sales process to Public Sector customers within the United States.
+Solutions Architects (SA) who work with the P[ublic Sector](https://about.gitlab.com/handbook/sales/public-sector/) provide subject matter expertise and industry experience throughout the sales process to Public Sector customers within the United States.
 
-Because specific requirements and common engagement practices differ from Enterprise or Commercial customers, the guidance below exists to assist Solutions Architects who work with customers in the Public sector specifically.
+Because specific requirements and common engagement practices differ from Enterprise or Commercial customers, the guidance below exists to assist Solutions Architects who work with customers in the Public Sector specifically.
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -21,16 +21,19 @@ Because specific requirements and common engagement practices differ from Enterp
 Technical Close Plans provide insight and transparency to the sales process by highlighting the technical ecosystem, competitive landscape, evaluation goals and technical steps required in order to achieve a technical win (Salesforce Stage 3). These plans are templated and only required for opportunities exceeding $100K in revenue.
 
 To create a technical close plan:
-* Ensure the opportunity is at stage 3 or is soon transitioning to stage 3.
-* Make a copy of the template document located in the Public Sector Google drive
-* Complete the document with all known information
-* Update the close plan with outcomes and next steps after each related interaction
+* Log in to Salesforce and locate the relevant Opportunity
+* Ensure the Opportunity is at stage 3 or is soon transitioning to stage 3
+* Make a copy of the template document located in the Public Sector Google drive and rename it based on the customer and opportunity
+* Complete the document fields with all known information
+* Update the technical close plan with outcomes and next steps after each customer interaction
+
+When the opportunity progresses to stage 4, the technical close plan is complete. A brief retrospective on the information helps the team identify trends in customer needs as well as clear paths to opportunity wins. In case of opportunity loss, a brief retrospective on the information can help populate the Closed Lost reason in Salesforce.
 
 ## Best Practices for writing RFx responses
 
 Responding to a Request for _____ (RFx) is part of the standard process within Public Sector.  RFx is a general category that includes Request for Information, Request for Proposal, Request for Quote, etc. RFIs are generally less structured than RFPs. While RFQs rarely need technical write ups, occasionally technical input is required, especially if the RFx requests an `or alike` product.
 
-## Responding to RFIs
+### Responding to RFIs
 
 RFIs are generally issued to shape procurement. In some situations, they are just a step in the process as the customer may already have an advising team that may be following protocol. An RFI is generally non-binding unless otherwise specified.  Responses to questions in an RFI don't have to be precise.  They can have some idealistic statements to lay the groundwork and pivot points to educate the customer on what we offer.  It is good to follow the GitLab Value Framework response methodology, as there is no ability to have a dialog. The RFI is about positioning. Provide context around the following factors that can grab the attention of the readers:
 
@@ -45,7 +48,7 @@ An RFI may ask open-ended questions. This is good for providing detailed solutio
 
 When responding to an RFI, it's critical to document how the product solves customer problems, but it's also important to include the company behind the product. GitLab's all-remote leadership, its company values, its culture, and its professional services offerings shape the entire customer relationship.
 
-### Including Links to Documentations
+### Including Links to Documentation
 In general, for Public Sector responses, adding links to documentation is not a good practice. Essentially, anything that makes a reader have to do extra work is not going to work well. There are also cases in which the reader may not be able to readily access the link provided.
 
 For example, if the question asks for a Roadmap for the next product release, it is a good idea to include a link to our roadmap, but then also explain GitLab's release velocity and consistency so the customer understands the dynamic nature of the GitLab release process. Another instance when links are desirable is when relevant customer use cases may be referenced. 
