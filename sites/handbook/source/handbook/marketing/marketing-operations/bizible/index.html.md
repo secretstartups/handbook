@@ -45,7 +45,33 @@ There are two types of Bizible Touchpoints as explained below.
 | Revenue is not associated to a Bizible Touchpoint |	Since a Bizible Attribution Touchpoint is associated to an Opportunity, all BATs have revenue associated to them |
 
 ### Online vs. Offline Touchpoint Management
-Placeholder. 
+#### Online
+Online channels are any channels that would be directly associated with your website or any integrated site – any display advertising, paid search, paid social, organic search, organic social, email, chatbots, etc.    
+
+These touchpoints are automatically created when a form is submitted on one of the GitLab.com domains. 
+
+#### Offline
+Offline channels are associated with initiatives like direct mail, trade shows or hospitality events, marketing or sales research, and pretty much any other channel where a person’s engagement cannot be tracked digitally or where they physically attend. 
+
+These touchpoints are created by enabling the `Enable Bizible Touchpoints` field on the Salesforce Campaign associated with the marketing intiative.   
+
+These are the standard `Campaign Types` that will have offline bizible touchpoints enabled:   
+
+* Conference
+* Content Syndication
+* Direct Mail
+* Field Event
+* Owned Event
+* Prospecting
+* Purchased List
+* Self-service Virtual Event
+* Speaking Session
+* Sponsored Webcast
+* Swag - Direct Mail
+* Virtual Sponsorship
+* Webcast
+
+
 
 ## Attribution Models
 
