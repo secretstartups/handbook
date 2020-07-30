@@ -135,11 +135,11 @@ While some GitLab team-members may not receive an increase due to already being 
 1. Once logged in, you will be taken to a slate review screen. This page shows the status of your budget, along with a card for each of the slates you will be approving or editing. Each card will have the status of the slate, the name of the slate owner, number of reports, each individual slate's budget, how much of the budget has been allocated, how much of the budget is left, currency (all in USD), and associated notes accessible by clicking the talk bubble at the right of the card.
 * ![approver review](/images/handbook/people-group/8_Compaas.png)
 1. Clicking the slate name or the > arrow will take you to a slate. Slates that are not ready for approval will not be available to select. If you need to override a slate approval, please reach out to compensation as only admins can submit on behalf of another account. When you view a slate on your list, you will be able to edit the slate owner's recommendations and save them. Once you have saved, please refresh the page to see the changes applied to your budget, if applicable. For more information on the details located on each team member's card, please review item 4 in the process for slate owners above.
-* ![approver review slate](/images/handbook/people-group/7_Approver_viewSlate.png)
+* ![approver review slate](/images/handbook/people-group/9_Compaas.png)
 1. Once you are finished making edits to a slate you are an approver for, you can choose to "Save & Approve". You will be taken to a screen summarizing the proposed raises. You may choose to cancel, leaving the slate unapproved, or "Submit and Approve" which automatically submits your recommendations for approval to anyone higher up in the approval chain. It is recommended that you keep all slates in draft form until you are ready to approve all slates in your group. Once you submit you will not longer be able to make any changes.
-* ![approver save and approve](/images/handbook/people-group/8_Approver_saveandapprove.png)
+* ![approver save and approve](/images/handbook/people-group/10_Compaas.png)
 1. After you have approved a slate, it will no longer be editable on your list of slates. Any budget allocated to the approved slate will be reserved and deducted from your budget total. After approving, you will still be able to visit the slate and view a current summary of any proposed compensation adjustments including any adjustments made by an approver higher up in the approval chain.
-* ![approver locked](/images/handbook/people-group/9_Approver_approved.png)
+* ![approver locked](/images/handbook/people-group/11_Compaas.png)
 
 #### Iterations to Compaas
 
