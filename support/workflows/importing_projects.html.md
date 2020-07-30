@@ -66,7 +66,7 @@ These are also noted in the `GitLab.com::Import::Determine_Eligibility.json` mac
 
 A GitLab.com admin is required to correctly map users in GitLab, [per our documentation](https://docs.gitlab.com/ee/user/project/settings/import_export.html). Without an admin account, repository commits will have correct user attribution but issues and merge requests will not. We can import a project for a customer if they require this.
 
->**NOTE:** Using an admin account will not be required once [19128](https://gitlab.com/gitlab-org/gitlab/issues/19128) is implemented.
+>**NOTE:** Using an admin account will not be required once [223137](https://gitlab.com/gitlab-org/gitlab/-/issues/223137) is implemented.
 
 #### Other Cases
 
