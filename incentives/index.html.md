@@ -241,14 +241,14 @@ If a team member has been referred, the People Experience team will review team 
    * no bonus for hiring people who report to you directly or are in your direct reporting chain,
    * no bonus for a current executive team member (VP and above) who's referral is hired,
    * no bonus if you refer current team members,
-   * no bonus for refering a [Boomerang Team Member](https://www.bamboohr.com/hr-glossary/boomerang-employee/).
-
+   * no bonus for refering a [Boomerang Team Member](https://www.bamboohr.com/hr-glossary/boomerang-employee/),
+   * no bonus for a referring team member will be applicable if the team members employment is terminated prior to the referral bonus payout date. You need to be an active team member. 
+    
 * In the event that more than one GitLab employee refers the same team member for the same role the People Ops team will ask the new team member to confirm who they were referred by (who should get the credit). If they mention two or more people then the bonus will be split between them.
 
 * In the event that someone wants to refer another candidate to GitLab before they have started the referring party must have a sign contract at the time of the new candidate's application.
 
 * In the event that a GitLab sourcer adds a candidate to GreenHouse and the recruiter screens the candidate a referring party cannot be added to their profile after. The candidate source would be Prospecting by the GitLab sourcer.
-
 
 #### Document a future bonus in BambooHR
 
