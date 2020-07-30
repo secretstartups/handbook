@@ -18,6 +18,7 @@ Holidays with no availability for onboarding/offboarding/career mobility issues:
 | Date                        |
 |-----------------------------------|
 | 2020-05-01 |
+| 2020-08-14 | Family & Friends Day
 | 2020-12-25 |
 | 2021-01-01 |
 
@@ -74,7 +75,6 @@ The Rotation groups are listed as follows:
 
 - We always try and split evenly and fairly
 
-
 ### Audits 
 
 There are certain tasks that need to be completed by all the different departments and team members and we as the People Experience Team need to ensure to remain compliant in line with these tasks. Herewith a breakdown of the important compliance and team tasks:  
@@ -121,6 +121,26 @@ Every week, the People Experience Associate in the rotation creates a Report in 
 
 Please note that all info from the report is added to the sheet, including any past hires. The Moo system will only send the invitation to the new members not previously listed on the sheet. This ensures that any potential missed members still receive their invitation.
 
+### Letters of Employment and Employee Verification Requests
+
+This lists the steps for the People Experience team to follow when receiving requests:
+
+#### Letters of Employment 
+
+Once the team member completes the form as listed in the [Handbook](https://about.gitlab.com/handbook/people-group/frequent-requests/#letter-of-employment), we will receive an email in the People Experience Inbox to view and audit if the information has been correctly inserted by the team member. 
+- If the information is correct, please proceed with forwarding the Letter of Employment to the team member by email. 
+- If the information is incorrect, please email the team member and provide the details of what is incorrect and ask that they resubmit the form with the correct information. 
+
+#### Employee Verifications
+
+We may be contacted by different vendors who require a team members employment to be verified along with other personal information. 
+
+Most importantly, check to see whether authorisation has been received from the team member that we may provide the personal information. If no authorisation form is attached, make contact with the team member via email or Slack to get the required consent. 
+- If the vendor is asking for general information in the email, simply respond back to the email with the requested information. 
+- If the vendor is requesting a form to be completed, complete the form via HelloSign and encrypt the document before sending via email. 
+- If the vendor is requesting a form to be completed for a US team member, forward this request on to the US Payroll team to have completed. 
+- If you need additional figures that we do not have access to, send a message in the `payroll-peopleops` Slack channel to request the information needed to complete the form. 
+
 ### OSAT Team Member Feedback
 
 Once a new team member has completed their onboarding, they are asked to complete the `Onboarding Survey` to share their experience. Based on the scores received, the People Experience Associate assigned to the specific team members onboarding, will complete the following:
@@ -158,7 +178,6 @@ When a team member completes the GitLab gift form request, the People Experience
 - Send the requesting team member an email or message in Slack to confirm that you have processed the request/order. 
 - Use the Gift [page](https://about.gitlab.com/handbook/people-group/#gifts) in the Handbook for any further information regarding the policy for gift order requests. 
 
-
 ### Scheduling Group Conversations 
 
 The People Experience team assists with the administration of the GitLab Team Calendar and automatically can assist with the following:
@@ -193,7 +212,6 @@ Here are the steps to follow when scheduling a Group Conversation or AMA:
 
 That's it, you have successfully scheduled the meeting! Now just remember to let the requesting team member know to check that you have completed the request. 
 
-
 ### HelloSign
 
 As the DRI for HelloSign, when a team member needs to have access to sign documents for the company, an access request needs to be created and assigned to the People Experience Team for provisioning. 
@@ -212,4 +230,4 @@ As the DRI for HelloSign, when a team member needs to have access to sign docume
 
 ### Regeling Internet Thuis form
 
-New team members based in the Netherlands will send an email to people-exp@gitlab.com with the Regeling Internet Thuis form. The People Experience team will then forward this form to the payroll provider in the Netherlands via email. The contact information can be found in the People Ops 1Password vault, under "Payroll Contacts"
+New team members based in the Netherlands will send an email to people-exp@gitlab.com with the Regeling Internet Thuis form. The People Experience team will then forward this form to the payroll provider in the Netherlands via email. The contact information can be found in the People Ops 1Password vault, under "Payroll Contacts".
