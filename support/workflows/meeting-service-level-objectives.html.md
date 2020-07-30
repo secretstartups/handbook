@@ -17,6 +17,7 @@ The Support team currently have two rotating roles to help ensure tickets get re
 1. [SLA Hawk](#sla-hawk)
 
 ## First Response Time Hawk
+
 ### What is a First Response Time Hawk?
 
 This is a rotating role, where someone is "on point" weekly (Monday to Friday), to make sure:
@@ -26,7 +27,7 @@ This is a rotating role, where someone is "on point" weekly (Monday to Friday), 
 
 First Response Time Hawks directly drive achievement in our [Service Level Agreement KPI](/handbook/support/#service-level-agreement-sla).
 
-### The Process in Action
+### FRT Hawk in Action
 
 1. Every Week on Fridays, Managers will add a First Response Hawk for each region to the Support Week in Review to announce who will be responsible that week.
 1. If you are FRT Hawk, you are responsible for:
@@ -41,7 +42,7 @@ First Response Time Hawks directly drive achievement in our [Service Level Agree
 1. You have full authority to call in and ask others for help if volume is high, or you are stumped.
 1. You should expect to see new and different things that you are not an expert in. Where possible, take the time to dive deep and try and understand the problem.
 
-### Things to be mindful of
+### Things for an FRT Hawk to be mindful of
 
 1. Given that there's a FRT Hawk _per region_, your shift will overlap with another hawk.
     * This means you have a teammate within a team; yay! Be sure to communicate with your fellow hawk so you can help each other out in case one of you is stuck on a ticket, and also to make sure you're not
@@ -57,12 +58,14 @@ First Response Time Hawks directly drive achievement in our [Service Level Agree
 1. You may see tickets requesting information that is not in the realm of support. For example, you may get a ticket from a job applicant to GitLab requesting information on their application. In these cases, do your best to direct them to an appropriate contact and close the support ticket. In the case of hiring questions, you can ping the #recruiting channel in Slack to inform them that the candidate reached out, and update the candidate via the ticket.
    * There is a macro called `General::Job Application Questions` for hiring-specific questions in Zendesk.
 
-### Dashboards
+### FRT Dashboards
 
 You can track your progress and see global results on this [Zendesk Explore Dashboard](https://gitlab.zendesk.com/explore/dashboard/36925DBD1F5E3C7BA541DB38D11AC51E0EAAFDD30DCB63FDE83CF1389E555D96/tab/10602202)
 
+## SLA Hawk
 
-## What is the SLA Hawk role?
+### What is the SLA Hawk role?
+
 The SLA Hawk is a rotating role that you will carry out for one week at a time (Monday to Friday). You can [view the rotations in PagerDuty](https://gitlab.pagerduty.com/schedules#?query=sla%20hawk)
 
 The SLA Hawk is responsible for ensuring that action is taken on the 'most breached' and 'next to breach' tickets in order to meet our SLAs and so that difficult tickets are not ignored. **NOTE:** It is the responsibility of all Support team members to ensure customer tickets are responded to within our SLA times. The SLA Hawk is **not expected to reply to tickets themselves - your job is to find team members to help get a reply out (see below for more info)**
@@ -76,7 +79,7 @@ The SLA Hawk should also perform a queue tidy up:
 
 SLA Hawks drive achievement via our KPI's for [Service Level Agreement KPI](/handbook/support/performance-indicators/#service-level-agreement-sla) and [Customer Satisfaction](/handbook/support/performance-indicators/#support-satisfaction-ssat) by making sure our customers are updated in a timely manner.
 
-## The Process in Action
+### SLA Hawk in Action
 
 1. Each day, sort the Zendesk view for [SM with SLA](https://gitlab.zendesk.com/agent/filters/360038124139) by '*Next SLA Breach*' ascending, starting with most breached ticket first.
 2. Read the ticket yourself and if you feel you know what the next action is, do that (e.g. ask the customer for more information, solve the ticket if the issue is resolved, send your own reply if you have a great idea). There's no need to spend too long at this stage - 10 minutes at most. If the next action requires more work move on to the next step.
@@ -93,24 +96,6 @@ SLA Hawks drive achievement via our KPI's for [Service Level Agreement KPI](/han
    4. Once someone has taken ownership of the ticket, ask them if they're happy to assign it to themselves.
 6. If there are no imminent breaches (e.g. less than 2 to 4 hours) in the 'Self Managed Premium and Ultimate' queue - repeat the process with the [Starter and Free](https://gitlab.zendesk.com/agent/filters/360062019453) view. 
 
-## Team Responsibilities for the SLA Hawk
-* Help the SLA Hawk! If they ask you for help, please acknowledge (You may not be able to help, just let them know). 
-* Follow the [Support Modes of Work](#the-process-in-action-2) for the tickets in your own queue (including finding another engineer to help or takeover the ticket).
-* When looking for your next ticket, follow the [same process](#the-process-in-action-1) as the SLA Hawk above (most breached ticket first).
-* If you take a next response ticket and the ticket doesn’t have an assignee, assign yourself to the ticket.
-
-## FAQ about SLA Hawk role
-
-1. **Do I need to do the SLA Hawk role all day every day?** The role is not to work the tickets yourself but rather find an engineer to respond to the ticket. You probably only need to check for breached and breaching tickets 3 or 4 times per day, which fits in with our asynchronous working environment while ensuring that synchronous customer interaction is still maintained. This should make the role light-weight. Between ticket checkins, you can continue with your planned day.
-1. **I feel uncomfortable asking someone else to reply to a ticket** We recommend prefixing your message in Slack with `[SLAH]`, this lets people know that you've been given the role to find people to help. We assume positive intent and the team knows that this is the job of the SLA Hawk.
-
-## Dashboards
-
-You can see how we're doing on [this Zendesk Explore Dashboard](https://gitlab.zendesk.com/explore/dashboard/36925DBD1F5E3C7BA541DB38D11AC51E0EAAFDD30DCB63FDE83CF1389E555D96/tab/10602202).
-
-Look a the 'Self Managed NRT SLA achieved charts' for this week and last week. We're aiming for 85% achievement. If we can get to 95% that would be awesome! The 'this week' chart updates hourly.
-
-## SLA Hawk
 
    ```mermaid
 
@@ -123,3 +108,21 @@ Look a the 'Self Managed NRT SLA achieved charts' for this week and last week. W
    E -->|Help received| F[Send <br> reply] --> H
    E -->|No help recieved| G[Mention your manager in Slack <br> on the ticket thread] --> H[Go to the next ticket <br> - if no imminent breaches - <br> go to 'Starter and Free' view] --> B
    ```
+
+### Team Responsibilities for the SLA Hawk
+
+* Help the SLA Hawk! If they ask you for help, please acknowledge (You may not be able to help, just let them know). 
+* Follow the [Support Modes of Work](#the-process-in-action-2) for the tickets in your own queue (including finding another engineer to help or takeover the ticket).
+* When looking for your next ticket, follow the [same process](#the-process-in-action-1) as the SLA Hawk above (most breached ticket first).
+* If you take a next response ticket and the ticket doesn’t have an assignee, assign yourself to the ticket.
+
+### FAQ about SLA Hawk role
+
+1. **Do I need to do the SLA Hawk role all day every day?** The role is not to work the tickets yourself but rather find an engineer to respond to the ticket. You probably only need to check for breached and breaching tickets 3 or 4 times per day, which fits in with our asynchronous working environment while ensuring that synchronous customer interaction is still maintained. This should make the role light-weight. Between ticket checkins, you can continue with your planned day.
+1. **I feel uncomfortable asking someone else to reply to a ticket** We recommend prefixing your message in Slack with `[SLAH]`, this lets people know that you've been given the role to find people to help. We assume positive intent and the team knows that this is the job of the SLA Hawk.
+
+### SLA Hawk Dashboards
+
+You can see how we're doing on [this Zendesk Explore Dashboard](https://gitlab.zendesk.com/explore/dashboard/36925DBD1F5E3C7BA541DB38D11AC51E0EAAFDD30DCB63FDE83CF1389E555D96/tab/10602202).
+
+Look a the 'Self Managed NRT SLA achieved charts' for this week and last week. We're aiming for 85% achievement. If we can get to 95% that would be awesome! The 'this week' chart updates hourly.
