@@ -11,6 +11,8 @@ title: "People Experience Team"
 
 # People Experience Team
 
+Ping us on issues using `@gl-people-exp`.
+
 ## People Experience Team Availability
 
 Holidays with no availability for onboarding/offboarding/career mobility issues:

@@ -62,7 +62,7 @@ Make sure to @tag the presenter!
 
 ### Scheduling and Selecting an Alternate Host
 
-Calls are scheduled by [People Experience Associates](/job-families/people-ops/people-experience-associate/). If you need to reschedule, please *switch* your presenting day with another Group Conversation leader, by asking another leader in the #group-conversations channel publicly. People Experience Associates are not responsible for finding a replacement for your day. If you've agreed to switch, please do the following:
+Calls are scheduled by [People Experience Team](/handbook/people-group/people-experience-team/). If you need to reschedule, please *switch* your presenting day with another Group Conversation leader, by asking another leader in the #group-conversations channel publicly. People Experience Associates are not responsible for finding a replacement for your day. If you've agreed to switch, please do the following:
   - Go to the *GitLab Team calendar* invite
   - Update the date of your and the other invite to be switched
   - Choose to send an update to the invitees
@@ -182,7 +182,7 @@ _Important: The DRI for the Group Conversation will also have hosting rights. Zo
 
 ### Additional Notes (Host)
 
-1. The People Experience Team is currently trialing different 'Captioning' options for Group Conversations and may need to record the session to Zoom for testing purposes. The Host should informed of this prior to the start of the Group Conversation. 
+1. The [People Experience Team](/handbook/people-group/people-experience-team/) is currently trialing different 'Captioning' options for Group Conversations and may need to record the session to Zoom for testing purposes. The Host should informed of this prior to the start of the Group Conversation. 
 1. As the Group Conversation and Zoom Host, when hearing the automated "This meeting is being recorded", please note that you can start talking immediately and do not need to wait for the automated message to end.
 1. Right now, everyone within GitLab i.e. all team members are invited to each call, we'll invite the wider community later.
 1. Make sure there is a list of 15 numbered items that only contains a space, this will make it easier to add things.
@@ -258,7 +258,7 @@ The schedule with directly responsible individuals (DRI) is as follows:
 
 - Review existing Group Conversation schedule and find an empty time slot.
 - Create an MR to add new Group Conversation session to this empty slot. Include GC Name, link to the handbook page, and also include DRI name.
-- Assign the MR to the People Experience team for review, merging, and creation of the Zoom link and addition to the GitLab Team Meetings calendar.
+- Assign the MR to the [People Experience Team](/handbook/people-group/people-experience-team/) for review, merging, and creation of the Zoom link and addition to the GitLab Team Meetings calendar.
 - Before you host your first Group Conversation, complete this [Group Conversation training issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/.gitlab/issue_templates/group-conversation-host.md). 
 
 ## Request an AMA
