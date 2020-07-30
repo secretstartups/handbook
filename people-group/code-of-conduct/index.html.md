@@ -536,15 +536,6 @@ Should any business or personal conflict of interest arise, or even appear to ar
 
 GitLab employees and contractors are not authorized to speak with the media, investors, or analysts on behalf of our company unless authorized by our Marketing department. Unless authorized, do not give the impression that you are speaking on behalf of GitLab in any communication that may become public. This includes posts to online forums, social media sites, blogs, chat rooms, and bulletin boards. This policy also applies to comments to journalists about specific matters that relate to our businesses, as well as letters to the editor and endorsements of products or services.
 
-### Personal Hygiene
-
-When attending Contribute or any conference, public meeting, customer meeting or meet-up, kindly keep in mind you are representing GitLab. Personal hygiene and hygiene in general helps to maintain health and prevent the spread of diseases and various other illnesses. We motivate everyone to maintain cleanliness.
-For more information about our Contribute Code of Conduct, read more [here](/company/culture/contribute/coc/).
-
-### Social Responsibility
-
-We pride ourselves on being a company that operates with integrity, makes good choices, and does the right thing in every aspect of our business. We will continually challenge ourselves to define what being a responsible company means to us, and work to translate our definition into behavior and improvements at GitLab. We seek to align our social and environmental efforts with our business goals and continue to develop both qualitative and quantitative metrics to assess our progress.
-
 ### Political Activities and Contributions
 
 You may support the political process through personal contributions or by volunteering your personal time to the candidates or organizations of your choice. These activities, however, must not be conducted on company time or involve the use of any company resources. You may not make or commit to political contributions on behalf of GitLab.
