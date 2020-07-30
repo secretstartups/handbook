@@ -64,8 +64,12 @@ submit the ticket to apply the changes. This ticket will now disappear from the 
 and will be visible in `Free/Self-Provisioned Trial Support` view.
 
 **Note:** be extra careful when searching using the customer's domain: there can be generic domains
-that you are not aware of, and there can be large customers with multiple organizaions using the same
+that you are not aware of, and there can be large customers with multiple organizations using the same
 domain. Therefore, search by e-mail is more reliable.
+
+**Note:** in some cases you will need to search by e-mail and by domain. For example, 
+if the e-mail has previously been associated with a trial account it will still be visible 
+in SFDC but this might not be the same account that is used by the organization.
 
 #### Trials and Prospects
 
