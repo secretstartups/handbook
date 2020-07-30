@@ -197,6 +197,7 @@ The reminder will read as follows.
 To subscribe or unsubscribe, follow the below instructions and [see an associated screenshot](/images/handbook/people-group/gitlab-slack-pto-ninja-reminder.jpg).
 
 * Visit `Apps` in the menu bar within Slack, and search for or select PTO Ninja
+* Select `Profile` from the dropdown
 * Beneath your name and profile, you'll see a line that says "Send me a monthly reminder about taking time off." Click the **Subscribe** button to trigger the notification, which will begin on the first *working* day (e.g. not a weekend or a public holiday) in the month following your subscription.
 * To unsubscribe, revisit PTO Ninja within Slack Apps and click the button that says **Unsubscribe**.
 
