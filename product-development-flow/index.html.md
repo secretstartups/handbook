@@ -41,6 +41,11 @@ Because this page needs to be concise and consistent, please ensure to follow th
 | `workflow::verification` | [Build](#build-track) | Engineering | Work is demonstrable on production | Engineering |
 | `workflow::blocked` | N/A | Product/Engineering | Work is no longer blocked | Engineering |
 
+### Issue descriptions as the SSOT
+
+Issue descriptions should always be maintained as the single source of truth. It's not [efficient](https://about.gitlab.com/handbook/values/#efficiency) for contributors to need to read through every comment in an issue to understand the current state.
+* When transitioning an issue out to a new workflow stage, the department named in the "Who Transitions Out" column is responsible for updating the issue description.
+
 ## Validation track  
 
 For new ideas where the customer problem and solution is not well understood, Product Managers (PMs) and the User Experience Department (UXers) should work together to validate new opportunities before moving to the Build track. The **Validation** track is an independent track from the always moving **Build** track. PMs and UXers should work together to get 1-2 months ahead, so that the Build track always has well-validated product opportunities ready to start. Milestone work should be prioritized with the understanding that some milestones may include more validation efforts than others. Validation cycles may not be necessary for things like bug fixes, well understood iterative improvements, minor design fixes, etc.
