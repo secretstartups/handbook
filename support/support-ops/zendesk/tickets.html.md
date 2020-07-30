@@ -800,3 +800,26 @@ Support may update chosen priority to meet these definitions.
 * Type: text
 * Permissions: Editable for end users
 * Require to submit a request
+
+### [GitLab.com Account Problem Type](https://gitlab.zendesk.com/agent/admin/ticket_fields/360011793260)
+
+* Description: Used in Gitlab.com (SAAS) Account Forms
+* User title: GitLab.com Account Problem Type
+* User description: Please select what kind of problem you are receiving when accessing account.
+* Type: dropdown
+* Permissions: Editable for end users
+* Required to submit a request
+* Required to solve a ticket
+* Field values:
+  * Two-Factor Authentication (Account Recovery)
+    * Tag: `two-factor_authentication__account_recovery_`
+  * Dormant Username Requests
+    * Tag: `dormant_username_requests`
+  * Did not receive confirmation email
+    * Tag: `no_confirmation_email`
+  * Forgot password
+    * Tag: `forgot_password`
+  * Unable to login
+    * Tag: `unable_to_login`
+  * Other account problem for .com
+    * Tag: `other_account_problem_for_.com`
