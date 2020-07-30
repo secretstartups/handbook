@@ -118,7 +118,7 @@ GitLab Support targets a 95% SLA acheievement KPI. This means that some tickets 
 
 1. Review the SLA associated with the account and the amount of time left until a breach by logging into [Zendesk](https://gitlab.zendesk.com) using Okta. It's not typically necessary to escalate an issue that is hours away from a breach. If the ticket has had a first reply, then you are looking at an "internal breach".
 
-1. From the #support_managers channel a slack escalation workflow can be initiated to facilite gathering the information required for a successul escalation as follows:
+1. From the #support_managers channel a slack ticket escalation workflow can be initiated by following the steps below:
 
     * While on the `#support_managers`, click on the small `thunder` icon as show in the image. 
         ![alt text](images/slack_workflow_escalation.png "Start Workflow")
