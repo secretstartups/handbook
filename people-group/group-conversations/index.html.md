@@ -224,15 +224,15 @@ The schedule with directly responsible individuals (DRI) is as follows:
 
 | Week | Day | Group Conversation | DRI |
 |---|---|---|---|
-| One  | Mon  | [Secure & Defend Section](/handbook/product/product-categories/#secure--defend-section)  | David DeSanto  |
-| One  | Tue  | [Ops Section](/handbook/product/product-categories/#ops-section)  | Kenny Johnston  |
+| One  | Mon  | [Quality](/handbook/engineering/quality/)  | Mek Stittri  |
+| One  | Tue  | [UX](/handbook/engineering/ux/)  | Christie Lenneville  |
 | One  | Wed  | [Revenue Marketing](/handbook/marketing/revenue-marketing/)  | Evan Welchel  |
-| One  | Thur  | [Marketing](/handbook/marketing/)  | Todd Barr  |
+| One  | Thur | [Marketing](/handbook/marketing/)  | Todd Barr  |
 | One  | Fri  | Do Not Schedule  | Do Not Schedule  |
-| Two  | Mon  | [Enablement](/handbook/engineering/development/enablement/)  | Josh Lambert  |
+| Two  | Mon  | [Enablement Section](/handbook/engineering/development/enablement/)  | Josh Lambert  |
 | Two  | Tue  | [Dev Section](/handbook/product/product-categories/#dev-section)  | Eric Brinkman  |
-| Two  | Wed  | [Quality](/handbook/engineering/quality/)  | Mek Stittri  |
-| Two  | Thur  | [UX](/handbook/engineering/ux/)  | Christie Lenneville  |
+| Two  | Wed  | [Ops Section](/handbook/product/product-categories/#ops-section)  | Kenny Johnston  |
+| Two  | Thur | [Secure & Defend Section](/handbook/product/product-categories/#secure--defend-section)  | David DeSanto  |
 | Two  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Three  | Mon  | [Growth Section](/handbook/product/product-categories/#growth-section)  | Hila Qu  |
 | Three  | Tue  | [Support](/handbook/support/)  | Tom Cooney  |
