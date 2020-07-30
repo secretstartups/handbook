@@ -56,7 +56,6 @@ I work at the intersection of culture, operations, people, talent branding, mark
 
 #### Podcasts
 
-* Wise Up with Cristina Podcast - [Darren Murph, Remote Rebel, on Opportunities Beyond Work](https://cristinadigiacomo.com/wise-up-podcast/wise-up-episode14-darrenmurph)
 * SafetyWing Podcast — [How to transition to remote](http://buildingremotely.com/episode/2)
 * Customer Centric Podcast — [Darren Murph: home is where the office is](https://customercentric.unbabel.com/podcast/darren-murph-gitlab)
 * Changelog Podcast — [Creating GitLab’s remote playbook](https://changelog.com/podcast/397)
@@ -65,6 +64,7 @@ I work at the intersection of culture, operations, people, talent branding, mark
 * Working Without Borders: The Get on Board Podcast — [Darren Murph on leading a remote culture at GitLab](https://medium.com/getonbrd/working-without-borders-s01e02-darren-murph-head-of-remote-at-gitlab-5567d7c634fd)
 * Outside The Valley: [Darren Murph of GitLab - Why Companies Should Go All-Remote](https://arc.dev/blog/podcast-ep23-gitlab-darren-murph-96ggw37q6t)
 * Accelerating Support Podcast: [Darren Murph, Head of Remote at GitLab](https://soundcloud.com/acceleratingsupport/accelerating-support-export-v1/s-JylGQhxc7il)
+* Wise Up with Cristina Podcast - [Darren Murph, Remote Rebel, on Opportunities Beyond Work](https://cristinadigiacomo.com/wise-up-podcast/wise-up-episode14-darrenmurph)
 * GitLab — [Why Work Remotely?](https://youtu.be/GKMUs7WXm-E)
 
 ### Related pages
