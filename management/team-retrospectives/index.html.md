@@ -52,8 +52,8 @@ that you observe the following:
    is as an individual participant, not as the moderator. If the moderator wants
    to take a very active role in the discussion, they should find a peer,
    Director, or other member of the team willing to moderate.
-1. **Emotions are not only _allowed_ in retrospectives, they should be
-   encouraged.** Emotional language ("I was angry when...," "It made me sad
+1. ** Emotions are not only _allowed_ in retrospectives, but they should also be encouraged** 
+   Emotional language ("I was angry when...," "It made me sad
    that...") not only helps convey intensity, it also helps expose issues that
    may have been difficult to sort out otherwise. Make sure all participants
    know they are free to express their feelings, although we do expect them to
