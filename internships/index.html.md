@@ -146,6 +146,29 @@ With the selection of hosting teams attributes of diversity (teams, locations, r
 
 ### Measuring success
 
+#### Hiring process after the internship 
+
+For future iterations of the internship we want to plan to bring interns onboard and save budget for their offers before the program starts. This should be planned in collaboration with the Leadership of the group and Finance Business Partner. 
+ 
+For the pilot program the hosting teams will determine whether they would want to offer a fulltime role to the interns during the program. This is done based on two criteria: 
+1. The budget/headcount availability in the team/department/division
+1. The performance and skills assessment of the intern
+
+*Note: If there's no budget/headcount availability in the team of the internship, the intern can research other opportunities in the organisation. An overview of the open internal roles can be viewed in [Greenhouse](https://gitlab.greenhouse.io/internal_job_board). If the role of interest is in a different team or job family, we would ask the intern to go through (a part of) the recruitment process again. This can include several steps of the [hiring process](https://about.gitlab.com/handbook/hiring/interviewing/#typical-hiring-timeline) such as Technical interview, Behavioral interview and Further interviews*
+
+After the internship the aim would be to hire the intern as an Intermediate Engineer (depending on previous experience).
+The timeline for hiring decisions would be as follows: 
+- Week 8: Check in on feedback with all hosting teams
+- Week 10: Performing performance/skills assessments with interns based on the Job Families and [Competencies](https://about.gitlab.com/handbook/competencies/#where-we-use-competencies)
+- Week 11: Sharing feedback with interns
+- Week 12: Aligning with Finance/Business on headcount/budget
+- Week 12: Making a decision on offers to interns
+- Week 13: Communicating the offer/no offer to interns
+- Week 14: Awaiting final decision of interns 
+- Week 16: End of the internship program
+
+If an offer is not made or an offer is not accepted, there are opportunities to stay in touch with GitLab's team or People Business Partner and re-enter a conversation at a later time. 
+
 #### Team Retrospective
 
 Upon the completion of the pilot, participating teams will be asked to complete
