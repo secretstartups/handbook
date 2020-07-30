@@ -33,10 +33,9 @@ You can find more tools and tips in the following sub-pages:
 **STEP 1: Request your new username**
 
 - Access the username you want to request via `https://gitlab.com/mary`.
-- Check its activity and projects to see if they are an inactive user [according to the handbook](/handbook/support/workflows/dormant_username_policy.html).
-- If you're a team member, Complete the [current process for requesting a dormant username](/handbook/support/internal-support/#i-want-to-claim-a-dormant-username), otherwise send your request to `support@gitlab.com`, explaining the reasons why you need that username.
+- Check its activity and projects to see if they are an inactive user [according to the name squatting policy](support/#name-squatting-policy).
+- If you're a team member, Complete the [current process for requesting a dormant username](/handbook/support/internal-support/).
 - There's no guarantee that the username will be available for you.
-  Please check the [dormant namespace policy](/support/#dormant-namespace-requests).
 
 **STEP 2: Create a new account with your new username**
 {: #change-username-step-2}
@@ -152,15 +151,15 @@ But in the Settings-app, look for "Date & Time" and there should be a "Automatic
 Netstat is a command line tool which can be useful to print network connections, routing tables, interface statistics, etc. One of the most common uses for netstat during troubleshooting is to display a list of open ports listening for connections.
 
 `sudo netstat -tulpn | grep -i listen`
- 
-``` 
+
+```
 [user@gitlab ~]$ sudo netstat -tulpn| grep -i listen
- tcp   0      0 127.0.0.1:5000     0.0.0.0:*     LISTEN     18948/registry      
- tcp   0      0 127.0.0.1:9100     0.0.0.0:*     LISTEN     18841/node_exporter 
- tcp   0      0 127.0.0.1:9229     0.0.0.0:*     LISTEN     18764/gitlab-workho 
- tcp   0      0 127.0.0.1:8080     0.0.0.0:*     LISTEN     18980/unicorn maste 
- tcp   0      0 127.0.0.1:9168     0.0.0.0:*     LISTEN     18808/puma 4.3.3.gi 
- tcp   0      0 0.0.0.0:80         0.0.0.0:*     LISTEN     18831/nginx: master 
+ tcp   0      0 127.0.0.1:5000     0.0.0.0:*     LISTEN     18948/registry
+ tcp   0      0 127.0.0.1:9100     0.0.0.0:*     LISTEN     18841/node_exporter
+ tcp   0      0 127.0.0.1:9229     0.0.0.0:*     LISTEN     18764/gitlab-workho
+ tcp   0      0 127.0.0.1:8080     0.0.0.0:*     LISTEN     18980/unicorn maste
+ tcp   0      0 127.0.0.1:9168     0.0.0.0:*     LISTEN     18808/puma 4.3.3.gi
+ tcp   0      0 0.0.0.0:80         0.0.0.0:*     LISTEN     18831/nginx: master
 ```
 If you find a port already in use, you won't be able to successfully start up a service or program that utilizes that same port. Options to resolve are:
 
@@ -286,7 +285,7 @@ If you have trouble, try connecting to [http://captive.apple.com/](http://captiv
 
 ## U2F
 
-Universal 2nd Factor (U2F) is a cryptographically strong 2FA (2-factor authentication) method. It is hardware-based, and is typically deployed via a USB or NFC device. The standard is open and is maintained by the [FIDO Alliance](https://fidoalliance.org/). 
+Universal 2nd Factor (U2F) is a cryptographically strong 2FA (2-factor authentication) method. It is hardware-based, and is typically deployed via a USB or NFC device. The standard is open and is maintained by the [FIDO Alliance](https://fidoalliance.org/).
 
 ### How it works
 
