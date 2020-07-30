@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Handling large files
+title: Support Uploader - Handling large files from Customers
 category: Handling tickets
 ---
 
@@ -9,8 +9,6 @@ category: Handling tickets
 
 - TOC
 {:toc .hidden-md .hidden-lg}
-
-WIP better description
 
 # Support Uploader
 
@@ -45,3 +43,10 @@ There will be an automated private note by the "Support Uploader Bot" in the tic
 The files are currently stores in an S3 bucket which all Support team members should have access to, you can use the link generated above to access it, which will be listed in the internal comment on the ticket.
 
 ![suploader_awsS3](/uploads/bf429f130c54ce8615a985ba81b9c46c/suploader_awsS3.png)
+
+## FAQ
+
+### Q: Why can't I see the Support Uploader bucket in the AWS S3 console? (I get an "Error: Access Denied")
+
+A: This is expected behaviour. The normal way to access customer uploads will be via Zendesk ticket internal comments which will list the file upload link. (The IAM group for Support Engineers does not include the list buckets IAM permission which means you won't see the bucket from the root level of the S3 console). 
+
