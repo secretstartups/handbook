@@ -471,7 +471,9 @@ i.e. Record is put into `Registered` cannot be moved backward to `Waitlisted`
 
 
 #### Cohort
-A method of tracking a group (cohort) of targeted known records and/or records included in an ABM strategy. All touchpoints related to this specific campaign are excluded from Bizible tracking.
+A method of tracking a group (cohort) of targeted known records and/or records included in an ABM strategy. 
+
+**Bizible:** touchpoints should be excluded.
 
 | Member Status                   | Definition                                                                            | Success  |
 |:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
@@ -482,7 +484,9 @@ A method of tracking a group (cohort) of targeted known records and/or records i
 
 
 #### Conference
-Any large event run by Corporate Marketing that we have paid to sponsor, have a booth/presence and are sending representatives from GitLab (example: AWS re:Invent, DevOps Enterprise Summit). This is tracked as an *offline* Bizible channel because we do not host a registration page, and receive a list of booth visitors post-event.
+Any large event run by Corporate Marketing that we have paid to sponsor, have a booth/presence and are sending representatives from GitLab (example: AWS re:Invent, DevOps Enterprise Summit). 
+
+**Bizible:** This is tracked as an *offline* channel, because we do not host a registration page, and receive a list of booth visitors post-event.
 
 | Member Status                   | Definition                                                                            | Success  |
 |:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
@@ -497,7 +501,9 @@ Any large event run by Corporate Marketing that we have paid to sponsor, have a 
 | Follow Up Requested             | Requested additional details about GitLab to be sent post event                       | Yes      |
 
 #### Content Syndication
-White Paper or other content offer that is hosted by a third party. This is tracked as an *offline* Bizible Channel and touchpoint.
+White Paper or other content offer that is hosted by a third party.
+
+**Bizible:** This is tracked as an *offline* channel.
 
 | Member Status                   | Definition                                                                            | Success  |
 |:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
@@ -506,6 +512,8 @@ White Paper or other content offer that is hosted by a third party. This is trac
 
 #### Direct Mail
 This is when a package or piece of mail is sent out.
+
+**Bizible:** This is tracked as an *offline* channel.
 
 | Member Status                   | Definition                                                                            | Success  |
 |:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
@@ -518,7 +526,9 @@ This is when a package or piece of mail is sent out.
 | Responded                       | Recipient took action or CTA (trackable on PURLs                                      | Yes      |
 
 #### Executive Roundtables
-This is used for campaigns that can either be organised through a 3rd party vendor or GitLab, covering both in-person and virtual roundtables. It is a gathering of high level CxO attendees run as an open discussion between the moderator/host, GitLab expert and delegates. There usually aren't any presentations, but instead a discussion where anyone can chime in to speak. The host would prepare questions to lead discussion topics and go around the room asking delegates questions to answer. This is tracked as an *offline* Bizible Channel and touchpoint.
+This is used for campaigns that can either be organised through a 3rd party vendor or GitLab, covering both in-person and virtual roundtables. It is a gathering of high level CxO attendees run as an open discussion between the moderator/host, GitLab expert and delegates. There usually aren't any presentations, but instead a discussion where anyone can chime in to speak. The host would prepare questions to lead discussion topics and go around the room asking delegates questions to answer.
+
+**Bizible:** This is tracked as an *offline* channel.
 
 | Member Status                   | Definition                                                                            | Success  |
 |:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
@@ -530,7 +540,9 @@ This is used for campaigns that can either be organised through a 3rd party vend
 
 
 #### Field Event
-This is an event run by Field Marketing that we have paid to participate in but do not own the registration or event hosting duties (example: Lighthouse Roadshow, CIO Summit, AWS Summit). This is tracked as an *offline* Bizible channel because we do not host a registration page, and receive a list of attendees post-event. 
+This is an event run by Field Marketing that we have paid to participate in but do not own the registration or event hosting duties (example: Lighthouse Roadshow, CIO Summit, AWS Summit). 
+
+**Bizible:** This is tracked as an *offline* channel, because we do not host a registration page, and receive a list of attendees post-event. 
 
 | Member Status                   | Definition                                                                            | Success  |
 |:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
@@ -546,7 +558,9 @@ This is an event run by Field Marketing that we have paid to participate in but 
 | Follow Up Requested             | Requested additional details about GitLab to be sent post event                       | Yes      |
 
 #### Gated Content
-White Paper or other content offer. This is tracked as an *online* Bizible channel.
+White Paper or other content offer. 
+
+**Bizible:** This is tracked as an *online* channel.
 
 | Member Status                   | Definition                                                                            | Success  |
 |:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
@@ -554,7 +568,9 @@ White Paper or other content offer. This is tracked as an *online* Bizible chann
 | Downloaded                      | Downloaded content                                                                    | Yes      |
 
 #### Geographic  
-We have specific geographic DMA lists that are used for field marketing and marketing programs to target event invitations. This is **not** tracked with Bizible touchpoints or channels. This campaign type is only used for visibility of our DMA lists - [click to see full list](/handbook/marketing/marketing-operations/marketo#geographic-dma-list) of DMAs available. 
+We have specific geographic DMA lists that are used for field marketing and marketing programs to target event invitations. This campaign type is only used for visibility of our DMA lists - [click to see full list](/handbook/marketing/marketing-operations/marketo#geographic-dma-list) of DMAs available. 
+
+**Bizible:** Touchpoints should be excluded.
 
 
 | Member Status | Definition       | Success |
@@ -563,7 +579,9 @@ We have specific geographic DMA lists that are used for field marketing and mark
 
 
 #### Inbound Request
-Any type of inbound request that requires follow up. This is tracked as an *online* Bizible channel.
+Any type of inbound request that requires follow up.
+
+**Bizible:** This is tracked as an *online* channel.
 
 | Member Status                   | Definition                                                                            | Success  |
 |:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
@@ -572,7 +590,9 @@ Any type of inbound request that requires follow up. This is tracked as an *onli
 
 
 #### List Build
-A static list built for ad hoc requests by the FMM or MPM team. This campaign type **does not** apply any touchpoints and is **not** tracked as a Bizible channel. 
+A static list built for ad hoc requests by the FMM or MPM team. 
+
+**Bizible:**  Touchpoints should be excluded. 
 
 | Member Status                   | Definition                                                                            | Success  |
 |:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
@@ -583,7 +603,9 @@ A static list built for ad hoc requests by the FMM or MPM team. This campaign ty
 
 
 #### Owned Event
-This is an event that we have created, own registration and arrange speaker/venue (example: GitLab Connects). This is tracked as an *online* Bizible channel because we manage the registration through our website.
+This is an event that we have created, own registration and arrange speaker/venue (example: GitLab Connects).
+
+**Bizible:** This is tracked as an *online* channel because we manage the registration through our website.
 
 
 | Member Status                   | Definition                                                                            | Success  |
@@ -602,18 +624,22 @@ This is an event that we have created, own registration and arrange speaker/venu
 
 
 #### PathFactory Listener
-This campaign type is used to track consumption of specific PathFactory assets. This is tracked as an *offline* Bizible Channel and touchpoint. Details related to types of assets being tracked can be found on the [Marketing Operations - PathFactory](/handbook/marketing/marketing-operations/pathfactory/#listening-campaigns) page. 
+This campaign type is used to track consumption of specific PathFactory assets.  Details related to types of assets being tracked can be found on the [Marketing Operations - PathFactory](/handbook/marketing/marketing-operations/pathfactory/#listening-campaigns) page. 
+
+**Bizible:** This is tracked as an *offline* channel.
 
 | Member Status                   | Definition                                                                            | Success  |
 |:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
 | No Action                       | default starting position for all records                                             |          |
 | Content Consumed                | Status when the corresponding Marketo listener picks up the contents consumption.     | Yes      |
-| Fast Moving Buyer               | Reached engagement threshold and viewed 3 pieces of content                           | Yes      |              
+| Fast Moving Buyer               | Reached engagement threshold and viewed 3 pieces of content                           | Yes    |          
 
 
 
 #### Referral Program
-This campaign type is used for our third party prospecting vendors or meeting setting services (Like BAO, DoGood). This is tracked as an *offline* Bizible Channel and touchpoints.
+This campaign type is used for our third party prospecting vendors or meeting setting services (Like BAO, DoGood).
+
+**Bizible:** This is tracked as an *offline* channel.
 
 | Member Status                   | Definition                                                                            | Success  |
 |:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
@@ -625,7 +651,9 @@ This campaign type is used for our third party prospecting vendors or meeting se
 
 
 #### Self-Service Virtual Event
-This is a light weight virtual event that can be hosted on GitLabber's personal zoom. This is tracked as an *online* Bizible channel.
+This is a light weight virtual event that can be hosted on GitLabber's personal zoom.
+
+**Bizible:** This is tracked as an *online* channel if registrants come through a marketo form, otherwise it will be an *offline* channel
 
 | Member Status                   | Definition                                                                            | Success  |
 |:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
@@ -637,7 +665,9 @@ This is a light weight virtual event that can be hosted on GitLabber's personal 
 | Attended On-demand              | Watched/consumed the presentation materials post-event on-demand                      | Yes      |
 
 #### Speaking Session
-This campaign type can be part of a larger Field/Conference/Owned event but we track engagement interactions independently from the larger event to measure impact. It is something we can drive registration. It is for tracking attendance at our speaking engagements. This is tracked as an *offline* Bizible channel.
+This campaign type can be part of a larger Field/Conference/Owned event but we track engagement interactions independently from the larger event to measure impact. It is something we can drive registration. It is for tracking attendance at our speaking engagements.
+
+**Bizible:** This is tracked as an *offline* channel.
 
 
 | Member Status                   | Definition                                                                            | Success  |
@@ -652,7 +682,9 @@ This campaign type can be part of a larger Field/Conference/Owned event but we t
 | Follow Up Requested             | Had conversation with speaker or requested additional details to be sent post event   | Yes      |
 
 #### Sponsored Webcast
-This is webcast hosted on an external partner/vendor platform. The status of Attended On-demand accounts for Gitlab hosted On-Demand and non-Gitlab hosted On-demand webcasts. The difference will be accounted for in the program scoring. This is tracked as an *online* Bizible channel.
+This is webcast hosted on an external partner/vendor platform. The status of Attended On-demand accounts for Gitlab hosted On-Demand and non-Gitlab hosted On-demand webcasts. The difference will be accounted for in the program scoring. 
+
+**Bizible:** This is tracked as an *online* channel if registrants come through a marketo form, otherwise it will be an *offline* channel
 
 | Member Status                   | Definition                                                                            | Success  |
 |:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
@@ -662,7 +694,9 @@ This is webcast hosted on an external partner/vendor platform. The status of Att
 | Attended On-demand              | Watched/consumed the presentation materials post-event on-demand                      | Yes      |
 
 #### Survey
-A survey that we run through a 3rd party. Tracks respondents and new leads we receive. This is tracked as an *offline* Bizible Channel and touchpoint.
+A survey that we run through a 3rd party. Tracks respondents and new leads we receive. 
+
+**Bizible:** This is tracked as an *offline* Bizible channel.
 
 | Member Status                   | Definition                                                                            | Success  |
 |:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
@@ -672,7 +706,9 @@ A survey that we run through a 3rd party. Tracks respondents and new leads we re
 | Follow Up Requested             | Filled out survey and requested to be contacted by sales                              | Yes      |
 
 #### Vendor Arranged Meetings
-Used for campaigns where a third party vendor is organizing one-to-one meetings with prospect or customer accounts. This does not organize meetings set internally by GitLab team members. An example would be a "speed dating" style meeting setup where a vendor organized meetings with prospects of interest to GitLab. This is tracked as an *offline* Bizible Channel and touchpoint.
+Used for campaigns where a third party vendor is organizing one-to-one meetings with prospect or customer accounts. This does not organize meetings set internally by GitLab team members. An example would be a "speed dating" style meeting setup where a vendor organized meetings with prospects of interest to GitLab.
+
+**Bizible:** This is tracked as an *offline* Bizible channel.
 
 | Member Status                   | Definition                                                                            | Success  |
 |:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
@@ -685,7 +721,9 @@ Used for campaigns where a third party vendor is organizing one-to-one meetings 
 
 
 #### Trial
-Track cohort of Trials for each product line (Self-hosted or SaaS) to see their influence. In-product trials are tracked as an **offline** Bizible touchpoint. Webform Self-hosted trials are an **online** Bizible touchpoint.
+Track cohort of Trials for each product line (Self-hosted or SaaS) to see their influence.
+
+**Bizible:** In-product trials are tracked as an **offline** Bizible touchpoint. Webform Self-hosted trials are an **online** Bizible touchpoint.
 
 | Member Status                   | Definition                                                                            | Success  |
 |:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
@@ -693,7 +731,9 @@ Track cohort of Trials for each product line (Self-hosted or SaaS) to see their 
 | Target List               | success, attended scheduled meeting | Yes      |
 
 #### Virtual Sponsorship
-A virtual event that we sponsor and/or participate in that we do not own the registration but will generate a list of attendees, engagement and has on-demand content consumption post-live virtual event. This is tracked as an *offline* Bizible channel.
+A virtual event that we sponsor and/or participate in that we do not own the registration but will generate a list of attendees, engagement and has on-demand content consumption post-live virtual event.
+
+**Bizible:** This is tracked as an *offline* Bizible channel.
 
 | Member Status                   | Definition                                                                            | Success  |
 |:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
@@ -711,7 +751,9 @@ A virtual event that we sponsor and/or participate in that we do not own the reg
 | Attended On-demand              | Watched/consumed the presentation materials post-event on-demand                      | Yes      |
 
 #### Webcast
-Any webcast that is held by GitLab. This is tracked as an *online* Bizible channel.
+Any webcast that is hosted and held by GitLab. 
+
+**Bizible:**  This is tracked as an *online* Bizible channel.
 
 | Member Status                   | Definition                                                                            | Success  |
 |:--------------------------------|:--------------------------------------------------------------------------------------|:---------|
@@ -720,13 +762,15 @@ Any webcast that is held by GitLab. This is tracked as an *online* Bizible chann
 | Sales Nominated                 | Sales indicated record to receive triggered event email sent by Marketing             |          |
 | Marketing Invited               | Marketing geo-targeted email                                                          |          |
 | Registered                      | Registered through online form                                                        |          |
-| No Show                         | Registered, but did not attend live webcast                                            |          |
+| No Show                         | Registered, but did not attend live webcast                                           |          |
 | Attended                        | Attended the live webcast                                                             | Yes      |
 | Follow Up Requested             | Requested additional details about GitLab to be sent post event                       | Yes      |
 | Attended On-demand              | Watched the recorded webcast                                                          | Yes      |
 
 #### Workshop
-An in-person or virtual workshop where the attendees are guided through an agenda of real life use cases within GitLab. This is tracked as an *offline* Bizible channel.
+An in-person or virtual workshop where the attendees are guided through an agenda of real life use cases within GitLab.
+
+**Bizible:** This is tracked as an *offline* Bizible channel.
 
 
 | Member Status                   | Definition                                                                            | Success  |
