@@ -18,6 +18,23 @@ The Secure Frontend team supports multiple groups beneath the [Secure sub-depart
 
 <%= direct_team(role_regexp: /[,&] Secure/, manager_role: 'Frontend Engineering Manager, Secure') %>
 
+### Indicating Status and Raising Risk
+
+All Deliverable issues should be marked `On Track` at the beginning of a milestone. If there is concern with doing so, then we should discuss why.
+Issues that have not gone into review by the 10th may not have enough time to get merged. These should be considered Needs Attention or At Risk depending on their complexity and other factors.
+
+Raising risk early is important. The more time we have, the more options we have.  Follow these steps when raising or downgrading risk:
+
+1. Update the Health Status in the issue:
+    1. `On Track` - there is no indication the work won't get merged by the 15th.
+    1. `Needs Attention` - the issue is blocked or has other factors that need to be discussed.
+    1. `At Risk` - the issue is in jeopardy of missing the merge cutoff of the 15th.
+1. Add a comment about why the risk has increased or decreased.
+1. Copy the Frontend Engineering Manager and Project Manager in a comment.
+1. Copy the Backend Engineering Manager if there is associated backend work that may be impacted.
+
+Note that an issue probably shouldn't go directly from On Track to At Risk.  Consider a progression: `On Track -> Needs Attention -> At Risk`.
+
 
 ### Issue Boards
 
