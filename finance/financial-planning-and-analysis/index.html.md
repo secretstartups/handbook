@@ -743,6 +743,22 @@ For all other vendors, allocations are based on the following criteria:
 
 The Infrastructure teams costs are allocated according to the final hosting expenses allocation.  Using the internal, free, and paid percentage allocation from hosting, the infrastructure team costs are allocated at the same weighting. 
 
+#### *Summary*
+
+**Gitlab.com COGS Allocation** = (Paid Tier Hosting Usage (%)  * Total Invoiced Hosting Costs) + 
+                               (Paid Tier Hosting Usage (%)  * Infrastructure Team Costs) + 
+                               (Paid Tier Ticket Resolution Time (%) * Total Support Team Costs)
+
+**Gitlab.com Free User Allocation** = (Free Tier Hosting Usage (%)  * Total Invoiced Hosting Costs) + 
+                                      (Free Tier Hosting Usage (%)  * Infrastructure Team Costs) + 
+                                      (Free Tier Ticket Resolution Time (%) * Total Support Team Costs)
+
+**Gitlab.com Internal User Allocation** = (Internal Tier Hosting Usage (%)  * Total Invoiced Hosting Costs) + 
+                                          (Internal Tier Hosting Usage (%)  * Infrastructure Team Costs)
+
+ 
+
+
 ###### Step 3: Blue Process
 
 The Blue Process, which encapsulates the Yellow and Red process, is meant to bring the full allocation cycle together before the Post Allocation P&Ls are rendered.
