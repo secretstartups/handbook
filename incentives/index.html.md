@@ -102,40 +102,9 @@ For managers: as a reminder, please make sure when you are submitting the bonus 
 
 #### Process for Recommending a Team Member for a Bonus in BambooHR
 
-##### Nominator Bot Process
-This process is currently being tested by the People group. Although everyone can access it. 
+We are currently testing a new process through slack for bonus requests. Please continue to use the BambooHR process until the nominator bot has been fully tested and implemented. 
 
-**Any GitLab team member**
-1. Go to Slack and type `/nominate name of the team member`
-1. Slack will open a dialog and ask you for some details about the nomination. Use the motivation text field, to write a few sentences describing how the GitLab team member has demonstrated a specific GitLab value in their work.  Please make sure you have viewed the valid and invalid criteria listed above. Don't forget that the nomination request should tie to our values and be detailed enough to ensure that the nomination meets the criteria. You can select the values it applies to.
-1. Once submitted, the bot will send this over to the manager to kick-off the approval flow
-1. Once everyone has approved the bot will report back to you with the good news. If it's rejected we ask the person who rejects, to reach out to you. That is not done by the bot.
-
-**Manager Process**
-1. The Nominator bot will send you a Slack DM asking to approve or reject the nomination. 
-1. When you decide to approve, all you need to do is click the approve button. The bot will take care of the next steps (sending it to the second level manager, PBP, Total Rewars team)
-1. When you decide to reject, click the reject button. The nomination will be updated as `rejected_by_manager`. The bot will ask you to reach out to the nominator as to make sure they understand why the nomination was not approved.
-1. When everyone else has approved, the bot will reach out to you so you can share this with the team member and share it in the Slack channel.
-
-**Approval flow**
-```mermaid
-graph TD;
-  A[Nomination] -->|Bot logs and sends to manager| C;
-  C{Manager}
-  C -->|Reject| D[Bot logs];
-  C -->|Approve| F;
-  F{Manager's Leader}
-  F -->|Reject| H[Bot logs];
-  F -->|Approve| I;
-  I{PBP}
-  I --> |Reject| J[Bot logs];
-  I -->|Approve| L;
-  L{Total Rewards}
-  L -->|Reject| M[Bot logs];
-  L -->|Approve| N[Bot logs and sends to BambooHR];
-```
-
-##### Current Process
+##### BambooHR Process
 **Any GitLab team member**
 
 1. Write a few sentences describing how the GitLab team member has demonstrated a specific GitLab value in their work.  Please make sure you have viewed the valid and invalid criteria listed above.  The nomination request should tie to our values and be detailed enough to ensure that the nomination meets the criteria.
@@ -172,6 +141,39 @@ graph TD;
   * Approve the request within BambooHR and ensure the date and amount transferred properly to the BambooHR profile.
 1. Notify Payroll of the bonus by updating the proper payroll google sheet based on entity.
   * United States: "Payroll Changes", Contractors: "Non-US contractor bonus changes", Everyone else: "Monthly payroll changes for non-US international team members".
+
+##### Nominator Bot Process
+This process is currently being tested by the People group. Although everyone can access it. 
+
+**Any GitLab team member**
+1. Go to Slack and type `/nominate name of the team member`
+1. Slack will open a dialog and ask you for some details about the nomination. Use the motivation text field, to write a few sentences describing how the GitLab team member has demonstrated a specific GitLab value in their work.  Please make sure you have viewed the valid and invalid criteria listed above. Don't forget that the nomination request should tie to our values and be detailed enough to ensure that the nomination meets the criteria. You can select the values it applies to.
+1. Once submitted, the bot will send this over to the manager to kick-off the approval flow
+1. Once everyone has approved the bot will report back to you with the good news. If it's rejected we ask the person who rejects, to reach out to you. That is not done by the bot.
+
+**Manager Process**
+1. The Nominator bot will send you a Slack DM asking to approve or reject the nomination. 
+1. When you decide to approve, all you need to do is click the approve button. The bot will take care of the next steps (sending it to the second level manager, PBP, Total Rewars team)
+1. When you decide to reject, click the reject button. The nomination will be updated as `rejected_by_manager`. The bot will ask you to reach out to the nominator as to make sure they understand why the nomination was not approved.
+1. When everyone else has approved, the bot will reach out to you so you can share this with the team member and share it in the Slack channel.
+
+**Approval flow**
+```mermaid
+graph TD;
+  A[Nomination] -->|Bot logs and sends to manager| C;
+  C{Manager}
+  C -->|Reject| D[Bot logs];
+  C -->|Approve| F;
+  F{Manager's Leader}
+  F -->|Reject| H[Bot logs];
+  F -->|Approve| I;
+  I{PBP}
+  I --> |Reject| J[Bot logs];
+  I -->|Approve| L;
+  L{Total Rewards}
+  L -->|Reject| M[Bot logs];
+  L -->|Approve| N[Bot logs and sends to BambooHR];
+```
 
 #### Discretionary Bonuses for Working Groups
 1. Sometimes a [working group](/company/team/structure/#working-groups) strongly displays GitLab Values over a period, project or situation. For this case, we have group discretionary bonuses.
