@@ -37,7 +37,11 @@ I work at the intersection of culture, operations, people, talent branding, mark
 * I champion and evangelize GitLab's all-remote culture and initiatives through [content creation](/company/culture/all-remote/guide/), interviews, webinars, case studies, podcasts, and partnerships with organizations and universities.
 * I work across the company to ensure that GitLab team members [acclimate well](/company/culture/all-remote/getting-started/) to remote, give themselves permission to embrace our [values](/handbook/values/) and operate with [remote-first workflows](/company/culture/all-remote/how-to-work-remote-first/), and [share our learnings](/handbook/marketing/corporate-marketing/#evangelism-materials) with those outside of the GitLab organization. 
 
+### Conversations and interviews
+
 **Deeper conversations on this topic can be found in the below articles, podcasts, and video interviews.**
+
+#### Articles 
 
 * Fortune — [Why GitLab hired a ‘head of remote’ before the coronavirus pandemic](https://fortune.com/2020/05/28/coronavirus-head-of-remote-work-from-home-gitlab-github-jobs/)
 * TechCrunch — [GitLab's Head of Remote on hiring, onboarding, and why Slack is a no-work zone](https://techcrunch.com/2020/05/19/gitlabs-head-of-remote-on-hiring-onboarding-and-why-they-dont-do-work-stuff-on-slack/)
@@ -49,6 +53,10 @@ I work at the intersection of culture, operations, people, talent branding, mark
 * Business Insider — [Read the exact onboarding guide GitLab uses to manage its fully remote, 1,200-person staff and ensure new hires thrive from day one](https://www.businessinsider.com/how-gitlab-largest-fully-remote-company-onboards-new-employees-guide)
 * Carta blog — [A Q&A with GitLab’s head of remote](https://carta.com/blog/gitlab-interview-covid-19-remote-landscape/)
 * TripActions blog — [5 Questions with GitLab's Head of Remote on Business Travel](https://tripactions.com/blog/q-and-a-darren-murph-head-of-remote-at-gitlab)
+
+#### Podcasts
+
+* Wise Up with Cristina Podcast - [Darren Murph, Remote Rebel, on Opportunities Beyond Work](https://cristinadigiacomo.com/wise-up-podcast/wise-up-episode14-darrenmurph)
 * SafetyWing Podcast — [How to transition to remote](http://buildingremotely.com/episode/2)
 * Customer Centric Podcast — [Darren Murph: home is where the office is](https://customercentric.unbabel.com/podcast/darren-murph-gitlab)
 * Changelog Podcast — [Creating GitLab’s remote playbook](https://changelog.com/podcast/397)
