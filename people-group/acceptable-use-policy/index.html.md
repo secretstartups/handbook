@@ -25,7 +25,9 @@ GitLab-managed assets are provided to conduct GitLab business with consideration
 
 Those receiving GitLab-provided assets are responsible for exercising good judgment when using GitLab-managed computers and accessing GitLab-managed data.
 
-As per the [onboarding issue procedures](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding.md) outlined in our handbook, evidence of device encryption and device serial number must be provided to IT Ops prior to the completion of onboarding period. All MAC laptops procured by GitLab will come configured with [JAMF](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/). GitLab team members procuring and expensing MAC Laptops will require [JAMF](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/) to be installed. Please work with IT Ops to ensure [JAMF](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/) is properly installed. 
+As per the [onboarding issue procedures](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding.md) outlined in our handbook, evidence of device encryption and device serial number must be provided to IT Ops prior to the completion of onboarding period. 
+
+[We are currently working on rolling out JAMF for MAC Laptops](https://gitlab.com/gitlab-com/business-ops/mac-laptop-management/-/issues/18). Once implemented, all MAC laptops procured by GitLab will come configured with [JAMF](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/). GitLab team members procuring and expensing MAC Laptops will require [JAMF](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/) to be installed. 
 
 ### Security and Proprietary Information
 
