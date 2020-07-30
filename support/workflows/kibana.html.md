@@ -16,7 +16,7 @@ This document provides information on what Kibana is, how to search it, interpre
 
 ### Using Kibana
 
-[Kibana](https://www.elastic.co/kibana) is an open source data visualization plugin for [Elasticsearch](https://en.wikipedia.org/wiki/Elasticsearch). It provides visualization capabilities on top of the content indexed on an Elasticsearch cluster. Support Engineering uses Kibana to both search for error events on GitLab.com and to detect when specific changes were made to various aspects of it by a user.
+[Kibana](https://log.gprd.gitlab.net/) is an [open source data visualization plugin](https://www.elastic.co/kibana) for [Elasticsearch](https://en.wikipedia.org/wiki/Elasticsearch). It provides visualization capabilities on top of the content indexed on an Elasticsearch cluster. Support Engineering uses Kibana to both search for error events on GitLab.com and to detect when specific changes were made to various aspects of it by a user.
 
 #### Parameters
 
