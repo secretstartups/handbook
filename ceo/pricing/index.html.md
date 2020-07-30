@@ -126,7 +126,7 @@ Our lower tiers have:
 Our higher tiers are still the best option for our customers:
 
 1. Higher tiers add much more absolute value. For example our top tier can add 2000% more value than our lower tier while still adding less relative value.
-1. The Return On Investment (ROI) factor for higher tiers tends to be higher for our lower tiers than for our lower tiers due to costs outside of the subscription. For example when you switch to GitLab you will have a fixed cost in implementation and training. And if you use a higher tier you need to find workaround for features you are missing out on, increasing cost and decreasing efficiency.
+1. The Return On Investment (ROI) for higher tiers tends to be higher than our lower tiers due to costs outside of the subscription. For example when you switch to GitLab you will have a fixed cost in implementation and training. And if you use a lower tier you need to find workaround for features you are missing out on, increasing cost and decreasing efficiency.
 
 There are multiple reasons why our lower tiers have more relative value:
 
