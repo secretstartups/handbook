@@ -146,7 +146,7 @@ Please assign first to @rebecca. If she is OOO, assign to @vsilverthorne/@skassa
 Continuous delivery mindset: With time-sensitive posts, don't wait to publish a post if you have enough information to go live. It's OK to publish a headline and paragraph to get the news out in a timely matter and add more details later (e.g. add more graphics, charts, etc.). We don't want to miss out on a news cycle because we're waiting for an image or supplementary information.
 {: .alert .alert-info}
 
-### Error budgets for time-sensitive posts
+#### Error budgets for time-sensitive posts
 
 Inspired by [error budgets used by Engineering](/handbook/engineering/#error-budgets).
 
@@ -160,12 +160,16 @@ Each functional group is responsible for not exceeding an allowed budget of 15 p
 
 Where error budget points are incurred, a member of the Editorial team will apply the relevant label to the issue or merge request in question. Points will be totaled at the end of the quarter and communicated to functional groups who exceed their budgets, so that we can work together on solutions to prevent this in the future.
 
-#### How to avoid incurring error budget points
+##### How to avoid incurring error budget points
 
 - Open an issue **as soon as you know a blog post will be needed**, using the blog post issue template, and give `@rebecca` a heads up that your post needs to go live on a specific day.
 - Create the MR for your blog post, ensuring everything is formatted correctly, all relevant images added, and links included.
 - Check the review app or preview locally to make sure everything looks as expected.
 - Assign the MR to `@rebecca` well ahead of time (a minimum of two working days before you expect to publish).
+
+### Preparing confidential blog posts
+
+It is not currently possible to prepare a confidential blog post without forking the www-gitlab-com project. We avoid this because forking is not straightforward for all contributors and it doesn't allow us to use review apps to preview the post before publishing. Please see below [Creating MRs for confidential issues](#creating-mrs-for-confidential-issues). 
 
 ## Third-party posts
 We will promote anyone integrating with GitLab, even if we compete with them. It is very important to demonstrate to our customers that we do not lock them in.
@@ -407,10 +411,6 @@ Look for the following patterns:
 1. [How we do Vue: one year later](/blog/2017/11/09/gitlab-vue-one-year-later/)
 
 Team members can also browse the [Content Marketing Dashboard](https://datastudio.google.com/open/1NIxCW309H19eLqc4rz0S8WqcmqPMK4Qb) to see more examples of current blog posts drawing high traffic.
-
-### Preparing confidential blog posts
-In the event that we have a big announcement to make and the information must remain confidential until, use the forked project `https://gitlab.com/gitlab-com/marketing/www-gitlab-com` to prepare your merge request.  
-
 
 ## Publishing natively on LinkedIn and Medium
 Occasionally, some blog posts are better suited to publishing natively by the author on LinkedIn, or on [Medium](https://medium.com/@gitlab). We reach slightly different audiences on these channels, and some content will get better exposure and reach if published there. If you submit a blog post and the content team decides it's a better fit for one of these, we will let you know. For now, we will treat this segmentation as an experiment, monitor the performance of different types of content on different channels, and apply our learnings. We may then be able to start planning content for specific outlets and commission stories accordingly.
@@ -1041,7 +1041,7 @@ If your blog post issue is confidential, please don't create an MR using the but
 1. [Create a new merge request from a new branch through the UI](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html#new-merge-request-from-a-new-branch-created-through-the-ui) **OR** [create your blog post MR starting from the command line](#creating-a-post-from-the-command-line).
 1. When you have created your MR, apply the blog post MR template and make sure the description includes `Closes [link to your confidential issue]` to create the connection between the issue and the MR, so that when the MR is merged the issue will close automatically.
 
-Note that your MR will not be confidential. If information is under embargo it is best to prepare the blog post in a Google Doc or locally and create the MR close to the publish time to keep the blog post private. 
+Note that your MR will not be confidential. If information is under embargo it is best to prepare the blog post in a Google Doc or locally and create the MR close to the publish time to keep the blog post private. Feel free to give a thumbs up to [this feature request for confidential MRs](https://gitlab.com/gitlab-org/gitlab/-/issues/222404).
 
 #### Adding your blog post file to the MR
 
