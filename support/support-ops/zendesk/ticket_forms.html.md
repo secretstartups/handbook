@@ -86,9 +86,9 @@ metadata.
 
 </details>
 
-### [GitLab.com](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/334447)
+### [GitLab.com (SaaS)](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/334447)
 
-* Title: Support for GitLab.com
+* Title: Support for GitLab.com (SaaS)
 
 <details>
 <summary> <b>Fields</b> </summary>
