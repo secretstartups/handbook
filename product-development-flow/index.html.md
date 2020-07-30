@@ -113,7 +113,7 @@ Product Managers and Product Designers should refine the validation backlog toge
 
 To run the problem validation process:
 
-1. PM or Product Designer creates an issue using the [Problem Validation template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Problem Validation.md).
+1. PM creates an issue using the [Problem Validation template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Problem Validation.md).
 
 1. PM applies the `~"workflow::problem validation"` label to the associated issue; this automatically removes the `~"workflow::validation backlog"` label.
 
