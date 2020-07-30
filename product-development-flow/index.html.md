@@ -92,7 +92,7 @@ Sometimes it can be tricky to identify a good issue for problem validation. The 
 - Initiating work on a new [product category](/handbook/product/categories/)
 - Defining the next [maturity state](/direction/maturity/) for a product category (for example, when researching how to go from `Complete` to `Lovable`)
 - The envisioned feature is large or introduces a major change to the user experience (for example, reorganizing the sidebar navigation)
-- Understanding if a job to be done [(JTBD)](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done) is the purpose for which customers buy or use the product 
+- Understanding if a Job to be Done [(JTBD)](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done) is the purpose for which customers buy or use the product 
 - Targeting a new user or buyer persona
 
 Some items will skip the problem validation phase. In these cases, the problem is well understood and has been validated in other ways. When skipping problem validation, ensure the issue description is clear with the rationale and sensing mechanisms used to skip the problem validation phase.
