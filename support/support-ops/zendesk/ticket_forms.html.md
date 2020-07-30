@@ -13,7 +13,7 @@ metadata.
 
 ### [Gitlab.com (SAAS) Account Related Form](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/360000803379)
 
-* Title: Gitlab.com (SAAS) User Account and Group Issues
+* Title: Gitlab.com (SaaS) User Accounts and Login Issues
 
 <details>
 <summary> <b>Fields</b> </summary>
