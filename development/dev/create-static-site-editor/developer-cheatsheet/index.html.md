@@ -38,7 +38,8 @@ title: Developer Cheatsheet
 ### gitlab-com/www-gitlab-com
 
 * Run site locally:
-  * `NO_CONTRACTS=true bundle exec middleman`
+  * `cd sites/handbook && NO_CONTRACTS=true bundle exec middleman`
+  * (see [monorepo docs](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/monorepo.md) for more details)
 * [Development Documentation](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/development.md)
   * [Testing tips](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/development.md#testing)
 
