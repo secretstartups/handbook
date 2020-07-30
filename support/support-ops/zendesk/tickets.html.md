@@ -250,7 +250,7 @@ Tickets are the core part of what we use Zendesk for.
 
 * User title: Preferred Region for Support
 * Type: dropdown
-* User description: Select 'All regions' if you do not wish to limit responses to a specific region's office hours. Specifying a region helps us respond during your team's office hours. https://about.gitlab.com/support/#definitions-of-gitlab-support-hours
+* User description: Select 'All regions' if you do not wish to limit responses to a specific region's office hours. Specifying a region helps us respond during your team's office hours. https://about.gitlab.com/support/#effect-on-support-hours-if-a-preferred-region-for-support-is-chosen
 * Permissions: Editable for end users
 * Field values:
   * Americas, USA
