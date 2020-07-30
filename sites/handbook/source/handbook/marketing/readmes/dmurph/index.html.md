@@ -49,6 +49,7 @@ I work at the intersection of culture, operations, people, talent branding, mark
 * Business Insider — [Read the exact onboarding guide GitLab uses to manage its fully remote, 1,200-person staff and ensure new hires thrive from day one](https://www.businessinsider.com/how-gitlab-largest-fully-remote-company-onboards-new-employees-guide)
 * Carta blog — [A Q&A with GitLab’s head of remote](https://carta.com/blog/gitlab-interview-covid-19-remote-landscape/)
 * TripActions blog — [5 Questions with GitLab's Head of Remote on Business Travel](https://tripactions.com/blog/q-and-a-darren-murph-head-of-remote-at-gitlab)
+* SafetyWing Podcast — [How to transition to remote](http://buildingremotely.com/episode/2)
 * Customer Centric Podcast — [Darren Murph: home is where the office is](https://customercentric.unbabel.com/podcast/darren-murph-gitlab)
 * Changelog Podcast — [Creating GitLab’s remote playbook](https://changelog.com/podcast/397)
 * The Culture Factor Podcast — [Guinness World Record, and How to Build a Strong Remote Culture by the Expert](https://podcasts.apple.com/us/podcast/guinness-world-record-how-to-build-strong-remote-culture/id1509073814?i=1000477974014)
