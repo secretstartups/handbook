@@ -121,9 +121,9 @@ To run the problem validation process:
 
 1. PM opens a `Problem validation research` issue using the available template in the [UX Research](https://gitlab.com/gitlab-org/ux-research/) project. Once completed, please assign the issue to the relevant UX Researcher.
 
-1. [Product Manager and UX Researcher](/handbook/engineering/ux/ux-research/#ux-research-at-gitlab) meet to discuss the appropriate research methodology, timescales, and user recruitment needs. At a minimum, Product Designers should have awareness. 
+1. [Product Manager, Product Designer, and UX Researcher](/handbook/engineering/ux/ux-research/#ux-research-at-gitlab) meet to discuss the appropriate research methodology, timescales, and user recruitment needs. 
 
-1. The next steps in the process depend on the research methodology chosen. Regardless of the methodology chosen, PM, PD and UX Researcher execute the research study together. It is beneficial to also invite Engineers to shadow the research study. This can help the team broadly understand existing user behaviors.
+1. The next steps in the process depend on the research methodology chosen. Regardless of the methodology chosen, PM and UX Researcher execute the research study together. If available, the Product Designer can help. It is beneficial to also invite Engineers to shadow the research study. This can help the team broadly understand existing user behaviors.
 	- [Follow the process for user interviews](https://about.gitlab.com/handbook/engineering/ux/ux-research/#for-user-interviews)
 	- [Follow the process for surveys](https://about.gitlab.com/handbook/engineering/ux/ux-research/#for-surveys)
 
