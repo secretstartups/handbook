@@ -62,7 +62,17 @@ Incident Reviews are conducted in the incident issue and their workflow is track
    1. The Incident Manager on Call (IMOC) is also assigned to the issue.
 1. The output of an incident review should include one or more issues labeled `~Corrective Action`.  Labeling and linking existing issues as corrective action is appropriate.
 1. The DRI is responsible for selecting and assigning corrective actions that should be prioritized and resolved within a specific timeframe.
-   1. Refer to the `Target SLO` for `~Corrective Action` in this [table](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority).
+   1. Check the `Target SLO` for `~Corrective Action` in this table:
+
+   | Corrective action of issue severity | SLO (days after issue has been created) |
+   | ------ | ------ |
+   | S1 | 1 week |
+   | S2 | 30 days |
+   | S3 | 60 days |
+   | S4 | 90 days |
+
+   (coming from this [link](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/10516#note_375948861))
+ 
 1. All issues labeled `~Corrective Action` must have an assigned priority label, it is the responsibility of the DRI to ensure that the priorities are set.
 1. After discussion on the Incident Review issue has ended, all `~Corrective Action` issues have been linked, and notes from the review are incorporated into the Incident Review issue, the incident review issue can be closed.
 
