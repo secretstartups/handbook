@@ -25,7 +25,7 @@ This is a rotating role, where someone is "on point" weekly (Monday to Friday), 
 1. new Premium SLA tickets get a first response as soon as possible and do not breach
 1. all new tickets are appropriately categorized and prioritized as they arrive
 
-First Response Time Hawks directly drive achievement in our [Service Level Agreement KPI](/handbook/support/#service-level-agreement-sla).
+First Response Time Hawks directly drive achievement in our [Service Level Agreement KPI](/handbook/support/performance-indicators/#service-level-agreement-sla).
 
 ### FRT Hawk in Action
 
@@ -51,7 +51,7 @@ First Response Time Hawks directly drive achievement in our [Service Level Agree
 1. Your focus should be new tickets in the Premium & Ultimate queue, especially high and medium priority. If there are no new tickets in that queue, please [associate needs-org tickets with the appropriate organization](associating_needs_org_tickets_with_orgs.html). From there, you can jump to the Starter & Free queue.
 
 1. You might not cover all the tickets you wanted to cover on your shift, and that's okay
-   * Just do your best 
+   * Just do your best
    * Take a break if you need one - making sure your team knows you're stepping away by posting in `#support_team_chat`
    * Ask the rest of the team for help when needed in `#support_self-managed`
 
@@ -86,7 +86,7 @@ SLA Hawks drive achievement via our KPI's for [Service Level Agreement KPI](/han
 3. If you feel the priority does not match our [Definitions of Support Impact](/support/#definitions-of-support-impact) reach out to the customer and agree on the new priority. Use the macro [General::Changed priority](https://gitlab.zendesk.com/agent/admin/macros/360093631494).
 4. If a ticket **has an assignee**:
    1. If the assignee is in your Region, link the ticket in `#support-self-managed` and ping them asking if they are able to take a look. We've adopted a convention of prefixing your message in Slack with `[SLAH]` so that folks know you're currently in that role.
-   2. If the assignee is from another Region and it's during their “office hours” ask them if they could take a look. 
+   2. If the assignee is from another Region and it's during their “office hours” ask them if they could take a look.
    3. If the assignee is offline and the ticket/customer needs an update, follow the **has no assignee** process below.
    4. If assignee can’t currently work the ticket ask them to follow the Process in action for [Working on Tickets](#the-process-in-action-2).
 5. If a ticket **has no assignee**:
@@ -94,7 +94,7 @@ SLA Hawks drive achievement via our KPI's for [Service Level Agreement KPI](/han
    2. If you can't locate a specific person, let the team know (e.g. `@support-team-emea` ) about the ticket. Once you have one or two volunteers, let the team know the ticket is taken care of via the thread.
    3. If you’re not getting any traction, and you feel you need help, ping your manager to let them know that noone is available to help.
    4. Once someone has taken ownership of the ticket, ask them if they're happy to assign it to themselves.
-6. If there are no imminent breaches (e.g. less than 2 to 4 hours) in the 'Self Managed Premium and Ultimate' queue - repeat the process with the [Starter and Free](https://gitlab.zendesk.com/agent/filters/360062019453) view. 
+6. If there are no imminent breaches (e.g. less than 2 to 4 hours) in the 'Self Managed Premium and Ultimate' queue - repeat the process with the [Starter and Free](https://gitlab.zendesk.com/agent/filters/360062019453) view.
 
 
    ```mermaid
@@ -111,7 +111,7 @@ SLA Hawks drive achievement via our KPI's for [Service Level Agreement KPI](/han
 
 ### Team Responsibilities for the SLA Hawk
 
-* Help the SLA Hawk! If they ask you for help, please acknowledge (You may not be able to help, just let them know). 
+* Help the SLA Hawk! If they ask you for help, please acknowledge (You may not be able to help, just let them know).
 * Follow the [Support Modes of Work](#the-process-in-action-2) for the tickets in your own queue (including finding another engineer to help or takeover the ticket).
 * When looking for your next ticket, follow the [same process](#the-process-in-action-1) as the SLA Hawk above (most breached ticket first).
 * If you take a next response ticket and the ticket doesn’t have an assignee, assign yourself to the ticket.

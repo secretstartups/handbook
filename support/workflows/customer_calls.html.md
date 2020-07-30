@@ -53,7 +53,7 @@ for that, please modify it as you see fit.
 
 ##### Notes on intake, upgrade and installation support calls
 
-For Premium Support customers, and customers who have purchased Implementation Support, we offer intake and installation support. Premium Support customers also receive live upgrade assistance. The different levels of service that are offered are described on the [support page](/support), and Implementation Support is described in more detail in the [support handbook](/handbook/support/#implementation-support).
+For Premium Support customers, and customers who have purchased Implementation Support, we offer intake and installation support. Premium Support customers also receive live upgrade assistance. The different levels of service that are offered are described on the [support page](/support), and Implementation Support is described in more detail in the [statement of support](/support/statement-of-support.html).
 
 Call/screen sharing sessions involve guiding a customer through the GitLab upgrade process or taking control of the customer's server to perform the upgrade.
 You should make sure that the customer has finished creating a backup **before** you start the call, as they can take a lot of time to complete and you don't want to do them while in the call.
@@ -65,8 +65,7 @@ You should make sure that the customer has finished creating a backup **before**
 1. Version you're upgrading to (it isn't always the latest)
 1. Use of GitLab CI (need to upgrade to 8.0 first, then 8.+)
 
-We collect this information in Zendesk and link it to the organization, see the
-[responding to tickets section in onboarding](/handbook/support/onboarding).
+We collect this information in Zendesk and link it to the organization.
 
 ##### Call summary
 

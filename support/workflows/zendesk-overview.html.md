@@ -66,10 +66,10 @@ We currently have 3 reporting tools available:
 
 ## Support Operations
 - [Customer Satisfaction Survey(CSAT)](https://about.gitlab.com/handbook/support/support-ops/#customer-satisfaction-survey-csat)
-- [Shared Organizations in Zendesk](/handbook/support/support-ops/#shared-organizations-in-zendesk)
-- [Salesforce - Zendesk sync](/handbook/support/support-ops/#salesforce---zendesk-sync)
-- [PagerDuty](/handbook/support/support-ops/#pagerduty)
-- [Slack Notifications](https://about.gitlab.com/handbook/support/support-ops/#slack-notifications)
+- [Shared Organizations in Zendesk](/handbook/support/support-ops/responsibilities.html#shared-organizations-in-zendesk)
+- [Salesforce - Zendesk sync](/handbook/support/support-ops/responsibilities.html#salesforce---zendesk-sync)
+- [PagerDuty](/handbook/support/support-ops/responsibilities.html#pagerduty)
+- [Slack Notifications](https://about.gitlab.com/handbook/support/support-ops/responsibilities.html#slack-notifications)
 
 ## Ticket Fields
 
@@ -93,7 +93,7 @@ The system ticket fields are:
 Our custom ticket fields are:
 
 - GitLab issues
-- [Document this](/handbook/support/onboarding/#document-it)
+- [Document this](/handbook/support/workflows/improving-documentation.html)
 - GitLab.com Email address
 - GitLab.com Project Path
 - GitLab.com Username

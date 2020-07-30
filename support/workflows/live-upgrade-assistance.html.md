@@ -12,7 +12,7 @@ category: Live Upgrade Assistance
 
 ### Overview
 
-The GitLab support team is here to help. As a part of our [Priority Support](/handbook/support/index.html#priority-support)
+The GitLab support team is here to help. As a part of our [Priority Support](/support/index.html#priority-support)
 we offer Live Upgrade Assistance. That is, we'll host a live screen share
 session to help you through the process and ensure there aren't any surprises.
 
@@ -69,8 +69,8 @@ enough time to rollback should it be required.
 #### Can a request for live upgrade assistance be declined?
 
 It is possible for this to occur, especially in situations where the upgrade
-is poorly planned or likely to cause production downtime. We should encourage 
-the user to reschedule the window so we can allow for more time to test out 
+is poorly planned or likely to cause production downtime. We should encourage
+the user to reschedule the window so we can allow for more time to test out
 changes and ensure a smooth upgrade.
 
 In cases where we decline to perform live upgrade assistance, we still
