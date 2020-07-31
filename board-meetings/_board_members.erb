@@ -7,8 +7,8 @@
 <div class="card">
 <div class="front">
 <% photo = image_tag "/images/team/#{member.picture.to_s[0..-5]}-crop.jpg", style: 'border-radius:50%;', alt: member.name, width: 120, height: 120, loading: 'lazy' %>
-<%= link_to photo, "/company/team/##{slug.slug}" %>
-<a href="/company/team/#<%= member.slug %>" style="display:block;font-weight: 600;color: #333;font-size: 18px;margin-bottom: 6px;text-decoration:none;">
+<%= link_to photo, "/company/team/##{slug.gitlab || slug.slug}" %>
+<a href="/company/team/#<%= slug.gitlab || slug.slug %>" style="display:block;font-weight: 600;color: #333;font-size: 18px;margin-bottom: 6px;text-decoration:none;">
 <%= slug.name %>
 </a>
 <% if member.locality || member.country %>
