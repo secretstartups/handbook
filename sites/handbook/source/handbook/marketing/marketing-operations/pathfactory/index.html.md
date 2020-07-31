@@ -499,7 +499,10 @@ Unsure what content types align with your asset? Use the table below as a guidel
 
 ## PathFactory analytics
 
-All roles and permissions have access to reporting functionality in PathFactory. Feel free to peruse `Path Analytics` or view insights in the content library and content tracks. If you would like a scheduled report or have a different PathFactory data request, create an issue in the Marketing Operations repo and assign `@sdaily`. All of the below links lead to PathFactory's knowledgebase, *The Nook*. The Nook requires a separate login but you should use the same email address used to login to PathFactory.
+All roles and permissions have access to reporting functionality in PathFactory. Feel free to peruse `Path Analytics` or view insights in the content library and content tracks. If you would like a scheduled report or have a different PathFactory data request, create an issue in the Marketing Operations repo and assign `@sdaily`. All of the below links lead to PathFactory's knowledgebase, *The Nook*. The Nook requires a separate password from PathFactory but you should use the same email address used to login to PathFactory.
+
+- [Glossary](https://lookbookhq.force.com/nook/s/article/glossary)
+- [Diving into content analytics](https://customer.pathfactory.com/success-series/youtube-3?lx=v-9_uV&search=analytics)
 
 ### Target track analytics
 
