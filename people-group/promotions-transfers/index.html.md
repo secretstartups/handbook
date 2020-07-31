@@ -290,7 +290,7 @@ Internal and external candidates will have the same process with the same amount
 
 It is recommended that team members inform their manager of their desire to move internally and their career aspirations. Your manager should not hear about your new opportunity from the new hiring manager; it should come from you prior to the new hiring manager checking in for references with the current manager.
 
-If you are unsure of the role, set up a coffee chat with the hiring manager to introduce yourself. Express your interest in the role and your desire to learn more about the vacancy requirements and skills needed. If after that conversation you do not feel that you are qualified or comfortable making the move, ask the hiring manager to provide guidance on what you can do to develop yourself so you will be ready for the next opportunity. It may also be possible to set up an [interning for learning](/handbook/people-group/promotions-transfers/#interning-for-learning) situation with the hiring manager.
+If you are unsure of the role, set up a coffee chat with the hiring manager to introduce yourself. Express your interest in the role and your desire to learn more about the vacancy requirements and skills needed. If after that conversation you do not feel that you are qualified or comfortable making the move, ask the hiring manager to provide guidance on what you can do to develop yourself so you will be ready for the next opportunity. It may also be possible to set up an [internship for learning](/handbook/people-group/promotions-transfers/#internship-for-learning) situation with the hiring manager.
 
 #### Announcing Internal Promotions/Transfers
 
@@ -338,9 +338,9 @@ There are a number of different ways to enhance or add to your skill-set at GitL
 
 As detailed in our [Learning & Development Handbook](/handbook/people-group/learning-and-development/), team members will be supported in developing their skills and increasing their knowledge even if promotion is not their end goal.
 
-### Interning for Learning
+### Internship for Learning
 
-If your manager has coverage, you can spend a percentage of your time working ('interning') with another team.
+If your manager has coverage, you can spend a percentage of your time working (through an 'internship') with another team.
 
 This could be for any reason: maybe you want to broaden your skills or maybe you've done that work before and find it interesting.
 
@@ -371,9 +371,11 @@ allocated headcount in the time-frame in which you complete your internship.
 
 If at the end of your internship, you are interested in transferring teams please follow the guidelines in [Internal Department Transfers](#internal-department-transfers).
 
-#### Starting your new interning role
+#### Starting Your New Internship
 
-Please create a new issue in the [Training project](https://gitlab.com/gitlab-com/people-ops/Training/issues/new), choose the `interning_for_learning` template, and fill out the placeholders.
+Please create a new issue in the [Training project](https://gitlab.com/gitlab-com/people-ops/Training/issues/new), choose the `internship_for_learning` template, and fill out the placeholders.
+
+No internship for learning should be approved without both managers having a conversation and agreeing upong the percentage of time the team member will spending on the internship.  Also, the team members manager may has discretion not to approve the internship for learning if there are team member performance issues.
 
 Once you've agreed upon the internship goals, both managers should inform their respective groups' People Business Partner.
 
