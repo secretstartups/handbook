@@ -680,7 +680,6 @@ The 2020 Security Training is delivered through the KnowBe4 platform that includ
 * [The slides](https://docs.google.com/presentation/d/1VqOiGJDZ1vDiVVMgrw3ILxx1ot1-nM8jGzDcWylLTpM) - the slides used in the introduction video.
 * Special topics covered:
   * [Suspected phishing](/handbook/security/#phishing-tests)
-  * [Best Practices](/handbook/security/#best-practices)
   * [Acceptable Use](/handbook/people-operations/acceptable-use-policy/)
   * [Device Lost or Stolen?!](/handbook/security/#panic-email)
     * email: `panic@gitlab.com`
