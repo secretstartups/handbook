@@ -12,9 +12,12 @@ category: GitLab.com
 
 ## Overview
 
+Customers may ask that a project they recently marked for deletion be deleted immediately so that they can reuse that project's path without needing to wait. Should a customer request this through Zendesk, do the following.
+
 In most cases (provided there aren't any database or infrastructure issues), soft-deleted projects can be deleted as an admin without requiring a console escalation.
 
 ## Deprecation
+
 This workflow will be no longer be necessary once the work in [https://gitlab.com/gitlab-org/gitlab/-/issues/191367](https://gitlab.com/gitlab-org/gitlab/-/issues/191367) is completed.
 
 ## Workflow
@@ -24,7 +27,7 @@ This workflow will be no longer be necessary once the work in [https://gitlab.co
 1. From the admin area, head to **Projects** then filter the namespace from the **Namespaces** drop down. [[2](#screenshot-2)]
     - Note: Subgroups may be difficult to filter. In this case, grab the subgroup's `ID` to the `namespace_id` in the URL parameter `https://gitlab.com/admin/projects?namespace_id=(subgroup_id)`. [[3](#screenshot-3)]
 1. Find the project(s) in question and click **Delete**. You will be prompted to confirm the project name. [[4](#screenshot-4)]
-1. If all else fails, [open a GitLab.com Console Escalation](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Soft-Deleted%20Project).
+1. If all else fails, [open a Project Deletion Console Escalation](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Soft-Deleted%20Project). Remember to add a link to the issue to the Zendesk ticket and inform the customer that we've asked an engineer to process the deletion.
 
 ### Screenshots
 
