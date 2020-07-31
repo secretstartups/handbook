@@ -27,7 +27,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 | Aug 20 | Gainsight Overview for Sales                                             | Jeff Beaumont                                   |
 | Aug 27 | ROI Analysis                                                             | Mahesh Kumar, Sales (TBD)                       |
 |  Sep 3 | Demystifying the Metrics Conversation                                    | David Somers, John Jeremiah, Sales (TBD)        |
-| Sep 10 | Atlassian & the GitLab/Jira Customer Conversation                        | Mahesh Kumar, Aleeta Bell (Sales TBD)           |
+| Sep 10 | Atlassian & the GitLab/Jira Customer Conversation                        | Cormac Foster, Mahesh Kumar, Aleeta Bell (Sales TBD) |
 | Sep 17 | Maximizing Value of Partners in a Deal (Co-Selling with Partners Part 2) | David Forsch, Ed Cepulis                        |
 | Sep 24 | Q3 FY21 Competitive Update                                               | Mahesh Kumar                                    |
 |  Oct 1 | Deal Structure Best Practices                                            | Jesse Rabbits, Sales (TBD)                      |
