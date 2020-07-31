@@ -3,7 +3,7 @@ layout: markdown_page
 title: "People Group Planning"
 ---
 
-People Operations Specialists will manage a monthly People Group calendar to highlight important dates.  Examples would include Summit dates, compa group changes, merit or compensation program dates, manager, etc. Team member training dates can be found on the [training calendar](/handbook/people-group/learning-and-development/learning-sessions/#live-learning-schedule) 
+People Operations Specialists will manage a monthly People Group calendar to highlight important dates.  Examples would include Summit dates, compa group changes, merit or compensation program dates, manager, etc. Team member training dates can be found on the [training calendar](/handbook/people-group/learning-and-development/#learning-sessions) 
 
 
 ## 2020 People Group Planning and Companywide Events
