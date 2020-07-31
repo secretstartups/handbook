@@ -14,7 +14,7 @@ twitter_image: '/images/tweets/research-panel.png'
 ## Overview
 _[The original and internal-to-GitLab proof points Google Doc is online, here](https://docs.google.com/document/d/1Tuhg6LO0e6R-KP7Vfwb8cggHDiBzkC26pBl0lyLS7UY/edit) while some parts of this handbook page are being approved for publication._
 
-Proof points with third-party validation are a key resource, whether from [customers](#customer-references-and-case-studies), [analysts](http://localhost:4567/handbook/sales/command-of-the-message/proof-points.html#analyst-reports-and-studies), [industry awards](http://localhost:4567/handbook/sales/command-of-the-message/proof-points.html#industry-awards), or [peer reviews](http://localhost:4567/handbook/sales/command-of-the-message/proof-points.html#peer-reviews), and they are augmented here with [Gitlab's own industry research](http://localhost:4567/handbook/sales/command-of-the-message/proof-points.html#gitlab-reports-and-studies).
+Proof points with third-party validation are a key resource, whether from [customers](#customer-references-and-case-studies), [analysts](/handbook/sales/command-of-the-message/proof-points.html#analyst-reports-and-studies), [industry awards](/handbook/sales/command-of-the-message/proof-points.html#industry-awards), or [peer reviews](/handbook/sales/command-of-the-message/proof-points.html#peer-reviews), and they are augmented here with [Gitlab's own industry research](/handbook/sales/command-of-the-message/proof-points.html#gitlab-reports-and-studies).
 
 Articulating value is a critical sales skill in achieving [Command of the Message](/handbook/sales/command-of-the-message/).
 
