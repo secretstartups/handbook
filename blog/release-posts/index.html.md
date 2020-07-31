@@ -224,6 +224,14 @@ bin/release-post-assemble
 git push
 ```
 
+If for some reason `bin/release-post-assemble` fails use the following steps to manually move content and push your changes. There is also a video walking through the changes [here](https://www.youtube.com/watch?v=SAtiSiSh_eA). 
+
+1) Verify you've completed steps 1-3 above
+2) Manually move all the `.yml` files from `/data/releases_posts/unreleased/` to `/data/release_posts/x_y/` (`x_y` being the release post directory e.g. `13_2`) | *note: leave the `/samples` directory in the same location, don't move it*
+3) Manually move all the images in `/source/images/unreleased/` to `/source/images/x_y/`
+4) Using a text editor like VS Code **find and replace** all the image paths under `image_url:` in each release post `.yml` file from `/unreleased/` to `/x_y/`. The video above demonstrates that.
+5) `git commit0` and `git push` and you should be good to go
+
 #### Communication
 
 The release post manager, the Messaging lead and the TW lead will need to communicate about topics that are related to the release post but not relevant to all participants in the main [Slack release post channel](https://gitlab.slack.com/archives/C3TRESYPJ). The Release Post Manager will create a Slack channel called "X-Y-release-post-prep  to faciliate communication specific to the release post leads, which will be utilized till the 21st to minimize noise in the main release post Slack channel. On the 22nd, this channel will be abandoned and all communication will default to the main release post Slack channel for the final day of collaboration.
@@ -1380,30 +1388,10 @@ It does not check if:
 - `issue_url` is supplied, since there are other alternatives
 
 The schema is implemented using [Rx](http://rx.codesimply.com/index.html).
-
 ### Release post assembly
+The [release post assembly](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/bin/validate-release-post-item) script moves release post content blocks and their images to the current release directory.
 
-On the morning of the 18th you'll assemble all the content merged into the `master` branch into your `release-x-y` branch. There are a few basic steps to do this:
-
-*note: you'll need to do these steps locally. So these steps assume you've cloned `www-gitlab-com` on your local machine, and have navitaged to that directory*
-1) `git checkout release-X-Y`
-2) `git pull release x-y`
-3) `git pull origin master`
-4) `bin/release-post-assemble`
-5) `git push`
-
-
-The [release post assembly script](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/bin/validate-release-post-item) triggered via `bin/release-post-assemble` moves release post content blocks and their images to the current release directory and updates the paths to the images in the individual release post items. It uses a simple regexp to locate content files and images and performs no
-validation. In the future, it would be simple to combine the functionality with the linter to reduce the number of scripts to maintain.
-
-If for some reasons `bin/release-post-assemble` fails use the following steps to manually move content and push your changes. There is also a video walking through the changes [here](https://www.youtube.com/watch?v=SAtiSiSh_eA). 
-
-1) Verify you've completed steps 1-3 above
-2) Manually move all the `.yml` files from `/data/releases_posts/unreleased/` to `/data/release_posts/x_y/` (`x_y` being the release post directory e.g. `13_2`) | *note: leave the `/samples` directory in the same location, don't move it*
-3) Manually move all the images in `/source/images/unreleased/` to `/source/images/x_y/`
-4) Using a text editor like VS Code **find and replace** all the image paths under `image_url:` in each release post `.yml` file from `/unreleased/` to `/x_y/`. The video above demonstrates that.
-5) `git commit0` and `git push` and you should be good to go
-
+It uses a simple regexp to locate content files and images. It performs no validation. In the future, it would be simple to combine the functionality with the linter to reduce the number of scripts to maintain.###
 ### Release post merge request template
 
 The [release post MR template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab/merge_request_templates/Release-Post.md) is our checklist for every release. Let's keep it up-to-date! :)
