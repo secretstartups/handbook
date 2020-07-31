@@ -28,10 +28,10 @@ If you'd like to ask a longer term or larger scope question, propose an idea to 
 
 The following channels are where GitLab Support can be found on Slack and are the best places to reach us, depending on what you need.
 
-- [#support_gitlab-com](https://gitlab.slack.com/messages/C4XFU81LG/) - This channel is specifically for the GitLab.com support team. They handle GitLab.com account and subscription support along with GitHost. It should be used if you have a quick question about the GitLab.com Support Team, specifically.
+- [#support_gitlab-com](https://gitlab.slack.com/messages/C4XFU81LG/) - This channel is specifically for the GitLab.com support team. They handle GitLab.com related tickets. It should be used if you have a quick question about the GitLab.com Support Team specifically.
 - [#support_self-managed](https://gitlab.slack.com/messages/support_self-managed/) - This channel is specifically for the self-managed support team. They handle self-managed production issues, triage bugs, and self-managed emergencies, among other things.
-- [#githost](https://gitlab.slack.com/messages/githost/) - This channel handles monitoring for GitHost instances.
-- [#support_managers](https://gitlab.slack.com/messages/CBVAE1L48/) - This channel is specifically for support managers.
+- [#support_licensing-subscription](https://gitlab.slack.com/messages/support_licensing-subscription/) - This channel handles license and subscription issues.
+- [#support_managers](https://gitlab.slack.com/messages/CBVAE1L48/) - This channel is for support managers including escalations.
 - [#feed_zd-gitlab-com](https://gitlab.slack.com/messages/CADGU8CG1/) - Feed of all GitLab.com Zendesk ticket activities.
 - [#feed_zd-self-managed](https://gitlab.slack.com/messages/C1CKSUTL5/) - Feed of all self-managed Zendesk ticket activities.
 
@@ -65,7 +65,7 @@ You cannot send public replies to customers with a Light Agent account - if you 
 
 ### Regarding GitLab Support, Plans, and Namespaces
 
-| Request    | What To Do                                                 |
+| Request    | What To Do                                                   |
 | ---------- | ------------------------------------------------------------ |
 | Schedule Upgrade Assistance Call | [Open an issue](https://gitlab.com/gitlab-com/support/support-team-meta/issues/new?issuable_template=Upgrade%20Assistance%20Request) using the `Upgrade Assistance` template. |
 | Who is on-call for Self-Managed Support? | Run `/chatops run oncall support` in [#support_self-managed](https://gitlab.slack.com/messages/support_self-managed/) to find out. This will **not** page the on-call person. You can also run that command in a direct message to `GitLab Chatops`. |
@@ -75,7 +75,7 @@ You cannot send public replies to customers with a Light Agent account - if you 
 
 ### GitLab.com Namespaces
 
-| Request    | What To Do                                                 |
+| Request    | What To Do                                                   |
 | ---------- | ------------------------------------------------------------ |
 | Claim Inactive GitLab.com Namespace | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Dormant%20Namespace%20Request) using the `Inactive Namespace Request` template.
 
@@ -83,7 +83,7 @@ You cannot send public replies to customers with a Light Agent account - if you 
 
 > **NOTE**: Support will not start a trial. If one is needed, *have the user initiate a normal trial first*.
 
-| Request    | What To Do                                                 |
+| Request    | What To Do                                                   |
 | ---------- | ------------------------------------------------------------ |
 | Extend GitLab.com Trial | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=GitLab.com%20Trial%20Extension) using the `GitLab.com Trial Extension` template.
 | Extend Self-Managed Trial | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Self%20Managed%20Trial%20Extension) using the `Self Managed Trial Extension` template.
@@ -103,13 +103,6 @@ Please consider the following:
 | Send/Resend EULA | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=EULA) using the `EULA` template.
 | GitLab.com Billable Members List | Until [#27074](https://gitlab.com/gitlab-org/gitlab/-/issues/27074) or [#35454](https://gitlab.com/gitlab-org/gitlab/-/issues/35454) is implemented, [open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=billable%20members) using the `Billable Members` template. |
 | Assistance With License Issue (not covered above) | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=license%20issue) using the `License Issue` template.
-
-### Regarding Legal
-
-| Request    | What To Do                                                 |
-| ---------- | ------------------------------------------------------------ |
-| Log Preservation Request | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Information%20Request) using the `Information Request` template.
-| Submit DMCA Request | [Open an issue](https://gitlab.com/gitlab-com/gl-security/abuse/issues/new?issuable_template=dmca_meta_issue) using the `DMCA Meta Issue` template.
 
 ### Other
 
