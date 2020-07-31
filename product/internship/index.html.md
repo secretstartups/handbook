@@ -3,7 +3,7 @@ layout: handbook-page-toc
 title: Product Internship - Best Practices
 ---
 
-This document describes best practices for [interning for learning](/handbook/people-group/promotions-transfers/#internship-for-learning/) with Product.
+This document describes best practices for [internship for learning](/handbook/people-group/promotions-transfers/#internship-for-learning/) with Product.
 
 ## On this page
 
