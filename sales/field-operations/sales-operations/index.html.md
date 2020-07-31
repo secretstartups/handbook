@@ -169,6 +169,7 @@ Include a link to the list and description of the list load.
     * Save and Run and leave open as this can be refreshed during the data load 
     
 **Data Load Instructions**
+
 Important note before using data loader: Turn ZoomInfo Instant Enrich off while using the Data Loader. (Toggle off for Accounts,
 Contacts, and Leads, Verify and Save)
 
