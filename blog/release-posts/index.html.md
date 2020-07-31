@@ -563,19 +563,19 @@ remain reasonably consistent and that all links point to relevant content.
 
 _A technical writer, once assigned to the release post merge request, will check the syntax and the content structure._
 
-The checklist in the main release post merge request description will guide them through the structural check.
+The **Structural check** [checklist in the main release post merge request description](../../../../../../../.gitlab/merge_request_templates/Release-Post.md)
+will guide them through the structural check.
 
 Given that the technical writing review occurs in release post items'
 merge requests, the purpose of the structural check is:
 
 - Review the overall post for consistency. For example, if there's an entry that deprecates an item called `auth-server`, raise questions if there's also an entry that removes an item referred to as `auth_server`.
-- This should happen in the release post item review, but if possible, double-check product tiers and documentation links and updates.
 - Make sure the post renders well.
 - The content as a whole clearly describes the new features and feature improvements.
 - Check all the links work and are in place.
 - Check for syntax errors, typos and grammar mistakes, remove extra whitespace.
-- Significant features have an update added to `features.yml` and mentioned earlier than less impactful features.
 - Verify that the images look harmonic when scrolling through the page (for example, suppose that most of the images were screenshots taken of a large portion of the screen and one of them is super zoomed. This one should be ideally replaced with another that looks more like the rest of the images).
+- This should happen in the release post item review, but if there's time, double-check documentation links and product tiers.
 
 Pay special attention to the release post markdown file, which adds the introduction.
 Review the introduction briefly, but do not change the writing style nor the messaging;
@@ -587,25 +587,10 @@ the relative path.
 
 Until the 18th, at 8 am Pacific Time, the TW Lead should be able to make changes directly to the release post. After that time, anyone who wants to include a change in the upcoming release _may_ need to submit it in a separate MR, with a target of the `release-X-Y` branch. For more information, see our documentation ho how to [Develop on a feature branch](https://docs.gitlab.com/ee/topics/git/feature_branch_workflow.html).
 
-#### TW checklist
-
-- All new features in this release are in the release post.
-- All the entries are correct and not missing (especially links to the documentation or feature webpages when available).
-- Feature tier availability: all contain the [correct entry](#feature-availability).
-- All top and primary features are accompanied by their images or videos.
-- All secondary features with visible UI changes are accompanied by their images or videos (if available).
-- All new and/or primary features are added to [`data/features.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/features.md) _with a screenshot accompanying the feature_.
-  - All images are optimized according to the [image guidelines](#images) **and** smaller than 150KB.
-  - Keep in mind the [`features.yml`](https://about.gitlab.com/handbook/marketing/website/#adding-features-to-webpages) is the SSOT for displaying features across `about.gitlab.com`.
-- All features should include a value driver as defined in the [Messaging review](#messaging-review) section.
-
-If the [TW Lead](#tw-lead) identifies issues with the content when checking it for these items, they should at least inform the the responsible [TW reviewer](#tw-reviewer), as this can be useful feedback.
-Time permitting, the TW reviewer is more likely to create a better resolution.
-
 #### Release post top feature
 
 Pay close attention to the content of this item. As this will be the "headline" feature
-for the release, it's especially important "to get this right".
+for the release, it's especially important "to get this right."
 
 To identify the [Top feature](#top-feature), look for `top` directly beneath `features` in the RP `.yml` file:
 
@@ -614,7 +599,6 @@ features:
   top:
 ```
 
-Review the respective RP `.yml` file for at least the contents of the [checklist](#tw-checklist).
 Each [TW reviewer](#tw-reviewers) retains prime responsibility for each RP, [Deprecations](#deprecations), [Removals](#removals), and [Upgrades](#upgrades).
 
 #### Release post primary features
@@ -629,8 +613,6 @@ features:
   primary:
 ```
 
-Review the respective RP `.yml` file for at least the contents of the [checklist](#tw-lead-checklist).
-
 #### Release post secondary features
 
 All release post [Secondary features](#secondary-features-other-improvements) should already have been reviewed by the [TW reviewer](#tw-reviewers).
@@ -643,8 +625,6 @@ features:
   secondary:
 ```
 
-Review the respective RP `.yml` file for at least the contents of the [checklist](#tw-lead-checklist).
-
 Images or videos are not required for secondary features.
 
 #### Frontmatter
@@ -653,9 +633,6 @@ In its [frontmatter](#frontmatter):
 
 - Look for each entry as shown on the code block below.
 - Remove any remaining HTML comments and unused blocks to clean up the file.
-- To prevent the page to break due to special chars:
-  - Wrap text with double quotes.
-  - Wrap paths with single quotes.
 - Make sure that `title` is no longer than 62 characters, to ensure it presents well against the blog post's title graphic.
 
 ```yaml
