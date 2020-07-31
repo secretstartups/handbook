@@ -44,7 +44,7 @@ A detailed process on the selling of Professional Services can be found [here](h
 The sale process of an Off-the-Shelf SKU is on lines of a License, however the same for a Custom SKU includes multiple teams at different stages:
 
 
-## Professional Services Matrics:
+## Professional Services Metrics:
 
 **Targets:**
 
