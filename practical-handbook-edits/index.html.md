@@ -199,4 +199,3 @@ To cut it down:
 - The replacement is `https://gitlab.com/gitlab-com/marketing/corporate-marketing` with `https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing`
 - Verify the changes with `git status` and `git diff` before committing them
 - Commit, push and create the MR from the URL
->>>>>>> source/handbook/practical-handbook-edits/index.html.md
