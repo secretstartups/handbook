@@ -97,11 +97,13 @@ the "Last pipeline" column.
 In the pipeline view click a job under the "Gitlab_com:package" column. The SHAs for GitLab Components
 are listed towards the end of the logs. The GitLab commit SHA is displayed as a value of `gitlab-rails`.
 
-## Configure vscode for gitlab-qa debugging
+## Configure VS Code for gitlab-qa debugging
 
-`gitlab-qa` e2e specs can be debugged against your local GDK with `Vscode` with the following `launch.json`
+The [Ruby VS Code extension](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby) adds a few Ruby-related capabilities to VS Code, including the ability to debug Ruby code.
 
-```
+After you install the extension you can use VS Code to debug end-to-end specs running against your local GDK. You will need to add a Run configuration to `launch.json`. For example, the following `launch.json` will add a configuration named `Debug Test::Instance::All current file` to the list in the Run view of your Sidebar. Then, with a spec file open in the editor you can start debugging (F5) and VS Code will run the tests in the spec file.
+
+```json
 {
   "version": "0.2.0",
   "configurations": [
@@ -110,42 +112,47 @@ are listed towards the end of the logs. The GitLab commit SHA is displayed as a 
       "type": "Ruby",
       "request": "launch",
       "useBundler": true,
-      "pathToBundler": <path_to_bundler>,
+      "pathToBundler": "<path_to_bundler>",
       "cwd": "${workspaceRoot}/qa",
       "program": "${workspaceRoot}/qa/bin/qa",
       "env": {
-        "CHROME_HEADLESS": "0",
-        "QA_DEBUG": "1",
-        "GITLAB_QA_ACCESS_TOKEN": "secret", //ee
-        "GITLAB_QA_ADMIN_ACCESS_TOKEN": "secret", //ee
-        // "CI": "true",
-        // "QA_CAN_TEST_ADMIN_FEATURES": "false",
-        // "QA_DISABLE_RSPEC_RETRY": "true",
-        // "QA_SIMULATE_SLOW_CONNECTION": "true",
-        // "QA_SLOW_CONNECTION_LATENCY_MS": "1000",
-        // "QA_SLOW_CONNECTION_THROUGHPUT_KBPS": "64",
-        // "GITLAB_QA_LOOP_RUNNER_MINUTES": "600",
+        "CHROME_HEADLESS": "false",
+        "QA_DEBUG": "true"
       },
       "args": [
           "Test::Instance::All",
-          "http://192.168.20.9:3000",
-          // "https://gitlab.com",
-          // "http://gitlab.test",
-          // "http://0.0.0.0:32778",
-          // "--enable-feature", "gitaly_enforce_requests_limits",
-          // "--loop",
+          "http://localhost:3000",
           "--",
-          "${file}",
-          // "qa/specs/features/api/3_create/repository/praefect_replication_queue_spec.rb",
-          // "--tag", "orchestrated",
-          // "--tag", "quarantine",
-          // "--tag", "instance_saml",
-          // "--tag", "focus"
-          // "--order", "defined",
-          // "--seed", "3"
-          // "--fail-fast",
+          "${file}"
       ]
     }
+  ]
+}
+```
+
+You can include multiple configurations, and any environment variables or command line options can be included. For example, here's one that will debug smoke tests while running them on Staging:
+
+```json
+{
+  "name": "Debug Staging Smoke tests",
+  "type": "Ruby",
+  "request": "launch",
+  "useBundler": true,
+  "pathToBundler": "<path_to_bundler>",
+  "cwd": "${workspaceRoot}/qa",
+  "program": "${workspaceRoot}/qa/bin/qa",
+  "env": {
+    "CHROME_HEADLESS": "false",
+    "QA_DEBUG": "true",
+    "GITLAB_USERNAME": "gitlab-qa",
+    "GITLAB_PASSWORD": "from 1Password",
+    "GITLAB_QA_ACCESS_TOKEN": "from 1Password"
+  },
+  "args": [
+      "Test::Instance::All",
+      "https://staging.gitlab.com",
+      "--",
+      "--tag", "smoke"
   ]
 }
 ```
