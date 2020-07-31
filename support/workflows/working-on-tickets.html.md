@@ -21,7 +21,7 @@ Benefits of working on tickets assigned to yourself:
 1.  With one person in charge of each ticket, you can take a consistent approach to resolving the problem, you can explain why and what you're doing, and you won't repeat or contradict an action taken by somebody else on the ticket. This is a much better experience for the user.
 1.  Knowing that you're in charge of a ticket gives you freedom to set and manage user expectations at each step along the way, so the user will know what's going on and who's working on their behalf. Again, this is a user experience enhancement.
 
-When you're "Working on Tickets", you're driving achievement of our KPI of [Support Satisfaction](/handbook/support/#support-satisfaction-ssat) by helping to resolve tickets as quickly and effectively as possible.
+When you're "Working on Tickets", you're driving achievement of our KPI of [Support Satisfaction](/handbook/support/performance-indicators/#support-satisfaction-ssat) by helping to resolve tickets as quickly and effectively as possible.
 
 ### The Process in Action
 
@@ -121,9 +121,9 @@ See the [Working on Tickets Flowchart](#working-on-tickets-flowchart) for a visu
    replies or ticket summary.
 1. **If I can provide a good response on a new (unassigned) ticket, but I don't
    want to assign to myself, may I?** Every response should be part of a ticket
-   that is assigned to somebody. If the ticket is unassigned (new), please 
-   assign it to yourself and then send your first response to the ticket 
-   requester. And remember, you have a whole team ready to help you drive that 
+   that is assigned to somebody. If the ticket is unassigned (new), please
+   assign it to yourself and then send your first response to the ticket
+   requester. And remember, you have a whole team ready to help you drive that
    ticket to a great resolution, so you're never alone.
 1. **I'm going to be absent, what do I do with my assigned tickets?** If you'll
    be absent for only a day or two, please ask your users whether they want to
@@ -145,7 +145,7 @@ See the [Working on Tickets Flowchart](#working-on-tickets-flowchart) for a visu
     1. Paste or write in the relevant text for the new ticket description
     1. Set the correct ticket form and other meta data from the sidebar
     1. Submit as 'New' if the next action is for GitLab or as 'Pending' if the next action is for the user
-    1. Add a reply on the original ticket, letting the user know that you've split their ticket. (You could also add an internal note with a link to the new ticket you created if that seems helpful.) 
+    1. Add a reply on the original ticket, letting the user know that you've split their ticket. (You could also add an internal note with a link to the new ticket you created if that seems helpful.)
 1. **Can I reassign a ticket to someone else?** There are some situations in which you should look to reassign a ticket:
    1. If you'll be absent, see the FAQ above about reassigning tickets when you'll be absent.
    1. If you've determined that specific expertise outside your own is required to resolve the ticket, your first choice should be to pair with an expert so that you can get the ticket resolved and learn in the process. But if pairing is not reasonable, go ahead and reassign the ticket after discussing it with the other support engineer.  Be sure to send a message to the user informing them that you’ve asked another support engineer with relevant expertise to take over the ticket, and that you’ve reviewed the ticket with that engineer.
@@ -401,7 +401,7 @@ others with making progress on theirs.
 
 ### Aim
 
-Help encourage an even distribution of 'volume' of ticket work amongst the team. 
+Help encourage an even distribution of 'volume' of ticket work amongst the team.
 
 ### How to do it
 
@@ -411,7 +411,7 @@ That's it! For most people that's all you need to do. Once you've completed onbo
 
 ### Context
 
-Each week we publish the 'mean average per Support Engineer' for solved tickets, public replies and internal notes in the Support Week in Review. 
+Each week we publish the 'mean average per Support Engineer' for solved tickets, public replies and internal notes in the Support Week in Review.
 
 We produce separate reports for [self-managed](https://gitlab.zendesk.com/explore#/pivot-table/connection/10438872/query/31477512) and [.com](https://gitlab.zendesk.com/explore#/pivot-table/connection/10438872/query/31478192) tickets in recognition that the volume of tickets for the two roles is different.
 

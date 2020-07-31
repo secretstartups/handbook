@@ -62,7 +62,7 @@ the wider GitLab organization. For example, the Sales department can rely on
 our docs to answer customer queries instead of leaning on Support or Customer
 Success for help, freeing up more time to close sales.
 
-### How we measure our performance 
+### How we measure our performance
 
 We use [Key Performance Indicators](/handbook/support/performance-indicators/) (KPIs) to keep track of how well each Engineering Department is doing, including the Support team, as a whole.
 
@@ -170,7 +170,7 @@ Here are our most important modes of communication:
   * [Meta issue tracker](https://gitlab.com/gitlab-com/support/support-team-meta/issues/) for any issues regarding workflows,
     general team suggestions, tasks or projects related to support, etc.
 
-Where we want to ensure that important messages are passed to the global support team, we will use this [messaging template](https://gitlab.com/gitlab-com/support/managers/leadership-sync/-/blob/master/.gitlab/issue_templates/support-message-plan.md). This ensures that these messages are delivered across our communications channels in a structured and documented manner. 
+Where we want to ensure that important messages are passed to the global support team, we will use this [messaging template](https://gitlab.com/gitlab-com/support/managers/leadership-sync/-/blob/master/.gitlab/issue_templates/support-message-plan.md). This ensures that these messages are delivered across our communications channels in a structured and documented manner.
 
 ### GitLab.com
 
@@ -344,7 +344,7 @@ How do we align Support Team people to the product?
 
 Support Stable Counterparts, briefly, will:
 - Subscribe to the pertinent trackers / labels to be aware of new issues.
-- Be especially aware of S1/S2 issues in their areas of the product, including workarounds. 
+- Be especially aware of S1/S2 issues in their areas of the product, including workarounds.
 - Surface issues likely to generate tickets to the wider team.
 - Attend product meetings in order to understand the priorities/challenges/upcoming features of the product group.
 - Be aware of the issues raised by customers pertinent to their category, surfacing and advocating for them.
@@ -442,12 +442,12 @@ At GitLab, the Support Team currently manages 2 different [Zendesk Instances](/h
 - GitLab Support Instance:  [gitlab.zendesk.com](https://gitlab.zendesk.com)
 - GitLab US Federal Support Instance: [gitlab-federal-support.zendesk.com](https://gitlab-federal-support.zendesk.com)
 
-The customer URL for the Federal Support Instance is [federal-support.gitlab.com](https://federal-support.gitlab.com) which is a CNAME for [gitlab-federal-support.zendesk.com](https://gitlab-federal-support.zendesk.com) 
+The customer URL for the Federal Support Instance is [federal-support.gitlab.com](https://federal-support.gitlab.com) which is a CNAME for [gitlab-federal-support.zendesk.com](https://gitlab-federal-support.zendesk.com)
 
 All our Support Engineers have access to the GitLab Support Instance, whereas only Support Engineers who are US Citizens have access to the GitLab US Federal Support Instance.
 
 ### Ticketing Style Guide
-A collection of best practices and suggestions for [styling and responding to Zendesk tickets](/handbook/support/workflows/ticketing_style_guide.html).
+A collection of best practices and suggestions for [styling and responding to Zendesk tickets](/handbook/support/workflows/how-to-respond-to-tickets.html).
 
 ### Time Off
 The Support Team follows [GitLab's paid time off policy](/handbook/paid-time-off). However, do note that if a large number of people are taking the same days off, you may be asked to reschedule. If a holiday is important to you, please schedule it early.
@@ -484,7 +484,7 @@ If you need to go for a run, grab a coffee or take a brain break please do so wi
 
 ### Onboarding
 
-*See the [Support Onboarding page](/handbook/support/onboarding)*
+*See the [Support Onboarding page](/handbook/support/training)*
 
 ### What if I Feel Threatened or Harassed While Handling a Support Request?
 Just as Support Team are expected to adhere to the Code of Conduct, we also expect customers to treat the Support Team
@@ -535,7 +535,7 @@ Below are the most common commands, the [bot's repo](https://gitlab.com/gitlab-c
 ``` rb
 sb p # All queues
 sb sm # Self-Managed queues
-sb s # GitLab.com queues       
+sb s # GitLab.com queues
 ```
 
 ## <i class="fas fa-book fa-fw icon-color font-awesome" aria-hidden="true"></i> Support Resources

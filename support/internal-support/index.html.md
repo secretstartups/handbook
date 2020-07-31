@@ -65,7 +65,7 @@ You cannot send public replies to customers with a Light Agent account - if you 
 
 ### Regarding GitLab.com and Self-Managed
 
->**IMPORTANT TRIAL NOTE**: It's not yet officially recommended for support to start a trial on a namespace. If one is needed, *have the user initiate a normal Gold trial first*. 
+>**IMPORTANT TRIAL NOTE**: It's not yet officially recommended for support to start a trial on a namespace. If one is needed, *have the user initiate a normal Gold trial first*.
 If a Silver or Bronze trial plan are needed  [open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Plan%20Change%20Request) using the `Plan Change Request` template to have the plan downgraded to Bronze or Silver.
 
 | Request      | What To Do                                                 |
@@ -74,7 +74,7 @@ If a Silver or Bronze trial plan are needed  [open an issue](https://gitlab.com/
 | Extend Self-Managed Trial | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Self%20Managed%20Trial%20Extension) using the `Self Managed Trial Extension` template.
 | Grant Bronze or Silver Trial | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Plan%20Change%20Request) using the `Plan Change Request` template.
 | Change Plan of a GitLab.com Namespace | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Plan%20Change%20Request) using the `Plan Change Request` template.
-| Claim Dormant GitLab.com Namespace | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Dormant%20Namespace%20Request) using the `Dormant Namespace Request` template.
+| Claim Inactive GitLab.com Namespace | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Dormant%20Namespace%20Request) using the `Dormant Namespace Request` template.
 | Request Pipeline Minutes Reset | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Pipeline%20Quota%20Reset%20Request) using the `Pipeline Quota Reset Request` template.
 
 Grace period extensions are also treated similarly to trial extensions. To request these for either self-managed or GitLab.com, create a trial extension issue and update the title accordingly to indicate that it is an existing customer.

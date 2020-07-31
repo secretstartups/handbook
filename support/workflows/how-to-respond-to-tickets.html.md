@@ -16,7 +16,7 @@ category: Handling tickets
 
 We aim to hire smart people, and let them be smart. This means we try to offer sensible guidelines that will help, but avoid “scripts” or rigidity. Speak in your natural voice as you would to a peer at a conference. Obviously avoid unprofessional language, but you’ll want to match the customer’s tone. There is often a desire to “unify” by everyone speaking in a robotic tone:
 
-> “Thank you for contacting support. We can help you with this. It looks like you are asking for help with resetting your password…” 
+> “Thank you for contacting support. We can help you with this. It looks like you are asking for help with resetting your password…”
 
 This dehumanizes us and we lose our best asset: _Support from a human._ When you speak more naturally it anchors that we are also real people and not “support minds as a service:”
 
@@ -28,12 +28,12 @@ This dehumanizes us and we lose our best asset: _Support from a human._ When you
 
 ### We Aren’t a Cannery (but we sometimes use canned goods)
 
-At GitLab, we consider the elements of our responses carefully. If you find yourself 
-wanting to use canned responses, or are saying the same things over and over, it's 
-probably an opportunity to improve our process. That is, instead of creating a text 
-expander asking for logs, take a step back. Is there something earlier in the 
+At GitLab, we consider the elements of our responses carefully. If you find yourself
+wanting to use canned responses, or are saying the same things over and over, it's
+probably an opportunity to improve our process. That is, instead of creating a text
+expander asking for logs, take a step back. Is there something earlier in the
 experience of opening a support ticket that we could do to reduce the need for repetitive text?
-There are times when it's appropriate to use formal language and canned replies, 
+There are times when it's appropriate to use formal language and canned replies,
 but those will be rare. Whenever we can we push towards empathy and humanity and automate and preload the process.
 
 Consider this spectrum:
@@ -45,12 +45,12 @@ Robotic Support Voice    |--------------------|----------------------|  Empathy 
 Tone is -- ^
 ```
 
-Be empowered: at GitLab Support we want humans with agency, not agents. If something feels broken, ask. 
+Be empowered: at GitLab Support we want humans with agency, not agents. If something feels broken, ask.
 If something feels inefficient, fix it. Everyone can _and should_ contribute.
 
 ### The Sandwich Method
-When it comes to actually answering tickets, the sandwich method is a great 3 point 
-guideline that will help you elevate your responses. A great customer reply will 
+When it comes to actually answering tickets, the sandwich method is a great 3 point
+guideline that will help you elevate your responses. A great customer reply will
 contain the following 3 things:
 
 - What you need from them.
@@ -68,20 +68,20 @@ An _okay_ response is:
 Notice we asked for what we needed, and we’ll be able to help. Let’s make it great using the sandwich method:
 
 > “It will be helpful to get as many logs as possible during the slowness to help us isolate the problem. You can find them in /var/log/gitlab (This is our ask)
-> 
+>
 > Usually when we see slowness, it’s isolated to a specific part of the application. Can you help us narrow down the issue by outlining when you see things slow down? (This is our premise for them to reinforce our expertise.)
-> 
+>
 > Once you send these over and help us understand how you are getting to the slow state we’ll be happy to help you dive in some more.” (This is us reassuring them we’ll help.)
 
 We’ve asked for what we need early. Hit them with it, so they can start thinking
-on it and if they stop reading right there, they didn’t miss the ask. We’ve given 
-a hypothesis which is something for them to chew on and understand our vantage. 
-We don’t want to _serve_ our customers we want to _partner_ with them. This is 
+on it and if they stop reading right there, they didn’t miss the ask. We’ve given
+a hypothesis which is something for them to chew on and understand our vantage.
+We don’t want to _serve_ our customers we want to _partner_ with them. This is
 one way for them to see us as a peer vs. “support minds as a service.”
 
-We then make sure to let them know _we are still here_ and will be when they come back. 
+We then make sure to let them know _we are still here_ and will be when they come back.
 
-There will be times where you might need to add more or even apologize for something, 
+There will be times where you might need to add more or even apologize for something,
 but this method should be applicable to the majority of tickets and help us deliver excellence.
 
 ### Two modes of operation: the Characterization Mode and the Hypothesis testing mode
@@ -98,7 +98,7 @@ We can be transparent that we're working to characterize the user's issue. When 
 * How the user thinks the system should behave
 * State and context information that might be influencing the behavior we are seeing
 
-The second mode of operation is the Hypothesis Testing mode. This is the creative step where we can behave like scientists and theorize about what might be going on the user's side. 
+The second mode of operation is the Hypothesis Testing mode. This is the creative step where we can behave like scientists and theorize about what might be going on the user's side.
 
 We also can be transparent that we're in the hypothesis testing mode. When doing so, we can clarify:
 
@@ -131,7 +131,7 @@ In essence, at the end of every ticket, there should be a link to documentation,
 
 #### Excellent Product
 Having an excellent product is the first line of deflection - a product that is free of defects
-and works as expected will reduce the number of support cases organically. 
+and works as expected will reduce the number of support cases organically.
 
 Support plays a vital role in surfacing issues that our users encounter while using GitLab
 by:
@@ -143,7 +143,7 @@ by:
 
 #### Statement of Support
 The [Statement of Support](/support/statement-of-support.html) describes the areas covered by Support and the areas
-we can't promise to cover. This is a tool to set expecations for customers as well as to help the 
+we can't promise to cover. This is a tool to set expecations for customers as well as to help the
 support team to make sure we're supporting what we're experts in. You can read more about the
 philosophy behind it in [the blog post where we introduced the Statement of Support](/blog/2018/12/20/introducing-our-statement-of-support/).
 
@@ -154,7 +154,7 @@ As a member of the Support Team at GitLab you should be:
 - cognizant of when you're intentionally going out of scope and conscious of articulating to the customer that you're doing so "as a courtesy"
 
 #### Documentation
-By using a [docs-first](/handbook/documentation/#docs-first-methodology) approach to answering, we can ensure that the documentation remains a highly useful [single source of truth](/handbook/documentation/#documentation-as-single-source-of-truth-ssot), and that customers are more aware of where to find content on their own.
+By using a [docs-first](https://docs.gitlab.com/ee/development/documentation/styleguide.html#docs-first-methodology) approach to answering, we can ensure that the documentation remains a highly useful [single source of truth](https://docs.gitlab.com/ee/development/documentation/styleguide.html#documentation-is-the-single-source-of-truth-ssot), and that customers are more aware of where to find content on their own.
 
 **Always respond with a link to the docs. If docs content is missing, create it and link the customer to the MR. If you are working on a ticket that is about to breach, you can clear the breach with a response, and immediately follow up with the MR. Remember: go slow, to go fast.**
 
