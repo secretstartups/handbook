@@ -171,6 +171,8 @@ Where error budget points are incurred, a member of the Editorial team will appl
 
 It is not currently possible to prepare a confidential blog post without forking the www-gitlab-com project. We avoid this because forking is not straightforward for all contributors and it doesn't allow us to use review apps to preview the post before publishing. Please see below [Creating MRs for confidential issues](#creating-mrs-for-confidential-issues). 
 
+In exceptional circumstances, we can prepare a confidential MR in a private repository. Please leave a comment on your blog post issue to note that this is necessary, and see [The Private handbook](/handbook/handbook-usage/#the-private-handbook) for further instructions. 
+
 ## Third-party posts
 We will promote anyone integrating with GitLab, even if we compete with them. It is very important to demonstrate to our customers that we do not lock them in.
 
