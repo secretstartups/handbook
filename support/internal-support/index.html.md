@@ -127,7 +127,7 @@ GitLab Support targets a 95% SLA acheievement KPI. This means that some tickets 
 
         ![alt text](images/workflow_menu.png "Start Workflow") 
         
-     * Complete the information request on the form and click on `Submit`
+     * Complete the information requested on the form and click on `Submit`
         ![alt text](images/form.png "Escalation Form")
 
      * After clicking `submit` the workflow will be sent and automatically tag the support managers. You will also receive a private message with a confirmation.    
