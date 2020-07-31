@@ -132,7 +132,7 @@ GitLab Support targets a 95% SLA acheievement KPI. This means that some tickets 
 
      * After clicking `submit` the workflow will be sent and automatically tag the support managers. You will also receive a private message with a confirmation.    
 
-     * All fields are requiered.
+     * All fields are required.
      
 1. Understand that we'll do our best to prioritize appropriately taking into account all of the tickets in the queues - there may be more pressing items.
 
