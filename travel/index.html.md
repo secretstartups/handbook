@@ -31,7 +31,7 @@ accommodation expenses. Contractors should take a screenshot of a hotel search f
 
 ## Booking travel and lodging<a name="TripActions"></a>
 
-Before booking any flights please ensure that you have the proper [visas](/handbook/people-group/visas/#arranging-a-visa-for-travel-) in place.
+Before booking any flights please ensure that you have the proper [visas](/handbook/people-group/visas/#arranging-a-visa-for-travel) in place.
 
 When your accommodation booking is confirmed, you may want to communicate the dates and address with your manager.
 
