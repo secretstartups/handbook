@@ -57,7 +57,7 @@ Start the conversation by explaining the purpose of the meeting and why it’s i
 - Let's follow up in one week and prepare items we can work on to improve your experience at GitLab.
 
 4. **Other scenarios**
-- If you have a scenario different from the above, and/or you need help with messaging, please work with your manager or [People Business Partner](/handbook/people-group/how-to-reach-us/).
+- If you have a scenario different from the above, and/or you need help with messaging, please work with your manager or [People Business Partner](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group).
 
 ### Closing
 To close the Engagement Check-In, summarize the key points discussed, and work with the team member to develop an engagement plan (if applicable). Be sure to end on a positive note. An example is below.
@@ -65,7 +65,7 @@ To close the Engagement Check-In, summarize the key points discussed, and work w
 > "Let me summarize what I heard you say about the reasons you stay at GitLab, as well as reasons you might leave. Then, let’s develop a plan to make this a great place for you to work.
 I appreciate you sharing your thoughts with me today. I am committed to doing what I can to make this a great place for you to work."
 
-If, during the Engagement Check-In, issues arise around health, performance, compensation, etc. and you need assistance, please work directly with your manager or your [People Business Partner](/handbook/people-group/how-to-reach-us/).
+If, during the Engagement Check-In, issues arise around health, performance, compensation, etc. and you need assistance, please work directly with your manager or your [People Business Partner](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group).
 
 ## Follow Up
 After the call has closed, capture some notes about what was discussed and share with the team member to ensure you heard their feedback correctly. It is important to do this for all team members - even if they had positive feedback about their engagement level. 
