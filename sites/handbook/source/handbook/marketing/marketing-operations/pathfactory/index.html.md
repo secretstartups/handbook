@@ -399,7 +399,7 @@ All changes to the content in an explore page has to be done in the base content
 
 **Can I create a custom hero for a header on my page?**
 
-Yes!  You can add a custom hero image by navigating to `Appearances Configuration` and selecting the appearance you would like to modify.  Then click on the `Explore` tab and select `cover image` for Hero layout and upoad your custom image under `Hero Image`.  Make sure you click save on both the explore image upload and then again to save the appearance edits you have made.  (recommended size for a hero image is 1600x500)
+Yes! You can add a custom hero image by navigating to `Appearances Configuration` and selecting the appearance you would like to modify. Then click on the `Explore` tab and select `cover image` for Hero layout and upoad your custom image under `Hero Image`.  Make sure you click `save` on both the explore image upload and then again to save the appearance edits you have made (recommended size for a hero image is 1600x500).
 
 ## Appearances
 
@@ -521,6 +521,7 @@ This process is for new assets in PathFactory that **have not** already been dis
 1.  From the dropdown, select `Create New` (this will create the synced campaign in Salesforce)
 
 **Update Marketo Smart Campaign**
+
 1.  Expand the Marketo program and select `PF - Listening (Triggered)`.
 1.  In the `Smart List`, add the URL slug you created in the PathFactory content library for your asset within the brackets `[ ]`.
 1.  In the `Smart List`, add the URL of your landing page to the "not filled out form" filter to make sure you don't create a second touchpoint (a duplicate of the form fill action) upon form fill of your asset.
@@ -539,7 +540,6 @@ This process is for new assets in PathFactory that **have not** already been dis
 1.  Under Bizible attribution, select `Include only "Responded" Campaign Members` next to `Enable Bizible Touchpoints`.
 1.  Mark the Status as `In Progress`.
 1.  Click `Save`.
-
 
 Assets needing a listening campaign should following the above naming conventions. If an asset type is not represented in a Marketo listening campaign folder, please create an issue in the marketing operations project and assign it to `@sdaily`.
 
