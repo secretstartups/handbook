@@ -14,7 +14,7 @@ category: GitLab.com
 
 Using the customer console for internal requests is only for specials cases where the existing tools won't allow us to complete the task at hand.
 
-Console access requires a completed [Access Request](https://gitlab.com/gitlab-com/access-requests/issues/new?issuable_template=Single%20Person%20Access%20Request) as outlined in the [Console Bootcamp](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=Bootcamp%20-%20GitLab.com%20Console) and its completion.
+Console access requires a completed [Access Request](https://gitlab.com/gitlab-com/access-requests/issues/new?issuable_template=Single%20Person%20Access%20Request) as outlined in the [Customers Console training](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Bootcamp%20-%20Customers%20Console.md) and its completion.
 
 The scope of what's outlined in this workflow is for frequently used functions which are pre-loaded via [console training wheels project](https://gitlab.com/gitlab-com/support/toolbox/console-training-wheels). Please [check the internal dotcom wiki](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/Console-related) for functions not included here.
 
@@ -109,7 +109,7 @@ trial                             true
 
 ### find_namespace
 
-Find namespaces similar to the given string 
+Find namespaces similar to the given string
 
 #### Parameters
 
@@ -132,7 +132,7 @@ irb(main):421:0> find_namespace('test')
 
 ### **change_plan**
 
-This function will change the plan for a customer with an active trial and output the namespace information after completing the change.
+This function will change the plan for a customer with an active or expired trial and output the namespace information after completing the change.
 
 A third optional parameter `date` can be added with format 'YYYY-MM-DD' (using the quotes), if this parameters exists the trial will be extended up to that date, otherwise no changes will be done to it.
 
