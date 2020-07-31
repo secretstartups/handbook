@@ -29,7 +29,8 @@ Our team is structured as business partners to the rest of Marketing - see focus
 ## Important Resources
 - [Marketing Metrics](/handbook/marketing/marketing-operations/marketing-metrics)
 - [Marketing Owned Provisioning Instructions](/handbook/marketing/marketing-operations/marketing-owned-provisioning)
-- [List Imports](/handbook/marketing/marketing-operations/list-import)
+
+## [List Imports](/handbook/marketing/marketing-operations/list-import)
 
 ## Tech Stack  
 
