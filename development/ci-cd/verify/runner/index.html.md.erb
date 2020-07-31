@@ -202,6 +202,75 @@ to review and discuss issues on the board. Especially if the product manager nee
 items in `~workflow::start`. There shouldn't be uncertainties regarding the priorities
 for the week ahead at the end of the meeting.
 
+## Regression Error Budget Process
+
+Each quarter we have an error budget of how many regression the release
+can cause.
+
+Following the point system, each quarter we have we have 100 points.
+Each type of regression has a
+[priority/severity](../../../../quality/issue-triage/#priority), which
+every priority has a certain point associated to it, the higher the
+priority the more points:
+
+- `~P1`: 70
+- `~P2`: 30
+- `~P3`: 15
+- `~P4`: 5
+
+Every beginning of the quarter the error budget is set to 100 again.
+
+### Goals
+
+- Provide an incentive to balance reliability with other features.
+- Provide confidence to customers that we are don't release regressions
+  for each release.
+- Make sure that the team is accountable.
+- Make sure the team is acting to make the product more resilient.
+- Give the team permission to focus on reliability when data indicates
+  that reliability is more important than other product features.
+
+### Non-Goals
+
+- This process is not intended to serve as a punishment.
+- This process is not intended to serve as a punishment for adding
+  regressions.
+- This process is not intended to slow us down from shipping features,
+  but actually speed it up in the long-run.
+
+### Exceeding Error Budget
+
+Each regression should have a retrospective item with corrective actions
+to prevent any similar regression from happening again. These issues
+should be labeled with `~"corrective action"`.
+
+While Google's original paper advocates for stopping all feature work
+and focusing the team only on reliability improvements for the quarter,
+we have taken a more minimal first step: exceeding our error budget will
+only be a callout for our Product Manager to immediately prioritise
+corrective actions identified during the retrospective. Other feature
+work by team members not assigned to those corrective actions can
+proceed normally.
+
+### History
+
+Below is the history of each quarter, and should be filled with the
+following template:
+
+```
+- Regressions:
+    - Issue
+        - Retrospective Issue
+        - Corrective Action Issues
+- Final Error budget: 30
+```
+
+### Background
+
+This was inspired by the [Google Error
+budget](https://landing.google.com/sre/workbook/chapters/error-budget-policy/).
+It's used to balance reliability and new features.
+
 ## How to work with us
 
 ### On issues
