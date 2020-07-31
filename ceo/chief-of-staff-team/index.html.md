@@ -22,7 +22,6 @@ description: "GitLab CoS Team Handbook"
 * CoS = Chief of Staff
 * CoST = Chief of Staff Team
 * [Project](https://gitlab.com/gitlab-com/cos-team/)
-* [Emilie Schario's README](/handbook/ceo/chief-of-staff-team/readmes/emilie/)
 
 ## Contact Us
 * [chief-of-staff-team](https://gitlab.slack.com/archives/CN7MPDZF0/p1568035351000200) on Slack
