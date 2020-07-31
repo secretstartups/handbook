@@ -65,7 +65,7 @@ For example, we should have one SSoT for how to articulate the value of GitLab.
 ## Content
 
 1. Content is in the relevant section of our handbook (with embedded videos and pictures)
-1. Knowledge assessments are created in Google Forms (via Zapier [you get a certification](/handbook/people-group/learning-and-development/certifications/#how-to-create-a-certification))
+1. Knowledge assessments are created in Google Forms (via Zapier [you get a certificate](/handbook/people-group/learning-and-development/certifications/#how-to-create-a-knowledge-assessment))
 1. The [leadership forum](/handbook/people-group/learning-and-development/leadership-forum/) is organized by L&D
 
 ## Structure
