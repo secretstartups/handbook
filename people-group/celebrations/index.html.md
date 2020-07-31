@@ -20,7 +20,7 @@ Once per week, GitLab team-members with a hire-date anniversary will get a post 
 Directions on how to order your gift will be sent via email on the last day of the month of your anniversary. If you have not received your anniversary gift within 8 weeks (please consider global shipping) of your anniversary, please email people-exp@gitlab, so they can follow up.
 
 Work Anniversary Gifts are as follows:
-* Year 1:  GitLab Socks
+* Year 1:  Possible awesome GitLab Socks (this is still in draft/ approval process)
 * Year 3:  GitLab Hoodie/Jacket 
 * Year 5:  GitLab Travel Bag/ Backpack
 * Year 10: $500 Travel Grant/ Airbnb Gift Card
