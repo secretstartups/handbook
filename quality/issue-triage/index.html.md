@@ -67,7 +67,7 @@ This label indicates the planned timeline & urgency which is used to measure aga
 
 | Label | Meaning         | Target SLO (currently only applies to `~bug` and `~security` defects)      | Target SLO (`~corrective action`) |
 |-------|-----------------|----------------------------------------------------------------------------|-----------------------------------|
-| `~S1` | Urgent Severity | The current release + potentially immediate hotfix to GitLab.com (30 days) | 1 week                            |
+| `~S1` | Urgent Severity | The current release + next available deployment to GitLab.com (within 30 days) | 1 week                            |
 | `~S2` | High Severity   | The next release (60 days)                                                 | 30 days                           |
 | `~S3` | Medium Severity | Within the next 3 releases (approx one quarter or 90 days)                 | 60 days                           |
 | `~S4` | Low Severity    | Anything outside the next 3 releases (more than one quarter or 120 days)   | 90 days                           |
