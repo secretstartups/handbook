@@ -120,7 +120,7 @@ GitLab Support targets a 95% SLA acheievement KPI. This means that some tickets 
 
 1. From the #support_managers channel a slack ticket escalation workflow can be initiated by following the steps below:
 
-    * While on the `#support_managers`, click on the small `thunder` icon as show in the image. 
+    * While on the `#support_managers`, click on the small `lightning` icon as shown in the image. 
         ![alt text](images/slack_workflow_escalation.png "Start Workflow")
 
     * Click on `Ticket Escalation`
