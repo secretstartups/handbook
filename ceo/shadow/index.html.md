@@ -193,8 +193,8 @@ Exceptional community members may be able to participate, as well.
 | 2020-08-10 | 2020-08-14 | [Amy Brandenburg](https://gitlab.com/abrandenburg) - Technology Alliances Manager | [Tim Rizzi](https://gitlab.com/trizzi) - Sr. Product Manager, Package |
 | 2020-08-17 | 2020-08-21 | [Sam White](https://gitlab.com/sam.white) - Sr. Product Manager, Defend | [Amy Brandenburg](https://gitlab.com/abrandenburg) - Technology Alliances Manager |
 | 2020-08-24 | 2020-08-28 | [Mike Miranda](https://gitlab.com/mikemiranda) - Account Executive, Commercial Sales | [Sam White](https://gitlab.com/sam.white) - Sr. Product Manager, Defend | 
-| 2020-08-31 | 2020-09-04 | [Francis Potter](https://gitlab.com/francispotter) | [Mike Miranda](https://gitlab.com/mikemiranda) - Account Executive, Commercial Sales |
-| 2020-09-08 | 2020-09-11 | AVAILABLE - REMOTE | [Francis Potter](https://gitlab.com/francispotter) |
+| 2020-08-31 | 2020-09-04 | [Francis Potter](https://gitlab.com/francispotter) - Sr. Solution Architect | [Mike Miranda](https://gitlab.com/mikemiranda) - Account Executive, Commercial Sales |
+| 2020-09-08 | 2020-09-11 | AVAILABLE - REMOTE | [Francis Potter](https://gitlab.com/francispotter) - Sr. Solution Architect |
 | 2020-09-14 | 2020-09-18 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2020-09-21 | 2020-09-25 | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend | AVAILABLE - REMOTE |
 | 2020-09-28 | 2020-10-02 | AVAILABLE - REMOTE | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend |
