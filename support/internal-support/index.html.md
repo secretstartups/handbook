@@ -63,29 +63,9 @@ You cannot send public replies to customers with a Light Agent account - if you 
 
 ## Common Requests
 
-### Regarding GitLab.com and Self-Managed
-
->**IMPORTANT TRIAL NOTE**: It's not yet officially recommended for support to start a trial on a namespace. If one is needed, *have the user initiate a normal Gold trial first*.
-If a Silver or Bronze trial plan are needed  [open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Plan%20Change%20Request) using the `Plan Change Request` template to have the plan downgraded to Bronze or Silver.
-
-| Request      | What To Do                                                 |
-| ---------- | ------------------------------------------------------------ |
-| Extend GitLab.com Trial | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=GitLab.com%20Trial%20Extension) using the `GitLab.com Trial Extension` template.
-| Extend Self-Managed Trial | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Self%20Managed%20Trial%20Extension) using the `Self Managed Trial Extension` template.
-| Grant Bronze or Silver Trial | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Plan%20Change%20Request) using the `Plan Change Request` template.
-| Change Plan of a GitLab.com Namespace | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Plan%20Change%20Request) using the `Plan Change Request` template.
-| Claim Inactive GitLab.com Namespace | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Dormant%20Namespace%20Request) using the `Dormant Namespace Request` template.
-| Request Pipeline Minutes Reset | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Pipeline%20Quota%20Reset%20Request) using the `Pipeline Quota Reset Request` template.
-
-Grace period extensions are also treated similarly to trial extensions. To request these for either self-managed or GitLab.com, create a trial extension issue and update the title accordingly to indicate that it is an existing customer.
-Please consider the following:
-
-1. A previous trial needs to exist for the customer. If no trial was created at any point a trial can be created by the customer the following day as the plan expires.
-1. We can provide grace period extensions as long as the current plan is not ongoing, in other words, if the plan expires on the 15th, we can increase the grease period starting the next day. please plan accordingly.
-
 ### Regarding GitLab Support, Plans, and Namespaces
 
-| Request      | What To Do                                                 |
+| Request    | What To Do                                                 |
 | ---------- | ------------------------------------------------------------ |
 | Schedule Upgrade Assistance Call | [Open an issue](https://gitlab.com/gitlab-com/support/support-team-meta/issues/new?issuable_template=Upgrade%20Assistance%20Request) using the `Upgrade Assistance` template. |
 | Who is on-call for Self-Managed Support? | Run `/chatops run oncall support` in [#support_self-managed](https://gitlab.slack.com/messages/support_self-managed/) to find out. This will **not** page the on-call person. You can also run that command in a direct message to `GitLab Chatops`. |
@@ -93,16 +73,40 @@ Please consider the following:
 | Contact a GitLab.com User | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Contact%20Request) using the `Contact Request` template.  |
 | Excessive reCaptcha on GitLab.com | While it's happening, post in [#support_gitlab-com](https://gitlab.slack.com/messages/C4XFU81LG/) and link to the issue/MR in question to be added to the allowlist.
 
+### GitLab.com Namespaces
+
+| Request    | What To Do                                                 |
+| ---------- | ------------------------------------------------------------ |
+| Claim Inactive GitLab.com Namespace | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Dormant%20Namespace%20Request) using the `Inactive Namespace Request` template.
+
+### Trial Extensions and Plans
+
+> **NOTE**: Support will not start a trial. If one is needed, *have the user initiate a normal trial first*.
+
+| Request    | What To Do                                                 |
+| ---------- | ------------------------------------------------------------ |
+| Extend GitLab.com Trial | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=GitLab.com%20Trial%20Extension) using the `GitLab.com Trial Extension` template.
+| Extend Self-Managed Trial | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Self%20Managed%20Trial%20Extension) using the `Self Managed Trial Extension` template.
+| Change GitLab.com Trial to Bronze or Silver | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Plan%20Change%20Request) using the `Plan Change Request` template.
+
+Grace period extensions are also treated similarly to trial extensions for self-managed. For GitLab.com, the customer should start a trial once their subscription has expired. To request these for either self-managed or GitLab.com, create a trial extension issue and update the title accordingly to indicate that it is an existing customer.
+
+Please consider the following:
+
+1. A previous trial needs to exist for the customer. If no trial was created at any point a trial can be created by the customer the following day as the plan expires.
+1. We can provide grace period extensions as long as the current plan is not ongoing, in other words, if the plan expires on the 15th, we can increase the grace period starting the next day. please plan accordingly.
+
 ### Regarding Licensing
 
-| Request      | What To Do                                                 |
+| Request    | What To Do                                                 |
 | ---------- | ------------------------------------------------------------ |
 | Send/Resend EULA | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=EULA) using the `EULA` template.
-| Assistance With License Issue | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=license%20issue) using the `License Issue` template.
+| GitLab.com Billable Members List | Until [#27074](https://gitlab.com/gitlab-org/gitlab/-/issues/27074) or [#35454](https://gitlab.com/gitlab-org/gitlab/-/issues/35454) is implemented, [open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=billable%20members) using the `Billable Members` template. |
+| Assistance With License Issue (not covered above) | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=license%20issue) using the `License Issue` template.
 
 ### Regarding Legal
 
-| Request      | What To Do                                                 |
+| Request    | What To Do                                                 |
 | ---------- | ------------------------------------------------------------ |
 | Log Preservation Request | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Information%20Request) using the `Information Request` template.
 | Submit DMCA Request | [Open an issue](https://gitlab.com/gitlab-com/gl-security/abuse/issues/new?issuable_template=dmca_meta_issue) using the `DMCA Meta Issue` template.
@@ -120,20 +124,20 @@ GitLab Support targets a 95% SLA acheievement KPI. This means that some tickets 
 
 1. From the `#support_managers` channel the Slack ticket escalation workflow can be initiated by following the steps below:
 
-    * While on the `#support_managers`, click on the small `lightning` icon as shown in the image. 
+    * While on the `#support_managers`, click on the small `lightning` icon as shown in the image.
         ![alt text](images/slack_workflow_escalation.png "Start Workflow")
 
     * Click on `Ticket Escalation`
 
-        ![alt text](images/workflow_menu.png "Start Workflow") 
-        
+        ![alt text](images/workflow_menu.png "Start Workflow")
+
      * Complete the information requested on the form and click on `Submit`
         ![alt text](images/form.png "Escalation Form")
 
-     * After clicking `submit` the workflow will be sent and automatically tag the support managers. You will also receive a private message with a confirmation.    
+     * After clicking `submit` the workflow will be sent and automatically tag the support managers. You will also receive a private message with a confirmation.
 
      * All fields are required.
-     
+
 1. Understand that we'll do our best to prioritize appropriately taking into account all of the tickets in the queues - there may be more pressing items.
 
 ##### Issues in `internal-requests`
