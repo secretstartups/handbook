@@ -225,8 +225,8 @@ The format is: misused term => correct term, reason why.
 
 1. GitLabber => GitLab team member, since the wider community shouldn't be excluded from being a GitLabber, we [use team member instead](/company/team/structure/#team-and-team-members).
 1. IPO => becoming a public company, because we might do a direct listing instead of an offering.
-1. EE => subscribers or paid users, because [EE is a distribution](/handbook/marketing/product-marketing/tiers/#distributions-ce-and-ee) and not all people who use EE pay us.
-1. CE => Core users, since [CE is a distribution](/handbook/marketing/product-marketing/tiers/#distributions-ce-and-ee) and many Core users use EE.
+1. EE => subscribers or paid users, because [EE is a distribution](/handbook/marketing/product-marketing/tiers/#history-of-ce-and-ee-distributions) and not all people who use EE pay us.
+1. CE => Core users, since [CE is a distribution](/handbook/marketing/product-marketing/tiers/#history-of-ce-and-ee-distributions) and many Core users use EE.
 1. Hi guys => Hi people, because we want to use [inclusive language](/handbook/values/#inclusive-language--pronouns)
 1. Aggressive => ambitious, since we want to [attract a diverse set of people](https://www.huffpost.com/entry/textio-unitive-bias-software_n_7493624)
 1. Employees => team members, since we have team members who are [contractors](/handbook/total-rewards/compensation/compensation-calculator/#contract-factor)
