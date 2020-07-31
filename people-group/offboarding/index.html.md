@@ -233,7 +233,7 @@ Unless it's for extreme behaviour/gross misconduct, the team member will be advi
 
 If you are not close to an employee's offboarding, it may seem unnecessarily swift.
 Please remember that these decisions are never made without following the above process to come to a positive resolution first - we need to protect the interests of the individual as well as the company, and offboarding are a last resort.
-According to our values [negative feedback is 1-1 between you and your manager](/handbook/values/#negative-is-1-1) and we are limited in what we can share about private employee issues.
+According to our values [negative feedback is 1-1 between you and your manager](https://about.gitlab.com/handbook/values/#negative-is-1-1) and we are limited in what we can share about private employee issues.
 Please discuss any concerns you have about another employee's offboarding with your manager or your People Business Partner.
 
 Given the expectations and responsibility that come with a VP and above position, when there is an involuntary offboarding for one of these positions, additional context for the personnel change can be provided to the organization.  
