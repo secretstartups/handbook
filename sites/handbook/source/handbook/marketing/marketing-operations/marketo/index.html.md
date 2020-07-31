@@ -78,7 +78,7 @@ The MQL scoring model below is correct as of 11 March 2020. Additional changes a
 |Registered - Self-Service Virtual Events|{{my.Registered Self-Service Virtual Events}}|+10|Behavior|Self-Service Virtual Event > Registered<br> Sponsored Webcast > Registered|Triger|Everytime|
 |Visited Booth - Field Events, Conference, Virtual Sponsorship|{{my.Visited Booth}}|+30|Behavior|Virtual Sponsorship > Visited Booth<br>Field Event > Visited Booth<br>Conference > Visited Booth|Trigger|Everytime|
 |Content Download - Form Fill|{{my.Content Download - Default}}|+30|Behavior|PF Content > Content Consumed OR<br>PF Specific Forms|Trigger|Everytime|
-|Content Download - High Intent|{{my.Content Download - High Intent}}|+90|Behavior|Specific Forms on pages - <br>/just-commit/reduce-cycle-time<br>/just-commit/lower-tco/<br>/just-commit/secure-apps/|Trigger|Once|
+|Content Download - High Intent|{{my.Content Download - High Intent}}|+90|Behavior|Specific Forms on pages - <br>/just-commit/reduce-cycle-time<br>/just-commit/lower-tco/<br>/just-commit/secure-apps/<br>TEI Estimator|Trigger|Everytime|
 |Content Syndication - Download|{{my.Content Syndication}}|+15|Behavior|Content Syndication > Downloaded|Trigger|Everytime|
 |Contact Sales Form|{{my.Contact Request Form}}|+100|Behavior|Fills out form: FORM 1415: Contact Request - Light4 or 2078: SFDX-Offer ONLY|Trigger|Once|
 |Demo Request|{{my.Demo Requested}}|+90|Behavior|Campaign Requested|Trigger|Once|
