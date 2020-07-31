@@ -20,13 +20,13 @@ Once per week, GitLab team-members with a hire-date anniversary will get a post 
 Directions on how to order your gift will be sent via email on the last day of the month of your anniversary. If you have not received your anniversary gift within 8 weeks (please consider global shipping) of your anniversary, please email people-exp@gitlab, so they can follow up.
 
 Work Anniversary Gifts are as follows:
-* Year 1:  Custom mug with a representation of your commits in GitLab
+* Year 1:  GitLab Socks
 * Year 3:  GitLab Hoodie/Jacket 
-* Year 5:  GitLab travel bag/ backpack
-* Year 10: $500 Travel grant/ airbnb gift card
+* Year 5:  GitLab Travel Bag/ Backpack
+* Year 10: $500 Travel Grant/ Airbnb Gift Card
 
 How to order anniversary gifts for People Experience Associates :
-1. Create the minimum order. A minimum order consists of: 72 mugs, 10 jackets and 25 bags. This will be stored in the Supplier's warehouse and shipped when needed.
+1. Create the minimum order. A minimum order consists of: 10 jackets and 25 bags. This will be stored in the Supplier's warehouse and shipped when needed.
 2. Complete the order [sheet](https://docs.google.com/spreadsheets/d/16DGY5F59yqbOvRYqpkulp55BGVmvuaEEM4GdGVJiMzo/edit#gid=1739552180) with all anniversaries from August 20th 2019. This order sheet is shared with our supplier in order for them to complete the shipping.
 3. Email our supplier on the 1st day of every month.
 4. People Experience Associates please refer to [Instructions on How to Send Anniversary Gifts](https://gitlab.com/gitlab-com/people-group/people-operations-and-experience-team-training/blob/master/Anniversary%20Gifts.md#instructions-on-how-to-send-anniversary-gifts) to follow when sending emails to team members.
