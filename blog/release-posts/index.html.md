@@ -452,9 +452,11 @@ The messaging lead is responsible for:
 - Ordering release post items, both primary and secondary. (see more info [below](#feature-order))
 - [Coordinating Marketing efforts](#marketing-coordination) on release day
 
-#### Top three features
+#### Identify top three features and themes (18th of the previous month - 11th of the release month)
 
 This section provides guidance on how to decide on top 3 features or themes and timelines:
+
+**Use the handbook guidance below for messaging lead release post preparation and planning. This handbook section is your source of truth from the 18th of the previous month - 11th of the release month.**
 
 - **Around 18th of previous month**
     - Join the monthly kick-off call or listen to the recording on the [GitLab Unfiltered Youtube Channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A). The [Product Kickoff Review page's Overview](/direction/kickoff/#overview) links to a playlist for the kickoff videos.
@@ -462,6 +464,8 @@ This section provides guidance on how to decide on top 3 features or themes and 
     - Review the [upcoming releases page](/upcoming-releases/), where features the Directors consider important will be highlighted with the label **HIGHLIGHT**
 - **After 22nd of the previous month**
     - Schedule a meeting with the previous messaging lead to understand best practices
+    - Create a tab for the current release in the [Release Feature Story Planning](https://docs.google.com/spreadsheets/d/1sU3x6uR5wNTwsYroikdHpToi9tRVlZ4n83vjceXjp9A/edit?usp=sharing) spreadsheet and name it according to the release version.
+    - Optional: Make a copy of the [messaging lead story planning doc](https://docs.google.com/document/d/1XoRWJXjWmwdeSE8_bSBcVvBnLhhYdzPW5T8JLYvYVmE/edit?usp=sharing) to fill out as you organize potential themes/features in preparation to circulate your progress for review closer to the release date.
 - **Between the 5th and 10th of the release month**, from the [issue list](https://gitlab.com/gitlab-org/gitlab/-/issues) with Milestone 'Release Number', e.g. [filtering for the milestone 12.9](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&milestone_title=12.9), shortlist issues by these criteria:
     - Customer Interest - Look for issues with Label 'customer' and sort by Popularity. Shortlist issues with high number of upvotes (e.g., more than 50)
     - CEO Interest - Look for issues with Label 'CEO Interest'. Shortlist the issues listed
@@ -470,34 +474,13 @@ This section provides guidance on how to decide on top 3 features or themes and 
     - Oldest Issues - Sort by Created Date. Shortlist a few of the oldest issues
 - **By the 11th of the release month**
     - Shortlist features from the Investor Update from CEO about the top features indicated to investors
-- **By the 13th of the release month**
-    - Identify themes - based on the various parameters above and [Merge requests](https://gitlab.com/dashboard/merge_requests?scope=all&utf8=%E2%9C%93&state=all) with Milestone 'Release Number' and Label 'release-post' which give the indicator of all the features that could be released
-    - Ideally identify more than 4-5 features or themes - as even at this stage, a few features may move to the next release, making a theme irrelevant
-    - Ping on #release-post slack channel for feedback from the product team on top features (give a list of 4-5 themes or 8-10). This also helps PMs to comment if any of the features may slip
-- **By the 14th of the release month**
-    - Commit the first (rough) draft of the release post introduction with the various themes/features selected above in the release post MR (instead of maintaining the draft in a google document). This enables the entire team to see the draft as it is developing. Continue to update the release introduction with MVC commits over the next several days.
-- **After EOD 17th of the release month**
-    - It is clear which features from the selected features will make it in the release
-    - Look for the merge requests (from the above) with label 'Ready'
-    - Refine, revise, and update your draft introduction based on any changes in the release.
-- **On 18th of the release month**
-    - Ping on #release-post slack channel with your top 3 themes/features. Make sure to include the EVP and VP of Product as well as all product section leads (Scott, Anoop and all of Anoop's direct reports)
-    - Once you receive feedback, ping on the #ceo channel with your top 3 themes/features.
-    - By 18th EOD of the release month, update the release post MR with the introduction and received feedback from product team and CEO on the release post. Note that if a feature moves from secondary to primary or visa versa, its image must also be moved. Also, secondary features do not require images while primary features do.
-    - Add the video link from the kickoff call recording once it's available. The video link will be posted on the [direction page](https://about.gitlab.com/direction/kickoff/) for each monthly release (usually the call will occur on the 18th unless that date falls on a weekend, for example).
-    - By 18th of the release month, check the content blocks / features.yml (Optional as this is also reviewed by individual PMMs)
-- **By the 20th of the release month**
-    - Update the release blurb that appears on the homepage. In the announcement file, update rows 3,8 and 11 with the relevant details for the current release including both release number and month. (in the release branch - update /source/includes/home/ten-oh-announcement.html.haml.)
-    - Add the [social sharing image](#social-sharing-image) by taking a screen shot of the release post blog page once the image overlay content is finalized
-    - Tag EVP product (Scott) for final review and signoff
-    - Remove the review-in-progress label
-    - Assign it back to the Release Post Manager for the release
-    - Check Release MR for any other outstanding activities
-- **After 22nd of the release month**
-    - Review this list and update as required
 
+#### Messaging lead positioning, content creation, and stakeholder reviews (11th of the release month - 22nd of the release month)
+**From the 11th until the release launch on the 22nd, your source of truth for remaining messaging lead tasks is the detailed PMM checklist included in each month's release post MR description entitled "Messaging content and positioning (Messaging Lead)."**
+- The messaging lead tasklist is sourced from the [release post MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md) and acts as the SSoT for the remaining tasks leading up to the release on the 22nd. Date range: 11th of the release month - 22nd day of release.
+- After the 11th, you should have completed the preparation and planning tasks in the handbook section above, as well as have an idea or your potential themes/features.
 
-**Best practices for the release post:**
+#### Best practices for the release post
 - Make sure the titles have “customer value” rather than just name of the features
 - Try to get one core feature to illustrate support to the community
 - Try to align each item with value drivers
