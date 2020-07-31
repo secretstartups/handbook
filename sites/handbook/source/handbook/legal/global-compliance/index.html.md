@@ -194,7 +194,7 @@ It is also possible to combine these elements with other information, such as IP
  
 PECR also applies to technologies like scripts, tracking pixels and plugins, wherever these are used.
  
-If you provide cookies that fall in these categories, consent is required.  You never who is on a technological diet.  Ask before you give them a cookie.  
+If you provide cookies that fall in these categories, consent is required.  You never know who is on a technological diet.  Ask before you give them a cookie.  
 
 ## Contract Details
 
