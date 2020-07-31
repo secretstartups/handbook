@@ -474,6 +474,8 @@ This section provides guidance on how to decide on top 3 features or themes and 
     - Oldest Issues - Sort by Created Date. Shortlist a few of the oldest issues
 - **By the 11th of the release month**
     - Shortlist features from the Investor Update from CEO about the top features indicated to investors
+    - Update your [Release Feature Story Planning](https://docs.google.com/spreadsheets/d/1sU3x6uR5wNTwsYroikdHpToi9tRVlZ4n83vjceXjp9A/edit?usp=sharing) spreadsheet tab as necessary with the shortlist of features based on the previous criteria: Customer Interest, CEO Interest, Popularity, Strategic Issues, and Oldest Issues
+    - Optional: Update your [messaging lead story planning doc](https://docs.google.com/document/d/1XoRWJXjWmwdeSE8_bSBcVvBnLhhYdzPW5T8JLYvYVmE/edit?usp=sharing) with potential themes/features based on your shortlist criteria
 
 #### Messaging lead positioning, content creation, and stakeholder reviews (11th of the release month - 22nd of the release month)
 **From the 11th until the release launch on the 22nd, your source of truth for remaining messaging lead tasks is the detailed PMM checklist included in each month's release post MR description entitled "Messaging content and positioning (Messaging Lead)."**
