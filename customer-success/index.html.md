@@ -21,7 +21,6 @@ To deliver value to all customers by engaging in a consistent, repeatable, scala
     * Improve overall customer satisfaction & referenceability
     * Maximize the total value of the customer to GitLab
 
-
 ## Vision Page
 The ["Customer Success Vision Page"](/handbook/customer-success/vision) provides the long-term view of company wide success to which the customer success will be building in partnership with the value centers of the GitLab organization (i.e., Marketing, Sales, Product/Engineering, Support, Finance and IT).
 
@@ -54,6 +53,7 @@ See the [Playbooks Page](/handbook/customer-success/playbooks)
 ## Customer Success Groups
 ### Solutions Architects
 * [Solutions Architects handbook](/handbook/customer-success/solutions-architects/)
+* [Public Sector Solutions Architects handbook](/handbook/customer-success/public-sector/solutions-architects/)
 
 ### Professional Services
 * [Professional Services handbook](/handbook/customer-success/professional-services-engineering/)
