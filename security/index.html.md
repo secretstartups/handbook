@@ -659,7 +659,7 @@ For more information on Travel Mode and how it works, see the [AgileBits blog].
 
 The GitLab Security Training is GitLab's security awareness presentation for new hires and annual training requirements beginning in 2020. The purpose of the annual training is to mature our internal posture through regular training while satisfying external regulatory requirements. The New Hire training is part of the onboarding process, and needs to be completed by every new hire. We are trying to make it fun, engaging and not time-consuming.
 
-The future in-house training is being actively developed by [GitLab Security](/handbook/engineering/security/)'s [Security Operations](/handbook/engineering/security/#security-operations) team. The goal of the training is to:
+The future in-house training is being actively developed by [GitLab Security](/handbook/engineering/security/)'s [Security Incident Response Team](/handbook/engineering/security/#sirt---security-incident-response-team-former-security-operations). The goal of the training is to:
 
 1. Make all GitLab team-members aware of the GitLab Security team, and familiarize them with our efforts, team structure, and people.
 1. Make all GitLab team-members aware of the importance of their role in securing GitLab on a daily basis, and to empower them to make the right decisions with security best-practices.
@@ -669,7 +669,7 @@ The future in-house training is being actively developed by [GitLab Security](/h
 ### Training Delivery
 
 #### New Hire Security Training 
-The New Hire Security Training is delivered through a pre-recorded presentation that is presented by a member of the [Security Operations](/handbook/engineering/security/#security-operations) team. The following materials are made available for your consumption:
+The New Hire Security Training is delivered through a pre-recorded presentation that is presented by a member of the [Security Incident Response Team](/handbook/engineering/security/#sirt---security-incident-response-team-former-security-operations) team. The following materials are made available for your consumption:
 * [The video](https://www.youtube.com/watch?v=kNc9f-LH6pU) - the actual training.
 * [The slides](https://docs.google.com/presentation/d/1Yts7RixM9Eb7wt9x9TqS2lAHjmHzKcEI_-j_yZaztlc/) - the slides used in the training video.
 * [Security Practices](/handbook/security/#security-process-and-procedures-for-team-members) - a list of security process and procedures that you can consult at any time.
@@ -679,13 +679,13 @@ The 2020 Security Training is delivered through the KnowBe4 platform that includ
 * [The video](https://youtu.be/1nAUjrO_b2Q) - the introduction module.
 * [The slides](https://docs.google.com/presentation/d/1VqOiGJDZ1vDiVVMgrw3ILxx1ot1-nM8jGzDcWylLTpM) - the slides used in the introduction video.
 * Special topics covered:
-      - [Suspected phishing](/handbook/security/#phishing-tests)
-      - [Best Practices](/handbook/security/#best-practices)
-      - [Acceptable Use] (/handbook/people-operations/acceptable-use-policy/)
-      - [Device Lost or Stolen?!] (/handbook/security/#panic-email)
-         -  email: panic@gitlab.com
-      - [Data Classification](/handbook/engineering/security/data-classification-policy.html)
-      - [No Red Data on Unapproved Locations](/handbook/people-operations/acceptable-use-policy/#security-and-proprietary-information)
+  * [Suspected phishing](/handbook/security/#phishing-tests)
+  * [Best Practices](/handbook/security/#best-practices)
+  * [Acceptable Use](/handbook/people-operations/acceptable-use-policy/)
+  * [Device Lost or Stolen?!](/handbook/security/#panic-email)
+    * email: `panic@gitlab.com`
+  * [Data Classification](/handbook/engineering/security/data-classification-policy.html)
+  * [No Red Data on Unapproved Locations](/handbook/people-operations/acceptable-use-policy/#security-and-proprietary-information)
 
 ### Training Feedback
 You are strongly encouraged to engage the team behind the training and provide feedback, or ask any questions related to the content of the training. You can do that through:
@@ -693,7 +693,6 @@ You are strongly encouraged to engage the team behind the training and provide f
 1. A quarterly-reviewed GitLab issue for New Hire training - [FY21-Q1](https://gitlab.com/gitlab-com/gl-security/secops/operations/-/issues/736).
 1. Annual security awareness training feedback issue: [2020 GitLab Security Awareness Training](https://gitlab.com/gitlab-com/gl-security/compliance/compliance/-/issues/1924)
 1. Email by sending an email to security-training@gitlab.com.
-
 
 ### Phishing Tests
 
@@ -801,34 +800,17 @@ in the email or visit the site.
 {: #panic-email}
 
 GitLab provides a `panic@gitlab.com` email address for team members to use in
-situations that require an immediate security response. Should a team member lose
+situations that require an immediate security response. This email address is
+only accessible to GitLab team members and can be reached from their gitlab.com
+or personal email address as listed in BambooHR. Should a team member lose
 a device such as a thumb drive, YubiKey, mobile phone, tablet, laptop, etc. that
 contains their credentials or other GitLab-sensitive data they should send an
-email to `panic@gitlab.com` right away. When the production and security teams
-receive an email sent to this address it will be handled immediately. Using this
-address provides an excellent way to limit the damage caused by a loss of one of
-these devices.
+email to `panic@gitlab.com` right away. When the security team receives an email
+sent to this address it will be handled immediately. Using this address provides
+an excellent way to limit the damage caused by a loss of one of these devices.
 
-### Checklist for when `panic` is triggered
-
-The following can be adapted depending on the specific situation at hand, but
-when in doubt: block. It is less risky to reinstate accounts and permissions
-than to be confronted with a malicious actor gaining access.
-
-Copy this checklist into a confidential issue.
-
-```
-- [ ] Password Access and Rotation
-   - [ ] Suspend 1Password account. (All responders to `panic@` should be members of the "Panic@ Responders" group in 1Password which has the rights to suspend and recover user accounts).
-   - [ ] Take screenshot of what groups / vaults the individual had access to. This facilitates the next step.
-   - [ ] Coordinate or actively change sensitive shared passwords. In particular sysadmin access passwords for GitLab.com Infrastructure (ssh, chef user/key, discuss others).
-- [ ] Block Google account
-- [ ] Block Slack account
-- [ ] Block [dev.GitLab.org account](https://dev.gitlab.org/admin/users).
-- [ ] Remove GitLab.com account from the [gitlab-org group](https://gitlab.com/groups/gitlab-org/group_members)
-- [ ] Block access to hackerone.com
-- [ ] Block access to Tweetdeck
-```
+Additionall if a GitLab team member experiences a personal emergency the People Group also
+provices an [emergency contact email](/handbook/people-group/#in-case-of-emergency).
 
 ## Other Security Topics
 
