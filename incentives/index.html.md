@@ -153,7 +153,7 @@ This process is currently being tested by the People group. Although everyone ca
 
 **Manager Process**
 1. The Nominator bot will send you a Slack DM asking to approve or reject the nomination. 
-1. When you decide to approve, all you need to do is click the approve button. The bot will take care of the next steps (sending it to the second level manager, PBP, Total Rewars team)
+1. When you decide to approve, all you need to do is click the approve button. The bot will take care of the next steps (sending it to the second level manager, PBP, Total Rewards team)
 1. When you decide to reject, click the reject button. The nomination will be updated as `rejected_by_manager`. The bot will ask you to reach out to the nominator as to make sure they understand why the nomination was not approved.
 1. When everyone else has approved, the bot will reach out to you so you can share this with the team member and share it in the Slack channel.
 
