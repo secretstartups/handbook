@@ -248,7 +248,7 @@ This is where you will choose how your content track displays to the visitor. No
 
 Form strategy is used on content tracks to collect data from unknown visitors and should only be used when a track entry point is **not** from a webform or landing page (i.e. direct link from digital ad or web promoter). Not all content tracks will or should have form strategy turned on. The forms used in PathFactory are directly tied to currently existing Marketo forms. If the form strategy is implemented, please ensure `Show to Known Visitors` is left **unchecked**. For help with PathFactory forms and workflows, please create an issue in the Marketing Operations repository, apply `MKtgOps` & `PathFactory` labels, and assign `@sdaily`.
 
-**Please Note:** We have [listening campaigns](#listening-campaigns) in Marketo set up to capture consumption of content that would have been gated had PathFactory not been implemented. The listeners also incorporate PathFactory activity into the [MQL scoring model](/handbook/business-ops/resources/#mql-scoring-model). This means that you do not need to add form strategy to a content track if entry point is from a landing page and there are listening campaigns set up for assets in your track that would normally be gated. [Please create an issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues) in the Marketing Operations repo and assign `@sdaily` to set up a lisetning campaign for an asset.
+**Please Note:** We have [listening campaigns](#listening-campaigns) in Marketo set up to capture consumption of content that would have been gated had PathFactory not been implemented. The listeners also incorporate PathFactory activity into the [MQL scoring model](/handbook/business-ops/resources/#mql-scoring-model). This means that you do not need to add form strategy to a content track if entry point is from a landing page and there are listening campaigns set up for assets in your track that would normally be gated. [Please create an issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues) in the Marketing Operations repo and assign `@sdaily` to set up a listening campaign for an asset.
 
 ##### Adding form strategy to a content track
 
@@ -397,6 +397,10 @@ The header is applied to an Explore experience from the base content track you c
 
 All changes to the content in an explore page has to be done in the base content track that the explore page is built from. This includes the order of your content, so if you want to reorder your content you have to do so in the base content track.
 
+**Can I create a custom hero for a header on my page?**
+
+Yes! You can add a custom hero image by navigating to `Appearances Configuration` and selecting the appearance you would like to modify. Then click on the `Explore` tab and select `cover image` for Hero layout and upoad your custom image under `Hero Image`.  Make sure you click `save` on both the explore image upload and then again to save the appearance edits you have made (recommended size for a hero image is 1600x500).
+
 ## Appearances
 
 Appearances allow you to control the look and feel of your content tracks. By creating different appearance groups you are able to quickly and easily apply different colors, fonts, and logos to content tracks without having to configure them each time you build a new track. Appearance settings allow you to control how your promoters look, select favicons for your tracks, and configure the appearance of your cookie consent messaging.
@@ -517,6 +521,7 @@ This process is for new assets in PathFactory that **have not** already been dis
 1.  From the dropdown, select `Create New` (this will create the synced campaign in Salesforce)
 
 **Update Marketo Smart Campaign**
+
 1.  Expand the Marketo program and select `PF - Listening (Triggered)`.
 1.  In the `Smart List`, add the URL slug you created in the PathFactory content library for your asset within the brackets `[ ]`.
 1.  In the `Smart List`, add the URL of your landing page to the "not filled out form" filter to make sure you don't create a second touchpoint (a duplicate of the form fill action) upon form fill of your asset.
@@ -535,7 +540,6 @@ This process is for new assets in PathFactory that **have not** already been dis
 1.  Under Bizible attribution, select `Include only "Responded" Campaign Members` next to `Enable Bizible Touchpoints`.
 1.  Mark the Status as `In Progress`.
 1.  Click `Save`.
-
 
 Assets needing a listening campaign should following the above naming conventions. If an asset type is not represented in a Marketo listening campaign folder, please create an issue in the marketing operations project and assign it to `@sdaily`.
 
