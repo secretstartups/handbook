@@ -54,7 +54,7 @@ While there is no time-boxing for level progress, the company does operate on a 
 
 ## Interning with Infrastructure / Reliability Engineering
 
-Cross reference for [Interning for Learning](/handbook/people-group/promotions-transfers/#interning-for-learning)
+Cross reference for [Internship for Learning](/handbook/people-group/promotions-transfers/#internship-for-learning)
 
 There is a reasonable amount of interest to intern with Infrastructure so we wanted to put a brief landing section in the handbook.  If you are interested in interning with Infrastructure, we would ask that you talk to your current manager and create an issue per the mentioned process.  This can help us track who is helping on what and what they would like to learn.  Mention the Reliability Engineering team members and managers to help us know you are interested.  One note, in some cases, you may need to submit access-requests to get access to certain systems to help with work.
 
