@@ -231,7 +231,15 @@ If the author of a guest post is not an official GitLab partner, they may link b
 
 ### Cross posts
 
-We do not republish posts from other publications verbatim.
+We do not republish posts from other publications verbatim. The same principles apply as in [Joint announcements](#joint-announcements): it's more impactful and valuable to cross-promote a story that appears on one platform than to publish the same post in two places. 
+
+#### If you're publishing a GitLab story on another site
+
+Please try to include 2-3 relevant links back to about.gitlab.com, where appropriate. This is advantageous for SEO and may send some new visitors back to our site. 
+
+If there is another layer/angle to the story, we could explore this in a new post on our own blog, which could then link back to the original post on the other site. Please [open an issue to propose this](#publishing-process) if that's the case. 
+
+#### If you see a story we should feature on our blog
 
 If you spot a tweet, post, or feedback anywhere detailing an interesting use case for GitLab which you think could make a good story, open an issue and ping @kimlock to help determine whether we should pursue an interview for a blog post or case study (we will not ask the original author to create something for us).
 
