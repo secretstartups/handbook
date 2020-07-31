@@ -184,8 +184,6 @@ If you have developed the learning content and would like the Learning & Develop
 
 Our team will review and set the priority for your content request or review based on the scale and impact across the organization. Learning items that will be applied and used across the company will take priority. 
 
-Once the new content has been created, a link to the content should be added to our [SSOT Training](/handbook/training/) page.
-
 ### How the L&D team prioritizes requests: 
 *  Evaluate strategic impact of the learning session
 *  Determine the level of work associated with the learning requirement
@@ -265,11 +263,11 @@ If you have any questions or need further help please ping people ops in the `#p
 
 ### Engagement Survey Growth and Development Score > X%
 
-Questions related to growth and development on the semi-annual [Engagement Survey](/handbook/people-operations/engagement/) have a favorable score. The exact target is to be determined.
+Questions related to growth and development on the semi-annual [Engagement Survey](/handbook/people-group/engagement/) have a favorable score. The exact target is to be determined.
 
 ### Rate of internal job promotions > X%
 
-Total number of [promotions](/handbook/people-operations/promotions-transfers/) in a rolling six month period/total number of employees. The target for this is to be determined.
+Total number of [promotions](/handbook/people-group/promotions-transfers/) in a rolling six month period/total number of employees. The target for this is to be determined.
 
 ### 12 month voluntary team member turnover related to growth < X%
-This is calculated the same as [12 month voluntary team member turnover KPI](/handbook/people-operations/people-operations-metrics/#team-member-turnover) but is using the number of team members actively choosing to leave GitLab to growth and development related reasons only. The target is to be determined.
+This is calculated the same as [12 month voluntary team member turnover KPI](/handbook/people-group/people-group-metrics/#team-member-turnover) but is using the number of team members actively choosing to leave GitLab to growth and development related reasons only. The target is to be determined.
