@@ -44,8 +44,11 @@ The [Product Development Flow](/handbook/product-development-flow/) guideline ex
 
 To work with these queues we leverage issue boards and relevant filters. We value asynchronous communication but it is also highly recommended to have a weekly sync meeting between PM, UX, and EM to review these queues: `design`, `solution validation`. `planning breakdown`, and `scheduling`. This ensures we keep moving issues forward and constantly have items to work on in each step of the process.
 
-## Additional workflow information:
+## Additional workflow information
 
 - [Issues board](https://gitlab.com/groups/gitlab-org/-/boards/364216?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Asecure): Add a `milestone` filter with the [current milestone +1](/releases/) (the current milestone is already released).
 - [Merge Requests workflow](https://gitlab.com/gitlab-org/gitlab/blob/master/doc/development/contributing/merge_request_workflow.md)
 - [Code Review process](https://docs.gitlab.com/ee/development/code_review.html)
+
+## Issue Refinement
+See our [Issue Refinement](./refinement/) page.
