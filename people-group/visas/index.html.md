@@ -29,7 +29,7 @@ For assistance with any employment or relocation visa please reach out to the Pe
 
 ## Travel Visas
 
-### Arranging a visa for travel <a name="arrange-visa"></a>
+### Arranging a visa for travel
 
 In some cases when traveling to a conference or summit you might need to arrange a visa to enter that specific country.
 
