@@ -50,7 +50,7 @@ We recorded a training about 1-1s which you can find here:
   - Is there anything I can do to help?
   - Anything non-work related worth mentioning?
   - When x happened, what will you do differently next time?
-  - Have you identified any career development opportunities that I can help you with? For example: [Interning for Learning](/handbook/people-group/promotions-transfers/#sts=Interning for Learning)
+  - Have you identified any career development opportunities that I can help you with? For example: [Internship for Learning](/handbook/people-group/promotions-transfers/#internship-for-learning)
   - Other great questions to consider can be found in the [Culture Amp Blog: 24 great one-on-one meeting questions](https://www.cultureamp.com/blog/great-one-on-one-meeting-questions/) or in 15Five's [The Great eBook of Employee Questions](https://www.15five.com/ebook/employee-questions/).
 
 ## Career Development Discussion at the 1-1
