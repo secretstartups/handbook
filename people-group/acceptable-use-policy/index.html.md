@@ -62,7 +62,7 @@ Forwarding of confidential business emails or documents to personal external ema
 
 ### Return of GitLab-Owned Assets
 
-All GitLab-owned computing resources must be [returned](/handbook/people-group/offboarding/#returning-property) upon separation from the company.
+All GitLab-owned computing resources must be [returned](/handbook/people-group/offboarding/#returning-property-to-gitlab) upon separation from the company.
 
 ### Bring-Your-Own-Device (BYOD)
 
@@ -110,5 +110,5 @@ To consult with the Security Team, use the appropriate contact: `security@gitlab
 
 - [Onboarding Issue](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding.md)
 - [Data Classification Policy](https://about.gitlab.com/handbook/engineering/security/data-classification-policy.html)
-- [Asset return procedure](/handbook/people-group/offboarding/#returning-property)
+- [Asset return procedure](/handbook/people-group/offboarding/#returning-property-to-gitlab)
 - [Lost or stolen asset procedure](/handbook/security/#panic-email)
