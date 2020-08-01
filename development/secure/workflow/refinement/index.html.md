@@ -20,6 +20,8 @@ The goal of the refinement process is to
 - Raise any questions, concerns or alternative approaches.
 - Outline an implementation plan.
 - Ensure issue is ready to be worked on.
+- Identify code boundaries, for example, does the issue change code maintained by another team. 
+- Notify other teams if the issue is relevant to them in some way. 
 - Assign a weight to the issue.
 
 The refinement process can break down the issue into technical subtasks by following the [sub-issue convention](https://gitlab.com/gitlab-com/www-gitlab-com/issues/4588) but we should avoid redefining the scope of an implementation issue as this should have already been done during the Planning Breakdown with UX and PM.
