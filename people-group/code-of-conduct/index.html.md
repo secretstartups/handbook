@@ -35,7 +35,7 @@ If you think this Code or any GitLab policy is being violated, or if you have an
 
 * Discuss the issue with your supervisor or manager.
 * Discuss the issue with another supervisor or manager.
-* Contact the [People Group](https://about.gitlab.com/handbook/people-group/)
+* Contact the [People Group](/handbook/people-group/)
 * Contact [GitLab’s 24-hour hotline](#how-to-contact-gitlabs-24-hour-hotline).
 
 All reports (formal or informal) made to a GitLab supervisor, manager or executive should be promptly escalated to the People Business Partners or to the Chief People Officer (CPO).  GitLab will then review the report promptly and thoroughly to determine if an investigation is warranted.
@@ -68,7 +68,7 @@ The investigation findings will be reported back to the CPO. Based on the invest
 
 GitLab has engaged Lighthouse Services to provide an anonymous ethics and compliance hotline for all team members. The purpose of the service is to insure that any team member wishing to submit a report anonymously can do so without the fear of [retribution](#commitment-to-non-retaliation).
 
-Reports may cover but are not limited to the following topics: ethical violations, wrongful discharge, unsafe working conditions, internal controls, quality of service, vandalism and sabotage, [sexual harassment](/handbook/anti-harassment/#sts=Sexual Harassment), theft, discrimination, conduct violations, alcohol and substance abuse, threats, fraud, bribery and kickbacks, conflict of interest, improper conduct, theft and embezzlement, violation of company policy, violation of the law, misuse of company property, falsification of contract, reports or records.
+Reports may cover but are not limited to the following topics: ethical violations, wrongful discharge, unsafe working conditions, internal controls, quality of service, vandalism and sabotage, [sexual harassment](/handbook/anti-harassment/#sexual-harassment), theft, discrimination, conduct violations, alcohol and substance abuse, threats, fraud, bribery and kickbacks, conflict of interest, improper conduct, theft and embezzlement, violation of company policy, violation of the law, misuse of company property, falsification of contract, reports or records.
 
 Please note that the information provided by you may be the basis for an internal and/or external investigation into the issue you are reporting and your anonymity will be protected by Lighthouse to the extent possible by law. However, your identity may become known during the course of the investigation because of the information you have provided. Reports are submitted by Lighthouse to a company designee for investigation according to our company policies.
 
@@ -84,12 +84,12 @@ Lighthouse Services toll free number and other methods of reporting are availabl
 * E-mail: reports@lighthouse-services.com (must include company name with report)
 * Fax: (215) 689-3885 (must include company name with report)
 
-The reports sent to Lighthouse Services are shared with the [Chief Legal Officer](/job-families/legal/chief-legal-officer/) and [the Chair of the Audit Committee](/handbook/board-meetings/#audit-committee-charter).
+The reports sent to Lighthouse Services are shared with the [Chief Legal Officer](/job-families/legal/chief-legal-officer/) and [the Chair of the Audit Committee](/handbook/board-meetings/#audit-committee).
 
 
 ### Material Nonpublic Information / Inside Information
 
-Employees know that they have to protect Confidential Information.  But did you know that employees also cannot **use** Confidential Information?  Employees are not permitted to use or share Confidential Information for purposes of trading securities, illegal activities or for any other purpose except to conduct [GitLab](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/) business. Insider trading (or dealing) laws and regulations globally prohibit buying or selling a company’s securities while in possession of Confidential Information about that company that is Nonpublic and Material.
+Employees know that they have to protect Confidential Information.  But did you know that employees also cannot **use** Confidential Information?  Employees are not permitted to use or share Confidential Information for purposes of trading securities, illegal activities or for any other purpose except to conduct [GitLab](/handbook/people-group/acceptable-use-policy/) business. Insider trading (or dealing) laws and regulations globally prohibit buying or selling a company’s securities while in possession of Confidential Information about that company that is Nonpublic and Material.
 
 Employees can also violate these laws by disclosing Material Nonpublic Confidential Information to another person if, as a result, that person – or any other person – buys or sells a security while aware of that information. If you make such a disclosure or use such information, there can be stiff penalties, even if you yourself stand to make no financial gain.
 
