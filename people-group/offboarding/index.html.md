@@ -289,8 +289,7 @@ This data is updated on a monthly basis by People Operations.
 #### Offboarding Issue
 To track all tool deprovisioning, please open an offboarding issue following the [offboarding guidelines](https://about.gitlab.com/handbook/people-group/offboarding/offboarding_guidelines/).
 
-#### Returning Property To GitLab
-{: #returning-property}
+#### Returning Property to GitLab
 
 As part of offboarding, any GitLab property valued above 1,000 USD needs to be returned to GitLab. 
 
