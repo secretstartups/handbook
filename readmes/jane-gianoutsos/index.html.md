@@ -8,7 +8,7 @@ job: "Manager, Support Engineering (APAC)"
 
 *In an effort to get this done, I'm practicing our value of :footprints: [iteration](https://about.gitlab.com/handbook/values/#iteration). This is a first take and I welcome all feedback! You are very welcome to contribute to this page by opening a merge request.*
 
-**Jane Gianoutsos - Manager, Support Engineering (APAC) ** This page is intended to help others understand what it might be like to work with me, especially people who haven’t worked with me before.
+**Jane Gianoutsos - Manager, Support Engineering (APAC)** This page is intended to help others understand what it might be like to work with me, especially people who haven’t worked with me before.
 
 You'll find as you read this I've made a clear decision to be very intentionally vulnerable.  Trust is earned, and I hope to offer you in this a basis for why you might trust me, and to share my ideas of a good working relationship to reduce the anxiety of people who might be on my team.  Come as you are, I take you as you come and hope you will do the same for me.
 
