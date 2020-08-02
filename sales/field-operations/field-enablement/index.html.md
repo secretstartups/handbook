@@ -42,6 +42,7 @@ Please see our [Key Programs](/handbook/sales/field-operations/field-enablement/
     *  [Technical Questions for Sales](/handbook/sales/training/technical-questions-for-sales/)
 *  [Field Certification Program](/handbook/sales/training/field-certification)
     *  [Sales Operating Procedures](/handbook/sales/sales-operating-procedures/)
+    *  [Field Functional Competencies](/handbook/sales/training/field-functional-competencies/)
 *  [Sales Manager Best Practices](/handbook/sales/field-operations/field-enablement/sales-manager-best-practices)
 *  [Field Communications](https://about.gitlab.com/handbook/sales/field-communications/)
    *  [Field Flash Newsletter](/handbook/sales/field-communications/field-flash-newsletter/)
@@ -119,23 +120,22 @@ The below is a work in progress as we define success measures across each stage 
 <details>
 <summary markdown="span">5. What is most important right now (2HFY21)?</summary>
 
-1. Field certification program (Sales, CS & Partner audiences)
-1. Sales methodology & process
-    - Command of the Message & MEDDPPICC operationalization
-1. Functional onboarding training for Sales & Customer Success roles
-    - Continued execution & ongoing iteration to accelerate time to productivity for new field team members
-1. Support launch & expansion of new GitLab channel partner program
+1. Improve field efficiency by training and sustaining prioritized knowledge and behavior/skill gaps
+    - Field certification program (Sales, CS & Partner audiences)
+         - Product feature, tiering, and customer use cases
+         - Moments That Matter across the customer journey
+         - Continue to operationalize Command of the Message & MEDDPPICC
+    - Deliver enablement program aligned with top competitor GTM initiatives
     - Embrace partner enablement as an extension of GitLab Sales and Customer Success enablement
-1. Standard operating procedures for Sales & Customer Success
-    - Sales process documentation
-    - Sales enablement to reduce the dependence of SALs & AEs on SAs
-1. Improve learning experience via enhanced L&D tooling
-    - LMS/LXP selection & implementation
-1. Launch sales/field communications strategy
-1. Continuous learning
-    - CS Skills Exchange, Sales Enablement Level Up Webcast series
-1. Improve sales asset management (in collaboration with Marketing)
-1. Sales events support (SKO, QBRs)
+1. Promote a culture of continuous learning and development
+    - Improve learning experience by implementing new Learning Experience Platform (LXP) 
+    - Develop and execute robust change management plan that taps into team members’ inherent desire to pursue excellence
+    - Continued execution & ongoing iteration of functional onboarding training to accelerate time to productivity for new field team members
+    - Continued execution & ongoing iteration of continuous learning programs (CS Skills Exchange and Sales Enablement Level Up Webcast series)
+1. Ensure that the GitLab field organization is regularly informed about relevant business and organizational updates and has access to information & resources necessary for their day-to-day work
+    - Continue to mature and advance field communications strategy
+    - Make it easier for Sales to discover & access information/resources they need when they need it
+    - Keep planning for SKO 2021 on track
 </details>
 
 <details>
@@ -149,7 +149,7 @@ The below is a work in progress as we define success measures across each stage 
     - [Kris Reynolds](/company/team/#kreynolds1) (Customer Success Enablement)
     - [Kelley Shirazi](/company/team/#kelley-shirazi) (Commercial Sales Enablement)
     - TBH (Partner Enablement)
-- **[Sales Training Facilitator](/sales/sales-training-facilitator-field-enablement/)**
+- **[Sales Training Facilitator](/job-families/sales/sales-training-facilitator-field-enablement/)**
     - [John Blevins](/company/team/#jblevins608)
 - **[Sales Communications Manager](/job-families/sales/sales-communications-manager/)**
     - [Monica Jacob](/company/team/#monicaj)
