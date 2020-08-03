@@ -62,7 +62,7 @@ Salesforce [chatter](https://about.gitlab.com/handbook/sales/field-operations/sa
 
 <details>
 <summary markdown='span'>
-  Steps to Getting Help with OKTA for Sales Tools
+  Steps to Getting Help with Okta for Sales Tools
 </summary>
 
 1. Visit the [Okta Handbook Page](https://patch-1982611222132688596703.about.gitlab-review.app/handbook/business-ops/okta/index.html) to learn more about Okta.
