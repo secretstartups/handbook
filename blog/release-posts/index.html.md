@@ -487,7 +487,7 @@ This section provides guidance on how to decide on top 3 features or themes and 
 **On the 11th of the release month, take inventory to make sure you are ready for next steps**
     
     - You should have already started identifying theme/features based on the various parameters outlined above and [Merge requests](https://gitlab.com/dashboard/merge_requests?scope=all&utf8=%E2%9C%93&state=all) with Milestone 'Release Number' and Label 'release-post' which give the indicator of all the features that could be released
-    - Ideally, you've identified more than 4-5 features or themes - as even at this stage, a few features may move to the next release, making a theme irrelevant. Watch the release post preview. Features posted there have been introduced on GitLab.com so are unlikely to slip
+    - Ideally, you've identified more than 4-5 features or themes - as even at this stage, a few features may move to the next release, making a theme irrelevant. Watch the release post [preview page](https://about.gitlab.com/releases/gitlab-com/). Features posted there have been introduced on GitLab.com so are unlikely to slip
     - Remember to leverage your [Release Feature Story Planning spreadsheet](https://docs.google.com/spreadsheets/d/1sU3x6uR5wNTwsYroikdHpToi9tRVlZ4n83vjceXjp9A/edit?usp=sharing) and to update the optional [messaging lead story planning doc](https://docs.google.com/document/d/1XoRWJXjWmwdeSE8_bSBcVvBnLhhYdzPW5T8JLYvYVmE/edit?usp=sharing) if you chose to use it, as it will be very handy in the next several days leading up to release post content reviews
 
 
