@@ -441,7 +441,7 @@ It's also recommended you collaborate with your EM in deciding what to include.
 
 ### Messaging lead
 
-Each month a Product Marketing Manager (PMM) will lead the messaging and positioning for the release post.
+Each month a Product Marketing Manager (PMM) will lead the messaging and positioning for the release post. Use the handbook guidance below for messaging lead release post preparation and planning. This handbook section is your source of truth from the 18th of the previous month - 11th of the release month. After the 11th of the month, your source of truth to prepare and deliver the release post is in the [monthly release post blog template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md).
 
 The messaging lead is responsible for:
 
