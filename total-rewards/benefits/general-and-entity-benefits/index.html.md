@@ -263,7 +263,7 @@ Is there anything else that I need to know to initiate my Parental Leave?
   * Log and monitor upcoming parental leave in the "Parental Leave Log" Google sheet on the drive.
   * Notify payroll.
   * Update the BambooHR Employment Status of the team member to "Parental Leave" with the start date of the leave.
-  * Add another entry with the date the team member will return from leave with the status "End of Parental Leave". This will generate a notification to the Compensation & Benefits team 1 day after the team member returns from leave.
+  * Add another entry with the date the team member will return from leave with the status "End of Parental Leave". This will generate a notification to the Total Rewards team 1 day after the team member returns from leave.
   * Once BambooHR notification is received:
     * Change "End of Parental Leave" status to "Active" and in the comment section, add "Return from leave".
     * Update payroll of the team's return date.
