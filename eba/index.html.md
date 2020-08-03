@@ -389,10 +389,21 @@ Access to Mission Control: In case of a meeting in San Francisco at Mission Cont
 
 ## Scheduling for Dave Gilbert, VP of Recruiting
 
+* Please schedule all meetings through the People Function's EBA, Trevor Knudsen
 * Ask before scheduling over personal events (Noted by purple color in calendar)
 * Keep meetings to 25 or 50 minutes unless otherwise specified
+* Direct Report 1:1's occur weekly
+* Skip level 1:1's occur every other month
 * 1:1 meetings are light blue, internal meetings are red, external meetings are orange, coffee chats are dark green, reminders are in yellow, interviews are in dark blue.
+* Scheduling should ideally be kept between 9:00 am and 5:00 pm MT
 
+## Scheduling for Carol Teskey, Sr. Director, People Success
+
+* Please schedule all meetings through the People Function's EBA, Trevor Knudsen
+* Keep meetings to 25 or 50 minutes unless otherwise specified
+* Direct Report 1:1's occur weekly
+* 1:1 meetings are dark dark green, internal meetings are purple, external meetings are orange, coffee chats are light blue, reminders are in yellow, interviews are in dark blue, anything where attendance is essential and Carol plays a huge part in the meeting should be noted in red.
+* Scheduling should ideally be kept between 9:00 am and 6:00 pm Irish Standard Time
 
 ## Scheduling for Robin Schulman, Chief Legal Officer
 
