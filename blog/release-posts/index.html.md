@@ -441,8 +441,7 @@ It's also recommended you collaborate with your EM in deciding what to include.
 
 ### Messaging lead
 
-Each month a Product Marketing Manager (PMM) will lead the messaging and positioning for
-the release post.
+Each month a Product Marketing Manager (PMM) will lead the messaging and positioning for the release post.
 
 The messaging lead is responsible for:
 
