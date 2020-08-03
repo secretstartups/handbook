@@ -27,7 +27,7 @@ Our defect SLA can be viewed at:
 * [Severity labels](/handbook/engineering/quality/issue-triage/#severity)
 
 The Quality Engineering department employs a number of tools and automation in addition to manual intervention to help us achieve this goal.
-The work in this area can been seen in our department roadmap under [Triage](/handbook/engineering/quality/roadmap/#triage) and [Measure](/handbook/engineering/quality/roadmap/#measure) tracks of work.
+The work in this area can been seen in our department roadmap under [Triage](/handbook/engineering/quality/roadmap/#triage-track-roadmap-view) and [Measure](/handbook/engineering/quality/roadmap/#measure-track-roadmap-view) tracks of work.
 
 ## Communicate early and broadly about expected automation impact
 
@@ -182,7 +182,7 @@ This report contains the 66 most recent unlabelled issues requiring initial tria
   1. If the issue is spam:
     * [Report the abuse](https://docs.gitlab.com/ee/user/abuse_reports.html) and make the issue confidential. Flag the report that is raised in the [#abuse](https://gitlab.slack.com/messages/C0HPYBJ3D) slack channel with a link to the issue and alert the `@abuse-team`.
   1. (Optional) Add relevant [subject labels](https://gitlab.com/gitlab-org/gitlab/blob/master/doc/development/contributing/issue_workflow.md#subject-labels).
-  1. (Optional) Mention relevant PM/EMs from the relevant stage group from [product devstages categories](/handbook/product/product-categories/#devops-stage).
+  1. (Optional) Mention relevant PM/EMs from the relevant stage group from [product devstages categories](/handbook/product/product-categories/#devops-stages).
 * Enlist help as needed by mentioning folks in the [#triage](https://gitlab.slack.com/messages/C39HX5TRV) slack channel.
 * Example: [https://gitlab.com/gitlab-org/gitlab-ce/issues/57834](https://gitlab.com/gitlab-org/gitlab-ce/issues/57834)
 
