@@ -58,6 +58,29 @@ Contact Procurement directly in Slack via #procurement if you have questions.
 
 A video tutorial of the issue creation process can be found [**HERE**](https://gitlab.zoom.us/rec/share/z-4pcYnpxDJIac-d70_hRaIwFYj8eaa8g3VN8vJbnkypGYJSQZwIUL6R3gGWbxjb?startTime=1587585669000)
 
+#### Field Marketing Approval Matrix
+If you are in Field Marketing, please note the below approval matrix. Select the appropriate approvals based on your contract threshold and copy and paste into the approval section of the Software/SaaS template.
+
+1. Contracts between $0 & $9,999 USD can be approved by individual DRI 
+* [ ] @mention DRI 
+
+1. Contracts between $10,000 - $19,999 USD require approval checkoff from:
+* [ ] @mention DRI 
+* [ ] `@ mention the Field Marketing Country Manager`
+
+1. Contracts between $20,000 - $25,000 USD require approval checkoff from:
+* [ ] @mention DRI 
+* [ ] `@ mention the Field Marketing Country Manager` once the FMM Country Manager has signed off, he/she will add the Global Director of Field Marketing
+* [ ] `Global Director of Field Marketing` 
+
+1. Contracts over $25,000 USD require approval checkoff from:
+* [ ] @mention DRI 
+* [ ] `@ mention the Field Marketing Country Manager` - once the FMM Country Manager has signed off, he/she will add the Global Director of Field Marketing
+* [ ] `Global Director of Field Marketing` -  once the Global Director of Field Marketing has signed off, he/she will add the Sr. Director of Revenue Marketing
+* [ ] `Sr. Director of Revenue Marketing` - once the Sr. Director of Rev Marketing has signed off he/she will tag the CMO
+* [ ] `@ mention the CMO`
+
+
 ### 2: Purchase Type: Professional Services and all other contract types
 
 1. Open a Vendor Contract Request issue with [this template](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=general_vendor_contract_request) 
@@ -65,6 +88,28 @@ A video tutorial of the issue creation process can be found [**HERE**](https://g
 1. This template can be used for addendums that either do or do not change pricing.
 
 A video tutorial of the issue creation process can be found [**HERE**](https://gitlab.zoom.us/rec/share/6-h-N5zR71tIS5Xdsn-Pf7NiD53Eeaa80XMZ-fUNxEfuCbA_5yfQNyOY4AUZsmwh?startTime=1584653128000)
+
+#### Field Marketing Approval Matrix
+If you are in Field Marketing, please note the below approval matrix. Select the appropriate approvals based on your contract threshold and copy and paste into the approval section of the Vendor Contract Request template.
+
+1. Contracts between $0 & $9,999 USD can be approved by individual DRI 
+* [ ] @mention DRI 
+
+1. Contracts between $10,000 - $19,999 USD require approval checkoff from:
+* [ ] @mention DRI 
+* [ ] `@ mention the Field Marketing Country Manager`
+
+1. Contracts between $20,000 - $25,000 USD require approval checkoff from:
+* [ ] @mention DRI 
+* [ ] `@ mention the Field Marketing Country Manager` once the FMM Country Manager has signed off, he/she will add the Global Director of Field Marketing
+* [ ] `Global Director of Field Marketing` 
+
+1. Contracts over $25,000 USD require approval checkoff from:
+* [ ] @mention DRI 
+* [ ] `@ mention the Field Marketing Country Manager` - once the FMM Country Manager has signed off, he/she will add the Global Director of Field Marketing
+* [ ] `Global Director of Field Marketing` -  once the Global Director of Field Marketing has signed off, he/she will add the Sr. Director of Revenue Marketing
+* [ ] `Sr. Director of Revenue Marketing` - once the Sr. Director of Rev Marketing has signed off he/she will tag the CMO
+* [ ] `@ mention the CMO`
 
 ### 3: Purchase Type: Field Marketing and Events withOUT Confidential Data
 
