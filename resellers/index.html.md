@@ -11,7 +11,7 @@ title: "Channel Partner Handbook"
 
 GitLab Channel Partners are the primary audience for this Handbook page.
 
-### GitLab Partner Program Overview
+### INTRODUCTION:  GitLab Partner Program Overview
 
 The GitLab Partner Program is a new kind of program.  It’s open to everyone and like our overall company culture, everyone can contribute.  Although we welcome all partners, our program is structured to provide additional rewards for partners that make a commitment and investments in a deeper GitLab relationship.
 
@@ -137,11 +137,11 @@ This Partner Program Guide will provide you with details on the rules of engagem
 
 
 *   Section 1:  Program Requirements, Benefits and Guidelines
-*   Section 2:  How to work with GitLab
+*   Section 2:  Working with GitLab
 *   Section 3:  Tools and Resources
 
 
-### Section 1: Program Requirements, Benefits and Guidelines
+### SECTION 1: Program Requirements, Benefits and Guidelines
 
 In this section, we cover:
 
@@ -394,7 +394,7 @@ Your company has unique expertise and best practices in helping companies optimi
  As part of our GitLab Partner Program, we provide resources, training and other investments to help you build out your services practice.  Your Channel Account Manager will help you develop a plan and utilize GitLab resources to build your GitLab services business.
 
 
-### Section 2: Working with GitLab
+### SECTION 2: Working with GitLab
 
 Onboarding our partners is incredibly important to us at GitLab. We want to ensure that you quickly get the training and resources you need to get off to a strong start with GitLab.
 
@@ -569,7 +569,7 @@ Your website needs to have a landing page with information about GitLab. You can
 *   Please include a _“What is GitLab?”_ paragraph.
 *   Wherever you mention a GitLab product or feature, there should be a link back to our corresponding item on about.gitlab.com.
 
-##### **Authorized Reseller Logos**
+##### Authorized Reseller Logos
 
 *   The GitLab Authorized reseller logo lets your prospects and customers know that we are working with you.
 *   Use our Authorized Reseller Logo on your materials where appropriate and in accordance with our brand guidelines.
@@ -622,7 +622,7 @@ MDF may not be used for capital expenses or the normal cost of business.
 *   If GitLab subsequently denies an MDF claim for good cause after reimbursement, you must immediately return such funding to GitLab.
 *   The terms of these MDF guidelines are in addition to the applicable channel partner agreement in place with GitLab, and are valid only when specifically referenced from the applicable channel partner agreement, program guide, or otherwise made available to a channel party by GitLab in writing. All terms not otherwise defined herein have the meaning set forth in the applicable channel partner agreement.
 
-#####  SECTION HERE?
+#####  Entering an MDF Request and Proof of Performance
 
 
 Partners can access the MDF Request From from the GitLab Partner Portal home page, navigate to Marketing and select “MDF Request.”  Upon selecting MDF Request, complete the first part of the firm to create a fund request. Once completed, submit it and it will be routed to a GitLab Representative for approval within 14 business days. 
@@ -636,7 +636,8 @@ While not required, we expect customers will, for the most part, contact you if 
 
 For pre-sales technical issues, please contact your local GitLab sales team
 
-**Tools and Resources**
+
+### SECTION 3: Tools and Resources
 
 
 #### GitLab Partner Portal
@@ -661,46 +662,33 @@ The GitLab team handbook is the central repository for how we run the company. P
 
 #### Partner FAQ's
 
-##### What is the Deadline to sign the new contract in order to be eligible for deal registration and new program incentives? 
-* New Partners - need to sign a new contract
-
-* Existing Partners who signed GitLab contracts before Oct 1, 2019 - Sign new agreement by July 1, 2020 
-
-* Existing Partners who signed GitLab contracts on or after Oct 1, 2019  - Sign new agreement by October 1, 2020
-
-##### What happens to Partners who don't sign by appropriate deadline (based on original contract date)? 
+**What happens to Partners who don't sign by appropriate deadline (based on original contract date)?** 
 * Deal registrations will likely not be approved and thus will not qualify for program discounts. 
 
-##### What is the Deal Registration Date?
+**What is the Deal Registration Date?**
 * This is the date when a deal registration is submitted via the Partner Portal. 
 
-##### For quotes sent prior to the new program announcement, how long will they remain valid? 
+**For quotes sent prior to the new program announcement, how long will they remain valid?** 
 * Quotes will be valid for 30 days, per standared GitLab quote [Guidelines.](https://about.gitlab.com/handbook/business-ops/order-processing/) 
 
-##### How long are quotes valid under the new program? 
+**How long are quotes valid under the new program?** 
 * Quotes will be valid for 30 days, per the GitLab quote guidelines. 
 
-##### For existing Partners signing new contracts, how long will the deal registrations be valid?
-* Deal registrations are valid for the standard 90 day period. 
+**If the new contract is signed during the middle of a deal, what pricing discount is used?** 
+* If the new program contract is signed before quotes are created, the new program discounts will be used in the quote.  Otherwise, legacy contract discount levels will be used. 
 
-##### If the new contract is signed during the middle of a deal, what pricing discount is used? 
-If the new program contract is signed before quotes are created, the new program discounts will be used in the quote.  Otherwise, legacy contract discount levels will be used. 
-
-##### When did the new program become effective? 
+**When did the new program become effective?** 
 * The program went into effect April 2, 2020, however Partners will only recieve new program discounts and benefits when they excute the contract for the new program. 
 
-##### For an existing Partner, can the new program incentives become effective on July 1, even if we sign the contract prior to June 30th. 
-* No, Discounts are effective the date of the contract signing.  
-
-##### Do Starter/Bronze Licences qualify for the 10% renewal discount?
+**Do Starter/Bronze Licences qualify for the 10% renewal discount?**
 * Resale and renewal discounts are not available for Starter/Bronze licences. 
 
-##### When is a licence considered new vs. renewal?
+**When is a licence considered new vs. renewal?**
 * New licences = New customer, incremental licenses at existing customers or upgrades for existing customers. 
 
 * Renewal = Contract extension for existing licenses. 
 
-##### What is counted towards the $300k target revenue in order to qualify for Select?
+**What is counted towards the $300k target revenue in order to qualify for Select?**
 * This includes all the incremental licences sold to new and existing customers. This includes Starter/Bronze icences, however the Partner needs to show ability and success in selling/upselling Premium/Silver and Ultimate/Gold to qualify. 
 
 
