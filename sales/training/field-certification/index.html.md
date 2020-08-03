@@ -60,7 +60,7 @@ Please note: The GitLab Moments That Matter continue to evolve. To see that late
 We are on schedule to deliver the first learning paths for the Field Certification Program in FY21Q3. 
 - Pipeline Generation & Qualification for Strategic Account Leaders
 - The Required 7 for Account Executives 
-- Demoing to Win for Solutions Architects
+- Delivering Value-Driven Demos for Solutions Architects
 - Onboarding the Customer for Technical Account Managers 
 
 <figure class="video_container">
