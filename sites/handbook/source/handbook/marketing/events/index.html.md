@@ -173,7 +173,7 @@ The purpose of creating a new issue for each ancillary event is to better facili
      - Add in any discounts or contract negotiations you have already completed.
 1. When contract has been signed the DRI will update issue label from `status:plan` to `status:wip`.
      - At this point, all relevant details (loation, venue, time, date, etc.) must be included by the event organizer.
-     - The designated MPM will begin the backend execution using this information. [see MPM steps to set up event epic](/handbook/marketing/events#MPM steps to set up event epic)
+     - The designated MPM will begin the backend execution using this information. [see MPM steps to set up event epic](/handbook/marketing/events#mpm-steps-to-set-up-event-epic)
 - The designated MPM will begin the backend execution.
      - The MPM will create the event Epic, adding the checklist of related issues that need to be opened by respective team and high level information.
      - The MPM will also associate any issues opened for the event to the Epic.
