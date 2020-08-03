@@ -11,7 +11,7 @@ title: "Frontend Group"
 
 ## Teams
 
-* [Configure](/handbook/engineering/frontend/configure/)
+* [Configure](/handbook/engineering/development/ops/configure/)
 * [Create](/handbook/engineering/frontend/create/)
 * [Manage](/handbook/engineering/frontend/manage/)
 * [Monitor](/handbook/engineering/frontend/monitor/)
