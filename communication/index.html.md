@@ -504,7 +504,7 @@ and posted to our [Unfiltered YouTube channel](https://www.youtube.com/channel/U
 1. When scheduling a meeting, please try to have it start at :00 (hour) or :30 (mid-hour) to leave common start times available for other meetings on your attendees' calendars. Meetings should be for the time needed, so if you need 15 minutes just book that.
 1. When creating a calendar event that will be used company wide, please place it on the GitLab Team Meetings Calendar. That way the event is easily located by all individuals.
 1. When you need to cancel a meeting, make sure to delete/decline the meeting and choose the option **Delete & update guests** to make sure everyone knows you can't attend and don't wait for you.
-1. If you want to schedule a meeting with a person not on the team please use [Calendly](/handbook/tools-and-tips/#calendly). Use Google Calendar directly if scheduling with a GitLab team member.
+1. If you want to schedule a meeting with a person not on the team please use [Calendly](/handbook/tools-and-tips/other-apps/#calendly). Use Google Calendar directly if scheduling with a GitLab team member.
 1. **Materials Review** are scheduled as all day not busy events as a reminder three days before the scheduled call.
 
 ### No-meetings Fridays
@@ -558,7 +558,7 @@ for a video call.
 1. We prefer [Zoom](https://gitlab.zoom.us/).
 1. Google Calendar also has a [Zoom plugin](https://chrome.google.com/webstore/detail/zoom-scheduler/kgjfgplpablkjnlkjmjdecgdpfankdle?hl=en-US) where you can easily add a Zoom link for a video call to the invite
 1. For meetings that are scheduled with Zoom:
-   1. If you need more privileges on Zoom (longer meeting times, more people in the meeting, etc.), please contact People Operations Specialist as described [specifically for Zoom](/handbook/tools-and-tips/#sts=Zoom).
+   1. If you need more privileges on Zoom (longer meeting times, more people in the meeting, etc.), please contact People Operations Specialist as described [specifically for Zoom](/handbook/tools-and-tips/other-apps/#shush).
    1. Note that if you select to record meetings to the cloud (setting within Zoom), you must include the text `[REC]` in the meeting title if you want them to be automatically placed in the `GitLab Videos Recorded` folder in Google Drive on an hourly basis via a [scheduled pipeline](https://gitlab.com/gitlab-com/zoom-sync/pipelines).
    1. You can find these videos in Google Drive by looking under `Shared drives` and `GitLab Videos Recorded`. If you do not have access to this drive, contact [IT Ops](https://gitlab.com/gitlab-com/business-ops/itops/issue-tracker/issues).
    1. The [script for syncing the files is here](https://gitlab.com/gitlab-com/zoom-sync).
@@ -850,7 +850,7 @@ For example, do not suggest that you're "working in real-time" when a matter is 
 
 Do not use a cool term such as "tiger team" when the [existing term of "working group"](/company/team/structure/working-groups/) is more exact. While cool terms such as these may be useful for persuading colleagues to join you in working towards a solution, the right way isn't to use flowery language.
 
-The last example is when we used 'Prioritizing for Global Optimization' for what we now call a [headcount reset](/handbook/product/product-processes/#prioritize-global). When we [renamed it](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/31101/diffs) we saw a good reduction in the use of this disruptive practice of moving people around.
+The last example is when we used 'Prioritizing for Global Optimization' for what we now call a [headcount reset](/handbook/product/product-processes/#headcount-resets). When we [renamed it](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/31101/diffs) we saw a good reduction in the use of this disruptive practice of moving people around.
 
 ## Deep Dives
 
