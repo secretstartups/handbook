@@ -376,30 +376,39 @@ metadata.
   * System field, Required for end users
 * Type
   * System field
-* License troubleshooting
 * Transactions Issue Type
   * Required for agents
+* Billing-related inquiry
+  * Required conditionally
+* Special GitLab Program inquiries
+  * Required conditionally
+* Cancelation/refund requests
+  * Required conditionally
+* Product transfer request
+  * Required conditionally
+* Other (Licensing)
+  * Required conditionally
+* L&R: Product / Process Questions
+  * Required conditionally
+* Sales assistance required
+  * Required conditionally
+* Upgrade assistance
+  * Required conditionally
+* Trial - related inquiries
+  * Required conditionally
 * Transactions & Licensing - Product
   * Required for agents
-* True-up troubleshooting
-  * Upgrade assistance
-* Trial - related inquiries
-* Cancelation/refund requests
 * GitLab.com issue
-* .Com - Self-hosted transfer requests
-* Special GitLab Program inquiries
-* Other (Licensing)
-* Billing-related inquiry
-* Customer Priority
+  * Required conditionally
+* Customer priority
   * Editable for end users
 * Priority
   * System field
 * GitLab Issues
-* Escalated to Education
+* L&R: Documentation/Training
 * Escalated to Sales
-* Portal Bug
 * Preferred Region for Support
-  * Editable for end users
+  * Required for end users, Editable for end users
 * ARR
 * Channel (Received at email)
 
@@ -407,21 +416,16 @@ metadata.
 
 <details>
 <summary> <b>Conditions</b> </summary>
+For agents
 
 * Transactions Issue Type
-  * If value is `License troubleshooting`, then show `License troubleshooting`
-  * If value is `Upgrade`, then show `Upgrade assistance`
-  * If value is `Trial - related inquiries`, then show `Trial - related
-    inquiries`
-  * If value is `Cancelation/refund requests`, then show `Cancelation/refund
-    requests`
-  * If value is `Other`, then show `Other (Licensing)`
-  * If value is `Gitlab.com Issue`, then show `GitLab.com issue`
-  * If value is `.Com - Self-hosted transfer requests`, then show `.Com -
-    Self-hosted transfer requests`
-  * If value is `EDU/OSS`, then show `Special GitLab Program inquiries`
-  * If value is `Billing-related inquiry`, then show `Billing-related inquiry`
-
+  * If value is `Upgrade`, Then show `Upgrade assistance`
+  * If value is `GitLab.com issue`, Then show `GitLab.com issue (Required always)`
+  * If value is `Product transfer request`, Then show `Product transfer request (Required always)`
+  * If value is `EDU/OSS/Startups`, Then show `Special GitLab Program inquiries (Required always)`
+  * If value is `Billing-related inquiry`, Then show `Billing-related inquiry (Required always)`
+  * If value is `Sales assistance required`, Then show `Sales assistance required (Required always)`
+  * If value is `Product/Process question`, Then show `L&R: Product / Process Questions (Required always)`
 </details>
 
 ### [Accounts Receivable / Refunds](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/360000258393)
