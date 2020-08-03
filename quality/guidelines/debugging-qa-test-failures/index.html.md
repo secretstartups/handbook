@@ -339,5 +339,5 @@ Two videos walking through the triage process were recorded and uploaded to the 
 
 [quarantining tests]: #quarantining-tests
 [`:flaky`]: #flaky-test
-[`:bug`]: #bug-in-application-code
+[`:bug`]: #bug-in-the-application
 [`:stale`]: #test-is-stale-due-to-an-application-change
