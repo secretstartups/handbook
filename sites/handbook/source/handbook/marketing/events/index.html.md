@@ -131,7 +131,7 @@ We ask these questions and use this scorecard to ensure that we're prioritizing 
 
 ### Step 2
 
-#### All events under the employee [authorization matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix) approval threshold **AND** No contract or security review required
+#### All events under the employee [authorization matrix](/handbook/finance/authorization-matrix/#authorization-matrix) approval threshold **AND** No contract or security review required
 1. **Event Owner** creates issue using the appropriate regional template with auto-applied `status::plan` label
      - [Corporate Event](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=corporate-event-request#)
 1. **Event Owner** copy/paste the `campaign tag` form the budget document into template. 
@@ -139,10 +139,10 @@ We ask these questions and use this scorecard to ensure that we're prioritizing 
 1. When ready, the **Event Owner** update **label** to `status::wip`, this is handoff where MPMs will create subsequent Epics/Issues. 
 1. MPM will use the **exact `campaign tag`** as the SFDC Campaign and Marketo Program name so it is the unique identifier across all systems. 
 
-#### All events OVER the employee [authorization matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix) approval threshold **AND** Contract or Security review required
+#### All events OVER the employee [authorization matrix](/handbook/finance/authorization-matrix/#authorization-matrix) approval threshold **AND** Contract or Security review required
 1. **Event Owner** creates issue using the appropriate regional template with auto-applied `status::plan` label
      - [Corporate Event](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=corporate-event-request#)
-1. **Event Owner (For Field Marketing, all finance issues are to be processed by the regional FMCs)** creates finance issue following the [Procure to Pay Process](/handbook/finance/procure-to-pay/#procure-to-pay-process) and includes the `campaign tag` from the budget document. 
+1. **Event Owner (For Field Marketing, all finance issues are to be processed by the regional FMCs)** creates finance issue following the [Procure to Pay Process](/finance/procure-to-pay/) and includes the `campaign tag` from the budget document. 
      - ROI calculation for event in the final cost section
      - Add the finance issue as a *Related Issue* to the FM event issue for reference.
 1. When event budget is approved by Finance, **Event Owner** verifies that the tag on the event and finance issue are accurate and match. Change label to `status::wip` which is handoff trigger for the MPMs to create subsequent Epics/Issues. 
@@ -167,7 +167,7 @@ The purpose of creating a new issue for each ancillary event is to better facili
 3. **Marketing Program Manager will add as a new line item for each ancillary event in the [Events googledoc](https://docs.google.com/spreadsheets/d/1mw16Ft0Wo379dT6OYingQ5A4xXTT1EjdpD6k-lgQync/edit#gid=0)**
 
 ### Step 3
-1. If the event is approved to move forward to contracting and is on the budget sheet, the DRI will start finance issue for contract review and signature following the [Procure to Pay Process](/handbook/finance/procure-to-pay/#procure-to-pay-process). For Field Marketing, all finance issues are to be processed by the regional FMCs. The finance issue will include:
+1. If the event is approved to move forward to contracting and is on the budget sheet, the DRI will start finance issue for contract review and signature following the [Procure to Pay Process](/handbook/finance/procure-to-pay/). For Field Marketing, all finance issues are to be processed by the regional FMCs. The finance issue will include:
      - ROI calculation for event in the final cost section.
      - Add the finance issue as a `Related issue` to the original issue for reference.
      - Add in any discounts or contract negotiations you have already completed.
@@ -195,7 +195,7 @@ The purpose of creating a new issue for each ancillary event is to better facili
      - Booth number (should be included in Epic name)
      - Any other high level informaiton that will be relevant to anyone attending
 1. If the event needs a speaker, start an issue with the `Speaker Request` issue template. 
-1. If a customer speaker is required for this event, assign the `Speaker Request` to your regional [Customer Reference lead](https://about.gitlab.com/handbook/marketing/product-marketing/customer-reference-program/#which-customer-reference-team-member-should-i-contact). The Customer Reference lead will work with the Event Managers and the Sales team in identifying and engaging with customers to speak at events. 
+1. If a customer speaker is required for this event, assign the `Speaker Request` to your regional [Customer Reference lead](/handbook/marketing/product-marketing/customer-reference-program/#which-customer-reference-team-member-should-i-contact). The Customer Reference lead will work with the Event Managers and the Sales team in identifying and engaging with customers to speak at events. 
 1. Landing Pages for Events ([detailed instructions]())
      - Corporate event landing pages are generated from the `events.yml` - [Detailed instructions]()
           - The MPM will create an issue for content to be provided working with Alliances &/or Product Marketing team on copy. 
@@ -214,7 +214,7 @@ The purpose of creating a new issue for each ancillary event is to better facili
      - Post Event Email copy - **1 to 2 weeks** in advance of event
 1. Social
      - Start issue using the `Social Request` template for general social awareness posts and any social ads that need to be created.
-     - For complete instructions on how to obtain social support at your event, please review the [social requests instructions](/handbook/marketing/corporate-marketing/social-marketing/#requesting-social-promotion-).
+     - For complete instructions on how to obtain social support at your event, please review the [social requests instructions](/handbook/marketing/corporate-marketing/social-marketing/admin/#requesting-social-promotion-).
 1. Design
      1. For the latest approved booth design & messaging, email `events@gitlab.com`.
      1. Open issue in the `Corporate Marketing` project for booth design. Assign to Design team and provide booth spec and due date. Provide as much notice as possible.
@@ -242,7 +242,7 @@ The purpose of creating a new issue for each ancillary event is to better facili
      - Order extra storage at the event if all swag will not fit witin the booth.
 1. Leads and Campaign Setup
      - Field Marketing DRI is responsible for pulling, cleaning and sharing the lead list with the MPM and MktgOps within 24 hours of event close or as soon as received by event coordinators.
-     - If the event had multiple parts (booth, happy hour, meetings, etc) each will have its own Salesforce campaign and [Member status progressions](/handbook/business-ops/resources/#campaign-type--progression-status).
+     - If the event had multiple parts (booth, happy hour, meetings, etc) each will have its own Salesforce campaign and [Member status progressions](/handbook/marketing/marketing-operations/#campaign-type--progression-status).
      - Use template to standardize the data following the [list import guidelines](/handbook/business-ops/resources/#list-imports).
 
 ## MPM steps to set up event epic
@@ -364,7 +364,7 @@ If the date changes after the MPM set up the issues, epic, and tracking for the 
 
 #### When Owned Offline Events turn to Virtual Owned events
 
-FMM and MPM determine format of this virtual event from [documented options.](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#types-of-virtual-events-in-gitlab) FMM lets interested teams know that the event has switched to digital, the existing landing page is no longer accepting registrations and sales-nominated flow has been stopped (if applicable).
+FMM and MPM determine format of this virtual event from [documented options.](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/) FMM lets interested teams know that the event has switched to digital, the existing landing page is no longer accepting registrations and sales-nominated flow has been stopped (if applicable).
 
 * **If this is a self-service ZOOM Meeting with promotion:**
   * FMM: create the new epic, issues needed (e.g. list upload) and ZOOM meeting.
@@ -655,11 +655,11 @@ The `Dietary Restrictions` field can be leveraged as a list filter by the MPMs i
 1. Event DRI follow up on leads to make sure expected followup completed and lead status changed. 
 
 Common lead questions:
-- Record ownership will be assigned using the [Global Ownership](/handbook/business-ops/resources/#global-account-ownership) rules
+- Record ownership will be assigned using the [Global Ownership](/handbook/business-ops/resources/#account-ownership-rules-of-engagement) rules
 - All followup needs to be tracked in SFDC  
 - List upload needs to be done **before** follow up is done so we can ensure proper order of operations & attribution is given correctly  
 - Record Owner and/or SDR doing follow up need to be sure to update the [`Contact Status`](/handbook/business-ops/resources/#lead--contact-statuses) on the record as follow up is done.
-- Campaign type & meaning of [Campaign Member status](/handbook/business-ops/resources/#campaign-type--progression-status) can be found in the Business Ops handbook
+- Campaign type & meaning of [Campaign Member status](/handbook/marketing/marketing-operations/#campaign-type--progression-status) can be found in the Business Ops handbook
 
 #### Onsite registration form & landing page
 For **FIELD** events that don't have badge scanners onsite, the FMM event owner can request an onsite registration form and landing page which can be used to collect names at the booth. The landing page (including the form) can be accessed by a unique URL via iPad, mobile phone or laptop and should only be used by staff at the booth and deactivated post-event by Marketing Ops.
@@ -758,7 +758,7 @@ Nadel Admin Portal Demo - [View Here](https://drive.google.com/open?id=1YNNjr-A8
 - **Large Orders:** For orders over 500 pieces, please do not pull from existing stock in the Nadel portal. Contact `@krogel` for assistance on placing a new order.
 - **Shipping:** Please make sure to specify all shipping requirements and deadlines when ordering your items. Nadel will provide return shipping labels with each order for easy return shipping to the warehouse after your event.
 - **Lead Times:** Please be aware that ordering newly designed swag or placing reorders for existing items requires adequate lead time. Timeframes vary greatly based on the items selected and design approval. General Lead Times: 6 weeks to produce a new item and 2-3 weeks to reorder current designs.
-- **Stickers:** For sticker orders, please utilize our [Sticker Mule](https://www.stickermule.com/) account. Delivery options and timelines are provided during the ordering process. Any new sticker designs must be approved by the brand team for brand consistency. You can suggest new designs in the swag slack channel or more formally in an issue in the [Swag Project](https://gitlab.com/gitlab-com/swag_suggestions).
+- **Stickers:** For sticker orders, please utilize our [Sticker Mule](https://www.stickermule.com/) account. Delivery options and timelines are provided during the ordering process. Any new sticker designs must be approved by the brand team for brand consistency. You can suggest new designs in the swag slack channel or more formally in an issue in the corporate marketing project using the swag request template.
 
 ### AMER Field Marketing Event Assets 
 Each FMM and FMC is to keep a GitLab tablecloth, popup banner and table runner with them to be utilized for events. Ordering instructions are provided during onboarding, but if replacement items are needed, please contact your Field Marketing Coordinator. Additional event assets (including popup booths) are stocked at the Nadel warehouse and can be shipped via the [Nadel Portal](https://rhu270.veracore.com/v5fmsnet/MONEY/OeFrame.asp?PmSess1=2406114&Action=LOGIN&pos=GIT476&v=4&OfferID=&sxref=) utilizing the Field Marketing team login available in the 1Password Marketing Vault. 
