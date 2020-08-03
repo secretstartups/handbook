@@ -259,12 +259,12 @@ Is there anything else that I need to know to initiate my Parental Leave?
     * [GitLab PTY Australia Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#gitlab-pty-australia-leave-policy)
 
 **Process for Total Rewards Analysts**
+  * PTO Ninja will notify Total Rewards of any upcoming parental leave.
   * Log and monitor upcoming parental leave in the "Parental Leave Log" Google sheet on the drive.
-  * Once the leave is official:
-    * File all documentation in BambooHR.
-    * Update the Employment Status of the team member to "Parental Leave" with the date the team member started leave.
-  * Add another entry with the date the team member will return from leave with the status "End of Parental Leave" and in the comment section, add "Tentative". This will generate a notification to the Compensation & Benefits team 1 day after the team member returns from leave.
   * Notify payroll.
+  * Update the BambooHR Employment Status of the team member to "Parental Leave" with the start date of the leave.
+  * Add another entry with the date the team member will return from leave with the status "End of Parental Leave". This will generate a notification to the Compensation & Benefits team 1 day after the team member returns from leave.
   * Once BambooHR notification is received:
     * Change "End of Parental Leave" status to "Active" and in the comment section, add "Return from leave".
     * Update payroll of the team's return date.
+  * If a team member changes the date of their parental leave, update payroll and the BambooHR Employment Status table.
