@@ -28,13 +28,13 @@ title: "Recruiting Alignment"
 | Quality | Rupert Douglas   |Cyndi Walsh | Taharah Nix  |  Ashley Jones  | Caesar Hsiao |Anastasia Pshegodskaya|
 | UX & Technical Writing | Rupert Douglas |Cyndi Walsh | Taharah Nix  |  Ashley Jones  | Zsusanna Kovacs  |Anastasia Pshegodskaya|
 | AMER Support| Chantal Rollison  |Cyndi Walsh  | Lea Hanapol  | Ashley Jones  | Alina Moise |Anastasia Pshegodskaya|
-| EMEA Support  | Trust Ogor/Rupert Douglas |Liam McNally/Cyndi Walsh | Corinne Sapolu/Taharah Nix/Lea Hanopol  |  Ashley Jones  | Joanna Michniewicz/Zsuzsanna Kovacs  |Anastasia Pshegodskaya|
+| EMEA Support  | Trust Ogor/Rupert Douglas |Liam McNally/Cyndi Walsh | Lea Hanopol/Taharah Nix  |  Ashley Jones  | Joanna Michniewicz/Zsuzsanna Kovacs  |Anastasia Pshegodskaya|
 | APAC Support  | Ryan Demmer/Matt Allen   |Liam McNally/Cyndi Walsh | Kalene Godoy/Taharah Nix   |  Ashley Jones | Caesar Hsiao/Chris Chruz  |Anastasia Pshegodskaya|
 | Security | Ryan Demmer  |  Liam McNally | Kalene Godoy  |  Ashley Jones | Caesar Hsiao  |Anastasia Pshegodskaya|
 | Development - Secure/Defend  | Ryan Demmer  |Liam McNally  | Kalene Godoy |  Ashley Jones  | Caesar Hsiao   |Anastasia Pshegodskaya|
 | Infrastructure   | Matt Allen  |Cyndi Walsh  | Taharah Nix |  Ashley Jones  | Chris Cruz |Anastasia Pshegodskaya|
-| Development - Dev   | Ryan Demmer or Chantal Rollinson (Catarina Ferreira Seconded)   |Liam McNally  | Corinne Sapolu  | Ashley Jones   | Joanna Michniewicz  |Anastasia Pshegodskaya|
-| Development - Ops  | Ryan Demmer (Eva Petreska seconded) | Liam McNally  | Taharah Nix |  Ashley Jones | Zsuzsanna Kovacs  |Anastasia Pshegodskaya|
+| Development - Dev   | Ryan Demmer or Chantal Rollinson (Catarina Ferreira Seconded)   |Liam McNally  | Kalene Godoy/Lea Hanopol  | Ashley Jones   | Joanna Michniewicz  |Anastasia Pshegodskaya|
+| Development - Ops  | Ryan Demmer (Eva Petreska seconded) | Liam McNally  | Kalene Godoy |  Ashley Jones | Zsuzsanna Kovacs  |Anastasia Pshegodskaya|
 | Development - Growth & Enablement  | Trust Ogor | Liam McNally    | Lea Hanopol  |  Ashley Jones  | Alina Moise  |Anastasia Pshegodskaya|
 | Product Management  | Matt Allen   |Cyndi Walsh  | Taharah Nix |  Ashley Jones  |  Chris Cruz |Anastasia Pshegodskaya|
 | Product & Engineering - Non-Dev (Key Roles)   | Cyndi Walsh   | Liam McNally  | Ashley Jones |  April Hoffbauer |  Chris Cruz |Anastasia Pshegodskaya|
