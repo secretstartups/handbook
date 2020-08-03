@@ -487,7 +487,7 @@ The recruiting team will ask candidates for references via email. The hiring man
 
 ## Background checks
 
-Concurrently with the reference checks, the recruiting team will begin a [background check](/handbook/people-group/code-of-conduct/#background-checks) on the candidate. When the recruiting team initially requests the candidate's reference details, they will also begin the background check process and inform the candidate.
+Concurrently with the reference checks, the recruiting team will begin a [background check](https://about.gitlab.com/handbook/people-group/people-policy-directory/#background-checks) on the candidate. When the recruiting team initially requests the candidate's reference details, they will also begin the background check process and inform the candidate.
 
 ## After the Interviews
 
