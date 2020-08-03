@@ -31,7 +31,7 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
 
 ## Pay Date
 
-1. Employees of GitLab Inc and GitLab Federal will get pay on the 15th and the last day of the month.  The payroll schedule, pay slips, and W-2(s) are available on [ADP portal](https://workforcenow.adp.com). 
+1. Employees of GitLab Inc and GitLab Federal will get pay on the 15th and the last day of the month.  The payroll schedule, pay slips, and W-2(s) are available on [ADP portal](https://workforcenow.adp.com).
    - To access pay statements, go to Myself -> Pay -> Pay Statements.
    - To access form W-2, go to Myself -> Pay -> Annual Statements.
 1. Employees of GitLab BV (Netherlands) will get their salary wired on the 25th of every month, and can see their pay slip in their personal portal on
@@ -136,7 +136,7 @@ Lumity will send a “Diff” payroll file to Payroll 5 days before pay date for
    * Payroll Specialist processing GitLab Inc will review payroll changes for GitLab Federal payroll and vice versa
    * Sr. Manager, Global Payroll and Payments will perform a final review and approve the payroll
    * All validation and reconcilation reports must be sign by the preparer, reviewer, and approver
- 
+
 
 #### Reports after Accept payroll
 
@@ -188,7 +188,7 @@ Generate the following reports and saved them on Google Shared drive for Federal
 ### Contractors
 
 #### iiPay:
-1. Team members must submit their salary invoices through BambooHR and expense through Expensify by the 8th of each month
+1. Team members must submit their salary invoices through BambooHR and expenses through Expensify by the 8th of each month. For example, submit May salary invoice in the month of May, which is the current month.
 1. To enter salary invoice in BambooHR:
    * Visit "My Info" page
    * Select "Request a Change", locate at the upper right corner in that section
@@ -212,7 +212,7 @@ Generate the following reports and saved them on Google Shared drive for Federal
 1.  For expense reimbursement, team member will need to submit through Expensify and report(s) must be approved by managers by the 8th of each month
 1.  Payroll will approve all expense reports by the 9th of each month
 1.  If the 8th fall on the holidays or weekend, then the due date will move to the last business day before the 8th.
-1.  For all new hires starting after the 8th of each month, then the current month payment will be paid with the following invoice as separate payment
+1.  For all new hires starting after the 8th of each month, then the current month payment will be paid with the following month's invoice as separate payment. For example, new joiner who joined after 8th April to submit pro-rated April salary invoice by the 8th of the following month, which is 8th of May.
 1.  Note - all new team members will receive a testing payment from iiPay to validate their bank details prior to th 1st live payment.  Please enter the bank details on the 1st day of employment.
 1.  The required fields for bank details in BambooHR under Bank Information tab:
     * Bank Name
@@ -265,7 +265,7 @@ All payroll changes (demographic information, job, bonus/commission payout reque
 - GitLab BV (Belgium) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1eMPUirNk-AtBMTF4tE49G1xCHWES_r2VfDph5KiIHP0/edit#gid=1680317269)
 - GitLab GMBH [Payroll Calendar](https://docs.google.com/spreadsheets/d/19lNDx_aiAQDoSKBRRWF779jT2qB5lG84PrBOYQYd5sI/edit#gid=1165608204)
 - GitLab PTY LTD [Payroll Calendar](https://docs.google.com/spreadsheets/d/1CO7H27ofFcFL7ztVi8Eg8_hI3W8mUwAwUtePsPJkdGw/edit#gid=724771463)
-- For all PEOs and iiPay Contractors, the payroll cut off date is 8th of each month. 
+- For all PEOs and iiPay Contractors, the payroll cut off date is 8th of each month.
     - CXC (Poland, Ukraine, Russia, Romania) [Payroll Calendar](https://docs.google.com/spreadsheets/d/18cPImcwNM4muYxJj-NHQ6YwPrxG45AmDn7GZ1t-N1rI/edit#gid=114243454)
     -  SafeGuard ([S. Korea,France, Hungary, Ireland](hhttps://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=775664482), [Japan](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=23411182), [Brazil](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=1366369546), [Italy](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=2113229619), [South Africa](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=818494923), [Spain](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=2086701953), [Switzerland](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=1979351390)) Payroll Calendar
 
