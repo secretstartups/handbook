@@ -56,6 +56,7 @@ Salesforce [chatter](https://about.gitlab.com/handbook/sales/field-operations/sa
 
 * Slack: [#sales-support](https://gitlab.slack.com/archives/sales-support)
 * Salesforce: [@sales-Support](https://gitlab.my.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F94M000000fy2K)
+* OKTA for Sales Tools: [OKTA Support](https://about.gitlab.com/handbook/business-ops/team-member-enablement/)
 
 ## **How to Get Help**
 
