@@ -7,14 +7,12 @@ title: Zendesk Overview
 
 Pages to read for more information:
 
-* [Automations](automations.html)
 * [Organizations](organizations.html)
 * [Schedules](schedules.html)
 * [SLA Policies](slas.html)
 * [Tags](tags.html)
 * [Ticket Forms](ticket_forms.html)
 * [Tickets](tickets.html)
-* [Triggers](triggers.html)
 * [Users](users.html)
 
 ## Macros
@@ -47,9 +45,26 @@ Currently, Zendesk views have some limitations:
 
 ## Triggers
 
+Triggers are business rules you define to run immediately after tickets are
+created or updated. They rely on a system of conditions and actions. They will
+not run once a ticket is closed.
+
 Instead of managing these via Zendesk itself, we instead us the
 [Zendesk Triggers](https://gitlab.com/gitlab-com/support/support-ops/zendesk-triggers)
 GitLab project. This allows us to have version-controlled triggers. See the
+project for more details.
+
+## Automations
+Automations happen at set intervals compared to triggers which happen immediately after events. 
+
+All automations run once every hour on all non-closed tickets. They execute, or
+fire, on all tickets where conditions are met. This does not mean they fire at
+the top/bottom of the hour though. They fire sometime during the hour. They
+should all fire during the same time period though
+
+Instead of managing these via Zendesk itself, we instead us the
+[Zendesk Automations](https://gitlab.com/gitlab-com/support/support-ops/zendesk-automations)
+GitLab project. This allows us to have version-controlled automations. See the
 project for more details.
 
 ## FAQs
