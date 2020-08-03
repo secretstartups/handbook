@@ -3,15 +3,14 @@ layout: handbook-page-toc
 title: "Making Gifs"
 ---
 
-Go to the [Handbook](/handbook/)
-
-Animated gifs are an awesome way of showing of features that need a little more than just an image, either for marketing purposes or explaining a feature in more detail. This page holds all information on the entire process of creating a gif.
-
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+Animated gifs are an awesome way of showing of features that need a little more than just an image, either for marketing purposes or explaining a feature in more detail. This page holds all information on the entire process of creating a gif.
 
 ## General
 
@@ -92,7 +91,7 @@ the entire screen or a portion of the screen.
 
 #### Quicktime (macOS)
 
-On every Mac, Quicktime has already been installed. It features a nice screen record option and even has basic trim and splitting functions in the *edit* menu! Perfect for creating those [video files](#step-1).
+On every Mac, Quicktime has already been installed. It features a nice screen record option and even has basic trim and splitting functions in the _edit_ menu! Perfect for creating those [video files](#step-1).
 
 ![quicktime gif](/handbook/product/making-gifs/quicktime.gif)
 

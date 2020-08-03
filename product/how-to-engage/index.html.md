@@ -3,15 +3,17 @@ layout: handbook-page-toc
 title: How to Engage with Product Management
 ---
 
-This document describes how to engage with the product management team. 
+This document describes how to engage with the product management team.
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
 ## Where to reach product managers
+
 {:.no_toc}
 
 - [**Public Issue Tracker (for Product)**](https://gitlab.com/gitlab-com/Product/issues); please use confidential issues for topics that should only be visible to team members at GitLab.
@@ -57,19 +59,19 @@ A salesperson for an organization asking for a paid-tier feature request shall
 work with the product manager to arrange conversations to further explore the
 feature request and desired outcome. The process will be:
 
-* Sales schedules 1 hour zoom meeting with product manager, customer, and
-  themselves. Call recorded if customer gives permission.
-* Product Manager prepares any additional questions they would like answered, beyond what is below.
-  * What version of GitLab are you currently using? CE / Starter / Premium?
-  * How are you currently doing source code management? GitLab merge requests or another tool? How about CI/CD?
-  * How are you currently doing issue management? How are you using HP ALM? Agile/Kanban? What do your sprint/iterations look like? 1 week? 1 month? 2 months?
-  * What is the integration like between issue management and source code management?
-  * How do teams manage multiple repos? Does a team typically work on one repo at a time? Or do they work on multiple repos at the same time?
-* Sales sends questions to customer prior to meeting.
-* Meeting is created in Salesforce.com
-* Sales creates a Google document for notes from call with customer.  Google Doc shared with product manager and sales manager
-* Sales and product manager schedule 15 minute pre-meeting to share what we know about the customer thus far, so as to not waste time asking questions we already know the answer to. Notes from this pre-meeting are added to the Google document.
-* Sales adds a link to the Google document under the account object as a note.
+- Sales schedules 1 hour zoom meeting with product manager, customer, and
+themselves. Call recorded if customer gives permission.
+- Product Manager prepares any additional questions they would like answered, beyond what is below.
+    - What version of GitLab are you currently using? CE / Starter / Premium?
+    - How are you currently doing source code management? GitLab merge requests or another tool? How about CI/CD?
+    - How are you currently doing issue management? How are you using HP ALM? Agile/Kanban? What do your sprint/iterations look like? 1 week? 1 month? 2 months?
+    - What is the integration like between issue management and source code management?
+    - How do teams manage multiple repos? Does a team typically work on one repo at a time? Or do they work on multiple repos at the same time?
+- Sales sends questions to customer prior to meeting.
+- Meeting is created in Salesforce.com
+- Sales creates a Google document for notes from call with customer. Google Doc shared with product manager and sales manager
+- Sales and product manager schedule 15 minute pre-meeting to share what we know about the customer thus far, so as to not waste time asking questions we already know the answer to. Notes from this pre-meeting are added to the Google document.
+- Sales adds a link to the Google document under the account object as a note.
 
 In the event that a paid customer is willing to pay for us to develop a specific
 feature, we should still respond as above. It's great that they're willing to
@@ -98,8 +100,8 @@ schedule any necessary changes for an upcoming release.
 
 If you have any product-related questions, comments, input, or otherwise, the
 product manager is the primary person you should talk to, _if creating an issue
-does not suffice_. Otherwise, [read this section on how to create an
-issue](/handbook/product/product-management/process/#how-to-submit-a-new-issue).
+does not suffice_. Otherwise, [read this section on how to create an](/handbook/product/product-processes/#how-to-submit-a-new-issue)
+issue.
 
 This includes, but is not limited to, features, bugs, and other changes that need
 to be prioritized, changed, discussed, or need more attention.
@@ -118,8 +120,8 @@ Whenever you're sharing feedback on an issue (e.g. "Customer X wants this"),
 please make sure to do the following:
 
 - Link to the source. Usually this is a link to Salesforce or Zendesk
-   - Use the Salesforce Account URL when it's a paying customer and you want to relate the ARR
-   - Use the Salesforce Opportunity URL when it's related to a specific deal (Opportunity)
+    - Use the Salesforce Account URL when it's a paying customer and you want to relate the ARR
+    - Use the Salesforce Opportunity URL when it's related to a specific deal (Opportunity)
 - Provide context: if a customer wants this feature, include _why_ they are interested in this. If you don't know,
 make sure to ask or bring the relevant PM in contact with the customer
 - Include any further useful context (e.g. what kind of software is this customer building, or how big are they)
