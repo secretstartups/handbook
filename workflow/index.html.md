@@ -340,7 +340,7 @@ We have the following deadlines:
   - Completed `m` issues with docs have been merged into master.
   - Feature flags should be flipped from default off to default on after verification to be in the `m` release. See [feature flags](https://docs.gitlab.com/ee/development/feature_flags/process.html).
   - Merging by the 17th **does not guarantee** that the feature will be in the `m` release. See [release timelines](https://about.gitlab.com/handbook/engineering/releases/#timelines).
-  - Individual [release post entries](/handbook/marketing/blog/release-posts/index.html#contributing-to-a-section) merged for all relevant issues.
+  - Individual [release post entries](/handbook/marketing/blog/release-posts/index.html#contribution-instructions) merged for all relevant issues.
   - By end of the day, milestone `m` is expired.
 - On or around `M, 19th`:
   - [Team Retrospectives](/handbook/engineering/management/team-retrospectives/) should happen so they can inform the [public retrospective](#retrospective)
@@ -357,7 +357,7 @@ We have the following deadlines:
 - By month `M+1, 4th` (within a few weeks of milestone `m` ending):
   - [Public Retrospective](#retrospective) is held.
 
-Refer to [release post due dates](/handbook/marketing/blog/release-posts/#due-dates) for additional deadlines.
+Refer to [release post content reviews](/handbook/marketing/blog/release-posts/#content-reviews) for additional deadlines.
 
 Note that deployments to GitLab.com are more frequent than monthly major/minor releases on the 22nd.
 See [auto deploy transition](https://gitlab.com/gitlab-org/release/docs/blob/21cbd409dd5f157fe252f254f3e897f01908abe2/general/deploy/auto-deploy-transition.md#transition) guidance for details.
@@ -411,7 +411,7 @@ for details on joining the livestream.
 
 ### Triaging retrospective improvements
 
-At the end of each retrospective the [Engineering Productivity team](/handbook/engineering/quality/#engineering-productivity-team) is responsible for triaging improvement items identified from the retrospective.
+At the end of each retrospective the [Engineering Productivity team](/handbook/engineering/quality/#engineering-productivity-structure) is responsible for triaging improvement items identified from the retrospective.
 This is needed for a single owner to be aware of the bigger picture technical debt and backstage work. The actual work can be assigned out to other teams or engineers to execute.
 
 ## Milestone Cleanup
