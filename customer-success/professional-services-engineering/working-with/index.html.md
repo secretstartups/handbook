@@ -15,6 +15,14 @@ At GitLab, Professional Services (PS) is part of the [Customer Success departmen
 
 You can also reach the group via the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) Slack Channel.
 
+#### Requesting training for GitLab team members
+
+Internal GitLab team leads can request training sessions delivered by Professional Services for their teams. Here are the steps for making a request. 
+
+1. [Create a new issue](https://gitlab.com/gitlab-com/customer-success/professional-services-group/education-services/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) in the Education Services namespace using the internal-trainer_request issue template.
+1. Complete the Requestor Tasks in the issue description.
+1. The PS Project Coordinator will reach out to plan and  your schedule the session.
+
 ### For Sales Reps and SAs: How to order Professional Services
 
 1. To order Professional Services, the SAL or ISR [creates an Opportunity in SFDC](https://about.gitlab.com/handbook/business-ops/resources/#how-to-create-an-opportunity) using the record type "Professional Services Only."
