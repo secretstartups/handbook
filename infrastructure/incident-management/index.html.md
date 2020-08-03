@@ -89,7 +89,7 @@ These definitions imply several on-call rotations for the different roles.
 1. _Be inquisitive_. _Be vigilant_. If you notice that something doesn't seem right, investigate further.
 2. After the incident is resolved, the EOC should start on performing an [incident review](/handbook/engineering/infrastructure/incident-review) (RCA) and [assign themselves](#incident-review-issue-creation-and-ownership) as the initial owner. Feel free to take a breather first, but do not end your work day without starting the RCA.
 
-#### Guidlines on Security Incidents
+#### Guidelines on Security Incidents
 
 At times, we have a security incident where we may need to take actions to block a certain URL path or part of the application.  This list is meant to help the Security Engineer On-Call and EOC decide when to engage help and post to status.io.
 
