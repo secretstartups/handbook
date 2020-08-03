@@ -66,7 +66,7 @@ Salesforce [chatter](https://about.gitlab.com/handbook/sales/field-operations/sa
 </summary>
 
 1. Visit the [Okta Handbook Page](https://patch-1982611222132688596703.about.gitlab-review.app/handbook/business-ops/okta/index.html) to learn more about Okta.
-1. Create a [General Help Desk Request](https://about.gitlab.com/handbook/business-ops/team-member-enablement/) by using the *submit issue* button and then selecting the General Help Desk Request template.
+1. Create a [General Help Desk Request](https://about.gitlab.com/handbook/business-ops/team-member-enablement/).  Use the *submit issue* button on the linked page and then select the General Help Desk Request template.
 1. Reach out to #it-help in Slack.
 
 
@@ -74,7 +74,7 @@ Salesforce [chatter](https://about.gitlab.com/handbook/sales/field-operations/sa
 
 <details>
 <summary markdown='span'>
-  Steps to creating an issue
+  Steps to creating an issue for Sales Operations
 </summary>
 
 1. Create an issue in our [project](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations), making sure to provide detailed business requirements.
