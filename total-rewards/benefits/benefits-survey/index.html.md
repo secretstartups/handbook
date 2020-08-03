@@ -88,6 +88,31 @@ By demographic:
     | Manager                | 4.35       | 3.88       | -10.90%    |
     | Leader                 | 4.46       | 4.00       | -10.31%    |
     | Company Overall        | 4.18       | 3.88       | -7.07%     |
+
+    By Country:
+
+    | Country             | 2020 Score |
+    | --------------------|------------|
+    | Australia           | 3.98       |
+    | Austria             | 3.40       |
+    | Canada              | 3.73       |
+    | Germany             | 3.72       |
+    | Hungary             | 3.25       |
+    | India               | 3.67       |
+    | Ireland             | 3.70       |
+    | Mexico              | 3.50       |
+    | Netherlands         | 3.56       |
+    | New Zealand         | 4.18       |
+    | Poland              | 4.00       |
+    | Romania             | 3.86       |
+    | Russian Federation  | 4.00       |
+    | Singapore           | 3.67       |
+    | South Africa        | 3.40       |
+    | Turkey              | 3.60       |
+    | Ukraine             | 3.40       |
+    | United Kingdom      | 3.86       |
+    | United States       | 3.99       |
+
 1. The general benefits at GitLab are equal to or better than what is offered by similar employers.
 
     | GitLab                 | 2019 Score | 2020 Score | YOY Change |
@@ -98,6 +123,31 @@ By demographic:
     | Manager                | 3.33       | 3.23       | -2.98%     | 
     | Leader                 | 3.46       | 3.12       | -9.96%     |
     | Company Overall        | 3.66       | 3.43       | -6.31%     | 
+
+    By Country:
+
+    | Country             | 2020 Score |
+    | --------------------|------------|
+    | Australia           | 3.51       |
+    | Austria             | 2.20       |
+    | Canada              | 3.17       |
+    | Germany             | 3.24       |
+    | Hungary             | 3.13       |
+    | India               | 3.00       |
+    | Ireland             | 2.57       |
+    | Mexico              | 2.67       |
+    | Netherlands         | 2.75       |
+    | New Zealand         | 3.55       |
+    | Poland              | 3.58       |
+    | Romania             | 3.29       |
+    | Russian Federation  | 3.00       |
+    | Singapore           | 2.67       |
+    | South Africa        | 3.67       |
+    | Turkey              | 3.40       |
+    | Ukraine             | 3.60       |
+    | United Kingdom      | 3.18       |
+    | United States       | 3.64       |
+
 1. The general benefits at GitLab save me a great deal of time and/or money, and add significant value to my employee experience.
 
     | GitLab                 | 2019 Score | 2020 Score | YOY Change |
@@ -108,6 +158,31 @@ By demographic:
     | Manager                | 3.38       | 3.41       |  0.84%     |
     | Leader                 | 3.54       | 3.43       | -3.00%     |
     | Company Overall        | 3.77       | 3.63       | -3.71%     |
+
+    By Country:
+
+    | Country             | 2020 Score |
+    | --------------------|------------|
+    | Australia           | 3.67       |
+    | Austria             | 3.20       |
+    | Canada              | 3.40       |
+    | Germany             | 3.86       |
+    | Hungary             | 3.75       |
+    | India               | 3.73       |
+    | Ireland             | 3.00       |
+    | Mexico              | 3.50       |
+    | Netherlands         | 2.96       |
+    | New Zealand         | 3.36       |
+    | Poland              | 3.42       |
+    | Romania             | 3.71       |
+    | Russian Federation  | 3.33       |
+    | Singapore           | 2.83       |
+    | South Africa        | 3.50       |
+    | Turkey              | 3.60       |
+    | Ukraine             | 3.60       |
+    | United Kingdom      | 3.21       |
+    | United States       | 3.79       |
+
 1. My benefits package provides quality coverage for myself and, if applicable, my dependents.
 
     | GitLab                 | 2019 Score | 2020 Score | YOY Change |
@@ -118,6 +193,16 @@ By demographic:
     | Manager                | 3.38       | 3.83       |  13.36%    |
     | Leader                 | 3.58       | 3.81       |   6.41%    |
     | Company Overall        | 3.60       | 3.79       |   5.14%    | 
+
+    By Country:
+
+    | Country             | 2020 Score |
+    | --------------------|------------|
+    | Canada              | 3.68       |
+    | India               | 2.07       |
+    | United Kingdom      | 3.06       |
+    | United States       | 3.94       |
+
 1. The wellness offerings at GitLab help me lead a happier, healthier life.
 
     | GitLab                 | 2019 Score | 2020 Score | YOY Change |
@@ -128,6 +213,30 @@ By demographic:
     | Manager                | 3.26       | 3.01       | -7.76%     |
     | Leader                 | 2.92       | 3.18       |  8.78%     |
     | Company Overall        | 3.36       | 3.24       | -3.50%     |
+
+    By Country:
+
+    | Country             | 2020 Score |
+    | --------------------|------------|
+    | Australia           | 3.07       |
+    | Canada              | 3.36       |
+    | Germany             | 2.74       |
+    | Hungary             | 2.88       |
+    | India               | 3.27       |
+    | Ireland             | 2.57       |
+    | Mexico              | 3.33       |
+    | Netherlands         | 2.74       |
+    | New Zealand         | 3.20       |
+    | Poland              | 2.83       |
+    | Romania             | 3.14       |
+    | Russian Federation  | 2.83       |
+    | Singapore           | 3.50       |
+    | South Africa        | 4.17       |
+    | Turkey              | 3.80       |
+    | Ukraine             | 3.20       |
+    | United Kingdom      | 3.04       |
+    | United States       | 3.41       |
+
 1. I believe our benefits package is one of the top reasons people apply to work at GitLab.
 
     | GitLab                 | 2019 Score | 2020 Score | YOY Change |
@@ -138,6 +247,30 @@ By demographic:
     | Manager                | 2.40       | 2.76       | 14.87%     |
     | Leader                 | 2.35       | 2.79       | 18.83%     |
     | Company Overall        | 2.86       | 3.08       |  7.55%     |
+
+    By Country:
+
+    | Country             | 2020 Score |
+    | --------------------|------------|
+    | Australia           | 3.19       |
+    | Canada              | 2.57       |
+    | Germany             | 3.24       |
+    | Hungary             | 3.63       |
+    | India               | 3.07       |
+    | Ireland             | 2.48       |
+    | Mexico              | 3.00       |
+    | Netherlands         | 2.68       |
+    | New Zealand         | 3.09       |
+    | Poland              | 3.33       |
+    | Romania             | 2.71       |
+    | Russian Federation  | 2.67       |
+    | Singapore           | 2.17       |
+    | South Africa        | 3.40       |
+    | Turkey              | 3.20       |
+    | Ukraine             | 2.80       |
+    | United Kingdom      | 2.73       |
+    | United States       | 3.19       |
+
 1. Should I have or care for a(nother) child, the parental leave policy is sufficient.
 
     | GitLab                 | 2019 Score | 2020 Score | YOY Change |
@@ -148,6 +281,31 @@ By demographic:
     | Manager                | 3.61       | 3.89       |  7.68%     |
     | Leader                 | 4.04       | 3.80       | -6.04%     |
     | Company Overall        | 3.81       | 3.84       |  0.91%     |
+
+    By Country:
+
+    | Country             | 2020 Score |
+    | --------------------|------------|
+    | Australia           | 3.85       |
+    | Austria             | 3.80       |
+    | Canada              | 3.50       |
+    | Germany             | 3.62       |
+    | Hungary             | 3.88       |
+    | India               | 3.79       |
+    | Ireland             | 3.39       |
+    | Mexico              | 4.00       |
+    | Netherlands         | 3.57       |
+    | New Zealand         | 3.44       |
+    | Poland              | 3.64       |
+    | Romania             | 3.00       |
+    | Russian Federation  | 3.50       |
+    | Singapore           | 3.33       |
+    | South Africa        | 4.33       |
+    | Turkey              | 4.60       |
+    | Ukraine             | 3.20       |
+    | United Kingdom      | 3.80       |
+    | United States       | 3.97       |
+
 1. The vacation policy allows me sufficient time to recharge.
 
     | GitLab                 | 2019 Score | 2020 Score | YOY Change |
@@ -158,6 +316,31 @@ By demographic:
     | Manager                | 4.27       | 4.24       | -0.79%     |
     | Leader                 | 4.38       | 4.21       | -3.94%     |
     | Company Overall        | 4.46       | 4.38       | -1.76%     |
+
+    By Country:
+
+    | Country             | 2020 Score |
+    | --------------------|------------|
+    | Australia           | 4.49       |
+    | Austria             | 4.80       |
+    | Canada              | 4.30       |
+    | Germany             | 4.21       |
+    | Hungary             | 4.50       |
+    | India               | 4.33       |
+    | Ireland             | 3.83       |
+    | Mexico              | 4.00       |
+    | Netherlands         | 4.40       |
+    | New Zealand         | 4.36       |
+    | Poland              | 4.42       |
+    | Romania             | 4.43       |
+    | Russian Federation  | 4.50       |
+    | Singapore           | 4.50       |
+    | South Africa        | 4.67       |
+    | Turkey              | 4.60       |
+    | Ukraine             | 4.80       |
+    | United Kingdom      | 4.47       |
+    | United States       | 4.40       |
+
 1. I believe our benefits package is one of the top reasons why people stay at GitLab.
 
     | GitLab                 | 2019 Score | 2020 Score | YOY Change |
@@ -168,6 +351,31 @@ By demographic:
     | Manager                | 2.58       | 3.00       | 16.28%     |
     | Leader                 | 2.54       | 2.98       | 17.37%     |
     | Company Overall        | 3.09       | 3.26       |  5.58%     |
+
+    By Country:
+
+    | Country             | 2020 Score |
+    | --------------------|------------|
+    | Australia           | 3.30       |
+    | Austria             | 2.80       |
+    | Canada              | 2.80       |
+    | Germany             | 3.41       |
+    | Hungary             | 3.25       |
+    | India               | 3.07       |
+    | Ireland             | 2.65       |
+    | Mexico              | 3.17       |
+    | Netherlands         | 2.79       |
+    | New Zealand         | 3.27       |
+    | Poland              | 3.50       |
+    | Romania             | 3.14       |
+    | Russian Federation  | 3.50       |
+    | Singapore           | 2.33       |
+    | South Africa        | 3.50       |
+    | Turkey              | 3.20       |
+    | Ukraine             | 2.60       |
+    | United Kingdom      | 3.04       |
+    | United States       | 3.38       |
+
 1. I believe investing more of the company’s money into improving benefits at GitLab will help to attract and retain talent.
 
     | GitLab                 | 2019 Score | 2020 Score | YOY Change |
@@ -178,6 +386,31 @@ By demographic:
     | Manager                | 4.25       | 4.11       | -3.27%     |
     | Leader                 | 3.85       | 4.02       |  4.39%     |
     | Company Overall        | 4.18       | 4.14       | -0.93%     | 
+
+    By Country:
+
+    | Country             | 2020 Score |
+    | --------------------|------------|
+    | Australia           | 3.98       |
+    | Austria             | 4.40       |
+    | Canada              | 3.97       |
+    | Germany             | 4.29       |
+    | Hungary             | 4.13       |
+    | India               | 4.33       |
+    | Ireland             | 4.57       |
+    | Mexico              | 4.00       |
+    | Netherlands         | 3.92       |
+    | New Zealand         | 3.82       |
+    | Poland              | 3.83       |
+    | Romania             | 3.43       |
+    | Russian Federation  | 4.50       |
+    | Singapore           | 4.33       |
+    | South Africa        | 4.33       |
+    | Turkey              | 4.60       |
+    | Ukraine             | 3.40       |
+    | United Kingdom      | 4.33       |
+    | United States       | 4.12       |
+
 1. When I take time off, I don't feel it is necessary to check in with work periodically.
 
     | GitLab                 | 2020 Score |
@@ -188,6 +421,31 @@ By demographic:
     | Manager                | 3.33       |
     | Leader                 | 3.23       |
     | Company Overall        | 3.59       |
+
+    By Country:
+
+    | Country             | 2020 Score |
+    | --------------------|------------|
+    | Australia           | 4.05       |
+    | Austria             | 3.40       |
+    | Canada              | 3.40       |
+    | Germany             | 3.79       |
+    | Hungary             | 3.25       |
+    | India               | 4.20       |
+    | Ireland             | 2.96       |
+    | Mexico              | 2.83       |
+    | Netherlands         | 3.52       |
+    | New Zealand         | 3.55       |
+    | Poland              | 3.83       |
+    | Romania             | 3.71       |
+    | Russian Federation  | 4.00       |
+    | Singapore           | 4.00       |
+    | South Africa        | 4.00       |
+    | Turkey              | 4.00       |
+    | Ukraine             | 3.60       |
+    | United Kingdom      | 3.53       |
+    | United States       | 3.50       |
+
 1. I understand how our PTO works in sync with my local statutory PTO entitlement.
 
     | GitLab                 | 2020 Score |
@@ -198,6 +456,31 @@ By demographic:
     | Manager                | 3.85       |
     | Leader                 | 4.12       |
     | Company Overall        | 3.99       |
+
+    By Country:
+
+    | Country             | 2020 Score |
+    | --------------------|------------|
+    | Australia           | 3.79       |
+    | Austria             | 3.60       |
+    | Canada              | 4.00       |
+    | Germany             | 4.00       |
+    | Hungary             | 4.00       |
+    | India               | 4.47       |
+    | Ireland             | 3.78       |
+    | Mexico              | 3.83       |
+    | Netherlands         | 4.08       |
+    | New Zealand         | 4.18       |
+    | Poland              | 4.00       |
+    | Romania             | 4.43       |
+    | Russian Federation  | 4.67       |
+    | Singapore           | 3.50       |
+    | South Africa        | 3.33       |
+    | Turkey              | 4.20       |
+    | Ukraine             | 4.20       |
+    | United Kingdom      | 3.88       |
+    | United States       | 4.04       |
+
 1. I believe our Employee Assistance Plan offered by Modern Health is a valuable benefit worth retaining.
 
     | GitLab                 | 2020 Score |
@@ -208,6 +491,30 @@ By demographic:
     | Manager                | 3.14       |
     | Leader                 | 3.22       |
     | Company Overall        | 3.19       |
+
+    By Country:
+
+    | Country             | 2020 Score |
+    | --------------------|------------|
+    | Australia           | 3.21       |
+    | Austria             | 3.00       |
+    | Canada              | 2.93       |
+    | Germany             | 2.54       |
+    | Hungary             | 2.86       |
+    | India               | 3.14       |
+    | Ireland             | 2.91       |
+    | Mexico              | 3.80       |
+    | Netherlands         | 2.70       |
+    | New Zealand         | 3.00       |
+    | Poland              | 2.67       |
+    | Romania             | 3.14       |
+    | Russian Federation  | 2.40       |
+    | Singapore           | 3.33       |
+    | South Africa        | 4.00       |
+    | Ukraine             | 2.40       |
+    | United Kingdom      | 3.20       |
+    | United States       | 3.37       |
+
 1. If I have questions or concerns regarding benefits, I know whom to reach out to.
 
     | GitLab                 | 2020 Score |
@@ -218,6 +525,31 @@ By demographic:
     | Manager                | 3.97       |
     | Leader                 | 4.08       |
     | Company Overall        | 3.82       |
+
+    By Country:
+
+    | Country             | 2020 Score |
+    | --------------------|------------|
+    | Australia           | 4.02       |
+    | Austria             | 3.60       |
+    | Canada              | 3.90       |
+    | Germany             | 3.61       |
+    | Hungary             | 3.25       |
+    | India               | 3.73       |
+    | Ireland             | 3.65       |
+    | Mexico              | 3.50       |
+    | Netherlands         | 3.52       |
+    | New Zealand         | 3.91       |
+    | Poland              | 3.75       |
+    | Romania             | 4.14       |
+    | Russian Federation  | 4.17       |
+    | Singapore           | 3.50       |
+    | South Africa        | 4.50       |
+    | Turkey              | 3.60       |
+    | Ukraine             | 3.40       |
+    | United Kingdom      | 3.77       |
+    | United States       | 3.87       |
+
 1. What has worked best in convincing me to take PTO?
 
     | Response                                                                       | Count | % of Respondents |
@@ -236,6 +568,7 @@ By demographic:
       * Example from peers.
       * PTO Ninja reminders.
       * Friends and Family Day specifically.
+
 1. I participated in the Simple Habit free trial and would like to see this benefit offered permanently (survey respondents were instructed to select one).
 
     | Response                                                                                                                               | Count | % of Respondents |
@@ -244,6 +577,7 @@ By demographic:
     | No, I did not participate, but am interested in GitLab offering a meditation and mental-wellness benefit in addition to Modern Health. | 500   | 64%              | 
     | Yes, I participated and do not agree with the statement above.                                                                         | 6     | 1%               | 
     | No, I did not participate and am not interested in GitLab offering a mediation and mental-wellness benefit.                            | 258   | 33%              | 
+
 1. What corporate social responsibility activities would you like to see GitLab enter? The purpose of corporate social responsibility is to give back to the community, take part in philanthropic causes, and provide positive social value. 
    * Summary of Responses:
      * Giving team members a set amount of money to donate to causes they support each year.
