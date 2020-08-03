@@ -65,9 +65,9 @@ Salesforce [chatter](https://about.gitlab.com/handbook/sales/field-operations/sa
   Steps to Getting Help with OKTA for Sales Tools
 </summary>
 
-1. Visit the [Okta Handbook Page](https://patch-1982611222132688596703.about.gitlab-review.app/handbook/business-ops/okta/index.html) to learn more about Okta
-1. Create a [General Help Desk Request](https://about.gitlab.com/handbook/business-ops/team-member-enablement/)
-1. Reach out to #it-help in Slack
+1. Visit the [Okta Handbook Page](https://patch-1982611222132688596703.about.gitlab-review.app/handbook/business-ops/okta/index.html) to learn more about Okta.
+1. Create a [General Help Desk Request](https://about.gitlab.com/handbook/business-ops/team-member-enablement/) by using the *submit issue* button and then selecting the General Help Desk Request template.
+1. Reach out to #it-help in Slack.
 
 
 </details>
