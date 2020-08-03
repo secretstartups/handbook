@@ -4,7 +4,7 @@ title: "Production Architecture"
 ---
 
 
-Our GitLab.com core infrastructure is primarily hosted in Google Cloud Platform's (GCP) `us-east1` region (see [Regions and Zones](https://cloud.google.com/compute/docs/regions-zones/))&mdash;and we use GCP iconography in our diagrams to represent GCP resources. We do have dependencies on other cloud providers for separate functions. Some of the dependencies are legacy fragments from our migration from Azure, and others are deliberate to separate concerns in the event of cloud provider service disruption. We're currently working to implement a [Disaster Recovery](/handbook/engineering/infrastructure/library/disaster-recovery/) solution that redesigns our failure scenarios across multi-zone, multi-region, and multi-cloud architectures.
+Our GitLab.com core infrastructure is primarily hosted in Google Cloud Platform's (GCP) `us-east1` region (see [Regions and Zones](https://cloud.google.com/compute/docs/regions-zones/))&mdash;and we use GCP iconography in our diagrams to represent GCP resources. We do have dependencies on other cloud providers for separate functions. Some of the dependencies are legacy fragments from our migration from Azure, and others are deliberate to separate concerns in the event of cloud provider service disruption. We're currently working to implement a [Disaster Recovery](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/disaster-recovery/index.md) solution that redesigns our failure scenarios across multi-zone, multi-region, and multi-cloud architectures.
 
 This document does not cover servers that are not integral to the public facing operations of GitLab.com.
 

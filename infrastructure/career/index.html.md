@@ -31,7 +31,7 @@ There are a number of tools we use to plot and manage career development:
   * On the last 1:1 meeting of the quarter, discuss and record a summary of the progress made for the quarter and update the EFW accordingly.
 * **1:1s**: Mentor on the focus areas in weekly 1:1s at a frequency that feels right for the tasks. There is no hard rule to discuss the career development items every week, but try to do so regularly and avoid a wide-open, ad-hoc conversation.
 
-There is no rule that guides the amount of progress that should be made in a given time-period in a strict fashion. We should however strive to set targets to progress to the [next level](/handbook/total-rewards/compensation/#explanation) on at least a quarterly basis.
+There is no rule that guides the amount of progress that should be made in a given time-period in a strict fashion. We should however strive to set targets to progress to the [next level](/handbook/total-rewards/compensation/compensation-calculator/#introduction) on at least a quarterly basis.
 
 Actions to make changes to a GitLab team-member's level can be taken during the [360 Feedback](/handbook/people-group/360-feedback/), and the data collected throughout this workflow should be useful at that time.
 
