@@ -41,7 +41,7 @@ If you're a GitLab team member looking for help with a security problem, please 
 
 ## Reliability Engineering Team On-Call Rotation
 
-The Infrastructure department's Reliability Engineering teams provide 24x7 on-call coverage for the production environment. For details, please see [incident-management](/handbook/engineering/infrastructure/team/reliability/incident-management/).
+The Infrastructure department's Reliability Engineering teams provide 24x7 on-call coverage for the production environment. For details, please see [incident-management](/handbook/engineering/infrastructure/incident-management/).
 
 ## Security Team On-Call Rotation
 
