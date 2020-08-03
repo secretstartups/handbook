@@ -44,7 +44,7 @@ This workflow applies if:
 * You have reason to believe that this ticket belongs to a customer
 * The domain TLD is *not* a generic domain (e.g. `gmail.com`)
 
-![ZD prompts for an org to be created](/source/images/handbook/support/zendesk_needs_org-create.png)
+![ZD prompts for an org to be created](/images/handbook/support/zendesk_needs_org-create.png)
 
 ### Marking Free Users for GitLab.com
 
@@ -186,7 +186,7 @@ The process to associate a user with an organization is:
 1. Click on the users's name in ZD
 1. In the "Org" field type the organization name
 
-![Adding a user to an existing organization](/source/images/handbook/support/zendesk_needs_org-add.png)
+![Adding a user to an existing organization](/images/handbook/support/zendesk_needs_org-add.png)
 
 ### Verifying that the ticket now has the proper SLA applied
 
