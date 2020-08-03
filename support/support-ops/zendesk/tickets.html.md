@@ -180,15 +180,19 @@ Tickets are the core part of what we use Zendesk for.
   * General Question/Other
     * Tag: `general_question`
 
-### [.Com - Self-hosted transfer requests](https://gitlab.zendesk.com/agent/admin/ticket_fields/360005835540)
+### [Product transfer request](https://gitlab.zendesk.com/agent/admin/ticket_fields/360012705760)
 
-* User title: .Com - Self-hosted transfer requests
+* User title: Product transfer request
 * Type: dropdown
 * Permissions: Agent only
 * Field values:
-  * <45 days (Pass to Billing)
+  * SaaS to SM
+    * Tag: `transfer_saas_to_sm`
+  * SM to SAAS
+    * Tag: `transfer_sm_to_saas`
+  * [inactive] '< 45 days (Pass to Billing)'
     * Tag: `_45_days__pass_to_billing_`
-  * >45 days (Pass to Sales)
+  * [inactive] > 45 days (Pass to Sales)
     * Tag: `_45_days__pass_to_sales_`
 
 ### [Free - Problem Type](https://gitlab.zendesk.com/agent/admin/ticket_fields/360005242139)
@@ -686,45 +690,30 @@ Support may update chosen priority to meet these definitions.
 ### [Transactions Issue Type ](https://gitlab.zendesk.com/agent/admin/ticket_fields/360020421853)
 
 * User title: Transactions Issue Type 
-* Agent description: https://gitlab.com/gitlab-com/business-ops/bizops-bsa/portal-analysis/issues/14
+* Agent description: https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/146
 * Type: dropdown
 * Permissions: Agent only
 * Required to solve a ticket
 * Field values:
   * Renewal help
     * Tag: `transaction_issue_renewal_help`
-  * License troubleshooting
-    * Tag: `transaction_issue_licensing`
-  * Upgrade
-    * Tag: `transaction_issue_upgrade`
-  * Trial - related inquiries
-    * Tag: `transaction_issue_trial`
-  * Cancelation/refund requests
-    * Tag: `transaction_issue_cancellation`
-  * Contact Management
-    * Tag: `transaction_issue_contact_management`
-  * Billing-related inquiry
-    * Tag: `billing-related_inquiry`
-  * Gitlab.com Issue
-    * Tag: `transaction_issue_.com_troubleshooting`
-  * .Com - Self-hosted transfer requests
-    * Tag: `transaction_issue_transfer`
   * New business inquiries
     * Tag: `transaction_issue_new_business_inquiries`
-  * EDU/OSS
-    * Tag: `transaction_issue_special_programs`
-  * Other
-    * Tag: `transaction_issue_other`
-  * Product/Process question
-    * Tag: `transaction_issue_product/process_question`
-  * Customers portal issue
-    * Tag: `transaction_issue_customers_portal_issue`
-  * Associate namespace
-    * Tag: `transaction_issue_associate_namespace`
-  * Downgrade
-    * Tag: `transaction_issue_downgrade`
+  * Billing-related inquiry
+    * Tag: `billing-related_unquiry
+  * EDU/OSS/Startups
+    * Tag: `transaction_issue_special_programs
   * Sales assistance required
-    * Tag: `transaction_issue_sales_assistance_required`
+    * Tag: `transaction_issue_sales_assistance_required
+  * Upgrade plan
+    * Tag: `transaction_issue_upgrade
+  * Trial - related inquiries
+    * Tag: `transaction_issue_trial
+  * Product/Process question
+    * Tag: `transaction_issue_product/process_question
+  * GitLab.com issue
+    * Tag: `transaction_issue_.com_troubleshooting
+
 
 ### [GitLab.com Project Path](https://gitlab.zendesk.com/agent/admin/ticket_fields/43891688)
 
@@ -767,6 +756,57 @@ Support may update chosen priority to meet these definitions.
     * Tag: `support_githost_io`
   * subscribers@gitlab.zendesk.com
     * Tag: `subscribers_gitlab.zendesk.com`
+
+### [L&R: Documentation/Training](https://gitlab.zendesk.com/agent/admin/ticket_fields/360012709879)
+
+* User title: L&R: Documentation/Training 
+* Title shown to agents : L&R: Documentation/Training 
+* Description: Used in L&R Queue
+* Type: checkbox
+* Tag: lnr_documentation_training
+* Permissions: Agent only
+
+### [L&R: Product / Process Questions]
+
+* User title: L&R: Product / Process Questions
+* Title shown to agents: L&R: Product / Process Questions
+* Type: dropdown
+* Permissions: Agent only
+* Field values:
+  * Add More Seats
+    * Tag: `lnr_prod/process_add_more_seats`
+  * Billable Members
+    * Tag: `lnr_prod/process_billable_members`
+  * Payment Question
+    * Tag: `lnr_prod/process_payment_question`
+  * Other
+    * Tag: `lnr_prod/process_other`
+
+### [Sales assistance required](https://gitlab.zendesk.com/agent/admin/ticket_fields/360012709859)
+
+* User title: L&R Transaction Type: Sales Assistance required
+* Description: L&R Transaction Type: Sales Assistance required
+* Title shown to agents: L&R: Sales assistance required related fields 
+* Type: dropdown
+* Permissions: Agent only and Required to Solve a ticket
+* Field values:
+  * Alternate Payment Method
+    * Tag: `lnr_sa_alternate_payment_method`
+  * Order Form / PO
+    * Tag: `lnr_sa_order_form_/_po`
+  * Reseller
+    * Tag: `lnr_sa_reseller`
+  * SM Upgrade
+    * Tag: `lnr_sa_sm_upgrade`
+  * Discount Request
+    * Tag: `lnr_sa_discount_request`
+  * New Business
+    * Tag: `lnr_sa_new_business`
+  * Trueups
+    * Tag: `lnr_sa_trueups`
+  * Other
+    * Tag: `lnr_sa_other`
+
 
 ### [Organization Name (partners)](https://gitlab.zendesk.com/agent/admin/ticket_fields/360012167559)
 
