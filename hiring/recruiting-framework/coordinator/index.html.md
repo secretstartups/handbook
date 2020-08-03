@@ -72,9 +72,9 @@ There may be situations where the CES email is used to thank the team or to send
 
 ### Initiate background check
 
-Once notified by the recruiter, the Candidate Experience Specialist will [initiate a background check](/handbook/people-group/code-of-conduct/#background-checks) for the candidate. The Candidate Experience Specialist will continue to monitor the background check until finalized, utlizing the follow-up feature in Greenhouse to ensure the background check is complete and uploaded into BambooHR if hired.
+Once notified by the recruiter, the Candidate Experience Specialist will [initiate a background check](https://about.gitlab.com/handbook/people-group/people-policy-directory/#background-checks) for the candidate. The Candidate Experience Specialist will continue to monitor the background check until finalized, utlizing the follow-up feature in Greenhouse to ensure the background check is complete and uploaded into BambooHR if hired.
 
-For guidance on reviewing Background checks see [this page](/handbook/people-group/code-of-conduct/#background-checks).
+For guidance on reviewing Background checks see [this page](https://about.gitlab.com/handbook/people-group/people-policy-directory/#background-checks).
 
 #### Initiating a Background Check through Greenhouse
 
