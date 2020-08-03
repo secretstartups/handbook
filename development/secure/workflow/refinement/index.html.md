@@ -104,7 +104,7 @@ as [velocity is more important than predictability](/handbook/engineering/#veloc
 
 * [Plan:Project Management BE Team Capacity Planning](/handbook/engineering/development/dev/plan-project-management-be/#capacity-planning)
 * [Create: Source Code BE Team Weights](/handbook/engineering/development/dev/create-source-code-be/#weights)
-* [Geo Team Weights](/handbook/engineering/development/enablement/geo/#weights)
+* [Geo Team Weights](/handbook/engineering/development/enablement/geo/process.html#weights)
 * [Enablement:Memory](/handbook/engineering/development/enablement/memory/)
 
 ## Implementation Plan
