@@ -175,10 +175,10 @@ When a team member completes the GitLab gift form request, the People Experience
 
 - Navigate and open the gift form requests in `Google spreadsheet`. 
 - Open the PeopleOps 1Password Vault and select `Gift & Flower Vendors` to gain access to the various vendors used. 
-- If a voucher for meal delivery is requested, ensure to check that the vendor is available in the team members location. 
 - Place order and once confirmed, add data, including order confirmation link, to spreadsheet. 
 - Send the requesting team member an email or message in Slack to confirm that you have processed the request/order. 
 - Use the Gift [page](https://about.gitlab.com/handbook/people-group/#gifts) in the Handbook for any further information regarding the policy for gift order requests. 
+- If a gift card is needed for a particular event or prize, create an issue for the Payroll team to get the relevant approval. 
 
 ### Scheduling Group Conversations 
 
