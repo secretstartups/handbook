@@ -26,10 +26,10 @@ title: "Recruiting Alignment"
 | Marketing, EMEA | Sean Delea   |Dave Gilbert   | Corinne Sapolu |Ashley Jones| Viren Rana |Anastasia Pshegodskaya|
 | G&A | Maria Gore   | Dave Gilbert   |Taharah Nix |Ashley Jones|Loredana Iluca |Anastasia Pshegodskaya|
 | Quality | Rupert Douglas   |Cyndi Walsh | Taharah Nix  |  Ashley Jones  | Caesar Hsiao |Anastasia Pshegodskaya|
-| UX & Technical Writing | Rupert Douglas |Cyndi Walsh | Taharah Nix  |  Ashley Jones  | Zsusanna Kovacs  |Anastasia Pshegodskaya|
+| UX & Technical Writing | Rupert Douglas |Cyndi Walsh | Taharah Nix  |  Ashley Jones  | Zsuzsanna Kovacs  |Anastasia Pshegodskaya|
 | AMER Support| Chantal Rollison  |Cyndi Walsh  | Lea Hanapol  | Ashley Jones  | Alina Moise |Anastasia Pshegodskaya|
 | EMEA Support  | Trust Ogor/Rupert Douglas |Liam McNally/Cyndi Walsh | Lea Hanopol/Taharah Nix  |  Ashley Jones  | Joanna Michniewicz/Zsuzsanna Kovacs  |Anastasia Pshegodskaya|
-| APAC Support  | Ryan Demmer/Matt Allen   |Liam McNally/Cyndi Walsh | Kalene Godoy/Taharah Nix   |  Ashley Jones | Caesar Hsiao/Chris Chruz  |Anastasia Pshegodskaya|
+| APAC Support  | Ryan Demmer/Matt Allen   |Liam McNally/Cyndi Walsh | Kalene Godoy/Taharah Nix   |  Ashley Jones | Zsuzsanna Kovacs/Chris Chruz  |Anastasia Pshegodskaya|
 | Security | Ryan Demmer  |  Liam McNally | Kalene Godoy  |  Ashley Jones | Caesar Hsiao  |Anastasia Pshegodskaya|
 | Development - Secure/Defend  | Ryan Demmer  |Liam McNally  | Kalene Godoy |  Ashley Jones  | Caesar Hsiao   |Anastasia Pshegodskaya|
 | Infrastructure   | Matt Allen  |Cyndi Walsh  | Taharah Nix |  Ashley Jones  | Chris Cruz |Anastasia Pshegodskaya|
