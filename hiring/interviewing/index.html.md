@@ -176,18 +176,19 @@ The GitLab team understands the importance of inclusive interviewing, and we str
 
 * **We will make our best effort so that each candidate's full interview panel has at least one non-male GitLab team-member on it.**
 * **The following teams will _always_ have one non-male team member in the same department as the candidate on the interview panel.** We are working to make it so that every team practices our value of diversity, inclusion and belonging in their hiring practices. We are improving, but we aren't there yet. According to our value of iteration, we aren't waiting for a system to be in place for the entire company, but instead are practicing diversity, inclusion and belonging now by listing the teams that can currently commit to this practice. Hiring managers can make MRs to add their team to this list when they are able to meet this requirement.
-  * Business Operations
-  * Content Marketing
-  * Corporate Events Marketing
-  * Digital Marketing Programs
-  * Field Marketing
-  * Marketing Ops
-  * UX
-  * Quality
-  * Finance
   * Accounting
+  * Business Operations
+  * Corporate Marketing
+  * Demand Generation
+  * Field Marketing
+  * Finance
+  * Growth Marketing 
   * People Operations 
+  * Quality
   * Recruiting
+  * Revenue Marketing
+  * Sales Development 
+  * UX
 
 </details>
 
