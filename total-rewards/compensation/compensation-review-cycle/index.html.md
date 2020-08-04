@@ -107,39 +107,44 @@ While some GitLab team-members may not receive an increase due to already being 
 **Process for slate owners:**
 
 1. Navigate to [Compaas](https://app.compa.as/login) and select the option to sign in with Google.
+* ![compaas login](/images/handbook/people-group/1_Compaas.png)
 1. Select to sign in with your originally assigned GitLab email address.
 * If you select to sign in with an alias, you will receive an error and not be able to sign in. You can confirm your original GitLab email address on the Personal tab of BambooHR.
-* ![incorrect email](/images/handbook/people-group/10_WrongEmail.png)
-1. Once you have logged in, you will see your slate. This will have the status of your budget, along with a card for each of the team members you will be recommending a raise for.
-1. The card will list the team member's name, role, benchmark role, level, [compa group](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#compa-group), compensation, adjusted compensation, discretionary raise, final compensation, and notes.
-* ![slate owner](/images/handbook/people-group/1_owner_slate.png)
+* ![incorrect email](/images/handbook/people-group/2_Compaas.png)
+1. Once you have logged in, you will see your slate. Your slate will have a card for each of the team members you will be recommending a raise for.
+1. The card will list the team member's name, role, benchmark role, level, [compa group](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#compa-group), raise amount and percent, compensation before and after any adjustments, range with range penetration, and notes.
+* ![slate owner](/images/handbook/people-group/3_Compaas.png)
 * The role is located under the team member's name. This is the team member's job title including level, for example, Senior or Associate.
 * Underneath the role is the [benchmark role](/handbook/total-rewards/compensation/compensation-calculator/#sf-benchmark). This is the job title that is used for determining the base compensation before other inputs such as level are evaluated. For example, the benchmark role for a Senior Backend Engineer is a Backend Engineer.
 * Next to the team member's name is their level. This is a job code used internally that is unique to each role.
-* Next to the level is the [compa group](/handbook/total-rewards/compensation/compensation-calculator/#compa-group). These were selected by managers for each of their reports in November.
-* The Compensation Before is the number in gray and is the team member's current compensation. The  Compensation Adjusted is the recommended compensation based on changes to location factor, role benchmark, and bringing the team member to the bottom of the range if they received an increase in compa group.
-* Discretionary Raise is money that can be allocated to a team member to bring them higher in their compa group range. This can be allocated as either a cash amount or percentage.
-* The talk bubble at the right of the team member's card can be clicked on to leave a note on the employee's record. This can be used to record reasons for decisions, details about specific compensation change, or open questions for approvers or HR.
-* ![note](/images/handbook/people-group/3_Note.png)
+* Next to the level is the [compa group](/handbook/total-rewards/compensation/compensation-calculator/#compa-group). These were selected by managers for each of their reports in the last Compa Group Review.
+* Each team member will have a minimum recommended increase loaded into Compaas by the Total Rewards team. This number brings the team member to the bottom of their compa group using all [current inputs to the compensation calculator](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/). Discretionary Raise is money that can be allocated to a team member to bring them higher in their compa group range. This can be allocated as either a cash amount or percentage.
+* The team member's compensation before (light gray) and after (green) any adjustments is listed to the right of the percent increase.
+* The range penetration is the team member's compensation range for their role in their location. The bubble on the range will mark where they currently are and the arrow will show where they are being recommended to move to. This will prompt you if your raise brings the team member above the range for their role. 
+* The talk bubble at the right of the team member's card can be clicked on to leave a note on the employee's record. This can be used to record reasons for decisions, details about specific compensation change, or open questions for approvers or HR. The option to delete a note is also available.
+* ![note](/images/handbook/people-group/6_Compaas.png)
+* ![delete note](/images/handbook/people-group/7_Compaas.png)
 1. Clicking the background of the person's card expands it to reveal their compensation timeline. The timeline shows any historical compensation data Compaas has available for each person. Clicking the card again closes the timeline.
-* ![timeline](/images/handbook/people-group/2_owner_slate_timeline.png)
-1. The slate can be saved as a draft at any time. When you choose to "Save and Submit", you will see a screen summarizing your proposed raises. You may choose to cancel, leaving the slate in a draft state, or "Submit and Lock" which automatically submits your recommendations for approval.
-* ![slate owner submit](/images/handbook/people-group/4_Owner_submit.png)
+* ![timeline](/images/handbook/people-group/4_Compaas.png)
+1. Your slate can be filtered by what part of the pay range your reports currently fall into: Below, Bottom (Learning in the Role), Lower-middle (Growing in the Role), Upper-middle (Thriving in the Role), Upper (Expert in the Role), Above. 
+* ![filter range](/images/handbook/people-group/5_Compaas.png)
+1. The slate can be saved as a draft at any time. When you choose to "Save and Lock", you will see a screen summarizing your proposed raises. You may choose to cancel, leaving the slate in a draft state, or "Submit and Lock" which automatically submits your recommendations for approval.
+* ![slate owner submit](/images/handbook/people-group/10_Compaas.png)
 1. Once the slate has been submitted for approval, it will be locked. You will no longer be able to make changes, but while the annual compensation cycle is open you will be able to log in and review your team's compensation adjustments.
 * If any changes are made by a slate approver, these will be visible in your review screen.
-* ![slate owner locked](/images/handbook/people-group/5_Owner_locked.png)
+* ![slate owner locked](/images/handbook/people-group/11_Compaas.png)
 
 **Process for approvers:**
 
 1. Approvers will log in using the same instructions as slate owners.
-1. Once logged in, you will be taken to a slate review screen. This page shows the status of your budget, along with a card for each of the slates you will be approving or editing. Each card will have the status of the slate, the name of the slate owner, number of reports, each individual slate's budget, how much of the budget has been allocated, how much of the budget is left, currency (all in USD), and associated notes accessible by clicking the talk bubble at the right of the card.
-* ![approver review](/images/handbook/people-group/6_Approver_ready.png)
-1. Clicking the slate name or the > arrow will take you to a slate. Slates that are not ready for approval will not be available to select. If you need to override a slate approval, please reach out to compensation as only admins can submit on behalf of another account. When you view a slate on your list, you will be able to edit the slate owner's recommendations and save them. Once you have saved, please refresh the page to see the changes applied to your budget, if applicable. For more information on the details located on each team member's card, please review item 4 in the process for slate owners above.
-* ![approver review slate](/images/handbook/people-group/7_Approver_viewSlate.png)
-1. Once you are finished making edits to a slate you are an approver for, you can choose to "Save & Approve". You will be taken to a screen summarizing the proposed raises. You may choose to cancel, leaving the slate unapproved, or "Submit and Approve" which automatically submits your recommendations for approval to anyone higher up in the approval chain. It is recommended that you keep all slates in draft form until you are ready to approve all slates in your group. Once you submit you will not longer be able to make any changes.
-* ![approver save and approve](/images/handbook/people-group/8_Approver_saveandapprove.png)
-1. After you have approved a slate, it will no longer be editable on your list of slates. Any budget allocated to the approved slate will be reserved and deducted from your budget total. After approving, you will still be able to visit the slate and view a current summary of any proposed compensation adjustments including any adjustments made by an approver higher up in the approval chain.
-* ![approver locked](/images/handbook/people-group/9_Approver_approved.png)
+1. Once logged in, you will be taken to a slate review screen. This page shows the status of your budget (if applicable, budget is held by the executive of each group), along with a card for each of the slates you will be approving or editing. Each card will have the status of the slate, the name of the slate owner, number of reports, if any reports are below range, and associated notes accessible by clicking the talk bubble at the right of the card.
+* ![approver review](/images/handbook/people-group/8_Compaas.png)
+1. Clicking the slate name or the > arrow will take you to a slate. Slates that are not ready for approval will not be available to select. If you need to override a slate approval, please reach out to the Total Rewards team as only admins can submit on behalf of another account. When you view a slate on your list, you will be able to edit the slate owner's recommendations and save them. Once you have saved, please refresh the page to see the changes applied to your budget, if applicable. For more information on the details located on each team member's card, please review item 4 in the process for slate owners above.
+* ![approver review slate](/images/handbook/people-group/9_Compaas.png)
+1. Once you are finished making edits to a slate you are an approver for, you can choose to "Save & Approve". You will be taken to a screen summarizing the proposed raises. You may choose to cancel, leaving the slate unapproved, or "Submit and Lock" which automatically submits your recommendations for approval to anyone higher up in the approval chain. It is recommended that you keep all slates in draft form until you are ready to approve all slates in your group. Once you submit you will no longer be able to make any changes.
+* ![approver save and approve](/images/handbook/people-group/10_Compaas.png)
+1. After you have approved a slate, it will no longer be editable on your list of slates. After approving, you will still be able to visit the slate and view a current summary of any proposed compensation adjustments including any adjustments made by an approver higher up in the approval chain.
+* ![approver locked](/images/handbook/people-group/11_Compaas.png)
 
 #### Iterations to Compaas
 
