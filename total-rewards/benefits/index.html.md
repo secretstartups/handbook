@@ -11,7 +11,7 @@ description: Find answers to your questions about GitLab's benefits.
 {:toc .hidden-md .hidden-lg}
 
 ## Related Benefits Pages
-* [General & Entity Specific Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits)
+* [General & Entity Specific Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/#general-and-entity-benefits)
 * [Modern Health](/handbook/total-rewards/benefits/modern-health)
 * [Global Benefits Survey](/handbook/total-rewards/benefits/benefits-survey)
 * [Resources for COVID-19](/handbook/total-rewards/benefits/covid-19)

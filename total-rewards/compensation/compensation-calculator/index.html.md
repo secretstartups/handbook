@@ -15,7 +15,7 @@ On this page, we explain the different factors that make up our Compensation Cal
 
 ## The Compensation Calculator
 
-As a natural extension of the [Compensation Principles](/handbook/total-rewards/compensation/#compensation-principles) outlined above and our commitment to transparency, sharing, efficiency, directness, and boring solutions (see our [values](/handbook/values)) we developed a Compensation Calculator.
+As a natural extension of the [Compensation Principles](/handbook/total-rewards/compensation/#gitlabs-compensation-principles) outlined above and our commitment to transparency, sharing, efficiency, directness, and boring solutions (see our [values](/handbook/values)) we developed a Compensation Calculator.
 The compensation of executives and anyone on a quota is not set with the calculator. We use a Compensation Calculator because it help us align compensation to our values:
 
 1. **Transparency** - The calculator is open to everyone, within and outside of GitLab. This means that at the time of hiring, candidates don’t have to blindly negotiate compensation. They simply need to enter the individual inputs on the Compensation Calculator and it comes up with a band consistent with the individual’s circumstance - where they live, their Compa Group, level, currency, etc. When team members move across levels, departments and locations during their time at GitLab, they’ll also be able to see the appropriate band for the change.
@@ -43,7 +43,7 @@ The calculator is embedded in every [job family](/handbook/hiring/job-families/)
 
 ### The Compensation Calculator Formula
 
-Your compensation = [SF benchmark](#sf-benchmark) x [Location Factor](#location-factor) x [Level Factor](#level-factor) x [Compa Ratio](#compa-ratio) x [Contract Factor](#contract-factor) x [Exchange Rate](/handbook/total-rewards/compensation/#exchange-rate)
+Your compensation = [SF benchmark](#sf-benchmark) x [Location Factor](#location-factor) x [Level Factor](#level-factor) x [Compa Ratio](#compa-ratio) x [Contract Factor](#contract-factor) x [Exchange Rate](/handbook/total-rewards/compensation/#exchange-rates)
 
 The calculator will output the amount as `base + variable = total target cash (TTC)`
 
@@ -132,7 +132,7 @@ Compensation Benchmarking is the process of using internal job descriptions to m
 
 Each new job family will be assigned a [job code](#job-codes) and evaluated through the same process as [for existing role](#benchmark-evaluation-for-existing-roles).
 
-To review the Compensation Benchmark process please refer to the [New Roles Creation](/handbook/hiring/job-families/#new-role-creation).
+To review the Compensation Benchmark process please refer to the [New Roles Creation](/handbook/hiring/job-families/#new-job-family-creation-or-additional-levelrole-within-a-current-job-family).
 
 #### Benchmark Adjustment
 
@@ -174,7 +174,7 @@ As a second iteration, GitLab will review whether or not we should generate our 
 
 ### Introduction
 
-Location Factor is [calculated](#calculating-location-factors) using multiple data sources to conduct a market analysis of compensation rates globally: Economic Research Institute (ERI), Numbeo, Comptryx, Radford, Robert Half, and Dice. This is _not_ a cost of living analysis, but instead a **cost of market** evaluation compared to San Francisco. The location factors are stored in the [data file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/location_factors.yml) on GitLab. The Total Rewards team will use their best judgement in determining the input per location based on our [Compensation Principles](/handbook/total-rewards/compensation/#compensation-principles).
+Location Factor is [calculated](#calculating-location-factors) using multiple data sources to conduct a market analysis of compensation rates globally: Economic Research Institute (ERI), Numbeo, Comptryx, Radford, Robert Half, and Dice. This is _not_ a cost of living analysis, but instead a **cost of market** evaluation compared to San Francisco. The location factors are stored in the [data file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/location_factors.yml) on GitLab. The Total Rewards team will use their best judgement in determining the input per location based on our [Compensation Principles](/handbook/total-rewards/compensation/#gitlabs-compensation-principles).
 
 ### Geographical Areas
 

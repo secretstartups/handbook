@@ -256,7 +256,7 @@ Is there anything else that I need to know to initiate my Parental Leave?
     * [Global Upside India Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/global-upside-benefits-india)
     * [GitLab LTD United Kingdom Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/ltd-benefits-uk/#gitlab-ltd-united-kingdom-leave-policy)
     * [GitLab GmbH Germany Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/gmbh-benefits-germany/#gitlab-gmbh-germany-leave-policy)
-    * [GitLab PTY Australia Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#gitlab-pty-australia-leave-policy)
+    * [GitLab PTY Australia Leave Policy](handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#gitlab-pty-australia-parental-leave-administrative-details)
 
 **Process for Total Rewards Analysts**
   * Log and monitor upcoming parental leave in the "Parental Leave Log" Google sheet on the drive.
