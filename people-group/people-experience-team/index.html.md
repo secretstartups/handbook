@@ -148,7 +148,7 @@ Most importantly, check to see whether authorisation has been received from the 
 Once a new team member has completed their onboarding, they are asked to complete the `Onboarding Survey` to share their experience. Based on the scores received, the People Experience Associate assigned to the specific team members onboarding, will complete the following:
 
 - Score of 4 or higher: use own discretion based on the feedback received and see whether there are any improvements or changes that can be made to the onboarding template / onboarding process (this can be subjective). 
-- Score of 3 or lower: reach out to the team member that has provided feedback and schedule a coffee chat to further discuss their concerns and feedback provided. 
+- Score of 3 or lower: reach out to the team member and schedule a feedback session to further discuss their concerns and feedback provided. 
 
 #### Onboarding Buddy Feedback
 
