@@ -48,14 +48,14 @@ There are two types of Bizible Touchpoints as explained below.
 #### Online
 Online channels are any channels that would be directly associated with your website or any integrated site – any display advertising, paid search, paid social, organic search, organic social, email, chatbots, etc.    
 
-These touchpoints are automatically created when a form is submitted on one of the GitLab.com domains. 
+Bizible touchpoints are automatically created when a form is submitted on one of the GitLab.com domains for these online channels, therefore we do not need to create SFDC campaigns to track these.
 
 #### Offline
 Offline channels are associated with initiatives like direct mail, trade shows or hospitality events, marketing or sales research, and pretty much any other channel where a person’s engagement cannot be tracked digitally or where they physically attend. 
 
-These touchpoints are created by enabling the `Enable Bizible Touchpoints` field on the Salesforce Campaign associated with the marketing intiative.   
+Bizible touchpoints are created by dispositioning `Enable Bizible Touchpoints` field on the Salesforce Campaign as `Include only "Responded" Campaign Members` for these offline channels.
 
-These are the standard `Campaign Types` that will have offline bizible touchpoints enabled:   
+These are the standard `Campaign Types` that will have offline bizible touchpoints enabled:
 
 * Conference
 * Content Syndication
@@ -69,9 +69,7 @@ These are the standard `Campaign Types` that will have offline bizible touchpoin
 * Sponsored Webcast
 * Swag - Direct Mail
 * Virtual Sponsorship
-* Webcast
-
-
+* Webcast (`Note: The webcast registration is tracked as an online touchpoint but we track attendance as another offline touchpoint since attending is another action that the person took at a later date.`)
 
 ## Attribution Models
 
