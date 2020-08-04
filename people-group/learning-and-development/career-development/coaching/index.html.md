@@ -53,6 +53,10 @@ You may wear multiple hats in any given day:
 *  **Mentor Hat** - Sharing advice and giving guidance from your own experience.
 *  **Coach Hat** - Asking lots of quesitons and listening deeply to help people reach their own solutions.
 
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTadK6g9lEwLV8nP9GWPrgcF7sRHxycOuLwlZQm_h05D_FJpC3T9JzGUB7FmZY0UyW-ii4IfP0groBd/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
+
 ### GROW Model
 
 The GROW Model is a four step method to holding coaching conversations with a coachee. You can apply it during coaching sessions to guide the coachee through future focused discussions. 
@@ -65,6 +69,9 @@ The GROW Model is a four step method to holding coaching conversations with a co
 
 **W - Way Forward:** Agree on specific actions and timeframe to set accountablity for the coachee
 
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRyDezAdhbc9k5YOQmkUxCxkroz-yR6dpX1CoevIULZM10DcYLy_hBo3yQGlHPUgzPrAxZmNzR7Qjwj/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
 
 ## Essential coaching skills
 
@@ -222,6 +229,10 @@ Building trust is an important ingredient in coaching and team dynamics. Trust l
 4. **Avoidance of Accountability:** When teams do not commit to a clear plan of action, even the most focused and driven individuals are hesitant to call their peers on actions and behaviors that may seem counterproductive. 
 5. **Inattention to Results:** When no one is accountable, team members may naturally tend to put their own needs ahead of the collective goals; for example, career development and recognition. 
 
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQwmhv3MIUV4065TeQ4N1Lz4xhjROQRTaTW2XNa5qH4k-mq4GNLgRYhi2fr2hjZslZ7V8JBipbvuaBv/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
+
 **[The Trust Equation&trade;](https://trustedadvisor.com/why-trust-matters/understanding-trust/understanding-the-trust-equation#:~:text=The%20Trust%20Equation%20uses%20four,%2C%20Intimacy%20and%20Self%2DOrientation.&text=The%20Trust%20Quotient%20is%20a,trustworthiness%20against%20the%20four%20variables.)** is a concept to help increase trustworthiness with your team. The more trust you have with team members, the easier it will be to have coaching conversations. 
 
 The trust equation uses four objective variables to measure trustworthiness: 
@@ -233,7 +244,11 @@ The trust equation uses four objective variables to measure trustworthiness:
 
 The trust equation has one variable in the denominator (self-orientation) and three in the numerator (credibility, reliability, intimacy). Increasing the value of the factors in the numerator increases the value of trust. Increasing the denominator (self-orientation) decreases the value of trust. 
 
-## Neurosciene of Trust
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ7oRKaXPc3-pqXJEU5SHdlBJlHw00HO4oOcfmH5z0Iq0ojz-lQ1HoudBSeUoHlQNQfUZf_4UoCyObR/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
+
+### Neurosciene of Trust
 
 Studies have shown that building trust has an impact on the brain. The neuroscience shows that recognition has the largest effect on trust when it occurs after a [goal has been met](https://hbr.org/2017/01/the-neuroscience-of-trust). The neuroscience of trust can help team members and managers in the following ways: 
 - Important for being empathetic, relating to others needs
@@ -251,6 +266,22 @@ Studies have shown that building trust has an impact on the brain. The neuroscie
 6. Intentionally build relationships
 7. Facilitate whole-person growth
 8. Show vulnerability
+
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSxZWO97gkIShmnZ-Ue7C9tbHVMT9BcuUx643pcGKrV29EQiXnpZ6yzTIZIuCUscwhTsT5ZoR6Gn-ZL/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
+
+### The Return on Trust
+
+Compared with people at low-trust companies, people at high trust companies report the following according to a [study from Accenture](https://talentorganizationblog.accenture.com/financialservices/the-importance-of-building-trust-in-the-financial-services-workplace-explained-in-6-eye-opening-statistics#:~:text=People%20at%20high%2Dtrust%20companies,106%25%20more%20energy%20at%20work): 
+- 106% more energy at work
+- 76% more engagement
+- 50% higher productivity
+- 60% more satisfaction with their job
+- 29% more satisfaction with their lives
+- 70% more aligned with their companies purpose
+- 74% less stress
+- 40% more energy at work
 
 ## Planning for action
 
