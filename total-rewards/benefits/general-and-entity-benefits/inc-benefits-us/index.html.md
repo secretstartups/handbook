@@ -192,7 +192,7 @@ Infertility services are provided through the UHC HSA plan. Please consult the l
 
 ### Pregnancy & Maternity Care
 
-With medical plans, GitLab offers pregnancy and maternity care. Depending on the plan you selected, your coverages may differ for in-network vs out-of-network, visits, and inpatient care. Please contact Lumity or People Operations with any questions about your plan. Once your child has arrived, please follow the steps outlined above in regards to this [Qualifying Life Event](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/qualifying-life-events).
+With medical plans, GitLab offers pregnancy and maternity care. Depending on the plan you selected, your coverages may differ for in-network vs out-of-network, visits, and inpatient care. Please contact Lumity or People Operations with any questions about your plan. Once your child has arrived, please follow the steps outlined above in regards to this [Qualifying Life Event](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#qualifying-life-events).
 
 ## Dental
 

@@ -113,13 +113,13 @@ To receive tuition reimbursement, GitLab team members should follow the followin
 1. If you are participating in a degree program, a Tuition Reimbursement Application Form will be needed for each semester or term. If this is the case, list down the course codes and names of the courses you are taking under the "Course" section of the form. 
 1. Once you have filled out the first page of the form, share or forward it to total-rewards@ domain.
 1. The Total Rewards will stage the second page for signatures in Hello Sign.
-1. The Total Rewards Analyst will confirm there are no additional [tax implications](/handbook/people-group/code-of-conduct/#tax-implications-for-tuition-reimbursement-by-country) for reimbursement in the team member's country.
+1. The Total Rewards Analyst will confirm there are no additional [tax implications](handbook/total-rewards/benefits/general-and-entity-benefits/#tax-implications-for-tuition-reimbursement-by-country) for reimbursement in the team member's country.
 1. The Total Rewards Analyst  will file the application and signed agreement in BambooHR.
 1. The Total Rewards Analyst will also log the tuition reimbursement in the "Tuition Reimbursement Log" found on the Google Drive.
 1. Once the course is completed, an official grade report or successful certification of completion must be submitted to Total Rewards.
 1. After grades are verified, Total Rewards will ensure the reimbursement is processed through the applicable payroll by the second pay cycle after submission.
 
-**Tax Implications for Tuition Reimbursement by Country**
+#### Tax Implications for Tuition Reimbursement by Country
 
 In some countries, tuition reimbursement may be considered as taxable income and can be (partially) exempted from personal income taxes or subject to employer withholding taxes. 
 
