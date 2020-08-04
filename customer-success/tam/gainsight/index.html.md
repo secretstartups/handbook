@@ -194,3 +194,13 @@ If you receive the error message "Query API invalid response", try clearing your
 ### Success plan objectives updated failed
 
 If your receive the error message "SUCCESS_PLAN_OBJECTIVES_UPDATED_FAILED" when changing the status of a Success Plan from Draft to Active, it could be because there is one or more CTAs with a due date earlier than one of its tasks' due date. To correct this, re-apply the due date on tasks which will update the CTA's due date, and then try to change the Success Plan to Active again.
+
+### Account says "TO BE DELETED NO LONGER IN SFDC"
+
+This is because two SFDC accounts were merged into one. What happens is this:
+1. Salesforce has 2 records of the same account
+1. SAL/or someone asks SalesOps/Deal Desk to merge
+1. The two Salesforce accounts are merged
+1. Gainsight does not "merge" because they were already merged in Salesforce
+1. Gainsight recognizes one was deleted and marks it with the "TO BE DELETED" title for CS Ops to review and/or delete it
+1. The remaining (merged) one in Salesforce remains synced to Gainsight
