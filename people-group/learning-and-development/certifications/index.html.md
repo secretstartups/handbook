@@ -66,13 +66,14 @@ If you took one of our certifications or knowledge assessments and did not recie
 
 **Learning & Development Team Member process for sending out missing certificates**
 
-1. Search for the email address of certificate requester in the "passing_results" or "pass_cert" tab for the sheet that aligns with the certification or knowledge assessment. The sheets can be found in the [certifications & knowledge assessments folder](https://drive.google.com/drive/folders/1bE12hWdbDoCDrzAzhy7pK5Jq11ctJ2qq). 
-   1.  Note: The Remote Foundations Certification has 10 knowledge assessments to complete for certification and the GitLab 101 Tool Certification has 3 kowledge assessments to complete for certification.  
+1. When an email comes in requesting to be sent a missed certificate, search for the email address of certificate requester in the "passing_results" or "pass_cert" or "pass_all" tab for the sheet that aligns with the certification or knowledge assessment. These sheets can be found in the [certifications & knowledge assessments folder](https://drive.google.com/drive/folders/1bE12hWdbDoCDrzAzhy7pK5Jq11ctJ2qq). 
+   *  Note: The Remote Foundations Certification has 10 knowledge assessments to complete for certification and the GitLab 101 Tool Certification has 3 kowledge assessments to complete for certification.  
 1. When responding to the email, ensure to "reply all" so the learning@ email is included so the team knows the email has been handled. 
-1. For email templates for different scenarios, check out our [Certification Request Responses doc](https://docs.google.com/document/d/1DSa1C6DFysPnTirjZkicC4qgn_EmmpzvjPjXVEwZxoY/edit?usp=sharing). 
+   * If not all necessary knowledge assessments have been completed, let them know which ones remain for them to recieve their certificate. 
+   * For email templates for different scenarios, check out our [Certification Request Responses doc](https://docs.google.com/document/d/1DSa1C6DFysPnTirjZkicC4qgn_EmmpzvjPjXVEwZxoY/edit?usp=sharing). 
 
 **Notes for the Remote Foundations Certificaation**
-* If they have not completed a KA, it will show up with a “0” in the column that is incomplete in the "pass_all" tab. 
+* If they have not completed one or multiple of the knowledge assessments, it will show up with a “0” in the column that is incomplete in the "pass_all" tab. 
 * If the email doesn’t show up in the "pass_all" tab, check the tabs for each KA. If they don’t complete the Handbook First documentation knowledge assessment, they won’t show up in the “pass_all” tab at all (even if they have completed the other 9 KAs). The Handbook First Documentation knowledge assessment is the anchor for the "pass_all" tab. 
 
 ## How to Create a Knowledge Assessment 
