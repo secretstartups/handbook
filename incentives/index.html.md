@@ -178,7 +178,7 @@ graph TD;
 #### Discretionary Bonuses for Working Groups
 1. Sometimes a [working group](/company/team/structure/#working-groups) strongly displays GitLab Values over a period, project or situation. For this case, we have group discretionary bonuses.
 1. As with individuals, we recognize those who make up that group through the #thanks channel and sometimes through a group discretionary bonus.
-1. [Anybody can recommend a discretionary bonus for a working group through the managers of the individuals involved](/handbook/incentives/#process-for-recommending-a-team-for-a-bonus-in-bamboohr) for $100 per person at [the exchange rate](/handbook/total-rewards/compensation/#exchange-rates).
+1. [Anybody can recommend a discretionary bonus for a working group through the managers of the individuals involved](/handbook/incentives/#process-for-recommending-a-team-member-for-a-bonus-in-bamboohr) for $100 per person at [the exchange rate](/handbook/total-rewards/compensation/#exchange-rates).
 
 #### Process for Recommending a Working Group for a Bonus in BambooHR
 
