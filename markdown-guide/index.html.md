@@ -40,7 +40,7 @@ standard for [about.GitLab.com].
 
 ### Blog
 
-For our [Blog], everything in this guide can be applied. Read through the [Blog Style Guidelines] for further information.
+For our [Blog], everything in this guide can be applied. Read through the [Blog Formatting Guidelines] for further information.
 
 ----
 
@@ -2209,7 +2209,7 @@ Anything else you know of and is not described here? Any new magic? Any trick? P
 [alt-text-best-practices]: https://webaim.org/techniques/alttext/
 [atom]: https://atom.io/
 [blog]: /blog/
-[Blog Style Guidelines]: /handbook/marketing/blog/#styles-guidelines
+[Blog Formatting Guidelines]: /handbook/marketing/blog#formatting-guidelines
 [bootstrap]: http://getbootstrap.com/components/#alerts
 [CommonMarker]: https://github.com/gjtorikian/commonmarker
 [daring-quote]: http://daringfireball.net/projects/markdown/syntax#html
