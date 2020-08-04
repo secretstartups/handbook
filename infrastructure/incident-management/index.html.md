@@ -33,6 +33,7 @@ resolution. To that end, incident management provides:
 1. a **root-cause analysis** (RCA),
 1. and a post-incident review that assigns a **severity** classification after assessing the impact and scope of the incident.
 
+When an [incident starts](#declaring-an-incident): we use the #incident-management slack channel for chat based communication.  There is a Situation Room Zoom link in the channel description for incident team members to join for synchronous communication.  There should be a link to an incident issue in the [`#incident-management`](https://gitlab.slack.com/archives/CB7P5CJS1) channel.  We prefer to keep status updates and main comments in a thread from that issue announcment.  This makes it easier for incoming oncall for EOC and CMOC to look for status on handoffs.
 
 
 ### Ownership
@@ -89,7 +90,7 @@ These definitions imply several on-call rotations for the different roles.
 1. _Be inquisitive_. _Be vigilant_. If you notice that something doesn't seem right, investigate further.
 2. After the incident is resolved, the EOC should start on performing an [incident review](/handbook/engineering/infrastructure/incident-review) (RCA) and [assign themselves](#incident-review-issue-creation-and-ownership) as the initial owner. Feel free to take a breather first, but do not end your work day without starting the RCA.
 
-#### Guidlines on Security Incidents
+#### Guidelines on Security Incidents
 
 At times, we have a security incident where we may need to take actions to block a certain URL path or part of the application.  This list is meant to help the Security Engineer On-Call and EOC decide when to engage help and post to status.io.
 
@@ -135,6 +136,17 @@ During an incident, the CMOC will:
 1. Update the status page at regular intervals in accordance with [the severity of the incident](https://about.gitlab.com/handbook/support/workflows/cmoc_workflows.html#frequency-of-updates).
 1. Notify GitLab Community Advocates via Slack using the `@advocates` handle at the start of an incident.
 
+##### How to engage the CMOC?
+
+If, during an incident, EOC or IMOC decide to engage CMOC, they should do that
+by paging the on-call person:
+- Using the `/pd-cmoc` command in Slack
+or
+- Directly from PagerDuty in the [Incident Management - CMOC Rotation](https://gitlab.pagerduty.com/escalation_policies#PNH1Z1L)
+schedule in PagerDuty. That can be done by navigating to [Incidents page in PagerDuty](https://gitlab.pagerduty.com/incidents),
+and then creating the new incident while picking **Incident Management - CMOC** as
+**Impacted Service**.
+
 ### Runbooks
 
 [Runbooks](https://gitlab.com/gitlab-com/runbooks) are available for
@@ -157,7 +169,16 @@ If you are a GitLab team member and would like to report a possible incident rel
 
 #### Report an Incident via Slack
 
-Type `/incident declare` in Slack (e.g `#production`) and follow the prompts. The incident declaration is orchestrated through IMA (incident management automation) and will create an incident issue.
+Type `/incident declare` in the [`#production`](https://gitlab.slack.com/archives/C101F3796) channel in GitLab's Slack and follow the prompts (detailed description and screenshot below). This will open an incident issue and notify the engineer on-call (EOC).
+
+![Incident Declaration Slack window](incident-declare-slack.png)<br/>*Incident Declaration Slack window*
+
+| Field | Field Instructions |
+|---|---|
+| Title | This is the title of the incident issue, place a brief description of what you are witnessing on GitLab.com. |
+| Detailed Description | Add any additional details here to assist the EOC responding to the incident. |
+| Severity | If unsure about the severity to choose, but you are seeing a large amount of customer impact, please select S1. More details here: [Incident Severity](#incident-severity). |
+| Tasks | You can safely ignore the first two options, if you'd like to ensure that the incident manager on-call (IMOC) and/or the communication manager on-call (CMOC) is notified via a page to their mobile device, select one or both of those options. Note: the engineer on-call (EOC) is notified via this workflow. |
 
 
 #### Report an Incident via Email
@@ -258,7 +279,7 @@ Status can be set independent of state. The only time these must align is when a
 
 ### Incident Severity
 
-**Incident severities encapsulate the impact of an incident and scope the resources allocated to handle it**. Detailed definitions are provided for each severity, and these definitions are reevaluated as new circumstances become known. Incident management uses our standardized severity definitions, which can be found under our [issue workflow documentation](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#severity-labels).
+**Incident severities encapsulate the impact of an incident and scope the resources allocated to handle it**. Detailed definitions are provided for each severity, and these definitions are reevaluated as new circumstances become known. Incident management uses our standardized severity definitions, which can be found under [availability severities](/handbook/engineering/quality/issue-triage/#availability).
 
 ### Alert Severities
 

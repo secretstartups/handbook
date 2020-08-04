@@ -123,6 +123,7 @@ These are changes with high impact or high risk. If a change is going to cause d
 1. IaC changes to pets - Postgres, Redis, and other Single Points of Failure
 1. Changes of major vendor - CDN, mail, DNS
 1. Major version upgrades of tooling (HAProxy, Chef)
+1. Creating and applying custom builds from binaries is generally not recommended, and it is only allowed through Criticality 1 guidelines.
 
 #### Approval
 
