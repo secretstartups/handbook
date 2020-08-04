@@ -56,7 +56,7 @@ Check the most up to date information with regards to our [Annual Compensation R
     * Director increases were handled as a separate process within the compensation review. For directors, their increases were determined by the following factors: compa group, location factor and benchmark changes like all other roles but this year, the recommended variable (as a % of salary) was increased from 10% to 15%. For more information on the shift to the split, please refer to the handbook.
     * Any Directors who have questions about their OTE and bonus plan should reach out directly to total-rewards@gitlab.com
 
-4.  **Other scenarios:** If you have a scenario different from the above, and/or you need help with messaging, please work with your manager or [People Business Partner](/handbook/people-group/how-to-reach-us).  
+4.  **Other scenarios:** If you have a scenario different from the above, and/or you need help with messaging, please work with your manager or [People Business Partner](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group).  
 
 **Possible reactions:**
 
@@ -72,7 +72,7 @@ Check the most up to date information with regards to our [Annual Compensation R
     * Refer back to the conversation you had with your team member at the time compa groups were determined and reiterate the justification and feedback that you provided at that time.
     * If your team member is in good standing from a performance perspective, work with them to put together a [development plan](/handbook/people-group/learning-and-development/career-development/) to help them to move to the next compa group.
 
-**If you need assistance after reviewing the [handbook](/handbook/total-rewards/compensation/), please work directly with your manager or your [People Business Partner](/handbook/people-group/how-to-reach-us)**
+**If you need assistance after reviewing the [handbook](/handbook/total-rewards/compensation/), please work directly with your manager or your [People Business Partner](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group)**
 
 ----
 
