@@ -87,7 +87,7 @@ Why am I here? Team needs to move from complete freedom to a set of “boundarie
 
 <details>
   <summary markdown='span'>
-    Sage 1 Manager Tasks Diagram
+    Stage 1 Manager Tasks Diagram
   </summary>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSiNEAtjZlzmTqNCNCrN81l2lTEg-VpRgVNC2UGyyprbjwcng_f4UDI3MstrgEkfU3NY-q9qJUy0BT0/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
