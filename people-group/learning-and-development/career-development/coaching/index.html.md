@@ -233,7 +233,11 @@ The trust equation uses four objective variables to measure trustworthiness:
 
 The trust equation has one variable in the denominator (self-orientation) and three in the numerator (credibility, reliability, intimacy). Increasing the value of the factors in the numerator increases the value of trust. Increasing the denominator (self-orientation) decreases the value of trust. 
 
-## Neurosciene of Trust
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ7oRKaXPc3-pqXJEU5SHdlBJlHw00HO4oOcfmH5z0Iq0ojz-lQ1HoudBSeUoHlQNQfUZf_4UoCyObR/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
+
+### Neurosciene of Trust
 
 Studies have shown that building trust has an impact on the brain. The neuroscience shows that recognition has the largest effect on trust when it occurs after a [goal has been met](https://hbr.org/2017/01/the-neuroscience-of-trust). The neuroscience of trust can help team members and managers in the following ways: 
 - Important for being empathetic, relating to others needs
@@ -251,6 +255,18 @@ Studies have shown that building trust has an impact on the brain. The neuroscie
 6. Intentionally build relationships
 7. Facilitate whole-person growth
 8. Show vulnerability
+
+### The Return on Trust
+
+Compared with people at low-trust companies, people at high trust companies report the following according to a [study from Accenture](https://talentorganizationblog.accenture.com/financialservices/the-importance-of-building-trust-in-the-financial-services-workplace-explained-in-6-eye-opening-statistics#:~:text=People%20at%20high%2Dtrust%20companies,106%25%20more%20energy%20at%20work): 
+- 106% more energy at work
+- 76% more engagement
+- 50% higher productivity
+- 60% more satisfaction with their job
+- 29% more satisfaction with their lives
+- 70% more aligned with their companies purpose
+- 74% less stress
+- 40% more energy at work
 
 ## Planning for action
 
