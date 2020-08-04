@@ -153,7 +153,7 @@ Interested in what other mentorship opportunities exist at GitLab? Check out the
 
 **The Reverse AMA format** - Questions asked by a facilitator (typically a member of the leadership team), answered by the group.
 
-In Sales, we piloted this format with our black team members. We wanted to start with this underrepresented group to acknowledge that our Black team members may be processing a lot of emotions in different ways as a result of domestic and global events. Our [values](https://about.gitlab.com/handbook/values/) promote being inclusive and being an [ally](https://about.gitlab.com/handbook/communication/ally-resources/), and we need to lean into these values.
+In Sales, we piloted this format with our Black team members. We wanted to start with this underrepresented group to acknowledge that our Black team members may be processing a lot of emotions in different ways as a result of domestic and global events. Our [values](https://about.gitlab.com/handbook/values/) promote being inclusive and being an [ally](https://about.gitlab.com/handbook/communication/ally-resources/), and we need to lean into these values.
 
 **Benefits**
 * Improve efforts at driving inclusion and belonging at every level
