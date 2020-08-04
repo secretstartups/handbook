@@ -19,9 +19,9 @@ You can also reach the group via the [#professional-services](https://gitlab.sla
 
 Internal GitLab team leads can request training sessions delivered by Professional Services for their teams. Here are the steps for making a request. 
 
-1. [Create a new issue](https://gitlab.com/gitlab-com/customer-success/professional-services-group/education-services/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) in the Education Services namespace using the internal-trainer_request issue template.
+1. [Create a new issue](https://gitlab.com/gitlab-com/customer-success/professional-services-group/education-services/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) in the Education Services namespace using the internal_trainer_request issue template.
 1. Complete the Requestor Tasks in the issue description.
-1. The PS Project Coordinator will reach out to plan and  your schedule the session.
+1. The PS Project Coordinator will reach out to plan and schedule the training session(s).
 
 ### For Sales Reps and SAs: How to order Professional Services
 
