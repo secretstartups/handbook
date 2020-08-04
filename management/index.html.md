@@ -32,7 +32,7 @@ following areas, so we recommend you review them carefully and discuss your
 confidence with your manager:
 
 - [1-1s](/handbook/leadership/1-1/)
-- [Providing regular feedback](/handbook/leadership/#giving-performance-feedback)
+- [Providing regular feedback](/handbook/leadership/#giving-feedback)
 - [Dealing with underperformance](/handbook/underperformance/)
 
 ## Engineering Manager Onboarding

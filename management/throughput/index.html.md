@@ -42,7 +42,7 @@ encouraged for measuring the type at the highest level of specificity.
 You may apply a second throughput label such as `~"bug"` or `~"feature"` to indicate the throughput type.
 1. `~"security"`: Security-related MRs.
 1. `~"bug"`: Defects in shipped code. Read more about [features vs bugs](/handbook/product/product-processes/#issues).
-1. `~"feature"`: Any MR that contains work to support the implementation of a feature and/or results in an improvement in the user experience. Read more about [features vs bugs](/handbook/product/product-processes/#issues.html).
+1. `~"feature"`: Any MR that contains work to support the implementation of a feature and/or results in an improvement in the user experience. Read more about [features vs bugs](/handbook/product/product-processes/#issues).
   - `~"feature::addition"`: Work towards the creation of a new feature. This includes user facing and non-user facing changes such as data model, feature flag and other backend pre-work.
   - `~"feature::maintenance"`: Refinements to an existing feature that is not related to `~bug` resolution. This would include `~"technical debt"` and industry standard updates such as work towards Rails upgrade.
 1. `~"tooling"`: MRs related to engineering tooling.
@@ -96,7 +96,7 @@ accurate than using weights.
 
 - There are many activities such as code reviews, meetings, planning that we do not count as units of work independently, they are however accounted for as part of the delivery of an issue whether it be feature work or technical debt.  The team's rate of delivering code to production is what we are trying to measure.
 - This metric is a tool for an Engineering Manager to [determine the capacity
-  of the team](/handbook/engineering/management/#project-management) for each given release.
+  of the team](/handbook/engineering/management/project-management/) for each given release.
   You need to gather a few milestones worth of data to get a sense of your week to week delivery rate.
 - While there is no scoring required with this model, there is still value
   for an Engineering Manager to look through each issue they are committing to
