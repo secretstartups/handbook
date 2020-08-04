@@ -53,6 +53,10 @@ You may wear multiple hats in any given day:
 *  **Mentor Hat** - Sharing advice and giving guidance from your own experience.
 *  **Coach Hat** - Asking lots of quesitons and listening deeply to help people reach their own solutions.
 
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTadK6g9lEwLV8nP9GWPrgcF7sRHxycOuLwlZQm_h05D_FJpC3T9JzGUB7FmZY0UyW-ii4IfP0groBd/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
+
 ### GROW Model
 
 The GROW Model is a four step method to holding coaching conversations with a coachee. You can apply it during coaching sessions to guide the coachee through future focused discussions. 
@@ -65,6 +69,9 @@ The GROW Model is a four step method to holding coaching conversations with a co
 
 **W - Way Forward:** Agree on specific actions and timeframe to set accountablity for the coachee
 
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRyDezAdhbc9k5YOQmkUxCxkroz-yR6dpX1CoevIULZM10DcYLy_hBo3yQGlHPUgzPrAxZmNzR7Qjwj/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
 
 ## Essential coaching skills
 
