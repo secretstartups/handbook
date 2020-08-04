@@ -65,12 +65,12 @@ This label indicates the planned timeline & urgency which is used to measure aga
 | `~security` Security Vulnerability |See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|
 | `~UX` User experience problem | "I can't figure this out." Users are blocked (or so confused that they believe they are blocked), and are likely to ask for support. | "I can figure out why this is happening, but it's really painful to solve." Users are significantly delayed by the available workaround. | "This still works, but I have to make small changes to my process." Users are self sufficient in completing the task with the workaround, but may be somewhat delayed. |  "There is a small inconvenience or inconsistency." Usability isn't ideal or there is a small cosmetic issue. |
 
-| Label | Meaning         | Target SLO (currently only applies to `~bug` and `~security` defects)      | Target SLO (`~corrective action`) |
-|-------|-----------------|----------------------------------------------------------------------------|-----------------------------------|
-| `~S1` | Urgent Severity | The current release + next available deployment to GitLab.com (within 30 days) | 1 week                            |
-| `~S2` | High Severity   | The next release (60 days)                                                 | 30 days                           |
-| `~S3` | Medium Severity | Within the next 3 releases (approx one quarter or 90 days)                 | 60 days                           |
-| `~S4` | Low Severity    | Anything outside the next 3 releases (more than one quarter or 120 days)   | 90 days                           |
+| Label | Meaning         | `~corrective action` SLO | `~bug` resolution SLO    | 
+|-------|-----------------|--------------------------|--------------------------------------------------------------------------------|
+| `~S1` | Urgent Severity | 1 week                   | The current release + next available deployment to GitLab.com (within 30 days) |
+| `~S2` | High Severity   | 30 days                  | The next release (60 days)                                                     |                                              
+| `~S3` | Medium Severity | 60 days                  | Within the next 3 releases (approx one quarter or 90 days)                     |                 
+| `~S4` | Low Severity    | 90 days                  | Anything outside the next 3 releases (more than one quarter or 120 days).      |   
 
 ### UX debt
 
