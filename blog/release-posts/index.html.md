@@ -1207,7 +1207,7 @@ For entries that support markdown, use regular [markdown Kramdown](/handbook/mar
 #### Images
 
 - {:#alt} Make sure every image has an
-[alternative text](/handbook/markdown-guide/#image-alt-text)
+[alternative text](/handbook/markdown-guide/#images)
 - {:#images-compressed} Each image should be compressed with  [ImageOptim](https://imageoptim.com),
 [TinyPNG](https://tinypng.com/), or similar tool. You can also try  [automation tools like Hazel or Automator](https://about.gitlab.com/blog/2020/01/30/simple-trick-for-smaller-screenshots/)
 - {:#image-size-limit} Each image should not surpass 150KB (300KB for cover

@@ -51,7 +51,7 @@ If your proposed post doesn't meet the [criteria for an announcement](#-if-you-w
 
 ### If you don't want to pitch your post
 
-If you prefer, you can submit a complete blog post to the [GitLab Unfiltered blog](/handbook/marketing/blog/unfiltered/) without pitching first. The [Unfiltered blog is monitored weekly for posts to feature](/handbook/marketing/corporate-marketing/content/editorial-team/#featuring-unfiltered-posts) on the main blog. Unfiltered posts are not shared on GitLab's official social media handles.
+If you prefer, you can submit a complete blog post to the [GitLab Unfiltered blog](/handbook/marketing/blog/unfiltered/) without pitching first. The [Unfiltered blog is monitored weekly for posts to feature](/handbook/marketing/growth-marketing/content/editorial-team#featuring-unfiltered-posts) on the main blog. Unfiltered posts are not shared on GitLab's official social media handles.
 
 ## How to pitch a blog post
 
@@ -108,7 +108,7 @@ Below are links to blog post proposals that demonstrate the value the post will 
 
 The Editorial team will review issues with the label `Blog::Pitch` every Monday, and a team member will respond on your issue to let you know whether to move forward with your draft.
 
-If your pitch isn't accepted, no problem! The Editorial team will suggest that you submit your post to the [GitLab Unfiltered blog](/handbook/marketing/blog/unfiltered/) instead. The [Unfiltered blog is monitored weekly for posts to feature](/handbook/marketing/corporate-marketing/content/editorial-team/#featuring-unfiltered-posts) on the main blog.
+If your pitch isn't accepted, no problem! The Editorial team will suggest that you submit your post to the [GitLab Unfiltered blog](/handbook/marketing/blog/unfiltered/) instead. The [Unfiltered blog is monitored weekly for posts to feature](/handbook/marketing/growth-marketing/content/editorial-team#featuring-unfiltered-posts) on the main blog.
 
 ### If your pitch is accepted
 
@@ -119,7 +119,7 @@ If your pitch isn't accepted, no problem! The Editorial team will suggest that y
 Note for the Content team: If your blog post is already scheduled and appears on the [blog calendar](/handbook/marketing/growth-marketing/content/editorial-team/#blog-calendar) please submit your MR and associated issue directly to @vsilverthorne or @skassabian for review.
 {: .alert .alert-info .note}
 
-Blog post ideas and proposals for [Content Hack Day](/handbook/marketing/corporate-marketing/content/content-hack-day/) should be created in the [Content Hack Day project](https://gitlab.com/gitlab-com/content-hack-day). We keep these issues in a separate project because not all ideas and proposals that come from Hack Day will be worked on.
+Blog post ideas and proposals for [Content Hack Day](/handbook/marketing/growth-marketing/content/content-hack-day/) should be created in the [Content Hack Day project](https://gitlab.com/gitlab-com/content-hack-day). We keep these issues in a separate project because not all ideas and proposals that come from Hack Day will be worked on.
 
 ### Process for time-sensitive posts
 
@@ -150,7 +150,7 @@ Continuous delivery mindset: With time-sensitive posts, don't wait to publish a 
 
 Inspired by [error budgets used by Engineering](/handbook/engineering/#error-budgets).
 
-Applied to the blog, error budgets incentivize forward planning and early communication of time-sensitive blog posts. This helps the Editorial team to minimize time spent on unplanned work, shuffling of the publishing schedule, or work that is subsequently wasted or does not serve our [mission and vision](/handbook/marketing/corporate-marketing/content/#mission--vision), or the needs of our audience.
+Applied to the blog, error budgets incentivize forward planning and early communication of time-sensitive blog posts. This helps the Editorial team to minimize time spent on unplanned work, shuffling of the publishing schedule, or work that is subsequently wasted or does not serve our [goals](/handbook/marketing/growth-marketing/content/#goals--key-deliverables) or the needs of our audience.
 
 Each functional group is responsible for not exceeding an allowed budget of 15 points per quarter. The number of points given will depend on the severity of the impact to the team's workflow:
 
