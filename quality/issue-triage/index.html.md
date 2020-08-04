@@ -39,12 +39,12 @@ An issue is considered completely triaged when:
 
 The priority label is used for scheduling by Product Managers. If there are multiple defects, the priority label decides which defect has to be fixed immediately versus later.
 
-| Label | Meaning         |
-|-------|-----------------|
-| `~P1` | Urgent Priority |
-| `~P2` | High Priority   |
-| `~P3` | Medium Priority |
-| `~P4` | Low Priority    |
+| Priority | Importance | Intention | DRI | Planning milestone |
+| ------ | ------ | ----- | ---- |---|
+| ~P1 | Urgent | We want to fix this as soon as possible regardless of limit on our team capacity | EM/PM of that product| Current milestone |
+| ~P2 | High | We want to fix this soon and will provide capacity from our team for it in the next release | EM/PM of that product group | Next milestone |
+| ~P3 | Medium | We want to fix this but may have other higher priority items |  EM/PM of that product group | Next 2-3 release/milestones |
+| ~P4 | Low| It will be prioritized but we don't have visibility when this will be fixed |  EM/PM of that product group | Next 4+ milestones |
 
 ## Severity
 
@@ -65,12 +65,12 @@ This label indicates the planned timeline & urgency which is used to measure aga
 | `~security` Security Vulnerability |See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|
 | `~UX` User experience problem | "I can't figure this out." Users are blocked (or so confused that they believe they are blocked), and are likely to ask for support. | "I can figure out why this is happening, but it's really painful to solve." Users are significantly delayed by the available workaround. | "This still works, but I have to make small changes to my process." Users are self sufficient in completing the task with the workaround, but may be somewhat delayed. |  "There is a small inconvenience or inconsistency." Usability isn't ideal or there is a small cosmetic issue. |
 
-| Label | Meaning         | Incident root cause analysis `~corrective action` SLO | `~bug` resolution SLO  | 
+| Label | Meaning         | Incident root cause analysis `~corrective action` SLO | `~bug` resolution SLO  |
 |-------|-----------------|--------------------------|--------------------------------------------------------------------------------|
 | `~S1` | Urgent Severity | 1 week                   | The current release + next available deployment to GitLab.com (within 30 days) |
-| `~S2` | High Severity   | 30 days                  | The next release (60 days)                                                     |                                              
-| `~S3` | Medium Severity | 60 days                  | Within the next 3 releases (approx one quarter or 90 days)                     |                 
-| `~S4` | Low Severity    | 90 days                  | Anything outside the next 3 releases (more than one quarter or 120 days).      |   
+| `~S2` | High Severity   | 30 days                  | The next release (60 days)                                                     |
+| `~S3` | Medium Severity | 60 days                  | Within the next 3 releases (approx one quarter or 90 days)                     |
+| `~S4` | Low Severity    | 90 days                  | Anything outside the next 3 releases (more than one quarter or 120 days).      |
 
 ### UX debt
 
