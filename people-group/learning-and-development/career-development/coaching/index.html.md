@@ -222,6 +222,10 @@ Building trust is an important ingredient in coaching and team dynamics. Trust l
 4. **Avoidance of Accountability:** When teams do not commit to a clear plan of action, even the most focused and driven individuals are hesitant to call their peers on actions and behaviors that may seem counterproductive. 
 5. **Inattention to Results:** When no one is accountable, team members may naturally tend to put their own needs ahead of the collective goals; for example, career development and recognition. 
 
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQwmhv3MIUV4065TeQ4N1Lz4xhjROQRTaTW2XNa5qH4k-mq4GNLgRYhi2fr2hjZslZ7V8JBipbvuaBv/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
+
 **[The Trust Equation&trade;](https://trustedadvisor.com/why-trust-matters/understanding-trust/understanding-the-trust-equation#:~:text=The%20Trust%20Equation%20uses%20four,%2C%20Intimacy%20and%20Self%2DOrientation.&text=The%20Trust%20Quotient%20is%20a,trustworthiness%20against%20the%20four%20variables.)** is a concept to help increase trustworthiness with your team. The more trust you have with team members, the easier it will be to have coaching conversations. 
 
 The trust equation uses four objective variables to measure trustworthiness: 
@@ -255,6 +259,10 @@ Studies have shown that building trust has an impact on the brain. The neuroscie
 6. Intentionally build relationships
 7. Facilitate whole-person growth
 8. Show vulnerability
+
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSxZWO97gkIShmnZ-Ue7C9tbHVMT9BcuUx643pcGKrV29EQiXnpZ6yzTIZIuCUscwhTsT5ZoR6Gn-ZL/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
 
 ### The Return on Trust
 
