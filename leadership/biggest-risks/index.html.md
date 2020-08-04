@@ -194,7 +194,7 @@ We will always have competition. To deal with competition, operational excellenc
 We encourage operational excellence in the following ways:
 
 1. [Efficiency value](/handbook/values/#efficiency)
-1. [Long Term Profitability Targets](/handbook/finance/financial-planning-and-analysis/#long-term-profitability-targets)
+1. [Long Term Profitability Targets](/handbook/finance/financial-planning-and-analysis/#long-term-targets)
 1. [KPIs](/handbook/business-ops/data-team/metrics/#gitlab-kpis)
 1. Open source with a lot of wider community contributors who make it easier to uncover customer demand for features and allow our organization to stay leaner.
 1. A [single application](/handbook/product/single-application/) makes the user experience better, allows us to introduce new functionality to users, and it makes it easier for us to keep our velocity.
