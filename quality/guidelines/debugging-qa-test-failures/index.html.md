@@ -47,7 +47,7 @@ If there's a failure, we use emoji to indicate the state of its investigation:
 * The [DRI](/handbook/people-group/directly-responsible-individuals/) should decide in the first 20 minutes of analysis if the failure can be fixed or if a test has to be quarantined.
 * In any case, the counterpart SET is kept informed about the issue.
 * If the DRI finds that the issue can be fixed, they should spend not more than 2 hours in fixing the failure. Any test failure whose fix would take more than 2 hours should be quarantined.
-* Please refer to the [Quality Department pipeline triage rotation](/handbook/engineering/quality/guidelines/#quality-department-pipeline-triage-rotation) page to know who the current DRI is.
+* Please refer to the [Quality Department pipeline triage rotation](/handbook/engineering/quality/guidelines/#quality-department-pipeline-triage-on-call-rotation) page to know who the current DRI is.
 
 ### Steps for debugging a QA test pipeline failure
 
