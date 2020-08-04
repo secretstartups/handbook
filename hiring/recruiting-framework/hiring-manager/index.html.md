@@ -21,7 +21,7 @@ title: "Recruiting Process - Hiring Manager Tasks"
 
 ### Step 12/HM: Complete feedback in Greenhouse/next steps
 
-Once the first interview(s) are completed, the interviewer will submit feedback via the designated scorecard in Greenhouse. The hiring manager will have designated areas of focus for each member of the interview team. These will be defined during the intake call and setup in GreeHouse by the recruiter or the CES. 
+Once the first interview(s) are completed, the interviewer will submit feedback via the designated scorecard in Greenhouse. The hiring manager will have designated areas of focus for each member of the interview team. These will be defined during the intake call and setup in Greenhouse by the recruiter or the CES. 
 
 As a best practice the Hiring Manger should reach out to each individual on the interview plan.
 
