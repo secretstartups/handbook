@@ -102,6 +102,38 @@ TBA
 ----
 ### Reporting
 
+To note: When preparing reports, please be mindful that **not** all roles are subject to a `Location Factor`. However, despite a role **not** being subject to one, we will still report it. The reason being is to have a comprehensive view of `Location Factors` in our hiring efforts. To accommodate this, two averages will be calculated; one of the overall average that **includes** all roles and another that **excludes** the roles where it is not applicable. 
+
+Please see the list below of roles where `Location Factor` is **not** applicable:
+
+<details>
+  <summary markdown='span'>
+  Roles Where Location Factor is Not Applicable
+  </summary>
+
+  * SAccount Executive - Mid Market
+  * All SDR roles (IC and Management)
+  * Area Sales Manager
+  * Channel Sales Manager
+  * Channel Services Manager
+  * Inside Sales Rep
+  * Junior Account Executive - Mid Market
+  * Junior Channel Sales Manager
+  * Junior Strategic Account Leader
+  * Manager, Public Sector Inside Sales
+  * Public Sector Area Sales Manager
+  * Public Sector Channel Manager
+  * Public Sector Strategic Account Leader
+  * Regional Sales Directors
+  * Senior Channel Sales Manager
+  * Senior Channel Sales Manager
+  * Senior Inside Sales Rep
+  * Senior Strategic Account Leader
+  * SMB Customer Advocate
+  * Strategic Account Leader
+
+</details>  
+
 #### Monthly Metrics Reports
 
 The *Monthly Metrics* are comprised of reports from both BambooHR and Greenhouse. Some of the reports are automated and are available in Sisense dashboards. The following is a list of those reports and their respective links, where applicable.
