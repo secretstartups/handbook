@@ -150,7 +150,7 @@ Continuous delivery mindset: With time-sensitive posts, don't wait to publish a 
 
 Inspired by [error budgets used by Engineering](/handbook/engineering/#error-budgets).
 
-Applied to the blog, error budgets incentivize forward planning and early communication of time-sensitive blog posts. This helps the Editorial team to minimize time spent on unplanned work, shuffling of the publishing schedule, or work that is subsequently wasted or does not serve our [goals](/handbook/marketing/growth-marketing/content/#goals--key-deliverables) or the needs of our audience.
+Applied to the blog, error budgets incentivize forward planning and early communication of time-sensitive blog posts. This helps the Editorial team to minimize time spent on unplanned work, shuffling of the publishing schedule, or work that is subsequently wasted or does not serve our [goals and objectives](//handbook/marketing/growth-marketing/content/editorial-team/#goal-grow-our-audience-engage-readers-and-convert-readers-into-subscribers) or the needs of our audience.
 
 Each functional group is responsible for not exceeding an allowed budget of 15 points per quarter. The number of points given will depend on the severity of the impact to the team's workflow:
 
