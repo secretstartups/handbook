@@ -244,14 +244,16 @@ issue trackers or customer tickets.
 #### User Groups
 {: .no_toc}
 
-| Group                  | Who                       |
-|------------------------|---------------------------|
-| `@support-dotcom`      | GitLab.com Support Team   |
-| `@support-selfmanaged` | Self-managed Support Team |
-| `@support-team-apac`   | Support Team APAC         |
-| `@support-team-emea`   | Support Team EMEA         |
-| `@support-team-americas` | Support Team AMER       |
-| `@supportmanagers`     | Support Managers          |
+| Group                    | Who                       |
+|--------------------------|---------------------------|
+| `@support-dotcom`        | GitLab.com Support Team   |
+| `@support-selfmanaged`   | Self-managed Support Team |
+| `@support-team-apac`     | Support Team APAC         |
+| `@support-team-emea`     | Support Team EMEA         |
+| `@support-team-americas` | Support Team AMER         |
+| `@supportmanagers`       | Support Managers          |
+| `@support-managers-apac` | Support Managers APAC     |
+| `@support-managers-emea` | Support Managers EMEA     |
 
 If you need to be added to one or more of these groups, please open an issue in
 the [access requests project](https://gitlab.com/gitlab-com/access-requests).
