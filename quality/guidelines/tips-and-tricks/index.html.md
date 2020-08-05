@@ -156,3 +156,34 @@ You can include multiple configurations, and any environment variables or comman
   ]
 }
 ```
+
+## Scripts and tools for automating tasks
+
+### Toolbox
+
+The [Quality Toolbox](https://gitlab.com/gitlab-org/quality/toolbox) contains several scripts that can be useful when working with GitLab end-to-end tests, such as one to [generate a report of flaky tests](https://gitlab.com/gitlab-org/quality/toolbox#generate-a-flaky-examples-report), or one to [report job success rates](https://gitlab.com/gitlab-org/quality/toolbox#pipeline-job-report).
+
+### Rake tasks
+
+The [`qa/tools` directory](https://gitlab.com/gitlab-org/gitlab/blob/master/qa/qa/tools/) contains rake tasks that perform automated tasks on a schedule (such as [deleting subgroups](https://gitlab.com/gitlab-org/gitlab/-/blob/master/qa/qa/tools/delete_subgroups.rb) after a test run), or that can be run as needed (such as [revoking personal access tokens](https://gitlab.com/gitlab-org/gitlab/-/blob/master/qa/qa/tools/revoke_all_personal_access_tokens.rb)).
+
+#### Delete Test SSH Keys
+
+This script deletes SSH keys for a specific user. It can be executed via the `delete_test_ssh_keys` rake task in the `qa` directory.
+
+The rake task accepts two arguments that can be used to limit the keys that are deleted, and to perform a dry run.
+
+- The first argument, `title_portion`, limits keys to be deleted to those that include the string provided.
+- The second argument, `delete_before`, limits keys to be deleted to those that were created before the given date.
+
+There is a similar rake task, `delete_test_ssh_keys_dry_run`, that accepts the same arguments and performs a dry run, which lists all keys and indicates whether each will be deleted.
+
+Two environment variables are also required:
+- `GITLAB_ADDRESS` is the address of the target GitLab instance.
+- `GITLAB_QA_ACCESS_TOKEN` should be a personal access token with API access and should belong to the user whose keys will be deleted.
+
+For example, the following command will delete all SSH keys with a title that includes `E2E test key:` and that were created before `2020-08-02` on `https://staging.gitlab.com` for the user with the provided personal access token:
+
+```shell
+GITLAB_QA_ACCESS_TOKEN=secret GITLAB_ADDRESS=https://staging.gitlab.com bundle exec rake "delete_test_ssh_keys[E2E test key:, 2020-08-02]"
+```
