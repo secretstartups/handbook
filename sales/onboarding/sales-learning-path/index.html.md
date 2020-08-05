@@ -243,7 +243,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
   - GitLab Support Team provides technical support to GitLab.com and Self-Managed GitLab customers. The Support Team Handbook is the central repository for why and how we work the way we do. To learn more, check out the [Handbook](/handbook/support/).
 - **Review the following workflows in the GitLab Customer Support Documentation (Material - Handbook - 15 minutes)**
   - Read the [Working with GitLab Support](https://about.gitlab.com/handbook/support/internal-support/) page as it details how to get in touch with us for common requests requiring Support involvement.
-      - The [Support Tickets & Customer Information](https://about.gitlab.com/handbook/support/internal-support/#support-tickets--customer-information) and the [Common Requests](https://about.gitlab.com/handbook/support/internal-support/#common-requests) sections have a list of workflows you'll commonly encounter that will need involvement from Support.
+      - The [Support Tickets & Customer Information](https://about.gitlab.com/handbook/support/internal-support/#support-tickets--customer-information) and the [Common Requests](https://about.gitlab.com/handbook/support/internal-support/#common-requests) sections have a list of workflows that you might frequently encounter.
       - Make note of Support's [internal-requests](https://gitlab.com/gitlab-com/support/internal-requests) project - you will be filing issues under this for some of the workflows listed in the above page.
 - **Review the Zendesk Workflow (Material - Handbook - 15 minutes)**
   - Zendesk is the tool the GitLab Support Team uses to work tickets for customers. Please familiarize yourself with the assocaited workflows.
