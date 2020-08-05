@@ -120,6 +120,16 @@ Code Units:
 * Tests
    * [ChatterFeedItemTest.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/ChatterFeedItemTest.cls)
 
+**Supported Groups**
+* `@sales-support`
+   * This alias is leveraged by the Deal Desk team to manage inbound request from the Sales Team 
+* `@billing ops`
+   * This alias is leveraged by the Billing team to manage inbound request as they pertain to Billing
+* `@community-advocate`
+   * This alias is monitored by the Community Advocate team.
+* `@revenue`
+   * This alias is leveraged by the Revenue team to review Opportunities and how we will record revenue. [Detailed Response Here](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/859#note_386593491)
+
 **Steps to add a Group:** 
 * Do to limitations with Salesforce much of the minor updates must be implemented manually in production
 * Create a Chatter Group with the alias that you want the end users to be able to chatter in Salesforce (In Production)
