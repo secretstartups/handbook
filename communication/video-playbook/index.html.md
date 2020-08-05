@@ -78,4 +78,4 @@ If you'd like to connect with someone on the Digital Production team for more he
 
 ### Additional resources 
 
-* The [virtual events page](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/) and [best practices guide](/source/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/best-practices/) provide useful information if you intend to create videos from or for live events.
+* The [virtual events page](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/) and [best practices guide](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/best-practices/) provide useful information if you intend to create videos from or for live events.
