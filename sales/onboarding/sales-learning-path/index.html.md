@@ -239,15 +239,18 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 
 ### 11. GitLab Customer Support Team
 
-- **Review the GitLab Customer Support Documentation (Material - Handbook - 15 minutes)**
-  -The GitLab Support Team provides technical support to GitLab.com and Self-Managed GitLab customers. The GitLab Support Team Handbook is the central repository for why and how we work the way we do.
-  -To learn more check out the [Handbook](/handbook/support/)
+- **Review the GitLab Customer Support Documentation (Material - Handbook - 5 minutes)**
+  - GitLab Support Team provides technical support to GitLab.com and Self-Managed GitLab customers. The Support Team Handbook is the central repository for why and how we work the way we do. To learn more, check out the [Handbook](/handbook/support/).
+- **Review the following workflows in the GitLab Customer Support Documentation (Material - Handbook - 15 minutes)**
+  - Read the [Working with GitLab Support](https://about.gitlab.com/handbook/support/internal-support/) page as it details how to get in touch with us for common requests requiring Support involvement.
+      - The [Support Tickets & Customer Information](https://about.gitlab.com/handbook/support/internal-support/#support-tickets--customer-information) and the [Common Requests](https://about.gitlab.com/handbook/support/internal-support/#common-requests) sections have a list of workflows you'll commonly encounter that will need involvement from Support.
+      - Make note of Support's [internal-requests](https://gitlab.com/gitlab-com/support/internal-requests) project - you will be filing issues under this for some of the workflows listed in the above page.
 - **Review the Zendesk Workflow (Material - Handbook - 15 minutes)**
-  -Zendesk is the tool the GitLab Support Team uses to work tickets for customers. Please familiarize yourself with the workflow.
-  -Review the workflow on this page of the [Handbook](https://about.gitlab.com/handbook/support/workflows/#Zendesk)
+  - Zendesk is the tool the GitLab Support Team uses to work tickets for customers. Please familiarize yourself with the assocaited workflows.
+  - Review the workflows on this section of the [Handbook](https://about.gitlab.com/handbook/support/workflows/#Zendesk).
 - **Sign up for Zendesk (Assignment - 5 Minutes - 10 Points - Pre Work)**
-  - All GitLab staff can request a 'Light Agent' account so that you can see customer tickets in Zendesk and leave notes for the Support team. These accounts are free, to request a Light Agent Zendesk account, please send an email to [gitlablightagent.5zjj2@zapiermail.com]. You'll receive an automated reply with the result of your request. NOTE: you must send your request from your GitLab Google / Gmail account. No other addresses will work. The Subject and Body fields of the email can be empty.
-  - Check out the additional information in the [handbook](https://about.gitlab.com/handbook/support/internal-support/#light-agent-zendesk-accounts-available-for-all-gitlab-staff), [Zendesk](https://www.zendesk.com/company/collaboration-add-on-additional-features/), and [gitlab.com](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Single_Person_Access_Request). Once set up, you'll need to wait 24 hours for your account to be assigned Zendesk in Okta. Once Zendesk is assigned, you should be able to login to Zendesk by following this [link](https://gitlab.zendesk.com/agent)
+  - All GitLab staff can request a 'Light Agent' account so that you can see customer tickets in Zendesk and leave notes for the Support team. These accounts are free. To request a Light Agent Zendesk account, please send an email to [gitlablightagent.5zjj2@zapiermail.com]. You'll receive an automated reply with the result of your request. NOTE: you must send your request from your GitLab Google / Gmail account. No other addresses will work. The Subject and Body fields of the email can be empty.
+      - Check out the additional information in the [handbook](https://about.gitlab.com/handbook/support/internal-support/#light-agent-zendesk-accounts-available-for-all-gitlab-staff), [Zendesk](https://www.zendesk.com/company/collaboration-add-on-additional-features/), and [gitlab.com](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Single_Person_Access_Request). Once set up, you'll need to wait 24 hours for your account to be assigned Zendesk in Okta. Once Zendesk is assigned, you should be able to login to Zendesk by following this [link](https://gitlab.zendesk.com/agent).
 
 ### 12. Technical Deep Dive (SA, TAM, and PSE ONLY)
 *  **GitLab Ultimate Demo (Material - Video - 60 minutes)**
