@@ -222,7 +222,10 @@ How do I initiate my Parental Leave?
 * Submit your time off by selecting the Parental Leave category in PTO Ninja at least 30 days before your leave starts. Your manager and the Total Rewards team will get notified after you submit your leave. Please note, even though we have a "no ask, must tell" Parental Leave Policy, some countries require extra paperwork or notifications to a PEO so it's important that the Total Rewards team is aware of your leave at least 30 days before your leave starts.
 
 Will I get a confirmation that Total Rewards received my Parental Leave request?
-* Total Rewards won't send you an email or any kind of notification unless we require further information or documents from you (as some entities require further paperwork). 
+* Total Rewards won't send you an email or any kind of notification unless we require further information or documents from you (as some entities require further paperwork).
+
+Can I speak to someone about my Parental Leave?
+* You are more than welcome to send an e-mail to Total Rewards if you have any questions about taking Parental Leave. You may also send us an e-mail to schedule a 1:1 call with Total Rewards if you need any support regarding Parental Leave.
 
 When does my 16 weeks of Parental Leave start?
 * This period starts on the first day that you take off. This day can be in advance of the day that the baby arrives.
@@ -234,7 +237,8 @@ When does my Parental Leave coverage begin if I don't meet the initial requireme
 * GitLab payroll coverage begins once you meet the requirements. Until then, you will not receive pay.  If for example, you are someone who qualifies after 6 months at Gitlab and then goes on leave at the start of your 120th day at GitLab, you would not receive payment from GitLab for the first 60 days. You would receive payment from GitLab for up to 60 additional days taken within a year from the birth event.
 
 Can I change the dates of my Parental Leave?
-* Absolutely, you can edit your Parental Leave dates via PTO Ninja. Total Rewards will receive a notification everytime you edit your Parental Leave dates so no need to follow up with an email.
+* Absolutely, you can edit your Parental Leave dates via PTO Ninja. Total Rewards will receive a notification everytime you edit your Parental Leave dates. Make sure your leave is under the Parental Leave category, otherwise Total Rewards won't get a notification.
+* Please note, if you are planning to change or extend your Parental Leave by using a different type of leave such as PTO, unpaid leave or any local statutory leave, please send an e-mail to Total Rewards.
 
 Is the 16-week balance per birth or adoption event?
 * Yes, you may take up to 16 weeks of Parental Leave per birth or adoption event.
