@@ -146,7 +146,7 @@ There are multiple reasons why our lower tiers have more relative value:
 Arguments in favor of raising the price of the lowest tier (which we won't necessarily do) are:
 
 1. Our sales effort don't change much with the plan, making lower tiers relatively much more expensive to sell.
-1. Over time we keep adding features to the lower tiers due to our [Buyer Based Open Core model](#the-likely-type-of-buyer-determines-what-features-go-in-what-tier) so you would expect prices to rise.
+1. Over time we keep adding features to the lower tiers due to our [Buyer Based Open Core model](#buyer-based-open-core) so you would expect prices to rise.
 1. While the absolute value of higher tiers is better and that seems the most rational measure people also do look at relative value and we should make sure that the price to go to a higher tiers is perceived well.
 1. Many successful open source companies charge a relatively high price for their most affordable plan.
 1. The future growth of GitLab is much more influenced by how many people are using the open source version than our lowest tier, so having fewer paid users is a relatively small impact.
@@ -155,7 +155,7 @@ Arguments in favor of raising the price of the lowest tier (which we won't neces
 1. Our lowest tier competes mostly [with Atlassian BitBucket](#four-tiers) and has been [winning marketshare rapidly](/is-it-any-good/#gitlab-has-yoy-growth-in-adoption-of-version-control-services-study-while-github-and-bitbucket-both-decline) so it might be able to sustain a price increase.
 1. Lots of companies don't want to forgo support, especially in their first year, and there is little price elasticity there.
 
-Please note that all the above is not a plea to add more or fewer features to lower tiers, we should just follow our [Buyer Based Open Core model](#the-likely-type-of-buyer-determines-what-features-go-in-what-tier).
+Please note that all the above is not a plea to add more or fewer features to lower tiers, we should just follow our [Buyer Based Open Core model](#buyer-based-open-core).
 
 ## Perfect bundle
 
@@ -282,7 +282,7 @@ As our customers adopt GitLab as the single application for their entire DevOps 
 
 Currently, we do not offer a different list price for users who only need the reporter permission because:
 
-1. This pricing approach aligns with our [Buyer Based Open Core model](/handbook/ceo/pricing/#the-likely-type-of-buyer-determines-what-features-go-in-what-tier).
+1. This pricing approach aligns with our [Buyer Based Open Core model](/handbook/ceo/pricing/#buyer-based-open-core).
 1. The list prices of our plans are blended prices with consideration for both developer and non-developer use cases.
 1. We are [selling a suite](/handbook/ceo/pricing/#only-sell-a-suite) and taking care of specific non-developer use cases by making a discount conditional on not using part of the product.
 1. A simplified pricing and packaging (PnP) strategy serves customers in the optimal way per the industry best practice. More SKUs lead to a more complex PnP model as a company scales, which eventually causes huge confusion to customers.
@@ -471,7 +471,7 @@ Adding features to a (more expensive) paid tier is not the only thing stopping u
 
 To simplify the above, we base our feature groupings on champion position (see below).
 
-## Buyer-Based-Open-Core {#the-likely-type-of-buyer-determines-what-features-go-in-what-tier}
+## Buyer-Based-Open-Core
 
 The likely type of buyer determines what features go in what tier.
 Our plans are based on [the buyer](#four-tiers) that buys GitLab, from individual contributor, to manager, to director, to executive. Every person in the company [is on the same tier](/handbook/ceo/pricing/#multiple-plans-for-one-customer), even if they don't use all the features. 
@@ -492,7 +492,7 @@ Also see [fork and commoditize](/handbook/leadership/biggest-risks/#fork-and-com
 
 **A customer asked why merge request approvals where not included in core:**
 
-> Thanks for asking. We think that managers are more likely to care about merge requests approvals than individual contributors. That doesn't mean that individual contributors don't care about them. And it doesn't mean that in all cases managers care more, just in most cases.  For more information please see our Buyer Based Open Core model: [https://about.gitlab.com/handbook/ceo/pricing/#the-likely-type-of-buyer-determines-what-features-go-in-what-tier](https://about.gitlab.com/handbook/ceo/pricing/#the-likely-type-of-buyer-determines-what-features-go-in-what-tier).
+> Thanks for asking. We think that managers are more likely to care about merge requests approvals than individual contributors. That doesn't mean that individual contributors don't care about them. And it doesn't mean that in all cases managers care more, just in most cases.  For more information please see our Buyer Based Open Core model: [https://about.gitlab.com/handbook/ceo/pricing/#buyer-based-open-core](https://about.gitlab.com/handbook/ceo/pricing/#buyer-based-open-core).
 
 ## If a feature can be moved down do it quickly
 
@@ -515,7 +515,7 @@ Below is a video with the CEO discussing the philosophy of this with a Product M
 
 ## We'll always move features down
 
-Besides the [tier framework](#the-likely-type-of-buyer-determines-what-features-go-in-what-tier), we also need to keep our [stewardship promises](/company/stewardship/#what-features-are-paid-only).
+Besides the [tier framework](#buyer-based-open-core), we also need to keep our [stewardship promises](/company/stewardship/#what-features-are-paid-only).
 We owe it to our users to only move features from higher-paid tiers to lower ones, never the other way.
 
 This means that, when in doubt, we will select the higher tier and [move it down quickly](#if-a-feature-can-be-moved-down-do-it-quickly) if data shows that this is more appropiate.
