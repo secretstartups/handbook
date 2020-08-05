@@ -183,7 +183,7 @@ Marketing Program Managers track costs associated with campaigns - such as event
 * For event or campaign expenses that do not have a tag, include a note to Accounts Payable clearly stating that campaign tags are not applicable to the expense. In some cases, a general tag like Swag_Corporate may be more a more appropriate tag to track against budget.
 
 ## Marketing Gearing Ratios
-Gearing ratios are used as business drivers to forecast long term financial goals by function. Refer to the [FP&A handbook](/handbook/finance/financial-planning-and-analysis/#business-drivers) for further details on how gearing ratios enable planning and forecasting. 
+Gearing ratios are used as business drivers to forecast long term financial goals by function. Refer to the [FP&A handbook](/handbook/finance/financial-planning-and-analysis/#business-drivers-also-known-as-gearing-ratios) for further details on how gearing ratios enable planning and forecasting. 
 
 The gearing ratios for marketing are as follows:
 
