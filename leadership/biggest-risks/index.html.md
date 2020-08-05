@@ -129,7 +129,7 @@ What we need to do is:
 
 1. [Keep up velocity](#7-loss-of-velocity)
 1. [Keep the open source community contributing](#6-loss-of-the-open-source-community)
-1. [Follow our buyer-based-open-core pricing model](/handbook/ceo/pricing/#the-likely-type-of-buyer-determines-what-features-go-in-what-tier)
+1. [Follow our buyer-based-open-core pricing model](/handbook/ceo/pricing/#buyer-based-open-core)
 
 ## 9. Security breach
 {:#security-breach}
