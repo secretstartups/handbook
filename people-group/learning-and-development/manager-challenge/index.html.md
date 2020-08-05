@@ -106,7 +106,9 @@ During week four we will discuss **Developing High Performing Teams**. Informati
 1. **Is this a Pilot launch?**
      - Yes. In September we are running a pilot and will be rolling out the program to the wider GitLab team very soon.
 1. **Do I have to participate?**
-     - Participation is not required, but we strongly recommend that all managers invited to the pilot complete the challenge and actively participate. 
+     - Participation is not required, but we strongly recommend that all managers invited to the pilot complete the daily challenges and actively participate. 
+1. **Have we done this program in the past?**
+    - This is the first time we have implemented a formal management/leadership program at GitLab. Our Managers serve a critical role in the organization and this pilot program will be the foundation for future programs.
 1. **What is required of me?**
      - Monday to Wednesday there will be a series of daily challenges that a manager can complete asynchronously on their own time that will cover a range of topics. On Thursday's we will come together as a group in a live learning session to apply the challenges to real scenarios managers face in a remote environment. 
 1. **I have a lot of management experience, will this help?**
