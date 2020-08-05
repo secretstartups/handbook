@@ -11,7 +11,9 @@ title: "People Experience Team"
 
 # People Experience Team
 
-Ping us on issues using `@gl-people-exp`.
+This page lists all the processes and agreements for the People Experience team. 
+
+If you need our attention, please feel free to ping us on issues using `@gl-people-exp`.
 
 ## People Experience Team Availability
 
@@ -19,7 +21,7 @@ Holidays with no availability for onboarding/offboarding/career mobility issues:
 
 | Date                        |
 |-----------------------------------|
-| 2020-05-01 |
+| 2020-05-01 | Family & Friends Day
 | 2020-08-14 | Family & Friends Day
 | 2020-12-25 |
 | 2021-01-01 |
@@ -45,9 +47,9 @@ Holidays with no availability for onboarding/offboarding/career mobility issues:
 
 ### Weekly Rotations 
 
-The People Experience Team are currently trialling a task rotation on a weekly basis. The allocation tracker can be found in the [People Exp/Ops Tracker]. This will initially be trialed on a weekly rotation and then possibly moved to monthly. 
+The People Experience Team are currently trialling a task rotation on a weekly basis. The allocation tracker can be found in the [People Exp/Ops Tracker]. This will initially be trialed on a weekly rotation and then possibly moved to bi-weekly and monthly. 
 
-A task will be allocated based on a ongoing team member rotation between all People Experience Associates. 
+Certain tasks will be allocated based on a ongoing rotation between all People Experience Associates. 
 
 The following factors will also be taken into consideration:
 
@@ -55,27 +57,30 @@ The following factors will also be taken into consideration:
 - Ensure that the tasks split evenly and fairly 
 - A tracker will be kept to track the data of how the tasks are split up
 
+At the start of each week, the Associated assigned to allocations will create a rotation issue located in our issue templates [section](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/issue_templates/Weekly-Rotation-PEA.md). 
+
 The Rotation groups are listed as follows:
 
-- Letters of Employment / VOE 
-- Probation / Anniversary Queries / Gift Requests
-- BHR Onboarding Report / Moo Report
-- Allocations for Onboarding / Offboarding / Mobility
-- I-9 Administration / Pruning of Stale Records
+- Letters of Employment / VOE / New Hire Swag
+- Probation Period Emails / Anniversary Queries / Gift Requests
+- BHR Onboarding Report / Moo Report / Allocations for Onboarding / Offboarding / Mobility
+- I-9 Administration / Pruning of Stale Records (monthly)
+- Code of Conduct (monthly)
 
 #### Allocations for Onboarding
 
-- We always try and split evenly and fairly
+- We always try and split evenly and fairly.
+- Not time zone specific to ensure that all Associates learn all aspects to different countries during onboarding. 
 
 #### Allocations for Offboarding
 
-- Team has 12 hours to create and notify of the offboarding issue
-- The person that is in the allocation rotation will also add the offboarding to the PEA team calendar
+- Team has 12 hours to create and notify of the offboarding issue.
+- The person that is in the allocation rotation will also add the offboarding to the PEA team calendar.
 - Due to different time zones, the offboarding issue creation and task completion can be tagged team by the Associates. 
 
 #### Allocations for Career Mobility 
 
-- We always try and split evenly and fairly
+- We always try and split evenly and fairly. 
 
 ### Audits 
 
@@ -108,14 +113,11 @@ This will be the responsibility of the People Experience Associate that is assig
     - Ensure that the previous manager and current manager completes their respective tasks. 
     - The issue should be closed within 2 weeks of creation, ping the relevant team members to call for a task to be completed in the issue.
 
-
 **Over and above these audits, the Compliance Specialist will perform their own audits to ensure that certain tasks have been completed.**
 
 ### Pulling of BambooHR Onboarding Data
 
-This WIP and will be included here soon. 
-
-- Report is pulled every Monday and Wednesday
+Every Monday and Wednesday, the Associate in the rotation will pull the report that has been shared in BambooHR called `New Hires`. The data for the next 2 weeks will be added to the spreadsheet to ensure sufficient time in completing the pre-onboarding tasks. 
 
 ### Weekly Moo Report
 
@@ -143,6 +145,39 @@ Most importantly, check to see whether authorisation has been received from the 
 - If the vendor is requesting a form to be completed for a US team member, forward this request on to the US Payroll team to have completed. 
 - If you need additional figures that we do not have access to, send a message in the `payroll-peopleops` Slack channel to request the information needed to complete the form. 
 
+In some instances, we may be contacted by certain Governmental institutions asking for clarity into termination / seperation reasons and agreements of a team member. Please forward these emails to the relevant People Business Partner that submitted the offboarding notification, as they will have full context into the reasons and agreements and will choose to respond if needed. 
+
+### Probation Period Process
+
+Every week, the Associate assigned to the allocation will send emails to the team members respective managers to get the relevant approval that they are satisfied with the team members performance. **It is important to note that if a response was not received by a manager in the previous allocated rotation, this will fall onto the Associate in the rotation in the next week to follow up with the manager again.** 
+
+Fortunately, we are able to use Mail Merge to get the emails sent out. Please see the below steps to follow:
+
+1. Pull the report `Probation Period Audit` from BambooHR as a CSV and import to shared People Exp drive, under the Probation Period folder. 
+1. Copy the data from Column A - I, this is important to ensure that the formulas are not replaced in Columns K - M. 
+1. Pull up the main Probation Period [spreadsheet](https://docs.google.com/spreadsheets/d/1v631AN0x2zgg-TLrE41yGEyK550bHh53suHSyIN09gk/edit?ts=5f296351#gid=0)
+1. Paste the copied data from the BambooHR sheet into `Probation Period` sheet.
+    - United Kingdom: 
+        - Probation periods differ between 3 and 6 months.
+        - If hired before 2020-05-01, then 3 months probation is applicable. If hired after 2020-05-01, a 6 month probation period is applicable. 
+        - It will say “Check Hire Date”, we have to add 3 months +91 or +182 in the formula
+1. Go to Column K (notification send date), then select filter by condition > and then date is after > today > then select OK.
+1. Then sort by A-Z under Column K again using the filter. 
+1. Add new sheet at the bottom with the date the import is taking place (like with Moo) and only copy the team members that would have been sent from that week to that spreadsheet. This will also include the sending of all team members in that same week (in rotation).
+1. Go to Add-ons > Document Studio > Open
+1. Click on `Mail Merge with Gmail`
+1. Edit with visual editor
+1. Check to ensure that the template is the Manager’s email, which can also be found in People Exp folder in Google Drive. 
+1. Ensure the `Send email to` option is listed as `Supervisors email`
+1. Edit subject line, it should be listed as `Probation Period Ending Soon`
+1. Ensure to update the merge fields in the template (no manager names will be inserted) > edit team member name and probation period end date.
+1. Add your signature 
+1. Go to “finish and merge”
+1. You are able to preview the template at the same time (will be sent to private email).
+1. If all good, click on save, this will automatically send the email to the manager.  
+1. Copy and paste the team member into `People Exp/Ops Tracker` for tracking purposes.
+1. If no response is received from previous week, send mail merge again to those managers using the same template (it's totally okay that we are repeating ourselves). You will need to delete the document studio file column data if you would like to resend in Columns N - P. 
+
 ### OSAT Team Member Feedback
 
 Once a new team member has completed their onboarding, they are asked to complete the `Onboarding Survey` to share their experience. Based on the scores received, the People Experience Associate assigned to the specific team members onboarding, will complete the following:
@@ -153,6 +188,10 @@ Once a new team member has completed their onboarding, they are asked to complet
 #### Onboarding Buddy Feedback
 
 In the same survey, new team members are able to provide a score and feedback on their onboarding buddy. If the score and feedback received is constructive and valuable insights when the score is low, the People Experience Associate assigned to that specific team members onboarding, should reach out to the manager of the onboarding buddy and provide feedback in a polite and supportive way.  
+
+### Code of Conduct Rotation
+
+A monthly report will be pulled from BambooHR for `Code of Ethics Acknowledgment 2020` by the Associate in the respective rotation to check that all pending team member signatures have been completed. If it has not been signed by the team member, please select the option in BambooHR to send a reminder to the team member to sign. Please also follow up via Slack and ask the team member to sign accordingly. If there are any issues, please escalate to the People Experience Team Lead for further guidance. 
 
 ### Anniversary Period Gift Queries
 
@@ -227,8 +266,11 @@ As the DRI for HelloSign, when a team member needs to have access to sign docume
 
 #### Monthly Billing
 
-1. When monthly expenses are due, we need to be able to provide Finance with the specific team members name in order to assign to the correct Department. To do this we would need to send a request to HelloSign Support on a monthly basis and often the response is not received in time for the monthly expenses. Once the list is received from HelloSign, simply send the Accounts Payable Specialist an email with the information.  
+When monthly expenses are due, we need to be able to provide Finance with the specific team members name in order to assign to the correct Department. To do this we would need to complete the following steps:
 
+1. Download the invoices from HelloSign which can be found under the 'Billing' section. 
+1. Send a request to HelloSign Support on a monthly basis for the specific team members which the costs that have been charged, relates to. Often the response is not received in time for the monthly expenses. 
+1. Once the list is received from HelloSign, simply send the Accounts Payable Specialist an email with the relevant team member information.  
 
 ### Regeling Internet Thuis form
 
