@@ -11,7 +11,7 @@ title: "PathFactory"
 
 ## Uses
 
-PathFactory (PF) is leveraged as our [content library & content distribution system](/handbook/marketing/corporate-marketing/content/#content-library). The [global content](https://about.gitlab.com/handbook/marketing/growth-marketing/content/) and [Digital Marketing Programs](/handbook/marketing/revenue-marketing/digital-marketing-programs/) teams are primarily responsible for all the of the content within the PathFactory. Marketing program managers work with other teams in marketing to organize and curate assets into tracks that are then disseminated for use in Marketo, `about.gitlab.com`, and other campaign-related channels. 
+PathFactory (PF) is leveraged as our [content library & content distribution system](/handbook/marketing/growth-marketing/content/#content-library). The [global content](/handbook/marketing/growth-marketing/content/) and [Digital Marketing Programs](/handbook/marketing/revenue-marketing/digital-marketing-programs/) teams are primarily responsible for all the of the content within the PathFactory. Marketing program managers work with other teams in marketing to organize and curate assets into tracks that are then disseminated for use in Marketo, `about.gitlab.com`, and other campaign-related channels. 
 
 | **Team** | **Rules of Engagement** | **User Roles** |
 | ------ | ------ | ------ |
@@ -110,7 +110,7 @@ PathFactory is primarily a demand generation tool that allows leads and prospect
 
 **Before uploading content:** 
 
-1. Follow the [blog style guide](/handbook/marketing/corporate-marketing/content/editorial-team/).
+1. Follow the [blog style guide](/handbook/marketing/growth-marketing/content/editorial-team/#sts=Blog%20style%20guide).
 1. Use the search to determine if it’s already been added. If you try to add an asset that's already in the library, the system will tell you it already exists.
 1. Ensure you have the most valuable version of the asset (blog post vs. case study or PDF).
 1. Ensure you have the most recent version of the asset.
