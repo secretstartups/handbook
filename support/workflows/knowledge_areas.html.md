@@ -269,7 +269,7 @@ This section is ordered by stage and group according to the [product categories 
 |                      | APAC   | Jerome <br> Sameer                                     |
 |                      | EMEA   | Rene                                                   |
 | Escalation Points    | EMEA   | Donique                                                |
-|                      | AMER   | Tom H                                                  |
+|                      | AMER   | Tom H <br> Keven                                                 |
 |                      | APAC   | Rotanak                                                |
 
 #### Enablement
