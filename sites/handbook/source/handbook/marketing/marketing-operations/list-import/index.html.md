@@ -38,7 +38,7 @@ The following data cleanup is required for any list prior to sending it to the O
      - Address separated into individual fields (`Street`, `City`, `State/Province`, `Zip/Postal Code`, `Country`)
      - Specify if address is for the CONTACT or the ACCOUNT
      - `Country` that **are not** `United States` or `Canada` *must* have `State` field deleted or cleared as it will create conflicts
-- Record ownership will be assigned using the [Global Ownership](/handbook/business-ops/resources/#global-account-ownership) rules
+- Record ownership will be assigned using the [Account Ownership Rules of Engagement](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
 - ADD column for `Source` and provide the source where the names came from (LinkedIn, DiscoverOrg, Event, etc) - see [Initial Source definitions](/handbook/business-ops/resources/#initial-source) if unsure
      - DiscoverOrg is the ONLY approved & GDPR compliant source for EMEA records, all other sources will be rejected
 - If there are any records who have opted out of contact for any reason please be sure to define that on the spreadsheet
