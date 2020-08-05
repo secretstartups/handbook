@@ -307,6 +307,7 @@ Remember, interviewing candidates is everyone's job as part of our collaboration
 #### During The Interview
 
 * Show up prepared and on time. (See "Before The Interview" section above)
+* Be cognizant of where the candidate is at in the interview process. Are you the first interviewer? Are you the third? Be aware that the candidate has likely repeated themselves quite a bit and has already asked many of the general questions they had about the position in previous interviews.
 * Build rapport and put the candidate at ease.  Introduce yourself, tell your GitLab story, ask how the candidate is doing- banter/small talk is ok.  
 * Talk a bit about the role (why it is open, what the job entails, etc.)
 * Set expectations on how the interview will run
