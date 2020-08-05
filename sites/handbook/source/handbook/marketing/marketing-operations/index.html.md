@@ -205,8 +205,7 @@ The gearing ratios for marketing are as follows:
 
 Email database management is a core responsibility for MktgOps. Ensuring GitLab is following email best practices, in compliance with Global spam laws and overall health of active database are all priorities.   
 
-Email creation, campaigns, follow up reporting and sending is the responsibility of the Marketing Program Managers. To request an email of any kind, please see the [instructions](/handbook/business-ops/resources/#requesting-an-email) in the Business Ops section of the handbook.
-
+Email creation, campaigns, follow up reporting and sending is the responsibility of the Marketing Program Managers. To request an email of any kind, please see the [instructions](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/emails-nurture/#ad-hoc-one-time-emails---requesting-an-email) in the revenue marketing section of the handbook.
 
 ### Email Communication Policy  
 
