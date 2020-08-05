@@ -456,6 +456,14 @@ out to any of the other [C-level GitLab team members](/company/team/org-chart/) 
 1. It helps to pause slightly between talking about different topics to allow for discussion.
 1. If you are unsure of who should start or speak next, follow the order listed in Zoom.
 
+## Mindfulness Call
+
+1. The Mindfulness Call is a new call at GitLab. To start it will be led twice a week, Tuesdays and Thursdays at XX:XX PT for 15 minutes.
+1. The call is a short time for GitLab team members to spend time together in a guided meditation of centering and refocusing. There is [evidence that meditating together has additional benefits over meditating alone](https://www.mindful.org/benefit-meditating-alone-together/).
+1. The call will be led by @tompsett to start, but Joyce is looking for other volunteers, especially in other time zones, so that this can be offered multiple times in a week for all GitLab team members to benefit. 
+1. The call will start promptly. The call will not be recorded. There is no intent to have discussion or Q&A around the call.
+1. No previous experience is necessary, nothing extra is needed other than a comfortable seat and 15 minutes.
+
 ## Release Retrospectives and Kickoffs
 {: #kickoffs}
 
