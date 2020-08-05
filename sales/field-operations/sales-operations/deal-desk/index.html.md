@@ -95,9 +95,9 @@ Use our Slack channel in case of general, non-record related requests and/or urg
 
 #### Slack Best Practices
 
-Please avoid contacting the DD team members directly via Slack. Utlizing the channel is best to ensure timely coverage and helps others who may have simliar questions.
+Please avoid contacting the DD team members directly via Slack. Utlizing the channel is best to ensure timely coverage and helps others who may have similar questions.
 
-In cae of a specific opportunity or quote related question please use SF Chatter (see section [Salesforce Chatter Commnunication](##### Salesforce Chatter Communication Basics))
+In case of a specific opportunity or quote related question please use SF Chatter (see section [Salesforce Chatter Communication](##### Salesforce Chatter Communication Basics))
 
 #### Slack Announcements
 
