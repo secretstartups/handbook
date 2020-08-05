@@ -49,7 +49,7 @@ The following people are permanent members of the Secure Sub-Department:
 ### [Frontend Team](fe-secure)
 <%= direct_team(role_regexp: /[,&] Secure/, manager_role: 'Frontend Engineering Manager, Secure') %>
 
-### [Vulnerability Research](vulnerability_research.html) 
+### [Vulnerability Research](vulnerability_research.html)
 <%= direct_team(role_regexp: /Vulnerability Research/, manager_role: 'Engineering Manager, Vulnerability Research') %>
 
 ## Stable Counterparts
@@ -250,6 +250,18 @@ See [Secure Workflow](./workflow/) and [Issue Refinement](./workflow/refinement/
 The Secure Team follows the coding standards and style guidelines outlined in the company-wide [Contributor and Development Docs](https://docs.gitlab.com/ee/development/README.html), however, please consult the following guidelines which are specific to the Secure Team:
 
 - [Secure Team Go standards and style guidelines](https://docs.gitlab.com/ee/development/go_guide#secure-team-standards-and-style-guidelines)
+
+#### Cross group collaboration
+
+Some components of the architecture that support Secure features are shared between multiple groups like the [common](https://gitlab.com/gitlab-org/security-products/analyzers/common) Go library,
+the [Security Report Schemas](https://gitlab.com/gitlab-org/security-products/security-report-schemas), the [rails parsers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/ee/lib/gitlab/ci/parsers/security), etc.
+
+Modifying these shared pieces might impact other groups so we should rely as much as possible on approval rules to ensure
+such changes are reviewed by the relevant teams before being merged.
+
+Impactless two-way door changes could skip the approval process, please use sound judgement and common sense in such situations.
+
+The author of changes should announce broadly the changes made on these components to raise awareness (weekly meeting agenda, slack channel).
 
 ### Development of new analyzers
 
