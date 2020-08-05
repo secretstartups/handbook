@@ -137,6 +137,8 @@ The `People Experience and People Specialist` teams are responsible for moderati
 - Group Conversations 
 - CEO 101 (Introductions and Livestream)
 
+The teams will assist with moderating calls where the audience is applicable to all GitLab team members. In the event that a separate meeting is needed to be scheduled on the team calendar with only a specified invitee list, the host will also be responsible for moderating the call. 
+
 ### Preparing for and Streaming the Call
 
 All Group Conversations (Public and Private) will be streamed to YouTube within GitLab Unfiltered. 
