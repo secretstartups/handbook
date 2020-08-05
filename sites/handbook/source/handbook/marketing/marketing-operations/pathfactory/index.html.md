@@ -396,7 +396,7 @@ Explore pages can act as replacements for traditional landing pages or simple mi
 1. Under `Page Settings`, ensure that the `Search Engine Directive` is set to `No Index, No Follow`.
 1. Choose your desired layout under `Layout Settings`.
 1. Choose your desired content settings under `Content Settings`.
-1. Ensure that the [gated content](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/#gated-content) in your content track has a [listening campaign](/handbook/marketing/marketing-operations/pathfactory/#listening-campaigns).
+1. Ensure that the [gated content](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/) in your content track has a [listening campaign](/handbook/marketing/marketing-operations/pathfactory/#listening-campaigns).
 1. Be sure to test your explore page fully. Tag `@sdaily` for review.
 
 ### Explore Page FAQs
@@ -606,7 +606,7 @@ This process is for new assets in PathFactory that **have not** already been dis
 
 Assets needing a listening campaign should following the above naming conventions. If an asset type is not represented in a Marketo listening campaign folder, please create an issue in the marketing operations project and assign it to `@sdaily`.
 
-**Important: Please make sure all [gated content](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/#gated-content) in your content track is included in your form strategy and has a [listening campaign](/handbook/marketing/marketing-operations/pathfactory/#listening-campaigns). If you are using one of the gated content assets in your content track as the form fill behind a landing page, you need to set up an exclusion in the workflow ([example](https://app-ab13.marketo.com/#SC10049B2)).**
+**Important: Please make sure all [gated content](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/) in your content track is included in your form strategy and has a [listening campaign](/handbook/marketing/marketing-operations/pathfactory/#listening-campaigns). If you are using one of the gated content assets in your content track as the form fill behind a landing page, you need to set up an exclusion in the workflow ([example](https://app-ab13.marketo.com/#SC10049B2)).**
 
 ### Salesforce Campaign Type  
 
