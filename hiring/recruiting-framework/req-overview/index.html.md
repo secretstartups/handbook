@@ -105,6 +105,10 @@ For more information about Greenhouse and it’s tips & tricks, please refer to 
 
 * Each req belongs to two [Epics](https://gitlab.com/groups/gl-recruiting/-/epics); one parent and one child epic. The parent epics can be used as a dashboard to show the funcitional leader the overall health of their open reqs. 
 
+We use **On track**, **Needs attention**, and **At risk** to define the requisition's health to provide hiring teams and E-Group members with a high-level insight into recruiting efforts. When assigning a **Health Status**, consider the diversity of the pipeline, what the pass through rate is at each stage, and whether you'd expect to make a hire at or close to the expected start date. 
+
+
+
 ### **Step 6: Interview Stages**
 
 * When the prospect responds with interest and we have a matching requisition, select the option to “convert to candidate” in Greenhouse.
