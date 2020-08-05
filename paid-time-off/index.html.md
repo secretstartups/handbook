@@ -116,7 +116,7 @@ Please be aware that certain countries require a doctor's note or similar type o
 
 In the unfortunate event that a team member is dealing with a medical situation, they are under no obligation to reveal details to their manager directly. Instead, you can reach out to the [Total Rewards team](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group). The Total Rewards team will inform the People Business Partner and Manager on a need-to-know basis.
 
-If the team member does choose to start the conversation about [accommodations in the US](https://www.dol.gov/odep/return-to-work/employer-accommodations.htm) or [accommodations in the EU](https://ec.europa.eu/social/main.jsp?catId=1473) needed with the manager, we would ask the manager to reach out to the [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) aligned with their division. The People Business Partner will inform the Total Rewards Team.
+If the team member does choose to start the conversation about [accommodations in the US](https://www.dol.gov/agencies/odep/topics/accommodations) or [accommodations in the EU](https://ec.europa.eu/social/main.jsp?catId=1473) needed with the manager, we would ask the manager to reach out to the [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) aligned with their division. The People Business Partner will inform the Total Rewards Team.
 What can (or must) be accommodated varies from location to location: GitLab will comply with the applicable laws in your specific location.
 The manager should under no circumstances reveal any illness-related leave to other team members to ensure we respect the privacy of the team member affected.
 
