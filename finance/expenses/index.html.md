@@ -157,7 +157,7 @@ In the event of an accident resulting in damage to the rental car, the foreign r
 
 ### Virtual Meal with GitLab Team member(s)
 
-Due to the suspension of the [Visiting Grant](/handbook/incentives/#visiting-grant), we are temporarily replacing it with the Virtual Meal with [GitLab Team Member(s)](/handbook/communication/#top-misused-terms):
+Due to the suspension of the [Visiting Grant](/handbook/incentives/#visiting-grant), we are temporarily replacing it with the Virtual Meal with [GitLab Team Member(s)](/handbook/communication/top-misused-terms):
 *  from now until April 30, 2020, you can submit up to 2 meals
 *  up to $25 per meal (not limited to pizza)
 *  submit it under Meals provided by Company
