@@ -133,7 +133,9 @@ Any test failure is notified to #g_fulfillment_status including a link to the pi
 
 ### Deployment
 
-We use CD (Continuous Deployment) for the [transactions portal](https://gitlab.com/gitlab-org/customers-gitlab-com/) and a MR goes through the following stages once it gets merged into the `staging` branch:
+#### Customers portal
+
+We use CD (Continuous Deployment) for the [customers portal](https://gitlab.com/gitlab-org/customers-gitlab-com/) and a MR goes through the following stages once it gets merged into the `staging` branch:
 
 ```mermaid
 graph TD;
@@ -145,6 +147,13 @@ graph TD;
 If something goes wrong at the `Verification` stage, we could create an issue with the label `production::blocker`, which will prevent deployment to production. The issue cannot be confidential.
 
 For MRs with significant changes, we should consider using [feature flags](https://gitlab.com/gitlab-org/customers-gitlab-com/#feature-flags) or create an issue with the `production::blocker` label to pause deployment and a allow for longer testing.
+
+
+#### License app
+
+We use an [automatic deployment to staging, but manual deployment to production](https://docs.gitlab.com/ee/topics/autodevops/#deployment-strategy) for the license app.
+
+Maintainers of the application need to trigger a manual action on the `master` branch in order to deploy to production.
 
 ### Feature freeze
 
