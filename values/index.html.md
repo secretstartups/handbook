@@ -1125,7 +1125,7 @@ Whatever behavior you reward will become your values. We reinforce our values by
 1. Criteria we use to [manage underperformance](/handbook/underperformance/).
 1. What we do when we [let people go](/handbook/people-group/offboarding/).
 1. Giving value awards during [Contribute](/company/culture/contribute/).
-1. Keeping them [up to date](/handbook/values/#updating-our-values) with a [stream of commits that add details](https://gitlab.com/gitlab-com/www-gitlab-com/-/commits/master/source/handbook/values/index.html.md).
+1. Keeping them [up to date](/handbook/values/#updating-our-values) with a [stream of commits that add details](https://gitlab.com/gitlab-com/www-gitlab-com/-/commits/master/sites/handbook/source/handbook/values/index.html.md).
 1. Our GitLab [Song Book](https://about.gitlab.com/company/culture/songbook/), the song lyrics often mention GitLab values. 
 
 In negative feedback, we should be specific about what the problem is. For example, saying someone is "[not living the values](https://hbr.org/2017/05/how-corporate-values-get-hijacked-and-misused)" isn't helpful.
