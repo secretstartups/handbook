@@ -17,7 +17,7 @@ President’s Club is synonymous with excellence and rewards individuals for ach
 
 ## How to Qualify
 
-For GitLab's FY21 President's Club, 42 GitLab team members (along with 1 guest per team member) will be rewarded with an invitation to join the President's Club incentive trip in May 2021. Team member start dates must be on or before 2020-08-03 to be eligible, and selection criteria varies by role (see below).
+For GitLab's FY21 President's Club, 42 GitLab team members (along with 1 guest per team member) will be rewarded with an invitation to join the President's Club incentive trip in May 2021. Team member start dates must be on or before 2020-08-03 to be eligible and still be employed by GitLab at the time of the incentive trip to receive the benefit. Selection criteria varies by role (see below).
 
 ## Selection Criteria
 
