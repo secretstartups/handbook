@@ -105,11 +105,7 @@ For more information about Greenhouse and it’s tips & tricks, please refer to 
 
 * Each req belongs to two [Epics](https://gitlab.com/groups/gl-recruiting/-/epics); one parent and one child epic. The parent epics can be used as a dashboard to show the funcitional leader the overall health of their open reqs. 
 
-We use **On track**, **Needs attention**, and **At risk** to define the requisitions health. We define each level as...
-
-- On track: We are confident this requisition will be hired by the expected start date. There are no unaddressed issues related to the candidate pipeline and hiring teams are aligned.
-- Needs attention: Hiring teams have concerns, answered questions, or noticed a misalignment that requires collaboration if we are to provide an excellent candidate experience and hire the requisiton before the planned hire date. Steps are being taken to recify the issues that are present. 
-- At risk: We will not make the targeted hire date without immediate action to rectify the situation. 
+We use **On track**, **Needs attention**, and **At risk** to define the requisition's health to provide hiring teams and E-Group members with a high-level insight into recruiting efforts. When assigning a **Health Status**, consider the diversity of the pipeline, what the pass through rate is at each stage, and whether you'd expect to make a hire at or close to the expected start date. 
 
 
 
