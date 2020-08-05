@@ -110,7 +110,7 @@ PathFactory is primarily a demand generation tool that allows leads and prospect
 
 **Before uploading content:** 
 
-1. Follow the [blog style guide](/handbook/marketing/growth-marketing/content/editorial-team/#sts=Blog%20style%20guide).
+1. Follow the [blog style guide](/handbook/marketing/growth-marketing/content/editorial-team/#blog-style-guide).
 1. Use the search to determine if it’s already been added. If you try to add an asset that's already in the library, the system will tell you it already exists.
 1. Ensure you have the most valuable version of the asset (blog post vs. case study or PDF).
 1. Ensure you have the most recent version of the asset.
@@ -610,7 +610,7 @@ Assets needing a listening campaign should following the above naming convention
 
 ### Salesforce Campaign Type  
 
-For the PathFactory listening campaigns there is a corresponding Salesforce `Campaign Type` to be used. The `Campaign Member Status` simply tracks if the content was consumed. This Salesforce `Campaign Type` should be used for **nothing** else. For greater details, see the [Business Ops Resources - Campaign details](/handbook/business-ops/resources/#campaign-type--progression-status).
+For the PathFactory listening campaigns there is a corresponding Salesforce `Campaign Type` to be used. The `Campaign Member Status` simply tracks if the content was consumed. This Salesforce `Campaign Type` should be used for **nothing** else. For greater details, see the [Business Ops Resources - Campaign details](/handbook/marketing/marketing-operations/#campaign-type--progression-status).
 
 ### PathFactory SFDC Panel   
 
