@@ -16,7 +16,7 @@ everyone's expectations when the work is delivered.
 
 The goal of the refinement process is to
 
-- Identify and resolve outstanding questions or discussions.
+- Identify and resolve outstanding questions or discussions on an implementation issue.
 - Raise any questions, concerns or alternative approaches.
 - Outline an implementation plan.
 - Ensure issue is ready to be worked on.
@@ -24,7 +24,9 @@ The goal of the refinement process is to
 - Notify other teams if the issue is relevant to them in some way.
 - Assign a weight to the issue.
 
-The refinement process can break down the issue into technical subtasks by following the [sub-issue convention](https://gitlab.com/gitlab-com/www-gitlab-com/issues/4588) but we should avoid redefining the scope of an implementation issue as this should have already been done during the Planning Breakdown with UX and PM.
+The refinement process can break down the issue into technical subtasks by following the [sub-issue convention](https://gitlab.com/gitlab-com/www-gitlab-com/issues/4588)
+but we should avoid redefining the scope of an implementation issue as this should have already been done during the Planning Breakdown with UX and PM.
+If there is no other option, then the Planning Breakdown should probably be revisited and EM, PM, and UX should be notified.
 
 ## When engineering refinement should be completed
 
@@ -37,31 +39,31 @@ Unless specified differently for your team, every engineer should try to refine 
 *  [Static Analysis][sa]
 *  [Frontend][frontend]
 
-
-[ca]:https://gitlab.com/gitlab-org/gitlab/issues?label_name%5B%5D=group%3A%3Acomposition+analysis&label_name[]=workflow%3A%3Aplanning%20breakdown&label_name%5B%5D=backend&scope=all&sort=milestone&state=opened&utf8=%E2%9C%93&weight=None
-[da]:https://gitlab.com/gitlab-org/gitlab/issues?label_name%5B%5D=group%3A%3Adynamic+analysis&label_name[]=workflow%3A%3Aplanning%20breakdown&label_name%5B%5D=backend&scope=all&sort=milestone&state=opened&utf8=%E2%9C%93&weight=None
-[sa]: https://gitlab.com/groups/gitlab-org/-/boards/1590105?label_name[]=group%3A%3Astatic%20analysis
-[frontend]: https://gitlab.com/gitlab-org/gitlab/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Asecure&label_name[]=workflow%3A%3Aplanning%20breakdown&label_name[]=frontend&weight=None
+[ca]: https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&assignee_id=None&label_name[]=workflow%3A%3Arefinement&label_name[]=secure%3Arefinement-backend&label_name[]=group%3A%3Acomposition%20analysis
+[da]: https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&assignee_id=None&label_name[]=workflow%3A%3Arefinement&label_name[]=secure%3Arefinement-backend&label_name[]=group%3A%3Adynamic%20analysis
+[sa]: https://about.gitlab.com/handbook/engineering/development/secure/static-analysis/#issue-boards
+[frontend]: https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&assignee_id=None&label_name[]=workflow%3A%3Arefinement&label_name[]=secure%3Arefinement-frontend&label_name[]=devops%3A%3Asecure
 
 ## Steps
 
-1.  Assign yourself the issue
-2.  If an engineer is required for the issue, ensure the appropriate `~backend` or `~frontend` label is applied. Otherwise, remove any backend/frontend label, assign any relevant labels and you are done.
-3.  Check the issue for completeness.
+1. Assign yourself the issue you are refining.
+1. If an engineer is required for the issue, ensure the appropriate `~backend` or `~frontend` label is applied. Otherwise, remove any backend/frontend label, assign any relevant labels and you are done.
+1. Check the issue for completeness.
     *  Does it have the necessary designs?
     *  Is the functionality clearly articulated and there is a consensus or decision on how it should function.
     *  Are the technical details outlined? Has a consensus been reached or decision been made in areas of discussion?
     *  Are there dependencies? Call those out.
-4. If the issue is not complete:
-    *  Tag the relevant people that can help complete the issue and outline what is needed. Tag the appropriate EM and PM, so they know that the item can not be fully groomed.
-5. Ensure the issue is fully understood.
+1. If the issue is not complete:
+    * Tag the relevant people that can help complete the issue and outline what is needed. Tag the appropriate EM and PM, so they know that the item can not be fully refined.
+1. Ensure the issue is fully understood.
     *  Update the issue description with the final description of what will be implemented.
     *  Update the issue description with an [implementation plan](#implementation-plan).
     *  Ensure the issue title is accurate for the work being done.
     *  Open up new issues for 'follow-up' work, or work that was forced out of scope.
-6. Assign a [weight](#weights) and set the label `~workflow::scheduling`
-7. Remove the respective `secure:refinement-backend` or `secure:refinement-frontend` label.
-8. Once refinement is done unassign yourself.
+1. Assign a [weight](#weights).
+1. Remove the respective `secure:refinement-backend` or `secure:refinement-frontend` label.
+1. Set the `~workflow::scheduling` label if there is no more refinement needed from another team (e.g. when both Frontend and Backend need to refine an issue).
+1. Unassign yourself.
 
 When you are done refining, anyone should be able to read the issue description and should know what the issue is solving, how it is solving the problem,
 and the technical plan for implementing the issue.
@@ -74,7 +76,6 @@ An issue should fail refinement if it can not be worked on without additional in
 1.  Leave a comment on the issue that it can not be worked on, and highlights what still needs to be done.
 2.  Unassign yourself if you can not contribute further to issue at the current time.
 3.  Assign the `blocked` label.
-
 
 ## Weights
 
@@ -112,7 +113,7 @@ as [velocity is more important than predictability](/handbook/engineering/#veloc
 A list of the steps and the parts of the code that will need to get updated to implement this feature. The implementation plan should also
 call out any responsibilities for other team members or teams. An example: https://gitlab.com/gitlab-org/gitlab/issues/5656#execution
 
-The goal of the implementation plan is to spur critical analysis of the issue and have the groomer think through what parts of the application will get touched.
+The goal of the implementation plan is to spur critical analysis of the issue and have the engineer think through what parts of the application will get touched.
 The implementation plan will also permit other engineers to review the issue and call out any areas of the application that might have dependencies or
 been overlooked.
 
@@ -121,13 +122,12 @@ This improves consistency across issues, and communicates that issues have been 
 
 ## FAQs
 
-**Q:** Should discovery issues be groomed?
+**Q:** Should discovery issues be refined?
 
-**A:** Yes. Discovery issues should be groomed but some of the steps above may not be relevant. Use good judgement to apply the process above. The purpose of
+**A:** Yes. Discovery issues should be refined but some of the steps above may not be relevant. Use good judgement to apply the process above. The purpose of
 refining a discovery issue is to make sure the scope of the discovery is clear, what the output will be and that the prerequisites for the discovery are known
 and completed. Discovery issues can have a habit of dragging out or not creating actionable steps, the refinement process should lock down what needs to be answered
 in the discovery process.
-
 
 **Q:** If an issue has both frontend and backend work how should I weight it?
 
