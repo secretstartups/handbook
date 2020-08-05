@@ -31,28 +31,28 @@ Learn the basic principles of what it means to be a manager using a whole person
 
 **What do I need to do**
 
-Set aside time each day to participate in the challenge and live learning sessions. Complete the weekly self-evaluations and comment in the Slack channel during discussions.
+Set aside time each day to participate in the challenge (20 minutes) and live learning sessions (1 hour). Complete the weekly self-evaluations and comment in the Slack channel during discussions. As a participate in the pilot program, your feedback is critical for our success so please make time to complete the weekly evaluations. 
 
 [embed pilot welcome video here] 
 
 ## Pilot Program 
 
-- 12 Daily Challenges
-- 4 Live Learning Sessions
-- 4 Weekly Self Evaluations and Reflections
+- 12 Daily Challenges (20 minutes)
+- 4 Live Learning Sessions (1 hour)
+- 4 Weekly Self Evaluations and Reflections (10 minutes)
 - Certification Upon Completion
 
 ### Week 1
 
-During week one we will discuss **Getting to Know your Team & Managing Underperformance**. Information covered in week one can be found on the [SOCIAL STYLES](/handbook/people-group/learning-and-development/emotional-intelligence/social-styles/) and [Underperformance page](https://about.gitlab.com/handbook/underperformance/). 
+During week one we will discuss **Getting to Know your Team & Managing Underperformance**. Information covered in week one can be found on the [SOCIAL STYLES](/handbook/people-group/learning-and-development/emotional-intelligence/social-styles/) and the [Underperformance page](https://about.gitlab.com/handbook/underperformance/). 
 
 | Day     | Daily Challenge | Length of Time   |  Format | Activity | Competency Alignment |
 |---------|-----------------|------------------|---------|----------|----------------------|
-| Day 1    | 4 Week Challenge Intro | 20 minutes | Self-paced Daily Challenge | TBA |  |
-| Day 2    | Get to know your SOCIAL STYLE | 20 minutes | Self-paced Daily Challenge | TBA | * Collaboration (Getting to know individuals on a personal and professional level) <br> * Diversity, Inclusion, & Belonging (Building a safe community for your team members) |
-| Day 3    | Get to know your team | 20 minutes | Self-paced Daily Challenge | TBA | * Collaboration (Getting to know individuals on a personal and professional level) <br> * Diversity, Inclusion, & Belonging (Building a safe community for your team members) |
-| Day 4    | Attend Live Learning | 50 minutes | Live Learning | TBA | * Results (Measure results not hours) <br> * Efficiency (Be respectful of other's time <br> * Manager of One <br> * Handbook First <br> * Iteration  |
-| Day 5    | Self Reflection and Weekly Evaluation | 20 minutes | Virtual Team Meeting | TBA | * Collaboration (Getting to know individuals on a personal and professional level) <br> * Diversity, Inclusion, & Belonging (Building a safe community for your team members) |
+| Day 1    | 4 Week Challenge Intro | 20 minutes | Self-paced Daily Challenge | Challenge Kickoff Message |  |
+| Day 2    | Get to know your SOCIAL STYLE | 20 minutes | Self-paced Daily Challenge | Read the Understanding SOCIAL STYLEs page and Complete the assessment | * Collaboration (Getting to know individuals on a personal and professional level) <br> * Diversity, Inclusion, & Belonging (Building a safe community for your team members) |
+| Day 3    | Get to know your team | 20 minutes | Self-paced Daily Challenge | * Ensure your team fills out the SOCIAL STYLEs assessment. * Read the Underperformance page | * Collaboration (Getting to know individuals on a personal and professional level) <br> * Diversity, Inclusion, & Belonging (Building a safe community for your team members) |
+| Day 4    | Attend Live Learning | 50 minutes | Live Learning | Participate in the live learning and be prepared with your Social Style! | * Results (Measure results not hours) <br> * Efficiency (Be respectful of other's time <br> * Manager of One <br> * Handbook First <br> * Iteration  |
+| Day 5    | Self Reflection and Weekly Evaluation | 20 minutes | Virtual Team Meeting | *Complete the weekly self-reflection and Week 1 Evaluation | * Collaboration (Getting to know individuals on a personal and professional level) <br> * Diversity, Inclusion, & Belonging (Building a safe community for your team members) |
 
 [embed week 1 slide deck here] 
 
