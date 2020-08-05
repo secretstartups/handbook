@@ -27,7 +27,7 @@ The expectation for the development engineers is to be a technical consultant an
 * This process is **NOT** a path to reach development team for non-urgent issues that the Infrastructure, Security, and Support teams run into. Such issues can be moved forward by:
    * labelling with `security` and the `@gitlab-com/security/appsec` team mentioned to be notified as part of the [Application Security Triage rotation](/handbook/engineering/security/#triage-rotation)
    * labelling with `infradev` which will be raised to [Infra/Dev triage board](https://gitlab.com/groups/gitlab-org/-/boards/1193197?label_name[]=gitlab.com&label_name[]=infradev)
-   * raising to the respective product stage/group Slack channel, or 
+   * raising to the respective product stage/group Slack channel, or
    * asking the [#is-this-known](/handbook/communication/#asking-is-this-known) Slack channel
 * This process provides 24x7 coverage.
 
@@ -35,10 +35,10 @@ Example of qualified issue:
 
 * Production issue examples:
    * GitLab.com: [DB failover and degraded GitLab.com performance](https://gitlab.com/gitlab-com/gl-infra/production/issues/1054)
-   * GitLab.com: [Severity 1/Priority 1](https://about.gitlab.com/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) vulnerability being actively exploited or high likelihood of being exploited and puts the confidentiality, availability, and/or integrity of customer data in jeopardy. 
+   * GitLab.com: [Severity 1/Priority 1](https://about.gitlab.com/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) vulnerability being actively exploited or high likelihood of being exploited and puts the confidentiality, availability, and/or integrity of customer data in jeopardy.
    * Self-managed: [https://gitlab.zendesk.com/agent/tickets/129514](https://gitlab.zendesk.com/agent/tickets/129514)
    * Self-managed: [https://gitlab.zendesk.com/agent/tickets/130598](https://gitlab.zendesk.com/agent/tickets/130598)
-* Engineering emergency examples: 
+* Engineering emergency examples:
    * [A post deloyment issue with version.gitlab.com](https://gitlab.com/gitlab-com/gl-infra/production/issues/1615) that will cause self-managed deployment failure.
    * [GitLab.com deployment](https://gitlab.com/gitlab-org/gitlab/issues/198440) or a security release is blocked due to pipeline failure.
    * [A P1/S1 regression found in the release staging.gitlab.com](https://gitlab.com/gitlab-org/gitlab/issues/199316)
@@ -64,7 +64,7 @@ Examples of non-qualified issues:
 1. Escalation arises.
 1. Infrastructure, Security, Support or Engineering team register tracking issue and determines the severity or references the Zendesk ticket, whichever is applicable.
    * Explicitly mention whether the raised issue is for GitLab.com or a self-managed environment.
-   * The issue must be qualified as P1/S1. 
+   * The issue must be qualified as P1/S1.
 1. Infrastructure, Security, Support or Engineering team pings on-duty engineer (@name) in Slack [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4).
    * Find out who's on duty in the on-call [Google sheet of schedule](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing).
    * Ping on-duty engineers by tagging @name.
@@ -134,7 +134,7 @@ Examples of non-qualified issues:
      * There are countries with laws governing hours that can be worked.
      * This would not be an issue in the U.S.
      * At this point we would only be looking into countries where 1) we have legal entities, as those team members are employees or 2) countries where team members are hired as employees through one of our PEO providers. For everyone else, team members are contracted as independent contractors so general employment law would not apply.
-   * Engineers from the [Static Site Editor team](/handbook/engineering/development/dev/create-static-site-editor/#team-members) are exempted due to being part of a separate on-call rotation for the [GitLab Handbook](/handbook/about/on-call/).  
+   * Engineers from the [Static Site Editor team](/handbook/engineering/development/dev/create-static-site-editor/#team-members) are exempted due to being part of a separate on-call rotation for the [GitLab Handbook](/handbook/about/on-call/).
 
 1. Nomination
 
@@ -174,15 +174,15 @@ Examples of non-qualified issues:
      a replacement will be found.
    * In the instance of an ongoing escalation being handed over to
      another incoming on-call engineer the current on-call engineers
-     summarize full context of on-going issues, such as but not limited to 
+     summarize full context of on-going issues, such as but not limited to
         * Current status
         * What was attempted
         * What to explore next if any clue
         * Anything that helps bring the next on-call engineer up to speed quickly
 
-     These summary items should be in written format in the following locations: 
+     These summary items should be in written format in the following locations:
         * _Existing_ threads in [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4)
-        * Incident tracking issues 
+        * Incident tracking issues
 
      This shall be completed at the end of shifts to hand over smoothly.
    * For current Infrastructure issues and status, refer to [Infra/Dev Triage](https://gitlab.com/groups/gitlab-org/-/boards/1193197?&label_name[]=gitlab.com&label_name[]=infradev) board.
@@ -224,8 +224,8 @@ For those eligible engineers, everyone is encouraged to explore options that wor
 
 1. Swap weekend days and weekdays.
 1. Swap hours between weekend days and weekdays.
-1. Take up to double the time off for any time worked during the weekend when the above two options don't work with your personal schedule. 
-   1. When an engineer is in standby mode (e.g. not paged) during the weekend shift, they can take 1.25x time-off. 
+1. Take up to double the time off for any time worked during the weekend when the above two options don't work with your personal schedule.
+   1. When an engineer is in standby mode (e.g. not paged) during the weekend shift, they can take 1.25x time-off.
    1. When an engineer is in call-back mode (e.g. being paged) during the weekend shift, they can take double the time-off.
 1. Other alternatives that promote work-life balance and have the least impact to your personal schedule.
 
@@ -259,7 +259,7 @@ Feel free to participate in any incident triaging call if you would like to have
 
 ### Replaying Previous Incidents
 
-Situation Room recordings from previous incidents are available in this [Google Drive folder](https://drive.google.com/drive/u/1/folders/1wtGTU10-sybbCv1LiHIj2AFEbxizlcks) (internal). 
+Situation Room recordings from previous incidents are available in this [Google Drive folder](https://drive.google.com/drive/u/1/folders/1wtGTU10-sybbCv1LiHIj2AFEbxizlcks) (internal).
 
 ### Shadowing A Whole Shift
 
@@ -288,3 +288,82 @@ To get an idea of [what's expected](#expectation) of an on-call engineer and how
    1. [Service Platform Metrics](https://dashboards.gitlab.net/d/general-service/general-service-platform-metrics?orgId=1&var-type=ci-runners&from=now-6h&to=now).
    1. [SLAs](https://dashboards.gitlab.net/d/general-slas/general-slas?orgId=1).
    1. [Web Overview](https://dashboards.gitlab.net/d/web-main/web-overview?orgId=1).
+
+## First Responder Pilot Program
+
+### Background
+
+Beginning Sept 1 2020, a Pilot program will be initiated which is the outcome of a [recent proposal](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/7831) to iterate on the oncall process.
+
+[A presentation](https://docs.google.com/presentation/d/1PEF9oBKEnRDXIxDQAPnx34JzNd4uXRbmklwn8YtBUN0/edit#slide=id.g8d95f3965b_0_20) and [a Q/A session](https://docs.google.com/document/d/1YPoddFwupwyDCn7AIPDscV4ECuNsU8xVFDE1FMIU_dY/edit#) can provide further background.
+
+### New Process
+
+The new process splits Weekdays and Weekends and fully automates scheduling and escalation using a Bot during the normal work week.
+
+A pilot of this new weekday process will happen concurrently with the existing scheduled one. In a sense there will be "double coverage" during the pilot to ensure that someone is always available, either via bot or previously scheduled in the spreadsheet.
+
+#### Weekdays
+
+Weekdays will now leverage an automated system relying upon a [chatbot](https://gitlab.com/jameslopez/pagerslack).
+
+1. Incidents will be escalated by the bot and randomly select a BE that is currently online and eligible due to their working hours.
+1. The bot would also factor recency into the algorithm so that BEs that had recently been involved in an incident would be selected last.
+1. During incidents a randomly selected BE has the option to pass the incident to another BE if they are urgently needed somewhere else.
+
+##### Escalation
+
+1. SRE et al, types /devoncall into #dev-escalation
+1. A bot randomly selects a BE first responder based on: working hours, whether they are online and notifies them via slack/cell etc.
+1. BE responds to bot thread with 👀
+1. If Primary does not respond a secondary will be notified.
+1. The bot will continue trying up to 6 different BEs.
+1. BE triages the issue and works toward a solution.
+1. If necessary, BE reach out to domain experts as needed.
+
+In the event that no BEs respond to the bot, the bot will then post a link to the oncall spreadsheet for the SRE to look up scheduled oncall BE. We assume escxalating to using the spreadsheet as a last resort.
+
+#### Weekends and Holidays
+
+Weekend oncall will continue to use the existing Oncall process using the spreadsheet outlined above.
+
+Holidays will continue to be included in the oncall spreadsheet, those holidays include: Christmas Day, New Years Eve, New Years Day, Pi Day and Black Friday.
+
+##### Escalation
+
+1. SRE et al, types /devoncall into #dev-escalation
+1. The bot posts a link to the oncall spreadsheet
+1. BE responds to bot thread with 👀
+1. BE triages the issue and works toward a solution.
+1. If necessary, BE reach out to domain experts as needed.
+
+### Timeline
+
+We will pilot this new program in September and October.
+
+The aim is see at least 8 successful escalation occur with the new process before fully switching over.
+If we initiate the process 9/1/2020 we estimate that criteria should be met within 60 days. The full transition would take place starting 11/1.
+
+(with the spreadsheet as a backup) and will have a milestone to review how it is going at the end of September or when we have seen 8 escalations (whichever happens sooner).
+If the pilot is successful, we will move to this new process starting in November.
+
+### Success Criteria
+
+We measure success by the number of escalations handled solely via the bot-driven process. We aim for 0 total incidents to be escalated to the oncall spreadsheet.
+
+### Bot Usage
+
+ In order to use the bot, type `/devoncall` to trigger the escalation process.
+
+### Slack Notification Hours
+
+ The bot relies on accurate data related to working hours for all available developers.
+
+ In order to make this effective, all BEs should set their notification schedule in Slack.
+
+#### Setting Slack Notification Schedule
+
+1. Within Slack, goto you "Preferences"
+1. Click "Notifications"
+1. Scroll down to "Notification Schedule"
+1. Now set your notifications according to your work schedule, for example: Weekdays, 9am - 5pm
