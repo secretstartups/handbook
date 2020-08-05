@@ -59,9 +59,9 @@ GitLab has a "no ask, must tell" time off policy [time off policy](/handbook/pai
 
 GitLab supports team members who wish to continue their education and growth within their professional career. GitLab team-members are eligible for a reimbursement of up to [20,000 USD](/handbook/total-rewards/compensation/#exchange-rates) per calendar year (January 1st - December 31st) depending on tenure, performance, company need for the learned skill, and available budget. A course is considered to be included in the calendar year in which the course is paid/reimbursed (which should also be the same calendar year in which the course ends). 
 
-Follow the [Expensify process](/handbook/finance/expenses #work-related-online-courses-and-professional-development-certifications) if the course is under [$500 USD](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates).
+Follow the [Expensify process](/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications) if the course is under [$500 USD](/handbook/total-rewards/compensation/#exchange-rates).
 
-If the course is over [$500 USD](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates) or if you have exceeded your allotted [$500 USD](/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications) limit for courses and professional development certifications, follow the steps below. 
+If the course is over [$500 USD](/handbook/total-rewards/compensation/#exchange-rates) or if you have exceeded your allotted [$500 USD](/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications) limit for courses and professional development certifications, follow the steps below. 
 
 
 **Tuition Reimbursement FAQs**
