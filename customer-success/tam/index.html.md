@@ -72,12 +72,13 @@ Technical Account Managers make sure that the adoption of GitLab is successful a
 There are various services a Technical Account Manager will provide to ensure that customers get the best value possible out of their relationship with GitLab and their utilisation of GitLab's products and services. These services include, but are not limited to:
 
 #### Book of Business
+
 Technical Account Managers are responsible for managing a portfolio of customer accounts based on the sum of the annual contract value of the accounts under management. The current targets per TAM based on segment are:
 - Large / Enterprise: $3.25M/TAM
 - Commercial: $4M/TAM
 - SMB: N/A as it's digitally-led
 
-The team is working on efficiency initiatives to increase the contracts under management per TAM, targeting $5M for FY21.
+The team is working on efficiency initiatives to increase the contracts under management per TAM, targeting $5M for FY22.
 
 #### Relationship Management
 
