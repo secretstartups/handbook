@@ -28,7 +28,7 @@ In that case, you can [upload it to YouTube](#uploading-to-youtube).
 ### Considerations for livestreams
 {:.no_toc}
 
-1. Please remember to [follow the guidelines on starting a recorded video](#starting-a-recorded-video).
+1. Please remember to [follow the guidelines on starting a recorded video](/handbook/tools-and-tips/zoom/#recording-in-zoom).
 1. If you're not a host, you can't livestream direct from zoom, so the host will need to do that.
 1. If there is more than one host for the meeting **the host that joins the meeting first** is the only host that can livestream direct from zoom. 
 1. Generally, for a livestream, it's helpful to have a separate person handling [promoting people to panelist](https://support.zoom.us/hc/en-us/articles/115004834466-Managing-Participants-in-Webinar).
@@ -51,7 +51,7 @@ In that case, you can [upload it to YouTube](#uploading-to-youtube).
 
 ![grant permissions](/handbook/marketing/marketing-operations/youtube/grant_permissions.png)
 
-- Follow the instructions for [starting a recorded video](/handbook/marketing/marketing-operations/youtube/#starting-a-recorded-video).
+- Follow the instructions for [starting a recorded video](/handbook/tools-and-tips/zoom/#recording-in-zoom).
 
 ![configure stream](/handbook/marketing/marketing-operations/youtube/stream_settings.png)
 
@@ -226,7 +226,7 @@ The below instructions apply to either livestreams to YouTube or recorded videos
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xGwX9zjNr2E?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 1. Default to [livestreaming](#live-streaming) instead of uploading. 
-1. Please follow the process for [starting the recorded video](/handbook/marketing/marketing-operations/youtube/#starting-a-recorded-video).
+1. Please follow the process for [starting the recorded video](/handbook/tools-and-tips/zoom/#recording-in-zoom).
 1. Unless stated or arranged otherwise, our expected behavior is that the meeting organizer is responsible for distributing the video after the meeting.
 1. Log in to the [Zoom](https://zoom.us/) account of the meeting and go to the menu on the right and choose "My Recordings" (it can take up to 30 minutes before the recording is available to be shared).
 1. Select the meeting and download the recording to your computer (if you can't find the recording because it was a while ago check "Trash" in the menu on the top left and "Recover" the recording).
