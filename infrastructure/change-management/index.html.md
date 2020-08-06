@@ -18,7 +18,7 @@ Our overriding objective is maximize changes that avoid traditional aspects of c
 
 # Changes
 
-**Changes** are defined as any voluntary, scheduled modification to the operational environment.
+**Changes** are defined as modifications to the operational environment, including configuration changes, adding or removing components or services to the environment and cloud infrastructure changes. Application deployments, while technically being changes, are excluded from the change management process, as are most, but not all, [feature flag toggles](https://docs.gitlab.com/ee/development/feature_flags/controls.html#process).
 
 * **Service changes** are regular, routine changes executed through well-tested, automated procedures performed with minimal human interaction that may cause predictable and limited performance degradation and no downtime. A service change is implemented such that **it protects the environment while executing the desired change**.  As such, mature service changes do not require review or approval except on their very first iteration.
 
@@ -257,13 +257,12 @@ Furthermore, avoiding information overload is necessary to keep every stakeholde
 To that end, we will have:
 
 * a dedicated change bridge (zoom call) for S1 and S2 changes.
-* a dedicated `#change` channel, since `#production` contains sizeable amounts of information and it takes effort to filter out non-relevant items. This is particularly important for the change team, which must be focused on technical information to perform the change. While `#change` is an open channel and anyone is free to join, we will encourage people to use other channels to communicate with the EMOC.
 * periodic updates intended to the various audiences at place (CMOC handles this):
   * End-users (Twitter)
   * eStaff
   * Support staff
   * Employees at large
-* [a dedicated repo for issues related to Production](https://gitlab.com/gitlab-com/production) separate from the queue that holds Infrastructures’s workload: namely, issues for incidents and changes. This is useful because there may be other teams, over time, that need to do work in the production environment.
+* [a dedicated repo for issues related to Production](https://gitlab.com/gitlab-com/gl-infra/production/issues) separate from the queue that holds Infrastructures’s workload: namely, issues for incidents and changes. This is useful because there may be other teams, over time, that need to do work in the production environment.
 * After the maintenance is complete - handoff notes to other region on call team members should be left.  Including items like:
   * state / success of the maintenance
   * any alerts that can have been silenced and may go handoff
@@ -325,6 +324,25 @@ These items include high priority code deployments (impactful bugs, security fix
 Hard PCLs include code deploys and infrastructure changes for every criticality level (see [change severities](/handbook/engineering/infrastructure/change-management/#change-severities)).
 In case of an emergency, the EOC should interact with the IMOC prior to making any decision.
 It is at EOC and IMOC discretion to make a decision on whether a change should be approved and executed. If the change is approved, IMOC should inform the VPE of this decision.
+
+## Feature Flags and the Change Management Process
+
+Feature flags reduce risk by allowing application changes to be easily tested in production. Since they can be gradually or selectively enabled, and
+quickly turned off, their use is encouraged whenever appropriate.
+
+However, as the company and the number of developers working with feature flags continues to grow, it becomes important to manage risk associated with
+these changes too.
+
+On any given day, dozens of feature flag changes may occur. Many of these are trivial, allowing low risk changes -- sometimes just changes to UI appearance -- to be tested. However, some feature flag changes can have a major impact on the operation of GitLab.com, negatively affecting our **service level agreements**. This in turn can have a financial and reputational risk for the company. Without clear communication between the application developers toggling features and the engineer-on-call (EOC), it can be difficult for the EOC to assess which feature flag toggles are high risk and which are not.
+
+Additionally, during an incident investigation, knowing which high-risk features have recently been enabled, and documentation on how to assess their operation, is important.
+
+**For this reason, feature flag toggles which meet any of the below criteria, should be accompanied by a change management issue.**:
+
+* **Features that enable new services**: For example, if a feature toggle will drive traffic to a newly provisioned database or through a new application service.
+* **Features that may have an impact on the service levels availability of GitLab.com**: any feature which could, under reasonable circumstances, lead to an incident.
+* When feature toggles, or associated features, have **previously had to be rolled back due to user-impacting service degradation**, or as a result of the previous toggle leading to a production incident.
+* When the application development team assess the risk of the change to warrant the overhead of change management, or the infrastructure team specifically request it.
 
 ## Questions
 
