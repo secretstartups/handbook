@@ -399,6 +399,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 * Update the utm_campaign field using the following format: Campaign Tag, with no spaces, capitalization, underscores, or special characters.
 
 ##### Step 4: Activate Marketo smart campaign(s)
+* If this is a `Vendor Arranged Meeting` or `Executive Roundtable`, skip this step. The campaign and interesting moments will be run as a batch campaign after the list is loaded.
 * Click the "Smart Campaigns" folder
 * Select the `Interesting Moments` smart campaign. 
 * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
