@@ -112,6 +112,25 @@ For guidance on reviewing Background checks see [this page](https://about.gitlab
 1. Make sure the criminal check with country of the candidate is included in the "Search" box.
 1. Finally, scroll to the bottom of the page and click "Send"
 
+### Speaking with TMRG members in the hiring process
+
+Our hiring process includes an **optional** step where candidates can request to meet with an TMRG team member. Candidates can request this at any time throughout the process, we will also proactively offer this to a candidate when they reach the reference check stage. Whether or not the candidate decides to take us up on this offer will have no impact on our overall hiring decision.
+
+When a candidate requests to meet with an TMRG team member, their Candidate Experience Specialist will do the following:
+1. Share a message in the respective TMRG Slack channel. To aide with scheduling, the message will include the candidate’s time zone and a request for volunteers who would be willing to speak to that person for a 25-minute Zoom call. 
+   - Below are the slack channels you can ask for volunteers in  
+      - "fill in with complete list from rupert/candace"
+      - "fill in with complete list from rupert/candace"
+      - "fill in with complete list from rupert/candace"
+      - "fill in with complete list from rupert/candace"
+
+1. Once a volunteer has been found the Candidate Experience Specialist will send the candidate the 'TMRG Opportunity' email template. The CES will need to get the TMRG members’ Calendly link and GitLab team page profile.
+
+As a GitLab team member taking part in these calls, we advise you to start with a short introduction to you and your role here at GitLab. From here, we advise you to let the candidate lead the conversation as the goal is for you to answer their questions and offer insight into how we work.
+
+These calls don’t require you to submit a scorecard in Greenhouse. If a candidate mentions something that you see as a red flag (e.g. they outline a past action of theirs that goes against our values) or share something that would help us set them up for success, we advise you to share the details of this with the hiring manager for the role they’re interviewing for. It will be the responsibility of the Hiring Manager to review this and decide whether we need to alter the hiring or offer process for the candidate.
+
+
 ### Send contract
 
 [See Candidate Experience Specialist Contract Processes section of the handbook](/handbook/hiring/recruiting-framework/ces-contract-processes)
