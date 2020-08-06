@@ -796,8 +796,7 @@ Unsolicited email should be treated as phishing emails.  For example, if you
 did not register for a site claiming to send you email, do not click on links
 in the email or visit the site.
 
-## Using the panic email address
-{: #panic-email}
+## Panic Email
 
 GitLab provides a `panic@gitlab.com` email address for team members to use in
 situations that require an immediate security response. This email address is
