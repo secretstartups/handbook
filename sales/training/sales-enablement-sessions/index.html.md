@@ -22,9 +22,8 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC                                                                    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|
-|  Aug 6 | The Value of Professional Services: A CFO's Perspective                  | Paul Machle, Michael Lutz                       |
 | Aug 13 | Gainsight Overview for Sales                                             | Jeff Beaumont | 
-Aug 20 | Q3 FY21 GitLab Product Release Update for Sales                          | Brian Glanz       |
+| Aug 20 | Q3 FY21 GitLab Product Release Update for Sales                          | Brian Glanz       |
 | Aug 27 | ROI Analysis                                                             | Mahesh Kumar, Sales (TBD)                       |
 |  Sep 3 | Demystifying the Metrics Conversation                                    | David Somers, John Jeremiah, Sales (TBD)        |
 | Sep 10 | Atlassian & the GitLab/Jira Customer Conversation                        | Cormac Foster, Mahesh Kumar, Aleeta Bell (Sales TBD) |
@@ -40,6 +39,7 @@ Aug 20 | Q3 FY21 GitLab Product Release Update for Sales                        
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+|  2020-08-06 | **[The Value of Professional Services: A CFO's Perspective](https://youtu.be/arF-6BBRAxU)**         | Private |
 | 2020-07-16 | **[The GitLab Journey & the GitOps Use Case](https://youtu.be/Ap14indu2-w)**     | Public                        |
 | 2020-07-14  | **[Special: Forrester TEI Report](https://youtu.beJ_6QgemCz2E)**                   | Private           |
 | 2020-07-09 | **[Channel Partner Success for GitLab Sellers](https://youtu.be/OeykHQetd7U)**          |   Private              |
