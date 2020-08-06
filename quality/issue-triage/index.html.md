@@ -56,17 +56,11 @@ Severity labels help us clearly communicate the impact of a `~bug` on users. The
 |------------------------|-------------------------------------------------------|----------------------------------------------------------|----------------------------------------------|------------------------------------------------|
 | General bugs           | Broken feature with no workaround.                    | Broken feature with an unacceptably complex workaround.  | Broken feature with a workaround.            | Functionality is inconvenient.                 |
 | `~performance` Response time <br> (API/Web)[^1] | Above 9000ms to timing out   | Between 2000ms and 9000ms                                | Between 1000ms and 2000ms                    | Between 500ms and 1000ms                       |
-| `~performance` Degradation <br> (to be reviewed for deprecation) |             | Degradation is guaranteed to occur in the near future    | Degradation is likely to occur in the near future | Degradation may occur but it's not likely |
-| Affected Users <br> (to be reviewed for deprecation) | Impacts 50% or more of users | Impacts between 25%-50% of users                    | Impacts up to 25% of users                   | Impacts less than 5% of users                  |
-| `~availability` GitLab.com Availability |See [Availability Prioritization](#availability)|See [Availability Prioritization](#availability)|See [Availability Prioritization](#availability)|See [Availability Prioritization](#availability)|
+| `~availability` GitLab.com Availability |See [Availability section](#availability)|See [Availability section](#availability)|See [Availability section](#availability)|See [Availability section](#availability)|
 | `~security` Security Vulnerability |See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|
 | `~UX` User experience problem | "I can't figure this out." Users are blocked (or so confused that they believe they are blocked), and are likely to ask for support. | "I can figure out why this is happening, but it's really painful to solve." Users are significantly delayed by the available workaround. | "This still works, but I have to make small changes to my process." Users are self sufficient in completing the task with the workaround, but may be somewhat delayed. |  "There is a small inconvenience or inconsistency." Usability isn't ideal or there is a small cosmetic issue. |
 
-### UX debt
-
-Issues labeled as `~UX Debt` can also have a severity and priority labels applied *without* an accompanying `~bug` label. UX Debt results from the decision to release a user-facing feature that needs refinement, with the intention to improve it in subsequent iterations. Because it is an intentional decision, `~UX Debt` should not have a severity higher than `~S3`, because [MVCs](/handbook/values/#minimal-viable-change-mvc) should not intentionally have obvious bugs or significant usability problems.
-
-### Examples of severity levels
+#### Examples of severity levels
 
 If a issue seems to fall between two severity labels, assign it to the higher severity label.
 
@@ -88,7 +82,7 @@ If a issue seems to fall between two severity labels, assign it to the higher se
 
 ### Availability
 
-Issues with `~availability` label directly impacts the availability of GitLab.com. It is considered as another category of `~bug`.
+Issues with `~availability` label directly impacts the availability of GitLab.com SaaS. It is considered as another category of `~bug`.
 
 We categorize these issues based on the impact to GitLab.com's customer business goal and day to day workflow. 
 
@@ -97,12 +91,13 @@ The prioritization scheme adheres to our [product prioritization](/handbook/prod
 The presence of these severity labels modifies the standard severity labels(`~S1`, `~S2`, `~S3`, `~S4`) by additionally taking into account the impact as described below. 
 The severity of these issues may change depending on the re-analysis of the impact to GitLab.com customers.
 
-| Severity | Availability impact | Reproducibility | Time to resolve (TTR) | Deployment target | Minimum priority |
-| -------- | ------------------- | --------------- | --------------------- | ----------------- | ---------------- |
-| `~S1` | Roadblock on GitLab.com and blocking customer's business goals and day to day workflow | Consistently reproducible | Within 48 hrs | Hotfix to GitLab.com | `~P1` |
-| `~S2` | Significant impact on GitLab.com and customer's day-to-day workflow. Customers have an acceptable workaround in place. | Consistently reproducible | Within 5 business days | Next deployment window after resolution | `~P1` |
-| `~S3` | Broad impact on GitLab.com and minor inconvenience to customer's day-to-day workflow. No workaround needed.  | Inconsistently reproducible | Within 30 days | Next release after resolution | `~P2` |
-| `~S4` | Minimal impact on GitLab.com, no known customers affected | Inconsistently reproducible | 60 days  | Next release after resolution | `~P3` |
+
+| Severity | Availability impact | Affected users | Reproducibility | Time to resolve (TTR) | Deployment target | Minimum priority |
+| -------- | ------------------- | -------------- | --------------- | --------------------- | ----------------- | ---------------- |
+| `~S1` | Roadblock on GitLab.com and blocking customer's business goals and day to day workflow | Impacts 50% or more of users | Consistently reproducible | Within 48 hrs | Hotfix to GitLab.com | `~P1` |
+| `~S2` | Significant impact on GitLab.com and customer's day-to-day workflow. Customers have an acceptable workaround in place. | Impacts between 25%-50% of users |Consistently reproducible | Within 5 business days | Next deployment window after resolution | `~P1` |
+| `~S3` | Broad impact on GitLab.com and minor inconvenience to customer's day-to-day workflow. No workaround needed. | Impacts up to 25% of users | Inconsistently reproducible | Within 30 days | Next release after resolution | `~P2` |
+| `~S4` | Minimal impact on GitLab.com, no known customers affected | Impacts less than 5% of users  | Inconsistently reproducible | 60 days  | Next release after resolution | `~P3` |
 
 #### Availability prioritization
 
@@ -123,6 +118,9 @@ We encourage performance improvements to be broken down. Improve where we can an
 [^1]: Our current response time standard is based on the TTFB P90 results of the GitLab Performance Tool (GPT) being run against the 10k-user reference environment.
 This run happens nightly and results are outputted to the [wiki on the GPT project.](https://gitlab.com/gitlab-org/quality/performance/-/wikis/Benchmarks/Latest/10k)
 
+### UX debt
+
+Issues labeled as `~UX Debt` can also have a severity and priority labels applied *without* an accompanying `~bug` label. UX Debt results from the decision to release a user-facing feature that needs refinement, with the intention to improve it in subsequent iterations. Because it is an intentional decision, `~UX Debt` should not have a severity higher than `~S3`, because [MVCs](https://about.gitlab.com/handbook/values/#minimal-viable-change-mvc) should not intentionally have obvious bugs or significant usability problems.
 
 ## Triaging Issues
 
