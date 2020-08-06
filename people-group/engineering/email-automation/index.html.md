@@ -11,7 +11,7 @@ title: "Email Automation"
 People Operations team sends out several emails for different reasons. When possible, we try to automate these.
 
 ### Onboarding Email
-This is the [email](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_email.md) that is send
+This is the [email](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/email_templates/onboarding_email.md) that is send
 to our team members on the day before their employment.
 
 Every day we run 3 scheduled pipelines. They are each setup for a specific region:
