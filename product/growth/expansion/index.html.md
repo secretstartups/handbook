@@ -7,7 +7,7 @@ title: Expansion
 
 {:.no_toc}
 
-* TOC
+- TOC
 {:toc}
 
 ## Overview
@@ -16,11 +16,11 @@ The Expansion Team at GitLab focuses on running experiments to increase the expa
 
 ## Communication
 
-* [Public Issue Board](https://gitlab.com/gitlab-org/growth/product/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=); to propose an experiment for the `~"group::expansion"` team, create a new issue label it with `~"devops::growth"``~"group::expansion"'
+- [Public Issue Board](https://gitlab.com/gitlab-org/growth/product/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=); to propose an experiment for the `~"group::expansion"` team, create a new issue label it with `~"devops::growth"` `~"group::expansion"`
 
 ## How We Work
 
-As part of the wider Growth stage we track and work on issues with the label combination of `~"devops::growth"` `~"group::expansion"'.
+As part of the wider Growth stage we track and work on issues with the label combination of `~"devops::growth"` `~"group::expansion"`.
 
 ### Product Development Flow
 
@@ -40,7 +40,7 @@ We use workflow boards to track issue progress throughout a milestone. Workflow 
 
 This approach helps us stay organized and keeps the work we do in once easy to access place. This also helps others find our work easily and contribute.
 
-* The main epic we have created for our work can be found [here](https://gitlab.com/groups/gitlab-org/-/epics/2358)
+- The main epic we have created for our work can be found [here](https://gitlab.com/groups/gitlab-org/-/epics/2358)
 
 #### Artifacts
 
@@ -48,13 +48,13 @@ As we work on building product and experiments we create multiple issues which t
 
 **Typical artifacts you'd see in our epics and issues are:**
 
-* Experiment overview (typically an epic or child epic)
-* UX scorecards
-* UX research
-* Experiment Tracking & Rollout plan
-* Experiment Results
+- Experiment overview (typically an epic or child epic)
+- UX scorecards
+- UX research
+- Experiment Tracking & Rollout plan
+- Experiment Results
 
 ## Related Links
 
-* [Product Direction Page for Expansion](https://about.gitlab.com/direction/expansion/)
-* [Growth Handbook](https://about.gitlab.com/handbook/product/growth/)
+- [Product Direction Page for Expansion](https://about.gitlab.com/direction/expansion/)
+- [Growth Handbook](https://about.gitlab.com/handbook/product/growth/)

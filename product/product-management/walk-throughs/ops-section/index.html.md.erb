@@ -4,6 +4,7 @@ title: Ops Section Product Walk-through Script
 ---
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
@@ -14,14 +15,17 @@ This page is the script for the Ops Section [product walk-through](/handbook/pro
 ## Setup
 
 ### Create a group
+
 Create a group with GitLab Gold tier.
 
 ### Create three sub-projects
+
 1. From the Ruby on Rails Template
 1. Cloned from Serverless example
 1. From the Plain HTML Template
 
 ### Attach a Cluster and Install Apps
+
 1. Helm
 1. Ingress
 1. Cert-Manager
@@ -31,6 +35,7 @@ Create a group with GitLab Gold tier.
 Use a Cluster Config Project
 
 ### Instrument your Rails App
+
 1. With a feature flag
 1. For Sentry
 1. For Tracing (TBD)
@@ -39,12 +44,14 @@ Use a Cluster Config Project
 1. Add an incident template to @mention you
 
 ## Prep
+
 1. Create an MR in the Rails project
 1. Redeploy the Rails project
 1. Send traffic to Rail project that triggers an alert & incident
 1. Invoke the Pages Functions project
 
 ## Live Walk-through
+
 1. Show group and list of projects
 1. Show attached cluster, installed apps, ability to uninstall and reinstall (if using CI show that)
 1. Show cluster management project and ability to adjust config there
@@ -56,7 +63,7 @@ Use a Cluster Config Project
 1. Jump from environment to metrics - showcase response metrics and system metrics by default, business metrics easily instrumented, showcase recent deploy
 1. Jump to Pod Logs - showcase ability to search through logs
 1. Jump to Error tracking - showcase ability to see recent errors, dismiss, error details, create issue from error
-1. Jump to feature flags - 
+1. Jump to feature flags -
 1. Incident response - Notice that there is a todo for you from the Incident
     1. Jump to the incident issue - highlight payload, auto-creation, look at the charts and embed a metric for discussion in a comment
     1. Checkout the logs

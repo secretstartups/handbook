@@ -4,6 +4,7 @@ title: GitLab the Product
 ---
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
@@ -17,8 +18,8 @@ title: GitLab the Product
 
 We believe that a single application for the DevOps lifecycle
 based on [convention over configuration](/handbook/product/product-principles/#convention-over-configuration) offers a superior user experience. The
-advantage can be quoted from the [Wikipedia page for convention over
-configuration](https://en.wikipedia.org/wiki/Convention_over_configuration):
+advantage can be quoted from the [Wikipedia page for convention over](https://en.wikipedia.org/wiki/Convention_over_configuration)
+configuration:
 "decrease the number of decisions that developers need to make, gaining
 simplicity, and not necessarily losing flexibility". In GitLab you only have to
 specify unconventional aspects of your workflow. The happy path is
@@ -87,7 +88,7 @@ Keep in mind that the [CEO is the DRI for pricing and tiers](/handbook/ceo/prici
 #### What goes in what paid tier
 
 Our [stewardship principles](/company/stewardship/) determine whether something belongs in a
-paid tier. The [likely buyer](/handbook/ceo/pricing/#the-likely-type-of-buyer-determines-what-features-go-in-what-tier) determines which tier.
+paid tier. The [likely buyer](/handbook/ceo/pricing/#buyer-based-open-core) determines which tier.
 
 #### Determining the tier of a new feature
 
@@ -108,10 +109,10 @@ To propose bringing a feature to a lower tier or making a change that impacts ho
 All Starter, Premium, and Ultimate features must:
 
 - Work easily for our customers that self-host GitLab. i.e. Their
-  licenses need not be updated and the new feature is default-on for the
-  instance.
+licenses need not be updated and the new feature is default-on for the
+instance.
 - Work with GitLab.com Bronze / Silver / Gold subscriptions. This means there has to be
-  some way of toggling or using the feature at a namespace level.
+some way of toggling or using the feature at a namespace level.
 - Have documentation.
 - Be featured on [products](/product/) and [DevOps tools](/devops-tools) at launch.
 
@@ -221,12 +222,12 @@ Use this section as guidance for using existing features and developing new ones
 1. Guests are not active contributors in private projects. They can only see, and leave comments and issues.
 1. Reporters are read-only contributors: they can't write to the repository, but can on issues.
 1. Developers are direct contributors, and have access to everything to go from idea to production,
-   unless something has been explicitly restricted (e.g. through branch protection).
+unless something has been explicitly restricted (e.g. through branch protection).
 1. Maintainers are super-developers: they are able to push to master, deploy to production.
-   This role is often held by maintainers and engineering managers.
+This role is often held by maintainers and engineering managers.
 1. Admin-only features can only be found in `/admin`. Outside of that, admins are the same as the highest possible permission (owner).
 1. Owners are essentially group-admins. They can give access to groups and have
-   destructive capabilities.
+destructive capabilities.
 
 To keep the permissions system clear and consistent we should improve our roles to match common flows
 instead of introducing more and more permission configurations on each resource, if at all possible.
