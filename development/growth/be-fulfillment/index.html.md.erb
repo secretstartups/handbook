@@ -155,7 +155,20 @@ We use an [automatic deployment to staging, but manual deployment to production]
 
 Maintainers of the application need to trigger a manual action on the `master` branch in order to deploy to production.
 
-### Feature freeze
+#### Escalation Process
+
+In most cases an MR should follow the standard process of review, maintainer review, merge, and deployment as outlined above. When production is broken:
+
+1. First determine whether the [Rapid Engineering Response](https://about.gitlab.com/handbook/engineering/workflow/#rapid-engineering-response) process can be followed. This will depend on availability and how critical the situation is.
+1. The three hour wait between Staging and Production auto deploy can be bypassed with a manual deployment by a Maintainer.
+1. When there are no project maintainers available ([customers portal](https://about.gitlab.com/handbook/engineering/projects/#customers-app), [license app](https://about.gitlab.com/handbook/engineering/projects/#license-app)) an additional GitLab Team Member with Maintainer access can be asked to assist.
+
+In these cases please ensure:
+
+1. There is an issue describing the reasons for the escalation, as per the [Rapid Engineering Response](https://about.gitlab.com/handbook/engineering/workflow/#rapid-engineering-response). Consider '@'mentioning the relevant [Growth/Fulfillment teams](https://gitlab.com/gitlab-org/growth).
+1. The change is announced on the [#g_fulfillment](https://gitlab.slack.com/archives/CMJ8JR0RH) channel.
+
+#### Feature freeze
 
 The feature freeze for Fulfillment occurs at the same time as the rest of the company, normally around the 18th.
 
