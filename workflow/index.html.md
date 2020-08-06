@@ -452,13 +452,11 @@ These actions will be applied to open issues:
 
 Milestones are closed when the Delivery team no longer needs to create a backport release for a specific milestone.
 
-## Kickoff and Retrospective Livestream Instructions
+## Kickoff and Retrospective Public Stream Instructions
 
-Before the meeting starts, remind people who plan to speak to join the Google Hangout earlier, since there is a 50 user limit.
+Both the monthly kickoff and retrospective meetings are publicly streamed to the [GitLab Unfiltered YouTube Channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A?view_as=subscriber). The [EBA](https://about.gitlab.com/job-families/people-ops/executive-business-administrator/)or Engineering is the [moderator](https://about.gitlab.com/handbook/people-group/group-conversations/#moderator) and responsible for initiating the Public Stream or designating another moderator if EBA is unable to attend. 
 
-Several minutes before the scheduled meeting time, follow the [livestreaming instructions](/handbook/communication/youtube/#how-to) to start a Google Hangout using the `Now` setting. Paste the Google Hangout invite link in the Google doc.
-
-At the scheduled meeting time, start broadcasting live to YouTube. Begin the meeting.
+At the scheduled th
 
 ## Use Group Labels and Group Milestones
 
