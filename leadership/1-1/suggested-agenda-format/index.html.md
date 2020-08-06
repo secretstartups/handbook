@@ -80,11 +80,10 @@ Please see [our guide on giving feedback](/handbook/people-group/guidance-on-fee
 We move through the agenda top to bottom by header but bottom to top within those headers. 
 For example, the very first discussion item in the call should be the last item under High Performance. 
 
-## Example agenda items
+## Example Agenda
 
-```
+<figure class="video_container">
+<iframe src="https://docs.google.com/document/d/1Wi8zCIQishXuPZBTsjw3lmjGTWLDwqQBe0n9jmgbTyU/edit#"></iframe>
+</figure>
 
-6. 2017-07 Sid: Kubernetes wishlist email => Spoke with Job, he'll create the issues => Eliran to stay involved
-7. Sid: Do a webinar with all cloud partners, all container schedulers, all config management systems. => Eliran: Dimitrie might be interested in helping. Get the webinar without doing a lot of integration. => Eliran: Starting with Puppet, Dimitrie said he didn't do any dev work for the i2p demo so I am not sure he will be able to do the dev work required here. => Sid: Goal is not to have dev work. Just combine their demo with our i2p.
-
-```
+SlideSha
