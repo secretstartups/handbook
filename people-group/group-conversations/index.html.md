@@ -155,7 +155,7 @@ _Important: The DRI for the Group Conversation will also have hosting rights. Zo
 
 ### During the Call
 
-6. Start the Group Conversation at the pre-determined time by asking the DRI "`May I start the countdown for this public/private stream?`" (_Note: Be sure to verify in the Calendar Invitation whether the meeting should be either publicly or privately streamed_) If they do not respond, ask them by name. 
+6. Start the Group Conversation at the pre-determined exact start time of the meeting (not prior to the start time of the meeting) by asking the DRI "`May I start the countdown for this public/private stream?`" (_Note: Be sure to verify in the Calendar Invitation whether the meeting should be either publicly or privately streamed_) If they do not respond, ask them by name. Ex. If the meeting starts at 8:00:00am, do not start the countdown at 7:59:50am.
 7. As soon as the DRI confirms that you can proceed, state "`I will start the public / private stream in 3, 2, 1...`" and select the `Go Live` button. 
 
 ### Troubleshooting
