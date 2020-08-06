@@ -30,8 +30,8 @@ Aug 20 | Q3 FY21 GitLab Product Release Update for Sales                        
 | Sep 10 | Atlassian & the GitLab/Jira Customer Conversation                        | Cormac Foster, Mahesh Kumar, Aleeta Bell (Sales TBD) |
 | Sep 17 | Maximizing Value of Partners in a Deal (Co-Selling with Partners Part 2) | David Forsch, Ed Cepulis                        |
 | Sep 24 | Q3 FY21 Competitive Update                                               | Mahesh Kumar                                    |
-|  Oct 1 | Deal Structure Best Practices                                            | Jesse Rabbits, Sales (TBD)                      |
-|  Oct 8 | Leveraging the GitLab/VMware Alliance                                    | Amy Brandenburg, Sales (TBD)                    |
+|  Oct 1 | Leveraging the GitLab/VMware Alliance                                    | Amy Brandenburg, Sales (TBD)                    |
+|  Oct 8 | Deal Structure Best Practices                                            | Jesse Rabbits, Sales (TBD)                      |
 | Oct 15 | Proof Points & Analyst Resources Update                                  | Colin Fletcher, Sales (TBD)                     |
 | Oct 22 | No sessions during last two weeks of a quarter                           | N/A                                             |                                   
 | Oct 29 | No sessions during last two weeks of a quarter                           | N/A |                                                                                                                                                                
