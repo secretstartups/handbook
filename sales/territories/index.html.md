@@ -79,10 +79,8 @@ For other countries outside AMER, governments agencies will be handled by the te
 | NA East        | Northeast      | **Large-AMER-Northeast**               | Tony Scafidi       | Bill Zaferopolos   |
 | NA East        | Northeast      | **Large-AMER-Mid-Atlantic**            | Katherine Evans    | Kelsey Steyn       |
 | NA East        | Northeast      | **Large-AMER-NY/NJ**                   | Paul Duffy         | Andrew Glidden     |
-| LATAM          | Southeast      | **Large-AMER-Brazil**                  | Jim Torres         | Bruno Lazzarin     |
-| LATAM          | Southeast      | **Large-AMER-Chile**                   | Jim Torres         | Bruno Lazzarin     |
-| LATAM          | Southeast      | **Large-AMER-Mexico**                  | Carlos Dominguez   | Bruno Lazzarin     |
-| LATAM          | Southeast      | **Large-AMER-SoCenAmer**               | Jim Torres         | Bruno Lazzarin     |
+| LATAM          | Southeast      | **Large-AMER-LATAM North**             | Carlos Dominguez   | Bruno Lazzarin     |
+| LATAM          | Southeast      | **Large-AMER-LATAM South**             | Jim Torres         | Bruno Lazzarin     |
 | NA East        | Southeast      | **Large-AMER-Central Gulf Carolinas**  | Chris Graham       | Shakarra MCGuire   |
 | NA East        | Southeast      | **Large-AMER-SunshinePeach**           | Jim Bernstein      | Bill Zaferopolos   |
 | NA East        | Central        | **Large-AMER-Lake Michigan**           | Tim Kuper          | Marcus Stangl      |
