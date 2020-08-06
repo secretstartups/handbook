@@ -44,8 +44,6 @@ The following data cleanup is required for any list prior to sending it to the O
 - If there are any records who have opted out of contact for any reason please be sure to define that on the spreadsheet
 
 #### Best Practices
-1. `Account Name` or `Company Name` needs to be consistent throughout the entire spreadsheet, please review to ensure that all members of a single company are the exact same including punctuation
-     - Example: GitLab, Gitlab, gitlab - will create three different accounts when the list is uploaded to Salesforce
 1. Remove inaccurate entries
      - `Title` **remove** "self", "me", "n/a", etc
      - `Phone` **remove** obvious junk numbers 0000000000, 1234567890, etc
@@ -56,9 +54,8 @@ The following data cleanup is required for any list prior to sending it to the O
      - Pulling list of names out of LinkedIn and importing the records into SFDC **does not** qualify as compliant. In EMEA these lists *will not* be uploaded
      - Field events that have not gained consent from the attendees that their name will be shared **are not** compliant.
      - Getting someone's name and/or business card from a meetup **does not** qualify as compliant.
-1. Remove all embargoed country records. 
+1. Remove all [embargoed country](https://about.gitlab.com/handbook/people-group/code-of-conduct/#trade-compliance-exportimport-control) records. 
 1. `Washington DC` is a `State` value and is not to be split up between `City` `State`. 
-1. `Country` and `State` values must be listed by their full name and not abbreviated. 
 1. `Zip Codes` contain five (5) numbers, States in US East may start with a `0`, make sure the `Zip/Postal Code` field is **plain text** and the leading `0` appears. 
 
 ### Import Cleaning Template
