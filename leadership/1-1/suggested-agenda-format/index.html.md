@@ -82,6 +82,8 @@ For example, the very first discussion item in the call should be the last item 
 
 ## Example Agenda
 
+[Example Agenda](https://docs.google.com/document/d/1Wi8zCIQishXuPZBTsjw3lmjGTWLDwqQBe0n9jmgbTyU/edit#heading=h.je87mj6quia2)
+
 <figure class="video_container">
 <iframe src="https://docs.google.com/document/d/1Wi8zCIQishXuPZBTsjw3lmjGTWLDwqQBe0n9jmgbTyU/edit#"></iframe>
 </figure>
