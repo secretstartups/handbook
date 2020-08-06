@@ -1,12 +1,12 @@
 - id = [project.key]
 %h2{ id: id }= project.name
 
-%h3  Description
+%h3{ id: [project.key, 'description'] } Description
 
 :markdown
   #{project.description}
 
-%h4 Assignments
+%h4{ id: [project.key, 'assignments'] } Assignments
 
 %table.table
   - if project.owners.any?
@@ -36,14 +36,14 @@
       %td
         = partial 'assignment', locals: { id: [project.key, 'reviewers'], assignments: project.reviewers }
 
-%h4 Location
+%h4{ id: [project.key, 'location'] } Location
 
 %ul
   %li
     = link_to project.link, project.link
 
 - if project.mirrors.any?
-  %h4 Mirrors
+  %h4{ id: [project.key, 'mirrors'] } Mirrors
 
   %ul
     - project.mirrors.each do |mirror_url|
