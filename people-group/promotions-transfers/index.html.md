@@ -221,16 +221,19 @@ To demote one of your direct reports, a manager should follow the following step
 - Changes in title are announced on the `#team-member-updates` Slack channel.
 - The manager will initiate any necessary onboarding or offboarding.
 
-## Change of Manager in BambooHR
+## Job Information Change in BambooHR
 
-The current manager will submit the request in BambooHR to transfer the direct report to the new manager.
+Job information changes are anything that requires an update to the team member's profile in BambooHR that is not compensation related. The current manager is the person who needs to submit all job information change requests (including requests to change team member's manager).
+
 **Process for the current manager:**
+
 1. Login to Bamboo HR and select the direct report
 1. In the Request Change dropdown, select Job information
     * Under "Effective Date" input the date the transfer to the new manager is effective.
     * Under "Department" input the new (if applicable) Department
     * Under "Reports To" search and select the name of the Hiring Manager
     * Under "Comment for Approvers" paste any additional relevant information.
+    * Update the `Job Title Specialty` field (if applicable)
 
 ### For Total Rewards: Processing Job Information Change Requests
 1. Audit the team member's department, division and cost center against the new manager's.
