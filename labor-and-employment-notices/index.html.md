@@ -21,6 +21,11 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 
 Information related to the [EEO is the Law poster](https://www1.eeoc.gov/employers/poster.cfm).
 
-* ["EEO is the Law" English poster for screen readers.](https://www.eeoc.gov/employers/upload/poster_screen_reader_optimized.pdf)
-* ["EEO is the Law" English poster for printing.](https://www.eeoc.gov/employers/upload/eeoc_self_print_poster.pdf)
-* ["EEO is the Law" Spanish poster for printing.](https://www.eeoc.gov/employers/upload/eeoc_self_print_poster_spanish.pdf)
+* ["EEO is the Law" English poster for screen readers.](https://www.eeoc.gov/sites/default/files/migrated_files/employers/poster_screen_reader_optimized.pdf)
+* ["EEO is the Law" English poster for printing.](https://www.eeoc.gov/sites/default/files/migrated_files/employers/eeoc_self_print_poster.pdf)
+* ["EEO is the Law" Spanish poster for printing.](https://www.eeoc.gov/sites/default/files/migrated_files/employers/eeoc_self_print_poster_spanish.pdf)
+
+
+## E-Verify 
+
+[Notice of E-Verify Participation Poster](https://www.e-verify.gov/sites/default/files/everify/posters/EVerifyParticipationPoster.pdf) 
