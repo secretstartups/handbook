@@ -105,10 +105,9 @@ Change severities encapsulate the risk associated with a change in the environme
 All changes should have change plans. Planning is the way the infrastructure department assesses and mitigates the risks changes introduce. They generate awareness and are the focal point for scheduling, communicating, and recording changes.
 
 # Change Request Workflows
+Plan issues are opened in the [production](https://gitlab.com/gitlab-com/gl-infra/production/issues) project tracker via the [change management issue template](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/new?issuable_template=change_management). Each issue should be opened using an issue template for the corresponding level of criticality: `C1`, `C2`, `C3`, or `C4`. It must provide a detailed description of the proposed change and include all the requested information in the template. Every plan issue is initially labeled `~"change::unscheduled"` until it can be reviewed and scheduled with a Due Date. After the plan is approved and scheduled it should be labeled `~"change::scheduled"` for visibility.
 
-Plan issues are opened in the [production](https://gitlab.com/gitlab-com/gl-infra/production/issues) project tracker. Each issue should be opened using an issue template for the corresponding level of criticality: `C1`, `C2`, `C3`, or `C4`. It must provide a detailed description of the proposed change and include all the requested information in the template. Every plan issue is initially labeled `~"change::unscheduled"` until it can be reviewed and scheduled with a Due Date. After the plan is approved and scheduled it should be labeled `~"change::scheduled"` for visibility.
-
-All change requests, regardless of the change criticality follow the same [change management template](https://gitlab.com/gitlab-com/gl-infra/production/blob/master/.gitlab/issue_templates/change.md).
+All change requests, regardless of the change criticality follow the same change management issue template](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/new?issuable_template=change_management).
 
 ## Change Criticalities
 
@@ -133,9 +132,7 @@ These are changes with high impact or high risk. If a change is going to cause d
 1. Announce the start of the plan execution in the `#production` Slack channel and obtain a written approval from the EOC in both the issue and in Slack.
 1. Join The "Situation Room" zoom channel with the EOC and obtain verbal approval to start the plan execution.
 
-The EOC must be engaged for the entire time  the execution
-
-[Criticality 1 plan template](https://gitlab.com/gitlab-com/gl-infra/production/blob/master/.gitlab/issue_templates/change_c1.md)
+The EOC must be engaged for the entire execution of the change.
 
 ### Criticality 2
 
@@ -154,7 +151,6 @@ These are changes that are not expected to cause downtime, but which still carry
 1. Identify the Engineer On-Call (EOC) scheduled for the time of the change and review the plan with them.
 1. Announce the start of the plan execution in the `#production` Slack channel and obtain a written approval from the EOC in both the issue and in Slack.
 
-[Criticality 2 plan template](https://gitlab.com/gitlab-com/gl-infra/production/blob/master/.gitlab/issue_templates/change_c2.md)
 
 ### Criticality 3
 
@@ -170,7 +166,6 @@ These are changes with either no or very-low risk of negative impact, but where 
 1. Add a Due Date to the issue.
 1. Identify the Engineer On-Call (EOC) scheduled for the time of the change and review the plan with them.
 
-[Criticality 3 plan template](https://gitlab.com/gitlab-com/gl-infra/production/blob/master/.gitlab/issue_templates/change_c3.md)
 
 ### Criticality 4
 
@@ -185,7 +180,6 @@ These are changes that are exceedingly low risk and commonly executed, or which 
 
 No approval required.
 
-[Criticality 4 plan template](https://gitlab.com/gitlab-com/gl-infra/production/blob/master/.gitlab/issue_templates/change_c4.md)
 
 ### Change Plans Summary
 
