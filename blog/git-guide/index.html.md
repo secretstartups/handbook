@@ -13,20 +13,24 @@ description: "A guide for working with Git, terminal, and the www-gitlab-com rep
 ## General Tips
 
 ### Get Most Recent Files
-When you sign on for the day try to do a `git pull origin master` so that you have the most recent files and changes from others locally on your computer — this will avoid merge conflicts and overwriting files.
-When you do this make sure you are in the right directory, (e.g. MacBook-Pro:www-gitlab-com user$)
+When you sign on for the day, try to do a `git pull origin master` in the terminal so that you have the most recent files and changes from others locally on your computer – this will avoid merge conflicts and overwriting files.
+When you do this make sure you are in the right directory, (e.g. MacBook-Pro:www-gitlab-com user$).
+
 Throughout the day you can also run `git pull` to get the most recent changes locally.
 
 ### Committing Changes and Pushing Changes
-To start, make sure your on the correct feature branch with `git checkout 0000-branch-name`[enter] in terminal
-Add, change, update files in the repository.
-In Terminal → run `git status` [enter] to see all of the files you’ve modified
-`Git add .` [enter] will stage all of these files (and any you created) for a commit
-Next we need to add a commit message with `git commit -m “[descriptive message goes here]”` [enter]
-Now we’re ready to push your local changes to `0000-branch-name` using `git push origin 0000-branch-name` [enter]
+To start, make sure you're on the correct feature branch with `git checkout 0000-branch-name`[enter] in terminal.
+
+### Add, change, update files in the repository
+
+In Terminal → run `git status` [enter] to see all of the files you’ve modified. `Git add .` [enter] will stage all of these files (and any you created) for a commit.
+
+Next we need to add a commit message with `git commit -m “[descriptive message goes here]”` [enter].
+
+Now we’re ready to push your local changes to `0000-branch-name` using `git push origin 0000-branch-name` [enter].
 
 ### Commit Early and Often
-Commit early and often — avoid working on multiple large files and then committing and pushing the files all at once (it can take several minutes, or even hours, to push depending on your internet connection — worst case it times out)
+Commit early and often. Avoid working on multiple large files and then committing and pushing the files all at once (it can take several minutes, or even hours, to push depending on your internet connection – worst case it times out).
 Run `git pull` [enter] on occasion to make sure you have the most recent changes / updates locally.
 
 ## Geting Recent Changes From Master
@@ -50,13 +54,13 @@ git push origin  0000-branch-name
 ```
 ## How to Resolve Merge Conflicts
 
-### Offical GitLab Documentation
-Here is the [oficial documentation on merge request conflict resolution](https://docs.gitlab.com/ee/user/project/merge_requests/resolve_conflicts.html) in GitLab.
+### Official GitLab Documentation
+Here is the [official documentation on merge request conflict resolution](https://docs.gitlab.com/ee/user/project/merge_requests/resolve_conflicts.html) in GitLab.
 
-Here's a great blog post on [resolving merge conflicts from the GitLab UI](https://about.gitlab.com/blog/2016/09/06/resolving-merge-conflicts-from-the-gitlab-ui/)
+Here's a great blog post on [resolving merge conflicts from the GitLab UI](https://about.gitlab.com/blog/2016/09/06/resolving-merge-conflicts-from-the-gitlab-ui/).
 
 ### Reseting Local Branch to Origin
-If you have not made any changes to your local branch and are getting a conflict message from orgin, just resest your local branch to be exactly like origin. WARNING - if you have made changes to your blog post, those changes will be lost!
+If you have not made any changes to your local branch and are getting a conflict message from origin, just reset your local branch to be exactly like origin. WARNING: If you have made changes to your blog post, those changes will be lost!
 ```
 git fetch
 git checkout 0000-branch-name
@@ -67,6 +71,6 @@ git reset -hard  origin/0000-branch-name
 
 ### Slack Channels
 
-If you're having problems with git, reach out in the following slack channels =)
+If you're having problems with Git, reach out in the following Slack channels =)
 - [#git-help](https://app.slack.com/client/T02592416/C1E21S2LD)
 - [#mr-buddies](https://app.slack.com/client/T02592416/CLM8K5LF4)
