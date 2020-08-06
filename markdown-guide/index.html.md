@@ -2203,7 +2203,7 @@ Anything else you know of and is not described here? Any new magic? Any trick? P
 
 <!-- Identifiers, in alphabetical order -->
 
-[`raw` file]: https://gitlab.com/gitlab-com/www-gitlab-com/raw/master/source/handbook/markdown-guide/index.html.md
+[`raw` file]: https://gitlab.com/gitlab-com/www-gitlab-com/-/raw/master/sites/handbook/source/handbook/markdown-guide/index.html.md
 [about.gitlab.com]: /
 [alert boxes]: https://getbootstrap.com/components/#alerts
 [alt-text-best-practices]: https://webaim.org/techniques/alttext/
@@ -2232,7 +2232,7 @@ Anything else you know of and is not described here? Any new magic? Any trick? P
 [slideshare-ivan]: http://www.slideshare.net/creatop/how-to-use-any-static-site-generator-with-gitlab-pages
 [source-img]: https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/images
 [ssg]: https://www.staticgen.com/
-[ssgs-post-raw]: https://gitlab.com/gitlab-com/www-gitlab-com/raw/master/source/blog/blog-posts/2016-06-10-ssg-overview-gitlab-pages-part-2.html.md
+[ssgs-post-raw]: https://gitlab.com/gitlab-com/www-gitlab-com/-/raw/master/sites/blog/source/blog/blog-posts/2016-06-10-ssg-overview-gitlab-pages-part-2.html.md
 [ssgs-post]: /2016/06/10/ssg-overview-gitlab-pages-part-2/
 [stackedit]: https://stackedit.io/
 [sublime]: https://www.sublimetext.com/3
