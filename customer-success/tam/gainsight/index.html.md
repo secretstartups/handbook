@@ -17,9 +17,9 @@ Gainsight is a tool for Technical Account Managers to manage the ongoing custome
 
 Gainsight will help across several different areas within Customer Success. Some highlights include:
 
-- Efficiency: consolidated account views (BoB, account), telemetry, Zendesk integration, notes, collab projects, and to-dos 
+- Efficiency: consolidated account views (BoB, account), telemetry, Zendesk integration, notes, collab projects, and to-dos
 - Consistency: Establish customer lifecycle process, manage and track engagement
-- Visibility: health scores, risk, adoption, and data visuals 
+- Visibility: health scores, risk, adoption, and data visuals
 - Automation: process, adoption, enablement for digital journey
 - Metrics and Analytics: Stage Adoption, customer health, time-to-value,
 - Grow Net Retention: Success plan-driven engagement, expand plays
@@ -94,19 +94,42 @@ If you'd like, you can toggle the "Scrolling" button at the top of any 360 to en
 
 ### CTAs
 
-A [CTA](https://support.gainsight.com/SFDC_Edition/Cockpit_and_Playbooks/About/01_CTAs_Tasks_and_Playbooks_Overview) is a call to action that is tied to a customer and populates a TAM's cockpit. CTAs can be created manually at any time, but most of them will automatically be created for you based on certain events or data. For example, when a [health score drops](/handbook/customer-success/tam/health-score-triage/#health-assessment-guidelines) to Red, the [Account Triage CTA is fired](/handbook/customer-success/tam/health-score-triage/#triage-cta), complete with a playbook that contains pre-determined tasks to complete and track. You'll also often see CTAs in your cockpit related to success plans or EBRs.
+A [CTA](https://support.gainsight.com/SFDC_Edition/Cockpit_and_Playbooks/About/01_CTAs_Tasks_and_Playbooks_Overview) is a call to action that is tied to a customer and populates a TAM's cockpit. CTAs can be created manually at any time, but most of them will automatically be created for you based on certain events or data.
 
 To create a new CTA, go to your cockpit and click "+ CTA", then fill out the appropriate information. If a CTA will consist of multiple tasks over a period of time, click CTA after saving it, then click the three dots on the top right of the new right sidebar, and click "Add Task". You can add as many as needed and track your progress in the milestone section.
 
 Watch a quick [video on Gainsight CTAs](https://www.youtube.com/watch?v=qkjmTh3Qad4&feature=youtu.be) to learn how to use them, best practices, and tricks.
 
-Other CTA features:
+#### Other CTA features
 
 * Tasks from [Timeline](/handbook/customer-success/tam/gainsight/timeline/) will automatically populate under the Cockpit
 * Viewing CTAs:
    * Navigate to the C360 and click "Cockpit" to see CTA for just that customer
-   * Use the far left nav panel (under "Home") and click "Cockpit" to see CTAs for *all* customers
-* Use the Dropdown to select between "My CTAs", "Closed CTAs", and "All CTAs" (assigned to anyone)
+   * Use the far left nav panel (under "Home") and click "Cockpit" to see all CTAs for all customers (yours or overall)
+* Use the dropdown at the top right to select between "My CTAs", "Closed CTAs" (assigned to anyone), and "All CTAs" (assigned to anyone)
+* Use the filter button at the top right to create and save customized CTA reports, which you can later access in the dropdown
+
+#### Types of CTAs
+
+There are 4 "types" of CTAs, which will have different corresponding playbooks, so if you're looking for a particular playbook be sure to select the appropriate type. See below for each type and the corresponding playbooks for that type.
+
+* Risk
+  * [Account Triage](/handbook/customer-success/tam/health-score-triage/#triage-cta)
+  * Low License Utilization
+  * Product Risk
+* Expansion
+* Lifecycle
+  * Commercial Onboarding Email Series
+  * Create Success Plan
+  * Customer Offboarding
+  * [Executive Business Review (EBR)](https://about.gitlab.com/handbook/customer-success/tam/ebr/#how-to-prepare-an-ebr)
+  * [New Customer Onboarding](https://about.gitlab.com/handbook/customer-success/tam/onboarding/)
+  * Usage Data Enablement
+* Activity
+  * [Handoff](https://about.gitlab.com/handbook/customer-success/tam/account-handoff/#account-handoff-cta)
+
+  If the CTA you're opening does not fall into one of the playbook categories, choose the type that makes the most sense. If it's a common CTA, suggest creating a playbook for the it by [opening an issue](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/boards/1731118?&label_name[]=gainsight).
+
 
 ### Following Accounts
 
