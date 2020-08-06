@@ -57,15 +57,17 @@ The following factors will also be taken into consideration:
 - Ensure that the tasks split evenly and fairly 
 - A tracker will be kept to track the data of how the tasks are split up
 
-At the start of each week, the Associated assigned to allocations will create a rotation issue located in our issue templates [section](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/issue_templates/Weekly-Rotation-PEA.md). 
+**The Rotation groups are listed as follows:**
 
-The Rotation groups are listed as follows:
+- Probation Periods / Gift Requests / New Hire Swag Email
+- BHR Onboarding Report / Moo Report / Allocations for Onboarding, Offboarding, Mobility
 
-- Letters of Employment / VOE / New Hire Swag
-- Probation Period Emails / Anniversary Queries / Gift Requests
-- BHR Onboarding Report / Moo Report / Allocations for Onboarding / Offboarding / Mobility
-- I-9 Administration / Pruning of Stale Records (monthly)
-- Code of Conduct (monthly)
+- I-9 Administration / Pruning of Stale Records (TBD)
+
+**The following tasks will be completed by any available People Experience Associate with the designated SLA:**
+
+- Letters of Employment / VOE 
+- Anniversary Queries
 
 #### Allocations for Onboarding
 
