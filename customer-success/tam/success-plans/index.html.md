@@ -23,8 +23,8 @@ A success plan is the guiding document which connects the customer’s pain (oft
 
 There are two types of success plans in [Gainsight](/handbook/customer-success/tam/gainsight/), which is GitLab's Customer Success tool and where we track customer success plans.
 
-1. The first type is the ROI Success Plan. This success plan is a customer-facing interactive map to align the purchase (or renewal) reasons to customer outcomes, develop joint accountabilities, measure progress, and evolve as customers’ needs change. It’s the way the customer can see and know that they’re attaining significantly more value than the cost of a product or service over time. Since this is customer-facing, it provides a high-level, executive overview of the customer's top initiatives.
-2. The second type is the Stage Adoption Success Plan. This success plan is an internal document allows the TAM to track progress and goals on driving stage adoption within an account. Since this is internal, we can track high-level initiatives for the customer such as stage adoption, efforts on uptiering, expansion efforts, etc.
+1. The first type is the **ROI** Success Plan. This success plan is a customer-facing interactive map to align the purchase (or renewal) reasons to customer outcomes, develop joint accountabilities, measure progress, and evolve as customers’ needs change. It’s the way the customer can see and know that they’re attaining significantly more value than the cost of a product or service over time. Since this is customer-facing, it provides a high-level, executive overview of the customer's top initiatives.
+2. The second type is the **Stage Adoption** Success Plan. This success plan is an internal document allows the TAM to track progress and goals on driving stage adoption within an account. Since this is internal, we can track high-level initiatives for the customer such as stage adoption, efforts on uptiering, expansion efforts, etc.
 
 For more information on what success plans are, view the slide deck, [Success Plans: Foundation for Success](https://docs.google.com/presentation/d/15Qt-UcfRt9cX-4CV7zMsurojTZg_8Kf-u0dMYL16JXQ/edit?ts=5e398d2d#slide=id.g6e9082c768_3_234), that helped to kick off GitLab's use of them.
 
@@ -45,13 +45,13 @@ A key element of transparency is clarity and focus. If a strategic document beco
 
 ## How to Create a Success Plan in Gainsight
 
-To create a success plan, the TAM will perform the following activities, detailed below:
+To create a Success Plan, the TAM will perform the following activities, detailed below:
 
 1. [Understand the customer’s motivation for purchasing GitLab through reviews with the sales team](/handbook/customer-success/tam/success-plans/#step-1-understand-the-customers-motivation)
 1. [Identify the customer’s business objectives](/handbook/customer-success/tam/success-plans/#step-2-identify-business-objectives)
 1. [Socialize and confirm the business objectives with the customer](/handbook/customer-success/tam/success-plans/#step-3-socialize-and-confirm-the-business-objectives)
-1. [Document the success plan in Gainsight](/handbook/customer-success/tam/success-plans/#step-4-documenting-the-success-plan)
-1. [Track realization of the objectives outlined in the success plan](/handbook/customer-success/tam/success-plans/#step-5-track-value)
+1. [Document the Success Plan in Gainsight](/handbook/customer-success/tam/success-plans/#step-4-documenting-the-success-plan)
+1. [Track realization of the objectives outlined in the Success Plan](/handbook/customer-success/tam/success-plans/#step-5-track-value)
 
 ### Step 1: Understand the Customer’s Motivation
 
@@ -62,7 +62,7 @@ To create a success plan, the TAM will perform the following activities, detaile
 
 ### Step 2: Identify Business Objectives for the ROI Success Plan
 
-The objectives should be written from the customer’s perspective and be measurable goals that they drive. For example, an Objective could be “Reduce Cycle Time from X to Y” rather than “Adopt Manage stage” (which would be more appropriate for a Stage Adoption success plan).
+The objectives should be written from the customer’s perspective and be measurable goals that they drive. For example, an Objective could be “Reduce Cycle Time from X to Y” rather than “Adopt Manage stage” (which is a more internally-oriented phrasing).
 
 You should know how the customer will track the benefits of purchasing GitLab, how the customer will measure success, and how the customer is currently measuring these objectives and if they have those metrics available. If these details are currenly unknown, add some relevant discovery questions to your agenda for your next [cadence call](/handbook/customer-success/tam/cadence-calls/), below are some examples:
 
@@ -122,6 +122,7 @@ To create a success plan in Gainsight, perform the following steps:
 1. In the upper right-hand side, click "+ Success Plan"
 1. Add a Name for the success plan, e.g. "Customer Name ROI Success Plan" for customer-facing plans and "Customer Name Stage Adoption Success Plan" for internal plans
 1. Add Type as "ROI Success Plan" for customer-facing plans or "Stage Adoption" for internal plans
+   1. As noted below, a `Stage Adoption` objective can be listed under an ROI Success Plan if that is an explicit customer goal
 1. Set the "Due Date" as end of GitLab's fiscal calendar or a date logical given the content of the success plan
 1. Click "Save"
 
@@ -131,15 +132,14 @@ After creating a success plan, you will need to input the objectives that you've
 - **Owner**: Who is invested in this objective
 - **Due Date**: Due date for the objective
 - **Objective Category**:  Indicate if the objective is Stage Adoption, Rev Expansion, or ROI Success
-   - **Stage Name**: if `Stage Adoption` is selected, select the Stage Name for reference and reporting purposes
 - **Stage Name**: if the objective category above is `Stage Adoption`, then select from this dropdown which stage you're helping the customer adopt
 - **Status**: Mark the objective “New” or “Work in Progress”
 - **Priority**: Indicate if the priority is Low, Medium, or High
-- **Playbook**: If the objective is for Stage Adoption, choose the corresponding playbook
+- **Playbook**: If the objective is for Stage Adoption, choose the corresponding playbook (or customize your own!)
 - **Success Criteria**: When you first create the Objective (and each time you check in with the customer), log an Activity update on it to capture the progress
 - **Comments**: Share any info that might be relevant to the objective (e.g. potential blockers, architecture details, or other important details worth mentioning)
 
-Objectives should be actionable, and Gainsight provides a way to create action items as part of the objective, called tasks. A task in Gainsight is equivalent to a milestone in GitLab's historical success plan terminology.
+Objectives should be actionable, and Gainsight provides a way to create action items as part of the objective, called tasks. A task in Gainsight is equivalent to a milestone in GitLab's historical success plan terminology. In short, the objective is the goal and the set of tasks are the way to get there (similar to Objectives and Key Results).
 
 To create a task, perform the following steps:
 
@@ -187,15 +187,17 @@ Within the collaboration project, TAMs focus on new/closed/open issues and colla
 
 For additional details, see [Account Engagement](https://about.gitlab.com/handbook/customer-success/tam/engagement/).
 
-### Gainsight ROI Success Plans
+### Success Plans
+
+##### Gainsight ROI Success Plans
 
 Meanwhile, Gainsight ROI Success Plans are a separate entity, as they are meant for articulating and tracking business objectives, typically with executive sponsors, decision-makers, and economic buyers. The succcess plans focus on high-level strategic objectives, instead of the technical and tactical initiatives that are covered in the collaboration project.
 
 TAMs use success plans as part of their EBRs to share insights, progress, and objectives to offer deeper insight into their organization and the value of GitLab, as success plans can track progress towards goals and report on it to the executives.
 
-**Stage Adoption**: If a customer has as one of *their* desired business outcomes the adoption of one of Gitlab's stages, then this stage adoption objective would be appropriate to add as a customer objective in the ROI Success Plan.
+**Stage Adoption**: If a customer has as one of *their* desired business outcomes the adoption of one of Gitlab's stages, then this stage adoption objective would be appropriate to add as a customer objective in the ROI Success Plan (rather than the Stage Adoption Success Plan)
 
-### Gainsight Stage Adoption Success Plans
+##### Gainsight Stage Adoption Success Plans
 
 Gainsight Stage Adoption Success Plans are internal-only and used to track stage adoption campaigns, driving expansion and growth efforts. We see across our customer base an even better retention and growth rate among customers who have adopted 3 stages or more, and we want to measure and iterate on our efforts to drive stage adoption. Data points such as outcomes per stage, length of time for customers to adopt new stages, number of customers adopted per stage/region/segment, and more help us manage growth strategies towards IACV growth. It also gives us the ability to see the relationship between adoption goals and outcomes and relate feedback and blockers to the wider team to help improve GitLab's processes.
 
@@ -203,6 +205,10 @@ The reporting on stage adoption happens at the objective level, so it is key to 
 
 If we are looking to drive the adoption of a particular stage in a customer account but the customer themselves would not say (yet!) it is a strategic objective for them, then a TAM should use the Stage Adoption Success Plan to open the objective. This second success plan ensures that all customer-facing objectives are aligned with the customer's own goals and strategies but allows us to still track our internal initiatives.
 
-### Open and Categorize a Stage Adoption Objective
+### How To Open and Categorize a Stage Adoption Objective within a Success Plan in Gainsight
 
-Please review this [3-minute video](https://youtu.be/gWW3t45QCFs) on how to open a stage adoption objective and categorize it correctly to enable reporting on our team's progress (Gitlab only).
+Please review this [3-minute video](https://youtu.be/gWW3t45QCFs) on how to open a stage adoption objective and categorize it correctly in Gainsight to enable reporting on our team's progress (Gitlab only). Video includes:
+1. How to determine when to use an ROI Success Plan and when to use a Stage Adoption Success Plan (as defined above)
+1. How to create the stage adoption objective
+1. How to tag the stage adoption objective within the CTA so that it reflects the correct stage
+1. What is not considered stage adoption
