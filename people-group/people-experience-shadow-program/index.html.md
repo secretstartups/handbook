@@ -35,5 +35,5 @@ Every day gifts and flowers
 1. Prior to the start date (day before is fine), the team member needs to complete the following:
 - Complete the [GitLab Tools 101 Training](https://about.gitlab.com/handbook/people-group/learning-and-development/certifications/gitlab-101/)
 - Ensure that you are subscribed to the #PeopleOps & #pea-team Slack channel.
-1. On the start date, the People Experience team will create the [PEA Shadow Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/PEA_shadow_issue.md) and assign to the respective team member.  
+1. On the start date, the People Experience team will create the [PEA Shadow Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/people_experience_team_shadow.md) and assign to the respective team member.  
 1. At the end of the Shadow program, the People Experience team and Shadower are to provide feedback on the process and each others particpation in the program to ensure the success and continous growth within the roles. 
