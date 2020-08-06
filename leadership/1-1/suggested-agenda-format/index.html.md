@@ -86,4 +86,3 @@ For example, the very first discussion item in the call should be the last item 
 <iframe src="https://docs.google.com/document/d/1Wi8zCIQishXuPZBTsjw3lmjGTWLDwqQBe0n9jmgbTyU/edit#"></iframe>
 </figure>
 
-SlideSha
