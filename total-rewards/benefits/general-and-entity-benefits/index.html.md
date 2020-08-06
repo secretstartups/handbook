@@ -226,7 +226,7 @@ How do I initiate my Parental Leave?
 * Submit your time off by selecting the Parental Leave category in PTO Ninja at least 30 days before your leave starts. Your manager and the Total Rewards team will get notified after you submit your leave. Please note, even though we have a "no ask, must tell" Parental Leave Policy, some countries require extra paperwork or notifications to a PEO so it's important that the Total Rewards team is aware of your leave at least 30 days before your leave starts.
 
 Will I get a confirmation that Total Rewards received my Parental Leave request?
-* Total Rewards won't send you an email or any kind of notification unless we require further information or documents from you (as some entities require further paperwork).
+* Yes, Total Rewards will send you an e-mail within 48 hours confirming that they've been notified of your Parental Leave dates. 
 
 Can I speak to someone about my Parental Leave?
 * You are more than welcome to send an e-mail to Total Rewards if you have any questions about taking Parental Leave. You may also send us an e-mail to schedule a 1:1 call with Total Rewards if you need any support regarding Parental Leave.
@@ -269,10 +269,10 @@ Is there anything else that I need to know to initiate my Parental Leave?
 **Process for Total Rewards Analysts**
   * PTO Ninja will notify Total Rewards of any upcoming parental leave.
   * Log and monitor upcoming parental leave in the "Parental Leave Log" Google sheet on the drive.
-  * Notify payroll.
+  * Notify the team member that the parental leave request was received by sending the confirmation e-mail. 
+  * Notify payroll - add the start date and end date on the payroll changes file, under the appropriate pay cycle date.
   * Update the BambooHR Employment Status of the team member to "Parental Leave" with the start date of the leave.
   * Add another entry with the date the team member will return from leave with the status "End of Parental Leave". This will generate a notification to the Total Rewards team 1 day before the team member returns from leave.
-  * Once BambooHR notification is received:
-    * Change "End of Parental Leave" status to "Active" and in the comment section, add "Return from leave".
-    * Update payroll of the team's return date.
-  * If a team member changes the date of their parental leave, update payroll and the BambooHR Employment Status table.
+  * Confirm the team member's return by sending the return to work e-mail. 
+  * If the dates in PTO Ninja remain the same, update the team member's BambooHR status to "Active" upon the team member's return.
+  * If the dates in PTO Ninja change, update payroll and the BambooHR status accordingly.
