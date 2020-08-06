@@ -203,7 +203,7 @@ A contractor requests a modification to their contract due to a name change/comp
 
 * The People Operations Specialist should log the requested change in BambooHR in the `Contracts & Changes`
 section of the employee's profile
-* The People Operations Specialist should draft the new contract using the appropriate template in the [Employment and Contractor Agreements](/handbook/people-group/contracts-and-international-expansion/#employee-contractor-agreements) section. ***Please remember to always make a copy of the template before editing.***
+* The People Operations Specialist should draft the new contract using the appropriate template in the [Employment and Contractor Agreements](/handbook/people-group/contracts-and-international-expansion/#employment-and-contractor-agreements) section. ***Please remember to always make a copy of the template before editing.***
 
 _Important: Employment contracts cannot be backdated. If a team member requests to backdate a contract for invoicing purposes, an addendum should be added to the contract stating: "As the Contractor has not invoiced GitLab for payment since their start date on `contractor start date`, GitLab will pay the Contractor for this period of time in accordance with the Contractor’s base compensation". The start date on the new contract should always reflect the date the contract is staged for signatures._
 
