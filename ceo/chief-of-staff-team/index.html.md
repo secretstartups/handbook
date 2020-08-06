@@ -233,7 +233,12 @@ The Chief of Staff may occasionally have a Chief of Staff Shadow, a GitLab team 
 
 ## Sample list of things
 1. Apples
+1. Bears
 1. Bananas
+1. Giraffess
 1. Oranges
+1. Zebras
 1. Dragon fruit
+1. Elephants
 1. Potatoes
+1. Lions
