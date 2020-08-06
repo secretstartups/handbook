@@ -72,11 +72,27 @@ For those new to CI, these links may be helpful in learning more about the produ
 
 ### Planning
 
-**Weekly** the team meets to discuss issues with the `workflow::planning breakdown` label. Each engineer generally grooms one issue per week and prepares ahead of time to present their findings to the team.  This discussion is focused on how we plan to address the issues which are prioritized for the upcoming milestone.  Issues may need to be broken down if they are too large for a milestone, or further research may be necessary, but each member of the team should be familiar enough with the issue to begin working on it.  The goal of this meeting is to ensure that issues are well documented and appropriately weighted.  
+#### Async Issue Refinement 
 
-Once the issue is groomed and weighted engineers move it into `workflow::scheduling` column.  
+Issues are refined and weighted prior to scheduling them to an upcoming milestone. Weighting also helps with capacity planning with respect to how issues are scheduled in future milestones. We are currently iterating on our async refinement and weighting process.
 
-**Weekly** the Product Manager and Engineering Manager discuss which issues are highest priority from the list of `workflow::scheduling` issues.  The Product Manager then applies the `VerifyP1` label to the top issues and the Engineering Manager applies the `workflow::ready for development` label when the team has capacity to begin working on them.  In addition to Product prioritized issues, the team will select tech debt issues that we plan to deliver during the milestone.
+Issues may need to be broken down if they are too large for a milestone, or further research may be necessary, so subsequent issues or epics can be created.
+
+#### Weighting Issues
+
+We add a `Weight` to issues as a way to estimate the effort to complete an issue. We factor in complexity and any additional coordination needed to work on an issue.  We weight issues based on complexity, following the fibonacci sequence:
+
+| Weight | Description  |
+| --- | --- | --- |
+| 1: Trivial | The problem is very well understood, no extra investigation is required, the exact solution is already known and just needs to be implemented, no surprises are expected, and no coordination with other teams or people is required.<br><br>Examples are documentation updates, simple regressions, and other bugs that have already been investigated and discussed and can be fixed with a few lines of code, or technical debt that we know exactly how to address, but just haven't found time for yet. |
+| 2: Small | The problem is well understood and a solution is outlined, but a little bit of extra investigation will probably still be required to realize the solution. Few surprises are expected, if any, and no coordination with other teams or people is required.<br><br>Examples are simple features, like a new API endpoint to expose existing data or functionality, or regular bugs or performance issues where some investigation has already taken place. |
+| 3: Medium | Features that are well understood and relatively straightforward. A solution will be outlined, and most edge cases will be considered, but some extra investigation will be required to realize the solution. Some surprises are expected, and coordination with other teams or people may be required.<br><br>Bugs that are relatively poorly understood and may not yet have a suggested solution. Significant investigation will definitely be required, but the expectation is that once the problem is found, a solution should be relatively straightforward.<br><br>Examples are regular features, potentially with a backend and frontend component, or most bugs or performance issues. |
+| 5: Large | Features that are well understood, but known to be hard. A solution will be outlined, and major edge cases will be considered, but extra investigation will definitely be required to realize the solution. Many surprises are expected, and coordination with other teams or people is likely required.<br><br>Bugs that are very poorly understood, and will not have a suggested solution. Significant investigation will be required, and once the problem is found, a solution may not be straightforward.<br><br>Examples are large features with a backend and frontend component, or bugs or performance issues that have seen some initial investigation but have not yet been reproduced or otherwise "figured out". |
+
+ We typically do not weigh an issue more than a 5, as we try to split up issues greater than 5.
+
+We follow the same weighting system that the `Create` stage uses. see the [handbook page of `Create:Source Code` group as an example](https://about.gitlab.com/handbook/engineering/development/dev/create-source-code-be/#weights).
+
 
 ### Release Plans
 
