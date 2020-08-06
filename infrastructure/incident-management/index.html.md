@@ -297,6 +297,8 @@ In order to effectively track specific metrics and have a single pane of glass f
 ### Labeling
 The following labels are used to track the incident lifecyle from active incident to completed incident review. [Label Source](https://gitlab.com/gitlab-com/gl-infra/production/-/labels?utf8=%E2%9C%93&subscribed=&search=Incident%3A%3A)
 
+In order to help with attribution, we also label each incident with a scoped label for the Infrastructure Service (Service::) and Group (group::) scoped labels.
+
 | **Label** | **Workflow State** |
 | ---------- | -------------- |
 | `~Incident::Active` | Indicates that the incident labeled is active and ongoing. |
