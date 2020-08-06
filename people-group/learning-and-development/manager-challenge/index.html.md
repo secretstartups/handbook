@@ -116,7 +116,7 @@ During week four we will discuss **Developing High Performing Teams**. Informati
 1. **What skills will I be building?**
      - You will be building a range of skills that include: coaching, managing underperformance, crucial conversations, feedback, building an inclusive culture, developing high performing teams, getting to know your team and much more!  
 1. **How does this complement our values?**
-     - All of the challenges will reinforce our values by applying management techniques to lead others in a remote environment. Leadership is an area that does not get trained enough and all of the material will be backed by our values.  
+     - All of the challenges will reinforce our values by applying management techniques to lead others in a remote environment. In the weekly charts above, each day or topic will have a [values competency](/handbook/competencies/#values-competencies) that you can expect to improve upon. 
 1. **Is the content in the slides in the Handbook?**
      - Yes! All of the content will be in the Handbook. We are creating Google Slides to visualize the content for the challenges but all of it will live in the handbook. 
 1. **What if I can’t attend a Live Learning session or complete a challenge?**
