@@ -14,7 +14,7 @@ category: Legal
 
 As of March 2019, the Abuse Team has taken ownership of DMCA Requests.
 
-Read more about the Abuse Workflow here: [Abuse DMCA Request](/handbook/engineering/security/dmca-removal-requests.html).
+Read more about the Abuse Workflow here: [Abuse DMCA Request](/handbook/engineering/security/operations/abuse/dmca-removal-requests.html).
 
 ## Submitting a DMCA Request
 
