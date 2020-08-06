@@ -295,7 +295,7 @@ Procurement operates with three main goals
 3.  Compliance
 
 ## Procurement Performance Indicators
-Effective August 1, 2020. Process of measurement in progress.
+Process of measurement in progress.
 
 **Response times to initial requests for review <= 2 business days**
 - Monthly average response time to new procurement purchase request issues within 2 business days. Issues with missing or incomplete information will be rejected after two consecutive attempts to follow up with the issue creator.
@@ -308,9 +308,6 @@ Effective August 1, 2020. Process of measurement in progress.
 
 **Ensure all fully executed vendor contracts are posted to ContractWorks = 100%**
 * Upload all fully executed agreement to ContractWorks for accurate recording. Legal team will assign terms and fields.
-
-**Negotiation Cycle Average Days <= 45 days**
-* Average number of days on a quarterly basis for the Negotiation phase. This is identified by time spent in the "Procurement::Negotiation" or "Procurement::Vendr" label. 
 
 **'Turn-Around' times <= 3 business days**
 * Monthly average response times within purchase request issues for proposal updates, commercial constructs, procurement questions, etc.
