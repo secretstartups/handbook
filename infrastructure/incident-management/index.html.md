@@ -119,6 +119,7 @@ In some cases, we may choose not to post to status.io, the following are example
 1. They evaluate information provided by team members, lend technical direction, and coordinate troubleshooting efforts.
 1. If applicable, coordinate the incident response with [business contingency activities](/handbook/business-ops/gitlab-business-continuity-plan.html).
 1. After the incident is resolved, the IMOC is responsible for conducting the [post-incident review](/handbook/engineering/infrastructure/incident-review).
+1. In the case of high severity bugs that affect a customer, the IMOC will also be responsible for making sure Incident Reviews are coordinated with Engineering and go through the proper Incident Review process.
 
 To page the Incident Manager on call you can:
 
@@ -169,7 +170,7 @@ If you are a GitLab team member and would like to report a possible incident rel
 
 #### Report an Incident via Slack
 
-Type `/incident declare` in the [`#production`](https://gitlab.slack.com/archives/C101F3796) channel in GitLab's Slack and follow the prompts (detailed description and screenshot below). This will open an incident issue and notify the engineer on-call (EOC).
+Type `/incident declare` in the [`#production`](https://gitlab.slack.com/archives/C101F3796) channel in GitLab's Slack and follow the prompts (detailed description and screenshot below). This will open an incident issue and notify the engineer on-call (EOC).  You do not need to decide if the problem is an incident.  We have triage steps below to make sure we respond appropriately.  Reporting high severity bugs via this process is the preferred path so that we can make sure we engage the appropriate engineering teams as needed.
 
 ![Incident Declaration Slack window](incident-declare-slack.png)<br/>*Incident Declaration Slack window*
 
@@ -184,7 +185,6 @@ Type `/incident declare` in the [`#production`](https://gitlab.slack.com/archive
 #### Report an Incident via Email
 
 Email [gitlab-production-eoc@gitlab.pagerduty.com](mailto:gitlab-production-eoc@gitlab.pagerduty.com). This will immediately page the Engineer On Call.
-
 
 
 ### Definition of Outage vs Degraded vs Disruption
@@ -227,6 +227,9 @@ A Partial Service Disruption is when only part of the GitLab.com services or inf
 1. high severity bugs affecting a particular feature like Merge Requests
 1. Abuse or degradation on 1 gitaly node affecting a subset of git repos.  This would be visible on the Gitaly service metrics
 
+#### High Severity Bugs
+
+In the case of high severity bugs, we prefer that and incident issue is still created via [Reporting an Incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident).  This will give us an incident issue on which to track the events and response.
 
 ### Security Incidents
 
