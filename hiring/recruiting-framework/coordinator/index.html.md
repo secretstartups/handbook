@@ -119,10 +119,12 @@ Our hiring process includes an **optional** step where candidates can request to
 When a candidate requests to meet with an TMRG team member, their Candidate Experience Specialist will do the following:
 1. Share a message in the respective TMRG Slack channel. To aide with scheduling, the message will include the candidate’s time zone and a request for volunteers who would be willing to speak to that person for a 25-minute Zoom call. 
    - Below are the slack channels you can ask for volunteers in  
-      - "fill in with complete list from rupert/candace"
-      - "fill in with complete list from rupert/candace"
-      - "fill in with complete list from rupert/candace"
-      - "fill in with complete list from rupert/candace"
+      - #lgbtq
+      - #women
+      - #minoritiesintech
+      - #diverse_ability
+      - #gender-minorities-employee-resource-group
+      - 	#generational_understanding
 
 1. Once a volunteer has been found the Candidate Experience Specialist will send the candidate the 'TMRG Opportunity' email template. The CES will need to get the TMRG members’ Calendly link and GitLab team page profile.
 
