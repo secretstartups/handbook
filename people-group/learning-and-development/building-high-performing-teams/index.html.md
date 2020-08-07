@@ -236,6 +236,15 @@ Who does what, when, and where? There is clarity so that the team can take off a
 - How does the team communicate and coordinate with each other?
 - How does the team measure performance?
 
+<details>
+  <summary markdown='span'>
+    Stage 5 Diagram
+  </summary>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQHyiwrGiRz4vkQXYdaAnUO21M88rV4f1qustr8Ln4NdDFaSuR4sFwb9R_Jdiqty_5MQEf-SgKnz2bY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</details>
+
 **Stage 5 Manager Tasks:**
 1. Document and communicate Handbook first operating procedures.
 2. Document and communicate team metrics and targets. 
