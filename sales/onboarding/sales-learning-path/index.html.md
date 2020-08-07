@@ -240,7 +240,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 ### 11. GitLab Customer Support Team
 
 - **Review the GitLab Customer Support Documentation (Material - Handbook - 5 minutes)**
-  - GitLab Support Team provides technical support to GitLab.com and Self-Managed GitLab customers. The Support Team Handbook is the central repository for why and how we work the way we do. To learn more, check out the [Handbook](/handbook/support/).
+  - The GitLab Support Team provides technical support to GitLab.com and Self-Managed GitLab customers. The Support Team Handbook is the central repository that explains our work processes and the reasons behind them. To learn more, check out the [Handbook](/handbook/support/).
 - **Review the following workflows in the GitLab Customer Support Documentation (Material - Handbook - 15 minutes)**
   - Read the [Working with GitLab Support](https://about.gitlab.com/handbook/support/internal-support/) page as it details how to get in touch with us for common requests requiring Support involvement.
       - The [Support Tickets & Customer Information](https://about.gitlab.com/handbook/support/internal-support/#support-tickets--customer-information) and the [Common Requests](https://about.gitlab.com/handbook/support/internal-support/#common-requests) sections have a list of workflows that you might frequently encounter.
