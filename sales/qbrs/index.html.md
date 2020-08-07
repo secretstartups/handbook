@@ -79,6 +79,7 @@ QBRs include account teams, leadership, and delegates from across the business:
    1. Field Enablement
    1. Finance
    1. People Group
+   1. Field Recruiting Team
 1. Field executives (VP+) will participate in these sessions when possible
 
 ## QBR Best Practices
