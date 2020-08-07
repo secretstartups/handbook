@@ -255,17 +255,6 @@ cc Your department MPM to let them know epic and related issue have been created
      - Share the planning sheet for team members to add their contact and travel information.
      - Instruction everyone to book travel and lodging ASAP.
      - The planning sheet is used to track all details for travel, meeting setting, booth duty, speaker list, networking events, PR, etc.
-
-### Step 6- DRI Event Admin Tasks
-1. Add the event to Events Cal and [Events Page](/events/). 
-     - How to [add an event to the events page](#how-to-add-events-to-aboutgitlabcomevents).
-1. Start an [event DRI issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=corporate-event-request#)  and start checking off the necessary tasks. Some things to note as you go through process in template:
-     - Start an event specific slack channel.
-     - Once team member staffing has been selected invite them to the channel in addition to other Field Marketing or Alliance team members that will be involved.
-     - Do not link anything but the Epic in the slack channel.
-     - Share the planning sheet for team members to add their contact and travel information.
-     - Instruction everyone to book travel and lodging ASAP.
-     - The planning sheet is used to track all details for travel, meeting setting, booth duty, speaker list, networking events, PR, etc.
 1. If the event needs a speaker, start an issue with the `Speaker Request` issue template. 
 1. If a customer speaker is required for this event, assign the `Speaker Request` to your regional [Customer Reference lead](/handbook/marketing/product-marketing/customer-reference-program/#which-customer-reference-team-member-should-i-contact). The Customer Reference lead will work with the Event Managers and the Sales team in identifying and engaging with customers to speak at events. 
 1. Landing Pages for Events ([detailed instructions]())
