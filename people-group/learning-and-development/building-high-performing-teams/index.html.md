@@ -357,3 +357,5 @@ The Drexler-Sibbet Team Performance Model is an excellent tool to building and m
 - Read:[What Google Learned From Building the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - NYTimes
 - Watch: [How Google Builds the Perfect Team](https://www.youtube.com/watch?v=v2PaZ8Nl2T4) - Tech Insider
 - Watch: [What Makes the Highest Performing Teams in the World](https://www.youtube.com/watch?v=zP9jpxitfb4) - Simon Sinek 
+
+The SSOT for the slides on this page can be found in the [High Performance Teams folder](https://drive.google.com/drive/search?q=title:%22high%20performance%20teams%22).
