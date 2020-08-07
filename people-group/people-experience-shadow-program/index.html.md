@@ -19,13 +19,13 @@ The Shadow program is currently scheduled over a 2 - 3 week period.
 
 ### Topics:
 
-Onboarding
-Offboarding
-Transitions
-Probation Period
-General Queries (Slack and by email)
-Anniversary gifts 
-Every day gifts and flowers
+- Onboarding
+- Offboarding
+- Career Mobility
+- Probation Period
+- General Queries (Slack and by email)
+- Anniversary gifts 
+- Every day gifts and flowers
 
 ### Shadow Program Process
 
@@ -37,3 +37,10 @@ Every day gifts and flowers
 - Ensure that you are subscribed to the #PeopleOps & #pea-team Slack channel.
 1. On the start date, the People Experience team will create the [PEA Shadow Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/people_experience_team_shadow.md) and assign to the respective team member.  
 1. At the end of the Shadow program, the People Experience team and Shadower are to provide feedback on the process and each others particpation in the program to ensure the success and continous growth within the roles. 
+
+### Previous Shadow Program Joiners
+
+- Catarina Ferreira (https://gitlab.com/cferreira1)
+- Kike Adio (https://gitlab.com/Kikeadio) 
+
+Any new shadowers are encouraged to connect with previous participants in the program for insights and guidance. 
