@@ -10,6 +10,38 @@ description: Information on the support GitLab is offering in relation to COVID-
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Team Member and Manager Support During COVID
+
+With the continued uncertainty of COVID 19 and the lack of visibility on how things will progress throughout the remainder of 2020 and into 2021 we wanted to offer additional guidance for how we continue to support our team members, managers and the GitLab business. Knowing that there is not a one size solution that fits all team members we are looking at what can we do collectively to ensure that communication, collaboration, engagement, performance and overall team member well-being is being addressed as we navigate these ever changing and challenging times.  We are a family and friends first company however we do also have a business to run so this section is to offer recommendations, suggestions, guidelines and best practices for all team members and managers.
+
+### Manager Guidelines/Best Practices
+
+Managers should always be checking in with their team members to determine how they are doing from a personal perspective not just from a task/role perspective.  If a manager is aware that a team member is struggling to balance work and home priorities they should reach out and schedule time with the team member to understand the concerns and work through potential options to help.  Ask the team member to do a [self evaluation](/handbook/total-rewards/benefits/covid-19/index.html#self-evaluation) of what is possible and explore different proposals for their working schedule.  Once the team member has completed a [self evaluation](/handbook/total-rewards/benefits/covid-19/index.html#self-evaluation) and you have identified options, reach out to your [aligned People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) to discuss the best option that works for the team member that also aligns to local labor regulations. Furthermore as a manager it's important to help prioritise work if your team member has reduced availability. As a manager ask yourself: What things are highest priority? What things might be a low priority? What can temporarily be removed of the responsibilities if at reduced capacity? Document the expectations you've set with the team member and iterate as the situation might be changing.  
+
+### Team Member Guidelines/Best Practices
+
+We want to acknowledge that many of our team members are now juggling various roles trying to balance full-time work, full-time parenting, full-time educating, full-time caregiving for an elderly parent, relatives, neighbors, or friends, etc.  These activities have blended into our daily lives and these very challenging times can create additional stress and burden for team members.  
+
+If team members are feeling overwhelmed, stressed, unable to keep a normal work schedule and/or work full-time, they can reference the content below to help facilitate a discussion and develop a plan that works for all involved. 
+
+#### Self-Evaluation
+
+This is important and may be a hard thing for team members to undertake.  However, it is a critical step in the process of identifying and developing what a true working plan will look like to help you navigate the work life balance challenges.  It is ok to take a look at your current situation and identify what is working, what isn't working, what could work better and what would a successful working schedule look like during this time.  Once you have done your self evaluation set up time to discuss with your manager or [People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) (PBP) regarding the support needed. Here are some examples, though not an exhaustive list of potential  work schedule alternatives.
+
+- Team member is able to start their day earlier than normal, have a long mid-day break to manage their home situation and continue working until later the day to manage their responsibilities/acheive the same results. 
+- Team member is unable to work in the start of their day, but instead starts work later and finishes later to manage their results/responsibilities. 
+- Team member is able to shift the days they work due to additional support at home and works for example a flexible schedule of Wednesday-Sunday, Sunday to Thursday or Saturday to Wednesday.
+- Team member is unable to work full-time due to home priorities, but is able to commit to a a reduced schedule. *(Note: There may be options based on local laws where a team member can go to a reduce work schedule and pay)*
+- Team member is unable to work and would like to request a [leave of absence](https://about.gitlab.com/handbook/paid-time-off/#unpaid-leave-of-absence).  Eligibility and details for leaves of absenses will vary based on local laws. 
+
+**Here is a [COVID-19 Impact Self-Evaluation](https://docs.google.com/document/d/10gxjLqW62jZF5ksp9AhEsIoNpm093IlxgfqhzfisvZE/edit#heading=h.5ahg1o4v53q7) template that you can optionally use to help guide your conversations.**
+
+### Communication
+
+Communication and collaboration is key to any relationship, particularly the working relationship.  Set up time with your manager to review your [self evaluation](/handbook/total-rewards/benefits/covid-19/index.html#self-evaluation) and talk through your different proposed schedule and work options.  Once you and your manager have agreed upon a proposed schedule/working agreement, reach out to your aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) to review and come to a finalized working agreement.  Please note we know there is not a one size fits all for every team member.  However, with the right communication and collaboration we can ensure that team members needs are being supported as well as meeting GitLab goals.
+
+We want to make sure that team members are doing the things necessary to take care of themselves. Please review the [https://about.gitlab.com/handbook/total-rewards/benefits/covid-19/#resources-for-covid-19](COVID-19 resources) content in the handbook and reach out to the [Employee Assistance Program: Modern Health](https://about.gitlab.com/handbook/total-rewards/benefits/modern-health/) as you see fit. We also want to encourage team members to continue to utilize our [PTO policy](/handbook/paid-time-off/) and take time off as needed.  We recognize that most team member's travel and vacation plans have altered dramatically during COVID, but a ["staycation"](https://www.merriam-webster.com/dictionary/staycation) and logging off from work is still strongly encouraged. Just work with your manager to make sure the appropriate coverage is available.
+
 
 ## COVID-19 Medical Leave Policy
 
