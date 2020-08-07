@@ -123,7 +123,7 @@ There are 4 "types" of CTAs, which will have different corresponding playbooks, 
   * Create Success Plan
   * Customer Offboarding
   * [Executive Business Review (EBR)](/handbook/customer-success/tam/ebr/#how-to-prepare-an-ebr)
-  * [New Customer Onboarding](https://about.gitlab.com/handbook/customer-success/tam/onboarding/)
+  * [New Customer Onboarding](/handbook/customer-success/tam/onboarding/)
   * Usage Data Enablement
 * Activity
   * [Handoff](/handbook/customer-success/tam/account-handoff/#account-handoff-cta)
