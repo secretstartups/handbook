@@ -18,11 +18,12 @@ For each [executive](/company/team/structure/#executives) — and some departmen
 1. Understand month-to-month variances.
 1. Understand performance against the plan, forecast and operating model.
 1. Ensure there is tight connection between OKRs and KPIs.
+1. Ensure that progress against OKRs is understood.
 
 ## Key Metrics
 
 1. [KPIs](/handbook/ceo/kpis/) of that function or department.
-1. [OKRs](/company/okrs/) that are assigned to that function.
+1. [OKRs](/company/okrs/) for that function.
 
 ## Timing
 
@@ -70,6 +71,7 @@ Some teams leverage Sisense's existing automation functionality to prepare Googl
 Important notes:
 1. Before every key meeting, the [OKR page](/company/okrs/) for the quarter should be updated with the current status of the KRs.
 1. A document will be linked from the calendar invite for participants to log questions or comments for discussion and to any additional track decisions & action items.
+1. Every department KPI should be covered. This can be in the presentation and/or links to the handbook.
 1. Wherever possible, the KPI or KR being reviewed should be compared to Plan, Target, or industry benchmark.
 1. There is no presentation; the meeting is purely Q&A. Of course, people can ask to talk them through a slide. If you want to present, please [post a YouTube video](/handbook/marketing/marketing-operations/youtube/) like [Todd did](https://www.youtube.com/watch?v=hpyR39y_1d0) and link that from the slide deck, agenda, and/or Slack.
 1. The functional owner is responsible for preparing the document 24 hours in advance of the meeting. The owner should update the meeting invite, send it to all guests so they know the materials are ready for review and, if possible, post the document in the #key-meetings channel.
@@ -81,6 +83,8 @@ honor](/handbook/communication/#first-post-is-a-badge-of-honor).
 
 ### Recordings
 To view a recording of a key meeting, visit the playlist on YouTube Unfiltered titled [Key Meetings](https://www.youtube.com/playlist?list=PL05JrBw4t0KrlBfo0IBmV0BwJcPN59swi). If you are unable to view a video, please ensure you are logged in as [GitLab Unfiltered](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube). 
+
+Key Meeting recording links should be shared in the #key-meetings Slack channel by the functional department EBA within 24 hours of a Key Meeting being completed.
 
 ### Automated KPI Slides
 
@@ -138,3 +142,14 @@ The executive summary section can help consumers of the information understand w
 The difficulty in using performance indicator pages for Key Meetings is for groups who have a signficant number of Performance Indicators that [cannot be public](/handbook/communication/#not-public). 
 For folks looking to consume this information quickly, having to 2FA into Sisense to see the information can be frustrating. 
 For functions or departments for which this is true, it is recommended to use a different key meeting format. 
+
+### OKR Slides
+
+OKR slides should: 
+- Recap top department OKRs and KRs
+- Link to the department epics
+- Share completion status and provide a health score
+- Flag key achievements
+- Highlight risks or dependencies in need of discussion
+
+At the end of each meeting, all atendees should be able to clearly answer what we are trying to achieve and whether we are on track. The key meeting immediately following the close of quarter should address not only new OKRs but also provide a recap of what we have achieved in the previous quarter.
