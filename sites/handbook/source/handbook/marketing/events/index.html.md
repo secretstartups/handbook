@@ -35,8 +35,10 @@ Travel guidance on COVID-19 can be [found here](https://about.gitlab.com/handboo
 * In the event of a Force Majeure impact on the performance of either party, then the parties are immediately relieved of obligation to perform.  From notice to supplier, GitLab is relieved of the payment obligation.  As soon as is practical, but not more than sixty (60) days from GitLab’s notice to supplier, GitLab shall receive from supplier a pro-rata refund of, any fees previously paid, from the date of notice to supplier to the end of the term."
 
 ## Which events is GitLab already sponsoring?
-* Internal tracking of events, please add our [Events and Sponsorship Calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9laWN2b3VkcHBjdTQ3bG5xdTFwOTlvNjU2Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to your calendar.
+* Internal tracking of in person events, please add our [Events and Sponsorship Calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9laWN2b3VkcHBjdTQ3bG5xdTFwOTlvNjU2Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to your calendar.
+* Internal tracking of virtual events [can be found here](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#gitlab-virtual-events-calendar). 
 * External facing event tracker can be found at [https://about.gitlab.com/events/](/events/)
+
 
 ## Interested in attending an event we are already sponsoring?
 * If your primary interest in the event is attending sessions and networking with folks at the conference, you should likely attend said event as a training opportunity rather than as part of our official event sponsorship. Next steps for you would be to get your manager's approval to book. Send them your requested budget for travel and the event ticket to get approval. We suggest a budget of $300-$500 a day depending on the location. Once you have your manager's approval, you can book a pass and expense. 
