@@ -111,12 +111,12 @@ If a group of team members, Department or Division so choose, they are welcome t
 
 ### Travel
 
-1. For travel to other team members please see our [visiting grant](/handbook/incentives/#visiting-grant).
+1. For travel to other team members please see our [visiting grant](https://www1.oanda.com/currency/converter/).
 1. If you are taller than 1.95m or 6'5", you can upgrade to Economy Plus. There is no dollar restriction on this since it will be hard to fit in economy with that height.
 1. For flights longer than 8 hours, you can expense:
-   * Up to the first [$300 USD](/handbook/total-rewards/compensation/#exchange-rates) for an upgrade to Business Class on flights longer than 8 hours if you are taller than 1.95m or 6'5".
-    * Up to the first [$100 USD](/handbook/total-rewards/compensation/#exchange-rates) for an upgrade to Economy Plus (no height restriction) on flights longer than 8 hours.
-1. GitLab does not cover expenses for Significant others or family members for travel or immigration. This includes travel and visas for GitLab events.
+   * Up to the first [$300 USD](https://www1.oanda.com/currency/converter/) for an upgrade to Business Class on flights longer than 8 hours if you are taller than 1.95m or 6'5".
+    * Up to the first [$100 USD](https://www1.oanda.com/currency/converter/) for an upgrade to Economy Plus (no height restriction) on flights longer than 8 hours.
+1. GitLab does not cover expenses for significant others or family members for travel or immigration. This includes travel and visas for GitLab events.
 	* There are other things that [the company will not reimburse](/handbook/finance/accounting/#8-employee-reimbursements---expensify), such as dog boarding.
 
 For additional Company Travel related questions, please refer to our [Travel Handbook](/handbook/travel/#booking-travel-through-tripactions-) regarding booking travel through TripActions.
@@ -124,7 +124,7 @@ For additional Company Travel related questions, please refer to our [Travel Han
 ### Spend reduction
 
 When reducing spend, we'll not take the easy route of (temporarily) reducing discretionary spending.
-Discretionary spending includes expenses like travel, conferences, gifts, bonuses, merit pay increases and summits.
+Discretionary spending includes expenses like travel, conferences, gifts, bonuses, merit pay increases and Contributes.
 By reducing in these areas we put ourselves at risk of [increasing voluntary turnover among the people we need most](https://steveblank.com/2009/12/21/the-elves-leave-middle-earth-–-soda’s-are-no-longer-free/).
 Discretionary spending is always subject to questioning, we are frugal and all spending needs to contribute to our goals.
 But we should not make cuts in reaction to the need to reduce spend; that would create a mediocre company with mediocre team members.
@@ -236,8 +236,6 @@ Team members in France, Italy, and Spain must submit their expenses through:
 1. For coworking space rental, and office supply and computer equipment purchases, please have your Gitlab entity printed on the receipt / invoice so that the amount can be deducted for tax purposes. Please ask your manager or in the #expense-reporting-inquires channel in Slack if you are unsure which entity you belong to.
 1. All team members most submit their expense reports in their designated policies in Expensify - COGS team members in COGS policies and non-COGS team members in non-COGS policies.
 
-For further information on Expenses, including spend limits, examples for setting up your home office, and other reimburseable expenses, visit the [Expenses handbook section](/handbook/finance/expenses/). 
-
 ## Team Member Expense Temporary Advances
 
 These instructions apply if a team member is unable to purchase required items, for whatever reason.
@@ -251,12 +249,12 @@ These instructions apply if a team member is unable to purchase required items, 
 ## Approving Expense Reports
 
 1. All expense reports are approved by the team members direct manager or their designated approver when they are out of the office.
-1. 
+1. It is expected that the expense report approver will perform a complete review to ensure the reasonableness and accuracy of the submitted expenses.
 1. Expensify will send a notification email to the designated approver when a team member submits an expense report.
     * Click on the report name in the body of the email
     * Review each expense for the correct amount of the receipt and the report
     * Check for customers or project name if applicable under Tag
-    * We required a receipt for any expense greater than $25 (except for Billable policy)
+    * We required a receipt for any expense greater than a $5 cash purchase (except for Billable policy)
     * Select [Approve and Forward] option and Expensify pre-populated the email address.  Note, Expensify is updating their coding to address a small glitch in this field.  If it is empty, please send it to **Montpac** (gitlab-expensify-mp@montpac.com)
     * **Important** - please do not use [Final Approval] because Expensify will not send the email notification for payment approval and it will delay the reimbursement process
     * Manager can delegate the approval process during PTO:
@@ -275,15 +273,15 @@ Slack channel
 ## Non-reimbursable Expenses:
 
 Examples of things we have not reimbursed:
-1. Costume for end of summit party.
-1. Boarding expense for dog while traveling.
+1. Costume for the party at the end of Contribute.
+1. Boarding expense for animals while traveling.
 1. Headphones costing $800 which were found to be in excess of our standard equipment guidelines.
 1. Batteries for smoke detector.
 1. Meals during the Contribute when team members opt out of the company provided meal option.
 1. Cellphones and accessories.
-1. Travel related expenses for family members of GitLab employees
-1. Fitness equipments (treadmill, etc..) and gym membership
-1. Meals from the co-working day(s)
+1. Travel related expenses for family members of GitLab employees.
+1. Fitness equipments (treadmill, etc..) and gym membership.
+1. Meals from co-working day(s).
 
 In accordance with [Reimbursable Expense guidelines](/handbook/finance/accounting/#reimbursable-expenses), independent contractors should note which expenses are Contribute related on their invoices, prior to submitting to the company.
 
