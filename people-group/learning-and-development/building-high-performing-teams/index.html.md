@@ -111,6 +111,15 @@ Who are you? Team members share a mutual regard - the climate is positive, peopl
 - What are other team member's interpersonal needs and communication styles?
 - Do team members have hidden agendas?
 
+<details>
+  <summary markdown='span'>
+    Stage 2 Diagram
+  </summary>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS4KKzsmn1vHTssMByK4ZEy_TX0Rq9Q7b583rqxFGpwszceQmkx0kBqz5Y-qyxcpIRIZcO0T4WqQ1xs/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</details>
+
 **Stage 2 Manager Tasks:**
 1. Have each team member share where they see themselves in one to five years
 2. Conduct a group assessment (e.g. Myers Brigg, Gallup StrengthsFinder, [Social Styles](https://about.gitlab.com/handbook/people-group/learning-and-development/emotional-intelligence/social-styles/)) 
