@@ -51,7 +51,6 @@ See the [Technical Account Manager role description](/job-families/sales/technic
 
 A Technical Account Manager is an advocate for both the customer and GitLab. They act on behalf of customers serving as a feedback channel to development and shaping of the product. In good balance, they also advocate on behalf of GitLab to champion capabilities and features that will improve quality, increase efficiency and realize new value for our customer base.
 
-### Values
 
 #### Management
 
@@ -65,7 +64,7 @@ Technical Account Managers help to bring GitLab to all aspects of your company, 
 
 Technical Account Managers make sure that the adoption of GitLab is successful at your company through planning, implementation, adoption, training and regular healthchecks.
 
-### Responsibilities and Services
+## Responsibilities and Services
 
 [Customers who meet certain criteria are aligned with a Technical Account Manager](/handbook/customer-success/tam/services/#responsibilities-and-services), which differs between Commercial and Enterprise.
 
@@ -80,7 +79,49 @@ Technical Account Managers are responsible for managing a portfolio of customer 
 
 The team is working on efficiency initiatives to increase the contracts under management per TAM, targeting $5M for FY22.
 
-#### Relationship Management
+### Book of Business Prioritization
+
+On the Gainsight Attributes section, the TAM can set the priority level per customer with levels 1-3, with 1 being the highest. Definitions include:
+
+
+
+1. High Touch: TAM-led onboarding, regular cadence calls, full TAM-led customer lifecycle
+
+1. Medium Touch: TAM-led onboarding, quarterly check-ins, renewal touch point
+
+1. Digital Touch: No direct TAM involvement, onboarding and enablement driven by email-led digital journey
+
+
+
+Why do we use a prioritization system?
+
+
+
+* Use in SALSATAM meetings to ensure team alignment
+
+* Managers have more visibility into the potential workload of the team member via more context on the makeup of the overall portfolio
+
+* TAMs have more insight into their portfolio and where they should be spending their time
+
+* TAMs can run associated campaigns of education to low touch or less engaged customers or strategic (high touch) customers to be automatically invited to Customer Advisory Boards or events
+
+* Used to further segment customers, beyond the [Sales Segmentation](/handbook/business-ops/resources/#segmentation)
+
+
+
+Criteria to apply includes:
+
+* Future account growth
+
+* Size of the account 
+
+* Risk / health of account
+
+
+
+The `TAM Portfolio` Dashboard is used to help highlight and review each client, including their priority level.
+
+## Relationship Management
 
 - Regular [cadence calls](/handbook/customer-success/tam/cadence-calls)
 - Regular open issue reviews and issue escalations
@@ -92,24 +133,24 @@ The team is working on efficiency initiatives to increase the contracts under ma
 - Help GitLab's customers realize the value of their investment in GitLab
 - GitLab Days
 
-#### Training
+## Training
 
 - Identification of pain points and training required
-- Coordination of demo sessions, potentially delivered by the Technical Account Manager if time and technical knowledge allows
+- Coordination of demo sessions, potentially delivered by the Technical Account Manager or Solution Architect if time and technical knowledge allows
 - "Brown Bag" sessions
 - Regular communication and updates on GitLab features
 - Product and feature guidance - new feature presentations
 
-#### Support
+## Support
 
-- Upgrade planning
+- Upgrade planning assistance in conjunction with Support
 - User adoption strategy
-- Migration strategy and planning
+- Migration strategy and planning in conjunction with Support
 - Launch support
 - Monitors support tickets and ensures that the customer receives the appropriate support levels
 - Support ticket escalations
 
-#### TAM Tools
+## TAM Tools
 The following articulates where collaboration and customer management is owned: 
 1. [**Account Management Projects**](https://gitlab.com/gitlab-com/account-management):  Shared project between GitLab team members and customer. Used to prioritize/plan work with customer. 
 1. [**Google Drive**](https://drive.google.com/drive/u/0/folders/0B-ytP5bMib9Ta25aSi13Q25GY1U): Internal. Used to capture call notes and other customer related documents. 
