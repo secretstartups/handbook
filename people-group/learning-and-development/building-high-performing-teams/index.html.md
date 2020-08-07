@@ -275,6 +275,15 @@ The team accomplishes more than it is expected to. The team has taken off and cr
 - How do team members best use the resources of the team?
 - How does the team support one another? 
 
+<details>
+  <summary markdown='span'>
+    Stage 6 Diagram
+  </summary>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS1k7OWgt3Q2W935Jjo-szu0XfloSWdNL9kFYahvmpFYkd5gH_kRmSGbVaV0iU80bpdrptPYfo6mT7d/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</details>
+
 **Stage 6 Manager Tasks:**
 1. Define what high performance would like for your team. Hold a quarterly retrospective.  
     Ask:
