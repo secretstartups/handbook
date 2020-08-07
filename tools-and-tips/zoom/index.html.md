@@ -251,7 +251,7 @@ If you have only one monitor, it is still possible using the following steps:
 1. Position the windows any way you need to see the presentation and speaker notes.
 1. Make sure to change slides using the presenter view pop up window.
    This will advance the presentation for your viewers as well as advancing your speaker notes.
-1. Make sure the minimum font size of text is large enough so that it can easily be read by those who are farsighted.
+1. Make sure the minimum font size of text is large enough so that it can easily be read by everyone.
 
 If you would like to practice presenting, you can do so using your own private Zoom room.
 
