@@ -199,7 +199,7 @@ graph TD;
 1. Bonus comments: 1-sentence justification that details how the team demonstrated one or more of our [values](/handbook/values) in this specific instance.
 1. Comments for the approvers: leave empty
 1. Submit the bonus requests to your manager for approval.
-1. Once approved, you must copy and paste the justification and url into the GitLab Slack channel [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K) to recognize the teams outstanding efforts (once the team has been communicated to 1:1). Be sure to @ the people in teh team that's receiving the bonus as well so they're notified of the posting. Remember, a discretionary bonus is for recognition so make sure to take this final step.
+1. Once approved, you must copy and paste the justification and url into the GitLab Slack channel [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K) to recognize the teams outstanding efforts (once the team has been communicated to 1:1). Be sure to @ the people in the team that's receiving the bonus as well so they're notified of the posting. Remember, a discretionary bonus is for recognition so make sure to take this final step.
 
 **Approval Process:**
 
