@@ -76,7 +76,7 @@ Why am I here? Team needs to move from complete freedom to a set of “boundarie
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRHRyishV7cc9k78hA7coEyYw0udvNBIWOgZZtMCxmzwPBPU_0_7b6BizAxH_1qocAZHhGhyWxuOcCt/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-[Slide deck](https://drive.google.com/drive/search?q=title:%22Orientation_High%20Perf%20Teams%22)
+<a href="https://drive.google.com/drive/search?q=title:%22Orientation_High%20Perf%20Teams%22">Slide deck</a>
 
 </details>
 
@@ -94,7 +94,7 @@ Why am I here? Team needs to move from complete freedom to a set of “boundarie
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSiNEAtjZlzmTqNCNCrN81l2lTEg-VpRgVNC2UGyyprbjwcng_f4UDI3MstrgEkfU3NY-q9qJUy0BT0/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-[Slide deck](https://drive.google.com/drive/search?q=title:%22Orientation%20-%20Managers_High%20Perf%20Teams%22)
+<a href="https://drive.google.com/drive/search?q=title:%22Orientation%20-%20Managers_High%20Perf%20Teams%22">Slide deck</a>
 
 </details>
 
@@ -122,7 +122,7 @@ Who are you? Team members share a mutual regard - the climate is positive, peopl
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS4KKzsmn1vHTssMByK4ZEy_TX0Rq9Q7b583rqxFGpwszceQmkx0kBqz5Y-qyxcpIRIZcO0T4WqQ1xs/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-[Slide deck](https://drive.google.com/drive/search?q=title:%22Trust%20Building_High%20Perf%20Teams%22)
+<a href="https://drive.google.com/drive/search?q=title:%22Trust%20Building_High%20Perf%20Teams%22">Slide deck</a>
 
 </details>
 
@@ -141,7 +141,7 @@ Who are you? Team members share a mutual regard - the climate is positive, peopl
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSoGJa_PQsyQsbSEuxjhCY9DZYANXuvBbFssuCD4YQF9XRiXdCr6p3p5BSTmbiYTlmxB22IhhUUcj4m/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-[Slide deck](https://drive.google.com/drive/search?q=title:%22Trust%20Building%20-%20Managers_High%20Perf%20Teams%22)
+<a href="https://drive.google.com/drive/search?q=title:%22Trust%20Building%20-%20Managers_High%20Perf%20Teams%22">Slide deck</a>
 
 </details>
 
@@ -168,7 +168,7 @@ What are we doing? Explicit assumptions are made clear; individual assumptions a
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSHbN4joN6UXpghlX7KuYCWgdYCX7UYbJZCaAR98QiyKnuIJ-Z_Y57qVJXomung7cldjutrcJpcv7Br/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-[Slide deck](https://drive.google.com/drive/search?q=title:%22Goal%20Clarification_High%20Perf%20Teams%22)
+<a href="https://drive.google.com/drive/search?q=title:%22Goal%20Clarification_High%20Perf%20Teams%22">Slide deck</a>
 
 </details>
 
@@ -185,7 +185,7 @@ What are we doing? Explicit assumptions are made clear; individual assumptions a
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRdRJCDIBaMfYAzX11xyscYyu4MF3reMLWB4QSKif03jHMPezzowURkh7eO3yOwblDl3ommdvexOkEp/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-[Slide deck](https://drive.google.com/drive/search?q=title:%22Goal%20Clarification%20-%20Managers_High%20Perf%20Teams%22)
+<a href="https://drive.google.com/drive/search?q=title:%22Goal%20Clarification%20-%20Managers_High%20Perf%20Teams%22">Slide deck</a>
 
 </details>
 
@@ -213,7 +213,7 @@ How will we do it? The team manages its resources well to make use of what they 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSW8aXikDfG42nJ0_vaWxjwGA8sDrEEdqYwn4UiRCcYrOsv3K3v0kbMc-pamaFvAO7Tb62Zi2fgYq7l/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-[Slide deck](https://drive.google.com/drive/search?q=title:%22Commitment_High%20Perf%20Teams%22)
+<a href="https://drive.google.com/drive/search?q=title:%22Commitment_High%20Perf%20Teams%22">Slide deck</a>
 
 </details>
 
@@ -230,7 +230,7 @@ How will we do it? The team manages its resources well to make use of what they 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRESLJzmObFFF13i2-EZ-cscPLHSBPxcYxfkdIGpD5pow9TVmh_kKOdBEhAJErsmQsB8SaxnZdZbhf8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-[Slide deck](https://drive.google.com/drive/search?q=title:%22Commitment%20-%20Managers_High%20Perf%20Teams%22)
+<a href="https://drive.google.com/drive/search?q=title:%22Commitment%20-%20Managers_High%20Perf%20Teams%22">Slide deck</a>
 
 </details>
 
@@ -259,7 +259,7 @@ Who does what, when, and where? There is clarity so that the team can take off a
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQHyiwrGiRz4vkQXYdaAnUO21M88rV4f1qustr8Ln4NdDFaSuR4sFwb9R_Jdiqty_5MQEf-SgKnz2bY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-[Slide deck](https://drive.google.com/drive/search?q=title:%22Implementation_High%20Perf%20Teams%22)
+<a href="https://drive.google.com/drive/search?q=title:%22Implementation_High%20Perf%20Teams%22">Slide deck</a>
 
 </details>
 
@@ -277,7 +277,7 @@ Who does what, when, and where? There is clarity so that the team can take off a
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRj-kIQiYnJ0ZKARqjqJE1S8xoxSK69dC0rWn3V_TECHxsCQXTGeyrjCSjQKr1oLYiUdd5B1W0Q0HA6/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-[Slide deck](https://drive.google.com/drive/search?q=title:%22Implementation%20-%20Managers_High%20Perf%20Teams%22)
+<a href="https://drive.google.com/drive/search?q=title:%22Implementation%20-%20Managers_High%20Perf%20Teams%22">Slide deck</a>
 
 </details>
 
@@ -302,7 +302,7 @@ The team accomplishes more than it is expected to. The team has taken off and cr
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS1k7OWgt3Q2W935Jjo-szu0XfloSWdNL9kFYahvmpFYkd5gH_kRmSGbVaV0iU80bpdrptPYfo6mT7d/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-[Slide deck](https://drive.google.com/drive/search?q=title:%22High%20Performance_High%20Perf%20Teams%22)
+<a href="https://drive.google.com/drive/search?q=title:%22High%20Performance_High%20Perf%20Teams%22">Slide deck</a>
 
 </details>
 
@@ -324,7 +324,7 @@ The team accomplishes more than it is expected to. The team has taken off and cr
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSL8PmCyN_31MexAx77plo1kJb_wmoflExh0RNuW4i81K53Q8DmS2Ma54JISzkppziruRaW-_Jt4qZl/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-[Slide deck](https://drive.google.com/drive/search?q=title:%22High%20Performance%20-%20Managers_High%20Perf%20Teams%22)
+<a href="https://drive.google.com/drive/search?q=title:%22High%20Performance%20-%20Managers_High%20Perf%20Teams%22">Slide deck</a>
 
 </details>
 
@@ -354,7 +354,7 @@ Why continue? It is time to give recognition to or celebrate the achievement of 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTUNWT85oFiaZTQTzXnMRE8Epl17ZF6LZzfJt-27Wuwkni5kXDk-Li8CALqNE-icH0DMJocbVBZVujD/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-[Slide deck](https://drive.google.com/drive/search?q=title:%22Renewal_High%20Perf%20Teams%22)
+<a href="https://drive.google.com/drive/search?q=title:%22Renewal_High%20Perf%20Teams%22">Slide deck</a>
 
 </details>
 
@@ -373,7 +373,7 @@ Why continue? It is time to give recognition to or celebrate the achievement of 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS26y0FVQMmnsTinXpaUp0GnZePcnRGZ-e_OoYKflYcqyOTcaagWLAkfFDGLpC4RSoluFr9ZMiV70vp/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-[Slide deck](https://drive.google.com/drive/search?q=title:%22Renewal%20-%20Managers_High%20Perf%20Teams%22)
+<a href="https://drive.google.com/drive/search?q=title:%22Renewal%20-%20Managers_High%20Perf%20Teams%22">Slide deck</a>
 
 </details>
 
