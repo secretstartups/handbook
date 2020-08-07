@@ -94,7 +94,7 @@ If you'd like, you can toggle the "Scrolling" button at the top of any 360 to en
 
 ### CTAs
 
-A [CTA](https://support.gainsight.com/SFDC_Edition/Cockpit_and_Playbooks/About/01_CTAs_Tasks_and_Playbooks_Overview) is a call to action that is tied to a customer and populates a TAM's cockpit. CTAs can be created manually at any time, but most of them will automatically be created for you based on certain events or data.
+A [CTA](https://support.gainsight.com/SFDC_Edition/Cockpit_and_Playbooks/About/01_CTAs_Tasks_and_Playbooks_Overview) is a call to action that is tied to a customer and appears in a TAM's cockpit, as well as the account cockpit. CTAs can be created manually at any time, but some will automatically be created for you based on certain events or data.
 
 To create a new CTA, go to your cockpit and click "+ CTA", then fill out the appropriate information. If a CTA will consist of multiple tasks over a period of time, click CTA after saving it, then click the three dots on the top right of the new right sidebar, and click "Add Task". You can add as many as needed and track your progress in the milestone section.
 
