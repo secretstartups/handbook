@@ -33,8 +33,6 @@ We fetch some other data besides the region as well:
 
 This data is used to populate the email that we then send to them. The email address used to send the email is `onboarding@domain` and is set with a `reply-to: people-exp@domain` as nobody monitors replies to `onboarding@`. The email address is strictly used for automation.
 
-Currently this email automation is in test mode. This means that instead of sending it to the incoming team member, the email is send to the People Operations Engineer.
-
 ### Values-check in Email
 This is the [email](/handbook/people-group/values-check-in/) that is send to our team members after 6 or 8 weeks (depending on probation) of employment.
 
