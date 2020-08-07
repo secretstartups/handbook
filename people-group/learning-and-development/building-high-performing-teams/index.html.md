@@ -168,6 +168,15 @@ What are we doing? Explicit assumptions are made clear; individual assumptions a
 2. Collectively develop team goals in support of the mission and vision. Make sure the goals are SMART (specific, measurable, attainable, realistic, time-sensitive). Document the goals and periodically assess. 
 3. During 1:1s, discuss how the individual team member’s performance ties to the team goals. Ask the team member for their assessment of how their contributions tie to the team.  
 
+<details>
+  <summary markdown='span'>
+    Stage 3 Manager Tasks Diagram
+  </summary>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRdRJCDIBaMfYAzX11xyscYyu4MF3reMLWB4QSKif03jHMPezzowURkh7eO3yOwblDl3ommdvexOkEp/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</details>
+
 ### Stage 4 Commitment - How will we do it?
 
 How will we do it? The team manages its resources well to make use of what they have to do the job. The team needs to understand how it will make decisions; how much control and influence are shared.
