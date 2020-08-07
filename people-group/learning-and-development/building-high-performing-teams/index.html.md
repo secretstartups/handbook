@@ -323,6 +323,15 @@ Why continue? It is time to give recognition to or celebrate the achievement of 
 - What changes can the team anticipate? How is the team preparing for them?
 - How can the team continue to improve performance? 
 
+<details>
+  <summary markdown='span'>
+    Stage 7 Diagram
+  </summary>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTUNWT85oFiaZTQTzXnMRE8Epl17ZF6LZzfJt-27Wuwkni5kXDk-Li8CALqNE-icH0DMJocbVBZVujD/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</details>
+
 **Stage 7 Manager Tasks:**
 1. Quarterly conduct a meeting and have each team member come with at least one idea on how the team can improve its performance. Discuss the ideas as a team and vote to identify at least one idea for implementation. 
 2. Conduct development discussions with each individual regularly. Inquire about their level of engagement. Ask them what else they would like to learn and explore how those developmental opportunities can be integrated into the role. 
