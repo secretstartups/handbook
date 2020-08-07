@@ -153,6 +153,15 @@ What are we doing? Explicit assumptions are made clear; individual assumptions a
 - What assumptions are we making about our mission and our work?
 - Exactly what are we to do? 
 
+<details>
+  <summary markdown='span'>
+    Stage 3 Diagram
+  </summary>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSHbN4joN6UXpghlX7KuYCWgdYCX7UYbJZCaAR98QiyKnuIJ-Z_Y57qVJXomung7cldjutrcJpcv7Br/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</details>
+
 **Stage 3 Manager Tasks:**
 
 1. Collectively set a team vision that inspires the team members
