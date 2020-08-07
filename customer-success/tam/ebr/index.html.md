@@ -35,7 +35,7 @@ EBRs typically consist of the following content, but this list is only a guideli
 
 ## How to prepare an EBR
 
-The first step is to have a [CTA in Gainsight](https://about.gitlab.com/handbook/customer-success/tam/gainsight/#ctas). The EBR CTA should automatically open 6 months into the subscription, but if you want to create an EBR at a different time, please open a new CTA with the "EBR" playbook. The CTA is where you will track completion of tasks necessary for a successful EBR.
+The first step is to have a [CTA in Gainsight](/handbook/customer-success/tam/gainsight/#ctas). The EBR CTA should automatically open 6 months into the subscription, but if you want to create an EBR at a different time, please open a new CTA with the "EBR" playbook. The CTA is where you will track completion of tasks necessary for a successful EBR.
 
 Please view our [EBR Playbook](https://docs.google.com/spreadsheets/d/1nGjXMaeAFWEOGdsm2DPW-yZEIelG4sy46pX9PbX4a78/edit#gid=0) (internal to GitLab) for more details on how to propose, prepare, and present an EBR. This also includes a link to [EBR sell sheets](https://drive.google.com/drive/folders/1MYIIEqOZ_lskuVUt4S-lkz1HR79ZbDjj?usp=sharing) which TAMs can copy and edit to send to their customers to help demonstrate what the customer will get out of the EBR, as well as an "[EBR in a Box](https://docs.google.com/presentation/d/1V3wzIZ9j6pVUbXpSeJgA_Lk-97C7_vr8NUJWk4J0__s/edit?usp=sharing)" presentation which contains several pointers on the logistics of preparing, such as a suggested timeline, how to prepare, and tips on presenting.
 
