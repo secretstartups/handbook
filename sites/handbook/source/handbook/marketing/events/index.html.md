@@ -139,7 +139,7 @@ We ask these questions and use this scorecard to ensure that we're prioritizing 
 3. When event budget is approved by Finance, **Event Owner** verifies that the tag on the event and finance issue are accurate and match. 
 4. MPM will use the **exact `campaign tag`** as the SFDC Campaign and Marketo Program name so it is the unique identifier across all systems. 
 
-**NOTE:** All events under the employee [authorization matrix](/handbook/finance/authorization-matrix/#authorization-matrix) approval threshold **AND** No contract or security review required can skip step 4- contracting process. 
+##### **NOTE:** All events under the employee [authorization matrix](/handbook/finance/authorization-matrix/#authorization-matrix) approval threshold **AND** No contract or security review required can skip step 4- contracting process. 
 
 ### Step 4- Contract Process
 #### All events OVER the employee [authorization matrix](/handbook/finance/authorization-matrix/#authorization-matrix) approval threshold **AND** Contract or Security review required
