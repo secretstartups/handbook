@@ -249,12 +249,15 @@ To create the contract:
 1. Offer is made by the recruiter per the [hiring process](/handbook/hiring).
 1. The Candidate Experience Specialist emails the new team member the Contract Info Request - CXC from GreenHouse.
     -Click “Email CANDIDATE NAME”
-    -Select “Contract info-CXC” from dropdown.
+    -Select “Contract Info Request-CXC” from dropdown.
     -CC Recruiter
     -Click “Send Email”
-1. The Candidate Experience Specialist will generate the CXC form out of GreenHouse.
+1. The Candidate Experience Specailist will check if there is a probationary period.
+    - Go to [Probationary Periods for Team Members Employed by a PEO](https://about.gitlab.com/handbook/people-group/contracts-and-international-expansion/#probation-periods-of-team-members-employed-through-a-peo) and check the candidate's country.
+    - Enter the duration of the probationary period (if any) in the "Offer Details". If there isn't one, put "None" in that field.
+1. Once the additional information is received, The Candidate Experience Specialist will generate the PEO form out of GreenHouse.
     -Click “Generate”
-    -Select “CXC Global Template” from the dropdown
+    -Select “PEO New Hire Template” from the dropdown
     -Click “Generate”
 1. The Candidate Experience Specialist will stage the form for their own signature via DocuSign, the new team member and the appropriate CXC contact. Contact details can be found in 1password => People Operations Vault => Entity & Co-employer HR Contacts.
 1. The Candidate Experience Specialist should add the candidate to the [PEO Tracking Sheet](https://docs.google.com/spreadsheets/d/1gSOVTJ1Yv-YsSaliJwKVf-1H0vBZXxb5NWFiqCwT-uo/edit#gid=0) and keep track of communication between GitLab.
@@ -283,28 +286,23 @@ To create the contract:
    - From the GreenHouse profile, under tools, click to email the new team member
    - From the template drop down list select: Contract Info Request - Safeguard
    - Send Email
-1. When the new team member provides the necessary details the Candidate Experience Specialist will save the required forms of ID, update GreenHouse offer details and generates the Safeguard form out of GreenHouse.
+1. The Candidate Experience Specailist will check if there is a probationary period.
+    - Go to [Probationary Periods for Team Members Employed by a PEO](https://about.gitlab.com/handbook/people-group/contracts-and-international-expansion/#probation-periods-of-team-members-employed-through-a-peo) and check the candidate's country.
+    - Enter the duration of the probationary period (if any) in the "Offer Details". If there isn't one, put "None" in that field.
+1. When the new team member provides the necessary details, the Candidate Experience Specialist will update GreenHouse offer details and generate the PEO form out of GreenHouse.
    - Offer Details
    - Update
-   - Work Authorization ID
    - Nationality
-   - Country of Citizenship
-   - Level of Role
-   - Position Category
-   - Travel Percentage
    - Save
    - Navigate to Offer Documents
    - Generate
    - Click in the white space below Select templates
-   - Select Safeguard - Template from the drop down list
+   - Select PEO New Hire Template from the drop down list
    - Generate
    - Send with DocuSign
    - Template: Offer through DocuSign - Safeguard
    - To User: yourself
    - Add our single point of contact at Safeguard and the global email address to the list of CC email addresses. If they are not populating automatically you can find their contact details in 1password => People Operations Vault => Entity & Co-employer HR Contacts.
-   - Attachments: Choose Files
-   - Select the saved forms of ID file
-   - Open
    - Preview on DocuSign
    - Select the new team member's name in the upper left hand corner
    - Edit Recipients
@@ -326,15 +324,18 @@ To create the contract:
 1. The CES will adjust the 'Accepted' date to match the 'Sent' date.
 1. The Candidate Experience Specialist will now [mark the candidate as hired](/handbook/hiring/recruiting-framework/coordinator/#send-contract)[](see steps 10-12).
 
-## Preparing Employment Agreements for GitLab team-members in India
+## Preparing Employment Agreements for GitLab team-members in India- Global Upside
 
 GitLab is working in partnership with [Global Upside](https://globalupside.com) for employing GitLab team-members located in India. The process for creating and sending an agreement is as follows:
 
 1. The Offer is made by the recruiter per the [hiring process](/handbook/hiring).
-1. CES sends “Global Upside-Information Request” email to the new hire to collect additional details.
+1. CES sends “Contract Info Request-Global Upside (India)” email to the new hire to collect additional details.
+1. The Candidate Experience Specailist will check if there is a probationary period.
+    - Go to [Probationary Periods for Team Members Employed by a PEO](https://about.gitlab.com/handbook/people-group/contracts-and-international-expansion/#probation-periods-of-team-members-employed-through-a-peo) and check the candidate's country.
+    - Enter the duration of the probationary period (if any) in the "Offer Details". If there isn't one, put "None" in that field.
 1. Once additional details are obtained, update the offer details to reflect all information. The CES should be the signatory.
-1. Generate “Global Upside-India Template” in Offer Documents to Send through DocuSign
-1. Choose template *Offer through DocuSign -GU India SOW*
+1. Generate “PEO New Hire Template” in Offer Documents to Send through DocuSign
+1. Choose template *Offer through DocuSign -Global Upside (India)*
     -To User, Self (CES)
     -Sign and complete
 1. Download the completed Statement of Work in PDF form to upload it into Egnyte.
