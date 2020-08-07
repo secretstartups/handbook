@@ -123,6 +123,7 @@ These are changes with high impact or high risk. If a change is going to cause d
 1. Changes of major vendor - CDN, mail, DNS
 1. Major version upgrades of tooling (HAProxy, Chef)
 1. Creating and applying custom builds from binaries is generally not recommended, and it is only allowed through Criticality 1 guidelines.
+1. Architectural or tooling changes to alerting infrastructure.
 
 #### Approval
 
@@ -144,6 +145,7 @@ These are changes that are not expected to cause downtime, but which still carry
 1. IaC changes to cattle / quantity when there is a decrease
 1. Minor version upgrades of tools or components (HAProxy)
 1. Removing old hosts from IaC (like removals of legacy infrastructure)
+1. Changes to alerting routing or integrations. 
 
 #### Approval
 
