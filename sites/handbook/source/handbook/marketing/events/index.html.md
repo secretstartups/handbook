@@ -159,11 +159,11 @@ We ask these questions and use this scorecard to ensure that we're prioritizing 
      - The MPM will create the event Epic, adding the checklist of related issues that need to be opened by respective team and high level information.
      - The MPM will also associate any issues opened for the event to the Epic.
 
-### Step 5- Contract Completed/ Epic Creation- Corporate Event DRI
-1. For **Corporate Event DRI**,When contract has been signed the DRI will being event epic creation process. 
+### Step 5- Contract Completed- Corporate Event DRI
+1. For **Corporate Event DRI**,When contract has been signed the DRI will being event **epic creation process**. 
      - Below is the tactical process DRIs take to organize actions and timelines for field and corporate events. This process was created by MPM's to keep projects organized and on track. 
 
-#### Step 1: DRI creates the event epic
+#### Step A: DRI creates the event epic
 * DRI creates epic for the event.
 * Naming convention: [Event Name] - [3-letter Month] [Date], [Year]
 * DRI copy/pastes epic template below into the epic description.
@@ -226,7 +226,7 @@ cc Your department MPM to let them know epic and related issue have been created
 
 ```
 
-#### Step 2: Templates to create the necessary issues listed above and add to epic
+#### Step B: Templates to create the necessary issues listed above and add to epic
 
 * Using the relevant issue templates MPMs and MOps create issues in proper project and then link from the epic.
   * [Follow up email](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-04-follow-up-email)
