@@ -128,6 +128,15 @@ Who are you? Team members share a mutual regard - the climate is positive, peopl
 5. Establish team ground rules and communication protocol
 6. Review the model with the team quarterly and track progress
 
+<details>
+  <summary markdown='span'>
+    Stage 2 Manager Tasks Diagram
+  </summary>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSoGJa_PQsyQsbSEuxjhCY9DZYANXuvBbFssuCD4YQF9XRiXdCr6p3p5BSTmbiYTlmxB22IhhUUcj4m/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</details>
+
 ### Stage 3 Goal Clarification - What are we doing?
 
 What are we doing? Explicit assumptions are made clear; individual assumptions are made known. A clear vision of the end state and what the team is working towards. 
