@@ -45,5 +45,12 @@ The engineering manager assigned in the issue should make the actual purchase in
 
 #### 4. Add the commitment to CUD commitments [master spreadsheet](https://docs.google.com/spreadsheets/d/1qwsrRidYsYgoEIbCA6VDhdZW_P6ljeYcLMcja2bhCtc)
 
-#### 5. Follow-Up
+#### 5. Reservation Configuration
+Reservations for specific node type are configured in our
+[gitlab-com-infrastructure terraform
+repository](https://ops.gitlab.net/gitlab-com/gitlab-com-infrastructure/-/blob/master/environments/gprd/gcp-reservations.tf).
+This must be updated to ensure efficient utilization of our CUD's, along with
+the instance choice being used in our infrastructure.
+
+#### 6. Follow-Up
 If a team is planning on making a major change to their infrastructure that would affect the commit during the term, they should check with the infrastructure analyst to assess the impact first.
