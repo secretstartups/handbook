@@ -54,7 +54,7 @@ with them.
 
 ### Ask for help when needed
 
-Rest assured that escalation is okay, and that other GitLabbers are happy to help. The care of the customers is a shared responsibility. Tag the support team if you haven't started getting help in your Slack thread. Tag the support managers if you need to escalate further.
+Rest assured that escalation is okay, and that other GitLab team members are happy to help. The care of the customers is a shared responsibility. Tag the support team if you haven't started getting help in your Slack thread. Tag the support managers if you need to escalate further.
 
 If another support engineer joins your emergency call, feel free to assign them a role to divide up the labor. 
 
