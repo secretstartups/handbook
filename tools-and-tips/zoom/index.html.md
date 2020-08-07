@@ -251,6 +251,7 @@ If you have only one monitor, it is still possible using the following steps:
 1. Position the windows any way you need to see the presentation and speaker notes.
 1. Make sure to change slides using the presenter view pop up window.
    This will advance the presentation for your viewers as well as advancing your speaker notes.
+1. Make sure the minimum font size of text is 24 pt so that the text can easily be read by those who are farsighted.
 
 If you would like to practice presenting, you can do so using your own private Zoom room.
 
@@ -258,6 +259,12 @@ If you would like to practice presenting, you can do so using your own private Z
 1. Click `Record`.
 1. Repeat the steps above.
 1. Stop and watch the recording. You'll see what the participants would see.
+
+### Sharing your screen in Zoom
+
+Sharing a document is not recommended in Zoom.  Instead, participants can follow along in the document themselves.  The link to the document should be included in the meeting invite.
+
+If you share your screen (for a document despite above recomendation, for a web based application demo, for an ssh session, etc.) it is recommended that you increase the font size so that the text can easily be read by those who are farsighted.
 
 ### Using a phone to connect to audio
 
