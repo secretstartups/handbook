@@ -54,15 +54,14 @@ The event is a more than a month away.
 If your event fits the criteria above and you would like support from marketing, create an issue in the appropriate marketing project.
 
 * [**Community Relations**](https://gitlab.com/gitlab-com/marketing/community-relations/evangelist-program/general/issues/new?issuable_template=sponsorship-request)
-* [**Corporate Events**](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=Corporate-Event-Request)
+  * `For Corporate Event DRIs:` If you are the DRI for the event see below for "event execution" for next steps once you have opened and completed issue template. We are using Epics as the SSOT for the event over Meta Issues. 
+* [**Corporate Events**](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=Corporate-Event-Request) - use the "Event-Request" template
 * **Field Marketing**  
 `Please Note:` *These requests will be reviewed by the appropriate regional Field Marketing Manager. Even if the event is free or low-cost, all requests must be approved by Field Marketing prior to any commitment to ensure the event or tactic aligns to the marketing strategy, meets MQL objectives and Field Marketing can properly execute to maximize GitLab’s future success.*
   *  To suggest a Field Marketing event (in-person or virtual) or other tactic for review, please open an [`Event_Tactic_Request`](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=Event_Tactic_Request) issue and follow the instructions.
 
 
 Be sure you review the issue template and provide all necessary information that is asked of you in the issue. We especially need goals/ reason to attend. 
-
-`For Corporate Event DRIs:` If you are the DRI for the event and want to get started on planning for a specific event please use the [Corporate Event Template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=Corporate-Event-Request) and follow guide in template to get started on planning, budget request, and contracting. This needs to be completed before moving into contracting. See below for "event execution" for next steps once you have opened and completed issue template.
 
 
 ## How We Evaluate and Build Potential Events
@@ -81,7 +80,6 @@ All GitLab events must check at least drive two or more of the aims of our event
 {:.no_toc}
   * Audience minimum requirement of 3000+ attendees NA, 1500+ other territories and...
   * Audience demographic requirements. We consider the balance of roles represented (contributor, user, customer, potential hires), and the Global reach of the audience. Audience profile must be over 50% national/ global.
-
 
 ## Questions we ask ourselves when assessing an event:
 - How and where will this position us as a brand?
@@ -247,7 +245,7 @@ The purpose of creating a new issue for each ancillary event is to better facili
 
 ## MPM steps to set up event epic
 
-Below is the tactical process MPMs take to organize actions and timelines for field and corporate events. Please comment in the [#marketing_programs slack](https://gitlab.slack.com/messages/CCWUCP4MS) if you have any questions.
+Below is the tactical process DRIs take to organize actions and timelines for field and corporate events. This process was created by MPM's to keep projects organized and on track. Please comment in the [#marketing_programs slack](https://gitlab.slack.com/messages/CCWUCP4MS) if you have any questions.
 
 #### Step 1: The event issue (in the field marketing or corporate marketing repo) moves to Status:WIP
 * When the FMM/Corporate issue moves to WIP, all relevant details (loation, venue, time, date, etc.) **must** be included by the event organizer at the top of the issue.
@@ -255,7 +253,7 @@ Below is the tactical process MPMs take to organize actions and timelines for fi
 
 ⚠️ *If the FMM does not list the elements needed of the MPM in the issue, the MPM will not be able to move forward. Having this information up-front will minimize back-and-forth with MPM and let them take action appropriately and efficiently.
 
-#### Step 2: MPM creates the event epic
+#### Step 2: DRI creates the event epic
 * When "status:wip" is on the issue and necessary elements are documented, MPM creates epic for the event.
 * Naming convention: [Event Name] - [3-letter Month] [Date], [Year]
 * MPM copy/pastes code below into the epic
