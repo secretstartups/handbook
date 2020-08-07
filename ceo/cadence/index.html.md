@@ -117,7 +117,7 @@ gantt
 ## Week
 
 - [1-1 cadence with reports](/handbook/leadership/1-1/)
-- Measure growth of early startup, 10% WoW, [for example Meltano](https://meltano.com/docs/roadmap.html#maui)
+- [Measure growth of early startup, 10% WoW](https://about.gitlab.com/blog/2020/05/05/wow-rule/)
 - E-group call
 
 ## Month
