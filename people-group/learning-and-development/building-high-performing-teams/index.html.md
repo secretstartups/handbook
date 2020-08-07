@@ -295,6 +295,15 @@ The team accomplishes more than it is expected to. The team has taken off and cr
         - What else can we achieve and accomplish that would be added value to GitLab?
 3. Conduct team after-action reviews and debriefs. Reflect on what the team learned and what the team could have done differently. 
 
+<details>
+  <summary markdown='span'>
+    Stage 6 Manager Tasks Diagram
+  </summary>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSL8PmCyN_31MexAx77plo1kJb_wmoflExh0RNuW4i81K53Q8DmS2Ma54JISzkppziruRaW-_Jt4qZl/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</details>
+
 ### Stage 7 Renewal - Why Continue? 
 
 Why continue? It is time to give recognition to or celebrate the achievement of individuals that produce valuable work and provide results - take joy in what the team does. 
