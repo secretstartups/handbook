@@ -117,82 +117,155 @@ We ask these questions and use this scorecard to ensure that we're prioritizing 
 
 ## Event Execution
 
-### Step 1
+### Step 1- Issue Creation
 
-#### All events - Setting up the `Campaign Tag`
+#### All Events - New issue Creation
+1. **Event Owner** creates issue using the [Corporate Event Request Template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=corporate-event-request#) in the Corporate Marketing project. 
+1. Add as much information about the event as possible. For the event to move into contracting, we will specifically need to know the cost and ROI. 
+
+### Step 2- Campaign Tag Creation
+
+#### All events - Setting up the `Campaign Tag` 
+**NOTE**: Event owners are DRI to create/setup campaign names & tags!
 1. When **Event Owner** (DRI) begins campaign process, they will add the `campaign tag` (using proper `ISOdate_Name` format & within 31 character limit) into the associated budget line item. 
      1. `Campaign Tag` ISO date = **first** day of event (if multiday) - Example: AWS reInvent Dec 2-5, 2019, `Campaign Tag` = `20191202_AWS_re:Invent` this will also be applied to the SFDC Campaign name & Marketo Program name
      1. If budget line corresponds to one vendor and the vendor is known, they will add that information as well to make matching future invoices easier. 
-     1. We do not want to set this up too soon as it affects many systems - see [date change](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/#changes-to-offline-events-dates)
+     1. We do not want to set this up too soon as it affects many systems - see [date change](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/#changes-to-offline-events-dates) but it does need to be done when we go into contracting or before any money is spent toward said event. 
 
-**NOTE**: Event owners are DRI to create/setup campaign names & tags. MPMs are no longer responsible for creation but they are responsible for using them exactly in Marketo program & SFDC campaign creation.
+### Step 3 - Budget Tag Creation 
 
-### Step 2
-
-#### All events under the employee [authorization matrix](/handbook/finance/authorization-matrix/#authorization-matrix) approval threshold **AND** No contract or security review required
-1. **Event Owner** creates issue using the appropriate regional template with auto-applied `status::plan` label
-     - [Corporate Event](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=corporate-event-request#)- use the event request template
-1. **Event Owner** copy/paste the `campaign tag` form the budget document into template. 
+1. **Event Owner** copy/paste the `campaign tag` form the budget document into the request issue.
 2. **Event Owner** to ping the GL Accountant (@GGGONZALEZ) in the main event issue to request campaign tag be created in Netsuite.
-1. When ready, the **Event Owner** update **label** to `status::wip`, this is handoff where MPMs will create subsequent Epics/Issues. 
-1. MPM will use the **exact `campaign tag`** as the SFDC Campaign and Marketo Program name so it is the unique identifier across all systems. 
+3. When event budget is approved by Finance, **Event Owner** verifies that the tag on the event and finance issue are accurate and match. 
+4. MPM will use the **exact `campaign tag`** as the SFDC Campaign and Marketo Program name so it is the unique identifier across all systems. 
 
+**NOTE:** All events under the employee [authorization matrix](/handbook/finance/authorization-matrix/#authorization-matrix) approval threshold **AND** No contract or security review required can skip step 4- contracting process. 
+
+### Step 4- Contract Process
 #### All events OVER the employee [authorization matrix](/handbook/finance/authorization-matrix/#authorization-matrix) approval threshold **AND** Contract or Security review required
-1. **Event Owner** creates issue using the appropriate regional template with auto-applied `status::plan` label
-     - [Corporate Event](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=corporate-event-request#)
-1. **Event Owner (For Field Marketing, all finance issues are to be processed by the regional FMCs)** creates finance issue following the [Procure to Pay Process](/finance/procure-to-pay/) and includes the `campaign tag` from the budget document. 
-     - ROI calculation for event in the final cost section
-     - Add the finance issue as a *Related Issue* to the FM event issue for reference.
-1. When event budget is approved by Finance, **Event Owner** verifies that the tag on the event and finance issue are accurate and match. Change label in th main issue to `status::wip`. 
-  For Corp Events: close the issue request and go to Epic creation process- steps to set up event epic
-1. MPM will use the **exact `campaign tag`** as the SFDC Campaign and Marketo Program name so it is the unique identifier across all systems.
 
-### Ancillary Events
-If the overarching event includes a speaking session, workshop, dinner, and/or happy hour (anything that requires a separate SFDC campaign and list upload), please follow the steps below and abide by the SLA guide to give necessary time for work to be complete.
-
-**⏰ SLAs for YES/NO section to be filled out for an ancillary event before moving to WIP:**
-* **45 business days:** if the ancillary event will *require Marketo invitation*.
-* **20 business days:** if the ancillary event will only need tracking and follow up email.
-
-The purpose of creating a new issue for each ancillary event is to better facilitate the needs for each event, to clearly indicate the timelines, and to clarify the DRIs which may be different for the different events. For example, if there is a speaking session hosted by a GitLabber at a larger conference, and the speaker is planning to write the email copy after the event, the timeline and DRI would be different from the timeline and DRI for the general booth follow email.
-
-**Steps for Ancillary Events:**
-1. **DRI to create a new issue for each ancillary event** that corresponds to the main Field/Corporate Event (ex: Dinner + Date - Event Name as shown on the original issue) and assign it to event DRI & MPM DRI.
-    - For each ancillary event issue, fill out the MPM YES/NO checklist to communicate if there will be a landing page, invitation & reminder, and/or follow-up as part of the ancillary event.
-    - Note: All copy (both for the overall event and the ancillary events) is kept in a single copy doc and linked from the Event Epic
-    - Timeline and SLAs will follow existing agreement [FM/MPM](https://about.gitlab.com/handbook/marketing/events/#timelines-and-slas-between-field-marketing-and-marketing-programs), [Corp/MPM](https://about.gitlab.com/handbook/marketing/events/#timelines-and-slas-between-corporate-marketing-and-marketing-programs)
-2. **Marketing Program Manager will add the related necessary execution issues** as indicated by the YES/NO section in the issue. **This section must be complete before the issue moves to `status:wip`.** 
-    - Ex: Landing Page - Dinner + Date - Event name as shown on original issue)
-3. **Marketing Program Manager will add as a new line item for each ancillary event in the [Events googledoc](https://docs.google.com/spreadsheets/d/1mw16Ft0Wo379dT6OYingQ5A4xXTT1EjdpD6k-lgQync/edit#gid=0)**
-
-### Step 3
-1. If the event is approved to move forward to contracting and is on the budget sheet, the DRI will start finance issue for contract review and signature following the [Procure to Pay Process](/handbook/finance/procure-to-pay/). For Field Marketing, all finance issues are to be processed by the regional FMCs. The finance issue will include:
+1. If the event is approved to move forward to contracting,  is on the budget sheet, abd the campaign tags created, the DRI will start finance issue for contract review and signature following the [Procure to Pay Process](/handbook/finance/procure-to-pay/). The event DRI is in charge of the finance issue creation and ushering it along.  The finance issue will include:
      - ROI calculation for event in the final cost section.
      - Add the finance issue as a `Related issue` to the original issue for reference.
      - Add in any discounts or contract negotiations you have already completed.
-1. When contract has been signed the DRI will update issue label from `status:plan` to `status:wip`.
+     - **Link to main event issue.**
+2. DRI to complete all relevant steps in the contract issue and close it out. 
+
+### Step 5- Contract Completed- FMM
+1. For **FMM's**,When contract has been signed the DRI will update issue label from `status:plan` to `status:wip`.
      - At this point, all relevant details (loation, venue, time, date, etc.) must be included by the event organizer.
      - The designated MPM will begin the backend execution using this information. [see MPM steps to set up event epic](/handbook/marketing/events#mpm-steps-to-set-up-event-epic)
 - The designated MPM will begin the backend execution.
      - The MPM will create the event Epic, adding the checklist of related issues that need to be opened by respective team and high level information.
      - The MPM will also associate any issues opened for the event to the Epic.
-1. For **Corporate events**, the DRI must track the event budget. Budget template sheet can be fiund in the issue template. Please copy and rename using this naming convention- "ISOdate_CampaignShortName_Budget". The expectation is budget will be updated weekly/ accurate for your 1:1 with your manager.
+
+### Step 5- Contract Completed/ Epic Creation- Corporate Event DRI
+1. For **Corporate Event DRI**,When contract has been signed the DRI will being event epic creation process. 
+     - Below is the tactical process DRIs take to organize actions and timelines for field and corporate events. This process was created by MPM's to keep projects organized and on track. 
+
+#### Step 1: DRI creates the event epic
+* DRI creates epic for the event.
+* Naming convention: [Event Name] - [3-letter Month] [Date], [Year]
+* DRI copy/pastes epic template below into the epic description.
+* In "Issue Creation" section, DRI deletes any pieces that aren't necessary.
+* The DRI will also associate any issues opened for the event to the Epic. Link the Original *Field* or *Corporate* marketing issue (some may refer to this issue as "META")
+*  Booth number (should be included in Epic name)
+*  Any other high level informaiton that will be relevant to anyone attending
+
+NOTE: The Epic is the main hub for all event information. **All issue** associated with the Event **must** be linked to the Epic!
+
+```
+# Epic Template
+## Event Details
+  * `place details from the event issue here`
+  * [main salesforce campaign]()
+  * [main marketo program]()
+  * campaign utm `enter utm here` (Format: Campaign Tag, must be all lowercase, with no spaces, underscores, or special characters)
+  * Event Budget: 
+  * Event Goals: 
+  * [Add the planning sheet](https://docs.google.com/spreadsheets/d/1i2-CdlsvW2x98NvJJ1mLcVq6ymehaRqSu2ckkWiV5ko/edit#gid=812678489&range=A1)
+  * Link to event landing page:
+
+## [Copy for landing page and emails >>]() - [template](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit)
+
+## What will this event contain/require? - if "MAYBE" please indicate estimated date of decision.
+⚠️ **This section must be filled out by the FMM before the MPM creates the epic and related issues. [See handbook.](https://about.gitlab.com/handbook/marketing/marketing-sales-development/marketing-programs/#events-process-for-marketing-programs--marketing-ops)**
+* Follow up email via Marketo - YES/NO
+* Will the copy rely on content from the event? i.e. copy due 24 hours post-event (this will push out the send 2 business days). - YES/NO
+* Add event leads to nurture stream? - YES/NO (please specify nurture stream) [see nurture options here](https://about.gitlab.com/handbook/marketing/marketing-sales-development/marketing-programs/#top-funnel-nurture)
+* Landing page creation (requires promotion plan) - YES/NO
+* If yes for Landing page: Should this event be added to the [public events list](https://about.gitlab.com/events/) - YES/NO 
+* Will the landing page contain a form for meeting/demo requests - YES/NO (if YES, choose meeting/demo)
+* Invitation and reminder emails (requires promotion plan) - YES/NO
+* Will this event require sales-nominated workflow? - YES/NO
+* Speaking session - YES/NO/MAYBE
+* Workshop - YES/NO/MAYBE
+* Dinner - YES/NO/MAYBE
+* Party/Happy Hour - YES/NO/MAYBE
+* Alliances/Partner Marketing involved - YES/NO/MAYBE (if yes, must designate a DRI)
+* Will this event include use of Marketing Development Funds (MDFs)? YES/NO
+   * if yes, please tag Tina Sturgis here, and complete the section below
+        * [ ]  MDF request completed by FMM and sent to Tina at least 1 quarter out
+        * [ ]  event accepted for use of MDF (tag Tina here for her to approve)
+        * [ ]  receipt submitted post event
+        * [ ]  proof of payment submitted
+        * [ ]  leads submitted 
+
+## Issues to be created
+
+* [ ] [List clean and upload issue created](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) - MOps creates, assigned to event owner and MOps
+* [ ] [Follow up email issue created](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-04-follow-up-email) - MPM creates, assigned to event owner and MPM
+* [ ] [Add to nurture issue created](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-05-add-to-nurture) -(Optional) MPM creates, assigned to event owner and MPM
+* [ ] [Landing page issue created](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-02-landing-page) - (Optional) MPM creates, assigned to event owner and MPM
+* [ ] [Invitation and reminder issue created](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-03-invitations-reminder) - (Optional) MPM creates, assigned to event owner and MPM
+* [ ] [Target segment issue created](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=dma_request) - (Optional) MOps creates, assigned to event owner and MOps
+* [ ] [Onsite registration form & landing page](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-08-onsite-reg-form-lp) - (Optional) MPM creates, assigned to event owner and MPM
+
+cc @jburton to create list upload issue and DMA request as required
+cc Your department MPM to let them know epic and related issue have been created. 
+
+```
+
+#### Step 2: Templates to create the necessary issues listed above and add to epic
+
+* Using the relevant issue templates MPMs and MOps create issues in proper project and then link from the epic.
+  * [Follow up email](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-04-follow-up-email)
+  * [Landing page](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-02-landing-page)
+  * [Invitations & reminder](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-03-invitations-reminder)
+  * [Add to nurture](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-05-Add-to-Nurture)
+  * [List clean and upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list)
+  * [Target segment](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=dma_request)
+  * [Onsite registration form & landing page](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-08-onsite-reg-form-lp)
+* Naming convention: `[Issue naming convention] - [Event Name]`
+* During these issue creations, DUE DATE is required to be added by issue creator.
+* Issue creator associates all issues to the event epic.
+* **IF** there are ancillary events associated with the main event, the DRI will have created a separate event issue for each ancillary event. Each ancillary event will need it's own YES/NO checklist to create related necessary issues (ex: Landing Page - Happy Hour - Event Name). ONce created tag your MPM. MPM will add all issues and new program links (Marketo/SFDC) to the overall event Epic. 
+
+⚠️ Note: MOps is required to create their list clean and upload issue, and DMA list issue in their project with the proper template and associate back to the epic.
+
+☝️ *Tip: DRIs use [this document](https://docs.google.com/spreadsheets/d/1mw16Ft0Wo379dT6OYingQ5A4xXTT1EjdpD6k-lgQync/edit#gid=0) to auto-populate timelines / SLAs for events. They will add the event as a new row when it is created with a status of Plan, add the start and end date, and look at the resulting due dates for each action item.*
+
+### Step 6- DRI Event Admin Tasks
 1. Add the event to Events Cal and [Events Page](/events/). 
      - How to [add an event to the events page](#how-to-add-events-to-aboutgitlabcomevents).
-1. Start checking off the appropriate issue template. Some things to note as you go through process in template:
+1. Start an [event DRI issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=corporate-event-request#)  and start checking off the necessary tasks. Some things to note as you go through process in template:
      - Start an event specific slack channel.
      - Once team member staffing has been selected invite them to the channel in addition to other Field Marketing or Alliance team members that will be involved.
      - Do not link anything but the Epic in the slack channel.
      - Share the planning sheet for team members to add their contact and travel information.
      - Instruction everyone to book travel and lodging ASAP.
      - The planning sheet is used to track all details for travel, meeting setting, booth duty, speaker list, networking events, PR, etc.
-1. The Epic is the main hub for all event information. **All issue** associated with the Event **must** be linked to the Epic!
-     - Link the Original *Field* or *Corporate* marketing issue (some may refer to this issue as "META")
-     - [Add the planning sheet](https://docs.google.com/spreadsheets/d/1i2-CdlsvW2x98NvJJ1mLcVq6ymehaRqSu2ckkWiV5ko/edit#gid=812678489&range=A1)
-     - Link to event landing page
-     - Add high level booth hours
-     - Booth number (should be included in Epic name)
-     - Any other high level informaiton that will be relevant to anyone attending
+
+### Step 6- DRI Event Admin Tasks
+1. Add the event to Events Cal and [Events Page](/events/). 
+     - How to [add an event to the events page](#how-to-add-events-to-aboutgitlabcomevents).
+1. Start an [event DRI issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=corporate-event-request#)  and start checking off the necessary tasks. Some things to note as you go through process in template:
+     - Start an event specific slack channel.
+     - Once team member staffing has been selected invite them to the channel in addition to other Field Marketing or Alliance team members that will be involved.
+     - Do not link anything but the Epic in the slack channel.
+     - Share the planning sheet for team members to add their contact and travel information.
+     - Instruction everyone to book travel and lodging ASAP.
+     - The planning sheet is used to track all details for travel, meeting setting, booth duty, speaker list, networking events, PR, etc.
 1. If the event needs a speaker, start an issue with the `Speaker Request` issue template. 
 1. If a customer speaker is required for this event, assign the `Speaker Request` to your regional [Customer Reference lead](/handbook/marketing/product-marketing/customer-reference-program/#which-customer-reference-team-member-should-i-contact). The Customer Reference lead will work with the Event Managers and the Sales team in identifying and engaging with customers to speak at events. 
 1. Landing Pages for Events ([detailed instructions]())
@@ -244,7 +317,25 @@ The purpose of creating a new issue for each ancillary event is to better facili
      - If the event had multiple parts (booth, happy hour, meetings, etc) each will have its own Salesforce campaign and [Member status progressions](/handbook/marketing/marketing-operations/#campaign-type--progression-status).
      - Use template to standardize the data following the [list import guidelines](/handbook/business-ops/resources/#list-imports).
 
-## MPM steps to set up event epic
+### Ancillary Events
+If the overarching event includes a speaking session, workshop, dinner, and/or happy hour (anything that requires a separate SFDC campaign and list upload), please follow the steps below and abide by the SLA guide to give necessary time for work to be complete.
+
+**⏰ SLAs for YES/NO section to be filled out for an ancillary event before moving to WIP:**
+* **45 business days:** if the ancillary event will *require Marketo invitation*.
+* **20 business days:** if the ancillary event will only need tracking and follow up email.
+
+The purpose of creating a new issue for each ancillary event is to better facilitate the needs for each event, to clearly indicate the timelines, and to clarify the DRIs which may be different for the different events. For example, if there is a speaking session hosted by a GitLabber at a larger conference, and the speaker is planning to write the email copy after the event, the timeline and DRI would be different from the timeline and DRI for the general booth follow email.
+
+**Steps for Ancillary Events:**
+1. **DRI to create a new issue for each ancillary event** that corresponds to the main Field/Corporate Event (ex: Dinner + Date - Event Name as shown on the original issue) and assign it to event DRI & MPM DRI.
+    - For each ancillary event issue, fill out the MPM YES/NO checklist to communicate if there will be a landing page, invitation & reminder, and/or follow-up as part of the ancillary event.
+    - Note: All copy (both for the overall event and the ancillary events) is kept in a single copy doc and linked from the Event Epic
+    - Timeline and SLAs will follow existing agreement [FM/MPM](https://about.gitlab.com/handbook/marketing/events/#timelines-and-slas-between-field-marketing-and-marketing-programs), [Corp/MPM](https://about.gitlab.com/handbook/marketing/events/#timelines-and-slas-between-corporate-marketing-and-marketing-programs)
+2. **Marketing Program Manager will add the related necessary execution issues** as indicated by the YES/NO section in the issue. **This section must be complete before the issue moves to `status:wip`.** 
+    - Ex: Landing Page - Dinner + Date - Event name as shown on original issue)
+3. **Marketing Program Manager will add as a new line item for each ancillary event in the [Events googledoc](https://docs.google.com/spreadsheets/d/1mw16Ft0Wo379dT6OYingQ5A4xXTT1EjdpD6k-lgQync/edit#gid=0)**
+
+## MPM steps to set up event epic- transitioning out of this process
 
 Below is the tactical process DRIs take to organize actions and timelines for field and corporate events. This process was created by MPM's to keep projects organized and on track. Please comment in the [#marketing_programs slack](https://gitlab.slack.com/messages/CCWUCP4MS) if you have any questions.
 
