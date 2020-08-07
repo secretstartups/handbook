@@ -17,7 +17,7 @@ Gainsight is a tool for Technical Account Managers to manage the ongoing custome
 
 Gainsight will help across several different areas within Customer Success. Some highlights include:
 
-- Efficiency: consolidated account views (BoB, account), telemetry, Zendesk integration, notes, collab projects, and to-dos
+- Efficiency: consolidated account views (Book of Business, account), telemetry, Zendesk integration, notes, collab projects, and to-dos
 - Consistency: Establish customer lifecycle process, manage and track engagement
 - Visibility: health scores, risk, adoption, and data visuals
 - Automation: process, adoption, enablement for digital journey
