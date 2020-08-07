@@ -47,9 +47,9 @@ Travel guidance on COVID-19 can be [found here](https://about.gitlab.com/handboo
 To determine who would handle the event, please refer to our [events decision tree](https://docs.google.com/spreadsheets/d/1aWsmsksPfOlX1t6TeqPkh5EQXergt7qjHAjGTxU27as/edit#gid=0). If it is not clear who should own an event based on the decision tree, please email `events@gitlab.com`.
 
 Please *only request* event support/sponsorship if your proposed event fits the following criteria:
-The event will further business aims of GitLab.
-The event has an audience of **250+ people** (the exception being meet-ups (which are run by our community team) or is part of an Account Based Marketing activity.
-The event is a more than a month away.
+- The event will further business aims of GitLab.
+- The event has an audience of **250+ people** (the exception being meet-ups (which are run by our community team) or is part of an Account Based Marketing activity.
+- The event is a more than a month away.
 
 If your event fits the criteria above and you would like support from marketing, create an issue in the appropriate marketing project.
 
@@ -78,7 +78,7 @@ All GitLab events must check at least drive two or more of the aims of our event
 
 ### Corporate events must also meet:
 {:.no_toc}
-  * Audience minimum requirement of 3000+ attendees NA, 1500+ other territories and...
+  * Audience minimum requirement of 5000+ attendees NA, 3,000+ EMEA, 1500+ other territories and...
   * Audience demographic requirements. We consider the balance of roles represented (contributor, user, customer, potential hires), and the Global reach of the audience. Audience profile must be over 50% national/ global.
 
 ## Questions we ask ourselves when assessing an event:
@@ -131,7 +131,7 @@ We ask these questions and use this scorecard to ensure that we're prioritizing 
 
 #### All events under the employee [authorization matrix](/handbook/finance/authorization-matrix/#authorization-matrix) approval threshold **AND** No contract or security review required
 1. **Event Owner** creates issue using the appropriate regional template with auto-applied `status::plan` label
-     - [Corporate Event](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=corporate-event-request#)
+     - [Corporate Event](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=corporate-event-request#)- use the event request template
 1. **Event Owner** copy/paste the `campaign tag` form the budget document into template. 
 2. **Event Owner** to ping the GL Accountant (@GGGONZALEZ) in the main event issue to request campaign tag be created in Netsuite.
 1. When ready, the **Event Owner** update **label** to `status::wip`, this is handoff where MPMs will create subsequent Epics/Issues. 
@@ -143,7 +143,8 @@ We ask these questions and use this scorecard to ensure that we're prioritizing 
 1. **Event Owner (For Field Marketing, all finance issues are to be processed by the regional FMCs)** creates finance issue following the [Procure to Pay Process](/finance/procure-to-pay/) and includes the `campaign tag` from the budget document. 
      - ROI calculation for event in the final cost section
      - Add the finance issue as a *Related Issue* to the FM event issue for reference.
-1. When event budget is approved by Finance, **Event Owner** verifies that the tag on the event and finance issue are accurate and match. Change label to `status::wip` which is handoff trigger for the MPMs to create subsequent Epics/Issues. 
+1. When event budget is approved by Finance, **Event Owner** verifies that the tag on the event and finance issue are accurate and match. Change label in th main issue to `status::wip`. 
+  For Corp Events: close the issue request and go to Epic creation process- steps to set up event epic
 1. MPM will use the **exact `campaign tag`** as the SFDC Campaign and Marketo Program name so it is the unique identifier across all systems.
 
 ### Ancillary Events
