@@ -252,6 +252,15 @@ Who does what, when, and where? There is clarity so that the team can take off a
 4. Utilize GitLab schedules and trackers and assign someone to own components of the plans. 
 5. Periodically solicit input from senior leaders on the team’s performance and execution. Share the feedback with the team. 
 
+<details>
+  <summary markdown='span'>
+    Stage 5 Manager Tasks Diagram
+  </summary>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRj-kIQiYnJ0ZKARqjqJE1S8xoxSK69dC0rWn3V_TECHxsCQXTGeyrjCSjQKr1oLYiUdd5B1W0Q0HA6/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</details>
+
 ### Stage 6 High Performance - Wow!
 
 The team accomplishes more than it is expected to. The team has taken off and creativity is fostered to reach new levels of productivity and results. 
