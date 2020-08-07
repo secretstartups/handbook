@@ -209,6 +209,15 @@ How will we do it? The team manages its resources well to make use of what they 
 2. Review, document, and communicate the responsibilities
 3. Define and document individual roles. Discuss assumptions that team members have about roles. Address differences in assumptions. 
 
+<details>
+  <summary markdown='span'>
+    Stage 4 Manager Tasks Diagram
+  </summary>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRESLJzmObFFF13i2-EZ-cscPLHSBPxcYxfkdIGpD5pow9TVmh_kKOdBEhAJErsmQsB8SaxnZdZbhf8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</details>
+
 ### Stage 5 Implementation - Who does what, when, where?
 
 Who does what, when, and where? There is clarity so that the team can take off and move towards creativity. Clear processes in place that blend with the team. 
