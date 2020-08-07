@@ -29,3 +29,19 @@ Information related to the [EEO is the Law poster](https://www1.eeoc.gov/employe
 ## E-Verify 
 
 [Notice of E-Verify Participation Poster](https://www.e-verify.gov/sites/default/files/everify/posters/EVerifyParticipationPoster.pdf) 
+[Right to Work Poster](https://www.e-verify.gov/sites/default/files/everify/posters/IER_RighttoWorkPoster.pdf)
+
+## Fair Labor Standards Act (FLSA) Minimum Wage Poster
+
+[Fair Labor Standards Act Poster](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/minwagep.pdf)
+
+## Family and Medical Leave Act 
+
+[Family and Medical Leave Act (FMLA) Poster](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf)
+
+## OSHA Job Safety and Health
+
+[Job Safety and Health: Its the Law Poster](https://www.osha.gov/Publications/osha3165-8514.pdf)
+
+
+
