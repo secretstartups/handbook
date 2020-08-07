@@ -208,13 +208,15 @@ Every project is different, and each communication strategy should be tailored t
 
 ### Posting in #company-fyi
 
-Our companywide announcements channel is **#company-fyi**. It is an **announcement only** channel, meaning that communications need to be approved via Internal Comms before they can be posted (other than by those who have been given permission, such as E-group members).
-Please reach join the #internal-communications channel in Slack to request a #company-fyi announcement. We ask that you fill out an [Internal Communications Request form](https://gitlab.com/gitlab-com/chief-of-staff-team/internal-communications/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=) **at least one week in advance** so we can better manage our communications schedule, and that when communicating any significant company changes you should involve Internal Comms from the beginning as part of the planning process.
+Our companywide announcements channel is **#company-fyi**. 
+It is an **announcement only** channel, meaning that communications need to be approved before they can be posted.
+
+In order to post or have a message posted in #company-fyi, please reach out to your function's executive who can approve the message and post it. 
 
 1. Examples of what **should not** go in **#company-fyi** (as per new group guidelines):
     1. Competition prize winner announcements.
     1. Org change or new team member announcements (unless they are E-group).
-    1. Promotion of a optional non company wide internal event.
+    1. Promotion of a optional non-company-wide internal event.
 
 **The above should now all go in the new #whats-happening-at-GitLab channel** (formerly the #company-announcement channel)
 
