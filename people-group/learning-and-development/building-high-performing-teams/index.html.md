@@ -194,6 +194,15 @@ How will we do it? The team manages its resources well to make use of what they 
 - What assumptions are we making about our mission and our work?
 - Exactly what are we to do? 
 
+<details>
+  <summary markdown='span'>
+    Stage 4 Diagram
+  </summary>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSW8aXikDfG42nJ0_vaWxjwGA8sDrEEdqYwn4UiRCcYrOsv3K3v0kbMc-pamaFvAO7Tb62Zi2fgYq7l/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</details>
+
 **Stage 4 Manager Tasks:**
 
 1. Collectively identify all team decision points. Specify who is responsible for each decision. 
