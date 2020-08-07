@@ -452,37 +452,9 @@ All our Support Engineers have access to the GitLab Support Instance, whereas on
 A collection of best practices and suggestions for [styling and responding to Zendesk tickets](/handbook/support/workflows/how-to-respond-to-tickets.html).
 
 ### Time Off
+**MJD** Need to write an appropriate blurb hear to introduce the idea and link to the new page. Probably replace this:
+
 The Support Team follows [GitLab's paid time off policy](/handbook/paid-time-off). However, do note that if a large number of people are taking the same days off, you may be asked to reschedule. If a holiday is important to you, please schedule it early.
-
-In addition to the tips in [Communicating Your Time Off](/handbook/paid-time-off/#communicating-your-time-off) please also:
-- link your personal Google calendar to [PTO Ninja](/handbook/paid-time-off/#pto-ninja)
-  so a 'Busy' event will block your calendar automatically. This also serves
-  to block your availability in Calendly.
-- link [PTO Ninja](/handbook/paid-time-off/#pto-ninja) to the [**Support - Time Off**](https://calendar.google.com/calendar/embed?src=gitlab.com_as6a088eo3mrvbo57n5kddmgdg%40group.calendar.google.com)
-  calendar so PTO Ninja will add an entry automatically
-- if you're on-call, make sure you have coverage and that PagerDuty is up to date
-- reschedule any 1:1 meetings with your manager
-- add an agenda item during the team meeting before your time off
-- add an agenda item after you get back to let us know what you've been up to!
-- either specify your manager as the person who covers for you, or leave a note to ping `#support_managers` per [our escalation procedure](https://about.gitlab.com/handbook/support/internal-support/#i-want-to-draw-attention-to-an-existing-support-ticket)
-
-If you do not have access to the [**Support - Time Off**](https://calendar.google.com/calendar/embed?src=gitlab.com_as6a088eo3mrvbo57n5kddmgdg%40group.calendar.google.com) team calendar, please raise it in the `#support_team_chat` channel on Slack and someone will share it with you.
-
-You do **not** need to add time-off events to the shared calendar if you'll be gone less than half a day. *Do* consider blocking off your
-own calendar so that customer calls or other meetings won't be scheduled during your time away.
-
-If you need to go for a run, grab a coffee or take a brain break please do so without hesitation.
-
-#### Linking PTO Ninja to your personal and team calendar
-
-1. In Slack, click the `+` sign next to 'Apps' at the bottom of the left sidebar
-1. Search for 'PTO Ninja' and click 'View'
-1. Under 'Home', click on 'Connect your calendar'
-1. Click on 'Allow' and complete the actions to sync your calendar to PTO Ninja
-1. You will see a 'Success! Your calendar has been connected.' message and your calendar listed under 'Your synced calendar' in PTO Ninja on Slack
-1. After your personal calendar is linked, click 'Add calendar' under
-   'Additional calendars to include?'. The 'Support - Time Off' calendar ID is
-   `gitlab.com_as6a088eo3mrvbo57n5kddmgdg@group.calendar.google.com`
 
 ### Onboarding
 
