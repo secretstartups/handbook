@@ -340,6 +340,15 @@ Why continue? It is time to give recognition to or celebrate the achievement of 
 5. Write personal thank-you notes in the Slack channel. 
 6. Identify opportunities to rotate team members to other teams. Allow team members to participate in developmental experiences. 
 
+<details>
+  <summary markdown='span'>
+    Stage 7 Manager Tasks Diagram
+  </summary>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS26y0FVQMmnsTinXpaUp0GnZePcnRGZ-e_OoYKflYcqyOTcaagWLAkfFDGLpC4RSoluFr9ZMiV70vp/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</details>
+
 ### Summary
 The Drexler-Sibbet Team Performance Model is an excellent tool to building and maintaining high performing teams at GitLab. As a Manager, use some of the tactical steps outlined on this page to ensure your team has a common understanding of the direction of the team. Your team will be on its way to building a high performing team!
 
