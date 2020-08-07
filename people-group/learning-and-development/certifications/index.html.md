@@ -66,8 +66,11 @@ If you took one of our certifications or knowledge assessments and did not recie
 
 **Learning & Development Team Member process for sending out missing certificates**
 
-1. When an email comes in requesting to be sent a missed certificate, search for the email address of certificate requester in the "passing_results" or "pass_cert" or "pass_all" tab for the sheet that aligns with the certification or knowledge assessment. These sheets can be found in the [certifications & knowledge assessments folder](https://drive.google.com/drive/folders/1bE12hWdbDoCDrzAzhy7pK5Jq11ctJ2qq). 
-   *  Note: The Remote Foundations Certification has 10 knowledge assessments to complete for certification and the GitLab 101 Tool Certification has 3 kowledge assessments to complete for certification.  
+1. When an email comes in requesting to be sent a missed certificate, search for the email address of certificate requester in the "pivot table 1" or "passing_results" or "pass_cert" or "pass_all" tab for the sheet that aligns with the certification or knowledge assessment. These sheets can be found in the [certifications & knowledge assessments folder](https://drive.google.com/drive/folders/1bE12hWdbDoCDrzAzhy7pK5Jq11ctJ2qq). 
+   *  Note: The Remote Foundations Certification has 10 knowledge assessments to complete for certification and the GitLab 101 Tool Certification has 3 kowledge assessments to complete for certification. 
+1. If they have completed all knowledge assessments, their email address will be seen in the "pivot table 1" tab.  If their email address is not found in the "pivot table 1" tab, see notes below for further steps.
+1. To create their certificate, go to the relevant certification folder in the L&D google drive.  Make a copy of the certificate template and edit name and date accordingly.  Date should be in ISO format, YYYY-MM-DD.
+1. Download the certificate as a PDF document.
 1. When responding to the email, ensure to "reply all" so the learning@ email is included so the team knows the email has been handled. 
    * If not all necessary knowledge assessments have been completed, let them know which ones remain for them to recieve their certificate. 
    * For email templates for different scenarios, check out our [Certification Request Responses doc](https://docs.google.com/document/d/1DSa1C6DFysPnTirjZkicC4qgn_EmmpzvjPjXVEwZxoY/edit?usp=sharing). 
