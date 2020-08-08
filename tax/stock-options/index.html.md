@@ -17,13 +17,13 @@ Congratulations! You have exercised (a batch of) GitLab stock options. You are p
 
 ## GitLab Employees
 
-* [Australia](https://about.gitlab.com/handbook/tax/stock-options/australia/)
-* [Belgium](https://about.gitlab.com/handbook/tax/stock-options/belgium/)
-* [Canada](https://about.gitlab.com/handbook/tax/stock-options/canada/)
-* [Germany](https://about.gitlab.com/handbook/tax/stock-options/germany/)
-* [Netherlands](https://about.gitlab.com/handbook/tax/stock-options/netherlands/)
-* [United Kingdom](https://about.gitlab.com/handbook/tax/stock-options/unitedkingdom/)
-* [United States of America](https://about.gitlab.com/handbook/tax/stock-options/unitedstates/)
+* [Australia](/handbook/tax/stock-options/australia/)
+* [Belgium](/handbook/tax/stock-options/belgium/)
+* [Canada](/handbook/tax/stock-options/canada/)
+* [Germany](/handbook/tax/stock-options/germany/)
+* [Netherlands](/handbook/tax/stock-options/netherlands/)
+* [United Kingdom](/handbook/tax/stock-options/unitedkingdom/)
+* [United States of America](/handbook/tax/stock-options/unitedstates/)
 
 ## GitLab Contractors
 

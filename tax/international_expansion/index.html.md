@@ -36,7 +36,7 @@ As the Tax Team is responsible for managing our corporate structure (e.g. entity
 
 ## RADCIE Model
 
-The [RADCIE Model](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/#radcie) below is drafted according to the procedure.
+The [RADCIE Model](/handbook/people-group/directly-responsible-individuals/#radcie) below is drafted according to the procedure.
 
 | Procedure       | Tax    | People Ops |  Accounting | Legal | Payroll | Everyone |
 |-----------------|:------:|:----------:|:-----------:|:-----:|:-------:|:--------:|
@@ -60,4 +60,4 @@ The [RADCIE Model](https://about.gitlab.com/handbook/people-group/directly-respo
 
 ## Performance Indicator
 
-Read more about our [KPI](https://about.gitlab.com/handbook/tax/performance-indicators/#international-expansion) for international expansion.
+Read more about our [KPI](/handbook/tax/performance-indicators/#international-expansion) for international expansion.
