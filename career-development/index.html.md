@@ -300,7 +300,7 @@ By default, apprenticeships last for 6 months. At the end of 6 months, both the 
 
 If you wish to apprentice with an Engineering team, start by speaking with your manager.
 
-**Important**: The Apprenticeship program should differ from any situations where there is actual temporary or permanent [realignment/redeployment/secondment](https://about.gitlab.com/handbook/people-group/promotions-transfers/#realignment-of-resources-impacting-multiple-team-members) as a result of changing business needs. If you are unsure whether your situation is aligned with the Apprenticeship program or falls into a resources realignment, please discuss with your aligned [People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division). 
+**Important**: The Apprenticeship program should differ from any situations where there is actual temporary or permanent [realignment/redeployment/secondment](/handbook/people-group/promotions-transfers/#realignment-of-resources-impacting-multiple-team-members) as a result of changing business needs. If you are unsure whether your situation is aligned with the Apprenticeship program or falls into a resources realignment, please discuss with your aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division). 
 
 ## Junior Engineers
 
