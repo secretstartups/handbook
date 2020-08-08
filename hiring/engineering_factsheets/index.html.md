@@ -85,7 +85,7 @@ Sam Goldstein - (Director of Engineering, Ops)
 [Product Vision page](/direction/configure/)
 **How the team works:** The Configure stage deals with the configuration and operation of applications and infrastructure, including Auto DevOps, Kubernetes integration, and ChatOps. We aim to make complex tasks (such as standing up new environments) fast and easy as well as providing operators all the necessary tools to execute their day-to-day actions upon their infrastructure.
 **Links to relevant Handbook pages:** 
-Product categories page: https://about.gitlab.com/handbook/product/product-categories/#ops-section
+Product categories page: /handbook/product/product-categories/#ops-section
 [Configure Team Page](/handbook/engineering/ops/configure/)
 [Backend Engineer job family](/job-families/engineering/backend-engineer/)
 [Engineering Workflow](/handbook/engineering/workflow/)
@@ -553,7 +553,7 @@ Sarah O’Donnell, UX Manager Research
 Jacki Bauer, UX Manager Enablement and Growth
 
 **Useful links:**
-[UX Handbook}(https://about.gitlab.com/handbook/engineering/ux/)
+[UX Handbook}(/handbook/engineering/ux/)
 [Pajamas Design System](https://design.gitlab.com/)
 [Product Designer job family](/job-families/engineering/product-designer/)
 [UX Researcher job family](/job-families/engineering/ux-researcher/)

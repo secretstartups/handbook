@@ -37,7 +37,7 @@ Read more about [our outbound hiring model](/jobs/faq/#gitlabs-outbound-recruiti
 1. Our team will be in touch with you if you're a match for a current or future job opening.
 1. Please refer to the [country hiring guidelines](https://about.gitlab.com/jobs/faq/#country-hiring-guidelines/jobs/faq/#country-hiring-guidelines) to see if we are able to hire in your location.
 1. Should you reach out to any GitLab team member on any social media platform, that you have not worked with previously or do not know, requesting to be referred, instead of or in addition to [joining our talent community](https://boards.greenhouse.io/gitlab/jobs/4700367002), you'll receive the following reply: "Thank you for your interest in GitLab! The best way to share your information with our recruiting team is to [join our talent community](https://boards.greenhouse.io/gitlab/jobs/4700367002). This will ensure that you're among the pool of candidates our team will consider when sourcing for current and future openings. Unfortunately, I can't refer you for the position since we have not had a chance to work together. To ensure we stay [inclusive](https://about.gitlab.com/company/culture/inclusion/), I'm also not able to influence your candidacy for a particular role."
-1. If at any point during the interview process, you send threatening emails, emails containing profanity, vulgar language, or [hurtful labels](https://about.gitlab.com/community/contribute/code-of-conduct/), we will no longer pursue your candidacy and will inform you of that. We will also not respond any further to you. We aim to hire only people who align with our [values](https://about.gitlab.com/handbook/values/).
+1. If at any point during the interview process, you send threatening emails, emails containing profanity, vulgar language, or [hurtful labels](https://about.gitlab.com/community/contribute/code-of-conduct/), we will no longer pursue your candidacy and will inform you of that. We will also not respond any further to you. We aim to hire only people who align with our [values](/handbook/values/).
 
 
 </details>
@@ -80,7 +80,7 @@ If you are invited for an interview with GitLab and you need financial support f
 - The interest on any credit you obtain to pay for these items upfront
 
 
-To initiate the reimbursement process please email `interviews@gitlab.com`. Additional details found [here](https://about.gitlab.com/handbook/hiring/recruiting-framework/coordinator/#interview-reimbursement-process).
+To initiate the reimbursement process please email `interviews@gitlab.com`. Additional details found [here](/handbook/hiring/recruiting-framework/coordinator/#interview-reimbursement-process).
 </details>
 
 ### Internal Applicants
@@ -212,7 +212,7 @@ Example questions include:
 1. Do you require visa sponsorship or a work permit to work for GitLab? Or do you require the work permit to be transferred to GitLab? If the answer is yes, we will not be able to proceed. You can refer to this [page](/handbook/people-group/visas/) for further clarity
 1. What is the notice period you would need if you were hired?
 1. Is this salary range in line with your expectations? (At GitLab, we are committed to paying competitively and equitably. Therefore, we set our offers based on market pay rather than a candidate's pay history. We walk through the Compensation Calculator with each candidate so that we can address any gaps in expectations early on.) 
-1. Do you know how GitLab will employ you in the country you’re based? (As GitLab keeps growing rapidly it is important to share how we can employ people in each country. We should redirect the candidates to the [Contracts and International Expansion](https://about.gitlab.com/handbook/people-group/contracts-and-international-expansion) page and go through it with them.)  
+1. Do you know how GitLab will employ you in the country you’re based? (As GitLab keeps growing rapidly it is important to share how we can employ people in each country. We should redirect the candidates to the [Contracts and International Expansion](/handbook/people-group/contracts-and-international-expansion) page and go through it with them.)  
 
 At the end of the screening call, the recruiter will tell you what the next steps will be, if any. There should be time for you to ask any questions you may have. 
 </details>
@@ -257,7 +257,7 @@ Interviewing is hard for both sides. In less than one hour, you both need to get
     Interview Training and Preparation
   </summary>
 
-New internal interviewers will partake in [interviewing training](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/interview_training.md), which will be assigned by the the Candidate Experience team, or as a part of the [Becoming a GitLab Manager issue template](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/becoming-a-gitlab-manager.md). As part of the training, team members will shadow an interviewer and be shadowed by one in order to make sure all GitLab team-members are following our interviewing processes and creating an excellent candidate experience. The interviewer who will work with the team member should be aligned with either their timezone or the role they'll be helping interview for. Feel free to ping `@gl-recruiting` in your training issue or [review our recruiting alignment ](https://about.gitlab.com/handbook/hiring/recruiting-alignment/) page if you are not sure which interviewer to contact, or send a message in the `#recruiting` channel in Slack.
+New internal interviewers will partake in [interviewing training](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/interview_training.md), which will be assigned by the the Candidate Experience team, or as a part of the [Becoming a GitLab Manager issue template](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/becoming-a-gitlab-manager.md). As part of the training, team members will shadow an interviewer and be shadowed by one in order to make sure all GitLab team-members are following our interviewing processes and creating an excellent candidate experience. The interviewer who will work with the team member should be aligned with either their timezone or the role they'll be helping interview for. Feel free to ping `@gl-recruiting` in your training issue or [review our recruiting alignment ](/handbook/hiring/recruiting-alignment/) page if you are not sure which interviewer to contact, or send a message in the `#recruiting` channel in Slack.
 
 Interviews should not be recorded. For interview training, we encourage our GitLab Hiring Managers to conduct mock interviews internally, or have no more than one GitLab team member at a time shadowing live interviews.
 
@@ -276,9 +276,9 @@ Remember, interviewing candidates is everyone's job as part of our collaboration
 
 #### Before The Interview
 
-1. Ensure you've read the description of the role you're going to be interviewing candidates for. This can be found in the [job family page](https://about.gitlab.com/handbook/hiring/job-families/). 
+1. Ensure you've read the description of the role you're going to be interviewing candidates for. This can be found in the [job family page](/handbook/hiring/job-families/). 
     * If you have any questions about the scope of the role, the team, or the responsibilities of the position after you've read through those resources be sure to reach out to the Hiring Manager with your questions.
-1. Open up the [interview kit in Greenhouse](https://about.gitlab.com/handbook/hiring/greenhouse/#feedback-and-interview-kits). In the interview kit, you’ll be able to view the candidate’s resume, the description of the interview you’re expected to lead, the scorecard you’ll be evaluating the candidate against, and the suggested questions you ask during the interview.  
+1. Open up the [interview kit in Greenhouse](/handbook/hiring/greenhouse/#feedback-and-interview-kits). In the interview kit, you’ll be able to view the candidate’s resume, the description of the interview you’re expected to lead, the scorecard you’ll be evaluating the candidate against, and the suggested questions you ask during the interview.  
     * Look out for key criteria to focus on in the scorecard. These will be highlighted in yellow and these are the areas you **must** evaluate the candidate against at this stage of the interview process.
 1. You can read through the cover letter, portfolio, or application form responses submitted by the candidate when they applied by navigating to the candidate’s Greenhouse profile. You can navigate to their profile by following the link from their name in the interview kit. These additional resources will only be available if they were required to be supplied when the application was made or a candidate opted to submit additional information.
     * When reading through the candidate's application materials please remember that writing a good resume or cover letter is an art, and not many people master it. When you read through these materials, look for evolution rather than buzzwords, and, if something sparks your curiosity, prepare to ask about it during the interview.
@@ -328,7 +328,7 @@ Remember, interviewing candidates is everyone's job as part of our collaboration
 * Aim to know if, at the end of this interview, you want to work with this person.
 * Interview for soft skills. Really, do it! Pick some behavioral questions to get data on what the candidate has done before and how their behavior aligns with the [company values](/handbook/values/). We are all going to be much happier if we naturally agree on how things should be. You will be asked to evaluate how the candidate's values align with our own in your feedback form, and asking behavioral questions is the best way to assess this.
 * Consider having more people interviewing with you since different people see and value different things. More data helps you make better decisions and is a better use of interview time for both the candidate and the company.
-* If a candidate discloses [outside project(s) or activity(ies)](https://about.gitlab.com/handbook/people-group/contracts-and-international-expansion/#steps-as-a-current-candidate-actively-engaged-in-the-hiring-process), please notify the Recruiter.
+* If a candidate discloses [outside project(s) or activity(ies)](/handbook/people-group/contracts-and-international-expansion/#steps-as-a-current-candidate-actively-engaged-in-the-hiring-process), please notify the Recruiter.
 * Always encourage the interviewee to ask questions at the end, and be frank in your answers.
 * Be willing to discuss what went well and any concerns you may have
 * Manage expectations - Discuss next steps and timelines
@@ -489,7 +489,7 @@ The recruiting team will ask candidates for references via email. The hiring man
 
 ## Background checks
 
-Concurrently with the reference checks, the recruiting team will begin a [background check](https://about.gitlab.com/handbook/people-group/people-policy-directory/#background-checks) on the candidate. When the recruiting team initially requests the candidate's reference details, they will also begin the background check process and inform the candidate.
+Concurrently with the reference checks, the recruiting team will begin a [background check](/handbook/people-group/people-policy-directory/#background-checks) on the candidate. When the recruiting team initially requests the candidate's reference details, they will also begin the background check process and inform the candidate.
 
 ## After the Interviews
 

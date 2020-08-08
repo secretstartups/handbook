@@ -18,7 +18,7 @@ Recruiting Team members should add potential matches to the appropriate Talent P
 
 You are encouraged to find top talent using a variety of different sourcing avenues, with LinkedIn and GitLab Talent Community being the most used and efficient ones.
 
-While LinkedIn projects can be used, all approached prospects should be added in Greenhouse as prospects. **Greenhouse is the source of truth.**  Every sourced prospect should have the name of the person who sourced them in the Source field. If a Prospect was sourced by a Recruiting Team Member from the Talent Community, that user will need to [manually update the candidate's source](https://about.gitlab.com/handbook/hiring/greenhouse/#high-level-workflow) information.
+While LinkedIn projects can be used, all approached prospects should be added in Greenhouse as prospects. **Greenhouse is the source of truth.**  Every sourced prospect should have the name of the person who sourced them in the Source field. If a Prospect was sourced by a Recruiting Team Member from the Talent Community, that user will need to [manually update the candidate's source](/handbook/hiring/greenhouse/#high-level-workflow) information.
 
 There are multiple ways to add the candidates, as follows: 
 
@@ -28,7 +28,7 @@ There are multiple ways to add the candidates, as follows:
 * [Enable LinkedIn Recruiter System Connect (RSC)](https://support.greenhouse.io/hc/en-us/articles/115005678103-Enable-LinkedIn-Recruiter-System-Connect-RSC-) so you can export candidates in one click as prospects 
 
 How to add prospects to Talent Pools:
-* [Sourcing Page Written Walkthrough](https://about.gitlab.com/handbook/hiring/sourcing/#greenhouse-sourcing----talent-community)
+* [Sourcing Page Written Walkthrough](/handbook/hiring/sourcing/#greenhouse-sourcing----talent-community)
 * [From Greenhouse Talent Community Video Walkthrough](https://drive.google.com/file/d/174J5c0B-O8qHhjILR_FbiteJ1aXO1g_d/view)
 * [From LinkedIn Video Walkthrough](https://drive.google.com/file/d/18EpEpEvlHu3q7qdWcTZMdVtQKftaHZZh/view)
 

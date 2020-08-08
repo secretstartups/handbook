@@ -72,9 +72,9 @@ There may be situations where the CES email is used to thank the team or to send
 
 ### Initiate background check
 
-Once notified by the recruiter, the Candidate Experience Specialist will [initiate a background check](https://about.gitlab.com/handbook/people-group/people-policy-directory/#background-checks) for the candidate. The Candidate Experience Specialist will continue to monitor the background check until finalized, utlizing the follow-up feature in Greenhouse to ensure the background check is complete and uploaded into BambooHR if hired.
+Once notified by the recruiter, the Candidate Experience Specialist will [initiate a background check](/handbook/people-group/people-policy-directory/#background-checks) for the candidate. The Candidate Experience Specialist will continue to monitor the background check until finalized, utlizing the follow-up feature in Greenhouse to ensure the background check is complete and uploaded into BambooHR if hired.
 
-For guidance on reviewing Background checks see [this page](https://about.gitlab.com/handbook/people-group/people-policy-directory/#background-checks).
+For guidance on reviewing Background checks see [this page](/handbook/people-group/people-policy-directory/#background-checks).
 
 #### Initiating a Background Check through Greenhouse
 
@@ -160,7 +160,7 @@ One person from the recruiting team (typically the [Candidate Experience Special
    1. **Before marking the candidate as hired** the Candidate Experience Specialist will reject the candidate from any other active roles including roles for which they are a prospect (without sending a rejection email). _NOTE: If this step is skipped, the profile will not be exported to Bamboo HR when the candidate is marked as hired._ 
    1. **Before marking the candidate as hired** the CES will ping the recruiter and give them 24 hours to contact/reject all other active candidates. Once this is complete, the CES can proceed with hiring in GH. 
    1. **Before marking the candidate as hired** the CES will verify if the listed Recruiter and Coordinator in the `Details` >  `Source & Responsibility` section of the candidate's profile is correct to ensure accuracy in reporting.
-   1. The CES will mark the candidate as "Hired" in Greenhouse: _when prompted, select the option to close the req._ Please note, the new hire's BambooHR profile will be generated automatically by the [Greenhouse to BambooHR sync](https://about.gitlab.com/handbook/people-group/engineering/gh-bhr-sync/) that runs every 15 minutes.
+   1. The CES will mark the candidate as "Hired" in Greenhouse: _when prompted, select the option to close the req._ Please note, the new hire's BambooHR profile will be generated automatically by the [Greenhouse to BambooHR sync](/handbook/people-group/engineering/gh-bhr-sync/) that runs every 15 minutes.
    1. Once the new hire's profile in BambooHR is generated, The Candidate Experience Specialist will upload the signed contract and the completed background check into the BambooHR profile.
    1. The Candidate Experience Specialist will send an email to total-rewards@gitlab with any variations in contract language (for example a draw). Compensation will sync with Payroll and Sales Ops for any necessary notifications on payment types.
    1. The Candidate Experience Specialist will email the new team member the Welcome Email from Greenhouse with a Cc to the recruiter, IT Ops and hiring manager.  For new team members in USA, use 'GitLab Welcome - US only' template.  For team members located outside the US, use 'GitLab Welcome - non US' template
@@ -194,7 +194,7 @@ For questions about the new team member's laptop, ping [IT Ops](#it-ops) in Slac
 
 ### Interview Reimbursement Process
 
-For candidates requesting [interview reimbursment](https://about.gitlab.com/handbook/hiring/interviewing/#reimbursement-for-interviewing-with-gitlab) the CES team will partner with the Account Payable (AP) team to ensure requests are processed confidentially and in a timely manner. AP and the CES team utilize [GitLab Service Desk](/product/service-desk/) to track incoming emails to the Interviews@gitlab.com email.
+For candidates requesting [interview reimbursment](/handbook/hiring/interviewing/#reimbursement-for-interviewing-with-gitlab) the CES team will partner with the Account Payable (AP) team to ensure requests are processed confidentially and in a timely manner. AP and the CES team utilize [GitLab Service Desk](/product/service-desk/) to track incoming emails to the Interviews@gitlab.com email.
 
 Under the [Interview Reimbursement Service Desk](https://gitlab.com/interview-reimbursement/ap-ces/issues) set up the proper notifications
    - Click on the bell icon on the top right next to Star and Clone

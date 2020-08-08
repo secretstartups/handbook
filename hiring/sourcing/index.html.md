@@ -27,7 +27,7 @@ Sourcing has proved itself to be a great channel for attracting the best talent.
 If you'd like to start contributing to our sourcing efffort - we recommend you going through our [Sourcing Guide](https://docs.google.com/presentation/d/1M03qxZn9hy5pdeafvGabrQEeovtfvby7Vyc-FC620ts/edit), that contains a lot of useful sourcing tips & tricks and gathers together our team resources.
 
 Note: If you **know** a candidate from school, previous companies, seminars... even among your neighbors or family members - please refer them via Slack - Referral Booster!
-More information about the **Referrals** can be found on the [Referral Process](https://about.gitlab.com/handbook/hiring/referral-process/) page.
+More information about the **Referrals** can be found on the [Referral Process](/handbook/hiring/referral-process/) page.
 
 For anyone that you **do not** have a personal relationship with, please add them as a *Prospect* in Greenhouse and keep in mind that **Greenhouse is our single source of truth**. Here's how to do that: 
 
@@ -106,7 +106,7 @@ for all the roles we’re hiring for.
 Once a new role is opened, Sourcer assigned to the role will discuss with Recruiter and Hiring Manager 
 who should participate in the Sourcing session and schedule it within 5 business days after the kickoff call.
 
-You can find more information about Sourcing Sessions on the [Recruiting Process](https://about.gitlab.com/handbook/hiring/recruiting-framework/req-overview/#step-3-complete-intake-session-agree-on-priority-level--complete-a-sourcing-session) page.
+You can find more information about Sourcing Sessions on the [Recruiting Process](/handbook/hiring/recruiting-framework/req-overview/#step-3-complete-intake-session-agree-on-priority-level--complete-a-sourcing-session) page.
 
 ## Source-A-Thons
 
@@ -187,7 +187,7 @@ You can download in bulk in an XLS file several profiles and you can run your se
 
 ## Sourcing for specific Teams
 
-Teams might have different hiring criterias depending on technology, field, product area etc. This can also change with time. Sometimes we might need a candidate who needs a clearance or has multiple endorsements for Ruby, tenure at established/strong Rails companies, startup/product experience or has to meet our longevity requirements. To make sure you search is aligned with the specifics of that role/team check the [kickoff meeting details of that role](https://about.gitlab.com/handbook/hiring/recruiting-framework/#step-3-complete-intake-session-agree-on-priority-level--complete-a-sourcing-session).
+Teams might have different hiring criterias depending on technology, field, product area etc. This can also change with time. Sometimes we might need a candidate who needs a clearance or has multiple endorsements for Ruby, tenure at established/strong Rails companies, startup/product experience or has to meet our longevity requirements. To make sure you search is aligned with the specifics of that role/team check the [kickoff meeting details of that role](/handbook/hiring/recruiting-framework/#step-3-complete-intake-session-agree-on-priority-level--complete-a-sourcing-session).
 
 Here's an example workflow for sourcing **Product Design** candidates:
 

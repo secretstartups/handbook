@@ -35,7 +35,7 @@ During the onboarding process, a People Experience Associate will complete the f
 
 #### Transferring Referral Submissions to Greenhouse
 
-Per the current [Referral Submission Process](https://about.gitlab.com/handbook/hiring/referral-process/#submitting-a-referral), Team Members will submit their referrals via Issues. When a new Issue appears, please do the following:
+Per the current [Referral Submission Process](/handbook/hiring/referral-process/#submitting-a-referral), Team Members will submit their referrals via Issues. When a new Issue appears, please do the following:
 
 1. Assign the Issue to yourself (upper right corner).
 1. Open Greenhouse and click `+` > `Add a Referral`.

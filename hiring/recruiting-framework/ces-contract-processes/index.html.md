@@ -224,7 +224,7 @@ The process for next steps at the end of the first 12-month temporary contract i
 1. At least 1 month before the end of the contract, the manager informs the team member of the extension or not. The [People Business Partner](/handbook/people-group/) can help with providing guidance on the messaging. 
 1. The People Specialist team documents the emails in the Contracts & Changes folder in BambooHR. 
 1. If the contract extension is approved, the People Specialist team creates the contract and stages it via HelloSign for the team member and Senior Director, People Success (on behalf of CPO if there is no current CPO) to sign. 
-1. Note: A second [probation period](https://about.gitlab.com/handbook/people-group/contracts-and-international-expansion/#probation-period) should only be implemented if the team member's new contract reflects the start of an [entirely new role](https://wsadvocaten.nl/probationary-period-netherlands-dutch-law/). If the contract is simply a continuation of employment in the current role, a second probation period should not be applied. 
+1. Note: A second [probation period](/handbook/people-group/contracts-and-international-expansion/#probation-period) should only be implemented if the team member's new contract reflects the start of an [entirely new role](https://wsadvocaten.nl/probationary-period-netherlands-dutch-law/). If the contract is simply a continuation of employment in the current role, a second probation period should not be applied. 
 
 Should a team member request indefinite employment after the initial 12-month contract or second 12-month contract, approval via email should be requested based on performance, from the team member's manager as well as the [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) that is working with the business unit. The approval email should be printed to pdf and saved under `Contracts and Changes` in BambooHR. This is extremely rare, unless there are mitigating circumstances.
 
@@ -253,7 +253,7 @@ To create the contract:
     -CC Recruiter
     -Click “Send Email”
 1. The Candidate Experience Specailist will check if there is a probationary period.
-    - Go to [Probationary Periods for Team Members Employed by a PEO](https://about.gitlab.com/handbook/people-group/contracts-and-international-expansion/#probation-periods-of-team-members-employed-through-a-peo) and check the candidate's country.
+    - Go to [Probationary Periods for Team Members Employed by a PEO](/handbook/people-group/contracts-and-international-expansion/#probation-periods-of-team-members-employed-through-a-peo) and check the candidate's country.
     - Enter the duration of the probationary period (if any) in the "Offer Details". If there isn't one, put "None" in that field.
 1. Once the additional information is received, The Candidate Experience Specialist will generate the PEO form out of GreenHouse.
     -Click “Generate”
@@ -287,7 +287,7 @@ To create the contract:
    - From the template drop down list select: Contract Info Request - Safeguard
    - Send Email
 1. The Candidate Experience Specailist will check if there is a probationary period.
-    - Go to [Probationary Periods for Team Members Employed by a PEO](https://about.gitlab.com/handbook/people-group/contracts-and-international-expansion/#probation-periods-of-team-members-employed-through-a-peo) and check the candidate's country.
+    - Go to [Probationary Periods for Team Members Employed by a PEO](/handbook/people-group/contracts-and-international-expansion/#probation-periods-of-team-members-employed-through-a-peo) and check the candidate's country.
     - Enter the duration of the probationary period (if any) in the "Offer Details". If there isn't one, put "None" in that field.
 1. When the new team member provides the necessary details, the Candidate Experience Specialist will update GreenHouse offer details and generate the PEO form out of GreenHouse.
    - Offer Details
@@ -331,7 +331,7 @@ GitLab is working in partnership with [Global Upside](https://globalupside.com) 
 1. The Offer is made by the recruiter per the [hiring process](/handbook/hiring).
 1. CES sends “Contract Info Request-Global Upside (India)” email to the new hire to collect additional details.
 1. The Candidate Experience Specailist will check if there is a probationary period.
-    - Go to [Probationary Periods for Team Members Employed by a PEO](https://about.gitlab.com/handbook/people-group/contracts-and-international-expansion/#probation-periods-of-team-members-employed-through-a-peo) and check the candidate's country.
+    - Go to [Probationary Periods for Team Members Employed by a PEO](/handbook/people-group/contracts-and-international-expansion/#probation-periods-of-team-members-employed-through-a-peo) and check the candidate's country.
     - Enter the duration of the probationary period (if any) in the "Offer Details". If there isn't one, put "None" in that field.
 1. Once additional details are obtained, update the offer details to reflect all information. The CES should be the signatory.
 1. Generate “PEO New Hire Template” in Offer Documents to Send through DocuSign
@@ -447,7 +447,7 @@ Please note, due to German labor law, the stock options are not included in the 
 
 ## Employment Agreements for GitLab team-members located everywhere else (IT BV contractor agreements)
 
-1. Review the [Hiring Status](https://about.gitlab.com/handbook/people-group/contracts-and-international-expansion/#country-hiring-guidelines) of the location you are working with. If the location has not been evaluated yet, we issue a IT BV contractor agreement.
+1. Review the [Hiring Status](/handbook/people-group/contracts-and-international-expansion/#country-hiring-guidelines) of the location you are working with. If the location has not been evaluated yet, we issue a IT BV contractor agreement.
 1. If the candidate would like to use their own entity for the contractor agreement update the offer details with the Contractor Name and Address. You will use the IT BV Contractor Agreement - C2C in these cases.
 1. Generate IT BV Contractor Agreement - Independent or the IT BV Contractor Agreement - C2C
 1. Select Send with DocuSign

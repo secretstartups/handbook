@@ -20,8 +20,8 @@ The communicated Recruiting Process Framework specifically focuses on approved R
 ## Search Team
 * **[Hiring Manager](/handbook/hiring/recruiting-framework/hiring-manager/):** The Hiring Manager is the individual who is hiring for the particular vacancy. In most situations, the person hired into this vacancy will report into this individual.
 * **Hiring Team:** The Hiring Team is a group of people the Hiring Manager asks to be involved in the interview process. The Hiring Team will assess candidates for a given vacancy based on what is defined in the [REQ Kick-off Issue](/gl-recruiting/req-intake/-/issues) and the [Hiring Repo](https://gitlab.com/gitlab-com/people-group/hiring-processes/-/tree/master). 
-* **[Recruiter](https://about.gitlab.com/handbook/hiring/recruiting-framework/recruiter/):** The Recruiter is the main point of contact for the Hiring Manager, Hiring Team, and all candidates associated with the REQ. The Recruiter will directly source for prospects as well as partner with there Sourcer and Candidate Experience Specialist throught the process. For more information on what role a Recruiter may play, please visit the [Recruiter Job Family](/job-families/people-ops/recruiter/).
-* **[Sourcer](https://about.gitlab.com/handbook/hiring/recruiting-framework/sourcer/):** The Sourcer is partnered with the Recruiter to provide expertise around finding passive talent. For more information on what role a Sourcer may play, please visit the [Sourcer Job Family](/job-families/people-ops/recruiting-sourcer/).
+* **[Recruiter](/handbook/hiring/recruiting-framework/recruiter/):** The Recruiter is the main point of contact for the Hiring Manager, Hiring Team, and all candidates associated with the REQ. The Recruiter will directly source for prospects as well as partner with there Sourcer and Candidate Experience Specialist throught the process. For more information on what role a Recruiter may play, please visit the [Recruiter Job Family](/job-families/people-ops/recruiter/).
+* **[Sourcer](/handbook/hiring/recruiting-framework/sourcer/):** The Sourcer is partnered with the Recruiter to provide expertise around finding passive talent. For more information on what role a Sourcer may play, please visit the [Sourcer Job Family](/job-families/people-ops/recruiting-sourcer/).
 * **[Candidate Experience Specialist (CES)](/handbook/hiring/recruiting-framework/coordinator/):** The CES partners with the Recruiter and Sourcer on all scheduling, background check, references and offer needs. For more information on what role a CES may play, please visit the [CES Job Family](/job-families/people-ops/candidate-experience/).
 
 ### **Step 1: Identify hiring need**
@@ -177,15 +177,15 @@ The Recruiter will email the candidate and ask if they want to book a zoom call 
 - Salary
 - General and specific benefits
 - Contract type
-- [Ta-New-Ki Welcome Call (Pre-Onboarding)](https://about.gitlab.com/handbook/people-group/general-onboarding/#ta-new-ki-welcome-call-pre-onboarding)
-- [Onboarding process](https://about.gitlab.com/handbook/people-group/general-onboarding/#onboarding-at-gitlab)
+- [Ta-New-Ki Welcome Call (Pre-Onboarding)](/handbook/people-group/general-onboarding/#ta-new-ki-welcome-call-pre-onboarding)
+- [Onboarding process](/handbook/people-group/general-onboarding/#onboarding-at-gitlab)
 - [Asynchronous communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/)
-- [Stock options](https://about.gitlab.com/handbook/stock-options/)
-- [Unlimited paid-time-off](https://about.gitlab.com/handbook/paid-time-off/)
-- [Incentives](https://about.gitlab.com/handbook/incentives/)
-- [Office equipment/reimbursements](https://about.gitlab.com/handbook/spending-company-money/)
+- [Stock options](/handbook/stock-options/)
+- [Unlimited paid-time-off](/handbook/paid-time-off/)
+- [Incentives](/handbook/incentives/)
+- [Office equipment/reimbursements](/handbook/spending-company-money/)
 - [Configuring your new laptop](/handbook/business-ops/team-member-enablement/onboarding-access-requests/#configuring-new-laptops--apple-ids)
-- [Employment Assistance Program](https://about.gitlab.com/handbook/benefits/#employee-assistance-program)
+- [Employment Assistance Program](/handbook/benefits/#employee-assistance-program)
 
 After the verbal offer is made the recruiter can send an email to the candidate with all the information covered in the zoom call. 
 

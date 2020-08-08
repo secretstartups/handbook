@@ -40,7 +40,7 @@ C.E.S. and Sales Operations Team only - please [contact the Recruiting Operation
   Greenhouse
   </summary>
 
-[See how to join Greenhouse in the handbook](https://about.gitlab.com/handbook/hiring/greenhouse/#how-to-join-greenhouse).
+[See how to join Greenhouse in the handbook](/handbook/hiring/greenhouse/#how-to-join-greenhouse).
 
 </details>
 
@@ -49,7 +49,7 @@ C.E.S. and Sales Operations Team only - please [contact the Recruiting Operation
   HelloSign
   </summary>
 
-[See how to request a HelloSign account in the handbook](https://about.gitlab.com/handbook/people-group/people-experience-team/#hellosign).
+[See how to request a HelloSign account in the handbook](/handbook/people-group/people-experience-team/#hellosign).
 
 </details>
 
@@ -58,7 +58,7 @@ C.E.S. and Sales Operations Team only - please [contact the Recruiting Operation
   LinkedIn
   </summary>
 
-[See the LinkedIn Recruiter Seat Request process in the handbook](https://about.gitlab.com/handbook/hiring/sourcing/#upgrading-your-linkedin-account).
+[See the LinkedIn Recruiter Seat Request process in the handbook](/handbook/hiring/sourcing/#upgrading-your-linkedin-account).
 
 </details>
 
@@ -86,7 +86,7 @@ TBA
       * Ensure that the Source, Coordinator, and Recruiter listed in the Details tab remains the same.
       * If a candidate is marked as *Hired*, ensure the profile that they were *Hired* on is the *Primary Profile*.
 * **Offer Approvals**
-    * The Offer Approvals process can be accessed in the [Greenhouse Handbook page](https://about.gitlab.com/handbook/hiring/greenhouse/#updating-requisition-and-offer-approval-flows)
+    * The Offer Approvals process can be accessed in the [Greenhouse Handbook page](/handbook/hiring/greenhouse/#updating-requisition-and-offer-approval-flows)
 * **Requisition Approvals**
     * To re-open a closed requisition and increase the opening count:
        1. Navigate to the *Approvals* tab, select `Edit Job & Openings`
@@ -95,7 +95,7 @@ TBA
        1. Verify with the recruiter if the opening is a Backfill or New Hire. Select `Reopen as Draft`.
        1. Restart the approval process by selecting `Request Approval`. Mark a Total Rewards approver as approved. Send a note to Finance to review the additional opening request. Be sure to cc the recruiter in that note.
 * **Referral Submissions**
-    * [See how to process Referral Submissions in the handbook.](https://about.gitlab.com/handbook/hiring/referral-operations/#transferring-referral-submissions-to-greenhouse)
+    * [See how to process Referral Submissions in the handbook.](/handbook/hiring/referral-operations/#transferring-referral-submissions-to-greenhouse)
 
 </details>
 
@@ -365,7 +365,7 @@ The Recruiting Operations & Insights team utilizes [Recruiting Operations Issues
   </summary>
 
 * "Can we add/remove approver from this approval chain?"
-    * The process to add/remove an existing approver from an approval chain can be accessed in the [Greenhouse Handbook page](https://about.gitlab.com/handbook/hiring/greenhouse/#updating-requisition-and-offer-approval-flows)
+    * The process to add/remove an existing approver from an approval chain can be accessed in the [Greenhouse Handbook page](/handbook/hiring/greenhouse/#updating-requisition-and-offer-approval-flows)
         * Please be sure to update the [Greenhouse Approvals Tracker](https://docs.google.com/spreadsheets/d/1az2hy_l15F6uPHda3W-R6aLHhplYaBxsNdjurmwB3Wc/edit?ts=5eb44f4c#gid=236189940) when updating the approvals flow for requisitions.
 
 </details>
@@ -379,7 +379,7 @@ The Recruiting Operations & Insights team utilizes [Recruiting Operations Issues
     * "I'm not able to connect my LinkedIn to a *Recruiter* (or *Hiring Manager*) seat."
         * First and forement, please ensure that you've added your GitLab email address to your LinkedIn profile and verified it.
     * "I've been given a *Recruiter*, but can't send profiles to Greenhouse via their integration."
-        * Information about setting-up the *Recruiter System Connect* integration can be found [here](https://about.gitlab.com/handbook/hiring/greenhouse/#enabling-linkedin-recruiter-system-connect).
+        * Information about setting-up the *Recruiter System Connect* integration can be found [here](/handbook/hiring/greenhouse/#enabling-linkedin-recruiter-system-connect).
     * "I have a *Recruiter* (or *Hiring Manager) seat, but can't access GitLab's account.
         * Please try signing-out of LinkedIn and when signing back in, please be sure to select GitLab's account. This error often appears if you had a seat with another organisation.
 
@@ -391,7 +391,7 @@ The Recruiting Operations & Insights team utilizes [Recruiting Operations Issues
   </summary>
 
 * "I need to update the offer details/send a new contract to the new hire. Can you please reopen this requisition?"
-    * The process to reopen a requisition for this scenario can be found in the [CES Contract Processes Handbook page](https://about.gitlab.com/handbook/hiring/recruiting-framework/ces-contract-processes/#how-to-resend-a-contract-after-being-marked-as-hired).
+    * The process to reopen a requisition for this scenario can be found in the [CES Contract Processes Handbook page](/handbook/hiring/recruiting-framework/ces-contract-processes/#how-to-resend-a-contract-after-being-marked-as-hired).
 
 </details>
 
@@ -400,7 +400,7 @@ The Recruiting Operations & Insights team utilizes [Recruiting Operations Issues
   System Integrations
   </summary>
 
-* LinkedIn Recruiter: Integration help can be found [here](https://about.gitlab.com/handbook/hiring/greenhouse/#enabling-linkedin-recruiter-system-connect).
+* LinkedIn Recruiter: Integration help can be found [here](/handbook/hiring/greenhouse/#enabling-linkedin-recruiter-system-connect).
 * Other Systems: If you encounter issues with other systems, please try signing-out/in, and/or clearing your cache and cookies first. If the problem still persists, please submit an  [Issues](https://gitlab.com/gl-recruiting/operations/-/issues).
 
 </details>    

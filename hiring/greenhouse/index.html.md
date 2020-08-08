@@ -41,7 +41,7 @@ The last button of note is the `Personalize Dashboard` button at the bottom of t
 
 It's only possible to share a requisition that's posted **externally**. Given the shift to outbound sourcing , this feature is **not** available for specific requisitions. However, you can share the link to our Talent Community sign-up page.
 
-If you would like to [share a link](https://support.greenhouse.io/hc/en-us/articles/200721674-Generate-My-Referrer-Link) with a particular person or on social media, you can do so via the `Share your link with people interested in working at your company` section of your Greenhouse dashboard. Simply choose the requisition you'd like to share, copy the link, and share it as desired. To note, sharing a link with someone or on social media does **not** count as a *Referral* and is thus, **not** eligible for the [Referral Bonus](https://about.gitlab.com/handbook/incentives/#referral-bonuses).
+If you would like to [share a link](https://support.greenhouse.io/hc/en-us/articles/200721674-Generate-My-Referrer-Link) with a particular person or on social media, you can do so via the `Share your link with people interested in working at your company` section of your Greenhouse dashboard. Simply choose the requisition you'd like to share, copy the link, and share it as desired. To note, sharing a link with someone or on social media does **not** count as a *Referral* and is thus, **not** eligible for the [Referral Bonus](/handbook/incentives/#referral-bonuses).
 
 To connect to your social networks, go to your [dashboard](https://app2.greenhouse.io/dashboard) and scroll to the `Share Jobs with your Social Network` section. Click to connect to the desired platforms. Once you've clicked that button, you'll be redirected to the chosen social site and asked if you'll allow Greenhouse to *"Post updates and view your basic profile information"* (you can withhold this at any times in either your Greenhouse or social media settings). Upon accepting, you'll be taken back to your Greenhouse dashboard.
 
@@ -442,7 +442,7 @@ For **Offer Approvals**, the approval chain is as follows:
 
 For **Director-level roles and above**, please add a **fourth step** and list the CEO and CPO (1 of 2 required).
 
-Delays at the **Offer Approval** stage can negatively impact our [time to hire](https://about.gitlab.com/handbook/hiring/metrics/#time-to-offer-accept-days) metric. To keep delays to a minimum, we ask for approvals to be completed within 24 hours of reaching the reviewer. 
+Delays at the **Offer Approval** stage can negatively impact our [time to hire](/handbook/hiring/metrics/#time-to-offer-accept-days) metric. To keep delays to a minimum, we ask for approvals to be completed within 24 hours of reaching the reviewer. 
 
 *Please note* that the approval order should always be `In Order` and **not** `All at once` (located at the top of each section).
 

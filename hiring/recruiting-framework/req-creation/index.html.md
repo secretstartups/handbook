@@ -12,7 +12,7 @@ title: "Recruiting Process Framework for Creating REQs"
 
 ## Requisition Creation Process
 
-Prior to starting the req creation process, a Hiring Manager should follow the steps outlined to create a Job Family or create a MR to edit any relevant Job Family information as needed.  For questions specific to Hiring Plans or how to go about making such changes, please refer to the [Finance section of the handbook]((https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#headcount-and-the-recruiting-single-source-of-truth)). The Hiring manager will then notify the Recruiting Manager or Lead for their organization. The information they should be prepared to share with the [Recruiting Manager/ Lead](/handbook/hiring/recruiting-alignment/) is as follows: 
+Prior to starting the req creation process, a Hiring Manager should follow the steps outlined to create a Job Family or create a MR to edit any relevant Job Family information as needed.  For questions specific to Hiring Plans or how to go about making such changes, please refer to the [Finance section of the handbook]((/handbook/finance/financial-planning-and-analysis/#headcount-and-the-recruiting-single-source-of-truth)). The Hiring manager will then notify the Recruiting Manager or Lead for their organization. The information they should be prepared to share with the [Recruiting Manager/ Lead](/handbook/hiring/recruiting-alignment/) is as follows: 
 * Job Title
 * Office or Territory
 * GitLab Hiring Plan ID
@@ -302,4 +302,4 @@ The [Candidate Experience Specialist](/job-families/people-ops/candidate-experie
 
    Apply internally: LINK
    
-   Review how to make a referral: https://about.gitlab.com/handbook/hiring/referral-process/
+   Review how to make a referral: /handbook/hiring/referral-process/
