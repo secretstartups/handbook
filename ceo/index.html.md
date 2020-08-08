@@ -77,7 +77,7 @@ Sid is easy to talk to on any subject. He is good at drawing people out and chal
 1. Sid is also the driving force for our iteration value. For example, he holds [Iteration Office Hours](/handbook/ceo/#iteration-office-hours).
 1. Sid really values 1:1 preparation.
 1. Sid believes in “strong opinions, weakly held.” He doesn’t always seem like it, but he will change his mind quickly if you present him with compelling new information and a data driven perspective.
-1. Sid loves naming things, and strongly believes in the power of clear language. Learn and use (and add to) our terminology e.g. `It’s not a “best practice”, it’s a “boring solution”`. The [product categories](/handbook/product/categories/) page is a good example. Sid advocates for using [MECEFU terms](https://about.gitlab.com/handbook/communication/#mecefu-terms) to keep communication efficient.
+1. Sid loves naming things, and strongly believes in the power of clear language. Learn and use (and add to) our terminology e.g. `It’s not a “best practice”, it’s a “boring solution”`. The [product categories](/handbook/product/categories/) page is a good example. Sid advocates for using [MECEFU terms](/handbook/communication/#mecefu-terms) to keep communication efficient.
 
 ## Communication
 
@@ -112,7 +112,7 @@ For scheduling a video call or meeting with me or other execs, please see the [E
 As part of my role, I participate in a variety of meetings both internal and external. Please see below for a general overview of these.
 
 ### Daily Meetings
-1. [Group Conversation](https://about.gitlab.com/handbook/people-group/group-conversations/). 25 minutes.
+1. [Group Conversation](/handbook/people-group/group-conversations/). 25 minutes.
 
 ### Weekly Meetings
 1. [1-1s](/handbook/leadership/1-1/) with my direct reports and [EBA](/handbook/eba/). 25-50 minutes.
@@ -126,7 +126,7 @@ As part of my role, I participate in a variety of meetings both internal and ext
 
 ### Monthly Meetings
 1. [Key Review](/handbook/finance/key-meetings/) with Executives and function leaders. 25 minutes.
-1. [CEO Group Conversation](https://about.gitlab.com/handbook/people-group/group-conversations/). 25 minutes.
+1. [CEO Group Conversation](/handbook/people-group/group-conversations/). 25 minutes.
 1. Informal Board Meeting with GitLab Board Members. 50 minutes.
 1. [1-1](/handbook/leadership/1-1/) with CEO Coach. 80 minutes.
 1. [Nominations and Governance](/handbook/board-meetings/#nominating-and-corporate-governance-committee) Meeting. 25 minutes.

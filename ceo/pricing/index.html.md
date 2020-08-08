@@ -11,14 +11,14 @@ title: Pricing model
 
 ## Pricing Philosophy
 
-Our pricing philosophy is aligned with our [GitLab Values](/handbook/values/). 
+Our pricing philosophy is aligned with our [GitLab Values](/handbook/values/).
 
 * **Collaboration**: We want to keep the trust of our customers through a pricing approach that supports long-lasting customer relationships.
 * **Results**: We aim to get a great ROI for our customers while maximizing IACV for GitLab over the long-term.
-* **Efficiency**: Our pricing approach should be easy to understand, plan, and order. 
-* **Diversity, Inclusion and Belonging**: We build GitLab to be the best option for a wide variety of organizations, including educational institutions and organizations in different geographic regions. 
-* **Iteration**: We want to encourage the full scope of GitLab to be adopted over time. 
-* **Transparency**: We are public and explicit about what our pricing is based on. 
+* **Efficiency**: Our pricing approach should be easy to understand, plan, and order.
+* **Diversity, Inclusion and Belonging**: We build GitLab to be the best option for a wide variety of organizations, including educational institutions and organizations in different geographic regions.
+* **Iteration**: We want to encourage the full scope of GitLab to be adopted over time.
+* **Transparency**: We are public and explicit about what our pricing is based on.
 
 ## Departments
 
@@ -76,7 +76,7 @@ For detailed use-cases per tier, visit the [Per Tier Use-Cases page](/handbook/c
 
 ### Partner integration considerations
 
-When building integrations to partners it is possible to make exceptions to our buyer-based model when our tiers don't align well with those of the partner, but only in favor of lower tiers. As an example - a partner who provides a team collaboration tool with a free tier might desire any GitLab integration to be present in our free tier despite it clearly being appropriate for single team usage. The go-to-market benefits of this partnership can outweigh the divergence from our buyer-based model. 
+When building integrations to partners it is possible to make exceptions to our buyer-based model when our tiers don't align well with those of the partner, but only in favor of lower tiers. As an example - a partner who provides a team collaboration tool with a free tier might desire any GitLab integration to be present in our free tier despite it clearly being appropriate for single team usage. The go-to-market benefits of this partnership can outweigh the divergence from our buyer-based model.
 
 ### Capabilities
 
@@ -135,7 +135,7 @@ There are multiple reasons why our lower tiers have more relative value:
 1. Having an open source tier isn't an alternative for a low priced tier. Many organizations need a product that includes [support](https://support.gitlab.com/hc/en-us).
 1. The lower tiers (including open source) are a pipeline of future customers for the higher tiers.
 1. Most of our initial customers are not looking for a complete DevOps platform, they are looking for a point solution, for example for version control or CI. We need to have a paid tier that gets those organizations to pick GitLab.
-1. Having low priced tiers gets more users on the platform who are potential contributors. This increases the amount of contributions to GitLab both in absolute numbers and relative to the open source competition. An open source competitor will likely be our top competitor in 10 years. 
+1. Having low priced tiers gets more users on the platform who are potential contributors. This increases the amount of contributions to GitLab both in absolute numbers and relative to the open source competition. An open source competitor will likely be our top competitor in 10 years.
 1. We can easily increase revenue in the next 3 years by raising prices and/or making lower tiers less attractive (of course [never by moving features up](#moving-a-feature-down)). But we are optimizing the Net Present Value ([NPV](https://www.investopedia.com/terms/n/npv.asp)) of the company with a 10% a year discount rate. This means we have to look beyond 3 years.
 1. Raising prices on our lower tiers might cause more revenue in the short term, both directly and by compelling most organizations to move to higher tiers. But the minority of organizations that switch to a competition will cause them to be much harder for us to reach in the future and will allow competitors a [flywheel effect](/company/strategy/#dual-flywheels) of their own. This tradeoff has to be calculated explicitly when raising prices.
 1. That our lower tiers are popular is not a pricing problem but a communication problem. Higher priced tiers have less value per dollar as a percentage but generate more net value in absolute terms. It is up to us to explain that value in the product, with marketing, and in our sales interactions.
@@ -286,9 +286,9 @@ Currently, we do not offer a different list price for users who only need the re
 1. The list prices of our plans are blended prices with consideration for both developer and non-developer use cases.
 1. We are [selling a suite](/handbook/ceo/pricing/#only-sell-a-suite) and taking care of specific non-developer use cases by making a discount conditional on not using part of the product.
 1. A simplified pricing and packaging (PnP) strategy serves customers in the optimal way per the industry best practice. More SKUs lead to a more complex PnP model as a company scales, which eventually causes huge confusion to customers.
-1. We do not limit a license to the [reporter permission](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) in GitLab. Any reporter user can be updated to a regular developer user by using the same license.  
+1. We do not limit a license to the [reporter permission](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) in GitLab. Any reporter user can be updated to a regular developer user by using the same license.
 
-We understand that our customers have non-developer use cases. Please [contact our sales team](/sales/) or connect with us via [this issue](https://gitlab.com/gitlab-org/gitlab/-/issues/213185) to discuss your specific use cases. 
+We understand that our customers have non-developer use cases. Please [contact our sales team](/sales/) or connect with us via [this issue](https://gitlab.com/gitlab-org/gitlab/-/issues/213185) to discuss your specific use cases.
 
 ## True-up pricing
 
@@ -309,23 +309,23 @@ We understand that our customers have non-developer use cases. Please [contact o
 1. We anticipate that not all of the consumption that is included in the accounts is used.
 1. We simplify the pricing model for our customers whenever we can. For example, our pricing is one fee for storage, while the underlying repository might be on a Solid State Drive (SSD) or Hard Disk Drive (HDD).
 1. In the future we can offer extra credits if users do something that generates value to the company. Similar to the Dropbox "get GBs for inviting a friend" offering. Examples: Using new stages, linking to a partner (AWS/GCP), and inviting new users.
-1. Prepay vs. postpay: We select prepayment since it solves non-payment problems like bitcoin miners. It’s also more predictable for users with fewer unexpected bills, so it makes budgeting easier. Postpay reduces the risk of infrastructure going down due to the lack of funds. In GitLab, most of the consumption is driven by people in the organization instead of their customers. This makes it more likely that we can get them to pay quickly when that is needed. We should think about emergency processes for enterprise customers that have long ordering cycles. 
+1. Prepay vs. postpay: We select prepayment since it solves non-payment problems like bitcoin miners. It’s also more predictable for users with fewer unexpected bills, so it makes budgeting easier. Postpay reduces the risk of infrastructure going down due to the lack of funds. In GitLab, most of the consumption is driven by people in the organization instead of their customers. This makes it more likely that we can get them to pay quickly when that is needed. We should think about emergency processes for enterprise customers that have long ordering cycles.
 1. Manual vs. automatic ordering: We need both. We'll start with manual ordering since that is simpler to make, we need it anyway, and it leads to fewer unexpected bills for customers. Automatic ordering will help customers prevent their developers being ineffective because they don't have minutes. At some point, we might change the default from manual to automatic. If we do, we should communicate this well and always give customers the option to keep it manual.
 1. Recurring vs. non-recurring: We will make it recurring for anything that was manually ordered and non-recurring for anything that was automatically ordered. Recurring reduces work on the side of the customers. Non-recurring reduces the chance of customers paying for consumption they don't use.
 1. Refundable vs. non-refundable: We'll make it non-refundable for now, since refundable is complex to implement, has legal constraints, and makes revenue recognition harder. Refundable would be better for customers that have more consumption purchased than they need.
-1. Split vs. combined pricing: Do you charge separately for storage and minutes, or do you buy a bunch of credits you can use for both? We select split pricing, because it makes it simpler to understand. The hyperclouds are also going this way with [reserved instances](https://aws.amazon.com/ec2/pricing/reserved-instances/) and [free tiers](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc) are also for specific products. 
+1. Split vs. combined pricing: Do you charge separately for storage and minutes, or do you buy a bunch of credits you can use for both? We select split pricing, because it makes it simpler to understand. The hyperclouds are also going this way with [reserved instances](https://aws.amazon.com/ec2/pricing/reserved-instances/) and [free tiers](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc) are also for specific products.
 1. Dollars vs. credits vs. native: Do we add x dollars to an account, add credits, or add compute minutes and storage GBs. We choose native since it is simplest to understand if you do split pricing. Not all minutes are the same (sizes, operating system) but we can use a multiplication factor for that. More than 95% of the minutes are of the 1x type, so native instead of credits makes it easier in most situations.
 1. Partial vs. full refill: We do a full refill since it is simpler to communicate, understand, bill, and administer. CircleCI does a partial refill for 25% of your normal credits.
 1. How much free? We should probably do 5x less than the lowest tier since we have 5x between the paid tiers. GitHub followed our pricing so that isn't a good source of comparison. CircleCI does 250 minutes on the free plan.
 1. Accumulative vs. non-cumulative:
-     
+
      The pros with the accumulative approach are:
-     1. It makes more logical sense. 
+     1. It makes more logical sense.
      1. It is more fair as customers will have more minutes and storage as they sign up more users.
      1. It is aligned with our tier pricing metric.
      1. It incentivizes more users per namespace of which we know it drives conversion.
      1. It drives free users to more quickly buy consumption and convert them into customers.
-    
+
      The pros with the non-cumulative approach are:
      1. It seems that per namespace is easier to communicate.
      1. Customers don't need to do calculations on the total minutes and storage they are getting when signing on contracts, renewals, adding users, etc. as long as they stay under the total it is a predictable bill.
@@ -335,7 +335,7 @@ We understand that our customers have non-developer use cases. Please [contact o
      1. This gives the most to free users, for whom purchasing consumption is a big hurdle to try GitLab.
      1. We need to make sure that a paid tier doesn’t benefit from free users quota.
      1. Some other vendors' pricing metrics are like this as well.
-     
+
      We currently think the pros with the non-cumulative approach outweigh the pros with the cumulative approach.
 1. Per user vs. per namespace: Are the consumption limits provisioned per user or per namespace?
 In the case of per namespace, the user gets more minutes and storage when they create another namespace. In the case of per user, the user receives fixed minutes and storage across all their contributions.  We currently provision consumption limits per namespace. A user namespace also receives the group namespace’s quota.
@@ -398,9 +398,9 @@ Arguments supporting monthly pricing
 1. Monthly billing gives customers another way to buy and thus reduces barriers to adoption of the product.
 1. Monthly pricing can align with billing of combined or dependent products/services that are already billed monthly. (ex: if bundled with another monthly service)
 
-## Why show monthly pricing on the website 
+## Why show monthly pricing on the website
 
-Almost all SaaS products show monthly pricing on their pricing pages. GitLab shows [monthly pricing on the website](/pricing/) and notes that it is billed annually. This is also a standard practice followed by companies like [Salesforce](https://www.salesforce.com/editions-pricing/sales-cloud/). We previously have tried showing annual pricing on the website, but repeatedly heard from customers that they were confused by it. They often thought our product was priced significantly higher than it actually was because they expected the pricing to be displayed in monthly units and read the annual price as though it were per month. 
+Almost all SaaS products show monthly pricing on their pricing pages. GitLab shows [monthly pricing on the website](/pricing/) and notes that it is billed annually. This is also a standard practice followed by companies like [Salesforce](https://www.salesforce.com/editions-pricing/sales-cloud/). We previously have tried showing annual pricing on the website, but repeatedly heard from customers that they were confused by it. They often thought our product was priced significantly higher than it actually was because they expected the pricing to be displayed in monthly units and read the annual price as though it were per month.
 
 ## Only sell a suite
 
@@ -474,7 +474,7 @@ To simplify the above, we base our feature groupings on champion position (see b
 ## Buyer-Based-Open-Core
 
 The likely type of buyer determines what features go in what tier.
-Our plans are based on [the buyer](#four-tiers) that buys GitLab, from individual contributor, to manager, to director, to executive. Every person in the company [is on the same tier](/handbook/ceo/pricing/#multiple-plans-for-one-customer), even if they don't use all the features. 
+Our plans are based on [the buyer](#four-tiers) that buys GitLab, from individual contributor, to manager, to director, to executive. Every person in the company [is on the same tier](/handbook/ceo/pricing/#multiple-plans-for-one-customer), even if they don't use all the features.
 The feature is put in the plan based on what champion is most likely to **care** about it.
 Buyers make sense, since a higher-cost plan needs a higher-placed buyer.
 
@@ -492,7 +492,7 @@ Also see [fork and commoditize](/handbook/leadership/biggest-risks/#fork-and-com
 
 **A customer asked why merge request approvals where not included in core:**
 
-> Thanks for asking. We think that managers are more likely to care about merge requests approvals than individual contributors. That doesn't mean that individual contributors don't care about them. And it doesn't mean that in all cases managers care more, just in most cases.  For more information please see our Buyer Based Open Core model: [https://about.gitlab.com/handbook/ceo/pricing/#buyer-based-open-core](/handbook/ceo/pricing/#buyer-based-open-core).
+> Thanks for asking. We think that managers are more likely to care about merge requests approvals than individual contributors. That doesn't mean that individual contributors don't care about them. And it doesn't mean that in all cases managers care more, just in most cases.  For more information please see our Buyer Based Open Core model: [/handbook/ceo/pricing/#buyer-based-open-core](/handbook/ceo/pricing/#buyer-based-open-core).
 
 ## If a feature can be moved down do it quickly
 
@@ -529,7 +529,7 @@ While other parts of the GitLab organization are consulted, the CEO is the [dire
 
 ## Bringing features to lower tiers and pricing changes
 
-To propose a change that impacts pricing or moves a feature down in tier (e.g. moving a feature from Premium to Core), please follow the process outlined in the [Feature Tier or Pricing Change issue template](https://gitlab.com/gitlab-com/Product/issues/new?issuable_template=Feature-Tier-Or-Pricing-Change). 
+To propose a change that impacts pricing or moves a feature down in tier (e.g. moving a feature from Premium to Core), please follow the process outlined in the [Feature Tier or Pricing Change issue template](https://gitlab.com/gitlab-com/Product/issues/new?issuable_template=Feature-Tier-Or-Pricing-Change).
 
 ## DevOps score is not maturity
 
