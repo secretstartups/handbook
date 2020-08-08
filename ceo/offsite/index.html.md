@@ -35,8 +35,8 @@ They commit to being active participants by proposing topics to the agenda befor
 They establish criteria for success for the discussion topics by, for example, identifying decisions to be made or establishing clarity on what the next steps need to be. 
 If decisions need to be made to stop, continue, or change discussion when there is disagreement on path forward, the decision is responsibility of the topic executive sponsor.
 
-The **CEO Shadows** are responsible for [taking thorough notes](/handbook/ceo/offsite/#notes) throughout the event, so that the E-Group can be focused on the discussion. 
-CEO Shadows will also tasked with making [Merge Requests](/handbook/ceo/offsite/#document-during-meeting) on behalf of an Executive. 
+The **CEO Shadows** are responsible for taking thorough notes throughout the event, so that the E-Group can be focused on the discussion. 
+CEO Shadows will also tasked with making Merge Requests on behalf of an Executive. 
 Please follow the below outlined process for announcing and merging the changes. 
 
 The **Chief of Staff** or other team member is responsible for facilitating the event. 
@@ -146,7 +146,7 @@ These include:
 1. Reviewing action items from the last offsite
 1. Dependencies outside of OKRs (2 hours, ~15 mins per function)
 1. [Talent Assessment and Succession Planning](/handbook/people-group/performance-assessments-and-succession-planning/) (1.5 hrs, ~10 mins per function)
-1. [Director+ Promotions](/handbook/people-group/promotions-transfers/index.html#offer-process-in-bamboohr-or-greenhouse) (as-needed based on number of people, estimate ~10 mins per person)
+1. [Director+ Promotions](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process) (as-needed based on number of people, estimate ~10 mins per person)
 1. [Book Discussion](/handbook/ceo/offsite/#book-choice) (30 minutes - 1 hour)
 1. Spending Plus/Minus 10% - Each e-group member will present a list of initiatives where they would spend additional budget dollars if made available and a list of items where they would make reductions if necessary. The amount of each list will equal 10% of the current quarter forecasted gross expenses. These initiatives should be added to the E-Group Offsite agenda one week in advance of the offsite by the E-Group member of each function. (1 hour)
 1. Board preparation - Align on key messaging, presentation outline and ownership for completing slides for next board meeting. (1 hour)

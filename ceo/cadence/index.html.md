@@ -122,7 +122,7 @@ gantt
 
 ## Month
 
-- [Key Meetings](/handbook/finance/key-meetings/#key-monthly-review)
+- [Key Meetings](/handbook/finance/key-meetings/)
 - [Release](/releases/)
 - [Retrospective](/handbook/communication/#kickoffs)
 - [Most KPIs](/handbook/business-ops/data-team/metrics/)
@@ -136,8 +136,8 @@ gantt
 
 ## Year
 
-- [4 quarter rolling forecast](/handbook/finance/financial-planning-and-analysis/#financial-planning--gitlab)
-- [Annual plan](/handbook/finance/financial-planning-and-analysis/#annual-plan)
+- [4 quarter rolling forecast](/handbook/finance/financial-planning-and-analysis/#quarterly-forecast-rolling-four-quarters)
+- [Annual plan](/handbook/finance/financial-planning-and-analysis/#planning-process--gitlab)
 - Most of [Direction](/direction/)
 
 ## Strategy
