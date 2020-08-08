@@ -281,7 +281,7 @@ However, there are many short-term administrative tasks you'll be asked to perfo
 1. Solve urgent issues. For example, help solve a complaint from a customer or coordinate the response to a technical issue.
 1. Share [thanks](/handbook/communication/#say-thanks) in the `#thanks` channel in Slack when it comes from a customer or wider community member in a meeting.
 1. Compile a report on a subject.
-1. Write an unfiltered blog, a recorded reflection of your experience, or a CEO Interview on a topic of your choice. Please see [the blog handbook](/handbook/marketing/blog/unfiltered/) for information about the publishing process, and be sure to read previous CEO shadows' blog posts before you start writing to ensure that your post has a new angle. Link this to the table in the [Alumni](/handbook/ceo/shadow/#alumni/) section. These do not need to be approved by the CEO but he will happily review them if you'd like.
+1. Write an unfiltered blog, a recorded reflection of your experience, or a CEO Interview on a topic of your choice. Please see [the blog handbook](/handbook/marketing/blog/unfiltered/) for information about the publishing process, and be sure to read previous CEO shadows' blog posts before you start writing to ensure that your post has a new angle. Link this to the table in the [Alumni](/handbook/ceo/shadow/#alumni) section. These do not need to be approved by the CEO but he will happily review them if you'd like.
 1. Ensure visual aids and presentations are visible to guests during in-person meetings.
 1. Prepare for and receive guests at Mission Control.
 1. Offer GitLab swag to guests at Mission Control before they leave.
@@ -420,7 +420,7 @@ Shadows should also notify meeting participants if a meeting is running over the
 
 ##### If you see something, say something
 
-Shadows should notify GitLab meeting participants if their [name and job title](/handbook/tools-and-tips/#adding-your-title-to-your-name) are not mentioned on Zoom.
+Shadows should notify GitLab meeting participants if their [name and job title](/handbook/tools-and-tips/zoom/#adding-your-title-to-your-name) are not mentioned on Zoom.
 
 If you notice that someone does not have their picture set in Google when a Google document is being actively worked on, [let them know how to set one](https://myaccount.google.com/personal-info) so their picture will show up in the document rather than their first initial.  That makes it easier for everyone to find where they are in the document, especially when they are speaking.  Let them know that this is 100% optional.
 
@@ -645,7 +645,7 @@ The wireless mouse and keyboard are connected to the bottom left TV by default b
 
 Turning all screens on or off might be challenging since a single remote controls all of them. The easiest way to do that is to make a cone with the foil (a piece of foil can be found on the white TV-remote tray) around the front edge of the remote, and getting as close as possible to a single screen while turning it on or off.
 
-Each of the screens at Mission Control use an Asus Chromebit to display the preferred content and are connected to the HDMI1 port of each TV. If you turn on the TVs and one displays a blank screen while on the HDMI1 input, the Chromebit may need to be reset. You can do this by power cycling the Chromebit (they are located behind the bottom right TV and are labeled), connecting the Chromebit to the [keyboard and mouse](/handbook/ceo/shadow/#how-to-use-keyboard-and-mouse-to-update-screens), and logging into it using the credentials in the "[CEO Shadow Vault](https://gitlab.1password.com/vaults/tq7hndbk2xjcwc5czwcq7qt6kq/allitems/piqiei3hcjdz7lpmpsyppwxmfi)" via 1Password. Once you have logged into the Chromecast, you can quickly find the proper content as listed in [Configuring the Screens](/handbook/ceo/shadow/#configuring-the-screens) via the browser's recent history.
+Each of the screens at Mission Control use an Asus Chromebit to display the preferred content and are connected to the HDMI1 port of each TV. If you turn on the TVs and one displays a blank screen while on the HDMI1 input, the Chromebit may need to be reset. You can do this by power cycling the Chromebit (they are located behind the bottom right TV and are labeled), connecting the Chromebit to the [keyboard and mouse](/handbook/ceo/shadow/#how-to-use-keyboard-and-mouse-to-update-screens), and logging into it using the credentials in the "[CEO Shadow Vault](https://gitlab.1password.com/vaults/tq7hndbk2xjcwc5czwcq7qt6kq/allitems/piqiei3hcjdz7lpmpsyppwxmfi)" via 1Password. Once you have logged into the Chromecast, you can quickly find the proper content as listed in [Configuring the Screens](/handbook/ceo/shadow/#configuring-the-monitors) via the browser's recent history.
 
 ##### Updating the software on the monitors
 {:.no_toc}
@@ -725,7 +725,7 @@ In preparation for guests (customers, investors, etc.) who will be meeting with 
 1. Get the glasses from the cupboard above the coffee machine and place them next to the drink tray.
 1. Add the Brita water pitcher on the table.
 1. Place the keyboard and the mouse (used for Mission Control screens) on the table.
-1. Ensure that all 6 monitors are displaying the [correct content](/handbook/ceo/shadow/#mission-control-device-setup). If any of the screens are blank, follow the [trouble-shooting instructions](/handbook/ceo/shadow/#troubleshooting-the-monitors).
+1. Ensure that all 6 monitors are displaying the [correct content](/handbook/ceo/shadow/#monitors). If any of the screens are blank, follow the [trouble-shooting instructions](/handbook/ceo/shadow/#troubleshooting-the-monitors).
 1. For investor or banker meetings, see the [confidential issue](https://gitlab.com/gitlab-com/ceo-shadow/tasks/issues/50) with more details on preparations.
 1. If someone is attending a meeting at Mission Control via [Zoom Rooms](#zoom-room):
     1. Follow the setup steps for [Zoom Rooms](#zoom-room).
