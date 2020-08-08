@@ -181,7 +181,7 @@ Since participation in the Select Track is by invitation only, partners are not 
   *   Minimum one GitLab demand generation activity per quarter
 3. **Technology** partners drive GitLab solutions through product integrations and marketplaces as part of our Technology Alliances program. They are key to completing our customer solutions through integrations with cloud platforms, legacy DevOps solutions and other solutions needed to meet customer requirements.
 
-    For additional information about our Technology Alliances program, please visit the[ Alliances Handbook Page.](https://about.gitlab.com/handbook/alliances/)
+    For additional information about our Technology Alliances program, please visit the[ Alliances Handbook Page.](/handbook/alliances/)
 
 
 
@@ -307,7 +307,7 @@ discount rate.
 *   GitLab collaborates with partners holding the approved deal registration and is available to support partners throughout the entire sales process.
 *   In the event the engagement is dissolved, the GitLab Sales Rep will generally notify you by phone or email. GitLab will reconsider other deal registrations submitted for this deal, in chronological order of submission. If there are no other registration requests submitted, the GitLab Sales Rep will typically initiate engagement with a reseller of the GitLab Sales Rep’s choosing.
 
-To learn how to enter a deal registration, vist the [Deal Registration Instructions](https://about.gitlab.com/handbook/resellers/#deal-registration-instructions) section below.
+To learn how to enter a deal registration, vist the [Deal Registration Instructions](/handbook/resellers/#deal-registration-instructions) section below.
 
 
 ### The Market Development Funds (MDF) Program
@@ -424,14 +424,14 @@ To get started with GitLab,  register your company by going to https://partners.
 GitLab training programs are available primarily through the [GitLab Partner Portal](https://partners.gitlab.com).  There you will find the certification courses and testing needed to meet your GitLab program requirements for sales, pre-sales technical and professional services training.  Additional training materials can be found in the GitLab Handbook:
 
 
-*   [Sales Quickstart Learning](https://about.gitlab.com/handbook/sales/onboarding/sales-learning-path/) - This is an overview of the GitLab Sales training plus additional learning materials.
+*   [Sales Quickstart Learning](/handbook/sales/onboarding/sales-learning-path/) - This is an overview of the GitLab Sales training plus additional learning materials.
 *   [Reseller Webcast Archive](https://about.gitlab.com/webcast/reseller/).  Review recent channel webcasts providing deep dive learning on key GitLab topics.
 *   [GitLab Training Handbook page](https://about.gitlab.com/training/) - This page provides a subset of on-demand product and technical content suggested based on your role and skill level.
 
 
 #### Deal Registration Instructions
 
-Our GitLab Deal Registration process allows us to incentivize our partners to source and close GitLab products and services opportunities and avoid channel conflict. You can find an overview of the deal registration program, including rules of engagement [here](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview).  The following provides instructions for this process.
+Our GitLab Deal Registration process allows us to incentivize our partners to source and close GitLab products and services opportunities and avoid channel conflict. You can find an overview of the deal registration program, including rules of engagement [here](/handbook/resellers/#the-deal-registration-program-overview).  The following provides instructions for this process.
 
 
 ##### Submitting a Deal Registration
@@ -516,7 +516,7 @@ If your customer will be paying us via a Purchase Order, then you must email us 
 
 ##### Paying via Invoice
 
-To pay via invoice, simply e-sign the[ reseller quote](https://about.gitlab.com/handbook/resellers/#gitlab-quote) to initiate an invoice, then remit payment in USD to the bank listed on your quote.
+To pay via invoice, simply e-sign the[ reseller quote](/handbook/resellers/#gitlab-quote) to initiate an invoice, then remit payment in USD to the bank listed on your quote.
 
 
 ##### Execute the GitLab EULA
@@ -534,7 +534,7 @@ An order is not complete without a signed agreement.
 #### Evaluation Licenses for Prospects
 
 
-*   We will issue a 30-day evaluation license for your prospects if the deal is properly[ registered](https://about.gitlab.com/handbook/resellers/#deal-registration).
+*   We will issue a 30-day evaluation license for your prospects if the deal is properly[ registered](/handbook/resellers/#deal-registration).
 *   We can renew this license if your customer needs more time.
 *   Upon the second request for renewal (the third license), we assist you with a managed evaluation, where goals are set for the customer to meet. One of our Solutions Architects works with you and the prospect to bring them to completion before the third evaluation expires.
 
@@ -551,7 +551,7 @@ GitLab marketing resources can be found on the [GitLab Partner Portal](partners.
 
 ##### Campaigns on portal
 
-*   Learn more about our campaigns:[ https://about.gitlab.com/handbook/marketing/product-marketing/analyst-relations/channel-marketing/](https://about.gitlab.com/handbook/marketing/product-marketing/analyst-relations/channel-marketing/)
+*   Learn more about our campaigns:[ /handbook/marketing/product-marketing/analyst-relations/channel-marketing/](/handbook/marketing/product-marketing/analyst-relations/channel-marketing/)
 
 ##### Swag Requests
 
@@ -565,7 +565,7 @@ Your website needs to have a landing page with information about GitLab. You can
 
 *   We prefer your landing page to be at yoururl.com/GitLab, but where this is not possible, we ask you to set a redirect for that URL to the actual one.
 *   We highly encourage your landing page to be in the local language. There are plenty of English-language resources on GitLab, so providing them in the native tongue of your customers adds value.
-*   You should use our[ Authorized Reseller Logo](https://about.gitlab.com/handbook/resellers/#Logo) on your page, and have it link back to us at about.gitlab.com.
+*   You should use our[ Authorized Reseller Logo](/handbook/resellers/#Logo) on your page, and have it link back to us at about.gitlab.com.
 *   Please include a _“What is GitLab?”_ paragraph.
 *   Wherever you mention a GitLab product or feature, there should be a link back to our corresponding item on about.gitlab.com.
 
@@ -657,7 +657,7 @@ Visit the portal at partners.gitlab.com.
 
 #### The GitLab Handbook
 
-The GitLab team handbook is the central repository for how we run the company. Printed, it consists of over[ 5,000 pages of text](https://about.gitlab.com/handbook/about/#count-handbook-pages). As part of our value of being transparent the handbook is[ open to the world](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/handbook), and we welcome feedback. Although the Portal is your first source of partner information, we often link to the Handbook for detailed information.  If you are unable to find information you need on the Partner Portal, you are encouraged to search pages of GitLab Handbook.
+The GitLab team handbook is the central repository for how we run the company. Printed, it consists of over[ 5,000 pages of text](/handbook/about/#count-handbook-pages). As part of our value of being transparent the handbook is[ open to the world](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/handbook), and we welcome feedback. Although the Portal is your first source of partner information, we often link to the Handbook for detailed information.  If you are unable to find information you need on the Partner Portal, you are encouraged to search pages of GitLab Handbook.
 
 
 #### Partner FAQ's
@@ -669,7 +669,7 @@ The GitLab team handbook is the central repository for how we run the company. P
 * This is the date when a deal registration is submitted via the Partner Portal. 
 
 **For quotes sent prior to the new program announcement, how long will they remain valid?** 
-* Quotes will be valid for 30 days, per standared GitLab quote [Guidelines.](https://about.gitlab.com/handbook/business-ops/order-processing/) 
+* Quotes will be valid for 30 days, per standared GitLab quote [Guidelines.](/handbook/business-ops/order-processing/) 
 
 **How long are quotes valid under the new program?** 
 * Quotes will be valid for 30 days, per the GitLab quote guidelines. 
