@@ -117,7 +117,7 @@ https://docs.gitlab.com/search/?q={query}
 ```
 
 ```
-https://about.gitlab.com/handbook/#stq={query}&stp=1
+/handbook/#stq={query}&stp=1
 ```
 
 ### Brain.fm
