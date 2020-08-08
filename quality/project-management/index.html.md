@@ -31,7 +31,7 @@ The Quality team currently works cross-functionally and our task ownership spans
 
 Upon joining the Quality department, team members are granted either developer, maintainer, or owner access to a variety of core projects. For projects where only developer access is initially granted, there are some criteria that should be met before maintainer access is granted.
 
-For general information, please see the [engineering workflow page](https://about.gitlab.com/handbook/engineering/workflow/code-review/#how-to-become-a-maintainer) about how to become a maintainer.
+For general information, please see the [engineering workflow page](/handbook/engineering/workflow/code-review/#how-to-become-a-maintainer) about how to become a maintainer.
 
 * [GitLab (/qa)](https://gitlab.com/gitlab-org/gitlab/-/tree/master/qa)
   * Quality team members are code owners for this directory. If you are tagged by a developer and don't yet feel comfortable approving a merge request, please tag another member of the Quality department to help review.

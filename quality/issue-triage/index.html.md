@@ -64,7 +64,7 @@ Severity labels help us clearly communicate the impact of a `~bug` on users. The
 
 ### UX debt
 
-Issues labeled as `~UX Debt` can also have a severity and priority labels applied *without* an accompanying `~bug` label. UX Debt results from the decision to release a user-facing feature that needs refinement, with the intention to improve it in subsequent iterations. Because it is an intentional decision, `~UX Debt` should not have a severity higher than `~S3`, because [MVCs](https://about.gitlab.com/handbook/values/#minimal-viable-change-mvc) should not intentionally have obvious bugs or significant usability problems.
+Issues labeled as `~UX Debt` can also have a severity and priority labels applied *without* an accompanying `~bug` label. UX Debt results from the decision to release a user-facing feature that needs refinement, with the intention to improve it in subsequent iterations. Because it is an intentional decision, `~UX Debt` should not have a severity higher than `~S3`, because [MVCs](/handbook/values/#minimal-viable-change-mvc) should not intentionally have obvious bugs or significant usability problems.
 
 ### Examples of severity levels
 
