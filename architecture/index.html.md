@@ -7,7 +7,7 @@ title: "Architecture"
 
 As GitLab grows, through the introduction of new features and improvements on existing ones, so does its **complexity**. This effect is compounded by the care and feeding of a single codebase that supports the wide variety of environments in which it runs, from small self-managed instances to large installations such as GitLab.com. The company itself adds to this complexity from an organizational perspective: nearly 1300 employees world-wide contribute in one way or another to both the product and the company, using GitLab.com on a daily basis to do their job. Teams members in Engineering are directly responsible for the codebase and its operation, for the infrastructure powering GitLab.com, and for the support of customers running self-managed instances. Likewise, team members in the Product organization chart the future of the product.
 
-[Our values](https://about.gitlab.com/handbook/values/), coupled with strong know-how and unparalled dedication, provide critical guidance to manage these complexities. At the same time, we have known for some time we are crossing a threshold in which **complexity at scale**, both technical and organizational, is playing a significant role. We know we need to fine-tune our both our technical discipline (so we can integrate it across the organization) and our organizational amplification (so we can span and leverage the entire organization) to ensure we can continue to deliver on our values. In this context, we have been exploring the adoption of *Architecture* or *Engineering Practice* to help us in this regard.
+[Our values](/handbook/values/), coupled with strong know-how and unparalled dedication, provide critical guidance to manage these complexities. At the same time, we have known for some time we are crossing a threshold in which **complexity at scale**, both technical and organizational, is playing a significant role. We know we need to fine-tune our both our technical discipline (so we can integrate it across the organization) and our organizational amplification (so we can span and leverage the entire organization) to ensure we can continue to deliver on our values. In this context, we have been exploring the adoption of *Architecture* or *Engineering Practice* to help us in this regard.
 
 ## Architecture
 
@@ -29,13 +29,13 @@ Such definition implies a solid reliance on **influence** rather than authority 
 **Architecture as a practice is everyone's responsibility**, but it is notably engrained in senior technical leadership roles, where the roles' levels and their sphere of influence determine DRI responsibilities within the practice:
 
 * **Engineering Fellows** (EFs) are DRIs for the overall Architecture Practice
-  * EFs operate at the [Division and Department](https://about.gitlab.com/company/team/structure/#organizational-structure) levels (EVPs, VPs and Senior Directors), and, to a lesser but still significant extent, [E-group](https://about.gitlab.com/handbook/leadership/#e-group)
-  * EFs are technical partners to their Department VPs and Senior Directors ([S-group](https://about.gitlab.com/handbook/leadership/#s-group))
+  * EFs operate at the [Division and Department](https://about.gitlab.com/company/team/structure/#organizational-structure) levels (EVPs, VPs and Senior Directors), and, to a lesser but still significant extent, [E-group](/handbook/leadership/#e-group)
+  * EFs are technical partners to their Department VPs and Senior Directors ([S-group](/handbook/leadership/#s-group))
   * EFs lead the collaborative production of 12-month Technology Roadmaps which maps to [pre-existing cadence](https://about.gitlab.com/direction/#1-year-plan). They are distinct but closely aligned with Product Roadmaps. Technology Roadmaps are aligned with to be updated as needed, but at least every 6 months, and their first iteration is slated for August 1, 2020 (so they can incluence Q3 OKRs).
   * EFs have strong input on Department OKRs
 * **Distinguished Engineers** (DEs) are DRIs for the Architecture Practice in their respective Departments and Sub-departments
   * DEs operate at the [Department and Sub-department](https://about.gitlab.com/company/team/structure/#organizational-structure) levels (Directors and Senior Managers)
-  * DEs are technical partners to Directors and Senior Managers in their Departments ([D-group](https://about.gitlab.com/handbook/leadership/#director-group))
+  * DEs are technical partners to Directors and Senior Managers in their Departments ([D-group](/handbook/leadership/#director-group))
   * DEs produce 6-month roadmaps for their department's technical direction, again aligned with Product
   * DEs also have strong input in aligning OKRs at the department level
 * **Staff Engineer**s (SEs) are DRIs for the Architecture Practice in their respective Teams
@@ -56,7 +56,7 @@ It is worth stressing that partnerships and close working relations as outlined 
 7. In the RFC-like style they get more people involved into the discussion to collect more feedback
 8. The blueprint describes 1-year outlook and 3 iterations in the first 3 milestones
 9. When DRIs deemed so, the blueprint gets merged by an Engineering Leader
-10. 3 [Directly Responsible Individuals (DRIs)](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) get assigned and collaborate together to get the work done
+10. 3 [Directly Responsible Individuals (DRIs)](/handbook/people-group/directly-responsible-individuals/) get assigned and collaborate together to get the work done
 11. A [Working Group](https://about.gitlab.com/company/team/structure/working-groups/) can be formed if needed, but is not required
 12. DRIs propagate the blueprint across sub-departments and ensure that work gets scheduled
 13. Teams schedule their work based on their interpretation of 1-year and 3-months outlook

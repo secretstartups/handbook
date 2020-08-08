@@ -202,7 +202,7 @@ Those who have been involved in the discussion in the blueprint merge request
 collaborate together to extend it with a 3-months landscape. More Domain
 Experts get involved if necessary. The result of this collaboration could be
 a description of three first iterations that can be done in a one milestone each.
-These iterations need to be [two-way-door](https://about.gitlab.com/handbook/values/#make-two-way-door-decisions) solutions with a measurable impact.
+These iterations need to be [two-way-door](/handbook/values/#make-two-way-door-decisions) solutions with a measurable impact.
 
 If it is not possible to find at least two iterations, the blueprint merge
 request can not be approved and merged.
