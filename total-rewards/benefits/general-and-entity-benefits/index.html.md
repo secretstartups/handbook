@@ -248,7 +248,7 @@ Is the 16-week balance per birth or adoption event?
 * Yes, you may take up to 16 weeks of Parental Leave per birth or adoption event.
 
 I haven't been at GitLab for 6 months, can I go on Paid Time Off to spend time with my family?
-* Of course, please refer to our [Paid Time Off policy](https://about.gitlab.com/handbook/paid-time-off/#paid-time-off).
+* Of course, please refer to our [Paid Time Off policy](/handbook/paid-time-off/#paid-time-off).
 
 What support is available after I return from Parental Leave?
 * This [handbook page](/handbook/paid-time-off/#returning-to-work-after-parental-leave) has resources for team members returning to work after parental leave.

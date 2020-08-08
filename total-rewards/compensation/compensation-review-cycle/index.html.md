@@ -112,13 +112,13 @@ While some GitLab team-members may not receive an increase due to already being 
 * If you select to sign in with an alias, you will receive an error and not be able to sign in. You can confirm your original GitLab email address on the Personal tab of BambooHR.
 * ![incorrect email](/images/handbook/people-group/2_Compaas.png)
 1. Once you have logged in, you will see your slate. Your slate will have a card for each of the team members you will be recommending a raise for.
-1. The card will list the team member's name, role, benchmark role, level, [compa group](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#compa-group), raise amount and percent, compensation before and after any adjustments, range with range penetration, and notes.
+1. The card will list the team member's name, role, benchmark role, level, [compa group](/handbook/total-rewards/compensation/compensation-calculator/#compa-group), raise amount and percent, compensation before and after any adjustments, range with range penetration, and notes.
 * ![slate owner](/images/handbook/people-group/3_Compaas.png)
 * The role is located under the team member's name. This is the team member's job title including level, for example, Senior or Associate.
 * Underneath the role is the [benchmark role](/handbook/total-rewards/compensation/compensation-calculator/#sf-benchmark). This is the job title that is used for determining the base compensation before other inputs such as level are evaluated. For example, the benchmark role for a Senior Backend Engineer is a Backend Engineer.
 * Next to the team member's name is their level. This is a job code used internally that is unique to each role.
 * Next to the level is the [compa group](/handbook/total-rewards/compensation/compensation-calculator/#compa-group). These were selected by managers for each of their reports in the last Compa Group Review.
-* Each team member will have a minimum recommended increase loaded into Compaas by the Total Rewards team. This number brings the team member to the bottom of their compa group using all [current inputs to the compensation calculator](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/). Discretionary Raise is money that can be allocated to a team member to bring them higher in their compa group range. This can be allocated as either a cash amount or percentage.
+* Each team member will have a minimum recommended increase loaded into Compaas by the Total Rewards team. This number brings the team member to the bottom of their compa group using all [current inputs to the compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/). Discretionary Raise is money that can be allocated to a team member to bring them higher in their compa group range. This can be allocated as either a cash amount or percentage.
 * The minimum recommended increase will appear underneath the raise field if you allocate less than this amount. Any money added in addition to this amount will be considered a discretionary raise and subject to e-group leader approval. A quick way to see what the minimum recommended increase is is to enter "1" and if there's a recommendation it'll populate below the raise field.
 * ![min recommended increase](/images/handbook/people-group/Compaas_Minimum_Increase.png)
 * The team member's compensation before (light gray) and after (green) any adjustments is listed to the right of the percent increase.
@@ -185,7 +185,7 @@ In FY21, the budget was 6% of all team members as of October 31, 2019. For the n
 1. Annual Compensation Review Budget
   * 6% of those who were not promoted. Therefore 6% of 88% of the population.  
   * The annual compensation review budget is held by each e-group leader. The leader can allocate budget however appropriate within their division, but cannot move funds to another division. 
-  * The budget for [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and above is managed by the Compensation Group internally to GitLab, and approved by the Compensation Committee at the Board level. 
+  * The budget for [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and above is managed by the Compensation Group internally to GitLab, and approved by the Compensation Committee at the Board level. 
 1. Relocation Budget
   * Relocations are not considered in the budget. Theoretically throughout the year, there would be a net zero from those moving to higher-cost and lower-cost regions.
 1. Budget Rollovers: The budget from annual compensation review can rollover into the catch up compensation review or the promotion budget for that fiscal year. For example, if Engineering has 20,000 USD left after the FY22 annual compensation review process, they can use these funds for promotions in FY22. At the end of each fiscal year, the budgets will reset.
@@ -222,7 +222,7 @@ This review will only take into account a compa group alignment (if any). Team m
 1. 2020-07-01 - 2020-07-17: Compa Group Review
    * The Total Rewards team will reach out to the managers to obtain compa groups for each active team member with a hire date between November 1 and January 31. Optionally, managers may also evaluate team members who received a 0% increase during the last Annual Compensation Review cycle.
    * Manager will then use the [Compa Group Guidelines](/handbook/total-rewards/compensation/compensation-calculator/#compa-group) to assess each team member's classification within their current position. 
-      * For a suggested evaluation and communication strategy, the manager can review the [Compa Group Communication](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#compa-group-communication) section.
+      * For a suggested evaluation and communication strategy, the manager can review the [Compa Group Communication](/handbook/total-rewards/compensation/compensation-calculator/#compa-group-communication) section.
    * Managers will add this compa group as a request in BambooHR which is also approved by the manager's manager. Instructions on how to do so can be found in the [determining](/handbook/total-rewards/compensation/compensation-calculator/#determining) section.
       * To allow managers sufficient time to communicate the approved Compa Group and to allow changes to be made to the finalized Compa Group (if necessary), self-service view access will be turned off for Compa Groups in BambooHR until the Total Rewards team notifies managers that the Compa Groups have been reviewed and finalized. Compa Group access will be turned back on no later than September 4th.
    * Compa Groups should be submitted to BambooHR no later than July 17th, with each manager's manager reviewing and approving no later than July 24th.
@@ -275,7 +275,7 @@ Budget was only set aside to review and align team members who are eligible base
 
 No, the manager should be reviewing the knowledge, skills, and ability of their team member today to accurately assess their current Compa Group. 
 
-1. What if my direct report's role's range isn't in the [Compensation Calculator](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/calculator/)?
+1. What if my direct report's role's range isn't in the [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/)?
 
 Ranges will be provided where applicable for reference during manager review in Compaas.
 
@@ -285,7 +285,7 @@ Catch-up Compensation Review should be considered an extension of Annual Compens
 
 ### Catch-Up Communication Guidelines for Managers
 
-In the Leaderhsip Toolkit you can find a page about [Communicating Compensation changes](https://about.gitlab.com/handbook/people-group/leadership-toolkit/compensation-review/). Specifically to the Catch Up Compensation review below you can find a useful script/explanation to kick off the conversation around the Catch-Up Review. 
+In the Leaderhsip Toolkit you can find a page about [Communicating Compensation changes](/handbook/people-group/leadership-toolkit/compensation-review/). Specifically to the Catch Up Compensation review below you can find a useful script/explanation to kick off the conversation around the Catch-Up Review. 
 
 Kicking off the Catch-Up compensation review conversation: 2 Situations: 
 
@@ -294,7 +294,7 @@ Kicking off the Catch-Up compensation review conversation: 2 Situations:
     * With the Catch-Up review we review Compa Groups, location factors (as determined in January of this year), role benchmark changes (as reviewed in January of this year) and exchange rate changes. We evaluate whether all these factors ensure that you are paid according to market. 
    * At the beginning of this year you didn't receive an increase in compensation, that makes you eligible for this Catch-Up review. 
    * After reviewing all the factors above you will/will not receive an adjustment in your compensation. 
-   * Use the script as outlined on [this page](https://about.gitlab.com/handbook/people-group/leadership-toolkit/compensation-review/#scenarios-situations-and-reactions) depending on the situation. 
+   * Use the script as outlined on [this page](/handbook/people-group/leadership-toolkit/compensation-review/#scenarios-situations-and-reactions) depending on the situation. 
    * It's important to know that at the end of the year you will be eligible for the yearly compensation review.
 
 1. Team member is eligible because they started in November, December or January:
@@ -302,5 +302,5 @@ Kicking off the Catch-Up compensation review conversation: 2 Situations:
     * With the Catch-Up review we review Compa Groups, location factors (as determined in January of this year), role benchmark changes (as reviewed in January of this year) and exchange rate changes. We evaluate whether all these factors ensure that you are paid according to market. 
    * This is the first time for you to go through a Compensation review here at GitLab, so I can imagine it might be a new process. 
    * After reviewing all the factors above you will/will not receive an adjustment in your compensation. 
-   * Use the script as outlined on [this page](https://about.gitlab.com/handbook/people-group/leadership-toolkit/compensation-review/#scenarios-situations-and-reactions) depending on the situation. 
+   * Use the script as outlined on [this page](/handbook/people-group/leadership-toolkit/compensation-review/#scenarios-situations-and-reactions) depending on the situation. 
    * It's important to know that at the end of the year you will be eligible for the yearly compensation review and will be included in the regular yearly cycle. 

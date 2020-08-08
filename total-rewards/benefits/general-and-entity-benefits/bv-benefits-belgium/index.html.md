@@ -37,6 +37,6 @@ Each year all employees will be sent ecocheques no later than July 31. In accord
   - Full time employees are entitled to 20 statutory vacation days per year. If a team member leaves GitLab, the company will prepare a vacation certificate with the number of unused vacation days in the current year and early vacation pay for the vacation days that were already accruied for the following year. The employee can then hand over these documents to their next employer to determine vacation entitlements. Similarly, GitLab requires the vacation certificate from new team member's previous employer to ensure vacation pay is properly calculated and added to June payroll.<br>
 
 
-***Note: GitLab has a global [`no ask time off policy`](https://about.gitlab.com/handbook/paid-time-off/#paid-time-off), which is the guideline for all GitLab employees globally. We highlight statutory requirements for some countries as well to insure local compliance, but stress that our Paid Time Off policy is applicable for all GitLab team members globally irrespective of local policy.*** 
+***Note: GitLab has a global [`no ask time off policy`](/handbook/paid-time-off/#paid-time-off), which is the guideline for all GitLab employees globally. We highlight statutory requirements for some countries as well to insure local compliance, but stress that our Paid Time Off policy is applicable for all GitLab team members globally irrespective of local policy.*** 
 
 People Ops will consult with Vistra to ensure that the statute is met.
