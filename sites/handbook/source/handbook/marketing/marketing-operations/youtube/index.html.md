@@ -161,7 +161,7 @@ We don't post:
 If you get a "Video unavailable This video is private." error on youtube, the error may be caused because the video is private to GitLab Unfiltered and you are accessing the video with your individual Youtube account. 
 In order to see the video, 
 1. Click your photo or icon in the top right of Youtube 
-2. Then click > Switch Account > GitLab Unfiltered (If GitLab Unfiltered is not an option, see [Access](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#access) )
+2. Then click > Switch Account > GitLab Unfiltered (If GitLab Unfiltered is not an option, see [Access](/handbook/marketing/marketing-operations/youtube/#access) )
 3. Once you are on GitLab unfiltered, reload the page and you can view the video 
 
 ## Access

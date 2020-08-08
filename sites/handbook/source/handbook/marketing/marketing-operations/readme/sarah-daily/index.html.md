@@ -5,7 +5,7 @@ title: "Sarah Daily's README"
 
 # Sarah Daily's — README.md
 
-I created this personal README document to help you get to know me and how I work. This document is inspired by Tim Hey's [README](https://about.gitlab.com/handbook/product/readme/tim-hey.html) and the [Product team README's](https://about.gitlab.com/handbook/product/readme/#product-readmes).
+I created this personal README document to help you get to know me and how I work. This document is inspired by Tim Hey's [README](/handbook/product/readme/tim-hey.html) and the [Product team README's](/handbook/product/readme/#product-readmes).
 
 * [GitLab Profile](https://gitlab.com/sdaily)
 * [Team Page](https://about.gitlab.com/company/team/#sdaily)
@@ -13,7 +13,7 @@ I created this personal README document to help you get to know me and how I wor
 
 ## About me
 
-* My name is Sarah Daily (last name jokes are welcome and I've also had some people just call me `Daily`). I am a Senior Marketing Operations Manager on the [Marketing Operations team](https://about.gitlab.com/handbook/marketing/marketing-operations/) at GitLab and I focus on content.
+* My name is Sarah Daily (last name jokes are welcome and I've also had some people just call me `Daily`). I am a Senior Marketing Operations Manager on the [Marketing Operations team](/handbook/marketing/marketing-operations/) at GitLab and I focus on content.
 * I currently live in [Pagosa Springs, CO](https://www.google.com/maps/place/Pagosa+Springs,+CO+81147/@37.2673803,-107.0497475,14z/data=!3m1!4b1!4m5!3m4!1s0x873ddb6e9b07b449:0x7b8616cc41f8157f!8m2!3d37.26945!4d-107.0097617) with my partner Becca and our two dogs [MaddieJo and Chewie](https://about.gitlab.com/company/team-pets/#132-maddiejo-and-chewie).
 * I was born and raised in northeastern Oklahoma.
 * I am an [Advocate](https://www.16personalities.com/infj-personality) ([INFJ-A / INFJ-T](https://www.16personalities.com/articles/assertive-advocate-infj-a-vs-turbulent-advocate-infj-t)) personality type.
@@ -24,7 +24,7 @@ I created this personal README document to help you get to know me and how I wor
 
 * My timezone is [MST](https://time.is/MT)
 * My typical working hours are 7 AM to 4 PM with a 1/2-hour to hour lunch break around 11 AM.
-* I follow the [Marketing Operations work cadence](https://about.gitlab.com/handbook/marketing/marketing-operations/#operations-work-cadence) of 2-week sprints tracked as [`Milestones`](https://docs.gitlab.com/ee/user/project/milestones/index.html#overview).
+* I follow the [Marketing Operations work cadence](/handbook/marketing/marketing-operations/#operations-work-cadence) of 2-week sprints tracked as [`Milestones`](https://docs.gitlab.com/ee/user/project/milestones/index.html#overview).
 
 ## My typical week
 
@@ -47,20 +47,20 @@ I created this personal README document to help you get to know me and how I wor
 
 ## Tools I admin
 
-1. [Cookiebot](https://about.gitlab.com/handbook/marketing/marketing-operations/cookiebot/)
+1. [Cookiebot](/handbook/marketing/marketing-operations/cookiebot/)
 1. Disqus
 1. Hotjar
-1. [Litmus](https://about.gitlab.com/handbook/marketing/marketing-operations/litmus)
-1. [PathFactory](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory)
+1. [Litmus](/handbook/marketing/marketing-operations/litmus)
+1. [PathFactory](/handbook/marketing/marketing-operations/pathfactory)
 1. Rev.com
-1. [RushTranslate](https://about.gitlab.com/handbook/marketing/marketing-operations/rushtranslate/)
+1. [RushTranslate](/handbook/marketing/marketing-operations/rushtranslate/)
 1. ScreamingFrog
 1. SEMrush
-1. [Sigstr](https://about.gitlab.com/handbook/marketing/marketing-operations/sigstr)
+1. [Sigstr](/handbook/marketing/marketing-operations/sigstr)
 1. Sprout Social
 1. Swiftype
 1. Vimeo
-1. [YouTube](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/)
+1. [YouTube](/handbook/marketing/marketing-operations/youtube/)
 
 ## Issue templates I'm mentioned in
 
@@ -71,6 +71,6 @@ I created this personal README document to help you get to know me and how I wor
 
 ## How to reach me
 
-* **Slack**: Please use the `#mktgops` channel to contact me and try to [avoid direct messages if possible](https://about.gitlab.com/handbook/communication/#avoid-direct-messages). I like to focus deeply on the task at hand, so please expect my responses on email and Slack to be [asynchronous](https://about.gitlab.com/handbook/communication/). Your messages are important to me and I will respond as soon as I can.
+* **Slack**: Please use the `#mktgops` channel to contact me and try to [avoid direct messages if possible](/handbook/communication/#avoid-direct-messages). I like to focus deeply on the task at hand, so please expect my responses on email and Slack to be [asynchronous](/handbook/communication/). Your messages are important to me and I will respond as soon as I can.
 * **Coffee chat**: You can schedule a 30 min coffee chat with me via **[Calendly](https://calendly.com/sdaily/30min)**.
 * **After hours**: In an effort to mitigate my screen time and create more separation between work and home, I do not have Slack or email installed on my phone. If you have an emergency, you may text me on my cell number provided on my Slack profile.

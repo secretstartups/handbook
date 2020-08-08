@@ -23,7 +23,7 @@ A lead will sync from Marketo to SFDC in these scenarios:
 ### Forms   
 Nearly all the forms on our website (`about.gitlab.com`) are Marketo embedded forms. Marketing Operations is responsible for maintaining existing forms and creating any new forms. If you need a new form created, please open a [form creation issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request).
 
-**Translated Forms Available**: Spanish, French, Italian, German, Portuguese. If you require a new language, please gather the [translations](https://about.gitlab.com/handbook/marketing/localization/#current-state) and then create an [issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request).
+**Translated Forms Available**: Spanish, French, Italian, German, Portuguese. If you require a new language, please gather the [translations](/handbook/marketing/localization/#current-state) and then create an [issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request).
 
 All forms should follow these guidelines:  
 - Field labels are always ALL CAPS
@@ -34,7 +34,7 @@ All forms should follow these guidelines:
 - Forms should all contain a checkbox for the acceptance of the privacy policy
 - When `Country` = `Ukraine` there is an additional checkbox for the submitter to confirm they do not belong to the Crimean region of the Ukraine  
 
-For more information on website form management [click here](https://about.gitlab.com/handbook/marketing/marketing-operations/#website-form-management).
+For more information on website form management [click here](/handbook/marketing/marketing-operations/#website-form-management).
 
 
 ### Smart Campaigns - Operational 
