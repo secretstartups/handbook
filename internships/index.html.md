@@ -96,7 +96,7 @@ The internship program will primarily be [remote](/company/culture/all-remote/),
 
 #### Compensation
 
-Internships at GitLab offered in the framework described in this page will be paid and follow the same logic as that depicted in our [Compensation Calculator](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/calculator/) and according to our [Global Compensation Principles](https://about.gitlab.com/handbook/total-rewards/compensation/). This means that, as usual, the San Francisco benchmark, location and experience factors will be taken into account during the recruitment process and before making an offer. Depending on country regulations, we will have to align with national labor laws.
+Internships at GitLab offered in the framework described in this page will be paid and follow the same logic as that depicted in our [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/) and according to our [Global Compensation Principles](/handbook/total-rewards/compensation/). This means that, as usual, the San Francisco benchmark, location and experience factors will be taken into account during the recruitment process and before making an offer. Depending on country regulations, we will have to align with national labor laws.
 
 ### Recruitment
 For the pilot, we will primarily target our advertising and promotion of the program at university students. However, we are not limiting candidate intake to university students and are open to all qualifying candidates.
@@ -154,12 +154,12 @@ For the pilot program the hosting teams will determine whether they would want t
 1. The budget/headcount availability in the team/department/division
 1. The performance and skills assessment of the intern
 
-*Note: If there's no budget/headcount availability in the team of the internship, the intern can research other opportunities in the organisation. An overview of the open internal roles can be viewed in [Greenhouse](https://gitlab.greenhouse.io/internal_job_board). If the role of interest is in a different team or job family, we would ask the intern to go through (a part of) the recruitment process again. This can include several steps of the [hiring process](https://about.gitlab.com/handbook/hiring/interviewing/#typical-hiring-timeline) such as Technical interview, Behavioral interview and Further interviews*
+*Note: If there's no budget/headcount availability in the team of the internship, the intern can research other opportunities in the organisation. An overview of the open internal roles can be viewed in [Greenhouse](https://gitlab.greenhouse.io/internal_job_board). If the role of interest is in a different team or job family, we would ask the intern to go through (a part of) the recruitment process again. This can include several steps of the [hiring process](/handbook/hiring/interviewing/#typical-hiring-timeline) such as Technical interview, Behavioral interview and Further interviews*
 
 After the internship the aim would be to hire the intern as an Intermediate Engineer (depending on previous experience).
 The timeline for hiring decisions would be as follows: 
 - Week 8: Check in on feedback with all hosting teams
-- Week 10: Performing performance/skills assessments with interns based on the Job Families and [Competencies](https://about.gitlab.com/handbook/competencies/#where-we-use-competencies)
+- Week 10: Performing performance/skills assessments with interns based on the Job Families and [Competencies](/handbook/competencies/#where-we-use-competencies)
 - Week 11: Sharing feedback with interns
 - Week 12: Aligning with Finance/Business on headcount/budget
 - Week 12: Making a decision on offers to interns
@@ -174,7 +174,7 @@ If an offer is not made or an offer is not accepted, there are opportunities to 
 Upon the completion of the pilot, participating teams will be asked to complete
 a retrospective. This will follow the process used for GitLab's monthly
 [team
-retrospectives](https://about.gitlab.com/handbook/engineering/management/team-retrospectives/).
+retrospectives](/handbook/engineering/management/team-retrospectives/).
 Engineering managers should create an issue in the
 [gitlab-com/engineering-internships](https://gitlab.com/gitlab-com/engineering-internships)
 project using the `Retrospective` template and customize it for their team. This
