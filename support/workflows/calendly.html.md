@@ -58,7 +58,7 @@ The support team has a Team Support Call event.
 
 We use this to offer customers the choice between meeting with one engineer, or scheduling a meeting with anyone in the team.
 
-Part of your [support onboarding](https://about.gitlab.com/handbook/support/onboarding/), once you're ready and you've been added to the [GitLab Support group account](#GitLab_Support_group_account), is to request to be added to the support call event.
+Part of your [support onboarding](https://about.gitlab.com/handbook/support/training/), once you're ready and you've been added to the [GitLab Support group account](#GitLab_Support_group_account), is to request to be added to the support call event.
 
 To get added to the support call event:
 
