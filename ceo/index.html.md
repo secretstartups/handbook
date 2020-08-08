@@ -130,7 +130,6 @@ As part of my role, I participate in a variety of meetings both internal and ext
 1. Informal Board Meeting with GitLab Board Members. 50 minutes.
 1. [1-1](/handbook/leadership/1-1/) with CEO Coach. 80 minutes.
 1. [Nominations and Governance](/handbook/board-meetings/#nominating-and-corporate-governance-committee) Meeting. 25 minutes.
-1. [CEO Evangelism](/handbook/ceo/chief-of-staff-team/#ceo-evangelism) content preparation meetings with CoS. 25 minutes.
 1. Industry Analyst Meetings. 25-50 minute meetings.
 1. [Coffee Chats](/company/culture/all-remote/informal-communication/#coffee-chats). 25 minutes.
 1. [Retrospective](/handbook/engineering/workflow/#retrospective). 25 minutes.
