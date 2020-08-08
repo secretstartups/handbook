@@ -29,7 +29,7 @@ Formal penalties for non-compliance with SOX can include fines, removal from lis
 
 # SOX Compliance Roadmap for GitLab
 
-As GitLab is planning to go [public](https://about.gitlab.com/handbook/being-a-public-company/#gitlab-as-a-public-company), it is important that we prepare to comply with SOX ahead of listing, as the consequences of non-compliance can be severe.  Below are some of the important requirements we will need to adhere to:
+As GitLab is planning to go [public](/handbook/being-a-public-company/#gitlab-as-a-public-company), it is important that we prepare to comply with SOX ahead of listing, as the consequences of non-compliance can be severe.  Below are some of the important requirements we will need to adhere to:
 <div align="center">
     <img src="/images/handbook/internal-audit/sarbanes-oxley_section.jpg" align="center" height="400" width="600" >
 </div>
@@ -108,9 +108,9 @@ The below [RACI ](https://en.m.wikipedia.org/wiki/Responsibility_assignment_matr
    [FY 20](https://docs.google.com/spreadsheets/d/1Cx3izdj9-LRIXzQW6cOTSMFabQ5jd8OVLL1zmK0Clhc/edit?usp=sharing)<br>
    [FY 21]()
 
-## [2. ELC](https://about.gitlab.com/handbook/finance/sox-internal-controls/)
+## [2. ELC](/handbook/finance/sox-internal-controls/)
 
-## [3.ITGC controls](https://about.gitlab.com/handbook/finance/sox-internal-controls/)
+## [3.ITGC controls](/handbook/finance/sox-internal-controls/)
 
 ## 4. Business Process Risk Control Matrix (RCM)
    [FY 20](https://docs.google.com/spreadsheets/d/1RLC2Fj0Ft81TR-pkMTY8_QwvOKTNjXHUG003MiZrygI/edit?usp=sharing)<br>
@@ -120,20 +120,20 @@ The below [RACI ](https://en.m.wikipedia.org/wiki/Responsibility_assignment_matr
 
 |**Sl #**|**Financial Process**|
 |:---|:---|
-|1|[Quote to Cash](https://about.gitlab.com/handbook/finance/sox-internal-controls/quote-to-cash/)
-|2|[Procure to Pay](https://about.gitlab.com/handbook/finance/sox-internal-controls/procure-to-pay/)
-|3|[Hire to Retire](https://about.gitlab.com/handbook/finance/sox-internal-controls/hire-to-retire/)
-|4|[Regulatory](https://about.gitlab.com/handbook/finance/sox-internal-controls/regulatory/)
-|5|[Record to Report](https://about.gitlab.com/handbook/finance/sox-internal-controls/record-to-report/)
-|6|[Stock Compensation](https://about.gitlab.com/handbook/finance/sox-internal-controls/stock-compensation/)
+|1|[Quote to Cash](/handbook/finance/sox-internal-controls/quote-to-cash/)
+|2|[Procure to Pay](/handbook/finance/sox-internal-controls/procure-to-pay/)
+|3|[Hire to Retire](/handbook/finance/sox-internal-controls/hire-to-retire/)
+|4|[Regulatory](/handbook/finance/sox-internal-controls/regulatory/)
+|5|[Record to Report](/handbook/finance/sox-internal-controls/record-to-report/)
+|6|[Stock Compensation](/handbook/finance/sox-internal-controls/stock-compensation/)
 
 
 ## 6. Disclosure Committee
- [Link](https://about.gitlab.com/handbook/internal-audit/sarbanes-oxley/#disclosure-committee-charter-effective-2019-10-17)
+ [Link](/handbook/internal-audit/sarbanes-oxley/#disclosure-committee-charter-effective-2019-10-17)
 
 
 ## 7. Disclosure Controls Policies and Procedures
- [Link](https://about.gitlab.com/handbook/internal-audit/sarbanes-oxley/#gitlabs-disclosure-controls-policy-and-procedures)
+ [Link](/handbook/internal-audit/sarbanes-oxley/#gitlabs-disclosure-controls-policy-and-procedures)
 
 
 ## 8. Sec 302 Certification Process
