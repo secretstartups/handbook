@@ -93,7 +93,7 @@ If you feel overwhelmed by the number of team members that have requested feedba
 - Keep it actionable- always describe behaviors, not traits. Focus on what the person can actually do something about going forward (i.e. more of, less of, keep doing - "it would be good to see more of X as it leads to Y".)
 - Be respectful AND honest - development feedback can at times be challenging to give.  Keep in mind the purpose of the survey is for development and not to judge or evaluate performance.
 
-If you would like to learn more, we held a [Delivering Feedback Live Learning course](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/#delivering-feedback) on 2020-06-08. 
+If you would like to learn more, we held a [Delivering Feedback Live Learning course](/handbook/people-group/guidance-on-feedback/#delivering-feedback) on 2020-06-08. 
 
 **General Tips:**
 * It is ok to skip a question by typing N/A if you don't have meaningful feedback in that area. Don't create a "story" where there is none.
@@ -146,7 +146,7 @@ We recorded a training on this subject:
 
 Be open to engaging in the conversation.  Your peers have taken the time to provide you with their feedback.  And the purpose of this feedback is to help you develop and reach your full potential.  The perception they have of you is important information for you to have and to build into an action plan.
 
-Before going into the conversation and reviewing feedback, check out the page on [receiving feedback](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/#receiving-feedback).
+Before going into the conversation and reviewing feedback, check out the page on [receiving feedback](/handbook/people-group/guidance-on-feedback/#receiving-feedback).
 
 Be accepting of positive feedback.  Instead of deflecting compliments, hear and internalise them.  They are strong indicators of where you have successfully developed your skills.  Remember to maintain a focus on them so you can continue to develop the skill.
 
@@ -158,7 +158,7 @@ During the meeting:
 * Ask for time to process the feedback and come back with any follow up questions & / or action
 * Say thank you for their time  
 
-If you would like to learn more, we held a [Receiving Feedback Live Learning course](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/#receiving-feedback) on 2020-02-25. 
+If you would like to learn more, we held a [Receiving Feedback Live Learning course](/handbook/people-group/guidance-on-feedback/#receiving-feedback) on 2020-02-25. 
 
 ### Action Plans
 

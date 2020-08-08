@@ -75,7 +75,7 @@ This will make more sense once you understand all of the terminology.
    1. **Definition:** a version of a project’s working tree. You create a branch for each set of related changes you make. This keeps each set of changes separate from each other, allowing changes to be made in parallel, without affecting each other.
 1. Markdown
    1. **Definition:** a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.
-   1. **Example:** Take a look at our [GitLab Markdown Guide](https://about.gitlab.com/handbook/markdown-guide/)
+   1. **Example:** Take a look at our [GitLab Markdown Guide](/handbook/markdown-guide/)
 1. Local
    1. **Definition:** your machine
    1. **Example:** If someone says to do something locally that means to open the terminal on your computer to make a change.

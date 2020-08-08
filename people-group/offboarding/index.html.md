@@ -13,7 +13,7 @@ title: "GitLab Offboarding"
 
 The offboarding process execution is shared by the People Business Partners (PBPs), People Specialists, People Experience team, and Tech Stack Provisioners. 
 
-The People Experience team is responsible for creating the actual [offboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md) within 12 hours of the offboarding date (may be sooner once the team member in the rotation becomes available) and executing the logistical tasks to remove access from certain systems and eliminate specific information in the handbook, etc. as outlined [here](https://about.gitlab.com/handbook/people-group/offboarding/offboarding_guidelines/), while the PBPs and People Specialists collaborate to work through the rest of the process.
+The People Experience team is responsible for creating the actual [offboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md) within 12 hours of the offboarding date (may be sooner once the team member in the rotation becomes available) and executing the logistical tasks to remove access from certain systems and eliminate specific information in the handbook, etc. as outlined [here](/handbook/people-group/offboarding/offboarding_guidelines/), while the PBPs and People Specialists collaborate to work through the rest of the process.
 
 ## Compliance
 
@@ -21,7 +21,7 @@ The People Experience Associates complete a weekly audit of all offboarding issu
 
 Once all tasks have been completed, the People Experience Associate will close the offboarding issue and mark as completed in the offboarding tracker.
 
-All offboarding tasks by all Departments need to be completed within 5 days of the offboarding due date. For systems that are more critical and time sensitive, these will be completed within the first 24 hours (example 1Password, Okta, Slack) by the relevant Departments. Information about application & system deprovisioners can be found on the [Tech Stack Applications](https://about.gitlab.com/handbook/business-ops/tech-stack-applications/) handbook page.
+All offboarding tasks by all Departments need to be completed within 5 days of the offboarding due date. For systems that are more critical and time sensitive, these will be completed within the first 24 hours (example 1Password, Okta, Slack) by the relevant Departments. Information about application & system deprovisioners can be found on the [Tech Stack Applications](/handbook/business-ops/tech-stack-applications/) handbook page.
 
 ## Voluntary Offboarding
 
@@ -57,7 +57,7 @@ _Note: If the team member has a contract with a co-employer, the payroll lead wi
     * Tag the People Experience team, IT Ops team, and Payroll directly after the form is posted to the `#offboardings` channel
     * _Note_: If a change needs to be made to the form only an Admin or Owner of Slack can make this change.<br><br>
     
-1. ***Experience***: The People Experience Team will determine who will create the offboarding issue according to the [offboarding guidelines](https://about.gitlab.com/handbook/people-group/offboarding/offboarding_guidelines/), and confirm both in the `#offboardings` Slack channel and in the [People Exp/Ops Tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e18b512#gid=0).      
+1. ***Experience***: The People Experience Team will determine who will create the offboarding issue according to the [offboarding guidelines](/handbook/people-group/offboarding/offboarding_guidelines/), and confirm both in the `#offboardings` Slack channel and in the [People Exp/Ops Tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e18b512#gid=0).      
 1. ***Specialist***: The People Specialist will reach out to the team member directly to schedule an Exit Interview. 
       * The assigned People Specialist will first send out the Offboarding Informational Email according to the appropriate template. Current templates include [USA](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/offboarding_usa.md) and [Canada](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/offboarding_canada.md).
       * The assigned People Specialist will then send out the Exit Survey via Culture Amp (using the Exit Survey template in Culture Amp) and communicate with the departing team member to mention that they would like to schedule a non-mandatory exit interview, to occur during the team member's last week. 
@@ -233,7 +233,7 @@ Unless it's for extreme behaviour/gross misconduct, the team member will be advi
 
 If you are not close to an employee's offboarding, it may seem unnecessarily swift.
 Please remember that these decisions are never made without following the above process to come to a positive resolution first - we need to protect the interests of the individual as well as the company, and offboarding are a last resort.
-According to our values [negative feedback is 1-1 between you and your manager](https://about.gitlab.com/handbook/values/#negative-is-1-1) and we are limited in what we can share about private employee issues.
+According to our values [negative feedback is 1-1 between you and your manager](/handbook/values/#negative-is-1-1) and we are limited in what we can share about private employee issues.
 Please discuss any concerns you have about another employee's offboarding with your manager or your People Business Partner.
 
 Given the expectations and responsibility that come with a VP and above position, when there is an involuntary offboarding for one of these positions, additional context for the personnel change can be provided to the organization.  
@@ -287,7 +287,7 @@ This data is updated on a monthly basis by People Operations.
 ### Managing the Offboarding Tasks
 
 #### Offboarding Issue
-To track all tool deprovisioning, please open an offboarding issue following the [offboarding guidelines](https://about.gitlab.com/handbook/people-group/offboarding/offboarding_guidelines/).
+To track all tool deprovisioning, please open an offboarding issue following the [offboarding guidelines](/handbook/people-group/offboarding/offboarding_guidelines/).
 
 #### Returning Property to GitLab
 

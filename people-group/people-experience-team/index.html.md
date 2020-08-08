@@ -133,7 +133,7 @@ This lists the steps for the People Experience team to follow when receiving req
 
 #### Letters of Employment 
 
-Once the team member completes the form as listed in the [Handbook](https://about.gitlab.com/handbook/people-group/frequent-requests/#letter-of-employment), we will receive an email in the People Experience Inbox to view and audit if the information has been correctly inserted by the team member. 
+Once the team member completes the form as listed in the [Handbook](/handbook/people-group/frequent-requests/#letter-of-employment), we will receive an email in the People Experience Inbox to view and audit if the information has been correctly inserted by the team member. 
 - If the information is correct, please proceed with forwarding the Letter of Employment to the team member by email. 
 - If the information is incorrect, please email the team member and provide the details of what is incorrect and ask that they resubmit the form with the correct information. 
 
@@ -218,7 +218,7 @@ When a team member completes the GitLab gift form request, the People Experience
 - Open the PeopleOps 1Password Vault and select `Gift & Flower Vendors` to gain access to the various vendors used. 
 - Place order and once confirmed, add data, including order confirmation link, to spreadsheet. 
 - Send the requesting team member an email or message in Slack to confirm that you have processed the request/order. 
-- Use the Gift [page](https://about.gitlab.com/handbook/people-group/#gifts) in the Handbook for any further information regarding the policy for gift order requests. 
+- Use the Gift [page](/handbook/people-group/#gifts) in the Handbook for any further information regarding the policy for gift order requests. 
 - If a gift card is needed for a particular event or prize, create an issue for the Payroll team to get the relevant approval. 
 
 ### Scheduling Group Conversations 

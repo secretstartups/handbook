@@ -11,7 +11,7 @@ title: "Compensation Review Communication"
 
 ### Compensation Review cycles
 
-Check the most up to date information with regards to our [Annual Compensation Review cycle](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline) and our [Catch Up Compensation Review cycle](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#catch-up-compensation-review-timeline) on the [Total Rewards page](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle). 
+Check the most up to date information with regards to our [Annual Compensation Review cycle](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline) and our [Catch Up Compensation Review cycle](/handbook/total-rewards/compensation/compensation-review-cycle/#catch-up-compensation-review-timeline) on the [Total Rewards page](/handbook/total-rewards/compensation/compensation-review-cycle). 
 ### Communication recommendations
 
 * **Communicate the increase face-to-face over [Zoom](/handbook/communication/#zoom).** As a manager, this is an opportunity for you to have a conversation with your team member about their increase and the reason behind it.  Having the conversation over Zoom allows for you to have a dialogue with your team member (versus just sharing the number or percentage) and allows you to pick up other information like tone and non-verbal cues which can tell you more about how someone is feeling.

@@ -8,7 +8,7 @@ job: "[Senior Manager, People Operations](https://about.gitlab.com/job-families/
 My job is to manage, support and coach the [People Operations Specialist team](https://about.gitlab.com/job-families/people-ops/people-operations/) and the [People Experience Team](https://about.gitlab.com/job-families/people-ops/people-experience-associate/).
 Along with our Senior Director, People, I'm working towards our [OKR's](https://about.gitlab.com/company/okrs/fy20-q1/#ceo-great-team-employer-brand-effective-hiring-increase-decision-making-effectiveness). 
 
-I'm incredibly excited about automation and dogfooding GitLab within the overall People Group. You'll often hear me say: "Can we solve this async?"; "Lets make sure we are handbook first" and "What is the smallest change we can make live today?" aka [iteration](https://about.gitlab.com/handbook/values/#iteration). 
+I'm incredibly excited about automation and dogfooding GitLab within the overall People Group. You'll often hear me say: "Can we solve this async?"; "Lets make sure we are handbook first" and "What is the smallest change we can make live today?" aka [iteration](/handbook/values/#iteration). 
 
 ### My Availability
 My calendar is viewable to anyone at GitLab, anyone in my team can schedule a 1:1 or a skip-level over a "work block", everyone else is welcome to grab a free slot in my calendar without asking. I prefer having an agenda 24 hours before the call, if it is a coffee chat we don't need an agenda, I love talking about all things nature, hiking, mountain biking, and innovative ways to recycle. My slack is always updated with what I'm doing and my availability will show there. I sometimes work weird hours, to accomodate my family's needs but not long hours. I do not work on weekends and would encourage my team to never work weekends (I find it incredibly unhealthy to not have breaks from work and spend time on your favourite hobbies, family, interest is extremely important to me).
@@ -26,7 +26,7 @@ My calendar is viewable to anyone at GitLab, anyone in my team can schedule a 1:
 1. Reminding others to stop working, taking time off and encouring others to remain health and family first. 
 1. I can take direct feedback and don't get discouraged easily. 
 1. Taking ownership 
-1. I have always been incredibly driven by [Efficiency](https://about.gitlab.com/handbook/values/#efficiency) and [Results](https://about.gitlab.com/handbook/values/#results) (the side-effect of this can be negative, which is why I am working on my active listening skills right now).
+1. I have always been incredibly driven by [Efficiency](/handbook/values/#efficiency) and [Results](/handbook/values/#results) (the side-effect of this can be negative, which is why I am working on my active listening skills right now).
 1. Mountain biking and anything that involves movement ;-) 
 1. I trust everyone I hire instantly. 
 1. I take metrics and OKR's very seriously and find healthy ways to achieve them, but never to the detrement of my team.

@@ -14,16 +14,16 @@ title: "Talent Development Program"
 As we continue to scale, we want to be intentional about Talent Development. Investing in a Talent Development Program creates the opportunity for GitLab to build diverse, flexible and versatile teams, as well as of the utmost importance to ongoing success across all teams.
 
 GitLab's Talent Development Program includes the following initiatives: 
-- [Talent Assessment Tool](https://about.gitlab.com/handbook/people-group/performance-assessments-and-succession-planning/)
-- [360 Feedback](https://about.gitlab.com/handbook/people-group/360-feedback/)
+- [Talent Assessment Tool](/handbook/people-group/performance-assessments-and-succession-planning/)
+- [360 Feedback](/handbook/people-group/360-feedback/)
 - [Organisational Structure and gaps](https://about.gitlab.com/company/team/structure/)
-- [Performance Assessments and Succession Planning](https://about.gitlab.com/handbook/people-group/performance-assessments-and-succession-planning/)
-- [Career Development Conversations](https://about.gitlab.com/handbook/people-group/leadership-toolkit/career-development-conversations/)
-- [Performance Enablement Plans (PEP) and Performance Improvement Plans (PIP)](https://about.gitlab.com/handbook/underperformance/#options-for-remediation)
-- [Performance Enablement Review](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#performance-enablement-review)
+- [Performance Assessments and Succession Planning](/handbook/people-group/performance-assessments-and-succession-planning/)
+- [Career Development Conversations](/handbook/people-group/leadership-toolkit/career-development-conversations/)
+- [Performance Enablement Plans (PEP) and Performance Improvement Plans (PIP)](/handbook/underperformance/#options-for-remediation)
+- [Performance Enablement Review](/handbook/people-group/learning-and-development/career-development/#performance-enablement-review)
 - [Individual Growth Plan](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit)
-- [Engagement Survey](https://about.gitlab.com/handbook/people-group/engagement/)
-- [Annual Compensation Review](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review)
+- [Engagement Survey](/handbook/people-group/engagement/)
+- [Annual Compensation Review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review)
 
 ### Talent Development Program Chart
 

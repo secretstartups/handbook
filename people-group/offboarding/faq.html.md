@@ -43,15 +43,15 @@ Typically, benefits coverage ends at the end of the month during which you leave
 
 *USA*
 
-If you are a US-based team member, your benefits will cease on last day of the month of your departure. You are eligible for [Consolidated Omnibus Budget Reconciliation Act (“COBRA”)](https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-consumer.pdf), the COBRA administrator has been notified and will send out the paperwork to your home address on file. More information on timelines and contact information for our COBRA administrator can be found in the [COBRA section](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#cobra).  You may also be eligible under the Patient Protection and Affordable Care Act (“PPACA”) for subsidized health care options via the marketplace. If you are interested it is important that you sign up with the market place well before the 15th of the month to have coverage for the following month. Under the Health Insurance Portability and Accountability Act of 1996 (HIPAA), if you need a certificate of credible coverage please download it from your current carrier's online portal or request it from the Compensation & Benefits team by emailing `total-rewards@ gitlab.com`. If you move, please email `people-exp@ gitlab.com` so that we can keep your address up to date in BambooHR.
+If you are a US-based team member, your benefits will cease on last day of the month of your departure. You are eligible for [Consolidated Omnibus Budget Reconciliation Act (“COBRA”)](https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-consumer.pdf), the COBRA administrator has been notified and will send out the paperwork to your home address on file. More information on timelines and contact information for our COBRA administrator can be found in the [COBRA section](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#cobra).  You may also be eligible under the Patient Protection and Affordable Care Act (“PPACA”) for subsidized health care options via the marketplace. If you are interested it is important that you sign up with the market place well before the 15th of the month to have coverage for the following month. Under the Health Insurance Portability and Accountability Act of 1996 (HIPAA), if you need a certificate of credible coverage please download it from your current carrier's online portal or request it from the Compensation & Benefits team by emailing `total-rewards@ gitlab.com`. If you move, please email `people-exp@ gitlab.com` so that we can keep your address up to date in BambooHR.
 
 **How do I roll over my retirement account and funds?**
 
-Contact our 401(k) administrative vendor directly to get more information about this process. More information can be found on the [401(k)](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#401k-plan) section and [401(k) Rollover](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#401k-rollover) section of the US Benefits handbook page.
+Contact our 401(k) administrative vendor directly to get more information about this process. More information can be found on the [401(k)](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#401k-plan) section and [401(k) Rollover](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#401k-rollover) section of the US Benefits handbook page.
 
 **What about my FSA Account(s)?**
 
-All information on FSA accounts is in the [Discovery Benefits](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#discovery-benefits) section of the US Benefits handbook page.
+All information on FSA accounts is in the [Discovery Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#discovery-benefits) section of the US Benefits handbook page.
 
 *Canada*
 
@@ -68,7 +68,7 @@ If there are any issues that they cannot help with, please contact the Total Rew
 **How will my stock options be managed? What will happen to my stock options if I have been at GitLab less than a year at my date of departure?**
 
 
-All information is on the [Stock Options](https://about.gitlab.com/handbook/stock-options/) handbook page, specifically the [Exercise Window after Termination](https://about.gitlab.com/handbook/stock-options/#exercise-window-after-termination) section.
+All information is on the [Stock Options](/handbook/stock-options/) handbook page, specifically the [Exercise Window after Termination](/handbook/stock-options/#exercise-window-after-termination) section.
 
 ### Other
 

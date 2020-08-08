@@ -156,13 +156,13 @@ We provide our team members with certifications to demonstrate their knowledge o
 
 ### Career Development
 
-Everyone's career development is different, but we have [outlined](/handbook/people-group/learning-and-development/career-development/) what it can look like at GitLab. Career development also includes our [GitLab coaching framework](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/coaching/) to support managers with holding coaching discussions with their team. 
+Everyone's career development is different, but we have [outlined](/handbook/people-group/learning-and-development/career-development/) what it can look like at GitLab. Career development also includes our [GitLab coaching framework](/handbook/people-group/learning-and-development/career-development/coaching/) to support managers with holding coaching discussions with their team. 
 
 ### Developing Emotional Intelligence
 
 Whether you are a People Manager or an Individual Contributor, being skilled in "emotional intelligence" (also referred to as EQ) is a key attribute to interpersonal effectiveness. We have [outlined](/handbook/people-group/learning-and-development/emotional-intelligence/) the definition of emotional intelligence, how to understand your own EQ, how to develop your EQ in a [remote setting](/company/culture/all-remote/guide/), and building an inclusive environment with EQ. 
 
-Another strategy to improve emotional intelligence is to apply the [Social Styles framework](https://about.gitlab.com/handbook/people-group/learning-and-development/emotional-intelligence/social-styles/) within your team to increase interpersonal interactions and team dynamics. 
+Another strategy to improve emotional intelligence is to apply the [Social Styles framework](/handbook/people-group/learning-and-development/emotional-intelligence/social-styles/) within your team to increase interpersonal interactions and team dynamics. 
 
 ### Language Courses
 
@@ -201,7 +201,7 @@ If you are devleoping content to meet your learning needs or partnering with the
 
 3. **Break Down Complex Information** - Consider breaking down complex information into easy to digest visuals or text. Reference the handbook but do not be afraid to create a visual representation or use storytelling for the audience.
 
-4. **Engage the Learner** - Adults learn through practice and involvement. Consider using tools to engage learners in a virtual setting like [Mentimeter](https://www.mentimeter.com/) or [Kahoot](https://kahoot.com/business-u/) to stimulate interactivity. Ask the [L&D team](https://about.gitlab.com/handbook/people-group/learning-and-development/) for more insight on learning engagement tools. There are a lot you can leverage! 
+4. **Engage the Learner** - Adults learn through practice and involvement. Consider using tools to engage learners in a virtual setting like [Mentimeter](https://www.mentimeter.com/) or [Kahoot](https://kahoot.com/business-u/) to stimulate interactivity. Ask the [L&D team](/handbook/people-group/learning-and-development/) for more insight on learning engagement tools. There are a lot you can leverage! 
 
 5. **Implement Blended Learning Course Content** - Give the audience some pre-course work to read and review before the learning session. Use off-the-shelf resources and ensure the content is applicable to what will be covered in the session. Follow up with the audience following the session to gauge how they've applied what they've learned on the job through surveys and questionmaires. 
 
@@ -253,7 +253,7 @@ All new team members will have a task in their onboarding issue to complete this
 
 If a Team Member moves from an individual contributer role to a manager role, they will be assigned a New Manager Enablement issue to work through. In this issue it will be verified if they have completed the correct level of harassment prevention training. If the team member has completed the "Team Member" level of the training, they will have to take the "Supervisor" level of the training as well.
 
-Our <a href="https://about.gitlab.com/handbook/anti-harassment/?private=1">Anti-Harassment Policy</a> outlines guidelines, reporting and disciplinary action.  
+Our <a href="/handbook/anti-harassment/?private=1">Anti-Harassment Policy</a> outlines guidelines, reporting and disciplinary action.  
 
 </details>
 

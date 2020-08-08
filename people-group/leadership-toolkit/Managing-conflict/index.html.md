@@ -115,7 +115,7 @@ If at any time a manager feels the conflict situation has violated our [values](
 
 Managers need to be well versed in managing and facilitating conflict resolution between team members. They can do this by surfacing and clarifying areas of disagreement and by creating an enviornment where resolution is possible. Conflict resolution is a key component to enabling team members to be successful and reach their potential. 
 
-**Skills and behavior of the conflict resolution [manager competency](https://about.gitlab.com/handbook/competencies/#list):** 
+**Skills and behavior of the conflict resolution [manager competency](/handbook/competencies/#list):** 
 
 - Facilitates conflict resolution between co-workers by surfacing and clarifying areas of disagreement
 - Creates an enviornment where resolution is possible

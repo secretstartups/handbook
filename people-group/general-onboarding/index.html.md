@@ -32,11 +32,11 @@ Onboarding is [incredibly important](/company/culture/all-remote/onboarding/) at
 
 We highly recommend taking at least two full weeks for onboarding and only in week three starting with team specific onboarding and training. Please feel free to participate in your team's work in your first two weeks, but don't feel like you have to contribute heavily.
 
-All onboarding steps are in the [onboarding issue template](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding.md) which is owned by the People Experience Team. The onboarding process for the new team member is [self-driven and self-learning](https://about.gitlab.com/handbook/values/#self-service-and-self-learning), whilst also remaining as [asynchronous](https://about.gitlab.com/handbook/values/#bias-towards-asynchronous-communication) as possible settling into the remote life at GitLab. 
+All onboarding steps are in the [onboarding issue template](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding.md) which is owned by the People Experience Team. The onboarding process for the new team member is [self-driven and self-learning](/handbook/values/#self-service-and-self-learning), whilst also remaining as [asynchronous](/handbook/values/#bias-towards-asynchronous-communication) as possible settling into the remote life at GitLab. 
 
 Each onboarding issue has a main section that contains tasks relevant to all GitLab team-members and a due date of 30 days. Below the main section are department and role-specific tasks. Some roles and departments have tasks that link to a supplemental issue template or an additional onboarding page.  Reach out to your [onboarding buddy](/handbook/people-group/general-onboarding/onboarding-buddies/) or other GitLab team members if you need help understanding or completing any of your tasks.
 
-Through onboarding issues, you should gain access to our team member [baseline entitlements](https://about.gitlab.com/handbook/engineering/security/#baseline-role-based-entitlements-access-runbooks--issue-templates). On Day 2 of onboarding an [Access Request](https://about.gitlab.com/handbook/people-group/engineering/#access-request-issue-creation) will be generated, if a template has been created for the role. Access requests are owned by the IT team. If you have any access requests related questions, please reach out to #it-help in Slack.
+Through onboarding issues, you should gain access to our team member [baseline entitlements](/handbook/engineering/security/#baseline-role-based-entitlements-access-runbooks--issue-templates). On Day 2 of onboarding an [Access Request](/handbook/people-group/engineering/#access-request-issue-creation) will be generated, if a template has been created for the role. Access requests are owned by the IT team. If you have any access requests related questions, please reach out to #it-help in Slack.
 
 ## Onboarding Check-In Call
 All new team members are invited to the Onboarding Check-In call. This call occurs every other Thursday in both an APAC/EMEA and an Americas friendly time. 
@@ -137,11 +137,11 @@ These are added to the "All Team Member" Template
 * [Consultant onboarding and offboarding](/handbook/people-group/general-onboarding/consultants/)
 * [Developer onboarding](/handbook/developer-onboarding/)
 * [GitLab onboarding buddies](/handbook/people-group/general-onboarding/onboarding-buddies/)
-* [Merge Request buddies](https://about.gitlab.com/handbook/people-group/general-onboarding/mr-buddies/)
+* [Merge Request buddies](/handbook/people-group/general-onboarding/mr-buddies/)
 * [Onboarding Processes](/handbook/people-group/general-onboarding/onboarding-processes/)
 * [Quality team onboarding](/handbook/engineering/quality/onboarding/)
 * [Sales team onboarding](/handbook/sales/onboarding/)
-* [Support team onboarding](https://about.gitlab.com/handbook/support/training/)
-* [SRE onboarding](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/sre-onboarding/)
+* [Support team onboarding](/handbook/support/training/)
+* [SRE onboarding](/handbook/engineering/infrastructure/team/reliability/sre-onboarding/)
 * [Product Designer onboarding](/handbook/engineering/ux/uxdesigner-onboarding/)
 * [UX Researcher onboarding](/handbook/engineering/ux/uxresearcher-onboarding/)

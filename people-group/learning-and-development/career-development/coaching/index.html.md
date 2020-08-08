@@ -19,13 +19,13 @@ Coaching is about helping others help themselves. It is not about giving advice,
 
 ## Coaching at GitLab
 
-Coaching conversations are fluid, dynamic acts of co-creation where the coach and the coachee are equal partners. The Gitlab coaching framework has both a coach and coachee side, and each side is a reflection of the other. Coaching is an important component of our [360 review process](https://about.gitlab.com/handbook/people-group/360-feedback/) and for [guidance on feedback](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/). Coaching can occur during 
-[one-on-one meetings](https://about.gitlab.com/handbook/leadership/1-1/) or at any time. It is an important component of [career development](https://about.gitlab.com/handbook/people-group/leadership-toolkit/career-development-conversations/), [leading teams](https://about.gitlab.com/handbook/people-group/leadership-toolkit/leading-teams-through-adversity-or-challenging-times/), [building an inclusive culture](https://about.gitlab.com/company/culture/inclusion/building-diversity-and-inclusion/#tips-for-managers), [mentoring](https://about.gitlab.com/handbook/engineering/career-development/mentoring/), and much more. 
+Coaching conversations are fluid, dynamic acts of co-creation where the coach and the coachee are equal partners. The Gitlab coaching framework has both a coach and coachee side, and each side is a reflection of the other. Coaching is an important component of our [360 review process](/handbook/people-group/360-feedback/) and for [guidance on feedback](/handbook/people-group/guidance-on-feedback/). Coaching can occur during 
+[one-on-one meetings](/handbook/leadership/1-1/) or at any time. It is an important component of [career development](/handbook/people-group/leadership-toolkit/career-development-conversations/), [leading teams](/handbook/people-group/leadership-toolkit/leading-teams-through-adversity-or-challenging-times/), [building an inclusive culture](https://about.gitlab.com/company/culture/inclusion/building-diversity-and-inclusion/#tips-for-managers), [mentoring](/handbook/engineering/career-development/mentoring/), and much more. 
 
 ## Selecting a coach
 
 There are various ways to find a coach at GitLab:
-* [Modern Health](https://about.gitlab.com/handbook/total-rewards/benefits/modern-health/), our Employee Assistance Program provides professional coaching to support development areas on the feedback you receive. 
+* [Modern Health](/handbook/total-rewards/benefits/modern-health/), our Employee Assistance Program provides professional coaching to support development areas on the feedback you receive. 
 * Consider a senior to you in your larger team or someone outside of your team that have inspired you on the specific areas you are working and developing on. 
 * Your current Manager can be a coach that steer you towards future goals. Please ensure that your Manager has capacity to take you on in a coaching capacity. However, coaching can also be a type of interaction you have with your Manager. 
 
@@ -44,7 +44,7 @@ Key attributes of a coach include some of the following:
 
 ### Different hats for different conversations
 
-When we think about coaching as a mode of conversation, you may also be thinking about all the other modes of conversation you might use as a [leader](https://about.gitlab.com/handbook/leadership/) in multiple types of roles. You may be a team lead running an engineering program. You may be managing [one of our TMRG's](https://about.gitlab.com/company/culture/inclusion/erg-guide/). You may [be a mentor](https://about.gitlab.com/handbook/engineering/career-development/mentoring/) or [a buddy](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-buddies/). You are also most likely a direct report of someone else. Whatever it is you need to flex your leadership style and adopt different approaches to engage in meaningful conversations. You can think of this as wearing "different hats."
+When we think about coaching as a mode of conversation, you may also be thinking about all the other modes of conversation you might use as a [leader](/handbook/leadership/) in multiple types of roles. You may be a team lead running an engineering program. You may be managing [one of our TMRG's](https://about.gitlab.com/company/culture/inclusion/erg-guide/). You may [be a mentor](/handbook/engineering/career-development/mentoring/) or [a buddy](/handbook/people-group/general-onboarding/onboarding-buddies/). You are also most likely a direct report of someone else. Whatever it is you need to flex your leadership style and adopt different approaches to engage in meaningful conversations. You can think of this as wearing "different hats."
 
 You may wear multiple hats in any given day: 
 
@@ -150,7 +150,7 @@ Effective coaches use a defined set of skills to enable coaching coversations. T
 <details>
 <summary>Encouragement</summary>
 
-  Encourage and show enthusiasm by identifying strengths in the coachee to build trust. Be open and ground yourself in individual team member strengths. Reflect back on what you noticed and determine the impact on the coachee to see that the [feedback](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/) has landed.
+  Encourage and show enthusiasm by identifying strengths in the coachee to build trust. Be open and ground yourself in individual team member strengths. Reflect back on what you noticed and determine the impact on the coachee to see that the [feedback](/handbook/people-group/guidance-on-feedback/) has landed.
 
   <p>
     <b>When to Encourage</b>
@@ -167,7 +167,7 @@ Effective coaches use a defined set of skills to enable coaching coversations. T
     <ul>
     <li>Acknowledging: Focuses on the coachee - who they are as a person and what they have done in their life, their inner character. Make the coachee feel unique and that you recognize what sets them apart.</li>
     <li>Appreciating: Focuses on the positive impact and contribution of the deed to others.</li>
-    <li>Praising: Focuses on the deed, what people do - <a href="https://about.gitlab.com/handbook/values/#results">results</a>, <a href="https://about.gitlab.com/handbook/values/#transparency">transparency</a>, <a href="https://about.gitlab.com/handbook/values/#efficiency">efficiency</a>, <a href="https://about.gitlab.com/company/culture/inclusion/">inclusion</a>, and performance. </li>
+    <li>Praising: Focuses on the deed, what people do - <a href="/handbook/values/#results">results</a>, <a href="/handbook/values/#transparency">transparency</a>, <a href="/handbook/values/#efficiency">efficiency</a>, <a href="https://about.gitlab.com/company/culture/inclusion/">inclusion</a>, and performance. </li>
   </ul>
   </p>
 
@@ -295,7 +295,7 @@ The planning for action phase is about enabling the coachee to make a plan with 
 *  Coaches may not neceassarily be attached to the results a coachee achieves.
 *  Actions are anchored in what is important to the coachee, what changes they want to acheive. Coaches should hold their coachee accountable for performance on action steps and their overall change agenda. 
 
-When you are planning for action while wearing your coaching hat, you are not evaluating or judging or driving your own agenda. The coachee should ultimately decide the action steps, committing to their own path forward. As a coach, you are curious and non-judgemental while living up to [GitLab values](https://about.gitlab.com/handbook/values/). 
+When you are planning for action while wearing your coaching hat, you are not evaluating or judging or driving your own agenda. The coachee should ultimately decide the action steps, committing to their own path forward. As a coach, you are curious and non-judgemental while living up to [GitLab values](/handbook/values/). 
 
 ### Sample planning for action questions: 
 
@@ -332,16 +332,16 @@ The coach might also want to end the conversation with a few statements about wh
 
 ## Coaching Manager Competency
 
-In an all-remote organization, coaching is a critical skill for managers to develop and improve upon as they progress in their careers. Coaching helps to facilitate the career development of team members through regular coaching conversations. Coaching helps team members change behavior, improve performance, and sustain commitment through encouragement, support, collaborative problem-solving, goal setting, and [feedback](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/). 
+In an all-remote organization, coaching is a critical skill for managers to develop and improve upon as they progress in their careers. Coaching helps to facilitate the career development of team members through regular coaching conversations. Coaching helps team members change behavior, improve performance, and sustain commitment through encouragement, support, collaborative problem-solving, goal setting, and [feedback](/handbook/people-group/guidance-on-feedback/). 
 
-**Skills and behavior of the [coaching competency](https://about.gitlab.com/handbook/competencies/) for managers:**
+**Skills and behavior of the [coaching competency](/handbook/competencies/) for managers:**
 
 - Facilitates job performance growth of team members by providing regular coaching sessions
 - Understands team members long-term career goals and acts as a mentor and guide to achieving them. 
 - Conducts development and career planning dialogues with team members continuously
 - Reflects on their leadership style and impact on the team and team situation
 - Seeks new coaching approaches and techniques and exemplifies what it means to continuously develop their skills
-- Delivers effective strategies for dealing with cases of [underperformance](https://about.gitlab.com/handbook/underperformance/) and instills that in other leaders across the organization
+- Delivers effective strategies for dealing with cases of [underperformance](/handbook/underperformance/) and instills that in other leaders across the organization
 
 ## Additional coaching resources
 

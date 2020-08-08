@@ -13,7 +13,7 @@ title: "Career Development Conversation"
 
 Providing team members with a clear path of advancement within the group, department or division that includes career development opportunities is a win-win-win for team members, managers and GitLab.  Team members who are challenged, engaged and who are actively contributing relevant solutions stay with organizations. An engaged workforce allows the department and divisions to meet their current and future needs for talent and skills and increases performance and decreases regrettable attrition.
 
-Please make sure as a manager you have reviewed the [Career Development Section in the handbook](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/)
+Please make sure as a manager you have reviewed the [Career Development Section in the handbook](/handbook/people-group/learning-and-development/career-development/)
 
 There are many reasons that career development conversations are important. Below are a few examples though there are many more reasons.
 

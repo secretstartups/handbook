@@ -32,11 +32,11 @@ In article [Leadership during adversity - 5 tips to help weather the storm](http
 2.  **Communicate a realistic strategy and keep moving forward**: Iteration is even more important at this time.  Keep your teams focused and moving toward the department, division or organizational goals.
 3.  **Focus on what you can control**: Keep focusing your teams on the producing Results.
 4.  **Create small wins and motivating environment**: Efficiency and boring solutions should still be a focus for the team.
-5.  **Take care of your team**: [Family first](https://about.gitlab.com/handbook/values/#sts=Family%20and%20friends%20first,%20work%20second ) is part of our Diversity, Inclusion & Belonging  values and as a manager making sure your team members are taken care of as well as yourself is even more important during difficult times.
+5.  **Take care of your team**: [Family first](/handbook/values/#sts=Family%20and%20friends%20first,%20work%20second ) is part of our Diversity, Inclusion & Belonging  values and as a manager making sure your team members are taken care of as well as yourself is even more important during difficult times.
 
 ## Additional resources
 
-As managers please make sure you familiarize yourself with the options available for team members and your self in regards to taking care of your mental health. If you have not done so yet, please review the [Mental Health Awareness](https://about.gitlab.com/handbook/people-group/code-of-conduct/#mental-health-awareness) section in our handbook. 
+As managers please make sure you familiarize yourself with the options available for team members and your self in regards to taking care of your mental health. If you have not done so yet, please review the [Mental Health Awareness](/handbook/people-group/code-of-conduct/#mental-health-awareness) section in our handbook. 
 
 If you are facing challenges within your team and are looking for help and guidance please reach out to your leader as well as your PBP ([People Business Partner](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group)).  Your PBP is here to help you talk through the challenges and work through different plans of success.
 

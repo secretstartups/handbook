@@ -15,7 +15,7 @@ title: "Sales Diversity Inclusion & Belonging Initatives"
 
 As discussed in [GitLab’s Remote Playbook](https://about.gitlab.com/company/culture/all-remote/), the intentionality behind communication, especially in remote settings, is a critical element of success. This pilot program aims to support GitLab’s communications plan by purposefully creating and cultivating opportunities for mentors, mentees, and connection. 
 
-The goal of the Women in Sales Pilot Program is to provide mentorship opportunities to women in Sales as a ***pilot***. If successful, we will consider an expansion to other groups across the company. In the spirit of [iteration](https://about.gitlab.com/handbook/values/#iteration), we would like to get started soon and expand and improve as we go. 
+The goal of the Women in Sales Pilot Program is to provide mentorship opportunities to women in Sales as a ***pilot***. If successful, we will consider an expansion to other groups across the company. In the spirit of [iteration](/handbook/values/#iteration), we would like to get started soon and expand and improve as we go. 
 
 ## Program Benefits
 
@@ -130,7 +130,7 @@ Applications will be prioritized on a few different factors including:
 
 You are eligible to apply for the program if you meet the requirements below:
 * You have been with GitLab for at least 3 months at the time of application 
-* In a role with a [job grade](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) of 10 or above (10 indicates you are in a "director" level role)
+* In a role with a [job grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) of 10 or above (10 indicates you are in a "director" level role)
 
 ***If you meet the eligibility criteria and are interested in applying, please fill out the [Mentor Google Form application](https://forms.gle/eSoFesdtHhq2xo4J6)! Applications are due by May 21st!***
 
@@ -153,7 +153,7 @@ Interested in what other mentorship opportunities exist at GitLab? Check out the
 
 **The Reverse AMA format** - Questions asked by a facilitator (typically a member of the leadership team), answered by the group.
 
-In Sales, we piloted this format with our Black team members. We wanted to start with this underrepresented group to acknowledge that our Black team members may be processing a lot of emotions in different ways as a result of domestic and global events. Our [values](https://about.gitlab.com/handbook/values/) promote being inclusive and being an [ally](https://about.gitlab.com/handbook/communication/ally-resources/), and we need to lean into these values.
+In Sales, we piloted this format with our Black team members. We wanted to start with this underrepresented group to acknowledge that our Black team members may be processing a lot of emotions in different ways as a result of domestic and global events. Our [values](/handbook/values/) promote being inclusive and being an [ally](/handbook/communication/ally-resources/), and we need to lean into these values.
 
 **Benefits**
 * Improve efforts at driving inclusion and belonging at every level

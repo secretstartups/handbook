@@ -81,7 +81,7 @@ Besides syncing the above fields, we also sync:
   synced to the `Contracts & Changes` and the resume is synced to the `Resumes and Applications`
   folder on BambooHR. They are set to be shared with the new team member.
 - Employment Status: these are different depending on which entity is linked to the team member.
-  It follows the process that is outlined in the [handbook](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-processes/#adding-a-new-team-member-to-bamboohr). When there are changes in probations, a
+  It follows the process that is outlined in the [handbook](/handbook/people-group/general-onboarding/onboarding-processes/#adding-a-new-team-member-to-bamboohr). When there are changes in probations, a
   change should also be made to [this file](https://gitlab.com/gitlab-com/people-group/peopleops-eng/employment-automation/-/blob/master/data/probations.yml).
 
 When required data is missing, the system is set up to send a Slack message about

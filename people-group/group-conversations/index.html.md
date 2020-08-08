@@ -31,7 +31,7 @@ Below is a guide to help everyone get the most out of these conversations. If yo
 ### Host
 
 Before you host your first Group Conversation, complete this [Group Conversation training issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/group-conversation-host.md). 
-The host of a Zoom call is the person leading the conversation, usually the [DRI](https://about.gitlab.com/handbook/people-group/group-conversations/#schedule--dri), subject matter expert and overseer of the slides created for a call. Another term for the role is presenter. Questions will generally be directed to the host, and they will usually answer them unless they feel that another team member has more information or expertise to answer. The host/presenter makes sure that questions are asked in the order they are listed in the agenda document. The "host" term can be confusing as Zoom has a specific definition for host, which in practice GitLab does not assign to the term. _More information on Zoom's definition of "host" is explained below_. 
+The host of a Zoom call is the person leading the conversation, usually the [DRI](/handbook/people-group/group-conversations/#schedule--dri), subject matter expert and overseer of the slides created for a call. Another term for the role is presenter. Questions will generally be directed to the host, and they will usually answer them unless they feel that another team member has more information or expertise to answer. The host/presenter makes sure that questions are asked in the order they are listed in the agenda document. The "host" term can be confusing as Zoom has a specific definition for host, which in practice GitLab does not assign to the term. _More information on Zoom's definition of "host" is explained below_. 
 
 ### Moderator
 
@@ -68,7 +68,7 @@ Calls are scheduled by [People Experience Team](/handbook/people-group/people-ex
   - Choose to send an update to the invitees
   - _If prompted_ with the questions to update 1 or all events, choose to only update this event
 
-If you will be out of office on the day of your Group Conversation, or need a person other than the DRI listed in the [Schedule & DRI table](https://about.gitlab.com/handbook/people-group/group-conversations/#schedule--dri) to Host:
+If you will be out of office on the day of your Group Conversation, or need a person other than the DRI listed in the [Schedule & DRI table](/handbook/people-group/group-conversations/#schedule--dri) to Host:
 - Please update the Alternate Host line in the Group Conversation Agenda document.
 - Please notify any of the People Experience Associates in the #group-conversations Slack channel so that they may change the host in Zoom's settings.
 
@@ -133,7 +133,7 @@ If a Group Conversation is cancelled, the People Operations and People Experienc
 
 The `People Experience and People Specialist` teams are responsible for moderating the following calls:
 
-- AMAs (If requested with sufficient notice as per instructions [here](https://about.gitlab.com/handbook/people-group/group-conversations/#request-an-ama)) 
+- AMAs (If requested with sufficient notice as per instructions [here](/handbook/people-group/group-conversations/#request-an-ama)) 
 - Group Conversations 
 - CEO 101 (Introductions and Livestream)
 
@@ -145,7 +145,7 @@ All Group Conversations (Public and Private) will be streamed to YouTube within 
 
 ### Prior to the Call
 
-1. Ping the [DRI](https://about.gitlab.com/handbook/people-group/group-conversations/#schedule--dri) of the Group Conversation you will be moderating in the `group-conversations` Slack channel a minimum of 24 hours prior to the call to confirm they will be hosting.
+1. Ping the [DRI](/handbook/people-group/group-conversations/#schedule--dri) of the Group Conversation you will be moderating in the `group-conversations` Slack channel a minimum of 24 hours prior to the call to confirm they will be hosting.
 2. If the host for the particular Group Conversation you are moderating has not hosted a call of this nature before, be sure to assign the [Group Conversation Training Issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/group-conversation-host.md) to them to support their preparation for the call.
 3. Ensure there are 15 numbered lines below the Date, Topic, Host Name, and Slide Deck Link in the [Group Conversation Agenda](https://docs.google.com/document/d/1zELoftrommhRdnEOAocE6jea6w7KngUDjTUQBlMCNAU/edit) where team members will be able to add their questions. Ensure you have spaced out the numbers. To do this you must press the enter key and skip to the amount of lines that you require (15). Then select the blank space that has been created. When you have selected all of the blank space, click on the 'Numbered List' option in the Google Docs toolbar.
 4. Log into Zoom `5-minutes prior` to the start of the Group Conversation from the People Operatios Zoom account. You can double check to ensure you are logged in to the People Operations account by going to [Zoom](https://zoom.us/) and verifying that the Tanuki Logo appears in the upper-righthand corner.
@@ -221,17 +221,17 @@ The schedule with directly responsible individuals (DRI) is as follows:
 
 | Week | Day | Group Conversation | DRI |
 |---|---|---|---|
-| One  | Mon  | [Secure & Defend Section](https://about.gitlab.com/handbook/product/product-categories/#secure--defend-section)  | David DeSanto  |
-| One  | Tue  | [Ops Section](https://about.gitlab.com/handbook/product/product-categories/#ops-section)  | Kenny Johnston  |
+| One  | Mon  | [Secure & Defend Section](/handbook/product/product-categories/#secure--defend-section)  | David DeSanto  |
+| One  | Tue  | [Ops Section](/handbook/product/product-categories/#ops-section)  | Kenny Johnston  |
 | One  | Wed  | [Revenue Marketing](/handbook/marketing/revenue-marketing/)  | Evan Welchel  |
 | One  | Thur  | [Marketing](/handbook/marketing/)  | Todd Barr  |
 | One  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Two  | Mon  | [Enablement](/handbook/engineering/development/enablement/)  | Josh Lambert  |
-| Two  | Tue  | [Dev Section](https://about.gitlab.com/handbook/product/product-categories/#dev-section)  | Eric Brinkman  |
+| Two  | Tue  | [Dev Section](/handbook/product/product-categories/#dev-section)  | Eric Brinkman  |
 | Two  | Wed  | [Quality](/handbook/engineering/quality/)  | Mek Stittri  |
 | Two  | Thur  | [UX](/handbook/engineering/ux/)  | Christie Lenneville  |
 | Two  | Fri  | Do Not Schedule  | Do Not Schedule  |
-| Three  | Mon  | [Growth Section](https://about.gitlab.com/handbook/product/product-categories/#growth-section)  | Hila Qu  |
+| Three  | Mon  | [Growth Section](/handbook/product/product-categories/#growth-section)  | Hila Qu  |
 | Three  | Tue  | [Support](/handbook/support/)  | Tom Cooney  |
 | Three  | Wed  | [Development](/handbook/engineering/development/)   | Christopher Lefelhocz  |
 | Three  | Thur  | [Finance](/handbook/finance/)  | Paul Machle  |
@@ -264,7 +264,7 @@ The schedule with directly responsible individuals (DRI) is as follows:
 - People Experience Associates moderate Group Conversations and AMAs. If an AMA is created with short notice (less than 24 hours) and there are no People Operations team members available, then People Operations will not be able to moderate or livestream.
 - As part of designated Bring Your Family and Friends to Work events, some AMAs will be open to family members (including kids) and friends. These AMAs will be a subset of AMAs that do not contain sensitive data (sensitive data includes: information we usually don't share publicly). These events will be publicized ahead of time through #whats-happening-at-gitlab. The calendar invite for these AMAs will specify that they are "open to family and friends." To arrange this, reach out to your EBA team member and ask them to update the calendar invite to show "open to family and friends". In the event your EBA is OOO, please reach out to the People Experience Associate team to add it. 
 
-We suggest each person attend via their own device to avoid [hybrid meetings](https://about.gitlab.com/handbook/communication/#hybrid-calls-are-horrible). We encourage you to follow up with your guest after to debrief and share call impressions. For this it might be good to be in the same room but only if you are sure not to get echo's.
+We suggest each person attend via their own device to avoid [hybrid meetings](/handbook/communication/#hybrid-calls-are-horrible). We encourage you to follow up with your guest after to debrief and share call impressions. For this it might be good to be in the same room but only if you are sure not to get echo's.
 
 ### Steps to Request an AMA
 

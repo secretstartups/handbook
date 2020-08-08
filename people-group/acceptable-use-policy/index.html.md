@@ -53,7 +53,7 @@ Prohibited system and network activities include, but are not limited to, the fo
 - Executing any form of network monitoring that intercepts data not intended for the team member’s or contractor's computer, except when troubleshooting networking issues for the benefit of GitLab.
 - Circumventing user authentication or security of any computer host, network, or account used by GitLab.
 - Tunneling between network segments or security zones (e.g., `gprd`, `gstg`, `ops`, `ci`), except when troubleshooting issues for the benefit of GitLab.
-- Given the potential sensitivity of the data contained in screenshot images, the use of tools that capture and share screenshots to hosted sites online is prohibited without the explicit approval of the Security and Legal Departments.  Screenshots should be stored locally or within Google drive folders associated with your GitLab.com account. Access to these drives and files should be managed in accordance with our [Access Control policy](https://about.gitlab.com/handbook/engineering/security/#access-management-process), and handled according to our [Data Classification Policy](https://about.gitlab.com/handbook/engineering/security/data-classification-policy.html). Tools such as [Lightshot](https://app.prntscr.com/en/index.html), where upload functionality cannot be disabled and could result in inadvertant uploads, should not be used.
+- Given the potential sensitivity of the data contained in screenshot images, the use of tools that capture and share screenshots to hosted sites online is prohibited without the explicit approval of the Security and Legal Departments.  Screenshots should be stored locally or within Google drive folders associated with your GitLab.com account. Access to these drives and files should be managed in accordance with our [Access Control policy](/handbook/engineering/security/#access-management-process), and handled according to our [Data Classification Policy](/handbook/engineering/security/data-classification-policy.html). Tools such as [Lightshot](https://app.prntscr.com/en/index.html), where upload functionality cannot be disabled and could result in inadvertant uploads, should not be used.
 
 
 ### Unacceptable Email and Communications Activities
@@ -111,6 +111,6 @@ To consult with the Security Team, use the appropriate contact: `security@gitlab
 ### Related Documents and Handbook Entries
 
 - [Onboarding Issue](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding.md)
-- [Data Classification Policy](https://about.gitlab.com/handbook/engineering/security/data-classification-policy.html)
+- [Data Classification Policy](/handbook/engineering/security/data-classification-policy.html)
 - [Asset return procedure](/handbook/people-group/offboarding/#returning-property-to-gitlab)
 - [Lost or stolen asset procedure](/handbook/security/#panic-email)

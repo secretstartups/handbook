@@ -14,7 +14,7 @@ title: "People Ops Engineering"
 
 As GitLab continues to scale, our need for tools and automation to manage our growth expands
 along with it. To help the People Group, we have a dedicated [People Operations Fullstack Engineer](https://about.gitlab.com/job-families/people-ops/people-ops-fullstack-engineer/) to make our team more efficient and improve the effectiveness of our
-core [People Group](https://about.gitlab.com/handbook/people-group/).
+core [People Group](/handbook/people-group/).
 
 Responsibilities include (but are not limited to):
 
@@ -26,7 +26,7 @@ Responsibilities include (but are not limited to):
 ### Working with us
 
 If you'd like to request engineering assistance with an issue related to People Ops processes
-or tools ([like BambooHR](https://about.gitlab.com/handbook/people-group/#using-bamboohr)), please start by
+or tools ([like BambooHR](/handbook/people-group/#using-bamboohr)), please start by
 [creating an issue](https://gitlab.com/gitlab-com/people-group/people-operations-engineering/issues/new)
 in the People Ops Engineering project.
 
