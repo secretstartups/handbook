@@ -47,7 +47,7 @@ To connect to your social networks, go to your [dashboard](https://app2.greenhou
 
 Under the Social Network section, you'll now see options to share the vacancies. To post a requisition immediately, click `Post` next to the platform that you'd like to post on, then choose the requisition to share, and adjust the verbiage in the share message. Please keep your message in-line with our values, follow our [social media guidelines](/handbook/marketing/social-media-guidelines/), and [use inclusive language](https://docs.google.com/presentation/d/186RK9QqOYxF8BmVS15AOKvwFpt4WglKKDR7cUCeDGkE/edit#slide=id.g594d890234_0_0). There is a template, but we encourage you to personalize it to attract applicants!
 
-You can also [schedule posts](https://support.greenhouse.io/hc/en-us/articles/200925999-How-do-I-schedule-posts-to-my-social-networks-) to your social media by clicking the `Schedule Posts` button.
+You can also [schedule posts](https://support.greenhouse.io/hc/en-us/articles/115002226806-Post-to-Social-Media-Account-from-Greenhouse-Recruiting#h_c3cbac56-09b0-4ffc-bb26-8d47e13ed744) to your social media by clicking the `Schedule Posts` button.
 
 If you want to edit a scheduled post, you do so once they've been scheduled. You can see a list of your scheduled posts in the `Social Network` section of Greenhouse.
 
