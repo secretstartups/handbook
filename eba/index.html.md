@@ -217,7 +217,7 @@ The Chief of Staff is responsible for making sure that all of the CEO's Evangeli
 
 If people want advice on open source, remote work, or other things related to GitLab we'll consider that. If Sid approves of the request we suggest the following since we want to make sure the content is radiated as widely as possible. To start, we send an email as shown below.
 
-> Thanks for being interested in GitLab. If we schedule a meeting it will follow GitLab's [Pick Your Brain format](/handbook/ceo/#pick-your-brain-meetings). Are you able to submit a draft post with us within 48 hours of interview?
+> Thanks for being interested in GitLab. If we schedule a meeting it will follow GitLab's [Pick Your Brain format](/handbook/ceo/#pick-your-brain-interviews). Are you able to submit a draft post with us within 48 hours of interview?
 >
 > GitLab is a very transparent company and many things that are normally confidential can be found in our handbook, available online. Please consider looking at the following pages prior to our meeting.
 >   * [Company strategy including planned going public date](/company/strategy/)
