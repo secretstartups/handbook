@@ -37,7 +37,7 @@ Here are additional resources on being an ally
 
 ## Ally Training 
 
-We held a 50 minute [Live Learning](https://about.gitlab.com/handbook/people-group/learning-and-development/#live-learning) Ally Training on 2020-01-28. The recording follows along with the [slide deck](https://docs.google.com/presentation/d/18Qyn2mBJu0Loq3x_RT5bL2lnL-3YHvac1sQhmqqZNso/edit?usp=sharing) and [agenda](https://docs.google.com/document/d/1lGPImuahahjDejI5-9cNNCg-NMQJ4GCHO6n0fcntjs8/edit?usp=sharing). 
+We held a 50 minute [Live Learning](/handbook/people-group/learning-and-development/#live-learning) Ally Training on 2020-01-28. The recording follows along with the [slide deck](https://docs.google.com/presentation/d/18Qyn2mBJu0Loq3x_RT5bL2lnL-3YHvac1sQhmqqZNso/edit?usp=sharing) and [agenda](https://docs.google.com/document/d/1lGPImuahahjDejI5-9cNNCg-NMQJ4GCHO6n0fcntjs8/edit?usp=sharing). 
 
 <!-- blank line -->
 <figure class="video_container">

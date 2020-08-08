@@ -37,7 +37,7 @@ To raise an issue with a specific team, please use below most commonly used chan
 * **`#it-help`**: For IT related queries, Okta, issues with hardware, software, system access requests and user permissions etc
 * **`#payroll_expenses`**: For Expensify issues, delayed reimbursements and salaries, payslips, etc
 * **`#recruiting`**: For referrals based questions, candidate alignments, general recruiting etc
-* **`#total-rewards`**: For general questions on [Total Rewards](https://about.gitlab.com/handbook/total-rewards/) including compensation, benefits, and equity
+* **`#total-rewards`**: For general questions on [Total Rewards](/handbook/total-rewards/) including compensation, benefits, and equity
 
 
 ### Channel Categories

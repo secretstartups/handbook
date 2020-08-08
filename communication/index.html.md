@@ -76,7 +76,7 @@ It's best practice to start a discussion where possible with a [Merge Request (M
 1. Respond to comments within a **threaded discussion**. If there isn't a discussion thread yet, you can use the [Reply to comment](https://docs.gitlab.com/ee/user/discussions/#start-a-discussion-by-replying-to-a-standard-comment) button from the comments to create one. This will prevent comments from containing many interweaves discussions with responses that are hard to follow.
 1. If your comment or answer contains separate topics, write separate comments for each, so others can address topics independently using the [Reply to comment](https://docs.gitlab.com/ee/user/discussions/#start-a-discussion-by-replying-to-a-standard-comment) button.
 1. If you have received any feedback or questions on your MR, try to acknowledge comments as [that's how we ensure we create an environment of belonging for all team members](/company/culture/inclusion/#gitlabs-definition-of-diversity-inclusion--belonging). Merging your MR as-is without giving an answer or any response makes the commenters feel their opinions are unheard. If you are the DRI who does not have to make a fast decision, you can choose not to change your MR, but you should acknowledge the comments or feedback, consider if they warrant a change to your MR, and [say why, not just what](/handbook/values/#say-why-not-just-what). 
-If there are many comments, you can choose to summarize key feedback areas and share your response at a high level. We appreciate that [if you force a DRI to explain too much, you'll create incentives to ship projects under the radar. The fear of falling into a perpetual loop of explaining can derail a DRI, and cause people to defer rather than working with a bias for action](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/#empowering-dris). This is something we want to avoid.
+If there are many comments, you can choose to summarize key feedback areas and share your response at a high level. We appreciate that [if you force a DRI to explain too much, you'll create incentives to ship projects under the radar. The fear of falling into a perpetual loop of explaining can derail a DRI, and cause people to defer rather than working with a bias for action](/handbook/people-group/directly-responsible-individuals/#empowering-dris). This is something we want to avoid.
 When fast decisions are needed, [we'll have to accept that people listened to us but don't owe us an explanation to have fast decisions based on everyone's input](/handbook/leadership/#making-decisions). The goals are to be transparent and collaborative--not to lose efficiency. Not everyone will agree, but we expect all people to [disagree, commit, and disagree](/handbook/values/#disagree-commit-and-disagree).
 1. For GitLab the product merge request guidelines are in the [Contribution
 guide](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#merge-request-guidelines) and code review guidelines for reviewers and maintainers are described in our [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html).
@@ -139,8 +139,8 @@ Every project is different, and each communication strategy should be tailored t
 
 ### Considerations for a change proposal
 
-1. Consider whether the change 'subject' is [public by default.](https://about.gitlab.com/handbook/communication/#not-public) 
-1. [Everything should start with a Merge Request](https://about.gitlab.com/handbook/communication/#everything-starts-with-a-merge-request) but a [Confidential Issue](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html), visible only to members of a project with sufficient permissions, may be considered if an issue is contentious (see below).
+1. Consider whether the change 'subject' is [public by default.](/handbook/communication/#not-public) 
+1. [Everything should start with a Merge Request](/handbook/communication/#everything-starts-with-a-merge-request) but a [Confidential Issue](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html), visible only to members of a project with sufficient permissions, may be considered if an issue is contentious (see below).
 
 ### Things to include in change proposal 
 1. Summary of what you are solving for in simple terms (Address the What, Why, When, Who and How) 
@@ -988,14 +988,14 @@ The alphabetically sorted starter list below spotlights a few of GitLab's [many 
 | `#women` | Employee resource group for members and allies. |
 
 ### Slackbots 
-We have a few slackbots to help us with frequently asked questions and other slackbot's that directly help us to remain inclusive in our language and align closely with our [Diversity, Inclusion and Belonging Value](https://about.gitlab.com/handbook/values/#diversity-inclusion).
+We have a few slackbots to help us with frequently asked questions and other slackbot's that directly help us to remain inclusive in our language and align closely with our [Diversity, Inclusion and Belonging Value](/handbook/values/#diversity-inclusion).
 The following list is reflective of the onces we use for Diversity, Inclusion and Belonging and the suggested changes to use. We iterate on this list, as a GitLab Team Member, to view active slackbots that we use, kindly view them in Slack, under: GitLab > Customize Your Workspace > Slackbot. 
 
-| `you guys` | Are you including people of multiple genders? Please consider using "everyone," "team," "y'all," or similar instead. You can read more about inclusive language in our handbook: https://about.gitlab.com/handbook/general-guidelines/#behavior-and-language |
-| `hey guys, hi guys, you guys, salesman, salesmen, businessman, businessmen` | Are you including people of multiple genders? Please consider using "everyone," "team," "y'all," or similar instead. You can read more about inclusive language in our handbook: https://about.gitlab.com/handbook/general-guidelines/#behavior-and-language |
-| `on your toes, on anybody's toes` | It's probably okay. \nAs companies grow, their speed of decision making goes down since there are more people involved. We should counteract that by having short toes and feel comfortable letting others contribute to our domain.\nhttps://about.gitlab.com/handbook/values/#short-toes |
+| `you guys` | Are you including people of multiple genders? Please consider using "everyone," "team," "y'all," or similar instead. You can read more about inclusive language in our handbook: /handbook/general-guidelines/#behavior-and-language |
+| `hey guys, hi guys, you guys, salesman, salesmen, businessman, businessmen` | Are you including people of multiple genders? Please consider using "everyone," "team," "y'all," or similar instead. You can read more about inclusive language in our handbook: /handbook/general-guidelines/#behavior-and-language |
+| `on your toes, on anybody's toes` | It's probably okay. \nAs companies grow, their speed of decision making goes down since there are more people involved. We should counteract that by having short toes and feel comfortable letting others contribute to our domain.\n/handbook/values/#short-toes |
 | `aggressive` | Did you mean ambitious? |
-| `gitlabber, gitlabbers` | The term `gitlabber` is a commonly misused term. Please use "GitLab team member" instead. You can read more about this in our handbook: https://about.gitlab.com/handbook/communication/top-misused-terms |
+| `gitlabber, gitlabbers` | The term `gitlabber` is a commonly misused term. Please use "GitLab team member" instead. You can read more about this in our handbook: /handbook/communication/top-misused-terms |
 
 ### Why are we upgraded to the Plus tier?
 
