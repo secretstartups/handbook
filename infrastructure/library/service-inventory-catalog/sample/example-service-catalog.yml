@@ -1,48 +1,48 @@
 teams:
 - name: create-source-code-be
-  url: https://about.gitlab.com/handbook/engineering/development/dev/create-source-code-be/
+  url: /handbook/engineering/development/dev/create-source-code-be/
   manager_slug: michellegill
   slack_channel: g_create_source_code
   engagement_policy: # Link to doc that talks about engagement
                      # and escalation policy
   oncall_schedule:   # Link to pagerduty oncall schedule
 - name: distribution
-  url: https://about.gitlab.com/handbook/engineering/development/enablement/distribution/
+  url: /handbook/engineering/development/enablement/distribution/
   manager_slug: marin
   slack_channel: distribution
   engagement_policy: # Link to doc that talks about engagement
                      # and escalation policy
   oncall_schedule:   # Link to pagerduty oncall schedule
 - name: geo
-  url: https://about.gitlab.com/handbook/engineering/development/enablement/geo/
+  url: /handbook/engineering/development/enablement/geo/
   manager_slug: geo-mgr
   slack_channel: g_geo
   engagement_policy: # Link to doc that talks about engagement
                      # and escalation policy
   oncall_schedule:   # Link to pagerduty oncall schedule
 - name: gitaly
-  url: https://about.gitlab.com/handbook/engineering/dev-backend/gitaly/
+  url: /handbook/engineering/dev-backend/gitaly/
   manager_slug: eng-manager-gitaly
   slack_channel: g_gitaly
   engagement_policy: # Link to doc that talks about engagement
                      # and escalation policy
   oncall_schedule:   # Link to pagerduty oncall schedule
 - name: gitter
-  url: https://about.gitlab.com/handbook/engineering/dev-backend/gitter/
+  url: /handbook/engineering/dev-backend/gitter/
   manager_slug: eng-manager-gitaly
   slack_channel: g_gitaly
   engagement_policy: # Link to doc that talks about engagement
                      # and escalation policy
   oncall_schedule:   # Link to pagerduty oncall schedule
 - name: manage
-  url: https://about.gitlab.com/handbook/engineering/dev-backend/manage/
+  url: /handbook/engineering/dev-backend/manage/
   manager_slug: ruben-d
   slack_channel: g_manage
   engagement_policy: # Link to doc that talks about engagement
                      # and escalation policy
   oncall_schedule:   # Link to pagerduty oncall schedule
 - name: plan-project-management-be
-  url: https://about.gitlab.com/handbook/engineering/development/dev/plan-project-management-be/
+  url: /handbook/engineering/development/dev/plan-project-management-be/
   manager_slug: sean-m
   slack_channel: g_plan
   engagement_policy: # Link to doc that talks about engagement

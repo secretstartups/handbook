@@ -58,7 +58,7 @@ retains ownership of the incident.
 
 | **Role** | **Description** | **Who?** |
 | -------- | ------------------------| --- |
-| `EOC` - **Engineer On Call** | The EOC is the usually the first person alerted - expectations for the role are in the [Handbook for oncall](https://about.gitlab.com/handbook/on-call/#expectations-for-on-call). The checklist for the EOC is in our [runbooks](https://gitlab.com/gitlab-com/runbooks/blob/master/on-call/checklists/eoc.md). If another party has declared an incident, once the EOC is engaged the EOC owns the incident. The EOC can escalate a page in PagerDuty to engage the IMOC and CMOC. | The Reliability Team **Engineer On Call** is generally an SRE and can declare an incident. They are part of the "SRE 8 Hour" on call shift in PagerDuty. |
+| `EOC` - **Engineer On Call** | The EOC is the usually the first person alerted - expectations for the role are in the [Handbook for oncall](/handbook/on-call/#expectations-for-on-call). The checklist for the EOC is in our [runbooks](https://gitlab.com/gitlab-com/runbooks/blob/master/on-call/checklists/eoc.md). If another party has declared an incident, once the EOC is engaged the EOC owns the incident. The EOC can escalate a page in PagerDuty to engage the IMOC and CMOC. | The Reliability Team **Engineer On Call** is generally an SRE and can declare an incident. They are part of the "SRE 8 Hour" on call shift in PagerDuty. |
 | `IMOC` -  **Incident Manager On Call** | The IMOC is engaged when incident resolution requires coordination from multiple parties. The IMOC is the tactical leader of the incident response team&mdash;not a person performing technical work. The IMOC assembles the incident team by engaging individuals with the skills and information required to resolve the incident. | The **Incident Manager** is an Engineering Manager, Staff Engineer, or Director from the Reliability team. The IMOC rotation is currently in the "SRE Managers" Pager Duty Schedule. |
 | `CMOC` - **Communications Manager On Call** | The CMOC disseminates information internally to stakeholders and externally to customers across multiple media (e.g. GitLab issues, Twitter, status.gitlab.com, etc.). | The **Communications Manager** is generally member of the support team at GitLab. Notifications to the `Incident Management - CMOC` service in PagerDuty will go to the rotations setup for CMOC. |
 
@@ -123,7 +123,7 @@ In some cases, we may choose not to post to status.io, the following are example
 
 To page the Incident Manager on call you can:
 
-1. Run a [response play](https://about.gitlab.com/handbook/on-call/#site-reliability-engineers-sres)
+1. Run a [response play](/handbook/on-call/#site-reliability-engineers-sres)
 1. Type `/pd trigger` in the `#production` channel
 
 #### Communications Manager on Call (CMOC) Responsibilities
@@ -134,7 +134,7 @@ The GitLab support team staffs an oncall rotation and via the `Incident Manageme
 During an incident, the CMOC will:
 
 1. Be the voice of GitLab during an incident by updating our end-users, internal parties, and executive-level managers through updates to our [status page](https://status.gitlab.com/) hosted by Status.io.
-1. Update the status page at regular intervals in accordance with [the severity of the incident](https://about.gitlab.com/handbook/support/workflows/cmoc_workflows.html#frequency-of-updates).
+1. Update the status page at regular intervals in accordance with [the severity of the incident](/handbook/support/workflows/cmoc_workflows.html#frequency-of-updates).
 1. Notify GitLab Community Advocates via Slack using the `@advocates` handle at the start of an incident.
 
 ##### How to engage the CMOC?

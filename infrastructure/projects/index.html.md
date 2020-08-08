@@ -80,7 +80,7 @@ For example, restricted project classified as a workload on ops.gitlab.net will 
 
 A specific example of a project that fits this description is our `deployer` project. At runtime, this project contains sensitive information since its pipelines connect to the production systems. This is why the project is on ops.gitlab.net and only Infrastructure department has access. The mirror on GitLab.com however, is fully public accessible to everyone due to scripts in this project not containing any sensitive information.
 
-We will be reviewing projects on case by case basis to ensure that [our value of transparency is honored](https://about.gitlab.com/handbook/values/#transparency), but also honoring the [values hieararchy](https://about.gitlab.com/handbook/values/#hierarchy).
+We will be reviewing projects on case by case basis to ensure that [our value of transparency is honored](/handbook/values/#transparency), but also honoring the [values hieararchy](/handbook/values/#hierarchy).
 
 ## Workflow
 
