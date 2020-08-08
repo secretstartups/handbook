@@ -326,7 +326,7 @@ guide for more information.
 If you've found a regression while checking the QA issue created in the [release/tasks] project, check the issue description for more details on what
 to do next.
 
-If you believe that the regression has a high [severity], immediately declare an [S3 incident](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) to block the deploy, and inform Release Managers in the QA issue by mentioning `@gitlab-org/release/managers`.
+If you believe that the regression has a high [severity], immediately declare an [S3 incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) to block the deploy, and inform Release Managers in the QA issue by mentioning `@gitlab-org/release/managers`.
 In addition to that, engage with the releases managers in the [#releases] channel and confirm with them whether deployments need to be halted.
 
 If a regression is found in a new feature, and only that feature is affected, follow the directions in the QA issue for a regular regression.
