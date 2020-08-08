@@ -27,8 +27,8 @@ Additional related channel resources:
 
 
 
-*   [Channel Operations Page](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/)  - Learn how to manage partner deals in Salesforce and other operational tips when working with partners.
-*   [Channel Partner Program page]( https://about.gitlab.com/handbook/resellers/) - This page provides an overview of the GitLab channel partner program, the expectations of partners, benefits for partner and how partners can work with GitLab. 
+*   [Channel Operations Page](/handbook/sales/field-operations/channel-operations/)  - Learn how to manage partner deals in Salesforce and other operational tips when working with partners.
+*   [Channel Partner Program page]( /handbook/resellers/) - This page provides an overview of the GitLab channel partner program, the expectations of partners, benefits for partner and how partners can work with GitLab. 
 
 
 ## **Channels Partner Types**
@@ -58,7 +58,7 @@ Primary monetization is through the sale of services. This can be a one-time imp
 
 ### **Alliances**
 
-[Alliances](https://about.gitlab.com/handbook/alliances/)
+[Alliances](/handbook/alliances/)
 
 **How can GitLab sellers benefit from our channel partners?**
 
@@ -83,11 +83,11 @@ GitLab channel partners have established sales forces that help us multiply our 
 
 **Partners can help you scale and working with them is comp neutral**
 
-**[Channel Neutral Compensation](https://about.gitlab.com/handbook/sales/commissions/#channel-neutral-compensation)**
+**[Channel Neutral Compensation](/handbook/sales/commissions/#channel-neutral-compensation)**
 
-FY21 commissions will be channel neutral for all deals through partners (including Distributors, if applicable), which means standard partner discounts are credited back to the salesperson and must follow [order processing procedures](https://about.gitlab.com/handbook/business-ops/order-processing/) to correctly flag partner attribution. Total IACV on the deal after all discounts will count towards quota credit, but the channel neutral amount does not qualify for quota credit and only pays out for compensation at BCR. See Channel Neutral section referenced in the [FY21 Commission Plan presentation](https://docs.google.com/presentation/d/1lPZAmdHPPJwhJ4felwsgDXopIt7Usn3UnK5siOpQMlY/edit#slide=id.g7da31a6494_6_0)
+FY21 commissions will be channel neutral for all deals through partners (including Distributors, if applicable), which means standard partner discounts are credited back to the salesperson and must follow [order processing procedures](/handbook/business-ops/order-processing/) to correctly flag partner attribution. Total IACV on the deal after all discounts will count towards quota credit, but the channel neutral amount does not qualify for quota credit and only pays out for compensation at BCR. See Channel Neutral section referenced in the [FY21 Commission Plan presentation](https://docs.google.com/presentation/d/1lPZAmdHPPJwhJ4felwsgDXopIt7Usn3UnK5siOpQMlY/edit#slide=id.g7da31a6494_6_0)
 
-Partner Services also qualify for [FY21 Professional Services Spiff (v2)](https://about.gitlab.com/handbook/sales/commissions/#fy21-professional-services-spiff-v2).  So as partners help customers adopt and expand their GitLab deployments, they can earn a Services Attach rebate and the GitLab sales team can earn the Professional Services Spiff.
+Partner Services also qualify for [FY21 Professional Services Spiff (v2)](/handbook/sales/commissions/#fy21-professional-services-spiff-v2).  So as partners help customers adopt and expand their GitLab deployments, they can earn a Services Attach rebate and the GitLab sales team can earn the Professional Services Spiff.
 
 **Maximizing value by working with Channel Partners**
 

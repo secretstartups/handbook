@@ -82,7 +82,7 @@ Additionally, during the negotiation phase you should also be working with the C
 
 This activity should produce a document that clearly articulates what done looks like and when done is successful. The document should be signed by an accountable individual from both parties and verbally discussed.
 
-#### 3.2.2 [Create Customer Success Plan](https://about.gitlab.com/handbook/customer-success/tam/success-plans/)   
+#### 3.2.2 [Create Customer Success Plan](/handbook/customer-success/tam/success-plans/)   
 
 **The SA and TAM work with the customer to create a Customer Success Plan.**  A Success Plan is an interactive map to align the purchase (including renewals!) reasons to customer outcomes, develop joint accountabilities, measure progress and evolve as customers’ needs change. Put another way, it’s the way the customer can see and know that they’re obtaining significantly more value than the cost of a product or service. Click on the link above to follow the steps to create a Customer Success Plan. 
 
@@ -95,7 +95,7 @@ Once negotiations are concluded and a final price point per user and terms are e
 
 This step can be looked at as an extension of the negotiation process and the time horizon for final quote approval, and MSA review can vary greatly between the Commercial Sales and Enterprise Sales based on the customer’s purchasing processes.
 
-### 4.1 [Create a New Quote](https://about.gitlab.com/handbook/marketing/community-relations/community-advocacy/workflows/education-oss-startup/#step-3-create-a-new-quote) 
+### 4.1 [Create a New Quote](/handbook/marketing/community-relations/community-advocacy/workflows/education-oss-startup/#step-3-create-a-new-quote) 
 
 A quote is created in Salesforce. Click the heading above to follow the process. Generally once you submit a quote it will be sent to the customer's legal team to redline and review. 
 

@@ -101,7 +101,7 @@ Manage Approval Process For:
 
 ## Salesforce Chatter to Cases 
 
-**Business Process this supports:** The field needs a streamlined process to address their concerns on specifc salesforce records [within salesforce](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#how-to-communicate-with-us). This is also used by the finance team to help address record specific billing issues, as well as the Commmunity Advocate team to manage the influx of requests the team receives. 
+**Business Process this supports:** The field needs a streamlined process to address their concerns on specifc salesforce records [within salesforce](/handbook/sales/field-operations/sales-operations/#how-to-communicate-with-us). This is also used by the finance team to help address record specific billing issues, as well as the Commmunity Advocate team to manage the influx of requests the team receives. 
 
 **Overview:** The goal of the Chatter To Cases functionality is to allow a streamlined communication channel that the field can leverage while also providing a streamlined case management system for the supportung team members to manage the requests that are sent to them from the field. If a team members uses an appropraite tag in salesforce a salesforce case record will automatically be created. Once these records are created supporting team members can work through the respective cases that are created to address the fields needs and concerns.
 
@@ -189,7 +189,7 @@ Code Units:
 
 ## Order Type System
 
-**Business Process this supports:** [New vs Connected New vs Growth](https://about.gitlab.com/handbook/sales/#account-family)
+**Business Process this supports:** [New vs Connected New vs Growth](/handbook/sales/#account-family)
 
 **Overview:** The goal of the Order Type system is to determine a given Opportunity's relationship with the business. Did it start a new customer relationship, cross into a related segment of the customer, or grow an existing relationship.
 

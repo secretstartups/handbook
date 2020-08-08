@@ -44,9 +44,9 @@ Please see our [Key Programs](/handbook/sales/field-operations/field-enablement/
     *  [Sales Operating Procedures](/handbook/sales/sales-operating-procedures/)
     *  [Field Functional Competencies](/handbook/sales/training/field-functional-competencies/)
 *  [Sales Manager Best Practices](/handbook/sales/field-operations/field-enablement/sales-manager-best-practices)
-*  [Field Communications](https://about.gitlab.com/handbook/sales/field-communications/)
+*  [Field Communications](/handbook/sales/field-communications/)
    *  [Field Flash Newsletter](/handbook/sales/field-communications/field-flash-newsletter/)
-   *  [Monthly GitLab Release Email to Sales](https://about.gitlab.com/handbook/sales/field-communications/monthly-release-sales-email)
+   *  [Monthly GitLab Release Email to Sales](/handbook/sales/field-communications/monthly-release-sales-email)
 *  Sales Events
     *  [Sales Kick Off](/handbook/sales/training/SKO)
     *  [Sales QBRs](/handbook/sales/#quarterly-business-reviews)
@@ -175,7 +175,7 @@ The below is a work in progress as we define success measures across each stage 
       - **Initiative labels**
           - `continuing education` - label for issues related to continuing education
           - `career dev` - label for issues related to career development
-          - `field certification` - label for issues related to https://about.gitlab.com/handbook/sales/training/field-certification/
+          - `field certification` - label for issues related to /handbook/sales/training/field-certification/
           - `field communications` - label for items that include work by/with the Field Communications team within Field Enablement
           - `field events` - label for Field Enablement-supported events (e.g. QBRs, SKO, President's Club, etc.)
           - `force management` - label for issues related to Force Management engagement

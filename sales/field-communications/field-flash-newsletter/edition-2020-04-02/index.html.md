@@ -43,7 +43,7 @@ COVID-19 has shaken up the way that many companies work, and we are in a unique 
 
 ICYMI, check out McB's message to the team for his thoughts on COVID-19, the economy, and some actions we are taking as we continue to grow and invest during a challenging time. [Watch Now -->](https://www.youtube.com/watch?v=nYUaAAPY1O8&feature=youtu.be)
 
-We have passed our SOC2 Type 1 audit and now have a report available to share with customers and any prospects covered under NDA. This may satisfy the need for some customers/prospects regarding information security questionnaires. [See Handbook for Details -->](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-compliance/soc2.html#requesting-a-copy-of-the-gitlab-soc2-type-1-report)
+We have passed our SOC2 Type 1 audit and now have a report available to share with customers and any prospects covered under NDA. This may satisfy the need for some customers/prospects regarding information security questionnaires. [See Handbook for Details -->](/handbook/engineering/security/security-assurance/security-compliance/soc2.html#requesting-a-copy-of-the-gitlab-soc2-type-1-report)
 
 New case study alert for a company that we all know and love – Chorus. Read for some great referenceable tidbits, like how we've helped them reduce some production cycles from 6 weeks to 1 week. [Read More Here -->](https://about.gitlab.com/customers/chorus/)
 
@@ -54,7 +54,7 @@ There's a notable update to the [GitHub comparison page](https://about.gitlab.co
 - [LaunchDarkly](https://about.gitlab.com/devops-tools/launchdarkly-vs-gitlab.html): A feature delivery and feature management service offering.
 
 ### Did You Know? 🔢
-New sales processes are in place that will allow us to standardize messaging around COVID-19 and the impact it's having on customers/prospects. [Read the new handbook section for full details on process changes](https://about.gitlab.com/handbook/sales/#corona-virus-impact-to-business-tracking) including:
+New sales processes are in place that will allow us to standardize messaging around COVID-19 and the impact it's having on customers/prospects. [Read the new handbook section for full details on process changes](/handbook/sales/#corona-virus-impact-to-business-tracking) including:
 - Add the string #covid in the SFDC Opportunity field [CP] Close Plan
 - Assess and flag each SFDC Deal using the "COVID-19 Risk Scale" field
 
@@ -93,9 +93,9 @@ Note that all in-person regional events are still tentative due to risks surroun
 - [Gitlab Connect Toulouse, France](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/869), May 19
 
 ### Enablement Corner 🧠
-Session recordings from Sales Kickoff are here! Get access to slides and video recordings from popular sessions like "Product Strategy & Vision," "Sales & Marketing Strategy & Vision," and "Leveling Up with Partners at GitLab." [See all available recordings in the Handbook -->](https://about.gitlab.com/handbook/sales/training/SKO/#sales-kick-off-2020)
+Session recordings from Sales Kickoff are here! Get access to slides and video recordings from popular sessions like "Product Strategy & Vision," "Sales & Marketing Strategy & Vision," and "Leveling Up with Partners at GitLab." [See all available recordings in the Handbook -->](/handbook/sales/training/SKO/#sales-kick-off-2020)
 
-The new Sales Standard Operating Procedures (SOP) page outlines in detail the process for phase one of the sales cycle: Engaging & Educating the Customer. SOPs for other phases coming soon! [Check it out -->](https://about.gitlab.com/handbook/sales/sales-operating-procedures/engage-and-educate-the-customer/)
+The new Sales Standard Operating Procedures (SOP) page outlines in detail the process for phase one of the sales cycle: Engaging & Educating the Customer. SOPs for other phases coming soon! [Check it out -->](/handbook/sales/sales-operating-procedures/engage-and-educate-the-customer/)
 
 ### Team Member Spotlight 🔦
 Chloe Whitestone was nominated for her unwavering dedication to being handbook first and demonstrating the CREDIT values everyday. Learn more about Chloe, including what she says you *should* know about her...
@@ -110,6 +110,6 @@ To nominate a peer, fill out the [nomination form](https://forms.gle/cBjiRzQ7y87
 
 *Questions or feedback? We want to hear it! Reach out to the field-enablement-team Slack channel or capture it in the [Newsletter Feedback Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/160).*
 
-*See the [Field Flash Newsletter handbook page](https://about.gitlab.com/handbook/sales/field-communications/field-flash-newsletter/) for more information about this newsletter.*
+*See the [Field Flash Newsletter handbook page](/handbook/sales/field-communications/field-flash-newsletter/) for more information about this newsletter.*
 
 *Archive: Edition 1, Description: March 2020 Field Flash*

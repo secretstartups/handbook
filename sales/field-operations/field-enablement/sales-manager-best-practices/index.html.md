@@ -12,7 +12,7 @@ title: "Sales Manager Best Practices"
 # Sales Manager Best Practices
 
 ### Onboarding New Team Members 
-* Successful onboarding plays a critical role in getting your team member on the path to success! Before a new team member joins, please review the onboarding process so you know what to expect and can help set expectations with your new hire! [The onboarding page](https://about.gitlab.com/handbook/people-group/general-onboarding/) has a lot of great resources including links to the [Sales specific onboarding issue](https://about.gitlab.com/handbook/people-group/general-onboarding/#role-specific-templates).
+* Successful onboarding plays a critical role in getting your team member on the path to success! Before a new team member joins, please review the onboarding process so you know what to expect and can help set expectations with your new hire! [The onboarding page](/handbook/people-group/general-onboarding/) has a lot of great resources including links to the [Sales specific onboarding issue](/handbook/people-group/general-onboarding/#role-specific-templates).
 * For more information on the onboarding process, please feel free to check out the Onboarding Education Session and AMA we had with Sales leaders on June 3, 2020:
 
 <!-- blank line -->
@@ -60,7 +60,7 @@ title: "Sales Manager Best Practices"
 
 ### Career Development
 
-*   Leverage GitLab's [Career Development](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/) resources
+*   Leverage GitLab's [Career Development](/handbook/people-group/learning-and-development/career-development/) resources
 
 ### Performance Management
 
@@ -68,6 +68,6 @@ title: "Sales Manager Best Practices"
 *   [Performance Management Overview for Sales Managers](https://youtu.be/mIPFhq0Th1w) (May 2020, 18 minutes, private)
 
 ### Leadership Toolkit 
-* For additional leadership resources, check out the [Leadership toolkit](https://about.gitlab.com/handbook/people-group/leadership-toolkit/)
+* For additional leadership resources, check out the [Leadership toolkit](/handbook/people-group/leadership-toolkit/)
 
 

@@ -175,7 +175,7 @@ Sales enablement sessions are scheduled on the [Sales Enablement calendar](https
 ### Speaker
 
 - Create your content as a handbook page (don't use a slide deck)
-  - Create a new directory under `https://about.gitlab.com/handbook/sales/training/sales-enablement-sessions/enablement/` with the title of your talk
+  - Create a new directory under `/handbook/sales/training/sales-enablement-sessions/enablement/` with the title of your talk
     - For example: `/handbook/sales/training/sales-enablement-sessions/enablement/cloud-native-ecosystem/`.
   - Add an `index.html.md` file to that directory.
     - Use this template:

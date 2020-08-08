@@ -29,17 +29,17 @@ The Deal Desk team's mission is to streamline the opportunity management process
     *   [Deal Desk Pending Opportunity Approvals Report](https://gitlab.my.salesforce.com/00O4M000004e0Dp)
 
 *   **Frequently Used Handbook Pages**
-    *   [Sales Order Processing](https://about.gitlab.com/handbook/business-ops/order-processing/)
-    *   [Deal Desk Opportunity Approval Process](https://about.gitlab.com/handbook/business-ops/order-processing/#submitting-an-opportunity-for-deal-desk-approval)
+    *   [Sales Order Processing](/handbook/business-ops/order-processing/)
+    *   [Deal Desk Opportunity Approval Process](/handbook/business-ops/order-processing/#submitting-an-opportunity-for-deal-desk-approval)
     *   [Useful Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information)
-    *   [Account Ownership Rules of Engagement](https://about.gitlab.com/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
-    *   [IACV Calculation Guide](https://about.gitlab.com/handbook/sales/#incremental-annual-contract-value-iacv)
-    *   [Vendor Setup Form Process](https://about.gitlab.com/handbook/business-ops/order-processing/#how-to-process-customer-requested-vendor-setup-forms)
-    *   [Security Questionnaire Process](https://about.gitlab.com/handbook/engineering/security/#process)
-    *   [Troubleshooting: True Ups, Licenses + EULAS](https://about.gitlab.com/handbook/business-ops/business_systems/portal/troubleshooting/)
+    *   [Account Ownership Rules of Engagement](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
+    *   [IACV Calculation Guide](/handbook/sales/#incremental-annual-contract-value-iacv)
+    *   [Vendor Setup Form Process](/handbook/business-ops/order-processing/#how-to-process-customer-requested-vendor-setup-forms)
+    *   [Security Questionnaire Process](/handbook/engineering/security/#process)
+    *   [Troubleshooting: True Ups, Licenses + EULAS](/handbook/business-ops/business_systems/portal/troubleshooting/)
     *   [Licensing FAQ](https://about.gitlab.com/pricing/licensing-faq/)
-    *   [Legal Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/)
-    *   [Trade Compliance (Export/Import)](https://about.gitlab.com/handbook/business-ops/order-processing/#trade-compliance-export--import-and-visual-compliance-tool-in-salesforce)
+    *   [Legal Authorization Matrix](/handbook/finance/authorization-matrix/)
+    *   [Trade Compliance (Export/Import)](/handbook/business-ops/order-processing/#trade-compliance-export--import-and-visual-compliance-tool-in-salesforce)
 
 *   **Other Resources**
     *   [Sales Territory Spreadsheet](https://docs.google.com/spreadsheets/d/1PYU8oQJQEPpi8K-SHuqSgPeSpLcWeSQd9FuwKtgD048/edit?ts=5d6ea274#gid=0)

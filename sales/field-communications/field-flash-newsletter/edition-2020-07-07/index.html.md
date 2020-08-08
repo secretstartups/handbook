@@ -48,7 +48,7 @@ The Field team is piloting Focus Fridays through the Summer. Consider adopting F
 ### Did You Know? 🔢
 Effective immediately, we will follow **a revised SPIFF payout for GitLab-delivered and partner-delivered services**. Highlights include larger deal size support, more opportunities for SPIFF, and added availability for TAMs for growth service opportunities over $25k. Plus, we have lowered the minimum engagement amounts for our Partner Services incentive to drive greater partner interest in delivering services around GitLab deployments.
 
-For the full details, please see the [updated compensation deck](https://docs.google.com/presentation/d/1lPZAmdHPPJwhJ4felwsgDXopIt7Usn3UnK5siOpQMlY/edit#slide=id.g88c7cba71f_10_1) and [updated Channel Partner Handbook page](https://about.gitlab.com/handbook/resellers/#definitions-and-qualifications). 
+For the full details, please see the [updated compensation deck](https://docs.google.com/presentation/d/1lPZAmdHPPJwhJ4felwsgDXopIt7Usn3UnK5siOpQMlY/edit#slide=id.g88c7cba71f_10_1) and [updated Channel Partner Handbook page](/handbook/resellers/#definitions-and-qualifications). 
 
 ----
 The PS team has put together a great **resource to help you position the value proposition of Professional Services to customers and prospects**. In it, you'll find:

@@ -44,7 +44,7 @@ MEDDPPICC has been expanded to include “Partner!” Learn more about the new q
 We recently signed a global agreement with [Contino](https://www.contino.io/) (a Cognizant company) to partner on consulting engagements. Check out this video from the Channel team for more information on how you can engage this partner to assist in your deals. [Watch Now -->](https://www.youtube.com/watch?v=6Q-6wzxF7HM&feature=youtu.be)
 
 ### Did You Know? 🔢
-**FY21-Q3 QBRs are taking place from August 3-20**. Find links to schedules, deck templates, and notes docs in [this issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/297). For a full overview of the QBR planning and execution process, QBR request tracking, best-practices for organizers and attendees, and where to find past QBR content, [see here](https://about.gitlab.com/handbook/sales/qbrs/).
+**FY21-Q3 QBRs are taking place from August 3-20**. Find links to schedules, deck templates, and notes docs in [this issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/297). For a full overview of the QBR planning and execution process, QBR request tracking, best-practices for organizers and attendees, and where to find past QBR content, [see here](/handbook/sales/qbrs/).
 
 For more information, join the #qbr-ent-q3fy21, #qbr-comm-q3fy21, and #qbr-channel-q3fy21 Slack channels. 
 

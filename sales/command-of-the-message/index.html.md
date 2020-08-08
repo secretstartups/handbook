@@ -155,7 +155,7 @@ The Mantra is a framework you can use to clearly demonstrate that you have a com
 <details>
 <summary markdown="span">Command Plan</summary>
 
-*  [Opportunity Management Requirements](https://about.gitlab.com/handbook/sales/#opportunity-management-requirements)
+*  [Opportunity Management Requirements](/handbook/sales/#opportunity-management-requirements)
 *  Command Plan templates
    - [Blank template](https://drive.google.com/open?id=1uTHRRUQx4IP_dXUnsrfG2x9Ti-XpMneX3IDu2v0TZtY)
    - [Template with helper text](https://drive.google.com/open?id=1SH7yfGFda0jsHcM9QmVI9BQO54fuaMujt-aJfFg-EUA)
@@ -239,9 +239,9 @@ Below is a summary of enhancements made to the GitLab Value Framework and CoM ma
 **Version 1.1 (May 2020)**
 - Created this stand-alone CoM Handbook page
 - Exposed mantra, GitLab value drivers, and differentiators in Handbook
-- Adjusted [core content](https://about.gitlab.com/handbook/sales/command-of-the-message/#resources-core-content) sharing settings to make available for public consumption
+- Adjusted [core content](/handbook/sales/command-of-the-message/#resources-core-content) sharing settings to make available for public consumption
 - Integrated Professional Services value proposition into the GitLab Value Framework
-- Introduced [Discovery Questions for Selling GitLab Premium/Silver and Ultimate/Gold](https://about.gitlab.com/handbook/sales/qualification-questions/#questions-for-selling-gitlab-premiumsilver-and-ultimategold)
+- Introduced [Discovery Questions for Selling GitLab Premium/Silver and Ultimate/Gold](/handbook/sales/qualification-questions/#questions-for-selling-gitlab-premiumsilver-and-ultimategold)
 - Updated proof points
 
 **Version 1.2 (Aug 2020)**

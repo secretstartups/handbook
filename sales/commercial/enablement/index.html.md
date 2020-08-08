@@ -157,7 +157,7 @@ Login to [Salesforce](https://gitlab.my.salesforce.com/00T4M00002KWYXx?srPos=24&
 
 1. **A colleague with a similar skill set should be able to pick up your notes, get an understanding of what’s happened and take action quickly (within 3-5 minutes).**
 
-2. They should be compelling for the future version of you who will read them. If, when you read the next steps, you aren’t motivated to take action at the exact time and day that you prescribe, you should iterate on them. Compelling next steps are specific, concise, actionable and efficient. Please think about our [values](https://about.gitlab.com/handbook/values/#hierarchy) of transparency, collaboration, efficiency and results.
+2. They should be compelling for the future version of you who will read them. If, when you read the next steps, you aren’t motivated to take action at the exact time and day that you prescribe, you should iterate on them. Compelling next steps are specific, concise, actionable and efficient. Please think about our [values](/handbook/values/#hierarchy) of transparency, collaboration, efficiency and results.
 
 3. Next Steps and actions, once completed, will add value to the customer’s GitLab experience and journey. They are impactful.
 
