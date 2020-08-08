@@ -69,9 +69,9 @@ Each service engagement will have a Google Sheet that shows the contracted reven
     1. Project kickoff: Use this [Kick-off slide template](https://docs.google.com/presentation/d/1HtVIE64N94Rcc774ujllClGmYZ5y1_ApE4-O3pazR6k/edit#slide=id.g59bfc474c5_2_145) and this [agenda/meeting minuntes template](https://docs.google.com/document/d/1WPnBQUOT2dug8rPkA-VFzXtE1AlQJGMMROQPhHOh4Bg/edit)
     1. Weekly project meeting (if applicable): Use [this template](https://docs.google.com/document/d/1WPnBQUOT2dug8rPkA-VFzXtE1AlQJGMMROQPhHOh4Bg/edit)
     1. Provide weekly Executive Status Report: Use [this template](https://docs.google.com/document/d/1tPsQbaq36zs4oKh6LXKXQPGy4Dmk7gbQfiZN4duu81o/edit)
-    1. Change request when required for scope changes: Use [this workflow](https://docs.google.com/document/d/1zed5AsEpjzwII0HaIjsmXYaRAp5qHY-BGJfVCISVGcM/edit https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#how-to-process-a-professional-services-sow-amendment-change-order)
+    1. Change request when required for scope changes: Use [this workflow](https://docs.google.com/document/d/1zed5AsEpjzwII0HaIjsmXYaRAp5qHY-BGJfVCISVGcM/edit /handbook/sales/field-operations/sales-operations/deal-desk/#how-to-process-a-professional-services-sow-amendment-change-order)
     1. Project closure meeting: Use [this agenda template](https://docs.google.com/document/d/1Cw5eLe8VKFtHG9xGqUiCua8Pbu52reMzHujcPWq3ofQ/edit)
     
-1. Sr. PS Project Manager or Technical Project Manager: Complete [this sign off workflow](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/workflows/project_execution/sign-off.html) 
+1. Sr. PS Project Manager or Technical Project Manager: Complete [this sign off workflow](/handbook/customer-success/professional-services-engineering/workflows/project_execution/sign-off.html) 
 
-1. Sr. PS Project Manager or Technical Project Manager: Complete this [financial wrap-up workflow](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/workflows/internal/financial-wrapup.html)
+1. Sr. PS Project Manager or Technical Project Manager: Complete this [financial wrap-up workflow](/handbook/customer-success/professional-services-engineering/workflows/internal/financial-wrapup.html)

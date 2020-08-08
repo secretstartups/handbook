@@ -146,7 +146,7 @@ For all new Zendesk tickets that are created, the Technical Account Manager and 
 
 ### Tracking Emails within Salesforce
 
-Anyone communicating with a customer via email should ensure their emails are being tracked within Salesforce in the account's activity history. Even with the roll-out of [Gainsight](https://about.gitlab.com/handbook/customer-success/tam/gainsight/), we still log our emails to Salesforce because the emails within Gainsight's timeline can create more noise than value. 
+Anyone communicating with a customer via email should ensure their emails are being tracked within Salesforce in the account's activity history. Even with the roll-out of [Gainsight](/handbook/customer-success/tam/gainsight/), we still log our emails to Salesforce because the emails within Gainsight's timeline can create more noise than value. 
 
 To log an email in Salesforce:
 

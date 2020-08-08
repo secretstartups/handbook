@@ -185,7 +185,7 @@ Collaborations projects are meant for continuous use with our customers to track
 
 Within the collaboration project, TAMs focus on new/closed/open issues and collaboration with the customer on these issues. It's the primary communication method for the TAM to communicate with the customer on a day-to-day basis and is a way to help the customers adopt using GitLab.
 
-For additional details, see [Account Engagement](https://about.gitlab.com/handbook/customer-success/tam/engagement/).
+For additional details, see [Account Engagement](/handbook/customer-success/tam/engagement/).
 
 ### Success Plans
 

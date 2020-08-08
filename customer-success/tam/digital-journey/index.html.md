@@ -28,7 +28,7 @@ TAMs who wish to send Digital Journey emails to their customers have 2 methods:
 1.  (optional) Enter Primary Recipient from Gainsight contacts. This will auto-complete any other tokens in the email template based on the Company record for each contact.  
 1.  Click “Apply Template” to have a draft email populated in Gmail, ready for you to send to the customer.  
 
-#### CTA with a [Playbook](https://about.gitlab.com/handbook/customer-success/tam/gainsight/#ctas)
+#### CTA with a [Playbook](/handbook/customer-success/tam/gainsight/#ctas)
 Some emails intended to be sent as a sequence have been added as Playbooks in Gainsight. These need to be sent manually by the TAM, but are setup to facilitate reminders and make this process easy, while we learn how customers want to engage. To use a playbook to send emails:
 1.  In Gainsight, create a new CTA
 1.  Type: Lifecycle, choose the Playbook (example:  Commercial Onboarding Email Series). This creates a new CTA with a checklist for each email in the sequence.

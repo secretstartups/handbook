@@ -73,7 +73,7 @@ The account team is comprised of the Strategic Account Leader/Account Executive,
 
 ## Overlap Between Solution Architects and Technical Account Managers
 
-In working with our prospects and then customers pre and post sale, there can at times be overlap between the SA and the TAM.  Please reference the page linked here for more detail on [who is the DRI when there is SA/TAM overlap](https://about.gitlab.com/handbook/customer-success/solutions-architects/#satam-engagement-overlap).
+In working with our prospects and then customers pre and post sale, there can at times be overlap between the SA and the TAM.  Please reference the page linked here for more detail on [who is the DRI when there is SA/TAM overlap](/handbook/customer-success/solutions-architects/#satam-engagement-overlap).
 
 * [us-public-sector](https://gitlab.com/gitlab-com/us-public-sector) parent project for all public sector work
 * [account-management](https://gitlab.com/gitlab-com/account-management/) parent project for account-specific work and collaboration with the rest of sales

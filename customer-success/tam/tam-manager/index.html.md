@@ -36,7 +36,7 @@ For TAM Managers, here is a short checklist to assist in the review:
 Accounts are assigned at point of sale by the TAM Manager when a new Account in their region fits the following criteria:
 
 1. **Enterprise:**  ARR: is > 50k ARR  
-1. **Mid-Market & SMB:**  ARR:  (is > $20k ARR) OR (>$10k ARR and qualified growth opportunity). Process described in the [Commercial Handbook](https://about.gitlab.com/handbook/customer-success/comm-sales/#account-executive-to-tam-existing-accounts-without-a-tam)
+1. **Mid-Market & SMB:**  ARR:  (is > $20k ARR) OR (>$10k ARR and qualified growth opportunity). Process described in the [Commercial Handbook](/handbook/customer-success/comm-sales/#account-executive-to-tam-existing-accounts-without-a-tam)
 
 When an Account meets the critera, the following will happen:
 
@@ -77,7 +77,7 @@ The TAM Manager should then work with their team to help the TAM drive up and de
 
 #### Success Plan Resources
 
-- [Success Plan Handbook](https://about.gitlab.com/handbook/customer-success/tam/success-plans/)
+- [Success Plan Handbook](/handbook/customer-success/tam/success-plans/)
 - [TAM Regional Dashboard](https://gitlab.my.salesforce.com/01Z4M000000slMT)
 - Gainsight Dashboard
 

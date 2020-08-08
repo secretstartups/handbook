@@ -43,7 +43,7 @@ GitLab offers [a variety of support options](/support/) for all customers and us
 
 ## Support Ticket Notifications
 
-When a TAM is assigned to an account in Salesforce, any time that a user from that account submits a support ticket, the TAM will receive an email to let them know, which includes a link to the Zendesk ticket and an [automatically-created](https://about.gitlab.com/handbook/support/support-ops/#salesforce---zendesk-sync) Salesforce case. The email will also include the account name, contact name and email, and the date the ticket was opened. TAMs should receive the email within 1-2 hours of the ticket being opened.
+When a TAM is assigned to an account in Salesforce, any time that a user from that account submits a support ticket, the TAM will receive an email to let them know, which includes a link to the Zendesk ticket and an [automatically-created](/handbook/support/support-ops/#salesforce---zendesk-sync) Salesforce case. The email will also include the account name, contact name and email, and the date the ticket was opened. TAMs should receive the email within 1-2 hours of the ticket being opened.
 
 In the email notifying TAMs of new tickets, the included Zendesk ticket link currently leads directly to the ticket. In the past, it has been a .json file which is difficult to read and sometimes doesn't load. If you encounter this, there are a few ways to work around this:
 
@@ -80,7 +80,7 @@ In the email notifying TAMs of new tickets, the included Zendesk ticket link cur
 ## Helpful links
 
 - [Official GitLab Support Documentation](https://about.gitlab.com/support/)
-- [Support Handbook (SLA + Tiers)](https://about.gitlab.com/handbook/support/)
+- [Support Handbook (SLA + Tiers)](/handbook/support/)
 - [GitLab.com Status and Notifications](https://status.gitlab.com/)
 - [Customer Onboarding](/handbook/customer-success/tam/onboarding)
 - [Escalation Process](/handbook/customer-success/tam/escalations)

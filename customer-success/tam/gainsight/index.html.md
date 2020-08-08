@@ -147,7 +147,7 @@ Learn more about what a success plan is, why it's useful to both TAMs and custom
 
 ## Referenceable Customers
 
-The `Referenceable Customers` field on the C360 Attributes section highlights [if a customer is a Referenceable Customer](/handbook/marketing/product-marketing/customer-reference-program/index.html#customer-reference-program-at-gitlab). If a Customer is *not* a Referenceable Customer and they would make a great one, follow the process to [Nominate a Reference Customer](https://about.gitlab.com/handbook/marketing/product-marketing/customer-reference-program/#process-for-adding-new-reference-customers).
+The `Referenceable Customers` field on the C360 Attributes section highlights [if a customer is a Referenceable Customer](/handbook/marketing/product-marketing/customer-reference-program/index.html#customer-reference-program-at-gitlab). If a Customer is *not* a Referenceable Customer and they would make a great one, follow the process to [Nominate a Reference Customer](/handbook/marketing/product-marketing/customer-reference-program/#process-for-adding-new-reference-customers).
 
 ## Enablement
 

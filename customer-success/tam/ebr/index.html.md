@@ -19,7 +19,7 @@ An Executive Business Review (EBR) is a strategic meeting with stakeholders from
 
 TAMs should hold EBRs with each of their customers **at least** once per year, but more frequently is better to ensure the customer continues to engage and see the value of GitLab; however, this can vary depending on the needs of the customer.
 
-The purpose of the EBR is to demonstrate to the [Economic Buyer](https://about.gitlab.com/handbook/sales/#capturing-meddpicc-questions-for-deeper-qualification) the value they are getting out of GitLab. It is meant to be interactive from both sides, discussing the usage of GitLab, how the customer has been using it, how it aligns with their business goals, and more. EBRs should not be treated as a sales call or an opportunity to up-sell, but rather to show that GitLab was a worthwhile investment and how we are working together as partners.
+The purpose of the EBR is to demonstrate to the [Economic Buyer](/handbook/sales/#capturing-meddpicc-questions-for-deeper-qualification) the value they are getting out of GitLab. It is meant to be interactive from both sides, discussing the usage of GitLab, how the customer has been using it, how it aligns with their business goals, and more. EBRs should not be treated as a sales call or an opportunity to up-sell, but rather to show that GitLab was a worthwhile investment and how we are working together as partners.
 
 EBRs typically consist of the following content, but this list is only a guideline and should be tailored to the needs of each customer.
 

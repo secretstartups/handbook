@@ -6,7 +6,7 @@ title: "Professional Services Instructional Design and Development"
 
 # What's New?
 
-## [GitLab Technical Certifications](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/)
+## [GitLab Technical Certifications](/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/)
 
 ### GitLab Certified Associate
 

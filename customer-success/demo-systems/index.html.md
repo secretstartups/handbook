@@ -81,7 +81,7 @@ Please see the <a href="https://gitlab.com/groups/gitlab-com/customer-success/de
 </div>
 </div>
 
-* [Legacy Demo Readiness Links](https://about.gitlab.com/handbook/customer-success/solutions-architects/#demo-readiness)
+* [Legacy Demo Readiness Links](/handbook/customer-success/solutions-architects/#demo-readiness)
 * [Demo Data Designer](https://gitlabdemo.com/designer)
 * CREDIT Enterprises (WIP Coming Soon)
     * Collabify Club

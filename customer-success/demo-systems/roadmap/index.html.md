@@ -69,7 +69,7 @@ When the demo systems team was established in October 2019, we created a prelimi
         <tr>
             <td>FY21-Q2</td>
             <td><a href="https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests/demosys-okrs/-/issues/1">demosys-okrs#1</a></td>
-            <td>Add generated sample data to Demo Data Designer with <a href="https://about.gitlab.com/handbook/marketing/product-marketing/roles-personas/">Marketing personas</a></td>
+            <td>Add generated sample data to Demo Data Designer with <a href="/handbook/marketing/product-marketing/roles-personas/">Marketing personas</a></td>
         </tr>
         <tr>
             <td>FY21-Q2</td>

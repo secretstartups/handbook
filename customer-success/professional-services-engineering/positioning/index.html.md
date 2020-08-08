@@ -12,7 +12,7 @@ title: "Positioning Professional Services"
 {:toc .hidden-md .hidden-lg}
 
 ## Where to position PS in the Customer Journey  
-Most professional service engagements happen during the onboarding, implementation, and adoption phases of the [customer journey](https://about.gitlab.com/handbook/customer-success/vision/). 
+Most professional service engagements happen during the onboarding, implementation, and adoption phases of the [customer journey](/handbook/customer-success/vision/). 
 
 ![GitLab Customer Journey](/handbook/customer-success/vision/images/customer-journey.jpeg "GitLab Customer Journey")
 
@@ -30,7 +30,7 @@ The larger the company, the higher likelihood they will be opting for gitlab sel
 
 They have a team that manages the current tooling at the highest level, and are often competing against shadow IT from setting up their own (less restrictive) instances of SDLC tools. This team has probably never managed a large migration and needs help with the rollout plan. Their engineering teams (end users of gitlab) are on the continuum of knowledge about latest git and gitlab best practices.
 
-To get to [first value](https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis) as soon as possible, you should consider:
+To get to [first value](/handbook/customer-success/vision/#time-to-value-kpis) as soon as possible, you should consider:
  - [Implementation](/services/implementation/) (infrastructure deployment and gitlab configuration)
  - [Migration](/services/migration/) (SCM Data and user migration)
  - [Education](/services/education/) (Basics, CI/CD and Admin)

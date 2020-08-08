@@ -76,7 +76,7 @@ Customers tend to have tools and systems with which they need to establish integ
 ### How will we deliver?
 {:.no_toc}
 
-1. Direct via the [GitLab Professional Services Engineering Delivery team](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#team-members-and-roles)
+1. Direct via the [GitLab Professional Services Engineering Delivery team](/handbook/customer-success/professional-services-engineering/#team-members-and-roles)
 1. Partner delivered (future)
 
 ## How to order

@@ -140,7 +140,7 @@ A seamless customer journey requires a continuous flow of relevant information b
 
 ### Account Executive to TAM (existing accounts without a TAM)
 
-* AE or SA qualifies the account [meets the threshold for TAM services](https://about.gitlab.com/handbook/customer-success/tam/tam-manager/#account-assignment) and raises the account requiring a TAM in the SAL-SA-TAM meeting. TAM managers also review their 'accounts requiring TAM' dashboard in Gainsight on a weekly basis as a fail-safe.
+* AE or SA qualifies the account [meets the threshold for TAM services](/handbook/customer-success/tam/tam-manager/#account-assignment) and raises the account requiring a TAM in the SAL-SA-TAM meeting. TAM managers also review their 'accounts requiring TAM' dashboard in Gainsight on a weekly basis as a fail-safe.
 * SA or TAM creates a GitLab project [here](https://gitlab.com/gitlab-com/account-management/commercial) if applicable
 * Add TAM name to account team in Salesforce
 * Identify any relevant Outreach sequences or templates
