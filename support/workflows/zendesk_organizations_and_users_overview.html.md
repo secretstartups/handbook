@@ -19,7 +19,7 @@ Zendesk integration (as well as the GitLab built sync script). This integration
 allows agents to see a customer's full Salesforce Profile within a live ticket
 in Zendesk. You can read more about what information we send to Salesforce and
 what fields are populated with information from Zendesk in the
-[Support Ops handbook page](https://about.gitlab.com/handbook/support/support-ops/#salesforce---zendesk-sync).
+[Support Ops handbook page](/handbook/support/support-ops/#salesforce---zendesk-sync).
 
 > Please do not manually create organizations. This can break the ZD<>SFDC
 > integration and cause users to receive incorrect SLAs. If you notice an
@@ -38,7 +38,7 @@ so support-ops can double check to ensure there is nothing blocking the sync.
 
 ## Shared Organizations
 
-You have the option of allowing all of the members in an organization to see each other's tickets. This is referred to as a shared organization. Read more about this process in the [Support Engineer Ops page](https://about.gitlab.com/handbook/support/support-ops/processes/zendesk.html#shared-organization-process) 
+You have the option of allowing all of the members in an organization to see each other's tickets. This is referred to as a shared organization. Read more about this process in the [Support Engineer Ops page](/handbook/support/support-ops/processes/zendesk.html#shared-organization-process) 
 
 ## Adding users to organizations
 

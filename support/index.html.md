@@ -336,7 +336,7 @@ You can read about how we got this started
 [in this issue](https://gitlab.com/gitlab-com/support/support-team-meta/issues/1394).
 
 ### Support Stable Counterparts
-As a result of our direct interactions with customers, the Support Team occupies a unique position in GitLab that gives us the opportunity to connect product managers with customer feedback. To take advantage of this opportunity, we've adopted a model that is known within GitLab as "Stable Counterparts." In brief, a "stable counterpart" is an assigned, permanent contact for a GitLab Team Member within another function in the company. See the [Stable counterparts](https://about.gitlab.com/handbook/leadership/#stable-counterparts) item on the Leadership page, and [An ode to stable counterparts](https://about.gitlab.com/blog/2018/10/16/an-ode-to-stable-counterparts/) for more information.
+As a result of our direct interactions with customers, the Support Team occupies a unique position in GitLab that gives us the opportunity to connect product managers with customer feedback. To take advantage of this opportunity, we've adopted a model that is known within GitLab as "Stable Counterparts." In brief, a "stable counterpart" is an assigned, permanent contact for a GitLab Team Member within another function in the company. See the [Stable counterparts](/handbook/leadership/#stable-counterparts) item on the Leadership page, and [An ode to stable counterparts](https://about.gitlab.com/blog/2018/10/16/an-ode-to-stable-counterparts/) for more information.
 
 How do we align Support Team people to the product?
 - Development of the product is broken down into [sections, stages and groups; that page](/handbook/product/product-categories/#devops-stages) is the single source of truth about who is performing this role, and what vacancies there are.
@@ -464,7 +464,7 @@ In addition to the tips in [Communicating Your Time Off](/handbook/paid-time-off
 - reschedule any 1:1 meetings with your manager
 - add an agenda item during the team meeting before your time off
 - add an agenda item after you get back to let us know what you've been up to!
-- either specify your manager as the person who covers for you, or leave a note to ping `#support_managers` per [our escalation procedure](https://about.gitlab.com/handbook/support/internal-support/#i-want-to-draw-attention-to-an-existing-support-ticket)
+- either specify your manager as the person who covers for you, or leave a note to ping `#support_managers` per [our escalation procedure](/handbook/support/internal-support/#i-want-to-draw-attention-to-an-existing-support-ticket)
 
 If you do not have access to the [**Support - Time Off**](https://calendar.google.com/calendar/embed?src=gitlab.com_as6a088eo3mrvbo57n5kddmgdg%40group.calendar.google.com) team calendar, please raise it in the `#support_team_chat` channel on Slack and someone will share it with you.
 

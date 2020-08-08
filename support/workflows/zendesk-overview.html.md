@@ -16,8 +16,8 @@ category: Zendesk
 
 - Public Apps
 
-    - [Unbabel for Zendesk](https://about.gitlab.com/handbook/support/workflows/unbabel_translation_in_zendesk.html)
-    - [Salesforce](https://about.gitlab.com/handbook/support/support-ops/#salesforce---zendesk-sync) - Two-way integration between Zendesk Support ticket data and Salesforce CRM customer data.
+    - [Unbabel for Zendesk](/handbook/support/workflows/unbabel_translation_in_zendesk.html)
+    - [Salesforce](/handbook/support/support-ops/#salesforce---zendesk-sync) - Two-way integration between Zendesk Support ticket data and Salesforce CRM customer data.
     - Advanced Search - Provides a simple visual interface for constructing complex search queries against tickets.
     - Show Related Tickets - Analyzes the ticket subject, searches against all other tickets, and returns any tickets with matching terms.
     - Slack App - Designed to bring all of our customer support interactions into a single place
@@ -54,7 +54,7 @@ All apps can be found on the left-hand nav bar when you view a ticket. The apps 
 
 ## Macros
 
-We use Zendesk Macros as a tool to help support common workflows and allow us to support our customers faster. It's important to find a balance of when and where to use a macro. Read more about how we use macros at GitLab in our [Macros](https://about.gitlab.com/handbook/support/workflows/macros.html) page
+We use Zendesk Macros as a tool to help support common workflows and allow us to support our customers faster. It's important to find a balance of when and where to use a macro. Read more about how we use macros at GitLab in our [Macros](/handbook/support/workflows/macros.html) page
 
 ## Reporting
 
@@ -65,17 +65,17 @@ We currently have 3 reporting tools available:
 - Insights/GoodData - Zendesk Legavy reporting tool. Insights is an analytics offering with data and best-practice dashboards. It will be discontinued in the future in favour of Explore, no specific date has been announced.
 
 ## Support Operations
-- [Customer Satisfaction Survey(CSAT)](https://about.gitlab.com/handbook/support/support-ops/#customer-satisfaction-survey-csat)
+- [Customer Satisfaction Survey(CSAT)](/handbook/support/support-ops/#customer-satisfaction-survey-csat)
 - [Shared Organizations in Zendesk](/handbook/support/support-ops/responsibilities.html#shared-organizations-in-zendesk)
 - [Salesforce - Zendesk sync](/handbook/support/support-ops/responsibilities.html#salesforce---zendesk-sync)
 - [PagerDuty](/handbook/support/support-ops/responsibilities.html#pagerduty)
-- [Slack Notifications](https://about.gitlab.com/handbook/support/support-ops/responsibilities.html#slack-notifications)
+- [Slack Notifications](/handbook/support/support-ops/responsibilities.html#slack-notifications)
 
 ## Ticket Fields
 
 Ticket fields are used to gather more information about the support issue. They can be either: Editable by agents only, editable by end-users and agents, and required by end-users.
 
-Most of our ticket fields are filled out by the customer before submitting an issue, however when we receive tickets through email or when the ticket fields are not required, we need to [fill out fields manually](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#filling-out-fields-on-tickets) before solving them.
+Most of our ticket fields are filled out by the customer before submitting an issue, however when we receive tickets through email or when the ticket fields are not required, we need to [fill out fields manually](/handbook/support/workflows/working-on-tickets.html#filling-out-fields-on-tickets) before solving them.
 
 The system ticket fields are:
 

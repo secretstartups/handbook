@@ -11,12 +11,12 @@ category: Handling tickets
 {:toc .hidden-md .hidden-lg}
 
 ## How to respond to Support Satisfaction feedback
-To understand the factors contributing to [Support Satisfaction](https://about.gitlab.com/handbook/support/performance-indicators/#support-satisfaction-ssat), Support Managers review feedback received for support tickets.
+To understand the factors contributing to [Support Satisfaction](/handbook/support/performance-indicators/#support-satisfaction-ssat), Support Managers review feedback received for support tickets.
 
 The [Support Week in Review document](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/edit) identifies the current **SSAT Reviewing Manager**, with a link to the rotation in [PagerDuty](https://gitlab.pagerduty.com/schedules#P9UIIDY). During the rotation, the reviewing manager reviews all feedback Issues and responds as needed.
 
 ### Required tools
-1. Feedback Issues [are created and assigned](https://about.gitlab.com/handbook/support/support-ops/responsibilities.html#support-satisfaction-survey-ssat) to the SSAT Reviewing Manager automatically. The Manager receives email notification from GitLab and a To-Do item.
+1. Feedback Issues [are created and assigned](/handbook/support/support-ops/responsibilities.html#support-satisfaction-survey-ssat) to the SSAT Reviewing Manager automatically. The Manager receives email notification from GitLab and a To-Do item.
 1. All Feedback Issues are shown in the [Feedback Tracker](https://gitlab.com/gitlab-com/support/feedback/) (internal only).
 
 ### How to handle "Good" Reviews

@@ -23,7 +23,7 @@ Team members should make use of existing resources before making use of this lis
 
 If no response is forthcoming or you need to find someone to assist, you can consider pinging team members listed below.
 
-When pinging a team member, please consider the [Support Engineer Areas of Focus](https://about.gitlab.com/handbook/support/support-engineer-responsibilities.html#support-engineer-areas-of-focus) as some team members may or may not have access to what is being inquired about.
+When pinging a team member, please consider the [Support Engineer Areas of Focus](/handbook/support/support-engineer-responsibilities.html#support-engineer-areas-of-focus) as some team members may or may not have access to what is being inquired about.
 
 ### General Technologies and Topics
 

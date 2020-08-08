@@ -129,7 +129,7 @@ In the access request, enter the following in the **Person Details** section.
 - Ticket: <TICKET LINK>
 - Import request: <INFRA ISSUE LINK>
 
-**Note:** This is part of the [project import process](https://about.gitlab.com/handbook/support/workflows/importing_projects.html) for customers.
+**Note:** This is part of the [project import process](/handbook/support/workflows/importing_projects.html) for customers.
 ```
 
 Then, enter the following for the **Account Creation** section.
@@ -201,7 +201,7 @@ If the import is scheduled for a future date and time:
 If the import is requested as soon as possible:
 
 1. [Open an issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/new?issuable_template=import) in the infrastructure tracker using the `Import` template with all required information.
-1. Use today's date and "at earliest convenience" for the import time. Ping the [EOC](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#engineer-on-call-eoc-responsibilities) on-call in [#production](https://gitlab.slack.com/archives/C101F3796) with the request.
+1. Use today's date and "at earliest convenience" for the import time. Ping the [EOC](/handbook/engineering/infrastructure/incident-management/#engineer-on-call-eoc-responsibilities) on-call in [#production](https://gitlab.slack.com/archives/C101F3796) with the request.
    - Example: `"Hi @sre-oncall, got an import request. Could you kick this off when you have a few minutes? ISSUE LINK"`
 1. Add the infrastructure issue link as an internal note to the Zendesk ticket.
 

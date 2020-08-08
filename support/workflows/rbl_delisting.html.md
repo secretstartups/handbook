@@ -16,7 +16,7 @@ In some rare cases, you may need to reach out to Mailgun support to remove our I
 
 ### Check for Supression in Mailgun
 
-If a customer is reporting that they are not receiving a confirmation email, you'll want to go through the [confirmation email](https://about.gitlab.com/handbook/support/workflows/confirmation_emails.html) workflow first. When in the Mailgun panel, [check for a supression](https://about.gitlab.com/handbook/support/workflows/confirmation_emails.html#check-mailgun).
+If a customer is reporting that they are not receiving a confirmation email, you'll want to go through the [confirmation email](/handbook/support/workflows/confirmation_emails.html) workflow first. When in the Mailgun panel, [check for a supression](/handbook/support/workflows/confirmation_emails.html#check-mailgun).
 
 ### Verify the RBL listing
 

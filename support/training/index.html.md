@@ -74,7 +74,7 @@ Note: The data is by month - for instance, in my 4th month as a Dotcom support e
 | Module | Duration | Description |
 | ------ | ------ | ------ |
 | [GitLab.com Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/GitLab.com%20Basics.md) | 2 Weeks | Understand the basics to answer GitLab.com (SaaS) product related tickets |
-| [GitLab.com CMOC](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/GitLab.com%20CMOC.md) | 1 Day | Understand the responsibilities of being the [Communications Manager On Call (CMOC)](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) for an active GitLab.com incident |
+| [GitLab.com CMOC](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/GitLab.com%20CMOC.md) | 1 Day | Understand the responsibilities of being the [Communications Manager On Call (CMOC)](/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) for an active GitLab.com incident |
 
 ### Self Managed Support Learning Pathway
 

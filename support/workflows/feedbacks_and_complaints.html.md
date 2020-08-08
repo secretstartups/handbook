@@ -50,4 +50,4 @@ When the feedback is specific to a feature or service, search for an existing is
 
 If a customer rates a ticket, an email will be sent to the support engineer and the Zendesk manager. 
 
-The on-call SSAT Manager will follow [this workflow](https://about.gitlab.com/handbook/support/workflows/how-to-respond-to-feedback.html) to process the responses.
+The on-call SSAT Manager will follow [this workflow](/handbook/support/workflows/how-to-respond-to-feedback.html) to process the responses.

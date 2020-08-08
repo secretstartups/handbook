@@ -108,7 +108,7 @@ See [Support Hiring](hiring.html)
 
 ### Support Engineer Promotion Process for Support Managers - Quick Guide
 
-The companywide People Group process should be followed [For Managers: Requesting a Promotion or Compensation Change](https://about.gitlab.com/handbook/people-group/promotions-transfers/#for-managers-requesting-a-promotion-or-compensation-change). The steps below are an addendum for notification and review for Support Engineering managers taking into account the Customer Support Department's organisational structure and is not meant as a replacement for any steps in the companywide people group process.
+The companywide People Group process should be followed [For Managers: Requesting a Promotion or Compensation Change](/handbook/people-group/promotions-transfers/#for-managers-requesting-a-promotion-or-compensation-change). The steps below are an addendum for notification and review for Support Engineering managers taking into account the Customer Support Department's organisational structure and is not meant as a replacement for any steps in the companywide people group process.
 
 #### Pre-submission
 * Complete Promotion Document with Engineer.
@@ -121,7 +121,7 @@ The companywide People Group process should be followed [For Managers: Requestin
 * Get the approval to proceed from the Director of Support.
 
 #### Submission
-* [Submit a Promotion request in BambooHR](https://about.gitlab.com/handbook/people-group/promotions-transfers/#submit-a-promotion-request-in-bamboohr)
+* [Submit a Promotion request in BambooHR](/handbook/people-group/promotions-transfers/#submit-a-promotion-request-in-bamboohr)
 
 #### Announcement
 

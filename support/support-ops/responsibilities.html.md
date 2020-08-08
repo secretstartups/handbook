@@ -50,7 +50,7 @@ Starting July 9th, 2019, in order to learn about the reasons behind a Bad satisf
 - The answer wasn't helpful (Support Managers)
 - Some other reason
 
-All negative and positive feedback with comment is exported to an internal repository. Once the feedback has been submitted, an Issue is created and the Support Engineering Managers are tagged when a negative rating has been submitted. [It is the responsibility of the Support Engineering Managers](https://about.gitlab.com/handbook/support/support-ops/#ssat-reviewing-manager) to investigate the feedback and ensure appropriate actions are taken to either resolve the root cause of the negative experience or reduce the likelihood of it recurring.
+All negative and positive feedback with comment is exported to an internal repository. Once the feedback has been submitted, an Issue is created and the Support Engineering Managers are tagged when a negative rating has been submitted. [It is the responsibility of the Support Engineering Managers](/handbook/support/support-ops/#ssat-reviewing-manager) to investigate the feedback and ensure appropriate actions are taken to either resolve the root cause of the negative experience or reduce the likelihood of it recurring.
 
 ## Shared Organizations in Zendesk
 

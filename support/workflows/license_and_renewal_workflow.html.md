@@ -84,4 +84,4 @@ Outside of this, the ticket is usually able to wait until one of our agent's is
 able to work through the ticket.
 
 To escalate a L&R ticket, you would want to follow Support's existing
-[escalation policy](https://about.gitlab.com/handbook/support/internal-support/#i-want-to-draw-attention-to-an-existing-support-ticket).
+[escalation policy](/handbook/support/internal-support/#i-want-to-draw-attention-to-an-existing-support-ticket).

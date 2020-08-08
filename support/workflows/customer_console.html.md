@@ -29,7 +29,7 @@ This will open the console and automatically load the functions available to use
 
 Most functions rely on the namespace (i.e. GitLab.com Group name or username), always make sure to have it handy before starting any work from the console.
 
-Consider creating a [Shell alias](https://about.gitlab.com/handbook/tools-and-tips/#shell-aliases) such as the below:
+Consider creating a [Shell alias](/handbook/tools-and-tips/#shell-aliases) such as the below:
 
 ```
 alias gcp-console="ssh -t <YOUR_USERNAME>@customers.gitlab.com 'support_console'"
