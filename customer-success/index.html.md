@@ -151,7 +151,7 @@ Customer Success team members maintain a [FAQ](/handbook/customer-success/faq) t
 * [Sales Demo](/handbook/marketing/product-marketing/demo/)
 * [Sales Development Group Handbook](/handbook/marketing/marketing-sales-development/sdr/)
 * [With Whom to Talk to Ask Questions or Give Feedback on a GitLab feature](/handbook/product/product-categories/#devops-stages)
-* [CEO Preferences when speaking with prospects and customers](/handbook/people-group/ceo-preferences/#sales-meetings)
+* [CEO Preferences when speaking with prospects and customers](/handbook/ceo/#sales-meetings)
 
 ### Customer Success & Market Segmentation
 For definitions of the account size, refer to [market segmentation](/handbook/business-ops/resources/#segmentation).
