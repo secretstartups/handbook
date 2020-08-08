@@ -157,7 +157,7 @@ We review the below topics no less frequently than the following schedule:
 | Update the agenda slide of the deck by|
 | ------ | 
 |a) Referring to the [master calendar](https://docs.google.com/spreadsheets/d/1fBlawjvZRwVYUa6YLTlzdrTW6EpyfO2_03pt2RAU5_o/edit#gid=0) -> Audit Committee calendar tab |
-| b) [Handbook ](https://about.gitlab.com/handbook/board-meetings/#audit-committee-agenda-planner)for Audit Committee meeting agenda items| 
+| b) [Handbook ](/handbook/board-meetings/#audit-committee-agenda-planner)for Audit Committee meeting agenda items| 
 | c) Audit Committee meeting [notes](https://docs.google.com/document/d/1D6wpUqqx9y_AcMyJr2XmdGsaauvplkLFmgbjUh9ESX0/edit)|
 5. Set up a meeting with Principal Accounting Officer to review and update all the agenda items.
 1. Once the agenda is finalized, create slides for each agenda item and assign to respective DRI’s with a due date for completion; at least  10 days before the meeting.
