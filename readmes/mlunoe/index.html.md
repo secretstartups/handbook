@@ -31,7 +31,7 @@ Hi! My name is Michael and I am from Copenhagen, Denmark, where I currently resi
   <figcaption>This photo of me is from a Swedish midsummer folk music celebration, combining multiple things I love; spending time with people, camping, music, dancing, Sweden in the summertime, and getting in touch with nature 🌿</figcaption>
 </figure>
 
-The [iteration](https://about.gitlab.com/handbook/values/#iteration) value really resonates with me. I've found the value in chopping tasks up into smaller bit-size, and accomplishable, pieces, which helps gain the overview of what needs to get done, how far one is from reaching the goal, but also helps re-define the goal as one learns more about the task. Finally, it is the implementation of ”appreciating the journey”, and not only be concerned with the end goal 😊
+The [iteration](/handbook/values/#iteration) value really resonates with me. I've found the value in chopping tasks up into smaller bit-size, and accomplishable, pieces, which helps gain the overview of what needs to get done, how far one is from reaching the goal, but also helps re-define the goal as one learns more about the task. Finally, it is the implementation of ”appreciating the journey”, and not only be concerned with the end goal 😊
 
 ## How you can help me + my working style
 

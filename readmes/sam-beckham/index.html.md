@@ -43,7 +43,7 @@ But have recently closed it down due to time constraints and a rather pesky glob
 ## My working style
 
 Using [todoist](https://todoist.com) to keep track of everything, I use the [Getting Things Done (GTD)](https://gettingthingsdone.com/) method of working.
-Where possible, I try to split tasks into smaller chunks and always look for the [boring solution](https://about.gitlab.com/handbook/values/#boring-solutions).
+Where possible, I try to split tasks into smaller chunks and always look for the [boring solution](/handbook/values/#boring-solutions).
 
 Jumping in at the deep-end is the best way for me to learn.
 I may make mistakes at the beginning, but I'm not afraid to admit to them and learn from them.

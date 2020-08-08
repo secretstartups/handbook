@@ -6,7 +6,7 @@ job: "Manager, Support Engineering (APAC)"
 
 ## Jane G's README
 
-*In an effort to get this done, I'm practicing our value of 👣 [iteration](https://about.gitlab.com/handbook/values/#iteration). This is a first take and I welcome all feedback! You are very welcome to contribute to this page by opening a merge request.*
+*In an effort to get this done, I'm practicing our value of 👣 [iteration](/handbook/values/#iteration). This is a first take and I welcome all feedback! You are very welcome to contribute to this page by opening a merge request.*
 
 **Jane Gianoutsos - Manager, Support Engineering (APAC)** This page is intended to help others understand what it might be like to work with me, especially people who haven’t worked with me before.
 
@@ -38,7 +38,7 @@ I don't like being expected to read between the lines, and I don't expect you to
 
 - honesty - I'll take you at your word
 - a desire to contribute
-- [positive intent](https://about.gitlab.com/handbook/values/#assume-positive-intent)
+- [positive intent](/handbook/values/#assume-positive-intent)
 - you've got more going on than I know about or than you perhaps realise yourself
 
 You can assume the same about me in all instances. 
