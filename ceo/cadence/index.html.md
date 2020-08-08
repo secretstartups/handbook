@@ -122,7 +122,7 @@ gantt
 
 ## Month
 
-- [Key Meetings](/handbook/finance/key-meetings/#key-monthly-review)
+- [Key Meetings](/handbook/finance/key-meetings/)
 - [Release](/releases/)
 - [Retrospective](/handbook/communication/#kickoffs)
 - [Most KPIs](/handbook/business-ops/data-team/metrics/)
