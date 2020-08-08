@@ -57,15 +57,15 @@ Identity: **65% Assertive**
 
 **Strengths**
 
-- I'm quick, independent, and firm when making decisions: ⏱️ [Efficiency](https://about.gitlab.com/handbook/values/#efficiency)
-- I take a goal-oriented approach to assigning work: 🌐 [Diversity, Inclusion & Belonging](https://about.gitlab.com/handbook/values/#diversity-inclusion)
-- I'm comfortable with responsibility and ownership over results: 📈 [Results](https://about.gitlab.com/handbook/values/#results)
+- I'm quick, independent, and firm when making decisions: ⏱️ [Efficiency](/handbook/values/#efficiency)
+- I take a goal-oriented approach to assigning work: 🌐 [Diversity, Inclusion & Belonging](/handbook/values/#diversity-inclusion)
+- I'm comfortable with responsibility and ownership over results: 📈 [Results](/handbook/values/#results)
 
 **Blind spots (I'm working on these, please call me out if you're affected by any!)**
 
-- I can be impatient when providing detailed instruction: 🤝 [Collaboration](https://about.gitlab.com/handbook/values/#collaboration)
-- I can take too much responsibility for results that aren't in my control: 📈 [Results](https://about.gitlab.com/handbook/values/#results)
-- I can provide insufficient structure for people who need definition: 🤝 [Collaboration](https://about.gitlab.com/handbook/values/#collaboration)
+- I can be impatient when providing detailed instruction: 🤝 [Collaboration](/handbook/values/#collaboration)
+- I can take too much responsibility for results that aren't in my control: 📈 [Results](/handbook/values/#results)
+- I can provide insufficient structure for people who need definition: 🤝 [Collaboration](/handbook/values/#collaboration)
 
 ### 10 Books On My Bookshelf
 
@@ -84,23 +84,23 @@ Identity: **65% Assertive**
 
 ### Overview
 
-- I'm **data informed** and **performance driven** 📈 [Results](https://about.gitlab.com/handbook/values/#results) & 👣 [Iteration](https://about.gitlab.com/handbook/values/#iteration) & ⏱️ [Efficiency](https://about.gitlab.com/handbook/values/#efficiency)
+- I'm **data informed** and **performance driven** 📈 [Results](/handbook/values/#results) & 👣 [Iteration](/handbook/values/#iteration) & ⏱️ [Efficiency](/handbook/values/#efficiency)
 - I'm responsive and independent
 - I'm objective, yet sympathetic
-- I'm predominantly idealistic, I value cooperative effort and the concepts of trust, loyalty and team spirit 🤝 [Collaboration](https://about.gitlab.com/handbook/values/#collaboration) & 👁️ [Transparency](https://about.gitlab.com/handbook/values/#transparency) & 📈 [Results](https://about.gitlab.com/handbook/values/#results)
-- I think and reason in terms of intangible benefits, and prefer to minimize face-to-face, competitive rivalry 🤝 [Collaboration](https://about.gitlab.com/handbook/values/#collaboration) & 📈 [Results](https://about.gitlab.com/handbook/values/#results) & ⏱️ [Efficiency](https://about.gitlab.com/handbook/values/#efficiency)
-- I'm warm, yet practical 🤝 [Collaboration](https://about.gitlab.com/handbook/values/#collaboration) & 🌐 [Diversity, Inclusion & Belonging](https://about.gitlab.com/handbook/values/#diversity-inclusion) & 👁️ [Transparency](https://about.gitlab.com/handbook/values/#transparency)
-- I'm flexible and enthusiastic 🤝 [Collaboration](https://about.gitlab.com/handbook/values/#collaboration) & ⏱️ [Efficiency](https://about.gitlab.com/handbook/values/#efficiency) & 🌐 [Diversity, Inclusion & Belonging](https://about.gitlab.com/handbook/values/#diversity-inclusion)
-- I'm naturally friendly and, as a rule, am accepting of people 🤝 [Collaboration](https://about.gitlab.com/handbook/values/#collaboration) & 🌐 [Diversity, Inclusion & Belonging](https://about.gitlab.com/handbook/values/#diversity-inclusion)
-- I reserve the right to change my mind when given new information 👣 [Iteration](https://about.gitlab.com/handbook/values/#iteration) & 🤝 [Collaboration](https://about.gitlab.com/handbook/values/#collaboration) & 📈 [Results](https://about.gitlab.com/handbook/values/#results)
+- I'm predominantly idealistic, I value cooperative effort and the concepts of trust, loyalty and team spirit 🤝 [Collaboration](/handbook/values/#collaboration) & 👁️ [Transparency](/handbook/values/#transparency) & 📈 [Results](/handbook/values/#results)
+- I think and reason in terms of intangible benefits, and prefer to minimize face-to-face, competitive rivalry 🤝 [Collaboration](/handbook/values/#collaboration) & 📈 [Results](/handbook/values/#results) & ⏱️ [Efficiency](/handbook/values/#efficiency)
+- I'm warm, yet practical 🤝 [Collaboration](/handbook/values/#collaboration) & 🌐 [Diversity, Inclusion & Belonging](/handbook/values/#diversity-inclusion) & 👁️ [Transparency](/handbook/values/#transparency)
+- I'm flexible and enthusiastic 🤝 [Collaboration](/handbook/values/#collaboration) & ⏱️ [Efficiency](/handbook/values/#efficiency) & 🌐 [Diversity, Inclusion & Belonging](/handbook/values/#diversity-inclusion)
+- I'm naturally friendly and, as a rule, am accepting of people 🤝 [Collaboration](/handbook/values/#collaboration) & 🌐 [Diversity, Inclusion & Belonging](/handbook/values/#diversity-inclusion)
+- I reserve the right to change my mind when given new information 👣 [Iteration](/handbook/values/#iteration) & 🤝 [Collaboration](/handbook/values/#collaboration) & 📈 [Results](/handbook/values/#results)
 🔗[https://en.wikipedia.org/wiki/Bayesian_probability](https://en.wikipedia.org/wiki/Bayesian_probability)
-- "Strong opinions weakly held." 🤝 [Collaboration](https://about.gitlab.com/handbook/values/#collaboration) & 👣 [Iteration](https://about.gitlab.com/handbook/values/#iteration) & 📈 [Results](https://about.gitlab.com/handbook/values/#results) & ⏱️ [Efficiency](https://about.gitlab.com/handbook/values/#efficiency)
+- "Strong opinions weakly held." 🤝 [Collaboration](/handbook/values/#collaboration) & 👣 [Iteration](/handbook/values/#iteration) & 📈 [Results](/handbook/values/#results) & ⏱️ [Efficiency](/handbook/values/#efficiency)
 🔗[https://www.saffo.com/02008/07/26/strong-opinions-weakly-held/](https://www.saffo.com/02008/07/26/strong-opinions-weakly-held/)
-- I’m a lateral thinker who applies multiple mental models to avoid blind spots. I strive to make sure the right questions are being asked 🤝 [Collaboration](https://about.gitlab.com/handbook/values/#collaboration) & 👣 [Iteration](https://about.gitlab.com/handbook/values/#iteration)  & 🌐 [Diversity, Inclusion & Belonging](https://about.gitlab.com/handbook/values/#diversity-inclusion) & 📈 [Results](https://about.gitlab.com/handbook/values/#results)
+- I’m a lateral thinker who applies multiple mental models to avoid blind spots. I strive to make sure the right questions are being asked 🤝 [Collaboration](/handbook/values/#collaboration) & 👣 [Iteration](/handbook/values/#iteration)  & 🌐 [Diversity, Inclusion & Belonging](/handbook/values/#diversity-inclusion) & 📈 [Results](/handbook/values/#results)
 🔗[https://fs.blog/mental-models/#general_thinking_concepts](https://fs.blog/mental-models/#general_thinking_concepts)
-- I'm an advocate for Design Thinking 🤝 [Collaboration](https://about.gitlab.com/handbook/values/#collaboration) & 👣 [Iteration](https://about.gitlab.com/handbook/values/#iteration) & ⏱️ [Efficiency](https://about.gitlab.com/handbook/values/#efficiency)
+- I'm an advocate for Design Thinking 🤝 [Collaboration](/handbook/values/#collaboration) & 👣 [Iteration](/handbook/values/#iteration) & ⏱️ [Efficiency](/handbook/values/#efficiency)
 🔗[https://uxdesign.cc/the-business-of-design-thinking-2c73b388e444](https://uxdesign.cc/the-business-of-design-thinking-2c73b388e444)
-- One of the principles I live by is: "better is always better" 🤝 [Collaboration](https://about.gitlab.com/handbook/values/#collaboration) & 👣 [Iteration](https://about.gitlab.com/handbook/values/#iteration)  & 📈 [Results](https://about.gitlab.com/handbook/values/#results) & ⏱️ [Efficiency](https://about.gitlab.com/handbook/values/#efficiency)
+- One of the principles I live by is: "better is always better" 🤝 [Collaboration](/handbook/values/#collaboration) & 👣 [Iteration](/handbook/values/#iteration)  & 📈 [Results](/handbook/values/#results) & ⏱️ [Efficiency](/handbook/values/#efficiency)
 - Behavioral economics can help us connect qualitative and quantitative information
 🔗[https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
 - I believe in the power of the "3 Cs":
@@ -117,19 +117,19 @@ Identity: **65% Assertive**
 
 ### Typical Behaviours
 
-**Self Development:** I have a positive attitude toward personal growth and development. I'm motivated to make contributions and exercise professional or managerial responsibility. 🤝 [Collaboration](https://about.gitlab.com/handbook/values/#collaboration) & 👣 [Iteration](https://about.gitlab.com/handbook/values/#iteration) & 📈 [Results](https://about.gitlab.com/handbook/values/#results)
+**Self Development:** I have a positive attitude toward personal growth and development. I'm motivated to make contributions and exercise professional or managerial responsibility. 🤝 [Collaboration](/handbook/values/#collaboration) & 👣 [Iteration](/handbook/values/#iteration) & 📈 [Results](/handbook/values/#results)
 
-**Corporate Adaptability:** I'm positively committed to relationships and organizational goals necessary for advancing in the organization and corporate structure / culture. I'm dedicated to and identify with the corporate initiatives that require significant individual and team commitment. 🤝 [Collaboration](https://about.gitlab.com/handbook/values/#collaboration) & 👣 [Iteration](https://about.gitlab.com/handbook/values/#iteration) & 📈 [Results](https://about.gitlab.com/handbook/values/#results)
+**Corporate Adaptability:** I'm positively committed to relationships and organizational goals necessary for advancing in the organization and corporate structure / culture. I'm dedicated to and identify with the corporate initiatives that require significant individual and team commitment. 🤝 [Collaboration](/handbook/values/#collaboration) & 👣 [Iteration](/handbook/values/#iteration) & 📈 [Results](/handbook/values/#results)
 
-**Social Adaptability:** I'm adaptable to people, social situations, corporate and legal rules. I have a positive attitude toward others, and an ability to withstand extended stress. I meets unexpected changes in an optimistic, tolerant manner, and extend trust to others easily. 🤝 [Collaboration](https://about.gitlab.com/handbook/values/#collaboration) & 🌐 [Diversity, Inclusion & Belonging](https://about.gitlab.com/handbook/values/#diversity-inclusion) & 👁️ [Transparency](https://about.gitlab.com/handbook/values/#transparency)
+**Social Adaptability:** I'm adaptable to people, social situations, corporate and legal rules. I have a positive attitude toward others, and an ability to withstand extended stress. I meets unexpected changes in an optimistic, tolerant manner, and extend trust to others easily. 🤝 [Collaboration](/handbook/values/#collaboration) & 🌐 [Diversity, Inclusion & Belonging](/handbook/values/#diversity-inclusion) & 👁️ [Transparency](/handbook/values/#transparency)
 
-**Social Responsibility:** I value and support social conventions in my own social groups. I provide and support stability in work, family, legal and social relationships. 🌐 [Diversity, Inclusion & Belonging](https://about.gitlab.com/handbook/values/#diversity-inclusion) & 👁️ [Transparency](https://about.gitlab.com/handbook/values/#transparency)
+**Social Responsibility:** I value and support social conventions in my own social groups. I provide and support stability in work, family, legal and social relationships. 🌐 [Diversity, Inclusion & Belonging](/handbook/values/#diversity-inclusion) & 👁️ [Transparency](/handbook/values/#transparency)
 
-**Detail:** I have the ability to give myself wholly to new things or to follow the pattern, whichever is most appropriate. ⏱️ [Efficiency](https://about.gitlab.com/handbook/values/#efficiency) & 👣 [Iteration](https://about.gitlab.com/handbook/values/#iteration) & 📈 [Results](https://about.gitlab.com/handbook/values/#results)
+**Detail:** I have the ability to give myself wholly to new things or to follow the pattern, whichever is most appropriate. ⏱️ [Efficiency](/handbook/values/#efficiency) & 👣 [Iteration](/handbook/values/#iteration) & 📈 [Results](/handbook/values/#results)
 
-**Linear-ish:** My preference is for combining organized and systematic methods with a flexibility of approach. 🤝 [Collaboration](https://about.gitlab.com/handbook/values/#collaboration) & 👣 [Iteration](https://about.gitlab.com/handbook/values/#iteration) & 📈 [Results](https://about.gitlab.com/handbook/values/#results)
+**Linear-ish:** My preference is for combining organized and systematic methods with a flexibility of approach. 🤝 [Collaboration](/handbook/values/#collaboration) & 👣 [Iteration](/handbook/values/#iteration) & 📈 [Results](/handbook/values/#results)
 
-**Conceptual:** I utilize abstract information, experience, intuition, and knowledge to find fresh and imaginative solutions. 🤝 [Collaboration](https://about.gitlab.com/handbook/values/#collaboration) & 👣 [Iteration](https://about.gitlab.com/handbook/values/#iteration) & 🌐 [Diversity, Inclusion & Belonging](https://about.gitlab.com/handbook/values/#diversity-inclusion) & 👁️ [Transparency](https://about.gitlab.com/handbook/values/#transparency) & 📈 [Results](https://about.gitlab.com/handbook/values/#results)
+**Conceptual:** I utilize abstract information, experience, intuition, and knowledge to find fresh and imaginative solutions. 🤝 [Collaboration](/handbook/values/#collaboration) & 👣 [Iteration](/handbook/values/#iteration) & 🌐 [Diversity, Inclusion & Belonging](/handbook/values/#diversity-inclusion) & 👁️ [Transparency](/handbook/values/#transparency) & 📈 [Results](/handbook/values/#results)
 
 ## Communication Style
 
