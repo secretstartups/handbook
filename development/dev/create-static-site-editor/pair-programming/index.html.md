@@ -57,7 +57,7 @@ The [MartinFowler.com article above on pair programming](https://martinfowler.co
 
 * Someone should **always** be talking about what is happening while pairing. In a driver-navigator approach, this is the driver. If the driver is just typing and not talking, **stop** them, and ask them to narrate what they are doing. If they are unable to, switch it up, or consider switching to another style such as Strong Pairing. 
 * If you want to take over the keyboard, ask first, don't just start typing.  But always be aware of being a "keyboard hog".
-* If you have a different idea or plan, bring it up sooner rather than later, but also be open to other approaches.  Follow GitLabs values, such as [Disagree, commit, and disagree](https://about.gitlab.com/handbook/values/#disagree-commit-and-disagree).
+* If you have a different idea or plan, bring it up sooner rather than later, but also be open to other approaches.  Follow GitLabs values, such as [Disagree, commit, and disagree](/handbook/values/#disagree-commit-and-disagree).
 * **Stop** and **Explain** things often, but don't be condescending or mansplain.  It's a fine line, it helps to often say things like "are you familiar with this approach?"
 
 #### Be aware and empathatic  of different personalities

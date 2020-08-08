@@ -190,7 +190,7 @@ Before the team will accept an issue into a milestone (as marked by the the labe
 There are a number of labels applied at any time to both issues and merge requests, but there is a priority, first being the highest:
 
 * `planning priority` - This label is rarely used, but we consider it to be a promise to a customer. Issues with this label will supersede all other work even those planned issues. The use of this label is usually held in reserve for issues of the utmost importance.
-* `P1` / `S1` - From the perspective of bugs, a `P1` / `S1` has the [highest priority](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority) and a short SLO. Issues with this label will supersede all other work even planned issues.
+* `P1` / `S1` - From the perspective of bugs, a `P1` / `S1` has the [highest priority](/handbook/engineering/quality/issue-triage/#priority) and a short SLO. Issues with this label will supersede all other work even planned issues.
 * `Deliverable` - Issues with this label are agreed between team EM and the PM to have the highest overall normal priority and could be delivered in the given milestone. Deliverable issues not closed in a given milestone are auto forwarded via milestone cleanup workflow. Deliverable issues are often paired with `Release::P1` issues.
 * `Release::P1` - Similar to and often paired with `Deliverable`. This is the highest priority from the perspective of the sub-department. Assuming there are no `planning priority` and `P1/S1` issues, we start with these issues first, and we focus on these over lower priority issues as much as possible.
 * `Community contribution` - The main label for the Contributor Program. We should support the contributor community by triaging and coaching issues in our area with this label. We prioritize this effort between Deliverables and lower priority issues.
@@ -218,7 +218,7 @@ With the knowledge that [things take longer than you think](https://erikbern.com
 In order to make sure iterations are efficient, it is important to ensure issues are clearly defined and broken down before the start of an iteration.
 In order to accomplish this, engineering evaluation will take place for issues that require it (small changes and bug fixes typically won’t require this analysis).
 With each milestone we collect a series of upcoming issues to be reviewed and discussed asynchronously into a meta Needs Weight Issue ([example issue](https://gitlab.com/gitlab-org/gitlab/-/issues/212773)). These issues should have the label `workflow::planning breakdown`. We use this label not only for well-defined user stories, but also functional, performance, documentation, and security issues.
-See the [Build phase](https://about.gitlab.com/handbook/product-development-flow/#build-phase-1-plan) of the Product Development Workflow.
+See the [Build phase](/handbook/product-development-flow/#build-phase-1-plan) of the Product Development Workflow.
 
 Assigned engineers will work with Product, UX and other engineers to determine the implementation plan for a proposed feature. As the assigned engineer provides a propsed breakdown, they should also affix a weight to the issue. See below.
 
@@ -233,7 +233,7 @@ Issues with a weight **greater than 4** should be reconsidered by the team. This
 
 #### Merge Request Count As A Measure Of Issue Weight
 
-As a byproduct of the engineering evaluation process, a rough estimate of the number of merge requests required to develop a feature will be produced. This measure can be used as a way to determine issue weights. These weights can be useful during the planning process to get a rough gauge of how many features can be worked on in a milestone, and to understand how much work the team can do in a milestone. This metric also aligns with the [throughput metric](https://about.gitlab.com/handbook/engineering/management/throughput/) currently measured by engineering teams.
+As a byproduct of the engineering evaluation process, a rough estimate of the number of merge requests required to develop a feature will be produced. This measure can be used as a way to determine issue weights. These weights can be useful during the planning process to get a rough gauge of how many features can be worked on in a milestone, and to understand how much work the team can do in a milestone. This metric also aligns with the [throughput metric](/handbook/engineering/management/throughput/) currently measured by engineering teams.
 
 #### Avoid Interdependent Merge Requests in a Single Milestone
 
@@ -416,7 +416,7 @@ This tactic also creates an environment to ask for early review on a WIP merge r
 
 #### Code Review Considerations
 
-As part of the [12.9 Release Post retrospective](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/6698#note_334000537), we're taking part in an experiment whereby we should try to avoid review roulette and the maintainer bottleneck. In this pilot, try to assign reviewers / maintainers only from the [CI/CD Sub-department](https://about.gitlab.com/handbook/engineering/development/ci-cd/#who-we-are) and not by reviewer roulette.
+As part of the [12.9 Release Post retrospective](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/6698#note_334000537), we're taking part in an experiment whereby we should try to avoid review roulette and the maintainer bottleneck. In this pilot, try to assign reviewers / maintainers only from the [CI/CD Sub-department](/handbook/engineering/development/ci-cd/#who-we-are) and not by reviewer roulette.
 
 Results: We will evaluate at the end of 13.1 if this was helpful using the metric `mean time to merge`. If this improves, we'll consider keeping this change for another milestone for further evaluation. If the impact on mean time to merge is detrimental, then we may consider dropping this process and reverting back to the previous roulette process.
 
@@ -525,7 +525,7 @@ Contributing to the wider engineering retrospective can be helpful for other gro
 
 See also:
 
-- [Engineering Team Retrospectives](https://about.gitlab.com/handbook/engineering/management/team-retrospectives/)
+- [Engineering Team Retrospectives](/handbook/engineering/management/team-retrospectives/)
 
 ####
 

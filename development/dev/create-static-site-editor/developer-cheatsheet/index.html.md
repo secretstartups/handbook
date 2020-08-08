@@ -107,8 +107,8 @@ Depending on your existing habits and `git` practices the habits below may help 
 
 ## Dealing with Broken Master
 
-- https://about.gitlab.com/handbook/engineering/workflow/#broken-master
-- https://about.gitlab.com/handbook/engineering/workflow/#maintaining-throughput-during-broken-master
+- /handbook/engineering/workflow/#broken-master
+- /handbook/engineering/workflow/#maintaining-throughput-during-broken-master
 
 ## Browser Testing
 

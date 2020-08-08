@@ -266,7 +266,7 @@ The author of changes should announce broadly the changes made on these componen
 ### Development of new analyzers
 
 We occasionally need to build out new analyzer projects to support new frameworks and tools.
-In doing so we should follow [our engineering Open Source guidelines](https://about.gitlab.com/handbook/engineering/open-source/),
+In doing so we should follow [our engineering Open Source guidelines](/handbook/engineering/open-source/),
 including licensing and [code standards](https://docs.gitlab.com/ee/development/go_guide).
 
 In addition, to write a custom analyzer that will integrate into the GitLab application
@@ -276,7 +276,7 @@ a minimal featureset is required:
 
 ##### Underlying tool
 
- - [ ] Has [permissive software license](https://about.gitlab.com/handbook/engineering/open-source/#acceptable-licenses)
+ - [ ] Has [permissive software license](/handbook/engineering/open-source/#acceptable-licenses)
  - [ ] Headless execution (CLI tool)
  - [ ] Bundle-able dependencies to be packaged as a Docker image, to be executed using GitLab Runner's [Linux or Windows Docker executor](https://docs.gitlab.com/runner/executors/README.html#docker-executor)
  - [ ] Compatible projects can be detected based on filenames or extensions

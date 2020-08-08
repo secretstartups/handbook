@@ -13,7 +13,7 @@ title: Secure Workflow
 
 Secure uses a workflow based on the [Product Development Flow](/handbook/product-development-flow/) with some additions that are under experiment or specific to this sub-department.
 
-Specific deadlines of this workflow are defined in the [Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline) and should be followed unless specified explicitely.
+Specific deadlines of this workflow are defined in the [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline) and should be followed unless specified explicitely.
 
 To maximize our velocity and meet our deliverables, we also follow an [engineering refinement process for all issues](./refinement/), before actually scheduling them into a given milestone.
 

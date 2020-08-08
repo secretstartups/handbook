@@ -55,7 +55,7 @@ We use the [Planning Boards](#planning-boards) to triage issues that are not yet
 
 The Product Manager (PM) owns this board and uses it to advance issues through to becoming feasible Epics. When work leaves this board, it is in a fit state for the engineering team to implement the issue.
 
-In this stage, the PM establishes new work that they would like to see in the Release feature. The _devops::release_ process follows the [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/#validation-track), as follows:
+In this stage, the PM establishes new work that they would like to see in the Release feature. The _devops::release_ process follows the [Product Development Flow](/handbook/product-development-flow/#validation-track), as follows:
 
 ##### Problem validation
 
@@ -68,7 +68,7 @@ If the problem is validated, the issue is moved forward to the next stage, other
 Once the problem is validated, the PM will consider creating an Epic if [the scope of the solution is large enough](/handbook/product/product-processes/#epics-for-a-single-iteration).
 They will then reach out to the Engineering Manager (EM) for a technical contact in the team. The EM assigns [ownership](#epic-ownership) to an engineer. The engineer will work with the PM to determine a technical solution for the problem.
 
-If designs are required, the PM will add the `workflow::design` label and collaborate with UX to create the user stories required to solve the customer problem. Story mapping is a recommended way to visualize the user stories of a new feature in a holistic way. The story map can even be annotated to indicate which user stories need to be included in each release increment. More information on this process is noted in the [Product Development Workflow](https://about.gitlab.com/handbook/product-development-flow/#validation-phase-3-solution-validation). In some situations, the PM and UX may decide the issue is ready for `cicd::active` and will move the issue to `workflow::scheduling` for EM review.
+If designs are required, the PM will add the `workflow::design` label and collaborate with UX to create the user stories required to solve the customer problem. Story mapping is a recommended way to visualize the user stories of a new feature in a holistic way. The story map can even be annotated to indicate which user stories need to be included in each release increment. More information on this process is noted in the [Product Development Workflow](/handbook/product-development-flow/#validation-phase-3-solution-validation). In some situations, the PM and UX may decide the issue is ready for `cicd::active` and will move the issue to `workflow::scheduling` for EM review.
 
 Occasionally, a proof-of-concept (POC) is necessary to determine a feasible technical path. When one is required, the PM
 will create a POC issue that contains the context of the research to be conducted along with the goals of the POC. This
@@ -216,7 +216,7 @@ While entering the approximate weight, take a moment to confirm issues have the 
 
 After weight has been entered, remove `needs weight` label.
 
-If you are having a difficult time estimating the number of merge requests, please consider a [Proof of Concept MR](https://about.gitlab.com/handbook/engineering/development/ci-cd/release/#tips-when-youre-having-hard-time-to-estimate-mr-count-consider-poc-step).
+If you are having a difficult time estimating the number of merge requests, please consider a [Proof of Concept MR](/handbook/engineering/development/ci-cd/release/#tips-when-youre-having-hard-time-to-estimate-mr-count-consider-poc-step).
 
 ## FAQ
 

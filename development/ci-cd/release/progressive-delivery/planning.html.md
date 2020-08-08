@@ -48,7 +48,7 @@ We use the [Planning Boards](#planning-boards) to triage issues that are not yet
 
 The Product Manager (PM) owns this board and uses it to advance issues through to becoming feasible Epics. When work leaves this board, it is in a fit state for the engineering team to implement the issue.
 
-In this stage, the PM establishes new work that they would like to see in the Release feature. The _devops::release_ process follows the [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/#validation-track), as follows:
+In this stage, the PM establishes new work that they would like to see in the Release feature. The _devops::release_ process follows the [Product Development Flow](/handbook/product-development-flow/#validation-track), as follows:
 
 ##### Problem validation
 
@@ -202,7 +202,7 @@ While entering the approximate weight, take a moment to confirm issues have the 
 
 After weight has been entered, remove `needs weight` label. 
 
-If you are having a difficult time estimating the number of merge requests, please consider a [Proof of Concept MR](https://about.gitlab.com/handbook/engineering/development/ci-cd/release/#tips-when-youre-having-hard-time-to-estimate-mr-count-consider-poc-step).
+If you are having a difficult time estimating the number of merge requests, please consider a [Proof of Concept MR](/handbook/engineering/development/ci-cd/release/#tips-when-youre-having-hard-time-to-estimate-mr-count-consider-poc-step).
 
 ## FAQ
 
