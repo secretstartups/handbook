@@ -110,7 +110,7 @@ The Release Post Manager is accountable for:
 `#releases` Slack channel and  only merge once they've pinged you in Slack to confirm the packages are released, which will be sometime around 14:10 - 14:20)
 - Creating and collecting feedback in the release post retro issue during the release post
 - Doing a sync retro with the Tech Writing and Messaging leads sometime between the 23rd and the 1st of the month, to identify and collaboratively complete actions to improve  process and update the handbook/MRs
-- [Communicate](#communication) with our Community Advocates following the [Involving Experts workflow](https://about.gitlab.com/handbook/marketing/community-relations/community-advocacy/workflows/involving-experts/) as needed to field questions that come up from viewers of the release post blog once it is live on the 22nd 
+- [Communicate](#communication) with our Community Advocates following the [Involving Experts workflow](/handbook/marketing/community-relations/community-advocacy/workflows/involving-experts/) as needed to field questions that come up from viewers of the release post blog once it is live on the 22nd 
 - Making sure the auto sorting of secondary features by title (alpha) and stage generally looks good or is revised if need be [Content Reviews](#content-reviews)
 
 **The initial steps of creating a release post branch and the release post merge request are explained below. All subsequent steps for Release Post Manager are documented as checklist items in the merge request that gets created below.**
@@ -236,7 +236,7 @@ If for some reason `bin/release-post-assemble` fails use the following steps to 
 
 The release post manager, the Messaging lead and the TW lead will need to communicate about topics that are related to the release post but not relevant to all participants in the main [Slack release post channel](https://gitlab.slack.com/archives/C3TRESYPJ). The Release Post Manager will create a Slack channel called "X-Y-release-post-prep  to faciliate communication specific to the release post leads, which will be utilized till the 21st to minimize noise in the main release post Slack channel. On the 22nd, this channel will be abandoned and all communication will default to the main release post Slack channel for the final day of collaboration.
 
-The Community Advocates team will reach out to the release post manager in Slack #release-post when they are using the [Involving Experts workflow](https://about.gitlab.com/handbook/marketing/community-relations/community-advocacy/workflows/involving-experts/) and need help responding to inquiries about content in the release post blog. These needs will primarily arise within the first week of going live with the blog. However, as Author for a specific release post, you may get pinged to help coordinate a response some weeks later as issues arise. You will usually just need to find the best DRI to handle the issue, often the PM of the release post item in question. 
+The Community Advocates team will reach out to the release post manager in Slack #release-post when they are using the [Involving Experts workflow](/handbook/marketing/community-relations/community-advocacy/workflows/involving-experts/) and need help responding to inquiries about content in the release post blog. These needs will primarily arise within the first week of going live with the blog. However, as Author for a specific release post, you may get pinged to help coordinate a response some weeks later as issues arise. You will usually just need to find the best DRI to handle the issue, often the PM of the release post item in question. 
 
 #### Content reviews
 
@@ -331,9 +331,9 @@ After the 18th of month, late additions are only accepted at the discretion of t
 
 Be sure to reference your Direction items and Release features. All items which appear
 in our [Upcoming Releases page](https://about.gitlab.com/upcoming-releases/) should be included in the relevant release post.
-For more guidance about what to include in the release post please reference the [Product Handbook](https://about.gitlab.com/handbook/product/product-processes/#communication#release-posts).
+For more guidance about what to include in the release post please reference the [Product Handbook](/handbook/product/product-processes/#communication#release-posts).
 
-When writing your content blocks, be sure to reference [Writing release blog posts](https://about.gitlab.com/handbook/product/product-processes/#communication#writing-release-blog-posts) and [Writing about features](https://about.gitlab.com/handbook/product/product-processes/#communication#writing-about-features) to ensure your release post item writeups align with how GitLab communicates. For example, we avoid formal phrases such as "we are pleased to announce" and generally speak  directly to our users by saying "you can now do x" rather than "the user can now do x". Checking out the links to these guidelines will help you align hour tone/voice as you write, ensuring a smoother and more speedy review process for your release post items.
+When writing your content blocks, be sure to reference [Writing release blog posts](/handbook/product/product-processes/#communication#writing-release-blog-posts) and [Writing about features](/handbook/product/product-processes/#communication#writing-about-features) to ensure your release post item writeups align with how GitLab communicates. For example, we avoid formal phrases such as "we are pleased to announce" and generally speak  directly to our users by saying "you can now do x" rather than "the user can now do x". Checking out the links to these guidelines will help you align hour tone/voice as you write, ensuring a smoother and more speedy review process for your release post items.
 
 PM contributors are encouraged to use discretion if wanting to add new content blocks after the final merge deadline of the 17th, and especially after final content assembly happens at 8 AM PST (3 PM UTC). But if if highly impactful features are released that can not wait till the next blog post, PMs should reach out and coordinate with the Release Post Manager. It is up to the discretion of the Release Post Manager to work with the PM and Messaging lead to add more content blocks up until the 21st.
 
@@ -391,13 +391,13 @@ make sure that:
 - All primary features are accompanied by their images.
 - All new and/or primary features are added to [`data/features.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/features.md) _with a screenshot accompanying the feature (if the feature is visible in the UI)_.
   - All images are optimized according to the [image guidelines](#images) **and** smaller than 150KB
-  - Keep in mind the [`features.yml`](https://about.gitlab.com/handbook/marketing/website/#adding-features-to-webpages) is the SSOT for displaying features across `about.gitlab.com`.
+  - Keep in mind the [`features.yml`](/handbook/marketing/website/#adding-features-to-webpages) is the SSOT for displaying features across `about.gitlab.com`.
 - All features should have a clear value driver.
 
 As noted in the [Release Post Item template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md):
 
 - Make it clear if a feature is **new**, or is an improvement to an existing feature.
-- Make sure your content is reasonably aligned with guidance in [Writing about features](https://about.gitlab.com/handbook/product/product-processes/#communication#writing-about-features).
+- Make sure your content is reasonably aligned with guidance in [Writing about features](/handbook/product/product-processes/#communication#writing-about-features).
 - Ensure that titles use sentence case with feature and product names in capital case.
 
 Write the description of every feature as you do to regular blog posts. Please write according to
@@ -948,7 +948,7 @@ It is a required field.
   - [`monitor`](/stages-devops-lifecycle/monitor/)
   - [`secure`](/stages-devops-lifecycle/secure/)
   - [`defend`](/stages-devops-lifecycle/defend/)
-  - [`enablement`](https://about.gitlab.com/handbook/product/product-categories/#enablement-stage).
+  - [`enablement`](/handbook/product/product-categories/#enablement-stage).
 
 The stages display as an icon next to the product tiers' badges linking
 to the stage webpage using a regex:
@@ -1080,7 +1080,7 @@ extras:
 
 _To be added by Product Managers or Engineering Managers and merged by either._
 
-Describe the deprecations happening in that release or in upcoming releases. Note that there are differences in [deprecations and removals](https://about.gitlab.com/handbook/product/gitlab-the-product/#deprecating-and-removing-features),
+Describe the deprecations happening in that release or in upcoming releases. Note that there are differences in [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features),
 so be sure to include the relevant details on when the feature will be removed from GitLab in the post. Let our community know about a future deprecation as soon as possible. When adding deprecations be sure to keep with the same structure of "XYZ feature or function will be deprecated at ABC time."
 
 The due date is defined by the removal of that feature. The field is required, and should be set as:
@@ -1122,7 +1122,7 @@ deprecations:
 
 Per GitLab's [Versioning Policy](https://docs.gitlab.com/ee/policy/maintenance.html#versioning), non-backward compatible and breaking changes are recommended for a major release, whereas backward compatible changes can be introduced in a minor release.
 
-Once complete, assign the MR to the [technical writer](https://about.gitlab.com/handbook/engineering/ux/technical-writing/#designated-technical-writers) assigned to the stage.
+Once complete, assign the MR to the [technical writer](/handbook/engineering/ux/technical-writing/#designated-technical-writers) assigned to the stage.
 
 When approved, include the "Ready" label in the MR before merging.
 
@@ -1135,7 +1135,7 @@ _To be added by Product Managers or Engineering Managers and merged by either._
 Describe the features that are being removed in the upcoming release. Removals should be planned.
 If possible, set up a [deprecation](#deprecation) notice at least one minor release before removing a feature.
 
-Note the differences between [deprecations and removals](https://about.gitlab.com/handbook/product/gitlab-the-product/#deprecating-and-removing-features),
+Note the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features),
 so be sure to include the relevant details on when the feature will be removed from GitLab in the post.
 
 The `date_of_removal`due date is defined by the removal of that feature. The field is required, and should be set as:
@@ -1172,7 +1172,7 @@ removals:
 
 Per GitLab's [Versioning Policy](https://docs.gitlab.com/ee/policy/maintenance.html#versioning), non-backward compatible and breaking changes are recommended for a major release, whereas backward compatible changes can be introduced in a minor release.
 
-Once complete, assign the MR to the [technical writer](https://about.gitlab.com/handbook/engineering/ux/technical-writing/#designated-technical-writers) assigned to the stage.
+Once complete, assign the MR to the [technical writer](/handbook/engineering/ux/technical-writing/#designated-technical-writers) assigned to the stage.
 
 When approved, include the "Ready" label in the MR before merging.
 
@@ -1194,7 +1194,7 @@ upgrade:
       Veritatis, quisquam.
 ```
 
-Once complete, assign the MR to the [technical writer](https://about.gitlab.com/handbook/engineering/ux/technical-writing/#designated-technical-writers) assigned to the stage.
+Once complete, assign the MR to the [technical writer](/handbook/engineering/ux/technical-writing/#designated-technical-writers) assigned to the stage.
 
 When approved, include the "Ready" label in the MR before merging.
 
