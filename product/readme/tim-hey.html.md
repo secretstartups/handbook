@@ -5,7 +5,7 @@ title: "Tim Hey's README"
 
 # Tim Hey's — README.md
 
-I created this personal README document to help you get to know me and how I work. This document is inspired by Matej’s [README](https://gitlab.com/matejlatin/focus#matej-readmemd) and the [Product team README's](https://about.gitlab.com/handbook/product/readme/#product-readmes).
+I created this personal README document to help you get to know me and how I work. This document is inspired by Matej’s [README](https://gitlab.com/matejlatin/focus#matej-readmemd) and the [Product team README's](/handbook/product/readme/#product-readmes).
 
 - [GitLab Profile](https://gitlab.com/timhey)
 - [Team Page](https://about.gitlab.com/company/team/#timhey)
@@ -14,7 +14,7 @@ I created this personal README document to help you get to know me and how I wor
 
 ## About me
 
-- My name is Tim Hey (last name jokes are welcome) I am a Principal Product Manager on the [Growth](https://about.gitlab.com/handbook/product/growth/) team at GitLab and I focus on [Expansion](https://about.gitlab.com/direction/expansion/).
+- My name is Tim Hey (last name jokes are welcome) I am a Principal Product Manager on the [Growth](/handbook/product/growth/) team at GitLab and I focus on [Expansion](https://about.gitlab.com/direction/expansion/).
 - I currently live in [New Boston, New Hampshire](https://www.google.com/maps/place/New+Boston,+NH+03070/@42.9777511,-71.7556169,12z/data=!3m1!4b1!4m5!3m4!1s0x89e233e8a9946e0d:0x590e6c13b1743f65!8m2!3d42.9761945!4d-71.6939626) 🇺🇸 with my wife Elizabeth, our 2 sons and our 2 dogs (they are rescues and we have no clue what breed they are).
 - I was raised in New Hampshire but lived on [Hilton Head Island](https://www.google.com/maps/place/Hilton+Head+Island,+SC/@32.1834696,-80.8174359,12z/data=!3m1!4b1!4m5!3m4!1s0x88fc79dc8ed319ad:0x2ce5a67aeba2283d!8m2!3d32.216316!4d-80.752608) for 8 years, this is where my wife and I started our life together and we plan to move back when the children are older.
 - I’m an [introverted extrovert](https://en.wikipedia.org/wiki/Extraversion_and_introversion) which for me means that I enjoy spending time with others but I recharge in solitude. You will know which mode I’m in within seconds of interacting with me.
