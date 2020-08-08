@@ -52,7 +52,7 @@ The Infrastructure department's Reliability Engineering teams provide 24x7 on-ca
 - You can view the [Security Operations schedule](https://gitlab.pagerduty.com/schedules#PYZC2CG) on PagerDuty.
 - When on-call, prioritize work that will make the on-call better (that includes building projects, systems, adding metrics, removing noisy alerts). Much like the Production team, we strive to have nothing to do when being on-call, and to have meaningful alerts and pages. The only way of achieving this is by investing time in trying to automate ourselves out of a job.
 - The main expectation when on-call is triaging the urgency of a page - if the security of GitLab is at risk, do your best to understand the issue and coordinate an adequate response. If you don't know what to do, engage the Security manager on-call to help you out.
-- More information is available in the [Security Operations On-Call Guide](https://about.gitlab.com/handbook/engineering/security/secops-oncall.html) and the [Security Incident Response Guide](/handbook/engineering/security/sec-incident-response.html).
+- More information is available in the [Security Operations On-Call Guide](/handbook/engineering/security/secops-oncall.html) and the [Security Incident Response Guide](/handbook/engineering/security/sec-incident-response.html).
 
 ### Security Managers
 
