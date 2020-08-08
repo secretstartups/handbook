@@ -36,7 +36,7 @@ To get added to the group account:
 1. Title it as `Your Name, Support, Calendly`, list Calendly as the "System Name" and mention that you'll be scheduling customer calls.
 1. Assign to your manager, and they'll approve and assign it over to team member that provisions Calendly.
 
-This access is also included as part of [support onboarding](https://about.gitlab.com/handbook/support/onboarding/) for GitLab Solutions Focus Support Engineers that will be handling tickets for self-managed customers.
+This access is also included as part of [support onboarding](https://about.gitlab.com/handbook/support/#onboarding) for GitLab Solutions Focus Support Engineers that will be handling tickets for self-managed customers.
 
 ### Availability increment.
 
