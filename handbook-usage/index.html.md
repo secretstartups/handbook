@@ -65,7 +65,7 @@ Please follow these guidelines and remind others of them.
 ### How to change or define a process
 1. To change a guideline or process, **suggest an edit** in the form of a merge request. 
 1. When working to get your change merged quickly, make sure you are asking the appropriate team members with merge rights. Not sure who is responsible? Consult (and add to) the `CODEOWNERS` [repository](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/CODEOWNERS). 
-  * For example, CMO (Chief Marketing Officer) Staff members can approve any merge request that is specific to their function, while the CMO approves any merge request that is cross-functional marketing. Chief of Staff/CEO approves any merge request that has cross-company impact, such as GitLab's [Values](https://about.gitlab.com/handbook/values/) page.
+  * For example, CMO (Chief Marketing Officer) Staff members can approve any merge request that is specific to their function, while the CMO approves any merge request that is cross-functional marketing. Chief of Staff/CEO approves any merge request that has cross-company impact, such as GitLab's [Values](/handbook/values/) page.
 1. After it is merged you can post this in the `#whats-happening-at-gitlab` slack channel if applicable. You can remind other people of this by asking "Can you please send a merge request for the handbook?"
 1. When substantially changing handbook layout, please leave a link to the specific page of the review app **that is directly affected by this MR**. Along with the link, include as much info as possible in the MR description. This will allow everyone to understand what is the purpose of the MR without looking at diffs.
 1. Keeping up with changes to the Handbook can be difficult, please follow the [commit subject guidelines](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#commit-messages-guidelines) with a particular focus on your merge request's title, to ensure someone reading the [Handbook Changelog](/handbook/CHANGELOG.html) can quickly understand the MR's content.
@@ -130,11 +130,11 @@ Please read through the [Writing Style Guidelines](/handbook/communication/#writ
 
 
 ### Handbook First Competency 
-In an all-remote, asyncronous organization, each team member should practice handbook first. For more information on what it means to be handbook first, please refer to the [why handbook first](https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first) section of this page.
+In an all-remote, asyncronous organization, each team member should practice handbook first. For more information on what it means to be handbook first, please refer to the [why handbook first](/handbook/handbook-usage/#why-handbook-first) section of this page.
 
 **Skills and behaviors of handbook first as a Team Member**:
 * Actively contributes to the handbook. 
-* [Everything starts with a merge request](https://about.gitlab.com/handbook/communication/#everything-starts-with-a-merge-request)
+* [Everything starts with a merge request](/handbook/communication/#everything-starts-with-a-merge-request)
 * Provides links information from the handbook when answering questions and if the information doesn't exist in the handbook, then the team member adds it. 
 
 **Skills and behaviors of handbook first as a People Leader**:
@@ -186,7 +186,7 @@ Any changes to the handbook as part of this review will be shared in the `#handb
 
 ## KPI
 
-The Engineering team and all sub-teams track Handbook Update Frequency as a [KPI](https://about.gitlab.com/handbook/business-ops/data-team/kpi-index/#engineering-kpis), with varying targets per team. Currently, Engineering is the only Division tracking Handbook update frequency, so as to analyse and observe the effectiveness of this KPI.  
+The Engineering team and all sub-teams track Handbook Update Frequency as a [KPI](/handbook/business-ops/data-team/kpi-index/#engineering-kpis), with varying targets per team. Currently, Engineering is the only Division tracking Handbook update frequency, so as to analyse and observe the effectiveness of this KPI.  
 
 ## Screenshot the handbook instead of creating a presentation
 
