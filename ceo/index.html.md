@@ -143,7 +143,7 @@ As part of my role, I participate in a variety of meetings both internal and ext
 ### Quarterly Meetings
 1. [E-Group Offsite](/handbook/ceo/offsite/) In-person meeting. Monday-Thursday. After QBR's and before the Board of Directors meeting.
 1. [GitLab Board of Directors Meeting](/handbook/board-meetings/). 3.5 hours via Zoom. Usually preceded by a dinner or followed by a lunch for those who wish to attend in-person in San Francisco.
-1. GitLab Board of Director Committee Meetings => [Audit Committe](/handbook/board-meetings/#audit-committee-charter), [Compensation Committee](/handbook/board-meetings/#compensation-committee-charter). 50 minutes.
+1. GitLab Board of Director Committee Meetings => [Audit Committee](/handbook/board-meetings/committees/audit/#audit-committee-charter), [Compensation Committee](/handbook/board-meetings/committees/compensation/#compensation-committee-charter). 50 minutes.
 1. [Skip Levels](/handbook/leadership/skip-levels/) with direct report's leadership team. 25 min.
 1. [1-1](/handbook/leadership/1-1/) with GitLab Board Members. 25-50 minutes.
 1. [OKR E-Group Planning](/company/okrs/#schedule) 50-90 minutes.
@@ -151,7 +151,7 @@ As part of my role, I participate in a variety of meetings both internal and ext
 1. [Board Member AMA's](/handbook/board-meetings/#quarterly-ama-with-the-board). 25-50 minutes.
 
 ### Annual Meetings
-1. [Contribute](https://about.gitlab.com/company/culture/contribute/). Sunday-Friday.
+1. [Contribute](/company/culture/contribute/). Sunday-Friday.
 1. [Annual Planning](/handbook/finance/financial-planning-and-analysis/#annual-plan) with the GitLab Board of Directors. 50-80 minutes.
 1. Fiscal Year Kickoff. 50 minutes.
 1. Industry Conferences such as: DevOps Enterprise Summit, AWS re:Invent, KubeCon, Linux Summit
