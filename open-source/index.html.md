@@ -15,15 +15,15 @@ The purpose of this page is to document how a GitLab employee can:
 
 ## General notes
 
-- If you use your work email, this could help promote the company by showing that GitLab is giving back to the open source community reflecting our values of [Collaboration](/handbook/values/#collaboration) and [Transparency](https://about.gitlab.com/handbook/values/#transparency).
+- If you use your work email, this could help promote the company by showing that GitLab is giving back to the open source community reflecting our values of [Collaboration](/handbook/values/#collaboration) and [Transparency](/handbook/values/#transparency).
 
 TBD
-- Mention Intellectual Property https://about.gitlab.com/handbook/people-group/code-of-conduct/#intellectual-property-and-protecting-ip ?
-- Mention https://about.gitlab.com/handbook/people-group/contracts-and-international-expansion/#piaa-agreements ?
+- Mention Intellectual Property /handbook/people-group/code-of-conduct/#intellectual-property-and-protecting-ip ?
+- Mention /handbook/people-group/contracts-and-international-expansion/#piaa-agreements ?
 
 ## Creating an open source project
 
-See [Creating a new project](https://about.gitlab.com/handbook/engineering/#creating-a-new-project) for the instructions.
+See [Creating a new project](/handbook/engineering/#creating-a-new-project) for the instructions.
 
 ## Contributing to a third party project
 
