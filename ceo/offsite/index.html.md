@@ -36,7 +36,7 @@ They establish criteria for success for the discussion topics by, for example, i
 If decisions need to be made to stop, continue, or change discussion when there is disagreement on path forward, the decision is responsibility of the topic executive sponsor.
 
 The **CEO Shadows** are responsible for taking thorough notes throughout the event, so that the E-Group can be focused on the discussion. 
-CEO Shadows will also tasked with making [Merge Requests](/handbook/ceo/offsite/#document-during-meeting) on behalf of an Executive. 
+CEO Shadows will also tasked with making Merge Requests on behalf of an Executive. 
 Please follow the below outlined process for announcing and merging the changes. 
 
 The **Chief of Staff** or other team member is responsible for facilitating the event. 
