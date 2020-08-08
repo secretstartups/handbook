@@ -41,7 +41,7 @@ This process is dependant upon the following applications:
     * Sending contracts of hire
     * Updating Job information <br><br>
 
-Employee referrals are made through issues based on details mentioned [here](https://about.gitlab.com/handbook/hiring/referral-process/).
+Employee referrals are made through issues based on details mentioned [here](/handbook/hiring/referral-process/).
 
 **Creating a job on Greenhouse**
 
@@ -56,7 +56,7 @@ Employee referrals are made through issues based on details mentioned [here](htt
     * Input the number of openings to be hired for this role.
     * Under "Employment Type", select if the vacancy is a full-time, part-time, intern, or contract role.
     * Under "Salary"
-        * For roles in the [Compensation Calculator Tool](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/calculator/): Take the benchmark x level x 0.25 for the low end and benchmark x level x 0.85 on the high end.[Refer benchmark calculation](https://about.gitlab.com/handbook/people-operations/global-compensation/#exchange-rate)
+        * For roles in the [Compensation Calculator Tool](/handbook/total-rewards/compensation/compensation-calculator/calculator/): Take the benchmark x level x 0.25 for the low end and benchmark x level x 0.85 on the high end.[Refer benchmark calculation](/handbook/people-operations/global-compensation/#exchange-rate)
         * For roles not in the compensation calculator (Sales/Director/Exec): Leave blank if not known. The People Operations Analyst will edit as the first level of approval. People Ops Analysts will pull survey data in San Francisco for this role then apply the same formula for 0.25 on the low end and 0.8 on the high end.
     * If the vacancy is eligible for a bonus, input the range of the bonus amount under the "Bonus" field. If there are no bonuses associated with this vacancy, then the field is to be left blank.
     * If this vacancy is eligible for stock options, input the range of offered stock options under the "Options" field. 
@@ -137,7 +137,7 @@ Employee referrals are made through issues based on details mentioned [here](htt
 **Publicizing the vacancy**
 
 * The careers page currently links to a general 'Talent Community' submission, which is not tied to any jobs.  
-* Team Members submit their referrals via an Issue, which mirrors the 'Referral In-Take Questionnaire.' Details about this process can be seen [here](https://about.gitlab.com/handbook/hiring/referral-process/)
+* Team Members submit their referrals via an Issue, which mirrors the 'Referral In-Take Questionnaire.' Details about this process can be seen [here](/handbook/hiring/referral-process/)
 * The hiring team may advertise the vacancy through the following sites and is open to posting to more, in order to widely publish a variety of vacancies.
 
     |Sl.no|Particulars|
@@ -263,7 +263,7 @@ As part of onboarding, People Operations Specialists will process new hires in B
 * Pay Per - Monthly for contractors and employees paid once per month, Pay Period for all other employees
 * Pay Type - Use either Salary or Hourly for employees, or Contract for contractors.
 * Pay Schedule - Select the pay period. Currently we have twice a month for the US, and monthly for all others.
-* [Pay Frequency](https://about.gitlab.com/handbook/people-group/contracts-and-international-expansion/#team-member-types-by-country):
+* [Pay Frequency](/handbook/people-group/contracts-and-international-expansion/#team-member-types-by-country):
     * 12.96 For GitLab B.V. employees in the Netherlands
     * 13.92 for GitLab B.V. employees in Belgium
     * 24 for GitLab Inc. and GitLab Federal employees in the United States
@@ -340,7 +340,7 @@ This section explains about processing payroll for US employees. The process sta
 
 **Payroll Changes**
 
-* A [Google sheet](https://docs.google.com/document/d/1Miljaad0sgibrublHr2Q3DBHGigndZa6mp0Zw9KzNf4/edit) is  shared from PeopleOps for payroll changes every paycheck date (varies based on [location](urhttps://about.gitlab.com/handbook/finance/payroll/#pay-datel)).
+* A [Google sheet](https://docs.google.com/document/d/1Miljaad0sgibrublHr2Q3DBHGigndZa6mp0Zw9KzNf4/edit) is  shared from PeopleOps for payroll changes every paycheck date (varies based on [location](ur/handbook/finance/payroll/#pay-datel)).
 * Information is entered into ADP using this Google Sheet by the Payroll Specialist, and reviewed by the Senior Manager, Global  Payroll and Payments. 
 * Entering [promotion details(salary and title change)](https://docs.google.com/document/d/1Rd6BEYDcRwGGcXlxcsTyFNmBmfQTSuzdTFuY6Ted6S4/edit).
 
@@ -371,7 +371,7 @@ This section explains about processing payroll for US employees. The process sta
 **Processing Payroll Benefits**
 
 * Benefits are processed by Lumity in the US. 
-* For specific information on benefits, please [click here](https://about.gitlab.com/handbook/total-rewards/benefits/) 
+* For specific information on benefits, please [click here](/handbook/total-rewards/benefits/) 
 * [Email](https://docs.google.com/document/d/167v2pRyP9gO-CFOW5JYFqpnL74nptgWsP9a5uPnFVpQ/edit) received from Lumity(Health insurance service provider) in a password protected benefits file.
 * Update any employee benefits information from the [file](https://docs.google.com/document/d/185HglkNFHClfccfwOO7vRZFuJYAC4xQRnT68bh8pBi8/edit) to ADP.
 * Payroll prepares the data into an [import template](https://docs.google.com/document/d/1V9K7mOFg9UCtvGbLkaPScbYBnNc5XtoXKioEIbrDTec/edit) for mass changes on ADP.
@@ -437,7 +437,7 @@ This section explains about processing payroll for US employees. The process sta
 This section explains about payroll processing for PEOs and contract employees (Non-US).
 
 **Payroll processing for NON-US entities, PEOs, and Contract employees** **(H2R.C.10, H2R.C.11, H2R.C.12, and H2R.C.13)**
-* The [payroll change report(s) Google Sheets](https://docs.google.com/document/d/1vK8KfN4EyDDk0KlzgECX3r-8kp_eDRv9oVO6RBYCB_0/edit) for all Non-US locations are received from People Ops per paycheck date (varies based on [location](urhttps://about.gitlab.com/handbook/finance/payroll/#pay-datel)).
+* The [payroll change report(s) Google Sheets](https://docs.google.com/document/d/1vK8KfN4EyDDk0KlzgECX3r-8kp_eDRv9oVO6RBYCB_0/edit) for all Non-US locations are received from People Ops per paycheck date (varies based on [location](ur/handbook/finance/payroll/#pay-datel)).
 * Enter in the [password for the sheet](https://docs.google.com/document/d/1hekX6aprj4tYxSXjdbefTyn9b6Lb8D-LKAKItpK2Xbs/edit) 
 * Verify if any [changes](https://docs.google.com/document/d/1-qT_jTMcujUzex7LSNAgHY24ec3h6805fTff2q3Zi5c/edit) have occurred in the location.
 * The [commission process](https://docs.google.com/document/d/1GdNsBIR0h2SDUsp-AKEcV4obVEF2ebgTfhU3X3wAt4g/edit) is the same as the US Payroll. Please “Processing Commissions” in the US Payroll.
@@ -462,12 +462,12 @@ This section explains about payroll processing for PEOs and contract employees (
   * The check is done to ensure that there is sufficient balance one day before the paycheck day.
 
   **Australia**<br>
-  Once approved, the Director - Corporate Controller will send a funding request to the AP team, and AP  will wire the payroll funding to IIPAY. **(H2R.C.14 and H2R.C.15)**. For more info [click here](urhttps://about.gitlab.com/handbook/finance/payroll/#peol).
+  Once approved, the Director - Corporate Controller will send a funding request to the AP team, and AP  will wire the payroll funding to IIPAY. **(H2R.C.14 and H2R.C.15)**. For more info [click here](ur/handbook/finance/payroll/#peol).
 
 
 **For payroll remittance of PEOs**
 
-* PEOs are paid through AP. The payroll change reports are shared with PEO, and the PEO will send out invoices after processing them. The invoices are sent to the Payroll Team, and after verification of the invoices, they are passed on to the AP team. **(H2R.C.14 and H2R.C.15)**. (For more info [click here.](https://about.gitlab.com/handbook/finance/payroll/#peo).
+* PEOs are paid through AP. The payroll change reports are shared with PEO, and the PEO will send out invoices after processing them. The invoices are sent to the Payroll Team, and after verification of the invoices, they are passed on to the AP team. **(H2R.C.14 and H2R.C.15)**. (For more info [click here.](/handbook/finance/payroll/#peo).
 * Verify the [invoice](https://docs.google.com/document/d/1RJRMHx4rLQ4qWNak7NGHdYNA4RusVgOFn7YtGfHS5CU/edit) sent by the PEO.
    * The PEOs will raise an invoice with the total amount and in some cases, the PEO will attach a detailed breakup per employee. The following are the PEOs that GitLab deals with and the types of invoices provided by them:
      * Safeguard - a high-level invoice with an attachment containing employee wise breakup is provided
@@ -479,7 +479,7 @@ This section explains about payroll processing for PEOs and contract employees (
 **For payroll remittance of contractors (H2R.C.09)**
 
 * GitLab has contractors in New Zealand and South Africa that are not attached to either a PEO or C2C organisation that are paid by AP directly based on invoices submitted by the contractors. Contractors attached to an organization (iiPay, CXC Global) are paid through  AP.
-* Contractors linked with iiPay, will raise their payroll invoices monthly to iiPay. iiPay in turn will collate all the invoices received from the contractors and submits a single invoice to GitLab on  Bamboo HR. iiPay is paid directly through the AP route to the bank account provided by iiPay on BambooHR. For more info [click here](https://about.gitlab.com/handbook/finance/payroll/#contractors).
+* Contractors linked with iiPay, will raise their payroll invoices monthly to iiPay. iiPay in turn will collate all the invoices received from the contractors and submits a single invoice to GitLab on  Bamboo HR. iiPay is paid directly through the AP route to the bank account provided by iiPay on BambooHR. For more info [click here](/handbook/finance/payroll/#contractors).
 * [Email reminders](https://docs.google.com/document/d/1s_G07CNbLR3XBoxyuOYud5Qr5u02PK8gba2N0Efo_X0/edit) are sent by Jr. Payroll Specialist to add salary invoice to Bamboo HR and expenses to Expensify **(H2R.C.13)**.
 * iiPay will upload the monthly invoice in [Bamboo HR](https://docs.google.com/document/d/1hmJnRpKZdAAjJBs5bW6XujjIeZsAB9R6UFdu_IgXj4Y/edit) for contractors link to it.
 * Expenses for contractors linked with iiPay are uploaded onto [Expensify](https://docs.google.com/document/d/1jW1QJtpcMQGhpEq31XLD8PvVQkA5hlJRUMsiVCyrQ1Q/edit) which is reviewed by the reporting managers and the expense specialist
@@ -613,8 +613,8 @@ This section describes the process for termination of employees for payroll proc
 - based on the confirmation of the employee has signed a severance agreement from the HR business Partner,  the Payroll team will process the final settlement outside of the payroll processing timelines and not through the payroll change report
  **(H2R.C.16)**. 
 * More information on the employee exit process can be found here:
-  * [Handbook link 1](https://about.gitlab.com/handbook/people-group/offboarding/)
-  * [Handbook link 2](https://about.gitlab.com/handbook/people-group/offboarding/offboarding_guidelines/#stq=offboarding)
+  * [Handbook link 1](/handbook/people-group/offboarding/)
+  * [Handbook link 2](/handbook/people-group/offboarding/offboarding_guidelines/#stq=offboarding)
   * To see an example Offboarding issue, please [click here](https://gitlab.com/gitlab-com/people-group/employment/blob/master/.gitlab/issue_templates/offboarding.md)
 
 

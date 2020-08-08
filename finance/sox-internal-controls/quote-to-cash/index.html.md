@@ -203,7 +203,7 @@ On finalizing an opportunity, a quote is created in Salesforce by the Sales pers
 
 -  Deal desk analyst to assign themselves to review the deal via the [“Deal Desk Analyst” opportunity field.](https://docs.google.com/document/d/1kUnoxCXcVBLgaMBjxk-j-8TXXFiTrBUrZQtQNrVVzn0/edit)
 
-- Deal desk analyst to review the opportunity for per the [attached list](https://about.gitlab.com/handbook/business-ops/order-processing/#deal-desk-approval-process).**(QTC.C.40)**
+- Deal desk analyst to review the opportunity for per the [attached list](/handbook/business-ops/order-processing/#deal-desk-approval-process).**(QTC.C.40)**
 
 - If the Deal Desk analyst approves the opportunity based on the above criteria, the “Approval Status” field will update to “Deal Desk Approved”. The opportunity will remain in stage “7. Closing,” but will route to the billing team for finance approval.
 
@@ -213,7 +213,7 @@ On finalizing an opportunity, a quote is created in Salesforce by the Sales pers
 
 - Once approved by Deal Desk, the opportunity field [“Approval Status” ](https://docs.google.com/document/d/1r8n01JXZlWEqEhqFMDBVFo4wN-YdHdi3GLPubCIy3OI/edit)will reflect “Deal Desk Approved” and the stage is still “7 - Closing”.
 
-- At this stage, Billing/Finance receives the notification in their [report](https://gitlab.my.salesforce.com/00O61000003iSpN).  (Refer [“Invoicing to customers”](https://about.gitlab.com/handbook/finance/sox-internal-controls/quote-to-cash/#6-invoicing-to-customers) for process on approval by Billing Team).
+- At this stage, Billing/Finance receives the notification in their [report](https://gitlab.my.salesforce.com/00O61000003iSpN).  (Refer [“Invoicing to customers”](/handbook/finance/sox-internal-controls/quote-to-cash/#6-invoicing-to-customers) for process on approval by Billing Team).
 
 - Once Deal Desk has reviewed and approved the transaction, Finance( Billing Team?) will review. If the opportunity is approved by Finance, the stage will update to “Closed Won” and the deal is officially booked. An approval email will be sent to the opportunity owner and a Slack message will appear in the “wins” channel and the "wins-key-deals" channel where applicable.
 
@@ -257,7 +257,7 @@ The prospective resellers and their evaluation and contracting statuses are trac
 
 - Evaluate the prospective reseller based on the [BEPIC methodology](https://docs.google.com/document/d/1LAgvpZwpy02pY2ZLa2yU6m2ZyZyj2eA6bOZq5yqV8b0/edit).
 
-- If the prospective reseller passes the reseller evaluation, share the draft of the reseller agreement by using the [Legal Request](https://docs.google.com/document/d/1cY7H2zi5Mr0FNrHqAdE7hcMlpr2pwN3bBfetGUj1sEM/edit) on the Salesforce account. The reseller, on accepting the terms in the agreement, signs the reseller agreement. The reseller agreement is approved per the approval policy and the [latest approval matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/). 
+- If the prospective reseller passes the reseller evaluation, share the draft of the reseller agreement by using the [Legal Request](https://docs.google.com/document/d/1cY7H2zi5Mr0FNrHqAdE7hcMlpr2pwN3bBfetGUj1sEM/edit) on the Salesforce account. The reseller, on accepting the terms in the agreement, signs the reseller agreement. The reseller agreement is approved per the approval policy and the [latest approval matrix](/handbook/finance/authorization-matrix/). 
 	
 - Update the account for the reseller in Salesforce.  Set the [Partner Status](https://docs.google.com/document/d/1sUrXhyRG5mYeyJqerVz-WdVkDalgKycB-h7QVIxp57Y/edit) to “authorized” to give the partner access to register deals in the Partner Portal. **(QTC.C.09)**
 
@@ -292,13 +292,13 @@ DEAL REGISTRATION INSTRUCTIONS FROM CHANNEL OPERATIONS:  https://docs.google.com
 
 - On submission of the deal registration form by the reseller, the registration details [auto-populate in the Google Sheets](https://docs.google.com/document/d/1yzxtQwZfuZKUK4PqEQ7pLzCQJc0tc2Gppm9qTjb1_hw/edit) maintained for tracking deal registrations. 
 
-- Create an opportunity in Salesforce for the deal registered.  (Refer [section 1](https://about.gitlab.com/handbook/finance/sox-internal-controls/quote-to-cash/#1-customer-account-management-and-conversion-of-lead-to-opportunity) for a process for opportunity creation)
+- Create an opportunity in Salesforce for the deal registered.  (Refer [section 1](/handbook/finance/sox-internal-controls/quote-to-cash/#1-customer-account-management-and-conversion-of-lead-to-opportunity) for a process for opportunity creation)
 
 - The deal is evaluated by the Sales team based on the [Deal registration approval workflow ]( https://drive.google.com/open?id=1hqjSGoXB8tOVumNYALYJ8exS4LueD6yy ).
 
 - The sales team also accordingly [updates the stage](https://docs.google.com/document/d/1Jp92yENGWsGdFz0gEWoC_3dm5QmJS-E9FG2ZBirpHmQ/edit) of the opportunity in Salesforce.
 
-- On finalizing the opportunity, the sales team also creates a quote in Salesforce with details of product/ service sold and sale value. (Refer [quote creation process](https://about.gitlab.com/handbook/finance/sox-internal-controls/quote-to-cash/#3-quote-creation))
+- On finalizing the opportunity, the sales team also creates a quote in Salesforce with details of product/ service sold and sale value. (Refer [quote creation process](/handbook/finance/sox-internal-controls/quote-to-cash/#3-quote-creation))
 
 
 The following additional details are to be updated for creating a quote for reseller:
@@ -313,7 +313,7 @@ The following additional details are to be updated for creating a quote for rese
 
 [Sample Reseller Quote](https://docs.google.com/document/d/1R7aRUa-1f7Os5A541Gr39OZM_y56VWvWRhuMFfWHllQ/edit)
 
-For further details, refer https://about.gitlab.com/handbook/resellers/#gitlab-quote
+For further details, refer /handbook/resellers/#gitlab-quote
    
    <br>
    

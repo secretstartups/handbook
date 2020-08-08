@@ -5,7 +5,7 @@ title: "Authorization Matrix"
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 For instruction on how to get approval to purchase goods or services see our [Procure to Pay Process](/handbook/finance/procure-to-pay/).
-For instruction on how to get Sales contracts countersigned, please our [order processing - obtaining signatures process](https://about.gitlab.com/handbook/business-ops/order-processing/#obtain-signatures)
+For instruction on how to get Sales contracts countersigned, please our [order processing - obtaining signatures process](/handbook/business-ops/order-processing/#obtain-signatures)
 
 ## Signing Legal Documents
 
