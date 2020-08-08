@@ -226,7 +226,7 @@ For more information on how to access Sanvello Premium if enrolled in a UHC medi
 
 * If you have symptoms of COVID-19 and have travelled to an affected country, you can call the Ministry of Health & Family Welfare, Government of India's helpline: 011-2397 8046. If you qualify for testing, they will direct you to a [government-approved lab](https://www.icmr.nic.in/). [For more information](https://www.mohfw.gov.in/).
 * Central Helpline Number for corona-virus: +91-11-23978046
-* [Helpline Numbers of States & Union Territories (UTs)](https://www.mohfw.gov.in/coronvavirushelplinenumber.pdf)
+* [Helpline Numbers of States & Union Territories (UTs)](https://www.mohfw.gov.in/pdf/coronvavirushelplinenumber.pdf)
 
 ### Ireland
 
