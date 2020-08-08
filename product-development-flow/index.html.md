@@ -43,7 +43,7 @@ Because this page needs to be concise and consistent, please ensure to follow th
 
 ### Issue descriptions as the SSOT
 
-Issue descriptions should always be maintained as the single source of truth. It's not [efficient](https://about.gitlab.com/handbook/values/#efficiency) for contributors to need to read through every comment in an issue to understand the current state.
+Issue descriptions should always be maintained as the single source of truth. It's not [efficient](/handbook/values/#efficiency) for contributors to need to read through every comment in an issue to understand the current state.
 * When transitioning an issue out to a new workflow stage, the department named in the "Who Transitions Out" column is responsible for updating the issue description.
 
 ## Validation track  
@@ -76,7 +76,7 @@ If we don't have confidence in the MVC or what success looks like, we should con
 
 One of the primary artifacts of the validation track is the Opportunity Canvas. The Opportunity Canvas introduces a lean product management philosophy to the validation track by quickly iterating on level of confidence, hypotheses, and lessons learned as the document evolves.  At completion, it serves as a concise set of knowledge which can be transferred to the relevant issues and epics to aid in understanding user pain, business value, and the constraints to a particular problem statement. Just as valuable as a completed Opportunity Canvas is an incomplete one. The tool is also useful for quickly invalidating ideas. A quickly invalidated problem is often **more valuable** than a slowly validated one.
 
-Please note that an opportunity canvas is not required for product functionality or problems that already have well-defined [jobs to be done (JTBD)](https://about.gitlab.com/handbook/engineering/ux/ux-resources/#jobs-to-be-done-jtbd). For situations where we already have a strong understanding of the problem and its solution, it is appropriate to skip the opportunity canvas and proceed directly to solution validation. It might be worth creating an opportunity canvas for existing features in the product to test assumptions and current thinking, although not required. 
+Please note that an opportunity canvas is not required for product functionality or problems that already have well-defined [jobs to be done (JTBD)](/handbook/engineering/ux/ux-resources/#jobs-to-be-done-jtbd). For situations where we already have a strong understanding of the problem and its solution, it is appropriate to skip the opportunity canvas and proceed directly to solution validation. It might be worth creating an opportunity canvas for existing features in the product to test assumptions and current thinking, although not required. 
 
 **References**:
 * [Opportunity Canvas Template](https://docs.google.com/document/d/1pTEMcwH10xWilQEnVc65oC6PdC3VMjn2XoARfNTaHkc/edit#)
@@ -129,8 +129,8 @@ To run the problem validation process:
 1. [Product Manager, Product Designer, and UX Researcher](/handbook/engineering/ux/ux-research/#ux-research-at-gitlab) meet to discuss the appropriate research methodology, timescales, and user recruitment needs. 
 
 1. The next steps in the process depend on the research methodology chosen. Regardless of the methodology chosen, PM and UX Researcher execute the research study together. If available, the Product Designer can help. It is beneficial to also invite Engineers to shadow the research study. This can help the team broadly understand existing user behaviors.
-	- [Follow the process for user interviews](https://about.gitlab.com/handbook/engineering/ux/ux-research/#for-user-interviews)
-	- [Follow the process for surveys](https://about.gitlab.com/handbook/engineering/ux/ux-research/#for-surveys)
+	- [Follow the process for user interviews](/handbook/engineering/ux/ux-research/#for-user-interviews)
+	- [Follow the process for surveys](/handbook/engineering/ux/ux-research/#for-surveys)
 
 1. PM finalizes the opportunity canvas with the synthesized feedback and reviews it with the Product Designer.
 
@@ -163,13 +163,13 @@ To run the solution validation process:
 
 1. Product Designer creates a new issue using the `Solution validation` template in the [GitLab UX Research project](https://gitlab.com/gitlab-org/ux-research). The issue will automatically apply the `~"workflow::solution validation"` label. Link the associated Opportunity Canvas and design-related issues. Assign the new issue to yourself, the PM, and the Product Design Manager.
 
-1. PM and Product Designer review the goals and research questions to determine the best [research method](https://about.gitlab.com/handbook/engineering/ux/ux-research/#solution-validation) to use.  It's critical to determine this early, because the method dictates what kinds of design assets to use, and it influences criteria for the screening survey.
+1. PM and Product Designer review the goals and research questions to determine the best [research method](/handbook/engineering/ux/ux-research/#solution-validation) to use.  It's critical to determine this early, because the method dictates what kinds of design assets to use, and it influences criteria for the screening survey.
 
 1. PM and Product Designer discuss user recruitment needs and clarify the research study's goals, research questions, and hypotheses. Once a draft is complete, the Product Design Manager reviews and provides feedback.
 
 1. Product Designer begins crafting a screening survey in Qualtrics. 
 
-    *Note: It's important to complete the screening survey in a timely manner, so that user recruitment can quickly begin. In most cases, user recruitment should begin before the test plan is complete.  Learn more about the [screening process](https://about.gitlab.com/handbook/engineering/ux/ux-research-coordination/#how-many-studies-can-a-coordinator-support-per-milestone) to understand what happens once the request is made.*
+    *Note: It's important to complete the screening survey in a timely manner, so that user recruitment can quickly begin. In most cases, user recruitment should begin before the test plan is complete.  Learn more about the [screening process](/handbook/engineering/ux/ux-research-coordination/#how-many-studies-can-a-coordinator-support-per-milestone) to understand what happens once the request is made.*
 
 1. Product Designer creates a `recruitment request` issue in the [GitLab UX Research project](https://gitlab.com/gitlab-org/ux-research) using the available issue template. Assign it to the relevant Research Coordinator.
 
@@ -237,11 +237,11 @@ You can view all the work in happening in this track [on this board](https://git
 
 ## Build track  
 
-The build track is where we plan, develop, and deliver value to our users by building [MVCs](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc), fixing defects, patching security vulnerabilities, enhancing user experience, and improving performance. DRIs across engineering disciplines involving [Design, Backend, Frontend and Quality](https://about.gitlab.com/handbook/product/product-processes/#pm-em-ux-and-set-quad-dris) work closely together to implement MVCs while in close collaboration with the Product Manager. Decisions are made quickly if challenges arise. We make sure to instrument [usage](/handbook/product/product-processes/#instrumentation-for-gitlabcom/) and performance measurements, so once MVCs are delivered to the hands of customers, feedback is captured quickly for learnings to refine the next iteration.
+The build track is where we plan, develop, and deliver value to our users by building [MVCs](/handbook/product/product-principles/#the-minimal-viable-change-mvc), fixing defects, patching security vulnerabilities, enhancing user experience, and improving performance. DRIs across engineering disciplines involving [Design, Backend, Frontend and Quality](/handbook/product/product-processes/#pm-em-ux-and-set-quad-dris) work closely together to implement MVCs while in close collaboration with the Product Manager. Decisions are made quickly if challenges arise. We make sure to instrument [usage](/handbook/product/product-processes/#instrumentation-for-gitlabcom/) and performance measurements, so once MVCs are delivered to the hands of customers, feedback is captured quickly for learnings to refine the next iteration.
 
 ### Build Goals & Outcomes
 
-**When:** As we build MVCs according to our [product development timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline)
+**When:** As we build MVCs according to our [product development timeline](/handbook/engineering/workflow/#product-development-timeline)
 
 **Who:** Product Manager, Product Designer, Engineers, Software Engineers in Test
 
@@ -374,4 +374,4 @@ The Product Operations DRI will make sure alignment happens with the following s
 1. [VP of UX](https://about.gitlab.com//company/team/#clenneville)
 1. [VP of Development](https://about.gitlab.com//company/team/#clefelhocz1)
 1. [Director of Quality Engineering](https://about.gitlab.com//company/team/#meks)
-1. [Product Leadership Team](https://about.gitlab.com/handbook/product/product-leadership/#product-leadership-team-structure)
+1. [Product Leadership Team](/handbook/product/product-leadership/#product-leadership-team-structure)
