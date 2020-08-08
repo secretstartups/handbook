@@ -339,7 +339,7 @@ We have the following deadlines:
 - By month `M, 17th`:
   - Completed `m` issues with docs have been merged into master.
   - Feature flags should be flipped from default off to default on after verification to be in the `m` release. See [feature flags](https://docs.gitlab.com/ee/development/feature_flags/process.html).
-  - Merging by the 17th **does not guarantee** that the feature will be in the `m` release. See [release timelines](https://about.gitlab.com/handbook/engineering/releases/#timelines).
+  - Merging by the 17th **does not guarantee** that the feature will be in the `m` release. See [release timelines](/handbook/engineering/releases/#timelines).
   - Individual [release post entries](/handbook/marketing/blog/release-posts/index.html#contribution-instructions) merged for all relevant issues.
   - By end of the day, milestone `m` is expired.
 - On or around `M, 19th`:
@@ -436,7 +436,7 @@ The milestone cleanup is currently applied to the [following groups and projects
 * [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa), [schedule](https://gitlab.com/gitlab-org/quality/triage-ops/pipeline_schedules/29050/edit)
 * [Omnibus GitLab](https://gitlab.com/gitlab-org/omnibus-gitlab), [schedule](https://gitlab.com/gitlab-org/quality/triage-ops/pipeline_schedules/31880/edit) (only moving milestone for now, not labelling)
 
-Milestones closure is in the remit of [the Delivery team](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery/). At any point in time a release might need to be created for an active milestone,and once that is no longer the case, the Delivery team closes the milestone.
+Milestones closure is in the remit of [the Delivery team](/handbook/engineering/infrastructure/team/delivery/). At any point in time a release might need to be created for an active milestone,and once that is no longer the case, the Delivery team closes the milestone.
 
 ### Milestone cleanup schedule
 
@@ -454,7 +454,7 @@ Milestones are closed when the Delivery team no longer needs to create a backpor
 
 ## Kickoff and Retrospective Public Stream Instructions
 
-Both the monthly kickoff and retrospective meetings are publicly streamed to the [GitLab Unfiltered YouTube Channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A?view_as=subscriber). The [EBA](https://about.gitlab.com/job-families/people-ops/executive-business-administrator/) for Engineering is the [moderator](https://about.gitlab.com/handbook/people-group/group-conversations/#moderator) and responsible for initiating the Public Stream or designating another moderator if EBA is unable to attend. 
+Both the monthly kickoff and retrospective meetings are publicly streamed to the [GitLab Unfiltered YouTube Channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A?view_as=subscriber). The [EBA](https://about.gitlab.com/job-families/people-ops/executive-business-administrator/) for Engineering is the [moderator](/handbook/people-group/group-conversations/#moderator) and responsible for initiating the Public Stream or designating another moderator if EBA is unable to attend. 
 
 
 ## Use Group Labels and Group Milestones
@@ -523,7 +523,7 @@ Not everything is urgent. See below for a non-exclusive list of things that are 
 ## Availability and Performance Refinement
 
 To timely address high impact availability and performance issues, a weekly refinement session is held by the Infrastructure, Development, and QE teams jointly to triage issues for prioritization and planning with the Product team.
-A high impact issue has a direct measurable impact on GitLab.com [service levels or error budgets](https://about.gitlab.com/handbook/engineering/infrastructure/library/service-levels-error-budgets/).
+A high impact issue has a direct measurable impact on GitLab.com [service levels or error budgets](/handbook/engineering/infrastructure/library/service-levels-error-budgets/).
 
 ### Scope
 
