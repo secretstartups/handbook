@@ -725,7 +725,7 @@ In preparation for guests (customers, investors, etc.) who will be meeting with 
 1. Get the glasses from the cupboard above the coffee machine and place them next to the drink tray.
 1. Add the Brita water pitcher on the table.
 1. Place the keyboard and the mouse (used for Mission Control screens) on the table.
-1. Ensure that all 6 monitors are displaying the [correct content](/handbook/ceo/shadow/#mission-control-device-setup). If any of the screens are blank, follow the [trouble-shooting instructions](/handbook/ceo/shadow/#troubleshooting-the-tv-screens).
+1. Ensure that all 6 monitors are displaying the [correct content](/handbook/ceo/shadow/#mission-control-device-setup). If any of the screens are blank, follow the [trouble-shooting instructions](/handbook/ceo/shadow/#troubleshooting-the-monitors).
 1. For investor or banker meetings, see the [confidential issue](https://gitlab.com/gitlab-com/ceo-shadow/tasks/issues/50) with more details on preparations.
 1. If someone is attending a meeting at Mission Control via [Zoom Rooms](#zoom-room):
     1. Follow the setup steps for [Zoom Rooms](#zoom-room).
