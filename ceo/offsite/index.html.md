@@ -103,7 +103,7 @@ One of the ways we do this is by asking participants to do prep work ahead of ti
 Examples of prep work include: 
 * [Reading the Book that was selected](/handbook/ceo/offsite/#book-choice)
 * Executives working with their People Business Partners to prep the [Performance/Potential Matrics of their direct reports](/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix)
-* Executives working with their People Business Partners to prep any [Director + promotion nominations](https://about.gitlab.com/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process) 
+* Executives working with their People Business Partners to prep any [Director + promotion nominations](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process) 
 * Reviewing any Section Direction Materials for reviews, such as the [Growth Section's Direct](/direction/growth/)
 
 Anyone who is presenting for a topic should share materials with the prep work. 
@@ -207,7 +207,7 @@ Live streaming will further engage team members while promoting trust in leaders
 When not possible for logistical reasons, we aim to have an AMA the first business day after the offsite with the executives on the book. 
 This also allows team members to engage in the book.
 
-Employees may [expense](https://about.gitlab.com/handbook/spending-company-money/#expenses) E-Group offsite book selections.
+Employees may [expense](/handbook/spending-company-money/#expenses) E-Group offsite book selections.
 
 Books that the E-Group finds noteworthy should be added to the [Leadership Books](/handbook/leadership/#books).
 

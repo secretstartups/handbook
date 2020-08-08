@@ -492,7 +492,7 @@ Also see [fork and commoditize](/handbook/leadership/biggest-risks/#fork-and-com
 
 **A customer asked why merge request approvals where not included in core:**
 
-> Thanks for asking. We think that managers are more likely to care about merge requests approvals than individual contributors. That doesn't mean that individual contributors don't care about them. And it doesn't mean that in all cases managers care more, just in most cases.  For more information please see our Buyer Based Open Core model: [https://about.gitlab.com/handbook/ceo/pricing/#buyer-based-open-core](https://about.gitlab.com/handbook/ceo/pricing/#buyer-based-open-core).
+> Thanks for asking. We think that managers are more likely to care about merge requests approvals than individual contributors. That doesn't mean that individual contributors don't care about them. And it doesn't mean that in all cases managers care more, just in most cases.  For more information please see our Buyer Based Open Core model: [/handbook/ceo/pricing/#buyer-based-open-core](/handbook/ceo/pricing/#buyer-based-open-core).
 
 ## If a feature can be moved down do it quickly
 
