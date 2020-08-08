@@ -27,7 +27,7 @@ macOS 10.13.6 or later
 
 Ubuntu 14.04 LTS or later is recommended by GitLab, however we only require you run an actively updated and supported Linux disto or BSD flavour. It will be your responsibility to maintain your Linux environment.
 
-Further details are available at the [Linux Tools & Tips](https://about.gitlab.com/handbook/tools-and-tips/linux/) page.
+Further details are available at the [Linux Tools & Tips](/handbook/tools-and-tips/linux/) page.
 
 ### Android
 
@@ -39,7 +39,7 @@ iOS 10.3.4 or later
 
 ### Windows
 
-As described in the [Acceptable Use Policy](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/#unable-to-use-company-laptop), Microsoft Windows operating systems are not allowed. If you have a legitimate business need to use a Windows operating system, please see the [Exception Process](#exception-process).
+As described in the [Acceptable Use Policy](/handbook/people-group/acceptable-use-policy/#unable-to-use-company-laptop), Microsoft Windows operating systems are not allowed. If you have a legitimate business need to use a Windows operating system, please see the [Exception Process](#exception-process).
 
 ## Access Change Schedule
 
@@ -55,4 +55,4 @@ Users of Android 7.1.1 or older will be notified and required to upgrade to a su
 
 Exception requests may be submitted to the [Security Compliance Team](https://gitlab.com/gitlab-com/gl-security/compliance/compliance/issues) using the [Exception template](https://gitlab.com/gitlab-com/gl-security/compliance/compliance/blob/master/.gitlab/issue_templates/Exception%20Request.md). Security Compliance and Security Operations will review requests as they come in.
 
-Further information about the Exception Management process is available in the [GitLab Handbook](https://about.gitlab.com/handbook/engineering/security/#information-security-policy-exception-management-process)
+Further information about the Exception Management process is available in the [GitLab Handbook](/handbook/engineering/security/#information-security-policy-exception-management-process)
