@@ -24,7 +24,7 @@ You can reach out to the Legal Team on the *[`#legal`](https://gitlab.slack.com/
 **Please do not share confidential information on Slack that is not meant for the entire company to see, and do not use it to seek legal advice.**
 
 ### 2. Requests with Deliverables
-If you are making a request that requires some sort of deliverable, please use the list below to determine how you should reach out. If you are unsure where your non-Slack request fits, refer to [no. 6 below](https://about.gitlab.com/handbook/legal/#6-other-legal-requests). 
+If you are making a request that requires some sort of deliverable, please use the list below to determine how you should reach out. If you are unsure where your non-Slack request fits, refer to [no. 6 below](/handbook/legal/#6-other-legal-requests). 
 
 ## Requesting Legal Services
  
@@ -32,7 +32,7 @@ How do I request the services I need?
 
 ### 1. Internal Ethics and Compliance Reporting (Anonymous)
 
-We take employee concerns very seriously and encourage all GitLab team members to report any ethics and/or compliance violations by using Lighthouse. Futher details are found on the [People Ops Handbook page](https://about.gitlab.com/handbook/people-group/code-of-conduct/#how-to-contact-gitlabs-24-hour-hotline).
+We take employee concerns very seriously and encourage all GitLab team members to report any ethics and/or compliance violations by using Lighthouse. Futher details are found on the [People Ops Handbook page](/handbook/people-group/code-of-conduct/#how-to-contact-gitlabs-24-hour-hotline).
 
 ### 2. Privileged / Confidential Communications
 If you have a request that involves confidential and/or sensitive information, including related to other GitLab team members, please e-mail legal@gitlab.com.  
@@ -41,7 +41,7 @@ For more information on Attorney-Client Privilege, see the [General Topics and F
 
 ### 3. Customer Related Contracts and Questions
 
-* All questions / requests for the legal team regarding Customer related matters are to follow the process stated [here](https://about.gitlab.com/handbook/business-ops/order-processing/#process-for-agreement-terms-negotiations-when-applicable-and-contacting-legal) 
+* All questions / requests for the legal team regarding Customer related matters are to follow the process stated [here](/handbook/business-ops/order-processing/#process-for-agreement-terms-negotiations-when-applicable-and-contacting-legal) 
 * The legal team uses Contract Requests to track and manage all incoming requests. 
  
 A presentation overview of the process to engage GitLab Legal can be found [HERE](https://docs.google.com/presentation/d/1lesWNvPAFd1B3RuCgKsqQlE85ZEwLuE01QpVAKPhQKw/edit#slide=id.g5d6196cc9d_2_0)

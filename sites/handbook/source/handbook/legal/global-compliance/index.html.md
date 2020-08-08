@@ -59,7 +59,7 @@ There are three primary categories of company secrets discussed here:
 * Confidential Information
 * Personally Identifiable Information 
 
-Collectively, these things are classified as [RED in our Data Classification Policy](https://about.gitlab.com/handbook/engineering/security/data-classification-policy.html#red).  The “Red” designation is for the most sensitive, restricted business information that requires heightened internal controls by limiting access to only those authorized individuals with a need-to-know. 
+Collectively, these things are classified as [RED in our Data Classification Policy](/handbook/engineering/security/data-classification-policy.html#red).  The “Red” designation is for the most sensitive, restricted business information that requires heightened internal controls by limiting access to only those authorized individuals with a need-to-know. 
 
 **Trade Secrets** are those extra bits of information that set our company apart.  It’s that stuff that is so cutting edge that we don’t even want to get a patent on it for fear of letting others know the technology.  If you patent something, the secret ingredients are laid out for the world to see like some crazy technological recipe. Competitors quickly mobilize for comparable product offerings.  But where there is a trade secret, competitors are left in the dark. However, once you release a trade secret – there is no protection.  It is all out there for the world to exploit; this is why we have employees sign non-disclosures. 
 
@@ -70,7 +70,7 @@ Other secrets include **Personally Identifiable Information (PII)**.  This is an
 * Personal Credit Information (PCI) which includes credit card information
 * Personally Identifiable Financial Information (PIFI) which includes banking information, account numbers, and account information
 
-How do you protect PII?  Consider the guidelines in the [Data Classification Policy](https://about.gitlab.com/handbook/engineering/security/data-classification-policy.html) and apply it to all of the PII listed above.
+How do you protect PII?  Consider the guidelines in the [Data Classification Policy](/handbook/engineering/security/data-classification-policy.html) and apply it to all of the PII listed above.
 
 Unauthorized disclosure of Red, restricted information, could cause serious adverse impact to GitLab, its clients, business partners, and suppliers. All GitLab team members work to ensure proper protection for all data classified as Red.  
 
@@ -100,7 +100,7 @@ Recently, the European Union, under the General Data Protection Regulations, req
 
 While the legal requirements may seem cumbersome, the need is quite apparent. A DPIA ensures all the necessary controls are in place to cover your most important assets - personal information.
 
-For more information, check out GitLab's [DPIA Policy](https://about.gitlab.com/handbook/engineering/security/dpia-policy/)
+For more information, check out GitLab's [DPIA Policy](/handbook/engineering/security/dpia-policy/)
 
 ### DPIA General FAQ
 
