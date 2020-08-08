@@ -21,12 +21,12 @@ The guidelines below describe what people in our team commonly expense. Some of 
 1. If you make a purchase that will cost GitLab $1000 USD per item (or over), this is classed as company property, you will be required to return the item(s) if you leave the company.
 1. Employees: file your expense report in the same month that you made the purchase in.  Please combine multiple expenses on one report if possible. Contractors: include receipts with your invoices.
 1. Any non-company expenses paid with a company credit card will have to be reported to your manager as soon as possible and **refunded** in full within 14 days.
-2. If team members submit expenses for reimbursement, on either on the company credit card or via their personal credit card, for personal purchases that are not covered in the expense policy, this is a violation of our [code of conduct](https://about.gitlab.com/handbook/people-group/code-of-conduct/#maintain-accurate-financial-records--internal-accounting-controls).  
+2. If team members submit expenses for reimbursement, on either on the company credit card or via their personal credit card, for personal purchases that are not covered in the expense policy, this is a violation of our [code of conduct](/handbook/people-group/code-of-conduct/#maintain-accurate-financial-records--internal-accounting-controls).  
 
 
 ## Expense Policy
 
-1. Max Expense Amount - [$5,000 USD](/handbook/total-rewards/compensation/#exchange-rates) - NOTE - If you are a corporate credit card holder, please refer to the [corporate credit card policy section](https://about.gitlab.com/handbook/finance/accounting/#credit-card-use-policy) for those specific instructions and thresholds.
+1. Max Expense Amount - [$5,000 USD](/handbook/total-rewards/compensation/#exchange-rates) - NOTE - If you are a corporate credit card holder, please refer to the [corporate credit card policy section](/handbook/finance/accounting/#credit-card-use-policy) for those specific instructions and thresholds.
 1. Receipt Required Amount - [$25 USD](/handbook/total-rewards/compensation/#exchange-rates)
 1. Expenses must be submitted within 90 days of purchase.
 
@@ -73,7 +73,7 @@ Slack channel
 ## Laptops
 
 1. The [IT Ops](/handbook/business-ops/team-member-enablement/onboarding-access-requests/#laptops) page outlines laptop purchasing for new hires and for repairs and EOL for existing employees.
-1. Laptops paid for by the company are property of GitLab and need to be reported with serial numbers, make, model, screen size and processor to IT Ops by adding it to this form: [GitLab laptop information](https://docs.google.com/forms/d/e/1FAIpQLSeUOlP11qeLdLZHTI62CFr7MSHAoI_1M6CRpnUA6fegkEKCOQ/viewform) for proper [asset tracking](/handbook/finance/accounting/#fixed-asset-register-and-asset-tracking). Since these items are company property, you do not need to buy insurance for them unless it is company policy to do so (for example, at the moment we do not purchase Apple Care). You do need to report any loss following [Lost or Stolen Procedures](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/#lost-or-stolen-procedures) or damage to IT Ops as soon as it occurs.
+1. Laptops paid for by the company are property of GitLab and need to be reported with serial numbers, make, model, screen size and processor to IT Ops by adding it to this form: [GitLab laptop information](https://docs.google.com/forms/d/e/1FAIpQLSeUOlP11qeLdLZHTI62CFr7MSHAoI_1M6CRpnUA6fegkEKCOQ/viewform) for proper [asset tracking](/handbook/finance/accounting/#fixed-asset-register-and-asset-tracking). Since these items are company property, you do not need to buy insurance for them unless it is company policy to do so (for example, at the moment we do not purchase Apple Care). You do need to report any loss following [Lost or Stolen Procedures](/handbook/people-group/acceptable-use-policy/#lost-or-stolen-procedures) or damage to IT Ops as soon as it occurs.
 1.  **Repairs to company issued equipment.**
     * If you need to replace a battery or something small that does not affect the productivity or speed of the device, please go ahead and get that small item replaced and expensed.
     * Please get approval from your Manager if your equipment appears to be damaged, defective, or in need of repair. Business Operations can advise on next steps to ensure you have the proper equipment to work.
