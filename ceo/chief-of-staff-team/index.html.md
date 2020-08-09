@@ -214,9 +214,11 @@ When Geekbot asks, "What will you do today?" try answering with specific details
 Give responses to Geekbot that truly communicate to your team what you're working on that day, so that your team can help you understand if some priority has shifted or there is additional context you may need.
 
 ## Chief of Staff Shadow
+
 The Chief of Staff may occasionally have a Chief of Staff Shadow, a GitLab team member who will participate in a specific project or initiative for a fixed period of time. Shadow responsibilities could include: taking notes, providing feedback, and/or supporting the overall initiative success. This role would be in addition to any existing responsibilities at GitLab. Participants would opt in to experience another function within GitLab and contribute to a different part of the business. Since participation would be in addition to an existing workload, managers must sign off before a CoS Shadow can participate. Interested team members can share their interest with the Chief of Staff.
 
 ## Resources on the CoS Role
+
 * [The Unrepentent Generalist: How to Be a Great Chief of Staff in Tech](http://www.nehrlich.com/blog/2019/10/31/how-to-be-a-great-chief-of-staff-in-tech/)
 * [NYT: Hail to the Chief of Staff](https://www.nytimes.com/2019/11/07/style/what-does-a-chief-of-staff-do.html)
 * 2020 March: [Chief of Staff in the Tech Industry](https://medium.com/@alexismonville/chief-of-staff-in-the-tech-industry-c7dc3a43dae6)
@@ -232,10 +234,11 @@ The Chief of Staff may occasionally have a Chief of Staff Shadow, a GitLab team 
 * [HBR: The Case for a Chief of Staff](https://hbr.org/2020/05/the-case-for-a-chief-of-staff)
 
 ## Sample list of things
+
 1. Apples
 1. Bears
 1. Bananas
-1. Giraffess
+1. Giraffes
 1. Oranges
 1. Zebras
 1. Dragon fruit
