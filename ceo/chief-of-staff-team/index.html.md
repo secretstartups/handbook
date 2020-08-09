@@ -18,10 +18,9 @@ description: "GitLab CoS Team Handbook"
 ## Quick Links and Fun Facts
 * [Chief of Staff Job Family](/job-families/chief-executive-officer/chief-of-staff/)
 * [Internal Strategy Consultant Job Family](/job-families/chief-executive-officer/internal-strategy-consultant/)
-* [Project](https://gitlab.com/gitlab-com/cos-team/)
 * CoS = Chief of Staff
 * CoST = Chief of Staff Team
-* [Project](https://gitlab.com/gitlab-com/cos-team/)
+* [Project](https://gitlab.com/gitlab-com/chief-of-staff-team/cos-team)
 
 ## Contact Us
 * [chief-of-staff-team](https://gitlab.slack.com/archives/CN7MPDZF0/p1568035351000200) on Slack
