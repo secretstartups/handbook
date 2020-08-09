@@ -145,6 +145,14 @@ More details about this are on the [Timeline](/handbook/customer-success/tam/gai
 
 Learn more about what a success plan is, why it's useful to both TAMs and customers, and how to create a [success plan in Gainsight](/handbook/customer-success/tam/success-plans/).
 
+## Sally the Slack Bot 
+Sally is an AI powered Slack bot that allows you to log customer calls, update customer data, provide information on health scoring, current risks, and opportunities. While only Gainsight users can make inquiries with Sally, if she is in the channel then the information she shares is visable to everyone in channel. When updating account information, be sure that you select the correct account. Some larger organizations can have multiple entries in SalesForce. Updates should be available immediately in Gainsight. 
+
+* [Suggested queries](https://support.gainsight.com/Gainsight_NXT/Sally_AI_Bot/FAQ/Sally_FAQs#What_queries_can_I_ask_Sally_today.3F)
+* [Post to Timeline[(https://support.gainsight.com/Gainsight_NXT/Sally_AI_Bot/User_Guides/Using_Gainsight_Sally_in_Slack_(For_End-user)#Post_to_Customer_Timeline)
+   * Note: you can only do this in a DM with Sally, not channels
+   * at-mention Gainsight Sally about a customer in a public channel for a specific customer (Sally needs to be _in_ that channel as a guest)
+
 ## Referenceable Customers
 
 The `Referenceable Customers` field on the C360 Attributes section highlights [if a customer is a Referenceable Customer](/handbook/marketing/product-marketing/customer-reference-program/index.html#customer-reference-program-at-gitlab). If a Customer is *not* a Referenceable Customer and they would make a great one, follow the process to [Nominate a Reference Customer](/handbook/marketing/product-marketing/customer-reference-program/#process-for-adding-new-reference-customers).
