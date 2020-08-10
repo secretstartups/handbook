@@ -11,7 +11,6 @@ Pages to read for more information:
 * [Schedules](schedules.html)
 * [SLA Policies](slas.html)
 * [Tags](tags.html)
-* [Ticket Forms](ticket_forms.html)
 * [Tickets](tickets.html)
 * [Users](users.html)
 
@@ -64,6 +63,17 @@ should all fire during the same time period though
 
 Instead of managing these via Zendesk itself, we instead us the
 [Zendesk Automations](https://gitlab.com/gitlab-com/support/support-ops/zendesk-automations)
+GitLab project. This allows us to have version-controlled automations. See the
+project for more details.
+
+## Ticket Forms and Ticket Fields
+
+Ticket forms are the forms utilized by the user to create tickets (when using
+the web UI). These then translate the responses on the form into ticket
+metadata.
+
+Instead of managing these via Zendesk itself, we instead us the
+[Zendesk Ticket Forms and Fields](https://gitlab.com/gitlab-com/support/support-ops/zendesk-ticket-forms-and-fields )
 GitLab project. This allows us to have version-controlled automations. See the
 project for more details.
 
