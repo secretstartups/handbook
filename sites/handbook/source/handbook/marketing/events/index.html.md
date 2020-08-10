@@ -11,6 +11,8 @@ title: "GitLab Event Information"
 
 # Events at GitLab
 
+**This page outlines details for in-person events. For virtual event information, please visit the [Virtual Events Page](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/).**
+
 There are 3 groups within marketing who handle external events. Each group has a specific purpose. Please review each page for specific details.
 
 * [Community Relations](/handbook/marketing/community-relations/evangelist-program/)
