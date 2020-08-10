@@ -86,10 +86,10 @@ When the conversation moves into a highly technical space, these questions can h
 
 ## Five Whys
 
-Frequently when talking to our champion or their team, the things they will tell you they’re focused on are operational or technical concerns, but aren’t strategic business outcomes. These are some useful follow-up questions you can ask to push the conversation towards strategic objectives.
+Frequently when talking to our champion or their team, the things they will tell you they’re focused on are operational or technical concerns, but aren’t strategic business outcomes. One technique that can be used is the [5 Whys](https://en.wikipedia.org/wiki/Five_whys#:~:text=Five%20whys%20(or%205%20whys,basis%20of%20the%20next%20question.). The basic overview of this technique is that when a customer tells you a focus or goal, you can get to the strategic objectives behind this focus why asking 'help me better understand why that focus is important?' or something along these lines.  On average, asking a 'dig deeper' question takes 5 'rounds' as such before you get to the core problem, or in our case strategic initiative.
 
-- “Is there a larger organizational objective driving that?”
-- “How does that tie into other company objectives?”
-- “What impact will this have on your company’s overall strategy?”
-- “How will you measure that? How does it relate to larger organizational metrics?”
-- “What’s the primary motivation for doing that?”
+For example:
+TAM: As we enter in to the second half of this year, would you please help me to better understand what your key focus is?
+Customer: My primary focus is setting up a HA infrastucutre
+TAM: Great! Would you please help me for my understanding what current challenges you are looking to solve for with HA?
+Customer: 
