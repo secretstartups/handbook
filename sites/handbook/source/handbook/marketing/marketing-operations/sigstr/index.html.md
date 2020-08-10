@@ -13,6 +13,14 @@ title: "Sigstr"
 
 Sigstr is a marketing tool used as an advertising channel inside the inbox. 
 
+## Training
+
+1. [Sigstr overview video](https://help.sigstr.com/en/articles/1626095-sigstr-overview-video)
+1. [Application training tutorial](https://help.sigstr.com/en/articles/2545315-sigstr-application-training-tutorial)
+1. [ABM video tutorial](https://help.sigstr.com/en/articles/1118019-abm-video-tutorial)
+1. [Dynamic campaigns tutorial](https://help.sigstr.com/en/articles/1118024-dynamic-campaigns-tutorial)
+1. [Groups video tutorial](https://help.sigstr.com/en/articles/1118058-groups-video-tutorial)
+
 ## Account Settings
 
 ### Admin 
@@ -75,8 +83,18 @@ Configure your account to clear out Sigstr's store of recipient data on regular 
 - Job title
 - Email address
 
-## Banner ad image best practices
+## Best practices
 
- The image will be constrained to half the size to ensure high density of pixels. Use the same banner ad size for all campaigns.
+1. [Campaign design guidelines](https://help.sigstr.com/en/articles/1117946-campaign-design-guidelines)
+1. [Campaign use cases](https://help.sigstr.com/en/articles/1641514-campaign-use-cases)
+1. [Campaign best practices](https://help.sigstr.com/en/articles/1638530-campaign-best-practices)
+1. [GIF best practices](https://help.sigstr.com/en/articles/1638798-gif-best-practices)
+1. [Internal use cases](https://help.sigstr.com/en/articles/1638968-internal-use-cases)
+1. [Signature design guidelines](https://help.sigstr.com/en/articles/1117943-signature-design-guidelines)
+1. [Signature best practices](https://help.sigstr.com/en/articles/1638563-signature-best-practices)
+
+### Banner ad image best practices
+
+The image will be constrained to half the size to ensure high density of pixels. Use the same banner ad size for all campaigns.
 
 - 600-900 pixels wide x 120-240 pixels tall
