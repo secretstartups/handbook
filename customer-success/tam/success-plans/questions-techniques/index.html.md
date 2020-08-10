@@ -17,17 +17,17 @@ The questions and techniques described on this page will provide you with some w
 
 ## “Where do we go from here?”
 
-The simplest and most open-ended approach to starting a conversation about stage adoption, growth, and strategic objectives is something to the effect of:
+The most straightforward and open-ended approach to starting a conversation about stage adoption, growth, and strategic objectives is something to the effect of:
 
-> “So I know right now you’re using [stages in use, such as SCM, CI, etc.] - where can we go from here to maximize your success and value?”
+> "So I know right now you're using [[use cases](https://about.gitlab.com/handbook/use-cases/) in use, such as SCM, CI, etc.] - where can we go from here to maximize your success and value?"
 
-This question creates an opening for them to talk about other features they’re interested in knowing more about, problems they’re wondering whether they can solve using GitLab, or anything else related to GitLab or DevSecOps. This question also sets you up for more targeted follow-ups.
+This question creates an opening to explore driving additional value for the customer, with the customer leading.  From here, we can explore with the customer use cases or features they're interested in knowing more about, business problems they could solve using GitLab, or anything else related to GitLab or DevSecOps. This one question also sets you up for more targeted follow-ups.
 
-If the customer responds that there’s nothing else they need or are interested in, you can start asking questions about what problems they’re currently working on, what their company is focused on, etc. to take the conversation in other directions that may give you an opening to make suggestions.
+If the customer responds that there is nothing else they need or are interested in, you can start asking questions about their current situation.  These questions can explore what challenges they are currently working on, the focus of their boss or company, etc. to take the conversation in other directions that may give you an opening to make suggestions.
 
-Instead of asking about GitLab and how GitLab might be able to help them, turn the conversation around to talk about their business. Once they’re done talking, explain how GitLab solves for each item they mentioned.
+Instead of asking about GitLab and how GitLab might help them, turn the conversation around to talk about their business. Listen actively, let the customer talk without interjecting, and then explore how what you heard could be activated in the Gitlab platform.
 
-- “Last time we talked, you mentioned you had other initiatives you were working on outside of GitLab, could you share what those goals are, even if they don’t seem to relate to GitLab, so I can have a better understanding of your business, now and for the future?"
+- "Last time we spoke, you mentioned you had other initiatives you were working on outside of GitLab.  Would you be open to sharing what those goals are?  I would like to understand your focus now and in the future so that I can be continually bringing new features and strategies on Gitlab to you as are relevant. 
 
 ## Commiseration/Empathy
 
