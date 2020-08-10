@@ -17,7 +17,7 @@ The [Support Week in Review document](https://docs.google.com/document/d/1eyMzbz
 
 ### Required tools
 1. Feedback Issues [are created and assigned](/handbook/support/support-ops/responsibilities.html#support-satisfaction-survey-ssat) to the SSAT Reviewing Manager automatically. The Manager receives email notification from GitLab and a To-Do item.
-1. All Feedback Issues are shown in the [Feedback Tracker](https://gitlab.com/gitlab-com/support/feedback/) (internal only).
+1. All Feedback Issues are shown in the [Feedback Tracker](https://gitlab.com/gitlab-com/support/feedback/-/issues) (internal only).
 
 ### How to handle "Good" Reviews
 Feedback Issues with label "satisfaction::good" - go through each and read through the comments.
