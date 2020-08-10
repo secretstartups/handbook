@@ -26,12 +26,20 @@ absence. By making these preparations, you will also be making it easier for
 yourself to disconnect from work and make your time off effective.
 
 #### Choosing time off
-**MJD** Discuss guidelines around choosing time off and the need to take into consideration:
-  - the needs of the team - too many people off at once will create problems.
-  - schedule early for days that may be popular or that are particularly important to you
-  - try to avoid booking travel itineraries until you know you can get the days off
-  - if possible, plan time off to avoid disruptions to the various rotations
-  - **what else?**
+A little thoughtfulness on everybody's part will go a long way toward making it
+possible for everyone to take their desired days off. As you look to plan your
+time off, please:
+
+- consider a different time off schedule if the
+  [**Support - Time Off**](https://calendar.google.com/calendar/embed?src=gitlab.com_as6a088eo3mrvbo57n5kddmgdg%40group.calendar.google.com)
+  calendar shows that on any of the days you would be absent the regional team
+  would be short by 20% or more of its people 
+- schedule your time off as far in advance as you can, especially for days that
+  may be popular or that are particularly important to you
+- don't lock yourself into nonrefundable travel itineraries before you've taken
+  steps such as the above to be sure you can get the planned days off
+- if possible, plan your time off to avoid disruptions to the various rotations
+  such as on-call
 
 #### One-time actions
 There are a few things you will need to do just once, before you take any time off.
@@ -62,7 +70,7 @@ on Slack and someone will share the calendar with you.
 - please do so without hesitation -- go for a walk or run, grab a coffee, eat
 lunch, go to an appointment, run an errand, or just plain take a brain break
 - please do **not** add time-off events to the shared calendar or via PTO Ninja
-- please *do* consider blocking off your own calendar so that customer calls or
+- please **do** consider blocking off your own calendar so that customer calls or
 other meetings won't be scheduled during your time away
 
 #### Taking off half a day or more
@@ -86,17 +94,43 @@ absence.
    1. Create the appropriate override in PagerDuty
 1. Reschedule or cancel any impacted meetings in which you are a key participant
 
-##### Continue for absences of one or two days
-**MJD** Flesh this out
-- how to groom your queue
+##### Then, for absences of one or two days
 
-#### Three or more days off
-**MJD** Flesh this out
-- how to ramp down from taking tickets (while still helping with the queue)
-- how to reassign tickets
+1. Check with your customers
+   For any tickets that will still be open and active during your absence, and
+   that might require an update during that time, ask the customer whether they
+   would prefer to pause the ticket till your return or have someone else step
+   in to work with them. If they want to pause, put the ticket on hold.
+1. Groom your queue
+   For each ticket that won't be on hold, create an internal comment summarizing
+   the status and plan. Specifically, be sure to include:
+   - A concise statement of the problem or request
+   - A brief explanation of what's been done so far - what's been tried, what
+     progress has been made
+   - The current status - what remains to be done
+   - The plan - expected next steps and the reasons behind them
 
-- add an agenda item during the team meeting before your time off
-- **MAY BE OBSOLETE** either specify your manager as the person who covers for you, or leave a note to ping `#support_managers` per [our escalation procedure](https://about.gitlab.com/handbook/support/internal-support/#i-want-to-draw-attention-to-an-existing-support-ticket)
+##### Or, for absences of three or more days
+
+1. Notify the team of your upcoming absence
+   Add an item in the SWIR document the Friday before your absence to announce
+   your time off.
+1. Change your workflow two or three days in advance of your absence:
+   1. stop taking new tickets
+   1. work to resolve and close as many of your assigned tickets as possible
+   1. contribute more to other people's tickets - internal comments, pairing
+      sessions - to make up for not taking new tickets of your own
+1. Find homes for your remaining tickets
+   On your last day, please inform your users that your tickets will be
+   reassigned due to your upcoming absence. Then, find someone willing to take
+   over each ticket, and if possible review the tickets with them before
+   reassigning. If you can't find someone to take a ticket, you can 'unassign'
+   by assigning it to a 'group' (e.g. 'Support EMEA', 'Support APAC',
+   'Support AMER'). If the user has specified a preferred region, select the 
+   corresponding group. Otherwise, select any group - the ticket will still be
+   visible for all Support Engineers. Be sure in this situation to follow the
+   Groom your queue process described above so that the next engineer can come
+   up to speed very quickly.
 
 ### Tips
 **MJD** This whole section needs to be created
