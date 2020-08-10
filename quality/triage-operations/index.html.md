@@ -266,7 +266,12 @@ collect them for identifying the actions we need to take.
      1. Reminding the author about it.
      1. Changing the DRI.
 
-An example: [Fill me](#)
+An example report: [Idle merge requests report for `group::source code` - 2020-07-23](https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/265)
+
+#### Why references without an actual link
+
+Using actual links to the merge requests will update the merge request
+which will remove them from the future report.
 
 ### Community merge requests requiring attention
 
