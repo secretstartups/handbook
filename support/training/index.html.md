@@ -30,7 +30,7 @@ It is recommended that you complete the modules in the order listed, unless an i
 
 | Module | Duration | Description |
 | ------ | ------ | ------ |
-| [New Support Team Member Start Here](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/New%20Support%20Team%20Member%20Sart%20Here.md) | 6 Weeks | Meta module to keep track of and complete all the following onbaording modules |
+| [New Support Team Member Start Here](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/New-Support-Team-Member-Start-Here.md) | 6 Weeks | Meta module to keep track of and complete all the following onbaording modules |
 | [Git & GitLab Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Git%20&%20GitLab%20Basics.md) | 1 Week | Understand our products and services |
 | [GitLab Installation & Administration Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/GitLab%20Installation%20&%20Administration%20Basics.md) | 1 Week | Understand the different ways in which GitLab can be installed and managed |
 | [Gitlab Support Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/GitLab%20Support%20Basics.md) | 1 Day | Understand how GitLab Support operates and the most common workflows |
