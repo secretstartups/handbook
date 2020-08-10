@@ -73,7 +73,7 @@ If you took one of our certifications or knowledge assessments and did not recie
 1. Download the certificate as a PDF document.
 1. When responding to the email, ensure to "reply all" so the learning@ email is included so the team knows the email has been handled. 
    * If not all necessary knowledge assessments have been completed, let them know which ones remain for them to recieve their certificate. 
-   * For email templates for different scenarios, check out our [Certification Request Responses doc](https://docs.google.com/document/d/1DSa1C6DFysPnTirjZkicC4qgn_EmmpzvjPjXVEwZxoY/edit?usp=sharing). 
+   * For email templates for different scenarios, check out our [Certification Request Responses doc](https://drive.google.com/drive/search?q=title:%22Certificate%20Request%20Responses%22). 
 
 **Notes for the Remote Foundations Certificaation**
 * If they have not completed one or multiple of the knowledge assessments, it will show up with a “0” in the column that is incomplete in the "pass_all" tab. 
