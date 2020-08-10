@@ -39,7 +39,7 @@ Off-the-Shelf SKU’s [Standard SKU’s](ttps://about.gitlab.com/handbook/custom
 
 [![](https://mermaid.ink/img/eyJjb2RlIjoiZ3JhcGggVERcbiAgQVtTdGFuZGFyZCBTZXJ2aWNlXVxuICBBIC0tPnxZZXN8IEJbT2ZmLXRoZS1zaGVsZiBTS1Unc11cbiAgQSAtLT58Tm98IENbQ3VzdG9tZSBTS1UsIGNvbnRhY3QgUFMgVGVhbV1cbiAgXG5cdFx0IiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgQVtTdGFuZGFyZCBTZXJ2aWNlXVxuICBBIC0tPnxZZXN8IEJbT2ZmLXRoZS1zaGVsZiBTS1Unc11cbiAgQSAtLT58Tm98IENbQ3VzdG9tZSBTS1UsIGNvbnRhY3QgUFMgVGVhbV1cbiAgXG5cdFx0IiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)
 
-A detailed process on the selling of Professional Services can be found [here](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/working-with/)
+A detailed process on the selling of Professional Services can be found [here](/handbook/customer-success/professional-services-engineering/working-with/)
 
 The sale process of an Off-the-Shelf SKU is on lines of a License, however the same for a Custom SKU includes multiple teams at different stages:
 
@@ -62,9 +62,9 @@ Utilization for Engineers is tracked and categorized into 2 categories:
 
 - Productive Utilization: Time worked on assigned tasks that benefit GitLab and GitLab Customers (includes marketing, sales, general management, training, internal projects, etc.)
 
-Detailed definitions to determine and track utilization can be found on the [PS Page](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#team-metrics)
+Detailed definitions to determine and track utilization can be found on the [PS Page](/handbook/customer-success/professional-services-engineering/#team-metrics)
 
-The PS team is organized according to specialized functions and responsibilities, details [here](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#team-functions)
+The PS team is organized according to specialized functions and responsibilities, details [here](/handbook/customer-success/professional-services-engineering/#team-functions)
 
 ## PS Finance Team (FP&A):
 

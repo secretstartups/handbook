@@ -349,7 +349,7 @@ Process of measurement in progress.
 * Triage and assign issues in the procurement [issue board](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/boards/1844091) within 2 business days of receipt.
 
 **Ensure all contracts have the correct approvals in place before signed = 100%**
-* Verify the correct approvers have approved all purchase requests according to the [Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/) before the contract is signed. 
+* Verify the correct approvers have approved all purchase requests according to the [Authorization Matrix](/handbook/finance/authorization-matrix/) before the contract is signed. 
 
 **Ensure all fully executed vendor contracts are posted to ContractWorks = 100%**
 * Upload all fully executed agreement to ContractWorks for accurate recording. Legal team will assign terms and fields.

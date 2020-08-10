@@ -63,7 +63,7 @@ It is uncommon for you to need all of the items listed below. Read [GitLab's gui
 | Portable 15" external monitor                                | $200                 | 9/10       | You have the freedom to work from any location, and having a portable monitor allows that your workflow does not suffer from being constrained to a single small laptop screen. |
 | USB-C Adapter                                                | $80                  | 9/10       | Most MacBooks only have 1 free USB-C port, so an adapter with additional ports is a necessity. |
 | HDMI/monitor cable                                           | $15                  | 9/10       | Find a quality cable so that the connection between your laptop and monitor is healthy and secure. |
-| [Yubikey](https://www.yubico.com/store/)                     | $50                  | 8/10      | Per our [Security Practices](https://about.gitlab.com/handbook/security/), purchasing Yubikey is not mandatory, but is considered as an extra layer of authentication for better security. |
+| [Yubikey](https://www.yubico.com/store/)                     | $50                  | 8/10      | Per our [Security Practices](/handbook/security/), purchasing Yubikey is not mandatory, but is considered as an extra layer of authentication for better security. |
 | Monitor Privacy Filter                                       | $80                  | 8/10       | Important if you work in public places and need to be certain your work cannot be seen. |
 | WiFi Router with guest functionality     | $80                  | 7/10       | If your existing router does not allow for isolating your work notebook from your personal devices in your home network, consider buying a router that does. |
 | Laptop bag or backpack                                       | $60                  | 7/10       | Carry your laptop and external monitor safely with this travel bag. We recommended you get a bag (or backpack) with straps so the device stays on you when you need your hands free. |
@@ -225,7 +225,7 @@ Team members in France, Italy, and Spain must submit their expenses through:
 
 ## Expense Policy
 
-1. Max Expense Amount - [$5,000 USD](/handbook/total-rewards/compensation/#exchange-rates) - NOTE - If you are a corporate credit card holder, please refer to the [corporate credit card policy section](https://about.gitlab.com/handbook/finance/accounting/#credit-card-use-policy) for those specific instructions and thresholds.
+1. Max Expense Amount - [$5,000 USD](/handbook/total-rewards/compensation/#exchange-rates) - NOTE - If you are a corporate credit card holder, please refer to the [corporate credit card policy section](/handbook/finance/accounting/#credit-card-use-policy) for those specific instructions and thresholds.
 1. Receipt Required Amount - [$25 USD](/handbook/total-rewards/compensation/#exchange-rates)
 1. Expenses must be submitted within 90 days of purchase.
 

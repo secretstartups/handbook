@@ -82,7 +82,7 @@ Also see [First Post is a badge of
 honor](/handbook/communication/#first-post-is-a-badge-of-honor).
 
 ### Recordings
-To view a recording of a key meeting, visit the playlist on YouTube Unfiltered titled [Key Meetings](https://www.youtube.com/playlist?list=PL05JrBw4t0KrlBfo0IBmV0BwJcPN59swi). If you are unable to view a video, please ensure you are logged in as [GitLab Unfiltered](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube). 
+To view a recording of a key meeting, visit the playlist on YouTube Unfiltered titled [Key Meetings](https://www.youtube.com/playlist?list=PL05JrBw4t0KrlBfo0IBmV0BwJcPN59swi). If you are unable to view a video, please ensure you are logged in as [GitLab Unfiltered](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube). 
 
 Key Meeting recording links should be shared in the #key-meetings Slack channel by the functional department EBA within 24 hours of a Key Meeting being completed.
 

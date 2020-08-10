@@ -293,7 +293,7 @@ Following the month-end close, the Finance Business Partners will create a varia
 #### Marketing Specific Monthly Variance Analysis
 In partnership with Marketing Operations and Accounting, we set out to improve the timing and accuracy of budget vs. actuals tracking for marketing programs opex and to provide data driven insights to these teams during the close process by BD3 at the beginning of a new monthly accounting period.
 
-The utilization of [campaign finance tagging](https://about.gitlab.com/handbook/marketing/marketing-operations/#campaign-cost-tracking) for marketing program spend enables month-end reconciliation of expense actuals, prepaids, and accruals at the budget line item level. The components of this analysis are as follows:
+The utilization of [campaign finance tagging](/handbook/marketing/marketing-operations/#campaign-cost-tracking) for marketing program spend enables month-end reconciliation of expense actuals, prepaids, and accruals at the budget line item level. The components of this analysis are as follows:
 
 1. **Actuals:**
     - Prepaids provided by accounting on BD2 in a new monthly accounting period, grouped by campaign finance tag
@@ -566,7 +566,7 @@ Finance is also a required approval on all job offers. This allows Finance to se
 ****
 
 ## Expense Controls and Improving Efficiency
-1. The primary mechanism to ensure efficient spend of company assets is the [Procure to Pay](https://about.gitlab.com/handbook/finance/procure-to-pay/#procure-to-pay-process) process, and specifically completion of the [vendor and contract approval workflow](https://about.gitlab.com/handbook/finance/procure-to-pay/#vendor-and-contract-approval-workflow) prior to authorization. The procurement team or your finance business partner can assist with questions related to this process.
+1. The primary mechanism to ensure efficient spend of company assets is the [Procure to Pay](/handbook/finance/procure-to-pay/#procure-to-pay-process) process, and specifically completion of the [vendor and contract approval workflow](/handbook/finance/procure-to-pay/#vendor-and-contract-approval-workflow) prior to authorization. The procurement team or your finance business partner can assist with questions related to this process.
 
 1. The second mechanism is the budget vs actual review to determine reasons for variances vs plan.
 
