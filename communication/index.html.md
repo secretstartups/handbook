@@ -60,8 +60,8 @@ Please see our [social media guidelines](/handbook/marketing/social-media-guidel
 It's best practice to start a discussion where possible with a [Merge Request (MR)](https://docs.gitlab.com/ee/user/project/merge_requests/) instead of an issue. An MR is associated with a specific change that is proposed and transparent for everyone to review and openly discuss. The nature of MRs facilitate discussions around a proposed solution to a problem that is actionable. An MR is actionable, while an issue will take longer to take action on.
 
 1. Always **open** an MR for things you are suggesting and/or proposing. Whether something is not working right or we are iterating on new internal process, it is worth opening a merge request with the minimal viable change instead of opening an issue encouraging open feedback on the problem without proposing any specific change directly. Remember, an MR also invites discussion, but it's specific to the proposed change which facilitates focused decision.
-1. Never ask someone to create an issue when they can default to the merge request. 
-1. Starting with a Merge Request is part of [Handbook First](/handbook/handbook-usage/#why-handbook-first) and helps ensure the handbook is up-to-date when a decision is made. It is also how we make it possible for [Everyone to Contribute](/company/strategy/#mission). This is true, not just for updating the handbook for updating all things. 
+1. Never ask someone to create an issue when they can default to the merge request.
+1. Starting with a Merge Request is part of [Handbook First](/handbook/handbook-usage/#why-handbook-first) and helps ensure the handbook is up-to-date when a decision is made. It is also how we make it possible for [Everyone to Contribute](/company/strategy/#mission). This is true, not just for updating the handbook for updating all things.
 1. Merge Requests, by default are **non-confidential**. However, for [things that are not public by default](/handbook/communication/#not-public) please open a confidential issue with suggestions to specific changes that you are proposing. The ability to create [Confidential Merge Requests](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html#merge-requests-for-confidential-issues) is also available. When possible, consider not including sensitive information so the wider community can contribute.
 1. Not every solution will solve the problem at hand. Keep discussions focused by **defining the problem first** and **explaining your rationale** behind the [Minimal Viable Change (MVC)](/handbook/values/#minimal-viable-change-mvc) proposed in the MR.
 1. Be proactive and consistent with communication on discussions that have external stakeholders such as customers. It's important to keep communication flowing to keep everyone up to date. MRs can appear stale if there aren't recent discussions and no clear definition on when another update will be provided, based on feedback. This leaves those subscribed in the dark, causing unnecessary surprise if something ends up delayed and suddenly jumps to the next milestone. It is important that MRs are closed in a timely manner through approving or rejecting the open requests.
@@ -75,7 +75,7 @@ It's best practice to start a discussion where possible with a [Merge Request (M
 1. When submitting a MVC, **ask for feedback** from your peers. For example, if you're a designer and you propose a design, ping a fellow designer to review your work. If they suggest changes, you get the opportunity to improve your design and propose an alternative MR. This promotes collaboration and advances everyone's skills.
 1. Respond to comments within a **threaded discussion**. If there isn't a discussion thread yet, you can use the [Reply to comment](https://docs.gitlab.com/ee/user/discussions/#start-a-discussion-by-replying-to-a-standard-comment) button from the comments to create one. This will prevent comments from containing many interweaves discussions with responses that are hard to follow.
 1. If your comment or answer contains separate topics, write separate comments for each, so others can address topics independently using the [Reply to comment](https://docs.gitlab.com/ee/user/discussions/#start-a-discussion-by-replying-to-a-standard-comment) button.
-1. If you have received any feedback or questions on your MR, try to acknowledge comments as [that's how we ensure we create an environment of belonging for all team members](/company/culture/inclusion/#gitlabs-definition-of-diversity-inclusion--belonging). Merging your MR as-is without giving an answer or any response makes the commenters feel their opinions are unheard. If you are the DRI who does not have to make a fast decision, you can choose not to change your MR, but you should acknowledge the comments or feedback, consider if they warrant a change to your MR, and [say why, not just what](/handbook/values/#say-why-not-just-what). 
+1. If you have received any feedback or questions on your MR, try to acknowledge comments as [that's how we ensure we create an environment of belonging for all team members](/company/culture/inclusion/#gitlabs-definition-of-diversity-inclusion--belonging). Merging your MR as-is without giving an answer or any response makes the commenters feel their opinions are unheard. If you are the DRI who does not have to make a fast decision, you can choose not to change your MR, but you should acknowledge the comments or feedback, consider if they warrant a change to your MR, and [say why, not just what](/handbook/values/#say-why-not-just-what).
 If there are many comments, you can choose to summarize key feedback areas and share your response at a high level. We appreciate that [if you force a DRI to explain too much, you'll create incentives to ship projects under the radar. The fear of falling into a perpetual loop of explaining can derail a DRI, and cause people to defer rather than working with a bias for action](/handbook/people-group/directly-responsible-individuals/#empowering-dris). This is something we want to avoid.
 When fast decisions are needed, [we'll have to accept that people listened to us but don't owe us an explanation to have fast decisions based on everyone's input](/handbook/leadership/#making-decisions). The goals are to be transparent and collaborative--not to lose efficiency. Not everyone will agree, but we expect all people to [disagree, commit, and disagree](/handbook/values/#disagree-commit-and-disagree).
 1. For GitLab the product merge request guidelines are in the [Contribution
@@ -115,15 +115,15 @@ Issues are useful when there isn't a specific code change that is being proposed
 
 ## Internal Communication
 
-Internal communication is any work related communication at a company. 
-Internal Communication includes conversations between team members, wider team discussions, or internal announcements. 
-At GitLab, everyone can contribute to the effectiveness of Internal Communications to support aspects of GitLab culture, such as intentional transparency and engaging people in open dialogue. 
+Internal communication is any work related communication at a company.
+Internal Communication includes conversations between team members, wider team discussions, or internal announcements.
+At GitLab, everyone can contribute to the effectiveness of Internal Communications to support aspects of GitLab culture, such as intentional transparency and engaging people in open dialogue.
 
-Since we believe that all team members must be Managers of One, most communication is handled by the relevant group, but we know that some communications are more sensitive and contentious than others. 
-In those cases, the DRIs may want to engage the Internal Communications function. 
+Since we believe that all team members must be Managers of One, most communication is handled by the relevant group, but we know that some communications are more sensitive and contentious than others.
+In those cases, the DRIs may want to engage the [Internal Communications function](/handbook/communication/internal-communications).
 
 
-## Top Tips and Best Practices 
+## Top Tips and Best Practices
 1. All written communication happens in English, even when sent one on one, because sometimes you need to forward an email or chat.
 1. Use **asynchronous communication** when possible: merge requests (preferred) or issues. Announcements happen on the appropriate slack channels and [people should be able to do their work without getting interrupted by chat](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d#.21t7089jk).
 1. Discussion in issues or Merge Requests is preferred over everything else. If you need a response urgently, you can Slack someone with a link to your comment on an issue or merge request, asking them to respond there, however be aware that they still may not see it straight away. See [Slack](/handbook/communication#slack) for more.
@@ -159,10 +159,10 @@ In those cases, the DRIs may want to engage the Internal Communications function
 
 ### Posting in #company-fyi
 
-Our companywide announcements channel is **#company-fyi**. 
+Our companywide announcements channel is **#company-fyi**.
 It is an **announcement only** channel, meaning that communications need to be approved before they can be posted.
 
-In order to post or have a message posted in #company-fyi, please reach out to your function's executive who can approve the message and post it. 
+In order to post or have a message posted in #company-fyi, please reach out to your function's executive who can approve the message and post it.
 
 1. Examples of what **should not** go in **#company-fyi** (as per new group guidelines):
     1. Competition prize winner announcements.
@@ -252,13 +252,13 @@ Information that defaults to not public and to limited access:
 
 [Competencies](/handbook/competencies/) are the Single Source of Truth (SSoT) framework for things we need team members to learn.
 
-In an all-remote organization effective communication is key to exchanging knowledge, ideas, and information. Effective communication at GitLab is: Using [asynchronous](/company/culture/all-remote/asynchronous/) communication as the starting point and staying as open and transparent as we can by [communicating via text](/handbook/communication/#writing-style-guidelines) through public issues, merge requests, and Slack channels (over DMs). Placing an emphasis on ensuring that conclusions of offline conversations are written down ensuring a [Single Source of Truth](/handbook/documentation/#documentation-is-the-single-source-of-truth-ssot) and [producing Video](/handbook/marketing/marketing-operations/youtube/) when necessary. 
+In an all-remote organization effective communication is key to exchanging knowledge, ideas, and information. Effective communication at GitLab is: Using [asynchronous](/company/culture/all-remote/asynchronous/) communication as the starting point and staying as open and transparent as we can by [communicating via text](/handbook/communication/#writing-style-guidelines) through public issues, merge requests, and Slack channels (over DMs). Placing an emphasis on ensuring that conclusions of offline conversations are written down ensuring a [Single Source of Truth](/handbook/documentation/#documentation-is-the-single-source-of-truth-ssot) and [producing Video](/handbook/marketing/marketing-operations/youtube/) when necessary.
 
 If you would like to improve your skills or expand your knowledge on topics relating to Communication at GitLab, check out our resources:
 
 * [Communicating effectively and responsibly through text](/company/culture/all-remote/effective-communication/)
 
-**Skills and behavior of applying effective communication as a Team Member**: 
+**Skills and behavior of applying effective communication as a Team Member**:
 *  Effectively practices communication via text.
 *  Uses asynchronous communication when possible: merge requests (preferred) or issues.
 *  Directs all communication to the appropiate channels (Slack, GitLab, email).
@@ -268,12 +268,12 @@ If you would like to improve your skills or expand your knowledge on topics rela
 *  Employs multimodal communication to broadcast important decisions.
 *  Practices low context communication and provides as much background as possible when communicating via text to avoid confusion.
 
-**Skills and behavior of applying effective communication as a People Manager**: 
-*  Implements working asynchronously across teams, departments or across the company. Drives communication where possible to asynchronous channels. 
-*  Holds team members accountable for effectively communicating via text. 
-*  Fosters an environment across teams, departments or divisions where asynchronous communication is the starting point. 
-*  Guides team members on when producing video is appropriate. Implements interactive communication tools across their team, department or the company depending on level. 
-*  Drives and funnels conversations to the right channels across teams, divisions and the company. 
+**Skills and behavior of applying effective communication as a People Manager**:
+*  Implements working asynchronously across teams, departments or across the company. Drives communication where possible to asynchronous channels.
+*  Holds team members accountable for effectively communicating via text.
+*  Fosters an environment across teams, departments or divisions where asynchronous communication is the starting point.
+*  Guides team members on when producing video is appropriate. Implements interactive communication tools across their team, department or the company depending on level.
+*  Drives and funnels conversations to the right channels across teams, divisions and the company.
 
 
 ## Numbering is for reference, not as a signal
@@ -297,13 +297,13 @@ In order to effectively communicate an important change to hundreds of distribut
   1. Suggest to team managers to post to their team Slack channels, ask for explicit `:ack:` and pin to the channel until everyone responds.
   1. Lastly, reach out 1-on-1 to stragglers while being respectful of vacation time.
 
-In informal acknowledgement scenarios, such as on Slack or on issue comments, it is common practice to use the following: 
+In informal acknowledgement scenarios, such as on Slack or on issue comments, it is common practice to use the following:
 
 1. Eyes 👀  => I’ll check this out or seen and will do
-1. Thumbs up 👍 => good idea 
+1. Thumbs up 👍 => good idea
 1. White checkmark ✅ =>  task is complete or done
 1. Heart ❤ ️= expression of gratitude or appreciation
-1. cc @mentions => if someone needs to see a message 
+1. cc @mentions => if someone needs to see a message
 
 ## Presentations
 
@@ -461,7 +461,7 @@ for a video call.
    1. Conversations in issues are easily searchable. Video calls are not.
 1. Try to have your video on at all times because it's much more engaging for participants
    1. Don't worry if you [can't pay attention at the meeting](/handbook/communication/#paying-attention-in-meetings) because you're doing something else, you are the manager of your attention. The flip-side of being the manager of your own attention is that others should not hesitate to request your attention when it is needed.
-   1. During internal calls, it's okay to eat on video if you're hungry or the call is during your lunch time (please turn your mic off). To maintain professionalism, if you are presenting or facilitating a customer call please try to avoid eating. If eating during a customer call is unavoidable, please turn off your video and mute your mic. 
+   1. During internal calls, it's okay to eat on video if you're hungry or the call is during your lunch time (please turn your mic off). To maintain professionalism, if you are presenting or facilitating a customer call please try to avoid eating. If eating during a customer call is unavoidable, please turn off your video and mute your mic.
    1. You should ensure that you are properly dressed for all video calls. Properly dressed means that you are wearing clothing that covers the top and bottom parts of your body. We do not have a strict dress code policy, but want to make sure that all participants on video calls feel comfortable.  If you cannot be properly dressed for the entirety of the call, you should not join, but watch the recording at a later time.
    1. Having pets, children, significant others, friends, and family visible during video chats is encouraged. If they are human, ask them to wave at your remote team member to say "Hi".
    1. Do not feel forced to have your video on, use your best judgement.
@@ -518,7 +518,7 @@ On the other hand, not every part of a meeting is relevant, but it can sometimes
 If you only have one discussion point, if possible, try to reorder the meeting agenda to have your point first and then drop from the call.
 If you get asked a question when you're not paying attention, it is an okay use of time to repeat a question every now and then.
 
-We don't use the first 15 minutes of a meeting to read the materials like they [do at Amazon](https://www.forbes.com/sites/carminegallo/2019/06/18/how-the-first-15-minutes-of-amazons-leadership-meetings-sparks-great-ideas-and-better-conversations/#6be165bd54ca). You can use the start of a meeting to review the materials for the meeting if you need to, given you do not have to be paying attention, but that should not delay the start of the meeting for the people that already have questions based on the materials. [Meetings start on time at GitLab.](/handbook/communication/#scheduling-meetings) 
+We don't use the first 15 minutes of a meeting to read the materials like they [do at Amazon](https://www.forbes.com/sites/carminegallo/2019/06/18/how-the-first-15-minutes-of-amazons-leadership-meetings-sparks-great-ideas-and-better-conversations/#6be165bd54ca). You can use the start of a meeting to review the materials for the meeting if you need to, given you do not have to be paying attention, but that should not delay the start of the meeting for the people that already have questions based on the materials. [Meetings start on time at GitLab.](/handbook/communication/#scheduling-meetings)
 
 Don't use your camera to signal you're not paying attention; [cameras should always be on](/handbook/communication/#video-calls).
 
@@ -813,7 +813,7 @@ Internal slack messages between team members are still considered professional c
 1. If you must send a work-related direct message, don't start a conversation with "Hi" or "Hey" as that interrupts their work without communicating anything. If you have a quick question, just ask the question directly, and the person will respond asynchronously. If you truly need to have a synchronous communication, then start by asking for that explicitly, while mentioning the subject. e.g., "I'm having trouble understanding issue #x, can we talk about it quickly?".
 
 #### Do not use group direct messages
-Use private channels instead of group direct messages. Group direct messages are very hard to maintain, track, and respond to. They also have a key limitation in that you can't add people to the conversation. This is a hinderance to collaboration and transparency. 
+Use private channels instead of group direct messages. Group direct messages are very hard to maintain, track, and respond to. They also have a key limitation in that you can't add people to the conversation. This is a hinderance to collaboration and transparency.
 
 Consider whether the conversation can take place in a public channel. If not, please use a private channel instead. This channel may have a short-term purpose. It is acceptable to leave the channel and/or archive it if you are no longer an active participant or the channel is no longer in use.
 
@@ -856,10 +856,10 @@ Earlier in our history, 50% of all communication *was* in public channels.
 1. Use your notification settings liberally. Depending on how you use Slack this could range from limiting notifications to critical messages outside of your working hours to turning off Slack notifications entirely. Find the right balance for you and stick to it.
 
 ### Be respectful of others' time
-1. Start by understanding what we mean by respecting time. We should err toward putting material into channels over DMs and public channels over private channels even though we understand that this will generate more messages that can be read by more people. Respecting time is not about reducing the overall volume of channel messages that team members receive. It about making sure that messages are targeted, expectations for asynchronous responses are clear, and we are communicating with consideration. The following tips provide ways to work respectfully with others given this context. 
+1. Start by understanding what we mean by respecting time. We should err toward putting material into channels over DMs and public channels over private channels even though we understand that this will generate more messages that can be read by more people. Respecting time is not about reducing the overall volume of channel messages that team members receive. It about making sure that messages are targeted, expectations for asynchronous responses are clear, and we are communicating with consideration. The following tips provide ways to work respectfully with others given this context.
 1. If you're only referring to someone, but don't actually need their attention, and want to spare them from getting notified, spell out their name normally without `@` mentioning them.
 1. Slack messages should be considered asynchronous communication, and you should not expect an instantaneous response; you have no idea what the other person is doing.
-1. Because we work globally, you may receive Slack mentions at any time of day. Please consider enabling [Slack's Do not disturb functionality](https://slack.com/intl/en-ie/help/articles/214908388-Pause-notifications-with-Do-Not-Disturb) so you don't get interrupted, for example, in your offtime. You can also use Slack's Notification schedule tool, this can be found in Slack's Preferences tab. To access this, open slack, hover your cursor at the top of your screen, click slack, then preferences, under the notifications tab you will see notification schedule. This tool allows you to pick what days / times you get notifications. 
+1. Because we work globally, you may receive Slack mentions at any time of day. Please consider enabling [Slack's Do not disturb functionality](https://slack.com/intl/en-ie/help/articles/214908388-Pause-notifications-with-Do-Not-Disturb) so you don't get interrupted, for example, in your offtime. You can also use Slack's Notification schedule tool, this can be found in Slack's Preferences tab. To access this, open slack, hover your cursor at the top of your screen, click slack, then preferences, under the notifications tab you will see notification schedule. This tool allows you to pick what days / times you get notifications.
 1. Do not feel obligated to respond to Slack messages when you are not working.
 1. Feel free to send a colleague a link to these guidelines if the communication in Slack should be done **asynchronously**.
 1. **Please avoid using @here or @channel unless this is about something urgent and important.** In chat, try to keep the use of keywords that mention the whole channel to a minimum. They should only be used for pings that are both urgent and important, not just important. By overusing channel mentions, you make it harder to respond to personal mentions promptly since people get pinged too frequently. Additionally, if you are planning to `@mention` a specific team ([Slack User Group](https://get.slack.help/hc/en-us/articles/212906697-Create-a-user-group#browse-user-groups-and-view-members)), consider the size of the group you are mentioning ([see group membership](https://gitlab.com/gitlab-com/security-tools/report-slack-group-members)) and the impact of pinging all of these people for the particular situation. If something is urgent and important:
@@ -868,10 +868,10 @@ Earlier in our history, 50% of all communication *was* in public channels.
 1. If you are aware that your teammate is on vacation, avoid mentioning them in a high volume channel. It will be difficult to find the information or question when they return. If you need to ensure they refer back to the thread, ensure to send them a link to the relevant Slack message through a direct message.
 
 ### Managing noise in Slack
-Here are some helpful links to best practices and tips on managing your notifications and reducing noise in Slack. We encourage you to regularly check your notification settings to ensure you get more notifications of what IS important/relevant to you, and less of what isn't.  
+Here are some helpful links to best practices and tips on managing your notifications and reducing noise in Slack. We encourage you to regularly check your notification settings to ensure you get more notifications of what IS important/relevant to you, and less of what isn't.
 
 - [Reduce noise in Slack](https://slack.com/intl/en-gb/help/articles/218551977-Reduce-noise-in-Slack)
-- [Configure Your Notifications](https://slack.com/intl/en-gb/help/articles/201355156-Guide-to-desktop-notifications#configure-your-notifications)  
+- [Configure Your Notifications](https://slack.com/intl/en-gb/help/articles/201355156-Guide-to-desktop-notifications#configure-your-notifications)
 - [Guide to Desktop Notifications](https://slack.com/intl/en-gb/help/articles/201355156-Guide-to-desktop-notifications#channel-specific-and-group-dm-notifications)
 - [Channel-specific and group DM Notifications](https://slack.com/intl/en-gb/help/articles/201355156-Guide-to-desktop-notifications#channel-specific-and-group-dm-notifications)
 
@@ -938,9 +938,9 @@ The alphabetically sorted starter list below spotlights a few of GitLab's [many 
 | `#travel` | A place to discuss all things [travel](/company/culture/all-remote/people/#travelers)! |
 | `#women` | Employee resource group for members and allies. |
 
-### Slackbots 
+### Slackbots
 We have a few slackbots to help us with frequently asked questions and other slackbot's that directly help us to remain inclusive in our language and align closely with our [Diversity, Inclusion and Belonging Value](/handbook/values/#diversity-inclusion).
-The following list is reflective of the onces we use for Diversity, Inclusion and Belonging and the suggested changes to use. We iterate on this list, as a GitLab Team Member, to view active slackbots that we use, kindly view them in Slack, under: GitLab > Customize Your Workspace > Slackbot. 
+The following list is reflective of the onces we use for Diversity, Inclusion and Belonging and the suggested changes to use. We iterate on this list, as a GitLab Team Member, to view active slackbots that we use, kindly view them in Slack, under: GitLab > Customize Your Workspace > Slackbot.
 
 | `you guys` | Are you including people of multiple genders? Please consider using "everyone," "team," "y'all," or similar instead. You can read more about inclusive language in our handbook: /handbook/general-guidelines/#behavior-and-language |
 | `hey guys, hi guys, you guys, salesman, salesmen, businessman, businessmen` | Are you including people of multiple genders? Please consider using "everyone," "team," "y'all," or similar instead. You can read more about inclusive language in our handbook: /handbook/general-guidelines/#behavior-and-language |
@@ -1044,7 +1044,7 @@ The recommended defaults when sharing a document for GitLab internal purposes is
    people time you can also [link to the search results
    page](https://drive.google.com/drive/search?q=%22this%20is%20a%20link%20to%20the%20search%20results%20page%22)
    which allows people to quickly get to the doc without anyone being able to
-   request access. If there are multiple documents showing up in the search, you may filter your [search link by adding the owner.](https://drive.google.com/drive/search?q=%22this%20is%20a%20link%20to%20the%20search%20results%20page%22%20owner:email%40gitlab.com) 
+   request access. If there are multiple documents showing up in the search, you may filter your [search link by adding the owner.](https://drive.google.com/drive/search?q=%22this%20is%20a%20link%20to%20the%20search%20results%20page%22%20owner:email%40gitlab.com)
 1. If you are having trouble finding a shared Google Doc, make sure you [Search &lt;your domain&gt;](https://support.google.com/a/answer/3187967?hl=en) in Google Drive.
 1. In our handbook, if you find yourself wondering whether it is better to provide a public link to a Google Doc vs. writing out the content on the website, use the following guideline: Is this document frequently adapted / customized? If yes, then provide a link, making sure that the document can be _commented on_ by _anyone_ with the link. For instance, this is how we share our employment [contracts](/handbook/contracts/). If the document is rarely customized, then provide the content directly on the site and deprecate the Google Doc.
 1. If you want to quickly find where a team member's cursor is in a Google Doc, click their icon at the top of the document and the app will jump you to the current location. This works in Sheets and Presentations as well.
