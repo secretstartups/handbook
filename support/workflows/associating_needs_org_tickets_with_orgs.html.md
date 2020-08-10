@@ -246,7 +246,7 @@ If `GitLab Plan` in Zendesk shows `Expired`, it means that the organization is m
 `Former Customer` in SFDC, and support level is set to `Expired` there. In such case, it is
 better to check with Sales if the status is valid or not:
 
-* Open [Salesforce](https://about.gitlab.com/handbook/support/workflows/looking_up_customer_account_details.html#within-salesforce) and find the customer in question.
+* Open [Salesforce](/handbook/support/workflows/looking_up_customer_account_details.html#within-salesforce) and find the customer in question.
 * Click `Show feed` button at the upper part of the page.
 
   ![SFDC show feed](/images/handbook/support/sfdc_show_feed.png)

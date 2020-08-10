@@ -17,7 +17,7 @@ When an emergency ticket comes in, it triggers a [PagerDuty](https://gitlab.page
 
 When a PD incident is triggered, the alarm will go off for the person on call. You should acknowledge the incident within 5 minutes, or the person on second level support will be alerted. The PD incident will have the link to the corresponding Zendesk issue from where you will continue the conversation with the customer.
 
-Once acknowledged, you need to login to [Zendesk](https://gitlab.Zendesk.com), go to the corresponding ticket and let the customer know that you will handle their case and send them a Zoom meeting link. If the customer is unable to access Zoom, you may need to use phone, Skype, WebEx or Hangouts.  The full procedure for emergency tickets can be found [here](https://about.gitlab.com/handbook/support/on-call/#pagerduty-alerts).
+Once acknowledged, you need to login to [Zendesk](https://gitlab.Zendesk.com), go to the corresponding ticket and let the customer know that you will handle their case and send them a Zoom meeting link. If the customer is unable to access Zoom, you may need to use phone, Skype, WebEx or Hangouts.  The full procedure for emergency tickets can be found [here](/handbook/support/on-call/#pagerduty-alerts).
 
 Once the emergency has been resolved, return to the ticket in [Zendesk](https://gitlab.Zendesk.com) and document any steps taken to resolve the issue.
 

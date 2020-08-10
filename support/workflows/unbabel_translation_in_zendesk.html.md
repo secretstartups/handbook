@@ -46,7 +46,7 @@ You can also use [a javascript snippet](https://gitlab.com/gitlab-com/support/to
 
 ### Replying with a Translation
 
-To request a translation automatically, simply reply as you normally would as an internal note with the #unbabel hashtag included at the top of your content. As per our [working with tickets](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#what-is-the-working-on-tickets-workflow) workflow, please remember to assign yourself to the ticket if the ticket doesn't currently have an assignee when you respond. 
+To request a translation automatically, simply reply as you normally would as an internal note with the #unbabel hashtag included at the top of your content. As per our [working with tickets](/handbook/support/workflows/working-on-tickets.html#what-is-the-working-on-tickets-workflow) workflow, please remember to assign yourself to the ticket if the ticket doesn't currently have an assignee when you respond. 
 
 Please also ensure that the `always_unbabel` , `unbabel_en`, `unbabel_reply`, `unbabeled` tags are included, otherwise your response might not be translated automatically.
 Should this happen, you will need to add the missing tags, and create a new internal note with the #unbabel hashtag included at the top of your content.

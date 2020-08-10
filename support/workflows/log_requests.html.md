@@ -22,7 +22,7 @@ If required, post in the #support_managers channel for a senior engineer or mana
 
 A standard response is available in ZenDesk as a macro `GitLab.com::Audit logs access request`.
 
-Log requests beyond a summary (similar to the examples below) or where logs are not readily available on Kibana require legal approval and are dealt with by [Security Incident Response Team (SIRT)](https://about.gitlab.com/handbook/engineering/security/#sirt---security-incident-response-team-former-security-operations) ([template for reference](https://gitlab.com/gitlab-com/gl-security/secops/operations/-/issues/new?issuable_template=Information_Request)). In these cases, please move the ticket to the Security queue with a note.
+Log requests beyond a summary (similar to the examples below) or where logs are not readily available on Kibana require legal approval and are dealt with by [Security Incident Response Team (SIRT)](/handbook/engineering/security/#sirt---security-incident-response-team-former-security-operations) ([template for reference](https://gitlab.com/gitlab-com/gl-security/secops/operations/-/issues/new?issuable_template=Information_Request)). In these cases, please move the ticket to the Security queue with a note.
 
 ## What we can provide
 

@@ -50,15 +50,11 @@ Starting July 9th, 2019, in order to learn about the reasons behind a Bad satisf
 - The answer wasn't helpful (Support Managers)
 - Some other reason
 
-All negative and positive feedback with comment is exported to an internal repository. Once the feedback has been submitted, an Issue is created and the Support Engineering Managers are tagged when a negative rating has been submitted. [It is the responsibility of the Support Engineering Managers](https://about.gitlab.com/handbook/support/support-ops/#ssat-reviewing-manager) to investigate the feedback and ensure appropriate actions are taken to either resolve the root cause of the negative experience or reduce the likelihood of it recurring.
+All negative and positive feedback with comment is exported to an internal repository. Once the feedback has been submitted, an Issue is created and the Support Engineering Managers are tagged when a negative rating has been submitted. [It is the responsibility of the Support Engineering Managers](/handbook/support/support-ops/#ssat-reviewing-manager) to investigate the feedback and ensure appropriate actions are taken to either resolve the root cause of the negative experience or reduce the likelihood of it recurring.
 
 ## Shared Organizations in Zendesk
 
 We have the option of allowing all of the end-users in an organization to see each other's tickets. This is referred to as a shared organization in Zendesk.
-
-We can grant the end-users permissions to see the tickets at the organization level and the personal level (personal level overrides org level). This means that at the personal level, we can allow selected individuals in an org to access all the tickets created by members of their org or we can allow everyone in the company to see everyone's tickets.
-
-Shared organizations will only be set up if we receive a request directly from the customer through a Support Ticket. Once the ticket is created, any member of the Customer Success or Support teams can create a request in the [Support Ops project](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/issues/new?issuable_template=Shared%20Organization%20Request) using the `Shared Organization Request` template, and any member of the Support Team can update the organization settings once the issue is created. 
 
 There are a few different options available for our customers:
 
@@ -66,8 +62,8 @@ There are a few different options available for our customers:
 - All users can view all tickets but not add comments
 - All users can view all tickets and add comments to all tickets
 
+When a request is received from a customer, any member of the Customer Success or Support teams can create a request in the [Support Ops project](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/issues/new?issuable_template=Shared%20Organization%20Request) using the `Shared Organization Request` template.  The Support Ops team will confirm with the customer and [action](/handbook/support/support-ops/processes/zendesk.html#shared-organization-process) these requests.
 
-**Note:** If the organization-wide sharing setting has been disabled, the setting on the individual user’s account will override the organization-wide setting, and the end user will have full access to tickets from the organization. If the organization-wide sharing setting has been enabled, the setting on the individual end user is redundant.
 
 ## Salesforce - Zendesk sync
 

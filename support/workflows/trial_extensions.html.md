@@ -26,7 +26,7 @@ For these issues, follow the same procedure as the extending GitLab.com trials p
 
 ## Extending GitLab.com Trials
 
-> **NOTE**: Due to [customers #973](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/973) and [customers #1643](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1643), these issues are currently marked for those engineers who have access to resolve them through [customers portal console](https://about.gitlab.com/handbook/support/workflows/customer_console.html#change_plan). Once those issues are resolved, these requests should be done via customers portal admin.
+> **NOTE**: Due to [customers #973](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/973) and [customers #1643](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1643), these issues are currently marked for those engineers who have access to resolve them through [customers portal console](/handbook/support/workflows/customer_console.html#change_plan). Once those issues are resolved, these requests should be done via customers portal admin.
 
 ```mermaid
 graph TD;
@@ -41,7 +41,7 @@ graph TD;
   G-->H[Note Issue and Close];
   F-->I[No];
   I-->L[Locate Error in Sentry or comment on existing issue];
-  click L "https://about.gitlab.com/handbook/support/workflows/500_errors.html#searching-sentry" "Diagnose Errors on GitLab.com"
+  click L "/handbook/support/workflows/500_errors.html#searching-sentry" "Diagnose Errors on GitLab.com"
   L-->M[Adjust Namespace Manually];
   M-->N[Apply Status::On Hold, Set Due Date];
 ```

@@ -59,12 +59,12 @@ Whether you’re making a local change, based on the decision criteria above, or
 proposing a global one, it’s important to communicate your plans with the rest
 of the Support Leadership Team.
 
-Remember to [communicate _why_ and not just _what_](https://about.gitlab.com/handbook/values/#say-why-not-just-what).
+Remember to [communicate _why_ and not just _what_](/handbook/values/#say-why-not-just-what).
 
 ### Communicating a Local Change
 Even for a change that you’ve determined will be local, inform the leadership
 team. Put it as an “inform” item in the agenda for the next
-[leadership sync meeting](https://about.gitlab.com/handbook/support/managers/#organization-of-support-leadership-meetings).
+[leadership sync meeting](/handbook/support/managers/#organization-of-support-leadership-meetings).
 Why?
 * Someone else might have a suggestion for you
 * Someone else might be interested in what you’re doing
@@ -73,7 +73,7 @@ Why?
 ### Communicating a Global Change Proposal
 Once you’ve determined that your intended change must be global, engage the
 leadership team in a conversation through your issue and through a full agenda
-topic in the [leadership sync meeting](https://about.gitlab.com/handbook/support/managers/#organization-of-support-leadership-meetings):
+topic in the [leadership sync meeting](/handbook/support/managers/#organization-of-support-leadership-meetings):
 * Describe the problem you’re working to solve
 * Let the team know if you are the DRI, or are seeking a DRI
 * Let the team know whether you're proposing a solution based on compelling

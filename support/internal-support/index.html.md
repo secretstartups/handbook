@@ -35,7 +35,7 @@ The following channels are where GitLab Support can be found on Slack and are th
 - [#feed_zd-gitlab-com](https://gitlab.slack.com/messages/CADGU8CG1/) - Feed of all GitLab.com Zendesk ticket activities.
 - [#feed_zd-self-managed](https://gitlab.slack.com/messages/C1CKSUTL5/) - Feed of all self-managed Zendesk ticket activities.
 
-In order to attract GitLab Support's attention on Slack, you can use the team handles, mentioning multiple team members in a message or a thread where our [**urgent** attention](https://about.gitlab.com/handbook/communication/#be-respectful-of-others-time) is needed. Support team handles are:
+In order to attract GitLab Support's attention on Slack, you can use the team handles, mentioning multiple team members in a message or a thread where our [**urgent** attention](/handbook/communication/#be-respectful-of-others-time) is needed. Support team handles are:
 
 - `@support-selfmanaged` - Self-managed support team members.
 - `@support-dotcom` - GitLab.com support team members.

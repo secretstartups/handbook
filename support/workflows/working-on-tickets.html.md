@@ -255,10 +255,10 @@ best course of action. You might write something like:
 
 ### I need deeper technical assistance on a non-emergency case - what do I do?
 
-Sometimes, you might require help from senior support engineers, subject matter experts or developers on your tickets. These tickets are most likely either long-running or technically challenging. We encourage [collaboration](https://about.gitlab.com/handbook/values/#collaboration) and you can use the following steps as a general guideline if you are unsure of what to do next:
+Sometimes, you might require help from senior support engineers, subject matter experts or developers on your tickets. These tickets are most likely either long-running or technically challenging. We encourage [collaboration](/handbook/values/#collaboration) and you can use the following steps as a general guideline if you are unsure of what to do next:
 
 1. Start by posting an internal message in the ticket clearly summarizing the problem, the steps that have been taken so far (including the reasoning behind them), the results of those steps, and the current status.
-1. Check the [Support Team Knowledge Areas](https://about.gitlab.com/handbook/support/workflows/knowledge_areas.html) handbook page to see if someone would be able to assist you.
+1. Check the [Support Team Knowledge Areas](/handbook/support/workflows/knowledge_areas.html) handbook page to see if someone would be able to assist you.
 1. Look for assistance in the internal Support Slack channels.
    1. Initiate a crush session or a [pairing session](https://gitlab.com/gitlab-com/support/support-pairing) in the [#support_self-managed](https://gitlab.slack.com/app_redirect?channel=support_self-managed) or [#support_gitlab-com](https://gitlab.slack.com/app_redirect?channel=support_gitlab-com) Slack channels.
    1. If you now have some new ideas to try, make sure you have a clear plan of action and engage with the user.
@@ -289,7 +289,7 @@ Depending on the view you are working on and the form the ticket belongs to, you
 
 ### Copying contents of Slack threads to internal notes
 
-When using Slack to work with others or communicate internally regarding a support ticket, please bear in mind [our chat retention policy](https://about.gitlab.com/handbook/communication/#slack) and the [Communication Guidelines (esp. 9.)](https://about.gitlab.com/handbook/communication/#general-guidelines). It's best for future searches in Zendesk to copy relevant advice, notes, ideas, etc. from Slack to an internal note in Zendesk.
+When using Slack to work with others or communicate internally regarding a support ticket, please bear in mind [our chat retention policy](/handbook/communication/#slack) and the [Communication Guidelines (esp. 9.)](/handbook/communication/#general-guidelines). It's best for future searches in Zendesk to copy relevant advice, notes, ideas, etc. from Slack to an internal note in Zendesk.
 
 ### Understanding SLAs
 
@@ -347,7 +347,7 @@ To delete text or attachments from a ticket:
 
 Every now and then, a GitLab team member will forward a support request from a customer, prospective customer, user, etc. These requests then appear as tickets from the team member, instead of from the original requestor. Always reply directly to the original requester, keeping the person who forwarded it in the cc. You will need to manually alter the "Requester" field of the ticket, by clicking on the "(change)" link next to the email address of the apparent requester in the ticket title.
 
-Please see [Requesting Support for Customers](https://about.gitlab.com/handbook/support/internal-support/#requesting-support-for-customers) for more details.
+Please see [Requesting Support for Customers](/handbook/support/internal-support/#requesting-support-for-customers) for more details.
 
 # How to succeed at working on tickets
 

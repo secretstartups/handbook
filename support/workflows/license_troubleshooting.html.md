@@ -139,14 +139,14 @@ The following information is helpful to provide to the AR team when transfering 
 
 ## Passing to sales
 
- 1. **Sales leads pass.** Note, [sales territories](https://about.gitlab.com/handbook/sales/territories/) are segmented by region and size. Size is broken up into Large (2000+ total employees), MidMarket (100-1,999 total employees), Small business (0-99 total employees).
+ 1. **Sales leads pass.** Note, [sales territories](/handbook/sales/territories/) are segmented by region and size. Size is broken up into Large (2000+ total employees), MidMarket (100-1,999 total employees), Small business (0-99 total employees).
     1. **New business workflow** - a user does not currently subscribe to a GitLab subscription and wants a quote from sales.
         - Identify if the company is in SFDC; look up the email domain in SFDC global search. Note the `Type` field in the SFDC account record (Customer vs. Prospect). If prospect account is found, and `Account Owner` contains a sales rep, pass the ticket to the Account Owner listed using the [Pass to Sales ZD macro](https://gitlab.zendesk.com/agent/admin/macros/360025924680).
-        - If the account is in SFDC, but there is no Account Owner listed, use the `Sales Segment` (Large, MM, Small) and Billing Address to determine which salesperson the request should be passed using the [Pass to Sales ZD macro](https://gitlab.zendesk.com/agent/admin/macros/360025924680) based on [Sales territories](https://about.gitlab.com/handbook/sales/territories/).
+        - If the account is in SFDC, but there is no Account Owner listed, use the `Sales Segment` (Large, MM, Small) and Billing Address to determine which salesperson the request should be passed using the [Pass to Sales ZD macro](https://gitlab.zendesk.com/agent/admin/macros/360025924680) based on [Sales territories](/handbook/sales/territories/).
         - If the account is not in SFDC, respond to ticket with the [New Sales Quote ZD macro](https://gitlab.zendesk.com/agent/admin/macros/360026025019).
     1. **Renewals workflow** - a current customer wants a renewal quote.
         - Identify if the company is in SFDC; look up the email domain in SFDC global search. Note the `Type` field in the SFDC account record (Customer vs. Prospect). Note the Account Owner and the Opportunity Owner of the upcoming renewal opportunity. Pass the request to the opportunity owner.
-        - If the opportunity and account owner is listed as "SFDC Admin", check the `Sales Segment` field as this is likely Small Business. If so, use the [Sales territories](https://about.gitlab.com/handbook/sales/territories/) reference to identify who it should be referred to using the [Pass to Sales ZD macro](https://gitlab.zendesk.com/agent/admin/macros/360025924680).
+        - If the opportunity and account owner is listed as "SFDC Admin", check the `Sales Segment` field as this is likely Small Business. If so, use the [Sales territories](/handbook/sales/territories/) reference to identify who it should be referred to using the [Pass to Sales ZD macro](https://gitlab.zendesk.com/agent/admin/macros/360025924680).
     1. **Additional reasons to escalate to renewal sales**:
         - complaint with request of credit (ex. GitLab.com performance has been terrible, they want credit)
         - any paper quote request for orders more than $1,000 annually (has a PO, can't pay via credit card, need an invoice prior to payment
