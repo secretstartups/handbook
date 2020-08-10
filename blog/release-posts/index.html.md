@@ -194,7 +194,7 @@ _**Note:** The Release Post Manager is not responsible for creating any content 
 
 #### Merge individual items in to your branch
 
-**Important**: This procedure applies until the 17th, at 11:59 PM PT (6:59 AM UTC). After this time, anyone who wants to include a change in the upcoming release post can either coordinate updates directly on the release post branch with the Release Post Manager or submit it in a separate MR, targeting the `release-X-Y` branch, and assign it to the Release Post Manager to merge. For more information, see our documentation ho how to [Develop on a feature branch](https://docs.gitlab.com/ee/topics/git/feature_branch_workflow.html).
+**Important**: This procedure applies until the 17th, at 11:59 PM PT (6:59 AM UTC). After this time, anyone who wants to include a change in the upcoming release post can either coordinate updates directly on the release post branch with the Release Post Manager or submit it in a separate MR, targeting the `release-X-Y` branch, and assign it to the Release Post Manager to merge. For more information, see our documentation ho how to [Develop on a feature branch](https://docs.gitlab.com/ee/gitlab-basics/feature_branch_workflow.html).
 {:.alert .alert-info}
 
 When it is time to assemble the release post, this will be done by moving the
