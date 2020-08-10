@@ -139,7 +139,7 @@ Below is a list of resources considered highly valuable for continuous learning 
 * [GitLab Unfiltered YouTube](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) A YouTube channel private to GitLab employees with video recordings and playlists on company meetings, enablement sessions and other topics. Access GitLab's [Sales Enablement playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX). 
 * [Chorus Recordings](/handbook/business-ops/tech-stack/#chorus) Our team's history of call and demo recordings is a valuable training resource for new and existing sales team members.
 * [Sales & SDR Enablement Sessions](/handbook/sales/training/sales-enablement-sessions/) Weekly training sessions covering popular product, market and sales training topics chosen by the sales and marketing team members.
-* [Product Study Guide](https://docs.google.com/document/d/1fGLDNn8W8Vlvlvjm9fYKju9ZmOiccgJcE5STnrbLPaE/edit?usp=sharing) A study course for team members to understand the current full scope of capabilities offered in each tier of GitLab and reasons for tier upgrades.
+* [Product Study Guide](/handbook/marketing/product-marketing/tiers/) A study course for team members to understand the current full scope of capabilities offered in each tier of GitLab and reasons for tier upgrades.
 * [Sales Training](/handbook/sales/training/) page
 
 ## <i class="fas fa-users fa-fw icon-color font-awesome" aria-hidden="true"></i> Commercial Team Groups
@@ -215,7 +215,7 @@ New team members should familiarize themselves with The Required 7. These are th
 #### Customer Journey 
 * [Inbound Queue Management](/handbook/sales/commercial/#inbound-queue-management)
 * [Licensing/Subscription Management](/handbook/sales/commercial/#licensingsubscription-management)
-* [Troubleshooting Resource for Licensing/Subscription Management](/handbook/sales/commercial/#troubleshooting-resources-for-licensingsubscription-management)
+* [Troubleshooting Resource for Licensing/Subscription Management](/handbook/sales/commercial/#troubleshooting-how-to-resources-for-licensing-subscription-management)
 * [Quotes / Sales Order Processing](/handbook/sales/commercial/#quotes--sales-order-processing)
 
 ### Inbound Queue Management
@@ -271,7 +271,7 @@ GitLab.com Trials & Subscription Management
 - Access [the Customer Portal](https://customers.gitlab.com/admin/customer) to provide changes to a user, group, or subscription. 
 
 ### Troubleshooting & How-To Resources for Licensing & Subscription Management
-Detailed instructions on how to handle problems with licenses and subscriptions can be found in [these instructions and resources.](/handbook/business-ops/business_systems/portal/troubleshooting/)
+Detailed instructions on how to handle problems with licenses and subscriptions can be found in [these instructions and resources.](/handbook/business-ops/enterprise-applications/portal/troubleshooting/)
 
 ### Quotes | Sales Order Processing
 More information about [sales order processing](/handbook/business-ops/order-processing/) can be found in the Business Ops handbook section.
@@ -335,7 +335,7 @@ New team members should familiarize themselves with The Required 7. These are th
 #### Customer Journey 
 * [Inbound Queue Management](/handbook/sales/commercial/#inbound-queue-management)
 * [Licensing/Subscription Management](/handbook/sales/commercial/#licensingsubscription-management)
-* [Troubleshooting Resource for Licensing/Subscription Management](/handbook/business-ops/business_systems/portal/troubleshooting/)
+* [Troubleshooting Resource for Licensing/Subscription Management](/handbook/business-ops/enterprise-applications/portal/troubleshooting/)
 * [Quotes / Sales Order Processing](/handbook/sales/commercial/#quotes--sales-order-processing)
 
 ## Account Ownership Rules of Engagement for Commercial Sales 
