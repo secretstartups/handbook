@@ -26,7 +26,6 @@ Things to think about:
 1. **Is it a complicated, will everyone understand it?** Not everyone does the same job as you. Are you able to explain it in simple terms that everyone can understand?
 1. **What should the communication plan be?** Is this a one off communication or is it split into phases?
 1. **Do you need guidance on any people or legal aspects to it?** Generally changes that impact people could potentially have legal or employment aspects to it and you may need advice and approval from the People Group and/or Legal.
-1. **If in doubt, always reach out!** Slack #internal-communications, or create new issue using [internal-communications-request template](https://gitlab.com/gitlab-com/chief-of-staff-team/internal-communications/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=).
 
 ## Communicating Change
 
@@ -50,4 +49,20 @@ If your project includes a change with a significant impact on team members,or i
 ### What is a contentious issue?
 
 A contentious issue is something that people are likely to disagree or argue with or something that is controversial.
-For example, endpoint management, pricing changes, compensation changes (including benefits) are all considered contentious. 
+For example, endpoint management, pricing changes, compensation changes (including benefits) are all considered contentious.
+
+## How to Engage Internal Comms
+
+1. Start by create a new issue using [internal-communications-request template](https://gitlab.com/gitlab-com/chief-of-staff-team/internal-communications/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=).
+1. Internal Comms will evaluate whether or not to get involved.
+1. If internal comms does engage we can either consult or support the project. **Most projects will just not have internal comms support** but we can help consult on most projects.
+
+### Internal Comms Consulting
+
+If Internal Comms is consulting on your project, we are happy to lend our expertise to help you execute on your own communications plan.
+We'll spend time reviewing your comms plan and highlight concerns or areas for additional detail.
+When consulting, we will not write any copy or execute on communications.
+
+### Internal Comms Support
+
+Internal Comms support is only available in highly sensitive situations because of limited internal comms resources. 
