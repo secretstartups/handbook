@@ -13,7 +13,7 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 ----
 
-The questions and techniques described on this page will provide you with some ways to drive a strategic conversation with a customer, and explore the information you need to develop an [effective success plan](/handbook/customer-success/tam/success-plans/).
+The questions and techniques described on this page will provide you with some ways to drive a strategic conversation with a customer, and explore the information you need to develop an [effective success plan](/handbook/customer-success/tam/success-plans/).  A Success Plan should always be a continuation of the [Command Plan](https://about.gitlab.com/handbook/sales/sales-operating-procedures/engage-and-educate-the-customer/#step-5-qualify-the-opportunity) where available.  THe below questions are for further expanding on what we know from the Command Plan, or refreshing on objectives if it has been some time. 
 
 ## “Where do we go from here?”
 
@@ -27,7 +27,17 @@ If the customer responds that there is nothing else they need or are interested 
 
 Instead of asking about GitLab and how GitLab might help them, turn the conversation around to talk about their business. Listen actively, let the customer talk without interjecting, and then explore how what you heard could be activated in the Gitlab platform.
 
-- "Last time we spoke, you mentioned you had other initiatives you were working on outside of GitLab. Would you be open to sharing what those goals are? I would like to understand your focus now and in the future so that I can be continually bringing new features and strategies on Gitlab to you as are relevant."
+- "Last time we spoke, you mentioned you had other initiatives you were working on outside of GitLab.  Would you be open to sharing what those goals are?  I would like to understand your focus now and in the future so that I can be continually bringing new features and strategies on Gitlab to you as are relevant. 
+
+## Sync/Refresh
+
+When you already have some information in your Success Plan but have identified gaps in your knowledge, you can approach the conversation as a periodic review to make sure everyone is on the same page.
+
+- “I’d like to understand better [item already in success plan or command plan], can you tell me more about the problem and the outcome you’re looking for?”
+- “It’s been a few months since we reviewed the main objectives you have. Can we take a few minutes to go over those and make sure I’m aligned with your current objectives?”
+- “Over the last couple of conversations you mentioned [topic or focus from prior meeting(s)], can we talk some more about that?”
+
+Once you’ve opened the conversation, use some other techniques to gather details, and level up to strategic objectives.
 
 ## Commiseration/Empathy
 
@@ -38,15 +48,6 @@ If you have a good relationship with your champion, you can appeal to a shared f
 
 Once you’ve opened the conversation, use some of the other techniques to gather details and level up to strategic objectives.
 
-## Sync/Refresh
-
-When you already have some information in your Success Plan (which should at minimum be available from the Command Plan), but have identified gaps in your knowledge, you can approach the conversation as a periodic review to make sure everyone is on the same page.
-
-- “I’d like to better understand [item already in success plan or command plan], can you tell me some more about the problem and the outcome you’re looking for?”
-- “It’s been a few months since we reviewed the main objectives you have, can we take a few minutes to go over those and make sure I’m still focused on the same things you are?”
-- “Over the last couple of conversations you mentioned [topic or focus from prior meeting(s)], can we talk some more about that?”
-
-Once you’ve opened the conversation, use some of the other techniques to gather details and level up to strategic objectives.
 
 ## “Day in the Life”
 
