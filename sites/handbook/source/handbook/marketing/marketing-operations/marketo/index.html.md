@@ -133,6 +133,8 @@ Below is the folder structure to hold and categorize different operational progr
 
 *Nested under each folder there are programs. Quarterly folders are created at the end of the quarter to help with organization. Quarterly folders will be archived after two quarters. In the future if we have additional types of folders to add, we can do so.* 
 
+## Lists
+
 ### Account Based Marketing List   
 
 ABM lists are built by request for the Field Marketing and Marketing Program team to target & send emails/invitations to accounts deemed to be high priority by Sales. 
@@ -159,4 +161,5 @@ The Field Marketing and Marketing Program teams use targeted email lists as a to
 * List request is required 7 days prior to email deployment - FMM / MPM
 * Final Smart List is available 2 days prior to email deployment - MOps
 
-
+## Mailchimp sends
+In some cases, we will use Mailchimp for sending emails. This is the case for security alert emails. The External Communications person for security has access to Mailchimp to send these notices out. Prior training is required before a user can be given access. Please reach out to Mops if this access is required. 
