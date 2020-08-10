@@ -133,19 +133,26 @@ absence.
    up to speed very quickly.
 
 ### Tips
-**MJD** This whole section needs to be created
-<!--
-* unsubscribe from MRs that will likely resolve while you're gone - so the burden of your email & ticket queues is not high when you return
-* Set up email filters to move emails into buckets that you can address one-at-a-time when you return
-* log out from (or remove) Slack and Gmail from your phone https://gitlab.slack.com/archives/C834CM4HW/p1594764888095700
--->
+
 In addition to the companywide tips in
 [Communicating Your Time Off](/handbook/paid-time-off/#communicating-your-time-off),
-take a look at these tips to increase your ability to increase your ability to
-disconnect from work and truly make the most of your time off:
+take a look at these tips to increase your ability to disconnect from work,
+truly make the most of your time off, and make it easier to return to work:
 
+1. Unsubscribe from any MRs that will likely resolve while you're away, and then
+   you won't have to deal with all the emails from them when you return.
+1. Set up some email filters to move emails into buckets that you can address
+   one-at-a-time when you return.
+1. Disconnect yourself from Slack and Gmail in any of these ways:
+   *NOTE: PTO Ninja is supposed to turn off Slack notifications on your phone and
+   set DND mode. But just in case, you may want to do one of these:*
+   1. log out from Slack and Gmail on your phone, or
+   1. remove Slack and Gmail from your phone, or
+   1. pause the Slack and Gmail apps on your phone
+   1. manually configure Slack and Gmail to send no notifications on your phone
 
-### OLD PAGE
+### Re-connect
 
-- add an agenda item after you get back to let us know what you've been up to!
+Please consider adding an agenda item after you get back to let the rest of the
+team know what you've been up to!
 
