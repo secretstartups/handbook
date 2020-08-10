@@ -26,7 +26,7 @@ GitLab’s top priority is the health and safety of our attendees and team membe
 
 * Note, when building invite landing pages, please ensure the complete paragraph above has been added to the landing page.
 
-Travel guidance on COVID-19 can be [found here](https://about.gitlab.com/handbook/travel/#travel-guidance-covid-19). 
+Travel guidance on COVID-19 can be [found here](/handbook/travel/#travel-guidance-covid-19). 
 
 ### Legal verbiage that should be included in all event contracts thoughout FY21
 
@@ -143,8 +143,23 @@ We ask these questions and use this scorecard to ensure that we're prioritizing 
 
 ##### **NOTE:** All events under the employee [authorization matrix](/handbook/finance/authorization-matrix/#authorization-matrix) approval threshold **AND** No contract or security review required can skip step 4- contracting process. 
 
-### Step 4- Contract Process
-#### All events OVER the employee [authorization matrix](/handbook/finance/authorization-matrix/#authorization-matrix) approval threshold **AND** Contract or Security review required
+### Ancillary Events
+If the overarching event includes a speaking session, workshop, dinner, and/or happy hour (anything that requires a separate SFDC campaign and list upload), please follow the steps below and abide by the SLA guide to give necessary time for work to be complete.
+
+**⏰ SLAs for YES/NO section to be filled out for an ancillary event before moving to WIP:**
+* **45 business days:** if the ancillary event will *require Marketo invitation*.
+* **20 business days:** if the ancillary event will only need tracking and follow up email.
+
+The purpose of creating a new issue for each ancillary event is to better facilitate the needs for each event, to clearly indicate the timelines, and to clarify the DRIs which may be different for the different events. For example, if there is a speaking session hosted by a GitLabber at a larger conference, and the speaker is planning to write the email copy after the event, the timeline and DRI would be different from the timeline and DRI for the general booth follow email.
+
+**Steps for Ancillary Events:**
+1. **DRI to create a new issue for each ancillary event** that corresponds to the main Field/Corporate Event (ex: Dinner + Date - Event Name as shown on the original issue) and assign it to event DRI & MPM DRI.
+    - For each ancillary event issue, fill out the MPM YES/NO checklist to communicate if there will be a landing page, invitation & reminder, and/or follow-up as part of the ancillary event.
+    - Note: All copy (both for the overall event and the ancillary events) is kept in a single copy doc and linked from the Event Epic
+    - Timeline and SLAs will follow existing agreement [FM/MPM](/handbook/marketing/events/#timelines-and-slas-between-field-marketing-and-marketing-programs), [Corp/MPM](/handbook/marketing/events/#timelines-and-slas-between-corporate-marketing-and-marketing-programs)
+2. **Marketing Program Manager will add the related necessary execution issues** as indicated by the YES/NO section in the issue. **This section must be complete before the issue moves to `status:wip`.** 
+    - Ex: Landing Page - Dinner + Date - Event name as shown on original issue)
+3. **Marketing Program Manager will add as a new line item for each ancillary event in the [Events googledoc](https://docs.google.com/spreadsheets/d/1mw16Ft0Wo379dT6OYingQ5A4xXTT1EjdpD6k-lgQync/edit#gid=0)**
 
 1. If the event is approved to move forward to contracting, is on the budget sheet, and the campaign tag has been created (Corporate Marketing) or auto-created by formula (Field Marketing), the DRI will start finance issue for contract review and signature following the [Procure to Pay Process](/handbook/finance/procure-to-pay/). The event DRI/FMC (for Field Marketing) is in charge of the finance issue creation and ushering it along.  The finance issue will include:
      - ROI calculation for event in the final cost section.
@@ -459,13 +474,13 @@ FMM and MPM determine format of this virtual event from [documented options.](/h
 
 * **If this is a GitLab Hosted ZOOM Webcast:**
   * FMM: provide new campaign tag (if applicable).
-  * MPM: If Epic wasn’t created, create the epic with the [Virtual Event Epic code.](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#step-2-mpm-will-create-the-virtual-event-epic) If Epic was created, change it to the Virtual Event Epic Code.
+  * MPM: If Epic wasn’t created, create the epic with the [Virtual Event Epic code.](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#step-2-mpm-will-create-the-virtual-event-epic) If Epic was created, change it to the Virtual Event Epic Code.
   * MPM: Create new marketo program under `Virtual Events` cloning `YYYYMMDD_WebcastTopic_Region (Single time slot)`  or `YYYYMMDD_WebcastTopic_Region (Multiple Time Slot)` template and save to the `GitLab Webcasts` folder. If you are using the same campaign tag as the original live event, add "OLD" to the beginning of the existing live event Marketo program as Marketo will not allow two programs with the same name.
   * MPM: create a new folder in the `GitLab Webcasts` folder for the virtual event.
   * MPM: create new SF campaign by syncing new marketo program to SFDC.
   * MPM: update links in Epic to new SFDC and Marketo links. Update the utm if applicable.
   * MPM: follow standard processes with tokens, program activation, etc.
-  * MPM: [set up ZOOM Webcast](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/#step-3-configure-zoom)
+  * MPM: [set up ZOOM Webcast](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/#step-3-configure-zoom)
 
 * **Existing event Marketo program MPM tasks (applies to both types):**
   * Move the existing event marketo program under the new folder you have created and add `OLD` at the beginning of the title.
@@ -487,7 +502,7 @@ FMM and MPM determine format of this virtual event from [documented options.](/h
 #### When Offline Field Events & Conferences turn to Virtual
 
 These will be Virtual Sponsorships with booths (not just a sponsored webcast).
-  * MPM: if Epic wasn’t created, create the epic with the [Virtual Event Epic code.](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#step-2-mpm-will-create-the-virtual-event-epic) If Epic was created, change it to the Virtual Event Epic Code.
+  * MPM: if Epic wasn’t created, create the epic with the [Virtual Event Epic code.](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#step-2-mpm-will-create-the-virtual-event-epic) If Epic was created, change it to the Virtual Event Epic Code.
   * FMM/CMM: let interested teams know that the event has switched to digital and sales-nominated flow has been stopped (if applicable).
   * MPM: Add [Virtual] to the beginning of the epic and all supporting issues.
   * FMM/CMM: Add a note to the epic and the main issue: `This event has changed from live to virtual. Original date [2020-xx-xx], New Date: [2020-xx-xx], This [epic/issue] reflects information for the virtual event.` Date can be left off if it is the same.
