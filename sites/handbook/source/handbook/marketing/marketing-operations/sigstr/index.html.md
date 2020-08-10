@@ -13,13 +13,14 @@ title: "Sigstr"
 
 Sigstr is a marketing tool used as an advertising channel inside the inbox. 
 
-## Training
+## Training & Help
 
 1. [Sigstr overview video](https://help.sigstr.com/en/articles/1626095-sigstr-overview-video)
 1. [Application training tutorial](https://help.sigstr.com/en/articles/2545315-sigstr-application-training-tutorial)
 1. [ABM video tutorial](https://help.sigstr.com/en/articles/1118019-abm-video-tutorial)
 1. [Dynamic campaigns tutorial](https://help.sigstr.com/en/articles/1118024-dynamic-campaigns-tutorial)
 1. [Groups video tutorial](https://help.sigstr.com/en/articles/1118058-groups-video-tutorial)
+1. [Knowledgebase](https://help.sigstr.com/en/)
 
 ## Account Settings
 
@@ -98,3 +99,52 @@ Configure your account to clear out Sigstr's store of recipient data on regular 
 The image will be constrained to half the size to ensure high density of pixels. Use the same banner ad size for all campaigns.
 
 - 600-900 pixels wide x 120-240 pixels tall
+
+## Campaigns
+
+### Use cases
+
+- [36 Creative Use Cases for Email Signature Marketing](https://resources.sigstr.com/ebooks-or-reports/36-creative-use-cases-for-email-signature-marketing)
+
+**Content**
+
+1. Whitepapers and eBooks
+1. Events & conferences
+1. Case studies
+1. Product Releases
+1. Promotional video & teaser
+
+**Targeted**
+
+1. Region
+1. Customer status
+1. Persona
+1. Industry
+1. Past engagement
+1. Opportunity stage
+
+### Types
+
+1. **Default** - Display a banner ad as a fallback if no other rules apply
+1. **Sender** - Assign banner ads to one or more employee groups
+1. **Targeted** - Target banner ads to lists of contacts or accounts
+1. **Internal** - Promote internal initiatives and content to GitLab employees
+1. **A/B test** - Test two different banner ads to determine a leading variant
+1. **Alternate** - Provide employees with a banner ad they can subtitute on compose
+1. **Shuffle** - Promote up to five banner ads each with their own unique URLs
+
+### Create a campaign
+
+1. Select `Campaigns` from the side menu (flag icon).
+1. Click the `Create Campaign` button in the top right.
+1. Select your desired [campaign type](/handbook/marketing/marketing-operations/sigstr/#types), name your campaign, and click `Get Started`. You are redirected to edit the campaign details.
+1. Name your banner ad, enter alt text for the image, and upload the banner ad. All banner ads uploaded to Sigstr must have consistent dimensions to all other banners in our instance for consistency of output. Please follow [best practices](/handbook/marketing/marketing-operations/sigstr/#best-practices). 
+1. Under `Clickthrough URL`, choose your desired link type (manual clickthrough URL, mailto, or PathFactory experience). Note that you must already have a finalized PathFactory URL before selecting `PathFactory Experience`.
+1. Select the `UTM Parameters` drop down to add additional parameters for your campaign. If you do not enter additional paramters, the default parameters will be applied: `source=email_signature&medium=sigstr&content=employee_email` Note that your campaign name became the default parameter for campaign. You also have the option of adding custom UTM parameters if desired. It is highly recommended that you apply UTM parameters to your campaigns to properly report success.
+
+### Review a campaign
+
+1. On the left side of the campaign edit page, click `Review`. You can also select the `Next` button to accomplish this same action.
+1. Verify the look of your campaign. Ensure that the banner image does not appear blurry. If it appears blurry, try reuploading the banner image. If you still experience issues, please create an issue in the marketing operations project and assign `@sdaily`. 
+1. Confirm the banner ad properties including the name, alt text, and clickthrough URL.
+1. Choose your desired schedule for this campaign from the `Schedule` pane. You can choose to start the campaign immediately or at a later date/time. You can also set your campaign end date/time or let it run indefinitely.
