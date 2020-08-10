@@ -66,6 +66,7 @@ Because of the CoS's ability to come up to speed quickly, they may be tasked som
 
 Examples of a project with no clear leader:
 * Learning and development initiatives shared by the Sales Enablement teams and the People org
+* [Internal Communications](/handbook/communication/internal-communications/)
 
 #### Broad
 
