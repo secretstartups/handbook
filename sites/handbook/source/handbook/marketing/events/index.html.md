@@ -120,21 +120,21 @@ We ask these questions and use this scorecard to ensure that we're prioritizing 
 ### Step 1- Issue Creation
 
 #### All Events - New issue Creation
-1. **Event Owner** creates issue using the [Corporate Event Request Template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=corporate-event-request#) in the Corporate Marketing project. 
+1. **Corporate Marketing Event Owner** creates issue using the [Corporate Event Request Template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=corporate-event-request#) in the Corporate Marketing project. **Field Marketing Event Owner** creates issue using the appropriate [Field Marketing Event Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/tree/master/.gitlab/issue_templates) in the Field Marketing project.
 1. Add as much information about the event as possible. For the event to move into contracting, we will specifically need to know the cost and ROI. 
 
 ### Step 2- Campaign Tag Creation
 
 #### All events - Setting up the `Campaign Tag` 
 **NOTE**: Event owners are DRI to create/setup campaign names & tags!
-1. When **Event Owner** (DRI) begins campaign process, they will add the `campaign tag` (using proper `ISOdate_Name` format & within 31 character limit) into the associated budget line item. 
+1. When **Corporate Marketing Event Owner** (DRI) begins campaign process, they will add the `campaign tag` (using proper `ISOdate_Name` format & within 31 character limit) into the associated budget line item. When **Field Marketing Event Owner** (DRI) begins campaign process, they will utilize the `campaign tag` that is auto-created in the Field Marketing budget document (this campaign tag is created in the campaign's line item by formula).
      1. `Campaign Tag` ISO date = **first** day of event (if multiday) - Example: AWS reInvent Dec 2-5, 2019, `Campaign Tag` = `20191202_AWS_re:Invent` this will also be applied to the SFDC Campaign name & Marketo Program name
      1. If budget line corresponds to one vendor and the vendor is known, they will add that information as well to make matching future invoices easier. 
      1. We do not want to set this up too soon as it affects many systems - see [date change](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/#changes-to-offline-events-dates) but it does need to be done when we go into contracting or before any money is spent toward said event. 
 
-### Step 3 - Budget Tag Creation 
+### Step 3 - Netsuite campaign tag creation for events UNDER the employee [authorization matrix](/handbook/finance/authorization-matrix/#authorization-matrix) approval threshold **AND** no contract or security review required
 
-1. **Event Owner** copy/paste the `campaign tag` form the budget document into the request issue.
+1. **Event Owner** copy/paste the `campaign tag` form the budget document into the Corporate request issue or Field Marketing issue.
 2. **Event Owner** to ping the GL Accountant (@GGGONZALEZ) in the main event issue to request campaign tag be created in Netsuite.
 3. When event budget is approved by Finance, **Event Owner** verifies that the tag on the event and finance issue are accurate and match. 
 4. MPM will use the **exact `campaign tag`** as the SFDC Campaign and Marketo Program name so it is the unique identifier across all systems. 
@@ -144,18 +144,18 @@ We ask these questions and use this scorecard to ensure that we're prioritizing 
 ### Step 4- Contract Process
 #### All events OVER the employee [authorization matrix](/handbook/finance/authorization-matrix/#authorization-matrix) approval threshold **AND** Contract or Security review required
 
-1. If the event is approved to move forward to contracting,  is on the budget sheet, abd the campaign tags created, the DRI will start finance issue for contract review and signature following the [Procure to Pay Process](/handbook/finance/procure-to-pay/). The event DRI is in charge of the finance issue creation and ushering it along.  The finance issue will include:
+1. If the event is approved to move forward to contracting, is on the budget sheet, and the campaign tag has been created (Corporate Marketing) or auto-created by formula (Field Marketing), the DRI will start finance issue for contract review and signature following the [Procure to Pay Process](/handbook/finance/procure-to-pay/). The event DRI/FMC (for Field Marketing) is in charge of the finance issue creation and ushering it along.  The finance issue will include:
      - ROI calculation for event in the final cost section.
      - Add the finance issue as a `Related issue` to the original issue for reference.
      - Add in any discounts or contract negotiations you have already completed.
      - **Link to main event issue.**
 2. DRI to complete all relevant steps in the contract issue and close it out. 
 
-### Step 5- Contract Completed- FMM
-1. For **FMM's**,When contract has been signed the DRI will update issue label from `status:plan` to `status:wip`.
-     - At this point, all relevant details (loation, venue, time, date, etc.) must be included by the event organizer.
-     - The designated MPM will begin the backend execution using this information. [see MPM steps to set up event epic](/handbook/marketing/events#mpm-steps-to-set-up-event-epic)
-- The designated MPM will begin the backend execution.
+### Step 5- Contract Completed - FMM
+1. When contract has been signed the DRI will update issue label from `status:plan` to `status:wip`.
+     - At this point, all relevant details (loation, venue, time, date, etc.) and the MPM Checklist in the Field Marketing issue must be completed.
+     - The designated MPM will begin the backend execution using this information. [See MPM steps to set up event epic](/handbook/marketing/events#mpm-steps-to-set-up-event-epic)
+     - The designated MPM will begin the backend execution.
      - The MPM will create the event Epic, adding the checklist of related issues that need to be opened by respective team and high level information.
      - The MPM will also associate any issues opened for the event to the Epic.
 
@@ -163,7 +163,7 @@ We ask these questions and use this scorecard to ensure that we're prioritizing 
 1. For **Corporate Event DRI**,When contract has been signed the DRI will being event **epic creation process**. 
      - Below is the tactical process DRIs take to organize actions and timelines for field and corporate events. This process was created by MPM's to keep projects organized and on track. 
 
-#### Step A: DRI creates the event epic
+#### Step A (Corporate Marketing): DRI creates the event epic
 * DRI creates epic for the event.
 * Naming convention: [Event Name] - [3-letter Month] [Date], [Year]
 * DRI copy/pastes epic template below into the epic description.
@@ -226,7 +226,7 @@ cc Your department MPM to let them know epic and related issue have been created
 
 ```
 
-#### Step B: Templates to create the necessary issues listed above and add to epic
+#### Step B (Corporate Marketing): Templates to create the necessary issues listed above and add to epic
 
 * Using the relevant issue templates MPMs and MOps create issues in proper project and then link from the epic.
   * [Follow up email](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=MPM-04-follow-up-email)
