@@ -29,15 +29,6 @@ Our defect SLA can be viewed at:
 The Quality Engineering department employs a number of tools and automation in addition to manual intervention to help us achieve this goal.
 The work in this area can been seen in our department roadmap under [Triage](/handbook/engineering/quality/roadmap/#triage-track-roadmap-view) and [Measure](/handbook/engineering/quality/roadmap/#measure-track-roadmap-view) tracks of work.
 
-## Communicate early and broadly about expected automation impact
-
-Be sure to give a heads-up in the relevant Slack channels (e.g. `#development`,
-`#product`) and the company call when an automation is expected to triage more
-than 100 issues or merge requests at once.
-
-That is usually the case when migrating labels (e.g. migrating team labels to
-stage/group labels).
-
 ## Label renaming
 
 There is a large amount of automation that uses stage, group, and category labels. We ask that Product Managers create an issue in triage-ops when any of the following changes occur. This issue helps ensure limited to no impact to automation and reports.
