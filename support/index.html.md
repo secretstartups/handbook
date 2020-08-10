@@ -452,9 +452,8 @@ All our Support Engineers have access to the GitLab Support Instance, whereas on
 A collection of best practices and suggestions for [styling and responding to Zendesk tickets](/handbook/support/workflows/how-to-respond-to-tickets.html).
 
 ### Time Off
-**MJD** Need to write an appropriate blurb hear to introduce the idea and link to the new page. Probably replace this:
 
-The Support Team follows [GitLab's paid time off policy](/handbook/paid-time-off). However, do note that if a large number of people are taking the same days off, you may be asked to reschedule. If a holiday is important to you, please schedule it early.
+*See the [Support Time Off page](/handbook/support/support-time-off.html)*
 
 ### Onboarding
 
