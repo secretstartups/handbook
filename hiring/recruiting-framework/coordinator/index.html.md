@@ -47,6 +47,36 @@ For the VP of Alliances, VP of Commercial Sales, VP of Customer Success, VP of E
 
 If you have any questions about the process, please post in #eba-team slack channel and @ mention the EBA to the CEO.
 
+#### Using the Candidate Guide 
+
+Please ensure you have the [guide chrome extension](https://chrome.google.com/webstore/detail/resource-button/ikeemflbkbdhkgmgbdpeapmnnggbfogd) installed on your computer. 
+
+**How to send out a Guide for the first time**
+
+1. Once you have scheduled the interviews that need to be scheduled, click on the guide chrome extension in the upper right corner. 
+1. Select which Guide template you would like to use from the drop-down menu in the “Guide” box
+1. If the req has a Qualified or Justified stage, make sure they are hidden
+1. On the Team Interview stage in the Guide, you will need to do three things
+	1. Select the ‘pencil’ icon next to each interview and copy/paste the zoom link into the Remote Instructions box
+	1. While in that same edit window, update the numbers in front of the interview to reflect which interview it is in the stage (example: If you scheduled the first interview while there are 5 interviews within the Team Interview stage, the number in front of the scheduled interview should be 1 of 5, so on and so forth).  
+	1. If the interview name is something odd or has the names of all the interviewers that were possible, you will need to update the name of the interview to be just the interviewer who is scheduled. If you know what the interview will be about, feel free to put those details into the Description box. 
+1. Select Share
+1. The ‘To’ field should automatically populate with the candidate’s email address. 
+1. Select ‘Default Template’ from the Email Template options
+1. Remove the cc’d email addresses
+1. Press Send
+1. To make the chrome extension go away, click on the icon in the upper right corner again
+1. After the Guide is sent, in Greenhouse, select the dropdown where you go to request availability, confirmation, etc. and select the ‘Confirmation Sent’
+
+**How to send out an updated Guide if there was a change/reschedule**
+
+1. If you had to make a change to an interview, whether that is a cancel or reschedule and need to let the candidate know that there have been changes, you will need to resend the Guide.
+1. While in the candidate’s greenhouse profile, click on the Guide extension
+1. All of your previous manual updates should still be in the guide so there won’t be any need to re-do the manual steps
+1. Select ‘Share again’
+1. Select ‘Interview Changes Template’
+1. Press ‘Send’
+
 #### Interview Reschedule Requests and Other Communication to the CES Email
 
 The CES team utilizes [GitLab Service Desk](/product/service-desk/) to track incoming emails to the CES email alias.
