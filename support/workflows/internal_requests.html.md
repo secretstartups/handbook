@@ -70,6 +70,12 @@ See [internal wiki page](https://gitlab.com/gitlab-com/support/internal-requests
 
 This is a generic template used to request an engineer with GitLab.com console access to take action.
 
+Common issues include the following when the UI and API methods are not working:
+
+- deletion
+- user account changes
+- project export
+
 Engineers with console access should search for similar previous requests, look for the relevant function in the code, or work with another engineer to resolve each request.
 
 Any request requiring disk access requires an [infra issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues).
