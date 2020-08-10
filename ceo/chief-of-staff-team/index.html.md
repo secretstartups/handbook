@@ -232,16 +232,3 @@ The Chief of Staff may occasionally have a Chief of Staff Shadow, a GitLab team 
 * [Better CoS: Decision Making](https://medium.com/@robdickins/better-cos-decision-making-5d97d14152e3)
 * [Becoming a Chief of Staff with Brian Rumao](https://www.linkedin.com/learning/become-a-chief-of-staff-with-brian-rumao)
 * [HBR: The Case for a Chief of Staff](https://hbr.org/2020/05/the-case-for-a-chief-of-staff)
-
-## Sample list of things
-
-1. Apples
-1. Bears
-1. Bananas
-1. Giraffes
-1. Oranges
-1. Zebras
-1. Dragon fruit
-1. Elephants
-1. Potatoes
-1. Lions
