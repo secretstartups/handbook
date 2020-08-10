@@ -31,7 +31,7 @@ Instead of asking about GitLab and how GitLab might help them, turn the conversa
 
 ## Commiseration/Empathy
 
-If you have a good relationship with your champion, you can appeal to a shared feeling of “we all have a job to do” in explaining that you need to gather some information about how their business operates and what they’re focused on.
+If you have a good relationship with your champion, you can appeal to a shared feeling of “we all have a job to do” in explaining that you need to gather some information about how their business operates and what they’re focused on.  This approach works well if suddenly asking goal questions within your standard cadence calls could seem awkward.
 
 - “I have some questions I need to ask so I can fill out some paperwork about what you’re focused on. You know how it goes!”
 - “My boss is telling me I need to fill out some information about my customers - I’m sure you know how that goes - so I have a few questions I’d like to ask.”
