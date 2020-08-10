@@ -125,19 +125,9 @@ See the [Working on Tickets Flowchart](#working-on-tickets-flowchart) for a visu
    assign it to yourself and then send your first response to the ticket
    requester. And remember, you have a whole team ready to help you drive that
    ticket to a great resolution, so you're never alone.
-1. **I'm going to be absent, what do I do with my assigned tickets?** If you'll
-   be absent for only a day or two, please ask your users whether they want to
-   wait for your return or work with others in your absence. For those who will
-   wait, place their tickets on hold. For longer absences, please inform your
-   users that your tickets will be reassigned due to your upcoming absence.
-   Then, find someone willing to take over each ticket, and review the tickets
-   with them before reassigning. If you can't find someone to take your ticket,
-   you can 'unassign' by assigning it to a 'group' (e.g. 'Support EMEA',
-   'Support APAC', 'Support AMER'). If the user has specified a preferred
-   region, select the corresponding group. Otherwise, select any group - the
-   ticket will still be visible for all Support Engineers. Be sure in this
-   situation to create a very clear and thorough ticket summary so that the next
-   engineer can come up to speed very quickly.
+1. **I'm going to be absent, what do I do with my assigned tickets?**  Please
+   see the [Support Team Member Time Off page](/handbook/support/support-time-off.html) for a full description of this
+   situation.
 1. **A ticket has diverged into more than one problem. What do I do?** It's recommended to keep tickets focused on a single problem that's clearly described by the ticket Title. If the user asks about another problem, you are encouraged to "**split**" the ticket **by creating a new ticket on behalf of the user**. The new ticket should focus on a single issue and keep the original ticket on the original issue. This helps reduce time to resolution and makes it easier for us to focus on fixing the problem at hand:
     1. Click `+ Add` near the top of the Zendesk screen to create a new ticket
     1. Set the user as the Requester (use the same email address as the original ticket)
