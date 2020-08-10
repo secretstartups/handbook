@@ -9,9 +9,8 @@ title: "Sales Manager Best Practices"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# Sales Manager Best Practices
 
-### Onboarding New Team Members 
+## Onboarding New Team Members 
 * Successful onboarding plays a critical role in getting your team member on the path to success! Before a new team member joins, please review the onboarding process so you know what to expect and can help set expectations with your new hire! [The onboarding page](/handbook/people-group/general-onboarding/) has a lot of great resources including links to the [Sales specific onboarding issue](/handbook/people-group/general-onboarding/#role-specific-templates).
 * For more information on the onboarding process, please feel free to check out the Onboarding Education Session and AMA we had with Sales leaders on June 3, 2020:
 
@@ -20,11 +19,11 @@ title: "Sales Manager Best Practices"
 <!-- blank line -->
  
 
-### Review Command Plans
+## Review Command Plans
 
 *   Regularly review an aggregate of your team's Command Plans in this [Salesforce Report](https://gitlab.my.salesforce.com/00O4M000004e1dZ). This will allow you to scan your team's progress on both a macro and micro level and identify possible information gaps or obstacles that can hinder an opportunity. 
 
-### Opportunity Coaching
+## Opportunity Coaching
 
 *  Regularly leverage the [Command of the Message and MEDDPPICC sales manager materials](/handbook/sales/command-of-the-message/#resources-sales-manager-materials)
 *  Use the following outline for your opportunity consult sessions:
@@ -50,7 +49,7 @@ title: "Sales Manager Best Practices"
     *   Refer to the Paper Process when appropriate so efforts aren't duplicated
     *   If you can still ask, "what happens between one line item and the next" and you don't know...then see item 4 and use that knowledge as a guide to continually drive higher fidelity through each communication.
 
-### Strategic Coaching
+## Strategic Coaching
 
 *   Celebrate your wins and socialize success stories to help with motivation across teams 
 *   Continue to leverage your fellow managers for feedback and input on what is working well
@@ -58,16 +57,16 @@ title: "Sales Manager Best Practices"
 *   Enable partner sellers to jointly run deals leveraging Command of the Message and MEDDPPICC
 *   Conduct Command of the Message and MEDDPPICC refresh sessions covering 1-2 slides/tools per week
 
-### Career Development
+## Career Development
 
 *   Leverage GitLab's [Career Development](/handbook/people-group/learning-and-development/career-development/) resources
 
-### Performance Management
+## Performance Management
 
 *   [Performance Assessment and Succession Planning](/handbook/people-group/performance-assessments-and-succession-planning/)
 *   [Performance Management Overview for Sales Managers](https://youtu.be/mIPFhq0Th1w) (May 2020, 18 minutes, private)
 
-### Leadership Toolkit 
+## Leadership Toolkit 
 * For additional leadership resources, check out the [Leadership toolkit](/handbook/people-group/leadership-toolkit/)
 
 

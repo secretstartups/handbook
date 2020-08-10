@@ -72,6 +72,9 @@ Chat between David Somers (Sr. Director, Field Enablement) and Sid Sijbrandij (C
    * The handbook continues to be the SSOT, with the e-learning platform leveraging handbook materials through screenshots, embeds, and more
 </details>
 
+*  Learn how Field Enablement takes a [Handbook-first Approach for Interactive Learning]()
+
+
 ## Six Critical Questions
 Inspired by _The Advantage: Why Organizational Health Trumps Everything Else in Business_ by Patrick Lencioni
 
