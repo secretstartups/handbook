@@ -61,7 +61,7 @@ If you need help with scripting for fixes, internal tools, or any other reason.
 
 | Technology              | Region | Team Member                                                               |
 | ----------------------- | ------ | ------------------------------------------------------------------------- |
-| Ruby/Rails              | AMER   | Davin <br> JasonY <br> Lewis                                              |
+| Ruby/Rails              | AMER   | Davin <br> JasonY <br> Lewis <br> Sara                                    |
 |                         | EMEA   | Ronald <br> Catalin                                                       |
 |                         | APAC   | Wei-Meng Lee <br> Arihant <br> Priyan <br> Anton <br> Athar               |
 | GO                      | APAC   | Athar                                                                     |
@@ -69,8 +69,9 @@ If you need help with scripting for fixes, internal tools, or any other reason.
 |                         | AMER   |                                                                           |
 | JavaScript              | APAC   | Wei-Meng Lee <br> Arihant <br> Anton <br> Athar                           |
 |                         | EMEA   | Ronald <br> Catalin <br> Alin                                             |
-|                         | AMER   | Davin <br> Phil                                                           |
-| Vue.js                  | APAC   | Wei-Meng Lee <br> Athar                                                   |
+|                         | AMER   | Davin <br> Phil <br> Sara                                                 |
+| Vue.js                  | APAC   | Wei-Meng Lee <br> Athar <br>                                               |
+|                         | AMER   | Sara
 |                         | EMEA   | Catalin                                                                   |
 | Ansible                 | AMER   | JasonY                                                                    |
 |                         | EMEA   | Shem                                                                      |
@@ -103,7 +104,7 @@ This section is ordered by stage and group according to the [product categories 
 
 | Topic          | Region | Team Member           |
 | -------------- | ------ | --------------------- |
-| Project Import | AMER   | Cynthia               |
+| Project Import | AMER   | Cynthia <br> Sara     |
 |                | EMEA   | Rehab <br> VladB      |
 
 #### Plan
@@ -153,7 +154,7 @@ This section is ordered by stage and group according to the [product categories 
 
 | Topic            | Region | Team Member       |
 | ---------------- | ------ | ----------------- |
-| JIRA Integration | AMER   | Tristan <br> Aric |
+| JIRA Integration | AMER   | Tristan <br> Aric <br> Sara |
 |                  | APAC   | Priyan            |
 
 #### Verify
@@ -164,8 +165,8 @@ This section is ordered by stage and group according to the [product categories 
 | ------------------- | ------ | --------------------------------------------------------------------------------------------- |
 | CI                  | EMEA   | DeAndre <br> Ronald <br> Silvester <br> David Wainaina <br> Shem <br> VladB                   |
 |                     | AMER   | Cynthia <br> Harish <br> Cody West <br> Cleveland <br> Gabe <br> Caleb W. <br> Phil <br> Brie |
-|                     | APAC   | Alex Tanayno <br> Athar <br> Arihant <br> Priyan <br> Anton <br> Sameer                       |
-| Jenkins Integration | AMER   | Aric                                                                                          |
+|                     | APAC   | Alex Tanayno <br> Athar <br> Arihant <br> Priyan <br> Anton <br> Sameer <br> Sara                   |
+| Jenkins Integration | AMER   | Aric <br> Sara                                                                                     |
 
 ##### Runner
 
@@ -173,7 +174,7 @@ This section is ordered by stage and group according to the [product categories 
 | ------------------- | ------ | ------------------------------------ |
 | GitLab Runner       | APAC   | Alex Tanayno <br> Arihant <br> Anton <br> Athar |
 |                     | EMEA   | Ronald <br> Silvester                |
-|                     | AMER   | Davin <br> Phil                      |
+|                     | AMER   | Davin <br> Phil <br>Sara                     |
 | Kubernetes Executor | AMER   | Phil                                 |
 |                     | EMEA   |                                      |
 |                     | APAC   |                                      |
@@ -196,7 +197,7 @@ This section is ordered by stage and group according to the [product categories 
 | Package             | AMER   | Thiago <br> Sara <br> Caleb W. |
 |                     | EMEA   |                                |
 |                     | APAC   |                                |
-| Container Registry  | AMER   | Will <br> Davin                |
+| Container Registry  | AMER   | Will <br> Davin <br> Sara      |
 |                     | EMEA   |                                |
 |                     | APAC   |                                |
 | Helm Chart Registry | AMER   |                                |
@@ -298,8 +299,8 @@ This section is ordered by stage and group according to the [product categories 
 | Topic               | Region | Team Member |
 | ------------------- | ------ | ----------- |
 | PostgreSQL          | EMEA   | Ben         |
-|                     | AMER   |             |
+|                     | AMER   | Sara            |
 |                     | APAC   | Mike        |
 | Database Migrations | EMEA   | Rehab       |
-|                     | AMER   |             |
+|                     | AMER   | Sara            |
 |                     | APAC   |             |
