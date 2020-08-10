@@ -35,7 +35,7 @@ The format is: misused term => correct term, reason why.
    1. [Version check](/handbook/sales/process/version-check/) is what version of GitLab a subscription is using
    1. [Usage ping](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#usage-ping-core-only) is high level data of how GitLab is being used in a license
    1. [Snowplow](/handbook/business-ops/data-team/platform/snowplow/) is a dynamic site for web event analytics
-   1. [Google Analytics](/handbook/tools-and-tips/#google-analytics) is a static site for receiving data from about.gitlab.com and docs.gitlab.com
+   1. [Google Analytics](/handbook/tools-and-tips/#google-analytics) is a static site for receiving data from `about.gitlab.com` and `docs.gitlab.com`
    1. Database events is using the database records of Gitlab.com to look at how people are using the application.
 1. Rule of thumb => Guideline or Heuristic, since rule of thumb is of [dubious historical origins](https://www.phrases.org.uk/meanings/rule-of-thumb.html) and can be considered a violent or non-inclusive term.
 1. Deadline => Due date, since deadline [may have violent origins](https://en.wikipedia.org/wiki/Time_limit#Origin_of_the_term) and we use due date in our user interface for issues.
@@ -47,5 +47,6 @@ The format is: misused term => correct term, reason why.
 1. Top/Bottom of the hour => Start of the meeting, while most timezones in the world are offset from UTC by a whole number of hours, a few are offset by [30 or 45 minutes](https://www.timeanddate.com/time/time-zones-interesting.html).
 1. Poor man's solution => [Boring solution](/handbook/values/#boring-solutions), since it is gender-specific and implies that someone with less money would come up with a substandard solution compared to someone who has more money.
 1. Biweekly/Bimonthly => Twice weekly/monthly or every two weeks/months, since biweekly and bimonthly are ambiguous terms.
-1. Functional group leader => [E-group](/handbook/leadership/#e-group) leader, as the term "functional group leader" is a past term that has now been updated. See [Org Structure](https://about.gitlab.com/company/team/structure/#organizational-structure).
-1. Functional group => Department or team (depending on the context), as "functional group" is a past term that is no longer used. See [Org Structure](https://about.gitlab.com/company/team/structure/#organizational-structure).
+1. Functional group leader => [E-group](/handbook/leadership/#e-group) leader, as the term "functional group leader" is a past term that has now been updated. See [Org Structure](/company/team/structure/#organizational-structure).
+1. Functional group => Department or team (depending on the context), as "functional group" is a past term that is no longer used. See [Org Structure](/company/team/structure/#organizational-structure).
+1. Learning, Playbook, FAQ, Standard Operating Procedure, Training => The entire Handbook is the our standard operating procedure. Using these terms can cause confusion and lead to duplicate content. For example: Call it Contract Negotiation Handbook instead of Contract Negotiation Playbook  
