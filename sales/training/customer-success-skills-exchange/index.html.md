@@ -49,7 +49,7 @@ There are a few places to see previous CS Skills Exchange Sessions:
 
 
 #### Recording 
-For more information about Recording and Public/ Private YouTube videos, check out the [Sales Enablement Sessions](https://about.gitlab.com/handbook/sales/training/sales-enablement-sessions/#recording) page. 
+For more information about Recording and Public/ Private YouTube videos, check out the [Sales Enablement Sessions](/handbook/sales/training/sales-enablement-sessions/#recording) page. 
 
 
 ### Speaker Responsibiltiies 

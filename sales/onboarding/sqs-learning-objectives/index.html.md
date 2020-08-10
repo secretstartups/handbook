@@ -3,6 +3,8 @@ layout: handbook-page-toc
 title: "Sales Quick Start (SQS) Learning Objectives"
 ---
 
+{::options parse_block_html="true" /}
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 

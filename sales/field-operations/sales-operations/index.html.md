@@ -19,10 +19,10 @@ We aim to help facilitate new and existing processes throughout our field organi
 Sales Operations main focus is on the Sales organization and supports this group through the following key functions:
 
 <div class="flex-row" markdown="0" style="height:80px">
-  <a href="https://about.gitlab.com/handbook/sales/territories/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Territories</a>
-  <a href="https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#sales-operations-go-to-market" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Go To Market</a>
-  <a href="https://about.gitlab.com/handbook/sales/qbrs/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Quarterly Business Reviews</a>
-  <a href="https://about.gitlab.com/handbook/business-ops/resources/#account-ownership-rules-of-engagement" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Rules of Engagement</a>
+  <a href="/handbook/sales/territories/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Territories</a>
+  <a href="/handbook/sales/field-operations/sales-operations/#sales-operations-go-to-market" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Go To Market</a>
+  <a href="/handbook/sales/qbrs/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Quarterly Business Reviews</a>
+  <a href="/handbook/business-ops/resources/#account-ownership-rules-of-engagement" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Rules of Engagement</a>
     </div>
 
 ## **Meet the Team**
@@ -35,24 +35,24 @@ Sales Operations main focus is on the Sales organization and supports this group
 ## **Teams We Work Closely With**
 
 <div class="flex-row" markdown="0" style="height:80px">
-    <a href="https://about.gitlab.com/handbook/customer-success/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Customer Success</a>
-    <a href="https://about.gitlab.com/handbook/sales/field-operations/sales-systems/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Systems</a>
-    <a href="https://about.gitlab.com/handbook/sales/commissions/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Commissions</a>
-    <a href="https://about.gitlab.com/handbook/marketing/marketing-operations/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Marketing Operations</a>
-    <a href="https://about.gitlab.com/handbook/business-ops/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Operations</a>
+    <a href="/handbook/customer-success/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Customer Success</a>
+    <a href="/handbook/sales/field-operations/sales-systems/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Systems</a>
+    <a href="/handbook/sales/commissions/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Commissions</a>
+    <a href="/handbook/marketing/marketing-operations/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Marketing Operations</a>
+    <a href="/handbook/business-ops/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Operations</a>
 </div>
 
 <div class="flex-row" markdown="0" style="height:80px">
-    <a href="https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Deal Desk</a>
-    <a href="https://about.gitlab.com/handbook/resellers/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Channel Partner</a>
-    <a href="https://about.gitlab.com/handbook/sales/field-operations/field-enablement/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Field Enablement</a>
-    <a href="https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Strategy</a>
+    <a href="/handbook/sales/field-operations/sales-operations/deal-desk/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Deal Desk</a>
+    <a href="/handbook/resellers/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Channel Partner</a>
+    <a href="/handbook/sales/field-operations/field-enablement/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Field Enablement</a>
+    <a href="/handbook/sales/field-operations/sales-strategy/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Strategy</a>
   </div>
 
 ## **How to Communicate with Us**
 
 The #sales-support slack channel is monitored by several groups within Field Operations to give guidance or direction.
-Salesforce [chatter](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#salesforce-chatter-communication ) `@sales-support` is monitored by the Deal Desk team and they will re-direct any questions to Sales Operations if needed.
+Salesforce [chatter](/handbook/sales/field-operations/sales-operations/deal-desk/#salesforce-chatter-communication ) `@sales-support` is monitored by the Deal Desk team and they will re-direct any questions to Sales Operations if needed.
 
 * Slack: [#sales-support](https://gitlab.slack.com/archives/sales-support)
 * Salesforce: [@sales-Support](https://gitlab.my.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F94M000000fy2K)
@@ -65,8 +65,8 @@ Salesforce [chatter](https://about.gitlab.com/handbook/sales/field-operations/sa
   Steps to Getting Help with Okta for Sales Tools
 </summary>
 
-1. Visit the [Okta Handbook Page](https://about.gitlab.com/handbook/business-ops/okta/) to learn more about Okta.
-1. Create a [General Help Desk Request](https://about.gitlab.com/handbook/business-ops/team-member-enablement/).  Use the *submit issue* button on the linked page and then select the General Help Desk Request template.
+1. Visit the [Okta Handbook Page](/handbook/business-ops/okta/) to learn more about Okta.
+1. Create a [General Help Desk Request](/handbook/business-ops/team-member-enablement/).  Use the *submit issue* button on the linked page and then select the General Help Desk Request template.
 1. Reach out to #it-help in Slack.
 
 
@@ -92,16 +92,16 @@ Please leave assignee blank.
   Steps to requesting help using Salesforce Chatter
 </summary>
 
-1. [Contract assistance](https://about.gitlab.com/handbook/sales/#reaching-the-sales-team-internally)
-1. [Updating or creating Opportunity Splits ](https://about.gitlab.com/handbook/sales/#opportunity-splits)
-1. [Salesforce Lightning for Gmail](https://about.gitlab.com/handbook/sales/#salesforce-lightning-for-gmail)
-1. [Support from the Community Advocacy Team](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/#working-with-the-community-advocacy-team)
-1. [DataFox/DiscoverOrg segmentation conflicts](https://about.gitlab.com/handbook/business-ops/resources/#segmentation)
-1. [Reassigning to a Territory Rep](https://about.gitlab.com/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
-1. [Requesting Reassignment](https://about.gitlab.com/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
-1. [If LEAD or CONTACT is owned by SDR team member](https://about.gitlab.com/handbook/business-ops/resources/#record-creation-in-salesforce)
-1. [Locked Deal](https://about.gitlab.com/handbook/business-ops/resources/#locking-opportunities-as-a-result-of-their-at-risk-potential)
-1. [Deal Desk assistance](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#salesforce-chatter-communication)
+1. [Contract assistance](/handbook/sales/#reaching-the-sales-team-internally)
+1. [Updating or creating Opportunity Splits ](/handbook/sales/#opportunity-splits)
+1. [Salesforce Lightning for Gmail](/handbook/sales/#salesforce-lightning-for-gmail)
+1. [Support from the Community Advocacy Team](/handbook/marketing/revenue-marketing/sdr/#working-with-the-community-advocacy-team)
+1. [DataFox/DiscoverOrg segmentation conflicts](/handbook/business-ops/resources/#segmentation)
+1. [Reassigning to a Territory Rep](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
+1. [Requesting Reassignment](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
+1. [If LEAD or CONTACT is owned by SDR team member](/handbook/business-ops/resources/#record-creation-in-salesforce)
+1. [Locked Deal](/handbook/business-ops/resources/#locking-opportunities-as-a-result-of-their-at-risk-potential)
+1. [Deal Desk assistance](/handbook/sales/field-operations/sales-operations/deal-desk/#salesforce-chatter-communication)
 
 </details>
 
@@ -221,26 +221,12 @@ Contacts, and Leads, Verify and Save)
 
 - [Sales Operations Agile Board](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/boards/1655825?label_name[]=SalesOPS)
 - [Sales Operations Project](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations)
-- [Focus Fridays](https://about.gitlab.com/handbook/sales/#focus-fridays)
+- [Focus Fridays](/handbook/sales/#focus-fridays)
 - Field Operations Calendar
 
 <iframe src="https://calendar.google.com/calendar/embed?src=gitlab.com_hhs5o85g05lho9agbkfhv8lc40%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## **Important Resources & Processes**
-
-<details>
-<summary markdown='span'>
-  Updating Zuora and Salesforce Quote Templates
-</summary>
-
-In order to update quote templates that are used in Salesforce, and pulled in from Zuora, please reference the below resources provided by Zuora. 
-1. [General overview to update quote templates](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings/Customize_Quote_Templates)
-1. [Leveraging mail merge fields to update templates](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings/Customize_Quote_Templates/C_Customize_Quote_Template_using_Word_Mail_Merge) - This must be completed in Microsoft word and saved accordingly
-1. [Reference the merge fields that are supported](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings/Customize_Quote_Templates/K_Supported_Merge_Fields_for_Quote_Templates_and_Mapping_to_Salesforce#Charge_Summary.Quote_Rate_Plan_Merge_Fields)
-1. [How to displaty multiple quote charges in a table](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings/Customize_Quote_Templates/E_Customize_Quote_Templates_Using_Microsoft_Word_Mail_Merge)
-1. [Uploading to Zuora and connect to Salesforce](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings) 
-
-</details> 
 
 <details>
 <summary markdown='span'>

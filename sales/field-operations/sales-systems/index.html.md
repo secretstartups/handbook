@@ -70,7 +70,7 @@ Below is a list of the different technical skill sets found on the Sales System 
 6.  When you feel your iteration is complete run `git status` to make sure the changed files are the ones you expected.
 7.  Add in the files you wish to commit with `git add [filename]` or `git add *` if you want to add all changed files.
 8.  Commit your changes with a relevant message: `git commit -m "Fixing Apex CPU Errors"`.
-9.  Using the link provided by GitLab, open a merge request, [make it a `WIP:`](https://about.gitlab.com/handbook/git-page-update/#marking-a-merge-request-as-a-work-in-progress-wip), and assign it to the Architect on the project.
+9.  Using the link provided by GitLab, open a merge request, [make it a `WIP:`](/handbook/git-page-update/#marking-a-merge-request-as-a-work-in-progress-wip), and assign it to the Architect on the project.
 10.  Comment on the related issue with an @ to the project's Architect for review, providing a link to the merge request. (this automatically links the merge request to the issue)
 11.  If the Architect calls for a live demo, schedule the meeting and prep your sandbox to do a run through with the end customer.
 12.  If the Architect calls for user acceptence testing, make sure the assigned testers have access to the sandbox where the work was done, and schedule testing.
@@ -81,7 +81,7 @@ Below is a list of the different technical skill sets found on the Sales System 
 17.  Once the Change set validates, ping the Architect to schedule the deployment.
 18.  After the deployment, perform any post deployment steps such as adding visibility to net new fields.
 19.  Confirm with the end user that the functionality is working as expected.
-20.  Create a merge request to our [technical documentation](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/) adding the new feature or editing the features entry.
+20.  Create a merge request to our [technical documentation](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/) adding the new feature or editing the features entry.
 21.  Before moving to your next task rebase with `git checkout master` then `git pull`. **Always be pulling!**
 
 Note: We are continuing to move towards using [Salesforce SFDX and GitLab CI/CD Pipelines](https://trailhead.salesforce.com/en/content/learn/projects/automate-cicd-with-gitlab)

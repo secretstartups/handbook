@@ -12,7 +12,7 @@ title: "Commissions"
 
 | **GETTING STARTED** | **QUOTAS** | **COMMISSION PLANS** |
 | :------ | :------ | :------ |
-|[**FY21 Sales Compensation Plan**](https://about.gitlab.com/handbook/finance/sales-comp-plan/)<br><br>[**FY21 Commission Program**](https://docs.google.com/presentation/d/1lPZAmdHPPJwhJ4felwsgDXopIt7Usn3UnK5siOpQMlY/edit#slide=id.g153a2ed090_0_63)| [**Quotas Overview**](/handbook/sales/commissions/#quotas-overview)<br><br>[**Quota Components**](https://about.gitlab.com/handbook/sales/commissions/#quota-components)<br><br>[**Sales Rep IACV Quota Ramp**](/handbook/sales/commissions/#sales-rep-iacv-quota-ramp)<br><br>[**Seasonality Assumptions**](/handbook/sales/commissions/#seasonality-assumptions) | [**Commissions Overview**](/handbook/sales/commissions/#commissions-overview)<br><br>[**FY21 Commission Program Terminology**](/handbook/sales/commissions/#fy21-commission-program-terminology)<br><br>[**Commissions Rules**](/handbook/sales/commissions/#commissions-rules)<br><br>[**Commission Hold and Releases**](/handbook/sales/commissions/#hold-and-releases)<br><br>[**Participant Schedules**](/handbook/sales/commissions/#participant-schedules)<br><br>[**Opportunity Splits**](https://about.gitlab.com/handbook/sales/commissions/#opportunity-splits)
+|[**FY21 Sales Compensation Plan**](/handbook/finance/sales-comp-plan/)<br><br>[**FY21 Commission Program**](https://docs.google.com/presentation/d/1lPZAmdHPPJwhJ4felwsgDXopIt7Usn3UnK5siOpQMlY/edit#slide=id.g153a2ed090_0_63)| [**Quotas Overview**](/handbook/sales/commissions/#quotas-overview)<br><br>[**Quota Components**](/handbook/sales/commissions/#quota-components)<br><br>[**Sales Rep IACV Quota Ramp**](/handbook/sales/commissions/#sales-rep-iacv-quota-ramp)<br><br>[**Seasonality Assumptions**](/handbook/sales/commissions/#seasonality-assumptions) | [**Commissions Overview**](/handbook/sales/commissions/#commissions-overview)<br><br>[**FY21 Commission Program Terminology**](/handbook/sales/commissions/#fy21-commission-program-terminology)<br><br>[**Commissions Rules**](/handbook/sales/commissions/#commissions-rules)<br><br>[**Commission Hold and Releases**](/handbook/sales/commissions/#hold-and-releases)<br><br>[**Participant Schedules**](/handbook/sales/commissions/#participant-schedules)<br><br>[**Opportunity Splits**](/handbook/sales/commissions/#opportunity-splits)
 
 ## Quotas Overview
 
@@ -87,7 +87,7 @@ David Hong, VP of Field Operations, explains how the Super Commission Rate works
 <!-- blank line -->
 
 ### Channel Neutral Compensation
-FY21 commissions will be channel neutral for all deals thru partners (including Distributors, if applicable), which means standard partner discounts are credited back to the salesperson and must follow [order processing procedures](https://about.gitlab.com/handbook/business-ops/order-processing/) to correctly flag partner attribution. Total IACV on the deal after all discounts will count towards quota credit, but the channel neutral amount does not qualify for quota credit and only pays out for compensation at BCR. See Channel Neutral section referenced in the [FY21 Commission Plan presentation](https://docs.google.com/presentation/d/1lPZAmdHPPJwhJ4felwsgDXopIt7Usn3UnK5siOpQMlY/edit#slide=id.g7da31a6494_6_0)
+FY21 commissions will be channel neutral for all deals thru partners (including Distributors, if applicable), which means standard partner discounts are credited back to the salesperson and must follow [order processing procedures](/handbook/business-ops/order-processing/) to correctly flag partner attribution. Total IACV on the deal after all discounts will count towards quota credit, but the channel neutral amount does not qualify for quota credit and only pays out for compensation at BCR. See Channel Neutral section referenced in the [FY21 Commission Plan presentation](https://docs.google.com/presentation/d/1lPZAmdHPPJwhJ4felwsgDXopIt7Usn3UnK5siOpQMlY/edit#slide=id.g7da31a6494_6_0)
 
 ### Multi Year Commissions
 Salespeople are eligible to earn multi year commissions if the opportunity term is more than 12 months and the customer prepays the entire Total Contract Value (TCV). First year IACV will be paid at BCR or SCR , if applicable and will be counted towards quota credit. Outyear IACV will be paid at 50% of BCR and will not be counted towards quota credit. 
@@ -115,7 +115,7 @@ Within the first few weeks of your employment, you should receive your participa
 
 ## Opportunity Splits
 Credit splits are allowed at an opportunity level and can be requested by native-quota carrying salespeople. Opportunity splits must be requested before any work is shared on an opportunity and approved prior to the closed won date.
-* Follow [Opportunity Split approval process](https://about.gitlab.com/handbook/sales/#opportunity-splits)
+* Follow [Opportunity Split approval process](/handbook/sales/#opportunity-splits)
 * On approval opportunity split crediting and commissions will be automatically calculated in CaptivateIQ commissions system
 
 ## Sales Representation Letter 
@@ -162,7 +162,7 @@ The main aim of this rep certification letter is to identify:
 
 14. I personally questioned each of my direct reports (if any) with respect to the representations noted above and am not aware of any deviations not already disclosed.
 
-15. During the Quarter, I have not engaged in any activity, nor have I become aware of any other GitLab employee or employee of any GitLab subsidiary engaging in any activity, which violates the Company’s Code of Business Conduct (https://about.gitlab.com/handbook/people-operations/code-of-conduct/), including any activity in violation of the Foreign Corrupt Practices Act - which prohibits any payments to foreign (in jurisdictions outside of the United States) officials for the purpose of obtaining or keeping business. 
+15. During the Quarter, I have not engaged in any activity, nor have I become aware of any other GitLab employee or employee of any GitLab subsidiary engaging in any activity, which violates the Company’s Code of Business Conduct (/handbook/people-operations/code-of-conduct/), including any activity in violation of the Foreign Corrupt Practices Act - which prohibits any payments to foreign (in jurisdictions outside of the United States) officials for the purpose of obtaining or keeping business. 
 
 16. Nothing has come to my attention from previous quarter sales activities that have changed or been disclosed to me that I was not aware of previously, but now am aware of.
 
@@ -188,7 +188,7 @@ Rep letters will be sent quarterly by the Internal Audit Team. Reps are required
 
 ## FY21 SPIFFS (Sales Performance Incentive Funding Formula)
 
-1. To promote healthy competitions and drive the right behaviors, Sales leadership could provide a short-term SPIFF (subject to approval via the [Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix))
+1. To promote healthy competitions and drive the right behaviors, Sales leadership could provide a short-term SPIFF (subject to approval via the [Authorization Matrix](/handbook/finance/authorization-matrix/#authorization-matrix))
 2. Sales leadership needs to request approvals via an issue that contains the following details:
 * Purpose of SPIFF
 * Duration of SPIFF
@@ -201,7 +201,7 @@ Rep letters will be sent quarterly by the Internal Audit Team. Reps are required
 
 
 ##### PS SPIFF Tracking Process: 
-1. Standard Professional Services Deal Process: Follow standard [Professional Services deal process](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/)
+1. Standard Professional Services Deal Process: Follow standard [Professional Services deal process](/handbook/customer-success/professional-services-engineering/selling/)
 2. Primary TAM must be identified on the Account record to receive credit
 3. Assigning Solution Architect to Opportunity: The following teams can edit the "Primary Solution Architect Field" on the related Opportunity 
     * Solution Architects

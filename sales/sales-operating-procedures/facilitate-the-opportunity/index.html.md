@@ -38,7 +38,7 @@ A buyer persona is a fictional representation of your key buyers. Thi
 
 #### 1.1.2 Reference Buyer Process Maps
 
-Buyer Process Maps (BPMs) highlight and explain the mental pathways buyers’ travel to make decisions and help to guide selling activity based on where the buyer is in their process. Your goals in this step include differentiation, reduction in resistance, avoid wasting cycles, and facilitating better meetings and creating **[Moments That Matter](https://about.gitlab.com/handbook/sales/training/field-certification/#moments-that-matter-mtm)**. See a breakdown of the [Buyer Process Map](https://docs.google.com/presentation/d/181vsu60-UYk1890BJjemfjZ3GIQhYrPrsNAh4xN3-wM/edit#slide=id.p25) and the common buyer actions that indicate what stages of the buyer process the prospect is in. 
+Buyer Process Maps (BPMs) highlight and explain the mental pathways buyers’ travel to make decisions and help to guide selling activity based on where the buyer is in their process. Your goals in this step include differentiation, reduction in resistance, avoid wasting cycles, and facilitating better meetings and creating **[Moments That Matter](/handbook/sales/training/field-certification/#moments-that-matter-mtm)**. See a breakdown of the [Buyer Process Map](https://docs.google.com/presentation/d/181vsu60-UYk1890BJjemfjZ3GIQhYrPrsNAh4xN3-wM/edit#slide=id.p25) and the common buyer actions that indicate what stages of the buyer process the prospect is in. 
 
 #### 1.1.3 Research the Buyer
 
@@ -49,14 +49,14 @@ This step includes a number of sub-tasks necessary to obtain additional buyer in
 
 #### 1.1.4 Create Discovery Questions
 
-Leverage **[MEDDPPICC](https://about.gitlab.com/handbook/sales/#capturing-meddppicc-questions-for-deeper-qualification)** to gather the information necessary to qualify the opportunity. 
+Leverage **[MEDDPPICC](/handbook/sales/#capturing-meddppicc-questions-for-deeper-qualification)** to gather the information necessary to qualify the opportunity. 
 *   [Discovery Questions](https://drive.google.com/a/gitlab.com/open?id=1balLINV-vnd6-6TYzF3SIIJKrBPUQofVSDgQ5llC2Do) are designed to identify existing needs, problems, customer pain points, customer’s goals etc. 
 *   MEDDPPICC is a qualification framework that will help you determine if the opportunity is worth your time, effort, and company resources. This is an aspect of **Pre-Call Planning**. The pre-call planning questions will cause you as the seller to further validate and reference the buyer persona you will engage with. It will help you to more quickly determine what stage the buyer falls in the sales process. The framework will also expose problems and clarify next steps. It will help make you more efficient and focused sales representatives by making it easier to sort the good deals from no deals, and quick deals from long term deals. 
 
 #### 1.1.5 Develop a Persona Based Call Plan
 
 This step helps to ensure you gather more pertinent information from the buyer. More specifically, it will help you identify information gaps, set specific objectives, and ultimately increase your buyer’s confidence in you. Use the two job aids below to prepare for your discovery calls. 
-*  Use [Sales Discovery and Qualification Questions](https://about.gitlab.com/handbook/sales/qualification-questions/) to create questions that are tailored to the specific buyer persona you’ll be engaging with. 
+*  Use [Sales Discovery and Qualification Questions](/handbook/sales/qualification-questions/) to create questions that are tailored to the specific buyer persona you’ll be engaging with. 
 *  Use the [Customer Requirements Document ](https://docs.google.com/spreadsheets/d/1y1nk7TmjxOxaO8nUg6w1YO04X9wwtz39MnP7NHXq6ec/edit#gid=0)to list all of your questions as part of your discovery call meeting preparation. 
 
 #### 1.1.6 Conduct Discovery Call Meetings
@@ -86,7 +86,7 @@ Your job is to call out the specific key pain points and show the customer how t
 #### 1.2.2 Show How GitLab Can Help
 
 The next component of the pitch deck is showing how GitLab can help. This will require you to understand the customer’s specific use case. You discovery calls should have provided much of the data to define the problem, but going further you must do the following:
-*   Research [Customer Use-Cases](https://about.gitlab.com/handbook/use-cases/#)
+*   Research [Customer Use-Cases](/handbook/use-cases/#)
 *   Align the customer’s pain point to a typical use-case
 *   Explain what Gitlab does in relation to the associated use-case
 
@@ -107,7 +107,7 @@ Scoping represents an opportunity to discuss customer requirements in more detai
 1. **Review the Customer Requirements** document and any associated meeting notes to identify gaps and create more indepth discovery questions related to technical capabilities. 
 1. **Perform high-level technical discovery calls** with the customer and work together to review the [Customer Requirements Document](https://docs.google.com/spreadsheets/d/1y1nk7TmjxOxaO8nUg6w1YO04X9wwtz39MnP7NHXq6ec/edit#gid=0) and gather more context and insight into the customer’s requirements. 
 1. **Analyze** the updated requirements against GitLab products to determine a fit assessment. If a fit is determined, initiate a Technical Evaluation.
-1. **[Identify Opportunities to Sell Professional Services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/).** The SAL/ISR can find the general services the PS team offers on the services page or for more details specific SKU offerings, on the full catalog. The SAL/ISR can pull the SA in for help selecting services needed based on customer requirements.
+1. **[Identify Opportunities to Sell Professional Services](/handbook/customer-success/professional-services-engineering/selling/).** The SAL/ISR can find the general services the PS team offers on the services page or for more details specific SKU offerings, on the full catalog. The SAL/ISR can pull the SA in for help selecting services needed based on customer requirements.
 
 
 
@@ -116,12 +116,12 @@ Scoping represents an opportunity to discuss customer requirements in more detai
 Technical evaluation is where the prospective customer evaluates the fit of GitLab to their organization and their specific business outcomes. This may be driven by a Lite POV, a free trial, real time or asynchronous Q&A, a workshop and/or other approach requiring technical guidance from an SA. If Discovery did not include the SA, the AE should follow the triage process to engage an SA for the opportunity, filling out the issue template and providing MEDDPPICC information as well as the known required capabilities in Salesforce. The following are tasks the SA must review and manage during technical evaluation. 
 
 1. **Update** Customer Requirements Documents and review Google Docs and Salesforce for running meeting notes with customer environment and technical specifications.
-1. **Setup** a free trial of GitLab based on the following [Technical Evaluation Criteria](https://about.gitlab.com/handbook/customer-success/comm-sales/customer-buyer-journey.html#responsibilities-1).
+1. **Setup** a free trial of GitLab based on the following [Technical Evaluation Criteria](/handbook/customer-success/comm-sales/customer-buyer-journey.html#responsibilities-1).
 1. **Create** a solution design blueprint from requirements gathering, tech discovery, and customer meta-records.
-1. **Create** a [Proof of Value](https://about.gitlab.com/handbook/sales/POV/) when necessary which focuses on specific customer business outcomes that cannot be achieved through other technical and/or business interactions.
+1. **Create** a [Proof of Value](/handbook/sales/POV/) when necessary which focuses on specific customer business outcomes that cannot be achieved through other technical and/or business interactions.
 1. **Submit** Proof of Value (PoV/PoC) plan to stakeholders for approval.
 
-Once the SA has completed the solution design blueprint and/or the Proof of Value, the sales representative will need to hold a strategy meeting with the SA to discuss the highpoints of the solution in order to prepare and present a pitch deck to the customer. If the sales representative does not have deep technical product depth, it will be even more  important to debrief the solution blueprint with the SA. This debrief will help provide the sales representative with the information to have Command of the Message. [Command of the Message](https://about.gitlab.com/handbook/sales/command-of-the-message/) is defined as "being audible ready to define solutions to customers’ problems in a way that differentiates you from your competitors & allows you to charge a premium for your products & services.” This means you must in many ways understand the customers pain points and goals better than they do and speak to real solutions. The solution is presented to the customer through a pitch deck.
+Once the SA has completed the solution design blueprint and/or the Proof of Value, the sales representative will need to hold a strategy meeting with the SA to discuss the highpoints of the solution in order to prepare and present a pitch deck to the customer. If the sales representative does not have deep technical product depth, it will be even more  important to debrief the solution blueprint with the SA. This debrief will help provide the sales representative with the information to have Command of the Message. [Command of the Message](/handbook/sales/command-of-the-message/) is defined as "being audible ready to define solutions to customers’ problems in a way that differentiates you from your competitors & allows you to charge a premium for your products & services.” This means you must in many ways understand the customers pain points and goals better than they do and speak to real solutions. The solution is presented to the customer through a pitch deck.
 
 ### 3.1 GitLab Demonstration Inclusion?
 

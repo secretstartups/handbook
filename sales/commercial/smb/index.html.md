@@ -13,7 +13,7 @@ title: "SMB Account Executive"
 {: .no_toc}
 {: .text-center}
 
-Small and Medium Size Business Account Executives "SMB AE" act as Account Executives and the face of GitLab for SMB prospects and customers. They are the primary point of contact for companies that employ between [1 to 99 employees](https://about.gitlab.com/handbook/business-ops/resources/#segmentation). These GitLab team members are responsible for working new business in their territory as well as handling the customer journey for new and existing customers. SMB Account Executives will assist prospects through their GitLab evaluation and buying process and will be the customer's point of contact for any renewal and expansion discussions.
+Small and Medium Size Business Account Executives "SMB AE" act as Account Executives and the face of GitLab for SMB prospects and customers. They are the primary point of contact for companies that employ between [1 to 99 employees](/handbook/business-ops/resources/#segmentation). These GitLab team members are responsible for working new business in their territory as well as handling the customer journey for new and existing customers. SMB Account Executives will assist prospects through their GitLab evaluation and buying process and will be the customer's point of contact for any renewal and expansion discussions.
 
 ### Reaching the SMB team (internally)
 
@@ -38,16 +38,16 @@ Small and Medium Size Business Account Executives "SMB AE" act as Account Execut
 The goal of [onboarding](/handbook/sales/commercial/enablement) in all of this is to ensure that you feel confident and comfortable to hit the ground running. Our hope is that along this journey you are not only gaining the tactical skills needed to complete your job, but that you form connections with colleagues, gain a strong understanding of the GitLab culture, and begin to develop industry knowledge.
 
 ### Required 7 
-All team members from Commercial Sales are expected to implement the [Required 7](https://about.gitlab.com/handbook/sales/commercial/#the-required-7) into their sales process. None of the 7 should be missing at any time. The Required 7 will help to stay on top of your territory, deliver what is promised to the prospect / customer and have quality meetings.
+All team members from Commercial Sales are expected to implement the [Required 7](/handbook/sales/commercial/#the-required-7) into their sales process. None of the 7 should be missing at any time. The Required 7 will help to stay on top of your territory, deliver what is promised to the prospect / customer and have quality meetings.
 
 ### SMB Processes
 
 #### Territories and Account Owners 
 Overview of the divided territories and owners for `SMB segment`. This territory page also shows Account owners for the other segments (`Mid Market` and `Strategic`)
-* [EMEA](https://about.gitlab.com/handbook/sales/territories/#emea-2) 
-* [AMER](https://about.gitlab.com/handbook/sales/territories/#amer-2)
-* [APAC](https://about.gitlab.com/handbook/sales/territories/#apac-2) 
-* Follow the [rules of engagement (ROE)](https://about.gitlab.com/handbook/sales/commercial/#account-ownership-rules-of-engagement-for-commercial-sales) when an account is wrongly routed into your name
+* [EMEA](/handbook/sales/territories/#emea-2) 
+* [AMER](/handbook/sales/territories/#amer-2)
+* [APAC](/handbook/sales/territories/#apac-2) 
+* Follow the [rules of engagement (ROE)](/handbook/sales/commercial/#account-ownership-rules-of-engagement-for-commercial-sales) when an account is wrongly routed into your name
 
 #### Team Dashboards
 These Dasboards are used to keep track on team performance globally as well as per region.
@@ -65,30 +65,30 @@ Though not mandatory, call preps are a great way to gain a different perspective
 
 #### True Ups
 True-ups are conversations that often come to the table with customers during renewal conversations. It's important to get yourself familiar with the term, how true-ups work - and how the SMB team is handling true-up conversations: 
-* [True Up Policy](https://about.gitlab.com/handbook/ceo/pricing/#true-up-pricing)
-* [What Causes True Ups?](https://about.gitlab.com/handbook/business-ops/business_systems/portal/troubleshooting/#user-counts-true-ups-add-ons-users-over-license)
+* [True Up Policy](/handbook/ceo/pricing/#true-up-pricing)
+* [What Causes True Ups?](/handbook/business-ops/business_systems/portal/troubleshooting/#user-counts-true-ups-add-ons-users-over-license)
 * [How To Find True Ups](https://about.gitlab.com/pricing/licensing-faq/#what-does-users-over-license-mean)
-* [Licensing and Subscription Troubleshooting ](https://about.gitlab.com/handbook/support/workflows/license_troubleshooting.html#licensing)
+* [Licensing and Subscription Troubleshooting ](/handbook/support/workflows/license_troubleshooting.html#licensing)
 *  If you still have questions about a specific true up case, please write in the [`#smb_training_support`](https://app.slack.com/client/T02592416/CKYLWKGJU) channel for further assistance
 
 ### Solutions Architect & Technical Account Manager Rules of Engagement
-- Follow the [Commercial Sales standards](https://about.gitlab.com/handbook/customer-success/comm-sales/#additional-engagement-guidelines-for-sales) for engaging a Technical Account Manager or Solution Architect into the conversation with a customer or prospect. 
+- Follow the [Commercial Sales standards](/handbook/customer-success/comm-sales/#additional-engagement-guidelines-for-sales) for engaging a Technical Account Manager or Solution Architect into the conversation with a customer or prospect. 
 
 #### Renewals (WIP)
 #### Discount Approval Process (WIP)
 #### Forecasting (WIP)
 
 ### Tools
-* [ZenDesk](https://about.gitlab.com/handbook/support/workflows/zendesk-overview.html) - Ticketing system
+* [ZenDesk](/handbook/support/workflows/zendesk-overview.html) - Ticketing system
 * [Version GitLab](https://version.gitlab.com/users/sign_in)- Customer Product Usage
-* [Outreach](https://about.gitlab.com/handbook/marketing/marketing-operations/outreach/) - Email Sequencing 
+* [Outreach](/handbook/marketing/marketing-operations/outreach/) - Email Sequencing 
 * Salesforce - Customer Relationship Management 
 * [LinkedIn Sales Navigator ](https://docs.google.com/document/d/1UF69ieck4AdHadzgPmZ5X1GBs3085JhlYaMowLj0AOg/edit) - Social Selling
 * CaptivateIQ - Commission Calculator 
-* [Clari](https://about.gitlab.com/handbook/sales/#clari-for-salespeople-instructional-videos) - Forecasting 
-* [Datafox](https://about.gitlab.com/handbook/business-ops/tech-stack/#datafox) - Client Information
+* [Clari](/handbook/sales/#clari-for-salespeople-instructional-videos) - Forecasting 
+* [Datafox](/handbook/business-ops/tech-stack/#datafox) - Client Information
 * [Customer Portal Admin](https://customers.gitlab.com/plans) (see overview video [here](https://youtu.be/G9JuHXqV5LM))
-* [Chorus](https://about.gitlab.com/handbook/business-ops/tech-stack/#chorus) (For NORAM SMB ONLY) - Call/Demo Recording 
+* [Chorus](/handbook/business-ops/tech-stack/#chorus) (For NORAM SMB ONLY) - Call/Demo Recording 
 *  [Crayon ](https://app.crayon.co/intel/gitlab/battlecards/) - Competitor Insights
 *  [Periscope](https://app.periscopedata.com/app/gitlab/403199/Welcome-Dashboard-%F0%9F%91%8B) - Data Visualization
 
@@ -129,11 +129,11 @@ Opportunity Consults are weekly meetings that promote continued learning. This m
 *  [International G-drive with recordings of team meetings / trainings](https://drive.google.com/drive/folders/0ADQKNz5y48VuUk9PVA)
 
 ### Compensation
-*  The global SMB team is measured monthly on shared [quota](https://about.gitlab.com/handbook/sales/commissions/#quotas-overview) attainment. All [iACV](https://about.gitlab.com/handbook/sales/#incremental-annual-contract-value-iacv) goes toward the global *shared quota* retirement.
-*  Because SMB AEs operate as individual contributors toward a shared quota, [collaboration](https://about.gitlab.com/handbook/people-group/collaboration-and-effective-listening/#collaboration) is key. One teammate's success is everyone's success.
+*  The global SMB team is measured monthly on shared [quota](/handbook/sales/commissions/#quotas-overview) attainment. All [iACV](/handbook/sales/#incremental-annual-contract-value-iacv) goes toward the global *shared quota* retirement.
+*  Because SMB AEs operate as individual contributors toward a shared quota, [collaboration](/handbook/people-group/collaboration-and-effective-listening/#collaboration) is key. One teammate's success is everyone's success.
 
-#### [Payment Schedule](https://about.gitlab.com/handbook/finance/payroll/#pay-date): 
-*  AMER: [commissions](https://about.gitlab.com/handbook/sales/commissions/#base-commission-rate-bcr) based on prior month attainment are paid on the 2nd payroll cycle the following month.
+#### [Payment Schedule](/handbook/finance/payroll/#pay-date): 
+*  AMER: [commissions](/handbook/sales/commissions/#base-commission-rate-bcr) based on prior month attainment are paid on the 2nd payroll cycle the following month.
 *  EMEA & APAC: commission payout dates are specific to the country of residency. 
 * you can find your adjusted payout statement and submit inquiries via [CaptivateIQ](captivateiq.com).
 

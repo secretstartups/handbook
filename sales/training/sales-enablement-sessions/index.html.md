@@ -22,16 +22,15 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC                                                                    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|
-|  Aug 6 | The Value of Professional Services: A CFO's Perspective                  | Paul Machle, Michael Lutz                       |
 | Aug 13 | Gainsight Overview for Sales                                             | Jeff Beaumont | 
-Aug 20 | Q3 FY21 GitLab Product Release Update for Sales                          | Brian Glanz       |
+| Aug 20 | Q3 FY21 GitLab Product Release Update for Sales                          | Brian Glanz       |
 | Aug 27 | ROI Analysis                                                             | Mahesh Kumar, Sales (TBD)                       |
 |  Sep 3 | Demystifying the Metrics Conversation                                    | David Somers, John Jeremiah, Sales (TBD)        |
 | Sep 10 | Atlassian & the GitLab/Jira Customer Conversation                        | Cormac Foster, Mahesh Kumar, Aleeta Bell (Sales TBD) |
 | Sep 17 | Maximizing Value of Partners in a Deal (Co-Selling with Partners Part 2) | David Forsch, Ed Cepulis                        |
 | Sep 24 | Q3 FY21 Competitive Update                                               | Mahesh Kumar                                    |
-|  Oct 1 | Deal Structure Best Practices                                            | Jesse Rabbits, Sales (TBD)                      |
-|  Oct 8 | Leveraging the GitLab/VMware Alliance                                    | Amy Brandenburg, Sales (TBD)                    |
+|  Oct 1 | Leveraging the GitLab/VMware Alliance                                    | Amy Brandenburg, Sales (TBD)                    |
+|  Oct 8 | Deal Structure Best Practices                                            | Jesse Rabbits, Sales (TBD)                      |
 | Oct 15 | Proof Points & Analyst Resources Update                                  | Colin Fletcher, Sales (TBD)                     |
 | Oct 22 | No sessions during last two weeks of a quarter                           | N/A                                             |                                   
 | Oct 29 | No sessions during last two weeks of a quarter                           | N/A |                                                                                                                                                                
@@ -40,6 +39,7 @@ Aug 20 | Q3 FY21 GitLab Product Release Update for Sales                        
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+|  2020-08-06 | **[The Value of Professional Services: A CFO's Perspective](https://youtu.be/arF-6BBRAxU)**         | Private |
 | 2020-07-16 | **[The GitLab Journey & the GitOps Use Case](https://youtu.be/Ap14indu2-w)**     | Public                        |
 | 2020-07-14  | **[Special: Forrester TEI Report](https://youtu.beJ_6QgemCz2E)**                   | Private           |
 | 2020-07-09 | **[Channel Partner Success for GitLab Sellers](https://youtu.be/OeykHQetd7U)**          |   Private              |
@@ -175,7 +175,7 @@ Sales enablement sessions are scheduled on the [Sales Enablement calendar](https
 ### Speaker
 
 - Create your content as a handbook page (don't use a slide deck)
-  - Create a new directory under `https://about.gitlab.com/handbook/sales/training/sales-enablement-sessions/enablement/` with the title of your talk
+  - Create a new directory under `/handbook/sales/training/sales-enablement-sessions/enablement/` with the title of your talk
     - For example: `/handbook/sales/training/sales-enablement-sessions/enablement/cloud-native-ecosystem/`.
   - Add an `index.html.md` file to that directory.
     - Use this template:

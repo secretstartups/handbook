@@ -258,19 +258,19 @@ The key to identifying more GitLab Premium/Silver and GitLab Ultimate/Gold oppor
 *  If only a group, what is preventing you from bringing on the entire company at this time?
 
 ### Competing/Selling Against GitHub and GitHub Actions
-*  Review the battle card and discovery questions [here](https://about.gitlab.com/handbook/marketing/product-marketing/competitive/compete/#-github-) (internal only)
+*  Review the battle card and discovery questions [here](/handbook/marketing/product-marketing/competitive/compete/#-github-) (internal only)
 
 ### Competing/Selling Against Microsoft Azure DevOps
-*  Review the battle card and discovery questions [here](https://about.gitlab.com/handbook/marketing/product-marketing/competitive/compete/#-azure-devops-) (internal only)
+*  Review the battle card and discovery questions [here](/handbook/marketing/product-marketing/competitive/compete/#-azure-devops-) (internal only)
 
 ### Competing/Selling against Jenkins
-*  Review the battle card and discovery questions [here](https://about.gitlab.com/handbook/marketing/product-marketing/competitive/compete/#-jenkins-) (internal only)
+*  Review the battle card and discovery questions [here](/handbook/marketing/product-marketing/competitive/compete/#-jenkins-) (internal only)
 
 ### Competing/Selling against BitBucket
-*  Review the battle card and discovery questions [here](https://about.gitlab.com/handbook/marketing/product-marketing/competitive/compete/#-atlassian-bitbucket-) (internal only)
+*  Review the battle card and discovery questions [here](/handbook/marketing/product-marketing/competitive/compete/#-atlassian-bitbucket-) (internal only)
 
 ### Competing/Selling against Checkmarx
-*  Review the battle card and discovery questions [here](https://about.gitlab.com/handbook/marketing/product-marketing/competitive/compete/#-checkmarx-) (internal only)
+*  Review the battle card and discovery questions [here](/handbook/marketing/product-marketing/competitive/compete/#-checkmarx-) (internal only)
 
 ### Customer is Using Jira
 *  How would you describe the current implementation of Jira within your organization?

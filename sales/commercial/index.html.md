@@ -148,7 +148,7 @@ Below is a list of resources considered highly valuable for continuous learning 
 - Area Sales
 
 ## Getting Started as a New Hire
-Please ensure you read the [Commercial Sales onboarding page](https://about.gitlab.com/handbook/sales/commercial/enablement/).
+Please ensure you read the [Commercial Sales onboarding page](/handbook/sales/commercial/enablement/).
 
 ### Top Tips to Onboard Quicker
 
@@ -156,7 +156,7 @@ Please ensure you read the [Commercial Sales onboarding page](https://about.gitl
 
 2. Get familiar with the [close date conventions](https://docs.google.com/document/d/1TK3X22rBPIOwR9PkopK4snmVVkyCyvdTwKJ_eszH48I/edit?usp=sharing) used in Commercial Sales.
 
-3. Ensure you fully understand [the Required 7](https://about.gitlab.com/handbook/sales/commercial/#the-required-7). Your teammates and manager are more than happy to help you with this if you need it.
+3. Ensure you fully understand [the Required 7](/handbook/sales/commercial/#the-required-7). Your teammates and manager are more than happy to help you with this if you need it.
 
 4. Read through reviews of GitLab to get an idea of what customers think about the product. Two good places to start are [Softwareadvice.com](https://www.softwareadvice.com/project-management/gitlab-profile/reviews/) and [Gartner Reviews](https://www.gartner.com/reviews/market/application-release-orchestration-solutions/vendor/gitlab/product/gitlab).
 
@@ -174,7 +174,7 @@ Please ensure you read the [Commercial Sales onboarding page](https://about.gitl
 
 7. Use [BuiltWith.com](https://builtwith.com/) to get an idea of what technologies a customer is using currently (though be sure to verify this with them)
 
-8. You might find it useful to create a Google doc to document all your learnings in your first 30 days, as you will get a lot of information to remember and it will also get you in the habit of taking notes, a [key part of GitLab’s culture](https://about.gitlab.com/handbook/communication/#external-communication).
+8. You might find it useful to create a Google doc to document all your learnings in your first 30 days, as you will get a lot of information to remember and it will also get you in the habit of taking notes, a [key part of GitLab’s culture](/handbook/communication/#external-communication).
 
 9. You can never have too many [coffee chats](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats) with colleagues. You don’t need to ask permission from people, just put some time in their diary.
 
@@ -194,10 +194,10 @@ SMB Account Executives "SMB AE" act as Account Executives and the face of GitLab
 New team members should familiarize themselves with The Required 7. These are the 7 tactical skills are required to be an excellent Commercial Sales Account Executive:
 
 1. Logging your [call notes](/handbook/sales/commercial/enablement/#sales-note-taking) - ([video here on taking efficient notes during a meeting](https://youtu.be/CMMQ5R0pq8I) and top tips from a top performer [here](https://www.youtube.com/watch?v=CKRvxM2F5zc))
-1. [Ranking your accounts](https://about.gitlab.com/handbook/sales/commercial/#account-ranking) - ([video here](https://youtu.be/M-5OhlYxmFI))
-1. [Updating your next steps](https://about.gitlab.com/handbook/sales/commercial/#opportunity-next-steps-best-practices) ([video here](https://youtu.be/74OKSNWoN8Q))
-1. Keeping your opportunities [up to date at all times](https://about.gitlab.com/handbook/sales/commercial/#salesforce-hygiene--activity) ([video here](https://youtu.be/o5gm7_5321w))
-1. Writing full [command plans](https://about.gitlab.com/handbook/sales/command-of-the-message/#command-plan) for all deals over IACV in SMB or Mid-Market and the top section for all deals ([training session here](https://youtu.be/zN_0J6syxmM) and [training deck here](https://bit.ly/2WNlzbZ))
+1. [Ranking your accounts](/handbook/sales/commercial/#account-ranking) - ([video here](https://youtu.be/M-5OhlYxmFI))
+1. [Updating your next steps](/handbook/sales/commercial/#opportunity-next-steps-best-practices) ([video here](https://youtu.be/74OKSNWoN8Q))
+1. Keeping your opportunities [up to date at all times](/handbook/sales/commercial/#salesforce-hygiene--activity) ([video here](https://youtu.be/o5gm7_5321w))
+1. Writing full [command plans](/handbook/sales/command-of-the-message/#command-plan) for all deals over IACV in SMB or Mid-Market and the top section for all deals ([training session here](https://youtu.be/zN_0J6syxmM) and [training deck here](https://bit.ly/2WNlzbZ))
 1. Building your [custom deck](https://docs.google.com/presentation/d/1duy8kjEvNiRx8fnCvc6ZnxWwXTM_71phbG3k9rgmU4Q/edit?usp=sharing) ([video here](https://youtu.be/9Yq23PijO3c)), and be sure to check out [this video](https://youtu.be/QDoXhDvkDYY) on creating an effective ROI slide deck and [this supporting deck](https://docs.google.com/presentation/d/1otCJF4kaaozhp0qWD3VgGQ73WgX1ZNP_IKnu3Qt_slI/edit?usp=sharing)
 1. Capturing key information:
    - How did the customer/prospect hear about GitLab and what is their understanding of what we do?
@@ -291,11 +291,11 @@ Mid-Market AEs work closely in tandem with the business development team and sal
 New team members should familiarize themselves with The Required 7. These are the 7 tactical skills are required to be an excellent Commercial Sales Account Executive:
 
 1. Logging your [call notes](/handbook/sales/commercial/enablement/#sales-note-taking) [video on taking efficient notes during a meeting](https://youtu.be/CMMQ5R0pq8I) and top tips from a top performer [here](https://www.youtube.com/watch?v=CKRvxM2F5zc)
-2. [Updating your next steps](https://about.gitlab.com/handbook/sales/commercial/#opportunity-next-steps-best-practices) - [video here](https://youtu.be/74OKSNWoN8Q)
-3. [Ranking your accounts](https://about.gitlab.com/handbook/sales/commercial/#account-ranking) - [video here](https://youtu.be/M-5OhlYxmFI)
+2. [Updating your next steps](/handbook/sales/commercial/#opportunity-next-steps-best-practices) - [video here](https://youtu.be/74OKSNWoN8Q)
+3. [Ranking your accounts](/handbook/sales/commercial/#account-ranking) - [video here](https://youtu.be/M-5OhlYxmFI)
    - Rank all accounts and explain why; log your sources for future efficiency; this needs to be your (recent) tiering, not the previous owners, nor the tiering from the prior fiscal. If it’s unchanged, make the note that it is unchanged and why
-4. Keeping your opportunities [up to date at all times](https://about.gitlab.com/handbook/sales/commercial/#salesforce-hygiene--activity) [video](https://youtu.be/o5gm7_5321w)
-5. [Command plans](https://about.gitlab.com/handbook/sales/command-of-the-message/#command-plan), what needs to be filled in: 
+4. Keeping your opportunities [up to date at all times](/handbook/sales/commercial/#salesforce-hygiene--activity) [video](https://youtu.be/o5gm7_5321w)
+5. [Command plans](/handbook/sales/command-of-the-message/#command-plan), what needs to be filled in: 
    - $10k amount - All fields in opportunity overview (the whys) and close-plan 
    - $20k iACV - Full Command Plan
    - If you don’t yet know the answers or have the data, you will populate the Command Plan fields with your script and next steps to get that information

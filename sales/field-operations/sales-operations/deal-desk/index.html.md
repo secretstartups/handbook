@@ -29,17 +29,17 @@ The Deal Desk team's mission is to streamline the opportunity management process
     *   [Deal Desk Pending Opportunity Approvals Report](https://gitlab.my.salesforce.com/00O4M000004e0Dp)
 
 *   **Frequently Used Handbook Pages**
-    *   [Sales Order Processing](https://about.gitlab.com/handbook/business-ops/order-processing/)
-    *   [Deal Desk Opportunity Approval Process](https://about.gitlab.com/handbook/business-ops/order-processing/#submitting-an-opportunity-for-deal-desk-approval)
+    *   [Sales Order Processing](/handbook/business-ops/order-processing/)
+    *   [Deal Desk Opportunity Approval Process](/handbook/business-ops/order-processing/#submitting-an-opportunity-for-deal-desk-approval)
     *   [Useful Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information)
-    *   [Account Ownership Rules of Engagement](https://about.gitlab.com/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
-    *   [IACV Calculation Guide](https://about.gitlab.com/handbook/sales/#incremental-annual-contract-value-iacv)
-    *   [Vendor Setup Form Process](https://about.gitlab.com/handbook/business-ops/order-processing/#how-to-process-customer-requested-vendor-setup-forms)
-    *   [Security Questionnaire Process](https://about.gitlab.com/handbook/engineering/security/#process)
-    *   [Troubleshooting: True Ups, Licenses + EULAS](https://about.gitlab.com/handbook/business-ops/business_systems/portal/troubleshooting/)
+    *   [Account Ownership Rules of Engagement](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
+    *   [IACV Calculation Guide](/handbook/sales/#incremental-annual-contract-value-iacv)
+    *   [Vendor Setup Form Process](/handbook/business-ops/order-processing/#how-to-process-customer-requested-vendor-setup-forms)
+    *   [Security Questionnaire Process](/handbook/engineering/security/#process)
+    *   [Troubleshooting: True Ups, Licenses + EULAS](/handbook/business-ops/business_systems/portal/troubleshooting/)
     *   [Licensing FAQ](https://about.gitlab.com/pricing/licensing-faq/)
-    *   [Legal Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/)
-    *   [Trade Compliance (Export/Import)](https://about.gitlab.com/handbook/business-ops/order-processing/#trade-compliance-export--import-and-visual-compliance-tool-in-salesforce)
+    *   [Legal Authorization Matrix](/handbook/finance/authorization-matrix/)
+    *   [Trade Compliance (Export/Import)](/handbook/business-ops/order-processing/#trade-compliance-export--import-and-visual-compliance-tool-in-salesforce)
 
 *   **Other Resources**
     *   [Sales Territory Spreadsheet](https://docs.google.com/spreadsheets/d/1PYU8oQJQEPpi8K-SHuqSgPeSpLcWeSQd9FuwKtgD048/edit?ts=5d6ea274#gid=0)
@@ -95,9 +95,9 @@ Use our Slack channel in case of general, non-record related requests and/or urg
 
 #### Slack Best Practices
 
-Please avoid contacting the DD team members directly via Slack. Utlizing the channel is best to ensure timely coverage and helps others who may have simliar questions.
+Please avoid contacting the DD team members directly via Slack. Utlizing the channel is best to ensure timely coverage and helps others who may have similar questions.
 
-In cae of a specific opportunity or quote related question please use SF Chatter (see section [Salesforce Chatter Commnunication](##### Salesforce Chatter Communication Basics))
+In case of a specific opportunity or quote related question please use SF Chatter (see section [Salesforce Chatter Communication](##### Salesforce Chatter Communication Basics))
 
 #### Slack Announcements
 
@@ -502,6 +502,31 @@ B.  **To create a true-up/add-on quote for a multi-year deal**, please add **bot
 C.  **If the customer signs a renewal quote, but a true-up is required before the renewal date**, create an add-on opportunity from the closed renewal opportunity, use the same start date as the renewal, and add the necessary true-up.
 
 D.  If you have **multiple quote objects** under one opportunity, the quote you are using **must be marked Primary.**
+
+
+#### Zuora Quote Template Updates 
+
+The Deal Desk team owns and manages any updates made to all quote templates. If you have a suggestion for an improvement to our existing quote templates, please [open an issue here](https://gitlab.com/gitlab-com/sales-team/field-operations/deal-desk)  
+
+Include the following in the issue:
+
+* Proposed Improvement
+* Net New template or Adjusting an Existing Template? 
+* Business Impact 
+
+<details>
+<summary markdown='span'>
+  Zuora Template Resources
+</summary>
+
+In order to update quote templates that are used in Salesforce, and pulled in from Zuora, please reference the below resources provided by Zuora. 
+1. [General overview to update quote templates](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings/Customize_Quote_Templates)
+1. [Leveraging mail merge fields to update templates](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings/Customize_Quote_Templates/C_Customize_Quote_Template_using_Word_Mail_Merge) - This must be completed in Microsoft word and saved accordingly
+1. [Reference the merge fields that are supported](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings/Customize_Quote_Templates/K_Supported_Merge_Fields_for_Quote_Templates_and_Mapping_to_Salesforce#Charge_Summary.Quote_Rate_Plan_Merge_Fields)
+1. [How to displaty multiple quote charges in a table](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings/Customize_Quote_Templates/E_Customize_Quote_Templates_Using_Microsoft_Word_Mail_Merge)
+1. [Uploading to Zuora and connect to Salesforce](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings) 
+
+</details>
 
 
 #### How to Process a Professional Services SOW Amendment (Change Order)
