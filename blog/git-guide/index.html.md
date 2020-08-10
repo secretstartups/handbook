@@ -29,6 +29,9 @@ Now we’re ready to push your local changes to `0000-branch-name` using `git pu
 Commit early and often — avoid working on multiple large files and then committing and pushing the files all at once (it can take several minutes, or even hours, to push depending on your internet connection — worst case it times out)
 Run `git pull` [enter] on occasion to make sure you have the most recent changes / updates locally.
 
+### Static Site Editor Developer Tips
+There is a handy resource the Static Site Editor group has put together for [Git Tips here](https://about.gitlab.com/handbook/engineering/development/dev/create-static-site-editor/developer-cheatsheet/#git-tips).
+
 ## Geting Recent Changes From Master
 
 ### How and When to Use Merge Workflow
