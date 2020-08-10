@@ -147,6 +147,8 @@ The image will be constrained to half the size to ensure high density of pixels.
 
 ### Create a campaign
 
+Before creating a Sigstr campaign, you need to [request a Sigstr banner ad](https://about.gitlab.com/handbook/marketing/growth-marketing/#brand-and-design-issue-templates) from the growth marketing team. All Sigstr banner ads should use the same dimensions (900 wide x 240 pixels tall; 8px radius corners) and be delivered in a `.png` or `.gif` format.
+
 1. Select `Campaigns` from the side menu (flag icon).
 1. Click the `Create Campaign` button in the top right.
 1. Select your desired [campaign type](/handbook/marketing/marketing-operations/sigstr/#types), name your campaign, and click `Get Started`. You are redirected to edit the campaign details.
