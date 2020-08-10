@@ -27,7 +27,7 @@ If the customer responds that there is nothing else they need or are interested 
 
 Instead of asking about GitLab and how GitLab might help them, turn the conversation around to talk about their business. Listen actively, let the customer talk without interjecting, and then explore how what you heard could be activated in the Gitlab platform.
 
-- "Last time we spoke, you mentioned you had other initiatives you were working on outside of GitLab.  Would you be open to sharing what those goals are?  I would like to understand your focus now and in the future so that I can be continually bringing new features and strategies on Gitlab to you as are relevant. 
+- "Last time we spoke, you mentioned you had other initiatives you were working on outside of GitLab. Would you be open to sharing what those goals are? I would like to understand your focus now and in the future so that I can be continually bringing new features and strategies on Gitlab to you as are relevant."
 
 ## Commiseration/Empathy
 
