@@ -89,7 +89,7 @@ The merge request author of the change that broke master is the resolution DRI. 
 1. Prioritize resolving `~"master:broken"` over new bug/feature work. Resolution options include:
    * Revert the merge request which caused the broken master. If a revert is performed,
      create an issue to reinstate the merge request and  assign it to the author
-     of the reverted merge request.
+     of the reverted merge request. Reverts can go straight to maintainer review and require 1 maintainer approval. The maintainer can request additional review/approvals if the revert is not trivial.
    * Create a new merge request to fix the failure if revert is not possible or would introduce additional risk. This should be treated as a `~P1` `~S1` issue.
    * [Quarantine](https://docs.gitlab.com/ee/development/testing_guide/flaky_tests.html#quarantined-tests) the failing test if you can confirm that it is flaky (e.g. it wasn't touched recently and passed after retrying the failed job).
      * Remove the `~"master:broken"` label from the issue and apply  `~"failure::flaky-test"`
@@ -454,7 +454,7 @@ Milestones are closed when the Delivery team no longer needs to create a backpor
 
 ## Kickoff and Retrospective Public Stream Instructions
 
-Both the monthly kickoff and retrospective meetings are publicly streamed to the [GitLab Unfiltered YouTube Channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A?view_as=subscriber). The [EBA](https://about.gitlab.com/job-families/people-ops/executive-business-administrator/) for Engineering is the [moderator](/handbook/people-group/group-conversations/#moderator) and responsible for initiating the Public Stream or designating another moderator if EBA is unable to attend. 
+Both the monthly kickoff and retrospective meetings are publicly streamed to the [GitLab Unfiltered YouTube Channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A?view_as=subscriber). The [EBA](https://about.gitlab.com/job-families/people-ops/executive-business-administrator/) for Engineering is the [moderator](/handbook/people-group/group-conversations/#moderator) and responsible for initiating the Public Stream or designating another moderator if EBA is unable to attend.
 
 
 ## Use Group Labels and Group Milestones
