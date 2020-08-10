@@ -77,6 +77,14 @@ Request to delete a specific email recipient's data. This will delete the click 
 
 Configure your account to clear out Sigstr's store of recipient data on regular intervals. This will delete the clicks and views of all affected recipients.
 
+### Verify
+
+Using [Verify](https://help.sigstr.com/en/articles/1633561-sigstr-verify), you can troubleshoot the timing and personalization of Sigstr campaigns. 
+
+1. Click the account avatar in the bottom right-hand corner and choose `Verify`. 
+1. Input the `Sender`, `Recipient`, and `Date of Send` to preview the matching campaign. For `Sender`, select a group or specific email address. For `Recipient`, select a recipient list or specific email address. Please note that the `Recipient` section only pertains to `Targeted` and `Internal Campaigns` while the `Date of Send` only pertains to `Scheduled Campaigns`. 
+1. The `Results` section details why the campaign was chosen. 
+
 ## Default email signature fields
 
 - First name
@@ -101,6 +109,10 @@ The image will be constrained to half the size to ensure high density of pixels.
 - 600-900 pixels wide x 120-240 pixels tall
 
 ## Campaigns
+
+### Resources
+
+1. [Campaign management](https://help.sigstr.com/en/collections/96983-campaign-management)
 
 ### Use cases
 
@@ -142,9 +154,11 @@ The image will be constrained to half the size to ensure high density of pixels.
 1. Under `Clickthrough URL`, choose your desired link type (manual clickthrough URL, mailto, or PathFactory experience). Note that you must already have a finalized PathFactory URL before selecting `PathFactory Experience`.
 1. Select the `UTM Parameters` drop down to add additional parameters for your campaign. If you do not enter additional paramters, the default parameters will be applied: `source=email_signature&medium=sigstr&content=employee_email` Note that your campaign name became the default parameter for campaign. You also have the option of adding custom UTM parameters if desired. It is highly recommended that you apply UTM parameters to your campaigns to properly report success.
 
-### Review a campaign
+### Review and activate a campaign
 
 1. On the left side of the campaign edit page, click `Review`. You can also select the `Next` button to accomplish this same action.
 1. Verify the look of your campaign. Ensure that the banner image does not appear blurry. If it appears blurry, try reuploading the banner image. If you still experience issues, please create an issue in the marketing operations project and assign `@sdaily`. 
-1. Confirm the banner ad properties including the name, alt text, and clickthrough URL.
+1. Confirm the banner ad properties including the name, alt text, and clickthrough URL. Please test the URL to ensure it's working and that it leads to your desired location.
 1. Choose your desired schedule for this campaign from the `Schedule` pane. You can choose to start the campaign immediately or at a later date/time. You can also set your campaign end date/time or let it run indefinitely.
+1. If there is anything missing from your campaign, Sigstr will show you in the `Activate` pane below `Verify` pane. Before you can activate a campaign, you must enter all required campaign attributes (banner ad, clickthrough URL). 
+1. Once finalized, click `Activate this Campaign`. You can also choose `Save Campaign & Exit` to save the campaign as a draft and activate at a later date.
