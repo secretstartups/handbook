@@ -145,7 +145,7 @@ To run the problem validation process:
 
 Labels: `workflow::design`
 
-1. Product Designer applies the `workflow::design` label to an existing issue or creates a new issue, if needed. 
+1. Product Designer or Product Manager applies the `workflow::design` label to an existing issue or creates a new issue, if needed. 
 1. Product Designer leads the team in ideating about potential solutions and engages the PM and Engineers to determine whether the proposed solution meets business goals and is technically feasible. 
 1. Once the PM, Engineers, and Product Designer choose a direction, then the issue moves into the Solution Validation phase.
 
