@@ -32,6 +32,9 @@
                 <% if defined?(include_category) != nil %>
                 <td><%= service.category %></td>
                 <% end %>
+                <% if defined?(include_stage) != nil %>
+                <td><%= service.stage %></td>
+                <% end %>
                 <% if defined?(include_cost) != nil %>
                 <td>
                   <% if service.price %>
