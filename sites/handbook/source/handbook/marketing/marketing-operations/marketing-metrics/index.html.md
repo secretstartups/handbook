@@ -209,13 +209,13 @@ Filters are a native and integral piece of any dashboard! They allow you to quic
 
 ### Date Filters
 1. DateRange - DateRange is the standard date filter in Sisense. Unless otherwise noted it is the X-axis of an individual chart. Note: DateRange works as an `after` filter of the first date, so if you want to see all of February 2020, your `DateRange` filter must be set to `2020-01-31 to 2020-02-29`.
-1. Fiscal Quarter - this groups the X-axis dates (unless noted on the chart) by GitLab's [Fiscal Quarters](https://about.gitlab.com/handbook/finance/#fiscal-year)
-1. Fiscal Year - this groups the X-axis dates (unless noted on the chart) by GitLab's [Fiscal Years](https://about.gitlab.com/handbook/finance/#fiscal-year)
+1. Fiscal Quarter - this groups the X-axis dates (unless noted on the chart) by GitLab's [Fiscal Quarters](/handbook/finance/#fiscal-year)
+1. Fiscal Year - this groups the X-axis dates (unless noted on the chart) by GitLab's [Fiscal Years](/handbook/finance/#fiscal-year)
 
 ### Salesforce Data Filters
 All of these filters pull from the linked/specified field(s) from Salesforce. Notes will indicate when there are groupings used. As all of these pull directly from SFDC and are not cleaned (except for those specified as being bucketed/grouped, anomalies may occur when our data is not properly maintained in SFDC)
-1. Sales Segment - this pulls from SoT for `Segment` for each object as shown below in the [Reporting Fields Source of Truth](https://about.gitlab.com/handbook/marketing/marketing-operations/marketing-metrics/#reporting-fields-source-of-truth) section.
-1. Source Bucket - this pulls from the `Lead Source` for Leads/Contacts as shown below in the [Reporting Fields Source of Truth](https://about.gitlab.com/handbook/marketing/marketing-operations/marketing-metrics/#reporting-fields-source-of-truth) section. Note: these are grouped into **buckets** which, once updatd, will be displayed in a table below. This is considered the SoT for where a specific Lead/Contact came from/was sourced.
+1. Sales Segment - this pulls from SoT for `Segment` for each object as shown below in the [Reporting Fields Source of Truth](/handbook/marketing/marketing-operations/marketing-metrics/#reporting-fields-source-of-truth) section.
+1. Source Bucket - this pulls from the `Lead Source` for Leads/Contacts as shown below in the [Reporting Fields Source of Truth](/handbook/marketing/marketing-operations/marketing-metrics/#reporting-fields-source-of-truth) section. Note: these are grouped into **buckets** which, once updatd, will be displayed in a table below. This is considered the SoT for where a specific Lead/Contact came from/was sourced.
 1. Sales Qualified Source - this pulls from the [Sales Qualified Source](https://gitlab.my.salesforce.com/00N6100000HZPjd?setupid=OpportunityFields) of the Opportunity. This is considered the SoT for where an Opportunity came from/was sourced.
 1. Opp Sales Type - this pulls from the [Type](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=Type&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields&setupid=OpportunityFields) field on the Opportunity. It is used to define whether an Opportunity is `New Business`, `Add-On Business`, etc.
 1. Net New Category_ToIgnore - this is a special exclusive filter used *only* for the `New Unique Emails Added` chart on the Marketing Metrics Dashboard. When `DiscoverOrg` is checked, no Leads/Contacts with `DiscoverOrg` as their `Lead Source` will be shown on that chart. 
@@ -225,7 +225,7 @@ All of these filters pull from the linked/specified field(s) from Salesforce. No
 ## Reporting Fields Source of Truth
 This section captures and links the most often used fields in reporting so that anyone pulling a Salesforce report can and is using the correct fields and the same fields that are being used in Periscope reports/dashboards.    
 
-Note: There is a current transition to move towards the [Territory Success Planning fields](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/)
+Note: There is a current transition to move towards the [Territory Success Planning fields](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/)
 
 ### Lead
 1. [Lead Source](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=LeadSource&type=Lead&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DLead%26setupid%3DLeadFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DLead&setupid=LeadFields)

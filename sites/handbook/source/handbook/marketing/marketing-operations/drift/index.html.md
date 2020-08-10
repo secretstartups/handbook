@@ -44,7 +44,7 @@ Drift is a chat platform our Sales Development team uses to engage site visitors
 
 ## Drift routing
 
-Drift is expected to mirror [LeanData](https://about.gitlab.com/handbook/marketing/marketing-operations/leandata/) routing as closely as possible. If there is an exception it will be listed here as more complex routing is rolled out. Our goal is to only connect site visitors with their aligned resources in the SDR organization. This means site visitors during offline hours will be asked to schedule a meeting with their SDR. To update Drift team or routing please submit an issue using [this template](/marketing/marketing-operations/-/issues/new?issuable_template=leandata_change_sdralignment). 
+Drift is expected to mirror [LeanData](/handbook/marketing/marketing-operations/leandata/) routing as closely as possible. If there is an exception it will be listed here as more complex routing is rolled out. Our goal is to only connect site visitors with their aligned resources in the SDR organization. This means site visitors during offline hours will be asked to schedule a meeting with their SDR. To update Drift team or routing please submit an issue using [this template](/marketing/marketing-operations/-/issues/new?issuable_template=leandata_change_sdralignment). 
 
 ## Drift resources & training materials
 
@@ -70,7 +70,7 @@ Drift is expected to mirror [LeanData](https://about.gitlab.com/handbook/marketi
 
 **Marking a chat as a CQL**
 *  A CQL is a Chat Qualified Lead. 
-*  On the right hand side of your conversations view, you will be able to see information about the site visitor. Right below their name, you will see the four options of CQL in the form of a lightning bolt. Please mark a lead with the red line for `unqualified lead`, one lightning bolt for `Inquiry`, and three lightning bolts for `MQL`. Refer to this [term glossary](https://about.gitlab.com/handbook/business-ops/resources/#glossary) for a refresher on `Inquiry` and `MQL` definitions. 
+*  On the right hand side of your conversations view, you will be able to see information about the site visitor. Right below their name, you will see the four options of CQL in the form of a lightning bolt. Please mark a lead with the red line for `unqualified lead`, one lightning bolt for `Inquiry`, and three lightning bolts for `MQL`. Refer to this [term glossary](/handbook/business-ops/resources/#glossary) for a refresher on `Inquiry` and `MQL` definitions. 
 
 **Sharing your calendar in chat**
 *  At the right-hand side of the conversation toolbar there is a small calendar icon. Click there and you can share your own calendar or anyone else’s calendar that is connected in Drift.

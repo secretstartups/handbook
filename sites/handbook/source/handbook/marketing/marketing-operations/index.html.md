@@ -365,7 +365,7 @@ The Lead & Contact objects in Salesforce have unified statuses with the followin
 
 The Marketo programs for the corresponding campaign types have been prebuilt to include all the possible necessary smart campaigns, email programs, reminder emails and tokens that are to be leveraged in the building of the program.
 
-For **Content Syndication**, follow the instructions documented in [the Content Syndication section](https://about.gitlab.com/handbook/marketing/marketing-operations/#steps-to-setup-content-syndication-in-marketo-and-sfdc).
+For **Content Syndication**, follow the instructions documented in [the Content Syndication section](/handbook/marketing/marketing-operations/#steps-to-setup-content-syndication-in-marketo-and-sfdc).
 
 For all other campaign types, follow Steps 1-5 below. All steps are required.
 
@@ -418,7 +418,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
     * Update the description (if any)
     * Update `Budgeted Cost`
     * Update `Region` and `Sub-region`, if these are local or targeted to a specific region
-    * Update `Budget Holder`, if the campaign results in offline Bizible touchpoints based on campaign type (i.e. content syndication, sponsored webcast, etc.) - NOTE: an offling Bizible touchpoint happens when we gather a lead offline and in order for the system to have this name you must go through a [list upload process](https://about.gitlab.com/handbook/marketing/marketing-operations/list-import/). 
+    * Update `Budget Holder`, if the campaign results in offline Bizible touchpoints based on campaign type (i.e. content syndication, sponsored webcast, etc.) - NOTE: an offling Bizible touchpoint happens when we gather a lead offline and in order for the system to have this name you must go through a [list upload process](/handbook/marketing/marketing-operations/list-import/). 
     * Click "Save"
 
 * Add the Marketo program link and SFDC campaign link to the epic. 
