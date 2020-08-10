@@ -130,7 +130,8 @@ the team’s needs and finding better-suited candidates.
 ### How to organize
 
 * Hiring manager requests the Recruiter and/or Sourcer to organize a Source-a-thon stating the desired time and participant list;
-* the Recruiter and/or Sourcer schedules a calendar event, adds Zoom link and a ask the participants to add and save all the sourced candidates in LinkedIn projects; 
+* the Recruiter and/or Sourcer creates a [GitLab Source-a-thon Template](https://gitlab.com/gitlab-com/people-group/recruiting/-/blob/master/.gitlab/issue_templates/source-a-thon.md) with all knowledge gathered from the hiring manager to give to the participants; then also adds a Project within LinkedIn Recruiter specifially for the Source-a-thon event;
+* the Recruiter and/or Sourcer schedules a calendar event, adds Zoom link and asks the participants to add and save all the sourced candidates in LinkedIn project; 
 * the Recruiter and/or Sourcer should make sure that all invited team members have their LinkedIn account set up before the source-a-thon. For more information please refer to the [Upgrading your LinkedIn account](/handbook/hiring/sourcing/#upgrading-your-linkedin-account) section.
 
 ### Timing
