@@ -85,13 +85,6 @@ Using [Verify](https://help.sigstr.com/en/articles/1633561-sigstr-verify), you c
 1. Input the `Sender`, `Recipient`, and `Date of Send` to preview the matching campaign. For `Sender`, select a group or specific email address. For `Recipient`, select a recipient list or specific email address. Please note that the `Recipient` section only pertains to `Targeted` and `Internal Campaigns` while the `Date of Send` only pertains to `Scheduled Campaigns`. 
 1. The `Results` section details why the campaign was chosen. 
 
-## Default email signature fields
-
-- First name
-- Last name
-- Job title
-- Email address
-
 ## Best practices
 
 1. [Campaign design guidelines](https://help.sigstr.com/en/articles/1117946-campaign-design-guidelines)
@@ -106,7 +99,22 @@ Using [Verify](https://help.sigstr.com/en/articles/1633561-sigstr-verify), you c
 
 The image will be constrained to half the size to ensure high density of pixels. Use the same banner ad size for all campaigns.
 
-- 600-900 pixels wide x 120-240 pixels tall
+- 900 wide x 240 pixels tall
+- 8px radius corners
+- `.png` or `.gif`
+
+## Signatures
+
+### Resources
+
+1. [Signature management](https://help.sigstr.com/en/collections/96989-signature-management)
+
+### Default fields
+
+- First name
+- Last name
+- Job title
+- Company URL
 
 ## Campaigns
 
