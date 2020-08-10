@@ -1,0 +1,94 @@
+---
+layout: handbook-page-toc
+title: "Questions & Techniques for Success Plan Discovery"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional TAM-related handbook pages.
+
+----
+
+The questions and techniques described on this page will provide you with some ways to drive a strategic conversation with a customer, and explore the information you need to develop an [effective success plan](/handbook/customer-success/tam/success-plans/).
+
+## “Where do we go from here?”
+
+The simplest and most open-ended approach to starting a conversation about stage adoption, growth, and strategic objectives is something to the effect of:
+
+> “So I know right now you’re using [stages in use, such as SCM, CI, etc.] - where can we go from here to maximize your success and value?”
+
+This question creates an opening for them to talk about other features they’re interested in knowing more about, problems they’re wondering whether they can solve using GitLab, or anything else related to GitLab or DevSecOps. This question also sets you up for more targeted follow-ups.
+
+If the customer responds that there’s nothing else they need or are interested in, you can start asking questions about what problems they’re currently working on, what their company is focused on, etc. to take the conversation in other directions that may give you an opening to make suggestions.
+
+Instead of asking about GitLab and how GitLab might be able to help them, turn the conversation around to talk about their business. Once they’re done talking, explain how GitLab solves for each item they mentioned.
+
+- “Last time we talked, you mentioned you had other initiatives you were working on outside of GitLab, could you share what those goals are, even if they don’t seem to relate to GitLab, so I can have a better understanding of your business, now and for the future?"
+
+## Commiseration/Empathy
+
+If you have a good relationship with your champion, you can appeal to a shared feeling of “we all have a job to do” in explaining that you need to gather some information about how their business operates and what they’re focused on.
+
+- “I have some questions I need to ask so I can fill out some paperwork about what you’re focused on. You know how it goes!”
+- “My boss is telling me I need to fill out some information about my customers - I’m sure you know how that goes - so I have a few questions I’d like to ask.”
+
+Once you’ve opened the conversation, use some of the other techniques to gather details and level up to strategic objectives.
+
+## Sync/Refresh
+
+When you already have some information in your Success Plan (which should at minimum be available from the Command Plan), but have identified gaps in your knowledge, you can approach the conversation as a periodic review to make sure everyone is on the same page.
+
+- “I’d like to better understand [item already in success plan or command plan], can you tell me some more about the problem and the outcome you’re looking for?”
+- “It’s been a few months since we reviewed the main objectives you have, can we take a few minutes to go over those and make sure I’m still focused on the same things you are?”
+- “Over the last couple of conversations you mentioned [topic or focus from prior meeting(s)], can we talk some more about that?”
+
+Once you’ve opened the conversation, use some of the other techniques to gather details and level up to strategic objectives.
+
+## “Day in the Life”
+
+Asking about developer or team workflows is a good way to better understand a customer’s current toolchain and SDLC process. This is useful in developing a plan to drive stage adoption, and to ask about pain points, metrics, and dig towards business outcomes.
+
+- “Take me through the workflow of an average developer. What tools are they using? How long does it take for them to go from starting a feature to submitting the merge request?”
+- “What are the bottlenecks you see in your current processes?”
+- “What areas of improvement are you most focused on in your SDLC?”
+
+## Short/Medium/Long Term Priorities
+
+Asking the customer to rank their team’s main focuses on a timeline makes it easier to prioritize your efforts. It also sets you up for follow-up questions about what is driving those priorities, and how they are related to strategic objectives.
+
+- “What are you most focused on for the next [3/6/12/24] months?”
+- “What are your most immediate goals to improve your DevOps processes?”
+- “What are your long-term objectives for your organization’s DevOps and SDLC?”
+
+## Higher Level Priorities
+
+It can be helpful to ask what your champion’s boss or department is focused on, since it can help move you towards strategic objectives.
+
+- “What are your department’s main objectives for the year?”
+- “What is the highest priority goal that your company has to improve the SDLC/DevOps process? What do you see as the biggest challenge to achieving that goal?”
+
+## Leveling Up from Operational/Technical to Strategic
+
+As TAMs, customers often expect that our focus is on the technical details of their GitLab usage and environment. While we should be preprared to discuss technical and operational concerns, particularly related to GitLab implementation, we should always be thinking (and talking) about how those details relate to strategic business outcomes.
+
+When the conversation moves into a highly technical space, these questions can help you level it up to business outcomes again, and tie those technical details back to the larger strategy.
+
+- "What's the business problem you're trying to solve for?"
+- "What's the use case you're addressing?"
+- "Who is the user that needs this capability?" _(You want to understand what type of user they are envisioning - developer, project manager, product owner, etc.)_
+- "What will success look like when this is implemented? How will you measure that?"
+- "Can we take a step back and look at how this relates to the larger workflow?" _(This question helps you to guide the customer's technical thinking to the bigger picture, setting you up for follow-on business questions)_
+
+## Five Whys
+
+Frequently when talking to our champion or their team, the things they will tell you they’re focused on are operational or technical concerns, but aren’t strategic business outcomes. These are some useful follow-up questions you can ask to push the conversation towards strategic objectives.
+
+- “Is there a larger organizational objective driving that?”
+- “How does that tie into other company objectives?”
+- “What impact will this have on your company’s overall strategy?”
+- “How will you measure that? How does it relate to larger organizational metrics?”
+- “What’s the primary motivation for doing that?”
