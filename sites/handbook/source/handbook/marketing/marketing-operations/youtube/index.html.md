@@ -163,7 +163,9 @@ In order to see the video,
 1. Click your photo or icon in the upper right corner of Youtube. 
 
 2. Then Click > Switch Account
-![Switch-Account](/handbook/marketing/marketing-operations/youtube/switch_account.png)
+
+![Switch-Account](/handbook/marketing/marketing-operations/youtube/Switch_account.png)
+
 3. Now Select > GitLab Unfiltered. Do not select the account with your name. If GitLab Unfiltered is not an option, see [Access](/handbook/marketing/marketing-operations/youtube/#access)
 
 ![Select-User](/handbook/marketing/marketing-operations/youtube/Youtube_acount.png)
