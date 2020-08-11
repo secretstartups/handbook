@@ -22,7 +22,7 @@ Please note that this call will take a place a week or two before your actual st
 
 Sending out the Invite:
 - Invites are sent by the People Experience Associate.
-- Use this email template(https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/TaNewKi%20Welcome%20Call)
+- Use this [email template](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/TaNewKi%20Welcome%20Call)
 - The email is sent out to upcoming hires one week before the call. 
 - Be sure to cc the People Experience Team on the outgoing email.
 
