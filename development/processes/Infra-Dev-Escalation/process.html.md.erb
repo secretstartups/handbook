@@ -242,7 +242,7 @@ week here.
 
 Below is a process that one coordinator used to fill unclaimed spots:
 
-1. Start by finding the least filled shift (Usually this is 00:00 - 04:00 UTC) in [the on-call sheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit#gid=1486652954).
+1. Start by finding the least filled shift (Usually this is 00:00 - 04:00 UTC) in [the on-call sheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing).
 1. Determine the appropriate timezone for this shift (in the case of 00:00 - 04:00 it is +9,+10,+11,+12,+13).
 1. Go to the [team members list sheet](https://docs.google.com/spreadsheets/d/1Uug3QHeGYobzUbB2ajJsw7CKe7vy1xRdflO5FOuHgDw/edit#gid=1242210014) and filter the "UTC" column by the desired timezones for the shift . Now you have the list of possible people that can take this shift.
 1. Go to google calendar and start to create a dummy event that is on the day and time of the unclaimed shift . NOTE you will not actually end up creating this event.
@@ -301,7 +301,9 @@ Beginning 2020-09-01, a Pilot program will be initiated which is the outcome of 
 
 The new process splits Weekdays and Weekends/Holidays and fully automates scheduling and escalation using a Bot during the normal work week.
 
-A pilot of this new weekday process will happen concurrently with the existing scheduled one. In a sense there will be "double coverage" during the pilot to ensure that someone is always available, either via bot or previously scheduled in the spreadsheet.
+A pilot of this new weekday process will happen concurrently with the existing scheduled one. In a sense there will be "double coverage" during the pilot to ensure that someone is always available, either via bot or previously scheduled in the [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing).
+
+**Important**: During the pilot period, sign-ups of weekday and weekends are still required as a backup.
 
 #### Weekdays
 
@@ -313,7 +315,7 @@ Weekdays will now leverage an automated system relying upon a [chatbot](https://
 
 ##### Escalation
 
-1. SRE et al, types `/devoncall [optional incident URL]` into #dev-escalation
+1. SRE et al, types `/devoncall [optional incident issue URL]` into #dev-escalation
 1. A bot randomly selects a BE first responder based on: working hours, whether they are online and notifies them via slack/cell etc.
 1. BE responds to bot thread with 👀
 1. If Primary does not respond a secondary will be notified.
@@ -321,17 +323,17 @@ Weekdays will now leverage an automated system relying upon a [chatbot](https://
 1. BE triages the issue and works towards a solution.
 1. If necessary, BE reach out to domain experts as needed.
 
-In the event that no BEs respond to the bot, the bot will then post a link to the oncall spreadsheet for the SRE to look up scheduled oncall BE. We assume escalating to using the spreadsheet as a last resort.
+In the event that no BEs respond to the bot, the bot will then post a link to the [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing) for the SRE to look up scheduled oncall BE. We assume escalating to using the spreadsheet as a last resort.
 
 #### Weekends and Holidays
 
-Weekend/Holiday oncall will continue to use the existing Oncall process using the spreadsheet outlined above.
+Weekend/Holiday oncall will continue to use the existing Oncall process using the [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing) outlined above.
 
-Holidays will continue to be included in the oncall spreadsheet, those holidays include: Christmas Day, New Years Eve, New Years Day, Pi Day and Black Friday.
+Holidays will continue to be included in the [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing), those holidays include: Christmas Day, New Years Eve, New Years Day, Pi Day and Black Friday.
 
 ##### Escalation
 
-1. SRE et al, types `/devoncall [optional incident URL]` into #dev-escalation
+1. SRE et al, types `/devoncall [optional incident issue URL]` into #dev-escalation
 1. The bot posts a link to the oncall spreadsheet
 1. SRE contacts the scheduled BE via Slack or make a phone call 5 minutes after Slack ping. Refer to bullet 3 under [#process-outline](#process-outline).
 1. BE triages the issue and works towards a solution.
@@ -341,19 +343,19 @@ Holidays will continue to be included in the oncall spreadsheet, those holidays 
 
 We will pilot this new program in September and October.
 
-The aim is see at least 8 successful escalation occur with the new process before fully switching over.
-If we initiate the process 9/1/2020 we estimate that criteria should be met within 60 days. The full transition would take place starting 11/1.
+The aim is to see at least 8 escalations occur with the new process and reach a consensus whether the new process is ready for production before fully switching over. If we initiate the process on 2020-09-01 we estimate that criteria should be met within 60 days.
 
-(with the spreadsheet as a backup) and will have a milestone to review how it is going at the end of September or when we have seen 8 escalations (whichever happens sooner).
-If the pilot is successful, we will move to this new process starting in November.
+During the experiment period, the [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing) is a backup and there will be a review how it is going at the end of September or when we have seen 8 escalations (whichever happens sooner). If the pilot is successful (see [success criteria](#success-criteria) below), we will move to this new process starting on 2020-11-01.
 
 ### Success Criteria
 
-We measure success by the number of escalations handled solely via the bot-driven process. We aim for 0 total incidents to be escalated to the oncall spreadsheet.
+We measure success by the number of escalations handled solely via the bot-driven process. We aim for 0 total incidents to be escalated to the [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing), but allow up to 15% escalations falling back to the oncall spreadsheet.
+
+At the time of success assessment, all stakeholders - Development, Infrastructure, QE, Security, and Support - agree the new process is ready for production, in addition to the metric above.
 
 ### Bot Usage
 
- * In order to use the bot, type `/devoncall [optional incident URL]` to trigger the escalation process.
+ * In order to use the bot, type `/devoncall [optional incident issue URL]` to trigger the escalation process.
  * `@pagerslack top` will show the top 25 members that are next in the escalation queue
  * `@pagerslack position` will show you the position in the queue. The higher the number, the less probabilities to get pinged.
 
