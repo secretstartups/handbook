@@ -190,7 +190,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ------ | ------ | ------ | ------ |
-| 2020-08-03 | 2020-08-07 | NO SHADOWS - PTO | NO SHADOWS - PTO |
 | 2020-08-10 | 2020-08-14 | [Amy Brandenburg](https://gitlab.com/abrandenburg) - Technology Alliances Manager | [Tim Rizzi](https://gitlab.com/trizzi) - Sr. Product Manager, Package |
 | 2020-08-17 | 2020-08-21 | [Sam White](https://gitlab.com/sam.white) - Sr. Product Manager, Defend | [Amy Brandenburg](https://gitlab.com/abrandenburg) - Technology Alliances Manager |
 | 2020-08-24 | 2020-08-28 | [Mike Miranda](https://gitlab.com/mikemiranda) - Account Executive, Commercial Sales | [Sam White](https://gitlab.com/sam.white) - Sr. Product Manager, Defend | 
