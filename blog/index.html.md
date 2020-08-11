@@ -17,12 +17,13 @@ The [GitLab blog](/blog) is managed by [@rebecca](https://gitlab.com/rebecca) th
 ## Other related pages
 - [Process for making an announcement](/handbook/marketing/corporate-marketing/#requests-for-announcements)
 - [GitLab Unfiltered blog](/handbook/marketing/blog/unfiltered/)
+- [Git guide for the blog](/handbook/marketing/blog/git-guide/)
 - [Editorial team page (including blog style guide)](/handbook/marketing/growth-marketing/content/editorial-team/)
 - [Brand personality](/handbook/marketing/corporate-marketing/#brand-personality)
  and [tone of voice guidelines](/handbook/marketing/corporate-marketing/#tone-of-voice)
 - [Content Hack Day](/handbook/marketing/growth-marketing/content/content-hack-day/)
 - [Monthly release post](/handbook/marketing/blog/release-posts/)
-
+- [Git Guide for Blog Contributor](/handbook/marketing/blog/git-guide/)
 ## Publishing process
 
 If you'd like to write about something for the GitLab blog, please use the guide below to decide which process to follow:
