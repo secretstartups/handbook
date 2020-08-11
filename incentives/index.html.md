@@ -194,7 +194,7 @@ graph TD;
 1. For each team member, select the team members you would like to give the discretionary bonus to and do the following:
 1. In the top right hand corner, click Request a Change.
 1. Bonus date: today
-1. Bonus amount: $1000 (this is fixed, we don't vary the amount)
+1. Bonus amount: $100 (this is fixed, we don't vary the amount)
 1. Bonus type: Discretionary Bonus
 1. Bonus comments: 1-sentence justification that details how the team demonstrated one or more of our [values](/handbook/values) in this specific instance.
 1. Comments for the approvers: leave empty
