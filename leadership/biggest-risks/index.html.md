@@ -127,8 +127,8 @@ Application software is less likely to be forked and commoditized for the follow
 
 What we need to do is:
 
-1. [Keep up velocity](#7-loss-of-velocity)
-1. [Keep the open source community contributing](#6-loss-of-the-open-source-community)
+1. [Keep up velocity](#loss-of-velocity)
+1. [Keep the open source community contributing](#loss-of-the-open-source-community)
 1. [Follow our buyer-based-open-core pricing model](/handbook/ceo/pricing/#buyer-based-open-core)
 
 ## 9. Security breach
@@ -267,7 +267,7 @@ Alternatively, early team members may leave because working at a company the siz
 Big companies are organizationally different than small startups, but there are many things about the spirit of a startup that we can maintain, notably:
 * our [high ambition](#high-ambition)
 * our [iteration value](/handbook/values/#iteration)
-* [keeping up velocity](#7-loss-of-velocity)
+* [keeping up velocity](#loss-of-velocity)
 * our [direct communication practices](/handbook/leadership/#communication-should-be-direct-not-hierarchical)
 
 Keeping the _feel_ of a small startup, despite a growing headcount, may help retain employees who would otherwise leave.
@@ -276,9 +276,9 @@ Keeping the _feel_ of a small startup, despite a growing headcount, may help ret
 {:#innovation-and-creativity-are-stifled}
 
 As the number of layers increase and middle management layers increase, innovation and creativity are stifled.
-While this could be reflected in [loss of velocity](#7-loss-of-velocity), innovation is also about the ideas that are being brought to the table.
+While this could be reflected in [loss of velocity](#loss-of-velocity), innovation is also about the ideas that are being brought to the table.
 
-In addition to [keeping our hiring bar high](#1-lowering-the-hiring-bar), we have the benefit of our community to help bring new insights and use cases creating issues.
+In addition to [keeping our hiring bar high](#lowering-the-hiring-bar), we have the benefit of our community to help bring new insights and use cases creating issues.
 We can keep this momentum by continuing to value and engage with our community.
 We have [Merge Request Coaches](/job-families/expert/merge-request-coach/) who help contributors to get their merge requests to meet the [contribution acceptance criteria](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#contribution-acceptance-criteria),
 and [wider community contributions per release](/handbook/marketing/performance-indicators/#wider-community-merged-mrs-per-release) is [a GitLab KPI](/handbook/business-ops/data-team/kpi-index/#gitlab-kpis).
