@@ -64,7 +64,7 @@ To create a Success Plan, the TAM will perform the following activities, detaile
 
 The objectives should be written from the customer’s perspective and be measurable goals that they drive. For example, an Objective could be “Reduce Cycle Time from X to Y” rather than “Adopt Manage stage” (which is a more internally-oriented phrasing).
 
-You should know how the customer will track the benefits of purchasing GitLab, how the customer will measure success, and how the customer is currently measuring these objectives and if they have those metrics available. If these details are currenly unknown, add some relevant discovery questions to your agenda for your next [cadence call](/handbook/customer-success/tam/cadence-calls/), below are some examples:
+You should know how the customer will track the benefits of purchasing GitLab, how the customer will measure success, and how the customer is currently measuring these objectives and if they have those metrics available. If these details are currenly unknown, add some [relevant discovery questions](/handbook/customer-success/tam/success-plans/questions-techniques/) to your agenda for your next [cadence call](/handbook/customer-success/tam/cadence-calls/), below are some examples:
 
 - Who on the customer side might have important or relevant input?
 - Why is each business outcome important?
@@ -74,6 +74,8 @@ You should know how the customer will track the benefits of purchasing GitLab, h
 - When do we need to reach this goal?
 - What steps do we need to take to get there?
 - What roadblocks are there, if any?
+
+Reference the [questions & techniques for success plan discovery](/handbook/customer-success/tam/success-plans/questions-techniques/) for suggestions on how to have these conversations with customers.
 
 Business objectives can be either quantitative or qualitative, but both types still need to be actionable and measurable. See below for examples and common pitfalls of each.
 
