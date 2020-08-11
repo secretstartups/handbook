@@ -13,7 +13,7 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 ----
 
-The questions and techniques described on this page will provide you with some ways to drive a strategic conversation with a customer, and explore the information you need to develop an [effective success plan](/handbook/customer-success/tam/success-plans/).  A Success Plan should always be a continuation of the [Command Plan](https://about.gitlab.com/handbook/sales/sales-operating-procedures/engage-and-educate-the-customer/#step-5-qualify-the-opportunity) where available.  THe below questions are for further expanding on what we know from the Command Plan, or refreshing on objectives if it has been some time. 
+The questions and techniques described on this page will provide you with some ways to drive a strategic conversation with a customer, and explore the information you need to develop an [effective success plan](/handbook/customer-success/tam/success-plans/).  A Success Plan should always be a continuation of the [Command Plan](https://about.gitlab.com/handbook/sales/sales-operating-procedures/engage-and-educate-the-customer/#step-5-qualify-the-opportunity) where available.  THe below questions are for further expanding on what we know from the Command Plan, or refreshing on objectives if it has been some time.
 
 ## “Where do we go from here?”
 
@@ -27,7 +27,7 @@ If the customer responds that there is nothing else they need or are interested 
 
 Instead of asking about GitLab and how GitLab might help them, turn the conversation around to talk about their business. Listen actively, let the customer talk without interjecting, and then explore how what you heard could be activated in the Gitlab platform.
 
-- "Last time we spoke, you mentioned you had other initiatives you were working on outside of GitLab.  Would you be open to sharing what those goals are?  I would like to understand your focus now and in the future so that I can be continually bringing new features and strategies on Gitlab to you as are relevant. 
+- "Last time we spoke, you mentioned you had other initiatives you were working on outside of GitLab.  Would you be open to sharing what those goals are?  I would like to understand your focus now and in the future so that I can be continually bringing new features and strategies on Gitlab to you as are relevant.
 
 ## Sync/Refresh
 
@@ -47,7 +47,6 @@ If you have a good relationship with your champion, you can appeal to a shared f
 - “My boss is telling me I need to fill out some information about my customers - I’m sure you know how that goes - so I have a few questions I’d like to ask.”
 
 Once you’ve opened the conversation, use some of the other techniques to gather details and level up to strategic objectives.
-
 
 ## “Day in the Life”
 
