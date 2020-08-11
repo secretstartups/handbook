@@ -23,7 +23,8 @@ To access Zoominfo training sessions specific for GitLab follow [this link](http
 To access Zoominfo on-demand training follow [this link](https://university.zoominfo.com/pages/on-demand-training).
 
 ### Credits
-**Users** - Monthly credits for users are set at 2,000. 
+**Users** -  Monthly credits are set at 1,000 and bulk credits are set at 2,000. 
+Each user has 1,000 monthly credits to use for prospecting. A credit is consumed any time a user exports a contact or company out of the platform. These credits reset on the first of each month. When a user pushes "export" it should automatically pull from the monthly credits until a user has utilized all 1,000 of their monthly credits. After those monthly credits are consumed you are then able to use the bulk credits. Bulk credits are adjustable. Monthly credits are not. A user also has 2,000 views in which they can use to click on a contact and view/unlock the contact information.
 **Accounts** - Max number of accounts a user can export to SFDC is set to 100.
 **Contacts** - Max number of contacts a user can export to SFDC must match accounts and is set to 100. This is because contacts MUST be associated with accounts in SFDC. When exporting a contact, Zoominfo will check to see if an Account exists within SFDC that matches the company the contact works at. If not, users can create a new account which they will associate the contact to. Enforcing that contact creation is equal to or less than accounts is to make sure there is not a scenario where a contact export fails because they are unable to create the same number of accounts.
 **Leads** - Max number of leads a user can export to SFDC is set at 1,000. This ensures that the user will not max out their monthly allotment in one export.
