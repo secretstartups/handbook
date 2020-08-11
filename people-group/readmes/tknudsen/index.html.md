@@ -9,7 +9,7 @@ This page shares information specific to Trevor Knudsen, Executive Business Admi
 
 ## Related pages
 
-- Executive Business Administrator [Job Description](https://about.gitlab.com/job-families/people-ops/executive-business-administrator//)
+- Executive Business Administrator [Job Description](https://about.gitlab.com/job-families/people-ops/executive-business-administrator/)
 
 ## Flaws
 
