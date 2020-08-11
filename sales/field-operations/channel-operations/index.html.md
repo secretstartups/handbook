@@ -145,8 +145,8 @@ _Why is this important?_
 
 
 ### Other Resources:
-* Deal Registration Lead [Report](https://gitlab.my.salesforce.com/00O4M000004aAXt)
-* Partner Program [Guide](https://about.gitlab.com/handbook/resellers) 
+* Deal Registration Lead Report [here](https://gitlab.my.salesforce.com/00O4M000004aAXt)
+* Partner Program Guide [here](https://about.gitlab.com/handbook/resellers) 
 
 ### Scenarios for Processing Deal Registration:
 
