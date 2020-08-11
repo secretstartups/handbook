@@ -117,6 +117,8 @@ We use **On track**, **Needs attention**, and **At risk** to define the requisit
 
 * When the candidate is moved into the `Screening` stage, the person sending out the request to schedule an interview will need to send the **Global Self-Identification Survey** before **any** other steps are taken. Information about sending the survey can be found [here](/handbook/hiring/greenhouse/#global-self-identification-survey).
 
+Recruiters should ensure this step has been done before the perform the screening call. If the survey has not been sent, and the candidate is still in the screening stage, the survey should be sent out. 
+
 #### Screening
 
 During the screening stage, it is important we capture the following information in Greenhouse and be able to pull data from this information when required. Please refer to the following check list when conducting a screening call:
