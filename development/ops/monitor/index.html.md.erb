@@ -19,7 +19,7 @@ Using GitLab, you automatically get broad and deep insight into the health of yo
 
 We provide a robust monitoring solution to give GitLab users insight into the performance and availability of their deployments and alert them to problems as soon as they arise. We provide data that is easy to digest and to relate to other features in GitLab. With every piece of the devops lifecycle integrated into GitLab, we have a unique opportunity to closely tie our monitoring features to all of the other pieces of the devops flow.
 
-We work collaboratively and transparently and we will contribute as much of our work as possible back to the open source community.
+We work collaboratively and transparently and we will contribute as much of our work as possible back to the open-source community.
 
 ## Responsibilities
 
@@ -27,7 +27,7 @@ The monitoring team is responsible for:
 
 - Providing the tools required to enable monitoring of GitLab.com
 - Packaging these tools to enable all customers to manage their instances easily and completely
-- Building integrated monitoring solutions for customers apps into GitLab, including: metrics, logging, and tracing
+- Building integrated monitoring solutions for customers apps into GitLab, including metrics, logging, and tracing
 
 This stage consists of the following groups:
 
@@ -70,7 +70,7 @@ Since GitLab releases on a monthly basis, we have supporting activities that als
 
 1. We manually create our **planning issue** for the next milestone as soon as we start a milestone
   - Everyone in the team is encouraged to participate in this issue
-  - Our planning issue is a conversation about the planning priorities of the team. The PM, EM and UX are responsible for narrowing down the scope based on the capacity of the team.
+  - Our planning issue is a conversation about the planning priorities of the team. The PM, EM, and UX are responsible for narrowing down the scope based on the capacity of the team.
   - An opportunity for the team to bring up any issues they would like to work on even if it isn’t directly related to the stage so that the PM can determine how we can balance work that benefits the entire company vs the stage (as well as technical debt).
   - One week prior to the last date of the milestone, the PM will record a kickoff recording of the issues intended to be completed in the next milestone (as prescribed in the planning issue).
 1. We automatically create a **retrospective issue** for the current milestone when we are halfway through a milestone using the async-retrospective.
@@ -110,8 +110,8 @@ Our questions change depending on the day of the week. Participation is optional
 | Question | Why we ask it |
 |---|---|
 | Do you need help from anyone to unblock you this week? | One of our main goals with our standups is to help ensure that we are unblocking one another as a top priority. We ask this first because we think it's the question that other team members can take action on. |
-| What do you plan on working on this week? | We want to understand how our daily actions drive us toward our weekly goals. This question provides broader context for our daily work, but also helps us hold ourselves accountable to maintaining proper scopes for our tasks, issues, merge requests, etc. This answer may stay the same for a week, this would mean things are progressing on schedule. Alternatively, seeing this answer change throughout the week is also okay. Maybe we got side tracked helping someone get unblocked. Maybe new blockers came up. The intention is not to have to justify our actions, but to keep a running record of how our work is progressing or evolving. |
-| Any personal tidbits you'd like to share? | This question is intentionally open ended. You might want to share how you feel, a personal anecdote, funny joke, or simply let the team know that you will have limited availability that afternoon. All of these answers are welcome. |
+| What do you plan on working on this week? | We want to understand how our daily actions drive us toward our weekly goals. This question provides a broader context for our daily work but also helps us hold ourselves accountable to maintaining proper scopes for our tasks, issues, merge requests, etc. This answer may stay the same for a week, this would mean things are progressing on schedule. Alternatively, seeing this answer change throughout the week is also okay. Maybe we got sidetracked helping someone get unblocked. Maybe new blockers came up. The intention is not to have to justify our actions but to keep a running record of how our work is progressing or evolving. |
+| Any personal tidbits you'd like to share? | This question is intentionally open-ended. You might want to share how you feel, a personal anecdote, funny joke, or simply let the team know that you will have limited availability that afternoon. All of these answers are welcome. |
 
 ### Tuesday/Wednesday/Thursday
 
@@ -119,7 +119,7 @@ Our questions change depending on the day of the week. Participation is optional
 |---|---|
 | Are you facing any blockers requiring action from others? | Same reason as Monday's first question |
 | Are you on track with your plan for the week? | We want to understand how each team member is doing on achieving our week goal(s). It is meant to highlight progress while also identifying if there are things getting in the way. This could also be used to update the plan for the week as things change. |
-| What will be your primary focus for today? | This question is aimed at the most impactful task for the day. We aren't tyring to account for the entire day's worth of work. Highlighting only a primary task keeps our answers concise and provides insight into each team member's most important priority. This doesn't necessarily mean sharing the task that will take the most time. We focus on results over input. Typically this will mean highlighting the task that is most impactful in closing the gap between today and our end of the week goal(s). |
+| What will be your primary focus for today? | This question is aimed at the most impactful task for the day. We aren't trying to account for the entire day's worth of work. Highlighting only a primary task keeps our answers concise and provides insight into each team member's most important priority. This doesn't necessarily mean sharing the task that will take the most time. We focus on results over input. Typically this will mean highlighting the task that is most impactful in closing the gap between today and our end of the week goal(s). |
 | Any personal tidbits you'd like to share? | Same reason as Monday's last question |
 
 ### Friday
@@ -135,8 +135,8 @@ Our questions change depending on the day of the week. Participation is optional
 
 ## Code ownership expression
 
-To emphasize code ownership (which is aligned with [organization-wide efforts](https://gitlab.com/gitlab-org/gitlab/-/issues/212156)) and help identify domain expertise for parts of the codebase that are developed by Monitor stage. We place every new feature into a dedicated top-level namespace. Names used for these namespaces are derived from [product categories](https://about.gitlab.com/handbook/product/categories/#hierarchy).
-Such an approach helps us to communicate better not only between the engineers, but also with other peers, since used terms are well known across the organization.      
+To emphasize code ownership (which is aligned with [organization-wide efforts](https://gitlab.com/gitlab-org/gitlab/-/issues/212156)) and help identify domain expertise for parts of the codebase that are developed by the Monitor stage. We place every new feature into a dedicated top-level namespace. Names used for these namespaces are derived from [product categories](/handbook/product/categories/#hierarchy).
+Such an approach helps us to communicate better not only between the engineers but also with other peers since used terms are well known across the organization.      
 
 ### Special cases
 
@@ -148,10 +148,10 @@ Such an approach helps us to communicate better not only between the engineers, 
 
 #### Cases where namespace was selected properly
 
-1. Worker: [`IncidentManagement::ProcessAlertWorker`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/app/workers/incident_management/process_alert_worker.rb) was properly placed under `IncidentManagement` namespace which relates to [Incident Management](https://about.gitlab.com/handbook/product/product-categories/#health-group) product category.
-1. Model: [`Metrics::UsersStarredDashboard`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/app/models/metrics/users_starred_dashboard.rb) was properly placed under `Metrics` namespace which relates to [Metrics](https://about.gitlab.com/handbook/product/product-categories/#apm-group) product category.
-1. Model: [`Metrics::Dashboard::Annotation`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/app/models/metrics/dashboard/annotation.rb) was properly placed under `Metrics` namespace which relates to [Metrics](https://about.gitlab.com/handbook/product/product-categories/#apm-group) product category.
-1. Grape API instance: [`API::Metrics::UsersStarredDashboard`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/api/metrics/user_starred_dashboards.rb) was properly placed in `lib/api` dicrectory under `API` top-level namespace and than in `Metrics` subnamespace which relates to [Metrics](https://about.gitlab.com/handbook/product/product-categories/#apm-group) product category.
+1. Worker: [`IncidentManagement::ProcessAlertWorker`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/app/workers/incident_management/process_alert_worker.rb) was properly placed under `IncidentManagement` namespace which relates to [Incident Management](/handbook/product/product-categories/#health-group) product category.
+1. Model: [`Metrics::UsersStarredDashboard`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/app/models/metrics/users_starred_dashboard.rb) was properly placed under `Metrics` namespace which relates to [Metrics](/handbook/product/product-categories/#apm-group) product category.
+1. Model: [`Metrics::Dashboard::Annotation`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/app/models/metrics/dashboard/annotation.rb) was properly placed under `Metrics` namespace which relates to [Metrics](/handbook/product/product-categories/#apm-group) product category.
+1. Grape API instance: [`API::Metrics::UsersStarredDashboard`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/api/metrics/user_starred_dashboards.rb) was properly placed in `lib/api` dicrectory under `API` top-level namespace and than in `Metrics` subnamespace which relates to [Metrics](/handbook/product/product-categories/#apm-group) product category.
 
 #### Cases where better namespace could be selected
 
@@ -166,18 +166,18 @@ Such an approach helps us to communicate better not only between the engineers, 
 Spikes are time-boxed investigations typically performed in agile software development. Groups in the monitor stage typically create Spike issues when there is uncertainty on how to proceed on a feature from a technical perspective before a feature is developed.
 
 ### Guidelines
-- Spikes are typically marked as `deliverable` to ensure a clear ownership from engineers
-- Spikes are typically time boxed to a short duration, sometimes one week, never more than one milestone.
-- Limit no more than 2 Spikes per milestone per group. Typically multiple team members collaborate on a spike. We want to ensure we get multiple different view points as well as keep the research focused and efficient.
+- Spikes are typically marked as `deliverable` to ensure clear ownership from engineers
+- Spikes are typically time-boxed to a short duration, sometimes one week, never more than one milestone.
+- Limit no more than 2 Spikes per milestone per group. Typically multiple team members collaborate on a spike. We want to ensure we get multiple different viewpoints as well as keep the research focused and efficient.
 - Engineers should consider edge cases in spikes but should not seek to solve every intricacy of every edge case
-- Engineers should not be breaking the technical solution down into multiple iterations and issues until the recommended approach is given the go ahead by the engineering manager
+- Engineers should not be breaking the technical solution down into multiple iterations and issues until the recommended approach is given the go-ahead by the engineering manager
 
 ### Workflow labels for spikes
 
 - Spikes should start with `workflow::ready for development`
-- When engineer(s) are actively working on the spike, they should change the workflow label to `workflow::in dev`
+- When engineers are actively working on the spike, they should change the workflow label to `workflow::in dev`
 - After engineer(s) have completed their evaluation and are proposing their recommendation to the team, they should change the workflow label to `workflow::in review`
-- After the recommended approach is given the go ahead, the engineer(s) should change the workflow label to `workflow::verification` and close the issue
+- After the recommended approach is given the go-ahead, the engineer(s) should change the workflow label to `workflow::verification` and close the issue
 
 ### Expectations
 Engineer(s) assigned to the Spike issue will be responsible for the following tasks:
@@ -185,14 +185,14 @@ Engineer(s) assigned to the Spike issue will be responsible for the following ta
     - What were the technical implementation options for the feature and their tradeoffs?
     - What is the recommended approach (and why is it recommended)?
   - Add to the group weekly agenda and summarize the investigation of the Spike including the recommendation so that other engineers can contribute to the conversation and direction
-  - Engineering manager(s) are the DRI for making the decision about which approach to move forward with
-  - After a decision is made, engineer(s) assigned to the Spike will update the spike issue description with the decision and create the appropriate follow up issues to implement the solution before closing the Spike issue. The PM will be the DRI for scheduling those issues.
+  - Engineering managers are the DRI for making the decision about which approach to move forward with
+  - After a decision is made, engineers assigned to the Spike will update the spike issue description with the decision and create the appropriate follow up issues to implement the solution before closing the Spike issue. The PM will be the DRI for scheduling those issues.
 
 ## SRE Shadow Program
 
 With the support of GitLab's SRE team, we implemented the SRE shadow program as a means of improving the team's understanding of our ideal user personas so that we can build a better product.
 
-In this program, engineers are expected to devote 1 entire week to shadow SREs. There is no expectation for the engineer to complete their assigned issues during this time. Engineers are added to PagerDuty and will follow the [existing SRE shadow format of interning](https://about.gitlab.com/handbook/engineering/infrastructure/career/#interning-with-infrastructure--reliability-engineering) (except scaled down to a shorter duration of 1 week). Although typical SREs on-call for multiple days at a time, shadows are only expected to shadow during their regular business hours. This can be set as a preference in PagerDuty.
+In this program, engineers are expected to devote 1 entire week to shadow SREs. There is no expectation for the engineer to complete their assigned issues during this time. Engineers are added to PagerDuty and will follow the [existing SRE shadow format of interning](/handbook/engineering/infrastructure/career/#interning-with-infrastructure--reliability-engineering) (except scaled down to a shorter duration of 1 week). Although typical SREs on-call for multiple days at a time, shadows are only expected to shadow during their regular business hours. This can be set as a preference in PagerDuty.
 
 ### Objectives
 - Gain empathy for our user persona
@@ -203,8 +203,8 @@ In this program, engineers are expected to devote 1 entire week to shadow SREs. 
 ### Outcomes
 - Engineers gain a better understanding of the users we build features for.
 - Engineers become better stakeholders for the stage.
-  - They are able to create more feature proposals to help the stage build features that improves the life of our user persona.
-  - They are more equipped to influence product direction based on their observation on what is better for our user persona.
+  - They are able to create more feature proposals to help the stage build features that improve the lives of our user personas.
+  - They are more equipped to influence product direction based on their observation of what is better for our user personas.
 - Engineers develop stronger relationships with the SRE team.
   - Enables improved collaboration and efficiency in dogfooding features and getting faster feedback cycles for our features.
 
@@ -212,11 +212,11 @@ In this program, engineers are expected to devote 1 entire week to shadow SREs. 
 
 Team members interested in the program should notify their respective managers. We are currently limited to 2 max shadows per release so that we do not overload the SRE team. If you are shadowing during the same release as another engineer, coordinate to create a combined access request for the duration of the release.
 
-The participant's manager and the [Engineering Manager, Reliability Engineering](/job-families/engineering/engineering-management-infrastructure/) should collaborate with you to define a schedule in the Slack channel `#monitor-sre-shadow`. You can either check [PagerDuty schedules](https://gitlab.pagerduty.com/schedules#P05EL5A) or coordinate with the SRE manager to figure out who you'll be shadowing. Your schedule should include the week and working hours of your on-call shift, along which SRE team member(s) will be on-call at the same time.
+The participant's manager and the [Engineering Manager, Reliability Engineering](/job-families/engineering/engineering-management-infrastructure/) should collaborate with you to define a schedule in the Slack channel `#monitor-sre-shadow`. You can either check [PagerDuty schedules](https://gitlab.pagerduty.com/schedules#P05EL5A) or coordinate with the SRE manager to figure out who you'll be shadowing. Your schedule should include the week and working hours of your on-call shift, along with which SRE team member(s) will be on-call at the same time.
 
-The participant should create an access request for PagerDuty and assign the access request to the SRE manager (this is a departure from [established processes](https://about.gitlab.com/handbook/business-ops/employee-enablement/it-ops-team/access-requests/#bulk-access-request)). PagerDuty licenses are limited so previous participants in the program may have to relinquish their licenses to you. Once PagerDuty access is set up, and you have been assigned to SRE engineer, you should override [shadow PagerDuty schedule](https://gitlab.pagerduty.com/schedules#PZEBYO0) and assign yourself to corresponding shift, you can add contact details like mobile number so PagerDuty can send alerts to you.
+The participant should create an access request for PagerDuty and assign the access request to the SRE manager (this is a departure from [established processes](/handbook/business-ops/employee-enablement/it-ops-team/access-requests/#bulk-access-request)). PagerDuty licenses are limited so previous participants in the program may have to relinquish their licenses to you. Once PagerDuty access is set up, and you have been assigned to SRE engineer, you should override [shadow PagerDuty schedule](https://gitlab.pagerduty.com/schedules#PZEBYO0) and assign yourself to corresponding shift, you can add contact details like a mobile number so PagerDuty can send alerts to you.
 
-Typically, shadowing an SRE involves activities such as paying attention to SRE slack channels (#production, #incident-management), reading through incident issues posted there and jumping into the 'The Situation Room' posted at the top of incident management for any active issues where the on-call SRE joins that room. About one week before starting your rotation you should get familiar with the [Runbooks README](https://gitlab.com/gitlab-com/runbooks#gitlab-on-call-run-books) and coordinate with the SRE(s) who will be on-call to determine which areas it makes sense for you to shadow (incidents, other on-call tasks, SRE daily tasks, etc). Scheduling a coffee chat with the SRE manager and/or SRE team members is recommended.
+Typically, shadowing an SRE involves activities such as paying attention to SRE slack channels (#production, #incident-management), reading through incident issues posted there, and jumping into the 'The Situation Room' posted at the top of incident management for any active issues where the on-call SRE joins that room. About one week before starting your rotation you should get familiar with the [Runbooks README](https://gitlab.com/gitlab-com/runbooks#gitlab-on-call-run-books) and coordinate with the SRE(s) who will be on-call to determine which areas it makes sense for you to shadow (incidents, other on-call tasks, SRE daily tasks, etc). Scheduling a coffee chat with the SRE manager and/or SRE team members is recommended.
 
 Please ask to be removed from PagerDuty after your shadow rotation to free up your license.
 
@@ -245,7 +245,7 @@ In order to make it more efficient to verify changes and demonstrate our product
 
 ## Kubernetes clusters
 
-To be able to test logging features in both the elastic stack enabled and kubernetes only cases, the following clusters and environments exist in production and staging:
+To be able to test logging features in both the elastic stack enabled and Kubernetes only cases, the following clusters and environments exist in production and staging:
 
 | | Instance: gitlab.com <br> Project: tanuki-inc | Instance: staging.gitlab.com <br> Project: monitor-sandbox |
 |---|---|---|

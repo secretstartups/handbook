@@ -30,9 +30,12 @@ We decided to use archive recovery to replicate the data from the Geo primary da
 
 GitLab Geo uses [PostgreSQL Foreign Data Wrappers (FDW)](https://wiki.postgresql.org/wiki/Foreign_data_wrappers) to perform some cross-database queries between the secondary replica and the tracking database. Despite the technical elegance of this approach, these queries have lead to some problems for Geo.
 
-The staging environment is still running PostgreSQL 9.6, and Geo benefits from some FDW improvements available only in PostgreSQL 10 and later, such as join push-down and aggregate push-down. This leads to some FDW queries timing out during the backfill phase. Since we know this issue is no longer a problem for Geo from PostgreSQL 10 upwards, increasing the statement timeout to 20 minutes on staging was sufficient to allow us to proceed with the backfill.
+Originally, the staging environment was still running PostgreSQL 9.6, and Geo benefits from some FDW improvements available only in PostgreSQL 10 and later, such as join push-down and aggregate push-down. This led to some FDW queries timing out during the backfill phase. Since we know this issue is no longer a problem for Geo from PostgreSQL 10 upwards, increasing the statement timeout to 20 minutes on staging was sufficient to allow us to proceed with the backfill.
 
-We are working to [improve Geo scalability by simplifying backfill operations](https://gitlab.com/groups/gitlab-org/-/epics/2851), eliminating these cross-database queries and removing the FDW requirement. We also have a plan to upgrade to [Postgres 11 soon](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/67).
+Since the 13.2 release, we have [improved Geo scalability by simplifying backfill operations](https://gitlab.com/groups/gitlab-org/-/epics/2851), eliminating these cross-database queries and removing the FDW requirement. 
+
+##### PostgreSQL version
+Staging currently uses PostgreSQL version 11.7. In May 2020, we [collaborated with the SRE Datastores team to update the Geo node to use Postgres 11](https://gitlab.com/gitlab-org/gitlab/-/issues/217629).
 
 ##### Gitaly shards
 

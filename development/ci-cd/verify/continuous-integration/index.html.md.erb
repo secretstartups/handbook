@@ -16,7 +16,7 @@ vision](/direction/verify/) and the [Category direction of Continuous Integratio
 
 ## Performance Indicator
 
-We measure the value we contribute by using Performance Indicators (PI), which we define and use to track progress. The current [PI for the Continuous Integration group](https://about.gitlab.com/handbook/product/ops-section-performance-indicators/#verify-ci-verify-runner-count-of-pipelines-triggered-by-unique-users) is the `number of pipelines triggerd by unique users`. For more details, please check out the [Product Team Performance Indicators](https://about.gitlab.com/handbook/product/performance-indicators/#regular-performance-indicators). To view the latest Verify stage pipeline data see our [Sisense Dashboard](https://app.periscopedata.com/app/gitlab/538594/Verify-Stage-Dashboard).
+We measure the value we contribute by using Performance Indicators (PI), which we define and use to track progress. The current [PI for the Continuous Integration group](/handbook/product/ops-section-performance-indicators/#verify-ci-verify-runner-count-of-pipelines-triggered-by-unique-users) is the `number of pipelines triggerd by unique users`. For more details, please check out the [Product Team Performance Indicators](/handbook/product/performance-indicators/#regular-performance-indicators). To view the latest Verify stage pipeline data see our [Sisense Dashboard](https://app.periscopedata.com/app/gitlab/538594/Verify-Stage-Dashboard).
 
 ## Mission
 
@@ -72,15 +72,31 @@ For those new to CI, these links may be helpful in learning more about the produ
 
 ### Planning
 
-**Weekly** the team meets to discuss issues with the `workflow::planning breakdown` label. Each engineer generally grooms one issue per week and prepares ahead of time to present their findings to the team.  This discussion is focused on how we plan to address the issues which are prioritized for the upcoming milestone.  Issues may need to be broken down if they are too large for a milestone, or further research may be necessary, but each member of the team should be familiar enough with the issue to begin working on it.  The goal of this meeting is to ensure that issues are well documented and appropriately weighted.  
+#### Async Issue Refinement 
 
-Once the issue is groomed and weighted engineers move it into `workflow::scheduling` column.  
+Issues are refined and weighted prior to scheduling them to an upcoming milestone. Weighting also helps with capacity planning with respect to how issues are scheduled in future milestones. We are currently iterating on our async refinement and weighting process.
 
-**Weekly** the Product Manager and Engineering Manager discuss which issues are highest priority from the list of `workflow::scheduling` issues.  The Product Manager then applies the `VerifyP1` label to the top issues and the Engineering Manager applies the `workflow::ready for development` label when the team has capacity to begin working on them.  In addition to Product prioritized issues, the team will select tech debt issues that we plan to deliver during the milestone.
+Issues may need to be broken down if they are too large for a milestone, or further research may be necessary, so subsequent issues or epics can be created.
+
+#### Weighting Issues
+
+We add a `Weight` to issues as a way to estimate the effort to complete an issue. We factor in complexity and any additional coordination needed to work on an issue.  We weight issues based on complexity, following the fibonacci sequence:
+
+| Weight | Description  |
+| --- | --- | --- |
+| 1: Trivial | The problem is very well understood, no extra investigation is required, the exact solution is already known and just needs to be implemented, no surprises are expected, and no coordination with other teams or people is required.<br><br>Examples are documentation updates, simple regressions, and other bugs that have already been investigated and discussed and can be fixed with a few lines of code, or technical debt that we know exactly how to address, but just haven't found time for yet. |
+| 2: Small | The problem is well understood and a solution is outlined, but a little bit of extra investigation will probably still be required to realize the solution. Few surprises are expected, if any, and no coordination with other teams or people is required.<br><br>Examples are simple features, like a new API endpoint to expose existing data or functionality, or regular bugs or performance issues where some investigation has already taken place. |
+| 3: Medium | Features that are well understood and relatively straightforward. A solution will be outlined, and most edge cases will be considered, but some extra investigation will be required to realize the solution. Some surprises are expected, and coordination with other teams or people may be required.<br><br>Bugs that are relatively poorly understood and may not yet have a suggested solution. Significant investigation will definitely be required, but the expectation is that once the problem is found, a solution should be relatively straightforward.<br><br>Examples are regular features, potentially with a backend and frontend component, or most bugs or performance issues. |
+| 5: Large | Features that are well understood, but known to be hard. A solution will be outlined, and major edge cases will be considered, but extra investigation will definitely be required to realize the solution. Many surprises are expected, and coordination with other teams or people is likely required.<br><br>Bugs that are very poorly understood, and will not have a suggested solution. Significant investigation will be required, and once the problem is found, a solution may not be straightforward.<br><br>Examples are large features with a backend and frontend component, or bugs or performance issues that have seen some initial investigation but have not yet been reproduced or otherwise "figured out". |
+
+ We typically do not weigh an issue more than a 5, as we try to split up issues greater than 5.
+
+We follow the same weighting system that the `Create` stage uses. see the [handbook page of `Create:Source Code` group as an example](/handbook/engineering/development/dev/create-source-code-be/#weights).
+
 
 ### Release Plans
 
-To encourage more transparency and collaboration amongst the team and additionally align on the [Release Posts](https://about.gitlab.com/handbook/marketing/blog/release-posts/) we publish at the end of each milestone, we will be creating a separate issue to highlight a **Feature flag roll out plan** for each feature being released starting in 13.2, based on the [issue template for feature flag roll outs](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20Flag%20Roll%20Out.md). The engineer who implements the feature will be responsible for creating this separate issue to highlight the details of when and how the feature flag will be toggled, and subsquently link this issue to their feature issue.  The product manager will tag this issue as a blocker to their release post, so that everyone is aligned on the release plan of the feature.
+To encourage more transparency and collaboration amongst the team and additionally align on the [Release Posts](/handbook/marketing/blog/release-posts/) we publish at the end of each milestone, we will be creating a separate issue to highlight a **Feature flag roll out plan** for each feature being released starting in 13.2, based on the [issue template for feature flag roll outs](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20Flag%20Roll%20Out.md). The engineer who implements the feature will be responsible for creating this separate issue to highlight the details of when and how the feature flag will be toggled, and subsquently link this issue to their feature issue.  The product manager will tag this issue as a blocker to their release post, so that everyone is aligned on the release plan of the feature.
 
 ### Workflow
 
@@ -106,12 +122,12 @@ Specifically, this means our work is prioritized in the following order:
  * Unblocking anyone in `workflow::blocked` or `workflow::in dev` if applicable
  * Then, lastly, picking from the top of the `workflow::ready for development` for development column
  
-The goal of this process is to reduce the amount of work in progress (WIP) at any given time. Reducing WIP forces us to "Start less, finish more", and it also reduces cycle time. Engineers should keep in mind that the DRI for a merge request is **the author(s)**, to reflect the importance of teamwork without diluting the notion that having a [DRI is encouraged by our values](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/#dris-and-our-values).
+The goal of this process is to reduce the amount of work in progress (WIP) at any given time. Reducing WIP forces us to "Start less, finish more", and it also reduces cycle time. Engineers should keep in mind that the DRI for a merge request is **the author(s)**, to reflect the importance of teamwork without diluting the notion that having a [DRI is encouraged by our values](/handbook/people-group/directly-responsible-individuals/#dris-and-our-values).
 
 
 #### Issue Health Status
 
-For issues being implemented in the current milestone, we use the [Issue Health Status feature](https://docs.gitlab.com/ee/user/project/issues/#health-status-ultimate) to designate the high level status of the issue. This issue health status is updated by the [directly responsible individual (DRI)](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) as soon as they recognize the state of the issue has changed.
+For issues being implemented in the current milestone, we use the [Issue Health Status feature](https://docs.gitlab.com/ee/user/project/issues/#health-status-ultimate) to designate the high level status of the issue. This issue health status is updated by the [directly responsible individual (DRI)](/handbook/people-group/directly-responsible-individuals/) as soon as they recognize the state of the issue has changed.
 
 The following are definitions of the health status options:
 
@@ -150,7 +166,10 @@ CI is large enough that it has two PMs sharing the category. The PM owner for ea
 | `ci::usage` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::usage) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::usage) | All issues and MRs related to how we count continuous integration minutes and calculate usage. Formely `~ci minutes` | Thao Yeager |
 | `ci::processing` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::processing) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::processing) | Issues related to pipeline processing | Thao Yeager |
 | `ci::statuses` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::statuses) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::statuses) | Issues related to pipeline statues | Thao Yeager |
-| `ci::tokens` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::tokens) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::tokens) | Issues related to `CI_JOB_TOKEN` and CI authentication | Thao Yeager |
+| `ci::permissions` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::permissions) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::permissions) | Issues related to `CI_JOB_TOKEN` and CI authentication | Thao Yeager |
+| `ci::api-interactions` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::api-interactions) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::api-interactions) | Issues related to API endpoints for CI features. | Thao Yeager |
+| `ci::notifications` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::notifications) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::notifications) | Issues related to the notifications related to CI features. | Thao Yeager |
+| `ci::graphs & analytics` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::graphs-%26-analytics) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::graphs-%26-analytics) | Issues related to pipeline graphs and CI analytics. | Thao Yeager |
 | `ci::merge-request` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::merge-request) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::merge-request) | Issues related to CI functionality within the Merge Request. | Thao Yeager |
 
 #### Other Notable Labels
@@ -164,11 +183,11 @@ CI is large enough that it has two PMs sharing the category. The PM owner for ea
 
 #### Collaboration with UX and Engineering
 
-Product Designers play a critical role in the development of user facing issues. They collaborate with the [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) and the Product Manager to design the user experience for the issue. Once the design is agreed upon, the DRI is assigned to implement that design and functionality during the milestone for which the issue is planned.
+Product Designers play a critical role in the development of user facing issues. They collaborate with the [DRI](/handbook/people-group/directly-responsible-individuals/) and the Product Manager to design the user experience for the issue. Once the design is agreed upon, the DRI is assigned to implement that design and functionality during the milestone for which the issue is planned.
 
 The DRI is responsible for ensuring their solution matches the design and functionality agreed upon in the issue. The Product Designer will continue to help collaborate on the issue throughout the milestone where needed (e.g. questions, roadblocks, etc.), but their approval on merge requests is not required. Instead, they work with the Product Manager to do feature and UX assurance of the solution once it has been deployed to production.
 
-The DRI works with the Product Designer throughout the `workflow:in dev` phase to uncover possible problems with the solution early enough that exhibit unexpected behaviour to what was originally agreed upon. If there are changes to be added that weren't agreed upon in the initial issue - a followup issue should be made and the DRI should work with the Product Manager to schedule that issue in a following milestone. This allows us to focus on [cleanup over signoff](https://about.gitlab.com/handbook/values/#cleanup-over-sign-off), iterate quickly on issues with [a low level of shame](https://about.gitlab.com/handbook/values/#low-level-of-shame), and still make sure we accomplish what we've agreed upon. We should be careful not to hold off on completing these followup issues so that we don't build up a significant amount of UX debt issues.
+The DRI works with the Product Designer throughout the `workflow:in dev` phase to uncover possible problems with the solution early enough that exhibit unexpected behaviour to what was originally agreed upon. If there are changes to be added that weren't agreed upon in the initial issue - a followup issue should be made and the DRI should work with the Product Manager to schedule that issue in a following milestone. This allows us to focus on [cleanup over signoff](/handbook/values/#cleanup-over-sign-off), iterate quickly on issues with [a low level of shame](/handbook/values/#low-level-of-shame), and still make sure we accomplish what we've agreed upon. We should be careful not to hold off on completing these followup issues so that we don't build up a significant amount of UX debt issues.
 
 If we find that solutions are consistently not matching the agreed upon design, we will hold a retrospective with the DRI, designer, and product manager to discuss where the gaps in communication are so that we can improve. It may be necessary to begin requiring a UX approval for merge requests on certain issues to help the DRI meet the requirements.
 
@@ -251,7 +270,7 @@ If you need to call the attention of the entire group, you can tag `@gitlab-com/
 
 ## Developer Onboarding
  
-Welcome to Verify:CI! Whether you're transferring internally or joining GitLab as a new hire, you'll be assigned an [onboarding buddy](https://about.gitlab.com/handbook/general-onboarding/onboarding-buddies/). If you are an internal transfer, your manager will appoint you an onboarding buddy so you can have someone to work with as you're getting familiarized with CI, our codebase, our tech stack and the team.
+Welcome to Verify:CI! Whether you're transferring internally or joining GitLab as a new hire, you'll be assigned an [onboarding buddy](/handbook/general-onboarding/onboarding-buddies/). If you are an internal transfer, your manager will appoint you an onboarding buddy so you can have someone to work with as you're getting familiarized with CI, our codebase, our tech stack and the team.
 
 Read over this page as a starting point, and feel free to set up regular sync or async conversations with your buddy. It's also recommended to schedule a few coffee chats to meet some members of our team. Your manager may optionally create an onboarding checklist for you to go through if it's helpful.
 

@@ -128,7 +128,7 @@ milestone.
 
 ##### Issue Health Status
 
-We want to ensure issues move through [the development workflow](https://about.gitlab.com/handbook/engineering/development/enablement/geo/process.html#build) at an efficient pace. We use GitLab's [issue health status feature](https://docs.gitlab.com/ee/user/project/issues/index.html#health-status-ultimate) to indicate issues that may need more attention to continue progressing. 
+We want to ensure issues move through [the development workflow](/handbook/engineering/development/enablement/geo/process.html#build) at an efficient pace. We use GitLab's [issue health status feature](https://docs.gitlab.com/ee/user/project/issues/index.html#health-status-ultimate) to indicate issues that may need more attention to continue progressing. 
 
 For issues in `workflow::in dev`, an issue is considered `Needs Attention` if it has not had any MR activity for at least 1 week or if it has been in `workflow::in dev` for at least 2 weeks. An issue is considered `At Risk` if it has had no MR activity for at least 2 weeks or has been `workflow::in dev` for greater than 3 weeks.
 

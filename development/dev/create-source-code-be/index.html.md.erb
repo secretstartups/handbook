@@ -95,48 +95,21 @@ Once availability has been determined, weights have been assigned, and the PM/EM
 
 Emails get sent to each individual contributor on the team, as well as the Application Security counterpart, in order to give a heads-up about the upcoming issues in the milestone and what the assignments will be.
 
-#### Planning rotation
+#### Planning
 
-_For context, this process was taken and modified from [the Plan team](/handbook/engineering/development/dev/plan/#capacity-planning)._
+> If you haven't read the code, you haven't investigated deeply enough
+>
+> -- <cite>Nick Thomas</cite>
 
-To assign weights to issues in a future milestone, we ask one team member to
-take the lead each month. They can still ask questions - of the
-rest of the team, of the stable counterparts, or anyone else - but they are
-primarily responsible. Issue weights will be confirmed once they've been
-assiged for the upcoming milestone. To weight issues, they should:
+To assign weights to issues in a future milestone, on every 4th of the development month (or the next working day if it falls on a holiday or weekend), BE engineers look at the list of issues that are set for next milestone. These are assigned by the engineering manager. To weight issues, before the 15th of the month, they should:
 
-1. Look through the issues on the milestone with a `~"Deliverable"` label that have
-   `Weight:None`.
-2. For each issue, they add a weight. If possible, they also add a
-   short comment explaining why they added that weight, what parts of the code
-   they think this would involve, and any risks or edge cases we'll need to
-   consider.
-3. The process is intended to be lightweight. If something isn't clear what
-   weight it is, they should ask for clarification on the scope of the issue.
-4. Start adding weights around **a week before** the weights for a milestone
-   are due. Finishing earlier is better than finishing later.
-5. Check issues that have existing weights. Change the weight if you do not feel
-   like the initial weight given is accurate and leave a comment explaining your reasoning.
-6. When the issues for the next release get formally assigned, the assignee should
-   investigate the issue and confirm the weight.
-
-Adding weights to the issues should take no longer than 8 hours. Please speak up
-if you find this taking longer than expected!
-
-The rotation for upcoming releases is:
-
-| Release | Weights due | Engineer        |
-| ---     | ---         | ---             |
-| 12.7    | 2019-12-17  | Patrick Bajao   |
-| 12.8    | 2020-01-17  | ---             |
-| 12.9    | 2020-02-17  | Igor Drozdov    |
-| 13.0    | 2020-03-17  | Kerri Miller    |
-| 13.1    | 2020-04-17  | Nick Thomas     |
-| 13.2    | 2020-05-17  | Patrick Bajao   |
-| 13.3    | 2020-06-17  | David Kim       |
-| 13.4    | 2020-07-17  | Robert May      |
-| 13.5    | 2020-08-17  | Gary Holtz      |
-
+1. See if there is already a discussed backend solution/plan or none yet.
+1. If the discussed backend solution/plan isn't that clear, clarify it.
+1. If there's no solution/plan yet, devise one. Doesn't need to be a detailed solution/plan. Feel free to ask other people to pick their brains.
+1. If there's a need to collaborate with stable counterpart to devise a solution/plan, add a comment and tag relevant counterparts.
+1. Give issue a weight if there's none yet or update if the existing weight isn't appropriate anymore. Leave a comment why a certain weight is given.
+1. Label the issue as ~"workflow::ready for development".
+1. Unassign yourself or keep it assigned if you want to work on the issue.
 
 #### Backend and Frontend issues
 

@@ -10,7 +10,7 @@ title: "Health Group"
 {:toc .hidden-md .hidden-lg}
 
 ## Health
-The **Health** group at GitLab is responsible for building tools that enable DevOps teams to respond to, triage and remediate errors and IT alerts for the systems and applications they maintain. We work in parallel with the [APM group](https://about.gitlab.com/handbook/engineering/development/ops/monitor/apm/), who is responsible for GitLab's suite of application performance monitoring solutions (Logging, Metrics and Tracing). Together, we aim to provide a streamlined Operations experience within GitLab that enables the individuals who write the code, to maintain it at the same time.
+The **Health** group at GitLab is responsible for building tools that enable DevOps teams to respond to, triage and remediate errors and IT alerts for the systems and applications they maintain. We work in parallel with the [APM group](/handbook/engineering/development/ops/monitor/apm/), who is responsible for GitLab's suite of application performance monitoring solutions (Logging, Metrics and Tracing). Together, we aim to provide a streamlined Operations experience within GitLab that enables the individuals who write the code, to maintain it at the same time.
 
 ## North Star Metric
 The Health Group’s mission is to decrease the frequency and severity of incidents. By helping our users respond to alerts and incidents with a streamlined workflow, and capturing useful artifacts for feedback and improvement, we can accomplish our mission. To get started, we simply want to understand if our product is helping to address some of our customer’s needs. With that in mind, our initial North Star Metric is to **increase the total count of incidents within GitLab**. This NSM will inform us if we are on the right path to provide meaningful incident response tools.
@@ -21,16 +21,16 @@ We expect to track the journey of users through the following funnel:
 classDiagram
   Acquistion --|> Activation
 	Acquistion : Are users aware of the product or feature set?    
-	Acquistion: Measurement (Total Count of Alert List Views) 
+	Acquistion: Measurement (Total Count of Alert List and Incident List Views) 
   Activation --|> Retention
 	Activation : Are users applying the feature?
-	Activation: Measurement (Total Count of Alerts) 				
+	Activation: Measurement (Count of Projects with Alerts) 				
   Retention --|> Revenue
 	Retention : Are users applying the feature over time?
-	Retention: Measurement (Count of Incidents) 
+	Retention: Measurement (Count of projects where Incidents are being created) 
   Revenue --|> Referral
 	Revenue : Are users paying for the features?
-	Revenue: Measurement (TBD) 
+	Revenue: Measurement (Total count of projects leveraging paid  features (Runbooks, Status Page, etc)) 
   Referral --|> Acquistion
 	Referral : Are users encouraging others to use the feature?
 	Referral: Measurement (TBD)
@@ -202,7 +202,7 @@ In order to develop and test Zoom features for the [integration with GitLab](htt
 
 To request access to this Zoom sandbox account please open [an issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=New_Access_Request) providing your **non-GitLab email address** (which can already be associated an existing non-GitLab Zoom account).
 
-The following people are owners of this account and can [grant access](https://zoom.us/account/user) to other [GitLab Team Members](https://about.gitlab.com/handbook/communication/#top-misused-terms):
+The following people are owners of this account and can [grant access](https://zoom.us/account/user) to other [GitLab Team Members](/handbook/communication/top-misused-terms):
 
 * [Andrew Newdigate](https://gitlab.com/andrewn)
 * [Peter Leitzen](https://gitlab.com/splattael)
@@ -225,7 +225,35 @@ For more information on how to use Zoom see theirs [guides](https://marketplace.
 ## Recurring Meetings
 While we try to keep our process pretty light on meetings, we do hold a [Monitor Health Backlog Refinement](https://docs.google.com/document/d/1YWpzwlLVvciuHlpT1ALfixMHRYcWt7oqD4HftkVE5w8/edit#) meeting weekly to triage and prioritize new issues, discuss our upcoming issues, and uncover any unknowns.
 
-## Deliverable Labels
+## Labels
+The Health team uses labels for issue tracking and to organize issue boards.  Many of the labels we use also drive reporting for Product Management and Engineering Leadership to track delivery metrics.  It's important that labels be applied correctly to each issue so that information is easily discoverable.
+
+### Issue Labels
+
+|                | Label                             | Required            | Description                                               |
+|----------------|-----------------------------------|---------------------|-----------------------------------------------------------|
+| **Stage**      | `~devops::monitor`                | Yes                 | Identifies which stage of GitLab an issue is assigned to. |
+| **Group**      | `~group::health`                  | Yes                 | Identifies which team this issue belongs to. This triggers new issues to appear in the weekly triage report for the team's Product and Engineering managers. |
+| **Team**       |                                   | Yes                 | Identifies which team (or both) will develop a solution. |
+|                | `~frontend`                       |                     |                                                            |
+|                | `~backend`                        |                     |                                                            |
+| **Milestone**  | %#.##                             | No                  | While technically not a label, if the issue is being worked on immediately, add the current milestone.  If you know when the issue needs to be scheduled (such as follow-up work), add the future milestone that it should be scheduled in.  Otherwise, leave it empty. |
+| **Priority**   |                                   | Yes, when scheduled | If an issue is scheduled in the current milestone it mush have a `~deliverable` or `~filler` label. |
+|                | `~deliverable`                    |                     | Issues committed to being completed in the current milestone.  |
+|                | `~filler`                         |                     | Issues which are not committed in the current milestone. These are typically either stretch goals, technical debt or non-customer facing. |
+| **Issue Type** |                                   | Yes                 | |
+|                | `~feature`                        |                     | [Feature Issues](/handbook/product/product-processes/#feature-issues) |
+|                | `~bug`                            |                     | [Bug Issues](/handbook/product/product-processes/#bug-issues) |
+|                | `~technical debt`                 |                     | [Technical Debt](/handbook/product/product-processes/#feature-issues) |
+| **Workflow**   |                                   | Yes                 | |
+|                | `workflow::refinement`            |                     | Issues that need further input from team members in order for it to be `workflow::ready for development`. |
+|                | `workflow::blocked`               |                     | Waiting on external factors or another issue to be completed before work can resume. |
+|                | `workflow::ready for development` |                     | The issue is refined and ready to be scheduled in a current or future milestone. |
+|                | `workflow::in dev`                |                     | Issues that are actively being worked on by a developer. |
+|                | `workflow::in review`             |                     | Issues that are undergoing code review by the development team. |
+|                | `workflow::verification`          |                     | Everything has been merged, waiting for verification after a deploy. |
+
+### Deliverable Labels
 In our group, the (frontend + backend) engineering managers are responsible for adding the `~deliverable` label to any issues that the team is publicly stating that to the best of their ability, they expect that issue to be completed in that milestone. We are not perfect but our goal is that 100% of the issues with that label do ship in the release that they are scheduled in. This allows engineering to share what issues they commit to and helps set expectations for the product manager and for the community.
 
 ## Monitor Stage PTO

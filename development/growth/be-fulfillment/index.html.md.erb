@@ -108,7 +108,7 @@ We do this to encourage our team to be more async in collaboration and to allow 
 
 #### Quad-planning workflow
 
-When a `feature` or `Deliverable` proposal issue moves into `workflow::planning breakdown`, [SETs](https://about.gitlab.com/handbook/engineering/quality/#stable-counterparts) owns the completion of the `Availability and Testing` section in the Feature Proposal to complete the definition of done. As we grow to reach our [desired ratio](https://about.gitlab.com/handbook/engineering/quality/#staffing-planning), we will only have the quad approach in groups where we have an assigned SET in place.
+When a `feature` or `Deliverable` proposal issue moves into `workflow::planning breakdown`, [SETs](/handbook/engineering/quality/#stable-counterparts) owns the completion of the `Availability and Testing` section in the Feature Proposal to complete the definition of done. As we grow to reach our [desired ratio](/handbook/engineering/quality/#staffing-planning), we will only have the quad approach in groups where we have an assigned SET in place.
 1. PM applies the label `quad-planning::ready` when the feature is reviewed by the team and is ready to be implemented.
 1. SET is the DRI for the `Availability and Testing` section, ensuring that the strategy accounts for all test levels and facilitating discussions and feedback with the group.
 1. SET determines what regressions will need to be run, this is made clear in the above section.
@@ -133,7 +133,9 @@ Any test failure is notified to #g_fulfillment_status including a link to the pi
 
 ### Deployment
 
-We use CD (Continuous Deployment) for the [transactions portal](https://gitlab.com/gitlab-org/customers-gitlab-com/) and a MR goes through the following stages once it gets merged into the `staging` branch:
+#### Customers portal
+
+We use CD (Continuous Deployment) for the [customers portal](https://gitlab.com/gitlab-org/customers-gitlab-com/) and a MR goes through the following stages once it gets merged into the `staging` branch:
 
 ```mermaid
 graph TD;
@@ -146,7 +148,27 @@ If something goes wrong at the `Verification` stage, we could create an issue wi
 
 For MRs with significant changes, we should consider using [feature flags](https://gitlab.com/gitlab-org/customers-gitlab-com/#feature-flags) or create an issue with the `production::blocker` label to pause deployment and a allow for longer testing.
 
-### Feature freeze
+
+#### License app
+
+We use an [automatic deployment to staging, but manual deployment to production](https://docs.gitlab.com/ee/topics/autodevops/#deployment-strategy) for the license app.
+
+Maintainers of the application need to trigger a manual action on the `master` branch in order to deploy to production.
+
+#### Escalation Process
+
+In most cases an MR should follow the standard process of review, maintainer review, merge, and deployment as outlined above. When production is broken:
+
+1. First determine whether the [Rapid Engineering Response](/handbook/engineering/workflow/#rapid-engineering-response) process can be followed. This will depend on availability and how critical the situation is.
+1. The three hour wait between Staging and Production auto deploy can be bypassed with a manual deployment by a Maintainer.
+1. When there are no project maintainers available ([customers portal](/handbook/engineering/projects/#customers-app), [license app](/handbook/engineering/projects/#license-app)) an additional GitLab Team Member with Maintainer access can be asked to assist.
+
+In these cases please ensure:
+
+1. There is an issue describing the reasons for the escalation, as per the [Rapid Engineering Response](/handbook/engineering/workflow/#rapid-engineering-response). Consider '@'mentioning the relevant [Growth/Fulfillment teams](https://gitlab.com/gitlab-org/growth).
+1. The change is announced on the [#g_fulfillment](https://gitlab.slack.com/archives/CMJ8JR0RH) channel.
+
+#### Feature freeze
 
 The feature freeze for Fulfillment occurs at the same time as the rest of the company, normally around the 18th.
 
@@ -161,7 +183,7 @@ Any issues not merged on the current milestone post feature freeze, will need to
 
 ### Measuring Engineering Throughput
 
-One of our main engineering metrics is [throughput](https://about.gitlab.com/handbook/engineering/management/throughput/) which is the total number of MRs that are completed and in production in a given period of time. We use throughput to encourage small MRs and to practice our values of [iteration](https://about.gitlab.com/handbook/values/#iteration). Read more about [why we adoped this model](https://about.gitlab.com/handbook/engineering/management/throughput/#why-we-adopted-this-model).
+One of our main engineering metrics is [throughput](/handbook/engineering/management/throughput/) which is the total number of MRs that are completed and in production in a given period of time. We use throughput to encourage small MRs and to practice our values of [iteration](/handbook/values/#iteration). Read more about [why we adoped this model](/handbook/engineering/management/throughput/#why-we-adopted-this-model).
 
 We aim for 12 MRs per engineer per month which is tracked using our [throughput metrics dashboard](https://app.periscopedata.com/app/gitlab/559055/WIP:-Backend-Growth:Fulfillment-Development-Metrics).
 

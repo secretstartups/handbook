@@ -12,7 +12,7 @@ title: Threat Management Product Development Flow
 ## Product Development Flow Diagram
 
 This flow is a visual representation of the [Product Development
-Flow](https://about.gitlab.com/handbook/product-development-flow/#validation-phase-1-validation-backlog)
+Flow](/handbook/product-development-flow/#validation-phase-1-validation-backlog)
 handbook page. It does not include many of the detailed steps and interactions occurring within
 phases nor the transitions of various workflows labels. It's also worth noting that, while Product
 Management, UX and Engineering have ownership of some phases, all teams work collaboratively
