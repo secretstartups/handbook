@@ -59,7 +59,22 @@ Open a merge request for your blog post using the `unfiltered blog post` MR temp
 
 Create your blog post file, following the instructions in the main [blog handbook](/handbook/marketing/blog/#formatting-guidelines). You may do this before you open your MR, depending on your preferred workflow.
 
-Make sure you enter `unfiltered` in the category field of the frontmatter.
+#### Frontmatter
+
+All blog post files begin with this frontmatter. Some fields from the [standard frontmatter for blog posts](/handbook/marketing/blog/#frontmatter) are unnecessary for Unfiltered posts, so to simplify things, you can copy and paste the below frontmatter:
+
+```yaml
+---
+title: "This is the post title"
+author: Firstname Lastname # if name includes special characters use double quotes "First Last"
+author_gitlab: GitLab.com username # ex: johndoe
+author_twitter: Twitter username or gitlab # ex: johndoe
+categories: unfiltered
+image_title: '/images/blogimages/gitlab-values-cover.png'
+description: "Short description for the blog post"
+tags: tag1, tag2, tag3 # Please add some relevant tags from the blog handbook: https://about.gitlab.com/handbook/marketing/blog/#tags
+---
+```
 
 #### Link to disclaimer
 
@@ -91,15 +106,22 @@ You can choose a cover image for yourself by following the [guidelines in the bl
 
 ### Review
 
-As a final step, you might want to do a quick search of our blog to see if there are related posts you could include links to in your post. Cross-linking helps the reader and helps SEO, meaning more people will see what you've written. When you are completely finished, assign your MR to another team member for review. Ideally they should be someone familiar with the topic you are writing about, so that they can fact check as well as catch typos or grammatical errors. They might find this [editorial review checklist](/handbook/marketing/growth-marketing/content/editorial-team/#editorial-review-checklist) helpful.
+As a final step, you might want to do a quick search of our blog to see if there are related posts you could include links to in your post. Cross-linking helps the reader and helps SEO, meaning more people will see what you've written. 
 
-- _Please ensure the `unfiltered` category has been entered in the post frontmatter._
+Please check [the review app for the blog post](/handbook/marketing/blog/#previewing-your-blog-post) to ensure there are no formatting problems (e.g. links not working, images not rendering).
 
-- _Please ensure the post is not set to be [featured](/handbook/marketing/blog/#featured): Remove the line `featured: yes` from the frontmatter if necessary._
+When you are completely finished, assign your MR to another team member for review. This does not have to be a member of the Editorial or Content teams. In most cases you would assign someone from your own team or group to review. Ideally your reviewer should be someone familiar with the topic you are writing about, so that they can fact check as well as catch typos or grammatical errors.
+
+#### If you are asked to review an Unfiltered post
+
+- You might find this [editorial review checklist](/handbook/marketing/growth-marketing/content/editorial-team/#editorial-review-checklist) helpful
+- Please ensure the `unfiltered` category has been entered in the post frontmatter
+- Remove the line `featured: yes` from the frontmatter if present
+- Please check [the review app for the blog post](/handbook/marketing/blog/#previewing-your-blog-post) to ensure there are no formatting problems (e.g. links not working, images not rendering)
 
 ### Merging
 
-Your reviewer may be able to merge your post, but if they don't have maintainer access for the www-gitlab-com project you may need to assign the MR to someone else on your team to merge.
+Your reviewer may be able to merge your post, but if they don't have maintainer access for the www-gitlab-com project you may need to assign the MR to someone else on your team to merge. You don't need to assign someone from the Editorial team to merge.
 
 ### Featured posts
 
