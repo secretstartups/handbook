@@ -17,6 +17,7 @@ The [GitLab blog](/blog) is managed by [@rebecca](https://gitlab.com/rebecca) th
 ## Other related pages
 - [Process for making an announcement](/handbook/marketing/corporate-marketing/#requests-for-announcements)
 - [GitLab Unfiltered blog](/handbook/marketing/blog/unfiltered/)
+- [Git guide for the blog](/handbook/marketing/blog/git-guide/)
 - [Editorial team page (including blog style guide)](/handbook/marketing/growth-marketing/content/editorial-team/)
 - [Brand personality](/handbook/marketing/corporate-marketing/#brand-personality)
  and [tone of voice guidelines](/handbook/marketing/corporate-marketing/#tone-of-voice)
