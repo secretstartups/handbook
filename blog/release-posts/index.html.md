@@ -922,7 +922,8 @@ _"Docs or it didn't happen!"_
 Required for primary features, optional for secondary features and top feature.
 - `image_noshadow: true`: if an image (`image_url`) already has shadow
 the entry `image_noshadow` will remove the shadow applied with CSS by default. Optional.
-- `video`: when present, overrides the image and displays the linked video instead. Use the [link for embed videos](/handbook/markdown-guide/#videos).
+- `video`: when present, overrides the image and displays the linked video instead. See the [Videos](#videos)
+section for more information.
 
 Check the section **Adding Content** > [Illustrations](#illustrations) for more information.
 
