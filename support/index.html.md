@@ -489,7 +489,7 @@ If you need to go for a run, grab a coffee or take a brain break please do so wi
 ### What if I Feel Threatened or Harassed While Handling a Support Request?
 Just as Support Team are expected to adhere to GitLab's [Code of Conduct](/handbook/people-group/code-of-conduct), we also expect customers to treat the Support Team with the same level of respect. The [GitLab Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/) outlines the standards to which we hold the wider GitLab Community.
 
-If you notice a threatening or hostile ticket, please create tag the [Manager On-Call](/handbook/support/on-call/#manager-on-call) to respond with the following follwing the guidelines in our [Statement of Support](/support/#TODO-PUT-SLUG-HERE).
+If you notice a threatening or hostile ticket, please tag the [Manager On-Call](/handbook/support/on-call/#manager-on-call) to respond with the following guidelines in our [Statement of Support](/support/#please-dont-use-language-intended-to-threaten-or-harass).
 
 ### Improving our processes - 'Active Now' issue board
 The Support team use ['support-team-meta' project issues](https://gitlab.com/gitlab-com/support/support-team-meta/issues/) to track ideas and initiatives to improve our processes. The ['Active Now' issue board](https://gitlab.com/gitlab-com/support/support-team-meta/-/boards/580661) shows what we're currently working on. It uses three labels:
