@@ -14,7 +14,7 @@ title: "Practical Handbook Edits Examples"
 This page contains video recordings and written tips for non-engineering teams and how to be Handbook-First.
 In these videos, we run through the GitLab Handbook with experts, uncovering how to best use the Handbook in our day-to-day work, and learning best-practices for Handbook editing along the way.
 
-Have your own practical Handbook editing tips? Drop a video below!
+**Have your own practical Handbook editing tips? Drop a video below!**
 
 ### Creating new handbook pages and multimedia embedding best-practices
 <figure class="video_container">
