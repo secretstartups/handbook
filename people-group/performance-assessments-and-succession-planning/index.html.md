@@ -50,7 +50,7 @@ Potential refers to the ability and desire of a team member to successfully assu
 
 The Talent placement process is loosely as follows:
 * Managers complete a 9 box performance/potential matrix for their staff; Roll up through Executive Team
-* Talent Review Manager Meeting: Alll people managers come together to review and discuss results across the organization for each role. Changes are made as appropriate.
+* Talent Review Manager Meeting: All people managers come together to review and discuss results across the organization for each role. Changes are made as appropriate.
 * Executive Review: Leadership meets to review the TRP Results; Promotion Requests; Review Development and Performance Actions; Review Discrepancies; Monitor Progress from previous TRP series.
 * Final TRP results shared with managers: Manager education session with next steps and action plans
 
