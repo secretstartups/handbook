@@ -4,45 +4,208 @@ title: "Channel Operations"
 ---
 ## Welcome to the Channel Operations page
 
-## SFDC for Channel Business
- - A new Partner Information section has been added to all opportunities.  This will ensure proper tracking for all channel opportunities when filled in.  If you are working a deal with a GTM route of Channel, please ensure this section is properly reflecting the Partners of the deal.  In the case of a Partner Initiated Opportunity from the partner portal, these sections should already be populated, but please double check before closing your deal.  
 
-## Channel Interim Deal Registration Process
 
-Until the system is fully built out, you’ll need to do some manual steps to approve deal registration.  First, go to this [report](https://gitlab.my.salesforce.com/00O4M000004aAXt), this will show all deal registrations as a lead record in SFDC.
-- Find the Area you cover
-- Click on the Customer name to access the Lead record
- 
-**In Lead Record**
+## Managing Channel Opportunities ##
 
-You’re now viewing the lead record which will show you the basic information that the partner submitted via the Partner Portal.  To approve this deal registration lead, click on the Convert button at the top.
- 
-**Click Convert**
- 
-This will convert a lead to an opportunity.  You’ll need to fill out a few details for the opportunity record. 
-Account name - Select End User account record for opportunity or select to create a new end user account.
-Opportunity Name -  This is a freeform field, please name the opportunity as you normally would.
- 
-In the Task Information section, please input “Other” for any blank section
- 
-**Opportunity is created**
- 
-- Move opportunity into Sales reps name
-- Ensure the Partner Information section is correctly populated.
+**Policy and Process**
+
+All channel opportunities require a Partner to submit a Deal Registration via the Partner Portal (Impartner). For more details on the partner deal registration process go [here](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview).  
+
+When a deal registration is submitted a lead is created in SFDC. An email is also sent from the [Partners@GitLab.com](mailto:Partners@GitLab.com) alias to the Channel Sales Manager(s).  
+
+Channel Sales Managers need to review the deal registration and do a search in SFDC to make sure another deal reg doesn’t already exist for the same opportunity. Only one deal registration can be approved for a specific opportunity. As a reminder, deal registrations are opportunity based and partners cannot register an account. 
+
+A new Partner Information section has been added to all opportunities.  This will ensure proper tracking for all channel opportunities when filled in.  If you are working a deal with a GTM route of Channel, please ensure this section is properly reflecting the partners of the deal.  
+
+In order to see if a deal registration or opportunity already exists perform the following steps
 
 
 
+1. Search SFDC using the customers contact email address
+2. If nothing is found, try searching by the company name
+3. Check with the applicable sales rep as needed
+
+Once the search is completed, then reach out to the applicable sales rep and discuss the deal registration and whether or not it should be approved based off the following guidance:
+
+**Guidance for Deal Registration Processing** 
+
+_Why is this important?_
 
 
-##  Channel Neutral
 
-To incentivize working with our Channel partners, 'Channel Neutral' means that we will not reduce $ value to individual sellers even if the Channel business reduces total iACV to GitLab (via discounts or rebates).
-More information can be found on the [compensation page](/handbook/sales/commissions/#channel-neutral-compensation).
+*   Consistent and predictable partner experience
+*   Efficient, simple, and objective approval process
+*   Uphold integrity of deal reg reporting integrity
+*   Mitigates liability
+*   Reinforces our Transparency value  
 
-**Channel Neutral Comp**
-- For FY21 the sales team will not absorb any channel partners standard contractual discounts.
-- They will be compensated at the non-channel net value of the deal.
-- Channel Discount must come from the New Partner Program.  Any discount in excess of partner limits will not be factored into Channel Neutral compensation
+**    **
+
+
+
+<table>
+  <tr>
+   <td><strong><a href="https://about.gitlab.com/handbook/business-ops/resources/#opportunity-stages">Sales Stage</a> in SFDC</strong>
+   </td>
+   <td><strong>Partner Initiated (PIO)</strong>
+   </td>
+   <td><strong>Partner Assist  </strong>
+   </td>
+   <td><strong>Fulfill</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>00-Pre Opportunity</strong> 
+   </td>
+   <td><strong>X</strong>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>0-Pending Acceptance</strong>
+   </td>
+   <td><strong>X</strong>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>1-Discovery</strong>  
+   </td>
+   <td>CSM Discretion
+   </td>
+   <td>CSM Discretion
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>2-Scoping</strong>
+   </td>
+   <td>
+   </td>
+   <td><strong>X</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>3-Technical Evaluation</strong>
+   </td>
+   <td>
+   </td>
+   <td><strong>X</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>4-Proposal</strong>
+   </td>
+   <td>
+   </td>
+   <td>CSM Discretion
+   </td>
+   <td>CSM Discretion
+   </td>
+  </tr>
+  <tr>
+   <td><strong>5-Negotiating</strong>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td><strong>X</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>6-Awaiting Signature</strong>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td><strong>X</strong>
+   </td>
+  </tr>
+</table>
+
+
+**Other Resources:**
+
+	Deal Registration Lead [Report](https://gitlab.my.salesforce.com/00O4M000004aAXt)
+
+    Partner Program [Guide](https://about.gitlab.com/handbook/resellers) 
+
+**Scenarios for Processing Deal Registration:**
+
+**(1) Processing a Deal Registration where no other Deal Registration or Opportunity already exists**
+
+1. From the lead record in SFDC, click on the CONVERT button at the top middle of the page
+2. It will take you to an Account Creation page
+    1. Update the Record Owner to yourself (applicable Channel Sales Manager)
+    2. If a customer account already exists in SFDC, select it in the drop down, otherwise select Create New
+    3. Update the opportunity name based off the GL naming guidance [here](https://about.gitlab.com/handbook/business-ops/resources/#opportunity-naming-convention)
+    4. Fill out the required fields in the Task Information section
+    5. Click CONVERT at the bottom once completed
+3. The deal registration is now approved and an opportunity has now been created
+    6. In order to save the opportunity the following fields will be required (some will map over from the deal reg conversion)
+        1. DR - Partner
+        2. DR- Partner Deal Type: Resale, Referral, Services Attach
+            1. If Resale, then select PIO, Assisted, or Fulfilment in the Deal Engagement picklist
+            2. If Referral, Deal Engagement will default to PIO
+                1. If a different Partner is fulfilling the deal, please add the Fulfilment Partner Field
+            3. If Services Attach will default to N/A
+            4. Distributor, Influence, and Platform Partner as applicable
+    7. Ensure that the owner of the opportunity is changed to the applicable sales rep once the opportunity is saved. 
+        3. Do not select any of the checkboxes when changing the opportunity owner
+
+**(2) Processing a Deal Registration when an Opportunity already exists**
+
+1. Follow the same steps 1-3 in the previous section
+2. Once completed, send a request to Channel Ops either from Chatter or Slack providing them the link to the opportunity you just created and the one that already exists
+3. They will perform the necessary steps to update the records accordingly
+
+**(3) Denying a Deal Registration when one already exists or does not meet program requirements**
+
+1. From the deal registration lead record, click on DENY DEAL REGISTRATION button on the top of the page
+    1. It will take you to another screen to confirm, check the box, and hit next
+    2. Status of deal registration will now be changed to “Denied” and synched back with the Partner Portal (Impartner)
+
+**SFDC Field Definitions:**
+
+*   DR - Partner: Partner that submitted the Deal Registration 
+*   DR - Partner Deal Type
+    *   Resale: Partner is actually transacting the deal on their paper. 
+    *   Referral: Partner is bringing us the lead/opportunity but will either transact direct with GL or thru another partner
+    *   Services Attach_: Partner-delivered services provided to the end user related to their use of the GitLab software
+*   DR - Partner Engagement: How the deal was sourced or the value the partner is brining
+    *   PIO: Partner has “initiated” the opportunity. They have either found the original opportunity or an upsell to a current customer. 
+    *   Assisted: GitLab-sourced opportunity where the partner assists our sales team in closing the deal
+    *   Fulfillment: Partner only processes the order and doesn’t provide additional support to close the deal
+*   Distributor: If the DR - Partner are buying from a GitLab authorized distributor
+*   Fulfillment Partner: Only applicable if the _DR - Partner Deal Type_ is _Referral_ and the deal is being transacted thru another partner
+*   Platform Partner: Customers Platform that GitLab is being deployed
+*   Influence Partner: Other partners, generally GSI’s or alliances that have helped influence the deal
+
+**Rules of Engagement on Channel Deals**
+
+*   Deal registration approval is based upon order of receipt of the registration, qualification of the opportunity, partner ability to deliver in-country/region support, partner relationship with customer. Final deal registration approval decision will be made by GitLab Sales.
+*   Only one partner can earn a deal registration discount per opportunity. Partners, other than the partner granted the deal registration discount that request a quote, will receive the fulfillment discount rate.
+*   New customer opportunities or new opportunities with existing customers can qualify for deal registration. Add-on sales to renewals can qualify for deal registration.
+*   Approved deal registrations have standard 90-day expiration from the date of original approval (Deal Registration extensions beyond the initial 90 days approval are at the sole discretion of GitLab).
+*   GitLab collaborates with partners holding the approved deal registration and is available to support partners throughout the entire sales process.
+*   In the event the engagement is dissolved, the GitLab Sales Rep will generally notify the partner by phone or email. GitLab will reconsider other deal registrations submitted for this deal, in chronological order of submission. If there are no other registration requests submitted, the GitLab sales rep will typically initiate engagement with a reseller of the GitLab sales rep’s choosing.
+
+
+
 
 ##  Program and Incentive Definitions
 
@@ -122,28 +285,50 @@ Use fulfillment contract for one-off partner deals
 On a quarterly basis, the Channel team will revisit developing countries to determine if there is a continued need for fulfillment partners, or if we have the necessary coverage with authorized partners.
 
 
-## Partner Applicant Approval / Denial - Granting Portal Acces
 
-When a new partner company registers on the portal, they will receive an email confirming the receipt of their application, and CAMs will receive a New Partner Applicant email from Partnersupport@gitlab.com notifying you there is a new Partner applicant in your region. The first step is to contact the partner and qualify them.
+## **Partner Applicant Approval / Denial - Granting Portal Access**
 
-If you want to move forward with onboarding the partner...
-- Go to the Partner Account record in Salesforce - kindly check for duplicate accounts. 
-- To begin the contract approval process, select Legal Request and request the appropriate contract addendum (resale, referral/services or both OR MSP OR OTHER)
-- Once contract is signed, update the Partner Info section on the Salesforce Partner Account Record
-    -  set Partner Status to "Authorized"
-    -  select Partner Type
-    -  select Partner Track
-    - other fields as appropriate
+Channel Sales Managers and Alliance Managers are responsible for approving Partner sign ups in SFDC that fall within their region or area of responsibility. Sign ups must be initiated by the Partner from an Impartner application which can be found [here.](https://rv.treehousei.com/en/login.aspx)   If for any reason, a partner account needs to be created in Salesforce directly, requests for account creation can be made to #channel-ops within Slack. 
 
-- Once a Partner is authorized, each contact for that partner will automatically receive a message with login credentials to the portal.
+When a new partner company applies on the portal a Prospect Account in Salesforce is created. The partner will receive an email confirming the receipt of their application, and applicable Channel Sales or Alliance Manager will receive a New Partner Applicant email from Partnersupport@gitlab.com notifying there is a new partner applicant in that region. 
 
-- Additional partner employees can go to partners.gitlab.com to register.  
-Once they attach to an Authorized partner account, they will automatically receive a message with login credentials. If the account is still a Prospect they will not have access until the account moves to Authorized. 
+Upon receiving the New Partner Applicant email, the applicable Channels Sales Manager needs to complete the following:
 
-If you do not want to move forward with the partner:
-1.  On the Salesforce Partner Account, set Partner Status to "Denied"
+1. Contact the partner and qualify them
+2. If the decision is to move forward with the partner first check to see if a partner account already exists in Salesforce. If it is a duplicate, request for the accounts to be merged by the Channel Operations team. If the decision is to deny the partner then go to step #7.
+3. To start the contracting process click the Legal Request button in SFDC on the partner account record. 
+    1. Request the appropriate contract addendum (Resale, Referral/Services or both **OR** MSP **OR** OTHER).  Default should be Resale and Referral/Services.
+4. Once the contract is fully executed and attached to the partner account record in SFDC the following fields need to be updated by the Channel Sales Manager and are required(*) in order to save the account
+    2. *Change Partner Status = Authorized
+        1. For Alliance Partner Partner Status = Active 
+    3. *Select Partner Type
+    4. *Select Partner Track
+        2. For Alliances Partner Track = Technology
+    5. *Select Partner Program Status (If contract was signed after 4/2/2020 then select “New”)
+    6. Please include any other applicable information
+    7. For additional information on the Partner Program review [here](https://about.gitlab.com/handbook/resellers/#partner-program-tracks) 
+5. Once a partner is authorized, each SFDC contact for that partner will automatically receive a message with login credentials to the portal.
+6. Additional partner employees can go to partners.gitlab.com to register. \
+Once they are linked to an authorized partner account (they must select the correct account upon registering), they will automatically receive a message with login credentials. If the account is still a Prospect they will not have access until the account has an executed contract and is moved to Authorized. 
+7. If the decision is to not move forward with the partner,
+    8. Channel Sales Manager needs to set Partner Status = Denied
+
 
 Visit the [Partner Applicant / Partner Portal FAQ](  https://docs.google.com/document/d/1aPCqF5-qb2XxFEhvkNzvexwsIYGuiJF8AhK_qeUgw0Y/edit?usp=sharing) for additional information.
+
+
+
+##  Channel Neutral
+
+To incentivize working with our Channel partners, 'Channel Neutral' means that we will not reduce $ value to individual sellers even if the Channel business reduces total iACV to GitLab (via discounts or rebates).
+More information can be found on the [compensation page](/handbook/sales/commissions/#channel-neutral-compensation).
+
+**Channel Neutral Comp**
+- For FY21 the sales team will not absorb any channel partners standard contractual discounts.
+- They will be compensated at the non-channel net value of the deal.
+- Channel Discount must come from the New Partner Program.  Any discount in excess of partner limits will not be factored into Channel Neutral compensation
+
+
 
 ##Channel Marketing Processes
 
@@ -152,6 +337,8 @@ Complete process for submitting an MDF proposal request for funds and detailed i
 Select and Open Partners are able to submit MDF requests via the Marketing Page in the Partner Portal. Partners should be reviewing plans with you prior to submitting an MDF request in the Portal to ensure you are aligned with the proposal.  
 
 Partner Logos may be accessed in GitLab Partner Portal in the Asset Library under Marketing.  Logos are segmented so only authorized Select Partners have access to the Select Logo. 
+
+
 
 ## Frequently Asked Questions
 
