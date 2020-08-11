@@ -313,15 +313,15 @@ Weekdays will now leverage an automated system relying upon a [chatbot](https://
 
 ##### Escalation
 
-1. SRE et al, types `/devoncall` into #dev-escalation
+1. SRE et al, types `/devoncall [optional incident URL]` into #dev-escalation
 1. A bot randomly selects a BE first responder based on: working hours, whether they are online and notifies them via slack/cell etc.
 1. BE responds to bot thread with 👀
 1. If Primary does not respond a secondary will be notified.
 1. The bot will continue trying up to 6 different BEs.
-1. BE triages the issue and works toward a solution.
+1. BE triages the issue and works towards a solution.
 1. If necessary, BE reach out to domain experts as needed.
 
-In the event that no BEs respond to the bot, the bot will then post a link to the oncall spreadsheet for the SRE to look up scheduled oncall BE. We assume escxalating to using the spreadsheet as a last resort.
+In the event that no BEs respond to the bot, the bot will then post a link to the oncall spreadsheet for the SRE to look up scheduled oncall BE. We assume escalating to using the spreadsheet as a last resort.
 
 #### Weekends and Holidays
 
@@ -331,12 +331,11 @@ Holidays will continue to be included in the oncall spreadsheet, those holidays 
 
 ##### Escalation
 
-1. SRE et al, types `/devoncall` into #dev-escalation
+1. SRE et al, types `/devoncall [optional incident URL]` into #dev-escalation
 1. The bot posts a link to the oncall spreadsheet
 1. SRE contacts the scheduled BE via Slack or make a phone call 5 minutes after Slack ping. Refer to bullet 3 under [#process-outline](#process-outline).
-1. BE responds to bot thread with 👀
-1. BE triages the issue and works toward a solution.
-1. If necessary, BE reach out to domain experts as needed.
+1. BE triages the issue and works towards a solution.
+1. If necessary, BE will reach out to domain experts as needed.
 
 ### Timeline
 
@@ -354,7 +353,10 @@ We measure success by the number of escalations handled solely via the bot-drive
 
 ### Bot Usage
 
- In order to use the bot, type `/devoncall` to trigger the escalation process.
+ * In order to use the bot, type `/devoncall [optional incident URL]` to trigger the escalation process.
+ * `@pagerslack top` will show the top 25 members that are next in the escalation queue
+ * `@pagerslack position` will show you the position in the queue. The higher the number, the less probabilities to get pinged.
+
 
 ### Slack Notification Hours
 
