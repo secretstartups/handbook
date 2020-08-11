@@ -86,10 +86,28 @@ When the conversation moves into a highly technical space, these questions can h
 
 ## Five Whys
 
-Frequently when talking to our champion or their team, the things they will tell you they’re focused on are operational or technical concerns, but aren’t strategic business outcomes. One technique that can be used is the [5 Whys](https://en.wikipedia.org/wiki/Five_whys#:~:text=Five%20whys%20(or%205%20whys,basis%20of%20the%20next%20question.). The basic overview of this technique is that when a customer tells you a focus or goal, you can get to the strategic objectives behind this focus why asking 'help me better understand why that focus is important?' or something along these lines.  On average, asking a 'dig deeper' question takes 5 'rounds' as such before you get to the core problem, or in our case strategic initiative.
+Frequently when talking to our champion or their team, the things they will tell you they’re focused on are operational or technical concerns, but aren’t strategic business outcomes. One technique that can be used is the [5 Whys](https://en.wikipedia.org/wiki/Five_whys). The basic overview of this technique is that when a customer tells you a focus or goal, you can get to the strategic objectives behind this focus why asking "help me better understand why that focus is important?" or something along these lines. On average, asking a "dig deeper" question takes 5 "rounds" as such before you get to the core problem, or in our case strategic initiative.
 
 For example:
-TAM: As we enter in to the second half of this year, would you please help me to better understand what your key focus is?
-Customer: My primary focus is setting up a HA infrastucutre
-TAM: Great! Would you please help me for my understanding what current challenges you are looking to solve for with HA?
-Customer: 
+
+> **TAM:** As we enter in to the second half of this year, would you please help me to better understand what your key focus is?
+>
+> **Customer:** My primary focus is setting up a HA infrastucutre.
+>
+> **TAM:** Great! Would you please help me for my understanding what current challenges you are looking to solve for with HA?
+>
+> **Customer:** We want to increase our uptime and scalability.
+>
+> **TAM:** That makes sense, and is a pretty common scenario for our customers. What are your primary concerns related to uptime and scalability right now?
+>
+> **Customer:** We've been adding users to our GitLab instance and have seen some performance problems during times of peak usage, with occasional outages when the system is under heavy load.
+>
+> **TAM:** Ah ok, good to know! What impact is that performance decrease having to your business, and what improvement are you looking to achieve by implementing HA?
+>
+> **Customer:** Improving GitLab's performance and reliability will make our development teams more effective, since they can count on GitLab to work well throughout the day.
+>
+> **TAM:** That sounds like a big productivity benefit! How does developer efficiency relate to your company's larger software development objectives?
+>
+> **Customer:** The CTO has an objective to reduce the time it takes to ship releases so we can get new features to market faster.
+
+By asking additional "why does this matter?" questions after the initial mention of wanting to set up GitLab with HA, the TAM in this scenario was able to get to a business outcome that comes straight from senior leadership. From here, the TAM can ask about metrics, pain points, other tools in their DevOps workflow, and other discovery questions to understand success criteria for the business outcome.
