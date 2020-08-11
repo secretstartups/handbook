@@ -9,19 +9,19 @@ title: "Field Communications"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Welcome to the Field Communications Handbook
+## Welcome to the Field Communications Page
 
 This team is responsible for creating effective, timely, and easily consumable communications with Sales and Customer Success audiences. Our goal is to help the field sell better, faster, and smarter with communication programs that keep them better informed of organizational/business updates that impact their roles, as well as useful resources that will enable day-to-day work. 
 
 For more information about the Field Enablement team, visit the [team handbook page.](/handbook/sales/field-operations/field-enablement/)
 
-## Field Communications Playbook 
-In order to streamline important announcements and reduce noise for the field team, we operate by a set Field Communications Playbook. This playbook defines tier 1, tier 2, and tier 3 organizational announcements/changes and applies a communication roll-out plan to each. The playbook works on a matrix of two main components: 
+## Field Communications Handbook 
+In order to streamline important announcements and reduce noise for the field team, we operate by a set Field Communications Handbook process. This playbook defines tier 1, tier 2, and tier 3 organizational announcements/changes and applies a communication roll-out plan to each. The playbook works on a matrix of two main components: 
 1. **Urgency:** How crucial is it that the field know now? 
 1. **Impact:** How much does it impact the field's ability to sell and support effectively? 
 
 ### How to Use 
-If you have an announcement or update that you'd like to communicate to the field, please review the playbook below. Run through the qualifying questions that will assist you in identifying the tier of your announcement. Once you have identified your announcement tier, review the applicable playbook for your tier and familiarize yourself with the necessary components needed to make an impactful and effective announcement to the field team. We have also included visualizations of this process below. 
+If you have an announcement or update that you'd like to communicate to the field, please review the process below. Run through the qualifying questions that will assist you in identifying the tier of your announcement. Once you have identified your announcement tier, review the applicable process for your tier and familiarize yourself with the necessary components needed to make an impactful and effective announcement to the field team. We have also included visualizations of this process below. 
 
 Once you have identified the tier of your update/announcement and necessary communication components, please open up an issue using [the request process below](/handbook/sales/field-communications/#requesting-field-announcements). 
 
