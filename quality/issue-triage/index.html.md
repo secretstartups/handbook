@@ -44,7 +44,7 @@ The priority label is used for scheduling by Product Managers. If there are mult
 | ~P1 | Urgent | We want to fix this as soon as possible regardless of limit on our team capacity | EM/PM of that product| Current milestone |
 | ~P2 | High | We want to fix this soon and will provide capacity from our team for it in the next release | EM/PM of that product group | Next milestone |
 | ~P3 | Medium | We want to fix this but may have other higher priority items |  EM/PM of that product group | Next 2-3 release/milestones |
-| ~P4 | Low| It will be prioritized but we don't have visibility when this will be fixed |  EM/PM of that product group | Next 4+ milestones |
+| ~P4 | Low| We don't have visibility when this will be fixed |  EM/PM of that product group | Next 4+ milestones |
 
 ## Severity
 
