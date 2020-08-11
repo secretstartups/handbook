@@ -2,13 +2,19 @@
 layout: markdown_page
 title: "Channel Operations"
 ---
-## Welcome to the Channel Operations page
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
 
 
+# Welcome to the Channel Operations page
 
-## Managing Channel Opportunities ##
+## Managing Channel Opportunities
 
-**Policy and Process**
+### Policy and Process
 
 All channel opportunities require a Partner to submit a Deal Registration via the Partner Portal (Impartner). For more details on the partner deal registration process go [here](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview).  
 
@@ -28,7 +34,7 @@ In order to see if a deal registration or opportunity already exists perform the
 
 Once the search is completed, then reach out to the applicable sales rep and discuss the deal registration and whether or not it should be approved based off the following guidance:
 
-**Guidance for Deal Registration Processing** 
+### Guidance for Deal Registration Processing
 
 _Why is this important?_
 
@@ -138,13 +144,11 @@ _Why is this important?_
 </table>
 
 
-**Other Resources:**
+### Other Resources:
+* Deal Registration Lead [Report](https://gitlab.my.salesforce.com/00O4M000004aAXt)
+* Partner Program [Guide](https://about.gitlab.com/handbook/resellers) 
 
-	Deal Registration Lead [Report](https://gitlab.my.salesforce.com/00O4M000004aAXt)
-
-    Partner Program [Guide](https://about.gitlab.com/handbook/resellers) 
-
-**Scenarios for Processing Deal Registration:**
+### Scenarios for Processing Deal Registration:
 
 **(1) Processing a Deal Registration where no other Deal Registration or Opportunity already exists**
 
@@ -179,7 +183,7 @@ _Why is this important?_
     1. It will take you to another screen to confirm, check the box, and hit next
     2. Status of deal registration will now be changed to “Denied” and synched back with the Partner Portal (Impartner)
 
-**SFDC Field Definitions:**
+### SFDC Field Definitions:
 
 *   DR - Partner: Partner that submitted the Deal Registration 
 *   DR - Partner Deal Type
@@ -195,7 +199,7 @@ _Why is this important?_
 *   Platform Partner: Customers Platform that GitLab is being deployed
 *   Influence Partner: Other partners, generally GSI’s or alliances that have helped influence the deal
 
-**Rules of Engagement on Channel Deals**
+### Rules of Engagement on Channel Deals
 
 *   Deal registration approval is based upon order of receipt of the registration, qualification of the opportunity, partner ability to deliver in-country/region support, partner relationship with customer. Final deal registration approval decision will be made by GitLab Sales.
 *   Only one partner can earn a deal registration discount per opportunity. Partners, other than the partner granted the deal registration discount that request a quote, will receive the fulfillment discount rate.
@@ -286,7 +290,7 @@ On a quarterly basis, the Channel team will revisit developing countries to dete
 
 
 
-## **Partner Applicant Approval / Denial - Granting Portal Access**
+## Partner Applicant Approval / Denial - Granting Portal Access
 
 Channel Sales Managers and Alliance Managers are responsible for approving Partner sign ups in SFDC that fall within their region or area of responsibility. Sign ups must be initiated by the Partner from an Impartner application which can be found [here.](https://rv.treehousei.com/en/login.aspx)   If for any reason, a partner account needs to be created in Salesforce directly, requests for account creation can be made to #channel-ops within Slack. 
 
@@ -318,7 +322,7 @@ Visit the [Partner Applicant / Partner Portal FAQ](  https://docs.google.com/doc
 
 
 
-##  Channel Neutral
+## Channel Neutral
 
 To incentivize working with our Channel partners, 'Channel Neutral' means that we will not reduce $ value to individual sellers even if the Channel business reduces total iACV to GitLab (via discounts or rebates).
 More information can be found on the [compensation page](/handbook/sales/commissions/#channel-neutral-compensation).
@@ -330,7 +334,7 @@ More information can be found on the [compensation page](/handbook/sales/commiss
 
 
 
-##Channel Marketing Processes
+## Channel Marketing Processes
 
 Complete process for submitting an MDF proposal request for funds and detailed instructions regarding the approval and claim process can be found in the [Channel Partner Handbook under MDF.](/handbook/resellers/#requesting-market-development-funds---mdf )    
 
