@@ -502,6 +502,10 @@ Unsure what content types align with your asset? Use the table below as a guidel
 | Whitepaper | Whitepapers are data-driven, persuasive, and opinionated reports that address a specific problem for a niche audience. A whitepaper presents new research, addresses a specific problem, and argues in favor of a specific solution.  Whitepapers are academic and authoritative in tone.  Whitepapers are most often introduced in the consideration or decision making stage to prove or validate a concept or solution. |[A seismic shift in application security](/resources/whitepaper-seismic-shift-application-security/) |
 | eBook | An eBook presents educational information that helps the reader gain a comprehensive understanding of a subject. eBooks are casual in tone and are most often an awareness-stage asset.  | [Modernize your CI/CD](/resources/ebook-fuel-growth-cicd/) |
 
+## PathFactory tracking
+
+- [Bizible attribution with PathFactory](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#bizible-attribution-with-pathfactory)
+
 ## PathFactory analytics
 
 All roles and permissions have access to reporting functionality in PathFactory. Feel free to peruse `Path Analytics` or view insights in the content library and content tracks. If you would like a scheduled report or have a different PathFactory data request, create an issue in the Marketing Operations repo and assign `@sdaily`. All of the below links lead to PathFactory's knowledgebase, *The Nook*. The Nook requires a separate password from PathFactory but you should use the same email address used to login to PathFactory.
