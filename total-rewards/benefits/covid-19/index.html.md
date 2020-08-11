@@ -231,6 +231,7 @@ For more information on how to access Sanvello Premium if enrolled in a UHC medi
 ### Ireland
 
 * For general information, you can contact HSELive: 1850 24 1850. If you believe you have COVID-19, it is recommended to call your General Practitioner.
+* Up-to-date information and detailed guidance is available on the [HSE's Coronavirus portal](https://www2.hse.ie/coronavirus/) (also available in [Gaeilge](https://www2.hse.ie/gaeilge/coroinvireas/)).
 
 ### South Africa
 
