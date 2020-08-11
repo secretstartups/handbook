@@ -347,7 +347,7 @@ Craig Gomes	(Engineering Manager, Memory)
 [Product Vision page] https://about.gitlab.com/direction/create/ecosystem/
 [How the team works] https://about.gitlab.com/direction/create/ecosystem/#overview
 **Links to relevant Handbook pages:** 
-[Product categories page](/handbook/product/product-categories/#memory-group)
+[Product categories page](/handbook/product/product-categories/)
 [Memory team page](/handbook/engineering/development/enablement/memory/#team-members)
 [Backend Engineer job family](/job-families/engineering/backend-engineer/)
 [Engineering Workflow](/handbook/engineering/workflow/)
