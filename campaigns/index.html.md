@@ -21,14 +21,6 @@ In an effort to continually improve our ability to derive success of campaigns, 
 
 **Questions? Please feel free to ask in the [#marketing_programs slack channel](https://gitlab.slack.com/messages/CCWUCP4MS) or ask in the [#marketing slack channel](https://gitlab.slack.com/messages/C0AKZRSQ5) and tag @marketing-programs.**
 
-## Integrated Campaigns Calendar
-
-<image>
-<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=Z2l0bGFiLmNvbV82MnA4YWM1ZmVzZ2I2OGczcjFsbnNlZjNtNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23E4C441&amp;showTitle=0&amp;showPrint=0" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-</image>
-
-*As a GitLab team member, you may also add this calendar as a toggle option in your GoogleCalendar by searching the name `Integrated Campaigns` in "other calendars" while in GoogleCal.*
-
 ## In Progress and Future Campaigns
 **[See Epic for FY21 Integrated Camapigns >>](https://gitlab.com/groups/gitlab-com/marketing/-/epics/749)**
 
