@@ -90,7 +90,8 @@ Previously, our compensation calculator and processes (percentage changes from c
 
 Benchmarks are determined based on the following types: Individual Contributor (IC), Manager, Director, Senior Director. The next iteration to our job families is to have the entire career progression and calculator in one place. Please see the following [issue](https://gitlab.com/gitlab-com/people-group/Compensation/issues/79) for more information on the progress. In the [`job_families.yml` file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/job_families.yml) the Total Rewards team will add an entry for each type listed within the job family. For example:
 
-`  ic_ttc:
+```yml
+  ic_ttc:
     compensation: 100000
     percentage_variable: 0
     from_base: true
@@ -106,7 +107,7 @@ Benchmarks are determined based on the following types: Individual Contributor (
     compensation: 220000
     percentage_variable: 0.15
     from_base: true
-`
+```
 
 Note: Where there is no variable component offered (ICs and Managers) GitLab runs the benchmark evaluation off of base salary only. Where there is a variable component offered, GitLab runs the benchmark evaluation off of Total Target Case (TTC).
 
