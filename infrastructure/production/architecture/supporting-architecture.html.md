@@ -52,7 +52,7 @@ It also hosts various tools for managing deployments and useful chatops commands
 
 ### Architecture
 
-The instance runs on a single VM, and is using CloudSql as a database backend, and Memorystore (managed Redis service). The repositories are stored on the dedicated SSD, while artifacts, LFS objects, Container Registry objects and uploads are stored in GCS.
+The instance runs on a single VM, and is using CloudSql as a database backend, and Memorystore (managed Redis service). The repositories are stored on a dedicated SSD, while artifacts, LFS objects, Container Registry objects and uploads are stored in GCS.
 
 <img src="/images/handbook/engineering/infrastructure/supporting-architecture/ops-arch.png">
 
