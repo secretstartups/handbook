@@ -42,7 +42,7 @@ If I can support your career growth, I won't give up until you are successful. I
 ### I'm a total remote ambassador
 I thoroughly enjoy talking to companies (big and small), universities and individuals about remote work and how we work at GitLab. 
 
-My bio on the team page](https://about.gitlab.com/company/team/#Vatalidis) sums up what I do when I'm not working. 
+My bio on the [team page](https://about.gitlab.com/company/team/#Vatalidis) sums up what I do when I'm not working. 
 
 
 If you want to contribute to my read.me, please create an MR and assign it to me (this is a living page and continues to evolve, like all of us).
