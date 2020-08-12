@@ -40,6 +40,9 @@ If you need HDMI connectivity (e.g. to connect a TV, projector or monitor) and a
   * AmazonBasics Premium HDMI Cable - [US](https://www.amazon.com/dp/B07KSD9DZ9/) - Supports 4K@60Hz
   * Rankie DisplayPort Cable - [UK](https://www.amazon.co.uk/gp/product/B00YOP0T7G/)
 
+#### Network Adaptors
+  * TP-Link Powerline Adapter - [US](https://www.amazon.com/TP-LINK-Powerline-Pass-Through-TL-PA9020P-KIT/dp/B01H74VKZU), [UK](https://www.amazon.co.uk/TP-Link-TL-PA8033PKIT-Gigabit-Passthrough-Powerline/dp/B07GFHQXBP) - You'll want to aim for adaptors that can support the max ethernet standard or more of 1000mbps.
+
 ### Notebook carrying bags
   * tomtoc 360° Protective Sleeve - [US](https://www.amazon.com/dp/B01N0TOQEO/)
   * NIDOO 15" - [Germany](https://www.amazon.de/dp/B072LVYC91/)
