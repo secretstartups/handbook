@@ -24,3 +24,29 @@ In order to provide a useful single metric for [product groups](https://about.gi
 _Note_ - For GMAU and SMAU there is a desire for these metrics to be the unique users across the aggregate of associated AMAU's but current limitations in how we receive usage ping data (already aggregated per event) means that is not currently possible. There is work to [create de-duplicated GMAU and SMAU metrics in Usage Ping underway](https://gitlab.com/gitlab-org/telemetry/-/issues/421).
 
 <%= performance_indicators('Product') %>
+
+## Product PI Workflow
+
+Our PI workflow contains several components. 
+
+1. Privacy Policy: Our Privacy Policy outlines what data we can collect.
+1. Collection Framework: Our Collection Framework is our tooling (Usage Ping and Snowplow) for collecting product usage data .
+1. Event Dictionary: Our Event Dictionary is our single source of truth for all the metrics and events we collect in our product.
+1. Instrument Tracking: The Instrument Tracking step includes the instrumentation work done by each product team to put data collection in place.
+1. Data Available: The Data Availability step outlines the timing from releasing data collect code as part of a self-managed release to receiving actual product usage data in the data warehouse.
+1. Data Warehouse: Our Data Warehouse holds all of our product usage data.
+1. Data Model: The Data Modelling step outlines how we transform raw data into a structure suitable for analysis.
+1. Dashboard: The Dashboarding step outlines how Sisense dashboards are built.
+1. Handbook PI Page: Our Handbook PI Page lists all of product's performance indicators including dashboards and descriptions.
+1. Target Defined: The Target Definition step is how we set targets for each performance indicator.
+
+
+
+
+
+
+
+
+
+
+
