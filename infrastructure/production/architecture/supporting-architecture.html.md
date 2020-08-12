@@ -30,7 +30,7 @@ It is also used as an OAuth authentication service which allows users to to sign
 
 ### Architecture
 
-Dev.gitlab.org runs on a single VM, and is using the official Linux package bundled database, redis and other services. The repositories are stored on the dedicated SSD, while artifacts, LFS objects, Container Registry objects and uploads are stored in GCS.
+Dev.gitlab.org runs on a single VM, and is using the official Linux package bundled database, Redis and other services. The repositories are stored on a dedicated SSD, while artifacts, LFS objects, Container Registry objects and uploads are stored in GCS.
 
 Database backups, and repository backups are automatically created using the built-in package backup procedure that runs prior to the package upgrade.
 These backups are automatically uploaded to an AWS S3 bucket configured in the specific [chef role][dev backup] using the official Linux package auto-backup feature.
