@@ -172,7 +172,7 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
 
 #### Kick-off Session
 
-Details about the Kick-off Session are found [here](/handbook/hiring/recruiting-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-sessionn).
+Details about the Kick-off Session are found [here](/handbook/hiring/recruiting-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-session).
 
 #### Publishing the Job
 
