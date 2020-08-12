@@ -1,0 +1,43 @@
+---
+layout: handbook-page-toc
+title: "Features by Group"
+---
+
+      <% if group.categories %>
+        <% group.categories.each do |categoryKey| %>
+          <% category = data.categories[categoryKey] %>
+          <% puts categoryKey unless category%>
+
+## Features by Group
+This page is meant to showcase the features by tier across GitLab's Product Hierarchy.
+
+<% Gitlab::Homepage::Stage.all!.select{|stage| stage.marketing}.each do |stageKey, stage| %>
+  <% if stage.groups %>
+    <% stage.groups.each do |groupKey, group| %>
+      <%= "### #{stage.display_name}:#{group.name}" %>
+      <%= "\n" %>
+      <%= "| Category | Features in Core | Features in Starter | Features in Premium | Features in Ultimate |" %>
+      <%= "|:--------:|:----------------:|:--------------------|:--------------------|:---------------------|" %>
+      <% if group.categories %>
+        <% group.categories.each do |categoryKey| %>
+          <% category = data.categories[categoryKey] %>
+          <% puts categoryKey unless category%>
+          <% ultimateList=[] %>
+          <% premiumList=[] %>
+          <% starterList=[] %>
+          <% coreList=[] %>
+          <% if category.features %>
+            <% category.features.each do |feature| %>
+              <% ultimateList << "[#{feature.title}](#{feature.link})" if feature.gitlab_ultimate && !feature.gitlab_premium %>
+              <% premiumList << "[#{feature.title}](#{feature.link})" if feature.gitlab_premium && !feature.gitlab_starter %>
+              <% starterList << "[#{feature.title}](#{feature.link})" if feature.gitlab_starter && !feature.gitlab_core %>
+              <% coreList << "[#{feature.title}](#{feature.link})" if feature.gitlab_core %>
+            <% end %>
+          <% end %>
+          <%= "| **[#{category.name}](#{category.best_link})** | #{coreList.join(', ')} | #{starterList.join(', ')} | #{premiumList.join(', ')} | #{ultimateList.join(', ')} | " %>
+        <% end %>
+      <% end %>
+    <% end %>
+  <%= "\n" %>
+  <% end %>
+<% end %>
