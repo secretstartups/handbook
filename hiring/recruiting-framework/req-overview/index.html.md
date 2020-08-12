@@ -25,10 +25,10 @@ The communicated Recruiting Process Framework specifically focuses on approved R
 * **[Candidate Experience Specialist (CES)](/handbook/hiring/recruiting-framework/coordinator/):** The CES partners with the Recruiter and Sourcer on all scheduling, background check, references and offer needs. For more information on what role a CES may play, please visit the [CES Job Family](/job-families/people-ops/candidate-experience/).
 
 ### **Step 1: Identify hiring need**
-The Hiring Manager will determine the need for a vacancy and ensure it is listed on the Gitlab Hiring Plan. Once confirmed, the Hiring Manager will notify the [Recruiting Manager/Lead specific to their org](/handbook/hiring/recruiting-alignment/) utilizing the steps provided on the [vacancy creation process](/handbook/hiring/vacancies/#vacancy-creation-process).
+The Hiring Manager will determine the need for a vacancy and ensure it is listed on the Gitlab Hiring Plan. Once confirmed, the Hiring Manager will notify the [Recruiting Manager/Lead specific to their org](/handbook/hiring/recruiting-alignment/) utilizing the steps provided on the [vacancy creation process](/handbook/hiring/recruiting-framework/req-creation/#requisition-creation-process).
 
 ###  **Step 2: Create vacancy in Greenhouse**
-The Recruiting Manager/Lead will create the vacancy in Greenhouse following the [vacancy creation](/handbook/hiring/vacancies/#open-the-vacancy-in-greenhouse) guidelines. The assigned Recruiter, CES, and Sourcer should receive an email notification from Greenhouse when the vacancy is approved. 
+The Recruiting Manager/Lead will create the vacancy in Greenhouse following the [vacancy creation](/handbook/hiring/recruiting-framework/req-creation/#opening-vacancies-in-greenhouse) guidelines. The assigned Recruiter, CES, and Sourcer should receive an email notification from Greenhouse when the vacancy is approved. 
 
 ### **Step 3: Complete kick-off session, agree on priority level, & complete a sourcing session**
 The **kick-off session** provides an opportunity to gain alignment on the requirements, hiring process and, perhaps most importantly, the expectations and responsibilities of the recruiter, sourcer, CES, hiring team, and hiring manager. Recruiters and Sourcers should come prepared for the kick-off session with insights and should act as a talent advisor.
