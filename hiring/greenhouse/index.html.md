@@ -278,7 +278,7 @@ Going forward, all new applicants whose answers in their application questions c
 
 ### Global Self-Identification Survey
 
-Anyone who reaches the `Screening` stage must be sent out the **Global Self-Identification Survey**, including current team members. This should be sent separately, yet at the same time, as the Screening invite, or any other communication. 
+Anyone who reaches the `Screening` stage must be sent out the **Global Self-Identification Survey**, including current team members. This should be sent separately, yet at the same time, as the Screening invite, or any other communication. Keep in mind, if the role is **only** open to current team members, the GSIS does not need to be created or sent to internal candidates.
 
 **To Send Survey**
 
