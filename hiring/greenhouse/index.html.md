@@ -278,7 +278,7 @@ Going forward, all new applicants whose answers in their application questions c
 
 ### Global Self-Identification Survey
 
-Anyone who reaches the `Screening` stage must be sent out the **Global Self-Identification Survey**, including current team members. This should be sent separately, yet at the same time, as the Screening invite, or any other communication. Keep in mind, if the role is **only** open to current team members, the GSIS does not need to be created or sent to internal candidates.
+Anyone who reaches the `Screening` stage must be sent out the **Global Self-Identification Survey**, including current team members. This should be sent separately, yet at the same time, as the Screening invite, or any other communication. Keep in mind, if the role is **only** open to current team members, the GSIS does not need to be created or sent to internal candidates. Ensure the req is labeled accordingly; additional details found [here](https://about.gitlab.com/handbook/hiring/recruiting-framework/req-creation/#publishing-the-job/#9).
 
 **To Send Survey**
 
