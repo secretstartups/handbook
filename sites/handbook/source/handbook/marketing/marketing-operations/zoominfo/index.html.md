@@ -10,9 +10,9 @@ title: "Zoominfo"
 {:toc .hidden-md .hidden-lg}
 
 ### Set Up
-Once you receive your login and enter the Zoominfo platform you will need to download the [Zoominfo ReachOut Chrome extension](https://chrome.google.com/webstore/detail/zoominfo-reachout/fofjcndophjadilglgimelemjkjblgpf). You can also find the link by navigating down to the bottom right of your homepage.
+Once you receive your login and enter the Zoominfo platform you will need to download the [Zoominfo ReachOut Chrome extension](https://chrome.google.com/webstore/detail/zoominfo-reachout/fofjcndophjadilglgimelemjkjblgpf). You can also find the link by navigating down to the bottom right of your homepage. The chrome extension allows for you to easily add prospects while you are within LinkedIn.
 
-Your homepage is customizable to your needs. Saved searches, technology alerts, Scoops, and resources are available on the homepage.
+Your homepage is customizable to your needs. Saved searches, technology alerts, Scoops, and resources are available.
 
 ### Training
 To access Zoominfo training sessions specific for GitLab follow [this link](https://university.zoominfo.com/courses/gitlab-inc-recorded-trainings).
@@ -29,6 +29,7 @@ Each user has 1,000 monthly credits to use for prospecting. A credit is consumed
 **Contacts** - Max number of contacts a user can export to SFDC must match accounts and is set to 100. This is because contacts MUST be associated with accounts in SFDC. When exporting a contact, Zoominfo will check to see if an Account exists within SFDC that matches the company the contact works at. If not, users can create a new account which they will associate the contact to. Enforcing that contact creation is equal to or less than accounts is to make sure there is not a scenario where a contact export fails because they are unable to create the same number of accounts.
 **Leads** - Max number of leads a user can export to SFDC is set at 1,000. This ensures that the user will not max out their monthly allotment in one export.
 **Bulk requests** If a bulk download is needed for a campaign, please open an [issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new) for the marketing operations project. Admins have unlimited credits to be able to export bulk lists or a temporary lift can be made for individual users.
+**Reporting bad leads** - If a lead is found to be incorrect the user can submit a `Suggest Contact Update` and the research team will usually update it within 1-2 business days. When the lead is updated the user can manually append it or re-push the prospect into SFDC without expending a credit (for two months while it's "under management").
 
 ### Field Mappings
 All current field mappings are documented [here](https://docs.google.com/spreadsheets/d/1lZ2BgNER_OYR5jjYDHreCMRbpODQbprUpGKVRD5TMnY/edit#gid=504148174). 
