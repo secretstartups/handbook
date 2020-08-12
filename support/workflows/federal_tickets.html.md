@@ -28,7 +28,7 @@ Only our US Citizen Support Engineers have access to the
 
 ## Communication Guidelines
 
-Issues relating to tickets received in the US Federal Zendesk Instance may be discussed outside of the federal instance provided that customer names, log files, and other confidential or identifiable information are not shared. When in doubt, ask a manager or the customer's TAM if the information is acceptable to be communicated to non-US citizens. 
+Issues relating to tickets received in the US Federal Zendesk Instance may be discussed outside of the federal instance with caveats.  Identifying information that includes system names, organisation names, customer names, specific infrastructure details and logfiles should be limited to internal tickets. Technical problem specifics are fine to discuss in chat or forums. When in doubt, ask a manager or the customer's TAM if the information is acceptable to be communicated to non-US citizens. 
 
 For any assistance with log review or confidential information within a ticket please CC other engineers with access to the federal instance within Zendesk using an internal comment.
 

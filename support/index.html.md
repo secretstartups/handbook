@@ -186,8 +186,10 @@ GitLab.com.
 | [@gitlab-com/support/amer](https://gitlab.com/gitlab-com/support/amer)         | AMER Support             |
 | [@gitlab-com/support/apac](https://gitlab.com/gitlab-com/support/apac)         | APAC Support             |
 | [@gitlab-com/support/emea](https://gitlab.com/gitlab-com/support/emea)         | EMEA Support             |
-| [@gitlab-com/support/dotcom](https://gitlab.com/gitlab-com/support/dotcom)     | GitLab.com Support members |
-| [@gitlab-com/support/dotcom/console](https://gitlab.com/gitlab-com/support/dotcom/console) | Support members with console access |
+| [@gitlab-com/support/dotcom](https://gitlab.com/gitlab-com/support/dotcom)     | Support members with GitLab.com admin access |
+| [@gitlab-com/support/dotcom/console](https://gitlab.com/gitlab-com/support/dotcom/console) | Support members with GitLab.com console access |
+| [@gitlab-com/support/customers-console](https://gitlab.com/gitlab-com/support/customers-console) | Support members with Customers Portal console access |
+| [@gitlab-com/support/licensing-subscription](https://gitlab.com/gitlab-com/support/licensing-subscription) | Support members focused on License and Renewals |
 | [@gitlab-com/support/managers](https://gitlab.com/gitlab-com/support/managers) | All support managers     |
 
 #### Projects
@@ -246,8 +248,8 @@ issue trackers or customer tickets.
 
 | Group                    | Who                       |
 |--------------------------|---------------------------|
-| `@support-dotcom`        | GitLab.com Support Team   |
-| `@support-selfmanaged`   | Self-managed Support Team |
+| `@support-dotcom`        | Support Team Members with GitLab.com Admin Access  |
+| `@support-selfmanaged`   | Support Team focused on Self-Managed tickets |
 | `@support-team-apac`     | Support Team APAC         |
 | `@support-team-emea`     | Support Team EMEA         |
 | `@support-team-americas` | Support Team AMER         |
@@ -336,7 +338,7 @@ You can read about how we got this started
 [in this issue](https://gitlab.com/gitlab-com/support/support-team-meta/issues/1394).
 
 ### Support Stable Counterparts
-As a result of our direct interactions with customers, the Support Team occupies a unique position in GitLab that gives us the opportunity to connect product managers with customer feedback. To take advantage of this opportunity, we've adopted a model that is known within GitLab as "Stable Counterparts." In brief, a "stable counterpart" is an assigned, permanent contact for a GitLab Team Member within another function in the company. See the [Stable counterparts](https://about.gitlab.com/handbook/leadership/#stable-counterparts) item on the Leadership page, and [An ode to stable counterparts](https://about.gitlab.com/blog/2018/10/16/an-ode-to-stable-counterparts/) for more information.
+As a result of our direct interactions with customers, the Support Team occupies a unique position in GitLab that gives us the opportunity to connect product managers with customer feedback. To take advantage of this opportunity, we've adopted a model that is known within GitLab as "Stable Counterparts." In brief, a "stable counterpart" is an assigned, permanent contact for a GitLab Team Member within another function in the company. See the [Stable counterparts](/handbook/leadership/#stable-counterparts) item on the Leadership page, and [An ode to stable counterparts](https://about.gitlab.com/blog/2018/10/16/an-ode-to-stable-counterparts/) for more information.
 
 How do we align Support Team people to the product?
 - Development of the product is broken down into [sections, stages and groups; that page](/handbook/product/product-categories/#devops-stages) is the single source of truth about who is performing this role, and what vacancies there are.
@@ -464,7 +466,7 @@ In addition to the tips in [Communicating Your Time Off](/handbook/paid-time-off
 - reschedule any 1:1 meetings with your manager
 - add an agenda item during the team meeting before your time off
 - add an agenda item after you get back to let us know what you've been up to!
-- either specify your manager as the person who covers for you, or leave a note to ping `#support_managers` per [our escalation procedure](https://about.gitlab.com/handbook/support/internal-support/#i-want-to-draw-attention-to-an-existing-support-ticket)
+- either specify your manager as the person who covers for you, or leave a note to ping `#support_managers` per [our escalation procedure](/handbook/support/internal-support/#i-want-to-draw-attention-to-an-existing-support-ticket)
 
 If you do not have access to the [**Support - Time Off**](https://calendar.google.com/calendar/embed?src=gitlab.com_as6a088eo3mrvbo57n5kddmgdg%40group.calendar.google.com) team calendar, please raise it in the `#support_team_chat` channel on Slack and someone will share it with you.
 
@@ -489,19 +491,9 @@ If you need to go for a run, grab a coffee or take a brain break please do so wi
 *See the [Support Onboarding page](/handbook/support/training)*
 
 ### What if I Feel Threatened or Harassed While Handling a Support Request?
-Just as Support Team are expected to adhere to the Code of Conduct, we also expect customers to treat the Support Team
-with the same level of respect.
+Just as Support Team are expected to adhere to GitLab's [Code of Conduct](/handbook/people-group/code-of-conduct), we also expect customers to treat the Support Team with the same level of respect. The [GitLab Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/) outlines the standards to which we hold the wider GitLab Community.
 
-If you receive threatening or hostile emails from a user, please create a confidential issue in the GitLab Support Issue Tracker
-and include:
-
-1. A history of the user's communication
-1. Relevant links
-1. Summary of the high-level issues
-1. Any other supporting information
-
-Include your Manager, Director of Support, Abuse Team and Chief People Officer in this issue. Together we will evaluate on a
-case-by-case basis whether to take action (e.g. ban the user from the forums for violating the [Code of Conduct](/handbook/people-group/code-of-conduct)).
+If you notice a threatening or hostile ticket, please tag the [Manager On-Call](/handbook/support/on-call/#manager-on-call) to respond with the following guidelines in our [Statement of Support](/support/#please-dont-use-language-intended-to-threaten-or-harass).
 
 ### Improving our processes - 'Active Now' issue board
 The Support team use ['support-team-meta' project issues](https://gitlab.com/gitlab-com/support/support-team-meta/issues/) to track ideas and initiatives to improve our processes. The ['Active Now' issue board](https://gitlab.com/gitlab-com/support/support-team-meta/-/boards/580661) shows what we're currently working on. It uses three labels:

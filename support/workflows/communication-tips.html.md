@@ -14,7 +14,7 @@ category: References
 
 This page is intended to provide general communication tips for GitLab Support
 Department. Anything related to communication useful for this department is
-welcome here. It is meant to be the extension of [GitLab Communication handbook page](https://about.gitlab.com/handbook/communication/).
+welcome here. It is meant to be the extension of [GitLab Communication handbook page](/handbook/communication/).
 
 *Examples:*
  1. *How can Support Engineer efficiently talk to other Support Engineers via Slack, Zoom or e-mail?*
@@ -24,10 +24,10 @@ welcome here. It is meant to be the extension of [GitLab Communication handbook 
 
 ##### Slack reactions
 
-In addition to `:white_check_mark:` emoji that is mentioned in [General Guidelines for Communication at GitLab](https://about.gitlab.com/handbook/communication/#general-guidelines), consider utilizing the following emojis within Support Slack channels as well:
+In addition to `:white_check_mark:` emoji that is mentioned in [General Guidelines for Communication at GitLab](/handbook/communication/#general-guidelines), consider utilizing the following emojis within Support Slack channels as well:
 
 1. `:idontknow:` - when another Support Engineer is asking a question which you don't know the answer to
-1. `:red_circle:` - when another Support Engineer is asking for others to take a look at something or similar, but you are unable to do that within reasonable time (Example is when another engineer is asking for someone to replace them for their on-call shift, but you are unavailable at the time they asked for. Another example is when [SLAH](https://about.gitlab.com/handbook/support/workflows/meeting-service-level-objectives.html#what-is-the-sla-hawk-role) is asking whether someone can respond to ticket breaching in one hour, but you have no bandwidth to do that within the SLA.)
+1. `:red_circle:` - when another Support Engineer is asking for others to take a look at something or similar, but you are unable to do that within reasonable time (Example is when another engineer is asking for someone to replace them for their on-call shift, but you are unavailable at the time they asked for. Another example is when [SLAH](/handbook/support/workflows/meeting-service-level-objectives.html#what-is-the-sla-hawk-role) is asking whether someone can respond to ticket breaching in one hour, but you have no bandwidth to do that within the SLA.)
 1. `:escalaton:` - when a member of another department requests that an existing Zendesk ticket or issue in `internal-requests` be escalated or looked into in either the #support_gitlab-com or #support_self-managed channels. This will redirect them to post in #support_managers instead.
 1. `:leftwards_arrow_with_hook:` - when a member of another department posts a general question about GitLab or GitLab.com in the #support_gitlab-com channel. This will redirect them to post in #questions or #is-this-known instead.
 

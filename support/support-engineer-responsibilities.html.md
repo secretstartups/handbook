@@ -72,7 +72,7 @@ Our [Support Service Levels](https://about.gitlab.com/support/#gitlab-support-se
 
 ## 3. Join customer calls (Weekly)
 
-See [Customer Calls](https://about.gitlab.com/handbook/support/workflows/customer_calls.html) for our practices and workflows.
+See [Customer Calls](/handbook/support/workflows/customer_calls.html) for our practices and workflows.
 
 Joining [customer calls](https://about.gitlab.com/support/#phone-support) can be an effective way to speed up ticket resolution. You can choose to schedule a customer call when you believe it's the best next step to help solve a ticket.
 
@@ -80,14 +80,14 @@ Joining [customer calls](https://about.gitlab.com/support/#phone-support) can be
 
 We don't currently have a way to make all your contributions to customer calls visible. We're planning to investigate how to do this so you can gauge your contribution and get credit for this valuable work.
 
-The [call summary](https://about.gitlab.com/handbook/support/workflows/customer_calls.html#call-summary) notes you complete as part of the Customer Calls process mean that your work is documented in Zendesk. Highlight any Customer Calls in your 1:1 Meeting Notes with your manager.
+The [call summary](/handbook/support/workflows/customer_calls.html#call-summary) notes you complete as part of the Customer Calls process mean that your work is documented in Zendesk. Highlight any Customer Calls in your 1:1 Meeting Notes with your manager.
 
 ## 4. Participate in on-call rotations to coordinate and resolve emergencies (Occasionally)
 
 The following on-call rotations are staffed by Support Engineers:
 
-1. [Self-managed customer emergency on-call](https://about.gitlab.com/handbook/support/on-call/)
-2. [GitLab.com Communications Manager on Call (CMOC)](https://about.gitlab.com/handbook/support/workflows/cmoc_workflows.html)
+1. [Self-managed customer emergency on-call](/handbook/support/on-call/)
+2. [GitLab.com Communications Manager on Call (CMOC)](/handbook/support/workflows/cmoc_workflows.html)
 
 All Support Engineers participate in one of these rotations - not both, unless you absolutely love being on-call!
 
@@ -128,7 +128,7 @@ Reducing future customer problems is an important part of being a Support Engine
 
 You are encouraged to [update documentation](/handbook/support/workflows/improving-documentation.html) regularly. This helps prevent ticket creation by improving the information available for customers to use in solving problems without contacting us.
 
-[Creating blog posts](https://about.gitlab.com/handbook/marketing/blog/unfiltered/) and other publicly available knowledge that is accessible by search engines is valuable to help prevent ticket creation.
+[Creating blog posts](/handbook/marketing/blog/unfiltered/) and other publicly available knowledge that is accessible by search engines is valuable to help prevent ticket creation.
 
 We [summarize Support team contributions](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues?label_name%5B%5D=support-fix) every week using a bot.
 
@@ -161,8 +161,8 @@ There's no goal for this area. You can see how you're doing by using the 'Handbo
 ## 10. Keep up-to-date on GitLab, and Support
 
 1. Since we ship a **new release each month on the 22nd**, and as we manage to fit a lot of great new features and fixes into each release, it is sometimes difficult for the Support Team to keep up to date with key changes. In general, it is the responsibility of each Support Team member individually to read the release blog post, dig deeper where you need to or want to, and keep yourself up to date with new GitLab versions. To facilitate this further, there is a Retrospective every month (it is listed on the GitLab Team Meetings calendar) that you can join.
-1. We have severel [Support Weekly Meetings](https://about.gitlab.com/handbook/support/#weekly-meetings) that you are encouraged to attend or watch the recording of.
-1. We encourage you to contribute to, and read the [Support Week in Review](https://about.gitlab.com/handbook/support/#support-week-in-review) document every week. This will help you stay up to date on all recent changes and announcements.
+1. We have severel [Support Weekly Meetings](/handbook/support/#weekly-meetings) that you are encouraged to attend or watch the recording of.
+1. We encourage you to contribute to, and read the [Support Week in Review](/handbook/support/#support-week-in-review) document every week. This will help you stay up to date on all recent changes and announcements.
 
 **What does success look like?**
 

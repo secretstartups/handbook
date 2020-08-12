@@ -24,7 +24,7 @@ Knowing *where* to search in Kibana is paramount to getting the proper results. 
 
 ![Changing search index](/images/support/kibana_index-selection.jpg)
 
-For example, if you're trying to track down failed logins you would search the index `pubsub-application-inf-gprd*`. To search for [`500` errors](https://about.gitlab.com/handbook/support/workflows/500_errors.html) involving a controller you'd search in `pubsub-rails-inf-gprd-*`, the default index.
+For example, if you're trying to track down failed logins you would search the index `pubsub-application-inf-gprd*`. To search for [`500` errors](/handbook/support/workflows/500_errors.html) involving a controller you'd search in `pubsub-rails-inf-gprd-*`, the default index.
 
 Along with the index, knowing *when* a specific error or event ocurred that you're trying to track down  is important and it's important to keep in mind that Kibana logs on GitLab.com persist for seven days. Kibana allows you to choose relative and absolute time ranges for search results and this can be changed by manipulating the date range:
 
@@ -146,4 +146,4 @@ It's recommended to apply a **Negative Filter** to the `gitlab_error.log` and `g
 
 Not sure what to look for? Consider using a Self-Managed instance to replicate the bug/action you're investigating. This will allow you to confirm whether or not an issue is specific to GitLab.com, while also providing easily accessible logs to reference while searching through Kibana. 
 
-Support Engineers looking to configure a Self-Managed instance should review our [resources for development](https://about.gitlab.com/handbook/engineering/#resources) for a list of available (company provided) hosting options. 
+Support Engineers looking to configure a Self-Managed instance should review our [resources for development](/handbook/engineering/#resources) for a list of available (company provided) hosting options. 

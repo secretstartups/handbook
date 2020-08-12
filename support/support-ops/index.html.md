@@ -11,7 +11,7 @@ our Zendesk instance, and integrations with internal business processes and
 tools. The Support Operations Team is exclusively responsible for handling
 Zendesk Support and Explore related queries. Further details and
 responsibilities are explained
-[here](https://about.gitlab.com/handbook/support/support-ops/).
+[here](/handbook/support/support-ops/).
 
 ## Mission:
  
@@ -70,7 +70,7 @@ The Support Operations Team usually make the critical changes usually in weekend
 and communicate them via Slack channel #support_team-chat
 ([https://gitlab.slack.com/archives/CCBJYEWAW](https://gitlab.slack.com/archives/CCBJYEWAW))
 and SWIR
-([https://about.gitlab.com/handbook/support/#support-week-in-review](https://about.gitlab.com/handbook/support/#support-week-in-review)).
+([/handbook/support/#support-week-in-review](/handbook/support/#support-week-in-review)).
 We are working on standardizing the release schedule of changes and a single
 communication channel where the questions and issues can be discussed.
 

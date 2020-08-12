@@ -38,13 +38,12 @@ The above process is only applicable for members who are not part of the Support
 
 ### Setting up a shared organization for end-users
 
-In Zendesk, we have the option of allowing all of the members of an organization to have a 'shared organization', where everyone can see each other's tickets. This doesn't mean all members of the organization will be CC'd in all tickets, it means that they can see all tickets linked to their organization when they login to the [GitLab Support Help Center](https://support.gitlab.com).
+In Zendesk, we have the option of allowing all of the members of an organization to have a 'shared organization', where everyone can see each other's tickets. This doesn't mean all members of the organization will be CC'd in all tickets, it means that they can see all tickets linked to their organization when they login to the [GitLab Support Help Center](https://support.gitlab.com).  
 
-You can also grant this privilege to selected people (ie. managers/administrators), so that only they can see all tickets linked to their organization. If you do wish to make this change, you should submit an issue to [Support Ops](https://gitlab.com/groups/gitlab-com/support/support-ops/-/issues) documenting the ticket where the request for the change was made. After doing so, you may make the change (if you are comfortable with doing so) and then close out the issue.
+Support ops are responsible for managing changes to shared organizations.  The workflow is described in [Support ops responsibilities](/handbook/support/support-ops/responsibilities.html#shared-organizations-in-zendesk).
 
-Both these options need to be toggled on for each organization on a case-by-case basis.
+If you want to know whether an organization has this feature toggled on, you can go to the Organization Zendesk Page and find the 'Users' section on the left hand panel. It should say whether the organization has **Can view all org tickets** or **Can view own tickets only**. You can read more about setting up a shared organization in the [Creating, managing, and using organizations](https://support.zendesk.com/hc/en-us/articles/203661976-Creating-managing-and-using-organizations#ariaid-title5) Zendesk page, and read the [process](/handbook/support/support-ops/processes/zendesk.html#shared-organization-process) Support ops use for managing shared organizations.
 
-If you want to know whether an organization has this feature toggled on, you can go to the Organization Zendesk Page and find the 'Users' section on the left hand panel. It should say whether the organization has **Can view all org tickets** or **Can view own tickets only**. You can read more about setting up a shared organization in the [Creating, managing, and using organizations](https://support.zendesk.com/hc/en-us/articles/203661976-Creating-managing-and-using-organizations#ariaid-title5) Zendesk page.
 
 
 ## Business Rules and Macros

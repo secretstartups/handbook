@@ -84,7 +84,7 @@ Your role is to make sure someone is available to respond to emergencies during 
 
 If you prefer to work with someone as a secondary, discuss with team members or your manager and find partners who like sharing the role. You can then work together during the week and update PagerDuty as you wish (e.g. split days into mornings and evenings, take alternate days, work as a primary and secondary etc). Your manager can play an active role in helping pair people who want to work like this.
 
-Additionally, block your calendar for the week you are on-call. This is needed as it is possible that you will get [customer call](https://about.gitlab.com/handbook/support/workflows/customer_calls.html) scheduled for the same week you're on-call and that can lead to the situation where you are in the call with one customer and different customer creates emergency ticket at the same time.
+Additionally, block your calendar for the week you are on-call. This is needed as it is possible that you will get [customer call](/handbook/support/workflows/customer_calls.html) scheduled for the same week you're on-call and that can lead to the situation where you are in the call with one customer and different customer creates emergency ticket at the same time.
 
 #### Swapping On-Call Duty
 

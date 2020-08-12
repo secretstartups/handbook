@@ -72,7 +72,7 @@ Kibana is not typically used to locate `5XX` errors, but there are times where t
 
 It's recommended to apply a **Negative Filter** to the `gitlab_error.log` and `gitlab_access.log` log files. These two generate a large amount of noise and may not be relevant to your search.
 
-For more detailed information on searching with Kibana see the [Using Kibana](https://about.gitlab.com/handbook/support/workflows/kibana.html) workflow.
+For more detailed information on searching with Kibana see the [Using Kibana](/handbook/support/workflows/kibana.html) workflow.
 
 #### Searching Sentry
 
