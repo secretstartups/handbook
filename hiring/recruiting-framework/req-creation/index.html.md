@@ -25,7 +25,7 @@ The Hiring Manager carries the responsibility to ensure that vacancies in Greenh
 
 ### Create or Review the Job Family
 
-Once the vacancy is approved, the Hiring Manager will review the position description in the `/job-families` folder and update it, if needed, by making a merge request and assigning it to the Executive to review and merge. If there is no existing job family, follow the steps to [create a new job family](/handbook/hiring/job-families/#new-job-family-creation), then continue. Please note that new job families require approval from the CEO. The Recruiting Manager will use the relevant elements from this job family to open the vacancy in Greenhouse. The job family should include:
+Once the vacancy is approved, the Hiring Manager will review the position description in the `/job-families` folder and update it, if needed, by making a merge request and assigning it to the Executive to review and merge. If there is no existing job family, follow the steps to [create a new job family](/handbook/hiring/job-families/#new-job-family-creation-or-additional-levelrole-within-a-current-job-family), then continue. Please note that new job families require approval from the CEO. The Recruiting Manager will use the relevant elements from this job family to open the vacancy in Greenhouse. The job family should include:
 
   - Responsibilities
   - Specialties (e.g. Gitaly, Backend)
