@@ -17,7 +17,7 @@ title: "Recruiting Process - Hiring Manager Tasks"
 1. Determine the purpose of this role
 1. Is it a new or existing role?
 1. Create or adjust a job description that outlines the positions main responsibilities and basic qualifications
-1. See the [vacancy creation process](/handbook/hiring/vacancies/#vacancy-creation-process) in the handbook.
+1. See the [vacancy creation process](/handbook/hiring/recruiting-framework/req-creation/#requisition-creation-process) in the handbook.
 
 ### Step 12/HM: Complete feedback in Greenhouse/next steps
 
