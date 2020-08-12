@@ -354,7 +354,7 @@ GitLab is working in partnership with [Global Upside](https://globalupside.com) 
 
 ## Employment Agreements for GitLab team-members in China
 
-GitLab is working in partnership with [CIIC](http://www.ciicsh.com/en/) to employ GitLab team-members located in China. Signed agreements between GitLab and CIIC are required to employ any new hire. Therefore, there will be a lead time of approximately three weeks prior to starting. As soon as it becomes clear that an offer to a candidate is going to be made, People Ops will reach out to CIIC to begin the process. The process for preparing the agreements between all parties is as follows:
+GitLab is working in partnership with [CIIC](http://www.ciicsh.com/ciicsh/ywsy/index.html) to employ GitLab team-members located in China. Signed agreements between GitLab and CIIC are required to employ any new hire. Therefore, there will be a lead time of approximately three weeks prior to starting. As soon as it becomes clear that an offer to a candidate is going to be made, People Ops will reach out to CIIC to begin the process. The process for preparing the agreements between all parties is as follows:
 
 **GitLab and New Hire:**
 
