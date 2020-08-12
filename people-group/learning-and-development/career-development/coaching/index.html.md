@@ -237,10 +237,10 @@ Building trust is an important ingredient in coaching and team dynamics. Trust l
 
 The trust equation uses four objective variables to measure trustworthiness: 
 
-1. Credibility: My word is believable
-2. Reliability: I do what I say I will do
-3. Intimacy: I empathize with others
-4. Self-Orientation: My focus is on my team, not personal gain
+1. Credibility: My word is believable. Put simply, credibility rates "what you say and how believable you are to others." In other words, you must be credible if you are asking others to follow your lead. 
+2. Reliability: I do what I say I will do. Reliability measures "actions, and how dependable you appear." Can you be counted on? People need to know that their leaders will come through for them. 
+3. Intimacy: I empathize with others. Intimacy considers 'how safe people sharing information with you." Leaders tend to keep their emotional distance from their followers, but when you are presented with confidential information, you need to keep it so. 
+4. Self-Orientation: My focus is on my team, not personal gain. Self-orientation is a personal focus on yourself or others. Too much self focus will lower your degree of trustworthiness. 
 
 The trust equation has one variable in the denominator (self-orientation) and three in the numerator (credibility, reliability, intimacy). Increasing the value of the factors in the numerator increases the value of trust. Increasing the denominator (self-orientation) decreases the value of trust. 
 
