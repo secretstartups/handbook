@@ -354,8 +354,9 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Europe East    | Eastern Europe | **SMB-EMEA-Eastern Europe**  | Arina Voytenko                     | EMEA Commercial - SMB^ |
 | Europe South   | Europe South   | **SMB-EMEA-France**          | Tim Guibert                   | EMEA Commercial - SMB^ |
 | Europe South   | Europe South   | **SMB-EMEA-Southern Europe** | Ross Mawhinney                   | EMEA Commercial - SMB^ |
-| MEA            | MEA            | **SMB-EMEA-MEA**             | Vilius Kavaliauskas              | EMEA Commercial - SMB^ |
-| Nordics        | Nordics        | **SMB-EMEA-Nordics**         | Arina Voytenko                     | EMEA Commercial - SMB^ |
+| MEA            | MEA            | **SMB-EMEA-MEA**             | Daisy Miclat             | EMEA Commercial - SMB^ |
+| Nordics        | Nordics        | **SMB-EMEA-Nordics-East**    | Tim Guibert                     | EMEA Commercial - SMB^ |
+| Nordics        | Nordics        | **SMB-EMEA-Nordics-West**    | Daisy Miclat                     | EMEA Commercial - SMB^ |
 | UKI            | UKI            | **SMB-EMEA-UKI**             | Ross Mawhinney                     | EMEA Commercial - SMB^ |
 
 ^ `SDR` = `EMEA Commercial - SMB`: Round robin group consisting of Wiam Aissaoui, Alexander Demblin, Dorde Sumenkovic and Daniel Phelan
