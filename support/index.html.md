@@ -186,8 +186,10 @@ GitLab.com.
 | [@gitlab-com/support/amer](https://gitlab.com/gitlab-com/support/amer)         | AMER Support             |
 | [@gitlab-com/support/apac](https://gitlab.com/gitlab-com/support/apac)         | APAC Support             |
 | [@gitlab-com/support/emea](https://gitlab.com/gitlab-com/support/emea)         | EMEA Support             |
-| [@gitlab-com/support/dotcom](https://gitlab.com/gitlab-com/support/dotcom)     | GitLab.com Support members |
-| [@gitlab-com/support/dotcom/console](https://gitlab.com/gitlab-com/support/dotcom/console) | Support members with console access |
+| [@gitlab-com/support/dotcom](https://gitlab.com/gitlab-com/support/dotcom)     | Support members with GitLab.com admin access |
+| [@gitlab-com/support/dotcom/console](https://gitlab.com/gitlab-com/support/dotcom/console) | Support members with GitLab.com console access |
+| [@gitlab-com/support/customers-console](https://gitlab.com/gitlab-com/support/customers-console) | Support members with Customers Portal console access |
+| [@gitlab-com/support/licensing-subscription](https://gitlab.com/gitlab-com/support/licensing-subscription) | Support members focused on License and Renewals |
 | [@gitlab-com/support/managers](https://gitlab.com/gitlab-com/support/managers) | All support managers     |
 
 #### Projects
@@ -246,8 +248,8 @@ issue trackers or customer tickets.
 
 | Group                    | Who                       |
 |--------------------------|---------------------------|
-| `@support-dotcom`        | GitLab.com Support Team   |
-| `@support-selfmanaged`   | Self-managed Support Team |
+| `@support-dotcom`        | Support Team Members with GitLab.com Admin Access  |
+| `@support-selfmanaged`   | Support Team focused on Self-Managed tickets |
 | `@support-team-apac`     | Support Team APAC         |
 | `@support-team-emea`     | Support Team EMEA         |
 | `@support-team-americas` | Support Team AMER         |
