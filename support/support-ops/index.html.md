@@ -39,7 +39,7 @@ The core responsibilities of the Support Ops team are:
   * [Salesforce - Zendesk sync](responsibilities.html#salesforce-zendesk-sync)
   * [SFDC<>US Federal Zendesk sync](responsibilities.html#sfdcus-federal-zendesk-sync)
 * [Customer Satisfaction Survey (CSAT)](responsibilities.html#customer-satisfaction-survey-csat)
-* Calendly
+* [Calendly](responsibilities.html#calendly)
 * [PagerDuty](responsibilities.html#pagerduty)
 * [Slack Notifications](responsibilities.html#slack-notifications)
 

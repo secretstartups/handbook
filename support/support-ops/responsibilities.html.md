@@ -146,6 +146,16 @@ issue via the
 ## Other tools
 {: #other-tools}
 
+### Calendly
+
+[Calednly](https://calendly.com/) is how we managed our meetings with
+customers (as well as one another). Support-ops manages the team
+calendly, used for scheduling meetings with our customers to work
+further on tickets. 
+
+Issues for GitLab Support Calendly related matters should be created via the
+[Calendly project](https://gitlab.com/gitlab-com/support/support-ops/calendly).
+
 ### PagerDuty
 PagerDuty is how we dispatch emergencies and handle scheduling for different roles.
 
