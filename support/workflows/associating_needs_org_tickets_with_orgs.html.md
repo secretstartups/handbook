@@ -180,13 +180,13 @@ associated with the organizations. The current process for this is as follows:
       * You can also ask the user to provide a screenshot of the `/admin/license` endpoint from their instance or to tell you the e-mail to which the license their organisation is using is associated to. To do this quickly, you can use the macro called **Self-Managed::Locating GitLab subscription**. 
    1. Reach out to the TAM (Technical Account Manager) or Account Owner (sometimes referred to as AM / Account Manager) to confirm they should be added.  Do this in the `#account-management` slack channel and mention the TAM or AM if they are known.
          1. Ask the TAM / Account Owner to add the user under the contacts for that Salesforce Account. (You can find the TAM / Account Owner name in Zendesk on the Organization's screen - this is synced from SalesForce.)
+         1. Once the user is added as a contact in Salesforce, you may safely associate the user to the organization.
    1. If the organization does not have a Technical Account Manager or Account Owner and we can't verify them via another method, then we need to ask the subscription owner if the user is eligible for support.
          1. Identify the subscription owner (customer) by looking at the existing contacts for the Salesforce account
          1. Create a new ticket in Zendesk to the subscription owner, advising them that an unknown user is requesting support via their subscription and that we require their consent before we can help them. If possible, avoid disclosing the email address of the unknown user to the subscription owner and use name and GitLab.com handles to relay identification.
          1. Link that verification ticket back to the original ticket request via an internal comment in both tickets so others can keep track of it
-         1. Once the subscription owner confirms that the unknown user is authorized for support under their subscription, you can then ask for the unknown user to be associated with the organization in Salesforce via the [#account-management](https://gitlab.slack.com/archives/C44SXGG8M) Slack channel.
-1. Once the user is added as a contact in Salesforce, you may safely associate
-   the user to the organization.
+         1. Once the subscription owner confirms that the unknown user is authorized for support under their subscription, you can then ask for the unknown user to be associated with the organization in Salesforce via the `#account-management` Slack channel.
+1. Once the user is added as a contact in Salesforce, you may safely associate the user to the organization.
 
 **Note**: While you are working with the TAM/AM to get the user added as a
 Salesforce contact, please let the customer know you are reaching out to their
