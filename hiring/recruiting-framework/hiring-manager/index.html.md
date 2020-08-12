@@ -45,7 +45,7 @@ As a best practice the Hiring Manger should reach out to each individual on the 
 >
 > **Please** complete your interview notes in Greenhouse within 1 business day of your interview. If you have any trouble please contact your recruiter or CES.
 >
-> Additionally, your referrals are important to us! If you have any referrals for this role (or other roles that are currently posted at GitLab) please submit them following the [guidelines in the handbook](/handbook/hiring/greenhouse/#making-a-referral).
+> Additionally, your referrals are important to us! If you have any referrals for this role (or other roles that are currently posted at GitLab) please submit them following the [guidelines in the handbook](/handbook/hiring/referral-process/#submitting-a-referral).
 
 **Interview Resource**
 
