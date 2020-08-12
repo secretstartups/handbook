@@ -259,10 +259,8 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
   Candidate Surveys
   </summary>
 
-* **System**: Greenhouse
-* **Filters**:
-    * Submitted Between = Custom Range (Enter Desired Month)
-* **Instructions**: Pull and export the report into the *Greenhouse ISAT* sheet.
+* **System**: Sisense
+* **Dashboard**: [ISAT Dashboard](https://app.periscopedata.com/app/gitlab/527901/ISAT-Dashboard)
 
 </details>
 
