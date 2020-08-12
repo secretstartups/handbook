@@ -31,6 +31,30 @@ Since the PI is a single metric, we've decided to combine those two metrics into
 <embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 9033558, dashboard: 636549, embed: 'v2') %>">
 
 
+
+We expect to track the journey of users through the following funnel:
+
+classDiagram
+  Acquistion --|> Activation
+	Acquistion : Are users aware of the product or feature set?    
+	Acquistion: Measurement (Total Count of metrics and log Views) 
+  Activation --|> Retention
+	Activation : Are users applying the feature?
+	Activation: Measurement (Count of Projects with active Prometheus) 				
+  Retention --|> Revenue
+	Retention : Are users applying the feature over time?
+	Retention: Measurement (Count of projects where custom dashboards are been created) 
+  Revenue --|> Referral
+	Revenue : Are users paying for the features?
+	Revenue: Measurement (Total count of projects with multiple Prometheus) 
+  Referral --|> Acquistion
+	Referral : Are users encouraging others to use the feature?
+	Referral: Measurement (TBD)
+
+
+
+
+
 ## Communication
 
 - Slack channel: [#g_monitor_apm](https://gitlab.slack.com/archives/g_monitor_apm)
