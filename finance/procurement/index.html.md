@@ -226,6 +226,14 @@ These issues aren't created in the same location as access requests for employee
 
 Create an [orientation issue](https://gitlab.com/gitlab-com/contingent-workers/lifecycle/-/issues/new?issuable_template=orientation-issue) if the professional services provider wants support through the set up of the most common tools used at GitLab. Assign to yourself and the professional services provider if they have a GitLab account with the required access.
 
+All responsibilities related to onboarding and requesting access to systems falls on the vendor manager. This includes: 
+
+* Creating the orientation and access request issues if required. Not all temporary service providers need access to systems or need to have an orientation issue created for them.
+* Sending those issues to the temporary service provider to complete/be aware of (if needed/if they have access to gitlab-com to see the issues) 
+* Reach out to relevant teams/people in case the temporary service provider experiences issues or is blocked while they go through their orientation issue
+
+The manager is also responsible for creating an [offboarding issue](https://gitlab.com/gitlab-com/contingent-workers/lifecycle/-/issues/new?issuable_template=offboarding) when the temporary service provider's contract ends, which should include all systems the person was granted access to during their contracting period.
+
 >### Payment
 1. Vendors will be required to create an account within Tipalti in order to receive payment
 1. For complete details on how to obtain payment, please visit Accounting's [Procure to Pay](/handbook/finance/accounting/#procure-to-pay) page.
