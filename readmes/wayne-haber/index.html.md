@@ -40,7 +40,7 @@ At work, nothing makes me happier than when:
   * [The five dysfunctions of a team](https://www.amazon.com/gp/product/B006960LQW)
   * [The Phoenix Project](https://www.amazon.com/gp/product/B0030V0PEW)
   * [Start with Why](https://www.amazon.com/gp/product/B002Q6XUE4)
-* I am most productive in the morning.
+* I am in Atlanta, GA, USA (Eastern US).  I am most productive in the morning.
 * When reaching out to me my preferences are (in order of preference):
   * Tag me in merge request
   * Tag me in issue
