@@ -87,6 +87,8 @@ actual users. This is a much more informative mechanism than the intuition
 of a product person (this doesn't mean we should just build
 whatever feedback tells us, however.)
 
+When considering how to scope a feature for a release remember it is ok to ship an "incomplete" feature to customers - assuming it still offers value and is not broken. For example, you could ship a feature that lacks a completed interface but still adds value if the user **chooses** to use it. Consider existing workflows and understand the impact on overall user experience as you release your feature. In terms of talking about your feature, it's ok to add a release post item that announces your incomplete feature (making clear that it is an early iteration, and points to the direction for the feature) and follow-on in a later release post with a new item when you've completed more of the functionality.
+
 ### Iteration
 
 An MVC approach is a byproduct of our spirit of iteration. That means we [break problems down](/handbook/product-development-flow/#build-phase-1-plan) as [small as possible](/handbook/values/#make-small-merge-requests), use [throughput as a performance indicator](/handbook/engineering/development/performance-indicators/#throughput), and focus on [reduced cycle time](/handbook/values/#reduce-cycle-time). Thinking iteratively is not always intuitive, and breaking certain topics or projects down can be challenging. Here's a helpful [video](https://www.youtube.com/watch?v=zwoFDSb__yM) from our CEO with guidance on how to think more iteratively.
@@ -166,6 +168,7 @@ in a certain way. A very concrete example of this is the ability to disable pipe
 #### Always Allow for Deploying to Production
 
 Sometimes fast deployments are needed to fix a service or application outage that can cost a business money and reputation, we understand time is of the essence in these situations. That’s why we believe giving the team control over this is important in crucial moments of the development lifecycle
+
 <figure class="video_container">
  <iframe src="https://www.youtube.com/embed/03ODv1cEO6E" frameborder="0" allowfullscreen="true"></iframe>
 </figure>
@@ -412,7 +415,7 @@ We should ensure that GitLab makes it easy to help with enterprise workflows:
 When considering a customer need for enforcement or limitations:
 
 - Deeply understand and document the underlying customer problem. It's our responsibility to understand the need we are solving for before we even consider imposing controls.
-- Solve for individual use cases first. Trying to solve a specific problem with a non-specific solution is risky and not [iterative](https://about.gitlab.com/handbook/product/product-principles/#iteration). Instead, start with a single use case and build a specific, non-enforced solution in GitLab.
+- Solve for individual use cases first. Trying to solve a specific problem with a non-specific solution is risky and not [iterative](/handbook/product/product-principles/#iteration). Instead, start with a single use case and build a specific, non-enforced solution in GitLab.
 - Consider the smallest group of users first. Don't reach for instance-wide controls, but instead iterate from the smallest segment possible (e.g. a sub-set of projects).
 - Provide simple workarounds and overrides. Consider extreme scenarios like recovering from a SEV-1 incident; there should always be a simple, fast escape hatch.
 
@@ -467,10 +470,10 @@ With this in mind, below are some product guidelines to consider:
     - By having such an incredible breadth, GitLab has _the opportunity to add value to external features that they could never otherwise have_, if not integrated with GitLab. For example, our excellent **To Dos** feature puts actionable work at the fingertips of developers, and it's a feature somewhat unique to GitLab. Many other tools make it harder to identify work that needs immediate action, so by integrating those tools with this part of GitLab, **we can make them even more powerful than they'd be alone.**
 - **Consider the right buyer for pricing**
     - While we typically think about who is _using the functionality_ as an indicator of our buyer, this may not be appropriate for your integration.
-    - When an integration is driven by an organizational requirement (such as having all teams in the company use Jira), [Buyer Based Tiering](https://about.gitlab.com/handbook/ceo/pricing/#buyer-based-tiering-clarification) likely indicates that the integration is for _multiple team_ (Premium) or _strategic organizational_ (Ultimate) use.
+    - When an integration is driven by an organizational requirement (such as having all teams in the company use Jira), [Buyer Based Tiering](/handbook/ceo/pricing/#buyer-based-tiering-clarification) likely indicates that the integration is for _multiple team_ (Premium) or _strategic organizational_ (Ultimate) use.
     - When an integration is _extending GitLab capabilities_, the buyer is more likely to be the end-user, similar to how we'd think about pricing other GitLab functionality.
 - **Low level of shame still applies here**
-    - When we start to integrate with another product, it's almost like opening a whole new Category of work. With this in mind, a friendly reminder that [low level of shame](https://about.gitlab.com/handbook/values/#low-level-of-shame) applies, just like it would anywhere else. The integration may not be very valuable _today_, but it's just a starting place, and we should use our first iteration to validate what belongs in the next one.
+    - When we start to integrate with another product, it's almost like opening a whole new Category of work. With this in mind, a friendly reminder that [low level of shame](/handbook/values/#low-level-of-shame) applies, just like it would anywhere else. The integration may not be very valuable _today_, but it's just a starting place, and we should use our first iteration to validate what belongs in the next one.
 - **Track the maturity of the integration**
     - Like any other category of work, we should track the maturity of the integration somewhere that's visible. Consider adding your integration to the [Ecosystem Integrations direction page](/direction/ecosystem/integrations), which contains a table that tracks our high-priority integrations and their maturity levels.
 - **Respect security and permissions**
@@ -485,7 +488,6 @@ With this in mind, below are some product guidelines to consider:
     - Just because we're leveraging _functionality_ from a 3rd-party service doesn't mean we should allow that service's UI to dictate what ours looks like. GitLab has its own [design language](https://design.gitlab.com/), and by keeping it cohesive across the application, we create a significantly better experience for our users.
 - **Be transparent about the data source**
     - When data is populated from an external source, make it clear that it comes from elsewhere. This prevents confusion, reduces cognitive load, and ensures that users are well informed about the choices they're making when interacting with the application.
-
 
 #### Avoid plugins and marketplaces
 

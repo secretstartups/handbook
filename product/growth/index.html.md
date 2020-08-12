@@ -12,7 +12,7 @@ title: Growth
 
 ## Overview
 
-The [Growth stage](https://about.gitlab.com/handbook/product/product-categories/#growth-stage) is responsible for
+The [Growth stage](/handbook/product/product-categories/#growth-stage) is responsible for
 scaling GitLab's business value. To accomplish this, Growth analyzes the entire customer journey from acquisition of
 a customer to the flow across multiple GitLab features - and even reactivation of lost users. Several groups
 help with this mission:
@@ -96,12 +96,12 @@ what people do in the application, and qualitative research, in essence the
 “why” behind the data.
 
 Growth should focus on metrics that are important at the company level, while also considering
-company strategy. Each group will own a north star KPI which are linked [here](https://about.gitlab.com/handbook/product/metrics/). At the same time, we strive to be _informed by data_ and _driven by empathy_ towards our users. This guideline will help us make informed decisions that align with our strategy _and_ bring value to our users, avoiding the usage of dark patterns to move a KPI in the right direction.
+company strategy. Each group will own a north star KPI which are linked [here](/handbook/product/metrics/). At the same time, we strive to be _informed by data_ and _driven by empathy_ towards our users. This guideline will help us make informed decisions that align with our strategy _and_ bring value to our users, avoiding the usage of dark patterns to move a KPI in the right direction.
 
 Acquisition, Conversion, Expansion and Retention will consist of a product manager, engineering manager, UX manager,
 some full-stack engineers, a (shared) data analyst, and four Product Designers.
 Each group member will have a functional reporting structure, in order to report
-to a leader that understands their job function. More information about the [Growth UX Team](https://about.gitlab.com/handbook/engineering/ux/stage-group-ux-strategy/growth/).
+to a leader that understands their job function. More information about the [Growth UX Team](/handbook/engineering/ux/stage-group-ux-strategy/growth/).
 
 ### Adoption Journey
 
@@ -217,7 +217,7 @@ _Expansion_ is measured by the Net Retention KPI and owns the experience of cust
 
 _Retention_ is measured by the Gross Retention KPI and works holistically to prevent customer churn by improving the customer journey and internal processes of renewing accounts (including true-ups), soliciting and acting on feedback from customers who have chosen not to renew, and owning multi-channel messaging such as email and in-app messaging to drive renewals.
 
-Ownership of an experience or workflow includes the priorization and delivery of related bugs, security fixes and other [technical priorities](https://about.gitlab.com/handbook/engineering/#prioritizing-technical-decisions) by that team.
+Ownership of an experience or workflow includes the priorization and delivery of related bugs, security fixes and other [technical priorities](/handbook/engineering/#prioritizing-technical-decisions) by that team.
 
 ### Growth Deliverables
 
@@ -241,7 +241,7 @@ on larger initiatives that need specialized knowledge or ongoing focus.
 It is the responsibility of other stages to maintain and expand core value in their respective product areas; it's
 Growth's mission to streamline delivery of that value to users. For example:
 
-- [Manage](https://about.gitlab.com/handbook/product/product-categories/#manage-stage) is responsible for user registration and
+- [Manage](/handbook/product/product-categories/#manage-stage) is responsible for user registration and
 management. This stage maintains a long-term vision on how users are created and maintained in GitLab, with a roadmap that
 includes other categories and priorities.
 - Growth may identify user registration as an opportunity to further the group's [priorities](#growth-ideation-and-prioritization). Growth's
@@ -251,7 +251,7 @@ and - like a contribution coming from the wider community - ultimately own the f
 
 ### Growth RADCIE and DRIs
 
-In alignment with Gitlab's [RADCIE](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/#radcie) approach, the DRIs for the following tasks would be:
+In alignment with Gitlab's [RADCIE](/handbook/people-group/directly-responsible-individuals/#radcie) approach, the DRIs for the following tasks would be:
 
 | Task | DRI |
 | ---- | --- |
