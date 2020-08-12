@@ -24,7 +24,7 @@ GitLab is currently reviewing adding a Life Insurance policy for team members in
 **Annual Mandatory Indexation:** Every January, Belgian’s Joint Industrial Committee 200 (JIC 200) completes a salary review and recommends an adjustment in keeping with the cost of living. That adjustment is referred to as salary indexation and affects employees of companies that are subject to JIC 200 oversight. 
 **A salary indexation of 2% is applicable from 1 June 2020.** This 2% increase is applicable on the base amount.
 
-`**Note:** This mandated 2% increase would be adjusted from the Annual comp review`
+**Note:** This mandated 2% increase will be deducted from the Annual Comp Review total to ensure there is room for the additional 2% in June of each year. 
 
 ## Ecocheques
 
