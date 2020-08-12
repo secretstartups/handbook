@@ -297,7 +297,7 @@ GitLab offers company paid [basic life](https://drive.google.com/open?id=1wl62ig
 
 ## Group Long-Term and Short-Term Disability Insurance
 
-GitLab provides a policy through UHC that may replace up to 66.7% of your base salary, for qualifying disabilities. For [short-term disability](https://drive.google.com/open?id=12_xDzUIuBgSJB0AJ6I0oE2VEgMdwymWx) there is a weekly maximum benefit of $2,500; for [long-term disability](https://drive.google.com/open?id=14uIt3CUabd4Yj95BDgNl9Rdfzi6SxrFW) there is a monthly benefit maximum of $12,500.
+GitLab provides a policy through UHC that may replace up to 66.7% of your base salary, for qualifying disabilities. For [short-term disability](https://drive.google.com/open?id=12_xDzUIuBgSJB0AJ6I0oE2VEgMdwymWx) there is a weekly maximum benefit of $2,500; for [long-term disability](https://drive.google.com/open?id=14uIt3CUabd4Yj95BDgNl9Rdfzi6SxrFW) there is a monthly benefit maximum of $12,500. More information can be found in the [UHC Long-Term Disability Welcome brochure](https://drive.google.com/file/d/195tzz2R7cqmmMnor9sWDXjeelhyx4CoE/view?usp=sharing) and [UHC Short-Term Disability Welcome brochure](https://drive.google.com/file/d/19oWAPE-V5n88WRHgXFuyiOL-elX2FiG3/view?usp=sharing) for these benefits. 
 
 **Process for Disability Claim**
 
