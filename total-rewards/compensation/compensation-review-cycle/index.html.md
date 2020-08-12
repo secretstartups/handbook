@@ -132,6 +132,7 @@ While some GitLab team-members may not receive an increase due to already being 
 * ![filter range](/images/handbook/people-group/5_Compaas.png)
 1. The slate can be saved as a draft at any time. When you choose to "Save and Lock", you will see a screen summarizing your proposed raises. You may choose to cancel, leaving the slate in a draft state, or "Submit and Lock" which automatically submits your recommendations for approval.
 * ![slate owner submit](/images/handbook/people-group/10_Compaas.png)
+* **Note: Even slates for 0% increases need to be submitted via Compaas so the slate does not appear as "incomplete" while it moves through the process.**
 1. Once the slate has been submitted for approval, it will be locked. You will no longer be able to make changes, but while the annual compensation cycle is open you will be able to log in and review your team's compensation adjustments.
 * If any changes are made by a slate approver, these will be visible in your review screen.
 * ![slate owner locked](/images/handbook/people-group/11_Compaas.png)
