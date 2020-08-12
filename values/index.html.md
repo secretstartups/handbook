@@ -110,9 +110,9 @@ focus on the business impact and not the person.
 Make sure to provide at least one clear and recent example.
 If a person is going through a hard time in their personal life, then take that into account.
 An example of giving positive feedback is our [thanks chat channel](/handbook/communication/internal-communications).
-For managers, it's important to realize that employees react to a negative incident with their managers [six times more strongly](https://hbr.org/2013/03/the-delicate-art-of-giving-fee) than they do to a positive one.
+For managers, it's important to realize that team members react to a negative incident with their managers [six times more strongly](https://hbr.org/2013/03/the-delicate-art-of-giving-fee) than they do to a positive one.
 Keeping that in mind, if an error is so inconsequential that the value gained from providing criticism is low, it might make sense to keep that feedback to yourself.
-In the situations where negative feedback must be given, focus on the purpose for that feedback: to improve the employee’s performance going forward.
+In the situations where negative feedback must be given, focus on the purpose for that feedback: to improve the team member's performance going forward.
 Give recognition generously, in the open, and often to [generate more engagement](http://www-01.ibm.com/common/ssi/cgi-bin/ssialias?infotype=SA&subtype=WH&htmlfid=LOW14298USEN) from your team.
 
 ##### Get to know each other
@@ -545,7 +545,7 @@ We demonstrate efficiency when we work on the right things, not doing more than 
 ## 🌐 Diversity, Inclusion & Belonging
 {:#diversity-inclusion .gitlab-purple}
 
-Diversity, inclusion and belonging are fundamental to the success of GitLab. We aim to make a significant impact in our efforts to [foster an environment where everyone can thrive](/handbook/people-group/code-of-conduct/). We are designing a multidimensional approach to ensure that GitLab is a place where people from every background and circumstance feel like they belong and can contribute. We actively chose to [build and institutionalize](http://www.russellreynolds.com/en/Insights/thought-leadership/Documents/Diversity%20and%20Inclusion%20GameChangers%20FINAL.PDF) a culture that is [inclusive](/company/culture/inclusion/) and supports all employees equally in the process of achieving their professional goals. We hire globally and encourage hiring in a diverse set of countries. We work to make everyone feel welcome and to increase the participation of underrepresented minorities and nationalities in our community and company. For example, we celebrate our sponsorship of [diversity events](/blog/2016/03/24/sponsorship-update/) and triple the base [referral bonus amount](/handbook/incentives/#referral-bonuses).
+Diversity, inclusion and belonging are fundamental to the success of GitLab. We aim to make a significant impact in our efforts to [foster an environment where everyone can thrive](/handbook/people-group/code-of-conduct/). We are designing a multidimensional approach to ensure that GitLab is a place where people from every background and circumstance feel like they belong and can contribute. We actively chose to [build and institutionalize](http://www.russellreynolds.com/en/Insights/thought-leadership/Documents/Diversity%20and%20Inclusion%20GameChangers%20FINAL.PDF) a culture that is [inclusive](/company/culture/inclusion/) and supports all team members equally in the process of achieving their professional goals. We hire globally and encourage hiring in a diverse set of countries. We work to make everyone feel welcome and to increase the participation of underrepresented minorities and nationalities in our community and company. For example, we celebrate our sponsorship of [diversity events](/blog/2016/03/24/sponsorship-update/) and triple the base [referral bonus amount](/handbook/incentives/#referral-bonuses).
 
 ##### Bias towards asynchronous communication
 {:.no_toc}
@@ -571,7 +571,7 @@ People feel more included when they're supported. To encourage this, and to supp
 
 ##### Culture fit is a bad excuse
 {:.no_toc}
-We don't hire based on culture or select candidates because we'd like to have a drink with them. We hire and reward employees based on our shared values as detailed on this page. We want a **values fit**, not a culture fit.
+We don't hire based on culture or select candidates because we'd like to have a drink with them. We hire and reward team members based on our shared values as detailed on this page. We want a **values fit**, not a culture fit.
 We want cultural diversity instead of cultural conformity, such as a [brogrammer](https://en.wikipedia.org/wiki/Brogrammer) atmosphere. Said differently: ["culture add" > "culture fit"](https://twitter.com/Una/status/846808949672366080) or "hire for culture contribution" since our [mission is that everyone can contribute](/company/strategy/#mission).
 
 ##### Religion and politics at work <a name="dont-bring-religion-or-politics-to-work"></a>
@@ -593,7 +593,7 @@ Celebrate and encourage quirky gifts, habits, behavior, and points of view. Open
 {:.no_toc}
 Do **not** make jokes or unfriendly remarks about [characteristics of the people who make up GitLab and how they identify](https://about.gitlab.com/company/culture/inclusion/#gitlabs-definition-of-diversity--inclusion).
 Everyone has the right to feel safe when working for GitLab and/or as a part of the GitLab community.
-We do not tolerate abuse, [harassment](/handbook/anti-harassment/), exclusion, discrimination, or retaliation by/of any community members, including our employees.
+We do not tolerate abuse, [harassment](/handbook/anti-harassment/), exclusion, discrimination, or retaliation by/of any community members, including our team members.
 You can always **refuse** to deal with people who treat you badly and get out of situations that make you feel uncomfortable.
 
 ##### Unconscious bias
@@ -630,7 +630,7 @@ Customers are not used to working in this way. To promote inclusion with custome
 
 ##### See Something, Say Something
 {:.no_toc}
-As a globally-dispersed company, we have employees from many different backgrounds and cultures. That means it is important for each of us to use great judgment in being respectful and inclusive of our teammates. At the same time, we may sometimes not fully realize we have said or done something to offend someone. It is important that our teammates hold each other accountable and let them know if they have unintentionally or intentionally done something so they can learn and gain additional understanding of perspectives different from our own. It is also important that our teammates don't feel excluded or minimized by the words we use or the things we do. Thus, we all need to speak up when we see something that isn't respectful or inclusive.
+As a globally-dispersed company, we have team members from many different backgrounds and cultures. That means it is important for each of us to use great judgment in being respectful and inclusive of our teammates. At the same time, we may sometimes not fully realize we have said or done something to offend someone. It is important that our teammates hold each other accountable and let them know if they have unintentionally or intentionally done something so they can learn and gain additional understanding of perspectives different from our own. It is also important that our teammates don't feel excluded or minimized by the words we use or the things we do. Thus, we all need to speak up when we see something that isn't respectful or inclusive.
 
 ##### Neurodiversity
 {:.no_toc}
@@ -897,7 +897,7 @@ However it is [most important to focus on results](/handbook/values/#hierarchy).
 Therefore, a category of information is **public** unless there is a reason for it not to be.
 
 When information is not public, it may also be treated as limited access, only shared with certain GitLab roles, teams, or team members due to privacy considerations, contractual obligation, or other reasons that the author or DRI can specify.
-Certain kinds of information default to limited access, including details about employees or customers who did not give permission to share the information.
+Certain kinds of information default to limited access, including details about team members or customers who did not give permission to share the information.
 
 We document what is [not public by default](/handbook/communication/#not-public) on our communication page.
 
