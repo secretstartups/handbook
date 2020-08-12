@@ -381,7 +381,7 @@ When you give leadership training please [screenshare the handbook instead of cr
 
 ## People Group
 
-Feel free to reach out to anyone in the [People Group](https://about.gitlab.com/handbook/people-group/) for further support on leadership development topics. You can find us on the [team page](/company/team/), using the `People Team` dropdown. The team may also be reached in the `#peopleops` chat channel.
+Feel free to reach out to anyone in the [People Group](https://about.gitlab.com/handbook/people-group/) for further support on leadership development topics. You can find us on the [team page](/company/team/), using the `People Group` dropdown. The team may also be reached in the `#peopleops` chat channel.
  
 ## Being a public company
 
