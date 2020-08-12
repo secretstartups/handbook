@@ -90,11 +90,11 @@ During week four we will discuss **Developing High Performing Teams**. Informati
 
 | Day     | Daily Challenge | Length of Time   |  Format | Activity | Competency Alignment |
 |---------|-----------------|------------------|---------|----------|----------------------|
-| Day 16   | TBA | 20 minutes | Self-paced Daily Challenge | TBA | TBA |
-| Day 17   | TBA | 20 minutes | Self-paced Daily Challenge | TBA | TBA |
-| Day 18   | TBA | 20 minutes | Self-paced Daily Challenge | TBA | TBA |
-| Day 19   | Attend Live Learning | 50 minutes | Live Learning | TBA | TBA |
-| Day 20   | Self Reflection and Weekly Evaluation | 20 minutes | Self-paced Daily Challenge | TBA | TBA |
+| Day 16   | What is a High Performing Team | 20 minutes | Self-paced Daily Challenge | * Learn about what makes a high performing team | * Collaboration <br> * Managers of One <br> * Building High Performing Teams <br> * Emotional Intelligence |
+| Day 17   | Path to High Performing Teams | 20 minutes | Self-paced Daily Challenge | * Learn about the high performance model | * Building High Performing Teams <br> * Collaboration <br> * Managers of one <br> * Handbook First |
+| Day 18   | Applying the Model to Managing at GitLab | 20 minutes | Self-paced Daily Challenge | * Apply the Model to your team at GitLab | * Building High Performing Teams <br> * Collaboration <br> * Managers of One |
+| Day 19   | Attend Live Learning | 50 minutes | Live Learning | * Attend the Live Learning session | * Building High Performing Teams |
+| Day 20   | Self Reflection and Weekly Evaluation | 20 minutes | Self-paced Daily Challenge | * Complete the Self-Reflection | * Efficiency <br> * Results |
 
 [embed week 4 slide deck here] 
 
