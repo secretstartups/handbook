@@ -158,15 +158,15 @@ The following articulates where collaboration and customer management is owned:
 
 ## Related pages
 
-- [Dogfooding in Customer Success](/handbook/customer-success/#dogfooding/)
-- [Customer Success & Market Segmentation](/handbook/customer-success/#customer-success--market-segmentation/)
-- [Responsibility Matrix and Transitions](/handbook/customer-success/#responsibility-matrix-and-transitions/)
+- [Dogfooding in Customer Success](/handbook/customer-success/#dogfooding)
+- [Customer Success & Market Segmentation](/handbook/customer-success/#customer-success--market-segmentation)
+- [Responsibility Matrix and Transitions](/handbook/customer-success/#responsibility-matrix-and-transitions)
 - [Commercial Sales Customer Success](/handbook/customer-success/comm-sales/)
 - [Customer Success' FAQ](/handbook/customer-success/faq/)
 - [Using Salesforce within Customer Success](/handbook/customer-success/using-salesforce-within-customer-success/)
 - [Customer Success Vision](/handbook/customer-success/vision/)
 - [GitLab Positioning](/handbook/positioning-faq/)
-- [Product Stages and the POCs for each](/handbook/product/product-categories/#devops-stages/)
-- [How to Provide Feedback to Product](/handbook/product/how-to-engage/#feedback-template/)
+- [Product Stages and the POCs for each](/handbook/product/product-categories/#devops-stages)
+- [How to Provide Feedback to Product](/handbook/product/how-to-engage/#feedback-template)
 - [Sales handbook](/handbook/sales/)
 - [Support handbook](/handbook/support/)
