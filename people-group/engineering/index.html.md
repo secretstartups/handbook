@@ -66,6 +66,7 @@ All projects are public in this [group](https://gitlab.com/gitlab-com/people-gro
 
 You can find more information on the following pages:
 - [Access Request Issues](/handbook/people-group/engineering/access-requests-issues)
+- [Assessment Tool](/handbook/people-group/engineering/assessment-tool)
 - [Email Automation](/handbook/people-group/engineering/email-automation)
 - [Employment Issues](/handbook/people-group/engineering/employment-issues)
 - [Greenhouse <> BambooHR Sync](/handbook/people-group/engineering/gh-bhr-sync)
