@@ -399,13 +399,78 @@ Prior to generating a standard (non-draft) quote to deliver to a client or prosp
 
 ### Channel Quote Approval 
 
-The new [GitLab Partner Program](/handbook/resellers/#gitlab-partner-program-overview) has created a framework where signed Channel Partners are granted specific, contractual discounts depending on the program they have agreed to (Open vs. Select), and whether the opportunity in question is Partner Initiated, GitLab Sourced - Partner Assist, or GitLab Sourced - Fulfillment. [Review the discount table here](https://gitlab.my.salesforce.com/0694M000008xAk4QAE?so=pvt).
+Under the [**GitLab Partner Program**](/handbook/resellers/#gitlab-partner-program-overview), signed Channel Partners are granted specific, contractual discounts depending on the Partner Deal Type, the Partner Engagement type, and the Partner's program track (Open vs. Select). This information is automatically captured at the opportunity level. For more information, review the [SFDC Field Definitions](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#managing-channel-opportunities) and the [Partner Program Discount Table](https://gitlab.my.salesforce.com/0694M000008xAk4QAE?so=pvt).
 
-**Quote Approvals, Current State:** The Salesforce quote approval module is not currently configured to identify whether the discount entered is appropriate for the partner selected and the deal type. As a result, **All channel quotes *must* be routed to the VP Global Channels and the VP Sales for approval, no matter the discount applied. Please note that this is not optional** To request such approval, click the Submit for Approval button on the quote object once you have fully configured your quote. 
+**Quote Approvals:** Effective Wednesday, August 12th, the quote approval module has been updated to systematically identify channel deals (subscription deals only) and manage the necessary approvals automatically. **To request approval on a quote, follow the steps above: [Standard Quote Approval](/handbook/business-ops/order-processing/#standard-quote-approval)**
 
-Note: In the event that you require escalation for an approval request, please tag Sales-Support for assistance. If possible, Deal Desk will override the approval. If Deal Desk cannot do so, Deal Desk will help to seek approvals from necessary parties.
+For a full overview of required channel quote approvals, select the appropriate scenario below:
 
-**Quote Approvals, Future State:** Channel, Deal Desk, and Sales Systems are currently working hard to configure a new quote approval module that will only require quotes to be approved where the discount entered does not represent the partner's contractual discount. This system is targeted to go live before the end of FY21 Q2. 
+<details>
+<summary markdown="span"><b>Approvals for Partners signed to the Partner Program<b></summary>
+
+**Scenario 1: The partner is under the new partner program, a discount has been applied, and there are no other non-standard terms.**
+- If discount is correct:
+  1.  Quote is automatically approved.
+- If discount is incorrect: 
+  1.  Quote is routed to VP Global Channels for discount approval.
+  2.  If VP Global Channels approves, the quote will then go through the standard discount approval process, if applicable.
+
+**Scenario 2: The partner is under the new partner program, a discount has been applied, and there are other non-standard terms.**
+- If discount is correct:
+  1.  Quote goes to Deal Desk for approval on non-standard terms.
+- If discount is incorrect:
+  1.  Quote is routed to VP Global Channels for discount approval.
+  2.  If VP Global Channels approves, the quote will then go through the standard discount approval process, if applicable.
+  3.  Quote goes to Deal Desk for approval on non-standard terms.
+
+**Scenario 3: The partner is under the new partner program, no discount has been applied, and there are no other non-standard terms.**
+1. Quote is routed to VP Global Channels for approval.
+
+**Scenario 4: The partner is under the new partner program, no discount has been applied, and there are other non-standard terms.**
+1. Quote is routed to VP Global Channels for approval.
+2. If VP Global Channels approves, the quote then goes to Deal Desk for approval on non-standard terms.
+
+</details>
+
+<details>
+<summary markdown="span"><b>Approvals for Partners signed to Legacy Partner Agreements<b></summary>
+
+**Scenario 1: The partner is under a legacy contract, a discount has been applied, and there are no other non-standard terms.**
+1. Quote goes to Deal Desk for approval. Deal Desk will review the legacy contract to ensure that the proper discount has been applied.
+
+**Scenario 2: The partner is under a legacy contract, a discount has been applied, and there are other non-standard terms.**
+1. Quote goes to Deal Desk for approval. Deal Desk will review the legacy contract to ensure that the proper discount has been applied, and to ensure that the non-standard terms have been approved separately where necessary.
+
+**Scenario 3: The partner is under a legacy contract, no discount has been applied, and there are no other non-standard terms.**
+1. Quote goes to Deal Desk for approval. Deal Desk will review the legacy contract to ensure that the proper discount has been applied.
+
+**Scenario 4: The partner is under a legacy contract, no discount has been applied, and there are other non-standard terms.**
+1. Quote goes to Deal Desk for approval. Deal Desk will review the legacy contract to ensure that the proper discount has been applied, and to ensure that the non-standard terms have been approved separately where necessary.
+
+</details>
+
+<details>
+<summary markdown="span"><b>Approvals for Resellers Not Under Contract<b></summary>
+
+**Scenario 1: The reseller is not under contract, a discount has been applied, and there are no other non-standard terms.**
+1. Quote is routed to VP Global Channels for approval.
+2. If VP Global Channels approves, the quote will then go through the standard discount approval process, if applicable.
+
+**Scenario 2: The reseller is not under contract, no discount has been applied, and there are no other non-standard terms.**
+1. Quote is routed to VP Global Channels for approval.
+
+**Scenario 3: The reseller is not under contract, a discount has been applied, and there are other non-standard terms.**
+1. Quote is routed to VP Global Channels for approval.
+2. If VP Global Channels approves, the quote will then go through the standard discount approval process, if applicable.
+3. Quote goes to Deal Desk for approval on non-standard terms.
+
+**Scenario 4: The reseller is not under contract, no discount has been applied, and there are other non-standard terms.**
+1. Quote is routed to VP Global Channels for approval.
+2. Quote goes to Deal Desk for approval on non-standard terms.
+
+</details>
+
+Note: In the event that you require escalation for an approval request, please [reach out to Deal Desk](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#how-to-communicate-with-us). If possible, Deal Desk will override the approval. If Deal Desk cannot do so, Deal Desk will help to seek approvals from necessary parties.
 
 The quote approval module and approval workflow outlined above **does not apply to Public Sector opportunities**. For more information on opportunity requirements for Public Sector, check out the [Public Sector Opportunity requirements](/handbook/business-ops/order-processing/#second-review-all-requirements-for-each-type-of-sale). 
 
