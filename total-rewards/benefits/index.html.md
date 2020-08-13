@@ -61,7 +61,7 @@ When establishing a new co-employer or entity we will outline the following bene
 1. Pension
 1. Life Insurance
 
-We do not have specific budgets around benefit costs, but instead look to increasing the ability to recruit and retain team members in favorable locations. We do not take a global approach to offering the same benefits in all countries, but will transparently outline why we do or do not offer the above benefits on their respective [entity specific benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-specific-benefits) page.
+We do not have specific budgets around benefit costs, but instead look to increasing the ability to recruit and retain team members in favorable locations. We do not take a global approach to offering the same benefits in all countries, but will transparently outline why we do or do not offer the above benefits on their respective [entity specific benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/#general-and-entity-benefits) page.
 
 ## Knowledge Assessment
 
