@@ -236,3 +236,8 @@ For more information on how to access Sanvello Premium if enrolled in a UHC medi
 ### South Africa
 
 * The Department of International Relations and Cooperation (DIRCO) has set up a 24-hour hotline number for all South African citizens that believe they might have COVID-19, the hotline number is 0800-029-999.
+
+### Brazil
+
+* For information on COVID-19 the national information helpline phone number is 136.
+* The Ministry of Health provides up-to-date [Coronavirus information](https://coronavirus.saude.gov.br/) online and apps for [Android](https://play.google.com/store/apps/details?id=br.gov.datasus.guardioes) and [iOS](https://apps.apple.com/br/app/coronav%C3%ADrus-sus/id1408008382).
