@@ -461,7 +461,7 @@ The messaging lead is responsible for:
 
 #### Identify top features and themes (18th of the previous month - 11th of the release month)
 
-This section provides guidance on how to decide on top features or themes and timelines:
+This section provides guidance on how to decide on top 3 features or themes and timelines:
 
 **Use the handbook guidance below for messaging lead release post preparation and planning. This handbook section is your source of truth from the 18th of the previous month - 11th of the release month.**
 
