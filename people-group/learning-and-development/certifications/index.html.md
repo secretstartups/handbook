@@ -41,8 +41,8 @@ When you complete and pass a knowledge assessment, you may recieve a certificate
 
 ## Current Knowledge Assessments
 
-* [GitLab Values](/handbook/values/#gitlab-values-certification)
-* [GitLab Communication](/handbook/communication/#communication-certification)
+* [GitLab Values](/handbook/values/#gitlab-values-knowledge-assessment)
+* [GitLab Communication](/handbook/communication/#gitlab-communication-knowledge-assessment)
 * [Being an Ally](/company/culture/inclusion/being-an-ally/#being-an-ally-knowledge-assessment)
 * [Inclusion](/company/culture/inclusion/being-inclusive/#inclusion-knowledge-assessment)
 * [GitLab Compensation](/handbook/total-rewards/compensation/#knowledge-assessment)
