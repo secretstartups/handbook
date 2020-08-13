@@ -215,19 +215,19 @@ For other countries outside AMER, governments agencies will be handled by the te
 | NA East        | US East        | **MM-AMER-EAST-NYPa**               | Steve Xu                      | Phillip Knorr    |
 | NA East        | US East        | **MM-AMER-EAST-Southeast**          | Daniel Parry                  | Evan Mathis      |
 | NA East        | US East        | **MM-AMER-EAST-TriState**           | Jenny Kline                   | Kelsey Claflin   |
-| NA West        | US West        | **MM-AMER-WEST-MtnMidwest**         | Kyla Gradin.                  | Ariah Curtis     |
-| NA West        | US West        | **MM-AMER-WEST-NorCal**             | Jennifer MacVicar             | Da'Neil Olsen |
+| NA West        | US West        | **MM-AMER-WEST-MtnMidwest**         | Kyla Gradin                   | Ariah Curtis     |
+| NA West        | US West        | **MM-AMER-WEST-NorCal**             | TBD                           | Da'Neil Olsen |
 | NA West        | US West        | **MM-AMER-WEST-PacWest**            | Rashad Bartholomew            | Josh Weatherford |
 | NA West        | US West        | **MM-AMER-WEST-SF**                 | Laura Shand                   | Ariah Curtis     |
 | NA West        | US West        | **MM-AMER-WEST-SoCal/AZ/HI**        | Douglas Robbin                | Da'Neil Olsen    |
 | NA West        | US West        | **MM-AMER-WEST-Southwest-KS**       | Laura Shand                   | Josh Weatherford |
 | NA West        | US West        | **MM-AMER-WEST-Southwest-MO**       | Douglas Robbin                | Josh Weatherford |
-| NA West        | US West        | **MM-AMER-WEST-Southwest-NM**       | Jennifer MacVicar             | Josh Weatherford |
-| NA West        | US West        | **MM-AMER-WEST-Southwest-OK**       | Jennifer MacVicar             | Josh Weatherford |
+| NA West        | US West        | **MM-AMER-WEST-Southwest-NM**       | Kyla Gradin                   | Josh Weatherford |
+| NA West        | US West        | **MM-AMER-WEST-Southwest-OK**       | Kyla Gradin                   | Josh Weatherford |
 | NA West        | US West        | **MM-AMER-WEST-Southwest-Austin**   | Kyla Gradin                   | Josh Weatherford |
 | NA West        | US West        | **MM-AMER-WEST-Southwest-TX**       | Laura Shand                   | Josh Weatherford |
 | NA West        | US West        | **MM-AMER-Named 1**                 | Chris Chiappe                 | Da'Neil Olsen |
-| NA West        | US West        | **MM-AMER-Named 2**                 | TBD-Multiple Owners*           | Josh Weatherford |
+| NA West        | US West        | **MM-AMER-Named 2**                 | TBD-Multiple Owners*          | Josh Weatherford |
 | NA East        | US East        | **MM-AMER-Named 3**                 | Alyssa Belardi                | Gee Lee |
 | NA East        | US East        | **MM-AMER-Named 4**                 | Sharif Bennett                | Shakarra McGuire |
 
@@ -237,12 +237,14 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Sub-Region     | Area           | **Territory Name**                  | Sales                         | SDR              |
 | :------------- | :------------- | :------------------------------ | :---------------------------- | :--------------- |
 | ANZ            | ANZ            | **MM-APAC-ANZ**                     | Julie Manalo                  | Glenn Perez      |
-| Asia Central   | Asia Central   | **MM-APAC-Central Asia**            | Julie Manalo                  | Glenn Perez      |
+| Asia Central   | Asia Central   | **MM-APAC-Central Asia**            | Ishan Padgotra              | Glenn Perez      |
 | China          | China          | **MM-APAC-China**                   | Ian Chiang                  | Aletha Alfarania |
 | Japan          | Japan          | **MM-APAC-Japan**                   | Ian Chiang                  | Minsu Han        |
 | Asia SE        | Southeast Asia | **MM-APAC-SE Asia**                 | Ian Chiang                  | Aletha Alfarania |
-| Asia South     | Asia South     | **MM-APAC-South Asia**              | Ishan Padgotra / Julie Manalo | Belinda Singh    |
 | Korea          | Korea          | **MM-APAC-South Korea**             | Ian Chiang                  | Minsu Han        |
+| Asia South     | Asia South     | **MM-APAC-South Asia**              | Ishan Padgotra              | Belinda Singh    |
+| Asia South     | Asia South     | **MM-APAC-India**                   | Ishan Padgotra              | Belinda Singh    |
+| Asia South     | Asia South     | **MM-APAC-Pakistan**                | Wayne Zhao                  | Belinda Singh    |
 
 
 #### EMEA
@@ -260,7 +262,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | UKI                  | GB      | **MM-EMEA-UKI-GB**             | Conor Brady               | Kristof Eger     |
 | UKI                  | IE      | **MM-EMEA-UKI-Ireland**        | Conor Brady               | Kristof Eger     |
 | UKI                  | Rest Of | **MM-EMEA-UKI-R**              | Conor Brady               | Kristof Eger     |
-| UKI.                 | Rest Of | **MM-EMEA-UKI-R**              | Conor Brady               | Kristof Eger     |
+| UKI                  | Rest Of | **MM-EMEA-UKI-R**              | Conor Brady               | Kristof Eger     |
 | France               | FR      | **MM-EMEA-France-FR 0x-6x**    | Israa Mahros              | Camille Dios     |
 | France               | FR      | **MM-EMEA-France-FR 7x**       | Israa Mahros              | Camille Dios     |
 | France               | FR      | **MM-EMEA-France-FR 8x-9x**    | Israa Mahros              | Camille Dios     |
@@ -271,8 +273,8 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Nordics              | DK      | **MM-EMEA-Nordics-DK**         | Hans Frederiks            | Johan Rosendahl  |
 | Nordics              | SE      | **MM-EMEA-Nordics-SE**         | Hans Frederiks            | Johan Rosendahl  |
 | Nordics              | Rest Of | **MM-EMEA-Nordics-R**          | Hans Frederiks            | Johan Rosendahl  |
-| Benelux              | NL      | **MM-EMEA-Benelux-NL 10x-19x** | Hans Frederiks            | Johan Rosendahl  |
-| Benelux              | NL      | **MM-EMEA-Benelux-NL 20x-29x** | Hans Frederiks            | Johan Rosendahl  |
+| Benelux              | NL      | **MM-EMEA-Benelux-NL 10x-19x** | Lisa vdKooij              | Johan Rosendahl  |
+| Benelux              | NL      | **MM-EMEA-Benelux-NL 20x-29x** | Lisa vdKooij              | Johan Rosendahl  |
 | Benelux              | NL      | **MM-EMEA-Benelux-NL 30x-39x** | Hans Frederiks            | Johan Rosendahl  |
 | Benelux              | NL      | **MM-EMEA-Benelux-NL 40x-99x** | Hans Frederiks            | Johan Rosendahl  |
 | Benelux              | BE/LU   | **MM-EMEA-Benelux-BeLu**       | Lisa VdKooij              | Camille Dios     |
@@ -292,10 +294,10 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Russia               | RU      | **MM-EMEA-Russia**             | Chris Willis              | Rahim Abdullayev |
 | Southern Europe      | IL      | **MM-EMEA-Southern-IL**        | Anthony Ogunbowale-Thomas | Johan Rosendahl  |
 | Southern Europe      | IT      | **MM-EMEA-Southern-IT**        | Anthony Ogunbowale-Thomas | Johan Rosendahl  |
-| Southern Europe      | ES      | **MM-EMEA-Southern-ES**        | Anthony Ogunbowale-Thomas | Johan Rosendahl  |
-| Southern Europe      | PT      | **MM-EMEA-Southern-PT**        | Anthony Ogunbowale-Thomas | Johan Rosendahl  |
+| Southern Europe      | ES      | **MM-EMEA-Southern-ES**        | Sophia Simunec            | Johan Rosendahl  |
+| Southern Europe      | PT      | **MM-EMEA-Southern-PT**        | Sophia Simunec            | Johan Rosendahl  |
 | Southern Europe      | Rest Of | **MM-EMEA-Southern-R**         | Anthony Ogunbowale-Thomas | Johan Rosendahl  |
-| Eastern Europe       | All     | **MM-EMEA-Eastern Europe**     | Israa Mahros              | Rahim Abdullayev |
+| Eastern Europe       | All     | **MM-EMEA-Eastern Europe**     | Sophia Simunec            | Rahim Abdullayev |
 | MEA                  | AE      | **MM-EMEA-MEA-AE**             | Israa Mahros              | Johan Rosendahl  |
 | MEA                  | SA      | **MM-EMEA-MEA-SA**             | Israa Mahros              | Johan Rosendahl  |
 | MEA                  | Rest Of | **MM-EMEA-MEA-R**              | Israa Mahros              | Johan Rosendahl  |
