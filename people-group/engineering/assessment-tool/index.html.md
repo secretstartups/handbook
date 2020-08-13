@@ -40,3 +40,7 @@ As an individual contributor, you don't need to do anything. Your manager will b
 It is recommended you first read up on [what 9 box assessments at GitLab are](https://about.gitlab.com/handbook/people-group/performance-assessments-and-succession-planning/).
 
 Once you're ready, you need to create an account (see "Creating an Account" section) and can start doing the assessments.
+
+### Feedback and/or Bugs
+You can provide feedback or report bugs by creating issues on the project for this tool: https://gitlab.com/gitlab-com/people-group/peopleops-eng/assessment-tool/
+
