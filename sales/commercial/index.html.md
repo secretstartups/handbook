@@ -215,7 +215,7 @@ New team members should familiarize themselves with The Required 7. These are th
 #### Customer Journey 
 * [Inbound Queue Management](/handbook/sales/commercial/#inbound-queue-management)
 * [Licensing/Subscription Management](/handbook/sales/commercial/#licensingsubscription-management)
-* [Troubleshooting Resource for Licensing/Subscription Management](/handbook/sales/commercial/#troubleshooting-how-to-resources-for-licensing-subscription-management)
+* [Troubleshooting Resource for Licensing/Subscription Management](/handbook/sales/commercial/#troubleshooting--how-to-resources-for-licensing--subscription-management)
 * [Quotes / Sales Order Processing](/handbook/sales/commercial/#quotes--sales-order-processing)
 
 ### Inbound Queue Management

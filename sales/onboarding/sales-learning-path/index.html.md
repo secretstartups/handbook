@@ -216,7 +216,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 *  **Update Your LinkedIn Profile! (Assignment - 30 Minutes - 10 Points - Pre Work)**
    - Check out the [slide deck](https://drive.google.com/open?id=1UCRF6PC6al8XxT8E_4rDKkQjkW6WGPA6gybWeuRIg7A&authuser=0) on creating a great profile that will look good to your prospects and clients!
 *  **Salesforce - Booking Orders (Material - Handbook - 10 Minutes)**
-   - [Learn how to create](/handbook/business-ops/order-processing/#step-7--submitting-an-opportunity-for-approval) Accounts, Contacts, Opportunities, and [Quotes](/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide) in Salesforce.
+   - [Learn how to create](/handbook/business-ops/order-processing/#step-7--submitting-an-opportunity-for-approval) Accounts, Contacts, Opportunities, and [Quotes](/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes) in Salesforce.
 *  **Reference Edge (Material - Video - 10 Minutes)**
    - Reference Edge Software will help reps to easily see what available references are the best fit for their current opportunity. Check out the [video](/handbook/sales/training/#functional-skills--processes), and [Powerpoint](https://docs.google.com/presentation/d/18odHX0PTzifRJaeAr-yxa9jdg1_nw4RYDiBqAkYFAyM/edit?usp=sharing) on this new tool.
 
@@ -251,7 +251,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
   - Review the workflows in this section of the [Handbook](https://about.gitlab.com/handbook/support/workflows/#Zendesk).
 - **Sign up for Zendesk (Assignment - 5 Minutes - 10 Points - Pre Work)**
   - All GitLab staff can request a 'Light Agent' account so that you can see customer tickets in Zendesk and leave notes for the Support team. These accounts are free. To request a Light Agent Zendesk account, please send an email to [gitlablightagent.5zjj2@zapiermail.com]. You'll receive an automated reply with the result of your request. NOTE: you must send your request from your GitLab Google / Gmail account. No other addresses will work. The Subject and Body fields of the email can be empty.
-      - Check out the additional information in the [handbook](https://about.gitlab.com/handbook/support/internal-support/#light-agent-zendesk-accounts-available-for-all-gitlab-staff), in [Zendesk](https://www.zendesk.com/company/collaboration-add-on-additional-features/), and on [gitlab.com](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Single_Person_Access_Request). Once the account is created, you'll need to wait 24 hours for it to be assigned in Okta. Once Zendesk is assigned, you should be able to login to Zendesk at https://gitlab.zendesk.com/agent.
+      - Check out the additional information in the [handbook](https://about.gitlab.com/handbook/support/internal-support/#viewing-support-tickets), in [Zendesk](https://www.zendesk.com/company/collaboration-add-on-additional-features/), and on [gitlab.com](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Single_Person_Access_Request). Once the account is created, you'll need to wait 24 hours for it to be assigned in Okta. Once Zendesk is assigned, you should be able to login to Zendesk at https://gitlab.zendesk.com/agent.
 
 ### 12. Technical Deep Dive (SA, TAM, and PSE ONLY)
 *  **GitLab Ultimate Demo (Material - Video - 60 minutes)**
