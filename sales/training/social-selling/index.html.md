@@ -18,6 +18,7 @@ title: "Social Selling"
 ## LinkedIn Sales Navigator
 - [Sales Navigator Customer Hub: Resources](https://business.linkedin.com/sales-solutions/sales-navigator-customer-hub/resources)
 - [Live and On-Demand Training Webinars](https://training.sales.linkedin.com/series/webinars)
+- [Social Selling Index (SSI)](https://business.linkedin.com/sales-solutions/social-selling/the-social-selling-index-ssi)
 
 ## Social Selling Plays
 - Coming soon
