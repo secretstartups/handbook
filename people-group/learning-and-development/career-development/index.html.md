@@ -106,7 +106,7 @@ As part of GitLab's [Transparency](/handbook/values/#transparency) value, team m
 
 ### Performance Enablement Review
 
-Effective from FY21-Q2, on a quarterly basis, each member of the E-Group will have a performance conversation with their direct manager, [CEO](/company/team/#sytses) at the beginning of every quarter. These performance conversations will enable the continued performance improvement and personal development for the E-Group member. These quarterly meetings may include their [Executive Stable Counterpart](/handbook/board-meetings/#executive-stable-counterparts) and their [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) to provide guidance and feedback as part of this conversation. 
+Effective from FY21-Q2, on a quarterly basis, each member of the E-Group will have a performance conversation with their direct manager, the [CEO](/company/team/#sytses), at the beginning of every quarter. These performance conversations will enable the continued performance improvement and personal development for the E-Group member. These quarterly meetings may include their [Executive Stable Counterpart](/handbook/board-meetings/#executive-stable-counterparts) and their [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) to provide guidance and feedback as part of this conversation. 
 
 Performance will be reviewed in three parts which are not all of equal weighting but together make up 100%:
 
