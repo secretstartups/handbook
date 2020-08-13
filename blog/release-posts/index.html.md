@@ -459,9 +459,9 @@ The messaging lead is responsible for:
 - Ordering release post items, both primary and secondary. (see more info [below](#feature-order))
 - [Coordinating Marketing efforts](#marketing-coordination) on release day
 
-#### Identify top three features and themes (18th of the previous month - 11th of the release month)
+#### Identify top features and themes (18th of the previous month - 11th of the release month)
 
-This section provides guidance on how to decide on top 3 features or themes and timelines:
+This section provides guidance on how to decide on top features or themes and timelines:
 
 **Use the handbook guidance below for messaging lead release post preparation and planning. This handbook section is your source of truth from the 18th of the previous month - 11th of the release month.**
 
@@ -481,6 +481,7 @@ This section provides guidance on how to decide on top 3 features or themes and 
     - Oldest Issues - Sort by Created Date. Shortlist a few of the oldest issues
 - **By the 11th of the release month**
     - Shortlist features from the Investor Update from CEO about the top features indicated to investors
+    - Start by looking at Release Post Items labeled ~"release post item::primary"
     - Update your [Release Feature Story Planning](https://docs.google.com/spreadsheets/d/1sU3x6uR5wNTwsYroikdHpToi9tRVlZ4n83vjceXjp9A/edit?usp=sharing) spreadsheet tab as necessary with the shortlist of features based on the previous criteria: Customer Interest, CEO Interest, Popularity, Strategic Issues, and Oldest Issues
     - Optional: Update your [messaging lead story planning doc](https://docs.google.com/document/d/1XoRWJXjWmwdeSE8_bSBcVvBnLhhYdzPW5T8JLYvYVmE/edit?usp=sharing) with potential themes/features based on your shortlist criteria
 
