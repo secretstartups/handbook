@@ -1176,6 +1176,6 @@ Our [mission](/company/strategy/#mission) is that **everyone can contribute**. T
 
 We have a page which documents our [biggest risks](/handbook/leadership/biggest-risks/). Many of our [values](/handbook/values/) help to mitigate some of these risks.
 
-## GitLab Values Certification
+## GitLab Values Knowledge Assessment
 
-Anyone can become certified in our GitLab values. To obtain certification, you will need to complete this [quiz](https://docs.google.com/forms/d/e/1FAIpQLSfuIrMYDMS14OZo8zqMnkk6yiKDhzcnhH7f82aHTOMWHS5uvg/viewform) and earn at least an 80%. Once the quiz has been passed, you will receive an email with your certification that you can share on your personal LinkedIn or Twitter pages. If you have questions, please reach out to our L&D team at `learning@gitlab.com`.
+Anyone can test their knowledge on our GitLab values. To obtain a certificate, you will need to complete this [knowledge assessment](https://docs.google.com/forms/d/e/1FAIpQLSfuIrMYDMS14OZo8zqMnkk6yiKDhzcnhH7f82aHTOMWHS5uvg/viewform) and earn at least an 80%. Once the quiz has been passed, you will receive an email with your certificate that you can share on your personal LinkedIn or Twitter pages. If you have questions, please reach out to our L&D team at `learning@gitlab.com`.
