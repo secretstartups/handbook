@@ -201,7 +201,7 @@ You will receive the grant notice to your GitLab email address. Clicking through
 
 As a helpful hint we suggest that you add a second, personal email address to your profile. This can be added by clicking on Profile and Security in the bottom left hand corner of the home screen after logging in to Carta.
 
-### How to Exercise Your Stock Options<a name="how-to-exercise"></a>
+### How to Exercise Your Stock Options
 
 There are two methods to exercise your shares:
 
