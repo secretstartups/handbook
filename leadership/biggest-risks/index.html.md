@@ -380,7 +380,7 @@ Disruption to GitLab.com's availability is a reputational risk.
 
 We mitigate this risk in a number of ways:
 * we prioritize [security and availability](/handbook/product/#prioritization) over velocity
-* we have multiple [reliability teams](/handbook/engineering/infrastructure/team/reliability/0) who focus on ensuring our infrastructure is reliable.
+* we have multiple [reliability teams](/handbook/engineering/infrastructure/team/reliability) who focus on ensuring our infrastructure is reliable.
 * we have the [scalability team](/handbook/engineering/infrastructure/team/scalability/), whose focuse is to make sure that the application running on that infrastructure is also reliable.
 * we have an [infra-dev escalation process](/handbook/engineering/development/processes/Infra-Dev-Escalation/) created to prioritize issues affecting availability and reliability.  
 * the [Quality Engineering Department](/handbook/engineering/security/#security-operations) makes sure everyone is aware of what the quality of the product is, empirically.
