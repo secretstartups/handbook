@@ -51,11 +51,21 @@ If you have any questions about the process, please post in #eba-team slack chan
 
 Please ensure you have the [guide chrome extension](https://chrome.google.com/webstore/detail/resource-button/ikeemflbkbdhkgmgbdpeapmnnggbfogd) installed on your computer. 
 
-**How to send out a Guide for the first time**
+**Preparing interviewers on Guide website**
+
+1. Login on guide.resource.io
+1. Navigate to the Team tab (it will take a few minutes to load)
+1. Find the first interviewer that the candidate will meet and click on the profile (if there are double profiles, make sure to select the one that only has the slack logo)
+1. Copy and paste the interviewer's GitLab Team Page bio full url (text box does not support links) into the 'Bio' box
+1. If the GitLab team member has a LinkedIn profile linked on their GitLab Team Page bio, also place that into the 'LinkedIn URL' box
+1. If there is no LinkedIn profile on the GitLab Team Page bio, reach out via Slack to the interviewer to get their LinkedIn 
+1. Follow the above steps for all the interviewers on the hiring team - doing this will prevent more manual work on a per candidate basis 
+
+**How to send out a Guide to a candidate for the first time via Greenhouse**
 
 1. Once you have scheduled the interviews that need to be scheduled, click on the guide chrome extension in the upper right corner. 
 1. Select which Guide template you would like to use from the drop-down menu in the “Guide” box
-1. If the req has a Qualified or Justified stage, make sure they are hidden
+1. Please make sure the Application Review, Qualified and Justification stages are hidden by selecting the 'eye' next to those stages and making sure there is a line through it
 1. On the Team Interview stage in the Guide, you will need to do three things
 	1. Select the ‘pencil’ icon next to each interview and copy/paste the zoom link into the Remote Instructions box
 	1. While in that same edit window, update the numbers in front of the interview to reflect which interview it is in the stage (example: If you scheduled the first interview while there are 5 interviews within the Team Interview stage, the number in front of the scheduled interview should be 1 of 5, so on and so forth).  
