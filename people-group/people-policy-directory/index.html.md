@@ -192,19 +192,19 @@ Finance team members **only** will be required to participate in a federal check
 
 ### Job Abandonment
 
-When a team member is absent from work for three consecutive workdays, there is no entry on the availability calendar for time off, and fails to contact his or her supervisor, they can be [terminated](/handbook/people-group/offboarding/#involuntary-terminations) for job abandonment unless otherwise required by law.
+When a team member is absent from work for three consecutive workdays, there is no entry on the availability calendar for time off, and fails to contact his or her supervisor, they can be [terminated](/handbook/people-group/offboarding/#involuntary-offboarding) for job abandonment unless otherwise required by law.
 
-If a manager is unable to reach a team member via email or slack within a 24 hour period they should contact their [People Business Partner](/handbook/people-group/how-to-reach-us/#people-business-partner-alignment-to-groups). The People Business partner will access the team member's information to obtain additional contact methods and numbers. The manager and People Business Partner will create an action plan to make all attempts to contact the team member.
+If a manager is unable to reach a team member via email or slack within a 24 hour period they should contact their [People Business Partner](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group). The People Business partner will access the team member's information to obtain additional contact methods and numbers. The manager and People Business Partner will create an action plan to make all attempts to contact the team member.
 
 ### Other People Policies
 
 * [United States Employment Status](/handbook/contracts/#united-states-employment-status)
 * [PIAA Agreements](/handbook/contracts/#piaa-agreements)
 * [360 Feedback](/handbook/people-group/360-feedback/)
-* [Return of Property](/handbook/people-group/offboarding/#returning-property)
+* [Return of Property](/handbook/people-group/offboarding/#returning-property-to-gitlab)
 * [Promotions and Transfers](/handbook/people-group/promotions-transfers/)
 * [General Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/)
-* [Entity Specific Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-specific-benefits)
+* [Entity Specific Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/#general-and-entity-benefits)
 * [Parental Leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave)
 * [Paid Time Off](/handbook/paid-time-off/)
 * [Probation Period](/handbook/contracts/#probation-period)
