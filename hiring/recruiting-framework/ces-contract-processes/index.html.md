@@ -405,6 +405,7 @@ Please note, due to German labor law, the stock options are not included in the 
 
 ## Employment Agreements for GitLab team-members in Japan
 
+In this location, a temporary contract is for 1 year (12 Months) with a pre-deterined end date.
 1. The Candidate Experience Specialist emails the new team member to gather additional details required to generate the contract.
     - From the GreenHouse profile, under tools, click to email the new team member
     - From the template drop-down list select: Contract Info Request - Safeguard
