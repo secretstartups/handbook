@@ -680,11 +680,11 @@ The 2020 Security Training is delivered through the KnowBe4 platform that includ
 * [The slides](https://docs.google.com/presentation/d/1VqOiGJDZ1vDiVVMgrw3ILxx1ot1-nM8jGzDcWylLTpM) - the slides used in the introduction video.
 * Special topics covered:
   * [Suspected phishing](/handbook/security/#phishing-tests)
-  * [Acceptable Use](/handbook/people-operations/acceptable-use-policy/)
+  * [Acceptable Use](/handbook/people-group/acceptable-use-policy/)
   * [Device Lost or Stolen?!](/handbook/security/#panic-email)
     * email: `panic@gitlab.com`
   * [Data Classification](/handbook/engineering/security/data-classification-policy.html)
-  * [No Red Data on Unapproved Locations](/handbook/people-operations/acceptable-use-policy/#security-and-proprietary-information)
+  * [No Red Data on Unapproved Locations](/handbook/people-group/acceptable-use-policy/#security-and-proprietary-information)
 
 ### Training Feedback
 You are strongly encouraged to engage the team behind the training and provide feedback, or ask any questions related to the content of the training. You can do that through:
