@@ -27,26 +27,15 @@ _Note_ - For GMAU and SMAU there is a desire for these metrics to be the unique 
 
 ## Product PI Workflow
 
-Our PI workflow contains several components. 
+The PI workflow outlines the steps for putting product performance indicators in place.
 
-1. Privacy Policy: Our Privacy Policy outlines what data we can collect.
-1. Collection Framework: Our Collection Framework is our tooling (Usage Ping and Snowplow) for collecting product usage data .
-1. Event Dictionary: Our Event Dictionary is our single source of truth for all the metrics and events we collect in our product.
-1. Instrument Tracking: The Instrument Tracking step includes the instrumentation work done by each product team to put data collection in place.
-1. Data Available: The Data Availability step outlines the timing from releasing data collect code as part of a self-managed release to receiving actual product usage data in the data warehouse.
-1. Data Warehouse: Our Data Warehouse holds all of our product usage data.
-1. Data Model: The Data Modelling step outlines how we transform raw data into a structure suitable for analysis.
-1. Dashboard: The Dashboarding step outlines how Sisense dashboards are built.
-1. Handbook PI Page: Our Handbook PI Page lists all of product's performance indicators including dashboards and descriptions.
-1. Target Defined: The Target Definition step is how we set targets for each performance indicator.
-
-
-
-
-
-
-
-
-
-
-
+1. Privacy Policy: The [Privacy Policy](https://about.gitlab.com/privacy/) step describes what product usage data we can collect from our users.
+1. Collection Framework: The [Collection Framework](https://docs.gitlab.com/ee/development/telemetry/index.html#telemetry-guide) step describes our available tooling for collecting product usage data.
+1. Event Dictionary: The [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit?usp=sharing) step outlines  our single source of truth of the product metrics and events we collect.
+1. Instrument Tracking: The [Instrumentation](https://docs.gitlab.com/ee/development/telemetry/usage_ping.html#implementing-usage-ping) step outlines how each product team implements data collection.
+1. Data Available: The [Data Availability](https://about.gitlab.com/upcoming-releases/) step outlines the timing of a product release to receiving product usage data in the data warehouse.
+1. Data Warehouse: The [Data Warehouse](https://gitlab.snowflakecomputing.com/console#/internal/worksheet) step outlines where our product usage data is stored.
+1. Data Model: The [Data Modelling](https://dbt.gitlabdata.com/#!/overview) step outlines how we transform raw data into a data structure that's ready for analysis.
+1. Dashboard: The [Dashboarding](https://about.gitlab.com/handbook/business-ops/data-team/programs/data-for-product-managers/#creating-charts) step outlines how Sisense dashboards are built.
+1. Handbook PI Page: The [Handbook PI Page](https://about.gitlab.com/handbook/product/performance-indicators/) describes how product performance indicators are added for each product section, stage, and group.
+1. Target Defined: The Target Definition step outlines how targets are defined for each performance indicator.
