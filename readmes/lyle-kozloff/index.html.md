@@ -149,6 +149,16 @@ I like hearing about situations in your week because:
 
 **Don't save urgent matters for a 1-1**
 
+### Strength of Feeling Scale
+Somtimes I'll express an opinion with a strength qualifier. The scale is 1-10.
+1 - Strongly opposed
+5 - True Neutral
+10 - Strongly for
+
+Confusingly, I may be strongly **for** a negative. For example: "No, I'm like a 9 against that." 
+Strictly following my own system, I should say "2"... but I think it's more easily understood phrased like that.
+
 ### Other
 - My expectations are sometimes expressed softly. If there is any doubt about whether
 something I say is an expectation, a suggestion or an idea please ask.
+
