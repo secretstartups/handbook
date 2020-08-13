@@ -161,7 +161,7 @@ depending on the outcome of the call, the recruiting team or manager may either 
     * Note that, when scheduling a start date, People Ops Specialists require at least 4 days notice from the receipt of an executed offer until the GitLab team-member's proposed first day.
 1.  The manager follows up to ensure that the offer is accepted and that the contract is signed.
 1.  Candidate Experience Specialists [starts the onboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding.md).
-1.  The hiring manager considers [closing the vacancy](/handbook/hiring/vacancies/#closing-a-vacancy).
+1.  The hiring manager considers [closing the vacancy](/handbook/hiring/vacancies/#closing-a-requisition).
 
 </details>
 
