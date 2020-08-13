@@ -434,7 +434,7 @@ Leveraging campaign aligns our efforts across Marketing, Sales and Finance. For 
 
 The Marketo programs for the corresponding campaign types have been prebuilt to include all the possible necessary smart campaigns, email programs, reminder emails and tokens that are to be leveraged in the building of the program.
 
-You can find a breakdown of all Marketo program types and progression statuses in the [Marketing Operations handbook](/handbook/marketing/marketing-operations/#campaigns/)
+You can find a breakdown of all Marketo program types and progression statuses in the [Marketing Operations handbook](/handbook/marketing/marketing-operations/#campaigns)
 
 ##### Reports and Dashboard Naming Convention 
 
