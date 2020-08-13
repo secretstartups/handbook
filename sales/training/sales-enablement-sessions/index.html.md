@@ -22,7 +22,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC                                                                    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|
-| Aug 13 | Gainsight Overview for Sales                                             | Jeff Beaumont | 
 | Aug 20 | Q3 FY21 GitLab Product Release Update for Sales                          | Brian Glanz       |
 | Aug 27 | ROI Analysis                                                             | Mahesh Kumar, Sales (TBD)                       |
 |  Sep 3 | Demystifying the Metrics Conversation                                    | David Somers, John Jeremiah, Sales (TBD)        |
@@ -39,20 +38,21 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
-|  2020-08-06 | **[The Value of Professional Services: A CFO's Perspective](https://youtu.be/arF-6BBRAxU)**         | Private |
-| 2020-07-16 | **[The GitLab Journey & the GitOps Use Case](https://youtu.be/Ap14indu2-w)**     | Public                        |
-| 2020-07-14  | **[Special: Forrester TEI Report](https://youtu.beJ_6QgemCz2E)**                   | Private           |
-| 2020-07-09 | **[Channel Partner Success for GitLab Sellers](https://youtu.be/OeykHQetd7U)**          |   Private              |
-| 2020-07-02 | **[Closing Best Practices](https://youtu.be/y3iLSsAD24s)**          |   Private              |
-| 2020-06-25 | **[Q2 FY21 Competitive Update](https://youtu.be/S_z_hgf3ASc)**                                       | Private |
-| 2020-06-18 | **[NEW Forrester TEI Report](https://youtu.be/AwYPuWruCjE)**                         | Private  |
-| 2020-06-11  | **[Best Practices for Selling Premium/Silver and Ultimate/Gold](https://youtu.be/jvMPcLdQNI0)**    | Private
-| 2020-06-04  | **[Q2 FY21 GitLab Product Release Update](https://youtu.be/36-G7teGhwY)**     | Public
-| 2020-06-01  | **[GitLab Pricing Overview](https://youtu.be/qn4rlhJ21Nw)**                        | Private
-| 2020-05-21  | **[Competitive Update: GitHub Support](https://youtu.be/HY1bffR8Kfc)**                  | Private                   
-| 2020-05-14  | **[Compliance](https://youtu.be/MRaCKYDXmuI)**                                 | Public |                      
-| 2020-05-08 | **[Quarterly Co-Terms](https://youtu.be/CnLfeDhbzcM)**                      | Private |
-| 2020-05-07 | **[Operational Efficiencies](https://youtu.be/8z1ek4Qwnqw)**              | Public |
+| 2020-08-13 | **[Gainsight Overview for Sales](https://youtu.be/mBdVeZJKthw)** | Private | 
+| 2020-08-06 | **[The Value of Professional Services: A CFO's Perspective](https://youtu.be/arF-6BBRAxU)** | Private |
+| 2020-07-16 | **[The GitLab Journey & the GitOps Use Case](https://youtu.be/Ap14indu2-w)** | Public |
+| 2020-07-14  | **[Special: Forrester TEI Report](https://youtu.beJ_6QgemCz2E)** | Private |
+| 2020-07-09 | **[Channel Partner Success for GitLab Sellers](https://youtu.be/OeykHQetd7U)** | Private |
+| 2020-07-02 | **[Closing Best Practices](https://youtu.be/y3iLSsAD24s)** | Private |
+| 2020-06-25 | **[Q2 FY21 Competitive Update](https://youtu.be/S_z_hgf3ASc)** | Private |
+| 2020-06-18 | **[NEW Forrester TEI Report](https://youtu.be/AwYPuWruCjE)** | Private |
+| 2020-06-11  | **[Best Practices for Selling Premium/Silver and Ultimate/Gold](https://youtu.be/jvMPcLdQNI0)** | Private |
+| 2020-06-04  | **[Q2 FY21 GitLab Product Release Update](https://youtu.be/36-G7teGhwY)** | Public |
+| 2020-06-01  | **[GitLab Pricing Overview](https://youtu.be/qn4rlhJ21Nw)** | Private |
+| 2020-05-21  | **[Competitive Update: GitHub Support](https://youtu.be/HY1bffR8Kfc)** | Private |                 
+| 2020-05-14  | **[Compliance](https://youtu.be/MRaCKYDXmuI)** | Public |                      
+| 2020-05-08 | **[Quarterly Co-Terms](https://youtu.be/CnLfeDhbzcM)** | Private |
+| 2020-05-07 | **[Operational Efficiencies](https://youtu.be/8z1ek4Qwnqw)** | Public |
 | 2020-05-01 | **[Top 10 Reasons NOT to Start with GitLab Starter](https://youtu.be/Np8MyDorw5U)** | Public |
 | 2020-04-16 | **[Competitive Update: GitHub](https://youtu.be/1iMBhe0wUdI)** | Private |
 | 2020-04-09 | **[Professional Services Offerings & Positioning](https://youtu.be/_04S2JhVZ5A)** | Private |
