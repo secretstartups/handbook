@@ -51,17 +51,6 @@ the majority of the issues you will encounter. For those not detailed there, it
 is recommended to either talk to an Escalation Point about the issue or make a
 MR to add the details to that page.
 
-## Escalation Points
-
-For issues that go outside the norm, you would want to reach out to one of our
-L&R queue escalation points:
-
-* Tom H (AMER)
-* Donique (EMEA)
-* Rotanak (APAC)
-
-These agents are trained in handling the non-standard L&R related issues and
-can help work through them.
 
 ## Where do licensing questions go?
 
