@@ -111,8 +111,8 @@ Live Learning sessions will be conducted on a monthly basis. There will be a Zoo
 <li>January - <a href="https://youtu.be/crkPeOjkqTQ">Compensation Review: Manager Cycle (Compaas)</a></li>
 <li>January - <a href="/company/culture/inclusion/being-an-ally/">Ally Training</a></li>
 <li>February - <a href="/handbook/people-group/guidance-on-feedback/#receiving-feedback">Receiving Feedback</a></li>
-<li>June - <a href="/handbook/people-group/guidance-on-feedback/#delivering-feedback">Delivering Feedback</a></li>
-<li>June - <a href="/company/culture/inclusion/unconscious-bias/">Recognizing Bias</a></li> 
+<li>June - <a href="/handbook/people-group/guidance-on-feedback/#guidelines-for-delivering-feedbackck">Delivering Feedback</a></li>
+<li>June - <a href="/company/culture/inclusion/unconscious-bias/">Recognizing Bias</a></li>
 </ul>
 
 <b>2019</b>

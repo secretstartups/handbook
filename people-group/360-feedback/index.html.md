@@ -93,7 +93,7 @@ If you feel overwhelmed by the number of team members that have requested feedba
 - Keep it actionable- always describe behaviors, not traits. Focus on what the person can actually do something about going forward (i.e. more of, less of, keep doing - "it would be good to see more of X as it leads to Y".)
 - Be respectful AND honest - development feedback can at times be challenging to give.  Keep in mind the purpose of the survey is for development and not to judge or evaluate performance.
 
-If you would like to learn more, we held a [Delivering Feedback Live Learning course](/handbook/people-group/guidance-on-feedback/#delivering-feedback) on 2020-06-08. 
+If you would like to learn more, we held a [Delivering Feedback Live Learning course](/handbook/people-group/guidance-on-feedback/#guidelines-for-delivering-feedback) on 2020-06-08.
 
 **General Tips:**
 * It is ok to skip a question by typing N/A if you don't have meaningful feedback in that area. Don't create a "story" where there is none.
