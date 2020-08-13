@@ -92,7 +92,7 @@ If you or a loved one is ill, we want you to take care of yourself or your loved
 
 You still need to report when you take sick time, by entering the dates as an `Out Sick` type of OOO event in [PTO Ninja](/handbook/paid-time-off/#pto-ninja) via Slack. Once entered in PTO Ninja, your sick time will be automatically updated in BambooHR and payroll can note and update any other systems as needed.
 
-If you need sick leave for more than 8 consecutive calendar days, follow the instructions in the [Communicating Illness-Related Leave](/handbook/paid-tim-off/#communicating-illness-related-leave) section. 
+If you need sick leave for more than 8 consecutive calendar days, follow the instructions in the [Communicating Illness-Related Leave](/handbook/paid-time-off/#communicating-illness-related-leave) section.
 
 
 #### Sick Time Procedures - USA
