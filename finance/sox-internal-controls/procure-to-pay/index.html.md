@@ -81,10 +81,10 @@ There are 3 contract templates to be used, depending on the type purchase.
 
 - STEP 2:
 
-  Any unsigned contract/quotes are attached [here](https://drive.google.com/open?id=1Xes_98GXt4B1JLT88ZyojPJnEO6T_LpI), and the box is checked off. The number of bids to be acquired is according to  spend amount [Link to authorization matrix](/handbook/finance/procurement/#prior-to-contacting-procurement).
+  Any unsigned contract/quotes are attached [here](https://drive.google.com/open?id=1Xes_98GXt4B1JLT88ZyojPJnEO6T_LpI), and the box is checked off. The number of bids to be acquired is according to  spend amount [Link to authorization matrix](/handbook/finance/procurement/prior-to-contacting-procurement/).
 
     * Spends above $100k require multiple bids while spends above $250k require a RFP. Vendr helps GitLab get bids for Software spends, and an intake form on Vendor’s website can be submitted [here](https://www.vendr.com/intake-form) **(P2P.C.02)**. 
-  A bid waiver can be requested from the functional leader and procurement on the issue. Negotiation with the vendor and  quote obtainment also occurs here. After these bids are obtained, they are compared. This comparison is done on a case by case basis. Internal discussion is done on a separate, confidential issue, where the bids are uploaded and compared, and the requestor/team reaches out to the vendors directly to negotiate. GitLab requires a contract even if the vendor doesn’t, and in this case legal can and will provide [contract terms] (/handbook/finance/Procurement/vendor-terms-and-conditions/) to govern the transaction based on the level of risk. 
+  A bid waiver can be requested from the functional leader and procurement on the issue. Negotiation with the vendor and  quote obtainment also occurs here. After these bids are obtained, they are compared. This comparison is done on a case by case basis. Internal discussion is done on a separate, confidential issue, where the bids are uploaded and compared, and the requestor/team reaches out to the vendors directly to negotiate. GitLab requires a contract even if the vendor doesn’t, and in this case legal can and will provide [contract terms] (/handbook/finance/procurement/vendor-terms-and-conditions/) to govern the transaction based on the level of risk. 
 
     * The annual budgeted amount (total annual amount in the budget) is entered and this box is checked off.
     * The expected Return on Investment is calculated and entered and the box is checked off. 
@@ -257,7 +257,7 @@ There are 3 contract templates to be used, depending on the type purchase.
 <br>
 
 * STEP 2:
-  * Any unsigned contract/quotes are attached [here](https://drive.google.com/open?id=1X4T6x6yi2AZf8JZG7q1JMN5ouC4ivA3Z), and the box is checked off. The number of bids to be acquired is according to  spend amount [Link to bid requirements](/handbook/finance/procurement/#prior-to-contacting-procurement).
+  * Any unsigned contract/quotes are attached [here](https://drive.google.com/open?id=1X4T6x6yi2AZf8JZG7q1JMN5ouC4ivA3Z), and the box is checked off. The number of bids to be acquired is according to  spend amount [Link to bid requirements](/handbook/finance/procurement/prior-to-contacting-procurement/).
 
   Spends above $100k require multiple bids while spends above $250k require a RFP **(P2P.C.02)**. A bid waiver can be requested from the functional leader and procurement on the issue. 
   Negotiation with the vendor and  quote obtainment also occurs here. After these bids are obtained, they are compared. This comparison is done on a case by case basis. Internal discussion is done on a separate, confidential issue, where the bids are uploaded and compared, and the requestor/team reaches out to the vendors directly to negotiate.  
