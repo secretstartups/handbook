@@ -112,7 +112,7 @@ As part of the deployment to this environment, a set of automated QA integration
 When the automated QA test pass, the deployment automatically progresses to the
 [canary] stage.
 
-### Release blockers
+### Deployment blockers
 
 Automated deployments to **any production environment** (including [canary]), are
 halted during the change lock period. Currently, the change lock period is:
