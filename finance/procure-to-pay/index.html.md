@@ -12,7 +12,7 @@ title: "Vendor Contracts and Invoice Payment"
 ## Procure to Pay Process
 
 ### Requirement Identification
-Team members can purchase goods and services on behalf of the company in accordance with the [Signature Authorization Matrix](/handbook/finance/authorization-matrix/) and guide to [Spending Company Money](/handbook/spending-company-money). However, any purchases requiring contracts must first be reviewed by procurement then signed off by a member of the executive team. Be sure to also check out our guide on [Signing Legal Documents](/handbook/finance/authorization-matrix/#signing-legal-documents/).
+Team members can purchase goods and services on behalf of the company in accordance with the [Signature Authorization Matrix](/handbook/finance/authorization-matrix/) and guide to [Spending Company Money](/handbook/spending-company-money). However, any purchases requiring contracts must first be reviewed by procurement then signed off by a member of the executive team. Be sure to also check out our guide on [Signing Legal Documents](/handbook/finance/authorization-matrix/#signing-legal-documents).
 
 #### Vendor Code of Ethics
 All vendors that GitLab does business with, must legally comply with the [Supplier Code of Ethics](/handbook/people-group/code-of-conduct/#partner-code-of-ethics). When having discussions with your vendor regarding the contract, make them aware of this requirement.
