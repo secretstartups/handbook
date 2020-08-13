@@ -23,7 +23,7 @@ Please feel free to contribute to this page by opening a merge request.
 - I have many strong opinions, but they’re [weakly held](https://blog.codinghorror.com/strong-opinions-weakly-held/). I love finding a new perspective that makes me change my opinion, because it means that I’ve gotten a chance to learn something substantive and new.
 - I still struggle with imposter syndrome.
 
-While all of GitLab’s values are extremely important to me, our values of [collaboration](/handbook/values/#collaboration), [diversity, inclusion and belonging](/handbook/values/#diversity--inclusion), and [transparency](/handbook/values/#transparency) are particularly dear to me.
+While all of GitLab’s values are extremely important to me, our values of [collaboration](/handbook/values/#collaboration), [diversity, inclusion and belonging](/handbook/values/#diversity-inclusion), and [transparency](/handbook/values/#transparency) are particularly dear to me.
 
 ### 360 Feedback
 
