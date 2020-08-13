@@ -1246,7 +1246,11 @@ merge request by converting each PNG to PNG 8 (8 bit, 256 colors) using
 - {:#cover-image} **Cover image**:
 use a unique cover image for every post, usually from [Unsplash](https://unsplash.com/), and add
 [the required copyright info](#cover-image-license) into the Yaml file.
-This image should be eyes-catching, inspiring and avoid images of people. Suggested aspect ratio is 3:1 and resolution should be enough to be good-looking on big displays.
+This image should be eyes-catching, inspiring and avoid images of people. Suggested aspect ratio is 3:1 and resolution should be enough to be good-looking on big displays. To test the image and see how it fits (without waiting for a build or running the handbook locally):
+  - Navigate to a previous release post
+  - Using a web inspector find the element `<div class="cover" style="background-image: url();">`
+  - Inside of `url()` replace the string with the URL of the upsplash image (the actual URL of the image, you may need to right-click the image and slect "copy image address")
+  - Hit the enter key and you should see the image render inside of your web browser
 - {:#image-shadow} **Image shadow**:
 when you add images though the text,
 make sure all images have the class shadow applied:
