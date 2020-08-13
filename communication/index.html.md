@@ -926,7 +926,7 @@ The alphabetically sorted starter list below spotlights a few of GitLab's [many 
 | `#mr-buddies` | For any questions regarding merge requests. |
 | `#new_team_members` | For new GitLab team members to introduce themselves to the company and for existing team members to share updates with new hires. |
 | `#office-today` | GitLab is an [all-remote](/company/culture/all-remote/) organization. Where’s your office today? Share a photo or use words to describe it. |
-| `#payroll` | For questions pertaining to [payroll](/handbook/finance/payroll/) and [contractor invoices](/handbook/finance/payroll/#non-us/) (e.g. ADP, etc.). |
+| `#payroll` | For questions pertaining to [payroll](/handbook/finance/payroll/) and [contractor invoices](/handbook/finance/payroll/#non-us) (e.g. ADP, etc.). |
 | `#peopleops` | For general People Ops questions (e.g. [onboarding](/handbook/people-group/general-onboarding/), [offboarding](/handbook/people-group/offboarding/), [team meetings](/company/culture/all-remote/meetings/), etc.). |
 | `#questions` | For any general help with anything, really, and Git. If you have a question but you're not sure in which channel you should ask it, questions is always a great place! |
 | `#random` | Anything and everything from photos, news, food, music, etc. |
