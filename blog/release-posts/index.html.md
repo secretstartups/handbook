@@ -459,7 +459,7 @@ The messaging lead is responsible for:
 - Ordering release post items, both primary and secondary. (see more info [below](#feature-order))
 - [Coordinating Marketing efforts](#marketing-coordination) on release day
 
-#### Identify top features and themes (18th of the previous month - 11th of the release month)
+#### Identify top three features and themes (18th of the previous month - 11th of the release month)
 
 This section provides guidance on how to decide on top 3 features or themes and timelines:
 
