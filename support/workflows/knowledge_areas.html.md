@@ -70,14 +70,14 @@ If you need help with scripting for fixes, internal tools, or any other reason.
 | JavaScript              | APAC   | Wei-Meng Lee <br> Arihant <br> Anton <br> Athar                           |
 |                         | EMEA   | Ronald <br> Catalin <br> Alin                                             |
 |                         | AMER   | Davin <br> Phil <br> Sara                                                 |
-| Vue.js                  | APAC   | Wei-Meng Lee <br> Athar <br>                                               |
+| Vue.js                  | APAC   | Wei-Meng Lee <br> Athar                                                   |
 |                         | AMER   | Sara
 |                         | EMEA   | Catalin                                                                   |
 | Ansible                 | AMER   | JasonY                                                                    |
 |                         | EMEA   | Shem                                                                      |
 |                         | APAC   | Wei-Meng Lee <br> Julian <br> Mike <br> Priyan <br> AlexS <br> Athar      |
 | Zendesk app development | EMEA   | DeAndre                                                                   |
-| Bash                    | APAC   | Mike <br> Priya <br> AlexS <br> Duncan <br>                                    |
+| Bash                    | APAC   | Mike <br> Priya <br> AlexS <br> Duncan <br>                               |
 |                         | EMEA   | David Wainaina <br> Catalin <br> Rehab <br> Alin <br> VladB               |
 |                         | AMER   | Davin <br> Lewis                                                          |
 | Python                  | APAC   | Matthew <br> Athar                                                        |
@@ -99,6 +99,7 @@ This section is ordered by stage and group according to the [product categories 
 | SAML           | AMER   | Blair <br> Diana <br> JasonC                     |
 |                | APAC   | Anton <br> Arihant                               |
 | SSO for Groups | AMER   | Cynthia <br> Tristan <br> Arihant                |
+|                | APAC   | Arihant                |
 
 ##### Import
 
@@ -165,8 +166,8 @@ This section is ordered by stage and group according to the [product categories 
 | ------------------- | ------ | --------------------------------------------------------------------------------------------- |
 | CI                  | EMEA   | DeAndre <br> Ronald <br> Silvester <br> David Wainaina <br> Shem <br> VladB                   |
 |                     | AMER   | Cynthia <br> Harish <br> Cody West <br> Cleveland <br> Gabe <br> Caleb W. <br> Phil <br> Brie |
-|                     | APAC   | Alex Tanayno <br> Athar <br> Arihant <br> Priyan <br> Anton <br> Sameer <br> Sara                   |
-| Jenkins Integration | AMER   | Aric <br> Sara                                                                                     |
+|                     | APAC   | Alex Tanayno <br> Athar <br> Arihant <br> Priyan <br> Anton <br> Sameer <br> Sara             |
+| Jenkins Integration | AMER   | Aric <br> Sara                                                                                |
 
 ##### Runner
 
@@ -174,7 +175,7 @@ This section is ordered by stage and group according to the [product categories 
 | ------------------- | ------ | ------------------------------------ |
 | GitLab Runner       | APAC   | Alex Tanayno <br> Arihant <br> Anton <br> Athar |
 |                     | EMEA   | Ronald <br> Silvester                |
-|                     | AMER   | Davin <br> Phil <br>Sara                     |
+|                     | AMER   | Davin <br> Phil <br>Sara             |
 | Kubernetes Executor | AMER   | Phil                                 |
 |                     | EMEA   |                                      |
 |                     | APAC   |                                      |
@@ -266,12 +267,9 @@ This section is ordered by stage and group according to the [product categories 
 
 | Topic                | Region | Team Member                                            |
 | -------------------- | ------ | ------------------------------------------------------ |
-| License and Renewals | AMER   | Blair <br> Cynthia <br> David C <br> Harish <br> Keven |
-|                      | APAC   | Jerome <br> Sameer                                     |
-|                      | EMEA   | Rene                                                   |
-| Escalation Points    | EMEA   | Donique                                                |
-|                      | AMER   | Tom H <br> Keven                                                 |
-|                      | APAC   | Rotanak                                                |
+| License and Renewals | AMER   | Tom H <br> Keven <br> Kaitlyn <br> James M <br> Eric   |
+|                      | APAC   | Rotana <br> Sameer                                     |
+|                      | EMEA   | Rene <br> Donique                                      |
 
 #### Enablement
 
@@ -287,20 +285,19 @@ This section is ordered by stage and group according to the [product categories 
 
 | Topic          | Region | Team Member                                     |
 | -------------- | ------ | ----------------------------------------------- |
-| Geo            | EMEA   | Alin <br> Catalin <br> Collen                              |
+| Geo            | EMEA   | Alin <br> Catalin <br> Collen                   |
 |                | AMER   | Aric <br> Harish <br> John <br> Gabe <br> Lewis |
 |                | APAC   | Anton <br> AlexS                                |
 | Backup/Restore | EMEA   |                                                 |
 |                | AMER   | Davin <br> Lewis                                |
-|                | APAC   | AlexS                                                |
+|                | APAC   | AlexS                                           |
 
 ##### Database
 
 | Topic               | Region | Team Member |
 | ------------------- | ------ | ----------- |
 | PostgreSQL          | EMEA   | Ben         |
-|                     | AMER   | Sara            |
+|                     | AMER   | Sara        |
 |                     | APAC   | Mike        |
 | Database Migrations | EMEA   | Rehab       |
-|                     | AMER   | Sara            |
-|                     | APAC   |             |
+|                     | AMER   | Sara        |
