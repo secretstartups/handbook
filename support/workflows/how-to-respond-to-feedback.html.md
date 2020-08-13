@@ -57,6 +57,8 @@ For reviews with a "satisfaction::bad" rating, follow this process.
      - Known issue with Issue already created  
    * feedback::lacking-info
      - Not enough information supplied to progress investigation in ticket
+   * feedback::customer-resolved
+     - The customer resolved the ticket
 
 **Note:** For the full list of feedback labels and their descriptions, visit the [labels page in the support-feedback project](https://gitlab.com/gitlab-com/support/feedback/-/labels?utf8=%E2%9C%93&subscribed=&search=feedback%3A%3A).
 
