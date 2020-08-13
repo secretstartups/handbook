@@ -24,7 +24,7 @@ In order to provide a useful single metric for [product groups](https://about.gi
 _Note_ - For GMAU and SMAU there is a desire for these metrics to be the unique users across the aggregate of associated AMAU's but current limitations in how we receive usage ping data (already aggregated per event) means that is not currently possible. There is work to [create de-duplicated GMAU and SMAU metrics in Usage Ping underway](https://gitlab.com/gitlab-org/telemetry/-/issues/421).
 
 Each xMAU metric should have three versions:
-* Current = reported .com xMAU + reported self-managed xMAU 
+* Reported = reported .com xMAU + reported self-managed xMAU 
 * Estimated = reported .com xMAU + estimated self-managed xMAU.  The purpose of the estimated metric is to account for the fact that only 35% of self-managed instances report back xMAU data.  The estimation is methodology is described [here:](https://app.periscopedata.com/app/gitlab/672950/[WIP]-Estimated-SMAU-MAU---Self-Hosted-(inaccurate))
 * Projected = (reported .com xMAU + estimated self-managed xMAU) * 1 + current MoM growth rate * 36 months.  The purpose of the projected metric is to gain a sense for what usage could look like in 3 years at current growth rates.
 
