@@ -401,7 +401,7 @@ Prior to generating a standard (non-draft) quote to deliver to a client or prosp
 
 Under the [**GitLab Partner Program**](/handbook/resellers/#gitlab-partner-program-overview), signed Channel Partners are granted specific, contractual discounts depending on the Partner Deal Type, the Partner Engagement type, and the Partner's program track (Open vs. Select). This information is automatically captured at the opportunity level. For more information, review the [SFDC Field Definitions](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#managing-channel-opportunities) and the [Partner Program Discount Table](https://gitlab.my.salesforce.com/0694M000008xAk4QAE?so=pvt).
 
-**Quote Approvals:** Effective Wednesday, August 12th, the quote approval module has been updated to systematically identify channel deals (subscription deals only) and manage the necessary approvals automatically. **To request approval on a quote, follow the steps above: [Standard Quote Approval](/handbook/business-ops/order-processing/#standard-quote-approval)**
+**Quote Approvals:** Effective August 2020, the quote approval module has been updated to systematically identify channel deals (subscription deals only) and manage the necessary approvals automatically. **To request approval on a quote, follow the steps above: [Standard Quote Approval](/handbook/business-ops/order-processing/#standard-quote-approval)**
 
 For a full overview of required channel quote approvals, select the appropriate scenario below:
 
