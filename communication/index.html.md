@@ -1115,6 +1115,6 @@ If you add blocks of time spent on recurring tasks to your Google Calendar to re
 See the [YouTube page](/handbook/marketing/marketing-operations/youtube/) for options and instructions for posting recordings and live streaming to our YouTube channels.
 
 
-## Communication Certification
+## GitLab Communication Knowledge Assessment
 
-Anyone can become certified in GitLab Communication. To obtain certification, you will need to complete this [quiz](https://docs.google.com/forms/d/e/1FAIpQLScyyIQDdC3oN-H6-IJJM1QlZNHaGPI0jESb9ogAfkQlMzKgwQ/viewform) and earn at least an 80%. Once the quiz has been passed, you will receive an email with your certification that you can share on your personal LinkedIn or Twitter pages. If you have questions, please reach out to our L&D team at `learning@gitlab.com`.
+Anyone can test their knowledge on GitLab Communication. To obtain a certificate, you will need to complete this [knowledge assessment](https://docs.google.com/forms/d/e/1FAIpQLScyyIQDdC3oN-H6-IJJM1QlZNHaGPI0jESb9ogAfkQlMzKgwQ/viewform) and earn at least an 80%. Once the quiz has been passed, you will receive an email with your certificate that you can share on your personal LinkedIn or Twitter pages. If you have questions, please reach out to our L&D team at `learning@gitlab.com`.
