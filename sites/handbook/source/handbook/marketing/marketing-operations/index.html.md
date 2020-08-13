@@ -125,6 +125,22 @@ We use Labels for several purposes. One is to categorize the tool or area that i
 - `MktgOps::4 - UAT`: Issues that MktgOps has completed its required tasks for and is ready for User Acceptance Testing/review and approval by the Requester/Approver.
 - `MktgOps::7 - Completed`: MktgOps has completed their task on this issue although the issue may not be closed. The hope is that we will be using this one less as we simply scope an issue so that MktgOps can just close it when complete.
 
+**Handbook Updates**   
+When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` handbook pages (or sub-pages), please use one of the following corresponding labels on the MR. This drives a new Zapier workflow that will push the MR (upon merge) to one of the following related Slack channels:    
+
+*Channels*
+1. `hbupdate-abm`
+1. `hbupdate-fmm`
+1. `hbupdate-mktgops`
+1. `hbupdate-sdr`
+
+*Labels*
+1. `MktgOps-HB Update`
+1. `FMM-HB Update`
+1. `SDR-HB Update`
+1. `ABM-HB Update`
+
+
 ## Operations Work Cadence   
 
 The MktgOps team works in two week sprints/iterations which are tracked as **Milestones** at the `GitLab.com` level. Each Ops individual contributor (IC) is responsible for adding issues to the milestone that will be completed in the two week time frame. If needed, the IC will separate the main issue into smaller pieces that are *workable* segments of the larger request.   
