@@ -58,7 +58,7 @@ title: People Group Vision
 1. Be as flexible as possible while keeping the organization safe from harm
 1. Using product and processes (issue boards and sprints).
 1. Create and deliver product aligned with the business.
-1. Default to [transparency](/handbook/values/#sts=Transparency). Only make something confidential if it is explicitly so.
+1. Default to [transparency](/handbook/values/#transparency). Only make something confidential if it is explicitly so.
 
 ## Compliant
 
