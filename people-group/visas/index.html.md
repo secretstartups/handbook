@@ -67,7 +67,7 @@ If you need a letter confirming that you are covered under the GitLab Business T
 
 ## Dutch Work Permits
 
-Some of our GitLab team-members in the Netherlands have a "werkvergunning" or work permit under the [highly skilled migrants](https://ind.nl/en/work/Pages/Highly-skilled-migrant.aspx) category of the Immigration and Naturalization Service (IND).
+Some of our GitLab team-members in the Netherlands have a "werkvergunning" or work permit under the [highly skilled migrants](https://ind.nl/en/work/working_in_the_Netherlands/Pages/Highly-skilled-migrant.aspx) category of the Immigration and Naturalization Service (IND).
 
 - GitLab is a recognized organization ("erkend referent") with the IND, and Savvy provides support with respect to applying for new visas / permits or extending existing ones.
 - Work permits must be renewed at the end of each contract period, but at minimum once every 5 years.
