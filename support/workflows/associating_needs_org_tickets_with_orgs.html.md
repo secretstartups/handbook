@@ -320,7 +320,7 @@ When you see the required tag in the dropdown list, select it.
 - [Add need-org tag](https://gitlab.zendesk.com/agent/admin/triggers/360001567348)
 - [Remove need-org tag](https://gitlab.zendesk.com/agent/admin/triggers/360017109414)
 
-### GitLab.com ticket is in SM with SLA queue
+### GitLab.com ticket is in `SM with SLA` queue
 
 If you're sure that the ticket is related to **GitLab.com**, but you see it in 
 **SM with SLA queue**, do the following:
@@ -328,17 +328,38 @@ If you're sure that the ticket is related to **GitLab.com**, but you see it in
 1. Change the **Form** to **GitLab.com** (if it's not like that already)
 1. Remove the tag that is related to self-managed plans (e.g. **basic** or
 **premium**)
-   1. **NOTE:** Do not remove a plan tag without adding another one. A ticket
+    1. **NOTE:** Do not remove a plan tag without ensuring a [SLA](https://about.gitlab.com/handbook/support/support-ops/zendesk/tags.html) tag is applied. A ticket
       without a plan tag will receive no SLA and not be visible in a view! If you
       are unsure of how to proceed, please reach out to @support-operations in
       slack.
-1. Do one of the following:
-    1. If you know what plan level the user is on, choose the appropriate one under "Tell us about your subscription".
-    1. Add the internal note with the following content:
+1. Check to see if there is already a .com plan related tag.
+    - If yes, you can submit with just the removal.
+    - If not, add the `prospect` tag and the following note:
 > This ticket was in SM with SLA queue, but it's obviously related to GitLab.com.
 > I did not go into details whether this is a paying or free GitLab.com user, I
 > only changed the tags so that it is not listed in the wrong queue, please verify
 > if the customer is paying GitLab.com user and add the necessary tags so that
+> correct SLA policy is applied to the ticket.
+
+### SM ticket is in `.com with SLA` queue
+
+If you're sure that the ticket is related to **Self-managed**, but you see it in 
+**.com with SLA queue**, do the following:
+
+1. Change the **Form** to **Self-managed** (if it's not like that already)
+1. Remove the tag that is related to GitLab.com plans (**bronze**, **silver**, or
+**gold**)
+    1. **NOTE:** Do not remove a plan tag without ensuring a SLA tag is applied. A ticket
+      without a plan tag will receive no SLA and not be visible in a view! If you
+      are unsure of how to proceed, please reach out to @support-operations in
+      slack.
+1. Check to see if there is already a SM plan related tag.
+    - If yes, you can submit with just the removal.
+    - If not, add the `prospect` tag and the following note:
+> This ticket was in the `.com with SLA` queue, but I believe it to be related to a Self-managed instance.
+> I have not checked whether this is a paying or free user. I
+> only changed the tags so that it is not listed in the wrong queue. Please verify
+> if the user is a paying Self-managed customer and add the necessary tags so that the
 > correct SLA policy is applied to the ticket.
 
 ### Organization is incorrectly marked as a Prospect in SFDC
