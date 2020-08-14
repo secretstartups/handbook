@@ -163,7 +163,6 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
 1. Click `This looks good, NEXT` at the right.
 
 1. Approvals section is where you can add any notes here for the vacancy where it says `Leave a note`.
-   - @ mention the Hiring Manager, Recruiter, CES, and Sourcer so they know the REQ has been created.  This is a good opportunity for the Recruiter and CES to verify the REQ has been setup appropriately. 
    - If you were unable to determine the compensation information tag the Compensation and Benefits team in the Approval Notes section with an @ mention.
 
 1. Click `This looks good, NEXT` at the right. 
