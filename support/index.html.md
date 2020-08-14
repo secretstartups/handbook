@@ -485,10 +485,10 @@ Providing information by reacting to a message with a specific emoji.
 ### Support Fixes
 
 When working on merge requests for code or for documentation, apply the
-`support-fix` label so that we can track product contributions by support team
+`Support Team Contributions` label so that we can track product contributions by support team
 members. An issue is created in the `support-team-meta` issue tracker at the
 end of each week with a list of support fixes merged in the past week. View the
-[list of summary issues here](https://gitlab.com/gitlab-com/support/support-team-meta/issues?label_name%5B%5D=support-fix).
+[list of summary issues here](https://gitlab.com/gitlab-com/support/support-team-meta/issues?label_name%5B%5D=Support%20Team%20Contributions).
 
 ### Zendesk Instances
 At GitLab, the Support Team currently manages 2 different [Zendesk Instances](/handbook/support/workflows/zendesk-instances.html):

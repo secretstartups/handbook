@@ -130,7 +130,7 @@ You are encouraged to [update documentation](/handbook/support/workflows/improvi
 
 [Creating blog posts](/handbook/marketing/blog/unfiltered/) and other publicly available knowledge that is accessible by search engines is valuable to help prevent ticket creation.
 
-We [summarize Support team contributions](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues?label_name%5B%5D=support-fix) every week using a bot.
+We [summarize Support team contributions](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues?label_name%5B%5D=Support%20Team%20Contributions) every week using a bot.
 
 **What does success look like?**
 
@@ -141,11 +141,11 @@ We [summarize Support team contributions](https://gitlab.com/gitlab-com/support/
 
 Experienced Support Engineers and those familiar with programming are encouraged to [fix GitLab bugs and create features](/handbook/support/#support-fixes).
 
-We [summarize Support team bug fixes and feature requests](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues?label_name%5B%5D=support-fix) every week using a bot.
+We [summarize Support team bug fixes and feature requests](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues?label_name%5B%5D=Support%20Team%20Contributions) every week using a bot.
 
 **What does success look like?**
 
-There's no goal for this area. You can see how you're doing using the 'Support Fix' [activity link](/handbook/support/managers/support-1-1s.html) in your 1:1 notes. Here's an [example link](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=dblessing&label_name[]=support-fix). The format is: `https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=YOUR_USERNAME&label_name[]=support-fix` (replace `YOUR_USERNAME`)
+There's no goal for this area. You can see how you're doing using the 'Support Fix' [activity link](/handbook/support/managers/support-1-1s.html) in your 1:1 notes. Here's an [example link](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=dblessing&label_name[]=Support%20Team%20Contributions). The format is: `https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=YOUR_USERNAME&label_name[]=Support%20Team%20Contributions&not[label_name][]=documentation` (replace `YOUR_USERNAME`)
 
 
 ## 9. Improve GitLab and Support processes (Occasionally)
