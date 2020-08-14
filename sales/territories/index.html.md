@@ -216,7 +216,9 @@ For other countries outside AMER, governments agencies will be handled by the te
 | NA East        | US East        | **MM-AMER-EAST-Southeast**          | Daniel Parry                  | Evan Mathis      |
 | NA East        | US East        | **MM-AMER-EAST-TriState**           | Jenny Kline                   | Kelsey Claflin   |
 | NA West        | US West        | **MM-AMER-WEST-MtnMidwest**         | Kyla Gradin                   | Ariah Curtis     |
-| NA West        | US West        | **MM-AMER-WEST-NorCal**             | TBD                           | Da'Neil Olsen |
+| NA West        | US West        | **MM-AMER-WEST-NorCal**             | Rashad Bartholomew            | Da'Neil Olsen    |
+| NA West        | US West        | **MM-AMER-WEST-NorCal-SJ**          | Douglas Robbin                | Da'Neil Olsen    |
+| NA West        | US West        | **MM-AMER-WEST-NorCal-SV**          | Laura Shand.                  | Da'Neil Olsen    |
 | NA West        | US West        | **MM-AMER-WEST-PacWest**            | Rashad Bartholomew            | Josh Weatherford |
 | NA West        | US West        | **MM-AMER-WEST-SF**                 | Laura Shand                   | Ariah Curtis     |
 | NA West        | US West        | **MM-AMER-WEST-SoCal/AZ/HI**        | Douglas Robbin                | Da'Neil Olsen    |
