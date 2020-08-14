@@ -130,7 +130,7 @@ When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` hand
 
 *Channels*
 1. `hbupdate-abm`
-1. `hbupdate-fmm`
+1. `fieldmarketing-FYI`
 1. `hbupdate-mktgops`
 1. `hbupdate-sdr`
 
