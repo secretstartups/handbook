@@ -74,7 +74,7 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
 
 1. Click `Create Job & Continue`.
 
-1. The next page consists of all of the **attributes** interviewers will be evaluating for candidates in their scorecards across the full interview process. These may not be known until after the Kick-off Session and may be skipped during the itial setup of the REQ.  The Recruiter will update the scorecard after the Kick-off Session. The attributes are typically split up into various categories, such `Requirements` (copied from the job family), `Responsibilities` (copied from the job family), `Skills`, `Traits`, and `Values` (standard across all roles, see additional info in the next step).
+1. The next page consists of all of the **attributes** interviewers will be evaluating for candidates in their scorecards across the full interview process. These may not be known until after the Kick-off Session and may be skipped during the initial setup of the REQ.  The Recruiter will update the scorecard after the Kick-off Session. The attributes are typically split up into various categories, such `Requirements` (copied from the job family), `Responsibilities` (copied from the job family), `Skills`, `Traits`, and `Values` (standard across all roles, see additional info in the next step).
    - These can be adjusted as needed, but **every** attribute listed should be a must-have and not a nice-to-have.
    - If you want to include nice-to-haves in the scorecard, please create a new category called `Nice-to-haves` and add any applicable attributes there, making sure that your entire interview team knows that if a candidate does not meet any of those attributes it is not a negative against them.
 
@@ -96,7 +96,7 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
 
 1. Once the scorecard is finished, click `This looks good, NEXT` at the right of your screen.
 
-1. The `Interview Plan`, is where you'll craft the hiring process and scorecards for each step in the process. The interview plan may not be known until after the Kick-off Session and may be skipped during the itial setup of the REQ.  The Recruiter will update the interview plan after the Kick-off Session.
+1. The `Interview Plan`, is where you'll craft the hiring process and scorecards for each step in the process. The interview plan may not be known until after the Kick-off Session and may be skipped during the initial setup of the REQ.  The Recruiter will update the interview plan after the Kick-off Session.
 
 1. Every vacancy should have an `Application Review` stage. Typically no edits are needed on this stage.
 
