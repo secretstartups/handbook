@@ -9,7 +9,7 @@ title: "Sales Strategy"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Welcome to the Sales Strategy Handbook
+## Welcome to the Sales Strategy & Analytics Handbook
 
 ### Charter
 
