@@ -24,7 +24,7 @@ Confused about when you need to create a new job family and when you should add 
 For each job at GitLab, the job family is the single source of truth for the expectations of that role. A job has the URL ``/job-families/department/title`` and contains the following paragraphs:
 
 - Overview
-- **Levels** (i.e. associate, intermediate, senior, staff, manager, director, senior director, etc.)
+- **Levels** (i.e. junior/associate, intermediate, senior, staff/lead, manager, director, senior director, etc.)
    - Responsibilities (for each level)
    - Requirements (for each level)
 - [Job Grades](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) (for each level)
