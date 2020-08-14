@@ -161,7 +161,7 @@ There's no goal for this area. You can see how you're doing by using the 'Handbo
 ## 10. Keep up-to-date on GitLab, and Support
 
 1. Since we ship a **new release each month on the 22nd**, and as we manage to fit a lot of great new features and fixes into each release, it is sometimes difficult for the Support Team to keep up to date with key changes. In general, it is the responsibility of each Support Team member individually to read the release blog post, dig deeper where you need to or want to, and keep yourself up to date with new GitLab versions. To facilitate this further, there is a Retrospective every month (it is listed on the GitLab Team Meetings calendar) that you can join.
-1. We have severel [Support Weekly Meetings](/handbook/support/#weekly-meetings) that you are encouraged to attend or watch the recording of.
+1. We have several [Support Weekly Meetings](/handbook/support/#weekly-meetings) that you are encouraged to attend or watch the recording of.
 1. We encourage you to contribute to, and read the [Support Week in Review](/handbook/support/#support-week-in-review) document every week. This will help you stay up to date on all recent changes and announcements.
 
 **What does success look like?**
