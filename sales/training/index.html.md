@@ -97,7 +97,7 @@ To optimize productivity, GitLab field team members must be able to consistently
 | **Topic** | **Resource(s)** |
 | ------ | ------ |
 | What are the critical skills and behaviors needed to succeed in a field role at GitLab? | - [Field Functional Competencies](/handbook/sales/training/field-functional-competencies/) |
-| What is social selling? | - [Social Selling Basics presentation](https://docs.google.com/presentation/d/1UCRF6PC6al8XxT8E_4rDKkQjkW6WGPA6gybWeuRIg7A/edit?usp=sharing) <br> - [Social Selling Basics video](https://youtu.be/w-C4jts-zUw) (Jul 2019, 20 minutes) <br> - [Social Selling_Sales Enablement_2019-07-11](https://www.youtube.com/watch?v=Ir7od3stk70) (Jul 2019, 28 minutes) <br> - [LinkedIn Sales Navigator resources](https://business.linkedin.com/sales-solutions/sales-navigator-customer-hub/resources) <br> - [LinkedIn Sales Navigator On-Demand and Live Training Webinars](https://training.sales.linkedin.com/series/webinars) |
+| What is social selling? | - [Social Selling Handbook page](/handbook/sales/training/social-selling/) - [Social Selling Basics presentation](https://docs.google.com/presentation/d/1UCRF6PC6al8XxT8E_4rDKkQjkW6WGPA6gybWeuRIg7A/edit?usp=sharing) |
 | How do I find out what version of GitLab my customers are using? <br> How do I find organizations in my patch using GitLab CE? | - [Version.GitLab.Com Walk-Through](https://www.youtube.com/watch?v=lBWwlbd1J5k) (Jul 2019, 8.5 minutes) |
 | What does a good discovery call look like? | - [Anatomy of a Successful Discovery Call](https://youtu.be/maai4tuDtoM) video (Jul 2019, 21 minutes) |
 | How do I lead with insights? | - [Pipeline Creation - Leading with Insights](https://www.youtube.com/watch?v=fNiGq5uOxgo) (Nov 2019, 10 minutes) |
