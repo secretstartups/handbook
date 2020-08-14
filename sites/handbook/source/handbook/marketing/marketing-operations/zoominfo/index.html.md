@@ -10,17 +10,46 @@ title: "Zoominfo"
 {:toc .hidden-md .hidden-lg}
 
 ### Set Up
-Once you receive your login and enter the Zoominfo platform you will need to download the [Zoominfo ReachOut Chrome extension](https://chrome.google.com/webstore/detail/zoominfo-reachout/fofjcndophjadilglgimelemjkjblgpf). You can also find the link by navigating down to the bottom right of your homepage. The chrome extension allows for you to easily add prospects while you are within LinkedIn.
+Once you receive your login and enter the Zoominfo platform you will need to download the [Zoominfo ReachOut Chrome extension](https://chrome.google.com/webstore/detail/zoominfo-reachout/fofjcndophjadilglgimelemjkjblgpf). You can also find the link by navigating down to the bottom right of your homepage.
 
-Your homepage is customizable to your needs. Saved searches, technology alerts, Scoops, and resources are available.
+It is recommended to add Zoominfo to your tabs in SFDC. 
+
+To do so click the :heavy_plus_sign:>Click `Customize My Tabs`> Scroll down to find Zoominfo>Highlight it>Hit the right arrow button :arrow_right:>Hit the `Save` button.
+
+### Ways to access Zoominfo
+Your direct login allows for direct export into SFDC. However you can also access it directly from the lead, contact, account record within SFDC, or from the tab view as shown above. Lastly, the chrome extension allows for additional functionality while browsing LinkedIn or company websites.
 
 ### Training
+
+**To access Zoominfo University:**
+- Login to Zoominfo 
+- Under your name on the right hand side click on Zoominfo University
+- Once you've created your Zoominfo University login the links below will give you direct access
+
+**:new: I'm brand new to DiscoverOrg or Zoominfo! :arrow_down: Start here:**
+
+| Title | Duration | Summary |
+| ------ | ------ | ------ | 
+| [Introduction to Zoominfo (condensed version)](https://university.zoominfo.com/courses/101-introduction-to-zoominfo-condensed)| 6:42 | A general overview covering core concepts, profile info, building a search, saving and subscribing, and tagging.  |
+| [Best Practices with Zoominfo (condensed version)](https://university.zoominfo.com/courses/102-best-practices-with-zoominfo-condensed) | 6:23 | Using scoops and more advanced features. We do not currently have Intent, so you can skip this section. |
+| [Introduction in Salesforce ](https://university.zoominfo.com/learn/course/101-introduction-in-salesforce-on-demand/training-session/101-introduction-in-salesforce) | 31:15 | This is a general overview of how to use the native integration within SFDC.|
+
+**:boom: I've been using DiscoverOrg or Zoominfo already or ready to learn more! :arrow_down: Skip to topics that interest you:**
+
+| Title | Duration | Summary |
+| ------ | ------ | ------ | 
+| [Tagging](https://university.zoominfo.com/learn/course/tagging-hosted-by-dan-veillette/knowledge-center/staff-picks-series-tagging) | 4:54 | A quick review on how to use tags. |
+| [Scoops](https://university.zoominfo.com/courses/scoops-hosted-by-joy-bernard) | 10:04 | A guide for searching and filtering for Scoops alerts. |
+| [ListMatch](https://university.zoominfo.com/courses/listmatch-hosted-by-amber-jackson) | 13:00 | ListMatch allows you to upload a list of contacts or company information in bulk to run through the Zoominfo search. |
+| [Technology and Company Attributes](https://university.zoominfo.com/courses/technology-and-company-attributes-hosted-by-william-stevens) | 3:56 | Learn how to access technology information within a company profile. |
+| [Exploring the Sunny Side of Saved Searches](https://university.zoominfo.com/courses/exploring-the-sunny-side-of-saved-searches) | 57:26 | **Skip to 6:40** to learn about general info on saved searches. **Skip to 14:32** for building a saved search. **Skip to 21:30** to learn how to set up an email alert for your saved search. **Skip to 29:17** to learn about how to save Scoops alerts. **Skip to 35:14** for learning about targeting personas with saved searches. **Skip to 38:10** to learn about the tagging feature. **Skip to 43:00** for saving and sharing searches with others.|
+| [How to Make a (Sales) Splash with ReachOut](https://university.zoominfo.com/courses/how-to-make-a-sales-splash-with-reachout) | 53:12 | **Skip to 14:10** to see how to use it with LinkedIn. **Skip to 17:00** to export into SFDC. **Skip to 18:00** to build a list from LinkedIn and export in bulk by using tags. **Skip to 30:20** to see how to use the extension on a company website.
+
+Do you have a topic not covered you'd like to see? Slack #zoominfo room or reach out to marketing operations.
+
 To access Zoominfo training sessions specific for GitLab follow [this link](https://university.zoominfo.com/courses/gitlab-inc-recorded-trainings).
 
--   101: Introduction to ZoomInfo focuses on the fundamentals of navigating and leveraging the ZoomInfo platform.
--   102: Best Practices with ZoomInfo will give you role-specific training and best practices for leveraging ZoomInfo's data. Relying on the knowledge from the 101 training, you will take a deeper dive on how to leverage and use the data successfully.
-
-To access Zoominfo on-demand training follow [this link](https://university.zoominfo.com/pages/on-demand-training).
+To access additional Zoominfo on-demand training follow [this link](https://university.zoominfo.com/pages/on-demand-training).
 
 ### Credits
 -   **Users** -  Monthly credits are set at 1,000 and bulk credits are set at 2,000. 
