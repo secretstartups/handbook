@@ -25,17 +25,145 @@ _Note_ - For GMAU and SMAU there is a desire for these metrics to be the unique 
 
 <%= performance_indicators('Product') %>
 
-## Product PI Workflow
+## PI Workflow
+
+### Objective
+
+To achieve our FY21-Q3 OKRs of [100% of groups have Future GMAU (or Paid GMAU)](https://gitlab.com/gitlab-com/Product/-/issues/1342) and [100% of stages have Future SMAU and Paid SMAU](https://gitlab.com/gitlab-com/Product/-/issues/1343), our team will be taking the following approach:
+1. Get a XMAU in place for your section, stage, or group ASAP using currently available tooling. 
+1. Meet with [@jeromezng](https://gitlab.com/jeromezng) [@kathleentam](https://gitlab.com/kathleentam) to find work around solutions to track your XMAU.
+1. Improve XMAU in future iterations as the collection framework improves.
+
+The status of these OKRs are temporarily being tracked on the [XMAU Tracking Sheet](https://docs.google.com/spreadsheets/d/18er-ZpqdtZDhs_bmZvJaU_iVsa3R38VMiau4C6RoPPs/edit#gid=706608817). There is an [open epic](https://gitlab.com/groups/gitlab-com/-/epics/906) to merge this into the Product PI handbook page.
+
+Note: The abbreviation "XMAU" is used to represent AMAU, GMAU, Paid GMAU, SMAU, Paid SMAU, Section MAU, or Paid Section MAU.
+
+### Workflow Overview
 
 The PI workflow outlines the steps for putting product performance indicators in place.
 
-1. Privacy Policy: The [Privacy Policy](https://about.gitlab.com/privacy/) step describes what product usage data we can collect from our users.
-1. Collection Framework: The [Collection Framework](https://docs.gitlab.com/ee/development/telemetry/index.html#telemetry-guide) step describes our available tooling for collecting product usage data.
-1. Event Dictionary: The [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit?usp=sharing) step outlines  our single source of truth of the product metrics and events we collect.
-1. Instrument Tracking: The [Instrumentation](https://docs.gitlab.com/ee/development/telemetry/usage_ping.html#implementing-usage-ping) step outlines how each product team implements data collection.
-1. Data Available: The [Data Availability](https://about.gitlab.com/upcoming-releases/) step outlines the timing of a product release to receiving product usage data in the data warehouse.
-1. Data Warehouse: The [Data Warehouse](https://gitlab.snowflakecomputing.com/console#/internal/worksheet) step outlines where our product usage data is stored.
-1. Data Model: The [Data Modelling](https://dbt.gitlabdata.com/#!/overview) step outlines how we transform raw data into a data structure that's ready for analysis.
-1. Dashboard: The [Dashboarding](https://about.gitlab.com/handbook/business-ops/data-team/programs/data-for-product-managers/#creating-charts) step outlines how Sisense dashboards are built.
-1. Handbook PI Page: The [Handbook PI Page](https://about.gitlab.com/handbook/product/performance-indicators/) describes how product performance indicators are added for each product section, stage, and group.
-1. Target Defined: The Target Definition step outlines how targets are defined for each performance indicator.
+1. [Privacy Policy](https://about.gitlab.com/privacy/): The privacy policy step describes what product usage data we can collect from our users.
+1. [Collection Framework](https://docs.gitlab.com/ee/development/telemetry/index.html#telemetry-guide): The collection framework step describes our available tooling for collecting product usage data.
+1. [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit?usp=sharing): The event dictionary step outlines  our single source of truth of the product metrics and events we collect.
+1. [Instrument Tracking](https://docs.gitlab.com/ee/development/telemetry/usage_ping.html#implementing-usage-ping): The instrumentation step outlines how each product team implements data collection.
+1. [Data Availability](https://about.gitlab.com/upcoming-releases/): The data availability step outlines the timing of a product release to receiving product usage data in the data warehouse.
+1. [Data Warehouse](https://about.gitlab.com/handbook/business-ops/data-team/platform/#data-warehouse): The data warehouse step outlines where our product usage data is stored.
+1. [Data Model](https://about.gitlab.com/handbook/business-ops/data-team/platform/dbt-guide/): The data modelling step outlines how we transform raw data into a data structure that's ready for analysis.
+1. [Dashboard](https://about.gitlab.com/handbook/business-ops/data-team/programs/data-for-product-managers/#creating-charts): The dashboarding step outlines how Sisense dashboards are built.
+1. [Handbook PI Page](https://about.gitlab.com/handbook/product/performance-indicators/): The handbook PI page describes how product performance indicators are added for each product section, stage, and group.
+1. [PI Target](#pi-target): The target definition step outlines how targets are defined for each performance indicator.
+
+
+### Privacy Policy
+
+For our current state, see: [Privacy Policy](https://about.gitlab.com/privacy/). For our roadmap, see: [Rollout Plan: Privacy Policy for Product Usage Data](https://gitlab.com/groups/gitlab-com/-/epics/907).
+
+### Collection Framework
+
+For our current state and roadmap, see: [Telemetry Direction Page: Collection Framework](https://about.gitlab.com/direction/telemetry/#collection-framework).
+
+### Event Dictionary
+
+Currently, we have 500+ existing usage ping metrics but no proper documentation of what actions they track. The Event Dictionary will allow us to create a SSOT documentation and identify potential AMAU metrics in existing usage pings which can be used for XMAU. The event dictionary includes:
+
+- 500+ Usage Ping metrics
+- Section, stage, or group
+- Description
+- Implementation status
+- Availability by plan
+- Code path
+
+**Instructions:** 
+1. Complete the issue for your section: [Dev](https://gitlab.com/gitlab-org/gitlab/-/issues/234301), [Ops](https://gitlab.com/gitlab-org/gitlab/-/issues/234577), [Enablement](https://gitlab.com/gitlab-org/gitlab/-/issues/234576), [Secure & Defend](https://gitlab.com/gitlab-org/gitlab/-/issues/234578), [Growth](https://gitlab.com/gitlab-org/gitlab/-/issues/234580). 
+1. Open the [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit#gid=618391485) and fill in “PM to edit” columns
+1. Plan your future events and metrics with your engineering team.
+
+### Instrument Tracking
+
+Work with your engineering team to instrument tracking for your XMAU. Focus on using Usage Ping as your metrics will be available on both SaaS and self-managed.
+
+The [Usage Ping Guide](https://docs.gitlab.com/ee/development/telemetry/usage_ping.html) outlines the steps required for instrumentation. It includes:
+- [What is Usage Ping?](https://docs.gitlab.com/ee/development/telemetry/usage_ping.html#what-is-usage-ping)
+- [How Usage Ping works](https://docs.gitlab.com/ee/development/telemetry/usage_ping.html#how-usage-ping-works)
+- [Implementing Usage Ping](https://docs.gitlab.com/ee/development/telemetry/usage_ping.html#implementing-usage-ping)
+- [Developing and Testing Usage Ping](https://docs.gitlab.com/ee/development/telemetry/usage_ping.html#developing-and-testing-usage-ping)
+- [Example Payload](https://docs.gitlab.com/ee/development/telemetry/usage_ping.html#example-usage-ping-payload)
+
+Also see the [Telemetry Guide](https://docs.gitlab.com/ee/development/telemetry/#telemetry-systems-overview) and [Snowplow Guide](https://docs.gitlab.com/ee/development/telemetry/snowplow.html).
+
+**Instructions:**
+Read the docs and work with your engineers on instrumentation. 
+Ask for a Telemetry Review in your MR.
+
+### Data Warehouse
+
+See [Data Team Platform: Data Warehouse](https://about.gitlab.com/handbook/business-ops/data-team/platform/#data-warehouse)
+
+### Data Model
+
+See [Data Team dbt guide](https://about.gitlab.com/handbook/business-ops/data-team/platform/dbt-guide/)
+
+### Data Available
+
+Plan instrumentation with sufficient lead time for data availability. Ensure your metrics make it into the self-managed release as early as possible.
+
+**Timeline:**
+1. Self-managed releases happen on the 22nd of each month (+30 days)
+1. Wait one week for customers to upgrade to new release and for a Usage Ping to be generated (+7 days)
+1. Usage Pings are collected in the Versions application. The Versions database is imported into the Snowflake Data Warehouse manually every two weeks (+14 days). Note that we’re working to [automate this to daily imports](https://gitlab.com/gitlab-org/telemetry/-/issues/398) (bringing this down to +1 day instead). 
+
+In total, plan for up to +51 days (Examples [1](https://gitlab.com/gitlab-data/analytics/-/issues/5629#note_389671640), [2](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/31785#note_392882428)). Cycle times are slow with monthly releases and weekly pings, so, implement your metrics early.
+
+**Instructions:**
+1. Monitor the #g_telemetry slack channel where the Telemetry team will post the latest GitLab.com Usage Ping ([example](https://gitlab.slack.com/files/ULXG09FAL/F01905UPPL0/12-gitlab.com-usage-data-for2020-08-04.json?origin_team=T02592416&origin_channel=CL3A7GFPF)).
+1. Check [version_usage_data_unpacked](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.version_usage_data_unpacked#columns) in dbt to check your data is in the data model.
+1. Check Sisense to ensure your data is in the data warehouse.
+
+### Dashboard
+
+We need PMs to self-serve their own dashboards. Data team capacity is limited and will be focused on enabling self-service, advising PMs, and working on the more challenging XMAU dashboards.  
+
+See [Data For Product Managers: Creating Charts](https://about.gitlab.com/handbook/business-ops/data-team/programs/data-for-product-managers/#creating-charts) to learn how to create your own dashboard.
+
+For the SMAU Summary Dashboards:
+
+The Data team will update these dashboards:
+- [GitLab.com Postgres SMAU Dashboard (SaaS)](https://app.periscopedata.com/app/gitlab/604621/GitLab.com-Postgres-SMAU)
+- [Usage Ping SMAU Dashboard (SaaS + Self-Managed)](https://app.periscopedata.com/app/gitlab/634200/Usage-Ping-SMAU-Dashboard)
+
+**Instructions:**
+1. Self-serve your dashboard
+1. If you need help, create a data team issue and ask your Section Leader to prioritize.
+
+### Handbook PI Page
+
+We have five PI pages including [the Product Team page](https://about.gitlab.com/handbook/product/performance-indicators/) and section pages for [Dev](https://about.gitlab.com/handbook/product/dev-section-performance-indicators/), [Ops](https://about.gitlab.com/handbook/product/ops-section-performance-indicators/), [Secure & Defend](https://about.gitlab.com/handbook/product/secure-and-defend-section-performance-indicators/), [Enablement](https://about.gitlab.com/handbook/product/enablement-section-performance-indicators/)
+- All Sections must have a Section MAU and Paid Section MAU, except for Enablement.
+- All Stages must have a SMAU and Paid SMAU.
+- All Groups must have a GMAU and Paid GMAU (exceptions have been made for GMAC, Paid GMAC, Enablement PPI)
+
+See [PI Structure](https://about.gitlab.com/handbook/product/performance-indicators/#structure) to see the hierarchy of how XMAUs are related
+
+**Instructions:**
+1. Placeholders will be added this week into each section performance indicator file.
+1. @jeromezng @kathleentam will work with each Section, Stage, Group to work through blockers and document exceptions.
+1. PMs will then need to update each section performance indicator file as  implementation status changes.
+
+### PI Target
+
+As a product organization, we need to get into the habit of understanding our baselines and setting targets for each stage & group. For the PI Target step, you will work with your Section or Group Leader to define targets for each of your XMAUs.
+
+**Instructions:**
+1. Work with your Section or Group Leader to define a target.
+1. Add the Target Line into your dashboard ([example](https://app.periscopedata.com/app/gitlab/527913/Product-KPIs?widget=8490496)).
+1. If you need help, book a meeting with @jeromezng @kathleentam.
+
+### Next steps for PMs
+
+1. @jeromezng @kathleentam meet with all stages.
+1. Add all AMAUs into Event Dictionary
+1. Instrument tracking by focusing on GMAU candidates
+1. Wait for data availability
+1. Create standardized dashboards 
+1. Update handbook PI pages with GMAU definitions 
+1. Add targets to each PI
