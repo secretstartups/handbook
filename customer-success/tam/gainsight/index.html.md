@@ -178,6 +178,8 @@ The videos listed here are internal to GitLab only. You will need to be logged i
 
 New feature requests can be submitted by creating an issue and selecting the [Gainsight Request Template](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=).
 
+Make sure you apply the `gainsight` label, and optionally apply `gainsight::feature_request` or `gainsight::bug` scoped labels.
+
 The status of Gainsight issues can be viewed on the [Gainsight issue board](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/boards/1731118?&label_name[]=gainsight).
 
 To request new Email Templates be added to Gainsight, or Programs in [Journey Orchestrator](https://www.gainsight.com/journey-orchestrator/), use the Sales Ops board above and put the content and format of your email in Markdown (if possible). Then `@mention` a Gainsight administrator.
