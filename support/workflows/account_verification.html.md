@@ -12,21 +12,23 @@ category: GitLab.com
 
 ## Overview
 
-While this workflow focuses on disabling [Two-factor Authentication](http://docs.gitlab.com/ee/profile/two_factor_authentication.html) on a GitLab.com account, it should also be used any time ownership of an account needs to be verified, such as for [account changes](/handbook/support/workflows/account_changes.html).
+This workflow focuses on  disabling [Two-factor Authentication](http://docs.gitlab.com/ee/profile/two_factor_authentication.html) on a GitLab.com account.
 
-2FA removal and other account actions can only be taken if the [workflow](#workflow) below is successful.
+It should also be used any time ownership of an account needs to be verified, such as for [account changes](/handbook/support/workflows/account_changes.html).
 
-## Access by User Action
+2FA removal and other account actions can only be completed if the [workflow](#workflow) below is successful.
 
-In many cases, users can regain access to their account using the following methods:
+## Self Service 2FA Removal
 
-### Entering a recovery code
+In most cases, users can disable 2FA themselves and regain access to their accounts.
+
+### Recovery codes
 
 Users can try and login using their saved [two-factor recovery codes](https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html#recovery-codes).
 
 ### Generating new recovery codes via SSH
 
-If a user didn't save their recovery codes, new ones can be generated with the command below via SSH if they've previously added an SSH key to their account. The new recovery codes can then be used at sign in. This option is presented to users in the Zendesk macro and the auto-response they'll receive if they chose `Two-Factor Authentication (Account Recovery)` as the problem type for the Zendesk ticket. If they cannot use this method then move on to the manual methods below.
+If a user didn't save their recovery codes, new ones can be generated with the command below via SSH if they've previously added an SSH key to their account. The new recovery codes can then be used at sign in. This option is presented to users in the Zendesk macro and the auto-response they'll receive if they chose `Two-Factor Authentication (Account Recovery)` as the problem type for the Zendesk ticket.
 
 ```plain
 ssh git@gitlab.com 2fa_recovery_codes
@@ -34,11 +36,16 @@ ssh git@gitlab.com 2fa_recovery_codes
 
 If a user has added an SSH key to their account but receives a `Permission denied (publickey)` error when using the command above, they may need to manually register their private SSH key using `ssh-agent` if they're using a non-default SSH key pair file path. Direct the user to [our documentation](https://docs.gitlab.com/ee/ssh/README.html#working-with-non-default-ssh-key-pair-paths) for guidance on how to solve this.
 
-## Access with Support Intervention
+> Free users won't be able restore access to accounts if the recovery codes were lost and no ssh keys are available to generate more.
 
-If the user is unable to remove 2FA or otherwise regain access to their account using the above methods and responds with the need for further verification, then the user will need to provide evidence of account ownership before we can disable 2FA on their account.
+## Disable 2FA with Support Intervention
 
-If a user has lost their account recovery codes and has no SSH key registered, proving they own the account can be difficult. In these cases, please use the workflow below.
+Support intervention for 2FA removal after the above steps have been attempted is only possible for users with a paid plan.
+
+If a paid user (part of paid group or paid user namespace) is unable to remove 2FA or otherwise regain access to their account using the above methods and responds with the need for further verification, then the user will need to provide evidence of account ownership before we can disable 2FA on their account.
+
+If a user has lost their account recovery codes and has no SSH key registered, proving they own the account can be difficult. 
+In these cases, please use the workflow below.
 
 ### Workflow
 
