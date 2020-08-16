@@ -17,7 +17,7 @@ If you need HDMI connectivity (e.g. to connect a TV, projector or monitor) and a
 
 #### USB adapters
 
-  * Falwedi 7-in-1 USB-C Hub - [US](https://www.amazon.com/dp/B083FBYP9B), [Australia](https://www.amazon.com.au/dp/B083FBYP9B). HDMI port supports 4K@60Hz. 
+  * Falwedi 7-in-1 USB-C Hub - [US](https://www.amazon.com/dp/B083FBYP9B), [Australia](https://www.amazon.com.au/dp/B083FBYP9B). HDMI port supports 4K@60Hz.
   * TOTU 8-in-1 USB-C Hub - [US](https://www.amazon.com/dp/B07FX2LW35/)
   * FLYLAND Hub, 9-in-1 - [Germany](https://www.amazon.de/dp/B00OJY12BY/)
   * VAVA USB-C Hub 8-in-1 Adapter - [Australia](https://www.amazon.com.au/dp/B07JCKCZGJ/)
@@ -78,7 +78,7 @@ If you need HDMI connectivity (e.g. to connect a TV, projector or monitor) and a
   * Mpow 059 Bluetooth Over Ear Headphones - [US](https://www.amazon.com/dp/B077XT82DD/)
   * JBL T450BT On-ear Bluetooth Headphones - [Germany](https://www.amazon.de/dp/B01M6WNWR6/)
   * Apple AirPods - [US](https://www.apple.com/shop/accessories/all-accessories/headphones-speakers)
-    * Note: AirPods have limited battery life, and we often see problems with them not lasting through multiple meetings. Consider options that will last longer and not cause interruptions. 
+    * Note: AirPods have limited battery life, and we often see problems with them not lasting through multiple meetings. Consider options that will last longer and not cause interruptions.
 
 Keep in mind, open-ear headphones can often be worn longer than in-ear or closed headphones.
 
@@ -90,7 +90,7 @@ Keep in mind, open-ear headphones can often be worn longer than in-ear or closed
   * Macally Bluetooth wireless keyboard - [US](https://www.amazon.com/Macally-Bluetooth-Computers-Rechargeable-Indicators/dp/B07K24ZLWC)
   * Logitech Ergo K860 Wireless Ergonomic Keyboard with Wrist Rest [US](https://www.amazon.com/gp/product/B07ZWK2TQT/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
 
- ### 2FA Tokens
+### 2FA Tokens
   * Google Titan Security Key - [AT, CA, FR, DE, IT, JA, ES, CH, UK, US (excl. PR)](https://store.google.com/product/titan_security_key)
   * Yubikey - [Ships to most countries](https://www.yubico.com/store/)
 
