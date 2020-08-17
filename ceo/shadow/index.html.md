@@ -878,3 +878,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2020-06-22 | 2020-07-03 | [Jim Riley](https://gitlab.com/jrileyinva) | Area Sales Manager - Public Sector| |
 | 2020-06-28 | 2020-07-17 | [Hila Qu](https://gitlab.com/hilaqu) | Director of Product, Growth| |
 | 2020-07-13 | 2020-07-31 | [David DeSanto](https://gitlab.com/ddesanto) | Director of Product, Secure & Defend | |
+| 2020-07-20 | 2020-08-10 | [Tim Rizzi](https://gitlab.com/trizzi) | Senior Product Manager, Package | |
