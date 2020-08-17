@@ -354,7 +354,7 @@ We have the following deadlines:
   - All unfinished `m` issues and merge requests are automatically moved to milestone `m+1`, with the exception of `~security` issues.
 - On or around `M, 26th`:
   - [Product plans](/handbook/product/product-processes/#managing-your-product-direction) are to update to reflecting previous and current releases, including category epics and direction pages.
-- By month `M+1, 4th` (within a few weeks of milestone `m` ending):
+- By month `M+1, 6th` (within a few weeks of milestone `m` ending):
   - [Public Retrospective](#retrospective) is held.
 
 Refer to [release post content reviews](/handbook/marketing/blog/release-posts/#content-reviews) for additional deadlines.
