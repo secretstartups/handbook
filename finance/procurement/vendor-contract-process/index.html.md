@@ -14,15 +14,6 @@ title: Vendor Contract Issue Process
 ## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Deep Dive on the Vendor Contract Issue Process
 Procurement will not approve a contract issue until all other approvals have been received to validate the appropriate approval process and policies have been followed. In the event procurement approves an issue prior to other approvals in an attempt to avoid being the source of a backlog, procurement will comment in the issue that their approval is "subject to remaining approvals". At this point it is the responsibility of the issue owner to follow the remaining process and secure remaining approvals BEFORE obtaining contract signature.
 
->### Legal Engagement for Vendor Contracts
-
-1. Legal is responsible for reviewing vendor contracts and will adhere to the legal playbook.
-1. A contract cannot be signed until it has been approved by the legal team. Once the legal team approves the contract, legal will upload the contract with the approval stamp. **Contracts will not be signed unless the legal approval stamp is included.**
->#### Rules of Engagement GitLab entity
-1. PEO's, Contractors should be engaged with GitLab IT BV
-1. Contract to be engaged locally when there is a GitLab entity available (e.g. Netherlands with BV, UK with Ltd et cetera)
-1. If there is no GitLab entity available in the country of a vendor use GitLab Inc
-
 >### Security Engagement for Vendor Contracts
 
 1. Security is responsible for reviewing vendor security practicies and will adhere to the [Third Party Vendor Security Review Process](//handbook/engineering/security/security-assurance/security-compliance/third-party-vendor-security-review.html#email-template-for-requesting-security-documentation_). 
@@ -31,6 +22,20 @@ Procurement will not approve a contract issue until all other approvals have bee
 1. Consult the [Data Classification Policy](https://docs.google.com/document/d/15eNKGA3zyZazsJMldqTBFbYMnVUSQSpU14lo22JMZQY/edit#heading=h.a7l25bv5e2pi) to understand whether your contract will need security review. Any contracts that will share RED or ORANGE data will need security approval prior to signing. Additionally, an annual reassessment of vendor's security posture is performed as part of the contract renewal.
 1. Complete a [Privacy Review](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=Vendor-Procurement-Privacy-Review); please note that this will be done in partnership with GitLab's Privacy Officer and reviewed by Security Compliance during the Security Review.
 
+>### Finance Engagement for Vendor Contracts
+
+1. Finance is responsible for confirming the purchase is in budget.
+1. Finance is responsible for reviewing and validating the Business Justification. If questions or concerns on the Business Justification, fp&a partner will engage VP, Finance.
+1. If the contract exceeds $100K, the CFO will be added as an approver.
+
+>### Legal Engagement for Vendor Contracts
+
+1. Legal is responsible for reviewing vendor contracts and will adhere to the legal playbook.
+1. A contract cannot be signed until it has been approved by the legal team. Once the legal team approves the contract, legal will upload the contract with the approval stamp. **Contracts will not be signed unless the legal approval stamp is included.**
+>#### Rules of Engagement GitLab entity
+1. PEO's, Contractors should be engaged with GitLab IT BV
+1. Contract to be engaged locally when there is a GitLab entity available (e.g. Netherlands with BV, UK with Ltd et cetera)
+1. If there is no GitLab entity available in the country of a vendor use GitLab Inc
 >### Vendor Contract Approval Process
 
 GitLab team-members must obtain the appropriate approvals from other departments such as the department head of your department, finance (budgetary authorization), procurement, legal, and in some cases security as dictated by the contract issue request.
@@ -42,7 +47,13 @@ GitLab team-members must obtain the appropriate approvals from other departments
 1. If you are purchasing new software/tools, you also need to get approval from IT as identified in the contract issue request.  
 
 >### Negotiation Process
-When and how is a contract negotiated?
+When is a contract negotiated?
+
+   * All software contracts >= $25K will be negotiated. 
+   * All non-software contracts >= $25K will be evaluated for negotiation opportunity based on type, amount and market conditions.
+   * All contracts requiring an RFP will be negotiated. The RFP process should not be closed until procurement can engage in negotiations.
+
+What is the process for negotiating contracts?
 
 **For Software <$75K:**
    * Procurement will assign to our third-party partner, Vendr, to negotiate the transaction. *Procurement reserves the right to engage Vendr at a higher or lower threshold based on current bandwidth.*
@@ -70,18 +81,18 @@ When and how is a contract negotiated?
 >### Procurement Team Approval Process
 Before approving issues, the procurement team verifies:
 
-1. Was the right purchase request issue type used?
+1. Correct purchase request issue type was used.
    * Software: includes IT and Security review and approvals
    * Marketing: Must be non-confidential data. If confidential data is involved and/or shared, a General template must be used for required approvals.
    * General: Consulting and all other services
-2. Were the correct individuals tagged for approval?
+2. Correct individuals were tagged for approval
    * Confirm the appropriate parties are tagged and have approved according to the [Authorization Matrix](/handbook/finance/authorization-matrix/)?
-3. Negotiation Process has been followed.
+3. Negotiation process was followed
    * See above as applicable
-4. Contract Review
-   * To confirm dollar amounts match, confirm currency, confirm entities match in quote, and general scope is addressed.
+4. Contract Reviewed
+   * Procurment confirms dollar amounts match, confirm currency, confirm entities match in quote, and general scope is addressed.
    * If entities do not match, procurement will tag the issue creator and budget approver to confirm which entity should be used. 
-5. Approval Authority
+5. Procurement Approval Authority
    * Procurement Ops Analyst can approve purchase requests up to $25K 
       * Purchase requests >$25K will be approved by the Sr. Mgr Procurement
    * Procurement Ops Analyst can approve up to $100K for Field Mktg/Event purchase requests withOUT confidential data
