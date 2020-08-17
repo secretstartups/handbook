@@ -46,7 +46,7 @@ Topics are in alphabetical order with team members grouped by region.
 | Kubernetes    | AMER   | Harish <br> JasonC <br> Michael Lussier <br> Thiago <br> Caleb W. <br> JasonY <br> Lewis                                                              |
 |               | APAC   | Alex Tanayno <br> Julian <br> Arihant <br> Priyan                                                                                                     |
 |               | EMEA   | Rehab <br> VladB                                                                                                                                      |
-| Linux         | AMER   | Greg <br> Keven <br> Gabe <br> Cody West <br> James Lopes <br> Will <br> Davin <br> Lewis <br> Tom H <br> Duncan <br> Mario                                       |
+| Linux         | AMER   | Greg <br> Keven <br> Gabe <br> Cody West <br> James Lopes <br> Will <br> Davin <br> Lewis <br> Tom H <br> Duncan <br> Mario <br> Caleb C.             |
 |               | EMEA   | Ben <br> David Wainaina <br> Catalin <br> Rehab <br> Alin <br> VladB                                                                                  | 
 |               | APAC   | Mike <br> Priyan <br> Athar <br> AlexS                                                                                                                |
 | Omnibus       | AMER   | Aric <br> Diana <br> Greg <br> Harish <br> John <br> Nathan <br> Gabe <br> Cody West <br> Keven <br> Davin <br> JasonY <br> Lewis <br> Brie <br> Phil |
@@ -71,7 +71,7 @@ If you need help with scripting for fixes, internal tools, or any other reason.
 |                         | EMEA   | Ronald <br> Catalin <br> Alin                                             |
 |                         | AMER   | Davin <br> Phil <br> Sara                                                 |
 | Vue.js                  | APAC   | Wei-Meng Lee <br> Athar                                                   |
-|                         | AMER   | Sara
+|                         | AMER   | Sara                                                                      |
 |                         | EMEA   | Catalin                                                                   |
 | Ansible                 | AMER   | JasonY                                                                    |
 |                         | EMEA   | Shem                                                                      |
@@ -79,7 +79,7 @@ If you need help with scripting for fixes, internal tools, or any other reason.
 | Zendesk app development | EMEA   | DeAndre                                                                   |
 | Bash                    | APAC   | Mike <br> Priya <br> AlexS <br> Duncan <br>                               |
 |                         | EMEA   | David Wainaina <br> Catalin <br> Rehab <br> Alin <br> VladB               |
-|                         | AMER   | Davin <br> Lewis                                                          |
+|                         | AMER   | Davin <br> Lewis <br> Caleb C.                                            |
 | Python                  | APAC   | Matthew <br> Athar                                                        |
 |                         | EMEA   | Catalin <br> Alin <br> Muhamed <br> VladB                                 |
 |                         | AMER   | Lewis                                                                     |
