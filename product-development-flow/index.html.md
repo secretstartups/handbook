@@ -366,7 +366,7 @@ fixes and typos, you can create an MR and tag in the [Product Operations DRI](ht
 for reference. There is no need to wait for feedback on these types of updates. 
 
 For updates that affect the overall phases by modifying core definitions, workflow labels or other cross-functionally utilized processes, 
-you can create an issue or MR and assign it to the Product Operations DRI for collaboration and iteration. 
+you can create an issue or MR and assign it to the [Product Operations DRI](https://about.gitlab.com/company/team/#fseifoddini) for collaboration and iteration. 
 The Product Operations DRI will make sure alignment happens with the following stakeholders:
 
 1. [EVP of Product](https://about.gitlab.com/company/team/#sfwgitlab)
