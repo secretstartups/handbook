@@ -1330,7 +1330,7 @@ To learn more how the template system works, read through an overview on [Modern
 
 ### Release post item generator
 
-The [release post item generator](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/bin/release-post-item) automates the creation of release post items using issues. Issues are the source of truth, should have a clear description, and should be well labeled. The script uses this information to prefill release post items:
+The [release post item generator](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/bin/release-post-item) automates the creation of release post items using issues and epics. Issues and epics are the source of truth for what problems are being solved and how, and should have a clear description, and be well labeled. The script uses this information to pre-fill release post items:
 
 - issue title for `title`
 - issue `devops::` label for `stage`
@@ -1339,15 +1339,17 @@ The [release post item generator](https://gitlab.com/gitlab-com/www-gitlab-com/b
 - issue `release post item::` labels for content block type
 - issue tier labels for `available_in`
 - issue web url for `issue_url`
-- issue description 'Problem to solve' section for the `description`
-- issue description image with the name mockup (`![mockup](/uploads/...)`) for the `image_url`
+- issue description's `Release notes` or `Problem to solve` (case insensitive) section for:
+  - `description` with the lines containing the `documentation_link` and `image_url` removed
+  - `documentation_link` will be the first URL in the section beginning with `https://docs.gitlab.com`
+  - `image_url` will be the first image uploaded in the section
 
 The generator script is configured to run regularly as a scheduled job using GitLab CI. This means it can be used simply by adding a label, and waiting for the next scheduled run.
 
-1. Update your issue description with a clear problem to solve.
+1. Update your issue or epic description with a clear problem to solve.
 1. Apply the correct group, stage, category, and tier labels.
-1. Apply a release post item label to the issue. The supported labels are `release post item::top`, `release post item::primary`, `release post item::secondary`, `release post item::deprecation`, and `release post item::removal`.
-1. Wait for the scheduled CI job to run (every hour). A merge request with a draft release post item will be created, and assigned to the group's product manager. The issue will be relabeled `release post item::in review`.
+1. Apply a release post item label. The supported labels are `release post item::top`, `release post item::primary`, `release post item::secondary`, `release post item::deprecation`, and `release post item::removal`.
+1. Wait for the scheduled CI job to run (every hour). A merge request with a draft release post item will be created, and assigned to the group's product manager. The issue or epic will be relabeled `release post item::in review`.
 
 The generator script can also be run on your computer.
 
