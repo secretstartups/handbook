@@ -26,6 +26,8 @@ title: "Sales Finance"
 ## Sales Forecast Rhythm
 We believe an excellent forecasting process enables us to deploy our resources effectively, risk-manage the business, and provide early warning systems. At GitLab, we design our Sales Forecast Rhythm to foster careful inspection and execution of bookings target throughout the quarter. Each week we review various aspects of the business, such as Current/Next Quarter pipeline, Renewals timing, and leading indicators KPIs, to name but a few.
 
+[File](https://docs.google.com/spreadsheets/d/18LQD5B3E3EyV8abdVmDIyg1qL2qC2J9wwCOlBTuooIM/edit#gid=0)
+
 <figure class="video_container">
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vStHiw-vsSJXuWFkB-iZ37wZXI1GXdI1bQpTin5TfU6v1_PWMFgSjxuttzgCqUeucagCiLPjJAmOKkq/pubhtml?widget=true&amp;headers=false"></iframe>
 </figure>
