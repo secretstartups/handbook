@@ -134,22 +134,17 @@ _In Milestone_
 - `MktgOps::4 - UAT`: Issues that MktgOps has completed its required tasks for and is ready for User Acceptance Testing/review and approval by the Requester/Approver.
 - `MktgOps::7 - Completed`: MktgOps has completed their task on this issue although the issue may not be closed. The hope is that we will be using this one less as we simply scope an issue so that MktgOps can just close it when complete.
 
-**Handbook Updates**
-When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` handbook pages (or sub-pages), please use one of the following corresponding labels on the MR. This drives a new Zapier workflow that will push the MR (upon merge) to one of the following related Slack channels:
+**Handbook Updates**: 
 
-_Channels_
+When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` handbook pages (or sub-pages), we have a Zapier workflow set up that will push the MR (upon merge) to the realted slack channel to ensure our teams are aware of any change that is made to the page. In order for the merged MR to show up in the respective slack channel, you must add one of the following corresponding `labels` on the MR.
 
-1. `hbupdate-abm`
-1. `fieldmarketing-FYI`
-1. `hbupdate-mktgops`
-1. `hbupdate-sdr`
 
-_Labels_
-
-1. `MktgOps-HB Update`
-1. `FMM-HB Update`
-1. `SDR-HB Update`
-1. `ABM-HB Update`
+| Label you add | Slack channel the merged MR pushes to  |
+| ------ | ------ |
+| `MktgOps-HB Update` | `hbupdate-mktgops` |
+| `FMM-HB Update` | `fieldmarketing-FYI` |
+| `SDR-HB Update` | `hbupdate-sdr` |
+| `ABM-HB Update` | `hbupdate-abm` |
 
 ## Operations Work Cadence
 
