@@ -9,10 +9,10 @@ title: "Team Retrospectives"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-In addition to the [public function-wide
+In addition to the [public team-wide
 retrospective](/handbook/engineering/workflow/#retrospective), each Engineering
 team should be in the practice of holding their own retrospectives. The results
-of these retrospectives should then inform the function-wide retrospective for
+of these retrospectives should then inform the public team-wide retrospective for
 any given release.
 
 ## Requirements for an efficient retrospective
@@ -92,7 +92,7 @@ The retrospective summary is a short video pre-recorded by the meeting host cove
 1. If there are action items in the document for your team from the previous retrospective please provide an update on them in the document.  They will be verbalized during the meeting.
 1. Add a checkbox in the table below when your retrospective is done and when the document is updated.
 
-Please do all of these steps *at least* one day before the team-wide retrospective.
+Please do all of these steps *at least* one day before the public team-wide retrospective.
 
 It's easy for retrospectives to go off the rails if there isn't a good plan for
 collecting actionable insights. If the moderator doesn't guide the conversation
