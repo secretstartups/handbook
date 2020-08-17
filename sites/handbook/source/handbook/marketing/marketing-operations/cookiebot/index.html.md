@@ -13,7 +13,7 @@ title: "Cookiebot"
 
 Cookiebot is a cookie and online tracking consent solution we use to ensure compliance with GDPR, CCPA, and related cookie laws.
 
-**How does Cookiebot work?**
+### How does Cookiebot work?
 
 Before you consent to any cookies, Cookiebot blocks all JavaScript on our site in order to prevent cookies from being set. This works by intercepting the and preventing the document ready event. Once cookie consent has been granted by the end user, Cookiebot then restarts the JavaScripts.
 
