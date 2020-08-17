@@ -135,25 +135,34 @@ As a Support Management group we should be aware of the tooling we use to genera
 1. Sisense
 2. Zendesk Explore
 
-### Sisense
+#### Sisense
 
 Sisense is a general purpose visualization tool that is used by the greater company.
 It's extremely powerful with a full SQL interface to our data across functions.
 We work with the data team to generate "Stable" Graphs here. Think, KPIs and greater measures that make sense to report to the larger company.
 As managers, we will not need to edit these reports often, but we should consuming it regularly.
 
-### Zendesk Explore
+#### Zendesk Explore
 
 Zendesk Explore is a new tool to replace Zendesk Insights. We will use this tool
 for quick interactions on new ideas or fact checking Sisense data. Support Managers
 should be ready to work with Explore regularly and be comfortable with the tool.
 
-### Why two metrics systems?
+#### Why two metrics systems?
 
 Sisense is a company wide tool that is extremely powerful which can make it unwieldy.
 Explore gives us an interface that is much easier to navigate and use.
 Additionally, Sisense data is a secondary source so it can contain errors. 
 By being comfortable using ZD Explore, a primary source, we can make sure that we have accurate data and insights.
+
+### What happens if metrics aren't where they should be?
+If metrics are below a certain threshold (yet to be defined) a manager may call to form a [Metrics Analysis Workgroup](metrics-analysis/index.html). This action
+is unique to Support and is somewhere in-between a [Rapid Action issue](/handbook/engineering/development/#rapid-action-issue) and a [Working Group](/company/team/structure/working-groups/). 
+
+The purpose of the group will be unique to each situation that triggers it, but generally the members will:
+- form testable statements (e.g. _FRT has gone down because a lot of people have taken vacation_)
+- gather and analyze data that falsify those statements (e.g. _After taking a look at PTO data, we can see that we've had a consistent 90% coverage for the period in question, which is consistent with other times in the year_)
+- build a set of recommendations based on the data for how we can achieve consistent results
 
 ## Support Engineering Manager READMEs
 
