@@ -20,17 +20,17 @@ SKO 2021 is scheduled to take place during the week of Feb 8-12, 2021 in Denver,
 
 ## High-level SKO 2021 Agenda 
 *  Pre work: Embrace remote → learn about product strategy/roadmap prior to SKO
-*  Mon, 2020-02-08: Travel day plus evening Welcome Reception
-*  Tue, 2020-02-09: Keynote Q&As, speakers, and evening Awards Dinner
-*  Wed, 2020-02-10: Interactive role-based training breakouts
-*  Thu, 2020-02-11: Regional QBRs
-*  Fri, 2020-02-12: Travel day to return home
+*  Mon, 2021-02-08: Travel day plus evening Welcome Reception
+*  Tue, 2021-02-09: Keynote Q&As, speakers, and evening Awards Dinner
+*  Wed, 2021-02-10: Interactive role-based training breakouts
+*  Thu, 2021-02-11: Regional QBRs
+*  Fri, 2021-02-12: Travel day to return home
 All subject to change. 
 
 ## SKO 2021 FAQ 
 **Q: What are the dates and location?**
 
-A: Sales Kick Off (SKO) will take place from 2021-02-08 - 2021-02-12 in Denver, CO. The event will be held at the [Sheraton Downtown Denver](https://www.marriott.com/hotels/travel/dends-sheraton-denver-downtown-hotel/). 
+A: Sales Kick Off (SKO) will take place from 08-Feb through 12-Feb, 2021 in Denver, CO. The event will be held at the [Sheraton Downtown Denver](https://www.marriott.com/hotels/travel/dends-sheraton-denver-downtown-hotel/). 
 
 **Q: How are we planning for this event in light of COVID-19?** 
 
@@ -64,7 +64,7 @@ A: We will host a Partner Summit in tandem with SKO. Partners will be invited to
 
 **Q: Are guests welcome?**
 
-A: Unlike Contribute, guests are not permitted to participate in SKO activities, as we want to keep the focus on learning, networking, and planning for the year ahead. For this reason, we do not recommend including guests between 2021-02-09 - 2021-02-11. Guests are welcome to join before or after SKO.
+A: Unlike Contribute, guests are not permitted to participate in SKO activities, as we want to keep the focus on learning, networking, and planning for the year ahead. For this reason, we do not recommend including guests between 09-Feb to 11-Feb, 2021. Guests are welcome to join before or after SKO.
 
 **Q: Where can I ask questions related to SKO?**
 
