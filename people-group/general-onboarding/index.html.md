@@ -25,6 +25,7 @@ Sending out the Invite:
 - Use this [email template](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/TaNewKi%20Welcome%20Call)
 - The email is sent out to upcoming hires one week before the call. 
 - Be sure to cc the People Experience Team on the outgoing email.
+- The People Experience Team can check who will be attending the call by looking at the Google Form.
 
 # Onboarding at GitLab
 
