@@ -83,11 +83,15 @@ Information in the offer package for counter offers should include the following
 
 #### Offer Approval Flow
 
-1. The People Ops Analyst will receive an email notifying them of the offer.
-   * The People Ops Analyst will ensure the compensation is in line with our compensation benchmarks.
+1. The Total Rewards team will receive an email notifying them of the offer.
+   * The Total Rewards team will run the following analysis: 
+     * Ensure the compensation is in line with our compensation benchmarks
+     * Audit stock options, department, division, etc. 
+     * Add entity, job code, job grade, sales geo differential 
+     * Ensure the title is added to BambooHR. 
    * Only one approval is needed in order to move forward.
    * If the hire is not in a low location factor area above 0.9, the e-group member responsible for the function and the CFO will be notified.
-1. Next, The People Business Partners will receive a notification to approve.
+1. Next, The Financial Planning Analyst will receive a notification to approve.
 1. Next, the executive of the division will then receive a notification to approve.
 
 ### Final Offer Approval
