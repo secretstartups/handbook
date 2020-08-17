@@ -52,7 +52,7 @@ that you observe the following:
    is as an individual participant, not as the moderator. If the moderator wants
    to take a very active role in the discussion, they should find a peer,
    Director, or other member of the team willing to moderate.
-1. ** Emotions are not only _allowed_ in retrospectives, but they should also be encouraged** 
+1. **Emotions are not only _allowed_ in retrospectives, but they should also be encouraged** 
    Emotional language ("I was angry when...," "It made me sad
    that...") not only helps convey intensity, it also helps expose issues that
    may have been difficult to sort out otherwise. Make sure all participants
@@ -69,7 +69,30 @@ that you observe the following:
    it's almost always worth the cost to have everyone in a video meeting to talk
    through the retrospective in real-time.
 
-## Having a plan
+## Team retrospective format
+
+Our team retrospectives consist of two parts: **Summary** and **Discussion**.
+
+### Timeline
+
+* 24th: Meeting host opens the development retrospective issue.
+* 24th - 31st: Engineering Managers complete the retrospective issue and add their notes and highlights to the Retrospective Summary section and Improvement Task sections in the [retrospective document](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit#)
+* 31st: Meeting host closes the development retrospective issue.
+* 4th: Meeting host records a short video presentation of the Retrospective Summary. The meeting host announces the video in #whats-happening-at-gitlab slack channel including the retrospective discussion topics.
+* 6th: Retrospective Discussion meeting is held.
+
+### Retrospective summary
+
+The retrospective summary is a short video pre-recorded by the meeting host covering what went well, what went wrong, and what can be improved. All teams will fill out the retrospective issue and [doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit#) as normal along with parts they'd like to highlight. A couple of days before the retrospective meeting, the meeting host will pre-record a presentation of all the highlights. This presentation video will be sent out before the retrospective meeting and announced in the #whats-happening-at-gitlab slack channel.
+
+1. Please have a retrospective with your team following the guidelines outlined in the [handbook](https://about.gitlab.com/handbook/engineering/management/team-retrospectives/).  
+1. After the retrospective is complete, please choose a subset some of your most interesting learnings to share company-wide in the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit).  Please try to group by *topic* rather than by *team*, as suggested in #3416.
+1. In this document, if the item would be of interest to a number of teams in engineering, please indicate that it should be highlighted by adding the text **highlight** at the beginning of the text. The meeting host will highlight this item when they create the pre-recorded retrospective summary presentation video. 
+1. For items which have didn't go well, create an issue to address.  In the case where a manager feels an issue can/should not be created, please include that in the what went wrong section.
+1. If there are action items in the document for your team from the previous retrospective please provide an update on them in the document.  They will be verbalized during the meeting.
+1. Add a checkbox in the table below when your retrospective is done and when the document is updated.
+
+Please do all of these steps *at least* one day before the engineering-wide retrospective.
 
 It's easy for retrospectives to go off the rails if there isn't a good plan for
 collecting actionable insights. If the moderator doesn't guide the conversation
@@ -102,14 +125,25 @@ team, we recommend something that follows this general pattern:
    appropriately assigned to one or more team members with clear expectations
    for when they should be completed.
 
-## Retrospective Notes
+* Attendees will be encouraged to read the content of the document before the meeting.  
+* If the item (or section) says "Verbalize:" it will be verbalized in the meeting to highlight and encourage discussion on it.  The person who adds the item to the document decides if it should be verbalized.  Following this methodology leaves more time for discussion compared with reading all items in the document.
+* The meeting organizer (senior director of development or their designee) may change the verbalize/don't verbalize decision before or during the meeting.
+* Product managers and product leads (product operations, VP product, group managers and diretors) are invited to join.
+* Sections that wish to have a separate retrospective of retrospectives separate from the engineering-wide retrospective are encouraged to do so.
 
-Right now we are leaving it to individual Engineering Managers how they would
-like to collect retrospective notes - GitLab issues, Google docs, etc. After the
-retrospective is complete, the Manager has until the public retrospective call
-(shortly after the 22nd every month) to make relevant notes from the retrospective
-public. Teams are encouraged to link to these notes from their team page in the
-handbook.
+### Retrospective discussion
+
+**Discussion**
+The discussion will be a 25 minute meeting which we aim to make more interactive. We'll be focusing on action items (improvement tasks) and discussion topics. For each retrospective, the meeting host will choose two discussion topics for the group to discuss. These topics are likely to stem from the retrospective summary and the host will try to choose topics that the majority of the group will find useful. The agenda of the meeting will be:
+  * Previous retrospective improvement tasks (5 minutes)
+  * Discussion topics (14 minutes, 2 topics at 7 minutes each)
+  * Improvements to track for next release (5 minutes)
+  * Wrap up (1 minute)
+
+1. Read through the discussion topics in the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit) and add any input. The discussion topics will be announced once the pre-recorded retrospective summary video is sent out.
+1. Be prepared to verbalize any improvement tasks for your team or discussion input. Note that the meeting organizer may add additional items to verbalize, so please review the document in advance of the meeting for any additions for your team.
+1. If you can't make the meeting and there is an item for you to verbalize, please ask someone else on your team to attend to do so.
+
 
 ## Retrospective of Retrospectives
 
@@ -129,17 +163,7 @@ notes/generate content.  In particular, the following content should be added:
 * Issues created to address what went wrong this month (labeled with 'retrospective X.Y')
 
 In the case where a manager feels an issue can/should not be created, please
-include that in the what went wrong section.  
-
-### How to run the meeting
-
-* Attendees will be encouraged to read the content of the document before the meeting.  
-* If the item (or section) says "Verbalize:" it will be verbalized in the meeting to highlight and encourage discussion on it.  The person who adds the item to the document decides if it should be verbalized.  Following this methodology leaves more time for discussion compared with reading all items in the document.
-* The meeting organizer (senior director of development or their designee) may change the verbalize/don't verbalize decision before or during the meeting.
-* Product managers and product leads (product operations, VP product, group managers and diretors) are invited to join.
-* Sections that wish to have a separate retrospective of retrospectives separate from the engineering-wide retrospective are encouraged to do so.
-
- 
+include that in the what went wrong section.   
 
 ## Learn More
 
