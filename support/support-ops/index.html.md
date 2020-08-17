@@ -9,9 +9,12 @@ Support Operations Team is responsible for supporting the day-to-day operations
 and software systems used by GitLab’s global Technical Support team, primarily
 our Zendesk instance, and integrations with internal business processes and
 tools. The Support Operations Team is exclusively responsible for handling
-Zendesk Support and Explore related queries. Further details and
-responsibilities are explained
-[here](/handbook/support/support-ops/).
+Zendesk Support and Explore related queries.
+
+Further details and responsibilities are explained [here](#responsibilities).
+
+You can locate us in GitLab issues or via the `#support_operations` channel
+in slack.
 
 ## Mission:
  
@@ -49,7 +52,7 @@ The core responsibilities of the Support Ops team are:
 |--|--|--|
 | [Jason Colyer](https://gitlab.com/jcolyer) | Support Operations Manager | @jcolyer |
 | [Nabeel Bilgrami](https://gitlab.com/nabeel.bilgrami) | Support Operations Specialist (Main Instance) | @nabeel.bilgrami |
-| TBD | Support Operations Specialist (US Federal)} 
+| [Dan Nolan](https://gitlab.com/dnolan1) | Support Operations Specialist (US Federal)} | @dnolan1
 
 ## Support Operations Important Links:
 
