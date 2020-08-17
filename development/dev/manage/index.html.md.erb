@@ -35,7 +35,7 @@ In GitLab issues, questions should start by @ mentioning the relevant Product Ma
 
 #### Direction
 
-The direction and strategy for Manage is documented on https://about.gitlab.com/direction/manage/. This page (and the category direction 
+The direction and strategy for Manage is documented on https://about.gitlab.com/direction/manage/. This page (and the category direction
 pages under the "Categories" header) is the single source of truth on where we're going and why.
 * Direction pages should be reviewed regularly by Product. When updating these pages, please CC the relevant group to keep your teammates informed.
 * Product should make sure that their groups understand the direction and have an opportunity to contribute to it. Consider a monthly direction AMA for your group to field questions.
@@ -76,7 +76,7 @@ Generally speaking, issues are in one of two states:
 * "Figuring it out": we're still answering questions that prevent us from starting development,
 * "Build it": an issue is waiting for an engineer to work on it, or is actively being built.
 
-Basecamp thinks about these stages in relation to the [climb and descent of a hill](https://www.feltpresence.com/hills.html). 
+Basecamp thinks about these stages in relation to the [climb and descent of a hill](https://www.feltpresence.com/hills.html).
 
 While individual groups are free to use as many stages in the [Product Development Flow](/handbook/product-development-flow/#workflow-summary) workflow as they find useful, we should be somewhat prescriptive on how issues transition from "figuring it out" to "build it".
 
@@ -86,7 +86,7 @@ Backlog management is very challenging, but we try to do so with the use of labe
 
 ###### Refinement
 
-**The end goal is defined,** where all direct stakeholders says “yes, this is ready for development”. Some issues get there quickly, some require a few passes back and forth to figure out. 
+**The end goal is defined,** where all direct stakeholders says “yes, this is ready for development”. Some issues get there quickly, some require a few passes back and forth to figure out.
 
 The goal is for engineers to have buy-in and feel connected to the roadmap. By having engineering included earlier on, the process can be much more natural and smooth.
 
@@ -164,7 +164,7 @@ We plan in monthly cycles in accordance with our [Product Development Timeline](
 * By the 4th, Product should have created a planning issue for their group in the [Manage project](https://gitlab.com/gitlab-org/manage/issues) for the coming release.
   * This issue should include a tentative plan for the release, along with links to boards that represent the proposed work for the milestone. Please see examples from [Fulfillment](https://gitlab.com/gitlab-org/fulfillment-meta/issues/37), [Manage](https://gitlab.com/gitlab-org/manage/issues/65), and [Create](https://gitlab.com/gitlab-org/create-stage/issues/33)!
   * Issues without estimates should have the `workflow::planning breakdown` label applied to make estimation easier and be marked for the coming release as `Deliverable`. Issues of particular significance to our stage's strategy should be marked with `direction`.
-  * At this stage, the Product Manager applies the `quad-planning::ready` label to all `feature` issues and assigns them to the SET counterpart for the group. 
+  * At this stage, the Product Manager applies the `quad-planning::ready` label to all `feature` issues and assigns them to the SET counterpart for the group.
   * To review the proposed scope and kick start estimation, synchronous meetings with Engineering and Design are recommended.
 * By the 12th, all planned issues proposed for the next release should be estimated by engineering (`workflow:ready for development`).
   * To assist with capacity planning, we track the cumulative weight of closed issues over the past 3 releases on a rolling basis. The proposed scope of work for the next release should not exceed 80% of this to account for slippage from the previous release.
@@ -184,8 +184,8 @@ We strongly believe in [Iteration](/handbook/values/#iteration) and delivering v
 * Explain what problem the PoC MR is trying to solve for in the MR description.
 * Timebox it. Can you determine feasibility or a plan in less than 2-3 days?
 * Identify a reviewer to provide feedback at the end of this period.
-* Close the MR. Provide a summary in the original issue on what you learned from the PoC, including product and performance implications. 
-  * State whether you are able to move forwards with implementation or not. 
+* Close the MR. Provide a summary in the original issue on what you learned from the PoC, including product and performance implications.
+  * State whether you are able to move forwards with implementation or not.
   * Please do not close the issue.
 
 The need for a proof-of-concept MR may signal that parts of our codebase or product have become overly complex. It's always worth discussing the MR as part of the retrospective so we can discuss how to avoid this step in future.
@@ -219,21 +219,23 @@ After the Kickoff, the Manage stage conducts an [asynchronous retrospective](/ha
 We're currently exploring group-specific retrospectives, in order to create a private and safe environment for group members to share thoughts, feedback, and concerns amongst group members they work more often with.
 
 
-### Group Access - additional considerations 
+### Group Access - additional considerations
 
 #### Security Rota
 
-The Access group are responsible for several product categories that attract a significant amount of scrutiny from a security perspective. An outcome of this is that we see a higher number of new security issues being created compared to other groups, which over time has caused the security backlog to grow. To help tackle the backlog, from milestone 13.3, we will assign 2 Backend Engineers per milestone to a security rota. 
+The Access group are responsible for several product categories that attract a significant amount of scrutiny from a security perspective. An outcome of this is that we see a higher number of new security issues being created compared to other groups, which over time has caused the security backlog to grow. To help tackle the backlog, from milestone 13.3, we will assign 2 Backend Engineers per milestone to a security rota.
 
-The goal of this new process is to achieve more consistent progress in [burning through the backlog](https://app.periscopedata.com/app/gitlab/695525/Manage::Access-Backend-Overview). Historically we have focussed on solving high severity (S1/S2) issues, while trying to maintain a pragmatic balance with other concerns in the team - but this hasn't been effective in reducing the overall backlog. By dedicating capacity each milestone we can separate the planning of security issues from the main milestone goals, with the aim of introducing a more optimal process. 
+The goal of this new process is to achieve more consistent progress in [burning through the backlog](https://app.periscopedata.com/app/gitlab/695525/Manage::Access-Backend-Overview). Historically we have focussed on solving high severity (S1/S2) issues, while trying to maintain a pragmatic balance with other concerns in the team - but this hasn't been effective in reducing the overall backlog. By dedicating capacity each milestone we can separate the planning of security issues from the main milestone goals, with the aim of introducing a more optimal process.
 
 Engineers who are part of the rota should work from [this board](https://gitlab.com/groups/gitlab-org/-/boards/1816615).
 
-| Release | First Engineer | Second Engineer |
+| Release | Start Date | First Engineer | Second Engineer |
 |-----:|----------|---|
-| 13.3 | [mksionek](https://gitlab.com/mksionek) | [dblessing](https://gitlab.com/dblessing) |
-| 13.4 | [ifarkas](https://gitlab.com/ifarkas) | [manojmj](https://gitlab.com/manojmj)  |
-| 13.5 | [alexpooley](https://gitlab.com/alexpooley) |   |
+| 13.3 | 17th July 2020 | [mksionek](https://gitlab.com/mksionek) | [dblessing](https://gitlab.com/dblessing) |
+| 13.4 | 17th August 2020 | [ifarkas](https://gitlab.com/ifarkas) | [manojmj](https://gitlab.com/manojmj)  |
+| 13.5 | 17th September 2020 | [alexpooley](https://gitlab.com/alexpooley) |   |
+
+**_Comment:_** working on multple issues that are focused on one aspect of the application reduces context switch, helps with gaining knowledge faster and allows to leave this part of the application in significantly better condition after one security rota cycle.
 
 #### Refinement
 
@@ -246,19 +248,19 @@ To help with milestone planning, we encourage asynchronously weighing issues to 
 1. To encourage collaboration, the Engineer will pick someone else from the team (at random) to review the discussion.
 1. If the reviewer is happy with the weight and scope they will set the `workflow:ready for development` label. Alternatively they should raise their concerns in the issue.
 
-### Group Import - additional considerations 
+### Group Import - additional considerations
 
 While group Import follows the Manage's process described above, we utilize additional flows that help us better prepare issues for scheduling into milestones.
 
 #### Issue Triage
 
-In order to assign an [incoming issue](/handbook/engineering/quality/triage-operations/#triage-reports) to a milestone or close it, the product manager may require input from the engineers. 
+In order to assign an [incoming issue](/handbook/engineering/quality/triage-operations/#triage-reports) to a milestone or close it, the product manager may require input from the engineers.
 
 To facilitate an asynchronous triage question and answer flow, the issue is labeled with the `triage question` label and the team members are invited into a thread where the question is discussed. Any team member can answer the question and mention the product manager in the answer. If the product manager has enough information to triage the issue, the `triage question` label is removed and the issue is assigned to the appropriate milestone or closed as infeasible.
 
 #### Issue Refinement
 
-For an issue to be deemed `workflow::ready for development`, the issue goes through a refinement stage, where the engineers, the product manager, and other stable counterparts are able to evaluate the issue, ask any clarifying questions, and discuss potential approaches. At the end of that conversation, the issue can be deemed `workflow::ready for development`, marked for further breakdown or even canceled if determined not feasible. As the team creates context around the issue, they also estimate the weight during this phase. 
+For an issue to be deemed `workflow::ready for development`, the issue goes through a refinement stage, where the engineers, the product manager, and other stable counterparts are able to evaluate the issue, ask any clarifying questions, and discuss potential approaches. At the end of that conversation, the issue can be deemed `workflow::ready for development`, marked for further breakdown or even canceled if determined not feasible. As the team creates context around the issue, they also estimate the weight during this phase.
 
 All issues considered for the next 1-3 milestones need to go through the refinement, in order to be ready for scheduling into a specific release. Refining issues that are being considered for releases further in the future than the next 3 milestones is not recommended, as it may lead to throw-away effort.
 
@@ -266,7 +268,7 @@ To place an issue into refinement, the issue is labeled with `workflow::refineme
 
 Emojis are also used to vote for the issue weight. Any outlier votes are discussed in comments until a compromise is reached. Large estimates are also discussed to determine if the issue can be broken down further.
 
-If the issue has all "yes" votes and has a weight estimate, it is deemed `workflow::ready for development`. 
+If the issue has all "yes" votes and has a weight estimate, it is deemed `workflow::ready for development`.
 
 Prior to the planning meeting, a milestone priority is assigned to each issue. To avoid collisions of the milestone priorities with the P1-P4 bug and security priorities, we use the `milestone::p1`-`milestone::p4` labels. This process is experimental and will be finalized once we are able to evaluate and discuss the usefulness of these labels.
 
