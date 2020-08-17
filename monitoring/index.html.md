@@ -194,6 +194,6 @@ Blocks of Ruby code can be "instrumented" to measure performance.
 
 [Apdex]: https://en.wikipedia.org/wiki/Apdex
 [Error rate]: https://en.wikipedia.org/wiki/Bit_error_rate
-[SLA dashboard]: https://gitlab.com/gitlab-com/dashboards-gitlab-com/-/environments/1790496/metrics?dashboard=.gitlab%2Fdashboards%2Fsla-dashboard.yml&duration_seconds=604800
+[SLA dashboard]: https://gitlab.com/gitlab-com/dashboards-gitlab-com/-/metrics/sla-dashboard.yml
 [KPI]: /handbook/engineering/infrastructure/performance-indicators/#gitlabcom-availability
 [SLO]: https://en.wikipedia.org/wiki/Service-level_objective
