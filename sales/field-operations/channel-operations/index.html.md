@@ -343,14 +343,13 @@ Select and Open Partners are able to submit MDF requests via the Marketing Page 
 Partner Logos may be accessed in GitLab Partner Portal in the Asset Library under Marketing.  Logos are segmented so only authorized Select Partners have access to the Select Logo. 
 
 
-
-## **Partner Communications**
-
-
-## **Partner Flash Newsletter**
+## Partner Communications
 
 
-## **Overview**
+## Partner Flash Newsletter
+
+
+## Overview
 
 Partner Flash is a monthly newsletter that recaps important Partner-related information from the month and highlights important upcoming information. The main goal of this communication is to **help Partners ramp quickly and grow their GitLab business.**
 
@@ -360,7 +359,7 @@ Partner Flash is a monthly newsletter that recaps important Partner-related info
 The newsletter is sent to authorized users in our Partner community, the list is gathered and updated from the Partner Portal, new users are added or you can self serve by going to [this link.](https://gitlab.us19.list-manage.com/subscribe?u=5a5f55e4e0f03037d96416766&id=2321e18463) 
 
 
-## **Opportunities/Requirements**
+## Opportunities/Requirements
 
 The newsletter will…
 
@@ -429,7 +428,7 @@ The newsletter will…
 *   The team is committed to upholding the value of the newsletter – information should be relevant, feedback should be actioned on, and leadership should help reiterate by pointing to it as a useful resource for their teams.
 
 
-## **Format**
+## Format
 
 Based on the requirements above, this is the first iteration of the newsletter format:
 
@@ -450,7 +449,7 @@ Based on the requirements above, this is the first iteration of the newsletter f
     *   The top 3 takeaways from the latest GitLab release, mapped to one of the three value drivers and framed in the context of the customer value.
 
 
-## **Process**
+## Process
 
 The newsletter is sent out **on the first Thursday of each month after our Partner Webcast series has concluded.** We can adjust delivery based on feedback from the field, holidays or timing of a Partner focused update (pricing).
 
@@ -485,50 +484,20 @@ Qualitative Success Metrics
 *   Improve the Partner section of the Handbook and the Partner Portal as a result of work on the newsletter.
 
 
-## **Past Newsletters**
-
+## Past Newsletters
 05/07/2020 - [We're Live! Our First Edition of Partner Flash. ](http://eepurl.com/g2ds61)
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+06/04/2020 - [Partner Flash  Top Partner Highlights for June](http://eepurl.com/g3JFzn)
+
+07/06/2020 - [GitLab Partner Flash: July Edition](http://eepurl.com/g8hRIT)
+
+08/12/2020- [GitLab Partner Flash: August Edition](https://us19.campaign-archive.com/?u=5a5f55e4e0f03037d96416766&id=188338fd09)
+
+Additional newsletters can be found [here. ](https://us19.campaign-archive.com/home/?u=5a5f55e4e0f03037d96416766&id=2321e18463)
 
 
-![alt_text](images/image1.png "image_tooltip")
 
 
-06/04/2020 - [Partner Flash ](http://eepurl.com/g3JFzn)
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-[ Top Partner Highlights for June](http://eepurl.com/g3JFzn)
-
-07/06/2020 - 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
-[GitLab Partner Flash: July Edition](http://eepurl.com/g8hRIT)
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
-
-
-08/12/2020- 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
-[GitLab Partner Flash: August Edition](https://us19.admin.mailchimp.com/campaigns/show?id=5965053)
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
 
 
 Additional newsletters can be found [http://eepurl.com/g8hRIT](http://eepurl.com/g8hRIT)
