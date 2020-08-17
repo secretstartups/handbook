@@ -1,0 +1,61 @@
+---
+layout: handbook-page-toc
+title: Working with the GitLab.com database for developers
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+## A developer's guide to working with the GitLab.com database
+
+GitLab.com is powered by a large PostgreSQL database ("the database" in this doc) which is often used as a point of reference in terms of scale - after all, this is the largest installation of GitLab we have access to.
+
+From a development perspective, it is often necessary to gather statistics and other insights from this database - for example to provide insights for query optimization during database review or when we need more insight into data distribution to inform a product or development decision.
+
+This overview is aimed at developers wanting to access the database and also explains how to get this type of access in the first place.
+
+### Types of access
+
+There are a couple ways to directly access the database for developers:
+
+#### Direct access to data
+
+##### Direct database access to a production replica
+
+This is the most straight forward type of access: You'll have access to a psql console to an actual replica of the database (which typically serves live traffic). The console will be read-only and a 15s statement timeout must be adhered to.
+
+How to get access: File an [access-request](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#single-person-access-request) and ask for production database console access (role: `db-console`).
+
+##### Access to the "archive" replica
+
+In this case, you'll have access to a psql console to the "archive" replica. This is a replica of the database which does not serve live traffic and is prepared to be used in a rather "exploratory" fashion (suitable for rather analytical queries, too). The console access is read-only and a 15 minute statement timeout applies.
+
+How to get access: File an [access-request](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#single-person-access-request) and ask for console access to the archive database in production (role: `db-console-archive`).
+
+##### Rails console access
+
+A Rails console can be used to access the database, too. Use with extreme care as this is typically a read-write console.
+
+How to get access: File an [access-request](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#single-person-access-request) and ask for Rails console access in production (role: `rails-console`).
+
+##### Use postgres.ai (currently under evaluation) to work with a thin clone of the database (includes direct psql access to the thin clone)
+
+We currently evaluate postgres.ai which gives us the ability to work with a thin clone of the database. This has the benefit of providing a fully isolated read-write database for a single user. Thin clones are inexpensive to create and can be used and destroyed as needed.
+
+With the extended setup, you'll be able to use a psql console on a thin clone, too. This is the most flexible way of working with the database, as this even allows you to e.g. create new tables (e.g. for intermediate results) as needed.
+
+For details on the evaluation, please see [database-team/team-tasks#4](https://gitlab.com/gitlab-org/database-team/team-tasks/-/issues/47).
+
+#### Query plans and optimization
+
+In order to evaluate query performance, we have the following tools available:
+
+1. Retrieve query plans through [ChatOps on Slack](https://docs.gitlab.com/ee/development/understanding_explain_plans.html#chatops)
+2. Use [`#database-lab` Slack channel to work with a thin clone of the database](https://docs.gitlab.com/ee/development/understanding_explain_plans.html#database-lab)
+3. Use [postgres.ai](https://postgres.ai/) (currently under [evaluation](https://gitlab.com/gitlab-org/database-team/team-tasks/-/issues/47)) to fully immerse into working with a thin clone to optimize queries
+
+### Where do I get help with setting up access or any other questions?
+
+Please reach out to `#database` on Slack and consider adding to this page afterwards.
