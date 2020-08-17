@@ -26,13 +26,13 @@ I wear my heart on my sleeve, I'm very honest about what I struggle with, and I 
 
 ## Working together
 
-What's going on in your life doesn't stop just because you're at work. Please don't feel you can't talk about something because it's 'not work related'. Life is messy, let's work together to make it a little easier.
+- What's going on in your life doesn't stop just because you're at work. Please don't feel you can't talk about something because it's 'not work related'. Life is messy, let's work together to make it a little easier.
 
-I deeply respect your dignity and I count it a privilege that I get to do a little bit of life with you.  
+- I deeply respect your dignity and I count it a privilege that I get to do a little bit of life with you.  
 
-I'm very at ease with emotion, I don't attach shame to tears, some things just need that release, it's incredibly healthy and part of being fully human. 
+- I'm very at ease with emotion, I don't attach shame to tears, some things just need that release, it's incredibly healthy and part of being fully human. 
 
-I don't like being expected to read between the lines, and I don't expect you to either. Please be as open and direct as you feel comfortable being and if you're struggling with that, let me know and we can work it out together. 
+- I'm here to help - I won't always have the answers and I don't expect myself to (just as I don't expect that of you), but even if it feels off-topic, please reach out.
 
 ## What I assume about others
 
@@ -46,7 +46,8 @@ You can assume the same about me in all instances.
 ## Communicating with me
 
 - I'm not a morning person, I'm usually online around 8:30am NZT, but I block my calendar out for 30 minutes to give me time to be a bit more human and clear out overnight messages. I am still available at this time.
-- I'm here to help - I won't always have the answers and I don't expect myself to (just as I don't expect that of you), but even if it feels off-topic, please reach out. 
+
+- I don't like being expected to read between the lines, and I don't expect you to either. Please be as open and direct as you feel comfortable being and if you're struggling with that, let me know and we can work it out together. 
 
 ---
 
