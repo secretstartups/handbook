@@ -205,7 +205,7 @@ for the week ahead at the end of the meeting.
 
 ### On issues
 
-Issues worked on by the Runner group a group label of ~"group::runner". Issues that contribute to the verify stage of the devops toolchain have the ~"devops::verify" label.
+Issues worked on by the Runner group a group label of `~group::runner`. Issues that contribute to the verify stage of the devops toolchain have the `~devops::verify` label.
 
 ### Get our attention
 
@@ -219,3 +219,53 @@ where you choose a reviewer (usually not a maintainer) and then send it over to 
 
 Current maintainers are members of the [`runner-maintainers`](https://gitlab.com/groups/gitlab-com/runner-maintainers/-/group_members?with_inherited_permissions=exclude) group.
 Current reviewers are members of the [`runner-group`](https://gitlab.com/groups/gitlab-com/runner-group/-/group_members?with_inherited_permissions=exclude) group.
+
+## Team Resources
+
+### Testing on IBM Z/OS
+
+To facilitate testing the `s390x` architecture artifacts,
+a Z/OS VM is available to GitLab team members.
+
+### Logging in
+
+1. In [1Password](https://about.gitlab.com/handbook/security/#1password-guide),
+   under the `Verify` vault, download the `zOS login - gitlabkey02.pem` file.
+1. From the `zOS login` entry in the same vault, take note of the `user` and `address` fields.
+1. SSH into the Z/OS VM:
+
+    ```shell
+    ssh -i "zOS login - gitlabkey02.pem" <user>@<address>
+    ```
+
+   Note: You'll be requested the password to unlock the .pem file. Enter the password attached
+   to the `zOS login - gitlabkey02.pem` entry.
+
+### Testing helper image
+
+Assuming you want to test a `prebuilt-s390x.tar.xz` image produced by a CI/CD pipeline,
+and already have the .pem file from the [previous point](#logging-in),
+the steps would be the following:
+
+1. Copy the `prebuilt-s390x.tar.xz` file to the Z/OS VM:
+
+    ```shell script
+    scp -i "zOS login - gitlabkey02.pem" prebuilt-s390x.tar.xz <user>@<address>:/home/ubuntu/
+    ```
+
+   Note: You'll be requested the password to unlock the .pem file. Enter the password attached
+   to the `zOS login - gitlabkey02.pem` entry.
+
+1. SSH into the VM:
+
+    ```shell
+    ssh -i "zOS login - gitlabkey02.pem" <user>@<address>
+    ```
+
+1. Import the image and run it:
+
+    ```shell
+    sudo docker import ./prebuilt-s390x.tar.xz gitlab/gitlab-runner-helper:s390x-dev
+    sudo docker run -it gitlab/gitlab-runner-helper:s390x-dev bash
+    gitlab-runner-helper help
+    ```
