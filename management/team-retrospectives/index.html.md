@@ -92,7 +92,7 @@ The retrospective summary is a short video pre-recorded by the meeting host cove
 1. If there are action items in the document for your team from the previous retrospective please provide an update on them in the document.  They will be verbalized during the meeting.
 1. Add a checkbox in the table below when your retrospective is done and when the document is updated.
 
-Please do all of these steps *at least* one day before the engineering-wide retrospective.
+Please do all of these steps *at least* one day before the team-wide retrospective.
 
 It's easy for retrospectives to go off the rails if there isn't a good plan for
 collecting actionable insights. If the moderator doesn't guide the conversation
@@ -129,7 +129,7 @@ team, we recommend something that follows this general pattern:
 * If the item (or section) says "Verbalize:" it will be verbalized in the meeting to highlight and encourage discussion on it.  The person who adds the item to the document decides if it should be verbalized.  Following this methodology leaves more time for discussion compared with reading all items in the document.
 * The meeting organizer (senior director of development or their designee) may change the verbalize/don't verbalize decision before or during the meeting.
 * Product managers and product leads (product operations, VP product, group managers and diretors) are invited to join.
-* Sections that wish to have a separate retrospective of retrospectives separate from the engineering-wide retrospective are encouraged to do so.
+* Sections that wish to have a separate retrospective of retrospectives separate from the team-wide retrospective are encouraged to do so.
 
 ### Retrospective discussion
 
