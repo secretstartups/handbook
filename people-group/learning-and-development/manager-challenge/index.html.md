@@ -17,6 +17,18 @@ Welcome to the Manager Challenge page. We are rolling out a pilot version of a 4
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vST_3shd7g0Y6E46JaCdtpXKHfj6D8TAjF-fgZ4IiZ_1NETN2f8ROjBE6NtOpCSs0YXwWgYq-oHryO9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
+### Manager Challenge Learning Objectives
+
+You may be asking yourself what you will achieve by taking part in the Manager Challenge program. Our goal is that participants walk away with the following skills after completing the four-week challenge: 
+- Improve your performance by strengthening your management skills
+- Develop a management style that incorporates a whole-person approach to leading others
+- Handle difficult management situations with greater certainty in your decisions
+- Use emotional intelligence to improve leadership and build more effective relationships
+- Build an inclusive environment for your people that is built on trust
+- Grow and strengthen skills in leading remote teams at GitLab
+
+### Overview
+
 **What** 
 
 The Four Week Manager Challenge Program is a blended learning approach that incorporates self-paced daily challenges and live learning sessions to build foundational management skills. The program incorporates leadership assessments, interactive live learning sessions, and digital learning. 
