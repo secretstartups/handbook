@@ -78,6 +78,25 @@ What is the process for negotiating contracts?
    * If the contract is >$100K, more than one bid is required
    * If the contract is >$250K, an RFP is required
 
+What is the process to RFP and negotiate large hosted event contracts greater than $250K?
+
+   * RFP created by DRI based on guidance from department lead, and project goals. See [RFP template](https://docs.google.com/document/d/1gTcGBdpfeo9RQWWA8uZ37JQOkAIrcyoYO76byCMOsvM/edit).
+
+   * Finalized RFP is shared with Procurement lead via issue (plus slack notification), finance departmental lead and DRI’s department head to verify we all agree on scope and timelines. Everyone has 1 business week to respond with any changes or requests before RFP is sent out to vendors for quotes and availability. This process will follow the rules based on  ...https://about.gitlab.com/handbook/finance/procurement/
+
+   * If there are any substantial changes or objections the discussion process will be extended another business week to resolve. 
+
+   * RFP responses will be shared (with parties outlined above: procurement, department finance lead and DRI’s department lead) in group drive or shared spreadsheet. 
+
+   * As the RFP process comes to a close, the DRI will connect with the procurement lead and finance department contact to review top selection and discussions throughout the process with vendors. At this point, the DRI will introduce the shortlisted vendors to the procurement lead to kick off negotiation discussions. 
+
+   * The DRI and procurement lead will jointly strategize on which points to contest and where critical cost savings lies and set savings goals per contract. 
+
+   * Within a two week period of the RFP closing the DRI, along with counsel from finance and procurement, will compile a final list of selection and budget sheet for further review and approval from top level decision makers (see authorization matrix). 
+
+   * Once the top vendor(s) have been selected, a purchase request issue will be created by the DRI. For events that require a bit more discretion, contracting will progress to it’s designated private project, hitting all the regular contract approvals and checkpoints in a private project. 
+
+
 >### Procurement Team Approval Process
 Before approving issues, the procurement team verifies:
 
