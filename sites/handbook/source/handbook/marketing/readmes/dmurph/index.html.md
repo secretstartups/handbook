@@ -37,6 +37,8 @@ I work at the intersection of culture, operations, people, talent branding, mark
 * I champion and evangelize GitLab's all-remote culture and initiatives through [content creation](/company/culture/all-remote/guide/), interviews, webinars, case studies, podcasts, and partnerships with organizations and universities.
 * I work across the company to ensure that GitLab team members [acclimate well](/company/culture/all-remote/getting-started/) to remote, give themselves permission to embrace our [values](/handbook/values/) and operate with [remote-first workflows](/company/culture/all-remote/how-to-work-remote-first/), and [share our learnings](/handbook/marketing/corporate-marketing/#evangelism-materials) with those outside of the GitLab organization. 
 
+For more on this topic, I've shared [17 questions that this role answers](https://www.linkedin.com/pulse/remote-work-transformation-full-time-job-why-you-need-darren-murph/), detailing why it is vital in companies which are [transitioning to remote](/company/culture/all-remote/transition/).
+
 ### Conversations and interviews
 
 **Deeper conversations on this topic can be found in the below articles, podcasts, and video interviews.**
