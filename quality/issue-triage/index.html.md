@@ -37,24 +37,23 @@ An issue is considered completely triaged when:
 
 ## Priority
 
-The priority label is used for scheduling by Product Managers. If there are multiple defects, the priority label decides which defect has to be fixed immediately versus later.
+The priority label is used to determine importance and helps with scheduling in relative to the team's capacity.
 
-| Priority | Importance | Intention | DRI | 
-| ------ | ------ | ----- | ---- |
-| ~P1 | Urgent | We will address this as soon as possible regardless of limit on our team capacity | PM of that product|
-| ~P2 | High | We will address this soon and will provide capacity from our team for it in the next release | PM of that product group |
-| ~P3 | Medium | We want to address this but may have other higher priority items | PM of that product group |
-| ~P4 | Low | We don't have visibility when this will be addressed |  PM of that product group |
+| Priority | Importance | Intention | DRI |
+| -------- | ---------- | --------- | --- |
+| ~P1 | Urgent | We will address this as soon as possible regardless of limit on our team capacity            | PM of that product group |
+| ~P2 | High   | We will address this soon and will provide capacity from our team for it in the next release | PM of that product group |
+| ~P3 | Medium | We want to address this but may have other higher priority items                             | PM of that product group |
+| ~P4 | Low    | We don't have visibility when this will be addressed                                         | PM of that product group |
 
 
 ## Severity
 
-Severity labels help us clearly communicate the impact of a `~bug` on users. There can be multiple facets of a `~bug`. The below is a guideline. The presence of bug category labels `~availability `, `~performance`, `~security`, and `~UX` denotes to use the severity definition in that category.
+Severity labels help us determine urgency and clearly communicate the impact of a `~bug` on users. There can be multiple categories of a `~bug`. 
+The presence of bug category labels `~availability `, `~performance`, `~security`, and `~UX` denotes to use the severity definition in that category.
 
-The severity label also helps us define the time a ~bug or ~"corrective action" fix should be completed. Priority determines how quickly the defect turnaround time must be.
-
-This label indicates the planned timeline & urgency which is used to measure against our target SLO on delivering ~bug and ~"corrective action" fixes.
-
+The severity label also helps us define the time a ~bug or ~"corrective action" of that severity should be completed.
+This indicates the expected timeline & urgency which is used to measure our SLO targets.
 
 | Type of `~bug`         | `~S1` - Blocker                                       | `~S2` - Critical                                         | `~S3` - Major                                | `~S4` - Low                                    |
 |------------------------|-------------------------------------------------------|----------------------------------------------------------|----------------------------------------------|------------------------------------------------|
@@ -66,12 +65,12 @@ This label indicates the planned timeline & urgency which is used to measure aga
 | `~security` Security Vulnerability |See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|
 | `~UX` User experience problem | "I can't figure this out." Users are blocked (or so confused that they believe they are blocked), and are likely to ask for support. | "I can figure out why this is happening, but it's really painful to solve." Users are significantly delayed by the available workaround. | "This still works, but I have to make small changes to my process." Users are self sufficient in completing the task with the workaround, but may be somewhat delayed. |  "There is a small inconvenience or inconsistency." Usability isn't ideal or there is a small cosmetic issue. |
 
-| Label | Meaning         | Incident root cause analysis `~corrective action` SLO | `~bug` resolution SLO  |
-|-------|-----------------|--------------------------|--------------------------------------------------------------------------------|
-| `~S1` | Urgent Severity | 1 week                   | The current release + next available deployment to GitLab.com (within 30 days) |
-| `~S2` | High Severity   | 30 days                  | The next release (60 days)                                                     |
-| `~S3` | Medium Severity | 60 days                  | Within the next 3 releases (approx one quarter or 90 days)                     |
-| `~S4` | Low Severity    | 90 days                  | Anything outside the next 3 releases (more than one quarter or 120 days).      |
+| Label | Incident root cause analysis `~corrective action` SLO | `~bug` resolution SLO |
+|-------|--------------------------|--------------------------------------------------------------------------------|
+| `~S1` | 1 week                   | The current release + next available deployment to GitLab.com (within 30 days) |
+| `~S2` | 30 days                  | The next release (60 days)                                                     |
+| `~S3` | 60 days                  | Within the next 3 releases (approx one quarter or 90 days)                     |
+| `~S4` | 90 days                  | Anything outside the next 3 releases (more than one quarter or 120 days).      |
 
 ### UX debt
 
