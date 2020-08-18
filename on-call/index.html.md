@@ -89,8 +89,7 @@ schedules, and to route notifications to the appropriate individual(s).
 
 ### Swapping On-Call Duty
 
-To swap on-call duty with someone, select the relevant block of time in PagerDuty, selecting "override" and
-filling in the name of the person you swapped with. Also see [this article](https://support.pagerduty.com/hc/en-us/articles/202830170-Creating-and-Deleting-Overrides) for reference.
+Team members covering a shift for someone else are responsible for adding the override in PagerDuty. They can delegate this task back to the requestor, but only after explicitly confirming they will cover the requested shift(s). To set an override, click the "Schedule an Override" button from the side navigation on the Schedule page or after selecting the relevant block of time on the calendar or timeline view. This action defaults the person in the override to _you_ &mdash; PagerDuty assumes that you're the person volunteering an override. If you're processing this for another team member, you'll need to select their name from the drop-down list. Also see [this article](https://support.pagerduty.com/hc/en-us/articles/202830170-Creating-and-Deleting-Overrides) for reference.
 
 ### Adding and removing people from the roster
 
