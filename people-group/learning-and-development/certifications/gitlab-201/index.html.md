@@ -16,3 +16,7 @@ Welcome to the GitLab 201 Tool certification page! Here you will find our 201 co
 ### Who can benefit from this 201 training?
 
 Add detail here 
+
+### Prerequsites
+
+GitLab 101 
