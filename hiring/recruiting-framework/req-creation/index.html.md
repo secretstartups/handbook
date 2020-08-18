@@ -267,7 +267,9 @@ The [Candidate Experience Specialist](/job-families/people-ops/candidate-experie
 
 1. If there are any links in the description, click on the link, then click the link icon in the text box toolbar, then change `Target` to `New Window`, then click `Ok` and repeat for any other links in the description; this will ensure all links work properly.
 
-1. If there is an *External Job Post*, please **delete** it by clicking the ellipsis (`•••`), then `Delete`. 
+1. For the Custom Application Questions, ensure the following questions are included:
+  - LinkedIn Profile
+  - Please let us know if there are any adjustments we can make to assist you during the hiring and interview process.
 
 1. Settings
    - Send Confirmation Email to Candidates: select the `Internal Auto-Reply after Application` from the drop-down list
@@ -277,6 +279,8 @@ The [Candidate Experience Specialist](/job-families/people-ops/candidate-experie
    - Uncheck `Include 'Apply with SEEK' button`
 
 1. Click `Save`.
+
+1. If there is an *External Job Post*, please **delete** it by clicking the ellipsis (`•••`), then `Delete`. 
 
 1. Click the red button to publish the vacancy to our internal job board.
 
