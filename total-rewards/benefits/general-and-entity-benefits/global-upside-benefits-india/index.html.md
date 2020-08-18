@@ -58,3 +58,42 @@ Sodexo Meal Cards are an optional employee purchased benefit. These Meal Cards w
   - All confirmed male employees are eligible for availing Paternity Leave not exceeding 3 consecutive working days (excluding holidays) up to 2 children. These leaves are paid leaves.
 
 Total Rewards will consult with Global Upside to ensure that the statute is met.
+
+## Gratuity
+
+Gratuity is a sum of money paid by an employer to an employee as a gratitude for services rendered in the company. It is one of the retirement benefits given by the employer to the employee.
+
+**Eligibility:** Gratuity is applicable if the employee has served for five or more continuous years with the employer. 
+
+**Claim:** One can only claim gratuity after retirement or resign from the service after completing 5 years of continuous service.
+
+**Exception:** If an employee's services are terminated due to his death or has become disabled due to an accident or a disease, an employer is mandated by law to pay gratuity to him or his nominee/legal heir, as the case maybe, irrespective of the number of years of continuous service.
+
+**Forfeiture of gratuity:** The full amount of gratuity can be forfeited if an employee's services have been terminated due to: a) His riotous or disorderly conduct or any other violent act; b) Committing an offence involving moral turpitude.
+
+**Calculation of Gratuity:**
+ 
+Gratuity Amount = Last drawn Basic x No. of years worked x 15/26
+
+**Note:** 
+- The Gratuity amount is provided by employer is tax  exempt.As per latest amendment of 2018 in Payment of Gratuity Act, 1972 to the maximum limit of gratuity for  is 20 lakh INR.
+- An employee who has completed 4 years 8 months and 18 days continuously without any break is also eligible for Gratuity under the Act.
+
+## Loyalty Bonus Scheme
+
+Since GitLab has terminated it's PEO contract with Lyra and entered into a new agreement with Global Upside (Effective from 2020-06-01).
+All the Team Members based in India who work for GitLab are now employees of Global Upside. Due to this transition the team members who were about to complete their 5 years with GitLab have lost the Gratuity benefit as  they would have received otherwise. Also this situation can arise in the future too. Considering the potential negative impact to tenured team members, a Loyalty bonus scheme has been introduced.
+
+**Eligibility:**  It is applicable if the team member has served for five or more continuous years with the employer.
+
+**Claim:** One can only claim Loyalty Bonus after retirement or resign from the service after completing 5 years of continuous service.
+
+**Forfeiture of Loyalty Bonus :** The full amount of Loyalty Bonus can be forfeited if a team member’s services have been terminated due to: a) His riotous or disorderly conduct or any other violent act; b) Committing an offence involving moral turpitude.
+
+**Calculation of Loyalty Bonus:**
+
+Loyalty Bonus Amount = Last drawn Basic x No. of years worked x 15/26
+
+**Note:**
+- The Loyalty Bonus Amount is provided by GitLab to the team members. Any amount which GitLab will pay as Loyalty Bonus would be fully taxable for the team members. Maximum limit for Loyalty Bonus is 20 lakh INR.
+- As the eligibility criteria are subject to Gratuity Act. Any amendment will be subject to GitLab Management's discretion.
