@@ -110,34 +110,33 @@ You will receive CTAs automatically to update health scores if they are out of d
 
 There are a number of [enablement videos](/handbook/customer-success/tam/gainsight/#videos) you can watch to learn how to update customer health assessment and log activities that affect that assessment.
 
-#### Other Gainsight Scorecard Attributes
+#### Gainsight Scorecard Attributes and Calculations
 
-There are additional health score criteria that are automatically created and do not require manual updating, including:
+Health score criteria is either manually or automatically applied to determine the overall measure. If an individual measure is missing, the weighting is redistributed to the completed measures.
 
-- Engagement - based on recency of last call/meeting with the customer
-   - Enterprise:
-      - Green: <= 30 days
-      - Yellow: > 30 days and <= 60 days
-      - Red: > 60 days
-   - Mid-Market >=50k ARR:
-    - Green: <= 30 days
-      - Yellow: > 30 days and <= 60 days
-      - Red: > 60 days
-   - Mid-Market <50k and >=20k ARR:
-      - Green: <= 90 days
-      - Yellow: > 90 days and <= 120 days
-      - Red: > 120 days
-<!-- - ROI - based on whether the customer has an ROI Success Plan with at least one objective
-   - Enterprise:
-      - Green: Active Success Plan
-      - Yellow: Draft Success Plan
-      - Red: No Success Plan
-   - Mid-Market - >=50k ARR
-      - Green: Active Success Plan
-      - Yellow: Draft Success Plan
-      - Red: No Success Plan
--->
-- Support Issues
+## Enterprise 
+
+| Category                                                     | Description                                                  | Method    | Calculation                                                  | Weighting |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ | --------- |
+| Engagement                                                   | Based on recency of last call/meeting with the customer      | Automatic | Green: <= 30 days <br />Yellow: > 30 days and <= 60 days <br />Red: > 60 days | 5%        |
+| ROI Success Plans                                            | Does the customer have a Success Plan?                       | Automatic | Green: Active Success Plan <br />Yellow: Draft Success Plan <br />Red: No Success Plan | 10%       |
+| Support Issues                                               | Assess the health of our support interactions.<br />Current version is MVC with [v2 coming](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1202). | Automatic | Green: 1-5 tickets/month<br />Yellow: 5-15 tickets/month<br />Red: \>15 tickets/month | 5%        |
+| [TAM Sentiment](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual    | TAM manually determines red/yellow/green                     | 75%       |
+| [Product Risk](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#gainsight) |                                                              | Manual    | TAM manually determines red/yellow/green                     | 5%        |
+
+
+
+## Commercial
+
+| Category                                                     | Description                                                  | Method    | Calculation                                                  | Weighting |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ | --------- |
+| Engagement                                                   | Based on recency of last call/meeting with the customer      | Automatic | Mid-Market >=50k ARR:<br/>    - Green: <= 30 days<br/>      - Yellow: > 30 days and <= 60 days<br/>      - Red: > 60 days<br/>   - Mid-Market <50k and >=20k ARR:<br/>      - Green: <= 90 days<br/>      - Yellow: > 90 days and <= 120 days<br/>      - Red: > 120 days | 5%        |
+| ROI Success Plans                                            | Does the customer have a Success Plan?                       | Automatic | Mid-Market - >=50k ARR<br/>      - Green: Active Success Plan<br/>      - Yellow: Draft Success Plan<br/>      - Red: No Success Plan | 10%       |
+| Support Issues                                               | Assess the health of our support interactions.<br />Current version is MVC with [v2 coming](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1202). | Automatic | Green: 1-5 tickets/month<br />Yellow: 5-15 tickets/month<br />Red: \>15 tickets/month | 5%        |
+| [TAM Sentiment](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual    | TAM manually determines red/yellow/green                     | 75%       |
+| [Product Risk](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#gainsight) |                                                              | Manual    | TAM manually determines red/yellow/green                     | 5%        |
+
+
 
 #### Triage CTA
 
