@@ -47,6 +47,22 @@ Below is a list of the different technical skill sets found on the Sales System 
 * If there is a severe bug that is impacting the flow of business (i.e. No one can make a quote, No accounts are being created, Opportunities cannot be closed Won) follow the process as descibed above as well as the follow points: 
    * Share the issues in the `sales-support` Slack channel
 
+## Working our backlog of Issues
+* The Sales Systems team alternates our focus every other Monday between releasing our latest updates and reviewing issues in the backlog. Once in the Backlog the Systems team assigness each ticket a priority (`P1`,`P2`,`P3`,`P4`)
+* This status aims to facilitate the process at which the systems team can pull issues out of the backlog and to also provide some context to requstors about when their issues will be reviewed.
+  * `P1`
+    * When will the team review: These issues are reviewed every milestone. This is the first group of issues that the Systems team pulls from when looking to pull issues into a milestone. 
+    * Issues likely to get this tag: Extremly quick, easy and straight forward issues that we can't address in the next milestone. Issues that are relevant to major releases but not actively being worked on. 
+  * `P2`
+    * When will the team review: These issues are reviewed every month.
+    * Issues likely to get this tag: These issue could be a part of larger initiatives but may be considered "nice to haves". These are enhancements to existing systems and processes that are in place.   
+  * `P3`
+    * When will the team review: These issues are reviewed every quarter.
+    * Issues likely to get this tag: These issues could be composed of projects that must be worked on but have no pending deadline.  These could be overhauls of projects that have an impact on system performance but no little to no noticable affect to the field
+  * `P4`
+    * When will the team review: These issues are reviewed every year.
+    * Issues likely to get this tag: These issues could be vauge issues that do not have a direct ask, that should be epics, that provide little to no ROI for the greater field. 
+
 ## Technical Documentation
 *  [Go-To-Market Technical Documentation](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/)
 
