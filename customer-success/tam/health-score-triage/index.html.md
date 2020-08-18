@@ -121,8 +121,8 @@ Health score criteria is either manually or automatically applied to determine t
 | Engagement                                                   | Based on recency of last call/meeting with the customer      | Automatic | Green: <= 30 days <br />Yellow: > 30 days and <= 60 days <br />Red: > 60 days | 5%        |
 | ROI Success Plans                                            | Does the customer have a Success Plan?                       | Automatic | Green: Active Success Plan <br />Yellow: Draft Success Plan <br />Red: No Success Plan | 10%       |
 | Support Issues                                               | Assess the health of our support interactions.<br />Current version is MVC with [v2 coming](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1202). | Automatic | Green: 1-5 tickets/month<br />Yellow: 5-15 tickets/month<br />Red: \>15 tickets/month | 5%        |
-| [TAM Sentiment](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual    | TAM manually determines red/yellow/green                     | 75%       |
-| [Product Risk](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#gainsight) |                                                              | Manual    | TAM manually determines red/yellow/green                     | 5%        |
+| [TAM Sentiment](/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual    | TAM manually determines red/yellow/green                     | 75%       |
+| [Product Risk](/handbook/customer-success/tam/health-score-triage/#gainsight) |                                                              | Manual    | TAM manually determines red/yellow/green                     | 5%        |
 
 
 ##### Commercial
@@ -132,8 +132,8 @@ Health score criteria is either manually or automatically applied to determine t
 | Engagement                                                   | Based on recency of last call/meeting with the customer      | Automatic | Mid-Market >=50k ARR:<br/>    - Green: <= 30 days<br/>      - Yellow: > 30 days and <= 60 days<br/>      - Red: > 60 days<br/>   - Mid-Market <50k and >=20k ARR:<br/>      - Green: <= 90 days<br/>      - Yellow: > 90 days and <= 120 days<br/>      - Red: > 120 days | 5%        |
 | ROI Success Plans                                            | Does the customer have a Success Plan?                       | Automatic | Mid-Market - >=50k ARR<br/>      - Green: Active Success Plan<br/>      - Yellow: Draft Success Plan<br/>      - Red: No Success Plan | 10%       |
 | Support Issues                                               | Assess the health of our support interactions.<br />Current version is MVC with [v2 coming](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1202). | Automatic | Green: 1-5 tickets/month<br />Yellow: 5-15 tickets/month<br />Red: \>15 tickets/month | 5%        |
-| [TAM Sentiment](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual    | TAM manually determines red/yellow/green                     | 75%       |
-| [Product Risk](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#gainsight) |                                                              | Manual    | TAM manually determines red/yellow/green                     | 5%        |
+| [TAM Sentiment](/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual    | TAM manually determines red/yellow/green                     | 75%       |
+| [Product Risk](/handbook/customer-success/tam/health-score-triage/#gainsight) |                                                              | Manual    | TAM manually determines red/yellow/green                     | 5%        |
 
 
 
