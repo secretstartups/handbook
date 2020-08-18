@@ -194,7 +194,7 @@ The [Candidate Experience Specialist](/job-families/people-ops/candidate-experie
     - Background Check
     - Offer
 
-1. Confirm each person in the hiring process has appropriate access and upgrade if necessary in [Greenhouse](/handbook/hiring/greenhouse/#how-to-upgrade-access-levels).
+1. Confirm each person in the hiring process has appropriate access and upgrade if necessary in [Greenhouse](/handbook/hiring/greenhouse/#access-levels-and-permissions).
 
 1. Confirm each interviewer has a personal Zoom link.
 
