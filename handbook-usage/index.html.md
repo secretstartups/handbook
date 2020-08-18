@@ -97,8 +97,8 @@ The handbook is **organized by function and result** to ensure every item in it 
   In those cases, link to relevant sections of the handbook but don't include the content itself.
   See the [onboarding template](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding.md) as an example.
   Or for example a list of [Key Performance Indicators](/handbook/business-ops/data-team/metrics/) that links to performance indicators but doesn't duplicate definitions.
-- **Avoid unstructured content based on formats like [FAQs](https://idratherbewriting.com/2017/06/23/why-tech-writers-hate-faqs/), lists of links, resource pages, glossaries, courses, videos, tests, processes, standard operating procedure, training, or how-to's.**
-  These are very hard to keep up-to-date and are not compatible with organization per function and result.
+- **Avoid unstructured content based on formats like Learning Playbooks, [FAQs](https://idratherbewriting.com/2017/06/23/why-tech-writers-hate-faqs/), lists of links, resource pages, glossaries, courses, videos, tests, processes, standard operating procedure, training, or how-to's.**
+  These are very hard to keep up-to-date and are not compatible with organization per function and result. For example: Call it Contract Negotiation Handbook instead of Contract Negotiation Playbook
 - Instead, put the answer, link, definition, course, video, or test in the most relevant place. 
   Use descriptive headings so that people can easily search for content.
 - That said, please mix _formats_ where and when appropriate in the handbook, even within a single page. 
