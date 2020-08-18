@@ -51,13 +51,16 @@ _Note: If the team member has a contract with a co-employer, the payroll lead wi
 1. ***Specialist***: The Specialist will add the offboarding to the [People Exp/Ops Tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e18b512#gid=488708224) in the `Specialist Offboardings` tab and add their name as a DRI, or ping the other Specialists to be certain that there is a fair balance and rotation of who is the DRI.
 1. ***Specialist***:The People Specialist will post a message in the `#offboardings` confidential Slack channel and provide the name, last day, reason for resignation, rehire eligibility and location of the individual. To share this information, the Specialist will use the Slack shortcut icon and follow the steps below:
 
-    * Click on the shortcut icon in the `#offboardings` slack channel ![Shortcut Icon](./Shortcuticonoffboarding.png)
-    * Select the `Offboarding Form` workflow from the menu ![Shortcut Menu](./Shortcutmenu.png )  
+    * Click on the shortcut icon in the `#offboardings` slack channel 
+    * Select the `Offboarding Form` workflow from the menu 
     * Submit the form and it will be posted to the `#offboardings` channel
     * Tag the People Experience team, IT Ops team, and Payroll directly after the form is posted to the `#offboardings` channel
     * _Note_: If a change needs to be made to the form only an Admin or Owner of Slack can make this change.<br><br>
     
-1. ***Experience***: The People Experience Team will determine who will create the offboarding issue according to the [offboarding guidelines](/handbook/people-group/offboarding/offboarding_guidelines/), and confirm both in the `#offboardings` Slack channel and in the [People Exp/Ops Tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e18b512#gid=0).      
+1. ***Experience***: The People Experience Team will determine who will create the offboarding issue according to the [offboarding guidelines](/handbook/people-group/offboarding/offboarding_guidelines/), and confirm both in the `#offboardings` Slack channel and in the [People Exp/Ops Tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e18b512#gid=0).
+    
+    * _Note: For resignations from Director-level and above, or for departures that have significant context pre-dating the exit interview that can help make the discussion more effective, the [People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) will send out the exit survey and conduct the exit interview._     
+    
 1. ***Specialist***: The People Specialist will reach out to the team member directly to schedule an Exit Interview. 
       * The assigned People Specialist will first send out the Offboarding Informational Email according to the appropriate template. Current templates include [USA](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/offboarding_usa.md) and [Canada](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/offboarding_canada.md).
       * The assigned People Specialist will then send out the Exit Survey via Culture Amp (using the Exit Survey template in Culture Amp) and communicate with the departing team member to mention that they would like to schedule a non-mandatory exit interview, to occur during the team member's last week. 
@@ -67,7 +70,6 @@ _Note: If the team member has a contract with a co-employer, the payroll lead wi
 1. ***Experience***: The People Experience team member will reach out to the departing team member directly to confirm the time at which they can proceed with the creation of the [offboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md) on the team member's last day.
 
 #### Exit Survey
-{: #exit-survey}
 
 The Exit Survey provides team members with the opportunity to freely express views about working at GitLab.
 People Operations Specialists will send the [CultureAmp](https://www.cultureamp.com/) survey to all team members who are leaving voluntarily. The People Specialist & the team member may proactively set up time to discuss their responses and ask for further information. Exit interviews are not mandatory, however your input will help provide GitLab with information regarding what is working well and what can be improved. Please point team member to the [Offboarding FAQ page](/handbook/people-group/offboarding/faq.html).
