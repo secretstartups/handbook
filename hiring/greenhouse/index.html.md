@@ -135,7 +135,7 @@ If you want to review the candidates for multiple jobs at the same time, click `
 
 ### Configuring notifications
 
-Notifications are configured as part of the [requisition creation process](/handbook/hiring/vacancies/#open-the-requisition-in-greenhouse) but can be adjusted at any time. To set up notifications, go to the requisition's job dashboard and click on `Job Setup` at the top, then `Notifications` at the left. Under each section, you can then click `Edit` to add or remove yourself for that section.
+Notifications are configured as part of the [requisition creation process](/handbook/hiring/recruiting-framework/req-creation/#requisition-creation-process) but can be adjusted at any time. To set up notifications, go to the requisition's job dashboard and click on `Job Setup` at the top, then `Notifications` at the left. Under each section, you can then click `Edit` to add or remove yourself for that section.
 
 ### Reporting
 
