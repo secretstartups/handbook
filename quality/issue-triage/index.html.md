@@ -39,12 +39,13 @@ An issue is considered completely triaged when:
 
 The priority label is used for scheduling by Product Managers. If there are multiple defects, the priority label decides which defect has to be fixed immediately versus later.
 
-| Priority | Importance | Intention | DRI | Planning milestone |
-| ------ | ------ | ----- | ---- |---|
-| ~P1 | Urgent | We will address this as soon as possible regardless of limit on our team capacity | PM of that product| Current milestone |
-| ~P2 | High | We will address this soon and will provide capacity from our team for it in the next release | PM of that product group | Next milestone |
-| ~P3 | Medium | We want to address this but may have other higher priority items |  PM of that product group | Next 2-3 release/milestones |
-| ~P4 | Low | We don't have visibility when this will be addressed |  PM of that product group | Next 4+ milestones |
+| Priority | Importance | Intention | DRI | 
+| ------ | ------ | ----- | ---- |
+| ~P1 | Urgent | We will address this as soon as possible regardless of limit on our team capacity | PM of that product|
+| ~P2 | High | We will address this soon and will provide capacity from our team for it in the next release | PM of that product group |
+| ~P3 | Medium | We want to address this but may have other higher priority items | PM of that product group |
+| ~P4 | Low | We don't have visibility when this will be addressed |  PM of that product group |
+
 
 ## Severity
 
