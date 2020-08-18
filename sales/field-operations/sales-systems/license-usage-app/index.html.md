@@ -9,15 +9,29 @@ title: "License Usage Salesforce App"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## How to use this documentation
+## How to use License App
 
-The Documentation below is organized by Feature, each section will have the relevent inputs and outputs as well as references to the logic that processes the input and outputs.
+1. Navigate to any customer account in Salesforce.
+1. Click on the License Usage button at the top of the layout.
+1. Review the current usage of Activated vs Entitled users on all Subscriptions related to the Account.
+1. To get a summary of license usage across all your accounts click "See License Usage on all my Accounts"
+1. To give feedback or ideas for the License Usage app click "Give Feedback / Report Bug" and comment on the issue.
 
----
+## Frequently Asked Questions (FAQ)
 
-<!-->
-## Territory Success Planning
+**Q: Activated Users is great, but when will I be able to see SMAU and other activity metrics?**
+A: The Product and Data teams are working to get these metrics at the subscription level, and when they do we will add to this dash! [Follow the progress here](https://docs.google.com/document/d/17dw3qpX5PbvF_WwQXNEQuCPqGUcng1zy85R-2fIL1k8/edit#heading=h.t3mpohrk83kp).
 
+**Q: I viewed one of my Accounts, and some of the Subscription Data says "Not Available", what went wrong?**
+A: Activated User data is not yet available for some subscriptions based on Namespace collisons or requires enhancemen to Seatlink. Some subscriptions will never recieve their acticated user cound because of air gapped hosting. In either scenario please [post on the Feedback issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/912) if you think the customer's subscription data should be available.
+
+**Q: I expected there to be more (or less) Subscriptions related to the Account then was is appearing, why is this?
+A: Please confirm in the #Sales-Support slack room if you think viewing the app uncovered and issue with the customer's Subscriptions.
+
+
+
+
+<!--
 **Business Process this supports:** [Territory Success Planning](/handbook/sales/field-operations/sales-operations/#territory-success-planning-tsp)
 
 **Overview:** The goal of TSP is to keep a set of staging fields constantly update to date from a variety of data sources, then at given intervals copy these vales to the "Actual" set of fields for general use. This allows for us to contantly receive changes but only apply those changes in a control fashion at given intervals. This also allows us to easily track exceptions. Note: This project was orginally referred to as ATAM, which is why the API names of the fields reference that instead of TSP.
