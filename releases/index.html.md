@@ -93,11 +93,10 @@ towards even more frequent deployments. As we transitioned, the timelines
 for GitLab.com releases have changed and the current general process is
 described below.
 
-New auto-deploy branches are created daily.
+New auto-deploy branches are created every 6 hours at 04:00, 10:00, 16:00, 22:00 UTC. 
 
 Once a new branch is created, only commits that pass the CI tests are eligible for deployments ("green build"). This means that if specs are failing in
 [gitlab-org/gitlab], the deployments cannot progress further.
-
 
 Automated tasks in the [release-tools] project are setup to drive the next steps:
 
@@ -109,8 +108,20 @@ Automated tasks in the [release-tools] project are setup to drive the next steps
 When a new package is built, it is automatically deployed to `staging.gitlab.com`.
 As part of the deployment to this environment, a set of automated QA integration tests are run.
 
-When the automated QA test pass, the deployment automatically progresses to the
-[canary] stage.
+When the automated QA tests pass, the deployment automatically progresses to the
+[canary](https://about.gitlab.com/handbook/engineering/#canary-testing) stage where it is exposed to a sub-set of Production traffic.
+
+After some time in the [canary] stage, and provided no new exceptions or alerts are
+reported, the release is considered to be ready for deployment to GitLab.com.
+
+The promotion to the full Production GitLab.com fleet is triggered manually by the release
+managers and this can happen at any point in time but will usually not happen if there are [Deplyment blockers].
+
+Each deployment will trigger a notification in the Slack channel [#announcements](https://gitlab.slack.com/archives/C8PKBH3M5).
+After each successful deployment, a QA issue is created in [release/tasks] issue tracker.
+The purpose of these notifications are to inform the people who are involved in the
+process that their change is going through environments. This allows them to
+execute any manual testing or other tasks related to the release of their fix/feature.
 
 ### Deployment blockers
 
@@ -124,23 +135,13 @@ halted during the change lock period. Currently, the change lock period is:
 
 During the change lock period, manual deployment can be triggered through GitLab ChatOps if the deployment fixes **a S1 availability or security issue**.
 
-When the release reaches the [canary] stage and no new exceptions or alerts are
-reported, release is considered to be ready for deployment to GitLab.com.
+Additionally, the following events may block deployments:
 
-The promotion to the rest of the GitLab.com is triggered manually by the release
-managers and this can happen at any point in time.
+1. There is an [active S1, S2 or S3 incident](/handbook/engineering/infrastructure/incident-management/#labeling).
+1. There are ongoing [change issues with C1 and C2 criticality](/handbook/engineering/infrastructure/change-management/#change-criticalities).
+1. There are new exceptions in [Sentry reported in the canary environment](https://sentry.gitlab.net/gitlab/gitlabcom/).
 
-The release managers will deploy any amount of code changes to GitLab.com without a manual approval when:
-
-1. There are no [active S1, S2 and S3 incidents](/handbook/engineering/infrastructure/incident-management/#labeling).
-1. There are no ongoing [change issues with C1 and C2 criticality](/handbook/engineering/infrastructure/change-management/#change-criticalities).
-1. There are no new exceptions in [Sentry reported in the canary environment](https://sentry.gitlab.net/gitlab/gitlabcom/).
-
-Each deployment will trigger a notification in the Slack channel [#announcements](https://gitlab.slack.com/archives/C8PKBH3M5).
-After each successful deployment, QA issue is created in [release/tasks] issue tracker.
-The purpose of these notifications are to inform the people who are involved in the
-process that their change is going through environments. This allows them to
-execute any manual testing or other tasks related to the release of their fix/feature.
+If an issue is detected at any stage of the deployment process immediately declare an [S2 incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) to block the deploy, and notify the Release Managers.
 
 ### Self-managed releases
 
