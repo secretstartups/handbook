@@ -27,8 +27,6 @@ title: Metrics Analysis Workgroup
 - [Service Level Agreement (SLA)](https://about.gitlab.com/handbook/support/performance-indicators/#service-level-agreement-sla)
    - First Reply Time: Target 95%
       - Trending down since May: [Support Metrics::SLA](https://gitlab.zendesk.com/explore/dashboard/36925DBD1F5E3C7BA541DB38D11AC51E0EAAFDD30DCB63FDE83CF1389E555D96/tab/10100682) in Explore (GitLab internal)
-   - Next Reply Time: Target 95%
-      - Variable performance: [Support Metrics::SLA](https://gitlab.zendesk.com/explore/dashboard/36925DBD1F5E3C7BA541DB38D11AC51E0EAAFDD30DCB63FDE83CF1389E555D96/tab/10100682), trending down in August - [Support Metrics::SWIR](https://gitlab.zendesk.com/explore/dashboard/36925DBD1F5E3C7BA541DB38D11AC51E0EAAFDD30DCB63FDE83CF1389E555D96/tab/10602202)
 
 ## Exit Criteria
 - Define conditions under which this workgroup will be reformed. => 0%
