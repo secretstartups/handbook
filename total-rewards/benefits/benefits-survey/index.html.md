@@ -591,6 +591,89 @@ By demographic:
      * Donating free licenses and GitLab support/training to charitable organizations.
      * Providing mentorships and internships in support of D&I initiatives. 
 
+#### Entity Specific Questions
+
+
+1. The country-specific benefits provided by GitLab are comparable or better than what is offered by similar employers in my country.
+
+    | GitLab                 | Australia Score |
+    |------------------------|-----------------|
+    | Male	                 | 3.21            |
+    | Female                 | 4.67            |
+    | Individual Contributor | 3.50            |
+    | Manager                | 2.89            |
+    | Leader                 | 2.50            |
+    | Overall                | 3.32            |
+
+1. The benefits provided by Safeguard are comparable or better than what is offered by similar employers.
+
+    | GitLab                 | Ireland Score   |
+    |------------------------|-----------------|
+    | Male	                 | 1.54            |
+    | Female                 | 1.50            |
+    | Individual Contributor | 1.59            |
+    | Manager                | 1.25            |
+    | Leader                 | 1.50            |
+    | Overall                | 1.52            |
+
+1. I am satisfied with my employment through Safeguard and know who to contact if any problems were to arise.
+
+    | GitLab                 | Ireland Score   |
+    |------------------------|-----------------|
+    | Male	                 | 2.38            |
+    | Female                 | 2.20            |
+    | Individual Contributor | 2.35            |
+    | Manager                | 2.25            |
+    | Leader                 | 2.00            |
+    | Overall                | 2.30            |
+
+1. Out of the following options, which benefit would you most like to see GitLab offer in the future? (select up to 4)
+
+
+    | Response                                                          | Australia (Count) | Australia (% of Respondents) | Ireland (Count) | Ireland (% of Respondents) |
+    |-------------------------------------------------------------------|-------------------|------------------------------|-----------------|----------------------------|
+    | Paid parental leave above 16 weeks.                               | 10                | 23%                          | 6               | 26%                        | 
+    | 100% paid medical leave for 16 weeks.                             | 6                 | 14%                          | 6               | 26%                        |
+    | Expanded mental health offerings (ie. Therapy, meditation, etc.)  | 7                 | 16%                          | 8               | 35%                        |
+    | Wellness stipend.                                                 | 18                | 42%                          | 9               | 39%                        |
+    | Childcare stipend.                                                | 4                 | 9%                           | 5               | 22%                        |
+    | Student loan assistance program.                                  | 2                 | 5%                           | 2               | 9%                         |
+    | Health insurance.                                                 | 26                | 60%                          | n/a             | n/a                        |
+    | Parental leave transition coaching.                               | 1                 | 2%                           | 0               | 0%                         |
+    | Ergonomics consultations.                                         | 2                 | 5%                           | 1               | 4%                         |
+    | Global Pension with employer match.                               | 9                 | 21%                          | 18              | 78%                        | 
+    | Annual company-wide bonus.                                        | 23                | 53%                          | 11              | 48%                        |
+    | Charitable giving.                                                | 12                | 28%                          | 3               | 13%                        |
+
+1. Which benefit would you be most  willing to sacrifice to allow for new benefits?
+
+    | Response                                                          | Australia (Count) | Australia (% of Respondents) | Ireland (Count) | Ireland (% of Respondents) |
+    |-------------------------------------------------------------------|-------------------|------------------------------|-----------------|----------------------------|
+    | Paid parental leave.                                              | 4                 | 9%                           | 0               | 0%                         |
+    | Employee Assistance Program (Modern Health).                      | 11                | 26%                          | 4               | 17%                        |
+    | Office supplies/furniture reimbursement.                          | 2                 | 5%                           | 0               | 0%                         |
+    | Tuition Reimbursement.                                            | 4                 | 9%                           | 5               | 22%                        |
+    | Business Travel Accident Policy.                                  | 2                 | 5%                           | 1               | 4%                         |
+    | Discretionary Bonuses.                                            | 6                 | 14%                          | 2               | 9%                         |
+    | Referral Bonuses.                                                 | 1                 | 2%                           | 3               | 13%                        |
+    | Stock options                                                     | 2                 | 5%                           | 0               | 0%                         |
+    | Visiting grant                                                    | 2                 | 5%                           | 4               | 17%                        |
+    | $20,000 Life Insurance (Expression of Wishes)                     | 8                 | 19%                          | 3               | 13%                        | 
+
+1. Which benefits do you most want GitLab to retain? (select up to 4)
+
+    | Response                                                          | Australia (Count) | Australia (% of Respondents) | Ireland (Count) | Ireland (% of Respondents) |
+    |-------------------------------------------------------------------|-------------------|------------------------------|-----------------|----------------------------|
+    | Paid parental leave.                                              | 17                | 40%                          | 13              | 57%                        |
+    | Employee Assistance Program (Modern Health).                      | 7                 | 16%                          | 1               | 4%                         | 
+    | Office supplies/furniture reimbursement.                          | 29                | 67%                          | 15              | 65%                        |
+    | Tuition Reimbursement.                                            | 10                | 23%                          | 8               | 35%                        |   
+    | Business Travel Accident Policy.                                  | 8                 | 19%                          | 1               | 4%                         |
+    | Discretionary Bonuses.                                            | 21                | 49%                          | 9               | 39%                        |
+    | Referral Bonuses.                                                 | 1                 | 2%                           | 5               | 22%                        |
+    | Stock options                                                     | 33                | 77%                          | 20              | 87%                        |
+    | Visiting grant                                                    | 21                | 49%                          | 0               | 0%                         |
+    | $20,000 Life Insurance (Expression of Wishes)                     | 2                 | 5%                           | 3               | 13%                        |
 
 **Action Items/Issues to Open:**
 
