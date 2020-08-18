@@ -1106,22 +1106,6 @@ deprecations:
       Veritatis, quisquam.
 ```
 
-If you need to set up multiple deprecations, notify the [Release Post Manager](#release-post-manager) use multiple feature deprecation blocks:
-
-```yaml
-deprecations:
-  - feature_name: Lorem ipsum dolor
-    due: May 22nd, 2017 # example
-    description: |  # example (supports markdown)
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-      Veritatis, quisquam.
-  - feature_name: Lorem ipsum dolor
-    due: May 22nd, 2017. # example
-    description: |  # example (supports markdown)
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-      Veritatis, quisquam.
-```
-
 Per GitLab's [Versioning Policy](https://docs.gitlab.com/ee/policy/maintenance.html#versioning), non-backward compatible and breaking changes are recommended for a major release, whereas backward compatible changes can be introduced in a minor release.
 
 Once complete, assign the MR to the [technical writer](/handbook/engineering/ux/technical-writing/#designated-technical-writers) assigned to the stage.
