@@ -135,13 +135,15 @@ halted during the change lock period. Currently, the change lock period is:
 
 During the change lock period, manual deployment can be triggered through GitLab ChatOps if the deployment fixes **a S1 availability or security issue**.
 
-Additionally, the following events may block deployments:
+Additionally, the following events block automated deployments:
 
-1. There is an [active S1, S2 or S3 incident](/handbook/engineering/infrastructure/incident-management/#labeling).
-1. There are ongoing [change issues with C1 and C2 criticality](/handbook/engineering/infrastructure/change-management/#change-criticalities).
-1. There are new exceptions in [Sentry reported in the canary environment](https://sentry.gitlab.net/gitlab/gitlabcom/).
+1. An [active S1, S2 or S3 incident](/handbook/engineering/infrastructure/incident-management/#labeling).
+1. Ongoing [change issues with C1 and C2 criticality](/handbook/engineering/infrastructure/change-management/#change-criticalities).
+1. New exceptions in [Sentry reported in the canary environment](https://sentry.gitlab.net/gitlab/gitlabcom/).
 
-If an issue is detected at any stage of the deployment process immediately declare an [S2 incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) to block the deploy, and notify the Release Managers.
+Release Managers may decide, with input from the [EOC](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) to override a block and continue with the deployment. 
+
+Anyone can **block or halt a deployment** by declaring an [S2 incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) and alerting the Release Managers in the [#releases] channel. 
 
 ### Self-managed releases
 
@@ -326,13 +328,9 @@ guide for more information.
 
 ### I found a regression in the QA issue, what do I do next?
 
-If you've found a regression while checking the QA issue created in the [release/tasks] project, check the issue description for more details on what
-to do next.
+If you've found a regression with a potentially a high [severity], immediately follow the steps in [Deployment blockers] to halt the deployment.
 
-If you believe that the regression has a high [severity], immediately declare an [S3 incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) to block the deploy, and inform Release Managers in the QA issue by mentioning `@gitlab-org/release/managers`.
-In addition to that, engage with the releases managers in the [#releases] channel and confirm with them whether deployments need to be halted.
-
-If a regression is found in a new feature, and only that feature is affected, follow the directions in the QA issue for a regular regression.
+If a regression is found in a new feature, and only that feature is affected, follow the directions in the QA issue created in the [release/tasks] project for a regular regression.
 
 ### What's the process for a release of type X?
 
