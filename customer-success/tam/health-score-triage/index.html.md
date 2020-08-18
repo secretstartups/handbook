@@ -114,7 +114,7 @@ There are a number of [enablement videos](/handbook/customer-success/tam/gainsig
 
 Health score criteria is either manually or automatically applied to determine the overall measure. If an individual measure is missing, the weighting is redistributed to the completed measures.
 
-## Enterprise 
+##### Enterprise 
 
 | Category                                                     | Description                                                  | Method    | Calculation                                                  | Weighting |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ | --------- |
@@ -125,8 +125,7 @@ Health score criteria is either manually or automatically applied to determine t
 | [Product Risk](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#gainsight) |                                                              | Manual    | TAM manually determines red/yellow/green                     | 5%        |
 
 
-
-## Commercial
+##### Commercial
 
 | Category                                                     | Description                                                  | Method    | Calculation                                                  | Weighting |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ | --------- |
