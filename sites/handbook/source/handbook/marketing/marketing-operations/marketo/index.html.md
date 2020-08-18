@@ -29,10 +29,12 @@ All forms should follow these guidelines:
 - Field labels are always ALL CAPS
 - Label width = 150 / Field width = 300
 - Fields should be stacked in a vertical line
-- `State/Province` only visible when `Country` = `United States` or `Canada`; the visibility rule dynamically displays `Province` when `Canada` selected or `State` when `United States` selected 
+- `State/Province` only visible when `Country` = `United States` or `Canada`; the visibility rule dynamically displays `Province` when `Canada` is selected or `State` when `United States` is selected 
 - Generally `City` is only visible when `Country` = `Ukraine`
-- Forms should all contain a checkbox for the acceptance of the privacy policy
-- When `Country` = `Ukraine` there is an additional checkbox for the submitter to confirm they do not belong to the Crimean region of the Ukraine  
+- Forms should all contain a checkbox for `opting in` to communications via email
+- When `Country` = `Ukraine` there is an additional checkbox for the submitter to confirm they do not belong to the Crimean region of the Ukraine
+- Country should not include [embargoed countries ](https://about.gitlab.com/handbook/people-group/code-of-conduct/#trade-compliance-exportimport-control) 
+- All forms should have hidden fields for Demandbase, gclid and google analytics tracking
 
 For more information on website form management [click here](/handbook/marketing/marketing-operations/#website-form-management).
 
@@ -47,7 +49,11 @@ There are several workflows that clean the `Country` &/or `State` fields to ensu
 
 `Marketing Activities` -> `Operational - Do not edit` -> `Data Management` -> `01 Data Management` -> `04-Normalize Data`   
 
+- All 50 US states and all Canadian Provinces have standardization campaigns to set them from their two letter abbreviation to their full spelling.
+- The following countries have common variations updated to their accepted values: United States, Bolivia, Canada, China, France, Germany, Hong Kong, India, Iran, Ireland, Macao, Myanmar, Netherlands, Russia, South Korea, Sweden, Switzerland, United Kingdom, Venezuela, Vietnam.
+
 If a `Country` &/or `State/Province` standardization is needed, please open an issue in the [Marketing Operations project](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=).
+
 
 
 #### Scoring Workflows
@@ -131,7 +137,7 @@ Below is the folder structure to hold and categorize different operational progr
     - Scoring
 - Archive
 
-*Nested under each folder there are programs. Quarterly folders are created at the end of the quarter to help with organization. Quarterly folders will be archived after two quarters. In the future if we have additional types of folders to add, we can do so.* 
+* Nested under each folder there are programs. Quarterly folders are created at the end of the quarter to help with organization. Quarterly folders will be archived after two quarters. In the future if we have additional types of folders to add, we can do so.* 
 
 ### Account Based Marketing List   
 
