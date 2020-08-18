@@ -228,7 +228,7 @@ For some incidents, we may figure out that the usage patterns that led to the is
 ### Summary of Backup Strategy
 
 - Backups of our databases are taken every 24 hours with continuous incremental data (at 60 sec intervals) streaming into a separate cloud service from the production fleet. These backups are encrypted.
-- Backups of our filesystems are taken via GCP snapshots every 24 hours.
+- Backups of our filesystems are taken via GCP snapshots every 4 hours.
 - Both database and filesystem backups are kept for 2 weeks on a rolling duration.
 
 For details see the runbooks, in particular regarding details on [GCP snapshots](https://gitlab.com/gitlab-com/runbooks/blob/master/docs/uncategorized/gcp-snapshots.md) and [Database backups using WAL-E (encrypted)](https://gitlab.com/gitlab-com/runbooks/blob/master/docs/patroni/using-wale-gpg.md)
