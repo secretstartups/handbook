@@ -64,3 +64,7 @@ It is worth stressing that partnerships and close working relations as outlined 
 15. After 3 iterations work can be concluded or expanded for another 3 iterations
 
 A detailed description of the [workflow](workflow/) is available.
+
+### Blueprints
+
+* [Cloud Native Build Logs](/handbook/engineering/architecture/blueprints/cloud_native_build_logs/)
