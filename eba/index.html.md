@@ -337,6 +337,12 @@ Access to Mission Control: In case of a meeting in San Francisco at Mission Cont
 * Slack should be used for instant back and forth communication, not for items requiring followup or action
 * Email is the preferred method of contact for any items that need follow up, approvals or action by Eric
 * Meeting requests for Eric should be posted in #eba-team  channel on Slack tagging EBA
+* [Skip-Level meetings](https://about.gitlab.com/handbook/leadership/skip-levels/#the-purpose-of-skip-level-meetings) are true skip-levels and attendees are the direct reports of the EVPE's direct reports 
+    * Other ways to connect with Eric:
+      * Attend the weekly EVPE Office Hours
+      * Attend the quarterly AMA with Eric
+      * Message in the #evpe slack channel
+      
 #### **Eric's Meetings:**
 
 * Eric is Required (try not to move this meeting)
