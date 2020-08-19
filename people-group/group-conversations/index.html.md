@@ -139,7 +139,7 @@ If a Group Conversation is cancelled, the People Operations and People Experienc
 
 ## For Moderators
 
-The `People Experience and People Specialist` teams are responsible for moderating the following calls on a rotational bases:
+The `People Experience and People Specialist` teams are responsible for moderating the following calls on a rotational basis:
 
 - AMAs (If requested with sufficient notice as per the instructions detailed [here](/handbook/people-group/group-conversations/#request-an-ama)) 
 - Group Conversations 
