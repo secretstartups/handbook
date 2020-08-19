@@ -242,17 +242,15 @@ When your account was created, the GitLab handle that you provide is used to aut
 
 1. On the newly created cluster page, click the **Applications** tab.
 
-2. Locate _Helm Tiller_ and click the **Install** button. Please wait a few moments for this to complete.
+2. Locate _Prometheus_ and click the **Install** button. Please wait a few moments for this to complete.
 
-3. Locate _Prometheus_ and click the **Install** button. Please wait a few moments for this to complete.
-
-4. Locate _GitLab Runner_ and click the **Install** button. Please wait a few moments for this to complete.
+3. Locate _GitLab Runner_ and click the **Install** button. Please wait a few moments for this to complete.
 
     ![Installed applications](https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/getting-started/configuring-group-cluster-14.png)
 
-5. At the top of the page, click on the **Health** tab for your cluster.
+4. At the top of the page, click on the **Health** tab for your cluster.
 
-6. Take a few moments to understand the metrics that are available from Prometheus. If you experience errors with your cluster, you can understand if it's related to CPU and Memory saturated using Prometheus.
+5. Take a few moments to understand the metrics that are available from Prometheus. If you experience errors with your cluster, you can understand if it's related to CPU and Memory saturated using Prometheus.
 
     ![Installed applications](https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/getting-started/configuring-group-cluster-15.png)
 
