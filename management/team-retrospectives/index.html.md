@@ -9,9 +9,7 @@ title: "Team Retrospectives"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-In addition to the [public retrospective summary and discussion](/handbook/engineering/workflow/#retrospective), each Engineering
-team should be in the practice of holding their own retrospectives. The results
-of these retrospectives should then inform the public retrospective summary and discussion for
+As part of the [retrospective](/handbook/engineering/workflow/#retrospective), each team should hold their own retrospectives. The results of these retrospectives should then inform the [Retrospective Summary](/handbook/engineering/workflow/#retrospective-summary) and [Retrospective Discussion](/handbook/engineering/workflow/#retrospective-discussion) for
 any given release.
 
 ## Requirements for an efficient retrospective
@@ -68,19 +66,7 @@ that you observe the following:
    it's almost always worth the cost to have everyone in a video meeting to talk
    through the retrospective in real-time.
 
-## Team retrospective format
-
-Our team retrospectives consist of two parts: **Summary** and **Discussion**.
-
-### Timeline
-
-* 24th: Meeting host opens the development retrospective issue.
-* 24th - 31st: Engineering Managers complete the retrospective issue and add their notes and highlights to the Retrospective Summary section and Improvement Task sections in the [retrospective document](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit#)
-* 31st: Meeting host closes the development retrospective issue.
-* 4th: Meeting host records a short video presentation of the Retrospective Summary. The meeting host announces the video in #whats-happening-at-gitlab slack channel including the retrospective discussion topics.
-* 6th: Retrospective Discussion meeting is held.
-
-Please do all of these steps *at least* one day before the public retrospective summary and discussion.
+## Having a plan
 
 It's easy for retrospectives to go off the rails if there isn't a good plan for
 collecting actionable insights. If the moderator doesn't guide the conversation
@@ -113,17 +99,16 @@ team, we recommend something that follows this general pattern:
    appropriately assigned to one or more team members with clear expectations
    for when they should be completed.
 
-* Attendees will be encouraged to read the content of the document before the meeting.  
-* If the item (or section) says "Verbalize:" it will be verbalized in the meeting to highlight and encourage discussion on it.  The person who adds the item to the document decides if it should be verbalized.  Following this methodology leaves more time for discussion compared with reading all items in the document.
-* The meeting organizer (senior director of development or their designee) may change the verbalize/don't verbalize decision before or during the meeting.
-* Product managers and product leads (product operations, VP product, group managers and diretors) are invited to join.
-* Sections that wish to have a separate retrospective of retrospectives separate from the retrospective summary and discussion are encouraged to do so.
-
+Right now we are leaving it to individual Engineering Managers how they would
+like to collect retrospective notes - GitLab issues, Google docs, etc. After the
+retrospective is complete, the Manager has until the [Retrospective Summary](/handbook/engineering/workflow/#retrospective-summary) (shortly after the 22nd every month) to make relevant notes from the retrospective
+public. Teams are encouraged to link to these notes from their team page in the
+handbook.
 
 ## Retrospective of Retrospectives
 
-As part of the retrospective process an [Engineering
-retrospective](/handbook/engineering/workflow/#retrospective) is performed which
+As part of the retrospective process a 
+[retrospective](/handbook/engineering/workflow/#retrospective) is performed which
 is a summary of retros.  Please review the Engineering Retrospective for
 documentation and format of the meeting. To track the work an issue will be
 opened per release.  An Example issue:
