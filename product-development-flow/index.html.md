@@ -237,7 +237,7 @@ You can view all the work in happening in this track [on this board](https://git
 
 ## Build track  
 
-The build track is where we plan, develop, and deliver value to our users by building [MVCs](/handbook/product/product-principles/#the-minimal-viable-change-mvc), fixing defects, patching security vulnerabilities, enhancing user experience, and improving performance. DRIs across engineering disciplines involving [Design, Backend, Frontend and Quality](/handbook/product/product-processes/#pm-em-ux-and-set-quad-dris) work closely together to implement MVCs while in close collaboration with the Product Manager. Decisions are made quickly if challenges arise. We make sure to instrument [usage](/handbook/product/product-processes/#instrumentation-for-gitlabcom/) and performance measurements, so once MVCs are delivered to the hands of customers, feedback is captured quickly for learnings to refine the next iteration.
+The build track is where we plan, develop, and deliver value to our users by building [MVCs](/handbook/product/product-principles/#the-minimal-viable-change-mvc), fixing defects, patching security vulnerabilities, enhancing user experience, and improving performance. DRIs across engineering disciplines involving [Design, Backend, Frontend and Quality](/handbook/product/product-processes/#pm-em-ux-and-set-quad-dris) work closely together to implement MVCs while in close collaboration with the Product Manager. Decisions are made quickly if challenges arise. We make sure to instrument [usage](/handbook/product/product-processes/#product-metrics) and performance measurements, so once MVCs are delivered to the hands of customers, feedback is captured quickly for learnings to refine the next iteration.
 
 ### Build Goals & Outcomes
 
