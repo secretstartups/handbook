@@ -356,6 +356,21 @@ GitLab customers were interviewed and related data was collected independently b
 **Value Drivers:** Efficiency, Speed, Risk<br>
 **Usecase** SCM, CI, CD, Simplify DevOps
 
+----
+
+<big>[Gartner Peer Insights "Voice of the Customer": Application Release Orchestration](https://about.gitlab.com/analysts/gartner-votc20/)
+_GitLab is named a Customers' Choice in the March 2020 Gartner Peer Insights "Voice of the Customer" - Application Release Orchestration_<br>
+**Value Drivers:** Efficiency, Speed<br>
+**Differentiators:** Visibility<br>
+**Usecase** SCM, CI, CD, Simplify DevOps
+
+----
+
+<big>[Gartner Magic Quadrant for Enterprise Agile Planning Tools](https://about.gitlab.com/analysts/gartner-eapt20/)
+_Gartner Cites GitLab as a Visionary in MQ for EAPT_<br>
+**Value Drivers:** Efficiency, Speed<br>
+**Differentiators:** Visibility<br>
+**Usecase** SCM, CI, CD, Simplify DevOps, Agile
 
 #### 2019
 
