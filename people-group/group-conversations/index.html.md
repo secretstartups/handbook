@@ -149,7 +149,7 @@ The teams will assist with moderating calls where the audience is applicable to 
 
 ### Preparing for the Group Conversation
 
-All Group Conversations (Public and Private) will be streamed to YouTube within the [GitLab Unfiltered](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#channels) channel.  Guidelines around livestreaming including starting the countdown; initiating the livestream and troubleshooting should you hit a snag can be found on the [YouTube Uses and Access](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#starting-a-recorded-video) page.
+All Group Conversations (Public and Private) will be streamed to YouTube within the [GitLab Unfiltered](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#channels) channel.  Guidelines around streaming including starting the countdown; initiating the livestream and troubleshooting should you hit a snag can be found on the [YouTube Uses and Access](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#starting-a-recorded-video) page.
 
 Additional links which may be useful when preparing to moderate a call include:
 - [The YouTube Livestreaming Introduction](https://support.google.com/youtube/answer/2474026?hl=en)
