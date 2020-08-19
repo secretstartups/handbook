@@ -9,8 +9,7 @@ title: "Team Retrospectives"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-As part of the [retrospective](/handbook/engineering/workflow/#retrospective), each team should hold their own retrospectives. The results of these retrospectives should then inform the [Retrospective Summary](/handbook/engineering/workflow/#retrospective-summary) and [Retrospective Discussion](/handbook/engineering/workflow/#retrospective-discussion) for
-any given release.
+As a part of our [retrospective process](/handbook/engineering/workflow/#retrospective), at the end of each release, each team should hold their own Team Retrospective. The goal of the retrospective is to talk through what went well, what went wrong, and what can be improved. 
 
 ## Requirements for an efficient retrospective
 
@@ -99,31 +98,13 @@ team, we recommend something that follows this general pattern:
    appropriately assigned to one or more team members with clear expectations
    for when they should be completed.
 
+## Retrospective Notes
+
 Right now we are leaving it to individual Engineering Managers how they would
 like to collect retrospective notes - GitLab issues, Google docs, etc. After the
-retrospective is complete, the Manager has until the [Retrospective Summary](/handbook/engineering/workflow/#retrospective-summary) (shortly after the 22nd every month) to make relevant notes from the retrospective
+retrospective is complete, the Engineering Manager has until the [Retrospective Summary](/handbook/engineering/workflow/#retrospective-summary) (shortly after the 22nd every month) to make relevant notes from the retrospective
 public. Teams are encouraged to link to these notes from their team page in the
 handbook.
-
-## Retrospective of Retrospectives
-
-As part of the retrospective process a 
-[retrospective](/handbook/engineering/workflow/#retrospective) is performed which
-is a summary of retros.  Please review the Engineering Retrospective for
-documentation and format of the meeting. To track the work an issue will be
-opened per release.  An Example issue:
-[https://gitlab.com/gitlab-com/www-gitlab-com/issues/3990](https://gitlab.com/gitlab-com/www-gitlab-com/issues/3990).
-Engineering Managers should save ample time between the closing of their
-individual team retrospectives and the Engineering retrospective to review
-notes/generate content.  In particular, the following content should be added:
-
-* Any issues marked with retro label that have been updated since last retro.  
-* What went well during this month
-* What went wrong this month
-* Issues created to address what went wrong this month (labeled with 'retrospective X.Y')
-
-In the case where a manager feels an issue can/should not be created, please
-include that in the what went wrong section.   
 
 ## Learn More
 
