@@ -178,7 +178,7 @@ associated with the organizations. The current process for this is as follows:
    1. Ask the user to provide their license details and verify the license/e-mail is valid (e.g. in [Licenses portal](https://license.gitlab.com/)). If valid, it is OK to associate this particular user to the org that owns the license.
       * There is a field in the ticket titled **Email associated with your GitLab instance**. It is possible that it is already populated and that user already provided the e-mail that is owning the license, in which case we don't need to explicitly ask for it (or the screenshot).
       * You can also ask the user to provide a screenshot of the `/admin/license` endpoint from their instance or to tell you the e-mail to which the license their organisation is using is associated to. To do this quickly, you can use the macro called **Self-Managed::Locating GitLab subscription**. 
-   1. Reach out to the TAM (Technical Account Manager) or Account Owner (sometimes referred to as AM / Account Manager) to confirm they should be added.
+   1. Reach out to the TAM (Technical Account Manager) or Account Owner (sometimes referred to as AM / Account Manager) to confirm they should be added.  Do this in the `#account-management` slack channel and mention the TAM or AM if they are known.
          1. Ask the TAM / Account Owner to add the user under the contacts for that Salesforce Account. (You can find the TAM / Account Owner name in Zendesk on the Organization's screen - this is synced from SalesForce.)
          1. Once the user is added as a contact in Salesforce, you may safely associate the user to the organization.
 
