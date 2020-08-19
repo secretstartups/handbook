@@ -392,6 +392,11 @@ For each monthly release, a Retrospective planning and execution issue is opened
 - `M+1, 4th`: Moderator records the Retrospective Summary video and announces the video and discussion topics.
 - `M+1, 6th`: Retrospective Discussion is held.
 
+**Moderator**
+The moderator of each retrospective is responsible for the execution of the Retrospective Summary and Retrospective Discussion. The job of a moderator is to remain objective and is focused on guiding conversations forward.
+
+The moderator for each retrospective is assigned by the VP Development in each milestone.
+
 ### Team Retrospectives
 
 At the end of every release, each team should host their own retrospective. For details on how this is done, see [Team Retrospectives](/handbook/engineering/management/team-retrospectives/).
