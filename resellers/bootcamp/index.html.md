@@ -32,7 +32,7 @@ These sections are independent, you can take any of them or both in any order de
 ### Agile Project Management
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/bCDmxG4IIXA" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/bCDmxG4IIXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 ### Code Management & Version Control
