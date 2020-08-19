@@ -1243,14 +1243,9 @@ make sure all images have the class shadow applied:
   - If the original image already has shadow applied, don't use `{:.shadow}`.
   - If you're inserting the image in the YAML file via `image_url` entry, add the `image_noshadow: true` [entry](#feature-blocks) right after `image_url`.
 - {:#social-sharing-image} **Social sharing image**:
-It's recommended to add a [social sharing image](../index.html#social-media-info)
-to the blog post. It is the image that will display on
-social media feeds whenever the link to the post is shared.
-It's a screenshot from the release post blog  page zoomed in. Read the linked blog handbook
-for reference, and you can also watch a quick
-[video tutorial on how to do it](https://youtu.be/boGIpF-2gw8).
-The image should be placed under `source/images/tweets/`
-and named after the post's filename (`gitlab-X-Y-released.png`).
+It's required to add a [social sharing image](../index.html#social-media-info) to the blog post. It is the image that will display on social media feeds (and Slack) whenever the link to the post is shared. The image is created in coordination with the social media team. 
+  - Around the 20th, the messaging lead should tag @social in the release post issue, link to the blog hero chosen image, and provide the blog title. A member of the social team will then create the image needed, adding two commits to the MR: 1 for uploading the image to the directory, and 1 adding the image URL in the `twitter_image` section of the frontmatter in the blog post.
+  - Images used for release posts will be placed under `source/images/opengraph/release-posts/` directory and named after the post's filename release number (xx-x in the title).
 
 #### Videos
 
