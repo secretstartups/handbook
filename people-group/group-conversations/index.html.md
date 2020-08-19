@@ -11,41 +11,49 @@ title: "Group Conversations"
 
 ## Introduction
 
-Group Conversations are optional recurring meetings providing regular updates from GitLab teams on a [rotating schedule](/handbook/people-group/group-conversations/#scheduling). 
-They are scheduled by [People Experience Associates](/job-families/people-ops/people-experience-associate/) and will automatically appear on your calendar. 
-Everyone is invited to participate by adding questions and comments to the Google Doc linked in the calendar invite. 
-Non-confidential group conversations are streamed live and shared publicly to our [GitLab Unfiltered YouTube channel](https://www.youtube.com/playlist?list=PL05JrBw4t0KpUeT6ozUTatC-JbNoJCC-e).
+Group Conversations are optional recurring meetings providing regular updates across all GitLab teams on a [rotating schedule](/handbook/people-group/group-conversations/#scheduling). 
 
-Group Conversations at GitLab used to be called Functional Group Updates, but they were renamed to Group Conversations because they're not presentations or updates; they are conversations. Functional groups is a former term used, now encompassed by the term **Departments**. 
+The [People Experience Associates](/job-families/people-ops/people-experience-associate/) are responsible for scheduling these events which should automatically appear within the GitLab Team Meetings Calendar from 08:00am to 08:25am Pacific Standard Time (PST) from Monday to Thursday.
 
-In this video our CEO, Sid gives our team tips and tricks for their FGU. This still applies to Group Conversations.
+All Team Members are invited to participate Group Conversations by adding questions and comments in the Group Conversation Agenda, a Google Doc linked in the respective calendar invite.
+
+Non-confidential Group Conversations are streamed live and shared publicly to our [GitLab Unfiltered YouTube channel](https://www.youtube.com/playlist?list=PL05JrBw4t0KpUeT6ozUTatC-JbNoJCC-e).  Confidential Group Conversations which are not streamed live or shared publicly to YouTube include Finance; Sales; Security and Partnerships.
+
+Group Conversations at GitLab were previously known as Functional Group Updates (FGU) and were renamed because they're not presentations or updates but rather conversations - the term Functional Groups is now encompassed by the use of Departments. 
+
+In this video our CEO, Sid gives team members tips and tricks for hosting a FGU which are still relevant and applicable to Group Conversations.
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/MN3mzvbgwuc" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Below is a guide to help everyone get the most out of these conversations. If you have suggestions for how to make the attendee or meeting leader experience please create an MR to update this page — [everyone can contribute](/company/strategy/#why)!
+Below is a guide to ensure evenryone gets the most out of Group Conversations. If you have suggestions for improving the Attendee or Meeting Leader experience please create a Merge Request (MR) to update this page — [everyone can contribute](/company/strategy/#why)!
 
 ## Defining Terms
 
 ### Host
+ 
+The Host of a Zoom call is the person leading the conversation, usually the [DRI](/handbook/people-group/group-conversations/#schedule--dri), subject matter expert and overseer of the slides created for a call (another term for the role is Presenter). 
 
-Before you host your first Group Conversation, complete this [Group Conversation training issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/group-conversation-host.md). 
-The host of a Zoom call is the person leading the conversation, usually the [DRI](/handbook/people-group/group-conversations/#schedule--dri), subject matter expert and overseer of the slides created for a call. Another term for the role is presenter. Questions will generally be directed to the host, and they will usually answer them unless they feel that another team member has more information or expertise to answer. The host/presenter makes sure that questions are asked in the order they are listed in the agenda document. The "host" term can be confusing as Zoom has a specific definition for host, which in practice GitLab does not assign to the term. _More information on Zoom's definition of "host" is explained below_. 
+Questions will generally be directed to the Host, and they will usually answer them unless they feel that another team member has more information or expertise to offer. The Host/Presenter makes sure that questions are asked in the order they are listed in the agenda document. 
+
+The "Host" term can be confusing as Zoom has a specific definition for Host pertaining mainly to a permission level, which in practice GitLab does not assign to the term. _More information on Zoom's definition of "host" is explained in the Moderator section below_.
+
+Before you host your first Group Conversation, please be sure complete this [Group Conversation Training Issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/group-conversation-host.md) which will support you in your preparations.
 
 ### Moderator
 
-The moderator of a Zoom call is the person that has Zoom's *Host* level permission. Host level permission in Zoom permits livestreaming a call, starting or ending a recording and giving co-hosting permissions to others. The moderator of a Zoom call is the person who is in charge of starting the call, livestreaming, updating the livestream from public to private if a sensitive topic is mentioned, and keeping the meeting on time so that it does not go over the Quick Meeting time frame. 
+The Moderator of a Zoom call is the person that has Zoom's *Host* level permission. Host level permission in Zoom permits streaming a call to YouTube, starting or ending a recording and giving co-hosting permissions to others. 
+
+The Moderator of a Zoom call is the person who is in charge of starting the call i.e. initiating the countdown; streaming; updating the stream from public to private if a sensitive topic is mentioned, and keeping the meeting running efficiently and on time so that it does not go over the Quick Meeting time frame. 
 
 ## For Attendees
 
-Attendance is optional. If you are unable to attend the Group Conversation at its scheduled time, don't let that hold you back! 
-Watch the latest Group Conversation on the GitLab Unfiltered YouTube Channel. 
-Public Group Conversations are also in the [GitLab Unfiltered Podcast](/blog/2019/07/03/group-conversation-podcast/).
-If you have questions or a discussion to start, bring it to the `#group-conversations` Slack channel! 
-Make sure to @tag the presenter!
+Attendance of Group Conversations is optional - if you are unable to attend a Group Conversation at its scheduled time, don't let that hold you back!  Watch the latest Group Conversation on the GitLab Unfiltered YouTube Channel. Alternatively Public Group Conversations can also be found in the [GitLab Unfiltered Podcast](/blog/2019/07/03/group-conversation-podcast/).
 
-1. Please enter your questions or comments on the linked Google Doc. Preface your question with your full name (first and last name) because there might be other people with your first name on the call and it's helpful to newcomers if they are distinguished. Remember [First Post is a badge of honor](/handbook/communication/#first-post-is-a-badge-of-honor).
+If you have questions around an upcoming Group Conversation or would like to start a discussion, please be sure to bring it to the `#group-conversations` Slack channel and @tag the presenter!
+
+1. Please enter your questions or comments on the linked Google Doc. Preface your question with your full name (first and last name) because there might be other people with your first name on the call and it's helpful to newcomers if they are distinguished. Remember [First Post is a Badge of Honor](/handbook/communication/#first-post-is-a-badge-of-honor).
 1. Keep in mind that Group Conversations are live streamed and shared publicly and that it's okay to opt out of using your name due to safety and privacy concerns.
 1. Please do not include customer names in your questions/comments.
 1. Be ready to ask your question out loud as it comes up in the queue.
@@ -129,62 +137,55 @@ If a Group Conversation is cancelled, the People Operations and People Experienc
    - switching off notifications (from Slack, email, etc.). On Mac, in the notification center in the upper right hand corner, click on Notifications, select Do Not Disturb (sometimes you need to scroll up to see the option).
 1. The Moderator of the call may advise the Host that the conversation needs to be recorded via Zoom. As the Host, when hearing the automated "This meeting is being recorded", please note that you can start talking immediately and do not need to wait for the automated message to complete.
 
-## Group Conversation Moderators
+## For Moderators
 
-The `People Experience and People Specialist` teams are responsible for moderating the following calls:
+The `People Experience and People Specialist` teams are responsible for moderating the following calls on a rotational basis:
 
-- AMAs (If requested with sufficient notice as per instructions [here](/handbook/people-group/group-conversations/#request-an-ama)) 
+- AMAs (If requested with sufficient notice as per the instructions detailed [here](/handbook/people-group/group-conversations/#request-an-ama)) 
 - Group Conversations 
 - CEO 101 (Introductions and Livestream)
 
-The teams will assist with moderating calls where the audience is applicable to all GitLab team members. In the event that a separate meeting is needed to be scheduled on the team calendar with only a specified invitee list, the host will also be responsible for moderating the call. 
+The teams will assist with moderating calls where the audience is applicable to all GitLab team members. In the event that a separate meeting needs to be scheduled on the team calendar with only a specified invitee list, the host will also be responsible for moderating the call. 
 
-### Preparing for and Streaming the Call
+### Preparing for the Group Conversation
 
-All Group Conversations (Public and Private) will be streamed to YouTube within GitLab Unfiltered. 
+All Group Conversations (Public and Private) will be streamed to YouTube within the [GitLab Unfiltered](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#channels) channel.  Guidelines around streaming including starting the countdown; initiating the livestream and troubleshooting should you hit a snag can be found on the [YouTube Uses and Access](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#starting-a-recorded-video) page.
+
+Additional links which may be useful when preparing to moderate a call include:
+- [The YouTube Livestreaming Introduction](https://support.google.com/youtube/answer/2474026?hl=en)
+- [The YouTube Tutorial on Setting Up a Livestream](https://support.google.com/youtube/answer/2853700?hl=en)
 
 ### Prior to the Call
 
-1. Ping the [DRI](/handbook/people-group/group-conversations/#schedule--dri) of the Group Conversation you will be moderating in the `group-conversations` Slack channel a minimum of 24 hours prior to the call to confirm they will be hosting.
-2. If the host for the particular Group Conversation you are moderating has not hosted a call of this nature before, be sure to assign the [Group Conversation Training Issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/group-conversation-host.md) to them to support their preparation for the call.
-3. Ensure there are 15 numbered lines below the Date, Topic, Host Name, and Slide Deck Link in the [Group Conversation Agenda](https://docs.google.com/document/d/1zELoftrommhRdnEOAocE6jea6w7KngUDjTUQBlMCNAU/edit) where team members will be able to add their questions. Ensure you have spaced out the numbers. To do this you must press the enter key and skip to the amount of lines that you require (15). Then select the blank space that has been created. When you have selected all of the blank space, click on the 'Numbered List' option in the Google Docs toolbar.
-4. Log into Zoom `5-minutes prior` to the start of the Group Conversation from the People Operatios Zoom account. You can double check to ensure you are logged in to the People Operations account by going to [Zoom](https://zoom.us/) and verifying that the Tanuki Logo appears in the upper-righthand corner.
-5. Ensure the clock on your computer is enabled to include seconds by clicking the Apple icon in the upper lefthand corner of your screen, selecting `System Preferences`, opening `Date and Time` preferences, and selecting `Display the time with seconds`.
-
-_Important: The DRI for the Group Conversation will also have hosting rights. Zoom will automatically assign the first person i.e. either the DRI or Moderator who logs into the call as `Host`. It is necessary to have `Host` rights (**`co-hosting` rights are not sufficient**) in order to be able to livestream the call to YouTube. If the DRI logs in before you, please ask them to transfer you host rights by clicking `Manage Participants` at the bottom of the Zoom page, hover over the `GitLab Moderator` participant, click the `More` dropdown menu, and select `Make Host`._ 
+1. Ping the [DRI](/handbook/people-group/group-conversations/#schedule--dri) of the Group Conversation you will be moderating in the `#group-conversations` Slack channel at least 24 hours prior to confirm whether they will be hosting or have nominated another team member to do so.
+2. If the host for the particular Group Conversation you are moderating has not hosted a call of this nature before, be sure to assign a [Group Conversation Training Issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/group-conversation-host.md) to them to support their preparation for the call.
+3. Be sure to confirm ahead of time whether this will be a [Public or Private Stream](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#never-call-it-a-livestream-or-just-a-recording) as you will need to mention this at the beginning of the call.
+4. Review the `Group Conversation Agenda` to ensure there are 15 numbered lines below the Date; Topic; Host Name; and Slide Deck Link - this is where team members will be able to insert any questions they may have for the host.
+5. Log into Zoom `5-minutes prior` to the start of the Group Conversation using `People Operations Zoom Account' if you are successfullly logged into Zoom as the GitLab Moderator the Tanuki Logo will be visible in the uppoer right hand corner of your Zoom screen.
+6. Ensure that you as the moderator hold the Zoom hosting rights as you will not be able to livestream the call otherwise i.e. co-hosting rights are not sufficient so please be sure to request a handover from the DRI using the `manage participants feature` if necessary
+7. Ensure the clock on your computer is enabled to include seconds by clicking the Apple icon in the upper lefthand corner of your screen, selecting `System Preferences`, opening `Date and Time` preferences, and selecting `Display the Time with Seconds`.
 
 ### During the Call
 
-6. Start the Group Conversation at the pre-determined exact start time of the meeting (not prior to the start time of the meeting) by asking the DRI "`May I start the countdown for this public/private stream?`" (_Note: Be sure to verify in the Calendar Invitation whether the meeting should be either publicly or privately streamed_) If they do not respond, ask them by name. Ex. If the meeting starts at 8:00:00am, do not start the countdown at 7:59:50am.
-7. As soon as the DRI confirms that you can proceed, state "`I will start the public / private stream in 3, 2, 1...`" and select the `Go Live` button. 
-
-### Troubleshooting
-
-- If an error which reads `Please grant necessary Privilege for Livestreaming` pops up, click on the option that appears beside the GitLab Unfiltered account in the middle of the page reading `Not Me` - you will then be prompted to sign in again, please do so and click `Go Live`. 
-
-- In the event that you are unable to stream to YouTube for any reason, inform the Host that you will record the conversation via Zoom and upload the video to YouTube after the conversation has ended. In addition to this be sure to post the YouTube link to the #group-conversations Slack channel once it has been uploaded. 
+1. It is important to start Start the Group Conversation at the exact time indicated within the calendar invite; it is at this point which you will initiate the countdown using the following [guidelines](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#countdown).
+2. If an error which reads `Please grant necessary Privilege for Livestreaming` pops up, click on the option that appears beside the GitLab Unfiltered account in the middle of the page reading `Not Me` - you will then be prompted to sign in again, please do so and click `Go Live` afterwhich Zoom should indicate `Live on YouTube` in the uper left hand orner.
+3. Be sure to either close or mute the YouTube page to prevent an echo
+4. In the event that you are unable to stream to YouTube for any reason, inform the Host that you will record the conversation via Zoom and upload the video to YouTube after the conversation has ended. In addition to this be sure to post the YouTube link to the #group-conversations Slack channel once it has been uploaded. 
 
 ### Concluding the Call
 
-8. Post notes within the Zoom chat at both five and two minutes remaining mark . This will help keep everyone aware of the time left within the call and ensure that the conversation stays on track. 
-9. At time notify the Host that the meeting should be concluded and thank all participants for their time and collaboration. Allow the participants to wrap up ther discussion before ending the call. 
-10. End the Group Conversation by clicking `End Meeting` and then `End Meeting for All` within Zoom. 
-  - Selecting `End Meeting for All` should end both the call and the stream - should this not occur it is because an outdated version of Zoom is being used. The Moderator will need to log into YouTube Studio and manually end the stream. Please be sure to update Zoom to the latest version before moderating any other calls.
+1. Post notes within the Zoom chat at both five and two minutes remaining mark - this will ensure everyone is aware of the time left within the call and encourage team members to keep the conversation on track.
+2. At time notify the Host that the meeting should be concluded allowing time for all participants to wrap up the active discussion and thanking them for their time and collaboration. 
+2. End the Group Conversation by clicking `End Meeting` and then `End Meeting for All` within Zoom - making this selection should end both the call and the stream - should this not be the case it is more than likely because an outdated version of Zoom is being used and the moderator will need to log directly into YouTube Studio and manually end the stream.
+1. Once the call ended, audit the YouTube video for any issues such as another stream on the video or errant transcript in the description. If you identify any issues with the video, immediately reach out to [Security](/handbook/engineering/security/#engaging-the-security-on-call) for support. 
+1. If livestreaming was not possible manually upload the video to YouTube using these [guidelines](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube).
 
 <figure class="video_container">
   <iframe src="https://youtube.com/embed/yuFlj8Zv7vQ" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-### Additional Notes (Moderator)
-
-1. Close or Mute the YouTube page to avoid an echo; you do not need to monitor YouTube during the presentation. Zoom will show `Live on Youtube` throughout the call.
-1. Announce that the stream is live and whether it will be either public or private within the call.
-1. End the zoom call for everyone immediately at the end of the meeting as it subsequently ends the livestream. Press `End Meeting` and then `End Meeting for All`.
-1. The calendar events for all streamed Group Conversations should adhere to our YouTube [Visibility Guidelines](/handbook/communication/youtube/#visibility).
-
 ### Additional Notes (Host)
 
-1. The [People Experience Team](/handbook/people-group/people-experience-team/) is currently trialing different 'Captioning' options for Group Conversations and may need to record the session to Zoom for testing purposes. The Host should informed of this prior to the start of the Group Conversation. 
 1. As the Group Conversation and Zoom Host, when hearing the automated "This meeting is being recorded", please note that you can start talking immediately and do not need to wait for the automated message to end.
 1. Right now, everyone within GitLab i.e. all team members are invited to each call, we'll invite the wider community later.
 1. Make sure there is a list of 15 numbered items that only contains a space, this will make it easier to add things.
@@ -202,16 +203,6 @@ _Important: The DRI for the Group Conversation will also have hosting rights. Zo
 1. Don't do a countdown when you're asking for questions, people will not ask one. Just end the call or even better say: we'll not end the call before getting at least one question.
 1. If there are more questions or a need for longer conversation, mention on what chat channel the conversation can continue or link to a relevant issue.
 1. If an attendee experiences poor wifi or loses audio while speaking on a call sometimes they can't hear you if you tell them. In that case it's encouraged to talk over them, mute them, and pro-actively move the next agenda item. Nobody wants to have other people to waste their time waiting for them while they are not aware.
-
-## After the Call
-
-1. Once the call has finished, quickly audit the YouTube video for any issues (e.g., another stream on the video, errant transcript in the description). If you identify any issues with the video, [contact Security immediately](/handbook/engineering/security/#engaging-the-security-on-call). 
-1. All calls are published live to YouTube, with the exception of Finance, Sales, Security, and Partnerships. Every call is reviewed live to change from a public stream to a private one should anything confidential arise.
-1. If streaming live is not available, ensure the call is [uploaded to Youtube](/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube) and then announced in the appropriate slack channel. (i.e. `#whats-happening-at-gitlab`, `#apac`) 
-1. Calls are 5 times a week 30 minutes before the company call, 8:00 to 8:25am Pacific.
-1. The call is recorded automatically, and all calls are transferred every hour to a Google Drive folder called "GitLab Videos Recorded", which is accessible to all users with a GitLab.com e-mail account.
-1. Slides with a lot of text that can be read on their own with lots of links are appreciated.
-1. GC DRIs are encouraged to add uploads to the [Group Conversations playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KpUeT6ozUTatC-JbNoJCC-e) within the GitLab Unfiltered YouTube channel. You may also use Google to [search for past Group Conversations](https://www.google.com/search?&hl=en-us&biw=1366&bih=921&tbm=vid&ei=HFzuXc7WLYO3ggeMxIG4BQ&q=gitlab+unfiltered+group+conversation&oq=gitlab+unfiltered+group+conversation&gs_l=psy-ab.3..33i160k1.23243.31186.0.31344.38.31.0.7.7.0.144.2401.25j5.30.0....0...1c..64.psy-ab..1.36.2340...0j0i8i30k1j0i30k1j33i299k1.0.45wyTBKz0bI)
 
 ## Schedule & DRI
 
@@ -256,7 +247,6 @@ The schedule with directly responsible individuals (DRI) is as follows:
 - Review existing Group Conversation schedule and find an empty time slot.
 - Create an MR to add new Group Conversation session to this empty slot. Include GC Name, link to the handbook page, and also include DRI name.
 - Assign the MR to the [People Experience Team](/handbook/people-group/people-experience-team/) for review, merging, and creation of the Zoom link and addition to the GitLab Team Meetings calendar.
-- Before you host your first Group Conversation, complete this [Group Conversation training issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/.gitlab/issue_templates/group-conversation-host.md). 
 
 ## Request an AMA
 
