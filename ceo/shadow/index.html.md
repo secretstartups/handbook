@@ -724,7 +724,7 @@ In preparation for guests (customers, investors, etc.) who will be meeting with 
 1. Add the Brita water pitcher on the table.
 1. Place the keyboard and the mouse (used for Mission Control screens) on the table.
 1. Ensure that all 6 monitors are displaying the [correct content](/handbook/ceo/shadow/#monitors). If any of the screens are blank, follow the [trouble-shooting instructions](/handbook/ceo/shadow/#troubleshooting-the-monitors).
-1. For investor or banker meetings, see the [confidential issue](https://gitlab.com/gitlab-com/ceo-shadow/tasks/issues/50) with more details on preparations. As a precaution, do not disucss anything related to company performance (i.e. bookings, pipeline, quota attainment, and pricing), the current quarter or products in development, other than those announced. These restrictions are meant to enforce [Fair Disclosure, Regulation FD](https://www.sec.gov/fast-answers/answers-regfdhtm.html) and avoid the accidental dissemination of material nonpublic information. 
+1. For investor or banker meetings, see the [confidential issue](https://gitlab.com/gitlab-com/ceo-shadow/tasks/issues/50) with more details on preparations. As a precaution, do not discucss anything related to company performance (i.e. bookings, pipeline, quota attainment, and pricing), the current quarter or products in development, other than those announced. These restrictions are meant to enforce [Fair Disclosure, Regulation FD](https://www.sec.gov/fast-answers/answers-regfdhtm.html) and avoid the accidental dissemination of material nonpublic information. 
 1. If someone is attending a meeting at Mission Control via [Zoom Rooms](#zoom-room):
     1. Follow the setup steps for [Zoom Rooms](#zoom-room).
     1. Move the screen to the head of the table.
