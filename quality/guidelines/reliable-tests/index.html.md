@@ -34,7 +34,7 @@ These are the steps required to promote a new test to reliable
 3. Once the failures are addressed, the quarantine tag is removed.
 4. If the new tests do not fail while out of quarantine for the seven days, they are promoted to reliable.
 
-**Note:** the DRI for promoting new tests to reliable is the author of the MR that adds the new test(s).
+**Note:** the DRI for promoting new tests to reliable is the author of the MR that adds the new test(s). The author of the reliable test should consider to add documentation on how to run and debug the test prior promoting it.
 
 ### What to do when a reliable test fails?
 
