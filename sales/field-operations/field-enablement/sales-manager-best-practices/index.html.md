@@ -25,7 +25,7 @@ title: "Sales Manager Best Practices"
 
 ## Opportunity Coaching
 
-*  Regularly leverage the [Command of the Message and MEDDPPICC sales manager materials](/handbook/sales/command-of-the-message/#resources-sales-manager-materials)
+*  Regularly leverage the Command of the Message and MEDDPPICC sales manager materials (to access, click on the Sales Manager Materials drop down in the [CoM Additional Resources section](/handbook/sales/command-of-the-message/#resources-sales-manager-materials))
 *  Use the following outline for your opportunity consult sessions:
 
 | **Step** | **Duration (minutes)** | **Description** |
