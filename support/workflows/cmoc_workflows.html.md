@@ -32,15 +32,22 @@ When you enter the situation room, take note of any updates that have been made 
 | Monitoring | 30m | 60m | 60m |
 | Resolved | No further updates required |
 
-There might be no material updates to report. In that case, say something so that people know we care and are working on it.
+#### What to do if you don't know what to say
+- Provide a generic update based on the best information you have:
+   - _We're seeing elevated error rates on GitLab.com, investigation is underway in: link_
+   - _Some users are reporting connection issues to GitLab.com, we're working on it in: link_
+- Craft a draft of what you think is correct. Whenever possible use ["I intend to..." language](https://www.youtube.com/watch?v=7KnPjakwqeI) when communicating with the IMOC and EOCs:
+   - _@IMOC - I'm going to post: "We've isolated the network problem to the APAC region and are working with Cloudflare support to get it resolved_.
+   - _In my next update I'm going to move the status to "monitoring"_ 
+- Bias to action - you can post another update if there was an error in your last update.
 
-Below are a few example messages:
+- If there are no material updates to report, say something so that people know we care and are working on it. Below are a few example messages:
+   1. No material updates to report. We're discussing if we should restore from backup or let the replica catch up first but we have not made a decision.
+   1. No material updates to report. We tried starting the Gitaly servers but we're still missing connectivity.
+   1. No material updates to report. We are doing a handover to a new CMOC since the current CMOC has been at it for three hours straight.
+   1. No material updates to report. We would like to thank Google for the #hugops tweet we received. LINK
 
-1. No material updates to report. Here is a screenshot of the video call our engineers are on to resolve this. PICTURE
-1. No material updates to report. We're discussing if we should restore from backup or let the replica catch up first but we have not made a decision.
-1. No material updates to report. We tried starting the Gitaly servers but we're still missing connectivity.
-1. No material updates to report. We are doing a handover to a new CMOC since the current CMOC has been at it for three hours straight.
-1. No material updates to report. We would like to thank Google for the #hugops tweet we received. LINK
+- If you really don't know, it really is okay to ask!
 
 ### EOC vs. IMOC
 
