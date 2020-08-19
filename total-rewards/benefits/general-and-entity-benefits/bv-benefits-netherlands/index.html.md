@@ -35,7 +35,7 @@ GitLab does not plan on adding additional medical cover at this time due to the 
 
 State pension (AOW) is standard and will be paid out at retirement age. There is no additional pension scheme through GitLab.
 
-GitLab is currently reviewing adding a private pension plan.
+GitLab will continue to review responses from the [Global Benefits Survey](/handbook/total-rewards/benefits/benefits-survey/#global-benefits-survey) as well as budgetary availability to advise on implementing a private pension plan in the future. 
 
 ## Life Insurance
 GitLab does not offer life insurance in the Netherlands at this time. Team members are automatically covered up to 70% of their last wage in case of disability by the governmental Employee Insurance Agency.
