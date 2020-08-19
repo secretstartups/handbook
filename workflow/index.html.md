@@ -352,10 +352,12 @@ We have the following deadlines:
 - On month `M, 23rd` (the day after the release):
   - The patch release process for milestone `m` starts. This includes regular and security patch releases.
   - All unfinished `m` issues and merge requests are automatically moved to milestone `m+1`, with the exception of `~security` issues.
+- On `M, 24th`: Moderator opens the [Retrospective planning and execution issue](#retrospective).
+- Between `M, 24th` to `M+1, 3rd`: Participants complete the [Retrospective planning and execution issue](#retrospective), add their notes to the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit#), and suggest and vote on discussion topics.
 - On or around `M, 26th`:
   - [Product plans](/handbook/product/product-processes/#managing-your-product-direction) are to update to reflecting previous and current releases, including category epics and direction pages.
-- By month `M+1, 6th` (within a few weeks of milestone `m` ending):
-  - [Retrospective Discussion](#retrospective) is held.
+- On `M+1, 4th`: Moderator records the [Retrospective Summary](#retrospective-summary) video and announces the video and discussion topics.
+- On `M+1, 6th:` [Retrospective Discussion](#retrospective) is held.
 
 Refer to [release post content reviews](/handbook/marketing/blog/release-posts/#content-reviews) for additional deadlines.
 
