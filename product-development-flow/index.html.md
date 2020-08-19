@@ -289,7 +289,7 @@ Labels: `workflow::ready for development`, `workflow::In dev` (along with `workf
 The develop and test phase is where we build the features and test them before launch:
 
 1. Engineering teams move items into `workflow::ready for development` and apply the deliverable as they commit to them, in alignment with the PM.
-1. PM connects with engineering to ensure  product instrumentation and dashboarding requirements are clear for implementation.
+1. PM works with engineering to ensure product instrumentation and dashboarding requirements are clear for implementation.
 1. When the milestone arrives, engineering teams execute on the scheduled work. Acceptance criteria as set forth in the issues must be met before a feature is deemed complete.
 1. In parallel with development, the PM creates release post content, collaborating with Product Marketing Manager (PMM) on messaging and positioning
 1. Work deemed out of scope or incomplete by engineering is taken back into the plan phase for refinement and rescheduling for completion. The label `workflow::planning breakdown` should be reapplied.
