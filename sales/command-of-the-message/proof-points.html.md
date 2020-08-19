@@ -394,7 +394,9 @@ _Continuous Integration streamlines and accelerates building and testing develop
 ### GitLab Reports and Studies
 
 <big>[2020 Global Developer Report: DevSecOps](/developer-survey/)</big><br>
-**Findings Included:** 50% of developers agree that security vulnerabilities are mostly discovered by the security team after code is merged and in a test environment.<br>
+**Findings Included:** A majority of developer respondents, 66%, said their organization does make it possible for them to avoid hacks.
+DevSecOps = changing roles: Security can be found on cross-functional teams and working closely in collaboration with developers, both of which represent significant change from the past.
+<br>
 **Customer Value:** Building security into the DevOps pipeline improves overall security.<br>
 **Value Drivers:** Risk<br>
 **Usecase** DevSecOps
@@ -402,7 +404,9 @@ _Continuous Integration streamlines and accelerates building and testing develop
 ----
 
 <big>[2020 Global Developer Report: DevSecOps](/developer-survey/)</big><br>
-**Findings Included:** 49% of respondents encounter the most delays during the testing stage of the development lifecycle.<br>
+**Findings Included:** DevOps = faster releases: If you’re a developer, DevOps just works. Nearly 83% of them report they’re releasing code more quickly.
+About 35% report code is released twice as rapidly, while nearly 25% said it’s now being released 10 times faster.
+<br>
 **Customer Value:** Automated testing in the CI pipeline accelerates delivery, finding defects earlier.<br>
 **Value Drivers:** Speed<br>
 **Usecase** DevSecOps
@@ -410,6 +414,32 @@ _Continuous Integration streamlines and accelerates building and testing develop
 ----
 
 <big>[2020 Global Developer Report: DevSecOps](/developer-survey/)</big><br>
+**Findings Included:** CD is real: Nearly 60% deploy multiple times a day, once a day, or once every few days. That’s up from 45% last year.  And 74% of organizations report they have shifted testing left, meaning they’ve moved it earlier into the development process.<br>
+**Customer Value:** Visibility and transparency into future work leads to more efficient planning and execution.<br>
+**Value Drivers:** Efficiency<br>
+**Usecase** Continuous Integration, Continuous Delivery**
+
+
+
+### Older GitLab Reports and Studies (2019 and beyond)
+
+<big>[2019 Global Developer Report: DevSecOps](/developer-survey/previous/2019/)</big><br>
+**Findings Included:** 50% of developers agree that security vulnerabilities are mostly discovered by the security team after code is merged and in a test environment.<br>
+**Customer Value:** Building security into the DevOps pipeline improves overall security.<br>
+**Value Drivers:** Risk<br>
+**Usecase** DevSecOps
+
+----
+
+<big>[2019 Global Developer Report: DevSecOps](/developer-survey/previous/2019/)</big><br>
+**Findings Included:** 49% of respondents encounter the most delays during the testing stage of the development lifecycle.<br>
+**Customer Value:** Automated testing in the CI pipeline accelerates delivery, finding defects earlier.<br>
+**Value Drivers:** Speed<br>
+**Usecase** DevSecOps
+
+----
+
+<big>[2019 Global Developer Report: DevSecOps](/developer-survey/previous/2019/)</big><br>
 **Findings Included:** Ops teams are 1.8x more likely to believe they get sufficient notice to support the developer side when their DevOps practice is very good.<br>
 **Customer Value:** Visibility and transparency into future work leads to more efficient planning and execution.<br>
 **Value Drivers:** Efficiency<br>
@@ -417,7 +447,7 @@ _Continuous Integration streamlines and accelerates building and testing develop
 
 ----
 
-<big>[2020 Global Developer Report: DevSecOps](/developer-survey/)</big><br>
+<big>[2019 Global Developer Report: DevSecOps](/developer-survey/previous/2019/)</big><br>
 **Findings Included:** Security teams are 3x more likely to discover bugs before code is merged with a good DevOps practice in place.<br>
 **Customer Value:** Include security teams in all phases of application delivery — in the same tools as developers.<br>
 **Value Drivers:** Risk<br>
@@ -425,11 +455,12 @@ _Continuous Integration streamlines and accelerates building and testing develop
 
 ----
 
-<big>[2019 Developer Report](/developer-survey/previous/2019/)</big><br>
-**Findings Included:** xxxxx.<br>
-**Customer Value:** xxxx.<br>
+<big>[2018 Developer Report](/developer-survey/previous/2018/)</big><br>
+**Findings Included:** The top two sources of project delays were testing (52%) and planning (47%).<br>
+**Customer Value:** Operating in silos prevents visibility, and causes delays and rework.<br>
 **Value Drivers:** Speed<br>
 **Usecase** CI, CD, SCM, Simplify DevOps
+
 
 ----
 
