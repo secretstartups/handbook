@@ -90,6 +90,8 @@ Common pitfalls:
 - Not addressing the real goal: don't say “activate 50% of users” when we really want to measure the impact of GitLab to their bottom line
 - Not making them measurable: “Delight the customer!” is a great goal, but not measurable
 
+To better understand metrics, review [Demystifying the Metrics Conversation](/handbook/sales/command-of-the-message/metrics.html).
+
 **Initiatives (qualitative)**: description of an outcome that will be a substantial strategic win for the customer
 
 Examples:
