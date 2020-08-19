@@ -290,35 +290,38 @@ On a quarterly basis, the Channel team will revisit developing countries to dete
 
 
 
-## Partner Applicant Approval / Denial - Granting Portal Access
+## **Partner Applicant Approval / Denial - Granting Portal Access**
 
-Channel Sales Managers and Alliance Managers are responsible for approving Partner sign ups in SFDC that fall within their region or area of responsibility. Sign ups must be initiated by the Partner from an Impartner application which can be found [here.](https://rv.treehousei.com/en/login.aspx)   If for any reason, a partner account needs to be created in Salesforce directly, requests for account creation can be made to #channel-ops within Slack. 
+Partner Program participation sign ups must be initiated by the Partner in the Partner Portal application form which can be found [here.](https://rv.treehousei.com/en/login.aspx)  In the partner application process, channel partners review the partner contract, including both the resale and referral addenda, review the partner program guide, complete their application form and agree to program terms and conditions.   Technology partners are not able to agree to the terms and conditions during the application process.
 
-When a new partner company applies on the portal a Prospect Account in Salesforce is created. The partner will receive an email confirming the receipt of their application, and applicable Channel Sales or Alliance Manager will receive a New Partner Applicant email from Partnersupport@gitlab.com notifying there is a new partner applicant in that region. 
+ If an authorized representative of the channel partner accepts the agreement terms, they (or the person entering the application) will need to select “Yes” that they agree to terms on the application form.  Once they have agreed, they will automatically be set to “ Authorized” and will get immediate access to the partner portal.  At this time, partners will be set up in both Salesforce and the partner portal at Authorized and their track set to Open.  
 
-Upon receiving the New Partner Applicant email, the applicable Channels Sales Manager needs to complete the following:
+The partner will receive an email confirming the receipt of their application, and applicable Channel Sales or Alliance Manager will receive a New Partner notification email from Partnersupport@gitlab.com notifying there is a new partner applicant in that region.  Channel Sales Managers will be notified of each partner application in their regions, whether they agreed to the terms or not.  
+
+Upon receiving notification they will be responsible for reviewing the partner’s information and deactivating any inappropriate partners.  They will also need to set the Partner Type in Salesforce for newly authorized partners.
+
+For partners that have questions about the contract or need to negotiate terms and conditions, Channel Sales Managers are responsible for working with the partner offline to address questions and come to agreement on program terms.  Upon receiving the New Partner Applicant notification email, the applicable Channels Sales Manager needs to complete the following:
 
 1. Contact the partner and qualify them
 2. If the decision is to move forward with the partner first check to see if a partner account already exists in Salesforce. If it is a duplicate, request for the accounts to be merged by the Channel Operations team. If the decision is to deny the partner then go to step #7.
-3. To start the contracting process click the Legal Request button in SFDC on the partner account record. 
-    1. Request the appropriate contract addendum (Resale, Referral/Services or both **OR** MSP **OR** OTHER).  Default should be Resale and Referral/Services.
+3. To start the contracting process click the Legal Request button in SFDC on the partner account record.
+    *   Request the appropriate contract addendum (Resale, Referral/Services or both **OR** MSP **OR** OTHER). Default should be Resale and Referral/Services.
 4. Once the contract is fully executed and attached to the partner account record in SFDC the following fields need to be updated by the Channel Sales Manager and are required(*) in order to save the account
-    2. *Change Partner Status = Authorized
-        1. For Alliance Partner Partner Status = Active 
-    3. *Select Partner Type
-    4. *Select Partner Track
-        2. For Alliances Partner Track = Technology
-    5. *Select Partner Program Status (If contract was signed after 4/2/2020 then select “New”)
-    6. Please include any other applicable information
-    7. For additional information on the Partner Program review [here](https://about.gitlab.com/handbook/resellers/#partner-program-tracks) 
+    *   *Change Partner Status = Authorized
+    *   *Select Partner Type
+    *   For partners that signed standard contract terms, set Partner Program Status to “New”.
+    *   Please update the partner record to be as complete as possible.
+    *   For additional information on the Partner Program review [here](https://about.gitlab.com/handbook/resellers/#partner-program-tracks)
 5. Once a partner is authorized, each SFDC contact for that partner will automatically receive a message with login credentials to the portal.
-6. Additional partner employees can go to partners.gitlab.com to register. \
-Once they are linked to an authorized partner account (they must select the correct account upon registering), they will automatically receive a message with login credentials. If the account is still a Prospect they will not have access until the account has an executed contract and is moved to Authorized. 
+6. Additional partner employees can go to partners.gitlab.com to register. \ Once they are linked to an authorized partner account (they must select the correct account upon registering), they will automatically receive a message with login credentials. If the account is still a Prospect they will not have access until the account has an executed contract and is moved to Authorized.
 7. If the decision is to not move forward with the partner,
-    8. Channel Sales Manager needs to set Partner Status = Denied
+    *   Channel Sales Manager needs to set Partner Status = Denied
 
+Technology partners use the same form, but are not able to agree to the terms and conditions.  Once they submit the form, they will be set to active.  If the Alliances team wants to establish a contract with the partner, they must follow the Legal Request process in Salesforce.
 
-Visit the [Partner Applicant / Partner Portal FAQ](  https://docs.google.com/document/d/1aPCqF5-qb2XxFEhvkNzvexwsIYGuiJF8AhK_qeUgw0Y/edit?usp=sharing) for additional information.
+If for any reason, a partner account needs to be created in Salesforce directly, requests for account creation can be made to #channel-ops within Slack.
+
+Visit the [Partner Applicant / Partner Portal FAQ](https://docs.google.com/document/d/1aPCqF5-qb2XxFEhvkNzvexwsIYGuiJF8AhK_qeUgw0Y/edit?usp=sharing) for additional information.
 
 
 
