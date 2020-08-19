@@ -203,7 +203,7 @@ The {add the role name} is a [grade #](/handbook/total-rewards/compensation/comp
 * {add a bulleted list}
 
 #### {add Level} Performance Indicators
-* {add at least one KPI that this role will be the DRI for}
+* {add 3-5 KPIs that this role will be the DRI for}
 
 ## Specialties
 ### {add name of Specialty - i.e. Security, Monitor, Create, etc.}
@@ -254,7 +254,7 @@ title: {add text of job family name}
 The {add role name} is a [grade #](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Performance Indicators
-* {add at least one KPI that this role will be the DRI for}
+* {add 3-5 KPIs that this role will be the DRI for}
 
 ### Career Ladder
 {add a brief description of the career ladder here}
