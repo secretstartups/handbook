@@ -202,19 +202,22 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Sub-Region     | Area           | **Territory Name**                  | Sales                         | SDR              |
 | :------------- | :------------- | :------------------------------ | :---------------------------- | :--------------- |
 | LATAM          | LATAM          | **MM-AMER-EAST-LATAM**              | Romer Gonzalez                | Bruno Lazzarin   |
-| NA East        | US East        | **MM-AMER-EAST-MidSoAtlantic-R**    | Jenny Kline                   | Evan Mathis      |
+| NA East        | US East        | **MM-AMER-EAST-MidSoAtlantic-R**    | Todd Lauver                   | Evan Mathis      |
+| NA East        | US East        | **MM-AMER-EAST-MidSoAtlantic-R-DC** | Todd Lauver                   | Evan Mathis      |
+| NA East        | US East        | **MM-AMER-EAST-MidSoAtlantic-R-GA** | Daniel Parry                  | Evan Mathis      |
 | NA East        | US East        | **MM-AMER-EAST-MidSoAtlantic-FL**   | Daniel Parry                  | Evan Mathis      |
 | NA East        | US East        | **MM-AMER-EAST-MidSoAtlantic-OHKY** | Steve Xu                      | Evan Mathis      |
 | NA East        | US East        | **MM-AMER-EAST-MidSoAtlantic-VA**   | Todd Lauver                   | Evan Mathis      |
 | NA East        | US East        | **MM-AMER-EAST-NorthCentral-Toronto**  | Daniel Parry               | Phillip Knorr    |
 | NA East        | US East        | **MM-AMER-EAST-NorthCentral-ON**    | Steve Xu                      | Phillip Knorr    |
 | NA East        | US East        | **MM-AMER-EAST-NorthCentral-QB**    | Todd Lauver                   | Phillip Knorr    |
-| NA East        | US East        | **MM-AMER-EAST-NorthCentral-MI**    | Jenny Kline                   | Phillip Knorr    |
-| NA East        | US East        | **MM-AMER-EAST-NorthCentral-WI**    | Jenny Kline                   | Phillip Knorr    |
+| NA East        | US East        | **MM-AMER-EAST-NorthCentral-MI**    | Daniel Parry                  | Phillip Knorr    |
+| NA East        | US East        | **MM-AMER-EAST-NorthCentral-WI**    | Daniel Parry                  | Phillip Knorr    |
 | NA East        | US East        | **MM-AMER-EAST-Northeast**          | Todd Lauver                   | Kelsey Claflin   |
 | NA East        | US East        | **MM-AMER-EAST-NYPa**               | Steve Xu                      | Phillip Knorr    |
 | NA East        | US East        | **MM-AMER-EAST-Southeast**          | Daniel Parry                  | Evan Mathis      |
-| NA East        | US East        | **MM-AMER-EAST-TriState**           | Jenny Kline                   | Kelsey Claflin   |
+| NA East        | US East        | **MM-AMER-EAST-TriState**           | Steve Xu                      | Kelsey Claflin   |
+| NA East        | US East        | **MM-AMER-EAST-TriState-CTNJ**      | Todd Lauver                   | Kelsey Claflin   |
 | NA West        | US West        | **MM-AMER-WEST-MtnMidwest**         | Kyla Gradin                   | Ariah Curtis     |
 | NA West        | US West        | **MM-AMER-WEST-NorCal**             | Rashad Bartholomew            | Da'Neil Olsen    |
 | NA West        | US West        | **MM-AMER-WEST-NorCal-SJ**          | Douglas Robbin                | Da'Neil Olsen    |
