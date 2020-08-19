@@ -343,7 +343,7 @@ We have the following deadlines:
   - Individual [release post entries](/handbook/marketing/blog/release-posts/index.html#contribution-instructions) merged for all relevant issues.
   - By end of the day, milestone `m` is expired.
 - On or around `M, 19th`:
-  - [Team Retrospectives](/handbook/engineering/management/team-retrospectives/) should happen so they can inform the [public retrospective](#retrospective)
+  - [Team Retrospectives](/handbook/engineering/management/team-retrospectives/) should happen so they can inform the [public retrospective summary and discussion](#retrospective)
 - On `M, 19th`, or `M, 20th`, or `M, 21st`:
   - [Milestone Cleanup](#milestone-cleanup) runs on the schedule at [Milestone cleanup schedule](#milestone-cleanup-schedule)
 - On month `M, 22nd`: **Release Day** 🚀
@@ -355,7 +355,7 @@ We have the following deadlines:
 - On or around `M, 26th`:
   - [Product plans](/handbook/product/product-processes/#managing-your-product-direction) are to update to reflecting previous and current releases, including category epics and direction pages.
 - By month `M+1, 6th` (within a few weeks of milestone `m` ending):
-  - [Public Retrospective](#retrospective) is held.
+  - [Retrospective Discussion](#retrospective) is held.
 
 Refer to [release post content reviews](/handbook/marketing/blog/release-posts/#content-reviews) for additional deadlines.
 
@@ -380,34 +380,73 @@ The notes are available in a publicly-accessible [Google doc](https://docs.googl
 
 ## Retrospective
 
-After each release, we have a retrospective meeting, publicly livestreamed to YouTube. We discuss what went well, what went wrong, and what we can improve for the next release.
+The purpose of our retrospective is to help our team at GitLab learn and improve as much as possible from every monthly release. 
 
-The format for the retrospective is as follows. The notes for the retrospective
-are kept in a publicly-accessible [Google
-doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit?usp=sharing).
-In order to keep the call on time and to make sure we leave ample room to
-discuss how we can improve, the moderator may move the meeting forward with the
-timing indicated:
+Our retrospective consists of three parts: Team Retrospectives, Retrospective Summary, and Retrospective Discussion. 
 
-1. **How we improved since last month.** 2 minutes. The moderator will review
-   the improvements we identified in the last retrospective and discuss progress
-   on those items.
-1. **What went well this month.** 5 minutes. Teams are encouraged to celebrate
-   the ways in which we exceeded expectations either individually or as a team.
-1. **What went wrong this month.** 5 minutes. Teams are encouraged to call out
-   areas where we made mistakes or otherwise didn't meet our expectations as a
-   team.
-1. **How can we improve?** 18 minutes. Teams are encouraged to discuss the
-   lessons we learned in this release and how we can use those learnings to
-   improve. Any action items should be captured in a GitLab issue so they can
-   receive adequate attention before the next release.
+For each monthly release, a Retrospective planning and execution issue is opened by the moderator to help us coordinate this work.
 
-The purpose of the retrospective is to help Engineering at GitLab learn and
-improve as much as possible from every monthly release. In line with our value
-of [transparency](/handbook/values/#transparency), we livestream the meeting to
-YouTube and monitor chat for questions from viewers. Please check the
-[retrospective notes](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit?usp=sharing)
-for details on joining the livestream.
+**Timeline**
+- `M, 24th`: Moderator opens the Retrospective planning and execution issue. 
+- `M, 24th` to `M+1, 3rd`: Participants complete the Retrospective planning and execution issue, add their notes to the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit#), and suggest and vote on discussion topics.
+- `M+1, 4th`: Moderator records the Retrospective Summary video and announces the video and discussion topics.
+- `M+1, 6th`: Retrospective Discussion is held.
+
+### Team Retrospectives
+
+At the end of every release, each team should host their own retrospective. For details on how this is done, see [Team Retrospectives](/handbook/engineering/management/team-retrospectives/).
+
+### Retrospective Summary
+
+The Retrospective Summary is a short pre-recorded video which summarizes the learnings across all [Team Retrospectives](/handbook/engineering/management/team-retrospectives/).
+
+Once all Team Retrospectives are completed, each team inputs their learnings into a single publicly-accessible [Google doc](https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit?usp=sharing). The  moderator then pre-records a video of the highlights. This video is then announced in the Retrospective planning and execution issue along with the #whats-happening-at-gitlab slack channel. In line with our value of [transparency](/handbook/values/#transparency), we also post this video to our public [Gitlab Unfiltered channel](https://www.youtube.com/c/GitLabUnfiltered/videos).
+
+**Steps for participants**
+1. Please host your Team Retrospective following the guidelines outlined in the [handbook](https://about.gitlab.com/handbook/engineering/management/team-retrospectives/).  
+1. After the Team Retrospective is complete, please choose a subset some of your most interesting learnings to share company-wide in the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit).  Please try to group by these by our [CREDIT values](https://about.gitlab.com/handbook/values/).
+1. In the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit), if there is a learning that you would like to explicitely highlight, please add the text **highlight** at the beginning of the text. The moderator will highlight this along with other interesting learnings when they create the pre-recorded video.
+1. If there are improvement tasks for your team from the previous retrospective, please provide an update on them in the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit). They will be verbalized during the Retrospective Discussion.
+1. If there are improvement tasks for your team in the current retrospective, please add them in the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit). They will be verbalized during the Retrospective Discussion.
+1. Add a checkbox in the table of the Retrospective issue when your retrospective is done and when the document is updated.
+
+**Steps for the moderator**
+1. Please read through the Team Retrospective learnings in the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit).
+1. Add the learnings into a slide deck and identify the highlights you would like to cover.
+1. Record a video presentation summarizing the highlights.
+1. Upload this video to our public [Gitlab Unfiltered channel](https://www.youtube.com/c/GitLabUnfiltered/videos).
+1. Announce the video and discussion topics in Retrospective planning and execution issue, the #whats-happening-at-gitlab slack channel, and the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit).
+
+### Retrospective Discussion
+
+The Retrospective Discussion is a 25 minute live discussion among participants where we deep dive into discussion topics from our Team Retrospectives. In line with our value of [transparency](/handbook/values/#transparency), we livestream this meeting to YouTube and monitor chat for questions from viewers. Please check the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit?usp=sharing) for details on joining the livestream.
+
+**Discussion Topics**
+
+For each retrospective discussion, we aim to host an interactive discussion covering two discussion topics. We limit this to two topics due to the length of the meeting. The discussion topics should stem from our Team Retrospective learnings and should be applicable to the majority of participants.
+
+Topics are suggested by the participants in the Retrospective planning and execution issue. Participants can vote on these topics by adding a :thumbsup reaction. The two topics with the most :thumbsup votes will be used as the discussion topics.
+
+**Meeting Agenda**
+* Improvement tasks for the previous release (5 minutes)
+* Discussion topics (14 minutes, 2 topics at 7 minutes each)
+* Improvement tasks for the current release (5 minutes)
+* Wrap up (1 minute)
+
+**Steps for participants**
+
+1. Suggest discussion topics by adding them to the Retrospective planning and execution issue.
+1. Vote on discussion topics by adding a :thumbup reaction
+1. Once discussion topics are announced on `M+1, 4th`, begin adding any comments into the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit).
+1. During the Retrospective Discussion, be prepared to verbalize any improvement tasks or commentary on discussion topics. If you can't make the meeting and there is an item for you to verbalize, please ask someone else on your team to attend to do so.
+
+**Steps for the moderator**
+
+1. In the Retrospective planning and execution issue, create a thread asking participants to suggest and vote on topics.
+1. Close voting at close of business on `M+1, 3rd`.
+1. Announce the discussion topics alongside of the Retrospective Summary video in the Retrospective planning and execution issue, the #whats-happening-at-gitlab slack channel, and the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit)
+1. Ensure the Retrospective Discussion calendar invite is sent out by coordinating with @lief. 
+1. Host the Retrospective Discussion and press livestream to Youtube.
 
 ### Triaging retrospective improvements
 
