@@ -15,7 +15,7 @@ Group Conversations are optional recurring meetings providing regular updates ac
 
 The [People Experience Associates](/job-families/people-ops/people-experience-associate/) are responsible for scheduling these events which should automatically appear within the GitLab Team Meetings Calendar from 08:00am to 08:25am Pacific Standard Time (PST) from Monday to Thursday.
 
-Everyone is invited to participate Group Conversations by adding questions and comments in the Group Conversation Agenda, a Google Doc linked in the respective calendar invite.
+All Team Members are invited to participate Group Conversations by adding questions and comments in the Group Conversation Agenda, a Google Doc linked in the respective calendar invite.
 
 Non-confidential Group Conversations are streamed live and shared publicly to our [GitLab Unfiltered YouTube channel](https://www.youtube.com/playlist?list=PL05JrBw4t0KpUeT6ozUTatC-JbNoJCC-e).  Confidential Group Conversations which are not streamed live or shared publicly to YouTube include Finance; Sales; Security and Partnerships.
 
