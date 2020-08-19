@@ -348,6 +348,15 @@ _developer velocity can help illuminate promising areas in which to get involved
 ### Analyst Reports and Studies
 _[The original and internal-to-GitLab proof points Google Doc is online, here](https://docs.google.com/document/d/1Tuhg6LO0e6R-KP7Vfwb8cggHDiBzkC26pBl0lyLS7UY/edit) while some parts of this handbook page are being approved for publication._
 
+#### 2020
+
+<big>[Forrester Total Economic Impact Study Commissioned By GitLab, June 2020](/https://about.gitlab.com/handbook/marketing/product-marketing/analyst-relations/forrester-tei/)</big><br>
+_GitLab commissioned Forrester Consulting to conduct a Total Economic Impact (TEI) study examining the potential return on investment (ROI) enterprises may realize by using GitLab._<br> 
+GitLab customers were interviewed and related data was collected independently by Forrester Consulting in this process. The data collected, resulting model, and study itself was reviewed independently by Forrester Research analysts. GitLab stakeholders were also interviewed as part of the data gathering and review process. This study looked at the cost savings and business benefits of enterprises using GitLab for Version Control & Collaboration (VC&C)/SCM, Continuous Integration (CI), and Continuous Delivery (CD).
+**Value Drivers:** Efficiency, Speed, Risk<br>
+**Usecase** SCM, CI, CD, Simplify DevOps
+
+
 #### 2019
 
 <big>[Forrester: Manage Your Toolchain Before it Manages You](/resources/whitepaper-forrester-manage-your-toolchain/)</big><br>
