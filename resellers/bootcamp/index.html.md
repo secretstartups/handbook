@@ -20,7 +20,7 @@ These sections are independent, you can take any of them or both in any order de
 GitLab is a single application for entire DevSecOps lifecycle. To see what GitLab does have a look at this demo video.
 
 <figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nMAgP4WIcno" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/nMAgP4WIcno" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>  
 
 ## Using GitLab
@@ -34,7 +34,7 @@ GitLab is a single application for entire DevSecOps lifecycle. To see what GitLa
 ### Agile Project Management
 
 <figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bCDmxG4IIXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/bCDmxG4IIXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 If you are interested in market positioning, typical painpoints and the way GitLab address them, customer stories and analyst coverage review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/agile/).
@@ -42,7 +42,7 @@ If you are interested in market positioning, typical painpoints and the way GitL
 ### Code Management & Version Control
 
 <figure class="video_container">
-  <<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7J7Fdh6XSvU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <<iframe width="560" height="315" src="https://www.youtube.com/embed/7J7Fdh6XSvU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 **Now go to your project and find issue called *Lab 1* and complete the tasks contained there**.
@@ -53,7 +53,7 @@ If you are interested in market positioning, typical painpoints and the way GitL
 ### Continuous Integration & AutoDevOps
 
 <figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sIegJaLy2ug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/sIegJaLy2ug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 **Now go to your project and find issues called *Lab 2* and *Lab 3* and complete the tasks contained there**.
