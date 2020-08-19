@@ -39,6 +39,7 @@ Because this page needs to be concise and consistent, please ensure to follow th
 | `workflow::In dev` | [Build](#build-track) | Engineering | Initial engineering work is complete and review process has started | Engineering |
 | `workflow::In review` | [Build](#build-track) | Engineering | MR(s) are merged | Engineering |
 | `workflow::verification` | [Build](#build-track) | Engineering | Work is demonstrable on production | Engineering |
+| `workflow::measurement` | [Build](#build-track) | Product | TBD | Product |
 | `workflow::blocked` | N/A | Product/Engineering | Work is no longer blocked | Engineering |
 
 ### Issue descriptions as the SSOT
