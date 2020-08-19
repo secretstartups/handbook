@@ -35,7 +35,7 @@ Articulating value is a critical sales skill in achieving [Command of the Messag
 
 ----
 
-<big>[Axway](/customers/axway/)</big><br>
+<big>[Axway](/customers/axway-devops/)</big><br>
 **Problem:** Legacy SCM and complex toolchain limited worldwide collaboration<br>
 **Solution:** GitLab Premium (SCM)<br>
 **Result:** Result: 26x faster release cycle; from annual releases down to every two weeks<br>
