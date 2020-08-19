@@ -47,7 +47,7 @@ The main tools used by Marketing and integrated with Salesforce are:
 - [PathFactory](/handbook/marketing/marketing-operations/pathfactory)
 - [Sigstr](/handbook/marketing/marketing-operations/sigstr)
 - [Demandbase](/handbook/marketing/revenue-marketing/account-based-marketing/demandbase)
-- DiscoverOrg
+- ZoomInfo
 - LinkedIn Sales Navigator
 - [Bizible](/handbook/marketing/marketing-operations/bizible/)
 
@@ -65,10 +65,11 @@ Other tools directly used by Marketing and maintained by Marketing Operations:
 - [Litmus](/handbook/marketing/marketing-operations/litmus)
 - MailChimp
 - Moqups
-- Rev.com
+
 - [RushTranslate](/handbook/marketing/marketing-operations/rushtranslate)
 - Screaming Frog
 - SEMrush
+- Smartling
 - Sprout Social
 - Swiftype
 - Survey Monkey
@@ -136,7 +137,7 @@ _In Milestone_
 
 **Handbook Updates**: 
 
-When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` handbook pages (or sub-pages), we have a Zapier workflow set up that will push the MR (upon merge) to the realted slack channel to ensure our teams are aware of any change that is made to the page. In order for the merged MR to show up in the respective slack channel, you must add one of the following corresponding `labels` on the MR.
+When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` handbook pages (or sub-pages), we have a Zapier workflow set up that will push the MR (upon merge) to the related slack channel to ensure our teams are aware of any change that is made to the page. In order for the merged MR to show up in the respective slack channel, you must add one of the following corresponding `labels` on the MR.
 
 
 | Label you add | Slack channel the merged MR pushes to  |
@@ -375,7 +376,7 @@ The Lead & Contact objects in Salesforce have unified statuses with the followin
 | Unqualified | Contact information is not now or ever valid in future; Spam form fill-out |
 | Nurture | Record is not ready for our services or buying conversation now, possibly later |
 | Bad Data | Incorrect data - to potentially be researched to find correct data to contact by other means |
-| Web Portal Purchase | Used when lead/contact completed a purchase through self-serve channel & duplicate record exists |
+| Web Portal Purchase | (Temporary, to be merged by RingLead) Used when lead/contact completed a purchase through self-serve channel & duplicate record exists |
 
 ### Marketo Program and Salesforce Campaign set-up
 
@@ -396,7 +397,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 - Executive Roundtables: [YYYYMMDD_ExecutiveRoundtable_Topic_Region](https://app-ab13.marketo.com/#ME6028A1)
 - (MPM use only) Conference: [YYYYMMDD_Conference_Template](https://app-ab13.marketo.com/#ME5100A1)
 - (MPM use only) Conference Speaking Session: [YYYYMMDD_SpeakingSession_Template](https://app-ab13.marketo.com/#ME5092A1)
-- (MPM use only) Field Event: [YYYYMMDD_FieldEvent_Template](https://app-ab13.marketo.com/#ME5083A1)
+- Field Event: [YYYYMMDD_FieldEvent_Template](https://app-ab13.marketo.com/#ME5083A1)
 - (MPM use only) Gated Content: [YYYY_Type_Content_Template](https://app-ab13.marketo.com/#PG5111A1)
 - (MPM use only) PathFactory Listener: [TEMPLATE - `PF - Asset Type - Name of Asset`](https://app-ab13.marketo.com/#PG3875A1)
 - (MPM use only) Integrated Campaign: [FY20IntegratedCampaign_Template](https://app-ab13.marketo.com/#PG4924A1)
@@ -481,7 +482,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
     - Update `Start Date` to the date of launch
     - Update `End Date` to 90 days from date of launch (if this is an ongoing campaign, update appropriately)
     - Update `Budgeted Cost` if you have the data available
-    - Update `Region` if you have the data available
+    - Update `Region` and `Subregion` if you have the data available
     - Click Save
 - Add the Marketo program link and SFDC campaign link to the epic.
 
