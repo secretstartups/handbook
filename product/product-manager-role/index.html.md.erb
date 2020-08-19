@@ -138,17 +138,18 @@ architectural changes and other changes required for ensuring GitLab's excellenc
 
 #### GitLab.com
 
-Every Product Manager is responsible for the user experience and cost profile of their product area on GitLab.com. Unlike self-managed, GitLab is responsible for the costs of operating the service, as well as the experience that is delivered to users. If a feature is unsustainable from a cost standpoint that can erode the margins of our SaaS business, or if a feature is slow it can impact the satisfaction of our users and potentially others on the platform.
+Every Product Manager is responsible for the user experience and cost profile of their product area regardless of how the application is hosted (self-managed or gitlab.com). If a feature is unsustainable from a cost standpoint, that can erode the margins of our SaaS business while driving up the total cost of ownership for self-managed customers. If a feature is slow, it can impact the satisfaction of our users and potentially others on the platform.
 
 There are a few questions a Product Manager should ask when thinking about their features:
 
 * What are the costs associated with my product area? What is the impact on the margin for each tier of GitLab.com?
   * Consider network, compute, and storage costs
-* Are there tools in place to help GitLab, Inc. optimize the cost footprint for running GitLab.com (e.g. node rebalancing, transitioning objects to less costly storage classes, garbage collection capabilities)
+* Are there tools in place to help GitLab, Inc and self-managed admins optimize the cost footprint for running GitLab (e.g. node rebalancing, transitioning objects to less costly storage classes, garbage collection capabilities)
 * Are there features and default settings that help users stay within their [CI and Storage limits](https://about.gitlab.com/pricing/)?
-* Are there [application limits](https://about.gitlab.com/handbook/product/product-processes/#introducing-application-limits) in place to enhance the availability and performance of GitLab.com and reduce [abuse vectors](https://about.gitlab.com/handbook/engineering/security/operations/abuse/#examples-of-common-forms-of-abuse-include-but-are-not-limited-to)?
+* Are there configurable [application limits](https://about.gitlab.com/handbook/product/product-processes/#introducing-application-limits) in place for admins to enhance the availability and performance of GitLab and reduce [abuse vectors](https://about.gitlab.com/handbook/engineering/security/operations/abuse/#examples-of-common-forms-of-abuse-include-but-are-not-limited-to)?
 * What is the experience of users when interacting with these features on GitLab.com? Is it fast and enjoyable?
 
+These items do not all need to be implemented in an MVC, though potential costs and application limits should be considered for deployment on GitLab.com. 
 ### Direction
 
 Our product wide, section, stage and category direction pages can be found from our [Direction](/direction) page.
