@@ -60,6 +60,7 @@ The following data cleanup is required for any list prior to sending it to the O
 1. `Washington DC` is a `State` value and is not to be split up between `City` `State`. 
 1. `Country` and `State` values must be listed by their full name and not abbreviated. 
 1. `Zip Codes` contain five (5) numbers, States in US East may start with a `0`, make sure the `Zip/Postal Code` field is **plain text** and the leading `0` appears. 
+1. If list contains non-Latin characters (ex. Asian languages), it must be uploaded to Marketo using UTF-8 and UTF-16. [Marketo instructions here](https://docs.marketo.com/display/public/DOCS/Import+a+Non-Latin+Characters+List). Salesforce Data Loader requires UTF-8 encoding, [instructions here](https://help.salesforce.com/articleView?id=faq_import_dataloader_specialchars.htm&type=5).
 
 ### Import Cleaning Template
 
