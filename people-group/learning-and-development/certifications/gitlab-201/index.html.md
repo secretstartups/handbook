@@ -20,3 +20,116 @@ Add detail here
 ### Prerequsites
 
 GitLab 101 
+
+### What do you need to get started?
+
+### Objectives
+1.
+1.
+1.
+
+### Lesson 1: Epics
+Epics let you manage your portfolio of projects more efficiently and with less effort by tracking groups of issues that share a theme, across projects and milestones. 
+
+**Uses**
+
+1. Suppose your team is working on a project/OKR that involves multiple discussions throughout different issues created in distinct projects within a Group.  With Epics, you can track all the related activities that together contribute to that single project/OKR.
+1. Track when the work for the group of issues is targeted to begin, and when it’s targeted to end. 
+1. Discuss and collaborate on ideas and scope at a high level.  
+1. Helps to report on the health status of the different issues attached.
+
+**How to Create Epics**
+
+Epics are created on group level. To create an epic, navigate to the project’s group, on the left panel,
+ 
+1. click ‘epics’, 
+1. then click ‘New epic’. 
+1. Type in the title of the epic and click create epic.
+
+You may choose to mark confidential by selecting Make this epic confidential checkbox.
+
+(ADD VIDEO HERE) 
+
+**Child Epics**
+Child epics may be added to a parent epic.  To add a child epic;
+
+1. Navigate to the parent epic, click the add dropdown button
+1. Click Add an epic.
+1. Type in the title
+1. Create epic
+
+(ADD video or screenshot)
+
+**How to link epics and issues**
+
+An epic contains a list of issues and an issue can be associated with at most one epic. When you add an issue that’s already linked to an epic, the issue is automatically unlinked from its current parent.
+
+**How to add an issue to an epic:**
+
+1. Click the Add dropdown button.
+1. Click Add an issue.
+1. Either paste the link of the issue or enter part of the issue’s title, then select the desired match.
+1. If there are multiple issues to be added, press the spacebar and repeat this step. 
+1. Click Add
+
+(ADD video or screenshot)
+
+**Add an epic to an issue:**
+
+For an existing issue, navigate to the side bar, click Epic, type in the title of the epic you want to add and then select it from the drop down menu. 
+(ADD SCREENSHOT) 
+
+**Helpful Tips:**
+
+**Issue** - medium for collaborating on ideas and planning work in GitLab
+
+**Boards** - set up similar to how a kanban board would look.  An issue board shows you what issues your team is working on, who is assigned to each, and where in the workflow those issues are.
+
+**Epic** - helps to track issues across multiple projects efficiently.  Epics give a high level view of the health status of different issues attached to that epic.
+
+### Quiz - Lesson 1: Epics
+
+To move on to the next lesson, take and pass the GitLab 201 epics quiz.
+
+### Lesson 2: Merge Requests
+
+In GitLab 101, we learnt how to create merge requests.  In this lesson, we will dive deeper into merge requests. 
+
+**Reviewing a Merge Request**
+
+You can review a merge request to provide feedback to the author. You can start a review in the merge request diff. Diff is the view of changes to a file between branches or commits.
+
+To review a merge request, click on the ‘Changes’ tab.
+Write your comment on a diff and click on the start a review button.
+Once a review is started, you will see any comments that are part of this review marked ‘pending’.  
+To add more comments to a review, start writing a comment as normal and click the ‘Add to review’ button.
+To resolve a thread, when replying to a comment, click the checkbox to resolve thread. 
+Click 'submit review' to publish all documents.
+(ADD VIDEO or screenshot)
+
+**Suggesting Changes to a Merge Request**
+
+You can suggest changes in the Merge Request Diff threads.  The Merge Request author is able to apply these suggestions with a click, which will generate a commit in the merge request.
+
+1. Choose a line to be changed, add a comment, then click on the Insert suggestion icon in the toolbar
+1. In the comment, add your suggestion to the pre-populated code block
+1. Click ‘Start a review’ to add your comment to a review, or ‘Add comment now' to add the comment immediately.
+1. The Suggestion in the comment can be applied by the merge request author directly from the merge request.
+1. Once the suggestion has been applied, a new commit will be created and the suggested change will be pushed to the merge request's branch.  
+
+**WIP/Draft Merge Requests**
+
+If you are still working on a merge request and not ready for it to be merged, add [Draft] to the start of the merge request’s title, this will prevent the merge request from being merged.
+
+To update a WIP MR, in the changes tab, click on the pencil icon to edit the merge request.
+
+Make your changes.  Click ‘commit changes’.
+
+When you are ready for it to be merged, simply remove the [Draft] prefix from the title of the MR.
+
+
+
+
+
+
+
