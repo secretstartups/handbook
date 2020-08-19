@@ -299,9 +299,9 @@ Beginning 2020-09-01, a Pilot program will be initiated which is the outcome of 
 
 ### New Process
 
-The new process splits Weekdays and Weekends/Holidays and fully automates scheduling and escalation using a Bot during the normal work week.
+The new process splits Weekdays and Weekends/Holidays and fully automates scheduling and escalation using a Bot (pagerslack) during the normal work week.
 
-A pilot of this new weekday process will happen concurrently with the existing scheduled one. In a sense there will be "double coverage" during the pilot to ensure that someone is always available, either via bot or previously scheduled in the [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing).
+A pilot of this new weekday process will happen concurrently with the existing scheduled one. In a sense there will be "double coverage" during the pilot to ensure that someone is always available, either via pagerslack or previously scheduled in the [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing).
 
 **Important**: During the pilot period, sign-ups of weekday and weekends are still required as a backup.
 
@@ -309,21 +309,21 @@ A pilot of this new weekday process will happen concurrently with the existing s
 
 Weekdays will now leverage an automated system relying upon a [chatbot](https://gitlab.com/jameslopez/pagerslack).
 
-1. Incidents will be escalated by the bot and randomly select a BE that is currently online in Slack and eligible due to their working hours.
-1. The bot would also factor recency into the algorithm so that BEs that had recently been involved in an incident would be selected last.
+1. Incidents will be escalated by Pagerslack and randomly select a BE that is currently online in Slack and eligible due to their working hours.
+1. Pagerslack would also factor recency into the algorithm so that BEs that had recently been involved in an incident would be selected last.
 1. During incidents a randomly selected BE has the option to pass the incident to another BE if they are urgently needed somewhere else.
 
 ##### Escalation
 
 1. SRE et al, types `/devoncall [optional incident issue URL]` into #dev-escalation
-1. A bot randomly selects a BE first responder based on: working hours, whether they are online and notifies them via slack/cell etc.
-1. BE responds to bot thread with 👀
+1. Pagerslack randomly selects a BE first responder based on: working hours, whether they are online and notifies them via slack/cell etc.
+1. BE responds to the Pagerslack thread with 👀
 1. If Primary does not respond a secondary will be notified.
-1. The bot will continue trying up to 6 different BEs.
+1. Pagerslack will continue trying up to 6 different BEs.
 1. BE triages the issue and works towards a solution.
 1. If necessary, BE reach out to domain experts as needed.
 
-In the event that no BEs respond to the bot, the bot will then post a link to the [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing) for the SRE to look up scheduled oncall BE. We assume escalating to using the spreadsheet as a last resort.
+In the event that no BEs respond to the bot, Pagerslack will then post a link to the [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing) for the SRE to look up scheduled oncall BE. We assume escalating to using the spreadsheet as a last resort.
 
 #### Weekends and Holidays
 
@@ -334,7 +334,7 @@ Holidays will continue to be included in the [oncall spreadsheet](https://docs.g
 ##### Escalation
 
 1. SRE et al, types `/devoncall [optional incident issue URL]` into #dev-escalation
-1. The bot posts a link to the oncall spreadsheet
+1. Pagerslack posts a link to the oncall spreadsheet
 1. SRE contacts the scheduled BE via Slack or make a phone call 5 minutes after Slack ping. Refer to bullet 3 under [#process-outline](#process-outline).
 1. BE triages the issue and works towards a solution.
 1. If necessary, BE will reach out to domain experts as needed.
@@ -353,7 +353,7 @@ We measure success by the number of escalations handled solely via the bot-drive
 
 At the time of success assessment, all stakeholders - Development, Infrastructure, QE, Security, and Support - agree the new process is ready for production, in addition to the metric above.
 
-### Bot Usage
+### Bot (Pagerslack) Usage
 
  * In order to use the bot, type `/devoncall [optional incident issue URL]` to trigger the escalation process.
  * `@pagerslack top` will show the top 25 members that are next in the escalation queue
@@ -362,7 +362,7 @@ At the time of success assessment, all stakeholders - Development, Infrastructur
 
 ### Slack Notification Hours
 
- The bot relies on accurate data related to working hours for all available developers.
+ pagerslack relies on accurate data related to working hours for all available developers.
 
  In order to make this effective, all BEs should set their notification schedule in Slack.
 
