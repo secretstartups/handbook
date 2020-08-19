@@ -59,7 +59,7 @@ TL;DR:
 
 ### Finding people that will amplify your influence
 
-![influence](/handbook/engineering/architecture/influence.png)
+![influence](/handbook/engineering/architecture/workflow/influence.png)
 
 The author of a proposal and their Engineering Manager collaborate together to
 find people that will be amplifiers of their influence:
