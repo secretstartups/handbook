@@ -113,3 +113,4 @@ The TAM Manager should then work with their TAM to ensure collaboration with the
 
 - [Renewal Review Handbook](/handbook/customer-success/tam/renewals/)
 - Gainsight Dashboard - **TAM Portfolio** or **CS Leadership**
+- [SFDC: WW Renewal Forecast](https://gitlab.my.salesforce.com/00O4M000004aARC)
