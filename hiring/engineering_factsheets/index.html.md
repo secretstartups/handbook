@@ -143,7 +143,7 @@ Daniel Cipoleetti (Frontend Engineering Manager, Verify)
 [Product vision page](/direction/product-vision/#verify)
 **How the team works:** The Verify stage is all about making sure that your code does what you expected it to do, meets quality standards, and is secure; all via automated testing. We bring best practices from top development teams, and make them the easy, default way to work.
 **Links to relevant Handbook pages:**
-[Product Categories page](/handbook/product/product-categories/#cicd-section)
+[Product Categories page](/handbook/product/product-categories/#verify-stage)
 [Frontend Verify Team page](/handbook/engineering/frontend/verify-release/)
 [Frontend Engineer job posting](https://boards.greenhouse.io/gitlab/jobs/4065693002)
 [Frontend Engineer job family](/job-families/engineering/frontend-engineer/)
