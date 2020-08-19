@@ -4,12 +4,13 @@ title: "Account Team"
 ---
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-----
+- - -
 
 The account team works together to drive value, success, and growth for a customer.
 
@@ -45,29 +46,11 @@ These meetings should be scheduled on a recurring basis, for the team to review 
 
 Account teams may choose to include the [Sales Development Representative (SDR)](/job-families/marketing/sales-development-representative/) in their account meetings. The SDR primarily focuses on generating new business so they are not necessarily involved in existing customer accounts, but it may be beneficial to keep everyone informed across the entire account development lifecycle.
 
-## SA-TAM Overlap and Account Handoff
-
-The SA owns all pre-sales technical relationships and activities. The SA leads technical conversations prior to the sale. TAM involvement prior to the sale models the expectations for customer relationships after the sale. TAM involvement should supplement, not displace, SA pre-sales ownership of the account.  
-
-TAM engagement prior to the sale should occur in the following situations:  
-
-- At the POV completion & presentation or when appropriate in deep conversations on technology if no POV will occur
-- When a shared Slack channel is created for the customer
-- A shared customer issue tracking project has been created that will affect the account long-term
-- As requested by the SA if the TAM has a specific subject matter expertise relevant to the conversation
-
-The TAM owns the account post-sale. SAs are to remain involved in the following situations:  
-
-- Development of expansion plans with the SAL and TAM
-- A new POV or product evaluation begins for a single team or an enterprise-wide upgrade.
-- Any product license expansions that require overviews, education and competitive insights prior to close
-- Any professional services are being discussed and an SOW may require drafting
-- If a TAM is over-committed or unable to support a customer request, the SA may be requested to assist
-- Support of GitLab days or other on-site evangelism of GitLab at customer sites
+## SA-TAM Account Handoff and Overlap
 
 ### Account Handoff from SA to TAM
 
-When a pre-sales account will be [TAM-qualifying](/handbook/customer-success/tam/services/#tam-alignment) and it is time for the TAM to be aligned, a formal account review and handoff from the SA to the TAM should be conducted. In addition, the SAL should also be invovled in this process for discussions related to account strategy, Command Plan, etc. but can be just the SA and TAM when reviewing the more technical aspects of the customer's GitLab deployment and usage.
+When a pre-sales account will be [TAM-qualifying](/handbook/customer-success/tam/services/#tam-alignment) and it is time for the TAM to be aligned, a formal account review and handoff from the SA to the TAM should be conducted. In addition, the SAL should also be involved in this process for discussions related to account strategy, Command Plan, etc. but can be just the SA and TAM when reviewing the more technical aspects of the customer's GitLab deployment and usage.
 
 #### General Account Review
 
@@ -76,9 +59,9 @@ To start the account handoff and ensure the TAM is aware of the account details,
 - Account name and industry sector
 - Key people (champion, economic buyer, decision maker, etc.)
 - Command Plan and reason for purchasing GitLab
-  - Defined business outcomes
-  - Pain points
-  - Metrics
+    - Defined business outcomes
+    - Pain points
+    - Metrics
 
 The TAM should be able to gather enough information from this meeting to start assembling the [Success Plan](/handbook/customer-success/tam/success-plans/) for the customer, and prepare for the [onboarding process](/handbook/customer-success/tam/onboarding/).
 
@@ -89,3 +72,23 @@ As part of the pre-sales process, there are times where a PoV is conducted. If s
 #### TAM Introduction
 
 Once the internal account review and handoff process has been conducted, the TAM should be [introduced to the customer and start the TAM engagement](/handbook/customer-success/tam/engagement/). The SA may remain involved through the initial engagement to help provide any additional details that may not have been addressed during handoff.
+
+The SA owns all pre-sales technical relationships and activities. The SA leads technical conversations prior to the sale. TAM involvement prior to the sale models the expectations for customer relationships after the sale. TAM involvement should supplement, not displace, SA pre-sales ownership of the account.
+
+#### **SA/TAM Overlap**
+
+TAM engagement prior to the sale should occur in the following situations:
+
+- At the POV completion & presentation or when appropriate in deep conversations on technology if no POV will occur
+- When a shared Slack channel is created for the customer
+- A shared customer issue tracking project has been created that will affect the account long-term
+- As requested by the SA if the TAM has a specific subject matter expertise relevant to the conversation
+
+The TAM owns the account post-sale. SAs are to remain involved in the following situations:
+
+- Development of expansion plans with the SAL and TAM
+- A new POV or product evaluation begins for a single team or an enterprise-wide upgrade.
+- Any product license expansions that require overviews, education and competitive insights prior to close
+- Any professional services are being discussed and an SOW may require drafting
+- If a TAM is over-committed or unable to support a customer request, the SA may be requested to assist
+- Support of GitLab days or other on-site evangelism of GitLab at customer sites
