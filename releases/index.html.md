@@ -343,12 +343,13 @@ The different processes are documented here:
   - [Patch releases][process-patch-release]
 - GitLab.com releases:
   - [Auto-deploy releases][process-auto-deploy-release]
+  - [Hot patch]
 
 ### A security issue was assigned to me, where should I start?
 
 See the [Security Release process as Developer] documentation for more information.
 
-Also, make sure to see [Security Releases How to video] for a broad explanation about all the steps required as Developer when working on a security fix.
+Also, make sure to see [Security Releases How to video] for a broad explanation about all the steps required as a Developer when working on a security fix.
 
 ### Why wasn't my security fix included in the Security Release?
 
@@ -359,6 +360,10 @@ Release. Make sure to use the [security issue template] and follow the steps the
 
 Besides the merge request targeting `master`, three backports will be needed targeting the last two monthly releases and the current release. 
 For more information, see [security release backports].
+
+### How can I Hot patch an issue?
+
+See the [Hot patch] documentation for details on how to Hot patch. Note that hot patches may help with the resolution of severe incidents on GitLab.com but can only exist for a temporary period of time and block further deployments until fully fixed. See the [Hot patch] documentation for details about what can be patched. 
 
 [semver]: https://semver.org
 [canary]: /handbook/engineering#canary-testing
@@ -384,3 +389,5 @@ For more information, see [security release backports].
 [GitLab Security]: https://gitlab.com/gitlab-org/security/
 [security issue template]: https://gitlab.com/gitlab-org/security/gitlab/issues/new?issuable_template=Security+developer+workflow
 [security release backports]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/developer.md#backports
+[Hot patch]: https://gitlab.com/gitlab-org/release/docs/blob/master/general/deploy/post-deployment-patches.md
+[Deployment blockers]: https://about.gitlab.com/handbook/engineering/releases/#deployment-blockers
