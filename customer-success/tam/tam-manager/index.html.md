@@ -49,16 +49,20 @@ While the SAL owns the transition-to-TAM aspect, the TAM Manager will then ensur
 #### Assignment Resources
 
 - [Onboarding Handbook](/handbook/customer-success/tam/onboarding/)
-- Gainsight Dashboard - CS Leadership
+- Gainsight Dashboard - **CS Leadership**
 
 ### Customer Onboarding Review
 
-On a regular basis, the TAM Manager should review their team's active Onboarding plays. The Onboarding plays can be reviewed with each individual in one-on-one meetings. Onboarding is measured by the [time to value metrics](/handbook/customer-success/vision/#time-to-value-kpis).
+On a regular basis, the TAM Manager should review their team's active Onboarding plays. The Onboarding plays can be reviewed with each individual in one-on-one meetings. Onboarding is measured by the [time to value metrics](/handbook/customer-success/vision/#time-to-value-kpis). Consider:
+
+1. How many and which accounts are in onboarding?
+1. What do Time to Value metrics look like? 
+1. After looking at the detail, what are areas we want to improve and areas to celebrate?
 
 #### Onboarding Resources
 
 - [Account Onboarding Handbook](/handbook/customer-success/tam/onboarding/)
-- Gainsight Dashboard - TAM Portfolio or Customer Onboarding
+- Gainsight Dashboard - **TAM Portfolio** or **Customer Onboarding**
 
 ### Success Plan Review
 
@@ -76,7 +80,7 @@ The TAM Manager should then work with their team to help the TAM drive up and de
 #### Success Plan Resources
 
 - [Success Plan Handbook](/handbook/customer-success/tam/success-plans/)
-- Gainsight Dashboard - TAM Portfolio or CS Leadership
+- Gainsight Dashboard - **TAM Portfolio** or **CS Leadership**
 
 ### Triage and Health Review
 
@@ -91,7 +95,7 @@ On at least a monthly basis, review accounts within your region for upcoming one
 
 - [Account Triage Handbook](/handbook/customer-success/tam/triage/)
 - [Account Triage Board](https://gitlab.com/gitlab-com/customer-success/account-triage/-/boards/703769)
-- Gainsight Dashboard - TAM Portfolio or CS Leadership
+- Gainsight Dashboard - **TAM Portfolio** or **CS Leadership**
 
 ### Renewal Review
 
@@ -108,4 +112,4 @@ The TAM Manager should then work with their TAM to ensure collaboration with the
 ## Renewal Resources
 
 - [Renewal Review Handbook](/handbook/customer-success/tam/renewals/)
-- Gainsight Dashboard - TAM Portfolio or CS Leadership
+- Gainsight Dashboard - **TAM Portfolio** or **CS Leadership**
