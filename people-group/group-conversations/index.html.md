@@ -43,7 +43,7 @@ Before you host your first Group Conversation, please be sure complete this [Gro
 
 ### Moderator
 
-The Moderator of a Zoom call is the person that has Zoom's *Host* level permission. Host level permission in Zoom permits livestreaming a call, starting or ending a recording and giving co-hosting permissions to others. 
+The Moderator of a Zoom call is the person that has Zoom's *Host* level permission. Host level permission in Zoom permits streaming a call to YouTube, starting or ending a recording and giving co-hosting permissions to others. 
 
 The Moderator of a Zoom call is the person who is in charge of starting the call i.e. initiating the countdown; livestreaming; updating the livestream from public to private if a sensitive topic is mentioned, and keeping the meeting running efficiently and on time so that it does not go over the Quick Meeting time frame. 
 
