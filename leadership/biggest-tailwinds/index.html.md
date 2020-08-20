@@ -32,6 +32,6 @@ We believe that the market opportunity for a complete DevSecOps platform designe
 
 [Observability](https://siliconangle.com/2019/09/30/quickening-race-lead-cloud-native-computing-observability/)
 
-[Progressive Delivery](/20-years-open-source/)
+[Progressive Delivery](/blog/2019/04/19/progressive-delivery-using-review-apps/)
 
 [Workloads Moving to the Cloud](https://www.synopsys.com/blogs/software-security/cloud-migration-business/)
