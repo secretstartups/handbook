@@ -122,6 +122,10 @@ We try not to cancel a GC.
 We prefer to have half-prepared GCs over delaying them, but occassionally there may be a last-minute cancellation. 
 If a Group Conversation is cancelled, the People Operations and People Experience teams should ask a member of the e-group to host an AMA.
 
+#### Additional Consideration for Functional Presentations
+
+[Groups](/handbook/finance/key-meetings/#invitees) that also have [Key Meetings](/handbook/finance/key-meetings/) should repurpose material created for their last Key Meeting in the Group Conversation immediately following the Key Meeting. This is to give the broader team exposure to progress against key metrics and objective that are key to the business and reduce content duplication. 
+
 ### 24 Hours Before the Call
 
 1. Ensure the slide deck is visible to all of GitLab
