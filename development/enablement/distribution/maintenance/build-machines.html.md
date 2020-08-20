@@ -4,6 +4,7 @@ title: "Distribution Team Infrastructure and Maintenance"
 ---
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
@@ -11,8 +12,8 @@ title: "Distribution Team Infrastructure and Maintenance"
 
 ## Common links
 
-* [Distribution Team Handbook](/handbook/engineering/development/enablement/distribution/)
-* [Distribution Team Infrastructure and Maintenance](/handbook/engineering/development/enablement/distribution/maintenance/)
+- [Distribution Team Handbook](/handbook/engineering/development/enablement/distribution/)
+- [Distribution Team Infrastructure and Maintenance](/handbook/engineering/development/enablement/distribution/maintenance/)
 
 ## Build Machines
 
@@ -20,7 +21,7 @@ GitLab CI runner manager is responsible for creating build machines for package
 builds.  This node configuration is managed by
 [cookbook-gitlab-runner](https://gitlab.com/gitlab-cookbooks/cookbook-wrapper-gitlab-runner).
 Configuration values are stored in the vault named the same as the node,
-[see example](https://dev.gitlab.org/cookbooks/chef-repo/blob/bb367e272662da9e9efdfd9adec13769e44a9bc3/job-families/omnibus-builder-runners-manager.json#L18).
+[see example](https://ops.gitlab.net/gitlab-cookbooks/chef-repo/-/blob/a62742886ed1dec291d66df3508e37163431538d/roles/build-trigger-runner-manager-gitlab-org.json#L37).
 
 Currently, the version of GitLab CI runner is locked. We aim to be close to the
 current version of runner in order to get the fixes that we need without getting
@@ -40,12 +41,15 @@ types of pipelines. Both these machines are in GCP project
 
 This runner manager manages the machines used for building and publishing
 official GitLab CE and EE packages. It is locked to the [omnibus-gitlab](https://dev.gitlab.org/gitlab/omnibus-gitlab/)
-project in dev.gitlab.org.
+and [gitlab-omnibus-builder](https://dev.gitlab.org/cookbooks/gitlab-omnibus-builder/) projects in dev.gitlab.org.
 
-It spins up three types of machines:
+It spins up the following types of machines:
 
-1. Machines for building packages. They are `n1-highcpu-32` machines with 60GB
+1. x86_64 machines for building packages. They are `n1-highcpu-32` machines with 60GB
    SSD disks, spawned inside GCP using `google` docker-machine driver.
+
+1. Arm64 marchines for building packages. They are `m6g.2xlarge` machines with 50GB SSD
+   disks, spawed inside AWS using `amazonec2` docker-machine driver.
 
 1. `package-promotion` machines for uploading packages. Since they are only used
    to upload packages, they are scaled down to save costs. They are
@@ -59,48 +63,51 @@ It spins up three types of machines:
 #### build-trigger-runner-manager.gitlab.org
 
 This runner manager manages the machines used for building packages as part of
-triggered pipeline used by developers to test their changes. It spins  up
-`n1-highcpu-32` machines with 50GB SSD disks inside GCP using `google`
-docker-machine driver.
+triggered pipeline used by developers to test their changes.
+
+It spins up the following types of machines:
+
+1. x84_64 machines for building packages. They are `n1-highcpu-32` machines with 50GB
+   SSD disks, spawned inside GCP using `google` docker-machine driver.
+
+1. Arm64 machines for building arm64 builder images. They are `m6g.2xlarge` machines with 50GB SSD
+   disks, spawed inside AWS using `amazonec2` docker-machine driver.
+
+1. `qa-builder` machines for creating qa test images. They are `n1-standard-2` machines
+   with 50GB disks, spawned inside GCP using `google` docker-machine driver.
+
+1. ARM machines for building Raspberry Pi builder images. They are `C1` machines
+   spawned inside Scaleway using `scaleway` docker-machine driver.
+   [See the specific documentation for ARM support information][arm].
 
 ### Maintenance tasks
 
 **Requirements:**
 
-* Access to the node
-* Access to a Chef Vault admin. At minimum, contact the Engineering Manager,
+- Access to the node
+- Access to merge into master on the [ops chef repo](https://ops.gitlab.net/gitlab-cookbooks/chef-repo)
+- Some tasks need access to a Chef Vault admin. At minimum, contact the Engineering Manager,
   Distribution for help.
 
 #### Changing version of GitLab CI runner
 
-* *To be performed by a Chef Vault admin*
-    1. In local clone of Chef Repo, they will need to run
+*To be performed by any team member:*
 
-        ```
-        bundle exec rake 'edit_role_secrets[<role name for build machine>]'
-        ```
+   1. Create a new merge request on the chef repo that updates the runner version
 
-        This command will fetch the secrets from the chef vault and open up your
-        text editor.
+   1. Ensure the CI pass, and the MR is reviewed by another team member
 
-    1. Change the version of the package listed in the `gitlab-runner` section.
+   1. Merge the change into the chef repo
 
-    1. After saving the change, there will be a lot of output which also
-       includes deleting of some existing content in the chef vault. This is
-       expected behaviour.
+   1. Login to the node and run,
 
-    1. Commit and push.
+      ```sh
+      sudo /root/runner_upgrade.sh
+      ```
 
-* *To be performed by any team member:*
-    1. Login to the node and run,
-
-        ```
-        sudo /root/runner_upgrade.sh
-        ```
-
-        to perform the upgrade. This will stop the chef-client service, stop the
-        runner and cleanup the machines, run the chef-client to fetch the new
-        version and finally, start gitlab runner again.
+      to perform the upgrade. This will stop the chef-client service, stop the
+      runner and cleanup the machines, run the chef-client to fetch the new
+      version and finally, start gitlab runner again.
 
 #### When builds are pending on dev.gitlab.org
 
@@ -120,20 +127,24 @@ are:
      either in `Running`, `Error` or have an empty state.
 
   1. To list only machines in `Error` state, you can use
-      ```
+
+      ```sh
       /root/machines_operations.sh list-failing
       ```
 
   1. To safely clean the machines with `Error` state, run
-      ```
+
+      ```sh
       /root/machines_operations.sh remove-failing
       ```
 
   1. If the machine has an empty state, you can always remove the machine
      manually. Running
-      ```
+
+      ```sh
       docker-machine ls | grep -v 'Running' | awk '{print $1}' | xargs docker-machine rm --force
       ```
+
       will remove all machines that do not have `Running` state.
 
 [arm]: /handbook/engineering/development/enablement/distribution/maintenance/arm.html
