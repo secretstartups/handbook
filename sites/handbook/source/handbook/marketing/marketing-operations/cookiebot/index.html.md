@@ -33,6 +33,14 @@ Cookiebot is a SaaS solution with one login and is administrated by marketing op
 
 ## FAQ
 
+**Why isn't this form working?**
+
+https://about.gitlab.com/handbook/marketing/growth-marketing/brand-and-digital-design/#why-isnt-this-form-working
+
+**Why can't I see something in the review apps?**
+
+https://about.gitlab.com/handbook/marketing/growth-marketing/brand-and-digital-design/#why-cant-i-see-something-in-the-review-apps
+
 **Why is there a drop in traffic after using Cookiebot?**
 
 https://support.cookiebot.com/hc/en-us/articles/360005476414-Why-is-there-a-drop-in-traffic-after-using-Cookiebot-
