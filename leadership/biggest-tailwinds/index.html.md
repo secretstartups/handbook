@@ -9,38 +9,29 @@ title: "Biggest Tailwinds"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Introduction
-
-We are in a great market and are riding multiple tailwinds (conditions or situations that help us grow faster).
-
-On this page, we document the biggest tailwinds and why they help us grow faster.
-
-Biggest tailwinds have numbers attached to them for [ease of reference, not for ranking](/handbook/communication/#numbering-is-for-reference-not-as-a-signal).
+We believe that the market opportunity for a complete DevSecOps platform designed as a single application for the software development lifecycle (SDLC) is [several billion dollars and expanding](https://about.gitlab.com/handbook/sales/tam/#:~:text=Total%20Addressable%20Market%20(TAM)%20is,revenue%20per%20user%20(ARPU).&text=Additional%20potential%20users%3A,Product%20managers). There are three primary trends outlined below that we have identified as the most significant to supporting the long term success of our business.
 
 ## 1. [Digital Transformation](/blog/2019/03/19/reduce-cycle-time-digital-transformation/)
+[Customer Experience](https://docs.gitlab.com/ee/ci/review_apps/index.html#visual-reviews-starter)
 
-## 2. [Cloud native and the adoption of Kubernetes](/cloud-native/)
+[Software is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/)
 
-## 3. [Software eating the world](https://a16z.com/2011/08/20/why-software-is-eating-the-world/)
+## 2. [DevOps](/devops)
+[Developers as the New Kingmakers](https://dzone.com/articles/developers-are-the-new-kingmakers)
 
-## 4. [Customer Experience](https://docs.gitlab.com/ee/ci/review_apps/index.html#visual-reviews-starter)
+[DevOps Tooling Consolidation](https://devops.com/challenges-devops-standardization/)
 
-## 5. [DevOps](/devops)
+[Lack of Developers](https://stackoverflow.blog/2017/03/09/developer-hiring-trends-2017/)
 
-## 6. [DevOps tooling consolidation](https://devops.com/challenges-devops-standardization/)
+[Open Source](/20-years-open-source/)
 
-## 7. [Microservices](https://redmonk.com/jgovernor/2018/08/06/towards-progressive-delivery/)
+## 3. [Workload Portability](https://about.gitlab.com/topics/multicloud/)
+[Cloud Native and the Adoption of Kubernetes](/cloud-native/)
 
-## 8. [Progressive delivery](/20-years-open-source/)
+[Microservices](https://redmonk.com/jgovernor/2018/08/06/towards-progressive-delivery/)
 
-## 9. [Open source](/20-years-open-source/)
+[Observability](https://siliconangle.com/2019/09/30/quickening-race-lead-cloud-native-computing-observability/)
 
-## 10. [Workloads moving to the cloud](https://www.synopsys.com/blogs/software-security/cloud-migration-business/)
+[Progressive Delivery](/20-years-open-source/)
 
-## 11. [All remote](/company/culture/all-remote/)
-
-## 12. [Developers as the new kingmakers](https://dzone.com/articles/developers-are-the-new-kingmakers)
-
-## 13. [Lack of developers](https://stackoverflow.blog/2017/03/09/developer-hiring-trends-2017/)
-
-## 14. [Observability](https://siliconangle.com/2019/09/30/quickening-race-lead-cloud-native-computing-observability/)
+[Workloads Moving to the Cloud](https://www.synopsys.com/blogs/software-security/cloud-migration-business/)
