@@ -84,10 +84,17 @@ guide](https://docs.gitlab.com/ee/development/contributing/merge_request_workflo
 1. Create a **[Work In Progress (WIP)](/blog/2016/01/08/feature-highlight-wip/)** merge request to prevent an accidental early merge. Only use WIP when merging it would **make things worse**, which should rarely be the case when contributing to the handbook. Most merge requests that are in progress don't make things worse, in this case don't use WIP, if someone merges it earlier than you expected just create a new merge request for additional items. Never ask someone to do a final review or merge something that still have WIP status, at that point you should be convinced it is good enough to go out.
 1. If any follow up actions are required on the issue after the merge request is merged (like reporting back to any customers or writing documentation), avoid auto closing the issue.
 1. If a project requires multiple approvals to accept your MR, feel free to assign multiple reviewers concurrently. This way the earliest available reviewer can start right away rather than being blocked by the preceding reviewer.
+1. Consider the amount of feedback that you are able to handle and that you are like to receive on your MR.  If the MR involves a big decision or change, consider marking your MR as a [Consolidated Communication MR](/handbook/communication/index.html#scaling-merge-requests-through-consolidated-communication-mrs).
 
 ### Scaling Merge Requests through "Consolidated Communication MRs"
 
-Some merge requests that involve a big decision or change tend to collect a large amount of feedback. As GitLab grows in size, it is unrealistic for a single person to respond to potentially hundreds of comments. To remain efficient in these MRs and to make it scaleable, it is important for the DRI to receive a clear signal of input that is shared on the merge request. Some MRs may be marked as "Consolidated Communication MRs" by clearly designating them as such at the beginning of the MR description. 
+Some merge requests that involve a big decision or change tend to collect a large amount of feedback. As GitLab grows in size, it is unrealistic for a single person to respond to potentially hundreds of comments. To remain efficient in these MRs and to make it scalable, it is important for the DRI to receive a clear signal of input that is shared on the merge request. Some MRs may be marked as "Consolidated Communication MRs" by clearly designating them as such at the beginning of the MR description with the following code block:
+
+```
+## Consolidated Communication MR
+
+This MR is a consolidated communication MR.  Contributors should tag their manager when adding a comment.  Managers should directly respond to comments in which they are tagged and summarize and amplify upward to the DRI as needed.
+```
 
 For MRs designated as "Consolidated Communication MRs", each contributor should tag their manager when commenting on the MR. This gives managers the opportunity to collect the feedback and either respond directly or summarize and amplify the feedback upward to the DRI as needed. This approach helps make the process of collecting feedback scalable and improves our efficiency when working with MRs. Comments without a manager tagged will not receive a response. 
 
