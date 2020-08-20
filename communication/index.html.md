@@ -30,7 +30,7 @@ We communicate respectfully and professionally at all times.
 1. **Don't Underestimate a 1:1.** Asynchronous communication (e.g., via text) is helpful and necessary. In some cases (e.g., to clarify misunderstandings) it can be much more effective to jump on a Zoom video call.
 1. **Always Adhere to our [Anti-Harassment Policy](/handbook/anti-harassment/) and [Code of Conduct](/handbook/people-group/code-of-conduct/).** Everyone should be comfortable in their work environment.
 
-Embracing text communication and learning to use it effectively requires a mental shift. This can feel unusual or even uncomfortable for those who come from a colocated environment, where in-person meetings and vocalized communiques are the norm. Learn more about [mastering the use of the written word in an all-remote setting](/company/culture/all-remote/effective-communication/).
+Embracing asynchronous communication and learning to use it effectively requires a mental shift. This can feel unusual or even uncomfortable for those who come from a colocated environment, where in-person meetings and communiques are the norm. Learn more about [mastering the use of the written word in an all-remote setting](/company/culture/all-remote/effective-communication/).
 
 
 ## Everyone is a Moderator
@@ -84,6 +84,7 @@ guide](https://docs.gitlab.com/ee/development/contributing/merge_request_workflo
 1. Create a **[Work In Progress (WIP)](/blog/2016/01/08/feature-highlight-wip/)** merge request to prevent an accidental early merge. Only use WIP when merging it would **make things worse**, which should rarely be the case when contributing to the handbook. Most merge requests that are in progress don't make things worse, in this case don't use WIP, if someone merges it earlier than you expected just create a new merge request for additional items. Never ask someone to do a final review or merge something that still have WIP status, at that point you should be convinced it is good enough to go out.
 1. If any follow up actions are required on the issue after the merge request is merged (like reporting back to any customers or writing documentation), avoid auto closing the issue.
 1. If a project requires multiple approvals to accept your MR, feel free to assign multiple reviewers concurrently. This way the earliest available reviewer can start right away rather than being blocked by the preceding reviewer.
+1. Consider recording a concise video outlining the merge request. This will make content more accessible, prevent future confusion, allow for multitasking (e.g. cooking dinner and listening to the video), and increase participation for folks who digest audio information better than visual. 
 
 ## Issues
 
