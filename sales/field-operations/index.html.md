@@ -15,7 +15,7 @@ title: "Field Operations"
 
 The term *"sales"* refers to the Sales Team and *"field"* encompasses the Customer Success Team. 
 
-### Key Tenants
+### Key Tenets
 **Clarity**: for definitions, processes and events   
 **Visibility**: to processes, data and analytics   
 **Accountability**: for both Sales/Field Ops to uphold to expectations and SLAs   
