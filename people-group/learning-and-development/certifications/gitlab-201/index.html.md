@@ -48,7 +48,11 @@ Epics are created on group level. To create an epic, navigate to the project’s
 
 You may choose to mark confidential by selecting Make this epic confidential checkbox.
 
-(ADD VIDEO HERE) 
+### Video: How to Create an Epic:
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/hxUmalpYHF4" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 **Child Epics**
 Child epics may be added to a parent epic.  To add a child epic;
@@ -99,12 +103,12 @@ In GitLab 101, we learnt how to create merge requests.  In this lesson, we will 
 
 You can review a merge request to provide feedback to the author. You can start a review in the merge request diff. Diff is the view of changes to a file between branches or commits.
 
-To review a merge request, click on the ‘Changes’ tab.
-Write your comment on a diff and click on the start a review button.
-Once a review is started, you will see any comments that are part of this review marked ‘pending’.  
-To add more comments to a review, start writing a comment as normal and click the ‘Add to review’ button.
-To resolve a thread, when replying to a comment, click the checkbox to resolve thread. 
-Click 'submit review' to publish all documents.
+To review a merge request, 
+1. click on the ‘Changes’ tab.
+1. Write your comment on a diff and click on the start a review button. Once a review is started, you will see any comments that are part of this review marked ‘pending’.  
+1. To add more comments to a review, start writing a comment as normal and click the ‘Add to review’ button.
+1. To resolve a thread, when replying to a comment, click the checkbox to resolve thread. 
+1. Click 'submit review' to publish all documents.
 (ADD VIDEO or screenshot)
 
 **Suggesting Changes to a Merge Request**
