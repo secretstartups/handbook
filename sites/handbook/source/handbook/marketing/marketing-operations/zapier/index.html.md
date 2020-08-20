@@ -15,10 +15,13 @@ Zapier is an automation tool that allows us to move data from one application to
 **Common Zaps**:
 * Google Sheets to Marketo
 * Facebook Lead Ads to Marketo
+* EventBrite to Marketo
 
 
 ## When to Request 
 This rubric will help you determine if Zapier is a viable solution for your campaign.  It will be at Mops discretion whether or not Zapier is the right solution for your campaign. Mops does not own Zapier, but we have access to use the tool to help with programs and campaigns. We are not responsible for setting up zaps for other reasons.
+
+Mops evaluates and triages incoming requests every Monday and that is when your request will be accepted/rejected. Please allow 2-3 weeks for Mops to build the Zap. The Zap should be set up *before* the program is set to go live.
 
 There are two main reasons and advantages of using Zapier:
 1. When there is a time savings for setting up the Zap vs importing multiple lists
@@ -32,4 +35,4 @@ There are two main reasons and advantages of using Zapier:
 |One time list loads |Sponsored Webcast                        |No|
 
 ## How to Request 
-Please submit an issue with Marketing Operations. [Issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/tree/master/.gitlab/issue_templates) coming soon.
+Please submit an issue with Marketing Operations. [Issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/Zapier_Connection_Request.md) coming soon.
