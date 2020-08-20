@@ -150,21 +150,35 @@ Unfortunately, the reason I wanted to speak with you is because we have decided 
 1. ***Specialists***: If appropriate (default is that it is appropriate), send an [offboarding memo](#offboarding-memo) to the departing team member. 
 
 ## Offboarding Slack Workflow 
-
 This section will define key terms in offboarding slack workflow forms. 
 
+### Offboarding Form 
 - **Team Name**: Full Legal Name 
+- **Job Title**: Fill in job title
+   - Key Stakeholders: Security
 - **Offboarding Effective Date**:	Termination Date for BHR (YYYY-MM-DD)
 - **Garden Leave Effective Date**: The date a issue will be created and access will be turned off. The TM will stay on payroll through their offboarding effective date. (YYYY-MM-DD)
 - **Issue Create Date and Time**:	When access should be turned off and offboarding processes will begin. (YYYY-MM-DD PST)
 - **Type of Offboarding**:	Voluntary / Involuntary 
 - **Offboarding Reason**:	Reasons available in BHR 
-- **Eligible for Rehire**:	Yes / No
-- **Eligible for Alumni Channel**:	Yes / No 
-- **Team Member Location**:	For Payroll
-- **For People Managers**: New reporting manager for current direct reports of departing team member
+- **Eligible for Rehire, Alumni Channel**:	
+   - Yes- Rehire, Yes- Alumni Channel
+   - No- Rehire, No- Alumni Channel 
+   - Yes- Rehire, No- Alumni Channel
+   - No- Rehire, Yes- Alumni Channel
+- **Team Member Location**:	Location
+   - Key Stakeholder: Payroll 
+-**Exit Interview Owner**: PBP / Specialist
+   - Key Stakeholder: Specialists 
 
-### Critical Points During Offboarding Call
+### Hold for In-Vol Offboarding
+This form is used to help 
+- **Date of Offboarding**
+- **Time of Offboarding PST**  
+- Location
+- Anything else we should know 
+
+## Critical Points During Offboarding Call
 {: #offboarding-points}
 
 The following points need to be covered for any team member:
@@ -193,7 +207,7 @@ As written, it is applicable to US-based employees only.
 
 Separation and Release of Claims Agreements ***do not*** apply for all offboardings. To review in which cases they do/do not apply, please reference the `Severance Eligibility` document accessible by People Specialists and PBPs. In the case that a severance agreement is applicable, the steps below should be followed:
 
-#### Process for US-based Team Members
+### Process for US-based Team Members
 
 1. ***Specialist***: The People Specialist assigned to the particular offboarding case at hand should select the appropriate severance template. Options include: Non-California over 40, California over 40, Non-California under 40, California under 40. 
 1. ***Specialist***: The People Specialist should make a copy of the template and save it in the `Copies of Individual Severance Agreements` folder. 
