@@ -144,11 +144,23 @@ The CEO gives a General Group Conversation that covers the whole of the company.
 The CEO's GC slides usually cover:
 * OKR progress
 * GitLab KPIs
+* A reminder on handbook first
+* Openings on the CEO Shadow Rotation
 * Timely announcements
 * Iteration Office Hours
 * Three things that are on the CEO's mind, usually from the CoS agenda
 
 The Group Conversations are stored in the "CEO Evangelism" folder on Google Drive.
+
+### How to prepare the Slides
+
+* Start by copying the last slide deck. This will form the skeleton. 
+* OKRs may need to be updated for the quarter, depending on the date.
+* Update with timely announcements, e.g. E-Group Offsite updates, anything shared in Company FYI recently, any great wins.
+* If there aren't any timely announcements, take this opportunity to remind folks about some of the key features of our [Communication](/handbook/communication/) guidelines, including our Top Misused Terms, MECEFU, or Why we track public Slack messages.
+* Review the [recent CEO Shadow MRs](https://gitlab.com/dashboard/merge_requests?scope=all&utf8=✓&state=all&label_name[]=ceo-shadow) and the CoS agenda for anything that could be added to the "Top of Mind" section.
+
+Be sure that slides are prepared with enough notice for the CEO to record a video and for it to be shared at least 24 hours in advance of the Group Conversation. 
 
 ## E-Group Offsite
 
