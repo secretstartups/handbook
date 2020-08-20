@@ -70,6 +70,45 @@ This program benefits everyone involved in a variety of different ways.
   and challenges.
 1. Get practice acting as a mentor and coach.
 
+
+## What to do
+
+This section provides general guidance on what the internship would look like.
+It is meant to be demonstrative, not prescriptive, and based on what has worked
+for past iterations. The mentor and intern are responsible for setting the
+schedule and deliverables that make sense for them.
+
+### Define the goals
+At the start of the internship, the mentor and intern should decide what the goals
+of the internship are. This should include some hands-on application of a GitLab
+security tool to some open source project. This is the critical piece that
+helps the intern learn, provides GitLab good feedback, and that benefits the
+open source project.
+
+### Deliver on the goals
+The majority of the internship should be spent _doing_, rather than talking
+about doing. To that end, a big piece of the internship should be spent on
+working with the open source projects directly, rather than working with
+GitLab teams.
+
+### Share your experiences
+At the end of the internship, the intern should produce some sort of content
+about their time in the program and what they did. This could be a blog, a
+YouTube video, conference presentation, or anything that is agreed upon. The
+goal is to be able to share with others about what was done and give the intern
+something tangible they can point to in the future.
+
+### Example schedule
+
+To make the above a bit more concrete, here is an example of what a four-week
+long internship might look like.
+
+| Week | Description |
+| 1 | Identify OSS projects to work with, scanners to add, and introduce self to the maintainers. |
+| 2 | Write MRs to add scanners to the projects. |
+| 3 | Continue with MRs to add scanners to the projects. Start addressing vulnerabilities found by the scanners. |
+| 4 | Finalize or handoff any open MRs to maintainers. Write blog about experience. |
+
 ## Alumni and Past Participants
 
 | Intern | Mentor | Time Period | Type | Write-up |
@@ -77,11 +116,32 @@ This program benefits everyone involved in a variety of different ways.
 
 ## How to apply
 
+## Upcoming Slots
+
+| Time frame | Mentor |
+| | |
+
 ### Interns
 
+1. Discuss your interest with your current manager.
+1. Schedule a coffee chat with one of the mentors above to go through your
+  interests, your availability (both calendar time and in % of your work hours),
+  and see if there is a good fit.
+1. Create a new issue for an [Internship for Learning](https://about.gitlab.com/handbook/people-group/promotions-transfers/#internship-for-learning)
+  and follow that process.
+
 ### Mentors
+If you are willing to act as a mentor for the program, you should do a few
+things:
+
+1. Discuss your desire to be a mentor with your own manager.
+1. Decide what product areas of focus you'd like the intern to focus on (SAST,DAST,etc)
+  and that you'd feel comfortable coaching. This is important in case an intern
+  is interested in an area you are unfamiliar or uncomfortable with.
+1. Add your availability and name to the chart above.
 
 ### Open-source projects
 If you are an open-source project hosted on GitLab.com, we would love to have
 you work with one of our interns as part of this program! If you're interested,
-please create an issue and tag us!
+please create an issue and tag us! If you haven't already, consider also
+applying for our GitLab [Open Source Program](https://about.gitlab.com/solutions/open-source/program/)
