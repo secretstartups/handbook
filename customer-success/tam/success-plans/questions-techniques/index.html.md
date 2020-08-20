@@ -50,7 +50,7 @@ Once you’ve opened the conversation, use some of the other techniques to gathe
 
 ## “Day in the Life”
 
-Asking about developer or team workflows is a good way to better understand a customer’s current toolchain and SDLC process. This is useful in developing a plan to drive stage adoption, and to ask about pain points, metrics, and dig towards business outcomes.
+Asking about developer or team workflows is a good way to better understand a customer’s current toolchain and SDLC process. This is useful in developing a plan to drive stage adoption, and to ask about pain points, [metrics](/handbook/sales/command-of-the-message/metrics.html#connect-metrics-with-positive-business-outcomes), and dig towards business outcomes.
 
 - “Take me through the workflow of an average developer. What tools are they using? How long does it take for them to go from starting a feature to submitting the merge request?”
 - “What are the bottlenecks you see in your current processes?”
@@ -109,4 +109,4 @@ For example:
 >
 > **Customer:** The CTO has an objective to reduce the time it takes to ship releases so we can get new features to market faster.
 
-By asking additional "why does this matter?" questions after the initial mention of wanting to set up GitLab with HA, the TAM in this scenario was able to get to a business outcome that comes straight from senior leadership. From here, the TAM can ask about metrics, pain points, other tools in their DevOps workflow, and other discovery questions to understand success criteria for the business outcome.
+By asking additional "why does this matter?" questions after the initial mention of wanting to set up GitLab with HA, the TAM in this scenario was able to get to a business outcome that comes straight from senior leadership. From here, the TAM can [ask about metrics](/handbook/sales/command-of-the-message/metrics.html#connect-metrics-with-positive-business-outcomes), pain points, other tools in their DevOps workflow, and other discovery questions to understand success criteria for the business outcome.
