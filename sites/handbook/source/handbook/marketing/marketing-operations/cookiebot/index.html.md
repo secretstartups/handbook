@@ -35,6 +35,13 @@ The key is used for proof of consent and an option to verify that the consent st
 
 https://support.cookiebot.com/hc/en-us/articles/360003782654-Introduction-Logging-and-demonstration-of-user-consents
 
+### How to access and download the consent log
+
+1. [Log in to Cookiebot](https://manage.cookiebot.com ).
+1. Choose `User consents` in the top menu.
+1. In the top bar, select the domain name from the drop-down menu and the time period for which you want to download the consent log.
+1. In the upper right corner of the top bar, click `Download log`. The log will download in a CSV file format, which you can open using e.g. Excel, Google sheets.
+
 ### Getting help
 
 If you are having difficulty programming around Cookiebot or notice issues with the consent pop-up on `about.gitlab.com`, please open an issue in marketing operations, assign `@sdaily`, cc `brandon_lyon`, and apply the Cookiebot label.
