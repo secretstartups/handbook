@@ -189,7 +189,7 @@ The Agenda for the call is:
 All-directs play a key role in cascading what is happening in the business and communicating key implications for teams and team members. After each all-direct meeting, all-direct members should:
 1. Identify key changes or information of greatest relevance to their teams
 1. Reach out to their manager if they have unresolved questions
-1. Recognize any sensisitivies and think about how best to frame messaging to the team
+1. Recognize any sensitivities and think about how best to frame messaging to the team
 1. Communicate key insights and asks for team members
 1. Help to operationalize any asks or decisions that have been made
 
