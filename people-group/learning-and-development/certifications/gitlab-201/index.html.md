@@ -62,7 +62,11 @@ Child epics may be added to a parent epic.  To add a child epic;
 1. Type in the title
 1. Create epic
 
-(ADD video or screenshot)
+### Video: How to Create a Child Epic:
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/2OjWGpOsBsM" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 **How to link epics and issues**
 
@@ -76,12 +80,11 @@ An epic contains a list of issues and an issue can be associated with at most on
 1. If there are multiple issues to be added, press the spacebar and repeat this step. 
 1. Click Add
 
-(ADD video or screenshot)
+(ADD screenshot)
 
 **Add an epic to an issue:**
 
-For an existing issue, navigate to the side bar, click Epic, type in the title of the epic you want to add and then select it from the drop down menu. 
-(ADD SCREENSHOT) 
+For an existing issue, navigate to the side bar, click Epic, type in the title of the epic you want to add and then select it from the drop down menu.  
 
 **Helpful Tips:**
 
@@ -131,7 +134,9 @@ Make your changes.  Click ‘commit changes’.
 
 When you are ready for it to be merged, simply remove the [Draft] prefix from the title of the MR.
 
+### Lesson 3: How to navigate www-gitlab-com project
 
+**How to find the handbook from www-gitlab-com**
 
 
 
