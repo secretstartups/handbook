@@ -84,7 +84,7 @@ guide](https://docs.gitlab.com/ee/development/contributing/merge_request_workflo
 1. Create a **[Work In Progress (WIP)](/blog/2016/01/08/feature-highlight-wip/)** merge request to prevent an accidental early merge. Only use WIP when merging it would **make things worse**, which should rarely be the case when contributing to the handbook. Most merge requests that are in progress don't make things worse, in this case don't use WIP, if someone merges it earlier than you expected just create a new merge request for additional items. Never ask someone to do a final review or merge something that still have WIP status, at that point you should be convinced it is good enough to go out.
 1. If any follow up actions are required on the issue after the merge request is merged (like reporting back to any customers or writing documentation), avoid auto closing the issue.
 1. If a project requires multiple approvals to accept your MR, feel free to assign multiple reviewers concurrently. This way the earliest available reviewer can start right away rather than being blocked by the preceding reviewer.
-1. Consider the amount of feedback that you are able to handle and that you are likely to receive on your MR.  If the MR involves a big decision or change, consider marking your MR as a [Consolidated Communication MR](/handbook/communication/index.html#scaling-merge-requests-through-consolidated-communication-mrs).
+1. If the MR involves a gets a lot of comments you can turn it into a [Consolidated MR](/handbook/communication/index.html#scaling-merge-requests-through-consolidated-communication-mrs).
 
 ### Scaling Merge Requests through "Consolidated Communication MRs"
 
