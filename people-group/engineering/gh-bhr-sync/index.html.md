@@ -115,5 +115,5 @@ execute the following Slack command:
 ```
 
 This command will trigger a pipeline and the candidate will be fully resynced to the existing profile
-on BambooHR. When manual changes were made on the BambooHR profile there is a change they are wiped out
+on BambooHR. When manual changes were made on the BambooHR profile there is a chance they are wiped out
 by the resync.
