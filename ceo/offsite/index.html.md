@@ -196,9 +196,9 @@ Think of the materials as a "Meeting in a Box."
 
 ## Book Choice
 
-The offsite includes a 1 hour discussion, 15 minutes of which is on action items, on a book read explicitly for the offsite.
+The offsite includes a 30 minute to 1 hour discussion, 15 minutes of which is on action items, on a book read explicitly for the offsite.
 The CoS solicits book nominations from throughout the company into an issue.
-Then the E-Group decides on the book.
+Then the E-Group decides on the book. They will occassionally choose a book with a US focus, but they'll primarily choose books with global relevance.
 The book will be finalized no less than 1 month prior to the offsite.
 
 When possible, the book discussion will be live streamed to the GitLab Unfiltered account in order to provide transparency and insight into action items that come from the discussion. 
