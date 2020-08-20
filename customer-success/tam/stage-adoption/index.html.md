@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Stage Adoption"
+title: "Stage Adoption Metrics"
 ---
 
 ## On this page
