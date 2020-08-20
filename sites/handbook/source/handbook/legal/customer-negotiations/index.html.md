@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Process for Modifying Sales Templates"
+title: "Collaborating with GitLab Legal"
 ---
 
 ## On this page
@@ -8,6 +8,16 @@ title: "Process for Modifying Sales Templates"
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+## Overview 
+Welcome and thank you for visiting! The purpose of this resource is to provide assistance on: 
+    (1) Operational - Best way to work with and engage GitLab legal; and
+    (2) Educational - Learning about how and why GitLab legal and our agreements work to better serve you during a sales cycle.  
+Please feel free to reach out with any topics or questions. You can reach legal at #Legal in Slack anytime.  
+
+| OPERATIONAL| EDUCATIONAL |
+| ------ | ------ |
+| **How to reach Legal?**                 | **Overview of GitLab Agreements** |
+| **What is eeded to close a deal?**      | **Threshold to negotiate and why?** |
 
 The process below defines the Conga Contracts workflow within Salesforce for initiating contract negotiations of GitLab's standard templates once Sales has notified the Legal team that a customer wishes to receive an editable version of one of our templates. 
 
