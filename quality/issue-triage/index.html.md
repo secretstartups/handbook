@@ -42,7 +42,7 @@ The priority label is used to determine importance and helps with scheduling in 
 | Priority | Importance | Intention | DRI |
 | -------- | ---------- | --------- | --- |
 | ~P1 | Urgent | We will address this as soon as possible regardless of limit on our team capacity            | PM of that product group |
-| ~P2 | High   | We will address this soon and will provide capacity from our team for it in the next release | PM of that product group |
+| ~P2 | High   | We will address this soon and will provide capacity from our team for it in the next few releases | PM of that product group |
 | ~P3 | Medium | We want to address this but may have other higher priority items                             | PM of that product group |
 | ~P4 | Low    | We don't have visibility when this will be addressed                                         | PM of that product group |
 
