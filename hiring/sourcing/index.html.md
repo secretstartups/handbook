@@ -24,7 +24,7 @@ Sourcing has proved itself to be a great channel for attracting the best talent.
 ## How to Source Candidates
 
 "Sourcing", in general, means that you **don't** know and would **not** be able to speak about the candidate confidently in a professional sense with GitLab. At best, your sentiment might be, *"They seem qualified"*. 
-If you'd like to start contributing to our sourcing efffort - we recommend you going through our [Sourcing Guide](https://docs.google.com/presentation/d/1M03qxZn9hy5pdeafvGabrQEeovtfvby7Vyc-FC620ts/edit), that contains a lot of useful sourcing tips & tricks and gathers together our team resources.
+If you'd like to start contributing to our sourcing efffort - we recommend you going through our internal [Sourcing Guide](https://docs.google.com/presentation/d/1M03qxZn9hy5pdeafvGabrQEeovtfvby7Vyc-FC620ts/edit), that contains a lot of useful sourcing tips & tricks and gathers together our team resources.
 
 Note: If you **know** a candidate from school, previous companies, seminars... even among your neighbors or family members - please refer them via Slack - Referral Booster!
 More information about the **Referrals** can be found on the [Referral Process](/handbook/hiring/referral-process/) page.
@@ -60,8 +60,7 @@ the candidate and add them to Greenhouse. You can check the Sourcer alignment
 
 **I'm not from the recruiting team, but I'd love to spend time in sourcing to support Gitlab's growth!! YAY!**
 
-If you want to reach out to a sourced candidate directly you can refer to our
-[reach out templates](https://docs.google.com/presentation/d/1ySqgLoYnFUGtb7hdywav6iSb_NBPRhfIs6WZlGne6Ww/edit?usp=sharing) or
+If you want to reach out to a sourced candidate directly you can refer to our internal [Reach out Templates](https://docs.google.com/presentation/d/1ySqgLoYnFUGtb7hdywav6iSb_NBPRhfIs6WZlGne6Ww/edit?usp=sharing) or
 create your own message. Kindly discuss your communication strategy with your
 Sourcing partner to avoid duplication and poor candidate experience.
 
