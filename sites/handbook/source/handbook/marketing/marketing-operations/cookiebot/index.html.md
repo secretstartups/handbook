@@ -21,6 +21,26 @@ Note that any JavaScript on `about.gitlab.com` requiring the use of document rea
 
 If you are having difficulty programming around Cookiebot or notice issues with the consent pop-up on `about.gitlab.com`, please open an issue in marketing operations, assign `@sdaily`, cc `brandon_lyon`, and apply the Cookiebot label.
 
+## Access
+
+Cookiebot is a SaaS solution with one login and is administrated by marketing operations. The credentials are owned and stored in the marketing operations vault in 1Pass. Access is only provided to the brand and digital design, website team in order to make improvements or fixes to the Cookiebot script on the website. 
+
+## Support
+
+- [Help center](https://support.cookiebot.com/hc/en-us#hc)
+- [Contact Cookiebot support](https://support.cookiebot.com/hc/en-us/requests/new)
+- [Community](https://support.cookiebot.com/hc/en-us/community/topics)
+
+## FAQ
+
+**Why is there a drop in traffic after using Cookiebot?**
+
+https://support.cookiebot.com/hc/en-us/articles/360005476414-Why-is-there-a-drop-in-traffic-after-using-Cookiebot-
+
+**Does the use of Cookiebot and the cookie consent banner affect the Google Analytics bounce rate?**
+
+https://support.cookiebot.com/hc/en-us/articles/360004223253-Does-the-use-of-Cookiebot-and-the-cookie-consent-banner-affect-the-Google-Analytics-bounce-rate-
+
 **Does Cookiebot work on review apps?**
 
 Because of how our review app infrastructure is setup, and because Cookiebot will not work on wildcard subdomain URLs, we cannot get cookiebot to work on review apps. This means that pages in a review app which require the use of: third party iFrames, cookies, or advanced JavaScript may not work on review apps.
@@ -28,7 +48,3 @@ Because of how our review app infrastructure is setup, and because Cookiebot wil
 **Can we improve Cookiebot?**
 
 We have plans to [improve our Cookiebot implementation](https://gitlab.com/groups/gitlab-com/-/epics/681) but implementation will take time.
-
-## Access
-
-Cookiebot is a SaaS solution with one login and is administrated by marketing operations. The credentials are owned and stored in the marketing operations vault in 1Pass. Access is only provided to the brand and digital design, website team in order to make improvements or fixes to the Cookiebot script on the website. 
