@@ -17,10 +17,10 @@ Please feel free to reach out with any topics or questions. You can reach legal 
 | OPERATIONAL| EDUCATIONAL |
 | ------ | ------ |
 | **How to reach Legal**                 | **Overview of GitLab Agreements** |
-| **What is needed to close a deal**      | **Threshold to negotiate and why** |
+| **How do I get an Agreement signed**      | **Threshold to negotiate and why** |
 
 
-title: "Operational"
+## OPERATIONAL
 
 ## How to reach Legal 
 1. For all questions related to Partners and/or Customers: NDA's, Contract Review / Negotiations, Legal Questions...etc., please open a **Legal Request** in SFDC 
@@ -35,7 +35,7 @@ title: "Operational"
 5. In the "Subject" line type "(Updated/Final or neither) GitLab Subscription (or Service) Agreement"
 6. Press Send
 
-title: "Educational"
+## EDUCATIONAL
 
 ## Finalize the Contract Record and Notify the Salesperson 
 1. Make sure that the final, negotiated contract is in the contract record. (If any negotiations have happened outside of SalesForce/Conga, upload the final, agreed-upon version to the contract record as a new version of the contract.)
