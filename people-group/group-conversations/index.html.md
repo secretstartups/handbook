@@ -124,7 +124,7 @@ If a Group Conversation is cancelled, the People Operations and People Experienc
 
 #### Additional Consideration for Functional Presentations
 
-[Groups](/handbook/finance/key-meetings/#invitees) that also have [Key Meetings](/handbook/finance/key-meetings/) should repurpose material created for their last Key Meeting in the Group Conversation immediately following the Key Meeting. This is to give the broader team exposure to progress against key metrics and objective that are key to the business and reduce content duplication. 
+[Groups](/handbook/finance/key-meetings/#invitees) that also have [Key Meetings](/handbook/finance/key-meetings/) should repurpose material created for their last Key Meeting in the Group Conversation immediately following the Key Meeting. This is to give the broader team exposure to progress against key metrics and objectives that are key to the business and to reduce content duplication. 
 
 ### 24 Hours Before the Call
 
