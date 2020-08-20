@@ -85,11 +85,11 @@ guide](https://docs.gitlab.com/ee/development/contributing/merge_request_workflo
 1. If any follow up actions are required on the issue after the merge request is merged (like reporting back to any customers or writing documentation), avoid auto closing the issue.
 1. If a project requires multiple approvals to accept your MR, feel free to assign multiple reviewers concurrently. This way the earliest available reviewer can start right away rather than being blocked by the preceding reviewer.
 
-### Consolidated Communication Merge Requests
+### Scaling Merge Requests through "Consolidated Communication MRs"
 
-Some merge requests tend to collect a large amount of feedback.  To remain efficient in these MRs, it is important for the DRI to receive a clear signal of input that is shared on the merge request.  Because it is impractical for a single person to respond to (potentially) hundreds of comments, some MRs may be marked as "Consolidated Communication MRs" by clearly designating them as such at the beginning of the MR description.
+Some merge requests that involve a big decision or change tend to collect a large amount of feedback. As GitLab grows in size, it is unrealistic for a single person to respond to potentially hundreds of comments. To remain efficient in these MRs and to make it scaleable, it is important for the DRI to receive a clear signal of input that is shared on the merge request. Some MRs may be marked as "Consolidated Communication MRs" by clearly designating them as such at the beginning of the MR description. 
 
-For MRs designated as "Consolidated Communication MRs", individual contributors should tag their managers when commenting on the MR.  Comments without a manager tagged will not receive a response.  Managers should then collect the feedback and either respond directly or summarize and surface it upward to the DRI as needed.  This approach helps make the process of collecting feedback scalable and improves our efficiency when working with MRs.
+For MRs designated as "Consolidated Communication MRs", each contributor should tag their manager when commenting on the MR. This gives managers the opportunity to collect the feedback and either respond directly or summarize and amplify the feedback upward to the DRI as needed. This approach helps make the process of collecting feedback scalable and improves our efficiency when working with MRs. Comments without a manager tagged will not receive a response. 
 
 ## Issues
 
