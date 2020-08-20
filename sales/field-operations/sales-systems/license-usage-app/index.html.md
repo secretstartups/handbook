@@ -9,7 +9,7 @@ title: "License Usage Salesforce App"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## How to use the License App
+## How to Use the License App
 
 1. Navigate to any customer account in Salesforce.
 1. Click on the License Usage button at the top of the layout.
@@ -31,6 +31,22 @@ title: "License Usage Salesforce App"
 | Overage Value           | If Over: (Activated - Licensed) x Seat Price | Calculated          |
 | Subscription Start Date | Subscription Term Start                      | Zuora 360           |
 | Subscription End Date   | Subscription Term End                        | Zuora 360           |
+
+## How Does This Work?
+
+First, product usage data is uploaded into Salesforce as a .csv file attachment to a License Usage Run record. When triggered, the Run calls classes which read the .csv and inserts License Usage records. Each of these License Usage records know which Zuora Subscription it relates to and through this, which Customer Subscription as well. Then, we run a process which collects information from Licese Usage and Zuora Subscription Product Charge records and stamps the related Customer Subscription. On each Account record page, a button has been added which brings you to another page. This page displays all Active Customer Subscriptions related to that Account that entitle the customer to licenses.
+
+## Logic Locations
+* [LicenseUsageRun.trigger](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/triggers/LicenseUsageRun.trigger)
+    * Listens for the "Execute Run" checkbox to change values to begin the process of inserting new License Usage records.
+* [LicenseUsageBatcher.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/LicenseUsageBatcher.cls)
+    * Called from LicenseUsageRun.trigger. Used to break up the insertion of License Usage records into batches.
+* [LicenseUsageCollector.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/LicenseUsageCollector.cls)
+    * Converts the rows of the .csv file into License Usage records and returns them so they can be inserted.
+* [LicenseUsage.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/LicenseUsage.cls)
+    * The controller for LicenseUsage.page. Collects only the Customer Subscriptions related to the Account. Ensures the data will properly display the Seat Usage graph.
+* [LicenseUsage.page](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/pages/LicenseUsage.page)
+    * The page you are brought to by the button on the Account page. Displays all Customer Subscriptions with collected License Usage data.
 
 ## Frequently Asked Questions (FAQ)
 
