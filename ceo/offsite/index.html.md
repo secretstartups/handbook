@@ -186,7 +186,7 @@ The Agenda for the call is:
 * AMA
 * Event summary 
 
-All-directs play a key role in cascading what is happening in the business and key implications for teams and team members. After each all-direct meeting, all-dirct members should:
+All-directs play a key role in cascading what is happening in the business and communicating key implications for teams and team members. After each all-direct meeting, all-direct members should:
 1. Identify key changes or information of greatest relevance to their teams
 1. Reach out to their manager if they have unresolved questions
 1. Recognize any sensisitivies and think about how best to frame messaging to the team
