@@ -9,15 +9,33 @@ title: "Cookiebot"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-### What is Cookiebot?
+### About Cookiebot
 
-Cookiebot is a cookie and online tracking consent solution we use to ensure compliance with GDPR, CCPA, and related cookie laws.
+Cookiebot (owned by [Cybot](https://www.cybot.com/)) is a cookie and online tracking consent solution we use to ensure compliance with GDPR, CCPA, and related cookie laws.
 
-### How does Cookiebot work?
+### How it works
 
 Before you consent to any cookies, Cookiebot blocks all JavaScript on our site in order to prevent cookies from being set. This works by intercepting the and preventing the document ready event. Once cookie consent has been granted by the end user, Cookiebot then restarts the JavaScripts.
 
 Note that any JavaScript on `about.gitlab.com` requiring the use of document ready may have problems reinitializing after cookie consent has been granted and will not work before that timeframe.
+
+#### What data is collected and logged
+
+After a website user submits their consent, the following data is collected and logged:
+
+- The user's IP number in anonymized form (by removing the last 16 bit of IPv4 addresses and by removing the last 96 bit of IPv6 addresses)
+- The date and time of the consent
+- User agent of the user's browser
+- The URL from which the consent was submitted
+- An anonymous, random and encrypted key value
+- The user's consent state, serving as proof of consent
+- The key and consent state are also saved in the user's browser in the first party cookie 'CookieConsent' so that the website can automatically read and respect the user's consent on all subsequent page requests and future user sessions for up to 12 months
+
+The key is used for proof of consent and an option to verify that the consent state stored in the user's browser is unaltered compared to the original consent submitted to Cybot. 
+
+https://support.cookiebot.com/hc/en-us/articles/360003782654-Introduction-Logging-and-demonstration-of-user-consents
+
+### Getting help
 
 If you are having difficulty programming around Cookiebot or notice issues with the consent pop-up on `about.gitlab.com`, please open an issue in marketing operations, assign `@sdaily`, cc `brandon_lyon`, and apply the Cookiebot label.
 
