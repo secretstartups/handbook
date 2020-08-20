@@ -181,10 +181,19 @@ The goal of this call is to communicate:
 1. Action items which may need cross-functional collaboration
 
 The Agenda for the call is:
-* Event summary 
 * Decisions made
 * Asks for directs
 * AMA
+* Event summary 
+
+All-directs play a key role in cascading what is happening in the business and key implications for teams and team members. After each all-direct meeting, all-dirct members should:
+1. Identify key changes or information of greatest relevance to their teams
+1. Reach out to their manager if they have unresolved questions
+1. Recognize any sensisitivies and think about how best to frame messaging to the team
+1. Communicate key insights and asks for team members
+1. Help to operationalize any asks or decisions that have been made
+
+Notes shared with all Directs will be shared with all team members within 4 business days of an All Directs Meeting. Notes from the AMA and the video recording will not be shared more broadly. 
 
 This Zoom call is a separate invite. 
 The Staff EBA to the CEO is responsible for setting up the invite, the doc for the call, and inviting all direct reports to executives.
