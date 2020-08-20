@@ -61,10 +61,11 @@ The following factors will also be taken into consideration:
 
 - Probation Periods / Gift Requests / New Hire Swag Email
 - BHR Onboarding Report / Moo Report / Allocations for Onboarding, Offboarding, Mobility
+- Code of Conduct audit and HelloSign audit
 
 - I-9 Administration / Pruning of Stale Records (TBD)
 
-**The following tasks will be completed by any available People Experience Associate with the designated SLA:**
+**The following tasks will be completed by any available People Experience Associate within the designated SLA:**
 
 - Letters of Employment / VOE 
 - Anniversary Queries
@@ -116,6 +117,19 @@ This will be the responsibility of the People Experience Associate that is assig
     - The issue should be closed within 2 weeks of creation, ping the relevant team members to call for a task to be completed in the issue.
 
 **Over and above these audits, the Compliance Specialist will perform their own audits to ensure that certain tasks have been completed.**
+
+- Code of Conduct Audit
+
+    - A monthly report will be pulled from BambooHR for `Code of Ethics Acknowledgment 2020` by the Associate in the respective rotation to check that all pending team member signatures have been completed. 
+    - If it has not been signed by the team member, please select the option in BambooHR to send a reminder to the team member to sign. Please also follow up via Slack and ask the team member to sign accordingly. 
+    - If there are any issues, please escalate to the People Experience Team Lead for further guidance. 
+
+- HelloSign Audit
+
+    - On a quarterly basis, the People Experience Associate in the respective rotation will pull a report from HelloSign with the full list of active team members. 
+    - In the correct Slack channel `hellosign-review`, the Associate will cross reference the current team members in that channel vs the report from HelloSign (add any missing team members to the Channel).
+    - Announce in the channel that an audit is being completed and ask team member to update the spreadsheet confirming their usage. 
+    - Create an access request to remove any non active team members as well as removing them from HelloSign. 
 
 ### Pulling of BambooHR Onboarding Data
 
@@ -190,10 +204,6 @@ Once a new team member has completed their onboarding, they are asked to complet
 #### Onboarding Buddy Feedback
 
 In the same survey, new team members are able to provide a score and feedback on their onboarding buddy. If the score and feedback received is constructive and valuable insights when the score is low, the People Experience Associate assigned to that specific team members onboarding, should reach out to the manager of the onboarding buddy and provide feedback in a polite and supportive way.  
-
-### Code of Conduct Rotation
-
-A monthly report will be pulled from BambooHR for `Code of Ethics Acknowledgment 2020` by the Associate in the respective rotation to check that all pending team member signatures have been completed. If it has not been signed by the team member, please select the option in BambooHR to send a reminder to the team member to sign. Please also follow up via Slack and ask the team member to sign accordingly. If there are any issues, please escalate to the People Experience Team Lead for further guidance. 
 
 ### Anniversary Period Gift Queries
 
