@@ -31,15 +31,16 @@ The primary step the TAM should complete is to collect a list of names and email
 GitLab offers [a variety of support options](/support/) for all customers and users on both paid and free tiers. The TAM should continually review customer tickets and then  educate customers on support best practices.  IN particular, the TAM should ensure that customers are submitting tickets that meet best practice.  For customers on Standard and Priority support tiers please address the below items when [submitting a support ticket](https://support.gitlab.com/hc/en-us):
 
 1. Provide as much detail as possible during the first submission of the ticket
-2. Summary of issue (when did it start, how frequently, impact on organization, etc.)
+1. Summary of issue (when did it start, how frequently, impact on organization, etc.)
    - Detailed steps to recreate
    - Current behavior
    - Expected behavior
    - Any recent changes to Gitlab, its components, dependencies, or the services it's hosted on?
    - Attach logs and screenshots (avoid attaching .doc or .pdf files)
-3. Try and avoid requesting a call during the initial ticket submission. We would like to keep all communication within the ticket and attempt to resolve the issue here before going to a call.
-4. If a call is necessary, the support engineer will invite your team to a call via the ticket
-5. If a support engineer requests follow up items, please make sure to respond back with these items. This will help us resolve the issue as quickly as possible
+1. If you prefer Support to only answer during your business hours, choose your region; otherwise choose "All regions" to get the standard SLAs. See our [guidelines](https://about.gitlab.com/support/#effect-on-support-hours-if-a-preferred-region-for-support-is-chosen) for more information.
+1. Try and avoid requesting a call during the initial ticket submission. We would like to keep all communication within the ticket and attempt to resolve the issue here before going to a call.
+1. If a call is necessary, the support engineer will invite your team to a call via the ticket.
+1. If a support engineer requests follow up items, please make sure to respond back with these items. This will help us resolve the issue as quickly as possible.
 
 ## Support Ticket Notifications
 
