@@ -193,7 +193,7 @@ All-directs play a key role in cascading what is happening in the business and c
 1. Communicate key insights and asks for team members
 1. Help to operationalize any asks or decisions that have been made
 
-Notes shared with all Directs will be shared with all team members within 4 business days of an All Directs Meeting. Notes from the AMA and the video recording will not be shared more broadly. 
+Notes shared with all-directs will be shared with all team members within 4 business days of an All Directs Meeting. Notes from the AMA and the video recording will not be shared more broadly. 
 
 This Zoom call is a separate invite. 
 The Staff EBA to the CEO is responsible for setting up the invite, the doc for the call, and inviting all direct reports to executives.
