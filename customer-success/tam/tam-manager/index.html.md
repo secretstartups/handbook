@@ -40,7 +40,7 @@ Accounts are assigned at point of sale by the TAM Manager when a new Account in 
 
 When an Account meets the critera, the following will happen:
 
-- The TAM or their manager assigns the TAM by adding their name in to the Salesforce field
+- The TAM or their manager assigns the TAM by adding their name in to the Gainsight (or Salesforce) `TAM` field
 - Once the field has been updated with the TAM name, Gainsight will fire the onboarding playbook
 - **If** the account meets the above criteria and the TAM is not assigned, Gainsight will fire a CTA (call to action) for the TAM manager asking them to assign the account.  Gainsight will then 'listen' for the TAM field to be populated and will fire the onboarding playbook once the field has been updated with the TAM name
 
@@ -49,18 +49,20 @@ While the SAL owns the transition-to-TAM aspect, the TAM Manager will then ensur
 #### Assignment Resources
 
 - [Onboarding Handbook](/handbook/customer-success/tam/onboarding/)
-- [TAM Regional Dashboard](https://gitlab.my.salesforce.com/01Z4M000000slMT)
-- Gainsight Dashboard
+- Gainsight Dashboard - **CS Leadership**
 
 ### Customer Onboarding Review
 
-On a regular basis, the TAM Manager should review their team's active Onboarding plays. The Onboarding plays can be reviewed with each individual in one-on-one meetings. Onboarding is measured by the [time to value metrics](/handbook/customer-success/vision/#time-to-value-kpis).
+On a regular basis, the TAM Manager should review their team's active Onboarding plays. The Onboarding plays can be reviewed with each individual in one-on-one meetings. Onboarding is measured by the [time to value metrics](/handbook/customer-success/vision/#time-to-value-kpis). Consider:
+
+1. How many and which accounts are in onboarding?
+1. What do Time to Value metrics look like? 
+1. After looking at the detail, what are areas we want to improve and areas to celebrate?
 
 #### Onboarding Resources
 
 - [Account Onboarding Handbook](/handbook/customer-success/tam/onboarding/)
-- [TAM Regional Dashboard](https://gitlab.my.salesforce.com/01Z4M000000slMT)
-- Gainsight Dashboard
+- Gainsight Dashboard - **TAM Portfolio** or **Customer Onboarding**
 
 ### Success Plan Review
 
@@ -78,8 +80,7 @@ The TAM Manager should then work with their team to help the TAM drive up and de
 #### Success Plan Resources
 
 - [Success Plan Handbook](/handbook/customer-success/tam/success-plans/)
-- [TAM Regional Dashboard](https://gitlab.my.salesforce.com/01Z4M000000slMT)
-- Gainsight Dashboard
+- Gainsight Dashboard - **TAM Portfolio** or **CS Leadership**
 
 ### Triage and Health Review
 
@@ -94,8 +95,7 @@ On at least a monthly basis, review accounts within your region for upcoming one
 
 - [Account Triage Handbook](/handbook/customer-success/tam/triage/)
 - [Account Triage Board](https://gitlab.com/gitlab-com/customer-success/account-triage/-/boards/703769)
-- [TAM Regional Dashboard](https://gitlab.my.salesforce.com/01Z4M000000slMT)
-- Gainsight Dashboard
+- Gainsight Dashboard - **TAM Portfolio** or **CS Leadership**
 
 ### Renewal Review
 
@@ -112,5 +112,5 @@ The TAM Manager should then work with their TAM to ensure collaboration with the
 ## Renewal Resources
 
 - [Renewal Review Handbook](/handbook/customer-success/tam/renewals/)
-- [TAM Regional Dashboard](https://gitlab.my.salesforce.com/01Z4M000000slMT)
-- Gainsight Dashboard
+- Gainsight Dashboard - **TAM Portfolio** or **CS Leadership**
+- [SFDC: WW Renewal Forecast](https://gitlab.my.salesforce.com/00O4M000004aARC)
