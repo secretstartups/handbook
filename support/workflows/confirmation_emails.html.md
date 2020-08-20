@@ -63,6 +63,19 @@ Once the suppression is removed you can then use the quick links menu that is di
 
 ### Resend Confirmation Email
 
-Once the problem has been fixed, you can send the user a [new confirmation email](https://gitlab.com/users/confirmation/new).
+### Primary email
+
+Once the problem has been fixed, you can send the user a [new confirmation email](https://gitlab.com/users/confirmation/new) if it's the primary email address.
 
 Let the user know you've sent a new confirmation email and ask them to check their inbox and spam folders.
+
+### Secondary email
+
+Instruct the user to sign in and trigger a new confirmation email through their profile: https://gitlab.com/profile/emails
+
+### Wacky state
+
+If the user is unconfirmed, but their primary email address does not match the unconfirmed email address ([see this internal example](https://gitlab.com/gitlab-org/gitlab/-/issues/239098#note_399726260)), then two options:
+
+1.  Impersonate the user and click on the "Resend confirmation email" under Email on their Settings > Profile page.
+2.  File a [console escalation internal request](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=GitLab.com%20Console%20Escalation) to set the `unconfirmed_email` to `nil`.
