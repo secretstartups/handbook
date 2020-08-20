@@ -431,7 +431,7 @@ Once all Team Retrospectives are completed, each team inputs their learnings int
 **Steps for participants**
 1. Please host your Team Retrospective following the guidelines outlined in the [handbook](https://about.gitlab.com/handbook/engineering/management/team-retrospectives/).  
 1. After the Team Retrospective is complete, please choose a subset some of your most interesting learnings to share company-wide in the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit).  Please try to group by these by our [CREDIT values](https://about.gitlab.com/handbook/values/).
-1. In the retro doc, if there is a learning that you would like to explicitely highlight, please add the text **highlight** at the beginning of the text. The moderator will highlight this along with other interesting learnings when they create the pre-recorded video.
+1. In the retro doc, if there is a learning that you would like to explicitely highlight, please add the text **highlight** at the beginning of the text. The moderator will highlight this along with other learnings listed in the retro doc when they create the pre-recorded video.
 1. If there are improvement tasks for your team from the previous retrospective, please provide an update on them in the retro doc. They will be verbalized during the Retrospective Discussion.
 1. If there are improvement tasks for your team in the current retrospective, please add them in the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit). They will be verbalized during the Retrospective Discussion.
 1. Add a checkbox in the table of the Retrospective planning and execution issue when your Team Retrospective is complete and when the retro doc is updated.
@@ -453,7 +453,7 @@ For each retrospective discussion, we aim to host an interactive discussion cove
 
 The discussion topics stem from our Team Retrospective learnings and should be applicable to the majority of participants.
 
-Discussion topics are suggested by participants by commenting on the Retrospective planning and execution issue. Participants can vote on these topics by adding a :thumbsup: reaction. The two topics with the most :thumbsup: votes will be used as the discussion topics. 
+Discussion topics are suggested by participants by commenting on the Retrospective planning and execution issue. Participants can vote on these topics by adding a :thumbsup: reaction. The two topics with the most :thumbsup: votes will be used as the discussion topics. If there are not enough votes or if the discussion topics are not relevant to the majority of participants, the moderator can choose other discussion topics.
 
 **Meeting Agenda**
 
@@ -472,7 +472,7 @@ Discussion topics are suggested by participants by commenting on the Retrospecti
 **Steps for the moderator**
 
 1. In the Retrospective planning and execution issue, create a thread asking participants to suggest and vote on topics.
-1. Voting ends at the close of business on `M+1, 3rd`. Take note of which discussion topics have the most votes at this time.
+1. Voting ends at the close of business on `M+1, 3rd`. Take note of which discussion topics have the most votes at this time. If there are not enough votes or if you deem the discussion topics as not relevant to the majority of participants, please choose other discussion topics.
 1. Announce the discussion topics alongside of the Retrospective Summary video in the Retrospective planning and execution issue, the #whats-happening-at-gitlab slack channel, and the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit)
 1. Ensure the Retrospective Discussion calendar invite is sent to participants by coordinating with the VP Development.
 1. Host the Retrospective Discussion and press livestream to Youtube.
