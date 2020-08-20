@@ -26,7 +26,7 @@ Sourcing has proved itself to be a great channel for attracting the best talent.
 "Sourcing", in general, means that you **don't** know and would **not** be able to speak about the candidate confidently in a professional sense with GitLab. At best, your sentiment might be, *"They seem qualified"*. 
 If you'd like to start contributing to our sourcing efffort - we recommend you going through our internal [Sourcing Guide](https://docs.google.com/presentation/d/1M03qxZn9hy5pdeafvGabrQEeovtfvby7Vyc-FC620ts/edit), that contains a lot of useful sourcing tips & tricks and gathers together our team resources.
 
-Note: If you **know** a candidate from school, previous companies, seminars... even among your neighbors or family members - please refer them via Slack - Referral Booster!
+Note: If you **know** a candidate from school, previous companies, seminars... even among your neighbors or family members - please refer them by creating an `Issue` in the [Referrals Project](https://gitlab.com/gl-recruiting/referrals/-/issues/new?issuable_template=Referral%20Submission)
 More information about the **Referrals** can be found on the [Referral Process](/handbook/hiring/referral-process/) page.
 
 For anyone that you **do not** have a personal relationship with, please add them as a *Prospect* in Greenhouse and keep in mind that **Greenhouse is our single source of truth**. Here's how to do that: 
