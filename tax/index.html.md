@@ -72,13 +72,13 @@ GitLab's corporate structure per August 2019 is as follows (countries and incorp
 ```
 GitLab Inc (USA 2014-09-10)
   ├── GitLab Federal LLC (USA 2019-01-04)
-  ├── GitLab Japan (JP 2019-11-18)
-  ├── GitLab South Korea (SK 2020-02-27)
+  ├── GitLab GK (JP 2019-11-18)
+  ├── GitLab Korea Limited (SK 2020-02-27)
   └── GitLab BV (NL 2014-02-19)
       ├── GitLab IT BV (NL 2019-08-07)
-      ├── GitLab Ltd (UK 2016-08-31)
+      ├── GitLab UK Limited (UK 2016-08-31)
       ├── GitLab GmbH (DE 2017-08-09)
-      ├── GitLab Pty Ltd (AUS 2018-08-06)
+      ├── GitLab PTY Ltd (AUS 2018-08-06)
       ├── GitLab Canada Corp. (CA 2019-07-08)
       └── GitLab Ireland Limited (IE 2020-07-30)
 
