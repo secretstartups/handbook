@@ -29,8 +29,9 @@ Sales Operations main focus is on the Sales organization and supports this group
 
 - Lindsay Schoenfeld - Senior Manager, Sales Operations
 - Amber Stahn - Senior Sales Operations Analyst
-- Tav Scott - Senior Sales Operations Analyst
+- Tav Scott - Sales Operations Manager, Commercial Sales
 - Melinda Soares - Senior Sales Operations Analyst
+- Meri Gil Galindo - Sales Operations Analyst
 
 ## **Teams We Work Closely With**
 
