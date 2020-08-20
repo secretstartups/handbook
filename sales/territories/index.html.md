@@ -97,7 +97,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | NA West        | Midwest        | **ENT-MW-Named 2**                     | Timmothy Ideker*   | TBD                |
 | NA West        | PNW            | **ENT-PNW-Named 1**                    | Joe Drumtra        | Eduardo Gonzalez   |
 | NA West        | PNW            | **ENT-PNW-Named 2**                    | Chris Mayer        | Suzy Verdin        |
-| NA West        | PNW            | **Large-AMER-PNW**                     | Timmothy Ideker*   | TBD                |
+| NA West        | PNW            | **Large-AMER-PNW**                     | Adi Wolff          | TBD                |
 | NA West        | Southwest      | **Large-AMER-Southwest**               | Rick Walker        | Blake Chalfant-Kero|
 | NA West        | Southwest      | **Named Accounts**                     | Chris Cornacchia   | Jesse Muehlbauer   |
 | NA West        | Southwest      | **Named Accounts**                     | Yvonne Zwolinski   | Blake Chalfant-Kero|
@@ -168,7 +168,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Asia South     | India          | **Large-APAC-India**                   | Danny Petronio     | Glenn Perez        |
 | China          | China          | **Large-APAC-China**                   | Danny Petronio     | Aletha Alfarania   |
 | China          | Taiwan         | **Large-APAC-Taiwan**                  | Danny Petronio     | Aletha Alfarania   |
-| Japan          | Japan          | **Large-APAC-Japan**                   | Rob Hueston        | Minsu Han          |
+| Japan          | Japan          | **Large-APAC-Japan**                   | Eiji Morita        | Minsu Han          |
 | Korea          | Korea          | **Large-APAC-Korea**                   | Woosang Lee        | Minsu Han          |
 
 
