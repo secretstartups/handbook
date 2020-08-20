@@ -68,7 +68,7 @@ An epic contains a list of issues and an issue can be associated with at most on
 
 1. Click the Add dropdown button.
 1. Click Add an issue.
-1. Either paste the link of the issue or enter part of the issue’s title, then select the desired match.
+1. Either paste the link of the issue or enter the issue id.
 1. If there are multiple issues to be added, press the spacebar and repeat this step. 
 1. Click Add
 
