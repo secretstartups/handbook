@@ -28,7 +28,7 @@ We believe that the market opportunity for a complete DevSecOps platform designe
 ## 3. [Workload Portability](https://about.gitlab.com/topics/multicloud/)
 [Cloud Native and the Adoption of Kubernetes](/cloud-native/)
 
-[Microservices](https://redmonk.com/jgovernor/2018/08/06/towards-progressive-delivery/)
+[Microservices](/topics/microservices/)
 
 [Observability](https://siliconangle.com/2019/09/30/quickening-race-lead-cloud-native-computing-observability/)
 
