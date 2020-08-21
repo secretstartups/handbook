@@ -135,7 +135,7 @@ If you want to review the candidates for multiple jobs at the same time, click `
 
 ### Configuring notifications
 
-Notifications are configured as part of the [requisition creation process](/handbook/hiring/vacancies/#open-the-requisition-in-greenhouse) but can be adjusted at any time. To set up notifications, go to the requisition's job dashboard and click on `Job Setup` at the top, then `Notifications` at the left. Under each section, you can then click `Edit` to add or remove yourself for that section.
+Notifications are configured as part of the [requisition creation process](/handbook/hiring/recruiting-framework/req-creation/#requisition-creation-process) but can be adjusted at any time. To set up notifications, go to the requisition's job dashboard and click on `Job Setup` at the top, then `Notifications` at the left. Under each section, you can then click `Edit` to add or remove yourself for that section.
 
 ### Reporting
 
@@ -240,7 +240,7 @@ To add your email to your LinkedIn profile, click `Me` > `Settings & Privacy` > 
 
 ### Configuring notifications
 
-Notifications are configured as part of the [requisition creation process](/handbook/hiring/vacancies/#open-the-requisition-in-greenhouse) but can be adjusted at any time. To set up notifications, go to the requisition's job dashboard and click on `Job Setup` at the top, then `Notifications` at the left. Under each section, you can then click `Edit` to add or remove people for that section.
+Notifications are configured as part of the [requisition creation process](/handbook/hiring/recruiting-framework/req-creation/#requisition-creation-process) but can be adjusted at any time. To set up notifications, go to the requisition's job dashboard and click on `Job Setup` at the top, then `Notifications` at the left. Under each section, you can then click `Edit` to add or remove people for that section.
 
 It is recommended for the Recruiter of a requisition to set up notifications for themselves regarding new internal applicants, new referrals, new agency submissions, approved to start recruiting, offer fully approved, stage transitions, and new scorecards.
 
@@ -286,7 +286,7 @@ To schedule an interview, first make sure to move the candidate to the correct s
 
 Once the candidate provides their availability, you will receive an email and can schedule the interview by clicking the "Schedule Interview" button on the candidate's profile next to the appropriate interview stage. Choose the Interviewer and click the "Find Times" button at the top right, and find a free spot on the Interviewer's calendar (making sure it is within their working hours). Note both the candidate's and Interviewer's timezone for easier scheduling. DO NOT change the calendar's timezone from the drop-down view. Greenhouse will show the available times of the interviewee in white on the calendar. If you do not find a suitable time on the first day, you can change days by clicking the arrows near the current day. Note that Greenhouse **does not** currently update timezones once you change days, so you will need to reselect the timezone again even if it looks like it is selected in the timezone bar. When scheduling, be sure to not schedule more than 3 interviews per day for an Interviewer. If you are not able to see their calendar, you can either check the "Interview Calendar" in Google Calendar to view if they have any other interviews that day or reach out to the Interviewer to confirm. The only exception to not scheduling more than three interviews per day is if you are scheduling screening calls for a recruiter.
 
-When sending out the calendar invites to the Interviewers, the Recruiting Team will include a link to a Zoom room for *all* Interviewers under the "location" field, which will follow this format: `https://gitlab.zoom.us/my/gitlab.firstnamelastname` (e.g. Joe Smith's would be: `https://gitlab.zoom.us/my/gitlab.joesmith`). This room will be each Interviewer's consistent location for their interviews, and the naming convention is standard across GitLab for anyone with a Pro Zoom account. All interviews will be conducted via Zoom to maintain a streamlined hiring process. To create a personal Zoom Room for someone, please follow the [instructions in the handbook](/handbook/people-group/general-onboarding/onboarding-processes/#make-zoom-pro).
+When sending out the calendar invites to the Interviewers, the Recruiting Team will include a link to a Zoom room for *all* Interviewers under the "location" field, which will follow this format: `https://gitlab.zoom.us/my/gitlab.firstnamelastname` (e.g. Joe Smith's would be: `https://gitlab.zoom.us/my/gitlab.joesmith`). This room will be each Interviewer's consistent location for their interviews, and the naming convention is standard across GitLab for anyone with a Pro Zoom account. All interviews will be conducted via Zoom to maintain a streamlined hiring process. To create a personal Zoom Room for someone, please follow the [instructions in the handbook](/handbook/tools-and-tips/zoom/#making-a-customized-personal-link).
 
 Once a time is selected, you'll need to send the candidate an interview confirmation. You can do so by clicking the "Send Interview Confirmation" button, which will bring up an email template. Note that the timezone defaults to your timezone even on the candidate's side. Therefore, it is recommended to either do the conversion for the candidate to avoid confusion or highlight that it is in your timezone, not necessarily theirs. There are [timezone tools](https://www.worldtimebuddy.com/) you can use for timezone conversions. Be sure to update the template to the correct Zoom room for the Interviewer, and always select the `Include calendar files` button below the email and then click `Send Email`.
 
@@ -345,7 +345,7 @@ Each role has similar stages, with various interviews within each stage. Below i
 - **References**
   - There are two spots for completed reference checks, one from a former peer and one from a former manager.
 - **Offer**
-  - This is where the Recruiting Team prepares the offer and the offer is approved, and is explored more in detail in the [interviewing section](/handbook/hiring/interviewing/#offer-package) of the handbook.
+  - This is where the Recruiting Team prepares the offer and the offer is approved, and is explored more in detail in the [interviewing section](/handbook/hiring/offers/#offer-package-in-greenhouse) of the handbook.
 
 On rare occasion, there may be additional or less stages than represented here, but these stages should be consistent as much as possible in order to maintain data integrity for reporting. The interviews within the stages can be adjusted as needed, as long as they follow the same names (e.g. there should only be one `Peer Interview 1` across all jobs and not a `Peer Interview 1` on one job and a `Peer Interview One` on another). If there is any doubt or confusion, feel free to reach out to the Recruiting Operations Team.
 

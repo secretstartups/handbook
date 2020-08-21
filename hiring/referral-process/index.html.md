@@ -45,7 +45,7 @@ All GitLab team members are eligible for the [Referral Bonus](/handbook/incentiv
         * If the situation allows, a Hiring Team Member (**excluding** the *Recruiter* and *Hiring Manager*) can recuse themselves from interviewing the Referral.
 * If the Referring Team Member would manage the Referral directly.
 * If there's a perceived conflict of interest.
-* If the Referring Team Member is a part of the **Executive Team**.
+* If the Referring Team Member is at the VP level [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) or the [Executive Group](https://about.gitlab.com/company/team/structure/#executives).
 
 #### Submitting a Referral
 
@@ -66,7 +66,7 @@ To see what positions are available to submit an external candidate for please v
 
 #### Referral Statuses
 
-You can stay up-to-date on the status of your referral(s) in the **My Referrals** section of your Greenhouse dashboard or in the Referral Booster app. If you have any questions regarding your referral, please sent an email to the `referrals@gitlab.com`. Please note that the Recruiting Team is **unable** to provide candidate-specific feedback to Referrers (i.e you); only to the Candidate themselves. You can expect Referrals to be reviewed by the Hiring Team within **10-days** of their submission.
+You can stay up-to-date on the status of your referral(s) in the **My Referrals** section of your Greenhouse dashboard. If you have any questions regarding your referral, please sent an email to the `referrals@gitlab.com`. Please note that the Recruiting Team is **unable** to provide candidate-specific feedback to Referrers (i.e you); only to the Candidate themselves. You can expect Referrals to be reviewed by the Hiring Team within **10-days** of their submission.
 
 Although we place special emphasis on Referrals, we treat Referral interviews the same as we do non-Referrals. Referral interviews should not be more or less demanding than any other interview.
 

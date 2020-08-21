@@ -74,7 +74,7 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
 
 1. Click `Create Job & Continue`.
 
-1. The next page consists of all of the **attributes** interviewers will be evaluating for candidates in their scorecards across the full interview process. These may not be known until after the intake call. The attributes are typically split up into various categories, such `Requirements` (copied from the job family), `Responsibilities` (copied from the job family), `Skills`, `Traits`, and `Values` (standard across all roles, see additional info in the next step).
+1. The next page consists of all of the **attributes** interviewers will be evaluating for candidates in their scorecards across the full interview process. These may not be known until after the Kick-off Session and may be skipped during the initial setup of the REQ.  The CES will update the scorecard after the Kick-off Session. The attributes are typically split up into various categories, such `Requirements` (copied from the job family), `Responsibilities` (copied from the job family), `Skills`, `Traits`, and `Values` (standard across all roles, see additional info in the next step).
    - These can be adjusted as needed, but **every** attribute listed should be a must-have and not a nice-to-have.
    - If you want to include nice-to-haves in the scorecard, please create a new category called `Nice-to-haves` and add any applicable attributes there, making sure that your entire interview team knows that if a candidate does not meet any of those attributes it is not a negative against them.
 
@@ -96,7 +96,7 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
 
 1. Once the scorecard is finished, click `This looks good, NEXT` at the right of your screen.
 
-1. The `Interview Plan`, is where you'll craft the hiring process and scorecards for each step in the process.
+1. The `Interview Plan`, is where you'll craft the hiring process and scorecards for each step in the process. The interview plan may not be known until after the Kick-off Session and may be skipped during the initial setup of the REQ.  The CES will update the interview plan after the Kick-off Session.
 
 1. Every vacancy should have an `Application Review` stage. Typically no edits are needed on this stage.
 
@@ -155,7 +155,7 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
 1. Once your interview plan is complete, click `This looks good, NEXT` at the right.
 
 1. The `Hiring Team` is where you select who will be working on this vacancy and what access they should have.
-   - Scroll to the `Who's responsible for this job?` to assign the Hiring Managers, [Recruiter(s)](/handbook/hiring/recruiting-alignment/), Coordinator(s) and Sourcer(s). If any of these are unknown leave blank.
+   - Scroll to the `Who's responsible for this job?` to assign the Hiring Managers, [Recruiter(s)](/handbook/hiring/recruiting-alignment/), Coordinator(s) and Sourcer(s). Everyone who will be involved in interviewing may not be known until after the Kick-off Session. The CES will update the Hiring Team after the Kick-off Session.
    - Scroll to the `Who can see this job?` section to set permissions to the team members who will need access. Search for someone's name click the pencil and select the correct access level from the drop-down.
    - Search for every person who will be in the hiring process, whether they will be grading assessment, reviewing new applications, or performing interviews.
    - You may need to go back to the interview plan to add the interviews if it did not let you add them before completing this step.
@@ -163,8 +163,11 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
 1. Click `This looks good, NEXT` at the right.
 
 1. Approvals section is where you can add any notes here for the vacancy where it says `Leave a note`.
-   - You must include the job family url to the Approval Note section.
    - If you were unable to determine the compensation information tag the Compensation and Benefits team in the Approval Notes section with an @ mention.
+
+1. Click `This looks good, NEXT` at the right. 
+
+1. In the Notifications section update the "Approved to Start Recruiting" section. Ensure emails will be sent to the Hiring Manager, Recruiter, Sourcer, and CES so everyone knows when the job has been approved. 
 
 1. Scroll to the bottom of the page and click `Request Approval`.
 
@@ -194,7 +197,7 @@ The [Candidate Experience Specialist](/job-families/people-ops/candidate-experie
     - Background Check
     - Offer
 
-1. Confirm each person in the hiring process has appropriate access and upgrade if necessary in [Greenhouse](/handbook/hiring/greenhouse/#how-to-upgrade-access-levels).
+1. Confirm each person in the hiring process has appropriate access and upgrade if necessary in [Greenhouse](/handbook/hiring/greenhouse/#access-levels-and-permissions).
 
 1. Confirm each interviewer has a personal Zoom link.
 
@@ -267,7 +270,9 @@ The [Candidate Experience Specialist](/job-families/people-ops/candidate-experie
 
 1. If there are any links in the description, click on the link, then click the link icon in the text box toolbar, then change `Target` to `New Window`, then click `Ok` and repeat for any other links in the description; this will ensure all links work properly.
 
-1. If there is an *External Job Post*, please **delete** it by clicking the ellipsis (`•••`), then `Delete`. 
+1. For the Custom Application Questions, ensure the following questions are included:
+  - LinkedIn Profile
+  - Please let us know if there are any adjustments we can make to assist you during the hiring and interview process.
 
 1. Settings
    - Send Confirmation Email to Candidates: select the `Internal Auto-Reply after Application` from the drop-down list
@@ -277,6 +282,8 @@ The [Candidate Experience Specialist](/job-families/people-ops/candidate-experie
    - Uncheck `Include 'Apply with SEEK' button`
 
 1. Click `Save`.
+
+1. If there is an *External Job Post*, please **delete** it by clicking the ellipsis (`•••`), then `Delete`. 
 
 1. Click the red button to publish the vacancy to our internal job board.
 

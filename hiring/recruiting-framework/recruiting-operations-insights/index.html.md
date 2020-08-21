@@ -13,6 +13,8 @@ title: "Recruiting Process Framework - Recruiting Operations & Insights"
 
 ## Recruiting Process Framework - Recruiting Operations & Insights
 
+This page is an overview of the processes, reports, and systems that the Recruiting Operations & Insights Team is responsible for. While [Issues](https://gitlab.com/gl-recruiting/operations/-/issues/new) are best medium for fielding questions related to the aforementioned topics, we hold [Office Hours](https://docs.google.com/document/d/1JdyLg8OvYpGGLoNGpP6HhXvuoxInccZrpNJmX3pp91Y/edit) on the fourth Wednesday of each month at 11:00 am ET (3:00 pm GMT).
+
 ### System Access
 
 To gain access to a system listed below, please follow the respective link to the appropriate page on how to go about submitting an `Access Request` Issue:
