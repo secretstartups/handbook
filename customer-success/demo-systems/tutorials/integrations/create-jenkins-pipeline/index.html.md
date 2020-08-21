@@ -128,7 +128,7 @@ Keep in mind that this is a shared environment and it is best practice create a 
 
 3. In the left sidebar, click **New item**.
 
-    _*TIP:* Create new items in your folder
+    _TIP: Create new items in your folder
     Keep in mind that since you're inside a folder, this item will be created in this folder and not at the top-level. It's easy to make this mistake so please be conscientious of this to avoid cluttering up the dashboard with uncategorized projects._
 
 4. In the **Enter an item name** field, type in the hyphenated URL name (slug) of your GitLab project.
