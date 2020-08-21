@@ -180,3 +180,17 @@ Git file History provides information about the commit history associated with a
 This is useful when answering questions such as "When did GitLab switch from BlueJeans to Zoom?" (The answer is found in [this commit](https://gitlab.com/gitlab-com/www-gitlab-com/commit/5ecfa0794f09337d9f2509f4583c34d56904e24c) on `2016-09-22`, which shows the original handbook change referencing the terms.)
 
 For reference on where to begin your searches, the [`www-gitlab-com` repository](https://gitlab.com/gitlab-com/www-gitlab-com) is where the GitLab website/handbook are hosted, while GitLab Docs are found [here](https://gitlab.com/gitlab-org/gitlab-docs).
+
+## Navigating GitLab using the GitLab search bar
+
+GitLab has several hardcoded shortcuts you can type in the search bar to get
+autocomplete navigation to different pages. You can also use this search bar to
+navigate between projects and groups.
+
+GitLab team member [Dylan](https://gitlab.com/DylanGriffith) recorded the following video to show you how it works.
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/OE9b0Qc6KaI" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
