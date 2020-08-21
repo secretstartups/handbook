@@ -13,11 +13,13 @@ title: "FAQ from prospects"
 
 - Q: Does GitLab support a search engine based on Elasticsearch or alike?
 
-  A: GitLab EE allows to leverage the search capabilities of Elasticsearch.
+  A: GitLab paid tiers allows to leverage the search capabilities of Elasticsearch as part of Advanced Search.
 
   Documentation: https://docs.gitlab.com/ee/integration/elasticsearch.html
 
-
+- Q: Is Advanced Search Avilable for Guest accounts? 
+  
+  A: Yes, In GitLab EE with Advanced Search enabled Guests accounts can use Advanced Search. 
 
 - Q: Does GitLab provide project templates?
 
