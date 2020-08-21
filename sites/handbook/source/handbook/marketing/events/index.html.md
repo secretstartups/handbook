@@ -839,6 +839,8 @@ Swag selection and creation is managed by Corporate Marketing. All information o
 GitLab's Community Relations team reviews and manages our community events (typically an event with less than 250 attendees that is targetting end users of GitLab) including [Meetups](/handbook/marketing/community-relations/evangelist-program/#meetups). The [Community Relations handbook](/handbook/marketing/community-relations/evangelist-program/#community-events) has additional information on the events the Community Relations team will support.
 
 ## Specifics for Corporate Events
+- See [Corporate Events Handbook](/handbook/marketing/corporate-marketing/#corporate-events)
+
 ## Specifics for Field Marketing Events
 - For events where a field marketing representative cannot be present, the FM DRI will assign an onsite lead. The DRI will be responsible for coordinating with this person and providing them with any info they will need to help run the event in their absence. This person will be the venue point of contact as well as responsible for set up and tear down.
 - FOR EMEA: We must ensure we are gathering GDPR compliant leads - Lead devices scanning follow up needs to be in event T&C. If GDPR is not in the T&C, we are not allowed to follow up on the leads. Scanning a lead is not automatically GDPR compliant if visitors have not agreed to it.
