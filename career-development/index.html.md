@@ -280,7 +280,7 @@ A limited [internship pilot](/handbook/engineering/internships/) is launching in
 Sometimes, a member of the GitLab team might want to experience working in a new role without making a permanent change. If the department they want to learn more about can support this effort, then this offers a good opportunity for an apprenticeship.
 
 Eligibility criteria:
-* Your are excelling in your role (no performance issues)
+* You are excelling in your role (no performance issues)
 * You have been working full time with GitLab for at least 6 months
 
 The apprentice agrees to:
