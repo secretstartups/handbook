@@ -18,7 +18,7 @@ Below is a list of all of our installed packages in SFDC:
 
 | Package Name                                                     | Publisher                               | Owner                          | Department                 | Last Reviewed Date     |
 |------------------------------------------------------------------|-----------------------------------------|--------------------------------|----------------------------| -----------------------|
-| Marketo Sales Insight                                            | Marketo, Inc.                           | https://gitlab.com/darawarde                      | Marketing                  | 5/28/2020
+| Marketo Sales Insight                                            | Marketo, Inc.                           | [@darawarde](https://gitlab.com/darawarde)                      | Marketing                  | 5/28/2020
 | Field Trip                                                       | RingLead                                | https://gitlab.com/jbrennan1                         | Sales Systems                  | 8/10/2020
 | Bizible Marketing Attribution                                    | Bizible                                 | https://gitlab.com/darawarde                      | Marketing                  | 5/28/2020
 | ActivityHub                                                      | VersatileCapitalist, Inc                | https://gitlab.com/jbrennan1                | Sales Ops                  | 5/28/2020
