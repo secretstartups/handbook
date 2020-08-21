@@ -232,7 +232,7 @@ Poland, Russia, Ukraine & Romania:
 
 1. Max Expense Amount - [$5,000 USD](https://www1.oanda.com/currency/converter/)  - NOTE - If you are a corporate credit card holder, please refer to the [corporate credit card policy section](/handbook/finance/accounting/#credit-card-use-policy) for those specific instructions and thresholds.
 1. Receipt Required Amount - [$0 USD](https://www1.oanda.com/currency/converter/) - NOTE - Receipts are required for all expenses.
-1. Expenses should be submitted within 90 days.
+1. Expenses should be submitted within 30 days.
 1. Once your total expenses purchased in a month reaches $1,000 or [USD equivalent](https://www1.oanda.com/currency/converter/), please submit your expense report within a week. This will help us better manage our budget.
 1. Expense report items should clearly state if the spend includes amounts for clients / non-team members.  Tax requirements in certain countries require us to account for client spend differently.
 1. For coworking space rental, and office supply and computer equipment purchases, please have your Gitlab entity printed on the receipt / invoice so that the amount can be deducted for tax purposes. Please ask your manager or in the #expense-reporting-inquires channel in Slack if you are unsure which entity you belong to.
