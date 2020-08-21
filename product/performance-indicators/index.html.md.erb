@@ -69,6 +69,65 @@ The PI workflow outlines the steps required for putting a product performance in
 | [Handbook PI Page](https://about.gitlab.com/handbook/product/performance-indicators/) 									| The handbook PI page describes how product performance indicators are added for each product section, stage, and group.			| PM Responsibility, Product Analytics Support 	|
 | [PI Target](#pi-target)																									| The target definition step outlines how targets are defined for each performance indicator.										| PM Responsibility, Product Analytics Support 	|
 
+### What we're aiming for
+
+This section outlines what we're asking of each section, stage, or group.
+
+| section.stage.group | [Scott's Guidance](https://gitlab.com/gitlab-com/Product/-/issues/1286) | XMAU (SM: Usage Ping) | Paid XMAU (SM: Usage Ping) | XMAU (SaaS: Usage Ping, Postgres Import, Snowplow) | Paid XMAU (SaaS: Postgres Import) |
+|--------------------------------------------|-----------|-----------|-----------|-----------|-----------|
+| dev                                        |           | Yes       | Yes       | Yes       | Yes       |
+| dev.create                                 |           | Yes       | Yes       | Yes       | Yes       |
+| dev.create.ecosystem                       | Paid GMAU | Yes       | Yes       | Yes       | Yes       |
+| dev.create.editor                          | GMAU      | Yes       | No        | Yes       | No        |
+| dev.create.gitaly                          | Paid GMAU | Yes       | Yes       | Yes       | Yes       |
+| dev.create.gitter                          |           | Yes       | Yes       | Yes       | Yes       |
+| dev.create.knowledge                       | GMAU      | Yes       | No        | Yes       | No        |
+| dev.create.source_code                     | Paid GMAU | Yes       | Yes       | Yes       | Yes       |
+| dev.create.static_site_editor              | GMAU      | Yes       | No        | Yes       | No        |
+| dev.manage                                 |           | Yes       | Yes       | Yes       | Yes       |
+| dev.manage.access                          | Paid GMAU | Yes       | Yes       | Yes       | Yes       |
+| dev.manage.analytics                       | Paid GMAU | Yes       | Yes       | Yes       | Yes       |
+| dev.manage.compliance                      | Paid GMAU | Yes       | Yes       | Yes       | Yes       |
+| dev.manage.import                          | GMAU      | Yes       | No        | Yes       | No        |
+| dev.plan                                   |           | Yes       | Yes       | Yes       | Yes       |
+| dev.plan.certify                           | Paid GMAU | Yes       | Yes       | Yes       | Yes       |
+| dev.plan.portfolio_management              | Paid GMAU | Yes       | Yes       | Yes       | Yes       |
+| dev.plan.project_management                | Paid GMAU | Yes       | Yes       | Yes       | Yes       |
+| enablement                                 |           | Yes, PPI  | Yes, PPI  | Yes, PPI  | Yes, PPI  |
+| enablement.enablement                      |           | Yes, PPI  | Yes, PPI  | Yes, PPI  | Yes, PPI  |
+| enablement.enablement.database             | PPI       | Yes, PPI  | Yes, PPI  | Yes, PPI  | Yes, PPI  |
+| enablement.enablement.distribution         | PPI       | Yes, PPI  | Yes, PPI  | Yes, PPI  | Yes, PPI  |
+| enablement.enablement.geo                  | Paid GMAU | Yes       | Yes       | Yes       | Yes       |
+| enablement.enablement.global_search        | Paid GMAU | Yes       | Yes       | Yes       | Yes       |
+| enablement.enablement.infrastructure       | PPI       | Yes, PPI  | Yes, PPI  | Yes, PPI  | Yes, PPI  |
+| enablement.enablement.memory               | PPI       | Yes, PPI  | Yes, PPI  | Yes, PPI  | Yes, PPI  |
+| ops                                        |           | Yes       | Yes       | Yes       | Yes       |
+| ops.configure                              | GMAU      | Yes       | No        | Yes       | No        |
+| ops.configure.configure                    | GMAU      | Yes       | No        | Yes       | No        |
+| ops.monitor                                |           | Yes       | Yes       | Yes       | Yes       |
+| ops.monitor.apm                            | GMAU      | Yes       | No        | Yes       | No        |
+| ops.monitor.health                         | GMAU      | Yes       | No        | Yes       | No        |
+| ops.package                                | GMAU      | Yes       | No        | Yes       | No        |
+| ops.package.package                        | GMAU      | Yes       | No        | Yes       | No        |
+| ops.release                                | GMAU      | Yes       | No        | Yes       | No        |
+| ops.release.progressive_delivery           |           | Yes       | Yes       | Yes       | Yes       |
+| ops.release.release_management             |           | Yes       | Yes       | Yes       | Yes       |
+| ops.verify                                 |           | Yes       | Yes       | Yes       | Yes       |
+| ops.verify.continuous_integration          | GMAU      | Yes       | No        | Yes       | No        |
+| ops.verify.runner                          | GMAU      | Yes       | No        | Yes       | No        |
+| ops.verify.testing                         | Paid GMAU | Yes       | Yes       | Yes       | Yes       |
+| securedefend                               |           | Yes       | Yes       | Yes       | Yes       |
+| securedefend.defend                        | Paid GMAC | Yes, GMAC | Yes, GMAC | Yes, GMAC | Yes, GMAC |
+| securedefend.defend.container_security     | Paid GMAU | Yes       | Yes       | Yes       | Yes       |
+| securedefend.defend.insider_threat         | Paid GMAU | Yes       | Yes       | Yes       | Yes       |
+| securedefend.secure                        |           | Yes       | Yes       | Yes       | Yes       |
+| securedefend.secure.composition_analysis   | Paid GMAU | Yes       | Yes       | Yes       | Yes       |
+| securedefend.secure.dynamic_analysis       |           | Yes       | Yes       | Yes       | Yes       |
+| securedefend.secure.fuzz_testing           |           | Yes       | Yes       | Yes       | Yes       |
+| securedefend.secure.static_analysis        |           | Yes       | Yes       | Yes       | Yes       |
+| securedefend.secure.threat_insights        |           | Yes       | Yes       | Yes       | Yes       |
+| securedefend.secure.vulnerability_research |           | Yes       | Yes       | Yes       | Yes       |
+
 ### Next Steps
 
 1. @jeromezng @kathleentam will meet with all stages.
