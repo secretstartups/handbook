@@ -339,7 +339,7 @@ If you still have your GitLab project in a different browser tab or window, you 
 
     > If you get an error message, you may need to debug and see if your variables are correct. This is a common area to experience a problem and some light troubleshooting usually fixes the issue.
 
-### Task 8. Create a Branch and MR and Then Change a File to Trigger an Commit Event
+### Task 8. Create a Branch and MR and Then Change a File to Trigger a Commit Event
 
 1. In the left sidebar, navigate to **Repository > Branches**.
 
@@ -359,7 +359,7 @@ If you still have your GitLab project in a different browser tab or window, you 
 
 ### Task 9. Review the Jenkins Pipeline in the GitLab UI
 
-1. You should see the latest pipeline status in the merge request.  This is valuable to customers because they can now use the Jenkins pipeline status with the GitLab project merge check _Pipelines must succeed_ to ensure that code is built and tested successfully prior to being merged to master.  
+1. You should see the latest pipeline status in the merge request.  This is valuable to customers because they can now use the Jenkins pipeline status with the GitLab project merge check `Pipelines must succeed` to ensure that code is built and tested successfully prior to being merged to master.  
 
 2. Click the pipeline number to view the details.
 
