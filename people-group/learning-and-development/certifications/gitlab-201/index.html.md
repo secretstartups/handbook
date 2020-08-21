@@ -74,21 +74,31 @@ An epic contains a list of issues and an issue can be associated with at most on
 
 **How to add an issue to an epic:**
 
-1. Click the Add dropdown button.
-1. Click Add an issue.
+1. In the epic, click the Add dropdown button.
+
+1. [INSERT IMAGE]
+1. Click Add an existing issue.
 1. Either paste the link of the issue or enter the issue id.
+
+1. [INSERT IMAGE]
 1. If there are multiple issues to be added, press the spacebar and repeat this step. 
 1. Click Add
 
-(ADD screenshot)
 
 **Add an epic to an issue:**
 
-For an existing issue, navigate to the side bar, click Epic, type in the title of the epic you want to add and then select it from the drop down menu.  
+For an existing issue, navigate to the side bar,
+
+[INSERT IMAGE]
+
+click Epic, type in the title of the epic you want to add and then select it from the drop down menu.
+
+[INSERT IMAGE]  
+
 
 **Helpful Tips:**
 
-**Issue** - medium for collaborating on ideas and planning work in GitLab
+**Issues** - medium for collaborating on ideas and planning work in GitLab
 
 **Boards** - set up similar to how a kanban board would look.  An issue board shows you what issues your team is working on, who is assigned to each, and where in the workflow those issues are.
 
@@ -107,19 +117,29 @@ In GitLab 101, we learnt how to create merge requests.  In this lesson, we will 
 You can review a merge request to provide feedback to the author. You can start a review in the merge request diff. Diff is the view of changes to a file between branches or commits.
 
 To review a merge request, 
-1. click on the ‘Changes’ tab.
-1. Write your comment on a diff and click on the start a review button. Once a review is started, you will see any comments that are part of this review marked ‘pending’.  
+1. Click on the ‘Changes’ tab in the merge request.
+1. Write your comment on a diff and click on the start a review button. 
+
+1. [INSERT IMAGE]
+  
 1. To add more comments to a review, start writing a comment as normal and click the ‘Add to review’ button.
 1. To resolve a thread, when replying to a comment, click the checkbox to resolve thread. 
 1. Click 'submit review' to publish all documents.
-(ADD VIDEO or screenshot)
+
 
 **Suggesting Changes to a Merge Request**
 
 You can suggest changes in the Merge Request Diff threads.  The Merge Request author is able to apply these suggestions with a click, which will generate a commit in the merge request.
 
-1. Choose a line to be changed, add a comment, then click on the Insert suggestion icon in the toolbar
+1. Choose a line to be changed, click add a comment icon
+
+1. [INSERT IMAGE]
+1. Then click on the Insert suggestion icon in the toolbar
+
+1. [INSERT IMAGE]
 1. In the comment, add your suggestion to the pre-populated code block
+
+1. [INSERT IMAGE]
 1. Click ‘Start a review’ to add your comment to a review, or ‘Add comment now' to add the comment immediately.
 1. The Suggestion in the comment can be applied by the merge request author directly from the merge request.
 1. Once the suggestion has been applied, a new commit will be created and the suggested change will be pushed to the merge request's branch.  
@@ -129,6 +149,7 @@ You can suggest changes in the Merge Request Diff threads.  The Merge Request au
 If you are still working on a merge request and not ready for it to be merged, add [Draft] to the start of the merge request’s title, this will prevent the merge request from being merged.
 
 To update a WIP MR, in the changes tab, click on the pencil icon to edit the merge request.
+[INSERT IMAGE]
 
 Make your changes.  Click ‘commit changes’.
 
@@ -136,7 +157,24 @@ When you are ready for it to be merged, simply remove the [Draft] prefix from th
 
 ### Lesson 3: How to navigate www-gitlab-com project
 
-**How to find the handbook from www-gitlab-com**
+### Video: How to Create a new handbook page
+
+
+How the URLs work to help you find where something is on www-gitlab-com
+
+### Helpful Tips for updating the Handbook
+
+Embedding videos in the handbook
+
+Adding slide decks 
+
+Adding images
+
+Adding tables to the handbook 
+
+
+
+
 
 
 
