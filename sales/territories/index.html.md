@@ -18,10 +18,10 @@ title: "Sales Territories"
      - If **Individual Contributor** is requesting the change, ADD your manager to the `/assign` command
      - If **Manager** is requesting change, submit issue & it will auto-assign to Sales Ops
      - **Please note** Operations makes alignment changes **once** at the end of each month, only exception would be a Sales New Hire. 
-1. `@tav_scott` to update SFDC
-1. Change made on Territory Management document by `@tav_scott` **after** change in system has been made.
-1. `@bethpeterson` to update LeanData download updated csv once change confirmed by `@tav_scott`.
-1. Territory Management updates will be uploaded to LeanData by `@bethpeterson` **after** change in system has been made. 
+1. `Sales Operations` to update SFDC
+1. Change made on Territory Management document by `Sales Operations` **after** change in system has been made.
+1. `Sales Operations` to update LeanData download updated csv.
+1. Territory Management updates will be uploaded to LeanData by `Sales Operations` **after** change in system has been made. 
 
 ### SDR Alignment (Marketing)
 
@@ -354,17 +354,41 @@ For other countries outside AMER, governments agencies will be handled by the te
 
 | Sub-Region     | Area           | **Territory Name**           | Sales                            | SDR                   |
 | :------------- | :------------- | :----------------------- | :------------------------------- | :-------------------- |
-| Europe Central | Europe Central | **SMB-EMEA-BeNeLux**         | Arina Voytenko                     | EMEA Commercial - SMB^ |
+| Europe Central | Europe Central | **SMB-EMEA-BeNeLux**         | Arina Voytenko                   | EMEA Commercial - SMB^ |
 | Europe Central | DACH           | **SMB-EMEA-North Germany**   | Bastian van der Stel             | EMEA Commercial - SMB^ |
 | Europe Central | DACH           | **SMB-EMEA-South Germany**   | Vilius Kavaliauskas              | EMEA Commercial - SMB^ |
 | Europe Central | DACH           | **SMB-EMEA-Rest of DACH**    | Vilius Kavaliauskas              | EMEA Commercial - SMB^ |
-| Europe East    | Eastern Europe | **SMB-EMEA-Eastern Europe**  | Arina Voytenko                     | EMEA Commercial - SMB^ |
-| Europe South   | Europe South   | **SMB-EMEA-France**          | Tim Guibert                   | EMEA Commercial - SMB^ |
+| Europe East    | Eastern Europe | **SMB-EMEA-Eastern Europe**  | Arina Voytenko                   | EMEA Commercial - SMB^ |
+| Europe South   | Europe South   | **SMB-EMEA-France**          | Tim Guibert                      | EMEA Commercial - SMB^ |
 | Europe South   | Europe South   | **SMB-EMEA-Southern Europe** | Ross Mawhinney                   | EMEA Commercial - SMB^ |
-| MEA            | MEA            | **SMB-EMEA-MEA**             | Daisy Miclat             | EMEA Commercial - SMB^ |
-| Nordics        | Nordics        | **SMB-EMEA-Nordics-East**    | Tim Guibert                     | EMEA Commercial - SMB^ |
+| MEA            | MEA            | **SMB-EMEA-MEA**             | Daisy Miclat                     | EMEA Commercial - SMB^ |
+| Nordics        | Nordics        | **SMB-EMEA-Nordics-East**    | Tim Guibert                      | EMEA Commercial - SMB^ |
 | Nordics        | Nordics        | **SMB-EMEA-Nordics-West**    | Daisy Miclat                     | EMEA Commercial - SMB^ |
-| UKI            | UKI            | **SMB-EMEA-UKI**             | Ross Mawhinney                     | EMEA Commercial - SMB^ |
+| UKI            | GB             | **SMB-EMEA-UKI-Birmingham**  | Daisy Miclat                     | EMEA Commercial - SMB^ |
+| UKI            | GB             | **SMB-EMEA-UKI-Cardiff**     | Daisy Miclat                     | EMEA Commercial - SMB^ |
+| UKI            | GB             | **SMB-EMEA-UKI-Gibraltar**   | Ross Mawhinney                   | EMEA Commercial - SMB^ |
+| UKI            | IE             | **SMB-EMEA-UKI-Ireland  **   | Ross Mawhinney                   | EMEA Commercial - SMB^ |
+| UKI            | GB             | **SMB-EMEA-UKI-Leeds  **     | Daisy Miclat                     | EMEA Commercial - SMB^ |
+| UKI            | GB             | **SMB-EMEA-UKI-London E  **  | Daisy Miclat                     | EMEA Commercial - SMB^ |
+| UKI            | GB             | **SMB-EMEA-UKI-London EC1 ** | Daisy Miclat                     | EMEA Commercial - SMB^ |
+| UKI            | GB             | **SMB-EMEA-UKI-London EC2**  | Ross Mawhinney                   | EMEA Commercial - SMB^ |
+| UKI            | GB             | **SMB-EMEA-UKI-London EC3**  | Daisy Miclat                     | EMEA Commercial - SMB^ |
+| UKI            | GB             | **SMB-EMEA-UKI-London EC4**  | Daisy Miclat                     | EMEA Commercial - SMB^ |
+| UKI            | GB             | **SMB-EMEA-UKI-London N**    | Daisy Miclat                     | EMEA Commercial - SMB^ |
+| UKI            | GB             | **SMB-EMEA-UKI-London NW**   | Daisy Miclat                     | EMEA Commercial - SMB^ |
+| UKI            | GB             | **SMB-EMEA-UKI-London SE**   | Daisy Miclat                     | EMEA Commercial - SMB^ |
+| UKI            | GB             | **SMB-EMEA-UKI-London SW**   | Ross Mawhinney                   | EMEA Commercial - SMB^ |
+| UKI            | GB             | **SMB-EMEA-UKI-London W**    | Ross Mawhinney                   | EMEA Commercial - SMB^ |
+| UKI            | GB             | **SMB-EMEA-UKI-London WC**   | Ross Mawhinney                   | EMEA Commercial - SMB^ |
+| UKI            | GB             | **SMB-EMEA-UKI-Manchester**  | Ross Mawhinney                   | EMEA Commercial - SMB^ |
+| UKI            | R              | **SMB-EMEA-UKI-R**           | Daisy Miclat                     | EMEA Commercial - SMB^ |
+
+
+
+
+
+
+
 
 ^ `SDR` = `EMEA Commercial - SMB`: Round robin group consisting of Wiam Aissaoui, Alexander Demblin, Dorde Sumenkovic and Daniel Phelan
 ^ Nordics & UK&I are temporarily alignments while Daisy Miclat is on maternity leave
