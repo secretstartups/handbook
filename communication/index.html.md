@@ -93,10 +93,10 @@ Some merge requests that involve a big decision or change tend to collect a larg
 ```
 ## Consolidated MR
 
-This MR is a Consolidated MR.  Contributors should tag their manager when adding a comment.  Managers should directly respond to comments in which they are tagged and summarize and amplify upward to the DRI as needed.
+This MR is a Consolidated MR.  Contributors should tag their manager when adding a comment.  If managers are tagged they should either respond to the question or summarize and tag their manager.
 ```
 
-For MRs designated as "Consolidated MRs", each contributor should tag their manager when commenting on the MR. This gives managers the opportunity to collect the feedback and either respond directly or summarize and amplify the feedback upward to the DRI as needed. This approach helps make the process of collecting feedback scalable and improves our efficiency when working with MRs. Comments without a manager tagged will not receive a response.
+Comments without a manager tagged will be closed with a link to this handbook section or closed without comment.
 
 MRs should not start out as a Consolidated MR as we prefer [communication to be direct](/handbook/leadership/#communication-should-be-direct-not-hierarchical). They should only be designated as such after the number of comments on them grows to a level that is unsustainable for the DRI.
 
