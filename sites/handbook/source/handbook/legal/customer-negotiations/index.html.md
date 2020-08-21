@@ -21,7 +21,7 @@ Please feel free to reach out with any topics or questions. You can reach legal 
 | ------ | ------ |
 | **How to reach Legal**                 | **Overview of GitLab Agreements** |
 | **How do I get an Agreement signed**      | **When does GitLab negotiate** |
-| **Vendor Request Forms (W9/Insurance)**      | **Introduction to Open Source** |
+| COMING SOON: Vendor Request Forms (W9/Insurance)**      | COMING SOON:Introduction to Open Source |
 | COMING SOON: What is needed to close a deal?      | COMING SOON: Most commonly negotiated terms |
 
 
