@@ -51,7 +51,7 @@ During Onboarding, the TAM should also review the fields in the C360 to create a
 
 The [Time to Value KPIs](https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis) are developed to help us understand key facts about how we are serving our customers, and how we could improve. Below are the processes for how TAMs should update and track their Time to Value KPIs. For definitions, please see [Time to Value KPIs](https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis). For data visualization, see [Customer Onboarding Dashboard](https://gitlab.gainsightcloud.com/v1/ui/home#58502af5-e7c2-4cbd-8645-d612b74424ff).
 
-### Time to Engage
+#### Time to Engage
 
 Time to Engage is calculated by taking the days between Salesforce's `Original Contract Date` and subtracting the date of the first Timeline call or meeting entry. Example: Original Contract Date is 2020-01-01 and the first call was 2020-01-12, then it would be 11 days.
 - Required TAM action: log the first Timeline entry (Call or Meeting)
