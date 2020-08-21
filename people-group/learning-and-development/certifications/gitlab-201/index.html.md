@@ -28,23 +28,25 @@ GitLab 101
 1.
 1.
 
-### Lesson 1: Epics
+## Lesson 1: Epics
+
 Epics let you manage your portfolio of projects more efficiently and with less effort by tracking groups of issues that share a theme, across projects and milestones. 
 
-**Uses**
+### Uses
 
 1. Suppose your team is working on a project/OKR that involves multiple discussions throughout different issues created in distinct projects within a Group.  With Epics, you can track all the related activities that together contribute to that single project/OKR.
 1. Track when the work for the group of issues is targeted to begin, and when it’s targeted to end. 
 1. Discuss and collaborate on ideas and scope at a high level.  
 1. Helps to report on the health status of the different issues attached.
 
-**How to Create Epics**
+### How to Create Epics
 
 Epics are created on group level. To create an epic, navigate to the project’s group, on the left panel,
  
 1. click ‘epics’, 
 1. then click ‘New epic’. 
 1. Type in the title of the epic and click create epic.
+1. This epic is referred to as the parent epic.
 
 You may choose to mark confidential by selecting Make this epic confidential checkbox.
 
@@ -54,7 +56,8 @@ You may choose to mark confidential by selecting Make this epic confidential che
   <iframe src="https://www.youtube.com/embed/hxUmalpYHF4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-**Child Epics**
+### Child Epics
+
 Child epics may be added to a parent epic.  To add a child epic;
 
 1. Navigate to the parent epic, click the add dropdown button
@@ -68,11 +71,11 @@ Child epics may be added to a parent epic.  To add a child epic;
   <iframe src="https://www.youtube.com/embed/2OjWGpOsBsM" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-**How to link epics and issues**
+### How to link Epics and Issues
 
 An epic contains a list of issues and an issue can be associated with at most one epic. When you add an issue that’s already linked to an epic, the issue is automatically unlinked from its current parent.
 
-**How to add an issue to an epic:**
+### How to Add an Issue to an Epic
 
 1. In the epic, click the Add dropdown button.
 
@@ -85,7 +88,7 @@ An epic contains a list of issues and an issue can be associated with at most on
 1. Click Add
 
 
-**Add an epic to an issue:**
+### Add an epic to an issue:
 
 For an existing issue, navigate to the side bar,
 
@@ -96,7 +99,7 @@ click Epic, type in the title of the epic you want to add and then select it fro
 [INSERT IMAGE]  
 
 
-**Helpful Tips:**
+### Helpful Tips:
 
 **Issues** - medium for collaborating on ideas and planning work in GitLab
 
@@ -108,11 +111,11 @@ click Epic, type in the title of the epic you want to add and then select it fro
 
 To move on to the next lesson, take and pass the GitLab 201 epics quiz.
 
-### Lesson 2: Merge Requests
+## Lesson 2: Merge Requests
 
 In GitLab 101, we learnt how to create merge requests.  In this lesson, we will dive deeper into merge requests. 
 
-**Reviewing a Merge Request**
+### Reviewing a Merge Request
 
 You can review a merge request to provide feedback to the author. You can start a review in the merge request diff. Diff is the view of changes to a file between branches or commits.
 
@@ -127,7 +130,7 @@ To review a merge request,
 1. Click 'submit review' to publish all documents.
 
 
-**Suggesting Changes to a Merge Request**
+### Suggesting Changes to a Merge Request
 
 You can suggest changes in the Merge Request Diff threads.  The Merge Request author is able to apply these suggestions with a click, which will generate a commit in the merge request.
 
@@ -144,7 +147,7 @@ You can suggest changes in the Merge Request Diff threads.  The Merge Request au
 1. The Suggestion in the comment can be applied by the merge request author directly from the merge request.
 1. Once the suggestion has been applied, a new commit will be created and the suggested change will be pushed to the merge request's branch.  
 
-**WIP/Draft Merge Requests**
+### WIP/Draft Merge Requests
 
 If you are still working on a merge request and not ready for it to be merged, add [Draft] to the start of the merge request’s title, this will prevent the merge request from being merged.
 
@@ -155,22 +158,38 @@ Make your changes.  Click ‘commit changes’.
 
 When you are ready for it to be merged, simply remove the [Draft] prefix from the title of the MR.
 
-### Lesson 3: How to navigate www-gitlab-com project
+### Quiz - Lesson 2: Merge Requests 
+
+## Lesson 3: How to navigate www-gitlab-com project
+
+You may search through the www-gitlab-project to access the handbook.  This is useful for when you are adding a new page to the handbook.  
+To find the handbook, navigate to www-gitlab-com project, click sites - handbook - source - handbook.  Click the section of the handbook you want to navigate to (eg people group, marketing)
 
 ### Video: How to Create a new handbook page
 
 
-How the URLs work to help you find where something is on www-gitlab-com
-
 ### Helpful Tips for updating the Handbook
+Here are some other helpful tips in updating the handbook;
 
-Embedding videos in the handbook
+### Embedding videos in the handbook
 
-Adding slide decks 
+First, upload the video on Youtube following the steps in [uploading conversations to Youtube](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube).
 
-Adding images
+Paste the below in the relevant section of the handbook where the video will be embedded, ensure you change the youtube link to your own video's link.  You can retrieve this link from the embed tab of your video.
+```
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/2OjWGpOsBsM" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+```
+Submit the merge request to add the new video.
 
-Adding tables to the handbook 
+
+### Adding slide decks/images
+
+
+### Referencing another section of the handbook for how to do something 
+If you don’t know how to do something - find another instance of it in the handbook. For example, if you want to add a table to the handbook.  Navigate to a section of the handbook that contains a table, the [People Group](https://about.gitlab.com/handbook/people-group/) page is a good example.  
+Click 'view source' to see how the table looks.  You may copy/paste, then edit to suit your needs.
 
 
 
