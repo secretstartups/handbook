@@ -56,7 +56,7 @@ The [Time to Value KPIs](https://about.gitlab.com/handbook/customer-success/visi
 Time to Engage is calculated by taking the days between Salesforce's `Original Contract Date` and subtracting the date of the first Timeline call or meeting entry. Example: Original Contract Date is 2020-01-01 and the first call was 2020-01-12, then it would be 11 days.
 - Required TAM action: log the first Timeline entry (Call or Meeting)
 
-### Time to First Value
+#### Time to First Value
 
 Time to First Value is calculated by taking the `Original Contract Date` and subtracting `First Value Date`, which is a manual input on the customer's Attributes section of the C360.
 - Required TAM action: update the `First Value Date`
