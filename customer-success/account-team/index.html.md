@@ -39,6 +39,7 @@ The account team should meet regularly to review their accounts. Some common top
 
 - The status of accounts in general, particularly those with a [health score other than Green](/handbook/customer-success/tam/health-score-triage/#health-assessment-guidelines)
 - Open opportunities for growth, upgrade, and/or renewal of existing customers
+  - Coordinated customer growth/expansion strategies
 - Open opportunities for new business
 - The status of onboarding for recently added customers
 
