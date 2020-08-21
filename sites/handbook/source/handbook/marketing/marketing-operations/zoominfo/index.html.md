@@ -67,5 +67,8 @@ Custom fields start with [ZI] and will be visible in the Zoominfo section in SFD
 ### SFDC Native Integration
 The native integration is available on any lead, contact, or account directly within SFDC. The functionality is the exact same as logging directly into Zoominfo.
 
+## SFDC Account Enrichment
+All of Salesforce current accounts in the database have been enriched with Zoominfo. Accounts are scheduled to be refreshed with Zoominfo weekly on Saturdays. Instant Enrich will enrich any new accounts that are created.
+
 ### Outreach Integration
 Coming soon.
