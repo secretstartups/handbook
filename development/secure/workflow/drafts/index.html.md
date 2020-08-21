@@ -35,3 +35,8 @@ Updates such as grammatical fixes, typos, and clarifications are welcome at any 
 The upcoming version is the [FY21-Q3 DRAFT](./FY21-Q3/), which will be rolled out on August 2020.
 
 ### Changes summary
+
+- Integrate the **refinement** step (with the `workflow::refinement` label) between **planning breakdown** and **scheduling**.
+- Clarify **planning breakdown** vs **refinement**.
+- Expand each workflow step into its own section with detailed description.
+- Add sections and videos about how to work with issues board.
