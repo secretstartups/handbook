@@ -38,7 +38,7 @@ Please also review our [TAM and Support interaction](/handbook/customer-success/
 
 While an Onboarding CTA is an automated process, it can also be created manually by going to the Cockpit, clicking `+ CTA` and then choosing the Onboarding playbook.
 
-## Gainsight C360 Fields
+### Gainsight C360 Fields
 
 During Onboarding, the TAM should also review the fields in the C360 to create a full picture. Here are a few examples:
 
