@@ -19,7 +19,7 @@ Related pages
 
 I live on a farm in northwest Arkansas, grew up in Texas, and lived for five years in Costa Rica.  My husband is from Nicaragua and my kids have citizenship in multiple countries.  I’ve missed traveling lately due to the coronavirus!  We have lots of animals on the farm - cows, horses, chickens, dogs, and cats.  I enjoy reading, cooking, and watching movies.  It’s important to me to leave the world a better place for my kids and grandkids - I recycle, try not to purchase a lot of plastic if I can help it, and I try to be kind more often than not.
 
-One of the main reasons I wanted to come to GitLab was because of our values.  I relate to all of them and feel that working collaboratively and keeping a focus on results make for a more efficient and balanced work environment.  I feel that [assuming positive intent](https://about.gitlab.com/handbook/values/#assume-positive-intent) has made a huge difference in how I interact with people and how I lead my teams.
+One of the main reasons I wanted to come to GitLab was because of our values.  I relate to all of them and feel that working collaboratively and keeping a focus on results make for a more efficient and balanced work environment.  I feel that [assuming positive intent](/handbook/values/#assume-positive-intent) has made a huge difference in how I interact with people and how I lead my teams.
 
 **How you can help me**
 

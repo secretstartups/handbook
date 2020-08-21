@@ -221,7 +221,7 @@ If it’s not, Sales Ops team needs to be informed so that it can be changed or 
 
 ________________
 
-Points to remember while billing **AWS orders** can be viewed [here.](/business-ops/order-processing/#amazon-web-services-aws-private-offer-transactions)
+Points to remember while billing **AWS orders** can be viewed [here.](/handbook/business-ops/order-processing/#second-review-all-requirements-for-each-type-of-sale)
 
 ### Billing Entities
 

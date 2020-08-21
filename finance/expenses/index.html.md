@@ -65,7 +65,7 @@ It is uncommon for you to need all of the items listed below. Read [GitLab's gui
 | Portable 15" external monitor                                | $200                 | 9/10       | You have the freedom to work from any location, and having a portable monitor allows that your workflow does not suffer from being constrained to a single small laptop screen. |
 | USB-C Adapter                                                | $80                  | 9/10       | Most MacBooks only have 1 free USB-C port, so an adapter with additional ports is a necessity. |
 | HDMI/monitor cable                                           | $15                  | 9/10       | Find a quality cable so that the connection between your laptop and monitor is healthy and secure. |
-| [Yubikey](https://www.yubico.com/store/)                     | $50                  | 8/10      | Per our [Security Practices](https://about.gitlab.com/handbook/security/), purchasing Yubikey is not mandatory, but is considered as an extra layer of authentication for better security. |
+| [Yubikey](https://www.yubico.com/store/)                     | $50                  | 8/10      | Per our [Security Practices](/handbook/security/), purchasing Yubikey is not mandatory, but is considered as an extra layer of authentication for better security. |
 | Monitor Privacy Filter                                       | $80                  | 8/10       | Important if you work in public places and need to be certain your work cannot be seen. |
 | WiFi Router with guest functionality     | $80                  | 7/10       | If your existing router does not allow for isolating your work notebook from your personal devices in your home network, consider buying a router that does. |
 | Laptop bag or backpack                                       | $60                  | 7/10       | Carry your laptop and external monitor safely with this travel bag. We recommended you get a bag (or backpack) with straps so the device stays on you when you need your hands free. |
@@ -220,7 +220,9 @@ Team members in France, Italy, and Spain must submit their expenses through:
 
 * Please include your expenses along with receipts on your monthly salary invoice.
 
-##### Poland, Russia, Ukraine
+##### CXC 
+
+Poland, Russia, Ukraine & Romania:
 
 * Expense reports must be approved by the manager on or before the 8th of each month enable for it to be included in the current month payroll
 * GitLab Payroll will send the approved expense amount to CXC EMEA payroll included with the monthly salary
@@ -228,9 +230,9 @@ Team members in France, Italy, and Spain must submit their expenses through:
 
 ## Expense Policy
 
-1. Max Expense Amount - [$5,000 USD](https://www1.oanda.com/currency/converter/)
-1. Receipt Required Amount - [$5 USD](https://www1.oanda.com/currency/converter/)
-1. Expenses should be submitted within 30 days of a purchase and must be submitted within 90 days.
+1. Max Expense Amount - [$5,000 USD](https://www1.oanda.com/currency/converter/)  - NOTE - If you are a corporate credit card holder, please refer to the [corporate credit card policy section](/handbook/finance/accounting/#credit-card-use-policy) for those specific instructions and thresholds.
+1. Receipt Required Amount - [$0 USD](https://www1.oanda.com/currency/converter/) - NOTE - Receipts are required for all expenses.
+1. Expenses should be submitted within 90 days.
 1. Once your total expenses purchased in a month reaches $1,000 or [USD equivalent](https://www1.oanda.com/currency/converter/), please submit your expense report within a week. This will help us better manage our budget.
 1. Expense report items should clearly state if the spend includes amounts for clients / non-team members.  Tax requirements in certain countries require us to account for client spend differently.
 1. For coworking space rental, and office supply and computer equipment purchases, please have your Gitlab entity printed on the receipt / invoice so that the amount can be deducted for tax purposes. Please ask your manager or in the #expense-reporting-inquires channel in Slack if you are unsure which entity you belong to.

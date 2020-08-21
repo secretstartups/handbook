@@ -16,6 +16,7 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
    *   US team members: uspayroll@gitlab.com
    *   Non-US team members: nonuspayroll@gitlab.com
 -  **Chat channel**:  `#payroll` slack channel for questions that is not confidential.
+- Please email all questions related to commission such as calculation, deals, etc... to sales-comp@gitlab.com
 
 ## Legal Entity Payroll providers
 
@@ -26,7 +27,8 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
 - GitLab Inc (US) - ADP
 - GitLab GmbH (Germany) - CloudPay
 - GitLab LTD (UK) - Vistra
-- GitLab PTY (Australia) - iiPay
+- GitLab PTY (Australia) - CloudPay
+- GitLab PTY (New Zealand) - CloudPay
 - GitLab Canada Corp (Canada) - CloudPay
 
 ## Pay Date
@@ -40,7 +42,8 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
 1. Employees of GitLab Ltd will get their salary wired on the last day of every month, and can see their pay slip via their personal portal on [Vistra's system](https://www.webcare2.com/vistra) towards the end of the month. The login details are the 9-digit user ID the employees were provided with following their first payroll. Contact `peopleops@ gitlab.com` if you need to have your password reset.
 1. Employees of GitLab GmbH will get their salary wired on the last day of every month, and can see their pay slip via their personal account on [CloudPay ESS portal](https://payroll.cloudpay.net/app/servlet/workflow?mode=ess ).
 1. Employees of GitLab Canada Corp will get pay bi-weekly and they can access their pay slip via their personal portal on [CloudPay's ESS portal](https://payroll.cloudpay.net/app/servlet/workflow?mode=ess).
-1. Employees of GitLab PTY will get their salary on the 27th of each month, and their pay slip through [iiPay portal](https://pay.iipaysp.com/RegisterUser/GITL)
+1. Employees of GitLab PTY Australia will get their salary on the 27th of each month, and they can access their pay slip through [iiPay portal](https://pay.iipaysp.com/RegisterUser/GITL)
+1. Employees of GitLab PTY NZ will get pay their salary on the 28th of each month, and they can access their pay slip via [CloudPay's ESS portal](https://payroll.cloudpay.net/app/servlet/workflow?mode=ess).
 1. Employees of GitLab BV that are employed through GitLab's co-employer PE0:
    - Global Upside (India) will get their salary wired by the last day of the month. Global Upside will send pay slips electronically through their HR portal.
    - Safeguard are paid monthly and on the last day of the month (depending on the country) with exception to Switzerland, which is the 25th of each month.Payslips are provided electronically by Safeguard.
@@ -275,4 +278,8 @@ All payroll changes (demographic information, job, bonus/commission payout reque
 Payroll is paid on time and accurately for each check date.
 
 ### Payroll journal entry reports submitted to Accounting <= Payroll date + 2 business days
-Payroll journal entry reports are to be submitted to Accounting no later than two business days after the payroll date. The payroll journal entry reports submitted dates are tracked in the Monthly Closing Checklist on a monthly basis.
+Payroll journal entry reports are to be submitted to Accounting GL team:
+- Non-US legal entities (except for Canada)- four calendar days before the check date
+- US and Canada - two calendar days before the check date
+
+The payroll journal entry reports submitted dates are tracked in the Monthly Closing Checklist on a monthly basis.
