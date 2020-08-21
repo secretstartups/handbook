@@ -21,7 +21,7 @@ Email Us: `learning@gitlab.com`
 
 
 ## Mission
-Our mission is to provide resources to enable our team members to enhance success in their current roles as well as develop new skills to further their professional and personal development. We provide adaptive and blended learning and growth opportunities, including skills building, career development, and technical training that aligns to our strategic priorities as an organizaiton.
+Our mission is to provide resources to enable our team members to enhance success in their current roles as well as develop new skills to further their professional and personal development. We provide adaptive and blended learning and growth opportunities, including skills building, career development, and technical training that aligns with our strategic priorities as an organization. At GitLab, we are cultivating a culture of curiosity and continuous learning. 
 
 ## GitLab Learning Strategy & Roadmap
 
@@ -32,8 +32,11 @@ Our mission is to provide resources to enable our team members to enhance succes
 ## GitLab Learning & Development Principles
 
 1. **Meaningful and relevant content.** We deliver learning solutions that drive the development and growth of team members throughout their life cycle at GitLab.
+
 1. **Values aligned.** Our learning solutions reinforce GitLab’s [values](/handbook/values/), and foster continuous learning and curiosity.
+
 1. **Diverse approaches to learning.** We apply a blended learning model for learning solutions, and adapt to various learning needs.
+
 1. **Community.** We make our L&D offerings available to the public, aligned to our mission that everyone can contribute.
 
 ## Learning and Development Responsibilities
@@ -51,7 +54,7 @@ We are a small team but we've got a big role to play at GitLab!
 
 * [Learning and Development Partner ](https://about.gitlab.com/job-families/people-ops/learning-development-specialist/): [Josh Zimmerman](https://about.gitlab.com/company/team/#learning-dev-partner)
 * [Learning and Development Generalist](https://about.gitlab.com/job-families/people-ops/learning-development-specialist/#learning--development-generalist): [Jacie Bandur](https://about.gitlab.com/company/team/#jbandur)
-
+* [Learning and Development Associate](/job-families/people-ops/learning-development-specialist/#learning--development-associate): Open Role
 
 ## Learning Sessions
 
@@ -176,6 +179,8 @@ There is also a way to practice foreign languages and ask for advice in several 
 
 GitLab has a growing [resource](/handbook/people-group/learning-and-development/manager-development/) to enable all team members transitioning to a manager role. It contains a link to a checklist, readings, and a form to help learning and development customize your development as a manager.
 
+We are piloting the [Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/) program during the month of September to over 30 people leaders at GitLab. The Manager Challenge is to first step to building out a comprehensive manager enablement curriculum. 
+
 ## New Learning Content at GitLab
 
 We are always working to create more learning content for our team members. If you have a learning request that you would like the Learning & Development team to develop in partnership with your team, please fill out a `learning-and-development-request` issue template in our [issue tracker](https://gitlab.com/gitlab-com/people-group/learning-and-development/-/issues). Our team will review and set the priority for your request based on the scale and impact across the organization. Learning items that will be applied and used across the company will take priority. 
@@ -220,7 +225,9 @@ Adults learn differently in the workplace than they would in traditional learnin
 
 ## Learning Management Systems
 
-We are currently evaluating different learning management systems (LMS) to provide growth opportunities in a more structured, on-demand format. To help us continue to be [Handbook First](/handbook/handbook-usage/#why-handbook-first), course content should be structured in the following way:
+We are currently in the process of implementing a Learning Management System (LMS). We are also in the process of evaluating several content libraries to accompany the LMS to provide curated and off-the-shelf courses for our team members. The content will be supplemental to GitLab customized content. More details to come in the next few months! 
+
+To help us continue to be [Handbook First](/handbook/handbook-usage/#why-handbook-first), course content in the LMS should be structured in the following ways: 
 
 - Text in handbook
 - Video on [YouTube](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg)
