@@ -29,7 +29,7 @@ Read more about [our outbound hiring model](/jobs/faq/#gitlabs-outbound-recruiti
 
 <details>
   <summary markdown='span'>
-  To join our talent community
+  How to Join our Talent Community
   </summary>
 
 1. Go to our [talent community page](https://boards.greenhouse.io/gitlab/jobs/4700367002), fill out your personal information, and upload your CV or resume.
@@ -39,7 +39,6 @@ Read more about [our outbound hiring model](/jobs/faq/#gitlabs-outbound-recruiti
 1. Should you reach out to any GitLab team member on any social media platform, that you have not worked with previously or do not know, requesting to be referred, instead of or in addition to [joining our talent community](https://boards.greenhouse.io/gitlab/jobs/4700367002), you'll receive the following reply: "Thank you for your interest in GitLab! The best way to share your information with our recruiting team is to [join our talent community](https://boards.greenhouse.io/gitlab/jobs/4700367002). This will ensure that you're among the pool of candidates our team will consider when sourcing for current and future openings. Unfortunately, I can't refer you for the position since we have not had a chance to work together. To ensure we stay [inclusive](/company/culture/inclusion/), I'm also not able to influence your candidacy for a particular role."
 1. If at any point during the interview process, you send threatening emails, emails containing profanity, vulgar language, or [hurtful labels](https://about.gitlab.com/community/contribute/code-of-conduct/), we will no longer pursue your candidacy and will inform you of that. We will also not respond any further to you. We aim to hire only people who align with our [values](/handbook/values/).
 
-
 </details>
 
 <details>
@@ -47,21 +46,10 @@ Read more about [our outbound hiring model](/jobs/faq/#gitlabs-outbound-recruiti
     Average Time-to-Hire 
   </summary>
 
-We strive to be as expeditious as possible in our hiring process. However, the speed of the process can and does vary. The following is our average *time-to-hire* (i.e. the number of days it takes from the time a candidate starts the recruitment process to when an offer is accepted). The *80th Percentile* has been included to account for outliers.
+We strive to be as expeditious as possible in our hiring process. However, the speed of the process can and does vary. To see our historical and recent trends related to time-to-hire, please view the [Time to Offer Accept (Days)](https://about.gitlab.com/handbook/hiring/performance_indicators/#time-to-offer-accept-days) chart on the **Recruiting Performance Indicators** page.
 
-- Overall: **53.06 days**
-- Engineering: 60.17 days
-- *80th Percentile: 51.17 days*
-- G&A: 46.13 days
-- *80th Percentile: 29.00 days*
-- Marketing: 42.32 days
-- *80th Percentile: 33.56 days*
-- Product: 73.33 days
-- *80th Percentile: 68.60 days*
-- Sales: 51.63 days
-- *80th Percentile: 37.79 days*
-
-Source: Greenhouse (ATS); September 2019   
+To note, this metric is calculated by taking the number of days it takes from the time a candidate starts the recruitment process to when they accept an offer.
+  
 </details>
 
 <details>
