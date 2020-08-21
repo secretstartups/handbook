@@ -50,9 +50,32 @@ A video tutorial of the field marketing and events issue creation process can be
 
 
 ## Field Marketing Approval Matrix
-If you are in Field Marketing, please note the below approval matrix. Select the appropriate approvals based on your contract threshold and copy and paste into the approval section of the Software/SaaS template.
 
-1. Contracts between $0 & $9,999 USD can be approved by individual DRI 
-1. Contracts between $10,000 - $19,999 USD require approval checkoff from individual DRI and the Field Marketing Country Manager 
-1. Contracts between $20,000 - $25,000 USD require approval checkoff from individual DRI, the Field Marketing Country Manager and the Global Director of Field Marketing
-1. Contracts over $25,000 USD require approval checkoff from individual DRI, the Field Marketing Country Manager, the Global Director of Field Marketing, the Sr. Director of Revenue Marketing and the CMO (who should be tagged by the Sr. Director of Revenue Marketing once their approval has been signed off)
+If you are in Field Marketing, please note the below approval matrix. Select the appropriate approvals based on your contract threshold and copy and paste into the approval section of the procurement template.
+
+Contracts between $0 & $9,999 USD require approval checkoff from:
+
+- [ ] `@ mention DRI`
+- [ ] `@ mention the Field Marketing Country Manager`
+
+Contracts between $10,000 - $24,999 USD require approval checkoff from:
+
+- [ ] `@ mention DRI`
+- [ ] `@ mention the Field Marketing Country Manager` - once the FM Country Manager has signed off, he/she will add the Global Director of Field Marketing
+- [ ] `Global Director of Field Marketing`
+
+Contracts between $25,000 - $49,999 USD require approval checkoff from:
+
+- [ ] `@ mention DRI`
+- [ ] `@ mention the Field Marketing Country Manager` - once the FM Country Manager has signed off, he/she will add the Global Director of Field Marketing
+- [ ] `Global Director of Field Marketing` - once the Global Director of Field Marketing has signed off, he/she will add the Sr. Director of Revenue Marketing
+- [ ] `Sr. Director of Revenue Marketing`
+
+Contracts between $50,000 - $99,999 USD require approval checkoff from:
+
+- [ ] `@ mention DRI`
+- [ ] `@ mention the Field Marketing Country Manager` - once the FM Country Manager has signed off, he/she will add the Global Director of Field Marketing
+- [ ] `Global Director of Field Marketing` - once the Global Director of Field Marketing has signed off, he/she will add the Sr. Director of Revenue Marketing
+- [ ] `Sr. Director of Revenue Marketing` - once the Sr. Director of Rev Marketing has signed off he/she will tag the CMO
+- [ ] `@ mention the CMO`
+
