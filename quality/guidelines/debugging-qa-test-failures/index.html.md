@@ -85,6 +85,7 @@ Please use this step if there are no issues created to capture the failure. If t
    *  For staging environment-related failures, you can post a question in [`#infrastructure-lounge`](https://gitlab.slack.com/archives/CB3LSMEJV), or open an issue in the [infrastructure project](https://gitlab.com/gitlab-com/gl-infra/infrastructure)
    *  Ask for help in [`#quality`](https://gitlab.slack.com/archives/C3JJET4Q6) if you're unsure where to file the issue.
 1. In the relevant Slack channel, add the :boom: emoji and reply to the failure notification with a link to the issue.
+1. Add the issue as a related issue to the current pipeline triage report.
 
 #### 3. Investigate the failure further
 
