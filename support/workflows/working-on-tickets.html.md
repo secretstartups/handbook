@@ -93,12 +93,13 @@ See the [Working on Tickets Flowchart](#working-on-tickets-flowchart) for a visu
 
 1. Teamwork is really important with this workflow. Be aware of what's happening
    across the board: watch Slack channels for requests from other SEs on their
-   tickets, and check the `.com with SLA` or `SM with SLA` view (depending on
-   your current focus) occasionally for tickets that need some help. To be sure
-   that your suggestions align with the work the assignee has already done,
-   it's best to post an internal note or to pair with them. If you decide to
-   post a public response, be sure that your next steps align with the action
-   plan that the assignee has described on their replies or ticket summary.
+   tickets, and check the `.com with SLA`, `.com Accounts, Groups, Login`, or
+   `SM with SLA` view (depending on your current focus) occasionally for tickets
+   that need some help. To be sure that your suggestions align with the work
+   the assignee has already done, it's best to post an internal note or to pair
+   with them. If you decide to post a public response, be sure that your next
+   steps align with the action plan that the assignee has described on their
+   replies or ticket summary.
 1. When you send the user an update, the normal action is to set the ticket status to `Pending`. We are now waiting for a reply from the user and there is no SLA clock counting.
 1. Occasionally you will send a user a reply letting them know that you're going to follow up with further information. In this case you should set the ticket status to `Open` or `On-hold`. When this happens ZenDesk still removes the SLA. To help ensure we don't forget to follow up, a trigger automatically assigns the ticket to you (if it's not already assigned to someone else) so that you can see it in your view.
 1. For all tickets in which the user is waiting on a response from Support, **always provide an update** on its status and work that has been done. Aim to do this daily, and definitely no less than every four days (the length of the On-hold period).
