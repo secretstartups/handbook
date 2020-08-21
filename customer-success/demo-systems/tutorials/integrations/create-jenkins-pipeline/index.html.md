@@ -38,8 +38,9 @@ If you're using your own existing project, please follow the instructions in **O
 6. After filling in the form, click the **Create project** button.
 
 #### Option B: Add a `Jenkinsfile` to your existing project
+Note: a `Jenkinsfile` will only be used if you create a pipeline job.  You can skip this step if you want to show the integration with a freestyle job defined in Jenkins instead.  Configuration for both options is included in this tutorial.
 
-If you're using your own project, you will need to create a new file named `Jenkinsfile` (without a file extension) in the top-level directory of your project where your README file is.
+If you're using your own project, you will need to create a new file named `Jenkinsfile` (without a file extension) in the root level of your project where your README file is.
 
 ``` {4}
 /app/
@@ -49,7 +50,35 @@ Jenkinsfile
 README.md
 ```
 
-As a starting point, you can use the examples provided in the Jenkins docs based on the language of your application.
+As a starting point, you can use an example that shows a few basic Jenkins stages that will report status back to GitLab.  Note: this Jenkinsfile does not actually perform a build or test, it just shows where the specific commands for build and test should go, using an `echo`.
+
+```
+pipeline {
+    agent any
+    stages {
+       stage('build') {
+          steps {
+             echo 'Notify GitLab'
+             updateGitlabCommitStatus name: 'build', state: 'pending'
+             echo 'build step goes here'
+             updateGitlabCommitStatus name: 'build', state: 'success'
+          }
+       }
+       stage(test) {
+           when {triggeredBy 'TimerTrigger'}
+           steps {
+               echo 'Notify GitLab'
+               updateGitlabCommitStatus name: 'test', state: 'pending'
+               echo 'test step goes here'
+               updateGitlabCommitStatus name: 'test', state: 'success'
+
+           }
+       }
+    }
+ }
+ ```
+
+There are additional examples provided in the Jenkins docs based on the language of your application.
 
 [Jenkinsfile Examples](https://jenkins.io/doc/pipeline/tour/hello-world/#examples)
 
@@ -91,6 +120,8 @@ Keep in mind that this is a shared environment and it is best practice create a 
 
 ### Task 4. Create a Jenkins project
 
+#### Option A - Create a Freestyle Project (no Jenkinsfile needed for this)
+
 1. In the top left of the page, click the Jenkins logo to navigate to the dashboard.
     > It is understandable that the Jenkins UI can be a challenge to navigate. If you have any challenges, simply click on the Jenkins logo in the top left to go back to the dashboard and navigate from there.
 
@@ -110,17 +141,19 @@ Keep in mind that this is a shared environment and it is best practice create a 
     tutorial-app-jenkins-pipeline
     ```
 
-5. Click the **Freestyle project** type from the list of options.
+5. Choose either the **Freestyle project** or **Pipeline** type from the list of options.
 
 6. Click the **OK** button in the bottom left corner.
 
 7. You will be redirected to the project configuration page.
 
-### Task 5. Configure Jenkins project to integrate with GitLab
+### Task 5. Configure your Jenkins project
 
-If you are not on the project configuration page from the previous task, you can navigate here from the dashboard by clicking on your folder, then your project and clicking **Configure** link in the left sidebar.
+#### Option A - Freestyle Project (no Jenkinsfile needed for this)
 
-1. In the General section, enable the checkbox for **GitHub project**.
+1. If you are not on the project configuration page from the previous task, you can navigate here from the dashboard by clicking on your folder, then your project and clicking **Configure** link in the left sidebar.
+
+In the General section, enable the checkbox for **GitHub project**.
     > One of the cosmetic limitations of the integration is that the GitLab integration use the integration built for GitHub so there is some nomenclature overlap that use the same underlying Git integration.
 
 2. Below the GitHub project checkbox, locate the **Project url** field copy/paste or type the URL of your GitLab project.
@@ -176,6 +209,64 @@ If you are not on the project configuration page from the previous task, you can
 
 15. Click the **Save** button.
 
+#### Option B - Pipeline project
+1.  If you are not on the project configuration page from the previous task, you can navigate here from the dashboard by clicking on your folder, then your project and clicking **Configure** link in the left sidebar.
+
+In the General section, enable the checkbox for **GitHub project**.
+    > One of the cosmetic limitations of the integration is that the GitLab integration use the integration built for GitHub so there is some nomenclature overlap that use the same underlying Git integration.
+
+2. Below the GitHub project checkbox, locate the **Project url** field copy/paste or type the URL of your GitLab project.
+```
+Example
+https://gitlab-core.us.gitlabdemo.cloud/demosys-users/jeffersonmartin/tutorial-app-jenkins-pipeline
+```
+
+3. In the **GitLab Connection** field, select the `GitLab Core US` option from the dropdown menu if it's not already selected. This connection was configured by the system administrator earlier.
+
+    ![GitLab Connection](https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/integrations/create-jenkins-pipeline-5.png)
+
+4. Scroll down to the **Build Triggers** section. Enable the checkbox for `Build when a change is pushed to GitLab`. Leave all options at their default value.
+
+    ![Build triggers](https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/integrations/create-jenkins-pipeline-8.png)
+
+
+5. In the Pipeline section, use the Definition dropdown to choose `Pipeline Script from SCM`
+
+6. For SCM, choose `Git`
+
+7. In the expanded section, locate the **Repository URL** field and copy/paste the GitLab project URL (same URL as step 2).
+
+    ```
+    Example
+    https://gitlab-core.us.gitlabdemo.cloud/demosys-users/jeffersonmartin/tutorial-app-jenkins-pipeline
+    ```
+
+    > You may get an error message about connection error. This is expected behavior since there are no credentials selected. Simply proceed to the next step to select credentials from the dropdown menu.
+
+    ![Credential Error Message](https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/integrations/create-jenkins-pipeline-6.png)
+
+8. Locate the **Credentials** dropdown menu and select the `integ_jenkins` option. **Do not add new credentials in the demo environment.**
+
+    > After you select the `integ_jenkins` option, the Jenkins server attempts to connect to the API of the GitLab instance to locate your repository URL. If successful, the error message will disappear automatically.
+
+9. Click the **Advanced** button.
+
+10. In the **Name** field, type in `origin`.
+
+11. In the **Refspec** field, type in the following. This is directly from the documentation and is not customized for the demo environment.
+
+    ```
+    +refs/heads/*:refs/remotes/origin/* +refs/merge-requests/*/head:refs/remotes/origin/merge-requests/*
+    ```
+
+12. In the **Branch Specifier** field, remove the `*/master` field so that it is blank. This allows jobs to run for all branches (useful when testing a MR).
+
+    ![Source Code Management Review](https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/integrations/create-jenkins-pipeline-7.png)
+
+13. For Script Path, leave `Jenkinsfile` as is.
+
+14. Click Save
+
 ### Task 6. Generate an API Token for GitLab Integration
 
 In the demo environment, each user generates their own API Token. In a production environment, you may want to create a service account-style user for the integration to simplify administration of API tokens if your security practices allow for that.
@@ -211,7 +302,7 @@ If you still have your GitLab project in a different browser tab or window, you 
 
 4. In the list of projects on Gitlab, click the title of the application you used earlier (Ex. `Tutorial App - Jenkins Pipeline`).
 
-5. With the project open, verify that the `Jenkinsfile` exists in the repository. You do not need to make any changes.
+5. With the project open, verify that the `Jenkinsfile` exists in the root of the repository. You do not need to make any changes.
     > If the file does not exist, go back to Task 1 to create a `Jenkinsfile` or ensure that you're looking at the same GitLab project you started with earlier.
 
 6. In the left sidebar, navigate to **Settings > CI/CD**.
