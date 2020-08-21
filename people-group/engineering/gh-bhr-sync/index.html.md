@@ -102,8 +102,8 @@ Slack command:
 /pops run syncnewhire <id_in_greenhouse>
 ```
 
-This will sync this person as it is described aboved. It is recommended that you
-also create a [GitLab issue](https://gitlab.com/gitlab-com/people-group/peopleops-eng/employment-automation/issues/new?issuable_template=bug_with_greenhouse_bamboo_sync) so the team can investigate what went wrong.
+This will sync this person as it is described aboved. You can find the team member's ID in Greenhouse by looking at the URL for the member in Greenhouse. It is an 11-digit number listed between /people/ and the ? symbol. It is recommended that you
+also create a [GitLab issue](https://gitlab.com/gitlab-com/people-group/peopleops-eng/employment-automation/issues/new?issuable_template=bug_with_greenhouse_bamboo_sync) so the team can investigate what went wrong. 
 
 ### Resync Team Member
 
@@ -115,5 +115,5 @@ execute the following Slack command:
 ```
 
 This command will trigger a pipeline and the candidate will be fully resynced to the existing profile
-on BambooHR. When manual changes were made on the BambooHR profile there is a chance they are wiped out
+on BambooHR. You can find the team member's ID in Greenhouse by looking at the URL for the member in Greenhouse. It is an 11-digit number listed between /people/ and the ? symbol. When manual changes were made on the BambooHR profile there is a chance they are wiped out
 by the resync.
