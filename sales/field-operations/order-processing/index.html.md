@@ -56,13 +56,14 @@ This page outlines the Quote to Cash process, starting from quote creation, to a
 2. Click the "New" button.
 3. Select either "Standard" or "Channel" record type. Each record tgype will have a different account layout.
     * "Standard" = all non-reseller/distributor accounts
-    * "Channel" - only reseller/distributor accounts
+    * "Channel" - only reseller/distributor accounts (note: sales should not create channel accounts, see point 6)
     * Note: Partners who are also customers must have two separate accounts - one Channel type account, and one Standard type account.
 4. On the Create Account screen, do the following:
     * Complete all mandatory fields.
     * Be sure to enter the correct URL under "Domain" as this impacts the identification of the customer and related sales segment.
     * Click Save.
 5. Be sure to enter detailed information regarding the customer or partner, including full legal name, full billing address, and other pertinent details.
+6. If the account is a `Channel` account, it should be created via the partner creating an account in Impartner or manually via Channel Operations. Sales should not create Channel accounts and should Slack [#channel-ops](https://gitlab.slack.com/archives/CTM4T5BPF).
 
 ### Step 2 - Create/Edit a Contact
 
