@@ -65,7 +65,6 @@ pipeline {
           }
        }
        stage(test) {
-           when {triggeredBy 'TimerTrigger'}
            steps {
                echo 'Notify GitLab'
                updateGitlabCommitStatus name: 'test', state: 'pending'
