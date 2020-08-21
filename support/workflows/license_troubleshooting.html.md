@@ -25,9 +25,8 @@ The list of common requests/issues below is reference for internal support engin
 
 
 ## Transactions
+
 Transactions at GitLab are defined as anything related to purchasing; issues or questions. For example. credit card problems, bugs, trying to make a purchase and running into confusion/problems etc.
-
-
 
 1. **User reports an inability to upgrade from one paid plan to another.**
 
@@ -36,7 +35,7 @@ Transactions at GitLab are defined as anything related to purchasing; issues or 
 
 1. **User wants to trial a plan other than Gold on GitLab.com.** GitLab.com [only offers the self-service ability to trial the Gold subscription](https://gitlab.com/gitlab-org/customers-gitlab-com/issues/409). With manager approval, GitLab.com support can assist with trials of other plans. Ask the user to create the GitLab.com Gold trial, then change the plan via the customers portal admin `GitLab Groups` page.
 
-1. **User receives an error during the purchasing process within the [customers portal](https://customers.gitlab.com/customers/sign_in).** When purchasing a subscription via the customers portal if a user receives an error about an address or credit card, check the address listed in the `My Account` section of the customers portal. This is typically due to a bad address (city/state/zip code). If the address is correct and the error persists, change the Zendesk form to "GitLab.com". The support team will submit [an issue](https://gitlab.com/gitlab-com/support/dotcom/dotcom-escalations/issues) and utilize the "Customers Console Escalation" label. A support engineer will rule out if this is a billing or bad data issue and advise if a [customers portal issue](https://gitlab.com/gitlab-org/customers-gitlab-com/issues) is needed.
+1. **User receives an error during the purchasing process within the [customers portal](https://customers.gitlab.com/customers/sign_in).** When purchasing a subscription via the customers portal if a user receives an error about an address or credit card, check the address listed in the `My Account` section of the customers portal. This is typically due to a bad address (city/state/zip code). If the address is correct and the error persists, check sentry for a relevant error and file an issue in the [customers portal tracker](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/) as necessary.
 
 1. **User wants to downgrade subscription.** There is currently [no ability to downgrade a subscription from a self-service perspective](https://gitlab.com/gitlab-org/customers-gitlab-com/issues/368). If a user wants to downgrade and they are within 45 days of the purchase, send the request to the AR team by selecting the form `Accounts Receivable` in Zendesk and advise the user to purchase the desired plan once cancelled/refunded. If the user is outside of the 45 day period, advise them that we can cancel the purchase but the subscription will not be refunded. In this case you can also consider passing the issue to the assigned Account Manager in sales if the deal is midmarket or higher.
 
