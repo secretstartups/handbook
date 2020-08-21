@@ -28,7 +28,7 @@ Watch a quick [video on Gainsight CTAs](https://www.youtube.com/watch?v=qkjmTh3Q
 
 ### Types of CTAs
 
-There are 4 "types" of CTAs, which will have different corresponding playbooks, so if you're looking for a particular playbook be sure to select the appropriate type. See below for each type and the corresponding playbooks for that type.
+There are 5 "types" of CTAs, which will have different corresponding playbooks, so if you're looking for a particular playbook be sure to select the appropriate type. See below for each type and the corresponding playbooks for that type.
 
 * Risk
   * [Account Triage](/handbook/customer-success/tam/health-score-triage/#triage-cta)
@@ -44,6 +44,8 @@ There are 4 "types" of CTAs, which will have different corresponding playbooks, 
   * Usage Data Enablement
 * Activity
   * [Handoff](/handbook/customer-success/tam/account-handoff/#account-handoff-cta)
+* Renewal
+  * [Upcoming Renewa](/handbook/customer-success/tam/renewals/)
 
 If the CTA you're opening does not fall into one of the playbook categories, choose the type that makes the most sense. If it's a common CTA, suggest creating a playbook for the it by [opening an issue](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/boards/1731118?&label_name[]=gainsight).
 
