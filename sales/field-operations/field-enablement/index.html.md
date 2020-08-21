@@ -189,6 +189,7 @@ The below is a work in progress as we define success measures across each stage 
              - `vff::accepted` = Value Framework feedback that will be actioned on
              - `vff::deferred` = Value Framework feedback that will be deferred until more information is gathered
              - `vff::declined` = Value Framework feedback that is declined (no action will be taken)
+          - `lxp` - label for GitLab Learning Experience Platform / Learning Management System
           - `onboarding` - label for issues related to onboarding
           - `sales enablement sessions` - label for weekly virtual sales enablement series
           - `sko` - label for issues related to Sales Kick Off
