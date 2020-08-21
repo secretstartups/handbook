@@ -11,10 +11,6 @@ title: "Sales Finance"
 
 ## Welcome to the Sales Finance Handbook!
 
-## Common Links
-
-  * [Professional Services (PS) Finance](/handbook/finance/financial-planning-and-analysis/Sales-Finance/Professional-Services-Finance)
-
 ### Finance Business Partner Alignment
 
 | Name | Function |
