@@ -46,3 +46,20 @@ There are 4 "types" of CTAs, which will have different corresponding playbooks, 
   * [Handoff](/handbook/customer-success/tam/account-handoff/#account-handoff-cta)
 
 If the CTA you're opening does not fall into one of the playbook categories, choose the type that makes the most sense. If it's a common CTA, suggest creating a playbook for the it by [opening an issue](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/boards/1731118?&label_name[]=gainsight).
+
+#### CTA Status
+
+CTA statuses are defined below:
+* New - brand new CTA, has yet to be started
+* Work in progress - CTA currently being worked on by a TAM 
+* Closed Success - this CTA was completed with a positive (or intended) outcome
+* Closed Lost: Not a Priority - customer doesn't see this as a top objective to pursue
+* Closed Lost: Competitor Tech Loss - we lost to a competitor
+* Closed Lost: Product Roadblock - customer does not believe they can adopt because GitLab does not ______
+* Closed Lost: Not our Dept - requires a different department, typical in siloed organizations
+* Closed Lost: Already Solved - this CTA was already completed (e.g., duplicate CTA)
+
+
+
+
+
