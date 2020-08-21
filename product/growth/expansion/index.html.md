@@ -16,17 +16,17 @@ The Expansion Team at GitLab focuses on running experiments to increase the expa
 
 ## Communication
 
-- [Public Issue Board](https://gitlab.com/gitlab-org/growth/product/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=); to propose an experiment for the `~"group::expansion"` team, create a new issue label it with `~"devops::growth"``~"group::expansion"'
+- [Public Issue Board](https://gitlab.com/gitlab-org/growth/product/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=); to propose an experiment for the `~"group::expansion"` team, create a new issue label it with `~"devops::growth"` `~"group::expansion"`
 
 ## How We Work
 
-As part of the wider Growth stage we track and work on issues with the label combination of `~"devops::growth"` `~"group::expansion"'.
+As part of the wider Growth stage we track and work on issues with the label combination of `~"devops::growth"` `~"group::expansion"`.
 
 ### Product Development Flow
 
-Our team follows the [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/#workflow-summary) utilizing all labels from `~workflow::start` to `~workflow::verification`.
+Our team follows the [Product Development Flow](/handbook/product-development-flow/#workflow-summary) utilizing all labels from `~workflow::start` to `~workflow::verification`.
 
-We adhere to the **Completion Criteria** and **Who Transitions Out** outlined in the [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/#workflow-summary) to progress issues from one stage to the next.
+We adhere to the **Completion Criteria** and **Who Transitions Out** outlined in the [Product Development Flow](/handbook/product-development-flow/#workflow-summary) to progress issues from one stage to the next.
 
 #### Workflow Boards
 
@@ -57,4 +57,4 @@ As we work on building product and experiments we create multiple issues which t
 ## Related Links
 
 - [Product Direction Page for Expansion](https://about.gitlab.com/direction/expansion/)
-- [Growth Handbook](https://about.gitlab.com/handbook/product/growth/)
+- [Growth Handbook](/handbook/product/growth/)

@@ -23,11 +23,11 @@ Please feel free to contribute to this page by opening a merge request.
 - I have many strong opinions, but they’re [weakly held](https://blog.codinghorror.com/strong-opinions-weakly-held/). I love finding a new perspective that makes me change my opinion, because it means that I’ve gotten a chance to learn something substantive and new.
 - I still struggle with imposter syndrome.
 
-While all of GitLab’s values are extremely important to me, our values of [collaboration](https://about.gitlab.com/handbook/values/#collaboration), [diversity, inclusion and belonging](https://about.gitlab.com/handbook/values/#diversity--inclusion), and [transparency](https://about.gitlab.com/handbook/values/#transparency) are particularly dear to me.
+While all of GitLab’s values are extremely important to me, our values of [collaboration](/handbook/values/#collaboration), [diversity, inclusion and belonging](/handbook/values/#diversity-inclusion), and [transparency](/handbook/values/#transparency) are particularly dear to me.
 
 ### 360 Feedback
 
-Although performance feedback is typically [not public by default](https://about.gitlab.com/handbook/communication/#not-public), in the spirit of transparency I am choosing to share my most recent 360 feedback from [June 2020](https://drive.google.com/file/d/1Y6S0w3nZjN_WANFxme9k87OUix6l1I_a/view?usp=sharing) and [January 2019](https://drive.google.com/open?id=1h8VrRxkfNewCja1BVb9-_Yhu0WSucKAK) here. I have an [issue to track areas of improvement](https://gitlab.com/gitlab-org/manage/general-discussion/-/issues/17235) I'd like to focus on from my latest round of feedback. I may or may not share future 360 reviews as I always want others to be able to provide me with candid feedback, especially about areas for improvement, without fear that their words (even anonymously) may be made public.
+Although performance feedback is typically [not public by default](/handbook/communication/#not-public), in the spirit of transparency I am choosing to share my most recent 360 feedback from [June 2020](https://drive.google.com/file/d/1Y6S0w3nZjN_WANFxme9k87OUix6l1I_a/view?usp=sharing) and [January 2019](https://drive.google.com/open?id=1h8VrRxkfNewCja1BVb9-_Yhu0WSucKAK) here. I have an [issue to track areas of improvement](https://gitlab.com/gitlab-org/manage/general-discussion/-/issues/17235) I'd like to focus on from my latest round of feedback. I may or may not share future 360 reviews as I always want others to be able to provide me with candid feedback, especially about areas for improvement, without fear that their words (even anonymously) may be made public.
 
 ## My role as Group Manager
 
@@ -58,16 +58,16 @@ I also want to be an avid supporter of your career path. Your career belongs to 
 
 - At times, I struggle to find a balance between my personal life and my work life. This is an area of growth for me, and I’m grateful to others when they chastise me for working too much.
 - No weekend work. If you find yourself feeling pressure to work on the weekend, please bring it up with me immediately so we can solve for the root cause of that pressure together.
-- Unless specifically mentioned, I don’t expect immediate responses from anyone. I [respect others’ time](https://about.gitlab.com/handbook/communication/#be-respectful-of-others-time) and want you to have the space for a thoughtful response.
+- Unless specifically mentioned, I don’t expect immediate responses from anyone. I [respect others’ time](/handbook/communication/#be-respectful-of-others-time) and want you to have the space for a thoughtful response.
     - I don’t keep Slack on my phone in an effort to stay disconnected from work during down time. Please consider doing the same.
 
 ## What I assume about others
 
-- [Positive intent](https://about.gitlab.com/handbook/values/#assume-positive-intent).
-- You’re the [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/). You’re better at your job than I am! You know best, and you’ll tell me if there’s something preventing you from doing your best work possible.
+- [Positive intent](/handbook/values/#assume-positive-intent).
+- You’re the [DRI](/handbook/people-group/directly-responsible-individuals/). You’re better at your job than I am! You know best, and you’ll tell me if there’s something preventing you from doing your best work possible.
     - If I disagree with you, I may try to steer you down a different path. But me disagreeing with you doesn’t mean that you’re doing something wrong as long as you’re collaborating effectively with me and our teammates.
 - You’ll ask for my input and help if it’s needed.
-- Work is absolutely not the most important thing in your life. I assume that there are [cherished relationships](https://about.gitlab.com/handbook/values/#family-and-friends-first-work-second) and personal interests that are more important to your happiness, and it’s hard to be happy with your job when work detracts from those things.
+- Work is absolutely not the most important thing in your life. I assume that there are [cherished relationships](/handbook/values/#family-and-friends-first-work-second) and personal interests that are more important to your happiness, and it’s hard to be happy with your job when work detracts from those things.
 
 ## What I want to earn
 

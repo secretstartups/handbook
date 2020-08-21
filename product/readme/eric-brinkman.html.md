@@ -86,8 +86,9 @@ Throughout the spring of 2020, we ran a company wide 360 feedback process. The f
 - [Final Fantasy 3](https://en.wikipedia.org/wiki/Final_Fantasy_VI)
 - [Legend of Zelda: Breath of the Wild](https://www.amazon.com/Legend-Zelda-Breath-Wild-Nintendo-Switch/dp/B01MS6MO77/ref=sr_1_2?keywords=breath+of+the+wild&qid=1573590591&sr=8-2)
 - [Super Mario Odyssey](https://www.amazon.com/Super-Mario-Odyssey-Nintendo-Switch/dp/B01MUA0D2A/ref=sr_1_2?crid=VQ06PWJDDHPP&keywords=super+mario+odyssey&qid=1573590622&sprefix=super+mario+odyssey%2Caps%2C196&sr=8-2)
+- [God of War](https://en.wikipedia.org/wiki/God_of_War_%282018_video_game%29)
 
-**Movies**
+Movies
 
 - [Braveheart](https://www.amazon.com/Braveheart-Gladiator-Double-Feature-Blu-ray/dp/B06XGRB8KM/ref=sr_1_3?keywords=braveheart&qid=1573590684&sr=8-3)
 - [Interstellar](https://www.amazon.com/Interstellar-Matthew-McConaughey/dp/B00TU9UFTS/ref=sr_1_1?keywords=interstellar&qid=1573590722&sr=8-1)
