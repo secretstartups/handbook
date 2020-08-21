@@ -49,7 +49,7 @@ During Onboarding, the TAM should also review the fields in the C360 to create a
 
 ## Time to Value Metrics
 
-The [Time to Value KPIs](https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis) are developed to help us understand key facts about how we are serving our customers, and how we could improve. Below are the processes for how TAMs should update and track their Time to Value KPIs. For definitions, please see [Time to Value KPIs](https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis).
+The [Time to Value KPIs](https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis) are developed to help us understand key facts about how we are serving our customers, and how we could improve. Below are the processes for how TAMs should update and track their Time to Value KPIs. For definitions, please see [Time to Value KPIs](https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis). For data visualization, see [Customer Onboarding Dashboard](https://gitlab.gainsightcloud.com/v1/ui/home#58502af5-e7c2-4cbd-8645-d612b74424ff).
 
 ### Time to Engage
 
