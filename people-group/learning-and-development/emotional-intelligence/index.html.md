@@ -100,6 +100,7 @@ In order to develop your EQ, you need to understand your current baseline of how
 3.  [Mind Tools EQ Quiz](https://www.mindtools.com/pages/article/ei-quiz.htm) 
 4.  [University of California at Berkley EQ Assessment](https://greatergood.berkeley.edu/quizzes/ei_quiz/take_quiz)
 5.  [Psychology Today EQ Test](https://www.psychologytoday.com/us/tests/personality/emotional-intelligence-test)
+6.  [Growth versus Fixed Mindset Assessment](https://blog.mindsetworks.com/what-s-my-mindset)
 
 ## Related pages on emotional intelligence (EQ)
 
