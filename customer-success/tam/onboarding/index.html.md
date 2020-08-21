@@ -17,7 +17,7 @@ Customer Onboarding is the [beginning phase of the customer lifecycle](/handbook
 
 ### CTA Creation Criteria
 
-When a customer purchases or upgrades GitLab to an ARR of $50,000 or greater, a Call To Action (CTA) is triggered within Gainsight for new Enterprise (50k+ ARR) and Mid-Market (20k+ ARR) accounts. 
+When a customer purchases or upgrades GitLab to an ARR of $50,000 or greater, a [Call To Action (CTA)](/handbook/customer-success/tam/gainsight/ctas) is triggered within Gainsight for new Enterprise (50k+ ARR) and Mid-Market (20k+ ARR) accounts. 
 
 A CTA is created for the TAM Manager if the TAM field is not populated. Once populated, an Onboarding CTA is kicked off for the TAM. The Onboarding CTA creates a Playbook with guided steps for the next several weeks.
 
