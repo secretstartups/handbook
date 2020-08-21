@@ -229,7 +229,9 @@ A Partial Service Disruption is when only part of the GitLab.com services or inf
 
 #### High Severity Bugs
 
-In the case of high severity bugs, we prefer that and incident issue is still created via [Reporting an Incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident).  This will give us an incident issue on which to track the events and response.
+In the case of high severity bugs, we prefer that an incident issue is still created via [Reporting an Incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident).  This will give us an incident issue on which to track the events and response.
+
+In the case of a high severity bug that is in an ongoing, or upcoming deployment please follow the steps to [Block a Deployment](https://about.gitlab.com/handbook/engineering/releases/#deployment-blockers).
 
 ### Security Incidents
 
