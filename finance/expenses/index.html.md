@@ -12,26 +12,28 @@ title: Expenses
 ## Introduction
 
 Welcome to the Expenses page!  You should be able to find answers to most of your questions here.  If you can't find what you are looking for, then:
-- **Chat channel**: `#expense-reporting-inquiries`
-- **Email**: `expenses@gitlab.com`
+- **Chat channel**: `#expense-reporting-inquires`
+- **Email**: `ap@gitlab.com`
 
-All team members will have access to Expensify within 2 days from their hire date.  If you didn't receive an email from Expensify for your access, then please contact expenses@gitlab.com. Expense reports are to be submitted once a month, at least. Additional information on getting started with Expensify and creating/submitting expense reports can be found [here.](https://docs.expensify.com/using-expensify-day-to-day/using-expensify-as-an-expense-submitter/report-actions-create-submit-and-close)
+GitLab utitilizes Expensify as our team member expense reimbursement tool. All team members will have access to Expensify within 2 days from their hire date.  If you didn't receive an email from Expensify for your access, please contact ap@gitlab.com. Expense reports are to be submitted at least once a month. Additional information on getting started with Expensify and creating/submitting expense reports can be found [here.](https://docs.expensify.com/using-expensify-day-to-day/using-expensify-as-an-expense-submitter/report-actions-create-submit-and-close)
 
-The procedure by which reimbursable expenses are processed varies and is dependent on contributor legal status (e.g. independent contractor, employee) and subsidiary assignment (BV, Canada Corp, Federal, Inc, GmbH, LTD, PTY). Check with Payroll if you are unsure about either of these.
+The procedure by which reimbursable expenses are processed varies and is dependent on contributor legal status (e.g. independent contractor, employee) and [subsidiary assignment](https://about.gitlab.com/handbook/tax/#tax-procedure-for-maintenance-of-gitlabs-corporate-structure). Check with Payroll if you are unsure about either of these.
 
-For information regarding the company expense policy, check out the section of our team handbook on [Spending Company Money](/handbook/spending-company-money). Managers and Payroll team will review the expenses for compliance with the company travel policy.  The CEO will review selected escalations at least annually.
+For general information and guidelines regarding the company expense policy, check out the section of our team handbook on [Spending Company Money](/handbook/spending-company-money). Managers and Accounts Payable team will review the expenses for compliance with the company travel policy.  The CEO will review selected escalations at least annually.
 
-Team members should also consider the terms and conditions of their respective contractor agreements, when submitting invoices to the company.
+Team members should also consider the terms and conditions of their respective contractor agreements when submitting invoices to the company.
 
-Team members in a US policy will be automatically reimbursed through Expensify after their report is "final approved" within 7 business days by Payroll team. For all other team members, please see the reimbursement process below based on your location or employment status
+Team members in a US policy will be automatically reimbursed through Expensify after their report is "final approved" within 7 business days by Payroll team. For all other team members, please see the reimbursement process below based on your location or employment status.
 
 ## Office Equipment and Supplies
 
 The company will reimburse for the following items if you **need it for work or use it mainly for business**, and local law allows us to pay for it without incurring payroll taxes. Please keep in mind that while the amounts below are guidelines and not strict limits, any purchase (other than a laptop) that will cost GitLab $1000 USD per item (or over) will require approval from your Manager and Accounting.
 
-The below averages are what GitLab **usually** reimburse. If you prefer to spend more on a given item, that's OK considering the average price. You may attach the receipt during expensing which shows the full purchase price. You are also welcome to expense the `GitLab Average Price in USD` portion. For example, if you purchase a high-end Steelcase ergonomic chair, you are welcome to expense the average price per the table below and cover the rest with personal funds. We are encouraging our members to use their best judgment when spending the company's money. 
+The below averages are what GitLab **usually** reimburses. If you prefer to spend more on a given item, that's OK considering the average price. You may attach the receipt during expensing which shows the full purchase price. You are also welcome to expense the `GitLab Average Price in USD` portion. For example, if you purchase a high-end Steelcase ergonomic chair, you are welcome to expense the average price per the table below and cover the rest with personal funds. We are encouraging our members to use their best judgment when spending the company's money. 
 
-Team members should not use a Corporate Card to purchase office equipment for their personal workspace.  All office equipment purchases for a team member's personal workspace should be made on a personal credit card and expensed.  For Laptop Purchases/Refreshes, please refer to [IT Ops Laptop](/handbook/business-ops/team-member-enablement/onboarding-access-requests/#laptops) policy and procedure.
+Team members should not use a Corporate Card to purchase office equipment for their personal workspace.  All office equipment purchases for a team member's personal workspace should be made on a personal credit card and expensed.  
+
+For Laptop Purchases/Refreshes, please refer to [IT Ops Laptop](/handbook/business-ops/team-member-enablement/onboarding-access-requests/#laptops) policy and procedure.
 
 ### Setting up a home office for the first time?
 
@@ -89,31 +91,32 @@ Any agreement must be between the team member and the co-working space (i.e. Git
 
 ### Work-related online courses and professional development certifications
 
-GitLab team members are allotted [$500 USD](/handbook/total-rewards/compensation/#exchange-rates) per fiscal year to spend on one or multiple training courses. Reimbursement past the [$500 USD](/handbook/total-rewards/compensation/#exchange-rates) total allotment requires manager approval, please follow the [Tuition Reimbursement](/handbook/total-rewards/benefits/general-and-entity-benefits/#tuition-reimbursement) process in this case.
+GitLab team members are allotted [$500 USD](https://www1.oanda.com/currency/converter/) per fiscal year to spend on one or multiple training courses. Reimbursement past the [$500 USD](https://www1.oanda.com/currency/converter/) total allotment requires manager approval, please follow the [Tuition Reimbursement](/handbook/total-rewards/benefits/general-and-entity-benefits/#tuition-reimbursement) process in this case.
 1. The company will pay for all courses related to learning how to code (for example [Learning Rails on Codecademy](https://www.codecademy.com/learn/learn-rails)), and you may also allocate work time to take courses that interest you. If you are new to development, we encourage you to learn Git through GitLab, and feel free to ask any questions in the #git-help Slack channel.
-1. Work-related conferences, including travel, lodging, and meals. If total costs exceed [$500 USD](/handbook/total-rewards/compensation/#exchange-rates), reimbursement requires prior approval from your manager.
+1. Work-related conferences, including travel, lodging, and meals. If total costs exceed [$500 USD](https://www1.oanda.com/currency/converter/), reimbursement requires prior approval from your manager.
 	* Before scheduling any travel or time off to attend a conference a team member should review the request with their manager. The manager will approve the request if the conference is work-related and the timing doesn't interfere with GitLab deliverables. After  manager approval the team member can schedule travel and will be reimbursed for related expenses.
 	* We encourage people to be speakers in conferences. More information for people interested in speaking can be found on our [Corporate Marketing](/handbook/marketing/corporate-marketing/#speakers) page.
 	* We suggest to the attendees bring and share a post or document about the news and interesting items that can bring value to our environment.
+1. At GitLab the lingua franca is [US English](/handbook/communication/#american-english), when English is not your native language it can limit you in expressing yourself. The company will pay for certified English lanaguage courses online or in person. There is also the #lang-en channel in Slack to help with any English language questions you might have.
 
 ### Year-end Holiday Party Budget
 
-GitLab grants [$100 USD](/handbook/total-rewards/compensation/#exchange-rates) per GitLab team member for a holiday in December We encourage GitLab team members to self organize holiday parties with those close by, but meeting up with GitLab team members is not a requirement as it is understood that timing and location of holiday parties will play a factor in ability to attend.
+GitLab grants [$100 USD](https://www1.oanda.com/currency/converter/) per GitLab team member for a holiday in December We encourage GitLab team members to self organize holiday parties with those close by, but meeting up with GitLab team members is not a requirement as it is understood that timing and location of holiday parties will play a factor in ability to attend.
 
-For those who do not meet up with GitLab team members, you may expense up to $100 USD December or January for a holiday celebration of your choosing.
+For those who do not meet up with GitLab team members, you may expense up to [$100 USD](https://www1.oanda.com/currency/converter/) in December or January for a holiday celebration of your choosing.
 
-If a group of team members, Department or Division so choose, they are welcome to donate a portion of their per person Holiday budget to Charity.
+If a group of team members, Department or Division so choose, they are welcome to donate a portion of their per person holiday budget to the charity of their choosing.
 
 ## Travel and Expense Guidelines
 
 ### Travel
 
-1. For travel to other team members please see our [visiting grant](/handbook/incentives/#visiting-grant).
+1. For travel to other team members please see our [visiting grant](https://www1.oanda.com/currency/converter/).
 1. If you are taller than 1.95m or 6'5", you can upgrade to Economy Plus. There is no dollar restriction on this since it will be hard to fit in economy with that height.
 1. For flights longer than 8 hours, you can expense:
-   * Up to the first [$300 USD](/handbook/total-rewards/compensation/#exchange-rates) for an upgrade to Business Class on flights longer than 8 hours if you are taller than 1.95m or 6'5".
-    * Up to the first [$100 USD](/handbook/total-rewards/compensation/#exchange-rates) for an upgrade to Economy Plus (no height restriction) on flights longer than 8 hours.
-1. GitLab does not cover expenses for Significant others or family members for travel or immigration. This includes travel and visas for GitLab events.
+   * Up to the first [$300 USD](https://www1.oanda.com/currency/converter/) for an upgrade to Business Class on flights longer than 8 hours if you are taller than 1.95m or 6'5".
+    * Up to the first [$100 USD](https://www1.oanda.com/currency/converter/) for an upgrade to Economy Plus (no height restriction) on flights longer than 8 hours.
+1. GitLab does not cover expenses for significant others or family members for travel or immigration. This includes travel and visas for GitLab events.
 	* There are other things that [the company will not reimburse](/handbook/finance/accounting/#8-employee-reimbursements---expensify), such as dog boarding.
 
 For additional Company Travel related questions, please refer to our [Travel Handbook](/handbook/travel/#booking-travel-through-tripactions-) regarding booking travel through TripActions.
@@ -121,7 +124,7 @@ For additional Company Travel related questions, please refer to our [Travel Han
 ### Spend reduction
 
 When reducing spend, we'll not take the easy route of (temporarily) reducing discretionary spending.
-Discretionary spending includes expenses like travel, conferences, gifts, bonuses, merit pay increases and summits.
+Discretionary spending includes expenses like travel, conferences, gifts, bonuses, merit pay increases and Contributes.
 By reducing in these areas we put ourselves at risk of [increasing voluntary turnover among the people we need most](https://steveblank.com/2009/12/21/the-elves-leave-middle-earth-–-soda’s-are-no-longer-free/).
 Discretionary spending is always subject to questioning, we are frugal and all spending needs to contribute to our goals.
 But we should not make cuts in reaction to the need to reduce spend; that would create a mediocre company with mediocre team members.
@@ -227,26 +230,33 @@ Poland, Russia, Ukraine & Romania:
 
 ## Expense Policy
 
-1. Max Expense Amount - [$5,000 USD](/handbook/total-rewards/compensation/#exchange-rates) - NOTE - If you are a corporate credit card holder, please refer to the [corporate credit card policy section](/handbook/finance/accounting/#credit-card-use-policy) for those specific instructions and thresholds.
-1. Receipt Required Amount - [$25 USD](/handbook/total-rewards/compensation/#exchange-rates)
-1. Expenses must be submitted within 90 days of purchase.
+1. Max Expense Amount - [$5,000 USD](https://www1.oanda.com/currency/converter/)  - NOTE - If you are a corporate credit card holder, please refer to the [corporate credit card policy section](/handbook/finance/accounting/#credit-card-use-policy) for those specific instructions and thresholds.
+1. Receipt Required Amount - [$0 USD](https://www1.oanda.com/currency/converter/) - NOTE - Receipts are required for all expenses.
+1. Expenses should be submitted within 30 days.
+1. Once your total expenses purchased in a month reaches $1,000 or [USD equivalent](https://www1.oanda.com/currency/converter/), please submit your expense report within a week. This will help us better manage our budget.
+1. Expense report items should clearly state if the spend includes amounts for clients / non-team members.  Tax requirements in certain countries require us to account for client spend differently.
+1. For coworking space rental, and office supply and computer equipment purchases, please have your Gitlab entity printed on the receipt / invoice so that the amount can be deducted for tax purposes. Please ask your manager or in the #expense-reporting-inquires channel in Slack if you are unsure which entity you belong to.
+1. All team members most submit their expense reports in their designated policies in Expensify - COGS team members in COGS policies and non-COGS team members in non-COGS policies.
 
-## Advance
+## Team Member Expense Temporary Advances
 
-These instructions apply if a team member is unable to purchase items, for whatever reason.
+These instructions apply if a team member is unable to purchase required items, for whatever reason.
 
-1. New team member will make a list of requested items and prices, noting if they are out of the budget range listed on this page (if applicable), and send to their manager for approval. We ask that only one list be sent, versus multiple lists.
-2. The team member's manager will send the approved (or edited) list to Accounting (nonuspayroll@gitlab.com OR uspayroll@gitlab.com, and CC ap@gitlab.com) for final approval and dispensation.
-3. Once approved, Payroll will send the team member an invoice template to fill with the approved items, prices and the team member's bank information.
-4. The approved final amount will be sent to the team member's bank and they can then purchase their approved items.
+1. The team member will make a list of requested items and prices, noting if they are out of the budget range listed in the [Expenses handbook section](/handbook/finance/expenses/) (if applicable), and send it to their manager for approval. We ask that only one list be sent, versus multiple lists.
+1. The team member's manager will send the approved (or edited) list to Accounting (nonuspayroll@gitlab.com OR uspayroll@gitlab.com, and CC ap@gitlab.com) for final approval and dispensation.
+1. Once approved, Payroll will send the team member an invoice template to fill out with the approved items, prices and the team member's bank information.
+1. The approved final amount will be sent to the team member's bank and they can then purchase their approved items.
+1. Receipts should be submitted to ap@gitlab.com after the purchases have been made.
 
 ## Approving Expense Reports
 
-1. Expensify will send a notification email when a team member submitted an expense report
+1. All expense reports are approved by the team members direct manager or their designated approver when they are out of the office.
+1. It is expected that the expense report approver will perform a complete review to ensure the reasonableness and accuracy of the submitted expenses.
+1. Expensify will send a notification email to the designated approver when a team member submits an expense report.
     * Click on the report name in the body of the email
     * Review each expense for the correct amount of the receipt and the report
     * Check for customers or project name if applicable under Tag
-    * We required a receipt for any expense greater than $25 (except for Billable policy)
+    * We required a receipt for any expense greater than a $5 cash purchase (except for Billable policy)
     * Select [Approve and Forward] option and Expensify pre-populated the email address.  Note, Expensify is updating their coding to address a small glitch in this field.  If it is empty, please send it to **Montpac** (gitlab-expensify-mp@montpac.com)
     * **Important** - please do not use [Final Approval] because Expensify will not send the email notification for payment approval and it will delay the reimbursement process
     * Manager can delegate the approval process during PTO:
@@ -265,15 +275,15 @@ Slack channel
 ## Non-reimbursable Expenses:
 
 Examples of things we have not reimbursed:
-1. Costume for end of summit party.
-1. Boarding expense for dog while traveling.
+1. Costume for the party at the end of Contribute.
+1. Boarding expense for animals while traveling.
 1. Headphones costing $800 which were found to be in excess of our standard equipment guidelines.
 1. Batteries for smoke detector.
 1. Meals during the Contribute when team members opt out of the company provided meal option.
 1. Cellphones and accessories.
-1. Travel related expenses for family members of GitLab employees
-1. Fitness equipments (treadmill, etc..) and gym membership
-1. Meals from the co-working day(s)
+1. Travel related expenses for family members of GitLab employees.
+1. Fitness equipments (treadmill, etc..) and gym membership.
+1. Meals from co-working day(s).
 
 In accordance with [Reimbursable Expense guidelines](/handbook/finance/accounting/#reimbursable-expenses), independent contractors should note which expenses are Contribute related on their invoices, prior to submitting to the company.
 
