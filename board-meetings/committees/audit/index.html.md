@@ -81,7 +81,7 @@ We review the below topics no less frequently than the following schedule:
 | Stock transactions                                                   |        X |            |   |        |
 | Tax audits / Taxes                                                   |          |            |   | X      |
 | Public reporting (GAAP and Non-GAAP financials, non-GAAP metrics)   |        X |            |   |        |
-| Guidance model                                                       |        X |            |   |        |
+| Guidance model                                                       |        X |      X      |  X |    X    |
 
 #### People Division
 
@@ -140,7 +140,7 @@ We review the below topics no less frequently than the following schedule:
 
 | Topics                          | FY Q1 | FY Q2  |  FY Q3  |  FY Q4 |
 |:---------------------------------|:--------:|:---------:|:-------:|:-------:|
-| Executive session - as needed  | X | X | X |X |
+| Litigation  | X | X | X |X |
 | Approval of minutes                                        |X  | X     | X        |X      |
 | Committee annual assessment                            |          |    X       |      | |
 | Closed session as needed         |X |    X | X     |X         |
