@@ -317,7 +317,14 @@ If the feature is part of the [Dogfooding process](/handbook/product/product-pro
 
 Label: `workflow::measurement`
 
-After launch, the PM should pay close attention to product usage data and customer feedback to guide follow-on iterative improvements, until success metrics are achieved or a decision is made that the product experience is sufficient.
+After launch, the PM and Product Designer should pay close attention to product usage data such as [Paid GMAU ](TBD)and customer feedback to guide follow-on iterative improvements, until success metrics are achieved/exceeded and a decision is can be made that the product experience is sufficient. To create a combined and ongoing quanitative and qualitative feedback loop, the following activities are recommended: 
+
+1. Continue [Dogfooding process](/handbook/product/product-processes/#dogfooding-process) as much as possible
+1. Review user feedback via dashboards (specific links) to understand utilizaiton patterns, "what" is happening
+1. Review feedback on issues (where else) to better understand success and paint points that could explain the utilizaton numbers
+1. Set up live calls, surveys, etc, connect with with custoers/users to better understand the "why" behind the the quantitavie data
+1. Connect with TAMs to... sit in on customer calls...
+1. Parter with PMM to...
 
 ## Iteration Strategies
 Here are several strategies for breaking features down into tiny changes that can be developed and released iteratively. This process will also help you critically evaluate if every facet of the design is actually necessary. 
