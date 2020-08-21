@@ -20,19 +20,20 @@ Please feel free to reach out with any topics or questions. You can reach legal 
 | OPERATIONAL| EDUCATIONAL |
 | ------ | ------ |
 | **How to reach Legal**                 | **Overview of GitLab Agreements** |
-| **How do I get an Agreement signed**      | **Threshold to negotiate and why** |
+| **How do I get an Agreement signed**      | **When does GitLab negotiate** |
+| **Vendor Request Forms (W9/Insurance)**      | **Introduction to Open Source** |
 | COMING SOON: What is needed to close a deal?      | COMING SOON: Most commonly negotiated terms |
 
 
 ## OPERATIONAL
 
 ## How to reach Legal 
-1. For all questions related to Partners and/or Customers: NDA's, Contract Review / Negotiations, Legal Questions...etc., please open a **Legal Request** in SFDC 
+1. For all questions related to Partners and/or Customers, including: NDA's, Contract Review / Negotiations, Legal Questions...etc., please open a **Legal Request** in SFDC. 
 2. Please note: There is a $25K opportunity minimum threshold to review edits to our terms, and a $100K opportunity minimum threshold to review Customer / Partner Terms. These thresholds do not apply to NDA's. 
-3. A presentation on this topic can be found here (https://docs.google.com/presentation/d/1lesWNvPAFd1B3RuCgKsqQlE85ZEwLuE01QpVAKPhQKw/edit#slide=id.g5d6196cc9d_2_0) 
+3. A presentation on this topic can be found here (https://docs.google.com/presentation/d/1lesWNvPAFd1B3RuCgKsqQlE85ZEwLuE01QpVAKPhQKw/edit#slide=id.g5d6196cc9d_2_0). 
 
 ## How do I get an Agreement signed
-1. Only certain individuals may execute on behalf of GitLab see Authorization Matrix here: https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix
+1. Only certain individuals may execute on behalf of GitLab see Authorization Matrix here: https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix.
 2. All Agreements require a GitLab Legal stamp in order to be executed. This stamp is placed by a Contract Manager when an executable version is reached. 
 3. Electronic signature requests can be generated from Sertifi in SFDC, OR, HelloSign.  
 
@@ -40,13 +41,13 @@ Please feel free to reach out with any topics or questions. You can reach legal 
 ## EDUCATIONAL
 
 ## Overview of GitLab Agreements
-1. Make sure that the final, negotiated contract is in the contract record. (If any negotiations have happened outside of SalesForce/Conga, upload the final, agreed-upon version to the contract record as a new version of the contract.)
-2. Change the Contract Status to “Approved to Sign”.
-3. Send a chatter message to the Sales account owner to stage for signing.
-4. Once signed, the sales account owner will be responsible for uploading the final document, filling out all of the remaining fields in the contract record, and changing the Contract Status to "Active"
+1. GitLab provides our Software pursuant to the GitLab Subscription Agreement, and Professional Services pursuant to GitLab Professional Services Terms;
+2. GitLab has a Master Partner Agreement within multiple Exhibits to enable Partners to, (i) Reseller, (ii) Refer, and (iii) Distribute GitLab Products and Services;
+3. Other than web-portal purchases, GitLab enters into an Order Form with a Customer which outlines the Products and Services being sold;
+4. Any modification(s) to Order Forms, or standard Terms and Conditions, require GitLab Legal Approval. 
 
-## Threshold to negotiate and why
-1. Make sure that the final, negotiated contract is in the contract record. (If any negotiations have happened outside of SalesForce/Conga, upload the final, agreed-upon version to the contract record as a new version of the contract.)
+## When does GitLab negotiate
+1. GitLab will negotiate NDAs with our prospects. You can always send the prospect the GitLab NDA template found at the URL below and ask for them to sign. If they want to use their template, simply open a Legal Request https://about.gitlab.com/handbook/legal/#contract-templates 
 2. Change the Contract Status to “Approved to Sign”.
 3. Send a chatter message to the Sales account owner to stage for signing.
 4. Once signed, the sales account owner will be responsible for uploading the final document, filling out all of the remaining fields in the contract record, and changing the Contract Status to "Active"
