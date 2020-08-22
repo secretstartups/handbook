@@ -21,7 +21,7 @@ This policy applies to all GitLab team-members, contractors, advisors, and contr
 
 ## Acceptable Use and Security Requirements of Computing Resources at GitLab
 
-GitLab-managed assets are provided to conduct GitLab business with consideration given for limited personal use.
+GitLab-managed assets are provided to conduct GitLab business with consideration given for limited personal use. Our company uses global electronic communications and resources as routine parts of our business activities. It is essential that electronic resources used to perform company business are protected to ensure that these resources are accessible for business purposes and operated in a cost-effective manner, that our company’s reputation is protected, and that we minimize the potential for legal risk.
 
 Those receiving GitLab-provided assets are responsible for exercising good judgment when using GitLab-managed computers and accessing GitLab-managed data.
 
@@ -58,9 +58,11 @@ Prohibited system and network activities include, but are not limited to, the fo
 
 ### Unacceptable Email and Communications Activities
 
-Forwarding of confidential business emails or documents to personal external email addresses.
+Forwarding of confidential business emails or documents to personal external email addresses is prohibited.
 
 > Note: GitLab may retrieve messages from archives and servers without prior notice if GitLab has sufficient reason to do so. If deemed necessary, this investigation will be conducted with the knowledge and approval of the Security, People Business Partners, and Legal Departments.
+
+In addition to following the [Social Media Guidelines](/handbook/marketing/social-media-guidelines/), when utilizing social media think about the effects of statements that you make. Keep in mind that these transmissions are permanent and easily transferable, and can affect our company’s reputation and relationships with team members and customers. When using social media tools like blogs, Facebook, Twitter or wikis, ensure that you do not make comments on behalf of GitLab without proper authorization. Also, you must not disclose our company’s confidential or proprietary information about our business, our suppliers, or our customers.
 
 ### Return of GitLab-Owned Assets
 
