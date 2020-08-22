@@ -141,18 +141,20 @@ A ticket form is a set of predefined ticket fields for a specific support reques
 ## Views
 
 Views help us organize tickets by grouping them into lists based on certain
-criteria. We have 11 shared views and 2 group based views we use:
+criteria. The views use are:
 
+* My Assigned Tickets
 * Needs Org & Triage
-* .com Support for MY_REGION & All Regions - Needs Assignee (Group based view)
+* .com Needs Assignee: MY_REGION+All Regions
 * .com with SLA
-* SM Support for MY_REGION & All Regions - Needs Assignee (Group based view)
+* .com Accounts, Groups, Login
+* Free/Self-Provisioned Trial Support
+* SM Needs Assignee: MY_REGION+All Regions
 * SM with SLA
 * Prospects
-* Free/Self-Provisioned Trial Support
 * License & Renewals
 * First Respnose Hawk
-* Accounts Receivables & Refunds
+* Areas of Focus Placeholder
 * Security
 * Suspended Tickets
 * Deleted Tickets
