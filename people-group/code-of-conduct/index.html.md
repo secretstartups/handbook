@@ -198,10 +198,6 @@ Depending on business justification and effect on competition, other practices n
 
 We engage in open and fair procurement activities regardless of nationality or the size of the transaction. Suppliers are selected on a competitive basis based on total value, which includes quality, suitability, performance, service, technology, and price. We strive toward establishing mutually beneficial relationships with our suppliers based on close cooperation and open communication. Terms and conditions defining our relationship with suppliers are communicated early in the supplier selection process. Any agreements to such terms and conditions, or any acceptable modifications, are reached before work begins.
 
-### Honest Advertising and Marketing
-
-It is our responsibility to accurately represent GitLab and our products in our marketing, advertising, and sales materials. Deliberately misleading messages, omissions of important facts or false claims about our products, individuals, competitors or their products, services, or employees or contractors are inconsistent with our values. Sometimes it is necessary to make comparisons between our products and our competitors. When we do, we will make factual and accurate statements that can be easily verified or reasonably relied upon.
-
 ### Obtain Competitive Information Fairly
 
 Gathering information about our competitors, often called competitive intelligence, is a legitimate business practice. Doing so helps us stay competitive in the marketplace; however, we must never use any illegal or unethical means to get information about other companies.
