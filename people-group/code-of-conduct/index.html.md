@@ -128,10 +128,6 @@ If you are not sure whether or not a particular piece of information is Material
 
 Material Nonpublic Information refers to information that is both Material and Non-Public Confidential Information.
 
-### Physical Assets and Resources
-
-All employees and contractors must protect our [company assets](/handbook/spending-company-money/), such as equipment, inventory, supplies, cash, and information. Treat company assets with the same care you would if they were your own. No employee or contractor may commit theft, fraud or embezzlement, or misuse company property.
-
 ### GitLab Internal Acceptable Use Policy
 
 The [Gitlab Internal Acceptable Use Policy](/handbook/people-group/acceptable-use-policy/) specifies requirements related to the use of GitLab computing resources and data assets by GitLab team-members so as to protect our customers, team members, contractors, company, and other partners from harm caused by both deliberate and inadvertent misuse. Our intention in publishing this [policy](/handbook/people-group/acceptable-use-policy/) is not to impose restrictions but outline information security guidelines intended to protect GitLab assets.
