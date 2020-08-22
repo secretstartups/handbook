@@ -19,20 +19,18 @@ twitter_creator: "@gitlab"
 ### MQL Targets
 | Fiscal Quarter | Large |  Mid-Market |  SMB |
 | ------ | ------ |
-| Q1FY21 | 5,000 | 3,000 | 11,947 |
-| Q2FY21 | 5,500 | 3,300 | 16,157 |
-| Q3FY21 | 6,000 | 3,750 | 19,931 |
-| Q4FY21 | 6,500 | 4,000 | 21,925 |
-| Q1FY22 | 5,000 | 3,000 | 11,947 |
-| Q2FY22 | 5,500 | 3,300 | 16,157 |
+| Q3FY21 | TBD | TBD | TBD |
+| Q4FY21 | TBD | TBD | TBD |
+| Q1FY22 | TBD | TBD | TBD |
+| Q2FY22 | TBD | TBD | TBD |
 
 *Targets are based on the original [FY21-22 Segment Marketing Plan](https://docs.google.com/presentation/d/1p4EmaoSb35d8ZnjKags1gUGF5T9afJW6RhBO8TR_VgA/edit#slide=id.p4) (GitLab internal team members may view this information).*
 
-## Q3 Key Results
-
-
-## Q3 FY21 Initiatives
-
+## Q3 OKRs
+[See Epic >](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1309)
+* [Accelerated Trial Motion in Use Case Campaigns](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1304)
+* [Overhaul self-managed trial email nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1285)
+* [Overhaul SaaS trial email nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1303)
 
 ## Communication
 
@@ -50,15 +48,17 @@ Most of our team meetings are recorded and can be found [here]().
 ### The Handbook
 Is our single source of truth (SSoT) for processes and relevant links
 
-*  Individual team should link back to these SSoT sections to avoid confusion. 
+*  Individual teams should link back to these SSoT sections to avoid confusion
 *  Collaborative tactics contain their own handbook pages
-*  The handbook will be iterated on as we establish and test processes
+*  The handbook will be iterated on as we establish and optimize processes for optimal efficincy
 
 ## Project Management
 
 ### Request Intake Process
 
-Beginning Q3 FY21, the demand gen campaigns team will begin an issue intake process following adapted agile methodologies. Requests may be submitted using the correct [issue templates](). Issues will be triaged as demonstrated in the diagram below. Please note: All required details in a given issue template must be completed in order for the SLA timeline to begin.
+Beginning Q3 FY21, the demand gen campaigns team will begin an issue intake process to evaluate comprehensive details of request and assign based on milestone bandwidth and priorities. Requests may be submitted using the correct issue templates.
+
+Issues will be triaged as demonstrated in the diagram below. Please note: All required details in a given issue template must be completed in order for the SLA timeline to begin.
 
 <div style="width: 600px;" class="embed-thumb"> <h1 style="position: relative;vertical-align: middle;display: inline-block; font-size: 24px; line-height:22px; color: #393939;margin-bottom: 10px; font-weight: 300;font-family: Proxima Nova, sans-serif;"> <img src="https://app.mural.co/avatar/jgragnola2053" style="position: absolute; border-radius: 50%; width: 36px;height: 36px;margin-right: 14px; display: inline-block; margin-top: -6px;margin-right: 10px; vertical-align: middle;"> <div style="padding-left:50px"> <span style="max-width:555px;display: inline-block;overflow: hidden; white-space: nowrap;text-overflow: ellipsis;line-height: 1; height: 25px; margin-top: -3px;">Campaign Team Triage Process</span> <span style="position:relative;top:-3px;font-size: 16px; margin-top: -6px; line-height: 24px;color: #393939; font-weight: 300;"> by Jackie Gragnola</span> </div> </h1> <div style="position: relative; height: 0;overflow: hidden; height: 400px; max-width: 800px; min-width: 320px; border-width: 1px; border-style: solid; border-color: #d8d8d8;"> <div style="position: absolute;top: 0;left: 0;z-index: 10; width: 600px; height: 100%;background: url(https://murally.blob.core.windows.net/thumbnails/gitlab2474/murals/gitlab2474.1597863660114-5f3d76ecffb2423070b17376-61c7931a-18e2-4a73-90dd-eafcb724b939.png?v=bdac39bf-bec1-491a-bd64-61e34be25719) no-repeat center center; background-size: cover;"> <div style="position: absolute;top: 0;left: 0;z-index: 20;width: 100%; height: 100%;background-color: white;-webkit-filter: opacity(.4);"> </div> <a href="https://app.mural.co/t/gitlab2474/m/gitlab2474/1597863660114/68ceeff46af5371c1167e69754b2e382734090d9" target="_blank" rel="noopener noreferrer" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; display: block; height: 50px; background: transparent;"> <img src="https://app.mural.co/static/images/btn-enter-mural.svg" alt="ENTER THE MURAL" width="233" height="50"> </a> </div> </div> <p style="margin-top: 10px;margin-bottom: 60px;line-height: 24px; font-size: 16px;font-family: Proxima Nova, sans-serif;font-weight: 400; color: #888888;"> </p></div>
 
@@ -194,7 +194,7 @@ These dashboards were created by @aoetama and she is in the process of building 
 #### Overall (WIP to deliver all)
 * What is the pipe-to-spend for our integrated campaigns? How much pipeline are our integrated campaigns generating?
 * What is the pipe-to-spend for our tactics (i.e. webcasts, gated content,etc.)? How much pipeline are our different tactics generating?
-* Which channels (i.e. paid ads, social, organice) are contributing to the highest quantity AND quality leads?
+* Which channels (i.e. paid ads, social, organic) are contributing to the highest quantity AND quality leads?
 * Which sources (i.e. webcast, content) are contributing to the highest quantity AND quality leads?
 * Which mix of channels and source deliver the optimal pipe-to-spend? Which mix delivers the highest quantity AND quality leads?
 
