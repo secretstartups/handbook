@@ -429,22 +429,6 @@ You may support the political process through personal contributions or by volun
 
 We support community development throughout the world. GitLab employees or contractors may contribute to these efforts, or may choose to contribute to organizations of their own choice. However, as with political activities, you may not use company resources to personally support charitable or other non-profit institutions not specifically sanctioned or supported by our company. You should consult the Legal department if you have questions about permissible use of company resources.
 
-### Human Rights
-
-We are committed to upholding fundamental human rights and believe that all human beings around the world should be treated with dignity, fairness, and respect. Our company will only engage suppliers and direct contractors who demonstrate a serious commitment to the health and safety of their workers, and operate in compliance with human rights laws. GitLab does not use or condone the use of slave labor or human trafficking, denounces any degrading treatment of individuals or unsafe working condition, and supports our products being free of conflict minerals.
-
-### Anti-Slavery and Anti-Human Trafficking Policy
-
-1. Slavery and Human Trafficking are crimes and violations of fundamental human rights. These violations take various forms, such as slavery, servitude, forced and compulsory labour, and/or human trafficking, all of which have in common the deprivation of a person’s liberty by another in order to exploit them for personal or commercial gain. GitLab is committed to acting ethically and with integrity in our business dealings and relationships by implementing and enforcing systems/controls to ensure modern slavery or human trafficking are not taking place in our business, or with those with whom we do business.
-
-2. GitLab is also committed to ensuring there is transparency in our business and in our approach to tackling slavery and human trafficking throughout our supply chains and overall organization, consistent with disclosure obligations we may have under applicable law. To that end, we prohibit the use of forced, compulsory or trafficked labor, or anyone held in slavery or servitude, whether adults or children by anyone working for or with GitLab.
-
-3. All employees, directors, officers, agents, interns, vendors, distributors, resellers, contractors, external consultants, third-party representatives and business partners are expected to comply with this policy.
-
-4. Every Team Member is responsible to assist in the prevention, detection and reporting of slavery and human trafficking by those working for or with GitLab.  Each Team Member is encouraged to raise concerns about any known or suspected incidents of slavery or human trafficking in any parts of our business or supply chains at the earliest possible stage.   If you are unsure about whether a particular act, the treatment of workers more generally, or their working conditions within any tier of our supply chains or business partners constitutes any of the various forms of modern slavery/human trafficking, raise it at Compliance@Gitlab.com.
-
-5. We may terminate our relationship with individuals and/or Business Partners if they breach this policy.
-
 ## Code of Business Conduct & Ethics Acknowledgment Form
 
 Team members will review and sign the [Code of Business Conduct & Ethics Acknowledgment Form](https://docs.google.com/document/d/1ehxrg-ieUEx1ARZv4LpysMfxzFmnhgtzmJn1-299g_E/edit?usp=sharing) during onboarding as well as annually during the [Global Compensation Annual Review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review) cycle. Please access the form template by clicking [here](https://docs.google.com/document/d/1ehxrg-ieUEx1ARZv4LpysMfxzFmnhgtzmJn1-299g_E/edit?usp=sharing).
