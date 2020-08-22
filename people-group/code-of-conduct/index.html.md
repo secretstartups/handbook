@@ -132,12 +132,6 @@ Material Nonpublic Information refers to information that is both Material and N
 
 The [Gitlab Internal Acceptable Use Policy](/handbook/people-group/acceptable-use-policy/) specifies requirements related to the use of GitLab computing resources and data assets by GitLab team-members so as to protect our customers, team members, contractors, company, and other partners from harm caused by both deliberate and inadvertent misuse. Our intention in publishing this [policy](/handbook/people-group/acceptable-use-policy/) is not to impose restrictions but outline information security guidelines intended to protect GitLab assets.
 
-### Proper Use of Electronic Media
-
-Our company uses global electronic communications and resources as routine parts of our business activities. It is essential that electronic resources used to perform company business are protected to ensure that these resources are accessible for business purposes and operated in a cost-effective manner, that our company’s reputation is protected, and that we minimize the potential for legal risk.
-
-In addition to following the [Social Media Guidelines](/handbook/marketing/social-media-guidelines/), when utilizing social media think about the effects of statements that you make. Keep in mind that these transmissions are permanent and easily transferable, and can affect our company’s reputation and relationships with team members and customers. When using social media tools like blogs, Facebook, Twitter or wikis, ensure that you do not make comments on behalf of GitLab without proper authorization. Also, you must not disclose our company’s confidential or proprietary information about our business, our suppliers, or our customers.
-
 ### Protecting Customer/Third Party Information Privacy
 
 We take the protection of privacy for our customer’s, consumer’s, and other third parties that have entrusted us with information very seriously. Customer or third party information includes any information about a specific customer/third party, including such things as name, address, phone numbers, financial information, etc. Specifically, note that:
