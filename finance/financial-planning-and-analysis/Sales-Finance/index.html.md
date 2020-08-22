@@ -48,3 +48,8 @@ This dashboard analyzes the Landed Addressable Market (LAM) offered by our exist
 This file is intended to detail how the pipeline evolves throughout the quarter: capturing deals in the initial pipeline, those added later in the quarter, closed deals, slipped deals, and those remaining at quarter end.
 
 [File](https://docs.google.com/spreadsheets/d/1L4Rl6hGb5t8x8f_3ILwUlYvOL7Rdo2Rh8FZf0RumBqE/edit#gid=1993507993)
+
+## Professional Services (PS) Forecast Package
+This file is intended to assess and forecast Professional Services department's performance.
+
+[File](https://docs.google.com/spreadsheets/d/15YQV6dBpO06quxdvbZq6svTU-HgW06maZuhcwz7PYjI/edit#gid=1456058003)
