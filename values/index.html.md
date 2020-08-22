@@ -801,7 +801,7 @@ the author to split it into smaller merge requests before reviewing.
 {:.no_toc}
 In some cases, rapid iteration can get in the way of [results](#results); for example, when
 adjusting our marketing messaging (where consistency is key), product categories (where we've
-set development plans), sales methodologies (where we've trained our teams) and this values page (where
+set development plans), [organizational structure](/company/team/structure/#organizational-structure) or [product scope alignment](/handbook/people-group/promotions-transfers/#realignment-of-resources-impacting-multiple-team-members) (where real human stresses and team stability are involved), sales methodologies (where we've trained our teams) and this values page (where
 we use the values to guide all GitLab team members). In those instances, we add additional review to the approval
 process; not to prohibit, but to be more deliberate in our iteration. The change process is documented in the [GitLab Handbook Usage](/handbook/handbook-usage/) page and takes place via merge request approvals.
 
