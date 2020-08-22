@@ -417,10 +417,6 @@ Should any business or personal conflict of interest arise, or even appear to ar
 
 **GitLab is often required to disclose any organizational or personal conflict of interest to various third parties.  To ensure accuracy in our disclosures, please notify Compliance at Compliance@gitlab.com of any organizational or personal conflicts of interest.**
 
-### Communicating with External Parties
-
-GitLab employees and contractors are not authorized to speak with the media, investors, or analysts on behalf of our company unless authorized by our Marketing department. Unless authorized, do not give the impression that you are speaking on behalf of GitLab in any communication that may become public. This includes posts to online forums, social media sites, blogs, chat rooms, and bulletin boards. This policy also applies to comments to journalists about specific matters that relate to our businesses, as well as letters to the editor and endorsements of products or services.
-
 ### Political Activities and Contributions
 
 You may support the political process through personal contributions or by volunteering your personal time to the candidates or organizations of your choice. These activities, however, must not be conducted on company time or involve the use of any company resources. You may not make or commit to political contributions on behalf of GitLab.
