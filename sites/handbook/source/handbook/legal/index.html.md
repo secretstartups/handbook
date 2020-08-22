@@ -134,18 +134,6 @@ A litigation hold is the process a company uses to preserve all forms of relevan
 
 Once the company becomes aware of potential litigation, the company's attorney will provide notice to the impacted employees, instructing them not to delete or destroy any information relating to the subject matter of the litigation.  The litigation hold applies to paper and electronic documents. During a litigation hold, all retention policies must be overridden.
 
-# Important Pages Related to Legal
- 
-* [Compliance](/handbook/legal/global-compliance/) - general information about compliance issues relevant to the company
-* [Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information) - general information about each legal entity of the company
-* [General Guidelines](/handbook/general-guidelines/) - general company guidelines
-* [Terms](/terms/) - legal terms governing the use of GitLab's website, products, and services
-* [Privacy Policy](/privacy/) - GitLab's policy for how it handles personal information 
-* [Trademark](/handbook/marketing/growth-marketing/brand-and-digital-design/brand-guidelines/#trademark) - information regarding the usage of GitLab's trademark
-* [Authorization Matrix](/handbook/finance/authorization-matrix/) - the authority matrix for spending and binding the company and the process for signing legal documents
-* [Requirements for Closing Deals](/handbook/business-ops/order-processing/#step-7--submitting-an-opportunity-for-approval) - requirements for closing sales deals
-* [Acceptable Licenses](https://gitlab.com/gitlab-org/gitlab-foss/blob/master/doc/development/licensing.md) - list of acceptable licenses covering third party components used in development
-
 ## 3. Human Rights
 
 ### How is GitLab advancing Human Rights?
@@ -164,10 +152,26 @@ We are committed to upholding fundamental human rights and believe that all huma
 
 5. We may terminate our relationship with individuals and/or Business Partners if they breach this policy.
 
+# Important Pages Related to Legal
+ 
+* [Compliance](/handbook/legal/global-compliance/) - general information about compliance issues relevant to the company
+* [Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information) - general information about each legal entity of the company
+* [General Guidelines](/handbook/general-guidelines/) - general company guidelines
+* [Terms](/terms/) - legal terms governing the use of GitLab's website, products, and services
+* [Privacy Policy](/privacy/) - GitLab's policy for how it handles personal information
+* [Employee Privacy Policy](/handbook/legal/Employee-Privacy-Policy/) GitLab's policy for how it handles personal information about team members.
+* [Trademark](/handbook/marketing/growth-marketing/brand-and-digital-design/brand-guidelines/#trademark) - information regarding the usage of GitLab's trademark
+* [Authorization Matrix](/handbook/finance/authorization-matrix/) - the authority matrix for spending and binding the company and the process for signing legal documents
+* [Requirements for Closing Deals](/handbook/business-ops/order-processing/#step-7--submitting-an-opportunity-for-approval) - requirements for closing sales deals
+* [Acceptable Licenses](https://gitlab.com/gitlab-org/gitlab-foss/blob/master/doc/development/licensing.md) - list of acceptable licenses covering third party components used in development
+* [Records Retention Policy](/handbook/legal/Record-Retention-Policy/) - GitLab's policy on the implementation of procedures, best practices, and tools to promote consistent life cycle management of GitLab records
+
+
 ## Legal Processes
  
 - [Generating Contracts with Conga Contracts](/handbook/legal/customer-negotiations/index.html)
 - [Uploading Third Party Contracts to ContractWorks](/handbook/legal/vendor-contract-filing-process/)
+- [Issue Tracker Workflows](/handbook/legal/Issue-Tracker-Workflows/)
 
 ## Performance Indicators
 
