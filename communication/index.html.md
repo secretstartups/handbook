@@ -51,6 +51,10 @@ There are 8 key practices to consider during any meeting. They are the following
 1. Post Meeting Action - Immediately write down notes and next steps and input into proper directory (Google Drive, Salesforce, etc.).
 1. Two Block Rule - For in person meetings with external parties you should wait until you're more than two blocks from the meeting before discussing the results of the meeting. Nobody wants to hear themselves being discussed in the bathroom.
 
+### Communicating with Media and Industry Analysts
+
+GitLab employees and contractors are not authorized to speak with the media or analysts on behalf of our company unless authorized by our Marketing department. Unless authorized, do not give the impression that you are speaking on behalf of GitLab in any communication that may become public. This includes posts to online forums, social media sites, blogs, chat rooms, and bulletin boards. This policy also applies to comments to journalists about specific matters that relate to our businesses, as well as letters to the editor and endorsements of products or services.
+
 ### Social Media
 
 Please see our [social media guidelines](/handbook/marketing/social-media-guidelines/).
