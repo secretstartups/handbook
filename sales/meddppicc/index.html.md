@@ -117,7 +117,9 @@ Coming soon
 
 ### Video
 
-Coming soon
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/4NvS4vMTGwE" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ### Qualifying Questions
 
