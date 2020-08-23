@@ -45,7 +45,10 @@ This section is comprised of the following 3 fields:
 
 ## Additional Resources
 
-Command Plan templates:
+### Command Plan templates
 - [Blank template](https://drive.google.com/open?id=1uTHRRUQx4IP_dXUnsrfG2x9Ti-XpMneX3IDu2v0TZtY)
 - [Template with helper text](https://drive.google.com/open?id=1SH7yfGFda0jsHcM9QmVI9BQO54fuaMujt-aJfFg-EUA)
 - [Sample Command Plan](https://drive.google.com/open?id=1SdfgEds7NvCezcrFjirdLygIp4715iQn7u2ts-9avwg)
+
+### Opportunity Consults
+- Opportunity Coaching Guide

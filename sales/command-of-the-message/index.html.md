@@ -32,8 +32,10 @@ Value drivers describe what organizations are likely proactively looking for or 
 | [GitLab Value Framework](https://docs.google.com/document/d/1LKYY7kJPKUhzfYnBWNdrigpYpEtxFKxbvyAEUF1nwqY/edit?usp=sharing) | primary asset with in-depth information on GitLab's value drivers and defensible differentiators |
 | [GitLab Value Framework Summary](https://drive.google.com/open?id=1l2g7OJ3mIrCgUlLvwQbtwo-2Eg1lV8rkqUTy9dEoLdc) | 1-page quick guide, also great for sharing with internal champions |
 | [GitLab CXO Digital Transformation Discovery Guide](https://drive.google.com/open?id=1balLINV-vnd6-6TYzF3SIIJKrBPUQofVSDgQ5llC2Do) | 3-page conversation guide for executive discussions |
-| [Proof Points](/handbook/sales/command-of-the-message/proof-points.html) | don't take our word for it--3rd party validation from customers, analysts, industry awards, and peer reviews |
-| [NEW Customer deck based on GitLab value drivers](https://docs.google.com/presentation/d/1SHSmrEs0vE08iqse9ZhEfOQF1UWiAfpWodIE6_fFFLg/edit?usp=sharing) | alternative to the standard GitLab pitch deck that starts with the customer's perspective and aligns to the 3 value drivers. Video [here](https://youtu.be/UdaOZ9vvgXM) |
+| [Proof Points](/handbook/sales/command-of-the-message/proof-points.html) | don't take our word for it...3rd party validation from customers, analysts, industry awards, and peer reviews |
+| [NEW Customer deck based on GitLab value drivers](https://docs.google.com/presentation/d/1SHSmrEs0vE08iqse9ZhEfOQF1UWiAfpWodIE6_fFFLg/edit?usp=sharing) | alternative to the standard GitLab pitch deck that starts with the customer's perspective and aligns to the 3 value drivers (video [here](https://youtu.be/UdaOZ9vvgXM)) |
+| [Command Plan](/handbook/sales/command-of-the-message/command-plan/) | how GitLab has operationalized Command of the Message and MEDDPPICC into the opportunity management process |
+| [MEDDPPICC](/handbook/sales/meddppicc/) | proven methodology used for strategic opportunity management and complex sales process orchestration for enterprise organizations | 
 | [Demystifying the Metrics Conversation](/handbook/sales/command-of-the-message/metrics.html) | tips and tricks for navigating the Metrics conversation with customers |
 
 ## GitLab Differentiators
@@ -153,16 +155,6 @@ The Mantra is a framework you can use to clearly demonstrate that you have a com
 </details>
 
 <details>
-<summary markdown="span">Command Plan</summary>
-
-*  [Opportunity Management Requirements](/handbook/sales/#opportunity-management-requirements)
-*  Command Plan templates
-   - [Blank template](https://drive.google.com/open?id=1uTHRRUQx4IP_dXUnsrfG2x9Ti-XpMneX3IDu2v0TZtY)
-   - [Template with helper text](https://drive.google.com/open?id=1SH7yfGFda0jsHcM9QmVI9BQO54fuaMujt-aJfFg-EUA)
-   - [Sample Command Plan](https://drive.google.com/open?id=1SdfgEds7NvCezcrFjirdLygIp4715iQn7u2ts-9avwg)
-</details>
-
-<details>
 <summary markdown="span">Job Aids</summary>
 
 *  Overview resources
@@ -198,6 +190,7 @@ The Mantra is a framework you can use to clearly demonstrate that you have a com
      - [Manager Certification: Training slides & Coaching Best Practices](https://drive.google.com/open?id=1SlbTZf-vuucTIgP757qmF7pBUORPmSLD) (Feb 2020)
      - [Manager Certification: Core Command of the Message concepts for teach back](https://drive.google.com/open?id=1GooZccF_FUUtCDk0qHEfK5NRWBVJrSXq) (Feb 2020)
 *  [Manager Coaching & Reinforcement Playbook](https://drive.google.com/open?id=1perfP59qxJlEs9AEkoPt4su23Jwk7IqK) (Feb 2020)
+*  [Opportunity Consults Handbook page](/handbook/sales/command-of-the-message/opportunity-consults)
 *  [Opportunity Coaching Guide](https://docs.google.com/document/d/1IZA9Fo2SvZOrtUVpXOjwwqs76lKdXFs4hTezbxRq5v8/copy) (Aug 2019)
 *  [Coaching & Reinforcement Template](https://drive.google.com/file/d/0B-mC9VLTLN0bTWRUdFlKbVlpUVlia05wOGJQcUNwUVA2elpz/view?usp=sharing) (Feb 2020) 
 *  [GitLab CoM & MEDDPICC Fast Start Program Manager Playbook](https://drive.google.com/open?id=1n76gU6whKW51ixMfFvgXoGsq512PsCHG) (Aug 2019) (prior to transition to MEDDPPICC)
@@ -246,6 +239,8 @@ Below is a summary of enhancements made to the GitLab Value Framework and CoM ma
 
 **Version 1.2 (Aug 2020)**
 - [More Proactive and Robust Metrics Guidance](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/184)
-- Change from MEDDPICC to MEDDPPICC (https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/305)
-- Additional Proof Points update
+- [Change from MEDDPICC to MEDDPPICC](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/305)
+- [Customer Use Case Solution Summary](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/429)
+- [Proof Points refresh](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/432)
+- and more
 </details>

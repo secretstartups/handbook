@@ -25,29 +25,8 @@ title: "Sales Manager Best Practices"
 
 ## Opportunity Coaching
 
-*  Regularly leverage the Command of the Message and MEDDPPICC sales manager materials (to access, click on the Sales Manager Materials drop down in the [CoM Additional Resources section](/handbook/sales/command-of-the-message/#resources-sales-manager-materials))
-*  Use the following outline for your opportunity consult sessions:
-
-| **Step** | **Duration (minutes)** | **Description** |
-| ------ | ------ | ------ |
-| Manager Set-Up | 5 | - Set expectations of the call by stating the purpose, process and payoff of the session |
-| Seller-Led Opportunity Overview | 10 (uninterrupted) | - [Opportunity Qualifier](https://docs.google.com/document/d/1Tz6bQKD4Ff2-XqpSXRQslD8yvrphwXaL6oEl74DAjeQ/edit?usp=sharing) <br> - Provides brief opportunity background (e.g., relevant account history, recent changes on opportunity) <br> - Describes current deal state (e.g., sales process stage, forecast stage, key business issues, compelling event) <br> - Identifies gaps in Mantra, MEDDPPICC, and additional challenges for discussion |
-| Manager Consult | 30 | - [Opportunity Coaching Guide](https://docs.google.com/document/d/1IZA9Fo2SvZOrtUVpXOjwwqs76lKdXFs4hTezbxRq5v8/edit?usp=sharing) <br> - Ask open-ended, two-sided questions around focus areas to inspect (in a good, helpful way) the opportunity <br> - Provide relevant feedback and coaching based on the identified gaps and challenges <br> - Assist the seller in defining an action plan and exactly “how” to execute on the next steps |
-| Manager + Seller Agree to Action Plan | 5 | - Seller recaps opportunity-specific sales strategy <br> - Seller documents next steps/critical actions in CRM or via email to manager |
-
-*   Develop an Coaching Action Plan for each rep on your team. Conduct one-on-one development sessions with each person to review their plan.
-*   Conduct **weekly** Opportunity Consults with each rep on your team to review specific command plans. 
-*   Coaches should ask more questions to first understand the current level of understanding of those they are coaching before explaining key or misunderstood concepts.
-*   When conducting Opportunity Consults, coaches should encourage reps to commit to specific, concrete, actionable next steps (i.e., “I am going to do X, Y, and Z to test my Champion” instead of “I am going to test my Champion”) and request that the reps document those action items in a shared way (i.e. document in Salesforce or send a summary wrap-up communication after the meeting).
-*   Include the SA and TAM teams in Opportunity Consults – these should be team conversations and facilitate improved transparency and collaboration.
-*   Coach reps on the best practices related to the close plan within a command plan:
-    *   Close plans should be updated in real time and at minimum on a weekly basis
-    *   Time stamp the latest update at the top with the date of the refresh
-    *   Each line item should start with a specific date
-    *   Liberally use ( ) or ** ** between line items or at the end of line items to denote Close Plan gaps that the SAL intends to fill during the next communication with the prospect/customer. This is a key **_pay-off to the SAL_** item to highlight since it should help make them better
-    *   Keep the action / people involved / expected outcome as crisp as possible. Endeavor to keep it on one line so as not to make it a blog.
-    *   Refer to the Paper Process when appropriate so efforts aren't duplicated
-    *   If you can still ask, "what happens between one line item and the next" and you don't know...then see item 4 and use that knowledge as a guide to continually drive higher fidelity through each communication.
+*  Check out the [Opportunity Consults Handbook page](/handbook/sales/command-of-the-message/opportunity-consults)
+*  Regularly leverage the Command of the Message and MEDDPPICC sales manager materials (to access, click on the "Sales Manager Materials" drop down in the [Command of the Message Additional Resources section](/handbook/sales/command-of-the-message/#additional-resources))
 
 ## Strategic Coaching
 
