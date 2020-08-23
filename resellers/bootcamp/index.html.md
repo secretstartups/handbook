@@ -27,7 +27,7 @@ GitLab is a single application for entire DevSecOps lifecycle. To see what GitLa
 
 ### How to start?
 
-1. Export [this project](https://gitlab.com/gitlab-com/channel/technical-bootcamps/implementation) and import it to your preferred GitLab site. If you do not have GitLab site available, feel free to use GitLab.com
+1. Export [this project](https://gitlab.com/gitlab-com/channel/technical-bootcamps/using-gitlab) and import it to your preferred GitLab site. If you do not have GitLab site available, feel free to use GitLab.com
 2. Have a look at the issues. Pick the one named *Lab 0* and assign it to yourself. It contains all steps needed to set up the environment. Execute all tasks in it
 3. Read on
 
