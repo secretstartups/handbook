@@ -17,7 +17,7 @@ You have qualified a lead and now you need to turn it into a sale. This phase is
 *  Technical Evaluation/Technical Commit from a Technical Buyer
 *  Economic Commit from an Economic Buyer
 
-Again the four tasks above are demonstrable outputs of correctly applying **MEDDPPICC and Command of the Message (CoM)** within each of the tasks. This also supports your transition from appearing as a common software sales person into a trusted consultant that brings business solutions instead of multiple invoices and a smile. 
+Again the four tasks above are demonstrable outputs of correctly applying **[MEDDPPICC](/handbook/sales/meddppicc/) and [Command of the Message (CoM)](/handbook/sales/command-of-the-message/)** within each of the tasks. This also supports your transition from appearing as a common software sales person into a trusted consultant that brings business solutions instead of multiple invoices and a smile. 
 
 ## Step 1: Discovery Questioning
 
@@ -49,9 +49,9 @@ This step includes a number of sub-tasks necessary to obtain additional buyer in
 
 #### 1.1.4 Create Discovery Questions
 
-Leverage **[MEDDPPICC](/handbook/sales/#capturing-meddppicc-questions-for-deeper-qualification)** to gather the information necessary to qualify the opportunity. 
+Leverage **[MEDDPPICC](/handbook/sales/meddppicc/)** to gather the information necessary to qualify the opportunity. 
 *   [Discovery Questions](https://drive.google.com/a/gitlab.com/open?id=1balLINV-vnd6-6TYzF3SIIJKrBPUQofVSDgQ5llC2Do) are designed to identify existing needs, problems, customer pain points, customer’s goals etc. 
-*   MEDDPPICC is a qualification framework that will help you determine if the opportunity is worth your time, effort, and company resources. This is an aspect of **Pre-Call Planning**. The pre-call planning questions will cause you as the seller to further validate and reference the buyer persona you will engage with. It will help you to more quickly determine what stage the buyer falls in the sales process. The framework will also expose problems and clarify next steps. It will help make you more efficient and focused sales representatives by making it easier to sort the good deals from no deals, and quick deals from long term deals. 
+*   [MEDDPPICC](/handbook/sales/meddppicc/) is a qualification framework that will help you determine if the opportunity is worth your time, effort, and company resources. This is an aspect of **Pre-Call Planning**. The pre-call planning questions will cause you as the seller to further validate and reference the buyer persona you will engage with. It will help you to more quickly determine what stage the buyer falls in the sales process. The framework will also expose problems and clarify next steps. It will help make you more efficient and focused sales representatives by making it easier to sort the good deals from no deals, and quick deals from long term deals. 
 
 #### 1.1.5 Develop a Persona Based Call Plan
 
@@ -65,7 +65,7 @@ Discovery doesn’t take place in just one call. It takes place over a series of
 
 1. **Prepare a Meeting Agenda** to identify how the buyer wants will match what you will cover. This can be sent ahead to the buyer to ensure alignment. For each agenda item, include some questions from the BPM, prepare statements, industry case studies. Research 1-3 items in the Objectives and Obstacles section of the personas. Finalize your meeting objectives in order to show the buyer you are prepared, listening, and empathic. Structure the meeting so that the prospect is relaxed and is comfortable going deep with their problems and needs.
 1. Utilize the **[Customer Requirements Document](https://docs.google.com/spreadsheets/d/1y1nk7TmjxOxaO8nUg6w1YO04X9wwtz39MnP7NHXq6ec/edit#gid=0)** during the meeting to capture the feedback from your discovery questioning.
-1. Utilize a **Command Plan** to track the progress of a deal. It’s an iterative document within Salesforce that gives you and your team macro and micro level visibility into an opportunity. It is designed to align and guide you through the necessary MEDDPPICC process to quickly capture the information necessary to properly qualify an opportunity. Here is a sample [Command Plan](https://docs.google.com/spreadsheets/d/16m5_w4NiNSXfJFt9576IktNUp6uTCOKxaLBtoyR0lrA/edit#gid=299910663).
+1. Utilize a **[Command Plan](/handbook/sales/command-of-the-message/command-plan/)** to track the progress of a deal. It’s an iterative document within Salesforce that gives you and your team macro and micro level visibility into an opportunity. It is designed to align and guide you through the necessary [MEDDPPICC](/handbook/sales/meddppicc/) process to quickly capture the information necessary to properly qualify an opportunity. Here is a sample [Command Plan](https://docs.google.com/spreadsheets/d/16m5_w4NiNSXfJFt9576IktNUp6uTCOKxaLBtoyR0lrA/edit#gid=299910663).
 1. **Create a Customer deck.** The customer deck should be specific to the opportunity and utilize the customers branding when possible. Additionally, the customer deck should be created with input from a primary point of contact or an identified champion
 
 ### 1.2 Creating the Customer Deck (Phase 1)
@@ -98,7 +98,7 @@ The data gathered from the discovery calls is analyzed by **AE/SAL** to make the
 
 1. **AE/ SAL performs a Gap Analysis** of data captured from discovery questioning and is held in the Customer Requirements document. Align customer requirements on the spreadsheet to the specific GitLab product line and denote if GitLab does or does not meet the requirement. This analysis will also provide you with possible devOps cycle entry points as customer requirements and goals do vary.
 1. **AE/SAL introduces and engages** the solution architect in technical conversations and reviews Customer Requirement Document with solution architect. 
-1. **AE/SAL updates relevant SFDC** fields with new information for formal handoff to the solutions architect for **Scoping**. Utilize a **Command Plan** to track the progress of a deal. It’s an iterative document within Salesforce that gives you and your team macro and micro level visibility into an opportunity. 
+1. **AE/SAL updates relevant SFDC** fields with new information for formal handoff to the solutions architect for **Scoping**. Utilize a **[Command Plan](/handbook/sales/command-of-the-message/command-plan/)** to track the progress of a deal. It’s an iterative document within Salesforce that gives you and your team macro and micro level visibility into an opportunity. 
 
 ## Step 2: Scoping
 
@@ -113,7 +113,7 @@ Scoping represents an opportunity to discuss customer requirements in more detai
 
 ## Step 3: [Technical Evaluation](/handbook/customer-success/comm-sales/customer-buyer-journey.html#step-2-technical-evaluation)
 
-Technical evaluation is where the prospective customer evaluates the fit of GitLab to their organization and their specific business outcomes. This may be driven by a Lite POV, a free trial, real time or asynchronous Q&A, a workshop and/or other approach requiring technical guidance from an SA. If Discovery did not include the SA, the AE should follow the triage process to engage an SA for the opportunity, filling out the issue template and providing MEDDPPICC information as well as the known required capabilities in Salesforce. The following are tasks the SA must review and manage during technical evaluation. 
+Technical evaluation is where the prospective customer evaluates the fit of GitLab to their organization and their specific business outcomes. This may be driven by a Lite POV, a free trial, real time or asynchronous Q&A, a workshop and/or other approach requiring technical guidance from an SA. If Discovery did not include the SA, the AE should follow the triage process to engage an SA for the opportunity, filling out the issue template and providing [MEDDPPICC](/handbook/sales/meddppicc/) information as well as the known required capabilities in Salesforce. The following are tasks the SA must review and manage during technical evaluation. 
 
 1. **Update** Customer Requirements Documents and review Google Docs and Salesforce for running meeting notes with customer environment and technical specifications.
 1. **Setup** a free trial of GitLab based on the following [Technical Evaluation Criteria](/handbook/customer-success/comm-sales/customer-buyer-journey.html#responsibilities-1).
@@ -177,7 +177,7 @@ Preliminary Pricing is usually based on the **Proof of Value** designed by the S
  
 #### 4.1.4 Ask for the Business & Next Steps
 
-1. Set next steps and dates with the customer to move into the Deal Closure phase. Engage with the champions and economic buyer to create a mutually agreed upon action plan to deployment. This is called a Mutual Close Plan and should be documented in the Command Plan.  
+1. Set next steps and dates with the customer to move into the Deal Closure phase. Engage with the champions and economic buyer to create a mutually agreed upon action plan to deployment. This is called a Mutual Close Plan and should be documented in the [Command Plan](/handbook/sales/command-of-the-message/command-plan/).  
 1. Update the opportunities’ stage and status in Salesforce from Proposal to Negotiating
 1. Update Clari with the latest forecasting projections based on your most recent sales motions.
 
