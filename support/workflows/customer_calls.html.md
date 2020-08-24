@@ -27,7 +27,6 @@ A few point to consider when sending a customer the invite to call link.
 * If you know your availability is limited, or you need additional backup, check with another engineer to see if they might also be available to take the call.
 * If you're not comfortable enough to take the call, **you should shadow any call that does take place** to upskill.
 
-
 #### Pre-call email
 
 Please consider sending a pre-call email. This helps set expectations to the call regarding goals, duration, and
@@ -36,20 +35,21 @@ for that, please modify it as you see fit.
 
 ##### Tips to keep calls within the scheduled time:
 
-* Set expectations (again) at the start of the call
-
-1. Call duration will be 1 hour
-1. At 45 minutes - call wrap up will happen (below)
-1. Will need access to applicable systems
-* When 15 mins left: start to wind down the call
+* Set expectations (again) at the start of the call:
+   1. Call duration will be 1 hour
+   1. At 45 minutes - call wrap up will happen (below)
+   1. Will need access to applicable systems
+* When 15 mins left: 
+   1. Start to wind down the call
 * Stop the call and determine where we are (solved, not solved more info needed)
-1. Solvable in the next few minutes
-1. Need to research/schedule additional call
+   1. Solvable in the next few minutes
+   1. Need to research/schedule additional call
 * Review
-1. Summary of what was learned
-1. Next steps for GitLab agent
-1. Next steps for user
-1. Next call recommendations (timing/goals/expectations)
+   1. Summary of what was learned
+   1. Next steps for GitLab Support Engineer
+   1. Next steps for user
+   1. Next call recommendations (timing/goals/expectations)
+* Note: If customer doesn't join the call and you've waited for over 10 minutes, end the call, update the ticket and resend calendly link.
 
 ##### Notes on intake, upgrade and installation support calls
 
