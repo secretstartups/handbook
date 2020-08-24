@@ -471,34 +471,5 @@ The Sales Operations team supports the opportunity credit split approval process
   
 </details> 
 
-### **What if TSP is wrong? How can I request a change?**
 
-In the event our data enrichment tools are outdated or incorrect (primary address or employee count), you can submit a request to override this information.
-
-<details>
-<summary markdown='span'>Process for Requesting TSP Changes:</summary>
-
-1. **Request Process:**
-    *  Enter desired TSP information into the following fields (this can be either Account, Employee Count, or both).
-    *  Be sure to include source of correct data (ROE must still be followed)   
-          *  `[User Input] Employee Count`
-          *  `[User Input] Employee Source`
-          *  `[User Input] Address Street`
-          *  `[User Input] Address City`
-          *  `[User Input] Address State`
-          *  `[User Input] Address Post Code`
-          *  `[User Input] Address Country`
-          *  `[User Input] Address Source`
-
-1.  **Operations Review Process:**
-Ops will review these requests on a periodic basis, and provide a response in the `[TSP] Override Status` field:
-    *  **Approved** - Account changes accepted, & `[TSP] Effective Date` populated by Ops.
-    *  **Rejected** - Reason added to `[TSP] Decision Rationale` field.
-    *  **Needs Approval/More Info** - Info needed added to `[TSP] Decision Rationale` field.<p/>
-1.  **Execution:**
-    *  Turnaround time for Approved TSP changes to re-populate typically takes 24-48 hours.
-    *  Accounts with a `[TSP] Effective Date` populated will be re-routed each night to the `[TSP] Next Approved Owner`. 
-    *  `Account Territory`, `Sales Segment` & `Employees` fields will also be updated upon TSP transfer, to continually align accounts.
-
-</details> 
 
