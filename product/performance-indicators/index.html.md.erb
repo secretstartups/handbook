@@ -71,6 +71,74 @@ The PI workflow outlines the steps required for putting a product performance in
 | [Handbook PI Page](https://about.gitlab.com/handbook/product/performance-indicators/) 									| The handbook PI page describes how product performance indicators are added for each product section, stage, and group.			| PM Responsibility, Product Analytics Support 	|
 | [PI Target](#pi-target)																									| The target definition step outlines how targets are defined for each performance indicator.										| PM Responsibility, Product Analytics Support 	|
 
+### What we're aiming for
+
+The table below outlines the exact PIs we're asking each section, stage, and group to implement. This table is based off the [previous guidance of focus areas](https://gitlab.com/gitlab-com/Product/-/issues/1286). The table below is our single source of truth for the PI's we're aiming for and it supercedes any previous guidance.
+
+Changes to be table below require sign off from the EVP Product or VP Product Management. To make updates to the table, please submit an MR with the reason behind the change and assign it to Scott or Anoop.
+
+Additional details about each column:
+
+- XMAU (SM): Dashboard can only be created from Usage Ping
+- Paid XMAU (SM): Dashboard can only be created from Usage Ping
+- XMAU (SaaS): Dashboard can only be created from Usage Ping, Postgres Import, Snowplow
+- Paid XMAU (SaaS): Dashboard can only be created from Postgres Import
+
+| section.stage.group                        | XMAU (SM) | Paid XMAU (SM) | XMAU (SaaS) | Paid XMAU (SaaS) |
+|--------------------------------------------|-----------|----------------|-------------|------------------|
+| dev                                        | Yes       | Yes            | Yes         | Yes              |
+| dev.create                                 | Yes       | Yes            | Yes         | Yes              |
+| dev.create.ecosystem                       | Yes       | Yes            | Yes         | Yes              |
+| dev.create.editor                          | Yes       | No             | Yes         | No               |
+| dev.create.gitaly                          | Yes       | Yes            | Yes         | Yes              |
+| dev.create.gitter                          | Yes       | Yes            | Yes         | Yes              |
+| dev.create.knowledge                       | Yes       | No             | Yes         | No               |
+| dev.create.source_code                     | Yes       | Yes            | Yes         | Yes              |
+| dev.create.static_site_editor              | Yes       | No             | Yes         | No               |
+| dev.manage                                 | Yes       | Yes            | Yes         | Yes              |
+| dev.manage.access                          | Yes       | Yes            | Yes         | Yes              |
+| dev.manage.analytics                       | Yes       | Yes            | Yes         | Yes              |
+| dev.manage.compliance                      | Yes       | Yes            | Yes         | Yes              |
+| dev.manage.import                          | Yes       | No             | Yes         | No               |
+| dev.plan                                   | Yes       | Yes            | Yes         | Yes              |
+| dev.plan.certify                           | Yes       | Yes            | Yes         | Yes              |
+| dev.plan.portfolio_management              | Yes       | Yes            | Yes         | Yes              |
+| dev.plan.project_management                | Yes       | Yes            | Yes         | Yes              |
+| enablement                                 | Yes, PPI  | Yes, PPI       | Yes, PPI    | Yes, PPI         |
+| enablement.enablement                      | Yes, PPI  | Yes, PPI       | Yes, PPI    | Yes, PPI         |
+| enablement.enablement.database             | Yes, PPI  | Yes, PPI       | Yes, PPI    | Yes, PPI         |
+| enablement.enablement.distribution         | Yes, PPI  | Yes, PPI       | Yes, PPI    | Yes, PPI         |
+| enablement.enablement.geo                  | Yes       | Yes            | Yes         | Yes              |
+| enablement.enablement.global_search        | Yes       | Yes            | Yes         | Yes              |
+| enablement.enablement.infrastructure       | Yes, PPI  | Yes, PPI       | Yes, PPI    | Yes, PPI         |
+| enablement.enablement.memory               | Yes, PPI  | Yes, PPI       | Yes, PPI    | Yes, PPI         |
+| ops                                        | Yes       | Yes            | Yes         | Yes              |
+| ops.configure                              | Yes       | No             | Yes         | No               |
+| ops.configure.configure                    | Yes       | No             | Yes         | No               |
+| ops.monitor                                | Yes       | Yes            | Yes         | Yes              |
+| ops.monitor.apm                            | Yes       | No             | Yes         | No               |
+| ops.monitor.health                         | Yes       | No             | Yes         | No               |
+| ops.package                                | Yes       | No             | Yes         | No               |
+| ops.package.package                        | Yes       | No             | Yes         | No               |
+| ops.release                                | Yes       | No             | Yes         | No               |
+| ops.release.progressive_delivery           | Yes       | Yes            | Yes         | Yes              |
+| ops.release.release_management             | Yes       | Yes            | Yes         | Yes              |
+| ops.verify                                 | Yes       | Yes            | Yes         | Yes              |
+| ops.verify.continuous_integration          | Yes       | No             | Yes         | No               |
+| ops.verify.runner                          | Yes       | No             | Yes         | No               |
+| ops.verify.testing                         | Yes       | Yes            | Yes         | Yes              |
+| securedefend                               | Yes       | Yes            | Yes         | Yes              |
+| securedefend.defend                        | Yes, GMAC | Yes, GMAC      | Yes, GMAC   | Yes, GMAC        |
+| securedefend.defend.container_security     | Yes       | Yes            | Yes         | Yes              |
+| securedefend.defend.insider_threat         | Yes       | Yes            | Yes         | Yes              |
+| securedefend.secure                        | Yes       | Yes            | Yes         | Yes              |
+| securedefend.secure.composition_analysis   | Yes       | Yes            | Yes         | Yes              |
+| securedefend.secure.dynamic_analysis       | Yes       | Yes            | Yes         | Yes              |
+| securedefend.secure.fuzz_testing           | Yes       | Yes            | Yes         | Yes              |
+| securedefend.secure.static_analysis        | Yes       | Yes            | Yes         | Yes              |
+| securedefend.secure.threat_insights        | Yes       | Yes            | Yes         | Yes              |
+| securedefend.secure.vulnerability_research | Yes       | Yes            | Yes         | Yes              |
+
 ### Next Steps
 
 1. @jeromezng @kathleentam will meet with all stages.
@@ -188,14 +256,9 @@ For non-GMAU and non-SMAU data issues:
 
 There are five Product PI pages: The [Product Team page](https://about.gitlab.com/handbook/product/performance-indicators/) and section pages for [Dev](https://about.gitlab.com/handbook/product/dev-section-performance-indicators/), [Ops](https://about.gitlab.com/handbook/product/ops-section-performance-indicators/), [Secure & Defend](https://about.gitlab.com/handbook/product/secure-and-defend-section-performance-indicators/), [Enablement](https://about.gitlab.com/handbook/product/enablement-section-performance-indicators/).
 
-We need all PMs to ensure their PIs are showing on the performance indicator pages. To do so, we need a clear way to communicate to PMs exactly which PIs are required of them. We will be [adding placeholder PIs for each section](https://gitlab.com/groups/gitlab-com/-/epics/906) into the [performance indicator file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/performance_indicators/product.yml) so that all required PIs show in the handbook. Once a PI is implemented, the actual PI will replace the placeholder PI.
+We need all PMs to ensure their PIs are showing on the performance indicator pages. Based off [What we're aiming for](#what-were-aiming-for)
 
-Here's what we're aiming for:
-- All Sections must have a Section MAU and Paid Section MAU, except for Enablement.
-- All Stages must have a SMAU and Paid SMAU.
-- All Groups must have a GMAU and Paid GMAU (exceptions have been made for GMAC, Paid GMAC, Enablement PPI)
-
-For more information about how PIs and XMAUs are related to one another, see [PI Structure](https://about.gitlab.com/handbook/product/performance-indicators/#structure).
+To do so, we need a clear way to communicate to PMs exactly which PIs are remaining. We will be [adding placeholder PIs for each section](https://gitlab.com/groups/gitlab-com/-/epics/906) into the [performance indicator file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/performance_indicators/product.yml) so that all required PIs show in the handbook. Once a PI is implemented, the actual PI will replace the placeholder PI.For more information about how PIs and XMAUs are related to one another, see [PI Structure](https://about.gitlab.com/handbook/product/performance-indicators/#structure).
 
 **Instructions:**
 1. @jeromezng @kathleentam will [add placeholder PIs for each section](https://gitlab.com/groups/gitlab-com/-/epics/906).

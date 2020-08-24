@@ -134,7 +134,33 @@ projects:
 
 This includes the entire stack and all its facets. The product team needs to
 weigh and prioritize not only bugs, features, regressions, performance, but also
-architectural changes and other changes required for ensuring GitLab's excellence
+architectural changes and other aspects required for ensuring GitLab's excellence
+
+#### Cost profile and user experience
+
+Every Product Manager is responsible for the user experience and cost profile of their product area regardless of how the application is hosted (self-managed or gitlab.com). If a feature is unsustainable from a cost standpoint, that can erode the margins of our SaaS business while driving up the total cost of ownership for self-managed customers. If a feature is slow, it can impact the satisfaction of our users and potentially others on the platform.
+
+There are a few questions a Product Manager should ask when thinking about their features:
+
+* What are the costs associated with my product area? What is the impact on the margin for each tier of GitLab.com?
+  * Consider network, compute, and storage costs
+* Are there tools in place to help GitLab, Inc and self-managed admins optimize the cost footprint for running GitLab (e.g. node rebalancing, transitioning objects to less costly storage classes, garbage collection capabilities)
+* Are there features and default settings that help users stay within their [CI and Storage limits](https://about.gitlab.com/pricing/)?
+* Are there configurable [application limits](https://about.gitlab.com/handbook/product/product-processes/#introducing-application-limits) in place for admins to enhance the availability and performance of GitLab and reduce [abuse vectors](https://about.gitlab.com/handbook/engineering/security/operations/abuse/#examples-of-common-forms-of-abuse-include-but-are-not-limited-to)?
+* What is the experience of users when interacting with these features on GitLab.com? Is it fast and enjoyable?
+
+These items do not all need to be implemented in an MVC, though potential costs and application limits should be considered for deployment on GitLab.com. 
+
+Product Managers should also regularly assess the performance and cost of features and experiences that they are incrementally improving. While the MVC of the feature may be efficient, a few iterations may increase the cost profile.
+
+##### Tools to understand operational costs
+
+There are a few different tools PM's can utilize to understand the operational costs of their features. Some of these are maintained by Infrastructure, based on the operational data of GitLab.com. Others tools, like usage ping, can be utilized to better understand the costs of our self-managed users. Ultimately, each product group is responsible for ensuring they have the data needed to understand and optimize costs.
+
+* [GCP Billing Data](https://console.cloud.google.com/billing/) ([Access Request](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) required)
+* [Storage cost baseline sheet](https://docs.google.com/spreadsheets/d/1ueiYa_FHC_fcK97Mzv7jHEDNf8NHU0fWa4i_3HVO2v4/edit#gid=0)
+* [Usage ping](https://docs.gitlab.com/ee/development/telemetry/usage_ping.html)
+* Your Engineering Manager, #infrafin on Slack, and the broader GitLab team
 
 ### Direction
 
@@ -226,7 +252,7 @@ GitLab has an [Open Core](https://en.wikipedia.org/wiki/Open-core_model) busines
 
 |  **Level** | **Demonstrates Competency by...**| **Assessment** |
 | --- | --- | --- |
-|**PM**| Are the pricing expert for their respective groups. Comprehends impact of features on pricing and capable of making informed decisions on feature alignment tier with minimal assistance. Understands the GitLab business model and can explain why GitLab is [sold as a suite](/handbook/ceo/pricing/#only-sell-a-suite). Leads group to fulfill GitLab's [stewardship promise](/company/stewardship/#promises). Adept at applying [buyer based tiering](/handbook/ceo/pricing/#buyer-based-open-core) when determining pricing tiers. When necessary, prioritizes [quickly moving features down tiers](/handbook/ceo/pricing/#if-a-feature-can-be-moved-down-do-it-quickly). Active in learning the buyer personas and common go-to-market motions for relevant categories and stages so that they can prioritize the right features in line with GitLab's [pricing philosophy](https://about.gitlab.com/handbook/ceo/pricing/#pricing-philosophy). | TBD |
+|**PM**| Are the pricing expert for their respective groups. Comprehends impact of features on pricing and capable of making informed decisions on feature alignment tier with minimal assistance. Understands the GitLab business model and can explain why GitLab is [sold as a suite](/handbook/ceo/pricing/#only-sell-a-suite). Leads group to fulfill GitLab's [stewardship promise](/company/stewardship/#promises). Adept at applying [buyer based tiering](/handbook/ceo/pricing/#buyer-based-open-core) when determining pricing tiers. When necessary, prioritizes [quickly moving features down tiers](/handbook/ceo/pricing/#if-a-feature-can-be-moved-down-do-it-quickly). Aware that placing a feature on a lower tier is not a [two-way-door decision](/handbook/values/#make-two-way-door-decisions) since features cannot move up in tier. Active in learning the buyer personas and common go-to-market motions for relevant categories and stages so that they can prioritize the right features in line with GitLab's [pricing philosophy](https://about.gitlab.com/handbook/ceo/pricing/#pricing-philosophy). | TBD |
 |**Sr. PM**| Skilled at applying buyer based tiering when determining the pricing tier for a feature. Thinks holistically and leverages [capabilities](/handbook/ceo/pricing/#capabilities) to drive adoption for relevant features in paying tiers. Builds logical ramps to enable customers to move up in tier by prioritizing features valued by [advocates and champions](/handbook/sales/sales-operating-procedures/facilitate-the-opportunity/#312-finding-your-champions). Provides guidance and coaching to team members and fellow Product Managers to help drive consistency in tiering strategy. | TBD |
 |**Principal PM/ Group Manager PM**| Highly skilled at applying buyer based tiering when determining the pricing tier for a feature. Deeply familiar with the buyer persona and go-to-market motion in relevant stages or categories and can identify and lead their group to find the right balance between [revenue, cost, and value](/handbook/ceo/pricing/#when-is-a-dollar-not-a-dollar) for GitLab and its customers. Supports the [hybrid sales model](/handbook/ceo/pricing/#hybrid-sales-model) by simultaneously building a pipeline of self-service GitLab users with useful features in core and starter and provide higher tier value by building indispensable enterprise features and cross-stage integrations. | TBD |
 
@@ -320,3 +346,24 @@ Iteration on Product Management Onboarding is encouraged by all team members. To
 A unique and important step in the interview process for Product Management candidates is our Deep Dive Interview. The goal of this interview is to understand the candidate's ability to communicate a long term vision as well as a short term MVC, both verbally during the interview itself, and written via two follow up issues. Once the issues are ready for you to read, it is an opportunity to provide feedback and see how the candidate responds to that feedback.
 
 You can find more information and instructions on the Deep Dive interview [here](https://gitlab.com/gitlab-com/people-group/hiring-processes/blob/master/Product/DeepDive.md). For information on our hiring process, head over to our [hiring handbook pages](/handbook/hiring/). |
+
+## Taking Time Off
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/AkNcYjWrvDU" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+Team members are [strongly recommended to take two weeks of consecutive time off a year](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off). Extended leave longer than the [`no ask, must tell` GitLab paid time off](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off) is common, especially for [parental leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave). Leaving for a longer period of time can be daunting, but it is critical to ensure your `rest ethic` meets your `work ethic` and also to ensure we don't have single points of failure in the company. Here are a few suggestions for product managers to help plan for this time.
+
+On a high level, these are the two most important things to do:
+
+1. [Communicate your time off](/handbook/paid-time-off/#communicating-your-time-off)
+1. [Create a PM coverage issue](https://gitlab.com/gitlab-com/Product/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=) (details below)
+
+### Creating a PM coverage issue
+
+You can use [this issue template](https://gitlab.com/gitlab-com/Product/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=) to define handshake responsibilites. For extended leave it important is to find one ore more Directly Responsible Individuals (DRIs) that will be able to make product descisions while you are away. This may be your manager, another PM, or maybe the engineering manager for your team. The coverage issue should contain all the necessary information for the DRIs to make good decisions in your absence, so please make sure to include as much detail as needed. In addition to creating the issue, it may be useful to have a specific handover meeting to ensure that everyone is on the same page before you leave.
+
+### Returning from Time Off
+
+Returning from time off can be overwhelming and daunting. You should work with your DRIs to understand what has changed during your absence and what the current priorities are. Also, communicate transparently that your response time may be slower because you are catching up. Here are some additional tips on [how to return back to work after taking parental leave](/handbook/paid-time-off/#returning-to-work-after-parental-leave).
