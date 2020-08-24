@@ -40,7 +40,7 @@ The Shadow program is currently scheduled over a 2 - 3 week period.
 
 ### Previous Shadow Program Joiners
 
-- Catarina Ferreira (https://gitlab.com/cferreira1)
-- Kike Adio (https://gitlab.com/Kikeadio) 
+- Catarina Ferreira (https://gitlab.com/cferreira1) - participated in June / July 2020
+- Kike Adio (https://gitlab.com/Kikeadio) - participated in June / July 2020
 
 Any new shadowers are encouraged to connect with previous participants in the program for insights and guidance. 
