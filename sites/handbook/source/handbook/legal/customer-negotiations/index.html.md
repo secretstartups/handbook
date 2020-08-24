@@ -9,17 +9,17 @@ title: "Sales Guide: Collaborating with GitLab Legal"
 - TOC
 {:toc .hidden-md .hidden-lg}
 ## OVERVIEW 
-Welcome, and thank you for visiting! The purpose of this resource is to provide Sales reps assistance on: 
+Thank you for visiting! The purpose of this resource is to provide Sales reps assistance on: 
     
 (1) Operational - Best way to work with and engage GitLab legal
 
-(2) Educational - Learning about how and why GitLab legal and our agreements work to better serve you during a sales cycle  
+(2) Educational - Learning about how and why GitLab legal and our agreements work, to better serve you during a sales cycle  
 
 ## ENGAGEMENT
 - As part of this collaboration, we are measuring success by interaction with the field. For this reason, we ask that you please watch the videos and "thumbs-up" or "like" them.
 
 ## REQUESTING CONTENT
-- You are encouraged to make requests for future content that will help you and the team. Simply complete the form here: https://forms.gle/2zznmLFznSqJAQUH6
+- You are always encouraged to make requests for future content that will help you and the team. Simply complete the form here: https://forms.gle/2zznmLFznSqJAQUH6
   
 
 | OPERATIONAL| EDUCATIONAL |
