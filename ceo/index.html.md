@@ -236,10 +236,7 @@ On short flight with other team members fly economy if we can sit together, in t
 
 ## House
 
-If you are a GitLab team-member you can use our house in Utrecht, the Netherlands for free with up to 5 guests.
-You can find more information [on AirBnB](https://www.airbnb.com/rooms/22758267).
-When it is not reserved on the AirBnB calendar you can reserve it, message Karen Sijbrandij in the #loc_bayarea chat channel to do so.
-Our host Justus will check you in and out and will take care of the cleaning.
+If you are a GitLab team-member you can use our house in Utrecht, the Netherlands for free with up to 5 guests. You can check availability and reserve the home by messaging Karen Sijbrandij in the #loc_bayarea slack channel. Our host Justus will check you in and out and will take care of the cleaning.
 Enjoy your stay!
 
 ## Three levels of performance
