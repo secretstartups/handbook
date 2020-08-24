@@ -40,6 +40,17 @@ The rationale for saving call notes in this manner is as follows:
 
 At the end of each customer call any changes to customer health should be reflected in the customer's Gainsight account. You have a few ways to update the TAM Sentiment and Product Sentiment for an account's health score, described in [Determining TAM Sentiment and Product Risk](/handbook/customer-success/tam/health-score-triage/#determining-tam-sentiment-and-product-risk), the easiest of which is updating it directly when logging the call.
 
+#### Best Practices for Note-Taking
+
+ - Write down your *agenda* (including questions you want to ask). This way you can quickly add your notes for the specific context. 
+ - If you're comfortable in writing in markdown format, use it to quickly structure your notes in real-time.
+ - Allow yourself time directly after the call to clean up your notes. Avoid scheduling back-to-back meetings.
+ - Practice slowing down call conversations. Stopping the dialog for a few seconds to say “let me write that down” tells the customer what they said is important to you.
+ - Make your SA/AE/SAL take notes with you. After the meeting combine and add detail.
+ - Use chorus to record your calls so there's less pressure for you to take note of everything.
+ - When it makes sense, having you or the AE go back through the call in Chorus to transcribe is super effective, although not efficient.
+ - Write notes in whatever is easiest and always copy them to your best source of truth. But if you can write them in the source of truth in the first place, you’ll be way more efficient and consistent.
+
 ### Cadence Call Topics
 
 The below non-exhaustive list is simply suggestions for cadence calls, and other topics may be more important, so use the suggestions at your discretion.
