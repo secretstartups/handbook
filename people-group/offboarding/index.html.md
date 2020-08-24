@@ -77,8 +77,8 @@ People Operations Specialists will send the [CultureAmp](https://www.cultureamp.
 #### GitLab Alumni Program
 
 All offboarding may request to be added to the Slack channel `gitlab-alumni` by requesting through the PBP who can review the request and confirm to the People Experience Associate who can open an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=slack_googlegroup_1Passwordgroupvault) on behalf of the former team member.
-Reasons that someone would not be permitted to join would be due to involuntary offboarding due to extreme behavior or gross conduct.
-Underperformance is not a reason to exclude someone from the channel.
+Reasons that someone would not be permitted to join would be due to involuntary offboarding for extreme behavior or a voilation of our [Code of Conduct](https://about.gitlab.com/handbook/people-group/code-of-conduct/).
+Underperformance or other causes for involuntary offboarding are not a reason to exclude someone from the alumni program. 
 The purpose of this channel is to network and socialize with team members.
 Joining the channel is voluntary and subject to GitLab's [Code of Conduct](/community/contribute/code-of-conduct/).
 
