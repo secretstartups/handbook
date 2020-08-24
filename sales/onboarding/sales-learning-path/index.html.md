@@ -86,7 +86,7 @@ title: "Sales & Customer Success Quick Start Learning Path"
 *  **QUESTION: Personas & Pain Points (Assignment - 1 Point - Pre Work)**
    - Please share your thoughts on the question below. This is a classroom discussion board, let's crowdsource some knowledge! Why is it important to understand different buyer personas as a salesperson?
 *  **Customer Success Stories & Proof Points (Material - Handbook - 10 Minutes)**
-   - References are an age old tenet of sales pros! Your prospective clients will definitely be impressed by the positive business outcomes of our customers. Check out our [customer case studies](https://about.gitlab.com/customers/) and [proof points](/handbook/sales/command-of-the-message/proof-points.html) on GitLab value.
+   - References are an age old tenet of sales pros! Your prospective clients will definitely be impressed by the positive business outcomes of our customers. Check out our [customer case studies](https://about.gitlab.com/customers/) and [proof points](/handbook/sales/command-of-the-message/proof-points/) on GitLab value.
 *  **Marketing Materials Repository (Material - Gitlab.com - 10 Minutes)**
    - Check out the GitLab [marketing materials repository](https://docs.google.com/spreadsheets/d/1NK_0Lr0gA0kstkzHwtWx8m4n-UwOWWpK3Dbn4SjLu8I/edit?usp=sharing) to see all of our best and most relevant sales collateral. Please be careful to only view or download these files, and feel free to send copies to your clients to help them understand GitLab value. If you would like to share one of these assests on social media please be careful to only use the gated links to content.
 * **QUIZ: Buyer Personas (Assignment - 5 Points - Pre Work)**
@@ -112,7 +112,7 @@ title: "Sales & Customer Success Quick Start Learning Path"
 *  **Use Cases (Material - Handbook - 10 Minutes)**
    - A [customer use case](/handbook/use-cases/) is: A customer problem or initiative that needs a solution and attracts budget. Defined In customer terms: Often aligned to industry analyst market coverage (i.e. Gartner, Forrester, etc. write reports on the topic) These are discrete problems that we believe GitLab solves and are reasons customers choose GitLab (hence which we should seek out in prospects)
    - [Use Case Driven GTM](/handbook/marketing/product-marketing/usecase-gtm/)
-   - [Version Control and Collaboration Use Case](/handbook/marketing/product-marketing/usecase-gtm/version-control-collaboration/) 
+   - [Version Control and Collaboration Use Case](/handbook/marketing/product-marketing/usecase-gtm/version-control-collaboration/)
    - [CI Use Case](/handbook/marketing/product-marketing/usecase-gtm/ci/)
    - [Simplify DevOps](/handbook/marketing/product-marketing/usecase-gtm/simplify-devops/)  
 * **GitLab Security Solutions (Material - Slides and Video - 30 minutes)**

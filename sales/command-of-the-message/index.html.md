@@ -32,7 +32,7 @@ Value drivers describe what organizations are likely proactively looking for or 
 | [GitLab Value Framework](https://docs.google.com/document/d/1LKYY7kJPKUhzfYnBWNdrigpYpEtxFKxbvyAEUF1nwqY/edit?usp=sharing) | primary asset with in-depth information on GitLab's value drivers and defensible differentiators |
 | [GitLab Value Framework Summary](https://drive.google.com/open?id=1l2g7OJ3mIrCgUlLvwQbtwo-2Eg1lV8rkqUTy9dEoLdc) | 1-page quick guide, also great for sharing with internal champions |
 | [GitLab CXO Digital Transformation Discovery Guide](https://drive.google.com/open?id=1balLINV-vnd6-6TYzF3SIIJKrBPUQofVSDgQ5llC2Do) | 3-page conversation guide for executive discussions |
-| [Proof Points](/handbook/sales/command-of-the-message/proof-points.html) | don't take our word for it...3rd party validation from customers, analysts, industry awards, and peer reviews |
+| [Proof Points](/handbook/sales/command-of-the-message/proof-points/) | don't take our word for it...3rd party validation from customers, analysts, industry awards, and peer reviews |
 | [NEW Customer deck based on GitLab value drivers](https://docs.google.com/presentation/d/1SHSmrEs0vE08iqse9ZhEfOQF1UWiAfpWodIE6_fFFLg/edit?usp=sharing) | alternative to the standard GitLab pitch deck that starts with the customer's perspective and aligns to the 3 value drivers (video [here](https://youtu.be/UdaOZ9vvgXM)) |
 | [Command Plan](/handbook/sales/command-of-the-message/command-plan/) | how GitLab has operationalized Command of the Message and MEDDPPICC into the opportunity management process |
 | [MEDDPPICC](/handbook/sales/meddppicc/) | proven methodology used for strategic opportunity management and complex sales process orchestration for enterprise organizations | 
