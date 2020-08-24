@@ -20,7 +20,7 @@ Add detail here
 
 ### Prerequsites
 
-GitLab 101 
+[GitLab 101 Tool Certification](/handbook/people-group/learning-and-development/certifications/gitlab-101/)
 
 ### What do you need to get started?
 
