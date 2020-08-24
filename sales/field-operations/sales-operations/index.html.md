@@ -349,7 +349,7 @@ In addition to sponsored reporting, Sales Ops will maintain existing reports by 
 1. [SMB AMER Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXOY)
 
 **SMB EMEA & APAC**
-2. [SMB EMEA & APAC Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXBU)
+2. [SMB EMEA & APAC Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXRh)
 
 **Mid Market East**
 3. [Mid Market-East Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXOE)
