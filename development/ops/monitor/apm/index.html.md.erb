@@ -4,10 +4,16 @@ title: "APM Group"
 ---
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+## Group Change
+
+##### As of September 2020, the Monitor:APM group will not exist in its current form. It will become part of a single Monitor:Monitor group.
+More details about the Monitor stage can be found in the [Monitor handbook page](https://about.gitlab.com/handbook/engineering/development/ops/monitor/).
 
 ## APM
 
@@ -18,26 +24,24 @@ you can read more about our monitoring visions for [Logs](https://about.gitlab.c
 ### Performance Indicator (formerly known as NSM)
 
 The APM group's mission is to help our customers decrease the frequency and severity of their production issues. As such, we've defined the team's Performance Indicator (PI) to be the total number of metrics and log views. The decision to use this NSM is the following:
-* [Metric views are the entry point to monitoring](https://app.periscopedata.com/app/gitlab/636549/APM---CUSTOMER-USAGE-(Logs-+-Metrics)?widget=8437765&udv=989280)- The more useful our dashboards are, the more likely users are to come back and not default to some other tool to help them understand what is happening in their system.
-* Log views - Logs help teams correlate an event to the system's internal logs as part of the Triage workflow. The more views we'll have, the more likely that teams are resolving their production issues using our tools.
+
+- [Metric views are the entry point to monitoring](https://app.periscopedata.com/app/gitlab/636549/APM---CUSTOMER-USAGE-(Logs-+-Metrics)?widget=8437765&udv=989280)- The more useful our dashboards are, the more likely users are to come back and not default to some other tool to help them understand what is happening in their system.
+- Log views - Logs help teams correlate an event to the system's internal logs as part of the Triage workflow. The more views we'll have, the more likely that teams are resolving their production issues using our tools.
 
 Since the PI is a single metric, we've decided to combine those two metrics into a single one, representing the team's PI.
 
 ### Accessing PI data
 
-
 <embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 9033545, dashboard: 636549, embed: 'v2') %>">
 
 <embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 9033558, dashboard: 636549, embed: 'v2') %>">
 
-
-
 We expect to track the journey of users through the following funnel:
 
-```mermaid
+``` mermaid
 classDiagram
   Acquistion --|> Activation
-	Acquistion : Are users aware of the product or feature set?    
+	Acquistion : Are users aware of the product or feature set?
 	Acquistion: Measurement (Total Count of metrics and log Views) 
   Activation --|> Retention
 	Activation : Are users applying the feature?
@@ -54,18 +58,15 @@ classDiagram
 	Referral: Measurement (TBD)
 ```
 
-
-
-
 ## Communication
 
 - Slack channel: [#g_monitor_apm](https://gitlab.slack.com/archives/g_monitor_apm)
 - Slack alias: @monitor-apm-group
 - All of our team meetings are on our [Monitor Stage team calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV8xbGMyZHFpbjFoMXQ2MHFoNnJmcjJjZTE5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 - Our Google groups are organized like this:
-  - [Monitor APM Group](mailto:monitor-apm-group@gitlab.com) (whole team)
-    - [monitor-apm-be](mailto:monitor-apm-be@gitlab.com) (backened team)
-    - [monitor-apm-fe](mailto:monitor-apm-fe@gitlab.com) (frontend team)
+    - [Monitor APM Group](mailto:monitor-apm-group@gitlab.com) (whole team)
+        - [monitor-apm-be](mailto:monitor-apm-be@gitlab.com) (backened team)
+        - [monitor-apm-fe](mailto:monitor-apm-fe@gitlab.com) (frontend team)
 
 ## Backend Team members
 
@@ -80,12 +81,14 @@ classDiagram
 <%= stable_counterparts(role_regexp: /(?!Monitor:Health)Monitor/, direct_manager_role: 'Backend Engineering Manager, Monitor:Health', other_manager_roles: ['Backend Engineering Manager, Monitor:APM', 'Frontend Engineering Manager, Monitor']) %>
 
 ## Responsibilities
+
 {: #monitoring}
 
 The APM group is responsible for:
-* Providing the tools required to enable monitoring of GitLab.com
-* Packaging these tools to enable all customers to manage their instances easily and completely
-* Building integrated monitoring solutions for customers apps into GitLab, including: metrics, logging, and tracing
+
+- Providing the tools required to enable monitoring of GitLab.com
+- Packaging these tools to enable all customers to manage their instances easily and completely
+- Building integrated monitoring solutions for customers apps into GitLab, including: metrics, logging, and tracing
 
 This team maps to the [APM Group](/handbook/product/product-categories/#apm-group) category.
 
@@ -100,9 +103,9 @@ Recommended process for adding new metrics:
 1. Open an issue in the desired project outlining the new metrics desired
 1. Label with the ~group::apm label, and ping @gl-monitoring for initial review
 1. During implementation consider:
-   1. The Prometheus [naming](https://prometheus.io/docs/practices/naming/) and [instrumentation](https://prometheus.io/docs/practices/instrumentation/) guidelines
-   1. Impact on cardinality and performance of Prometheus
-   1. Whether any alerts should be created
+    1. The Prometheus [naming](https://prometheus.io/docs/practices/naming/) and [instrumentation](https://prometheus.io/docs/practices/instrumentation/) guidelines
+    1. Impact on cardinality and performance of Prometheus
+    1. Whether any alerts should be created
 1. Assign to an available APM Group reviewer
 
 ## How We Work
@@ -115,9 +118,9 @@ In addition, here are some additional details on how we work.
 
 When adding a new issue for the Monitor:APM group, follow these guidelines:
 
-* Add the `group::apm` and `devops::monitor` label
-* Do not add a specific milestone. New issues will be reviewed and scheduled appropriately.
-* For bugs, include [priority and severity labels](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#priority-labels). These may be updated, but it is helpful to understand the expectation.
+- Add the `group::apm` and `devops::monitor` label
+- Do not add a specific milestone. New issues will be reviewed and scheduled appropriately.
+- For bugs, include [priority and severity labels](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#priority-labels). These may be updated, but it is helpful to understand the expectation.
 
 When creating a new issue, try to consider if this issue can be completed in a single milestone, with the collaboration of at most one frontend and/or one backend engineer and one UX team member. If your issue is larger than that, consider creating an epic or splitting your issue in smaller issues.
 
@@ -132,8 +135,8 @@ Here is the process we use for those types of issues:
 1. Create an issue with a title like "Discussion: My Great Idea". This issue can then be assigned to specific people for comments and be assigned to a specific milestone. We do not use epics for this type of discussion because we have found it is hard to keep track of epics on our main issue boards.
 1. We should continue to update the description of the issue as we find new information or refine our ideas.
 1. Once the discussion around the new idea gets to a point where we want to start breaking it down into implementation details, we create an epic. We use epics at this point so we can be sure to group all the issues together and still have the discussion comments in one place that can be easily referenced. We do this in one of two ways:
-   1. Promote the issue to an epic.
-   1. Close the original issue, create a new epic, and then add a link from the epic to the original issue.
+    1. Promote the issue to an epic.
+    1. Close the original issue, create a new epic, and then add a link from the epic to the original issue.
 1. Create issues to cover the different iterations of implementation. Each issue should be small enough to be completed in a single milestone. If there are dependencies between these issues, we should be sure to include that information for planning purposes.
 
 ### Breaking Down Issues
@@ -146,7 +149,7 @@ For each milestone we create a [Planning issue](https://gitlab.com/gitlab-org/mo
 
 #### Filler Issues
 
-The priority issues for any given milestone are labeled with the `Deliverable` label. In addition, we want to plan for work that can be completed once the `Deliverable` issues are complete. We label these `Filler` issues. 
+The priority issues for any given milestone are labeled with the `Deliverable` label. In addition, we want to plan for work that can be completed once the `Deliverable` issues are complete. We label these `Filler` issues.
 
 As an experiment starting with the 13.2 milestone, we are going to try to limit the scope of these issues to about 1-2 days worth of development work.
 
@@ -176,8 +179,8 @@ Engineers should typically ignore the suggestion from [Dangerbot's](https://docs
 
 Advantages of keeping most MR reviews inside the Monitor Stage include:
 
-* Quicker reviews because the reviewers hopefully already have the context and don't need additional research to figure out how the MR is supposed to work.
-* Knowledge sharing among the engineers in the Monitor Stage. There is a lot of overlap between the groups in the stage and this effort will help engineers maintain context and consistency.
+- Quicker reviews because the reviewers hopefully already have the context and don't need additional research to figure out how the MR is supposed to work.
+- Knowledge sharing among the engineers in the Monitor Stage. There is a lot of overlap between the groups in the stage and this effort will help engineers maintain context and consistency.
 
 ### Weekly async issue updates
 
@@ -212,11 +215,11 @@ Towards the end of a milestone, if we find any issues that are not going to be c
 
 We only use issue weights when we have to move an issue from one milestone to the next. This is to help us understand how much remaining work we have for any issue that had to move. For example, we may schedule an issue that just needs a final review differently than an issue that has not been started. We use a simple 1 to 10 scale to estimate the remaining work:
 
-| Weight | Meaning       |
-| ------ | ------------- |
-| 1      | 10% Remaining |
-| 5      | 50% Remaining |
-| 10     | 100% Remaining/Not Started |
+| Weight | Meaning |
+| ------ | ------- |
+| 1 | 10% Remaining |
+| 5 | 50% Remaining |
+| 10 | 100% Remaining/Not Started |
 
 ### Merge Request Rate KPI
 
@@ -238,18 +241,20 @@ Starting in 13.2, we are experimenting with some best practices to increase our 
 During each milestone, we create a [Release Post Checklist](https://gitlab.com/gitlab-org/monitor/apm/-/blob/master/.gitlab/issue_templates/release-post-tracking.md) issue that is used by team members to help track the progress of the team [release posts](/handbook/marketing/blog/release-posts/). We use the checklist issue to associate release post merge requests with links to the implementation issue, links to updated documentation, and list which engineers are working on each issue. The checklist issue provides a single place to see all this information.
 
 ## Recurring Meetings
+
 While we try to keep our process pretty light on meetings, we do hold a [Monitor APM Weekly Meeting](https://docs.google.com/document/d/1Y9woIjy7ySV3lbIJHuoyROYPZhtO1L_w3XDhgGKzZt8/edit?usp=sharing) to triage and prioritize new issues, discuss our upcoming issues, and uncover any unknowns.
 
 ## Repos we own or use
-* [Prometheus Ruby Mmap Client](https://gitlab.com/gitlab-org/prometheus-client-mmap) - The ruby Prometheus instrumentation lib we built, which we used to instrument GitLab.
-* [GitLab](https://gitlab.com/gitlab-org/gitlab) - Where much of the user facing code lives.
-* [Omnibus](https://gitlab.com/gitlab-org/omnibus-gitlab) and [Charts](https://gitlab.com/charts/charts.gitlab.io) - Where the packaging related work goes on as we ship GitLab fully instrumented with a Prometheus instance.
+
+- [Prometheus Ruby Mmap Client](https://gitlab.com/gitlab-org/prometheus-client-mmap) - The ruby Prometheus instrumentation lib we built, which we used to instrument GitLab.
+- [GitLab](https://gitlab.com/gitlab-org/gitlab) - Where much of the user facing code lives.
+- [Omnibus](https://gitlab.com/gitlab-org/omnibus-gitlab) and [Charts](https://gitlab.com/charts/charts.gitlab.io) - Where the packaging related work goes on as we ship GitLab fully instrumented with a Prometheus instance.
 
 ## Issue boards
 
-* [APM](https://gitlab.com/groups/gitlab-org/-/boards/1143499) - Main board with all issues labeled "group::apm"
-* [APM - Planning](https://gitlab.com/groups/gitlab-org/-/boards/1065731) - APM issues organized by milestone
-* [APM - Product](https://gitlab.com/groups/gitlab-org/-/boards/1117038) - APM issues organized by issue type label like "feature", "bug", "backstage", "security", or "Community contribution"
-* [APM - Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1165027) - APM issues organized by workflow label of "ready for development", "in dev", or "in review".
-* [APM - Current Milestone](https://gitlab.com/groups/gitlab-org/-/boards/1509668) - APM issues that are in the current milestone organized by type of issue such as "Deliverable", "Filler", "Quality", or "Technical Writing"
-* [APM - Next Milestone](https://gitlab.com/groups/gitlab-org/-/boards/1593380) - Similar to the [APM - Current Milestone](https://gitlab.com/groups/gitlab-org/-/boards/1509668) board but focused on the next milestone for planning purposes
+- [APM](https://gitlab.com/groups/gitlab-org/-/boards/1143499) - Main board with all issues labeled "group::apm"
+- [APM - Planning](https://gitlab.com/groups/gitlab-org/-/boards/1065731) - APM issues organized by milestone
+- [APM - Product](https://gitlab.com/groups/gitlab-org/-/boards/1117038) - APM issues organized by issue type label like "feature", "bug", "backstage", "security", or "Community contribution"
+- [APM - Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1165027) - APM issues organized by workflow label of "ready for development", "in dev", or "in review".
+- [APM - Current Milestone](https://gitlab.com/groups/gitlab-org/-/boards/1509668) - APM issues that are in the current milestone organized by type of issue such as "Deliverable", "Filler", "Quality", or "Technical Writing"
+- [APM - Next Milestone](https://gitlab.com/groups/gitlab-org/-/boards/1593380) - Similar to the [APM - Current Milestone](https://gitlab.com/groups/gitlab-org/-/boards/1509668) board but focused on the next milestone for planning purposes
