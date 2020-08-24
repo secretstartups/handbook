@@ -60,6 +60,7 @@ QBRs are typically organized by region, and the agenda is determined by the Regi
 1. CRO direct reports
 1. VP of Demand Gen
 1. VP of Revenue Marketing
+1. VP of Product Management
 1. VP of Field Ops direct reports
 1. Sr. Program Manager, ENT or COMM Sales Enablement
 1. Sr. Program Manager, Customer Success Enablement (optional)
@@ -208,6 +209,7 @@ Below is a sample roll-out of the QBR planning and execution process that is fol
       1. Channel/Alliance
    1. GTM leaders - Optional
       1. Field VPs + CMO & direct reports
+      1. VP Product Management
    1. McB - Optional
 1. ENT Sales and COM Sales Enablement Program Managers (with support from Sales Ops) begin working with ENT and COMM VPs on QBR deck templates. Templates should include:
    1. Team slide – Territory coverage + account team
