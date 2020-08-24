@@ -152,10 +152,10 @@ We use a hierarchy structure to determine what the number of employees is for th
 The hierarchy of our data tools on *Accounts* as they relate to the `Total Employee` count is shown below.
 
 1. DataFox.......(Default Value)
-2. DiscoverOrg...(Only used if DataFox Employee Count field is blank)
+2. Zoominfo...(Only used if DataFox Employee Count field is blank)
 
 LinkedIn/Websites are not designated data sources.
-If a prospect communicates a different employee size from DataFox/DiscoverOrg that conflicts with segmentation of what is determined by DataFox/DiscoverOrg then SalesOPS should be notified via chatter on the record.
+If a prospect communicates a different employee size from DataFox/Zoominfo that conflicts with segmentation of what is determined by DataFox/Zoominfo then SalesOPS should be notified via chatter on the record.
 Admins have the ability to override the `Number of Employees` and bypass this hierarchy but only during our [sales segment review process](#Sales-Segment-Review-Process).
 
 ##### Sales Segment and Hierarchy Review Process
@@ -196,14 +196,14 @@ While the review process occurs over the course of Q4 the results of the process
 Both maps & written tables are kept up to date with all pairings and territory assignments.
 Our LeanData routing workflows and SFDC reports are based on these tables.
 
-The Location of each account used to determine its Sales Territory is determined by a combination of 3rd party data systems (Datafox, DiscoverOrg) and manual overrides.
+The Location of each account used to determine its Sales Territory is determined by a combination of 3rd party data systems (Datafox, Zoominfo) and manual overrides.
 This address is stored in "Account - Territory" on the Account object in SalesForce.
-This field inherits data from other fields in the following priority: 1. Admin Manual Override (if present) 2. Datafox 3. DiscoverOrg 4. Shipping Address 5. Billing Address.
+This field inherits data from other fields in the following priority: 1. Admin Manual Override (if present) 2. Datafox 3. Zoominfo 4. Shipping Address 5. Billing Address.
 
 
 ### Account Ownership Rules of Engagement
 
-1. **Source of Data**: The data source priority order for `Employee` count, `Address`, `Industry` and `Corporate Hierarchy` will be Datafox, DiscoverOrg, Linkedin; otherwise <blank> or `[[unknown]]` until resolved through manual research.
+1. **Source of Data**: The data source priority order for `Employee` count, `Address`, `Industry` and `Corporate Hierarchy` will be Datafox, Zoominfo, Linkedin; otherwise <blank> or `[[unknown]]` until resolved through manual research.
 Any disputes must follow the Final Decision Escalation Process below.
 These data points are locked in during [the sales segment review process](#sales-segment-review-process) .
 1. **Account Ownership**: Will be determined by the **Sales** `Segment`, `Address` and `Corporate Hierarchy` and all children accounts, regardless of physical location.
@@ -941,4 +941,4 @@ If there is not an existing account match in Salesforce, a new account record wi
 The adoption of any `Sales Admin` owned records will trigger an email alert that is sent to the Account Research Specialist for transparency and awareness of what account records have been claimed.
 2. The Account Research Specialist will be responsible for reviewing the `Prospect - CE User` accounts on a regular basis to determine additional account records that should be worked either by a Sales Team member or Outbound SDR.
 3. When an account record has been identified for follow up, the Account Research Specialist will work with the appropriate Regional Director (RD) to determine Outbound SDR assignment based on work load and available capacity.
-4. The assigned Outbound SDR will work the `Prospect - CE User` account the same as any other known `CE User` account leveraging the tools at their disposal (DiscoverOrg, LinkedIn Sales Navigator, etc) to add contacts to the account record and populate the firmographic profile of the account.
+4. The assigned Outbound SDR will work the `Prospect - CE User` account the same as any other known `CE User` account leveraging the tools at their disposal (Zoominfo, LinkedIn Sales Navigator, etc) to add contacts to the account record and populate the firmographic profile of the account.
