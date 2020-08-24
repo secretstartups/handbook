@@ -67,6 +67,7 @@ These are suggestions that can be used at any time on customer calls.
 
 These are suggestions that can be used on customer calls, but are time-sensitive. Examples would be deprecated features, requests for information from Product, upcoming release highlights, etc.
 
-- PostgreSQL update
-- Only/Except deprecation
-- Release 13.0 highlights
+- PostgreSQL [update](https://docs.gitlab.com/omnibus/package-information/postgresql_versions.html)
+- Only/Except [deprecation](https://about.gitlab.com/releases/2020/05/06/gitlab-com-13-0-breaking-changes/)
+- GitLab [Commit](https://about.gitlab.com/events/commit/)
+- Customer Engagement [requests](https://gitlab.com/gitlab-com/customer-success/tam/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Product%20Engagement)
