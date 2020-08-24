@@ -112,5 +112,14 @@ The TAM Manager should then work with their TAM to ensure collaboration with the
 ## Renewal Resources
 
 - [Renewal Review Handbook](/handbook/customer-success/tam/renewals/)
+- [TAM Regional Dashboard](https://gitlab.my.salesforce.com/01Z4M000000slMT)
+- Gainsight Dashboard
+
+## Quarterly Business Review (QBR)
+
+The TAM Manager is responsible for developing and delivering a [Quarterly Business Review](/handbook/sales/qbrs/) for their team each quarter.
+
+[TAM Manager QBR details](/handbook/customer-success/tam/tam-manager/qbr/)
+
 - Gainsight Dashboard - **TAM Portfolio** or **CS Leadership**
 - [SFDC: WW Renewal Forecast](https://gitlab.my.salesforce.com/00O4M000004aARC)
