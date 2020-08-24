@@ -120,6 +120,13 @@ Engineering managers apply the `Deliverable` label on issues that meet the follo
 
 We will use the `Stretch` label if we feel the issue meets most of the criteria but either contains some known unknowns, or it's uncertain whether we will have the capacity to complete the work in the current milestone. If an issue with a `Stretch` label is carried over into the next milestone, its label will change to `Deliverable`. The position in the issue board is what confers priority, rather than the presence of a `Deliverable` label. However most high priority issues are `Deliverable`.
 
+#### Definition of Ready
+Before the team will accept an issue into a milestone for work it must meet these criteria:
+
+* Issues labeled with ~feature include a well stated "why" and customer problem
+* Issues labeled ~bug include steps to reproduce
+* Designs are in the design tab if needed
+
 ### Workflow
 Unless specifically mentioned below, the Verify:Testing group follows the standard [engineering](/handbook/engineering/workflow/) and [product](/handbook/product-development-flow/) workflows.
 
@@ -140,6 +147,14 @@ Code reviews follow the standard process of using the reviewer roulette to choos
 We also recommend that team members take some time to review each others merge requests even if they are not assigned to do so, as described in the [GitLab code review process](/handbook/engineering/workflow/code-review/#reviewer). It is not necessary to assign anyone except the initial domain reviewer to your Merge Request. This process augmentation is intended to encourage team members to review Merge Requests that they are not assigned to. As a new team, reviewing each others merge requests allows us to build familiarity with our product area, helps reduce the amount of investigation that needs to be done when implementing features and fixes, and increases our [lottery factor](https://en.wikipedia.org/wiki/Bus_factor). The more review we can do ourselves, the less work the maintainer will have to do to get the merge request into good shape.
 
 This tactic also creates an environment to ask for early review on a WIP merge request where the solution might be better refined through collaboration and also allows us to share knowledge across the team.
+
+#### Issue Health Status Definitions:
+- **On Track** - We are confident this issue will be completed and live for the current milestone. It is all [downhill from here](https://basecamp.com/shapeup/3.4-chapter-12#work-is-like-a-hill).
+- **Needs Attention** - There are concerns, new complexity, or unanswered questions that if left unattended will result in the issue missing its targeted release. Collaboration needed to get back `On Track` within the week.
+   - If you are moving an item into this status please mention individuals in the issue you believe can help out in order to unstick the item so that it can get back to an `On Track` status.
+- **At Risk** - The issue in its current state will not make the planned release and immediate action is needed to get it back to `On Track` today.
+  - If you are moving an item into this status please consider posting in the [https://gitlab.slack.com/archives/CPANF553J](#g_testing) channel in slack. Try to include anything that can be done to unstick the item so that it can get back to an `On Track` status in your message.
+  - Note: It is possible that there is nothing to be done that can get the item back on track in the current milestone. If that is the case please let your manager know as soon as you are aware of this.
 
 #### Issue progress updates
 When an engineer is actively working (workflow of ~workflow::"In dev" or further right on current milestone) on an issue they will periodically leave status updates as top-level comments in the issue. The status comment should include the updated health status, any blockers, notes on what was done, if review has started, and anything else the engineer feels is beneficial. If there are multiple people working on it also include whether this is a front end or back end update. An update for each of MR associated with the issue should be included in the update comment. Engineers should also update the [health status](https://docs.gitlab.com/ee/user/project/issues/#health-status-ultimate) of the issue at this time.
@@ -187,21 +202,6 @@ Some notes/suggestions:
 
 #### Closing Issues
 After an engineer has ensured that the [Definition of Done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done) is met for an issue, they are the ones responsible for closing it. The engineer responsible for verifying an issue is done is the engineer who is the DRI for that issue, or the DRI for the final merge request that completes the work on an issue.
-
-#### Issue Health Status Definitions:
-- **On Track** - We are confident this issue will be completed and live for the current milestone. It is all [downhill from here](https://basecamp.com/shapeup/3.4-chapter-12#work-is-like-a-hill).
-- **Needs Attention** - There are concerns, new complexity, or unanswered questions that if left unattended will result in the issue missing its targeted release. Collaboration needed to get back `On Track` within the week.
-   - If you are moving an item into this status please mention individuals in the issue you believe can help out in order to unstick the item so that it can get back to an `On Track` status.
-- **At Risk** - The issue in its current state will not make the planned release and immediate action is needed to get it back to `On Track` today.
-  - If you are moving an item into this status please consider posting in the [https://gitlab.slack.com/archives/CPANF553J](#g_testing) channel in slack. Try to include anything that can be done to unstick the item so that it can get back to an `On Track` status in your message.
-  - Note: It is possible that there is nothing to be done that can get the item back on track in the current milestone. If that is the case please let your manager know as soon as you are aware of this.
-
-#### Definition of Ready
-Before the team will accept an issue into a milestone for work it must meet these criteria:
-
-* Issues labeled with ~feature include a well stated "why" and customer problem
-* Issues labeled ~bug include steps to reproduce
-* Designs are in the design tab if needed
 
 ### Meetings
 We meet on a weekly cadence for two separate meetings. Typically we conduct both of these meetings sequentially.
