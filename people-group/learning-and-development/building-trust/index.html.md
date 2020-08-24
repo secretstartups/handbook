@@ -15,11 +15,11 @@ Trust is the cornerstone of how we operate at GitLab. We trust team members to [
 
 ## Strategies to Build Trust 
 
-People Leaders should make every effort to build trust with their team as soon as they mobilize a team, when new team members start, and throughout the course of the year. Informal communication is a great tool to build trust but there are additional strategies a Manager can implement to build trust within the teams they support 
+People Leaders should make every effort to build trust with their team as soon as they mobilize a team, when new team members start, and throughout the year. Informal communication is a great tool to build trust but there are additional strategies a Manager can implement to build trust within the teams they support 
 
 ### Personality Assessments
 
-Getting to know your people through personality assessments is a great tool to build trust. ersonality assessments are a tool that can help teams understand how they are different and helps managers better understand their direct reports. The results can shine a light on ways you can adapt your processes in a way that is most effective for different team members. The results are not set in stone but assessments can help team members get to know each other quicker. It is one tool to help build trust. 
+Getting to know your people through personality assessments is a great tool to build trust. Personality assessments are a tool that can help teams understand how they are different and enable managers to better understand their direct reports. The results can shine a light on ways you can adapt your processes in a way that is most effective for different team members. The results are not set in stone but assessments can help team members get to know each other quicker. It is one tool to help build trust. 
 
 There are an abundance of free personality assessments available for free, we've outlined a few below: 
 
@@ -28,7 +28,7 @@ There are an abundance of free personality assessments available for free, we've
 - [Gallup Strengths Finder](https://www.gallup.com/cliftonstrengths/en/252137/home.aspx) 
 - [16 Personalities](https://www.google.com/search?q=16+personalities&rlz=1C5CHFA_enUS903US903&oq=16+personalities+&aqs=chrome..69i57j0l7.3119j0j7&sourceid=chrome&ie=UTF-8)
 
-**How To Use Personality Assessments:** People leaders should have all team members take a personality assessment when they first join their team. Managers should examine personality assessment results and have strength based discussion with their people. When we embrace our unique strengths and the unique strengths of our team members, we all feel more engaged, more productive, more valued, and more trusted.
+**How To Use Personality Assessments:** People leaders should have all team members take a personality assessment when they first join their team. Managers should examine personality assessment results and have strength-based discussions with their people. When we embrace our unique strengths and the unique strengths of our team members, we all feel more engaged, more productive, more valued, and more trusted.
 
 ### Use a One-Slider 
 
@@ -36,23 +36,24 @@ A one-slider is a great way for remote teams to get to know one another. Conside
 
 ### Optional Weekly Team Social Call
 
-Optional social calls are a great strategy to increase trust. Anyone can organize one. They are great tools to come together as a team informally. You can assign different team members to organize a call. They can be responsible for setting the agenda. The secret is to make the meeting non-work relatedHere are a few examples of optional social call topics:
+Optional social calls are a great strategy to increase trust. Anyone can organize one. They are great tools to come together as a team informally. You can assign different team members to organize a call. They can be responsible for setting the agenda. The secret is to make the meeting non-work related. Example optional social call topics:
 - Top three songs of all time (you can play short snippets of a song) 
 - Favorite foods
 - Two truths and a lie
-- If I won the lottery tomorrow, what would I do
+- If you won the lottery tomorrow, what would you do
+- Would you rather
 
 ### Zoom Background Ice-Breaker
 
-The Zoom feature to upload [any background image](/handbook/tools-and-tips/zoom/#virtual-background/) of your choice is a fun tool to use for an ice breaker. Managers can ask their team to come to a meeting with a background of their favorite place to vacation, or a place they hope to visit one day, and much more. It’s a great feature that can add some fun to calls and build unity. Spend the first five minutes of meeting talking about the Zoom background and giving everyone in the meeting a voice. 
+The Zoom feature to upload [any background image](/handbook/tools-and-tips/zoom/#virtual-background/) of your choice is a fun tool to use for an ice breaker. Managers can ask their team to come to a meeting with a background of their favorite place to vacation, or a place they hope to visit one day, and much more. It’s a great feature that can add some fun to calls and build unity. Spend the first five minutes of a meeting talking about the Zoom background and giving everyone in the meeting a voice. 
 
 ### Give Credit to Team members
 
-Use the '#thanks' [slack channel](/handbook/communication/#say-thanks/) to give recognition to team members in a public setting. Review team accomplishments on a quarterly basis. Meet with each team member to review their accomplishments. Take a [coaching approach](/handbook/people-group/learning-and-development/career-development/coaching/) and have the team member talk through what their accomplishments were. Managers should identify opportunities for executive management to recognize the team. They should also look for opportunities to recognize the team in front of executive management
+Use the '#thanks' [slack channel](/handbook/communication/#say-thanks/) to give recognition to team members in a public setting. Review team accomplishments quarterly. Meet with each team member to review their accomplishments. Take a [coaching approach](/handbook/people-group/learning-and-development/career-development/coaching/) and have the team members talk through what their accomplishments were. Managers should identify opportunities for executive management to recognize the team. They should also look for opportunities to recognize the team in front of executive management
 
 ### Leverage the Building High Performing Teams Model
 
-The [Building High Performing Teams model](/handbook/people-group/learning-and-development/building-high-performing-teams/) is one of the most widely used and accepted models on team development. A big component of the model is building trust. In order to reach high performance, teams need to trust each other and share a mutual regard where people are supported and respective. There is a willingness to be forthright, open and free in working with team members. Review the [Trust section](/handbook/people-group/learning-and-development/building-high-performing-teams/#stage-2-trust-building---who-are-you/) of the Building High Performing teams page.
+The [Building High Performing Teams model](/handbook/people-group/learning-and-development/building-high-performing-teams/) is one of the most widely used and accepted models on team development. A big component of the model is building trust. To reach high performance, teams need to trust each other and share mutual regard where people are supported and respected. There is a willingness to be forthright, open, and free in working with team members. Review the [Trust section](/handbook/people-group/learning-and-development/building-high-performing-teams/#stage-2-trust-building---who-are-you/) of the Building High Performing teams page.
 
 ### Ask for feedback
 
