@@ -13,7 +13,7 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 ----
 
-The questions and techniques described on this page will provide you with some ways to drive a strategic conversation with a customer, and explore the information you need to develop an [effective success plan](/handbook/customer-success/tam/success-plans/).  A Success Plan should always be a continuation of the [Command Plan](https://about.gitlab.com/handbook/sales/sales-operating-procedures/engage-and-educate-the-customer/#step-5-qualify-the-opportunity) where available.  THe below questions are for further expanding on what we know from the Command Plan, or refreshing on objectives if it has been some time.
+The questions and techniques described on this page will provide you with some ways to drive a strategic conversation with a customer, and explore the information you need to develop an [effective success plan](/handbook/customer-success/tam/success-plans/).  A Success Plan should always be a continuation of the [Command Plan](https://about.gitlab.com/handbook/sales/sales-operating-procedures/engage-and-educate-the-customer/#step-5-qualify-the-opportunity) where available.  The below questions are for further expanding on what we know from the Command Plan, or refreshing on objectives if it has been some time.
 
 ## “Where do we go from here?”
 
@@ -55,6 +55,72 @@ Asking about developer or team workflows is a good way to better understand a cu
 - “Take me through the workflow of an average developer. What tools are they using? How long does it take for them to go from starting a feature to submitting the merge request?”
 - “What are the bottlenecks you see in your current processes?”
 - “What areas of improvement are you most focused on in your SDLC?”
+
+## Metrics Based Questions
+
+Ask your stakeholders about the metrics they care about, how they measure them now (if at all) and how GitLab can help measure those.  
+Ask the customers the following questions that tie back to our three Value Drivers…
+- Increase Operational Efficiencies
+- Deliver Better Products Faster
+- Reduce Security & Compliance Risk
+
+1. Are you measuring cycle time? Is this an important metric for you?
+   - If yes, how are you doing this today?
+   - If not, have you seen our project & group level Analytics > Value Stream?
+   - **Note:** There are [customizable stages](https://docs.gitlab.com/ee/user/analytics/value_stream_analytics.html#customizable-value-stream-analytics-premium) in Premium.
+1. Are you measuring deployment frequency? Is this an important metric for you?
+   - If not, this can also be done at the project & group level via Analytics > Value Stream displaying Deployment Frequency (deploys per day) over the last 7/30/90 days.
+1. What metrics do you use for developer/team productivity?
+   - Depending on the answer, we may or may not have built-in metrics for this but its still good to find out how they measure productivity.
+1. Have you been able to reduce the size of your toolchain through your implementation of GitLab?
+   - If not, why not?
+   - If yes, how much time and money has this saved for you?
+1. Are there any other metrics that you measure or that you want to measure?
+1. What’s important to you and how can GitLab help measure that?
+
+## Stage Adoption
+
+We also want to ask about Stage Adoption metrics so that we can tie their GitLab usage into Stage Adoption.  
+(**Note:** All of these can be found along with how we measure stage adoption in our [Stage Adoption Metrics](https://about.gitlab.com/handbook/customer-success/tam/stage-adoption/) page)
+
+- **Plan**
+   - What tools do you use to organize, plan and track project work?
+   - Describe your issue and epic workflow.
+   - What percentage of your users/teams are using GitLab for this?  
+- **Create**
+   - Where do you manage your code base?
+   - What processes do you follow for code reviews?  
+- **Verify**
+   - What types of Runners are you using today? (shared, group, specific)
+   - What tools are you using for continuous integration?
+   - What percentage of projects/teams are using GitLab CI?  
+- **Package**
+   - What tools do you use for package management?
+   - What do you use to maintain Docker images?
+   - Do you use the GitLab Container Registry to manage Helm Charts?
+   - What percentage of projects are building containers as deliverables?  
+- **Secure**
+   - What do you use to scan your application source code and binaries?
+   - Do you analyze your running web application for known runtime vulnerabilities?
+   - What do you use to check your Docker images for known vulnerabilities?
+   - Do you look for known vulnerabilities in you external dependencies?  
+- **Release**
+   - Are you using GitLab to deploy your applications?
+   - Do you use GitLab pages to create, manage and deploy static sites?
+   - Are you making use of review apps to get a full production like enviornment in every merge request?
+   - How do you currently manage your releases? (i.e. versioning, release notes, etc.)  
+- **Configure**
+   - Are you using AutoDevOps to provide your users a pre-defined CI/CD configuration?
+   - Are you using Kubernetes for any of the following scenarios?
+   - Deploying software from GitLab CI/CD pipelines to Kubernetes
+   - Using Kubernetes to manage runners attached to your GitLab instance
+   - Running the GitLab application and services on a Kubernetes cluster  
+- **Monitor**
+   - How are you monitoring the stability and performance of your GitLab instance?
+   - What do you use to monitor your deployed applications?  
+- **Defend**
+   - How do you manage HTTP traffic to your deployed application?
+   - What do you use to block malicious traffic before it reaches your application?  
 
 ## Short/Medium/Long Term Priorities
 
@@ -109,4 +175,4 @@ For example:
 >
 > **Customer:** The CTO has an objective to reduce the time it takes to ship releases so we can get new features to market faster.
 
-By asking additional "why does this matter?" questions after the initial mention of wanting to set up GitLab with HA, the TAM in this scenario was able to get to a business outcome that comes straight from senior leadership. From here, the TAM can [ask about metrics](/handbook/sales/command-of-the-message/metrics.html#connect-metrics-with-positive-business-outcomes), pain points, other tools in their DevOps workflow, and other discovery questions to understand success criteria for the business outcome.
+By asking additional "why does this matter?" questions after the initial mention of wanting to set up GitLab with HA, the TAM in this scenario was able to get to a business outcome that comes straight from senior leadership. From here, the TAM can [ask about metrics](https://about.gitlab.com/handbook/sales/command-of-the-message/metrics/#connect-metrics-with-positive-business-outcomes), pain points, other tools in their DevOps workflow, and other discovery questions to understand success criteria for the business outcome.
