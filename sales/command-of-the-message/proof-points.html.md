@@ -358,6 +358,13 @@ GitLab customers were interviewed and related data was collected independently b
 
 ----
 
+<big>[The Forrester Wave™: Continuous Delivery And Release Automation, Q2 2020, June 2020](/https://www.forrester.com/report/The+Forrester+Wave+Continuous+Delivery+And+Release+Automation+Q2+2020/-/E-RES157265?objectid=RES157265)</big><br>
+_Forrester cite GitLab as a Strong Performer in Wave for CDRA_<br> 
+**Value Drivers:** Efficiency, Speed<br>
+**Usecase** SCM, CI, CD, Simplify DevOps
+
+----
+
 <big>[Gartner Peer Insights "Voice of the Customer": Application Release Orchestration](https://about.gitlab.com/analysts/gartner-votc20/)
 _GitLab is named a Customers' Choice in the March 2020 Gartner Peer Insights "Voice of the Customer" - Application Release Orchestration_<br>
 **Value Drivers:** Efficiency, Speed<br>
@@ -371,6 +378,21 @@ _Gartner Cites GitLab as a Visionary in MQ for EAPT_<br>
 **Value Drivers:** Efficiency, Speed<br>
 **Differentiators:** Visibility<br>
 **Usecase** SCM, CI, CD, Simplify DevOps, Agile
+
+----
+
+<big>[Gartner Magic Quadrant for Application Security Testing](https://about.gitlab.com/resources/report-gartner-mq-ast/)
+_Gartner Cites GitLab as a Niche Player in MQ for AST_<br>
+**Value Drivers:** Risk<br>
+**Usecase** DevSecOps
+
+----
+
+<big>[Gartner Market Guide for Software Composition Analysis](https://www.gartner.com/document/3989235?ref=solrAll&refval=260338930)
+_Gartner mentions GitLab in the context of the broader shift in the market toward developers as buyers of tools_<br>
+**Value Drivers:** Risk<br>
+**Usecase** DevSecOps
+
 
 #### 2019
 
