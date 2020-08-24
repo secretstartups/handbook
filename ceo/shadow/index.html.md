@@ -153,6 +153,9 @@ Shadows with scheduled rotations always have the option to delay to later in the
 Shadows who have chosen to delay their rotations until another time include:
 * Jarka Kosanova
 * James Ramsey
+* Liam McNally 
+* Bartek Marnane 
+* Charlie Ablett 
 
 ### How to apply
 
@@ -190,7 +193,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ------ | ------ | ------ | ------ |
-| 2020-08-17 | 2020-08-21 | [Sam White](https://gitlab.com/sam.white) - Sr. Product Manager, Defend | [Amy Brandenburg](https://gitlab.com/abrandenburg) - Technology Alliances Manager |
 | 2020-08-24 | 2020-08-28 | [Mike Miranda](https://gitlab.com/mikemiranda) - Account Executive, Commercial Sales | [Sam White](https://gitlab.com/sam.white) - Sr. Product Manager, Defend | 
 | 2020-08-31 | 2020-09-04 | [Francis Potter](https://gitlab.com/francispotter) - Sr. Solution Architect | [Mike Miranda](https://gitlab.com/mikemiranda) - Account Executive, Commercial Sales |
 | 2020-09-08 | 2020-09-11 | [Shawn Winters](https://gitlab.com/ShawnWinters) - Acceleration SDR | [Francis Potter](https://gitlab.com/francispotter) - Sr. Solution Architect |
