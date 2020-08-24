@@ -422,3 +422,63 @@ Ops will review these requests on a periodic basis, and provide a response in th
     *  `Account Territory`, `Sales Segment` & `Employees` fields will also be updated upon TSP transfer, to continually align accounts.
 
 </details> 
+
+### **Opportunity Splits**
+
+The Sales Operations team supports the opportunity credit split approval process with support from Deal Desk.  Sales Operations also maintains the process and data maintenance for opportunity splits outside of credit splits. A non-credit split is strictly functionality to support correct 100% split allocation to the opportunity owner when a credit split does not apply.  The non-credit splits are automated and the tasks will be to monitor the data for accuracy in Salesforce, ensuring correct data in CaptivateIQ and Clari. 
+
+[Opportunity Splits Approval Process](https://about.gitlab.com/handbook/sales/#opportunity-splits)
+
+<details>
+<summary markdown='span'>Operators Guide: Opportunity Splits </summary>
+
+**Opportunity Split Rules**
+1. Deal Desk, Sales Comp and Sales Ops are the only users with permissions to add, edit, update and delete splits.
+2. 100% Split always goes to the opportunity owner
+     * This does not apply for a credit split. Ex: 50/50 or any other percentage split.
+     * If the opportunity is incorrectly assigned, the split should still match the owner until correct opportunity assignment is made.
+     * This is automated and should be monitored on this [Exception Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXQt) weekly.
+3. There will never be a split that totals above 100%.  
+
+**Opportunity Splits in Clari**
+   * Rolling out in Q3
+  
+**Updating | Adding | Deleting a Split In Salesforce**
+1.  Navigate to the opportunity in SFDC.
+2.  Locate the opportunity splits relationship by using the hover links at the to or scrolling down the page.
+3.  Choose the button to add or edit a split.
+4.  Once on the split page, assign either the approved credit split, or edit the existing split percentage.
+  
+</details> 
+
+### **What if TSP is wrong? How can I request a change?**
+
+In the event our data enrichment tools are outdated or incorrect (primary address or employee count), you can submit a request to override this information.
+
+<details>
+<summary markdown='span'>Process for Requesting TSP Changes:</summary>
+
+1. **Request Process:**
+    *  Enter desired TSP information into the following fields (this can be either Account, Employee Count, or both).
+    *  Be sure to include source of correct data (ROE must still be followed)   
+          *  `[User Input] Employee Count`
+          *  `[User Input] Employee Source`
+          *  `[User Input] Address Street`
+          *  `[User Input] Address City`
+          *  `[User Input] Address State`
+          *  `[User Input] Address Post Code`
+          *  `[User Input] Address Country`
+          *  `[User Input] Address Source`
+
+1.  **Operations Review Process:**
+Ops will review these requests on a periodic basis, and provide a response in the `[TSP] Override Status` field:
+    *  **Approved** - Account changes accepted, & `[TSP] Effective Date` populated by Ops.
+    *  **Rejected** - Reason added to `[TSP] Decision Rationale` field.
+    *  **Needs Approval/More Info** - Info needed added to `[TSP] Decision Rationale` field.<p/>
+1.  **Execution:**
+    *  Turnaround time for Approved TSP changes to re-populate typically takes 24-48 hours.
+    *  Accounts with a `[TSP] Effective Date` populated will be re-routed each night to the `[TSP] Next Approved Owner`. 
+    *  `Account Territory`, `Sales Segment` & `Employees` fields will also be updated upon TSP transfer, to continually align accounts.
+
+</details> 
+
