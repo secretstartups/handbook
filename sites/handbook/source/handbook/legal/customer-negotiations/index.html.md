@@ -7,7 +7,7 @@ title: "Sales Guide: Collaborating with GitLab Legal"
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
-{:toc .hidden-md .hidden-lg}
+{:toc .hidden-md .hidden-lg}. 
 ## OVERVIEW 
 Thank you for visiting! The purpose of this resource is to provide Sales reps assistance on: 
     
