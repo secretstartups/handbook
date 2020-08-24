@@ -254,7 +254,10 @@ To create the contract:
     -Click “Send Email”
 1. The Candidate Experience Specailist will check if there is a probationary period.
     - Go to [Probationary Periods for Team Members Employed by a PEO](/handbook/people-group/contracts-and-international-expansion/#probation-periods-of-team-members-employed-through-a-peo) and check the candidate's country.
-    - Enter the duration of the probationary period (if any) in the "Offer Details". If there isn't one, put "None" in that field.
+    - Select the duration of the probationary period (if any) in the "Offer Details" dropdown. If there isn't one, select "N/A" in that field.
+1. The Candidate Experience Specailist will check if the contract is definite or fixed.
+    - If the contract is definite, select "Definite" from the dropdown in "Offer Details".
+    - If the contract is fixed, select "Fixed Contract" from the dropdown in "Offer Details" and enter the end date under "End Date".     
 1. Once the additional information is received, The Candidate Experience Specialist will generate the PEO form out of GreenHouse.
     -Click “Generate”
     -Select “PEO New Hire Template” from the dropdown
@@ -288,11 +291,16 @@ To create the contract:
    - Send Email
 1. The Candidate Experience Specailist will check if there is a probationary period.
     - Go to [Probationary Periods for Team Members Employed by a PEO](/handbook/people-group/contracts-and-international-expansion/#probation-periods-of-team-members-employed-through-a-peo) and check the candidate's country.
-    - Enter the duration of the probationary period (if any) in the "Offer Details". If there isn't one, put "None" in that field.
+    - Select the duration of the probationary period (if any) in the "Offer Details" dropdown. If there isn't one, select "N/A" in that field.
+1. The Candidate Experience Specailist will check if the contract is definite or fixed.
+    - If the contract is definite, select "Definite" from the dropdown in "Offer Details".
+    - If the contract is fixed, select "Fixed Contract" from the dropdown in "Offer Details" and enter the end date under "End Date".
 1. When the new team member provides the necessary details, the Candidate Experience Specialist will update GreenHouse offer details and generate the PEO form out of GreenHouse.
    - Offer Details
    - Update
    - Nationality
+   - Probationary Period
+   - Definite or Fixed Contract
    - Save
    - Navigate to Offer Documents
    - Generate
@@ -332,7 +340,10 @@ GitLab is working in partnership with [Global Upside](https://globalupside.com) 
 1. CES sends “Contract Info Request-Global Upside (India)” email to the new hire to collect additional details.
 1. The Candidate Experience Specailist will check if there is a probationary period.
     - Go to [Probationary Periods for Team Members Employed by a PEO](/handbook/people-group/contracts-and-international-expansion/#probation-periods-of-team-members-employed-through-a-peo) and check the candidate's country.
-    - Enter the duration of the probationary period (if any) in the "Offer Details". If there isn't one, put "None" in that field.
+    - Select the duration of the probationary period (if any) in the "Offer Details" dropdown. If there isn't one, select "N/A" in that field.
+1. The Candidate Experience Specailist will check if the contract is definite or fixed.
+    - If the contract is definite, select "Definite" from the dropdown in "Offer Details".
+    - If the contract is fixed, select "Fixed Contract" from the dropdown in "Offer Details" and enter the end date under "End Date".
 1. Once additional details are obtained, update the offer details to reflect all information. The CES should be the signatory.
 1. Generate “PEO New Hire Template” in Offer Documents to Send through DocuSign
 1. Choose template *Offer through DocuSign -Global Upside (India)*
