@@ -17,6 +17,15 @@ Zapier is an automation tool that allows us to move data from one application to
 * Facebook Lead Ads to Marketo
 * EventBrite to Marketo
 
+# What Data is Required?
+These fields must be captured in order to allow for proper routing of leads:
+* First Name
+* Last Name
+* Company
+* Country
+* Employee Bucket (If possible and must be formatted correctly)
+* Consent (Whether or not we recieved consent to send email, can be `TRUE` of `FALSE`)
+
 
 ## When to Request 
 This rubric will help you determine if Zapier is a viable solution for your campaign.  It will be at Mops discretion whether or not Zapier is the right solution for your campaign. Mops does not own Zapier, but we have access to use the tool to help with programs and campaigns. We are not responsible for setting up zaps for other reasons.
