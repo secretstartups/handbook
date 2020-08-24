@@ -125,15 +125,16 @@ The goal of the refinement process is to:
     *  If the scope of the issue is well defined and there are no dependencies, consider adding [contribution Labels](/handbook/marketing/community-relations/code-contributor-program/#contribution-labels).
     * The `~"Good for 1st time contributors"` label is particularly helpful but note that you would
       be [volunteering to mentor new contributors](/handbook/marketing/community-relations/code-contributor-program/#issues-for-first-time-contributors).
-1. Unassign the issue from yourself & reassign it to your EM.
+1. Unassign the issue from yourself and request a review from another engineer.
+1. If the reviewer agrees with the implementation plan and weight, they will move the issue to
+   `~"workflow::ready for development"`.
 
-When you are done refining, anyone should be able to read the issue description and should know
-what the issue is solving, how it is solving the problem, and the technical plan for implementing
-the issue.
+Anyone should be able to read a refined issue's description and understand what is being
+solved, how it is solving the problem, and the technical plan for implementing the issue.
 
 In order for someone to understand the issue and its implementation, they should **not** have to
 read through all the comments. The important bits should be captured in the description as the
-**single source of truth.**
+[single source of truth](/handbook/communication/#issues).
 
 
 #### Bug Diagnosis
