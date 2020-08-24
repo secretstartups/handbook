@@ -170,23 +170,7 @@ To find the handbook, navigate to www-gitlab-com project, click sites - handbook
 
 
 ### Helpful Tips for updating the Handbook
-Here are some other helpful tips in updating the handbook;
-
-### Embedding videos in the handbook
-
-First, upload the video on Youtube following the steps in [uploading conversations to Youtube](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube).
-
-Paste the below in the relevant section of the handbook where the video will be embedded, ensure you change the youtube link to your own video's link. You can retrieve this link from the embed tab of your video.
-```
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/2OjWGpOsBsM" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-```
-Submit the merge request to add the new video.
-
-
-### Adding slide decks/images
-
+The [markdown guide](https://about.gitlab.com/handbook/markdown-guide/#markdown-style-guide-for-aboutgitlabcom) page contains useful tips for updating the handbook, such as adding images, embedding documents and much more.  
 
 ### Referencing another section of the handbook for how to do something 
 If you don’t know how to do something - find another instance of it in the handbook. For example, if you want to add a table to the handbook. Navigate to a section of the handbook that contains a table, the [People Group](https://about.gitlab.com/handbook/people-group/) page is a good example.  
