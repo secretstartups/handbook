@@ -16,15 +16,21 @@ twitter_creator: "@gitlab"
 ---
 ## Goals
 
+### Key Metrics
+* North Star Metric: Outbound MQLs
+* Efficiency Metric: Cost per MQL
+* Business Impact Metric: CWA/Spend (closed-won attribution)
+* Supporting/Activitiy Metrics: SAOs, Attributed Pipeline, Emails Sent
+
 ### MQL Targets
 | Fiscal Quarter | Large |  Mid-Market |  SMB |
 | ------ | ------ | ------ | ------ |
-| Q3FY21 | TBD | TBD | TBD |
+| Q3FY21 | 4708 | 4500 | 26,893 |
 | Q4FY21 | TBD | TBD | TBD |
 | Q1FY22 | TBD | TBD | TBD |
 | Q2FY22 | TBD | TBD | TBD |
 
-*Targets are based on the original [FY21-22 Segment Marketing Plan](https://docs.google.com/presentation/d/1p4EmaoSb35d8ZnjKags1gUGF5T9afJW6RhBO8TR_VgA/edit#slide=id.p4) (GitLab internal team members may view this information).*
+*Targets are derived from [Approved Second Half FY21-22 Segment Marketing Plan](https://docs.google.com/presentation/d/1p4EmaoSb35d8ZnjKags1gUGF5T9afJW6RhBO8TR_VgA/edit#slide=id.p4) (GitLab internal team members may view this information).*
 
 ## Q3 OKRs
 [See Epic >](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1309)
@@ -124,9 +130,11 @@ In the campaigns project, you will see the following issuable templates. These t
 ### Boards and Lists
 
 #### Boards
-* [Request Intake Board](https://gitlab.com/groups/gitlab-com/-/boards/1919630?&label_name[]=Marketing%20Programs) - this board provides a high-level status view of incoming issue requests.
-* [All Milestones Board](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Marketing%20Programs)
-* All Milestones by Team Member
+**[Request Intake Board](https://gitlab.com/groups/gitlab-com/-/boards/1919630?&label_name[]=Marketing%20Programs)** - this board provides a high-level status view of incoming issue requests.
+
+**[All Milestones Board](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Marketing%20Programs)** - this board provides high level of all milestones in consecutive order
+
+**All Milestones by Team Member**
   * [Agnes Oetama](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=aoetama)
   * [Eirini Pan](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=eirinipan)
   * [Indre Kryzeviciene](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=ikryzeviciene)
@@ -134,7 +142,8 @@ In the campaigns project, you will see the following issuable templates. These t
   * [Jenny Tiemann](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=jennyt)
   * [Nout Boctor-Smith](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=nbsmith
   * [Zac Badgley](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=zbadgley)
-* All Team Members by Milestone (Current Quarter)
+
+**All Team Members by Milestone (Current Quarter)**
   - [Mktg: 2020-08-30](https://gitlab.com/groups/gitlab-com/-/boards/1948068?scope=all&utf8=%E2%9C%93&milestone_title=Mktg%3A%202020-08-30)
   - [Mktg: 2020-09-13](https://gitlab.com/groups/gitlab-com/-/boards/1948068?scope=all&utf8=%E2%9C%93&milestone_title=Mktg%3A%202020-09-13)
   - [Mktg: 2020-09-27](https://gitlab.com/groups/gitlab-com/-/boards/1948068?scope=all&utf8=%E2%9C%93&milestone_title=Mktg%3A%202020-09-27)
@@ -175,7 +184,7 @@ In the campaigns project, you will see the following issuable templates. These t
 
 Marketing Programs uses Sisense dashboards to report on integrated campaigns performance, specifically:
 
-1. [WIP: Integrated Campaigns Overview Dashboard](https://app.periscopedata.com/app/gitlab/631669/WIP:-Agnes-Oetama-IC-Dashboard): 
+1. [Demand Gen (Prev Integrated Campaigns) Overview Dashboard](https://app.periscopedata.com/app/gitlab/631669/WIP:-Agnes-Oetama-IC-Dashboard): 
 This dashboard provides quick insights on campaign performance and monitors the impacts of campaign optimizations on various funnel metrics over the life of the campaign.
 2. [WIP: Integrated Campaigns Table Summary](https://app.periscopedata.com/app/gitlab/665451/WIP:-Agnes-IC-Campaign-Table-Summary): This dashboard measures and compares the performance of integrated campaigns and channels within each campaign.
 
