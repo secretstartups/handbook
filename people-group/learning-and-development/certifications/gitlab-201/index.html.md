@@ -11,7 +11,8 @@ title: GitLab 201 Tool Certification
 
 ## Introduction
 
-Welcome to the GitLab 201 Tool certification page! Here you will find our 201 course on how to use GitLab.
+Welcome to the GitLab 201 Tool certification page! This is a self-paced course consisting of reading material, video tutorials and knowledge assessments at the end of each lesson. To become certified in GitLab 201, participants will have to pass all 3 lessons with at least 80%. 
+
 
 ### Who can benefit from this 201 training?
 
@@ -24,13 +25,13 @@ GitLab 101
 ### What do you need to get started?
 
 ### Objectives
-1.
+1. 
 1.
 1.
 
 ## Lesson 1: Epics
 
-Epics let you manage your portfolio of projects more efficiently and with less effort by tracking groups of issues that share a theme, across projects and milestones. 
+Epics let you manage your portfolio of projects more efficiently and with less effort by tracking groups of issues that share a theme, across projects and milestones. Epics are great for [project management](https://about.gitlab.com/handbook/marketing/project-management-guidelines/epics/) as they help to better [enhance your workflow](https://about.gitlab.com/blog/2020/01/21/epics-three-features-accelerate-your-workflow/).
 
 ### Uses
 
@@ -103,9 +104,9 @@ click Epic, type in the title of the epic you want to add and then select it fro
 
 **Issues** - medium for collaborating on ideas and planning work in GitLab
 
-**Boards** - set up similar to how a kanban board would look.  An issue board shows you what issues your team is working on, who is assigned to each, and where in the workflow those issues are.
+**Boards** - set up similar to how a kanban board would look. An issue board shows you what issues your team is working on, who is assigned to each, and where in the workflow those issues are.
 
-**Epic** - helps to track issues across multiple projects efficiently.  Epics give a high level view of the health status of different issues attached to that epic.
+**Epic** - helps to track issues across multiple projects efficiently. Epics give a high level view of the health status of different issues attached to that epic.
 
 ### Quiz - Lesson 1: Epics
 
@@ -113,7 +114,7 @@ To move on to the next lesson, take and pass the GitLab 201 epics quiz.
 
 ## Lesson 2: Merge Requests
 
-In GitLab 101, we learnt how to create merge requests.  In this lesson, we will dive deeper into merge requests. 
+In GitLab 101, we learned how to create [merge requests](https://about.gitlab.com/handbook/people-group/learning-and-development/certifications/gitlab-101/#lesson-3-gitlab-merge-requests).  In this lesson, we will dive deeper into merge requests. 
 
 ### Reviewing a Merge Request
 
@@ -132,7 +133,7 @@ To review a merge request,
 
 ### Suggesting Changes to a Merge Request
 
-You can suggest changes in the Merge Request Diff threads.  The Merge Request author is able to apply these suggestions with a click, which will generate a commit in the merge request.
+You can suggest changes in the Merge Request Diff threads. The Merge Request author is able to apply these suggestions with a click, which will generate a commit in the merge request.
 
 1. Choose a line to be changed, click add a comment icon
 
@@ -162,8 +163,8 @@ When you are ready for it to be merged, simply remove the [Draft] prefix from th
 
 ## Lesson 3: How to navigate www-gitlab-com project
 
-You may search through the www-gitlab-project to access the handbook.  This is useful for when you are adding a new page to the handbook.  
-To find the handbook, navigate to www-gitlab-com project, click sites - handbook - source - handbook.  Click the section of the handbook you want to navigate to (eg people group, marketing)
+You may search through the www-gitlab-project to access the handbook. This is useful for when you are adding a new page to the handbook.  
+To find the handbook, navigate to www-gitlab-com project, click sites - handbook - source - handbook. Click the section of the handbook you want to navigate to (eg people group, marketing)
 
 ### Video: How to Create a new handbook page
 
@@ -175,7 +176,7 @@ Here are some other helpful tips in updating the handbook;
 
 First, upload the video on Youtube following the steps in [uploading conversations to Youtube](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube).
 
-Paste the below in the relevant section of the handbook where the video will be embedded, ensure you change the youtube link to your own video's link.  You can retrieve this link from the embed tab of your video.
+Paste the below in the relevant section of the handbook where the video will be embedded, ensure you change the youtube link to your own video's link. You can retrieve this link from the embed tab of your video.
 ```
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/2OjWGpOsBsM" frameborder="0" allowfullscreen="true"> </iframe>
@@ -188,8 +189,8 @@ Submit the merge request to add the new video.
 
 
 ### Referencing another section of the handbook for how to do something 
-If you don’t know how to do something - find another instance of it in the handbook. For example, if you want to add a table to the handbook.  Navigate to a section of the handbook that contains a table, the [People Group](https://about.gitlab.com/handbook/people-group/) page is a good example.  
-Click 'view source' to see how the table looks.  You may copy/paste, then edit to suit your needs.
+If you don’t know how to do something - find another instance of it in the handbook. For example, if you want to add a table to the handbook. Navigate to a section of the handbook that contains a table, the [People Group](https://about.gitlab.com/handbook/people-group/) page is a good example.  
+Click 'view source' to see how the table looks. You may copy/paste, then edit to suit your needs.
 
 
 
