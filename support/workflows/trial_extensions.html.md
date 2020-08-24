@@ -22,7 +22,13 @@ Most plan change requests are related to requesting a trial with an existing sub
 
 At times, it is to immediately expire the trial or downgrade the namespace to Free.
 
-For these issues, follow the same procedure as the extending GitLab.com trials process below.
+For these issues, follow the same procedure as the extending GitLab.com trials process below, but in short:
+
+1. Try it in customers portal admin first.
+1. If you receive an error, follow the usual troubleshooting procedures in looking up the error in sentry and/or for an existing customers portal issue, adding to an existing issue or creating a new one as required.
+1. As a workaround, the plan can be changed manually in one of two ways:
+    1. GitLab.com: Add ~"Admin Escalation" label and if needed, ping the dotcom group.
+    1. Customers Console: Add ~"Console Escalation::Customers" and if needed, ping the customers-console group.
 
 ## Extending GitLab.com Trials
 

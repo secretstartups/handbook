@@ -107,9 +107,67 @@ trial                             true
  zuora_account_id
 ```
 
+### Manual Lookup
+
+If required, you can search for an order based on any existing order attribute. Use `find_by` if you believe there is only one, or `where` if you believe there may be multiple matching orders.
+
+#### Example find_by
+
+```ruby
+irb(main):003:0> Order.find_by_gl_namespace_name "example"
+#<Order:0x0000000000000
+ id: 0000,
+ customer_id: 00000,
+ product_rate_plan_id: "2c92a0fd5a840403015aa6d9ea2c46d6",
+ subscription_id: nil,
+ subscription_name: nil,
+ start_date: Fri, 31 Aug 2019,
+ end_date: Mon, 31 Aug 2020,
+ quantity: 1,
+ created_at: Mon, 20 May 2019 08:59:04 UTC +00:00,
+ updated_at: Mon, 27 Jul 2020 14:16:12 UTC +00:00,
+ gl_namespace_id: "0000000",
+ gl_namespace_name: "example",
+ amendment_type: nil,
+ trial: true,
+ last_extra_ci_minutes_sync_at: nil,
+ zuora_account_id: nil,
+ increased_billing_rate_notified_at: nil,
+ reconciliation_accepted: false,
+ billing_rate_adjusted_at: nil,
+ billing_rate_last_action: nil>
+```
+
+#### Example where
+
+```ruby
+irb(main):005:0> pp Order.where(customer_id: 000000)
+[#<Order:0x000000000bfd8990
+  id: 00000,
+  customer_id: 000000,
+  product_rate_plan_id: "2c92a0fc5a83f01d015aa6db83c45aac",
+  subscription_id: nil,
+  subscription_name: nil,
+  start_date: Tue, 12 Jun 2020,
+  end_date: Mon, 12 Jun 2021,
+  quantity: 1,
+  created_at: Tue, 16 Jun 2020 14:37:24 UTC +00:00,
+  updated_at: Wed, 19 Aug 2020 23:56:49 UTC +00:00,
+  gl_namespace_id: "000000",
+  gl_namespace_name: "example",
+  amendment_type: nil,
+  trial: true,
+  last_extra_ci_minutes_sync_at: nil,
+  zuora_account_id: nil,
+  increased_billing_rate_notified_at: nil,
+  reconciliation_accepted: false,
+  billing_rate_adjusted_at: nil,
+  billing_rate_last_action: nil>]
+```
+
 ### find_namespace
 
-Find namespaces similar to the given string
+Find a given GitLab.com namespace.
 
 #### Parameters
 
@@ -132,9 +190,7 @@ irb(main):421:0> find_namespace('test')
 
 ### **change_plan**
 
-This function will change the plan for a customer with an active or expired trial and output the namespace information after completing the change.
-
-A third optional parameter `date` can be added with format 'YYYY-MM-DD' (using the quotes), if this parameters exists the trial will be extended up to that date, otherwise no changes will be done to it.
+This function will change the plan for a customer with an active or expired **trial** and output the namespace information after completing the change.
 
 #### Parameters
 
@@ -165,21 +221,57 @@ irb(main):001:0> change_plan('example','silver','2020-05-25')
  "trial_ends_on"=>"2020-05-25",
  "trial"=>true}
 ```
-### update_group
 
-Update a groups shared runner minutes
+### update_gitlab_plan
 
-#### Parameters
+Change the plan of a namespace on GitLab.com **directly**, bypassing customers portal completely.
 
 | Name | Required | Details |
 | ------ | ------ | ------ |
-| `:id` | *Yes* | The namespace ID to update |
-| `:newplan` | *Yes* | The plan to assign to the namespace (free, bronze, silver, gold) |
-| `:mins` | *Yes* | CI Minutes to update |
+| `:namespace` | *Yes* | The namespace to update using the path |
+| `:plan` | *Yes* | The plan to assign to the namespace (free, bronze, silver, gold) |
+
+#### Sample
+
+```ruby
+irb(main):001:0> update_gitlab_plan("example","bronze")
+{"plan"=>
+  {"code"=>"bronze",
+   "name"=>"Bronze",
+   "trial"=>false,
+   "auto_renew"=>nil,
+   "upgradable"=>false},
+ "usage"=>
+  {"seats_in_subscription"=>0,
+   "seats_in_use"=>1,
+   "max_seats_used"=>1,
+   "seats_owed"=>0},
+ "billing"=>
+  {"subscription_start_date"=>"2020-08-21",
+   "subscription_end_date"=>nil,
+   "trial_ends_on"=>nil}}
+{"id"=>0000000,
+ "name"=>"Example",
+ "path"=>"example",
+ "kind"=>"group",
+ "full_path"=>"example",
+ "parent_id"=>nil,
+ "avatar_url"=>nil,
+ "web_url"=>"https://gitlab.com/groups/example",
+ "members_count_with_descendants"=>1,
+ "shared_runners_minutes_limit"=>2000,
+ "extra_shared_runners_minutes_limit"=>nil,
+ "additional_purchased_storage_size"=>0,
+ "additional_purchased_storage_ends_on"=>nil,
+ "billable_members_count"=>1,
+ "plan"=>"bronze",
+ "trial_ends_on"=>nil,
+ "trial"=>false}
+```
 
 ### force_attr
 
-Force Order to sync with what's in Zuora
+If the order has the subscription number, but a numer of nil values (especially product plan), then use this function to have the system look up the values in Zuora and copy them over.
 
 **Warning:** This only works if the plan is the product listed first. If there are multiple products, you may need to use the original function with `.last` or something else.
 
@@ -189,9 +281,18 @@ Force Order to sync with what's in Zuora
 | ------ | ------ | ------ |
 | `:subscription_name` | *Yes* | Subscription name in the order to update |
 
+#### Sample
+
+```ruby
+irb(main):021:0> force_attr("A-S00000000")
+=> {:success=>true}
+```
+
 ### fix_expired_subscription
 
-Fix expired subscription ID
+This function sets the subscription name and ID to `nil`. This was typically done because in the past, customers could not purchase a new subscription for a group if there was an expired one tied to it already.
+
+Note: Now that [customers#1446](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1446) is fixed and [customers#1174](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1174) should be fixed soon. This function shouldn't be required.
 
 #### Parameters
 
@@ -199,7 +300,94 @@ Fix expired subscription ID
 | ------ | ------ | ------ |
 | `:subscription_name` | *Yes* | Subscription name in the order to update |
 
-## Group methods
+#### Sample
+
+```ruby
+irb(main):021:0> fix_expired_subscription("A-S00000000")
+=> {:success=>true}
+```
+
+### force_reassociation
+
+Force a .com group to be associated with a given subscription. This is typically done to associate a group without charging additional seats.
+
+#### Parameters
+
+| Name | Required | Details |
+| ------ | ------ | ------ |
+| `:subscription_name` | *Yes* | The subscription name to be re-associated|
+| `:group_id` | *Yes* | The Gitlab namespace ID|
+| `:group_name` | *Yes* | The Gitlab namespace _`name`_ (not to be confused with its `path`)|
+
+#### Sample
+
+```ruby
+irb(main):021:0> force_reassociation("A-S00000000", "0000000", "example")
+=> {:success=>true}
+```
+
+### unlink_customer
+
+Completely unlink a GitLab.com account from a customers portal account.
+
+**Warning**: Unlinking means the .com groups will no longer show. This is typically only used when an admin accidentally links their account to a customers.
+
+#### Parameters
+
+| Name | Required | Details |
+| ------ | ------ | ------ |
+| `:customer_id` | *Yes* |Customer ID to be unliked from it's GitLab account.|
+
+#### Sample
+
+```ruby
+irb(main):021:0> unlink_customer(0000000)
+=> {:success=>true}
+```
+### associate_full_user_count_with_group
+
+When the subscription has multiple products listed, then the quantity (seats) is only pulled from the product plan line. Add-on seats are not automatically added. The function adds the seat count for all products listed for the subscription and copies it over to .com.
+
+**Warning**: Do *not* use this if there is true-up. True-up should not be included in the current year's seat count, but the function will add it.
+
+#### Parameters
+
+This function requires an order object
+
+| Name | Required | Details |
+| ------ | ------ | ------ |
+| `:order` | *Yes* | Order `object`]` to associate  the user count |
+
+#### Sample
+
+```ruby
+irb(main):180:0> order = Order.find 0000
+irb(main):021:0> associate_full_user_count_with_group(order)
+=> {:success=>true}
+```
+
+## EULA Methods
+
+### send_eula
+
+Generates an EULA for a subscription.
+
+#### Parameters
+
+| Name | Required | Details |
+| ------ | ------ | ------ |
+| `:subscription_name` | *Yes* | Subscription name to generate the EULA|
+
+#### Sample
+
+```ruby
+irb(main):021:0> send_eula("A-S00000000")
+=> (sample output not copied here as it is very long)
+```
+
+## GitLab.com Group methods
+
+These functions help fix various bug issues that have surfaced on GitLab.com. These functions do *not* change anything in customers portal.
 
 ### showGroups2FAStatus
 
@@ -226,7 +414,7 @@ irb(main):180:0>  showGroups2FAStatus 'some_user'
 
 ### fix_dotcom_seats
 
-In any situation similar to [this](https://gitlab.com/gitlab-org/gitlab/-/issues/220010) you can use this function to update the number of seats to the current value.
+In any situation similar to [seat count is 0](https://gitlab.com/gitlab-org/gitlab/-/issues/220010), you can use this function to update the number of seats in GitLab.com to the quantity listed in the associated customers portal order.
 
 #### Parameters
 
@@ -240,51 +428,18 @@ In any situation similar to [this](https://gitlab.com/gitlab-org/gitlab/-/issues
 irb(main):180:0>  fix_dotcom_seats 'some_namespace'
 => {:success=>true}
 ```
-### force_reassociation
 
-Force a group to be re-associated with a Subscription
+### update_group
 
-#### Parameters
-
-| Name | Required | Details |
-| ------ | ------ | ------ |
-| `:subscription_name` | *Yes* | The subscription name to be re-associated|
-| `:group_id` | *Yes* | The Gitlab namespace ID|
-| `:group_name` | *Yes* | The Gitlab namespace _`name`_ (not to be confused with its `path`)|
-
-### unlink_customer
-
-Completely unlink a GitLab.com account from a customers account
+Update a groups shared runner minutes
 
 #### Parameters
 
 | Name | Required | Details |
 | ------ | ------ | ------ |
-| `:customer_id` | *Yes* |Customer ID to be unliked from it's GitLab account.|
-
-### associate_full_user_count_with_group
-
-Associate full user count with group
-
-#### Parameters
-
-This function requires an order object
-
-| Name | Required | Details |
-| ------ | ------ | ------ |
-| `:order` | *Yes* | Order `object`]` to associate  the user count|
-
-## EULA Methods
-
-### send_eula
-
-Generating a EULA for a Subscription:
-
-#### Parameters
-
-| Name | Required | Details |
-| ------ | ------ | ------ |
-| `:subscription_name` | *Yes* |Subscription name to generate the EULA|
+| `:id` | *Yes* | The namespace ID to update |
+| `:newplan` | *Yes* | The plan to assign to the namespace (free, bronze, silver, gold) |
+| `:mins` | *Yes* | CI Minutes to update |
 
 ## FAQ
 
@@ -306,3 +461,13 @@ For a trial (`trial` is set to `true`), because it's not tied to a subscription,
 
 - `start_date`
 - `end_date`
+
+#### Example
+
+If you need to unlink a group from a subscription
+
+```ruby
+irb(main):180:0>  order = Order.find 0000
+irb(main):180:0>  order.update_attributes!(gl_namespace_id: nil, gl_namespace_name: nil)
+=> {:success=>true}
+```
