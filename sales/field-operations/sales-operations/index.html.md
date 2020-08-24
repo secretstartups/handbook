@@ -423,9 +423,9 @@ Ops will review these requests on a periodic basis, and provide a response in th
 
 </details> 
 
-### **Opportunity Splits (TSP)**
+### **Opportunity Splits**
 
-The Sales Operations team supports the opportunity credit split approval process with support from Deal Desk and also maintains the process and data maintenance for opportunity splits outside of credit splits. A non-credit split is strictly functionality to support correct 100% split allocation to the opportunity owner when a credit split does not apply.  The non-credit splits are automated and the tasks will be to monitor the data for accuracy in Salesforce, ensuring correct data in CaptivateIQ and Clari. 
+The Sales Operations team supports the opportunity credit split approval process with support from Deal Desk.  Sales Operations also maintains the process and data maintenance for opportunity splits outside of credit splits. A non-credit split is strictly functionality to support correct 100% split allocation to the opportunity owner when a credit split does not apply.  The non-credit splits are automated and the tasks will be to monitor the data for accuracy in Salesforce, ensuring correct data in CaptivateIQ and Clari. 
 
 [Opportunity Splits Approval Process](https://about.gitlab.com/handbook/sales/#opportunity-splits)
 
