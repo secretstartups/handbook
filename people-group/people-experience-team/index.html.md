@@ -163,37 +163,12 @@ Most importantly, check to see whether authorisation has been received from the 
 
 In some instances, we may be contacted by certain Governmental institutions asking for clarity into termination / seperation reasons and agreements of a team member. Please forward these emails to the relevant People Business Partner that submitted the offboarding notification, as they will have full context into the reasons and agreements and will choose to respond if needed. 
 
-### Probation Period Process
+### Probation Period Rotation
 
-Every week, the Associate assigned to the allocation will send emails to the team members respective managers to get the relevant approval that they are satisfied with the team members performance. **It is important to note that if a response was not received by a manager in the previous allocated rotation, this will fall onto the Associate in the rotation in the next week to follow up with the manager again.** 
+The People Experience Associate in the `Probation Period` rotation, will complete the full process as per the steps listed in the [Handbook](https://about.gitlab.com/handbook/people-group/contracts-and-international-expansion/#important-steps-during-the-probation-period). If the weekly rotation has come to an end and not all confirmations have been received, the Associate in the next weeks rotation will follow up with team members managers.
 
-Fortunately, we are able to use Mail Merge to get the emails sent out. Please see the below steps to follow:
 
-1. Pull the report `Probation Period Audit` from BambooHR as a CSV and import to shared People Exp drive, under the Probation Period folder. 
-1. Copy the data from Column A - I, this is important to ensure that the formulas are not replaced in Columns K - M. 
-1. Pull up the main Probation Period [spreadsheet](https://docs.google.com/spreadsheets/d/1v631AN0x2zgg-TLrE41yGEyK550bHh53suHSyIN09gk/edit?ts=5f296351#gid=0)
-1. Paste the copied data from the BambooHR sheet into `Probation Period` sheet.
-    - United Kingdom: 
-        - Probation periods differ between 3 and 6 months.
-        - If hired before 2020-05-01, then 3 months probation is applicable. If hired after 2020-05-01, a 6 month probation period is applicable. 
-        - It will say “Check Hire Date”, we have to add 3 months +91 or +182 in the formula
-1. Go to Column K (notification send date), then select filter by condition > and then date is after > today > then select OK.
-1. Then sort by A-Z under Column K again using the filter. 
-1. Add new sheet at the bottom with the date the import is taking place (like with Moo) and only copy the team members that would have been sent from that week to that spreadsheet. This will also include the sending of all team members in that same week (in rotation).
-1. Go to Add-ons > Document Studio > Open
-1. Click on `Mail Merge with Gmail`
-1. Edit with visual editor
-1. Check to ensure that the template is the Manager’s email, which can also be found in People Exp folder in Google Drive. 
-1. Ensure the `Send email to` option is listed as `Supervisors email`
-1. Edit subject line, it should be listed as `Probation Period Ending Soon`
-1. Ensure to update the merge fields in the template (no manager names will be inserted) > edit team member name and probation period end date.
-1. Add your signature 
-1. Go to “finish and merge”
-1. You are able to preview the template at the same time (will be sent to private email).
-1. If all good, click on save, this will automatically send the email to the manager.  
-1. Copy and paste the team member into `People Exp/Ops Tracker` for tracking purposes.
-1. If no response is received from previous week, send mail merge again to those managers using the same template (it's totally okay that we are repeating ourselves). You will need to delete the document studio file column data if you would like to resend in Columns N - P. 
-
+ 
 ### OSAT Team Member Feedback
 
 Once a new team member has completed their onboarding, they are asked to complete the `Onboarding Survey` to share their experience. Based on the scores received, the People Experience Associate assigned to the specific team members onboarding, will complete the following:
