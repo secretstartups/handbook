@@ -16,6 +16,7 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
    *   US team members: uspayroll@gitlab.com
    *   Non-US team members: nonuspayroll@gitlab.com
 -  **Chat channel**:  `#payroll` slack channel for questions that is not confidential.
+- Please email all questions related to commission such as calculation, deals, etc... to sales-comp@gitlab.com
 
 ## Legal Entity Payroll providers
 
@@ -26,24 +27,26 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
 - GitLab Inc (US) - ADP
 - GitLab GmbH (Germany) - CloudPay
 - GitLab LTD (UK) - Vistra
-- GitLab PTY (Australia) - iiPay
+- GitLab PTY (Australia) - [iiPay](#iipay)
+- GitLab PTY (New Zealand) - CloudPay
 - GitLab Canada Corp (Canada) - CloudPay
 
 ## Pay Date
 
-1. Employees of GitLab Inc and GitLab Federal will get pay on the 15th and the last day of the month.  The payroll schedule, pay slips, and W-2(s) are available on [ADP portal](https://workforcenow.adp.com). 
+1. Employees of GitLab Inc and GitLab Federal will get paid on the 15th and the last day of the month. The payroll schedule, payslips, and W-2(s) are available on [ADP portal](https://workforcenow.adp.com). 
    - To access pay statements, go to Myself -> Pay -> Pay Statements.
    - To access form W-2, go to Myself -> Pay -> Annual Statements.
-1. Employees of GitLab BV (Netherlands) will get their salary wired on the 25th of every month, and can see their pay slip in their personal portal on
+1. Employees of GitLab BV (Netherlands) will get their salary wired on the 25th of every month, and can see their payslip in their personal portal on
 [HR Savvy's system](https://hr-savvy.nmbrs.nl/) towards the end of the month.
-1. Employees of GitLab BV (Belgium) will get their salary wired the last day of each month and will receive their pay slip in their personal portal on [Boekfisk's system](http://www.boekfisk.be/)
-1. Employees of GitLab Ltd will get their salary wired on the last day of every month, and can see their pay slip via their personal portal on [Vistra's system](https://www.vistra.com/) towards the end of the month.
-1. Employees of GitLab GmbH will get their salary wired on the last day of every month, and can see their pay slip via their personal account on [CloudPay ESS portal](https://payroll.cloudpay.net/app/servlet/workflow?mode=ess ).
-1. Employees of GitLab Canada Corp will get pay bi-weekly and they can access their pay slip via their personal portal on [CloudPay's ESS portal](https://payroll.cloudpay.net/app/servlet/workflow?mode=ess).
-1. Employees of GitLab PTY will get their salary on the 27th of each month, and their pay slip through [iiPay portal](https://pay.iipaysp.com/RegisterUser/GITL)
+1. Employees of GitLab BV (Belgium) will get their salary wired the last day of each month and will receive their payslip in their personal portal on [Boekfisk's system](http://www.boekfisk.be/)
+1. Employees of GitLab Ltd will get their salary wired on the last day of every month, and can see their payslip via their personal portal on [Vistra's system](https://www.webcare2.com/vistra) towards the end of the month. The login details are the 9-digit user ID the employees were provided with following their first payroll. Contact `peopleops@ gitlab.com` if you need to have your password reset.
+1. Employees of GitLab GmbH will get their salary wired on the last day of every month, and can see their payslip via their personal account on [CloudPay ESS portal](https://payroll.cloudpay.net/app/servlet/workflow?mode=ess ).
+1. Employees of GitLab Canada Corp will get pay bi-weekly and they can access their payslip via their personal portal on [CloudPay's ESS portal](https://payroll.cloudpay.net/app/servlet/workflow?mode=ess).
+1. Employees of GitLab PTY Australia will get their salary on the 27th of each month, and they can access their payslip through [iiPay portal](https://pay.iipaysp.com/GITL)
+1. Employees of GitLab PTY NZ will get pay their salary on the 28th of each month, and they can access their payslip via [CloudPay's ESS portal](https://payroll.cloudpay.net/app/servlet/workflow?mode=ess).
 1. Employees of GitLab BV that are employed through GitLab's co-employer PE0:
-   - Global Upside (India) will get their salary wired by the last day of the month. Global Upside will send pay slips electronically through their HR portal.
-   - Safeguard are paid monthly and on the last day of the month (depending on the country) with exception to Switzerland, which is the 25th of each month.Payslips are provided electronically by Safeguard.
+   - Global Upside (India) will get their salary wired by the last day of the month. Global Upside will send payslips electronically through their HR portal.
+   - Safeguard are paid monthly and on the last day of the month (depending on the country) with exception to Switzerland, which is the 25th of each month. Payslips are provided electronically by Safeguard.
 1. Contractors from Nigeria, South Africa, and the US will get pay within 15 days after they submitted their monthly invoices for services to nonuspayroll@gitlab.com.
 1. Contractors from Poland, Russia,Ukraine & Romania will get paid by the 25th of each month through CXC Global.
 1. All other contractors will get pay on the 22nd of the month by iiPay and remittance advice will send to their gitlab email address.
@@ -136,7 +139,7 @@ Lumity will send a “Diff” payroll file to Payroll 5 days before pay date for
    * Payroll Specialist processing GitLab Inc will review payroll changes for GitLab Federal payroll and vice versa
    * Sr. Manager, Global Payroll and Payments will perform a final review and approve the payroll
    * All validation and reconcilation reports must be sign by the preparer, reviewer, and approver
- 
+
 
 #### Reports after Accept payroll
 
@@ -185,10 +188,16 @@ Generate the following reports and saved them on Google Shared drive for Federal
 1. Payroll notify Financial Controller after each Payroll is approved.
 
 
-### Contractors
+### iiPay
 
-#### iiPay:
-1. Team members must submit their salary invoices through BambooHR and expense through Expensify by the 8th of each month
+For employees of GitLab PTY (Australia), to view payslips visit the [iiPay sign-in portal](https://pay.iipaysp.com/GITL).
+
+If you have not received an invitation to create an account, visit the [register URL](https://pay.iipaysp.com/RegisterUser/GITL).
+
+#### Contractors:
+
+1. Team members must submit their salary invoices through BambooHR and expenses through Expensify by the 8th of each month. For example, submit May salary invoice in the month of May, which is the current month.
+
 1. To enter salary invoice in BambooHR:
    * Visit "My Info" page
    * Select "Request a Change", locate at the upper right corner in that section
@@ -212,7 +221,7 @@ Generate the following reports and saved them on Google Shared drive for Federal
 1.  For expense reimbursement, team member will need to submit through Expensify and report(s) must be approved by managers by the 8th of each month
 1.  Payroll will approve all expense reports by the 9th of each month
 1.  If the 8th fall on the holidays or weekend, then the due date will move to the last business day before the 8th.
-1.  For all new hires starting after the 8th of each month, then the current month payment will be paid with the following invoice as separate payment
+1.  For all new hires starting after the 8th of each month, then the current month payment will be paid with the following month's invoice as separate payment. For example, new joiner who joined after 8th April to submit pro-rated April salary invoice by the 8th of the following month, which is 8th of May.
 1.  Note - all new team members will receive a testing payment from iiPay to validate their bank details prior to th 1st live payment.  Please enter the bank details on the 1st day of employment.
 1.  The required fields for bank details in BambooHR under Bank Information tab:
     * Bank Name
@@ -265,7 +274,7 @@ All payroll changes (demographic information, job, bonus/commission payout reque
 - GitLab BV (Belgium) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1eMPUirNk-AtBMTF4tE49G1xCHWES_r2VfDph5KiIHP0/edit#gid=1680317269)
 - GitLab GMBH [Payroll Calendar](https://docs.google.com/spreadsheets/d/19lNDx_aiAQDoSKBRRWF779jT2qB5lG84PrBOYQYd5sI/edit#gid=1165608204)
 - GitLab PTY LTD [Payroll Calendar](https://docs.google.com/spreadsheets/d/1CO7H27ofFcFL7ztVi8Eg8_hI3W8mUwAwUtePsPJkdGw/edit#gid=724771463)
-- For all PEOs and iiPay Contractors, the payroll cut off date is 8th of each month. 
+- For all PEOs and iiPay Contractors, the payroll cut off date is 8th of each month.
     - CXC (Poland, Ukraine, Russia, Romania) [Payroll Calendar](https://docs.google.com/spreadsheets/d/18cPImcwNM4muYxJj-NHQ6YwPrxG45AmDn7GZ1t-N1rI/edit#gid=114243454)
     -  SafeGuard ([S. Korea,France, Hungary, Ireland](hhttps://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=775664482), [Japan](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=23411182), [Brazil](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=1366369546), [Italy](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=2113229619), [South Africa](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=818494923), [Spain](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=2086701953), [Switzerland](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=1979351390)) Payroll Calendar
 
@@ -275,4 +284,8 @@ All payroll changes (demographic information, job, bonus/commission payout reque
 Payroll is paid on time and accurately for each check date.
 
 ### Payroll journal entry reports submitted to Accounting <= Payroll date + 2 business days
-Payroll journal entry reports are to be submitted to Accounting no later than two business days after the payroll date. The payroll journal entry reports submitted dates are tracked in the Monthly Closing Checklist on a monthly basis.
+Payroll journal entry reports are to be submitted to Accounting GL team:
+- Non-US legal entities (except for Canada)- four calendar days before the check date
+- US and Canada - two calendar days before the check date
+
+The payroll journal entry reports submitted dates are tracked in the Monthly Closing Checklist on a monthly basis.

@@ -12,11 +12,11 @@ title: "SOX Certification"
 ## 1. Sales Representation Letter
 
 
-- **[Introduction](https://about.gitlab.com/handbook/sales/commissions/#introduction)**
+- **[Introduction](/handbook/sales/commissions/#introduction)**
 
-- **[Sales representation certificate](https://about.gitlab.com/handbook/sales/commissions/#sales-representation-letter-certifies)**
+- **[Sales representation certificate](/handbook/sales/commissions/#sales-representation-letter-certifies)**
 
-- **[Sales representation certification timelines](https://about.gitlab.com/handbook/sales/commissions/#sales-rep-certification-process-timeline)**
+- **[Sales representation certification timelines](/handbook/sales/commissions/#sales-rep-certification-process-timeline)**
 
 - **Sales certification process**
                                                                                  

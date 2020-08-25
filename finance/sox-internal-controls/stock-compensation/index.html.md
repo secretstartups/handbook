@@ -20,7 +20,7 @@ title: "Stock Compensation"
 
 **Introduction**
 
-* GitLab's equity award program is described on our [Stock Options page in the handbook.](https://about.gitlab.com/handbook/stock-options/)
+* GitLab's equity award program is described on our [Stock Options page in the handbook.](/handbook/stock-options/)
 
 
 # 1. Option Administration 
@@ -220,18 +220,18 @@ If the repurchase is not completed prior to the team member leaving the company,
 [Link to flowchart](https://drive.google.com/open?id=1TJsT9gYWSvTVWsg93S_IFLq9kJW6nNpIcMAQpTUHucQ)
 
 * Taxes levied upon early exercise and taxes withheld vary from country to country and depend on the type of team member as well. For more info on taxes, please visit:
-  * [Stock Options Handbook page](https://about.gitlab.com/handbook/tax/stock-options/)
-  * [Tax Treatment in Australia](https://about.gitlab.com/handbook/tax/stock-options/australia/)
-  * [Tax Treatment in Belgium](https://about.gitlab.com/handbook/tax/stock-options/belgium/)
-  * [Tax Treatment in Canada](https://about.gitlab.com/handbook/tax/stock-options/canada/)
-  * [Tax Treatment in Germany](https://about.gitlab.com/handbook/tax/stock-options/germany/)
-  * [Tax Treatment in Netherlands](https://about.gitlab.com/handbook/tax/stock-options/netherlands/)
-  * [Tax Treatment in UK](https://about.gitlab.com/handbook/tax/stock-options/unitedkingdom/)
-  * [Tax Treatment in USA](https://about.gitlab.com/handbook/tax/stock-options/unitedstates/)
+  * [Stock Options Handbook page](/handbook/tax/stock-options/)
+  * [Tax Treatment in Australia](/handbook/tax/stock-options/australia/)
+  * [Tax Treatment in Belgium](/handbook/tax/stock-options/belgium/)
+  * [Tax Treatment in Canada](/handbook/tax/stock-options/canada/)
+  * [Tax Treatment in Germany](/handbook/tax/stock-options/germany/)
+  * [Tax Treatment in Netherlands](/handbook/tax/stock-options/netherlands/)
+  * [Tax Treatment in UK](/handbook/tax/stock-options/unitedkingdom/)
+  * [Tax Treatment in USA](/handbook/tax/stock-options/unitedstates/)
 
 * Tax Rates and regulations for the various countries and locations are provided to GitLab by the external Tax consultant that GitLab uses. 
 
-* GitLab reports to the tax authorities only for the stock option exercises of the team members that they directly employ for the period. GitLab does not report the exercises of contractors and PEO team members to the tax authorities. Additionally, GitLab doesn't withhold tax for these team members (contractors and PEO team members) as a part of payroll processing, and subsequently, pay the tax liability for these team members to the tax authorities. For more info please visit [here](https://about.gitlab.com/handbook/tax/stock-options/).
+* GitLab reports to the tax authorities only for the stock option exercises of the team members that they directly employ for the period. GitLab does not report the exercises of contractors and PEO team members to the tax authorities. Additionally, GitLab doesn't withhold tax for these team members (contractors and PEO team members) as a part of payroll processing, and subsequently, pay the tax liability for these team members to the tax authorities. For more info please visit [here](/handbook/tax/stock-options/).
 
 * The Stock Options Administrator on a monthly basis pulls the exercise report for the previous month from Carta and uploads it to a [Google Drive folder](https://docs.google.com/document/d/1qjB2xWzUI5e8-LXxnUjeik_n_eRIiEqeYk6ZeJWGtgI/edit?usp=sharing).
 
