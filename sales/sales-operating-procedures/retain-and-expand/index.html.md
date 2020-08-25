@@ -36,7 +36,7 @@ In the retention and expansion phase, the roles and responsibilities of the TAM/
 2. Solution Architect transitions customer meta-record and technical profile to PSE or TAM.
 3. Account Executive transitions customer meta-record and business profile to TAM
 4. Define transition process for customers. Plans should not end at signature but from their goal and work backwards
-    *   SAL/AE updates Command Plan
+    *   SAL/AE updates [Command Plan](/handbook/sales/command-of-the-message/command-plan/)
     *   TAM builds the Success Plan
 5. TAM creates and execute onboarding and implementation plans
 2. Customer Implementation
@@ -79,7 +79,7 @@ It is important that both the SAL/AE and TAM conduct ongoing customer touchpoint
 
 *   SAL/TAM continually re-verify and documents customer’s positive business outcomes and connects the GitLab solution with their pain.
     *   Success Plans for TAMs in GainSight
-    *   Command Plan for SALs in Salesforce
+    *   [Command Plan](/handbook/sales/command-of-the-message/command-plan/) for SALs in Salesforce
 *   TAM develops a clear process for responding to problems that support escalations (collaborating with Sales, Support, Product, and Engineering, TAMs). Host escalation calls and manage the customer from an escalated state back to a normal state. SAL supports the TAM.
 *   SAL/AE/TAM continually meets with customers to capture problems, adjust the plan, reinforce confidence, and identify new opportunities to resell.
 *   SAL/AE remains present on how the customer is achieving their positive business outcomes.
@@ -92,7 +92,7 @@ Below are the activities that should be documented by the SAL/AE in real-time.
 
 *   Update Salesforce to capture next steps, dates in order to maintain a current status and log major events on the account.
 *   Update the Command Plan Opportunity Overview to ensure the account/opportunity assumptions are current and accurate.
-*   Update the MEDDPPICC section of the Command Plan to ensure pretentant data is up-to-date and accurate
+*   Update the [MEDDPPICC](/handbook/sales/meddppicc/) section of the [Command Plan](/handbook/sales/command-of-the-message/command-plan/) to ensure pretentant data is up-to-date and accurate
 *   Update the Close Plan and Close Date to ensure you’re forecasting accurately
 
 #### 3.2.3 Weekly Account Maintenance Activities (SAL/AE)

@@ -22,9 +22,8 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC                                                                    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|
-| Aug 20 | Q3 FY21 GitLab Product Release Update for Sales                          | Brian Glanz       |
-| Aug 27 | ROI Analysis                                                             | Mahesh Kumar, Sales (TBD)                       |
-|  Sep 3 | Demystifying the Metrics Conversation                                    | David Somers, John Jeremiah, Sales (TBD)        |
+|  Aug 27 | Demystifying the Metrics Conversation                                    | David Somers, John Jeremiah, Sales (TBD)        |
+| Sep 3 | ROI Analysis                                                             | Mahesh Kumar, Sales(TBD)                       |
 | Sep 10 | Atlassian & the GitLab/Jira Customer Conversation                        | Cormac Foster, Mahesh Kumar, Aleeta Bell (Sales TBD) |
 | Sep 17 | Maximizing Value of Partners in a Deal (Co-Selling with Partners Part 2) | David Forsch, Ed Cepulis                        |
 | Sep 24 | Q3 FY21 Competitive Update                                               | Mahesh Kumar                                    |
@@ -38,6 +37,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2020-08-20 | **[Q3 FY21 GitLab Product Release Update for Sales](https://youtu.be/Wldab4cx9OE)**               | Public      |
 | 2020-08-13 | **[Gainsight Overview for Sales](https://youtu.be/mBdVeZJKthw)** | Private | 
 | 2020-08-06 | **[The Value of Professional Services: A CFO's Perspective](https://youtu.be/arF-6BBRAxU)** | Private |
 | 2020-07-16 | **[The GitLab Journey & the GitOps Use Case](https://youtu.be/Ap14indu2-w)** | Public |

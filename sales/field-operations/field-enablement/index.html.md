@@ -172,7 +172,7 @@ The below is a work in progress as we define success measures across each stage 
    *  **Labels**
       - **Team labels**
           - `field enablement` - issue initially created, used in templates, the starting point for any label that involved Field Enablement
-          - `FieldOps` - label for issues that we want to expose to the VP of Field Operations; these will often mirror issues with the SCE: priority 1 tag, particularly those relating to OKRs and other prioritized projects by Field Ops leadership
+          - `FieldOps` - label for issues that we want to expose to the VP of Field Operations; these will often mirror issues with the `FE priority::1` label
       - **Stakeholder/Customer labels**
           - `FE:CS enablement` - label for Field Enablement issues related to enabling Customer Success (CS) roles
           - `FE:sales enablement` - label for Field Enablement issues related to enabling Sales roles
@@ -186,24 +186,31 @@ The below is a work in progress as we define success measures across each stage 
           - `force management` - label for issues related to Force Management engagement
              - `vff` - label for Value Framework Feedback
              - `vff::new` - starting point for Value Framework feedback
-             - `vff::accepted` = Value Framework feedback that will be actioned on
-             - `vff::deferred` = Value Framework feedback that will be deferred until more information is gathered
-             - `vff::declined` = Value Framework feedback that is declined (no action will be taken)
+             - `vff::accepted` - Value Framework feedback that will be actioned on
+             - `vff::deferred` - Value Framework feedback that will be deferred until more information is gathered
+             - `vff::declined` - Value Framework feedback that is declined (no action will be taken)
           - `onboarding` - label for issues related to onboarding
+          - `QBR` - requests from Sales QBRs
           - `sales enablement sessions` - label for weekly virtual sales enablement series
           - `sko` - label for issues related to Sales Kick Off
           - `status:plan` - used in conjunction with sales enablement sessions to indicate when a session topic has been prioritized but not yet scheduled
           - `status:scheduled` - used in conjunction with sales enablement sessions to indicate when a session topic has been prioritized and scheduled
+      - **Status labels**
+          - `FE status::triage` - assigned to new requests before priority status is determined
+          - `FE status::wip` - work in progress that has been accepted and assigned to a DRI
+          - `FE status::backlog` - things in the queue not currently being worked
       - **Priority labels**
-          - `FE:new request` - label for triaging new requests originating outside of the Field Enablement team
-          - `FE priority::1` - Home runs (high value to GitLab and high likelihood of success that align to S&CE OKRs) and committed to completion within 90 days. This category will be limited because not everything can be a priority.
-          - `FE priority::2` - Big Bets (high value to GitLab, lower likelihood of success) within 90 days
-          - `FE priority::3` - Small wins (lower value to GitLab, high likelihood of success) within 90 days
-          - `FE priority::Backlog` - Things in the queue not currently being worked
-          - `QBR` - Requests from Sales QBRs
+          - `FE priority::new request` - label for new requests that have not yet been prioritized
+          - `FE priority::1` - work that directly supports an OKR
+          - `FE priority::2` - work that does not directly support an OKR but has a large impact on the field team
+          - `FE priority::3` - work that does not directly support an OKR and has a low to medium impact on the field
    *  **Field Enablement Issue Boards**
       - [Field Enablement By Initiative Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1191445)
       - [Field Enablement By Priority Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1644552?&label_name[]=field%20enablement)
       - [Sales Enablement Sessions Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1231617)
       - [Customer Success Skills Exchange Board](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/boards/1414538)
-      - [Sales & CS Onboarding Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1645038)
+      - [Sales & CS Onboarding Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1790236)
+      - [Partner Enablement Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1645038)
+      - [Field Certification Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1637426)
+      - [Command of the Message and MEDDPPICC Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1823684)
+      - [Commercial Sales Enablement Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1790139)

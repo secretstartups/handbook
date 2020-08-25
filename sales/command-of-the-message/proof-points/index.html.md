@@ -14,7 +14,7 @@ twitter_image: '/images/tweets/research-panel.png'
 ## Overview
 _[The original and internal-to-GitLab proof points Google Doc is online, here](https://docs.google.com/document/d/1Tuhg6LO0e6R-KP7Vfwb8cggHDiBzkC26pBl0lyLS7UY/edit) while some parts of this handbook page are being approved for publication._
 
-Proof points with third-party validation are a key resource, whether from [customers](#customer-references-and-case-studies), [analysts](/handbook/sales/command-of-the-message/proof-points.html#analyst-reports-and-studies), [industry awards](/handbook/sales/command-of-the-message/proof-points.html#industry-awards), or [peer reviews](/handbook/sales/command-of-the-message/proof-points.html#peer-reviews), and they are augmented here with [Gitlab's own industry research](/handbook/sales/command-of-the-message/proof-points.html#gitlab-reports-and-studies).
+Proof points with third-party validation are a key resource, whether from [customers](#customer-references-and-case-studies), [analysts](/handbook/sales/command-of-the-message/proof-points/#analyst-reports-and-studies), [industry awards](/handbook/sales/command-of-the-message/proof-points/#industry-awards), or [peer reviews](/handbook/sales/command-of-the-message/proof-points/#peer-reviews), and they are augmented here with [Gitlab's own industry research](/handbook/sales/command-of-the-message/proof-points/#gitlab-reports-and-studies).
 
 Articulating value is a critical sales skill in achieving [Command of the Message](/handbook/sales/command-of-the-message/).
 
@@ -26,22 +26,55 @@ Articulating value is a critical sales skill in achieving [Command of the Messag
 
 <big>[Goldman Sachs](/customers/goldman-sachs/)</big><br>
 **Problem:** Needed to increase developer efficiency and software quality<br>
-**Solution:** GitLab Premium (CI/CD, SCM)<br>
+**Solution:** GitLab Premium (CI/CD, VC&C)<br>
 **Result:** Improved from 1 build every two weeks to over a 1000/day, or releasing 6 times per day per developer, and an average cycle time from branch to merge is now 30 minutes; simplified workflow and simplified administration<br>
 **Value Drivers:** Efficiency, Speed<br>
 **Differentiators:** Single App<br>
-**Usecase:** CI, CD, SCM, Simplify DevOps<br>
+**Usecase:** CI, CD, VC&C, Simplify DevOps<br>
 **Vertical:** Financial Services
 
 ----
 
-<big>[Axway](/customers/axway/)</big><br>
-**Problem:** Legacy SCM and complex toolchain limited worldwide collaboration<br>
-**Solution:** GitLab Premium (SCM)<br>
-**Result:** Result: 26x faster release cycle; from annual releases down to every two weeks<br>
-**Value Drivers:** Speed<br>
+<big>[Sopra Steria](/customers/sopra_steria/)</big><br>
+**Problem:** Needed a solution to empower developers and accelerate software efficiency<br>
+**Solution:** GitLab Premium (CI/CD, SCM)<br>
+**Result:** One solution for over 10,000 Users, 6 minutes for a software build, Zero Developer time for CI/CD<br>
+**Value Drivers:** Efficiency, Speed<br>
+**Differentiators:** Single App, SCM, CI & CD<br>
+**Usecase:** CI, CD, SCM, Simplify DevOps<br>
+**Vertical:** Technology
+
+----
+
+<big>[NVIDIA](/customers/Nvidia/)</big><br>
+**Problem:** Dispersed development groups faced mirroring issues in time management and security<br>
+**Solution:** GitLab Premium (CI/CD, SCM)<br>
+**Result:** Zero downtime, 51% user growth in 1 year and 99% uptime resulting in increased efficiency<br>
+**Value Drivers:** Efficiency, Speed<br>
+**Differentiators:** Single App, CI & CD<br>
+**Usecase:** CI, CD, SCM, Simplify DevOps<br>
+**Vertical:** Technology
+
+----
+
+<big>[Cook County Assessor's Office](/customers/cook-county/)</big><br>
+**Problem:** Cook County needed a data management platform for secure and accurate property assessments<br>
+**Solution:** GitLab Silver<br>
+**Result:** Over 1.8 million properties assessed with an estimated market value of $270 billion. There are 31 repositories, with over 1,400 commits<br>
+**Value Drivers:** Efficiency<br>
+**Differentiators:** Single App,SCM<br>
+**Usecase:** SCM <br>
+**Vertical:** Government
+
+----
+
+<big>[Axway](/customers/axway-devops/)</big><br>
+**Problem:** Legacy CD tool was slow to provide developer feedback and lacked security<br>
+**Solution:** GitLab Premium (CI/CD)<br>
+**Result:** Reduced change failure rate below 15%, and MTTR to less than 2 hours.<br>
+**Value Drivers:** Speed, Efficiency, Security<br>
 **Differentiators:** Single App, SCM & CI<br>
-**Usecase:** SCM<br>
+**Usecase:** CI/CD<br>
 **Vertical:** Computer Software<br>
 
 ----
@@ -58,20 +91,20 @@ Articulating value is a critical sales skill in achieving [Command of the Messag
 
 <big>[Hemmersbach](/customers/hemmersbach/)</big><br>
 **Problem:** Multiple tools and communication inefficiencies slowed application delivery<br>
-**Solution:** GitLab Ultimate (Agile, CI, CD, SCM)<br>
+**Solution:** GitLab Ultimate (Agile, CI, CD, VC&C)<br>
 **Result:** Increased build speed by 59x, 14.4% improvement in cycle time<br>
 **Value Drivers:** Speed<br>
-**Usecase:** CI, CD, SCM, Agile<br>
+**Usecase:** CI, CD, VC&C, Agile<br>
 **Vertical:** Technology<br>
 
 ----
 
 <big>[European Space Agency](/customers/european-space-agency/)</big><br>
 **Problem:** Geographic separation led to software deployment that used to take weeks<br>
-**Solution:** GitLab Starter (SCM, CI)<br>
+**Solution:** GitLab Starter (VC&C, CI)<br>
 **Result:** Toolchain simplified and blooming culture of collaboration; code deployed in minutes when it used to take weeks<br>
 **Value Drivers:** Efficiency, Speed<br>
-**Usecase:** CI, CD, SCM<br>
+**Usecase:** CI, CD, VC&C<br>
 **Vertical:** Technology<br>
 
 ----
@@ -89,8 +122,8 @@ Articulating value is a critical sales skill in achieving [Command of the Messag
 **Problem:** Lack of large scale collaboration and visibility<br>
 **Solution:** GitLab Starter (CI)<br>
 **Result:** Over 12,000 users collaborate on GitLab, running 120,000 CI jobs each month<br>
-**Differentiators:** SCM & CI, Open Source<br>
-**Usecase:** CI, SCM<br>
+**Differentiators:** VC&C & CI, Open Source<br>
+**Usecase:** CI, VC&C<br>
 **Vertical:** Science, Technology, and Education<br>
 
 ----
@@ -108,10 +141,10 @@ Articulating value is a critical sales skill in achieving [Command of the Messag
 
 <big>[Equinix](/customers/equinix/)</big><br>
 **Problem:** Legacy developer tools prevented faster delivery<br>
-**Solution:** GitLab Premium (SCM)<br>
+**Solution:** GitLab Premium (VC&C)<br>
 **Result:** Consistent code reviews and visibility across the SDLC<br>
 **Differentiators:** Visibility<br>
-**Usecase:** SCM<br>
+**Usecase:** VC&C<br>
 **Vertical:** Technology<br>
 
 ----
@@ -143,7 +176,7 @@ _**Video:** [Ask Media Group shares with GitLab how they accomplished Cloud Nati
 **Solution:** GitLab Premium (CI, Agile)<br>
 **Result:** Reduced deploy process to under 8 hours<br>
 **Value Drivers:** Efficiency<br>
-**Usecase:** CI, CD, SCM, GitOps, Agile<br>
+**Usecase:** CI, CD, VC&C, GitOps, Agile<br>
 **Vertical:** Telematics<br>
 
 ----
@@ -152,12 +185,45 @@ _**Video:** [Ask Media Group shares with GitLab how they accomplished Cloud Nati
 
 <big>[Alteryx](/customers/alteryx/)</big><br>
 **Problem:** Legacy developer tools slowed software delivery frequency<br>
-**Solution:** GitLab Ultimate( CI, CD, Security, SCM)<br>
+**Solution:** GitLab Ultimate(CI, CD, Security, SCM)<br>
 **Result:** Software builds now 30 minutes from over 3 hours, able to release 9 times a day<br>
 **Value Drivers:** Efficiency<br>
-**Differentiators:** Single App, SCM & CI, Security<br>
+**Differentiators:** Single App, VC&C & CI, Security<br>
+**Usecase:** CI, CD, VC&C, DevSecOps<br>
+**Vertical:** Technology<br>
+
+----
+
+<big>[Glispa](/customers/glispa/)</big><br>
+**Problem:** Trouble with orchestration issues led Glispa to seek out GitLab in order to migrate to Kubernetes<br>
+**Solution:** GitLab Premium (CI, CD, SCM)<br>
+**Result:** Migrated to Kubernetes in just 3 months, over 846 projects with 20 runners with 1,000 jobs per runner<br>
+**Value Drivers:** Efficiency, Speed<br>
+**Differentiators:** Single App, SCM & CI, Kubernetes<br>
+**Usecase:** CI, CD, SCM, Simply DevOps<br>
+**Vertical:** Mobile Advertising<br>
+
+----
+
+<big>[KnowBe4](/customers/knowbe4/)</big><br>
+**Problem:** KnowBe4 was looking for a tool to keep code in-house and that offered the capabilities of several tools in one<br>
+**Solution:** GitLab Ultimate (CI, CD, Security, SCM) and AWS<br>
+**Result:** Over 5 times more production deploys daily and over 20 times more development environments deploy per day for any given application<br>
+**Value Drivers:** Efficiency, Speed, Security<br>
+**Differentiators:** Single App, SCM & CI, AWS, Security<br>
 **Usecase:** CI, CD, SCM, DevSecOps<br>
 **Vertical:** Technology<br>
+
+----
+
+<big>[Wish](/customers/wish/)</big><br>
+**Problem:** Wish was using TeamCity for CI and build management, but their automated jobs kept failing. The development team used a homegrown toolchain that included GitHub for SCM and Phabricator for code reviews<br>
+**Solution:** GitLab Premium (CI)<br>
+**Result:** 50% reduction in pipeline down time, 3 times increase in runners and less than 10 last minute fixes per release. Wish has removed the bottlenecks associated with complex toolchains<br>
+**Value Drivers:** Efficiency, Speed<br>
+**Differentiators:** Single App, SCM & CI<br>
+**Usecase:** CI, CD, SCM<br>
+**Vertical:** Retail<br>
 
 ----
 
@@ -174,30 +240,30 @@ _**Video:** [Ask Media Group shares with GitLab how they accomplished Cloud Nati
 
 <big>[EAB](/customers/EAB/)</big><br>
 **Problem:** Slow builds, expensive both in cost and maintenance due to multiple tools<br>
-**Solution:** GitLab Premium (SCM, CI)<br>
+**Solution:** GitLab Premium (VC&C, CI)<br>
 **Result:** Build time reduced from 6 hours to 20 minutes, reduced toolchain complexity, and lightweight maintenance<br>
-**Usecase:** CI, SCM<br>
+**Usecase:** CI, VC&C<br>
 **Vertical:** Education<br>
 
 ----
 
 <big>[Worldline](/customers/worldline/)</big><br>
 **Problem:** Long cycle times and hard to collaborate between developers<br>
-**Solution:** GitLab Community Edition (SCM, CI)<br>
+**Solution:** GitLab Community Edition (VC&C, CI)<br>
 **Result:** From 2 weeks to set up a new project to just minutes, 120x increase in code reviews<br>
 **Value Drivers:** Efficiency, Risk<br>
-**Usecase:** CI, SCM<br>
+**Usecase:** CI, VC&C<br>
 **Vertical:** Financial Services<br>
 
 ----
 
 <big>[Paessler AG](/customers/paessler/)</big><br>
 **Problem:** Unstable and fragile developer tools resulted in slow QA cycles and infrequent releases<br>
-**Solution:** GitLab Premium (SCM, CI, CD)<br>
+**Solution:** GitLab Premium (VC&C, CI, CD)<br>
 **Result:** 120x faster QA, 4x more frequent releases<br>
 **Value Drivers:** Speed, Risk<br>
-**Differentiators:** SCM & CI<br>
-**Usecase:** CI, CD, SCM<br>
+**Differentiators:** VC&C & CI<br>
+**Usecase:** CI, CD, VC&C<br>
 **Vertical:** Network Software<br>
 
 ----
@@ -206,7 +272,7 @@ _**Video:** [Ask Media Group shares with GitLab how they accomplished Cloud Nati
 **Problem:** Legacy developer tools prevented collaboration and faster delivery<br>
 **Solution:** GitLab<br>
 **Result:** Unified developers on a common platform, reduced the total number of tools, and eased the transition to CI/CD<br>
-**Usecase:** CI, CD, SCM<br>
+**Usecase:** CI, CD, VC&C<br>
 **Vertical:** IT Management<br>
 
 ----
@@ -228,8 +294,69 @@ _**Video:** [Ask Media Group shares with GitLab how they accomplished Cloud Nati
 **Solution:** GitLab Premium<br>
 **Result:** Over 400 hours cut from ‘bug to resolution’ time, 7.5x faster engineering time per bug<br>
 **Value Drivers:** Speed<br>
-**Usecase:** SCM<br>
+**Usecase:** VC&C<br>
 **Vertical:** Agriculture Technology<br>
+
+----
+
+<big>[Hotjar](/customers/hotjar/)</big><br>
+**Problem:** Hotjar, a growing all-remote company, was looking for an enhanced CI/CD tool to replace Jenkins<br>
+**Solution:** GitLab Silver<br>
+**Result:** Daily deploys increased from 2 to 15, 30% decrease in time to build GitLab CI vs Jenkins, and 50% deployment time saved<br>
+**Value Drivers:** Efficiency, Speed<br>
+**Usecase:** SCM, CI, CD, Kubernetes, All Remote<br>
+**Vertical:** Technology<br>
+
+----
+
+<big>[Remote](/customers/remote)</big><br>
+**Problem:** Remote wanted to get up and running quickly without spending time and money on a multi-toolchain<br>
+**Solution:** GitLab Silver<br>
+**Result:** 100% of deadline met, 100% focus on product and 3795 code pushed in a 3 month period<br>
+**Value Drivers:** Efficiency, Speed<br>
+**Usecase:** SCM, CI, CD, All Remote<br>
+**Vertical:** Technology<br>
+
+----
+
+<big>[Chorus](/customers/chorus/)</big><br>
+**Problem:** As Chorus.ai was getting established, they wanted to create an efficient build process<br>
+**Solution:** GitLab Ultimate (SCM, CI, DevSecOps)<br>
+**Result:** 6 week production cycles reduced to 1 week, over 100 builds per day. During a recent audit for SOC2 compliance, the auditors said that Chorus had the fastest auditing process they have seen and most of that is due to the capabilities of GitLab<br>
+**Value Drivers:** Efficiency, Speed, Security<br>
+**Usecase:** SCM, CI, CD, Security<br>
+**Vertical:** Technology<br>
+
+----
+
+<big>[MGA](/customers/mga/)</big><br>
+**Problem:** MGA was looking for a cost efficient CI platform that could improve workflow, knowledge, and code quality<br>
+**Solution:** GitLab Starter<br>
+**Result:** Projects have grown from 80 to over 240, 10 times better success rates with CD than with manual deploys and 80% increase in time saved moving to GitLab CD<br>
+**Value Drivers:** Efficiency, Speed<br>
+**Usecase:** SCM, CI, CD<br>
+**Vertical:** Technology<br>
+
+----
+
+<big>[Jasper Solutions](/customers/jasper-solutions/)</big><br>
+**Problem:** Jasper Solutions needed a platform that offers security, code management, and consistent pipelines in order to create its dynamic tactical edge “DevSecOps in a box<br>
+**Solution:** GitLab Ultimate (SCM, CI, CD)<br>
+**Result:** 30% reduction in cycle time, 25% increase in deployment frequency and 90-95% of projects are on time and on budget<br>
+**Value Drivers:** Efficiency, Speed, Security<br>
+**Usecase:** SCM, CI, CD, Security<br>
+**Vertical:** Technology<br>
+
+----
+
+<big>[SVA](/customers/sva/)</big><br>
+**Problem:** SVA was looking for a platform to improve central code management and workflow CI<br>
+**Solution:** GitLab CE<br>
+**Result:** SVA has over 500 active GitLab users, 110 groups and over 1571 projects<br>
+**Value Drivers:** Efficiency<br>
+**Differentiators:** SCM & CI, Kubernetes<br>
+**Usecase:** SCM, CI, CD<br>
+**Vertical:** Technology Partner<br>
 
 ----
 
@@ -245,11 +372,11 @@ _**Video:** [Ask Media Group shares with GitLab how they accomplished Cloud Nati
 
 <big>[Glympse](/customers/glympse/)</big><br>
 **Problem:** Slow software development and delivery due to expensive and complex developer tool stack<br>
-**Solution:** GitLab Gold (Security, Agile, CI, CD, SCM)<br>
+**Solution:** GitLab Gold (Security, Agile, CI, CD, VC&C)<br>
 **Result:** Teams over 2x more efficient, completing 50 days of work in 21 days; 8x faster deploys, from 4 hours to under 30 min; built-in security scanning making audit process easier<br>
 **Value Drivers:** Risk<br>
-**Differentiators:** SCM & CI, Security<br>
-**Usecase:** CI, CD, SCM, DevSecOps, Simplify DevOps, Agile<br>
+**Differentiators:** VC&C & CI, Security<br>
+**Usecase:** CI, CD, VC&C, DevSecOps, Simplify DevOps, Agile<br>
 **Vertical:** Technology<br>
 
 
@@ -257,9 +384,9 @@ _**Video:** [Ask Media Group shares with GitLab how they accomplished Cloud Nati
 
 <big>[ANWB](/customers/anwb/)</big><br>
 **Problem:** Complex and fragile developer tools hindered productivity<br>
-**Solution:** GitLab Premium (SCM, CI, CD)<br>
+**Solution:** GitLab Premium (VC&C, CI, CD)<br>
 **Result:** Regular deploys, collaboration, and stable and reliable CI/CD pipelines<br>
-**Usecase:** CI, CD, SCM<br>
+**Usecase:** CI, CD, VC&C<br>
 **Vertical:** Not-for-Profit / Roadside Assistance<br>
 
 ----
@@ -285,10 +412,10 @@ _**Video:** [Ask Media Group shares with GitLab how they accomplished Cloud Nati
 
 <big>[Athlinks](/blog/2019/12/17/athlinks-cuts-runtime-in-half-with-giltab/)</big><br>
 **Problem:** Jenkins and GH proved to be a complicated, expensive, and inefficient toolchain<br>
-**Solution:** GitLab Ultimate (SCM, CI, CD)<br>
+**Solution:** GitLab Ultimate (VC&C, CI, CD)<br>
 **Result:** CI runtimes cut in half for 50% improvements over Jenkins<br>
 **Value Drivers:** Efficiency<br>
-**Usecase:** CI, CD, SCM, Agile<br>
+**Usecase:** CI, CD, VC&C, Agile<br>
 **Vertical:** Applications Development<br>
 
 ----
@@ -309,7 +436,7 @@ _demonstrated either a groundbreaking business model or an innovative new techno
 <big>[Axo Soft - Top 20 Dev Tools for 2019](https://blog.axosoft.com/top-developer-tools-2019/)</big><br>
 _GitLab is one of the most popular developer tools._<br>
 **Differentiators:** Open Source<br>
-**Usecase** SCM, Agile
+**Usecase** VC&C, Agile
 
 ----
 
@@ -332,7 +459,7 @@ _Innovative Solution in Developer Ecosystem for the tight integration with GKE_<
 _Over 170 public reviews with a 4.4 rating, including: "[Powerful team collaboration tool for managing software development projects](https://www.g2.com/products/gitlab/reviews/gitlab-review-1976773)," "[Great self-hosted, open source source control system](https://www.g2.com/products/gitlab/reviews/gitlab-review-436746)," "[Efficient, can trace back, easy to collaborate](https://www.g2.com/products/gitlab/reviews/gitlab-review-701837)," and "[Perfect solution for cloud and on-premise DevOps tool](https://www.g2.com/products/gitlab/reviews/gitlab-review-2388492)"_<br>
 **Value Drivers:** Efficiency, Speed, Risk<br>
 **Differentiators:** Rapid Dev, Visibility<br>
-**Usecase** SCM, CI, CD
+**Usecase** VC&C, CI, CD
 
 ----
 
@@ -351,7 +478,7 @@ _[The original and internal-to-GitLab proof points Google Doc is online, here](h
 #### 2020
 
 <big>[Forrester Total Economic Impact Study Commissioned By GitLab, June 2020](/https://about.gitlab.com/handbook/marketing/product-marketing/analyst-relations/forrester-tei/)</big><br>
-_GitLab commissioned Forrester Consulting to conduct a Total Economic Impact (TEI) study examining the potential return on investment (ROI) enterprises may realize by using GitLab._<br> 
+_GitLab commissioned Forrester Consulting to conduct a Total Economic Impact (TEI) study examining the potential return on investment (ROI) enterprises may realize by using GitLab._<br>
 GitLab customers were interviewed and related data was collected independently by Forrester Consulting in this process. The data collected, resulting model, and study itself was reviewed independently by Forrester Research analysts. GitLab stakeholders were also interviewed as part of the data gathering and review process. This study looked at the cost savings and business benefits of enterprises using GitLab for Version Control & Collaboration (VC&C)/SCM, Continuous Integration (CI), and Continuous Delivery (CD).
 **Value Drivers:** Efficiency, Speed, Risk<br>
 **Usecase** SCM, CI, CD, Simplify DevOps
@@ -359,7 +486,7 @@ GitLab customers were interviewed and related data was collected independently b
 ----
 
 <big>[The Forrester Wave™: Continuous Delivery And Release Automation, Q2 2020, June 2020](/https://www.forrester.com/report/The+Forrester+Wave+Continuous+Delivery+And+Release+Automation+Q2+2020/-/E-RES157265?objectid=RES157265)</big><br>
-_Forrester cite GitLab as a Strong Performer in Wave for CDRA_<br> 
+_Forrester cite GitLab as a Strong Performer in Wave for CDRA_<br>
 **Value Drivers:** Efficiency, Speed<br>
 **Usecase** SCM, CI, CD, Simplify DevOps
 
@@ -400,7 +527,7 @@ _Gartner mentions GitLab in the context of the broader shift in the market towar
 _Multiple tools and toolchains create visibility, security, and productivity challenges for development and operations teams. “Out-of-the-box” toolchain solutions are seen as a solution, increasing security, revenue, and quality._<br>
 **Value Drivers:** Efficiency, Speed, Risk<br>
 **Differentiators:** Visibility<br>
-**Usecase** SCM, CI, CD, Simplify DevOps
+**Usecase** VC&C, CI, CD, Simplify DevOps
 
 ----
 
@@ -434,49 +561,6 @@ _Continuous Integration streamlines and accelerates building and testing develop
 **Value Drivers:** Efficiency, Speed, Risk<br>
 **Usecase** CI
 
-
-----
-
-### GitLab Reports and Studies
-
-<big>[2019 Global Developer Report: DevSecOps](/developer-survey/)</big><br>
-**Findings Included:** 50% of developers agree that security vulnerabilities are mostly discovered by the security team after code is merged and in a test environment.<br>
-**Customer Value:** Building security into the DevOps pipeline improves overall security.<br>
-**Value Drivers:** Risk<br>
-**Usecase** DevSecOps
-
-----
-
-<big>[2019 Global Developer Report: DevSecOps](/developer-survey/)</big><br>
-**Findings Included:** 49% of respondents encounter the most delays during the testing stage of the development lifecycle.<br>
-**Customer Value:** Automated testing in the CI pipeline accelerates delivery, finding defects earlier.<br>
-**Value Drivers:** Speed<br>
-**Usecase** DevSecOps
-
-----
-
-<big>[2019 Global Developer Report: DevSecOps](/developer-survey/)</big><br>
-**Findings Included:** Ops teams are 1.8x more likely to believe they get sufficient notice to support the developer side when their DevOps practice is very good.<br>
-**Customer Value:** Visibility and transparency into future work leads to more efficient planning and execution.<br>
-**Value Drivers:** Efficiency<br>
-**Usecase** DevSecOps**
-
-----
-
-<big>[2019 Global Developer Report: DevSecOps](/developer-survey/)</big><br>
-**Findings Included:** Security teams are 3x more likely to discover bugs before code is merged with a good DevOps practice in place.<br>
-**Customer Value:** Include security teams in all phases of application delivery — in the same tools as developers.<br>
-**Value Drivers:** Risk<br>
-**Usecase** DevSecOps
-
-----
-
-<big>[2018 Developer Report](/developer-survey/previous/2018/)</big><br>
-**Findings Included:** The top two sources of project delays were testing (52%) and planning (47%).<br>
-**Customer Value:** Operating in silos prevents visibility, and causes delays and rework.<br>
-**Value Drivers:** Speed<br>
-**Usecase** CI, CD, SCM, Simplify DevOps
-
 ----
 
 ### Peer Reviews
@@ -484,7 +568,7 @@ _[The original and internal-to-GitLab proof points Google Doc is online, here](h
 
 "[Powerful team collaboration tool for managing software development projects](https://www.g2.com/products/gitlab/reviews/gitlab-review-1976773)" — Information Technologist, Enterprise from [G2 Crowd Leader](/is-it-any-good/#gitlab-has-been-voted-as-g2-crowd-leader-in-2018)<br>
 **Value Drivers:** Efficiency<br>
-**Use Case:** SCM
+**Use Case:** VC&C
 
 ----
 
@@ -496,10 +580,120 @@ _[The original and internal-to-GitLab proof points Google Doc is online, here](h
 
 "[Great self-hosted, open source source control system](https://www.g2.com/products/gitlab/reviews/gitlab-review-436746)" — Administrator, Mid-Market from [G2 Crowd Leader](/is-it-any-good/#gitlab-has-been-voted-as-g2-crowd-leader-in-2018)<br>
 **Value Drivers:** Efficiency<br>
-**Use Case:** SCM
+**Use Case:** VC&C
 
 ----
 
 "[Efficient, can trace back, easy to collaborate](https://www.g2.com/products/gitlab/reviews/gitlab-review-701837)" — Industry Analyst / Tech Writer, SMB from [G2 Crowd Leader](/is-it-any-good/#gitlab-has-been-voted-as-g2-crowd-leader-in-2018)<br>
 **Value Drivers:** Efficiency<br>
-**Use Case:** SCM
+**Use Case:** VC&C
+
+
+### GitLab Reports and Studies
+
+<big>[2020 Global Developer Report: DevSecOps](/developer-survey/)</big><br>
+**Findings Included:** A majority of developer respondents, 66%, said their organization does make it possible for them to avoid hacks.
+DevSecOps = changing roles: Security can be found on cross-functional teams and working closely in collaboration with developers, both of which represent significant change from the past.
+<br>
+**Customer Value:** Building security into the DevOps pipeline improves overall security.<br>
+**Value Drivers:** Risk<br>
+**Usecase** DevSecOps
+
+----
+
+<big>[2020 Global Developer Report: DevSecOps](/developer-survey/)</big><br>
+**Findings Included:** DevOps = faster releases: If you’re a developer, DevOps just works. Nearly 83% of them report they’re releasing code more quickly.
+About 35% report code is released twice as rapidly, while nearly 25% said it’s now being released 10 times faster.
+<br>
+**Customer Value:** Automated testing in the CI pipeline accelerates delivery, finding defects earlier.<br>
+**Value Drivers:** Speed<br>
+**Usecase** DevSecOps
+
+----
+
+<big>[2020 Global Developer Report: DevSecOps](/developer-survey/)</big><br>
+**Findings Included:** CD is real: Nearly 60% deploy multiple times a day, once a day, or once every few days. That’s up from 45% last year.  And 74% of organizations report they have shifted testing left, meaning they’ve moved it earlier into the development process.<br>
+**Customer Value:** Visibility and transparency into future work leads to more efficient planning and execution.<br>
+**Value Drivers:** Efficiency<br>
+**Usecase** Continuous Integration, Continuous Delivery**
+
+
+
+#### Older GitLab Reports and Studies (2019 and beyond)
+
+<big>[2019 Global Developer Report: DevSecOps](/developer-survey/previous/2019/)</big><br>
+**Findings Included:** 50% of developers agree that security vulnerabilities are mostly discovered by the security team after code is merged and in a test environment.<br>
+**Customer Value:** Building security into the DevOps pipeline improves overall security.<br>
+**Value Drivers:** Risk<br>
+**Usecase** DevSecOps
+
+----
+
+<big>[2019 Global Developer Report: DevSecOps](/developer-survey/previous/2019/)</big><br>
+**Findings Included:** 49% of respondents encounter the most delays during the testing stage of the development lifecycle.<br>
+**Customer Value:** Automated testing in the CI pipeline accelerates delivery, finding defects earlier.<br>
+**Value Drivers:** Speed<br>
+**Usecase** CI, CD, SCM, Simplify DevOps
+
+----
+
+### Peer Reviews
+_[The original and internal-to-GitLab proof points Google Doc is online, here](https://docs.google.com/document/d/1Tuhg6LO0e6R-KP7Vfwb8cggHDiBzkC26pBl0lyLS7UY/edit) while some parts of this handbook page are being approved for publication._
+
+"[Powerful team collaboration tool for managing software development projects](https://www.g2.com/products/gitlab/reviews/gitlab-review-1976773)" — Information Technologist, Enterprise from [G2 Crowd Leader](/is-it-any-good/#gitlab-has-been-voted-as-g2-crowd-leader-in-2018)<br>
+**Value Drivers:** Efficiency<br>
+**Use Case:** SCM <br>
+**Differentiator:** SCM&CI, Single Application <br>
+**Vertical:** Education
+
+----
+
+<big>[2019 Global Developer Report: DevSecOps](/developer-survey/previous/2019/)</big><br>
+**Findings Included:** Ops teams are 1.8x more likely to believe they get sufficient notice to support the developer side when their DevOps practice is very good.<br>
+**Customer Value:** Visibility and transparency into future work leads to more efficient planning and execution.<br>
+**Value Drivers:** Efficiency<br>
+**Use Case:** DevOps, Cloud Native <br>
+**Differentiator:** Single Application, Rapid Innovation, K8s, Software Anywhere <br>
+**Vertical:** Technology
+
+----
+
+"[Great self-hosted, open source source control system](https://www.g2.com/products/gitlab/reviews/gitlab-review-436746)" — Administrator, Mid-Market from [G2 Crowd Leader](/is-it-any-good/#gitlab-has-been-voted-as-g2-crowd-leader-in-2018)<br>
+**Value Drivers:** Efficiency<br>
+**Use Case:** SCM <br>
+**Differentiator:** Software Anywhere, SCM&CI <br>
+**Vertical:** Education <br>
+
+----
+
+"[Efficient, can trace back, easy to collaborate](https://www.g2.com/products/gitlab/reviews/gitlab-review-701837)" — Industry Analyst / Tech Writer, SMB from [G2 Crowd Leader](/is-it-any-good/#gitlab-has-been-voted-as-g2-crowd-leader-in-2018)<br>
+**Value Drivers:** Efficiency<br>
+**Use Case:** SCM <br>
+**Differentiator:** Single Application <br>
+**Vertical:** Market Research <br>
+
+----
+
+"[GitLab has helped me master Git, CI/CD pipelines, and software development in general through the many resources it offers.](https://www.g2.com/products/gitlab/reviews/gitlab-review-3606488) - System Administrator, Mid-Market from [G2 Crowd Leader](/is-it-any-good/#gitlab-has-been-voted-as-g2-crowd-leader-in-2018)<br>
+**Value Drivers:** Efficiency <br>
+**Use Case:** CI, CD <br>
+**Differentiator:** Single Application, Open Source, SCM&CI, Collaborative <br>
+**Vertical:** Technology <br>
+
+----
+
+"[For me, the most impressive part of their toolchain would have to be the CI/CD Platform, the ease of use and it's flexibility is wonderful. Building CI/CD pipelines never felt easier.](https://www.g2.com/products/gitlab/reviews/gitlab-review-4215029) - Software Engineer, Mid-Market from [G2 Crowd Leader](/is-it-any-good/#gitlab-has-been-voted-as-g2-crowd-leader-in-2018)<br>
+**Value Driver:** Eficiency <br>
+**Use Case:** CI, CD <br>
+**Differentiator:** Single Application, SCM&CI <br>
+**Vertical:** Digital Marketing <br>
+
+----
+
+"[The UI is better and CI/CD is way more robust. GitLab has also got a great working culture ("remote is the future of work" for sure!) and a very strong brand, and good communication and presence on various platforms.](https://www.g2.com/products/gitlab/reviews/gitlab-review-4194470#survey-response-4194470) - Marton Nagy, SMB from  [G2 Crowd Leader](/is-it-any-good/#gitlab-has-been-voted-as-g2-crowd-leader-in-2018)<br>
+**Value Driver:** Efficiency <br>
+**Use Case:** SCM, CI, CD <br>
+**Differentiator:** SCM&CI, End-to-End Insight <br>
+**Vertical:** Technology <br>
+
+

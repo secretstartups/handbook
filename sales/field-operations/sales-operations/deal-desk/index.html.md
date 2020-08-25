@@ -67,7 +67,6 @@ The Deal Desk team will do their best to respond to each request within 4 hours.
 The Deal Desk team is located around the world and will be available during standard business hours within most regions - typically 9:00am - 6:00pm for the local time of the team member, as outlined below. 
 
 **EMEA**
-*  Meri Gil Galindo - Dublin, Ireland 
 *  Marcsi Szucs - Budapest, Hungary
 
  **AMER**

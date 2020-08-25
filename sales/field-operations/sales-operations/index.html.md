@@ -29,8 +29,9 @@ Sales Operations main focus is on the Sales organization and supports this group
 
 - Lindsay Schoenfeld - Senior Manager, Sales Operations
 - Amber Stahn - Senior Sales Operations Analyst
-- Tav Scott - Senior Sales Operations Analyst
+- Tav Scott - Sales Operations Manager, Commercial Sales
 - Melinda Soares - Senior Sales Operations Analyst
+- Meri Gil Galindo - Sales Operations Analyst
 
 ## **Teams We Work Closely With**
 
@@ -341,6 +342,26 @@ In addition to sponsored reporting, Sales Ops will maintain existing reports by 
 
 </details> 
 
+<details>
+<summary markdown='span'>Commercial Dashboards </summary>
+
+**SMB AMER**
+1. [SMB AMER Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXOY)
+
+**SMB EMEA & APAC**
+2. [SMB EMEA & APAC Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXRh)
+
+**Mid Market East**
+3. [Mid Market-East Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXOE)
+
+**Mid Market West**
+4. [Mid Market-West Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXRr)
+
+**Mid Market EMEA**
+5. [Mid Market EMEA Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXRw)
+
+</details> 
+
 ## **Sales Operations Go To Market**
 
 ### **Account Ownership Rules of Engagement**
@@ -421,3 +442,34 @@ Ops will review these requests on a periodic basis, and provide a response in th
     *  `Account Territory`, `Sales Segment` & `Employees` fields will also be updated upon TSP transfer, to continually align accounts.
 
 </details> 
+
+### **Opportunity Splits**
+
+The Sales Operations team supports the opportunity credit split approval process with support from Deal Desk.  Sales Operations also maintains the process and data maintenance for opportunity splits outside of credit splits. A non-credit split is strictly functionality to support correct 100% split allocation to the opportunity owner when a credit split does not apply.  The non-credit splits are automated and the tasks will be to monitor the data for accuracy in Salesforce, ensuring correct data in CaptivateIQ and Clari. 
+
+[Opportunity Splits Approval Process](https://about.gitlab.com/handbook/sales/#opportunity-splits)
+
+<details>
+<summary markdown='span'>Operators Guide: Opportunity Splits </summary>
+
+**Opportunity Split Rules**
+1. Deal Desk, Sales Comp and Sales Ops are the only users with permissions to add, edit, update and delete splits.
+2. 100% Split always goes to the opportunity owner
+     * This does not apply for a credit split. Ex: 50/50 or any other percentage split.
+     * If the opportunity is incorrectly assigned, the split should still match the owner until correct opportunity assignment is made.
+     * This is automated and should be monitored on this [Exception Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXQt) weekly.
+3. There will never be a split that totals above 100%.  
+
+**Opportunity Splits in Clari**
+   * Rolling out in Q3
+  
+**Updating | Adding | Deleting a Split In Salesforce**
+1.  Navigate to the opportunity in SFDC.
+2.  Locate the opportunity splits relationship by using the hover links at the to or scrolling down the page.
+3.  Choose the button to add or edit a split.
+4.  Once on the split page, assign either the approved credit split, or edit the existing split percentage.
+  
+</details> 
+
+
+

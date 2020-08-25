@@ -290,35 +290,38 @@ On a quarterly basis, the Channel team will revisit developing countries to dete
 
 
 
-## Partner Applicant Approval / Denial - Granting Portal Access
+## **Partner Applicant Approval / Denial - Granting Portal Access**
 
-Channel Sales Managers and Alliance Managers are responsible for approving Partner sign ups in SFDC that fall within their region or area of responsibility. Sign ups must be initiated by the Partner from an Impartner application which can be found [here.](https://rv.treehousei.com/en/login.aspx)   If for any reason, a partner account needs to be created in Salesforce directly, requests for account creation can be made to #channel-ops within Slack. 
+Partner Program participation sign ups must be initiated by the Partner in the Partner Portal application form which can be found [here.](https://rv.treehousei.com/en/login.aspx)  In the partner application process, channel partners review the partner contract, including both the resale and referral addenda, review the partner program guide, complete their application form and agree to program terms and conditions.   Technology partners are not able to agree to the terms and conditions during the application process.
 
-When a new partner company applies on the portal a Prospect Account in Salesforce is created. The partner will receive an email confirming the receipt of their application, and applicable Channel Sales or Alliance Manager will receive a New Partner Applicant email from Partnersupport@gitlab.com notifying there is a new partner applicant in that region. 
+ If an authorized representative of the channel partner accepts the agreement terms, they (or the person entering the application) will need to select “Yes” that they agree to terms on the application form.  Once they have agreed, they will automatically be set to “ Authorized” and will get immediate access to the partner portal.  At this time, partners will be set up in both Salesforce and the partner portal at Authorized and their track set to Open.  
 
-Upon receiving the New Partner Applicant email, the applicable Channels Sales Manager needs to complete the following:
+The partner will receive an email confirming the receipt of their application, and applicable Channel Sales or Alliance Manager will receive a New Partner notification email from Partnersupport@gitlab.com notifying there is a new partner applicant in that region.  Channel Sales Managers will be notified of each partner application in their regions, whether they agreed to the terms or not.  
+
+Upon receiving notification they will be responsible for reviewing the partner’s information and deactivating any inappropriate partners.  They will also need to set the Partner Type in Salesforce for newly authorized partners.
+
+For partners that have questions about the contract or need to negotiate terms and conditions, Channel Sales Managers are responsible for working with the partner offline to address questions and come to agreement on program terms.  Upon receiving the New Partner Applicant notification email, the applicable Channels Sales Manager needs to complete the following:
 
 1. Contact the partner and qualify them
 2. If the decision is to move forward with the partner first check to see if a partner account already exists in Salesforce. If it is a duplicate, request for the accounts to be merged by the Channel Operations team. If the decision is to deny the partner then go to step #7.
-3. To start the contracting process click the Legal Request button in SFDC on the partner account record. 
-    1. Request the appropriate contract addendum (Resale, Referral/Services or both **OR** MSP **OR** OTHER).  Default should be Resale and Referral/Services.
+3. To start the contracting process click the Legal Request button in SFDC on the partner account record.
+    *   Request the appropriate contract addendum (Resale, Referral/Services or both **OR** MSP **OR** OTHER). Default should be Resale and Referral/Services.
 4. Once the contract is fully executed and attached to the partner account record in SFDC the following fields need to be updated by the Channel Sales Manager and are required(*) in order to save the account
-    2. *Change Partner Status = Authorized
-        1. For Alliance Partner Partner Status = Active 
-    3. *Select Partner Type
-    4. *Select Partner Track
-        2. For Alliances Partner Track = Technology
-    5. *Select Partner Program Status (If contract was signed after 4/2/2020 then select “New”)
-    6. Please include any other applicable information
-    7. For additional information on the Partner Program review [here](https://about.gitlab.com/handbook/resellers/#partner-program-tracks) 
+    *   *Change Partner Status = Authorized
+    *   *Select Partner Type
+    *   For partners that signed standard contract terms, set Partner Program Status to “New”.
+    *   Please update the partner record to be as complete as possible.
+    *   For additional information on the Partner Program review [here](https://about.gitlab.com/handbook/resellers/#partner-program-tracks)
 5. Once a partner is authorized, each SFDC contact for that partner will automatically receive a message with login credentials to the portal.
-6. Additional partner employees can go to partners.gitlab.com to register. \
-Once they are linked to an authorized partner account (they must select the correct account upon registering), they will automatically receive a message with login credentials. If the account is still a Prospect they will not have access until the account has an executed contract and is moved to Authorized. 
+6. Additional partner employees can go to partners.gitlab.com to register. \ Once they are linked to an authorized partner account (they must select the correct account upon registering), they will automatically receive a message with login credentials. If the account is still a Prospect they will not have access until the account has an executed contract and is moved to Authorized.
 7. If the decision is to not move forward with the partner,
-    8. Channel Sales Manager needs to set Partner Status = Denied
+    *   Channel Sales Manager needs to set Partner Status = Denied
 
+Technology partners use the same form, but are not able to agree to the terms and conditions.  Once they submit the form, they will be set to active.  If the Alliances team wants to establish a contract with the partner, they must follow the Legal Request process in Salesforce.
 
-Visit the [Partner Applicant / Partner Portal FAQ](  https://docs.google.com/document/d/1aPCqF5-qb2XxFEhvkNzvexwsIYGuiJF8AhK_qeUgw0Y/edit?usp=sharing) for additional information.
+If for any reason, a partner account needs to be created in Salesforce directly, requests for account creation can be made to #channel-ops within Slack.
+
+Visit the [Partner Applicant / Partner Portal FAQ](https://docs.google.com/document/d/1aPCqF5-qb2XxFEhvkNzvexwsIYGuiJF8AhK_qeUgw0Y/edit?usp=sharing) for additional information.
 
 
 
@@ -343,14 +346,13 @@ Select and Open Partners are able to submit MDF requests via the Marketing Page 
 Partner Logos may be accessed in GitLab Partner Portal in the Asset Library under Marketing.  Logos are segmented so only authorized Select Partners have access to the Select Logo. 
 
 
-
-## **Partner Communications**
-
-
-## **Partner Flash Newsletter**
+## Partner Communications
 
 
-## **Overview**
+## Partner Flash Newsletter
+
+
+## Overview
 
 Partner Flash is a monthly newsletter that recaps important Partner-related information from the month and highlights important upcoming information. The main goal of this communication is to **help Partners ramp quickly and grow their GitLab business.**
 
@@ -360,7 +362,7 @@ Partner Flash is a monthly newsletter that recaps important Partner-related info
 The newsletter is sent to authorized users in our Partner community, the list is gathered and updated from the Partner Portal, new users are added or you can self serve by going to [this link.](https://gitlab.us19.list-manage.com/subscribe?u=5a5f55e4e0f03037d96416766&id=2321e18463) 
 
 
-## **Opportunities/Requirements**
+## Opportunities/Requirements
 
 The newsletter will…
 
@@ -429,7 +431,7 @@ The newsletter will…
 *   The team is committed to upholding the value of the newsletter – information should be relevant, feedback should be actioned on, and leadership should help reiterate by pointing to it as a useful resource for their teams.
 
 
-## **Format**
+## Format
 
 Based on the requirements above, this is the first iteration of the newsletter format:
 
@@ -450,7 +452,7 @@ Based on the requirements above, this is the first iteration of the newsletter f
     *   The top 3 takeaways from the latest GitLab release, mapped to one of the three value drivers and framed in the context of the customer value.
 
 
-## **Process**
+## Process
 
 The newsletter is sent out **on the first Thursday of each month after our Partner Webcast series has concluded.** We can adjust delivery based on feedback from the field, holidays or timing of a Partner focused update (pricing).
 
@@ -485,50 +487,20 @@ Qualitative Success Metrics
 *   Improve the Partner section of the Handbook and the Partner Portal as a result of work on the newsletter.
 
 
-## **Past Newsletters**
-
+## Past Newsletters
 05/07/2020 - [We're Live! Our First Edition of Partner Flash. ](http://eepurl.com/g2ds61)
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+06/04/2020 - [Partner Flash  Top Partner Highlights for June](http://eepurl.com/g3JFzn)
+
+07/06/2020 - [GitLab Partner Flash: July Edition](http://eepurl.com/g8hRIT)
+
+08/12/2020- [GitLab Partner Flash: August Edition](https://us19.campaign-archive.com/?u=5a5f55e4e0f03037d96416766&id=188338fd09)
+
+Additional newsletters can be found [here. ](https://us19.campaign-archive.com/home/?u=5a5f55e4e0f03037d96416766&id=2321e18463)
 
 
-![alt_text](images/image1.png "image_tooltip")
 
 
-06/04/2020 - [Partner Flash ](http://eepurl.com/g3JFzn)
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-[ Top Partner Highlights for June](http://eepurl.com/g3JFzn)
-
-07/06/2020 - 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
-[GitLab Partner Flash: July Edition](http://eepurl.com/g8hRIT)
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
-
-
-08/12/2020- 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
-[GitLab Partner Flash: August Edition](https://us19.admin.mailchimp.com/campaigns/show?id=5965053)
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
 
 
 Additional newsletters can be found [http://eepurl.com/g8hRIT](http://eepurl.com/g8hRIT)

@@ -22,7 +22,7 @@ Below are some additional challenges your peers have shared.
 - Difficulty connecting Metrics with Positive Business Outcomes (PBOs)
 - Metrics, if used in the wrong way, can get complex and technical
 
-The following sections outline practical tips to help demystify the Metrics conversation and overcome the challenges identified above. 
+The following sections outline practical tips to help demystify the Metrics conversation and overcome the challenges identified above.
 
 ## Embrace Your Role as the Trusted Advisor
 Keep in mind that many customers may not understand why their DevOps initiatives are not delivering desired or optimal results. Assist them in their diagnosis and lead with insights to help them accomplish their Positive Business Outcomes (PBOs). Listen to how Nico approaches initial discovery conversations.
@@ -31,7 +31,7 @@ Keep in mind that many customers may not understand why their DevOps initiatives
   <iframe src="https://www.youtube.com/embed/ImjQqcHoI3U" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Below is just one example of how you could leverage Nico's approach to open the conversation with your customers to begin to understand the specific challenges they are experiencing. 
+Below is just one example of how you could leverage Nico's approach to open the conversation with your customers to begin to understand the specific challenges they are experiencing.
 
 “If you’re like other organizations we speak with, below are some of the common challenges they encounter in their software development life cycle:
 1. There is still significant room for improvement in their DevOps processes
@@ -56,7 +56,7 @@ Listen to how Nico Ochoa (Strategic Account Leader, US West) explains the value 
   <iframe src="https://www.youtube.com/embed/vtlAs68YY8M" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-As a follow on to the above, familiarize yourself with GitLab's Value Stream Management (VSM) & Value Stream Analytics capabilities ([start here](https://youtu.be/0MR7Q8Wiq6g)). Effectively articulating these capabilities plays to two of GitLab's key differentiators: 1) Single Application for Entire DevOps Lifecycle and 2) End-to-End Insight and Visibility. Additional short customer-facing VSM videos are available at [Learn@GitLab](/learn/). 
+As a follow on to the above, familiarize yourself with GitLab's Value Stream Management (VSM) & Value Stream Analytics capabilities ([start here](https://youtu.be/0MR7Q8Wiq6g)). Effectively articulating these capabilities plays to two of GitLab's key differentiators: 1) Single Application for Entire DevOps Lifecycle and 2) End-to-End Insight and Visibility. Additional short customer-facing VSM videos are available at [Learn@GitLab](/learn/).
 
 ## Know the Difference Between Economic and Technical Metrics
 
@@ -84,9 +84,9 @@ Hear what Nico says about cycle time compression, helping organizations do more 
 </figure>
 
 To better navigate Metrics conversations, listen to the 7-minute Force Management [Metrics in the Sales Conversation podcast](https://soundcloud.com/force-management-1/metrics-in-the-sales-conversation) and implement these practices:
-1. Recognize that your solution impacts decision-makers in different ways and their reasoning for choosing your solution over alternatives is also different 
+1. Recognize that your solution impacts decision-makers in different ways and their reasoning for choosing your solution over alternatives is also different
 1. Understand what each stakeholder/decision-maker cares about and help them (especially your Champions) understand how your solution impacts
-    - What they care about, and 
+    - What they care about, and
     - What other stakeholders/decision-makers care about
 1. Be sure you understand what technical metrics align to the value drivers your customer cares about most (see next section)
 
@@ -101,8 +101,8 @@ Link your **technical buyers** to the metrics and their role in driving the posi
 
 ## Know Your Proof Points
 * Reference and leverage the proof points listed in the GitLab Value Framework and in slides 22 and 23 of the Customer Deck (see the [Command of the Message Core Content](/handbook/sales/command-of-the-message/#resources-core-content))
-* Familiarize yourself with GitLab's [Proof Points](/handbook/sales/command-of-the-message/proof-points.html) to the point where you can talk about various success stories in a conversational manner
-* Check out the short videos in the [Customer Success Stories playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrRRGEIdtGsiCtgLy8dJhlk) on GitLab Unfiltered (GitLab internal-only) 
+* Familiarize yourself with GitLab's [Proof Points](/handbook/sales/command-of-the-message/proof-points/) to the point where you can talk about various success stories in a conversational manner
+* Check out the short videos in the [Customer Success Stories playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrRRGEIdtGsiCtgLy8dJhlk) on GitLab Unfiltered (GitLab internal-only)
 
 ## Embrace the Tension
 * Early in the sales process, a difficult metrics conversation is a good sign that the customer wants and needs a trusted advisor (you!!) to help them with their DevOps adoption journey. Leverage relevant proof points to instill confidence that GitLab is uniquely suited to help them achieve their desired outcomes.

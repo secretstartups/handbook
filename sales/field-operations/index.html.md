@@ -13,9 +13,9 @@ title: "Field Operations"
 
 “Manage field business processes, systems, architecture, enablement, champion data integrity, provide insights and predictability through analytics”
 
-The term *"sales"* refers to the Sales Team and *"field"* encompasses the Customer Success Team. 
+The term *"sales"* refers to the Sales Team and *"field"* includes the Customer Success Team. 
 
-### Key Tenants
+### Key Tenets
 **Clarity**: for definitions, processes and events   
 **Visibility**: to processes, data and analytics   
 **Accountability**: for both Sales/Field Ops to uphold to expectations and SLAs   
