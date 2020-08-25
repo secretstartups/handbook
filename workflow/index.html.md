@@ -183,7 +183,7 @@ For more information on how the entire process works for security releases, see 
 1. When you start working on an issue:
   - Add the `workflow::In dev` label to the issue.
   - Create a merge request (MR) by clicking on the **Create merge request** button in the issue. This creates a MR with the labels, milestone and title of the issue. It also relates the just created MR to the issue.
-  - Remove the `Closes #issue_id` from the MR description, to prevent auto closing of the issue after merging.
+  - Remove the `Closes #issue_id` from the MR description, to prevent automatically closing of the issue after merging. Be careful not to use other keywords in the MR description given the [default closing pattern](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#default-closing-pattern) that can also automatically close issues.
   - Assign the MR to yourself.
   - Work on the MR until it is ready, it meets GitLab's [definition of done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done), and the pipeline succeeds.
   - Edit the description and click on the **Remove the WIP: prefix from the title** button.
