@@ -21,10 +21,11 @@ Zapier is an automation tool that allows us to move data from one application to
 These fields must be captured in order to allow for proper routing of leads:
 * First Name
 * Last Name
+* Email
 * Company
 * Country
-* Employee Bucket (If possible and must be formatted correctly)
 * Consent (Whether or not we recieved consent to send email, can be `TRUE` of `FALSE`)
+* Number of employees
 
 
 ## When to Request 
