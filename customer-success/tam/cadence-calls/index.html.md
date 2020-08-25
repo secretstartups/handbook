@@ -47,7 +47,7 @@ At the end of each customer call any changes to customer health should be reflec
  - Allow yourself time directly after the call to clean up your notes. Avoid scheduling back-to-back meetings.
  - Practice slowing down call conversations. Stopping the dialog for a few seconds to say “let me write that down” tells the customer what they said is important to you.
  - Ask your SAL/AE/SA to take notes with you. After the meeting combine and add detail.
- - Use chorus to record your calls so there's less pressure for you to take note of everything.
+ - Use [Chorus](/handbook/business-ops/tech-stack/#chorus) to record your calls so there's less pressure for you to take note of everything.
  - Sometimes it makes sense for somebody on the [account team](/handbook/customer-success/account-team/) to go back through the call in Chorus to transcribe it.
  - Write notes in whatever is easiest and always copy them to your best source of truth. If you can write them in the source of truth in the first place, you’ll be more efficient and consistent.
 
