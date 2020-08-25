@@ -94,6 +94,8 @@ fun and quirkiness to our team calls (so that we can learn more about each other
 | 2020-05-05 | What skill would you like to master? | Andrew |
 | 2020-06-02 | [Describe your perfect date](https://www.youtube.com/watch?v=-BNwiqDGz5g) | Sam |
 | 2020-07-07 | Which historical figure would you most like to go for a drink with? | ? |
+| 2020-08-04 | Favorite Pizza Toppings (Wrong Answers Only)| [Angelo](https://gitlab.com/agulina) |
+| 2020-09-01 | [Movie / TV Series line](http://gph.is/1GFhxC9) you would use in a Merge Request | ? |
 
 ### Frontend calendar
 
