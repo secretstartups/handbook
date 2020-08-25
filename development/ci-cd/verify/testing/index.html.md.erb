@@ -104,8 +104,21 @@ The Technical Investigation process is an *interim* process and as such is subje
 
 1. Engineer satisfaction with the process out of 10
 1. Number of new issues created after work begins on the issues spawned from this investigation is less than 2
+
 #### Release post checklist issue
 During each milestone, we create a [Release Post Checklist](https://gitlab.com/gitlab-org/ci-cd/testing-group/-/issues/new?issuable_template=Release-Post-Issue) issue that is used by team members to help track the progress of the team [release posts](/handbook/marketing/blog/release-posts/). We use the checklist issue to associate release post merge requests with links to the implementation issue, links to updated documentation, and list which engineers are working on each issue. The checklist issue provides a single place to see all this information.
+
+#### Deliverables in a Milestone
+Engineering managers apply the `Deliverable` label on issues that meet the following criteria:
+
+* It is delivering value that is visible to the user
+* It is near the top of the issue board (high priority)
+* The issue is well-defined
+* The issue is weighted
+* The engineering manager believes we have the capacity to complete the work in the assigned milestone
+* The team has accepted the issue into the milestone and moved it to ~"workflow::ready for development" status
+
+We will use the `Stretch` label if we feel the issue meets most of the criteria but either contains some known unknowns, or it's uncertain whether we will have the capacity to complete the work in the current milestone. If an issue with a `Stretch` label is carried over into the next milestone, its label will change to `Deliverable`. The position in the issue board is what confers priority, rather than the presence of a `Deliverable` label. However most high priority issues are `Deliverable`.
 
 ### Workflow
 Unless specifically mentioned below, the Verify:Testing group follows the standard [engineering](/handbook/engineering/workflow/) and [product](/handbook/product-development-flow/) workflows.
