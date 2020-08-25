@@ -423,6 +423,21 @@ _**Video:** [Ask Media Group shares with GitLab how they accomplished Cloud Nati
 ### Industry Awards
 _[The original and internal-to-GitLab proof points Google Doc is online, here](https://docs.google.com/document/d/1Tuhg6LO0e6R-KP7Vfwb8cggHDiBzkC26pBl0lyLS7UY/edit) while some parts of this handbook page are being approved for publication._
 
+#### 2020
+
+<big>[GitLab Recognized by 451 Research as a ‘451 Firestarter'](https://www.globenewswire.com/news-release/2020/01/14/1970490/0/en/GitLab-Recognized-by-451-Research-as-a-451-Firestarter.html)</big><br>
+_The complete DevOps platform delivered as a single application recognized by leading analyst firm for innovation and vision in the technology industry_<br>
+**Value Drivers:** Efficiency, Speed, Risk<br>
+**Differentiators:** Rapid Dev, Simply Dev Ops
+
+----
+
+<big>[DevOps Dozen 2019 Winners Annoucement](https://devops.com/5th-annual-devops-dozen-winners-announced/)</big><br>
+_The DevOps Dozen award for the Best DevOps Solution Provider for 2019 goes to GitLab_<br>
+**Value Drivers:** Efficiency, Speed, Risk<br>
+**Differentiators:** Rapid Dev, Single App
+
+
 #### 2019
 
 <big>[IDC Innovators: Tools Supporting Open (Unopinionated) Developer Platforms](https://www.idc.com/getdoc.jsp?containerId=US45074219)</big><br>
