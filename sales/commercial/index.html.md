@@ -11,6 +11,7 @@ title: "Commercial Sales"
 {:toc .hidden-md .hidden-lg}
 
 ## Welcome to the Commercial Sales Handbook
+
 The Commercial Sales department is part of the overall [GitLab Sales](/handbook/sales) Division. We focus on [SMB and Mid-Market](/handbook/business-ops/resources/#segmentation) customers to deliver maximum value throughout the entire journey with GitLab.
 
 ## <i class="fas fa-users fa-fw icon-color font-awesome"></i>Commercial Team Groups
@@ -20,9 +21,11 @@ The Commercial Sales department is part of the overall [GitLab Sales](/handbook/
 - Area Sales
 
 ## Getting Started as a New Hire
+
 Please ensure you read the [Commercial Sales onboarding page](/handbook/sales/commercial/enablement/).
 
 ### Top Tips to Onboard Quicker
+
 1. Bookmark the relevant SalesForce dashboard for your region, this is essential to your success. Your Manager will give you the link when you first join.
 1. Get familiar with the [close date conventions](https://docs.google.com/document/d/1TK3X22rBPIOwR9PkopK4snmVVkyCyvdTwKJ_eszH48I/edit?usp=sharing) used in Commercial Sales.
 1. Ensure you fully understand [the Required 7](/handbook/sales/commercial/#the-required-7). Your teammates and manager are more than happy to help you with this if you need it.
@@ -133,7 +136,7 @@ For a complete list of our Give Back Projects and other Onboarding assignments o
 
 ## Required 7
 
- New team members should familiarize themselves with The Required 7. These are the 7 tactical skills required to be an excellent Commercial Sales Account Executive:
+New team members should familiarize themselves with The Required 7. These are the 7 tactical skills required to be an excellent Commercial Sales Account Executive:
 
 1. [Ranking your accounts](/handbook/sales/commercial/#account-ranking) - [video here](https://youtu.be/M-5OhlYxmFI)
     - Rank all accounts and explain why; log your sources for future efficiency; this needs to be your (recent) tiering, not the previous owners, nor the tiering from the prior fiscal. If it’s unchanged, make the note that it is unchanged and why
@@ -214,17 +217,10 @@ SMB Account Executives "SMB AEs" act as Account Executives and the face of GitLa
 
 #### Customer Journey
 
-#### New Business 
-* Work Initial Qualification Meetings [IQM's](/handbook/sales/commercial/#inbound-queue-management) from Commercial SDR Team
-* Accept Sales Accepted Opportunities according to [SAO Criteria](/handbook/business-ops/resources/#criteria-for-sales-accepted-opportunity-sao) 
-* Nurture and help prospects during their Trial evaluation after Accepting Opportunities
-* Push to Webdirect or help with the Sales Order Process 
-
-#### Customer Journey 
-* [Inbound Queue Management](/handbook/sales/commercial/#inbound-queue-management)
-* [Licensing/Subscription Management](/handbook/sales/commercial/#licensingsubscription-management)
-* [Troubleshooting Resource for Licensing/Subscription Management](/handbook/sales/commercial/#troubleshooting--how-to-resources-for-licensing--subscription-management)
-* [Quotes / Sales Order Processing](/handbook/sales/commercial/#quotes--sales-order-processing)
+- [Inbound Queue Management](/handbook/sales/commercial/#inbound-queue-management)
+- [Licensing/Subscription Management](/handbook/sales/commercial/#licensingsubscription-management)
+- [Troubleshooting Resource for Licensing/Subscription Management](/handbook/sales/commercial/#troubleshooting--how-to-resources-for-licensing--subscription-management)
+- [Quotes / Sales Order Processing](/handbook/sales/commercial/#quotes--sales-order-processing)
 
 ### Inbound Queue Management
 
@@ -359,7 +355,6 @@ It is a requirement for the Commercial Sales Team to tier their accounts using t
 - Tier 1.5: Future opportunities that we should not lose track of as there is a sales opportunity here with no timeline
 - Tier 2: Believe there is an opportunity, but will take additional work before opening and beginning a sales cycle
 - Tier 3: Greenfield, SDR attention - perhaps a drip campaign
-
 - SMB AE must have potential user field filled in on the account object for Tier 1, and 1.5
 - SMB AE must have the notes section filled in on why an account is Tier 2 or 3
 
