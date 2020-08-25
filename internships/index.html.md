@@ -186,6 +186,6 @@ of the effect on the team can be built.
 
 Following the retrospective period the issues will be made public.
 
-#### Exit Survey
+#### GitLab Intern Feedback Survey
 
-The exit survey provides interns with the opportunity to freely express views about working at GitLab. People Operations will send the [CultureAmp](https://www.cultureamp.com/) survey to all interns when the pilot programme is complete. The People Business Partner & the intern may proactively set up time to discuss their responses and ask for further information. Exit interviews are not mandatory, however your input will help provide GitLab with information regarding what worked well and what can be improved in future iterations.
+The feedback survey provides interns with the opportunity to freely express views about working at GitLab. The People Experience team will send the [Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSffF8sAFDHTp0JAeum9XYHaG_PsFSHREssSpGECMeJJClXVrg/viewform) to all interns 2 days prior to the pilot programme completion. The People Business Partner & the intern may proactively set up time to discuss their responses and ask for further information. The feedback survey are not mandatory, however your input will help provide GitLab with information regarding what worked well and what can be improved in future iterations.
