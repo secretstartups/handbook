@@ -30,8 +30,8 @@ title: Metrics Analysis Workgroup
 
 ## Exit Criteria
 - Define conditions under which this workgroup will be reformed. => 0%
-- Create a dashboard that exposes metrics and targets that will trigger actions on part of the support team (including forming this group) => 0%
-- Document common hypothesis and expose the data to support/refute them. => 0%
+- Create a dashboard that exposes metrics and targets that will trigger actions on part of the support team (including forming this group) => 50%
+- Document common hypothesis and expose the data to support/refute them. => 10%
 
 ## Roles and Responsibilities
 
@@ -41,6 +41,7 @@ title: Metrics Analysis Workgroup
 | Executive Stakeholder | Tom Cooney | VP of Support |
 | Member | Ilia Kosenko | Support Engineering Manager | 
 | Member | Wei Meng Lee | Support Engineering Manager | 
+| Member | Donique Smit | Support Engineer | 
 
 ## Artifacts
 
