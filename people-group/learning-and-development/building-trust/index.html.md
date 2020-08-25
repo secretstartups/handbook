@@ -83,19 +83,3 @@ As people, we have a natural tendency to make assumptions about others, which me
 ## Summary
 
 Building trust takes time and energy. These are not the only strategies teams can apply to build trust but it is a start. Use this page as a guide to building a cohesive and collaborative team. Trust among teammates is the foundation of almost everything we do at GitLab. It takes a bit more effort to build trust in a remote team, but there are clear ways to make it happen. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
