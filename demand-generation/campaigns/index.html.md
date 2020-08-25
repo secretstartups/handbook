@@ -140,7 +140,7 @@ In the campaigns project, you will see the following issuable templates. These t
   * [Indre Kryzeviciene](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=ikryzeviciene)
   * [Jackie Gragnola](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=jgragnola)
   * [Jenny Tiemann](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=jennyt)
-  * [Nout Boctor-Smith](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=nbsmith
+  * [Nout Boctor-Smith](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=nbsmith)
   * [Zac Badgley](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=zbadgley)
 
 **All Team Members by Milestone (Current Quarter)**
@@ -151,17 +151,17 @@ In the campaigns project, you will see the following issuable templates. These t
   - [Mktg: 2020-10-25](https://gitlab.com/groups/gitlab-com/-/boards/1948068?scope=all&utf8=%E2%9C%93&milestone_title=Mktg%3A%202020-10-25)
 
 #### Lists
-**In marketing programs project (to be sunsetted):**
+**In marketing programs project (to be sunsetted upon move to campaigns project):**
 * [Issues in triage status (MPM)](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=mktg-status%3A%3Atriage)
 * [Issues in blocked status (MPM)](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=mktg-status%3A%3Ablocked)
 * [Issues in ready-to-build status (MPM)](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=mktg-status%3A%3Aready-to-build)
 * [Issues in plan status (MPM)](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=mktg-status%3A%3Aplan)
 
 **In campaigns project (transition of new requests to new project):**
-* [Issues in triage status (campaigns project)](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=mktg-status%3A%3Atriage)
-* [Issues in blocked status (campaigns project)](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=mktg-status%3A%3Ablocked)
-* [Issues in ready-to-build status (campaigns project)](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=mktg-status%3A%3Aready-to-build)
-* [Issues in plan status (campaigns project)](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=mktg-status%3A%3Aplan)
+* [Issues in triage status (campaigns)](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=mktg-status%3A%3Atriage)
+* [Issues in blocked status (campaigns)](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=mktg-status%3A%3Ablocked)
+* [Issues in ready-to-build status (campaigns)](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=mktg-status%3A%3Aready-to-build)
+* [Issues in plan status (campaigns)](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=mktg-status%3A%3Aplan)
 
 ### Tips & Tricks
 
@@ -184,9 +184,9 @@ In the campaigns project, you will see the following issuable templates. These t
 
 Marketing Programs uses Sisense dashboards to report on integrated campaigns performance, specifically:
 
-1. [Demand Gen (Prev Integrated Campaigns) Overview Dashboard](https://app.periscopedata.com/app/gitlab/631669/WIP:-Agnes-Oetama-IC-Dashboard): 
+1. [Demand Gen (Prev Integrated Campaigns) Overview Dashboard](https://app.periscopedata.com/app/gitlab/631669/Demand-Gen-(Prev-Integrated-Campaigns)-Overview-Dashboard): 
 This dashboard provides quick insights on campaign performance and monitors the impacts of campaign optimizations on various funnel metrics over the life of the campaign.
-2. [WIP: Integrated Campaigns Table Summary](https://app.periscopedata.com/app/gitlab/665451/WIP:-Agnes-IC-Campaign-Table-Summary): This dashboard measures and compares the performance of integrated campaigns and channels within each campaign.
+2. [Integrated Campaigns Table Summary](https://app.periscopedata.com/app/gitlab/665451/Demand-Gen-(Prev-Integrated-Campaigns)-Table-Summary): This dashboard measures and compares the performance of integrated campaigns and channels within each campaign.
 
 The Integrated Campaigns dashboards use [Bizible touchpoints](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#bizible-touchpoints) to track Inquiries, MQLs, and SDR Accepted metrics. We use the [Linear Bizible Attribution touchpoints model](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#linear-attribution) to track Opportunities, Total IACV$, SAO, Pipeline IACV$, Won Deals count, and Won IACV $.
 
