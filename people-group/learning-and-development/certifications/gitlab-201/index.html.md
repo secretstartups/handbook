@@ -16,7 +16,7 @@ Welcome to the GitLab 201 Tool certification page! This is a self-paced course c
 
 ### Who can benefit from this 201 training?
 
-Add detail here 
+Everyone at GitLab needs to know how to use GitLab and be technical to some level. This training is geared toward GitLab team members who are in non-engineering roles (i.e. recruiting, peopleops, marketing, finance, etc) and/or have not used a DevOps tool like GitLab before. This can also be helpful for non-engineering people outside of GitLab wanting to learn how to use GitLab for personal projects. 
 
 ### Prerequsites
 
