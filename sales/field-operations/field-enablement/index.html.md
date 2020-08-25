@@ -162,11 +162,11 @@ The below is a work in progress as we define success measures across each stage 
     - [Issac Abbasi](/company/team/#iabbasi)
 </details>   
 
-## Requesting Field Enablement 
+## Making a Field Enablement Request
 If you have a great training idea and/or enablement request, we'd love to hear it! Please make an enablement request by following this quick process: 
 
 - Submit an issue using [this issue template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=field-enablement-request)
-   - Please be descriptive in the issue in order to give our team the necessary context to review and prioritize your request. Note that that ALL questions must be answered prior to Field Enablement triaging this request.
+   - Please be descriptive in the issue in order to give our team the necessary context to review and prioritize your request. Note that ALL questions must be answered prior to Field Enablement triaging your request.
 - Upon submitting your request, the issue will be tagged as `FE priority::new request` and `FE status::triage`
 - Field Enablement will triage the request as quickly as possible. Upon examining the request, they will assess the priority and status by labeling it with one of the labels (please see label definitions in section below): 
    - Priority:
