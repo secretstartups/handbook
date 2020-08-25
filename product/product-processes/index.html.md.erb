@@ -807,7 +807,7 @@ When a new Stage is added, and its Group has yet to be formed, we should:
 1. Ensure all issues for the new Stage are assigned with the Stage labels, like `devops::defend` and `Defend`
 1. Identify an existing Group, like `Secure`, which will be initially responsible for the new Stage
 1. The existing Group will prioritize across a common backlog of both Stages, in this example `devops::defend` and `devops::secure`
-1. Update `categories.yml` and `stages.yml`, listing the new Stage with the members of the existing responsible Group. Update `_categories.erb` with the member name if necessary.
+1. Update `categories.yml` and `stages.yml`, listing the new Stage with the members of the existing responsible Group. Update `_categories-names.erb` with the member name, if necessary.
 
 Once the first PM or EM is hired, a new Group for the Stage should be formed:
 
