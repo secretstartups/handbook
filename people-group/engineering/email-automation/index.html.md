@@ -55,6 +55,3 @@ member means:
 
 The email address used to send the email is `onboarding@domain` and is set with a `reply-to: people-exp@domain` as nobody 
 monitors replies to `onboarding@`. The email address is strictly used for automation.
-
-The probation email currently runs in test mode. This means that instead of sending it to the manager, we send it to the 
-People ops Engineer and CC the People Experience Team. Once validated that the emails run smoothly, we move it out of test mode.
