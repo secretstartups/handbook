@@ -26,7 +26,7 @@ There are an abundance of free personality assessments available for free, we've
 - [Understanding Social Styles](/handbook/people-group/learning-and-development/emotional-intelligence/social-styles/#discover-your-social-style/)
 - [Emotional Intelligence Assessments](/handbook/people-group/learning-and-development/emotional-intelligence/#emotional-intelligence-eq-assessments/)
 - [Gallup Strengths Finder](https://www.gallup.com/cliftonstrengths/en/252137/home.aspx) 
-- [16 Personalities](https://www.google.com/search?q=16+personalities&rlz=1C5CHFA_enUS903US903&oq=16+personalities+&aqs=chrome..69i57j0l7.3119j0j7&sourceid=chrome&ie=UTF-8)
+- [16 Personalities](https://www.16personalities.com/)
 
 **How to apply personality assessments:** People leaders should have all team members take a personality assessment when they first join their team. Managers can examine personality assessment results and have strength-based discussions with their people. When we embrace our unique strengths and the unique strengths of our team members, we all feel more engaged, more productive, more valued, and more trusted.
 
