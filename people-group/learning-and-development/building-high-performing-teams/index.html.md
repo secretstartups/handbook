@@ -380,7 +380,7 @@ Why continue? It is time to give recognition to or celebrate the achievement of 
 
 ### Putting the Model Into Practice
 
-You may be asking yourself, 
+You may be asking yourself: 
 
 > How do I apply the model on my team?
 
