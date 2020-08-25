@@ -75,12 +75,12 @@ The Infrastructure department's Reliability Engineering teams provide 24x7 on-ca
 
 ## Quality Team On-Call Rotation
 
-- Quality department's on-call do not include work outside GitLab's normal business hours. The process is defined on our [pipeline on-call rotation](handbook/engineering/quality/guidelines/#quality-department-pipeline-oncall-rotation) page.
+- Quality department's on-call do not include work outside GitLab's normal business hours. The process is defined on our [pipeline on-call rotation](../engineering/quality/guidelines/#quality-department-pipeline-triage-on-call-rotation) page.
 - The rotation is on a weekly basis separated out into 2 timezones APAC/EMEA and AMER and each timezone has a primary and secondary on-call DRI.
 - The primary DRI is responsible for reporting and resolving triage activities while the secondary DRI is involved to prepare for taking over as primary in the following week.
 - This on-call rotation is to ensure accurate and stable test pipeline results that directly affects our continuous release process.
-- The list of pipelines which are monitored are defined on our [pipeline](handbook/engineering/quality/guidelines/debugging-qa-test-failures/#scheduled-qa-test-pipelines) page. 
-- The schedule and roster is defined on our [schedule](handbook/engineering/quality/guidelines/#schedule) page.
+- The list of pipelines which are monitored are defined on our [pipeline](../engineering/quality/guidelines/debugging-qa-test-failures/#scheduled-qa-test-pipelines) page. 
+- The schedule and roster is defined on our [schedule](../engineering/quality/guidelines/#schedule) page.
 
 ## PagerDuty
 
@@ -93,4 +93,4 @@ Team members covering a shift for someone else are responsible for adding the ov
 
 ### Adding and removing people from the roster
 
-When adding a new team member to the on-call roster, it's inevitable that the rotation schedule will shift. The manager adding a new team member will add the individual towards the end of the current rotation to avoid changing the current schedule, if possible. When adding a new team member to the rotation, the manager will raise the topic to their team(s) to make sure everyone has ample time to review the changes. 
+When adding a new team member to the on-call roster, it's inevitable that the rotation schedule will shift. The manager adding a new team member will add the individual towards the end of the current rotation to avoid changing the current schedule, if possible. When adding a new team member to the rotation, the manager will raise the topic to their team(s) to make sure everyone has ample time to review the changes.
