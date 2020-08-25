@@ -377,6 +377,28 @@ Why continue? It is time to give recognition to or celebrate the achievement of 
 
 </details>
 
+
+### Putting the Model Into Practice
+
+You may be asking yourself: 
+
+> How do I apply the model on my team?
+
+Great question! To assess how your team is doing, we've provided a couple of resources for you to leverage: 
+
+- Check out the [High Performing Teams Diagnostic tool](https://docs.google.com/document/d/11s4DR-df0qEKf6L-G2FvDpZI8yBVrUz9hr5sMhsgzto/edit) to assess your team individually and as a group.
+- Have each member of the team make a copy of the tool, including the Manager.
+- Give them a few days to score each stage for how they currently assess your team's performance.
+- Come together as a group and have each team member come with at least one idea on how the team can improve its performance. Managers can use the [Managers High Performing Teams Toolkit](https://docs.google.com/document/d/1tLmpibrOPDLX9smXWLPOzgQ38zGwnlGtbQjxYejPBRM/edit) to facilitate the conversation. 
+- Discuss the ideas as a team and vote to identify at least one idea for implementation (e.g. process improvements, new tools, technology, communication approaches, etc). Leverage the [team action plan](https://docs.google.com/document/d/1EsfKfddU9Rk-OJ9qwZm4MTf7AAYMYahIALm8q3tkMTk/edit) for a future-focused discussion and plan of action. 
+- Conduct a development discussion with each team member regularly. Inquire on their level of engagement. Ask them what else they would like to learn and explore how those development opportunities can be integrated into the role. 
+- Review team accomplishments quarterly. Meet with each individual to review their accomplishments. Take a [coaching approach](/handbook/people-group/learning-and-development/career-development/coaching/) and have the person talk through what their accomplishments were.
+- Identify opportunities for senior leadership to recognize the team. Recognize the team in front of executive management. 
+- Write personal thank you notes leveraging the `#thanks` Slack channel.
+
+These are a few practices you can implement within your team to help all team members reach high performance! 
+
+
 ### Summary
 The Drexler-Sibbet Team Performance Model is an excellent tool to building and maintaining high performing teams at GitLab. As a Manager, use some of the tactical steps outlined on this page to ensure your team has a common understanding of the direction of the team. Your team will be on its way to building a high performing team!
 
