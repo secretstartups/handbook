@@ -23,6 +23,7 @@ twitter_creator: "@gitlab"
 * Supporting/Activitiy Metrics: SAOs, Attributed Pipeline, Emails Sent
 
 ### MQL Targets
+
 | Fiscal Quarter | Large |  Mid-Market |  SMB |
 | ------ | ------ | ------ | ------ |
 | Q3FY21 | 4708 | 4500 | 26,893 |
@@ -58,6 +59,14 @@ Is our single source of truth (SSoT) for processes and relevant links
 *  The handbook will be iterated on as we establish and optimize processes for optimal efficincy
 
 ## Project Management
+
+## Issue Templates
+We ask that teams request work using our issue templates in the campaigns project. These templates clarify what information and details are required in order to complete the request.
+* [email-request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=email-request)
+* [zoom-license-date-request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=zoom-license-date-request)
+* [idea-campaign](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=idea-webcast)
+* [idea-webcast](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=idea-campaign)
+* more to be added during transition
 
 ### Campaigns Team Intake Process
 Beginning Q3 FY21, the demand gen campaigns team will begin an issue intake process to evaluate comprehensive details of request and assign based on milestone bandwidth and priorities. Requests may be submitted using the correct issue templates.
@@ -119,13 +128,6 @@ The campaigns team uses the overall 2-week marketing milestones (format of [Mktg
 * [DG-Backlog:Ideas](https://gitlab.com/groups/gitlab-com/-/milestones/258) - holds issue requests related to campaign and webcast ideas submitted to demand generation
 * [DG-Backlog:Documentation](https://gitlab.com/groups/gitlab-com/-/milestones/248) - holds issues related to needed documentation (handbook, issues, etc.)
 * [DG-Backlog:General](https://gitlab.com/groups/gitlab-com/-/milestones/256) - holds general issue backlog that don't fit into request, ideas, or documentation/process
-
-## Issue Templates
-In the campaigns project, you will see the following issuable templates. These templates clarify what information and details are required in order to complete the request.
-* [email-request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=email-request)
-* [zoom-license-date-request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=zoom-license-date-request)
-* [idea-campaign](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=idea-webcast)
-* [idea-webcast](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=idea-campaign)
 
 ### Boards and Lists
 
