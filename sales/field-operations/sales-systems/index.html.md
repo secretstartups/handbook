@@ -40,7 +40,7 @@ Below is a list of the different technical skill sets found on the Sales System 
       * If you are encountering error codes that tell you to contact and administrator (different from a validation rule error).
       * If something was recently released and does not work at all.
    * Feature
-      * IF something works but you want it to work in a different manner.
+      * If something works but you want it to work in a different manner.
       * If something was released and additional functionality is desired.
       * If something is released and the requierments change.
 * The Systems team works to address Bugs in a timely fashion that is aligned with the severity of the bug. If you think that a bug was released open an issue by following the processes above and add the `SalesSystems::Bug` issue label. The Systems team will review this list on a daily basis to address any bugs and plan work on them. 
@@ -48,6 +48,7 @@ Below is a list of the different technical skill sets found on the Sales System 
    * Share the issues in the `sales-support` Slack channel
 
 ## Working our backlog of Issues
+* [Sales System Backlog](https://gitlab.com/groups/gitlab-com/-/boards/1903910?&label_name[]=SalesSystems%3A%3ABackLog)
 * The Sales Systems team alternates our focus every other Monday between releasing our latest updates and reviewing issues in the backlog. Once in the Backlog the Systems team assigness each ticket a priority (`P1`,`P2`,`P3`,`P4`)
 * This status aims to facilitate the process at which the systems team can pull issues out of the backlog and to also provide some context to requstors about when their issues will be reviewed.
   * `P1`
