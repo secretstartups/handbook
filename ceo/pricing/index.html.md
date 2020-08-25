@@ -513,23 +513,21 @@ In most cases the following guidelines apply:
 Below is a video with the CEO discussing the philosophy of this with a Product Manager:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HY4iqCFztjk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## We'll always move features down
+## Default to move features down
 
-Besides the [tier framework](#buyer-based-open-core), we also need to keep our [stewardship promises](/company/stewardship/#what-features-are-paid-only).
-We owe it to our users to only move features from higher-paid tiers to lower ones, never the other way.
+When in doubt, we will default to moving features to a lower tier, [moving it down quickly](#if-a-feature-can-be-moved-down-do-it-quickly) if 
+data shows that this is more appropriate. Not all tier changes will involve moving things to lower-priced plans and paid features may move into higher tiers, but
+[open source features should never move to paid tiers](company/stewardship/#promises).
 
-This means that, when in doubt, we will select the higher tier and [move it down quickly](#if-a-feature-can-be-moved-down-do-it-quickly) if data shows that this is more appropiate.
-It also means that all tier changes will involve moving things to lower-priced plans.
-If there is a knee-jerk reaction of 'why do we always move features down,' then the response will be to opt for lower tiers initially.
-The harder we make moving a feature down in tiers, the higher the risk of getting the initial assessment wrong.
+We should focus on building new features that buyers want and making sure that the initial assessment of new features is never too low. While we reserve the
+ability to move features up in tier, proving the necessity has a much higher bar since we are constraining the existing reach of a feature rather than expanding it.
 
-So we should focus on building new features that buyers want and making sure that the initial assessment of new features is never too low.
 Please also note that the CEO is in charge of pricing and tiers; this is delegated to product for the day-to-day work.
 While other parts of the GitLab organization are consulted, the CEO is the [directly responsible individual](/handbook/people-group/directly-responsible-individuals/).
 
-## Bringing features to lower tiers and pricing changes
+## Changing tiers and pricing changes
 
-To propose a change that impacts pricing or moves a feature down in tier (e.g. moving a feature from Premium to Core), please follow the process outlined in the [Feature Tier or Pricing Change issue template](https://gitlab.com/gitlab-com/Product/issues/new?issuable_template=Feature-Tier-Or-Pricing-Change).
+To propose a change that impacts pricing or changes a feature's tier (e.g. moving a feature from Premium to Core), please follow the process outlined in the [Feature Tier or Pricing Change issue template](https://gitlab.com/gitlab-com/Product/issues/new?issuable_template=Feature-Tier-Or-Pricing-Change).
 
 ## DevOps score is not maturity
 
