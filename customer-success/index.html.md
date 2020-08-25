@@ -73,7 +73,7 @@ The account team is comprised of the Strategic Account Leader/Account Executive,
 
 ## Overlap Between Solution Architects and Technical Account Managers
 
-Generally, the SA owns all pre-sales technical relationships and activities while a TAM owns growth after an initial sale. However, the SA will still be involved with the customer after an initial sale in several circumstances. Likewise, a TAM will become involved prior to a sale for context and collaboration.
+SA owns 1) pre-sales technical evaluation and relationships prior to the initial sale and 2) tier upgrades and new business units (i.e., connected new) within an existing customer.  TAM owns 1) post-sales customer relationship and 2) license upgrades within an existing customer.
 
 TAM engagement prior to the sale should occur in the following situations:
 
