@@ -269,7 +269,7 @@ This section is ordered by stage and group according to the [product categories 
 | -------------------- | ------ | ------------------------------------------------------ |
 | License and Renewals | AMER   | Tom H <br> Keven <br> Kaitlyn <br> James M <br> Eric   |
 |                      | APAC   | Rotana <br> Sameer                                     |
-|                      | EMEA   | Rene <br> Donique                                      |
+|                      | EMEA   | Rene <br> Donique <br> Collen                          |
 
 #### Enablement
 
