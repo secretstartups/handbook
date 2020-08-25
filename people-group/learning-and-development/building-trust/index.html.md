@@ -57,6 +57,8 @@ The Zoom feature to upload [any background image](/handbook/tools-and-tips/zoom/
 
 Use the '#thanks' [slack channel](/handbook/communication/#say-thanks/) to give recognition to team members in a public setting. Review team accomplishments quarterly. Meet with each team member to review their accomplishments. Take a [coaching approach](/handbook/people-group/learning-and-development/career-development/coaching/) and have the team members talk through what their accomplishments were. Managers should identify opportunities for executive management to recognize the team. They should also look for opportunities to recognize the team in front of executive management. 
 
+**How to apply giving credit to team members:** Managers can set a weekly reminder to review team accomplishments and areas for individual recognition. Scheduling a regular cadence of giving credit will show team members that leaders are playing an active role in their career. 
+
 ### Leverage the Building High Performing Teams Model
 
 The [Building High Performing Teams model](/handbook/people-group/learning-and-development/building-high-performing-teams/) is one of the most widely used and accepted models on team development. A big component of the model is building trust. To reach high performance, teams need to trust each other and share mutual regard where people are supported and respected. There is a willingness to be forthright, open, and free in working with team members. Review the [Trust section](/handbook/people-group/learning-and-development/building-high-performing-teams/#stage-2-trust-building---who-are-you/) of the Building High Performing teams page.
@@ -67,9 +69,17 @@ The [Building High Performing Teams model](/handbook/people-group/learning-and-d
 
 Managers should be open to [receiving feedback](/handbook/people-group/guidance-on-feedback/) from their team members. Often there is a barrier as employees feel uncomfortable sharing constructive feedback, let alone with their manager. But if managers are open to feedback, they can slowly grow a culture of feedback within their team, thereby increasing trust. Managers can show their openness by asking for feedback, through [1:1 calls](/handbook/leadership/1-1/) with direct reports or our performance management platform. 
 
+**How to apply asking for feedback:** Instincitively it can be difficult to ask for feedback from team members as a manager. However, people leaders should be in the habit of regularly asking for feedback. Every 1-1 can be an opportunity for team members to share feedback on your performance. It is critical for managers to establish an enviornment built on trust with [no ego](/handbook/values/#no-ego/) to enable team members to be forth coming. 
+
 ### Overcome Unconscious basis
 
 As people, we have a natural tendency to make assumptions about others, which means that once someone becomes a manager they might unintentionally favor some team members over others. [Unconscious bias](/company/culture/inclusion/unconscious-bias/)contributes to a major loss in trust between managers and employees.
+
+**How to apply overcoming unconscious bias:** There are a host of free resources available to overcome unconscious bias. Managers and team members should spend time understanding their bias. Take the [implicit-association test (IAT)](company/culture/inclusion/unconscious-bias/#can-i-test-it/) as a first step. Apply empathy to discussions amongst your team and put your self in others shoes to better understand their perspective. 
+
+## Summary
+
+Building trust takes time and energy. These are not the only strategies teams can apply to build trust but it is a start. Use this page as a guide to building a cohesive and collaborative team built on trust. Trust among teammates is the foundation of almost everything we do at GitLab. It takes a bit more effort to build trust in a remote team, but there are clear ways to make it happen. 
 
 
 
