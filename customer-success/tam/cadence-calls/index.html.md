@@ -48,7 +48,7 @@ At the end of each customer call any changes to customer health should be reflec
  - Practice slowing down call conversations. Stopping the dialog for a few seconds to say “let me write that down” tells the customer what they said is important to you.
  - Ask your SAL/AE/SA to take notes with you. After the meeting combine and add detail.
  - Use chorus to record your calls so there's less pressure for you to take note of everything.
- - When it makes sense, having you or the AE go back through the call in Chorus to transcribe is super effective, although not efficient.
+ - Sometimes it makes sense for somebody on the [account team](/handbook/customer-success/account-team/) to go back through the call in Chorus to transcribe it.
  - Write notes in whatever is easiest and always copy them to your best source of truth. But if you can write them in the source of truth in the first place, you’ll be way more efficient and consistent.
 
 ### Cadence Call Topics
