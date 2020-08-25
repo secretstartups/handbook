@@ -35,7 +35,7 @@ Epics let you manage your portfolio of projects more efficiently and with less e
 
 ### Uses
 
-1. Suppose your team is working on a project/OKR that involves multiple discussions throughout different issues created in distinct projects within a Group.  With Epics, you can track all the related activities that together contribute to that single project/OKR.
+1. Suppose your team is working on a project/OKR that involves multiple discussions throughout different issues created in distinct projects within a Group.  With epics, you can track all the related activities that together contribute to that single project/OKR.
 1. Track when the work for the group of issues is targeted to begin, and when it’s targeted to end. 
 1. Discuss and collaborate on ideas and scope at a high level.  
 1. Helps to report on the health status of the different issues attached.
