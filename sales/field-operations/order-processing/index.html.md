@@ -382,6 +382,14 @@ If custom terms need to be added to a quote, notify the Deal Desk team. The team
 
 </details>
 
+<details>
+<summary markdown="span"><b>Subscription Transfer Agreements</b></summary>
+
+For assistance with a Subscription Transfer Agreement please open a Legal Request. Please provide details as to the Account which purchased the Subscription--Including the original Opportunity--and the updated Account that is requesting to be assigned ownership.
+
+
+</details>
+
 
 ## **How to Submit a Quote for Discount and Payment Term Approval**
 
