@@ -19,17 +19,16 @@ The Documentation below is organized by Feature, each section will have the rele
 
 **Business Process this supports:** [Territory Success Planning](/handbook/sales/field-operations/sales-operations/#territory-success-planning-tsp)
 
-**Overview:** The goal of TSP is to keep a set of staging fields constantly update to date from a variety of data sources, then at given intervals copy these vales to the "Actual" set of fields for general use. This allows for us to contantly receive changes but only apply those changes in a control fashion at given intervals. This also allows us to easily track exceptions. Note: This project was orginally referred to as ATAM, which is why the API names of the fields reference that instead of TSP.
+**Overview:** The goal of TSP is to keep a set of staging fields consistently up to date from a variety of data sources, then at given intervals copy these vales to the "Actual" set of fields for general use. This allows for us to constantly receive changes but only apply those changes in a controled fashion. This also allows us to easily track exceptions. Note: This project was orginally referred to as ATAM, which is why the API names of the fields reference that instead of TSP.
 
 **Logic Locations:** [AccountJob.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/blob/master/force-app/main/default/classes/AccountJob.cls)
 Code Units:
-* getHighestEmployeesInFamily
-* stampATAMAddressFields
+* highestEmpsAndTSPAddress
 * ownerTransfer
 
 **Inputs:** DataFox, DiscoverOrg, Manually Entered Address & Employee Data, Account Parenting Hierarchy
 
-**Outputs:** Here is the outline between of two sets of fields we are setting on the Account object. Staging(TSP / ATAM) are set nightly via APEX job. Actuals are set at given intervals found in the business documentation.
+**Outputs:** Here is the outline between of two sets of fields we are setting on the Account object. Staging(TSP / ATAM) are set nightly via an APEX job. Actuals are set at given intervals found in the business documentation.
 
 | **Data Name**     | **Actual - Field API Name**                  | **TSP - Field API Name**        |
 |---------------|--------------------------------------------|-----------------------------|
@@ -209,6 +208,25 @@ Code Units:
 | New - First Order | The First Closed Won Opportunity in an Account Family. |
 | New - Connected | The First Closed Won Opportunity on an individual Account, that is not the first one in the Account Family.|
 | Growth | All opportunities that follow the `New - First Order` or `New - Connected` opportunities. This includes Add-ons, Renewals, and additional Subscriptions. |
+
+## Lead Segmentation
+
+**Business Process this supports:** [Sales Segmentation](/handbook/sales/field-operations/gtm-resources/#segmentation)
+
+**Overview:** Leads should be sorted into different Sales Segments based on their company's employee count so the appropriate salesperson can persue them. We have a number of different information sources to get company size, so we must also establish a hierarchy for them.
+
+| **Info Source** | **Salesforce Lead Field API Name** |
+| ---- | ---- |
+| Lean Data | Lean_Data_Matched_Account_Sales_Segment__c |
+| Web Portal | Web_Portal_Purchase_Company_Size__c |
+| Marketing | Employee_Buckets__c |
+| DemandBase | DB_Employee_Count__c |
+| DiscoverOrg | DiscoverOrg_Number_Of_Employees__c |
+| Salesforce User | NumberOfEmployees |
+
+**Logic Locations:** [LeadClass.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/LeadClass.cls)
+Code Unit: 
+   * determineSegment
 
 ## Gainsight 
 *  Gainsight is a system that our TAMs use in order to support our customers and to manage their workflow. Below, the integration between Salesforce and Gainsight is documented and the applicable rules that sync the data between the systems as well system processes that have been set up withing the system itself.
