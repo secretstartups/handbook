@@ -36,7 +36,7 @@ Value drivers describe what organizations are likely proactively looking for or 
 | [NEW Customer deck based on GitLab value drivers](https://docs.google.com/presentation/d/1SHSmrEs0vE08iqse9ZhEfOQF1UWiAfpWodIE6_fFFLg/edit?usp=sharing) | alternative to the standard GitLab pitch deck that starts with the customer's perspective and aligns to the 3 value drivers (video [here](https://youtu.be/UdaOZ9vvgXM)) |
 | [Command Plan](/handbook/sales/command-of-the-message/command-plan/) | how GitLab has operationalized Command of the Message and MEDDPPICC into the opportunity management process |
 | [MEDDPPICC](/handbook/sales/meddppicc/) | proven methodology used for strategic opportunity management and complex sales process orchestration for enterprise organizations | 
-| [Demystifying the Metrics Conversation](/handbook/sales/command-of-the-message/metrics.html) | tips and tricks for navigating the Metrics conversation with customers |
+| [Demystifying the Metrics Conversation](/handbook/sales/command-of-the-message/metrics/) | tips and tricks for navigating the Metrics conversation with customers |
 
 ## GitLab Differentiators
 
