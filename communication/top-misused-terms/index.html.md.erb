@@ -1,0 +1,55 @@
+---
+layout: handbook-page-toc
+title: "Top Misused Terms - GitLab Communication"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+Below are terms people frequently use when they should use another term.
+
+<div class="responsive-table">
+  <table>
+    <thead>
+      <tr>
+        <th class="misused-avoid">
+          Misused terms
+        </th>
+        <th class="misused-use-instead">
+          Alternatives
+        </th>
+        <th class="misused-reason">
+          Reason Why
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+    <% Gitlab::Homepage::MisusedTerm.all!.each do |term| %>
+      <tr id="<%= term.id %>">
+        <td class="misused-avoid">
+          <% term.avoid.each do |avoid_item| %>
+            <%= kramdown(avoid_item) %>
+          <% end %>
+
+          <% if term.avoid_footnote.present? %>
+            <p><small><%= term.avoid_footnote %></small></p>
+          <% end %>
+        </td>
+
+        <td class="misused-use-instead">
+          <% term.use_instead.each do |alternative| %>
+            <%= kramdown(alternative) %>
+          <% end %>
+        </td>
+
+        <td class="misused-reason">
+          <%= kramdown(term.reason) %>
+        </td>
+      </tr>
+    <% end %>
+    </tbody>
+  </table>
+</div>
