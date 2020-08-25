@@ -44,14 +44,14 @@ Epics let you manage your portfolio of projects more efficiently and with less e
 
 Epics are created on group level. To create an epic, navigate to the project’s group, on the left panel,
  
-1. click ‘epics’, 
-1. then click ‘New epic’. 
-1. Type in the title of the epic and click create epic.
-1. This epic is referred to as the parent epic.
+1. Click ‘epics’ 
+1. Then click ‘New epic’ 
+1. Type in the title of the epic and click create epic
+1. This epic is referred to as the parent epic
 
 You may choose to mark confidential by selecting Make this epic confidential checkbox.
 
-### Video: How to Create an Epic:
+### Video: How to Create an Epic (~x minutes)
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/hxUmalpYHF4" frameborder="0" allowfullscreen="true"> </iframe>
@@ -59,14 +59,14 @@ You may choose to mark confidential by selecting Make this epic confidential che
 
 ### Child Epics
 
-Child epics may be added to a parent epic.  To add a child epic;
+Child epics may be added to a parent epic.  To add a child epic:
 
 1. Navigate to the parent epic, click the add dropdown button
-1. Click Add an epic.
+1. Click Add an epic
 1. Type in the title
 1. Create epic
 
-### Video: How to Create a Child Epic:
+### Video: How to Create a Child Epic (~x minutes)
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/2OjWGpOsBsM" frameborder="0" allowfullscreen="true"> </iframe>
@@ -81,11 +81,11 @@ An epic contains a list of issues and an issue can be associated with at most on
 1. In the epic, click the Add dropdown button.
 
 1. [INSERT IMAGE]
-1. Click Add an existing issue.
-1. Either paste the link of the issue or enter the issue id.
+1. Click Add an existing issue
+1. Either paste the link of the issue or enter the issue id
 
 1. [INSERT IMAGE]
-1. If there are multiple issues to be added, press the spacebar and repeat this step. 
+1. If there are multiple issues to be added, press the spacebar and repeat this step 
 1. Click Add
 
 
@@ -114,21 +114,21 @@ To move on to the next lesson, take and pass the GitLab 201 epics quiz.
 
 ## Lesson 2: Merge Requests
 
-In GitLab 101, we learned how to create [merge requests](https://about.gitlab.com/handbook/people-group/learning-and-development/certifications/gitlab-101/#lesson-3-gitlab-merge-requests).  In this lesson, we will dive deeper into merge requests. 
+In GitLab 101, we learned how to [create merge requests](https://about.gitlab.com/handbook/people-group/learning-and-development/certifications/gitlab-101/#lesson-3-gitlab-merge-requests). In this lesson, we will dive deeper into merge requests. 
 
 ### Reviewing a Merge Request
 
 You can review a merge request to provide feedback to the author. You can start a review in the merge request diff. Diff is the view of changes to a file between branches or commits.
 
-To review a merge request, 
-1. Click on the ‘Changes’ tab in the merge request.
+To review a merge request:  
+1. Click on the "Changes" tab in the merge request.
 1. Write your comment on a diff and click on the start a review button. 
 
 1. [INSERT IMAGE]
   
 1. To add more comments to a review, start writing a comment as normal and click the ‘Add to review’ button.
 1. To resolve a thread, when replying to a comment, click the checkbox to resolve thread. 
-1. Click 'submit review' to publish all documents.
+1. Click "submit review" to publish all documents.
 
 
 ### Suggesting Changes to a Merge Request
@@ -144,43 +144,33 @@ You can suggest changes in the Merge Request Diff threads. The Merge Request aut
 1. In the comment, add your suggestion to the pre-populated code block
 
 1. [INSERT IMAGE]
-1. Click ‘Start a review’ to add your comment to a review, or ‘Add comment now' to add the comment immediately.
+1. Click "Start a review" to add your comment to a review, or "Add comment now" to add the comment immediately.
 1. The Suggestion in the comment can be applied by the merge request author directly from the merge request.
 1. Once the suggestion has been applied, a new commit will be created and the suggested change will be pushed to the merge request's branch.  
 
 ### WIP/Draft Merge Requests
 
-If you are still working on a merge request and not ready for it to be merged, add [Draft] to the start of the merge request’s title, this will prevent the merge request from being merged.
+If you are still working on a merge request and not ready for it to be merged, add `WIP: ` or `Draft: ` to the start of the merge request’s title, this will prevent the merge request from being merged.
 
 To update a WIP MR, in the changes tab, click on the pencil icon to edit the merge request.
 [INSERT IMAGE]
 
-Make your changes.  Click ‘commit changes’.
+Make your changes.  Click "commit changes".
 
-When you are ready for it to be merged, simply remove the [Draft] prefix from the title of the MR.
+When you are ready for it to be merged, simply remove the `WIP: ` or `Draft: ` prefix from the title of the MR.
 
 ### Quiz - Lesson 2: Merge Requests 
 
 ## Lesson 3: How to navigate www-gitlab-com project
 
-You may search through the www-gitlab-project to access the handbook. This is useful for when you are adding a new page to the handbook.  
-To find the handbook, navigate to www-gitlab-com project, click sites - handbook - source - handbook. Click the section of the handbook you want to navigate to (eg people group, marketing)
+You may search through the `www-gitlab-com` project to access the handbook. This is useful for when you are adding a new page to the handbook.  
+To find the handbook, navigate to `www-gitlab-com` project, click sites - handbook - source - handbook. Click the section of the handbook you want to navigate to (eg people group, marketing)
 
 ### Video: How to Create a new handbook page
 
-
 ### Helpful Tips for updating the Handbook
-The [markdown guide](https://about.gitlab.com/handbook/markdown-guide/#markdown-style-guide-for-aboutgitlabcom) page contains useful tips for updating the handbook, such as adding images, embedding documents and much more.  
+The [markdown guide](/handbook/markdown-guide/#markdown-style-guide-for-aboutgitlabcom) page contains useful tips for updating the handbook, such as adding images, embedding documents and much more.  
 
 ### Referencing another section of the handbook for how to do something 
-If you don’t know how to do something - find another instance of it in the handbook. For example, if you want to add a table to the handbook. Navigate to a section of the handbook that contains a table, the [People Group](https://about.gitlab.com/handbook/people-group/) page is a good example.  
-Click 'view source' to see how the table looks. You may copy/paste, then edit to suit your needs.
-
-
-
-
-
-
-
-
-
+If you don’t know how to do something - find another instance of it in the handbook. For example, if you want to add a table to the handbook. Navigate to a section of the handbook that contains a table, the [People Group](/handbook/people-group/) page is a good example.  
+Click "view source" to see how the table looks. You may copy/paste, then edit to suit your needs.
