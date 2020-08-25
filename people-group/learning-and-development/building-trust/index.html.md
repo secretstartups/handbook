@@ -11,7 +11,9 @@ title: Building Trust
 
 ## Introduction
 
-Trust is the cornerstone of how we operate at GitLab. We trust team members to [do the right thing instead of having rigid rules](/handbook/values/#measure-results-not-hours/). Working remotely can be isolating for team members if Managers do not take the necessary steps to build trust and social cohesion amongst their teams. Trust at Gitlab [increases results](/handbook/people-group/guidance-on-feedback/) and [efficiency](/handbook/values/#efficiency/). Building trust takes time and energy. On this page, we’ve outlined a few strategies Managers and Individual Contributors can apply to build trust amongst their teams. 
+Trust is the cornerstone of how we operate at GitLab. We trust team members to [do the right thing instead of having rigid rules](/handbook/values/#measure-results-not-hours/). Working remotely can be isolating for team members if Managers do not take the necessary steps to build trust and social cohesion amongst their teams. Trust at GitLab [increases results](/handbook/people-group/guidance-on-feedback/) and [efficiency](/handbook/values/#efficiency/). Building trust takes time and energy. We resort to [informal communication](/company/culture/all-remote/informal-communication/) to build trust but there are additional strategies people leaders and team members can implement on their teams. Working remotely can be isolating for some and it can take longer to get to know people than collocated office settings. 
+
+On this page, we’ve outlined additional strategies people leaders and team members can apply to build trust amongst their teams. 
 
 ## Strategies to Build Trust 
 
