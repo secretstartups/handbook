@@ -394,7 +394,7 @@ Great question! To assess how your team is doing, we've provided a couple of res
 - Conduct a development discussion with each team member regularly. Inquire on their level of engagement. Ask them what else they would like to learn and explore how those development opportunities can be integrated into the role. 
 - Review team accomplishments quarterly. Meet with each individual to review their accomplishments. Take a [coaching approach](/handbook/people-group/learning-and-development/career-development/coaching/) and have the person talk through what their accomplishments were.
 - Identify opportunities for senior leadership to recognize the team. Recognize the team in front of executive management. 
-- Write personal thank you notes leveraging the #thanks Slack channel.
+- Write personal thank you notes leveraging the `#thanks` Slack channel.
 
 These are a few practices you can implement within your team to help all team members reach high performance! 
 
