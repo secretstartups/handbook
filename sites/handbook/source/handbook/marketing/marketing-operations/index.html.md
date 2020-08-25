@@ -721,6 +721,7 @@ This is webcast hosted on an external partner/vendor platform. The status of Att
 | No Action | default starting position for all records |  |
 | Registered | Registered for webcast |  |
 | Attended | Attended event | Yes |
+| Follow Up Requested | Requested to be followed up with from GitLab | Yes |
 | Attended On-demand | Watched/consumed the presentation materials post-event on-demand | Yes |
 
 #### Survey
@@ -763,7 +764,7 @@ Track cohort of Trials for each product line (Self-hosted or SaaS) to see their 
 
 #### Virtual Sponsorship
 
-A virtual event that we sponsor and/or participate in that we do not own the registration but will generate a list of attendees, engagement and has on-demand content consumption post-live virtual event.
+A virtual event that we sponsor and/or participate in that we do not own the registration but will generate a list of attendees, engagement and has on-demand content consumption post-live virtual event. This name will be changing to `Virtual Conference`.
 
 **Bizible:** This is tracked as an _offline_ Bizible channel.
 
