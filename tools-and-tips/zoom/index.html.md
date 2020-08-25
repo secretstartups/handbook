@@ -32,6 +32,7 @@ Here are a few important things to keep in mind, especially as you read through 
   Use caution when sharing calendar events with customers and trusted third parties.
   Public meetings such as webinars can use a password if you prefer, but use this in conjunction with the Waiting Room so the meeting host can approve each attendee.
 - It is recommended to include an embedded password in the URL, so if you're using this option do not share this URL publicly.
+- Starting 2020-09-27, all meetings will be required to have a Passcode or a Waiting Room enabled.
 - Zoom supports end-to-end encryption if no Zoom connectors are in use.
   More details can be found [here](https://blog.zoom.us/wordpress/2020/04/01/facts-around-zoom-encryption-for-meetings-webinars/).
   GitLab makes use of Zoom connectors for telephones, whenever we do webinars, and the vast majority of group meetings that end up on YouTube.
@@ -105,6 +106,29 @@ There are a few steps to get this enabled for personal meetings:
 1. Click "Save"
 
 Now all meetings that use your Personal Meeting ID (PMI) will require you to "admit" anyone who joins the meeting.
+
+### Enable passcodes for all meetings
+*Please keep in mind that starting 2020-09-27, all meetings will be required to have a Passcode or a Waiting Room enabled*
+
+1. Sign into the Zoom web portal and navigate to [Settings](https://zoom.us/profile/setting).
+1. In the Security section, verify that your passcode settings are enabled for new meetings, personal meeting ID meetings and instant meetings.
+1. If the settings are disabled, click the toggle to enable them. If a verification dialog displays, choose Turn On to verify the change.
+
+### Enable passcodes for existing meetings 
+
+***Method 1 (recommended):***
+1. Once you have identified the meetings that need to be updated ***and*** have enabled passcodes for all meetings, go to your Google Calendar  
+1. Edit the calendar event
+1. Remove the zoom meeting
+1. Add a new meeting 
+1. Save for This and following events or All events
+
+***Method 2:***
+1. Log into Zoom
+1. Go to `Meetings` > `Upcoming meetings`
+1. Click on the meeting you want to update and scroll to the bottom of the page to find the `Edit this meeting` button
+1. Under the Security section, check the Passcode box
+1. ***KEEP IN MIND:*** If you add Passcodes within Zoom to an existing meeting, calendar invites will need to be resent to include the Passcode.
 
 ---
 
