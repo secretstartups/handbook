@@ -11,7 +11,7 @@ title: GitLab 201 Tool Certification
 
 ## Introduction
 
-Welcome to the GitLab 201 Tool certification page! This is a self-paced course consisting of reading material, video tutorials and knowledge assessments at the end of each lesson. To become certified in GitLab 201, participants will have to pass all 3 lessons with at least 80%. 
+Welcome to the GitLab 201 Tool certification page! This is a self-paced course consisting of reading material, video tutorials and knowledge assessments at the end of each lesson. To become certified in GitLab 201, participants will have to pass all 3 lessons with at least 80%. We recommend that courses are completed and passed in order. 
 
 
 ### Who can benefit from this 201 training?
