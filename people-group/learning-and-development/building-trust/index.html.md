@@ -38,7 +38,8 @@ A one-slider is a great tool for remote teams to get to know one another. Consid
 
 ### Optional Weekly Team Social Call
 
-Optional social calls are a great strategy to increase trust. Anyone can organize one. They are great tools to come together as a team informally. The secret is to make the meeting non-work related. Example optional social call topics:
+Optional social calls are a great strategy to increase trust. Anyone can organize one. They are great tools to come together as a team informally. The secret is to make the meeting non-work related. Attendees are able to share photos related to the topic during their time speaking. Example optional social call topics:
+
 - Top three songs of all time (you can play short snippets of a song) 
 - Favorite foods
 - Two truths and a lie
