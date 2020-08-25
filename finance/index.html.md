@@ -59,7 +59,6 @@ The GitLab Finance Department includes multiple Teams: Accounting, Financial Pla
 - [Business Operations](/handbook/business-ops/)
 - [Financial Planning & Analysis](/handbook/finance/financial-planning-and-analysis/)
 - [Investor Relations](/handbook/finance/investor-relations/)
-- [Legal](/handbook/legal/)
 - [Tax](/handbook/tax/)
 
 ----
