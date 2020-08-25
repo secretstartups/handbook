@@ -165,6 +165,15 @@ Code Units:
 Code Unit:
     * primaryCheck
 
+## Opportunity Stage Progression Tracking
+
+**Business Process this supports** The sales cycle and analytics.
+
+**Overview** The goal of this functionality is to capture the progression of an opportunity through the stages in the sales process.  To support this, a check box and date stamp will be automatically populated for each stage as the oportunity advances and or moves back in stage.  The tracking begins at stage 0-Pending Acceptance (an opportunity in stage 00, will not be stamped).  In the event an opportunity advances forward and skips stages, all of the skiped stages will be stamped with the same date as the resting stage. In the event of Closed Lost and Unqualified, the checks and dates will only apply for the stages that were actually met.  To avoid data loss and confusion, the stage progression tracking will only run once, the first time through the stages. 
+
+**Logic Locations**
+* To be added once functionality is in Production
+
 ## Block Salesforce From Transferring Historical Opp Owners On Account Owner Transfers
 
 **Business Process this supports:** In order to provide reliable and accurate historical data to the analytics team, the sales organization and to the companye as a whole we need to ensure that historical opportunities and relevant information on opportunities is not changed once the opportunity is closed. 
