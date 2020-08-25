@@ -14,10 +14,10 @@ Bootcamp material is divided into sections:
 2. Using GitLab
 3. Implementing & Operating GitLab (coming soon)
 
-These sections are independent, you can take any of them or both in any order depending on your needs.
+These sections are independent, so you can take any of them in any order depending on your needs.
 
 ## Introduction to GitLab
-GitLab is a single application for entire DevSecOps lifecycle. To see what GitLab does have a look at this demo video.
+GitLab is a single application for the entire DevSecOps lifecycle. To see what GitLab does have a look at this demo video.
 
 <figure class="video_container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/nMAgP4WIcno" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -27,7 +27,7 @@ GitLab is a single application for entire DevSecOps lifecycle. To see what GitLa
 
 ### How to start?
 
-1. Export [this project](https://gitlab.com/gitlab-com/channel/technical-bootcamps/using-gitlab) and import it to your preferred GitLab site. If you do not have GitLab site available, feel free to use GitLab.com
+1. Export [this project](https://gitlab.com/gitlab-com/channel/technical-bootcamps/using-gitlab) and import it to your preferred GitLab site. If you do not have a GitLab site available, feel free to use GitLab.com
 2. Have a look at the issues. Pick the one named *Lab 0* and assign it to yourself. It contains all steps needed to set up the environment. Execute all tasks in it
 3. Read on
 
@@ -37,7 +37,7 @@ GitLab is a single application for entire DevSecOps lifecycle. To see what GitLa
   <iframe width="560" height="315" src="https://www.youtube.com/embed/bCDmxG4IIXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-If you are interested in market positioning, typical painpoints and the way GitLab address them, customer stories and analyst coverage review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/agile/).
+If you are interested in market positioning, typical pain points and the way GitLab addresses them, customer stories and analyst coverage, review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/agile/).
 
 ### Code Management & Version Control
 
@@ -47,7 +47,7 @@ If you are interested in market positioning, typical painpoints and the way GitL
 
 **Now go to your project and find issue called *Lab 1* and complete the tasks contained there**.
 
-If you are interested in market positioning, typical painpoints and the way GitLab address them, customer stories and analyst coverage review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/version-control-collaboration/).
+If you are interested in market positioning, typical painpoints and the way GitLab addresses them, customer stories and analyst coverage review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/version-control-collaboration/).
 
 
 ### Continuous Integration & AutoDevOps
@@ -58,7 +58,7 @@ If you are interested in market positioning, typical painpoints and the way GitL
 
 **Now go to your project and find issues called *Lab 2* and *Lab 3* and complete the tasks contained there**.
 
-If you are interested in market positioning, typical painpoints and the way GitLab address them, customer stories and analyst coverage review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/ci/).
+If you are interested in market positioning, typical pain points and the way GitLab addresses them, customer stories and analyst coverage review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/ci/).
 
 ### GitOps
 
@@ -66,7 +66,7 @@ TODO - video
 
 **Now go to your project and find issue called *Lab 4* and complete the tasks contained there**.
 
-If you are interested in market positioning, typical painpoints and the way GitLab address them, customer stories and analyst coverage review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/gitops/).
+If you are interested in market positioning, typical pain points and the way GitLab addresses them, customer stories and analyst coverage review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/gitops/).
 
 ### DevSecOps
 
@@ -74,7 +74,7 @@ TODO - video
 
 **Now go to your project and find issue called *Lab 5* and complete the tasks contained there**.
 
-If you are interested in market positioning, typical painpoints and the way GitLab address them, customer stories and analyst coverage review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/devsecops/).
+If you are interested in market positioning, typical pain points and the way GitLab addresses them, customer stories and analyst coverage review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/devsecops/).
 
 ### Value Stream Management
 
@@ -82,8 +82,8 @@ TODO - video
 
 **Now go to your project and find issue called *Lab 6* and complete the tasks contained there**.
 
-If you are interested in market positioning, typical painpoints and the way GitLab address them, customer stories and analyst coverage review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/simplify-devops/).
+If you are interested in market positioning, typical pain points and the way GitLab addresses them, customer stories and analyst coverage review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/simplify-devops/).
 
 ### Continuous Delivery
 
-There is on significant usecase missing from our list. We will have a dedicated labs in the next part related to implementing GitLab. Meanwhile see [addtitional material](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/cd/).
+There is one significant usecase missing from our list. We will have a dedicated labs in the next part related to implementing GitLab. Meanwhile see [addtitional material](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/cd/).
