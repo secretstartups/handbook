@@ -125,7 +125,11 @@ execute any manual testing or other tasks related to the release of their fix/fe
 
 ### Deployment blockers
 
-Automated deployments to **any production environment** (including [canary]), are
+Anyone can **block or halt a deployment** by:
+* Declaring an [S2 incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident)
+* Alerting the Release Managers in the [#releases] channel. 
+
+In addition, automated deployments to **any production environment** (including [canary]), are
 halted during the change lock period. Currently, the change lock period is:
 
 * Between every Friday 23:00 UTC and Monday 07:00 UTC.
@@ -135,15 +139,13 @@ halted during the change lock period. Currently, the change lock period is:
 
 During the change lock period, manual deployment can be triggered through GitLab ChatOps if the deployment fixes **a S1 availability or security issue**.
 
-Additionally, the following events block automated deployments:
+Deployments to production will be blocked by the following events:
 
 1. An [active S1, S2 or S3 incident](/handbook/engineering/infrastructure/incident-management/#labeling).
 1. Ongoing [change issues with C1 and C2 criticality](/handbook/engineering/infrastructure/change-management/#change-criticalities).
 1. New exceptions in [Sentry reported in the canary environment](https://sentry.gitlab.net/gitlab/gitlabcom/).
 
 Release Managers may decide, with input from the [EOC](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) to override a block and continue with the deployment. 
-
-Anyone can **block or halt a deployment** by declaring an [S2 incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) and alerting the Release Managers in the [#releases] channel. 
 
 ### Self-managed releases
 
