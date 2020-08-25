@@ -75,13 +75,15 @@ Important notes:
 1. Wherever possible, the KPI or KR being reviewed should be compared to Plan, Target, or industry benchmark.
 1. There is no presentation; the meeting is purely Q&A. Of course, people can ask to talk them through a slide. If you want to present, please [post a YouTube video](/handbook/marketing/marketing-operations/youtube/) like [Todd did](https://www.youtube.com/watch?v=hpyR39y_1d0) and link that from the slide deck, agenda, and/or Slack.
 1. The functional owner is responsible for preparing the document 24 hours in advance of the meeting. The owner should update the meeting invite, send it to all guests so they know the materials are ready for review and, if possible, post the document in the #key-meetings channel.
-1. All key meetings should be recorded and uploaded to the GitLab Unfiltered YouTube channel, it is the DRI's or their EBA's responsibility to ensure that the video is uploaded to GitLab Unfiltered using the private setting.
+1. Key Meetings should be Publicly Streamed to YouTube Unfiltered  in alignment with GitLab's [value of transparency](/handbook/values/#transparency). Key meetings with [not public](/handbook/communication/#not-public) information should be privately streamed to YouTube Unfiltered. 
+1. If public  or private streaming is unavailable, key meetings should be recorded to the cloud and uploaded to the GitLab Unfiltered YouTube channel. It is the DRI's or their EBA's responsibility to ensure that the video is uploaded to GitLab Unfiltered with the correct visibilty (private or public). 
 1. If the function DRI is not available to attend their key meeting then the function's leadership team is responsible for attending the meeting and providing updates.
 
 Also see [First Post is a badge of
 honor](/handbook/communication/#first-post-is-a-badge-of-honor).
 
 ### Recordings
+
 To view a recording of a key meeting, visit the playlist on YouTube Unfiltered titled [Key Meetings](https://www.youtube.com/playlist?list=PL05JrBw4t0KrlBfo0IBmV0BwJcPN59swi). If you are unable to view a video, please ensure you are logged in as [GitLab Unfiltered](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube). 
 
 Key Meeting recording links should be shared in the #key-meetings Slack channel by the functional department EBA within 24 hours of a Key Meeting being completed.
