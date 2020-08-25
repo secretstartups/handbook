@@ -76,7 +76,7 @@ Managers should be open to [receiving feedback](/handbook/people-group/guidance-
 
 ### Overcome Unconscious basis
 
-As people, we have a natural tendency to make assumptions about others, which means that once someone becomes a manager they might unintentionally favor some team members over others. [Unconscious bias](/company/culture/inclusion/unconscious-bias/)contributes to a major loss in trust between managers and employees.
+As people, we have a natural tendency to make assumptions about others, which means that once someone becomes a manager they might unintentionally favor some team members over others. [Unconscious bias](/company/culture/inclusion/unconscious-bias/) contributes to a major loss in trust between managers and employees.
 
 **How to apply overcoming unconscious bias:** There are a host of free resources available to overcome unconscious bias. Managers and team members should spend time understanding their bias. Take the [implicit-association test (IAT)](company/culture/inclusion/unconscious-bias/#can-i-test-it/) as a first step. Block time on your calendar to take [Diversity, Inclusion, and Belonging](/company/culture/inclusion/) related training every quarter. Apply empathy to discussions amongst your team and put yourself in others shoes to better understand their perspective. 
 
