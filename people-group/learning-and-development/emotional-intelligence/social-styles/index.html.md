@@ -41,7 +41,7 @@ In the SOCIAL STYLE Model their are two scales of behavior: Assertiveness & Resp
 
 ### Assertiveness
 
-Dimension of behavior that measures the degree to which others perceive a person as tending to ask or tell in interctions with others. (Ask versus Tell)
+Dimension of behavior that measures the degree to which others perceive a person as tending to ask or tell in interactions with others. (Ask versus Tell)
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQjmHDBLOvUkiKUWyIbs8LuaHSFSHOqmHSZqTwxdY9SuScWWrxgtfPRWhi8aRyMAUrw33Nt5YDv2Oma/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -59,7 +59,7 @@ Dimension of behavior that measures the degree to which others perceive a person
 
 **Behavior:** What you say (verbal) and do (non-verbal)
 
-**Personality:**  The Combination of ideas, values, hopes, dreams, attitudes, abilities, as well as the behavior that others can observe that encompa
+**Personality:**  The combination of ideas, values, hopes, dreams, attitudes, abilities, as well as the behavior that others can observe that encompasses everything a person is.
 
 **SOCIAL STYLES:** Pattern of actions that others can observe and agree upon for describing one’s behavior
 
@@ -69,7 +69,7 @@ Dimension of behavior that measures the degree to which others perceive a person
 
 ### The four styles
 
-There are four styles related to the SOCIAL STYLE model. Each style represents a particular patter of actions that others can observe and agree upon for describing one's behavior. 
+There are four styles related to the SOCIAL STYLE model. Each style represents a particular pattern of actions that others can observe and agree upon for describing one's behavior. 
 
 *  Driving: strong willed and more emotionally controlled
 *  Expressive: outgoing and energizing
@@ -87,7 +87,7 @@ There are four styles related to the SOCIAL STYLE model. Each style represents a
 <details>
 <summary>The Driving Style</summary>
 
-  Team members that are classified as Drivers are action oriented that perfer fast-paced and structured enviornments.
+  Team members that are classified as Drivers are action oriented that prefer fast-paced and structured enviornments.
 
   <b>Characteristics of a Driver:</b>
   <ul>
@@ -285,7 +285,7 @@ Interested in learning about your own SOCIAL STYLE and those of your team? Below
 
 2. **Reflection** - Reflect briefly on your result. What is your Social Style?
 
-3. **Feedback** - Invite your colleaques to give feedback on your style.
+3. **Feedback** - Invite your colleagues to give feedback on your style.
 
 4. **Share** - Share the assessment with teammates who have not taken the assessment.
 
