@@ -55,7 +55,7 @@ Answer: The Product and Data teams are working to get these metrics at the subsc
 
 
 **Question: I viewed one of my Accounts, and some of the Subscription Data says "Not Available", what went wrong?**<br />
-Answer: Activated User data is not yet available for some subscriptions based on Namespace collisons or requires enhancemen to Seatlink. Some subscriptions will never recieve their acticated user cound because of air gapped hosting. In either scenario please [post on the Feedback issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/912) if you think the customer's subscription data should be available.
+Answer: Activated User data is not yet available for some subscriptions based on Namespace collisons or requires enhancement to Seatlink. Some subscriptions will never recieve their activated user count because of air gapped hosting. In either scenario please [post on the Feedback issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/912) if you think the customer's subscription data should be available.
 
 **Question: I expected there to be more (or less) Subscriptions related to the Account then was is appearing, why is this?**<br />
 Answer: Please confirm in the #Sales-Support slack room if you think viewing the app uncovered and issue with the customer's Subscriptions.
