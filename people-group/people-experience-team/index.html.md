@@ -262,3 +262,14 @@ When monthly expenses are due, we need to be able to provide Finance with the sp
 ### Regeling Internet Thuis form
 
 New team members based in the Netherlands will send an email to people-exp@gitlab.com with the Regeling Internet Thuis form. The People Experience team will then forward this form to the payroll provider in the Netherlands via email. The contact information can be found in the People Ops 1Password vault, under "Payroll Contacts".
+
+### Pulling Social Call Metrics 
+1. Open People Ops Zoom Account
+1. On the right side, Under Admin > Click on Dashboard
+1. Click on Meetings 
+1. Select Past Meetings
+1. Adjust the Calendar to reflect the timeframe (it will only work for one month) > Done
+1. Type in the search bar the meeting ID - This can be found on the calendar invite. > Search 
+1. Select Export
+1. Go to the downloads page. It will take a few minutes for the report to be ready, refresh your page if it is not loading. 
+1. C+P this data into the All-Time Data for Take a Break-Social Call Google Sheet. This is saved People Experience Google Shared Drive. 
