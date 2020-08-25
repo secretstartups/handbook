@@ -43,7 +43,7 @@ At the end of each customer call any changes to customer health should be reflec
 #### Best Practices for Note-Taking
 
  - Write down your *agenda* (including questions you want to ask). This way you can quickly add your notes for the specific context. 
- - If you're comfortable in writing in markdown format, use it to quickly structure your notes in real-time.
+ - If you're comfortable in writing in [Markdown format](/handbook/markdown-guide/), use it to quickly structure your notes in real time.
  - Allow yourself time directly after the call to clean up your notes. Avoid scheduling back-to-back meetings.
  - Practice slowing down call conversations. Stopping the dialog for a few seconds to say “let me write that down” tells the customer what they said is important to you.
  - Make your SA/AE/SAL take notes with you. After the meeting combine and add detail.
