@@ -68,7 +68,7 @@ To be inclusive of time zones and those who may not prefer these types of social
 
 The Zoom feature to upload [any background image](/handbook/tools-and-tips/zoom/#virtual-background/) of your choice is a fun tool to use for an ice breaker. Managers can ask their team to come to a meeting with a background of their favorite place to vacation, or a place they hope to visit one day, and much more. It’s a great feature that can add some fun to calls and build unity. Spend the first five minutes of a meeting talking about the Zoom background and giving everyone in the meeting a voice. 
 
-**How to apply Zoom background ice-breakers:** Team members can do this for as many meetings as they like. If it is team discussion, spend the first five minutes of the meeting doing a round robin of the background. Managers can implement a rotation of whose in charge of the ice-breaker by assigning different team members. 
+**How to apply Zoom background ice-breakers:** Team members can do this for as many meetings as they like. If it is team discussion, spend the first five minutes of the meeting doing a round robin of the background. Managers can implement a rotation of DRIs ([directly responsible individuals](/handbook/people-group/directly-responsible-individuals/)) in charge of the ice-breaker by assigning different team members. 
 
 ### Give Credit to Team members
 
