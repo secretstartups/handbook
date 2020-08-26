@@ -309,7 +309,7 @@ James Lopez - Backend Engineering Manager, Fulfillment
 **How the team works:** 
 
 **Links to relevant Handbook pages:** 
-[Fulfillment Team Page](/handbook/engineering/development/growth/fulfillment/#team-members)
+[Fulfillment Team Page](/handbook/engineering/development/growth/fulfillment/#welcome-to-the-fulfillment-group-page)
 [Backend Engineer job family](/job-families/engineering/backend-engineer/)
 [Engineering Workflow](/handbook/engineering/workflow/)
 [Backend Engineer job posting](/jobs/apply/backend-engineer-x-30-4055697002/)
