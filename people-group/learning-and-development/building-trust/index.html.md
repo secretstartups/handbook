@@ -33,7 +33,7 @@ People Leaders should make every effort to build trust as soon as they mobilize 
 
 Getting to know your people through personality assessments is a great tool to build trust. Personality assessments can help teams understand how they are different and enable managers to better understand their direct reports. The results can shine a light on ways you can adapt your processes in a way that is most effective for different team members. The results are not set in stone but assessments can help team members get to know each other quicker. 
 
-There are an abundance of free personality assessments available for free, we've outlined a few below: 
+An abundance of free personality assessments are available. Several are outlined below. 
 
 - [Understanding Social Styles](/handbook/people-group/learning-and-development/emotional-intelligence/social-styles/#discover-your-social-style/)
 - [Emotional Intelligence Assessments](/handbook/people-group/learning-and-development/emotional-intelligence/#emotional-intelligence-eq-assessments/)
