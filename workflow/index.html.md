@@ -60,8 +60,8 @@ The [Engineering Productivity team](/handbook/engineering/quality/engineering-pr
      * `:retry:` - signals a system failure (e.g., Docker failure) is responsible and a retry has been triggered.
 1. Identification
    * Create an [issue](https://gitlab.com/gitlab-org/gitlab/issues/new) based on:
-      * `master` failing for a non-flaky reason - create an issue with the following labels: `~"master:broken"`, `~"Engineering Productivity"`,`~P1`, `~S1`.
-      * `master` failing for a flaky reason that cannot be reliably reproduced - create an issue with the following labels: `~"failure::flaky-test"`, `~"Engineering Productivity"`,`~P2`, `~S2`.
+      * `master` failing for a non-flaky reason - create an issue with the following labels: `~"master:broken"`, `~"Engineering Productivity"`,`~priority::1`, `~severity::1`.
+      * `master` failing for a flaky reason that cannot be reliably reproduced - create an issue with the following labels: `~"failure::flaky-test"`, `~"Engineering Productivity"`,`~priority::2`, `~severity::2`.
    * Identify the merge request that introduced the failures.
    * Assign the issue to the `~"master:broken"` merge request author if they are available at the moment. If the author is not available, mention the team Engineering Manager and seek assistance in the `#development` Slack channel.
      * Ask for assistance in the `#development` Slack channel if there is no
@@ -90,7 +90,7 @@ The merge request author of the change that broke master is the resolution DRI. 
    * Revert the merge request which caused the broken master. If a revert is performed,
      create an issue to reinstate the merge request and  assign it to the author
      of the reverted merge request. Reverts can go straight to maintainer review and require 1 maintainer approval. The maintainer can request additional review/approvals if the revert is not trivial.
-   * Create a new merge request to fix the failure if revert is not possible or would introduce additional risk. This should be treated as a `~P1` `~S1` issue.
+   * Create a new merge request to fix the failure if revert is not possible or would introduce additional risk. This should be treated as a `~priority::1` `~severity::1` issue.
    * [Quarantine](https://docs.gitlab.com/ee/development/testing_guide/flaky_tests.html#quarantined-tests) the failing test if you can confirm that it is flaky (e.g. it wasn't touched recently and passed after retrying the failed job).
      * Remove the `~"master:broken"` label from the issue and apply  `~"failure::flaky-test"`
 1. If the broken `master` affects any auto-deploy, add the relevant `~"Pick into auto-deploy"` label.
@@ -570,7 +570,7 @@ Not everything is urgent. See below for a non-exclusive list of things that are 
 
 * In Scope
   * Last-minute release blocking bug or security patch before an imminent release.
-  * High severity (S1/P1) security issues. Refer to [security severity and priority](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues).
+  * High severity (severity::1/priority::1) security issues. Refer to [security severity and priority](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues).
   * Highest priority and severity customer issues based on the [priority and severity definitions](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#priority-labels).
 * Not In Scope
   * An operational issue of GitLab.com or a self managed customer environment. This falls under the [on-call](/handbook/on-call/index.html) process.
@@ -612,7 +612,7 @@ There are two issue boards being reviewed in this refinement exercise.
 1. To participate in the weekly refinement, ask your engineering director to forward the invite of *Availability & Performance Refinement* meeting which is at 16:30 UTC (summer) or 17:30 UTC (winter) every Tuesday. Here is the [meeting agenda](https://docs.google.com/document/d/1SanPUz86cIyRQR5kRmXyCLLE8sZVpx0auu_W6jY94W4/edit?usp=sharing).
 1. To nominate issues to either of the boards above:
    1. Assign [a severity](/handbook/engineering/quality/issue-triage/#severity) on the issue to help asses the priority assignment for the refinement session.
-      1. When assigned severity is the highest and the issue is potentially preventing the Infrastructure department from performing regular operations, additionally apply the `~production request` label. When an issue has `~infradev ~S1 ~P1 ~production request` labels applied, it is required to work on immediate resolution.  In the case of a `~production request`, please engage Development management based on group assignment to further the process along.
+      1. When assigned severity is the highest and the issue is potentially preventing the Infrastructure department from performing regular operations, additionally apply the `~production request` label. When an issue has `~infradev ~severity::1 ~priority::1 ~production request` labels applied, it is required to work on immediate resolution.  In the case of a `~production request`, please engage Development management based on group assignment to further the process along.
    1. Ensure that the issue clearly explains the problem, the (potential) impact on GitLab.com's availability, and ideally, clearly defines a proposed solution to the problem.
    1. GitLab.com Infra/Dev Triage: use the label `infradev`.
    1. Performance Refinement: use the label `performance-refinement`.
