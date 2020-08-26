@@ -320,4 +320,4 @@ Below are additional resources on social styles for review
 *  [Managerial Success Stories](https://tracom.com/wp-content/uploads/2019/01/Managerial-Success-Story-TRACOM_ss2018.pdf)
 *  [Communicating with Style](https://www.wilsonlearning.com/wlw/articles/w/hidden-cost-comm/en-gb)
 
-The SSOT for the slides on this page can be found in [this folder](https://drive.google.com/drive/folders/1mc4IYz80KT8y4BgpZYvYuPRAOvk3bEAU?usp=sharing). 
+The SSOT for the slides on this page can be found in [this folder](https://drive.google.com/drive/search?q=title:%22social%20styles%20page%22%20parent:1XoBBNYQ810mWXi-fCg_6BTxh3yFJaUjZ). 
