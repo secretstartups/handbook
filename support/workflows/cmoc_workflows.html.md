@@ -25,7 +25,7 @@ Status.io should be updated whenever we have new information about an active inc
 
 When you enter the situation room, take note of any updates that have been made to Status.io and the time they were made at. Set a timer to remind yourself and stick to the time intervals below unless you make a note of how long it will be until the next status update. For example, if you're in "monitoring" it may be appropriate to specify an hour before the next update.
 
-| Incident Status | S1 Update Frequency | S2 Update Frequency | S3/S4 Update Frequency |
+| Incident Status | severity::1 Update Frequency | severity::2 Update Frequency | severity::3/severity::4 Update Frequency |
 |--|--|
 |Investigating| 10m | 15m | 15m |
 | Identified | 10m | 15m | 30m |
@@ -111,9 +111,9 @@ Change the following values:
 
 The CMOC should make the [Community Advocacy](/handbook/marketing/community-relations/community-advocacy/) team aware of the incident by mentioning them with the `@advocates` Slack handle in the [#incident-management](https://gitlab.slack.com/archives/CB7P5CJS1) channel if the following conditions are met.
 
-- The incident is an **S1**
-- The incident is an **S2**
-- The incident is an **S3** or **S4** but you feel that the CA team should know about it anyway
+- The incident is an **severity::1**
+- The incident is an **severity::2**
+- The incident is an **severity::3** or **severity::4** but you feel that the CA team should know about it anyway
 
 ### Stage 2: **Incident Updates**
 

@@ -110,7 +110,7 @@ Triage vulnerability reports in a similar manner to our [HackerOne proccess](/ha
   * Otherwise, respond with a standard message of the report being a known issue
     that is being worked on.
 * If the report is a new, valid issue:
-  * If the severity may be an ~S1 or otherwise needs immediate investigation:
+  * If the severity may be an ~severity::1 or otherwise needs immediate investigation:
     * [page the security on call](/handbook/engineering/security/#engaging-the-security-on-call)
     * Manually create an issue for report following the [creating a security issue instructions](/handbook/engineering/security/#creating-new-security-issues)
   * Otherwise, reply to the reporter to see if they wish to either:

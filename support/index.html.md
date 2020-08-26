@@ -348,7 +348,7 @@ How do we align Support Team people to the product?
 
 Support Stable Counterparts, briefly, will:
 - Subscribe to the pertinent trackers / labels to be aware of new issues.
-- Be especially aware of S1/S2 issues in their areas of the product, including workarounds.
+- Be especially aware of severity::1/severity::2 issues in their areas of the product, including workarounds.
 - Surface issues likely to generate tickets to the wider team.
 - Attend product meetings in order to understand the priorities/challenges/upcoming features of the product group.
 - Be aware of the issues raised by customers pertinent to their category, surfacing and advocating for them.
