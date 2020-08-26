@@ -174,6 +174,10 @@ To find the handbook, navigate to `www-gitlab-com` project, click sites - handbo
 
 ### Video: How to Create a new handbook page
 
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/HBgdX1YuM3s" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ### Helpful Tips for updating the Handbook
 The [markdown guide](/handbook/markdown-guide/#markdown-style-guide-for-aboutgitlabcom) page contains useful tips for updating the handbook, such as adding images, embedding documents and much more.  
 
