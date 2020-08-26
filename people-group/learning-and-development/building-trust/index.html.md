@@ -27,7 +27,7 @@ Working remotely can be isolating for team members if managers do not take the [
 
 ## Strategies to Build Trust 
 
-People Leaders should make every effort to build trust with their team as soon as they mobilize a team, when new team members start, and throughout the year. [Informal communication](/company/culture/all-remote/informal-communication/) is a great tool to build trust, however, there are additional strategies a managers and team members can implement to build trust within the teams they support.
+People Leaders should make every effort to build trust as soon as they mobilize a team, when new team members start, and throughout the year. [Informal communication](/company/culture/all-remote/informal-communication/) is a great tool to build trust; however, there are additional strategies managers and team members can implement to build trust within the teams they support.
 
 ### Personality Assessments
 
