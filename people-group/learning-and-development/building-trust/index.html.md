@@ -88,7 +88,7 @@ The [Building High Performing Teams model](/handbook/people-group/learning-and-d
 
 Managers should be open to [receiving feedback](/handbook/people-group/guidance-on-feedback/) from their team members. Often there is a barrier as employees feel uncomfortable sharing constructive feedback, let alone with their manager. But if managers are open to feedback, they can slowly grow a culture of feedback within their team, thereby increasing trust. Managers can show their openness by asking for feedback, through [1:1 calls](/handbook/leadership/1-1/) with direct reports or our performance management platform. 
 
-**How to apply asking for feedback:** Instincitively it can be difficult to ask for feedback from team members as a manager. However, people leaders should be in the habit of regularly asking for feedback. Every 1-1 can be an opportunity for team members to share feedback on your performance. Managers must establish an enviornment built on trust with [no ego](/handbook/values/#no-ego/) to enable team members to be forth coming. 
+**How to apply asking for feedback:** It may be difficult to ask for feedback from team members as a manager. However, people leaders should be in the habit of regularly asking for feedback. Every 1-1 can be an opportunity for team members to share feedback on your performance. Managers must establish an environment built on trust with [no ego](/handbook/values/#no-ego/) to enable team members to be forthcoming. 
 
 ### Overcome Unconscious basis
 
