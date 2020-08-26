@@ -441,12 +441,12 @@ Overview](https://dashboards.gitlab.net/dashboard/db/controller-timings-overview
 Grafana dashboard. This dashboard categorises data into three different
 categories, each with their associated severity label:
 
-1. Frequently Used: `~S2`
-2. Commonly Used: `~S3`
-3. Rarely Used: `~S4`
+1. Frequently Used: `~severity::2`
+2. Commonly Used: `~severity::3`
+3. Rarely Used: `~severity::4`
 
 This means that if a controller (e.g. `UsersController#show`) is in the
-"Frequently Used" category you assign it the `~S2` label.
+"Frequently Used" category you assign it the `~severity::2` label.
 
 For database related timings you can also use the
 [SQL Timings Overview](https://dashboards.gitlab.net/dashboard/db/sql-timings-overview?orgId=1).
