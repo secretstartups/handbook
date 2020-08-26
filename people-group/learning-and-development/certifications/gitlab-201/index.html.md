@@ -23,11 +23,15 @@ Everyone at GitLab needs to know how to use GitLab and be technical to some leve
 [GitLab 101 Tool Certification](/handbook/people-group/learning-and-development/certifications/gitlab-101/)
 
 ### What do you need to get started?
+To get started with the GitLab 201 Tool Certification, you will need:
+A laptop
+Wifi
+xx hours (this course can be completed in one sitting or lesson by lesson)
 
 ### Objectives
-1. 
-1. 
-1. 
+1. Learn how to create epics
+1. Learn how to review and make suggestions to a merge request
+1. Learn how to create a new handbook page 
 
 ## Lesson 1: Epics
 
@@ -51,7 +55,7 @@ Epics are created on group level. To create an epic, navigate to the project’s
 
 You may choose to mark confidential by selecting Make this epic confidential checkbox.
 
-### Video: How to Create an Epic (~x minutes)
+### Video: How to Create an Epic (~2 minutes)
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/hxUmalpYHF4" frameborder="0" allowfullscreen="true"> </iframe>
@@ -59,7 +63,8 @@ You may choose to mark confidential by selecting Make this epic confidential che
 
 ### Child Epics
 
-A child epic is a sub epic created within the parent epic. You can think about it like a folder with sub folders and multiple files. Child epics may be added to a parent epic.  
+A child epic is a sub epic created within the parent epic. You may think about it like a folder with sub folders and multiple files. Child epics may be added to a parent epic.  
+(INSERT IMAGE)
 
 To add a child epic:
 1. Navigate to the parent epic, click the add dropdown button
@@ -67,7 +72,7 @@ To add a child epic:
 1. Type in the title
 1. Create epic
 
-### Video: How to Create a Child Epic (~x minutes)
+### Video: How to Create a Child Epic (~2 minutes)
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/2OjWGpOsBsM" frameborder="0" allowfullscreen="true"> </iframe>
@@ -174,4 +179,6 @@ The [markdown guide](/handbook/markdown-guide/#markdown-style-guide-for-aboutgit
 
 ### Referencing another section of the handbook for how to do something 
 If you don’t know how to do something - find another instance of it in the handbook. For example, if you want to add a table to the handbook. Navigate to a section of the handbook that contains a table, the [People Group](/handbook/people-group/) page is a good example.  
-Click "view source" to see how the table looks. You may copy/paste, then edit to suit your needs.
+Click `view source` to see how the table looks. You may copy/paste, then edit to suit your needs.
+
+### Quiz - Lesson 3: How to navigate www-gitlab-com project
