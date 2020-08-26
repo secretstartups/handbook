@@ -51,7 +51,7 @@ To ensure translated content makes contextual and technical sense, we have inter
 1. France
 1. Japan
 
-#### P1: Tier 2 Countries that provide the most opportunity for GItLab
+#### P1: Tier 2 Countries that provide the most opportunity for GitLab
 
 1. Netherlands
 1. Switzerland
@@ -59,13 +59,13 @@ To ensure translated content makes contextual and technical sense, we have inter
 1. South Korea
 1. Singapore
 
-Our current localization capablities are limited due to resources and bandwidth. Currently, we are focused on translating content that aligns to our integrated campaign strategy. Additionally, we are enabling our field marketing teams to get lighweight translations that don't require internal development or design resources. 
+Our current localization capabilities are limited due to resources and bandwidth. Currently, we are focused on translating content that aligns to our integrated campaign strategy. Additionally, we are enabling our field marketing teams to get lightweight translations that don't require internal development or design resources.
 
 ### Tools & Capabilities
 
 | Vendor | Capabilities | Access |
 | ------ | ------ | ------ |
-| Rev | English language transcriptions, foriegn language subtitles| Open an access request issue |
+| Rev | English language transcriptions, foreign language subtitles| Open an access request issue |
 | [Rush Translate](marketing/marketing-operations/rushtranslate/) | Text-based document translation | Contact Senior Manager, Global Content |
 
 ### Translating content for campaigns 
