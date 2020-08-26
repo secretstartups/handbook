@@ -182,6 +182,16 @@ This report contains the 66 most recent unlabelled issues requiring initial tria
 * Enlist help as needed by mentioning folks in the [#triage](https://gitlab.slack.com/messages/C39HX5TRV) slack channel.
 * Example: [https://gitlab.com/gitlab-org/gitlab-ce/issues/57834](https://gitlab.com/gitlab-org/gitlab-ce/issues/57834)
 
+#### Manual creation
+
+Sometimes the unlabelled triage report creation fails due to spam detection. When the issue is not created, a notification for failure of the `verify-unlabelled` job will be raised to the `#triage-automations` channel.
+
+The issue can be created manually using the following command:
+
+```
+bundle exec gitlab-triage --debug --r ./plugins/all.rb --token PERSONAL_API_TOKEN --source projects --source-id gitlab-org/gitlab -f ./policies/stages/report/unlabelled-issues.yml
+```
+
 ### Group level bugs, features, and UX debt
 
 This report contains the relevant bugs, feature requests, and UX debt issues that belong to a group in our [DevOps stages](/handbook/product/product-categories/#devops-stages).
