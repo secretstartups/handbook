@@ -60,7 +60,9 @@ Optional social calls are a great strategy to increase trust. Anyone can organiz
 - What's the most exciting thing you've done outside of work this week/month
 - Most recent or favorite vacation
 
-**How to apply optional weekly team social calls:** Set a regualar cadence of optional weekly team social calls (monthly, bi-weekly, weekly). Each social call, have one team member be in charge of managing and facilitating the discussion. They are responsible for proposing the topic and keeping the call moving. Remember to make these fun and try not to talk about work! 
+**How to apply optional weekly team social calls:** Set a regular cadence of optional weekly team social calls (monthly, bi-weekly, weekly). Each social call, have one team member be in charge of managing and facilitating the discussion. They are responsible for proposing the topic and keeping the call moving. Remember to make these fun and try not to talk about work! 
+
+To be inclusive of time zones and those who may not prefer these types of social settings, alternate synchronous social calls with [asynchronous](/company/culture/all-remote/asynchronous/) social standups. You can port the questions to the `Geekbot` Slack app so team members can share at their convenience.
 
 ### Zoom Background Ice-Breaker
 
