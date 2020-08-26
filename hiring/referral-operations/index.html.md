@@ -106,3 +106,19 @@ We'll invite Team Members who are based in areas with a location factor *less th
 Each session will have a corresponding Issue linked and in that, we ask that you please add information regarding appropriate companies to source from, local meet-up groups, conferences, job boards to advertise on, and any other information you believe will be beneficial to our recruiting efforts in your area.
 
 A Recruiting Team Member will attend these sessions, so they be able to address any questions that arise on sourcing, LinkedIn, or Greenhouse.
+
+#### Referral Rejection Notifications
+
+In the event that a *Referral* is rejected based on their location factor per our [outbound recruiting model](https://about.gitlab.com/jobs/faq/#gitlabs-outbound-recruiting-model), then the following steps will need to be taken by the requisition's **Recruiter**:
+
+1. Send the rejection email to the candidate via Greenhouse using the `Referral Declined - Not ELF` template.
+1. Search for the **closed** referral submission Issue for the respective candidate and add the following comment:
+
+> Thank you again for submitting `CANDIDATE_FIRST_NAME` to the `REQUISITION_TITLE` role. 
+>
+> Unfortunately, we’re unable to move forward with `CANDIDATE_FIRST_NAME`’s candidacy right now because they are located in a higher location factor area. With our [outbound hiring model](https://about.gitlab.com/jobs/faq/#gitlabs-outbound-recruiting-model), the > Recruiting team is focused on building a more diverse team in the most efficient way. This allows us to support our all-remote vision: to spread opportunity to underserved locales, and to influence the increase of wages for remote work outside of metro areas.
+>
+> `CANDIDATE_FIRST_NAME` has received an email from our team explaining this. We’ve also added some clarity about this in the [Referral Submission Issue Template](https://about.gitlab.com/handbook/hiring/referral-process/#submitting-a-referral) now to be sure team members consider this before they submit their referral. 
+>
+> We appreciate your understanding and hope you’ll continue to refer talented people to GitLab!
+
