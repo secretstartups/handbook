@@ -11,7 +11,7 @@ title: Building Trust
 
 ## Introduction
 
-Trust is the cornerstone of how we operate at GitLab. We trust team members to [do the right thing instead of having rigid rules](/handbook/values/#measure-results-not-hours/). Trust at GitLab [increases results](/handbook/people-group/guidance-on-feedback/) and [efficiency](/handbook/values/#efficiency/) and it takes time and energy to build. We resort to [informal communication](/company/culture/all-remote/informal-communication/) to build trust but there are additional strategies people leaders and team members can implement on their teams. Working remotely can be isolating for team members if managers do not take the necessary steps to build trust and social cohesion amongst their teams. In a remote environment, it can take team members longer to get to know each other than a collocated office setting. On this page, we’ve outlined additional strategies people leaders and team members can apply to build trust amongst their teams. 
+Trust is the cornerstone of how we operate at GitLab. We trust team members to [do the right thing instead of having rigid rules](/handbook/values/#measure-results-not-hours/). Trust at GitLab [increases results](/handbook/people-group/guidance-on-feedback/), [efficiency](/handbook/values/#efficiency/) [collaboration](/handbook/values/#collaboration) and it takes time and energy to build. We resort to [informal communication](/company/culture/all-remote/informal-communication/) to build trust but there are additional strategies people leaders and team members can implement on their teams. Working remotely can be isolating for team members if managers do not take the necessary steps to build trust and social cohesion amongst their teams. In a remote environment, it can take team members longer to get to know each other than a co-located office setting. On this page, we’ve outlined additional strategies people leaders and team members can apply to build trust amongst their teams. 
 
 ## Strategies to Build Trust 
 
@@ -28,7 +28,7 @@ There are an abundance of free personality assessments available for free, we've
 - [Gallup Strengths Finder](https://www.gallup.com/cliftonstrengths/en/252137/home.aspx) 
 - [16 Personalities](https://www.16personalities.com/)
 
-**How to apply personality assessments:** People leaders should have all team members take a personality assessment when they first join their team. Managers can examine personality assessment results and have strength-based discussions with their people. When we embrace our unique strengths and the unique strengths of our team members, we all feel more engaged, more productive, more valued, and more trusted.
+**How to apply personality assessments:** People leaders should have all team members take a personality assessment when they first join their team. Managers can examine personality assessment results and have strength-based discussions with their people. When we embrace our unique strengths and the unique strengths of our team members, we all feel more engaged, more productive, more valued, and more trusted. They should encourage their team members to share their strengths / styles with the team. 
 
 ### Use a One-Slider 
 
