@@ -68,7 +68,9 @@ If you are interested in market positioning, typical pain points and the way Git
 
 ### GitOps
 
-TODO - video
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/5rqoLj8N5PA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
 **Now go to your project and find issue called *Lab 4* and complete the tasks contained there**.
 
@@ -76,7 +78,9 @@ If you are interested in market positioning, typical pain points and the way Git
 
 ### DevSecOps
 
-TODO - video
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/k4vEJnGYy84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
 **Now go to your project and find issue called *Lab 5* and complete the tasks contained there**.
 
@@ -84,7 +88,9 @@ If you are interested in market positioning, typical pain points and the way Git
 
 ### Value Stream Management
 
-TODO - video
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/dEbUrIuNTdA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
 **Now go to your project and find issue called *Lab 6* and complete the tasks contained there**.
 
