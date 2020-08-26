@@ -223,20 +223,7 @@ The process for New Hires is as follows:
 1. The Candidate Experience Specialist will update the GreenHouse Offer Details with BSN and Date of Birth when the new team member provides the necessary details and then generates the "IT BV Employee Temporary - the Netherlands" contract out of GreenHouse.
 1. The Candidate Experience Specialist will stage the contract for signature via DocuSign, CC the hiring manager, and CC the HRSavvy group email. This will ensure our payroll provider in this location can start their onboarding, well ahead of ours. 
 
-
-The People Operations process for next steps at the **end of the first 12-month temporary contract** is as follows: 
-1. Two months before the contract ends, the People Operations Specialist sends [an email](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/netherlands_temp_contract_renewal.md) to the manager and [People Business Partner](/handbook/people-group/) of the team member, notifiying them that their first 12-month contract is ending. 
-1. Best practice and procedure at GitLab is to supply a second temporary 12-month contract. After two consecutive year-long temporary contracts, if the team member is in good standing, they are given an Indefinite Agreement beginning at the team member's third year with the company.
-1. The Manager has then 3 weeks to evaluate the performance of the team member and discuss the planned course of action with the [People Business Partner](/handbook/people-group/)
-1. At least 1 month before the end of the contract, the manager informs the People Specialist team on whether to extend the contract and for what term. 
-1. At least 1 month before the end of the contract, the manager informs the team member of the extension or not. The [People Business Partner](/handbook/people-group/) can help with providing guidance on the messaging. 
-1. The People Specialist team documents the emails in the Contracts & Changes folder in BambooHR. 
-1. If the contract extension is approved, the People Specialist team creates the contract and stages it via HelloSign for the team member and Senior Director, People Success (on behalf of CPO if there is no current CPO) to sign. 
-1. Note: A second [probation period](/handbook/people-group/contracts-and-international-expansion/#probation-period) should only be implemented if the team member's new contract reflects the start of an [entirely new role](https://wsadvocaten.nl/probationary-period-netherlands-dutch-law/). If the contract is simply a continuation of employment in the current role, a second probation period should not be applied. 
-
-Should a team member request indefinite employment after the initial 12-month contract or second 12-month contract, approval via email should be requested based on performance, from the team member's manager as well as the [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) that is working with the business unit. The approval email should be printed to pdf and saved under `Contracts and Changes` in BambooHR. This is extremely rare, unless there are mitigating circumstances.
-
-Note: A team member cannot have more than three temporary contracts with the same employer in a row. If a fourth contract is offered by GitLab then it must be a permanent one.
+The People Operation Specialist are in charge of [contract renewals](/handbook/people-group/contracts-and-international-expansion/#contract-renewals). The process the **end of the first 12-month GitLab BV Netherlands temporary contract** is listed in their [Netherlands Renewal Process](/handbook/people-group/contracts-and-international-expansion/#contract-renewals) section of the [Contracts & International Expansion](handbook/people-group/contracts-and-international-expansion/) handbook page. 
 
 _GitLab IT BV contracts should only be used for contractors. All Netherlands **employees** should be issued the GitLab BV contract. PEO contract templates should be provided by the PEO directly. We should not use GitLab BV or GitLab IT BV contracts for PEO models._
 
