@@ -66,11 +66,11 @@ If you use these slides please remember that the HANDBOOK is the most up to date
 1. Create the relevant page in `/job-families/[department]/[name-of-job-family]`, being sure to use only lower case in naming your directory if it doesn't already exist, and add it to the correct department subdirectory.
 1. The file type should be `index.html.md`.
 1. Add each paragraph to the position description, for an example see the [backend engineer job family](/job-families/engineering/backend-engineer). All job families must have Requirements, Responsibilities, Performance Indicators, [Job Grades](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades), and a Hiring Process. There is a template below that may be useful.
-1. The merge request must follow this approval flow: 
-   * Your manager: Your direct manager is responsible for clarifying the scope of responsibilities and level of roles, checking responsibilities and requirements and ensuring the job family follows the template logic and has all of the required areas. 
-   * Your executive leader: Your executive leader is responsible for confirming the role is in plan and review of department/division structure and levels. 
-   * Chief of Staff: Ping the CoS to approve by at-mentioning the CoS in the #job-family slack channel. The CoS is responsible for checking to ensure it follows template and conventions; they are the final step before the CEO. 
-   * CEO: After all have approved the MR, ping the CEO to merge by at-mentioning the CEO in the #job-family slack channel. It is preferable to ping the CEO in the same thread as the CoS.
+1. **The merge request must follow this approval flow**: 
+   * **Your manager**: Your direct manager is responsible for clarifying the scope of responsibilities and level of roles, checking responsibilities and requirements and ensuring the job family follows the template logic and **has all of the required areas**. 
+   * **Your executive leader**: Your executive leader is responsible for confirming the role is in plan and review of department/division structure and levels. 
+   * **Senior Manager, Recruiting Operations and Insights**: Ping them to approve by at-mentioning them in the #job-family slack channel. They are responsible for checking to ensure it follows template and conventions; they are the final step before the CEO. 
+   * **CEO**: After all have approved the MR, ping the CEO to merge by at-mentioning the CEO in the #job-family slack channel. It is preferable to ping the CEO in the same thread as the previous ping.
 1. Once the merge request has been merged, the People Ops Analyst will reach out to the People Business Partner who supports the function to understand the job description and job family requirements in determining the appropriate compensation benchmark.
 1. Total Rewards Team will propose a [benchmark](/handbook/total-rewards/compensation/compensation-calculator/#new-benchmark) to add to the [job families](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/job_families.yml) file in GitLab and assign it to the leader of group. Once merged, the entry on the `job_families.yml` file will automatically cause the [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator) to show at the bottom of the position description page.
 7. Total Rewards Team: Once merged, add this benchmark to the backend comp calc and compaas changes sheet.
@@ -80,7 +80,6 @@ If you use these slides please remember that the HANDBOOK is the most up to date
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/9EJkgBRUSDA" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-
 
 All job families should have performance indicators.
 Those performance indicators should tell you whether or not you’re doing your job well or correctly.
@@ -125,10 +124,6 @@ Job Families should have three to five PIs.
 * Update Target Branch to an abbreviation of what you did. Note: include dashes between words instead of spaces.
 * Make sure “Start a new merge request with these changes” box is checked.
 * Click the Commit changes button at the bottom
-
-### Assigning and Submitting Merge Request
-* Job family updates, not including net new families and levels, must be merged by the Chief of Staff or the CEO. 
-* All new job families or new levels to existing job families must be merged by the CEO. The Chief of staff can provide feedback but will not merge. You can also cc any necessary team members in the comments box (i.e. your manager or exec of the group)
 * Check: Delete source branch when merge request is accepted.
 * Click the Submit merge request button at the bottom
 
