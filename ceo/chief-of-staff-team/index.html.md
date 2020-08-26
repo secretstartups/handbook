@@ -233,6 +233,27 @@ Give responses to Geekbot that truly communicate to your team what you're workin
 
 The Chief of Staff may occasionally have a Chief of Staff Shadow, a GitLab team member who will participate in a specific project or initiative for a fixed period of time. Shadow responsibilities could include: taking notes, providing feedback, and/or supporting the overall initiative success. This role would be in addition to any existing responsibilities at GitLab. Participants would opt in to experience another function within GitLab and contribute to a different part of the business. Since participation would be in addition to an existing workload, managers must sign off before a CoS Shadow can participate. Interested team members can share their interest with the Chief of Staff.
 
+If you are interested in participating in the Chief of Staff Shadow program, open a merge request to add your name to the below table, assign to yourself and slack the `#chief-of-staff-team` for review and merge. 
+
+|  Start Date | End Date | First & Last Name | GitLab Handle |
+| --- | --- | --- | --- |
+|2020-05-23|2020-08-21  | Mike Miranda | @mmiranda |
+|2020-08-31|2020-10-09  | Jerome Ng | @jeromezng |
+|   |  |  |  |
+|   |  |  |  |
+|   |  |  |  |
+|   |  |  |  |
+|   |  |  |  |
+|   |  |  |  |
+|   |  |  |  |
+|   |  |  |  |
+|   |  |  |  |
+|   |  |  |  |
+|   |  |  |  |
+|   |  |  |  |
+|   |  |  |  |
+|   |  |  |  |
+
 ## Resources on the CoS Role
 
 * [The Unrepentent Generalist: How to Be a Great Chief of Staff in Tech](http://www.nehrlich.com/blog/2019/10/31/how-to-be-a-great-chief-of-staff-in-tech/)
