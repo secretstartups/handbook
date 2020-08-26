@@ -61,16 +61,15 @@ Total Rewards will consult with Global Upside to ensure that the statute is met.
 
 ## Gratuity
 
-Gratuity is applicable as per The Payment of Gratuity Act, 1972.
+Gratuity is a statutory offering in India per The Payment of Gratuity Act, 1972 which is offered through Global Upside based on the Global Upside hire date. 
 
 ## Loyalty Bonus Scheme
 
-Since GitLab has terminated it's PEO contract with Lyra and entered into a new agreement with Global Upside (Effective from 2020-06-01).
-All the Team Members based in India who work for GitLab are now employees of Global Upside. Due to this transition the team members who were about to complete their 5 years with GitLab have lost the Gratuity benefit as  they would have received otherwise. Also this situation can arise in the future too. Considering the potential negative impact to tenured team members, a Loyalty bonus scheme has been introduced.
+GitLab has implemented a private loyalty bonus scheme since some tenures have been contracted through different employment types as we have worked through country conversion processes. Therefore, the GitLab loyalty bonus scheme will supplement gratuity based on the GitLab hire date vs the PEO hire date. 
 
-**Claim:** One can only claim Loyalty Bonus after retirement or resign from the service after completing 5 years of continuous service.
+**Elibility:** One can only claim Loyalty Bonus after retirement or resign from the service after completing 5 years of continuous service.
 
-**Forfeiture of Loyalty Bonus :** The full amount of Loyalty Bonus can be forfeited if a team member’s services have been terminated due to: a) His riotous or disorderly conduct or any other violent act; b) Committing an offence involving moral turpitude.
+**Forfeiture of Loyalty Bonus:** The full amount of Loyalty Bonus can be forfeited if a team member’s services have been terminated due to: a) His riotous or disorderly conduct or any other violent act; b) Committing an offence involving moral turpitude.
 
 **Calculation of Loyalty Bonus:**
 
