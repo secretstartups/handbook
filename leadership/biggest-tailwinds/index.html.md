@@ -25,7 +25,7 @@ We also have a [biggest risks page](/handbook/leadership/biggest-risks/).
 
 [Open Source](/20-years-open-source/)
 
-## 3. [Workload Portability](https://about.gitlab.com/topics/multicloud/)
+## 3. [Multicloud](https://about.gitlab.com/topics/multicloud/)
 [Cloud Native and the Adoption of Kubernetes](/cloud-native/)
 
 [Microservices](/topics/microservices/)
