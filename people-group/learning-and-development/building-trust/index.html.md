@@ -90,7 +90,7 @@ Managers should be open to [receiving feedback](/handbook/people-group/guidance-
 
 **How to apply asking for feedback:** It may be difficult to ask for feedback from team members as a manager. However, people leaders should be in the habit of regularly asking for feedback. Every 1-1 can be an opportunity for team members to share feedback on your performance. Managers must establish an environment built on trust with [no ego](/handbook/values/#no-ego/) to enable team members to be forthcoming. 
 
-### Overcome Unconscious basis
+### Overcome Unconscious Bias
 
 As people, we have a natural tendency to make assumptions about others, which means that once someone becomes a manager they might unintentionally favor some team members over others. [Unconscious bias](/company/culture/inclusion/unconscious-bias/) contributes to a major loss in trust between managers and employees.
 
