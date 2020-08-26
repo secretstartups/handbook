@@ -17,7 +17,7 @@ title: "Incident Review"
 ### Review Criteria
 If an incident matches any of the following criteria, an incident review must be completed:
 
-1. Incident was declared an S1/S2
+1. Incident was declared an severity::1/severity::2
 1. A service disruption occurred
 1. Data loss of any kind
 1. A resolution time longer than 30 minutes
@@ -52,7 +52,7 @@ Incident reviews second step is engaging with the customer, through the point of
        1. The **CMOC**, if necessary.
        1. **Product Managers**, for example, if the incident could have been avoided by the prioritisation of specific ~Infradev/technical debt work.
        1. **Technical Account Managers**, if the incident directly impacted one of more major accounts
-       1. For S1 incidents, **directors** responsible for the invited teams should also be invited.
+       1. For severity::1 incidents, **directors** responsible for the invited teams should also be invited.
    1. For teams, the manager should be invited, and, if they wish, can delegate responsibility to another member of the team.
 1. **Within seven working-days of the incident**: Incident Review is authored and ready for review by stakeholders.
 
@@ -68,10 +68,10 @@ Incident Reviews are conducted in the incident issue and their workflow is track
 
    | Corrective action of issue severity | SLO (days after issue has been created) |
    | ------ | ------ |
-   | S1 | 1 week |
-   | S2 | 30 days |
-   | S3 | 60 days |
-   | S4 | 90 days |
+   | severity::1 | 1 week |
+   | severity::2 | 30 days |
+   | severity::3 | 60 days |
+   | severity::4 | 90 days |
 
    (coming from this [link](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/10516#note_375948861))
  
