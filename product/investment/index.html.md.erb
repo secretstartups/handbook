@@ -23,7 +23,7 @@ Each driver is scored on a 1-5 basis.  Here is a description of how each driver
 | 4 | 100k-200k SMAU | Key element in Premium+ sales | 1B-2B SAM over the next 3 years |
 | 5 | >200k SMAU | Key element in Ultimate sales | >2B SAM over the next three years |
 
-The following table provides scores for each of our DevSecOps stages and a comparison of the total score to our current development spend allocation.
+The following table provides scores for each of our DevOps stages and a comparison of the total score to our current development spend allocation.
 
 | Stage | Usage Driver Score | Revenue Driver Score | SAM Driver Score | Combined Score | % of Total Score | Stage Development Spend % | Score/Spend Difference |
 |-|-|-|-|-|-|-|-|
@@ -58,6 +58,30 @@ The following table provides scores for each of our DevSecOps stages and a compa
 
 To be added.
 
+| Section - Stage:Group | Usage Driver | ASP Driver | SAM Driver | Total | % of Total |
+|-|-|-|-|-|-|
+<% # this calculates the total score across all stages needed to calculate the percent of total score %>
+<% totalScore = 0 %>
+<% data.sections.each do |sectionKey, section| %>
+  <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
+    <% next if !stage.marketing %>
+    <% totalScore += stage.usage_driver_score.to_i + stage.revenue_driver_score.to_i + stage.sam_driver_score.to_i %>
+  <% end %>
+<% end %>
+<% data.sections.each do |sectionKey, section| %>
+  <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
+    <% stage.groups.each do |groupKey, group| %>
+      <% groupLine=[] %>
+      <% groupLine << "#{section.name} - #{stage.display_name}:#{group.name}" %>
+      <% groupLine << "#{group.usage_driver_score}" if group.usage_driver_score %>
+      <% groupLine << "#{group.asp_driver_score}" if group.asp_driver_score %>
+      <% groupLine << "#{group.sam_driver_score}" if group.sam_driver_score %>
+      <% groupLine << " " %>
+      <%= "| #{groupLine.join(' | ')} |" if groupLine %>
+    <% end %>
+  <% end %>
+<% end %>
+
 <!--
 | Section - Stage:Group | Value |
 |-----------------------|-------|
@@ -72,6 +96,7 @@ To be added.
   <% end %>
 <% end %>
 -->
+
 
 ## Investment by Category
 
