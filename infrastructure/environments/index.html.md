@@ -13,6 +13,17 @@ title: "Infrastructure Environments"
 
 Terraform control for the environments can be found [on ops](https://ops.gitlab.net/gitlab-com/gitlab-com-infrastructure/-/tree/master/environments)
 
+<div class="panel panel-info">
+<div class="panel-heading">
+Future Iteration with Infrastructure Standards
+</div>
+<div class="panel-body">
+We have a WIP initiative to iterate on our company-wide infrastructure standards. You can learn more about this on the [infrastructure standards handbook page](/handbook/infrastructure-standards).<br />
+<br />
+This page will be refactored incrementally as the standards are documented, implemented, and changes to environments take place.
+</div>
+</div>
+
 ### Development
 
 | **Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
