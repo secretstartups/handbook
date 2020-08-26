@@ -2,12 +2,12 @@
 layout: handbook-page-toc
 title: "Sales Systems"
 ---
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
 
 ## Sales Systems Charter
 Sales Systems exists to support the GitLab field organization by providing reliable, scalable, and intuitive technology platforms for everyday use. Primarily working on Salesforce.com and its related business systems, our goal is to constantly deliver value in the form of features to our end users. We also act as the connective tissue between business and technology, gathering requirements from our internal customers, designing the technical specifications and executing on the delivery of the solution.
@@ -25,6 +25,12 @@ Below is a list of the different technical skill sets found on the Sales System 
 * [Sales System Agile Board](https://gitlab.com/groups/gitlab-com/-/boards/1117318?label_name[]=SalesSystems)
 * [Sales Systems Project](https://gitlab.com/gitlab-com/sales-team/field-operations/systems)
 * [Salesforce.com APEX repository ](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src)
+
+## How We Work
+* The Sales Systems team works in two week sprints/iterations which are tracked as Milestones at the `GitLab.com` level. This aligns the Sale Systems team with how many of our business partners operate but also takes advantage of one of the solutions that [Gitlab provides](https://about.gitlab.com/solutions/agile-delivery/)
+* The Systems team strives to emulate the principles below in planning and executing on our milestones as we believe it most effectively aligns our team with [Gitlab's Values](https://about.gitlab.com/handbook/values/#credit)
+   * ["Start less, finish more "](handbook/engineering/development/ci-cd/verify/testing/#starting-new-work)
+   * [Reduce Issue Churn](https://about.gitlab.com/handbook/engineering/development/ci-cd/verify/runner/#goals)
 
 ### Steps to getting help from Sales Systems
 1.  Create an issue in our [project](https://gitlab.com/gitlab-com/sales-team/field-operations/systems), making sure to provide detailed business requirments for the ask or problem. Please leave assignee blank.
@@ -47,8 +53,12 @@ Below is a list of the different technical skill sets found on the Sales System 
 * If there is a severe bug that is impacting the flow of business (i.e. No one can make a quote, No accounts are being created, Opportunities cannot be closed Won) follow the process as descibed above as well as the follow points: 
    * Share the issues in the `sales-support` Slack channel
 
-## Working our backlog of Issues
+### Working our backlog of Issues
 * [Sales System Backlog](https://gitlab.com/groups/gitlab-com/-/boards/1903910?&label_name[]=SalesSystems%3A%3ABackLog)
+* In order to align with our working style, the Systems team prioritizes working on issues in this order before looking into our backlog:
+   1. Closing out all issues in the current milestone
+   2. Addressing any issues that are bugs 
+   3. Collaborating with Gitlabbers on Issues that are critical for their current milestone.
 * The Sales Systems team alternates our focus every other Monday between releasing our latest updates and reviewing issues in the backlog. Once in the Backlog the Systems team assigness each ticket a priority (`P1`,`P2`,`P3`,`P4`)
 * This status aims to facilitate the process at which the systems team can pull issues out of the backlog and to also provide some context to requstors about when their issues will be reviewed.
   * `P1`
