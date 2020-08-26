@@ -33,7 +33,7 @@ When you first join the team everything will be new to you. Don't worry! In orde
 
 Your primary Support Engineer Onboarding Issue is based on the [New Support Team Member Start Here template](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/New-Support-Team-Member-Start-Here.md). This Issue keeps track of and completes the onboarding modules shown in the following table.
 
-It is recommended that you complete the modules in the order listed, unless an issue mentions that you can start something else simultaneously. Typically, for a new team member in Support, completion of the below onboarding modules should take **8 weeks**.
+It is recommended that you complete the modules in the order listed, unless an issue mentions that you can start something else simultaneously. Typically, for a new team member in Support, completion of the below onboarding modules (including those in the Area of Focus Pathway) should take **8 weeks**.
 
 | Module | Duration | Description |
 | ------ | ------ | ------ |
