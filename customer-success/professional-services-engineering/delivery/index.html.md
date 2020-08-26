@@ -157,8 +157,8 @@ Issues are created for all work by PS.
   * Shadowing a Customer Project
 * [PS TimeTracking - Creditable](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/epics/535) 
   * [Knowledge Sharing](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1253) 
-     *Slack
-     *Internal Q&A
+    *Slack
+    *Internal Q&A
   * [General Administrative](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1254)
     * Time Sheets
     * Expense Reports
