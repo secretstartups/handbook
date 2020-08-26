@@ -98,4 +98,4 @@ If you are interested in market positioning, typical pain points and the way Git
 
 ### Continuous Delivery
 
-There is one significant usecase missing from our list. We will have a dedicated labs in the next part related to implementing GitLab. Meanwhile see [addtitional material](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/cd/).
+There is one significant usecase missing from our list. We will have a dedicated labs in the next part related to implementing GitLab. Meanwhile see [additional material](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/cd/).
