@@ -70,7 +70,7 @@ The Zoom feature to upload [any background image](/handbook/tools-and-tips/zoom/
 
 **How to apply Zoom background ice-breakers:** Team members can do this for as many meetings as they like. If it is team discussion, spend the first five minutes of the meeting doing a round robin of the background. Managers can implement a rotation of DRIs ([directly responsible individuals](/handbook/people-group/directly-responsible-individuals/)) in charge of the ice-breaker by assigning different team members. 
 
-### Give Credit to Team members
+### Give Credit to Team Members
 
 Use the '#thanks' [slack channel](/handbook/communication/#say-thanks/) to give recognition to team members in a public setting. Review team accomplishments weekly, monthly, and quarterly. Meet with each team member to review their accomplishments. Take a [coaching approach](/handbook/people-group/learning-and-development/career-development/coaching/) and have the team members talk through what their accomplishments were. Managers should identify opportunities for executive management to recognize the team. They should also look for opportunities to recognize the team in front of executive management. 
 
