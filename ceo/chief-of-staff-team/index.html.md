@@ -15,6 +15,9 @@ description: "GitLab CoS Team Handbook"
 ----
 
 
+## Team Mission
+Compliment the CEO through being the cross-functional linchpin for GitLab when it comes to strategy and operations.
+
 ## Quick Links and Fun Facts
 * [Chief of Staff Job Family](/job-families/chief-executive-officer/chief-of-staff/)
 * [Internal Strategy Consultant Job Family](/job-families/chief-executive-officer/internal-strategy-consultant/)
