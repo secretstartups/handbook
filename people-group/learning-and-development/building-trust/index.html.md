@@ -1,6 +1,14 @@
 ---
 layout: handbook-page-toc
 title: Building Trust
+layout: handbook-page-toc
+title: "Building trust at GitLab"
+canonical_path: "/handbook/people-group/learning-and-development/building-trust/"
+description: "On this page, GitLab details considerations for building trust in remote teams. Learn more!"
+twitter_image: "/images/opengraph/all-remote.jpg"
+twitter_image_alt: "GitLab remote team graphic"
+twitter_site: "@gitlab"
+twitter_creator: "@gitlab"
 ---
 
 ## On this page
