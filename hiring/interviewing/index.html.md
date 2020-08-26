@@ -240,6 +240,8 @@ If the manager has a question about compensation, please ping the People Ops Ana
 
 Interviewing is hard for both sides. In less than one hour, you both need to get to know each other and make a decision about whether or not you would want to work with this person. The following is an effort to provide a set of guidelines to make interviewing a bit less traumatizing for all involved parties.
 
+
+
 <details>
   <summary markdown='span'>
     Interview Training and Preparation
@@ -248,6 +250,8 @@ Interviewing is hard for both sides. In less than one hour, you both need to get
 New internal interviewers will partake in [interviewing training](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/interview_training.md), which will be assigned by the the Candidate Experience team, or as a part of the [Becoming a GitLab Manager issue template](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/becoming-a-gitlab-manager.md). As part of the training, team members will shadow an interviewer and be shadowed by one in order to make sure all GitLab team-members are following our interviewing processes and creating an excellent candidate experience. The interviewer who will work with the team member should be aligned with either their timezone or the role they'll be helping interview for. Feel free to ping `@gl-recruiting` in your training issue or [review our recruiting alignment ](/handbook/hiring/recruiting-alignment/) page if you are not sure which interviewer to contact, or send a message in the `#recruiting` channel in Slack.
 
 Interviews should not be recorded. For interview training, we encourage our GitLab Hiring Managers to conduct mock interviews internally, or have no more than one GitLab team member at a time shadowing live interviews.
+
+**Please remember that your personal meeting room that is used for scheduling interviews should *not* have passwords on them but should have the waiting room enabled.**
 
 It is typically expected for new hires to focus on and complete their onboarding for at least two weeks before being part of an interview team for any vacancies. There may be extenuating circumstances where a team member needs to participate in interviewing sooner than this, but they should always complete the [interviewing training](https://gitlab.com/gitlab-com/people-ops/Training/blob/master/.gitlab/issue_templates/interview_training.md) and discuss the vacancy thoroughly with their manager and the recruiter prior to being on an interview team.
 
