@@ -126,7 +126,7 @@ execute any manual testing or other tasks related to the release of their fix/fe
 ### Deployment blockers
 
 Anyone can **block or halt a deployment** by:
-* Declaring an [S2 incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident)
+* Declaring an [severity::2 incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident)
 * Alerting the Release Managers in the [#releases] channel. 
 
 In addition, automated deployments to **any production environment** (including [canary]), are
@@ -137,11 +137,11 @@ halted during the change lock period. Currently, the change lock period is:
 * 24th and 25th of December (Christmas according to Gregorian calendar, limited availability company wide).
 * 1st of January (New Years day, limited availability company wide).
 
-During the change lock period, manual deployment can be triggered through GitLab ChatOps if the deployment fixes **a S1 availability or security issue**.
+During the change lock period, manual deployment can be triggered through GitLab ChatOps if the deployment fixes **a severity::1 availability or security issue**.
 
 Deployments to production will be blocked by the following events:
 
-1. An [active S1, S2 or S3 incident](/handbook/engineering/infrastructure/incident-management/#labeling).
+1. An [active severity::1, severity::2 or severity::3 incident](/handbook/engineering/infrastructure/incident-management/#labeling).
 1. Ongoing [change issues with C1 and C2 criticality](/handbook/engineering/infrastructure/change-management/#change-criticalities).
 1. New exceptions in [Sentry reported in the canary environment](https://sentry.gitlab.net/gitlab/gitlabcom/).
 
@@ -186,7 +186,7 @@ For code that needs to be deployed to GitLab.com with higher priority than the
 regular cadence, we have `~"Pick into auto-deploy"` label.
 
 The automated systems that create a new GitLab.com release will look for this label
-specifically, and any merge request with this label and an S1/S2 severity label will be automatically cherry-picked
+specifically, and any merge request with this label and an severity::1/severity::2 severity label will be automatically cherry-picked
 into the active auto-deploy branch. In case the merge request cannot be picked,
 which can happen if there is a conflict in the files being picked, the message
 will be posted in the merge request asking the author to create a new merge request
@@ -195,8 +195,8 @@ targeting the currently active release branch.
 The label should be only used under the following circumstances, when the merge
 request:
 
-- Fixes a S1/S2 bug
-- Resolves a regression that can lead to a S1/S2 problem
+- Fixes a severity::1/severity::2 bug
+- Resolves a regression that can lead to a severity::1/severity::2 problem
 - Urgent performance or availability fix that can improve the stability of
 GitLab.com
 
