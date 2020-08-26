@@ -59,7 +59,8 @@ Asking about developer or team workflows is a good way to better understand a cu
 ## Metrics Based Questions
 
 Ask your stakeholders about the metrics they care about, how they measure them now (if at all) and how GitLab can help measure those.  
-Ask the customers the following questions that tie back to our three Value Drivers…
+Ask the customers the following questions that tie back to [our three Value Drivers…](/handbook/sales/command-of-the-message/#customer-value-drivers)
+
 - Increase Operational Efficiencies
 - Deliver Better Products Faster
 - Reduce Security & Compliance Risk
@@ -81,46 +82,46 @@ Ask the customers the following questions that tie back to our three Value Drive
 ## Stage Adoption
 
 We also want to ask about Stage Adoption metrics so that we can tie their GitLab usage into Stage Adoption.  
-(**Note:** All of these can be found along with how we measure stage adoption in our [Stage Adoption Metrics](https://about.gitlab.com/handbook/customer-success/tam/stage-adoption/) page)
+(**Note:** All of these can be found along with how we measure stage adoption in our [Stage Adoption Metrics](/handbook/customer-success/tam/stage-adoption/) page)
 
 - **Plan**
-   - What tools do you use to organize, plan and track project work?
-   - Describe your issue and epic workflow.
-   - What percentage of your users/teams are using GitLab for this?  
+  - What tools do you use to organize, plan and track project work?
+  - Describe your issue and epic workflow.
+  - What percentage of your users/teams are using GitLab for this?  
 - **Create**
-   - Where do you manage your code base?
-   - What processes do you follow for code reviews?  
+  - Where do you manage your code base?
+  - What processes do you follow for code reviews?  
 - **Verify**
-   - What types of Runners are you using today? (shared, group, specific)
-   - What tools are you using for continuous integration?
-   - What percentage of projects/teams are using GitLab CI?  
+  - What types of Runners are you using today? (shared, group, specific)
+  - What tools are you using for continuous integration?
+  - What percentage of projects/teams are using GitLab CI?  
 - **Package**
-   - What tools do you use for package management?
-   - What do you use to maintain Docker images?
-   - Do you use the GitLab Container Registry to manage Helm Charts?
-   - What percentage of projects are building containers as deliverables?  
+  - What tools do you use for package management?
+  - What do you use to maintain Docker images?
+  - Do you use the GitLab Container Registry to manage Helm Charts?
+  - What percentage of projects are building containers as deliverables?  
 - **Secure**
-   - What do you use to scan your application source code and binaries?
-   - Do you analyze your running web application for known runtime vulnerabilities?
-   - What do you use to check your Docker images for known vulnerabilities?
-   - Do you look for known vulnerabilities in you external dependencies?  
+  - What do you use to scan your application source code and binaries?
+  - Do you analyze your running web application for known runtime vulnerabilities?
+  - What do you use to check your Docker images for known vulnerabilities?
+  - Do you look for known vulnerabilities in you external dependencies?  
 - **Release**
-   - Are you using GitLab to deploy your applications?
-   - Do you use GitLab pages to create, manage and deploy static sites?
-   - Are you making use of review apps to get a full production like enviornment in every merge request?
-   - How do you currently manage your releases? (i.e. versioning, release notes, etc.)  
+  - Are you using GitLab to deploy your applications?
+  - Do you use GitLab pages to create, manage and deploy static sites?
+  - Are you making use of review apps to get a full production like enviornment in every merge request?
+  - How do you currently manage your releases? (i.e. versioning, release notes, etc.)  
 - **Configure**
-   - Are you using AutoDevOps to provide your users a pre-defined CI/CD configuration?
-   - Are you using Kubernetes for any of the following scenarios?
-   - Deploying software from GitLab CI/CD pipelines to Kubernetes
-   - Using Kubernetes to manage runners attached to your GitLab instance
-   - Running the GitLab application and services on a Kubernetes cluster  
+  - Are you using AutoDevOps to provide your users a pre-defined CI/CD configuration?
+  - Are you using Kubernetes for any of the following scenarios?
+  - Deploying software from GitLab CI/CD pipelines to Kubernetes
+  - Using Kubernetes to manage runners attached to your GitLab instance
+  - Running the GitLab application and services on a Kubernetes cluster  
 - **Monitor**
-   - How are you monitoring the stability and performance of your GitLab instance?
-   - What do you use to monitor your deployed applications?  
+  - How are you monitoring the stability and performance of your GitLab instance?
+  - What do you use to monitor your deployed applications?  
 - **Defend**
-   - How do you manage HTTP traffic to your deployed application?
-   - What do you use to block malicious traffic before it reaches your application?  
+  - How do you manage HTTP traffic to your deployed application?
+  - What do you use to block malicious traffic before it reaches your application?  
 
 ## Short/Medium/Long Term Priorities
 
