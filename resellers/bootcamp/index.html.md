@@ -48,7 +48,7 @@ If you are interested in market positioning, typical pain points and the way Git
 ### Code Management & Version Control
 
 <figure class="video_container">
-  <<iframe width="560" height="315" src="https://www.youtube.com/embed/7J7Fdh6XSvU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/7J7Fdh6XSvU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 **Now go to your project and find issue called *Lab 1* and complete the tasks contained there**.
