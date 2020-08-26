@@ -386,6 +386,8 @@ The Marketo programs for the corresponding campaign types have been prebuilt to 
 
 For **Content Syndication**, follow the instructions documented in [the Content Syndication section](/handbook/marketing/marketing-operations/#steps-to-setup-content-syndication-in-marketo-and-sfdc).
 
+For **Surveys run through SimplyDirect**, follow the instructions documented in [the SimplyDirect section](/handbook/marketing/marketing-operations/#steps-to-setup-simplydirect-surveys-in-marketo-and-sfdc).
+
 For all other campaign types, follow Steps 1-5 below. All steps are required.
 
 ##### Step 1: Clone the Marketo program indicated below
@@ -403,6 +405,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 - (MPM use only) Integrated Campaign: [FY20IntegratedCampaign_Template](https://app-ab13.marketo.com/#PG4924A1)
 - (MPM use only) Owned Event: [YYYYMMDD_OwnedEvent_Template](https://app-ab13.marketo.com/#ME4722A1)
 - (MPM use only) GitLab Hosted Webcast (single timeslot): [YYYYMMDD_WebcastTopic_Region](https://app-ab13.marketo.com/#ME5512A1)
+- SimplyDirect Surveys: [YYYYMM_SurveyName_Template](https://app-ab13.marketo.com/#PG6164A1)
 - **Name the program using the campaign tag**
 
 ##### Step 2: Sync to Salesforce
@@ -485,6 +488,51 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
     - Update `Region` and `Subregion` if you have the data available
     - Click Save
 - Add the Marketo program link and SFDC campaign link to the epic.
+
+#### Steps to Setup SimplyDirect Surveys in Marketo and SFDC
+Simply Direct will provide you with an unique `Survey Name` that they will pass over into Marketo via the API populating the `Person Source` and the `SurveyName` fields. This name is unique to each survey that is ran. `Person Source` will not update if the lead already exists in Marketo.
+
+SimplyDirect is also passing over the survey Q&A through the `Comment Capture` field. This will populate via a URL on the Interesting Moment and the `Web Form` field, so that the SDR following up will have full access to all of the survey questions and answers.
+
+
+##### Step 1: [Clone this program](https://app-ab13.marketo.com/#PG6164A1)
+- Use format `YYYY_MM_SurveyName`
+
+##### Step 2: Sync to Salesforce
+
+- At the program main screen in Marketo, where it says `Salesforce Sync` with "not set", click on "not set"
+    - Click "Create New." The program will automatically populate the campaign tag, so you do not need to edit anything.
+    - Click "Save"
+
+##### Step 3: Update SurveyName across Smart Lists and Flows
+- Contact SimplyDirect and ask for the SurveyName they will pass to Marketo
+- Click into `01 Processing`
+     - In Smart List, change every `SurveyName` to the name you were given. There are 3 fields on the smartlist you must change. Tokens will not work, you must update in the smart list. Do not include any extra spaces!
+     - In the Flow, on step 1 `Change Data Value` update `SurveyName` to the name you were given.
+     - Click to the "Schedule" tab and click `Activate`. It should be set that a person can only run through the flow once.
+- BEFORE launch of the survey, have SimplyDirect send an existing lead, and a new lead through to make sure both are being captured.
+
+
+##### Step 4: Update the Salesforce campaign
+
+- Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
+    - Change the `Campaign Owner` to your name
+    - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
+    - Update the event epic
+    - Update the description
+    - Update `Start Date` to the date of launch
+    - Update `End Date` to 90 days from date of launch (if this is an ongoing campaign, update appropriately)
+    - Update `Budgeted Cost` if you have the data available
+    - Update `Region` and `Subregion` if you have the data available
+    - Click Save
+- Add the Marketo program link and SFDC campaign link to the epic.
+
+##### Step 5: Troubleshooting:
+1. Look at the `Results` tab of the smart campaign, if there are errors, you will clearly see them there.
+1. If the lead is not pushing to SFDC? Make sure that the `Person Source` is not `SurveyName`
+1. If existing leads are not being pulled into the program, it is likely the `SurveyName` field is capturing the wrong name.
+1. If net-new leads are not being pulled into the program, it is likely the `Person Source` SurveyName was not updated correctly.
+
 
 ## Campaigns
 
