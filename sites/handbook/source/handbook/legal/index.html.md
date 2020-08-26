@@ -28,7 +28,7 @@ You can reach out to the Legal Team on the *[`#legal`](https://gitlab.slack.com/
 
 
 ### 3. Requests with Deliverables
-If you are making a request that requires some sort of deliverable, please use the list below to determine how you should reach out. If you are unsure where your non-Slack request fits, refer to [no. 6 below](/handbook/legal/#6-other-legal-requests). 
+If you are making a request that requires some sort of deliverable, please use the list below to determine how you should reach out. If you are unsure where your non-Slack request fits, refer to [no. 6 below](https://about.gitlab.com/handbook/legal/#6-other-legal-requests). 
 
 ## Requesting Legal Services
  
