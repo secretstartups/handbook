@@ -218,40 +218,6 @@ Intellectual Property – Intellectual Property means patents, copyrights, trade
 
 Confidentiality  
 
-## Trademarks
- 
-A trademark is a word, symbol, device, or any combination used to identify and distinguish one's goods or services from others.  It is a form of Intellectual Property and it has value; so much value that using someone else’s trademarks improperly or failing to protect your own can cost companies large amounts of money.   
-
-There are important things to consider when settling on a name and ensuring we get the most value from our mark as possible.
-
-**Strength:** The ideal trademarks are "fanciful" or "arbitrary." Fanciful is just a nice way of saying “made up”.  This category includes marks like Kodak, Xerox, iPod, Lego, etc.; you know, those words that had absolutely no meaning before they were trademarked.   Arbitrary just means that the name and the product are not generally found together or otherwise related.  For instance, computers and apples generally don’t go together; therefore, Apple has a very strong mark.  
-
-**Use:** Unlike patents, in order to protect a trademark – you must use it.  You can’t register it and then let it sit on the shelf until you decide what to do with it.  It must be used AND it must be used in the manner with which you said you would use it. Misusing even a great trademark can make it so common that it can get difficult and expensive to protect. 
-
-**Market:** A trademark does not prevent everyone else from using that same word.  For example, there is Delta Airline, Delta Dental and Delta faucets.  The key distinction here is likelihood of confusion.  If you see “Delta” on a plane – you know that it is the airline company.  If you see “Delta” on a sink faucet, is there a real likelihood that you would expect frequent flier miles from it? Probably not. So two very different companies can use the same name because most people are smart enough to realize that these are very different companies.  
-
-While you can have the same word for *different* markets, you can’t have different words for similar markets if those different words are similar to a trademarked word (back to that likelihood of confusion standard).   
-
-**Registration:** Another thing to consider is if I should register the mark.  In some common law countries (such as US, UK, South Africa, Australia, et al), those who use the mark first get protection. (These trademarks are denoted by a  “TM”.) Admittedly, it can get difficult to determine when that first use occurred; so registration in common law countries helps to clear that date issue up.  In any non-common law country, the first to file owns the mark. To set a date certain and own the mark, marks get registered.  If a mark is registered, it gets an “®”.  Whenever you use an R for a mark, you should also state where the mark is registered. 
-
-**Cultural Significance:**  Last but not least, cultural sensitivity is critical.  Any attempt to market globally and/or translate trademarks must be met with heightened attention.  
-
-* Coors put its slogan, "Turn it loose," into Spanish, where it was read as "Suffer from diarrhea". 
-* Clairol introduced the "Mist Stick", a curling iron, into Germany only to find out that "mist" is slang for manure. Not too many people found a use for the "manure stick". 
-* In Chinese, the Kentucky Fried Chicken slogan "finger-lickin' good" came out as "eat your fingers off". 
-* An American T-shirt maker in Miami printed shirts for the Spanish market which promoted the Pope's visit. Instead of "I saw the Pope" (el Papa), the shirts read "I saw the potato" (la papa). 
-* In Italy, a campaign for Schweppes Tonic Water translated the name into "Schweppes Toilet Water". 
-* Pepsi's "Come alive with the Pepsi Generation" translated into "Pepsi brings your ancestors back from the grave", in Chinese. 
-* When Parker Pen marketed a ball-point pen in Mexico, its ads were supposed to have read, "it won't leak in your pocket and embarrass you". Instead, the company thought that the word "embarazar" (to impregnate) meant to embarrass, so the ad read: "It won't leak in your pocket and make you pregnant". 
-* The Coca-Cola name in China was first read as "Ke-kou-ke- la", meaning "Bite the wax tadpole" or "female horse stuffed with wax", depending on the dialect. Coke then researched 40,000 characters to find a phonetic equivalent "ko-kou-ko- le", translating into "happiness in the mouth".
-
-Like with any conversation, it is critical to be aware of how your words are received in different cultures. 
-
-(Note: Trademarks aren’t just words.  As mentioned above, trademarks can be symbols, as well, and this catetgory is very broad. Take the following examples -
-* **Colors** Owens Corning trademarked the color pink for insulation. No other company can make insulation that color.  If you ever see insulation that is pink, you know who made it. John Deere trademarked a specific color of green for farm equipment.  McDonald’s has the Golden Arches.  
-* **Sounds**  NBC trademarked the chimes that you hear during intermissions. Intel has a trademarked sound. 
-* **Shapes** One of the most famous non-word trademarks is the shape of a Coke bottle.  Once you start getting into how something looks, it is called trade dress. Trade dress is a fancy term for trademarked product presentation.
-
 ## Resellers
 
 Resellers buy from the Manufacturer and, as their name indicates, resell the product.  Often, resellers receive a reduction in price because they are saving a company time and money in finding and closing with buyers.  Once a reseller purchases the product, it is theirs.  A company can have no control over what resellers decide to do with it  - except do something illegal with it.  
