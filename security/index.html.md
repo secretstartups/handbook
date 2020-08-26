@@ -807,7 +807,7 @@ email to `panic@gitlab.com` right away. When the security team receives an email
 sent to this address it will be handled immediately. Using this address provides
 an excellent way to limit the damage caused by a loss of one of these devices.
 
-Additionall if a GitLab team member experiences a personal emergency the People Group also
+Additionally if a GitLab team member experiences a personal emergency the People Group also
 provices an [emergency contact email](/handbook/people-group/#in-case-of-emergency).
 
 ## Other Security Topics
