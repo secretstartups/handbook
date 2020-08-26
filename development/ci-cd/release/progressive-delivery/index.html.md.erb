@@ -178,9 +178,9 @@ Before the team will accept an issue into a milestone (as marked by the the labe
 There are a number of labels applied at any time to both issues and merge requests, but there is a priority, first being the highest:
 
 * `planning priority` - This label is rarely used, but we consider it to be a promise to a customer. Issues with this label will supersede all other work even those planned issues. The use of this label is usually held in reserve for issues of the utmost importance.
-* `P1` / `S1` - From the perspective of bugs, a `P1` / `S1` has the [highest priority](/handbook/engineering/quality/issue-triage/#priority) and a short SLO. Issues with this label will supersede all other work even planned issues.
+* `priority::1` / `severity::1` - From the perspective of bugs, a `priority::1` / `severity::1` has the [highest priority](/handbook/engineering/quality/issue-triage/#priority) and a short SLO. Issues with this label will supersede all other work even planned issues.
 * `Deliverable` - Issues with this label are agreed between team EM and the PM to have the highest overall normal priority and could be delivered in the given milestone. Deliverable issues not closed in a given milestone are auto forwarded via milestone cleanup workflow. Deliverable issues are often paired with `Release::P1` issues.
-* `Release::P1` - Similar to and often paired with `Deliverable`. This is the highest priority from the perspective of the sub-department. Assuming there are no `planning priority` and `P1/S1` issues, we start with these issues first, and we focus on these over lower priority issues as much as possible.
+* `Release::P1` - Similar to and often paired with `Deliverable`. This is the highest priority from the perspective of the sub-department. Assuming there are no `planning priority` and `priority::1/severity::1` issues, we start with these issues first, and we focus on these over lower priority issues as much as possible.
 * `Community contribution` - The main label for the Contributor Program. We should support the contributor community by triaging and coaching issues in our area with this label. We prioritize this effort between Deliverables and lower priority issues.
 * `Release::P2` - This is the second highest priority from the perspective of the sub-department.
 * `Release::P3` - This is the third highest priority from the perspective of the sub-department.
@@ -225,7 +225,7 @@ As a byproduct of the engineering evaluation process, a rough estimate of the nu
 
 #### Avoid Interdependent Merge Requests in a Single Milestone
 
-As a general rule, we should avoid adding interdependent Merge Requests into a single milestone except under special circumstances like a `~P1/~S1` bug.
+As a general rule, we should avoid adding interdependent Merge Requests into a single milestone except under special circumstances like a `~priority::1/~severity::1` bug.
 Given our dependence on availability of reviewers and ultimately maintainers, we are not always able to guarantee a perfect coordinated release of all MRs required for a given feature sometimes 1 or more MRs is blocked by review, merge conflicts, or other entanglements.
 
 We should take advantage of Feature Flags and other tactics if we need to neutralize behavior as needed for feature rollouts.

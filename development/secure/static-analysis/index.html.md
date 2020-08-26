@@ -105,7 +105,7 @@ from the community. Each backend engineer in the group will serve as the [Commun
 
 1. Triage and work with community contributors to help drive their MRs to completion.
 1. Release feature(s) to core.
-1. Triage and resolve ~P1 bugs.
+1. Triage and resolve ~priority::1 bugs.
 1. Work an issue in the backlog that's of great interest to you.
 
 ## Issue Boards

@@ -41,7 +41,7 @@ Example of qualified issue:
 * Engineering emergency examples:
    * [A post deloyment issue with version.gitlab.com](https://gitlab.com/gitlab-com/gl-infra/production/issues/1615) that will cause self-managed deployment failure.
    * [GitLab.com deployment](https://gitlab.com/gitlab-org/gitlab/issues/198440) or a security release is blocked due to pipeline failure.
-   * [A P1/S1 regression found in the release staging.gitlab.com](https://gitlab.com/gitlab-org/gitlab/issues/199316)
+   * [A priority::1/severity::1 regression found in the release staging.gitlab.com](https://gitlab.com/gitlab-org/gitlab/issues/199316)
    * [Evaluating severity and making decision on a potential release or deployment show stopper](https://gitlab.com/gitlab-org/gitlab/-/issues/217450) collaboratively when other engineering teams are challenged to accomplish alone.
 
 
@@ -53,8 +53,8 @@ Examples of non-qualified issues:
    * Self-managed(ZD): [View switch causing browser freeze](https://gitlab.com/gitlab-org/gitlab-ce/issues/52479)
    * Self-managed(ZD): [Watch Everything Notification Level](https://gitlab.com/gitlab-org/gitlab-ee/issues/14214)
 * Engineering issue examples:
-   * [A P1/S1 enhancement of CI](https://gitlab.com/gitlab-org/gitlab/issues/36154)
-   * [A P1/S1 fix to API](https://gitlab.com/gitlab-org/gitlab-foss/issues/65381)
+   * [A priority::1/severity::1 enhancement of CI](https://gitlab.com/gitlab-org/gitlab/issues/36154)
+   * [A priority::1/severity::1 fix to API](https://gitlab.com/gitlab-org/gitlab-foss/issues/65381)
    * [Non release blocking QA failures on staging.gitlab.com](https://gitlab.com/gitlab-org/gitlab/issues/198692)
 
 ### Process Outline
@@ -64,7 +64,7 @@ Examples of non-qualified issues:
 1. Escalation arises.
 1. Infrastructure, Security, Support or Engineering team register tracking issue and determines the severity or references the Zendesk ticket, whichever is applicable.
    * Explicitly mention whether the raised issue is for GitLab.com or a self-managed environment.
-   * The issue must be qualified as P1/S1.
+   * The issue must be qualified as priority::1/severity::1.
 1. Infrastructure, Security, Support or Engineering team pings on-duty engineer (@name) in Slack [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4).
    * Find out who's on duty in the on-call [Google sheet of schedule](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing).
    * Ping on-duty engineers by tagging @name.
@@ -78,7 +78,7 @@ Examples of non-qualified issues:
 1. When on-call engineers need assistance of domain expertise:
    * Ping domain expert engineer and their engineering manager IMMEDIATELY in [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4). Make the best guess and it's fine to ping multiple persons when you are not certain. Domain experts are expected to get engaged ASAP.
    * If needed, next level is to ping the development director(s) of the domain in [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4).
-1. Whenever the issue is downgraded from P1/S1, the escalation process ends.
+1. Whenever the issue is downgraded from priority::1/severity::1, the escalation process ends.
 
 ### Logistics
 1. All on-call engineers, managers, distinguished engineers, fellows (who are not co-founders) and directors are required to join [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4).
