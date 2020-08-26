@@ -113,7 +113,7 @@ Please see the list below of roles where `Location Factor` is **not** applicable
   Roles Where Location Factor is Not Applicable
   </summary>
 
-  * SAccount Executive - Mid Market
+  * Account Executive - Mid Market
   * All SDR roles (IC and Management)
   * Area Sales Manager
   * Channel Sales Manager
