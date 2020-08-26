@@ -26,8 +26,8 @@ Everyone at GitLab needs to know how to use GitLab and be technical to some leve
 
 ### Objectives
 1. 
-1.
-1.
+1. 
+1. 
 
 ## Lesson 1: Epics
 
@@ -59,8 +59,9 @@ You may choose to mark confidential by selecting Make this epic confidential che
 
 ### Child Epics
 
-Child epics may be added to a parent epic.  To add a child epic:
+A child epic is a sub epic created within the parent epic. You can think about it like a folder with sub folders and multiple files. Child epics may be added to a parent epic.  
 
+To add a child epic:
 1. Navigate to the parent epic, click the add dropdown button
 1. Click Add an epic
 1. Type in the title
