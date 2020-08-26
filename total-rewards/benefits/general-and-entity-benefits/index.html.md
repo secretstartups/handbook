@@ -98,6 +98,9 @@ Do I need to get approval to participate in this program?
 I'm planning on taking a degree program, do I need approval for each class or for each semester/term?
 * A Tuition Reimbursement Application will be needed for each semester, however, the relevance of the classes taken for each semester will be subject to the approval of the manager and e-group leader.
 
+When should I apply for Tuition Reimbursement?
+* The Tuition Reimbursement Form (as noted in the process below), must be submitted to Total Rewards at least 30 days before your course start date.
+
 What is covered in the tuition reimbursement program?
 * The program will cover only the tuition and enrollment related fees. Additional fees related to parking, books, supplies, technology, or administrative charges are not covered as part of the program. Tuition will be validated by receipt showing proof of payment. 
 
