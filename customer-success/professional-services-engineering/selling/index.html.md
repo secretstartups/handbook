@@ -52,6 +52,9 @@ This process will generate a services description document that the SAL/ISR can 
 #### Custom-Scoped Services
 If the SAL/ISR/SA determine that the customer requires additional services outside of those listed in the [full catalog](/services/catalog), the SA should initiate a scoping engagement with the PS team by opening the [Services Calculator](http://services-calculator.gitlab.io/) and filling out the information required. If you don't know the specifics, you can leave the defaults and submit it. This will add an issue to the  Sr. Engagement Manager's queue to follow with you. Check out the [detailed steps below](#custom-scoped-services-detailed-workflow) for custom-scoped engagements for more details. 
 
+#### Instructions for creating a Professional Services Quote
+Deal Desk with require a quote for rither Service option above.  How to create a quote can be found [here](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#professional-services-quote).
+
 ### Step 3: Create and add the SOW
 
 For standard SKUs, the service description document is generated directly from SFDC/zuora under the quotes section. Upload the signed version of this document when you receive it from the customer. 

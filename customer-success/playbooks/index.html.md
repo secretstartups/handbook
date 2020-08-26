@@ -41,7 +41,7 @@ Customer Success playbooks assist in selling, driving adoption, and ultimately d
 
 ## Catalog of Playbooks
 
-The following playbooks are aligned to our [customer adoption journey](https://about.gitlab.com/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey) and support adoption of the related customer capability and [GitLab stage](https://about.gitlab.com/handbook/product/categories/). Within Gainsight, the TAM can manually add any Playbook ([instructions](https://about.gitlab.com/handbook/customer-success/tam/gainsight/#ctas)) to a Customer.
+The following playbooks are aligned to our [customer adoption journey](/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey) and support adoption of the related customer capability and [GitLab stage](/handbook/product/categories/). Within Gainsight, the TAM can manually add any Playbook ([instructions](/handbook/customer-success/tam/gainsight/#ctas)) to a Customer.
 
 | Title | Live in GS? | Automated? | Gainsight Location | Type | Internal Reference Link | 
 | ------ | ------ | ------ | ------ | ------ | ------ |

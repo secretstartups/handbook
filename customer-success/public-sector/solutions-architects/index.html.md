@@ -6,7 +6,7 @@ title: "Public Sector Solutions Architects"
 # Public Sector Solutions Architect Handbook
 {:.no_toc}
 
-Solutions Architects (SA) who work with the P[ublic Sector](https://about.gitlab.com/handbook/sales/public-sector/) provide subject matter expertise and industry experience throughout the sales process to Public Sector customers within the United States.
+Solutions Architects (SA) who work with the P[ublic Sector](/handbook/sales/public-sector/) provide subject matter expertise and industry experience throughout the sales process to Public Sector customers within the United States.
 
 Because specific requirements and common engagement practices differ from Enterprise or Commercial customers, the guidance below exists to assist Solutions Architects who work with customers in the Public Sector specifically.
 

@@ -33,7 +33,7 @@ On top of these processes, we've also documented guidelines for when [a customer
 
 The Product team maintains a [Sisense dashboard](https://app.periscopedata.com/app/gitlab/480786/User-Requested-Issues) to aggregate issues and customer interest in those issues. Information is automatically gathered from [GitLab issues](https://gitlab.com/gitlab-org/gitlab/issues) by scanning for SalesForce customer account links.
 
-If your customer has a feature request, refer to the [example of how to express the customer's interest](https://about.gitlab.com/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature) in an issue. Use the **Feature Proposal** template.
+If your customer has a feature request, refer to the [example of how to express the customer's interest](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature) in an issue. Use the **Feature Proposal** template.
 
 To indicate a customer's interest in an issue, add the link to their Salesforce account as a comment on the issue. The Sisense page automation will detect this, and use the customer's Salesforce data such as Total Account Value and seat licenses to add them to the page. This also maintains a customer's privacy on public issues, since Salesforce links are only accessible to GitLab employees with proper credentials.
 
@@ -43,11 +43,11 @@ Product uses the [RICE framework](/handbook/product/product-management/process/#
 
 #### Calls with Product
 
-In preparation of a call, make sure to [prepare both the customer and Product](https://about.gitlab.com/handbook/product/how-to-engage/#examples-a-customer-has-a-feature-request) in advance.
+In preparation of a call, make sure to [prepare both the customer and Product](/handbook/product/how-to-engage/#examples-a-customer-has-a-feature-request) in advance.
 
 ### Customer Collaboration Project
 
-Customers that are assigned a Technical Account Manager typically have a [collaboration project](https://about.gitlab.com/handbook/customer-success/tam/engagement/) on GitLab.com, which is used to share information, document customer details, and track issues in a place that both the GitLab team and the customer's team can access.
+Customers that are assigned a Technical Account Manager typically have a [collaboration project](/handbook/customer-success/tam/engagement/) on GitLab.com, which is used to share information, document customer details, and track issues in a place that both the GitLab team and the customer's team can access.
 
 Generally, TAMs maintain a main issue that lists out all feature requests the customer is interested in with links to the public GitLab issue.
 
@@ -79,4 +79,4 @@ TAMs can refer to the following steps if a medium priority Bug has become stale 
 
 ### Report a Bug
 
-If your customer would like to report a bug, refer to the [example of how to express the customer's interest](https://about.gitlab.com/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature) in an issue. Use the **Bug** template.
+If your customer would like to report a bug, refer to the [example of how to express the customer's interest](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature) in an issue. Use the **Bug** template.

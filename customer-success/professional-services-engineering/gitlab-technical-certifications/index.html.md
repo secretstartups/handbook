@@ -28,7 +28,7 @@ Individual GitLab users who earn certification receive a certification logo they
 
 ### Currently available certifications
 
-Here are the certifications GitLab has soft-launched in FY'21. Each set of certification assessments is currently available to [GitLab Professional Services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/) customers who purchase the related course. Course participants gain access to the certification assessments immediately after completing their course sessions. GitLab is planning to offer asynchronous options for anyone to prepare for and take the certification assessments, with online availability targeted for the end of calendar year 2020.
+Here are the certifications GitLab has soft-launched in FY'21. Each set of certification assessments is currently available to [GitLab Professional Services](/handbook/customer-success/professional-services-engineering/) customers who purchase the related course. Course participants gain access to the certification assessments immediately after completing their course sessions. GitLab is planning to offer asynchronous options for anyone to prepare for and take the certification assessments, with online availability targeted for the end of calendar year 2020.
 
 #### GitLab Certified Associate
 

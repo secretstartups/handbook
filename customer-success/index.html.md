@@ -73,7 +73,7 @@ The account team is comprised of the Strategic Account Leader/Account Executive,
 
 ## Overlap Between Solution Architects and Technical Account Managers
 
-In working with our prospects and then customers pre and post sale, there can at times be overlap between the SA and the TAM.  Please reference the page linked here for more detail on [who is the DRI when there is SA/TAM overlap](https://about.gitlab.com/handbook/customer-success/solutions-architects/#satam-engagement-overlap).
+In working with our prospects and then customers pre and post sale, there can at times be overlap between the SA and the TAM.  Please reference the page linked here for more detail on [who is the DRI when there is SA/TAM overlap](/handbook/customer-success/solutions-architects/#satam-engagement-overlap).
 
 * [us-public-sector](https://gitlab.com/gitlab-com/us-public-sector) parent project for all public sector work
 * [account-management](https://gitlab.com/gitlab-com/account-management/) parent project for account-specific work and collaboration with the rest of sales
@@ -151,7 +151,7 @@ Customer Success team members maintain a [FAQ](/handbook/customer-success/faq) t
 * [Sales Demo](/handbook/marketing/product-marketing/demo/)
 * [Sales Development Group Handbook](/handbook/marketing/marketing-sales-development/sdr/)
 * [With Whom to Talk to Ask Questions or Give Feedback on a GitLab feature](/handbook/product/product-categories/#devops-stages)
-* [CEO Preferences when speaking with prospects and customers](/handbook/people-group/ceo-preferences/#sales-meetings)
+* [CEO Preferences when speaking with prospects and customers](/handbook/ceo/#sales-meetings)
 
 ### Customer Success & Market Segmentation
 For definitions of the account size, refer to [market segmentation](/handbook/business-ops/resources/#segmentation).

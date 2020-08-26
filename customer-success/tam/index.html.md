@@ -4,6 +4,7 @@ title: "Technical Account Management Handbook"
 ---
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
@@ -30,7 +31,7 @@ title: "Technical Account Management Handbook"
 - [Success Plans](/handbook/customer-success/tam/success-plans/)
 - [Usage Ping](/handbook/customer-success/tam/usage-ping-faq/)
 - [Playbooks](/handbook/customer-success/playbooks/)
-- [Stage Adoption](/handbook/customer-success/tam/stage-adoption/)
+- [Stage Adoption Metrics](/handbook/customer-success/tam/stage-adoption/)
 - [Executive Business Reviews (EBRs)](/handbook/customer-success/tam/ebr/)
 - [Customer Renewal Tracking](/handbook/customer-success/tam/renewals/)
 - [Customer Health Assessment and Triage](/handbook/customer-success/tam/health-score-triage/)
@@ -39,7 +40,7 @@ title: "Technical Account Management Handbook"
 
 - [TAM Manager Processes](/handbook/customer-success/tam/tam-manager/)
 
----
+- - -
 
 ## What is a Technical Account Manager (TAM)?
 
@@ -50,7 +51,6 @@ See the [Technical Account Manager role description](/job-families/sales/technic
 ### Advocacy
 
 A Technical Account Manager is an advocate for both the customer and GitLab. They act on behalf of customers serving as a feedback channel to development and shaping of the product. In good balance, they also advocate on behalf of GitLab to champion capabilities and features that will improve quality, increase efficiency and realize new value for our customer base.
-
 
 #### Management
 
@@ -73,6 +73,7 @@ There are various services a Technical Account Manager will provide to ensure th
 #### Book of Business
 
 Technical Account Managers are responsible for managing a portfolio of customer accounts based on the sum of the annual contract value of the accounts under management. The current targets per TAM based on segment are:
+
 - Large / Enterprise: $3.25M/TAM
 - Commercial: $4M/TAM
 - SMB: N/A as it's digitally-led
@@ -83,41 +84,23 @@ The team is working on efficiency initiatives to increase the contracts under ma
 
 On the Gainsight Attributes section, the TAM can set the priority level per customer with levels 1-3, with 1 being the highest. Definitions include:
 
-
-
 1. High Touch: TAM-led onboarding, regular cadence calls, full TAM-led customer lifecycle
-
 1. Medium Touch: TAM-led onboarding, quarterly check-ins, renewal touch point
-
 1. Digital Touch: No direct TAM involvement, onboarding and enablement driven by email-led digital journey
-
-
 
 Why do we use a prioritization system?
 
-
-
-* Use in SALSATAM meetings to ensure team alignment
-
-* Managers have more visibility into the potential workload of the team member via more context on the makeup of the overall portfolio
-
-* TAMs have more insight into their portfolio and where they should be spending their time
-
-* TAMs can run associated campaigns of education to low touch or less engaged customers or strategic (high touch) customers to be automatically invited to Customer Advisory Boards or events
-
-* Used to further segment customers, beyond the [Sales Segmentation](/handbook/business-ops/resources/#segmentation)
-
-
+- Use in SALSATAM meetings to ensure team alignment
+- Managers have more visibility into the potential workload of the team member via more context on the makeup of the overall portfolio
+- TAMs have more insight into their portfolio and where they should be spending their time
+- TAMs can run associated campaigns of education to low touch or less engaged customers or strategic (high touch) customers to be automatically invited to Customer Advisory Boards or events
+- Used to further segment customers, beyond the [Sales Segmentation](/handbook/business-ops/resources/#segmentation)
 
 Criteria to apply includes:
 
-* Future account growth
-
-* Size of the account 
-
-* Risk / health of account
-
-
+- Future account growth
+- Size of the account
+- Risk / health of account
 
 The `TAM Portfolio` Dashboard is used to help highlight and review each client, including their priority level.
 
@@ -151,23 +134,26 @@ The `TAM Portfolio` Dashboard is used to help highlight and review each client, 
 - Support ticket escalations
 
 ## TAM Tools
-The following articulates where collaboration and customer management is owned: 
-1. [**Account Management Projects**](https://gitlab.com/gitlab-com/account-management):  Shared project between GitLab team members and customer. Used to prioritize/plan work with customer. 
-1. [**Google Drive**](https://drive.google.com/drive/u/0/folders/0B-ytP5bMib9Ta25aSi13Q25GY1U): Internal. Used to capture call notes and other customer related documents. 
-1. [**Chorus**](https://about.gitlab.com/handbook/business-ops/tech-stack/#chorus): Internal. Used to record Zoom calls.
-1. [**Gainsight**](https://gitlab.gainsightcloud.com/): Internal. Used to track customer health score, logging [customer activity](https://about.gitlab.com/handbook/customer-success/tam/gainsight/timeline/#activity-types) (i.e. calls, emails, meetings)
+
+The following articulates where collaboration and customer management is owned:
+
+1. [**Account Management Projects**](https://gitlab.com/gitlab-com/account-management): Shared project between GitLab team members and customer. Used to prioritize/plan work with customer.
+1. [**Google Drive**](https://drive.google.com/drive/u/0/folders/0B-ytP5bMib9Ta25aSi13Q25GY1U): Internal. Used to capture call notes and other customer related documents.
+1. [**Chorus**](/handbook/business-ops/tech-stack/#chorus): Internal. Used to record Zoom calls.
+1. [**Gainsight**](https://gitlab.gainsightcloud.com/): Internal. Used to track customer health score, logging [customer activity](/handbook/customer-success/tam/gainsight/timeline/#activity-types) (i.e. calls, emails, meetings)
 
 ## Related pages
 
-- [Dogfooding in Customer Success](/handbook/customer-success/#dogfooding/)
-- [Customer Success & Market Segmentation](/handbook/customer-success/#customer-success--market-segmentation/)
-- [Responsibility Matrix and Transitions](/handbook/customer-success/#responsibility-matrix-and-transitions/)
+- [Dogfooding in Customer Success](/handbook/customer-success/#dogfooding)
+- [Customer Success & Market Segmentation](/handbook/customer-success/#customer-success--market-segmentation)
+- [Responsibility Matrix and Transitions](/handbook/customer-success/#responsibility-matrix-and-transitions)
 - [Commercial Sales Customer Success](/handbook/customer-success/comm-sales/)
 - [Customer Success' FAQ](/handbook/customer-success/faq/)
 - [Using Salesforce within Customer Success](/handbook/customer-success/using-salesforce-within-customer-success/)
 - [Customer Success Vision](/handbook/customer-success/vision/)
 - [GitLab Positioning](/handbook/positioning-faq/)
-- [Product Stages and the POCs for each](/handbook/product/product-categories/#devops-stages/)
-- [How to Provide Feedback to Product](/handbook/product/how-to-engage/#feedback-template/)
+- [Product Stages and the POCs for each](/handbook/product/product-categories/#devops-stages)
+- [How to Provide Feedback to Product](/handbook/product/how-to-engage/#feedback-template)
 - [Sales handbook](/handbook/sales/)
 - [Support handbook](/handbook/support/)
+- [Workshops and Lunch-and-Learn slides](https://drive.google.com/drive/folders/1qAymFTiXFEk-lRSNreIhaZ6Z62fdo_y2)

@@ -42,11 +42,11 @@ A weekly touch base call is held with the team to review schedules.  This type o
 
 ### Kicking off an engagement
 
-See the details in the Project workflow section of the [PS Project Management](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/project-mgmt/) page.
+See the details in the Project workflow section of the [PS Project Management](/handbook/customer-success/professional-services-engineering/project-mgmt/) page.
 
 ### Planning and Delivering Education Services
 
-PSEs who deliver GitLab Education Services instructor-led courses can use the following workflow to ensure smooth interactions with customers. In addition, PSEs should complete these [GitLab Certified Trainer](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-trainer-process/) steps for each course they are scheduled to deliver.
+PSEs who deliver GitLab Education Services instructor-led courses can use the following workflow to ensure smooth interactions with customers. In addition, PSEs should complete these [GitLab Certified Trainer](/handbook/customer-success/professional-services-engineering/gitlab-certified-trainer-process/) steps for each course they are scheduled to deliver.
 
 #### Preparation steps
 
@@ -57,7 +57,7 @@ PSEs who deliver GitLab Education Services instructor-led courses can use the fo
 1. During the training planning meeting, be sure to discuss and document all of the event logistics listed in the [Training Event Plan Template](https://docs.google.com/document/d/1huNauyfhFPvLCuo-9T7Ol3FtBDYowYxiP_T5ItP2FN4/edit?usp=sharing)
 1. Add the confirmed date(s) and start/stop time(s) for each training session to the issue and @ mention the Education Practice Manager.
 
-1. The Education Practice Manager or Project Coordinator will set up a Zoom Webinar session for each session using [these set up instructions](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-session-setup/) and add the registration link(s) to the issue. You will receive an email message with your unique link to join the Zoom Webinar session.
+1. The Education Practice Manager or Project Coordinator will set up a Zoom Webinar session for each session using [these set up instructions](/handbook/customer-success/professional-services-engineering/remote-training-session-setup/) and add the registration link(s) to the issue. You will receive an email message with your unique link to join the Zoom Webinar session.
 
 1. At least 3 business days prior to the training session, email the session registration link(s) to the customer, asking them to send the link(s) to each of the employees whom they want to attend the session(s). When each person registers they will receive an automated confirmation email with a Zoom Webinar join link unique to each person, along with a link to add the session to their calendar.
 
@@ -65,7 +65,7 @@ PSEs who deliver GitLab Education Services instructor-led courses can use the fo
 
 1. Review the train-the-trainer (T3) video for the course you are delivering
 
-1. Review, practice, and use these [PS Remote Training Tips and Tricks](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-tips/).
+1. Review, practice, and use these [PS Remote Training Tips and Tricks](/handbook/customer-success/professional-services-engineering/remote-training-tips/).
 
 1. Complete the GitLab Training Lab set up steps below.
 
@@ -125,7 +125,7 @@ Billable hours represent work hours that a staff member reports as being aligned
 #### Time tracking entry and approval workflow
 
 
-* All Issues are attached to Epics using the [epic categories](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#epic-categories) as a guide.
+* All Issues are attached to Epics using the [epic categories](/handbook/customer-success/professional-services-engineering/#epic-categories) as a guide.
 * [PSE Hours Report Generator](https://gitlab-com.gitlab.io/customer-success/professional-services-group/issue-mover/) pulls all time spent from issues that the user is either an author of, or an assignee, and creates the time tracking spreadsheet at the end of the designated fiscal quarter.
 * A PS Delivery Manager will APPROVE the hours, create an issue and attach it to the Time Tracking Epic with the `ManagerCertifiedTimesheet` label
 * The approving manager will submit to the Head of PS, [Sr. Director of Professional Services](https://about.gitlab.com/job-families/sales/director-of-professional-services/) for next level approval.  The Head of PS with apply judgement on productive utilization.
@@ -206,6 +206,6 @@ There are three types of project tracking labels
  
 ### How to complete a project
 
-At the conclusion of the Statement of Work the PSE will prepare a cost vs actual analysis. This analysis will be filed in SFDC. When filed in SFDC the Professional Services Engineer will "@ mention" the Controller and Finance Business Partner, Sales in SFDC Chatter. For details see the Project workflow section of the [PS Project Management page](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/project-mgmt/).
+At the conclusion of the Statement of Work the PSE will prepare a cost vs actual analysis. This analysis will be filed in SFDC. When filed in SFDC the Professional Services Engineer will "@ mention" the Controller and Finance Business Partner, Sales in SFDC Chatter. For details see the Project workflow section of the [PS Project Management page](/handbook/customer-success/professional-services-engineering/project-mgmt/).
 
 

@@ -27,14 +27,14 @@ To deliver value to all customers by engaging in a consistent, repeatable, scala
 
 
 ## Vision Page
-The WW ["Customer Success Vision Page"](https://about.gitlab.com/handbook/customer-success/vision/) provides the long-term vision which we also follow in the APJ Customer Success team.
+The WW ["Customer Success Vision Page"](/handbook/customer-success/vision/) provides the long-term vision which we also follow in the APJ Customer Success team.
 
 ## APJ Customer Success Team
 Currently the local APJ CS team has Solutions Architects & Technical Account Managers in the team. The team reports to the Customer Experience Manager (APJ).
 
 - [Customer Experience Manager (APJ)](https://about.gitlab.com/job-families/sales/manager-customer-experience/) responsibilities
-- [Solutions Architect](https://about.gitlab.com/handbook/customer-success/solutions-architects/) responsibilities
-- [Technical Account Manager](https://about.gitlab.com/handbook/customer-success/tam/) responsibilities
+- [Solutions Architect](/handbook/customer-success/solutions-architects/) responsibilities
+- [Technical Account Manager](/handbook/customer-success/tam/) responsibilities
 
 Starting from the GitLab [org chart](https://about.gitlab.com/company/team/org-chart/) the [Customer Experience Manager (APJ)](https://about.gitlab.com/company/team/#adriansmolski) reports to the [WW Senior Director for Solutions Architecture](https://about.gitlab.com/company/team/#jfullam) who reports to the [Vice President, Customer Success](https://about.gitlab.com/company/team/#dsakamoto)
 
@@ -51,7 +51,7 @@ Starting from the GitLab [org chart](https://about.gitlab.com/company/team/org-c
 | Technical Account Manager | [**Benjamin Ma**](https://gitlab.com/@bma) | Sydney, Australia |
 | Technical Account Manager | [**Rohan Shah**](https://gitlab.com/@rmsrohan) | Mumbai, India |
 
-The APJ CS team currently does not follow a strict territory alignment. The only exception is that customers in the home base location would have a preference for Customer Success team members to ensure GitLab adoption. The APJ Customer Success team supports the [Large](https://about.gitlab.com/handbook/sales/territories/#apac) and [Mid-Market](https://about.gitlab.com/handbook/sales/territories/#apac-1) APJ outlines territories.
+The APJ CS team currently does not follow a strict territory alignment. The only exception is that customers in the home base location would have a preference for Customer Success team members to ensure GitLab adoption. The APJ Customer Success team supports the [Large](/handbook/sales/territories/#apac) and [Mid-Market](/handbook/sales/territories/#apac-1) APJ outlines territories.
 
 ## Engagement options with the APJ Customer Success team
 Any customer, customer prospect, GitLab Business Partner and/or GitLab Sales representative requiring assitance with GitLab's technology should be directed to the Customer Experience Manager (CEM).
@@ -126,7 +126,7 @@ The meeting agenda is generally as follows:
 - Introduce Topic of interest and provide background information
 - Demonstrate in GitLab's platform where the topic fits in and announce the [GitLab Stage](https://about.gitlab.com/direction/#devops-stages) it belongs to
 - Articulate the benefit of the Topic for our customers in APJ
-- Clearly articulate which [GitLab Tier](https://about.gitlab.com/handbook/ceo/pricing/) the topic is benefitted from
+- Clearly articulate which [GitLab Tier](/handbook/ceo/pricing/) the topic is benefitted from
 - Document your main finding in the internal bi-weekly GitLab New Release meeting document
 
 The meeting is scheduled regularly and on a bi-weekly basis. The meeting is hosted via Zoom and the Meeting Agenda is shared via gdrive Docs and available internally.

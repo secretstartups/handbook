@@ -9,6 +9,9 @@
         <th>Item</th>
         <% if defined?(include_category) != nil %>
         <th>Category</th>
+       <% end %>
+       <% if defined?(include_stages) != nil %>
+        <th>Product Stages</th>
         <% end %>
         <% if defined?(include_cost) != nil %>
         <th>Price</th>
@@ -31,6 +34,9 @@
                 </td>
                 <% if defined?(include_category) != nil %>
                 <td><%= service.category %></td>
+                <% end %>
+                <% if defined?(include_stages) != nil %>
+                <td><%= service.stages %></td>
                 <% end %>
                 <% if defined?(include_cost) != nil %>
                 <td>

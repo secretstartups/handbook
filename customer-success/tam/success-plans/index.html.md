@@ -64,7 +64,7 @@ To create a Success Plan, the TAM will perform the following activities, detaile
 
 The objectives should be written from the customer’s perspective and be measurable goals that they drive. For example, an Objective could be “Reduce Cycle Time from X to Y” rather than “Adopt Manage stage” (which is a more internally-oriented phrasing).
 
-You should know how the customer will track the benefits of purchasing GitLab, how the customer will measure success, and how the customer is currently measuring these objectives and if they have those metrics available. If these details are currenly unknown, add some relevant discovery questions to your agenda for your next [cadence call](/handbook/customer-success/tam/cadence-calls/), below are some examples:
+You should know how the customer will track the benefits of purchasing GitLab, how the customer will measure success, and how the customer is currently measuring these objectives and if they have those metrics available. If these details are currenly unknown, add some [relevant discovery questions](/handbook/customer-success/tam/success-plans/questions-techniques/) to your agenda for your next [cadence call](/handbook/customer-success/tam/cadence-calls/), below are some examples:
 
 - Who on the customer side might have important or relevant input?
 - Why is each business outcome important?
@@ -74,6 +74,8 @@ You should know how the customer will track the benefits of purchasing GitLab, h
 - When do we need to reach this goal?
 - What steps do we need to take to get there?
 - What roadblocks are there, if any?
+
+Reference the [questions & techniques for success plan discovery](/handbook/customer-success/tam/success-plans/questions-techniques/) for suggestions on how to have these conversations with customers.
 
 Business objectives can be either quantitative or qualitative, but both types still need to be actionable and measurable. See below for examples and common pitfalls of each.
 
@@ -87,6 +89,8 @@ Common pitfalls:
 - Using unrealistic objectives: be transparent about what we can achieve
 - Not addressing the real goal: don't say “activate 50% of users” when we really want to measure the impact of GitLab to their bottom line
 - Not making them measurable: “Delight the customer!” is a great goal, but not measurable
+
+To better understand metrics, review [Demystifying the Metrics Conversation](/handbook/sales/command-of-the-message/metrics.html).
 
 **Initiatives (qualitative)**: description of an outcome that will be a substantial strategic win for the customer
 
@@ -185,7 +189,7 @@ Collaborations projects are meant for continuous use with our customers to track
 
 Within the collaboration project, TAMs focus on new/closed/open issues and collaboration with the customer on these issues. It's the primary communication method for the TAM to communicate with the customer on a day-to-day basis and is a way to help the customers adopt using GitLab.
 
-For additional details, see [Account Engagement](https://about.gitlab.com/handbook/customer-success/tam/engagement/).
+For additional details, see [Account Engagement](/handbook/customer-success/tam/engagement/).
 
 ### Success Plans
 
