@@ -216,7 +216,15 @@ In this location, a temporary contract (tijdelijk contract) is for 12 months, wi
 
 It is common for Dutch employers to offer a second temporary contract when the first expires, but it's not guaranteed. As a Dutch employer, this is standard procedure for GitLab. As of 2015-07-01, employees who have worked with an employer on temporary contracts for at least two years are entitled to an indefinite contract if the work agreement continues, and this is known as the chain rule (ketenregeling). 
 
-The process for next steps at the end of the first 12-month temporary contract is as follows: 
+The process for New Hires is as follows: 
+
+1. The offer is made by the recruiter per the [hiring process](https://about.gitlab.com/handbook/hiring/).
+1. The Candidate Experience Specialist emails the new team member the Contract Info Request - the Netherlands from GreenHouse.
+1. The Candidate Experience Specialist will update the GreenHouse Offer Details with BSN and Date of Birth when the new team member provides the necessary details and then generates the "IT BV Employee Temporary - the Netherlands" contract out of GreenHouse.
+1. The Candidate Experience Specialist will stage the contract for signature via DocuSign, CC the hiring manager, and CC the HRSavvy group email. This will ensure our payroll provider in this location can start their onboarding, well ahead of ours. 
+
+
+The People Operations process for next steps at the **end of the first 12-month temporary contract** is as follows: 
 1. Two months before the contract ends, the People Operations Specialist sends [an email](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/netherlands_temp_contract_renewal.md) to the manager and [People Business Partner](/handbook/people-group/) of the team member, notifiying them that their first 12-month contract is ending. 
 1. Best practice and procedure at GitLab is to supply a second temporary 12-month contract. After two consecutive year-long temporary contracts, if the team member is in good standing, they are given an Indefinite Agreement beginning at the team member's third year with the company.
 1. The Manager has then 3 weeks to evaluate the performance of the team member and discuss the planned course of action with the [People Business Partner](/handbook/people-group/)
