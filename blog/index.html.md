@@ -157,9 +157,9 @@ Applied to the blog, error budgets incentivize forward planning and early commun
 
 Each functional group is responsible for not exceeding an allowed budget of 15 points per quarter. The number of points given will depend on the severity of the impact to the team's workflow:
 
-- S1: 15 points - Less than 2 working days' notice for a time-sensitive post (except in cases of responding to an industry or company event/news for which there was no prior warning).
-- S2: 10 points - Failure to submit complete, formatted MR a _minimum_ of 2 working days ahead of publish date.
-- S3: 5 points - MR submitted ahead of time, but without all required formatting, links, and images included (unless otherwise agreed).
+- severity::1: 15 points - Less than 2 working days' notice for a time-sensitive post (except in cases of responding to an industry or company event/news for which there was no prior warning).
+- severity::2: 10 points - Failure to submit complete, formatted MR a _minimum_ of 2 working days ahead of publish date.
+- severity::3: 5 points - MR submitted ahead of time, but without all required formatting, links, and images included (unless otherwise agreed).
 
 Where error budget points are incurred, a member of the Editorial team will apply the relevant label to the issue or merge request in question. Points will be totaled at the end of the quarter and communicated to functional groups who exceed their budgets, so that we can work together on solutions to prevent this in the future.
 
