@@ -10,15 +10,19 @@ title: "Sales & Customer Success Onboarding"
 {:toc .hidden-md .hidden-lg}
 
 ## The Goals of Sales & Customer Success Onboarding
-Sales onboarding at GitLab is a blended learning experience (virtual, self-paced learning path paired with an immersive, hands-on in-person workshop called Sales Quick Start) focused on what new sales team members need to **KNOW**, **DO**, and **BE ABLE TO ARTICULATE** within their first 30 days or so on the job so they are "customer conversation ready" and they are comfortable, competent, and confident leading customer engagements before the end of their first several weeks on the job. There are some formal learning components with a heavy emphasis on social learning (learning from others) and learning by doing to help bridge the knowing-going gap. Some of our learning goals pertaining to Sales Onboarding include:
+Sales onboarding at GitLab is a blended learning experience (virtual, self-paced learning path paired with an immersive, hands-on in-person workshop called Sales Quick Start) focused on what new sales team members need to **KNOW**, **DO**, and **BE ABLE TO ARTICULATE** within their first 30 days or so on the job so they are "customer conversation ready" and they are comfortable, competent, and confident leading customer engagements before the end of their first several weeks on the job. There are some formal learning components with a heavy emphasis on social learning (learning from others) and learning by doing to help bridge the knowing-going gap. 
 
-*  Create relationships with colleagues and mentors and gain a strong understanding of GitLab culture
-*  Develop a high-level understanding of the DevOps industry and GitLab competitors
-*  Understand GitLab’s value framework (including, but not limited to, products, services, and GitLab values)
-*  Understand personas and learn how to be audible ready with each of them on a discovery call
-*  Gain a functional understanding of GitLab’s sales cycle and customer journey
-*  Learn how to utilize company resources (including, but not limited to, our handbook, the GitLab tool itself, Chorus.ai, Zoom, Google Suite, and SFDC)
-*  Gain a strong understanding of Command of the Message and MEDDPICC. For sales roles this includes becoming adept at trap-setting questions, discovery questions, and being audible-ready. For Customer Success roles this includes becoming familiar with value drivers, asking open-ended questions, and being audible ready. 
+For a detailed list of SQS Learning Objectives, please visit [this page](https://about.gitlab.com/handbook/sales/onboarding/sqs-learning-objectives/).
+
+## Key SQS Details
+
+*  Sales & Customer Success Quick Start Learning Path (link to https://about.gitlab.com/handbook/sales/onboarding/sales-learning-path/)
+
+## Upcoming Sales Quick Start Workshops
+
+| DATES | GEO | LOCATION | ISSUE |
+| ------ | ------ | ------ | ------ |
+| Sep 28-Oct 7, 2020 | AMER | Virtual | [issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/471) | 
 
 ## Graduating from Sales Onboarding
 In order to officially “graduate” from Sales Onboarding at GitLab, we have identified a few components that are considered milestones of achievement (many of these must be done concurrently to ensure completion):
@@ -87,13 +91,6 @@ Sales Development Reps (SDRs) have their own separate onboarding process (but ma
 *  **Note: The Results Value is our highest priority and we strive to deliver sales training and enablement remotely as much as possible and reserve in-person formats only for circumstances when we can't obtain the desired results via remote/virtual delivery)**
    - Iteration is expected to keep moving what we can to remote models once we can achieve the same or better results that way
 *  Future iteration of this process will define what sales team members need to **KNOW**, **DO**, and **BE ABLE TO ARTICULATE** (by sales role, customer segment, and geo as appropriate) after they complete the above and support those learning objectives as they continue their ramp to GitLab sales performance excellence!
-
-## Sales Quick Start Workshop Schedule
-
-| DATES | GEO | LOCATION | ISSUE |
-| ------ | ------ | ------ | ------ |
-| Aug 17-26, 2020 | EMEA/APAC | Virtual | [SQS11 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/437) |
-| Sep 28-Oct 6, 2020 | AMER | Virtual | issue TBD |
 
 ## Swag for New Sales Team Members
 
