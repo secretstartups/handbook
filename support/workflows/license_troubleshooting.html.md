@@ -26,7 +26,7 @@ The list of common requests/issues below is reference for internal support engin
 
 ## Transactions
 
-Transactions at GitLab are defined as anything related to purchasing; issues or questions. For example. credit card problems, bugs, trying to make a purchase and running into confusion/problems etc.
+Transactions at GitLab are defined as anything related to purchasing; issues or questions. For example: credit card problems, bugs, trying to make a purchase, and running into confusion/problems, etc.
 
 1. **User reports an inability to upgrade from one paid plan to another.**
 
