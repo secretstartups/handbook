@@ -18,7 +18,7 @@ Terraform control for the environments can be found [on ops](https://ops.gitlab.
 Future Iteration with Infrastructure Standards
 </div>
 <div class="panel-body">
-We have a WIP initiative to iterate on our company-wide infrastructure standards. You can learn more about this on the [infrastructure standards handbook page](/handbook/infrastructure-standards).<br />
+We have a WIP initiative to iterate on our company-wide infrastructure standards. You can learn more about this on the <a href="/handbook/infrastructure-standards">infrastructure standards handbook page</a>.<br />
 <br />
 This page will be refactored incrementally as the standards are documented, implemented, and changes to environments take place.
 </div>
