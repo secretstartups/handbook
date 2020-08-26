@@ -44,21 +44,17 @@ If you have a request that involves confidential and/or sensitive information, i
 For more information on Attorney-Client Privilege, see the [General Topics and FAQs](/handbook/legal/#general-topics-and-faqs) below. 
 
 ### 3. Vendor, Partner, and other "To Pay" Contracts
-If you are looking for a new vendor, need an NDA for a vendor or partner, or need review of a vendor or partner contract, these services are handled by the Procurement Team. For purposes of this process, anyone that will receive payment from GitLab is considered a vendor. 
-
-Legal will be brought in by Procurement for escalations only. Please see the [Procurement Page](/handbook/finance/procurement/) for more information on the Vendor Management Process. Once a Vendor NDA and/or Contract has been completed, it should be uploaded by the requestor into our contract management database tool [ContractWorks](/handbook/legal/vendor-contract-filing-process/). If you need a license, you will need to submit an Access Request.
+* If you are looking for a new vendor, need an NDA for a vendor or partner, or need review of a vendor or partner contract, these services are handled by the Procurement Team. For purposes of this process, anyone that will receive payment from GitLab is considered a vendor. 
+* Legal will be brought in by Procurement for escalations only. Please see the [Procurement Page](/handbook/finance/procurement/) for more information on the Vendor Management Process. Once a Vendor NDA and/or Contract has been completed, it should be uploaded by the requestor into our contract management database tool [ContractWorks](/handbook/legal/vendor-contract-filing-process/). If you need a license, you will need to submit an Access Request.
 
 ### 4. Requests for Insurance Certificate
+* If you need an insurance certificate (other than for worker's compensation) you can send an email request directly to our insurance broker at *[ABD](mailto:abdcertdept@theabdteam.com).*    You will need to include contact information for the customer seeking to be added to the certificate and any other specific requirements relating to the coverage. If you require an insurance certificate for worker's compensation email: payroll@gitlab.com with the same information.
 
-If you need an insurance certificate (other than for worker's compensation) you can send an email request directly to our insurance broker at *[ABD](mailto:abdcertdept@theabdteam.com).*    You will need to include contact information for the customer seeking to be added to the certificate and any other specific requirements relating to the coverage. If you require an insurance certificate for worker's compensation email: payroll@gitlab.com with the same information.
-
-For a [summary of GitLab's insurance coverage](https://drive.google.com/file/d/17pvhu9cKtoQatO7xOlKbwSoOXDEJRpiQ/view?usp=sharing) please refer to this link.
-
+* For a [summary of GitLab's insurance coverage](https://drive.google.com/file/d/17pvhu9cKtoQatO7xOlKbwSoOXDEJRpiQ/view?usp=sharing) please refer to this link.
 
 ### 5. Other Legal Requests 
 
-For requests that are not Customer related, but require input from the Legal team or a deliverable such as assistance with questionnaires, engineering license agreements, open source question, internal operation matters, or compliance questions, please tag the relevant Legal team member and ask your questions in the issue that relates to your question. If there is not an issue related to your question, please create an issue in the [Legal and Compliance Issue Tracker](https://gitlab.com/gitlab-com/legal-and-compliance/issues) using the issue template. 
-
+* For requests that are not Customer related, but require input from the Legal team or a deliverable such as assistance with questionnaires, engineering license agreements, open source question, internal operation matters, or compliance questions, please tag the relevant Legal team member and ask your questions in the issue that relates to your question. If there is not an issue related to your question, please create an issue in the [Legal and Compliance Issue Tracker](https://gitlab.com/gitlab-com/legal-and-compliance/issues) using the issue template. 
 **All Legal and Compliance issues should be marked as confidential. GitLab team members will be able to access these issues directly.**
 
 Please be sure to include sufficient detail regarding your request, including time-sensitive deadlines, relevant documents, and background information necessary to respond.
