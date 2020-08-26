@@ -123,6 +123,7 @@ While each of GitLab's [values](/handbook/values/) are extremely important to me
 ## My working style
 
 * I am a [Hub](https://www.brighterstrategies.com/wp-content/uploads/2015/05/SDI_Interpretive_Report.pdf) in the [Strength Deployment Inventory](http://www.teambuildingsolutions.co.uk/sdi) (SDI). This essentially means that **my motivator is to be flexible to the needs of everyone else**. If I sense that a group needs leadership, I lean red (assertive). If I sense that a teammate is struggling or being overlooked, I lean blue (nurturing). If I sense that a group is rushing to conclusions, I lean green (analytical). 
+* I love the 16 Personalities test. I'm an [INFJ (Advocate)](https://www.16personalities.com/infj-personality). The descriptors are eerily accurate. 
 * I tend to place the needs of the individual above all. My initial consideration when analyzing any new work is: "How will this impact a person's life — their time, their [mental health](/company/culture/all-remote/mental-health/), their stress levels, their pride, their planned PTO, etc.?"
   * The above sheds light on a growth area for me: understanding what to say "no" to, and how to prioritize an ever-shifting array of demands. 
 * I believe in the power of [open space and deliberate focus time](https://jkglei.com/white-space/). I prefer time *after* a meeting to process and [document takeaways](/handbook/values/#write-things-down). I prefer time *before* a meeting to properly prepare and devote my full attention to the person or people who are being gracious with their time. 
