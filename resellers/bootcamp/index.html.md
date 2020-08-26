@@ -53,7 +53,7 @@ If you are interested in market positioning, typical pain points and the way Git
 
 **Now go to your project and find issue called *Lab 1* and complete the tasks contained there**.
 
-If you are interested in market positioning, typical painpoints and the way GitLab addresses them, customer stories and analyst coverage review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/version-control-collaboration/).
+If you are interested in market positioning, typical pain points and the way GitLab addresses them, customer stories and analyst coverage review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/version-control-collaboration/).
 
 
 ### Continuous Integration & AutoDevOps
