@@ -202,7 +202,7 @@ The report itself is divided into 4 main parts.
 * UX debt issues
 * Frontend bugs
 * Bugs (likely backend)
-* `~S1` and `~S2` bugs past the target SLO.
+* `~priority::1` and `~priority::2` bugs past the target SLO.
 
 The bug sections also contains a heatmap.
 
@@ -249,7 +249,7 @@ This section contains issues with the `~"bug"` label without priority and severi
   1. Assign a [Severity Label](/handbook/engineering/quality/issue-triage/#severity).
   1. Assign either a versioned milestone or to the `Backlog`.
 
-#### P1 & P2 bugs past SLO
+#### priority::1 & priority::2 bugs past SLO
 
 This section contains bugs which has past our targeted SLO based on the priority set. This is based on our [missed SLO detection](/handbook/engineering/quality/triage-operations/index.html#missed-slo) triage policy.
 
@@ -345,7 +345,7 @@ Issues which have a label of `~Deliverable` without a milestone will have the mi
 Issues which have a severity label and missed the [SLO target](/handbook/engineering/quality/issue-triage/#severity) will be labeled with `~missed-SLO`. The calculation for elapsed time starts from the date of the severity label was applied. This enables reporting on SLO target adherence.
 
 * Automation Condition: Issue with severity label present and is remains in an open state past SLO target.
-* We currently only detect missed SLOs for `~S1` and `~S2` bugs.
+* We currently only detect missed SLOs for `~priority::1` and `~priority::2` bugs.
 * Automation Action:
   * The label `~missed-SLO` is applied.
 * Example: <https://gitlab.com/gitlab-org/gitlab-ce/issues/61662>
@@ -365,11 +365,11 @@ Issues with the `~workflow::blocked`, `~workflow::design`, `~workflow::planning 
 
 ### Master broken categorization
 
-Issues or merge requests that have a label of `~master:broken` will have labels of `~P1` and `~S1` applied. This ensures that requests which break master are sufficiently categorized for reporting.
+Issues or merge requests that have a label of `~master:broken` will have labels of `~priority::1` and `~severity::1` applied. This ensures that requests which break master are sufficiently categorized for reporting.
 
 * Automation Condition: Open issue or merge request with `~master:broken` label.
 * Automation Action:
-  * The `~P1` and `~S1` labels are applied.
+  * The `~priority::1` and `~severity::1` labels are applied.
 * Example: <https://gitlab.com/gitlab-org/gitlab-ee/issues/12363>
 * Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-reminders.yml#L27-45>
 
@@ -412,7 +412,7 @@ Merged merge requests with the `~"Community contribution"` label and no mileston
 GitLab values the time spent by contributors on reporting bugs. However, if a bug remains inactive for a very long period, it will qualify for auto-closure.
 The following is the policy for identification and auto-closure of inactive bugs.
 
-- If a `~"S3"` or `~"S4"` `~"bug"` issue is inactive for at least 12 months, it will be
+- If a `~"severity::3"` or `~"severity::4"` `~"bug"` issue is inactive for at least 12 months, it will be
 identified as eligible for auto-closure. At this point, the following actions occur:
     - Application of `~"vintage"` to indicate the issue has been inactive for a year.
     - Application of `~"stale"` to indicate that it is currently being identified for auto-closure.

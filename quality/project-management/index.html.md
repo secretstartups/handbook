@@ -73,7 +73,7 @@ This board shows the current ownership of workload / issues with assignees as th
 
 ### Prioritization
 
-This board is for prioritization with priorities as the dimension (`~P1` `~P2` `~P3` `~P4`).
+This board is for prioritization with priorities as the dimension (`~priority::1` `~priority::2` `~priority::3` `~priority::4`).
 
 Most important is left most and gradually moves to least urgent.
 
