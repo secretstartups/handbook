@@ -26,6 +26,9 @@ You can reach out to the Legal Team on the *[`#legal`](https://gitlab.slack.com/
 ### 2. Requests with Deliverables
 If you are making a request that requires some sort of deliverable, please use the list below to determine how you should reach out. If you are unsure where your non-Slack request fits, refer to [no. 6 below](/handbook/legal/#6-other-legal-requests). 
 
+### 3. Sales Guide: Collaborating with GitLab legal 
+**Are you a member of GitLab Sales?** Please find additional information related to engaging legal within the [Sales Guide: Collaborating with GitLab Legal](https://about.gitlab.com/handbook/legal/customer-negotiations/)
+
 ## Requesting Legal Services
  
 How do I request the services I need?
@@ -39,29 +42,21 @@ If you have a request that involves confidential and/or sensitive information, i
 
 For more information on Attorney-Client Privilege, see the [General Topics and FAQs](/handbook/legal/#general-topics-and-faqs) below. 
 
-### 3. Customer Related Contracts and Questions
 
-* All questions / requests for the legal team regarding Customer related matters are to follow the process stated [here](/handbook/business-ops/order-processing/#process-for-agreement-terms-negotiations-when-applicable-and-contacting-legal) 
-* The legal team uses Contract Requests to track and manage all incoming requests. 
- 
-A presentation overview of the process to engage GitLab Legal can be found [HERE](https://docs.google.com/presentation/d/1lesWNvPAFd1B3RuCgKsqQlE85ZEwLuE01QpVAKPhQKw/edit#slide=id.g5d6196cc9d_2_0)
-
-A video tutorial can be found [HERE](https://www.youtube.com/watch?v=CIWdsqRX7E0&amp=&feature=youtu.be) 
-
-### 4. Vendor, Partner, and other "To Pay" Contracts
+### 3. Vendor, Partner, and other "To Pay" Contracts
 
 If you are looking for a new vendor, need an NDA for a vendor or partner, or need review of a vendor or partner contract, these services are handled by the Procurement Team. For purposes of this process, anyone that will receive payment from GitLab is considered a vendor. 
 
 Legal will be brought in by Procurement for escalations only. Please see the [Procurement Page](/handbook/finance/procurement/) for more information on the Vendor Management Process. Once a Vendor NDA and/or Contract has been completed, it should be uploaded by the requestor into our contract management database tool [ContractWorks](/handbook/legal/vendor-contract-filing-process/). If you need a license, you will need to submit an Access Request.
 
-### 5. Requests for Insurance Certificate
+### 4. Requests for Insurance Certificate
 
 If you need an insurance certificate (other than for worker's compensation) you can send an email request directly to our insurance broker at *[ABD](mailto:abdcertdept@theabdteam.com).*    You will need to include contact information for the customer seeking to be added to the certificate and any other specific requirements relating to the coverage. If you require an insurance certificate for worker's compensation email: payroll@gitlab.com with the same information.
 
 For a [summary of GitLab's insurance coverage](https://drive.google.com/file/d/17pvhu9cKtoQatO7xOlKbwSoOXDEJRpiQ/view?usp=sharing) please refer to this link.
 
 
-### 6. Other Legal Requests 
+### 5. Other Legal Requests 
 
 For requests that are not Customer related, but require input from the Legal team or a deliverable such as assistance with questionnaires, engineering license agreements, open source question, internal operation matters, or compliance questions, please tag the relevant Legal team member and ask your questions in the issue that relates to your question. If there is not an issue related to your question, please create an issue in the [Legal and Compliance Issue Tracker](https://gitlab.com/gitlab-com/legal-and-compliance/issues) using the issue template. 
 
@@ -169,7 +164,6 @@ We are committed to upholding fundamental human rights and believe that all huma
 
 ## Legal Processes
  
-- [Generating Contracts with Conga Contracts](/handbook/legal/customer-negotiations/index.html)
 - [Uploading Third Party Contracts to ContractWorks](/handbook/legal/vendor-contract-filing-process/)
 - [Issue Tracker Workflows](/handbook/legal/Issue-Tracker-Workflows/)
 
