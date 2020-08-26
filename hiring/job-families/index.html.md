@@ -39,7 +39,7 @@ For each job at GitLab, the job family is the single source of truth for the exp
 - About GitLab
 - Compensation
 
-The position description will be used _both_ for the [Vacancy Creation Process](/handbook/hiring/vacancies/#vacancy-creation-process), as well as serving as the requirements that team members and managers alike use in conversations around career development and performance management.
+The position description will be used _both_ for the [Vacancy Creation Process](/handbook/hiring/recruiting-framework/req-creation/#opening-vacancies-in-greenhouse), as well as serving as the requirements that team members and managers alike use in conversations around career development and performance management.
 
 ### The job family does not contain
 
