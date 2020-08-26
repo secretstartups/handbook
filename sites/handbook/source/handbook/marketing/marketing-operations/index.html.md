@@ -554,6 +554,26 @@ This is when a package or piece of mail is sent out.
 | Delivered | Package was received by the addressee | Yes |
 | Responded | Recipient took action or CTA (trackable on PURLs | Yes |
 
+**This is for the Alyce Integration**
+
+**Bizible:** TBD is these will be tracked
+
+| Member Status | Definition | Success |
+| ------------- | ---------- | ------- |
+| Gift is being researched | Alyce Gift Created |  |
+| Need more information for gift| Alyce needs more information on the recipient |  |
+| Gift options ready| Gift options ready to be viewed  |  |
+| Gift invitation in fulfillment | Alyce gift invitation sent to fulfillment | |
+| Gift invitation sent by email | Alyce gift invitation sent with email | |
+| Physical gift invitation sent | Alyce physical gift invitation sent|  |
+| Gift invitation delivered | Alyce physical gift invitation delivered|  |
+| Gift invitation viewed | Alyce gift invitation viewed by the recipient|  |
+| Gift accepted | Alyce gift accepted by the recipient|  |
+| Gift expired | Alyce gift expired|  |
+| Gift declined | Alyce gift declined by the recipient|  |
+| Gift disabled | Alyce gift disabled or deleted|  |
+
+
 #### Executive Roundtables
 
 This is used for campaigns that can either be organised through a 3rd party vendor or GitLab, covering both in-person and virtual roundtables. It is a gathering of high level CxO attendees run as an open discussion between the moderator/host, GitLab expert and delegates. There usually aren't any presentations, but instead a discussion where anyone can chime in to speak. The host would prepare questions to lead discussion topics and go around the room asking delegates questions to answer.
