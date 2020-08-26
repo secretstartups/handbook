@@ -2,12 +2,15 @@
 layout: handbook-page-toc
 title: "Go-To-Market Technical Documentation"
 ---
+<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+{::options parse_block_html="true" /}
 
 ## How to use this documentation
 
@@ -41,6 +44,7 @@ Code Units:
 | Owner Team    | Account_Owner_Team__c                      | ATAM_Next_Owner_Team__c     |
 | Sales Segment | Ultimate_Parent_Sales_Segment_Employees__c | JB_Test_Sales_Segment__c    |
 | Territory     | Account_Territory__c                       | ATAM_Territory__c           |
+
 </details>
 
 ## Salesforce Record Sharing And Visibility Settings 
@@ -182,6 +186,8 @@ Code Unit:
 </details>
 
 ## Opportunity Stage Progression Tracking
+<details>
+  <summary markdown="span">Primary Quote System Info</summary>
 
 **Business Process this supports** The sales cycle and analytics.
 
@@ -189,6 +195,7 @@ Code Unit:
 
 **Logic Locations**
 * To be added once functionality is in Production
+</details>
 
 ## Block Salesforce From Transferring Historical Opp Owners On Account Owner Transfers
 <details>
@@ -239,6 +246,8 @@ Code Units:
 </details>
 
 ## Lead Segmentation
+<details>
+  <summary markdown="span">Order Type System Info</summary>
 
 **Business Process this supports:** [Sales Segmentation](/handbook/sales/field-operations/gtm-resources/#segmentation)
 
@@ -256,6 +265,8 @@ Code Units:
 **Logic Locations:** [LeadClass.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/LeadClass.cls)
 Code Unit: 
    * determineSegment
+
+</details>
 
 ## Gainsight 
 - The Gainsight docuemntation has been migrated to it's own page. Please update any bookmarks for the Gainsight Go To Market Technical Documentation page to its new home:
