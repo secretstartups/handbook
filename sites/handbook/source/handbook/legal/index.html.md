@@ -23,11 +23,12 @@ You can reach out to the Legal Team on the *[`#legal`](https://gitlab.slack.com/
 
 **Please do not share confidential information on Slack that is not meant for the entire company to see, and do not use it to seek legal advice.**
 
-### 2. Requests with Deliverables
-If you are making a request that requires some sort of deliverable, please use the list below to determine how you should reach out. If you are unsure where your non-Slack request fits, refer to [no. 6 below](/handbook/legal/#6-other-legal-requests). 
-
-### 3. Sales Guide: Collaborating with GitLab legal 
+### 2. Sales Guide: Collaborating with GitLab legal 
 **Are you a member of GitLab Sales?** Please find additional information related to engaging legal within the [Sales Guide: Collaborating with GitLab Legal](https://about.gitlab.com/handbook/legal/customer-negotiations/)
+
+
+### 3. Requests with Deliverables
+If you are making a request that requires some sort of deliverable, please use the list below to determine how you should reach out. If you are unsure where your non-Slack request fits, refer to [no. 6 below](/handbook/legal/#6-other-legal-requests). 
 
 ## Requesting Legal Services
  
@@ -42,9 +43,7 @@ If you have a request that involves confidential and/or sensitive information, i
 
 For more information on Attorney-Client Privilege, see the [General Topics and FAQs](/handbook/legal/#general-topics-and-faqs) below. 
 
-
 ### 3. Vendor, Partner, and other "To Pay" Contracts
-
 If you are looking for a new vendor, need an NDA for a vendor or partner, or need review of a vendor or partner contract, these services are handled by the Procurement Team. For purposes of this process, anyone that will receive payment from GitLab is considered a vendor. 
 
 Legal will be brought in by Procurement for escalations only. Please see the [Procurement Page](/handbook/finance/procurement/) for more information on the Vendor Management Process. Once a Vendor NDA and/or Contract has been completed, it should be uploaded by the requestor into our contract management database tool [ContractWorks](/handbook/legal/vendor-contract-filing-process/). If you need a license, you will need to submit an Access Request.
