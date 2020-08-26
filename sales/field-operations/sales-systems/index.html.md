@@ -17,9 +17,9 @@ Below is a list of the different technical skill sets found on the Sales System 
 
 | Role | Expertise |
 | ------ | ------ |
-| Business Systems Architect | Project lead in charge of gathering business requirements from customers and developing them into technical specifications. | 
+| Business Systems Architect | Project lead in charge of gathering business requirements from customers and developing them into technical specifications. |
 | [Business Systems Administrator](https://about.gitlab.com/job-families/sales/business-systems-administrator/) | Business analyst experienced in Salesforce.com platform configuration, process automation, and business workflows.   |
-| [Business Systems Engineer](https://about.gitlab.com/job-families/sales/business-systems-engineer/) | Software engineer experienced in Salesforce.com platform APEX development, API based integrations, and the software development life cycle. | 
+| [Business Systems Engineer](https://about.gitlab.com/job-families/sales/business-systems-engineer/) | Software engineer experienced in Salesforce.com platform APEX development, API based integrations, and the software development life cycle. |
 
 ## Working with us
 * [Sales System Agile Board](https://gitlab.com/groups/gitlab-com/-/boards/1117318?label_name[]=SalesSystems)
@@ -40,7 +40,7 @@ Below is a list of the different technical skill sets found on the Sales System 
 5.  Please review the status of any issue on our agile [board.](https://gitlab.com/groups/gitlab-com/-/boards/1117318?label_name[]=SalesSystems)
 
 #### Getting help with Bugs
-* There is an important difference to make between bugs and features. Lucky enough we can explore the differences on the [Feature Vs Bug](/handbook/product/product-processes/#issues.html) section of the handbook. This should help in digging deeper but for a quick refernce: 
+* There is an important difference to make between bugs and features. Lucky enough we can explore the differences on the [Feature Vs Bug](/handbook/product/product-processes/#issues.html) section of the handbook. This should help in digging deeper but for a quick refernce:
    * Bug
       * If somehting worked yesterday and not today.
       * If you are encountering error codes that tell you to contact and administrator (different from a validation rule error).
@@ -49,30 +49,30 @@ Below is a list of the different technical skill sets found on the Sales System 
       * If something works but you want it to work in a different manner.
       * If something was released and additional functionality is desired.
       * If something is released and the requierments change.
-* The Systems team works to address Bugs in a timely fashion that is aligned with the severity of the bug. If you think that a bug was released open an issue by following the processes above and add the `SalesSystems::Bug` issue label. The Systems team will review this list on a daily basis to address any bugs and plan work on them. 
-* If there is a severe bug that is impacting the flow of business (i.e. No one can make a quote, No accounts are being created, Opportunities cannot be closed Won) follow the process as descibed above as well as the follow points: 
+* The Systems team works to address Bugs in a timely fashion that is aligned with the severity of the bug. If you think that a bug was released open an issue by following the processes above and add the `SalesSystems::Bug` issue label. The Systems team will review this list on a daily basis to address any bugs and plan work on them.
+* If there is a severe bug that is impacting the flow of business (i.e. No one can make a quote, No accounts are being created, Opportunities cannot be closed Won) follow the process as descibed above as well as the follow points:
    * Share the issues in the `sales-support` Slack channel
 
 ### Working our backlog of Issues
 * [Sales System Backlog](https://gitlab.com/groups/gitlab-com/-/boards/1903910?&label_name[]=SalesSystems%3A%3ABackLog)
 * In order to align with our working style, the Systems team prioritizes working on issues in this order before looking into our backlog:
    1. Closing out all issues in the current milestone
-   2. Addressing any issues that are bugs 
+   2. Addressing any issues that are bugs
    3. Collaborating with Gitlabbers on Issues that are critical for their current milestone.
-* The Sales Systems team alternates our focus every other Monday between releasing our latest updates and reviewing issues in the backlog. Once in the Backlog the Systems team assigness each ticket a priority (`P1`,`P2`,`P3`,`P4`)
+* The Sales Systems team alternates our focus every other Monday between releasing our latest updates and reviewing issues in the backlog. Once in the Backlog the Systems team assigness each ticket a priority (`priority::1`,`priority::2`,`priority::3`,`priority::4`)
 * This status aims to facilitate the process at which the systems team can pull issues out of the backlog and to also provide some context to requstors about when their issues will be reviewed.
-  * `P1`
-    * When will the team review: These issues are reviewed every milestone. This is the first group of issues that the Systems team pulls from when looking to pull issues into a milestone. 
-    * Issues likely to get this tag: Extremly quick, easy and straight forward issues that we can't address in the next milestone. Issues that are relevant to major releases but not actively being worked on. 
-  * `P2`
+  * `priority::1`
+    * When will the team review: These issues are reviewed every milestone. This is the first group of issues that the Systems team pulls from when looking to pull issues into a milestone.
+    * Issues likely to get this tag: Extremly quick, easy and straight forward issues that we can't address in the next milestone. Issues that are relevant to major releases but not actively being worked on.
+  * `priority::2`
     * When will the team review: These issues are reviewed every month.
-    * Issues likely to get this tag: These issue could be a part of larger initiatives but may be considered "nice to haves". These are enhancements to existing systems and processes that are in place.   
-  * `P3`
+    * Issues likely to get this tag: These issue could be a part of larger initiatives but may be considered "nice to haves". These are enhancements to existing systems and processes that are in place.
+  * `priority::3`
     * When will the team review: These issues are reviewed every quarter.
     * Issues likely to get this tag: These issues could be composed of projects that must be worked on but have no pending deadline.  These could be overhauls of projects that have an impact on system performance but no little to no noticable affect to the field
-  * `P4`
+  * `priority::4`
     * When will the team review: These issues are reviewed every year.
-    * Issues likely to get this tag: These issues could be vauge issues that do not have a direct ask, that should be epics, that provide little to no ROI for the greater field. 
+    * Issues likely to get this tag: These issues could be vauge issues that do not have a direct ask, that should be epics, that provide little to no ROI for the greater field.
 
 ## Technical Documentation
 *  [Go-To-Market Technical Documentation](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/)
