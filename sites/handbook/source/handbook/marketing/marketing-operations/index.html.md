@@ -7,7 +7,7 @@ title: "Marketing Operations"
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
-{:toc .hidden-md .hidden-lg}
+{:campaign tag .hidden-md .hidden-lg}
 
 ## Marketing Operations
 
@@ -171,10 +171,11 @@ Marketing Program Managers track costs associated with campaigns - such as event
 
 **The following steps are used to create and manage campaign tags:**
 
-1. Event Owners create the campaign tag in the budget document as well as add a link to a Finance issue if it exists.
-1. Finance is notified by the budget document to open the tag in NetSuite, which then updates Expensify nightly.
-1. Event Owners create the Finance issue for approvals and the MPM issue for tracking and add the same tag to both.
-1. MPM receives confirmation from responsible team (i.e. Field Marketing, Content, etc.) that the budget for the campaign has been approved and uses this as the exact same name to set up the Salesforce campaign.
+1. Event Owners create the campaign tag in the budget document, link to a procurement issue if it exists, and also the main tactic issue. 
+1. Finance is notified by either the Procurement issue or the main tactic issue (if the tactic costs less than $5,000 and has no contract that needs to be signed) that a campaign tag needs to be created.  NetSuite, which then updates Expensify nightly.
+1. The Salesforce campaign is set up to match the campaign tag exactly, so that it can be used as a unique identifier and tracked across multiple systems. We only need to set up campaign tags for events/campaigns or if there are multiple vendors for the same budget line item that we are trying to track.
+1. If you are a Field Marketer, more information on campaign tags for Field Marketing can be [found here](https://about.gitlab.com/handbook/marketing/revenue-marketing/field-marketing/#field-marketing-campaign-tags). 
+1. For the MPM team, additional details can be found in the campaign epic. 
 
 **Things to Note:**
 
