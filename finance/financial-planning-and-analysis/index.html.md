@@ -46,7 +46,7 @@ title: "Financial Planning & Analysis"
 
 Purpose: GitLab's operating plan is a guideline to understand how much capital it needs and how the capital will be consumed. The operating plan helps GitLab answer questions like "how fast can we hire and when?"
 
-What: The operating plan is a three statement (Income Statement, Balance Sheet and Statement of Cashflow), non-GAAP bottoms-up plan that spans the current fiscal year. The revenue is driven off the GitLab revenue model and the expense part of the plan is at the headcount and vendor level. The Operating Plan will be a 90% confidence Plan. Additionally we will set stretch targets based on 50/50 confidence and will adjust the Operating Plan to give us the best chance to hit our stretch goals. Corporate bonus and sales goals will be set based on the stretch goals.
+What: The operating plan is a three statement (Income Statement, Balance Sheet and Statement of Cashflow), non-GAAP bottoms-up plan that spans the current fiscal year. The revenue is driven off the GitLab revenue model and the expense part of the plan is at the headcount and vendor level. The Operating Plan will be a 90% confidence Plan. Additionally we will set stretch targets based on 50/50 confidence and will adjust the Operating Plan to give us the best chance to hit our stretch goals. Corporate bonus and sales commissions will be set based on the stretch goals.
 
 Governance: The Operating Plan is approved by the board of directors every year.
 
