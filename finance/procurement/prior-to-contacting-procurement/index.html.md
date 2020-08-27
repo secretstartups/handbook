@@ -17,7 +17,7 @@ Prior to engaging Procurement, please review the below guidelines:
 1. Before sharing details and/or confidential information regarding GitLab business needs, obtain a [Mutual Non-Disclosure Agreement](https://drive.google.com/file/d/1kQfvcnJ_G-ljZKmBnAFbphl-yFfF7W5U/view?usp=sharing) from the potential vendor(s). Refer to the [Signature Authorization Matrix](/handbook/finance/authorization-matrix/) for signing authority. 
    - Create a vendor contract request issue to facilitate this process.
    - The issue creator is responsible for obtaining signature and uploading the signed NDA to Contract Works
-1. All vendors must adhere to the [GitLab Partner Code of Ethics](/handbook/people-group/code-of-conduct/#partner-code-of-ethics). It is mandatory all vendors contractually adhere to this if they would like to do business with us. (Note these are typically not required in event related agreements unless the vendor is providing services).
+1. All vendors must adhere to the [GitLab Partner Code of Ethics](/handbook/people-group/people-policy-directory/#partner-code-of-ethics). It is mandatory all vendors contractually adhere to this if they would like to do business with us. (Note these are typically not required in event related agreements unless the vendor is providing services).
 1. Identify your bid requirements based on your estimated spend:
      >$0-$100K: No bid
 
