@@ -97,6 +97,12 @@ As people, we have a natural tendency to make assumptions about others, which me
 
 **How to apply overcoming unconscious bias:** There are a host of free resources available to overcome unconscious bias. Managers and team members should spend time understanding their bias. Take the [implicit-association test (IAT)](company/culture/inclusion/unconscious-bias/#can-i-test-it/) as a first step. Block time on your calendar to take [Diversity, Inclusion, and Belonging](/company/culture/inclusion/) related training every quarter. Apply empathy to discussions amongst your team and put yourself in others shoes to better understand their perspective. 
 
+### Take Time Out To Learn
+
+Managers can make it clear that they have a vested stake in team members career development by advocating for their team to take time to learn. Team members look to their managers to provide learning guidance. As a People Leader, send your team interesting articles, thought leadership studies, videos, etc, on the latest trends in your domain. Managers should advocate to take time to learn for reskilling and upskilling on a range of topics relevant to the job. Managers can set an example by fostering a learning culture within the organization by sending a strong message that it is okay to take time out to learn.
+
+**How to apply taking time out to learn:** People leaders can send a clear message to their teams by sending them weekly learning excrcises to break up the workweek. Try sending out interesting webinars and articles that are relevant to their job family. Encourage team members to take advantage of our tuition reimbursement policy to grow professionally. Managers can also encourage their team to block a portion of their week for focusing on professional development.  
+
 ## Summary
 
 Building trust takes time and energy. These are not the only strategies teams can apply to build trust but it is a start. Use this page as a guide to building a cohesive and collaborative team. Trust among teammates is the foundation of almost everything we do at GitLab. 
