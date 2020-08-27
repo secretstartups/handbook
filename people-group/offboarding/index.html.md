@@ -29,7 +29,7 @@ A voluntary offboarding occurs when a team member informs his or her manager of 
 
 If you are a current team member and you are thinking about resigning from GitLab, we encourage you to speak with your manager, your assigned PBP, or another trusted team member to discuss your reasons for wanting to leave. At GitLab we want to ensure that all issues team members are facing are discussed and resolved before a resignation decision has been made.  This will allow GitLab the ability to address concerns and in return foster a great work environment.
 
-If resignation is the only solution after you have discussed your concerns, please communicate your intention to resign to your manager. This will trigger the following voluntary offboarding steps outlined below:
+If resignation is the only solution after you have discussed your concerns, please communicate your intention to resign to your manager. We would advise you to review your employment contract for the statutory notice period and determine your last working day. Then with your manager you can discuss the time needed to work on a handover/transition. If there’s no notice period included in your employment contract we would advise that you provide GitLab 2 weeks of notice. Depending on the situation and local laws, GitLab may choose to provide you payment in lieu of notice.  Hereafter please review the below process which will be followed for a voluntary resignation. 
 
 ### Voluntary Process
 
