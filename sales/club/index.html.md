@@ -41,3 +41,59 @@ For GitLab's FY21 President's Club, 42 GitLab team members (along with 1 guest p
 - Sales management must have a total of 36 SAL months under management during the fiscal year to qualify (e.g. 1 SAL all year would be 12 SAL months). 
 
 Please direct any questions to your manager.
+
+## Club 2021 FAQ
+
+**What is the latest on President’s Club 2020?**
+
+We continue to adapt to the global health and travel challenges, and after a lot of careful consideration, we have made the decision to postpone the 2020 Presidents Club until next year. [2020 winners](https://docs.google.com/presentation/d/1XnXGkNagz6ZbJIqzBphoXdAs-Vra59Kjrj4IT_YEyp4/edit#slide=id.g883d59c798_4_0) will be combined with 2021 winners in the same event. 
+
+**What are the dates and location of President’s Club 2021?**
+
+[President’s Club 2021](/handbook/sales/club/) will be at the [Ritz Carlton in Maui, Hawaii](https://www.ritzcarlton.com/en/hotels/kapalua-maui) from May 11-14, 2021.  
+
+**What happens if I am a President’s Club recipient in both 2020 and 2021?**
+
+If you are a President’s Club winner in <ins>both 2020 and 2021</ins>, you will receive two extra days at the Ritz Carlton in Maui for you and your guest. 
+
+**Do I get extra time if I’m traveling from EMEA/APAC?**
+
+While we understand that the trip is long, there will not be extra time allotted to team members traveling from EMEA or APAC. However, you’re always welcome to book with our rate up to 3 days pre- and/or post-event on your own.  
+
+**How do I qualify for President’s Club?**
+
+Please see the [How to Qualify](/handbook/sales/club/#how-to-qualify) section above. 
+
+**How are President’s Club winners selected?**
+
+Please see the [Selection Criteria](/handbook/sales/club/#selection-criteria) section above. 
+
+**What is the schedule for President’s Club?**
+
+- May 11 - Travel Day & Welcome Reception
+- May 12 - Planned activities; Club Dinner
+- May 13 - Planned activities; Farewell Reception
+- May 14 - Travel Day; two-time winners (2020 and 2021) will stay 
+- May 15 - Relaxation day for two-time winners 
+- May 16 - Travel Day for two-time winners
+
+**If I am selected as a President’s Club winner, can I bring a guest?**
+
+Yes! Your significant other or guest is invited (and encouraged!) to attend Club with you. Please note that guests must be at least 21 years of age. Club is something truly special – a time for us to step back and celebrate your incredible hard work and accomplishments – and we want your guest to be a part of that! 
+
+**Is my guest’s travel covered by GitLab?**
+
+Yes, this trip will be all-inclusive for both you and your guest. Travel, hotel, meals, and activities will be covered by GitLab.
+
+**Can I bring my kids to Club?**
+
+Club is an adult-only event that is intended for team members to spend time together, celebrate, and build relationships on the foundation of their success and contribution to the company. 
+
+If you have a family member or child that requires 24 hour care, or some other unique circumstance that jeopardizes your ability to attend, we can explore exceptions. For additional information, please reach out to Cheri Holmes and Libby Schulze via email. 
+
+**When will we announce Club 2021 winners?**
+
+Winners for President’s Club 2021 will be announced during the Awards Dinner at Sales Kickoff (SKO) taking place from Feb 8-12, 2021. For more information about SKO, please see [this Handbook page](/handbook/sales/training/SKO/).
+
+Reference: [GitLab Events Code of Conduct](https://about.gitlab.com/company/culture/contribute/coc/)
+
