@@ -164,8 +164,8 @@ The chatops bot in the [`#production` Slack Channel](https://gitlab.slack.com/ar
 
 The current EOC can be contacted via the `@sre-oncall` handle in Slack, but please only use this handle in the following scenarios.
 1. You are unable to declare an incident and/or need assistance in [reporting an incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident).
-1. You need assistance in halting the depolyment pipeline. (note: this can also be accomplished by [reporting an incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) and labeling it as `~severity::2`.)
-1. For all other concerns please see the [Getting Assistance](/handbook/engineering/infrastructure/team/reliability/#getting-assistance) section
+1. You need assistance in halting the depolyment pipeline. note: this can also be accomplished by [reporting an incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) and labeling it as `~severity::2`.
+1. For all other concerns please see the [Getting Assistance](/handbook/engineering/infrastructure/team/reliability/#getting-assistance) section.
 
 ### Reporting an Incident
 
