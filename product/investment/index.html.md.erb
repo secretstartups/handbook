@@ -56,10 +56,8 @@ The following table provides scores for each of our DevOps stages and a comparis
 
 ## Investment by Group
 
-To be added.
-
-| Section - Stage:Group | Usage Driver | ASP Driver | SAM Driver | Total | % of Total |
-|-|-|-|-|-|-|
+| Section - Stage:Group | Usage Driver | ASP Driver | SAM Driver | Total | % of Total | Group Development Spend % | Score/Spend Difference |
+|-|-|-|-|-|-|-|-|
 <% # this calculates the total score across all stages needed to calculate the percent of total score %>
 <% totalScore = 0 %>
 <% data.sections.each do |sectionKey, section| %>
@@ -81,6 +79,7 @@ To be added.
     <% stage.groups.each do |groupKey, group| %>
       <% combinedScore = group.usage_driver_score.to_i + group.asp_driver_score.to_i + group.sam_driver_score.to_i %>
       <% percent_of_total = (combinedScore.to_f/totalScore.to_f)*100 %>
+      <% difference = group.group_development_spend_percent.to_f - percent_of_total%>
       <% groupLine=[] %>
       <% groupLine << "#{section.name} - #{stage.display_name}:#{group.name}" %>
       <% groupLine << group.usage_driver_score ? "#{group.usage_driver_score}" : "" %>
@@ -88,6 +87,8 @@ To be added.
       <% groupLine << group.sam_driver_score ? "#{group.sam_driver_score}" : "" %>
       <% groupLine << "#{combinedScore}" %>
       <% groupLine << "#{percent_of_total.round(1)}%" %>
+      <% groupLine << "#{group.group_development_spend_percent}%" if group.group_development_spend_percent %>
+      <% groupLine << "#{"+" if difference > 0}#{difference.round(1)}%" %>  
       <%= "| #{groupLine.join(' | ')} |" if groupLine %>
     <% end %>
   <% end %>
