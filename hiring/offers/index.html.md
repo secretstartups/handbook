@@ -11,7 +11,7 @@ title: "Offer Packages"
 
 ## Offers
 
-Before an offer is created, ensure the approval should go through [Greenhouse or BambooHR](/handbook/people-group/promotions-transfers/#offer-process-in-bamboohr-or-greenhouse).
+Before an offer is created, ensure the approval should go through [Greenhouse or BambooHR](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process).
 
 ### Offer Package in Greenhouse
 
