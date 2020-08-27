@@ -65,16 +65,14 @@ Gratuity is a statutory offering in India per The Payment of Gratuity Act, 1972 
 
 ## Loyalty Bonus Scheme
 
-GitLab has implemented a private loyalty bonus scheme since some tenures have been contracted through different employment types as we have worked through country conversion processes. Therefore, the GitLab loyalty bonus scheme will supplement gratuity based on the GitLab hire date vs the PEO hire date. 
+GitLab has implemented a private loyalty bonus scheme since some team members have been contracted through different employment types as we have worked through country conversion processes. Therefore, the GitLab Loyalty Bonus Scheme will supplement gratuity based on the GitLab hire date vs the PEO hire date. 
 
 **Elibility:** One can only claim Loyalty Bonus after retirement or resign from the service after completing 5 years of continuous service.
 
-**Forfeiture of Loyalty Bonus:** The full amount of Loyalty Bonus can be forfeited if a team member’s services have been terminated due to: a) His riotous or disorderly conduct or any other violent act; b) Committing an offence involving moral turpitude.
+**Forfeiture of Loyalty Bonus:** The full amount of Loyalty Bonus can be forfeited if a team member’s services have been terminated due to: a) Riotous or disorderly conduct or any other violent act; b) Committing an offence involving moral turpitude.
 
 **Calculation of Loyalty Bonus:**
 
-Loyalty Bonus Amount =   Last drawn Basic as on 2020-05-31 x Duration with GitLab before 2020-06-01 x 15/26 
+Loyalty Bonus Amount =  Last drawn Basic as on 2020-05-31 x Duration with GitLab before 2020-06-01 x 15/26 
 
-**Note:**
-
-- The Loyalty Bonus Amount is provided by GitLab to the team members. Any amount which GitLab will pay as Loyalty Bonus would be fully taxable for the team members. 
+**Note:** The Loyalty Bonus Amount is provided by GitLab to the team members. Any amount which GitLab will pay as Loyalty Bonus would be fully taxable for the team members. 
