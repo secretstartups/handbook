@@ -92,9 +92,15 @@ Note that this partitioning scheme can ultimately also be used to create an appl
 
 ##### Drawbacks
 
-Drawback 1: Duplication of manifests and layers records
+###### Drawback 1: Duplication of manifests and layers records
 
-Drawback 2: Duplication of blob meta-data in `manifests`
+With repository being the top-level entity, manifests and their layers are not being deduplicated (in contrast to model 1, where we don't store a given manifest twice). This is intentional to support the ability to separate data by repository internally (see partitioning).
+
+Since `manifests` contains the actual  payload of a manifest, too, this may have a significant effect on overall database size. It remains to be seen if this is mitigated by partitioning. This depends on the efficiency of deduplicating manifests, i.e. what the dedup factor is.
+
+###### Drawback 2: Duplication of blob meta-data in `layers`
+
+A blob has meta-data attached like its `digest`, the `size` or the detected `media_type_id`. This is stored in `blobs` but also in `layers`. The reason for this duplication is that we have queries that scan a range of manifests (e.g. all layers for a manifest). If we only had `manifests.digest`, we would have to lookup this information in `blobs`. This table in turn can only be queried efficiently by `digest`, rendering the lookups single-record queries and effectively a N+1 pattern. This is being mitigated by duplicating the information into `layers`.
 
 ##### Reality checks and TODOs
 
