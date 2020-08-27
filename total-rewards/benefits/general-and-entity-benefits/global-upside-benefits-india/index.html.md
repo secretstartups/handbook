@@ -73,14 +73,8 @@ GitLab has implemented a private loyalty bonus scheme since some tenures have be
 
 **Calculation of Loyalty Bonus:**
 
-Case-1: If the team member completes 5 years of continuous service with Global Upside
-
-Loyalty Bonus Amount =  Duration with GitLab before 2020-06-01 (Last drawn Basic x No. of years worked x 15/26) 
-
-Case-2: If the team member has not completed 5 years of continuous service with Global Upside
-
-Loyalty Bonus Amount = Last drawn Basic x No. of years worked x 15/26
+Loyalty Bonus Amount =   Last drawn Basic as on 2020-05-31 x Duration with GitLab before 2020-06-01 x 15/26 
 
 **Note:**
-- In Case-1, the gratuity amount will be paid by Global Upside and remaining will be paid by GitLab as loyalty bonus.
-- The Loyalty Bonus Amount is provided by GitLab to the team members. Any amount which GitLab will pay as Loyalty Bonus would be fully taxable for the team members. Maximum limit for Loyalty Bonus is 20 lakh INR.
+
+- The Loyalty Bonus Amount is provided by GitLab to the team members. Any amount which GitLab will pay as Loyalty Bonus would be fully taxable for the team members. 
