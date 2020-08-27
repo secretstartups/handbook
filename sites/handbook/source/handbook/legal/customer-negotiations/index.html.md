@@ -10,7 +10,7 @@ title: "Sales Guide: Collaborating with GitLab Legal"
 {:toc .hidden-md .hidden-lg}. 
 ## OVERVIEW 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/snb-1ENQitI" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/snb-1ENQitI" {:target="_blank"} frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 Thank you for visiting! The purpose of this resource is to provide Sales reps assistance on: 
