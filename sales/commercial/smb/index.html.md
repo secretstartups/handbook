@@ -73,6 +73,9 @@ True-ups are conversations that often come to the table with customers during re
 
 ### Solutions Architect & Technical Account Manager Rules of Engagement
 - Follow the [Commercial Sales standards](/handbook/customer-success/comm-sales/#additional-engagement-guidelines-for-sales) for engaging a Technical Account Manager or Solution Architect into the conversation with a customer or prospect. 
+- If limited on resources, encourage clients to submit questions to the following communities:
+  - Community Forum: https://forum.gitlab.com/
+  - Reddit: https://www.reddit.com/r/gitlab/
 
 #### Renewals (WIP)
 #### Discount Approval Process (WIP)
