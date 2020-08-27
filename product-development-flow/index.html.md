@@ -238,7 +238,7 @@ You can view all the work in happening in this track [on this board](https://git
 
 ## Build track  
 
-The build track is where we plan, develop, and deliver value to our users by building [MVCs](/handbook/product/product-principles/#the-minimal-viable-change-mvc), fixing defects, patching security vulnerabilities, enhancing user experience, and improving performance. DRIs across engineering disciplines involving [Design, Backend, Frontend and Quality](/handbook/product/product-processes/#pm-em-ux-and-set-quad-dris) work closely together to implement MVCs while in close collaboration with the Product Manager. Decisions are made quickly if challenges arise. We make sure to instrument [usage](/handbook/product/product-processes/#instrumentation-for-gitlabcom/) and performance measurements, so once MVCs are delivered to the hands of customers, feedback is captured quickly for learnings to refine the next iteration.
+The build track is where we plan, develop, and deliver value to our users by building [MVCs](/handbook/product/product-principles/#the-minimal-viable-change-mvc), fixing defects, patching security vulnerabilities, enhancing user experience, and improving performance. DRIs across engineering disciplines involving [Design, Backend, Frontend and Quality](/handbook/product/product-processes/#pm-em-ux-and-set-quad-dris) work closely together to implement MVCs while in close collaboration with the Product Manager. Decisions are made quickly if challenges arise. We make sure to instrument [usage](https://about.gitlab.com/handbook/product/performance-indicators/#instrument-tracking) and track [product performance](handbook/product/product-processes/#product-metrics), so once MVCs are delivered to the hands of customers, feedback is captured quickly for learnings to refine the next iteration.
 
 ### Build Goals & Outcomes
 
@@ -290,6 +290,7 @@ Labels: `workflow::ready for development`, `workflow::In dev` (along with `workf
 The develop and test phase is where we build the features and test them before launch:
 
 1. Engineering teams move items into `workflow::ready for development` and apply the deliverable as they commit to them, in alignment with the PM.
+1. PM works with engineering to ensure product instrumentation and dashboarding requirements are clear for implementation.
 1. When the milestone arrives, engineering teams execute on the scheduled work. Acceptance criteria as set forth in the issues must be met before a feature is deemed complete.
 1. In parallel with development, the PM creates release post content, collaborating with Product Marketing Manager (PMM) on messaging and positioning
 1. Work deemed out of scope or incomplete by engineering is taken back into the plan phase for refinement and rescheduling for completion. The label `workflow::planning breakdown` should be reapplied.
