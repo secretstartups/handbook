@@ -64,7 +64,7 @@ You may choose to mark confidential by selecting Make this epic confidential che
 ### Child Epics
 
 A child epic is a sub epic created within the parent epic. You may think about it like a folder with sub folders and multiple files. Child epics may be added to a parent epic.  
-(INSERT IMAGE)
+![epic organisation](/images/handbook/people-group/EPIC_GRAPHIC.png)
 
 To add a child epic:
 1. Navigate to the parent epic, click the add dropdown button
@@ -84,13 +84,11 @@ An epic contains a list of issues and an issue can be associated with at most on
 
 ### How to Add an Issue to an Epic
 
-1. In the epic, click the Add dropdown button.
+In the epic, click the Add dropdown button.
 
-1. [INSERT IMAGE]
+![epic dropdown](/images/handbook/people-group/add_issue_to_epic_1.png)
 1. Click Add an existing issue
 1. Either paste the link of the issue or enter the issue id
-
-1. [INSERT IMAGE]
 1. If there are multiple issues to be added, press the spacebar and repeat this step 
 1. Click Add
 
@@ -99,11 +97,15 @@ An epic contains a list of issues and an issue can be associated with at most on
 
 For an existing issue, navigate to the side bar,
 
-[INSERT IMAGE]
+![issue sidebar](/images/handbook/people-group/show_epic_in_side_bar_2.png)
 
-click Epic, type in the title of the epic you want to add and then select it from the drop down menu.
+click epic, type in the title of the epic you want to add and then select it from the drop down menu.
 
-[INSERT IMAGE]  
+![issue dropdown](/images/handbook/people-group/add_epic_to_issue_dropdown_3.png)
+
+Once the desired epic has been selected, it will be shown on the issue like this:
+
+![issue sidebar](/images/handbook/people-group/epic_added_to_issue_4.png)
 
 
 ### Helpful Tips:
@@ -128,9 +130,13 @@ You can review a merge request to provide feedback to the author. You can start 
 
 To review a merge request:  
 1. Click on the "Changes" tab in the merge request.
-1. Write your comment on a diff and click on the start a review button. 
+1. Click on the line you want to comment on, using the 'add a comment icon'
 
-1. [INSERT IMAGE]
+![comment icon](/images/handbook/people-group/comment_icon_in_diff_5.png)
+
+1. Write your comment in the dialogue box and click on the start a review button. 
+
+![comment dialogue](/images/handbook/people-group/start_a_review_dialogue_box_6.png)
   
 1. To add more comments to a review, start writing a comment as normal and click the ‘Add to review’ button.
 1. To resolve a thread, when replying to a comment, click the checkbox to resolve thread. 
@@ -139,14 +145,14 @@ To review a merge request:
 
 ### Suggesting Changes to a Merge Request
 
-You can suggest changes in the Merge Request Diff threads. The Merge Request author is able to apply these suggestions with a click, which will generate a commit in the merge request.
+You can suggest changes in the merge request diff threads. The Merge Request author is able to apply these suggestions with a click, which will generate a commit in the merge request.
 
 1. Choose a line to be changed, click add a comment icon
 
-1. [INSERT IMAGE]
+
 1. Then click on the Insert suggestion icon in the toolbar
 
-1. [INSERT IMAGE]
+
 1. In the comment, add your suggestion to the pre-populated code block
 
 1. [INSERT IMAGE]
