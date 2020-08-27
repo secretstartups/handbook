@@ -65,14 +65,15 @@ The action items created from the “Renewal Review” meeting should be incorpo
 
 For greater predictability across the customer base for renewal, upselling, downgrade, and churn, tracking Opportunity Health and Risks is incorporated into Gainsight. This process creates tighter collaboration with the overall CRO Organization and the rest of GitLab.
 
+To learn the full process, watch [Opportunity Health and Risks Process video](https://www.youtube.com/watch?v=taucYmcWZ6U&feature=youtu.be).
+
 The [Renewal CTA](#timeframe) will include a step for the TAM to update the Opportunity information within Gainsight. The TAM can and should update the Opportunity Health and Risks throughout the renewal when something changes or because of new information.
 
 To access this information, TAMs should either:
-* On the Renewal CTA, click the “1” next to “Call to Action” and select “New GS Opportunity”, OR
-* On the C360, scroll down to the Opportunities section, find the Opportunity to edit and click the pencil icon to edit the relevant fields
+* Preferred method: on the Renewal CTA, click the “1” next to “Call to Action” and select "Gainsight Opportunity”, OR
+* Alternative method: On the C360, scroll down to the Opportunities section, find the Opportunity to edit and click the pencil icon to edit the relevant fields
 
 This can then be discussed with the [Account Team](/handbook/customer-success/account-team/) during account reviews.
-
 
 ### Fields
 
@@ -105,3 +106,6 @@ Opportunity Health is currently synced from the `TAM Sentiment` on the Account a
 
 ##### TAM Notes
 This is where the TAM can enter notes on this specific opportunity and will be saved to the Opportunity record.
+
+### Manually Creating the Renewal CTA
+
