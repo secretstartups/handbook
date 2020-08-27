@@ -108,13 +108,15 @@ There are a few steps to get this enabled for personal meetings:
 Now all meetings that use your Personal Meeting ID (PMI) will require you to "admit" anyone who joins the meeting.
 
 ### Enable passcodes for all meetings
-*Please keep in mind that starting 2020-09-27, all meetings will be required to have a Passcode or a Waiting Room enabled*
+* *Please keep in mind that starting 2020-09-27, all meetings will be required to have a Passcode or a Waiting Room enabled*
+* *Please remember that if you are part of an interview team, your personal meeting room that is used for scheduling interviews should not have passwords on them but should have the waiting room enabled.*
 
 1. Sign into the Zoom web portal and navigate to [Settings](https://zoom.us/profile/setting).
 1. In the Security section, verify that your passcode settings are enabled for new meetings, personal meeting ID meetings and instant meetings.
 1. If the settings are disabled, click the toggle to enable them. If a verification dialog displays, choose Turn On to verify the change.
 
 ### Enable passcodes for existing meetings 
+* *Please remember that if you are part of an interview team, your personal meeting room that is used for scheduling interviews should not have passwords on them but should have the waiting room enabled.*
 
 ***Method 1 (recommended):***
 1. Once you have identified the meetings that need to be updated ***and*** have enabled passcodes for all meetings, go to your Google Calendar  
