@@ -74,6 +74,8 @@ To access this information, TAMs should either:
 * Simpler method: on the Renewal CTA, click the “1” next to “Call to Action” and select "Gainsight Opportunity”, OR
 * Alternative method: On the C360, scroll down to the Opportunities section, find the Opportunity to edit and click the pencil icon to edit the relevant fields
 
+The top section (Opportunity Risk) is to be filled out (see [Fields](#fields) below) and the bottom section (Opportunity Info) is data pulled in from Salesforce. 
+
 This can then be discussed with the [Account Team](/handbook/customer-success/account-team/) during account reviews.
 
 ### Fields
@@ -110,3 +112,19 @@ This is where the TAM can enter notes on this specific opportunity and will be s
 
 ### Manually Creating the Renewal CTA
 
+Manually creating the Renewal CTA is slightly nuanced from a regular CTA. 
+
+**Regular steps**
+1. In the Cockpit, click **+ CTA**
+1. Title it (e.g., "Renewal")
+1. Under Type select "Renewal"
+1. Under Reason select "Upcoming Renewal"
+1. Under Playbook select "Upcoming Renewal"
+
+**New steps**
+1. Click on the CTA, then next to "Call to Action" click on the "1"
+1. Select "Gainsight Opportunity" on the dropdown
+1. Click "LINK TO AN EXISTING" (Opportunity)
+1. Type in the name of the opportunity and click it to attach the Salesforce Opp to the Renewal CTA
+   1. NOTE: if you have multiple options, on the C360 scroll down to **Opportunities** to find the correct one 
+1. From there, follow the [instructions above](#tracking-renewal-opportunity-health-and-risks).
