@@ -109,11 +109,11 @@ A few additional resources that can be helpful when working with Mermaid are:
 * [GitHub's Mermaid overview](https://mermaid-js.github.io/mermaid/#/)
 * A [CSS color bank](https://www.rapidtables.com/web/css/css-color.html) to add color to your charts.
 * You can see an example of how to add images to Mermaid charts [here](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgQVtDaHJpc3RtYXNdIC0tPnxHZXQgbW9uZXl8IEIoR28gc2hvcHBpbmcpXG4gIEIgLS0-IEN7TGV0IG1lIHRoaW5rfVxuICBDIC0tPnxPbmV8IERbTGFwdG9wXVxuICBDIC0tPnxUd298IEVbaVBob25lXVxuICBDIC0tPnxUaHJlZXwgRltmYTpmYS1jYXIgQ2FyXVxuICBDIC0tPiBHXG4gIEcoXCI8aW1nIHNyYz0naHR0cHM6Ly9pY29uc2NvdXQuY29tL21zLWljb24tMzEweDMxMC5wbmcnOyB3aWR0aD0nMzAnIC8-XCIpIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQiLCJzZWN1cml0eUxldmVsIjoibG9vc2UifX0).
-* Examples of Mermaid charts that have been created by GitLab team members: 
+* Examples of Mermaid charts that have been created by GitLab team members:
   - [Country Conversions Workflow](/handbook/people-group/contracts-and-international-expansion/#country-conversions-workflow) by [Giuliana Lucchesi](https://gitlab.com/glucchesi), Associate People Business Partner
   - [Talent Development Program Chart](/handbook/people-group/talent-development-program/#talent-development-program-chart) by [Cassiana Gudgenov](https://gitlab.com/cgudgenov), People Operations Specialist
   - [CEO Year at a Glance](/handbook/ceo/cadence/#year-at-a-glance)
-  - [Data Infrastructure System Diagram](/handbook/business-ops/data-team/platform/infrastructure/#system-diagram) 
+  - [Data Infrastructure System Diagram](/handbook/business-ops/data-team/platform/infrastructure/#system-diagram)
 
 _Note: When creating Mermaid charts in the GitLab handbook, you need to type `three back tick symbols` followed by the word `mermaid` before the chart, and `three back tick symbols` at the end of the chart.
 This will enable Markdown to distinguish between .md and Mermaid.
@@ -383,10 +383,11 @@ As the name suggests, it allows you to switch between channels and direct messag
 Invoke it with <kbd>Cmd</kbd> + <kbd>k</kbd> on Mac or <kbd>Ctrl</kbd> + <kbd>k</kbd> on Windows or Linux and start typing the name of the person to chat with or the channel you are interested in.
 You can then navigate the suggestions with <kbd>↑</kbd> and <kbd>↓</kbd> keys and hit <kbd>enter</kbd> to select.
 
-### Hide conversations with no unread activity
+### Display only unread conversations
 
-With lots of channels and direct messages, Slack can become overwhelming.
-To help keep track of activity on Slack, and to simplify the interface, consider [hiding conversations with no unread activity](https://get.slack.help/hc/en-us/articles/212596808-Manage-your-sidebar-display#hide-conversations-with-no-unread-activity).
+With lots of channels and direct messages, Slack can become overwhelming. To help
+keep track of activity on Slack, and to simplify the interface, consider
+[displaying only unread conversations](https://slack.com/intl/en-au/help/articles/360043207674-Organise-your-sidebar-with-customised-sections-Organise-your-sidebar-with-customised-sections-Organise-your-sidebar-with-customised-sections#manage-conversation-display).
 
 ### Minimize Visual Distractions
 
