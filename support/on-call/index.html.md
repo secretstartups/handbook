@@ -66,6 +66,11 @@ Make an effort to actively de-stress during your on-call shift. After being on-c
 
 When you're in a call, don't feel too much pressure to have _immediate_ answers. You're allowed to pause for a few minutes for researching, asking for help, etc. A five minute reply is still much better than waiting for SLA email replies. Make sure to communicate and let the customer know what you're doing. Example: "I'm gonna take a few minutes to work through the code here and make sense of it".
 
+### Create issue in [Emergency Runbook](https://gitlab.com/gitlab-com/support/emergency-runbook/-/issues/new)
+
+We have a project called [Emergency Runbook](https://gitlab.com/gitlab-com/support/emergency-runbook/) where you can use the issue template to help you handle Customer Emergency tickets.
+Creating an issue and following the template can help you and other Support Engineers keep track of steps that you already did to pinpoint the problem.
+
 ## How it works
 
 ### Schedule
