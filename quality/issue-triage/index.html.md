@@ -57,29 +57,9 @@ The presence of bug category labels `~availability `, `~performance`, `~security
 | `~performance` Response time <br> (API/Web)[^1] | Above 9000ms to timing out   | Between 2000ms and 9000ms                                | Between 1000ms and 2000ms                    | Between 500ms and 1000ms                       | [Enablement Quality Engineering team](/handbook/engineering/quality/secure-enablement-qe-team/)|
 | `~performance` Degradation <br> (to be reviewed for deprecation) |             | Degradation is guaranteed to occur in the near future    | Degradation is likely to occur in the near future | Degradation may occur but it's not likely | |
 | Affected Users <br> (to be reviewed for deprecation) | Impacts 50% or more of users | Impacts between 25%-50% of users                    | Impacts up to 25% of users                   | Impacts less than 5% of users                  | |
-<<<<<<< HEAD
 | `~availability` GitLab.com Availability |See [Availability Prioritization](#availability)|See [Availability Prioritization](#availability)|See [Availability Prioritization](#availability)|See [Availability Prioritization](#availability)| |
 | `~security` Security Vulnerability |See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|
 | `~UX` User experience problem | "I can't figure this out." Users are blocked (or so confused that they believe they are blocked), and are likely to ask for support. | "I can figure out why this is happening, but it's really painful to solve." Users are significantly delayed by the available workaround. | "This still works, but I have to make small changes to my process." Users are self sufficient in completing the task with the workaround, but may be somewhat delayed. |  "There is a small inconvenience or inconsistency." Usability isn't ideal or there is a small cosmetic issue. | [Product Designers](/handbook/engineering/ux/product-design/) of that Product group |
-
-The severity label also helps us define the time a ~bug or ~"corrective action" of that severity should be completed.
-This indicates the expected timeline & urgency which is used to measure our SLO targets.
-
-| **Severity**   | Incident root cause analysis `~corrective action` SLO | `~bug` resolution SLO            |
-|----------------|---------|--------------------------------------------------------------------------------|
-| `~severity::1` | 1 week  | The current release + next available deployment to GitLab.com (within 30 days) |
-| `~severity::2` | 30 days | The next release (60 days)                                                     |
-| `~severity::3` | 60 days | Within the next 3 releases (approx one quarter or 90 days)                     |
-| `~severity::4` | 90 days | Anything outside the next 3 releases (more than one quarter or 120 days).      |
-=======
-| `~availability` GitLab.com Availability |See [Availability Prioritization](/handbook/engineering/performance/#availability)|See [Availability Prioritization](/handbook/engineering/performance/#availability)|See [Availability Prioritization](/handbook/engineering/performance/#availability)|See [Availability Prioritization](/handbook/engineering/performance/#availability)| |
-| `~security` Security Vulnerability |See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)|See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)| |
-| `~UX` User experience problem | "I can't figure this out." Users are blocked (or so confused that they believe they are blocked), and are likely to ask for support. | "I can figure out why this is happening, but it's really painful to solve." Users are significantly delayed by the available workaround. | "This still works, but I have to make small changes to my process." Users are self sufficient in completing the task with the workaround, but may be somewhat delayed. |  "There is a small inconvenience or inconsistency." Usability isn't ideal or there is a small cosmetic issue. | Product Design |
->>>>>>> Apply 1 suggestion(s) to 1 file(s)
-
-### UX debt
-
-Issues labeled as `~UX Debt` can also have a severity and priority labels applied *without* an accompanying `~bug` label. UX Debt results from the decision to release a user-facing feature that needs refinement, with the intention to improve it in subsequent iterations. Because it is an intentional decision, `~UX Debt` should not have a severity higher than `~severity::3`, because [MVCs](/handbook/values/#minimal-viable-change-mvc) should not intentionally have obvious bugs or significant usability problems.
 
 ### Examples of severity levels
 
@@ -100,6 +80,20 @@ If a issue seems to fall between two severity labels, assign it to the higher se
 - Example(s) of `~severity::4`
   - Label colors are incorrect.
   - UI elements are not fully aligned.
+
+The severity label also helps us define the time a ~bug or ~"corrective action" of that severity should be completed.
+This indicates the expected timeline & urgency which is used to measure our SLO targets.
+
+| **Severity**   | Incident root cause analysis `~corrective action` SLO | `~bug` resolution SLO            |
+|----------------|---------|--------------------------------------------------------------------------------|
+| `~severity::1` | 1 week  | The current release + next available deployment to GitLab.com (within 30 days) |
+| `~severity::2` | 30 days | The next release (60 days)                                                     |
+| `~severity::3` | 60 days | Within the next 3 releases (approx one quarter or 90 days)                     |
+| `~severity::4` | 90 days | Anything outside the next 3 releases (more than one quarter or 120 days).      |
+
+### UX debt
+
+Issues labeled as `~UX Debt` can also have a severity and priority labels applied *without* an accompanying `~bug` label. UX Debt results from the decision to release a user-facing feature that needs refinement, with the intention to improve it in subsequent iterations. Because it is an intentional decision, `~UX Debt` should not have a severity higher than `~severity::3`, because [MVCs](/handbook/values/#minimal-viable-change-mvc) should not intentionally have obvious bugs or significant usability problems.
 
 ### Availability
 
