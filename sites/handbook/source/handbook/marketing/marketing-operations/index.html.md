@@ -27,6 +27,64 @@ Our team is structured as business partners to the rest of Marketing - see focus
 - Jameson Burton, Associate
 - Robert Kohnke - Reporting
 
+## Who is my business partner?
+
+### Amy Waller, campaign partner
+
+**Demand Generation**
+
+- Campaigns
+- Digital Marketing
+- Partner Marketing
+
+**Corporate Marketing**
+
+- Owned Events 
+- Sponsored Events
+- Awareness/ All Remote*
+- Communications*
+- Community Relations*
+
+**Revenue Marketing**
+
+- Field Marketing
+- ABM
+
+**Growth Marketing**
+
+- Inbound Marketing*
+
+### Sarah Daily, content partner
+
+**Growth Marketing**
+
+- Brand & Digital Design  
+- Content Marketing 
+- Inbound Marketing*
+
+**Corporate Marketing** 
+
+- Awareness/ All Remote*
+- Communications*
+- Community Relations*
+
+**Strategic Marketing**
+
+- Product Marketing 
+- Technical Marketing 
+- Analyst Relations
+- Competitive Intelligence
+- Customer References
+- Buyer/Market Research
+
+### Beth Peterson & Nichole LaRue, SDR partners
+
+**Revenue Marketing**
+
+- Sales Development
+
+* *Indicates multiple business partners depending on the need.*
+
 ## Important Resources
 
 - [Marketing Metrics](/handbook/marketing/marketing-operations/marketing-metrics)
