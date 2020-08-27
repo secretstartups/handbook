@@ -29,6 +29,8 @@ Our team is structured as business partners to the rest of Marketing - see focus
 
 ## Who is my business partner?
 
+**Indicates multiple business partners depending on the need.*
+
 ### Amy Waller, campaign partner
 
 **Demand Generation**
@@ -82,8 +84,6 @@ Our team is structured as business partners to the rest of Marketing - see focus
 **Revenue Marketing**
 
 - Sales Development
-
-* *Indicates multiple business partners depending on the need.*
 
 ## Important Resources
 
