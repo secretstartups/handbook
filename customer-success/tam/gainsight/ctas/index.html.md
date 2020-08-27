@@ -28,7 +28,7 @@ Watch a quick [video on Gainsight CTAs](https://www.youtube.com/watch?v=qkjmTh3Q
 
 ### Types of CTAs
 
-There are 5 "types" of CTAs, which will have different corresponding playbooks, so if you're looking for a particular playbook be sure to select the appropriate type. See below for each type and the corresponding playbooks for that type.
+There are 5 "types" of CTAs, which will have different corresponding playbooks, so if you're looking for a particular playbook be sure to select the appropriate type. See below for each type and the corresponding [playbooks](/handbook/customer-success/playbooks/) for that type.
 
 * Risk
   * [Account Triage](/handbook/customer-success/tam/health-score-triage/#triage-cta)
