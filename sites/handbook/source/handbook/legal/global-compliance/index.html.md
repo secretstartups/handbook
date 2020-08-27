@@ -272,7 +272,7 @@ If an agent does something pretty bad, the customers would sue the company direc
 
 **The nuances in these relationship will govern the contract terms.  The relationship also governs which laws apply.**
 
-For more information, see the [Partner Code of Ethics](/handbook/people-group/code-of-conduct/#partner-code-of-ethics)
+For more information, see the [Partner Code of Ethics](/handbook/people-group/people-policy-directory/#partner-code-of-ethics)
 
  
 ## Export

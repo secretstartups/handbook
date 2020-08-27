@@ -159,19 +159,19 @@ We are committed to upholding fundamental human rights and believe that all huma
 * [General Guidelines](/handbook/general-guidelines/) - general company guidelines
 * [Terms](/terms/) - legal terms governing the use of GitLab's website, products, and services
 * [Privacy Policy](/privacy/) - GitLab's policy for how it handles personal information
-* [Employee Privacy Policy](/handbook/legal/Employee-Privacy-Policy/) GitLab's policy for how it handles personal information about team members.
+* [Employee Privacy Policy](/handbook/legal/employee-privacy-policy/) GitLab's policy for how it handles personal information about team members.
 * [Trademark](/handbook/marketing/growth-marketing/brand-and-digital-design/brand-guidelines/#trademark) - information regarding the usage of GitLab's trademark
 * [Authorization Matrix](/handbook/finance/authorization-matrix/) - the authority matrix for spending and binding the company and the process for signing legal documents
 * [Requirements for Closing Deals](/handbook/business-ops/order-processing/#step-7--submitting-an-opportunity-for-approval) - requirements for closing sales deals
 * [Acceptable Licenses](https://gitlab.com/gitlab-org/gitlab-foss/blob/master/doc/development/licensing.md) - list of acceptable licenses covering third party components used in development
-* [Records Retention Policy](/handbook/legal/Record-Retention-Policy/) - GitLab's policy on the implementation of procedures, best practices, and tools to promote consistent life cycle management of GitLab records
+* [Records Retention Policy](/handbook/legal/record-retention-policy/) - GitLab's policy on the implementation of procedures, best practices, and tools to promote consistent life cycle management of GitLab records
 
 
 ## Legal Processes
  
 - [Generating Contracts with Conga Contracts](/handbook/legal/customer-negotiations/index.html)
 - [Uploading Third Party Contracts to ContractWorks](/handbook/legal/vendor-contract-filing-process/)
-- [Issue Tracker Workflows](/handbook/legal/Issue-Tracker-Workflows/)
+- [Issue Tracker Workflows](/handbook/legal/issue-tracker-workflows/)
 
 ## Performance Indicators
 
