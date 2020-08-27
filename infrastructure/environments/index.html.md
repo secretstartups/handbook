@@ -4,6 +4,7 @@ title: "Infrastructure Environments"
 ---
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
@@ -16,23 +17,23 @@ Terraform control for the environments can be found [on ops](https://ops.gitlab.
 ### Development
 
 | **Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
-| --- | --- | --- | --- | --- | --- |
-|Development | various | Development| on save | Fixture | individual dev|
+| ---- | --- | ------- | ------ | -------- | --------------- |
+| Development | various | Development | on save | Fixture | individual dev |
 
 Development happens on a local machine. Therefore there is no way to provide any SLA. Access is to the individual dev. This could be either EE/CE depending on what the developer is working on.
 
 ### Demo
 
 | **Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
-| --- | --- | --- | --- | --- | --- |
-|Demo | "GitLab Sales Demo Domains - Internal only" (found on the google drive) | Sales| Release | Fixture | Production Team|
+| ---- | --- | ------- | ------ | -------- | --------------- |
+| Demo | "GitLab Sales Demo Domains - Internal only" (found on the google drive) | Sales | Release | Fixture | Production Team |
 
 This should be a fully featured version of the current EE release. The high SLA and tightened access is to ensure it is always available for sales. There are no features (feature flags/canary/etc) that we do not ship.
 
 ### .org
 
 | **Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
-| --- | --- | --- | --- | --- | --- |
+| ---- | --- | ------- | ------ | -------- | --------------- |
 | .org | [dev.gitlab.org](https://dev.gitlab.org) | Tools for Gitlab.com | Nightly | Real Work | Production and build team |
 
 Currently there are two main uses for the .org environment:
@@ -45,44 +46,44 @@ This is a critical piece of infrastructure that is always growing in size due to
 ### Review Apps
 
 | **Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
-| --- | --- | --- | --- | --- | --- |
-|Review apps | various | Test proposal| on commit | Fixture | Review app owner |
+| ---- | --- | ------- | ------ | -------- | --------------- |
+| Review apps | various | Test proposal | on commit | Fixture | Review app owner |
 
-Ephemeral app environments that are created dynamically every time you push a new branch up to GitLab, and they&#39;re automatically deleted when the branch is deleted. Single container with limited access.
+Ephemeral app environments that are created dynamically every time you push a new branch up to GitLab, and they're automatically deleted when the branch is deleted. Single container with limited access.
 
 ### Ops
 
 | **Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
-| --- | --- | --- | --- | --- | --- |
+| ---- | --- | ------- | ------ | -------- | --------------- |
 | ops | [ops.gitlab.net](https://ops.gitlab.net/) | GitLab.com Operations | official ee releases | Fixture | SREs |
 
 The ops environment hold all infrastructure that is critical for managing GitLab.com infrastructure.
 
 At this time it includes:
 
-* Proxy for ElasticCloud.
-* Internal monitoring infrastructure that serves dashboards.gitlab.net
-* An isolated GitLab deployment that serves as a backup for all operations related GitLab repositories.
-* CICD jobs for critical operations tasks such as backups and maintenance.
-* Runners that need to connect to production infrastructure, such as GitLab chatops.
+- Proxy for ElasticCloud.
+- Internal monitoring infrastructure that serves dashboards.gitlab.net
+- An isolated GitLab deployment that serves as a backup for all operations related GitLab repositories.
+- CICD jobs for critical operations tasks such as backups and maintenance.
+- Runners that need to connect to production infrastructure, such as GitLab chatops.
 
 ### Production
 
 | **Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
-| --- | --- | --- | --- | --- | --- |
-|Production  | [gitlab.com](https://gitlab.com/) | Production| Release Candidate | Production | Production team |
+| ---- | --- | ------- | ------ | -------- | --------------- |
+| Production | [gitlab.com](https://gitlab.com/) | Production | Release Candidate | Production | Production team |
 
 Production will be full scale and size with the ability to have a canary deploy. Production has limited access.
 It consists of two stages:
 
-* The canary stage is a subset of infrastructure that reaches a limited number of members of the community. We deploy to this stage first. For more information see [canary testing](/handbook/engineering/#canary-testing).
-* The main stage serves the remaining traffic for the wider GitLab community.
+- The canary stage is a subset of infrastructure that reaches a limited number of members of the community. We deploy to this stage first. For more information see [canary testing](/handbook/engineering/#canary-testing).
+- The main stage serves the remaining traffic for the wider GitLab community.
 
 ### Staging
 
 | **Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
-| --- | --- | --- | --- | --- | --- |
-|Staging  | [staging.gitlab.com](https://staging.gitlab.com/users/sign_in) | Pre-production testing | Frequently | [Pseudonymization of prod](https://en.wikipedia.org/wiki/Pseudonymization) | all engineers |
+| ---- | --- | ------- | ------ | -------- | --------------- |
+| Staging | [staging.gitlab.com](https://staging.gitlab.com/users/sign_in) | Pre-production testing | Frequently | [Pseudonymization of prod](https://en.wikipedia.org/wiki/Pseudonymization) | all engineers |
 
 Staging has the same topology as Production and includes the same components, since they share the same [terraform configuration](https://gitlab.com/gitlab-com/gitlab-com-infrastructure/tree/master/shared/gstg-gprd).
 
@@ -93,7 +94,7 @@ If you need an account to test QA issues assigned to you on Staging, you may alr
 ### Pre
 
 | **Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
-| --- | --- | --- | --- | --- | --- |
+| ---- | --- | ------- | ------ | -------- | --------------- |
 | pre | pre.gitlab.com | GitLab.com pre | Release candidates | Separate and local | SREs |
 
 The pre environment is an environment used for validating release candidates used to prepare final self-managed releses and production patches. It does not have a full production HA topology or a
@@ -102,16 +103,27 @@ copy of the production database.
 ### Release
 
 | **Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
-| --- | --- | --- | --- | --- | --- |
+| ---- | --- | ------- | ------ | -------- | --------------- |
 | release | release.gitlab.net | Deploying self-managed releases | Final monthly, patch and security releases | Separate and local | SREs |
 
 The release environment is an environment used for validating security releases, self-managed final monthly and patch versions. It does not have a full production HA topology or a
-copy of the production database. 
+copy of the production database.
+### GitLab Team Services
+
+| **Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
+| ---- | --- | ------- | ------ | -------- | --------------- |
+| version | version.gitlab.com | GitLab support testing | AutoDevops / GKE | GCP CloudSQL | N/A  |
+| license | license.gitlab.com | GitLab support testing | AutoDevops / GKE | GCP CloudSQL | N/A  |
+| customers | customers.gitlab.com | GitLab support testing | Chef | fixture | SRE and support owner |
+| design | design.gitlab.com | Pajamas / Design website | AutoDevops / GKE | N/A | N/A  |
+| docs | docs.gitlab.com | GitLab documentation site | GitLab Pages | N/A | N/A SRE |
+
+The GitLab Team Services Environment is a group of services for different sites run for GitLab.  It comprises the sites listed above.  These are not controlled in Terraform and seek to dogfood GitLab features such as AutoDevops or GitLab pages.
 
 ### GitLap
 
 | **Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
-| --- | --- | --- | --- | --- | --- |
+| ---- | --- | ------- | ------ | -------- | --------------- |
 | gitlap | gitlap.com | GitLab support testing | ?? | ?? | SREs |
 | dev.gitlap | *.dev.gitlap.com | GitLab support testing | N/A | N/A | SRE and support owner |
 | do.gitlap | *.do.gitlap.com | GitLab support testing | N/A | N/A | SRE and support owner |
@@ -126,8 +138,8 @@ as a CI runner by the [gitlab-runner project](https://gitlab.com/gitlab-org/gitl
 ### Env-Projects
 
 | **Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
-| --- | --- | --- | --- | --- | --- |
-| Env-Projects | N/A | Bootstrap GCP | N/A | N/A | N/A|
+| ---- | --- | ------- | ------ | -------- | --------------- |
+| Env-Projects | N/A | Bootstrap GCP | N/A | N/A | N/A |
 
 This environment is used as a genesis project from which all other GCP projects used to
 support/manage/host gitlab.com are provisioned. No compute resources are present in the project, and
@@ -137,12 +149,11 @@ APIs are enabled for each GCP project via Infrastructure as Code (terraform).
 
 Reference: https://ops.gitlab.net/gitlab-com/gitlab-com-infrastructure/-/tree/master/environments/env-projects
 
-
 ## Self-Managed
 
 | **Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
-| --- | --- | --- | --- | --- | --- |
-|Self-Managed  | various | Self hosted versions of CE & EE | User specific  | User specific  | User specific |
+| ---- | --- | ------- | ------ | -------- | --------------- |
+| Self-Managed | various | Self hosted versions of CE & EE | User specific | User specific | User specific |
 
 These are environments that are run on-premises by the end-user. We have no influence, access or control of these environments.
 
