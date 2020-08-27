@@ -24,7 +24,7 @@ The goals of our demos are to:
 
 The demo presenter typically rotates as part of the [triage](triage.html) responsibilities for a given week, but non-team members are welcome to present upon request. It is the presenter's responsibility to reschedule the demo if needed.
 
-If unsure of what items to highlight in a demo, check for issues with the [Demo-worthy label](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Demo-worthy) If you are working on an issue that you would like to see demonstrated, feel free to add the label and/or announce in #g_distribution.
+If unsure of what items to highlight in a demo, check for issues with the [Demo-worthy label](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=demo-worthy) If you are working on an issue that you would like to see demonstrated, feel free to add the label and/or announce in #g_distribution.
 
 The presenter is expected to:
 
