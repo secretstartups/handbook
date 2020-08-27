@@ -433,7 +433,7 @@ Scoring is defined as follows:
     * All feedback should be constructive and said in a positive manner. Keep it short and sweet.
     * Feedback should always be applicable to the skill set and job requirements of the position the candidate applied and interviewed for.
     * If you feel uncomfortable providing feedback for whatever reason, reach out to the recruiting team for assistance.
-    * There are templates built into Greenhouse to use as a guideline to help candidates understand the rejection decision, but those templates should be personalized / customized to fit each situation. Personalization in communication with candidates is encouraged.
+    * If you must reject the candidate via an email there are templates built into Greenhouse to use as a guideline to help candidates understand the rejection decision, but those templates should be personalized and customized to fit each situation. Personalization in communication with candidates is encouraged.  You may use the email scheduling option to send out the rejection email at a later date.
 1. If people argue with the feedback that we provided:
     * Do not argue with or acknowledge the validity of the contents of the feedback.
     * Share their feedback with the people involved in the interviews and the decision.
