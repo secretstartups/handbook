@@ -120,10 +120,12 @@ Other tools directly used by Marketing and maintained by Marketing Operations:
 - Google Analytics
 - Google Search Console
 - Google Tag Manager
+- Hotjar 
+- Keyhole
 - [Litmus](/handbook/marketing/marketing-operations/litmus)
 - MailChimp
 - Moqups
-
+- Rev.com
 - [RushTranslate](/handbook/marketing/marketing-operations/rushtranslate)
 - Screaming Frog
 - SEMrush
