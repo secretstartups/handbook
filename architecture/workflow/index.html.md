@@ -47,15 +47,15 @@ TL;DR:
 1. The author collaborates with the architecture evolution coach and a domain expert to create a
    blueprint merge request of the proposal,
 1. In the RFC-like style they get more people involved into the discussion to collect more feedback,
-1. The blueprint describes 1-year forecast and 3 iterations in the first 3 milestones,
+1. The blueprint describes 12/6/3-month forecast and a few first iterations,
 1. When specific enough, the blueprint gets merged by an Engineering Leader,
 1. 3 [Directly Responsible Individuals
    (DRIs)](/handbook/people-group/directly-responsible-individuals/) get assigned and collaborate together to get the work done,
 1. A [Working Group](/company/team/structure/working-groups/) can be formed if needed, but is not required,
 1. DRIs propagate the blueprint across sub-departments and ensure that work gets scheduled,
-1. Teams schedule their work based on their interpretation of 1-year and 3-months forecasts,
+1. Teams schedule their work based on their interpretation of the strategy described in the document,
 1. DRIs described in the blueprint are the decision makers for the approach taken,
-1. After 3 iterations work can be concluded or expanded for the next 3 iterations.
+1. After the initial iterations, work can be concluded or expanded, the blueprint gets updated.
 
 ### Finding people that will amplify your influence
 
