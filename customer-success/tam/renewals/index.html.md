@@ -84,28 +84,27 @@ This can then be discussed with the [Account Team](/handbook/customer-success/ac
 
 Opportunity Health is currently synced from the `TAM Sentiment` on the Account and will be updated once the TAM updates `TAM Sentiment` and each time thereafter. We have Opp Health so that it's stamped on _that_ Opportunity for historical reporting. Opportunity Health should be thought of in this way:
 
-* Green - very likely to renew at or above current ARR
-* Yellow - some risk of downgrade or churn
-* Red - high probability of downgrade or churn
-
-##### Risk Reason
-* AzureDevOps - competitive risk due to MSFT
-* Competition - risk of loss to a competitor
-* Customer Sentiment - customer is unhappy with GitLab
-* Lack of adoption - customer has not deeply adopted GitLab
-* Lack of budget - customer is unlikely to have budgetary coverage for maintaining the current GitLab license
-* Lack of engagement - customer is nonresponsive or rarely engages
-* Loss of sponsor or champion - our key contact(s) left the company
-* Other organizational factors - other company issues that contribute to a blocker for the renewal
-* Product experience - poor experience with the GitLab product
-* COVID-19 - the customer faces pressures and hardships due to COVID-19
-
+* **Green** - very likely to renew at or above current ARR
+* **Yellow** - some risk of downgrade or churn
+* **Red** - high probability of downgrade or churn
 
 ##### Risk Type
-* Customer Churn - fully churn the account
-* Tier Downgrade - move down tiers
-* Seat Churn - reduce license seat count
-* Customer Sentiment (Impact Unknown) - customer is unhappy and the impact isn’t quantified
+* **Customer Churn** - fully churn the account
+* **Tier Downgrade** - move down tiers
+* **Seat Churn** - reduce license seat count
+* **Customer Sentiment** (Impact Unknown) - customer is unhappy and the impact isn’t quantified
+
+##### Risk Reason
+* **AzureDevOps** - competitive risk due to MSFT
+* **Competition** - risk of loss to a competitor
+* **Customer Sentiment** - customer is unhappy with GitLab
+* **Lack of adoption** - customer has not deeply adopted GitLab
+* **Lack of budget** - customer is unlikely to have budgetary coverage for maintaining the current GitLab license
+* **Lack of engagement** - customer is nonresponsive or rarely engages
+* **Loss of sponsor or champion** - our key contact(s) left the company
+* **Other organizational factors** - other company issues that contribute to a blocker for the renewal
+* **Product experience** - poor experience with the GitLab product
+* **COVID-19** - the customer faces pressures and hardships due to COVID-19
 
 ##### TAM Notes
 This is where the TAM can enter notes on this specific opportunity and will be saved to the Opportunity record.
@@ -114,17 +113,17 @@ This is where the TAM can enter notes on this specific opportunity and will be s
 
 Manually creating the Renewal CTA is slightly nuanced from a regular CTA. 
 
-**Regular steps**
+**Normal CTA creation steps**
 1. In the Cockpit, click **+ CTA**
 1. Title it (e.g., "Renewal")
 1. Under Type select "Renewal"
 1. Under Reason select "Upcoming Renewal"
 1. Under Playbook select "Upcoming Renewal"
 
-**New steps**
+**Required steps to attach CTA to Opp**
 1. Click on the CTA, then next to "Call to Action" click on the "1"
 1. Select "Gainsight Opportunity" on the dropdown
 1. Click "LINK TO AN EXISTING" (Opportunity)
-1. Type in the name of the opportunity and click it to attach the Salesforce Opp to the Renewal CTA
+1. Type in the name of the opportunity and click to attach the Salesforce Opp to the Renewal CTA
    1. NOTE: if you have multiple options, on the C360 scroll down to **Opportunities** to find the correct one 
-1. From there, follow the [instructions above](#tracking-renewal-opportunity-health-and-risks).
+1. Follow the [instructions above](#tracking-renewal-opportunity-health-and-risks)
