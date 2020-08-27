@@ -51,6 +51,10 @@ There are 8 key practices to consider during any meeting. They are the following
 1. Post Meeting Action - Immediately write down notes and next steps and input into proper directory (Google Drive, Salesforce, etc.).
 1. Two Block Rule - For in person meetings with external parties you should wait until you're more than two blocks from the meeting before discussing the results of the meeting. Nobody wants to hear themselves being discussed in the bathroom.
 
+### Communicating with Media and Industry Analysts
+
+GitLab employees and contractors are not authorized to speak with the media or analysts on behalf of our company unless authorized by our Marketing department. Unless authorized, do not give the impression that you are speaking on behalf of GitLab in any communication that may become public. This includes posts to online forums, social media sites, blogs, chat rooms, and bulletin boards. This policy also applies to comments to journalists about specific matters that relate to our businesses, as well as letters to the editor and endorsements of products or services.
+
 ### Social Media
 
 Please see our [social media guidelines](/handbook/marketing/social-media-guidelines/).
@@ -84,7 +88,23 @@ guide](https://docs.gitlab.com/ee/development/contributing/merge_request_workflo
 1. Create a **[Work In Progress (WIP)](/blog/2016/01/08/feature-highlight-wip/)** merge request to prevent an accidental early merge. Only use WIP when merging it would **make things worse**, which should rarely be the case when contributing to the handbook. Most merge requests that are in progress don't make things worse, in this case don't use WIP, if someone merges it earlier than you expected just create a new merge request for additional items. Never ask someone to do a final review or merge something that still have WIP status, at that point you should be convinced it is good enough to go out.
 1. If any follow up actions are required on the issue after the merge request is merged (like reporting back to any customers or writing documentation), avoid auto closing the issue.
 1. If a project requires multiple approvals to accept your MR, feel free to assign multiple reviewers concurrently. This way the earliest available reviewer can start right away rather than being blocked by the preceding reviewer.
-1. Consider recording a concise video or audio file outlining the merge request and uploading it to the GitLab [Unfiltered channel](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#channels) on YouTube. This will make content more accessible, prevent future confusion, allow for multitasking (e.g. cooking dinner and listening to the video), and increase participation for folks who digest audio information better than visual. 
+1. If the MR involved gets a lot of comments, you can turn it into a [Consolidated MR](/handbook/communication/index.html#scaling-merge-requests-through-consolidated-mrs).
+
+### Scaling Merge Requests through "Consolidated MRs"
+
+Some merge requests that involve a big decision or change tend to collect a large amount of feedback. As GitLab grows in size, it is unrealistic for a single person to respond to potentially hundreds of comments. To remain efficient in these MRs and to make it scalable, it is important for the DRI to receive a clear signal of input that is shared on the merge request. Some MRs may be marked as "Consolidated MRs" by clearly designating them as such at the beginning of the MR description with the following code block:
+
+```
+## Consolidated MR
+
+This MR is a Consolidated MR.  Contributors should tag their manager when adding a comment.  If managers are tagged they should either respond to the question or summarize and tag their manager.
+```
+
+Comments without a manager tagged will be closed with a link to this handbook section or closed without comment.
+
+MRs should not start out as a Consolidated MR as we prefer [communication to be direct](/handbook/leadership/#communication-should-be-direct-not-hierarchical). They should only be designated as such after the number of comments on them grows to a level that is unsustainable for the DRI.
+
+When an MR is changed to be `consolidated`, the person making this change should add a comment stating this so that everyone tracking the MR can be informed.
 
 ## Issues
 
@@ -370,6 +390,14 @@ out to any of the other [C-level GitLab team members](/company/team/org-chart/) 
 1. These calls are unstructured to allow for natural interaction, but everyone should get a chance to share at least once.
 1. It helps to pause slightly between talking about different topics to allow for discussion.
 1. If you are unsure of who should start or speak next, follow the order listed in Zoom.
+
+## Mindfulness Call
+
+1. The Mindfulness Call is a new call at GitLab. To start it will be led twice a week, Tuesdays and Thursdays at XX:XX PT for 15 minutes.
+1. The call is a short time for GitLab team members to spend time together in a guided meditation of centering and refocusing. There is [evidence that meditating together has additional benefits over meditating alone](https://www.mindful.org/benefit-meditating-alone-together/).
+1. The call will be led by @tompsett to start, but Joyce is looking for other volunteers, especially in other time zones, so that this can be offered multiple times in a week for all GitLab team members to benefit. 
+1. The call will start promptly. The call will not be recorded. There is no intent to have discussion or Q&A around the call.
+1. No previous experience is necessary, nothing extra is needed other than a comfortable seat and 15 minutes.
 
 ## Release Retrospectives and Kickoffs
 {: #kickoffs}
@@ -787,6 +815,11 @@ This aligns with how we work since everything at GitLab is [public by default](/
 1. Emails are asynchronous, for example, if your manager emails you on a weekend it is fine to reply during the workweek.
 1. If an email is or has become **urgent** feel free to ping people via chat referencing the subject of the email.
 1. If you or your team needs to send an email to a group of team members, not grouped in a current [Google email group](https://gitlab.com/gitlab-com/security-tools/report-gsuite-group-members), and specifically related to PII (location, state, country, etc) please contact a Total Rewards Analyst at total-rewards@gitlab who can create an email list from BambooHR data, with approval.
+1. Where appropriate, consider using professional salutations including Hi or Hello and avoid colloquial expressions such as Hey, Oh, or Sup. Sometimes only the person's name is suitable. The level of formality should often mirror the formality from previous messages when communicating with internal team members as well as external persons. 
+1. Try to always use a person's name when starting or responding to a message, especially if there are multiple persons cc'd, so that the adressee knows you are addressing them.
+1. Make sure all relevant letters and words that need capitalization are capitalized, such as the start of sentences or the word "I".
+1. Proofread your messages so that sentences are punctuated correctly, typos are fixed, and grammar is corrected. Consider using the really helpful [Grammarly](https://app.grammarly.com/) tool - this tool is great for both native English speakers and for those who use English as an additional language. 
+1. All messages and replies are signed with a professional send-off (ex. Best regards), your name, and your signature block.
 
 ## Slack
 
@@ -853,11 +886,11 @@ Earlier in our history, 50% of all communication *was* in public channels.
 
 ### Be respectful of your own time
 1. You should try avoid information overload in order to be productive and efficient with your time. While it can be tempting to read every message in every Slack channel you subscribe to, it’s very challenging, not expected, and not necessary.
-1. One method for avoiding Slack overload is to focus your Slack reading on Starred channels and Threads. Starred channels are like "favorites" and allow you to follow messages from those channels easily. Threads consist of any conversation in which you are mentioned and allow you to easily track conversations in which you have direct involvement.
+1. One method for avoiding Slack overload is to focus your Slack reading on [Starred channels](https://slack.com/intl/en-nl/help/articles/201331016-Star-channels-and-direct-messages) and [Threads](https://slack.com/help/articles/115000769927-Use-threads-to-organize-discussions-). Starred channels are like "favorites" and allow you to follow messages from those channels easily. Threads consist of any conversation in which you are mentioned and allow you to easily track conversations in which you have direct involvement.
 1. Use your notification settings liberally. Depending on how you use Slack this could range from limiting notifications to critical messages outside of your working hours to turning off Slack notifications entirely. Find the right balance for you and stick to it.
 
 ### Be respectful of others' time
-1. Start by understanding what we mean by respecting time. We should err toward putting material into channels over DMs and public channels over private channels even though we understand that this will generate more messages that can be read by more people. Respecting time is not about reducing the overall volume of channel messages that team members receive. It about making sure that messages are targeted, expectations for asynchronous responses are clear, and we are communicating with consideration. The following tips provide ways to work respectfully with others given this context.
+1. Start by understanding what we mean by respecting time. We should err toward putting material into channels over DMs and public channels over private channels even though we understand that this will generate more messages that can be read by more people. Respecting time is not about reducing the overall volume of channel messages that team members receive. It's about making sure that messages are targeted, expectations for asynchronous responses are clear, and we are communicating with consideration. The following tips provide ways to work respectfully with others given this context.
 1. If you're only referring to someone, but don't actually need their attention, and want to spare them from getting notified, spell out their name normally without `@` mentioning them.
 1. Slack messages should be considered asynchronous communication, and you should not expect an instantaneous response; you have no idea what the other person is doing.
 1. Because we work globally, you may receive Slack mentions at any time of day. Please consider enabling [Slack's Do not disturb functionality](https://slack.com/intl/en-ie/help/articles/214908388-Pause-notifications-with-Do-Not-Disturb) so you don't get interrupted, for example, in your offtime. You can also use Slack's Notification schedule tool, this can be found in Slack's Preferences tab. To access this, open slack, hover your cursor at the top of your screen, click slack, then preferences, under the notifications tab you will see notification schedule. This tool allows you to pick what days / times you get notifications.
@@ -890,6 +923,8 @@ Here are some helpful links to best practices and tips on managing your notifica
    1. Copy and paste the relevant parts of the thread into the issue using blockquote formatting.
    1. Link to the Slack thread and include `(internal)` after the link. For example: https://gitlab.slack.com/archives/C0AR2KW4B/p1555347101079800 (internal)
    1. Post a link to the issue note in the Slack thread to let others know that discussion has moved to the issue.
+1. When sharing Slack messages *within* Slack, prefer using the 'Share' function rather than copying the link and pasting that into another channel.  With 'Share', the original message will be displayed in the destination allowing recipients to read it directly, as compared to a link which they must at least hover-over to get a brief snippet, and click on to read the entire message (taking them to the other channel).
+   1. To 'Share message', hover over the message and in the tooltip box that appears on the right of the window, click on  the right-facing arrow icon.
 1. When selecting your Slack display name, please do not have your name in all capital letters as this is often [associated as shouting](https://en.wikipedia.org/wiki/All_caps#Association_with_shouting) in written communications.
 
 ### Getting in touch with the e-group
@@ -943,11 +978,11 @@ The alphabetically sorted starter list below spotlights a few of GitLab's [many 
 We have a few slackbots to help us with frequently asked questions and other slackbot's that directly help us to remain inclusive in our language and align closely with our [Diversity, Inclusion and Belonging Value](/handbook/values/#diversity-inclusion).
 The following list is reflective of the onces we use for Diversity, Inclusion and Belonging and the suggested changes to use. We iterate on this list, as a GitLab Team Member, to view active slackbots that we use, kindly view them in Slack, under: GitLab > Customize Your Workspace > Slackbot.
 
-| `you guys` | Are you including people of multiple genders? Please consider using "everyone," "team," "y'all," or similar instead. You can read more about inclusive language in our handbook: /handbook/general-guidelines/#behavior-and-language |
-| `hey guys, hi guys, you guys, salesman, salesmen, businessman, businessmen` | Are you including people of multiple genders? Please consider using "everyone," "team," "y'all," or similar instead. You can read more about inclusive language in our handbook: /handbook/general-guidelines/#behavior-and-language |
-| `on your toes, on anybody's toes` | It's probably okay. \nAs companies grow, their speed of decision making goes down since there are more people involved. We should counteract that by having short toes and feel comfortable letting others contribute to our domain.\n/handbook/values/#short-toes |
+| `you guys` | Are you including people of multiple genders? Please consider using "everyone," "team," "y'all," or similar instead. You can read [more about inclusive language in our handbook](/handbook/values/#inclusive-language--pronouns) |
+| `hey guys, hi guys, you guys, salesman, salesmen, businessman, businessmen` | Are you including people of multiple genders? Please consider using "everyone," "team," "y'all," or similar instead. You can read [more about inclusive language in our handbook](/handbook/values/#inclusive-language--pronouns) |
+| `on your toes, on anybody's toes` | It's probably okay.<br><br>As companies grow, their speed of decision making goes down since there are more people involved. We should counteract that [by having short toes](/handbook/values/#short-toes) and feel comfortable letting others contribute to our domain. |
 | `aggressive` | Did you mean ambitious? |
-| `gitlabber, gitlabbers` | The term `gitlabber` is a commonly misused term. Please use "GitLab team member" instead. You can read more about this in our handbook: /handbook/communication/top-misused-terms |
+| `gitlabber, gitlabbers` | The term `gitlabber` is a commonly misused term. Please use "GitLab team member" instead. You can [read more about this in our handbook](/handbook/communication/top-misused-terms) |
 
 ### Why are we upgraded to the Plus tier?
 
