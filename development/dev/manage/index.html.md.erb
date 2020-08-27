@@ -40,7 +40,20 @@ pages under the "Categories" header) is the single source of truth on where we'r
 * Direction pages should be reviewed regularly by Product. When updating these pages, please CC the relevant group to keep your teammates informed.
 * Product should make sure that their groups understand the direction and have an opportunity to contribute to it. Consider a monthly direction AMA for your group to field questions.
 
-#### Workflow overview
+
+
+#### Prioritization
+
+Our priorities should follow [overall guidance for Product](/handbook/product/product-processes/#how-we-prioritize-work). This should be reflected in the priority label for scheduled issues:
+
+| Priority | Description | Probability of shipping in milestone |
+| ------ | ------ | ------ |
+| priority::1 | **Urgent**: top priority for achieving in the given milestone. These issues are the most important goals for a release and should be worked on first; some may be time-critical or unblock dependencies. | ~100% |
+| priority::2 | **High**: important issues that have significant positive impact to the business or technical debt. Important, but not time-critical or blocking others.  | ~75% |
+| priority::3 | **Normal**: incremental improvements to existing features. These are important iterations, but deemed non-critical. | ~50% |
+| priority::4 | **Low**: stretch issues that are acceptable to postpone into a future release. | ~25% |
+
+#### Organizing the work
 
 We generally follow the [Product Development Flow](/handbook/product-development-flow/#workflow-summary):
 1. `workflow::problem validation` - needs clarity on the problem to solve
@@ -57,28 +70,9 @@ Generally speaking, issues are in one of two states:
 * Discovery/refinement: we're still answering questions that prevent us from starting development,
 * Implementation: an issue is waiting for an engineer to work on it, or is actively being built.
 
-While individual groups are free to use as many stages in the [Product Development Flow](/handbook/product-development-flow/#workflow-summary) workflow as they find useful, we should be somewhat prescriptive on how issues transition from discovery/refinement to implementation.
-
-#### Prioritization
-
-Our priorities should follow [overall guidance for Product](/handbook/product/product-processes/#how-we-prioritize-work). This should be reflected in the priority label for scheduled issues:
-
-| Priority | Description | Probability of shipping in milestone |
-| ------ | ------ | ------ |
-| priority::1 | **Urgent**: top priority for achieving in the given milestone. These issues are the most important goals for a release and should be worked on first; some may be time-critical or unblock dependencies. | ~100% |
-| priority::2 | **High**: important issues that have significant positive impact to the business or technical debt. Important, but not time-critical or blocking others.  | ~75% |
-| priority::3 | **Normal**: incremental improvements to existing features. These are important iterations, but deemed non-critical. | ~50% |
-| priority::4 | **Low**: stretch issues that are acceptable to postpone into a future release. | ~25% |
-
-#### Organizing the work
-
-Generally speaking, issues are in one of two states:
-* "Figuring it out": we're still answering questions that prevent us from starting development,
-* "Build it": an issue is waiting for an engineer to work on it, or is actively being built.
-
 Basecamp thinks about these stages in relation to the [climb and descent of a hill](https://www.feltpresence.com/hills.html).
 
-While individual groups are free to use as many stages in the [Product Development Flow](/handbook/product-development-flow/#workflow-summary) workflow as they find useful, we should be somewhat prescriptive on how issues transition from "figuring it out" to "build it".
+While individual groups are free to use as many stages in the [Product Development Flow](/handbook/product-development-flow/#workflow-summary) workflow as they find useful, we should be somewhat prescriptive on how issues transition from discovery/refinement to implementation.
 
 ##### Backlog management
 
