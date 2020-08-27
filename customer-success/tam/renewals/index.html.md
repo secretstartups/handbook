@@ -19,7 +19,7 @@ A key part of the customer relationship lifecycle is the renewal phase. TAMs mus
 
 ## Timeframe
 
-Four months before the renewal date for a customer, a CTA will trigger in Gainsight, prompting the TAM to reach out to their aligned account team to discuss strategy and next steps for the renewal. The expectation is that the team will meet internally and speak with the customer regarding the renewal within 30 days, leaving 90 days to run the renewal process.
+Six months before the renewal date for a customer, a CTA will trigger in Gainsight, prompting the TAM to reach out to their aligned account team to discuss strategy and next steps for the renewal. The expectation is that the team will meet internally and speak with the customer regarding the renewal within 60 days, leaving 120 days to run the renewal process.
 
 ## Renewal Playbook Steps
 
@@ -78,7 +78,7 @@ This can then be discussed with the [Account Team](/handbook/customer-success/ac
 
 ##### Opportunity Health
 
-Similar to Account Health, the TAM will set the health of the Opportunity. Nuances exist between Opportunities and Account, such as if a customer is happy with GitLab (Account) but is considering downgrading their renewal (Opportunity), or if there are two distinct Opportunities. However, the [Health assessment guidelines](/handbook/customer-success/tam/health-score-triage/#health-assessment-guidelines) are similar. Opportunity Health should be thought of in this way:
+Opportunity Health is currently synced from the `TAM Sentiment` on the Account and will be updated once the TAM updates `TAM Sentiment` and each time thereafter. We have Opp Health so that it's stamped on _that_ Opportunity for historical reporting. Opportunity Health should be thought of in this way:
 
 * Green - very likely to renew at or above current ARR
 * Yellow - some risk of downgrade or churn
@@ -94,6 +94,7 @@ Similar to Account Health, the TAM will set the health of the Opportunity. Nuanc
 * Loss of sponsor or champion - our key contact(s) left the company
 * Other organizational factors - other company issues that contribute to a blocker for the renewal
 * Product experience - poor experience with the GitLab product
+* COVID-19 - the customer faces pressures and hardships due to COVID-19
 
 
 ##### Risk Type
