@@ -129,62 +129,92 @@ In GitLab 101, we learned how to [create merge requests](https://about.gitlab.co
 You can review a merge request to provide feedback to the author. You can start a review in the merge request diff. Diff is the view of changes to a file between branches or commits.
 
 To review a merge request:  
-1. Click on the "Changes" tab in the merge request.
-1. Click on the line you want to comment on, using the 'add a comment icon'
+Click on the "Changes" tab in the merge request.
+
+Click on the line you want to comment on, using the 'add a comment icon'
 
 ![comment icon](/images/handbook/people-group/comment_icon_in_diff_5.png)
 
-1. Write your comment in the dialogue box and click on the start a review button. 
+Write your comment in the dialogue box and click on the start a review button. 
 
 ![comment dialogue](/images/handbook/people-group/start_a_review_dialogue_box_6.png)
   
-1. To add more comments to a review, start writing a comment as normal and click the ‘Add to review’ button.
-1. To resolve a thread, when replying to a comment, click the checkbox to resolve thread. 
-1. Click "submit review" to publish all documents.
+To add more comments to a review, start writing a comment as normal and click the ‘Add to review’ button.
+
+To resolve a thread, when replying to a comment, click the checkbox to resolve thread.
+
+Click "submit review" to publish all documents.
 
 
 ### Suggesting Changes to a Merge Request
 
 You can suggest changes in the merge request diff threads. The Merge Request author is able to apply these suggestions with a click, which will generate a commit in the merge request.
 
-1. Choose a line to be changed, click add a comment icon
+Choose a line to be changed, click add a comment icon
 
+![comment icon](/images/handbook/people-group/comment_icon_in_diff_5.png)
 
-1. Then click on the Insert suggestion icon in the toolbar
+Then click on the Insert suggestion icon in the toolbar
 
+![suggestion in mr](/images/handbook/people-group/insert_suggestion_in_mr_7.png)
 
-1. In the comment, add your suggestion to the pre-populated code block
+In the comment, add your suggestion to the pre-populated code block
 
-1. [INSERT IMAGE]
-1. Click "Start a review" to add your comment to a review, or "Add comment now" to add the comment immediately.
-1. The Suggestion in the comment can be applied by the merge request author directly from the merge request.
-1. Once the suggestion has been applied, a new commit will be created and the suggested change will be pushed to the merge request's branch.  
+![suggestion in mr](/images/handbook/people-group/Suggestion_in_mr_code_block_8.png)
+
+Click "Start a review" to add your comment to a review, or "Add comment now" to add the comment immediately.
+
+The suggestion in the comment can be applied by the merge request author directly from the merge request.
+
+Once the suggestion has been applied, a new commit will be created and the suggested change will be pushed to the merge request's branch.  
 
 ### WIP/Draft Merge Requests
 
 If you are still working on a merge request and not ready for it to be merged, add `WIP: ` or `Draft: ` to the start of the merge request’s title, this will prevent the merge request from being merged.
 
 To update a WIP MR, in the changes tab, click on the pencil icon to edit the merge request.
-[INSERT IMAGE]
+
+![pencil icon](/images/handbook/people-group/edit_icon_in_WIP_MR_9.png)
 
 Make your changes.  Click "commit changes".
 
 When you are ready for it to be merged, simply remove the `WIP: ` or `Draft: ` prefix from the title of the MR.
 
+Save changes, and assign the merge request to the DRI of the page.
+
 ### Quiz - Lesson 2: Merge Requests 
 
-## Lesson 3: How to navigate www-gitlab-com project
+## Lesson 3: How to Create a New Handbook Page
+
+### How to Find the handbook in www-gitlab-com project
 
 You may search through the `www-gitlab-com` project to access the handbook. This is useful for when you are adding a new page to the handbook.  
-To find the handbook, navigate to `www-gitlab-com` project, click sites - handbook - source - handbook. Click the section of the handbook you want to navigate to (eg people group, marketing)
+To find the handbook, navigate to `www-gitlab-com` project, click sites - handbook - source - handbook. Click the section of the handbook you want to navigate to (eg people group, marketing), the folders are arranged alphabetically. 
 
-### Video: How to Create a new handbook page
+### Video: How to Create a New Handbook Page and WIP MR (~9 minutes)
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/HBgdX1YuM3s" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-### Helpful Tips for updating the Handbook
+### How to Create a New Handbook Page
+1. Navigate to www-gitlab-com project
+
+1. Click on sites - handbook - source - handbook
+
+1. Navigate to the specific folder that will house the new page
+
+1. In that folder, click the + icon and select new file
+
+1. Name the file path and ensure it ends in `/index.html.md`. 
+
+1. To ensure the page is set up correctly, copy/paste the first section of an existing handbook page. Remember to edit appropriately.
+
+1. Type in the commit message and click `commit changes`.
+
+1. Update the merge request template and assign the merge request to the appropriate revieweer.
+
+### Helpful Tips for Updating the Handbook
 The [markdown guide](/handbook/markdown-guide/#markdown-style-guide-for-aboutgitlabcom) page contains useful tips for updating the handbook, such as adding images, embedding documents and much more.  
 
 ### Referencing another section of the handbook for how to do something 
