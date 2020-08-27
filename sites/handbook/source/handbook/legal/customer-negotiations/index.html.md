@@ -3,21 +3,16 @@ layout: handbook-page-toc
 title: "Sales Guide: Collaborating with GitLab Legal"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}. 
 ## OVERVIEW 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/snb-1ENQitI" {:target="_blank"} frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+### :movie_camera: [Watch Overview Video](https://www.youtube.com/watch?time_continue=2&v=snb-1ENQitI&feature=emb_logo) 
+*Learn about the purpose of this resource; 1:40 (Log into GitLab Unfiltered)*
 
 Thank you for visiting! The purpose of this resource is to provide Sales reps assistance on: 
     
 (1) [Operational](https://about.gitlab.com/handbook/legal/customer-negotiations/#OPERATIONAL) - How to work with, and engage, GitLab legal; Requirements to close a deal; General FAQ for legal ops, including some parallels to Finance and Deal Desk matters. 
 
 (2) [Educational](https://about.gitlab.com/handbook/legal/customer-negotiations/#EDUCATIONAL) - Learning about how and why GitLab legal and our agreements work, to better serve you during a sales cycle; Proactive advice and education to enable you to feel more confident when / if your Customer has legal related questions.   
+
 
 ## ENGAGEMENT
 - As part of this collaboration, we are measuring success by interaction with the field. For this reason, we ask that you **please watch the videos and "thumbs-up" or "like" them.**
@@ -31,16 +26,16 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 | ------ | ------ |
 | [**How to reach Legal** ](https://about.gitlab.com/handbook/legal/customer-negotiations/#how-to-reach-legal)                  | [**Overview of GitLab Agreements**](https://about.gitlab.com/handbook/legal/customer-negotiations/#Overview-of-GitLab-Agreements)  |
 | [**How do I get an Agreement signed**](https://about.gitlab.com/handbook/legal/customer-negotiations/#how-do-I-get-an-Agreement-signed)       | [**When does GitLab negotiate**](https://about.gitlab.com/handbook/legal/customer-negotiations/#When-does-GitLab-Negotiate)  |
-| *COMING SOON: Vendor Request Forms (W9/Insurance)*     | *COMING SOON: Introduction to Open Source* |
-| *COMING SOON: How Partner's can execute a Partner Agreement*      | *COMING SOON: GitLab Master Partner Agreement* |
+| [**Clearing Export Review in SFDC** ](https://about.gitlab.com/handbook/legal/customer-negotiations/#clearing-export-review-negotiations)     | *COMING SOON: Introduction to Open Source* |
+| *COMING SOON: Vendor Request Forms (W9/Insurance)*     | *COMING SOON: Commonly negotiated elements* |
+| *COMING SOON: How Partner's can execute a Partner Agreement*      | *COMING SOON: What is Intellectual Property?* |
 
 
 ## OPERATIONAL
 
 ## How to reach Legal 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/bCLagn_sWSI" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+### :movie_camera: [Watch How to Reach Legal Video](https://www.youtube.com/embed/bCLagn_sWSI)
+*Learn about how to open a Legal Request, When to Open a Legal Request; 2:24 (Log into GitLab Unfiltered)*
 
 1. For all questions related to Partners and/or Customers, including: NDA's, Contract Review / Negotiations, Legal Questions...etc., please open a **Legal Request** in SFDC. 
 2. Please note: There is a $25K opportunity minimum threshold to review edits to our terms, and a $100K opportunity minimum threshold to review Customer / Partner Terms. These thresholds do not apply to NDA's. 
@@ -51,9 +46,8 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 [Field Operations Legal Request Overview](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#contact-legal) 
 
 ## How do I get an Agreement signed
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/FzD3j0RI8do" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+### :movie_camera: [Watch How do I get an Agreement Video](https://www.youtube.com/embed/FzD3j0RI8do)
+*Learn about how to get an Agreement Signed; Who can sign on behalf of GitLab; 3:40 (Log into GitLab Unfiltered)*
 
 1. **Sales Reps cannot sign any Agreements.** Only certain individuals may execute on behalf of GitLab see Authorization Matrix [here](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix). 
 2. All Agreements require a GitLab Legal stamp in order to be executed. This stamp is placed by a Contract Manager when an executable version is reached. 
@@ -62,13 +56,18 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 **Additional Resources:**
 [Field Operations Signature Process Overview](https://about.gitlab.com/handbook/practical-handbook-edits//handbook/sales/field-operations/order-processing/#how-to-obtain-signatures-for-any-external-contract-or-agreement-including-vendor-forms) 
 
+## Clear Export Review in SFDC
+1. See the [Visual Compliance Overview](https://docs.google.com/presentation/d/1hD1xgEyJL1U1eyvTci6NNlCdIur4PkB16GO52wjZRgk/edit#slide=id.g5dbc2f529a_0_41)
+2. GitLab uses Visual Compliance to review all Accounts. The tool is continually reviewing and 'clearing' Accounts. In addition, any 'flags' / 'hits' are reviewed and cleared throughout the day by GitLab Legal.
+3. If an export notice is presented, that requires immediate action, please tag "@legal" in SFDC Chatter for the Account and write "Please review for export compliance"
+4. Legal will continually review all requests. Once cleared in Visual Compliance update(s) will reaching SFDC in 15-20 minutes. 
+
 
 ## EDUCATIONAL
 
 ## Overview of GitLab Agreements
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/M3ktHGDBebw" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+### :movie_camera: [Watch Overview of GitLab Agreements Video](https://www.youtube.com/embed/M3ktHGDBebw)
+*Learn about what Agreements GitLab has; 2:45 (Log into GitLab Unfiltered)*
 
 1. GitLab provides our Software pursuant to the GitLab Subscription Agreement, and Professional Services pursuant to GitLab Professional Services Terms;
 2. GitLab has a Master Partner Agreement that includes multiple Exhibits to enable Partners to, (i) Reseller, (ii) Refer, and (iii) Distribute GitLab Products and Services;
@@ -76,9 +75,8 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 4. Any modification(s) to Order Forms, or standard Terms and Conditions, require GitLab Legal Approval. 
 
 ## When does GitLab negotiate
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/zYvZKP5OohA" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+### :movie_camera: [Watch When does GitLab Negotiate Video](https://www.youtube.com/embed/zYvZKP5OohA)
+*Learn about when GitLab negotiates; Where to find an NDA template; 3:20 (Log into GitLab Unfiltered)*
 
 1. GitLab will negotiate NDAs with our prospects. You can always send the prospect the GitLab NDA template found [here](https://about.gitlab.com/handbook/practical-handbook-edits//handbook/legal/#contract-templates) and ask for them to sign. If they want to use their template, simply open a Legal Request for "Contract Review".
 2. GitLab will negotiate changes to our terms and conditions provided the [current] Opportunity is greater than $25K (USD).
