@@ -472,7 +472,7 @@ C.  Note: Deal Desk will create the quotes and Order Form.
 
 #### Opportunities Requiring Multiple Invoices
 
-If an opportunity requires multiple invoices due to a specific professional services delivery schedule or approved annual payment terms, a separate opportunity is required for each invoice period. Each opportunity should reflect the amount to be invoiced, not the total value of the deal.
+If an opportunity requires multiple invoices due to a specific professional services delivery schedule or approved annual payment terms, a separate opportunity is required for each invoice period. Each individual opportunity will require a quote object that is equal to the amount being invoiced. All products and dates should match the original opp. Build Invoice Only quote objects as a "New Subscription" quote. 
 
 **Ex.** Professional Services Deal -Opportunity amount $300,000. 4 Deliverables are outlined in the Custom SOW to the customer, each deliverable includes a different date for delivery. This requires 4 opportunities because the customer will be invoiced after completion of each deliverable.
 
