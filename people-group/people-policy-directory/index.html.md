@@ -122,13 +122,13 @@ Any questions or concerns? Please feel free to speak with anyone in People Ops.
 
 ### Background Checks
 
-GitLab is concerned about the safety of its team members and about maintaining appropriate controls to ensure that assets of GitLab and our customer relationships and information are protected. To reduce these risks, GitLab will obtain and review background information of covered prospective, and, as applicable, current employees.
+GitLab uses appropriate controls to ensure that assets of GitLab and its customer relationships and information are protected. To reduce these risks, GitLab will obtain and review background information of covered prospective, and, as applicable, current team members, as allowed by local law.
 
-GitLab has contracted with [Sterling Talent Solutions](https://www.sterlingtalentsolutions.com/) to perform these background checks, which will cover criminal history for the last 7 years. For all candidates being considered for a Director level position or higher, an employment history for the last 5 years and/or the three most recent employers will be conducted. GitLab may use the returned background check information to make decisions regarding employment. For certain positions where the candidates financial history is relevant to the position, we may also run a check in the federal database for any financial related offenses.
+GitLab currently contracts with [Sterling Talent Solutions](https://www.sterlingtalentsolutions.com/) to perform these background checks.  These checks will cover criminal records in those jurisdictions where GitLab can request this information. For all candidates being considered for a Director level position or higher, an employment history for the last 5 years and/or the three most recent employers will be conducted. GitLab may use the returned background check information to make decisions regarding employment. For certain positions where the candidate's financial history is relevant to the position, we may also run a check for any financial related offenses.
 
-All candidates who make it to the offer stage with GitLab must undergo a background screening according to this policy as part of the employment screening process. All contracts will state that employment is subject to obtaining results from an approved background screening that are satisfactory to GitLab. If a candidate is unwilling to follow this process we are unable to proceed with their candidacy for any position at GitLab. In the event the background check is not available at the time of hire (switching vendors or delays in processing), GitLab will run the background check as soon as possible. The same adjudication guidelines will apply to current employees as they do with prospective employees.
+All candidates who make it to the reference stage with GitLab will undergo a background screening according to this policy and in compliance with applicable local law. Contracts will state that employment is subject to obtaining results from an approved background screening that are satisfactory to GitLab. If a candidate is unwilling to follow this process we are unable to proceed with their candidacy for any position at GitLab. In the event the background check is not available on the scheduled hire date due to delays in processing, GitLab will run the background check as soon as possible. The same adjudication guidelines will apply to current employees as they do with prospective employees.
 
-The Candidate Experience Specialists will [initiate](/handbook/hiring/recruiting-framework/coordinator/#step-20c-initiate-background-check) all background screenings for candidates. Background check results will be received by the Candidate Experience Specialist and brought to the relevant People Business Partner and functional leader to determine if the results warrant any adverse action, which could include rescinding of the offer or termination of employment.
+The Candidate Experience Specialists will [initiate](/handbook/hiring/recruiting-framework/coordinator/#step-20c-initiate-background-check) all background screenings for candidates. Background check results will be received by the Candidate Experience Specialist and brought to the relevant People Business Partner for adjudication.
 
 #### Disclosure and Authorization
 
@@ -141,6 +141,8 @@ Background checks will act as an additional mechanism of transparency and will h
 #### Review Criteria
 
 Once the background check is completed, Candidate Experience Specialists will review the report and determine if any negative information has a direct connection with an applicant’s ability to fulfill the job duties with competence and integrity. Criminal convictions that would raise a concern are job-related offenses, including but not limited to: embezzlement, extortion, computer/internet crime, fraud, tax evasion, and violent crimes.  In addition, the report should be reviewed for omissions or inaccuracies contained in the employment application or made during the interview process.
+
+#### US Citizens only: 
 
 #### Fair Credit Reporting Act (FCRA) and Related State Law Compliance
 
