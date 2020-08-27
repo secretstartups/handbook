@@ -158,10 +158,13 @@ of the above roles.
 
 ### Who is the Current EOC?
 
-If you don't have a PagerDuty account and need to find out who the current oncall is, there are two ways you can do it:
+The chatops bot in the [`#production` Slack Channel](https://gitlab.slack.com/archives/production) will tell you this with `/chatops run oncall prod`.
 
-1. `@sre-oncall` - at mention this usergroup in Slack and it will ping the current oncall.
-1. The chatops bot in the [`#production` Slack Channel](https://gitlab.slack.com/archives/production) will tell you this with `/chatops run oncall prod`.
+### When to Contact the Current EOC
+
+The current EOC can be contacted via the `@sre-oncall` handle in Slack, but please only use this handle in the following scenarios.
+1. You are unable to declare an incident and/or need assistance in [reporting an incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident).
+1. You need assistance in halting the depolyment pipeline. (note: this can also be accomplished by [reporting an incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) and labeling it as `~severity::2`.)
 
 ### Reporting an Incident
 
