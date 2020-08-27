@@ -76,6 +76,8 @@ Below is a list of the different technical skill sets found on the Sales System 
 
 ## Technical Documentation
 *  [Go-To-Market Technical Documentation](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/)
+*  [License Usage App Documentation](/handbook/sales/field-operations/sales-systems/license-usage-app/)
+*  [Salesforce Configuration Documentation](/handbook/sales/field-operations/sales-systems/salesforce-config/)
 
 ## Salesforce.com Change Management Process
 
