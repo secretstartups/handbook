@@ -26,6 +26,7 @@ Six months before the renewal date for a customer, a CTA will trigger in Gainsig
 1. Renewal Review: Internal sync with SAL/AE and potentially SA as defined below
 1. Renewal Question
 1. Renewal Plan
+1. Update `TAM Sentiment` and Risk Type/Reasons, if applicable, see [Tracking Renewal Opportunity](#tracking-renewal-opportunity-health-and-risks) below
 
 
 ## Renewal Review Meeting - Internal Sync
@@ -55,7 +56,7 @@ From this meeting a set of action items should be created to improve customer ut
 
 ## Renewal Question
 
-If it is decided that the TAM will ask the initial renewal question, this should be a ['soft'](https://www.mbaskool.com/business-concepts/marketing-and-strategy-terms/7214-soft-fact-questions.html) question to see if there is any risk in the account and to provide time to mitigate any risk.
+The TAM will ask the initial renewal question, this should be a ['soft'](https://www.mbaskool.com/business-concepts/marketing-and-strategy-terms/7214-soft-fact-questions.html) question to see if there is any risk in the account and to provide time to mitigate any risk.
 
 ## Renewal Plan
 
@@ -67,10 +68,10 @@ For greater predictability across the customer base for renewal, upselling, down
 
 To learn the full process, watch [Opportunity Health and Risks Process video](https://www.youtube.com/watch?v=taucYmcWZ6U&feature=youtu.be).
 
-The [Renewal CTA](#timeframe) will include a step for the TAM to update the Opportunity information within Gainsight. The TAM can and should update the Opportunity Health and Risks throughout the renewal when something changes or because of new information.
+The [Renewal CTA](#timeframe) will include a step for the TAM Manager (or TAM) to update the Opportunity information within Gainsight. The TAM Manager (or TAM) can and should update the Opportunity Health and Risks throughout the renewal when something changes or because of new information.
 
 To access this information, TAMs should either:
-* Preferred method: on the Renewal CTA, click the “1” next to “Call to Action” and select "Gainsight Opportunity”, OR
+* Simpler method: on the Renewal CTA, click the “1” next to “Call to Action” and select "Gainsight Opportunity”, OR
 * Alternative method: On the C360, scroll down to the Opportunities section, find the Opportunity to edit and click the pencil icon to edit the relevant fields
 
 This can then be discussed with the [Account Team](/handbook/customer-success/account-team/) during account reviews.
