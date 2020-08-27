@@ -73,6 +73,9 @@ Watch the below video and check out GitLab's [Value Stream Management](/solution
 * Economic metrics typically align to one or more of three [customer value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers)
 * Check out the [Forrester Total Economic Impact](/handbook/marketing/product-marketing/analyst-relations/forrester-tei/) study
      - Watch the [Forrester TEI Report webcast](https://youtu.be/J_6QgemCz2E) (1 hour, July 2020, internal only) featuring Forrester analysts
+* To help you document your customer's ROI of adopting GitLab, use the GitLab ROI Model
+     - [Standardized ROI Model slides](https://docs.google.com/presentation/d/1-Qq6TLpgOuooAlmHj1tumwHxUTK86uWBD_7Lv6K47w8/edit#slide=id.g8c3c4e381e_0_34)
+     - [Standardized ROI Model sheet](https://docs.google.com/spreadsheets/d/1zYeKV51thbqUjKKQqOtE0a0iVuXBWytc_5ThNV6U_1c/edit#gid=0)
 
 Listen to Nico Ochoa (Strategic Account Leader, US West) describe his role in [helping a large tech firm be able to measure success and improve business outcomes](https://youtu.be/m1Gori76d-I) (GitLab internal only, June 2020, 3 minutes).
 
