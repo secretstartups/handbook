@@ -43,17 +43,6 @@ In either case, they will be fulfilling the full responsibilities of the role. I
 
 Individual departments will have their own criteria for who is eligible to occupy these roles, so please check the career development page for your department.
 
-## All-Directs
-
-You may occassionally hear of the E-Group hosting an "All-Directs" call or meeting.
-The All-Directs group is made up of anyone who reports directly to the e-group.
-It is made up of some ICs, some managers, some directors, and some senior leaders.
-This group is called on to help provide input and communicate messaging when appropriate.
-As an example, the [all-directs meets after every e-group offsite](/handbook/ceo/offsite/#all-directs-zoom-call).
-
-<iframe class="dashboard-embed" src="https://app.periscopedata.com/shared/eac267ee-22c2-4a1e-87c0-f90db206d930?embed=true" height="500"> </iframe>
-
-
 ## Making decisions
 
 1. We use our [values](/handbook/values/), and particularly our [values hierarchy](/handbook/values/#hierarchy), to guide the decisions we make.
