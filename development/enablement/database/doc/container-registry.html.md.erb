@@ -69,7 +69,7 @@ Note this is just illustrative and we can get to the details later.
 
 In contrast to model 1, this approach makes garbage collection straight forward. We don't ever need to scan entire tables to find "dangling" records. This is because the database contents are always consistent.
 
-For example, when we delete a layer - we can determine the affected blobs easily and schedule those for further checking and eventually deletion. This can be implemented even inside the database (triggers), if we wanted to.
+For example, when we delete a layer - we can determine the affected blobs easily and schedule those for further checking and eventually deletion. This can be implemented even inside the database (triggers), if we wanted to. If we rely on cascading foreign keys, all this can be triggered by a `DELETE` - even deleting a full repository may be possible (though we might want to consider batch deletes) this way, fully triggering a cleanup of all the `manifests`, `layers` and eventually scheduling relevant blobs for deletion.
 
 ###### Benefit 2: No GC needed for entities other than blobs
 
@@ -107,4 +107,4 @@ A blob has meta-data attached like its `digest`, the `size` or the detected `med
 We need to check a couple of things about this approach and make sure assumptions are sane:
 
 1. We should get statistics to learn more about what to expect from deduplication of manifests and layers. How many more records would we need to expect in model 2 compared to model 1? How does that affect database size and is partitioning trading this off nicely? Can we use the dev registry database to figure that out?
-2. ...
+2. Follow-up with how to serialize blob deletion with layer creation referencing the same blob.
