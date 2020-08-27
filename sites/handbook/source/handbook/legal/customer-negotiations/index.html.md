@@ -4,7 +4,7 @@ title: "Sales Guide: Collaborating with GitLab Legal"
 ---
 
 ## OVERVIEW 
-### :movie_camera: [Watch Overview Video](https://www.youtube.com/watch?time_continue=2&v=snb-1ENQitI&feature=emb_logo) 
+### [Watch Overview Video](https://www.youtube.com/watch?time_continue=2&v=snb-1ENQitI&feature=emb_logo) 
 *Learn about the purpose of this resource; 1:40 (Log into GitLab Unfiltered)*
 
 Thank you for visiting! The purpose of this resource is to provide Sales reps assistance on: 
@@ -34,7 +34,7 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 ## OPERATIONAL
 
 ## How to reach Legal 
-### :movie_camera: [Watch How to Reach Legal Video](https://www.youtube.com/embed/bCLagn_sWSI)
+### [Watch How to Reach Legal Video](https://www.youtube.com/embed/bCLagn_sWSI)
 *Learn about how to open a Legal Request, When to Open a Legal Request; 2:24 (Log into GitLab Unfiltered)*
 
 1. For all questions related to Partners and/or Customers, including: NDA's, Contract Review / Negotiations, Legal Questions...etc., please open a **Legal Request** in SFDC. 
@@ -46,7 +46,7 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 [Field Operations Legal Request Overview](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#contact-legal) 
 
 ## How do I get an Agreement signed
-### :movie_camera: [Watch How do I get an Agreement Video](https://www.youtube.com/embed/FzD3j0RI8do)
+### [Watch How do I get an Agreement Video](https://www.youtube.com/embed/FzD3j0RI8do)
 *Learn about how to get an Agreement Signed; Who can sign on behalf of GitLab; 3:40 (Log into GitLab Unfiltered)*
 
 1. **Sales Reps cannot sign any Agreements.** Only certain individuals may execute on behalf of GitLab see Authorization Matrix [here](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix). 
@@ -66,7 +66,7 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 ## EDUCATIONAL
 
 ## Overview of GitLab Agreements
-### :movie_camera: [Watch Overview of GitLab Agreements Video](https://www.youtube.com/embed/M3ktHGDBebw)
+### [Watch Overview of GitLab Agreements Video](https://www.youtube.com/embed/M3ktHGDBebw)
 *Learn about what Agreements GitLab has; 2:45 (Log into GitLab Unfiltered)*
 
 1. GitLab provides our Software pursuant to the GitLab Subscription Agreement, and Professional Services pursuant to GitLab Professional Services Terms;
@@ -75,7 +75,7 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 4. Any modification(s) to Order Forms, or standard Terms and Conditions, require GitLab Legal Approval. 
 
 ## When does GitLab negotiate
-### :movie_camera: [Watch When does GitLab Negotiate Video](https://www.youtube.com/embed/zYvZKP5OohA)
+### [Watch When does GitLab Negotiate Video](https://www.youtube.com/embed/zYvZKP5OohA)
 *Learn about when GitLab negotiates; Where to find an NDA template; 3:20 (Log into GitLab Unfiltered)*
 
 1. GitLab will negotiate NDAs with our prospects. You can always send the prospect the GitLab NDA template found [here](https://about.gitlab.com/handbook/practical-handbook-edits//handbook/legal/#contract-templates) and ask for them to sign. If they want to use their template, simply open a Legal Request for "Contract Review".
