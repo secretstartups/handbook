@@ -131,7 +131,7 @@ You are eligible to apply for the program if you have been with GitLab for at le
 
 Considerations are cumulative and can be:
 
-1. You belong to an under-represented group as defined in our [referral bonus program](/handbook/incentives/#referral-bonuses). Multiple under-represented groups are cumulative.
+1. You belong to a select under-represented group as defined in our [referral bonus program](/handbook/incentives/#add-on-bonus-for-select-underrepresented-groups). Multiple under-represented groups are cumulative.
 1. You are a recipient of GitLab’s Value Award of Transparency, Collaboration, Iteration, Efficiency, Results or Diversity at previous GitLab Contribute events.
 1. There is last minute availability. Last minute means the first day of a rotation is less than a month out.
 1. You are based in APAC.
