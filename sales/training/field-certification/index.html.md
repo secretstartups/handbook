@@ -27,9 +27,11 @@ The act of validating competency of an individual to prove that:
 Certification programs allow us to validate GitLab skills and knowledge, recognize individual mastery, and motivate continuous learning and skills growth all aligned to expectation setting and performance discussions. 
 
 ## Audience 
-The Field Certification Program will include:
-* Functional and soft skills training for Strategic Account Leaders and Account Executives  
-* Functional and soft skills training for Solution Architects and Technical Account Managers
+The Field Certification Program will include functional and soft skills training for:
+* [Strategic Account Leaders](/handbook/sales/training/field-certification/sal/)
+* [Account Executives](/handbook/sales/commercial/enablement/required7/)  
+* [Solution Architects](/handbook/sales/training/field-certification/sa/)  
+* Technical Account Managers
 
 ## Certification Levels 
 
@@ -53,15 +55,17 @@ They are based on the concept explained in "Blueprints for a SAAS Sales Organiza
 Please note: The GitLab Moments That Matter continue to evolve. To see that latest, please check out the slide below. 
 
 <figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvjB6E9JlplzwqBHVv2fFGAEGZwqjg4AZQO-p_DqjX7znjZGOC_q2-d2xCbwr2LbfXCmyOvVxcirYb/embed?start=false&loop=false&delayms=3000&slide=id.g711c708e57_1_7" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1mhzoJMJSyx4wz47g-0P2dUQJc2hTHflZUhE57mcN83g/edit#slide=id.g5741598ac4_0_70" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
 ## Roadmap
-We are on schedule to deliver the first learning paths for the Field Certification Program in FY21Q3. 
+Alpha testing for the below courses will take place in FY21Q3:
 - Pipeline Generation & Qualification for Strategic Account Leaders
 - The Required 7 for Account Executives 
 - Delivering Value-Driven Demos for Solutions Architects
 - Onboarding the Customer for Technical Account Managers 
+
+The first courses are scheduled to go live in conjunction with the launch of our Learning Experience Platform (LXP) in FY21Q4. 
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTEMXWL70J785BYq93uFS_xLxebYidow_49-K9hUcrrf-LfBR8EGjPXE3hD6Sr1ouy6Dx62Ppzcy5fA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
