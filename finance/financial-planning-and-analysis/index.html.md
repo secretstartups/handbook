@@ -29,7 +29,7 @@ title: "Financial Planning & Analysis"
 6. Ensure sound data-driven decision support
 
 ## How GitLab’s FP&A plans to get there….
-1. Manage the budget and planning processes for GitLab's [operating plan](/handbook/finance/financial-planning-and-analysis/#operating-plan)
+1. Manage the budget and planning processes for GitLab's [Board Plan](/handbook/finance/financial-planning-and-analysis/#board-plan)
 2. Build and maintain a [long-term financial model](/handbook/finance/financial-planning-and-analysis/#gitLab-integrated-financial-model) that projects performance into the future
 3. Define business drivers and [KPIs](/handbook/business-ops/data-team/metrics/) in our operating and long-term models in collaboration with the business and measure efficacy of the business plan.
 4. Own the rolling forecast process and provide real-time information on how departments are performing relative to forecast. Improve forecasts.
@@ -38,21 +38,21 @@ title: "Financial Planning & Analysis"
     - Analytics
     - Education
 
-## GitLab's Operating Plan and Forecasting Process
+## GitLab's Board Plan and Forecasting Process
 
 ### Definitions
 
-#### Operating Plan
+#### Board Plan
 
-Purpose: GitLab's operating plan is a guideline to understand how much capital it needs and how the capital will be consumed. The operating plan helps GitLab answer questions like "how fast can we hire and when?"
+Purpose: GitLab's Board Plan, or operating Plan, is a guideline to understand how much capital it needs and how the capital will be consumed. The Board Plan helps GitLab answer questions like "how fast can we hire and when?"
 
-What: The operating plan is a three statement (Income Statement, Balance Sheet and Statement of Cashflow), non-GAAP bottoms-up plan that spans the current fiscal year. The revenue is driven off the GitLab revenue model and the expense part of the plan is at the headcount and vendor level. The Operating Plan will be a 90% confidence Plan. Additionally we will set stretch targets based on 50/50 confidence and will adjust the Operating Plan to give us the best chance to hit our stretch targets. Corporate bonus and sales commissions will be set based on the stretch targets.
+What: The Board Plan is a three statement (Income Statement, Balance Sheet and Statement of Cashflow), non-GAAP bottoms-up plan that spans the current fiscal year. The revenue is driven off the GitLab revenue model and the expense part of the plan is at the headcount and vendor level. The Board Plan will be a 90% confidence Plan. Additionally we will set stretch targets based on 50/50 confidence and will adjust the Board Plan to give us the best chance to hit our stretch targets. Corporate bonus and sales commissions will be set based on the stretch targets.
 
-Governance: The Operating Plan is approved by the board of directors every year.
+Governance: The Board Plan is approved by the board of directors every year.
 
 #### Actuals
 
-What: Actuals are results that have been reported or exist in a system that is designated as a single source of truth for the item that is being measured. Each month accounting closes the month and financial results are recorded in our ERP system and are published in our financial statements. These actuals are compared to the operating plan.
+What: Actuals are results that have been reported or exist in a system that is designated as a single source of truth for the item that is being measured. Each month accounting closes the month and financial results are recorded in our ERP system and are published in our financial statements. These actuals are compared to the Board Plan.
 
 #### Monthly Forecast
 
@@ -84,14 +84,14 @@ Governance: A target that relates to IACV is usually agreed upon by the DRI of t
 #### Baseline
 What: Baseline is a measurement of actual expense or revenue that relates to a certain point in time (i..e month, quarter or year). We use baselines to measure progress of improvement against actual results. The progress can be stated in monthly, quarterly or annualized terms.
 
-### Mechanics of the Operating Plan:
-- The Operating Plan Bookings Plan is developed by completing a bottoms up assessment of expected renewals, churn, expansion bookings and new bookings. This Plan is validated via analysis of historical cohort behavior, landed account potential (LAM), marketing Plans and sales capacity.
-- The Operating Plan includes expenses for sales and marketing with capacity to achieve bookings at a 50% confidence level. Expenses for R&D, G&A, Sales Commissions and Cost of Revenue are planned at the 90% confidence Booking Plan level. The Operating Plan also assumes that the corporate bonus target will be fully achieved at the 50% confidence level.
+### Mechanics of the Board Plan:
+- The Board Plan Bookings Plan is developed by completing a bottoms up assessment of expected renewals, churn, expansion bookings and new bookings. This Plan is validated via analysis of historical cohort behavior, landed account potential (LAM), marketing Plans and sales capacity.
+- The Board Plan includes expenses for sales and marketing with capacity to achieve the stretch target. Expenses for R&D, G&A, Sales Commissions and Cost of Revenue are planned at the 90% confidence Booking Plan level. The Board Plan also assumes that the corporate bonus target will be fully achieved at stretch target.
 - The [rolling 4 quarter forecast](/handbook/finance/financial-planning-and-analysis/#rolling-4-quarter-forecast) builds off of the revenue projected in the revenue model. During the rolling 4 quarter, departments build out plans to help meet their strategic goals. Understanding the departmental plans determines how much of the capital will be consumed for foreseeable future.
 
-- The [budget](/handbook/finance/financial-planning-and-analysis/#budgeting-@-gitLab) looks to GitLab's [long term profitiablity goals](/handbook/finance/financial-planning-and-analysis/#long-term-profitability-targets) and incorporates plans made during the rolling 4 quarter forecast in addition to revenue forecasts from the revenue model. In order to have a budget, GitLab must have a forecast(s) for it's operating plan. Therefore, the revenue and rolling 4 quarter forecasts are critical to set budgets. Budgets help GitLab understand how it's spends its cash and help predict long term targets, but ultimately budgets are a guideline.
+- The [budget](/handbook/finance/financial-planning-and-analysis/#budgeting-@-gitLab) looks to GitLab's [long term profitiablity goals](/handbook/finance/financial-planning-and-analysis/#long-term-profitability-targets) and incorporates plans made during the rolling 4 quarter forecast in addition to revenue forecasts from the revenue model. In order to have a budget, GitLab must have a forecast(s) for it's Board Plan. Therefore, the revenue and rolling 4 quarter forecasts are critical to set budgets. Budgets help GitLab understand how it's spends its cash and help predict long term targets, but ultimately budgets are a guideline.
 
-### Operating Plan Diagram
+### Board Plan Diagram
 ![alt text](/handbook/finance/financial-planning-and-analysis/financial-workflow.png "Operating Model")
 
 ## Planning process @ GitLab
@@ -99,7 +99,7 @@ What: Baseline is a measurement of actual expense or revenue that relates to a c
 * Planning begins with an annual planning process that drives the annual board approved budget.
 * Every month as part of the close process the team will generate a monthly forecast
 * Every quarter as part of the close process the team will generate a four quarter rolling forecast
-* If GitLab is exceeding the Operating Plan, on a quarterly basis the executive team can decide to increase expense as long as we maintain EBIT goals approved by the board of directors.
+* If GitLab is exceeding the Board Plan, on a quarterly basis the executive team can decide to increase expense as long as we maintain operating income goals approved by the board of directors.
 
 ### Annual Planning Steps (WIP)
 * Align executive team on strategic priorities
@@ -114,7 +114,7 @@ What: Baseline is a measurement of actual expense or revenue that relates to a c
 * Our Annual Plan is viewable internally as a google slide presentation.  Search on "[current year e.g. 2018] Plan" to view.
 * Build out bottoms up integrated sales and marketing financial model with key assumptions documented so they can be tracked
 * Set targets agreed upon by Product, Marketing and Sales.
-* Generate a the operating plan based on a headcount list, tbh list, vendor level spend list
+* Generate a the Board Plan based on a headcount list, tbh list, vendor level spend list
 * Headcount list communicated to recruiting, proposed vendor list communicated to procurement (future with Purchase Orders in place for existing vendors)
 
 #### Annual Planning Important Dates (TBD - 2020 shown)
