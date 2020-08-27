@@ -36,7 +36,7 @@ How do I request the services I need?
 
 ### 1. Internal Ethics and Compliance Reporting (Anonymous)
 
-We take employee concerns very seriously and encourage all GitLab team members to report any ethics and/or compliance violations by using Lighthouse. Futher details are found on the [People Ops Handbook page](/handbook/people-group/code-of-conduct/#how-to-contact-gitlabs-24-hour-hotline).
+We take employee concerns very seriously and encourage all GitLab team members to report any ethics and/or compliance violations by using Lighthouse. Futher details are found on the [People Ops Handbook page](https://about.gitlab.com/handbook/people-group/code-of-conduct/#how-to-contact-gitlabs-24-hour-hotline).
 
 ### 2. Privileged / Confidential Communications
 If you have a request that involves confidential and/or sensitive information, including related to other GitLab team members, please e-mail legal@gitlab.com.  
@@ -45,7 +45,7 @@ For more information on Attorney-Client Privilege, see the [General Topics and F
 
 ### 3. Vendor, Partner, and other "To Pay" Contracts
 * If you are looking for a new vendor, need an NDA for a vendor or partner, or need review of a vendor or partner contract, these services are handled by the Procurement Team. For purposes of this process, anyone that will receive payment from GitLab is considered a vendor. 
-* Legal will be brought in by Procurement for escalations only. Please see the [Procurement Page](https://about.gitlab.com/handbook/finance/procurement/) for more information on the Vendor Management Process. Once a Vendor NDA and/or Contract has been completed, it should be uploaded by the requestor into our contract management database tool [ContractWorks](/handbook/legal/vendor-contract-filing-process/). If you need a license, you will need to submit an Access Request.
+* Legal will be brought in by Procurement for escalations only. Please see the [Procurement Page](https://about.gitlab.com/handbook/finance/procurement/) for more information on the Vendor Management Process. Once a Vendor NDA and/or Contract has been completed, it should be uploaded by the requestor into our contract management database tool [ContractWorks](https://about.gitlab.com/handbook/legal/vendor-contract-filing-process/). If you need a license, you will need to submit an Access Request.
 
 ### 4. Requests for Insurance Certificate
 * If you need an insurance certificate (other than for worker's compensation) you can send an email request directly to our insurance broker at *[ABD](mailto:abdcertdept@theabdteam.com).*    You will need to include contact information for the customer seeking to be added to the certificate and any other specific requirements relating to the coverage. If you require an insurance certificate for worker's compensation email: payroll@gitlab.com with the same information.
