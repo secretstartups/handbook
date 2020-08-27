@@ -140,7 +140,7 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
 
 1. The next stage (if applicable) is the `Executive Interview` stage. Depending on the level of the role the executive interviews may be conducted during the team interview stage. In this case, the executive interview section would be reserved for the CEO interview, if applicable. You can customize as needed following the guidelines for the team interview, including selecting attributes, adding custom questions, setting the interview length and selecting a default interviewer.
 
-1. The next stage is `Reference Check`, with at least three sections; a former manager and two former peers. These can be customized as needed. For executive-level roles, it is suggested you include the following; two former managers, two former peers, two former direct reports, and back-channel. The [background check](/handbook/people-group/code-of-conduct/#background-checks) is performed during the Reference Check stage.
+1. The next stage is `Reference Check`, with at least three sections; a former manager and two former peers. These can be customized as needed. For executive-level roles, it is suggested you include the following; two former managers, two former peers, two former direct reports, and back-channel. The [background check](/handbook/people-group/people-policy-directory/#background-checks) is performed during the Reference Check stage.
 
 1. There is an optional `Justification` section. This section should include three questions:
    - In what specific way(s) does this candidate make the team better?

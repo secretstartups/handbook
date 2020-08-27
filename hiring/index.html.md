@@ -33,7 +33,7 @@ Potential applicants should refer to the [jobs FAQ page](/jobs/faq/).
 
 ## Related to hiring
 
-- [Background checks](/handbook/people-group/code-of-conduct/#background-checks)
+- [Background checks](/handbook/people-group/people-policy-directory/#background-checks)
 - [Benefits](/handbook/total-rewards/benefits/)
 - [Compensation](/handbook/total-rewards/compensation/)
 - [Contracts](/handbook/contracts)
