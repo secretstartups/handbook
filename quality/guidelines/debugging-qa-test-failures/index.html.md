@@ -55,9 +55,10 @@ If there's a failure, we use emoji to indicate the state of its investigation:
 
 Start with a brief analysis of the failure. The aim of this step is to make a quick decision about how much time you can spend investigating in each failure.
 
-In the relevant Slack channel:
+Your priority is to make sure we have an issue for each failure, and to communicate the status of its investigation and resolution.
 
-1. Apply the :eyes: emoji to indicate that you're investigating the failure(s).
+Known failures should be linked to the current [pipeline triage report](https://gitlab.com/gitlab-org/quality/pipeline-triage/-/issues), however issues can be opened by anyone and are not linked automatically, so be sure to confirm there is no existing issue before creating one:
+
 1. Search for existing issues that have already been created with the `failure::*` label. By order of likelihood:
    1. [`failure::investigating`](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=failure%3A%3Ainvestigating)
    1. [`failure::test-environment`](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=failure%3A%3Atest-environment)
@@ -65,16 +66,18 @@ In the relevant Slack channel:
    1. [`failure::flaky-test`](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=failure%3A%3Aflaky-test)
    1. [`failure::stale-test`](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=failure%3A%3Astale-test)
 1. If the issue has already been reported please use the existing issue to track the latest status.
-1. If there is no existing issue for the failure, please create an issue using one of classification labels via the steps below.
-1. If there's a system failure (e.g., Docker or runner failure), retry the job and apply the :retry: emoji. Read below for examples of system failures.
-1. Adding a :fire_engine: emoji. It can be helpful to reply to the failure notification with a link to the issue(s), but this isn't always necessary, especially if the failures are the same as in the previous pipeline and there are links there.
+1. If there is no existing issue for the failure, please create an issue using one of [classification labels](#4-classify-and-triage-the-test-failure) via the steps below.
 
-Your priority is to make sure we have an issue for each failure. Each new failure should have an issue tracking its resolution.
+In the relevant Slack channel:
+
+1. Apply the :eyes: emoji to indicate that you're investigating the failure(s).
+1. If there's a system failure (e.g., Docker or runner failure), retry the job and apply the :retry: emoji. Read below for examples of system failures.
+1. If an issue exists, add a :fire_engine: emoji. It can be helpful to reply to the failure notification with a link to the issue(s), but this isn't always necessary, especially if the failures are the same as in the previous pipeline and there are links there.
+1. If you create a new issue, add a :boom: emoji.
 
 If there are multiple failures we recommend that you identify whether each one is old (i.e., there is an issue open for it), or new. For each new failure, open an issue that includes only the required information. Once you have opened an issue for each new failure you can investigate each more thoroughly and act on them appropriately, as described in later sections.
 
 The reason for reporting all new failures first is to allow faster discovery by engineers who may find the test failing in their own merge request test pipeline.  If there is no open issue about that failure, the engineer will have to spend time trying to figure out if their changes caused it.
-
 
 #### 2. Create an issue
 
