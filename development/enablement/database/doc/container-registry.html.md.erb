@@ -1,0 +1,104 @@
+---
+layout: handbook-page-toc
+title: Container Registry on PostgreSQL
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+## Container Registry on PostgreSQL
+
+This page is meant to track the discussion of different database design approaches for the Container Registry.
+
+### Background and reading material
+
+### Database design alternatives
+
+#### Model 1: "Many-to-Many" and no duplicate records
+
+![er_model](container-registry/er_model.png)
+
+#### Model 2: `1-N` Repository structure with separate blob management
+
+This approach treats a repository as the first-class model. A repository contains many manifests (`1-N`), those contain many layers (`1-N`). Separately from the repository structure, we keep track of blobs residing in object storage. We automatically maintain a reference table to keep track of which layers use a certain blob (lookup by blob digest).
+
+Minor differences to model 1 include using a single `digest` column to store both algorithm and actual digest and normalizing the media type information into a lookup table.
+
+![alternative_model](container-registry/alternative_model.png)
+
+What is not shown in the diagram is the possibility to have `blobs_layers` being tracked automatically. This can be implemented in the database, but we may also do this from the application. The in-database implementation would rely on a trigger like so:
+
+```sql
+CREATE FUNCTION public.track_blob_usage() RETURNS trigger
+    LANGUAGE plpgsql
+    AS $$
+BEGIN
+IF (TG_OP = 'DELETE') THEN
+  -- TODO: We can do more stuff here, this is just for illustrative purposes. 
+  -- Note: This doesn't have to be a trigger, it can also be application logic
+  IF (SELECT COUNT(*) FROM blobs_layers WHERE id <> OLD.id AND digest = OLD.digest AND layer_id IS NOT NULL) = 0 THEN
+    INSERT INTO blob_review_queue (digest) VALUES (OLD.digest) ON CONFLICT (digest) DO NOTHING;
+  END IF;
+ELSIF (TG_OP = 'INSERT') THEN
+  INSERT INTO blobs_layers (digest, repository_id, layer_id)
+  VALUES (NEW.digest, NEW.repository_id, NEW.id)
+  ON CONFLICT (digest, layer_id) DO NOTHING;
+
+  INSERT INTO repository_blobs (repository_id, blob_digest)
+  VALUES (NEW.repository_id, NEW.digest)
+  ON CONFLICT (repository_id, blob_digest) DO NOTHING;
+END IF;
+
+RETURN NULL;
+
+END
+$$;
+
+CREATE TRIGGER track_blob_usage_trigger AFTER INSERT OR UPDATE OR DELETE ON public.layers FOR EACH ROW EXECUTE PROCEDURE public.track_blob_usage();
+```
+
+In case of inserts to `layers`, we also keep track of the reverse lookup automatically in `blobs_layers` and `repository_blobs` . When we delete a layer, we can check if there are any remaining usages left for this blob (notice the efficient lookup by `digest`) and if not, we might insert the `digest` into a queuing table. A background process takes those records and eventually cleans object storage and the `blobs` table.
+
+Note this is just illustrative and we can get to the details later.
+
+##### Benefits
+
+###### Benefit 1: Efficient garbage collection for blobs - no "scanning" GC needed
+
+In contrast to model 1, this approach makes garbage collection straight forward. We don't ever need to scan entire tables to find "dangling" records. This is because the database contents are always consistent.
+
+For example, when we delete a layer - we can determine the affected blobs easily and schedule those for further checking and eventually deletion. This can be implemented even inside the database (triggers), if we wanted to.
+
+###### Benefit 2: No GC needed for entities other than blobs
+
+Blob management has a need for (some) GC algorithm, because we effectively deduplicate data in object storage. However, other entities like manifests and layers don't have a need to perform GC in this model. 
+
+This is in contrast to model 1 where we effectively allow a record to become "dangling" because we deduplicate all entities in the database, too.
+
+###### Benefit 3: Supports partitioning by repository and digest (for blobs)
+
+There are two distinct areas of the database, each with their own partitioning key:
+
+1. A repository along with its structure (partitioned by `repository_id`)
+2. Blob management (partitioned by `digest`)
+
+The choice of partitioning key dictates how the respective tables should be accessed. We must always use the respective partitioning key to make for most efficient queries.
+
+For blob information, this leads to "Drawback 2" below.
+
+Note that this partitioning scheme can ultimately also be used to create an application sharding design. We would apply the same idea for the repository structure (split by repository) and rely on a single blob management (or even divide that into more parts at the expense of decreasing space usage efficiency).
+
+##### Drawbacks
+
+Drawback 1: Duplication of manifests and layers records
+
+Drawback 2: Duplication of blob meta-data in `manifests`
+
+##### Reality checks and TODOs
+
+We need to check a couple of things about this approach and make sure assumptions are sane:
+
+1. We should get statistics to learn more about what to expect from deduplication of manifests and layers. How many more records would we need to expect in model 2 compared to model 1? How does that affect database size and is partitioning trading this off nicely? Can we use the dev registry database to figure that out?
+2. ...
