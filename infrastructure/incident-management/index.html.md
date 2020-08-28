@@ -9,7 +9,7 @@ title: "Incident Management"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-If you're a GitLab team member and are looking to alert Reliability Engineering about an availability issue with GitLab.com, please find quick instructions to report an incident here: [Reporting an Incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident).
+If you're a GitLab team member and are looking to alert Reliability Engineering about an availability issue with GitLab.com, please find quick instructions to report an incident here: [Reporting an Incident](#reporting-an-incident).
 {: .alert .alert-danger}
 
 If you're a GitLab team member looking for who is currently the Engineer On Call (EOC), please see the [Who is the Current EOC?](#who-is-the-current-eoc) section.
@@ -121,7 +121,7 @@ In some cases, we may choose not to post to status.io, the following are example
 1. After the incident is resolved, the IMOC is responsible for conducting the [post-incident review](/handbook/engineering/infrastructure/incident-review).
 1. In the case of high severity bugs that affect a customer, the IMOC will also be responsible for making sure Incident Reviews are coordinated with Engineering and go through the proper Incident Review process.
 
-To page the Incident Manager on call you can:
+To page the Incident Manager on call, see [Reporting an incident](#reporting-an-incident)
 
 1. Run a [response play](/handbook/on-call/#site-reliability-engineers-sres)
 1. Type `/pd trigger` in the `#production` channel
