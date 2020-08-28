@@ -202,7 +202,7 @@ Current preferences for flights are:
 
 ### Content Review
 
-* The EBA to the Exec is responsible for scheduling an initial set of practice sessions with the content DRI, the Exec, and a technical evangelism team member. It is the EBA's discretion based on experience with the Exec and their speaking engagements in the past to decide how many times to set up.
+* The EBA to the Exec is responsible for scheduling an initial set of practice sessions with the content DRI, the Exec, and a developer evangelism team member. It is the EBA's discretion based on experience with the Exec and their speaking engagements in the past to decide how many times to set up.
 * The call attendees are responsible to communicate with the EBA if they need more or less sessions ASAP
 
 As a rule of thumb, there should be 1 slide per minute of expected speech delivery.
