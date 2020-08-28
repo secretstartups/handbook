@@ -87,7 +87,7 @@ X's dedication to the Technical Writing team over a long period of time motivate
 
 * Been active to see the Technical Writing team to succeed: /handbook/values/#see-others-succeed
 
-* X delivers for the team in lots of MVCs: /handbook/values/#minimum-viable-change-mvc, so we can get early value. For example, making iconography available using Markdown first, and planning to deliver other implementations later.
+* X delivers for the team in lots of MVCs: /handbook/values/#minimal-viable-change-mvc, so we can get early value. For example, making iconography available using Markdown first, and planning to deliver other implementations later.
 
 * X solutions are boring: /handbook/values/#boring-solutions, in that X aims to reuse as much GitLab code as possible, and raising instances where that isn’t the case as technical debt. For example, docs icons are the same library as icons in the product.
 
