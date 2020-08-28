@@ -31,7 +31,7 @@ GitLab is a single application for the entire DevSecOps lifecycle. To see what G
 
 1. You will need a GitLab site available to run this bootcamp. If you do not have private site available, use [GitLab.com](https://www.gitlab.com)
 2. Create a new [Group](https://docs.gitlab.com/ee/user/group/) and name it Bootcamp 
-3. You will need an exact copy of [this project](https://gitlab.com/gitlab-com/channel/technical-bootcamps/using-gitlab) including issues *in your bootcamp group*. The easiest way to do this is to grab [latest export](https://drive.google.com/file/d/1i-QvQLYsqTWPAiD_C-6N379cCttES86H/view?usp=sharing) and import it.
+3. You will need an exact copy of [this project](https://gitlab.com/gitlab-com/channel/technical-bootcamps/using-gitlab) including issues *in your bootcamp group*. The easiest way to do this is to grab the [latest export](https://drive.google.com/file/d/1i-QvQLYsqTWPAiD_C-6N379cCttES86H/view?usp=sharing) and import it.
 4. Labs take advantage of paid tier features, to get the full experience your instance of GitLab should be licensed to Ultimate/Gold.
   * [Get a trial here](https://about.gitlab.com/free-trial/).
 5. Have a look at the issues. Pick the one named *Lab 0* and assign it to yourself. It contains all steps needed to set up the environment. Execute all tasks in it
