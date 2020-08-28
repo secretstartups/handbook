@@ -321,7 +321,7 @@ After launch, the Product Manager and Product Designer should pay close attentio
 
 | Outcomes|Activities|
 |---|---|
-| Understand Qualitative Feedback | - Continue [Dogfooding process](/handbook/product/product-processes/#dogfooding-process)<br>- Review user feedback in issues<br>- Follow up with TAMs and SALs to gather feedback from interested customers<br>- Setup follow-up calls with customers to gather more specific feedback<br>- Consider running a Category Maturity Scorecard evaluation |
+| Understand Qualitative Feedback | - Continue [Dogfooding process](/handbook/product/product-processes/#dogfooding-process)<br>- Review user feedback in issues<br>- Follow up with TAMs and SALs to gather feedback from interested customers<br>- Setup follow-up calls with customers to gather more specific feedback<br>- Consider running a Category Maturity Scorecard evaluation <br>- Consider running a survey for usability |
 | Measure Quantitative Impact     | - Update any applicable dashboards in Sisense, if necessary work with the data team for more complex reporting <br>- Review AMAU, GMAU, and SMAU dashboards to understand if the new feature or improvement has impacted core metrics<br>- Consider running a Category Maturity Scorecard evaluation                                                |
 | Take Action on Learnings        | - open new issues for follow-on iterations and improvements<br>- ensure you've captured feedback in issues or as updates to your direction pages<br>- if applicable update your category maturity score and timeline<br>- share learnings with your group and stage <br>- consider sharing learnings with the broader team  <br>- coordinate with your PMM to understand if there are any relevant GTM motions you should consider updating|
 
