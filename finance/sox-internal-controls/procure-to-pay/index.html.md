@@ -766,7 +766,7 @@ GitLab has a [travel policy](https://docs.google.com/document/d/1Hqc-X8zB24ZvzNt
 * Directors and Executives are permitted to fly first class. 
 * Anyone can request an upgrade, but justification should be given to the person’s reporting manager, or the request will be denied.
 
-[Link to the travel budget limits](/handbook/spending-company-money/#travel)
+[Link to the travel budget limits](/handbook/travel/)
 
 If a booking is not according to this policy, or out of policy, the user’s manager gets an [email](https://docs.google.com/document/d/1UJ8s9zpljMX2RB1OwOYS4w-FFVB1moEfDvznHQdsluE/edit)  with a justification for the booking being out of policy.
 If the manager doesn’t deny the request within 24 hours, then the request is automatically approved. If the manager wants to cancel the booking after 24 hours, they or the employee need to reach out to TripActions support to do so. There may be cancellation fees involved, depending on what was booked. 
@@ -865,7 +865,7 @@ After everything is filled out, you can review the invite one last time, and the
 
 **Self Booking**
 
-If the employee chooses not to use TripActions for whatever reason they can pay for it themselves or with their company credit card, and then get reimbursed via Expensify. They still need to book as per spending [policy](/handbook/spending-company-money/#travel), as their reporting manager will need to approve on Expensify. 
+If the employee chooses not to use TripActions for whatever reason they can pay for it themselves or with their company credit card, and then get reimbursed via Expensify. They still need to book as per spending [policy](/handbook/travel/), as their reporting manager will need to approve on Expensify. 
 
 
 For more info, please visit [here](/handbook/travel/#booking-travel-through-tripactions)
