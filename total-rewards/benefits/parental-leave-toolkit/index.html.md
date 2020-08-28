@@ -98,7 +98,7 @@ A nice way to celebrate a team member's new addition to their family is by hosti
 
 * Review our [parental leave benefits/policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave)
 * Slack channel to connect with other parents — `#intheparenthood` ([Join Slack channel](https://gitlab.slack.com/app_redirect?channel=intheparenthood) - *for GitLab team members only*)
-* Read the handbook section on [returning from parental leave](/handbook/paid-time-off/#returning-from-work-after-parental-leave) with tips for the transition back to work
+* Read the handbook section on [returning from parental leave](/handbook/paid-time-off/#returning-to-work-after-parental-leave) with tips for the transition back to work
 * Read [GitLab's guide to parenting as a remote worker](/company/culture/all-remote/parenting/)
 * Consider reaching out to a [Parental Leave Reentry Buddy](#parental-leave-reentry-buddies)
 

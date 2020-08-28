@@ -214,7 +214,7 @@ If you have been at GitLab for a six months and completed your probationary peri
 
 You are entitled to and need to comply with your local regulations. They override our policy.
 
-To [alleviate the stress](/handbook/paid-time-off/#returning-from-work-after-parental-leave) associated with returning to work after parental leave, GitLab supports team members coming back at [50% capacity](/handbook/paid-time-off/#returning-to-work-at-50-capacity). Parents at GitLab who are reentering work following parental leave are encouraged to reach out to team members who self-designate as a [Parental Leave Reentry Buddy](/handbook/total-rewards/benefits/parental-leave-toolkit/).
+To [alleviate the stress](/handbook/paid-time-off/#returning-to-work-after-parental-leave) associated with returning to work after parental leave, GitLab supports team members coming back at [50% capacity](/handbook/paid-time-off/#returning-to-work-at-50-capacity). Parents at GitLab who are reentering work following parental leave are encouraged to reach out to team members who self-designate as a [Parental Leave Reentry Buddy](/handbook/total-rewards/benefits/parental-leave-toolkit/).
 
 Managers of soon to be parents should check out this [Parental Leave Manager Tool Kit](/handbook/total-rewards/benefits/parental-leave-toolkit/#manager-tool-kit) for best practices in supporting your team members as they prepare for and return from Parental Leave.
 
