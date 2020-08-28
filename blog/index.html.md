@@ -256,7 +256,7 @@ If you spot a tweet, post, or feedback anywhere detailing an interesting use cas
 
 For follow-up posts to [Pick Your Brain interviews with the CEO](/handbook/eba/#pick-your-brain-meetings), as soon as an [interview](https://www.youtube.com/playlist?list=PLFGfElNsQthafBVmoPPVMvBc_Gg2nsyQb) or livestream is scheduled, please open an issue in the  [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues) project, using the `PYB blog post` template, and fill out the relevant information there.
 
-The blog editorial team will assess the content of the post and decide how best to leverage it. This may mean publishing on the blog, on our Medium site, simply sharing the video on social, or something else.
+The blog editorial team will assess the content of the post and decide how best to leverage it. This may mean publishing on the blog, on our Medium site, or something else.
 
 Once agreed, the blog team will assign and communicate the expected publish date.
 
@@ -321,11 +321,11 @@ We conducted [an audit of all event-supporting content for 2018-19 and shared th
 
 What matters to _our_ readers is what matters to GitLab. A better way to cover events that offers something new with a specific angle is to take one trend or session and do a deep dive on it, rather than trying to cover the conference as a whole.
 
-If you want to share photos from the event such as the GitLab booth or social events, consider sharing these on social channels or writing a post for the [Unfiltered blog](/handbook/marketing/blog/unfiltered/).
+If you want to share photos from the event such as the GitLab booth or social events, consider sharing these on personal social channels or writing a post for the [Unfiltered blog](/handbook/marketing/blog/unfiltered/).
 
 #### Analyst report news
 
-If GitLab has been included in an analyst report and you wish to share this news, please follow the [announcement request process](/handbook/marketing/corporate-marketing/#requests-for-announcements) before starting work on a blog post, as we may choose to share the news in a press release or on our social channels, for example. If it is decided that a blog post is the best way to share the news, please consider the following when drafting your blog post:
+If GitLab has been included in an analyst report and you wish to share this news, please follow the [announcement request process](/handbook/marketing/corporate-marketing/#requests-for-announcements) before starting work on a blog post, as we may choose to share the news in a press release or on our social channels (for rare, big news items), for example. If it is decided that a blog post is the best way to share the news, please consider the following when drafting your blog post:
 
 **As always, please keep our (largely technical) audience in mind:** 
 1. Why would someone reading our blog be interested in this news? What's in it for them?
@@ -340,7 +340,7 @@ If GitLab has been included in an analyst report and you wish to share this news
 1. If the need for a blog post is only to direct people to a landing page, it's better to skip the blog post altogether and request promotion of the landing page directly.
 1. Think about it this way: would your blog post stand on its own without the news? If it would still make a great blog post if the award/designation was just a footnote or a CTA at the end, then you're on the right track. 
 1. A more substantive blog post may take longer to draft but should result in greater visibility for your news. 
-1. If the blog post consists of more than just an announcement it is less critical to publish straight away – consider requesting to share the news on the day via social channels, then following with a blog post later.  
+1. If the blog post consists of more than just an announcement it is less critical to publish straight away.
 
 #### Newsjacking 
 
