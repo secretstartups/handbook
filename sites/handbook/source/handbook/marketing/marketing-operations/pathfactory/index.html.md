@@ -21,7 +21,7 @@ PathFactory (PF) is leveraged as our [content library & content distribution sys
 | Field Marketing | View content performance | Reporter |
 | Account Based Marketing | View content performance | Author |
 | Customer Reference Programs | Upload new case studies and customer content | Author |
-| Technical Evangelism | Upload new technical content for use in campaigns | Author |
+| Developer Evangelism | Upload new technical content for use in campaigns | Author |
 | Sales Development Representative (SDR) | PathFactory for Sales | Sales user (PathFactory for Sales only) |
 
 ## Access   
