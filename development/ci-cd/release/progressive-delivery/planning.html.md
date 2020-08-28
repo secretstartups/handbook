@@ -121,10 +121,21 @@ The Engineering Manager (EM) owns this board and uses it to facilitate building 
 
 The following statuses are used:
 
-* **ready for development**: issues are sorted by highest priority. Unassigned issues can be picked up from the top of the list;
-* **in dev**: an engineer is currently working on the issue;
-* **in review**: the MR should be assigned to both the original engineer and the reviewer so that it is clear that the merge request has an active reviewer. This helps the EM to see how much work is allocated to each person;
-* **verification**: the owner of the Epic, or the PM, will ensure that the issue fits into the context of the solution. In this state we also confirm if a release note is required for this issue, and assign the correct milestone.
+##### **ready for development**: 
+
+Issues are sorted by highest priority, i.e. Release::P1 through Release::P3. Unassigned issues can be picked up from the top of the prioritized list;
+
+##### **in dev**: 
+
+An engineer is currently working on the issue;
+
+##### **in review**: 
+
+The MR should be assigned to both the original engineer and the reviewer so that it is clear that the merge request has an active reviewer. This helps the EM to see how much work is allocated to each person;
+
+##### **verification**: 
+
+All stakeholders are informed when a feature is about to get shipped. The owner of the Epic, or the PM, will ensure that the issue fits into the context of the solution. In this state we also confirm if a release note is required for this issue, and assign the correct milestone.
 
 #### Release and Post-Release
 
