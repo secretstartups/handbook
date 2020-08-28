@@ -78,7 +78,6 @@ SA owns 1) pre-sales technical evaluation and relationships prior to the initial
 TAM engagement prior to the sale should occur in the following situations:
 
 1. At the POV completion & presentation meeting when the results are reviewed and next steps agreed upon
-1. When a shared Slack channel is created for the customer
 1. A shared customer issue tracking project has been created that will affect the account long-term
 1. As requested by the SA if the TAM has a specific subject matter expertise relevant to the conversation
 
