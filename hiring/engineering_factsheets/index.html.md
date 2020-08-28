@@ -69,7 +69,7 @@ Clement Ho - Frontend Engineering Manager, Monitor (Interim for Configure/Server
 How the team works: The team cross collaborates with the product team and other engineering departments to build out features that drive their respective product stages to maturity and beyond.
 **Links to relevant Handbook pages:**
 [Product categories page](/handbook/product/product-categories/#ops-section)
-[Frontend Configure Team page](/handbook/engineering/frontend/configure/)
+[Configure Team page](/handbook/engineering/development/ops/configure/)
 [Frontend Engineer job posting](https://boards.greenhouse.io/gitlab/jobs/4065693002)
 [Frontend Engineer job family](/job-families/engineering/frontend-engineer/)
 [Engineering Workflow](/handbook/engineering/workflow/)
@@ -86,50 +86,11 @@ Sam Goldstein - (Director of Engineering, Ops)
 **How the team works:** The Configure stage deals with the configuration and operation of applications and infrastructure, including Auto DevOps, Kubernetes integration, and ChatOps. We aim to make complex tasks (such as standing up new environments) fast and easy as well as providing operators all the necessary tools to execute their day-to-day actions upon their infrastructure.
 **Links to relevant Handbook pages:** 
 Product categories page: /handbook/product/product-categories/#ops-section
-[Configure Team Page](/handbook/engineering/ops/configure/)
+[Configure Team Page](/handbook/engineering/development/ops/configure/)
 [Backend Engineer job family](/job-families/engineering/backend-engineer/)
 [Engineering Workflow](/handbook/engineering/workflow/)
 [Backend Engineer job posting](/jobs/apply/backend-engineer-x-30-4055697002/)
  [Hiring process](https://gitlab.com/gitlab-com/people-ops/hiring-processes/tree/master/Engineering/Backend)
-
-
-## Serverless
-
-# Frontend Engineering
-
-**Team Size:** 3
-**Projected Team Size:** 5
-**Leadership Team:**
-Sam Goldstein - Director of Engineering, Ops
-Clement Ho - Frontend Engineering Manager, Monitor (Interim for Configure/Serverless)
-[Product vision page](/direction/product-vision/#configure)
-How the team works: The team cross collaborates with the product team and other engineering departments to build out features that drive their respective product stages to maturity and beyond.
-**Links to relevant Handbook pages:**
-[Product categories page](/handbook/product/product-categories/#ops-section)
-[Frontend Configure Team page](/handbook/engineering/frontend/configure/)
-[Frontend Engineer job posting](https://boards.greenhouse.io/gitlab/jobs/4065693002)
-[Frontend Engineer job family](/job-families/engineering/frontend-engineer/)
-[Engineering Workflow](/handbook/engineering/workflow/)
-[Hiring Process](https://gitlab.com/gitlab-com/people-ops/hiring-processes/tree/master/Engineering/Frontend)
-[Technical Assessment](https://gitlab.com/gitlab-com/people-ops/hiring-processes/blob/master/Engineering/Frontend/1-Assessment.md)
-
-# Backend Engineering
-
-**Team Size:** 1
-**Projected Team Size:** 5
-**Leadership Team:**
-Sam Goldstein - Director of Engineering, Ops
-Dylan Griffifth (Engineering Manager, Serverless Interim)
-[Product Vision page](/direction/configure/serverless/)
-**How the team works:** Serverless computing provides an easy way to build highly scalable applications and services, eliminating the pains of provisioning & maintaining. synchronous communication, working with Agile methodologies. 
-**Links to relevant Handbook pages:** 
-[Product categories page](/handbook/product/product-categories/#ops-section)
-[Serverless Team page](/handbook/engineering/ops/serverless/)
-[Backend Engineer job family](/job-families/engineering/backend-engineer/)
-[Engineering Workflow](/handbook/engineering/workflow/)
-[Backend Engineer job posting](/jobs/apply/backend-engineer-x-30-4055697002/)
-[Hiring process](https://gitlab.com/gitlab-com/people-ops/hiring-processes/tree/master/Engineering/Backend)
-
 
 ## Verify
 
@@ -331,7 +292,6 @@ Bartek Marnane (Director of Engineering, Growth)
 [Product categories page](/handbook/product/product-categories/#growth-section)
 [Growth Team page](/handbook/engineering/development/growth/retention/)
 [Growth Acquisition and Conversion](/handbook/engineering/development/growth/acquisition-conversion-be-telemetry/)
-[Growth Upsell](/handbook/engineering/development/growth/upsell/)
 [Fullstack Engineer job posting](https://boards.greenhouse.io/gitlab/jobs/4247953002)
 [Fullstack Engineer job family](/job-families/engineering/fullstack-engineer/)
 [Engineering Workflow](/handbook/engineering/workflow/)
