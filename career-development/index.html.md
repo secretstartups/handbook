@@ -80,13 +80,14 @@ Note: `Manager` denotes a management of a certain specialty, whereas `Manager,` 
 | Designer	                           | Senior Designer                           |                                   |
 | Associate Community Advocate         | Community Advocate                        |                                   |
 | Community Advocate	                 | Senior Community Advocate                 |                                   |
-| Senior Community Advocate	           | Manager, Developer Relations	             |               |
-| Manager, Developer Relations	       | Director, Developer Relations             |                                   |
+| Senior Community Advocate	           | Manager, Community Advocates	             |               |
+| Manager, Community Advocates	       | Senior Manager, Community Advocates             |                                   |
+| Senior Manager, Community Advocates  | Director, Community Relations             |                                    |
 | Associate Technical Evangelist         | Technical Evangelist                        |                                   |
 | Technical Evangelist	                 | Senior Technical Evangelist                 |                                   |
-| Senior Technical Evangelist	           | Manager, Technical Evangelism	             | Senior Technical Evangelism Program Manager            |
-| Senior Technical Evangelism Program Manager	               | Manager, Technical Evangelism              |                                   |
-| Manager, Technical Evangelism	       | Director, Technical Evangelism             |                                   |
+| Senior Technical Evangelist	           | Manager, Developer Evangelism	             | Senior Developer Evangelism Program Manager            |
+| Senior Developer Evangelism Program Manager	               | Manager, Developer Evangelism              |                                   |
+| Manager, Developer Evangelism	       | Director, Developer Evangelism             |                                   |
 | Associate Content Editor                | Intermediate Content Editor                  |                                 |
 | Intermediate Content Editor               | Senior Content Editor                  |                                 |
 | Senior Content Editor               | Managing Editor                  |                                 |
