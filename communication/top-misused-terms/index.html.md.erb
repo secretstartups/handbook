@@ -8,6 +8,11 @@ title: "Top Misused Terms - GitLab Communication"
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+<%
+misused_terms_list = Gitlab::Homepage::MisusedTerm.all!
+%>
+
+## List of Top Misused Terms
 
 Below are terms people frequently use when they should use another term.
 
@@ -27,7 +32,8 @@ Below are terms people frequently use when they should use another term.
       </tr>
     </thead>
     <tbody>
-    <% Gitlab::Homepage::MisusedTerm.all!.each do |term| %>
+    <%
+      misused_terms_list.each do |term| %>
       <tr id="<%= term.id %>">
         <td class="misused-avoid">
           <% term.avoid.each do |avoid_item| %>
@@ -54,3 +60,16 @@ Below are terms people frequently use when they should use another term.
     </tbody>
   </table>
 </div>
+
+<!-- leave this section at the bottom of the page -->
+---
+<details>
+  <summary>Export: List of terms to avoid</summary>
+
+  <p>Please note: some terms might've been excluded from exports.</p>
+
+  <textarea class="misused-export"><%
+  terms_to_export = misused_terms_list.select { |term| term.exclude_from_exports.blank? || term.exclude_from_exports === false }
+  terms_to_export.each_with_index do |term, i| %><%
+  term.avoid.each_with_index do |avoid_item, j| %><%= avoid_item.strip %><%= j < term.avoid.size - 1 ? ", " : "" %><% end %><%= i < terms_to_export.size - 1 ? ", " : "" %><% end %></textarea>
+</details>
