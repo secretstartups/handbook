@@ -216,7 +216,7 @@ Live streaming will further engage team members while promoting trust in leaders
 When not possible for logistical reasons, we aim to have an AMA the first business day after the offsite with the executives on the book. 
 This also allows team members to engage in the book.
 
-Employees may [expense](/handbook/spending-company-money/#expenses) E-Group offsite book selections.
+Employees may [expense](/handbook/spending-company-money/#expense-policy) E-Group offsite book selections.
 
 Books that the E-Group finds noteworthy should be added to the [Leadership Books](/handbook/leadership/#books).
 
