@@ -129,11 +129,11 @@ The below [RACI ](https://en.m.wikipedia.org/wiki/Responsibility_assignment_matr
 
 
 ## 6. Disclosure Committee
- [Link](/handbook/internal-audit/sarbanes-oxley/#disclosure-committee-charter-effective-2019-10-17)
+ [Link](#disclosure-committee-charter)
 
 
 ## 7. Disclosure Controls Policies and Procedures
- [Link](/handbook/internal-audit/sarbanes-oxley/#gitlabs-disclosure-controls-policy-and-procedures)
+ [Link](#gitlabs-disclosure-controls-policy-and-procedures)
 
 
 ## 8. Sec 302 Certification Process
@@ -180,7 +180,7 @@ Management’s overall assessment must take into consideration all five componen
 **Project Team and Timing**
 
 Senior Internal Audit Manager has been identified as the project leader and will assume the responsibility for providing the overall direction to the project teams and for communicating the project status to management. An in-house internal audit team and a third party consulting firm, as required, will assist the project leader in this effort.
-Significant milestones relating to the management evaluation of internal controls over financial reporting and estimated timing is defined [here](/handbook/internal-audit/sarbanes-oxley/#sox-compliance-roadmap-for-gitlab).
+Significant milestones relating to the management evaluation of internal controls over financial reporting and estimated timing is defined [here](#sox-compliance-roadmap-for-gitlab).
 As testing begins, a detailed timeline for completing the testing of internal controls by process will be prepared. Project leader will report project status and results to the management on a monthly basis.
 
 **Approach to evaluation**
