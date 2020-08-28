@@ -278,7 +278,7 @@ One of the most unique and interesting aspects of Compliance Next is the ability
 
 </details>
 
-If you have any questions or need further help please ping people ops in the `#peopleops` channels in slack.
+If you have any questions or need further help please ping people ops in the `#peopleops` channel in slack.
 
 ## Performance Indicators
 
