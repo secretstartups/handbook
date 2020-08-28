@@ -62,7 +62,7 @@ The following playbooks are aligned to our [customer adoption journey](/handbook
 | Executive Business Reviews | **Yes** | Automated | CTA | Lifecycle | [EBR in a Box](https://drive.google.com/open?id=1wQp59jG8uw_UtdNV5vXQjlfC9g5sRD5K)     |
 | New Customer Onboarding | **Yes** | Automated | CTA | Lifecycle |      |
 | Usage Ping Enablement | **Yes** | Manual | CTA | Lifecycle | [Usage Ping FAQ](/handbook/customer-success/tam/usage-ping-faq/) |
-| Upcoming Renewal | Coming Soon | Automated | CTA | Lifecycle |      |
+| Upcoming Renewal | **Yes** | Automated | CTA | Renewal |      |
 | Prometheus & Grafana | Coming Soon | Manual | Not Available | Not Available |  [Internal link - existing Playbook](https://drive.google.com/open?id=1pEu4FxYE8gPAMKGaTDOtdMMfoEKjsfBQ)    |
 | GitLab Days | Coming Soon | Manual | Not Available | Not Available | [Internal link - existing Playbook](https://drive.google.com/open?id=1LrAW0HI-8SiPzgqCfMCy2mf9XYvkWOKG)     |
 | Account Handoff | **Yes** | Manual | CTA | Activity |      |
