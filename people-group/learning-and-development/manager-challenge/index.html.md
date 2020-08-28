@@ -88,11 +88,11 @@ During week three we will discuss **Building and Inclusive/Belonging Environment
 
 | Day     | Daily Challenge | Length of Time   |  Format | Activity | Competency Alignment |
 |---------|-----------------|------------------|---------|----------|----------------------|
-| Day 11   | TBA | 20 minutes | Self-paced Daily Challenge | TBA | TBA |
-| Day 12   | TBA | 20 minutes | Self-paced Daily Challenge | TBA | TBA |
-| Day 13   | TBA | 20 minutes | Self-paced Daily Challenge | TBA | TBA |
-| Day 14   | Attend Live Learning | 50 minutes | Live Learning | TBA | TBA |
-| Day 15   | Self Reflection and Weekly Evaluation | 20 minutes | Self-paced Daily Challenge | TBA | TBA |
+| Day 11   | Psychological Safety | 20 minutes | Self-paced Daily Challenge | * Read the Psychological Safety Handbook Page <br> * Answer the discussion question | * Diversty, Inclusion, & Belonging <br> * Emotional Intelligence |
+| Day 12   | Cultures | 20 minutes | Self-paced Daily Challenge | *  Use the Hofstede Country Comparison Tool <br> * Share in the issue a screenshot of the chart with all countries represented | * Diversty, Inclusion, & Belonging |
+| Day 13   | Building an Inclusive/Belonging Culture | 20 minutes | Self-paced Daily Challenge | *  Completed the Backpack Activity <br> * Share in the issue what it would be like for other members of your team to complete the backpack activity | * Diversty, Inclusion, & Belonging |
+| Day 14   | Attend Live Learning | 50 minutes | Live Learning | * Attend the coaching live learning session and be prepared to participate! | * Diversty, Inclusion, & Belonging |
+| Day 15   | Self Reflection and Weekly Evaluation | 20 minutes | Self-paced Daily Challenge | * Complete the Self-reflection and weekly evaluation | * Diversty, Inclusion, & Belonging |
 
 [embed week 3 slide deck here] 
 
