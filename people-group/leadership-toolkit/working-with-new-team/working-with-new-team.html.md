@@ -18,7 +18,7 @@ A new team can take many forms:
 
 In any of these cases, learning is reall important.  You all need to learn about each other and how you will work together.  You all need to learn about the work you need to do as a team.  There may be one person who knows a lot.  How do you get that knowledge shared?
 
-Here are some ideas to help you and / or your team get up to speed:
+Here are some ideas to help you and/or your team get up to speed:
 
 ### Rotating Team work
 Something to try on a team where 50% may be new and 1 or 2 people have knowledge you want to share.
