@@ -402,6 +402,7 @@ Arguments supporting annual up-front pricing:
 1. It is much easier to enforce license entitlement only once per year and yields lower product development cost.
 1. It enables a more predictable business and more up-front investment in customer success to ensure great outcomes from use of the product.
 1. Annual pricing lends to a more simple revenue recognition model where consumption is not relevant since revenue is recognized evenly over the course of the term. To get the equivalent with monthly pricing you need a 'use it or lose it' condition per month, while the industry standard is to allow carry-over into the next month.
+1. It helps to reduce churn with SMB customers, as that has been a problem in the industry.
 
 Arguments supporting monthly pricing
 
