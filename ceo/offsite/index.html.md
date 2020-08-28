@@ -171,7 +171,7 @@ All-directs are a key leadership team that plays a key role in identifying and r
 
 In advance of the offsite, E-group members are expected to connect with their team leadership to identify possible agenda topics, get input into specific topics, and share an overview of what is being discussed. The goal is not to waste an opportunity for broader input and insight from the broader leadership team. The all-direct team should arrive at our all-directs Zoom call already having an understanding of some of key items that were discussed.
 
-On the first business day immediately following the Offsite, there is a 90-minute Zoom call before 12pm Pacific time for the [All-Directs Group](/handbook/leadership/#all-directs).
+On the first business day immediately following the Offsite, there is a 90-minute Zoom call before 12pm Pacific time for the [All-Directs Group](/company/team/structure/#all-directs).
 This time will not work for everyone.
 
 The goal of this call is to communicate:
@@ -216,7 +216,7 @@ Live streaming will further engage team members while promoting trust in leaders
 When not possible for logistical reasons, we aim to have an AMA the first business day after the offsite with the executives on the book. 
 This also allows team members to engage in the book.
 
-Employees may [expense](/handbook/spending-company-money/#expenses) E-Group offsite book selections.
+Employees may [expense](/handbook/spending-company-money/#expense-policy) E-Group offsite book selections.
 
 Books that the E-Group finds noteworthy should be added to the [Leadership Books](/handbook/leadership/#books).
 

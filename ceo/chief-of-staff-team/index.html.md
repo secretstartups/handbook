@@ -187,7 +187,7 @@ The CoS is responsible for organizing it.
 
 ## Managing the All Directs
 
-The [All-Directs group](/handbook/leadership/#all-directs) is made up of anyone who reports directly to the e-group.
+The [All-Directs group](/company/team/structure/#all-directs) is made up of anyone who reports directly to the e-group.
 The CoS enables and manages this group.
 
 ## Maintaining the Biggest Risks and Tailwinds
