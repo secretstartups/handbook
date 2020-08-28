@@ -96,6 +96,10 @@ I have accounts on [LinkedIn](https://www.linkedin.com/in/sijbrandij) and [Faceb
 
 Sometimes I will ask to be kept appraised of an action item or follow up. One common way for me to express this desire is by applying the "CEO Interest" label on a GitLab issue. When keeping me appraised please tend toward over-communication. The primary method to communicate your follow up to me should be via MR or issue updates posted in the #ceo slack channel including specific notification when an issue is completed or closed. It might feel like you are being bothersome or distracting, but it is not. If I ever feel like you are truly over-communicating, I will let you know.
 
+### Communicating in Slack
+
+I get a lot of @ mentions in Slack, often when I'm being discussed. Please only @ mention me when you need me to see something or approve something, when you just want to refer to me you can just say Sid. This saves time and enables increased efficiency.
+
 ## Please chat me the subject line of emails
 
 I get a lot of email and I'm frequently not on top of it.
