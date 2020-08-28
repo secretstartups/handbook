@@ -19,40 +19,7 @@ We frequently get asked questions like:
 
 On this page, we document the biggest risks and how we intend to mitigate them. We also have a [biggest tailwinds](/handbook/leadership/biggest-tailwinds) page to see what waves we are riding in our current market.
 
-## 1. Lowering the hiring bar
-{:#lowering-the-hiring-bar}
-
-As we continue to grow our company, there is pressure on departments to meet their [hiring targets](/handbook/hiring/charts/).
-It is better for us to miss our targets than to hire people who won't be able to perform to our standards since that takes much longer to resolve.
-To ensure the people we hire make the company better, we:
-
-1. Have a standard interview structure
-1. Have a standard scoring system within a function; in other words, a "Strong Yes" should mean the same thing to every interviewer in Marketing.
-1. Ensure that interviewers are scoring candidates consistently. [Some teams are actively doing this](/handbook/engineering/frontend/interview-metrics/)
-1. Review the interview scores of new hires to look for trends
-1. [Identify and take action on underperformance](/handbook/underperformance)
-1. (make this unneeded) Have the CPO and CEO sample new hires and review [manager](/company/team/structure/#management-group), [staff engineer](/job-families/engineering/backend-engineer/), [principal product manager](/job-families/product/product-manager/) and up hires
-1. Compare the external title with the new title being given
-1. Conduct bar raiser interviews
-1. Review cohort performance in the company (completion of onboarding tasks, bonuses, performance review, 360 feedback, performance indicators)
-
-## 2. Lack of performance management
-{:#underperformance}
-
-In a similar vein, it is important that we do not slow down, which means being very proactive in addressing [underperformance](/handbook/underperformance/).
-We should [identify and take action as early as possible](/handbook/underperformance/#identify-and-take-action-as-early-as-possible).
-
-## 3. Ineffective onboarding
-{:#ineffective-onboarding}
-
-We are onboarding many people quickly, making it easy for things to fall behind.
-Therefore we:
-
-1. Measure the onboarding time
-1. Measure the time to productivity in sales (ramp time) and engineering (time to first MR, MRs per engineer per month)
-1. Make sure we work [handbook-first](/handbook/handbook-usage/#why-handbook-first), so the handbook is up to date.
-
-## 4. Confusion about the expected output
+## 1. Confusion about the expected output
 {:#confusion-about-the-expected-output}
 
 As we add more layers of management to accommodate the new people, it's easy to become confused about what is expected of you.
@@ -68,7 +35,7 @@ To make sure this is clear we:
 1. Ensure that at least 90% of the population responds favorably to the Engagement Survey question "I know what is expected of me to be successful in my job."
 1. Celebrate our growth in revenue when we hit $100M in ARR instead of 1000 people. We put our attention in celebrating our output instead of input, per our [results value](/handbook/values/#results).
 
-## 5. Loss of the values that bind us
+## 2. Loss of the values that bind us
 {:#loss-of-the-values-that-bind-us}
 
 It's easy for a culture to get diluted if a company is growing fast.
@@ -86,8 +53,13 @@ When asked in an [interview](https://youtu.be/7kMQj4O4ZGU) on GitLab Unfiltered 
 >
 > It's not that one approach is better than the other. It's about aligning. You set the company up for a lot of conflict if you don't have shared values.
 
+## 3. Lack of performance management
+{:#underperformance}
 
-## 6. Loss of the open source community
+In a similar vein, it is important that we do not slow down, which means being very proactive in addressing [underperformance](/handbook/underperformance/).
+We should [identify and take action as early as possible](/handbook/underperformance/#identify-and-take-action-as-early-as-possible).
+
+## 4. Loss of the open source community
 {:#loss-of-the-open-source-community}
 
 1. Keep our [promises](/company/stewardship/#promises)
@@ -95,7 +67,7 @@ When asked in an [interview](https://youtu.be/7kMQj4O4ZGU) on GitLab Unfiltered 
 1. Assign [Merge Request Coaches](/job-families/expert/merge-request-coach/)
 1. Have [contributing organizations](/community/contributing-orgs/)
 
-## 7. Loss of velocity
+## 5. Loss of velocity
 {:#loss-of-velocity}
 
 Most companies start shipping more slowly as they grow.
@@ -109,7 +81,43 @@ To keep our pace, we need to:
 
 We were voted [The World's Most Productive Remote Team](https://noonies.hackernoon.com/award/cjxvsz6576k8u0b40czyb7xhj) by HackerNoon.
 
-## 8. Fork and commoditize
+## 6. Loss of customer centricity
+{:#loss-of-customer-centricity}
+
+As more folks work away from customers, it is easy to lose sight of whom we are serving.
+We can address this by:
+* [living out our customer results value](/handbook/values/#customer-results)
+* product managers continuing to do [customer validation cycles](/handbook/product-development-flow/#validation-track)
+* [dogfooding](/handbook/values/#dogfooding) so we experience the same pain points our customers do
+
+## 7. Lowering the hiring bar
+{:#lowering-the-hiring-bar}
+
+As we continue to grow our company, there is pressure on departments to meet their [hiring targets](/handbook/hiring/charts/).
+It is better for us to miss our targets than to hire people who won't be able to perform to our standards since that takes much longer to resolve.
+To ensure the people we hire make the company better, we:
+
+1. Have a standard interview structure
+1. Have a standard scoring system within a function; in other words, a "Strong Yes" should mean the same thing to every interviewer in Marketing.
+1. Ensure that interviewers are scoring candidates consistently. [Some teams are actively doing this](/handbook/engineering/frontend/interview-metrics/)
+1. Review the interview scores of new hires to look for trends
+1. [Identify and take action on underperformance](/handbook/underperformance)
+1. (make this unneeded) Have the CPO and CEO sample new hires and review [manager](/company/team/structure/#management-group), [staff engineer](/job-families/engineering/backend-engineer/), [principal product manager](/job-families/product/product-manager/) and up hires
+1. Compare the external title with the new title being given
+1. Conduct bar raiser interviews
+1. Review cohort performance in the company (completion of onboarding tasks, bonuses, performance review, 360 feedback, performance indicators)
+
+## 8. Ineffective onboarding
+{:#ineffective-onboarding}
+
+We are onboarding many people quickly, making it easy for things to fall behind.
+Therefore we:
+
+1. Measure the onboarding time
+1. Measure the time to productivity in sales (ramp time) and engineering (time to first MR, MRs per engineer per month)
+1. Make sure we work [handbook-first](/handbook/handbook-usage/#why-handbook-first), so the handbook is up to date.
+
+## 9. Fork and commoditize
 {:#fork-and-commoditize}
 
 Since we are based on an open source product, there is the risk of fork and commoditize like what [AWS experienced with ElasticSearch](https://www.youtube.com/watch?v=G6ZupYzr_Zg).
@@ -131,7 +139,7 @@ What we need to do is:
 1. [Keep the open source community contributing](#loss-of-the-open-source-community)
 1. [Follow our buyer-based-open-core pricing model](/handbook/ceo/pricing/#buyer-based-open-core)
 
-## 9. Security breach
+## 10. Security breach
 {:#security-breach}
 
 Our customers entrust their application code and data to GitLab.
@@ -147,7 +155,7 @@ To ensure we safeguard our customers data, we:
 1. Have an [internal Red Team](/handbook/engineering/security/#red-team)
 1. Enable our customers to secure their applications via our [Defend Stage](/handbook/product/product-categories/#secure--defend-section) categories and features
 
-## 10. Economic Downturn
+## 11. Economic Downturn
 {:#economic-downturn}
 
 An economic downturn will likely prolong our sales cycle.
@@ -168,7 +176,7 @@ Here are the things we can do at GitLab counter this risk:
 - When speaking with customers, lead with empathy and help support their transition to remote
 - Be the example for how to be even more effective as a remote company
 
-## 11. Competition
+## 12. Competition
 {:#competition}
 
 There will always be competitive products.
@@ -230,7 +238,7 @@ The largest cost in application delivery is typically infrastructure. Large hype
 
 Also, see the [fork and commoditize](#fork-and-commoditize) move that is available to hyper-scale infrastructure providers.
 
-## 12. Founder Departure
+## 13. Founder Departure
 {:#founder-departure}
 
 Often startups struggle through the transition when founders leave the company, especially when those founders also serve as the CEO.
@@ -241,7 +249,7 @@ To ensure we avoid this risk we:
 1. Have the CEO take normal vacations
 1. Actively help the CEO grow with the company, including training, coaching, and feedback
 
-## 13. Handbook Second
+## 14. Handbook Second
 {:#handbook-second}
 
 We work [Handbook First](/handbook/handbook-usage/#why-handbook-first).
@@ -256,7 +264,7 @@ To ensure we avoid this risk, we:
 1. Explicitly ask CEO Shadows to [promote working handbook first](/handbook/ceo/shadow/#promote-communication-best-practices)
 1. Empower all team members to help promote our [communication guidelines](/handbook/communication/)
 
-## 14. Key people leave
+## 15. Key people leave
 {:#key-people-leave}
 
 Key people may leave as they vest and achieve their economic goals.
@@ -272,7 +280,7 @@ Big companies are organizationally different than small startups, but there are 
 
 Keeping the _feel_ of a small startup, despite a growing headcount, may help retain employees who would otherwise leave.
 
-## 15. Innovation and creativity are stifled
+## 16. Innovation and creativity are stifled
 {:#innovation-and-creativity-are-stifled}
 
 As the number of layers increase and middle management layers increase, innovation and creativity are stifled.
@@ -283,7 +291,7 @@ We can keep this momentum by continuing to value and engage with our community.
 We have [Merge Request Coaches](/job-families/expert/merge-request-coach/) who help contributors to get their merge requests to meet the [contribution acceptance criteria](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#contribution-acceptance-criteria),
 and [wider community contributions per release](/handbook/marketing/performance-indicators/#wider-community-merged-mrs-per-release) is [a GitLab KPI](/handbook/business-ops/data-team/kpi-index/#gitlab-kpis).
 
-## 16. More layers of middle management creating problems
+## 17. More layers of middle management creating problems
 {:#more-layers-of-middle-management-creating-problems}
 
 As a company expands, you get more layers of middle management.
@@ -303,22 +311,13 @@ Each one of the problems above has a specific solution:
 1. Incent folks to take calculated risks. Make failure acceptable. There is a thin line between incentivizing risk and recklessness, so draw the line carefully. For example, when [team-member1 accidentally dropped our production database](/blog/2017/02/01/gitlab-dot-com-database-incident/), they were [still promoted](/blog/2017/03/17/how-is-team-member-1-doing/) because we [promote based on performance](/handbook/people-group/promotions-transfers/#creating-a-promotion-or-compensation-change-document).
 1. Focus on [customer centricity](/handbook/leadership/biggest-risks/#loss-of-customer-centricity).
 
-## 17. Technical debt ineffectively managed
+## 18. Technical debt ineffectively managed
 {:#technical-debt-ineffectively-managed}
 
 This is especially a problem if there are acquisitions of new technologies.
 We address this for acquired technology by having [acquired organizations](/handbook/acquisitions/) remake their functionality inside our [single application](/handbook/product/single-application/).
 
 Otherwise, we have a [clear and consistent prioritization framework across engineering](/handbook/engineering/#prioritizing-technical-decisions) and [product](/handbook/product/product-processes/#how-we-prioritize-work) that helps ensure we are continuously making progress on the most important issues.
-
-## 18. Loss of customer centricity
-{:#loss-of-customer-centricity}
-
-As more folks work away from customers, it is easy to lose sight of whom we are serving.
-We can address this by:
-* [living out our customer results value](/handbook/values/#customer-results)
-* product managers continuing to do [customer validation cycles](/handbook/product-development-flow/#validation-track)
-* [dogfooding](/handbook/values/#dogfooding) so we experience the same pain points our customers do
 
 ## 19. Loss of great end-to-end experience
 {:#loss-great-end-to-end-experience}
