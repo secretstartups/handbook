@@ -115,7 +115,7 @@ Note: We are continuing to move towards using [Salesforce SFDX and GitLab CI/CD 
 
 ## Salesforce.com Installed Package Removal Process
 
-1. Identify the package and what reason(s) you may think it can be removed
+1. Identify the package and what reason(s) you may think it can be removed.
 2. Perform initial research on what the packages original intent may have been and identify who owns/owned the use of the functionality. 
    * GitLab's Tech Stack Google Sheet is a great place to check for this information and [can be found here](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit?usp=sharing)
 3. Open an issue with the owner to investigate further. In this discussion, obtain confirmation on whether or not it may be removed. 
