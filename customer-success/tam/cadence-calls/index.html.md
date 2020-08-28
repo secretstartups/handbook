@@ -24,6 +24,8 @@ Cadence calls are an important aspect of TAM engagement to continue to understan
 - **Enterprise**: Cadence calls should be weekly during onboarding and at least once per month otherwise, considering specific customer needs and stage in customer lifecycle.
 - **Commercial**: Cadence calls should be weekly during onboarding and at least once per quarter otherwise, considering specific customer needs and stage in customer lifecycle.
 
+Cadence calls should be [captured in Gainsight](/handbook/customer-success/tam/gainsight/timeline/#how-to-log-activities-in-timeline), which [drives the Engagement scorecard metric](/handbook/customer-success/tam/health-score-triage/#gainsight-scorecard-attributes-and-calculations).
+
 ### Cadence Call Notes
 
 In addition to Timeline notes in Gainsight, call notes should be [saved in Google Drive](https://drive.google.com/drive/folders/0B-ytP5bMib9Ta25aSi13Q25GY1U), following this format: `/Sales/Customers & Prospects/A/Acme/Acme - Meeting Notes`. [See an example meeting notes here](https://docs.google.com/document/d/1dAcHBqoRTY6qqSw27VQstCCnk5Fxc2oIsbpKs014h3g).
