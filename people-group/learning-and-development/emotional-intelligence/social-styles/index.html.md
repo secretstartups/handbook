@@ -312,6 +312,17 @@ Use the persona as a roadmap to implementing the SOCIAL STYLEs assessment within
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR6HxchUNNbwIYpZY2feMs8GFY080DaZZgxTZrZlCyo3QYgCPGD6oH68myqUFExrjta350ZVORwBG5E/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
+## SOCIAL STYLES and crucial conversations
+
+There are three factors that distinguish a [crucial conversation](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822) form a normal conversation: 
+- Stakes are high
+- Opinions vary
+- Emotions run strong
+
+[Managing Underperformance](/handbook/underperformance/) is an example of having a crucial conversation. Team members and managers can apply the social styles framework to managing underperformance. Managers can break down barriers by getting to know their people on personal level. Different team members (different styles) have different cues when addressing a difficult conversation. Let's take Underperformance, for example, a Manager (Expressive) style has a direct report with an Analytical style. During a meeting to address the underperformance, the Manager shares data on the underperformance while providing tasks with details on how to resolve. The direct report can seem withdrawn and detached. Since the Manager knows this is an attribute of the Analytical style, they can be more likely to resolve the underperformance in a crucial conversation. 
+
+There are many applications of the SOCIAL STYLES model for working with teams. From managing conflict to coaching & mentoring, to managing up, to having crucial conversations. The applications are endless. 
+
 ## Additional Resources on SOCIAL STYLES
 
 Below are additional resources on social styles for review
