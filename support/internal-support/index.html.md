@@ -145,9 +145,16 @@ If a ticket or issue escalation is posted in the wrong channel, simply add the `
 
 ##### Trials and Prospect Support
 
-[Trial licenses do not include support at any level.](https://about.gitlab.com/support/#trials-support) If you've been contacted by a prospect whose evaluation of GitLab includes evaluating support expertise or SLA performance, instruct them to use "Sales assisted trial" as the subscription level and include your name and email address when filling out the ticket form.
+By default, [trial licenses do not include support](https://about.gitlab.com/support/#trials-support).
 
-Please note that prospects receive a 24 hour best effort "SLA".
+If you've been contacted by a prospect whose evaluation of GitLab includes evaluating support expertise or SLA performance, as a member of the Sales team **you can grant temporary support for their trial license**. You can do this from the organization's Salesforce record. Locate the field titled `Manual Support Upgrade` and add a check mark. When you have done this, please wait 2 hours and then instruct your prospect to select `Sales assisted trial` as their subscription level when [submitting a support ticket](https://support.gitlab.com).
+
+1. There is no need to contact the Support team - selecting `Manual Support Upgrade` will mean your prospect's tickets automatically get the correct SLAs.
+1. Please wait for at least two hours after enabling the support upgrade before submitting a ticket to allow Salesforce and Zendesk to synchronize.
+1. Prospects who have been granted a temporary support upgrade receive [Priority Support SLAs](/support/#priority-support).
+1. Please uncheck the `Manual Support Upgrade` field when your prospect no longer needs the service.
+1. The Support and Sales teams regularly review the list of prospects who have been granted a temporary support upgrade to ensure only active prospects are selected.
+1. We are working with Sales Operations to put a limit on the maximum number of `Manual Support Upgrades`. This page will be updated when that work is completed.
 
 #### My customer is having trouble applying their GitLab.com subscription
 
