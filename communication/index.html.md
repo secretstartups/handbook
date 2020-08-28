@@ -13,7 +13,7 @@ extra_js:
 {:toc .hidden-md .hidden-lg}
 We're an [all-remote](/company/culture/all-remote/#advantages-for-organizations) company that allows people to work from [almost anywhere in the world](/jobs/faq/#country-hiring-guidelines). We hire great people regardless of where they live, but with GitLab team members across [more than 60 countries](/company/team/), it's important for us to practice clear communication in ways that help us stay connected and work more efficiently.
 
-To accomplish this, we use [**asynchronous communication](/company/culture/all-remote/asynchronous/) as a starting point** and stay as open and transparent as we can by communicating through public issues, [merge requests](#everything-starts-with-a-merge-request), and [Slack channels](/handbook/communication/chat).
+To accomplish this, we use [**asynchronous communication**](/company/culture/all-remote/asynchronous/) as a starting point** and stay as open and transparent as we can by communicating through public issues, [merge requests](#everything-starts-with-a-merge-request), and [Slack channels](/handbook/communication/chat).
 
 We also place an emphasis on ensuring that conclusions of offline conversations are written down.
 When we go **back and forth three times,** we jump on a [synchronous video call](/handbook/communication/#video-calls).
