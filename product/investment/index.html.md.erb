@@ -58,7 +58,7 @@ The following table provides scores for each of our DevOps stages and a comparis
 
 *Note: Enablement and Growth stages and groups aren't included, as they don't have specific target markets, and don't have a dedicated SAM.  Therefore, they can't be compared directly with feature-function stages and aren't included in this analysis.*
 
-| Section - Stage:Group | Usage Driver | ASP Driver | SAM Driver | Total | % of Total | Group Development Spend % | Score/Spend Difference |
+| Section: Stage: Group | Usage Driver | ASP Driver | SAM Driver | Total | % of Total | Group Development Spend % | Score/Spend Difference |
 |-|-|-|-|-|-|-|-|
 <% # this calculates the total score across all stages needed to calculate the percent of total score %>
 <% totalScore = 0 %>
@@ -85,7 +85,7 @@ The following table provides scores for each of our DevOps stages and a comparis
       <% percent_of_total = (combinedScore.to_f/totalScore.to_f)*100 %>
       <% difference = group.group_development_spend_percent.to_f - percent_of_total%>
       <% groupLine=[] %>
-      <% groupLine << "#{section.name} - #{stage.display_name}:#{group.name}" %>
+      <% groupLine << "#{section.name}: #{stage.display_name}: #{group.name}" %>
       <% groupLine << group.usage_driver_score ? "#{group.usage_driver_score}" : "" %>
       <% groupLine << group.asp_driver_score ? "#{group.asp_driver_score}" : "" %>
       <% groupLine << group.sam_driver_score ? "#{group.sam_driver_score}" : "" %>
@@ -97,21 +97,6 @@ The following table provides scores for each of our DevOps stages and a comparis
     <% end %>
   <% end %>
 <% end %>
-
-<!--
-| Section - Stage:Group | Value |
-|-----------------------|-------|
-<% data.sections.each do |sectionKey, section| %>
-  <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
-    <% stage.groups.each do |groupKey, group| %>
-      <% groupLine=[] %>
-      <% groupLine << "#{section.name} - #{stage.display_name}:#{group.name}" %>
-      <% groupLine << " " %>
-      <%= "| #{groupLine.join(' | ')} |" if groupLine %>
-    <% end %>
-  <% end %>
-<% end %>
--->
 
 
 ## Investment by Category
