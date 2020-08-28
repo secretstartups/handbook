@@ -4,6 +4,7 @@ title: Pricing model
 ---
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
@@ -13,12 +14,12 @@ title: Pricing model
 
 Our pricing philosophy is aligned with our [GitLab Values](/handbook/values/).
 
-* **Collaboration**: We want to keep the trust of our customers through a pricing approach that supports long-lasting customer relationships.
-* **Results**: We aim to get a great ROI for our customers while maximizing IACV for GitLab over the long-term.
-* **Efficiency**: Our pricing approach should be easy to understand, plan, and order.
-* **Diversity, Inclusion and Belonging**: We build GitLab to be the best option for a wide variety of organizations, including educational institutions and organizations in different geographic regions.
-* **Iteration**: We want to encourage the full scope of GitLab to be adopted over time.
-* **Transparency**: We are public and explicit about what our pricing is based on.
+- **Collaboration**: We want to keep the trust of our customers through a pricing approach that supports long-lasting customer relationships.
+- **Results**: We aim to get a great ROI for our customers while maximizing IACV for GitLab over the long-term.
+- **Efficiency**: Our pricing approach should be easy to understand, plan, and order.
+- **Diversity, Inclusion and Belonging**: We build GitLab to be the best option for a wide variety of organizations, including educational institutions and organizations in different geographic regions.
+- **Iteration**: We want to encourage the full scope of GitLab to be adopted over time.
+- **Transparency**: We are public and explicit about what our pricing is based on.
 
 ## Departments
 
@@ -33,44 +34,52 @@ in what plan based on [the paid tiers](/handbook/product/gitlab-the-product/#pai
 We have four pricing tiers.
 How we make decisions on a day-to-day basis is specified on our [stewardship page](/company/stewardship/#what-features-are-paid-only).
 
-| Self-managed tier  | Core | Starter | Premium | Ultimate |
-| GitLab.com         | Free | Bronze  | Silver  | Gold     |
-| -----------------  | ---- | ------- | ------- | -------- |
-| Per user per month | $0   | $4      | $19     | $99      |
+| Self-managed tier | Core | Starter | Premium | Ultimate |
+
+| GitLab.com | Free | Bronze | Silver | Gold |
+| ---------- | ---- | ------ | ------ | ---- |
+| Per user per month | $0 | $4 | $19 | $99 |
 | [Likely Buyer](/handbook/marketing/product-marketing/roles-personas/#buyer-personas) | Individual Contributors | Manager | Director | Executive |
 | Main competitor | None | Atlassian BitBucket | GitHub | Collabnet |
 | Type of sell | No sell | Feature | Benefit/solution | Transformation |
 
 ### Buyer Based Tiering Clarification
+
 When considering buyers as part of product tiering decisions we use the following guidance:
-* Core is for a single developer, with the purchasing decision led by that same person
-* Starter is for single team usage, with the purchasing decision led by a team manager
-* Premium is for multiple team usage, with the purchasing decision led by one or more Directors
-* Ultimate is for strategic organizational usage, with the purchasing decision led by one or more Execs
+
+- Core is for a single developer, with the purchasing decision led by that same person
+- Starter is for single team usage, with the purchasing decision led by a team manager
+- Premium is for multiple team usage, with the purchasing decision led by one or more Directors
+- Ultimate is for strategic organizational usage, with the purchasing decision led by one or more Execs
 
 ### Examples
+
 Understanding the distinction of our buyer-based model can be difficult. In it we focus not on the user of the feature, but on the buyer and in what cases a feature would be useful to that buyer even in cases where the buyer is not the user. When making these decisions we ask questions like:
-* Who would drive the demand for this feature?
-* At what level of an organization does this feature add value?
+
+- Who would drive the demand for this feature?
+- At what level of an organization does this feature add value?
 
 Below we list product categories and the current and proposed features which reside in a given tier to highlight how the buyer-based model works in practice.
 
 #### Feature - Kanban Boards
-* **Project and Group Boards (Core/Free)** : The primary user and buyer for Issue Boards in general is Individual Contributors. While group boards likely span teams, there are also valid use cases for an individual to organize code in several projects and manage issues across those projects at the group level. The key differentiation is that an Individual Contributor will likely only ever need a single group level Issue Board; whereas Managers need several group level Issue Boards to facilitate their team's workflows.
-* **Issue Weight on Boards (Starter/Bronze)** : The users assigning issue weights are individual contributors but the value of that weight is for Managers of teams to ensure proper milestone planning.
-* **Multiple Group Issue Boards (Premium/Silver)** : Issue boards which span groups are valuable to and also utilized by groups of groups which aligns to Director level likely buyer.
-* **Issue Board Epic Swimlanes (Ultimate/Gold)** : Everyday users of swimlanes might be individual contributors but their value is in the visualization of activity for company wide portfolio management by Executives.
+
+- **Project and Group Boards (Core/Free)** : The primary user and buyer for Issue Boards in general is Individual Contributors. While group boards likely span teams, there are also valid use cases for an individual to organize code in several projects and manage issues across those projects at the group level. The key differentiation is that an Individual Contributor will likely only ever need a single group level Issue Board; whereas Managers need several group level Issue Boards to facilitate their team's workflows.
+- **Issue Weight on Boards (Starter/Bronze)** : The users assigning issue weights are individual contributors but the value of that weight is for Managers of teams to ensure proper milestone planning.
+- **Multiple Group Issue Boards (Premium/Silver)** : Issue boards which span groups are valuable to and also utilized by groups of groups which aligns to Director level likely buyer.
+- **Issue Board Epic Swimlanes (Ultimate/Gold)** : Everyday users of swimlanes might be individual contributors but their value is in the visualization of activity for company wide portfolio management by Executives.
 
 #### Feature - Merge Requests
-* **Merge conflict resolution (Core/Free)** : Resolving merge conflicts is part of the daily workflow and valuable to Individual Contributors.
-* **Merge approvals (Starter/Bronze)** : Requiring approvals on merge requests is only useful when there is a team working on a project and their Manager (who isn't likely to be the user of approvals) requires specific individuals to provide their approval.
-* **Merge request reviews (Premium/Silver)** : Merge request reviews enables the expedient review by multiple team members on merge requests. Typically large enough teams to value the reduced chatter accompanying MR reviews reside under Directors.
+
+- **Merge conflict resolution (Core/Free)** : Resolving merge conflicts is part of the daily workflow and valuable to Individual Contributors.
+- **Merge approvals (Starter/Bronze)** : Requiring approvals on merge requests is only useful when there is a team working on a project and their Manager (who isn't likely to be the user of approvals) requires specific individuals to provide their approval.
+- **Merge request reviews (Premium/Silver)** : Merge request reviews enables the expedient review by multiple team members on merge requests. Typically large enough teams to value the reduced chatter accompanying MR reviews reside under Directors.
 
 #### Feature - Pipelines
-* **Built in CI Pipelines (Core/Free)** : CI Pipelines are integral to GitLab and used primarily by Individual Contributors.
-* **Show pipeline code coverage rate (Starter/Bronze)** : The ability to determine code coverage rate is particularly valuable to team Managers.
-* **Pipeline dashboards (Premium/Silver)** : Dashboards of pipelines across groups and projects are primarily used and valued by Directors.
-* **Downloadable all pipeline logs (Ultimate/Gold)** : Pipeline logs would be generated and even downloaded by individual contributors, but the value of collating these logs is provided to Executives responsible for ensuring compliance.
+
+- **Built in CI Pipelines (Core/Free)** : CI Pipelines are integral to GitLab and used primarily by Individual Contributors.
+- **Show pipeline code coverage rate (Starter/Bronze)** : The ability to determine code coverage rate is particularly valuable to team Managers.
+- **Pipeline dashboards (Premium/Silver)** : Dashboards of pipelines across groups and projects are primarily used and valued by Directors.
+- **Downloadable all pipeline logs (Ultimate/Gold)** : Pipeline logs would be generated and even downloaded by individual contributors, but the value of collating these logs is provided to Executives responsible for ensuring compliance.
 
 For detailed use-cases per tier, visit the [Per Tier Use-Cases page](/handbook/ceo/pricing/per-tier-use-cases).
 
@@ -83,6 +92,7 @@ When building integrations to partners it is possible to make exceptions to our 
 We've found that bundling our features within tiers into capabilities [resulted in improved conversion performance on our pricing page](https://gitlab.com/groups/gitlab-com/marketing/growth-marketing/-/epics/11). While it is how we present the value of our tiers, this capability based representation serves as an additive filter for, and is not a replace of, our Buyer Based Tiering decision.
 
 Here is a video of the CEO discussing this concept with a Product Leader.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SI-IL7D5YPA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 #### Current Capabilities List
@@ -90,19 +100,22 @@ Here is a video of the CEO discussing this concept with a Product Leader.
 The following are our current set of capabilities:
 
 Starter/Bronze:
-* Single-project management
-* More control over your code
+
+- Single-project management
+- More control over your code
 
 Premium/Silver (all above AND):
-* Multi-project management
-* Code integrity controls
-* Multi-region support
+
+- Multi-project management
+- Code integrity controls
+- Multi-region support
 
 Ultimate/Gold (all above AND):
-* Company-wide portfolio management
-* Application Security
-* Enterprise Insights
-* Compliance Automation
+
+- Company-wide portfolio management
+- Application Security
+- Enterprise Insights
+- Compliance Automation
 
 #### What happens when capabilities don't match our Buyer Based Tiering Decisions?
 
@@ -141,7 +154,6 @@ There are multiple reasons why our lower tiers have more relative value:
 1. That our lower tiers are popular is not a pricing problem but a communication problem. Higher priced tiers have less value per dollar as a percentage but generate more net value in absolute terms. It is up to us to explain that value in the product, with marketing, and in our sales interactions.
 1. Open core projects capture (ratio of value created vs. captured) less value than proprietary projects. Because the pricing tiers are low relative to the value created the difference between the tiers can be much higher than with proprietary software. If you capture 1% you can easily introduce a new tier at 5x, if you capture 50% even doubling your price will take away all benefit for the customer.
 1. We see customers on starter but not users on Core. If we focus only on the visible customers that are on starter we miss the largest opportunity. Starter is priced too if the conversion from starter to premium is lower than organizations becoming customers after using core. Currently this is not the case because it is much harder reaching out to core users since they aren't customers and we don't have a point of contact to discuss the value of higher tiers.
-
 
 Arguments in favor of raising the price of the lowest tier (which we won't necessarily do) are:
 
@@ -263,7 +275,7 @@ The advantages are:
 
 The disadvantages are:
 
-1. The current plans have a blended price, assuming 75% of users should pay for the 5x less expensive plan&mdash;so, plan prices would increase by 2.5x `1/(0.25+(0.75/5))`.
+1. The current plans have a blended price, assuming 75% of users should pay for the 5x less expensive plan—so, plan prices would increase by 2.5x `1/(0.25+(0.75/5))`.
 1. It is hard for buyers to estimate how much of each tier they will need.
 1. For users, it is unclear which features they can use.
 1. The true-up process becomes more complex.
@@ -278,7 +290,7 @@ For the GitLab sales team and for GitLab customers, we suggest handling the obje
 
 ### Reporter User Permission Pricing
 
-As our customers adopt GitLab as the single application for their entire DevOps lifecycle, we are hearing more and more non-developer use cases using GitLab for Agile project management. The main functionality that some non-developer roles need aligns fairly well with our [reporter permission](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) access, including  Managing Labels, Assigning Issues, and Creating and Editing Epics, etc. Those users don’t really need to use much other developer functionality.
+As our customers adopt GitLab as the single application for their entire DevOps lifecycle, we are hearing more and more non-developer use cases using GitLab for Agile project management. The main functionality that some non-developer roles need aligns fairly well with our [reporter permission](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) access, including Managing Labels, Assigning Issues, and Creating and Editing Epics, etc. Those users don’t really need to use much other developer functionality.
 
 Currently, we do not offer a different list price for users who only need the reporter permission because:
 
@@ -318,30 +330,26 @@ We understand that our customers have non-developer use cases. Please [contact o
 1. Partial vs. full refill: We do a full refill since it is simpler to communicate, understand, bill, and administer. CircleCI does a partial refill for 25% of your normal credits.
 1. How much free? We should probably do 5x less than the lowest tier since we have 5x between the paid tiers. GitHub followed our pricing so that isn't a good source of comparison. CircleCI does 250 minutes on the free plan.
 1. Accumulative vs. non-cumulative:
-
-     The pros with the accumulative approach are:
-     1. It makes more logical sense.
-     1. It is more fair as customers will have more minutes and storage as they sign up more users.
-     1. It is aligned with our tier pricing metric.
-     1. It incentivizes more users per namespace of which we know it drives conversion.
-     1. It drives free users to more quickly buy consumption and convert them into customers.
-
-     The pros with the non-cumulative approach are:
-     1. It seems that per namespace is easier to communicate.
-     1. Customers don't need to do calculations on the total minutes and storage they are getting when signing on contracts, renewals, adding users, etc. as long as they stay under the total it is a predictable bill.
-     1. It is simpler to implement, and we already have it.
-     1. The allotment with the plan is to get people started, not for serious consumption, that you can buy separately.
-     1. It looks like a bigger number of minutes and storage.
-     1. This gives the most to free users, for whom purchasing consumption is a big hurdle to try GitLab.
-     1. We need to make sure that a paid tier doesn’t benefit from free users quota.
-     1. Some other vendors' pricing metrics are like this as well.
-
-     We currently think the pros with the non-cumulative approach outweigh the pros with the cumulative approach.
+The pros with the accumulative approach are:
+The pros with the non-cumulative approach are:
+We currently think the pros with the non-cumulative approach outweigh the pros with the cumulative approach.
+    1. It seems that per namespace is easier to communicate.
+    1. Customers don't need to do calculations on the total minutes and storage they are getting when signing on contracts, renewals, adding users, etc. as long as they stay under the total it is a predictable bill.
+    1. It is simpler to implement, and we already have it.
+    1. The allotment with the plan is to get people started, not for serious consumption, that you can buy separately.
+    1. It looks like a bigger number of minutes and storage.
+    1. This gives the most to free users, for whom purchasing consumption is a big hurdle to try GitLab.
+    1. We need to make sure that a paid tier doesn’t benefit from free users quota.
+    1. Some other vendors' pricing metrics are like this as well.
+    1. It makes more logical sense.
+    1. It is more fair as customers will have more minutes and storage as they sign up more users.
+    1. It is aligned with our tier pricing metric.
+    1. It incentivizes more users per namespace of which we know it drives conversion.
+    1. It drives free users to more quickly buy consumption and convert them into customers.
 1. Per user vs. per namespace: Are the consumption limits provisioned per user or per namespace?
-In the case of per namespace, the user gets more minutes and storage when they create another namespace. In the case of per user, the user receives fixed minutes and storage across all their contributions.  We currently provision consumption limits per namespace. A user namespace also receives the group namespace’s quota.
+In the case of per namespace, the user gets more minutes and storage when they create another namespace. In the case of per user, the user receives fixed minutes and storage across all their contributions. We currently provision consumption limits per namespace. A user namespace also receives the group namespace’s quota.
 1. Does storage pricing include other storage types: attachments, containers, etc.?
-     The single storage pricing covers registry (containers are part of it), repository, artifacts, and attachments, etc.
-
+The single storage pricing covers registry (containers are part of it), repository, artifacts, and attachments, etc.
 
 ## Price difference between self-managed and SaaS
 
@@ -368,7 +376,7 @@ This is the title of a [great article](https://codingvc.com/when-is-a-dollar-not
 1. Existing expense vs. new expense: we can make use of existing budgets, be aware that multiple can apply (dev tools, security, operations, DevOps transformation).
 1. Above vs. below discretionary spending limits: one more reason to have multiple pricing tiers.
 1. Selling services vs. customized products vs. off-the-shelf products: we're selling a high-margin product and augment with services when needed to make the customer more successful.
-1. Selling to many stakeholders vs. one stakeholder: this is another reason for our multiple tiers&mdash;Starter is sold to the single stakeholder of development teams, Ultimate is sold to multiple stakeholders and will need the CIO to enforce the transformation.
+1. Selling to many stakeholders vs. one stakeholder: this is another reason for our multiple tiers—Starter is sold to the single stakeholder of development teams, Ultimate is sold to multiple stakeholders and will need the CIO to enforce the transformation.
 1. Monthly vs. upfront payments: that is why we prioritize yearly upfront, sometimes even multi-year upfront. Also, yearly is the standard for enterprises (Salesforce sells it like this) and helps reduce support costs that are an order of magnitude greater for .com (most likely to be monthly) vs. self-managed.
 1. Selling vs. upselling: this is why we have multiple tiers.
 
@@ -383,6 +391,7 @@ On the other hand, it might be simpler to only offer annual pricing.
 On [slide 7 of the 2020 Go To Market (GTM) Survey of Redpoint](https://docs.google.com/presentation/d/e/2PACX-1vTUqJyPtn3dQKP8YlmCwiSXgKNyCAe2qfAfkfh2R68rXCC_lhLlzhtJPQQjOCUP-fvPqAozCx1IoUTs/pub?start=false&loop=false&delayms=3000&slide=id.g8864de4371_0_264) it showed that Annual pricing was the majority from $5k up.
 
 Arguments supporting annual up-front pricing:
+
 1. It helps to recover the costs of acquiring, onboarding, and supporting a customer.
 1. It enables reinvestment to speed delivery of new product capabilities for customers.
 1. It aids customer self-selection and commitment to drive to successful deployment and enough time to see successful outcomes with the product.
@@ -395,6 +404,7 @@ Arguments supporting annual up-front pricing:
 1. Annual pricing lends to a more simple revenue recognition model where consumption is not relevant since revenue is recognized evenly over the course of the term. To get the equivalent with monthly pricing you need a 'use it or lose it' condition per month, while the industry standard is to allow carry-over into the next month.
 
 Arguments supporting monthly pricing
+
 1. Monthly billing gives customers another way to buy and thus reduces barriers to adoption of the product.
 1. Monthly pricing can align with billing of combined or dependent products/services that are already billed monthly. (ex: if bundled with another monthly service)
 
@@ -462,7 +472,7 @@ These straightforward ways are not possible for the following reasons:
 So we're left with charging for features.
 We can't charge for each feature separately, since that is unwieldy for the customer.
 So we charge for tiers that contain a bundle of features.
-We  select features in the (more expensive) paid tiers that:
+We select features in the (more expensive) paid tiers that:
 
 1. Scope: become more useful and valuable as your DevOps score increases
 1. Size: become more useful and valuable as your organizational size increases
@@ -492,7 +502,7 @@ Also see [fork and commoditize](/handbook/leadership/biggest-risks/#fork-and-com
 
 **A customer asked why merge request approvals where not included in core:**
 
-> Thanks for asking. We think that managers are more likely to care about merge requests approvals than individual contributors. That doesn't mean that individual contributors don't care about them. And it doesn't mean that in all cases managers care more, just in most cases.  For more information please see our Buyer Based Open Core model: [/handbook/ceo/pricing/#buyer-based-open-core](/handbook/ceo/pricing/#buyer-based-open-core).
+> Thanks for asking. We think that managers are more likely to care about merge requests approvals than individual contributors. That doesn't mean that individual contributors don't care about them. And it doesn't mean that in all cases managers care more, just in most cases. For more information please see our Buyer Based Open Core model: [/handbook/ceo/pricing/#buyer-based-open-core](/handbook/ceo/pricing/#buyer-based-open-core).
 
 ## If a feature can be moved down do it quickly
 
@@ -511,11 +521,12 @@ In most cases the following guidelines apply:
 1. We should make sure that the basic features of a comparable offerings are open source. We should charge for the features that the comparable offerings charge extra for. We do need features to be open source to drive initial adoption.
 
 Below is a video with the CEO discussing the philosophy of this with a Product Manager:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HY4iqCFztjk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Default to move features down
 
-When in doubt, we will default to moving features to a lower tier, [moving it down quickly](#if-a-feature-can-be-moved-down-do-it-quickly) if 
+When in doubt, we will default to moving features to a lower tier, [moving it down quickly](#if-a-feature-can-be-moved-down-do-it-quickly) if
 data shows that this is more appropriate. Not all tier changes will involve moving things to lower-priced plans and paid features may move into higher tiers, but
 [open source features should never move to paid tiers](company/stewardship/#promises).
 
@@ -544,9 +555,10 @@ These large organizations with a slow lifecycle benefit the most from GitLab, si
 ## Location based pricing
 
 As suggested by [a user on Twitter](https://twitter.com/javierfeldman/status/1101246338824572928).
-This is a good suggestion to consider given the GitLab approach to adapting to local markets throughout the business.  GitLab will assess viability of the idea in our overall pricing strategy planning.  It is difficult to do and our assessment of this will consider:
-1. This is a complex issue and requires that all parties are better off if a change is made to account for geography.  We fully admit that this would be hard to pull off successfully.
-1. If there is a way this could be good for customers and for GitLab, we will not treat this separately.  We will treat it as part of a unified pricing strategy
+This is a good suggestion to consider given the GitLab approach to adapting to local markets throughout the business. GitLab will assess viability of the idea in our overall pricing strategy planning. It is difficult to do and our assessment of this will consider:
+
+1. This is a complex issue and requires that all parties are better off if a change is made to account for geography. We fully admit that this would be hard to pull off successfully.
+1. If there is a way this could be good for customers and for GitLab, we will not treat this separately. We will treat it as part of a unified pricing strategy
 1. In a global and digital marketplace it is difficult to positively identify where a customer is geographically located either because we rely on that customer to self-identify or because it is a large organization with users in several geographical locations.
 1. We may be able to solve with a simpler discounting policy
 1. Any overall reduction in cost per license must be more than made up by increased volume at the new pricing
