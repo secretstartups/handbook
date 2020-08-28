@@ -14,6 +14,28 @@ This page is meant to track the discussion of different database design approach
 
 ### Background and reading material
 
+#### Deduplication ratios
+
+A docker manifest describes how a docker image comprises of multiple layers. A manifest can be identified by the layers it references and as such it can be thought of as unique throughout the registry. Multiple repositories reference the same manifest.
+
+Below we discuss different approaches to modeling that. Model 1 aims to deduplicate manifests, so that there is only ever one record for the same manifest and repositories merely reference manifests. Model 2 does not deduplicate manifests this way. Here, a manifest always belongs to a repository (which is part of its key). The same manifest can be present in multiple repositories which in turn leads to "duplicate" manifest entries (aside from the fact they live in different repositories).
+
+A similar concept holds true for layers of a manifest.
+
+We have imported the container registry from dev.gitlab.org into a database using model 1. In this section, we gather statistics from that import to shed some light onto what to expect from this in-database deduplication.
+
+The "dedup factor" is basically how much more entries we expect if we didn't deduplicate them.
+
+| Entity   | Referenced from | Dedup factor |
+| -------- | --------------- | ------------ |
+| Manifest | Repository      | 1.003        |
+| Blob     | Layer           | 1.53         |
+| Blob     | Repository      | 1.17         |
+
+In the case of the registry on dev.gitlab.org, we can see that almost all manifests are unique (dedup factor 1.003). On average, blobs are being referenced by 1.53 layers and 1.17 repositories.
+
+In summary, if we were not deduplicating those records in the database (model 2 below), we'd have less than double the number of records - assuming dev.gitlab.org is representative enough.
+
 ### Database design alternatives
 
 #### Model 1: "Many-to-Many" and no duplicate records
