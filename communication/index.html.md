@@ -11,9 +11,10 @@ extra_js:
 
 - TOC
 {:toc .hidden-md .hidden-lg}
-
 We're an [all-remote](/company/culture/all-remote/#advantages-for-organizations) company that allows people to work from [almost anywhere in the world](/jobs/faq/#country-hiring-guidelines). We hire great people regardless of where they live, but with GitLab team members across [more than 60 countries](/company/team/), it's important for us to practice clear communication in ways that help us stay connected and work more efficiently.
-To accomplish this, we use **asynchronous communication as a starting point** and stay as open and transparent as we can by communicating through public issues, [merge requests](#everything-starts-with-a-merge-request), and [Slack channels](/handbook/communication/chat).
+
+To accomplish this, we use [**asynchronous communication](/company/culture/all-remote/asynchronous/) as a starting point** and stay as open and transparent as we can by communicating through public issues, [merge requests](#everything-starts-with-a-merge-request), and [Slack channels](/handbook/communication/chat).
+
 We also place an emphasis on ensuring that conclusions of offline conversations are written down.
 When we go **back and forth three times,** we jump on a [synchronous video call](/handbook/communication/#video-calls).
 
@@ -39,7 +40,7 @@ If you see something that concerns you in Slack, Issues, Merge Requests, Video, 
 
 ## External communication
 
-There are 8 key practices to consider during any meeting. They are the following:
+Key practices to consider during any meeting are listed below.
 
 1. Video Calls - If this is your first time meeting a customer/prospect/partner/etc., turn on your camera when you login to Zoom. This will help to make the customer/prospect feel more comfortable as they are certain your undivided attention is geared towards them.
 1. Agenda - Always have an agenda prepped and ready to go. Share this with your audience. Make sure that everything on the agenda is accurate and ask if there’s anything missing that needs to be addressed during this call or for the future. When there is no agenda, it translates to you not caring.
@@ -55,11 +56,13 @@ There are 8 key practices to consider during any meeting. They are the following
 
 GitLab employees and contractors are not authorized to speak with the media or analysts on behalf of our company unless authorized by our Marketing department. Unless authorized, do not give the impression that you are speaking on behalf of GitLab in any communication that may become public. This includes posts to online forums, social media sites, blogs, chat rooms, and bulletin boards. This policy also applies to comments to journalists about specific matters that relate to our businesses, as well as letters to the editor and endorsements of products or services.
 
+For more, please visit the [Corporate Communications handbook section](/handbook/marketing/corporate-marketing/#corporate-communications-and-pr-public-relations).
+
 ### Social Media
 
 Please see our [social media guidelines](/handbook/marketing/social-media-guidelines/).
 
-## Everything starts with a Merge Request
+## Everything Starts with a Merge Request
 
 It's best practice to start a discussion where possible with a [Merge Request (MR)](https://docs.gitlab.com/ee/user/project/merge_requests/) instead of an issue. An MR is associated with a specific change that is proposed and transparent for everyone to review and openly discuss. The nature of MRs facilitate discussions around a proposed solution to a problem that is actionable. An MR is actionable, while an issue will take longer to take action on.
 
@@ -142,8 +145,14 @@ Internal communication is any work related communication at a company.
 Internal Communication includes conversations between team members, wider team discussions, or internal announcements.
 At GitLab, everyone can contribute to the effectiveness of Internal Communications to support aspects of GitLab culture, such as intentional transparency and engaging people in open dialogue.
 
-Since we believe that all team members must be Managers of One, most communication is handled by the relevant group, but we know that some communications are more sensitive and contentious than others.
+Since we believe that all team members must be [Managers of One](/handbook/leadership/#managers-of-one), most communication is handled by the relevant group, but we know that some communications are more sensitive and contentious than others.
 In those cases, the DRIs may want to engage the [Internal Communications function](/handbook/communication/internal-communications).
+
+## Asynchronous communication
+
+In an [all-remote setting](/company/culture/all-remote/terminology/), where team members are empowered to live and work where they're most fulfilled, mastering asynchronous workflows is vital to avoiding [dysfunction](/handbook/values/#five-dysfunctions) and enjoying outsized efficiencies and lifestyle flexibility. Asynchronous communication is the art of communicating and moving projects forward *without* the need for additional stakeholders to be available at the same time your communique is sent.
+
+To learn more on when to use asynchronous and synchronous communication, examples of async workflows in practice at GitLab, core async behaviors, and to take an async knowledge assessment, visit [GitLab's guide to embracing asynchronous communication](/company/culture/all-remote/asynchronous/).
 
 
 ## Top Tips and Best Practices
@@ -280,6 +289,7 @@ In an all-remote organization effective communication is key to exchanging knowl
 If you would like to improve your skills or expand your knowledge on topics relating to Communication at GitLab, check out our resources:
 
 * [Communicating effectively and responsibly through text](/company/culture/all-remote/effective-communication/)
+* [Embracing asynchronous communication](/company/culture/all-remote/asynchronous/)
 
 **Skills and behavior of applying effective communication as a Team Member**:
 *  Effectively practices communication via text.
@@ -298,8 +308,7 @@ If you would like to improve your skills or expand your knowledge on topics rela
 *  Guides team members on when producing video is appropriate. Implements interactive communication tools across their team, department or the company depending on level.
 *  Drives and funnels conversations to the right channels across teams, divisions and the company.
 
-
-## Numbering is for reference, not as a signal
+## Numbering is for Reference, not as a Signal
 
 When taking notes in an agenda, in the handbook, or on our [OKRs](/company/okrs/), keep items numbered so we can refer to Item 3 or 4a.
 The number is not a signal of the importance or rank of the subject unless explicitly stated to be such.
@@ -1151,7 +1160,6 @@ If you add blocks of time spent on recurring tasks to your Google Calendar to re
 ## Posting or Streaming to YouTube
 
 See the [YouTube page](/handbook/marketing/marketing-operations/youtube/) for options and instructions for posting recordings and live streaming to our YouTube channels.
-
 
 ## GitLab Communication Knowledge Assessment
 
