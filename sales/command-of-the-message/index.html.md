@@ -29,7 +29,7 @@ Value drivers describe what organizations are likely proactively looking for or 
 
 | **Asset Title** | **Why / When Use** |
 | ------ | ------ |
-| [GitLab Value Framework](https://docs.google.com/document/d/1LKYY7kJPKUhzfYnBWNdrigpYpEtxFKxbvyAEUF1nwqY/edit?usp=sharing) | primary asset with in-depth information on GitLab's value drivers and defensible differentiators |
+| [GitLab Value Framework](https://docs.google.com/document/d/1ZNWZ46bAp_Ii1UCl5H1THj6cJehh3qsCGJbZXh9yc9g/edit?usp=sharing) | primary asset with in-depth information on GitLab's value drivers and defensible differentiators |
 | [GitLab Value Framework Summary](https://drive.google.com/open?id=1l2g7OJ3mIrCgUlLvwQbtwo-2Eg1lV8rkqUTy9dEoLdc) | 1-page quick guide, also great for sharing with internal champions |
 | [GitLab CXO Digital Transformation Discovery Guide](https://drive.google.com/open?id=1balLINV-vnd6-6TYzF3SIIJKrBPUQofVSDgQ5llC2Do) | 3-page conversation guide for executive discussions |
 | [Proof Points](/handbook/sales/command-of-the-message/proof-points/) | don't take our word for it...3rd party validation from customers, analysts, industry awards, and peer reviews |
@@ -239,9 +239,8 @@ Below is a summary of enhancements made to the GitLab Value Framework and CoM ma
 - Updated proof points
 
 **Version 1.2 (Aug 2020)**
-- [More Proactive and Robust Metrics Guidance](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/184)
-- [Change from MEDDPICC to MEDDPPICC](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/305)
-- [Customer Use Case Solution Summary](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/429)
-- [Proof Points refresh](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/432)
-- and more
+- More Proactive and Robust Metrics Guidance via [Demystifying the Metrics Conversation](/handbook/sales/command-of-the-message/metrics/) Handbook page
+- Changed MEDDPICC to [MEDDPPICC](/handbook/sales/meddppicc/) to reflect importance of understanding Partner influence on opportunities
+- MVP release of the [GitLab Customer Use Case Solution Summary](https://docs.google.com/document/d/11O13xs0KABA7RSrVlF_Qm9kDRJGtK-LmvJlVGYr0qNM/edit?usp=sharing) featuring Tier 1 customer use cases
+- Content refresh (updated [Proof Points](/handbook/sales/command-of-the-message/proof-points/), new ROI materials, [Discovery and Trap-Setting Questions for Selling GitLab Premium/Silver and Ultimate/Gold](/handbook/sales/qualification-questions/#questions-for-selling-gitlab-premiumsilver-and-ultimategold), and Peach Tech & Fuzz It related updates)
 </details>
