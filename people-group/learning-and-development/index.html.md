@@ -234,16 +234,16 @@ To help us continue to be [Handbook First](/handbook/handbook-usage/#why-handboo
 - Test and certification in an open source platform or something without a price per user/student so we can invite all our million of users without incremental costs.
 - Don't put text or video in the platform itself, only link to the handbook and video, so we  have a [single source of truth](/handbook/handbook-usage/#style-guide-and-information-architecture) and don't end up with duplicate content that is hard to keep up to date.
 
-## Compliance Courses
+## Compliance Courses 
 
-GitLab has a number of compliance courses that are required. Explore the drop downs below to learn more. 
+GitLab has a number of compliance courses and resources. Explore the drop downs below to learn more. 
 
 <details>
   <summary markdown='span'>
     Common Ground: Harassment Prevention Training
   </summary>
 
-All new team members will have a task in their onboarding issue to complete this training using <a href="https://learning.willinteractive.com/">Will Interactive's Platform</a> within the first 30 days of hire. Once you get to that step in your onboarding issue, please do the following:
+All team members are required to take a harassment prevention training. All new team members will have a task in their onboarding issue to complete this training using <a href="https://learning.willinteractive.com/">Will Interactive's Platform</a> within the first 30 days of hire. Once you get to that step in your onboarding issue, please do the following:
 
 <ol>
 <li>Log into BambooHR</li>
@@ -264,7 +264,21 @@ Our <a href="/handbook/anti-harassment/?private=1">Anti-Harassment Policy</a> ou
 
 </details>
 
-If you have any questions or need further help please ping people ops in the `#peopleops` channels in slack.
+<details>
+  <summary markdown='span'>
+    Compliance Next
+  </summary>
+
+
+The Compliance Next community offers free membership and comes with tons of amazing resources and tools for compliance professionals as well as people just wanting to learn more about the compliance space. 
+
+You can create a free account on the <a href="www.compliancenext.com">Compliance Next</a> website using your own credentials. 
+
+One of the most unique and interesting aspects of Compliance Next is the ability to connect directly with experts and peers. The platform offers different types of educational resources that you can watch, read and use—all of which provide the ability to comment and ask questions to compliance professionals and other members of the community.
+
+</details>
+
+If you have any questions or need further help please ping people ops in the `#peopleops` channel in slack.
 
 ## Performance Indicators
 
