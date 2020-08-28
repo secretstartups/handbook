@@ -98,7 +98,7 @@ Sometimes I will ask to be kept appraised of an action item or follow up. One co
 
 ### Communicating in Slack
 
-I get a lot of @ mentions in Slack, often when I'm being discussed. Please only @ mention me when you need me to see something or approve something. This saves time and enables increased efficiency.
+I get a lot of @ mentions in Slack, often when I'm being discussed. Please only @ mention me when you need me to see something or approve something, when you just want to refer to me you can just say Sid. This saves time and enables increased efficiency.
 
 ## Please chat me the subject line of emails
 
