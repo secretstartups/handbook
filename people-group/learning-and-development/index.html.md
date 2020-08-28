@@ -52,8 +52,8 @@ Our mission is to provide resources to enable our team members to enhance succes
 
 We are a small team but we've got a big role to play at GitLab! 
 
-* [Learning and Development Partner ](https://about.gitlab.com/job-families/people-ops/learning-development-specialist/): [Josh Zimmerman](https://about.gitlab.com/company/team/#learning-dev-partner)
-* [Learning and Development Generalist](https://about.gitlab.com/job-families/people-ops/learning-development-specialist/#learning--development-generalist): [Jacie Bandur](https://about.gitlab.com/company/team/#jbandur)
+* [Learning and Development Partner ](/job-families/people-ops/learning-development-specialist/): [Josh Zimmerman](/company/team/#learning-dev-partner)
+* [Learning and Development Generalist](/job-families/people-ops/learning-development-specialist/#learning--development-generalist): [Jacie Bandur](/company/team/#jbandur)
 * [Learning and Development Associate](/job-families/people-ops/learning-development-specialist/#learning--development-associate): Open Role
 
 ## Learning Sessions
