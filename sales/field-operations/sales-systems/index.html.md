@@ -112,3 +112,15 @@ Below is a list of the different technical skill sets found on the Sales System 
 21.  Before moving to your next task rebase with `git checkout master` then `git pull`. **Always be pulling!**
 
 Note: We are continuing to move towards using [Salesforce SFDX and GitLab CI/CD Pipelines](https://trailhead.salesforce.com/en/content/learn/projects/automate-cicd-with-gitlab)
+
+## Salesforce.com Installed Package Removal Process
+
+1. Identify the package and what reason(s) you may think it can be removed
+2. Perform initial research on what the packages original intent may have been and identify who owns/owned the use of the functionality. 
+   * GitLab's Tech Stack Google Sheet is a great place to check for this information and [can be found here](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit?usp=sharing)
+3. Open an issue with the owner to investigate further. In this discussion, obtain confirmation on whether or not it may be removed. 
+4. If confirmed to move forward, test by removing the package from the sandbox.
+5. If successfully removed from sandbox, announce the intent to move forward in removing.
+6. Document any relevant information about the package. 
+   * An example of this could be SFDC fields that are part of the package.
+7. Remove the package from production, update the issue and close out.
