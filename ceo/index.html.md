@@ -131,7 +131,6 @@ As part of my role, I participate in a variety of meetings both internal and ext
 1. [CEO Group Conversation](/handbook/people-group/group-conversations/). 25 minutes.
 1. Informal Board Meeting with GitLab Board Members. 50 minutes.
 1. [1-1](/handbook/leadership/1-1/) with CEO Coach. 80 minutes.
-1. [Nominations and Governance](/handbook/board-meetings/#nominating-and-corporate-governance-committee) Meeting. 25 minutes.
 1. Industry Analyst Meetings. 25-50 minute meetings.
 1. [Coffee Chats](/company/culture/all-remote/informal-communication/#coffee-chats). 25 minutes.
 1. [Retrospective](/handbook/engineering/workflow/#retrospective). 25 minutes.
@@ -144,9 +143,9 @@ As part of my role, I participate in a variety of meetings both internal and ext
 
 ### Quarterly Meetings
 
-1. [E-Group Offsite](/handbook/ceo/offsite/) In-person meeting. Monday-Thursday. After QBR's and before the Board of Directors meeting.
+1. [E-Group Offsite](/handbook/ceo/offsite/) Monday-Thursday. After QBR's and before the Board of Directors meeting.
 1. [GitLab Board of Directors Meeting](/handbook/board-meetings/). 3.5 hours via Zoom. Usually preceded by a dinner or followed by a lunch for those who wish to attend in-person in San Francisco.
-1. GitLab Board of Director Committee Meetings => [Audit Committee](/handbook/board-meetings/committees/audit/#audit-committee-charter), [Compensation Committee](/handbook/board-meetings/committees/compensation/#compensation-committee-charter). 50 minutes.
+1. GitLab Board of Director Committee Meetings => [Audit Committee](/handbook/board-meetings/committees/audit/#audit-committee-charter), [Compensation Committee](/handbook/board-meetings/committees/compensation/#compensation-committee-charter), and [Nominating and Corp Governance](/handbook/board-meetings/#nominating-and-corporate-governance-committee) Meeting. 50 minutes.
 1. [Skip Levels](/handbook/leadership/skip-levels/) with direct report's leadership team. 25 min.
 1. [1-1](/handbook/leadership/1-1/) with GitLab Board Members. 25-50 minutes.
 1. [OKR E-Group Planning](/company/okrs/#schedule) 50-90 minutes.
@@ -168,7 +167,10 @@ For scheduling a video call or meeting with me or other execs, please see the [E
 
 ## External Speaking Engagements
 
-To schedule Sid to speak at an external engagement please contact the [EBA to the CEO](handbook/eba/#executive-business-administrator-team) with the details outlined in the [Executive External Event Brief](/handbook/eba/#meeting-request-requirements). The EBA to the CEO will gain approval from the function head of the requestor on whether the CEO will attend or not. Sid's preference is to not participate in panels with multiple speakers if there is no facilitation of time.
+To schedule Sid to speak at an external engagement please contact the [EBA to the CEO](handbook/eba/#executive-business-administrator-team) with the details outlined in the [Executive External Event Brief](/handbook/eba/#meeting-request-requirements). The EBA to the CEO will gain approval from the function head of the requestor on whether the CEO will attend or not. Sid's preference is to not participate in panels with multiple speakers if there is no facilitation of time. 
+
+### Requests for audio/visual check meetings 
+If the organizer of an event requests a prep meeting with Sid to check audio and visual before a remote presentation, we can schedule for 5-10 minutes before the event for Sid to login and confirm that audio and visual is working as expected. A longer prep meeting is not required as Sid has a robust remote work set up. 
 
 ## Sending email
 
