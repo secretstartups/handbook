@@ -282,7 +282,7 @@ We sometimes self-organize [book clubs](/handbook/leadership/book-clubs) to read
 
 ## Training
 
-When you give leadership training please [screenshare the handbook instead of creating a presentation](/handbook/handbook-usage/#screenshare-the-handbook-instead-of-creating-a-presentation).
+When you give leadership training please [screenshare the handbook instead of creating a presentation](/handbook/handbook-usage/#screenshot-the-handbook-instead-of-creating-a-presentation).
 
 ## People Group
 

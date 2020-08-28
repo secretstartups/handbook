@@ -78,7 +78,7 @@ To make our [values](/handbook/values/) stronger, we:
 1. Find new ways to [reinforce our values](/handbook/values/#how-do-we-reinforce-our-values)
 
 It's possible  that a lack of diversity, one of our values, could lead to building a product that is not inclusive.
-To mitigate this, we have many DIB initiatives, including [diversity goals in leadership and throughout the company](/company/culture/inclusion/#performance-indicators) and [referral bonuses for underrepresented groups](/handbook/incentives/#explanation-and-examples-of-underrepresented-groups).
+To mitigate this, we have many DIB initiatives, including [diversity goals in leadership and throughout the company](/company/culture/inclusion/#performance-indicators) and [referral bonuses for underrepresented groups](/handbook/incentives/#add-on-bonus-for-select-underrepresented-groups).
 
 When asked in an [interview](https://youtu.be/7kMQj4O4ZGU) on GitLab Unfiltered to elaborate on this risk, GitLab co-founder and CEO Sid Sijbrandij offered the following context.
 
