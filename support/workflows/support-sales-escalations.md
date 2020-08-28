@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: Support < > Sales / Customer Success Escalations
+title: Support <> Sales / Customer Success Escalations
 category: Handling tickets
 ---
 
