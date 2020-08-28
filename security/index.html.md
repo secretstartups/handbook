@@ -142,7 +142,7 @@ What should you do if you receive a potential phishing email or text from GitLab
 
 ### Laptop or Desktop System Configuration
 
-**The following instructions are for Apple (MacBook Pro or Air) users. Linux users please go to the [Linux Tools](/handbook/tools-and-tips/linux/#linux-setup-future) section of the handbook.**
+**The following instructions are for Apple (MacBook Pro or Air) users. Linux users please go to the [Linux Tools](/handbook/tools-and-tips/linux/) section of the handbook.**
 
 1. Set up **full disk encryption** with [FileVault] (for details, refer to [Apple Support](https://support.apple.com/en-in/HT204837)). GitLab is currently utilizing [JAMF](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/) for endpoint management and can assist with this step. 
 1. Set up a screen saver with **password lock** on your laptop with a timeout of 5 minutes or less. GitLab is currently utilizing [JAMF](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/) for endpoint management and can assist with this step. 
