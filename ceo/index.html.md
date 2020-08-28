@@ -4,6 +4,7 @@ title: "CEO"
 ---
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
@@ -33,12 +34,10 @@ A pronunciation hint for `Sijbrandij`: It’s like when you have seen some disti
 - [CEO shadow program](/handbook/ceo/shadow)
 - [CEO Job Description](/job-families/chief-executive-officer/)
 
-
 ## Favorite Restaurants
 
-
-* Favorite places: [Heirloom Cafe](https://heirloom-sf.com/), [Ozumo](http://www.ozumo.com/) (seated in the bar area). [Hakkasan](https://hakkasan.com/locations/hakkasan-san-francisco/), [Mourad](http://mouradsf.com/), [Shizen](https://www.shizensf.com/) (can't make reservations), [Slanted Door](http://www.slanteddoor.com/)
-* Favorite drinks place: [83 Proof](http://www.83proof.com/).
+- Favorite places: [Heirloom Cafe](https://heirloom-sf.com/), [Ozumo](http://www.ozumo.com/) (seated in the bar area). [Hakkasan](https://hakkasan.com/locations/hakkasan-san-francisco/), [Mourad](http://mouradsf.com/), [Shizen](https://www.shizensf.com/) (can't make reservations), [Slanted Door](http://www.slanteddoor.com/)
+- Favorite drinks place: [83 Proof](http://www.83proof.com/).
 
 ## Flaws
 
@@ -112,9 +111,11 @@ For scheduling a video call or meeting with me or other execs, please see the [E
 As part of my role, I participate in a variety of meetings both internal and external. Please see below for a general overview of these.
 
 ### Daily Meetings
+
 1. [Group Conversation](/handbook/people-group/group-conversations/). 25 minutes.
 
 ### Weekly Meetings
+
 1. [1-1s](/handbook/leadership/1-1/) with my direct reports and [EBA](/handbook/eba/). 25-50 minutes.
 1. [E-Group](/company/team/structure/#e-group) Call. 50 minutes.
 1. Recruiting Syncs on key Executive hires. 25 minutes.
@@ -125,6 +126,7 @@ As part of my role, I participate in a variety of meetings both internal and ext
 1. [Take A Break Call](/handbook/communication/#take-a-break-call). 25 minutes.
 
 ### Monthly Meetings
+
 1. [Key Review](/handbook/finance/key-meetings/) with Executives and function leaders. 25 minutes.
 1. [CEO Group Conversation](/handbook/people-group/group-conversations/). 25 minutes.
 1. Informal Board Meeting with GitLab Board Members. 50 minutes.
@@ -141,6 +143,7 @@ As part of my role, I participate in a variety of meetings both internal and ext
 1. Investor Relations meetings at the request of the CFO and/or VP, Investor Relations. Range from 25 minutes to 1+ days.
 
 ### Quarterly Meetings
+
 1. [E-Group Offsite](/handbook/ceo/offsite/) In-person meeting. Monday-Thursday. After QBR's and before the Board of Directors meeting.
 1. [GitLab Board of Directors Meeting](/handbook/board-meetings/). 3.5 hours via Zoom. Usually preceded by a dinner or followed by a lunch for those who wish to attend in-person in San Francisco.
 1. GitLab Board of Director Committee Meetings => [Audit Committee](/handbook/board-meetings/committees/audit/#audit-committee-charter), [Compensation Committee](/handbook/board-meetings/committees/compensation/#compensation-committee-charter). 50 minutes.
@@ -151,6 +154,7 @@ As part of my role, I participate in a variety of meetings both internal and ext
 1. [Board Member AMA's](/handbook/board-meetings/#quarterly-ama-with-the-board). 25-50 minutes.
 
 ### Annual Meetings
+
 1. [Contribute](/company/culture/contribute/). Sunday-Friday.
 1. [Annual Planning](/handbook/finance/financial-planning-and-analysis/#annual-plan) with the GitLab Board of Directors. 50-80 minutes.
 1. Fiscal Year Kickoff. 50 minutes.
@@ -158,13 +162,13 @@ As part of my role, I participate in a variety of meetings both internal and ext
 
 ## Pick Your Brain interviews
 
-To schedule a Pick Your Brain interview with me, please see the [EBA handbook page](/handbook/eba/#pick-your-brain-meetings). To watch and read prior Pick Your Brain interviews about all-remote, please see the [Interviews page](/company/culture/all-remote/interviews/). 
+To schedule a Pick Your Brain interview with me, please see the [EBA handbook page](/handbook/eba/#pick-your-brain-meetings). To watch and read prior Pick Your Brain interviews about all-remote, please see the [Interviews page](/company/culture/all-remote/interviews/).
 
-For scheduling a video call or meeting with me or other execs, please see the [EBA handbook page](/handbook/eba/). 
+For scheduling a video call or meeting with me or other execs, please see the [EBA handbook page](/handbook/eba/).
 
-## External Speaking Engagements 
+## External Speaking Engagements
 
-To schedule Sid to speak at an external engagement please contact the [EBA to the CEO](handbook/eba/#executive-business-administrator-team) with the details outlined in the [Executive External Event Brief](/handbook/eba/#meeting-request-requirements). The EBA to the CEO will gain approval from the function head of the requestor on whether the CEO will attend or not. Sid's preference is to not participate in panels with multiple speakers if there is no facilitation of time. 
+To schedule Sid to speak at an external engagement please contact the [EBA to the CEO](handbook/eba/#executive-business-administrator-team) with the details outlined in the [Executive External Event Brief](/handbook/eba/#meeting-request-requirements). The EBA to the CEO will gain approval from the function head of the requestor on whether the CEO will attend or not. Sid's preference is to not participate in panels with multiple speakers if there is no facilitation of time.
 
 ## Sending email
 
@@ -182,8 +186,8 @@ The email should only be the body. Greetings and niceties are handled by the EBA
 
 ## Sales meetings
 
-* I love to talk to users or potential users of GitLab anytime.
-* Traveling is not efficient because it can take 2 to 10 times the time of the meeting itself.
+- I love to talk to users or potential users of GitLab anytime.
+- Traveling is not efficient because it can take 2 to 10 times the time of the meeting itself.
 
 Some general guidelines of what travel is appropriate, these guidelines are not fixed, feel free to ask for exceptions:
 
@@ -290,7 +294,6 @@ The smaller we split things up, the smaller steps we take and the faster we can 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/FAuwri0vsts" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-
 
 ## CEO scam
 
