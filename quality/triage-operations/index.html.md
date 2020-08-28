@@ -119,68 +119,12 @@ files.
 
 ### Newly created unlabelled issues requiring first-triage
 
-This report contains the 66 most recent unlabelled issues requiring initial triage. The goal is to ensure we achieve [partial triage](/handbook/engineering/quality/issue-triage#partial-triage) before the issue is picked up by a Product Manager and Engineering Manager in that area.
+This report contains the 72 most recent unlabelled issues requiring initial triage. The goal is to ensure we achieve [partial triage](/handbook/engineering/quality/issue-triage#partial-triage) before the issue is picked up by a Product Manager and Engineering Manager in that area.
 
 * Triage owner: Quality Department Engineers.
-* Triage action:
-  1. Check for [duplicate issues](/handbook/engineering/quality/issue-triage/#duplicates) in this project and others (e.g. a new issue in EE may already exist in CE).
-      * If identified as a duplicate bug, the new issue can be closed with a note similar to:
-
-        ```
-        Hey @author. Thanks for raising an issue. I've checked this for you and found this has already been reported in the following issue(s):
-        * #issues
-
-        Please add your thoughts and feedback on the original issue.
-
-        Closing this issue in favour of the original.
-
-        /duplicate #issues
-        ```
-
-      * If identified as a duplicate feature proposal, the new issue can be closed with a note similar to:
-
-        ```
-        Hey @author. Thanks for your request. I've checked this for you and found this has already been proposed in the following issue(s):
-        * #issues
-
-        Please add your thoughts and feedback on the original issue. Don't forget to upvote!
-
-        Closing this in favour of the original issue.
-
-        /duplicate #issues
-        ```
-
-  1. Add a [type label](https://gitlab.com/gitlab-org/gitlab/blob/master/doc/development/contributing/issue_workflow.md#type-labels).
-    * If identified as a bug, add a [severity label](/handbook/engineering/quality/issue-triage/#severity).
-  1. Add a [team label](https://gitlab.com/gitlab-org/gitlab/blob/master/doc/development/contributing/issue_workflow.md#team-labels)
-  and [stage label](https://gitlab.com/gitlab-org/gitlab/blob/master/doc/development/contributing/issue_workflow.md#stage-labels).
-  1. If it is unclear whether the issue is a bug or a support request:
-    * @mention the PM/EM for the [relevant group](/handbook/product/product-categories/) and ask for their opinion.
-  1. If the issue is a request for help:.
-      * Use this template to provide resources and close the issue:
-
-        ```
-        Hey @author. Based on the information given, this request for support is out of the scope of the Issue tracker (which is for new Bug Reports and Feature Proposals). Unfortunately, I won't be able to help get it resolved. However, for support requests we have several resources that you can use to find help and support from the Community, including:
-        * [Technical Support for Paid Tiers](https://about.gitlab.com/support/)
-        * [Community Forum](https://forum.gitlab.com/)
-        * [Reference Documents and Videos](https://about.gitlab.com/get-help/#references)
-
-        Please refer to our [Support page](https://about.gitlab.com/support/) for more information.
-
-        If you believe this was closed in error, please feel free to re-open the issue.
-
-        /label ~"support request"
-        /close
-        ```
-
-      * If the issue is re-opened, the person who did the initial triage should get an email notification.  They would then be responsible for re-evaluating the issue.
-      * (Optional) Alternatively, instead of closing the issue when using the template above, you could take on the role of customer support and ask the reporter for more information so we can properly assist them. If you do this, add the `~"awaiting feedback"` label.
-  1. If the issue is spam:
-    * [Report the abuse](https://docs.gitlab.com/ee/user/abuse_reports.html) and make the issue confidential. Flag the report that is raised in the [#abuse](https://gitlab.slack.com/messages/C0HPYBJ3D) slack channel with a link to the issue and alert the `@abuse-team`.
-  1. (Optional) Add relevant [subject labels](https://gitlab.com/gitlab-org/gitlab/blob/master/doc/development/contributing/issue_workflow.md#subject-labels).
-  1. (Optional) Mention relevant PM/EMs from the relevant stage group from [product devstages categories](/handbook/product/product-categories/#devops-stages).
-* Enlist help as needed by mentioning folks in the [#triage](https://gitlab.slack.com/messages/C39HX5TRV) slack channel.
-* Example: [https://gitlab.com/gitlab-org/gitlab-ce/issues/57834](https://gitlab.com/gitlab-org/gitlab-ce/issues/57834)
+* Triage action: Follow the instructions in the triage report.
+  * Enlist help as needed by mentioning folks in the [#triage](https://gitlab.slack.com/messages/C39HX5TRV) slack channel.
+  * Example: [https://gitlab.com/gitlab-org/gitlab-ce/issues/57834](https://gitlab.com/gitlab-org/gitlab-ce/issues/57834)
 
 #### Manual creation
 
