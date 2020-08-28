@@ -15,7 +15,7 @@ Sr. Product Marketing Manager, Cloud Native & GitOps / Product Management Intern
 
 ## About me
 
-* I am a big fan of the Iteration value and [Minimum Viable Change](/handbook/values/#minimum-viable-change-mvc)
+* I am a big fan of the Iteration value and [Minimum Viable Change](/handbook/values/#minimal-viable-change-mvc)
 * I also enjoy being meta
 
 ## Books 
