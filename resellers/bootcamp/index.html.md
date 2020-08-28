@@ -34,14 +34,18 @@ GitLab is a single application for the entire DevSecOps lifecycle. To see what G
 3. You will need an exact copy of [this project](https://gitlab.com/gitlab-com/channel/technical-bootcamps/using-gitlab) including issues *in your bootcamp group*. The easiest way to do this is to grab the [latest export](https://drive.google.com/file/d/1i-QvQLYsqTWPAiD_C-6N379cCttES86H/view?usp=sharing) and import it.
 4. The Bootcamp Labs take advantage of paid Enterprise tier features; to get the full experience your instance of GitLab, or your Group if using GitLab.com, should be licensed to Ultimate/Gold.
   * [Get a trial here](https://about.gitlab.com/free-trial/).
-5. Have a look at the issues. Pick the one named *Lab 0* and assign it to yourself. It contains all steps needed to set up the environment. Execute all tasks in it
-6. Read on
+5. Having completed the above, move to the next section on Agile Project Management. This will help you with the knowledge required to then configure your Bootcamp Lab environment.
+
 
 ### Agile Project Management
 
 <figure class="video_container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/bCDmxG4IIXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
+
+
+**Now go to your Labs project, find the issue called *Lab 0* and assign it to yourself. It contains all steps needed to set up the environment for the future labs. Execute all tasks in the issue.**
+
 
 If you are interested in market positioning, typical pain points and the way GitLab addresses them, customer stories and analyst coverage, review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/agile/).
 
