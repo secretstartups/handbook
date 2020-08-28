@@ -73,7 +73,22 @@ The account team is comprised of the Strategic Account Leader/Account Executive,
 
 ## Overlap Between Solution Architects and Technical Account Managers
 
-In working with our prospects and then customers pre and post sale, there can at times be overlap between the SA and the TAM.  Please reference the page linked here for more detail on [who is the DRI when there is SA/TAM overlap](/handbook/customer-success/solutions-architects/#satam-engagement-overlap).
+SA owns 1) pre-sales technical evaluation and relationships prior to the initial sale and 2) tier upgrades and new business units (i.e., connected new) within an existing customer.  TAM owns 1) post-sales customer relationship and 2) license upgrades within an existing customer.
+
+TAM engagement prior to the sale should occur in the following situations:
+
+1. At the POV completion & presentation meeting when the results are reviewed and next steps agreed upon
+1. A shared customer issue tracking project has been created that will affect the account long-term
+1. As requested by the SA if the TAM has a specific subject matter expertise relevant to the conversation
+
+SA's will be brought back in to a customer account in the following situations
+
+1. Development of expansion plans with the SAL and TAM leading to tier upgrades
+1. A new POV or product evaluation begins for a single team or an enterprise-wide upgrade
+1. Any product license expansion that require overviews, education and competitive insights prior to close
+1. Any Professional Services that are being discussed and may require an SOW
+1. If a TAM is over-committed or unable to support a customer request, the SA may be requested to assist
+1. Support of GitLab days or other on-site evangelism of GitLab at customer sites
 
 * [us-public-sector](https://gitlab.com/gitlab-com/us-public-sector) parent project for all public sector work
 * [account-management](https://gitlab.com/gitlab-com/account-management/) parent project for account-specific work and collaboration with the rest of sales
