@@ -56,6 +56,8 @@ The following table provides scores for each of our DevOps stages and a comparis
 
 ## Investment by Group
 
+*Note: Enablement and Growth stages and groups aren't included, as they don't have specific target markets, and don't have a dedicated SAM.  Therefore, they can't be compared directly with feature-function stages and aren't included in this analysis.*
+
 | Section - Stage:Group | Usage Driver | ASP Driver | SAM Driver | Total | % of Total | Group Development Spend % | Score/Spend Difference |
 |-|-|-|-|-|-|-|-|
 <% # this calculates the total score across all stages needed to calculate the percent of total score %>
@@ -77,6 +79,8 @@ The following table provides scores for each of our DevOps stages and a comparis
 <% data.sections.each do |sectionKey, section| %>
   <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
     <% stage.groups.each do |groupKey, group| %>
+      <% next if !group.sam_driver_score %>
+      <% next if !group.sam_driver_score %>
       <% combinedScore = group.usage_driver_score.to_i + group.asp_driver_score.to_i + group.sam_driver_score.to_i %>
       <% percent_of_total = (combinedScore.to_f/totalScore.to_f)*100 %>
       <% difference = group.group_development_spend_percent.to_f - percent_of_total%>
