@@ -234,16 +234,16 @@ To help us continue to be [Handbook First](/handbook/handbook-usage/#why-handboo
 - Test and certification in an open source platform or something without a price per user/student so we can invite all our million of users without incremental costs.
 - Don't put text or video in the platform itself, only link to the handbook and video, so we  have a [single source of truth](/handbook/handbook-usage/#style-guide-and-information-architecture) and don't end up with duplicate content that is hard to keep up to date.
 
-## Compliance Courses
+## Compliance Courses 
 
-GitLab has a number of compliance courses that are required. Explore the drop downs below to learn more. 
+GitLab has a number of compliance courses and resources. Explore the drop downs below to learn more. 
 
 <details>
   <summary markdown='span'>
     Common Ground: Harassment Prevention Training
   </summary>
 
-All new team members will have a task in their onboarding issue to complete this training using <a href="https://learning.willinteractive.com/">Will Interactive's Platform</a> within the first 30 days of hire. Once you get to that step in your onboarding issue, please do the following:
+All team members are required to take a harassment prevention training. All new team members will have a task in their onboarding issue to complete this training using <a href="https://learning.willinteractive.com/">Will Interactive's Platform</a> within the first 30 days of hire. Once you get to that step in your onboarding issue, please do the following:
 
 <ol>
 <li>Log into BambooHR</li>
