@@ -39,4 +39,4 @@ Once the  `infrapm` label has been added to an issue the Infra PM will move it t
 To prioritize initiatives, the Infra PM uses the framework [documented in the Product handbook](https://about.gitlab.com/handbook/product/product-processes/#prioritization).
 
 ## Issue Board
-- Infrastructure Product Manager Tasks are tracked on the [Infra PM Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1502173?scope=all&utf8=%E2%9C%93&label_name[]=infrapm)
+Infrastructure Product Manager Tasks are tracked on the [Infra PM Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1502173?scope=all&utf8=%E2%9C%93&label_name[]=infrapm)
