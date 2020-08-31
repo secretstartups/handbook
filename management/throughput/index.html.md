@@ -44,8 +44,8 @@ You may apply a second throughput label such as `~"bug"` or `~"feature"` to indi
 1. `~"bug"`: Defects in shipped code. Read more about [features vs bugs](/handbook/product/product-processes/#issues).
 1. `~"feature"`: Any MR that contains work to support the implementation of a feature and/or results in an improvement in the user experience. Read more about [features vs bugs](/handbook/product/product-processes/#issues).
   - `~"feature::addition"`: Work towards the creation of a new feature. This includes user facing and non-user facing changes such as data model, feature flag and other backend pre-work.
-  - `~"feature::enhancement"`: Refinement to existing feature that are user facing or improves the usability of existing features.
-  - `~"feature::maintenance"`: Refinements to an existing feature that are not user facing and not related to `~bug` resolution. This could include `~"technical debt"` and industry standard updates such as work towards Rails upgrade.
+  - `~"feature::enhancement"`: Refinements to an existing feature that is user-facing or improves the usability of existing features.
+  - `~"feature::maintenance"`: Refinements to an existing feature that are not user-facing and not related to `~bug` resolution. This could include `~"technical debt"` and industry-standard updates such as work towards Rails upgrade.
 1. `~"tooling"`: MRs related to engineering tooling.
   - `~"tooling::pipelines"`: MRs related to pipelines configuration.
   - `~"tooling::workflow"`: MRs related to improvements of the engineering workflow and release tooling like Danger, RuboCop, linters, etc.
