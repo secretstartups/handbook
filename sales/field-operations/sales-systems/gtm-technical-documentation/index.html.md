@@ -47,6 +47,23 @@ Code Units:
 
 </details>
 
+## Contact Ownership
+<details>
+  <summary markdown="span">Contact Ownership</summary>
+**Business Process this supports:** This supports our [contact ownership rules](/handbook/sales/field-operations/gtm-resources/#changing-contact-ownership-in-salesforce)
+
+**Overview:** The goal of the Contact Ownership code is to ensure that contacts are owned by the appropriate user within salesfore in an automated fashion so that contact ownership is maintained without any work needed by team members. 
+
+**Logic Locations:** [ContactJob](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/blob/master/force-app/main/default/classes/ContactJob.cls)
+Code Units:
+* maintainContactOwnership
+
+**Inputs:** Contact Owner, Account Owner, Account SDR Assigned, Account Type, Sales Segment
+
+**Outputs:** Contact Owner
+
+  </details>
+
 ## Salesforce Record Sharing And Visibility Settings 
 <details>
   <summary markdown="span">Record Sharing and Visibility Info</summary>
