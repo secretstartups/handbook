@@ -19,6 +19,18 @@ title: "License Usage Salesforce App"
 1. To get a summary of license usage across all your accounts click "See License Usage on all my Accounts"
 1. To give feedback or ideas for the License Usage app click "Give Feedback / Report Bug" and comment on the issue.
 
+## Frequently Asked Questions (FAQ)
+
+**Question: Activated Users is great, but when will I be able to see SMAU and other activity metrics?**<br />
+Answer: The Product and Data teams are working to get these metrics at the subscription level, and when they do we will add to this dash! [Follow the progress here](https://docs.google.com/document/d/17dw3qpX5PbvF_WwQXNEQuCPqGUcng1zy85R-2fIL1k8/edit#heading=h.t3mpohrk83kp).
+
+
+**Question: I viewed one of my Accounts, and some of the Subscription Data says "Not Available", what went wrong?**<br />
+Answer: Activated User data is not yet available for some subscriptions based on Namespace collisons or requires enhancement to Seatlink. Some subscriptions will never recieve their activated user count because of air gapped hosting. In either scenario please [post on the Feedback issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/912) if you think the customer's subscription data should be available.
+
+**Question: I expected there to be more (or less) Subscriptions related to the Account then was is appearing, why is this?**<br />
+Answer: Please confirm in the #Sales-Support slack room if you think viewing the app uncovered and issue with the customer's Subscriptions.
+
 ## Data Definitions
 
 | Data Point              | Description                                  | Source              |
@@ -37,6 +49,7 @@ title: "License Usage Salesforce App"
 First, product usage data is uploaded into Salesforce as a .csv file attachment to a License Usage Run record. When triggered, the Run calls classes which read the .csv and inserts License Usage records. Each of these License Usage records know which Zuora Subscription it relates to and through this, which Customer Subscription as well. Then, we run a process which collects information from Licese Usage and Zuora Subscription Product Charge records and stamps the related Customer Subscription. On each Account record page, a button has been added which brings you to another page. This page displays all Active Customer Subscriptions related to that Account that entitle the customer to licenses.
 
 ## Logic Locations
+
 * [LicenseUsageRun.trigger](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/triggers/LicenseUsageRun.trigger)
     * Listens for the "Execute Run" checkbox to change values to begin the process of inserting new License Usage records.
 * [LicenseUsageBatcher.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/LicenseUsageBatcher.cls)
@@ -49,15 +62,3 @@ First, product usage data is uploaded into Salesforce as a .csv file attachment 
     * The controller for `LicenseUsage.page`. Collects only the Customer Subscriptions related to the Account. Ensures the data will properly display the Seat Usage graph.
 * [LicenseUsage.page](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/pages/LicenseUsage.page)
     * The page you are brought to by the button on the Account page. Displays all Customer Subscriptions with collected License Usage data.
-
-## Frequently Asked Questions (FAQ)
-
-**Question: Activated Users is great, but when will I be able to see SMAU and other activity metrics?**<br />
-Answer: The Product and Data teams are working to get these metrics at the subscription level, and when they do we will add to this dash! [Follow the progress here](https://docs.google.com/document/d/17dw3qpX5PbvF_WwQXNEQuCPqGUcng1zy85R-2fIL1k8/edit#heading=h.t3mpohrk83kp).
-
-
-**Question: I viewed one of my Accounts, and some of the Subscription Data says "Not Available", what went wrong?**<br />
-Answer: Activated User data is not yet available for some subscriptions based on Namespace collisons or requires enhancement to Seatlink. Some subscriptions will never recieve their activated user count because of air gapped hosting. In either scenario please [post on the Feedback issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/912) if you think the customer's subscription data should be available.
-
-**Question: I expected there to be more (or less) Subscriptions related to the Account then was is appearing, why is this?**<br />
-Answer: Please confirm in the #Sales-Support slack room if you think viewing the app uncovered and issue with the customer's Subscriptions.
