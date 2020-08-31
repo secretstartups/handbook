@@ -60,8 +60,9 @@ There are various services a Technical Account Manager will provide to ensure th
 - Launch support
 - Monitors support tickets and ensures that the customer receives the appropriate support levels
 - Support ticket escalations
+- Monitor SaaS based customer experience by adding them to the [Marquee Accounts alerts](https://gitlab.com/gitlab-com/gl-infra/marquee-account-alerts) project
 
-It is also possible for a customer to pay for a Technical Account Manager's services in order to receive priority, "white glove" assistance, guidance and support as well as more time allocated to their account on a monthly basis. There are also additional services a Technical Account Manager will provide to the services listed above.
+
 
 ## Coverage
 
