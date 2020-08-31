@@ -33,9 +33,10 @@ The CEO Shadow Program is not a performance evaluation or the next step to a pro
 ### Benefits for the company
 
 Apart from creating leadership opportunities, the CEO Shadow Program:
-* Leaves a great impression on both investors and customers
-* Gives feedback immediately to the CEO
-* Enables the CEO to create immediate change
+
+- Leaves a great impression on both investors and customers
+- Gives feedback immediately to the CEO
+- Enables the CEO to create immediate change
 
 This is why the program is worth the extra overhead for the CEO and [EBA team](/handbook/eba/).
 
@@ -52,9 +53,11 @@ Other names considered:
 ### Reasons to participate
 
 <!-- blank line -->
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/Cg0LzET_NWo" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+
 <!-- blank line -->
 
 ### What is it like?
@@ -62,42 +65,55 @@ Other names considered:
 Considering joining the program? Hear from past shadows about their experience:
 
 1. [Day 2 of Erica Lindberg](https://www.youtube.com/watch?v=xrWR0uU4nbQ)
-2. [Acquisitions, growth curves, and IPO strategies: A day at Khosla Ventures](/blog/2019/04/08/khosla-ventures-gitlab-meeting/)
-3. [GitLab CEO Shadow  Update - May 30, 2019](https://www.youtube.com/embed/EfBMu9dTpno)
+1. [Acquisitions, growth curves, and IPO strategies: A day at Khosla Ventures](/blog/2019/04/08/khosla-ventures-gitlab-meeting/)
+1. [GitLab CEO Shadow Update - May 30, 2019](https://www.youtube.com/embed/EfBMu9dTpno)
 
 <!-- blank line -->
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/EfBMu9dTpno" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+
 <!-- blank line -->
 
-4. [Key takeaways from CEO Shadow C Blake](https://youtu.be/3hel57Sa2EY)
+1. [Key takeaways from CEO Shadow C Blake](https://youtu.be/3hel57Sa2EY)
+
 <!-- blank line -->
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/3hel57Sa2EY" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+
 <!-- blank line -->
 
-5. [AMA with the CEO Shadow Alumni on 2019-08-23](https://www.youtube.com/watch?v=TxivABJ16jE)
+1. [AMA with the CEO Shadow Alumni on 2019-08-23](https://www.youtube.com/watch?v=TxivABJ16jE)
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/watch?v=TxivABJ16jE" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+
 <!-- blank line -->
 
-6. [Reflecting on the CEO Shadow Program at GitLab](https://youtu.be/DGJCuMVp6FM)
+1. [Reflecting on the CEO Shadow Program at GitLab](https://youtu.be/DGJCuMVp6FM)
+
 <!-- blank line -->
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/DGJCuMVp6FM" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-7. [Key Takeaways and Lessons Learned from a Remote GitLab CEO Shadow Rotation](https://youtu.be/4yhtYcOZn3w)
+1. [Key Takeaways and Lessons Learned from a Remote GitLab CEO Shadow Rotation](https://youtu.be/4yhtYcOZn3w)
+
 <!-- blank line -->
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/4yhtYcOZn3w" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-8. [AMA with the CEO Shadow Alumni on 2020-07-02](https://www.youtube.com/watch?v=Yey83s3zGMM)
+1. [AMA with the CEO Shadow Alumni on 2020-07-02](https://www.youtube.com/watch?v=Yey83s3zGMM)
+
 <!-- blank line -->
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/watch?v=Yey83s3zGMM" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
@@ -111,6 +127,7 @@ This is feedback received from some Alumni shadows and their managers
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ1FyJrtnLS76qq-Oi5wi3F7Gd5yJFQc-DyOSVTNZgxM63rJQUtYmWa_4mp5MjaGa_rut5o68fNdNep/embed?start=true&loop=false&delayms=2000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
+
 ### What is the feedback from the CEO?
 
 Hear what our CEO has to say about the CEO shadow program.
@@ -125,7 +142,7 @@ Hear what our CEO has to say about the CEO shadow program.
 
 You are eligible to apply for the program if you have been with GitLab for at least 1 month (recommended more than 3 months) and you are a:
 
-1. [Director or up](/company/team/structure/#layers), Distinguished engineer or up ([backend](/job-families/engineering/backend-engineer/) or [frontend](/job-families/engineering/frontend-engineer/)),  [Senior Product Manager or up](/job-families/product/product-manager) or [Manager](/company/team/structure/#manager) in the People Group
+1. [Director or up](/company/team/structure/#layers), Distinguished engineer or up ([backend](/job-families/engineering/backend-engineer/) or [frontend](/job-families/engineering/frontend-engineer/)), [Senior Product Manager or up](/job-families/product/product-manager) or [Manager](/company/team/structure/#manager) in the People Group
 1. [Manager](/company/team/structure/#layers), Staff engineer ([backend](/job-families/engineering/backend-engineer/) or [frontend](/job-families/engineering/frontend-engineer/)), [SAL](/job-families/sales/strategic-account-leader/), [PMM](/job-families/marketing/product-marketing-manager/), or [Product Manager or up](/job-families/product/product-manager/), if there is 1 consideration.
 1. [Individual Contributor](/company/team/structure/#layers), if there are 2 considerations. This includes TAM and SA roles.
 
@@ -151,11 +168,12 @@ Learn more about what to expect from a [remote shadow rotation](#remote-shadow-r
 
 Shadows with scheduled rotations always have the option to delay to later in the year if they'd prefer to do their rotation in person.
 Shadows who have chosen to delay their rotations until another time include:
-* Jarka Kosanova
-* James Ramsey
-* Liam McNally 
-* Bartek Marnane 
-* Charlie Ablett 
+
+- Jarka Kosanova
+- James Ramsey
+- Liam McNally
+- Bartek Marnane
+- Charlie Ablett
 
 ### How to apply
 
@@ -192,7 +210,7 @@ Exceptional community members may be able to participate, as well.
 ### Rotation schedule
 
 | Start date | End date | See one | Teach one |
-| ------ | ------ | ------ | ------ |
+| ---------- | -------- | ------- | --------- |
 | 2020-08-31 | 2020-09-04 | [Francis Potter](https://gitlab.com/francispotter) - Sr. Solution Architect | [Mike Miranda](https://gitlab.com/mikemiranda) - Account Executive, Commercial Sales |
 | 2020-09-08 | 2020-09-11 | [Shawn Winters](https://gitlab.com/ShawnWinters) - Acceleration SDR | [Francis Potter](https://gitlab.com/francispotter) - Sr. Solution Architect |
 | 2020-09-14 | 2020-09-18 | AVAILABLE - REMOTE | [Shawn Winters](https://gitlab.com/ShawnWinters) - Acceleration SDR |
@@ -221,12 +239,12 @@ If you have questions regarding the planned rotation schedule, please ping the E
 1. Don't plan to do any of your usual work. Prepare your team as if you were on vacation.
 1. Be ready to add a number of [handbook](/handbook/handbook-usage/) updates during your shadow period.
 1. Participating in the shadow program is a privilege where you will be exposed to confidential information. This is underpinned by trust in the shadows to honor the confidentiality of topics being discussed and information shared. The continuation of this program is entirely dependent on shadows past, present and future honoring this trust placed in them.
-2. Give feedback to and receive feedback from the CEO.  Participants in the shadow program are encouraged to deliver [candid feedback](/handbook/people-group/guidance-on-feedback/#guidelines-for-delivering-feedbackck). Examples of this are to the CEO and to the world about the company if they make a blog post or video. Shadows maintaining confidentiality during the program is separate from shadows being able to provide candid feedback.
+1. Give feedback to and receive feedback from the CEO. Participants in the shadow program are encouraged to deliver [candid feedback](/handbook/people-group/guidance-on-feedback/#guidelines-for-delivering-feedbackck). Examples of this are to the CEO and to the world about the company if they make a blog post or video. Shadows maintaining confidentiality during the program is separate from shadows being able to provide candid feedback.
 
 ### What to wear
+
 You **do not need to dress formally**; business casual clothes are appropriate. For example, Sid wears a button up with jeans most days. GitLab shirts are acceptable when there aren't any external meetings. Review Sid's calendar to check if there are formal occasions - this may require different dress. If unsure, please ask the Executive Business Administrator (EBA) in the `#ceo-shadow` Slack channel
 Make sure to bring comfortable shoes with you to Mission Control any time there are meetings in the city. Wear whatever you are comfortable in, keeping in mind that Sid prefers to walk, even if his calendar says Uber.
-
 
 ### Pre-Program Tasks
 
@@ -271,8 +289,8 @@ The value of the CEO Shadow Program comes from the [broader context](#goal) you'
 Since your rotation is over a short period of time, there are no long-term tasks you can take on.
 However, there are many short-term administrative tasks you'll be asked to perform as shadow. Here are some examples:
 
-1. Make [handbook](/handbook/) updates (use the [ceo-shadow](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests?scope=all&utf8=%E2%9C%93&state=all&label_name[]=ceo-shadow) label).
-   Post the MR links in the `#ceo-shadow` Slack channel so the CEO knows they have been completed. It is not required to create issues for these tasks. Go directly to a merge request if it is more [efficient](/handbook/values/#efficiency).
+1. Make [handbook](/handbook/) updates (use the [ceo-shadow](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests?scope=all&utf8=%E2%9C%93&state=all&label_name%5B%5D=ceo-shadow) label).
+Post the MR links in the `#ceo-shadow` Slack channel so the CEO knows they have been completed. It is not required to create issues for these tasks. Go directly to a merge request if it is more [efficient](/handbook/values/#efficiency).
 1. Prepare for, take notes during, and follow up on meetings. See more details below about your [meeting responsibilities as a shadow.](#responsibilities)
 1. Go through open merge requests and work towards merging or closing any that have [not been merged](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?label_name%5B%5D=ceo-shadow).
 1. Publicly advise when people are not following the [communication guidelines](/handbook/communication/) ([see more details below.](/handbook/ceo/shadow/#promote-communication-best-practices)). For example, remind team members to stop screensharing to encourage communication.
@@ -298,11 +316,13 @@ the name of the person that will complete the task.
 Once an MR has been opened, post in the `#ceo-shadow` channel.
 
 ### Meetings & Events
+
 #### CEO's Calendar
+
 1. At the start of the week, review the CEO's calendar. The CEO's calendar is the single source of truth. Shadows should check the CEO's calendar for updates often. You will not be invited to each meeting. Meetings that the shadows may **not** attend will have a separate calendar entry on the CEO's schedule that states "No CEO Shadows". When in doubt, reach out to CEO Executive Business Admin to confirm if you should attend or not. There will be some meetings and events the shadows do not attend. Do not feel obligated to attend every meeting — all meetings are considered optional.
-1. Add the CEO's calendar to your Google Calendar by clicking the `+` next to "Other Calendars".  Then click `Subscribe to Calendar`, search for the CEO's name and click enter.
+1. Add the CEO's calendar to your Google Calendar by clicking the `+` next to "Other Calendars". Then click `Subscribe to Calendar`, search for the CEO's name and click enter.
 1. Because candidate interviews are marked as "private" (busy) for confidentiality reasons, the Executive Business Admin will invite the shadows to those events directly. As a result, you will get an email from Greenhouse asking for candidate feedback, which is not necessary.
-1. Meetings with those outside of GitLab may not be on Zoom. Prior to the call, check the CEO's calendar and load any other conferencing programs that may be needed. It may be necessary to dial-in via phone for  audio-conferences. If you have any problems confirming the link, reach out to the `#ceo-shadow` slack channel
+1. Meetings with those outside of GitLab may not be on Zoom. Prior to the call, check the CEO's calendar and load any other conferencing programs that may be needed. It may be necessary to dial-in via phone for audio-conferences. If you have any problems confirming the link, reach out to the `#ceo-shadow` slack channel
 
 #### Types of meetings
 
@@ -361,9 +381,8 @@ If the candidate is comfortable with it, CEO shadows will attend interviews perf
 When scheduling an interview with the CEO, the EBA to the CEO will create a shared Google Doc for notes between the shadows and the CEO. The doc template can be found by searching "Notes Doc for Candidate Interviews" in Google Drive. If you have any questions, please @ mention the EBA to CEO in `#ceo-shadow` in Slack.
 This notes document is then added to the scorecard for the candidate in Greenhouse.
 
-* Shadows should ensure they mark comments they provide with their full name.
-* Please **do not** complete the automated Greenhouse report that follows the interview, entitled `REMINDER: Please fill out your scorecard for [NAME]`. CEO shadows are asked to simply delete this email.
-
+- Shadows should ensure they mark comments they provide with their full name.
+- Please **do not** complete the automated Greenhouse report that follows the interview, entitled `REMINDER: Please fill out your scorecard for [NAME]`. CEO shadows are asked to simply delete this email.
 
 ##### Valley Meetings
 {:.no_toc}
@@ -404,16 +423,17 @@ If a notes document is not already linked, see the [templates available here](/h
 
 Tips:
 
-* It's helpful if shadow one takes notes as the first speaker is talking, then shadow two starts when the next speaker continues the conversation. Shadow one can pick up note taking again when the next speaker contributes. By alternating this way, the shadows are better able to keep up with all the participants in the conversation.
-* Add extra blank lines after a bulleted or numbered line to make it easier for multiple notetakers to type notes. In the agenda provided, press enter to add a numbered line, followed by a space and press enter again to create a blank line (as Google documents will not allow a numbered line to be empty).
-* Consider clicking somewhere in the document where people are not actively reading or writing so that your name next to the cursor doesn't hide that text.
-* Showing up one to two minutes early to a meeting may give you an opportunity to network with GitLab team members who you do not know.
-* Put Zoom in "gallery mode" so you can see all participants (rather than only the person currently speaking). This allows everyone to see the entire audience which creates a more inclusive environment and fosters better communication.
-* If you aren't sure where meeting attendees are in a Google document, click on their face or initials in the upper-right side of the window. Doing this will cause your cursor to jump to wherever their cursor is in the document.
-* It can be challenging to coordinate with the other shadow on who is taking notes at any point in time. Consider agreeing with the other shadow to "show your hands" in Zoom to indicate that you are not currently taking notes.
+- It's helpful if shadow one takes notes as the first speaker is talking, then shadow two starts when the next speaker continues the conversation. Shadow one can pick up note taking again when the next speaker contributes. By alternating this way, the shadows are better able to keep up with all the participants in the conversation.
+- Add extra blank lines after a bulleted or numbered line to make it easier for multiple notetakers to type notes. In the agenda provided, press enter to add a numbered line, followed by a space and press enter again to create a blank line (as Google documents will not allow a numbered line to be empty).
+- Consider clicking somewhere in the document where people are not actively reading or writing so that your name next to the cursor doesn't hide that text.
+- Showing up one to two minutes early to a meeting may give you an opportunity to network with GitLab team members who you do not know.
+- Put Zoom in "gallery mode" so you can see all participants (rather than only the person currently speaking). This allows everyone to see the entire audience which creates a more inclusive environment and fosters better communication.
+- If you aren't sure where meeting attendees are in a Google document, click on their face or initials in the upper-right side of the window. Doing this will cause your cursor to jump to wherever their cursor is in the document.
+- It can be challenging to coordinate with the other shadow on who is taking notes at any point in time. Consider agreeing with the other shadow to "show your hands" in Zoom to indicate that you are not currently taking notes.
 
 ##### Keeping time
-Shadows are responsible for being aware of the current time and providing a verbal 5-minute warning to the meeting participants so that they can comfortably wrap up the meeting. Don't wait for a break in conversation, just say 'we have 5 minutes left.' Please use the calendar invite as an indication how long the meeting should last. We do [speedy meetings](/handbook/communication/#scheduling-meetings). *Note: Just like notes, timekeeping is _not_ required for 1-1s between the CEO and direct reports.*
+
+Shadows are responsible for being aware of the current time and providing a verbal 5-minute warning to the meeting participants so that they can comfortably wrap up the meeting. Don't wait for a break in conversation, just say 'we have 5 minutes left.' Please use the calendar invite as an indication how long the meeting should last. We do [speedy meetings](/handbook/communication/#scheduling-meetings). _Note: Just like notes, timekeeping is _not_ required for 1-1s between the CEO and direct reports._
 
 Shadows should also notify meeting participants if a meeting is running over the allocated time by saying 'we're in overtime'.
 
@@ -421,10 +441,10 @@ Shadows should also notify meeting participants if a meeting is running over the
 
 Shadows should notify GitLab meeting participants if their [name and job title](/handbook/tools-and-tips/zoom/#adding-your-title-to-your-name) are not mentioned on Zoom.
 
-If you notice that someone does not have their picture set in Google when a Google document is being actively worked on, [let them know how to set one](https://myaccount.google.com/personal-info) so their picture will show up in the document rather than their first initial.  That makes it easier for everyone to find where they are in the document, especially when they are speaking.  Let them know that this is 100% optional.
+If you notice that someone does not have their picture set in Google when a Google document is being actively worked on, [let them know how to set one](https://myaccount.google.com/personal-info) so their picture will show up in the document rather than their first initial. That makes it easier for everyone to find where they are in the document, especially when they are speaking. Let them know that this is 100% optional.
 
 Shadows need to speak up in video calls, and speak up when the CEO's camera isn't working or when the green screen isn't working correctly because of the sun angle.
-![Sun on Green Screen Zoom Issue](/images/ceoshadow/ceo_sun_zoom_issue.png){: .shadow.medium.center}
+![Sun on Green Screen Zoom Issue](/images/ceoshadow/ceo_sun_zoom_issue.png)
 
 #### CEO shadow introductions
 
@@ -446,14 +466,15 @@ When introducing yourself in a meeting as the second shadow, say:
 #### Finding meeting recordings
 
 If Sid records a video to the cloud in a meeting it will eventually end up
-being uploaded to [the Google Drive
-folder](https://drive.google.com/drive/u/1/folders/0B5OISI5eJZ-DX0VkSkpfTm1ONjA).
+being uploaded to [the Google Drive](https://drive.google.com/drive/u/1/folders/0B5OISI5eJZ-DX0VkSkpfTm1ONjA)
+folder.
 Finding the video will require searching based on the calendar event name and
 checking the "last modified" date.
 
 #### Attending in-person events with the CEO
 
 When attending events with the CEO, keep the following in mind:
+
 1. Remind the CEO to bring extra business cards before leaving. And bring a few for yourself.
 1. The CEO has outlined his [transport preferences](/handbook/ceo/#transport).
 1. When traveling to events in the Bay Area by car, the CEO will request the ride sharing service.
@@ -468,12 +489,14 @@ CEO shadows are invited unless otherwise specified, but there is no expectation 
 ### Promote Communication Best Practices
 
 It's important that everyone encourages others to follow the [communication guidelines](/handbook/communication/), not just the CEO. As shadows, in Group Conversations and other settings, you should remind team members to:
-*  Verbalize questions
-*  Stop sharing their screens to encourage conversations
-*  Provide full context for the benefit of new team members
-*  When someone starts a Group Conversation with a presentation, ask them to stop and [record a video next time](/handbook/people-group/group-conversations/#presentation)
+
+- Verbalize questions
+- Stop sharing their screens to encourage conversations
+- Provide full context for the benefit of new team members
+- When someone starts a Group Conversation with a presentation, ask them to stop and [record a video next time](/handbook/people-group/group-conversations/#presentation)
 
 ### Email Best Practices
+
 In order to ensure continuity across CEO shadow participants. Always, cc `ceo-shadow@gitlab.com` on emails as part of the program. This ensures that even after you've left the program the response and follow-up can be tracked.
 
 ### Friendly competition
@@ -484,32 +507,32 @@ It's a point of competition between CEO shadows to try to best the previous shad
 <iframe class="dashboard-embed" src="https://app.periscopedata.com/shared/40ce74a5-00ff-4a5d-8162-b1fe212d8cbc?embed=true" height="700"> </iframe>
 
 ### Follow activity from the CEO
+
 Shadows are encouraged to follow the CEO's activity on various platforms to get a complete picture of his everyday activities and where he directs his attention.
 
 #### In Slack
 {:.no_toc}
+
 Go to the Slack search bar and type "from:@sid" and it will populate the results.
 
-![Slack User Activity](/images/ceoshadow/slackuseractivity.png){: .shadow.medium.center}
+![Slack User Activity](/images/ceoshadow/slackuseractivity.png)
 Follow Sid's Slack activity to follow his everyday engagements
-{: .note.text-center}
 
 #### In GitLab
 {:.no_toc}
+
 This can be seen on the CEO's [GitLab activity log](https://gitlab.com/users/sytses/activity).
 
-![GitLab Activity Log](/images/ceoshadow/gitlabactivitylog.png){: .shadow.medium.center}
+![GitLab Activity Log](/images/ceoshadow/gitlabactivitylog.png)
 See what issues and MRs Sid is interacting with
-{: .note.text-center}
 
 #### On Twitter
 {:.no_toc}
+
 Check out [Sid's Twitter account](https://twitter.com/sytses).
 
-![Twitter notification](/images/ceoshadow/twitternotification.png){: .shadow.medium.center}
+![Twitter notification](/images/ceoshadow/twitternotification.png)
 Sign up for Twitter notifications (Twitter account required) to follow his everyday engagements.
-{: .note.text-center}
-
 ### Documentation focus
 
 An ongoing shadow program with a fast rotation is much more time consuming for the CEO than a temporary program or a rotation of a year or longer.
@@ -521,6 +544,7 @@ A quick turnaround on documentation is crucial, and the documentation will have 
 ### Traveling with the CEO
 
 When traveling with the CEO, keep the following in mind:
+
 1. Book flights that will allow you to land before the CEO so there is no delay in transportation to the next event.
 1. For airport pickup with the CEO, research the terminal the CEO arrives in and plan to be there to meet with the driver before the CEO.
 1. Keep the EBA to the CEO and onsite EBA updated regularly and promptly on estimated arrival time in `#ceo-shadow` Slack channel to ensure the schedule is on time.
@@ -529,7 +553,7 @@ When traveling with the CEO, keep the following in mind:
 
 ### Remote shadow rotations
 
-![GitLab all-remote mentor](/images/all-remote/ceo-shadow-gitlab-awesomeness.jpg){: .shadow.medium.center}
+![GitLab all-remote mentor](/images/all-remote/ceo-shadow-gitlab-awesomeness.jpg)
 
 The CEO Shadow Program is temporarily fully remote because of COVID-19 [travel restrictions](#travel-guidance-covid-19).
 The shadows will participate in all meetings from their usual work environment.
@@ -568,12 +592,12 @@ One more thing: the cat feeder is automatic and goes off daily at 10:22am PT (as
 
 Outside of Mission Control hours, shadows have the following options:
 
-* If not an in person meeting, you are welcome to take the meeting from your lodging and then proceed to Mission Control during the Group Conversation or Company call.
-* There are coffee shops with early opening hours with Wifi access near Mission Control. This is a great venue to meet with your co-shadow if coordination is needed before heading in.
-  * [Philz Coffee on Folsom Street](https://www.google.com/maps/place/Philz+Coffee/@37.7890402,-122.3975675,16z/data=!4m8!1m2!2m1!1sphilz+coffee!3m4!1s0x0:0xba68b065a8d2c93b!8m2!3d37.7887131!4d-122.3930718), opens at 05:30am.
-  * [Philz Coffee on Front Street](https://www.google.com/maps/place/Philz+Coffee/@37.7890402,-122.3975675,16z/data=!4m8!1m2!2m1!1sphilz+coffee!3m4!1s0x0:0x4b3009758e346914!8m2!3d37.7917908!4d-122.3990035), opens at 05:30am.
-  * [Starbucks Reserve on Mission Street](https://www.google.com/maps/place/Starbucks+Reserve/@37.7896722,-122.3933832,17z/data=!4m8!1m2!2m1!1sstarbucks!3m4!1s0x0:0x76ac8e682da13edb!8m2!3d37.791511!4d-122.3951029), opens at 05:00am.
-  * [Starbucks on the 5th floor of the Salesforce tower](https://www.google.com/maps/place/Starbucks/@37.7899796,-122.3966609,18z/data=!4m8!1m2!2m1!1sstarbucks!3m4!1s0x0:0x4e742c0956f70966!8m2!3d37.7899051!4d-122.394609), opens at 04:00am.
+- If not an in person meeting, you are welcome to take the meeting from your lodging and then proceed to Mission Control during the Group Conversation or Company call.
+- There are coffee shops with early opening hours with Wifi access near Mission Control. This is a great venue to meet with your co-shadow if coordination is needed before heading in.
+    - [Philz Coffee on Folsom Street](https://www.google.com/maps/place/Philz+Coffee/@37.7890402,-122.3975675,16z/data=!4m8!1m2!2m1!1sphilz+coffee!3m4!1s0x0:0xba68b065a8d2c93b!8m2!3d37.7887131!4d-122.3930718), opens at 05:30am.
+    - [Philz Coffee on Front Street](https://www.google.com/maps/place/Philz+Coffee/@37.7890402,-122.3975675,16z/data=!4m8!1m2!2m1!1sphilz+coffee!3m4!1s0x0:0x4b3009758e346914!8m2!3d37.7917908!4d-122.3990035), opens at 05:30am.
+    - [Starbucks Reserve on Mission Street](https://www.google.com/maps/place/Starbucks+Reserve/@37.7896722,-122.3933832,17z/data=!4m8!1m2!2m1!1sstarbucks!3m4!1s0x0:0x76ac8e682da13edb!8m2!3d37.791511!4d-122.3951029), opens at 05:00am.
+    - [Starbucks on the 5th floor of the Salesforce tower](https://www.google.com/maps/place/Starbucks/@37.7899796,-122.3966609,18z/data=!4m8!1m2!2m1!1sstarbucks!3m4!1s0x0:0x4e742c0956f70966!8m2!3d37.7899051!4d-122.394609), opens at 04:00am.
 
 ### Mission Control access
 
@@ -596,7 +620,7 @@ There are usually also food trucks in front of the Salesforce Tower and on the o
 {:.no_toc}
 
 1. [Bluestone Lane](https://www.google.com/maps/place/Bluestone+Lane/@37.7900021,-122.4031358,16.56z/data=!4m12!1m6!3m5!1s0x8085808814a10285:0x3b8f6e4330a367d9!2sBluestone+Lane!8m2!3d37.7878896!4d-122.4028954!3m4!1s0x8085808814a10285:0x3b8f6e4330a367d9!8m2!3d37.7878896!4d-122.4028954)
-    * Tye Davis Favorite (AMAZING COFFEE) - long walk
+    - Tye Davis Favorite (AMAZING COFFEE) - long walk
 1. [Starbucks](https://www.google.com/maps/place/Starbucks/@37.7899941,-122.3977364,18.43z/data=!4m12!1m6!3m5!1s0x8085808814a10285:0x3b8f6e4330a367d9!2sBluestone+Lane!8m2!3d37.7878896!4d-122.4028954!3m4!1s0x80858067244672f9:0xea9a5743328af8ff!8m2!3d37.789545!4d-122.397592)
 
 #### Rewards Cards ("punch cards")
@@ -613,8 +637,15 @@ Occasionally, food trucks or restaurants have loyalty rewards cards. It is **not
 We have six monitors at Mission Control. They show the following content:
 
 |:---:|:---:|:---:|
-|**Top Left**<br/>[Team](/company/team)|**Top Middle**<br/>[Category Maturity](/direction/maturity/)|**Top Right**<br/>[Is it any good?](/is-it-any-good/#gitlab-has-yoy-growth-in-adoption-of-version-control-services-study-while-github-and-bitbucket-both-decline)|
-|**Bottom Left**<br/>[Category Maturity](/direction/maturity/) | **Bottom Middle**<br/>[Who we replace](/devops-tools/)| **Bottom Right**<br/>[Remote Manifesto](/company/culture/all-remote/) on how to work remotely |
+|**Top Left**
+[Team](/company/team)|**Top Middle**
+[Category Maturity](/direction/maturity/)|**Top Right**
+[Is it any good?](/is-it-any-good/#gitlab-has-yoy-growth-in-adoption-of-version-control-services-study-while-github-and-bitbucket-both-decline)|
+
+|**Bottom Left**
+[Category Maturity](/direction/maturity/) | **Bottom Middle**
+[Who we replace](/devops-tools/)| **Bottom Right**
+[Remote Manifesto](/company/culture/all-remote/) on how to work remotely |
 
 ##### Configuring the Monitors
 {:.no_toc}
@@ -635,7 +666,7 @@ To configure the sales dashboards:
 The wireless mouse and keyboard are connected to the bottom left TV by default because that one is visible from both sides of the conference table. To update the view on another TV, you have to connect the wireless keyboard and mouse to the desired screen. Afterwards, don't forget to return it to the bottom left position for use during meetings.
 
 1. Find the USB jacks and Logitech receiver underneath the bottom, right TV (they're all labeled).
-![USB jacks and Logitech Reciever](/images/ceoshadow/HDMI_Logitech.png "USB jacks & Logitech Reciever ")
+![USB jacks and Logitech Reciever](/images/ceoshadow/HDMI_Logitech.png)
 1. Connect the Logitech receiver to USB receiver for the desired screen.
 1. To log into the chrome devices at Mission Control, use the login information in the "[CEO Shadow Vault](https://gitlab.1password.com/vaults/tq7hndbk2xjcwc5czwcq7qt6kq/allitems/piqiei3hcjdz7lpmpsyppwxmfi)" in 1Password.
 
@@ -703,17 +734,18 @@ Zoom Rooms is an application used for team members not in San Francisco to parti
 If the EBA to the CEO is unavailable, the CEO shadow may be responsible for handling the technical details of coordinating Zoom meetings. If using a **webinar**, you will need to be a co-host in order to promote participants to panelists so that they can verbalize their own questions.
 
 #### Podcasts on Zencaster
+
 When joining a podcast in Zencaster, a microphone error can be avoided by leaving your microphone unmuted for the first 30 seconds / minute.
-    1. Zencaster checks that your mic is working by recording audio so, muting the mic causes the error.
-    1. The system check happens when you first load the page
-    1. If you get the microphone error, reload the page and wait for the checks to finish before muting.
+1. Zencaster checks that your mic is working by recording audio so, muting the mic causes the error.
+1. The system check happens when you first load the page
+1. If you get the microphone error, reload the page and wait for the checks to finish before muting.
 
 #### Maintaining Software and Hardware
 
 The devices in Mission Control are configured to auto-update when new versions are available. As a precaution, shadows in their second week should confirm all software in Mission Control is update to date.
 
-
 ### Visitors
+
 #### Preparing for Visitors
 
 In preparation for guests (customers, investors, etc.) who will be meeting with the CEO or other team members at Mission Control, please note the following prior to the meeting start:
@@ -725,7 +757,7 @@ In preparation for guests (customers, investors, etc.) who will be meeting with 
 1. Add the Brita water pitcher on the table.
 1. Place the keyboard and the mouse (used for Mission Control screens) on the table.
 1. Ensure that all 6 monitors are displaying the [correct content](/handbook/ceo/shadow/#monitors). If any of the screens are blank, follow the [trouble-shooting instructions](/handbook/ceo/shadow/#troubleshooting-the-monitors).
-1. For investor or banker meetings, see the [confidential issue](https://gitlab.com/gitlab-com/ceo-shadow/tasks/issues/50) with more details on preparations. As a precaution, do not discucss anything related to company performance (i.e. bookings, pipeline, quota attainment, and pricing), the current quarter or products in development, other than those announced. These restrictions are meant to enforce [Fair Disclosure, Regulation FD](https://www.sec.gov/fast-answers/answers-regfdhtm.html) and avoid the accidental dissemination of material nonpublic information. 
+1. For investor or banker meetings, see the [confidential issue](https://gitlab.com/gitlab-com/ceo-shadow/tasks/issues/50) with more details on preparations. As a precaution, do not discucss anything related to company performance (i.e. bookings, pipeline, quota attainment, and pricing), the current quarter or products in development, other than those announced. These restrictions are meant to enforce [Fair Disclosure, Regulation FD](https://www.sec.gov/fast-answers/answers-regfdhtm.html) and avoid the accidental dissemination of material nonpublic information.
 1. If someone is attending a meeting at Mission Control via [Zoom Rooms](#zoom-room):
     1. Follow the setup steps for [Zoom Rooms](#zoom-room).
     1. Move the screen to the head of the table.
@@ -743,22 +775,25 @@ In preparation for guests (customers, investors, etc.) who will be meeting with 
 Please note that we have a cat named [Suzy](/company/team-pets/#7-suzy). It is a Russian Blue mix which is a [hypoallergenic variety](https://www.russianbluelove.com/russian-blue-cat-allergies/).
 
 Suzy likes attention and will invite you to pet her. If you're allergic to cats consider washing your hands after petting.
-If you don't want to wash your hands everytime after petting Suzy you can *gently* paddle pet her using ping pong paddles available in Mission Control. Check out the video's linked below for techniques!
-Please note the white pillow on the sofa in Mission Control is the **only** place to paddle pet Suzy. She really enjoys it when you *gently pat* her sides with the ping pong paddles when she is **on** the white pillow, if she steps **off** the pillow stop petting her. When she gets back onto the pillow you can resume gently paddle petting her.
+If you don't want to wash your hands everytime after petting Suzy you can _gently_ paddle pet her using ping pong paddles available in Mission Control. Check out the video's linked below for techniques!
+Please note the white pillow on the sofa in Mission Control is the **only** place to paddle pet Suzy. She really enjoys it when you _gently pat_ her sides with the ping pong paddles when she is **on** the white pillow, if she steps **off** the pillow stop petting her. When she gets back onto the pillow you can resume gently paddle petting her.
 Please don't pet her after/when she meows since that reinforces the meowing which can be annoying during calls and the night.
 You can pick her up but she doesn't like it much and will jump out after about 30 seconds. Lastly, Suzy sometimes tries to drink out of the toilet, please make sure to leave the toilet lid down.
 ![](/images/handbook/suzypetpillow.jpg)
-
 <!-- blank line -->
+
 #### Paddle Pat technique with Eric Brinkman
 {:.no_toc}
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/vf-uEPweMUg" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 <!-- blank line -->
+
 #### Paddle Pat & Rub technique with JJ Cordz
 {:.no_toc}
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/KLWQH0EDtcg" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
@@ -777,15 +812,16 @@ Everything in the fridge that is liquid can be consumed including Soylent and al
 If the beverages are running low, start by checking the top cupboard above the oven (next to the fridge). There's a step ladder in the laundry (last door on the **left** down the hall way)
 If items in the cupboard are also running low, reach out to the Executive Admin to the CEO list of items that need to be ordered in the `#ceo-shadow` slack channel tagging the EBA to the CEO so all items can be ordered at once.
 This should happen every Monday. Here is a list of items that may need to be restocked:
-   - La Croix (usually there are 3 flavours)
-   - Red Bull
-   - Sugarfree Red Bull
-   - Sprite Zero
-   - Coca Cola
-   - Diet Coke
-   - Fiji water
-   - Soylent Cacao
-   - Snacks in the lock box (try to keep enough so that the box is full) - Preferences of snacks for the incoming shadow and restocking any snack preferences from the outgoing shadow.
+
+- La Croix (usually there are 3 flavours)
+- Red Bull
+- Sugarfree Red Bull
+- Sprite Zero
+- Coca Cola
+- Diet Coke
+- Fiji water
+- Soylent Cacao
+- Snacks in the lock box (try to keep enough so that the box is full) - Preferences of snacks for the incoming shadow and restocking any snack preferences from the outgoing shadow.
 
 ## Travel & Expenses
 
@@ -813,34 +849,33 @@ Shadows are able to expense food and beverage during their rotation and should f
 
 ### Childcare
 
-Childcare is provided during the active shadowing period and will be reimbursed via your expense report. You must book the childcare yourself and it is advised you reach out far in advance as childcare "drop-ins" can be limited depending on the week. Currently, GitLab doesn't have a ["Backup Care"](https://www.brighthorizons.com/family-solutions/back-up-care) program so you must tell the childcare it is for a "drop-in".  Depending on your hotel accommodations, finding a nearby daycare is most convenient or a daycare nearby the [Millennium tower](https://www.google.com/maps/place/Millennium+Tower+San+Francisco/@37.7905055,-122.3962516,15z/data=!4m2!3m1!1s0x0:0x9fe15ebd4a8300d8?sa=X&ved=2ahUKEwiUoZ_hpb_iAhXBop4KHeOAB2QQ_BIwGHoECAsQCA). Some childcare facilities will require payment at end-of-day or end-of-week via cash/check only so request an invoice/receipt for expense submission purposes.
+Childcare is provided during the active shadowing period and will be reimbursed via your expense report. You must book the childcare yourself and it is advised you reach out far in advance as childcare "drop-ins" can be limited depending on the week. Currently, GitLab doesn't have a ["Backup Care"](https://www.brighthorizons.com/family-solutions/back-up-care) program so you must tell the childcare it is for a "drop-in". Depending on your hotel accommodations, finding a nearby daycare is most convenient or a daycare nearby the [Millennium tower](https://www.google.com/maps/place/Millennium+Tower+San+Francisco/@37.7905055,-122.3962516,15z/data=!4m2!3m1!1s0x0:0x9fe15ebd4a8300d8?sa=X&ved=2ahUKEwiUoZ_hpb_iAhXBop4KHeOAB2QQ_BIwGHoECAsQCA). Some childcare facilities will require payment at end-of-day or end-of-week via cash/check only so request an invoice/receipt for expense submission purposes.
 
 Past Childcare facilities that have been accommodating:
 
 1. [Bright Horizons at 2nd Street](https://child-care-preschool.brighthorizons.com/ca/sanfrancisco/2ndstreet?utm_source=GMB_yext&utm_medium=GMBdirectory&utm_campaign=yext&IMS_SOURCE_SPECIFY=GMB) - This facility is nearest the [Courtyard by Marriott SF Downtown Hotel](https://www.google.com/maps/place/Courtyard+by+Marriott+San+Francisco+Downtown/@37.785751,-122.3997608,16.7z/data=!4m12!1m6!3m5!1s0x8085807c643d1007:0x85815e04bf8d233c!2sCourtyard+by+Marriott+San+Francisco+Downtown!8m2!3d37.7859011!4d-122.3969222!3m4!1s0x8085807c643d1007:0x85815e04bf8d233c!8m2!3d37.7859011!4d-122.3969222).
-    * Contact: [Rose - Current Director](https://child-care-preschool.brighthorizons.com/ca/sanfrancisco/2ndstreet)
+    - Contact: [Rose - Current Director](https://child-care-preschool.brighthorizons.com/ca/sanfrancisco/2ndstreet)
 
 ### Travel Guidance: COVID-19
 
 Our top priority is the health and safety of our team members, please refer to the current [travel policy](/handbook/travel/#travel-guidance-covid-19). The CEO Shadow program is classified as non-essential travel and travel to San Francisco will not be required during the time frame specified in the policy linked. CEO Shadows joining the program should plan on participating in the program remotely and matching the CEO's schedule which is primarily in the Pacific time zone unless the CEO is traveling to another time zone. If you have questions please use `#ceo-shadow` in slack and @ mention the [Staff EBA to the CEO](/handbook/eba/#executive-business-administrator-team)
-
 
 ## Alumni
 
 CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack channel to stay in touch after the program.
 
 | Start date | End date | Name | Title | Takeaways |
-| ------ | ------ | ------ | ------ | ------ |
+| ---------- | -------- | ---- | ----- | --------- |
 | 2019-03 | 2019-04 | [Erica Lindberg](https://gitlab.com/erica) | Manager, Content Marketing | [CEO shadow learnings video](https://www.youtube.com/watch?v=xrWR0uU4nbQ) |
-| 2019-04 | 2019-05 | [Mayank Tahil](https://gitlab.com/mayanktahil) | Alliances Manager |
-| 2019-04 | 2019-05 | [Tye Davis](https://gitlab.com/davistye) | Sr. Technical Marketing Manager | [Without a shadow of a doubt: Inside GitLab's CEO shadow program](/blog/2019/07/11/without-a-shadow-of-a-doubt/)
-| 2019-05 | 2019-06 | [John Coghlan](https://gitlab.com/johncoghlan) | Evangelist Program Manager | [5 Things you might hear when meeting with GitLab's CEO](/blog/2019/06/28/five-things-you-hear-from-gitlab-ceo/)
-| 2019-06 | 2019-06 | [Cindy Blake](https://gitlab.com/cblake) | Sr. Product Marketing Manager | [CEO shadow learnings video](https://www.youtube.com/watch?v=3hel57Sa2EY)
-| 2019-06 | 2019-06 | [Nnamdi Iregbulem](https://gitlab.com/whoisnnamdi) | MBA Candidate at Stanford University |
-| 2019-06 | 2019-06 | [Clinton Sprauve](https://gitlab.com/csprauve) | PMM, Competitive Intelligence |
-| 2019-06 | 2019-07 | [Lyle Kozloff](https://gitlab.com/lyle) | Support Engineering Manager |
-| 2019-07 | 2019-07 | [Marin Jankovski](https://gitlab.com/marin) | Engineering Manager, Deliver |
-| 2019-07 | 2019-08 | Danae Villarreal| Sales Development Representative, West |
+| 2019-04 | 2019-05 | [Mayank Tahil](https://gitlab.com/mayanktahil) | Alliances Manager |  |
+| 2019-04 | 2019-05 | [Tye Davis](https://gitlab.com/davistye) | Sr. Technical Marketing Manager | [Without a shadow of a doubt: Inside GitLab's CEO shadow program](/blog/2019/07/11/without-a-shadow-of-a-doubt/) |
+| 2019-05 | 2019-06 | [John Coghlan](https://gitlab.com/johncoghlan) | Evangelist Program Manager | [5 Things you might hear when meeting with GitLab's CEO](/blog/2019/06/28/five-things-you-hear-from-gitlab-ceo/) |
+| 2019-06 | 2019-06 | [Cindy Blake](https://gitlab.com/cblake) | Sr. Product Marketing Manager | [CEO shadow learnings video](https://www.youtube.com/watch?v=3hel57Sa2EY) |
+| 2019-06 | 2019-06 | [Nnamdi Iregbulem](https://gitlab.com/whoisnnamdi) | MBA Candidate at Stanford University |  |
+| 2019-06 | 2019-06 | [Clinton Sprauve](https://gitlab.com/csprauve) | PMM, Competitive Intelligence |  |
+| 2019-06 | 2019-07 | [Lyle Kozloff](https://gitlab.com/lyle) | Support Engineering Manager |  |
+| 2019-07 | 2019-07 | [Marin Jankovski](https://gitlab.com/marin) | Engineering Manager, Deliver |  |
+| 2019-07 | 2019-08 | Danae Villarreal | Sales Development Representative, West |  |
 | 2019-08 | 2019-08 | [Daniel Croft](https://gitlab.com/dcroft) | Engineering Manager, Package | [GitLab, CEO Shadow August 2019 week one, mind blown](https://www.youtube.com/watch?v=VHcA_2UsC2k) |
 | 2019-08 | 2019-08 | [Emilie Schario](https://gitlab.com/emilie) | Data Engineer, Analytics | [What I learned about our CEO's job from participating in the CEO Shadow Program](/blog/2019/10/07/what-i-learned-about-our-ceo-s-job-from-participating-in-the-ceo-shadow-program/) |
 | 2019-08 | 2019-08 | [Kenny Johnston](https://gitlab.com/kencjohnston) | Director of Product, Ops |  |
@@ -851,33 +886,33 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2019-10 | 2019-11 | [Clement Ho](https://gitlab.com/ClemMakesApps) | Frontend Engineering Manager, Monitor:Health |  |
 | 2019-11 | 2019-11 | [Brendan O'Leary](https://gitlab.com/brendan) | Sr. Solutions Manager |  |
 | 2019-11 | 2019-11 | [Gabe Weaver](https://gitlab.com/gweaver) | Sr. Product Manager, Plan: Project Management |  |
-| 2019-11 | 2020-01 | [Chenje Katanda](https://gitlab.com/ckatanda) | Technical Account Manager | |
+| 2019-11 | 2020-01 | [Chenje Katanda](https://gitlab.com/ckatanda) | Technical Account Manager |  |
 | 2020-01 | 2020-01 | [Dov Hershkovitch](https://gitlab.com/dhershkovitch) | Senior Product Manager, Monitor |  |
 | 2020-01 | 2020-01 | [Keanon O'Keefe](https://gitlab.com/kokeefe) | Senior Product Manager, Plan : Portfolio Management |  |
-| 2020-01 | 2020-01 | [Dylan Griffith](https://gitlab.com/DylanGriffith) | Staff Backend Engineer, Search | |
+| 2020-01 | 2020-01 | [Dylan Griffith](https://gitlab.com/DylanGriffith) | Staff Backend Engineer, Search |  |
 | 2020-01 | 2020-02 | [Brittany Rohde](https://gitlab.com/brittanyr) | Manager, Compensation & Benefits | [How the CEO Shadow Program boosted my individual productivity during the COVID-19 Crisis](https://about.gitlab.com/blog/2020/05/29/how-the-ceo-shadow-program-boosted-my-individual-productivity-during-the-covid-19-crisis/) |
-| 2020-01 | 2020-02 | [Nadia Vatalidis](https://gitlab.com/Vatalidis) | Senior Manager, People Operations | |
-| 2020-02 | 2020-02 | [Diana Stanley](https://gitlab.com/dstanley) | Senior Support Engineer | |
-| 2020-02 | 2020-02 | [Chloe Whitestone](https://gitlab.com/chloe) | Technical Account Manager | |
-| 2020-02 | 2020-02 | [Sarah Waldner](https://gitlab.com/sarahwaldner) | Senior Product Manager - Monitor: Health | |
+| 2020-01 | 2020-02 | [Nadia Vatalidis](https://gitlab.com/Vatalidis) | Senior Manager, People Operations |  |
+| 2020-02 | 2020-02 | [Diana Stanley](https://gitlab.com/dstanley) | Senior Support Engineer |  |
+| 2020-02 | 2020-02 | [Chloe Whitestone](https://gitlab.com/chloe) | Technical Account Manager |  |
+| 2020-02 | 2020-02 | [Sarah Waldner](https://gitlab.com/sarahwaldner) | Senior Product Manager - Monitor: Health |  |
 | 2020-02 | 2020-03 | [Shaun McCann](https://gitlab.com/shaunmccann) | Support Engineering Manager | [CEO Shadow AMA with Support Engineering](https://www.youtube.com/watch?v=A80HKDBRaNE) |
-| 2020-03 | 2020-03 | [Lien Van Den Steen](https://gitlab.com/lienvdsteen) | People Ops Fullstack Engineer | |
+| 2020-03 | 2020-03 | [Lien Van Den Steen](https://gitlab.com/lienvdsteen) | People Ops Fullstack Engineer |  |
 | 2020-03 | 2020-03 | [Michael Terhar](https://gitlab.com/mterhar) | Technical Account Manager | [The HyperGrowth Calendar](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/44584) |
-| 2020-03 | 2020-04| [Christen Dybenko](https://gitlab.com/cdybenko) | Sr Product Manager |  |
-| 2020-04 | 2020-04| [Scott Stern](https://gitlab.com/sstern) | Frontend Engineer  |  |
+| 2020-03 | 2020-04 | [Christen Dybenko](https://gitlab.com/cdybenko) | Sr Product Manager |  |
+| 2020-04 | 2020-04 | [Scott Stern](https://gitlab.com/sstern) | Frontend Engineer |  |
 | 2020-04 | 2020-04 | [Stella Treas](https://gitlab.com/streas) | Chief of Staff |  |
 | 2020-04 | 2020-04 | [Bradley Andersen](https://gitlab.com/elohmrow) | Technical Account Manager |  |
 | 2020-04 | 2020-04 | [Cassiana Gudgenov](https://gitlab.com/cgudgenov) | People Operations Specialist |  |
 | 2020-04-28 | 2020-05-08 | [Betsy Church](https://gitlab.com/bchurch) | Senior Talent Brand Manager | [Reflecting on the CEO Shadow Program at GitLab](https://youtu.be/DGJCuMVp6FM) |
 | 2020-05-04 | 2020-05-15 | [Darren Murph](https://gitlab.com/dmurph) | Head of Remote | [GitLab CEO Shadow recap — key takeaways and lessons learned from a remote rotation](https://about.gitlab.com/blog/2020/05/22/gitlab-remote-ceo-shadow-takeaways/) |
 | 2020-05-11 | 2020-05-22 | [Emily Kyle](https://gitlab.com/emily) | Manager, Corporate Events |  |
-| 2020-05-11 | 2020-05-22 | [Candace Williams](https://gitlab.com/cwilliams3) | Diversity, Inclusion & Belonging  Manager |  |
-| 2020-05-25 | 2020-06-05 | [Sophie Pouliquen](https://gitlab.com/spouliquen1) | Senior Technical Account Manager | |
+| 2020-05-11 | 2020-05-22 | [Candace Williams](https://gitlab.com/cwilliams3) | Diversity, Inclusion & Belonging Manager |  |
+| 2020-05-25 | 2020-06-05 | [Sophie Pouliquen](https://gitlab.com/spouliquen1) | Senior Technical Account Manager |  |
 | 2020-06-01 | 2020-06-19 | [Jackie Meshell](https://gitlab.com/jmeshell) | Senior Product Manager, Release Management | [Recording 📹: Four things I learned as a CEO Shadow](https://youtu.be/iAiYAnkdQLQ) |
-| 2020-06-15 | 2020-06-26 | [Wayne Haber](https://gitlab.com/whaber) | Director Engineering, Defend | [Video](https://www.youtube.com/watch?v=JVaPRtY6wMQ) and [Blog](/blog/2020/07/08/ceo-shadow-impressions-takeaways/): What is the GitLab CEO shadow program?  Why should you apply to participate?  How did I see the GitLab values in action?  |
-| 2020-06-22 | 2020-07-03 | [Jim Riley](https://gitlab.com/jrileyinva) | Area Sales Manager - Public Sector| |
-| 2020-06-28 | 2020-07-17 | [Hila Qu](https://gitlab.com/hilaqu) | Director of Product, Growth| |
-| 2020-07-13 | 2020-07-31 | [David DeSanto](https://gitlab.com/ddesanto) | Director of Product, Secure & Defend | |
-| 2020-07-20 | 2020-08-10 | [Tim Rizzi](https://gitlab.com/trizzi) | Senior Product Manager, Package | |
-| 2020-08-10 | 2020-08-21 | [Amy Brandenburg](https://gitlab.com/abrandenburg) | Technology Alliances Manager | |
-| 2020-08-17 | 2020-08-28 | [Sam White](https://gitlab.com/sam.white) | Senior Product Manager, Defend | |
+| 2020-06-15 | 2020-06-26 | [Wayne Haber](https://gitlab.com/whaber) | Director Engineering, Defend | [Video](https://www.youtube.com/watch?v=JVaPRtY6wMQ) and [Blog](/blog/2020/07/08/ceo-shadow-impressions-takeaways/): What is the GitLab CEO shadow program? Why should you apply to participate? How did I see the GitLab values in action? |
+| 2020-06-22 | 2020-07-03 | [Jim Riley](https://gitlab.com/jrileyinva) | Area Sales Manager - Public Sector |  |
+| 2020-06-28 | 2020-07-17 | [Hila Qu](https://gitlab.com/hilaqu) | Director of Product, Growth |  |
+| 2020-07-13 | 2020-07-31 | [David DeSanto](https://gitlab.com/ddesanto) | Director of Product, Secure & Defend |  |
+| 2020-07-20 | 2020-08-10 | [Tim Rizzi](https://gitlab.com/trizzi) | Senior Product Manager, Package |  |
+| 2020-08-10 | 2020-08-21 | [Amy Brandenburg](https://gitlab.com/abrandenburg) | Technology Alliances Manager |  |
+| 2020-08-17 | 2020-08-28 | [Sam White](https://gitlab.com/sam.white) | Senior Product Manager, Defend |  |
