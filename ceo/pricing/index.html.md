@@ -47,39 +47,39 @@ How we make decisions on a day-to-day basis is specified on our [stewardship pag
 
 When considering buyers as part of product tiering decisions we use the following guidance:
 
-- Core is for a single developer, with the purchasing decision led by that same person
-- Starter is for single team usage, with the purchasing decision led by a team manager
-- Premium is for multiple team usage, with the purchasing decision led by one or more Directors
-- Ultimate is for strategic organizational usage, with the purchasing decision led by one or more Execs
+1. Core is for a single developer, with the purchasing decision led by that same person
+1. Starter is for single team usage, with the purchasing decision led by a team manager
+1. Premium is for multiple team usage, with the purchasing decision led by one or more Directors
+1. Ultimate is for strategic organizational usage, with the purchasing decision led by one or more Execs
 
 ### Examples
 
 Understanding the distinction of our buyer-based model can be difficult. In it we focus not on the user of the feature, but on the buyer and in what cases a feature would be useful to that buyer even in cases where the buyer is not the user. When making these decisions we ask questions like:
 
-- Who would drive the demand for this feature?
-- At what level of an organization does this feature add value?
+1. Who would drive the demand for this feature?
+1. At what level of an organization does this feature add value?
 
 Below we list product categories and the current and proposed features which reside in a given tier to highlight how the buyer-based model works in practice.
 
 #### Feature - Kanban Boards
 
-- **Project and Group Boards (Core/Free)** : The primary user and buyer for Issue Boards in general is Individual Contributors. While group boards likely span teams, there are also valid use cases for an individual to organize code in several projects and manage issues across those projects at the group level. The key differentiation is that an Individual Contributor will likely only ever need a single group level Issue Board; whereas Managers need several group level Issue Boards to facilitate their team's workflows.
-- **Issue Weight on Boards (Starter/Bronze)** : The users assigning issue weights are individual contributors but the value of that weight is for Managers of teams to ensure proper milestone planning.
-- **Multiple Group Issue Boards (Premium/Silver)** : Issue boards which span groups are valuable to and also utilized by groups of groups which aligns to Director level likely buyer.
-- **Issue Board Epic Swimlanes (Ultimate/Gold)** : Everyday users of swimlanes might be individual contributors but their value is in the visualization of activity for company wide portfolio management by Executives.
+1. **Project and Group Boards (Core/Free)** : The primary user and buyer for Issue Boards in general is Individual Contributors. While group boards likely span teams, there are also valid use cases for an individual to organize code in several projects and manage issues across those projects at the group level. The key differentiation is that an Individual Contributor will likely only ever need a single group level Issue Board; whereas Managers need several group level Issue Boards to facilitate their team's workflows.
+1. **Issue Weight on Boards (Starter/Bronze)** : The users assigning issue weights are individual contributors but the value of that weight is for Managers of teams to ensure proper milestone planning.
+1. **Multiple Group Issue Boards (Premium/Silver)** : Issue boards which span groups are valuable to and also utilized by groups of groups which aligns to Director level likely buyer.
+1. **Issue Board Epic Swimlanes (Ultimate/Gold)** : Everyday users of swimlanes might be individual contributors but their value is in the visualization of activity for company wide portfolio management by Executives.
 
 #### Feature - Merge Requests
 
-- **Merge conflict resolution (Core/Free)** : Resolving merge conflicts is part of the daily workflow and valuable to Individual Contributors.
-- **Merge approvals (Starter/Bronze)** : Requiring approvals on merge requests is only useful when there is a team working on a project and their Manager (who isn't likely to be the user of approvals) requires specific individuals to provide their approval.
-- **Merge request reviews (Premium/Silver)** : Merge request reviews enables the expedient review by multiple team members on merge requests. Typically large enough teams to value the reduced chatter accompanying MR reviews reside under Directors.
+1. **Merge conflict resolution (Core/Free)** : Resolving merge conflicts is part of the daily workflow and valuable to Individual Contributors.
+1. **Merge approvals (Starter/Bronze)** : Requiring approvals on merge requests is only useful when there is a team working on a project and their Manager (who isn't likely to be the user of approvals) requires specific individuals to provide their approval.
+1. **Merge request reviews (Premium/Silver)** : Merge request reviews enables the expedient review by multiple team members on merge requests. Typically large enough teams to value the reduced chatter accompanying MR reviews reside under Directors.
 
 #### Feature - Pipelines
 
-- **Built in CI Pipelines (Core/Free)** : CI Pipelines are integral to GitLab and used primarily by Individual Contributors.
-- **Show pipeline code coverage rate (Starter/Bronze)** : The ability to determine code coverage rate is particularly valuable to team Managers.
-- **Pipeline dashboards (Premium/Silver)** : Dashboards of pipelines across groups and projects are primarily used and valued by Directors.
-- **Downloadable all pipeline logs (Ultimate/Gold)** : Pipeline logs would be generated and even downloaded by individual contributors, but the value of collating these logs is provided to Executives responsible for ensuring compliance.
+1. **Built in CI Pipelines (Core/Free)** : CI Pipelines are integral to GitLab and used primarily by Individual Contributors.
+1. **Show pipeline code coverage rate (Starter/Bronze)** : The ability to determine code coverage rate is particularly valuable to team Managers.
+1. **Pipeline dashboards (Premium/Silver)** : Dashboards of pipelines across groups and projects are primarily used and valued by Directors.
+1. **Downloadable all pipeline logs (Ultimate/Gold)** : Pipeline logs would be generated and even downloaded by individual contributors, but the value of collating these logs is provided to Executives responsible for ensuring compliance.
 
 For detailed use-cases per tier, visit the [Per Tier Use-Cases page](/handbook/ceo/pricing/per-tier-use-cases).
 
@@ -101,21 +101,21 @@ The following are our current set of capabilities:
 
 Starter/Bronze:
 
-- Single-project management
-- More control over your code
+1. Single-project management
+1. More control over your code
 
 Premium/Silver (all above AND):
 
-- Multi-project management
-- Code integrity controls
-- Multi-region support
+1. Multi-project management
+1. Code integrity controls
+1. Multi-region support
 
 Ultimate/Gold (all above AND):
 
-- Company-wide portfolio management
-- Application Security
-- Enterprise Insights
-- Compliance Automation
+1. Company-wide portfolio management
+1. Application Security
+1. Enterprise Insights
+1. Compliance Automation
 
 #### What happens when capabilities don't match our Buyer Based Tiering Decisions?
 
@@ -189,9 +189,9 @@ For example if a feature is in premium it should be in silver instead of bronze 
 
 ## Type of sell
 
-- A feature sell means that people want to buy the extra features. This can be done self-serve.
-- A benefit sell means that people buy the business outcomes that come with fully utilizing GitLab. You need case studies, metrics like [DevOps Score](https://docs.gitlab.com/ee/user/admin_area/monitoring/dev_ops_score.html), and a quarterly check-in with a Technical Account Manager from Customer Success to review the status of the adoption plan. A competitive process can include a bake-off to show people are 10x faster in starting new projects with GitLab.
-- A transformation sell means that people want to transform as an organization. They want to reduce cycle time by 10x and want us to help them. We do workshops with transformation consultants and define a complete, shared project.
+1. A feature sell means that people want to buy the extra features. This can be done self-serve.
+1. A benefit sell means that people buy the business outcomes that come with fully utilizing GitLab. You need case studies, metrics like [DevOps Score](https://docs.gitlab.com/ee/user/admin_area/monitoring/dev_ops_score.html), and a quarterly check-in with a Technical Account Manager from Customer Success to review the status of the adoption plan. A competitive process can include a bake-off to show people are 10x faster in starting new projects with GitLab.
+1. A transformation sell means that people want to transform as an organization. They want to reduce cycle time by 10x and want us to help them. We do workshops with transformation consultants and define a complete, shared project.
 
 ## Hybrid sales model
 
@@ -304,9 +304,9 @@ We understand that our customers have non-developer use cases. Please [contact o
 
 ## True-up pricing
 
-- With true-up pricing, the license/sale is never blocking user growth.
-- We currently charge 100% for people added during the year, because some organizations gave an intentionally too-low estimate when we charged 50%. If we technically can count "user days," we can make it fair for everyone, but we're not sure if the technical and sales complexity is worth it.
-- We're also doing quarterly true-up on request for larger customers.
+1. With true-up pricing, the license/sale is never blocking user growth.
+1. We currently charge 100% for people added during the year, because some organizations gave an intentionally too-low estimate when we charged 50%. If we technically can count "user days," we can make it fair for everyone, but we're not sure if the technical and sales complexity is worth it.
+1. We're also doing quarterly true-up on request for larger customers.
 
 ## Consumption pricing principles
 
@@ -452,11 +452,11 @@ There are two factors that determine how much value GitLab creates for an organi
 
 When an organization is larger, the benefits of GitLab are larger because:
 
-- Coordination takes up a greater amount of the work. 80% is coordination costs; it is much more valuable to reduce that than when it is 20%.
-- Harder and more expensive to train people and enforce best practices.
-- More silos that benefit from innersourcing.
-- More cancellations, longer cycles, more time to win.
-- Higher requirements for governance.
+1. Coordination takes up a greater amount of the work. 80% is coordination costs; it is much more valuable to reduce that than when it is 20%.
+1. Harder and more expensive to train people and enforce best practices.
+1. More silos that benefit from innersourcing.
+1. More cancellations, longer cycles, more time to win.
+1. Higher requirements for governance.
 
 ## Value capture
 
