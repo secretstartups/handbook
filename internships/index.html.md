@@ -128,6 +128,7 @@ These steps will allow us to work with a manageable number of candidates during 
 \* Candidates must score a strong yes to move on to the panel interview stage.
 
 ### Criteria for teams requesting an intern
+**Note 2020-09-01: Currently, we do not have an active Internship program. We are therefore not accepting any applications for the program today.**
 GitLab teams are able to [apply for an intern](https://forms.gle/RgJGtsyDZcTriNuD7) to join their team.  
 
 Applications get evaluated on the following criteria:
