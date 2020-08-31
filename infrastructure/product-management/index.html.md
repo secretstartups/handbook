@@ -18,7 +18,7 @@ The Infra PM can help triage and prirotize *inbound* requests to Infrastructure 
 
 Examples:
 - [Dogfooding Requests](https://about.gitlab.com/handbook/product/product-processes/#dogfood-everything)
-- [GitLab.com customer request](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/10768)
+- [GitLab.com customer requests](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/10768)
 - [Security and Compliance Requests](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/10982)
 
 The Infra PM can also help drive *outbound* requests on behalf of Infrastructure to internal teams and GitLab.com customers. 
@@ -28,7 +28,7 @@ Examples:
 - [Outreach to GitLab.com customers](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/37444)
 - [Driving cost efficiences across stages](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/8422)
 
-To request assistance from the Infrastructure Product Manager, add the `infrapm` label to an issue. For GitLab.com customer requests, use the [GitLab.com feature request template](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/blob/gitlab-com-feature-request-template/.gitlab/issue_templates/request-gitlab-com) so that we can gather the necessary opportunity size data for prioritization purposes.
+To request assistance from the Infrastructure Product Manager, add the `infrapm` label to an issue. For customer requests related to the availability, reliability, performance, security, and scalability of GitLab.com, use the [GitLab.com feature request template](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/blob/gitlab-com-feature-request-template/.gitlab/issue_templates/request-gitlab-com) so that we can gather the necessary opportunity size data for prioritization purposes.
 
 For general requests, use the [Infrastructure PM Slack Channel](https://gitlab.slack.com/archives/infra-product).
 
