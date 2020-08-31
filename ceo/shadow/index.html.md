@@ -369,7 +369,7 @@ This notes document is then added to the scorecard for the candidate in Greenhou
 ##### Valley Meetings
 {:.no_toc}
 
-The CEO may occasionally invite you to optional meetings that may not be explicitly GitLab related, but can help provide insight into his day-to-day activities. In these meetings, it is asked that you not take notes because we don't want you to do work that isn't for GitLab. These meetings are optional and you can leave at any time.
+The CEO may occasionally invite you to optional meetings that may not be explicitly GitLab related, but can help provide insight into his day-to-day activities. In these meetings, it is asked that you not take notes because we don't want you to do work that isn't for GitLab. However, keeping time can still be very helpful so you are encouraged to do so if you are in attendance. These meetings are optional and you can leave at any time.
 
 ##### Personal Meetings
 {:.no_toc}
