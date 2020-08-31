@@ -108,6 +108,7 @@ We are currently testing a new process through slack for bonus requests. Please 
 **Any GitLab team member**
 
 1. Write a few sentences describing how the GitLab team member has demonstrated a specific GitLab value in their work.  Please make sure you have viewed the valid and invalid criteria listed above.  The nomination request should tie to our values and be detailed enough to ensure that the nomination meets the criteria.
+1. If applicable, please be sure to include any relevant issues or merge requests that support the nomination. 
 1. Email that sentence to the GitLab team member's [manager](/company/team/org-chart/), suggesting a discretionary bonus, and set-up a 15 minute Zoom meeting to discuss your proposal.
 1. Remember that the manager may or may not agree and has full discretion (with approval of their manager) on whether that person gets a bonus. If you are a people manager and you are not approving the team members nomination for a discretionary bonus, in the spirit of transparency and collaboration, it is strongly suggested that you have a conversation with the team member on why you are not approving the discretionary bonus.
 1. Don't forget that you can also use the ```#thanks``` channel to recognize people, as well.
@@ -148,6 +149,7 @@ This process is currently being tested by the People group. Although everyone ca
 **Any GitLab team member**
 1. Go to Slack and type `/nominate name of the team member`
 1. Slack will open a dialog and ask you for some details about the nomination. Use the motivation text field, to write a few sentences describing how the GitLab team member has demonstrated a specific GitLab value in their work.  Please make sure you have viewed the valid and invalid criteria listed above. Don't forget that the nomination request should tie to our values and be detailed enough to ensure that the nomination meets the criteria. You can select the values it applies to.
+1. If applicable, please be sure to include any relevant issues or merge requests that support the nomination. 
 1. Once submitted, the bot will send this over to the manager to kick-off the approval flow
 1. Once everyone has approved the bot will report back to you with the good news. If it's rejected we ask the person who rejects, to reach out to you. That is not done by the bot.
 
