@@ -26,14 +26,6 @@ The Field Enablement team's mission is to help customers successfully grow and e
 
 Please see our [Key Programs](/handbook/sales/field-operations/field-enablement/#key-programs) to learn more. Want to chat with us? Please Slack us at [#field-enablement-team](https://gitlab.slack.com/archives/field-enablement-team). Have a Field Enablement request? Please use our [quick request process below](/handbook/sales/field-operations/field-enablement/#making-a-field-enablement-request).
 
-## Strategy
-
-<!-- blank line -->
-<figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQGUQ9g98p31bPZ267en01qJCqgjeX8ZC6GmChBTKz7TV0OEwhFlKbXPgf1YARh5V-lDBegFpu60iTL/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</figure>
-<!-- blank line -->
-
 ## Key Programs
 
 *  [Sales Onboarding](/handbook/sales/onboarding/)
