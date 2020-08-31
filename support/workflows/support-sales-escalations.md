@@ -6,7 +6,7 @@ category: Handling tickets
 
 ## Purpose
 
-There will be many instances when Support will need to escalate a ticket to Sales/Customer Success, or bring it to their attention. This page list some of these common scenarios and workflows.
+There will be instances when Support will need to escalate a ticket to Sales/Customer Success, or bring it to their attention. This page list some of these common scenarios and workflows.
 
 > Note: If you are from Sales/CS and looking to escalate a ticket to Support Management, please use the [`I want to escalate a ticket`](/handbook/support/internal-support/#i-want-to-escalate-a-ticket) workflow instead.
 
