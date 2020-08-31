@@ -213,7 +213,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2020-08-24 | 2020-08-28 | [Mike Miranda](https://gitlab.com/mikemiranda) - Account Executive, Commercial Sales | [Sam White](https://gitlab.com/sam.white) - Sr. Product Manager, Defend |
 | 2020-08-31 | 2020-09-04 | [Francis Potter](https://gitlab.com/francispotter) - Sr. Solution Architect | [Mike Miranda](https://gitlab.com/mikemiranda) - Account Executive, Commercial Sales |
 | 2020-09-08 | 2020-09-11 | [Shawn Winters](https://gitlab.com/ShawnWinters) - Acceleration SDR | [Francis Potter](https://gitlab.com/francispotter) - Sr. Solution Architect |
 | 2020-09-14 | 2020-09-18 | AVAILABLE - REMOTE | [Shawn Winters](https://gitlab.com/ShawnWinters) - Acceleration SDR |
@@ -396,7 +395,7 @@ This notes document is then added to the scorecard for the candidate in Greenhou
 
 {:.no_toc}
 
-The CEO may occasionally invite you to optional meetings that may not be explicitly GitLab related, but can help provide insight into his day-to-day activities. In these meetings, it is asked that you not take notes because we don't want you to do work that isn't for GitLab. These meetings are optional and you can leave at any time.
+The CEO may occasionally invite you to optional meetings that may not be explicitly GitLab related, but can help provide insight into his day-to-day activities. In these meetings, it is asked that you not take notes because we don't want you to do work that isn't for GitLab. However, keeping time can still be very helpful so you are encouraged to do so if you are in attendance. These meetings are optional and you can leave at any time.
 
 ##### Personal Meetings
 
@@ -455,7 +454,6 @@ If you notice that someone does not have their picture set in Google when a Goog
 
 Shadows need to speak up in video calls, and speak up when the CEO's camera isn't working or when the green screen isn't working correctly because of the sun angle.
 ![Sun on Green Screen Zoom Issue](/images/ceoshadow/ceo_sun_zoom_issue.png)
-{: .shadow.medium.center}
 
 #### CEO shadow introductions
 
@@ -528,38 +526,25 @@ Shadows are encouraged to follow the CEO's activity on various platforms to get 
 Go to the Slack search bar and type "from:@sid" and it will populate the results.
 
 ![Slack User Activity](/images/ceoshadow/slackuseractivity.png)
-{: .shadow.medium.center}
-
 Follow Sid's Slack activity to follow his everyday engagements
-
-{: .note.text-center}
 
 #### In GitLab
 
 {:.no_toc}
 
-This can be seen on the CEO's[GitLab activity log](https://gitlab.com/users/sytses/activity).
+This can be seen on the CEO's [GitLab activity log](https://gitlab.com/users/sytses/activity).
 
 ![GitLab Activity Log](/images/ceoshadow/gitlabactivitylog.png)
-{: .shadow.medium.center}
-
 See what issues and MRs Sid is interacting with
-
-{: .note.text-center}
 
 #### On Twitter
 
 {:.no_toc}
 
-Check out[Sid's Twitter account](https://twitter.com/sytses).
+Check out [Sid's Twitter account](https://twitter.com/sytses).
 
 ![Twitter notification](/images/ceoshadow/twitternotification.png)
-{: .shadow.medium.center}
-
 Sign up for Twitter notifications (Twitter account required) to follow his everyday engagements.
-
-{: .note.text-center}
-
 ### Documentation focus
 
 An ongoing shadow program with a fast rotation is much more time consuming for the CEO than a temporary program or a rotation of a year or longer.
@@ -581,7 +566,6 @@ When traveling with the CEO, keep the following in mind:
 ### Remote shadow rotations
 
 ![GitLab all-remote mentor](/images/all-remote/ceo-shadow-gitlab-awesomeness.jpg)
-{: .shadow.medium.center}
 
 The CEO Shadow Program is temporarily fully remote because of COVID-19 [travel restrictions](#travel-guidance-covid-19).
 The shadows will participate in all meetings from their usual work environment.
@@ -622,10 +606,10 @@ Outside of Mission Control hours, shadows have the following options:
 
 1. If not an in person meeting, you are welcome to take the meeting from your lodging and then proceed to Mission Control during the Group Conversation or Company call.
 1. There are coffee shops with early opening hours with Wifi access near Mission Control. This is a great venue to meet with your co-shadow if coordination is needed before heading in.
-    - [Philz Coffee on Folsom Street](https://www.google.com/maps/place/Philz+Coffee/@37.7890402,-122.3975675,16z/data=!4m8!1m2!2m1!1sphilz+coffee!3m4!1s0x0:0xba68b065a8d2c93b!8m2!3d37.7887131!4d-122.3930718), opens at 05:30am.
-    - [Philz Coffee on Front Street](https://www.google.com/maps/place/Philz+Coffee/@37.7890402,-122.3975675,16z/data=!4m8!1m2!2m1!1sphilz+coffee!3m4!1s0x0:0x4b3009758e346914!8m2!3d37.7917908!4d-122.3990035), opens at 05:30am.
-    - [Starbucks Reserve on Mission Street](https://www.google.com/maps/place/Starbucks+Reserve/@37.7896722,-122.3933832,17z/data=!4m8!1m2!2m1!1sstarbucks!3m4!1s0x0:0x76ac8e682da13edb!8m2!3d37.791511!4d-122.3951029), opens at 05:00am.
-    - [Starbucks on the 5th floor of the Salesforce tower](https://www.google.com/maps/place/Starbucks/@37.7899796,-122.3966609,18z/data=!4m8!1m2!2m1!1sstarbucks!3m4!1s0x0:0x4e742c0956f70966!8m2!3d37.7899051!4d-122.394609), opens at 04:00am.
+    1. [Philz Coffee on Folsom Street](https://www.google.com/maps/place/Philz+Coffee/@37.7890402,-122.3975675,16z/data=!4m8!1m2!2m1!1sphilz+coffee!3m4!1s0x0:0xba68b065a8d2c93b!8m2!3d37.7887131!4d-122.3930718), opens at 05:30am.
+    1. [Philz Coffee on Front Street](https://www.google.com/maps/place/Philz+Coffee/@37.7890402,-122.3975675,16z/data=!4m8!1m2!2m1!1sphilz+coffee!3m4!1s0x0:0x4b3009758e346914!8m2!3d37.7917908!4d-122.3990035), opens at 05:30am.
+    1. [Starbucks Reserve on Mission Street](https://www.google.com/maps/place/Starbucks+Reserve/@37.7896722,-122.3933832,17z/data=!4m8!1m2!2m1!1sstarbucks!3m4!1s0x0:0x76ac8e682da13edb!8m2!3d37.791511!4d-122.3951029), opens at 05:00am.
+    1. [Starbucks on the 5th floor of the Salesforce tower](https://www.google.com/maps/place/Starbucks/@37.7899796,-122.3966609,18z/data=!4m8!1m2!2m1!1sstarbucks!3m4!1s0x0:0x4e742c0956f70966!8m2!3d37.7899051!4d-122.394609), opens at 04:00am.
 
 ### Mission Control access
 
@@ -677,6 +661,7 @@ We have six monitors at Mission Control. They show the following content:
 [Category Maturity](/direction/maturity/) | **Bottom Middle**
 [Who we replace](/devops-tools/)| **Bottom Right**
 [Remote Manifesto](/company/culture/all-remote/) on how to work remotely |
+
 ##### Configuring the Monitors
 
 {:.no_toc}
@@ -951,3 +936,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2020-07-13 | 2020-07-31 | [David DeSanto](https://gitlab.com/ddesanto) | Director of Product, Secure & Defend |  |
 | 2020-07-20 | 2020-08-10 | [Tim Rizzi](https://gitlab.com/trizzi) | Senior Product Manager, Package |  |
 | 2020-08-10 | 2020-08-21 | [Amy Brandenburg](https://gitlab.com/abrandenburg) | Technology Alliances Manager |  |
+| 2020-08-17 | 2020-08-28 | [Sam White](https://gitlab.com/sam.white) | Senior Product Manager, Defend |  |
