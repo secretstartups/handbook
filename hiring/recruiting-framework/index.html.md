@@ -19,3 +19,4 @@ title: "Recruiting Process Framework"
    - [Req Overview Processes](/handbook/hiring/recruiting-framework/req-overview/)
    - [Recruiting Operations & Insights Processes](/handbook/hiring/recruiting-framework/recruiting-operations-insights)
    - [Talent Community Processes](/handbook/hiring/recruiting-framework/talent-community/)
+   - [Candidate Management Processes](/handbook/hiring/recruiting-framework/candidate-management/)
