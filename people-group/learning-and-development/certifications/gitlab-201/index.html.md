@@ -26,7 +26,7 @@ Everyone at GitLab needs to know how to use GitLab and be technical to some leve
 To get started with the GitLab 201 Tool Certification, you will need:
 A laptop
 Wifi
-xx hours (this course can be completed in one sitting or lesson by lesson)
+2 hours (this course can be completed in one sitting or lesson by lesson)
 
 ### Objectives
 1. Learn how to create epics
@@ -44,7 +44,7 @@ Epics let you manage your portfolio of projects more efficiently and with less e
 1. Discuss and collaborate on ideas and scope at a high level.  
 1. Helps to report on the health status of the different issues attached.
 
-### How to Create Epics
+### How to create an epic
 
 Epics are created on group level. To create an epic, navigate to the project’s group, on the left panel,
  
@@ -55,13 +55,13 @@ Epics are created on group level. To create an epic, navigate to the project’s
 
 You may choose to mark confidential by selecting Make this epic confidential checkbox.
 
-### Video: How to Create an Epic (~2 minutes)
+### Video: How to create an epic (~2 minutes)
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/hxUmalpYHF4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-### Child Epics
+### Child epics
 
 A child epic is a sub epic created within the parent epic. You may think about it like a folder with sub folders and multiple files. Child epics may be added to a parent epic.  
 ![epic organisation](/images/handbook/people-group/EPIC_GRAPHIC.png)
@@ -72,17 +72,17 @@ To add a child epic:
 1. Type in the title
 1. Create epic
 
-### Video: How to Create a Child Epic (~2 minutes)
+### Video: How to create a child epic (~2 minutes)
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/2OjWGpOsBsM" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-### How to link Epics and Issues
+### How to link epics and issues
 
 An epic contains a list of issues and an issue can be associated with at most one epic. When you add an issue that’s already linked to an epic, the issue is automatically unlinked from its current parent.
 
-### How to Add an Issue to an Epic
+### How to add an issue to an epic
 
 In the epic, click the Add dropdown button.
 
@@ -124,7 +124,7 @@ To move on to the next lesson, take and pass the GitLab 201 epics quiz.
 
 In GitLab 101, we learned how to [create merge requests](https://about.gitlab.com/handbook/people-group/learning-and-development/certifications/gitlab-101/#lesson-3-gitlab-merge-requests). In this lesson, we will dive deeper into merge requests. 
 
-### Reviewing a Merge Request
+### Reviewing a merge request
 
 You can review a merge request to provide feedback to the author. You can start a review in the merge request diff. Diff is the view of changes to a file between branches or commits.
 
@@ -146,7 +146,7 @@ To resolve a thread, when replying to a comment, click the checkbox to resolve t
 Click "submit review" to publish all documents.
 
 
-### Suggesting Changes to a Merge Request
+### Suggesting changes to a merge request
 
 You can suggest changes in the merge request diff threads. The Merge Request author is able to apply these suggestions with a click, which will generate a commit in the merge request.
 
@@ -168,7 +168,7 @@ The suggestion in the comment can be applied by the merge request author directl
 
 Once the suggestion has been applied, a new commit will be created and the suggested change will be pushed to the merge request's branch.  
 
-### WIP/Draft Merge Requests
+### WIP/Draft merge requests
 
 If you are still working on a merge request and not ready for it to be merged, add `WIP: ` or `Draft: ` to the start of the merge request’s title, this will prevent the merge request from being merged.
 
@@ -184,12 +184,11 @@ Save changes, and assign the merge request to the DRI of the page.
 
 ### Quiz - Lesson 2: Merge Requests 
 
-## Lesson 3: How to Create a New Handbook Page
+To move on to the next lesson, take and pass the GitLab 201 merge request quiz.
 
-### How to Find the handbook in www-gitlab-com project
+## Lesson 3: How to create a new handbook page
 
-You may search through the `www-gitlab-com` project to access the handbook. This is useful for when you are adding a new page to the handbook.  
-To find the handbook, navigate to `www-gitlab-com` project, click sites - handbook - source - handbook. Click the section of the handbook you want to navigate to (eg people group, marketing), the folders are arranged alphabetically. 
+Before creating a new handbook page, ensure the information does not already exist in the handbook or if it can be added to an existing page. 
 
 ### Video: How to Create a New Handbook Page and WIP MR (~9 minutes)
 
@@ -214,11 +213,14 @@ To find the handbook, navigate to `www-gitlab-com` project, click sites - handbo
 
 1. Update the merge request template and assign the merge request to the appropriate revieweer.
 
-### Helpful Tips for Updating the Handbook
-The [markdown guide](/handbook/markdown-guide/#markdown-style-guide-for-aboutgitlabcom) page contains useful tips for updating the handbook, such as adding images, embedding documents and much more.  
+### Helpful Tips for Updating the Handbook 
 
-### Referencing another section of the handbook for how to do something 
-If you don’t know how to do something - find another instance of it in the handbook. For example, if you want to add a table to the handbook. Navigate to a section of the handbook that contains a table, the [People Group](/handbook/people-group/) page is a good example.  
-Click `view source` to see how the table looks. You may copy/paste, then edit to suit your needs.
+1. To locate the handbook on gitlab.com, navigate to `www-gitlab-com` project, click sites - handbook - source - handbook. Click the section of the handbook you want to navigate to (eg people group, marketing), the folders are arranged alphabetically. 
 
-### Quiz - Lesson 3: How to navigate www-gitlab-com project
+1. The [markdown guide](/handbook/markdown-guide/#markdown-style-guide-for-aboutgitlabcom) page contains useful tips for updating the handbook, such as adding images, embedding documents and much more.  
+
+1. If you don’t know how to do something - find another instance of it in the handbook. For example, if you want to add a table to the handbook. Navigate to a section of the handbook that contains a table, the [People Group](/handbook/people-group/) page is a good example. Click `view source` to see how the table looks. You may copy/paste, then edit to suit your needs.
+
+### Quiz - Lesson 3: How to create a new handbook page 
+
+Take and pass the GitLab 201 how to create a new handbook page quiz. To become certified in GitLab 201, you will have to pass (with at least an 80%) all three lessons.
