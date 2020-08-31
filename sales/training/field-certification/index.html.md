@@ -3,16 +3,14 @@ layout: handbook-page-toc
 title: "Field Certification Program"
 ---
 
-# Field Certification Program 
+## Field Certification Program 
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
 
-
-
-# Field Certification Program Overview 
+## Field Certification Program Overview 
 To support and scale GitLab’s continued growth and success, the Field Enablement Team is developing a role based certification program that includes functional, soft skills, and technical training for field team members.  
 
 Certification badges will align to the customer journey and critical “Moments That Matter” (MTMs) as well as the [field functional competencies](/handbook/sales/training/field-functional-competencies/) that address the critical knowledge, skills, role-based behaviors, processes, content, and tools to successfully execute each MTM.
