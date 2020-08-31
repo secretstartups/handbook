@@ -20,7 +20,7 @@ Customers who meet the following criteria are aligned with a Technical Account M
 ### Enterprise
 
 - Companies of 2000+ total employees
-- Recurring contract value (ARR) of $50,000 or greater, or have a joint Gitlab/customer documented growth plan with a commitment to rise to above $50,000 ARR within a given timeframe.
+- Recurring contract value (ARR) of $50,000 or greater, or with a clear, documented growth plan to rise to above $50,000 ARR within a given timeframe.
 
 ### Commercial
 
