@@ -241,3 +241,6 @@ For more information on how to access Sanvello Premium if enrolled in a UHC medi
 
 * For information on COVID-19 the national information helpline phone number is 136.
 * The Ministry of Health provides up-to-date [Coronavirus information](https://coronavirus.saude.gov.br/) online and apps for [Android](https://play.google.com/store/apps/details?id=br.gov.datasus.guardioes) and [iOS](https://apps.apple.com/br/app/coronav%C3%ADrus-sus/id1408008382).
+
+### Travel Guidance 
+* For the company's current travel guidance during this time, please refer to the [travel handbook page](https://about.gitlab.com/handbook/travel/#travel-guidance-covid-19).
