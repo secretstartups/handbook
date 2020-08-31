@@ -237,7 +237,7 @@ A transition plan (if needed) should be agreed upon by all reps and their manage
         1. HQ : Franchises or Consultants (Note: Franchises do not count towards HQ Total Employee Count)
 1. **Final Decision**: For a final decision on account ownership, the current and next ASM or above must both agree to transfer of ownership.
 In all situations where an agreement between the ASM/RDs and/or VPs cannot be reached; CRO will determine final ruling.
-1. **Ownership**: All Lead, Contacts and Accounts are to be owned by the owner of the Account (RD/SAL/AE) [per the handbook](#record-ownership).
+1. **Ownership**: All Leads are to be owned by the owner of the Account (RD/SAL/AE) while All Contact ownership is determined by their assoaciated Accounts Segment, Type and respective team members assigned to the account as [per the handbook](#record-ownership).
 **NOTE: Working a deal does not mean ownership.**
 1. **Considerations for Transferring an Account to a Local Rep**: If the decision-making power, end users, PO and Terms (or a majority combination) are confined to the child account, the Ultimate Parent owner should hand off the Lead to the appropriate Territory owner as this would be in the best interests of the customer and for GitLab.
 
@@ -293,7 +293,15 @@ Rest of the World
 
 ##### Record Ownership
 
-Contacts on accounts owned by a member of the Field Sales Team (RD/SAL/AE/AM), will be owned by the named Account Owner (i.e both the Account and Contact ownership will match).
+Contact Ownership follows the rules as laid out below:
+- Large Accounts
+   - SDR (If present otherwise AE)
+- MM & SMB Accounts
+   - Customer Accounts
+      - AE
+   - Non-Customer Accounts
+      - SDR (If present otherwise AE)
+
 When an SDR is assigned to an Account to support and assist with outreach, the SDR will be added in the `SDR Assigned` lookup field to the account in Salesforce.
 This field then populates down to the related Contact records.
 Only SDRs are able to edit the `SDR Assigned` field and if there is a need to mass update the `SDR Assigned` on many accounts then the SDR should reach out to a member of the Sales Ops Team for support.
@@ -344,15 +352,20 @@ Segment is determined by our data hierarchy - with Datafox being our primary sou
 
 ##### Changing Contact Ownership in Salesforce
 
-Everyone is able to change the owner of a contact as long as they are either changing the Contact Owner to match the Account Owner or they are the current Contact owner.
-Since all contacts are to be owned by the owner of the contacts account this should address all needs to update contact ownership.
+Contact Ownership follows the rules as laid out below. This contact ownership cannot be updated as it is maintained by an [automated process in Salesforce](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#contact-ownership)
+
+- Large Accounts
+   - SDR (If present otherwise AE)
+- MM & SMB Accounts
+   - Customer Accounts
+      - AE
+   - Non-Customer Accounts
+      - SDR (If present otherwise AE)
 
 ##### Changing Lead Ownership in Salesforce
 
-Lead ownership follows the same rules as contact ownership - whoever owns the account also owns all of the leads.
-However since leads are not directly tied to Accounts someone looking to update the ownership of a lead should match the leads data points with our rules related to [Global Account Ownership](#global-account-ownership), [Named Account Ownership](#named-account-ownership) as well as [Territory Account Ownership](#territory-account-ownership).
-Regional Directors, Team Leads and Admins can all change the ownership of any lead.
-
+Everyone is able to change the owner of a Lead as long as they are either changing the Lead Owner to match the Account Owner or they are the current Lead owner.
+Lead ownership is set by LeanData due to specific rules by segment and by region/territory which may include round robin. Any lead unable to be routed, is routed to an SDR Queue for the SDR management team to determine proper ownership. For the most part, Leads are owned by SDRs.
 ##### Default Ownership
 
 *  In the event that Ops encounters that there is not enough information to assign a record to a specific user in Salesforce it is to be assigned to the default user: [`Sales Admin`](https://gitlab.my.salesforce.com/00561000000mpHT?noredirect=1&isUserEntityOverride=1).

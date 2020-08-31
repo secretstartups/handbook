@@ -36,7 +36,7 @@ Qualify your opportunities throughout the sales process (but especially during t
 
 ### Video
 
-Check out the [Demystifying the Metrics Conversation](/handbook/sales/command-of-the-message/metrics.html) Handbook page.
+Check out the [Demystifying the Metrics Conversation](/handbook/sales/command-of-the-message/metrics/) Handbook page.
 
 ### Qualifying Questions
 
@@ -58,7 +58,9 @@ Check out the [Demystifying the Metrics Conversation](/handbook/sales/command-of
 
 ### Video
 
-Coming soon
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/WkGFcUkK7TY" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ### Qualifying Questions
 

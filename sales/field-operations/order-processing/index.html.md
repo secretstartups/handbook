@@ -735,7 +735,7 @@ AWS Private Offer Transactions have a unique process flow, from quoting to oppor
 
 Quoting:
 
-1. Create an Order Form per standard practice, and enter Amazon Web Services as the Invoice Owner, and Accounts Payable (from AWS) as the Invoice Owner Contact. The Sold To contact must be the individual who will receive the license.
+1. Create an Order Form per standard practice, and enter Amazon Web Services as the Invoice Owner. The Invoice Owner Contact field should remain blank. The Sold To contact must be the individual who will receive the license.
 1. Any additional discounts, non-standard payment terms, or other devitation from standard terms will require approval per the approval matrix. Such approvals must be obtained BEFORE applicable terms are relayed to the customer.
 1. Deliver PDF of Order Form to Peter Goldberg (GitLab Alliances team) to create Private Offer. Work with Alliances to provide Private Offer to customer for acceptance.
 1. Note that IACV will reflect the net price on the opportunity, after the margin to AWS is taken into account upon booking. Compensation for AWS deals will be channel neutral specifically for the margin to AWS.

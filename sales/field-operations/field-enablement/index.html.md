@@ -13,7 +13,7 @@ title: "Field Enablement"
 
 ## Overview
 
-The Field Enablement team's mission is to help customers successfully grow and evolve in their journey with GitLab to achieve positive business outcomes with effective enablement solutions aligned to [Gitlab’s values](/handbook/values/). 
+The Field Enablement team's mission is to help customers successfully grow and evolve in their journey with GitLab to achieve positive business outcomes with effective enablement solutions aligned to [Gitlab’s values](/handbook/values/). Want to communicate with us? Please Slack us at [#field-enablement-team](https://gitlab.slack.com/archives/field-enablement-team).
 
 <details>
 <summary markdown="span">How we do this:</summary>
@@ -54,6 +54,14 @@ Please see our [Key Programs](/handbook/sales/field-operations/field-enablement/
     *  [Sales Kick Off](/handbook/sales/training/SKO)
     *  [Sales QBRs](/handbook/sales/#quarterly-business-reviews)
     *  [GitLab President's Club](/handbook/sales/club/)
+
+## Strategy
+
+<!-- blank line -->
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQGUQ9g98p31bPZ267en01qJCqgjeX8ZC6GmChBTKz7TV0OEwhFlKbXPgf1YARh5V-lDBegFpu60iTL/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
+<!-- blank line -->
 
 ## Handbook-First Approach to GitLab Learning and Development Materials
 
