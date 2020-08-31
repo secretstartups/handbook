@@ -24,7 +24,7 @@ The Field Enablement team's mission is to help customers successfully grow and e
 *  Cultivate a culture of curiosity, iteration, and continuous learning & development across the GitLab field organization.
 </details>
 
-Please see our [Key Programs](/handbook/sales/field-operations/field-enablement/#key-programs) to learn more. Want to communicate with us? Please Slack us at [#field-enablement-team](https://gitlab.slack.com/archives/field-enablement-team).
+Please see our [Key Programs](/handbook/sales/field-operations/field-enablement/#key-programs) to learn more. Want to chat with us? Please Slack us at [#field-enablement-team](https://gitlab.slack.com/archives/field-enablement-team). Have a Field Enablement request? Please use our [quick request process below](/handbook/sales/field-operations/field-enablement/#making-a-field-enablement-request).
 
 ## Strategy
 
