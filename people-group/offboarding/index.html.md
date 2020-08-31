@@ -314,6 +314,7 @@ For laptops, please refer to the [Laptop Buy Back Policy](/handbook/business-ops
 To return your laptop to GitLab, please contact itops@gitlab.com immediately upon offboarding.
 
 #### Expensify
+This section of the Accounting Department.
 
 To remove someone from Expensify Log in to [Expensify](https://www.expensify.com/signin) and go to "Settings" in the left sidebar.
 Select the right policy based upon the entity that employs the team member. Select "People" in the left menu.
