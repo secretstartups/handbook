@@ -19,8 +19,9 @@ The below slide shows the holistic learner journey for TAMs and provides context
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvjB6E9JlplzwqBHVv2fFGAEGZwqjg4AZQO-p_DqjX7znjZGOC_q2-d2xCbwr2LbfXCmyOvVxcirYb/embed?start=false&loop=false&delayms=3000&slide=id.g94bb3b04a3_0_492" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
 
-## Onboarding Customers for Success  
+## Onboarding Customers for Success Learning Path 
 This is the first learning path in development for TAMs which will consist of 4 courses. The learning objectives for each course are outlined below.
 
 **Course 1: Transition to the Account** 
