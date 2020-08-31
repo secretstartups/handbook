@@ -142,10 +142,6 @@ Issues are created for all work by PS.
 
 #### Epic categories
 
-* [PS TimeTracking - Company Events](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/epics/551) 
-  * [SKO](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1251)
-  * [Contribute](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1252)
-  * [Commit](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1376) 
 * [PS TimeTracking - Billable](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/epics/536) 
   * ALL project hours
   * Internal/ Sales Handoff Calls
@@ -154,11 +150,25 @@ Issues are created for all work by PS.
   * Weekly/ Final customer reports and documentation
   * Status/ Close out customer calls
   * Customer Travel
-  * Shadowing a Customer Project
-* [PS TimeTracking - Creditable](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/epics/535) 
+  *   * [SKO](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1251)
+  * [Contribute](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1252)
+  * [Commit](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1376)
+  [Sales Assistance](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1247)
+    * All Pre-Sales activities
+    * SOW Creation
+  *  [Support Assistance](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1248)
+     * Support Cases, (if pulled into customer questions after the project is closed)
+     * Engineering Support
+  *  [Practice Development](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1249)
+     * Creating process/documents
+     * Templates
+     * Articles/ Tools
+  * [Product Development](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1339)
+  * [Mentoring](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1250)
+* [PS TimeTracking - Non Creditable](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/epics/535) 
   * [Knowledge Sharing](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1253) 
-    *Slack
-    *Internal Q&A
+    * Slack
+    * Internal Q&A
   * [General Administrative](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1254)
     * Time Sheets
     * Expense Reports
@@ -177,21 +187,9 @@ Issues are created for all work by PS.
     * Development
     * Ramp Up
     * HR Training
-* [PS TimeTracking - Non Creditable](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/epics/534) 
-  * [Sales Assistance](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1247)
-    * All Pre-Sales activities
-    * SOW Creation
-  *  [Support Assistance](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1248)
-     * Support Cases, (if pulled into customer questions after the project is closed)
-     * Engineering Support
-  *  [Practice Development](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1249)
-     * Creating process/documents
-     * Templates
-     * Articles/ Tools
-  * [Product Development](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1339)
-  * [Mentoring](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1250)
-* [PS TimeTracking - PTO/ Holidays](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/epics/533) 
-  * [PS Team Holidays](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1246)
+    * Customer project shadow
+    * [PS TimeTracking - PTO/ Holidays](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/epics/533)
+    * [PS Team Holidays](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1246)
   * [PS Team PTO/ Sick Days](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1245)
 
 #### Labels
