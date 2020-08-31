@@ -34,6 +34,15 @@ Before you post to #production or make an issue, here are some helpful ways to c
 
 Screenshots from any of these tools will greatly help any engineers looking into the problems.
 
+### Connection Troubleshooting 
+
+If our customer is reporting problems connecting to GitLab.com, we should ask for the following:
+
+1. traceroute gitlab.com
+2. curl http://www.gitlab.com/cdn-cgi/trace
+3. curl https://www.gitlab.com/cdn-cgi/trace
+4. curl -svo /dev/null https://www.gitlab.com
+
 
 ### Reports of File Corruption
 
@@ -50,6 +59,7 @@ If the customer is reporting a similar error above, take the following steps to 
 3. Locate the server of the repository by looking at `gitaly-storage-name`.
 4. Search the [GitLab Infrastructure issue tracker](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues) for any related issue.
 5. If an issue is found related to the file server, post the ticket number in the issue so an infrastructure engineer can look into it.
+
 
 ### Workflows
 
