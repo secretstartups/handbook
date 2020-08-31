@@ -26,6 +26,7 @@ Our team is structured as business partners to the rest of Marketing - see focus
 - Nichole LaRue - SDR business partner
 - Jameson Burton, Associate
 - Robert Kohnke - Reporting
+- Viki Juhász - Reporting 
 
 ## Who is my business partner?
 
