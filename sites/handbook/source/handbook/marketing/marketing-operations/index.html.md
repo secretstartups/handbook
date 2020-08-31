@@ -4,11 +4,10 @@ title: "Marketing Operations"
 ---
 
 ## On this page
-
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
-{:campaign tag .hidden-md .hidden-lg}
+{:toc .hidden-md .hidden-lg}
 
 ## Marketing Operations
 
