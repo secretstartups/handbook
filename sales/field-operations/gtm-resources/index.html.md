@@ -293,7 +293,15 @@ Rest of the World
 
 ##### Record Ownership
 
-Contacts on accounts owned by a member of the Field Sales Team (RD/SAL/AE/AM), will be owned by the named Account Owner (i.e both the Account and Contact ownership will match).
+Contact Ownership follows the rules as laid out below:
+- Large Accounts
+   - SDR (If present otherwise AE)
+- MM & SMB Accounts
+   - Customer Accounts
+      - AE
+   - Non-Customer Accounts
+      - SDR (If present otherwise AE)
+
 When an SDR is assigned to an Account to support and assist with outreach, the SDR will be added in the `SDR Assigned` lookup field to the account in Salesforce.
 This field then populates down to the related Contact records.
 Only SDRs are able to edit the `SDR Assigned` field and if there is a need to mass update the `SDR Assigned` on many accounts then the SDR should reach out to a member of the Sales Ops Team for support.
