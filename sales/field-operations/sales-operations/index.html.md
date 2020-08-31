@@ -471,18 +471,17 @@ The Sales Operations team supports the opportunity credit split approval process
   
 </details> 
 
-</details>
 
 ### **Sales Operations Owned System Provisioning**
 
-Below are instructions on how Sales Opertions provisions users within the various Sales-owned systems and the process followed. 
+Below are instructions on how Sales Operations provisions users within the various Sales-owned systems and the process followed. 
 
 For status on an issue please view the [Sales Operations Access Request Board](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/boards/1959331).
 
 <details>
 <summary markdown='span'>Operators Guide: Sales Opeartions Owned Provisioning </summary>
 
-### Sales Opeartions Access Request Labeling System
+### Sales Operations Access Request Labeling System
 1. SalesOpsAR::Action Needed - Sales Ops action item is immediate or within current FQ.
 1. SalesOpsAR::In Progress - Sales Ops action item is presently being worked on.
 1. SalesOpsAR::On Hold - SalesOps AR that is blocked or not presently w/in scope of work.
@@ -523,6 +522,8 @@ For status on an issue please view the [Sales Operations Access Request Board](h
 1. To invite users to Chorus, enter their emails in the designated field separated by commas and click the **Add To List** button. 
 1. Updated the Role, Team and License Type.  These will be based off of the users job role/region and should be listed and or approved in the Access Request. If questionable, look at other provisioned users of the same title/role.
 1. Click the **Send Invites** button to invite the user to Chorus.
+
+Note: The most accurate access level will be on the Tech Stack or the AR, genenerally AMER and all of Commercial will get recorder, all else listener. 
 
 ### DataFox
 1. From the [Settings Page] (https://app.datafox.com/settings/general-information) in DataFox located in the top right under your name, click on **Team Management** located on the left. 
