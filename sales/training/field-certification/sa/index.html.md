@@ -21,7 +21,7 @@ The below slide shows the holistic learner journey for SAs and provides context 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvjB6E9JlplzwqBHVv2fFGAEGZwqjg4AZQO-p_DqjX7znjZGOC_q2-d2xCbwr2LbfXCmyOvVxcirYb/embed?start=false&loop=false&delayms=3000&slide=id.g94bb3b04a3_0_458" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
-## Delivering Value-Driven Demos  
+## Delivering Value-Driven Demos Learning Path  
 This is the first learning path in development for SAs which will consist of 5 courses. The learning objectives for each course are outlined below.
 
 **Course 1: Gather the Technical Requirements through Discovery** 
