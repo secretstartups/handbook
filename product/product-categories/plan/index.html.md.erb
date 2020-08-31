@@ -222,12 +222,18 @@ If there are no agenda items eight hours prior to the call, we skip the call ent
     - [Backend Board](https://gitlab.com/groups/gitlab-org/-/boards/1290309)
     - [Roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Aplan&label_name[]=group%3A%3Acertify)
 
-### Process Improvements We're Working Towards
+### Team Process
 
-- **Smaller Iterations:** A 4-6 weeks release cycle is helpful from a marketing perspective, but it is too long of a time horizon for continuously delivering working software incrementally and iteratively. We can accomplish this by breaking bigger features into smaller vertical feature slices. If an Issue has a `weight` of `> 3`, it is a good signal it should be [broken down into smaller pieces](https://www.youtube.com/watch?v=EDT0HMtDwYI). The larger the weight, the more risk and likelihood the Issue will take longer than the estimate.
-- **Cycle Time of One Week:** For the purposes here, cycle time means an issue going into ~"workflow::In dev" to exiting ~"workflow::In review". In order to keep our continuous Kanban process moving, we're aiming to ensure issues don't stay in any stage for an extended amount of time.
-- **Limit Work In Progress:** [Context switching is expensive](https://blog.codinghorror.com/the-multi-tasking-myth/). By limiting the amount of Issues in progress at any given time, the less frequently you will have to incur this cost. You may think multitasking is inevitable, but by adhering to a work in progress limit, you will more quickly surface the parts of our process that are inefficient; enabling us to collectively fix them as a team.
-- **Product Shadowing for Engineers:** There can be a gap in understanding between Engineering and Product on a team. We are experimenting with a pilot programme that will allow engineers to spend time in the world of Product, with the goal of greater mutual communication, understanding and collaboration. It helps us work more effectively as a team for better features.
+Each group within the Plan stage follows GitLab's [product development flow](https://about.gitlab.com/handbook/product-development-flow/) and [process](https://about.gitlab.com/handbook/product/product-processes/). This allows for consistency across the entire stage and enables us to clearly understand our throughput and velocity. We're currently focused on strictly following the process stated in the handbook, as opposed to creating our own local optimizations. 
+
+In some cases we need to dogfood a new Plan feature that may adjust our adherence to the GitLab's process. If that happens we assign a DRI responsible for setting the objective, reporting on the outcomes and facilitating feedback to ensure we prioritize improvements to our own product. This ensures we're not making a change for the sake of making changes, and gives us clarity into our own evaluation of a change to the product. 
+
+There are a couple of process-related improvements we'll continue to adopt:
+
+- **Iterations:** We've recently started organizing the prioritized work in a given milestone into weekly iterations. This doesn't change any of the canonical process, and allows us to break a months worth of work into sizeable timeboxes. Intended outcome: Dogfood iterations (the feature), improve velocity and give more granular visibility into the progress of issues. DRI: @Donald
+- **Product Shadowing for Engineers:** There can be a gap in understanding between Engineering and Product on a team. We are experimenting with a pilot programme that will allow engineers to spend time in the world of Product, with the goal of greater mutual communication, understanding and collaboration. It helps us work more effectively as a team for better features. DRI: @Charlie
+
+
 
 ### Product Shadowing schedule
 
