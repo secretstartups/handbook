@@ -193,7 +193,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ------ | ------ | ------ | ------ |
-| 2020-08-24 | 2020-08-28 | [Mike Miranda](https://gitlab.com/mikemiranda) - Account Executive, Commercial Sales | [Sam White](https://gitlab.com/sam.white) - Sr. Product Manager, Defend | 
 | 2020-08-31 | 2020-09-04 | [Francis Potter](https://gitlab.com/francispotter) - Sr. Solution Architect | [Mike Miranda](https://gitlab.com/mikemiranda) - Account Executive, Commercial Sales |
 | 2020-09-08 | 2020-09-11 | [Shawn Winters](https://gitlab.com/ShawnWinters) - Acceleration SDR | [Francis Potter](https://gitlab.com/francispotter) - Sr. Solution Architect |
 | 2020-09-14 | 2020-09-18 | AVAILABLE - REMOTE | [Shawn Winters](https://gitlab.com/ShawnWinters) - Acceleration SDR |
@@ -881,3 +880,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2020-07-13 | 2020-07-31 | [David DeSanto](https://gitlab.com/ddesanto) | Director of Product, Secure & Defend | |
 | 2020-07-20 | 2020-08-10 | [Tim Rizzi](https://gitlab.com/trizzi) | Senior Product Manager, Package | |
 | 2020-08-10 | 2020-08-21 | [Amy Brandenburg](https://gitlab.com/abrandenburg) | Technology Alliances Manager | |
+| 2020-08-17 | 2020-08-28 | [Sam White](https://gitlab.com/sam.white) | Senior Product Manager, Defend | |
