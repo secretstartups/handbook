@@ -19,12 +19,12 @@ Customers who meet the following criteria are aligned with a Technical Account M
 
 ### Enterprise
 
-- Premium/Silver or Ultimate/Gold license, and Annual Recurring Revenue (ARR) of $50,000 or greater.
-- Starter/Bronze license and a clear, documented opportunity for upgrade with interest from the customer.
+- Companies of 2000+ total employees
+- Recurring contract value (ARR) of $50,000 or greater, or have a joint Gitlab/customer documented growth plan with a commitment to rise to above $50,000 ARR within a given timeframe.
 
 ### Commercial
 
-Commercial (Mid-Market and SMB) customers are eligible for a TAM based on varying factors, such as tier, ARR, and potential for growth. The TAM will work with their aligned Account Executive to determine which accounts to prioritize.
+ - Commercial (Mid-Market and SMB) customers are eligible for a TAM if the recurring contract value (ARR) is greater than $50,000.
 
 ## Responsibilities and Services
 
