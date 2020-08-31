@@ -357,10 +357,7 @@ Contact Ownership follows the rules as laid out below. This contact ownership ca
 ##### Changing Lead Ownership in Salesforce
 
 Everyone is able to change the owner of a Lead as long as they are either changing the Lead Owner to match the Account Owner or they are the current Lead owner.
-Lead ownership follows the following rule for lead ownership - whoever owns the account also owns all of the leads.
-However since leads are not directly tied to Accounts someone looking to update the ownership of a lead should match the leads data points with our rules related to [Global Account Ownership](#global-account-ownership), [Named Account Ownership](#named-account-ownership) as well as [Territory Account Ownership](#territory-account-ownership).
-Regional Directors, Team Leads and Admins can all change the ownership of any lead.
-
+Lead ownership is set by LeanData due to specific rules by segment and by region/territory which may include round robin. Any lead unable to be routed, is routed to an SDR Queue for the SDR management team to determine proper ownership. For the most part, Leads are owned by SDRs.
 ##### Default Ownership
 
 *  In the event that Ops encounters that there is not enough information to assign a record to a specific user in Salesforce it is to be assigned to the default user: [`Sales Admin`](https://gitlab.my.salesforce.com/00561000000mpHT?noredirect=1&isUserEntityOverride=1).
