@@ -440,7 +440,7 @@ You are able to change the appearance of the following components of a content t
 1. When you are done making changes click `Add Appearance`.
 1. Once you’ve created your `Appearance` groups, you can apply this styling to any of your content tracks. Simply select the appearance group from the drop-down menu under `Experience Settings`.
 
-### Content topics
+## Content topics
 
 Unsure what content topics align with your asset? Use the table below as a guideline to tag content you upload to PathFactory accordingly.
 
@@ -479,7 +479,7 @@ Unsure what content topics align with your asset? Use the table below as a guide
 | VSM | Content that relates to the topic of value stream mapping and management. Topics that fall under this tag may include cycle time, cycle analytics, and software delivery strategies and metrics. | [The Forrester Value Stream Management Report](/analysts/forrester-vsm/index.html) |
 | Workflow | Content that relates to understanding and implementing workflows throughout the software development lifecycle. Likely uses are content that explains a particular workflow or how to set up a workflow in GitLab. For example: how a workflow might change when a level of automation is introduced. | [Planning for success](/resources/downloads/gitlab-planning-for-success-whitepaper.pdf) |
 
-### Content types
+## Content types
 
 Unsure what content types align with your asset? Use the table below as a guideline to tag content you upload to PathFactory accordingly.
 

@@ -26,6 +26,65 @@ Our team is structured as business partners to the rest of Marketing - see focus
 - Nichole LaRue - SDR business partner
 - Jameson Burton, Associate
 - Robert Kohnke - Reporting
+- Viki Juhász - Reporting 
+
+## Who is my business partner?
+
+**Indicates multiple business partners depending on the need.*
+
+### Amy Waller, campaign partner
+
+**Demand Generation**
+
+- Campaigns
+- Digital Marketing
+- Partner Marketing
+
+**Corporate Marketing**
+
+- Owned Events 
+- Sponsored Events
+- Awareness/ All Remote*
+- Communications*
+- Community Relations*
+
+**Revenue Marketing**
+
+- Field Marketing
+- ABM
+
+**Growth Marketing**
+
+- Inbound Marketing*
+
+### Sarah Daily, content partner
+
+**Growth Marketing**
+
+- Brand & Digital Design  
+- Content Marketing 
+- Inbound Marketing*
+
+**Corporate Marketing** 
+
+- Awareness/ All Remote*
+- Communications*
+- Community Relations*
+
+**Strategic Marketing**
+
+- Product Marketing 
+- Technical Marketing 
+- Analyst Relations
+- Competitive Intelligence
+- Customer References
+- Buyer/Market Research
+
+### Beth Peterson & Nichole LaRue, SDR partners
+
+**Revenue Marketing**
+
+- Sales Development
 
 ## Important Resources
 
@@ -47,7 +106,7 @@ The main tools used by Marketing and integrated with Salesforce are:
 - [PathFactory](/handbook/marketing/marketing-operations/pathfactory)
 - [Sigstr](/handbook/marketing/marketing-operations/sigstr)
 - [Demandbase](/handbook/marketing/revenue-marketing/account-based-marketing/demandbase)
-- DiscoverOrg
+- ZoomInfo
 - LinkedIn Sales Navigator
 - [Bizible](/handbook/marketing/marketing-operations/bizible/)
 
@@ -62,6 +121,8 @@ Other tools directly used by Marketing and maintained by Marketing Operations:
 - Google Analytics
 - Google Search Console
 - Google Tag Manager
+- Hotjar 
+- Keyhole
 - [Litmus](/handbook/marketing/marketing-operations/litmus)
 - MailChimp
 - Moqups
@@ -69,6 +130,7 @@ Other tools directly used by Marketing and maintained by Marketing Operations:
 - [RushTranslate](/handbook/marketing/marketing-operations/rushtranslate)
 - Screaming Frog
 - SEMrush
+- Smartling
 - Sprout Social
 - Swiftype
 - Survey Monkey
@@ -136,7 +198,7 @@ _In Milestone_
 
 **Handbook Updates**: 
 
-When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` handbook pages (or sub-pages), we have a Zapier workflow set up that will push the MR (upon merge) to the realted slack channel to ensure our teams are aware of any change that is made to the page. In order for the merged MR to show up in the respective slack channel, you must add one of the following corresponding `labels` on the MR.
+When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` handbook pages (or sub-pages), we have a Zapier workflow set up that will push the MR (upon merge) to the related slack channel to ensure our teams are aware of any change that is made to the page. In order for the merged MR to show up in the respective slack channel, you must add one of the following corresponding `labels` on the MR.
 
 
 | Label you add | Slack channel the merged MR pushes to  |
@@ -375,7 +437,7 @@ The Lead & Contact objects in Salesforce have unified statuses with the followin
 | Unqualified | Contact information is not now or ever valid in future; Spam form fill-out |
 | Nurture | Record is not ready for our services or buying conversation now, possibly later |
 | Bad Data | Incorrect data - to potentially be researched to find correct data to contact by other means |
-| Web Portal Purchase | Used when lead/contact completed a purchase through self-serve channel & duplicate record exists |
+| Web Portal Purchase | (Temporary, to be merged by RingLead) Used when lead/contact completed a purchase through self-serve channel & duplicate record exists |
 
 ### Marketo Program and Salesforce Campaign set-up
 
@@ -384,6 +446,8 @@ The Lead & Contact objects in Salesforce have unified statuses with the followin
 The Marketo programs for the corresponding campaign types have been prebuilt to include all the possible necessary smart campaigns, email programs, reminder emails and tokens that are to be leveraged in the building of the program.
 
 For **Content Syndication**, follow the instructions documented in [the Content Syndication section](/handbook/marketing/marketing-operations/#steps-to-setup-content-syndication-in-marketo-and-sfdc).
+
+For **Surveys run through SimplyDirect**, follow the instructions documented in [the SimplyDirect section](/handbook/marketing/marketing-operations/#steps-to-setup-simplydirect-surveys-in-marketo-and-sfdc).
 
 For all other campaign types, follow Steps 1-5 below. All steps are required.
 
@@ -396,7 +460,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 - Executive Roundtables: [YYYYMMDD_ExecutiveRoundtable_Topic_Region](https://app-ab13.marketo.com/#ME6028A1)
 - (MPM use only) Conference: [YYYYMMDD_Conference_Template](https://app-ab13.marketo.com/#ME5100A1)
 - (MPM use only) Conference Speaking Session: [YYYYMMDD_SpeakingSession_Template](https://app-ab13.marketo.com/#ME5092A1)
-- (MPM use only) Field Event: [YYYYMMDD_FieldEvent_Template](https://app-ab13.marketo.com/#ME5083A1)
+- Field Event: [YYYYMMDD_FieldEvent_Template](https://app-ab13.marketo.com/#ME5083A1)
 - (MPM use only) Gated Content: [YYYY_Type_Content_Template](https://app-ab13.marketo.com/#PG5111A1)
 - (MPM use only) PathFactory Listener: [TEMPLATE - `PF - Asset Type - Name of Asset`](https://app-ab13.marketo.com/#PG3875A1)
 - (MPM use only) Integrated Campaign: [FY20IntegratedCampaign_Template](https://app-ab13.marketo.com/#PG4924A1)
@@ -489,9 +553,54 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
     - Update `Start Date` to the date of launch
     - Update `End Date` to 90 days from date of launch (if this is an ongoing campaign, update appropriately)
     - Update `Budgeted Cost` if you have the data available
-    - Update `Region` if you have the data available
+    - Update `Region` and `Subregion` if you have the data available
     - Click Save
 - Add the Marketo program link and SFDC campaign link to the epic.
+
+#### Steps to Setup SimplyDirect Surveys in Marketo and SFDC
+Simply Direct will provide you with an unique `Survey Name` that they will pass over into Marketo via the API populating the `Person Source` and the `SurveyName` fields. This name is unique to each survey that is ran. `Person Source` will not update if the lead already exists in Marketo.
+
+SimplyDirect is also passing over the survey Q&A through the `Comment Capture` field. This will populate via a URL on the Interesting Moment and the `Web Form` field, so that the SDR following up will have full access to all of the survey questions and answers.
+
+
+##### Step 1: [Clone this program](https://app-ab13.marketo.com/#PG6164A1)
+- Use format `YYYY_MM_SurveyName`
+
+##### Step 2: Sync to Salesforce
+
+- At the program main screen in Marketo, where it says `Salesforce Sync` with "not set", click on "not set"
+    - Click "Create New." The program will automatically populate the campaign tag, so you do not need to edit anything.
+    - Click "Save"
+
+##### Step 3: Update SurveyName across Smart Lists and Flows
+- Contact SimplyDirect and ask for the SurveyName they will pass to Marketo
+- Click into `01 Processing`
+     - In Smart List, change every `SurveyName` to the name you were given. There are 3 fields on the smartlist you must change. Tokens will not work, you must update in the smart list. Do not include any extra spaces!
+     - In the Flow, on step 1 `Change Data Value` update `SurveyName` to the name you were given.
+     - Click to the "Schedule" tab and click `Activate`. It should be set that a person can only run through the flow once.
+- BEFORE launch of the survey, have SimplyDirect send an existing lead, and a new lead through to make sure both are being captured.
+
+
+##### Step 4: Update the Salesforce campaign
+
+- Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
+    - Change the `Campaign Owner` to your name
+    - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
+    - Update the event epic
+    - Update the description
+    - Update `Start Date` to the date of launch
+    - Update `End Date` to 90 days from date of launch (if this is an ongoing campaign, update appropriately)
+    - Update `Budgeted Cost` if you have the data available
+    - Update `Region` and `Subregion` if you have the data available
+    - Click Save
+- Add the Marketo program link and SFDC campaign link to the epic.
+
+##### Step 5: Troubleshooting:
+1. Look at the `Results` tab of the smart campaign, if there are errors, you will clearly see them there.
+1. If the lead is not pushing to SFDC? Make sure that the `Person Source` is not `SurveyName`
+1. If existing leads are not being pulled into the program, it is likely the `SurveyName` field is capturing the wrong name.
+1. If net-new leads are not being pulled into the program, it is likely the `Person Source` SurveyName was not updated correctly.
+
 
 ## Campaigns
 
@@ -560,6 +669,26 @@ This is when a package or piece of mail is sent out.
 | Undeliverable | Package was returned or undeliverable to addressee |  |
 | Delivered | Package was received by the addressee | Yes |
 | Responded | Recipient took action or CTA (trackable on PURLs | Yes |
+
+**This is for the Alyce Integration**
+
+**Bizible:** TBD is these will be tracked
+
+| Member Status | Definition | Success |
+| ------------- | ---------- | ------- |
+| Gift is being researched | Alyce Gift Created |  |
+| Need more information for gift| Alyce needs more information on the recipient |  |
+| Gift options ready| Gift options ready to be viewed  |  |
+| Gift invitation in fulfillment | Alyce gift invitation sent to fulfillment | |
+| Gift invitation sent by email | Alyce gift invitation sent with email | |
+| Physical gift invitation sent | Alyce physical gift invitation sent|  |
+| Gift invitation delivered | Alyce physical gift invitation delivered|  |
+| Gift invitation viewed | Alyce gift invitation viewed by the recipient|  |
+| Gift accepted | Alyce gift accepted by the recipient|  |
+| Gift expired | Alyce gift expired|  |
+| Gift declined | Alyce gift declined by the recipient|  |
+| Gift disabled | Alyce gift disabled or deleted|  |
+
 
 #### Executive Roundtables
 
@@ -728,6 +857,7 @@ This is webcast hosted on an external partner/vendor platform. The status of Att
 | No Action | default starting position for all records |  |
 | Registered | Registered for webcast |  |
 | Attended | Attended event | Yes |
+| Follow Up Requested | Requested to be followed up with from GitLab | Yes |
 | Attended On-demand | Watched/consumed the presentation materials post-event on-demand | Yes |
 
 #### Survey
@@ -770,7 +900,7 @@ Track cohort of Trials for each product line (Self-hosted or SaaS) to see their 
 
 #### Virtual Sponsorship
 
-A virtual event that we sponsor and/or participate in that we do not own the registration but will generate a list of attendees, engagement and has on-demand content consumption post-live virtual event.
+A virtual event that we sponsor and/or participate in that we do not own the registration but will generate a list of attendees, engagement and has on-demand content consumption post-live virtual event. This name will be changing to `Virtual Conference`.
 
 **Bizible:** This is tracked as an _offline_ Bizible channel.
 
