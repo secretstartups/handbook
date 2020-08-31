@@ -9,7 +9,6 @@ title: "Anti-Harassment Policy"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-
 ## Introduction
 
 Everyone at GitLab has a responsibility to prevent and stop harassment. Working remotely means that the majority of our interactions are by video call or written communication, such as email or shared documents. The exceptions to this are team summits, attending conferences together, and local team meetups. No matter the method of communication, it is expected that everyone will contribute to an inclusive and collaborative working environment and respect each other at all times. Team member behavior is not limited to internal interactions with each other.  Our Anti-harassment policy applies to GitLab team members interaction with customers, vendors and community members. Should you become aware of or witness any form of harassment or behavior that violates this policy or our [company values](/handbook/values/), please report the incident directly to the Chief People Officer or People Business Partner immediately for thorough investigation.
@@ -80,12 +79,12 @@ If a threat is made against you or someone else that makes you or another team m
 1. Contact local law enforcement. Note the proper number to contact in your locality and whether the emergency, or non-emergency number should be called.
 1. Notify the people operations team in #peopleops.  A private channel may then be opened with your People Business Partner, People Operations Specialist, Executive Business Administrator, Manager, and the security team helping with the situation.
 1. The following steps may be taken based on the threat:
-    - Internal threat assessment 
+    - Internal threat assessment
     - Temporary accommodation (friends, family, hotel, etc.)
     - Transportation to alternate location (stay with family/friends for example)
     - Time off from work/LOA
     - Personal Security Detail
-1. The above can be triggered by the people operations team, manager, executive business administrator, or People Business Partner based on their knowledge of the threat.  Whenever it is safe to do so, please go through the normal permissions work flow, however if a threat is credible and potentially imminent, immediate action may be taken before the approvals have been put in place. 
+1. The above can be triggered by the people operations team, manager, executive business administrator, or People Business Partner based on their knowledge of the threat.  Whenever it is safe to do so, please go through the normal permissions work flow, however if a threat is credible and potentially imminent, immediate action may be taken before the approvals have been put in place.
 1. The Sr. Director of Security will advise when it is best to halt any of the above tasks.
 
 ## Reporting Alleged Harassment
@@ -109,12 +108,12 @@ Managers who knowingly allow or tolerate any form of harassment or retaliation, 
 
 All employees have the responsibility to help create and maintain a work environment free of bullying and harassment and can help by:
 
-1.	Being aware of how their own behavior may affect others, and changing it if necessary.
-2.	Treating their colleagues with dignity and respect.
-3.	Taking a stand if they think inappropriate jokes or comments are being made to others.
-4.	Making it clear to others where they find their behavior unacceptable.
-5.	Intervening, if possible, to stop harassment or bullying from occurring.
-6.	Reporting promptly to their manager or the People Business Partner any incident of bullying or harassment witnessed by them.
+1. Being aware of how their own behavior may affect others, and changing it if necessary.
+1. Treating their colleagues with dignity and respect.
+1. Taking a stand if they think inappropriate jokes or comments are being made to others.
+1. Making it clear to others where they find their behavior unacceptable.
+1. Intervening, if possible, to stop harassment or bullying from occurring.
+1. Reporting promptly to their manager or the People Business Partner any incident of bullying or harassment witnessed by them.
 
 ### The Role of People Operations Department
 
@@ -179,12 +178,12 @@ Once the course has been completed, each team member and manager will receive a 
 If attempts to resolve the problem in an informal manner prove insufficient or if these attempts were refused or proved to be ineffective, the victim may follow the procedure below:
 
 1. Write a formal complaint and send it to the Chief People Officer or the People Business Partner. When the Chief People Officer or the People Business Partner receives the complaint, they must immediately handle the written complaint.
-2. The Chief People Officer or the People Business Partner shall ensure that the complaint is included in a dated document within a reasonable period of time, and includes the statements of the victim and any witnesses, as well as the outcome of any mediation.
-3. The victim and the witnesses receive a copy of their statement.
-4. A copy of the complaint will immediately be handed over to the responsible person within GitLab.
-5. After submission of the complaint to the responsible person within GitLab, an investigation will be initiated. This investigation may be conducted by a third (independent) party, depending on the complaint itself.
-6. After the investigation, the conclusion and a proposal for appropriate measures will be handed over to the responsible person within GitLab.
-7. GitLab will take the appropriate measures.
+1. The Chief People Officer or the People Business Partner shall ensure that the complaint is included in a dated document within a reasonable period of time, and includes the statements of the victim and any witnesses, as well as the outcome of any mediation.
+1. The victim and the witnesses receive a copy of their statement.
+1. A copy of the complaint will immediately be handed over to the responsible person within GitLab.
+1. After submission of the complaint to the responsible person within GitLab, an investigation will be initiated. This investigation may be conducted by a third (independent) party, depending on the complaint itself.
+1. After the investigation, the conclusion and a proposal for appropriate measures will be handed over to the responsible person within GitLab.
+1. GitLab will take the appropriate measures.
 
 **Sanctions**
 
@@ -236,7 +235,8 @@ Every team member located in the state of California will be required to sign an
 These will be sent via HelloSign for signature.
 
 ### Connecticut Law Requirements
-Every team member located in the state of Connecticut is required to take the 2 hour Anti Harassment Training for Supervisors in California. This training is to be completed by all individual contributors as well as managers.    
+
+Every team member located in the state of Connecticut is required to take the 2 hour Anti Harassment Training for Supervisors in California. This training is to be completed by all individual contributors as well as managers.
 
 ## Resources
 
