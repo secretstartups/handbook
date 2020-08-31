@@ -58,7 +58,9 @@ Check out the [Demystifying the Metrics Conversation](/handbook/sales/command-of
 
 ### Video
 
-Coming soon
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/WkGFcUkK7TY" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ### Qualifying Questions
 
