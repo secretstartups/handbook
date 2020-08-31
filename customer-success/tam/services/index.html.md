@@ -19,8 +19,9 @@ Customers who meet the following criteria are aligned with a Technical Account M
 
 ### Enterprise
 
-- Companies of 2000+ total employees
-- Recurring contract value (ARR) of $50,000 or greater, or with a clear, documented growth plan to rise to above $50,000 ARR within a given timeframe.
+- [Meets Enterprise Segment Criteria](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#segmentation)
+- Recurring contract value (ARR) of $50,000 or greater
+- Exceptions can be made for clearly defined growth opportunities, decided by sales and TAM leadership
 
 ### Commercial
 
