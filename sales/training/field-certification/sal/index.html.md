@@ -18,7 +18,8 @@ Certification badges will align to the customer journey and critical “Moments 
 The below slide shows the holsitic learner journey for SALs, and provides context for the information included throughout the learning program. 
 
 <figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/1mhzoJMJSyx4wz47g-0P2dUQJc2hTHflZUhE57mcN83g/edit#slide=id.g94bb3b04a3_0_271" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvjB6E9JlplzwqBHVv2fFGAEGZwqjg4AZQO-p_DqjX7znjZGOC_q2-d2xCbwr2LbfXCmyOvVxcirYb/embed?start=false&loop=false&delayms=3000&slide=id.g94bb3b04a3_0_271" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
 
 # Pipeline Generation & Qualifaction Learning Path 
 This is the first learning path in development for SALs. The course will consist of 5 courses, the learning objectives for each course are below.

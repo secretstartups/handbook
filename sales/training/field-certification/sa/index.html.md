@@ -19,6 +19,7 @@ The below slide shows the holsitic learner journey for SALs, and provides contex
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvjB6E9JlplzwqBHVv2fFGAEGZwqjg4AZQO-p_DqjX7znjZGOC_q2-d2xCbwr2LbfXCmyOvVxcirYb/embed?start=false&loop=false&delayms=3000&slide=id.g94bb3b04a3_0_458" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
 
 # Delivering Value-Driven Demos  
 This is the first learning path in development for SAs. The course will consist of 5 courses, the learning objectives for each course are below.
@@ -48,6 +49,3 @@ Upon completing each course, the associate will receieve a badge.
 
 # Feedback 
 We want to hear from you! You can follow along with course development by checking out the issues on the [Field Cert Team Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1637426?&label_name[]=field%20certification). 
-
-
-
