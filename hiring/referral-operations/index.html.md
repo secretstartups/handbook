@@ -109,7 +109,7 @@ A Recruiting Team Member will attend these sessions, so they be able to address 
 
 #### Referral Rejection Notifications
 
-In the event that a *Referral* is rejected based on their location factor per our [outbound recruiting model](https://about.gitlab.com/jobs/faq/#gitlabs-outbound-recruiting-model), then the following steps will need to be taken by the requisition's **Recruiter**:
+In the event that a *Referral* is rejected based on their location factor the following steps will need to be taken by the requisition's **Recruiter**:
 
 1. Send the rejection email to the candidate via Greenhouse using the `Referral Declined - Not ELF` template.
 1. Search for the **closed** referral submission Issue for the respective candidate and add the following comment:
@@ -121,4 +121,3 @@ In the event that a *Referral* is rejected based on their location factor per ou
 > `CANDIDATE_FIRST_NAME` has received an email from our team explaining this. We’ve also added some clarity about this in the [Referral Submission Issue Template](https://about.gitlab.com/handbook/hiring/referral-process/#submitting-a-referral) now to be sure team members consider this before they submit their referral. 
 >
 > We appreciate your understanding and hope you’ll continue to refer talented people to GitLab!
-
