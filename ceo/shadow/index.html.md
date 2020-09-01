@@ -217,7 +217,7 @@ Exceptional community members may be able to participate, as well.
 | 2020-09-08 | 2020-09-11 | [Shawn Winters](https://gitlab.com/ShawnWinters) - Acceleration SDR | [Francis Potter](https://gitlab.com/francispotter) - Sr. Solution Architect |
 | 2020-09-14 | 2020-09-18 | AVAILABLE - REMOTE | [Shawn Winters](https://gitlab.com/ShawnWinters) - Acceleration SDR |
 | 2020-09-21 | 2020-09-25 | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend | AVAILABLE - REMOTE |
-| 2020-09-28 | 2020-10-02 | AVAILABLE - REMOTE | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend |
+| 2020-09-28 | 2020-10-02 | Madeline Hennessy - Area Sales Manager US East, SMB | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend |
 | 2020-10-05 | 2020-10-09 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2020-10-12 | 2020-10-16 | NO SHADOWS - PTO | NO SHADOWS - PTO |
 | 2020-10-26 | 2020-10-30 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
