@@ -70,7 +70,6 @@ During week one we will discuss **Getting to Know your Team & Managing Underperf
 | Day 4    | Attend Live Learning | 50 minutes | Live Learning | * Participate in the live learning and be prepared with your Social Style! | * Results (Measure results not hours) <br> * Efficiency (Be respectful of other's time <br> * Manager of One <br> * Handbook First <br> * Iteration  |
 | Day 5    | Self Reflection and Weekly Evaluation | 20 minutes | Virtual Team Meeting | * Complete the weekly self-reflection and Week 1 Evaluation | * Collaboration (Getting to know individuals on a personal and professional level) <br> * Diversity, Inclusion, & Belonging (Building a safe community for your team members) |
 
-[embed week 1 slide deck here] 
 
 ### Week 2
 
@@ -84,7 +83,6 @@ During week two we will discuss **Trust and Coaching**. Information covered in w
 | Day 9   | Attend Live Learning | 50 minutes | Live Learning | * Attend the coaching live learning session and be prepared to participate! | *Results (measure results not hours) <br> *Efficiency (Be respectful of other's time) <br> *Manager of One <br> *Iteration |
 | Day 10  | Self Reflection and Weekly Evaluation | 20 minutes | Self-paced Daily Challenge | * Complete the Self-reflection and weekly evaluation | * Diversity, Inclusion, & Belonging (Building a safe community for your team members) |
 
-[embed week 2 slide deck here] 
 
 ### Week 3
 
@@ -98,7 +96,6 @@ During week three we will discuss **Building and Inclusive/Belonging Environment
 | Day 14   | Attend Live Learning | 50 minutes | Live Learning | * Attend the coaching live learning session and be prepared to participate! | * Diversty, Inclusion, & Belonging |
 | Day 15   | Self Reflection and Weekly Evaluation | 20 minutes | Self-paced Daily Challenge | * Complete the Self-reflection and weekly evaluation | * Diversty, Inclusion, & Belonging |
 
-[embed week 3 slide deck here] 
 
 ### Week 4
 
@@ -111,8 +108,6 @@ During week four we will discuss **Developing High Performing Teams**. Informati
 | Day 18   | Applying the Model to Managing at GitLab | 20 minutes | Self-paced Daily Challenge | * Apply the Model to your team at GitLab | * Building High Performing Teams <br> * Collaboration <br> * Managers of One |
 | Day 19   | Attend Live Learning | 50 minutes | Live Learning | * Attend the Live Learning session | * Building High Performing Teams |
 | Day 20   | Self Reflection and Weekly Evaluation | 20 minutes | Self-paced Daily Challenge | * Complete the Self-Reflection | * Efficiency <br> * Results |
-
-[embed week 4 slide deck here] 
 
 
 ## FAQs
