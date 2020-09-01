@@ -58,6 +58,12 @@ Set aside time each day to participate in the challenge (20 minutes) and live le
 - 4 Weekly Self Evaluations and Reflections (10 minutes)
 - Certification Upon Completion
 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/BIAbuYPMd24" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 ### Week 1
 
 During week one we will discuss **Getting to Know your Team & Managing Underperformance**. Information covered in week one can be found on the [SOCIAL STYLES](/handbook/people-group/learning-and-development/emotional-intelligence/social-styles/) and the [Underperformance page](/handbook/underperformance/). 
