@@ -38,18 +38,18 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
    - To access form W-2, go to Myself -> Pay -> Annual Statements.
 1. Employees of GitLab BV (Netherlands) will get their salary wired on the 25th of every month, and can see their payslip in their personal portal on
 [HR Savvy's system](https://hr-savvy.nmbrs.nl/) towards the end of the month.
-1. Employees of GitLab BV (Belgium) will get their salary wired the last day of each month and will receive their payslip in their personal portal on [Boekfisk's system](http://www.boekfisk.be/)
+1. Employees of GitLab BV (Belgium) will get their salary wired the last day of each month and will receive their payslip in their personal portal on [myworkandme] (https://www.myworkandme.com/portal/)
 1. Employees of GitLab Ltd will get their salary wired on the last day of every month, and can see their payslip via their personal portal on [Vistra's system](https://www.webcare2.com/vistra) towards the end of the month. The login details are the 9-digit user ID the employees were provided with following their first payroll. Contact `peopleops@ gitlab.com` if you need to have your password reset.
 1. Employees of GitLab GmbH will get their salary wired on the last day of every month, and can see their payslip via their personal account on [CloudPay ESS portal](https://payroll.cloudpay.net/app/servlet/workflow?mode=ess ).
 1. Employees of GitLab Canada Corp will get pay bi-weekly and they can access their payslip via their personal portal on [CloudPay's ESS portal](https://payroll.cloudpay.net/app/servlet/workflow?mode=ess).
 1. Employees of GitLab PTY Australia will get their salary on the 27th of each month, and they can access their payslip through [iiPay portal](https://pay.iipaysp.com/GITL)
 1. Employees of GitLab PTY NZ will get pay their salary on the 28th of each month, and they can access their payslip via [CloudPay's ESS portal](https://payroll.cloudpay.net/app/servlet/workflow?mode=ess).
-1. Employees of GitLab BV that are employed through GitLab's co-employer PE0:
+1. Employees of GitLab IT BV that are employed through GitLab's co-employer PE0:
    - Global Upside (India) will get their salary wired by the last day of the month. Global Upside will send payslips electronically through their HR portal.
    - Safeguard are paid monthly and on the last day of the month (depending on the country) with exception to Switzerland, which is the 25th of each month. Payslips are provided electronically by Safeguard.
 1. Contractors from Nigeria, South Africa, and the US will get pay within 15 days after they submitted their monthly invoices for services to nonuspayroll@gitlab.com.
-1. Contractors from Poland, Russia,Ukraine & Romania will get paid by the 25th of each month through CXC Global.
-1. All other contractors will get pay on the 22nd of the month by iiPay and remittance advice will send to their gitlab email address.
+1. Contractors through CXC Global will get paid by the 25th of each month.
+1. All other contractors will get paid by the 22nd of the month by iiPay and remittance advice will send to their gitlab email address.
 
 
 ## US
@@ -182,13 +182,14 @@ Generate the following reports and saved them on Google Shared drive for Federal
 1. Total Rewards Team will add bonus, promotion, title changes, etc.. to the Payroll Changes template
 1. Payroll changes are entered into a spreadsheet for commission, bonus, new salary, expenses (only for UK & Canada) and password protected the file
 1. Payroll sends the payroll changes file to the local payroll providers.
-1. Local payroll providers will send the payroll report to nonuspayroll@gitlab.com for review and approval
+1. Local payroll providers will send the payroll reports to Payroll for review and approval
 1. Senior Payroll Specialist will review and notify Payroll Manager for final review and approval.  Once that is completed then SPS will sends the approval email to the payroll provider before the 21st.
-1. Payroll save and upload the payroll report to the GoogleDrive by month and under the right entity
-1. Payroll notify Financial Controller after each Payroll is approved.
+1. Payroll to be saved and upload the payroll report to the GoogleDrive by month and under the right entity
+1. Payroll will notify the Payments team of funds requests due
+1. GL Reports to be worked on once available from the local provider and forwarded to the GL team at least 4 days before check date
 
 
-### iiPay
+### iiPay - Australia
 
 For employees of GitLab PTY (Australia), to view payslips visit the [iiPay sign-in portal](https://pay.iipaysp.com/GITL).
 
@@ -238,7 +239,13 @@ If you have not received an invitation to create an account, visit the [register
 
 #### CXC Global
 
-Team members in Poland, Russia, Ukraine & Romania will get paid through CXC Global.  Team members will need to submit their monthly invoice (Salary, bonus, commission, expense, etc...) to CXC Global by the 20th of each month This is [the template](https://docs.google.com/spreadsheets/d/1uQ-0KOgifQW0ZNiUS4z5nk1pQstwSpSXdYYM11KElCk/edit#gid=1931869221) you could use for any CXC invoice, but this is not mandatory, you can also use your own format.. Team members should ensure their expenses are approved on expensify by the 8th of each month so they can include on their invoice to CXC. Payroll will submit commission, bonus, and expenses to CXC by the 10th of each month (depending on when the weekend falls, then it will be the working day before).  For new hires starting after the 1st of each month, the pro-rated calculation is: `(monthly salary / # of business days for that month) * actual work days from the hire date`
+- Poland
+- Portugal
+- Russia
+- Romania
+- Ukraine
+
+Team members from the above countries will get paid through CXC Global. Team members will need to submit their monthly invoice (Salary, bonus, commission, expense, etc...) to CXC Global by the 20th of each month This is [the template](https://docs.google.com/spreadsheets/d/1uQ-0KOgifQW0ZNiUS4z5nk1pQstwSpSXdYYM11KElCk/edit#gid=1931869221) you could use for any CXC invoice, but this is not mandatory, you can also use your own format.. Team members should ensure their expenses are approved on expensify by the 8th of each month so they can include on their invoice to CXC. Payroll will submit commission, bonus, and expenses to CXC by the 10th of each month (depending on when the weekend falls, then it will be the working day before).  For new hires starting after the 1st of each month, the pro-rated calculation is: `(monthly salary / # of business days for that month) * actual work days from the hire date`
 
 ### PEO
 
@@ -273,7 +280,8 @@ All payroll changes (demographic information, job, bonus/commission payout reque
 - GitLab BV (Netherlands) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1c9bOUTLVsadWtM0gy6tqTHa6DDar0YGT1N4mT02xvOc/edit#gid=887208509)
 - GitLab BV (Belgium) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1eMPUirNk-AtBMTF4tE49G1xCHWES_r2VfDph5KiIHP0/edit#gid=1680317269)
 - GitLab GMBH [Payroll Calendar](https://docs.google.com/spreadsheets/d/19lNDx_aiAQDoSKBRRWF779jT2qB5lG84PrBOYQYd5sI/edit#gid=1165608204)
-- GitLab PTY LTD [Payroll Calendar](https://docs.google.com/spreadsheets/d/1CO7H27ofFcFL7ztVi8Eg8_hI3W8mUwAwUtePsPJkdGw/edit#gid=724771463)
+- GitLab PTY LTD Australia [Payroll Calendar](https://docs.google.com/spreadsheets/d/1CO7H27ofFcFL7ztVi8Eg8_hI3W8mUwAwUtePsPJkdGw/edit#gid=724771463)
+- GitLab PTY LTD New Zealand [Payroll Calendar](https://docs.google.com/spreadsheets/d/19S-PMIDLCCn0goo407lXKutbuMlFynoO63BBu8V5hO0/edit#gid=0)
 - For all PEOs and iiPay Contractors, the payroll cut off date is 8th of each month.
     - CXC (Poland, Ukraine, Russia, Romania) [Payroll Calendar](https://docs.google.com/spreadsheets/d/18cPImcwNM4muYxJj-NHQ6YwPrxG45AmDn7GZ1t-N1rI/edit#gid=114243454)
     -  SafeGuard ([S. Korea,France, Hungary, Ireland](hhttps://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=775664482), [Japan](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=23411182), [Brazil](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=1366369546), [Italy](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=2113229619), [South Africa](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=818494923), [Spain](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=2086701953), [Switzerland](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=1979351390)) Payroll Calendar
