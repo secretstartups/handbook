@@ -77,7 +77,9 @@ Check out the [Demystifying the Metrics Conversation](/handbook/sales/command-of
 
 ### Video
 
-Coming soon
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/WQ5qCI-nuLA" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ### Qualifying Questions
 
@@ -98,7 +100,9 @@ Coming soon
 
 ### Video
 
-Coming soon
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/2WIUNFXC6yw" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ### Qualifying Questions
 
@@ -137,7 +141,9 @@ Coming soon
 
 ### Video
 
-Coming soon
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/GtXRLNFwdqM" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ### Qualifying Questions
 
@@ -160,7 +166,9 @@ Coming soon
 
 ### Video
 
-Coming soon
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/TIhPAiPhaBc" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ### Qualifying Questions
 
@@ -200,7 +208,9 @@ Coming soon
 
 ### Video
 
-Coming soon
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/J3Ophqeftjk" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ### Qualifying Questions
 
