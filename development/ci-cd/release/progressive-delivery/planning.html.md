@@ -56,6 +56,14 @@ The PM tries to establish that the issue describes a problem with the Release fe
 or has some other clear merit (e.g. a technical improvement in the backend). The PM will draw on other group members, customers and the UX organization where necessary.  
 If the problem is validated, the issue is moved forward to the next stage, otherwise it is closed with a short explanation on *why* the problem will not be considered. This explanation should also contain a link [to the category strategy](/handbook/product/product-processes/#category-direction).
 
+##### Design phase
+
+In the `workflow::design` phase the product designer will require input from stakeholders such as engineering and product management to push forward a design concept. 
+
+Ideally, the product designer is working ahead of the current milestone and will require feedback on issues ahead of the build track or even for `workflow::planning breakdown` phase. This [issue board](https://gitlab.com/groups/gitlab-org/-/boards/1884154) is used to make sure engineering has visibility on the items that require their input ahead of time so they can be accounted for in terms of availability and is mentioned in the Needs/Weight issues.
+
+Developer handoff is done through develivering design concepts with artifacts such as text, mockups, or prototypes. A concept should ideally be considered hollistically by all stakeholders where every documented detail is part of the scope. The product designer will work with engineering to make sure a design is understood and feasible.
+
 ##### Solution validation
 
 Once the problem is validated, the PM will consider creating an Epic if [the scope of the solution is large enough](/handbook/product/product-processes/#epics-for-a-single-iteration).
@@ -69,10 +77,6 @@ issue will be scheduled for work before any further breakdown of tasks is perfor
 POC issues are also time-boxed with a due date applied to these items and should be labeled ~"POC". On the due date, the engineer is expected to provide a comment on the issue regarding the outcome of the POC. Time-boxing these issues is meant to constrain the scope of the work. 
 
 It is also important to note that not all POCs will be successful, and that is OK! Some avenues of research may not be successful, and the POC will have saved us from investing significant time in a solution that will not meet our needs. The goal is early feedback and fast iteration.
-
-###### Design phase
-
-In the `workflow::design` phase the product designer will require input from stakeholders such as engineering and product management to push forward a design concept. Ideally, the product designer is working ahead of the current milestone and will require feedback on issues ahead of the build track or even for `workflow::planning breakdown` phase. This [issue board](https://gitlab.com/groups/gitlab-org/-/boards/1884154) is used to make sure engineering has visibility on the items that require their input ahead of time so they can be accounted for in terms of availability and is mentioned in the Needs/Weight issues.
 
 ##### Planning Breakdown
 
