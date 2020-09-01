@@ -1089,7 +1089,7 @@ The recommended defaults when sharing a document for GitLab internal purposes is
 
 ## Zoom
 
-GitLab uses [Zoom](https://zoom.us/) for internal and external video communications. Some of our customers and partners have different preferred tools and to facilitate the communication with those parties, GitLab provides licenses for WebEx and MS Teams. As it is not financially feasible for GitLab to pay for a variety of different video conferencing tools, we encourage the use of the most popular ones among our customers and partners which are Zoom, WebEx or MS Teams whenever possible. 
+GitLab uses [Zoom](https://zoom.us/) as the primary video collaboration platform for internal and external communications. Some of our customers and partners have different preferred tools and to facilitate the communication with those parties, GitLab provides licenses for WebEx and MS Teams. This service is only provided to team members that have a business need to host meetings and where Zoom is not accepted. It is not efficient for GitLab to use multiple video conferencing tools, however we encourage the use of the most popular ones among our customers and partners when needed. E.g.; Zoom, WebEx, MS Teams, Skype, etc. 
 
 To request access to those tools, create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Single_Person_Access_Request) and provide a justification for access. 
 
