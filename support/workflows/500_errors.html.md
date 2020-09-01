@@ -39,9 +39,9 @@ Screenshots from any of these tools will greatly help any engineers looking into
 If our customer is reporting problems connecting to GitLab.com, we should ask for the following:
 
 1. traceroute gitlab.com
-2. curl http://www.gitlab.com/cdn-cgi/trace
-3. curl https://www.gitlab.com/cdn-cgi/trace
-4. curl -svo /dev/null https://www.gitlab.com
+2. curl http://gitlab.com/cdn-cgi/trace
+3. curl https://gitlab.com/cdn-cgi/trace
+4. curl -svo /dev/null https://gitlab.com
 
 
 ### Reports of File Corruption
