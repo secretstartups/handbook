@@ -18,7 +18,7 @@ For both planning and building this means direct, cross-functional, and other re
 
 Some practical examples of this are: 
 - When you open up or begin working on an epic, issue, or merge request consider if all stakeholders are aware of this or should be updated. If unsure, error on the side of updating rather than keeping silent. 
-- When making significant progress make sure this is seen by the relevant stakeholders by mentioning them rather than relying on automated email notifications. Make it their involvement explicit.
+- When making significant progress make sure this is seen by the relevant stakeholders even if you don't require immediate feedback by mentioning them rather than relying on automated email notifications. Make their involvement explicit.
 
 Note: A good practice when only wanting to inform rather than requesting a direct action from the mentioned stakeholders is to put `FYI`directly following the @mention handle.
 
