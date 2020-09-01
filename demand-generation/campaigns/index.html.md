@@ -7,16 +7,13 @@ twitter_site: "@gitlab"
 twitter_creator: "@gitlab"
 ---
 ## On this page
-
 {:.no_toc .hidden-md .hidden-lg}
-
 - TOC
 {:toc .hidden-md .hidden-lg}
 
 # Campaigns Team Overview
-
-## {:.no_toc}
-
+{:.no_toc}
+---
 ## Goals
 
 ### Demand Generation Key Metrics
@@ -30,7 +27,7 @@ twitter_creator: "@gitlab"
 
 | Fiscal Quarter | Large | Mid-Market | SMB |
 | -------------- | ----- | ---------- | --- |
-| Q3FY21 | 4708 | 4500 | 26,893 |
+| Q3FY21 | 4,708 | 4,500 | 26,893 |
 | Q4FY21 | TBD | TBD | TBD |
 | Q1FY22 | TBD | TBD | TBD |
 | Q2FY22 | TBD | TBD | TBD |
@@ -38,19 +35,23 @@ twitter_creator: "@gitlab"
 Currently WIP to break down geo-specific MQL targets.
 _Targets are derived from [Approved Second Half FY21-22 Segment Marketing Plan](https://docs.google.com/presentation/d/1p4EmaoSb35d8ZnjKags1gUGF5T9afJW6RhBO8TR_VgA/edit#slide=id.p4) (GitLab internal team members may view this information)._
 
+### Q3 OKRs
+**OKRs = Objective + Key Result**
+* **Objective:** Meet/Exceed outbound Marketing Qualified Leads ([MQL]((/handbook/marketing/marketing-operations/#lead-scoring-lead-lifecycle-and-mql-criteria))) generation targets
+* **Key Results:**
+  * TBD
+
+[See Epic >](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1309)
+
 ### FY21-22 First Principles
 
 1. **Find new accounts** to add to the target pool (paid demand gen)
 1. **Offer compelling ungated content journeys** that drive to proven web CTAs
 1. **Appropriately nurture our database** (of inbound inquiries, free .com users, core users, customers)
 
-### Q3 OKRs
-
-[See Epic >](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1309)
-
 ## Team Structure
 
-The Campaigns Team is aligned to sales segments with a geo breakout. Our number one focus is driving outbound MQLs, while collaborating with field marketing, sales, and SDRs in region to develop strategies contributing to SAOs and closed won revenue against target accounts.
+The Campaigns Team is aligned to sales segments with a geo breakout. Our number one focus is driving outbound MQLs, while collaborating across marketing (working closely with field marketing, sales, and SDRs in region) to develop strategies contributing to SAOs and closed won revenue against target accounts.
 
 Image to be added when complete.
 
@@ -64,10 +65,10 @@ The [#demand-gen](https://gitlab.slack.com/archives/CJFB4T7EX) channel is used f
 
 Most of our team meetings are recorded and can be found [here](https://drive.google.com/drive/u/1/folders/1GDkvqVhimLDnX744eh9YS6_qHhKRafmJ).
 
-- Tuesdays - MPM Connect team call
-- Wednesdays - Demand Generation team call
-- Thursdays - "No work talk" demand gen team hangout
-- Thursdays - Marketing strategy & tactics call
+- Tuesdays - Campaign Team Connect Call (campaigns)
+- Wednesdays - Demand Generation Team Call (campaigns, digital, partner)
+- Thursdays - "No work talk" demand gen team hangout (campaigns, digital, partner)
+- Thursdays - Marketing strategy & tactics call (all marketing)
 
 ### The Handbook
 
@@ -87,6 +88,12 @@ We ask that teams request work using our issue templates in the campaigns projec
 - [request-zoom-license-date](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=zoom-license-date-request)
 - [idea-campaign](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=idea-webcast)
 - [idea-webcast](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=idea-campaign)
+- more to be added during transition
+
+#### Campaign Team Issue Templates
+The following issue templates are used by the campaigns team to organize their work, with appropriate labels applied for project management.
+
+- [campaign-mural](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaign-mural)
 - more to be added during transition
 
 ### Campaigns Team Intake Process
