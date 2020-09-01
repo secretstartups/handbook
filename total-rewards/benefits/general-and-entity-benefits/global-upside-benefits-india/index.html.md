@@ -73,6 +73,8 @@ GitLab has implemented a private loyalty bonus scheme since some team members ha
 
 **Calculation of Loyalty Bonus:**
 
-Loyalty Bonus Amount =  Last drawn Basic as on 2020-05-31 x Duration with GitLab before 2020-06-01 x 15/26 
+Loyalty Bonus Amount =  Gratuity Calculation using GitLab Hire Date + Gratuity Calculation using PEO Hire Date
+
+`The duration for Gratuity Calculation using GitLab Hire Date is the duration prior to the hire date of the PEO`
 
 **Note:** The Loyalty Bonus Amount is provided by GitLab to the team members. Any amount which GitLab will pay as Loyalty Bonus would be fully taxable for the team members. 
