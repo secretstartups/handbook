@@ -71,7 +71,8 @@ on Slack and someone will share the calendar with you.
 lunch, go to an appointment, run an errand, or just plain take a brain break
 - please do **not** add time-off events to the shared calendar or via PTO Ninja
 - please **do** consider blocking off your own calendar so that customer calls or
-other meetings won't be scheduled during your time away
+other meetings won't be scheduled during your time away.
+- Consider updating your Slack status to reflect you're away.
 
 #### Taking off half a day or more
 For planned absences of half a day or more, you will need to take various steps
