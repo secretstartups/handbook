@@ -11,7 +11,7 @@ title: "Job Families"
 
 ## Job Families
 
-They are [organized by function in directories in the www-gitlab-com repo](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/job-families).
+They are [organized by function in directories in the www-gitlab-com repo](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/sites/marketing/source/job-families).
 
 Confused about when you need to create a new job family and when you should add a new role to an existing one?
 
@@ -145,8 +145,8 @@ Job Families should have three to five PIs.
 * In case you get that error, the first recommendation is to read the error. It will say what is wrong with the text. For example:
 
 ```
-1. ["ATTENTION: In /builds/gitlab-com/www-gitlab-com/source/job-families/marketing/reference-program-manager/index.html.md you're using masculine gender-coded language", "Masculine coded words used: analyst, analytical, decision, driven, leader"]
-2. ["ATTENTION: In /builds/gitlab-com/www-gitlab-com/source/job-families/marketing/production-designer/index.html.md you're using fixed-coded language", "Fixed coded words used: established"]
+1. ["ATTENTION: In /builds/gitlab-com/www-gitlab-com/sites/marketing/source/job-families/marketing/reference-program-manager/index.html.md you're using masculine gender-coded language", "Masculine coded words used: analyst, analytical, decision, driven, leader"]
+2. ["ATTENTION: In /builds/gitlab-com/www-gitlab-com/sites/marketing/source/job-families/marketing/production-designer/index.html.md you're using fixed-coded language", "Fixed coded words used: established"]
 ```
 
 In this case, there's two job families that failed and each for a different reason. You can do two things now:
