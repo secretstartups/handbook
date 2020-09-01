@@ -45,7 +45,11 @@ Learn the basic principles of what it means to be a manager using a whole person
 
 Set aside time each day to participate in the challenge (20 minutes) and live learning sessions (1 hour). Complete the weekly self-evaluations and comment in the Slack channel during discussions. As a participant in the pilot program, your feedback is critical for our success so please make time to complete the weekly evaluations. 
 
-[embed pilot welcome video here] 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/gSMrv9CiqOk" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 ## Pilot Program 
 
