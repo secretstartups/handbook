@@ -197,6 +197,16 @@ think through what parts of the application will get touched. The implementation
 permit other engineers to review the issue and call out any areas of the application that might
 have dependencies or been overlooked.
 
+## Verification
+The issue verification should be done by someone else other than the MR author[^4].
+
+1. When an engineer has merged their work, they should move their issue into the verification status, indicated by the `~workflow:verification` label and wait until they receive notification that their work has been deployed on staging via the release issue email. 
+1. After the engineer has received the notification and verified their work in staging, they should move the issue into the staging status, indicated by the `~workflow:staging` or `~workflow:production` label, unassign themselves from the issue.
+1. At some consistent intervals, engineers should check the `~workflow:staging`/`~workflow:production` status and verify other engineer's work.
+1. An issue can be closed once it has been verified in production.
+
+[^4]: When the engineer who writes the code is the only one verifying it, it increases the chance of defects getting into production because when that engineer tests in a new environment, they are likely to try all the same attempts to break it as they did during writing the code, which does not bring any value. If a person who did not write the code verifies the resolution in a deployed environment, they will come in with a different perspective and is more likely to cover more test cases.
+
 ## FAQs
 
 **Q:** Should discovery issues be refined?
