@@ -241,48 +241,27 @@ This review will only take into account a compa group alignment (if any). Team m
 ### Catch-up Compensation Review FAQs
 
 1. What is the goal of Catch-up Compensation Review?
-
-The goal is to align team members who were hired between November 1st and January 31st or who received a 0% increase last Catch-up Compensation review to market. If the team member was accurately hired in at their market value, this may mean they receive little to no increase. Some team members may have a gap in what they were hired at and their market alignment. Catch-up Compensation Review addresses these gaps so the team member isn't misaligned for another 5 months.
-
+   * The goal is to align team members who were hired between November 1st and January 31st or who received a 0% increase last Catch-up Compensation review to market. If the team member was accurately hired in at their market value, this may mean they receive little to no increase. Some team members may have a gap in what they were hired at and their market alignment. Catch-up Compensation Review addresses these gaps so the team member isn't misaligned for another 5 months.
 1. If a team member receives an increase during Catch-up Compensation Review, will they be eligible to participate in the next Annual Compensation Review cycle?
-
-Yes, all team members who are eligible for Catch-up Compensation Review will also be included in the next Annual Compensation Review. They will then only participate in Annual Compensation Review going forward.
-
+   * Yes, all team members who are eligible for Catch-up Compensation Review will also be included in the next Annual Compensation Review. They will then only participate in Annual Compensation Review going forward.
 1. What happens if a manager submits the same Compa Group as the team member's current Compa Group?
-
-If the Compa Group submitted is the same as the team member's current Compa Group, their minimum recommended increase loaded into Compaas by the Total Rewards team will be $0. The manager will still have the option to allocate additional funds to the team member during manager review in Compaas subject to budgetary constraints.
-
+   * If the Compa Group submitted is the same as the team member's current Compa Group, their minimum recommended increase loaded into Compaas by the Total Rewards team will be $0. The manager will still have the option to allocate additional funds to the team member during manager review in Compaas subject to budgetary constraints.
 1. What happens if a manager submits a lower Compa Group than the team member's current Compa Group?
-
-If the Compa Group submitted by the manager is lower than the team member's current Compa Group, their minimum recommended increase loaded into Compaas by the Total Rewards team will be $0. No team member will have their compensation decreased as a result of Catch-up Compensation Review. The manager will still have the option to allocate additional funds to the team member subject to budgetary constraints as long as the increase doesn't put the team member over the top end of the range for their role (compa ratio > 1.15). 
-
+   * If the Compa Group submitted by the manager is lower than the team member's current Compa Group, their minimum recommended increase loaded into Compaas by the Total Rewards team will be $0. No team member will have their compensation decreased as a result of Catch-up Compensation Review. The manager will still have the option to allocate additional funds to the team member subject to budgetary constraints as long as the increase doesn't put the team member over the top end of the range for their role (compa ratio > 1.15). 
 1. Will everyone eligible for Catch-up Compensation Review receive an increase? (For managers) Is the expectation that I should allocate an increase to all of my eligible team members?
-
-No, the goal of Catch-up Compensation is to align team members to market who, if we only did Annual Compensation Review, would have had to wait up to 15 months to be evaluated and aligned to market. It is possible that the team member is already aligned to market and will receive no increase as part of this review. 
-
+   * No, the goal of Catch-up Compensation is to align team members to market who, if we only did Annual Compensation Review, would have had to wait up to 15 months to be evaluated and aligned to market. It is possible that the team member is already aligned to market and will receive no increase as part of this review. 
 1. Will VP+ be reviewed during Catch-up Compensation Review?
-
-No, VP+ team members have an in-depth analysis conducted at the time of hire to ensure they are paid to market. 
-
+   * No, VP+ team members have an in-depth analysis conducted at the time of hire to ensure they are paid to market. 
 1. Is there a budget for Catch-up Compensation Review?
-
-There is a set budget that will be shared with Leaders and People Business Partners before manager review in Compaas begins.
-
+   * There is a set budget that will be shared with Leaders and People Business Partners before manager review in Compaas begins.
 1. Why don't we review everyone's Compa Group during Catch-up Compensation Review?
-
-Budget was only set aside to review and align team members who are eligible based on hire date or not receiving an increase during last cycle. Everyone will have their Compa Group reviewed in October when there's proper budget for alignment that will take effect February 1st. 
-
+   * Budget was only set aside to review and align team members who are eligible based on hire date or not receiving an increase during last cycle. Everyone will have their Compa Group reviewed in October when there's proper budget for alignment that will take effect February 1st. 
 1. As a manager, should I just be confirming whether the Compa Group my team member was hired into is accurate?
-
-No, the manager should be reviewing the knowledge, skills, and ability of their team member today to accurately assess their current Compa Group. 
-
+   * No, the manager should be reviewing the knowledge, skills, and ability of their team member today to accurately assess their current Compa Group. 
 1. What if my direct report's role's range isn't in the [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/)?
-
-Ranges will be provided where applicable for reference during manager review in Compaas.
-
+   * Ranges will be provided where applicable for reference during manager review in Compaas.
 1. What are the key differences between Annual Compensation Review and Catch-up Compensation Review?
-
-Catch-up Compensation Review should be considered an extension of Annual Compensation Review to align team members to market who weren't eligible or didn't receive an increase during Annual Compensation Review. While during Annual Compensation Review, the Total Rewards team reviews and refreshs the inputs to the Compensation Calculator such as benchmarks and locations factors, Catch-up Compensation Review serves to align eligible team members to market based on the Compensation Calculator inputs determined last cycle. 
+   * Catch-up Compensation Review should be considered an extension of Annual Compensation Review to align team members to market who weren't eligible or didn't receive an increase during Annual Compensation Review. While during Annual Compensation Review, the Total Rewards team reviews and refreshs the inputs to the Compensation Calculator such as benchmarks and locations factors, Catch-up Compensation Review serves to align eligible team members to market based on the Compensation Calculator inputs determined last cycle. 
 
 ### Catch-Up Communication Guidelines for Managers
 
