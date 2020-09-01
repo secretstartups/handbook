@@ -13,6 +13,8 @@ title: "Labor and Employment Notices"
 
 Since GitLab is an [all remote](/company/culture/all-remote/) company we don't have a physical worksite or breakroom wall upon which to post important labor and employment notices, so this page is our version of that.
 
+## US Employment Posters:
+
 ## City of San Francisco
 
 * San Francisco Minimum Wage increases to $15.59 per hour [(June 2019)](ttps://gitlab.com/gitlab-com/people-ops/Compensation/uploads/e261b0f24e1b2d5bf382366bb400cf53/sf-minimum-wage-2019-06.pdf).
@@ -43,5 +45,7 @@ Information related to the [EEO is the Law poster](https://www1.eeoc.gov/employe
 
 [Job Safety and Health: Its the Law Poster](https://www.osha.gov/Publications/osha3165-8514.pdf)
 
+## Germany Employment Posters:
 
+[Working Hours Act](https://www.gesetze-im-internet.de/arbzg/index.html) 
 
