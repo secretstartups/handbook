@@ -2197,3 +2197,19 @@ and software development. To accomplish this in the GitLab product, please see t
 | [Data Team: Data Warehouse](/handbook/business-ops/data-team/platform/#data-warehouse)                                            | An outline of where our product usage data is stored      |
 | [Data Team: dbt Guide](/handbook/business-ops/data-team/platform/dbt-guide/)                                                      | How we transform raw data into a data structure that's ready for analysis | 
 
+## Page load performance metrics
+
+In order to better understand the perceived performance of GitLab, there is a synthetic page load performance testing framework available based on [sitespeed.io](https://www.sitespeed.io). 
+
+A [Grafana dashboard](https://dashboards.gitlab.net/d/product-create/product-performance-create?orgId=1) is available for each stage, tracking the [Largest Contentful Paint](https://web.dev/lcp/) and first/last visual change times. These metrics together provide high-level insight into the experience our users have when interacting with these pages.
+
+### Adding additional pages to performance testing
+
+The Grafana dashboards are managed using [grafonnet](https://github.com/grafana/grafonnet-lib), making it easy to add additional pages and charts.
+
+To test a new set of pages required just 2 steps:
+
+1. Add the desired URL's to the sitespeed [unauthenticated](https://gitlab.com/gitlab-org/frontend/sitespeed-measurement-setup/-/blob/master/gitlab/desktop/urls/desktop.txt) or [authenticated](https://gitlab.com/gitlab-org/frontend/sitespeed-measurement-setup/-/tree/master/gitlab/desktop/loggedinurls) testing list. Add a new line with the URL, then a space, and an alias of the form [Group]_[Feature]_[Detail]. The alias needs to be one word, an example MR is [here](https://gitlab.com/gitlab-org/frontend/sitespeed-measurement-setup/-/merge_requests/29).
+1. Open the relevant stage's [grafonnet dashboard file](https://gitlab.com/gitlab-com/runbooks/-/tree/master/dashboards/product). Find the section corresponding to the desired group, and add an additional call to `productCommon.pageDetail`. The call arguments are `Chart Title`, `Alias` from above, and the tested `URL`. Ensure the JSON formatting is correct, the easiest way is to simply copy/paste from another line. A sample MR is available [here](https://gitlab.com/gitlab-com/runbooks/-/merge_requests/2719/diffs).
+
+Assign both MR's to a maintainer. After they are merged, the stage's Grafana dashboard will be automatically updated.
