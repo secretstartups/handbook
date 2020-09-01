@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Progressive Delivery Planning"
-description: "How the Release Team Operates"
+description: "How the Progressive Delivery Team Operates"
 ---
 
 ## On this page
@@ -9,6 +9,18 @@ description: "How the Release Team Operates"
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+## Inclusive development
+
+Our process of planning and development relies heavily on overcommunication rather than any approval gates or automated notification mechanisms. We adhere to the proactive mindset and responsibility of everyone involved to make sure every step in the process is as transparent as it can be. 
+
+For both planning and building this means direct, cross-functional, and other relevant stakeholders are included early into the process. This makes sure everyone is able to contribute to the best of their capabilities at the right time in the process. This can include, but is not limited to, GitLab objects, Slack, meetings, and daily standups.
+
+Some practical examples of this are: 
+- When you open up or begin working on an epic, issue, or merge request consider if all stakeholders are aware of this or should be updated. If unsure, error on the side of updating rather than keeping silent. 
+- When making significant progress make sure this is seen by the relevant stakeholders by mentioning them rather than relying on automated email notifications. Make it their involvement explicit.
+
+Note: A good practice when only wanting to inform rather than requesting a direct action from the mentioned stakeholders is to put `FYI`directly following the @mention handle.
 
 ## Planning
 
@@ -76,10 +88,10 @@ In the `workflow::design` phase the product designer will require input from sta
 
 ##### Planning Breakdown
 
-The PM and the engineer will work together to create all of the issues required to build the solution. This includes
-- documentation issues
-- testing that is broader than the scope of individual issues
-- post-release items such as rake tasks, migrations or monitoring issues
+The Product Manager, Product Designer, and the Engineer(s) will work together to create all of the issues required to build the solution. This includes
+- Documentation issues
+- Testing that is broader than the scope of individual issues
+- Post-release items such as rake tasks, migrations or monitoring issues
 
 Post-release tasks that need to be performed by SRE's are created in the Infrastructure team project and cannot be
 added to Epics as related issues. For these, it's useful to list them in the Epic description.
@@ -91,6 +103,8 @@ for development.
 During planning breakdown, the correct labels should be applied. These can include but are not limited to feature, backstage, frontend, backend, and performance. Issues are also given the "cicd::scheduling" label once `workflow::planning breakdown` has completed. 
 
 This signifies that from both a product and engineering point of view, this issue is prepared and ready to be built as soon as there is space in the schedule.
+
+The planning breakdown should include a plan for the merge request scoping to make sure everyone is clear on the path of implementation.
 
 #### Schedule
 We use the [Scheduling boards](#scheduling-boards) for this phase.
