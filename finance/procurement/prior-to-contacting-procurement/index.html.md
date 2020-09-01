@@ -13,9 +13,9 @@ title: Prior to contacting Procurement
 
 ## Procurement Process Flow
 <div class="flex-row" markdown="0" style="height:100px;">
-  <a class="btn btn-purple" style="width:220px;margin:5px;display:flex;align-items:center;height:100%;">YOU ARE HERE: Prior to contacting procurement</a>  
-  <a href="/handbook/finance/procurement/procurement-services/" class="btn btn-purple-inv" style="width:220px;margin:5px;display:flex;align-items:center;height:100%;">YOU ARE HERE: Requesting Procurement Services and Vendor Contract Issue process</a>
-  <a href="/handbook/finance/procurement/vendor-terms-and-conditions/" class="btn btn-purple" style="width:220px;margin:5px;display:flex;align-items:center;height:100%;">3. Vendor Terms and Conditions</a>
+  <a class="btn btn-purple-inv" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;">YOU ARE HERE: Prior to contacting procurement</a>  
+  <a href="/handbook/finance/procurement/procurement-services/" class="btn btn-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;">2. Requesting Procurement Services and Vendor Contract Issue process</a>
+  <a href="/handbook/finance/procurement/vendor-terms-and-conditions/" class="btn btn-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;">3. Vendor Terms and Conditions</a>
 </div>
 
 ### Prior to Contacting Procurement
