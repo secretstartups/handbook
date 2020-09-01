@@ -18,7 +18,7 @@ title: "Candidate Management Processes"
 ### Greenhouse Sourcing
 <details>
   <summary markdown='span'>
-#### How to Transfer a Candidate That Was Rejected To a Different Requisition
+How to Transfer a Candidate That Was Rejected To a Different Requisition
   </summary>
 If you are sourcing through Greenhouse and want to consider a rejected candidate for a different requisition:
 1. In the candidate's Greenhouse profile, navigate to the right sidebar and select `Add, Transfer, or Remove Candidate's Jobs`.
@@ -30,7 +30,7 @@ If you are sourcing through Greenhouse and want to consider a rejected candidate
 
 <details>
   <summary markdown='span'>
-#### How to Transfer a Candidate To a Different Requisition
+How to Transfer a Candidate To a Different Requisition
   </summary>
 If you want to consider a candidate for a different requisition:
 1. In the candidate's Greenhouse profile, navigate to the right sidebar and select `Add, Transfer, or Remove Candidate's Jobs`.
