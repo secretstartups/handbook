@@ -803,8 +803,8 @@ merch_four:
   sidebar_body_title: "Get the Remote Playbook"
   sidebar_body_content: "Empower your team to thrive remotely."
 
-- name: merch_seven_not_live
-  destination_url: "/resources/TBD"
+- name: merch_seven
+  destination_url: "/resources/ebook-version-control-best-practices/"
   cta_text: "Download now"
   banner_image_source: "/images/merchandising-content/version-control-collaboration-blog-merch-vertical.png"
   banner_body_title: "Free eBook: Version control best practices"
