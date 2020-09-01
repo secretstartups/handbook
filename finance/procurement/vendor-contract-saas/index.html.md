@@ -163,49 +163,21 @@ Here is a deep dive summary on what each function is reviewing for approval:
 1. Complete a [Privacy Review](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=Vendor-Procurement-Privacy-Review); please note that this will be done in partnership with GitLab's Privacy Officer and reviewed by Security Compliance during the Security Review.
 
 **Procurement Review and Approval**
-Before approving issues, the procurement team verifies:
-1. Correct purchase request issue type was used.
-2. Correct individuals were tagged and have approved according to the [Authorization Matrix](/handbook/finance/authorization-matrix/)?
-3. Negotiation process was followed
-   * See below as applicable
-4. Contract Reviewed
-   * Procurment confirms dollar amounts match, confirm currency, confirm entities match in quote, and general scope is addressed.
-   * If entities do not match, procurement will tag the issue creator and budget approver to confirm which entity should be used. 
-   * If negotiated, procurement owns all commercial terms in the contract review process.
-5. Procurement Approval Authority
+1. Before approving issues, the procurement team verifies:
+   * Correct purchase request issue type was used.
+   * Correct individuals were tagged and have approved according to the [Authorization Matrix](/handbook/finance/authorization-matrix/)?
+   * Vendor Selection and Negotiation process was followed
+   * Contract is Reviewed
+      * Procurment confirms dollar amounts match, confirm currency, confirm entities match in quote, and general scope is addressed.
+      * If entities do not match, procurement will tag the issue creator and budget approver to confirm which entity should be used. 
+      * If negotiated, procurement owns all commercial terms in the contract review process.
+2. Procurement Approval Authority
    * Procurement Ops Analyst can approve purchase requests up to $25K 
-      * Purchase requests >$25K will be approved by the Sr. Mgr Procurement
-   * Procurement Ops Analyst can approve up to $100K for Field Mktg/Event purchase requests withOUT confidential data
-      * Purchase requests >$100K for Field Mktg/Events will be approved by the Sr. Mgr Procurement
-      * If it is an on-site event or involves data that might not be publicly available, the Sr. Mgr Procurement must approve
-   * In the event procurement approves the purchase request issue before the other approvers to avoid being a bottleneck, procurement will note our approval as pending outstanding approvers. At this point it is the responsibility of the issue owner to follow the remaining process and secure remaining approvals BEFORE obtaining contract signature.
-
-**Negotiation Process**
-
-When is a contract negotiated?
-   * All software contracts >= $25K will be negotiated by procurement. 
-   * All non-software contracts >= $25K will be evaluated for negotiation opportunity by procurement based on type, amount and market conditions.
-   * All contracts requiring an RFP will be negotiated. The RFP process should not be closed until procurement can engage in negotiations.
-
-What is the process for negotiating contracts?
-
-**For Software <$75K:**
-   * Procurement will assign to our third-party partner, Vendr, to negotiate the transaction. *Procurement reserves the right to engage Vendr at a higher or lower threshold based on current bandwidth.*
-   * If it is a renewal/existing vendor, Procurement Ops Analyst will pull previous contract from Contract Works and post to issue. 
-      * Procurement Ops Analyst will note any discrepancy in previous order amount, vs. new quote, if available.
-      * If contract is unavailable in Contract Works, Procurement Ops Analyst to request contract from issue creator.
-      * If issue creator does not have the contract, Vendr will request from vendor during the negotiation process.
-   * Ops Analyst will schedule a call with negotiator (Vendr or Sr. Mgr, Procurement), issue creator, and finance business partner (as optional).
-   * Procurement Ops Analyst add “Procurement::Vendr” label
-
-**For Software >$75K:**
-   * Procurement will negotiate internally. *Procurement reserves the right to engage Vendr at a higher or lower threshold based on current bandwidth.*
-   * If this is a renewal/existing vendor, Procurement Ops Analyst to pull previous contract from Contract Works and post to issue. 
-      * If contract is unavailable in Contract Works, Procurement Ops Analyst to request contract from issue creator.
-      * If issue creator does not have the contract, Sr. Mgr Procurement will request from vendor during the negotiation process.
-      * Procurement Ops Analyst will note any discrepancy in previous order amount, vs. new quote if available.
-      * Procurement Ops Analyst schedule call with Sr. Mgr Procurement, issue creator and finance partner (optional) to review need.
-   * Procurement Ops Analyst add “Procurement::In Negotiation" label
+   * Purchase requests >$25K will be approved by the Sr. Mgr Procurement
+3. Approval Process
+   * In the event procurement approves the purchase request issue before the other approvers to avoid being a bottleneck, procurement will approve before all parties.
+   * If this happens, procurement will note our approval as pending the remaining approvers. 
+   * At this point it is the responsibility of the issue owner as the DRI to follow the remaining process and secure remaining approvals BEFORE obtaining contract signature.
 
 **Legal Review and Approval**
 1. Legal is responsible for reviewing vendor contracts and will adhere to the legal playbook.
@@ -236,74 +208,4 @@ Create an [orientation issue](https://gitlab.com/gitlab-com/contingent-workers/l
 1. For complete details on how to obtain payment, please visit Accounting's [Procure to Pay](/handbook/finance/accounting/#procure-to-pay) page.
 1. If your annual contract value is equal to or greater than $100K, a Purchase Order must be created to pay the vendor. See Creating a Purchase Order for steps to do so.
 
-
-
-
-
-
-
-
-_________________________________________________________
-SAVE FOR OTHER TEMPLATES - to be created
-** Procurement Review and Approval**
-Before approving issues, the procurement team verifies:
-1. Correct purchase request issue type was used.
-   * Software: includes IT and Security review and approvals
-   * Marketing: Must be non-confidential data. If confidential data is involved and/or shared, a General template must be used for required approvals.
-   * General: Consulting and all other services
-2. Correct individuals were tagged for approval
-   * Confirm the appropriate parties are tagged and have approved according to the [Authorization Matrix](/handbook/finance/authorization-matrix/)?
-3. Negotiation process was followed
-   * See above as applicable
-4. Contract Reviewed
-   * Procurment confirms dollar amounts match, confirm currency, confirm entities match in quote, and general scope is addressed.
-   * If entities do not match, procurement will tag the issue creator and budget approver to confirm which entity should be used. 
-5. Procurement Approval Authority
-   * Procurement Ops Analyst can approve purchase requests up to $25K 
-      * Purchase requests >$25K will be approved by the Sr. Mgr Procurement
-   * Procurement Ops Analyst can approve up to $100K for Field Mktg/Event purchase requests withOUT confidential data
-      * Purchase requests >$100K for Field Mktg/Events will be approved by the Sr. Mgr Procurement
-      * If it is an on-site event or involves data that might not be publicly available, the Sr. Mgr Procurement must approve
-   * In the event procurement approves the purchase request issue before the other approvers to avoid being a bottleneck, procurement will note our approval as pending outstanding approvers. At this point it is the responsibility of the issue owner to follow the remaining process and secure remaining approvals BEFORE obtaining contract signature.
-
-   **For Non-Software:**
-   * Procurement will negotiate non-software agreements on an as-needed basis if opportunity for savings is identified.
-   * If the contract is >$100K, more than one bid is required
-   * If the contract is >$250K, an RFP is required
-
-What is the process to RFP and negotiate large hosted event contracts greater than $250K?
-
-   * RFP created by DRI based on guidance from department lead, and project goals. See [RFP template](https://docs.google.com/document/d/1gTcGBdpfeo9RQWWA8uZ37JQOkAIrcyoYO76byCMOsvM/edit).
-
-   * Finalized RFP is shared with Procurement lead via issue (plus slack notification), finance departmental lead and DRI’s department head to verify we all agree on scope and timelines. Everyone has 1 business week to respond with any changes or requests before RFP is sent out to vendors for quotes and availability. This process will follow the rules based on  ...https://about.gitlab.com/handbook/finance/procurement/
-
-   * If there are any substantial changes or objections the discussion process will be extended another business week to resolve. 
-
-   * RFP responses will be shared (with parties outlined above: procurement, department finance lead and DRI’s department lead) in group drive or shared spreadsheet. 
-
-   * As the RFP process comes to a close, the DRI will connect with the procurement lead and finance department contact to review top selection and discussions throughout the process with vendors. At this point, the DRI will introduce the shortlisted vendors to the procurement lead to kick off negotiation discussions. 
-
-   * The DRI and procurement lead will jointly strategize on which points to contest and where critical cost savings lies and set savings goals per contract. 
-
-   * Within a two week period of the RFP closing the DRI, along with counsel from finance and procurement, will compile a final list of selection and budget sheet for further review and approval from top level decision makers (see authorization matrix). 
-
-   * Once the top vendor(s) have been selected, a purchase request issue will be created by the DRI. For events that require a bit more discretion, contracting will progress to it’s designated private project, hitting all the regular contract approvals and checkpoints in a private project. 
-
-
-
-## Contract Request Capacity & Back Log
-
-All open contract issue requests, are located at the [Procurement Issue Board](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/boards/1844091)
-
-In the event you have an issue that hasn't received a prompt response from procurement, requestor should mention Aleshia Hansen in the #procurement Slack channel and provide:
-
-1. Link to the Vendor Contract Approval issue; and 
-1. Timeline
-
-In the event the procurement team is out of office (as highlighted in PTO calendar or Slack), and the matter is time sensitive, requestor should
-contact #legal channel in Slack and provide:
-
-1.  Link to Vendor Contract Approval Issue; and
-2.  Reason for escalation, with timeline for requirement(s)
-
-Legal will assign a team member to approve the procurement portion of the issue.
+If you have additional questions, please ask in #procurement slack channel. Or attend Purchasing Office Hours, available in the GitLab Team Calendar.
