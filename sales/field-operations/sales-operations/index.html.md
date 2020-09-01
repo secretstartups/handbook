@@ -462,7 +462,8 @@ The Sales Operations team supports the opportunity credit split approval process
 4. SFDC reports and Dashboards will only reflect opportunity splits if the report type includeds opportunity splits. 
 
 **Opportunity Splits in Clari**
-   * Clari will pull the split data out of SFDC.  
+   * Clari will pull the split data out of SFDC. 
+   
   
 **Updating | Adding | Deleting a Split In Salesforce**
 1.  Navigate to the opportunity in SFDC.
