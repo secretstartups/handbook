@@ -190,7 +190,7 @@ Check out the [Demystifying the Metrics Conversation](/handbook/sales/command-of
 
 ### Video
 
-Coming soon
+Check out the [Force Management Podcast](https://audiblereadypodcast.libsyn.com/10-how-to-test-your-champion-w-john-kaplan) on Champions
 
 ### Qualifying Questions
 
