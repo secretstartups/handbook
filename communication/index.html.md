@@ -475,7 +475,7 @@ Some of the most common meetings problems are outlined below:
 | Problem | Solution |
 |---------|----------|
 | Present instead of Q&A | Pre-record presentations on YouTube, so meetings are only Q&A |
-| Meetings set up for or default to brainstorming | People should default to making thoughtful proposals async and buildiung upon them in meetings, if needed |
+| Meetings set up for or default to brainstorming | People should default to making thoughtful proposals async and building upon them in meetings, if needed |
 | No agenda with edit rights for everyone | Ensure that every meeting has an agenda and is available for everyone to edit |
 | People are late to meetings or don't have time to use the restroom between meetings | Use Speedy Meetings to give people breathing space before their next meeting |
 
