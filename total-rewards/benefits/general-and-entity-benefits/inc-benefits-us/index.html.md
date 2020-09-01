@@ -3,8 +3,6 @@ layout: handbook-page-toc
 title: "GitLab Inc (US) Benefits"
 ---
 
-Can't find what you're looking for? Try the main [People Operations page](/handbook/people-operations).
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -16,11 +14,11 @@ Can't find what you're looking for? Try the main [People Operations page](/handb
 ## Specific to US based team members
 {: #us-specific-benefits}
 
-US based benefits are arranged through [Lumity](https://lumity.com/). The benefits decision discussions are held by People Operations, the CFO, and the CEO to elect the next year's benefits by the carrier's deadlines. People Operations will notify the team of open enrollment as soon as details become available.  
+US based benefits are arranged through [Lumity](https://lumity.com/). The benefits decision discussions are held by Total Rewards, the CFO, and the CEO to elect the next year's benefits by the carrier's deadlines. Total Rewards will notify the team of open enrollment as soon as details become available.  The 2020 Open Enrollment will begin October 19, 2020 and will end on November 2, 2020. Your plan will renew January 1, 2021. 
 
 Please review the full [summary plan description](https://drive.google.com/file/d/1XGOniJ-lnUyPdSvE_ce1W5KZlTzjRyTK/view?usp=sharing) of all related health benefits.   
 
-If you have any questions regarding benefits please reach out to People Operations directly. If you have any questions with the Lumity platform, feel free to reach out to their support personnel at `support@lumity.com`.
+If you have any questions regarding benefits please reach out to Total Rewards directly. If you have any questions with the Lumity platform, feel free to reach out to their support personnel at `support@lumity.com`.
 
 Carrier ID cards are normally received within weeks of submitting your benefit elections. If you or your medical providers are in need of immediate confirmation of your coverage, please contact the carrier directly. ID cards are also available within the [Lumity](https://www.lumity.com/) platform or through the Lumity mobile app: [IOS](https://apps.apple.com/us/app/lumity-employee-benefits/id1460901256) or [Android](https://play.google.com/store/apps/details?id=com.lumity.mobile).
 
@@ -188,11 +186,11 @@ For out-of-network services: 365 days from Date of Service.
 
 ### Infertility Services
 
-Infertility services are provided through the UHC HSA plan. Please consult the legal SBC for more information or reach out to People Operations.
+Infertility services are provided through the UHC HSA plan. Please consult the legal SBC for more information or reach out to Total Rewards.
 
 ### Pregnancy & Maternity Care
 
-With medical plans, GitLab offers pregnancy and maternity care. Depending on the plan you selected, your coverages may differ for in-network vs out-of-network, visits, and inpatient care. Please contact Lumity or People Operations with any questions about your plan. Once your child has arrived, please follow the steps outlined above in regards to this [Qualifying Life Event](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#qualifying-life-events).
+With medical plans, GitLab offers pregnancy and maternity care. Depending on the plan you selected, your coverages may differ for in-network vs out-of-network, visits, and inpatient care. Please contact Lumity or Total Rewards with any questions about your plan. Once your child has arrived, please follow the steps outlined above in regards to this [Qualifying Life Event](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#qualifying-life-events).
 
 ## Dental
 
@@ -359,7 +357,7 @@ Year 5: Put in 3K, GitLab matches 1500. Leave the company get 15K own money + $7
 * The employer will use the calculation on each check date effective as of January 1, 2019.
 * The team member must have a contribution for a check date to be eligible for the employer match.
 * Employer matching will be released into participant accounts three business days after the check date.
-* For team members who defer more than 6% on each check date, Payroll and People Operations will conduct a true up quarterly.
+* For team members who defer more than 6% on each check date, Payroll will conduct a true up quarterly.
 
 ### 401(k) Rollover
 
@@ -450,8 +448,8 @@ The Total Rewards Analyst will review and initiate payment for all monthly healt
 * All bills are available on the first of the month and should be paid by the 13th.
 * Lumity will send a reconciliation report breaking down the bills by department. People Ops will transfer the department breakdown and Group Invoice to the "Lumity Bill Reconciliations" google sheet.
 * TODO Build in audit procedure to verify bills against current elections to ensure accuracy.
-* People Operations will login to each admin platform and pay the bills using the banking information and links found in the 1password note: "Monthly Heath Bills"
-* People Operations will then email a detailed breakdown of the amount/department totals to `ap@gitlab.com` for accounting purposes.
+* Total Rewards will login to each admin platform and pay the bills using the banking information and links found in the 1password note: "Monthly Heath Bills"
+* Total Rewards will then email a detailed breakdown of the amount/department totals to `ap@gitlab.com` for accounting purposes.
 
 ## GitLab Inc. United States Leave Policy:
 
@@ -482,7 +480,7 @@ Paternity Leave is not covered under Short Term Disability, so if the team membe
 For maternity leave, GitLab will verify 100% of the wages are paid for eligible team members through payroll and Short-term Disability (STD).
 
 1. While the team member is on short-term disability (which covers 66.7%), GitLab will supplement the remaining 33.3% through payroll.
-  * The team member will inform People Operations when their short term disability is set to begin and end.
+  * The team member will inform Total Rewards when their short term disability is set to begin and end.
   * There is a seven day elimination period for short term disability that is not paid through Cigna, where GitLab will need to supplement the entire wage through payroll.
     * For instance, if Cigna has approved STD for January 1 - February 12, January 1 - January 7 would not be paid through STD.
     * If any adjustments need to be made to a payroll that has already passed, People Ops will coordinate with the Payroll Lead to ensure retroactive payments are made.
