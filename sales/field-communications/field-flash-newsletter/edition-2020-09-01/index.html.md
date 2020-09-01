@@ -11,7 +11,7 @@ title: "Field Flash Newsletter - Edition 2020-09-01"
 
 *This email newsletter was originally sent to the GitLab Field Team and stakeholders on 2020-09-01.*
 
-## ⚡️ GitLab Field Flash: Your Top Field Highlights from July ⚡️
+## NEW ⚡️ GitLab Field Flash: September Edition⚡️
 In this month's [Field Flash](/handbook/sales/field-communications/field-flash-newsletter/#overview), you’ll find a full recap of our first-ever Commit Virtual, new and publicly-available competitive resources to share with customers, a new Sales Guide for collaborating with Legal, tons of improvements from the Sales Ops team to make your processes easier, and much more! Plus, Doug Robbin and Jefferson Jones walk us through how they closed the largest mid-market deal in company history, and we learn more about Glen Miller and his two four-legged best friends in his (impromptu) dog-themed Team Member Spotlight. (***Pro Tip:*** Don’t forget to click the “View entire message” link at the bottom of this email when viewing in Gmail to see the full newsletter each month!)
 
 ### Virtual Commit 2020 Recap
@@ -89,50 +89,49 @@ To see what's ahead in 13.4, watch the [kickoff videos](https://www.youtube.com/
 Please refer to the specific linked issue for each event for details as they unfold.
 
 **AMER**
-SpringOne Virtual - Sept 2-3
-Virtual Security Workshop - Sept 2
-Captive 8 - Virtual IT Columbus, OH – Sept 15
-Catalyzing Business Resilience With A DevOps Roadmap - Sept 15
-SpiceWorld 2020 Virtual - Sept 15-17
-Captive 8 - Virtual IT Chicago – Sept 16
-AFCEA Intelligence Forum - Sept 16
-G2Xchange Disruptive Tech - Sept 16
-Virtual Texas Digital Government Summit - Sept 23
-Bus IT Resilience TL1, Forrester Webcast - Sept 29
+- [SpringOne Virtual](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/2858) - Sept 2-3
+- [Virtual Security Workshop](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1560) - Sept 2
+- [Captive 8 - Virtual IT Columbus, OH](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1551) – Sept 15
+- [Catalyzing Business Resilience With A DevOps Roadmap](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1513) - Sept 15
+- [SpiceWorld 2020 Virtual](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1102) - Sept 15-17
+- [Captive 8 - Virtual IT Chicago](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1556) – Sept 16
+- [AFCEA Intelligence Forum](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/724) - Sept 16
+- [G2Xchange Disruptive Tech](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1641) - Sept 16
+- [Virtual Texas Digital Government Summit](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1028) - Sept 23
+- [Bus IT Resilience TL1, Forrester Webcast](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1572) - Sept 29
 
 **APAC**
-FST - Future of Financial Services, Melbourne - Sept 1-2
-Southeast Asia Government Virtual Roundtable - Sept 2
-(Sponsored Webinar) Forefront - DevOps automation: Best practices and benefits - Sept 9
-[Self-service Webinar] APAC Webinar 3 - GitOps - Sept 16
-Cxrus Partner Webinar - Collaboration without Boundaries - Faster Delivery with GitLab - Sept 22
-Virtual Cloud Expo Asia, Hong Kong - Sept 23-24
-APAC GitLab Connect 2020 - Sept 28-Oct 2
+- [FST - Future of Financial Services, Melbourne](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1639) - Sept 1-2
+- [Southeast Asia Government Virtual Roundtable](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1589) - Sept 2
+- [(Sponsored Webinar) Forefront - DevOps automation: Best practices and benefits](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1478) - Sept 9
+- [(Self-service Webinar) APAC Webinar 3](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1580) - GitOps - Sept 16
+- [Cxrus Partner Webinar - Collaboration without Boundaries - Faster Delivery with GitLab](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1680) - Sept 22
+- [Virtual Cloud Expo Asia, Hong Kong](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1539) - Sept 23-24
+- [APAC GitLab Connect 2020](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1567) - Sept 28-Oct 2
 
 **EMEA**
-Virtual Cloud and DevOps World - September 1-3
-[Webcast] Financial Sector, MEA - Sept 15
-Closer Still Media - Sponsored DevSecOps Webcast, UKI - Sept 15
-DevSecOps SKILup Day EMEA - Sept 17
-DevOps Automation Virtual Workshop, EMEA - Sept 17
-Security & Compliance Webinar, (Part II) Northern Europe - Sept 22
-DevOps Conf, Moscow - Sept 28-29
-DevOpsDays Prague 2020 - Sept 29-30
-GitLab Culture Open House Event, EMEA & APAC - Sept 30
-DTX London, ExCel, London - Sept 30-Oct 1
-
+- [Virtual Cloud and DevOps World](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/1499) - September 1-3
+- [(Webcast) Financial Sector, MEA](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/3269) - Sept 15
+- [Closer Still Media - Sponsored DevSecOps Webcast, UKI](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1486) - Sept 15
+- [DevSecOps SKILup Day EMEA](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1661) - Sept 17
+- [DevOps Automation Virtual Workshop, EMEA](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1504) - Sept 17
+- [Security & Compliance Webinar, (Part II) Northern Europe](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1620) - Sept 22
+- [DevOps Conf, Moscow](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/967) - Sept 28-29
+- [DevOpsDays Prague 2020](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/921) - Sept 29-30
+- [GitLab Culture Open House Event, EMEA & APAC](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/2510) - Sept 30
+- [DTX London, ExCel, London](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/929) - Sept 30-Oct 1
 
 ### Enablement Corner 🧠
-You talked, we listened – v1.2 of the GitLab Value Framework is now available and incorporates your feedback including: 
-1. More proactive and robust Metrics guidance
-1. Expanded MEDDPPICC to reflect importance of understanding Partner influence on opportunities
-1. Content refresh (updated proof points, new ROI materials, Peach Tech and Fuzzit-related updates)
-1. Updated Discovery & Trap-Setting Questions for Selling GitLab Premium/Silver and Ultimate/Gold
+You talked, we listened – [v1.2 of the GitLab Value Framework is now available](https://docs.google.com/document/d/1ZNWZ46bAp_Ii1UCl5H1THj6cJehh3qsCGJbZXh9yc9g/edit?usp=sharing) and incorporates your feedback including: 
+1. More proactive and robust [Metrics guidance](/handbook/sales/command-of-the-message/metrics/)
+1. [Expanded MEDDPPICC](/handbook/sales/meddppicc/) to reflect importance of understanding Partner influence on opportunities
+1. Content refresh (updated [proof points](/handbook/sales/command-of-the-message/proof-points/), new ROI materials, Peach Tech and Fuzzit-related updates)
+1. [Updated Discovery & Trap-Setting Questions](/handbook/sales/qualification-questions/#questions-for-selling-gitlab-premiumsilver-and-ultimategold) for Selling GitLab Premium/Silver and Ultimate/Gold
 
 ----
-As a part of v1.2, Product Marketing has created a GitLab Customer Use Case Solution Summary, which is an MVP grid that maps Tier 1 Customer Use Cases to the Value Framework.
+As a part of v1.2, Product Marketing has created a [GitLab Customer Use Case Solution Summary](https://docs.google.com/document/d/11O13xs0KABA7RSrVlF_Qm9kDRJGtK-LmvJlVGYr0qNM/edit?usp=sharing), which is an MVP grid that maps Tier 1 Customer Use Cases to the Value Framework.
 
-Should we expand to include all use cases? We want to hear your feedback! Let us know your thoughts in this issue. 
+Should we expand to include all use cases? We want to hear your feedback! Let us know your thoughts in [this issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/478). 
 
 ### Team Member Spotlight 🔦
 Glen Miller was nominated for going above and beyond and exceeding expectations while supporting customers like T-Mobile as a Professional Services Implementation Engineer. Learn how Glen embraces our values of Results, Iteration, Collaboration, and Transparency to serve as our customers' trusted advisor. And, meet his two adorable rescue pups – Apollo and Maisel! 🐕
