@@ -36,26 +36,26 @@ For each service, we rate ourselves on a scale of 3 by answering three questions
 
 This is averaged for a total across all services.
 
-|**Service**| **Notes** |
-|-----------|-----------|
-| Service:API | |
-| Service:CI Runner | |
-| Service:Elasticsearch | |
-| Service:Git | |
-| Service:Gitaly | |
-| Service:Mailroom | |
-| Service:Pages | |
-| Service:pgbouncer | |
-| Service:Postgres | |
-| Service:Praefect | |
-| Service:Redis | |
-| Service:RedisCache | |
-| Service:RedisSidekiq | |
-| Service:Registry | |
-| Service:Share | |
-| Service:Sidekiq | **We know how to identify bottlenecks** <br/> We can use the [Shard Utilization metrics](https://dashboards.gitlab.net/d/sidekiq-shard-detail/sidekiq-shard-detail?viewPanel=20&orgId=1&from=now-24h&to=now) to identify bottlenecks or overprovisioning.  <br/> <br/>This data is the current response of the provisioned infrastructure to [Application Demand](https://dashboards.gitlab.net/d/general-application-demand/general-application-demand-indicators?viewPanel=3&orgId=1), step-changes are indicators of non-growth-related change, being either a degradation (potentially a new bottleneck) or an enhancement (something has been made more efficient). <br/><br/>Other graphs on the [Shard Detail dashboard](https://dashboards.gitlab.net/d/sidekiq-shard-detail/sidekiq-shard-detail) allow us to investigate any changes and identify which specific jobs have caused any changes/breakages, e.g. the "Inflight Jobs per Queue" panel, and the underlying metrics can be used as well to do further ad-hoc analysis. <br/> <br/>**We have identified bottlenecks** <br/> We found that  <br/> - we suffered from worker thread saturation because worker threads were reserved for single queues <br/> - we had urgent and non-urgent jobs in the same queue <br/> - we were processing duplicate jobs because many workers were not idempotent   <br/> <br/> **Correction epics/issues are raised** <br/> - [Make authorized_projects meet it's SLO's](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/176) - closed <br/> - [Improve performance of Authorized Projects Worker](https://gitlab.com/groups/gitlab-org/-/epics/3343) <br/> - [Background jobs processing improvements](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/96) - closed <br/> - [Make reactive_caching queue not exceed it's SLI](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/191) - closed <br/> - [Move Sidekiq-cluster to core](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/181) - closed <br/> - [Make sidekiq jobs idempotent](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/207) - closed|
-| Service:Web | |
-|             | TOTAL % |
+|**Service**| **How to identify bottlenecks** | **Observations**|
+|-----------|-----------|---------------------------|
+| Service:API | | |
+| Service:CI Runner | | |
+| Service:Elasticsearch | | |
+| Service:Git | | |
+| Service:Gitaly | | |
+| Service:Mailroom | | |
+| Service:Pages | | |
+| Service:pgbouncer | | |
+| Service:Postgres | | |
+| Service:Praefect | | |
+| Service:Redis | | |
+| Service:RedisCache | | |
+| Service:RedisSidekiq | | |
+| Service:Registry | | |
+| Service:Share | | |
+| Service:Sidekiq | We can use the [Shard Utilization metrics](https://dashboards.gitlab.net/d/sidekiq-shard-detail/sidekiq-shard-detail?viewPanel=20&orgId=1&from=now-24h&to=now) to identify bottlenecks or overprovisioning.  <br/> <br/>This data is the current response of the provisioned infrastructure to [Application Demand](https://dashboards.gitlab.net/d/general-application-demand/general-application-demand-indicators?viewPanel=3&orgId=1), step-changes are indicators of non-growth-related change, being either a degradation (potentially a new bottleneck) or an enhancement (something has been made more efficient). <br/><br/>Other graphs on the [Shard Detail dashboard](https://dashboards.gitlab.net/d/sidekiq-shard-detail/sidekiq-shard-detail) allow us to investigate any changes and identify which specific jobs have caused any changes/breakages, e.g. the "Inflight Jobs per Queue" panel, and the underlying metrics can be used as well to do further ad-hoc analysis. | We found that:  <br/> - we suffered from worker thread saturation because worker threads were reserved for single queues <br/> - we had urgent and non-urgent jobs in the same queue <br/> - we were processing duplicate jobs because many workers were not idempotent|
+| Service:Web | | |
+|             | TOTAL % | |
 
 ### 2. 75% of the known scaling bottlenecks have been addressed
 
@@ -63,24 +63,24 @@ This is averaged for a total across all services.
 
 We count the number of epics raised through the method above, and we use the percentage of closed epics as our measure.
 
-|**Service**|**List of Epics or Issues**|**Status**|**Percentage Complete**|
-|-----------|---------------------------|----------|-----------------------|
-| Service:API | | | |
-| Service:CI Runner | | | |
-| Service:Elasticsearch | | | |
-| Service:Git | | | |
-| Service:Gitaly | | | |
-| Service:Mailroom | | | |
-| Service:Pages | | | |
-| Service:pgbouncer | | | |
-| Service:Postgres | | | |
-| Service:Praefect | | | |
-| Service:Redis | | | |
-| Service:RedisCache | | | |
-| Service:RedisSidekiq | | | |
-| Service:Registry | | | |
-| Service:Share | | | |
-| Service:Sidekiq | | | |
-| Service:Web | | | |
-| | | | TOTAL % |
+|**Service**|**Epics and Issues**|**Percentage Complete**|
+|-----------|--------------------|-----------------------|
+| Service:API | | |
+| Service:CI Runner | | |
+| Service:Elasticsearch | | |
+| Service:Git | | |
+| Service:Gitaly | | |
+| Service:Mailroom | | |
+| Service:Pages | | |
+| Service:pgbouncer | | |
+| Service:Postgres | | |
+| Service:Praefect | | |
+| Service:Redis | | |
+| Service:RedisCache | | |
+| Service:RedisSidekiq | | |
+| Service:Registry | | |
+| Service:Share | | |
+| Service:Sidekiq | 1. [Make authorized_projects meet it's SLO's](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/176) - closed <br/> 2. [Improve performance of Authorized Projects Worker](https://gitlab.com/groups/gitlab-org/-/epics/3343) <br/> 3. [Background jobs processing improvements](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/96) - closed <br/> 4. [Make reactive_caching queue not exceed it's SLI](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/191) - closed <br/> 5. [Move Sidekiq-cluster to core](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/181) - closed <br/> 6. [Make sidekiq jobs idempotent](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/207) - closed | 83% |
+| Service:Web | | |
+| | | |
 
