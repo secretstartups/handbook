@@ -10,7 +10,7 @@ description: "How the Progressive Delivery Team Operates"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Inclusive development
+## Inclusive Development
 
 Our process of planning and development relies heavily on overcommunication rather than any approval gates or automated notification mechanisms. We adhere to the proactive mindset and responsibility of everyone involved to make sure every step in the process is as transparent as it can be. 
 
@@ -20,7 +20,7 @@ Some practical examples of this are:
 - When you open up or begin working on an epic, issue, or merge request consider if all stakeholders are aware of this or should be updated. If unsure, error on the side of updating rather than keeping silent. 
 - When making significant progress make sure this is seen by the relevant stakeholders even if you don't require immediate feedback by mentioning them rather than relying on automated email notifications. Make their involvement explicit.
 
-Note: A good practice when only wanting to inform rather than requesting a direct action from the mentioned stakeholders is to put `FYI`directly following the @mention handle.
+Note: A good practice when only wanting to inform rather than requesting a direct action from the mentioned stakeholders is to put `FYI` directly following the @mention handle.
 
 ## Planning
 
