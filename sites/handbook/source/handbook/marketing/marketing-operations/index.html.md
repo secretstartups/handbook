@@ -465,6 +465,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 - (MPM use only) Integrated Campaign: [FY20IntegratedCampaign_Template](https://app-ab13.marketo.com/#PG4924A1)
 - (MPM use only) Owned Event: [YYYYMMDD_OwnedEvent_Template](https://app-ab13.marketo.com/#ME4722A1)
 - (MPM use only) GitLab Hosted Webcast (single timeslot): [YYYYMMDD_WebcastTopic_Region](https://app-ab13.marketo.com/#ME5512A1)
+- Surveys (not SimplyDirect): [YYYYMMDD_SurveyName](https://app-ab13.marketo.com/#PG6402A1)
 - **Name the program using the campaign tag**
 
 ##### Step 2: Sync to Salesforce
@@ -485,20 +486,14 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 ##### Step 4: Activate Marketo smart campaign(s)
 * If this is a `Vendor Arranged Meeting` or `Executive Roundtable`, skip this step. The campaign and interesting moments will be run as a batch campaign after the list is loaded.
 * Click the "Smart Campaigns" folder
-* Select the `Interesting Moments` smart campaign. 
-* The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
-* Click to the "Schedule" tab and click `Activate`.
-* Select the `01 Processing` smart campaign.
-* The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
-* Click to the "Schedule" tab and click `Activate`.
+     * Select the `Interesting Moments` smart campaign. 
+     * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
+     * Click to the "Schedule" tab and click `Activate`.
+     * Select the `01 Processing` smart campaign.
+     * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
+     * Click to the "Schedule" tab and click `Activate`.
 
-- Click the "Smart Campaigns" folder
-- Select the `Interesting Moments` smart campaign.
-- The correct program should automatically apply when cloned, so _you don't need to do anything here._ However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
-- Click to the "Schedule" tab and click `Activate`.
-- Select the `01 Processing` smart campaign.
-- The correct program should automatically apply when cloned, so _you don't need to do anything here._ However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
-- Click to the "Schedule" tab and click `Activate`.
+- Keep in mind, sometimes the interesting moment happens in the `01 processing` campaign. If you do not see an `Interesting Moments` campaign, check to see if that step is in `01 Processing`
 
 ##### Step 5: Update the Salesforce campaign
 
@@ -861,7 +856,7 @@ This is webcast hosted on an external partner/vendor platform. The status of Att
 
 #### Survey
 
-A survey that we run through a 3rd party. Tracks respondents and new leads we receive.
+A survey that we or a 3rd party sends out. Tracks respondents and new leads we receive. 
 
 **Bizible:** This is tracked as an _offline_ Bizible channel.
 
