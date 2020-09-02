@@ -136,6 +136,17 @@ The issue can be created manually using the following command:
 bundle exec gitlab-triage --debug --r ./plugins/all.rb --token PERSONAL_API_TOKEN --source projects --source-id gitlab-org/gitlab -f ./policies/stages/report/unlabelled-issues.yml
 ```
 
+### Newly created Community contribution merge requests requiring first-triage
+
+This report contains recent wider community contribution merge requests requiring initial triage.
+The goal is for coaches to add stage and group labels (as well as type and category labels, ideally),
+so that the relevant Product Manager or Engineering Manager can be pinged later on based on these labels.
+
+* Triage owner: Merge request coaches.
+* Listed merge requests: All which have been created in the last 24 hours.
+* Triage action: Follow the instructions in the triage report.
+  * Example: [https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/364](https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/364)
+
 ### Group level bugs, features, and UX debt
 
 This report contains the relevant bugs, feature requests, and UX debt issues that belong to a group in our [DevOps stages](/handbook/product/product-categories/#devops-stages).
