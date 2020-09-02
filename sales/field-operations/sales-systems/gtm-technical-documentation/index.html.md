@@ -287,4 +287,4 @@ Code Unit:
 
 ## Gainsight 
 - The Gainsight docuemntation has been migrated to it's own page. Please update any bookmarks for the Gainsight Go To Market Technical Documentation page to its new home:
-   - [Gainsight Go-To-Market Technical Documentation Handbook Page](/handbook/sales/field-operations/sales-systems/gtm_technical-documentation/gainsight)
+   - [Gainsight Go-To-Market Technical Documentation Handbook Page](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/gainsight)
