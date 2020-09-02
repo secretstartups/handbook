@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Demand Generation Campaigns Handbook
-description: Demand Generation Campaigns Handbook
+title: Demand Generation
+description: Demand Generation
 twitter_image: '/images/tweets/handbook-marketing.png'
 twitter_site: "@gitlab"
 twitter_creator: "@gitlab"
