@@ -19,7 +19,7 @@ twitter_creator: "@gitlab"
 
 ## Introduction
 
-Trust is the cornerstone of how we operate at GitLab. We trust team members to [do the right thing instead of having rigid rules](/handbook/values/#measure-results-not-hours/). Trust at GitLab [increases results](/handbook/people-group/guidance-on-feedback/), [efficiency](/handbook/values/#efficiency/), and [collaboration](/handbook/values/#collaboration)
+Trust is the cornerstone of how we operate at GitLab. We trust team members to [do the right thing instead of having rigid rules](https://about.gitlab.com/handbook/values/#measure-results-not-hours). Trust at GitLab [increases results](/handbook/people-group/guidance-on-feedback/), [efficiency](/handbook/values/#efficiency), and [collaboration](/handbook/values/#collaboration)
 
 Trust takes time and energy to build. We leverage [informal communication](/company/culture/all-remote/informal-communication/) to build trust, but there are additional strategies [people leaders](/handbook/people-group/leadership-toolkit/) and team members can implement on their teams. 
 
