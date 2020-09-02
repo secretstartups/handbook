@@ -58,7 +58,7 @@ If the problem is validated, the issue is moved forward to the next stage, other
 
 ##### Design phase
 
-In the `workflow::design` phase the product designer will require input from stakeholders such as engineering and product management to push forward a design concept. 
+In the `workflow::design` phase the Product Designer drives the ideation about potential solutions and will require input from stakeholders such as Engineering, Product Management, and Technical Writing to push forward a design concept.
 
 Ideally, the product designer is working ahead of the current milestone and will require feedback on issues ahead of the build track or even for `workflow::planning breakdown` phase. This [issue board](https://gitlab.com/groups/gitlab-org/-/boards/1884154) is used to make sure engineering has visibility on the items that require their input ahead of time so they can be accounted for in terms of availability and is mentioned in the Needs/Weight issues.
 
