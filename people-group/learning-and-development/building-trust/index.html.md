@@ -2,7 +2,7 @@
 layout: handbook-page-toc
 title: Building Trust
 layout: handbook-page-toc
-title: "Building trust at GitLab"
+title: "Building Trust at GitLab"
 canonical_path: "/handbook/people-group/learning-and-development/building-trust/"
 description: "On this page, GitLab details considerations for building trust in remote teams. Learn more!"
 twitter_image: "/images/opengraph/all-remote.jpg"
@@ -19,7 +19,7 @@ twitter_creator: "@gitlab"
 
 ## Introduction
 
-Trust is the cornerstone of how we operate at GitLab. We trust team members to [do the right thing instead of having rigid rules](https://about.gitlab.com/handbook/values/#measure-results-not-hours). Trust at GitLab [increases results](/handbook/people-group/guidance-on-feedback/), [efficiency](/handbook/values/#efficiency), and [collaboration](/handbook/values/#collaboration)
+Trust is the cornerstone of how we operate at GitLab. We trust team members to [do the right thing instead of having rigid rules](https://about.gitlab.com/handbook/values/#measure-results-not-hours). Trust at GitLab [increases results](/handbook/people-group/guidance-on-feedback/), [efficiency](/handbook/values/#efficiency), and [collaboration](/handbook/values/#collaboration).
 
 Trust takes time and energy to build. We leverage [informal communication](/company/culture/all-remote/informal-communication/) to build trust, but there are additional strategies [people leaders](/handbook/people-group/leadership-toolkit/) and team members can implement on their teams. 
 
@@ -33,19 +33,19 @@ People Leaders should make every effort to build trust as soon as they mobilize 
 
 Getting to know your people through personality assessments is a great tool to build trust. Personality assessments can help teams understand how they are different and enable managers to better understand their direct reports. The results can shine a light on ways you can adapt your processes in a way that is most effective for different team members. The results are not set in stone but assessments can help team members get to know each other quicker. 
 
-An abundance of free personality assessments are available. Several are outlined below. 
+An abundance of free personality assessments are available. Several are outlined below:
 
 - [Understanding Social Styles](/handbook/people-group/learning-and-development/emotional-intelligence/social-styles/#discover-your-social-style/)
 - [Emotional Intelligence Assessments](/handbook/people-group/learning-and-development/emotional-intelligence/#emotional-intelligence-eq-assessments/)
 - [Gallup Strengths Finder](https://www.gallup.com/cliftonstrengths/en/252137/home.aspx) 
-- [16 Personalities](https://www.16personalities.com/)
+- [16 Personalities](https://www.16personalities.com/) (also known as Myers-Briggs)
 - [DISC Personality Test](https://discpersonalitytesting.com/free-disc-test/)
 
 **How to apply personality assessments:** People leaders should have all team members take a personality assessment when they first join their team. Managers can examine personality assessment results and have strength-based discussions with their people. When we embrace our unique strengths and the unique strengths of our team members, we all feel more engaged, more productive, more valued, and more trusted. They should encourage their team members to share their strengths / styles with the team. 
 
 ### Use a One-Slider 
 
-A one-slider is a great tool for remote teams to get to know one another. Consider using the [template and example](https://docs.google.com/presentation/d/1N-fNiIBAc8_HefLyPTi4HEhoFkcCDLW_Ntx8wqmEQ9c/edit#slide=id.g822466666c_0_232) as a starting point. The one-slider can be adapted to whatever questions or facts you'd like to learn more about. One-sliders allow team members to share fun facts about themselves in a remote setting. You can be creative and ask entertaining questions! When someone joins the team, have them fill out a one-slider and use it to introduce themselves to the team. They are fun, easy, and can help to build trust by getting to know one another easier in a remote setting. 
+A one-slider is a great tool for remote teams to get to know one another. Consider using the [template and example](https://docs.google.com/presentation/d/1N-fNiIBAc8_HefLyPTi4HEhoFkcCDLW_Ntx8wqmEQ9c/edit#slide=id.g822466666c_0_232) as a starting point. The one-slider can be adapted to whatever questions or facts you'd like to learn more about. One-sliders allow team members to share fun facts about themselves in a remote setting. You can be creative and ask entertaining questions! When someone joins the team, have them fill out a one-slider and use it to introduce themselves to the team. They are fun, easy, and can help to build trust by getting to know one another more easily in a remote setting. 
 
 **How to apply one-sliders:** Before the next team call, ask one or two members of the team to pre-populate a one-slider a day or two in advance of the meeting. Spend the first five to ten minutes of the meeting having the designated team members share their one-sldier. Give everyone an equal amount of time and encourage everyone on the call to ask questions about what makes them unique. 
 
@@ -81,11 +81,11 @@ Take a [coaching approach](/handbook/people-group/learning-and-development/caree
 
 ### Leverage the Building High Performing Teams Model
 
-The [Building High Performing Teams model](/handbook/people-group/learning-and-development/building-high-performing-teams/) is one of the most widely used and accepted models on team development. A big component of the model is building trust. To reach high performance, teams need to trust each other and share mutual regard where people are supported and respected. There is a willingness to be forthright, open, and free in working with team members. Review the [Trust section](/handbook/people-group/learning-and-development/building-high-performing-teams/#stage-2-trust-building---who-are-you/) of the Building High Performing teams page on strategies to build trust. 
+The [Building High Performing Teams model](/handbook/people-group/learning-and-development/building-high-performing-teams/) is one of the most widely used and accepted models for team development. A big component of the model is building trust. To reach high performance, teams need to trust each other and share mutual regard where people are supported and respected. There is a willingness to be forthright, open, and free in working with team members. Review the [Trust section](/handbook/people-group/learning-and-development/building-high-performing-teams/#stage-2-trust-building---who-are-you/) of the Building High Performing teams page on strategies to build trust. 
 
 **How to apply the building higher performing teams model:** Review the strategies to improve [building high performing teams](/handbook/people-group/learning-and-development/building-high-performing-teams/#summary/) at GitLab. In the [trust building section](/handbook/people-group/learning-and-development/building-high-performing-teams/#stage-2-trust-building---who-are-you/), Managers can conduct an assessment with their teams to see if team members trust one another. Use the resources outlined to facilitate a discussion. 
 
-### Ask for feedback
+### Ask for Feedback
 
 Managers should be open to [receiving feedback](/handbook/people-group/guidance-on-feedback/) from their team members. Often there is a barrier as employees feel uncomfortable sharing constructive feedback, let alone with their manager. But if managers are open to feedback, they can slowly grow a culture of feedback within their team, thereby increasing trust. Managers can show their openness by asking for feedback, through [1:1 calls](/handbook/leadership/1-1/) with direct reports or our performance management platform. 
 
