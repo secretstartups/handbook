@@ -34,70 +34,44 @@ You’ve now got some time to do some investigation on some of your accounts. Yo
 
 <table>
   <tr>
-   <td><strong>Required component</strong>
-   </td>
-   <td><strong>Detail</strong>
-   </td>
-   <td><strong>Why?</strong>
-   </td>
+   <td><strong>Required component</strong></td>
+   <td><strong>Detail</strong></td>
+   <td><strong>Why?</strong></td>
   </tr>
   <tr>
-   <td><strong>Logging call notes with (ii) in the title</strong>
-   </td>
-   <td>Every verbal interaction with an account is logged.
-   </td>
-   <td>It is important to have a log of what was discussed previously, as no one has a memory that good. It also enables your buddy or manager to take over.
-   </td>
+   <td><strong>Logging call notes with (ii) in the title</strong></td>
+   <td>Every verbal interaction with an account is logged.</td>
+   <td>It is important to have a log of what was discussed previously, as no one has a memory that good. It also enables your buddy or manager to take over.</td>
   </tr>
   <tr>
-   <td><strong>Rank/tier all of your accounts </strong>
-   </td>
-   <td>Any customer with CARR higher than 0 or any prospect with an open opportunity needs to be tiered
-   </td>
-   <td>We have to portion out our time relative to the potential of the account. 
-   </td>
+   <td><strong>Rank/tier all of your accounts </strong></td>
+   <td>Any customer with CARR higher than 0 or any prospect with an open opportunity needs to be tiered</td>
+   <td>We have to portion out our time relative to the potential of the account.</td>
   </tr>
   <tr>
-   <td><strong>Keep your next steps up to date</strong>
-   </td>
-   <td>Next steps must be up to date <span style="text-decoration:underline;">every day</span>
-   </td>
-   <td>Time kills deals and we have a lot of opps - next steps are the way to keep on top of opps, resulting in more deals closed
-   </td>
+   <td><strong>Keep your next steps up to date</strong></td>
+   <td>Next steps must be up to date <span style="text-decoration:underline;">every day</span></td>
+   <td>Time kills deals and we have a lot of opps - next steps are the way to keep on top of opps, resulting in more deals closed</td>
   </tr>
   <tr>
-   <td><strong>Your opportunities have to be up to date</strong>
-   </td>
-   <td>$ amount, opp name, type, stage & close dates must be accurate at all times
-   </td>
-   <td>Enables you to forecast with precision
-   </td>
+   <td><strong>Your opportunities have to be up to date</strong></td>
+   <td>$ amount, opp name, type, stage & close dates must be accurate at all times</td>
+   <td>Enables you to forecast with precision</td>
   </tr>
   <tr>
-   <td><strong>Command plans for all deals over $5k amount or $10k IACV (SMB) or $10k amount or $20k IACV (Mid-Market)</strong>
-   </td>
-   <td>Overview section must be completed for deals over $5k in SMB (AMOUNT, not IACV) or $10k in Mid-Market
-<p>
-Full for deals over $10k IACV in SMB or $20k in Mid-Market
-   </td>
-   <td>The command plan is a guide of how well qualified your opportunity is and signposts what needs to happen next.
-   </td>
+   <td><strong>Command plans for all deals over $5k amount or $10k IACV (SMB) or $10k amount or $20k IACV (Mid-Market)</strong></td>
+   <td>Overview section must be completed for deals over $5k in SMB (AMOUNT, not IACV) or $10k in Mid-Market. Full for deals over $10k IACV in SMB or $20k in Mid-Market</td>
+   <td>The command plan is a guide of how well qualified your opportunity is and signposts what needs to happen next.</td>
   </tr>
   <tr>
-   <td><strong>Custom pitch deck built for all opps over $5k amount (SMB) or $10k amount (Mid-Market)</strong>
-   </td>
-   <td><a href="https://about.gitlab.com/handbook/sales/commercial/#custom-deck-requirements">Requirements</a>
-   </td>
-   <td>It helps you sell on value rather than just features and it arms your champion with the info they need to get sign-off internally to buy GitLab. Lastly, it makes you stand out as a sales rep.
-   </td>
+   <td><strong>Custom pitch deck built for all opps over $5k amount (SMB) or $10k amount (Mid-Market)</strong></td>
+   <td><a href="https://about.gitlab.com/handbook/sales/commercial/#custom-deck-requirements">Requirements</a></td>
+   <td>It helps you sell on value rather than just features and it arms your champion with the info they need to get sign-off internally to buy GitLab. Lastly, it makes you stand out as a sales rep.</td>
   </tr>
   <tr>
-   <td><strong>Capture key information</strong>
-   </td>
-   <td>What is the customer’s understanding of what GitLab does should be captured in call notes. We also record why we won / lost a deal
-   </td>
-   <td>It helps us develop our market. Recording win and loss reasons means we can accelerate what is helping us win deals and fix what is making us lose deals.
-   </td>
+   <td><strong>Capture key information</strong></td>
+   <td>What is the customer’s understanding of what GitLab does should be captured in call notes. We also record why we won / lost a deal</td>
+   <td>It helps us develop our market. Recording win and loss reasons means we can accelerate what is helping us win deals and fix what is making us lose deals.</td>
   </tr>
 </table>
 
