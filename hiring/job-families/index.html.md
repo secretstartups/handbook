@@ -188,7 +188,7 @@ title: {add text of job family name}
 
 ## Levels
 ### {add name of level - i.e. Junior/Senior/Manager}
-{List the position this level reports to}
+{add the position this level reports to}
 
 #### {add Level} Job Grade
 The {add the role name} is a [grade #](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
