@@ -60,9 +60,9 @@ The [MartinFowler.com article above on pair programming](https://martinfowler.co
 * If you have a different idea or plan, bring it up sooner rather than later, but also be open to other approaches.  Follow GitLabs values, such as [Disagree, commit, and disagree](/handbook/values/#disagree-commit-and-disagree).
 * **Stop** and **Explain** things often, but don't be condescending or mansplain.  It's a fine line, it helps to often say things like "are you familiar with this approach?"
 
-#### Be aware and empathatic  of different personalities
+#### Be aware and empathetic of different personalities
 
-* Some people are more extroverted and opinionated, some people aren't.  The beginning of the pairing session is a great time to find out each others personalities, so you can be aware and accomodate them.  If the other person is more introverted and quiet, you might want to stop more often and ask them if they have input.
+* Some people are more extroverted and opinionated, some people aren't.  The beginning of the pairing session is a great time to find out each others personalities, so you can be aware and accommodate them.  If the other person is more introverted and quiet, you might want to stop more often and ask them if they have input.
 
 ## Pair Programming Styles
 
