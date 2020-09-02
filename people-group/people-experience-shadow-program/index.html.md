@@ -36,11 +36,11 @@ The Shadow program is currently scheduled over a 2 - 3 week period.
 - Complete the [GitLab Tools 101 Training](/handbook/people-group/learning-and-development/certifications/gitlab-101/)
 - Ensure that you are subscribed to the #PeopleOps & #pea-team Slack channel.
 1. On the start date, the People Experience team will create the [PEA Shadow Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/people_experience_team_shadow.md) and assign to the respective team member.  
-1. At the end of the Shadow program, the People Experience team and Shadower are to provide feedback on the process and each others particpation in the program to ensure the success and continous growth within the roles. 
+1. At the end of the Shadow program, the People Experience team and Shadower will provide feedback on the process and each others particpation in the program to ensure the success and continous growth within the roles. The Feedback Form can be found in the People Experience folder in the shared Drive. 
 
 ### Previous Shadow Program Joiners
 
-- Catarina Ferreira (https://gitlab.com/cferreira1)
-- Kike Adio (https://gitlab.com/Kikeadio) 
+- Catarina Ferreira (https://gitlab.com/cferreira1) - participated in June / July 2020
+- Kike Adio (https://gitlab.com/Kikeadio) - participated in June / July 2020
 
 Any new shadowers are encouraged to connect with previous participants in the program for insights and guidance. 

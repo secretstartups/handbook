@@ -29,7 +29,7 @@ A voluntary offboarding occurs when a team member informs his or her manager of 
 
 If you are a current team member and you are thinking about resigning from GitLab, we encourage you to speak with your manager, your assigned PBP, or another trusted team member to discuss your reasons for wanting to leave. At GitLab we want to ensure that all issues team members are facing are discussed and resolved before a resignation decision has been made.  This will allow GitLab the ability to address concerns and in return foster a great work environment.
 
-If resignation is the only solution after you have discussed your concerns, please communicate your intention to resign to your manager. This will trigger the following voluntary offboarding steps outlined below:
+If resignation is the only solution after you have discussed your concerns, please communicate your intention to resign to your manager. We would advise you to review your employment contract for the statutory notice period and determine your last working day. Then with your manager you can discuss the time needed to work on a handover/transition. If there’s no notice period included in your employment contract we would advise that you provide GitLab 2 weeks of notice. Depending on the situation and local laws, GitLab may choose to provide you payment in lieu of notice.  Hereafter please review the below process which will be followed for a voluntary resignation. 
 
 ### Voluntary Process
 
@@ -77,8 +77,8 @@ People Operations Specialists will send the [CultureAmp](https://www.cultureamp.
 #### GitLab Alumni Program
 
 All offboarding may request to be added to the Slack channel `gitlab-alumni` by requesting through the PBP who can review the request and confirm to the People Experience Associate who can open an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=slack_googlegroup_1Passwordgroupvault) on behalf of the former team member.
-Reasons that someone would not be permitted to join would be due to involuntary offboarding due to extreme behavior or gross conduct.
-Underperformance is not a reason to exclude someone from the channel.
+Reasons that someone would not be permitted to join would be due to involuntary offboarding for extreme behavior or a violation of our [Code of Conduct](https://about.gitlab.com/handbook/people-group/code-of-conduct/).
+Underperformance or other causes for involuntary offboarding are not a reason to exclude someone from the alumni program. 
 The purpose of this channel is to network and socialize with team members.
 Joining the channel is voluntary and subject to GitLab's [Code of Conduct](/community/contribute/code-of-conduct/).
 
@@ -249,7 +249,7 @@ Unless it's for extreme behaviour/gross misconduct, the team member will be advi
 
 If you are not close to an employee's offboarding, it may seem unnecessarily swift.
 Please remember that these decisions are never made without following the above process to come to a positive resolution first - we need to protect the interests of the individual as well as the company, and offboarding are a last resort.
-According to our values [negative feedback is 1-1 between you and your manager](/handbook/values/#negative-is-1-1) and we are limited in what we can share about private employee issues.
+According to our values [negative feedback is 1-1 between you and your manager](/handbook/values/#negative-feedback-is-1-1) and we are limited in what we can share about private employee issues.
 Please discuss any concerns you have about another employee's offboarding with your manager or your People Business Partner.
 
 Given the expectations and responsibility that come with a VP and above position, when there is an involuntary offboarding for one of these positions, additional context for the personnel change can be provided to the organization.  
@@ -314,6 +314,7 @@ For laptops, please refer to the [Laptop Buy Back Policy](/handbook/business-ops
 To return your laptop to GitLab, please contact itops@gitlab.com immediately upon offboarding.
 
 #### Expensify
+This section of the Accounting Department.
 
 To remove someone from Expensify Log in to [Expensify](https://www.expensify.com/signin) and go to "Settings" in the left sidebar.
 Select the right policy based upon the entity that employs the team member. Select "People" in the left menu.
