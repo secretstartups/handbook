@@ -19,7 +19,7 @@ title: "Financial Planning & Analysis"
  * [Hypergrowth Rule](/handbook/finance/financial-planning-and-analysis/hypergrowth-rule)
  * [Sales Finance](/handbook/finance/financial-planning-and-analysis/Sales-Finance)
  * [FP&A Job Ladder](https://about.gitlab.com/job-families/finance/finance-planning-and-analysis/)
- * [Adaptive Insights](https://about.gitlab.com/job-families/finance/finance-planning-and-analysis/adaptive-insights) 
+ * [Adaptive Insights](/handbook/finance/financial-planning-and-analysis/adaptive-insights) 
 
 ## What is purpose of FP&A @ GitLab?
 1. Facilitate execution of GitLab's [strategy](/company/strategy/)
