@@ -322,6 +322,7 @@ Weekdays will now leverage an automated system relying upon a [chatbot](https://
 1. Incidents will be escalated by Pagerslack and randomly select a BE that is currently online in Slack and eligible due to their working hours.
 1. Pagerslack would also factor recency into the algorithm so that BEs that had recently been involved in an incident would be selected last.
 1. During incidents a randomly selected BE has the option to pass the incident to another BE if they are urgently needed somewhere else.
+1. Engineers who are eligible to be on-call during weekend shifts are deprioritized from the process
 
 ##### Escalation
 
@@ -329,7 +330,7 @@ Weekdays will now leverage an automated system relying upon a [chatbot](https://
 1. Pagerslack randomly selects a BE first responder based on: working hours, whether they are online and notifies them via slack/cell etc.
 1. BE responds to the Pagerslack thread with 👀
 1. If Primary does not respond a secondary will be notified.
-1. Pagerslack will continue trying up to 6 different BEs.
+1. Pagerslack will continue trying up to 6 different BEs with preference for those wo do not take weekend shifts
 1. BE triages the issue and works towards a solution.
 1. If necessary, BE reach out to domain experts as needed.
 
@@ -366,8 +367,8 @@ At the time of success assessment, all stakeholders - Development, Infrastructur
 ### Bot (Pagerslack) Usage
 
  * In order to use the bot, type `/devoncall [optional incident issue URL]` to trigger the escalation process.
- * `@pagerslack top` will show the top 25 members that are next in the escalation queue
- * `@pagerslack position` will show you the position in the queue. The higher the number, the less probabilities to get pinged.
+ * Message the bot privately with `top` to show the top 25 members that are next in the escalation queue
+ * Message the bot privately with `position` to see your position in the queue. The higher the number, the less probabilities to get pinged.
 
 _Please report any problems by creating an issue in the [pagerslack project](https://gitlab.com/jameslopez/pagerslack/-/issues)._
 
