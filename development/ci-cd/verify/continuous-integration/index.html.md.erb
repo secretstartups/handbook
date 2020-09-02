@@ -36,7 +36,7 @@ classDiagram
     Acquistion: Measurement (Total count of Pipelines page views)
   Activation --|> Retention
     Activation : Use: Are users creating CI configurations/pipelines?
-    Activation: Measurement (Total count of .gitlab-ci.yml files created)
+    Activation: Measurement (Total count of projects with .gitlab-ci.yml files)
   Retention --|> Revenue
     Retention : Continued use: Are users triggering CI pipelines?
     Retention: Measurement (Total count of pipelines for project with .gitlab-ci.yml file)
