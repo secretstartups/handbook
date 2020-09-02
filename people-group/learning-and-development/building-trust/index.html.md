@@ -67,7 +67,7 @@ To be inclusive of time zones and those who may not prefer these types of social
 
 ### Zoom Background Ice-Breaker
 
-The Zoom feature to upload [any background image](/handbook/tools-and-tips/zoom/#virtual-background/) of your choice is a fun tool to use for an ice breaker. Managers can ask their team to come to a meeting with a background of their favorite place to vacation, or a place they hope to visit one day, and much more. It’s a great feature that can add some fun to calls and build unity. Spend the first five minutes of a meeting talking about the Zoom background and giving everyone in the meeting a voice. 
+The Zoom feature to upload any background image of your choice is a fun tool to use for an ice breaker. Managers can ask their team to come to a meeting with a background of their favorite place to vacation, or a place they hope to visit one day, and much more. It’s a great feature that can add some fun to calls and build unity. Spend the first five minutes of a meeting talking about the Zoom background and giving everyone in the meeting a voice. 
 
 **How to apply Zoom background ice-breakers:** Team members can do this for as many meetings as they like. If it is team discussion, spend the first five minutes of the meeting doing a round robin of the background. Managers can implement a rotation of DRIs ([directly responsible individuals](/handbook/people-group/directly-responsible-individuals/)) in charge of the ice-breaker by assigning different team members. 
 
@@ -89,7 +89,7 @@ The [Building High Performing Teams model](/handbook/people-group/learning-and-d
 
 Managers should be open to [receiving feedback](/handbook/people-group/guidance-on-feedback/) from their team members. Often there is a barrier as employees feel uncomfortable sharing constructive feedback, let alone with their manager. But if managers are open to feedback, they can slowly grow a culture of feedback within their team, thereby increasing trust. Managers can show their openness by asking for feedback, through [1:1 calls](/handbook/leadership/1-1/) with direct reports or our performance management platform. 
 
-**How to apply asking for feedback:** It may be difficult to ask for feedback from team members as a manager. However, people leaders should be in the habit of regularly asking for feedback. Every 1-1 can be an opportunity for team members to share feedback on your performance. Managers must establish an environment built on trust with [no ego](/handbook/values/#no-ego/) to enable team members to be forthcoming. 
+**How to apply asking for feedback:** It may be difficult to ask for feedback from team members as a manager. However, people leaders should be in the habit of regularly asking for feedback. Every 1-1 can be an opportunity for team members to share feedback on your performance. Managers must establish an environment built on trust with no ego to enable team members to be forthcoming. 
 
 ### Overcome Unconscious Bias
 
