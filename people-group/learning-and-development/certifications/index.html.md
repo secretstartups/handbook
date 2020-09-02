@@ -104,7 +104,7 @@ If you took one of our certifications or knowledge assessments and did not recie
 1. Create a second sheet and title it `passing_results` 
    1. In box A1 type `=QUERY(IMPORTRANGE("www.linktoresponsestabofspreadsheet.com", "Form Responses 1!A1:M10000"), "Select * WHERE Col9>=10")` 
       1. Where the link is for the sheet, update that to link to the Form Responses 1 Sheet 
-      1. Where it says “Col3>=10, update the “3” with the number the column is with the scores (ex. A=1, B=2, C=3, etc.). Where the 10 is, update this number to the lowest score someone could get to score at least an 80% on the quiz. 
+      1. Where it says “Col9>=10, update the “9” with the number the column is with the scores (ex. A=1, B=2, C=3, etc.). Where the 10 is, update this number to the lowest score someone could get to score at least an 80% on the quiz. 
 
 ### Step 3: Google Slides
 
