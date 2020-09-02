@@ -981,9 +981,9 @@ Sales Segmentation information can be found in the [Business Operations - Databa
 
 GitLab's Export Control Classification (or ECCN) is 5D992.c. As a consequence of this classification, we currently do not do business in: Iran, Sudan, Syria, North Korea, Cuba and the Crimean region of the Ukraine.
 
-# Seeing how our customers use GitLab
+## Seeing how our customers use GitLab
 
-## Adoption - GitLab Usage Statistics
+### Adoption - GitLab Usage Statistics
 
 Using [GitLab Version Check](/handbook/sales/process/version-check/), GitLab usage data is pushed into Salesforce for both CE, EE and EE trial users.
 Once in Salesforce application, you will see a tab called "Usage Statistics".
@@ -1016,7 +1016,7 @@ If not using, why and are they open to evaluating that feature?
 
 Take a look at a Training Video to explain in greater detail by searching for the "Sales Training" folder on the Google Drive.
 
-## Open Source users - GitLab CE Instances and CE Active Users on SFDC Accounts
+### Open Source users - GitLab CE Instances and CE Active Users on SFDC Accounts
 
 In an effort to make the [Usage/Version ping data](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html) simpler to use in SFDC, there are 2 fields directly on the account layout - "CE Instances" and "Active CE Users" under the "GitLab/Tech Stack Information" section on the Salesforce account record.
 
@@ -1047,19 +1047,19 @@ This should not be interpreted as having instances but no users.
 
 For the process of working these accounts, appending contacts from third-party tools, and reaching out, please refer to the [business operations](/handbook/business-ops/) section of the handbook.
 
-# How we use our systems
+## How we use our systems
 
-## GitLab Tech Stack
+### GitLab Tech Stack
 
 For information regarding the tech stack at GitLab, please visit the [Tech Stack Applications page](/handbook/business-ops/tech-stack-applications/#tech-stack-applications) of the Business Operations handbook where we maintain a comprehensive table of the tools used across the company, in addition to a 'cheat-sheet' for quick reference of who should have access and whom to contact with questions.
 
-## Collaboration Applications used by Sales
+### Collaboration Applications used by Sales
 
 Please [use the handbook](/handbook/handbook-usage/#why-handbook-first) as much as possible instead of traditional office applications.
 When you have to use office applications always use [Gsuite applications](https://gsuite.google.com/together/) instead of Microsoft Office; for example, Google Sheets instead of Excel, Google Docs instead of Word, and Google Slides instead of Keynote or Powerpoint.
 Give the entire company editing rights whenever possible so everyone can contribute.
 
-## Parent and Child Accounts
+### Parent and Child Accounts
 
 * A Parent Account is the business/organization which owns another business/organization.
 Example: The Walt Disney Company is the parent account of Disney-ABC Television Group and Disney.com.
@@ -1078,7 +1078,7 @@ If done properly, the Parent/Child relationship will be displayed in the Account
 For example, Disney-ABC Television Group is the child for The Walt Disney Company, but is the parent for ABC Entertainment Group.
 * We want to do this as we can keep each opportunity with each child account separate and easily find all accounts and opportunities tied to a parent account, as well as roll-up all Closed Won business against a Parent Account.
 
-## When to Create an Opportunity with Software License Fees
+### When to Create an Opportunity with Software License Fees
 
 Before a LEAD is converted or an OPPORTUNITY is created the following must occur:
 
@@ -1096,13 +1096,13 @@ Before a LEAD is converted or an OPPORTUNITY is created the following must occur
 
 * When creating any OPPORTUNITY be sure to review the criteria needed for each [Opportunity Stage](/handbook/business-ops/resources/#opportunity-stages) and be aware that all opportunities must enter the "O-Pending Acceptance" stage or you will encounter a validation rule error.
 
-### Creating an Opportunity
+#### Creating an Opportunity
 
 Opportunities can only be created *from* a CONTACT record or when *converting* a LEAD.
 See the ['How to create an Opportunity'](/handbook/business-ops/resources/#how-to-create-an-opportunity) section of the Business OPS handbook.
 
 
-## True up
+### True up
 
 ***What is it?***
 
@@ -1131,7 +1131,7 @@ This will create a one time only charge to the customer and in a year's time, th
 
 ***Note that we make provision for true ups in our standard [Subscription Terms](/terms/#subscription) Section 5 - Payment of Fees.***
 
-## Deal Sizes
+### Deal Sizes
 
 Deal Size is a dimension by which we will measure stage to stage conversions and stage cycle times of opportunities.
 Values are [IACV](/handbook/finance/operating-metrics/#bookings-incremental-annual-contract-value-iacv) in USD.
@@ -1143,7 +1143,7 @@ Values are [IACV](/handbook/finance/operating-metrics/#bookings-incremental-annu
 
 Note that we use the same amounts to group customers by ARR.
 
-## Associating Emails to Opportunities
+### Associating Emails to Opportunities
 
 Associating emails to Salesforce is a best practice that should be followed by all users.
 Attaching emails to a Lead, Account, Contact, or Opportunity record are vital for transparency, as any number of team members can review the correspondence between GitLab and the customer/prospect account.
@@ -1152,7 +1152,7 @@ It doesn't do anyone any good when all of the correspondence is kept in a user's
 With that said, there are multiple ways that an email can be associated to an opportunity.
 But before you do that, you must first make sure that the contact record is associated to an opportunity via the Contact Roles object.
 
-### First, Contact Roles
+#### First, Contact Roles
 
 To add a Contact Role to an opportunity:
 1. Go to the Opportunity.
@@ -1164,7 +1164,7 @@ To add a Contact Role to an opportunity:
 1. Repeat the steps, although you can only have one Primary Contact per opportunity.
 1. For more information, you can visit the [Salesforce Knowledge Center](https://help.salesforce.com/articleView?id=contactroles_add_cex.htm&type=5).
 
-### Email to Salesforce
+#### Email to Salesforce
 
 Email to Salesforce allows you to associate emails to Opportunities using an email long email string that associates the email to the contact.
 To set this up:
@@ -1183,7 +1183,7 @@ To set this up:
 1. Go to Gmail and save this email address in a Contact record. A good practice is name it 'BCC SFDC' for first and last name.
 1. When you send any emails from Gmail, you will BCC the "BCC SFDC" contact, which will send the email to long string you copied in Step 5.
 
-### Outreach
+#### Outreach
 
 If you want to associate emails to Opportunities using Outreach, follow these steps:
 
@@ -1195,7 +1195,7 @@ If you want to associate emails to Opportunities using Outreach, follow these st
 1. On the bottom right, enable 'Automatically associate activity with Opportunity'
 1. Click the 'Save' button on the top right.
 
-### Salesforce Lightning for Gmail
+#### Salesforce Lightning for Gmail
 
 If you want to associate emails to Opportunities or other records using the Salesforce Lightning for Gmail plug in, follow these steps:
 
@@ -1209,22 +1209,22 @@ If you want to associate emails to Opportunities or other records using the Sale
 
 If you have any issues with the setup, please contact the Director of Sales Operations via Slack, email, or SFDC Chatter.
 
-## Sales Order Processing
+### Sales Order Processing
 
 See the [order processing](/handbook/business-ops/order-processing/) page for information and training related to using Salesforce to create accounts, contacts, opportunities, etc.; opportunity reassignments; returning customer creation; and more.
 
-## Understanding Opportunities
+### Understanding Opportunities
 
 Sales Leadership primarily [uses Clari to understand opportunities](#advantages-to-updating-opps-in-clari). Other GitLab Team Members with SFDC access should use the following resources to understand a Sales opportunity.
 - The [opportunity](/handbook/sales/field-operations/gtm-resources/#opportunities) (if available [Command Plans](#opportunity-management-requirements) or existing customer [Success Plans](/handbook/customer-success/tam/success-plans/) offer great overviews)
 - The [Account Plan](https://drive.google.com/drive/folders/0B-ytP5bMib9Ta25aSi13Q25GY1U)
 - Directly reaching out to the [Account owner](#initial-account-owner---based-on-segment) or [TAM](/handbook/customer-success/#technical-account-managers) (in the internal slack channel)
 
-## Elevator pitch
+### Elevator pitch
 
 Please see [our value proposition](/handbook/marketing/product-marketing/messaging/#gitlab-value-proposition).
 
-# Sales Note Taking
+## Sales Note Taking
 
 GitLab is an organisation that is built on contribution and collaboration.
 These values are not only critical for building a great product, they are critical for building a world class commercial team.
@@ -1233,15 +1233,15 @@ With GitLab being a remote company, it weighs even more importance on creating a
 
 Read: [How we take notes at GitLab](https://docs.google.com/document/d/1l5mfHMck914I1aJMOCX4lU2J2sImrloUpSm3Nb5Pa9U/edit)
 
-# SMB Commercial Pitch Deck (short)
+## SMB Commercial Pitch Deck (short)
 
 SMB Customer Advocates may use [this deck](https://docs.google.com/presentation/d/1ypo8PNB5TFK1PboMUyU_D5QjRkRR92uzYpS3pYyQgbw/edit?usp=sharing) as a guide for sales meetings.
 Speaking tips and best practices are included in the Comments section of each slide.
 
-# GitLab President's Club
+## GitLab President's Club
 Please see [Club Page](/handbook/sales/club/) to find out more about our President's Club Program.
 
-# Stage Technology tracking
+## Stage Technology tracking
 
 The goal of this process is to capture information about the technology an account in SalesForce uses in each stage of their DevOps Tools landscape [(based on competitors as of 2020-04-10)](https://about.gitlab.com/devops-tools/). This will allow us to market & sell to specific stages in their CI/CD process more accurately.
 
@@ -1253,7 +1253,7 @@ Please enter the following data in the "Stage Technology" section of the Account
 
 This is to support [the FY21Q1 OKR for identifying third-party tools](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/issues/684). Please add feedback, requests, and other commentary about this to the linked OKR issue.
 
-# Corona Virus Impact to Business Tracking
+## Corona Virus Impact to Business Tracking
 
 To standardize our messaging around Coronavirus and the impact it is having on our prospects and customers, please reference the below processes:
 *  Use this for [guidance on a standardized conversation](https://docs.google.com/document/d/1NLHsJ72lTG7o93UnmSHIWF-ifW0202NPiBRJPWacTJc/edit?usp=sharing)
