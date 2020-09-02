@@ -330,6 +330,11 @@ If the person has a company credit card assigned to them please notify Finance b
 For example, "How would you compare yourself relative to your peers?"
 People are surprisingly honest here.
 
+### Retrospective for Managers
+For involuntary offboardings it is optional to do a retrospective on the hiring, onboarding and coaching/communication of the departing team member. As a manager, you can use [this template](https://docs.google.com/document/d/1AWth5o_sagDTwQ92FJr7WDHPNezEg6-BgRY6Tafejgo/edit?usp=sharing) for a retrospective. Please share the filled out template with your manager as well as the [People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) for your group.
+
+Within the Engineering division this is a **required process** because it causes hiring managers to reflect on what led to the ultimate decision of parting ways with the team member, and how that might be prevented during future hiring processes.
+
 ## Declination (Prior to Day 1 and up to Day 5)
 
 Should a new hire be onboarded by the People Experience team, but: 
