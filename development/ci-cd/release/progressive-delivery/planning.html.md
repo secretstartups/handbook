@@ -62,7 +62,7 @@ In the `workflow::design` phase the Product Designer drives the ideation about p
 
 Ideally, the product designer is working ahead of the current milestone and will require feedback on issues ahead of the build track or even for `workflow::planning breakdown` phase. This [issue board](https://gitlab.com/groups/gitlab-org/-/boards/1884154) is used to make sure engineering has visibility on the items that require their input ahead of time so they can be accounted for in terms of availability and is mentioned in the Needs/Weight issues.
 
-Developer handoff is done through develivering design concepts with artifacts such as text, mockups, or prototypes. A concept should ideally be considered hollistically by all stakeholders where every documented detail is part of the scope. The product designer will work with engineering to make sure a design is understood and feasible.
+Developer handoff is done through develivering design concept. A concept is composed of one or more artifacts (e.g. text, mockups, or prototypes) that are considered holistically. All the artifacts should be taken into consideration by all stakeholders as part of the scope. The product designer will work with engineering to make sure a design is understood and feasible.
 
 ##### Solution validation
 
