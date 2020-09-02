@@ -45,7 +45,11 @@ Learn the basic principles of what it means to be a manager using a whole person
 
 Set aside time each day to participate in the challenge (20 minutes) and live learning sessions (1 hour). Complete the weekly self-evaluations and comment in the Slack channel during discussions. As a participant in the pilot program, your feedback is critical for our success so please make time to complete the weekly evaluations. 
 
-[embed pilot welcome video here] 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/gSMrv9CiqOk" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 ## Pilot Program 
 
@@ -53,6 +57,12 @@ Set aside time each day to participate in the challenge (20 minutes) and live le
 - 4 Live Learning Sessions (1 hour)
 - 4 Weekly Self Evaluations and Reflections (10 minutes)
 - Certification Upon Completion
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/BIAbuYPMd24" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 ### Week 1
 
@@ -66,7 +76,6 @@ During week one we will discuss **Getting to Know your Team & Managing Underperf
 | Day 4    | Attend Live Learning | 50 minutes | Live Learning | * Participate in the live learning and be prepared with your Social Style! | * Results (Measure results not hours) <br> * Efficiency (Be respectful of other's time <br> * Manager of One <br> * Handbook First <br> * Iteration  |
 | Day 5    | Self Reflection and Weekly Evaluation | 20 minutes | Virtual Team Meeting | * Complete the weekly self-reflection and Week 1 Evaluation | * Collaboration (Getting to know individuals on a personal and professional level) <br> * Diversity, Inclusion, & Belonging (Building a safe community for your team members) |
 
-[embed week 1 slide deck here] 
 
 ### Week 2
 
@@ -80,7 +89,6 @@ During week two we will discuss **Trust and Coaching**. Information covered in w
 | Day 9   | Attend Live Learning | 50 minutes | Live Learning | * Attend the coaching live learning session and be prepared to participate! | *Results (measure results not hours) <br> *Efficiency (Be respectful of other's time) <br> *Manager of One <br> *Iteration |
 | Day 10  | Self Reflection and Weekly Evaluation | 20 minutes | Self-paced Daily Challenge | * Complete the Self-reflection and weekly evaluation | * Diversity, Inclusion, & Belonging (Building a safe community for your team members) |
 
-[embed week 2 slide deck here] 
 
 ### Week 3
 
@@ -88,13 +96,12 @@ During week three we will discuss **Building and Inclusive/Belonging Environment
 
 | Day     | Daily Challenge | Length of Time   |  Format | Activity | Competency Alignment |
 |---------|-----------------|------------------|---------|----------|----------------------|
-| Day 11   | TBA | 20 minutes | Self-paced Daily Challenge | TBA | TBA |
-| Day 12   | TBA | 20 minutes | Self-paced Daily Challenge | TBA | TBA |
-| Day 13   | TBA | 20 minutes | Self-paced Daily Challenge | TBA | TBA |
-| Day 14   | Attend Live Learning | 50 minutes | Live Learning | TBA | TBA |
-| Day 15   | Self Reflection and Weekly Evaluation | 20 minutes | Self-paced Daily Challenge | TBA | TBA |
+| Day 11   | Psychological Safety | 20 minutes | Self-paced Daily Challenge | * Read the Psychological Safety Handbook Page <br> * Answer the discussion question | * Diversty, Inclusion, & Belonging <br> * Emotional Intelligence |
+| Day 12   | Cultures | 20 minutes | Self-paced Daily Challenge | *  Use the Hofstede Country Comparison Tool <br> * Share in the issue a screenshot of the chart with all countries represented | * Diversty, Inclusion, & Belonging |
+| Day 13   | Building an Inclusive/Belonging Culture | 20 minutes | Self-paced Daily Challenge | *  Completed the Backpack Activity <br> * Share in the issue what it would be like for other members of your team to complete the backpack activity | * Diversty, Inclusion, & Belonging |
+| Day 14   | Attend Live Learning | 50 minutes | Live Learning | * Attend the coaching live learning session and be prepared to participate! | * Diversty, Inclusion, & Belonging |
+| Day 15   | Self Reflection and Weekly Evaluation | 20 minutes | Self-paced Daily Challenge | * Complete the Self-reflection and weekly evaluation | * Diversty, Inclusion, & Belonging |
 
-[embed week 3 slide deck here] 
 
 ### Week 4
 
@@ -107,8 +114,6 @@ During week four we will discuss **Developing High Performing Teams**. Informati
 | Day 18   | Applying the Model to Managing at GitLab | 20 minutes | Self-paced Daily Challenge | * Apply the Model to your team at GitLab | * Building High Performing Teams <br> * Collaboration <br> * Managers of One |
 | Day 19   | Attend Live Learning | 50 minutes | Live Learning | * Attend the Live Learning session | * Building High Performing Teams |
 | Day 20   | Self Reflection and Weekly Evaluation | 20 minutes | Self-paced Daily Challenge | * Complete the Self-Reflection | * Efficiency <br> * Results |
-
-[embed week 4 slide deck here] 
 
 
 ## FAQs

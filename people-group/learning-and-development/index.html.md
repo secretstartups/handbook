@@ -21,7 +21,7 @@ Email Us: `learning@gitlab.com`
 
 
 ## Mission
-Our mission is to provide resources to enable our team members to enhance success in their current roles as well as develop new skills to further their professional and personal development. We provide adaptive and blended learning and growth opportunities, including skills building, career development, and technical training that aligns to our strategic priorities as an organizaiton.
+Our mission is to provide resources to enable our team members to enhance success in their current roles as well as develop new skills to further their professional and personal development. We provide adaptive and blended learning and growth opportunities, including skills building, career development, and technical training that aligns with our strategic priorities as an organization. At GitLab, we are cultivating a culture of curiosity and continuous learning. 
 
 ## GitLab Learning Strategy & Roadmap
 
@@ -32,8 +32,11 @@ Our mission is to provide resources to enable our team members to enhance succes
 ## GitLab Learning & Development Principles
 
 1. **Meaningful and relevant content.** We deliver learning solutions that drive the development and growth of team members throughout their life cycle at GitLab.
+
 1. **Values aligned.** Our learning solutions reinforce GitLab’s [values](/handbook/values/), and foster continuous learning and curiosity.
+
 1. **Diverse approaches to learning.** We apply a blended learning model for learning solutions, and adapt to various learning needs.
+
 1. **Community.** We make our L&D offerings available to the public, aligned to our mission that everyone can contribute.
 
 ## Learning and Development Responsibilities
@@ -49,9 +52,9 @@ Our mission is to provide resources to enable our team members to enhance succes
 
 We are a small team but we've got a big role to play at GitLab! 
 
-* [Learning and Development Partner ](https://about.gitlab.com/job-families/people-ops/learning-development-specialist/): [Josh Zimmerman](https://about.gitlab.com/company/team/#learning-dev-partner)
-* [Learning and Development Generalist](https://about.gitlab.com/job-families/people-ops/learning-development-specialist/#learning--development-generalist): [Jacie Bandur](https://about.gitlab.com/company/team/#jbandur)
-
+* [Learning and Development Partner ](/job-families/people-ops/learning-development-specialist/): [Josh Zimmerman](/company/team/#learning-dev-partner)
+* [Learning and Development Generalist](/job-families/people-ops/learning-development-specialist/#learning--development-generalist): [Jacie Bandur](/company/team/#jbandur)
+* [Learning and Development Associate](/job-families/people-ops/learning-development-specialist/#learning--development-associate): Open Role
 
 ## Learning Sessions
 
@@ -176,6 +179,8 @@ There is also a way to practice foreign languages and ask for advice in several 
 
 GitLab has a growing [resource](/handbook/people-group/learning-and-development/manager-development/) to enable all team members transitioning to a manager role. It contains a link to a checklist, readings, and a form to help learning and development customize your development as a manager.
 
+We are piloting the [Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/) program during the month of September to over 30 people leaders at GitLab. The Manager Challenge is to first step to building out a comprehensive manager enablement curriculum. 
+
 ## New Learning Content at GitLab
 
 We are always working to create more learning content for our team members. If you have a learning request that you would like the Learning & Development team to develop in partnership with your team, please fill out a `learning-and-development-request` issue template in our [issue tracker](https://gitlab.com/gitlab-com/people-group/learning-and-development/-/issues). Our team will review and set the priority for your request based on the scale and impact across the organization. Learning items that will be applied and used across the company will take priority. 
@@ -220,23 +225,25 @@ Adults learn differently in the workplace than they would in traditional learnin
 
 ## Learning Management Systems
 
-We are currently evaluating different learning management systems (LMS) to provide growth opportunities in a more structured, on-demand format. To help us continue to be [Handbook First](/handbook/handbook-usage/#why-handbook-first), course content should be structured in the following way:
+We are currently in the process of implementing a Learning Management System (LMS). We are also in the process of evaluating several content libraries to accompany the LMS to provide curated and off-the-shelf courses for our team members. The content will be supplemental to GitLab customized content. More details to come in the next few months! 
+
+To help us continue to be [Handbook First](/handbook/handbook-usage/#why-handbook-first), course content in the LMS should be structured in the following ways: 
 
 - Text in handbook
 - Video on [YouTube](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg)
 - Test and certification in an open source platform or something without a price per user/student so we can invite all our million of users without incremental costs.
 - Don't put text or video in the platform itself, only link to the handbook and video, so we  have a [single source of truth](/handbook/handbook-usage/#style-guide-and-information-architecture) and don't end up with duplicate content that is hard to keep up to date.
 
-## Compliance Courses
+## Compliance Courses 
 
-GitLab has a number of compliance courses that are required. Explore the drop downs below to learn more. 
+GitLab has a number of compliance courses and resources. Explore the drop downs below to learn more. 
 
 <details>
   <summary markdown='span'>
     Common Ground: Harassment Prevention Training
   </summary>
 
-All new team members will have a task in their onboarding issue to complete this training using <a href="https://learning.willinteractive.com/">Will Interactive's Platform</a> within the first 30 days of hire. Once you get to that step in your onboarding issue, please do the following:
+All team members are required to take a harassment prevention training. All new team members will have a task in their onboarding issue to complete this training using <a href="https://learning.willinteractive.com/">Will Interactive's Platform</a> within the first 30 days of hire. Once you get to that step in your onboarding issue, please do the following:
 
 <ol>
 <li>Log into BambooHR</li>
@@ -257,7 +264,21 @@ Our <a href="/handbook/anti-harassment/?private=1">Anti-Harassment Policy</a> ou
 
 </details>
 
-If you have any questions or need further help please ping people ops in the `#peopleops` channels in slack.
+<details>
+  <summary markdown='span'>
+    Compliance Next
+  </summary>
+
+
+The Compliance Next community offers free membership and comes with tons of amazing resources and tools for compliance professionals as well as people just wanting to learn more about the compliance space. 
+
+You can create a free account on the <a href="www.compliancenext.com">Compliance Next</a> website using your own credentials. 
+
+One of the most unique and interesting aspects of Compliance Next is the ability to connect directly with experts and peers. The platform offers different types of educational resources that you can watch, read and use—all of which provide the ability to comment and ask questions to compliance professionals and other members of the community.
+
+</details>
+
+If you have any questions or need further help please ping people ops in the `#peopleops` channel in slack.
 
 ## Performance Indicators
 

@@ -133,7 +133,7 @@ To open a gitlab issue:
 1. If relevant: add a due date
 1. Click the green "Submit issue" at the bottom
 
-#### Video: How to open a GitLab Issue (~8 minutes):
+#### Video: How to open a GitLab Issue (~8 minutes)
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/iGNVJ3D0XnI" frameborder="0" allowfullscreen="true"> </iframe>
@@ -152,7 +152,7 @@ To move a GitLab issue:
 1. Click the green "Move" button
 1. It will move the issue and link to where the issue was before in the old project
 
-#### Video: How to move a GitLab Issue (~2 minutes):
+#### Video: How to move a GitLab Issue (~2 minutes)
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/nQ4llM12GP8" frameborder="0" allowfullscreen="true"> </iframe>
@@ -181,7 +181,7 @@ Knowing how to search for a GitLab issue can be very helpful, especially if you 
 
 This [resource](https://docs.gitlab.com/ee/user/search/) has helpful tips on searching for an Issue.
 
-#### Video: How to search for a GitLab Issue (~4 minutes):
+#### Video: How to search for a GitLab Issue (~4 minutes)
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/3Zpcg5MFaaw" frameborder="0" allowfullscreen="true"> </iframe>
@@ -193,7 +193,7 @@ Tags or labels are used to help sort and search for GitLab Issues.
 
 Each GitLab Project has an Issue Board. These can be set up similar to how a kanban board would look. You can add different lists to the Issue Board based on "labels" in the project.
 
-#### Video: GitLab Issue Labels and Issue Boards (~4 minutes):
+#### Video: GitLab Issue Labels and Issue Boards (~4 minutes)
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/vjccjHI7aGI" frameborder="0" allowfullscreen="true"> </iframe>
@@ -213,7 +213,7 @@ To move on to the next Lesson, take and pass the [GitLab 101: Issues Quiz](https
 
 As you learned in the technical terminology portion, a GitLab Merge Request (MR) is a request to merge one branch into another. We want to reiterate that this is a "request" meaning you aren't going to break GitLab with just submitting your MR.
 
-### How to create a GitLab Merge Request (i.e. How to make an update to the handbook )
+### How to create a GitLab Merge Request (i.e. How to make an update to the handbook)
 
 To create a merge request:
 
@@ -231,7 +231,7 @@ To create a merge request:
 1. Assign the merge request to your manager for review
 1. Click "submit merge request"
 
-#### Video: How to create a GitLab Merge Request (~10 minutes):
+#### Video: How to create a GitLab Merge Request (~10 minutes)
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/etgjyJ0SSUM" frameborder="0" allowfullscreen="true"> </iframe>

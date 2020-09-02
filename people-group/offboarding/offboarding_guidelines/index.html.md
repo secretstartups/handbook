@@ -66,7 +66,7 @@ If a bot exists, please DM the manager to confirm if the bot should be removed.
 
 ## Team Page
 
-The People Experience Associate will navigate to the [team.yml file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/team.yml). Using Web IDE or your editor of choice, search the team member name and delete their team page image and replace with `../gitlab-logo-extra-whitespace.png`. Don't forget to delete the image by navigating to Source/images/team while still here and search for their image. Ideally saved as firstnamelastname.png. The images are in alphabetical order.
+The People Experience Associate will navigate to the [team.yml file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/team.yml). Using Web IDE or your editor of choice, search the team member name and delete their team page image and replace with `../gitlab-logo-extra-whitespace.png`. Don't forget to delete the image by navigating to `sites/marketing/source/images/team` while still here and search for their image. Ideally saved as firstnamelastname.png. The images are in alphabetical order.
 
 To remove pet entry and any mentions from the handbook and documention, you will need to download the [www-gitlab-com project](https://gitlab.com/gitlab-com/www-gitlab-com) to your computer and use a prefered text editor.
 
