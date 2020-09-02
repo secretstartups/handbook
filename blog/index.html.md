@@ -812,6 +812,16 @@ merch_four:
   sidebar_image_source: "/images/merchandising-content/version-control-collaboration-blog-merch-horizontal.png"
   sidebar_body_title: "Version control best practices"
   sidebar_body_content: "Enhance team collaboration to accelerate delivery"
+
+- name: merch_eight
+  destination_url: "https://page.gitlab.com/resources-ebook-beginner-guide-gitops.html"
+  cta_text: "Download now"
+  banner_image_source: "/images/merchandising-content/gitops-vertical-220x338.png"
+  banner_body_title: "Free eBook: A beginner's guide to GitOps"
+  banner_body_content: "GitOps takes DevOps processes and applies them to infrastructure automation. See a sample GitOps workflow and learn how to get started with GitOps."
+  sidebar_image_source: "/images/merchandising-content/gitops-horizontal-300x150.png"
+  sidebar_body_title: "A beginner's guide to GitOps"
+  sidebar_body_content: "Learn more about infrastructure automation."
 ```
 
 #### Requesting new merchandise 
