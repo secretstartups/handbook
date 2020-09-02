@@ -39,7 +39,7 @@ classDiagram
     Activation: Measurement (Total count of projects with .gitlab-ci.yml files)
   Retention --|> Revenue
     Retention : Continued use: Are users triggering CI pipelines?
-    Retention: Measurement (Total count of pipelines for project with .gitlab-ci.yml file)
+    Retention: Measurement (Total count of project with a .gitlab-ci.yml file and CI pipeline triggered)
   Revenue --|> Referral
     Revenue : Monetary value: Are users paying for the CI features?
     Revenue: Measurement (Total count of projects using paid CI features)
