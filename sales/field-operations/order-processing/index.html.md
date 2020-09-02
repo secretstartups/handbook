@@ -153,10 +153,10 @@ Booking:
 
 ## **Working with Legal**
 
-There are several scenarios where you might need Legal assistance on an opportunity. Thouroughly review the information below. You can also learn more about the team and their scope by [visiting their handbook page](/handbook/legal/)
+There are several scenarios where you might need Legal assistance on an opportunity. Thouroughly review the information below. You can also learn more about the team and their scope by [visiting their handbook page](/handbook/legal/) or by checking out these [best practices on how to Collaborate with Legal](/handbook/legal/customer-negotiations/). 
 
-### Contact Legal
-For general questions related to the customer, please open a case with Legal. 
+### Contact Legal 
+For general questions related to the customer, please open a case with legal. 
 
 On Customer Account, OR, Opportunity:
 1. Click "Legal Request" (located at the top of Account and Opportunity SFDC layout)
