@@ -66,7 +66,7 @@ The GitLab Partner Program makes it  easier for partners  to maximize the value 
     *   GitLab Badging, Accreditation & Certification.
 *   Global expansion of our channel team to support the growth of your GitLab success.
 *   Improved ease of doing business, via a new partner portal with online resources and tools.
-*   Marketing resources and market development funds for lead creation.
+*   Marketing resources and marketing development funds for lead creation.
 *   Support for our partners throughout the entire customer journey.
 
 
@@ -150,7 +150,7 @@ In this section, we cover:
 *   Training and Certification Requirements and Benefits
 *   Discounts and Referral Fees – Definitions and Qualifications
 *   Deal Registration Program Overview
-*   Market Development Funds (MDF) Program
+*   Marketing Development Funds (MDF) Program
 *   Developing a GitLab Services Practice
 
 
@@ -310,7 +310,7 @@ discount rate.
 To learn how to enter a deal registration, vist the [Deal Registration Instructions](/handbook/resellers/#deal-registration-instructions) section below.
 
 
-### The Market Development Funds (MDF) Program
+### The Marketing Development Funds (MDF) Program
 
 GitLab Open and Select partners have access to the proposal-based GitLab Marketing Development Funds (MDF) Program, which provides funding support for eligible marketing and partner enablement activities that help to:
 
