@@ -92,7 +92,7 @@ absence.
 1. If you are assigned to any PagerDuty shifts (such as on-call) during the time
    you are taking off, arrange for coverage:
    1. Find a volunteer to cover for you; get help from your manager if necessary
-   1. Create the appropriate override in PagerDuty
+   1. [Create the appropriate override in PagerDuty](https://support.pagerduty.com/docs/editing-schedules#create-and-delete-overrides)
 1. Reschedule or cancel any impacted meetings in which you are a key participant
 
 ##### Then, for absences of one or two days
