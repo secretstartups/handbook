@@ -33,7 +33,7 @@ Code Units:
 * highestEmpsAndTSPAddress
 * ownerTransfer
 
-**Inputs:** DataFox, DiscoverOrg, Manually Entered Address & Employee Data, Account Parenting Hierarchy
+**Inputs:** DataFox, Zoominfo, Manually Entered Address & Employee Data, Account Parenting Hierarchy
 
 **Outputs:** Here is the outline between of two sets of fields we are setting on the Account object. Staging(TSP / ATAM) are set nightly via an APEX job. Actuals are set at given intervals found in the business documentation.
 
@@ -276,7 +276,7 @@ Code Units:
 | Web Portal | Web_Portal_Purchase_Company_Size__c |
 | Marketing | Employee_Buckets__c |
 | DemandBase | DB_Employee_Count__c |
-| DiscoverOrg | DiscoverOrg_Number_Of_Employees__c |
+| Zoominfo| 	ZI_Employees__c |
 | Salesforce User | NumberOfEmployees |
 
 **Logic Locations:** [LeadClass.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/LeadClass.cls)
