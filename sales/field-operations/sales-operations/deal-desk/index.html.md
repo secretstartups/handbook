@@ -472,7 +472,27 @@ C.  Note: Deal Desk will create the quotes and Order Form.
 
 #### Opportunities Requiring Multiple Invoices
 
-If an opportunity requires multiple invoices due to a specific professional services delivery schedule or approved annual payment terms, a separate opportunity is required for each invoice period. Each individual opportunity will require a quote object that is equal to the amount being invoiced. All products and dates should match the original opp. Build Invoice Only quote objects as a "New Subscription" quote. 
+If an opportunity requires multiple invoices due to a specific professional services delivery schedule or approved annual payment terms, a separate opportunity is required for each invoice period. 
+
+**Opportunity Structure**
+
+* Invoice Only Opp type should be New Business
+* Each individual opportunity will require a quote object that is equal to the amount being invoiced
+* All products, dates, and contacts should match the original opp / quote
+* Build Invoice Only quote objects as a "New Subscription" quotes
+
+**Invoice Amounts** 
+
+If all payments associated with the opportunity are equal (ex. 3 payments of $10,000) the quote on the orignal opporuntiy must reflect the entire opportunity term. 
+
+**Ex.** 
+
+3 Year Subscription worth $30,000, broken out into 3 equal annual payments of $10,000. 
+* Primary Opp Quote - 3 Year New Subscription Quote (using the 1 Year Product SKU). Term Length should be 36. 
+* Invoice Only Opp - Year 2 - Create a quote for the amount to be invoiced (Use the same sku as the orignal opp, update term to 12)
+* Invoice Only Opp - Year 3 - Create a quote for the amount to be invoiced (Use the same sku as the orignal opp, update term to 12)
+
+If the payment amounts are not equal, ex. Year 1 - $15,000 Year 2 - $10,000, Year 3 $5,000 - then the original opporuntiy quote should only reflect the first year (invoice period) of the subscription. 
 
 **Ex.** Professional Services Deal -Opportunity amount $300,000. 4 Deliverables are outlined in the Custom SOW to the customer, each deliverable includes a different date for delivery. This requires 4 opportunities because the customer will be invoiced after completion of each deliverable.
 
