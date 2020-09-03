@@ -8,7 +8,13 @@ title: "Communicating with the Field"
 
 - TOC
 {:toc .hidden-md .hidden-lg}
-This page is meant to serve as a guide to communicating with and within the Field using both Slack and email. Read below to find an outline of all Google Groups and Slack channels related to Sales and Customer Success.
+
+This page is meant to serve as a guide to communicating with and within the Field using both Slack and email. Read below to find an outline of all Google Groups and Slack channels related to Sales and Customer Success. 
+
+In order to drive clarity on this page, it is important to note the difference in definitions between:
+1. Sales: Refers to team members in the Enterprise and Commercial Sales teams.
+1. CS: Refers to team members in the groups that make up the Customer Success organization.
+1. Field: Refers to ALL members of the GTM team – Sales, CS, Marketing (SDRs), Professional Services.
 
 ## Google Groups
 
@@ -17,7 +23,12 @@ The parent google group of the sales team is sales-all. Several child groups fal
 | Group Name | Group Level/Access | Description |
 | ------ | ------ | ------ |
 | sales-all | organization | Includes all members of the sales and CS teams as well as stakeholders across the business |
-| field-managers | leadership | ASMs and above _or_ equivalents on the CS/Channel/Alliance side who are people managers | 
+| sales-leaders | leadership | Regional directors and above (ASM and above for COM) | 
+| cs-leaders | leadership | VP Customer Success direct reports | 
+| field-managers | leadership | ASMs and above _or_ equivalents on the CS/Channel/Alliance/SDR side who are people managers | 
+| sales-ent-managers | leadership | ASMs and above on the Enterprise team | 
+| sales-com-managers | leadership | ASMs and above on the Commercial team | 
+| sales-cs-managers | leadership | Managers and above on the Customer Success team | 
 | sales-commercial | segment | Members of the commercial sales team | 
 | sales-ent | segment | Members of the enterprise sales team | 
 | sales-emea | team | Members of the ENT EMEA sales team | 
@@ -33,15 +44,14 @@ The parent google group of the sales team is sales-all. Several child groups fal
 | field-enablement | team | Members of the field enablement team | 
 | sales-analytics | team | Members of the sales strategy team | 
 | sales-recruiting | segment | People partners and sales recruiters who support the field organization |
-| sales-leaders | leadership | Regional directors and above | 
 
 See the below chart for a visualization of the Google Group hierarchy
 
-![Sales Google Groups](/handbook/sales/images/newsalesgg_v4.jpg)
+![Sales Google Groups](/handbook/sales/images/newsalesgg_v5.jpg)
 
 To confirm if you are in a particular Google Group, see the [G-Suite Group Membership Reports.](/handbook/business-ops/team-member-enablement/#automated-group-membership-reports-for-managers) To gain access to new Google Groups, please [fill out an access request (AR) form.](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) 
 
-## Slack Groups
+## Slack Channels and Groups
 
 The primary Slack channels for the field are: 
 
@@ -50,7 +60,24 @@ The primary Slack channels for the field are:
 - #sales-support: The general channel to ask for sales support from Field Operations.
 - #customer-success: The general channel to interact with & within Customer Success.
 
-All field team members should star and follow these three channels for important updates about the business. There are multiple team channels in the field organization, outlined below. Please follow the channels relevant to your role. To gain access to private channels, please [fill out an access request (AR) form.](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/)
+All field team members should star 🌟 and follow these four channels for important updates about the business. There are multiple team channels in the field organization, outlined below. Please follow the channels relevant to your role. To gain access to private channels, please [fill out an access request (AR) form.](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/)
+
+### Slack Groups 
+Slack Groups are groups of members in a workspace who often need to be notified at once. The Field organization has multiple Slack Groups that effectively allow a group of people to be cc'd on a Slack communication. Please note that Slack groups send a push notification to all members and should be used sparingly, in accordance with the [guidelines around @here mentions in the Handbook](/handbook/communication/#be-respectful-of-others-time). 
+
+Only use Slack Groups if:
+1. The content of the message is hyper-relevant to ALL members of the group 
+1. The content of the message is time-sensitive and/or needs immediate action 
+1. The content of the message has significant impact to the business and/or team
+
+| Group Name | Group Members/Description |
+| ------ | ------ | 
+| sales-leaders | Regional directors and above (ASM and above for COM) |
+| cs-leaders | VP Customer Success direct reports |
+| field-managers | ASMs and above _or_ equivalents on the CS/Channel/Alliance/SDR side who are people managers |
+| sales-ent-managers | ASMs and above on the Enterprise team |
+| sales-com-managers | ASMs and above on the Commercial team |
+| sales-cs-managers | Managers and above on the Customer Success team |
 
 ### Field Slack Channels
 The below channels are specific to the field organization. 
@@ -64,9 +91,12 @@ The below channels are specific to the field organization.
 | #cro | public | CRO (Chief Revenue Officer) announcements and communication |
 | #cro-approvals | public | Triaging approvals required by the CRO across GitLab |
 | #sales-vp | public | Used for scheduling requests, etc. related to all field VPs |
-| #sales-leadership | private | Used for communication with and between field directors and above |
-| #sales-managers | public | Used to communicate (non-comp related) topics with field sales managers |
-| #sales-ent-managers | private | Used for communication with and between ASM-and-above-level managers in Enterprise |
+| #sales-leaders | private | Used for communication with and between Sales directors and above (ASM and above for COM) |
+| #cs-leaders | private | Used for communication with and between VP Customer Success direct reports |
+| #field-managers | private | Confidential (people and/or comp-related) communication with Field (Sales, CS, SDR) managers - ASMs or equivalent and above |
+| #sales-ent-managers | private | Used for communication with and between WW ASM-and-above-level managers in Enterprise |
+| #sales-com-managers | private | Used for communication with and between WW ASM-and-above-level managers in Commercial |
+| #sales-cs-managers | private | Used for communication with and between WW managers in Customer Success |
 
 **Customer Success**
 
