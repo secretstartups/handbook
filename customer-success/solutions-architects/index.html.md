@@ -16,6 +16,8 @@ SA's identify and propose comprehensive solutions to complex business problems a
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## [SA Processes](./processes/index.html.md)
+
 ## Role & Responsibilities
 
 See the [Solutions Architect role description](/job-families/sales/solutions-architect/)
