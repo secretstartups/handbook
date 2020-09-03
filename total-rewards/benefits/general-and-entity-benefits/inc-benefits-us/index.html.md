@@ -14,7 +14,7 @@ title: "GitLab Inc (US) Benefits"
 ## Specific to US based team members
 {: #us-specific-benefits}
 
-US based benefits are arranged through [Lumity](https://lumity.com/). The benefits decision discussions are held by Total Rewards, the CFO, and the CEO to elect the next year's benefits by the carrier's deadlines. Total Rewards will notify the team of open enrollment as soon as details become available.  The 2020 Open Enrollment will begin October 19, 2020 and will end on November 2, 2020. Your plan will renew January 1, 2021. 
+US based benefits are arranged through [Lumity](https://lumity.com/). The benefits decision discussions are held by Total Rewards, the CFO, and the CEO to elect the next year's benefits by the carrier's deadlines. Total Rewards will notify the team of open enrollment as soon as details become available.  The 2020 Open Enrollment will begin October 19, 2020 and will end on November 2, 2020. Your plan will renew January 1, 2021.
 
 Please review the full [summary plan description](https://drive.google.com/file/d/1XGOniJ-lnUyPdSvE_ce1W5KZlTzjRyTK/view?usp=sharing) of all related health benefits.   
 
@@ -26,7 +26,7 @@ If you have existing coverage when joining GitLab (e.g. coverage for an addition
 
 GitLab covers **100% of team member contributions and 66% for spouse, dependents, and/or domestic partner** of premiums for medical, dental, and vision coverage. Plan rates are locked through December 31, 2020.
 
-More information on the processed deductions in payroll from Lumity can be found under [Lumity Payroll Processes for GitLab Inc.](/handbook/finance/accounting/#lumity-payroll-processes-for-gitlab-inc) on the [Accounting and Reporting page](/handbook/finance/accounting/).
+More information on the processed deductions in payroll from Lumity can be found on the [Accounting and Reporting page](/handbook/finance/accounting/).
 
 ## Group Medical Coverage
 
@@ -46,7 +46,7 @@ Due to IRS guidelines, you cannot make changes to your health insurance benefits
 
 A QLE is a change in your situation — like getting married, having a baby, etc that can make you eligible for a special enrollment period. You have ***30 days from the date of your qualifying event*** to submit your requested change to Lumity. You will be asked to include supporting documents (see [Required Documents](https://employee-resources.lumity.com/help/qualifying-life-event)), and list the date the change occurred.
 
-You can start the process by selecting the "Qualifying Events" tile on the [Lumity Dashboard](https://lumity.com/). Lumity support can be contacted directly with any questions. 
+You can start the process by selecting the "Qualifying Events" tile on the [Lumity Dashboard](https://lumity.com/). Lumity support can be contacted directly with any questions.
 
 ### Eligibility
 
@@ -119,22 +119,22 @@ Domestic Partner Reimbursements: If the team member is not legally married to th
 
 #### UHC Telehealth
 
-Telehealth services for UHC members can be accessed by signing into [MyUHC](https://www.myuhc.com/) and selecting "Connect with a Doctor Online." Estimated out-of-pocket cost is disclosed on the virtual visit platform. Currently costs related to this service are waived through June 18, 2020. 
+Telehealth services for UHC members can be accessed by signing into [MyUHC](https://www.myuhc.com/) and selecting "Connect with a Doctor Online." Estimated out-of-pocket cost is disclosed on the virtual visit platform. Currently costs related to this service are waived through June 18, 2020.
 
 #### UHC Premium Access to Sanvello
 
-Sanvello is an app for managing and treating stress, anxiety, and depression. They are owned by the UnitedHealth Group. Any enrollee into a UHC medical plan can access the premium version of the Sanvello app for free. 
+Sanvello is an app for managing and treating stress, anxiety, and depression. They are owned by the UnitedHealth Group. Any enrollee into a UHC medical plan can access the premium version of the Sanvello app for free.
 
 Instructions for registering:
 1. Download the Sanvello app from the app store.
 1. Select "Get Started" and follow the instructions on the screen.
 1. One you have registered for an account, select “Check Coverage” beneath “Upgrade via Insurance”.
 1. Enter “UnitedHealthcare(UHC)" as your health insurance provider.
-1. Fill out your name, date of birth, and gender. 
+1. Fill out your name, date of birth, and gender.
 1. Your Member ID and Policy/Group Number is located on your UHC ID card. You can find your virtual ID card by logging into [Lumity](https://user.lumity.com/login).
      * The Member ID is equivalent to your ID #.
      * The Policy/Group Number is equivalent to your Group ID #.
-1. Once you have filled out your insurance information, click upgrade. 
+1. Once you have filled out your insurance information, click upgrade.
 
 #### UHC Period to Submit Claims
 
@@ -176,7 +176,7 @@ The following costs are monthly rates which would be deducted from your paycheck
 
 #### Kaiser Telehealth
 
-Virtual visits for Kaiser members can be accessed by logging into Kaiser's [online portal](https://healthy.kaiserpermanente.org/). Please consult the online portal and your plan details for your copay amount. 
+Virtual visits for Kaiser members can be accessed by logging into Kaiser's [online portal](https://healthy.kaiserpermanente.org/). Please consult the online portal and your plan details for your copay amount.
 
 #### Kaiser Period to Submit Claims
 
@@ -295,7 +295,7 @@ GitLab offers company paid [basic life](https://drive.google.com/open?id=1wl62ig
 
 ## Group Long-Term and Short-Term Disability Insurance
 
-GitLab provides a policy through UHC that may replace up to 66.7% of your base salary, for qualifying disabilities. For [short-term disability](https://drive.google.com/open?id=12_xDzUIuBgSJB0AJ6I0oE2VEgMdwymWx) there is a weekly maximum benefit of $2,500; for [long-term disability](https://drive.google.com/open?id=14uIt3CUabd4Yj95BDgNl9Rdfzi6SxrFW) there is a monthly benefit maximum of $12,500. More information can be found in the [UHC Long-Term Disability Welcome brochure](https://drive.google.com/file/d/195tzz2R7cqmmMnor9sWDXjeelhyx4CoE/view?usp=sharing) and [UHC Short-Term Disability Welcome brochure](https://drive.google.com/file/d/19oWAPE-V5n88WRHgXFuyiOL-elX2FiG3/view?usp=sharing) for these benefits. 
+GitLab provides a policy through UHC that may replace up to 66.7% of your base salary, for qualifying disabilities. For [short-term disability](https://drive.google.com/open?id=12_xDzUIuBgSJB0AJ6I0oE2VEgMdwymWx) there is a weekly maximum benefit of $2,500; for [long-term disability](https://drive.google.com/open?id=14uIt3CUabd4Yj95BDgNl9Rdfzi6SxrFW) there is a monthly benefit maximum of $12,500. More information can be found in the [UHC Long-Term Disability Welcome brochure](https://drive.google.com/file/d/195tzz2R7cqmmMnor9sWDXjeelhyx4CoE/view?usp=sharing) and [UHC Short-Term Disability Welcome brochure](https://drive.google.com/file/d/19oWAPE-V5n88WRHgXFuyiOL-elX2FiG3/view?usp=sharing) for these benefits.
 
 **Process for Disability Claim**
 
@@ -397,13 +397,13 @@ Chair: Principal Accounting Officer (PAO)
 
 ### Flexible Spending Account (FSA) Plans
 
-FSAs help you pay for eligible out-of-pocket health care and dependent day care expenses on a pretax basis. You determine your projected expenses for the Plan Year and then elect to set aside a portion of each paycheck into your FSA. 
+FSAs help you pay for eligible out-of-pocket health care and dependent day care expenses on a pretax basis. You determine your projected expenses for the Plan Year and then elect to set aside a portion of each paycheck into your FSA.
 
 #### Special Notice for Dependent Care Flexible Spending Accounts (DCFSA) during COVID-19
 
 Currently, many people are experiencing their child care provider having canceled or limited services due to COVID-19 and are unsure how they are going to use the entire amount elected for their DCFSA. Per IRS regulations, this circumstance would permit you to make changes to your DCFSA as the Qualifying Life Event: change in child care or elder care provider, change in cost, or change in coverage.
 
-In order to submit this Qualifying Life Event, you will need documentation such as an email or letter from your child care provider that highlights the canceled or limited services as of a certain date. You can process this by selecting the "Qualifying Events" tile on the [Lumity Dashboard](https://lumity.com/) and uploading your documentation. Lumity support can be contacted directly with any questions relating to this. 
+In order to submit this Qualifying Life Event, you will need documentation such as an email or letter from your child care provider that highlights the canceled or limited services as of a certain date. You can process this by selecting the "Qualifying Events" tile on the [Lumity Dashboard](https://lumity.com/) and uploading your documentation. Lumity support can be contacted directly with any questions relating to this.
 
 #### FSA Period to Submit Claims
 
@@ -426,7 +426,7 @@ GitLab offers [commuter benefits](https://drive.google.com/file/d/0B4eFM43gu7VPe
 
 For active employees: Up to 180 days after plan year has concluded (also known as the runout period).
 
-For terminated employees: Up to 90 days after the termination date. 
+For terminated employees: Up to 90 days after the termination date.
 
 ## Team Member Discount Platforms
 
@@ -504,7 +504,7 @@ If you are enrolled in medical, dental, and/or vision when you terminate from Gi
 
 If you are currently employed and have any general COBRA questions, feel free to contact the Compensation & Benefits team. If you have terminated already or have specific questions on the administration of COBRA, feel free to contact Discovery Benefits directly: (866) 451-3399.
 
-### Costs per Month 
+### Costs per Month
 
 **Medical**
 
@@ -549,14 +549,14 @@ If you are currently employed and have any general COBRA questions, feel free to
 
 ### Discovery Funding Account Audit
 
-This quarterly audit is conducted to ensure the funding of our account used for FSA, DCFSA, and commuter benefit plans according to Accounts Payable matches the amount of claims incurred in Discovery's system. 
+This quarterly audit is conducted to ensure the funding of our account used for FSA, DCFSA, and commuter benefit plans according to Accounts Payable matches the amount of claims incurred in Discovery's system.
 
 1. Reach out to Accounts Payable to provide an updated payment history report for payments made to Discovery.
-1. In the `Ongoing Discovery Audit` spreadsheet, add new entries in the report provided by Accounts Payable to the bottom of the table in the "Discovery Payments History" tab. 
+1. In the `Ongoing Discovery Audit` spreadsheet, add new entries in the report provided by Accounts Payable to the bottom of the table in the "Discovery Payments History" tab.
 1. Navigate to [Discovery's platform](https://www.discoverybenefits.com/) and log into the employer portal.
-   * Select "Benefits Administration" in the left toolbar. 
-   * Navigate to the "Reports" tab and select the "Employer Funding Report". 
-   * Download all reports for the months that have elapsed since the last audit was conducted. 
+   * Select "Benefits Administration" in the left toolbar.
+   * Navigate to the "Reports" tab and select the "Employer Funding Report".
+   * Download all reports for the months that have elapsed since the last audit was conducted.
 1. Add the new monthly report(s) to the `Ongoing Discovery Audit` spreadsheet as new tabs.
 1. Reconcile all funding sent by Accounts Payable against the Employer Funding Report details.
    * AP funding will be denoted as "MANUAL EMPLOYER TRANSACTION AND ADJUSTMENT" in these reports.
@@ -564,10 +564,10 @@ This quarterly audit is conducted to ensure the funding of our account used for 
    * Add the year of the report(s) in column A.
    * Add the month of the report(s) in column B.
    * Copy the formula down for columns C, D, and E.
-   * For columns D and E, replace the year and month in the formula with the year and month inputted in a column A and B. 
+   * For columns D and E, replace the year and month in the formula with the year and month inputted in a column A and B.
      * For example, if the formula current has `=sumif('March 2020 Funding Detail'!A:A,"Manual Employer Transaction and Adjustment",'March 2020 Funding Detail'!H:H)` and you are working on the row for April 2020, change the formula to say `=sumif('April 2020 Funding Detail'!A:A,"Manual Employer Transaction and Adjustment",'April 2020 Funding Detail'!H:H)`.
-1. In the same "Funding Summary" tab, review the difference calculated in cell L3. This difference should be positive and roughly equivalent to the amount we currently have available in our Funding Account for Discovery, typically in the range of $5,000 to $50,000. 
-1. Any discrepancies or problems should be escalated to the Manager, Total Rewards. 
+1. In the same "Funding Summary" tab, review the difference calculated in cell L3. This difference should be positive and roughly equivalent to the amount we currently have available in our Funding Account for Discovery, typically in the range of $5,000 to $50,000.
+1. Any discrepancies or problems should be escalated to the Manager, Total Rewards.
 
 ### Discovery Payroll Audit
 
