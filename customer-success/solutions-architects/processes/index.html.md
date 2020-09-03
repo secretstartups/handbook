@@ -1,4 +1,15 @@
-# Solution Architect Processes
+---
+layout: handbook-page-toc
+title: "Solutions Architect Processes"
+---
+# Solutions Architect Handbook
+{:.no_toc}
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
 
 ## Cross-functional Sales Team Processes
 
