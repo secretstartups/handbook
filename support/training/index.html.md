@@ -46,7 +46,7 @@ It is recommended that you complete the modules in the order listed, unless an i
 
 ### Support Engineer Area of Focus Pathway
 
-When you have completed the basic modules, decide with your manager about your [Area of Focus](https://about.gitlab.com/handbook/support/support-engineer-responsibilities.html#support-engineer-areas-of-focus).
+When you have completed the basic modules, decide with your manager about your [Area of Focus](/handbook/support/support-engineer-responsibilities.html#support-engineer-areas-of-focus).
 
 1. If you choose Self-Managed, move on to the [Self Managed Support Basics pathway](#self-managed-support-learning-pathway).
 1. If you choose GitLab.com, move on to the [Gitlab.com SAAS Support Basics pathway](#gitlabcom-saas-support-learning-pathway).
@@ -67,7 +67,7 @@ When the Area of Focus module is complete, let your manager know that you are re
 | [GitLab.com Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/GitLab-com-Basics.md) | 2 Weeks | Understand the basics to answer GitLab.com (SaaS) product related tickets |
 | [GitLab.com CMOC](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/GitLab-com-CMOC.md) | 1 Day | Understand the responsibilities of being the [Communications Manager On Call (CMOC)](/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) for an active GitLab.com incident |
 
-When the Area of Focus module is complete, let your manager know that you are ready to [join the appropriate On-Call rotations](/support/support-engineer-responsibilities.html#4-participate-in-on-call-rotations-to-coordinate-and-resolve-emergencies-occasionally).
+When the Area of Focus module is complete, let your manager know that you are ready to [join the appropriate On-Call rotations](/handbook/support/support-engineer-responsibilities.html#4-participate-in-on-call-rotations-to-coordinate-and-resolve-emergencies-occasionally).
 
 ### Support Manager Onboarding Pathway
 
@@ -82,8 +82,9 @@ It is recommended that you complete the modules in the order listed, unless an i
 | [Gitlab Support Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/GitLab-Support-Basics.md) | 1 Day | Understand how GitLab Support operates and the most common workflows |
 | [ZenDesk Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Zendesk-Basics.md) | 1 Day | Utilize ZenDesk to perform ticket management |
 | [Customer Emergencies](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Customer-Emergencies.md) | 1 Week | Understand the responsibilities of being on-call for Customer Emergencies |
+| [SSAT Reviewing Manager](/handbook/support/workflows/how-to-respond-to-feedback.html) | 1/2 day | Understand how to handle Support Satisfaction feedback results |
 
-When the Area of Focus module is complete, let your manager know that you are ready to [join the appropriate On-Call rotations](/support/on-call/#manager-on-call).
+When the Area of Focus module is complete, let your manager know that you are ready to [join the appropriate On-Call rotations](/handbook/support/on-call/#manager-on-call).
 
 ## Support Training Project
 
