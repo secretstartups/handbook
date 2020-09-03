@@ -73,5 +73,3 @@ member means:
 
 The email address used to send the email is `onboarding@domain` and is set with a `reply-to: people-exp@domain` as nobody
 monitors replies to `onboarding@`. The email address is strictly used for automation.
-
-Currently this email runs in test mode, which means it is send to the People Group Engineer instead of the eligible team member.
