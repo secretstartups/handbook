@@ -17,6 +17,7 @@ The parent google group of the sales team is sales-all. Several child groups fal
 | Group Name | Group Level/Access | Description |
 | ------ | ------ | ------ |
 | sales-all | organization | Includes all members of the sales and CS teams as well as stakeholders across the business |
+| field-managers | leadership | ASMs and above _or_ equivalents on the CS/Channel/Alliance side who are people managers | 
 | sales-commercial | segment | Members of the commercial sales team | 
 | sales-ent | segment | Members of the enterprise sales team | 
 | sales-emea | team | Members of the ENT EMEA sales team | 
@@ -33,7 +34,6 @@ The parent google group of the sales team is sales-all. Several child groups fal
 | sales-analytics | team | Members of the sales strategy team | 
 | sales-recruiting | segment | People partners and sales recruiters who support the field organization |
 | sales-leaders | leadership | Regional directors and above | 
-| field-managers | leadership | ASMs and above _or_ equivalents on the CS/Channel/Alliance side who are people managers | 
 
 See the below chart for a visualization of the Google Group hierarchy
 
