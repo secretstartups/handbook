@@ -2,7 +2,7 @@
 layout: handbook-page-toc
 title: "Solutions Architect Processes"
 ---
-# Solutions Architect Handbook
+# Solutions Architect Processes
 {:.no_toc}
 
 ## On this page
