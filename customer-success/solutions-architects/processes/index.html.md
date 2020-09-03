@@ -75,8 +75,7 @@ The TAM owns the account post-sale. SA's remain involved in the following situat
 * Support of GitLab days or other on-site evangelism of GitLab at customer sites
 
 #### Technical Discovery and Demo Preparation
-Prior to any technical discovery and demo preparation, the SA should be provided with the following information:
-1. What is the opportunity?
+Prior to any technical discovery and demo preparation, the SA should be provided with the following information about the current opportunity:
   * Share any existing notes about the opportunity
   * Key players and personas
   * Other relevant information shaping an engagement
