@@ -2,6 +2,12 @@
 layout: handbook-page-toc
 title: "Solutions Architects"
 ---
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 
 # Solutions Architect Handbook
 {:.no_toc}
@@ -10,13 +16,27 @@ Solutions Architects (SA) are the trusted advisors to GitLab prospects and custo
 
 SA's identify and propose comprehensive solutions to complex business problems and workflow scenarios after compiling inputs from customer conversations. Desired inputs include pain points, role-based visibility concerns, opportunities for improved efficiencies, current technologies and tools, corporate initiatives, target outcomes and more. SA's also act as the technical liaison between the sales team and other groups within GitLab, engaging GitLab employees from other teams as needed in order meet the needs of the customer.
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
+## SA Practices
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+SA practices are elaborated on the [SA Practices page](./sa-practices)
 
-## [SA Processes](./processes/)
+## Sales Plays
+
+Check out our [Sales Plays page](./sales-plays)
+
+## Tools and Resources
+
+See [Tools and Resources page](./tools-and-resources)
+
+## Career Development
+
+[Career Development page](./career-development)
+
+## Demonstration
+See [Demonstration page](./demonstrations)
+
+## Processes
+View [SA Processes](./processes)
 
 ## Role & Responsibilities
 
