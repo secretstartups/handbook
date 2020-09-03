@@ -110,7 +110,7 @@ If someone will have to take more than one knowledge assessment to recieve a cer
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="add link here" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/Vg4fG0vaCKY" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line --> 
 
