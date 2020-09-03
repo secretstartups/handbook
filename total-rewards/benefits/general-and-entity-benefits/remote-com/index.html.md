@@ -11,7 +11,7 @@ title: "Remote.com"
 
 ----
 
-The following benefits are provided by [Remote](https://www.remote.com/) and apply to team members who are contracted through Remote. If there are any questions, these should be directed to People Operations at GitLab who will then contact the appropriate individual at Remote.
+The following benefits are provided by [Remote](https://www.remote.com/) and apply to team members who are contracted through Remote. If there are any questions, these should be directed to the Total Reward team at GitLab who will then contact the appropriate individual at Remote.
 
 ## South Africa
 * Medical Insurance allowance (300 USD per month for team members / 500 USD per month for team members plus dependents) Proof of cover must be shown to the total rewards team before the allowance will be paid via payroll. 
