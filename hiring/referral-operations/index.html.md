@@ -121,3 +121,14 @@ In the event that a *Referral* is rejected based on their location factor the fo
 > `CANDIDATE_FIRST_NAME` has received an email from our team explaining this. We’ve also added some clarity about this in the [Referral Submission Issue Template](https://about.gitlab.com/handbook/hiring/referral-process/#submitting-a-referral) now to be sure team members consider this before they submit their referral. 
 >
 > We appreciate your understanding and hope you’ll continue to refer talented people to GitLab!
+
+#### Ensuring Referral Confidentiality
+
+Once a week, a Recruiting Operations & Insights Team Member will check to make sure that all submitted referral Issues are marked as `Confidential`. 
+
+To do that, please take the following steps:
+
+1. Navigate to the [Issues](https://gitlab.com/gl-recruiting/referrals/-/issues) section of the Referrals Project.
+1. Clicked on `Closed` Issues.
+1. Set the following filter: `Confidential = No` and run the search.
+1. If any Issues appear, please edit the `Confidentiality` section in the right column.
