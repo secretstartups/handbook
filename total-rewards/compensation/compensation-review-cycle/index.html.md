@@ -194,21 +194,20 @@ In FY21, the budget was 6% of all team members as of October 31, 2019. For the n
 
 **Calculating Budget Actuals**
 1. Promotion Budget
-   * At the beginning of each quarter, the Total Rewards team will calculate what the budget is for each Division to be managed by the executive of the group.
-   * Take total OTE (TTC) as of the first day of the quarter x 12% x 10% / 4 to get to the actual for that quarter.
-   * Any additional increases over budget must be approved by the CPO and CFO and may be taken from the following quarter's pool
-   * Per Divison, any unused funds for promotions can be rolled over per quarter, if after Q4 there are unused funds they can be added to the annual compensation review budget.
+   * At the beginning of the fiscal year (February 1st), the Total Rewards team will calculate what the budget is for each Division to be managed by the executive of the group.
+   * Take total OTE (TTC) as of the first day of the fiscal year x 12% x 10%. To get to each quarterly budget divide the annual amount by four so promotions budgets are the same throughout the year. We want to ensure predictability in financial models, so while the budget is set at the beginning of each fiscal year, we will also analyze spend per quarter. 
+   * Any additional increases over budget must be approved by the CPO and CFO and may be taken from the following quarter's pool. 
    * Considerations when reviewing increases in BambooHR:
      * Any promotion with a percent increase of more than 10% to base salary must be approved by the CPO
      * Any promotion where the employee has had less than one year of tenure in the current level must be approved by the CPO
      * Any promotion to Director and above must be approved by the Compensation Group
    *  The Compensation & Benefits team will track and report on budgets throughout the quarter as part of the team member spend KPI
 1. Annual Compensation Review Budget
-  * Per Division take the total OTE (TTC) of the group as of October 31st x 88%. Remove any overspend or allocate additional budget per division from the promotion budget.
+  * Per Division take the total OTE (TTC) of the group as of October 31st x 88%. Review removing any overspend or allocate additional budget per division from the promotion budget.
   * Verify totals with the Manager, FP&A.
 
 **Administering the Promotion Budget Quarterly**
-1. After the [spend per team member](/handbook/people-group/people-group-metrics/#spend-per-team-member) metric is completed each month, the Total Rewards team will notify the People Business Partner, Finance Business Partner, and Leader of the group how much is remaining in their current budget for promotions in that quarter via email.
+1. The data team is working to make the promotion budgets available in Sisense. 
 
 ## Catch-up Compensation Review
 
