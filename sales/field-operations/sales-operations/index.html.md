@@ -251,6 +251,7 @@ The full company tech stack list with definitions can be found on the [Business 
 ](/handbook/business-ops/tech-stack/). Here are the tools that the Sales Operations team works with on a daily basis.
 1. [Clari](/handbook/business-ops/tech-stack/#clari)
 1. [Datafox](/handbook/business-ops/tech-stack/#datafox)
+1. [ZoomInfo](/handbook/marketing/marketing-operations/zoominfo/)
 1. [Gainsight](/handbook/business-ops/tech-stack/#gainsight)
 1. [Leandata](/handbook/business-ops/tech-stack/#leandata)
 1. [Salesforce](/handbook/business-ops/tech-stack/#salesforce)
