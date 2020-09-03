@@ -22,7 +22,7 @@ Examples:
 - [Security and Compliance Requests](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/10982)
 - GitLab.com customer requests related to Infrastructure
 
-On the last point, GitLab.com customers, especially enterprises may often have requests related to backend capabilities of GitLab.com (e.g. availability, reliability, and performance) vs. functionaliy[within the application itself](https://gitlab.com/gitlab-org/gitlab/), which should be directed to the appropriate stage team using the standard [feature request template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20proposal.md).
+On the last point, GitLab.com customers, especially enterprises may often have requests related to backend capabilities of GitLab.com (e.g. availability, reliability, and performance) vs. functionality [within the application itself](https://gitlab.com/gitlab-org/gitlab/), which should be directed to the appropriate stage team using the standard [feature request template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20proposal.md).
 
 Examples of requests related to backend capabilities include:
 - Disaster Recovery SLA
