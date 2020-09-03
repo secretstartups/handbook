@@ -101,6 +101,10 @@ TBA
 
 </details>
 
+### Project Access
+
+The Recruiting Operations and Insights team audits users and access level permissions of the Recruiting group on a monthly basis.
+
 ----
 ### Reporting
 
