@@ -114,7 +114,7 @@ Job Families should have three to five PIs.
 * Insert the title in the format of `job-title/index.html.md` for example `marketing-program-manager/index.html.md`
 
 ### Body of the File
-* Copy the [Template for New Job Family](/handbook/hiring/job-families/#template-for-new-job-family) and insert it into the body of the file
+* Copy the [Template for New Job Family](/handbook/hiring/job-families/#templates-for-new-job-family) and insert it into the body of the file
 * Fill in the sections of the template by replacing everything in `{curly brackets}`
 * Use [markdown formatting](/handbook/markdown-guide/)
 * Delete any unnecessary sections - for example, there may be no `Levels` or `Specialties` at this time, so those sections can be deleted
