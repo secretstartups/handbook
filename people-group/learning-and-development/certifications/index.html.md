@@ -106,6 +106,14 @@ If you took one of our certifications or knowledge assessments and did not recie
       1. Where the link is for the sheet, update that to link to the Form Responses 1 Sheet 
       1. Where it says “Col9>=10, update the “9” with the number the column is with the scores (ex. A=1, B=2, C=3, etc.). Where the 10 is, update this number to the lowest score someone could get to score at least an 80% on the quiz. 
 
+If someone will have to take more than one knowledge assessment to recieve a certificate, the steps on how to set up the larger google sheet can be found in the video below: 
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="add link here" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line --> 
+
 ### Step 3: Google Slides
 
 1. Once the Sheet is set up, you will need to get the certificate template form set up. Go to the "L&D" Folder in Google Drive and then into the sub-folder "Certifications/Knowledge Assessments" and the additional sub-folder "Certificates".
