@@ -223,4 +223,14 @@ discovery process.
 **A:** Issues that require both frontend and backend work should be broken into multiple implementation issues as
 outlined in the [planning diagrams](diagram.html#plan).
 
+
+**Q:** What's the meaning of the emojis in issues?
+
+**A:** we use them to communicate certain steps in our process.
+- 🥕 you have reviewed an issue in preparation for [Planning
+  Breakdown](#ongoing-planning-breakdown).
+- 🥒 request to add a specification using [Gherkin
+  Keyworks](https://cucumber.io/docs/gherkin/reference/#keywords) (when life gives you a cucumber,
+  you pickle it).
+
 ## Footnotes
