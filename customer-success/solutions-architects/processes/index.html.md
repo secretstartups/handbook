@@ -58,21 +58,7 @@ SA's may also work in tandem with a TAM to support existing customers, especiall
 
 Generally, the SA owns all pre-sales technical relationships and activities while a TAM owns growth after an initial sale.  However, the SA will still be involved with the customer after an initial sale in several circumstances. Likewise, a TAM will become involved prior to a sale for context and collaboration.
 
-TAM engagement prior to the sale should occur in the following situations:
-
-* At the POV completion & presentation meeting when the results are reviewed and next steps agreed upon
-* When a shared Slack channel is created for the customer
-* A shared customer issue tracking project has been created that will affect the account long-term
-* As requested by the SA if the TAM has a specific subject matter expertise relevant to the conversation
-
-The TAM owns the account post-sale. SA's remain involved in the following situations:
-
-* Development of expansion plans with the SAL and TAM
-* A new POV or product evaluation begins for a single team or an enterprise-wide upgrade
-* Any product license expansion that require overviews, education and competitive insights prior to close
-* Any Professional Services that are being discussed and may require an SOW
-* If a TAM is over-committed or unable to support a customer request, the SA may be requested to assist
-* Support of GitLab days or other on-site evangelism of GitLab at customer sites
+For more information, see the Customer Success Handbook section [Overlap Between Solutions Architects and Technical Account Managers](../../#overlap-between-solution-architects-and-technical-account-managers)
 
 #### Technical Discovery and Demo Preparation
 Prior to any technical discovery and demo preparation, the SA should be provided with the following information about the current opportunity:
