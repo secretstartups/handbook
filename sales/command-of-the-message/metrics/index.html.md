@@ -73,6 +73,7 @@ Watch the below video and check out GitLab's [Value Stream Management](/solution
 * Economic metrics typically align to one or more of three [customer value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers)
 * To help you document your customer's ROI of adopting GitLab, use the GitLab ROI Model
     - Watch the video below
+    - Check out the [GitLab Standard ROI Models enablement webcast](https://youtu.be/znCrnpTDRoE) (36 minutes, Sept 2020)
     - [GitLab Standardized ROI Model](https://docs.google.com/spreadsheets/d/1zYeKV51thbqUjKKQqOtE0a0iVuXBWytc_5ThNV6U_1c/edit?usp=sharing) (GitLab internal only)
     - [Standardized GitLab ROI Model presentation](https://docs.google.com/presentation/d/1-Qq6TLpgOuooAlmHj1tumwHxUTK86uWBD_7Lv6K47w8/edit?usp=sharing) (GitLab internal only)
 * Check out the [Forrester Total Economic Impact Study](/handbook/marketing/product-marketing/analyst-relations/forrester-tei/) Handbook page
