@@ -233,6 +233,8 @@ GitLab job grades aid in mapping a role for internal equity with respect to cash
 
 | Grade	| Management       | Individual Contributor    |
 |-------|------------------|---------------------------|
+| CEO   | CEO              |                           |
+| 14    | EVP/CXO          |                           |
 | 12    | VP               | Fellow                    |
 | 11    | Senior Director  |	                         |
 | 10    |	Director	       | Distinguished             |
@@ -245,7 +247,7 @@ GitLab job grades aid in mapping a role for internal equity with respect to cash
 | 4			|                  | Intern                    |
 
 
-**Sales/Demand Generation**:
+**Sales/Sales Development**:
 
 | Grade	| Management      | Individual Contributor          |
 |-------|-----------------|---------------------------------|
