@@ -53,6 +53,21 @@ When you have psychological safety people become more motivated because they fee
 
 Psychological safety has impacts on diversity and inclusion in organizations. Even if an organization has diversity, it doesn't mean that inclusion is present as well. 
 
+## Strategies for Cultivating a Culture of Psychological Safety
+
+1. Embrace a culture of respectful debate.
+1. Encourage personal storytelling. 
+1. Ask questions.
+1. Allow for experimentation and failure.
+1. Dismantle perceptions of hierarchy.
+1. Model openness to feedback
+1. Set clear goals and key performance indicators.
+1. Offer development opportunities.
+1. Build a speak-up culture.
+1. Highlight competencies.
+
+This list is from a [Grant Thornton article](https://www.grantthornton.com/library/articles/advisory/2020/psychological-safety-speak-up-culture.aspx).
+
 ## Additional Resources 
 - Read: [The Role of Psychological Safety in Diversity and Inclusion](https://www.psychologytoday.com/us/blog/the-fearless-organization/202006/the-role-psychological-safety-in-diversity-and-inclusion) - Psychology Today 
 - Read: [The Fearless Organization by Amy C. Edmondson](https://www.amazon.com/Fearless-Organization-Psychological-Workplace-Innovation/dp/1119477247/ref=sr_1_1?keywords=The+Fearless+Organization&qid=1567701716&s=gateway&sr=8-1)
