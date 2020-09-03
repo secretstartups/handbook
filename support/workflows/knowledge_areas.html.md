@@ -54,6 +54,7 @@ Topics are in alphabetical order with team members grouped by region.
 |               | EMEA   | Catalin <br> Segolene <br> Rehab <br> Alin <br> VladB <br> Joseph <br> Aakif                                                                                                |
 | Performance   | AMER   | Will <br> Cody West                                                                                                                                   |
 |               | EMEA   | Catalin <br> Alin                                                                                                                                     |
+| SSL           | AMER   | John                                                                                                                                     |
 
 ### Scripting Languages
 
