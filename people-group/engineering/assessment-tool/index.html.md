@@ -52,7 +52,7 @@ When you save the assessments, they will be visible for your manager (and their 
 Note: that for directors and up, there is an extra option to **confirm** the assessments. This is a way to say that the assessment
 has been *approved*. In a future iteration, we could decide to send the box to BambooHR (like we do for compa level). 
 
-#### As a Peope Business Partner
+#### As a People Business Partner
 If you have any direct reports, you will also be able to use the tool to assess your team members. However, you will also have access
 to assess all the team members that are within your PBP responsibilities. Currently we decided that you have full access to also
 assess these team members - instead of just giving read access to this data.
