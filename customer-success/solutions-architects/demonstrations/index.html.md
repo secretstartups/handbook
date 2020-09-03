@@ -37,9 +37,7 @@ Today, demo groups and projects are split between several distinct locations:
 
  - [Customer Success Demos](https://gitlab.com/gitlab-com/customer-success/demos) - centralized location for demos used by Customer Success, including a set of golden repos for different application types, security demos, and more.
 
-
- ## Slide Decks for SA demos
-
+## Slide Decks for SA Demos
 There are several slide decks stored on google drive that are commonly used for demos.  Feel free to make a copy of any of these to personalize for your own needs.
 
 - [All the Things](https://docs.google.com/presentation/d/1AG6eDm8USqU7TG12Sp4UEc9B3P03pniQnVHZAGzyDAg/edit?usp=sharing) - contains a comprehensive set of slides on all GitLab functionality and value propositions
