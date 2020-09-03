@@ -1323,7 +1323,7 @@ The [release post item generator](https://gitlab.com/gitlab-com/www-gitlab-com/b
 - issue `release post item::` labels for content block type
 - issue tier labels for `available_in`
 - issue web url for `issue_url`
-- issue description's `Release notes` or `Problem to solve` (case insensitive) section for:
+- issue description's `Release notes` (case insensitive) section for:
   - `description` with the lines containing the `documentation_link` and `image_url` removed
   - `documentation_link` will be the first URL in the section beginning with `https://docs.gitlab.com`
   - `image_url` will be the first image uploaded in the section
