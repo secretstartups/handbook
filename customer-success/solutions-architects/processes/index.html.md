@@ -43,7 +43,7 @@ The entire cross-functional team should help in the preparation of the QBR conte
 
 Solution Architects may participate in initial qualifying meetings (IQM's) or allow the SDR and SAL/AE to manage the initial call and utilize information gained during it for additional preparation.  Teams can handle this on a case by case basis.  
 
-Solution Architects should participate in [technical discovery]() after lead qualification is complete and in other activities during the sales process that lead to a technical win, e.g.
+Solution Architects should participate in [technical discovery](#### Technical Discovery and Demo Preparation) after lead qualification is complete and in other activities during the sales process that lead to a technical win, e.g.
 - GitLab demos
 - GitLab technical deep dives
 - Whiteboarding sessions
@@ -73,6 +73,36 @@ The TAM owns the account post-sale. SA's remain involved in the following situat
 * Any Professional Services that are being discussed and may require an SOW
 * If a TAM is over-committed or unable to support a customer request, the SA may be requested to assist
 * Support of GitLab days or other on-site evangelism of GitLab at customer sites
+
+#### Technical Discovery and Demo Preparation
+Prior to any technical discovery and demo preparation, the SA should be provided with the following information:
+1. What is the opportunity?
+  * Share any existing notes about the opportunity
+  * Key players and personas
+  * Other relevant information shaping an engagement
+  * Is there a business plan or sales approach defined?
+  * What next steps are we hoping to drive from the next call?
+
+The Solutions Architect, in order to tailor conversations and demos to demonstrate value as well as address current problem areas, will want to understand the following information, and may request further technical discovery prior to any demo:
+
+1. **Outcome:**  
+  * What’s in it for the client?  
+  * Why look at a new strategy for software development?
+
+1. **Infrastructure:**
+  * What tools are currently in place?  
+  * What tools have potential to be replaced?
+  * What processes or workflows have potential to change?
+
+1. **Challenges:**
+  * What problems/roadblocks have been uncovered?
+  * What is the current release velocity?
+  * What is the current planning process?
+  * What visibility, traceability or efficiency concerns exist?
+  * What collaboration or governance opportunities exist?
+  * What security or compliance inefficiencies exist?
+
+
 
 ## Solution Architect Engagement Models
 
