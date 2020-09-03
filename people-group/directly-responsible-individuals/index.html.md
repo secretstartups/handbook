@@ -96,7 +96,22 @@ one of the most popular is the [RACI Matrix](https://en.wikipedia.org/wiki/Respo
 GitLab's implementation of a DRI for decision-making means that we have evolved the RACI matrix to RADCIE. 
 The **Responsible** and **Accountable** person is the **DRI**, and given that **[Everyone Can Contribute](/company/strategy/#mission)**, the **Consulted** and **Informed** people are **Everyone**.
 
-There are extenuating circumstances where we do approvals for coordination, but they are extremely rare, and it is the responsibility of the DRI to recognize the need and continue to move the project forward. 
+# Circumstances Requiring the Rare Need for Approvals
+
+There are circumstances where we do approvals for coordination or have a decision maker who is not the DRI. These are extremely rare. It is the responsibility of the DRI to recognize the need for this and to continue to move the project forward. Most of these circumstances will happen in instances in which initiatives:
+
+- Involve 3-or-more functions
+- Could have a large financial impact
+- Could present significant risk to the business
+- Have business reputation considerations
+- Have multiple success considerations (for instance, increase iACV through a product change AND maintain customer NPS)
+
+Examples include:
+
+- A large cross-functional initiative that has significant reputational or financial implications for the GitLab and its users, such as a pricing initiative
+- The rollout of a major policy change that requires multiple functions to align on a coordinated response (for example, legal, marketing, finance), such as changes to the Terms of Service
+
+In these instances, another person may own the final decision, but this doesn't mean that key process steps should be skipped and other key stakeholders shouldn't be involved in ensuring a successful outcome. If a DRI is not considering key stakeholder feedback, executing without adequately planning for success, and saying, "the E-Group approved this," it is worth pausing and considering whether key steps are being missed or additional items should be considered. The DRI is still responsible for successful execution once a decision is made. If the DRI disagrees with a decision, it is this person's responsibility to make a compelling case to the decision maker in order to change the decision marker's mind. If this can't be done within a reasonable period of time, the DRI should [disagree and commit](/handbook/values/#transparency-competency). 
 
 ## Further reading
 
