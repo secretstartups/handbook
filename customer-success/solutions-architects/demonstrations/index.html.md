@@ -20,6 +20,20 @@ The [Demo Systems Handbook page](/handbook/customer-success/demo-systems) provid
 
 See the [Environments sub-page][/handbook/customer-success-demo-systems/environments] for specific details on how to access the environments for use in your demos.
 
+## Demo Readiness
+
+Solutions Architects are occasionally called on at a moments notice to give a demo or join a call to show a prospect or customer specific GitLab functionality. A best practice for being prepared for these demo requests is to have a minimized browser window with various content preloaded into the browser tabs. Examples of common environments utilized are listed below. Note that accessing some of these links are only enabled for GitLab team-members.
+
+* The [GitLab Demo Systems](/handbook/customer-success/demo-systems/) provides a catalog of demos and the sandbox infrastructure for performing demos.
+* The [GitLab.org Group level](https://gitlab.com/groups/gitlab-org/-/roadmap) clearly represents GitLab Epics, Roadmaps and cross-project issue views used for planning releases
+* A [GitLab.com project](https://gitlab.com/jkrooswyk/joel-springsample/boards/579466) driven by Auto DevOps which includes a populated issue board as well as an active Merge Request is highly useful for describing value of workflow utilizing GitLab Auto DevOps for build, test, security and review
+* This [GitLab.com project](https://gitlab.com/gitlab-examples/security/security-reports/merge_requests/2) is commonly utilized specifically for security discussions
+* The [production monitoring for GitLab.com](https://gitlab.com/charts/gitlab/environments/190276/metrics) is useful for any discussion regarding custom and in-app monitoring
+* The [production Grafana instance](https://dashboards.gitlab.com/d/000000159/ci?refresh=5m&orgId=1) showing GitLab Runner details is a great way to represent the art of the possible as it relates to monitoring and dashboards
+* The GitLab [Direction](/direction) page in the Handbook is often beneficial for future-looking product vision questions and discussions about upcoming features
+* Optional: [Integrations](/handbook/marketing/product-marketing/demo/integrations) may be loaded and ready to discuss by leveraging the standard demo environments
+* Other Existing demo groups and projects are listed in the next section
+
 ## Existing Demonstrations
 
 There are a variety of locations for demo groups and projects today.  We are in the process of reviewing and cataloging all existing materials as part of the [FY21 Q3 OKR - Establish a well-maintained demonstration repository](https://gitlab.com/gitlab-com/customer-success/solutions-architecture-leaders/sa-initiatives/-/issues/9).  
