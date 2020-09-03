@@ -97,7 +97,7 @@ Please leave assignee blank.
 1. [Updating or creating Opportunity Splits ](/handbook/sales/#opportunity-splits)
 1. [Salesforce Lightning for Gmail](/handbook/sales/#salesforce-lightning-for-gmail)
 1. [Support from the Community Advocacy Team](/handbook/marketing/revenue-marketing/sdr/#working-with-the-community-advocacy-team)
-1. [DataFox/DiscoverOrg segmentation conflicts](/handbook/business-ops/resources/#segmentation)
+1. [DataFox/Zoominfo segmentation conflicts](/handbook/business-ops/resources/#segmentation)
 1. [Reassigning to a Territory Rep](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
 1. [Requesting Reassignment](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
 1. [If LEAD or CONTACT is owned by SDR team member](/handbook/business-ops/resources/#record-creation-in-salesforce)
@@ -168,7 +168,7 @@ Include a link to the list and description of the list load.
     * Go into Salesforce Setup>Customize>Accounts>Record Types (Pull the number out of the URL (number after id= and before the &))
     * Paste into the RecordType ID column>copy down
 1. Format the Account Source Column
-    * Naming convention: List-Vendor-Identifier-Date (example:List-DiscoverOrg-FranceAC-20200407
+    * Naming convention: List-Vendor-Identifier-Date (example:List-Zoominfo-FranceAC-20200407
     * Copy and paste values down the column with the correct format
 1. Create the Account Source Name in Salesforce
     * Go into Salesforce>Setup>Customize>Account>Fields>Account Source
