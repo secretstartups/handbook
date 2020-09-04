@@ -26,7 +26,7 @@ Your direct login allows for direct export into SFDC. However you can also acces
 - Under your name on the right hand side click on Zoominfo University
 - Once you've created your Zoominfo University login the links below will give you direct access
 
-**:new: I'm brand new to DiscoverOrg or Zoominfo! :arrow_down: Start here:**
+**I'm brand new to DiscoverOrg or Zoominfo! Start here:**
 
 | Title | Duration | Summary |
 | ------ | ------ | ------ | 
@@ -34,7 +34,7 @@ Your direct login allows for direct export into SFDC. However you can also acces
 | [Best Practices with Zoominfo (condensed version)](https://university.zoominfo.com/courses/102-best-practices-with-zoominfo-condensed) | 6:23 | Using scoops and more advanced features. We do not currently have Intent, so you can skip this section. |
 | [Introduction in Salesforce ](https://university.zoominfo.com/learn/course/101-introduction-in-salesforce-on-demand/training-session/101-introduction-in-salesforce) | 31:15 | This is a general overview of how to use the native integration within SFDC.|
 
-**:boom: I've been using DiscoverOrg or Zoominfo already or ready to learn more! :arrow_down: Skip to topics that interest you:**
+**I've been using DiscoverOrg or Zoominfo already or ready to learn more! Skip to topics that interest you:**
 
 | Title | Duration | Summary |
 | ------ | ------ | ------ | 
@@ -65,7 +65,9 @@ All current field mappings are documented [here](https://docs.google.com/spreads
 Custom fields start with [ZI] and will be visible in the Zoominfo section in SFDC. Example name: `[ZI] Company Phone`. All [ZI] fields are set to be able to overwrite the field should new data be available on a lead, contact, or account. The only information mapped to standard fields are fields needed for basic lead, contact, or account creations. Example: `First Name`, `Last Name`, and `Email Address`.
 
 ### SFDC Native Integration
-The native integration is available on any lead, contact, or account directly within SFDC. The functionality is the exact same as logging directly into Zoominfo.
+- The Salesforce Native App is available on any lead, contact, or account directly within SFDC. 
+- The Salesforce Native App only allows users to export 25 at a time. Where as logging in directly and using the standard Salesforce web connector allows you to push up to 2,000 at a time - for any bulk pushes it is recommended you use the normal ZoomInfo website.
+
 
 ### Outreach Integration
 Coming soon.
