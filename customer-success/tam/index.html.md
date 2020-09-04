@@ -140,7 +140,7 @@ The following articulates where collaboration and customer management is owned:
 1. [**Account Management Projects**](https://gitlab.com/gitlab-com/account-management): Shared project between GitLab team members and customer. Used to prioritize/plan work with customer.
 1. [**Google Drive**](https://drive.google.com/drive/u/0/folders/0B-ytP5bMib9Ta25aSi13Q25GY1U): Internal. Used to capture call notes and other customer related documents.
 1. [**Chorus**](/handbook/business-ops/tech-stack/#chorus): Internal. Used to record Zoom calls.
-1. [**Gainsight**](https://gitlab.gainsightcloud.com/): Internal. Used to track customer health score, logging [customer activity](/handbook/customer-success/tam/gainsight/timeline/#activity-types) (i.e. calls, emails, meetings)
+1. [**Gainsight**](/handbook/customer-success/tam/gainsight/): Internal. Used to track customer health score, logging [customer activity](/handbook/customer-success/tam/gainsight/timeline/#activity-types) (i.e. calls, emails, meetings)
 
 ## Related pages
 
