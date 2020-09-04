@@ -316,6 +316,13 @@ In order to help with attribution, we also label each incident with a scoped lab
 | `~Incident::Review-Scheduled`   | Indicates that the incident review has been added to the agenda for an upcoming review meeting. |
 | `~Incident::Review-Completed`   | Indicates that an incident review has been completed, but there are notes to incorporate from the review writeup prior to closing the issue. |
 
+
+In certain cases, additional labels will be added as a mechanism to add metadata to an incident issue.
+
+| **Label** | **Workflow State** |
+| ---------- | -------------- |
+| `~self-managed` | Indicates that an incident is **exclusively** and incident for self-managed GitLab. [Example self-managed incident issue](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2651) |
+
 ### Workflow Diagram
  
 ```mermaid
