@@ -166,7 +166,7 @@ Billable hours represent work hours that a staff member reports as being aligned
 
 #### Time tracking entry and approval workflow
 
-* All Issues are attached to Epics using the [epic categories](/handbook/customer-success/professional-services-engineering/#epic-categories) as a guide.
+* All Issues are attached to Epics 
 * [PSE Hours Report Generator](https://gitlab-com.gitlab.io/customer-success/professional-services-group/issue-mover/) pulls all time spent from issues that the user is either an author of, or an assignee, and creates the time tracking spreadsheet at the end of the designated fiscal quarter.
 * A PS Delivery Manager will APPROVE the hours, create an issue and attach it to the Time Tracking Epic with the `ManagerCertifiedTimesheet` label
 * The approving manager will submit to the Head of PS, [Sr. Director of Professional Services](https://about.gitlab.com/job-families/sales/director-of-professional-services/) for next level approval.  The Head of PS with apply judgement on productive utilization.
@@ -191,10 +191,10 @@ Issues are created for all work by PS.
   * Weekly/ Final customer reports and documentation
   * Status/ Close out customer calls
   * Customer Travel
-  *   * [SKO](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1251)
+  * [SKO](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1251)
   * [Contribute](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1252)
   * [Commit](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1376)
-  [Sales Assistance](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1247)
+  * [Sales Assistance](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1247)
     * All Pre-Sales activities
     * SOW Creation
   *  [Support Assistance](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1248)
@@ -229,8 +229,8 @@ Issues are created for all work by PS.
     * Ramp Up
     * HR Training
     * Customer project shadow
-    * [PS TimeTracking - PTO/ Holidays](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/epics/533)
-    * [PS Team Holidays](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1246)
+* [PS TimeTracking - PTO/ Holidays](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/epics/533)
+  * [PS Team Holidays](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1246)
   * [PS Team PTO/ Sick Days](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1245)
 
 #### Labels
