@@ -11,13 +11,20 @@ title: "Job Families"
 
 ## Job Families
 
-They are [organized by function in directories in the www-gitlab-com repo](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/sites/marketing/source/job-families).
+Job families are [organized by function in directories in the www-gitlab-com repo](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/sites/marketing/source/job-families).
 
-Confused about when you need to create a new job family and when you should add a new role to an existing one?
+### Things to Keep in Mind
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/5EcFz1qNj2E" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+1. Before you begin creating a new job family you should check the direcotry to see if there is an existing job family or a role close to the one you are working to create. Job families should incompas a team, a department, or perhaps a division. If you are confused about when you need to create a new job family and when you should add a new role to an existing one watch [this video](https://www.youtube.com/embed/5EcFz1qNj2E).
+  * Sometimes you should just add a level or a specialty and not create a new job family.
+1. We don't include location requirements for most roles (EMEA, Americas, APEC) in the job family.
+1. We don't include [expertises](/company/team/structure/#expert), since these are free form.
+1. We don't allow them to read like a [vacancy](/handbook/hiring/vacancies/). The job family could be used for hiring however they are more often serving as the requirements that team members and managers alike use in conversations around career development and performance management. Verbiage you don't want to use includes prases like "you will", or "exciting opportunity" or "we're hiring for".
+1. Team Lead vrs people Manager vrs function Manager: you should be aware of how GitLab defines these terms. Depending on the needs of the organization, a Team Lead may or may not directly manage people. There are 2 instances where a Team Lead role can be used:
+   * Team Lead as an Individual Contributor - in this context, the Team Lead would be responsible for a specific project/s or area of expertise (a Subject Matter Expert), and may partner with others to accomplish the work. The Team Lead can be leveraged as a player/coach, where they have their owns individual tasks to complete, but they also mentor, train and coach others on the team. A team lead may also handle escalated or complex cases or projects.  
+   * Team Lead as a People Manager - in this context, the Team Lead would directly manage a team of people as a first level or entry-level people manager, which means they are directly responsible for hiring, promoting, performance management, or termination of team members. Team Leads can report into Managers, even though they may share the same compensation benchmark. 
+   * Manager job families are those responsible for directly managing other GitLab team-members. They hire, promote, and terminate employees, and performance management is one of their key functions. Nomenclature to represent someone is a manager of people can be clarified with "Manager, Benchmark" (e.g., Manager, Marketing) The same holds true for director. 
+   * Nomenclature to represent when someone manages a job function, and does not have people management responsibilities, can be clarified with "Benchmark Manager" (e.g., Marketing Manager)
 
 ## Format
 
@@ -39,26 +46,9 @@ For each job at GitLab, the job family is the single source of truth for the exp
 - About GitLab
 - Compensation
 
-The position description will be used _both_ for the [Vacancy Creation Process](/handbook/hiring/recruiting-framework/req-creation/#opening-vacancies-in-greenhouse), as well as serving as the requirements that team members and managers alike use in conversations around career development and performance management.
-
-### The job family does not contain
-
-1. Locations (EMEA, Americas, APEC), these are part of the [headline](/handbook/hiring/#headline)
-1. [Expertises](/company/team/structure/#expert), since these are free form.
-1. Anything that makes it look like a [vacancy](/handbook/hiring/vacancies/) like "exciting opportunity" or "we're hiring for".
-
-## Leads and Managers
-
-If you're working with a team lead or management job family, you should be aware of how GitLab defines these terms. Depending on the needs of the organization, a Team Lead may or may not directly manage people. Team Leads can report into Managers, even though they may share the same compensation benchmark. There are 2 instances where a Team Lead role can be used:
-
-1. Team Lead as an Individual Contributor - in this context, the Team Lead would be responsible for a specific project/s or area of expertise (a Subject Matter Expert), and may partner with others to accomplish the work. The Team Lead can be leveraged as a player/coach, where they have their owns individual tasks to complete, but they also mentor, train and coach others on the team. A team lead may also handle escalated or complex cases or projects.  
-2. Team Lead as a People Manager - in this context, the Team Lead would directly manage a team of people as a first level or entry-level people manager, which means they are directly responsible for hiring, promoting, performance management, or termination of team members. 
-
-Manager job families are those responsible for directly managing other GitLab team-members. They *do* hire, promote, and terminate employees, and performance management is one of their key functions. Nomenclature to represent someone is a manager of people can be clarified with "Manager, Benchmark" (e.g., Manager, Marketing) The same holds true for director. Nomenclature to represent when someone manages a job function, and might not have people management responsibilities, can be clarified with "Benchmark Manager" (e.g., Marketing Manager)
-
 ## New Job Family Creation or Additional Level/Role within a Current Job Family
 
-If a hiring manager is creating a new job family within the organization, the hiring manager will need to create the job family.  If this is a job family that already exists (for example, Gitaly Developer would use the Developer position description), update the current position description to stay DRY. If the compensation for the job family is the same as one already in `job_families.yml`, you should just update the specialty, do not create a new job family.
+If a hiring manager is creating a new job family within the organization, the hiring manager will need to create the job family.  If this is a job family that already exists (for example, Gitaly Developer would use the Developer position description), update the current position description to stay DRY. If the compensation for the job family is the same as one already in `job_families.yml`, 
 
 Here is a brief [walkthrough](https://docs.google.com/presentation/d/1ZNsMLhk5ZB_NMinV4X2QPWLudnHHWapasxRz5HJCuCQ/edit#slide=id.g551bcad215_0_146) of this process.
 If you use these slides please remember that the HANDBOOK is the most up to date and the slides and/or videos may be dated.
@@ -94,11 +84,6 @@ Performance indicators should be specific to the role and not dependent on anyon
 Job Families should have three to five PIs.
 
 ## Job Family Creation Using Web Version of GitLab
-### Things You Will Need
-* A written job description
-* A job title
-* A few minutes to get the job family merge request submitted. Note: job families need to be merged before the role is opened in greenhouse
-* Note: [Job families are permanent](/handbook/hiring/#definitions) so do not use words like “we are seeking” in the job description
 
 ### Getting to the Right Place
 * Go to the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com?nav_source=navbar) project on `gitlab.com`
@@ -127,47 +112,29 @@ Job Families should have three to five PIs.
 * Check: Delete source branch when merge request is accepted.
 * Click the Submit merge request button at the bottom
 
-### Inclusive Language Check
-* Once the merge request is submitted several pipelines will run. Among them one that specifically test for `Inclusive language` in the job families. If you're using language that is marked as subtly masculine-coded, fixed-coded or using misused words, the pipeline will fail and you'll be asked to fix this. Some examples of masculine and fixed language are below, with neutral and growth alternatives listed. Please reference (and add to) [this list](https://docs.google.com/document/d/1YBzbnzKrsTLtAL5L3M5Gt4ZCuCDwPVgwJbeCt62qBIY/edit) for suggested words to use in place of masculine or fixed language. 
-
-| Masculine-Coded | Neutral Alternatives |
-| ------ | ------ |
-| Driven | Guided <br> Steered |
-| Objective | Goal <br> Target |
-| Strong | Robust <br> Substantial |
-
-| Fixed-Coded | Growth Alternative |
-| ------ | ------ |
-| Brilliant | Highly determined |
-| Rockstar| Motivated |
-| Super smart | Work hard |
-
-* In case you get that error, the first recommendation is to read the error. It will say what is wrong with the text. For example:
-
+### Failed Pipeline
+We have a CI job that checks job families for hard requreiments:
+* Requirements
+   * every role must have `Ability to use GitLab` as a bullet point.
+* Responsibilities
+* Performance Indicators
+* [Job Grades](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+* Hiring Process
+* Inclusive Language Check
+   * You should use this [online tool](https://inclusiveness-check.herokuapp.com/) to check your job family before running the pipeline.
+   * If you're using language that is marked as subtly masculine-coded, fixed-coded or using misused words, the pipeline will fail and you will need to fix it before following the approval flow. Please reference (and add to) [this list](https://docs.google.com/document/d/1YBzbnzKrsTLtAL5L3M5Gt4ZCuCDwPVgwJbeCt62qBIY/edit) for suggested words to use in place of masculine or fixed language. 
+   * If the pipeline does fail, the first recommendation is to read the error. It will say what is wrong with the text. For example:
 ```
 1. ["ATTENTION: In /builds/gitlab-com/www-gitlab-com/sites/marketing/source/job-families/marketing/reference-program-manager/index.html.md you're using masculine gender-coded language", "Masculine coded words used: analyst, analytical, decision, driven, leader"]
 2. ["ATTENTION: In /builds/gitlab-com/www-gitlab-com/sites/marketing/source/job-families/marketing/production-designer/index.html.md you're using fixed-coded language", "Fixed coded words used: established"]
 ```
-
-In this case, there's two job families that failed and each for a different reason. You can do two things now:
-- fix the text to be more inclusive, commit your changes and the pipeline will run again
-- if you disagree or you feel like the pipeline found a false positive, you can add the file to [this list](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/inclusiveness_check.yml). The files in this list are ignored by the inclusiveness check.
-
-If you want, you can also use this [online tool](https://inclusiveness-check.herokuapp.com/) while working on fixing the problems. 
-
-### Other Reasons for a Failed Pipeline
-
-In October 2019, we added a CI Job that checks that job families have Requirements, Responsibilities, Performance Indicators, [Job Grades](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades), and a Hiring Process, as per the below template.
-
-Under requirements, every role must have `Ability to use GitLab`. This will also fail the pipeline.
-
-### Once the Merge Request is merged
-* Once it is merged - it is pushed to master to make the changes and the pipeline will need to run again to make the changes official.
-* Once the MR has been merged, you will be able to go into the directory you added to and see your newly created Job Family there. 
+   In this case, there's two job families that failed and each for a different reason. You can do two things now:
+      - fix the text to be more inclusive, commit your changes and the pipeline will run again
+      - if you disagree or you feel like the pipeline found a false positive, you can add the file to [this list](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/inclusiveness_check.yml). The files in this list are ignored by the inclusiveness check. If you request your job family to be added to the skip level you will need to paste a screen shot of the inclusiveness check in the MR as this will be asked for prior to merging. 
 
 ## Templates for New Job Family
 
-There are two templates on this page. The first template is appropriate when the job family has 1 or 2 job titles and more specialities; [for example](/job-families/engineering/backend-engineer/). Each of these titles can have multiple levels. The second template is appropriate when there are many different job titles within the same family; [for example](/job-families/people-ops/total-rewards/). 
+There are two templates on this page. The first template is appropriate when the job family has 1 or 2 job titles and more levles (i.e. junior, intermediate, senior, manager, director) or specialities; [for example](/job-families/engineering/backend-engineer/). There can be many levles for each of the titles. The second template is appropriate when there are many different job titles within the same family; [for example](/job-families/people-ops/total-rewards/). 
 
 After pasting this template search for *{add* to quickly navigate to areas of input.
 
@@ -236,7 +203,7 @@ Additional details about our process can be found on our [hiring page](/handbook
 *Please note the **Compensation** and **About GitLab** sections will auto-populate because of the job family formatting. 
 
 **Second Template**
-The second template is appropriate when there are three or more job titles within the same family. 
+The second template is appropriate when there are three or more job titles within the same family. For example the team is made up of many different positions, that all report into the same person or are all working to accomplish the same goals. 
 
 After pasting this template search for *{add* to quickly navigate to areas of input.
 ```
@@ -301,16 +268,14 @@ Additional details about our process can be found on our [hiring page](/handbook
 ```
 *Please note the **Compensation** and **About GitLab** sections will auto-populate because of the job family formatting.
 
-## Helpful Tips
+## Helpful Tips 
+1. Not Repeating More Junior Requirement List for More Senior Levels
+   * You may not want to relist an entire requirement set from a more junior level that also pertains to a more senior one. You can choose to keep the section title as {Level} Requirements. You can then add a first bullet that says, "extends the {name of lower job level} responsibilities." 
+1. Clarifying Which Levels Specialities Pertain To
+   * Specialities may be relevant for some but not all levels. If the same specialty list pertains to multiple roles, list specialties after the most senior role that they pertain to.  In the the specialty list, add a first bullet that says, "relevant for {name of all relevant job levels} responsibilities." 
 
 ### Creating a New Job Family from Scratch
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/x3q2KVFwMUY" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-
-### Not Repeating More Junior Requirement List for More Senior Levels
-You may not want to relist an entire requirement set from a more junior level that also pertains to a more senior one. You can choose to keep the section title as {Level} Requirements. You can then add a first bullet that says, "extends the {name of lower job level} responsibilities." 
-
-### Clarifying Which Levels Specialities Pertain To
-Specialities may be relevant for some but not all levels. If the same specialty list pertains to multiple roles, list specialties after the most senior role that they pertain to.  In the the specialty list, add a first bullet that says, "relevant for {name of all relevant job levels} responsibilities." 
