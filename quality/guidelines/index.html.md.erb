@@ -67,8 +67,8 @@ See [Debugging QA Pipeline Test Failures](/handbook/engineering/quality/guidelin
 
 Test failure priorities are defined as follow:
 
-* ~P1: Tests that are needed to verify fundamental GitLab functionality.
-* ~P2: Tests that deal with external integrations which may take a longer time to debug and fix.
+* ~priority::1: Tests that are needed to verify fundamental GitLab functionality.
+* ~priority::2: Tests that deal with external integrations which may take a longer time to debug and fix.
 
 ## Building as part of GitLab
 
@@ -81,7 +81,7 @@ This shall follow our [dogfooding](/handbook/engineering#dogfooding) process.
 
 This is a schedule to share the responsibility of debugging/analysing the failures
 in the various scheduled pipelines that run on multiple environments.
-Quality department's on-call does not include work outside GitLab's normal business hours. Weekends and [Family and Friends Days](/handbook/ceo/family-friends-day) are excluded as well. 
+Quality department's on-call does not include work outside GitLab's normal business hours. Weekends and [Family and Friends Days](/handbook/ceo/family-friends-day) are excluded as well.
 In the current iteration, we have a timezone based rotation and triage activities happen during each team member's working hours.
 
 Please refer to the [Debugging Failing tests](/handbook/engineering/quality/guidelines/debugging-qa-test-failures/)
@@ -94,40 +94,43 @@ and for [specific instructions on how to do an appropriate level of investigatio
 * The Quality Engineering Manager also assigns the triage issue created to the Primary and Secondary DRIs for the upcoming week.
 * During the scheduled dates, the support tasks related to the test runs become the Directly Responsible Individual's ([DRI]'s) highest priority.
 * Reporting and analyzing the End to End test failures in [Staging](https://ops.gitlab.net/gitlab-org/quality/staging/pipelines), [Canary](https://ops.gitlab.net/gitlab-org/quality/canary/pipelines) and [Production](https://ops.gitlab.net/gitlab-org/quality/production/pipelines) pipelines takes priority over [Nightly](https://gitlab.com/gitlab-org/quality/nightly/pipelines), MR, [GitLab `master`](https://gitlab.com/gitlab-org/gitlab/pipelines) or [GitLab FOSS `master`](https://gitlab.com/gitlab-org/gitlab-foss/pipelines) pipelines.
-* If there is a time constraint, the [DRI] should report and analyze the failures in [Staging](https://ops.gitlab.net/gitlab-org/quality/staging/pipelines), [Canary](https://ops.gitlab.net/gitlab-org/quality/canary/pipelines) and [Production](https://ops.gitlab.net/gitlab-org/quality/production/pipelines) pipelines just enough to determine if it is an application or an infrastructure problem, and [escalate as appropriate](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html). All the reported failures in those pipelines should be treated as ~P1/~S1 until it's determined that they're not. That means they should be investigated ASAP, ideally within 2 hours of the report. If the [DRI] will not be able to do so, they should delegate any investigation they're unable to complete to the Secondary. If the Secondary is not available or will also not be able to complete the investigations, solicit help in the #quality slack channel.
+* If there is a time constraint, the [DRI] should report and analyze the failures in [Staging](https://ops.gitlab.net/gitlab-org/quality/staging/pipelines), [Canary](https://ops.gitlab.net/gitlab-org/quality/canary/pipelines) and [Production](https://ops.gitlab.net/gitlab-org/quality/production/pipelines) pipelines just enough to determine if it is an application or an infrastructure problem, and [escalate as appropriate](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html). All the reported failures in those pipelines should be treated as ~priority::1/~severity::1 until it's determined that they're not. That means they should be investigated ASAP, ideally within 2 hours of the report. If the [DRI] will not be able to do so, they should delegate any investigation they're unable to complete to the Secondary. If the Secondary is not available or will also not be able to complete the investigations, solicit help in the #quality slack channel.
+* Consider [blocking the release by creating an incident](https://about.gitlab.com/handbook/engineering/releases/#i-found-a-regression-in-the-qa-issue-what-do-i-do-next) if new  ~severity::1 regressions are found in non-reliable/smoke specs.
 * It is important that all other failure investigations are completed in a timely manner, ideally within 24 hours of the report. If the [DRI] is unable to investigate all the reported failures on [all the pipelines](/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#scheduled-qa-test-pipelines) on time, they should delegate the remaining work to the Secondary. If the Secondary is not available, solicit help in the #quality slack channel.
 * Cross-cutting issues such as https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/530 are triaged by the on call DRI to determine the next action. Other team-members should notify the DRI if they come across such an issue. The DRI can inform the rest of the department via the #quality channel, if necessary.
 * Everyday the APAC/EMEA Primary DRI summarizes the failures found for that day in the triage issue and this serves as an asynchronous handoff to the AMER DRI.
 * On Tuesdays and Thursdays at 8:30AM PST, there is a "Pipeline on-call rotation standup/hand-off" meeting which help in more collaboration.
+* Be aware that failing reliable and smoke specs in staging/canary will block the deployer pipeline and may be treated as production incidents
 
 ### Schedule
 
-**May 2020 | June 2020 | July 2020 | August 2020 | September 2020**
+**August 2020 | September 2020 | October 2020 | November 2020 | December 2020**
 
 | **Start Date** | **[DRI]**                                                         | **Secondary**                                                     |
 | -------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
-| 2020-05-04     | EMEA: [Tomislav Nikić] and [Sanad Liaquat] <br> AMER: [Désirée Chevalier] | AMER: [Zeff Morgan] <br> EMEA: [Sofia Vistas]             |
-| 2020-05-11 <br> (Planning week) | APAC [EPE]: [Jen-Shin Lin] <br> EMEA [EPE]: [Rémy Coutable] <br> AMER [QEM]: [Joanna Shih] | APAC [EPE]: [Albert Salim] <br> EMEA [EPE]: [Mark Fletcher] <br> AMER [QEM]: [Vincy Wilson] |
-| 2020-05-18     | AMER: [Zeff Morgan] <br> EMEA: [Sofia Vistas]                     | AMER: [Tiffany Rea] <br> EMEA: [Nick Westbury]                    |
-| 2020-05-25     | AMER: [Tiffany Rea] <br> EMEA: [Nick Westbury]                    | AMER: [Jennie Louie] <br> EMEA: [Grant Young]                     |
-| 2020-06-01     | AMER: [Jennie Louie] <br> EMEA: [Grant Young]                     | AMER: [Chloe Liu] <br> APAC: [Anastasia McDonald]                 |
-| 2020-06-08     | AMER: [Chloe Liu] <br> APAC: [Anastasia McDonald]                 | AMER: [Joanna Shih] <br> APAC: [Mark Lapierre]                    |
-| 2020-06-15 <br> (Planning week) | APAC [EPE]: [Albert Salim] <br> EMEA [EPE]: [Mark Fletcher] <br> AMER [QEM]: [Vincy Wilson] | APAC [EPE]: [Jen-Shin Lin] <br> EMEA [EPE]: [Rémy Coutable] <br> AMER [QEM]: [Tanya Pazitny] |
-| 2020-06-22     | AMER: [Dan Davison] <br> APAC: [Mark Lapierre]                    | AMER: [Erick Banks] <br> EMEA: [Will Meek]                        |
-| 2020-06-29     | AMER: [Erick Banks] <br> EMEA: [Will Meek]                        | AMER: [Nailia Iskhakova] <br> APAC: [Sanad Liaquat]               |
-| 2020-07-06     | AMER: [Nailia Iskhakova] <br> APAC: [Sanad Liaquat]               | AMER: [Désirée Chevalier] <br> EMEA: [Tomislav Nikić]             |
-| 2020-07-13 <br> (Planning week) | APAC [EPE]: [Jen-Shin Lin] <br> EMEA [EPE]: [Rémy Coutable] <br> AMER [QEM]: [Tanya Pazitny] | APAC [EPE]: [Albert Salim]  <br> AMER [QEM]: [Kyle Wiebers] |
-| 2020-07-20     | AMER: [Désirée Chevalier] <br> EMEA: [Tomislav Nikić]             | AMER: [Zeff Morgan] <br> EMEA: [Sofia Vistas]                     |
-| 2020-07-27     | AMER: [Zeff Morgan] <br> EMEA: [Sofia Vistas]                     | AMER: [Tiffany Rea] <br> EMEA: [Nick Westbury]                    |
 | 2020-08-03     | AMER: [Tiffany Rea] <br> EMEA: [Nick Westbury]                    | AMER: [Jennie Louie] <br>  APAC: [Anastasia McDonald]             |
 | 2020-08-10     | AMER: [Jennie Louie] <br>  APAC: [Anastasia McDonald]             | AMER: [Chloe Liu] <br> EMEA: [Grant Young]                        |
-| 2020-08-17 <br> (Planning week) | APAC [EPE]: [Albert Salim] <br> EMEA [EPE]: [Mark Fletcher] <br> AMER [QEM]: [Kyle Wiebers] | APAC [EPE]: [Jen-Shin Lin] <br> EMEA [EPE]: [Mark Fletcher] <br> AMER [QEM]: [Joanna Shih] |
+| 2020-08-17 <br> (Planning week) | APAC [EPE]: [Albert Salim] <br> EMEA [EPE]: [Mark Fletcher] <br> AMER [QEM]: [Kyle Wiebers] | APAC [EPE]: [Jen-Shin Lin] <br> EMEA [EPE]: [Rémy Coutable] <br> AMER [QEM]: [Joanna Shih] |
 | 2020-08-24     | AMER: [Chloe Liu] <br> EMEA: [Grant Young]                        | AMER: [Dan Davison] <br> APAC: [Mark Lapierre]                    |
 | 2020-08-31     | AMER: [Dan Davison] <br> APAC: [Mark Lapierre]                    | AMER: [Erick Banks] <br> EMEA: [Will Meek]                        |
 | 2020-09-07     | AMER: [Erick Banks] <br> EMEA: [Will Meek]                        | AMER: [Nailia Iskhakova] <br> APAC: [Sanad Liaquat]               |
 | 2020-09-14 <br> (Planning week) | APAC [EPE]: [Jen-Shin Lin] <br> EMEA [EPE]: [Rémy Coutable] <br> AMER [QEM]: [Joanna Shih] | APAC [EPE]: [Albert Salim] <br> EMEA [EPE]: [Mark Fletcher] <br> AMER [QEM]: [Vincy Wilson] |
-| 2020-09-21     | AMER: [Nailia Iskhakova] <br> APAC: [Sanad Liaquat]               | AMER: [Désirée Chevalier] <br> EMEA: [Tomislav Nikić]             |
-| 2020-09-28     | AMER: [Désirée Chevalier] <br> EMEA: [Tomislav Nikić]             | AMER: [Zeff Morgan] <br> EMEA: [Sofia Vistas]                     |
+| 2020-09-21     | AMER: [Nailia Iskhakova] <br> APAC: [Sanad Liaquat]               | AMER: [Désirée Chevalier] <br> APAC: [Anastasia McDonald]         |
+| 2020-09-28     | AMER: [Désirée Chevalier] <br> APAC: [Anastasia McDonald]         | AMER: [Zeff Morgan] <br> APAC: [Mark Lapierre]                    |
+| 2020-10-05     | AMER: [Zeff Morgan] <br> APAC: [Mark Lapierre]                    | AMER: [Tiffany Rea] <br> EMEA: [Nick Westbury]                    |
+| 2020-10-12 <br> (Planning week) | APAC [EPE]: [Albert Salim] <br> EMEA [EPE]: [Mark Fletcher] <br> AMER [QEM]: [Vincy Wilson] | APAC [EPE]: [Jen-Shin Lin] <br> EMEA [EPE]: [Rémy Coutable] <br> AMER [QEM]: [Tanya Pazitny] |
+| 2020-10-19     | AMER: [Tiffany Rea] <br> EMEA: [Nick Westbury]                    | AMER: [Jennie Louie] <br> EMEA: [Grant Young]                     |
+| 2020-10-26     | AMER: [Jennie Louie] <br> EMEA: [Grant Young]                     | AMER: [Chloe Liu] <br> EMEA: [Sofia Vistas]                       |
+| 2020-11-02     | AMER: [Chloe Liu] <br> EMEA: [Sofia Vistas]                       | AMER: [Dan Davison] <br> EMEA: [Tomislav Nikić]                   |
+| 2020-11-09     | AMER: [Dan Davison] <br> EMEA: [Tomislav Nikić]                   | AMER: [Erick Banks] <br> EMEA: [Will Meek]                        |
+| 2020-11-16 <br> (Planning week) | APAC [EPE]: [Jen-Shin Lin] <br> EMEA [EPE]: [Rémy Coutable] <br> AMER [QEM]: [Tanya Pazitny] | APAC [EPE]: [Albert Salim] <br> EMEA [EPE]: [Mark Fletcher] <br> AMER [QEM]: [Kyle Wiebers] |
+| 2020-11-23     | AMER: [Erick Banks] <br> EMEA: [Will Meek]                        | AMER: [Nailia Iskhakova] <br> APAC: [Sanad Liaquat]               |
+| 2020-11-30     | AMER: [Nailia Iskhakova] <br> APAC: [Sanad Liaquat]               | AMER: [Désirée Chevalier] <br> APAC: [Anastasia McDonald]         |
+| 2020-12-07     | AMER: [Désirée Chevalier] <br> APAC: [Anastasia McDonald]         | AMER: [Zeff Morgan] <br> APAC: [Mark Lapierre]                    |
+| 2020-12-14 <br> (Planning week) | APAC [EPE]: [Albert Salim] <br> EMEA [EPE]: [Mark Fletcher] <br> AMER [QEM]: [Kyle Wiebers] | APAC [EPE]: [Jen-Shin Lin] <br> EMEA [EPE]: [Rémy Coutable] <br> AMER [QEM]: [Joanna Shih] |
+| 2020-12-21     | AMER: [Zeff Morgan] <br> APAC: [Mark Lapierre]                    | AMER: [Tiffany Rea] <br> EMEA: [Nick Westbury]                    |
+| 2020-12-28     | AMER: [Tiffany Rea] <br> EMEA: [Nick Westbury]                    | AMER: [Jennie Louie] <br> EMEA: [Grant Young]                     |
+
 
 ### Responsibilities of the DRI and Secondary for scheduled pipelines
 * The [DRI] does the [triage](/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#steps-for-debugging-qa-pipeline-test-failures) and they let the counterpart [SET] know of the failure.
@@ -170,7 +173,7 @@ In order to provide better input during the planning phase of a release, the sch
 [Sofia Vistas]: https://about.gitlab.com/company/team/#svistas
 [Tanya Pazitny]: https://about.gitlab.com/company/team/#tpazitny
 [Tiffany Rea]: https://about.gitlab.com/company/team/#treagitlab
-[Tomislav Nikić]: https://about.gitlab.com/company/team/#tmslvnkc
+[Tomislav Nikić]: https://about.gitlab.com/company/team/#tomi
 [Vincy Wilson]: https://about.gitlab.com/company/team/#vincywilson
 [Will Meek]: https://about.gitlab.com/company/team/#willmeek
 [Zeff Morgan]: https://about.gitlab.com/company/team/#zeffmorgan

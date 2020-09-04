@@ -25,6 +25,7 @@ The test pipelines run on a scheduled basis, and their results are posted to Sla
 | [Staging](https://ops.gitlab.net/gitlab-org/quality/staging/pipelines) | Smoke | [Every 2 hours](https://ops.gitlab.net/gitlab-org/quality/staging/pipeline_schedules), and [after each deployment to Staging](https://ops.gitlab.net/gitlab-com/gl-infra/deployer/pipelines). The bi-hourly schedule is useful to catch [failures introduced by a configuration change](https://gitlab.com/gitlab-org/quality/team-tasks/issues/244#note_251069010). | [`#qa-staging`](https://gitlab.slack.com/messages/CBS3YKMGD) |
 | [Staging](https://ops.gitlab.net/gitlab-org/quality/staging/pipelines)^ | Full, Orchestrated | [After each deployment to Staging](https://ops.gitlab.net/gitlab-com/gl-infra/deployer/pipelines). | [`#qa-staging`](https://gitlab.slack.com/messages/CBS3YKMGD) |
 | [Staging](https://ops.gitlab.net/gitlab-org/quality/staging/pipelines) | Geo | [Daily at 14:00 UTC](https://ops.gitlab.net/gitlab-org/quality/staging/pipeline_schedules). | [`#qa-staging`](https://gitlab.slack.com/messages/CBS3YKMGD) |
+| [Customer Portal Staging](https://gitlab.com/gitlab-org/customers-gitlab-com/-/pipelines) | Full | After each deployment to Customer Portal Staging | [`#qa-staging`](https://gitlab.slack.com/messages/CBS3YKMGD) |
 | [Preprod](https://ops.gitlab.net/gitlab-org/quality/preprod/pipelines) | Smoke, Reliable | After [deployment to preprod](/handbook/engineering/infrastructure/environments/#pre) during Security and Patch releases | [`#qa-preprod`](https://gitlab.slack.com/archives/CR7QH0RV1) |
 | [Nightly packages](https://gitlab.com/gitlab-org/quality/nightly/pipelines) | Full | [Daily at 4:00 am UTC](https://gitlab.com/gitlab-org/quality/nightly/pipeline_schedules). | [`#qa-nightly`](https://gitlab.slack.com/messages/CGLMP1G7M) |
 | [GitLab `master`](https://gitlab.com/gitlab-org/gitlab/pipelines) | Full | When the `package-and-qa job` executes from a [scheduled pipeline every 2 hours](https://gitlab.com/gitlab-org/gitlab/pipeline_schedules). | [`#qa-master`](https://gitlab.slack.com/archives/CNV2N29DM) |
@@ -55,9 +56,10 @@ If there's a failure, we use emoji to indicate the state of its investigation:
 
 Start with a brief analysis of the failure. The aim of this step is to make a quick decision about how much time you can spend investigating in each failure.
 
-In the relevant Slack channel:
+Your priority is to make sure we have an issue for each failure, and to communicate the status of its investigation and resolution.
 
-1. Apply the :eyes: emoji to indicate that you're investigating the failure(s).
+Known failures should be linked to the current [pipeline triage report](https://gitlab.com/gitlab-org/quality/pipeline-triage/-/issues), however issues can be opened by anyone and are not linked automatically, so be sure to confirm there is no existing issue before creating one:
+
 1. Search for existing issues that have already been created with the `failure::*` label. By order of likelihood:
    1. [`failure::investigating`](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=failure%3A%3Ainvestigating)
    1. [`failure::test-environment`](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=failure%3A%3Atest-environment)
@@ -65,16 +67,18 @@ In the relevant Slack channel:
    1. [`failure::flaky-test`](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=failure%3A%3Aflaky-test)
    1. [`failure::stale-test`](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=failure%3A%3Astale-test)
 1. If the issue has already been reported please use the existing issue to track the latest status.
-1. If there is no existing issue for the failure, please create an issue using one of classification labels via the steps below.
-1. If there's a system failure (e.g., Docker or runner failure), retry the job and apply the :retry: emoji. Read below for examples of system failures.
-1. Adding a :fire_engine: emoji. It can be helpful to reply to the failure notification with a link to the issue(s), but this isn't always necessary, especially if the failures are the same as in the previous pipeline and there are links there.
+1. If there is no existing issue for the failure, please create an issue using one of [classification labels](#4-classify-and-triage-the-test-failure) via the steps below.
 
-Your priority is to make sure we have an issue for each failure. Each new failure should have an issue tracking its resolution.
+In the relevant Slack channel:
+
+1. Apply the :eyes: emoji to indicate that you're investigating the failure(s).
+1. If there's a system failure (e.g., Docker or runner failure), retry the job and apply the :retry: emoji. Read below for examples of system failures.
+1. If an issue exists, add a :fire_engine: emoji. It can be helpful to reply to the failure notification with a link to the issue(s), but this isn't always necessary, especially if the failures are the same as in the previous pipeline and there are links there.
+1. If you create a new issue, add a :boom: emoji.
 
 If there are multiple failures we recommend that you identify whether each one is old (i.e., there is an issue open for it), or new. For each new failure, open an issue that includes only the required information. Once you have opened an issue for each new failure you can investigate each more thoroughly and act on them appropriately, as described in later sections.
 
 The reason for reporting all new failures first is to allow faster discovery by engineers who may find the test failing in their own merge request test pipeline.  If there is no open issue about that failure, the engineer will have to spend time trying to figure out if their changes caused it.
-
 
 #### 2. Create an issue
 
@@ -85,6 +89,7 @@ Please use this step if there are no issues created to capture the failure. If t
    *  For staging environment-related failures, you can post a question in [`#infrastructure-lounge`](https://gitlab.slack.com/archives/CB3LSMEJV), or open an issue in the [infrastructure project](https://gitlab.com/gitlab-com/gl-infra/infrastructure)
    *  Ask for help in [`#quality`](https://gitlab.slack.com/archives/C3JJET4Q6) if you're unsure where to file the issue.
 1. In the relevant Slack channel, add the :boom: emoji and reply to the failure notification with a link to the issue.
+1. Add the issue as a related issue to the current pipeline triage report.
 
 #### 3. Investigate the failure further
 
@@ -190,7 +195,7 @@ The failure was caused by a bug in the application code.
 - Do *not* [quarantine][quarantining tests] the test immediately unless the bug won't be fixed quickly (e.g. if it is a minor/superficial bug). Instead, leave a comment in the issue for the bug asking if the bug can be fixed in the current release. If it can't, quarantine the test.
 - When the reason for quarantining a test is because of a low severity bug in the code which will not be fixed in the upcoming couple of releases, add `type: :bug` in the `quarantine` tag.
 
-**Note**: GitLab maintains a [daily deployment cadence](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/880) so a breaking change in `master` reaches Canary and Production fast. Please communicate broadly to ensure that the corresponding [Product Group](/handbook/product/product-categories/#devops-stages) is aware of the regression and action is required. If the bug is [qualified for dev escalation](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#scope-of-process) (example: `P1/S1` issue that blocks the deployment process), consider involving [On-call Engineers](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) in the [`#dev-escalation`](https://gitlab.slack.com/archives/CLKLMSUR4) channel. To find out who’s on-call follow the links in the channel subject line.
+**Note**: GitLab maintains a [daily deployment cadence](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/880) so a breaking change in `master` reaches Canary and Production fast. Please communicate broadly to ensure that the corresponding [Product Group](/handbook/product/product-categories/#devops-stages) is aware of the regression and action is required. If the bug is [qualified for dev escalation](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#scope-of-process) (example: `priority::1/severity::1` issue that blocks the deployment process), consider involving [On-call Engineers](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) in the [`#dev-escalation`](https://gitlab.slack.com/archives/CLKLMSUR4) channel. To find out who’s on-call follow the links in the channel subject line.
 
 To find the appropriate team member to cc, please refer to the [Organizational Chart](/company/team/org-chart/). The [Quality Engineering team list](/handbook/engineering/quality/#department-members) and [DevOps stage group list](/handbook/product/product-categories/#devops-stages) might also be helpful.
 
@@ -237,7 +242,7 @@ A job may fail due to infrastructure or orchestration issues that are not relate
 If you've found that the test is the cause of the failure (either because the application code was changed or there's a bug in the test itself), it will need to be fixed. This might be done by another SET or by yourself. However, it should be fixed as soon as possible. In any case, the steps to follow are as follows:
 
 - Create a merge request (MR) with the fix for the test failure.
-- Apply the ~"Pick into auto-deploy" and ~P1 labels.
+- Apply the ~"Pick into auto-deploy" and ~"priority::1" labels.
 
 If the test was flaky:
 

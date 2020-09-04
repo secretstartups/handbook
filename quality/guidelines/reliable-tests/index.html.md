@@ -34,7 +34,7 @@ These are the steps required to promote a new test to reliable
 3. Once the failures are addressed, the quarantine tag is removed.
 4. If the new tests do not fail while out of quarantine for the seven days, they are promoted to reliable.
 
-**Note:** the DRI for promoting new tests to reliable is the author of the MR that adds the new test(s).
+**Note:** the DRI for promoting new tests to reliable is the author of the MR that adds the new test(s). The author of the reliable test should consider adding documentation on how to run and debug the test prior to promoting it.
 
 ### What to do when a reliable test fails?
 
@@ -52,7 +52,7 @@ In this case, the following process should be followed.
 
 **Note:** A test is still reliable if it fails due to a bug in the application code, or due to issues with the application infrastructure that the test is not expected to handle.
 
-**Note 2:** there's a detailed list of possible failures available in the debugging failing tests guideline, on [section 4. Classify and triage the failure](/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#4-classify-and-triage-the-failure)
+**Note 2:** there's a detailed list of possible failures available in the debugging failing tests guideline, on [section 4. Classify and triage the failure](/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#4-classify-and-triage-the-test-failure)
 
 ### How to run the reliable tests
 

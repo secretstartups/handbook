@@ -29,15 +29,6 @@ Our defect SLA can be viewed at:
 The Quality Engineering department employs a number of tools and automation in addition to manual intervention to help us achieve this goal.
 The work in this area can been seen in our department roadmap under [Triage](/handbook/engineering/quality/roadmap/#triage-track-roadmap-view) and [Measure](/handbook/engineering/quality/roadmap/#measure-track-roadmap-view) tracks of work.
 
-## Communicate early and broadly about expected automation impact
-
-Be sure to give a heads-up in the relevant Slack channels (e.g. `#development`,
-`#product`) and the company call when an automation is expected to triage more
-than 100 issues or merge requests at once.
-
-That is usually the case when migrating labels (e.g. migrating team labels to
-stage/group labels).
-
 ## Label renaming
 
 There is a large amount of automation that uses stage, group, and category labels. We ask that Product Managers create an issue in triage-ops when any of the following changes occur. This issue helps ensure limited to no impact to automation and reports.
@@ -50,8 +41,8 @@ There is a large amount of automation that uses stage, group, and category label
 
 _Regarding legacy team labels, the mapping can be seen in [Automation to ensure that issues and MRs with legacy team labels have a 1:1 mapping to their devops stage or group label](https://gitlab.com/gitlab-org/quality/triage-ops/issues/201)._
 
-Our triage bot will automatically infer stage and group labels based on the
-category/feature and team labels already set on an issue. This is available for **open** issues.
+Our triage bot will automatically infer section, stage, and group labels based
+on the category/feature and team labels already set on an issue. This is available for **open** issues.
 
 The most important rules are:
 
@@ -59,6 +50,7 @@ The most important rules are:
 * A group label is chosen only if the highest group match from its category labels is > 50%.
 * A group label is chosen only if it matches the already set stage label (if applicable).
 * A stage label is set based on the chosen or already set group label.
+* A section label is set based on the chosen or already set group or stage label.
 * The bot leaves a message that explains its inference logic.
 
 The following logic was initially implemented in
@@ -87,6 +79,10 @@ graph TB;
   G{Group is detected based on category labels<br>with a match rate > 50% among<br>all category labels?} -- Yes --> X7[Set group and<br>stage labels.];
   G -- No --> X8[Manual triage<br>required.];
 ```
+
+After the above inference is done, a section label will be added based on the
+inferred or existing stage or group label. An explanation will not be added
+in this step if the inferred labels contain only a section label.
 
 Check out the
 [list of actual use-cases](https://gitlab.com/gitlab-org/quality/triage-ops/merge_requests/155#test-cases)
@@ -123,68 +119,33 @@ files.
 
 ### Newly created unlabelled issues requiring first-triage
 
-This report contains the 66 most recent unlabelled issues requiring initial triage. The goal is to ensure we achieve [partial triage](/handbook/engineering/quality/issue-triage#partial-triage) before the issue is picked up by a Product Manager and Engineering Manager in that area.
+This report contains the 72 most recent unlabelled issues requiring initial triage. The goal is to ensure we achieve [partial triage](/handbook/engineering/quality/issue-triage#partial-triage) before the issue is picked up by a Product Manager and Engineering Manager in that area.
 
 * Triage owner: Quality Department Engineers.
-* Triage action:
-  1. Check for [duplicate issues](/handbook/engineering/quality/issue-triage/#duplicates) in this project and others (e.g. a new issue in EE may already exist in CE).
-      * If identified as a duplicate bug, the new issue can be closed with a note similar to:
+* Triage action: Follow the instructions in the triage report.
+  * Enlist help as needed by mentioning folks in the [#triage](https://gitlab.slack.com/messages/C39HX5TRV) slack channel.
+  * Example: [https://gitlab.com/gitlab-org/gitlab-ce/issues/57834](https://gitlab.com/gitlab-org/gitlab-ce/issues/57834)
 
-        ```
-        Hey @author. Thanks for raising an issue. I've checked this for you and found this has already been reported in the following issue(s):
-        * #issues
+#### Manual creation
 
-        Please add your thoughts and feedback on the original issue.
+Sometimes the unlabelled triage report creation fails due to spam detection. When the issue is not created, a notification for failure of the `verify-unlabelled` job will be raised to the `#triage-automations` channel.
 
-        Closing this issue in favour of the original.
+The issue can be created manually using the following command:
 
-        /duplicate #issues
-        ```
+```
+bundle exec gitlab-triage --debug --r ./plugins/all.rb --token PERSONAL_API_TOKEN --source projects --source-id gitlab-org/gitlab -f ./policies/stages/report/unlabelled-issues.yml
+```
 
-      * If identified as a duplicate feature proposal, the new issue can be closed with a note similar to:
+### Newly created Community contribution merge requests requiring first-triage
 
-        ```
-        Hey @author. Thanks for your request. I've checked this for you and found this has already been proposed in the following issue(s):
-        * #issues
+This report contains recent wider community contribution merge requests requiring initial triage.
+The goal is for coaches to add stage and group labels (as well as type and category labels, ideally),
+so that the relevant Product Manager or Engineering Manager can be pinged later on based on these labels.
 
-        Please add your thoughts and feedback on the original issue. Don't forget to upvote!
-
-        Closing this in favour of the original issue.
-
-        /duplicate #issues
-        ```
-
-  1. Add a [type label](https://gitlab.com/gitlab-org/gitlab/blob/master/doc/development/contributing/issue_workflow.md#type-labels).
-    * If identified as a bug, add a [severity label](/handbook/engineering/quality/issue-triage/#severity).
-  1. Add a [team label](https://gitlab.com/gitlab-org/gitlab/blob/master/doc/development/contributing/issue_workflow.md#team-labels)
-  and [stage label](https://gitlab.com/gitlab-org/gitlab/blob/master/doc/development/contributing/issue_workflow.md#stage-labels).
-  1. If it is unclear whether the issue is a bug or a support request:
-    * @mention the PM/EM for the [relevant group](/handbook/product/product-categories/) and ask for their opinion.
-  1. If the issue is a request for help:.
-      * Use this template to provide resources and close the issue:
-
-        ```
-        Hey @author. Based on the information given, this request for support is out of the scope of the Issue tracker (which is for new Bug Reports and Feature Proposals). Unfortunately, I won't be able to help get it resolved. However, for support requests we have several resources that you can use to find help and support from the Community, including:
-        * [Technical Support for Paid Tiers](https://about.gitlab.com/support/)
-        * [Community Forum](https://forum.gitlab.com/)
-        * [Reference Documents and Videos](https://about.gitlab.com/get-help/#references)
-
-        Please refer to our [Support page](https://about.gitlab.com/support/) for more information.
-
-        If you believe this was closed in error, please feel free to re-open the issue.
-
-        /label ~"support request"
-        /close
-        ```
-
-      * If the issue is re-opened, the person who did the initial triage should get an email notification.  They would then be responsible for re-evaluating the issue.
-      * (Optional) Alternatively, instead of closing the issue when using the template above, you could take on the role of customer support and ask the reporter for more information so we can properly assist them. If you do this, add the `~"awaiting feedback"` label.
-  1. If the issue is spam:
-    * [Report the abuse](https://docs.gitlab.com/ee/user/abuse_reports.html) and make the issue confidential. Flag the report that is raised in the [#abuse](https://gitlab.slack.com/messages/C0HPYBJ3D) slack channel with a link to the issue and alert the `@abuse-team`.
-  1. (Optional) Add relevant [subject labels](https://gitlab.com/gitlab-org/gitlab/blob/master/doc/development/contributing/issue_workflow.md#subject-labels).
-  1. (Optional) Mention relevant PM/EMs from the relevant stage group from [product devstages categories](/handbook/product/product-categories/#devops-stages).
-* Enlist help as needed by mentioning folks in the [#triage](https://gitlab.slack.com/messages/C39HX5TRV) slack channel.
-* Example: [https://gitlab.com/gitlab-org/gitlab-ce/issues/57834](https://gitlab.com/gitlab-org/gitlab-ce/issues/57834)
+* Triage owner: Merge request coaches.
+* Listed merge requests: All which have been created in the last 24 hours.
+* Triage action: Follow the instructions in the triage report.
+  * Example: [https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/364](https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/364)
 
 ### Group level bugs, features, and UX debt
 
@@ -196,7 +157,7 @@ The report itself is divided into 4 main parts.
 * UX debt issues
 * Frontend bugs
 * Bugs (likely backend)
-* `~P1` and `~P2` bugs past the target SLO.
+* `~priority::1` and `~priority::2` bugs past the target SLO.
 
 The bug sections also contains a heatmap.
 
@@ -243,7 +204,7 @@ This section contains issues with the `~"bug"` label without priority and severi
   1. Assign a [Severity Label](/handbook/engineering/quality/issue-triage/#severity).
   1. Assign either a versioned milestone or to the `Backlog`.
 
-#### P1 & P2 bugs past SLO
+#### priority::1 & priority::2 bugs past SLO
 
 This section contains bugs which has past our targeted SLO based on the priority set. This is based on our [missed SLO detection](/handbook/engineering/quality/triage-operations/index.html#missed-slo) triage policy.
 
@@ -266,7 +227,12 @@ collect them for identifying the actions we need to take.
      1. Reminding the author about it.
      1. Changing the DRI.
 
-An example: [Fill me](#)
+An example report: [Idle merge requests report for `group::source code` - 2020-07-23](https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/265)
+
+#### Why references without an actual link
+
+Using actual links to the merge requests will update the merge request
+which will remove them from the future report.
 
 ### Community merge requests requiring attention
 
@@ -286,7 +252,9 @@ The second part contains 20 merge requests that weren't updated for 2 months or 
 
 ## Triage automation
 
-General triage automation is run to label and update issues which help with reporting and milestone transition.
+General triage automation is run to label and update issues which help with
+reporting and milestone transition. This is handled by
+[triage-ops](https://gitlab.com/gitlab-org/quality/triage-ops).
 
 ### Milestone reschedule
 
@@ -331,10 +299,10 @@ Issues which have a label of `~Deliverable` without a milestone will have the mi
 
 ### Missed SLO
 
-Issues which have a priority and missed the [SLO target](/handbook/engineering/quality/issue-triage/#priority) will be labeled with `~missed-SLO`. The calculation for elapsed time starts from the date of the priority label being applied. This enables reporting on SLO target adherence.
+Issues which have a severity label and missed the [SLO target](/handbook/engineering/quality/issue-triage/#severity) will be labeled with `~missed-SLO`. The calculation for elapsed time starts from the date of the severity label was applied. This enables reporting on SLO target adherence.
 
-* Automation Condition: Issue with priority label present and is opened past SLO target.
-* We currently only detect missed SLOs for `~P1` and `~P2` bugs.
+* Automation Condition: Issue with severity label present and is remains in an open state past SLO target.
+* We currently only detect missed SLOs for `~priority::1` and `~priority::2` bugs.
 * Automation Action:
   * The label `~missed-SLO` is applied.
 * Example: <https://gitlab.com/gitlab-org/gitlab-ce/issues/61662>
@@ -354,11 +322,11 @@ Issues with the `~workflow::blocked`, `~workflow::design`, `~workflow::planning 
 
 ### Master broken categorization
 
-Issues or merge requests that have a label of `~master:broken` will have labels of `~P1` and `~S1` applied. This ensures that requests which break master are sufficiently categorized for reporting.
+Issues or merge requests that have a label of `~"master:broken"` will have labels of `~"priority::1"` and `~"severity::1"` applied. This ensures that requests which break master are sufficiently categorized for reporting.
 
-* Automation Condition: Open issue or merge request with `~master:broken` label.
+* Automation Condition: Open issue or merge request with `~"master:broken"` label.
 * Automation Action:
-  * The `~P1` and `~S1` labels are applied.
+  * The `~"priority::1"` and `~"severity::1"` labels are applied.
 * Example: <https://gitlab.com/gitlab-org/gitlab-ee/issues/12363>
 * Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-reminders.yml#L27-45>
 
@@ -395,6 +363,55 @@ Merged merge requests with the `~"Community contribution"` label and no mileston
   *  The relevant milestone is set based on the `merged_at` of the merge request and the `start_date` and `due_date` of the milestone
 *  Example: <TBD>
 *  Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/add-milestone-to-community-merge-requests.yml>
+
+### Auto-close inactive bugs
+
+GitLab values the time spent by contributors on reporting bugs. However, if a bug remains inactive for a very long period, it will qualify for auto-closure.
+The following is the policy for identification and auto-closure of inactive bugs.
+
+- If a `~"severity::3"` or `~"severity::4"` `~"bug"` issue is inactive for at least 12 months, it will be
+identified as eligible for auto-closure. At this point, the following actions occur:
+    - Application of `~"vintage"` to indicate the issue has been inactive for a year.
+    - Application of `~"stale"` to indicate that it is currently being identified for auto-closure.
+    - Comment by GitLab Bot to the author to check whether the reported bug still persists and to comment accordingly within the next 7 days.
+- After 7 days, one of the below mentioned actions happen:
+    - Issues which have not received a comment will be closed and the `~"auto-closed"` is applied.
+    - Issues with a comment from anyone other than the gitlab-bot in the last 7 days are considered active and `~"stale"` is removed
+- Policy: [https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/close-stale-bugs.yml](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/close-stale-bugs.yml)
+
+## Reactive triage automation
+
+Reactive triage automation is complementary to general triage automation where
+realtime feedback provides an improved developer experience. This is handled by
+[triage-serverless](https://gitlab.com/gitlab-org/quality/triage-serverless).
+
+### Ensure priorities for availability issues
+
+For issues labelled `~"availability"`, the minimal are enforced with the
+guidelines at
+<https://about.gitlab.com/handbook/engineering/quality/issue-triage/#availability-prioritization>
+
+### Ensure no deprecated backstage labels are added
+
+Whenever `~"backstage [DEPRECATED]"` is added, it'll remove it and hint
+about why it should not be added, and alternatives will be provided.
+
+### Add customer label whenever a customer associated link is added
+
+The `~"customer"` label is applied when a customer associated link is applied.
+
+The following URLs are considered customer associated links:
+
+* `gitlab.zendesk.com`
+* `gitlab.my.salesforce.com`
+
+### Add type label from subtype
+
+Whenever a subtype label is added, the corresponding type label is added.
+Current type labels with subtype labels are:
+
+* `~"feature"`
+* `~"tooling"`
 
 ## Resources
 
