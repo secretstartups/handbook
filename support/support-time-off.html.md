@@ -84,6 +84,7 @@ absence.
 ##### Start with these steps for all absences of at least half a day
 
 1. Use PTO Ninja to schedule the time
+
    PTO Ninja uses your calendar links to block off time in your Google Calendar,
    which has the cascading effect that Calendly will also show you as busy. As a
    result:
@@ -98,11 +99,13 @@ absence.
 ##### Then, for absences of one or two days
 
 1. Check with your customers
+
    For any tickets that will still be open and active during your absence, and
    that might require an update during that time, ask the customer whether they
    would prefer to pause the ticket till your return or have someone else step
    in to work with them. If they want to pause, put the ticket on hold.
 1. Groom your queue
+
    For each ticket that won't be on hold, create an internal comment summarizing
    the status and plan. Specifically, be sure to include:
    - A concise statement of the problem or request
