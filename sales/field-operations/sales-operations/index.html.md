@@ -420,11 +420,12 @@ In the event our data enrichment tools are outdated or incorrect (primary addres
 <details>
 <summary markdown='span'>Process for Requesting TSP Changes:</summary>
 
-**Request Process:**
+**Sales Request Process:**
 1. Enter desired TSP information into the following fields (this can be either Account, Employee Count, or both).
 1. Be sure to include source of correct data (ROE must still be followed)   
+          
           *  `[User Input] Employee Count`
-          *  `[User Input] Employee Source`
+          *  `[User Input] Employee Source`     
           *  `[User Input] Address Street`
           *  `[User Input] Address City`
           *  `[User Input] Address State`
@@ -436,7 +437,7 @@ In the event our data enrichment tools are outdated or incorrect (primary addres
     *  **Rejected** - Reason added to `[TSP] Decision Rationale` field.
     *  **Needs Approval/More Info** - Info needed added to `[TSP] Decision Rationale` field.          
 
-1. Once reviewed and if approved by Ops, turnaround time for Approved TSP changes to re-populate typically takes 24-48 hours.
+1. Once reviewed and if approved by Ops, turnaround time for Approved TSP changes will take 48 hours re-populate.
 
  <details>
 <summary markdown='span'>Operators Guide: Process for Requesting TSP Changes:</summary>         
@@ -444,6 +445,7 @@ In the event our data enrichment tools are outdated or incorrect (primary addres
 **Operations Review Process:**
 
 1. Ops will review these requests on a weekly basis and update the Account Review Admin fields on the account with the accepted `[User Inputs]` data
+          
           * `Number of Employees: Manual - Admin`
           * `Account Address - Manual Source - Admin`
           * `[Admin] Address Street`
@@ -454,7 +456,7 @@ In the event our data enrichment tools are outdated or incorrect (primary addres
           * `[Admin] Address Country` 
 
 1. Ops provide theresponse in the `[TSP] Override Status` field:
-    *  **Approved** - Account changes accepted, & `[TSP] Transfer Date` populated by Ops.
+    *  **Approved** - Account changes accepted, & enter the`[TSP] Transfer Date` date at least one day in the future to allow Salesforce jobs to upate overnight before the TSP job runs.
     *  **Rejected** - Reason added to `[TSP] Decision Rationale` field.
     *  **Needs Approval/More Info** - Info needed added to `[TSP] Decision Rationale` field.
 
