@@ -11,18 +11,11 @@ title: Vendor Contract Issue Process - Field Marketing and Events
 - TOC
 {:toc}
 
-## Procurement Process Flow
-<div class="flex-row" markdown="0" style="height:100px;">
-  <a href="/handbook/finance/procurement/prior-to-contacting-procurement/" class="btn btn-purple" style="width:220px;margin:5px;display:flex;align-items:center;height:100%;">1. Prior to contacting procurement</a>  
-  <a href="/handbook/finance/procurement/procurement-services/" class="btn btn-purple-inv" style="width:220px;margin:5px;display:flex;align-items:center;height:100%;">2. Requesting Procurement Services and Vendor Contract Issue process</a>
-  <a href="/handbook/finance/procurement/vendor-terms-and-conditions/" class="btn btn-purple" style="width:220px;margin:5px;display:flex;align-items:center;height:100%;">3. Vendor Terms and Conditions</a>
-</div>
-
-## <i class="fas fa-stream" id="biz-tech-icons"></i> Procurement process flow
-<div class="flex-row" markdown="0" style="height:100px;">
-  <a href="/handbook/finance/procurement/prior-to-contacting-procurement/" class="btn btn-purple" style="width:220px;margin:5px;display:flex;align-items:center;height:100%;">1. Prior to contacting procurement</a>  
-  <a href="/handbook/finance/procurement/procurement-services/" class="btn btn-purple" style="width:220px;margin:5px;display:flex;align-items:center;height:100%;">2. Requesting Procurement Services and Vendor Contract Issue process</a>
-  <a href="/handbook/finance/procurement/vendor-terms-and-conditions/" class="btn btn-purple" style="width:220px;margin:5px;display:flex;align-items:center;height:100%;">3. Vendor Terms and Conditions</a>
+## Procurement toolkit
+<div class="flex-row" markdown="0" style="height:120px;">
+  <a href="/handbook/finance/procurement/vendor-selection-process/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;">Vendor selection process</a>  
+  <a href="/handbook/finance/procurement/purchase-request-process/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;">Purchase request process</a>
+  <a href="/handbook/finance/procurement/vendor-guidelines/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Vendor guidelines</span></a>
 </div>
 
 ## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Deep Dive on the Field Marketing and Events Vendor Purchase Request Process

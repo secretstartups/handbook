@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Prior to contacting Procurement
+title: Vendor Selection Process
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
@@ -11,15 +11,15 @@ title: Prior to contacting Procurement
 - TOC
 {:toc}
 
-## Procurement Process Flow
-<div class="flex-row" markdown="0" style="height:100px;">
-  <a class="btn btn-purple-inv" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;">YOU ARE HERE: Prior to contacting procurement</a>  
-  <a href="/handbook/finance/procurement/procurement-services/" class="btn btn-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;">2. Requesting Procurement Services and Vendor Contract Issue process</a>
-  <a href="/handbook/finance/procurement/vendor-terms-and-conditions/" class="btn btn-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;">3. Vendor Terms and Conditions</a>
+## Procurement toolkit
+<div class="flex-row" markdown="0" style="height:110px;">
+  <a class="btn cta-btn purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;">YOU ARE HERE: Vendor selection process</a>  
+  <a href="/handbook/finance/procurement/purchase-request-process/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;">Purchase request process</a>
+  <a href="/handbook/finance/procurement/vendor-guidelines/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Vendor guidelines</span></a>
 </div>
 
-### Prior to Contacting Procurement
-Prior to engaging Procurement, please review the below guidelines:
+### Vendor Selection Process
+Please review the below guidelines:
 1. Review the market capabilities defined by your overall spend *before* selecting your vendor.
 1. Before sharing details and/or confidential information regarding GitLab business needs, obtain a [Mutual Non-Disclosure Agreement](https://drive.google.com/file/d/1kQfvcnJ_G-ljZKmBnAFbphl-yFfF7W5U/view?usp=sharing) from the potential vendor(s). Refer to the [Signature Authorization Matrix](/handbook/finance/authorization-matrix/) for signing authority. 
    - Create a vendor contract request issue to facilitate this process.

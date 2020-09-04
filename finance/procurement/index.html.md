@@ -32,11 +32,11 @@ Finance vendor contract request issues are required for all third party purchase
 1. **Create an issue 60-90 days before you need the service/product** to allow for best negotiations and terms.
 1. The sooner procurement is engaged, the better.
 
-## <i class="fas fa-stream" id="biz-tech-icons"></i> Procurement process flow
-<div class="flex-row" markdown="0" style="height:100px;">
-  <a href="/handbook/finance/procurement/prior-to-contacting-procurement/" class="btn btn-purple" style="width:220px;margin:5px;display:flex;align-items:center;height:100%;">1. Prior to contacting procurement</a>  
-  <a href="/handbook/finance/procurement/procurement-services/" class="btn btn-purple" style="width:220px;margin:5px;display:flex;align-items:center;height:100%;">2. Requesting Procurement Services and Vendor Contract Issue process</a>
-  <a class="btn btn-purple-inv" style="width:220px;margin:5px;display:flex;align-items:center;height:100%;"> YOU ARE HERE: Vendor Terms and Conditions</a>
+## <i class="fas fa-stream" id="biz-tech-icons"></i> Procurement toolkit
+<div class="flex-row" markdown="0" style="height:110px;">
+  <a href="/handbook/finance/procurement/vendor-selection-process/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span>Vendor selection process</span></a>  
+  <a href="/handbook/finance/procurement/purchase-request-process/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span>Purchase request process</span></a>
+  <a href="/handbook/finance/procurement/vendor-guidelines/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Vendor guidelines</span></a>
 </div>
 
 ## <i class="fas fa-bullseye" id="biz-tech-icons"></i> Procurement Main Objectives

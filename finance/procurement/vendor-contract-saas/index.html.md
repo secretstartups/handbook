@@ -11,6 +11,13 @@ title: Vendor Contract Issue Process
 - TOC
 {:toc}
 
+## <i class="fas fa-stream" id="biz-tech-icons"></i> Procurement toolkit
+<div class="flex-row" markdown="0" style="height:110px;">
+  <a href="/handbook/finance/procurement/vendor-selection-process/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;">Vendor selection process</a>  
+  <a href="/handbook/finance/procurement/purchase-request-process/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;">Purchase request process</a>
+  <a href="/handbook/finance/procurement/vendor-guidelines/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Vendor guidelines</span></a>
+</div>
+
 ## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Deep Dive on the Software Vendor Purchase Request Process
 Review the [Prior to Contacting Procurement](https://about.gitlab.com/handbook/finance/procurement/prior-to-contacting-procurement/) page first.
 
