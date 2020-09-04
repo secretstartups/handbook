@@ -433,13 +433,23 @@ In the event our data enrichment tools are outdated or incorrect (primary addres
           *  `[User Input] Address Source`
 
 1.  **Operations Review Process:**
-Ops will review these requests on a periodic basis, and provide a response in the `[TSP] Override Status` field:
-    *  **Approved** - Account changes accepted, & `[TSP] Effective Date` populated by Ops.
+Ops will review these requests on a weekly basis and update the Account Review Admin fields on the account with the accepted `[User Inputs]` data
+          * `Number of Employees: Manual - Admin`
+          * `Account Address - Manual Source - Admin`
+          * `[Admin] Address Street`
+          * `[Admin] Address Post Code`
+          * `Number of Employees: Manual Source -Admin`
+          * `[Admin] Address City`
+          * `[Admin] Address State`
+          * `[Admin] Address Country` 
+
+Ops will provide a response in the `[TSP] Override Status` field:
+    *  **Approved** - Account changes accepted, & `[TSP] Transfer Date` populated by Ops.
     *  **Rejected** - Reason added to `[TSP] Decision Rationale` field.
-    *  **Needs Approval/More Info** - Info needed added to `[TSP] Decision Rationale` field.<p/>
+    *  **Needs Approval/More Info** - Info needed added to `[TSP] Decision Rationale` field.
 1.  **Execution:**
     *  Turnaround time for Approved TSP changes to re-populate typically takes 24-48 hours.
-    *  Accounts with a `[TSP] Effective Date` populated will be re-routed each night to the `[TSP] Next Approved Owner`. 
+    *  Accounts with a `[TSP] Transfer Date` populated will be re-routed each night to the `[TSP] Next Approved Owner`. 
     *  `Account Territory`, `Sales Segment` & `Employees` fields will also be updated upon TSP transfer, to continually align accounts.
 
 </details> 
