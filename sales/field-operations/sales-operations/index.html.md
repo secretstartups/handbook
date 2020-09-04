@@ -424,14 +424,22 @@ In the event our data enrichment tools are outdated or incorrect (primary addres
 1. Enter desired TSP information into the following fields (this can be either Account, Employee Count, or both).
 1. Be sure to include source of correct data (ROE must still be followed)   
           
-          *  `[User Input] Employee Count`
-          *  `[User Input] Employee Source`     
-          *  `[User Input] Address Street`
-          *  `[User Input] Address City`
-          *  `[User Input] Address State`
-          *  `[User Input] Address Post Code`
-          *  `[User Input] Address Country`
-          *  `[User Input] Address Source`
+*  `[User Input] Employee Count`
+
+*  `[User Input] Employee Source` 
+
+*  `[User Input] Address Street`
+
+*  `[User Input] Address City`
+
+*  `[User Input] Address State`
+
+*  `[User Input] Address Post Code`
+
+*  `[User Input] Address Country`
+
+*  `[User Input] Address Source`
+
 1. Ops will review these requests on a weekly basis and provide a response in the `[TSP] Override Status` field:
     *  **Approved** - Account changes accepted
     *  **Rejected** - Reason added to `[TSP] Decision Rationale` field.
@@ -446,14 +454,21 @@ In the event our data enrichment tools are outdated or incorrect (primary addres
 
 1. Ops will review these requests on a weekly basis and update the Account Review Admin fields on the account with the accepted `[User Inputs]` data
           
-          * `Number of Employees: Manual - Admin`
-          * `Account Address - Manual Source - Admin`
-          * `[Admin] Address Street`
-          * `[Admin] Address Post Code`
-          * `Number of Employees: Manual Source -Admin`
-          * `[Admin] Address City`
-          * `[Admin] Address State`
-          * `[Admin] Address Country` 
+* `Number of Employees: Manual - Admin`
+
+* `Account Address - Manual Source - Admin`
+
+* `[Admin] Address Street`
+
+* `[Admin] Address Post Code`
+
+* `Number of Employees: Manual Source -Admin`
+
+* `[Admin] Address City`
+
+* `[Admin] Address State`
+
+* `[Admin] Address Country` 
 
 1. Ops provide theresponse in the `[TSP] Override Status` field:
     *  **Approved** - Account changes accepted, & enter the`[TSP] Transfer Date` date at least one day in the future to allow Salesforce jobs to upate overnight before the TSP job runs.
