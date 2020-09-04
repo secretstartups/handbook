@@ -44,16 +44,9 @@ You have the option of allowing all of the members in an organization to see eac
 
 If you don't have admin access on ZD, you can still make sure the proper SLA is applied by adding the user to the appropriate organization.
 
-Before doing this, you first need to ensure the user is supposed to be associated with the organizations. The current process for this is as follows:
+Before doing this, you first need to ensure the user is supposed to be associated with the organizations. The current process for this is described in the [Adding a customer to an organization (All Zendesk Users)](https://about.gitlab.com/handbook/support/workflows/associating_needs_org_tickets_with_orgs.html#adding-a-customer-to-an-organization-all-zendesk-users) section of the [Associating Needs Org Tickets with Orgs](https://about.gitlab.com/handbook/support/workflows/associating_needs_org_tickets_with_orgs.html) Workflow.
 
-- Locate the organization in Salesforce
-- Check the contacts for the Account in Salesforce
-- If the user's email address is listed there, you may safely associate the user to the organiztion.
-- If the user is not listed there, you will need to reach out to the TAM (Technical Account Manager) or Account Owner (sometimes referred to as AM / Account Manager) to confirm they should be added. Ask the TAM / Account Owner to add the user under the contacts for that Salesforce Account. (You can find the TAM / Account Owner name in Zendesk on the Organization's screen - this is synced from SalesForce.)
-- Once the user is added as a contact in Salesforce, you may safely associate the user to the organization.
-Note: While you are working with the TAM/AM to get the user added as a Salesforce contact, please let the customer know you are reaching out to their TAM/AM to get them properly associated with the organization.
-
-The process to associate a user with an organization is:
+After checking that the user is supposed to be associated with an organization, the process in Zendesk is:
 
 - Click on the users's name in ZD
 - In the "Org" field type the organization name
