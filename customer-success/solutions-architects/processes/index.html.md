@@ -37,6 +37,7 @@ Enterprise Solutions Architects typically support two sales teams made up of Sal
 1. **Slack** Create a public internal team slack channel for your cross-functional team.  This will allow you to collaborate easily without sending DM's.
 1. **Google Drive**  There is a shared [GitLab Sales](https://drive.google.com/drive/folders/0BzQII5CcGHkKSFFJWkx3R1lUdGM?usp=sharing) folder.  Running customer notes and other documents related to a specific customer should be stored in the [Customers and Prospects Subfolder](https://drive.google.com/drive/folders/0B-ytP5bMib9Ta25aSi13Q25GY1U?usp=sharing) under the appropriate letter and customer name subfolder.
 1. **[GitLab Account Management Project](https://gitlab.com/gitlab-com/account-management)** may be used for a POV and/or TAM collaboration with a customer post-sale.
+1. **[Chorus.ai](https://chorus.ai/)** is used to record meetings.  The GitLab Notetaker will automatically join meetings with people outside of GitLab once your account is set up.
 
 ### Quarterly Business Reviews (QBR)
 
