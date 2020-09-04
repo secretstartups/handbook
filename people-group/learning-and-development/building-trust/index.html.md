@@ -103,6 +103,12 @@ Managers can make it clear that they have a vested stake in team members career 
 
 **How to apply taking time out to learn:** People leaders can send a clear message to their teams by sending them weekly learning excrcises to break up the workweek. Try sending out interesting webinars and articles that are relevant to their job family. Encourage team members to take advantage of our tuition reimbursement policy to grow professionally. Managers can also encourage their team to block a portion of their week for focusing on professional development.  
 
+## "No Work Talk" Team Chats
+
+Managers can set up a more relaxed call with their team that is specifically focused on personally getting to know one another as individuals. It helps to remind us all that at the end of the day, we're people and we have unique hobbies, interests, and milestones happening in our lives! **The only rule for this call: no talking about work!** 
+
+**How to apply "no work talk" team chats:** People leaders can set up a calendar invite (with all team members marked as optional) weekly or at a desired cadence. Encourage team members to join and get to know each other better in a remote environment. Come prepared with some possible ice breakers if the conversation doesn't immediately flow. An easy one: what are your plans for the weekend? Timezones can be tricky, so if you're team is represented globally and it's not possible to schedule a single time for all team members to join, it is recommended to rotate the time weekly so that everyone can be included.
+
 ## Summary
 
 Building trust takes time and energy. These are not the only strategies teams can apply to build trust but it is a start. Use this page as a guide to building a cohesive and collaborative team. Trust among teammates is the foundation of almost everything we do at GitLab. 
