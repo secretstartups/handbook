@@ -94,50 +94,6 @@ The fundamental requirements for PCI are:
 
 When dealing with PCI, at no time should an entire credit card number be visible in its full form.  Generally, only the last four numbers of a card should be maintained.  Please make sure that there is no credit information ever jotted down on sticky notes, files, napkins, etc.  If you are aware of any credit card numbers that are not secure, please alert Compliance. 
 
-## Data Protection Impact Assessments (DPIAs)
-
-Recently, the European Union, under the General Data Protection Regulations, require Data Protection Impact Assessments in order to be compliant leaders in the technology world.  Translation: We need to make sure we have our finger on the pulse of any application or system integration involved with GitLab.
-
-While the legal requirements may seem cumbersome, the need is quite apparent. A DPIA ensures all the necessary controls are in place to cover your most important assets - personal information.
-
-For more information, check out GitLab's [DPIA Policy](/handbook/engineering/security/dpia-policy/)
-
-### DPIA General FAQ
-
-**What is a Data Protection Impact Assessment (DPIA)?**
-A DPIA is a tool that is utilized to identify and analyze risks for individuals, which exist due to the use of a certain technology or system by an organization in their various roles (as citizens, customers, patients, etc.). On the basis of the outcome of the analysis, the appropriate measures to remedy the risks should be chosen and implemented. A Process for Data Protection Impact Assessment Under the European General Data Protection Regulation is required. 
-
-DPIAs are addressed in [Article 35 of the GDPR](https://gdpr-info.eu/art-35-gdpr/).
-
-**When is a DPIA required?**
-A DPIA is only required when the data processing is “likely to result in a high risk to the rights and freedoms of natural persons” (GDPR Article 35(1)), but processors must continuously assess the risks created by their processing activities to identify when a type of processing requires them to conduct a DPIA.   The questions in pay to procure process are to assist you in assessing whether a DPIA is required and should be re-evaluated periodically in light of the list of processing operations that the Supervising authority deems subject to the requirement of a DPIA.
-
-The assessment of whether there is a need for a DPIA, as well as any required DPIA should be carried out *prior to* processing. 
-
-**Why is a DPIA Conducted?**
-A DPIA aims to accomplish two outcomes:
-
-1.  Identify the risks associated with processing the collected personal data 
-2.  Establish mitigation strategies and tactics to lessen the identified risks
-
-**Who is involved in the DPIA process?**
-The GDPR establishes that data controllers are responsible to carry out the assessments. Controllers also seek the advice of the data protection officer and "where appropriate" seek the view of data subjects themselves. (Article 35(2) and (9).)
-
-At GitLab, the DPIA process is initiated by a tool's Business Owner during the [Procure to Pay Process](/handbook/finance/procure-to-pay/#procure-to-pay-process), during which the Business Owner must complete a [Privacy Review issue](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=). If a DPIA is required, the Privacy Officer will work with the Business Owner to accomplish this.
-
-### GitLab's DPIA Process FAQs
-
-**Who is responsible for the DPIA?**
-Ultimately, the Business Owner of a tool is the DRI for completing the DPIA. However, there are steps that require input from others at GitLab, including the Privacy Officer and the Data Protection Officer (DPO). These people will walk you through the steps and instruct you on who to consult with for each step. It is important to understand that while the Business Owner is responsible for moving the process forward through the steps, there may be steps during which someone else becomes the DRI for making decisions to address concerns in that step.
-
-**What is considered "personal data"?**
-[Article 4 of the GDPR](https://gdpr-info.eu/art-4-gdpr/) sets out the definitions for the law. The first definition is that of "personal data." 
-
->  ‘personal data’ means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person (GDPR Article 4(1).)
-
-**What is considered a "high risk" to rights and freedoms?**
-The GDPR does not define "high risk," but The European Commission has issued [Guidelines on Data Protection Impact Assessment [DPIA] and Determining Whether Processing is "Likely to Result in a High Risk" for the Purposes of Regulation 2016/679](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=611236). Please review pages 9-12 of this guidance to see included categories, as well as more tangible examples of "high risk."
-
 ## CAN-SPAM
 
 Controlling the Assault of Non-Solicited Pornography and Marketing Act (CAN-SPAM) came into effect in the United States in 2003 and impacts all mass electronic marketing communications. Other countries have similar e-mail spam laws. 
