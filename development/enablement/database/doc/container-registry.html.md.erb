@@ -107,6 +107,8 @@ This approach treats a repository as the first-class model. A repository contain
 
 Minor differences to model 1 include using a single `digest` column to store both algorithm and actual digest and normalizing the media type information into a lookup table.
 
+Reference: [SQL schema](container-registry/alternative_model.sql)
+
 ![alternative_model](container-registry/alternative_model.png)
 
 What is not shown in the diagram is the possibility to have `blobs_layers` being tracked automatically. This can be implemented in the database, but we may also do this from the application. The in-database implementation would rely on a trigger like so:
@@ -183,8 +185,115 @@ Since `manifests` contains the actual  payload of a manifest, too, this may have
 
 A blob has meta-data attached like its `digest`, the `size` or the detected `media_type_id`. This is stored in `blobs` but also in `layers`. The reason for this duplication is that we have queries that scan a range of manifests (e.g. all layers for a manifest). If we only had `manifests.digest`, we would have to lookup this information in `blobs`. This table in turn can only be queried efficiently by `digest`, rendering the lookups single-record queries and effectively a N+1 pattern. This is being mitigated by duplicating the information into `layers`.
 
-##### Reality checks and TODOs
+### Garbage Collection in Model 2
 
-We need to check a couple of things about this approach and make sure assumptions are sane:
+#### Examples of managing potentially dangling records
 
-2. Follow-up with how to serialize blob deletion with layer creation referencing the same blob.
+Note: In most cases, we will have to resolve a repository's `<name>` to its corresponding `<id>` first. This needed so we can use the id as a partitioning key in later queries.
+
+##### Example: Delete manifest
+
+```
+DELETE /v2/<name>/manifests/<digest>
+```
+
+In this case, we delete the corresponding record in `manifests`:
+
+```
+DELETE FROM manifests WHERE repository_id=:id AND digest=:digest
+```
+
+The installed trigger inserts all referenced blobs (for all layers in the manifest) into the `blob_review_queue`. A later GC process inspects those and deletes blobs in case they don't have any references anymore.
+
+##### Example: Delete repository
+
+Deleting a full repository doesn't seem implemented in the [api specs](https://gitlab.com/gitlab-org/container-registry/-/blob/master/docs/spec/api.md#detail). It works like deleting all manifests in the repository.
+
+##### Example: Untagging a manifest
+
+```
+DELETE /v2/<name>/tags/reference/<reference>
+```
+
+In this case, we delete the tag:
+
+```
+DELETE FROM tags WHERE repository_id=:id AND name=:reference
+```
+
+This can lead to untagged manifests which in turn are eligible for deletion. In order to defer this check to background GC, we insert all referenced blobs for this tag/manifest into the `blob_review_queue`.
+
+We might be able to skip this step early in case there is another tag for the same manifest. Note for simplicity, we can also do these checks in GC instead.
+
+##### Example: Uploading a blob, pushing the manifest
+
+```
+PUT /v2/<name>/blobs/uploads/<uuid>
+```
+
+Once a blob upload is finished, we create the record in `blobs` and associate the blobs with the repository through `repository_blobs`. In regular situations, the client might upload more blobs until it pushes the manifest. However, this process might fail and we would be left with dangling blobs (which only have a reference to the repository, but no manifest or layer references it.)
+
+In this case, we would insert the blob digest into the `blob_review_queue` after the upload has finished (and the corresponding records in `blobs, repository_blobs` have been created). By setting `blob_review_queue.review_after` to a time in the future, we can delay the checking of this blob (which effectively defines a timeout until when we expect the client to have pushed the manifest).
+
+Now the client pushes the manifest.
+
+```
+PUT /v2/<name>/manifests/<reference>
+```
+
+We create the corresponding records in `manifests` and `layers`. After completing the verification steps, we can de-queue (delete) the digest from the `blob_review_queue`. This is because we are sure now that there is a reference to this blob and we can skip GC. Note this is optional as the GC process would also be able to figure this out on its own - deleting from the queue is cheap (and likely cheaper than running GC), so this is an optimization.
+
+#### Consuming the blob review queue
+
+We implement a background job system that consumes entries from `blob_review_queue` and performs GC checks and actions. This can be done with go-routines and synchronization on `blob_review_queue` can be implemented with `SELECT ... FOR UPDATE SKIP LOCKED` mechanics.
+
+Note: A particular choice here is that GC is performed on a single blob only. It can be expanded though to support batch GC. However, the database model being used here is optimized for making by-digest lookups.
+
+##### Popping the queue
+
+In order to retrieve the next blob digest for review from the queue (the queue "head"), we find the next non-locked and qualifying record:
+
+```sql
+BEGIN;
+SELECT * FROM blob_review_queue WHERE review_after < NOW() FOR UPDATE SKIP LOCKED LIMIT 1;
+-- now we perform checks and cleanup action
+-- and once done, we remove the digest from the queue:
+DELETE FROM blob_review_queue WHERE digest = :digest;
+COMMIT;
+```
+
+There is a caveat to that: In order to delete the blob from storage, we would perform external IO within an open database transaction (which is an anti-pattern). In order to mitigate this, we can do the following:
+
+```sql
+BEGIN;
+SELECT * FROM blob_review_queue WHERE review_after < NOW() FOR UPDATE SKIP LOCKED LIMIT 1;
+UPDATE blob_review_queue SET review_after = review_after + INTERVAL '5 minutes' WHERE digest = :digest;
+COMMIT;
+
+-- now we perform checks and cleanup action (outside scope of a database transaction)
+-- and once done, we remove the digest from the queue:
+DELETE FROM blob_review_queue WHERE digest = :digest;
+```
+
+The trade-off here is that we have short database transactions but at the expense from changing the queue into having *at least once* semantics. That is, we can see multiple jobs trying to clean up the same digest. For example, when the external IO takes longer than 5 minutes (the offset for `review_after`) or a job fails completely. The assumption is that this is never a problem because the jobs are idempotent.
+
+##### Performing checks
+
+Given a single blob digest, we implement a series of checks to determine whether or not the blob should be deleted from object storage:
+
+1. Any remaining layer references? `SELECT 1 FROM blobs_layers WHERE digest=:digest LIMIT 1`
+2. Any remaining repository references? `SELECT 1 FROM repository_blobs WHERE blob_digest=:digest` (TODO: The partitioning scheme is not suitable here, we might want to have `blobs_repositories` additionally - tbd)
+3. ...?
+
+The database model supports all those checks and we would typically benefit from the partitioning model plus using an efficient index (examples above: single record lookup).
+
+##### Performing cleanup action
+
+Now that we've determined a blob should be deleted, we perform the following steps:
+
+1. Delete blob from storage
+2. Delete record in `blobs` and `blob_review_queue`
+
+We discussed a synchronization need with incoming requests. That is, an incoming request (like putting a manifest referencing this blob or checking) might haver to be serialized with the cleanup action to get consistent results.
+
+TODO: Determine which API requests would have to be serialized and document how serialization works.
