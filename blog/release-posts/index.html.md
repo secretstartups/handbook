@@ -378,7 +378,7 @@ After the 18th of month, and before the 20th, including any late additions shoul
 
 The process for merging late additions is:
 
-1. The DRI pings the release post manager and let them know that there is a late addition for the release post and waits for the RPM's confirmation to proceed.
+1. The DRI pings the release post manager and lets them know that there is a late addition for the release post and waits for the RPM's confirmation to proceed.
 1. Most of the time, the release post manager will accomadate the request, but there may be circumstances where they say no.
 1. The DRI targets the RPI MR to the release branch.
 1. Once the MR is merged, the DRI should let the RPM know.
