@@ -19,7 +19,7 @@ A key part of the customer relationship lifecycle is the renewal phase. TAMs mus
 
 ## Timeframe
 
-Six months before the renewal date for a customer, a CTA will trigger in Gainsight, prompting the TAM to reach out to their aligned account team to discuss strategy and next steps for the renewal. The expectation is that the team will meet internally and speak with the customer regarding the renewal within 60 days, leaving 120 days to run the renewal process.
+Six months before the renewal date for a customer, a CTA will trigger in Gainsight to prompt the TAM to reach out to their aligned account team to discuss strategy and next steps for the renewal. The expectation is that the team will meet internally and speak with the customer regarding the renewal within 60 days. This leaves four months to execute any renewal strategy, such as an account triage.
 
 ## Renewal Playbook Steps
 

@@ -47,9 +47,6 @@ Collecting and making use of customer data and insights is key to customer succe
 ### Initiative: Performance
 Utilizing built-in monitoring instrumentation and [a scalable HA architecture](https://docs.gitlab.com/ee/administration/high_availability/README.html#reference-architecture), The Customer Success team helps ensure implementations of GitLab are operating at peak performance as organization scale and adopt more features.
 
-## Customer Success Playbooks
-See the [Playbooks Page](/handbook/customer-success/playbooks)
-
 ## Customer Success Groups
 ### Solutions Architects
 * [Solutions Architects handbook](/handbook/customer-success/solutions-architects/)
@@ -103,12 +100,6 @@ Visit [this page](/handbook/customer-success/using-salesforce-within-customer-su
 ### Using Gainsight with Customer Success
 
 Visit [this page](/handbook/customer-success/tam/gainsight/) for more information on using Gainsight within Customer Success.
-
-### Customer Success Metrics
-
-We currently have a [Customer Success Metrics](https://gitlab.com/gitlab-com/customer-success/cs-metrics) Project within GitLab. This project is used to requesting new reports, dashboards and suggesting new metrics that we may need for the department.
-
-This will sometimes be cross-referenced with a data & analytics project.
 
 ### Optimized Account Growth Program
 
@@ -167,13 +158,6 @@ Customer Success team members maintain a [FAQ](/handbook/customer-success/faq) t
 * [Sales Development Group Handbook](/handbook/marketing/marketing-sales-development/sdr/)
 * [With Whom to Talk to Ask Questions or Give Feedback on a GitLab feature](/handbook/product/product-categories/#devops-stages)
 * [CEO Preferences when speaking with prospects and customers](/handbook/ceo/#sales-meetings)
-
-### Customer Success & Market Segmentation
-For definitions of the account size, refer to [market segmentation](/handbook/business-ops/resources/#segmentation).
-
-- Large: Strategic Account Leader closes deal and stays on account for growth and renewal. Solutions Architect is assigned pre-sales and transitions the account to a Technical Account Manager after the sale to guide customer adoption and growth.
-- Mid-Market: Account Executive closes deal with Solutions Architect pre-sales assistance. Customer then transfers to Technical Account Manager to guide customer adoption and growth.
-- SMB: Web Portal with Sales Admin and SMB Technical Account Manager oversight.
 
 ### Customer Success Meetings
 
