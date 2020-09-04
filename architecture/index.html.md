@@ -17,13 +17,22 @@ Much like the rest of the software world, we have been wary of all the negative 
 
 We have intuitively known that, at GitLab, Architecture is not a role proper (i.e., no such title exists in the company). We understand *Architecture* as a component of all technical roles, a set of **practices** to leverage the vast amount of experience distributed across the company, and a **workflow** to ensure we can continue to scale efficiently.
 
+## Active Architecture Engagements
+
+Following our [Transparency](https://about.gitlab.com/handbook/values/#transparency) value, all of our architecture roadmaps and blueprints are public and available below.
+
+* [FY21 Roadmaps](roadmap/fy21/)
+    * [FY21-Q3 Blueprints (active)](roadmap/fy21/#fy21-q3-blueprints)
+    * [FY21-Q4 Blueprints](roadmap/fy21/#fy21-q4-blueprints)
+* [FY22 Roadmaps (coming soon)](roadmap/fy22)
+
 ## Architecture at GitLab
 
 At GitLab, **Architecture** is:
 
 * A [collection of **practices**](practice/) that provide technical frameworks to **guide** (rather than dictate) our thinking, design and discussions so we can *iterate* quickly and deliver *results*. These include the [Scalability Practice](practice/scalability/). Others are on the works (such as the Availability Practice).
 * A [*collaborative* **workflow**](workflow/) that provides the necessary organizational amplification to foster *inclusion*, and drive ideas and priorities from all corners of the company.
-* A collection of [**roadmaps**](roadmap/) and [**blueprints**](roadmap/) that are artifacts created using the [**workflow**](workflow/).
+* A collection of 12-month **roadmaps** and 3-month **blueprints** which are artifacts resulting from the [Architecture Evolution Workflow](workflow/).
 
 Such definition implies a solid reliance on **influence** rather than authority to *efficiently* and *transparently* drive decisions, engage stakeholders, and promote trust across the organization
 
@@ -39,11 +48,11 @@ Such definition implies a solid reliance on **influence** rather than authority 
   * DEs are technical partners to Directors and Senior Managers in their Departments ([D-group](/handbook/leadership/#director-group))
   * DEs produce 6-month **blueprints** for their department's technical direction, again aligned with Product
   * DEs also have strong input in aligning OKRs at the department level
-* **Staff Engineer**s (SEs) are DRIs for the Architecture Practice in their respective Teams
+* **Staff Engineers** (SEs) are DRIs for the Architecture Practice in their respective Teams
   * SEs operate at the [Sub-department and Team](https://about.gitlab.com/company/team/structure/#organizational-structure) levels (frequently working with Senior Managers and Managers)
   * SEs are technical partners to Managers in their Department's teams
   * SEs actively participate in quarterly team OKRs
-  * SEs usually own 3-month technical strategies captured in a form of **blueprints**.
+  * SEs usually own 3-month technical strategies captured in a form of **blueprints** which will contribute to the forthcoming team OKRs.
 
 It is worth stressing that partnerships and close working relations as outlined above **are not exclusionary**. GitLab relies heavily on cross-functional, cross-level relationships, and we will continue to foster those relationships to their maximum potential. Thus, the above relationship descriptions simply outline a responsibility perspective vs a boundary of any kind.
 
