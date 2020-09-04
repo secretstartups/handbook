@@ -9,9 +9,9 @@ title: "Sales Guide: Collaborating with GitLab Legal"
 
 Thank you for visiting! The purpose of this resource is to provide Sales reps assistance on: 
     
-(1) [Operational](https://about.gitlab.com/handbook/legal/customer-negotiations/#OPERATIONAL) - How to work with, and engage, GitLab legal; Requirements to close a deal; General FAQ for legal ops, including some parallels to Finance and Deal Desk matters. 
+(1) [Operational](https://about.gitlab.com/handbook/legal/customer-negotiations/#operational) - How to work with, and engage, GitLab legal; Requirements to close a deal; General FAQ for legal ops, including some parallels to Finance and Deal Desk matters. 
 
-(2) [Educational](https://about.gitlab.com/handbook/legal/customer-negotiations/#EDUCATIONAL) - Learning about how and why GitLab legal and our agreements work, to better serve you during a sales cycle; Proactive advice and education to enable you to feel more confident when / if your Customer has legal related questions.   
+(2) [Educational](https://about.gitlab.com/handbook/legal/customer-negotiations/#educational) - Learning about how and why GitLab legal and our agreements work, to better serve you during a sales cycle; Proactive advice and education to enable you to feel more confident when / if your Customer has legal related questions.   
 
 
 ## ENGAGEMENT
