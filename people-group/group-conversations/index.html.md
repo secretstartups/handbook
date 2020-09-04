@@ -212,7 +212,8 @@ Additional links which may be useful when preparing to moderate a call include:
 
 There is a rotating schedule with each Department having a conversation on a regular interval. 
 We usually do not have Group Conversations or Company calls between December 23rd and January 2nd. We also tend to cancel these during [Contribute](https://about.gitlab.com/company/culture/contribute/).
-The schedule with directly responsible individuals (DRI) is as follows:
+
+The schedule with directly responsible individuals (DRI) is as follows through the end of FY21 Q3:
 
 | Week | Day | Group Conversation | DRI |
 |---|---|---|---|
@@ -245,6 +246,51 @@ The schedule with directly responsible individuals (DRI) is as follows:
 | Six  | Wed  | [Alliances](/handbook/alliances/)  | Brandon Jung  |
 | Six  | Thur  | [Community Relations](/handbook/marketing/community-relations/)  | David Planella  |
 | Six  | Fri  | Do Not Schedule  | Do Not Schedule  |
+
+In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Functions with key meetings](https://about.gitlab.com/handbook/finance/key-meetings/#invitees) will have monthly Group Conversations during this period. They are expected to largely leverage their Key Meeting material. Other groups will have one meeting in the eight week cycle. The schedule, with directly responsible individuals (DRI), is as follows starting FY21 Q4:
+
+| Week | Day | Group Conversation | DRI |
+|---|---|---|---|
+| One  | Mon  | [Quality](/handbook/engineering/quality/)  | Mek Stittri  |
+| One  | Tue  | [UX](/handbook/engineering/ux/)  | Christie Lenneville  |
+| One  | Wed  | [Revenue Marketing](/handbook/marketing/revenue-marketing/)  | Evan Welchel  |
+| One  | Thur | [Enablement Section](/handbook/engineering/development/enablement/)  | Josh Lambert  |
+| One  | Fri  | Do Not Schedule  | Do Not Schedule  |
+| Two  | Mon  | [Secure & Defend Section](/handbook/product/product-categories/#secure--defend-section)  | David DeSanto  |
+| Two  | Tue  | [Dev Section](/handbook/product/product-categories/#dev-section)  | Eric Brinkman  |
+| Two  | Wed  | [Ops Section](/handbook/product/product-categories/#ops-section)  | Kenny Johnston  |
+| Two  | Thur | [Growth Section](/handbook/product/product-categories/#growth-section)  | Hila Qu  |
+| Two  | Fri  | Do Not Schedule  | Do Not Schedule  |
+| Three  | Mon  | [Marketing](/handbook/marketing/)  | Todd Barr  |
+| Three  | Tue  | [Support](/handbook/support/)  | Tom Cooney  |
+| Three  | Wed  | [People](/handbook/people-group/)  | Carol Teskey and Dave Gilbert  |
+| Three  | Thur  | [Finance](/handbook/finance/)  | Paul Machle  |
+| Three | Fri | Do Not Schedule  | Do Not Schedule  |
+| Four  | Mon  | [Product](/handbook/product/)   | Scott Williamson  |
+| Four  | Tue  | [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
+| Four  | Wed  | [CRO Group Conversation](/handbook/sales/)  | Michael McBride  |
+| Four  | Thur  | [Development](/handbook/engineering/development/)   | Christopher Lefelhocz  |
+| Four  | Fri  | Do Not Schedule  | Do Not Schedule  |
+| Five  | Mon  | [Security](/handbook/engineering/security/)  | Jan Urbanc  |
+| Five  | Tue  | [Strategic Marketing](/handbook/marketing/product-marketing/)  | Ashish Kuthiala  |
+| Five  | Wed  | [General](/handbook/ceo/)  | Sid Sijbrandij   |
+| Five  | Thur  | [Meltano](/handbook/meltano/)  | Douwe Maan  |
+| Five  | Fri  | Do Not Schedule  | Do Not Schedule  |
+| Six  | Mon  | Open  | Open  |
+| Six  | Tue  | [UX Research](/handbook/engineering/ux/ux-research/)  | Sarah Jones/Adam Smolinski  |
+| Six  | Wed  | [Alliances](/handbook/alliances/)  | Brandon Jung  |
+| Six  | Thur  | [Community Relations](/handbook/marketing/community-relations/)  | David Planella  |
+| Six  | Fri  | Do Not Schedule  | Do Not Schedule  |
+| Seven  | Mon  | [Marketing](/handbook/marketing/)  | Todd Barr  |
+| Seven  | Tue  | [Support](/handbook/support/)  | Tom Cooney  |
+| Seven  | Wed  | [People](/handbook/people-group/)  | Carol Teskey and Dave Gilbert  |
+| Seven  | Thur  | [Finance](/handbook/finance/)  | Paul Machle  |
+| Seven | Fri | Do Not Schedule  | Do Not Schedule  |
+| Eight | Mon  | [Product](/handbook/product/)   | Scott Williamson  |
+| Eight | Tue  | [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
+| Eight | Wed  | [CRO Group Conversation](/handbook/sales/)  | Michael McBride  |
+| Eight | Thur  | [Development](/handbook/engineering/development/)   | Christopher Lefelhocz  |
+| Eight | Fri  | Do Not Schedule  | Do Not Schedule  |
 
 ## Request a new Group Conversation
 
