@@ -206,15 +206,61 @@ Continuous Integration covers a wide feature area, including the non-marketing c
 | [`Good for 1st time contributors`] | [Issues](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Acontinuous%20integration&label_name[]=Good%20for%201st%20time%20contributors) | | Issues that are good for first time community contributors, and could similarly be labeled for `onboarding` |
 
 
-#### Collaboration with UX and Engineering
+### Collaboration with UX and Engineering
 
-Product Designers play a critical role in the development of user facing issues. They collaborate with the [DRI](/handbook/people-group/directly-responsible-individuals/) and the Product Manager to design the user experience for the issue. Once the design is agreed upon, the DRI is assigned to implement that design and functionality during the milestone for which the issue is planned.
+To create a high-quality product that is functional and useful – Engineering, PM and Product Designer need to work closely together, combine methodologies, and often connect throughout the product development.
 
-The DRI is responsible for ensuring their solution matches the design and functionality agreed upon in the issue. The Product Designer will continue to help collaborate on the issue throughout the milestone where needed (e.g. questions, roadblocks, etc.), but their approval on merge requests is not required. Instead, they work with the Product Manager to do feature and UX assurance of the solution once it has been deployed to production.
+Product Designers play a critical role in the product development of user-facing issues. They collaborate with the Engineering and the Product Manager to design the user experience for the features. Once the design solution is proposed, agreed and validated, the Engineering [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is assigned to implement that design and functionality during the milestone for which the issue is planned.
 
-The DRI works with the Product Designer throughout the `workflow:in dev` phase to uncover possible problems with the solution early enough that exhibit unexpected behaviour to what was originally agreed upon. If there are changes to be added that weren't agreed upon in the initial issue - a followup issue should be made and the DRI should work with the Product Manager to schedule that issue in a following milestone. This allows us to focus on [cleanup over signoff](/handbook/values/#cleanup-over-sign-off), iterate quickly on issues with [a low level of shame](/handbook/values/#low-level-of-shame), and still make sure we accomplish what we've agreed upon. We should be careful not to hold off on completing these followup issues so that we don't build up a significant amount of UX debt issues.
+Product Designer, PM, and Engineering use `workflow::design` to discuss possible complexities, challenges, and uncover blockers around the proposed solution. To avoid blocking reviews later in the product development flow, the Product Designer, PM, and Engineering should work collaboratively throughout the feature design and development process to check-in often, so that the UX approval on merge requests is not required.
 
-If we find that solutions are consistently not matching the agreed upon design, we will hold a retrospective with the DRI, designer, and product manager to discuss where the gaps in communication are so that we can improve. It may be necessary to begin requiring a UX approval for merge requests on certain issues to help the DRI meet the requirements.
+#### Inclusive Development
+
+Our process of planning and development relies heavily on overcommunication rather than any approval gates or automated notification mechanisms. We adhere to the proactive mindset and responsibility of everyone involved to make sure every step in the process is as transparent as it can be. 
+
+For both planning and building this means direct, cross-functional, and other relevant stakeholders are included early into the process. This makes sure everyone is able to contribute to the best of their capabilities at the right time in the process. This can include, but is not limited to, GitLab objects, Slack, meetings, and daily standups.
+
+Some practical examples of this are: 
+- When you open up or begin working on an epic, issue, or merge request consider if all stakeholders are aware of this or should be updated. If unsure, error on the side of updating rather than keeping silent. 
+- When making significant progress make sure this is seen by the relevant stakeholders even if you don't require immediate feedback by mentioning them rather than relying on automated email notifications. Make their involvement explicit.
+
+Note: A good practice when only wanting to inform rather than requesting a direct action from the mentioned stakeholders is to put `FYI` directly following the @mention handle.
+
+#### Breaking down issues for iteration
+
+We suggest using the below steps to reach the best results in the shortest time:
+
+* Once, through user research, we have identified a user need and have generated the big idea to meet that need, Product Designer drives the process of moving that idea into a solution prototype involving PM and Engineering Team early and often. 
+* We take that prototype through a user testing to validate it is solving the original problem. 
+* When the solution is validated with users - it is time to break the big solution down into smaller issues involving a whole team (PM, Engineers, Product Designer, QA and Technical Writer). 
+* Engineers, Product Designer, EM and PM are expected to work closely together to find the most technically feasible and smallest feature set to deliver value to early customers and provide feedback for future product development. Check out [iteration strategies](#iteration-strategies) for help.
+
+We aim to design broadly for an epic or full feature at least one milestone ahead of time and then break the big solution into smaller issues to pick up in the next milestones.
+Suppose working one milestone ahead to design the big solution is not possible. In that case, Engineering and Product Designer will define the first most technically feasible and smallest feature set ([MVC](https://about.gitlab.com/handbook/values/#minimal-viable-change-mvc)) to satisfy early customers that will be implemented in the same milestone.
+
+#### Reviewing Merge Requests
+
+UX should not be seen as a "gate" for reviewing Merge Requests. To avoid blocking reviews and speed up the response time, Product Designer and the Engineering DRI should work collaboratively throughout the feature development process and check-in often, so the UX approval at the stage of reviewing merge request is not required. 
+
+Tips to avoid blocking reviews:
+- Product Designers should point Engineers to the needed patterns to ensure product consistency and speed up development time. (example: Pajamas components for Frontend engineers, API documentation for Back-end engineers)
+- Whenever Engineering DRI submits a Merge Request that is causing changes to UI or user experience - Engineering DRI should tag the appropriate Product Designer for visibility. However, no UX approval on Merge Requests is expected at the review stage (except when the funtionality was not designed by the UX department).
+
+#### Dealing with Community Merge Requests
+
+TBD
+
+#### Aligning on feature development
+
+The Engineering DRI works with the Product Designer throughout the `workflow:in dev` phase to uncover possible problems with the solution early enough that exhibit unexpected behaviour to what was originally agreed upon. If there are changes to be added that weren't agreed upon in the initial issue - a followup issue should be made and the Engineering DRI should work with the Product Manager to schedule that issue in a following milestone. This allows us to focus on [cleanup over signoff](https://about.gitlab.com/handbook/values/#cleanup-over-sign-off), iterate quickly on issues with [a low level of shame](https://about.gitlab.com/handbook/values/#low-level-of-shame), and still make sure we accomplish what we've agreed upon. We should be careful not to hold off on completing these followup issues so that we don't build up a significant amount of UX debt issues.
+
+If we find that solutions are consistently not matching the agreed upon design, we will hold a retrospective with the DRI, designer, and product manager to discuss where the gaps in communication are so that we can improve. It may be necessary to begin requiring a UX approval for merge requests on certain issues to help the Engineering DRI meet the requirements.
+
+#### Avoiding crunch times between UX and Engineering
+
+* Ideally, the Product Manager works ahead of time with a Product Designer to validate the problem and work on the solution. See [Validation track](/handbook/product-development-flow/#validation-track) for more details. This allows us to come up with the bigger idea ahead of time, and work further with Engineering to break it down into smaller iterations. Ideally, this should be completed before the implementation milestone starts. 
+* Product Designer, PM, and Engineering use the [Design phase](/handbook/product-development-flow/#validation-phase-3-design) in the Validation track to talk about complexities and discuss challenges and uncover blockers. Once we are all in agreement - we can have a put a direction on the board - see [Solution Validation phase](/handbook/product-development-flow/#validation-phase-4-solution-validation) for details.
+* Engineers and Product Designers should stay in contact and frequently align throughout the [Build track](https://about.gitlab.com/handbook/product-development-flow/#build-track) to avoid unplanned changes.
 
 ### Technical debt
 
