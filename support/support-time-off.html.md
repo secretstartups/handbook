@@ -114,6 +114,7 @@ absence.
 ##### Or, for absences of three or more days
 
 1. Notify the team of your upcoming absence
+
    Add an item in the SWIR document the Friday before your absence to announce
    your time off.
 1. Change your workflow two or three days in advance of your absence:
@@ -122,6 +123,7 @@ absence.
    1. contribute more to other people's tickets - internal comments, pairing
       sessions - to make up for not taking new tickets of your own
 1. Find homes for your remaining tickets
+
    On your last day, please inform your users that your tickets will be
    reassigned due to your upcoming absence. Then, find someone willing to take
    over each ticket, and if possible review the tickets with them before
