@@ -422,7 +422,7 @@ In the event our data enrichment tools are outdated or incorrect (primary addres
 
 **Sales Request Process:**
 1. Enter desired TSP information into the following fields (this can be either Account, Employee Count, or both).
-1. Be sure to include source of correct data (ROE must still be followed)   
+2. Be sure to include source of correct data (ROE must still be followed)   
           
 *  `[User Input] Employee Count`
 
@@ -440,12 +440,12 @@ In the event our data enrichment tools are outdated or incorrect (primary addres
 
 *  `[User Input] Address Source`
 
-1. Ops will review these requests on a weekly basis and provide a response in the `[TSP] Override Status` field:
+3. Ops will review these requests on a weekly basis and provide a response in the `[TSP] Override Status` field:
     *  **Approved** - Account changes accepted
     *  **Rejected** - Reason added to `[TSP] Decision Rationale` field.
     *  **Needs Approval/More Info** - Info needed added to `[TSP] Decision Rationale` field.          
 
-1. Once reviewed and if approved by Ops, turnaround time for Approved TSP changes will take 48 hours re-populate.
+4. Once reviewed and if approved by Ops, turnaround time for Approved TSP changes will take 48 hours re-populate.
 
  <details>
 <summary markdown='span'>Operators Guide: Process for Requesting TSP Changes:</summary>         
@@ -470,13 +470,13 @@ In the event our data enrichment tools are outdated or incorrect (primary addres
 
 * `[Admin] Address Country` 
 
-1. Ops provide theresponse in the `[TSP] Override Status` field:
+2. Ops provide the response in the `[TSP] Override Status` field:
     *  **Approved** - Account changes accepted, & enter the`[TSP] Transfer Date` date at least one day in the future to allow Salesforce jobs to upate overnight before the TSP job runs.
     *  **Rejected** - Reason added to `[TSP] Decision Rationale` field.
     *  **Needs Approval/More Info** - Info needed added to `[TSP] Decision Rationale` field.
 
-    *  Turnaround time for Approved TSP changes to re-populate typically takes 24-48 hours.
-    *  Accounts with a `[TSP] Transfer Date` populated will be re-routed each night to the `[TSP] Next Approved Owner`. 
+3. Turnaround time for Approved TSP changes to re-populate typically takes 24-48 hours.
+    *  Accounts with a `[TSP] Transfer Date` populated a day in the future will be re-routed that night to the `[TSP] Next Approved Owner`. 
     *  `Account Territory`, `Sales Segment` & `Employees` fields will also be updated upon TSP transfer, to continually align accounts.
 
 </details>
