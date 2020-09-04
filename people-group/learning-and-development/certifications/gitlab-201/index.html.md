@@ -38,7 +38,7 @@ To get started with the GitLab 201 Tool Certification, you will need:
 
 ## Lesson 1: Epics
 
-Epics let you manage your portfolio of projects more efficiently and with less effort by tracking groups of issues that share a theme, across projects and milestones. Epics are great for [project management](https://about.gitlab.com/handbook/marketing/project-management-guidelines/epics/) as they help to better [enhance your workflow](https://about.gitlab.com/blog/2020/01/21/epics-three-features-accelerate-your-workflow/).
+Epics let you manage your portfolio of projects more efficiently and with less effort by tracking groups of issues that share a theme, across projects and milestones. Epics are great for [project management](/handbook/marketing/project-management-guidelines/epics/) as they help to better [enhance your workflow](https://about.gitlab.com/blog/2020/01/21/epics-three-features-accelerate-your-workflow/).
 
 ### Uses
 
@@ -125,7 +125,7 @@ To move on to the next lesson, take and pass the [GitLab 201: epics quiz](https:
 
 ## Lesson 2: Merge Requests
 
-In GitLab 101, we learned how to [create merge requests](https://about.gitlab.com/handbook/people-group/learning-and-development/certifications/gitlab-101/#lesson-3-gitlab-merge-requests). In this lesson, we will dive deeper into merge requests. 
+In GitLab 101, we learned how to [create merge requests](/handbook/people-group/learning-and-development/certifications/gitlab-101/#lesson-3-gitlab-merge-requests). In this lesson, we will dive deeper into merge requests. 
 
 ### Reviewing a merge request
 
