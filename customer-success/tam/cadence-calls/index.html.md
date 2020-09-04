@@ -24,6 +24,8 @@ Cadence calls are an important aspect of TAM engagement to continue to understan
 - **Enterprise**: Cadence calls should be weekly during onboarding and at least once per month otherwise, considering specific customer needs and stage in customer lifecycle.
 - **Commercial**: Cadence calls should be weekly during onboarding and at least once per quarter otherwise, considering specific customer needs and stage in customer lifecycle.
 
+Cadence calls should be [captured in Gainsight](/handbook/customer-success/tam/gainsight/timeline/#how-to-log-activities-in-timeline), which [drives the Engagement scorecard metric](/handbook/customer-success/tam/health-score-triage/#gainsight-scorecard-attributes-and-calculations).
+
 ### Cadence Call Notes
 
 In addition to Timeline notes in Gainsight, call notes should be [saved in Google Drive](https://drive.google.com/drive/folders/0B-ytP5bMib9Ta25aSi13Q25GY1U), following this format: `/Sales/Customers & Prospects/A/Acme/Acme - Meeting Notes`. [See an example meeting notes here](https://docs.google.com/document/d/1dAcHBqoRTY6qqSw27VQstCCnk5Fxc2oIsbpKs014h3g).
@@ -39,6 +41,17 @@ The rationale for saving call notes in this manner is as follows:
 - Access to Gainsight is limited to TAMs, so other members of the Sales and Customer Success organizations will look for notes in Google Drive.
 
 At the end of each customer call any changes to customer health should be reflected in the customer's Gainsight account. You have a few ways to update the TAM Sentiment and Product Sentiment for an account's health score, described in [Determining TAM Sentiment and Product Risk](/handbook/customer-success/tam/health-score-triage/#determining-tam-sentiment-and-product-risk), the easiest of which is updating it directly when logging the call.
+
+#### Best Practices for Note-Taking
+
+ - Write down your *agenda* (including questions you want to ask). This way you can quickly add your notes for the specific context. 
+ - If you're comfortable in writing in [Markdown format](/handbook/markdown-guide/), use it to quickly structure your notes in real time.
+ - Allow yourself time directly after the call to clean up your notes. Avoid scheduling back-to-back meetings.
+ - Practice slowing down call conversations. Stopping the dialog for a few seconds to say “let me write that down” tells the customer what they said is important to you.
+ - Ask your SAL/AE/SA to take notes with you. After the meeting combine and add detail.
+ - Use [Chorus](/handbook/business-ops/tech-stack/#chorus) to record your calls so there's less pressure for you to take note of everything.
+ - Sometimes it makes sense for somebody on the [account team](/handbook/customer-success/account-team/) to go back through the call in Chorus to transcribe it.
+ - Write notes in whatever is easiest and always copy them to your best source of truth. If you can write them in the source of truth in the first place, you’ll be more efficient and consistent.
 
 ### Cadence Call Topics
 
@@ -67,6 +80,7 @@ These are suggestions that can be used at any time on customer calls.
 
 These are suggestions that can be used on customer calls, but are time-sensitive. Examples would be deprecated features, requests for information from Product, upcoming release highlights, etc.
 
-- PostgreSQL update
-- Only/Except deprecation
-- Release 13.0 highlights
+- PostgreSQL [update](https://docs.gitlab.com/omnibus/package-information/postgresql_versions.html)
+- Only/Except [deprecation](https://about.gitlab.com/releases/2020/05/06/gitlab-com-13-0-breaking-changes/)
+- GitLab [Commit](https://about.gitlab.com/events/commit/)
+- Customer Engagement [requests](https://gitlab.com/gitlab-com/customer-success/tam/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Product%20Engagement)

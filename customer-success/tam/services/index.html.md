@@ -19,12 +19,13 @@ Customers who meet the following criteria are aligned with a Technical Account M
 
 ### Enterprise
 
-- Premium/Silver or Ultimate/Gold license, and Annual Recurring Revenue (ARR) of $50,000 or greater.
-- Starter/Bronze license and a clear, documented opportunity for upgrade with interest from the customer.
+- [Meets Enterprise Segment Criteria](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#segmentation)
+- Recurring contract value (ARR) of $50,000 or greater
+- Exceptions can be made for clearly defined growth opportunities, decided by sales and TAM leadership
 
 ### Commercial
 
-Commercial (Mid-Market and SMB) customers are eligible for a TAM based on varying factors, such as tier, ARR, and potential for growth. The TAM will work with their aligned Account Executive to determine which accounts to prioritize.
+ - Commercial (Mid-Market and SMB) customers are eligible for a TAM if the recurring contract value (ARR) is greater than $50,000.
 
 ## Responsibilities and Services
 
@@ -60,8 +61,9 @@ There are various services a Technical Account Manager will provide to ensure th
 - Launch support
 - Monitors support tickets and ensures that the customer receives the appropriate support levels
 - Support ticket escalations
+- Monitor SaaS based customer experience by adding them to the [Marquee Accounts alerts](https://gitlab.com/gitlab-com/gl-infra/marquee-account-alerts) project
 
-It is also possible for a customer to pay for a Technical Account Manager's services in order to receive priority, "white glove" assistance, guidance and support as well as more time allocated to their account on a monthly basis. There are also additional services a Technical Account Manager will provide to the services listed above.
+
 
 ## Coverage
 

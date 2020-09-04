@@ -50,18 +50,20 @@ Attendees will only appear if they are a) a Salesforce user for internal attende
 
 If you would like to see the activity logging process in action, please watch the [enablement video that covers logging](https://youtu.be/PL9shBdCMmo).
 
-## BCC'ing Emails
+## BCCing Emails
 
-Similar to BCC'ing emails to Salesforce, you can also do the same with Gainsight. To get your personalize email address, navigate to your settings:
+While we recommend BBCing emails to Salesforce instead of to Gainsight, you can do the same with Gainsight. To get your personalize email address, navigate to your settings:
 
 1. Click the person icon in the upper right
 1. Click "My Settings"
-1. Navigate to "Inbound Emails" and copy that email address (PS: save it for easy reference)
+1. Navigate to "Inbound Emails" and copy the email address (Tip: save it as an email contact for easy reference)
 
-NOTE: BCC'ing emails to Gainsight is _not_ a required step. However, if you want an email to appear in Gainsight and Salesforce, you need to BCC Gainsight.
+BCCing emails to Gainsight is _not_ a required step. However, if you want an email to appear in both Gainsight and Salesforce, you will need to BCC Gainsight.
 
 1. Emails logged in Salesforce stay in Salesforce
 1. Emails logged in Gainsight appear in Gainsight and then are synced to Salesforce during the nightly sync
+
+For more information on using emails with Gainsight, see the [Gainsight workflow handbook page](/handbook/customer-success/tam/gainsight/#emails).
 
 ## Timeline View
 

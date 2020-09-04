@@ -95,9 +95,9 @@ Also,If you see value in sharing Usage Ping data, but it's not technically possi
 
 ## Benefits
 
-[DevOps Score](https://docs.gitlab.com/ee/user/instance_statistics/dev_ops_score.html#devops-score)
+[DevOps Score](https://docs.gitlab.com/ee/user/admin_area/analytics/dev_ops_score.html)
 
-[User Cohorts](https://docs.gitlab.com/ee/user/instance_statistics/user_cohorts.html)
+[User Cohorts](https://docs.gitlab.com/ee/user/admin_area/analytics/user_cohorts.html)
 
 ## Important Documentation links
 
