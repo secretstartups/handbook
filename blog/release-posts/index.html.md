@@ -284,7 +284,7 @@ drafting the release post item, it is recommended PMs write Release Post Item MR
 - **17th of the month - Merged**: release post item MR merged by the Engineering Manager if feature has been merged
 - **18th of the month - Final content assembly**: and release post blog content lock in preparation for final reviews/editing
 
-After the 18th of month, late additions are only accepted at the discretion of the Release Post Manager. Please see [late additions to the release post](#merging-content-blocks-after-the-18th) for more details. 
+After the 18th of the month, late additions should be added only in coordination with the Release Post Manager. Please see [late additions to the release post](#merging-content-blocks-after-the-18th) for more details. 
 
 ##### Instructions
 
