@@ -374,11 +374,16 @@ To enable Engineering Managers to merge their feature blocks as soon as an issue
 After content block MRs are merged, they can be viewed on the [Preview page](https://about.gitlab.com/releases/gitlab-com/) and should be updated/edited via MRs to master up until the **final merge deadline of the 17th**. Starting on the 18th, content block MRs should be viewed in the Review app of the release post branch after **final content assembly**, and updated/edited on the release post branch by coordinating with the Release Post Manager. It's important to check this page after the content block MR is merged becuase this page is LIVE to users and should be error free. 
 
 #### Merging content blocks after the 18th
-After the 18th of month, late additions are only accepted at the discretion of the Release Post Manager. Please limit requests to merge content blocks to ones that meet one of the following criteria:
-- It is a **primary** feature
-- It is a high impact feature 
-- It is a high impact bug fix
-- It directly relates to the theme
+After the 18th of month, and before the 20th, including any late additions should be coordinated with the Release Post Manager so that they are aware and can anticipate how the late additions may impact the rest of the release post. Before pinging the release post manager, ask yourself if your content absolutely need to be part of the current release post. After the EOD on the 19th, no late content block will be accepted.
+
+The process for merging late additions is:
+
+1. The DRI pings the release post manager and let them know that there is a late addition for the release post and waits for the RPM's confirmation to proceed.
+1. Most of the time, the release post manager will accomadate the request, but there may be circumstances where they say no.
+1. The DRI targets the RPI MR to the release branch.
+1. Once the MR is merged, the DRI should let the RPM know.
+1. The RPM will move the content from the `unreleased` folder to the appropriate release post folder and make edits as needed.
+1. If the RPI is a top feature or part of the theme, the RPM and message lead will work together to update the release post.
 
 #### Accountability
 
