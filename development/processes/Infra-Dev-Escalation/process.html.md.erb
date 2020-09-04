@@ -326,7 +326,7 @@ Weekdays will now leverage an automated system relying upon a [chatbot](https://
 
 ##### Escalation
 
-1. SRE et al, types `/devoncall [optional incident issue URL]` into #dev-escalation
+1. SRE et al, types `/devoncall incident-issue-url` into #dev-escalation
 1. Pagerslack randomly selects a BE first responder based on: working hours, whether they are online and notifies them via slack/cell etc.
 1. BE responds to the Pagerslack thread with 👀
 1. If Primary does not respond a secondary will be notified.
@@ -344,7 +344,7 @@ Holidays will continue to be included in the [oncall spreadsheet](https://docs.g
 
 ##### Escalation
 
-1. SRE et al, types `/devoncall [optional incident issue URL]` into #dev-escalation
+1. SRE et al, types `/devoncall incident-issue-url` into #dev-escalation
 1. Pagerslack posts a link to the oncall spreadsheet
 1. SRE contacts the scheduled BE via Slack or make a phone call 5 minutes after Slack ping. Refer to bullet 3 under [#process-outline](#process-outline).
 1. BE triages the issue and works towards a solution.
@@ -366,7 +366,7 @@ At the time of success assessment, all stakeholders - Development, Infrastructur
 
 ### Bot (Pagerslack) Usage
 
- * In order to use the bot, type `/devoncall [optional incident issue URL]` to trigger the escalation process.
+ * In order to use the bot, type `/devoncall incident-issue-url` to trigger the escalation process.
  * Message the bot privately with `top` to show the top 25 members that are next in the escalation queue
  * Message the bot privately with `position` to see your position in the queue. The higher the number, the less probabilities to get pinged.
 
