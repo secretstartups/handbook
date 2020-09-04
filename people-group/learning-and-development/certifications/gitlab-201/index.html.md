@@ -24,9 +24,12 @@ Everyone at GitLab needs to know how to use GitLab and be technical to some leve
 
 ### What do you need to get started?
 To get started with the GitLab 201 Tool Certification, you will need:
-A laptop
-Wifi
-2 hours (this course can be completed in one sitting or lesson by lesson)
+
+- A laptop
+
+- Wifi
+
+- 2 hours (this course can be completed in one sitting or lesson by lesson)
 
 ### Objectives
 1. Learn how to create epics
@@ -118,7 +121,7 @@ Once the desired epic has been selected, it will be shown on the issue like this
 
 ### Quiz - Lesson 1: Epics
 
-To move on to the next lesson, take and pass the GitLab 201 epics quiz.
+To move on to the next lesson, take and pass the [GitLab 201: epics quiz](https://docs.google.com/forms/d/e/1FAIpQLSev9PA7WGLHwtlF3Uo3XhhcW_GIrNnJN1dShQYv4tGqvDMcow/viewform).
 
 ## Lesson 2: Merge Requests
 
@@ -184,19 +187,19 @@ Save changes, and assign the merge request to the DRI of the page.
 
 ### Quiz - Lesson 2: Merge Requests 
 
-To move on to the next lesson, take and pass the GitLab 201 merge request quiz.
+To move on to the next lesson, take and pass the [GitLab 201: merge requests quiz](https://docs.google.com/forms/d/e/1FAIpQLSfJYcLiYIp4iN7jPiTN2_CQbVdtVVCPx4Y1BzMVv9wffk7OCw/viewform).
 
 ## Lesson 3: How to create a new handbook page
 
 Before creating a new handbook page, ensure the information does not already exist in the handbook or if it can be added to an existing page. 
 
-### Video: How to Create a New Handbook Page and WIP MR (~9 minutes)
+### Video: How to create a new handbook page and WIP MR (~9 minutes)
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/HBgdX1YuM3s" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-### How to Create a New Handbook Page
+### How to create a new handbook page
 1. Navigate to www-gitlab-com project
 
 1. Click on sites - handbook - source - handbook
@@ -213,7 +216,7 @@ Before creating a new handbook page, ensure the information does not already exi
 
 1. Update the merge request template and assign the merge request to the appropriate revieweer.
 
-### Helpful Tips for Updating the Handbook 
+### Helpful tips for updating the handbook 
 
 1. To locate the handbook on gitlab.com, navigate to `www-gitlab-com` project, click sites - handbook - source - handbook. Click the section of the handbook you want to navigate to (eg people group, marketing), the folders are arranged alphabetically. 
 
@@ -223,4 +226,9 @@ Before creating a new handbook page, ensure the information does not already exi
 
 ### Quiz - Lesson 3: How to create a new handbook page 
 
-Take and pass the GitLab 201 how to create a new handbook page quiz. To become certified in GitLab 201, you will have to pass (with at least an 80%) all three lessons.
+Take and pass the [GitLab 201: How to create a new handbook page quiz](https://docs.google.com/forms/d/e/1FAIpQLSfhBE-121_41DXdXbn8qtSPqBhiQvnsupFwLAifEj58pGTHvw/viewform). 
+
+To become certified in GitLab 201, you will have to pass (with at least an 80%) all three lessons.
+
+## Feedback
+We are always trying to improve. Please let us know what you thought of this GitLab 201 course by filling out our [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfUAYCKSKmUPvwPYAi3oH9d2qGVP_VFa9hxKM_VDRWaBrsTNw/viewform).
