@@ -417,7 +417,7 @@ If you'd like to save time by cloning an existing quote, you can do so by doing 
 
 ### **Non-standard Quotes**
 
-Occassionaly an opporutnity will require a unique structure that is outside of the normal quote format. Examples of these scenarios are listed below. Deal Desk will partner with the Account Owner to strucutre the opportunity and provide guidance on creating the quote. Please chatter on the opportunity if you need assistance with one of these scenarios! 
+Occassionaly an opporutnity will require a unique structure that is outside of the normal quote format. Examples of these scenarios are listed below. Deal Desk will partner with the Account Owner to structure the opportunity and provide guidance on creating the quote. Please chatter on the opportunity if you need assistance with one of these scenarios! 
 
 #### Contract Reset
 
