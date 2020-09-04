@@ -96,13 +96,14 @@ Please consider the following:
 1. A previous trial needs to exist for the customer. If no trial was created at any point a trial can be created by the customer the following day as the plan expires.
 1. We can provide grace period extensions as long as the current plan is not ongoing, in other words, if the plan expires on the 15th, we can increase the grace period starting the next day. please plan accordingly.
 
-### Regarding Licensing
+### Regarding Licensing and Subscriptions
 
 | Request    | What To Do                                                 |
 | ---------- | ------------------------------------------------------------ |
 | Send/Resend EULA | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=EULA) using the `EULA` template.
 | GitLab.com Billable Members List | Until [#27074](https://gitlab.com/gitlab-org/gitlab/-/issues/27074) or [#35454](https://gitlab.com/gitlab-org/gitlab/-/issues/35454) is implemented, [open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=billable%20members) using the `Billable Members` template. |
-| Assistance With License Issue (not covered above) | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=license%20issue) using the `License Issue` template.
+| Assistance With License Issue (not covered above) | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=License%20Issue) using the `License Issue` template.
+| Assistance With a SaaS Subscription Issue (not covered above) | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=SaaS%20Subscription%20Issue) using the `SaaS Subscription Issue` template |
 
 ### Other
 
