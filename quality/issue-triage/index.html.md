@@ -105,12 +105,16 @@ The presence of these severity labels modifies the standard severity labels(`~se
 The severity of these issues may change depending on the re-analysis of the impact to GitLab.com customers.
 
 
-| Severity | Availability impact | Affected users | Reproducibility | Time to resolve (TTR) | Deployment target | Minimum priority |
-| -------- | ------------------- | -------------- | --------------- | --------------------- | ----------------- | ---------------- |
-| `~severity::1` | Roadblock on GitLab.com and blocking customer's business goals and day to day workflow | Impacts 50% or more of users | Consistently reproducible | Within 48 hrs | Hotfix to GitLab.com | `~priority::1` |
-| `~severity::2` | Significant impact on GitLab.com and customer's day-to-day workflow. Customers have an acceptable workaround in place. | Impacts between 25%-50% of users |Consistently reproducible | Within 5 business days | Next deployment window after resolution | `~priority::1` |
-| `~severity::3` | Broad impact on GitLab.com and minor inconvenience to customer's day-to-day workflow. No workaround needed. | Impacts up to 25% of users | Inconsistently reproducible | Within 30 days | Next release after resolution | `~priority::2` |
-| `~severity::4` | Minimal impact on GitLab.com, no known customers affected | Impacts less than 5% of users  | Inconsistently reproducible | 60 days  | Next release after resolution | `~priority::3` |
+| Severity | Availability impact | Time to mitigate (TTM)(1) | Time to resolve (TTR)(2) | Minimum priority |
+| -------- | ------------------- | ------------------------- | ------------------------ | ---------------- |
+| `~severity::1` | Roadblock on GitLab.com and blocking customer's business goals and day to day workflow<br/><br/>Impacts 50% or more of users<br/><br/>Consistently reproducible | Within 8 hrs | Within 48 hrs | `~priority::1` |
+| `~severity::2` | Significant impact on GitLab.com and customer's day-to-day workflow. Customers have an acceptable workaround in place.<br/><br/>Impacts between 25%-50% of users<br/><br/>Consistently reproducible | Within 24 hrs | Within 7 days |  `~priority::1` |
+| `~severity::3` | Broad impact on GitLab.com and minor inconvenience to customer's day-to-day workflow. No workaround needed.<br/><br/>Impacts up to 25% of users<br/><br/>Inconsistently reproducible | Within 72 hrs | Within 30 days | `~priority::2` |
+| `~severity::4` | Minimal impact on GitLab.com, no known customers affected<br/><br/>Impacts less than 5% of users<br/><br/>Inconsistently reproducible | Within 7 days | Within 60 days | `~priority::3` |
+
+(1) - Mitigation uses non-standard work processes, eg. hot-patching, critical code and configuration changes. Owned by Infrastructure department, leveraging available escalation processes (dev-escalation and similar)
+
+(2) - Resolution uses standard work processes, eg. code review. Scheduling is owned by the Product department, within the defined SLO targets.
 
 
 #### Availability prioritization
