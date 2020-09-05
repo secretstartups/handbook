@@ -95,7 +95,7 @@ Issues labeled as `~UX Debt` can also have a severity and priority labels applie
 
 ### Availability
 
-Issues with `~availability` label directly impacts the availability of GitLab.com SaaS. It is considered as another category of `~bug`.
+Issues with `~availability` label directly impacts the availability of GitLab.com SaaS. It is considered as another category of `~bug`. Incident issues in the [Production project](https://gitlab.com/gitlab-com/gl-infra/production/-/issues) also implicitly fall under the `availability` severity matrix below.
 
 We categorize these issues based on the impact to GitLab.com's customer business goal and day to day workflow.
 
