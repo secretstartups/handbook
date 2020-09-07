@@ -21,10 +21,8 @@ We have intuitively known that, at GitLab, Architecture is not a role proper (i.
 
 Following our [Transparency](https://about.gitlab.com/handbook/values/#transparency) value, all of our architecture roadmaps and blueprints are public and available below.
 
-* [FY21 Roadmaps](roadmap/fy21/)
-    * [FY21-Q3 Blueprints (active)](roadmap/fy21/#fy21-q3-blueprints)
-    * [FY21-Q4 Blueprints](roadmap/fy21/#fy21-q4-blueprints)
-* [FY22 Roadmaps (coming soon)](roadmap/fy22)
+* [FY21 Roadmap](roadmap/fy21/)
+* [FY22 Roadmap (coming soon)](roadmap/fy22)
 
 ## Architecture at GitLab
 
