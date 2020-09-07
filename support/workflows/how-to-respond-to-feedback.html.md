@@ -87,7 +87,7 @@ If you feel like the user should be contacted:
 
 2. Update the Feedback Issue as follows:
    1. Add the text of your email as a comment in the Feedback Issue.
-   1. Apply the label `feedback::manager-contacted-customer`.
+   1. Apply the label `ssat-manager-contacted-customer`.
    1. `/close` the Feedback Issue; followup continues via email.
 
 3. After closing the Issue, if there are any additional actions that arise from your interaction with the user, go back and note them in the Feedback Issue.
