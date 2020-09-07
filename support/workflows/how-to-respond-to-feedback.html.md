@@ -79,15 +79,18 @@ If further discussion is warranted, leave the Feedback Issue open. Otherwise, `/
 If you feel like the user should be contacted:
 
 1. Send the user an email from your GitLab email address. Make sure you do the following:
- - introduce yourself, describing who you are and your role at GitLab
- - note the specifics of the situation, including ticket ID
- - restate and validate the customer's comments
- - offer any apologies or clarifications required, including links to relevant documentation
- - if appropriate, offer your Calendly link to schedule a video call
+   1. introduce yourself, describing who you are and your role at GitLab
+   1. note the specifics of the situation, including ticket ID
+   1. restate and validate the customer's comments
+   1. offer any apologies or clarifications required, including links to relevant documentation
+   1. offer your Calendly link to schedule a video call
 
-2. Add the text of your email as a comment in the Feedback Issue. Once you've done this, `/close` the Feedback Issue; followup can continue via email.
+2. Update the Feedback Issue as follows:
+   1. Add the text of your email as a comment in the Feedback Issue.
+   1. Apply the label `feedback::manager-contacted-customer`.
+   1. `/close` the Feedback Issue; followup continues via email.
 
-3. If there are any additional actions that arise from your interaction with the user, go back and note them in the Feedback Issue.
+3. After closing the Issue, if there are any additional actions that arise from your interaction with the user, go back and note them in the Feedback Issue.
 
 ### What does success look like?
 At the end of your rotation:
