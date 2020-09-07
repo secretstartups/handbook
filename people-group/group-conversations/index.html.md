@@ -276,7 +276,7 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Five  | Wed  | [General](/handbook/ceo/)  | Sid Sijbrandij   |
 | Five  | Thur  | [Meltano](/handbook/meltano/)  | Douwe Maan  |
 | Five  | Fri  | Do Not Schedule  | Do Not Schedule  |
-| Six  | Mon  | Open  | Open  |
+| Six  | Mon  | [Growth Marketing](handbook/marketing/growth-marketing)  | Danielle Morrill  |
 | Six  | Tue  | [UX Research](/handbook/engineering/ux/ux-research/)  | Sarah Jones/Adam Smolinski  |
 | Six  | Wed  | [Alliances](/handbook/alliances/)  | Brandon Jung  |
 | Six  | Thur  | [Community Relations](/handbook/marketing/community-relations/)  | David Planella  |
