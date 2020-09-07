@@ -260,6 +260,7 @@ Job information changes are anything that requires an update to the team member'
 1. Audit the team member's department, division and cost center against the new manager's.
 1. For US team members, the entity must also match with the manager's. For any changes in entity, update the payroll file.
 1. Update the Expensify Job Information Changes sheet.
+1. In case of `Job Title Specialty` change requests. Notify People Experience Associates in the internal Transition Tracker spreadsheet tracker (using the `people-exp@gitlab.com` alias) and the People Experience Associates will create an associated [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) with the [Slack Command](/handbook/people-group/engineering/#internal-transition-issue-creation) list and track associated tasks for the previous and new manager. Tag or mention the aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) in the Career Mobility Issue.
 
 ## Department Transfers
 
