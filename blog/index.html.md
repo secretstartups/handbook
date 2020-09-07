@@ -354,6 +354,16 @@ Examples of successful newsjacking posts:
 - [How can we help solve the COBOL programmer shortage?](/blog/2020/04/23/cobol-programmer-shortage/)
 - [How Git Partial Clone lets you fetch only the large file you need](/blog/2020/03/13/partial-clone-for-massive-repositories/)
 
+#### GitLab feature posts
+
+Posts focusing on GitLab features or capabilities are most successful when we do the following:
+
+- Be selective. Choose only the most popular/highly requested features or capabilities to highlight in a post.
+- Tell the back story. Often, sharing how we built something is more interesting to our audience than just showing them a new feature.
+- Give a tutorial. Technical posts showing how to really use something get more traffic than simply announcing that it exists. 
+- Broaden the scope. Example: "How GitLab CI helps solve common DevSecOps challenges" could be "How CI helps solve common DevSecOps challenges." You might give examples using GitLab CI but the title doesn't limit the post to be about GitLab CI specifically, straight away. Someone who doesn't know about GitLab might be more inclined to click on the post then. 
+- Consider a different format. Blog posts should have an opinion, a unique use case, or commentary on something newsy/timely, otherwise it may be perceived as marketing material. It may be more appropriate to share what you want to post on the relevant feature page. 
+
 ### Trends
 
 *From [2018 blog analysis](https://gitlab.com/gitlab-com/marketing/content-marketing/issues/248) conducted in 2018-10
