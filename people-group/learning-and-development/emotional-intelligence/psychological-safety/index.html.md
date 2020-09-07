@@ -73,6 +73,7 @@ This list is from a [Grant Thornton article](https://www.grantthornton.com/libra
 - Read: [The Fearless Organization by Amy C. Edmondson](https://www.amazon.com/Fearless-Organization-Psychological-Workplace-Innovation/dp/1119477247/ref=sr_1_1?keywords=The+Fearless+Organization&qid=1567701716&s=gateway&sr=8-1)
 - Read: [7 ways to create psychological safety in your workplace](https://blog.jostle.me/blog/7-ways-to-create-psychological-safety-in-your-workplace)
 - Read: [What Google Learned from it's Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+- Read: [How To Build An Environment Of Psychological Safety](https://trainingindustry.com/articles/compliance/how-to-build-an-environment-of-psychological-safety/)
 - Listen: [Creating Psychological Safety in the Workplace](https://hbr.org/podcast/2019/01/creating-psychological-safety-in-the-workplace) - HBR 
 - Watch: [Why good leaders make you feel safe - Simon Sinek](https://www.youtube.com/watch?v=lmyZMtPVodo&list=PLhVoCCkYxQDcdcU7j7H_w0-0BdOqIIYxa) - TED
 
