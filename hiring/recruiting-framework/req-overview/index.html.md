@@ -136,6 +136,9 @@ If at any time during the interview process a candidate is declined due to compe
      * Instructions: This information is captured in the Screening call Scorecard.
 1. **Are you subject to any employment agreements and/or post-employment restrictions with your current employer or a past employer?**
      * Instructions: This information is captured in the Screening call Scorecard.
+1. **R&D Recruiting Only: Values Screening**
+     * Instructions: Asks the questions for the 3 values identified in the screening call > Navigate to the `Details` tab in the candidate's profile > Navigate to the `Additional Details` section > Select Yes or No on Did the candidate pass the values screening?
+
 
 #### Assessment
 
