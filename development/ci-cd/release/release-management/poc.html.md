@@ -22,7 +22,7 @@ implementation details. In such case, you're assuming like "Probably, this featu
 like ..." or "Probably, this feature and that feature are connected like ...", which
 leaves some probability in your development plan, and if it turned out a wrong assumption, you
 may need to rethink the whole approach, even though you're at the middle of development cycle.
-PoC step derisks such a turnaround by cross-checking the technical proposal with
+PoC step de-risks such a turnaround by cross-checking the technical proposal with
 domain/performance/security experts and UX/PM.
 
 ### Here is how to work on PoC step:
@@ -31,7 +31,7 @@ domain/performance/security experts and UX/PM.
   in the MR description, that you think it's the best.
 - Try to implement the feature in the merge request. Frontend and bakcend engineers
   can work on the same branch.
-- If it takes too long time to make the feature actually works on your local development machine,
+- If it takes too long to make the feature actually works on your local development machine,
   your technical proposal might need to be reconsidered. You can seek the other viable approaches
   by hearing from domain experts or the other developers.
 - If you see technical difficulties that seems impossible to be solved in the same milestone,
@@ -56,7 +56,7 @@ domain/performance/security experts and UX/PM.
   the finial change size per MR would be doubled.
 - Once it's done, you can close the PoC MR.
 
-Technically, if you've done a PoC step, there is no need to ask additional reviews
+Technically, if you've done a PoC step, there is no need to ask for additional reviews
 in actual MRs as long as you don't change the feature behavior. You can simply
 focus on general engineering review or documentation review, only.
 For example, improving code quality, refactoring code, writing tests, writing documents, etc.
