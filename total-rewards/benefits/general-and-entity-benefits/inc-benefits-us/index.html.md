@@ -281,7 +281,7 @@ For out-of-network services: 365 days from Date of Service.
 
 If you are enrolled in an HSA, FSA, or commuter benefits, the funds are held through Discovery Benefits. FSAs have a $550 rollover each calendar year.
 
-You will only receive on debit card upon enrollment. To obtain a second card (for a dependent, etc.) you will need to login to your account on Discovery or call and they will send one to your home of record.
+You will only receive one debit card upon enrollment. To obtain a second card (for a dependent, etc.) you will need to login to your account on Discovery or call and they will send one to your home of record.
 
 If you would like to transfer your HSA from a previous account, please contact Discovery Benefits and request a HSA Transfer funds form. On the form you will put your old HSA provider’s account number and any other required personal information. You will then submit the form to Discovery, and they will get in contact with your old HSA provider and process the transfer of funds. You can reach Discovery Benefits at 866.451.3399.
 
