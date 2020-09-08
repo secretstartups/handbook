@@ -23,7 +23,7 @@ Each driver is scored on a 1-5 basis.  Here is a description of how each driver
 | 4 | 100k-200k SMAU | Key element in Premium+ sales | 1B-2B SAM over the next 3 years |
 | 5 | >200k SMAU | Key element in Ultimate sales | >2B SAM over the next three years |
 
-The following table provides scores for each of our DevSecOps stages and a comparison of the total score to our current development spend allocation.
+The following table provides scores for each of our DevOps stages and a comparison of the total score to our current development spend allocation.
 
 | Stage | Usage Driver Score | Revenue Driver Score | SAM Driver Score | Combined Score | % of Total Score | Stage Development Spend % | Score/Spend Difference |
 |-|-|-|-|-|-|-|-|
@@ -49,54 +49,55 @@ The following table provides scores for each of our DevSecOps stages and a compa
     <% stageLine << "#{combinedScore}" %>
     <% stageLine << "#{percent_of_total.round(1)}%" %>
     <% stageLine << "#{stage.stage_development_spend_percent}%" if stage.stage_development_spend_percent %>
-    <% stageLine << "#{difference.round(1)}%" %>
+    <% stageLine << "#{"+" if difference > 0}#{difference.round(1)}%" %>
     <%= "| #{stageLine.join(' | ')} |" if stageLine %>
   <% end %>
 <% end %>
 
 ## Investment by Group
 
-To be added.
+*Note: Enablement and Growth stages and groups aren't included, as they don't have specific target markets, and don't have a dedicated SAM.  Therefore, they can't be compared directly with feature-function stages and aren't included in this analysis.*
 
-<!--
-| Section - Stage:Group | Value |
-|-----------------------|-------|
+| Section: Stage: Group | Usage Driver | ASP Driver | SAM Driver | Total | % of Total | Group Development Spend % | Score/Spend Difference |
+|-|-|-|-|-|-|-|-|
+<% # this calculates the total score across all stages needed to calculate the percent of total score %>
+<% totalScore = 0 %>
+<% data.sections.each do |sectionKey, section| %>
+  <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
+    <% next if !stage.marketing %>
+    <% totalScore += stage.usage_driver_score.to_i + stage.revenue_driver_score.to_i + stage.sam_driver_score.to_i %>
+  <% end %>
+<% end %>
+<% totalScore = 0 %>
 <% data.sections.each do |sectionKey, section| %>
   <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
     <% stage.groups.each do |groupKey, group| %>
+      <% totalScore += group.usage_driver_score.to_i + group.asp_driver_score.to_i + group.sam_driver_score.to_i %>
+    <% end %>
+  <% end %>
+<% end %>
+<% data.sections.each do |sectionKey, section| %>
+  <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
+    <% stage.groups.each do |groupKey, group| %>
+      <% next if !group.sam_driver_score %>
+      <% next if !group.sam_driver_score %>
+      <% combinedScore = group.usage_driver_score.to_i + group.asp_driver_score.to_i + group.sam_driver_score.to_i %>
+      <% percent_of_total = (combinedScore.to_f/totalScore.to_f)*100 %>
+      <% difference = group.group_development_spend_percent.to_f - percent_of_total%>
       <% groupLine=[] %>
-      <% groupLine << "#{section.name} - #{stage.display_name}:#{group.name}" %>
-      <% groupLine << " " %>
+      <% groupLine << "#{section.name}: #{stage.display_name}: #{group.name}" %>
+      <% groupLine << group.usage_driver_score ? "#{group.usage_driver_score}" : "" %>
+      <% groupLine << group.asp_driver_score ? "#{group.asp_driver_score}" : "" %>
+      <% groupLine << group.sam_driver_score ? "#{group.sam_driver_score}" : "" %>
+      <% groupLine << "#{combinedScore}" %>
+      <% groupLine << "#{percent_of_total.round(1)}%" %>
+      <% groupLine << "#{group.group_development_spend_percent}%" if group.group_development_spend_percent %>
+      <% groupLine << "#{"+" if difference > 0}#{difference.round(1)}%" %>  
       <%= "| #{groupLine.join(' | ')} |" if groupLine %>
     <% end %>
   <% end %>
 <% end %>
--->
 
-## Investment by Category
-
-To be added.
-
-<!--
-| Section - Stage:Group - Category | [Priority Level](/handbook/marketing/website/#category-attributes) |
-|----------------------------------|----------------|
-<% data.sections.each do |sectionKey, section| %>
-  <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
-    <% stage.groups.each do |groupKey, group| %>
-      <% if group.categories %>
-        <% group.categories.each do |categoryKey| %>
-          <% category = data.categories[categoryKey] %>
-          <% puts categoryKey unless category%>
-          <% categoryLine=[] %>
-          <% categoryLine << "#{section.name} - #{stage.display_name}:#{group.name} - #{category.name}" %>
-          <% categoryLine << "#{category.priority_level}" if category.priority_level %>
-          <%= "| #{categoryLine.join(' | ')} |" if categoryLine %>
-        <% end %>
-      <% end %>
-    <% end %>
-  <% end %>
-<% end %>
--->
 
 ## Changes
 
