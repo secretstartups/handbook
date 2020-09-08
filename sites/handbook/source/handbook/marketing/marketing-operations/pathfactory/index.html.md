@@ -500,22 +500,25 @@ Unsure what content types align with your asset? Use the table below as a guidel
 
 | Type | Use | Example |
 | ------ | ------ | ------ |
-| Assessment | Content with the primary purpose of providing a self-assessment, quiz, or maturity model. |  |
 | Analyst report | Third-party content licensed from an analyst firm | [Gartner Magic Quadrant for ARO](/resources/gartner-aro/) |
-| Article | Evergreen, informational web content. Articles live on the GitLab website as topic, solution, and product pages.  | [Multicloud](/multicloud/) |
-| Blog post | Time-bound content that is published on the GitLab blog. | [How to limit access to manual pipeline gates and deployments using GitLab](/blog/2020/02/20/protecting-manual-jobs/) |
+| Assessment | Content with the primary purpose of providing a self-assessment, quiz, or maturity model. |  |
 | Case study | Web articles that focus on the stories and opinions of GitLab customers. | [Goldman Sachs improves from 1 build every two weeks to over a thousand per day](/customers/goldman-sachs/) |
 | Data sheet | A document providing the specifications of GitLab the product or feature/feature set.  | [GitLab data sheet](/images/press/gitlab-data-sheet.pdf)  |
 | Demo | A live-action video recording demonstrating how to do or use a technical product. | [GitLab Security & Compliance Capabilities Demo](https://www.youtube.com/watch?v=UgCHtr-6uG8) |
+| eBook | An eBook presents educational information that helps the reader gain a comprehensive understanding of a subject. eBooks are casual in tone and are most often an awareness-stage asset.  | [Modernize your CI/CD](/resources/ebook-fuel-growth-cicd/) |
 | Infographic | A visual asset used to represent information or data. |  |
 | Presentation | Video recording or slides of a live talk. | [Multicloudcon Keynote: The Multicloud Maturity Model](https://www.youtube.com/watch?v=R1LWQPAXFEE) |
 | Pricing | A document that details pricing for GitLab products. | (GitLab pricing)[https://about.gitlab.com/pricing/] |
+| Product article | | |
 | Research report | An informational report which uses a specific research metholody to validate findings.  | [2019 Global Developer Survey: DevSecOps](/developer-survey/) |
+| Solution article | | |
+| Technical blog post | | |
 | Testimonials | A formal statement from a customer or user regarding GitLab's value. |  |
+| Thought leadership blog post | | |
+| Topic article | | |
 | Video | A scripted, edited, & post-produced video. Videos can be promotional, educational, and/or animated. | [GitLab Infomercial](https://www.youtube.com/watch?v=gzYTZhJlHoI) |
 | Webcast | A live broadcast & recording that includes a presenter, slides, and a live audience. | [Cloud Native Transformation with Ask Media Group](https://www.youtube.com/watch?v=3ED5NrVoVzk) |
 | Whitepaper | Whitepapers are data-driven, persuasive, and opinionated reports that address a specific problem for a niche audience. A whitepaper presents new research, addresses a specific problem, and argues in favor of a specific solution.  Whitepapers are academic and authoritative in tone.  Whitepapers are most often introduced in the consideration or decision making stage to prove or validate a concept or solution. |[A seismic shift in application security](/resources/whitepaper-seismic-shift-application-security/) |
-| eBook | An eBook presents educational information that helps the reader gain a comprehensive understanding of a subject. eBooks are casual in tone and are most often an awareness-stage asset.  | [Modernize your CI/CD](/resources/ebook-fuel-growth-cicd/) |
 
 ## PathFactory tracking
 
