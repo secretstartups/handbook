@@ -15,14 +15,13 @@ To support and scale GitLab’s continued growth and success, the Field Enableme
 
 Certification badges will align to the customer journey and critical “Moments That Matter” (MTMs) as well as the [field functional competencies](/handbook/sales/training/field-functional-competencies/) that address the critical knowledge, skills, role-based behaviors, processes, content, and tools to successfully execute each MTM.
 
-### Goal of the Field Certification Program
-The act of validating competency of an individual to prove that:
+### Purpose of the Field Certification Program
+Certification programs allow us to validate GitLab skills and knowledge, recognize individual mastery, and motivate continuous learning and skills growth all aligned to expectation setting and performance discussions.
+
+The goal of the Field Certification Program is to validate that:
 * Knowledge has been transferred (Do you know it?)
 * The learner can apply that knowledge in simulated & live scenarios (Can you do it?)
 * The learner has taken ownership of effective skill execution and can demonstrate proficiency over time (Can you do it independently and continue to execute over time?)
-
-### Purpose of the Field Certification Program
-Certification programs allow us to validate GitLab skills and knowledge, recognize individual mastery, and motivate continuous learning and skills growth all aligned to expectation setting and performance discussions.
 
 ### Audience 
 The Field Certification Program will include functional and soft skills training for:
