@@ -32,3 +32,7 @@ Create an issue in the [analytics project](https://gitlab.com/gitlab-com/sales-t
 ### Sales Headcount Change Management Process
 
 Please find instructions on how to initiate a Sales Headcount change [here](/handbook/sales/field-operations/sales-strategy/sales-headcount)
+
+### Projects
+
+You can find information about specific projects [here](/handbook/sales/field-operations/sales-strategy/projects)
