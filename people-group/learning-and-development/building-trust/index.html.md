@@ -41,13 +41,17 @@ An abundance of free personality assessments are available. Several are outlined
 - [16 Personalities](https://www.16personalities.com/) (also known as Myers-Briggs)
 - [DISC Personality Test](https://discpersonalitytesting.com/free-disc-test/)
 
-**How to apply personality assessments:** People leaders should have all team members take a personality assessment when they first join their team. Managers can examine personality assessment results and have strength-based discussions with their people. When we embrace our unique strengths and the unique strengths of our team members, we all feel more engaged, more productive, more valued, and more trusted. They should encourage their team members to share their strengths / styles with the team. 
+**How to apply personality assessments:** People leaders can have all team members take a personality assessment when they first join their team. Managers can examine personality assessment results and have strength-based discussions with their people. When we embrace our unique strengths and the unique strengths of our team members, we all feel more engaged, more productive, more valued, and more trusted. They should encourage their team members to share their strengths / styles with the team. In addition, team members can take personality assessment and update their READMEs accordingly with personality assessment information. 
 
-### Use a One-Slider 
+### Use a One-Slider Personal Summary
 
-A one-slider is a great tool for remote teams to get to know one another. Consider using the [template and example](https://docs.google.com/presentation/d/1N-fNiIBAc8_HefLyPTi4HEhoFkcCDLW_Ntx8wqmEQ9c/edit#slide=id.g822466666c_0_232) as a starting point. The one-slider can be adapted to whatever questions or facts you'd like to learn more about. One-sliders allow team members to share fun facts about themselves in a remote setting. You can be creative and ask entertaining questions! When someone joins the team, have them fill out a one-slider and use it to introduce themselves to the team. They are fun, easy, and can help to build trust by getting to know one another more easily in a remote setting. 
+A one-slider personal summary is a great tool for remote teams to get to know one another. Consider using the [template and example](https://docs.google.com/presentation/d/1N-fNiIBAc8_HefLyPTi4HEhoFkcCDLW_Ntx8wqmEQ9c/edit#slide=id.g822466666c_0_232) below as a starting point. The one-slider can be adapted to whatever questions or facts you'd like to learn more about. One-sliders allow team members to share fun facts about themselves in a remote setting. You can be creative and ask entertaining questions! When someone joins the team, have them fill out a one-slider and use it to introduce themselves to the team. They are fun, easy, and can help to build trust by getting to know one another more easily in a remote setting. 
 
 **How to apply one-sliders:** Before the next team call, ask one or two members of the team to pre-populate a one-slider a day or two in advance of the meeting. Spend the first five to ten minutes of the meeting having the designated team members share their one-sldier. Give everyone an equal amount of time and encourage everyone on the call to ask questions about what makes them unique. 
+
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTiYHr_SxtAHAcFr5Y5Lrnk39WMyNIRMqMiezKEHsG_dm_3Jd3a6jM1rDEycpCVVn5ZOZeySKHJeNQM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
 
 ### Optional Weekly Team Social Call
 
