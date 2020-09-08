@@ -284,7 +284,6 @@ If you would like to transfer your HSA from a previous account, please contact D
 
 FSAs are employer-owned accounts. If you leave GitLab, you cannot take FSA accounts with you. You are able to use your full FSA amounts up to and on your last day, but not afterwards. Your FSA benefits stop on your termination date. Discovery Benefits asks that all claims be submitted up to 90 days after termination date. For additional information, please reach out to Discovery Benefits at 866.451.3399.
 
-
 ## Basic Life Insurance and AD&D
 
 GitLab offers company paid [basic life](https://drive.google.com/open?id=1wl62igCepQ23kjF8QnyVLsvorkr7joxP) and [accidental death and dismemberment (AD&D)](https://drive.google.com/open?id=1wl62igCepQ23kjF8QnyVLsvorkr7joxP) plans through UHC. The Company pays for basic life insurance coverage valued at two times annual base salary with a maximum benefit of $250,000, which includes an equal amount of AD&D coverage.
