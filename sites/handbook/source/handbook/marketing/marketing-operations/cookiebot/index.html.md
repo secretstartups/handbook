@@ -19,6 +19,8 @@ Before you consent to any cookies, Cookiebot blocks all JavaScript on our site i
 
 Note that any JavaScript on `about.gitlab.com` requiring the use of document ready may have problems reinitializing after cookie consent has been granted and will not work before that timeframe.
 
+[Cookiebot installation overview](https://drive.google.com/file/d/1IZgPRoJ1aFabwd6rFcyogJz-D1QqVKgJ/view?usp=sharing)
+
 #### What data is collected and logged
 
 After a website user submits their consent, the following data is collected and logged:
