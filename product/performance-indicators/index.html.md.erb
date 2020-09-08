@@ -24,7 +24,10 @@ In order to provide a useful single metric for [product groups](https://about.gi
 _Notes:_
 
   - For GMAU and SMAU there is a desire for these metrics to be the unique users across the aggregate of associated AMAU's but current limitations in how we receive usage ping data (already aggregated per event) means that is not currently possible. There is work to [create de-duplicated GMAU and SMAU metrics in Usage Ping underway](https://gitlab.com/gitlab-org/telemetry/-/issues/421).
-  - For some sections, stages, or groups, a MAU-style metric may not be their primary performance indicator (PPI). In these scenarios, a different metric will be marked as the PPI to indicate it is the primary metric.
+
+### Non-MAU Performance Indicators
+
+* [Primary Performance Indicator (PPI)](#monthly-active-users-mau) - For some sections, stages, or groups, a MAU-style metric may not be their primary performance indicator (PPI). In these scenarios, a different metric will be marked as the PPI to indicate it is the primary metric.
 
 Each xMAU metric should have three versions:
 * Reported = reported .com xMAU + reported self-managed xMAU 
