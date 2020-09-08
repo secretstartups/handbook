@@ -103,6 +103,17 @@ If you need access to Adaptive Insights, please open an [access request](https:/
 
 #### Report Structure 
 
+The below image shows the current report structure in Adpative Insights. There are six main folders within the structure. The folders labeled `Annual Reports`, `Monthly Reports`,`Quarterly Reports`, and `YTD Reports` are considered production reports and should recieve sign off from the VP, Finance before moving to one of these folders. Before a report is considered production ready, a user must start a report in the `Sandbox Reports` folder, then get approval by the VP, Finance befor it can be moved into on of the production ready Reporting folders. Once sign off is approved, a user should ask an Adaptive Insights administrator to move the folder from Sandbox to the production ready folder. 
+
+1. Annual Reports - folder that houses annual reports  
+1. Implementation Requirements - folder that houses any requirements 
+1. Monthly Reports - folder that houses monthly reports 
+1. Quarterly Reports - folder that houses quarterly reports 
+1. Sandbox Reports - folder that houses work in progress reports and where reports are created before moving to production
+1. YTD Reports - folder that houses year to date reports
+
+![alt text](/handbook/finance/financial-planning-and-analysis/adaptive-report.png "Report Structure")
+
 #### Reports 
 
 
