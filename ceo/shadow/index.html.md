@@ -937,3 +937,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2020-07-20 | 2020-08-10 | [Tim Rizzi](https://gitlab.com/trizzi) | Senior Product Manager, Package |  |
 | 2020-08-10 | 2020-08-21 | [Amy Brandenburg](https://gitlab.com/abrandenburg) | Technology Alliances Manager |  |
 | 2020-08-17 | 2020-08-28 | [Sam White](https://gitlab.com/sam.white) | Senior Product Manager, Defend |  |
+| 2020-08-24 | 2020-09-04 | [Mike Miranda](https://gitlab.com/mikemiranda) | Account Executive, SMB |  |
