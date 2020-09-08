@@ -459,10 +459,12 @@ The Sales Operations team supports the opportunity credit split approval process
      * This does not apply for a credit split. Ex: 50/50 or any other percentage split.
      * If the opportunity is incorrectly assigned, the split should still match the owner until correct opportunity assignment is made.
      * This is automated and should be monitored on this [Exception Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXQt) weekly.
-3. There will never be a split that totals above 100%.  
+3. There will never be a split that totals above 100%. 
+4. SFDC reports and Dashboards will only reflect opportunity splits if the report type includeds opportunity splits. 
 
 **Opportunity Splits in Clari**
-   * Rolling out in Q3
+   * Clari will pull the split data out of SFDC. 
+   
   
 **Updating | Adding | Deleting a Split In Salesforce**
 1.  Navigate to the opportunity in SFDC.
