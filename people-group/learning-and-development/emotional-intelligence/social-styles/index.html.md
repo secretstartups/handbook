@@ -87,7 +87,7 @@ There are four styles related to the SOCIAL STYLE model. Each style represents a
 <details>
 <summary>The Driving Style</summary>
 
-  Team members that are classified as Drivers are action oriented that prefer fast-paced and structured enviornments.
+  Team members that are classified as Drivers are action oriented that prefer fast-paced and structured environments.
 
   <b>Characteristics of a Driver:</b>
   <ul>
