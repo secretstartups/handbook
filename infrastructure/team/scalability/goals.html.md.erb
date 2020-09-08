@@ -53,7 +53,7 @@ This is averaged for a total across all services.
 | Share | | |
 | Sidekiq | We can use the [Shard Utilization metrics](https://dashboards.gitlab.net/d/sidekiq-shard-detail/sidekiq-shard-detail?viewPanel=20&orgId=1&from=now-24h&to=now) to identify bottlenecks or overprovisioning.  <br/> <br/>This data is the current response of the provisioned infrastructure to [Application Demand](https://dashboards.gitlab.net/d/general-application-demand/general-application-demand-indicators?viewPanel=3&orgId=1), step-changes are indicators of non-growth-related change, being either a degradation (potentially a new bottleneck) or an enhancement (something has been made more efficient). <br/><br/>Other graphs on the [Shard Detail dashboard](https://dashboards.gitlab.net/d/sidekiq-shard-detail/sidekiq-shard-detail) allow us to investigate any changes and identify which specific jobs have caused any changes/breakages, e.g. the "Inflight Jobs per Queue" panel, and the underlying metrics can be used as well to do further ad-hoc analysis. | We found that:  <br/> - we suffered from worker thread saturation because worker threads were reserved for single queues <br/> - we had urgent and non-urgent jobs in the same queue <br/> - we were processing duplicate jobs because many workers were not idempotent. <br/><br/> Corrective epics and issues have been raised. <br/><br/> Score = 100%|
 | Web | | |
-|             | | TOTAL = 0.13% |
+|             | | TOTAL = 13% |
 
 ### 2. 75% of the known scaling bottlenecks have been addressed
 
