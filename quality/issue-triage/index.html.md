@@ -103,7 +103,7 @@ The prioritization scheme adheres to our [product prioritization](/handbook/prod
 
 The presence of these severity labels modifies the standard severity labels(`~severity::1`, `~severity::2`, `~severity::3`, `~severity::4`) by additionally taking into account the impact as described below. The severity of these issues may change depending on the re-analysis of the impact to GitLab.com customers.
 
-If, when selecting a severity for an availability issue, the availabilty impact is unclear or meets aspects of more than one severity in the table (example: the issue onlys impact 5% of our users, but no workaround is available), select the highest severity applicable to the issue.
+If, when selecting a severity for an availability issue, the availabilty impact is unclear or meets aspects of more than one severity in the table (example: the issue only impacts 5% of our users, but no workaround is available), select the highest severity applicable to the issue.
 
 
 | Severity | Availability impact | Time to mitigate (TTM)(1) | Time to resolve (TTR)(2) | Minimum priority |
