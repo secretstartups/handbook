@@ -57,17 +57,55 @@ If you need access to Adaptive Insights, please open an [access request](https:/
 
 #### Balance Sheet
 
+A balance sheet is a financial statement that reports a company's assets, liabilities and shareholders' equity at a specific point in time. GitLab’s Balance sheet can be found by clicking Sheets and then Balance Sheet.
+
 #### Income Statement
+
+The income statement primarily focuses on the company’s revenues and expenses during a particular period. GitLab’s Income statement can be found by clicking Sheets and then Income Statement.
 
 #### Cash Flow
 
+A cash flow statement is a financial statement that provides aggregate data regarding all cash inflows a company receives from its ongoing operations and external investment sources. It also includes all cash outflows that pay for business activities and investments during a given period. GitLab’s Cash Flow Statement can be found by clicking Sheets and then Cash Flow.
+
 #### Active Personnel 
+
+Active Personnel is the active headcount by department and entity. GitLab’s Active Personnel can be found by clicking Sheets and then Active Personnel. 
 
 #### Planned Personnel
 
+Planned Personnel is the planned headcount by department and entity in a given time period. GitLab’s Planned Personnel can be found by clicking Sheets and then Planned Personnel. 
+
 #### Program Spend
 
+Program Spend focuses on the expenses of events, subscriptions, and other programs that will be spent in a given time period. Program Spend can be found by clicking Sheets and then Program Spend. 
+
+##### Expense Type
+There are 4 Expense Types each with different calculations in Adaptive: (Column: EXPENSE_TYPE)
+1) 	 Pre_paid One Time – This is a one time pre paid expense.
+- a. 	Event start date drives when the expense will hit the Income Statement.
+- b. 	Expense is spread based on the contracted amount divided by contracted months.
+- c. 	This calculated expense drives the GL Account selected in the “GL_EXPENSE_ACCOUNTS” column.
+ 
+2) 	Pre_paid Amortization – This is a prepaid amortization expense. This calculation takes into account:
+- a. 	Event start date drives when the expense will hit the Income Statement.
+- b. 	Expense is spread based on the contracted amount divided by contracted months
+- c. 	This calculated expense drives the GL Account selected in the “GL_EXPENSE_ACCOUNTS” column.
+- d. 	Chances of Renewal – based on a %.
+- e.  Start Month Uplift – Takes into account any uplift that is expected to occur during the initial contract period and factors this into the renewal months.
+- f. 	Monthly Growth Factor- based on a % of uplift that is expected to occur on the Start Month Uplift. (This is based on month over month uplift)
+ 
+3) 	Per User – This calculates a per user expense. This calculation takes into account:
+- a. 	This calculated expense drives the GL Account selected in the “GL_EXPENSE_ACCOUNTS” column.
+- b. 	Per User Cost (Column)
+- c. 	Number of users (entered in timespan) per month.
+ 
+4) 	Periodic_Expense – This is a sporadic expense.
+- a. 	This calculated expense drives the GL Account selected in the “GL_EXPENSE_ACCOUNTS” column.
+- b. 	Expense (entered in timespan) on any given month.
+
 #### Travel & Entertainment
+
+Travel & Entertainment are expense assumptions related to travel & entertainment on a dollar amount per headcount. Travel & Entertainment can be found by clicking Sheets and then Travel & Entertainment. 
 
 ### User Assigned Sheets
 
