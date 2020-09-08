@@ -9,19 +9,16 @@ title: "Release:Release Management Group"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Vision
+## Product Vision
 
-For an understanding of what this team is going to be working on take a look at [the product vision](/direction/release/).
+For an understanding of what this team is going to be working on take a look at [the product vision](/direction/release/). Our jobs-to-be-done (JTBD) and 
+their corresponding grade can be viewed here](/handbook/engineering/development/ci-cd/release/release-management/jtbd). 
 
 ## Mission
 
 The Release:Release Management is focused on all the functionality with respect to Continuous Delivery and Release Automation.
 
 This team maps to [Release](/handbook/product/product-categories/#release) devops stage.
-
-## Release Management JTBDs 
-
-See our jobs-to-be-done (JTBD) and their corrresponding grade [here](/handbook/engineering/development/ci-cd/release/release-management/jtbd). 
 
 ## Team Members
 
@@ -38,30 +35,30 @@ The following members of other functional teams are our stable counterparts:
 
 ## Technologies
 
-Like most GitLab backend teams, we spend a lot of time working in Rails on the main [GitLab CE app](https://gitlab.com/gitlab-org/gitlab-ce), but we also do a lot of work in Go which is used heavily in [GitLab Pages](https://gitlab.com/gitlab-org/gitlab-pages) and the [Gitlab Release CLI](https://gitlab.com/gitlab-org/release-cli). Familiarity with Docker and Kubernetes is also useful on our team.
+Like most GitLab teams, we spend a lot of time working in Rails and Vue.js on the main [GitLab CE app](https://gitlab.com/gitlab-org/gitlab-ce), but we also do a lot of work in Go which is used heavily in [GitLab Pages](https://gitlab.com/gitlab-org/gitlab-pages) and the [Gitlab Release CLI](https://gitlab.com/gitlab-org/release-cli). Familiarity with Docker and Kubernetes is also useful on our team.
 
 ## Common Links
 
- * [Issue Tracker](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Arelease)
- * [Slack Channel](https://gitlab.slack.com/archives/s_release)
+ * [Issue Tracker](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Arelease&label_name[]=group%3A%3Arelease%20management)
+ * [Slack Channel](https://gitlab.slack.com/archives/CSLU7BMPF)
  * [Roadmap](/direction/release/)
  * [UX Strategy](/handbook/engineering/ux/stage-group-ux-strategy/release/)
  * [Problem Validation: Opportunity Canvases](https://gitlab.com/gitlab-org/ux-research/-/issues/778)
 
 ## Planning and Process
 
-We are always striving to improve and iterate on our planning process as a team. To maximize our velocity and meet our deliverables, we follow a planning process for each release. For more information about that process 
-visit our [planning page](./planning.html).
+We are always striving to improve and iterate on our planning process as a team. To maximize our velocity and meet our deliverables, we follow a the process outlined on our 
+[planning page](./planning.html).
 
 ## How to work with us
 
 ### On Issues
 
-Issues that contribute to the release stage of the devops toolchain have the `~"devops::release"` label.
+Issues that contribute to the release stage of the devops toolchain have the `~"devops::release"` label. Issues that belong to the release management group have the `~"group::release management"` label.
 
 ### In Slack
 
-The group's primary Slack channel is `#g_release-management`, and the public managers channel is `#release-managers`. We also support a number of feature channels for discussons or questions about a specific [feature area](/handbook/product/product-categories/#release-stage). We no longer support issue specific channels, as they are easy to lose track of and fragment the discussion. Supported feature channels are:
+The group's primary Slack channel is `#g_release-management`. We also support a number of feature channels for discussons or questions about a specific [feature area](/handbook/product/product-categories/#release-stage). We no longer support issue specific channels, as they are easy to lose track of and fragment the discussion. Supported feature channels are:
 
 * Release orchestration: `f_release_orchestration`
 * Release governance: `f_release_governance`
@@ -73,20 +70,16 @@ The group's primary Slack channel is `#g_release-management`, and the public man
 
 ### Team Workflow
 
-We use the [Release Team Workflow board](https://gitlab.com/groups/gitlab-org/-/boards/1285883?&label_name[]=devops%3A%3Arelease) to plan and track features as they make their way from idea to production. This board details the various stages an issue can exist in as it is being developed. It's not necessary that an issue go through all of these stages, and it is allowed for issues to move back and forward through the workflow as they are iterated on.
+Below is a description of each stage of our workflow, its meaning, and any requirements for that stage.
 
-#### Workflow Stages
-
-Below is a description of each stage, its meaning, and any requirements for that stage.
-
-* `workflow::start`
-  * The entry point for workflow scoped labels. From here, Issues will either move through the validation workflow, go directly to planning and scheduling, or in certain cases, go directly to the development steps.
 * `workflow::problem validation`
-  * This stage aims to produce a [clear and shared understanding of the customer problem](/handbook/product-development-flow/#validation-phase-2-problem-validation).
+  * This stage aims to produce a [clear and shared understanding of the customer problem](/handbook/product-development-flow/#validation-phase-2-problem-validation), as well as an estimation of the engineering effort.
 * `workflow::solution validation`
-  * This output of this stage is a [clear prototype of the solution to be created](/handbook/product-development-flow/#validation-phase-3-solution-validation).
+  * The output of this stage is a [clear prototype of the solution to be created](/handbook/product-development-flow/#validation-phase-3-solution-validation).
+* `workflow::scheduling`
+  * An issue in this stage has been refined and estimated, but is waiting for scheduling and not yet active.
 * `workflow::ready for development`
-  * This stage indicates the issue is ready for engineering to begin their work.
+  * This stage indicates the issue is ready for engineering to begin their work. 
   * Issues in this stage must have a `UX Ready` label, as well as either `frontend`, `backend` or both labels to indicate which areas will need focus.
 * `workflow::in dev`
   * This stage indicates that the issue is actively being worked on by one or more developers.
@@ -99,73 +92,18 @@ Below is a description of each stage, its meaning, and any requirements for that
 
 In order to make sure sprints are effective as possible, it is important to ensure issues are clearly defined and broken down before the start of a sprint. In order to accomplish this, engineering evaluation will take place for issues that require it (small changes and bug fixes typically won’t require this analysis). Engineers will look for assigned issues with the `workflow::planning breakdown` label that have user stories defined, as well as functional, performance, documentation, and security acceptance criteria. See [Build phase](/handbook/product-development-flow/#build-phase-1-plan) of the Product Development Workflow.
 
-Assigned engineers will work with Product, UX and other engineers to determine the implementation plan for the feature.
+Assigned engineers will work with Product, UX and other engineers to determine the implementation plan for the feature. ***Tip:** When you're having hard time to estimate MR count, [consider a PoC step](./poc.html).*
 
 Once an implementation plan has been finalized, the following steps should be taken:
 
 * The issue description should be updated to include the details of the implementation plan along with a checklist to show the planned breakdown of merge requests.
-* The issue should be moved forward in the workflow to `workflow::ready for development`.
 * The weight of the issue should be updated to reflect the number of merge requests estimated as part of the implementation plan. For smaller changes and bugs, the weight should be 1.
+* The issue should be moved forward in the workflow to `workflow::scheduling`.
 * Those updates to the issue will signal that the issue has been properly scoped and is ready to be worked on in an upcoming milestone.
 
 #### Merge request count as a measure of issue weight
 
 As a byproduct of the engineering evaluation process, a rough estimate of the number of merge requests required to develop a feature will be produced. This measure can be used as a way to determine issue weights. These weights can be useful during the planning process to get a rough gauge of how many features can be worked on in a milestone, and to understand how much work the team can do in a milestone. This metric also aligns with the [throughput metric](/handbook/engineering/management/throughput/) currently measured by engineering teams.
-
-#### Tips: When you're having hard time to estimate MR count, consider PoC step.
-
-If you have no idea where to begin the development due to lack of knowledge on the context or
-you're less confident on the current technical proposal,
-it might be better to work on Proof-of-Concept MR (PoC or Prototype) at first.
-This gives you more insights on the current implementation details and potential required changes.
-
-This step removes a lot of "if"s from your assumptions. When you're making a
-technical proposal, often you don't have enough time to investigate the actual
-implementation details. In such case, you're assuming like "Probably, this feature works
-like ..." or "Probably, this feature and that feature are connected like ...", which
-leaves some probability in your development plan, and if it turned out a wrong assumption, you
-may need to rethink the whole approach, even though you're at the middle of development cycle.
-PoC step derisks such a turnaround by cross-checking the technical proposal with
-domain/performance/security experts and UX/PM.
-
-Here is how to work on PoC step:
-
-- Create a new MR with a title started from "PoC:". Explain the technical proposal
-  in the MR description, that you think it's the best.
-- Try to implement the feature in the merge request. Frontend and bakcend engineers
-  can work on the same branch.
-- If it takes too long time to make the feature actually works on your local development machine,
-  your technical proposal might need to be reconsidered. You can seek the other viable approaches
-  by hearing from domain experts or the other developers.
-- If you see technical difficulties that seems impossible to be solved in the same milestone,
-  you should raise a concern that there is a blocker thus we might
-  not be able to finish the feature by the due date.
-- If the change size is too large (e.g. you had to modify over 1000-1500 lines without tests),
-  you should raise a concern that the issue is too large to ship within one milestone,
-  and you can make a suggestion that what can be done in the release and what can be done
-  in the next milestone (i.e. issue split).
-- In the PoC review, you should ask domain/performance/security experts or the other engineers who are familer on the context
-  to review the technical approach and actual code. This is to ensure that there are no big red flags on the proposed solution.
-- In the PoC review, you should ask PM and UX to review the feature's behavior.
-  This is to ensure that the feature is correctly implemented and orthogonal to our problem to solve.
-- You don't need to split MRs. It can be done later.
-- You don't need to write neither tests nor documentation. It can be done later.
-- You don't need to fix failed pipelines. You can fix the broken tests later. (Although, it might have some useful information)
-- You don't need to write well-organized code. Refactoring can be done later.
-- The PoC MR is not for merge, however, you can copy and paste the changes into the actual MRs, and poish later.
-- Definition of done of PoC step is collecting approvals from PM, UX, domain/performance/security experts.
-- Once it's done, you can estimate the number of MRs. For example, if the change size is 1000,
-  you can split it to 5 MRs with 200 LoC. As you add tests in the actual development,
-  the finial change size per MR would be doubled.
-- Once it's done, you can close the PoC MR.
-
-Technically, if you've done a PoC step, there is no need to ask additional reviews
-in actual MRs as long as you don't change the feature behavior. You can simply
-focus on general engineering review or documentation review, only.
-For example, improving code quality, refactoring code, writing tests, writing documents, etc.
-
-Here are the examples of PoC step. [Example 1](https://gitlab.com/gitlab-org/gitlab/merge_requests/16276),
-[Example 2](https://gitlab.com/gitlab-org/gitlab/merge_requests/18115)
 
 #### Issue template for a feature development
 
