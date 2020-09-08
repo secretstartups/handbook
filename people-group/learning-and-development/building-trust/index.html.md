@@ -107,7 +107,7 @@ Managers can make it clear that they have a vested stake in team members career 
 
 **How to apply taking time out to learn:** People leaders can send a clear message to their teams by sending them weekly learning excrcises to break up the workweek. Try sending out interesting webinars and articles that are relevant to their job family. Encourage team members to take advantage of our tuition reimbursement policy to grow professionally. Managers can also encourage their team to block a portion of their week for focusing on professional development.  
 
-## "No Work Talk" Team Chats
+### "No Work Talk" Team Chats
 
 Managers can set up a more relaxed call with their team that is specifically focused on personally getting to know one another as individuals. It helps to remind us all that at the end of the day, we're people and we have unique hobbies, interests, and milestones happening in our lives! **The only rule for this call: no talking about work!** 
 
