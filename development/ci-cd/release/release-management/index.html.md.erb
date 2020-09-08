@@ -12,7 +12,7 @@ title: "Release:Release Management Group"
 ## Product Vision
 
 For an understanding of what this team is going to be working on take a look at [the product vision](/direction/release/). Our jobs-to-be-done (JTBD) and 
-their corresponding grade can be viewed here](/handbook/engineering/development/ci-cd/release/release-management/jtbd). 
+their corresponding grade [can be viewed here](/handbook/engineering/development/ci-cd/release/release-management/jtbd). 
 
 ## Mission
 
@@ -21,7 +21,7 @@ The Release:Release Management is focused on all the functionality with respect 
 This team maps to [Release](/handbook/product/product-categories/#release) devops stage.
 
 #### OKRs
-The EM is responsible for the OKRs of the Release Management Engineering team.
+The EM is the DRI for the OKRs of the Release Management Engineering team.
 
 | Period | Issue | 
 | :---             |  ---:           |  
@@ -112,122 +112,6 @@ Once an implementation plan has been finalized, the following steps should be ta
 #### Merge request count as a measure of issue weight
 
 As a byproduct of the engineering evaluation process, a rough estimate of the number of merge requests required to develop a feature will be produced. This measure can be used as a way to determine issue weights. These weights can be useful during the planning process to get a rough gauge of how many features can be worked on in a milestone, and to understand how much work the team can do in a milestone. This metric also aligns with the [throughput metric](/handbook/engineering/management/throughput/) currently measured by engineering teams.
-
-#### Issue template for a feature development
-
-This is an issue template for feature development. It includes some
-important engineering tasks to be done in general.
-
-
-<details>
-<summary>Click me to collapse/fold the Issue template for a feature development.</summary>
-
-<pre>
-```
-
-<!-- The issue begins with "Problme to solve", "Intended users", "Proposal", etc.
-     Read more https://gitlab.com/gitlab-org/gitlab/blob/master/.gitlab/issue_templates/Feature%20proposal.md -->
-
-## Technical proposal
-
-<!-- In this section, describe technical proposal for the problem to solve.
-     It should give enough contexts to be able to be reviewed by domain/performance/security experts. -->
-
-## Feature Flag
-
-This feature is implemented behind `feature-flag-name` feature flag and disabled by default.
-Once we've confirmed the feature is deemed stable, we remove the feature flag in order to publish the feature as GA.
-<!-- Read more [Feature flags in development of GitLab](https://docs.gitlab.com/ee/development/feature_flags/) -->
-
-## Planned MRs
-
-### Backend
-
-- [ ] [MR-1 title](MR link if it already exists)
-- [ ] [MR-2 title](MR link if it already exists)
-
-### Frontend
-
-- [ ] [MR-1 title](MR link if it already exists)
-- [ ] [MR-2 title](MR link if it already exists)
-
-### General
-
-- [ ] [Write a feature spec to test frontend and backend change altogether](MR link if it already exists)
-- [ ] [Remove the feature flag and update documentation](MR link if it already exists) # i.e. publish the feature
-
-```
-</pre>
-
-</details>
-
-#### Issue template for feature evaluation (dogfooding, beta-tester program)
-
-This is an issue template for feature evaluation. It includes some
-important engineering tasks to be done in general.
-
-When you enable a feature via feature flag and expect a significant impact on
-user workflow or production load, you should create an issue with the following
-template to communicate better with the affected users or SRE.
-
-<details>
-<summary>Click me to collapse/fold the Issue template for feature evaluation</summary>
-
-<pre>
-```
-
-## Summary
-
-<!-- The reason of feature evaluation. -->
-
-## Feature details
-
-<!-- Describes the feature details and expected performance or usability impact -->
-
-## Timeline
-
-<!-- This section describes the timeline of the evaluation.
-     Example:
-     - 2019-10-12 01:00 UTC The second evaluation: We will enable the feature on yyy project for X days.
-     - 2019-10-11 01:00 UTC We've disabled the feature on xxx project because ...
-     - 2019-10-10 01:00 UTC The first evaluation: We've enabled the feature on yyy project for X days.
--->
-
-## How to enable the feature
-
-<!-- Describes how to enable the feature that anyone can execute -->
-
-## How to disable the feature
-
-<!-- Describes how to disable the feature that anyone can execute.
-     Consider, in an emergency case, someone else might need to disable the feature instead of you. -->
-
-## Beginning of evaluation
-
-- [ ] Announce in Slack/CompanyCall (T-minus 1 day)
-- [ ] Enable the feature
-
-## End of evaluation
-
-- [ ] Announce in Slack/CompanyCall
-- [ ] Disable the feature
-
-## Feedback/Metrics
-
-<!-- This section should be filled after the end of evaluation.
-     You can collect metrics from user feedback or looking at Grafana, Sentry, Kibana, etc -->
-
-### The second evaluation
-
-<!-- The result of the second evaluation. e.g. We didn't observe any problmes. -->
-
-### The first evaluation
-
-<!-- The result of the first evaluation. e.g. We've found a crucial problem thus we need to fix YYY issue before the second evaluation. -->
-
-```
-</pre>
-</details>
 
 ### Code Review
 
