@@ -9,7 +9,7 @@ title: "Usage Ping FAQ"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional TAM-related handbook pages. 
+View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional TAM-related handbook pages.
 
 ----
 
@@ -36,13 +36,13 @@ The usage ping is opt-out. If you want to deactivate this feature, go to the Set
 
 You can view the payload at "/admin/application_settings/metrics_and_profiling" in the Usage Statistics section and press the "View Payload" button.
 
-- [Deactivate the Usage Ping](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#usage-ping-core-only)
+- [Deactivate the Usage Ping](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#usage-ping)
 
 ## Commonly Asked Questions and Concerns
 
 ### 1. It's a corporate security policy that we don't send data to vendors
 
-Based on what we understood from the concerns expressed, GitLab would like to understand more about the security controls and regulatory requirements that you have to meet. We've seen several risk-mitigating solutions where similar concerns regarding "outbound data transfers", and data leaving a secured boundary. Are there specific team members from security/compliance/privacy organizations that might provide additional insights? We understand your concerns and would be happy to have a call with our security team, product team along with your security team to talk through any issues we may help resolve. Before our call can you provide what compliance requirements that your company has to meet?  
+Based on what we understood from the concerns expressed, GitLab would like to understand more about the security controls and regulatory requirements that you have to meet. We've seen several risk-mitigating solutions where similar concerns regarding "outbound data transfers", and data leaving a secured boundary. Are there specific team members from security/compliance/privacy organizations that might provide additional insights? We understand your concerns and would be happy to have a call with our security team, product team along with your security team to talk through any issues we may help resolve. Before our call can you provide what compliance requirements that your company has to meet?
 
 ### 2. Is there a way we can share this data manually so that we can review it before it goes out?
 
@@ -66,7 +66,7 @@ The main purpose of Usage Ping is to build a better GitLab. Data about how GitLa
 
 ### 5. How much data is being shared?
 
-The usage ping uses high-level data to help our product, support, and sales teams. It does not send any project names, usernames, or any other specific data. 
+The usage ping uses high-level data to help our product, support, and sales teams. It does not send any project names, usernames, or any other specific data.
 
 ### 6. How do we ensure that you don't change what's in the payload to include things we don't want to share? How do we re-verify this with each new release in a way that doesn't take a lot of time or effort?
 
@@ -101,7 +101,7 @@ Also,If you see value in sharing Usage Ping data, but it's not technically possi
 
 ## Important Documentation links
 
-[Admin Settings for Usage Ping](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#usage-ping-core-only)
+[Admin Settings for Usage Ping](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#usage-ping)
 
 [Usage Statistics Collected](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#usage-statistics-collected)
 
