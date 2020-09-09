@@ -13,7 +13,7 @@ title: "Drift"
 
 Drift is a chat platform used by the Sales Development (SDR) team to engage visitors on select webpages. Engagement with Drift begin when a site visitor opts into interacting with an available Drift playbook. Playbooks are customized workflows that help visitors find information as well as offer the option to chat directly or schedule time to speak with SDRs. 
 
-### Drift playbooks
+### Playbooks
 We have Drift playbooks in use on select permanant webpages as well as temporary landing pages. The content of the playbook depends on the intended experience on the page and the target audience.
 
 #### Permanent pages
@@ -26,7 +26,7 @@ We have Drift playbooks in use on select permanant webpages as well as temporary
 #### Current temporary pages
 - https://page.gitlab.com/springone-virtual-2020.html
 
-### Drift routing
+### Conversation routing
 
 Drift is expected to mirror [LeanData](/handbook/marketing/marketing-operations/leandata/) routing as closely as possible. If there is an exception it will be listed here as more complex routing is rolled out. Our goal is to only connect site visitors with their aligned resources in the SDR organization. This means site visitors during offline hours will be asked to schedule a meeting with their SDR. To update Drift team or routing please submit an issue using [this template](/marketing/marketing-operations/-/issues/new?issuable_template=leandata_change_sdralignment). 
 
