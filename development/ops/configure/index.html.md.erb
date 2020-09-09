@@ -69,6 +69,12 @@ classDiagram
 
 #### ARRR for Infrastructure as Code
 
+We have two features that we follow to understand the health of our funnel:
+- Terraform reports can be used by any Terraform user on GitLab, and is a lightweight integration of GitLab and Terraform
+- GitLab Managed Terraform State provides the deepest Terraform integration experience available
+
+The following graph shows the metrics defined for Terraform reports. We want to track the same reports for the GitLab Managed Terraform State.
+
 ``` mermaid
 classDiagram
   Acquistion --|> Activation
