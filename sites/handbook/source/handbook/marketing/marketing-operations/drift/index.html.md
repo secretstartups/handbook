@@ -77,12 +77,15 @@ Drift is expected to mirror [LeanData](/handbook/marketing/marketing-operations/
 **Sharing your calendar in chat**
 *  At the right-hand side of the conversation toolbar there is a small calendar icon. Click there and you can share your own calendar or anyone else’s calendar that is connected in Drift.
 
-## Drift playbook
-We have one Drift playbook that will lead a prospect down different routes depending on whether an SDR in their territory is available or away. If the SDR is available, the prospect will answer a series of preliminary questions and then route to the appropriate SDR. That SDR will get a notification on their browser and or mobile app to hop in the conversation. If the aligned SDR is away, the prospect will follow the same path but will be prompted to book time on the SDR's calendar right after answering the questions.
+## Drift playbooks
+We have Drift playbooks in use on select permanant webpages as well as temporary landing pages. The content of the playbook depends on the intended experience on the page and the target audience.
 
-**Live pages**:
-* https://about.gitlab.com/pricing/
-* https://about.gitlab.com/sales/ 
-* https://about.gitlab.com/free-trial/ 
-* https://about.gitlab.com/features/ 
-* https://about.gitlab.com/comparison/
+**Permanent pages:**
+- https://about.gitlab.com/pricing/
+- https://about.gitlab.com/sales/ 
+- https://about.gitlab.com/features/ 
+- https://about.gitlab.com/stages-devops-lifecycle/
+- https://about.gitlab.com/free-trial/ 
+
+**Current temporary pages:**
+- https://page.gitlab.com/springone-virtual-2020.html
