@@ -649,82 +649,206 @@ By demographic:
     | Leader                 | 2.48                |
     | Overall                | 2.69                |
 
+1. The 17% uplift to my salary is sufficient to pay for costs and benefits that would ordinarily be paid for by an employer.
+
+    | GitLab | Austria Score | Mexico Score | Poland Score | Romania Score | Russian Federation Score | Singapore Score | Turkey Score | Ukraine Score |
+    |--------|---------------|--------------|--------------|---------------|--------------------------|-----------------|--------------|---------------|
+    | Male | 3.20 | 3.33 | 3.57 | 2.67 | 4.00 | 3.00 | 3.00 | 3.50 |
+    | Female | n/a | 2.33 | 3.00 | 3.25 | 2.50 | n/a | 5.00 | 4.00 |
+    | Individual Contributor | 3.00 | 2.60 | 3.44 | 3.00 | 3.80 | 3.00 | 3.40 | 3.50 |
+    | Manager | n/a | 4.00 | 3.00 | n/a | 2.00 | n/a | n/a | 5.00 |
+    | Leader | 4.00 | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+    | Overall | 3.20 | 2.83 | 3.40 | 3.00 | 3.50 | 3.00 | 3.40 | 3.80 |
+
 1. Out of the following options, which benefit would you most like to see GitLab offer in the future? (select up to 4)
 
+* Americas
 
-    | Response | Australia (% of Respondents) | Ireland (% of Respondents) | United States (% of Respondents) | Netherlands (% of Respondents) | Canada (% of Respondents) | India (% of Respondents) | United Kingdom (% of Respondents) | Germany (% of Respondents) | New Zealand (% of Respondents) | Hungary (% of Respondents) |
-    |----------|-------------------|-----------------|-----------------|---------------------|----------------|---------------|------------------------|-----------------|---------------------|-----------------|
-    | Paid parental leave above 16 weeks. | 23% | 26% | 14% | 8% | 30% | 13% | 35% | 10% | 36% | 25% |
-    | 100% paid medical leave for 16 weeks. | 14% | 26% | 16% | 24% | 10% | 53% | 33% | 7% | 36% | 13% |
-    | Expanded mental health offerings (ie. Therapy, meditation, etc.) | 16% | 35% | 24% | 16% | 27% | 47% | 33% | 10% | 18% | 50% |
-    | Wellness stipend. | 42% | 39% | 47% | 8% | 40% | 33% | 51% | 31% | 9% | 13% |
-    | Childcare stipend. | 9% | 22% | 18% | 8% | 20% | 13% | 16% | 28% | 9% | 0% |
-    | Student loan assistance program. | 5% | 9% | 12% | 0% | 3% | 13% | 12% | 14% | 9% | 0% |
-    | Health insurance. | 60% | n/a | n/a | 40% | n/a | n/a | n/a | n/a | 45% | n/a |
-    | Parental leave transition coaching. | 2% | 0% | 1% | 0% | 0% | 0% | 6% | 3% | 0% | 0% |
-    | Ergonomics consultations. | 5% | 4% | 5% | 32% | 13% | 13% | 6% | 10% | 0% | 25% |
-    | Global Pension with employer match./Company pension plan. | 21% | 78% | n/a | 88% | 13% | 47% | n/a | 62% | 9% | 63% |
-    | Annual company-wide bonus. | 53% | 48% | 60% | 44% | 57% | 80% | 43% | 76% | 36% | 63% |
-    | Charitable giving. | 28% | 13% | 23% | 12% | 23% | 0% | 24% | 38% | 27% | 38% |
-    | Higher 401k match/higher cap. | n/a | n/a |79% | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
-    | Supplementary medical plans (Accident Insurance, Critical Illness Insurance, Hospital Indemnity Plan) | n/a | n/a | 3% | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
-    | Increased HSA contribution or HSA contribution for Team Member + Spouse/Team Member + Child(ren)/Family tiers of coverage. | n/a | n/a | 13% | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
-    | RRSP with employer match. | n/a | n/a | n/a | n/a | 63% | n/a | n/a | n/a | n/a | n/a |
-    | Group disability policy. | n/a | n/a | n/a | n/a | n/a | n/a | 8% | n/a | n/a | n/a |
-    | Higher KiwiSaver contribution. | n/a | n/a | n/a | n/a | n/a | n/a |  n/a | n/a | 45% | n/a |
+    | Response | United States (% of Respondents) | Canada (% of Respondents) | Mexico (% of Respondents) | 
+    |----------|----------------------------------|---------------------------|---------------------------|
+    | Paid parental leave above 16 weeks. | 14% | 30% | 0% |
+    | 100% paid medical leave for 16 weeks. | 16% | 10% | 67% |
+    | Expanded mental health offerings (ie. Therapy, meditation, etc.) | 24% | 27% | 50% |
+    | Wellness stipend. | 47% | 40% | 33% |
+    | Childcare stipend. | 18% | 20% | 0% |
+    | Student loan assistance program. | 12% | 3% | 17% |
+    | Health insurance. | n/a | n/a | n/a |
+    | Parental leave transition coaching. | 1% | 0% | 0% |
+    | Ergonomics consultations. | 5% | 13% | 0% |
+    | Global Pension with employer match./Company pension plan. | n/a | 13% | 83% |
+    | Annual company-wide bonus. | 60% | 57% | 50% |
+    | Charitable giving. | 23% | 23% | 0% |
+    | Higher 401k match/higher cap. | 79% | n/a | n/a |
+    | Supplementary medical plans (Accident Insurance, Critical Illness Insurance, Hospital Indemnity Plan) | 3% | n/a | n/a |
+    | Increased HSA contribution or HSA contribution for Team Member + Spouse/Team Member + Child(ren)/Family tiers of coverage. | 13% | n/a | n/a |
+    | RRSP with employer match. | n/a | 63% | n/a |
 
-1. Which benefit would you be most  willing to sacrifice to allow for new benefits?
+* EMEA
 
-    | Response | Australia (% of Respondents) | Ireland (% of Respondents) | United States (% of Respondents) | Netherlands (% of Respondents) | Canada (% of Respondents) | India (% of Respondents) | United Kingdom (% of Respondents) | Germany (% of Respondents) | New Zealand (% of Respondents) | Hungary (% of Respondents) |
-    |----------|-------------------|-----------------|-----------------|---------------------|----------------|---------------|------------------------|-----------------|---------------------|-----------------|
-    | Paid parental leave. | 9% | 0% | 4% | 4% | 0% | 0% | 4% | 0% | 0% | 0% |
-    | Employee Assistance Program (Modern Health). | 26% | 17% | 21% | 40% | 40% | 33% | 20% | 48% | 27% | 38% |
-    | Office supplies/furniture reimbursement. | 5% | 0% | 4% | 4% | 0% | 0% | 4% | 0% | 0% | 0% |
-    | Tuition Reimbursement. | 9% | 22% | 14% | 8% | 3% | 7% | 8% | 3% | 9% | 0% |
-    | Business Travel Accident Policy. | 5% | 4% | 10% | 0% | 3% | 7% | 8% | 7% | 9% | 0% |
-    | Discretionary Bonuses. | 14% | 9% | 7% | 4% | 0% | 13% | 12% | 7% | 0% | 13% |
-    | Referral Bonuses. | 2% | 13% | 12% | 20% | 23% | 7% | 20% | 17% | 9% | 0% |
-    | Stock options | 5% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 13% |
-    | Visiting grant | 5% | 17% | 21% | 12% | 20% | 27% | 12% | 0% | 18% | 13% |
-    | $20,000 Life Insurance (Expression of Wishes)/Company Life Insurance Policy | 19% | 13% | n/a | 8% | 3% | 0% | 0% | 14% | 27% | 0% |
-    | Medical/Health coverage | n/a | n/a | 0% | n/a | 0% | n/a | 4% | n/a | n/a | n/a |
-    | Dental/Vision | n/a | n/a | 0% | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
-    | 401(k) Match |n/a | n/a | 1% |  n/a | n/a | n/a | n/a | n/a | n/a | n/a |
-    | Pension | n/a | n/a | n/a | n/a | n/a | 0% | n/a | n/a | n/a | n/a |
+    | Response | Ireland (% of Respondents) | Netherlands (% of Respondents) | United Kingdom (% of Respondents) | Germany (% of Respondents) | Hungary (% of Respondents) | Austria (% of Respondents) | Poland (% of Respondents) | Romania (% of Respondents) | Russian Federation (% of Respondents) | Turkey (% of Respondents) | Ukraine (% of Respondents) |
+    |----------|----------------------------|--------------------------------|-----------------------------------|----------------------------|----------------------------|----------------------------|---------------------------|----------------------------|-----------------------------------------|---------------------------|----------------------------|
+    | Paid parental leave above 16 weeks. | 26% | 8% | 35% | 10% | 25% | 20% | 42% | 43% | 33% | 20% | 40% |
+    | 100% paid medical leave for 16 weeks. | 26% | 24% | 33% | 7% | 13% | 40% | 42% | 57% | 50% | 0% | 20% |
+    | Expanded mental health offerings (ie. Therapy, meditation, etc.) | 35% | 16% | 33% | 10% | 50% | 20% | 25% | 29% | 33% | 40% | 0% |
+    | Wellness stipend. | 39% | 8% | 51% | 31% | 13% | 40% | 33% | 0% | 50% | 0% | 20% |
+    | Childcare stipend. | 22% | 8% | 16% | 28% | 0% | 20% | 33% | 43% | 17 % | 20% | 60% |
+    | Student loan assistance program. | 9% | 0% | 12% | 14% | 0% | 0% | 0% | 14% | 0% | 0% | 0% |
+    | Health insurance. | n/a | 40% | n/a | n/a | n/a | n/a | n/a | n/a | n/a | 0% | 0% |
+    | Parental leave transition coaching. | 0% | 0% | 6% | 3% | 0% | 0% | 17% | 14% | 0% | 0% | 0% |
+    | Ergonomics consultations. | 4% | 32% | 6% | 10% | 25% | 0% | 17% | 0% | 17% | 40% | 0% |
+    | Global Pension with employer match./Company pension plan. | 78% | 88% | n/a | 62% | 63% | 60% | 25% | 57% | 33% | 40% | 20% |
+    | Annual company-wide bonus. | 48% | 44% | 43% | 76% | 63% | 100% | 33% | 71% | 83% | 80% | 80% |
+    | Charitable giving. | 13% | 12% | 24% | 38% | 38% | 0% | 25% | 29% | 0% | 0% | 20% |
+    | Group disability policy. | n/a | n/a | 8% | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
 
-1. Which benefits do you most want GitLab to retain? (select up to 4)
+* APAC
 
-    | Response | Australia (% of Respondents) | Ireland (% of Respondents) | United States (% of Respondents) | Netherlands (% of Respondents) | Canada (% of Respondents) | India (% of Respondents) | United Kingdom (% of Respondents) | Germany (% of Respondents) | New Zealand (% of Respondents) | Hungary (% of Respondents) |
-    |----------|-------------------|-----------------|-----------------|---------------------|----------------|---------------|------------------------|-----------------|---------------------|-----------------|
-    | Paid parental leave. | 40% | 57% | 27% | 56% | 43% | 40% | 41% | 55% | 73% | 38%
-    | Employee Assistance Program (Modern Health). | 16% | 4% | 2% | 12% | 7% | 7% | 6% | 7% | 0% | 13%
-    | Office supplies/furniture reimbursement. | 67% | 65% | 22% | 56% | 67% | 73% | 55% | 69% | 82% | 50%
-    | Tuition Reimbursement. | 23% | 35% | 7% | 32% |  20% | 33% | 12% | 14% | 18% | 25%
-    | Business Travel Accident Policy. | 19% | 4% | 1% | 4% | 7% | 13% | 2% | 3% | 0% | 0%
-    | Discretionary Bonuses. | 49% | 39% | 17% | 44% | 30% | 67% | 27% | 48% | 55% | 38%
-    | Referral Bonuses. | 2% | 22% | 2% | 8% | 3% | 20% | 8% | 3% | 0% | 38%
-    | Stock options | 77% | 87% | 59% | 84% | 70% | 73% | 69% | 62% | 36% | 63%
-    | Visiting grant | 49% | 0% | 9% | 40% | 13% | 33% | 22% | 38% | 73% | 0%
-    | $20,000 Life Insurance (Expression of Wishes)/Company Life Insurance Policy | 5% | 13% | 0% | 12% | 13% | 20% | 6% | 10% | 27% | 13%
-    | Medical/Health coverage | n/a | n/a | 87% | n/a | 70% | n/a | 37% | n/a | n/a | n/a |
-    | Dental/Vision | n/a | n/a | 74% | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
-    | 401(k) Match | n/a | n/a | 73% | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
-    | Pension | n/a | n/a | n/a | n/a | n/a | n/a | 59% | n/a | n/a | n/a | n/a |
+    | Response | Australia (% of Respondents) | India (% of Respondents) | New Zealand (% of Respondents) | Singapore (% of Respondents) |
+    |----------|------------------------------|--------------------------|--------------------------------|------------------------------|
+    | Paid parental leave above 16 weeks. | 23% | 13% | 36% | 17% |
+    | 100% paid medical leave for 16 weeks. | 14% | 53% | 36% | 33% |
+    | Expanded mental health offerings (ie. Therapy, meditation, etc.) | 16% | 47% | 18% | 17% |
+    | Wellness stipend. | 42% | 33% | 9% | 83% |
+    | Childcare stipend. | 9% | 13% | 9% | 17% |
+    | Student loan assistance program. | 5% | 13% | 9% | 17% |
+    | Health insurance. | 60% | n/a | 45% | n/a |
+    | Parental leave transition coaching. | 2% | 0% | 0% | 0% |
+    | Ergonomics consultations. | 5% | 13% | 0% | 0% |
+    | Global Pension with employer match./Company pension plan. | 21% | 47% | 9% | 50% |
+    | Annual company-wide bonus. | 53% | 80% | 36% | 67% |
+    | Charitable giving. | 28% | 0% | 27% | 33% |
+    | Higher KiwiSaver contribution. | n/a | n/a | 45% | n/a |
 
-1. What provider for Health/Medical benefits do you prefer?
+8. Which benefit would you be most  willing to sacrifice to allow for new benefits?
+
+* Americas
+
+    | Response | United States (% of Respondents) | Canada (% of Respondents) | Mexico (% of Respondents) | 
+    |----------|----------------------------------|---------------------------|---------------------------|
+    | Paid parental leave. | 4% | 0% | 0% |
+    | Employee Assistance Program (Modern Health). | 21% | 40% | 50% |
+    | Office supplies/furniture reimbursement. | 4% | 0% | 17% |
+    | Tuition Reimbursement. | 14% | 3% | 0% |
+    | Business Travel Accident Policy. | 10% | 3% | 0% |
+    | Discretionary Bonuses. | 7% | 0% | 17% |
+    | Referral Bonuses. | 13% | 23% | 0% |
+    | Stock options | 0% | 0% | 0% |
+    | Visiting grant | 21% | 20% | 0% |
+    | $20,000 Life Insurance (Expression of Wishes)/Company Life Insurance Policy | n/a | 3% | 0% |
+    | Medical/Health coverage | 0% | 0% | n/a |
+    | Dental/Vision | 0% | n/a | n/a | n/a |
+    | 401(k) Match | 1% | n/a | n/a | n/a |
+
+
+* EMEA
+
+    | Response | Ireland (% of Respondents) | Netherlands (% of Respondents) | United Kingdom (% of Respondents) | Germany (% of Respondents) | Hungary (% of Respondents) | Austria (% of Respondents) | Poland (% of Respondents) | Romania (% of Respondents) | Russian Federation (% of Respondents) | Turkey (% of Respondents) | Ukraine (% of Respondents) |
+    |----------|----------------------------|--------------------------------|-----------------------------------|----------------------------|----------------------------|----------------------------|---------------------------|----------------------------|-----------------------------------------|---------------------------|----------------------------|
+    | Paid parental leave. | 0% | 4% | 4% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |
+    | Employee Assistance Program (Modern Health). | 17% | 40% | 20% | 48% | 38% | 40% | 42% | 43% | 33% | 20% | 60% |
+    | Office supplies/furniture reimbursement. | 0% | 4% | 4% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 40% |
+    | Tuition Reimbursement. | 22% | 8% | 8% | 3% | 0% | 40% | 8% | 14% | 17% | 20% | 0% |
+    | Business Travel Accident Policy. | 4% | 0% | 8% | 7% | 0% | 0% | 0% | 14% | 17% | 20% | 0% |
+    | Discretionary Bonuses. | 9% | 4% | 12% | 7% | 13% | 0% | 0% | 0% | 0% | 0% | 0% |
+    | Referral Bonuses. | 12% | 20% | 20% | 17% | 0% | 20% | 25% | 14% | 0% | 40% | 0% |
+    | Stock options | 0% | 0% | 0% | 0% | 13% | 0% | 0% | 0% | 0% | 0% | 0% |
+    | Visiting grant | 17% | 12% | 12% | 0% | 13% | 0% | 25% | 14% | 17% | 0% | 0% |
+    | $20,000 Life Insurance (Expression of Wishes)/Company Life Insurance Policy | 13% | 8% | 0% | 14% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |
+    | Medical/Health coverage | n/a | n/a | 4% | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+    | Pension | n/a | n/a | 0% | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+
+
+* APAC
+
+    | Response | Australia (% of Respondents) | India (% of Respondents) | New Zealand (% of Respondents) | Singapore (% of Respondents) |
+    |----------|------------------------------|--------------------------|--------------------------------|------------------------------|
+    | Paid parental leave. | 9% | 0% | 0% | 0% |
+    | Employee Assistance Program (Modern Health). | 26% | 33% | 27% | 17% |
+    | Office supplies/furniture reimbursement. | 5% | 0% | 0% | 0% |
+    | Tuition Reimbursement. | 9% | 7% | 9% | 17% |
+    | Business Travel Accident Policy. | 5% | 7% | 9% | 0% |
+    | Discretionary Bonuses. | 14% | 13% | 0% | 17% |
+    | Referral Bonuses. | 2% | 7% | 9% | 17% |
+    | Stock options | 5% | 0% | 0% | 0% |
+    | Visiting grant | 5% | 27% | 18% | 17% |
+    | $20,000 Life Insurance (Expression of Wishes)/Company Life Insurance Policy | 19% | 0% | 27% | 17% |
+
+9. Which benefits do you most want GitLab to retain? (select up to 4)
+
+* Americas
+
+    | Response | United States (% of Respondents) | Canada (% of Respondents) | Mexico (% of Respondents) | 
+    |----------|----------------------------------|---------------------------|---------------------------|
+    | Paid parental leave. | 27% | 43% | 38% |
+    | Employee Assistance Program (Modern Health). | 2% | 7% | 13% |
+    | Office supplies/furniture reimbursement. | 22% | 67% | 50% |
+    | Tuition Reimbursement. | 7% |  20% | 25% |
+    | Business Travel Accident Policy. | 1% | 7% | 0% |
+    | Discretionary Bonuses. | 17% | 30% | 38% |
+    | Referral Bonuses. | 2% | 3% | 38% |
+    | Stock options | 59% | 70% | 63% |
+    | Visiting grant | 9% | 13% | 0% |
+    | $20,000 Life Insurance (Expression of Wishes)/Company Life Insurance Policy | 0% | 13% | 13% |
+    | Medical/Health coverage | 87% | 70% | n/a |
+    | Dental/Vision | 74% | n/a | n/a |
+    | 401(k) Match | 73% | n/a | n/a |
+
+
+* EMEA
+
+    | Response | Ireland (% of Respondents) | Netherlands (% of Respondents) | United Kingdom (% of Respondents) | Germany (% of Respondents) | Hungary (% of Respondents) | Austria (% of Respondents) | Poland (% of Respondents) | Romania (% of Respondents) | Russian Federation (% of Respondents) | Turkey (% of Respondents) | Ukraine (% of Respondents) |
+    |----------|----------------------------|--------------------------------|-----------------------------------|----------------------------|----------------------------|----------------------------|---------------------------|----------------------------|-----------------------------------------|---------------------------|----------------------------|
+    | Paid parental leave. | 57% | 56% | 41% | 55% | 60% | 17% | 83% | 86% | 83% | 60% | 60% |
+    | Employee Assistance Program (Modern Health). | 4% | 12% | 6% | 7% | 0% | 0% | 0% | 0% | 0% | 20% | 0% |
+    | Office supplies/furniture reimbursement. | 65% | 56% | 55% | 69% | 80% | 67% | 92% | 57% | 67% | 60% | 20% |
+    | Tuition Reimbursement. | 35% | 32% | 12% | 14% | 0% | 33% | 25% | 0% | 0% | 0% | 20% |
+    | Business Travel Accident Policy. | 4% | 4% | 2% | 3% | 0% | 33% | 0% | 14% | 33% | 0% | 0% |
+    | Discretionary Bonuses. | 39% | 44% | 27% | 48% | 60% | 67% | 42% | 86% | 67% | 60% | 80% |
+    | Referral Bonuses. | 22% | 8% | 8% | 3% | 0% | 0% | 17% | 29% | 0% | 0% | 20% |
+    | Stock options | 87% | 84% | 69% | 62% | 100% | 100% | 83% | 86% | 100% | 80% | 80% |
+    | Visiting grant | 0% | 40% | 22% | 38% | 60% | 50% | 17% | 14% | 17% | 0% | 40% |
+    | $20,000 Life Insurance (Expression of Wishes)/Company Life Insurance Policy | 13% | 12% | 6% | 10% | 0% | 33% | 8% | 0% | 0% | 20% | 20% |
+    | Medical/Health coverage | n/a | n/a | 37% | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+    | Pension | n/a | n/a | 59% | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+
+
+* APAC
+
+    | Response | Australia (% of Respondents) | India (% of Respondents) | New Zealand (% of Respondents) | Singapore (% of Respondents) |
+    |----------|------------------------------|--------------------------|--------------------------------|------------------------------|
+    | Paid parental leave. | 40% | 40% | 73% | 50% |
+    | Employee Assistance Program (Modern Health). | 16% | 7% | 0% | 17% |
+    | Office supplies/furniture reimbursement. | 67% | 73% | 82% | 83% |
+    | Tuition Reimbursement. | 23% | 33% | 18% | 33% |
+    | Business Travel Accident Policy. | 19% | 13% | 0% | 0% |
+    | Discretionary Bonuses. | 49% | 67% | 55% | 50% |
+    | Referral Bonuses. | 2% | 20% | 0% | 17% |
+    | Stock options | 77% | 73% | 36% | 100% |
+    | Visiting grant | 49% | 33% | 73% | 33% |
+    | $20,000 Life Insurance (Expression of Wishes)/Company Life Insurance Policy | 5% | 20% | 27% | 17% |
+
+10. What provider for Health/Medical benefits do you prefer?
 
 * **United States**
 
 | Response                        | Count | % of Respondents |
 |---------------------------------|-------|------------------|
-| UHC                             | 183   | 43%              |
-| Anthem/BCBS                     | 67    | 16%              |
-| Cigna                           | 30    | 7%               |
-| Kaiser                          | 29    | 7%               |
-| Aetna                           | 16    | 4%               |
-| Other (Expanded on below.)      | 105   | 24%              |
+| UHC                             | 185   | 43%              |
+| Anthem/BCBS                     | 79    | 18%              |
+| Cigna                           | 34    | 8%               |
+| Kaiser                          | 32    | 7%               |
+| Aetna                           | 20    | 5%               |
+| Humana                          | 4     | 1%               |
+| No Preference                   | 14    | 3%               |
+| No Response                     | 63    | 15%              |
+| Other (Expanded on below.)      | 16    | 4%               |
 
-* Summary of Other responses: TODO.
+* Summary of Other responses: 
+     * Plan details would matter more.
+     * Not enrolled in GitLab's plan.
+     * Reflections on the American healthcare system.
+     * Unsure how to compare. 
+     * Smaller provider not listed here.
 
 * **Canada**
 
@@ -734,9 +858,9 @@ By demographic:
 | Manulife                        | 6     | 20%              |
 | Sunlife                         | 1     | 3%               |
 | Blue Cross                      | 1     | 3%               |
-| Other (Expanded on below.)      | 8     | 27%              |
-
-* Summary of Other responses: TODO.
+| No Response                     | 4     | 13%              |
+| No Preference                   | 2     | 7%               |
+| Other                           | 2     | 7%              |
 
 * **India**
 
@@ -744,12 +868,14 @@ By demographic:
 |---------------------------------|-------|------------------|
 | ICICI Lombard                   | 4     | 27%              |
 | HDFC ERGO / Apollo Munich       | 3     | 20%              |
-| Bajaj Allianz                   | 2     | 13%               |
-| Other (Expanded on below.)      | 6     | 40%              |
+| Bajaj Allianz                   | 2     | 13%              |
+| No Response                     | 3     | 20%              |
+| Other (Expanded on below.)      | 3     | 20%              |
 
-* Summary of Other responses: TODO.
+* Summary of Other responses: 
+     * No opinion, but would like a higher coverage level.
 
-* **Canada**
+* **United Kingdom**
 
 | Response                        | Count | % of Respondents |
 |---------------------------------|-------|------------------|
@@ -758,38 +884,76 @@ By demographic:
 | Virgin Active                   | 2     | 4%               |
 | Simply Health                   | 1     | 2%               |
 | Aviva                           | 1     | 2%               |
+| No Response                     | 12    | 14%              | 
 | Other (Expanded on below.)      | 22    | 45%              |
 
-* Summary of Other responses: TODO.
+* Summary of Other responses: 
+     * No preference.
+     * Vitality.
 
-10. What provider for Dental/Vision do you prefer?
-
-* **United States**
-
-| Response                   | Count | % of Respondents |
-|----------------------------|-------|------------------|
-| Cigna                      | 152   | 35%              |
-| Delta/Dental               | 92    | 21%              |
-| UHC                        | 19    | 4%               |
-| Anthem/BCBS                | 16    | 4%               |
-| Aetna                      | 13    | 3%               |
-| Metlife                    | 11    | 3%               |
-| Other (Expanded on below.) | 127   | 30%              |
-
-* Summary of Other responses: TODO.
-
-11. What provider for spending accounts do you prefer (HSA, FSA, LPFSA)?
+11. What provider for Dental/Vision do you prefer?
 
 * **United States**
 
 | Response                   | Count | % of Respondents |
 |----------------------------|-------|------------------|
-| Discovery                  | 112   | 26%              |
+| Cigna                      | 153   | 35%              |
+| Delta/Dental               | 96    | 22%              |
+| UHC                        | 20    | 5%               |
+| Anthem/BCBS                | 19    | 4%               |
+| Aetna                      | 16    | 4%               |
+| Metlife                    | 13    | 3%               |
+| No Preference              | 19    | 4%               | 
+| No Response                | 87    | 20%              |
+| Other (Expanded on below.) | 16    | 4%               |
+
+* Summary of Other responses: 
+      * Plan details would matter more. 
+      * Unsure how to compare.
+      * General reflections on the American healthcare system.
+      * Not on GitLab's policy.
+      * Provider not listed above.
+      * This question should have been split out for Dental and Vision since not all of these providers do both (I also realized what I did here and will split them next year.)
+
+12. What provider for spending accounts do you prefer (HSA, FSA, LPFSA)?
+
+* **United States**
+
+| Response                   | Count | % of Respondents |
+|----------------------------|-------|------------------|
+| Discovery                  | 113   | 26%              |
 | Optum                      | 47    | 11%              |
 | WageWorks                  | 44    | 10%              |
-| Other (Expanded on below.) | 227   | 53%              |
+| No Preference              | 17    | 4%               |  
+| No Response                | 151   | 35%              |
+| Other (Expanded on below.) | 53    | 12%              |
 
-* Summary of Other responses: TODO.
+* Summary of Other responses: 
+     * Don't utilize this benefit.
+     * Not informed enough on the choices to respond.
+     * Option not listed above.  
+
+13. If GitLab were to convert you to a team member employed through an entity, what benefits would you expect to receive/are offered by most employers in your country? (select all that apply)
+
+| Response | Austria (% of Respondents) | Mexico (% of Respondents) | Poland (% of Respondents) | Romania (% of Respondents) | Russian Federation (% of Respondents) | Singapore (% of Respondents) | Turkey (% of Respondents) | Ukraine (% of Respondents) |
+|----------|----------------------------|---------------------------|---------------------------|----------------------------|---------------------------------------|------------------------------|---------------------------|----------------------------|
+| Health insurance. | 80% | 100% | 92% | 100% | 100% | 83% | 100% | 60% |
+| Dental insurance. | 60% | 33% | 42% | 71% | 83% | 100% | 60% | 40% |
+| Vision insurance. | 20% | 33% | 25% | 43% | 17% | 83% | 40% | 20% |
+| Optional life insurance. | 20% | 50% | 50% | 71% | 50% | 83% | 40% | 0% |
+| Disability insurance. | 20% | 33% | 33% | 29% | 17% | 83% | 40% | 20% |
+| Pension. | 80% | 67% | 58% | 86% | 50% | 50% | 100% | 40% |
+
+14. If GitLab were to convert you to a team member employed through an entity, what benefits could GitLab offer that would be considered premium/only a top-tier employer would provide? (select all that apply)
+
+| Response | Austria (% of Respondents) | Mexico (% of Respondents) | Poland (% of Respondents) | Romania (% of Respondents) | Russian Federation (% of Respondents) | Singapore (% of Respondents) | Turkey (% of Respondents) | Ukraine (% of Respondents) |
+|----------|----------------------------|---------------------------|---------------------------|----------------------------|---------------------------------------|------------------------------|---------------------------|----------------------------|
+| Health insurance. | 0% | 17% | 8% | 29% | 17% | 83% | 20% | 40% |
+| Dental insurance. | 20% | 67% | 50% | 71% | 67% | 67% | 60% | 60% |
+| Vision insurance. | 40% | 33% | 17% | 57% | 33% | 83% | 40% | 20% |
+| Optional life insurance. | 60% | 0% | 25% | 71% | 50% | 67% | 60% | 20% |
+| Disability insurance. | 20% | 17% | 8% | 43% | 50% | 83% | 20% | 40% |
+| Pension. | 0% | 50% | 8% | 43% | 17% | 33% | 20% | 60% |
 
 **Action Items/Issues to Open:**
 
