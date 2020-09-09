@@ -16,15 +16,18 @@ Drift is a chat platform used by the Sales Development (SDR) organization to eng
 ### Playbooks
 We have Drift playbooks in use on select permanant webpages as well as temporary landing pages. The content of the playbook depends on the intended experience on the page and the target audience.
 
-#### Permanent pages
-- https://about.gitlab.com/pricing/
-- https://about.gitlab.com/sales/ 
-- https://about.gitlab.com/features/ 
-- https://about.gitlab.com/stages-devops-lifecycle/
-- https://about.gitlab.com/free-trial/ 
+| Permanent pages | Playbook(s) |
+| ------ | ------ |
+| https://about.gitlab.com/pricing/ | Standard & ABM |
+| https://about.gitlab.com/sales/ | Standard & ABM |
+| https://about.gitlab.com/features/ | Standard & ABM |
+| https://about.gitlab.com/stages-devops-lifecycle/ | Standard & ABM |
+| https://about.gitlab.com/free-trial/ | Standard & ABM |
 
-#### Current temporary pages
-- https://page.gitlab.com/springone-virtual-2020.html
+
+| Current temporary pages | Playbook(s) |
+| ------ | ------ |
+| https://page.gitlab.com/springone-virtual-2020.html | Custom |
 
 ### Conversation routing
 
