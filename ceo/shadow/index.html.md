@@ -258,7 +258,7 @@ Before your scheduled rotation, try to schedule coffee chats with your co-shadow
 Feel free to schedule a coffee chat with any of the CEO Shadow Alumni. You can review the list of [CEO Shadow Alumni](/handbook/ceo/shadow/#alumni) below. These chats can be helpful when deciding whether to apply to participate or if you're unable to participate but want to hear about the experience and what alumni have learned while shadowing.
 
 #### Coffee Chat with the CLO
-Should it be useful or complementary to your time as a CEO Shadow, our [CLO] (https://about.gitlab.com/job-families/legal/chief-legal-officer/) hosts Monthly Shadow Chats on the 3rd Tuesday of every month at 08:30 PST. Please @ mention the CLO's [Sr. EBA] (https://about.gitlab.com/handbook/eba/) in #ceo-shadow should you wish to be added to an instance or you would like to schedule a 1:1 coffee chat with the CLO. This option is available to all Shadows, past, present, and future.   
+Should it be useful or complementary to your time as a CEO Shadow, our [CLO](https://about.gitlab.com/job-families/legal/chief-legal-officer/) hosts Monthly Shadow Chats on the 3rd Tuesday of every month at 08:30 PST. Please @ mention the CLO's [Sr. EBA](https://about.gitlab.com/handbook/eba/) in #ceo-shadow should you wish to be added to an instance or you would like to schedule a 1:1 coffee chat with the CLO. This option is available to all Shadows, past, present, and future.   
 
 #### Create an onboarding issue
 
