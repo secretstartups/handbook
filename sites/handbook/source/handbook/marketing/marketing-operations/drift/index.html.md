@@ -16,14 +16,14 @@ Drift is a chat platform used by the Sales Development (SDR) team to engage visi
 ### Drift playbooks
 We have Drift playbooks in use on select permanant webpages as well as temporary landing pages. The content of the playbook depends on the intended experience on the page and the target audience.
 
-**Permanent pages:**
+#### Permanent pages
 - https://about.gitlab.com/pricing/
 - https://about.gitlab.com/sales/ 
 - https://about.gitlab.com/features/ 
 - https://about.gitlab.com/stages-devops-lifecycle/
 - https://about.gitlab.com/free-trial/ 
 
-**Current temporary pages:**
+#### Current temporary pages
 - https://page.gitlab.com/springone-virtual-2020.html
 
 ## How to use Drift
@@ -83,9 +83,9 @@ Drift is expected to mirror [LeanData](/handbook/marketing/marketing-operations/
 *  At the right-hand side of the conversation toolbar there is a small calendar icon. Click there and you can share your own calendar or anyone else’s calendar that is connected in Drift.
 
 ## Have a question or request? 
-* **Slack channel:** #drift
-* **Support:** Chat support (bottom left-hand corner of the Drift app)
-* **MktgOps project issue:** State the reason for the issue and leave any detailed information in regards to the request being made. Use the following labels:
-    * `MktgOps`: The starting point for any label that involves MktgOps. The MktgOps team subscribes to this label and will see the request being made.
-    * `Drift`: Issue is directly related to the Drift chat tool. Specific admins for this tool are subscribed to this label.
-    * `SDR`: If your request is from or involves the SDR team
+Would you like to learn more about Drift? Are you interested in adding a Drift playbook to a new or existing webpage? Have you noticied a potential Drift issue you would like investigated?  
+* The best place to start is to open an issue in the Marketing Operations project. When you do, state the reason for the issue, provide relevant details about the request and use the following labels:
+    * `MktgOps::0 - To Be Triaged`: Starting point for any label that involves Marketing Operations
+    * `Drift`: Used if directly related to the Drift chat platform
+    * `SDR`: Used if your request is from or involves the SDR organization
+* If you have a quick question, use can use the #mktgops Slack channel to discuss with a member of the Marketing Operations team.
