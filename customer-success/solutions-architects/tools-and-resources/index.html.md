@@ -31,7 +31,7 @@ Solutions Architects frequently interact with customers for demos, presentations
 * [Toby](http://www.gettoby.com/) or [Tabs Outliner](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) to launch many preset tabs at once
 * [Station](https://getstation.com/) to group pages by application in a smart dock
 * [MouseBeam](https://geeky.gent/tag/mousebeam/) enables the mouse cursor to use multiple screens like a circle
-* [~~Spectacle~~](https://www.spectacleapp.com/) to quickly move and resize windows [Spectale DEPRECATED October 2019](https://github.com/eczarny/spectacle#important-note)
+* [Rectangle](https://rectangleapp.com/) to quickly move and resize windows in macOS using keyboard shortcuts or snap areas
 * [Dark Reader](https://darkreader.org/) enables browser dark mode to better fit room lighting
 * [Postman](https://www.getpostman.com/) for API interaction
 
