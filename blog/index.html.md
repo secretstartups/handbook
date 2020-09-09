@@ -360,7 +360,7 @@ Posts focusing on GitLab features or capabilities are most successful when we do
 
 - Be selective. Choose only the most popular/highly requested features or capabilities to highlight in a post.
 - Tell the back story. Often, sharing how we built something is more interesting to our audience than just showing them a new feature.
-- Give a tutorial. Technical posts showing how to really use something get more traffic than simply announcing that it exists. 
+- Give a tutorial. Technical posts showing how to really use something get more traffic than simply announcing that it exists. If there is a link to a demo on our branded or Unfiltered YouTube channel, link to that, or consider recording a video to accompany your blog post. 
 - Broaden the scope. Example: "How GitLab CI helps solve common DevSecOps challenges" could be "How CI helps solve common DevSecOps challenges." You might give examples using GitLab CI but the title doesn't limit the post to be about GitLab CI specifically, straight away. Someone who doesn't know about GitLab might be more inclined to click on the post then. 
 - Consider a different format. Blog posts should have an opinion, a unique use case, or commentary on something newsy/timely, otherwise it may be perceived as marketing material. It may be more appropriate to share what you want to post on the relevant feature page. 
 
