@@ -39,7 +39,7 @@ CREATE TABLE public.manifests (
     payload bytea NOT NULL,
     configuration_payload bytea,     -- the actual configuration payload
     configuration_media_type_id references media_types (id),
-    configuration_blob_digest bytea, -- references a blob for the configuration
+    configuration_blob_digest bytea references blobs (digest) ON DELETE SET NULL, -- references a blob for the configuration
     CONSTRAINT pk_manifests PRIMARY KEY (repository_id, id),
     CONSTRAINT uq_manifests_repository_id_digest UNIQUE (repository_id, digest)
 ) PARTITION BY HASH (repository_id);
