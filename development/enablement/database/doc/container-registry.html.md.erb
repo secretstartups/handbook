@@ -103,7 +103,7 @@ Ultimately, this can become a performance problem when they become very large. T
 
 #### Model 2: `1-N` Repository structure with separate blob management
 
-This approach treats a repository as the first-class model. A repository contains many manifests (`1-N`), those contain many layers (`1-N`). Separately from the repository structure, we keep track of blobs residing in object storage. We automatically maintain a reference table to keep track of which layers use a certain blob (lookup by blob digest).
+This approach treats a repository as the first-class model. A repository contains many manifests (`1-N`), those contain many layers (`1-N`). Separately from the repository structure, we keep track of blobs residing in object storage. We automatically maintain a reference table to keep track of which blob represents a given layer (lookup by blob digest).
 
 Minor differences to model 1 include using a single `digest` column to store both algorithm and actual digest and normalizing the media type information into a lookup table.
 
