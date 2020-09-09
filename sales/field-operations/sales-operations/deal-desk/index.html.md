@@ -472,7 +472,7 @@ C.  Note: Deal Desk will create the quotes and Order Form.
 
 #### Opportunities Requiring Multiple Invoices
 
-If an opportunity requires multiple invoices due to a specific professional services delivery schedule or approved annual payment terms, a separate opportunity is required for each invoice period. 
+If an opportunity requires multiple invoices due to a specific professional services delivery schedule or approved annual payment terms, a separate opportunity is required for each invoice period. If there is no difference in number of seats or price across the years only one subscription and quote would be required (ie. Invoice Only opps do not require a quote object).
 
 **Opportunity Structure**
 
@@ -489,10 +489,17 @@ If all payments associated with the opportunity are equal (ex. 3 payments of $10
 
 3 Year Subscription worth $30,000, broken out into 3 equal annual payments of $10,000. 
 * Primary Opp Quote - 3 Year New Subscription Quote (using the 1 Year Product SKU). Term Length should be 36. 
-* Invoice Only Opp - Year 2 - Create a quote for the amount to be invoiced (Use the same sku as the orignal opp, update term to 12)
-* Invoice Only Opp - Year 3 - Create a quote for the amount to be invoiced (Use the same sku as the orignal opp, update term to 12)
+* Invoice Only Opp - Year 2 - Update the Amount field to reflect the total to be invoiced. A quote object is not required.
+* Invoice Only Opp - Year 3 - Update the Amount field to reflect the total to be invoiced. A quote object is not required.
 
-If the payment amounts are not equal, ex. Year 1 - $15,000 Year 2 - $10,000, Year 3 $5,000 - then the original opporuntiy quote should only reflect the first year (invoice period) of the subscription. 
+If the payment amounts or user count per year are not identical, (ex. Year 1 - $15,000 Year 2 - $10,000, Year 3 $5,000)- then the original opporuntiy quote should only reflect the first year (invoice period) of the subscription. 
+
+**Ex.** 
+
+3 Year Subscription worth $30,000, broken out into 3 payments. Year 1 - $10,000, Year 2 - $7,000, Year 3 $13,000
+* Primary Opp Quote - 3 Year New Subscription Quote (using the 1 Year Product SKU). Term Length should be 36. 
+* Invoice Only Opp - Year 2 - Update the Amount field to reflect the total to be invoiced. A quote object is not required. (Use the same SKU as the original opp, update intital term to 12)
+* Invoice Only Opp - Year 3 - Update the Amount field to reflect the total to be invoiced. A quote object should be created to reflect the total amount to be invoiced. (Use the same SKU as the original opp, update intital term to 12)
 
 **Ex.** Professional Services Deal -Opportunity amount $300,000. 4 Deliverables are outlined in the Custom SOW to the customer, each deliverable includes a different date for delivery. This requires 4 opportunities because the customer will be invoiced after completion of each deliverable.
 
