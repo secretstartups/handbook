@@ -116,7 +116,7 @@ Once the resolution DRI announces that `master` is fixed:
 * Maintainers should start a new Pipeline for Merged Results (for canonical MRs)
   and enable "Merge When Pipeline Succeeds" (MWPS).
 * (For forks only) Authors should rebase their open merge requests (since
-  [Pipeline for Merged Results](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/#pipelines-for-merged-results-premium)
+  [Pipeline for Merged Results](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/#pipelines-for-merged-results)
   isn't supported in these cases).
 
 ### Maintaining throughput during broken master
@@ -383,7 +383,7 @@ The notes are available in a publicly-accessible [Google doc](https://docs.googl
 
 ## Retrospective
 
-The purpose of our retrospective is to help our team at GitLab learn and improve as much as possible from every monthly release. 
+The purpose of our retrospective is to help our team at GitLab learn and improve as much as possible from every monthly release.
 
 Each retrospective consist of three parts:
 
@@ -395,7 +395,7 @@ Each retrospective consist of three parts:
 
 - `M-1 26th`: GitLab Bot opens [Team Retrospective](/handbook/engineering/management/team-retrospectives/) issue for the current milestone.
 - `M, 19th`: Team Retrospectives should be held.
-- `M, 24th`: Moderator opens the Retrospective planning and execution issue. 
+- `M, 24th`: Moderator opens the Retrospective planning and execution issue.
 - `M, 24th` to `M+1, 3rd`: Participants complete the Retrospective planning and execution issue, add their notes to the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit#), and suggest and vote on discussion topics.
 - `M+1, 4th`: Moderator records the Retrospective Summary video and announces the video and discussion topics.
 - `M+1, 6th`: Retrospective Discussion is held.
@@ -406,7 +406,7 @@ The moderator of each retrospective is responsible for:
 
 - Coordinating the Retrospective planning and execution issue.
 - Presenting the Retrospective Summary.
-- Hosting the Retrospective Discussion. 
+- Hosting the Retrospective Discussion.
 
 The job of a moderator is to remain objective and is focused on guiding conversations forward. The moderator for each retrospective is assigned by the VP Development in each milestone.
 
@@ -429,7 +429,7 @@ The Retrospective Summary is a short pre-recorded video which summarizes the lea
 Once all Team Retrospectives are completed, each team inputs their learnings into a single publicly-accessible [retro doc](https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit?usp=sharing). The  moderator then pre-records a video of the highlights. This video is then announced in the Retrospective planning and execution issue along with the #whats-happening-at-gitlab slack channel. In line with our value of [transparency](/handbook/values/#transparency), we also post this video to our public [Gitlab Unfiltered channel](https://www.youtube.com/c/GitLabUnfiltered/videos).
 
 **Steps for participants**
-1. Please host your Team Retrospective following the guidelines outlined in the [handbook](https://about.gitlab.com/handbook/engineering/management/team-retrospectives/).  
+1. Please host your Team Retrospective following the guidelines outlined in the [handbook](https://about.gitlab.com/handbook/engineering/management/team-retrospectives/).
 1. After the Team Retrospective is complete, please choose a subset some of your most interesting learnings to share company-wide in the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit).  Please try to group by these by our [CREDIT values](https://about.gitlab.com/handbook/values/).
 1. In the retro doc, if there is a learning that you would like to explicitely highlight, please add the text **highlight** at the beginning of the text. The moderator will highlight this along with other learnings listed in the retro doc when they create the pre-recorded video.
 1. If there are improvement tasks for your team from the previous retrospective, please provide an update on them in the retro doc. They will be verbalized during the Retrospective Discussion.
@@ -449,7 +449,7 @@ The Retrospective Discussion is a 25 minute live discussion among participants w
 
 **Discussion Topics**
 
-For each retrospective discussion, we aim to host an interactive discussion covering two discussion topics. We limit this to two topics due to the length of the meeting. 
+For each retrospective discussion, we aim to host an interactive discussion covering two discussion topics. We limit this to two topics due to the length of the meeting.
 
 The discussion topics stem from our Team Retrospective learnings and should be applicable to the majority of participants.
 
@@ -465,7 +465,7 @@ Discussion topics are suggested by participants by commenting on the Retrospecti
 **Steps for participants**
 
 1. Suggest discussion topics by commenting on to the Retrospective planning and execution issue.
-1. Vote on discussion topics by adding a :thumbsup: reaction. Voting closes on `M+1, 3rd`. 
+1. Vote on discussion topics by adding a :thumbsup: reaction. Voting closes on `M+1, 3rd`.
 1. Once discussion topics are announced on `M+1, 4th`, begin adding your comments to the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit).
 1. During the Retrospective Discussion, be prepared to verbalize any improvement tasks or commentary on the discussion topics. If you can't make the meeting and there is an item for you to verbalize, please ask someone else on your team to attend to do so.
 
