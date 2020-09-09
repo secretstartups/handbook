@@ -136,7 +136,7 @@ For a complete list of our Give Back Projects and other Onboarding assignments o
 
 ## Required 7
 
-New team members should familiarize themselves with The Required 7. These are the 7 tactical skills required to be an excellent Commercial Sales Account Executive:
+New team members should familiarize themselves with [The Required 7](/handbook/sales/commercial/enablement/required7/). These are the 7 tactical skills required to be an excellent Commercial Sales Account Executive:
 
 1. [Ranking your accounts](/handbook/sales/commercial/#account-ranking) - [video here](https://youtu.be/M-5OhlYxmFI)
     - Rank all accounts and explain why; log your sources for future efficiency; this needs to be your (recent) tiering, not the previous owners, nor the tiering from the prior fiscal. If it’s unchanged, make the note that it is unchanged and why
