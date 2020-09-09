@@ -61,7 +61,7 @@ classDiagram
 	Retention: Measurement (Count of the number of GitOps synchronization operations) 
   Revenue --|> Referral
 	Revenue : Are users paying for the features?
-	Revenue: Measurement (Percentage of paying namespaces - namespaces that have at least 1 agent installed)
+	Revenue: Measurement (# of paying users that have installed an agent / Total users that have installed an agent.)
   Referral --|> Acquistion
 	Referral : Are users encouraging others to use the feature?
 	Referral: Measurement (Count of pageviews on Kubernetes cluster documentation)
@@ -82,7 +82,7 @@ classDiagram
 	Retention: Measurement (Number of Terraform reports generated in the last month) 
   Revenue --|> Referral
 	Revenue : Are users paying for the features?
-	Revenue: Measurement (Percentage of paying users having using Terraform reports)
+	Revenue: Measurement ((# of paying users that have Terraform reports / Total users that have have Terraform reports.))
   Referral --|> Acquistion
 	Referral : Are users encouraging others to use the feature?
 	Referral: Measurement (Count of pageviews on Infrastructure as Code documentation coming from referrals)
