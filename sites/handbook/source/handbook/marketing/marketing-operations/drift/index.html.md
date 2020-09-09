@@ -11,7 +11,20 @@ title: "Drift"
 
 ## Overview
 
-Drift is a chat platform used by the Sales Development (SDR) team to engage visitors on select webpages. Drift playbooks are customized workflows that help visitors find information as well as offer the option to chat directly or schedule time to speak with SDRs. 
+Drift is a chat platform used by the Sales Development (SDR) team to engage visitors on select webpages. Engagement with Drift begin when a site visitor opts into interacting with an available Drift playbook. Playbooks are customized workflows that help visitors find information as well as offer the option to chat directly or schedule time to speak with SDRs. 
+
+### Drift playbooks
+We have Drift playbooks in use on select permanant webpages as well as temporary landing pages. The content of the playbook depends on the intended experience on the page and the target audience.
+
+**Permanent pages:**
+- https://about.gitlab.com/pricing/
+- https://about.gitlab.com/sales/ 
+- https://about.gitlab.com/features/ 
+- https://about.gitlab.com/stages-devops-lifecycle/
+- https://about.gitlab.com/free-trial/ 
+
+**Current temporary pages:**
+- https://page.gitlab.com/springone-virtual-2020.html
 
 ## How to use Drift
 
@@ -68,19 +81,6 @@ Drift is expected to mirror [LeanData](/handbook/marketing/marketing-operations/
 
 **Sharing your calendar in chat**
 *  At the right-hand side of the conversation toolbar there is a small calendar icon. Click there and you can share your own calendar or anyone else’s calendar that is connected in Drift.
-
-## Drift playbooks
-We have Drift playbooks in use on select permanant webpages as well as temporary landing pages. The content of the playbook depends on the intended experience on the page and the target audience.
-
-**Permanent pages:**
-- https://about.gitlab.com/pricing/
-- https://about.gitlab.com/sales/ 
-- https://about.gitlab.com/features/ 
-- https://about.gitlab.com/stages-devops-lifecycle/
-- https://about.gitlab.com/free-trial/ 
-
-**Current temporary pages:**
-- https://page.gitlab.com/springone-virtual-2020.html
 
 ## Have a question or request? 
 * **Slack channel:** #drift
