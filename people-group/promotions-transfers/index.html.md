@@ -67,27 +67,87 @@ All migration tasks by the applicable team members needs to be completed within 
 
 ## BambooHR or Greenhouse Process
 
-- Promotions for Individual Contributors in the same job family: reviewed and approved through the [BambooHR Approval Process](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process)
-    - Example: Backend Engineer is promoted to Senior Backend Engineer.
-- Promotions or Applications to Manager level roles: All managers will need to apply for the open position in [Greenhouse](/handbook/hiring/interviewing/#internal-applicants). They will go through the interview and approval process in Greenhouse to ensure anyone who would want to apply has the opportunity.
-    - Example: Senior Backend Engineer applies to become a Manager, Engineering.
-- Lateral Transfers to a different job family: apply and approval through the Greenhouse [hiring process](/handbook/hiring/).
-    - Example: Backend Engineer applies to a Site Reliability Engineering role.
-- Change in Territory, Segment, or Specialty:
-    - Reviewed and approved through the [BambooHR Approval Process](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process) for any change in territory, segment, or specialty when there is no change to the job family or level, there is no compensation or stock adjustment and no backfill request.
-    - Apply and approval through the Greenhouse [hiring process](/handbook/hiring/) for any change in territory, segment, or specialty that requires a change in job family or level, change in compensation or stock adjustment or requires a backfill request.
-- **Promotions to Director and above**: approval through the [BambooHR Approval Process](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process) to ensure the CFO/CEO have insight and approval into leadership promotions.
-    - The [e-group](https://about.gitlab.com/company/team/structure/#e-group) will review any promotion at Director level (or above) in their weekly meeting 3 months before the promotion is intended to take place and feedback may be provided to the individual and their manager to work on. This is to ensure consistent leadership qualities across the company. Exceptions to this timeline can be made at the e-group's discretion. We do not yet have a similar method to ensure consistency in external hires for Director (and above) roles but we hope to add it soon.
-    - All Director level (or above) promotions will be reviewed by the [e-group](/company/team/structure/#e-group) on a quarterly basis at the e-group offsite. Proposed promotions will be assessed against the criteria outlined in our [Team Structure](/company/team/structure/), as well as the business need for the promotion, each of the [Values](/handbook/values/), [our competencies](/handbook/competencies/), and considerations.
-    - The only exception to this process is when filling an open Director and above role with an existing GitLab team member for a role posted publicly that an internal team member applies for. If external candidates have been considered and interviewed, and the internal candidate earns the role through a standard hiring process (screening, full interview process) then the recruiter may make an offer to the candidate as soon as the offer is approved. There should be no difference in the timing or process of making and accepting an offer for open roles between internal and external candidates.
-    - Please [use this template](https://docs.google.com/document/d/1VcQK1Uci2VSnbX0BP8QIYKHcsJi0Fvwl9u79S8W1mpM/edit#heading=h.o7rctrz9uxl7) for Director or above promotions, and share the final version with your People Business Partner so the promotion is added to the tracker for the e-group to review.
+### Greenhouse 
+* Promotions or Applications to Manager level roles: All managers will need to apply for the open position in [Greenhouse](/handbook/hiring/interviewing/#internal-applicants). They will go through the interview and approval process in Greenhouse to ensure anyone who would want to apply has the opportunity.
+  * Example: Senior Backend Engineer applies to become a Manager, Engineering
+* Interim Roles: Interim roles at all levels should go through the Greenhouse interview process (regardless of the number of applicants for the role).
+  * Example: Senior Backend Engineer applies to become a Manager, Engineering (interim)  
+* Lateral Transfers to a different job family: apply and approval through the Greenhouse [hiring process](/handbook/hiring/).
+  * Example: Backend Engineer applies to a Site Reliability Engineering role.
 
-## Greenhouse Process Requirements
+#### Greenhouse Process Requirements
 
 For any transfer being submitted through Greenhouse [hiring process](/handbook/hiring/), the following is required:
 
 - The positions must be open for a minimum of 24 hours
 - There must be a minimum of 2 interviews completed before moving to an offer for a candidate
+
+### BambooHR
+* Promotions for Individual Contributors in the same job family: reviewed and approved through the [BambooHR Approval Process](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process)
+  * Example: Backend Engineer is promoted to Senior Backend Engineer.
+* Change in Territory, Segment, or Specialty:
+  * Reviewed and approved through the [BambooHR Approval Process](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process) for any change in territory, segment, or specialty when there is no change to the job family or level, there is no compensation or stock adjustment and no backfill request.
+  * Apply and approval through the Greenhouse [hiring process](/handbook/hiring/) for any change in territory, segment, or specialty that requires a change in job family or level, change in compensation or stock adjustment or requires a backfill request.
+* **Promotions to Director and above**: approval through the [BambooHR Approval Process](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process) to ensure the CFO/CEO have insight and approval into leadership promotions.
+    * The [e-group](https://about.gitlab.com/company/team/structure/#e-group) will review any promotion at Director level (or above) in their weekly meeting 3 months before the promotion is intended to take place and feedback may be provided to the individual and their manager to work on. This is to ensure consistent leadership qualities across the company. Exceptions to this timeline can be made at the e-group's discretion. We do not yet have a similar method to ensure consistency in external hires for Director (and above) roles but we hope to add it soon.
+    * All Director level (or above) promotions will be reviewed by the [e-group](/company/team/structure/#e-group) on a quarterly basis at the e-group offsite. Proposed promotions will be assessed against the criteria outlined in our [Team Structure](/company/team/structure/), as well as the business need for the promotion, each of the [Values](/handbook/values/), [our competencies](/handbook/competencies/), and considerations.
+    * The only exception to this process is when filling an open Director and above role with an existing GitLab team member for a role posted publicly that an internal team member applies for. If external candidates have been considered and interviewed, and the internal candidate earns the role through a standard hiring process (screening, full interview process) then the recruiter may make an offer to the candidate as soon as the offer is approved. There should be no difference in the timing or process of making and accepting an offer for open roles between internal and external candidates.
+    * Please [use this template](https://docs.google.com/document/d/1VcQK1Uci2VSnbX0BP8QIYKHcsJi0Fvwl9u79S8W1mpM/edit#heading=h.o7rctrz9uxl7) for Director or above promotions, and share the final version with your People Business Partner so the promotion is added to the tracker for the e-group to review.
+
+
+## Interim and Acting Roles
+
+### Interim (Engineering-Specific)
+
+As part of the career development structure within the Engineering division, interim and acting role opportunities occasionally arise. For more information on how interim and acting roles fit into Engineering career development, please reference the [Engineering career development handbook page](/handbook/engineering/career-development/). For information on the interim and acting processes, please continue reading below. 
+
+#### Beginning Interim Period
+
+As highlighted in the [BambooHR or Greenhouse Process](https://about.gitlab.com/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process) section, all interim roles (regardless of the number of applicants) should go through the Greenhouse application and interview process. The interview process steps will be determined by the hiring manager and next level leader. This will contain several steps of the standard [GitLab hiring process](https://about.gitlab.com/handbook/hiring/interviewing/#typical-hiring-timeline). The process for team members interested in applying for an interim role is as follows:
+
+1. *Team Member*: Apply for the interim position in Greenhouse.
+
+_Once a team member successfully completes the interview process and is selected for the interim period, the following steps should be taken to ensure the team member is set up for success in their interim role._
+
+2. *Recruiter*: Issue a Letter of Adjustment to finalize the beginning of the interim period. The Letter should include: interim job title, start date, and end date (if known). Letters of adjustment are important as this is the process by which Total Rewards is notified of change from Greenhouse. 
+
+3. *Total Rewards*: Update the team member's job title in BambooHR to reflect that they have started an interim role (I.E. `Senior Manager, Engineering (interim)`). This update serves as the SSOT for tracking interim start and end dates, in addition to providing transparency pertaining to who is currently executing in an interim role. Job code and job grade will remain the same, as interim periods have no impact on compensation.
+
+4. *Current Manager*: A [Job Information Change Request](https://about.gitlab.com/handbook/people-group/promotions-transfers/#job-information-change-in-bamboohr) should be submitted to:
+  * Move interim direct reports so the team member's interim direct reports are reporting to them in BambooHR. The change needs to be initiated by the current manager. The philosophy here is that if a team member has successfully gone through the interview process and has demonstrated they are ready/able for an interim period in a manager role, they have the required level of EQ and discretion to have direct reports in BambooHR. It is, of course, expected that should the interim period not end in promotion, the team member continue to treat confidential information confidentially. 
+
+
+#### Ending Interim Period
+
+When the interim period comes to a close, one of two outcomes can occur:
+
+1. The team member successfully completes the interim period and moves into the interim role permanently. 
+* As a general guideline, the interim period should last no _less_ than 30 days, and no _more_ than 4 months
+* Because the team member _already_ went through the Greenhouse interview process, there is *no need to submit a promotion document to make the move official*. 
+* At the end of the interim period the team member should have a 1:1 with the hiring manager dedicated to providing feedback (strengths during the interim period and improvement areas) to ensure alignment moving forward. 
+* Following this session, the hiring manager may [submit a formal promotion request](/handbook/people-group/promotions-transfers/#submit-a-promotion-request-in-bamboohr) via BambooHR to make the change official. 
+
+1. The team member does not complete the interim period successful or decides that the manager track is not something they want to pursue, and moves back to their role prior to the interim period. 
+* A feedback session between the team member and hiring manager should take place, so it is clear to the team member why the interim period was not successful.
+* The manager should submit a [job information change request](https://about.gitlab.com/handbook/people-group/promotions-transfers/#job-information-change-in-bamboohr) in BambooHR to revert the team member's job title. 
+
+* Not successsfully completing the interim period _does not_ mean the team member can not move into a similar role in the future
+
+
+_Irrespective of the outcome, when the interim period ends, the manager should review the [Criteria For Eligibility](/handbook/total-rewards/compensation/#criteria-for-eligibility) for the [Interim Bonus](/handbook/total-rewards/compensation/#calculation-of-interim-bonus) and [submit an interim bonus request](/handbook/incentives/#process-for-recommending-a-team-member-for-a-bonus-in-bamboohr) for the team member. 
+
+### Acting
+
+A person "acting" in the role is someone who occupies a role temporarily and will move back to their original role after a set amount of time or other conditions. "Acting" in a role may be experimenting with the role as a part of determining an individual's career development path, or may be filling in for a vacant role while we hire someone to fill the role permanently. While interim is only applicable to the Engineering division, acting is used across GitLab. 
+
+*Interviews are not required role Acting roles as they generally do not end in promotion, nor are direct reports in BambooHR generally moved to Acting managers.* The process for selecting someone for an acting position is:
+
+  * Upcoming Interim roles will be discussed over Staff meetings.
+  * Leadership can gather interest from their team members for the upcoming acting roles.
+  * The hiring manager will determine the most suitable team member for the acting role. 
+
+
+_When the acting period ends, the manager should review the [Criteria For Eligibility](/handbook/total-rewards/compensation/#criteria-for-eligibility) for the [Interim Bonus](/handbook/total-rewards/compensation/#calculation-of-interim-bonus) and [submit an interim bonus request](/handbook/incentives/#process-for-recommending-a-team-member-for-a-bonus-in-bamboohr) for the team member._
 
 ## For Managers: Requesting a Promotion or Compensation Change
 
