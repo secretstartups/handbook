@@ -18,7 +18,7 @@ title: "Solutions Architect Processes"
 
 ### Working Agreements
 
-Enterprise Solutions Architects typically support two sales teams made up of Sales Development Representatives, Strategic Account Leaders and Technical Account Managers. Commercial Sales Solutions Architects support Mid-Market Account Executives and SMB Customer Advocates in a pooled model. When joining a sales team, establishing working agreements is critical to providing optimal service to the customers as well as the GitLab team. A sample template of working agreements is found below to help facilitate conversation and establish these agreements:  
+Enterprise Solutions Architects typically support two sales teams made up of Sales Development Representatives, Strategic Account Leaders and Technical Account Managers. Commercial Sales Solutions Architects support Mid-Market Account Executives and SMB Customer Advocates in a pooled model. When joining a sales team, establishing working agreements is critical to providing optimal service to the customers as well as the GitLab team. A sample template of working agreements is found below to help facilitate conversation and establish these agreements:
 
 1. **Customer response time for emails and meeting followups** I will always do my best to provide same-day responses to customer inquiries and follow ups unless otherwise noted. I like to provide customers top-notch service, but interruptions can affect that target. I will use my out of office when traveling so customers can expect delayed responses during those times. Feel free to contact me if it's approaching the end of the day and you didn't see me address a customer request. Slack is the easiest way to find me most of the time.
 1. **Calendar** Schedule things as necessary right on my calendar during working hours - I'll do my best to keep my calendar up to date. However, if you see only one empty slot for a day or if it looks like the meeting would be back to back with something else, please check with me before confirming dates and times with the customer. If you want me at my best for you, I will need time to prepare and followup. If we schedule back to back, I've found I'm often late to arrive due to the last meeting, flustered as I context shift, lacking answers for known questions, unprepared with demo environments that were altered in the last call, etc.
@@ -32,22 +32,23 @@ Enterprise Solutions Architects typically support two sales teams made up of Sal
 ### Tool Usage within Cross-functional Teams
 
 1. **Salesforce**
-[To-do] Add info on views and reports to use during the sales cycle.  Also, guidance on SA being listed on opportunities and accounts (there is not any info in our current handbook)
-1. **Gainsight** Technical Account Managers user Gainsight to manage the ongoing customer lifecycle.  Others in sales have view access to the Gainsight data.  The easiest way to access Gainsight is via Salesforce.  See the TAM handbook section [Using Gainsight with Customer Success](https://about.gitlab.com/handbook/customer-success/tam/gainsight/) for details.
-1. **Slack** Create a public internal team slack channel for your cross-functional team.  This will allow you to collaborate easily without sending DM's.
-1. **Google Drive**  There is a shared [GitLab Sales](https://drive.google.com/drive/folders/0BzQII5CcGHkKSFFJWkx3R1lUdGM?usp=sharing) folder.  Running customer notes and other documents related to a specific customer should be stored in the [Customers and Prospects Subfolder](https://drive.google.com/drive/folders/0B-ytP5bMib9Ta25aSi13Q25GY1U?usp=sharing) under the appropriate letter and customer name subfolder.
-1. **[GitLab Account Management Project](https://gitlab.com/gitlab-com/account-management)** may be used for a POV and/or TAM collaboration with a customer post-sale.
-1. **[Chorus.ai](https://chorus.ai/)** is used to record meetings.  The GitLab Notetaker will automatically join meetings with people outside of GitLab once your account is set up.
+[To-do] Add info on views and reports to use during the sales cycle. Also, guidance on SA being listed on opportunities and accounts (there is not any info in our current handbook)
+1. **Gainsight** Technical Account Managers user Gainsight to manage the ongoing customer lifecycle. Others in sales have view access to the Gainsight data. The easiest way to access Gainsight is via Salesforce. See the TAM handbook section [Using Gainsight with Customer Success](https://about.gitlab.com/handbook/customer-success/tam/gainsight/) for details.
+1. **Slack** Create a public internal team slack channel for your cross-functional team. This will allow you to collaborate easily without sending DM's.
+1. **Google Drive** There is a shared [GitLab Sales](https://drive.google.com/drive/folders/0BzQII5CcGHkKSFFJWkx3R1lUdGM?usp=sharing) folder. Running customer notes and other documents related to a specific customer should be stored in the [Customers and Prospects Subfolder](https://drive.google.com/drive/folders/0B-ytP5bMib9Ta25aSi13Q25GY1U?usp=sharing) under the appropriate letter and customer name subfolder.
+1. <b>[GitLab Account Management Project](https://gitlab.com/gitlab-com/account-management)</b> may be used for a POV and/or TAM collaboration with a customer post-sale.
+1. <b>[Chorus.ai](https://chorus.ai/)</b> is used to record meetings. The GitLab Notetaker will automatically join meetings with people outside of GitLab once your account is set up.
 
 ### Quarterly Business Reviews (QBR)
 
-The entire cross-functional team should help in the preparation of the QBR content that the sales rep will present during the QBR, and should participate in the QBR session.  It is often helpful to perform  a dry run of the QBR with the area sales manager prior to the actual meeting, to review the content and timing of the presentation.
+The entire cross-functional team should help in the preparation of the QBR content that the sales rep will present during the QBR, and should participate in the QBR session. It is often helpful to perform a dry run of the QBR with the area sales manager prior to the actual meeting, to review the content and timing of the presentation.
 
 ### Engaging an SA During the Sales Cycle
 
-Solution Architects may participate in initial qualifying meetings (IQM's) or allow the SDR and SAL/AE to manage the initial call and utilize information gained during it for additional preparation.  Teams can handle this on a case by case basis.  
+Solution Architects may participate in initial qualifying meetings (IQM's) or allow the SDR and SAL/AE to manage the initial call and utilize information gained during it for additional preparation. Teams can handle this on a case by case basis.
 
 Solution Architects should participate in [technical discovery](#### Technical Discovery and Demo Preparation) after lead qualification is complete and in other activities during the sales process that lead to a technical win, e.g.
+
 - GitLab demos
 - GitLab technical deep dives
 - Whiteboarding sessions
@@ -56,56 +57,41 @@ Solution Architects should participate in [technical discovery](#### Technical D
 - [Security audits](https://about.gitlab.com/handbook/engineering/security/security-assurance/field-security/customer-security-assessment-process.html#how-to-request-a-questionnaire-be-completed)
 - [SOW Scoping with Professional Services] (https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/)
 
-SA's may also work in tandem with a TAM to support existing customers, especially when expand opportunities exist within the account.  And SA's may also have regular touch points smaller customers who do not have a TAM assigned.
+SA's may also work in tandem with a TAM to support existing customers, especially when expand opportunities exist within the account. And SA's may also have regular touch points smaller customers who do not have a TAM assigned.
 
-#### SA/TAM engagement overlap
-
-Generally, the SA owns all pre-sales technical relationships and activities while a TAM owns growth after an initial sale.  However, the SA will still be involved with the customer after an initial sale in several circumstances. Likewise, a TAM will become involved prior to a sale for context and collaboration.
-
-TAM engagement prior to the sale should occur in the following situations:
-
-* At the POV completion & presentation meeting when the results are reviewed and next steps agreed upon
-* When a shared Slack channel is created for the customer
-* A shared customer issue tracking project has been created that will affect the account long-term
-* As requested by the SA if the TAM has a specific subject matter expertise relevant to the conversation
-
-The TAM owns the account post-sale. SA's remain involved in the following situations:
-
-* Development of expansion plans with the SAL and TAM
-* A new POV or product evaluation begins for a single team or an enterprise-wide upgrade
-* Any product license expansion that require overviews, education and competitive insights prior to close
-* Any Professional Services that are being discussed and may require an SOW
-* If a TAM is over-committed or unable to support a customer request, the SA may be requested to assist
-* Support of GitLab days or other on-site evangelism of GitLab at customer sites
+#### [SA/TAM Engagement Overlap](https://about.gitlab.com/handbook/customer-success/#overlap-between-solution-architects-and-technical-account-managers)
 
 #### Technical Discovery and Demo Preparation
+
 Prior to any technical discovery and demo preparation, the SA should be provided with the following information about the current opportunity:
-  * Share any existing notes about the opportunity
-  * Key players and personas
-  * Other relevant information shaping an engagement
-  * Is there a business plan or sales approach defined?
-  * What next steps are we hoping to drive from the next call?
+
+- Share any existing notes about the opportunity
+- Key players and personas
+- Other relevant information shaping an engagement
+- Is there a business plan or sales approach defined?
+- What next steps are we hoping to drive from the next call?
 
 The Solutions Architect, in order to tailor conversations and demos to demonstrate value as well as address current problem areas, will want to understand the following information, and may request further technical discovery prior to any demo:
 
-1. **Outcome:**  
-  * What’s in it for the client?  
-  * Why look at a new strategy for software development?
+1. **Outcome:**
+
+- What’s in it for the client?
+- Why look at a new strategy for software development?
 
 1. **Infrastructure:**
-  * What tools are currently in place?  
-  * What tools have potential to be replaced?
-  * What processes or workflows have potential to change?
+
+- What tools are currently in place?
+- What tools have potential to be replaced?
+- What processes or workflows have potential to change?
 
 1. **Challenges:**
-  * What problems/roadblocks have been uncovered?
-  * What is the current release velocity?
-  * What is the current planning process?
-  * What visibility, traceability or efficiency concerns exist?
-  * What collaboration or governance opportunities exist?
-  * What security or compliance inefficiencies exist?
 
-
+- What problems/roadblocks have been uncovered?
+- What is the current release velocity?
+- What is the current planning process?
+- What visibility, traceability or efficiency concerns exist?
+- What collaboration or governance opportunities exist?
+- What security or compliance inefficiencies exist?
 
 ## Solution Architect Engagement Models
 
