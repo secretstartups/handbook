@@ -152,51 +152,6 @@ PECR also applies to technologies like scripts, tracking pixels and plugins, whe
  
 If you provide cookies that fall in these categories, consent is required.  You never who is on a technological diet.  Ask before you give them a cookie.  
 
-## Contract Details
-
-Below are some important conventions in our contracts. 
-
-Price - If a contract lacks a price (or a mechanism for objectively ascertaining price) then the contract isn’t valid. If a contract gets too convoluted with a pricing structure that a reasonable person cannot understand the cost, the contract could lose validity.  No price, no deal.
-
-Delivery
-
-Limitation of Liability
-
-Indemnity - This is where we promise to pay for lawsuits that a customer may have. If we don't clarify here, we could end up paying for things unrelated to our products.
-
-Warranty and Warranty Disclaimer
-
-Governing Law
-
-Survival Clause – this is to make sure that some things in the contract will remain in effect after termination.  We don’t want our customers buying our stuff, promising not to reverse engineer it, cancel the contract and then proceed with the reverse engineering.  Canceling a contract doesn’t cancel the obligation to protect our IP or maintain confidentiality.  These things survive after the end of the contract. 
-
-Intellectual Property – Intellectual Property means patents, copyrights, trademarks, trade secrets, pictures, videos, and even sounds. GitLab protects our IP out of respect for our work and because it gives market differentiation. Any attempt to sell or give away IP ownership has to have permission of the highest levels of management.
-
-Confidentiality  
-
-## Resellers
-
-Resellers buy from the Manufacturer and, as their name indicates, resell the product.  Often, resellers receive a reduction in price because they are saving a company time and money in finding and closing with buyers.  Once a reseller purchases the product, it is theirs.  A company can have no control over what resellers decide to do with it  - except do something illegal with it.  
-
-Aside from requiring you to not break any laws, once a reseller buys the product, a company can have no more control with what the reseller does with it.  The company can’t tell resellers how much to charge others, to combine it with other products, to sell (or not to sell) in certain locales.  For all intents and purposes, the product is the resellers'.  In additiona, the resellers' agreements are theirs to manage.  The customers will transact directly with resellers. And, if the customers get mad, it is resellers they will sue.  If a company were to try to start dictating what a reseller can and can’t do, it could trigger antitrust laws.  
-
-An important fact to note is that because a company is selling to resellers, resellers are major customers of the company.  Why does that title matter?  Because companies cannot *pay* customers to buy from them.  This is called a kickback.  If a company pays a reseller, they could run afoul of anti-bribery laws. 
-
-Resellers make money by buying low and selling high. Resellers control their own sales, revenues, losses and markets. A good reseller makes a profit running their business. 
-
-### Distributors  
-The nuance here is that a distributor is a glorified reseller.  Where a reseller sells to the end user, distributors sell to resellers.  
-
-### Representative or Agent  
-This is different than a reseller.  An agent directs customers to the company, rather than selling to the customer themselves.  Unlike with a Reseller, the agreement is between the company and the customer.  Agents wear the company's hat and hold themselves out as an extension of the company.  Companies pay Agents a percentage of the sales; but those sales are at full price.  
-
-If an agent does something pretty bad, the customers would sue the company directly, which is why companies will usually ensure they have a strong indemnification clause in their agreement with Agents.  
-
-**The nuances in these relationship will govern the contract terms.  The relationship also governs which laws apply.**
-
-For more information, see the [Partner Code of Ethics](/handbook/people-group/people-policy-directory/#partner-code-of-ethics)
-
- 
 ## Export
 
 Governments throughout the world pose restrictions on their technology.  Various countries state that if the technology is of their origin, it falls under the laws of their country.  
