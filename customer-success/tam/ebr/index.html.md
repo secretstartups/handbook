@@ -40,11 +40,11 @@ Also to be considered:
 
 ## How to prepare an EBR
 
-The first step is the [CTA in Gainsight](/handbook/customer-success/tam/gainsight/#ctas)that will automatically open five months into the subscription, with a due date of one month later to give time to schedule, prepare for and conduct the EBR.  If doing a more frequent EBR, please manually open a CTA, and within this CTA, open the "EBR" playbook. The CTA is where you will track the completion of tasks necessary for a successful EBR.
+The first step is the [CTA in Gainsight](/handbook/customer-success/tam/gainsight/#ctas) that will automatically open five months into the subscription, with a due date of one month later to give time to schedule, prepare for and conduct the EBR.  If doing a more frequent business review, please manually open a CTA, and within this CTA, open the "EBR" playbook. The CTA is where you will track the completion of tasks necessary for a successful EBR.
 
-Here you can find our [EBR Template](https://docs.google.com/presentation/d/1FfHBVMsY2a3cteylz7Alq-K43OmBPLylBoVdIccsO8g/edit?usp=sharing).  Please note this template is aimed at a one-hour EBR, and the account team may want to consider removing elements such as product and support insights if a buyer has only given us 30 minutes.
+To create the content for the EBR, here you can find the [EBR Template](https://docs.google.com/presentation/d/1FfHBVMsY2a3cteylz7Alq-K43OmBPLylBoVdIccsO8g/edit?usp=sharing).  Please note this template is aimed at a one-hour EBR, and the account team may want to consider removing elements such as product and support insights if a buyer has only given us 30 minutes.
 
-The SALSA/TAM meeting or AE/TAM sync is the best time to review those customers that are due an EBR, and agree on next steps for ensuring the economic buyer and key decision makers are invited and able to attend.
+To schedule the EBR, the SALSA/TAM meeting or AE/TAM sync is the best time to review customers that are due an EBR, and agree on next steps, ensuring the economic buyer and key decision makers are invited and able to attend where possible.
 
 Please view our [EBR Playbook](https://docs.google.com/spreadsheets/d/1nGjXMaeAFWEOGdsm2DPW-yZEIelG4sy46pX9PbX4a78/edit#gid=0) (internal to GitLab) for more details on how to propose, prepare, and present an EBR. This internal playbook also includes a link to [EBR sell sheets](https://drive.google.com/drive/folders/1MYIIEqOZ_lskuVUt4S-lkz1HR79ZbDjj?usp=sharing), which TAMs can copy and edit to send to their customers to help demonstrate what the customer will get out of the EBR, as well as an "[EBR in a Box](https://docs.google.com/presentation/d/1V3wzIZ9j6pVUbXpSeJgA_Lk-97C7_vr8NUJWk4J0__s/edit?usp=sharing)" presentation which contains several pointers on the logistics of preparing, such as a suggested timeline, how to prepare and tips on presenting.
 
