@@ -59,12 +59,12 @@ Due to the new requirement of passwords in Zoom meetings, Chorus is unable to jo
 Follow the [quick instructions](/handbook/business-ops/tech-stack/#chorus) in the Handbook.
 
 ----
-A new **Partner Information section has been added to all opportunities in SFDC to ensure proper tracking** for all channel opportunities. If you are working a deal with a GTM route of Channel, ensure this section properly reflects the partners involved in the deal. In the case of a Partner Initiated Opportunity from the partner portal, these sections should already be populated, but please double check before closing your deal.  
+A new **Partner Information section has been added to all opportunities in SFDC to ensure proper tracking** for all channel opportunities. If you are working a deal with a GTM route of Channel, ensure this section properly reflects the partners involved in the deal. In the case of a Partner Initiated Opportunity from the partner portal, these sections should already be populated, but please double check before closing your deal.
 
-Questions? Reach out to #channel-ops or [visit the Handbook](/handbook/sales/field-operations/channel-operations/). 
+Questions? Reach out to #channel-ops or [visit the Handbook](/handbook/sales/field-operations/channel-operations/).
 
 ----
-We are moving [group-level IP restriction](https://docs.gitlab.com/ee/user/group/#ip-access-restriction-ultimate) from Ultimate/Gold to Premium/Silver. This move is tentatively scheduled for the 13.1 release. 
+We are moving [group-level IP restriction](https://docs.gitlab.com/ee/user/group/#ip-access-restriction) from Ultimate/Gold to Premium/Silver. This move is tentatively scheduled for the 13.1 release.
 
 [Watch this video](https://www.youtube.com/watch?v=e2pgJlqwZvw&feature=youtu.be) for more details, and leave questions in the [public issue](https://gitlab.com/gitlab-org/gitlab/-/issues/215410).
 
