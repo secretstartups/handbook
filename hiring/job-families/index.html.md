@@ -147,27 +147,42 @@ title: {add text of job family name}
 {add brief description of the role}
 
 ## Responsibilities
-* {add a bulleted list}
+* {add a bulleted list of responsibilities that apply for all levels of the role}
 
 ## Requirements
 * Ability to use GitLab
-* {add a bulleted list}
+* {add a bulleted list of requirements that apply for all levels of the role}
 
 ## Levels
-### {add name of level - i.e. Junior/Senior/Manager}
-{add the position this level reports to}
+### {add name of level - i.e. Junior/Senior/Manager. Note we do not list the intermediate level in the title but after the role in parentheses - i.e. IT Systems Engineer (Intermediate)}
+The {add the position title} reports to the {add the reporting position and link to the job family or headding (if on the same page)}.
 
 #### {add Level} Job Grade
 The {add the role name} is a [grade #](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### {add Level} Responsibilities
-* {add a bulleted list}
+* {add a bulleted list of responsibilities that apply for this level}
 
 #### {add Level} Requirements
-* {add a bulleted list}
+* {add a bulleted list of requirements that apply for all levels of the role}
 
 #### {add Level} Performance Indicators
-* {add 3-5 KPIs that this role will be the DRI for}
+* {add 3-5 KPIs that this role will be the DRI for, if the PIs are the same for all lelvels remove this section and use the headding 2 section later in the template}
+
+### {add name of level - i.e. Junior/Senior/Manager. Note we do not list the intermediate level in the title but after the role in parentheses - i.e. IT Systems Engineer (Intermediate)}
+The {add the position title} reports to the {add the reporting position and link to the job family or headding (if on the same page)}.
+
+#### {add Level} Job Grade
+The {add the role name} is a [grade #](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### {add Level} Responsibilities
+* {add a bulleted list of responsibilities that apply for this level}
+
+#### {add Level} Requirements
+* {add a bulleted list of requirements that apply for all levels of the role}
+
+#### {add Level} Performance Indicators
+* {add 3-5 KPIs that this role will be the DRI for, if the PIs are the same for all lelvels remove this section and use the headding 2 section later in the template}
 
 ## Segment
 ### {add name of Specialty - i.e. Security, Monitor, Create, etc.}
@@ -175,9 +190,6 @@ The {add the role name} is a [grade #](/handbook/total-rewards/compensation/comp
 
 #### {add Segment} Requirements
 * {add a bulleted list}
-
-## Performance Indicators
-* {add at least one KPI that this role will be the DRI for}
 
 ## Specialties
 ### {add name of Specialty - i.e. Security, Monitor, Create, etc.}
@@ -187,7 +199,7 @@ The {add the role name} is a [grade #](/handbook/total-rewards/compensation/comp
 * {add a bulleted list}
 
 ## Performance Indicators
-* {add at least one KPI that this role will be the DRI for}
+* {add at least one KPI that this role will be the DRI for, if PIs were listed for each level, because the are all unique, remove this section}
 
 ## Career Ladder
 {add brief description of the career ladder}
@@ -202,6 +214,11 @@ Additional details about our process can be found on our [hiring page](/handbook
 ```
 *Please note the **Compensation** and **About GitLab** sections will auto-populate because of the job family formatting. 
 
+* Clarify which pecialities each level pertains to:
+   * Specialities may be relevant for some but not all levels. If the same specialty list pertains to multiple roles, list specialties after the most senior role that they pertain to.  In the the specialty list, add a first bullet that says, "relevant for {name of all relevant job levels} responsibilities." 
+* Do not repeat the junior requirement list for more senior levels:
+   * You do not want to relist an entire requirement set from a more junior level that also pertains to a more senior one. You can choose to keep the section title as {Level} Requirements. You can then add a first bullet that says, "extends the {name of lower job level} responsibilities."    
+
 **Second Template**
 The second template is appropriate when there are three or more job titles within the same family. For example the team is made up of many different positions, that all report into the same person or are all working to accomplish the same goals. 
 
@@ -215,7 +232,7 @@ title: {add text of job family name}
 {add brief description of the job family}
 
 ## Role
-{add brief description of the role here, include what position it reports to}
+{add brief description of the role} The {add the position title} reports to the {add the reporting position and link to the job family or headding (if on the same page). This should be the final sentence}.
 
 ### Responsibilities
 * {add a bulleted list]
@@ -241,7 +258,7 @@ Candidates for this position can expect the hiring process to follow the order b
 Additional details about our process can be found on our [hiring page](/handbook/hiring).
 
 ## Role
-{add brief description of the role here, include what position it reports to}
+{add brief description of the role} The {add the position title} reports to the {add the reporting position and link to the job family or headding (if on the same page). This should be the final sentence}.
 
 ### Responsibilities
 * {add a bulleted list}
@@ -267,12 +284,6 @@ Candidates for this position can expect the hiring process to follow the order b
 Additional details about our process can be found on our [hiring page](/handbook/hiring).
 ```
 *Please note the **Compensation** and **About GitLab** sections will auto-populate because of the job family formatting.
-
-## Helpful Tips 
-1. Not Repeating More Junior Requirement List for More Senior Levels
-   * You may not want to relist an entire requirement set from a more junior level that also pertains to a more senior one. You can choose to keep the section title as {Level} Requirements. You can then add a first bullet that says, "extends the {name of lower job level} responsibilities." 
-1. Clarifying Which Levels Specialities Pertain To
-   * Specialities may be relevant for some but not all levels. If the same specialty list pertains to multiple roles, list specialties after the most senior role that they pertain to.  In the the specialty list, add a first bullet that says, "relevant for {name of all relevant job levels} responsibilities." 
 
 ### Creating a New Job Family from Scratch
 
