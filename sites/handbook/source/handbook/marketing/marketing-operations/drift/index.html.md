@@ -11,7 +11,7 @@ title: "Drift"
 
 ## Overview
 
-Drift is a chat platform used by the Sales Development (SDR) organization to engage visitors on select webpages. Engagement with Drift begin when a site visitor opts into interacting with an available Drift playbook. Playbooks are customized workflows that help visitors find information as well as offer the option to chat directly or schedule time to speak with SDRs. 
+Drift is a chat platform used by the Sales Development (SDR) organization to engage visitors on select webpages. Engagement with Drift begins when a site visitor opts into interacting with an available Drift playbook. Playbooks are customized workflows that help visitors find information as well as offer the option to chat directly or schedule time to speak with SDRs. 
 
 ### Playbooks
 We have Drift playbooks in use on select permanant webpages as well as temporary landing pages. The content of the playbook depends on the intended experience on the page and the target audience.
