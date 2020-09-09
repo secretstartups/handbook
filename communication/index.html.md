@@ -462,10 +462,19 @@ and posted to our [Unfiltered YouTube channel](https://www.youtube.com/channel/U
 1. If you want to schedule a meeting with a person not on the team please use [Calendly](/handbook/tools-and-tips/other-apps/#calendly). Use Google Calendar directly if scheduling with a GitLab team member.
 1. **Materials Review** are scheduled as all day not busy events as a reminder three days before the scheduled call.
 
-### No-meetings Fridays
+### Focus Fridays
 
-In Northern Hemisphere Summer/Southern Hemisphere Winter of 2020 GitLab is running an experiment to have no internal meetings scheduled on Fridays. It's optional, but several divisions have agreed to take part including Legal, Finance, Engineering, and Product. The experiment will run through 2020-09-07. At that time we'll evaluate the effectiveness on productivity and morale. We'll also look at other factors such as whether Friday is the most effective day for all timezones.
+The goal of Focus Fridays is to maximize efficiency by creating designated meeting-free space within our weeks for focused work, which also aligns with our push to [operate asynchronously](https://about.gitlab.com/company/culture/all-remote/asynchronous/). Other benefits include reducing potential burnout, eliminating Friday evening meetings for international Team Members, and being more thoughtful both in and about the meetings on the other days of the week.  Guidance for Focus Fridays includes:  
+- Cancel or move any standing meetings occurring on Fridays
+- Customer/prospect/partner/external meetings are exceptions
+- Some one-off internal meetings might not be avoidable, but aim to minimize them as much as possible
+- Consider blocking off your calendar as "busy" on Fridays to block your work time
+- Consider looking into apps like [Clockwise](https://www.getclockwise.com/) that can provide recommendations on how to refactor your calendar for focused work 
 
+You are encouraged to talk to your manager for guidance on how best to embrace Focus Fridays on your team and with your individual schedule. 
+
+Focus Fridays began as an experiment in the Northern Hemisphere Summer/Southern Hemisphere Winter of 2020 which ran through 2020-09-07, at which time E-Group evaluated the effectiveness on productivity and morale. They found the impact to be a positive one and extnded the program until 2021-01-08.
+ 
 ### Common Meeting Problems
 
 Meetings are incredibly expensive since they require synchronous time.
