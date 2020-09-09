@@ -9,9 +9,9 @@ title: "Drift"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Using Drift
+## Overview
 
-Drift is a chat platform our Sales Development team uses to engage site visitors. 
+Drift is a chat platform used by the Sales Development (SDR) team to engage visitors on select webpages. Drift playbooks are customized workflows that help visitors find information as well as offer the option to chat directly or schedule time to speak with SDRs. 
 
 ### Drift requests & questions 
 * **Slack channel:** #drift
