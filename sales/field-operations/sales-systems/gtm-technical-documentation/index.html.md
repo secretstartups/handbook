@@ -204,7 +204,7 @@ Code Unit:
 
 ## Opportunity Stage Progression Tracking
 <details>
-  <summary markdown="span">Primary Quote System Info</summary>
+  <summary markdown="span">Opportunity Stage Progression Info</summary>
 
 **Business Process this supports** The sales cycle and analytics.
 
@@ -216,7 +216,7 @@ Code Unit:
 
 ## Block Salesforce From Transferring Historical Opp Owners On Account Owner Transfers
 <details>
-  <summary markdown="span">Historical Opportunity Owner Maintanence</summary>
+  <summary markdown="span">Historical Opportunity Owner Maintanence Info</summary>
 **Business Process this supports:** In order to provide reliable and accurate historical data to the analytics team, the sales organization and to the companye as a whole we need to ensure that historical opportunities and relevant information on opportunities is not changed once the opportunity is closed. 
 
 **Overview:** The goal of this blocking logic is to close a backdoor that Salesforce has built into the system. While we have a number of validation rules in place to prevent information from changing on closed opportunities it was possible to change histoircal opportunity owners (as well as fields that are derived from the owner field) while transferring accounts. Anyone who could have been able to change the owner on an account would have been able change historical opportuntiy data that they would not be able to edit otherwise. This logic still allows users to complete this account ownership transfer without any impact to historical opportunities while also allowing the various business teams at GitLab to manually update the owners of opportunites at month close.
@@ -264,7 +264,7 @@ Code Units:
 
 ## Lead Segmentation
 <details>
-  <summary markdown="span">Order Type System Info</summary>
+  <summary markdown="span">Lead Segmentation Info</summary>
 
 **Business Process this supports:** [Sales Segmentation](/handbook/sales/field-operations/gtm-resources/#segmentation)
 
