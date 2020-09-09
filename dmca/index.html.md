@@ -32,10 +32,10 @@ d. **Consent to service of process:** A statement that you will accept service o
       
 # Trademark Disputes 
 
-Namespace and Trademark claims 
+Namespace, Trademark claims, Ownership Disputes
 
-Disputes regarding namespaces and trademarks must be resolved by the parties involved. GitLab will never act as arbitrators or intermediaries in these disputes and will not take any action without the appropriate legal orders.
+Disputes regarding namespaces, ownership and trademarks must be resolved by the parties involved. GitLab will never act as arbitrators or intermediaries in these disputes and will not take any action without the appropriate legal orders.
 
-For more information, see our [Namespace and Trademark policy](https://about.gitlab.com/support/#namespace--trademarks).
+For more information, see our [Namespace and Trademark policy](https://about.gitlab.com/support/#namespace--trademarks) and [Ownership Dispute Policy](https://about.gitlab.com/support/#ownership-disputes)
 
 
