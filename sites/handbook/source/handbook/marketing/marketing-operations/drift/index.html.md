@@ -33,7 +33,7 @@ We have Drift playbooks in use on select permanant webpages as well as temporary
 
 Drift is expected to mirror the lead routing logic in [LeanData](/handbook/marketing/marketing-operations/leandata/) as closely as possible. Our goal is to provide the best possible experience for site visitors by connecting them with their aligned resources in the SDR organization. This means site visitors during offline hours will be asked to schedule a meeting with their SDR.
 
-The account lists in Drift need to be refreshed on a regular basis to limit conversations routing incorrectly. In FY21-Q3 and FY21-Q4, the Drift account list will be refreshed on 2020-08-26, 2020-09-30, 2020-10-29, 2020-11-30, 2020-12-29, and 2020-01-28. Please note, the account list may be refreshed to address problems or requests in addition to the dates provided here.
+The account lists in Drift need to be refreshed on a regular basis to limit conversations routing incorrectly. In FY21-Q3 and FY21-Q4, the Drift account list will be refreshed on 2020-08-26, 2020-09-30, 2020-10-29, 2020-11-30, 2020-12-29, and 2020-01-28. Please note, account lists may be refreshed to address problems or requests in addition to the dates provided here.
 
 ## SDR resources for using Drift
 
