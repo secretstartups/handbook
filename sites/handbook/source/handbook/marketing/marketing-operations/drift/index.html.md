@@ -21,6 +21,8 @@ Drift is a chat platform used by the Sales Development (SDR) team to engage visi
     * `Drift`: Issue is directly related to the Drift chat tool. Specific admins for this tool are subscribed to this label.
     * `SDR`: If your request is from or involves the SDR team
 
+## How to use Drift
+
 ### Rules of engagement  
 -   Set yourself to away when done working / no longer want to receive chats. Please note: If you set yourself to away, prospects will still be able to interact with the bot, but once they answer the initial questions, they are automatically given the option to book time on your calendar. If you don’t set yourself to away they will have to wait while the bot attempts to notify you. 
 -   SLA: please respond to chats within 30 seconds
