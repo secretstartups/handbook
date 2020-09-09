@@ -15,6 +15,7 @@ The following benefits are provided by [Remote](https://www.remote.com/) and app
 
 ## South Africa
 * Medical Insurance allowance (300 USD per month for team members / 500 USD per month for team members plus dependents) Proof of cover must be shown to the total rewards team before the allowance will be paid via payroll. 
+    * TODO: Total Rewards to outline with Payroll how this will be administered 
 * Provident fund match - 5% employee & 5% employer
 * Life Cover of 4 x Annual Salary 
 * Income protection of 75% of salary (scheme rules apply, Remote will provide documentation upon sign up)
