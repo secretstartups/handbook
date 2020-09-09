@@ -457,15 +457,15 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 - Self-Service Virtual Event with or without Promotion: [YYYYMMDD_SelfServiceTopic_Region](https://app-ab13.marketo.com/#ME5143A1)
 - Vendor Arranged Meetings: [YYYYMMDD_ArrangedMeetingsVendorName_Region](https://app-ab13.marketo.com/#PG5698A1)
 - Executive Roundtables: [YYYYMMDD_ExecutiveRoundtable_Topic_Region](https://app-ab13.marketo.com/#ME6028A1)
+- Surveys (not SimplyDirect): [YYYYMMDD_SurveyName](https://app-ab13.marketo.com/#PG6402A1)
 - (MPM use only) Conference: [YYYYMMDD_Conference_Template](https://app-ab13.marketo.com/#ME5100A1)
 - (MPM use only) Conference Speaking Session: [YYYYMMDD_SpeakingSession_Template](https://app-ab13.marketo.com/#ME5092A1)
-- Field Event: [YYYYMMDD_FieldEvent_Template](https://app-ab13.marketo.com/#ME5083A1)
+- (MPM use only) Field Event: [YYYYMMDD_FieldEvent_Template](https://app-ab13.marketo.com/#ME5083A1)
 - (MPM use only) Gated Content: [YYYY_Type_Content_Template](https://app-ab13.marketo.com/#PG5111A1)
 - (MPM use only) PathFactory Listener: [TEMPLATE - `PF - Asset Type - Name of Asset`](https://app-ab13.marketo.com/#PG3875A1)
 - (MPM use only) Integrated Campaign: [FY20IntegratedCampaign_Template](https://app-ab13.marketo.com/#PG4924A1)
 - (MPM use only) Owned Event: [YYYYMMDD_OwnedEvent_Template](https://app-ab13.marketo.com/#ME4722A1)
 - (MPM use only) GitLab Hosted Webcast (single timeslot): [YYYYMMDD_WebcastTopic_Region](https://app-ab13.marketo.com/#ME5512A1)
-- Surveys (not SimplyDirect): [YYYYMMDD_SurveyName](https://app-ab13.marketo.com/#PG6402A1)
 - **Name the program using the campaign tag**
 
 ##### Step 2: Sync to Salesforce
