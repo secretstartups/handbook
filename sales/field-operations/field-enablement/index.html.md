@@ -3,6 +3,8 @@ layout: handbook-page-toc
 title: "Field Enablement"
 ---
 
+{::options parse_block_html="true" /}
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
