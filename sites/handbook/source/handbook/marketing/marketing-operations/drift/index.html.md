@@ -13,14 +13,6 @@ title: "Drift"
 
 Drift is a chat platform used by the Sales Development (SDR) team to engage visitors on select webpages. Drift playbooks are customized workflows that help visitors find information as well as offer the option to chat directly or schedule time to speak with SDRs. 
 
-### Drift requests & questions 
-* **Slack channel:** #drift
-* **Support:** Chat support (bottom left-hand corner of the Drift app)
-* **MktgOps project issue:** State the reason for the issue and leave any detailed information in regards to the request being made. Use the following labels:
-    * `MktgOps`: The starting point for any label that involves MktgOps. The MktgOps team subscribes to this label and will see the request being made.
-    * `Drift`: Issue is directly related to the Drift chat tool. Specific admins for this tool are subscribed to this label.
-    * `SDR`: If your request is from or involves the SDR team
-
 ## How to use Drift
 
 ### Rules of engagement  
@@ -89,3 +81,11 @@ We have Drift playbooks in use on select permanant webpages as well as temporary
 
 **Current temporary pages:**
 - https://page.gitlab.com/springone-virtual-2020.html
+
+## Have a question or request? 
+* **Slack channel:** #drift
+* **Support:** Chat support (bottom left-hand corner of the Drift app)
+* **MktgOps project issue:** State the reason for the issue and leave any detailed information in regards to the request being made. Use the following labels:
+    * `MktgOps`: The starting point for any label that involves MktgOps. The MktgOps team subscribes to this label and will see the request being made.
+    * `Drift`: Issue is directly related to the Drift chat tool. Specific admins for this tool are subscribed to this label.
+    * `SDR`: If your request is from or involves the SDR team
