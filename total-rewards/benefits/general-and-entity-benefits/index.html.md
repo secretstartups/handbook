@@ -64,16 +64,18 @@ Follow the [Expensify process](/handbook/finance/expenses/#work-related-online-c
 If the course is over [$500 USD](/handbook/total-rewards/compensation/#exchange-rates) or if you have exceeded your allotted [$500 USD](/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications) limit for courses and professional development certifications, follow the steps below. 
 
 
-**Tuition Reimbursement FAQs**
+#### Tuition Reimbursement FAQ
 
-Can I participate in this program?
+**Can I participate in this program?**
 * If you are a full-time GitLab team member and have been employed for more than three months, you are eligible to participate in this program.
 
-What courses are eligible for reimbursement?
+**What courses are eligible for reimbursement?**
 * Courses must be a requirement of a degree or certification program and delivered through a credentialed college or university or effective online education such as [Udacity](https://www.udacity.com/).
 * There is no limit to the number of years a team member can participate in the program. 
 * Courses eligible for reimbursement include classes for credit resulting in a grade (not pass/fail), courses providing continuing education credits, and/or courses taken as part of a certification program. You must earn a passing grade equivalent to a “B” or obtain a successful completion certification to submit for reimbursement.
-* A description of the course(s) and degree or certification program along with a final grade report or satisfactory certificate of completion are required to receive reimbursement.
+* A completed [Tuition Reimbursement Agreement](https://docs.google.com/document/d/1-WvPzoUMpcaUUOm3Gl5eDKQDw_-TtI4J0LP5ifMa8Vo/edit) (per the process below) along with a final grade report or satisfactory certificate of completion are required to receive reimbursement.
+* Budget estimations for tuition reimbursement are based on utilization rates from past years, adjusted for the size of the company. The budget is managed on a company-wide scale, not division-specific. For example, approving tuition reimbursement for a team member in Engineering does not "take away" budget from other engineers. Eligibility is managed on an individual basis. Eligibility for this benefit is part of each GitLab team member's Total Rewards package. 
+* The course must be relevant to your role's goals and development:
 
 Examples of requests that may be approved:
 
@@ -89,30 +91,28 @@ Examples of requests that may be denied:
 * A Frontend Engineer seeking a master's in computer science who is on a performance improvement plan or having discussions around underperformance.
 * If the tuition reimbursement budget has been reached, then your request may be denied, even if you meet eligibility requirements.
 
-Budget estimations for tuition reimbursement are based on utilization rates from past years, adjusted for the size of the company. The budget is managed on a company-wide scale, not division-specific. For example, approving tuition reimbursement for a team member in Engineering does not "take away" budget from other engineers. Eligibility is managed on an individual basis. Eligibility for this benefit is part of each GitLab team member's Total Rewards package. 
-
-Do I need to get approval to participate in this program?
+**Do I need to get approval to participate in this program?**
 * Yes, seek verbal approval from your manager before you submit your tuition reimbursement form.
 * Approval will also be obtained from the e-group member in charge of your organization via Hello Sign in accordance with the [signature authorization policy](/handbook/finance/authorization-matrix/)
 
-I'm planning on taking a degree program, do I need approval for each class or for each semester/term?
-* A Tuition Reimbursement Application will be needed for each semester, however, the relevance of the classes taken for each semester will be subject to the approval of the manager and e-group leader.
+**I'm planning on taking a degree program, do I need approval for each class or for each semester/term?**
+* A [Tuition Reimbursement Agreement](https://docs.google.com/document/d/1-WvPzoUMpcaUUOm3Gl5eDKQDw_-TtI4J0LP5ifMa8Vo/edit) will be needed for each semester, however, the relevance of the classes taken for each semester will be subject to the approval of the manager and e-group leader.
 
-When should I apply for Tuition Reimbursement?
-* The Tuition Reimbursement Form (as noted in the process below), must be submitted to Total Rewards at least 30 days before your course start date.
+**When should I apply for Tuition Reimbursement?**
+* The [Tuition Reimbursement Agreement](https://docs.google.com/document/d/1-WvPzoUMpcaUUOm3Gl5eDKQDw_-TtI4J0LP5ifMa8Vo/edit) (as noted in the process below), must be submitted to Total Rewards at least 30 days before your course start date.
 
-What is covered in the tuition reimbursement program?
+**What is covered in the tuition reimbursement program?**
 * The program will cover only the tuition and enrollment related fees. Additional fees related to parking, books, supplies, technology, or administrative charges are not covered as part of the program. Tuition will be validated by receipt showing proof of payment. 
 
-When will I receive my tuition reimbursement?
+**When will I receive my tuition reimbursement?**
 * Your tuition reimbursement will be paid in the following pay cycle after you have completed the course and sent your official grade report or successful certification of completion to Total Rewards.
 * If the program does not allow for tuition deferment and this would cause financial strain, you can request to receive 50% of the reimbursement up front and the other 50% upon successful completion of the course. 
 
-What happens if I leave GitLab?
+**What happens if I leave GitLab?**
 * If you voluntarily terminate employment with GitLab after completion of the course and prior to completing twelve consecutive months of active employment after completion of the course, you will refund the entire amount of the educational expenses provided to you.
 
 
-**Tuition Reimbursement Process**
+#### Tuition Reimbursement Process
 
 To receive tuition reimbursement, GitLab team members should follow the following process:
 
@@ -120,8 +120,7 @@ To receive tuition reimbursement, GitLab team members should follow the followin
 1. If you are participating in a degree program, a Tuition Reimbursement Application Form will be needed for each semester or term. If this is the case, list down the course codes and names of the courses you are taking under the "Course" section of the form. 
 1. Once you have filled out the first page of the form, share or forward it to total-rewards@ domain.
 1. The Total Rewards will stage the second page for signatures in Hello Sign.
-1. The Total Rewards Analyst will confirm there are no additional [tax implications](/handbook/total-rewards/benefits/general-and-entity-benefits/#tax-implications-for-tuition-reimbursement-by-country) for reimbursement in the team member's country.
-1. The Total Rewards Analyst  will file the application and signed agreement in BambooHR.
+1. The Total Rewards Analyst will file the application and signed agreement in BambooHR.
 1. The Total Rewards Analyst will also log the tuition reimbursement in the "Tuition Reimbursement Log" found on the Google Drive.
 1. Once the course is completed, an official grade report or successful certification of completion must be submitted to Total Rewards.
 1. After grades are verified, Total Rewards will ensure the reimbursement is processed through the applicable payroll by the second pay cycle after submission.
