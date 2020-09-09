@@ -22,7 +22,7 @@ Please feel comfortable opening an MR to add to this page if you feel I've left 
 
 ## About me
 
-I'm really really really ridiculously ~~good loo-~~ pasionate about startups and technology. The singular thing that drives me: improving the quality of life for **people** through the decisions I make as a product management professional. I want to share my excitement and passion with the people I work with and I do everything I can to be as inclusive as possible.
+I'm really really really ridiculously ~~good loo-~~ passionate about startups and technology. The singular thing that drives me: improving the quality of life for **people** through the decisions I make as a product management professional. I want to share my excitement and passion with the people I work with and I do everything I can to be as inclusive as possible.
 
 - I'm a San Antonio, TX native now living in Grand Prairie, TX. I like building relationships and bonding with friends over video games.
 - I tend to overcommunicate :telephone_receiver: to remove an confusion :question: or doubt :shrug:, which includes a slightly-more-than-healthy :heart: use of emojis :smile:
