@@ -377,3 +377,41 @@ events](https://gitlab.com/gitlab-org/gitlab-runner/hooks).
 - [Appliation code](https://gitlab.com/merge-request-bot/merge-request-bot)
 - [CloudRun deployment](https://gitlab.com/merge-request-bot/infrastructure/cloud-run)
 - [Logs](https://console.cloud.google.com/logs/query;query=resource.type%20%3D%20%22cloud_run_revision%22%0Aresource.labels.service_name%20%3D%20%22merge-request-bot%22%0Aresource.labels.location%20%3D%20%22europe-west4%22%0A%20severity%3E%3DDEFAULT%0Atimestamp%3E%3D%222020-09-11T10:25:17.532Z%22%20timestamp%3C%3D%222020-09-11T11:25:17.532Z%22;timeRange=PT1H;summaryFields=:true:32:beginning?customFacets=&scrollTimestamp=2020-09-11T11:25:01.157050000Z&project=group-verify-df9383)
+
+### MacOS Shared Runners
+
+#### Tracking the VM image storage quota
+
+Our provider MacStadium provides us access to a [dashboard](https://macstadium.logicmonitor.com/)
+where we can track the storage usage against our quota. To gain access to the dashboard,
+open a ticket in the [MacStadium portal](https://portal.macstadium.com/).
+
+There are also some useful bash aliases and functions that can be used locally:
+
+```shell
+alias oil="orka image list"
+alias ovl="orka vm list"
+alias oid="orka image delete -y --image"
+alias ovp="orka vm purge -y --vm"
+alias oquota="orka image list --json | jq '[ .image_attributes[] | .image_size | rtrimstr(\"G\") | tonumber ] | add'"
+
+# Purge all images associated with MR
+function opmr() {
+  local MR="$1"
+  if [[ -z ${MR} ]]; then
+    echo "Please specify the MR number as an argument"
+    return
+  fi
+
+  orka image list --json | \
+    jq -r ".images[] | select(contains(\"mr-${MR}\"))" | \
+    xargs -I{} orka image delete -y --image {}
+}
+
+# Purge all VMs in account
+function ovpa() {
+  orka vm list --json | \
+    jq -r ".virtual_machine_resources[] | .status[] | .virtual_machine_id" | \
+    xargs -I{} orka vm purge -y --vm {}
+}
+```
