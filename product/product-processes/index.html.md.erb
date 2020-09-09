@@ -109,7 +109,7 @@ the product is developed with [directly responsible individuals](/handbook/peopl
 
 Quad leadership is essentially the same quad concept at the leadership level comprised of  VP-Product Management, VP-Engineering, VP-UX and Director-Quality.
 
-This team is available to facilitate [global optimization](/handbook/values/#global-optimization) including product-wide [technical debt](handbook/engineering/workflow/#technical-debt). 
+This team is available to facilitate [global optimization](/handbook/values/#global-optimization) including product-wide [technical debt](handbook/engineering/workflow/#technical-debt).
 
 ### GitLab PMs aren't the arbiters of community contributions
 
@@ -177,7 +177,7 @@ The process for doing so is:
 
 - At the start of each quarter, after OKRs have been [reviewed and approved by the E-Group](/company/okrs/#how-to-achieve-presentation), Issues are created for
 each key result with the issue title started with `DRI: KEY RESULT TITLE`. All issues should be tagged
-with the `OKR` label, assigned the appropriate quarter Milestone and assigned a [health status.(https://docs.gitlab.com/ee/user/project/issues/index.html#health-status-ultimate) of on track, needs attention, or at risk.
+with the `OKR` label, assigned the appropriate quarter Milestone and assigned a [health status.(https://docs.gitlab.com/ee/user/project/issues/index.html#health-status) of on track, needs attention, or at risk.
 - In the first two weeks of the quarter, every OKR should be assigned to a single [Product Leader](/handbook/product/leadership/). Most OKRs will consist of one or more sub-tasks required in order to satisfy the OKR and these sub-tasks will be assigned to individual Product Managers
 or [Product Leadership](/handbook/product/product-leadership/#product-leaders) team members. The [company OKR page](/company/okrs/#quarterly-okrs) will be updated with links to the issues.
 - While the [team is responsible for achieving the OKR](/company/okrs/#levels),
@@ -898,29 +898,29 @@ Each quarter we want to reach out to [PNPS](/handbook/product/performance-indica
 
 > Hello,
 > My name is X and I'm the PM for X at GitLab. Thank you for giving us the opportunity to follow up on your response to our recent survey.
-> 
+>
 > I would be very interested in speaking further about some of the points you raised in your survey response. Would you be willing to do a 30 minute videoconference call to give us some more detailed feedback on your experience using GitLab? You'd be able to schedule the call at a time convenient to you.
-> 
+>
 > Schedule a time for the call using this link:
 > https://calendly.com/yourname/30min
-> 
+>
 > Thank you for your feedback and let me know if you have any questions.
-> 
+>
 > Best,
 > Your name
 
 **Copy for two extra questions in Calendly invite**:
 
 > To make sure we correctly represent what you say in any followup issues or discussions, we would like to record this conversation. Please indicate if you give permission to record this conversation.
-> 
+>
 > Yes, you may record our conversation.
-> 
+>
 > No, you MAY NOT record our conversation.
-> 
+>
 > At GitLab, we value transparency. We would love to share the recording of conversation publicly on GitLab. Please indicate whether you give your permission for the recording to be shared on GitLab.
-> 
+>
 > Yes, you may share the recording publicly on GitLab.
-> 
+>
 > No, you MAY NOT share the recording publicly on GitLab.
 
 #### After the call
@@ -1697,7 +1697,7 @@ How to use In App Message:
 
 Ensuring a positive user experience for our users is the most important factor to consider when deploying messaging in our product. With that goal in mind, we have put in place the following procedure to ensure that [in-app messaging](https://docs.gitlab.com/ee/user/admin_area/broadcast_messages.html) does not result in any negative user sentiment.
 
-All in-app messaging efforts must follow all of these guidelines in order to be deployed to GitLab.com. Create an issue in the Gitlab.com/Product project using the [In App Messaging template](https://gitlab.com/gitlab-com/Product/-/blob/master/.gitlab/issue_templates/PM-in-app-messaging-request.md) and assign it to [VP of Product Management](https://gitlab.com/adawar). The VP of Product Management will use [the In App Messaging board](https://gitlab.com/gitlab-com/Product/-/boards/1889145?label_name[]=In-App-Messaging) to prioritize all messages in queue and in flight. 
+All in-app messaging efforts must follow all of these guidelines in order to be deployed to GitLab.com. Create an issue in the Gitlab.com/Product project using the [In App Messaging template](https://gitlab.com/gitlab-com/Product/-/blob/master/.gitlab/issue_templates/PM-in-app-messaging-request.md) and assign it to [VP of Product Management](https://gitlab.com/adawar). The VP of Product Management will use [the In App Messaging board](https://gitlab.com/gitlab-com/Product/-/boards/1889145?label_name[]=In-App-Messaging) to prioritize all messages in queue and in flight.
 
 General in-app messaging guidelines :
 
@@ -2242,7 +2242,7 @@ The Grafana dashboards are managed using [grafonnet](https://github.com/grafana/
 
 Testing a new set of pages requires just 2 steps:
 
-1. Add the desired URL's to the sitespeed [unauthenticated](https://gitlab.com/gitlab-org/frontend/sitespeed-measurement-setup/-/blob/master/gitlab/desktop/urls/desktop.txt) or [authenticated](https://gitlab.com/gitlab-org/frontend/sitespeed-measurement-setup/-/blob/master/gitlab/desktop/loggedinurls/desktop.txt) testing list. Add a new line with the URL, then a space, and an alias of the form `[Group]_[Feature]_[Detail]`. The alias needs to be one word, an example MR is [here](https://gitlab.com/gitlab-org/frontend/sitespeed-measurement-setup/-/merge_requests/29). Note the authenticated user account does not have any special permissions, it is simply logged in. 
+1. Add the desired URL's to the sitespeed [unauthenticated](https://gitlab.com/gitlab-org/frontend/sitespeed-measurement-setup/-/blob/master/gitlab/desktop/urls/desktop.txt) or [authenticated](https://gitlab.com/gitlab-org/frontend/sitespeed-measurement-setup/-/blob/master/gitlab/desktop/loggedinurls/desktop.txt) testing list. Add a new line with the URL, then a space, and an alias of the form `[Group]_[Feature]_[Detail]`. The alias needs to be one word, an example MR is [here](https://gitlab.com/gitlab-org/frontend/sitespeed-measurement-setup/-/merge_requests/29). Note the authenticated user account does not have any special permissions, it is simply logged in.
 1. Open the relevant stage's [grafonnet dashboard file](https://gitlab.com/gitlab-com/runbooks/-/tree/master/dashboards/product). Find the section corresponding to the desired group, and add an additional call to `productCommon.pageDetail`. The call arguments are `Chart Title`, `Alias` from above, and the tested `URL`. Ensure the JSON formatting is correct, the easiest way is to simply copy/paste from another line. A sample MR is available [here](https://gitlab.com/gitlab-com/runbooks/-/merge_requests/2719/diffs).
 
 Assign both MR's to a maintainer. After they are merged, the stage's Grafana dashboard will be automatically updated. A [video walkthrough](https://youtu.be/sGdzWKzMKpY) is available as well.
