@@ -26,7 +26,11 @@ We have Drift playbooks in use on select permanant webpages as well as temporary
 #### Current temporary pages
 - https://page.gitlab.com/springone-virtual-2020.html
 
-## How to use Drift
+### Drift routing
+
+Drift is expected to mirror [LeanData](/handbook/marketing/marketing-operations/leandata/) routing as closely as possible. If there is an exception it will be listed here as more complex routing is rolled out. Our goal is to only connect site visitors with their aligned resources in the SDR organization. This means site visitors during offline hours will be asked to schedule a meeting with their SDR. To update Drift team or routing please submit an issue using [this template](/marketing/marketing-operations/-/issues/new?issuable_template=leandata_change_sdralignment). 
+
+## SDR resources for using Drift
 
 ### Rules of engagement  
 -   Set yourself to away when done working / no longer want to receive chats. Please note: If you set yourself to away, prospects will still be able to interact with the bot, but once they answer the initial questions, they are automatically given the option to book time on your calendar. If you don’t set yourself to away they will have to wait while the bot attempts to notify you. 
@@ -49,11 +53,7 @@ We have Drift playbooks in use on select permanant webpages as well as temporary
 5. Qualify the prospect while assisting with their needs. 
 6. If a meeting gets set up,  use the CQL “lightning” label on the right side of the drift browser to mark promising conversations. 
 
-## Drift routing
-
-Drift is expected to mirror [LeanData](/handbook/marketing/marketing-operations/leandata/) routing as closely as possible. If there is an exception it will be listed here as more complex routing is rolled out. Our goal is to only connect site visitors with their aligned resources in the SDR organization. This means site visitors during offline hours will be asked to schedule a meeting with their SDR. To update Drift team or routing please submit an issue using [this template](/marketing/marketing-operations/-/issues/new?issuable_template=leandata_change_sdralignment). 
-
-## Drift resources & training materials
+### Drift resources & training materials
 
 **Connect calendar and set hours**
 
