@@ -13,7 +13,7 @@ Can't find what you're looking for? Try the main [People Operations page](/handb
 
 ----
 
-The following benefits are provided by [Safeguard](https://www.safeguardglobal.com/) and apply to team members who are contracted through Safeguard. If there are any questions, these should be directed to People Operations at GitLab who will then contact the appropriate individual at Safeguard.
+The following benefits are provided by [Safeguard](https://www.safeguardglobal.com/) and apply to team members who are contracted through Safeguard. If there are any questions, these should be directed to the Total Reward team at GitLab who will then contact the appropriate individual at Safeguard.
 
 ## Brazil
 * Medical and dental insurances are provided by the local provider, Operadora Bradesco Saúde.
@@ -85,8 +85,6 @@ If eligible, team members can use [GitLab's Parental Leave policy](/handbook/tot
 
 Safeguard uses multiple third parties across the globe to assist in locations where they do not have a direct payroll.
 
-## South Africa
-Medical, pension and life insurance benefits are currently being reviewed in this [issue](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/135). 
 
 ## Switzerland
 
