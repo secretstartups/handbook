@@ -71,9 +71,20 @@ The following sections outline how to perform each of the steps within these sta
 
 The following steps should be taken immediately after receiving a PagerDuty page for an incident.
 
+1. Acknowledge the PagerDuty page.
 1. Join **The Situation Room** Zoom call.
 1. Create the incident in Status.io.
 1. Notify the Community Advocacy team.
+1. Resolve the PagerDuty page.
+
+#### PagerDuty Status
+{:.no_toc}
+- **Triggered** - "An incident exists that requires the attention of a CMOC"
+- **Acknowledged** - "I have seen the page and am on my way to the incident room"
+- **Resolved** - "A tracking issue has been created, the status page has been updated and I am actively engaged in the incident management process"
+
+**NB:** "Resolved" in PagerDuty does not mean the underlying issue has been resolved. 
+
 
 #### 1. Join *The Situation Room*
 
