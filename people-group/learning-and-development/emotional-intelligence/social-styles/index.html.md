@@ -289,7 +289,7 @@ Interested in learning about your own SOCIAL STYLE and those of your team? Below
 
 4. **Share** - Share the assessment with teammates who have not taken the assessment.
 
-5. **Aggregate Results** - Maintain a centralized location where exisiting and new team memebers can view individual SOCIAL STYLES. 
+5. **Aggregate Results** - Maintain a centralized location where exisiting and new team members can view individual SOCIAL STYLES. 
 
 **Sample Slack Message for Managers to send to their team to complete the assessment:**
 
