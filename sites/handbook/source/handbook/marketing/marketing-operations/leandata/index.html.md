@@ -10,7 +10,7 @@ title: "LeanData"
 {:toc .hidden-md .hidden-lg}
 
 ## Overview     
-LeanData is an application used within Salesforce (SFDC) to process and assign [lead](#lead-routing-object) and [account](#account-routing-object) record types. LeanData allows for the creation of dynamic and complex record routing to support Go-to-Market (GTM) strategy.  
+LeanData is an application used within Salesforce (SFDC) to process and assign [lead](#lead-routing-workflow) and [account](#account-routing-workflow) record types. LeanData allows for the creation of dynamic and complex record routing to support Go-to-Market (GTM) strategy.  
 
 ## Lead routing workflow
 The LeanData lead routing flowbuilder can broken into three major sections: [record validation](#record-validation), [lead to account match](#lead-to-account-match) and [unmatched lead](#unmatched-lead). 
@@ -31,30 +31,6 @@ Records that meet all [record validation](#record-validation) criteria and can b
 
 ### Unmatched lead
 
-### FlowBuilder   
-
-#### `New Lead` Node 
-
-1. `Created by Admin` = Records must be created by `Sales Admin` AND have `Person Score` < (greater  than) 15 points.
-     1. Minimum of 15 points means the records has interacted with *at least* one piece of content, is a known name or provided a company-domained `Email`.
-1. `Do Not Route? (New)` = Records must not have the `Do Not Route` checkbox checked.
-2. `GitLab email address? (New)` = Records must not have an email that contains gitlab.com.
-2. `Company Missing?` = if the `Company` field is empty or filled with a non-standard enrichment value, the workflow will send to `Standardize Company` node. 
-     1. Accepted enrichable value is `[[unknown]]` OR **blank**.
-     2. Any other value will render the field "filled" and enrichment solutions **will not** overwrite.
-1. `LIM Suppression` = `Last Interesting Moment Desc` must not be equal to any currently suppressed value. 
-1. `Matched Account` matches `Company Name` to any existing ACCOUNT with Salesforce (SFDC).  
-     1. If matched records advances to `Route to Matched Account` which will leverage the [owner mapping](#owner-mapping) functionality or `SDR Assigned` listed on the account object to route the record to the designated SDR. 
-     1. If ACCOUNT Owner is `Invalid`, `Inactive` or `Sales Admin` -> workflow will push record to `Sales Segment` node. 
-1. `Sales Segment` - filter records based on segment (Large, Mid-market, SMB, Unknown), enriched on the SFDC record by our designated data sources. Explanation of how `Sales Segment` is determined can be found on the [Business Ops Resource page](/handbook/business-ops/resources/#segmentation)
-     1. If `Large` => `Enterprise` this will route and filter based on the pairings for the Enterprise level SDRs. 
-     1. If `Mid-Market` or `SMB` => `Commercial` this will further filter by `Region` then `Sales Segment` before ultimately routing to appropriate SDR team or Representative.
-     1. If `Unknown` => progresses to next node.
-1. `Employee Bucket` - specific forms on our website & in-product ask for end user to self-select **Number of Employees** in their company. This is a tertiary data point and is only used to route when no other information is available on the record.    
-     1. If `2,000-9,999` or `10,000+` => `Enterprise` node which will further segment by `Region` and route to the correct Round Robin or Territory SDR. 
-     1. If `1-99`, `100-499` or `500-1,999` => `Commercial` node which will further filter by `Region` then `Sales Segment` before ultimately routing to appropriate SDR team or Representative.
-     1. If `Unknown` => routed to the `SDR Queue`
-1. `SDR Queue` is managed by SDR Leadership and they are responsible for routing the records to their respective teams for research and follow up.   
 
 ## Account routing workflow
 This workflow **is not** activated to run on a recurring basis. It only can be used on a one-time routing manual push at this time. 
