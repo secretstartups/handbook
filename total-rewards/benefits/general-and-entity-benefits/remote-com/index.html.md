@@ -20,8 +20,8 @@ The following benefits are provided by [Remote](https://www.remote.com/) and app
 * Life Cover of 4 x Annual Salary 
 * Income protection of 75% of salary (scheme rules apply, Remote will provide documentation upon sign up)
 * Severe Illness of 2 x Annual Salary 
-* Funeral Benefit of R30,000 paid to a family member
-
+* Funeral Benefit of R30,000 paid to a family member.
+    * TODO: Total Rewards to outline details on how the above mentioned benefits will be administered
 ## Mexico
 
 ### Social Security
@@ -42,11 +42,11 @@ Employees in Mexico are covered by the Social Security Law, under IMSS who is re
 
 ### Medical Benefits
 
-* Medical Insurance allowance of 5000 USD per annum (Details to be added)
+* Medical Insurance allowance of 5000 USD per annum (Details to be added by Total Rewards)
 
 ### Life Insurance
 
-* Life insurance cover provided via Remote (Details to be added)
+* Life insurance cover provided via Remote (Details to be added by Total Rewards)
 
 ### Christmas Bonus (Aguinaldo)
 
