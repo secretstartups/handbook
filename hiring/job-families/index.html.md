@@ -309,6 +309,14 @@ Additional details about our process can be found on our [hiring page](/handbook
   <iframe src="https://www.youtube.com/embed/x3q2KVFwMUY" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
+### Updating a URL and Redirect
+
+This video will walk you through how to change a Job Family URL as well as set up a redirect for the old URL. 
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/MRzgOzlbsPQ" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ### Not Repeating More Junior Requirement List for More Senior Levels
 You may not want to relist an entire requirement set from a more junior level that also pertains to a more senior one. You can choose to keep the section title as {Level} Requirements. You can then add a first bullet that says, "extends the {name of lower job level} responsibilities." 
 
