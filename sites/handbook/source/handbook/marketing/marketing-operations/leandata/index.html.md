@@ -13,8 +13,6 @@ title: "LeanData"
 LeanData is an application used within Salesforce (SFDC) to process and assign [lead](#lead-routing-object), [contact](#contact-routing-object) and [account](#account-routing-object) record types. LeanData allows for the creation of dynamic and complex record routing to support Go-to-Market (GTM) strategy.  
 
 ## Lead routing workflow
-Current as of 2020-07-09
-
 The LeanData lead routing flowbuilder can broken into three major sections: [record validation](#record-validation), [lead to account match](#lead-to-account-match) and [unmatched lead](#unmatched-lead). 
 
 ### Record validation
@@ -57,16 +55,6 @@ Records that meet all [record validation](#record-validation) criteria and can b
      1. If `1-99`, `100-499` or `500-1,999` => `Commercial` node which will further filter by `Region` then `Sales Segment` before ultimately routing to appropriate SDR team or Representative.
      1. If `Unknown` => routed to the `SDR Queue`
 1. `SDR Queue` is managed by SDR Leadership and they are responsible for routing the records to their respective teams for research and follow up.   
-
-
-#### `Updated Lead` Node 
-1. Activated if `Person Score` value changes **at any time**.  
-1. `Score Update?` will route the record if the `Person Score` is greater than or equal to `50 points` AND if `OwnerID` is a system Administrator of any kind. 
-     1. If TRUE => `Matched Account` node
-     1. If FALSE => LeanData will put them in a holding queue until the `Person Score` is updated again at which point LeanData will check criteria again. 
-
-==> Routing will then follow same path as `New Lead` flow starting at **Step 5** [above](#new-lead-node).
-
 
 ### Monthly Updates  
 
