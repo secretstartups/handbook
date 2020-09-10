@@ -22,7 +22,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC                                                                    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Sep 10 | TBD                        | TBD |
+| Sep 10 | Accelerating Your Pipeline with AWS            | Pete Goldberg, Kasim Ahmad, Brandon Jung |
 | Sep 17 | Maximizing Value of Partners in a Deal (Co-Selling with Partners Part 2) | David Forsch, Ed Cepulis                        |
 | Sep 24 | Q3 FY21 Competitive Update                                               | Mahesh Kumar                                    |
 |  Oct 1 | Leveraging the GitLab/VMware Alliance                                    | Amy Brandenburg, Sales (TBD)                    |
