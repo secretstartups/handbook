@@ -14,11 +14,11 @@ title: Understanding SOCIAL STYLES
 On this page, we will detail a unique approach developed by the [TRACOM Corporation](https://tracom.com/social-style-training/model#) called SOCIAL STYLES&reg; that can be used by Managers and Individual Contributors. It is a framework to improve interpersonal effectivess and [emotional intelligence](/handbook/people-group/learning-and-development/emotional-intelligence/) across remote teams at GitLab. As a Manager, you can be more effective in your relationships with other people if you learn to focus on their behavior in an objective fashion. SOCIAL STYLES is a structured approach for observing, understanding, and anticipating an individual's behavior. Managing in an all-remote company comes down to trust, communication, and [company-wide support of shared goals](https://about.gitlab.com/company/culture/all-remote/management/). Read this page to understand each one of your teammates unique SOCIAL STYLE. 
 
 ## Copyright/Trademark Recognition Statement
-Used with permission of TRACOM Group. All rights reserved. SOCIAL STYLE is a service mark of TRACOM GROUP. The SOCIAL STYLE MODEL is a registered trademark of TRACOM Group. The phrase SOCIAL STYLES is required to be capaitalized when used due to copyright rules. 
+Used with permission of TRACOM Group. All rights reserved. SOCIAL STYLE is a service mark of TRACOM GROUP. The SOCIAL STYLE MODEL is a registered trademark of TRACOM Group. The phrase SOCIAL STYLEs is required to be capaitalized when used due to copyright rules. 
 
 ## Why we need SOCIAL STYLES
 
-As a Manager at GitLab, SOCIAL STYLES can help strengthen relationships, improve communication, and to predict behavior. As a people leader, you can develop a customized approach to each one of your team members based on their assessed style. This will enable personalization for Managers and Individual Contributors. It is an excellent tool for improving emotional intelligence and building relationships with your team.
+As a Manager at GitLab, SOCIAL STYLEs can help strengthen relationships, improve communication, and to predict behavior. As a people leader, you can develop a customized approach to each one of your team members based on their assessed style. This will enable personalization for Managers and Individual Contributors. It is an excellent tool for improving emotional intelligence and building relationships with your team.
 
 >  "The more I learn about myself, the more I am able to understand others, the more I am able to bridge the gap between us."
 
@@ -289,24 +289,24 @@ Interested in learning about your own SOCIAL STYLE and those of your team? Below
 
 4. **Share** - Share the assessment with teammates who have not taken the assessment.
 
-5. **Aggregate Results** - Maintain a centralized location where exisiting and new team members can view individual SOCIAL STYLES. 
+5. **Aggregate Results** - Maintain a centralized location where exisiting and new team members can view individual SOCIAL STYLEs. 
 
 **Sample Slack Message for Managers to send to their team to complete the assessment:**
 
-> Hi Team, I wanted to introduce you to a personality assessment called SOCIAL STYLES. This is a great way to help us strengthen relationships and improve communication. Take some time to read the [Understanding SOCIAL STYLES handbook page](/handbook/people-group/learning-and-development/emotional-intelligence/social-styles/). When you are ready, take the [free assessment](https://www.iths.org/wp-content/uploads/SELF-ASSESSMENT_OF_SOCIAL_STYLES.pdf) to learn about your own unique style. We will come together as a group later in the week or during our regular meeting cadence to discuss our results. The more we know about each other, the better we can operate as a team! 
+> Hi Team, I wanted to introduce you to a personality assessment called SOCIAL STYLEs. This is a great way to help us strengthen relationships and improve communication. Take some time to read the [Understanding SOCIAL STYLES handbook page](/handbook/people-group/learning-and-development/emotional-intelligence/social-styles/). When you are ready, take the [free assessment](https://www.iths.org/wp-content/uploads/SELF-ASSESSMENT_OF_SOCIAL_STYLES.pdf) to learn about your own unique style. We will come together as a group later in the week or during our regular meeting cadence to discuss our results. The more we know about each other, the better we can operate as a team! 
 
 Once you know your team's SOCIAL STYLE, what do you do next?
 - Talk to your team members about their style
 - Give them opportunities to apply their styles in their day-to-day work
 - Consider style based partnering opportunities
-- Reference the language of SOCIAL STYLES when working together
+- Reference the language of SOCIAL STYLEs when working together
 - Develop and invest in your team members individual style
 
 ## Example of putting styles into practice
 
-Below is an example of Persona that is used to show how SOCIAL STYLES can be put into practice as a Manager within GitLab. **Personas's are a tool to show a representation of the target audience**. In this example, we've applied the SOCIAL STYLES framework to a ficitious manager at GitLab and how they could use the assessment within their team to personalize a management approach. Personas are archetypical users whose goals and characteristics represent the needs of a larger group. In this example, Managers. However, we can use personas for any audience at GitLab and beyond.  
+Below is an example of Persona that is used to show how SOCIAL STYLEs can be put into practice as a Manager within GitLab. **Personas's are a tool to show a representation of the target audience**. In this example, we've applied the SOCIAL STYLES framework to a ficitious manager at GitLab and how they could use the assessment within their team to personalize a management approach. Personas are archetypical users whose goals and characteristics represent the needs of a larger group. In this example, Managers. However, we can use personas for any audience at GitLab and beyond.  
 
-Use the persona as a roadmap to implementing the SOCIAL STYLES assessment within your team. 
+Use the persona as a roadmap to implementing the SOCIAL STYLEs assessment within your team. 
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR6HxchUNNbwIYpZY2feMs8GFY080DaZZgxTZrZlCyo3QYgCPGD6oH68myqUFExrjta350ZVORwBG5E/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -323,7 +323,7 @@ There are three factors that distinguish a [crucial conversation](https://www.am
 
 There are many applications of the SOCIAL STYLES model for working with teams. From managing conflict to coaching & mentoring, to managing up, to having crucial conversations. The applications are endless. 
 
-Check out the short animated video below to see an example of applying SOCIAL STYLES to managing underperformance: 
+Check out the short animated video below to see an example of applying SOCIAL STYLEs to managing underperformance: 
 
 <figure class="video_container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/4sYDzwvhlsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -332,9 +332,9 @@ Check out the short animated video below to see an example of applying SOCIAL ST
 
 ## Additional Resources on SOCIAL STYLES
 
-Below are additional resources on SOCIAL STYLES for review
+Below are additional resources on social styles for review
 *  [TRACOM SOCIAL STYLE Model](https://tracom.com/social-style-training/model)
-*  [SOCIAL STYLES and Conflict Resolution](https://legadima.co.za/conflict-management-social-styles/)
+*  [Social Styles and Conflict Resolution](https://legadima.co.za/conflict-management-social-styles/)
 *  [Managerial Success Stories](https://tracom.com/wp-content/uploads/2019/01/Managerial-Success-Story-TRACOM_ss2018.pdf)
 *  [Communicating with Style](https://www.wilsonlearning.com/wlw/articles/w/hidden-cost-comm/en-gb)
 
