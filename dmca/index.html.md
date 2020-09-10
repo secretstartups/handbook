@@ -18,7 +18,7 @@ Submissions under this DMCA Policy should be sent to dmca@gitlab.com
 
 We will review your submission and take whatever action we deem appropriate under the DMCA, including removal of the challenged content from the website.  Further more, we may, in appropriate circumstances, disable or terminate the accounts of users as indicated in the [DMCA Workflow](/handbook/engineering/security/operations/abuse/dmca-removal-requests.html).
 
-# DMCA Counter-Notice requirements
+# DMCA Counter Notice requirements
 
 If it is not possible to come to an agreement with the reporting copyright owner, the content owner may submit a DMCA Counter-Notice to dmca@gilab.com within ten (10) business days of the date of our notice. If we receive a valid counter-complaint, we will email a copy of the notice to the copyright owner. The Counter-Notice is a legal document and must comply with the requirements of the DMCA and must include the following:
 
