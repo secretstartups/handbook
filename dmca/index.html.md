@@ -22,7 +22,7 @@ We will review your submission and take whatever action we deem appropriate unde
 
 If it is not possible to come to an agreement with the reporting copyright owner, the content owner may submit a DMCA Counter-Notice to dmca@gilab.com within ten (10) business days of the date of our notice. If we receive a valid counter-complaint, we will email a copy of the notice to the copyright owner. The Counter-Notice is a legal document and must comply with the requirements of the DMCA and must include the following:
 
-a. **Contact Information:** Your Nam; Physical address; Email address; and a electronic or physical signature of the owner of the copyright or a person authorized to act on the owner's behalf.
+a. **Contact Information:** Your Name; Physical address; Email address; and an electronic or physical signature of the owner of the copyright or a person authorized to act on the owner's behalf.
 
 b. **Statement under Perjury:** A statement under penalty of perjury that you have "a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled."
 
