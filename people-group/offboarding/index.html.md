@@ -49,7 +49,7 @@ If resignation is the only solution after you have discussed your concerns, plea
 _Note: If the team member has a contract with a co-employer, the payroll lead will forward the email to the contact at the co-employer._
 1. ***Specialist***: The People Specialist will save a pdf of the resignation email to the team member's BambooHR profile in their `Contracts & Changes` folder. 
 1. ***Specialist***: The Specialist will add the offboarding to the [People Exp/Ops Tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e18b512#gid=488708224) in the `Specialist Offboardings` tab and add their name as a DRI, or ping the other Specialists to be certain that there is a fair balance and rotation of who is the DRI.
-1. ***Specialist***:The People Specialist will post a message in the `#offboardings` confidential Slack channel and provide the name, last day, reason for resignation, rehire eligibility and location of the individual. To share this information, the Specialist will use the Slack shortcut icon and follow the steps below:
+1. ***PBP***:The PBP will post a message in the `#offboardings` confidential Slack channel and provide the name, last day, reason for resignation, rehire eligibility and location of the individual. To share this information, the PBP will use the Slack shortcut icon and follow the steps below:
 
     * Click on the shortcut icon in the `#offboardings` slack channel 
     * Select the `Offboarding Form` workflow from the menu 
