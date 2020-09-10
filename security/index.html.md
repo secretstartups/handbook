@@ -683,7 +683,7 @@ The 2020 Security Training is delivered through the KnowBe4 platform that includ
   * [Acceptable Use](/handbook/people-group/acceptable-use-policy/)
   * [Device Lost or Stolen?!](#panic-email)
     * email: `panic@gitlab.com`
-  * [Data Classification](/handbook/engineering/security/data-classification-policy.html)
+  * [Data Classification](/handbook/engineering/security/data-classification-standard.html)
   * [No Red Data on Unapproved Locations](/handbook/people-group/acceptable-use-policy/#security-and-proprietary-information)
 
 ### Training Feedback
