@@ -25,7 +25,7 @@ Please feel comfortable opening an MR to add to this page if you feel I've left 
 I'm really really really ridiculously ~~good loo-~~ pasionate about startups and technology. The singular thing that drives me: improving the quality of life for **people** through the decisions I make as a product management professional. I want to share my excitement and passion with the people I work with and I do everything I can to be as inclusive as possible.
 
 - I'm a San Antonio, TX native now living in Grand Prairie, TX. I like building relationships and bonding with friends over video games.
-- I tend to overcommunicate :telephone_receiver: to remove an confusion :question: or doubt :shrug:, which includes a slightly-more-than-healthy :heart: use of emojis :smile:
+- I tend to overcommunicate to remove any confusion or doubt, which includes a slightly-more-than-healthy use of emojis.
 - I like to communicate casually and whimsically[.](https://www.facebook.com/salttapps/videos/1724697331076268/) Text can be really tough to communicate tone and intent, so my intent is to let you know I don't mean any harm with the things I say.
 - Trust is really important to me: both earning *your* trust but also being very quick to trust you. 
 - I'm always looking to improve my personal organization skills, so I'm particularly receptive to suggestions on how to find a workflow that helps me be organized.
