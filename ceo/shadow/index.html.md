@@ -216,8 +216,8 @@ Exceptional community members may be able to participate, as well.
 | 2020-09-08 | 2020-09-11 | [Shawn Winters](https://gitlab.com/ShawnWinters) - Acceleration SDR | [Francis Potter](https://gitlab.com/francispotter) - Sr. Solution Architect |
 | 2020-09-14 | 2020-09-18 | [Chris Baus](https://gitlab.com/chris_baus) - Engineering Manager, Fulfillment | [Shawn Winters](https://gitlab.com/ShawnWinters) - Acceleration SDR |
 | 2020-09-21 | 2020-09-25 | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend | [Chris Baus](https://gitlab.com/chris_baus) - Engineering Manager, Fulfillment |
-| 2020-09-28 | 2020-10-02 | AVAILABLE - REMOTE | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend |
-| 2020-10-05 | 2020-10-09 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2020-09-28 | 2020-10-02 | [Shane Rice](https://gitlab.com/shanerice) - Manager, Inbound Marketing | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend |
+| 2020-10-05 | 2020-10-09 | AVAILABLE - REMOTE | [Shane Rice](https://gitlab.com/shanerice) - Manager, Inbound Marketing |
 | 2020-10-12 | 2020-10-16 | NO SHADOWS - PTO | NO SHADOWS - PTO |
 | 2020-10-26 | 2020-10-30 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2020-11-02 | 2020-11-06 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
