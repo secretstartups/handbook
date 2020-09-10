@@ -33,7 +33,7 @@ The one thing that all teams have in common is individuals. No matter what kind 
 
 ## Managing with style
 
-What seperates great managers from good ones is the ability to treat each team member as individuals while focusing on their unique strengths and areas of improvement. People who have different styles have different preferences and ways of working. When managed ineffectively, these differences can be the source of dissatisfaction, conflict, and a breakdown in team effectiveness. However, when managed with skill, team members style differences can lead to creativity, focus, energy, and better performance. A manager can handle team interpersonal interactions by applying the SOCIAL STYLES framework so that the performance of the team can be enhanced. 
+What separates great managers from good ones is the ability to treat each team member as individuals while focusing on their unique strengths and areas of improvement. People who have different styles have different preferences and ways of working. When managed ineffectively, these differences can be the source of dissatisfaction, conflict, and a breakdown in team effectiveness. However, when managed with skill, team members style differences can lead to creativity, focus, energy, and better performance. A manager can handle team interpersonal interactions by applying the SOCIAL STYLES framework so that the performance of the team can be enhanced. 
 
 ## Scales of behavior and the four styles
 
