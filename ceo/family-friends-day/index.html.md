@@ -30,6 +30,14 @@ We are living in unprecedented times and are trying to give our Team Members som
 
 ## FAQ about Family and Friends Day
 
+### Who determines upcoming Family and Friends Days?
+Any GitLab team member is able to propose a Family and Friends day. To propose a Family and Friends day please follow the steps outlined below:
+1. Review the [GitLab Team Meetings calendar](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV82ZWtiazhmZnFua3VzM3FwajlvMjZycWVqZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for major conflicts, review major holidays, and avoid the end of the quarter to ensure our Sales team can participate before determing a date proposal. 
+1. Submit a merge request to modify the `Upcoming Family and Friends Days` section of this page with the date of your Family and Friends day proposal. 
+1. Post the MR in the `#e-group` Slack channel and `@mention` the `@exec-group` and `@exec-admins` for feedback.
+1. If feedback is positive, assign the MR to our CEO. 
+1. Post the MR in the `#ceo` Slack channel for CEO review and merging. 
+
 ### I'm in a role which requires me to work that day. How can I still benefit from this initiative? 
 If you are in a role that requires you to work on Family and Friends Day, you can work with your manager to find an alternative day. We encourage you to consider the following business day as the preferred second choice for a day away, but do what works best for you and your team.
 

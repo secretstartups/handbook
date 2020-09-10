@@ -213,7 +213,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2020-08-31 | 2020-09-04 | [Francis Potter](https://gitlab.com/francispotter) - Sr. Solution Architect | [Mike Miranda](https://gitlab.com/mikemiranda) - Account Executive, Commercial Sales |
 | 2020-09-08 | 2020-09-11 | [Shawn Winters](https://gitlab.com/ShawnWinters) - Acceleration SDR | [Francis Potter](https://gitlab.com/francispotter) - Sr. Solution Architect |
 | 2020-09-14 | 2020-09-18 | AVAILABLE - REMOTE | [Shawn Winters](https://gitlab.com/ShawnWinters) - Acceleration SDR |
 | 2020-09-21 | 2020-09-25 | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend | AVAILABLE - REMOTE |
@@ -258,6 +257,9 @@ Before your scheduled rotation, try to schedule coffee chats with your co-shadow
 
 Feel free to schedule a coffee chat with any of the CEO Shadow Alumni. You can review the list of [CEO Shadow Alumni](/handbook/ceo/shadow/#alumni) below. These chats can be helpful when deciding whether to apply to participate or if you're unable to participate but want to hear about the experience and what alumni have learned while shadowing.
 
+#### Coffee Chat with the CLO
+Should it be useful or complementary to your time as a CEO Shadow, our [CLO](https://about.gitlab.com/job-families/legal/chief-legal-officer/) hosts Monthly Shadow Chats on the 3rd Tuesday of every month at 08:30 PST. Please @ mention the CLO's [Sr. EBA](https://about.gitlab.com/handbook/eba/) in #ceo-shadow should you wish to be added to an instance or you would like to schedule a 1:1 coffee chat with the CLO. This option is available to all Shadows, past, present, and future.   
+
 #### Create an onboarding issue
 
 Outgoing shadows are responsible for training incoming shadows. We currently track on-boarding in the [ceo-shadow](https://gitlab.com/gitlab-com/ceo-shadow) project.
@@ -292,7 +294,7 @@ Since your rotation is over a short period of time, there are no long-term tasks
 However, there are many short-term administrative tasks you'll be asked to perform as shadow. Here are some examples:
 
 1. Make [handbook](/handbook/) updates (use the [ceo-shadow](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests?scope=all&utf8=%E2%9C%93&state=all&label_name%5B%5D=ceo-shadow) label).
-Post the MR links in the `#ceo-shadow` Slack channel so the CEO knows they have been completed. It is not required to create issues for these tasks. Go directly to a merge request if it is more [efficient](/handbook/values/#efficiency).
+Post the MR links in the `#ceo` Slack channel and `@`-reference the CEO so the CEO knows they have been completed. It is not required to create issues for these tasks. Go directly to a merge request if it is more [efficient](/handbook/values/#efficiency).
 1. Prepare for, take notes during, and follow up on meetings. See more details below about your [meeting responsibilities as a shadow.](#responsibilities)
 1. Go through open merge requests and work towards merging or closing any that have [not been merged](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?label_name%5B%5D=ceo-shadow).
 1. Publicly advise when people are not following the [communication guidelines](/handbook/communication/) ([see more details below.](/handbook/ceo/shadow/#promote-communication-best-practices)). For example, remind team members to stop screensharing to encourage communication.
@@ -937,3 +939,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2020-07-20 | 2020-08-10 | [Tim Rizzi](https://gitlab.com/trizzi) | Senior Product Manager, Package |  |
 | 2020-08-10 | 2020-08-21 | [Amy Brandenburg](https://gitlab.com/abrandenburg) | Technology Alliances Manager |  |
 | 2020-08-17 | 2020-08-28 | [Sam White](https://gitlab.com/sam.white) | Senior Product Manager, Defend |  |
+| 2020-08-24 | 2020-09-04 | [Mike Miranda](https://gitlab.com/mikemiranda) | Account Executive, SMB |  |
