@@ -334,7 +334,7 @@ During Week 1 of our [Manager Challenge Pilot](/handbook/people-group/learning-a
 A recording of the first of two sessions can be found here: 
 
 <figure class="video_container">
-  <iframe width="560" height="315" src="add here" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/96F___ZpanI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 ## Additional Resources on SOCIAL STYLES
