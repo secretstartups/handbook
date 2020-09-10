@@ -35,10 +35,10 @@ CREATE TABLE public.manifests (
     created_at timestamp WITH time zone NOT NULL DEFAULT now(),
     schema_version integer NOT NULL,
     media_type_id int not null references media_types (id),
-    digest bytea not null references blobs (digest) on cascade delete,
+    digest bytea not null references blobs (digest) on delete cascade,
     payload bytea NOT NULL,
     configuration_payload bytea,     -- the actual configuration payload
-    configuration_media_type_id references media_types (id),
+    configuration_media_type_id smallint references media_types (id),
     configuration_blob_digest bytea references blobs (digest) ON DELETE SET NULL, -- references a blob for the configuration
     CONSTRAINT pk_manifests PRIMARY KEY (repository_id, id),
     CONSTRAINT uq_manifests_repository_id_digest UNIQUE (repository_id, digest)
