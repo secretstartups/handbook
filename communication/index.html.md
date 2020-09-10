@@ -464,7 +464,7 @@ and posted to our [Unfiltered YouTube channel](https://www.youtube.com/channel/U
 
 ### Focus Fridays
 
-The goal of Focus Fridays is to maximize efficiency by creating designated meeting-free space within our weeks for focused work, which also aligns with our push to [operate asynchronously](https://about.gitlab.com/company/culture/all-remote/asynchronous/). Other benefits include reducing potential burnout, eliminating Friday evening meetings for international Team Members, and being more thoughtful both in and about the meetings on the other days of the week.  Guidance for Focus Fridays includes:  
+The goal of Focus Fridays is to maximize efficiency by creating designated meeting-free space within our weeks for focused work, which also aligns with our push to [operate asynchronously](https://about.gitlab.com/company/culture/all-remote/asynchronous/). Other benefits include reducing potential burnout, and being more thoughtful both in and about the meetings on the other days of the week.  Guidance for Focus Fridays includes:  
 - Cancel or move any standing meetings occurring on Fridays
 - Customer/prospect/partner/external meetings are exceptions
 - Some one-off internal meetings might not be avoidable, but aim to minimize them as much as possible
