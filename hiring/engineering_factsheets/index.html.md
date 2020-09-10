@@ -337,10 +337,10 @@ Bartek Marnane (Director of Engineering, Growth)
 **Projected Team Size:** 5
 **Hiring Managers:**
 Chun Du (Director of Engineering, Enablement)
-[Product Vision page](/handbook/product/product-categories/#sts=Ecosystem%20group)
+[Product Vision page](handbook/product/product-categories/#ecosystem-group)
 [How the team works](/handbook/engineering/development/enablement/ecosystem/#mission)
 **Links to relevant Handbook pages:** 
-[Product categories page](/handbook/product/product-categories/#sts=Ecosystem%20group)
+[Product categories page](/handbook/product/product-categories/#ecosystem-group)
 [Ecosystem Team page](/handbook/engineering/development/enablement/ecosystem/#team-members)
 [Backend Engineer job family](/job-families/engineering/backend-engineer/)
 [Engineering Workflow](/handbook/engineering/workflow/)
