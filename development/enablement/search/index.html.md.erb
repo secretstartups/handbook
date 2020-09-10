@@ -11,11 +11,11 @@ title: Global Search Team
 
 ## Vision
 
-The Global Search team is focused on bringing world class search functionality to GitLab.com and self-managed instances.  
+The Global Search team is focused on bringing world class search functionality to GitLab.com and self-managed instances.
 
 ## Mission
 
-The team will be responsible for improving and expanding upon our current global search implementations using Elasticsearch, PostgreSQL, and Gitaly.  Areas of responsibility will include global search functionality, UI, ingestion mechanisms, optimal indexing, administrative tools and installation mechanisms for self-managed installations.
+The team will be responsible for improving and expanding upon our current global search implementations using Elasticsearch, PostgreSQL, and Gitaly. Areas of responsibility will include global search functionality, UI, ingestion mechanisms, optimal indexing, administrative tools and installation mechanisms for self-managed installations.
 
 This team doesn't own custom searches for specific features, such as the "filter bar" on issues which is part of the [Issue Tracking](https://about.gitlab.com/direction/plan/issue_tracking/) category owned by the [Project Management group](/handbook/product/product-categories/#project-management-group).
 
@@ -24,7 +24,6 @@ This team doesn't own custom searches for specific features, such as the "filter
 The following people are permanent members of the Global Search Team:
 
 <%= direct_team(manager_role: 'Backend Engineering Manager, Global Search') %>
-
 
 ## Stable Counterparts
 
@@ -36,17 +35,18 @@ The following members of other functional teams are our stable counterparts:
 
 Whenever possible, we prefer to communicate asynchronously using issues, merge requests, and Slack. However, face-to-face meetings are useful to establish personal connection and to address items that would be more efficiently discussed synchronously such as blockers.
 
-* The Global Search Team meets weekly on Tuesdays alternately at 14:30 UTC and 21:30 UTC.
+- The Global Search Team meets weekly on Tuesdays alternately at 14:30 UTC and 21:30 UTC.
 
 ## Work
 
-We follow the general workflow and principles defined in [Product Development Flow](/handbook/product-development-flow/) and [Engineering Workflow](/handbook/engineering/workflow/). To bring an issue to our attention please create an issue in the relevant project.  Add the `~"group::global search"` label along with any other relevant labels.  If it is an urgent issue, please reach out to the Product Manager or Engineering Manager listed in the [Stable Counterparts](/handbook/engineering/development/enablement/search/#stable-counterparts) section above.
+We follow the general workflow and principles defined in [Product Development Flow](/handbook/product-development-flow/) and [Engineering Workflow](/handbook/engineering/workflow/). To bring an issue to our attention please create an issue in the relevant project. Add the `~"group::global search"` label along with any other relevant labels. If it is an urgent issue, please reach out to the Product Manager or Engineering Manager listed in the [Stable Counterparts](/handbook/engineering/development/enablement/search/#stable-counterparts) section above.
 
 Below are a few guidelines the team follows in the day-to-day work.
 
-* We use asynchronous communication with each other and with other GitLab teams most of the time via GitLab, Slack, Google Docs, etc.
-* We have weekly team meetings, 1-on-1 meetings and virtual happy hours via Zoom to discuss various topics and to create team bonding.
-* We encourage all backend engineers in our team to get a review of their changes by someone else in our team. It's great for knowledge sharing.
+- We use asynchronous communication with each other and with other GitLab teams most of the time via GitLab, Slack, Google Docs, etc.
+- We have weekly team meetings, 1-on-1 meetings and virtual happy hours via Zoom to discuss various topics and to create team bonding.
+- We encourage all backend engineers in our team to get a review of their changes by someone else in our team. It's great for knowledge sharing.
+
 * We organize our tasks under Epics and Issues. Product Manager and Engineering Manager go through backlog at the planning phase of each release and put issues into next one or two milestones. The issues on the [milestone board](https://gitlab.com/groups/gitlab-org/-/boards/1339901?label_name[]=group%3A%3Aglobal%20search) are sorted based on priority. The higher priority issues are put on the top.
 * We work with the UX team for features that need their design input by labeling the issues with a UX workflow label and adding the corresponding UX team counterpart as assignee. We use `workflow::problem validation` and `workflow::solution` validation for user research, and `workflow::design` for UI design and prototyping. For minor UX/UI changes, we contact the UX manager to request a review for fast iterations.
 * We work with Quality team for issues that require input from testing perspective by labeling the issues with `workflow::planning breakdown` and adding the SET counterpart as assignee. Once SET reviews the issue, they acknowledge back with label [`quad-planning::complete-action` or `quad-planning::complete-no-action`](/handbook/product-development-flow/#build-phase-1-plan)
@@ -55,12 +55,12 @@ Below are a few guidelines the team follows in the day-to-day work.
 * We work with Support Engineering team by collaborating on issues directly. We invite our counterpart in Support Engineering team in our team meeting every month to have direct communication.
 * When team members are ready for their next tasks, they will pick the issue from the top of milestone board and become the issue owner by assigning the issue to themselves. The issue owner will be responsible for finding the solution of the issue. They can find a solution by a Merge Request. They can also break down the issue into smaller sub issues if it makes sense to take an iterative approach.
 
-
 ### Advanced Global Search Rollout on GitLab.com
+
 The team has been actively working on enabling Elasticsearch powered Advanced Global Search on GitLab.com. [Based on our analysis](https://gitlab.com/groups/gitlab-org/-/epics/1736), we set our first target to rolling this feature out for all the paid groups on GitLab.com. You can find more details about the timeline and progress in the links below.
 
-* [Plan of Advanced Global Search Rollout on GitLab.com](https://gitlab.com/groups/gitlab-com/-/epics/649)
-* [Steps and Enhancements of Advanced Global Search Rollout on GitLab.com](./es-rollout-timeline.html)
+- [Plan of Advanced Global Search Rollout on GitLab.com](https://gitlab.com/groups/gitlab-com/-/epics/649)
+- [Steps and Enhancements of Advanced Global Search Rollout on GitLab.com](./es-rollout-timeline.html)
 
 ### Common Links
 
@@ -71,6 +71,16 @@ The team has been actively working on enabling Elasticsearch powered Advanced Gl
 
 ## Resources
 
-* [GitLab ElasticSearch Knowledge page](https://docs.gitlab.com/ee/development/elasticsearch.html)
-* [GitLab ElasticSearch Integration](https://docs.gitlab.com/ee/integration/elasticsearch.html)
-* [Blog post about Elasticsearch on GitLab.com](https://about.gitlab.com/blog/2019/03/20/enabling-global-search-elasticsearch-gitlab-com/)
+### Documentations
+- [GitLab ElasticSearch Knowledge page](https://docs.gitlab.com/ee/development/elasticsearch.html)
+- [GitLab ElasticSearch Integration](https://docs.gitlab.com/ee/integration/elasticsearch.html)
+
+### Blog Posts
+- [Lessons from our journey to enable global code search with Elasticsearch on GitLab.com](https://about.gitlab.com/blog/2019/03/20/enabling-global-search-elasticsearch-gitlab-com/)
+- [Update: The challenge of enabling Elasticsearch on GitLab.com](https://about.gitlab.com/releases/2019/07/16/elasticsearch-update/)
+- [Update: Elasticsearch lessons learnt for Advanced Global Search 2020-04-28](https://about.gitlab.com/blog/2020/04/28/elasticsearch-update/)
+- [How the Search Team at GitLab Implemented a Risk Map to Direct Automated Testing Efforts](https://about.gitlab.com/blog/2020/09/03/risk-mapping/)
+
+### Product Demos
+- [GitLab search with Custom Search Engines](https://www.youtube.com/watch?v=YESlLDxHH4o)
+- [Use the GitLab search bar to navigate](https://www.youtube.com/watch?v=OE9b0Qc6KaI)
