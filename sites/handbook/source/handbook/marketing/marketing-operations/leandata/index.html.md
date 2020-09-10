@@ -18,11 +18,12 @@ Current as of 2020-07-09
 The LeanData lead routing flowbuilder can broken into three major sections: [record validation](#record-validation), [lead to account match](#lead-to-account-match) and [unmatched lead](#unmatched-lead). 
 
 ### Record validation
-This initial phase reviews new and updated lead records to ensure they meet the criteria to route to an SDR. These checks include confirming:
-- Leads were created by an admin user
-- Score thresholds are met
-- Company information is available
-- Last Interesting Moment listed does not require specialized routing or supression from SDR organization
+This initial phase reviews new and updated lead records to ensure they meet the criteria to route to an SDR. These checks include confirming the requirements below.
+#### Leads were created by an admin user
+#### Score thresholds are met
+As of 2020-09-10, AMER, ABM and EMEA leads are eligible to route to aligned SDRs when their `Person Score` is greater than or equal to 0. APAC and LATAM leads are eligible to route when their `Person Score` is greater than 15.   
+#### Company information is available
+#### Last Interesting Moment listed does not require specialized routing or supression from SDR organization
 
 ### Lead to account match
 Records that meet all [record validation](#record-validation) criteria and can be matched to an existing Salesforce account by LeanData are then assessed using the workflow below. If LeanData is able to identify the SDR responsible for engaging the lead, the record is assigned. If LeanData is not able to identify the aligned SDR, the lead progresses to the [unmatched lead](#unmatched-lead) workflow.
