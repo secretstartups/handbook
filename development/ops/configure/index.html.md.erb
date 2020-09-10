@@ -46,19 +46,19 @@ Value is measured by **the number of deployment pipelines going through configur
 
 We break down this metric into input metrics by product category and might come up with a further breakdown of the metrics when necessary.
 
-#### ARRR for Kubernetes Management
+#### AARRR for Kubernetes Management
 
 ``` mermaid
 classDiagram
   Acquistion --|> Activation
 	Acquistion : Are users aware of the product or feature set?
-	Acquistion: Measurement (Count of Operations/Kubernetes page views) 
+	Acquistion: Measurement (Count of Operations/Kubernetes page views)
   Activation --|> Retention
 	Activation : Are users applying the feature?
-	Activation: Measurement (Count of the number of the registered Kubernetes Agents with valid tokens) 				
+	Activation: Measurement (Count of the number of the registered Kubernetes Agents with valid tokens)
   Retention --|> Revenue
 	Retention : Are users applying the feature over time?
-	Retention: Measurement (Count of the number of GitOps synchronization operations) 
+	Retention: Measurement (Count of the number of GitOps synchronization operations)
   Revenue --|> Referral
 	Revenue : Are users paying for the features?
 	Revenue: Measurement (# of paying users that have installed an agent / Total users that have installed an agent.)
@@ -67,7 +67,7 @@ classDiagram
 	Referral: Measurement (Count of pageviews on Kubernetes cluster documentation coming from referrals)
 ```
 
-#### ARRR for Infrastructure as Code
+#### AARRR for Infrastructure as Code
 
 We have two features that we follow to understand the health of our funnel:
 - Terraform reports can be used by any Terraform user on GitLab, and is a lightweight integration of GitLab and Terraform
@@ -79,13 +79,13 @@ The following graph shows the metrics defined for Terraform reports. We want to 
 classDiagram
   Acquistion --|> Activation
 	Acquistion : Are users aware of the product or feature set?
-	Acquistion: Measurement (Count of pageview on Infrastructure as Code documentation) 
+	Acquistion: Measurement (Count of pageview on Infrastructure as Code documentation)
   Activation --|> Retention
 	Activation : Are users applying the feature?
-	Activation: Measurement (Number of projects with Terraform reports in the last month) 				
+	Activation: Measurement (Number of projects with Terraform reports in the last month)
   Retention --|> Revenue
 	Retention : Are users applying the feature over time?
-	Retention: Measurement (Number of Terraform reports generated in the last month) 
+	Retention: Measurement (Number of Terraform reports generated in the last month)
   Revenue --|> Referral
 	Revenue : Are users paying for the features?
 	Revenue: Measurement ((# of paying users that have Terraform reports / Total users that have have Terraform reports.))
