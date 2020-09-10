@@ -10,7 +10,7 @@ title: "LeanData"
 {:toc .hidden-md .hidden-lg}
 
 ## Overview     
-LeanData is an application used within Salesforce (SFDC) to process and assign [lead](#lead-routing-object), [contact](#contact-routing-object) and [account](#account-routing-object) record types. LeanData allows for the creation of dynamic and complex record routing to support Go-to-Market (GTM) strategy.  
+LeanData is an application used within Salesforce (SFDC) to process and assign [lead](#lead-routing-object) and [account](#account-routing-object) record types. LeanData allows for the creation of dynamic and complex record routing to support Go-to-Market (GTM) strategy.  
 
 ## Lead routing workflow
 The LeanData lead routing flowbuilder can broken into three major sections: [record validation](#record-validation), [lead to account match](#lead-to-account-match) and [unmatched lead](#unmatched-lead). 
