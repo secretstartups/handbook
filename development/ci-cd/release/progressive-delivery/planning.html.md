@@ -12,7 +12,7 @@ description: "How the Progressive Delivery Team Operates"
 
 ## Inclusive Development
 
-Our process of planning and development relies heavily on overcommunication rather than any approval gates or automated notification mechanisms. We adhere to the proactive mindset and responsibility of everyone involved to make sure every step in the process is as transparent as it can be.
+Our process of planning and development relies heavily on overcommunication rather than any approval gates or automated notification mechanisms. We subscribe to the idea of a proactive mindset and recognize that it is the responsibility of everyone on the team to ensure that every step of the process is as transparent as it can be.
 
 For both planning and building this means direct, cross-functional, and other relevant [stable counterparts](https://about.gitlab.com/handbook/engineering/development/ci-cd/release/#stable-counterparts) are included early into the process. This makes sure everyone is able to contribute to the best of their capabilities at the right time in the process. This can include, but is not limited to, GitLab objects, Slack, meetings, and daily standups.
 
