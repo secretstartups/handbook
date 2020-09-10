@@ -56,12 +56,6 @@ Records that meet all [record validation](#record-validation) criteria and can b
      1. If `Unknown` => routed to the `SDR Queue`
 1. `SDR Queue` is managed by SDR Leadership and they are responsible for routing the records to their respective teams for research and follow up.   
 
-### Monthly Updates  
-
-1. Workflow updates are done on a **MONTHLY** basis to incorporate SDR changes
-1. Clone `LIVE` workflow 
-1. DO NOT adjust the **Owner Mappings** until the day the workflow is to take effect
-
 ## Account routing workflow
 This workflow **is not** activated to run on a recurring basis. It only can be used on a one-time routing manual push at this time. 
 
@@ -122,9 +116,6 @@ Utilizing **Owner Mapping** an ACCOUNT owner (i.e. Strategic Account Leader (SAL
 The **Owner Mapping** functionality is leverated in the `Route to Matched Account` node of the [LEAD workflow](#lead-workflow).  
 
 More information about [Record Ownership](/handbook/business-ops/resources/#record-ownership). 
-
-### Round Robin   
-Details TBA
 
 ### Need to make a change to lead routing? 
 Open an issue using our [LeanData change request issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=leandata_change_sdralignment).
