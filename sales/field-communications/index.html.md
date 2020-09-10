@@ -15,7 +15,13 @@ This team is responsible for creating effective, timely, and easily consumable c
 
 For more information about the Field Enablement team, visit the [team handbook page.](/handbook/sales/field-operations/field-enablement/)
 
-## Field Communications Handbook 
+## Key Field Communications Programs
+- [Field Flash Newsletter](/handbook/sales/field-communications/field-flash-newsletter/)
+- [GitLab Monthly Release Email to Sales](/handbook/sales/field-communications/monthly-release-sales-email)
+- [Field Google Group and Slack Channel landscape](/handbook/sales/sales-google-groups/)
+   - See this link for how best to communicate with the Field team on Slack or via email. 
+
+## Field Communications Playbook 
 In order to streamline important announcements and reduce noise for the field team, we operate by a set Field Communications Handbook process. This playbook defines tier 1, tier 2, and tier 3 organizational announcements/changes and applies a communication roll-out plan to each. The playbook works on a matrix of two main components: 
 1. **Urgency:** How crucial is it that the field know now? 
 1. **Impact:** How much does it impact the field's ability to sell and support effectively? 
@@ -133,12 +139,12 @@ Examples: Outside (non-field) requests for feedback/input, team member changes, 
 #### Field Communications Playbook Flowchart
 ![field-communications-playbook-flowchart](/handbook/sales/field-communications/field-communications_playbook-flowchart.png)
 
-[(Source file)](https://drive.google.com/drive/u/0/search?q=communication%20playbook%20flowchart)
+[(Source file)](https://docs.google.com/drawings/d/1vIb4fMzafFuR8Mlg9pAKkdqH0JOGU57omhRHXpigDc8/edit?usp=sharing)
 
 #### Field Communications Channel Map
 ![field-communications-channel-map](/handbook/sales/field-communications/field-communications-channel-map.png)
 
-[(Source file)](https://drive.google.com/drive/u/0/search?q=field%20communications%20channel%20map)
+[(Source file)](https://docs.google.com/presentation/d/1FM2iEHM1q76nLLQmy1tZn39ZsJwPXZd4QC5IMEa-5HY/edit?usp=sharing)
 
 ### Requesting Field Announcements
 Once you've reviewed the playbook above and would like to request Field Communications support for a field-related announcement, please follow this process: 
@@ -151,10 +157,6 @@ Once you've reviewed the playbook above and would like to request Field Communic
    1. `Field Announcement::Tier 3` 
    - Note: If the announcement request includes a request to survey some or all field team members, the `Field Survey` tag will be applied to the issue and Field Communications will work with the requestor to determine if request fits within the survey limits set each month or if plans should be adjusted. (See the "Considerations" sections for Tier 2 and 3 playbooks above.) 
 - Field Communications will collaborate with the requester on the announcement details directly in the issue to finalize the roll-out plan. 
-
-## Key Field Communications Programs
-- [Field Flash Newsletter](/handbook/sales/field-communications/field-flash-newsletter/)
-- [GitLab Monthly Release Email to Sales](/handbook/sales/field-communications/monthly-release-sales-email)
 
 ## Sharing Feedback
 Ongoing feedback and participation from the field is imperative to the success of the Field Communications team and its programs. If you have feedback on the current processes or programs, requests for a certain type of content, and/or ideas for ways we can further improve communication with the field, please follow this process: 
