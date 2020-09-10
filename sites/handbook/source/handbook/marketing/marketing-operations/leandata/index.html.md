@@ -62,22 +62,10 @@ Records that meet all [record validation](#record-validation) criteria and can b
 1. Clone `LIVE` workflow 
 1. DO NOT adjust the **Owner Mappings** until the day the workflow is to take effect
 
-
-## CONTACT Routing Object
-Current as of 9 December 2019  
-
-![](/handbook/marketing/marketing-operations/leandata/20191209_LeanData_CONTACTflow.png)
-
-
-
-## ACCOUNT Routing Object
-Current as of 12 December 2019 
-
+## Account routing workflow
 This workflow **is not** activated to run on a recurring basis. It only can be used on a one-time routing manual push at this time. 
 
 ![](/handbook/marketing/marketing-operations/leandata/20191212_LeanData_ACCOUNTflow.png)
-
-
 
 ## Territory Management 
  
