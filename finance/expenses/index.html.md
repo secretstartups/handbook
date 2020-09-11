@@ -31,7 +31,7 @@ The company will reimburse for the following items if you **need it for work or 
 
 The below averages are what GitLab **usually** reimburses. If you prefer to spend more on a given item, that's OK considering the average price. You are also welcome to expense the `GitLab Average Price in USD` portion, and cover the rest with personal funds. For example, if you purchase a high-end Steelcase ergonomic chair, you are welcome to expense the average price per the table below and cover the rest with personal funds. We are encouraging our members to use their best judgment when spending the company's money. 
 
-When reimbursing through expensify please select "reimbursable" for the portion which GitLab will be covering, and add a note explaining the receipt difference. 
+When reimbursing through Expensify please select "reimbursable" for the portion which GitLab will be covering, and add a note explaining the receipt difference. 
 
 * Please note Expensify cannot sync "non-reimbursable" line items, only reimbursable line items are to be entered in Expensify.
 
