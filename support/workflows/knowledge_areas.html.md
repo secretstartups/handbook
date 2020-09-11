@@ -219,13 +219,13 @@ This section is ordered by stage and group according to the [product categories 
 
 ##### Release Management
 
-| Topic                 | Region | Team Member                                      |
-| --------------------- | ------ | ------------------------------------------------ |
-| Release Orchestration | Amer   | JamesM                                           |
-| Secrets Management    | Amer   | JamesM                                           |
-| Release Evidence      | Amer   | JamesM                                           |
-| GitLab Pages          | Amer   | John <br> Keven <br> JamesM <br> Brie <br> Davin |
-|                       | EMEA   | Catalin <br> Rehab <br> Katrin                   |
+| Topic                 | Region | Team Member                                                |
+| --------------------- | ------ | ---------------------------------------------------------- |
+| Release Orchestration | Amer   | JamesM                                                     |
+| Secrets Management    | Amer   | JamesM                                                     |
+| Release Evidence      | Amer   | JamesM                                                     |
+| GitLab Pages          | Amer   | John <br> Keven <br> JamesM <br> Brie <br> Davin <br> Phil |
+|                       | EMEA   | Catalin <br> Rehab <br> Katrin                             |
 
 #### Configure
 
