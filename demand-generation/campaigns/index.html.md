@@ -53,7 +53,16 @@ _Targets are derived from [Approved Second Half FY21-22 Segment Marketing Plan](
 
 The Campaigns Team is aligned to sales segments with a geo breakout. Our number one focus is driving outbound MQLs, while collaborating across marketing (working closely with field marketing, sales, and SDRs in region) to develop strategies contributing to SAOs and closed won revenue against target accounts.
 
-![Campaigns Team Alignment](img/source/images/campaigns-team/team.png "Campaigns Team Alignment")
+* **Large**
+  - North America: Agnes Oetama
+  - South America, APAC, Public Sector: Jenny Tiemann
+  - EMEA: Eirini Pan
+* **Commercial + Email Marketing**
+  - Americas: Zac Badgley
+  - EMEA/APAC: Indre Kryzeviciene
+  - Email Marketing DRI: Nout Boctor-Smith
+
+![](/images/handbook/marketing/demand-generation/campaigns/team.png "Campaigns Team Alignment")
 
 ## Communication
 
