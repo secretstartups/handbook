@@ -171,7 +171,8 @@ The GitLab team understands the importance of inclusive interviewing, and we str
   * Field Marketing
   * Finance
   * Growth Marketing 
-  * People Operations 
+  * People Operations
+  * Product Management 
   * Quality
   * Recruiting
   * Revenue Marketing
