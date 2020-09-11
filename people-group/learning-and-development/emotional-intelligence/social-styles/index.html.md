@@ -329,7 +329,7 @@ Check out the short animated video below to see an example of applying SOCIAL ST
   <iframe width="560" height="315" src="https://www.youtube.com/embed/4sYDzwvhlsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-During Week 1 of our [Manager Challenge Pilot](/handbook/people-group/learning-and-development/manager-challenge/#week-1), we had a course covering how to Manage Underperformance Using SOCIAL STYLEs. The [slide deck](https://docs.google.com/presentation/d/1Cjx6UJ4p4lvOM780GaThx9CwHG0txGAWt829LaiqFq0/edit?usp=sharing) and [meeting agenda](https://docs.google.com/document/d/1Y2tLbuqvlIZmSGjND1nJeNnKdvDS7rZUCcAvu8dWx8Y/edit?usp=sharing) follow along with the session. 
+During Week 1 of our [Manager Challenge Pilot](/handbook/people-group/learning-and-development/manager-challenge/#week-1), we had a course covering how to Manage Underperformance Using SOCIAL STYLEs. The [slide deck](https://docs.google.com/presentation/d/1Cjx6UJ4p4lvOM780GaThx9CwHG0txGAWt829LaiqFq0/edit?usp=sharing) and [meeting agenda](https://docs.google.com/document/d/1Y2tLbuqvlIZmSGjND1nJeNnKdvDS7rZUCcAvu8dWx8Y/edit?usp=sharing) follow along with the session. In addition, we used an interactive polling tool called [Mentimeter](https://www.mentimeter.com/) to ask participants what is the hardest part about [having difficult conversations](https://docs.google.com/document/d/1rUZgYNgnWJqENKHC0VOdUEAJeJOX8lrOmg0lh-pLVeA/edit) with team members at GitLab.
 
 A recording of the first of two sessions can be found here: 
 
