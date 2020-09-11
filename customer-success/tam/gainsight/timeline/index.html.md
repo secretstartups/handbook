@@ -27,6 +27,8 @@ The "Last Activity Date" field in the customer's record reflects the latest "Cal
 
 Please note it may take up to 2 hours after logging a timeline event before the "Last Activity Date" is updated.
 
+Related, there is the "Last Timeline Activity" which looks to any and all activities on the timeline (update, email, call...).
+
 ## How to Log Activities in Timeline
 
 To log activities (calls, meetings, updates, etc.), you'll primarily follow these steps:
