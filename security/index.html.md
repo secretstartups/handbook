@@ -795,6 +795,9 @@ Unsolicited email should be treated as phishing emails.  For example, if you
 did not register for a site claiming to send you email, do not click on links
 in the email or visit the site.
 
+## PCI compliance
+GitLab uses PCI-compliant processors to ensure payment information is secure; these processors are certified as PCI Level 1 Service Providers.
+
 ## Panic Email
 
 GitLab provides a `panic@gitlab.com` email address for team members to use in
