@@ -12,8 +12,7 @@ category: License and subscription
 
 ## Overview
 
-This details how GitLab Support works the License and Renewals queue (L&R) and
-how other teams might escalate those tickets should it be needed.
+This page details how GitLab Support works the License and Renewals queue (L&R) and how other teams might escalate those tickets should it be needed.
 
 ## What is the queue for?
 
@@ -24,8 +23,19 @@ and renewals. This might include topics like:
 * Errors when applying a license
 * Generalized license queries from a user
 
-For issues relating to the product that handles licensing, those would be
-directed to the `#g_fulfillment` channel in slack.
+For issues relating to the product that handles licensing, those would be directed to the `#g_fulfillment` channel in slack.
+
+## How does this queue align with the "Growth" Stage?
+
+When we look at the product [Growth](/handbook/product/product-categories/#growth-stage) stage, we can see that the team owns responsibilities that align with the types of requests we generally see in the L&R queue:
+
+|Growth Group|Ticket/Issue Request Type|
+|--|--|
+|[Acquisition](https://about.gitlab.com/direction/acquisition/)|New Business|
+|[Conversion](https://about.gitlab.com/direction/conversion/)|Trials|
+|[Expansion](https://about.gitlab.com/direction/expansion/)|'How do I's, Upgrades|
+|[Fulfillment](https://about.gitlab.com/direction/fulfillment/)|Purchasing, Customer Portal Usage, Subscription Management|
+|[Retention](https://about.gitlab.com/direction/retention/)|Renewals, Getting Started, License & User Management|
 
 ## What is this queue **not** for?
 
@@ -41,21 +51,13 @@ The L&R queue should not be used for the following:
 
 ## Workflow
 
-To begin working the queue, you would first want to complete the Growth
-Specialty Bootcamp. Once you have completed that, you will gain mastery in this
-area, thus signaling your readiness to work the queue.
+To begin working the queue, you would first want to complete the Growth Specialty Bootcamp. Once you have completed that, you will gain mastery in this area, thus signaling your readiness to work the queue.
 
-Generally speaking, 
-[Subscription and billing issues](license_troubleshooting.html) will cover
-the majority of the issues you will encounter. For those not detailed there, it
-is recommended to either talk to an Escalation Point about the issue or make a
-MR to add the details to that page.
-
+Generally speaking, [Subscription and billing issues](license_troubleshooting.html) will cover the majority of the issues you will encounter. For those not detailed there, it is recommended to either talk to an Escalation Point about the issue or make a MR to add the details to that page.
 
 ## Where do licensing questions go?
 
-For generalized license related questions, you can ask via the `#questions`
-channel in slack. 
+For generalized license related questions, you can ask via the `#questions` channel in slack. 
 
 If the question pertains to a specific customer issue and the circumstances are such that you do not want to ask the customer to [open a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000071293), you can [open an internal issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Plan%20Change%20Request) using the `License Issue` template for assistance.
 
