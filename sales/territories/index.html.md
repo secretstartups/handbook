@@ -330,7 +330,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | NA West | US West | **SMB-AMER-Southwest** | Adam Pestreich | AMER Commercial - SMB^ |
 | NA West | US West | **SMB-AMER-Texas** | Brooke Williamson | AMER Commercial - SMB^ |
 | NA West | US West | **SMB-AMER-Washington** | Brooke Williamson | AMER Commercial - SMB^ |
-| TBD | TBD | **SMB-AMER-SoCal** | Carrie Nicholson | AMER Commercial - SMB^ |
+| NA West | US West  | **SMB-AMER-SoCal** | Carrie Nicholson | AMER Commercial - SMB^ |
 
 ^ `SDR` = `AMER Commercial - SMB`: Round robin group consisting of Jenny Chapman and Jada Rogers
 
