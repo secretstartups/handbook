@@ -325,6 +325,12 @@ There are three factors that distinguish a [crucial conversation](https://www.am
 
 There are many applications of the SOCIAL STYLES model for working with teams. From managing conflict to coaching & mentoring, to managing up, to having crucial conversations. The applications are endless. 
 
+Check out the short animiated video below to see an example of applying SOCIAL STYLEs to managing underperformance: 
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/DeTarR9Gk80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
 ## Additional Resources on SOCIAL STYLES
 
 Below are additional resources on social styles for review
