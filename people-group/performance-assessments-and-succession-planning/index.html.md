@@ -13,13 +13,13 @@ title: Performance Assessment and Succession Planning
 
 There are many Talent Assessment Options.
 Some of the ones considered were:
-* 9 Box: [The performance/potential matrix](/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix)
-* 9 Box: [Talent placement](/handbook/people-group/performance-assessments-and-succession-planning/#talent-placement)
-* 4 Box: [Skill/will matrix](/handbook/people-group/performance-assessments-and-succession-planning/#skillwill-matrix)
+* [Performance/Potential Matrix](/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix)
+* [Talent Placement](/handbook/people-group/performance-assessments-and-succession-planning/#talent-placement)
+* [Skill/Will Matrix](/handbook/people-group/performance-assessments-and-succession-planning/#skillwill-matrix)
 
 #### The Performance/Potential Matrix
 
-**9 Box Performance Potential matrix (Leadership)**
+**Performance/Potential Matrix (Leadership)**
 
 | | | | |
 |-----------------|---------------|---------------|----------------|
@@ -28,7 +28,7 @@ Some of the ones considered were:
 | **Underperformance** | Below average performance and inconsistent leadership behaviors; operating from previous business models despite feedback focus is on performance management | Average to below average performance with limited capacity to increase performance through management and leadership capabilities; focus is on evaluating fit in the role; development is on improving performance | High Potential leader who is underperforming due to newness of role, business strategy or management team: focus is on enhancing contribution and leveraging leadership capabilities |
 | Performance ↑ Potential → | **Low Potential** | **Medium potential**| **High Potential**|
 
-**9 Box Performance Potential matrix (Individual Contributor)**
+**Performance/Potential Matrix (Individual Contributor)**
 
 | | | | |
 |-----------------|---------------|---------------|----------------|
@@ -49,7 +49,7 @@ Potential refers to the ability and desire of a team member to successfully assu
 #### Talent Placement
 
 The Talent placement process is loosely as follows:
-* Managers complete a 9 box performance/potential matrix for their staff; Roll up through Executive Team
+* Managers complete a Performance/Potential Matrix for their staff; Roll up through Executive Team
 * Talent Review Manager Meeting: All people managers come together to review and discuss results across the organization for each role. Changes are made as appropriate.
 * Executive Review: Leadership meets to review the TRP Results; Promotion Requests; Review Development and Performance Actions; Review Discrepancies; Monitor Progress from previous TRP series.
 * Final TRP results shared with managers: Manager education session with next steps and action plans
