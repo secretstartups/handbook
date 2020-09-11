@@ -1332,8 +1332,6 @@ The [release post item generator](https://gitlab.com/gitlab-com/www-gitlab-com/b
 | Label tier (e.g. `GitLab Core` `GitLab Ultimate`) 	| `available_in:` 	|
 | Issue web url (i.e. `/gitlab-org/gitlab/-/issues/####`) 	| `issue_url:` 	|
 | Issue description under `### Release notes` 	| `description:` will contain all text except for the `documentation_link` and `image_url` <br><br>`documentation_link:` is the first URL in the `### Release notes` section containing `https://docs.gitlab.com*` <br><br>`image_url:` is the first image added to the `### Release notes` section. (e.g. `Image: ![name](/path/)`) 	|
-|  	|  	|
-|  	|  	|
 
 To ensure the generator script runs correctly follow the process below:
 
