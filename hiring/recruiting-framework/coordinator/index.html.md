@@ -125,7 +125,11 @@ For guidance on reviewing Background checks see [this page](/handbook/people-gro
 1. Click "Export to TalentWise".
 1. Click "Complete Report", which will redirect you to the Sterling website.
 1. Scroll down and click "Add Screening".
-1. Next to "Comprehensive Criminal", click on "Ticket". If you need to run a financial check as well for Finance team members, after you click "Ticket", click "Add Products" on the right and search for and include "Federal Criminal District Search".
+1. Next to "Comprehensive Criminal", click on "Ticket". 
+   - If you need to run a financial check as well for Finance team members, you will need to submit a second ticket. 
+      1. After you submit a ticket for the comprehensive criminal check, navigate back to the candidate's SterlingONE profile.
+      1. Click "Add Screening".
+      1. Next to "Federal Criminal District Search" click "Ticket".
 1. Check off that you agree to your obligations as a user.
 1. Under "Disclosure and Authorization Options", select the first option to have Sterling send the candidate a disclosure form.
 1. Click "Generate Ticket".
