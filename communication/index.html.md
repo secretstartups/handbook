@@ -252,6 +252,7 @@ So most things are **public** unless there is a reason not to. The following ite
    1. a department's cost
    1. the Sales pipeline (but the Marketing pipeline can be public)
    1. Net and Gross Retention KPIs (only the actual numbers can't be public. Everything else- the goal, their calculation, etc- can be.)
+   1. Timing and plans for [becoming a public company](/handbook/being-a-public-company/)
 1. Deals with external parties like contracts and [approving and paying invoices](/handbook/finance/procure-to-pay/).
 1. Content that would violate confidentiality for a GitLab team member, customer, or user.
 1. Legal discussions are not public due to the [purpose of Attorney-Client Privilege](/handbook/legal/#what-is-the-purpose-of-these-privileges).
