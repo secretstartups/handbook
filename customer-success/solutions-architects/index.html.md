@@ -1,8 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Solutions Architects Handbook"
+title: Solutions Architects Handbook
 ---
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -30,4 +29,4 @@ In addition to core responsibilities, Solutions Architects may assist in other c
 
 ## Changing the Solutions Architects Handbook Content
 
-This is the Solution Architect handbook. If you see any typos, copywriting improvements or content clarifications you'd like to contribute, please create a merge request and ask your managers to merge.Please add label "SA-HANDBOOK" to your merge request & post a link to the [solutions-architects](https://gitlab.slack.com/archives/C01788YAY58) slack channel as a heads up and so we can thank you! Since we have a [bias for action](/handbook/values/#bias-for-action), we trust your judgement.
+This is the Solution Architect handbook. If you see any typos, copywriting improvements or content clarifications you'd like to contribute, please create a merge request and ask your managers to merge. Please add the label "SA-HANDBOOK" to your merge request, assign it to the @sa_leader group & post a link to the [solutions-architects](https://gitlab.slack.com/archives/C01788YAY58) slack channel as a heads up and so we can thank you! Since we have a [bias for action](/handbook/values/#bias-for-action), we trust your judgement.
