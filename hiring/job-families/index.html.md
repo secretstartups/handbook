@@ -29,14 +29,12 @@ Job families are [organized by function in directories in the www-gitlab-com rep
 
 ## Approval Flow
 
-Anyone can create a job family, in general it is the responsibility of the person who will manage the position or job family. They may enlist help from others. 
-
- **The merge request must follow this approval flow**: 
-1. **Your manager**: Your direct manager is responsible for clarifying the scope of responsibilities and level of roles, checking responsibilities and requirements and ensuring the job family follows the template logic and **has all of the required areas**. 
+Anyone can create a job family, in general it is the responsibility of the person who will manage the position or job family. They may enlist help from others. After the merge request is created, **the merge request must follow this approval flow**: 
+1. **Your manager**: Your direct manager is responsible for clarifying the scope of responsibilities and level of roles, checking responsibilities and requirements and ensuring the job family follows the template logic and **has all of the required areas**. Any review after this should be quick so the manager is the gate keeper.
 1. **Your executive leader**: Your executive leader is responsible for confirming the role is in plan and review of department/division structure and levels. 
-1. **Senior Manager, Recruiting Operations and Insights**: Ping them to approve by at-mentioning them in the #job-family slack channel. They are responsible for checking to ensure it follows template and conventions; they are the final step before the CEO. 
-1. **CEO**: After all have approved the MR, ping the CEO to merge by at-mentioning the CEO in the #job-family slack channel. It is preferable to ping the CEO in the same thread as the previous ping.
-1. **Total Rewards**: After it is merged ping the Total Reward Team. They will propose a [benchmark](/handbook/total-rewards/compensation/compensation-calculator/#new-benchmark) to add to the [job families](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/job_families.yml) file in GitLab and assign it to the leader of group. Once merged, the entry on the `job_families.yml` file will automatically cause the [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator) to show at the bottom of the position description page. If a bencmark is not clear the Total Rewards Team will reach out to the People Business Partner who supports the function to understand the job family betther. The total rewards team will complete a seperate merge request to add the comp benchamrek. Once merged, they add the benchmark to the backend comp calc and compaas changes sheet.
+1. **Senior Manager, Recruiting Operations and Insights**: Ping them to approve by at-mentioning them in the #job-family slack channel and assigning the merge request to them. They are responsible for checking to ensure it follows template and conventions; they are the final step before the CEO. 
+1. **CEO**: After all have approved the merge request, ping the CEO to merge by at-mentioning the CEO in the #job-family slack channel and reassign them to the merge request. It is preferable to ping the CEO in the same thread as the previous step.
+1. **Total Rewards**: While the CEO reviews you should ping the Total Reward Team `@gl-total-rewards` on the merge request to review. They will propose a [benchmark](/handbook/total-rewards/compensation/compensation-calculator/#new-benchmark) to add to the [job families](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/job_families.yml) file in GitLab and assign it to the leader of group. Once merged, the entry on the `job_families.yml` file will automatically cause the [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator) to show at the bottom of the position description page. If a bencmark is not clear the Total Rewards Team will reach out to the People Business Partner who supports the function to understand the job family betther. The total rewards team will complete a seperate merge request to add the comp benchamrek. Once merged, they add the benchmark to the backend comp calc and compaas changes sheet.
 
 ## Templates for New Job Family
 
@@ -84,16 +82,16 @@ The {add the position title} reports to the {add the reporting position and link
 The {add the role name} is a [grade #](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### {add Level} Responsibilities
-* {add a bulleted list of responsibilities that apply for this level}
+* {add a bulleted list of responsibilities that apply for all levels of this job family}
 
 #### {add Level} Requirements
-* {add a bulleted list of requirements that apply for all levels of the role}
+* {add a bulleted list of requirements that apply for all levels of this job family}
 
 #### {add Level} Performance Indicators
-* {add 3-5 KPIs that this role will be the DRI for, if the PIs are the same for all lelvels remove this section and use the headding 2 section later in the template}
+* {add 3-5 PIs that this role will be the DRI for, if the PIs are the same for all lelvels remove this section and use the headding 2 section later in the template. PIs should link to the data}
 
 ## Segment
-### {add name of Segment - i.e. Enterprise, Mid-market, SMB (or Commercial, Public Sector, etc.}
+### {add name of Segment}
 {add a brief description of the specialty}
 
 #### {add name of Segment} Requirements
@@ -103,7 +101,7 @@ The {add the role name} is a [grade #](/handbook/total-rewards/compensation/comp
 * {add a bulleted list}
 
 ## Specialties
-### {add name of Specialty - i.e. Security, Monitor, Create, etc.}
+### {add name of Specialty}
 {add a brief description of the specialty}
 
 #### {add name of Specialty} Requirements
@@ -113,7 +111,7 @@ The {add the role name} is a [grade #](/handbook/total-rewards/compensation/comp
 * {add a bulleted list}
 
 ## Performance Indicators
-* {add at least one KPI that this role will be the DRI for, if PIs were listed for each level, because the are all unique, remove this section}
+* {add 3-5 PIs that this role will be the DRI for, if PIs were listed for each level, because the are all unique, remove this section. PIs should link to the data}
 
 ## Career Ladder
 {add brief description of the career ladder}
@@ -121,7 +119,8 @@ The {add the role name} is a [grade #](/handbook/total-rewards/compensation/comp
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-{add a bulleted list of the hiring process steps here}
+
+*{add a bulleted list of the hiring process steps here}
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring).
 
@@ -153,7 +152,7 @@ title: {add text of job family name}
 {add an overview; a brief description of the job family}
 
 ## Role
-{add brief description of the role} The {add the position title} reports to the {add the reporting position and link to the job family or headding (if on the same page). This should be the final sentence}.
+{add brief description of the role} The {add the position title} reports to the {add the reporting position and link to the job family or headding (if on the same page).}.
 
 ### Responsibilities
 * {add a bulleted list]
@@ -166,7 +165,7 @@ title: {add text of job family name}
 The {add role name} is a [grade #](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Performance Indicators
-* {add 3-5 KPIs that this role will be the DRI for}
+* {add 3-5 PIs that this role will be the DRI for, they should link to the data}
 
 ### Career Ladder
 {add a brief description of the career ladder here}
@@ -174,12 +173,13 @@ The {add role name} is a [grade #](/handbook/total-rewards/compensation/compensa
 ### Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-{add a bulleted list of the hiring process steps here}
+
+* {add a bulleted list of the hiring process steps here}
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring).
 
 ## Role
-{add brief description of the role} The {add the position title} reports to the {add the reporting position and link to the job family or headding (if on the same page). This should be the final sentence}.
+{add brief description of the role} The {add the position title} reports to the {add the reporting position and link to the job family or headding (if on the same page).}.
 
 ### Responsibilities
 * {add a bulleted list}
@@ -192,7 +192,7 @@ Additional details about our process can be found on our [hiring page](/handbook
 The {add role name} is a [grade #](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Performance Indicators
-* {add at least one KPI that this role will be the DRI for}
+* {add 3-5 PIs that this role will be the DRI for, they should link to the data}
 
 ### Career Ladder
 {add a brief description of the career ladder}
@@ -200,7 +200,7 @@ The {add role name} is a [grade #](/handbook/total-rewards/compensation/compensa
 ### Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-{add a bulleted list of the hiring process steps here}
+* {add a bulleted list of the hiring process steps here}
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring).
 ```
@@ -214,14 +214,7 @@ Additional details about our process can be found on our [hiring page](/handbook
   <iframe src="https://www.youtube.com/embed/x3q2KVFwMUY" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Here is a brief [walkthrough](https://docs.google.com/presentation/d/1ZNsMLhk5ZB_NMinV4X2QPWLudnHHWapasxRz5HJCuCQ/edit#slide=id.g551bcad215_0_146) of this process.
-If you use these slides please remember that the HANDBOOK is the most up to date and the slides and/or videos may be dated.
-
-1. Create the relevant page in `/job-families/[department]/[name-of-job-family]`, being sure to use only lower case in naming your directory if it doesn't already exist, and add it to the correct department subdirectory.
-1. The file type should be `index.html.md`.
-1. Add each paragraph to the position description, for an example see the [backend engineer job family](/job-families/engineering/backend-engineer). All job families must have Requirements, Responsibilities, Performance Indicators, [Job Grades](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades), and a Hiring Process. There is a template below that may be useful.
-
-### Job Family Creation Using Web Version of GitLab
+Here is a brief [walkthrough](https://docs.google.com/presentation/d/1ZNsMLhk5ZB_NMinV4X2QPWLudnHHWapasxRz5HJCuCQ/edit#slide=id.g551bcad215_0_146) of this process. If you use these slides please remember that the HANDBOOK is the most up to date and the slides and/or videos may be dated.
 
 1. Go to the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com?nav_source=navbar) project on `gitlab.com`
 1. Select the [source](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source) directory
@@ -241,7 +234,15 @@ If you use these slides please remember that the HANDBOOK is the most up to date
 1. Check: Delete source branch when merge request is accepted.
 1. Click the Submit merge request button at the bottom
 
-### Updating a URL and Redirect
+### Creating an Overview page
+
+In cases where a job family is quite large you may decide to create an overview page of the job family. This helps when we are actively sourcing for external candidates on a role. [Here](/job-families/people-ops/recruiting-operations-insights/overview/) is an example of a job family overvew page. 
+
+* Keep in mind that the overview page needs to be updated when you add a new level or a new role to a job family. 
+* The opening statement about the job family should be copied from the job family page to the overview page. Because not all job families have overview pages you should not remove it from one or the other.
+* The overview page should follow the typical naming convention by adding a sub folder `overview`
+
+## Updating a URL and Redirect
 
 This video will walk you through how to change a Job Family URL as well as set up a redirect for the old URL. 
 
@@ -250,7 +251,9 @@ This video will walk you through how to change a Job Family URL as well as set u
 </figure>
 
 ### Failed Pipeline
+
 We have a CI job that checks job families for hard requreiments:
+
 * Requirements
    * every role must have `Ability to use GitLab` as a bullet point.
 * Responsibilities
