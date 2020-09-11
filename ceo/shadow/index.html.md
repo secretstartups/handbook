@@ -249,6 +249,10 @@ Make sure to bring comfortable shoes with you to Mission Control any time there 
 
 ### Pre-Program Tasks
 
+#### Practice your introduction
+
+You will get asked about yourself during the program, and it's important to describe it correctly. So stand in front of a mirror and practice 3 times. The main point is, do *not* say that your role is to "follow Sid around" or "follow the CEO around". The program is for exploring and learning about all the parts of GitLab, and there's where the emphasis should lie. See [CEO Shadow Introductions](#ceo-shadow-introductions) for specifics.
+
 #### Coffee chat with Co-shadow
 
 Before your scheduled rotation, try to schedule coffee chats with your co-shadows before you start the program. This will give you the opportunity to get to know them and help set expectations for the rotation.
@@ -473,6 +477,8 @@ When introducing yourself in a meeting as the second shadow, say:
 1. I'm NAME.
 1. I normally am a/the TITLE.
 1. This is my first/last week in the two-week CEO shadow program.
+
+Remember, do *not* say that your role is to "follow the CEO around". It's about getting an overview of the functions at GitLab.
 
 #### Finding meeting recordings
 
