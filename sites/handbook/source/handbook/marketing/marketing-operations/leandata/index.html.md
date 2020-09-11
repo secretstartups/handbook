@@ -15,7 +15,7 @@ LeanData is an application used within Salesforce (SFDC) to process and assign [
 LeanData assigns each lead record to the member of the Sales Development (SDR) organization who is responsible for engagement and qualification of that individual using the [lead routing workflow](#lead-routing-workflow) outlined below. LeanData assigns each account record to the appropriate member of the Sales organization using the [account routing workflow](#account-routing-workflow) outlined below. Other Salesforce objects, including the contact object, are updated and maintained through workflows and processes outside of LeanData. 
 
 ## Lead routing workflow
-The LeanData lead routing flowbuilder can broken into three major sections: [record validation](#record-validation), [lead to account match](#lead-to-account-match) and [unmatched lead](#unmatched-lead). 
+The LeanData lead routing flowbuilder can broken into three major sections: [record validation](#record-validation), [lead to account match](#lead-to-account-match) and [unmatched lead](#unmatched-lead). This flowbuilder is live, meaning it monitors lead records as they're created or updated. 
 
 ### Record validation
 This initial phase reviews new and updated lead records to ensure they meet the criteria to route to an SDR. These checks include confirming the requirements below.
@@ -38,7 +38,7 @@ Used to route EMEA Mid-Market leads. LeanData uses a combination of `[TSP] Sub-R
 
 
 ## Account routing workflow
-The LeanData account routing flowbuilder leverages LeanData's Territory Management functionality to populate or update the `[TSP] Territory`, `[TSP] Region`, `[TSP] Sub-Region`, `[TSP] Area`, and `[TSP] Approved Next Owner` fields on the account object.
+The LeanData account routing flowbuilder leverages LeanData's Territory Management functionality to populate or update the `[TSP] Territory`, `[TSP] Region`, `[TSP] Sub-Region`, `[TSP] Area`, and `[TSP] Approved Next Owner` fields on the account object. This flowbuilder is live, meaning it monitors account records as they're created or updated. Account routing does have a 24-hour delay built into the flowbuilder to allow all necessary data append to be complete before the record is assessed by LeanData. 
 
 ## Need to make a change to lead routing? 
 Open an issue using our [LeanData change request issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=leandata_change_sdralignment).
