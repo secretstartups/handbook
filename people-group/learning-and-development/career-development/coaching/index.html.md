@@ -27,7 +27,7 @@ Coaching conversations are fluid, dynamic acts of co-creation where the coach an
 There are various ways to find a coach at GitLab:
 * [Modern Health](/handbook/total-rewards/benefits/modern-health/), our Employee Assistance Program provides professional coaching to support development areas on the feedback you receive. 
 * Consider a senior to you in your larger team or someone outside of your team that have inspired you on the specific areas you are working and developing on. 
-* Your current Manager can be a coach that steer you towards future goals. Please ensure that your Manager has capacity to take you on in a coaching capacity. However, coaching can also be a type of interaction you have with your Manager. 
+* Your current Manager can be a coach that steers you towards future goals. Please ensure that your Manager has capacity to take you on in a coaching capacity. However, coaching can also be a type of interaction you have with your Manager during 1:1 discussions. 
 
 ## How coaches coach
 
@@ -39,19 +39,19 @@ Key attributes of a coach include some of the following:
 *  Help your coachee recognize their own strengths and untap their potential.
 *  Encourage your coachee to move to action on their choices.
 *  Hold your coachee accountable for the actions they have committed to.
-*  Fully focusing on the other person.
+*  Fully focusing on the coachee.
 *  Asking questions and listening deeply while offering support.
 
 ### Different hats for different conversations
 
-When we think about coaching as a mode of conversation, you may also be thinking about all the other modes of conversation you might use as a [leader](/handbook/leadership/) in multiple types of roles. You may be a team lead running an engineering program. You may be managing [one of our TMRG's](https://about.gitlab.com/company/culture/inclusion/erg-guide/). You may [be a mentor](/handbook/engineering/career-development/mentoring/) or [a buddy](/handbook/people-group/general-onboarding/onboarding-buddies/). You are also most likely a direct report of someone else. Whatever it is you need to flex your leadership style and adopt different approaches to engage in meaningful conversations. You can think of this as wearing "different hats."
+When we think about coaching as a mode of conversation, you may also be thinking about all the other modes of conversation you might use as a [leader](/handbook/leadership/) in multiple types of roles. You may be a team lead running an engineering program. You may be managing [one of our TMRG's](https://about.gitlab.com/company/culture/inclusion/erg-guide/). You may [be a mentor](/handbook/engineering/career-development/mentoring/) or [a buddy](/handbook/people-group/general-onboarding/onboarding-buddies/). You are also most likely a direct report of someone else. Whatever it is, you can flex your leadership style and adopt different approaches to engage in meaningful conversations. You can think of this as wearing "different hats."
 
 You may wear multiple hats in any given day: 
 
-*  **Boss Hat** - Being directive and telling people what to do and how to do it.
+*  **Boss Hat** - Being directive and assigning tasks to your team.
 *  **Teacher Hat** - Passing on your knowledge and expertise to grow someone else's skills.
 *  **Mentor Hat** - Sharing advice and giving guidance from your own experience.
-*  **Coach Hat** - Asking lots of quesitons and listening deeply to help people reach their own solutions.
+*  **Coach Hat** - Asking lots of questions and listening deeply to help team members reach their own solutions.
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTadK6g9lEwLV8nP9GWPrgcF7sRHxycOuLwlZQm_h05D_FJpC3T9JzGUB7FmZY0UyW-ii4IfP0groBd/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -63,7 +63,7 @@ The GROW Model is a four step method to holding coaching conversations with a co
 
 **G - Goals:** Identify the inspirational goal to drive success and keep energy and motivation high. 
 
-**R - Reality:** Discuss the current situation and what barriers currently exist between and achievement of future goals
+**R - Reality:** Discuss the current situation and what barriers currently exist to achieve future goals
 
 **O - Options:** Explore the options for moving forward
 
@@ -85,7 +85,7 @@ Effective coaches use a defined set of skills to enable coaching coversations. T
   <p>
     <b>How to structure questions</b>
     <ul>
-    <li>Ask open ended questions. The best questions start with "what" or "how." As you get to questions around action, "who" and "when" can also be helpful.</li>
+    <li>Ask open ended questions. Good questions start with "what" or "how." As you move to questions around action, "who" and "when" can also be helpful.</li>
     <li>One question at a time. Focus attention on one question that focuses on one element of the conversation.</li>
     <li>Keep the questions brief.</li>
     <li>Stay with the coachee's agenda. Pick a question that reflects where they are, not where you think they should be. </li>
@@ -96,10 +96,10 @@ Effective coaches use a defined set of skills to enable coaching coversations. T
   <p>
     <b>Questioning - What to avoid</b>
     <ul>
-    <li>Avoid closed questions - they can sometimes close down thinking. For example, avoid questions that use the following: "Does that...do you...have you...is there?"</li>
-    <li>Avoid why questions - these can cause the person to feel defensive and may close down their learning from the coach.</li>
-    <li>Avoid leading questions, statements, or opinions in the form of questions - as these point the coachee to a place you think they should go, when they will be more committed to action if they come to their own conclusions.</li>
-    <li>Avoid stale questions - avoid asking questions that you thought of at the start of the session, but which may not be relevant anymore (If you find yourself waiting for the right time to ask a question, chances are you may not be listening anymore).</li>
+    <li>Try to avoid closed questions - they can sometimes close down thinking. For example, avoid questions that use the following: "Does that...do you...have you...is there?"</li>
+    <li>Try to avoid why questions - these can cause the person to feel defensive and may close down their learning from the coach.</li>
+    <li>Try to avoid leading questions, statements, or opinions in the form of questions - as these point the coachee to a place you think they should go, when they will be more committed to action if they come to their own conclusions.</li>
+    <li>Try to avoid stale questions - avoid asking questions that you thought of at the start of the session, but which may not be relevant anymore (If you find yourself waiting for the right time to ask a question, chances are you may not be listening anymore).</li>
   </ul>
   </p>
 
@@ -114,7 +114,7 @@ Effective coaches use a defined set of skills to enable coaching coversations. T
     <b>Listening like a coach</b>
     <ul>
     <li>Be present physically, mentally, emotionally (close down screens and give your coachee your undivided attention).</li>
-    <li> Focus on the other person.</li>
+    <li>Focus on the other coachee.</li>
     <li>Listen with curiosity and without judgment.</li>
     <li>Allow time for silence when the coachee is processing your question.</li>
     <li>Pay attention to body language through video chat: Make eye contact in the camera, smile, make gestures such as nodding your head to show you are present and lean into the discussion.</li>
@@ -158,7 +158,7 @@ Effective coaches use a defined set of skills to enable coaching coversations. T
       <li>At the beginning of a coaching conversation, acknowledge progress made or an accomplishment achieved.</li>
       <li>During a conversation, acknowledge when the coachee makes a connection or gains new insight.</li>
       <li>During brainstorming, acknowledge when somone has sretched beyond their comfort zone.</li>
-      <li> During planning for action, acknowledge someone's commitment to change.</li>
+      <li>During planning for action, acknowledge someone's commitment to change.</li>
     </ul>
     </p>
 
@@ -203,7 +203,7 @@ Effective coaches use a defined set of skills to enable coaching coversations. T
     <li>Empty your own mind of all preoccupations that are diverting your own focus, attention, and energy.</li>
     <li>Ground yourself in an open, curious, and appreciative mindset.</li>
     <li>Look for something to appreciate about your coachee, your self, and the coaching process.</li>
-    <li> Ground yourself in your intentions for the coaching conversation.</li>
+    <li>Ground yourself in your intentions for the coaching conversation.</li>
   </ul>
   </p>
   
@@ -241,7 +241,7 @@ The trust equation uses four objective variables to measure trustworthiness:
 
 1. Credibility: My word is believable. Put simply, credibility rates "what you say and how believable you are to others." In other words, you must be credible if you are asking others to follow your lead. 
 2. Reliability: I do what I say I will do. Reliability measures "actions, and how dependable you appear." Can you be counted on? People need to know that their leaders will come through for them. 
-3. Intimacy: I empathize with others. Intimacy considers 'how safe people sharing information with you." Leaders tend to keep their emotional distance from their followers, but when you are presented with confidential information, you need to keep it so. 
+3. Intimacy: I empathize with others. Intimacy considers 'how safe people are sharing information with you." When you are presented with confidential information, you need to keep it so. 
 4. Self-Orientation: My focus is on my team, not personal gain. Self-orientation is a personal focus on yourself or others. Too much self focus will lower your degree of trustworthiness. 
 
 The trust equation has one variable in the denominator (self-orientation) and three in the numerator (credibility, reliability, intimacy). Increasing the value of the factors in the numerator increases the value of trust. Increasing the denominator (self-orientation) decreases the value of trust. 
@@ -339,7 +339,7 @@ In an all-remote organization, coaching is a critical skill for managers to deve
 **Skills and behavior of the [coaching competency](/handbook/competencies/) for managers:**
 
 - Facilitates job performance growth of team members by providing regular coaching sessions
-- Understands team members long-term career goals and acts as a mentor and guide to achieving them. 
+- Understands team members long-term career goals and acts as a mentor and guide to achieving them 
 - Conducts development and career planning dialogues with team members continuously
 - Reflects on their leadership style and impact on the team and team situation
 - Seeks new coaching approaches and techniques and exemplifies what it means to continuously develop their skills
