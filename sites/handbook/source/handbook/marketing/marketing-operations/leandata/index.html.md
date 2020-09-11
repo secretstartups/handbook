@@ -33,9 +33,7 @@ Records that meet all [record validation](#record-validation) criteria and can b
 
 
 ## Account routing workflow
-This workflow **is not** activated to run on a recurring basis. It only can be used on a one-time routing manual push at this time. 
-
-![](/handbook/marketing/marketing-operations/leandata/20191212_LeanData_ACCOUNTflow.png)
+The LeanData account routing flowbuilder leverages LeanData's Territory Management functionality to populate or update the `[TSP] Territory`, `[TSP] Region`, `[TSP] Sub-Region`, `[TSP] Area`, and `[TSP] Approved Next Owner` fields on the account object.
 
 ## Territory Management 
  
