@@ -201,7 +201,7 @@ No problem, and consider adding it to this list if others can benefit as well.
 ### Reimbursement process and timeline:
 
 ##### SafeGuard
-Team members who are employed through SafeGuard must submit their expense for reimbursement through Expensify.  All expense reports must be submitted and approved by manager by the 8tmonth to include in the current month payment.
+Team members who are employed through SafeGuard must submit their expense for reimbursement through Expensify.  All expense reports must be submitted and approved by the manager and the Expense team by the 8th of the month to be included in the current month payment.
 
 Team members in France, Italy, and Spain must submit their expenses through:
 *  Expensify
@@ -211,7 +211,7 @@ Team members in France, Italy, and Spain must submit their expenses through:
 
 ##### Global Upside
 
-* Team members must submit their expenses through Expensify. All expense reports must be submitted and approved by manager by the 8tmonth to include in the current month payment.
+* Team members must submit their expenses through Expensify. All expense reports must be submitted and approved by manager and the Expense team by the 8th of the month to include in the current month payment.
 
 ##### iiPay
 
