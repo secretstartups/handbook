@@ -35,47 +35,6 @@ Records that meet all [record validation](#record-validation) criteria and can b
 ## Account routing workflow
 The LeanData account routing flowbuilder leverages LeanData's Territory Management functionality to populate or update the `[TSP] Territory`, `[TSP] Region`, `[TSP] Sub-Region`, `[TSP] Area`, and `[TSP] Approved Next Owner` fields on the account object.
 
-## Territory Management 
- 
-The Territory Management capability aims to help sales and marketing teams execute go-to-market strategies that seamlessly automate complex territory lead routing and distribution.    
-
-### Version 1.0 
-
-Launched Version 1.0 of **Territory Management for ACCOUNTS** on 12 December 2019. Each of our three `Segments` (`Large`, `Mid-Market` and `SMB`) have a dedicated Territory spreadsheet which are only editable by the Sales & Marketing Operations teams.  
-
-* [Large](https://docs.google.com/spreadsheets/d/1PYU8oQJQEPpi8K-SHuqSgPeSpLcWeSQd9FuwKtgD048/edit#gid=1172192878)
-* [Mid-Market](https://docs.google.com/spreadsheets/d/1PYU8oQJQEPpi8K-SHuqSgPeSpLcWeSQd9FuwKtgD048/edit#gid=1477932297)
-* [SMB](https://docs.google.com/spreadsheets/d/1PYU8oQJQEPpi8K-SHuqSgPeSpLcWeSQd9FuwKtgD048/edit#gid=1917614011)
-
-Launched Version 1.0 of **Territory Management for SDR** on 20 December 2019. Each of the three `Segments` (`Large`, `Mid-Market` and `SMB`) have a dedicated Territory spreadsheet cloned from the above documents but modified to define `OwnerID` as an SDR or Round Robin matching the pairings.  
-
-* [Large](https://docs.google.com/spreadsheets/d/1PYU8oQJQEPpi8K-SHuqSgPeSpLcWeSQd9FuwKtgD048/edit#gid=463255548)
-* [Mid-Market](https://docs.google.com/spreadsheets/d/1PYU8oQJQEPpi8K-SHuqSgPeSpLcWeSQd9FuwKtgD048/edit#gid=1196243637)
-* [SMB](https://docs.google.com/spreadsheets/d/1PYU8oQJQEPpi8K-SHuqSgPeSpLcWeSQd9FuwKtgD048/edit#gid=991220603)
-
-### LEAD Territory Management Append Workflow
-
-A dedicated workflow was created to append the Territory Management data to specific fields on the LEAD object that would not interfere with the regular LEAD workflow that handles inbound LEAD flow.  
-
-Specific LeanData fields on the LEAD object in Salesforce related to Territory Management: 
-- `LeanData Owner`
-- `LeanData Territory`
-- `LeanData Region`
-- `LeanData Sub-Region`
-
-![](/handbook/marketing/marketing-operations/leandata/20191222_LeanData_LEADtmflow.png)
-
-
-#### Follow our [implementation process](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/84)
-{:.no_toc}
-
-
-### Product Documentation
-
-* [**LeanData Datasheet**: Territory Management](http://info.leandatainc.com/DSTerritoryManagement_2Download.html)
-* [**LeanData Blog**: Territory Management: Align Sales & Marketing on Revenue](http://learn.leandatainc.com/routing-rules-leandatas-sales-and-marketing-blog/territory-management-align-sales-marketing-on-revenue)
-
-
 ## Advanced Functions  
 
 ### Owner Mapping
