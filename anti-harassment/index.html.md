@@ -210,6 +210,40 @@ GitLab has engaged with an external health and safety service called [Mensura](h
 
 The psychosocial intervention advisor will investigate further and provide a report to the employee and People Business Partner with a recommended course of action.
 
+### GitLab GK (Japan)
+
+**Protection from Power Harassment**
+
+Under the Employment Contract Law and the Labour Safety and Health Law, employers must provide a safe and proper working environment. Sexual harassment and power harassment claims can have severe consequences for employers. Claims can be made based on:
+
+- Tort.
+- Breaches of the Equal Opportunity Law.
+- Breaches of the employment contract.
+- Workmen's Accident Compensation Law (which can include criminal penalties as well as civil claims).
+
+Most cases are dealt with internally without legal action.
+With regard to sexual harassment, the Equal Opportunity Law provides that employees should be able to have careers while raising children. Employers must ensure that appropriate measures are in place to:
+
+- Deal with sexual harassment allegations in the workplace.
+- Ensure employees suffer no disadvantage at work as a result of making allegations of sexual harassment.
+- Ensure no harm comes to employees as a result of sexual harassment in the workplace.
+
+The Ministry of Health, Labour and Welfare (MHLW) issued guidelines in 2006 which set out the steps that employers must take if harassment allegations have been made, but internal rules and grievance procedures can be more robust and detailed than these guidelines.
+An employer's duty to provide a safe and proper working environment also applies to bullying/power harassment. The MHLW has divided power harassment into categories, from physical abuse or assault to invasion of privacy. Employers must:
+
+- Have a clear message against power harassment.
+- Establish rules on bullying.
+- Educate the workforce.
+- Provide consultation services.
+- Conduct employee surveys.
+
+Detailed internal rules and grievance procedures can be established to deal with these situations.
+The Law on the Comprehensive Promotion of Labour Measures and the Stabilisation of the Employment of Employees and the Enrichment of Their Working Lives, Etc. (revised on 29 May 2019) is intended to tackle workplace harassment and prevent bullying/power harassment in particular. These changes are scheduled to come into force in June 2020 for large companies and in April 2022 for small and medium enterprises.
+
+The law defines power harassment as "remarks or behaviour by people taking advantage of their superior position that go beyond business necessity, thereby harming the workplace environment".
+Employers will be obliged to take HR management action and preventive measures to combat power harassment, including setting up structures necessary to offer internal consultation services and respond to claims. Employers must provide training to develop their employees' awareness and understanding and ensure that the relevant employees pay attention to their verbal and physical behaviour. Employers are prohibited from dismissing employees reporting harassment cases (or cooperating in an investigation or consultation process) or from treating them unfavourably.
+The Director-General of a Prefectural Labour Bureau can give advice, instructions or recommendations to assist with the dispute resolution, and employers who fail to comply with a recommendation and a related administrative notice can be publicly named and shamed. Guidelines issued by the MHLW elaborate on the measures to be taken.
+
 ### GitLab LTD (The UK)
 
 **Complaint Procedure**
