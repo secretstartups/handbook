@@ -35,6 +35,8 @@ Solutions Architects frequently interact with customers for demos, presentations
 - [Rectangle](https://rectangleapp.com/) to quickly move and resize windows in macOS using keyboard shortcuts or snap areas
 - [Dark Reader](https://darkreader.org/) enables browser dark mode to better fit room lighting
 - [Postman](https://www.getpostman.com/) for API interaction
+- [Atom.io](https://atom.io/) lightweight IDE text editor
+    - [git-plus](https://atom.io/packages/git-plus) Package for atom to make commits and other git actions without the terminal
 
 Related macOS tips
 
