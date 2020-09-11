@@ -240,14 +240,14 @@ Poland, Russia, Ukraine & Romania:
 
 1. Max Expense Amount - [$5,000 USD](https://www1.oanda.com/currency/converter/)  - NOTE - If you are a corporate credit card holder, please refer to the [corporate credit card policy section](/handbook/finance/accounting/#credit-card-use-policy) for those specific instructions and thresholds.
 1. Receipts are required for all expenses.
-1. Expenses should be submitted within 30 days. This will help us to better manage our budget and streamline month end reporting.
+1. Expenses should be submitted within 30 days. This helps the Company to better manage our budget and ensures accurate month-end reporting.
 1. Expense report items should clearly state if the spend includes amounts for clients / non-team members.  Tax requirements in certain countries require us to account for client spend differently.
 1. For coworking space rental, and office supply and computer equipment purchases, please have your Gitlab entity printed on the receipt / invoice so that the amount can be deducted for tax purposes. Please ask your manager or in the #expense-reporting-inquires channel in Slack if you are unsure which entity you belong to.
 1. All team members must submit their expense reports in their designated policies in Expensify - COGS team members in COGS policies and non-COGS team members in non-COGS policies.
 1. Giftcards are not accepted as a form of payment for business expenses.
 1. All internet/telephone reimbursements must have a detailed receipt attached which shows the amount, service, and service date. 
 
-* Please note we do not reimburse late fee's or equipment costs. 
+* Please note we do not reimburse late fees or equipment costs. 
 
 ## Team Member Expense Temporary Advances
 
@@ -294,13 +294,13 @@ Examples of things we have not reimbursed:
 1. Meals during the Contribute when team members opt out of the company provided meal option.
 1. Cellphones and accessories.
 1. Travel related expenses for family members of GitLab employees.
-1. Fitness equipments (treadmill, etc..) and gym membership.
+1. Fitness equipment (treadmill, etc..) and gym membership.
 1. Meals from co-working day(s).
 1. Home office decor (picture frames, hanging plants, area rugs, book shelves)
 1. Meals or beverages while attending co working space
 1. Treadmill Desks
 
-In accordance with [Reimbursable Expense guidelines](/handbook/finance/accounting/#reimbursable-expenses), independent contractors should note which expenses are Contribute related on their invoices, prior to submitting to the company.
+In accordance with [Reimbursable Expense guidelines](/handbook/finance/accounting/#reimbursable-expenses), independent contractors should note which expenses are Contribute related on their invoices, prior to submitting to the Company.
 
 ----
 
