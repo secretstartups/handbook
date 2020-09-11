@@ -9,180 +9,68 @@ title: Ops Sub-department
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Vision
 
-Enable developers to reliably manage infrastructure, services, and applications in production environments.
+![Ops Overview](/images/direction/ops/ops-overview.png)
 
-## FY21 Direction
+<!-- source: https://docs.google.com/presentation/d/1606LcicYP-QKMjHHzTEvZSrx5qkW9LpHiKQUWlggdEk/edit#slide=id.g82767e51d3_1_0 -->
+
+The Ops Sub-department is composed of development teams working on Verify, Package, Release, Configure, and Monitor features of GitLab DevOps Platform.
+
+## Teams and Handbook Pages
+
+The following teams comprise the sub-department:
+
+* Verify stage
+    * Continuous Integration
+    * Testing
+    * Runner
+* Package stage
+    * Package
+* Release stage
+    * Release Management
+    * Progressive Delivery
+* Configure stage
+    * Configure - [handbook](/handbook/engineering/development/ops/configure/)
+* Monitor stage - [handbook](/handbook/engineering/development/ops/monitor/)
+    * Health - [handbook](/handbook/engineering/development/ops/monitor/health), [jtbd](/handbook/engineering/development/ops/monitor/health/jtbd/)
+
+## Product Direction
+
+Product direction can be found on the [Ops Section Product Direction](/direction/ops) handbook page.
 
 
-We are focused on one of the major themes of [GitLab's one year product plan](https://about.gitlab.com/direction/#1-year-plan):
+## Performance Indicators
 
-> Compete in Ops: Enable today's modern best-practices in operations without
-> the burden of specialized teams, multiple tools and heavy workflows.
+Peformance Indicator dashboards relevant to the Sub-department. 
 
-We will focus on driving dogfooding of Monitoring and Configuration features
-within GitLab teams in order to accelerate feedback and demonstrate our
-capabilities can be relied on for critical production use cases such as running
-gitlab.com.
+* [Ops Sub-department Metrics](https://app.periscopedata.com/app/gitlab/694012/Ops-Sub-department-Metrics)
+* [CI/CD Section Metrics](https://app.periscopedata.com/app/gitlab/556687/CI-CD-Section-Metrics)
+* [Development Department and Sub-department MR Metrics](https://app.periscopedata.com/app/gitlab/533956/Development-Department-and-Sub-department-MR-Metrics)
 
-More details about Ops Section direction and plans:
+## Communications
 
-* [Ops Section one year plan](https://about.gitlab.com/direction/ops/#one-year-plans)
-* [GitLab's one year product plan](https://about.gitlab.com/direction/#1-year-plan)
+### Slack channels
 
+* [#ops-section](https://gitlab.slack.com/archives/CKW6KLB8F) - Ops Section discussions spanning the Verify, Package, Release, Configure, and Monitor Stages
+* [#doe-ops](https://gitlab.slack.com/archives/CT9CM1VDJ) - Channel for GitLab's Director of Engineering, Ops 
 
-## Who we are
-
-The Ops Sub-department is composed of teams working on Verify, Package, Release, Configure, and Monitor features of GitLab DevOps Platform.
-
-Refer to Ops Section for an [overview of the product space we cover and personnel](/handbook/product/product-categories/ops/).
-
-## How we work
 
 ### Meetings
 
-A list of regular meetings specific to the Ops Sub-department
+Ops Sub-department regular meetings
 
 | Meeting    | Invitees (open to anyone)                        | Purpose                                                                   | Cadence                  | Notes                                |
 |------------|--------------------------------------------------|---------------------------------------------------------------------------|--------------------------|--------------------------------------|
 | Staff      | Direct Report + People Business Partner          | discuss group initiatives and announcements                               | weekly                   |                                      |
 | Skip-Level | Skip level EMs and ICs + People Business Partner | roundtable discussion / opportunity to build connections across the group | weekly (APAC & EMEA tzs) | Decrease cadence after several weeks |
 
-### Planning Process
+### Planning Processes
 
-Groups within the Ops Sub-department follow an async planning process to coordinate planning and discussion between members of the group. This process is related to the general [GitLab Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline) process and adds additional practices we've found useful.
+Planning processes followed by teams in the Sub-department:
 
-The goals of this process are to ensure we:
-
-* Transparently describe the goals for each milestone so team members can align on them and effectively plan and execute their contributions.
-* Efficiently coordinate handoffs between the validate and build tracks within each milestone, such as design and development.
-* Efficiently discuss and define the scope of work for development, product design, and quality engineering.
-
-Teams can customize this process to meet needs specific to their team as long as the customizations are documented on their team handbook page.
+* [General Ops Sub-department Planning Process](/handbook/engineering/development/ops/general-planning.html)
 
 
-#### M-1, 22nd (1 month before start of milestone)
-
-* PM: create a Planning Issue for the milestone from the team's [Planning Issue Template](#planning-issue-template).
-* PM: Set the Planning Issue milestone based on the current working milestone (e.g. Planning Issue 12.10 goes in milestone 12.9).
-* PM: update **Goals for the Milestone** in Planning Issue description.
-* PM: assign the Planning Issue to the PM, Engineering Managers, Product Designer, and Software Engineer in Test.
-* PM: ask for feedback on the **Goals for the Milestone** by adding comments for the product group members and other teams' group members if cross-team collaboration is required. 
-
-#### M-1, 1st (~3 weeks before start of milestone)
-
-* Engineering Managers: update **Scope of Engineering Work**
-* Product Designer: update **Scope of Work for UX**
-* PM: review scope of works and provide feedback to Engineering Managers and Product Designers via comments on the issue.  Synchronous conversations are encouraged but should be summarized as comments.
-
-#### M-1, 8th (~2 weeks before start of milestone)
-
-* Product Designer: attach first draft designs to the planning issue (directly or via linked issue)
-* Product Designer: add a comment asking for feedback on first draft designs
-* Engineering Managers: add a comment asking for feedback on Scope of Engineering work from engineers or other GitLabbers
-
-#### M-1, 15th (~1 weeks before start of milestone)
-
-* Product Designer: attach next draft designs to the planning issue (directly or via linked issue)
-* Product Designer: add a comment asking for feedback on next draft designs
-* Software Engineer in Test: review issues under **Scope of Engineering Work** and apply `~quad-planning` label
-* Software Engineer in Test: update **Scope of Work for Testing**
-
-#### M, 22nd (Start of milestone)
-
-* PM: close Planning Issue
-
-#### Planning Issue Template
-
-Planning issue templates follow a format similar to this. Teams can add additional headings specific to their team.
-
-    ### <Section> Planning Board
-    <!-- link to your sections planning board -->
-
-    ### Goals for the milestone:
-
-    <!-- Replace with the high-level goals to be achieved by the end of the milestone -->
-    *  Goal 1...
-    *  Goal 2...
-
-    ### Scope of Work for Engineering
-
-    <!--
-    List of issues in priority order go in this table
-    Use :white_check_mark: for Frontend and/or Backend if there is work for that team
-    -->
-
-    | Priority | Issue | Category | Notes | Frontend | Backend |
-    |----------|-------|----------|-------|----------|---------|
-    | 1        |       |          |       |          |         |
-    | 2        |       |          |       |          |         |
-
-    ### Scope of Work for Engineering Debt
-
-    <!-- What work of Engineering Debt from the past will Engineering be focused on? 
-          - Should be at least 1 Issue per Milestone
-          - The more we can handle the better... balance
-    -->
-
-    | Issue | When it should be ready |
-    |-------|-------------------------|
-    |       |                         |
-    
-    ### Scope of New Work for UX
-
-    <!-- What new work will UX be focused on? 
-          - Design based on research in previous Milestones
-          - Research to help inform designs for future Milestones
-          - Research to validate previously designed UI
-    -->
-
-    | Issue | When it should be ready |
-    |-------|-------------------------|
-    |       |                         |
-
-    ### Scope of Work for UX Debt
-
-    <!-- What work of UX Debt from the past will UX be focused on? 
-          - Should be at least 1 Issue per Milestone
-          - The more we can handle the better... balance
-    -->
-
-    | Issue | When it should be ready |
-    |-------|-------------------------|
-    |       |                         |
-
-    ### Scope of Work for Software Engineers in Test
-
-    <!-- What work will Testing be focused on? -->
-
-    | Issue | Investigates/Tests | Due on |
-    |-------|--------------------|--------|
-    |       |                    |        |
-
-    /label <!-- add section label here --> ~"Planning Issue" 
-
-Team Planning Issue Templates:
-
-* [Configure Team Template](https://gitlab.com/gitlab-org/configure/general/-/blob/master/.gitlab/issue_templates/Planning_Issue.md)
-* [Monitor APM Team Template](https://gitlab.com/gitlab-org/monitor/apm/-/blob/master/.gitlab/issue_templates/planning-issue.md)
-* [Monitor Health Team Template](https://gitlab.com/gitlab-org/monitor/health/-/blob/master/.gitlab/issue_templates/planning-issue.md)
-
-
-#### Planning Issue Board
-
-All the planning issues are viewable on the [Ops Section - Issue Planning (Issue Board)](https://gitlab.com/groups/gitlab-org/-/boards/1567586)
-
-## Ops Sub-department Performance Indicators
-
-<iframe class="dashboard-embed" src="https://app.periscopedata.com/shared/e6b998a1-36d7-4743-8410-16f683bff942?" height="1100px"> </iframe>
-
-## Team Handbook Pages
-
-* [Configure](/handbook/engineering/development/ops/configure/)
-* [Monitor Stage Groups](/handbook/engineering/development/ops/monitor/)
-  * Former [Monitor:APM Group](/handbook/engineering/development/ops/monitor/apm/)
-  * [Monitor:Health Group](/handbook/engineering/development/ops/monitor/health/)
 
 ## Celebrations
 
@@ -210,15 +98,3 @@ The slack channel [#ops-virtual-pizza-party-celebration](https://join.slack.com/
 #### Virtual Pizza Party Zoom Calls
 
 Pizza Party meetings where team members can (optionally) enjoy their pizza with their collegues.
-
-Schedule TBD
-
-## Useful Links
-
- * [Slack Channel](https://gitlab.slack.com/archives/CKW6KLB8F)
- * [Ops Section - Issue Planning (Issue Board)](https://gitlab.com/groups/gitlab-org/-/boards/1567586)
- * [Configure - Technical Debt (Issue Board)](https://gitlab.com/groups/gitlab-org/-/boards/1569863)
- * [Monitor - Technical Debt (Issue Board)](https://gitlab.com/groups/gitlab-org/-/boards/1557406)
- * Feature Showcase: A project that demonstrates Ops features.
-   * [Live Environment](https://gitlab-org-monitor-tanuki-inc.34.69.64.147.nip.io/)
-   * [Project Repo](https://gitlab.com/gitlab-org/monitor/tanuki-inc/)
