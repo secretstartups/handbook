@@ -11,7 +11,7 @@ title: Coaching
 
 ## Introduction to coaching
 
-On this page we are going to review the GitLab coaching framework and approach for people leaders and direct reports to apply during coaching conversations with their team. Use this page as a guide to starting and executing a coaching conversation. 
+On this page, we are going to review the GitLab coaching framework and approach for people leaders and direct reports to apply during coaching conversations with their team. Use this page as a guide to starting and executing a coaching conversation. 
 
 ## What is coaching?
 
@@ -26,17 +26,17 @@ Coaching conversations are fluid, dynamic acts of co-creation where the coach an
 
 There are various ways to find a coach at GitLab:
 * [Modern Health](/handbook/total-rewards/benefits/modern-health/), our Employee Assistance Program provides professional coaching to support development areas on the feedback you receive. 
-* Consider a senior to you in your larger team or someone outside of your team that have inspired you on the specific areas you are working and developing on. 
-* Your current Manager can be a coach that steers you towards future goals. Please ensure that your Manager has capacity to take you on in a coaching capacity. However, coaching can also be a type of interaction you have with your Manager during 1:1 discussions. 
+* Consider a senior to you in your larger team or someone outside of your team that has inspired you on the specific areas you are working and developing on. 
+* Your current Manager can be a coach that steers you towards future goals. Please ensure that your Manager can take you on in a coaching capacity. However, coaching can also be a type of interaction you have with your Manager during 1:1 discussions. 
 
 ## How coaches coach
 
-Coaches help team members by focusing their attention on the future while recognizing their unique strengths and areas for development. A coach is there to help the coachee tap into their potential and to reflect and learn by identifying desired outcomes to acheive future goals. 
+Coaches help team members by focusing their attention on the future while recognizing their unique strengths and areas for development. A coach is there to help the coachee tap into their potential and to reflect and learn by identifying desired outcomes to achieve future goals. 
 
 Key attributes of a coach include some of the following: 
 
 *  Ask powerful questions to deepen learning or insight.
-*  Help your coachee recognize their own strengths and untap their potential.
+*  Help your coachee recognize their strengths and untapped potential.
 *  Encourage your coachee to move to action on their choices.
 *  Hold your coachee accountable for the actions they have committed to.
 *  Fully focusing on the coachee.
@@ -51,7 +51,7 @@ You may wear multiple hats in any given day:
 *  **Boss Hat** - Being directive and assigning tasks to your team.
 *  **Teacher Hat** - Passing on your knowledge and expertise to grow someone else's skills.
 *  **Mentor Hat** - Sharing advice and giving guidance from your own experience.
-*  **Coach Hat** - Asking lots of questions and listening deeply to help team members reach their own solutions.
+*  **Coach Hat** - Asking lots of questions and listening deeply to help team members reach their solutions.
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTadK6g9lEwLV8nP9GWPrgcF7sRHxycOuLwlZQm_h05D_FJpC3T9JzGUB7FmZY0UyW-ii4IfP0groBd/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -59,7 +59,7 @@ You may wear multiple hats in any given day:
 
 ### GROW Model
 
-The GROW Model is a four step method to holding coaching conversations with a coachee. You can apply it during coaching sessions to guide the coachee through future focused discussions. 
+The GROW Model is a four-step method for holding coaching conversations with a coachee. You can apply it during coaching sessions to guide the coachee through future-focused discussions. 
 
 **G - Goals:** Identify the inspirational goal to drive success and keep energy and motivation high. 
 
@@ -67,7 +67,7 @@ The GROW Model is a four step method to holding coaching conversations with a co
 
 **O - Options:** Explore the options for moving forward
 
-**W - Way Forward:** Agree on specific actions and timeframe to set accountablity for the coachee
+**W - Way Forward:** Agree on specific actions and timeframe to set accountability for the coachee
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRyDezAdhbc9k5YOQmkUxCxkroz-yR6dpX1CoevIULZM10DcYLy_hBo3yQGlHPUgzPrAxZmNzR7Qjwj/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -80,7 +80,7 @@ Effective coaches use a defined set of skills to enable coaching coversations. T
 <details>
 <summary>Questioning</summary>
 
-  Asking powerful, open ended questions is a core skill. Coaching is about coming from a place of asking, not telling, while empowering team members to create their own solutions. Coaching works to "pull out" insight from an individual. 
+  Asking powerful, open-ended questions is a core skill. Coaching is about coming from a place of asking, not telling, while empowering team members to create their solutions. Coaching works to "pull out" insight from an individual. 
 
   <p>
     <b>How to structure questions</b>
@@ -98,7 +98,7 @@ Effective coaches use a defined set of skills to enable coaching coversations. T
     <ul>
     <li>Try to avoid closed questions - they can sometimes close down thinking. For example, avoid questions that use the following: "Does that...do you...have you...is there?"</li>
     <li>Try to avoid why questions - these can cause the person to feel defensive and may close down their learning from the coach.</li>
-    <li>Try to avoid leading questions, statements, or opinions in the form of questions - as these point the coachee to a place you think they should go, when they will be more committed to action if they come to their own conclusions.</li>
+    <li>Try to avoid leading questions, statements, or opinions in the form of questions - as these points the coachee to a place you think they should go, when they will be more committed to action if they come to their own conclusions.</li>
     <li>Try to avoid stale questions - avoid asking questions that you thought of at the start of the session, but which may not be relevant anymore (If you find yourself waiting for the right time to ask a question, chances are you may not be listening anymore).</li>
   </ul>
   </p>
@@ -108,7 +108,7 @@ Effective coaches use a defined set of skills to enable coaching coversations. T
 <details>
 <summary>Listening</summary>
 
-  Listening is a crtical skill because it enables openness and curiosity. It also signals to the coachee that you are being fully present. To ask great questions, you need to be fully listening.
+  Listening is a critical skill because it enables openness and curiosity. It also signals to the coachee that you are being fully present. To ask great questions, you need to be fully listening.
 
   <p>
     <b>Listening like a coach</b>
@@ -150,7 +150,7 @@ Effective coaches use a defined set of skills to enable coaching coversations. T
 <details>
 <summary>Encouragement</summary>
 
-  Encourage and show enthusiasm by identifying strengths in the coachee to build trust. Be open and ground yourself in individual team member strengths. Reflect back on what you noticed and determine the impact on the coachee to see that the [feedback](/handbook/people-group/guidance-on-feedback/) has landed.
+  Encourage and show enthusiasm by identifying strengths in the coachee to build trust. Be open and ground yourself in individual team member strengths. Reflect on what you noticed and determine the impact on the coachee to see that the [feedback](/handbook/people-group/guidance-on-feedback/) has landed.
 
   <p>
     <b>When to Encourage</b>
@@ -194,7 +194,7 @@ Effective coaches use a defined set of skills to enable coaching coversations. T
 <details>
 <summary>Be Present</summary>
 
-  Be in the moment, focus on the other person, free of judgement. Give your coachee your undivided attention. Close out other programs during a virtual coaching session. Be open and curious by identifying what's working and what's not. Be truly present physcially, mentally, and emotionally. 
+  Be in the moment, focus on the other person, free of judgment. Give your coachee your undivided attention. Closeout other programs during a virtual coaching session. Be open and curious by identifying what's working and what's not. Be truly present physically, mentally, and emotionally. 
 
 <p>
   <b> Strategies on how to be present</b>
@@ -211,20 +211,20 @@ Effective coaches use a defined set of skills to enable coaching coversations. T
 
 ## Attributes of a coachee
 
-As a coach uses their core coaching skills, a coachee can access their own set of skills and action to get the most out of the coaching conversation through the following: 
+As a coach uses their core coaching skills, a coachee can access their own set of skills and activities to get the most out of the coaching conversation through the following: 
 
-*  **Be Present**: Just as the coach is being present, a coachee needs to be present in the conversation, attentive, open to possibilities, and fully engaged.
+*  **Be Present**: Just as the coach is being present, a coachee needs to be present in the conversation, attentive, open to possibilities and fully engaged.
 * **Reflect**: A coachee is invited to reflect, wonder, ponder, and contemplate through a coaching conversation through powerful questions. 
 *  **Visualize**: The coachee can harness the power of their imagination and paint a picture in their mind of the desired future outcomes to enhance their chances of success. 
-*  **Learn**: Coaching conversations revolve around learning by discovering new perpsectivies by coming to a new understanding or realization. 
-*  **Transform**: Change is a core attribute of coaching. Sometimes the transformation may be small, when a coachee has increased clarity on appropriate action to move forward. At times the transformation may be more profound, as a coachee is able to shift their mindset in a way that there's no going back.
+*  **Learn**: Coaching conversations revolve around learning by discovering new perspectives by coming to a new understanding or realization. 
+*  **Transform**: Change is a core attribute of coaching. Sometimes the transformation may be small when a coachee has increased clarity on appropriate action to move forward. At times the transformation may be more profound, as a coachee can shift their mindset in a way that there's no going back.
 
 ## Trust and Coaching
 
 Building trust is an important ingredient in coaching and team dynamics. Trust lies at the heart of a functioning and cohesive team. There are five dysfunctions of a team [according to Patrick Lencioni](https://www.youtube.com/watch?v=GCxct4CR-To) that can break down trust throughout the team: 
 
 1. **Absence of Trust:** Team members are reluctant to be vulnerable with one another and are unwilling to admit their mistakes, weaknesses, or need for help. 
-2. **Fear of Conflict:** Lack of trust prevents the flow of unfiltered, passionate debate about tasks, activities, and projects. These conversations are crucial to ensure all voices are heard and all options considered. 
+2. **Fear of Conflict:** Lack of trust prevents the flow of unfiltered, passionate debate about tasks, activities, and projects. These conversations are crucial to ensure all voices are heard and all options are considered. 
 3. **Lack of Commitment:** Without some conflict it is difficult for team members to commit to decisions, fostering an environment where ambiguity prevails. A team with strong commitment is more likely to put in more effort. 
 4. **Avoidance of Accountability:** When teams do not commit to a clear plan of action, even the most focused and driven individuals are hesitant to call their peers on actions and behaviors that may seem counterproductive. 
 5. **Inattention to Results:** When no one is accountable, team members may naturally tend to put their own needs ahead of the collective goals; for example, career development and recognition. 
@@ -242,7 +242,7 @@ The trust equation uses four objective variables to measure trustworthiness:
 1. Credibility: My word is believable. Put simply, credibility rates "what you say and how believable you are to others." In other words, you must be credible if you are asking others to follow your lead. 
 2. Reliability: I do what I say I will do. Reliability measures "actions, and how dependable you appear." Can you be counted on? People need to know that their leaders will come through for them. 
 3. Intimacy: I empathize with others. Intimacy considers 'how safe people are sharing information with you." When you are presented with confidential information, you need to keep it so. 
-4. Self-Orientation: My focus is on my team, not personal gain. Self-orientation is a personal focus on yourself or others. Too much self focus will lower your degree of trustworthiness. 
+4. Self-Orientation: My focus is on my team, not personal gain. Self-orientation is a personal focus on yourself or others. Too much self-focus will lower your degree of trustworthiness. 
 
 The trust equation has one variable in the denominator (self-orientation) and three in the numerator (credibility, reliability, intimacy). Increasing the value of the factors in the numerator increases the value of trust. Increasing the denominator (self-orientation) decreases the value of trust. 
 
@@ -250,7 +250,7 @@ The trust equation has one variable in the denominator (self-orientation) and th
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ7oRKaXPc3-pqXJEU5SHdlBJlHw00HO4oOcfmH5z0Iq0ojz-lQ1HoudBSeUoHlQNQfUZf_4UoCyObR/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
-### Neurosciene of Trust
+### Neuroscience of Trust
 
 Studies have shown that building trust has an impact on the brain. The neuroscience shows that recognition has the largest effect on trust when it occurs after a [goal has been met](https://hbr.org/2017/01/the-neuroscience-of-trust). The neuroscience of trust can help team members and managers in the following ways: 
 - Important for being empathetic, relating to others needs
@@ -287,17 +287,17 @@ Compared with people at low-trust companies, people at high trust companies repo
 
 ## Planning for action
 
-The planning for action phase is about enabling the coachee to make a plan with action steps that support their goals. 
+The planning for the action phase is about enabling the coachee to make a plan with action steps that support their goals. 
 
 **How to plan for action:**
 
 *  The coachee commits to and is accountable for actions that they design for themselves. 
 *  The coach may brainstorm, probe, request, challenge, or raise the bar but the coachee is ultimately responsible for designing the action steps. 
-*  The coaches actions for the coachee are in service of the coachee's agenda.
-*  Coaches may not neceassarily be attached to the results a coachee achieves.
-*  Actions are anchored in what is important to the coachee, what changes they want to acheive. Coaches should hold their coachee accountable for performance on action steps and their overall change agenda. 
+*  The coach's actions for the coachee are in service of the coachee's agenda.
+*  Coaches may not necessarily be attached to the results a coachee achieves.
+*  Actions are anchored in what is important to the coachee, what changes they want to achieve. Coaches should hold their coachee accountable for performance on action steps and their overall change agenda. 
 
-When you are planning for action while wearing your coaching hat, you are not evaluating or judging or driving your own agenda. The coachee should ultimately decide the action steps, committing to their own path forward. As a coach, you are curious and non-judgemental while living up to [GitLab values](/handbook/values/). 
+When you are planning for action while wearing your coaching hat, you are not evaluating or judging or driving your agenda. The coachee should ultimately decide the action steps, committing to their path forward. As a coach, you are curious and non-judgemental while living up to [GitLab values](/handbook/values/). 
 
 ### Sample planning for action questions: 
 
@@ -320,7 +320,7 @@ The coach might also want to end the conversation with a few statements about wh
 
 *  What I truly appreciate from our conversation was...
 *  What I admire you for is...
-*  What you have helped me realize, learn or reminded me about is...
+*  What you have helped me realize, learn, or reminded me about is...
 
 ## Additional coaching skills
 
