@@ -201,7 +201,7 @@ No problem, and consider adding it to this list if others can benefit as well.
 ### Reimbursement process and timeline:
 
 ##### SafeGuard
-Team members who are employed through SafeGuard must submit their expense for reimbursement through Expensify.  All expense reports must be submitted and approved by the manager and the Expense team by the 8th of the month to be included in the current month payment.
+Team members who are employed through SafeGuard must submit their expense for reimbursement through Expensify.  All expense reports must be submitted and approved by the manager and the Accounts Payable team by the 8th of the month to be included in the current month payment.
 
 Team members in France, Italy, and Spain must submit their expenses through:
 *  Expensify
@@ -211,18 +211,18 @@ Team members in France, Italy, and Spain must submit their expenses through:
 
 ##### Global Upside
 
-* Team members must submit their expenses through Expensify. All expense reports must be submitted and approved by manager and the Expense team by the 8th of the month to include in the current month payment.
+* Team members must submit their expenses through Expensify. All expense reports must be submitted and approved by manager and the Accounts Payable team by the 8th of the month to include in the current month payment.
 
 ##### iiPay
 
-* All Individual contractors or C2C, with exception of Hungary, Nigeria, South Africa, and Switzerland, will be reimbursed by iiPay by the 22nd of each month.  All expense reports must be approved by manager by the 8th of each month to be include in the current month payment.  For contractor with C2C status, be sure to contact Payroll team via email at nonuspayroll@gitlab.com , and ap@gitlab.com if you need to set up a separate bank for your expense reimbursement.
+* All Individual contractors or C2C, with exception of Hungary, Nigeria, South Africa, and Switzerland, will be reimbursed by iiPay by the 22nd of each month.  All expense reports must be approved by the manager and the Accounts Payable team by the 8th of each month to be include in the current month payment.  For contractor with C2C status, be sure to contact Payroll team via email at nonuspayroll@gitlab.com and ap@gitlab.com if you need to set up a separate bank for your expense reimbursement.
 
 ##### Legal entities
 
-* Expense reports for GitLab Ltd (UK) must be approved by the manager on or before the 14th of each month enable for it to include in the current month payroll.
-* Expense reports for GitLab Canada Corp must be approved by the manager before the 1st day of each payroll period.  Please see [Payroll Calendar](https://docs.google.com/spreadsheets/d/1ECkI_Z8R82j1eipJEEybXjO-EDtzw4TuhJPOnHypDho/edit#gid=0) for the payroll cut off date.
-* Expense reports for GitLab BV (Belgium and Netherlands), GmbH (Germany), PTY Ltd (Australia and New Zealand) are reimbursed via GitLab AP within 10 business days from the approval date by their manager.
-* Expense reports for GitLab Inc, GitLab Inc Billable, and GitLab Federal reimbursed via Expensify, and AP will final approved the report within 5 business days after the approval from their manager.
+* Expense reports for GitLab Ltd (UK) must be approved by the manager and the Accounts Payable team on or before the 14th of each month in order for the reimbursement to be include in the current month payroll.
+* Expense reports for GitLab Canada Corp must be approved by the manager and the Accounts Payable team before the 1st day of each payroll period.  Please see [Payroll Calendar](https://docs.google.com/spreadsheets/d/1ECkI_Z8R82j1eipJEEybXjO-EDtzw4TuhJPOnHypDho/edit#gid=0) for the payroll cut off date.
+* Expense reports for GitLab BV (Belgium and Netherlands), GmbH (Germany), PTY Ltd (Australia and New Zealand) are reimbursed via GitLab AP within 10 business days from the approval date by their manager and the Accounts Payable team.
+* Expense reports for GitLab Inc, GitLab Inc Billable, and GitLab Federal reimbursed via Expensify, and AP will final approve the report within 5 business days after the approval from their manager.
 
 ##### Hungary, Nigeria, South Africa
 
@@ -232,8 +232,8 @@ Team members in France, Italy, and Spain must submit their expenses through:
 
 Poland, Russia, Ukraine & Romania:
 
-* Expense reports must be approved by the manager on or before the 8th of each month enable for it to be included in the current month payroll
-* GitLab Payroll will send the approved expense amount to CXC EMEA payroll included with the monthly salary
+* Expense reports must be approved by the manager and the Accounts Payable team on or before the 8th of each month enable for it to be included in the current month payroll
+* GitLab Payroll will send the approved expense amount to CXC EMEA payroll to include with the monthly salary
 * Team members must include the approved expense amount on their monthly invoice
 
 ## Expense Policy
