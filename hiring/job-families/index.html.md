@@ -127,7 +127,7 @@ Additional details about our process can be found on our [hiring page](/handbook
 ```
 #### Template 1 Additional Details
 
-* List levles in asending order. Start w/ junior/associate and end with the highest levle
+* List levels in ascending order. Start w/ junior/associate and end with the highest level.
 * List any overarching responsibilities or requirements that are applicable for the entire job family before listing the levels.
 * Do not repeat the junior requirement list for more senior levels:
    * You do not want to relist an entire requirement set from a more junior level that also pertains to a more senior one. You can choose to keep the section title as {Level} Requirements. You can then add a first bullet that says, "extends the {name of lower job level} responsibilities."  
