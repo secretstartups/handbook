@@ -57,7 +57,7 @@ When asked in an [interview](https://youtu.be/7kMQj4O4ZGU) on GitLab Unfiltered 
 {:#underperformance}
 
 In a similar vein, it is important that we do not slow down, which means being very proactive in addressing [underperformance](/handbook/underperformance/).
-We should [identify and take action as early as possible](/handbook/underperformance/#identify-and-take-action-as-early-as-possible).
+We should [identify and take action as early as possible](/handbook/underperformance/#manager-identify-and-take-action-as-early-as-possible).
 
 ## 4. Loss of the open source community
 {:#loss-of-the-open-source-community}
