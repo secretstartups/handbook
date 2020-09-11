@@ -41,24 +41,19 @@ For reviews with a "satisfaction::bad" rating, follow this process.
 * **Contact user to discuss feedback? (Y/N)** 
 ```
 
-2. Apply **one** `feedback` project label that best describes the situation:
+2. Apply the `feedback` [scoped label](https://docs.gitlab.com/ee/user/project/labels.html#scoped-labels) that best describes the situation:
 
-   * feedback::process
-     - Support process not followed/does not exist
-   * feedback::tech-skills
-     - Technical skills lacking to resolve/work around problem
-   * feedback::soft-skills
-     - Wording of responses and/or mishandling of the user/account 
-   * feedback::docs-issue
-     - Documentation not helpful or missing
-   * feedback::product-issue
-     - Bug and/or feature not working as expected
-   * feedback::known-issue
-     - Known issue with Issue already created  
-   * feedback::lacking-info
-     - Not enough information supplied to progress investigation in ticket
-   * feedback::customer-resolved
-     - The customer resolved the ticket
+| Label | Description |
+| ----- | ----------- |
+| `~feedback::customer-resolved` | The customer resolved the ticket |
+| `~feedback::docs-issue` | Documentation not helpful or missing |
+| `~feedback::known-issue` | Known issue with Issue already created |
+| `~feedback::lacking-info` | Not enough information supplied to progress investigation in ticket |
+| `~feedback::outside-support` | Problem internal to GitLab but not directly by Support |
+| `~feedback::process` | Support process not followed/does not exist |
+| `~feedback::product-issue` | Bug and/or feature not working as expected |
+| `~feedback::soft-skills` | Wording of responses and/or mishandling of the user/account |
+| `~feedback::tech-skills` | Technical skills lacking to resolve/work around problem |
 
 **Note:** For the full list of feedback labels and their descriptions, visit the [labels page in the support-feedback project](https://gitlab.com/gitlab-com/support/feedback/-/labels?utf8=%E2%9C%93&subscribed=&search=feedback%3A%3A).
 
