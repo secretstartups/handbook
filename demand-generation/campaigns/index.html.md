@@ -53,7 +53,7 @@ _Targets are derived from [Approved Second Half FY21-22 Segment Marketing Plan](
 
 The Campaigns Team is aligned to sales segments with a geo breakout. Our number one focus is driving outbound MQLs, while collaborating across marketing (working closely with field marketing, sales, and SDRs in region) to develop strategies contributing to SAOs and closed won revenue against target accounts.
 
-Image to be added when complete.
+![Campaigns Team Alignment](img/source/images/campaigns-team/team.png "Campaigns Team Alignment")
 
 ## Communication
 
