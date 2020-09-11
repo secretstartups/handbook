@@ -33,7 +33,10 @@ How to order anniversary gifts for People Experience Associates :
 
 ## Birthdays
 
-The company encourages all GitLab team-members to take a day of vacation on their birthday by utilizing our [paid time off](/handbook/paid-time-off/) policy.
+The company encourages all GitLab team-members to take a day of vacation on their birthday by utilizing our [paid time off](/handbook/paid-time-off/) policy. If the team-members birthday falls on a weekend, it is encouraged that the team member take the Friday before or Monday after as paid time off to celebrate. 
+
+**Please note that we are unable to send birthday gifts to team-members.** 
+
 **BirthdayBot** our official birthday bot will announce team members birthday on #celebrations channel for the rest of the company to send you their wishes. A few things to note;
 1. Any team member wishing to be excluded should refrain from including their birthday on their Slack profile.
 1. If you would like to be included but are not comfortable with inputing the year in Slack, you can use `0000` as the year in your slack profile (ex. 0000-12-29), which will just show the month and day in your Slack profile. Alternatively, just reply with day and month to the bot on a private/direct message under apps section in Slack.
