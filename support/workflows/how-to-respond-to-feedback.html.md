@@ -41,7 +41,7 @@ For reviews with a "satisfaction::bad" rating, follow this process.
 * **Contact user to discuss feedback? (Y/N)** 
 ```
 
-2. Apply **one** `feedback` project label that best describes the situation:
+2. Apply the `feedback` [scoped label](https://docs.gitlab.com/ee/user/project/labels.html#scoped-labels) that best describes the situation:
 
 | Label | Description |
 | ----- | ----------- |
