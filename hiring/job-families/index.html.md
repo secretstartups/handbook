@@ -20,33 +20,12 @@ Job families are [organized by function in directories in the www-gitlab-com rep
 1. We don't include location requirements for most roles (EMEA, Americas, APEC) in the job family because these can change over time and job families are constant.
 1. We don't include [expertises](/company/team/structure/#expert), since these are free form.
 1. We don't allow them to read like a [vacancy](/handbook/hiring/vacancies/). The job family could be used for hiring however they are more often serving as the requirements that team members and managers alike use in conversations around career development and performance management. Verbiage you don't want to use includes prases like "you will", or "exciting opportunity" or "we're hiring for".
+1. We are continually iterating on job families. Do not search other job families for examples of what good looks like. The templates below and this page are the SSOT for guidance. 
 1. Team Lead vrs people Manager vrs function Manager: you should be aware of how GitLab defines these terms. Depending on the needs of the organization, a Team Lead may or may not directly manage people. There are 2 instances where a Team Lead role can be used:
    * Team Lead as an Individual Contributor - in this context, the Team Lead would be responsible for a specific project/s or area of expertise (a Subject Matter Expert), and may partner with others to accomplish the work. The Team Lead can be leveraged as a player/coach, where they have their own individual tasks to complete, but they also mentor, train and coach others on the team. A team lead may also handle escalated or complex cases or projects.  
    * Team Lead as a People Manager - in this context, the Team Lead would directly manage a team of people as a first level or entry-level people manager, which means they are directly responsible for hiring, promoting, performance management, or termination of team members. Team Leads can report into Managers, even though they may share the same compensation benchmark. 
    * Manager job families are those responsible for directly managing other GitLab team-members. They hire, promote, and terminate team members, and performance management is one of their key functions. Nomenclature to represent someone is a manager of people can be clarified with "Manager, Benchmark" (e.g., Manager, Corporate Events). The same holds true for director (e.g. Director, Corporate Events). 
    * Nomenclature to represent when someone manages a job function, and does not have people management responsibilities, can be clarified with "Benchmark Manager" (e.g., Marketing Manager)
-
-## Format
-
-For each job at GitLab, the job family is the single source of truth for the expectations of that role. A job has the URL ``/job-families/department/title`` and contains the following paragraphs:
-
-- Overview: 
-- Responsibilities 
-- Requirements 
-- **Levels** (If applicable i.e. Associate, Intermediate, Senior, Staff, Manager, Director, Senior Director, etc.)
-   - Responsibilities (for each level)
-   - Requirements (for each level)
-- [Job Grades](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) (for each level)
-- Performance Indicators (for each level- may be similar for all ICs)
-  Link to one or more performance indicator definitions for which this job family will be the [DRI](/handbook/people-group/directly-responsible-individuals/).
-  A performance indicator can be a [KPI](/handbook/ceo/kpis/) but don't need to be, only a sub-set of performance indicators are KPIs.
-- [Segment](/sales/field-operations/gtm-resources/#segmentation): A Segment is something you will see with Sales based Job Families (Example, Enterprise, Mid-market, SMB, Public Sector)
-- [Specializations](/job-families/specialist) (e.g. CI/CD, distributed systems, Gitaly) relevant to that job family. Note that "specialist" job families may be created if their area of expertise and/or job responsibilities do not fit under any other, more general job families (e.g. the [candidate experience specialist job family](/job-families/people-ops/candidate-experience-specialist/)).
-- Career Path: **Moving to and moving from** which describes possible current and future roles which move to the job family and which the job family might move to. Here is [an example](/job-families/product/product-manager/#moving-to-and-moving-from).
-- Career Ladder: The next job family. All levels should be on one job family, except when the next job family manages over multiple job families. For [example](/job-families/people-ops/people-operations/#career-ladder).
-- Hiring process
-- About GitLab
-- Compensation
 
 ## Approval Flow
 
@@ -61,7 +40,9 @@ Anyone can create a job family, in general it is the responsibility of the perso
 
 ## Templates for New Job Family
 
-There are two templates on this page. The first template is appropriate when the job family has 1 or 2 job titles and more levles (i.e. junior, intermediate, senior, manager, director) or specialities; [for example](/job-families/engineering/backend-engineer/). There can be many levles for each of the titles. The second template is appropriate when there are many different job titles within the same family; [for example](/job-families/people-ops/total-rewards/). 
+There are two templates on this page. The first template is appropriate when the job family has 1 or 2 job titles and more levles (i.e. junior, intermediate, senior, manager, director) or specialities; [for example](/job-families/engineering/backend-engineer/). There can be many levels for each of the titles. The second template is appropriate when there are many different job titles within the same family; [for example](/job-families/people-ops/total-rewards/). 
+
+### Job Family Template 1
 
 After pasting this template search for *{add* to quickly navigate to areas of input.
 
@@ -145,17 +126,24 @@ Candidates for this position can expect the hiring process to follow the order b
 Additional details about our process can be found on our [hiring page](/handbook/hiring).
 
 ```
-*Please note the **Compensation** and **About GitLab** sections will auto-populate because of the job family formatting. 
+#### Template 1 Additional Details
 
-* Clarify which pecialities each level pertains to:
-   * Specialities may be relevant for some but not all levels. If the same specialty list pertains to multiple roles, list specialties after the most senior role that they pertain to.  In the the specialty list, add a first bullet that says, "relevant for {name of all relevant job levels} responsibilities." 
+* List levles in asending order. Start w/ junior/associate and end with the highest levle
+* List any overarching responsibilities or requirements that are applicable for the entire job family before listing the levels.
 * Do not repeat the junior requirement list for more senior levels:
-   * You do not want to relist an entire requirement set from a more junior level that also pertains to a more senior one. You can choose to keep the section title as {Level} Requirements. You can then add a first bullet that says, "extends the {name of lower job level} responsibilities."    
+   * You do not want to relist an entire requirement set from a more junior level that also pertains to a more senior one. You can choose to keep the section title as {Level} Requirements. You can then add a first bullet that says, "extends the {name of lower job level} responsibilities."  
+* Specialities may be relevant for some but not all levels. Clarify which specialities each level pertains to. If there are no specialities remove the section.
+* [Segment](/sales/field-operations/gtm-resources/#segmentation): A Segment is something you will see with Sales based Job Families (Example, Enterprise, Mid-market, SMB, Public Sector). If there is no segment for the job family remove the section.
+* If performance indicators are the same for all the levels on the job family do not list them under the levels section, rather list them at the end of the entire job family. Remove either the performance indicator section in the level section or at the end of the template. 
+* Career Ladder: The next job family. All levels should be on one job family, except when the next job family manages over multiple job families. For [example](/job-families/people-ops/people-operations/#career-ladder). Some teams added a Career Path: **Moving to and moving from** which describes possible current and future roles which move to the job family and which the job family might move to. Here is [an example](/job-families/product/product-manager/#moving-to-and-moving-from).
+* The **Compensation** and **About GitLab** sections will auto-populate because of the job family formatting. 
 
-**Second Template**
+### Job Family Template 2
+
 The second template is appropriate when there are three or more job titles within the same family. For example the team is made up of many different positions, that all report into the same person or are all working to accomplish the same goals. 
 
 After pasting this template search for *{add* to quickly navigate to areas of input.
+
 ```
 ---
 layout: job_family_page
@@ -216,7 +204,9 @@ Candidates for this position can expect the hiring process to follow the order b
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring).
 ```
-*Please note the **Compensation** and **About GitLab** sections will auto-populate because of the job family formatting.
+#### Template 2 Additional Details
+
+* The **Compensation** and **About GitLab** sections will auto-populate because of the job family formatting. 
 
 ### Creating a New Job Family from Scratch
 
@@ -231,7 +221,7 @@ If you use these slides please remember that the HANDBOOK is the most up to date
 1. The file type should be `index.html.md`.
 1. Add each paragraph to the position description, for an example see the [backend engineer job family](/job-families/engineering/backend-engineer). All job families must have Requirements, Responsibilities, Performance Indicators, [Job Grades](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades), and a Hiring Process. There is a template below that may be useful.
 
-## Job Family Creation Using Web Version of GitLab
+### Job Family Creation Using Web Version of GitLab
 
 1. Go to the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com?nav_source=navbar) project on `gitlab.com`
 1. Select the [source](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source) directory
@@ -279,20 +269,19 @@ We have a CI job that checks job families for hard requreiments:
       - fix the text to be more inclusive, commit your changes and the pipeline will run again
       - if you disagree or you feel like the pipeline found a false positive, you can add the file to [this list](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/inclusiveness_check.yml). The files in this list are ignored by the inclusiveness check. If you request your job family to be added to the skip level you will need to paste a screen shot of the inclusiveness check in the MR as this will be asked for prior to merging. 
 
-## Why Job Families Have Performance Indicators
+### Why Job Families Have Performance Indicators
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/9EJkgBRUSDA" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-All job families should have performance indicators.
-Those performance indicators should tell you whether or not you’re doing your job well or correctly.
-For example, our [Sr. Director, Investor Relations](/job-families/finance/senior-director-of-investor-relations) role  has performance indicators which compare how we’re being described by analysts to how we describe ourself.
-
+* All job families should have performance indicators.
+* Performance indicators should tell you whether or not you’re doing your job well or correctly. For example, our [Sr. Director, Investor Relations](/job-families/finance/senior-director-of-investor-relations) role  has performance indicators which compare how we’re being described by analysts to how we describe ourself. 
 * Performance indicators are important because people want to know that they’re contributing. 
 * Candidates want to know what success looks like in a role. 
 * Team Members what to know how they're being measured for success.
-* Company, functional, or department KPIs are too generic and, thus, not useful as job family performance indicators. 
+* Company, functional, or department KPIs are too generic and, thus, not useful as job family performance indicators, only a sub-set of performance indicators are KPIs. 
 * Time sensitive PIs, like OKRs or weekly goals, are also not useful because they are not long term success factors.
 * Performance indicators should be specific to the role and not dependent on anyone else's performance.
 * Job Families should have three to five PIs.
+* Performance Indicators should be linked to one or more performance indicator definitions for which this job family will be the [DRI](/handbook/people-group/directly-responsible-individuals/).
