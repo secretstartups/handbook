@@ -43,5 +43,4 @@ It's important to note that ultimately the Customer Portal admin will be the mos
 
 #### Self-managed 
 
-fill in details
-
+The best way to understand seat utilization for self-managed customers is by using the [License Usage Salesforce App](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/license-usage-app/)
