@@ -12,25 +12,27 @@ title: The Procurement Team
 {:toc}
 
 
-## <i class="far fa-paper-plane" id="biz-tech-icons"></i> Contacting Procurement
+## <i class="far fa-paper-plane" id="biz-tech-icons"></i> Purchasing Policy and Team
+The procurement team at GitLab is a business partner to support and optimize all third party relationships and spend.
 
-#### How do I contact procurement?
-1. If you have a general sense for your business needs that you need to purchase, open a [vendor contract request](/handbook/finance/procurement/vendor-contract-process) issue as identified under [Requesting Procurement Services](/handbook/finance/procurement/procurement-services/). You do NOT need a contract to open a contract request issue.
-1. If you have a general question or are looking for direction, use the #procurement slack channel.
+#### Why Procurement? 
+- Team members can purchase goods and services on behalf of the company in accordance with the [Signature Authorization Matrix](/handbook/finance/authorization-matrix/) and guide to [Spending Company Money](/handbook/spending-company-money/). 
+- However, all purchases made on behalf of GitLab that are not a personal expense, must first be reviewed by procurement, then signed off by key members of the leadership team. 
+- Approved Purchase Request Issues are required for all third party purchases being made on behalf of GitLab that aren't considered a [personal reimbursable expense](/handbook/spending-company-money/#expense-policy). 
+- This ensures the organization can appropriately plan for spend and assess supplier risk. 
 
-#### Why should I contact procurement? 
-Team members can purchase goods and services on behalf of the company in accordance with the [Signature Authorization Matrix](/handbook/finance/authorization-matrix/) and guide to [Spending Company Money](/handbook/spending-company-money/). However, all purchases made on behalf of GitLab that are not a personal expense, must first be reviewed by procurement, then signed off by a member of the executive team. 
-
-Finance vendor contract request issues are required for all third party purchases being made on behalf of GitLab that aren't considered a [personal reimbursable expense](/handbook/spending-company-money/#expense-policy). This ensures the organization can appropriately plan for spend and assess supplier risk. Exceptions to this are:
-
+**Exceptions to this are:**
 1.  Last minute un-planned onsite event needs such as food and rental transactions needed for event.
 2.  One-time field marketing and event purchases less than $10K such as booth rentals, AV equipment, catering, etc.
      - In this instance, the vendor can invoice GitLab in Tipalti, and AP will route approvals based on the matrix
 
+#### How do I contact procurement?
+- If you have a general question or are looking for direction, use the #procurement slack channel.
+- Attend the Procurement Office Hours available on the GitLab Team Calendar.
+- Create a purchase request issue based on your need.
+
 #### When should I contact procurement?
-1. Contact procurement BEFORE you have a contract. 
-1. **Create an issue 60-90 days before you need the service/product** to allow for best negotiations and terms.
-1. The sooner procurement is engaged, the better.
+- See the purchase request process for when to contact procurement and how to open a purchase request issue.
 
 ## <i class="fas fa-stream" id="biz-tech-icons"></i> Procurement toolkit
 <div class="flex-row" markdown="0" style="height:110px;">
@@ -66,7 +68,6 @@ Process of measurement in progress.
 
 
 ## <i class="far fa-question-circle" id="biz-tech-icons"></i> Frequently asked questions
-
 
 #### What if the Vendor I am working with doesn't require a contract?
 1. GitLab requires a Vendor Contract even if your vendor doesn't.
