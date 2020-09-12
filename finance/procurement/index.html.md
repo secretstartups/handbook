@@ -13,7 +13,7 @@ title: The Procurement Team
 
 
 ## <i class="far fa-paper-plane" id="biz-tech-icons"></i> Purchasing Policy and Team
-The procurement team at GitLab is a business partner to support and optimize all third party relationships and spend.
+The mission of the procurement team at GitLab is to be a trusted business partner at driving business value through external partnerships.
 
 #### Why Procurement? 
 - Team members can purchase goods and services on behalf of the company in accordance with the [Signature Authorization Matrix](/handbook/finance/authorization-matrix/) and guide to [Spending Company Money](/handbook/spending-company-money/). 
