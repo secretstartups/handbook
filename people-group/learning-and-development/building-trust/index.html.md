@@ -105,7 +105,7 @@ As people, we have a natural tendency to make assumptions about others, which me
 
 Managers can make it clear that they have a vested stake in team members career development by advocating for their team to take time to learn. Team members look to their managers to provide learning guidance. As a People Leader, send your team interesting articles, thought leadership studies, videos, etc, on the latest trends in your domain. Managers should advocate to take time to learn for reskilling and upskilling on a range of topics relevant to the job. Managers can set an example by fostering a learning culture within the organization by sending a strong message that it is okay to take time out to learn.
 
-**How to apply taking time out to learn:** People leaders can send a clear message to their teams by sending them weekly learning excrcises to break up the workweek. Try sending out interesting webinars and articles that are relevant to their job family. Encourage team members to take advantage of our [tuition reimbursement policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#tuition-reimbursement/) to grow professionally. Managers can also encourage their team to block a portion of their week for focusing on professional development.  
+**How to apply taking time out to learn:** People leaders can send a clear message to their teams by sending them weekly learning excrcises to break up the workweek. Try sending out interesting webinars and articles that are relevant to their job family. Encourage team members to take advantage of our tuition reimbursement policy to grow professionally. Managers can also encourage their team to block a portion of their week for focusing on professional development.  
 
 ### "No Work Talk" Team Chats
 
