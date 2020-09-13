@@ -214,10 +214,10 @@ Exceptional community members may be able to participate, as well.
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
 | 2020-09-08 | 2020-09-11 | [Shawn Winters](https://gitlab.com/ShawnWinters) - Acceleration SDR | [Francis Potter](https://gitlab.com/francispotter) - Sr. Solution Architect |
-| 2020-09-14 | 2020-09-18 | AVAILABLE - REMOTE | [Shawn Winters](https://gitlab.com/ShawnWinters) - Acceleration SDR |
-| 2020-09-21 | 2020-09-25 | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend | AVAILABLE - REMOTE |
-| 2020-09-28 | 2020-10-02 | [Madeline Hennessy - Area Sales Manager US East, SMB](https://gitlab.com/mhennessy) | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend |
-| 2020-10-05 | 2020-10-09 | AVAILABLE - REMOTE | [Madeline Hennessy - Area Sales Manager US SMb East](https://gitlab.com/mhennessy) |
+| 2020-09-14 | 2020-09-18 | [Chris Baus](https://gitlab.com/chris_baus) - Engineering Manager, Fulfillment | [Shawn Winters](https://gitlab.com/ShawnWinters) - Acceleration SDR |
+| 2020-09-21 | 2020-09-25 | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend | [Chris Baus](https://gitlab.com/chris_baus) - Engineering Manager, Fulfillment |
+| 2020-09-28 | 2020-10-02 | [Madeline Hennessy]((https://gitlab.com/mhennessy) - Area Sales Manager US East, SMB | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend |
+| 2020-10-05 | 2020-10-09 | AVAILABLE - REMOTE | [Madeline Hennessy]((https://gitlab.com/mhennessy) - Area Sales Manager US East, SMB |
 | 2020-10-12 | 2020-10-16 | NO SHADOWS - PTO | NO SHADOWS - PTO |
 | 2020-10-26 | 2020-10-30 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2020-11-02 | 2020-11-06 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
@@ -227,7 +227,7 @@ Exceptional community members may be able to participate, as well.
 | 2020-11-30 | 2020-12-04 | [Tucker Logan](https://gitlab.com/tuckcodes) - Federal Solutions Architect | AVAILABLE - REMOTE |
 | 2020-12-07 | 2020-12-11 | AVAILABLE - REMOTE | [Tucker Logan](https://gitlab.com/tuckcodes) - Federal Solutions Architect |
 
-The week of 2020-12-13 will be the last CEO Shadow Rotation of 2020 to allow our team members to focus on the holiday season and put family and friends first.
+The week of 2020-12-07 will be the last CEO Shadow Rotation of 2020 to allow our team members to focus on the holiday season and put family and friends first.
 
 If you have questions regarding the planned rotation schedule, please ping the Executive Admin to the CEO. The EBA to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation.
 
@@ -248,6 +248,10 @@ You **do not need to dress formally**; business casual clothes are appropriate. 
 Make sure to bring comfortable shoes with you to Mission Control any time there are meetings in the city. Wear whatever you are comfortable in, keeping in mind that Sid prefers to walk, even if his calendar says Uber.
 
 ### Pre-Program Tasks
+
+#### Practice your introduction
+
+You will get asked about yourself during the program, and it's important to describe it correctly. So stand in front of a mirror and practice 3 times. The main point is, do *not* say that your role is to "follow Sid around" or "follow the CEO around". The program is for exploring and learning about all the parts of GitLab, and there's where the emphasis should lie. See [CEO Shadow Introductions](#ceo-shadow-introductions) for specifics.
 
 #### Coffee chat with Co-shadow
 
@@ -473,6 +477,8 @@ When introducing yourself in a meeting as the second shadow, say:
 1. I'm NAME.
 1. I normally am a/the TITLE.
 1. This is my first/last week in the two-week CEO shadow program.
+
+Remember, do *not* say that your role is to "follow the CEO around". It's about getting an overview of the functions at GitLab.
 
 #### Finding meeting recordings
 
