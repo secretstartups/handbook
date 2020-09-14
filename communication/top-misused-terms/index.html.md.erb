@@ -3,6 +3,8 @@ layout: handbook-page-toc
 title: "Top Misused Terms - GitLab Communication"
 ---
 
+<!-- NOTE: To update misused terms, please open "data/communication/misused_terms.yml -->
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -37,6 +39,7 @@ Below are terms people frequently use when they should use another term.
           <% if term.avoid_footnote.present? %>
             <p><small><%= term.avoid_footnote %></small></p>
           <% end %>
+          <a href="#<%= term.id %>" class="misused-permalink" title="Link to this term">permalink to <%= term.avoid.first %></a>
         </td>
 
         <td class="misused-use-instead">

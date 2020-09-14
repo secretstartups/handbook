@@ -252,6 +252,7 @@ So most things are **public** unless there is a reason not to. The following ite
    1. a department's cost
    1. the Sales pipeline (but the Marketing pipeline can be public)
    1. Net and Gross Retention KPIs (only the actual numbers can't be public. Everything else- the goal, their calculation, etc- can be.)
+   1. Timing and plans for [becoming a public company](/handbook/being-a-public-company/)
 1. Deals with external parties like contracts and [approving and paying invoices](/handbook/finance/procure-to-pay/).
 1. Content that would violate confidentiality for a GitLab team member, customer, or user.
 1. Legal discussions are not public due to the [purpose of Attorney-Client Privilege](/handbook/legal/#what-is-the-purpose-of-these-privileges).
@@ -462,10 +463,19 @@ and posted to our [Unfiltered YouTube channel](https://www.youtube.com/channel/U
 1. If you want to schedule a meeting with a person not on the team please use [Calendly](/handbook/tools-and-tips/other-apps/#calendly). Use Google Calendar directly if scheduling with a GitLab team member.
 1. **Materials Review** are scheduled as all day not busy events as a reminder three days before the scheduled call.
 
-### No-meetings Fridays
+### Focus Fridays
 
-In Northern Hemisphere Summer/Southern Hemisphere Winter of 2020 GitLab is running an experiment to have no internal meetings scheduled on Fridays. It's optional, but several divisions have agreed to take part including Legal, Finance, Engineering, and Product. The experiment will run through 2020-09-07. At that time we'll evaluate the effectiveness on productivity and morale. We'll also look at other factors such as whether Friday is the most effective day for all timezones.
+The goal of Focus Fridays is to maximize efficiency by creating designated meeting-free space within our weeks for focused work, which also aligns with our push to [operate asynchronously](https://about.gitlab.com/company/culture/all-remote/asynchronous/). Other benefits include reducing potential burnout, and being more thoughtful both in and about the meetings on the other days of the week.  Guidance for Focus Fridays includes:  
+- Cancel or move any standing meetings occurring on Fridays
+- Customer/prospect/partner/external meetings are exceptions
+- Some one-off internal meetings might not be avoidable, but aim to minimize them as much as possible
+- Consider blocking off your calendar as "busy" on Fridays to block your work time
+- Consider looking into apps like [Clockwise](https://www.getclockwise.com/) that can provide recommendations on how to refactor your calendar for focused work 
 
+You are encouraged to talk to your manager for guidance on how best to embrace Focus Fridays on your team and with your individual schedule. 
+
+Focus Fridays began as an experiment in the Northern Hemisphere Summer/Southern Hemisphere Winter of 2020 which ran through 2020-09-07, at which time E-Group evaluated the effectiveness on productivity and morale. They found the impact to be a positive one and extnded the program until 2021-01-08.
+ 
 ### Common Meeting Problems
 
 Meetings are incredibly expensive since they require synchronous time.
@@ -475,7 +485,7 @@ Some of the most common meetings problems are outlined below:
 | Problem | Solution |
 |---------|----------|
 | Present instead of Q&A | Pre-record presentations on YouTube, so meetings are only Q&A |
-| Meetings set up for or default to brainstorming | People should default to making thoughtful proposals async and buildiung upon them in meetings, if needed |
+| Meetings set up for or default to brainstorming | People should default to making thoughtful proposals async and building upon them in meetings, if needed |
 | No agenda with edit rights for everyone | Ensure that every meeting has an agenda and is available for everyone to edit |
 | People are late to meetings or don't have time to use the restroom between meetings | Use Speedy Meetings to give people breathing space before their next meeting |
 
@@ -1120,7 +1130,9 @@ The recommended defaults when sharing a document for GitLab internal purposes is
 
 ## Zoom
 
-GitLab uses [Zoom](https://zoom.us/) for video communications.
+GitLab uses [Zoom](https://zoom.us/) as the primary video collaboration platform for internal and external communications. Some of our customers and partners have different preferred tools and to facilitate the communication with those parties, GitLab provides licenses for WebEx and MS Teams. This service is only provided to team members that have a business need to host meetings and where Zoom is not accepted. It is not efficient for GitLab to use multiple video conferencing tools, however we encourage the use of the most popular ones among our customers and partners when needed. E.g.; Zoom, WebEx, MS Teams, Skype, etc. 
+
+To request access to those tools, create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Single_Person_Access_Request) and provide a justification for access. 
 
 ### Usage guidelines
 
