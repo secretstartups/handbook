@@ -163,9 +163,11 @@ The chatops bot in the [`#production` Slack Channel](https://gitlab.slack.com/ar
 ### When to Contact the Current EOC
 
 The current EOC can be contacted via the `@sre-oncall` handle in Slack, but please only use this handle in the following scenarios.
-1. You are unable to declare an incident and/or need assistance in [reporting an incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident).
-1. You need assistance in halting the depolyment pipeline. note: this can also be accomplished by [reporting an incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) and labeling it as `~severity::2`.
+1. You need assistance in halting the depolyment pipeline. note: this can also be accomplished by [Reporting an Incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) and labeling it as `~severity::2`.
+1. You are conducting a production change via our [Change Management](/handbook/engineering/infrastructure/change-management/) process and as a required step need to seek the approval of the EOC.
 1. For all other concerns please see the [Getting Assistance](/handbook/engineering/infrastructure/team/reliability/#getting-assistance) section.
+
+The EOC will respond as soon as they can to the usage of the `@sre-oncall` handle in Slack, but depending on circumstances, may not be immediately available. If it is an emergency and you need an immediate response, please see the [Reporting an Incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) section.
 
 ### Reporting an Incident
 
@@ -313,6 +315,13 @@ In order to help with attribution, we also label each incident with a scoped lab
 | `~Incident::Review-in-Progress`  | Indicates that an incident met the threshold for requiring a review (S1/S2) or the IMOC or EOC for the incident chose to include a review (S3/S4) for the purposes of deriving and creating needed corrective actions. |
 | `~Incident::Review-Scheduled`   | Indicates that the incident review has been added to the agenda for an upcoming review meeting. |
 | `~Incident::Review-Completed`   | Indicates that an incident review has been completed, but there are notes to incorporate from the review writeup prior to closing the issue. |
+
+
+In certain cases, additional labels will be added as a mechanism to add metadata to an incident issue.
+
+| **Label** | **Workflow State** |
+| ---------- | -------------- |
+| `~self-managed` | Indicates that an incident is **exclusively** and incident for self-managed GitLab. [Example self-managed incident issue](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2651) |
 
 ### Workflow Diagram
  
