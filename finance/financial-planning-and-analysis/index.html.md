@@ -14,11 +14,12 @@ title: "Financial Planning & Analysis"
 ## Common Links
 
  * [Finance Issue Tracker](https://gitlab.com/gitlab-com/finance/issues)
- * [Analtyics Issue Tracker](https://gitlab.com/gitlab-data/analytics) for all data, dashboard, or reporting requests
+ * [Analytics Issue Tracker](https://gitlab.com/gitlab-data/analytics) for all data, dashboard, or reporting requests
  * [Slack Channel](https://gitlab.slack.com/archives/fpanda)
  * [Hypergrowth Rule](/handbook/finance/financial-planning-and-analysis/hypergrowth-rule)
  * [Sales Finance](/handbook/finance/financial-planning-and-analysis/Sales-Finance)
  * [FP&A Job Ladder](https://about.gitlab.com/job-families/finance/finance-planning-and-analysis/)
+ * [Adaptive Insights](/handbook/finance/financial-planning-and-analysis/adaptive-insights) 
 
 ## What is purpose of FP&A @ GitLab?
 1. Facilitate execution of GitLab's [strategy](/company/strategy/)
