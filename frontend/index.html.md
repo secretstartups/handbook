@@ -25,7 +25,7 @@ Do you have a question concerning the frontend for a product area? As a product 
 
 **Wait no more, here are our frontend domain experts who can help you out**
 - Merge Requests - [Justin Boyson](/company/team/#jboyson), [Phil Hughes](/company/team/#iamphill)
-- Design Management - [Natalia Tepluhina](/company/team/#ntepluhina)
+- Design Management - [Natalia Tepluhina](/company/team/#ntepluhina), [Tom Quirk](/company/team/#tomquirk)
 - Portfolio Management + Geo - [Kushal Pandya](/company/team/#Kushal_Pandya)
 - Web IDE - [Denys Mishunov](/company/team/#mishunov), [Paul Slaughter](/company/team/#pslaughter)
 - Static Site Editor - [Enrique Alcántara](/company/team/#ealcantara)
@@ -35,7 +35,7 @@ Technical:
 - UI Components - [Clement Ho](/company/team/#ClemMakesApps), [Enrique Alcántara](/company/team/#ealcantara)
 - Webpack + Tooling - [Mike Greiling](/company/team/#mikegreiling)
 - NPM Dependency Janitor - [Lukas Eipert](/company/team/#leipert)
-- GraphQL - [Illya Klymov](/company/team/#xanf), [Kushal Pandya](/company/team/#kushalpandya), [Natalia Tepluhina](/company/team/#ntepluhina)
+- GraphQL - [Illya Klymov](/company/team/#xanf), [Kushal Pandya](/company/team/#kushalpandya), [Natalia Tepluhina](/company/team/#ntepluhina), [Tom Quirk](/company/team/#tomquirk)
 
 **They are responsible for**
 - Person to contact about a specific topic
