@@ -87,7 +87,7 @@ actual users. This is a much more informative mechanism than the intuition
 of a product person (this doesn't mean we should just build
 whatever feedback tells us, however.)
 
-When considering how to scope a feature for a release remember it is ok to ship an "incomplete" feature to customers - assuming it still offers value and is not broken. For example, you could ship a feature that lacks a completed interface but still adds value if the user **chooses** to use it. Consider existing workflows and understand the impact on overall user experience as you release your feature. In terms of talking about your feature, it's ok to add a release post item that announces your incomplete feature (making clear that it is an early iteration, and points to the direction for the feature) and follow-on in a later release post with a new item when you've completed more of the functionality.
+When considering how to scope a feature for a release remember it is ok to ship an "incomplete" feature to customers - assuming it still offers value and is not broken. For example, you could ship a feature that lacks a completed interface but still adds value if the user **chooses** to use it. [See this MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/62038) as a great example of a release post item shipping a truly minimal feature. Consider existing workflows and understand the impact on overall user experience as you release your feature. In terms of talking about your feature, it's ok to add a release post item that announces your incomplete feature (making clear that it is an early iteration, and points to the direction for the feature) and follow-on in a later release post with a new item when you've completed more of the functionality.
 
 ### Iteration
 
@@ -341,10 +341,6 @@ After this, individual MVCs can be introduced to expand the use-cases
 or loosen the assumptions (e.g. from a feature that can only be used
 if you're using feature branches, to one that works for other git strategies).
 
-### Breadth over depth
-
-While [breadth over depth](/company/strategy/#breadth-over-depth) is our company strategy, we are currently choosing to concentrate our investments in the categories that have usage, growth, revenue (potential), and (customer) demand. Due to recent UX research and usability studies, our product teams are more focused on enhancing the user experience than adding tangential new features or categories.
-
 ### Data-driven work
 
 Using data to learn from our users is important. Our users are spread across GitLab.com
@@ -422,7 +418,7 @@ When considering a customer need for enforcement or limitations:
 As an example, customers requested instance-wide enforcement through required CI jobs. Doing this would have been a mistake. Instead:
 
 - We understood their problem more deeply, and realized we could build capabilities to perform these checks in existing primitives (like [external rules](https://gitlab.com/groups/gitlab-org/-/epics/3869) in MR approvals).
-- We limited the scope of the problem, and avoided any limitations at the instance-level. Instead, we planned to keep the impact as small as possible by requiring customers to scope this feature to only projects with a particular [compliance framework](https://docs.gitlab.com/ee/user/project/settings/#compliance-framework-premium).
+- We limited the scope of the problem, and avoided any limitations at the instance-level. Instead, we planned to keep the impact as small as possible by requiring customers to scope this feature to only projects with a particular [compliance framework](https://docs.gitlab.com/ee/user/project/settings/#compliance-framework).
 - We intentionally planned for workarounds. A developer should be able to override these limitations inside merge requests, such as with [two-person approvals](https://gitlab.com/gitlab-org/gitlab/-/issues/219386). They should also be able to create subgroups that aren't subject to these controls.
 
 <figure class="video_container">
