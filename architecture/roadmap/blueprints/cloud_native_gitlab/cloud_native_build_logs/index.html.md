@@ -132,6 +132,6 @@ DRIs:
 
 | Role                         | Who
 |------------------------------|------------------------|
-| Product                      |           TBD          |
+| Product                      |     Jason Yavorska     |
 | Leadership                   |       Darby Frey       |
 | Engineering                  |     Grzegorz Bizon     |
