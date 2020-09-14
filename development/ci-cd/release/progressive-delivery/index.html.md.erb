@@ -60,9 +60,10 @@ Beginning in 13.4, we are experimenting with our engineering practices to increa
 
 * **Smaller MRs**: Break down MRs into separate logical components. This includes separating frontend and backend, but could also be more fine-grained such as separating database changes, service calls, API changes, etc.
 * **Detailed Descriptions**: Be sure to include enough information in the description of the MR so someone who is not familiar with the work can quickly understand the intent and scope of the MR. The description could include: links to related issues and MRs, screenshots, plans for future iterations, database query plans, etc.
-* **Self-review**: Before submitting your MR for review, do an initial review yourself as if you were reviewing someone else's MR. This can help catch issues early, and may remove some of the back-and-forth between yourself and reviewers.
+* **Self-review**: Before submitting your MR for review, do an initial review yourself as if you were reviewing someone else's MR. This can help catch issues early, and may remove some of the back-and-forth between yourself and reviewers. Start fresh. Does the feature work? Is the documentation correct? Remember that updated documentation is part of the definition of done.
 * **Assigning MRs to CI/CD Sub-department Team Members First**: See [Assigning MRs](#code-review-considerations)
-* **Fill in Work Gaps with Low Hanging Fruit**: Engineers are encouraged to fill in gaps where there is a fair amount of lag time in async workflow by taking on `Low Hanging Fruit` labled issues, contributing responsibly to `Code Climate` updates, or fixing other `Stuff that should just work.`
+* **Fill in Work Gaps with Low Hanging Fruit**: Engineers are encouraged to fill in gaps where there is a fair amount of lag time in async workflow by taking on `Low Hanging Fruit` labled issues, contributing responsibly to `Code Climate` updates, or fixing other `Stuff that should just work.` The key thing here is that these issues should be smallest amount of deliverable work possible. Taking on these issues should not be lengthly week long excursion, but quick. Put this work in a timebox. If you're spending or are going to spend more than a couple of hours on it, stop, report your findings in the issue, and move on to something else.
+* **Contribute to the release post:** The feature that you're working on probably has a Release Post item associated with it. Take screenshots or record a demo about the new feature or refinement that you've developed. Being proactive here is more efficient than disrupting your flow later to fulfill requests for the release post.
 
 ## Team Members
 
@@ -165,6 +166,7 @@ Below is a description of each stage by label, its meaning, and any requirements
   * This is the last checkpoint to ensuer that issues are ready for development.
   * includes `cicd::planning` label
 * `workflow::ready for development`
+  * This label functionally acts as a groomed backlog.
   * This stage indicates the issue is ready for engineering to begin their work.
   * Before entering this workflow state, issues must meet the Definition of Ready (see below)
   * If you are looking for new work to pick up, unassigned issues should be tackled in order of priority label.
