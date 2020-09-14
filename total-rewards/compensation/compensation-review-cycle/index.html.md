@@ -194,21 +194,20 @@ In FY21, the budget was 6% of all team members as of October 31, 2019. For the n
 
 **Calculating Budget Actuals**
 1. Promotion Budget
-   * At the beginning of each quarter, the Total Rewards team will calculate what the budget is for each Division to be managed by the executive of the group.
-   * Take total OTE (TTC) as of the first day of the quarter x 12% x 10% / 4 to get to the actual for that quarter.
-   * Any additional increases over budget must be approved by the CPO and CFO and may be taken from the following quarter's pool
-   * Per Divison, any unused funds for promotions can be rolled over per quarter, if after Q4 there are unused funds they can be added to the annual compensation review budget.
+   * At the beginning of the fiscal year (February 1st), the Total Rewards team will calculate what the budget is for each Division to be managed by the executive of the group.
+   * Take total OTE (TTC) as of the first day of the fiscal year x 12% x 10%. To get to each quarterly budget divide the annual amount by four so promotions budgets are the same throughout the year. We want to ensure predictability in financial models, so while the budget is set at the beginning of each fiscal year, we will also analyze spend per quarter. 
+   * Any additional increases over budget must be approved by the CPO and CFO and may be taken from the following quarter's pool. 
    * Considerations when reviewing increases in BambooHR:
      * Any promotion with a percent increase of more than 10% to base salary must be approved by the CPO
      * Any promotion where the employee has had less than one year of tenure in the current level must be approved by the CPO
      * Any promotion to Director and above must be approved by the Compensation Group
    *  The Compensation & Benefits team will track and report on budgets throughout the quarter as part of the team member spend KPI
 1. Annual Compensation Review Budget
-  * Per Division take the total OTE (TTC) of the group as of October 31st x 88%. Remove any overspend or allocate additional budget per division from the promotion budget.
+  * Per Division take the total OTE (TTC) of the group as of October 31st x 88%. Review removing any overspend or allocate additional budget per division from the promotion budget.
   * Verify totals with the Manager, FP&A.
 
 **Administering the Promotion Budget Quarterly**
-1. After the [spend per team member](/handbook/people-group/people-group-metrics/#spend-per-team-member) metric is completed each month, the Total Rewards team will notify the People Business Partner, Finance Business Partner, and Leader of the group how much is remaining in their current budget for promotions in that quarter via email.
+1. The data team is working to make the promotion budgets available in Sisense. 
 
 ## Catch-up Compensation Review
 
@@ -241,48 +240,27 @@ This review will only take into account a compa group alignment (if any). Team m
 ### Catch-up Compensation Review FAQs
 
 1. What is the goal of Catch-up Compensation Review?
-
-The goal is to align team members who were hired between November 1st and January 31st or who received a 0% increase last Catch-up Compensation review to market. If the team member was accurately hired in at their market value, this may mean they receive little to no increase. Some team members may have a gap in what they were hired at and their market alignment. Catch-up Compensation Review addresses these gaps so the team member isn't misaligned for another 5 months.
-
+   * The goal is to align team members who were hired between November 1st and January 31st or who received a 0% increase last Catch-up Compensation review to market. If the team member was accurately hired in at their market value, this may mean they receive little to no increase. Some team members may have a gap in what they were hired at and their market alignment. Catch-up Compensation Review addresses these gaps so the team member isn't misaligned for another 5 months.
 1. If a team member receives an increase during Catch-up Compensation Review, will they be eligible to participate in the next Annual Compensation Review cycle?
-
-Yes, all team members who are eligible for Catch-up Compensation Review will also be included in the next Annual Compensation Review. They will then only participate in Annual Compensation Review going forward.
-
+   * Yes, all team members who are eligible for Catch-up Compensation Review will also be included in the next Annual Compensation Review. They will then only participate in Annual Compensation Review going forward.
 1. What happens if a manager submits the same Compa Group as the team member's current Compa Group?
-
-If the Compa Group submitted is the same as the team member's current Compa Group, their minimum recommended increase loaded into Compaas by the Total Rewards team will be $0. The manager will still have the option to allocate additional funds to the team member during manager review in Compaas subject to budgetary constraints.
-
+   * If the Compa Group submitted is the same as the team member's current Compa Group, their minimum recommended increase loaded into Compaas by the Total Rewards team will be $0. The manager will still have the option to allocate additional funds to the team member during manager review in Compaas subject to budgetary constraints.
 1. What happens if a manager submits a lower Compa Group than the team member's current Compa Group?
-
-If the Compa Group submitted by the manager is lower than the team member's current Compa Group, their minimum recommended increase loaded into Compaas by the Total Rewards team will be $0. No team member will have their compensation decreased as a result of Catch-up Compensation Review. The manager will still have the option to allocate additional funds to the team member subject to budgetary constraints as long as the increase doesn't put the team member over the top end of the range for their role (compa ratio > 1.15). 
-
+   * If the Compa Group submitted by the manager is lower than the team member's current Compa Group, their minimum recommended increase loaded into Compaas by the Total Rewards team will be $0. No team member will have their compensation decreased as a result of Catch-up Compensation Review. The manager will still have the option to allocate additional funds to the team member subject to budgetary constraints as long as the increase doesn't put the team member over the top end of the range for their role (compa ratio > 1.15). 
 1. Will everyone eligible for Catch-up Compensation Review receive an increase? (For managers) Is the expectation that I should allocate an increase to all of my eligible team members?
-
-No, the goal of Catch-up Compensation is to align team members to market who, if we only did Annual Compensation Review, would have had to wait up to 15 months to be evaluated and aligned to market. It is possible that the team member is already aligned to market and will receive no increase as part of this review. 
-
+   * No, the goal of Catch-up Compensation is to align team members to market who, if we only did Annual Compensation Review, would have had to wait up to 15 months to be evaluated and aligned to market. It is possible that the team member is already aligned to market and will receive no increase as part of this review. 
 1. Will VP+ be reviewed during Catch-up Compensation Review?
-
-No, VP+ team members have an in-depth analysis conducted at the time of hire to ensure they are paid to market. 
-
+   * No, VP+ team members have an in-depth analysis conducted at the time of hire to ensure they are paid to market. 
 1. Is there a budget for Catch-up Compensation Review?
-
-There is a set budget that will be shared with Leaders and People Business Partners before manager review in Compaas begins.
-
+   * There is a set budget that will be shared with Leaders and People Business Partners before manager review in Compaas begins.
 1. Why don't we review everyone's Compa Group during Catch-up Compensation Review?
-
-Budget was only set aside to review and align team members who are eligible based on hire date or not receiving an increase during last cycle. Everyone will have their Compa Group reviewed in October when there's proper budget for alignment that will take effect February 1st. 
-
+   * Budget was only set aside to review and align team members who are eligible based on hire date or not receiving an increase during last cycle. Everyone will have their Compa Group reviewed in October when there's proper budget for alignment that will take effect February 1st. 
 1. As a manager, should I just be confirming whether the Compa Group my team member was hired into is accurate?
-
-No, the manager should be reviewing the knowledge, skills, and ability of their team member today to accurately assess their current Compa Group. 
-
+   * No, the manager should be reviewing the knowledge, skills, and ability of their team member today to accurately assess their current Compa Group. 
 1. What if my direct report's role's range isn't in the [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/)?
-
-Ranges will be provided where applicable for reference during manager review in Compaas.
-
+   * Ranges will be provided where applicable for reference during manager review in Compaas.
 1. What are the key differences between Annual Compensation Review and Catch-up Compensation Review?
-
-Catch-up Compensation Review should be considered an extension of Annual Compensation Review to align team members to market who weren't eligible or didn't receive an increase during Annual Compensation Review. While during Annual Compensation Review, the Total Rewards team reviews and refreshs the inputs to the Compensation Calculator such as benchmarks and locations factors, Catch-up Compensation Review serves to align eligible team members to market based on the Compensation Calculator inputs determined last cycle. 
+   * Catch-up Compensation Review should be considered an extension of Annual Compensation Review to align team members to market who weren't eligible or didn't receive an increase during Annual Compensation Review. While during Annual Compensation Review, the Total Rewards team reviews and refreshs the inputs to the Compensation Calculator such as benchmarks and locations factors, Catch-up Compensation Review serves to align eligible team members to market based on the Compensation Calculator inputs determined last cycle. 
 
 ### Catch-Up Communication Guidelines for Managers
 
