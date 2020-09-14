@@ -29,6 +29,8 @@ Social Media is seen as "top of funnel" marketing for a lot of social activities
 
 Really, we operate most often as an internal agency partner to stakeholders around the company to find how organic social can fit into their work. Sometimes it's our brand channels, other times it's team members amplifying our message on their own channels. 
 
+Core to my work is also creating the space for social-first/only content to thrive. Campaigns our team produces themselves across our channels, in partnership with, but not beholden to, other teams.
+
 ## What's my current role and goal?
 As I lead social media at GitLab, ultimately everything I do is to better tie social media into our body of work as a company and to build a self-service culture of social media as a practice. What does that mean in real life? Sometimes it's bringing listening data to a call or a Slack chat that would otherwise not have had data to make decisions around, or it's when we're speaking in #HashtagsForCampaigns or #HashtagForEvents so that the practice becomes fluid. But most times, it shows up when our team brings our experiences and know-how for our everchanging channels to our larger marketing team, helping others to express their messages through social channels.
 
