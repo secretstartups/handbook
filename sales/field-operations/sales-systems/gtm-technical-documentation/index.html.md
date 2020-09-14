@@ -159,14 +159,17 @@ Code Units:
    * This alias is monitored by the Community Advocate team.
 * `@revenue`
    * This alias is leveraged by the Revenue team to review Opportunities and how we will record revenue. [Detailed Response Here](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/859#note_386593491)
+* `@SMB Flat Renewals`
+  * This alias is used by our SMB team for flat renewal support. Please see this [section of the handbook](###) for how this is used. 
 
 **Steps to add a Group:** 
 * Do to limitations with Salesforce much of the minor updates must be implemented manually in production
 * Create a Chatter Group with the alias that you want the end users to be able to chatter in Salesforce (In Production)
 * Create a Queue that will own the Case until it is automatically switched into a users name who will work the case. (Changeset)
    * Review Queue member and email options with requester 
-* Update the `ChatterFeedCommentClass` and the `ChatterFeedItemTest` to monitor for the use of the Chatter Group in chatters within Salesforce (Changeset)
-* Add a picklist value to the `Origin` field on the case object (In Production)
+* Update the `ChatterFeedCommentClass` and the `ChatterFeedItemClass` to monitor for the use of the Chatter Group in chatters within Salesforce (Changeset)
+* Update the `CaseClass` to include the new groups Id so that it updates the case owner what ownd by this queue. 
+* Add a picklist value to the `Origin` field on the case object (In Production) 
 
 **Related Epic**
 * [@Sales-Ops Case Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/7)
