@@ -290,6 +290,15 @@ consistent and the user has zero chance of seeing that banner again.
 
 ![pipelines_empty_state.png](/handbook/product/banner_customize_experience.png)
 
+#### Alerts
+
+[Alerts](https://design.gitlab.com/components/alert) allow the application to pass along relevant system information to the user without impeding their journey. Alerts should guide the reader to an actionable next step. Alerts without actionable next steps induce anxiety and can slow down resolution.
+
+Some important considerations when adding alerts:
+- Alerts should generally be targeted at users who are capable of taking action on that alert.
+- Alerts should only be targeted at wider audiences if they will be impacted by the condition. For example if the repository is about to exceed the storage limit.
+- Alerts should be dismissable at the appropriate level (dismiss a CI related warning for the entire namespace (i.e. project or (sub)group), and a user settings related warning for the user). 
+
 #### Navigation
 
 Leveraging navigation is an effective design paradigm to introduce a user to a new
