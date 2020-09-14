@@ -42,14 +42,32 @@ OKRs stand for Objectives and Key Results and are our quarterly objectives. We w
 
 ## KPI's
 
-Secondary to the completeness of OKRs, we will continuously monitor the following Key Performance Indicators:
+OKRs are reviewed on an ongoing basis and are created and scored at quarterly boundaries. They are helpful to align us with the rest of the corporate organization. They are meant to be high-level and aspriational.
+However, we need to track other outcomes and metrics to help us stay on track with the [Development Department's performance indicators](/handbook/engineering/development/performance-indicators/).
+These outcomes may or may not directly relate to our quarterly goals and OKRs.
 
-* [Say/Do Ratio](https://app.periscopedata.com/app/gitlab/658030/WIP:-Say-Do-Ratios)
-* The timely resultion of Security Patches and Bug Fixes.
+The group-level development department metrics that we will continuously monitor are the following Key Performance Indicators:
+
+<embed width="50%" style="min-height:200px;" src="<%= signed_periscope_url({ chart: 8428871, dashboard: 556687 , embed: "v2"}) %>">
+<embed width="50%" style="min-height:200px;" src="<%= signed_periscope_url({ chart: 8428874, dashboard: 556687 , embed: "v2"}) %>">
+
+* [MR Rate (dark green line; target: 10)](https://app.periscopedata.com/app/gitlab/556687/CI-CD-Section-Metrics?widget=8428871&udv=0) - A proxy for productivity and efficiency, we're only including team members here in the [narrow definition](/handbook/engineering/development/performance-indicators/#development-department-narrow-mr-rate).
+* [Mean Time to Merge (target: < 14)](https://app.periscopedata.com/app/gitlab/556687/CI-CD-Section-Metrics?widget=8428874&udv=0) - There are two similar metrics [MTTM](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#mean-time-to-merge-mttm) and [RTTM](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#review-to-merge-time-rtmt) the official section board shows MTTM.
+* [Say/Do Ratio (target: 70%%)](https://app.periscopedata.com/app/gitlab/658030/WIP:-Say-Do-Ratios?widget=8653358&udv=1069277)
+* The timely resolution of Security Patches and Bug Fixes (updated only by issue and automation; requires more visibility).
+
+Beginning in 13.4, we are experimenting with our engineering practices to increase our MR Rate and our Say/Do Ratio. Here are some initiatives that may help:
+
+* **Smaller MRs**: Break down MRs into separate logical components. This includes separating frontend and backend, but could also be more fine-grained such as separating database changes, service calls, API changes, etc.
+* **Detailed Descriptions**: Be sure to include enough information in the description of the MR so someone who is not familiar with the work can quickly understand the intent and scope of the MR. The description could include: links to related issues and MRs, screenshots, plans for future iterations, database query plans, etc.
+* **Self-review**: Before submitting your MR for review, do an initial review yourself as if you were reviewing someone else's MR. This can help catch issues early, and may remove some of the back-and-forth between yourself and reviewers. Start fresh. Does the feature work? Is the documentation correct? Remember that updated documentation is part of the definition of done.
+* **Assigning MRs to CI/CD Sub-department Team Members First**: See [Assigning MRs](#code-review-considerations)
+* **Fill in Work Gaps with Low Hanging Fruit**: Engineers are encouraged to fill in gaps where there is a fair amount of lag time in async workflow by taking on `Low Hanging Fruit` labled issues, contributing responsibly to `Code Climate` updates, or fixing other `Stuff that should just work.` The key thing here is that these issues should be smallest amount of deliverable work possible. Taking on these issues should not be lengthly week long excursion, but quick. Put this work in a timebox. If you're spending or are going to spend more than a couple of hours on it, stop, report your findings in the issue, and move on to something else.
+* **Contribute to the release post:** The feature that you're working on probably has a Release Post item associated with it. Take screenshots or record a demo about the new feature or refinement that you've developed. Being proactive here is more efficient than disrupting your flow later to fulfill requests for the release post.
 
 ## Team Members
 
-The following people are permanent members of the Release Team:
+The following people are direct members of the Progressive Delivery Group:
 
 <%= direct_team(manager_role: 'Backend Engineering Manager, Release:Progressive Delivery') %>
 <%= direct_team(manager_role: 'Frontend Engineering Manager, Release (CD)', role_regexp: /Progressive/) %>
@@ -148,6 +166,7 @@ Below is a description of each stage by label, its meaning, and any requirements
   * This is the last checkpoint to ensuer that issues are ready for development.
   * includes `cicd::planning` label
 * `workflow::ready for development`
+  * This label functionally acts as a groomed backlog.
   * This stage indicates the issue is ready for engineering to begin their work.
   * Before entering this workflow state, issues must meet the Definition of Ready (see below)
   * If you are looking for new work to pick up, unassigned issues should be tackled in order of priority label.
@@ -165,7 +184,7 @@ Below is a description of each stage by label, its meaning, and any requirements
 
 #### Definition of Ready
 
-Before the team will accept an issue into a milestone (as marked by the the labels `~workflow::"ready for development"`` + `~cicd::active`) for work it must meet the following criteria:
+Before the team will accept an issue into the current milestone (as marked by the the labels `~cicd::active`) for work it must meet the following criteria:
 
 * Issues labeled with `~feature` include a well stated "why" and the customer problem to solve
 * For issues labeled with `~bug` include, steps to reproduce
@@ -231,7 +250,7 @@ Given our dependence on availability of reviewers and ultimately maintainers, we
 We should take advantage of Feature Flags and other tactics if we need to neutralize behavior as needed for feature rollouts.
 
 
-## Tips: When you're having hard time to estimate MR count, consider PoC step.
+## Tips: When you're having a hard time estimating MR count, consider a PoC step.
 
 If you have no idea where to begin the development due to lack of knowledge on the context or
 you're less confident on the current technical proposal,
@@ -407,6 +426,8 @@ This tactic also creates an environment to ask for early review on a WIP merge r
 As part of the [12.9 Release Post retrospective](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/6698#note_334000537), we're taking part in an experiment whereby we should try to avoid review roulette and the maintainer bottleneck. In this pilot, try to assign reviewers / maintainers only from the [CI/CD Sub-department](/handbook/engineering/development/ci-cd/#who-we-are) and not by reviewer roulette.
 
 Results: We will evaluate at the end of 13.1 if this was helpful using the metric `mean time to merge`. If this improves, we'll consider keeping this change for another milestone for further evaluation. If the impact on mean time to merge is detrimental, then we may consider dropping this process and reverting back to the previous roulette process.
+
+Key Judgement: As of 13.4, this experiment has not made an impact into Mean Time To Merge (MTTM) which has remained flat, but we still find this process provides some benefit even though we have yet measure to measure it successfully. Perhaps, Review To Merge Time (RTMT) could be a more accurate metric to examine instead.
 
 ### Async Status Updates
 
