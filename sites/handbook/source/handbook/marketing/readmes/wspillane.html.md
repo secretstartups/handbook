@@ -55,6 +55,7 @@ As I lead social media at GitLab, ultimately everything I do is to better tie so
 * I have ADHD. It's a neurological disorder, but it doesn't prevent me from doing good work or being a good leader. Working at GitLab helps not just to manage the symptoms, but to flurish in them and leverage them as a superpower instead of a side effect. 
    - You don't need to do anything out of the ordinary to support me. Just check out the sections below. Many of the ways our team uses GitLab product and how we work asynchronously already helps me use my superpowers for good.
    - Folks with ADHD report a variety of concerns with their colleagues, ranging from acting as if ADHD is just "being lazy and bored" to actively wanting to "help the handicap". I don't believe either of these is the correct way forward. I just ask that we build our relationship and our work on who we are and what we can do, no matter the details. Please do not treat me differently, less or more than, etc., unless explicitly asked for that accomodation.
+   - If you are interested in learning more about life with ADHD or how my brain works differently, [check out this series of comics that helps to make it relatable](http://adhd-alien.com/).
 
 ## How you can help me
 * Be open to learning about social media beyond "pushing the Twitter button".
