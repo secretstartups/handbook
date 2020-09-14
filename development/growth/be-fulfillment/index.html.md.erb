@@ -140,8 +140,9 @@ We use CD (Continuous Deployment) for the [customers portal](https://gitlab.com/
 ```mermaid
 graph TD;
     A(Merged) --> |Green tests| B(Staging);
-    B --> C[Verification];
-    C --> D(Auto deploy to production in 3 hours);
+    B --> C[E2E Test on Staging in 40 minutes];
+    C --> D[Verification]
+    D --> E(Auto deploy to production in 2 hours);
 ```
 
 If something goes wrong at the `Verification` stage, we could create an issue with the label `production::blocker`, which will prevent deployment to production. The issue cannot be confidential.

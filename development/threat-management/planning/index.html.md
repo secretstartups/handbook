@@ -148,7 +148,7 @@ Note the following differences when refining bugs:
    Plan](#implementation-plan). It's sufficient just to direct where you expect the code change to be (high or low level).
 
 
-#### Refinement for spikes
+#### Refinement for Spikes
 
 1. Do not add weights[^3].
 1. Time-box how much time to spend on the issue.
@@ -156,6 +156,14 @@ Note the following differences when refining bugs:
 
 [^3]: a spike doesn't directly add value to users so it shouldn't contribute to our velocity. The
       information delivered by a spike is what will be useful to deliver direct value to users.
+
+
+#### Refinement for Security Issues
+
+The [Security Release Process for
+Developers](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/developer.md#security-releases-critical-non-critical-as-a-developer)
+can be daunting for first-timers. As part of refinement, ask for a volunteer to act as a "Security
+Issue Release Buddy".
 
 
 ### Failing Refinement:
@@ -222,5 +230,15 @@ discovery process.
 
 **A:** Issues that require both frontend and backend work should be broken into multiple implementation issues as
 outlined in the [planning diagrams](diagram.html#plan).
+
+
+**Q:** What's the meaning of the emojis in issues?
+
+**A:** we use them to communicate certain steps in our process.
+- 🥕 you have reviewed an issue in preparation for [Planning
+  Breakdown](#ongoing-planning-breakdown).
+- 🥒 request to add a specification using [Gherkin
+  Keyworks](https://cucumber.io/docs/gherkin/reference/#keywords) (when life gives you a cucumber,
+  you pickle it).
 
 ## Footnotes

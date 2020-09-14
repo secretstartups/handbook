@@ -100,7 +100,7 @@ View and configure scanners for a project.
 
 Display comparison of source branch results with target branch results. Also includes [Security approvals in merge requests](https://docs.gitlab.com/ee/user/application_security/#security-approvals-in-merge-requests).
 
-* [Example](https://docs.gitlab.com/ee/user/project/merge_requests/#security-reports-ultimate)
+* [Example](https://docs.gitlab.com/ee/user/project/merge_requests/#security-reports)
 * Product Manager: Matt Wilson
 * Primary Development Group: [Secure:Threat Insights](/handbook/product/product-categories/#threat-insights-group)
 * Engineering sub-department: Threat Management

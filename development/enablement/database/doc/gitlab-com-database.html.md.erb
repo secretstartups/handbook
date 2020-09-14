@@ -8,6 +8,7 @@ title: Working with the GitLab.com database for developers
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
 ## A developer's guide to working with the GitLab.com database
 
 GitLab.com is powered by a large PostgreSQL database ("the database" in this doc) which is often used as a point of reference in terms of scale - after all, this is the largest installation of GitLab we have access to.
@@ -20,25 +21,60 @@ This overview is aimed at developers wanting to access the database and also exp
 
 There are a couple ways to directly access the database for developers:
 
-#### Direct access to data
+#### Direct access to production
 
 ##### Direct database access to a production replica
 
 This is the most straight forward type of access: You'll have access to a psql console to an actual replica of the database (which typically serves live traffic). The console will be read-only and a 15s statement timeout must be adhered to.
 
-How to get access: File an [access-request](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#single-person-access-request) and ask for production database console access (role: `db-console`).
+How to get access: File an [access-request](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#single-person-access-request) and ask for *production database console access* (role: `db-console`). See below for setting up SSH access.
 
 ##### Access to the "archive" replica
 
-In this case, you'll have access to a psql console to the "archive" replica. This is a replica of the database which does not serve live traffic and is prepared to be used in a rather "exploratory" fashion (suitable for rather analytical queries, too). The console access is read-only and a 15 minute statement timeout applies.
+In this case, you'll have access to a psql console to the "archive" replica. This is a replica of the database which does not serve live traffic and is prepared to be used in a rather "exploratory" fashion (suitable for rather analytical queries, too). The console access is read-only and a 15 minute statement timeout applies. You can verify this by going db console and issuing `show statement_timeout`  command.
 
-How to get access: File an [access-request](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#single-person-access-request) and ask for console access to the archive database in production (role: `db-console-archive`).
+How to get access: File an [access-request](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#single-person-access-request) and ask for *console access to the archive database in production* (role: `db-console-archive`). See below for setting up SSH access.
 
 ##### Rails console access
 
 A Rails console can be used to access the database, too. Use with extreme care as this is typically a read-write console.
 
-How to get access: File an [access-request](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#single-person-access-request) and ask for Rails console access in production (role: `rails-console`).
+How to get access: File an [access-request](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#single-person-access-request) and ask for *Rails console access in production* (role: `rails-console`). See below for setting up SSH access.
+
+##### Setup SSH configuration for direct access
+
+In order to setup direct access, you will have to configure SSH to use the *bastion* instances as a proxy:
+
+1. [Setup bastions to access production (gprd)](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/bastions/gprd-bastions.md#console-access)
+2. [Setup bastions to access stating (gstg)](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/bastions/gstg-bastions.md#console-access)
+
+This is an example configuration for a user named `joe` to access psql and Rails consoles in `gprd`:
+
+```
+# GCP production bastion host
+Host lb-bastion.gprd.gitlab.com
+        User                    joe
+
+Host gprd-rails
+        User                    joe-rails
+        StrictHostKeyChecking   no
+        HostName                console-01-sv-gprd.c.gitlab-production.internal
+        ProxyCommand            ssh lb-bastion.gprd.gitlab.com -W %h:%p
+
+Host gprd-psql
+        User                    joe-db
+        StrictHostKeyChecking   no
+        HostName                console-01-sv-gprd.c.gitlab-production.internal
+        ProxyCommand            ssh lb-bastion.gprd.gitlab.com -W %h:%p
+
+Host gprd-psql-archive
+        User                    joe-db-archive
+        StrictHostKeyChecking   no
+        HostName                console-01-sv-gprd.c.gitlab-production.internal
+        ProxyCommand            ssh lb-bastion.gprd.gitlab.com -W %h:%p
+```
+
+#### DatabaseLabs
 
 ##### Use postgres.ai (currently under evaluation) to work with a thin clone of the database (includes direct psql access to the thin clone)
 
@@ -53,8 +89,8 @@ For details on the evaluation, please see [database-team/team-tasks#4](https://g
 In order to evaluate query performance, we have the following tools available:
 
 1. Retrieve query plans through [ChatOps on Slack](https://docs.gitlab.com/ee/development/understanding_explain_plans.html#chatops)
-2. Use [`#database-lab` Slack channel to work with a thin clone of the database](https://docs.gitlab.com/ee/development/understanding_explain_plans.html#database-lab)
-3. Use [postgres.ai](https://postgres.ai/) (currently under [evaluation](https://gitlab.com/gitlab-org/database-team/team-tasks/-/issues/47)) to fully immerse into working with a thin clone to optimize queries
+1. Use [`#database-lab` Slack channel to work with a thin clone of the database](https://docs.gitlab.com/ee/development/understanding_explain_plans.html#database-lab)
+1. Use [postgres.ai](https://postgres.ai/) (currently under [evaluation](https://gitlab.com/gitlab-org/database-team/team-tasks/-/issues/47)) to fully immerse into working with a thin clone to optimize queries
 
 ### Where do I get help with setting up access or any other questions?
 

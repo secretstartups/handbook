@@ -1,33 +1,21 @@
-To assign weights to issues in a future milestone, we ask team members to
-continually weight and break-down issues in ~workflow::planning breakdown 
-that don't have a ~"Breakdown Sufficient" label,
-especially pieces of work in which they have experience or which belongs to 
-their group.
+To assign weights to issues in a future milestone, we ask two team members to
+take the lead each month. They can still ask questions - of each other, of the
+rest of the team, of the stable counterparts, or anyone else - but they are the
+initial.
 
-Contributions that add new information or insight are welcome, even if they
-don't consistute a complete break-down. When a discussion fails to meet a 
-conclusion in a timely manner, include the PM immediately so they can 
-clarify requirements or cut scope.
+To weight issues, they should:
 
-Often new complexity is revealed when development starts or as it progresses.
-This is normal. Team-members should re-assess weights when new information 
-becomes clear and alert the PM or EM when delivery within the milestone is
-at risk.
+1. Look through issues in the next milestone with the ~"workflow::planning breakdown" label, filtered by your group(s) and Weight:None (you can use the links in the table below).
+2. For those they understand, they add a weight. If possible, they also add a
+   short comment explaining why they added that weight, what parts of the code
+   they think this would involve, and any risks or edge cases we'll need to
+   consider.
+3. Timebox the issue weighting overall, and for each issue. The process is
+   intended to be lightweight. If something isn't clear what weight it is, they
+   should ask for clarification on the scope of the issue.
+4. If two people disagree on the weight of an issue, even after explaining their
+   perceptions of the scope, we use the higher weight.
+5. Start adding weights around a week before the weights for a milestone
+   are due. Finishing earlier is better than finishing later.
 
-To weight issues, team-members should:
-
-1. Look through the issues in [~"workflow::planning breakdown"](https://gitlab.com/gitlab-org/gitlab/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Aplan&label_name[]=workflow%3A%3Aplanning%20breakdown) (regardless of milestone).
-2. For those they understand, add a weight and a short comment explaining why 
-   that weight is appropriate, what parts of the code they think would be
-   involved, and any risks or edge cases we'll need to consider.
-3. For issues requiring more information, leave an initial insight and copy
-   in team-members who are likely to be able to help.
-4. Bias toward adding a weight rather than achieving the perfect breakdown.
-   The process is intended to be lightweight and weights will often be revised 
-   anyway. Don't let discussions hang.
-5. If two people disagree on the weight of an issue, even after explaining their
-   perceptions of the scope, use the higher weight.
-6. If the weight is high **(4 or 5)** or the issue is **unlikely to be completed
-   in a single milestone**, alert the PM so that scope can be cut. If possible,
-   help them by suggesting a technically simpler iteration.
 
