@@ -21,7 +21,7 @@ The guidelines below describe what people in our team commonly expense. Some of 
 1. It is generally easiest and fastest for you to make any purchases for office supplies yourself and expense them. If you are unable to pay for any supplies yourself, please follow the [Advance instructions](/handbook/spending-company-money/#advance).
 1. You may privately use GitLab property, a MacBook for example, to check your private e-mails or watch a movie as long as it does not violate the law, harm GitLab, or interfere with [Intellectual Property](/handbook/general-guidelines/#sts=Intellectual Property). More details can be found in the [internal Acceptable Use Policy](/handbook/people-group/acceptable-use-policy/).
 1. If you make a purchase that will cost GitLab $1000 USD per item (or over), this is classed as company property, you will be required to return the item(s) if you leave the company.
-1. Employees: file your expense report in the same month that you made the purchase in. Contractors: include receipts with your invoices.
+1. Employees: file your expense report in the same month that you made the purchase. Contractors: include receipts with your invoices.
 1. Any non-company expenses should not be paid with a company credit card.
 2. If team members submit expenses for reimbursement for personal purchases that are not covered in the expense policy, this is a violation of our [code of conduct](/handbook/people-group/code-of-conduct/#maintain-accurate-financial-records--internal-accounting-controls).  
 
@@ -30,7 +30,7 @@ The guidelines below describe what people in our team commonly expense. Some of 
 
 1. Max Expense Amount - [$5,000 USD](/handbook/total-rewards/compensation/#exchange-rates) - NOTE - If you are a corporate credit card holder, please refer to the [corporate credit card policy section](/handbook/finance/accounting/#credit-card-use-policy) for those specific instructions and thresholds.
 1. Receipts are required for all expenses
-1. Expenses must be submitted within 30 days of. This helps the Company to better manage our budget and ensures accurate month-end reporting.
+1. Expenses must be submitted within 30 days of purchase/spend. This helps the Company to better manage our budget and ensures accurate month-end reporting.
 
 For further information on Expenses, visit the [Expenses handbook section](/handbook/finance/expenses/). 
 
