@@ -292,7 +292,7 @@ You can see an example of "sweep" paragraphs at the beginning of [this post on l
 
 Example: "[The trouble with technical interviews? They aren't like the job you're interviewing for](/blog/2020/03/19/the-trouble-with-technical-interviews/)" was originally planned to be just about how GitLab's Frontend group redesigned its technical interviews. After discussion, it was decided that there was a broader story to tell here, because the GitLab story (redesigning Frontend technical interviews) was really addressing a greater, industry-wide problem, which is that technical interviews aren't effective and aren't always inclusive.
 
-Not every post will be suitable for this treatment, so you and the Editorial team member reviewing your post can use your discretion.
+Not every post will be suitable for this treatment, so you and the Editorial team member reviewing your post can use your discretion. In some cases it may be appropriate to tweak just the title of the post to make it broader (e.g. "How ~~GitLab~~ CI helps solve common DevSecOps challenges" – see [below](#gitlab-feature-posts)).
 
 ### Best practices for specific types of posts
 
@@ -353,6 +353,16 @@ Examples of successful newsjacking posts:
 - [Resources for companies embracing remote work](/blog/2020/03/06/resources-for-companies-embracing-remote-work/)
 - [How can we help solve the COBOL programmer shortage?](/blog/2020/04/23/cobol-programmer-shortage/)
 - [How Git Partial Clone lets you fetch only the large file you need](/blog/2020/03/13/partial-clone-for-massive-repositories/)
+
+#### GitLab feature posts
+
+Posts focusing on GitLab features or capabilities are most successful when we do the following:
+
+- Be selective. Choose only the most popular/highly requested features or capabilities to highlight in a post.
+- Tell the back story. Often, sharing how we built something is more interesting to our audience than just showing them a new feature.
+- Give a tutorial. Technical posts showing how to really use something get more traffic than simply announcing that it exists. If there is a link to a demo on our branded or Unfiltered YouTube channel, link to that, or consider recording a video to accompany your blog post. 
+- Broaden the scope. Example: "How GitLab CI helps solve common DevSecOps challenges" could be "How CI helps solve common DevSecOps challenges." You might give examples using GitLab CI but the title doesn't limit the post to be about GitLab CI specifically, straight away. Someone who doesn't know about GitLab might be more inclined to click on the post then. 
+- Consider a different format. Blog posts should have an opinion, a unique use case, or commentary on something newsy/timely, otherwise it may be perceived as marketing material. It may be more appropriate to share what you want to post on the relevant feature page. 
 
 ### Trends
 
@@ -803,8 +813,8 @@ merch_four:
   sidebar_body_title: "Get the Remote Playbook"
   sidebar_body_content: "Empower your team to thrive remotely."
 
-- name: merch_seven_not_live
-  destination_url: "/resources/TBD"
+- name: merch_seven
+  destination_url: "/resources/ebook-version-control-best-practices/"
   cta_text: "Download now"
   banner_image_source: "/images/merchandising-content/version-control-collaboration-blog-merch-vertical.png"
   banner_body_title: "Free eBook: Version control best practices"
@@ -812,6 +822,16 @@ merch_four:
   sidebar_image_source: "/images/merchandising-content/version-control-collaboration-blog-merch-horizontal.png"
   sidebar_body_title: "Version control best practices"
   sidebar_body_content: "Enhance team collaboration to accelerate delivery"
+
+- name: merch_eight
+  destination_url: "https://page.gitlab.com/resources-ebook-beginner-guide-gitops.html"
+  cta_text: "Download now"
+  banner_image_source: "/images/merchandising-content/gitops-vertical-220x338.png"
+  banner_body_title: "Free eBook: A beginner's guide to GitOps"
+  banner_body_content: "GitOps takes DevOps processes and applies them to infrastructure automation. See a sample GitOps workflow and learn how to get started with GitOps."
+  sidebar_image_source: "/images/merchandising-content/gitops-horizontal-300x150.png"
+  sidebar_body_title: "A beginner's guide to GitOps"
+  sidebar_body_content: "Learn more about infrastructure automation."
 ```
 
 #### Requesting new merchandise 

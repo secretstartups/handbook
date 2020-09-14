@@ -72,7 +72,7 @@ _**Note:** The specific steps that should be followed, when they are due, and th
 
 Each month a Product Manager will lead the release post, as defined in the [Release Post Scheduling page](managers/). The Release Post Manager is listed as the Author of the release post when the post is published. Each month a Product Manager also acts as a shadow to support the Release Post Manager tasks if needed, act as back up on decisions in absence of the Release Post Manager and prepare to run the next release post. By shadowing the month prior to leading the effort, Product Managers are prepared and aware of any shifts in processes or optimizations needed since the last time they participated.
 
-Product Managers can volunteer for any release that doesn't have someone assigned yet. To add yourself as release post manager or release post manager's shadow, simply do an MR to add your name to [Release Post Scheduling page](managers/). Otherwise, PMs will be assigned using a fair scheduling principle:
+Product Managers can volunteer for any release that doesn't have someone assigned yet. To assign yourself as release post manager or release post manager's shadow, simply add your name on the [Release Post Scheduling page](managers/) page by submitting an MR to update the `/data/release_post_managers.yml` file. Otherwise, PMs will be assigned using a fair scheduling principle:
 
 1. Members that never managed a release post before
 1. Members that have the longest interval since they managed their last release post
@@ -284,7 +284,7 @@ drafting the release post item, it is recommended PMs write Release Post Item MR
 - **17th of the month - Merged**: release post item MR merged by the Engineering Manager if feature has been merged
 - **18th of the month - Final content assembly**: and release post blog content lock in preparation for final reviews/editing
 
-After the 18th of month, late additions are only accepted at the discretion of the Release Post Manager. Please see [late additions to the release post](#merging-content-blocks-after-the-18th) for more details. 
+After the 18th of the month, late additions should be added only in coordination with the Release Post Manager. Please see [late additions to the release post](#merging-content-blocks-after-the-18th) for more details. 
 
 ##### Instructions
 
@@ -374,11 +374,17 @@ To enable Engineering Managers to merge their feature blocks as soon as an issue
 After content block MRs are merged, they can be viewed on the [Preview page](https://about.gitlab.com/releases/gitlab-com/) and should be updated/edited via MRs to master up until the **final merge deadline of the 17th**. Starting on the 18th, content block MRs should be viewed in the Review app of the release post branch after **final content assembly**, and updated/edited on the release post branch by coordinating with the Release Post Manager. It's important to check this page after the content block MR is merged becuase this page is LIVE to users and should be error free. 
 
 #### Merging content blocks after the 18th
-After the 18th of month, late additions are only accepted at the discretion of the Release Post Manager. Please limit requests to merge content blocks to ones that meet one of the following criteria:
-- It is a **primary** feature
-- It is a high impact feature 
-- It is a high impact bug fix
-- It directly relates to the theme
+
+After the 18th of month, and before the 20th, including new release post items should be coordinated with the Release Post Manager so that they are aware and can anticipate how the late additions may impact the rest of the release post. Before pinging the release post manager, ask yourself if your content absolutely needs to be part of the current release post. After the EOD on the 19th, no late content blocks will be accepted.
+
+The process for merging late additions is:
+
+1. The DRI pings the release post manager and lets them know that there is a late addition for the release post and waits for the RPM's confirmation to proceed.
+1. The release post manager will do their best to accommodate the request, but it is not guaranteed.
+1. The DRI targets the RPI MR to the release branch.
+1. Once the MR is merged, the DRI should let the RPM know.
+1. The RPM will move the content from the `unreleased` folder to the appropriate release post folder and make edits as needed.
+1. If the RPI is a top feature or part of the theme, the RPM and message lead will work together to update the release post.
 
 #### Accountability
 
@@ -1314,26 +1320,31 @@ To learn more how the template system works, read through an overview on [Modern
 
 ### Release post item generator
 
-The [release post item generator](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/bin/release-post-item) automates the creation of release post items using issues and epics. Issues and epics are the source of truth for what problems are being solved and how, and should have a clear description, and be well labeled. The script uses this information to pre-fill release post items:
+The [release post item generator](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/bin/release-post-item) automates the creation of release post items using issues and epics. Issues and epics are the source of truth for what problems are being solved and how, and should have a clear description, and be well labeled. The script uses this information to pre-fill release post item MRs:
 
-- issue title for `title`
-- issue `devops::` label for `stage`
-- issue `group::` labels for assigning the group product manager as reporter
-- issue `Category:` labels for `categories`
-- issue `release post item::` labels for content block type
-- issue tier labels for `available_in`
-- issue web url for `issue_url`
-- issue description's `Release notes` or `Problem to solve` (case insensitive) section for:
-  - `description` with the lines containing the `documentation_link` and `image_url` removed
-  - `documentation_link` will be the first URL in the section beginning with `https://docs.gitlab.com`
-  - `image_url` will be the first image uploaded in the section
+| Issue/Epic Elemen 	| Release Post Item Attribute (yml) or MR element 	|
+|-	|-	|
+| Issue Title 	| `title:` 	|
+| Label `devops::` 	| `stage:` 	|
+| Label `group::` 	| assigns group product manager as reporter, and tags [relevant team members in the MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md) 	|
+| label `category:` 	| `categories:` 	|
+| Label `release post item::` (`primary`/`secondary`) 	| content block type `primary:` or `secondary:` 	|
+| Label tier (e.g. `GitLab Core` `GitLab Ultimate`) 	| `available_in:` 	|
+| Issue web url (i.e. `/gitlab-org/gitlab/-/issues/####`) 	| `issue_url:` 	|
+| Issue description under `### Release notes` 	| `description:` will contain all text except for the `documentation_link` and `image_url` <br><br>`documentation_link:` is the first URL in the `### Release notes` section containing `https://docs.gitlab.com*` <br><br>`image_url:` is the first image added to the `### Release notes` section. (e.g. `Image: ![name](/path/)`) 	|
 
-The generator script is configured to run regularly as a scheduled job using GitLab CI. This means it can be used simply by adding a label, and waiting for the next scheduled run.
+To ensure the generator script runs correctly follow the process below:
 
-1. Update your issue or epic description with a clear problem to solve.
-1. Apply the correct group, stage, category, and tier labels.
-1. Apply a release post item label. The supported labels are `release post item::top`, `release post item::primary`, `release post item::secondary`, `release post item::deprecation`, and `release post item::removal`.
-1. Wait for the scheduled CI job to run (every hour). A merge request with a draft release post item will be created, and assigned to the group's product manager. The issue or epic will be relabeled `release post item::in review`.
+1. Update your issue or epic with content in `### Release notes` (inclusing a docs link and image, although those can alwasy be added/updated in the MR later)
+1. Make sure `devops::`, `group::`, `category:` and tier (e.g. `GitLab Core`) labels are applied
+1. Apply one of the `release post item::` scoped labels. This will make the generator script pick up your issue next time it runs (once per hour)
+
+Once the script runs an draft MR in the `/gitlab-com/www-gitlab-com` project will be opened and assigned to the group PM. You can continue editing and reviewing that MR from there. 
+
+If you'd like to check to see when the last pipeline ran (and if it picked up your issue) you can inspect the scheduled pipeline [here](https://gitlab.com/gitlab-com/www-gitlab-com/-/pipeline_schedules). 
+
+*note: The release post item generator is still in beta. If you find issues or have questions post them in [#release-post-iteration](https://gitlab.slack.com/archives/CTXULEPQD)*
+
 
 The generator script can also be run on your computer.
 
