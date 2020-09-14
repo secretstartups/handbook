@@ -48,7 +48,7 @@ Also note there has been an increase in what is know as "Zoombombing" which invo
 - At the time of this update, a global pandemic is occurring which has dramatically increased both the usage of Zoom for legitimate users, and the number of individuals doing Zoombombing.
 - Zoombombing parties are occuring where individuals are sharing tips and information online regarding meetings to access.
 - Tools are being written to automate some of the steps in finding open and unprotected meetings.
-- Simple steps such as a Waiting Room or a password can easily prevent such activity.
+- Simple steps such as a Waiting Room and a password can easily prevent such activity. To this end, by default we now turn on passwords for all meetings. To ensure these settings are in place, navigate to your Zoom browser extension settings, and ensure that both "One-time Meeting ID" and "Require Meeting password" are checked.
 - Most of the recommendations given here are defaults as set by IT Ops, but always double-check to ensure a safe Zoom meeting.
 
 GitLab's Zoom account has [End-to-End Encryption](https://gitlab.com/gitlab-com/peopleops/issues/223) enabled.
