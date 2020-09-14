@@ -30,7 +30,7 @@ The guidelines below describe what people in our team commonly expense. Some of 
 
 1. Max Expense Amount - [$5,000 USD](/handbook/total-rewards/compensation/#exchange-rates) - NOTE - If you are a corporate credit card holder, please refer to the [corporate credit card policy section](/handbook/finance/accounting/#credit-card-use-policy) for those specific instructions and thresholds.
 1. Receipts are required for all expenses
-1. Expenses must be submitted within 30 days of purchase/spend. This helps the Company to better manage our budget and ensures accurate month-end reporting.
+1. Expenses must be submitted within 30 days of purchase/spend. This helps the Company to better manage our budget and ensures accurate monthly financial reporting.
 
 For further information on Expenses, visit the [Expenses handbook section](/handbook/finance/expenses/). 
 
