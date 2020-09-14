@@ -13,7 +13,7 @@ My name is Eric Johnson and I'm the EVP of Engineering at GitLab.
 * [GitLab Handle](https://gitlab.com/edjdev)
 * [Team Page](/company/team/#edjdev)
 
-Here are some things about me that may help us collaborate effectively:
+Here are some things about me:
 
 * I'm the veteran of 5 startups (including GitLab). I've only ever worked for startups. I'm geared for growth.
 * I like learning. My previous startups have been in marketing technology, localization software, video streaming, and aerospace.
@@ -37,4 +37,40 @@ Here are some things about me that may help us collaborate effectively:
 * Outside of work I love travel, solving puzzles with code, and spending time with my family.
 * I type too fast and make spelling mistakes where there isn't a native spell checker. I'm working on it. 😁
 
-Do you know something about me that belongs here? [Create an issue](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issue) or [submit an MR to this page](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/handbook/engineering/erics-readme/index.html.md).
+Do you know something about me that belongs here? [submit an MR to this page](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/handbook/engineering/erics-readme/index.html.md).
+
+## My Remote Work Setup
+
+### Camera
+
+* [Sony a6400 Mirrorless Camera](https://www.sony.com/electronics/interchangeable-lens-cameras/ilce-6400)
+* [Sony 35mm F1.8 OSS Prime Lens](https://www.sony.com/electronics/camera-lenses/sel35f18)
+* [TKDY Dummy Battery](https://www.amazon.com/gp/product/B07144X7MC/) (to power the camera)
+* [6ft Micro HDMI to HDMI cable](https://www.amazon.com/gp/product/B00Z07JYLE/)
+* [Elgato Camlink 4K](https://www.elgato.com/en/gaming/cam-link-4k)<sup>1</sup>
+* [Elgato Multi Mount](https://www.elgato.com/en/master-mount)
+* [Elgato Flex Arm](https://www.elgato.com/en/flex-arm)
+
+<sup>1</sup> Eventually Sony should release their free [Imaging Edge Webcam](https://support.d-imaging.sony.co.jp/app/webcam/en/download/) software for MacOS, which will eliminate the need for the Camlink 4K.
+
+### Lighting
+
+* 2x [Elgato Key Lights](https://www.elgato.com/en/gaming/key-light) (as the "Key" and "Fill" lights in the [Three Pointing Lighting](https://en.wikipedia.org/wiki/Three-point_lighting) method)
+
+### Microphone
+
+* [Elgato Wave:3 Microphone](https://www.elgato.com/en/wave-3) with their WaveLink Digital Mixer Software
+* [Elgato Wave Pop Filter](https://www.elgato.com/en/wave-pop-filter)
+* [Elgato Wave Shock Mount](https://www.elgato.com/en/wave-shock-mount)
+* [VIVO Pneumatic Mic Arm](https://vivo-us.com/products/stand-mic01)
+
+### Other
+
+* Apple iMac (Retina 5K, 27-inch, 2017)
+* [ECamm Live](https://www.ecamm.com/) Software (for picture-in-picture screen sharing)<sup>2</sup>
+* [Elgato Stream Deck XL](https://www.elgato.com/en/gaming/stream-deck-xl) (to control the lights, Ecamm Scenes, and type words I frequently mispell)
+* [Google Pixelbook Go](https://store.google.com/us/product/pixelbook_go) (for travel)
+* [Vari Electric Standing Desk](https://www.vari.com/electric-standing-desk-60x30/FD-ESD6030.html?dwvar_FD-ESD6030_color=reclaimed-wood)
+* [Vari Active Seat](https://www.vari.com/active-seat/ST-ACTV.html)
+
+<sup>2</sup> Eventually [OBS (Open Broadcaster Software)](https://obsproject.com/) should release their own virtual camera for MacOS and I'll consider switching from Ecamm Live.
