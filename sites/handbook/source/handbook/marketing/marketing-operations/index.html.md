@@ -288,37 +288,33 @@ Email creation, campaigns, follow up reporting and sending is the responsibility
 
 ### Email Communication Policy  
 
-At GitLab, we strive to communicate with people in a way that is beneficial to them. Most of our email marketing communications follow an explicit opt-in policy, although at times, we will communicate via email to people who have not explicitly opted-in. We do this to offer something of value (ex. an invite to a workshop, dinner, the opportunity to meet an industry leader, etc. not an email inviting to read a blog post) to the person. We always include the unsubscribe link in our communications, and we respect the unsubscribe list. In addition to the unsubscribe button at the bottom of all of our emails, we have available our [Email Subscription Center](/company/preference-center/), where people can control their email communication preferences.
+Please [visit the legal page](/handbook/legal/marketing-collaboration/#marketing-rules-and-consent-language) to view all of the Marketing Rules and Consent Language.
+
+At GitLab, we strive to communicate with people in a way that is beneficial to them. We always include the unsubscribe link in our communications, and we respect the unsubscribe list. In addition to the unsubscribe button at the bottom of all of our emails, we have available our [Email Subscription Center](/company/preference-center/), where people can control their email communication preferences.
 
 Certain emails can bypass unsubscribe by being marked as `operational`. Operational emails need to be transactional and should not be marketing in nature. Examples include critical system alerts, auto-responder emails after an action is taken (ex. registration confirmation), event reminders with link to attend event, post event recording, and account balances.
 Emails that contain mostly marketing or promotional content like newsletters, event invites and sales emails are not considered `operational`. Only Mops and certain MPMs have access to this feature in Marketo. If you have any questions on whether or not your email is operational, contact Mops and/or Legal.
 
-### Email Segments
+In Marketo, we have communication limits set so a recipient cannot receive more than 2 emails per day, and/or 7 emails per week. This does not include `operational` emails. Once a person has hit that limit, they are supressed from email groups until they fall back under the threshold. 
 
-Database segments and how someone subscribes to specific segment:
-
-- **Newsletter**: Users can [subscribe to the newsletter](/company/contact/) through the blog, Contact us page, and CE download page.
-- **Security Alerts**: [Subscribe to security notices](/company/contact/#security-notices) on the GitLab Contact us page.
-- **Webcasts**: When someone registers to a live or on-demand webcast
-- **Live Events**: When someone registers to attend a live event, meet up or in-person training. Use of this segment is narrowed down by geolocation so notification and invitation emails are specific to related area.
 
 ### Types of Email
 
 **Breaking Change Emails**
-These are transactional emails, almost always to our user base, that provide very selective needed information. This is an operational-type email that overrides the unsubscribe and would not need to comply with marketing email opt-out. Usage example: GitLab Hosted billing change, Release update 9.0.0 changes, GitLab Page change and Old CI Runner clients.
-It is very important to have Engineering and/or Product team (whoever is requesting this type of email) help us narrow these announcements to the people that actually should be warned, so we are communicating to a very specific targeted list.
+These are transactional emails, almost always to our user base, that provide very selective needed information. This is an`operational` email that overrides the unsubscribe and would not need to comply with marketing email opt-out. Usage example: GitLab Hosted billing change, Release update 9.0.0 changes, GitLab Page change and Old CI Runner clients.
+It is very important to have Engineering and/or Product team (whoever is requesting this type of email) help us narrow these announcements to the people that actually should be warned, so we are communicating to a very specific targeted list. In some cases, these will be sent via [Mailchimp](/handbook/marketing/marketing-operations/marketo/#mailchimp-sends).
 
 **Newsletter**
-Sent bi-monthly (every 2 weeks). Content Team is responsible for creating the content for each Newsletter.
+Sent bi-monthly (every 2 weeks). Content Team is responsible for creating the content for each Newsletter. Users can [subscribe to the newsletter](/company/contact/) through the blog, contact us page, and CE download page.
 
 **Security Alerts**
-Sent on an as needed basis containing important information about any security patches, identified vulnerabilities, etc. related to the GitLab platform. These emails are purely text based and again are transactional in nature.
+Sent on an as needed basis containing important information about any security patches, identified vulnerabilities, etc. related to the GitLab platform. These emails are purely text based and again are transactional in nature.  Users can [subscribe to security notices](/company/contact/#security-notices) on the GitLab Contact us page.
 
 **Webcasts**
-Invitation and/or notification emails sent about future webcasts.
+Invitation and/or notification emails sent about future webcasts. 
 
 **Live Events**
-Invitation emails to attend a live event (VIP or Executive Lunch), meet-up, or in-person training. These emails are sent to a geo-locational subset of the overall segment. This type of email is also used when we are attending a conference and want to make people aware of any booth or event we may be holding and/or sponsoring.
+Invitation emails to attend a live event, meet-up, or in-person training. These emails are sent to a geo-locational subset of the overall segment. This type of email is also used when we are attending a conference and want to make people aware of any booth or event we may be holding and/or sponsoring.
 
 ## Website Form Management
 
