@@ -33,10 +33,7 @@ For TAM Managers, here is a short checklist to assist in the review:
 
 ### Account Assignment
 
-Accounts are assigned at point of sale by the TAM Manager when a new Account in their region fits the following criteria:
-
-1. **Enterprise:**  ARR: is > 50k ARR  
-1. **Mid-Market & SMB:**  ARR:  (is > $20k ARR) OR (>$10k ARR and qualified growth opportunity). Process described in the [Commercial Handbook](/handbook/customer-success/comm-sales/#account-executive-to-tam-existing-accounts-without-a-tam)
+Accounts are assigned at point of sale by the TAM Manager when a new Account in their region fits the criteria in [TAM Responsibilities and Services](/handbook/customer-success/tam/services/#tam-alignment).
 
 When an Account meets the critera, the following will happen:
 
