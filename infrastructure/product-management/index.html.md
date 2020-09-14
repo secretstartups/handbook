@@ -32,6 +32,8 @@ Examples of requests related to backend capabilities of GitLab.com include:
 
 The Infra PM can help prioritize these requests since they will likely require engineering investment from the Infrastructure department. 
 
+#### How to submit customer requests related to GitLab.com
+
 To submit customer requests related to the backend capabilities of GitLab.com, use the [GitLab.com feature request template](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/new?issuable_template=request-gitlab-com) so that we can gather the necessary opportunity size data to help prioritize this request
 
 ### Outbound Requests
