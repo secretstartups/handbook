@@ -553,6 +553,22 @@ Take initiative to operate [asynchronously](/company/culture/all-remote/asynchro
 
 This is demonstrated by communicating recordings of [meetings](/company/culture/all-remote/meetings/), using GitLab Issues and Merge Requests rather than texts, calls, or Slack messages, and being sensitive to local holidays and vacation statuses. Encourage others to default to [documentation](/handbook/documentation/) rather than pressuring others to be online outside of their working hours.
 
+#### Embracing uncomfortable ideas and conversations 
+{:.no_toc}
+
+Part of embracing diversity is a willingness to embrace often uncomfortable conservations and situations. This concept is also at the core of inclusion and helping to eliminate the problems that are faced by certain GitLab team members who may not be in the majority.
+
+We believe at GitLab that being willing to embrace discomfort is the path forward to a safe, balanced and inclusive work place for all. Challenge yourself, challenge your own pre-set notions and ideas about different cultures or things you don't understand. When we are willing to embrace being uncomfortable, we can focus on actually fixing the issues at hand rather than simply "appearing to care".
+
+#### Understanding the impact of micro-aggressions
+{:.no_toc}
+
+Micro-aggressions are much more than simply rude or insensitive comments. They have the capacity to wear people down like slowly chipping away at a persons sense of belonging/safety/inclusion over time. What is a micro-aggression? 
+
+> "The everyday slights, indignities, put downs and insults that people of color, women, LGBT populations or those who are marginalized experiences in their day-to-day interactions with people." -  Derald W. Sue
+
+At GitLab we believe that everyone is entitled to a safe working space where they can express who they are and participate in conversations without worry of being spoken to in a harmful way, given that we want to encourage everyone to be mindful of what is a micro-aggression and be mindful of their potential impact. 
+
 ##### Reach across company departments
 {:.no_toc}
 While it's wise to seek advice from experts within your function, we encourage GitLab team members to seek and provide feedback across departments. This enables the team to iterate more quickly, taking a more diverse perspective into account.
@@ -1118,6 +1134,7 @@ Whatever behavior you reward will become your values. We reinforce our values by
 1. What we refer to when [making decisions](/handbook/leadership/#making-decisions).
 1. The example the E-group sets for the company since [a fish rots from the head down](https://thoughtmanagement.org/2011/11/21/does-the-fish-rot-from-the-head-down-when-organisations-go-toxic/).
 1. What we select for during [hiring](/handbook/hiring/).
+1. What we include in our offer letters [Offer letters](/handbook/people-group/contracts-and-international-expansion/#employment-and-contractor-agreements)
 1. What we emphasize during [on-boarding](/handbook/people-group/general-onboarding/).
 1. Behavior we give each other [360 feedback](/handbook/people-group/360-feedback/) on.
 1. Behavior we [compliment](/handbook/communication/#say-thanks).
