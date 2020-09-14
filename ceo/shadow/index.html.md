@@ -223,8 +223,8 @@ Exceptional community members may be able to participate, as well.
 | 2020-11-09 | 2020-11-13 | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan | AVAILABLE - REMOTE |
 | 2020-11-16 | 2020-11-20 | AVAILABLE - REMOTE | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan |
 | 2020-11-23 | 2020-11-27 | NO CEO SHADOWS - Thanksgiving | NO CEO SHADOWS - Thanksgiving |
-| 2020-11-30 | 2020-12-04 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2020-12-07 | 2020-12-11 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2020-11-30 | 2020-12-04 | [Tucker Logan](https://gitlab.com/tuckcodes) - Federal Solutions Architect | AVAILABLE - REMOTE |
+| 2020-12-07 | 2020-12-11 | AVAILABLE - REMOTE | [Tucker Logan](https://gitlab.com/tuckcodes) - Federal Solutions Architect |
 
 The week of 2020-12-07 will be the last CEO Shadow Rotation of 2020 to allow our team members to focus on the holiday season and put family and friends first.
 
