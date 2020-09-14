@@ -122,6 +122,14 @@ When your on-call shift starts, you should get some sort of notification(s) that
 
 - If you need to reach the current on-call engineer and they're not accessible on Slack (e.g. it's a weekend, or the end of a shift), you can [manually trigger a PagerDuty incident](https://support.pagerduty.com/docs/incidents#section-manually-trigger-an-incident) to get their attention, selecting **Customer Support** as the Impacted Service and assigning it to the relevant Support Engineer.
 
+### Handling Multiple Simultaneous Emergencies
+
+In rare cases the on-call engineer may experience concurrent emergencies triggered by seperate customers. When this happens please remember that you are not alone and follow the below steps to ensure proper engagement and resolution of each of the cases.
+
+1. [Page the on-call Support Manager](https://about.gitlab.com/handbook/support/on-call/#paging-the-on-call-manager) to make them aware of the new incoming emergency that needs to be triaged. The Support Manager On-call should assist with finding an engineer to reassign the new emergency page.
+1. Ping your regional support group (i.e. `@support-team-americas`) and request assistance from anyone who has free cycles to assist with the new incoming emergency case.
+1. Once a DRI for the new emergency has been found, they are the ones responsible for acknowledging/resolving the emergency page to signify that they will be assisting the customer with the case.
+
 ### Taking a call
 Taking a call isn't significantly different from a normal call outside of two unique points:
 - You (likely) won't have any forewarning about the subject of the call
