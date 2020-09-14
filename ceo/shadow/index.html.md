@@ -216,9 +216,9 @@ Exceptional community members may be able to participate, as well.
 | 2020-09-14 | 2020-09-18 | [Chris Baus](https://gitlab.com/chris_baus) - Engineering Manager, Fulfillment | [Shawn Winters](https://gitlab.com/ShawnWinters) - Acceleration SDR |
 | 2020-09-21 | 2020-09-25 | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend | [Chris Baus](https://gitlab.com/chris_baus) - Engineering Manager, Fulfillment |
 | 2020-09-28 | 2020-10-02 | [Madeline Hennessy](https://gitlab.com/mhennessy) - Area Sales Manager US East, SMB | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend |
-| 2020-10-05 | 2020-10-09 | AVAILABLE - REMOTE | [Madeline Hennessy]((https://gitlab.com/mhennessy) - Area Sales Manager US East, SMB |
+| 2020-10-05 | 2020-10-09 | [Michael LeBeau](https://gitlab.com/mlebeau) - Strategic Content Lead | [Madeline Hennessy](https://gitlab.com/mhennessy) - Area Sales Manager US East, SMB |
 | 2020-10-12 | 2020-10-16 | NO SHADOWS - PTO | NO SHADOWS - PTO |
-| 2020-10-26 | 2020-10-30 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2020-10-26 | 2020-10-30 | AVAILABLE - REMOTE | [Michael LeBeau](https://gitlab.com/mlebeau) - Strategic Content Lead |
 | 2020-11-02 | 2020-11-06 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2020-11-09 | 2020-11-13 | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan | AVAILABLE - REMOTE |
 | 2020-11-16 | 2020-11-20 | AVAILABLE - REMOTE | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan |
