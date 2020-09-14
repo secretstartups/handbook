@@ -115,7 +115,7 @@ After some time in the [canary] stage, and provided no new exceptions or alerts 
 reported, the release is considered to be ready for deployment to GitLab.com.
 
 The promotion to the full Production GitLab.com fleet is triggered manually by the release
-managers and this can happen at any point in time but will usually not happen if there are [Deplyment blockers].
+managers and this can happen at any point in time but will usually not happen if there are [Deployment blockers].
 
 Each deployment will trigger a notification in the Slack channel [#announcements](https://gitlab.slack.com/archives/C8PKBH3M5).
 After each successful deployment, a QA issue is created in [release/tasks] issue tracker.
@@ -392,4 +392,4 @@ See the [Hot patch] documentation for details on how to Hot patch. Note that hot
 [security issue template]: https://gitlab.com/gitlab-org/security/gitlab/issues/new?issuable_template=Security+developer+workflow
 [security release backports]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/developer.md#backports
 [Hot patch]: https://gitlab.com/gitlab-org/release/docs/blob/master/general/deploy/post-deployment-patches.md
-[Deployment blockers]: https://about.gitlab.com/handbook/engineering/releases/#deployment-blockers
+[Deployment blockers]: /handbook/engineering/releases/#deployment-blockers
