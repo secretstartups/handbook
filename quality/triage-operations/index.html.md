@@ -136,6 +136,17 @@ The issue can be created manually using the following command:
 bundle exec gitlab-triage --debug --r ./plugins/all.rb --token PERSONAL_API_TOKEN --source projects --source-id gitlab-org/gitlab -f ./policies/stages/report/unlabelled-issues.yml
 ```
 
+### Newly created Community contribution merge requests requiring first-triage
+
+This report contains recent wider community contribution merge requests requiring initial triage.
+The goal is for coaches to add stage and group labels (as well as type and category labels, ideally),
+so that the relevant Product Manager or Engineering Manager can be pinged later on based on these labels.
+
+* Triage owner: Merge request coaches.
+* Listed merge requests: All which have been created in the last 24 hours.
+* Triage action: Follow the instructions in the triage report.
+  * Example: [https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/364](https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/364)
+
 ### Group level bugs, features, and UX debt
 
 This report contains the relevant bugs, feature requests, and UX debt issues that belong to a group in our [DevOps stages](/handbook/product/product-categories/#devops-stages).
@@ -241,7 +252,9 @@ The second part contains 20 merge requests that weren't updated for 2 months or 
 
 ## Triage automation
 
-General triage automation is run to label and update issues which help with reporting and milestone transition.
+General triage automation is run to label and update issues which help with
+reporting and milestone transition. This is handled by
+[triage-ops](https://gitlab.com/gitlab-org/quality/triage-ops).
 
 ### Milestone reschedule
 
@@ -309,11 +322,11 @@ Issues with the `~workflow::blocked`, `~workflow::design`, `~workflow::planning 
 
 ### Master broken categorization
 
-Issues or merge requests that have a label of `~master:broken` will have labels of `~priority::1` and `~severity::1` applied. This ensures that requests which break master are sufficiently categorized for reporting.
+Issues or merge requests that have a label of `~"master:broken"` will have labels of `~"priority::1"` and `~"severity::1"` applied. This ensures that requests which break master are sufficiently categorized for reporting.
 
-* Automation Condition: Open issue or merge request with `~master:broken` label.
+* Automation Condition: Open issue or merge request with `~"master:broken"` label.
 * Automation Action:
-  * The `~priority::1` and `~severity::1` labels are applied.
+  * The `~"priority::1"` and `~"severity::1"` labels are applied.
 * Example: <https://gitlab.com/gitlab-org/gitlab-ee/issues/12363>
 * Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-reminders.yml#L27-45>
 
@@ -366,6 +379,39 @@ identified as eligible for auto-closure. At this point, the following actions oc
     - Issues with a comment from anyone other than the gitlab-bot in the last 7 days are considered active and `~"stale"` is removed
 - Policy: [https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/close-stale-bugs.yml](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/close-stale-bugs.yml)
 
+## Reactive triage automation
+
+Reactive triage automation is complementary to general triage automation where
+realtime feedback provides an improved developer experience. This is handled by
+[triage-serverless](https://gitlab.com/gitlab-org/quality/triage-serverless).
+
+### Ensure priorities for availability issues
+
+For issues labelled `~"availability"`, the minimal are enforced with the
+guidelines at
+<https://about.gitlab.com/handbook/engineering/quality/issue-triage/#availability-prioritization>
+
+### Ensure no deprecated backstage labels are added
+
+Whenever `~"backstage [DEPRECATED]"` is added, it'll remove it and hint
+about why it should not be added, and alternatives will be provided.
+
+### Add customer label whenever a customer associated link is added
+
+The `~"customer"` label is applied when a customer associated link is applied.
+
+The following URLs are considered customer associated links:
+
+* `gitlab.zendesk.com`
+* `gitlab.my.salesforce.com`
+
+### Add type label from subtype
+
+Whenever a subtype label is added, the corresponding type label is added.
+Current type labels with subtype labels are:
+
+* `~"feature"`
+* `~"tooling"`
 
 ## Resources
 
