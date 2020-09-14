@@ -71,11 +71,19 @@ Watch the below video and check out GitLab's [Value Stream Management](/solution
 ### Economic Metrics
 **Economic metrics** highlight how your solution attaches to the customer's large strategic initiatives.
 * Economic metrics typically align to one or more of three [customer value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers)
-* Check out the [Forrester Total Economic Impact](/handbook/marketing/product-marketing/analyst-relations/forrester-tei/) study
-     - Watch the [Forrester TEI Report webcast](https://youtu.be/J_6QgemCz2E) (1 hour, July 2020, internal only) featuring Forrester analysts
 * To help you document your customer's ROI of adopting GitLab, use the GitLab ROI Model
-     - [Standardized ROI Model slides](https://docs.google.com/presentation/d/1-Qq6TLpgOuooAlmHj1tumwHxUTK86uWBD_7Lv6K47w8/edit#slide=id.g8c3c4e381e_0_34)
-     - [Standardized ROI Model sheet](https://docs.google.com/spreadsheets/d/1zYeKV51thbqUjKKQqOtE0a0iVuXBWytc_5ThNV6U_1c/edit#gid=0)
+    - Watch the video below
+    - Check out the [GitLab Standard ROI Models enablement webcast](https://youtu.be/znCrnpTDRoE) (36 minutes, Sept 2020)
+    - [GitLab Standardized ROI Model](https://docs.google.com/spreadsheets/d/1zYeKV51thbqUjKKQqOtE0a0iVuXBWytc_5ThNV6U_1c/edit?usp=sharing) (GitLab internal only)
+    - [Standardized GitLab ROI Model presentation](https://docs.google.com/presentation/d/1-Qq6TLpgOuooAlmHj1tumwHxUTK86uWBD_7Lv6K47w8/edit?usp=sharing) (GitLab internal only)
+* Check out the [Forrester Total Economic Impact Study](/handbook/marketing/product-marketing/analyst-relations/forrester-tei/) Handbook page
+     - Watch the [Forrester TEI Report webcast](https://youtu.be/J_6QgemCz2E) (1 hour, July 2020, internal only) featuring Forrester analysts
+     - Check out the [online Forrester TEI Estimator/Calculator](https://tools.totaleconomicimpact.com/go/gitlab/devopsplatform/index.html)
+     - More resources in the Handbook page referenced above!
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/jE56J-kQRao" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 Listen to Nico Ochoa (Strategic Account Leader, US West) describe his role in [helping a large tech firm be able to measure success and improve business outcomes](https://youtu.be/m1Gori76d-I) (GitLab internal only, June 2020, 3 minutes).
 

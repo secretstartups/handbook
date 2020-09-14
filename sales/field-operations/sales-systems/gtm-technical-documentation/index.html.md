@@ -33,7 +33,7 @@ Code Units:
 * highestEmpsAndTSPAddress
 * ownerTransfer
 
-**Inputs:** DataFox, DiscoverOrg, Manually Entered Address & Employee Data, Account Parenting Hierarchy
+**Inputs:** DataFox, Zoominfo, Manually Entered Address & Employee Data, Account Parenting Hierarchy
 
 **Outputs:** Here is the outline between of two sets of fields we are setting on the Account object. Staging(TSP / ATAM) are set nightly via an APEX job. Actuals are set at given intervals found in the business documentation.
 
@@ -204,7 +204,7 @@ Code Unit:
 
 ## Opportunity Stage Progression Tracking
 <details>
-  <summary markdown="span">Primary Quote System Info</summary>
+  <summary markdown="span">Opportunity Stage Progression Info</summary>
 
 **Business Process this supports** The sales cycle and analytics.
 
@@ -216,7 +216,7 @@ Code Unit:
 
 ## Block Salesforce From Transferring Historical Opp Owners On Account Owner Transfers
 <details>
-  <summary markdown="span">Historical Opportunity Owner Maintanence</summary>
+  <summary markdown="span">Historical Opportunity Owner Maintanence Info</summary>
 **Business Process this supports:** In order to provide reliable and accurate historical data to the analytics team, the sales organization and to the companye as a whole we need to ensure that historical opportunities and relevant information on opportunities is not changed once the opportunity is closed. 
 
 **Overview:** The goal of this blocking logic is to close a backdoor that Salesforce has built into the system. While we have a number of validation rules in place to prevent information from changing on closed opportunities it was possible to change histoircal opportunity owners (as well as fields that are derived from the owner field) while transferring accounts. Anyone who could have been able to change the owner on an account would have been able change historical opportuntiy data that they would not be able to edit otherwise. This logic still allows users to complete this account ownership transfer without any impact to historical opportunities while also allowing the various business teams at GitLab to manually update the owners of opportunites at month close.
@@ -264,7 +264,7 @@ Code Units:
 
 ## Lead Segmentation
 <details>
-  <summary markdown="span">Order Type System Info</summary>
+  <summary markdown="span">Lead Segmentation Info</summary>
 
 **Business Process this supports:** [Sales Segmentation](/handbook/sales/field-operations/gtm-resources/#segmentation)
 
@@ -276,7 +276,7 @@ Code Units:
 | Web Portal | Web_Portal_Purchase_Company_Size__c |
 | Marketing | Employee_Buckets__c |
 | DemandBase | DB_Employee_Count__c |
-| DiscoverOrg | DiscoverOrg_Number_Of_Employees__c |
+| Zoominfo| 	ZI_Employees__c |
 | Salesforce User | NumberOfEmployees |
 
 **Logic Locations:** [LeadClass.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/LeadClass.cls)
@@ -287,4 +287,4 @@ Code Unit:
 
 ## Gainsight 
 - The Gainsight docuemntation has been migrated to it's own page. Please update any bookmarks for the Gainsight Go To Market Technical Documentation page to its new home:
-   - [Gainsight Go-To-Market Technical Documentation Handbook Page](/handbook/sales/field-operations/sales-systems/gtm_technical-documentation/gainsight)
+   - [Gainsight Go-To-Market Technical Documentation Handbook Page](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/gainsight)

@@ -22,15 +22,20 @@ The below slide shows the holistic learner journey for TAMs and provides context
 </figure>
 
 ## Onboarding Customers for Success Learning Path 
-This is the first learning path in development for TAMs which will consist of 4 courses. The learning objectives for each course are outlined below.
+This is the first learning path in development for TAMs which will consist of five courses. The learning objectives for each course are outlined below.
 
-**Course 1: Transition to the Account** 
+**Course 1: SALSA-TAM Meeting**
+* Identify roles & responsibilities in the SALSA-TAM Meeting
+* Review SALSA-TAM Meeting best practices
+* Leverage tools during call 
+
+**Course 2: Transition to the Account** 
 * Differentiate between when a TAM should get involved in Commercial and Enterprise accounts 
 * Review the customer use case with SAL and SA
 * Analyze the customer’s background
 * Identify gaps in understanding for planning phase 
 
-**Course 2: Kickoff the Customer Engagement**
+**Course 3: Kickoff the Customer Engagement**
 * Define current and desired state for customer 
 * Customize and send TAM Welcome email 
 * Conduct pre-kickoff activities 
@@ -38,14 +43,14 @@ This is the first learning path in development for TAMs which will consist of 4 
 * Manage customer onboarding in Gainsight 
 * Schedule cadence call to discuss future growth 
 
-**Course 3: Build the Success Plan**
+**Course 4: Build the Success Plan**
 * Review the customer’s motivation for purchasing GitLab through reviews with the sales team
 * Identify the customer’s business objectives 
 * Document the success plan in Gainsight  
 * Track value of the ROI success plan 
 
-**Course 4: Obtain Customer Feedback** 
-Send customer satisfaction survey and swag email 
+**Course 5: Obtain Customer Feedback** 
+* Send customer satisfaction survey and swag email 
 
 
 # Recognition

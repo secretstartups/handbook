@@ -417,7 +417,7 @@ If you'd like to save time by cloning an existing quote, you can do so by doing 
 
 ### **Non-standard Quotes**
 
-Occassionaly an opporutnity will require a unique structure that is outside of the normal quote format. Examples of these scenarios are listed below. Deal Desk will partner with the Account Owner to strucutre the opportunity and provide guidance on creating the quote. Please chatter on the opportunity if you need assistance with one of these scenarios! 
+Occassionaly an opporutnity will require a unique structure that is outside of the normal quote format. Examples of these scenarios are listed below. Deal Desk will partner with the Account Owner to structure the opportunity and provide guidance on creating the quote. Please chatter on the opportunity if you need assistance with one of these scenarios! 
 
 #### Contract Reset
 
@@ -472,7 +472,34 @@ C.  Note: Deal Desk will create the quotes and Order Form.
 
 #### Opportunities Requiring Multiple Invoices
 
-If an opportunity requires multiple invoices due to a specific professional services delivery schedule or approved annual payment terms, a separate opportunity is required for each invoice period. Each individual opportunity will require a quote object that is equal to the amount being invoiced. All products and dates should match the original opp. Build Invoice Only quote objects as a "New Subscription" quote. 
+If an opportunity requires multiple invoices due to a specific professional services delivery schedule or approved annual payment terms, a separate opportunity is required for each invoice period. If there is no difference in number of seats or price across the years only one subscription and quote would be required (ie. Invoice Only opps do not require a quote object).
+
+**Opportunity Structure**
+
+* Invoice Only Opp type should be New Business
+* Each individual opportunity will require a quote object that is equal to the amount being invoiced
+* All products, dates, and contacts should match the original opp / quote
+* Build Invoice Only quote objects as a "New Subscription" quotes
+
+**Invoice Amounts** 
+
+If all payments associated with the opportunity are equal (ex. 3 payments of $10,000) the quote on the orignal opporuntiy must reflect the entire opportunity term. 
+
+**Ex.** 
+
+3 Year Subscription worth $30,000, broken out into 3 equal annual payments of $10,000. 
+* Primary Opp Quote - 3 Year New Subscription Quote (using the 1 Year Product SKU). Term Length should be 36. 
+* Invoice Only Opp - Year 2 - Update the Amount field to reflect the total to be invoiced. A quote object is not required.
+* Invoice Only Opp - Year 3 - Update the Amount field to reflect the total to be invoiced. A quote object is not required.
+
+If the payment amounts or user count per year are not identical, (ex. Year 1 - $15,000 Year 2 - $10,000, Year 3 $5,000)- then the original opporuntiy quote should only reflect the first year (invoice period) of the subscription. 
+
+**Ex.** 
+
+3 Year Subscription worth $30,000, broken out into 3 payments. Year 1 - $10,000, Year 2 - $7,000, Year 3 $13,000
+* Primary Opp Quote - 3 Year New Subscription Quote (using the 1 Year Product SKU). Term Length should be 36. 
+* Invoice Only Opp - Year 2 - Update the Amount field to reflect the total to be invoiced. A quote object is not required. (Use the same SKU as the original opp, update intital term to 12)
+* Invoice Only Opp - Year 3 - Update the Amount field to reflect the total to be invoiced. A quote object should be created to reflect the total amount to be invoiced. (Use the same SKU as the original opp, update intital term to 12)
 
 **Ex.** Professional Services Deal -Opportunity amount $300,000. 4 Deliverables are outlined in the Custom SOW to the customer, each deliverable includes a different date for delivery. This requires 4 opportunities because the customer will be invoiced after completion of each deliverable.
 

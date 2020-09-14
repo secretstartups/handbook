@@ -130,7 +130,7 @@ You can view previous updates in the "Group Conversation Sales" (previously "Fun
 For a full overview of the QBR planning and execution process, QBR request tracking, best-practices for organizers and attendees, and where to find past QBR content, [see here](/handbook/sales/qbrs). 
 
 ### Focus Fridays
-The Field team is piloting Focus Fridays through the end of August 2020. The goal is to encourage all field team members to clear out their calendars on Fridays as much as possible in hopes that this will help all of us be more efficient, allow space within our weeks for focused work, and reduce potential burnout. Guidance for Focus Fridays includes:  
+The Field team is piloting Focus Fridays through the end of CY 2020. The goal is to encourage all field team members to clear out their calendars on Fridays as much as possible in hopes that this will help all of us be more efficient, allow space within our weeks for focused work, and reduce potential burnout. Guidance for Focus Fridays includes:  
 - Cancel or move any standing meetings occurring on Fridays
 - Customer/prospect/partner/external meetings are exceptions
 - Some one-off internal meetings might not be avoidable, but aim to minimize them as much as possible
@@ -241,7 +241,7 @@ On receiving an approved request for the split, SalesOps team will update the Op
 Opportunity split crediting will automatically be calculated in the commissions system through the Opportunity Splits section. The Commissions team will ensure that the commissions are calculated accurately based on the split % and confirm in Chatter on the opportunity.
 
 * **Clari**
-Currently, our Clari instance does not support Opportunity Splits, so credit will be based on Opportunity Owner (this will not impact compensation). We are looking to enable this feature in Clari by FY21Q3.
+As of FY21Q3, our Clari instance will pull in Opportunity Splits.  The splits in Clari will be pulled directly from the Opportunity Split section in Salesforce.
 
 ##### Advantages to Updating Opps in Clari
 
@@ -277,19 +277,20 @@ The following instructional videos are located on the GitLab unfiltered YouTube 
 
 If you are a Sales Leader, will have additional access to the **Forecasting Tab** in Clari. You will see four tabs:
 
-* **Net IACV**
+* **IACV**
   * You will enter your Gross IACV Commit/Best Case and Renewal Loss Commit/Best Case in this tab.
   * Gross IACV will be your bookings, a positive value; Renewal Loss will be for lost renewal ACV, represented by a negative value.
+      * The Won IACV is calculated dynamically. For Managers it will be the Net IACV amount while for individual reps it will be the Gross IACV amount, which excludes Renewals with Negative IACV.
   * The result will be your Net IACV, which will be your official value submitted.
-
-* **Gross IACV**
-  * This will be a read only tab. You will see your rep’s quota, Won IACV, and pipeline coverage.
 
 * **Renewal ACV**
   * This will be a read only tab. You will see your rep’s Closed Won Renewal ACV, Commit, Best Case, Renewal Loss Commit, and Renewal Loss Best Case.
 
 * **TCV**
   * This will be a read only tab. You will see your rep’s Closed Won TCV, Commit, Best Case, and Pipeline.
+
+* **Pipeline Gen **
+  * This will be a read only tab. You will see your rep’s total open pipeline, pipeline in stage 3+ and coverage rates for both Next Quarter and Next Quarter+1. The pipeline coverage is calculated by looking at total pipeline in a given quarter divided by quota for that same quarter.
 
 ##### Reviewing Forecasts
 
@@ -303,7 +304,7 @@ Click on the radio button for the type of opportunities you want to see (normall
 
 To overwrite your regional forecast:
 1. In Clari, go to the Forecasting tab.
-1. Go the tab of the metric you want to forecast (Gross IACV or Renewal ACV).
+1. Go the IACV tab.
 1. Go to Commit and override the value.
 1. Add a note on why the adjustment made.
 2. Repeat this process for Best Case.
@@ -324,7 +325,7 @@ The following instructional videos are located on the GitLab unfiltered YouTube 
 * **Introduction to Gross and Net IACV**
    - [Watch this 8 minute video](https://youtu.be/BXJsB2Frjxk) for an introduction on where to forecast using Gross IACV and Renewal fields and how they relate to Net IACV population.
 * **Overview of Renewals**
-   - [Watch this 5 minute video](https://youtu.be/3b2Y3nY7-QY) for a further look at the Gross, TCV and Renewal Tabs as well as how to view past and future quarters.
+   - [Watch this 5 minute video](https://youtu.be/3b2Y3nY7-QY) for a further look at the TCV and Renewal Tabs as well as how to view past and future quarters.
 
 ##### Clari Analytics Instructional Videos
 
@@ -682,8 +683,15 @@ If you have a customer who is not renewing, you must mark the Stage as `8-Closed
 
 ### Magic Number
 
-IACV for trailing three months / Sales and marketing Spend over trailing months -6 to months -4 (one quarter lag) (see the details of this spend, as defined in the IACV Efficiency Ratio).
-[Industry guidance](http://www.thesaascfo.com/calculate-saas-magic-number/) suggests a good Magic Number is > 1.0. GitLab's target is to be at 1.1.
+(Recurring revenue T-1) - (Recurring revenue T-2)) * 4 / GTM spend T-2
+
+T = current quarter
+
+The thesis is that Go To Market (GTM) spend on marketing and sales in the second to last quarter caused the growth in the last quarter.
+
+[Industry guidance](http://www.thesaascfo.com/calculate-saas-magic-number/) suggests a good Magic Number is > 1.0, this means you generate more than $1m in incremental ARR from $1m in Sales and marketing investment). Best in class is > 1.5 (for example Twilio). Atlassian is the best in the B2B SaaS industry > 2.0
+
+This number is also sometimes called 'Growth efficiency'.
 
 ### Close Rate
 

@@ -97,7 +97,7 @@ Please leave assignee blank.
 1. [Updating or creating Opportunity Splits ](/handbook/sales/#opportunity-splits)
 1. [Salesforce Lightning for Gmail](/handbook/sales/#salesforce-lightning-for-gmail)
 1. [Support from the Community Advocacy Team](/handbook/marketing/revenue-marketing/sdr/#working-with-the-community-advocacy-team)
-1. [DataFox/DiscoverOrg segmentation conflicts](/handbook/business-ops/resources/#segmentation)
+1. [DataFox/Zoominfo segmentation conflicts](/handbook/business-ops/resources/#segmentation)
 1. [Reassigning to a Territory Rep](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
 1. [Requesting Reassignment](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
 1. [If LEAD or CONTACT is owned by SDR team member](/handbook/business-ops/resources/#record-creation-in-salesforce)
@@ -168,7 +168,7 @@ Include a link to the list and description of the list load.
     * Go into Salesforce Setup>Customize>Accounts>Record Types (Pull the number out of the URL (number after id= and before the &))
     * Paste into the RecordType ID column>copy down
 1. Format the Account Source Column
-    * Naming convention: List-Vendor-Identifier-Date (example:List-DiscoverOrg-FranceAC-20200407
+    * Naming convention: List-Vendor-Identifier-Date (example:List-Zoominfo-FranceAC-20200407
     * Copy and paste values down the column with the correct format
 1. Create the Account Source Name in Salesforce
     * Go into Salesforce>Setup>Customize>Account>Fields>Account Source
@@ -251,6 +251,7 @@ The full company tech stack list with definitions can be found on the [Business 
 ](/handbook/business-ops/tech-stack/). Here are the tools that the Sales Operations team works with on a daily basis.
 1. [Clari](/handbook/business-ops/tech-stack/#clari)
 1. [Datafox](/handbook/business-ops/tech-stack/#datafox)
+1. [ZoomInfo](/handbook/marketing/marketing-operations/zoominfo/)
 1. [Gainsight](/handbook/business-ops/tech-stack/#gainsight)
 1. [Leandata](/handbook/business-ops/tech-stack/#leandata)
 1. [Salesforce](/handbook/business-ops/tech-stack/#salesforce)
@@ -323,22 +324,29 @@ In addition to sponsored reporting, Sales Ops will maintain existing reports by 
 **Enterprise: West**
 1. [WEST ENT Pipeline Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXBZ)
 2. [FY21 CQ WEST ENT Sales Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXBo)
+3. [WEST ENT Pipeline Health Check](https://gitlab.my.salesforce.com/01Z4M000000oXVy)
 
 **Enterprise: East**
-3. [EAST ENT Pipeline Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXBU)
-4. [FY21 CQ EAST ENT Sales Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXBj)
+4. [EAST ENT Pipeline Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXBU)
+5. [FY21 CQ EAST ENT Sales Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXBj)
+6. [EAST ENT Pipeline Health Check](https://gitlab.my.salesforce.com/01Z4M000000oXVo)
 
 **Enterprise: PubSec**
-5. [PubSec Pipeline Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXC3)
-6. [FY21 CQ PubSec Sales Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXCD)
+7. [PubSec Pipeline Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXC3)
+8. [FY21 CQ PubSec Sales Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXCD)
+9. [PubSec Pipeline Health Check](https://gitlab.my.salesforce.com/01Z4M000000oXW8)
 
 **Enterprise: EMEA**
-7. [EMEA Enterprise Pipeline Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oX78)
-7. [FY21 CQ EMEA ENT Sales Dashboard](https://gitlab.my.salesforce.com/01Z4M000000slbx)
+10. [EMEA Enterprise Pipeline Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oX78)
+11. [FY21 CQ EMEA ENT Sales Dashboard](https://gitlab.my.salesforce.com/01Z4M000000slbx)
+12. [EMEA ENT Pipeline Health Check](https://gitlab.my.salesforce.com/01Z4M000000oXVe)
 
 **Enterprise: APAC**
-8. [APAC ENT Pipeline Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXAR)
-9. [FY21 CQ APAC ENT Sales Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXA2)
+13. [APAC ENT Pipeline Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXAR)
+14. [FY21 CQ APAC ENT Sales Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXA2)
+15. [APAC ENT Pipeline Health Check](https://gitlab.my.salesforce.com/01Z4M000000oXW3)
+
+The Pipeline Health Check Dashboards will be sent to each regional team for their review every Monday. 
 
 </details> 
 
@@ -458,10 +466,12 @@ The Sales Operations team supports the opportunity credit split approval process
      * This does not apply for a credit split. Ex: 50/50 or any other percentage split.
      * If the opportunity is incorrectly assigned, the split should still match the owner until correct opportunity assignment is made.
      * This is automated and should be monitored on this [Exception Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXQt) weekly.
-3. There will never be a split that totals above 100%.  
+3. There will never be a split that totals above 100%. 
+4. SFDC reports and Dashboards will only reflect opportunity splits if the report type includeds opportunity splits. 
 
 **Opportunity Splits in Clari**
-   * Rolling out in Q3
+   * Clari will pull the split data out of SFDC. 
+   
   
 **Updating | Adding | Deleting a Split In Salesforce**
 1.  Navigate to the opportunity in SFDC.
