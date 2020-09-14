@@ -29,13 +29,13 @@ The guidelines below describe what people in our team commonly expense. Some of 
 ## Expense Policy
 
 1. Max Expense Amount - [$5,000 USD](/handbook/total-rewards/compensation/#exchange-rates) - NOTE - If you are a corporate credit card holder, please refer to the [corporate credit card policy section](/handbook/finance/accounting/#credit-card-use-policy) for those specific instructions and thresholds.
-1. Receipts are required for all expenses
+1. Receipts are required for all expenses.
 1. Expenses must be submitted within 30 days of purchase/spend. This helps the Company to better manage our budget and ensures accurate monthly financial reporting.
 
 For further information on Expenses, visit the [Expenses handbook section](/handbook/finance/expenses/). 
 
 The aforementioned section covers details including:
-1. Reimbursing coworking fees and external office space.
+1. Reimbursing coworking fees and external office space
 1. Office equipment and workspace supplies
 1. Work-related online courses and professional development certifications
 1. Year-end holiday party budget 
@@ -56,7 +56,7 @@ These instructions apply if a team member is unable to purchase items, for whate
     * Click on the report name in the body of the email
     * Review each expense for the correct amount of the receipt and the report
     * Check for customers or project name if applicable under Tag
-    * We required a receipt for all expenses
+    * We require a receipt for all expenses
     * Select [Approve and Forward] option and Expensify pre-populated the email address.  Note, Expensify is updating their coding to address a small glitch in this field.  If it is empty, please send it to **Montpac** (gitlab-expensify-mp@montpac.com)
     * **Important** - please do not use [Final Approval] because Expensify will not send the email notification for payment approval and it will delay the reimbursement process
     * Manager can delegate the approval process during PTO:
