@@ -295,7 +295,8 @@ consistent and the user has zero chance of seeing that banner again.
 [Alerts](https://design.gitlab.com/components/alert) allow the application to pass along relevant system information to the user without impeding their journey.
 
 Some important considerations when adding alerts:
-- Alerts should always be targeted at users who are capable of taking action on that alert.
+- Alerts should generally be targeted at users who are capable of taking action on that alert.
+- Alerts should only be targeted at wider audiences if they will be impacted by the condition. For example if the repository is about to exceed the storage limit.
 - Alerts should be dismissable at the appropriate level (dismiss a CI related warning for the entire namespace (i.e. project or (sub)group), and a user settings related warning for the user). 
 
 #### Navigation
