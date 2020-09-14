@@ -12,9 +12,9 @@ example from build > launch:
 
 | Outcomes|Activities|
 |---|---|
-| Outcome 1 | Activity 1 <br> Activity 2 |
+| Outcome 1 | Activity 1 <br> **Activity 2** |
 
-<!-- The outcomes and related activities table above should capture what outcomes we recommend or expect and the associated activities team members should consider deploying to achieve that outcome. Start by defining the outcomes, and layer in the acclivities where appropriate. 
+<!-- The outcomes and related activities table above should capture the outcomes and the associated activities (recommended, or required) team members should consider deploying to achieve that outcome. Start by defining the outcomes, and layer in the acclivities where appropriate. If an activity is required designate it in **bold**. 
 
 example: 
 
