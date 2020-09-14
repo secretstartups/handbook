@@ -10,9 +10,11 @@ category: License and subscription
 - TOC
 {:toc .hidden-md .hidden-lg}
 ## Overview
+
 Refer to this page when a user has questions/issues related to transactions, licensing or billing for self-managed or GitLab.com. Note the information on this page applies to both Self-Managed and GitLab.com users/products unless specifically indicated as an exception.
 
 ## Issue Trackers
+
 The list of common requests/issues below is reference for internal support engineers. Unless specifically noted, utilize the following issue tracker decision table for submitting issues.
 
 | Issue Tracker |Use Case |
@@ -22,7 +24,13 @@ The list of common requests/issues below is reference for internal support engin
 | [Customers Portal](https://gitlab.com/gitlab-org/customers-gitlab-com/issues) | Issue is caused specifically by something within the Customers Portal    |
 | [License App](https://gitlab.com/gitlab-org/license-gitlab-com/issues) | Issue is affecting self-managed license generation or generated licenses    |
 
+## License Vs Subscription Explained
 
+For self managed, a license is an artefact that customers need to upload to their instance to have access to the paid features in their subscription. This doesn't exist and is not needed for Gitlab.com subscriptions.
+
+For GitLab.com, there is no artefact to be uploaded but the subscription (seen in the customer portal) has to be linked to their namespace (on GitLab.com). If the portal and Gitlab.com don't have the link, then, GitLab.com won't know that a subscription exists.
+
+Also, subscription is an umbrella term for the base product purchased: for instance, if `subscription` is a fruit, then `Premium` (self-managed), `Silver` (Gitlab.com) etc would be types of fruits that can be purchased.
 
 ## Transactions
 

@@ -41,24 +41,19 @@ For reviews with a "satisfaction::bad" rating, follow this process.
 * **Contact user to discuss feedback? (Y/N)** 
 ```
 
-2. Apply **one** `feedback` project label that best describes the situation:
+2. Apply the `feedback` [scoped label](https://docs.gitlab.com/ee/user/project/labels.html#scoped-labels) that best describes the situation:
 
-   * feedback::process
-     - Support process not followed/does not exist
-   * feedback::tech-skills
-     - Technical skills lacking to resolve/work around problem
-   * feedback::soft-skills
-     - Wording of responses and/or mishandling of the user/account 
-   * feedback::docs-issue
-     - Documentation not helpful or missing
-   * feedback::product-issue
-     - Bug and/or feature not working as expected
-   * feedback::known-issue
-     - Known issue with Issue already created  
-   * feedback::lacking-info
-     - Not enough information supplied to progress investigation in ticket
-   * feedback::customer-resolved
-     - The customer resolved the ticket
+| Label | Description |
+| ----- | ----------- |
+| `~feedback::customer-resolved` | The customer resolved the ticket |
+| `~feedback::docs-issue` | Documentation not helpful or missing |
+| `~feedback::known-issue` | Known issue with Issue already created |
+| `~feedback::lacking-info` | Not enough information supplied to progress investigation in ticket |
+| `~feedback::outside-support` | Problem internal to GitLab but not directly by Support |
+| `~feedback::process` | Support process not followed/does not exist |
+| `~feedback::product-issue` | Bug and/or feature not working as expected |
+| `~feedback::soft-skills` | Wording of responses and/or mishandling of the user/account |
+| `~feedback::tech-skills` | Technical skills lacking to resolve/work around problem |
 
 **Note:** For the full list of feedback labels and their descriptions, visit the [labels page in the support-feedback project](https://gitlab.com/gitlab-com/support/feedback/-/labels?utf8=%E2%9C%93&subscribed=&search=feedback%3A%3A).
 
@@ -79,15 +74,18 @@ If further discussion is warranted, leave the Feedback Issue open. Otherwise, `/
 If you feel like the user should be contacted:
 
 1. Send the user an email from your GitLab email address. Make sure you do the following:
- - introduce yourself, describing who you are and your role at GitLab
- - note the specifics of the situation, including ticket ID
- - restate and validate the customer's comments
- - offer any apologies or clarifications required, including links to relevant documentation
- - if appropriate, offer your Calendly link to schedule a video call
+   1. introduce yourself, describing who you are and your role at GitLab
+   1. note the specifics of the situation, including ticket ID
+   1. restate and validate the customer's comments
+   1. offer any apologies or clarifications required, including links to relevant documentation
+   1. offer your Calendly link to schedule a video call
 
-2. Add the text of your email as a comment in the Feedback Issue. Once you've done this, `/close` the Feedback Issue; followup can continue via email.
+2. Update the Feedback Issue as follows:
+   1. Add the text of your email as a comment in the Feedback Issue.
+   1. Apply the label `~ssat-manager-contacted-customer`.
+   1. `/close` the Feedback Issue; followup continues via email.
 
-3. If there are any additional actions that arise from your interaction with the user, go back and note them in the Feedback Issue.
+3. After closing the Issue, if there are any additional actions that arise from your interaction with the user, go back and note them in the Feedback Issue.
 
 ### What does success look like?
 At the end of your rotation:

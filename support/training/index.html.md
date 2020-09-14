@@ -81,7 +81,8 @@ It is recommended that you complete the modules in the order listed, unless an i
 | [Git & GitLab Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Git-GitLab-Basics.md) | 1 Week | Understand our products and services |
 | [Gitlab Support Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/GitLab-Support-Basics.md) | 1 Day | Understand how GitLab Support operates and the most common workflows |
 | [ZenDesk Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Zendesk-Basics.md) | 1 Day | Utilize ZenDesk to perform ticket management |
-| [Customer Emergencies](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Customer-Emergencies.md) | 1 Week | Understand the general responsibilities of the Customer Emergencies On-Call (not manager-specific) |
+| [Customer Emergencies](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Customer-Emergencies.md) | 1 Week | Understand the responsibilities of being on-call for Customer Emergencies |
+| [SSAT Reviewing Manager](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/SSAT-Reviewing-Manager.md) | 1 day | Understand how to handle Support Satisfaction feedback results |
 
 When the Area of Focus module is complete, let your manager know that you are ready to join the appropriate On-Call rotations. (Your Support Manager Onboarding Issue contains the instructions for this step.)
 

@@ -56,8 +56,9 @@ on Slack and someone will share the calendar with you.
 'Support - Time Off' calendar
    1. In Slack, click the `+` sign next to 'Apps' at the bottom of the left sidebar
    1. Search for 'PTO Ninja' and click 'View'
-   1. Under 'Home', click on 'Connect your calendar'
-   1. Click on 'Allow' and complete the actions to sync your calendar to PTO Ninja
+   1. Under 'Home', click on 'Your Events' to show a dropdown
+   1. Click on 'Calendar Sync' under the Settings break
+   1. Click on 'Connect your Calendar' and complete the actions to sync your calendar to PTO Ninja
       - You will see a 'Success! Your calendar has been connected.' message and
         your calendar listed under 'Your synced calendar' in PTO Ninja on Slack
       - ***NOTE: this also serves to block your availability in Calendly***
@@ -84,6 +85,7 @@ absence.
 ##### Start with these steps for all absences of at least half a day
 
 1. Use PTO Ninja to schedule the time
+
    PTO Ninja uses your calendar links to block off time in your Google Calendar,
    which has the cascading effect that Calendly will also show you as busy. As a
    result:
@@ -98,11 +100,13 @@ absence.
 ##### Then, for absences of one or two days
 
 1. Check with your customers
+
    For any tickets that will still be open and active during your absence, and
    that might require an update during that time, ask the customer whether they
    would prefer to pause the ticket till your return or have someone else step
    in to work with them. If they want to pause, put the ticket on hold.
 1. Groom your queue
+
    For each ticket that won't be on hold, create an internal comment summarizing
    the status and plan. Specifically, be sure to include:
    - A concise statement of the problem or request

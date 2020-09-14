@@ -31,7 +31,7 @@ title: Metrics Analysis Workgroup
 ## Exit Criteria
 - Define conditions under which this workgroup will be reformed. => 0%
 - Create a dashboard that exposes metrics and targets that will trigger actions on part of the support team (including forming this group) => 50%
-- Document common hypothesis and expose the data to support/refute them. => 10%
+- Document common hypothesis and expose the data to support/refute them. => 30%
 
 ## Roles and Responsibilities
 
@@ -45,3 +45,8 @@ title: Metrics Analysis Workgroup
 
 ## Artifacts
 
+1. [Support KPIs Dashboard](https://gitlab.zendesk.com/explore/dashboard/593393F9EDD57F39F9745F442B691EEAD106AA49B6C907D3D50046FBB4AC151E/tab/12396352) to breakdown top-level KPIs
+1. [Metrics Project](https://gitlab.com/gitlab-com/support/metrics/) to track hypothesis.
+1. [Metrics Hypothesis Board](https://gitlab.com/gitlab-com/support/metrics/-/boards/2007128) to track outstanding hypothesis
+1. [FY21-Q3 Working Group Milestone](https://gitlab.com/gitlab-com/support/metrics/-/milestones/1) to show a burndown chart.
+1. 
