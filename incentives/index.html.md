@@ -144,7 +144,6 @@ We are currently testing a new process through slack for bonus requests. Please 
   * United States: "Payroll Changes", Contractors: "Non-US contractor bonus changes", Everyone else: "Monthly payroll changes for non-US international team members".
 
 ##### Nominator Bot Process
-This process is currently being tested by the People group. Although everyone can access it. 
 
 **Any GitLab team member**
 1. Go to Slack and type `/nominate name of the team member`
@@ -158,6 +157,8 @@ This process is currently being tested by the People group. Although everyone ca
 1. When you decide to approve, all you need to do is click the approve button. The bot will take care of the next steps (sending it to the second level manager, PBP, Total Rewards team)
 1. When you decide to reject, click the reject button. The nomination will be updated as `rejected_by_manager`. The bot will ask you to reach out to the nominator as to make sure they understand why the nomination was not approved.
 1. When everyone else has approved, the bot will reach out to you so you can share this with the team member and share it in the Slack channel.
+
+_Note: If you received the same nomination twice (for the same person and the same reason), you may reject one. When you do this, please reach out to the team member who submitted the nomination to explain, and include the other nominator's name in the #team-member-updates announcement._
 
 **Approval flow**
 ```mermaid
