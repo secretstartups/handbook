@@ -13,7 +13,7 @@ At GitLab it's vital we ensure the data of our Customers, our team-members, and 
 
 With this in mind, GitLab Security will begin enforcing a list of approved Operating Systems and minimum Operating System versions for use at GitLab. This change will decrease the risk from the use of End-Of-Life or unapproved Operating Systems accessing locations which may contain sensitive data.
 
-Please see the [Data Classification Policy](/handbook/engineering/security/data-classification-policy.html) handbook page for further details on how different data types are classified.
+Please see the [Data Classification Policy](/handbook/engineering/security/data-classification-standard.html) handbook page for further details on how different data types are classified.
 
 ## Approved Operating Systems
 
