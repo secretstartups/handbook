@@ -37,7 +37,7 @@ actionable below.
 We take inspiration from other companies, and we always go for the [boring solutions](#boring-solutions).
 Just like the rest of our work, we continually adjust our values and strive to make them better.
 GitLab values are a living document.
-In many instances, they have been documented, refined, and revised based on lessons learned (and scars earned) in the course of doing business.
+In many instances, they have been documented, refined, and revised based on lessons learned (and scars earned) in the course of doing business. Our values help us sustain GitLab's culture as we grow.
 
 We used to have more values, but it was difficult to remember them all, so we condensed them and gave sub-values and created an acronym.
 
