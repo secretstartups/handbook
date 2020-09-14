@@ -144,7 +144,7 @@ To receive this reimbursement, GitLab team members should complete the following
 
 1. The team member should first discuss and receive approval from their manager.
 1. The team member should forward their manager's approval along with information on the English course including cost to the Total Rewards Analyst at total-rewards@domain.
-1. The Total Rewards Analyst will notify payroll to process the reimbursement by the second pay cycle after submission.
+1. The Total Rewards Analyst will notify payroll to process the reimbursement by the second pay cycle after submission, for Contractors they can add the amount to their monthly invoice and Payroll to be informed.
 
 Note: The above process is not required if the course is being offered to you at no cost.
 
