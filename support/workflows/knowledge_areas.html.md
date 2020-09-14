@@ -54,6 +54,7 @@ Topics are in alphabetical order with team members grouped by region.
 |               | EMEA   | Catalin <br> Segolene <br> Rehab <br> Alin <br> VladB <br> Joseph <br> Aakif                                                                                                |
 | Performance   | AMER   | Will <br> Cody West                                                                                                                                   |
 |               | EMEA   | Catalin <br> Alin                                                                                                                                     |
+| SSL           | AMER   | John                                                                                                                                     |
 
 ### Scripting Languages
 
@@ -218,13 +219,13 @@ This section is ordered by stage and group according to the [product categories 
 
 ##### Release Management
 
-| Topic                 | Region | Team Member                                      |
-| --------------------- | ------ | ------------------------------------------------ |
-| Release Orchestration | Amer   | JamesM                                           |
-| Secrets Management    | Amer   | JamesM                                           |
-| Release Evidence      | Amer   | JamesM                                           |
-| GitLab Pages          | Amer   | John <br> Keven <br> JamesM <br> Brie <br> Davin |
-|                       | EMEA   | Catalin <br> Rehab <br> Katrin                   |
+| Topic                 | Region | Team Member                                                |
+| --------------------- | ------ | ---------------------------------------------------------- |
+| Release Orchestration | Amer   | JamesM                                                     |
+| Secrets Management    | Amer   | JamesM                                                     |
+| Release Evidence      | Amer   | JamesM                                                     |
+| GitLab Pages          | Amer   | John <br> Keven <br> JamesM <br> Brie <br> Davin <br> Phil |
+|                       | EMEA   | Catalin <br> Rehab <br> Katrin                             |
 
 #### Configure
 

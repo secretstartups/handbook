@@ -18,7 +18,7 @@ It is part of Support's responsibility to determine whether this is due to a mis
 
 ## Finding the commit user
 
-For more information on using Kibana in general, please see [500 errors workflow](500_errors.htmld.md).
+For more information on using Kibana in general, please see [500 errors workflow](500_errors.html).
 
 To find the user who made the commit:
 

@@ -432,6 +432,22 @@ Artifacts of approval can include:
    - [How to Submit Code to the GitLab Application](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md)
    - [How to Submit Docs when working on customer issues](/handbook/documentation) (see 'docs-first methodology')
 
+### Slack Emoji Reaction Workflows
+
+Each Slack channel within Support has a number of [Workflows](https://slack.com/help/articles/360035692513-Guide-to-Workflow-Builder) attached to them that are used to provide information to users by reacting to their message with a specific emoji. The source files for each workflow live in the [slack-workflows](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows) project.
+
+- `#support_managers`
+  - [Ticket Escalation](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_managers_ticket_escalation.slackworkflow) - `:escalate:` - Directs the user to follow the proper procedure to escalate a support ticket or internal issue.
+- `#support_gitlab-com`
+  - [Ticket Escalation](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_gitlab_com_ticket_escalation.slackworkflow) - `:escalate:` - Directs the user to follow the proper procedure to escalate a support ticket or internal issue.
+  - [Question Redirect](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_gitlab_com_question_redirect.slackworkflow) - `:leftwards_arrow_with_hook:` - Directs the user to post their question in a more appropriate Slack channel.
+  - [Remove Link Preview](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_gitlab_com_remove_link_preview.slackworkflow) - `:slack:` - Politely asks the user to remove any unfurled link previews in their message.
+  - [Welcome](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_gitlab_com_welcome.slackworkflow) - This automated workflow automatically sends a direct message to new members of the channel that contains helpful information.
+- `#support_self-managed`
+  - [Ticket Escalation](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_self_managed_ticket_escalation.slackworkflow) - `:escalate:` - Directs the user to follow the proper procedure to escalate a support ticket or internal issue.
+- `#support_licensing-subscription`
+  - [Ticket Escalation](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_licensing_subscription_ticket_escalation.slackworkflow) - `:escalate:` - Directs the user to follow the proper procedure to escalate a support ticket or internal issue.
+
 ### Support Fixes
 
 When working on merge requests for code or for documentation, apply the
@@ -454,37 +470,8 @@ All our Support Engineers have access to the GitLab Support Instance, whereas on
 A collection of best practices and suggestions for [styling and responding to Zendesk tickets](/handbook/support/workflows/how-to-respond-to-tickets.html).
 
 ### Time Off
-The Support Team follows [GitLab's paid time off policy](/handbook/paid-time-off). However, do note that if a large number of people are taking the same days off, you may be asked to reschedule. If a holiday is important to you, please schedule it early.
 
-In addition to the tips in [Communicating Your Time Off](/handbook/paid-time-off/#communicating-your-time-off) please also:
-- link your personal Google calendar to [PTO Ninja](/handbook/paid-time-off/#pto-ninja)
-  so a 'Busy' event will block your calendar automatically. This also serves
-  to block your availability in Calendly.
-- link [PTO Ninja](/handbook/paid-time-off/#pto-ninja) to the [**Support - Time Off**](https://calendar.google.com/calendar/embed?src=gitlab.com_as6a088eo3mrvbo57n5kddmgdg%40group.calendar.google.com)
-  calendar so PTO Ninja will add an entry automatically
-- if you're on-call, make sure you have coverage and that PagerDuty is up to date
-- reschedule any 1:1 meetings with your manager
-- add an agenda item during the team meeting before your time off
-- add an agenda item after you get back to let us know what you've been up to!
-- either specify your manager as the person who covers for you, or leave a note to ping `#support_managers` per [our escalation procedure](/handbook/support/internal-support/#i-want-to-draw-attention-to-an-existing-support-ticket)
-
-If you do not have access to the [**Support - Time Off**](https://calendar.google.com/calendar/embed?src=gitlab.com_as6a088eo3mrvbo57n5kddmgdg%40group.calendar.google.com) team calendar, please raise it in the `#support_team_chat` channel on Slack and someone will share it with you.
-
-You do **not** need to add time-off events to the shared calendar if you'll be gone less than half a day. *Do* consider blocking off your
-own calendar so that customer calls or other meetings won't be scheduled during your time away.
-
-If you need to go for a run, grab a coffee or take a brain break please do so without hesitation.
-
-#### Linking PTO Ninja to your personal and team calendar
-
-1. In Slack, click the `+` sign next to 'Apps' at the bottom of the left sidebar
-1. Search for 'PTO Ninja' and click 'View'
-1. Under 'Home', click on 'Connect your calendar'
-1. Click on 'Allow' and complete the actions to sync your calendar to PTO Ninja
-1. You will see a 'Success! Your calendar has been connected.' message and your calendar listed under 'Your synced calendar' in PTO Ninja on Slack
-1. After your personal calendar is linked, click 'Add calendar' under
-   'Additional calendars to include?'. The 'Support - Time Off' calendar ID is
-   `gitlab.com_as6a088eo3mrvbo57n5kddmgdg@group.calendar.google.com`
+*See the [Support Time Off page](/handbook/support/support-time-off.html)*
 
 ### Onboarding
 

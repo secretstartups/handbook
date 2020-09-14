@@ -106,9 +106,7 @@ Follow the steps for either [Users Mapped](#users-mapped) or [Users Not Mapped](
 
 ### Timing and scheduling ahead
 
-When customers request a specific time period for the imports to be done, they should *always* do a test import for each project and make note of how long it takes. It can be approximate, but should give everyone a clear idea of whether it's reasonable to be done within the given time period. Remember that both Support and Infra require additional time in addition to the actual import time.
-
-This is particularly true in cases where more than 1 project is required.
+When customers request a specific time period for the imports to be done, they should *always* do a test import for each project and make note of how long it takes. It can be approximate, but should give everyone a clear idea of whether it's reasonable to be done within the given time period. Remember that both Support and Infra require additional time in addition to the actual import time, and too short of a time interval might be interrupted by an incident.
 
 ### Users Mapped
 
@@ -188,22 +186,14 @@ Proceed in the following order:
 
 ### Import Scheduled
 
-If the import is scheduled for a future date and time:
+Note that the expectation from the Reliablity team is 5 business days of lead time to accomodate proper scheduling of the work.
 
-1. [Open an issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/new?issuable_template=import) in the Infrastructure tracker using the `Import` template with all available information.
+1. [Open an issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/new?issuable_template=Project%20Import) in the Infrastructure tracker using the `Project Import` template with all available information. This issue template will auto-assign the Reliability team managers and label the issue for triage.
 1. Add date/time with timezone (~1 hour later than expected time of receiving the import is recommended).
+    - If there is no scheduled time, use 5 business days from date of receipt with "anytime" for time.
 1. Add the infrastructure issue link as an internal note to the Zendesk ticket.
-1. Look up who will be oncall in [the PagerDuty SRE schedule](https://gitlab.pagerduty.com/schedules) and assign it to them.
 1. Once we receive a link to the export, update the issue with the link to the project.
 
-### Import ASAP
-
-If the import is requested as soon as possible:
-
-1. [Open an issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/new?issuable_template=import) in the infrastructure tracker using the `Import` template with all required information.
-1. Use today's date and "at earliest convenience" for the import time. Ping the [EOC](/handbook/engineering/infrastructure/incident-management/#engineer-on-call-eoc-responsibilities) on-call in [#production](https://gitlab.slack.com/archives/C101F3796) with the request.
-   - Example: `"Hi @sre-oncall, got an import request. Could you kick this off when you have a few minutes? ISSUE LINK"`
-1. Add the infrastructure issue link as an internal note to the Zendesk ticket.
 
 ## Stage 4: Cleanup
 

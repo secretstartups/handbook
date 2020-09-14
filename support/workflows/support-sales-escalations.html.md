@@ -16,7 +16,7 @@ There will be instances when Support will need to escalate a ticket to Sales/Cus
 
 An Account Owner is usually the customer's main point of contact for any renewal and expansion discussions.
 
-Use the finding the customer’s account owner workflow to locate the account owner. If there is no one listed, check to see if you can find the latest opportunity owner instead. If neither are available, reach out in the relevant channel without tagging anybody.
+Use the [finding the customer’s account owner](/handbook/support/workflows/looking_up_customer_account_details.html#finding-the-customers-account-owner) workflow to locate the account owner. If there is no one listed, check to see if you can find the latest opportunity owner instead. If neither are available, reach out in the relevant channel without tagging anybody.
 
 |Escalation Scenario|Channel|Relevancy|
 |--|--|--|
