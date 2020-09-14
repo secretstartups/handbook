@@ -101,6 +101,10 @@ TBA
 
 </details>
 
+### Project Access
+
+The Recruiting Operations and Insights team audits users and access level permissions of the Recruiting group on a monthly basis.
+
 ----
 ### Reporting
 
@@ -388,7 +392,16 @@ For an Ad Hoc report, please [create an Issue](https://gitlab.com/gl-recruiting/
 
 ----
 
+### Vendor Contracts and Renewals
+
+If a new vendor is being considered or, when a vendor contract is up for renewal, please [open an Issue](https://gitlab.com/gl-recruiting/operations/-/issues/new?issue) using the `Vendor Contract Request or Renewal` template. Please open this as early as possible so that there's ample time for benchmarking quotes and engaging in negotiations, if need be. A quote, while helpful, is **not**  needed prior to opening an Issue.
+
+In the Issue, please provide the requested information and as much detail as possible. For example, what the service is for, how many licenses will be needed, and the like. With that, the Recruiting Operations & Insights will takeover and prepare either a [Procurement Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new) for approval and see to its conclusion.
+
+----
+
 ### Common Issues
+
 The Recruiting Operations & Insights team utilizes [Recruiting Operations Issues](https://gitlab.com/gl-recruiting/operations/-/issues) to provide support for a variety of requests regarding systems support and access requests across Recruiting's systems.
 
 <details>

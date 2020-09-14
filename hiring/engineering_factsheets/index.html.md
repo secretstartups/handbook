@@ -325,7 +325,7 @@ Bartek Marnane (Director of Engineering, Growth)
 **How the team works** The overall vision for the Telemetry group is to ensure that we have a robust, consistent and modern telemetry data framework in place to best serve our internal Product, Sales, and Customer Success teams. The group also maintains the Version Check application as described above and also ensures that GitLab's Product team have the right analysis tool in place that allows the best possible insights into the data provided through the Collection tools.
 **Links to relevant Handbook pages:** 
 [Product categories page](/handbook/product/product-categories/#ops-section)
-[Telemetry Team Page](/handbook/engineering/development/growth/fulfillment/#team-members)
+[Telemetry Team Page](/handbook/engineering/development/growth/be-fulfillment/#team-members)
 [Backend Engineer job family](/job-families/engineering/backend-engineer/)
 [Engineering Workflow](/handbook/engineering/workflow/)
 [Backend Engineer job posting](/jobs/apply/backend-engineer-x-30-4055697002/)
@@ -337,10 +337,10 @@ Bartek Marnane (Director of Engineering, Growth)
 **Projected Team Size:** 5
 **Hiring Managers:**
 Chun Du (Director of Engineering, Enablement)
-[Product Vision page](/handbook/product/product-categories/#sts=Ecosystem%20group)
+[Product Vision page](handbook/product/product-categories/#ecosystem-group)
 [How the team works](/handbook/engineering/development/enablement/ecosystem/#mission)
 **Links to relevant Handbook pages:** 
-[Product categories page](/handbook/product/product-categories/#sts=Ecosystem%20group)
+[Product categories page](/handbook/product/product-categories/#ecosystem-group)
 [Ecosystem Team page](/handbook/engineering/development/enablement/ecosystem/#team-members)
 [Backend Engineer job family](/job-families/engineering/backend-engineer/)
 [Engineering Workflow](/handbook/engineering/workflow/)

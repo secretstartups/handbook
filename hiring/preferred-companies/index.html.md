@@ -267,7 +267,7 @@ GitLab is a single application for the complete DevOps Lifecycle. As such, we're
 * GitHub
 * Jenkins
 * Bamboo
-* TravisCI
+* Travis CI
 * CircleCI
 * CodeFresh
 * Codeship
@@ -482,8 +482,8 @@ Companies with a strong reputation in test engineering, and engineering producti
 * Houzz
 * Credit Karma
 * GitHub
-* Circle CI
-* Victor Ops
+* CircleCI
+* VictorOps
 * SauceLabs
 * Splunk
 * Puppet
@@ -509,7 +509,7 @@ We strive to hire globally at GitLab, and the Security Department is very much f
 
 * Rackspace
 * GoodData
-* Circle CI
+* CircleCI
 * New Relic
 * Zendesk
 * Digital Ocean

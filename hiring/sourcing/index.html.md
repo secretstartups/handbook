@@ -51,17 +51,14 @@ We encourage our team members to think out of the box and source creatively! For
 for example, we are looking for someone who has public speaking experience combined with specific tech expertise.
 Sourcer can go on Youtube and search for candidates who have spoken at the seminars or professional conferences before and try to search for the person's name and suitable ways to contact them.
 
-**I'm not from the recruiting team, I can only spend limited time in sourcing :(**
+**About Reaching Out to Candidates**
 
 When you have identified someone as a good potential candidate, send their
 profile along with any requested information to a Sourcer so they can reach out to 
 the candidate and add them to Greenhouse. You can check the Sourcer alignment
 [here](/handbook/hiring/recruiting-alignment/).
 
-**I'm not from the recruiting team, but I'd love to spend time in sourcing to support Gitlab's growth!! YAY!**
-
-If you want to reach out to a sourced candidate directly you can refer to our internal [Reach out Templates](https://docs.google.com/presentation/d/1ySqgLoYnFUGtb7hdywav6iSb_NBPRhfIs6WZlGne6Ww/edit?usp=sharing) or
-create your own message. Kindly discuss your communication strategy with your
+If you want to reach out to a sourced candidate directly you can refer to our internal [Reach out Templates deck](https://docs.google.com/presentation/d/1ySqgLoYnFUGtb7hdywav6iSb_NBPRhfIs6WZlGne6Ww/edit?usp=sharing), check out the internal [Sourcing emails repo](https://gitlab.com/gitlab-com/people-group/sourcing-emails) or create your own message. Kindly discuss your communication strategy with your
 Sourcing partner to avoid duplication and poor candidate experience.
 
 Take a look at these [talent brand resources](/handbook/people-group/employment-branding/#talent-brand-resources) for the latest team member count, employer awards, blog posts, and more facts about working at GitLab. These resources are meant to help guide your outreach to potential candidates.
