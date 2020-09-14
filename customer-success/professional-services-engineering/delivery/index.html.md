@@ -15,6 +15,8 @@ The purpose of this page is to describe the workflow governing delivery of profe
 
 ![ps-delivery-workflow](../PS-delivery-workflow.png)
 
+[Source](https://docs.google.com/presentation/d/1TOI2aoseBoyWYQC6-xpJVMknEncCNreSFfMvOHO7EBA/edit?usp=sharing),  internal only
+
 <!---Update this below
 GitLab professional services employs three different workflows that control projects for the following categories:  standard professional services, education, and dedicated engineers.  Each of these categories have unique attributes that warrant a different approach.--->
 
