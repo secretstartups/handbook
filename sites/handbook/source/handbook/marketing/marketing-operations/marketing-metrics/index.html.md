@@ -9,7 +9,15 @@ title: "Marketing Metrics"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Marketing Metrics Dashboard
+## Marketing Sisense Dashboards
+In [Sisense](https://app.periscopedata.com/app/gitlab/403199/Welcome-Dashboard-%F0%9F%91%8B) there are mutlipe marketing metric dashboards. You can quickly find the current source of truth dashboards by referencing the `Marketing` topic within Sisense. There are 3 topics that marketing leverages:   
+1. `Marketing` - These are the actively maintained dashboards.
+1. `Marketing-WIP` - These are the WIP dashboards. They can be viewed but are not reliable yet.
+1. `Marketing-Archive` - These are the archived/old dashboards. They are not to make decisions off of and no longer supported.
+
+Below you can find a few of the major dashboards in use and descriptions/links of/to them. 
+
+### Marketing Metrics Dashboard
 
 The [Marketing Metrics Dashboard](https://app.periscopedata.com/app/gitlab/431555/Marketing-Metrics) is the centralized hub of all major marketing metrics and [marketing KPIs](/handbook/marketing/revenue-marketing/#revenue-marketing-kpi-definitions). It is an evergreen source of information brought in from Salesforce that is comprised of numerous individual graphs/charts (defined below) and allows the viewer to quickly filter results using pre-defined filters on the dashboard itself.
 
