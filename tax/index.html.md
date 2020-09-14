@@ -113,10 +113,11 @@ At GitLab the supply of tangibles is non-existent while the other transaction ca
 | GitLab South Korea |    |           |            |  X  |     |     |
 | GitLab BV   |     X     |   X       |            |  X  |     |  X  |
 | GitLab IT BV|           |           |            |     |  X  |     |
-| GitLab Ltd  |           |           |            |  X  |  X  |     |
+| GitLab UK Ltd  |           |           |            |  X  |  X  |     |
 | GitLab GmbH |           |           |            |  X  |  X  |     |
 | GitLab PTY Ltd |        |           |            |  X  |  X  |     |
 | GitLab Canada Corp |         |           |            |  X  |  X  |     |
+| GitLab Ireland Limited |         |           |            |  X  |  X  |     |
 
 ### Transfer Pricing Concept
 #### Distribution, Sales & Marketing
