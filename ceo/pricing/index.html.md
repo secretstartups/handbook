@@ -382,16 +382,13 @@ This is the title of a [great article](https://codingvc.com/when-is-a-dollar-not
 
 ## Annual pricing is prioritized over monthly pricing
 
-Annual, up-front pricing is our priority and primary offering.
-
-We might enable monthly billing options for SaaS offerings, when packaged as part of a bundled monthly offering with partners.
-
-On the other hand, it might be simpler to only offer annual pricing.
-
-On [slide 7 of the 2020 Go To Market (GTM) Survey of Redpoint](https://docs.google.com/presentation/d/e/2PACX-1vTUqJyPtn3dQKP8YlmCwiSXgKNyCAe2qfAfkfh2R68rXCC_lhLlzhtJPQQjOCUP-fvPqAozCx1IoUTs/pub?start=false&loop=false&delayms=3000&slide=id.g8864de4371_0_264) it showed that Annual pricing was the majority from $5k up.
+Annual, up-front pricing is currently our only offering.
+All internal systems should show only annual pricing to keep comparisons simple.
+We do [show monthly pricing externally](#why-show-monthly-pricing-on-the-website).
 
 Arguments supporting annual up-front pricing:
 
+1. On [slide 7 of the 2020 Go To Market (GTM) Survey of Redpoint](https://docs.google.com/presentation/d/e/2PACX-1vTUqJyPtn3dQKP8YlmCwiSXgKNyCAe2qfAfkfh2R68rXCC_lhLlzhtJPQQjOCUP-fvPqAozCx1IoUTs/pub?start=false&loop=false&delayms=3000&slide=id.g8864de4371_0_264) it showed that Annual pricing was the majority from $5k up.
 1. It helps to recover the costs of acquiring, onboarding, and supporting a customer.
 1. It enables reinvestment to speed delivery of new product capabilities for customers.
 1. It aids customer self-selection and commitment to drive to successful deployment and enough time to see successful outcomes with the product.
@@ -404,14 +401,14 @@ Arguments supporting annual up-front pricing:
 1. Annual pricing lends to a more simple revenue recognition model where consumption is not relevant since revenue is recognized evenly over the course of the term. To get the equivalent with monthly pricing you need a 'use it or lose it' condition per month, while the industry standard is to allow carry-over into the next month.
 1. It helps to reduce churn with SMB customers, as that has been a problem in the industry.
 
-Arguments supporting monthly pricing
+Arguments supporting also offering monthly pricing:
 
 1. Monthly billing gives customers another way to buy and thus reduces barriers to adoption of the product.
 1. Monthly pricing can align with billing of combined or dependent products/services that are already billed monthly. (ex: if bundled with another monthly service)
 
 ## Why show monthly pricing on the website
 
-Almost all SaaS products show monthly pricing on their pricing pages. GitLab shows [monthly pricing on the website](/pricing/) and notes that it is billed annually. This is also a standard practice followed by companies like [Salesforce](https://www.salesforce.com/editions-pricing/sales-cloud/). We previously have tried showing annual pricing on the website, but repeatedly heard from customers that they were confused by it. They often thought our product was priced significantly higher than it actually was because they expected the pricing to be displayed in monthly units and read the annual price as though it were per month.
+Almost all SaaS products show monthly pricing on their pricing pages. GitLab shows [monthly pricing on our website](/pricing/) and notes clearly that it is billed annually. This is also a standard practice followed by companies like [Salesforce](https://www.salesforce.com/editions-pricing/sales-cloud/). We previously have tried showing annual pricing on the website, but repeatedly heard from customers that they were confused by it. They often thought our product was priced significantly higher than it actually was because they expected the pricing to be displayed in monthly units and read the annual price as though it were per month.
 
 ## Only sell a suite
 
