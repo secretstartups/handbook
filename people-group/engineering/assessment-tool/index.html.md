@@ -4,7 +4,6 @@ title: "Assessment Tool"
 ---
 
 ## On this page
-
 {:.no_toc}
 
 - TOC
@@ -48,6 +47,15 @@ As an individual contributor, you don't need to do anything. Your manager will b
 It is recommended you first read up on [what 9 box assessments at GitLab are](https://about.gitlab.com/handbook/people-group/performance-assessments-and-succession-planning/).
 
 Once you're ready, you need to create an account (see "Creating an Account" section) and can start doing the assessments.
+When you save the assessments, they will be visible for your manager (and their manager and so on).
+
+Note: that for directors and up, there is an extra option to **confirm** the assessments. This is a way to say that the assessment
+has been *approved*. In a future iteration, we could decide to send the box to BambooHR (like we do for compa level). 
+
+#### As a People Business Partner
+If you have any direct reports, you will also be able to use the tool to assess your team members. However, you will also have access
+to assess all the team members that are within your PBP responsibilities. Currently we decided that you have full access to also
+assess these team members - instead of just giving read access to this data.
 
 ### Feedback and/or Bugs
 

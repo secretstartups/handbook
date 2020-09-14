@@ -41,7 +41,7 @@ the following in a CSV file:
 This CSV file is then uploaded to a S3 bucket that is maintained by Modern Health. They process the file
 so the team members can have access to Modern Health
 
-## CI Job Families Inclusivenes Check
+## CI Job Families Inclusiveness Check
 Whenever a merge request is created on the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/) project, we run a pipeline that checks for 
 inclusive language in the job families. We use an open source [Ruby gem](https://gitlab.com/lienvdsteen/linter) to perform this check.
 

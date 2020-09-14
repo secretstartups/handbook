@@ -14,7 +14,7 @@ title: Understanding SOCIAL STYLES
 On this page, we will detail a unique approach developed by the [TRACOM Corporation](https://tracom.com/social-style-training/model#) called SOCIAL STYLES&reg; that can be used by Managers and Individual Contributors. It is a framework to improve interpersonal effectivess and [emotional intelligence](/handbook/people-group/learning-and-development/emotional-intelligence/) across remote teams at GitLab. As a Manager, you can be more effective in your relationships with other people if you learn to focus on their behavior in an objective fashion. SOCIAL STYLES is a structured approach for observing, understanding, and anticipating an individual's behavior. Managing in an all-remote company comes down to trust, communication, and [company-wide support of shared goals](https://about.gitlab.com/company/culture/all-remote/management/). Read this page to understand each one of your teammates unique SOCIAL STYLE. 
 
 ## Copyright/Trademark Recognition Statement
-Used with permission of TRACOM Group. All rights reserved. SOCIAL STYLE is a service mark of TRACOM GROUP. The SOCIAL STYLE MODEL is a registered trademork of TRACOM Group. The phrase SOCIAL STYLEs is required to be capaitalized when used due to copyright rules. 
+Used with permission of TRACOM Group. All rights reserved. SOCIAL STYLE is a service mark of TRACOM GROUP. The SOCIAL STYLE MODEL is a registered trademark of TRACOM Group. The phrase SOCIAL STYLEs is required to be capaitalized when used due to copyright rules. 
 
 ## Why we need SOCIAL STYLES
 
@@ -33,7 +33,7 @@ The one thing that all teams have in common is individuals. No matter what kind 
 
 ## Managing with style
 
-What seperates great managers from good ones is the ability to treat each team member as individuals while focusing on their unique strengths and areas of improvement. People who have different styles have different preferences and ways of working. When managed ineffectively, these differences can be the source of dissatisfaction, conflict, and a breakdown in team effectiveness. However, when managed with skill, team members style differences can lead to creativity, focus, energy, and better performance. A manager can handle team interpersonal interactions by applying the SOCIAL STYLES framework so that the performance of the team can be enhanced. 
+What separates great managers from good ones is the ability to treat each team member as individuals while focusing on their unique strengths and areas of improvement. People who have different styles have different preferences and ways of working. When managed ineffectively, these differences can be the source of dissatisfaction, conflict, and a breakdown in team effectiveness. However, when managed with skill, team members style differences can lead to creativity, focus, energy, and better performance. A manager can handle team interpersonal interactions by applying the SOCIAL STYLES framework so that the performance of the team can be enhanced. 
 
 ## Scales of behavior and the four styles
 
@@ -87,7 +87,7 @@ There are four styles related to the SOCIAL STYLE model. Each style represents a
 <details>
 <summary>The Driving Style</summary>
 
-  Team members that are classified as Drivers are action oriented that prefer fast-paced and structured enviornments.
+  Team members that are classified as Drivers are action oriented that prefer fast-paced and structured environments.
 
   <b>Characteristics of a Driver:</b>
   <ul>
@@ -281,7 +281,7 @@ The left hand side represents your style while the top represents your counterpa
 
 Interested in learning about your own SOCIAL STYLE and those of your team? Below are five steps you can take as an individual contributor or a people manager to better understand your people. 
 
-1. **Complete the Self-Assessment** - Discover yourself using this link to a [PDF version of the self-assessment](https://www.iths.org/wp-content/uploads/SELF-ASSESSMENT_OF_SOCIAL_STYLES.pdf). Download the PDF and fill in for yourself. Once you have completed the assessment, determine your score and associated style. 
+1. **Complete the Self-Assessment** - Discover yourself using the [web based self-assessment](https://samdbeckham.gitlab.io/social-styles/). You can also use the [PDF version of the self-assessment](https://www.iths.org/wp-content/uploads/SELF-ASSESSMENT_OF_SOCIAL_STYLES.pdf). Download the PDF and fill in for yourself. Once you have completed the assessment, determine your score and associated style. 
 
 2. **Reflection** - Reflect briefly on your result. What is your Social Style?
 
@@ -289,7 +289,7 @@ Interested in learning about your own SOCIAL STYLE and those of your team? Below
 
 4. **Share** - Share the assessment with teammates who have not taken the assessment.
 
-5. **Aggregate Results** - Maintain a centralized location where exisiting and new team memebers can view individual social styles. 
+5. **Aggregate Results** - Maintain a centralized location where exisiting and new team members can view individual SOCIAL STYLEs. 
 
 **Sample Slack Message for Managers to send to their team to complete the assessment:**
 
@@ -304,7 +304,7 @@ Once you know your team's SOCIAL STYLE, what do you do next?
 
 ## Example of putting styles into practice
 
-Below is an example of Persona that is used to show how social styles can be put into practice as a Manager within GitLab. **Personas's are a tool to show a representation of the target audience**. In this example, we've applied the SOCIAL STYLES framework to a ficitious manager at GitLab and how they could use the assessment within their team to personalize a management approach. Personas are archetypical users whose goals and characteristics represent the needs of a larger group. In this example, Managers. However, we can use personas for any audience at GitLab and beyond.  
+Below is an example of Persona that is used to show how SOCIAL STYLEs can be put into practice as a Manager within GitLab. **Personas's are a tool to show a representation of the target audience**. In this example, we've applied the SOCIAL STYLES framework to a ficitious manager at GitLab and how they could use the assessment within their team to personalize a management approach. Personas are archetypical users whose goals and characteristics represent the needs of a larger group. In this example, Managers. However, we can use personas for any audience at GitLab and beyond.  
 
 Use the persona as a roadmap to implementing the SOCIAL STYLEs assessment within your team. 
 
@@ -322,6 +322,20 @@ There are three factors that distinguish a [crucial conversation](https://www.am
 [Managing Underperformance](/handbook/underperformance/) is an example of having a crucial conversation. Team members and managers can apply the social styles framework to managing underperformance. Managers can break down barriers by getting to know their people on personal level. Different team members (different styles) have different cues when addressing a difficult conversation. Let's take Underperformance, for example, a Manager (Expressive) style has a direct report with an Analytical style. During a meeting to address the underperformance, the Manager shares data on the underperformance while providing tasks with details on how to resolve. The direct report can seem withdrawn and detached. Since the Manager knows this is an attribute of the Analytical style, they can be more likely to resolve the underperformance in a crucial conversation. 
 
 There are many applications of the SOCIAL STYLES model for working with teams. From managing conflict to coaching & mentoring, to managing up, to having crucial conversations. The applications are endless. 
+
+Check out the short animated video below to see an example of applying SOCIAL STYLEs to managing underperformance: 
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/4sYDzwvhlsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+During Week 1 of our [Manager Challenge Pilot](/handbook/people-group/learning-and-development/manager-challenge/#week-1), we had a course covering how to Manage Underperformance Using SOCIAL STYLEs. The [slide deck](https://docs.google.com/presentation/d/1Cjx6UJ4p4lvOM780GaThx9CwHG0txGAWt829LaiqFq0/edit?usp=sharing) and [meeting agenda](https://docs.google.com/document/d/1Y2tLbuqvlIZmSGjND1nJeNnKdvDS7rZUCcAvu8dWx8Y/edit?usp=sharing) follow along with the session. 
+
+A recording of the first of two sessions can be found here: 
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/96F___ZpanI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
 ## Additional Resources on SOCIAL STYLES
 

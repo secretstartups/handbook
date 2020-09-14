@@ -15,7 +15,7 @@ The People Experience Team hosts a pre-onboarding call known as the Ta-New-Ki ca
 
 This call occurs every two weeks on Monday at two times to account for timezones. 
 - 12:00am PT
-- 08:00am PT
+- 08:30am PT
 For current team members: To add the invite to your calendar, review the GitLab Team Meeting Calendar. 
 For future team members: You will recieve an email with the future dates. 
 
@@ -93,18 +93,18 @@ These templates are used by the People Experience team to onboard new team membe
 #### Role Specific Templates 
 These are added to the "All Team Member" Template 
 
-- [People Managers](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md#people-managers)
+- [People Managers](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/people_manager.md)
 - [Engineering, such as Developers, Build, Infrastructure, etc.](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding.md#for-engineering-such-as-developers-build-infrastructure-etc-only)
 - [Development](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_development.md)
 - [Production and Database Engineering](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md#production-and-database-engineering)
 - [Database Engineering](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md#database-engineering)
-- [Support](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding.md#for-support-only)
-- [Community advocates](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md#community-advocates)
+- [Support](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_customer_support.md)
+- [Community advocates](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_community_relations/role_community_advocate.md)
 - [Product Design](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md#product-designers)
 - [Product Design Managers](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md#product-design-managers)
 - [Frontend Engineering](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md#frontend-engineers)
 - [Product Management](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_product_management.md)
-- [UX Researchers](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md#ux-researchers)
+- [UX Researchers](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_ux/role_ux_researcher.md)
 - [Marketing Design](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md#marketing-design)
 - [Security](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_security.md)
 - [Finance](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_finance.md)
@@ -122,7 +122,7 @@ These are added to the "All Team Member" Template
 - [Alliances](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_alliances.md)
 - [Business Operations](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_business_operations.md)
 - [Demand Generation](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_demand_generation.md)
-
+- [Technical Account Manager](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_customer_success/role_technical_account_manager.md)
 
 ### Supplemental onboarding issue templates
 
