@@ -213,7 +213,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2020-09-08 | 2020-09-11 | [Shawn Winters](https://gitlab.com/ShawnWinters) - Acceleration SDR | [Francis Potter](https://gitlab.com/francispotter) - Sr. Solution Architect |
 | 2020-09-14 | 2020-09-18 | [Chris Baus](https://gitlab.com/chris_baus) - Engineering Manager, Fulfillment | [Shawn Winters](https://gitlab.com/ShawnWinters) - Acceleration SDR |
 | 2020-09-21 | 2020-09-25 | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend | [Chris Baus](https://gitlab.com/chris_baus) - Engineering Manager, Fulfillment |
 | 2020-09-28 | 2020-10-02 | [Madeline Hennessy]((https://gitlab.com/mhennessy) - Area Sales Manager US East, SMB | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend |
@@ -946,3 +945,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2020-08-10 | 2020-08-21 | [Amy Brandenburg](https://gitlab.com/abrandenburg) | Technology Alliances Manager |  |
 | 2020-08-17 | 2020-08-28 | [Sam White](https://gitlab.com/sam.white) | Senior Product Manager, Defend |  |
 | 2020-08-24 | 2020-09-04 | [Mike Miranda](https://gitlab.com/mikemiranda) | Account Executive, SMB |  |
+| 2020-08-31 | 2020-09-11 | [Francis Potter](https://gitlab.com/francispotter) | Sr. Solution Architect | |
