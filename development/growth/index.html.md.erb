@@ -274,13 +274,29 @@ The duration of each experiment will vary depending on how long it takes for exp
 ### Analyze Results
 
 ### Experiment Flow
-<!--
-1. Step one
-1. Step two
-1. Step three
---OR--
-Use a table similar to the one for the development flow
--->
+
+#### Rough outline of process
+
+1. Anybody has an idea of something to try (i.e., an experiment)
+1. They begin an experiment definition issue, filling in what they can of the current state, their idea (i.e. hypothesis), and what a successful outcome might look like
+1. PM reviews experiment definition issues regularly to ensure they meet the necessary criteria of a well-defined experiment
+1. PM works with UX & Engineering to ensure experiment definition (mainly hypothesis & success/failure metrics) meets the requirements for moving forward
+   - experiment definitions that meet our standard and are deemed relevant & worthwhile move on to the next phase
+   - experiment definitions that do not meet our standard or are deemed no longer relevant or worthwhile simply get closed
+1. PM creates an epic for the experiment, linking to the original experimentation definition, and pulling in the final experiment definition from that original exp. definition issue as the epic’s description (this is still subject to change but now it will change in the epic rather than the exp. def. issue)
+1. PM works with UX and Engineering to begin generating issues from the experiment definition
+1. PM works with data ingest team to begin setting up data pipeline flow for new data points
+1. PM adds a new experiment key via the experimentation tooling UI (TBD)
+1. UX creates mockups of UI and UX flows for experiment, working with the PM, a Technical Writer, and Engineering
+1. Engineering creates issue(s) based on UX work & the new experimentation key the PM set up
+1. Engineering works through MRs to fulfill the needs of the experiment
+1. Engineering moves experiment forward to next phase once all MRs have been merged and deployed to production
+1. PM enables experiment via experimentation tooling UI (TBD) and sets up the strategy & rollout
+1. PM monitors experiment via data sent to Sisense, adjusting the rollout & strategy as necessary
+1. PM compares recorded data to the experiment’s definition of success/failure criteria
+   - if experiment (variant) is successful, PM/Engineering create a clean-up issue to go with the successful flow
+   - if experiment (all variants) are unsuccessful, PM/Engineering create a clean-up issue to remove the experimentation code, reverting back to the “control” flow
+1. The experiment process is complete
 
 ### Experiment Issue Boards
 Experiments are tracked on Growth - Experiments boards by group:
