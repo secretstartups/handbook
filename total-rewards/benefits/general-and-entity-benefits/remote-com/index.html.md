@@ -36,7 +36,7 @@ Under the Remote Technology scheme, the employer and member both pay **5% each t
     * Fund for the education costs of the surviving children
 * Upon the death of the member, spouse or child, a benefit payment equal to the amount of the Funeral Cover will be made. 
 * The sum assured for this benefit is up to R30,000
-* This benefit is 100% contributed and covered by the employer (Remote).    
+* This benefit is 100% contributed and covered by Remote.    
 
 ### Disability - Income Continuation Benefit
 
@@ -44,7 +44,7 @@ Under the Remote Technology scheme, the employer and member both pay **5% each t
 * Disability refers to injury, illness or disease that has resulted in a member being unable to perform his or her own job based on objective medical criteria.
 * Due to changes in the tax treatment of income protection benefits, the disability income benefit will be calculated on a flat **75% of member salary**, but subject to a maximum of the team members’s net of tax salary or specified rand maximum including any retirement fund waiver benefits.
 * The 75% income continuation will come into effect from the **4th month** of the leave.
-* This benefit is 100% contributed and covered by the employer (Remote).
+* This benefit is 100% contributed and covered by Remote.
 
 ### Disability - Severe Illness
 
@@ -52,7 +52,7 @@ Under the Remote Technology scheme, the employer and member both pay **5% each t
 * Sum assured of this benefit is twice the annual salary of the team member (2 x Annual Salary).
 * Discovery Life provides insurance to cover team member against the impact of a severe illness. The Severe Illness Benefit pays a lump sum if a team member is diagnosed with a covered physiological or anatomical severe illness. The claim payment is proportional to the severity of the illness, with severity levels that have been set to reflect the financial impact of the illness on their lifestyle.
 * The lump sum benefit provides financial assistance to ensure that the team member can maintain their lifestyle after a life-changing event. This could mean having their homes modified to accommodate their injury or illness, or reinvesting the money to replace the monthly income they can no longer earn
-* This benefit is 100% contributed and covered by the employer (Remote).
+* This benefit is 100% contributed and covered by the Remote.
 
 For more details on benefits managed by Discovery: [Remote Technology Employee Benefits](https://gitlab.com/gitlab-com/www-gitlab-com/uploads/bfd6b16936b7cfaccc8fe0992bd7271f/ZA_Remote_Technology.pdf)
 
