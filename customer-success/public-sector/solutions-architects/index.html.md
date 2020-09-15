@@ -20,7 +20,7 @@ Because specific requirements and common engagement practices differ from Enterp
 The GitLab Support Team provides [U.S.-based support](https://about.gitlab.com/support/#us-federal-support) for those customers that require U.S. citizens to work their support tickets.
 
 - The user that submits the ticket needs to be associated with the appropriate account in SFDC.
-- All accounts and user information gets synched between SFDC and Zendesk on an hourly bases under the conditions detailed on the [Support Ops page](https://about.gitlab.com/handbook/support/support-ops/responsibilities.html#sfdcus-federal-zendesk-sync).
+- All accounts and user information get synched between SFDC and Zendesk on an hourly basis under the conditions detailed on the [Support Ops page](/handbook/support/support-ops/responsibilities.html#sfdcus-federal-zendesk-sync).
 - All communications with support will be asynchronous, unless a synchronous call is requested by the Technical Account Manager and/or Solutions Architect for that account.
 - Only customers designated as Public Sector in SFDC are eligible for Federal Support.
 
@@ -41,6 +41,7 @@ When the opportunity progresses to stage 4, the technical close plan is complete
 ## Best Practices for writing RFx responses
 
 Responding to a Request for _____ (RFx) is part of the standard process within Public Sector. RFx is a general category that includes Request for Information, Request for Proposal, Request for Quote, etc. RFIs are generally less structured than RFPs. While RFQs rarely need technical write ups, occasionally technical input is required, especially if the RFx requests an `or alike` product.
+
 ### Evaluating RFI and RFPs for response
 
 Solutions Architects have a big role in responding to RFIs and RFPs where there are considerable number of technical asks.  There is a saying used commonly when responding `Make sure you answer the mail`. This has two connotations:
