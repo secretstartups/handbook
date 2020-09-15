@@ -189,7 +189,7 @@ For more information on how the entire process works for security releases, see 
   - Edit the description and click on the **Remove the WIP: prefix from the title** button.
   - Assign it to the suggested reviewer(s) from [Reviewer Roulette](https://docs.gitlab.com/ee/development/code_review.html#reviewer-roulette). If there are reviewers for multiple categories, for example: frontend, backend and database, assign all of them. Alternatively, assign someone who specifically needs to review. When assigning, also @mention them in the comments, requesting a review.
   - (Optionally) Unassign yourself from the MR.
-     - Some may find leaving the MR assigned to themselves easier to track the MRs they are responsible for by using the built in MR button/notification icon in the GitLab navigation bar.
+      - Some may find leaving the MR assigned to themselves easier to track the MRs they are responsible for by using the built in MR button/notification icon in the GitLab navigation bar.
   - Change the workflow label of the issue to `workflow::In review`. If multiple people are working on the issue or multiple workflow labels might apply, consider breaking the issue up. Otherwise, default to the workflow label farthest away from completion.
   - Potentially, a reviewer offers feedback and assigns back to the author.
   - The author addresses the feedback and this goes back and forth until all reviewers approve the MR.
