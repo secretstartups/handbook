@@ -208,7 +208,7 @@ In order to post or have a message posted in #company-fyi, please reach out to y
 
 ### Posting in #whats-happening-at-gitlab
 
-Due to the volume of posts that slack channel receives we recommend that you do not use #whats-happening-at-gitlab as a sole location for important annoucements. Information can get lost and people might mute that channel.
+Due to the volume of posts in the slack channel, we recommend that you do not use #whats-happening-at-gitlab as a sole location for important annoucements. Information can get lost and people might mute that channel.
 
 **We recommend you *re-post* the following items in locations outside of #whats-happening-at-GitLab**
 
