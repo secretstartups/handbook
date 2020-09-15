@@ -206,6 +206,23 @@ In order to post or have a message posted in #company-fyi, please reach out to y
 
 **The above should now all go in the new #whats-happening-at-GitLab channel** (formerly the #company-announcement channel)
 
+### Posting in #whats-happening-at-gitlab
+
+Due to the volume of posts that slack channel receives we recommend that you do not use #whats-happening-at-gitlab as a sole location for important annoucements. Information can get lost and people might mute that channel.
+
+**We recommend you *re-post* the following items in locations outside of #whats-happening-at-GitLab**
+
+1. Anything involving GitLab team member policy, such as changes in benefits, laws, review cycles, etc.
+1. Urgent matters that can't wait for #company-fyi but still need to be communicated to everyone such as service outages.
+1. Last minute changes of schedule or availability for GitLab events and programs. Examples of this might include Contribute, Commit, and CEO shadows.
+
+**Before you post in #whats-happening-at-gitlab, please consider the following:**
+
+1. Reference the guide above for [How to make a Companywide Announcement](#how-to-make-a-companywide-announcement).
+1. Will this impact a large audience? 
+1. Is this information timely? Is the time to act now?
+1. Should this actually be posted in #company-fyi?
+
 ### Top misused terms
 
 Please see our [Top misused terms page](/handbook/communication/top-misused-terms/).
