@@ -11,14 +11,15 @@ category: Legal
 {:toc .hidden-md .hidden-lg}
 
 # Overview
+There may be times when a request comes in that seems to need input from our Legal team. This workflow explains how to handle such a request when it does not fit into one of the prescribed workflows.
+
+## Workflows
+
+### Incoming Subpoena or court order
 
 From time to time we may receive subpoenas or other legal requests for information about GitLab users, their data or activity.
 This workflow clarifies how to handle these requests and subsequent workflow related to delivering information if
 our counsel and CISO approve.
-
-## Workflow
-
-### Incoming Subpoena or court order
 
 *Note:* If a ticket comes in that you believe is Legal related, but is not a subpoena or court order, please check the list of other [legal workflows](https://about.gitlab.com/handbook/support/workflows/#Legal).
 
@@ -34,6 +35,57 @@ Your request has been received and forwarded to our legal department who will re
 Please direct any follow-up or additional queries of this nature directly to the legal team by using the email address legal@gitlab.com.
 
 This ticket will be marked as "Solved"
+```
+
+### GitLab.com specific support policies
+
+These workflows should be used when a user question is addressed in a [specific Support policy](https://about.gitlab.com/support/#gitlabcom-specific-support-policies).
+
+#### Namespace and Trademark claims 
+
+Respond to the ticket:
+
+```
+Your request has been received. GitLab does not take action on trademark or other namespace disputes without proper legal orders. For more information, see our [Namespace and Trademark policy](https://about.gitlab.com/support/#namespace--trademarks).
+
+This ticket will be marked as "Solved"
+```
+
+#### Ownership Disputes 
+*Note: This workflow is specifically related to inquiries about disputes on ownership. You can also check other [ownership-related workflows](https://about.gitlab.com/handbook/support/workflows/account_verification.html) to ensure you are using the correct one.*
+
+Respond to the ticket:
+
+```
+Your request has been received. GitLab does not take action on ownership disputes without proper legal orders. For more information, see our [Ownership Disputes policy](https://about.gitlab.com/support/#ownership-disputes).
+
+This ticket will be marked as "Solved"
+```
+
+#### Log Requests 
+
+1. Respond to the ticket:
+
+```
+Your request has been received.  As explained on our [Support page](https://about.gitlab.com/support/#log-requests), there are limitations to the logs that GitLab can provide. However, I am able to address specific questions and provide summarized information related to the content of log files. Please let me know if you have specific questions or would like to receive summarized information.
+
+You may also find the information you are looking for in the [Audit Events](https://docs.gitlab.com/ee/administration/audit_events.html#group-events-starter) section of your account.
+
+This ticket will be marked as "Solved"
+```
+2. If the user follows up with specific questions that are outside the scope of the [Log Request workflow](https://about.gitlab.com/handbook/support/workflows/log_requests.html), please create a confidential issue in the [Legal and Compliance issue tracker](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues) with a link to the ticket.
+
+### Other Legal-related Questions
+A request may come in that you believe needs legal input but does not fit into one of the prescribed workflows. Follow this workflow in such a situation:
+
+1. Follow the instructions for [contacting Legal](https://about.gitlab.com/handbook/legal/#contacting-the-legal-team-with-general-legal-questions) based on the specifics of the request.
+1. Respond to the ticket:
+
+```
+Your request has been received and forwarded to our legal department who will review this request.
+
+When we have received a response from our Legal team, this ticket will be updated.
+
 ```
 
 ### Unsure? Other?
