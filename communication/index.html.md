@@ -808,6 +808,7 @@ Corporate marketing maintains guidelines on [GitLab's tone of voice](/handbook/m
 | Punt 	| Make less of a priority 	|
 | Helicopter view/100 foot view 	| A broad view of the business 	|
 | Turtles all the way down | Cascade through the organization |
+| When someone has spare/extra cycles | When someone is available |
 
 ### Inefficient things shouldn't sound positive
 
