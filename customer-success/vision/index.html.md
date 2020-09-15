@@ -22,7 +22,7 @@ title: "Customer Success Vision"
 
 ## Capabilities Roadmap 
 
-The following shows the high-level view of the capabilties that we will be developing as mature our customer success team, processes and systems. [A pdf version for viewing.](images/gitLab_customer_cuccess_capabilities_roadmap.pdf)
+The following shows the high-level view of the capabilties that we will be developing as mature our customer success team, processes and systems. [A pdf version for viewing.](images/gitLab_customer_success_capabilities_roadmap.pdf)
 ![GitLab Capabilities Roadmap](images/capabilities-roadmap.jpeg)
 
 ## Objective
