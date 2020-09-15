@@ -58,7 +58,6 @@ Eligible team members may apply for the 30% Tax Ruling. More information can be 
 * Statutory Parental leave
   - After your partner has given birth you are entitled to up to five days of paid parental leave.
   - Within 6 months of the birth you are also entitled to 5 weeks of additional paid leave at 70% (["Aanvullend geboorteverlof"](https://www.rijksoverheid.nl/onderwerpen/geboorteverlof-en-partnerverlof/geboorteverlof-voor-partners)).
-  - Please also refer to [the company policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) as when more beneficial they superside the statutory leave benefits.
   - Team members who have children under the age of eight are entitled to take unpaid parental leave. In the case of a family with more than one child under the age of eight, that right is applicable for each child. The number of hours' leave is thirteen times the weekly working hours (65 days for full-time employment). However, no more than half of the number of weekly working hours can be taken each week.
   - Please also refer to [the company policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) as when more beneficial they superside the statutory leave benefits.
 
