@@ -236,7 +236,7 @@ Assuming that you've already been assinged a LinkedIn seat, here's how to enable
 
 If you have **not** been assigned a seat and would like one, please add your GitLab email to your LinkedIn profile and submit an [Access Request](https://gitlab.com/gl-recruiting/operations/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) issue using the `LinkedIn Access Request` template.
 
-To add your email to your LinkedIn profile, click `Me` > `Settings & Privacy` > `Account` > `Email addresses` > add your GitLab email address and verify it.
+To add your email to your LinkedIn profile, click `Me` > `Settings & Privacy` > `Sign in & security` > `Email addresses` > add your GitLab email address and verify it.
 
 ### Configuring notifications
 
