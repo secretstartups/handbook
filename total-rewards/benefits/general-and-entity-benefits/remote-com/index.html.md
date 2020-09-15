@@ -17,10 +17,10 @@ The following benefits are provided by [Remote](https://www.remote.com/) and app
 
 ### Healthcare Monthly Allowance
 
-* Healthcare Monthly Allowance will be paid by Remote as an allowance to the Employees for their own Medical Coverage.
+* Healthcare Monthly Allowance will be paid by Remote as an allowance to the team members for their own Medical Coverage.
 * This amount will be paid on monthly basis with the regular payroll as a reimbursement.
-* Proof of coverage must be shown to the Total Rewards Team before the allowance will be paid via payroll. The same proof of coverage must be shown to Remote in order to receive the correct allowance amount.
-* The allowance should be upto R5,000 for Employee and upto R8,500 for Employee plus Dependants.
+* Proof of coverage must be shared or forwarded to Remote in order to receive the correct allowance amount. 
+* The allowance will be up to R5,000 per month for team member and up to R8,500 per month for team member plus Dependants.
 
 ### Discovery Life Provident Umbrella Fund (Provident fund match)
  
@@ -28,30 +28,31 @@ Under the Remote Technology scheme, the employer and member both pay **5% each t
 
 ### Group Life including the Global Education Protector & Funeral Family Benefit
 
-* Sum insured of the Group Life Cover would be 4 times of the annual salary.
+* Sum insured of the Group Life Cover will be 4 times of the annual salary.
 * The primary protection offered by group life cover is as follows:
     * Provide for living expenses for surviving dependants
     * Extinguish debt
     * Protect the lifestyle of the surviving dependants
     * Fund for the education costs of the surviving children
-* Upon the death of the member, spouse or child, a benefit payment equal to the amount of the Funeral Cover will be made. The sum assured for this benefit is upto R30,000
-* This benefit is 100% covered by Remote.    
+* Upon the death of the member, spouse or child, a benefit payment equal to the amount of the Funeral Cover will be made. 
+* The sum assured for this benefit is up to R30,000
+* This benefit is 100% contributed and covered by the employer (Remote).    
 
 ### Disability - Income Continuation Benefit
 
-* The Income Continuation Benefit is designed to provide employees with a payment equal to the income they received before they became disabled or severely ill.
+* The Income Continuation Benefit is designed to provide team member with a payment equal to the income they received before they became disabled or severely ill.
 * Disability refers to injury, illness or disease that has resulted in a member being unable to perform his or her own job based on objective medical criteria.
-* Due to changes in the tax treatment of income protection benefits, the disability income benefit will be calculated on a flat **75% of member salary**, but subject to a maximum of the employee’s net of tax salary or specified rand maximum including any retirement fund waiver benefits.
-* The 75% income continuation will come intor effect from the **4th month** of the leave.
-* This benefit is 100% covered by Remote.
+* Due to changes in the tax treatment of income protection benefits, the disability income benefit will be calculated on a flat **75% of member salary**, but subject to a maximum of the team members’s net of tax salary or specified rand maximum including any retirement fund waiver benefits.
+* The 75% income continuation will come into effect from the **4th month** of the leave.
+* This benefit is 100% contributed and covered by the employer (Remote).
 
 ### Disability - Severe Illness
 
 * A severe illness is an illness that affects a person’s lifestyle in such a way that their ability to function normally is altered.
-* Sum assured of this benefit is twice the annual salary of the employee (2 x Annual Salary).
-* Discovery Life provides insurance to cover employees against the impact of a severe illness. The Severe Illness Benefit pays a lump sum if an employee is diagnosed with a covered physiological or anatomical severe illness. The claim payment is proportional to the severity of the illness, with severity levels that have been set to reflect the financial impact of the illness on their lifestyle.
-* The lump sum benefit provides financial assistance to ensure your employees can maintain their lifestyle after a life-changing event. This could mean having their homes modified to accommodate their injury or illness, or reinvesting the money to replace the monthly income they can no longer earn
-* This benefit is 100% covered by Remote.
+* Sum assured of this benefit is twice the annual salary of the team member (2 x Annual Salary).
+* Discovery Life provides insurance to cover team member against the impact of a severe illness. The Severe Illness Benefit pays a lump sum if a team member is diagnosed with a covered physiological or anatomical severe illness. The claim payment is proportional to the severity of the illness, with severity levels that have been set to reflect the financial impact of the illness on their lifestyle.
+* The lump sum benefit provides financial assistance to ensure that the team member can maintain their lifestyle after a life-changing event. This could mean having their homes modified to accommodate their injury or illness, or reinvesting the money to replace the monthly income they can no longer earn
+* This benefit is 100% contributed and covered by the employer (Remote).
 
 For more details on benefits managed by Discovery: [Remote Technology Employee Benefits](https://gitlab.com/gitlab-com/www-gitlab-com/uploads/bfd6b16936b7cfaccc8fe0992bd7271f/ZA_Remote_Technology.pdf)
 
