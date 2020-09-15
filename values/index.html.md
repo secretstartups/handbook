@@ -1149,6 +1149,8 @@ Whatever behavior you reward will become your values. We reinforce our values by
 
 The most important moments to reinforce our values are decisions which affect individual team members most: hiring, promotions, and bonuses, which is why every promotion document at GitLab is shared with the entire company and uses the values as its core structure.
 
+To show your support of GitLab's values you can apply one of our [values backgrounds](https://about.gitlab.com/press/press-kit/#green-screens) in video calls.
+
 In negative feedback, we should be specific about what the problem is. For example, saying someone is "[not living the values](https://hbr.org/2017/05/how-corporate-values-get-hijacked-and-misused)" isn't helpful.
 
 > Your values are what you hire for, what you praise people for, and what you promote them for. By definition, what you do in those instances *are* your values. It's not what you say they are. Values should be explicitly part of our [hiring](/handbook/hiring/) process, our job profiles, and our [review process](/handbook/people-group/360-feedback/).
