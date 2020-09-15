@@ -31,8 +31,11 @@ Based on the AARRR framework (Acquisition, Activation, Retention, Revenue, Refer
 
 ```mermaid
 classDiagram
+  Awareness --|> Acquisition
+    Awareness : Acquisition: Are users aware of GitLab CI?
+    Acquistion: Measurement (Total count of CI Docs page views)
   Acquistion --|> Activation
-    Acquistion : Awareness: Are users aware of CI pipelines?
+    Acquistion : Activation: Are users aware of CI pipelines?
     Acquistion: Measurement (Total count of Pipelines page views)
   Activation --|> Retention
     Activation : Use: Are users creating CI configurations/pipelines?
@@ -45,7 +48,7 @@ classDiagram
     Revenue: Measurement (Total count of projects using paid CI features)
   Referral --|> Acquistion
     Referral : Endorsement - Are user encouraging others to use GitLab CI?
-    Referral: Measurement (Total count of Pipelines page views from social media)
+    Referral: Measurement (Total `Getting Started with GitLab CI` referrals from within the App)
 ```
 
 ### Core domain
