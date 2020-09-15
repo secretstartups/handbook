@@ -28,7 +28,7 @@ When you enter the situation room, take note of any updates that have been made 
 | Incident Status | severity::1 Update Frequency | severity::2 Update Frequency | severity::3/severity::4 Update Frequency |
 |--|--|
 |Investigating| 10m | 15m | 15m |
-| Identified | 10m | 15m | 30m |
+| Identified | 10m | 30m | 30m |
 | Monitoring | 30m | 60m | 60m |
 | Resolved | No further updates required |
 
