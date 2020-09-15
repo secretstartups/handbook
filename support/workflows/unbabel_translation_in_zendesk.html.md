@@ -56,7 +56,7 @@ to manually translate your internal comment. To view the status of the translati
 
 ![Translation required](/images/support/Unbabel_Translation_Required.png)
 
-After a translated response has been sent to the customer via Unbabel it is necessary to manually set the ticket status as **Pending** since Unbabel will incorrectly set the ticket status as **Open**. You must do this with an _empty comment_ (remove any `#unbable` added by the plugin, before you Submit as Pending).
+After a translated response has been sent to the customer via Unbabel it is necessary to manually set the ticket status as **Pending** since Unbabel will incorrectly set the ticket status as **Open**. You must do this with an _empty comment_ (remove any `#unbabel` added by the plugin, before you Submit as Pending).
 
 ### Excluding Text from Translation
 
