@@ -2,9 +2,7 @@
 layout: handbook-page-toc
 title: Product Principles
 ---
-
 ## On this page
-
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
@@ -87,7 +85,7 @@ actual users. This is a much more informative mechanism than the intuition
 of a product person (this doesn't mean we should just build
 whatever feedback tells us, however.)
 
-When considering how to scope a feature for a release remember it is ok to ship an "incomplete" feature to customers - assuming it still offers value and is not broken. For example, you could ship a feature that lacks a completed interface but still adds value if the user **chooses** to use it. [See this MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/62038) as a great example of a release post item shipping a truly minimal feature. Consider existing workflows and understand the impact on overall user experience as you release your feature. In terms of talking about your feature, it's ok to add a release post item that announces your incomplete feature (making clear that it is an early iteration, and points to the direction for the feature) and follow-on in a later release post with a new item when you've completed more of the functionality.
+When considering how to scope a feature for a release remember it is ok to ship an "incomplete" feature to customers - assuming it still offers value and is not broken. For example, you could ship a feature that lacks a completed interface but still adds value if the user **chooses** to use it. [See this MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/62038) as a great example of a release post item [shipping a truly minimal feature](https://gitlab.com/gitlab-org/gitlab/-/issues/241164). Consider existing workflows and understand the impact on overall user experience as you release your feature. In terms of talking about your feature, it's ok to add a release post item that announces your incomplete feature (making clear that it is an early iteration, and points to the direction for the feature) and follow-on in a later release post with a new item when you've completed more of the functionality.
 
 ### Iteration
 
@@ -289,6 +287,16 @@ consistent and the user has zero chance of seeing that banner again.
 - A corollary is that banners should only be shown when a user is logged in.
 
 ![pipelines_empty_state.png](/handbook/product/banner_customize_experience.png)
+
+#### Alerts
+
+[Alerts](https://design.gitlab.com/components/alert) allow the application to pass along relevant system information to the user without impeding their journey. Alerts should guide the reader to an actionable next step. Alerts without actionable next steps induce anxiety and can slow down resolution.
+
+Some important considerations when adding alerts:
+
+- Alerts should generally be targeted at users who are capable of taking action on that alert.
+- Alerts should only be targeted at wider audiences if they will be impacted by the condition. For example if the repository is about to exceed the storage limit.
+- Alerts should be dismissable at the appropriate level (dismiss a CI related warning for the entire namespace (i.e. project or (sub)group), and a user settings related warning for the user).
 
 #### Navigation
 
