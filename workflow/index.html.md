@@ -399,6 +399,8 @@ Each retrospective consist of three parts:
 - `M, 24th` to `M+1, 3rd`: Participants complete the Retrospective planning and execution issue, add their notes to the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit#), and suggest and vote on discussion topics.
 - `M+1, 4th`: Moderator records the Retrospective Summary video and announces the video and discussion topics.
 - `M+1, 6th`: Retrospective Discussion is held.
+   - OR, the next Monday if `M+1, 6th` falls in a weekend.
+   - OR, the 2nd working day after `M+1, 6th` if `M+1, 6th` is a holiday.
 
 **Moderator**
 
