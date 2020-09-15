@@ -1343,7 +1343,7 @@ Once the script runs an draft MR in the `/gitlab-com/www-gitlab-com` project wil
 
 If you'd like to check to see when the last pipeline ran (and if it picked up your issue) you can inspect the scheduled pipeline [here](https://gitlab.com/gitlab-com/www-gitlab-com/-/pipeline_schedules). 
 
-You can also watch [this video](https://www.youtube.com/watch?v=rfn9ebgTwKg) demonstrating how to use the `release post item generator`. 
+You can also watch [this overview video](https://www.youtube.com/watch?v=rfn9ebgTwKg) demonstrating how to use the `release post item generator`. 
 
 *note: The release post item generator is still in beta. If you find issues or have questions post them in Slack [#release-post-iteration](https://gitlab.slack.com/archives/CTXULEPQD)* or add them to the current cycle  release post retrospective issue.
 
