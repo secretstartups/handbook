@@ -37,12 +37,12 @@ There is a large amount of automation that uses stage, group, and category label
 * [Group creation or rename](https://gitlab.com/gitlab-org/quality/triage-ops/issues/new?issuable_template=stage-or-group-label-change)
 * [Category label creation or rename](https://gitlab.com/gitlab-org/quality/triage-ops/issues/new?issuable_template=category-label-change)
 
-## Auto-labelling of Issues
+## Auto-labelling of issues and merge requests
 
 _Regarding legacy team labels, the mapping can be seen in [Automation to ensure that issues and MRs with legacy team labels have a 1:1 mapping to their devops stage or group label](https://gitlab.com/gitlab-org/quality/triage-ops/issues/201)._
 
 Our triage bot will automatically infer section, stage, and group labels based
-on the category/feature and team labels already set on an issue. This is available for **open** issues.
+on the category/feature and team labels already set on an issue or MR. This is available for **open** issues/MRs.
 
 The most important rules are:
 
@@ -81,23 +81,14 @@ graph TB;
 ```
 
 After the above inference is done, a section label will be added based on the
-inferred or existing stage or group label. An explanation will not be added
+stage or group label. An explanation will not be added
 in this step if the inferred labels contain only a section label.
 
 Check out the
 [list of actual use-cases](https://gitlab.com/gitlab-org/quality/triage-ops/merge_requests/155#test-cases)
 to better understand what this flow means in practice.
 
-If your issue doesn't belong to a particular stage, you can remove the stage
-label and add the `~"automation:devops-mapping-disable"` label to prevent this
-automation from happening in the future.
-
-## Auto-labelling of Merge Requests
-
-We currently auto label **open** and **merged** merge requests based on the legacy team labels.
-The mapping can be seen in [Automation to ensure that issues and MRs with legacy team labels have a 1:1 mapping to their devops stage or group label](https://gitlab.com/gitlab-org/quality/triage-ops/issues/201).
-
-If your merge request doesn't belong to a particular stage, you can remove the stage
+If your issue/MR doesn't belong to a particular stage, you can remove the stage
 label and add the `~"automation:devops-mapping-disable"` label to prevent this
 automation from happening in the future.
 
