@@ -755,13 +755,29 @@ A.  Purpose:
 
 Add all products to the opportunity record for Closed Won and Closed Lost renewals. 
 
-B.  Process:
-*   Access Month Close Reconciliation - Adding Products to Opptys tab
-*   Refresh current sheet using G-Connector
-*   Filter by Product Details - filter out blank and sort by ascending.
-    *   Some will have products and some will not.
-*   Filter by Product Category - blank. This is the column we’re updating.
-*   Update Products
+1. Open Zuora Product Report .csv file. This report runs weekly and is sent to the Deal Desk team.
+1. Search for "Credit" in the product category field, delete all rows. 
+1. Search for "True-ups" in the product cateogry column. delete all rows. 
+1. Open the Products tab of the Weekly Reconcilation gsheet.
+1. Create a new sheet next to the Products tab in the Weekly Recon file - copy/paste the remaining rows from the .csv file on this tab
+1. Create a Vlookup for the invoice nr in column R on the Product tab for the Zuora invoice report: VLOOKUP (I2, Sheet115!C:D, 2, false). => column I is the invoice column on the product tab, then we use the sheet for the Zuora report and select Invoice Number and Invoice Item: Charge Name (columns C and D)
+1. Clean-up: Filter column R for each true value per product and update the Product Category column with the standardized name “Bronze”
+1. Check for Ci minutes based on the amount column and mark them as CI minutes in the Product Category column
+1. Copy the values from the Product Purchased (column G), insert it to the Product Category column and clean up the values again to reflect the standard product category (without the words “1 Year” etc.)
+1. Clear the column R values on the lines which were cleaned up
+1. Where the Product Purchased column is blank, leave for manual review. 
+
+Upload Product Category using Dataloader 
+
+1. After the products manual review is finished and the Product Category column is updated manually, for the upload select the Opp ID, Type and Product category columns and paste to an Excel. Only the oppty id and product category will be uploaded back but we can leave in other columns.
+1. In Data Loader settings check the batch size (5) and make sure the insert null values checkbox is unticked.
+1. Click Update in Data Loader and follow the process details under the Renewal ACV part above.
+1. The Type column should not be mapped (the one that won`t be uploaded)
+
+
+Helpful tips: 
+
+*   Reduce number of opps requiring manual review - 
     *   Anything that is $8, 16, 24, 40 will be CI Minutes
     *   The Charge name generally informs which product to enter in Column P.
     *   In cases with multiple products, the opportunity takes precedence.
