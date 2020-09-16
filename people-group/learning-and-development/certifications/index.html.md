@@ -37,18 +37,7 @@ In FY21 we plan to roll out the additional certification(s) listed below.
 
 Knowledge Assessments at GitLab test knowledge of the specific content covered in training. Knowledge Assessments are formative learning that measures how an individual is performing against the training content. Knowledge Assessments are featured following the completion of a training event are typically five to ten questions in length. In addition, they can be one of many requirements to attain a certification. 
 
-When you complete and pass a knowledge assessment, you may recieve a certificate via email. A certificate is not equal to a certification on a topic. 
-
-## Current Knowledge Assessments
-
-* [GitLab Values](/handbook/values/#gitlab-values-knowledge-assessment)
-* [GitLab Communication](/handbook/communication/#gitlab-communication-knowledge-assessment)
-* [Being an Ally](/company/culture/inclusion/being-an-ally/#being-an-ally-knowledge-assessment)
-* [Inclusion](/company/culture/inclusion/being-inclusive/#inclusion-knowledge-assessment)
-* [GitLab Compensation](/handbook/total-rewards/compensation/#knowledge-assessment)
-* [GitLab Benefits](/handbook/total-rewards/benefits/#knowledge-assessment)
-* [GitLab Equity](/handbook/stock-options/#equity-knowledge-assessment)
-* [The importance of a handbook-first approach to documentation](/company/culture/all-remote/handbook-first-documentation/#gitlab-handbook-first-documentation-knowledge-assessment)
+When you complete and pass a knowledge assessment, you may recieve a certificate via email. A certificate is not equal to a certification on a topic. You can find some of our knowledge assessments on our [values](/handbook/communication/#gitlab-communication-knowledge-assessment), [communication](/handbook/total-rewards/compensation/#knowledge-assessment), [competencies](/handbook/competencies/#list), [inclusion](/company/culture/inclusion/being-inclusive/#inclusion-knowledge-assessment), and [total rewards](/total-rewards/benefits/#knowledge-assessment) handbook pages. 
 
 ## Sharing your Certificate 
 
