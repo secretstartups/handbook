@@ -37,8 +37,14 @@ The best way to view Seat Counts for a Gitlab.com customer is to access the Cust
 
 Alternatively, you can see this information on [this Sisense report](https://app.periscopedata.com/app/gitlab/505939/Renewals-Dashboard?widget=8483799&udv=919439) 
 
-It's important to note that ultimately the Customer Portal admin will be the most accurate and up-to-date view of this information. 
+It's important to note that ultimately the Customer Portal admin will have the most accurate and up-to-date view of this information. 
 
+## Communicating Seats Owed / Helping Customers Find Information - Gitlab.com 
+Sometimes customers can get confused as to what they owe because they have both a personal subscription and a group subscription. To make it easy for them to find the correct group billing information, you can send them a link with a URL in this format: 
+
+https://gitlab.com/groups/[group-path-name]/-/billings
+
+To find the `group-path-name`, go to the `GitLab Groups` page in the Customers Portal admin (see instructions above) and copy the value under the `Path` column. 
 
 
 #### Self-managed 
