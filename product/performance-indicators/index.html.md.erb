@@ -78,13 +78,14 @@ The table below outlines the exact PIs we're asking each section, stage, and gro
 
 Changes to be table below require sign off from the EVP Product or VP Product Management. To make updates to the table, please submit an MR with the reason behind the change and assign it to Scott or Anoop.
 
-Additional details about dashboarding:
+Dashboard data sources:
+
 - XMAU (SM): Dashboard can only be created from Usage Ping
 - Paid XMAU (SM): Dashboard can only be created from Usage Ping
 - XMAU (SaaS): Dashboard can only be created from Usage Ping, Postgres Import, Snowplow
 - Paid XMAU (SaaS): Dashboard can only be created from Postgres Import
 
-Standardized dashboards will have segments for All and Paid XMAUs if technically possible. Product teams may choose to focus on one or many of these segments. 
+The standardized dashboard used for our PIs will have segments for both XMAU and Paid XMAU if the data source is available. Product teams may choose to focus on one or many of these segments to drive paid usage or overall usage.
 
 | section.stage.group | XMAU (SM) | Paid XMAU (SM) | XMAU (SaaS) | Paid XMAU (SaaS) |
 | ------------------- | --------- | -------------- | ----------- | ---------------- |
