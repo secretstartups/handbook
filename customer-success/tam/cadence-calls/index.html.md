@@ -1,8 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Cadence Calls"
+title: Cadence Calls
 ---
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -11,7 +10,7 @@ title: "Cadence Calls"
 
 View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional TAM-related handbook pages.
 
-----
+- - -
 
 ## What is a Cadence Call?
 
@@ -44,14 +43,14 @@ At the end of each customer call any changes to customer health should be reflec
 
 #### Best Practices for Note-Taking
 
- - Write down your *agenda* (including questions you want to ask). This way you can quickly add your notes for the specific context. 
- - If you're comfortable in writing in [Markdown format](/handbook/markdown-guide/), use it to quickly structure your notes in real time.
- - Allow yourself time directly after the call to clean up your notes. Avoid scheduling back-to-back meetings.
- - Practice slowing down call conversations. Stopping the dialog for a few seconds to say “let me write that down” tells the customer what they said is important to you.
- - Ask your SAL/AE/SA to take notes with you. After the meeting combine and add detail.
- - Use [Chorus](/handbook/business-ops/tech-stack/#chorus) to record your calls so there's less pressure for you to take note of everything.
- - Sometimes it makes sense for somebody on the [account team](/handbook/customer-success/account-team/) to go back through the call in Chorus to transcribe it.
- - Write notes in whatever is easiest and always copy them to your best source of truth. If you can write them in the source of truth in the first place, you’ll be more efficient and consistent.
+- Write down your _agenda_ (including questions you want to ask). This way you can quickly add your notes for the specific context.
+- If you're comfortable in writing in [Markdown format](/handbook/markdown-guide/), use it to quickly structure your notes in real time.
+- Allow yourself time directly after the call to clean up your notes. Avoid scheduling back-to-back meetings.
+- Practice slowing down call conversations. Stopping the dialog for a few seconds to say “let me write that down” tells the customer what they said is important to you.
+- Ask your SAL/AE/SA to take notes with you. After the meeting combine and add detail.
+- Use [Chorus](/handbook/business-ops/tech-stack/#chorus) to record your calls so there's less pressure for you to take note of everything.
+- Sometimes it makes sense for somebody on the [account team](/handbook/customer-success/account-team/) to go back through the call in Chorus to transcribe it.
+- Write notes in whatever is easiest and always copy them to your best source of truth. If you can write them in the source of truth in the first place, you’ll be more efficient and consistent.
 
 ### Cadence Call Topics
 
@@ -82,5 +81,6 @@ These are suggestions that can be used on customer calls, but are time-sensitive
 
 - PostgreSQL [update](https://docs.gitlab.com/omnibus/package-information/postgresql_versions.html)
 - Only/Except [deprecation](https://about.gitlab.com/releases/2020/05/06/gitlab-com-13-0-breaking-changes/)
-- GitLab [Commit](https://about.gitlab.com/events/commit/)
+- Redis [deprecation](https://about.gitlab.com/releases/2020/05/22/gitlab-13-0-released/#redis-3-no-longer-supported)
+
 - Customer Engagement [requests](https://gitlab.com/gitlab-com/customer-success/tam/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Product%20Engagement)
