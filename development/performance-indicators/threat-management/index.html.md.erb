@@ -73,33 +73,33 @@ These charts show metrics filtered for the [Threat Management sub-department](/h
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
 <% end %>
 
-### Insider Threat group
+### Threat Insights group
 
-#### Insider Threat group development indicators
+#### Threat Insights group development indicators
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
-    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "Threat Management" }], visible: ["sub_department", "group_", "technology_group"] }) %>">
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "Threat Insights" }], visible: ["sub_department", "group_", "technology_group"] }) %>">
   </div>
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
 <% end %>
 
-#### Insider Threat group quality indicators
+#### Threat Insights group quality indicators
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
-    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 736012, embed: 'v2', filters: [{name: "team_group", value: ["insider threat"]}]}) %>">
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 736012, embed: 'v2', filters: [{name: "team_group", value: ["threat insights"]}]}) %>">
   </div>
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
 <% end %>
 
-#### Insider Threat group UX indicators
+#### Threat Insights group UX indicators
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
-    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 736036, embed: 'v2', filters: [{name: "team_group", value: ["insider threat"]}]}) %>">
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 736036, embed: 'v2', filters: [{name: "team_group", value: ["threat insights"]}]}) %>">
   </div>
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
