@@ -64,16 +64,7 @@ This ticket will be marked as "Solved"
 
 #### Log Requests 
 
-1. Respond to the ticket:
-
-```
-Your request has been received.  As explained on our [Support page](https://about.gitlab.com/support/#log-requests), there are limitations to the logs that GitLab can provide. However, I am able to address specific questions and provide summarized information related to the content of log files. Please let me know if you have specific questions or would like to receive summarized information.
-
-You may also find the information you are looking for in the [Audit Events](https://docs.gitlab.com/ee/administration/audit_events.html#group-events-starter) section of your account.
-
-This ticket will be marked as "Solved"
-```
-2. If the user follows up with specific questions that are outside the scope of the [Log Request workflow](https://about.gitlab.com/handbook/support/workflows/log_requests.html), please create a confidential issue in the [Legal and Compliance issue tracker](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues) with a link to the ticket.
+Please see [Log requests workflow](https://about.gitlab.com/handbook/support/workflows/log_requests.html)
 
 ### Other Legal-related Questions
 A request may come in that you believe needs legal input but does not fit into one of the prescribed workflows. Follow this workflow in such a situation:
