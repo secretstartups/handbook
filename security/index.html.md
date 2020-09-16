@@ -170,7 +170,9 @@ What should you do if you receive a potential phishing email or text from GitLab
     * Select "Enable stealth mode"
     * GitLab is currently utilizing [JAMF](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/) for endpoint management and can assist with this step.
 
-![macOS Firewall Settings](macos_firewall_settings.png)
+<div style="text-align:center;">
+  <img src="/handbook/security/macos_firewall_settings.png" alt="macOS Firewall Settings" width="560px"/>
+</div>
 
 [FileVault]: https://support.apple.com/en-us/HT204837
 
@@ -441,13 +443,13 @@ we need to update the app to the latest version:
 
 Click the **Vault Selector** in the upper-left corner of the window:
 
-![Vault Selector](/handbook/security/1password-vault-selector.png)
 
-**Team** is a vault that everyone on the GitLab Teams account has access to,
-both read and write.
+<div style="text-align:center;">
+  <img src="/handbook/security/1password-vault-selector.png" alt="Vault Selector" width="700"/>
+</div>
+<br>
 
-**Private** is your *hosted, private* vault that is part of the
-GitLab 1Password for Teams account. Since the Private vault is part of the
+GitLab team members have access to a **Private** vault by default, which is your *hosted, private* vault that is part of the GitLab 1Password for Teams account. Since the Private vault is part of the
 GitLab Teams account, it should be thought of as company property (like the
 @gitlab.com email account), however the vault *can not* be viewed by anyone
 else on the team, including admins. If you choose to store truly personal
@@ -456,6 +458,8 @@ be separated from this information if you offboard. Such truly personal
 information is therefore better to store in your **Primary** vault, which is
 associated with you instead of with the GitLab Teams account, assuming that you
 added an [individual account](#1password-for-your-private-passwords).
+
+People may request access to other vaults such as shared vaults that their teams/departments have created.
 
 ### Browser Extension
 
@@ -466,21 +470,26 @@ beta version here.
 With the extension installed, you should be able to go to a site that you have
 credentials stored for in 1Password and log in:
 
-![Mailchimp Login](/handbook/security/1password-login.gif)
-
----
+<div style="text-align:center;">
+  <img src="/handbook/security/1password-login.gif" alt="Mailchimp Login" width="450"/>
+</div>
 
 If you don't see the site listed in the results window, make sure you're using
 the correct vault:
 
-![Vault switching](/handbook/security/1password-vault-change.gif)
+<div style="text-align:center;">
+  <img src="/handbook/security/1password-vault-change.gif" alt="Vault switching" width="450"/>
+</div>
+
 
 ### Saving Logins
 
 When 1Password detects a login form submission, it may ask if you want to save
 the login with a dialog like this:
 
-![Save login](/handbook/security/1password-save-login.png)
+<div style="text-align:center;">
+  <img src="/handbook/security/1password-save-login.png" alt="Save login" width="600"/>
+</div>
 
 If you do want to save it, make sure the appropriate **Vault** is selected
 first.
@@ -544,8 +553,19 @@ To enable TOTP for a saved account:
 1. Go to the item for which you want to set up TOTP
 1. Click **Edit** in the bottom right corner
 1. Add a new field by clicking on the field type dropdown (it offers a "Text field" by default)
-1. Select **One-Time Password** ![One-time password field type](/handbook/security/1password-otp.png)
-1. Click QR code icon that appeared ![QR Code](/handbook/security/1password-qrcode.png)
+1. Select **One-Time Password** 
+
+<div style="text-align:center;">
+  <img src="/handbook/security/1password-otp.png" alt="One-time password field type" width="600"/>
+</div>
+
+1. Click QR code icon that appeared 
+
+<div style="text-align:center;">
+  <img src="/handbook/security/1password-qrcode.png" alt="1password QR Code" width="600"/>
+</div>
+
+
 1. Scan QR code using the transparent window
 1. Click **Save**
 1. 2FA code should be displayed now
@@ -612,12 +632,13 @@ one of our developers, uses 1Password:
 > available on my phone, tablet, laptop, and desktop.
 >
 > Even my 1Password for Teams account information is stored in my personal
-> **Primary** vault, with the Emergency Kit PDF as a secure attachment:
->
-> ![Teams Login](/handbook/security/1password-teams-login.png)
->
+> **Primary** vault, with the Emergency Kit PDF as a secure attachment. 
 > I have no idea what the password is. I've never actually typed it. And that's
-> the idea.
+> the idea:
+
+  <div style="text-align:center;">
+    <img src="/handbook/security/1password-teams-login.png" alt="Teams Login" width="560px"/>
+  </div>
 
 ### Traveling with 1Password
 {: #travel-mode}
