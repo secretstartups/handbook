@@ -16,7 +16,7 @@ This page outlines the background, goals, success criteria, and implementation d
 
 ## Background
 
-Recently, there have been challenges in maintaining our service level for GitLab.com customers. See the impacts in this [GitLab.com performance degradation summary document](https://docs.google.com/document/d/1GfwzPc1uavB5ZuiA9O8l5sUD7Sq2l2BlwevM5AvOtZA/edit).
+Historically there have been challenges in consistently maintaining our service level for GitLab.com customers. See the impacts in this [GitLab.com performance degradation summary document](https://docs.google.com/document/d/1GfwzPc1uavB5ZuiA9O8l5sUD7Sq2l2BlwevM5AvOtZA/edit).
 
 This issue is not unique to GitLab when business grows fast and the user base and workload on the hosted SaaS increases exponentially. As a result, the business growth requires corresponding changes in how we work so that customers continue experiencing best service by GitLab, which maintains and boosts our business growth momentum.
 
@@ -24,7 +24,7 @@ With that being said and the operation incidents recently, it becomes clear that
 
 ## Process
 
-To resolve GitLab.com issues faster, the development team will establish an on-call rotation and stand behind the products we deliver. Note that the Infrastructure team keeps playing the first defense role on the frontline as usual, while they will determine if a development escalation will be initiated to get the operational issues resolved faster and more efficiently.
+To resolve GitLab.com issues faster, the development team will establish an on-call rotation and stand behind the products we deliver. During weekdays, an engineer in a Slack channel will be notified when they are online (in least recently escalated to order).  During weekends (when most are not online) a spreadsheet will be used for escalation, with time slots required to be filled to ensure we have coverage.  Note that the Infrastructure team keeps playing the first defense role on the frontline as usual, while they will determine if a development escalation will be initiated to get the operational issues resolved faster and more efficiently.
 
 This new process will need development engineers on-call based on a rotation schedule. For more details, please refer to the [**full description of on-call process**](./process.html).
 
@@ -48,6 +48,10 @@ The on-call process was designed with the following goals in mind -
 Refer to the Process section above for how to get started and keep running. In the spirit of iteration, the process will be continuously tuned and improved as we learn through practice.
 
 An async retro issue will be registered and every participant is encouraged to enter feedback in the issue any time. A review will be held at 3-month checkpoint then determine next steps.
+
+## Appreciation
+
+We want to be sure to thank those who take support rotations, especially on the weekends. On a monthly basis, a people leader in development will write a thank you message to all who did weekend support rotations (naming each person and how many rotations they did) in the previous month in the `#Thanks` Slack channel.
 
 ## Q&A
 **Q: Why do we need development engineers on-call?**
@@ -77,11 +81,7 @@ For this iteration, we are not going to use volunteer based model.
 
 **Q: Can we page dynamically based on presence in Slack?**
 
-**A:** The idea of [paging based on Slack presence](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/8386#note_48456021) was entertained 1 year ago. However, the final outcome was a new Slack channel #devops (which doesn’t seem established) without a specific process laid out due to [technical challenges and justification of ROI](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/8386#note_50987458), which makes this on-call process essentially an alternative of that thread.
-
-The biggest challenge is (maybe unlikely, but there is a chance) what if nobody is online at the moment? Accountability is critical for business. This is certainly a great choice if there is a way to ensure 100% accountability.
-
-Alternatively, another option is to establish SRE roles in development teams, but it may deserve a discussion itself.
+**A**: This is being experimented with during the week in September and October of 2020.  During the weekends we still need the spreadsheet as most do not regularly work on the weekends.
 
 **Q: What if the paged engineer doesn’t carry domain expertise?**
 
