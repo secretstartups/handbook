@@ -760,7 +760,7 @@ A static list built for ad hoc requests by the FMM or MPM team.
 
 #### Owned Event
 
-This is an event that we have created, own registration and arrange speaker/venue (example: GitLab Connects).
+This is an event that we have created, own registration and arrange speaker/venue (example: GitLab Commit).
 
 **Bizible:** This is tracked as an _online_ channel because we manage the registration through our website.
 
@@ -775,7 +775,8 @@ This is an event that we have created, own registration and arrange speaker/venu
 | Registered | Registered for event |  |
 | Cancelled | Registered, but cancelled ahead of the event |  |
 | No Show | Registered but did not attend event |  |
-| Attended | Attended event | Yes |
+| Attended | Attended event live| Yes |
+| Attended On-demand| Watched/consumed the presentation materials post-event on-demand| Yes |
 | Follow Up Requested | Requested additional details about GitLab to be sent post event | Yes |
 
 #### PathFactory Listener
