@@ -508,7 +508,6 @@ Useful links:
 **Leadership Team:**
 Christie Lenneville, UX Director
 Valerie Karnes, UX Manager CI/CD
-Shane Bouchard, UX Manager Dev
 Sarah O’Donnell, UX Manager Research
 Jacki Bauer, UX Manager Enablement and Growth
 
