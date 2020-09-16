@@ -1335,7 +1335,8 @@ The [release post item generator](https://gitlab.com/gitlab-com/www-gitlab-com/b
 
 To ensure the generator script runs correctly follow the process below:
 
-1. Update your issue or epic with content in `### Release notes` (including a docs link and image, although those can always be added/updated in the MR later)
+1. Make sure the issue is open.
+1. Update your issue or epic with content in `### Release notes` (including a docs link and image, although those can always be added/updated in the MR later) specifically having it contain both a `Description:` then a `Documentation:`.
 1. Make sure `devops::`, `group::`, `category:` and tier (e.g. `GitLab Core`) labels are applied
 1. Apply one of the `release post item::` scoped labels. This will make the generator script pick up your issue next time it runs (once per hour)
 
