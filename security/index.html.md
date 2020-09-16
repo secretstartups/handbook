@@ -351,20 +351,9 @@ joining the GitLab Team account.
 ### 1Password for Teams
 
 1Password for Teams stores all **Vaults** on the 1Password servers and allows
-for sharing between multiple people on the same team.
+for sharing between multiple people on the same team. Every GitLab Team Member who needs access to a shared vault should consult their departments for any shared vault information.
 
-Every GitLab Team Member who needs access to a shared vault should consult their
-departments for any shared vault information.
-
-Each member of the team has a vault
-called **Private** which *only you can see*, and allows you to store personal
-credentials *within our team's account*. See the Google sheet titled "1Password
-Shared Folders" in Google Drive to see a listing of the available vaults and
-which groups or individuals have access to them. If you need access to a vault
-beyond the access that your onboarding process already gave you, please make a
-comment in the sheet and ping one of the 1Password admins in the comment. A
-listing of the 1Password admins can be found in a secure note in the Team vault
-in 1Password.
+Each member of the team has a vault called **Private** which *only you can see*, and allows you to store personal credentials *within the GitLab team's account*. 
 
 To really get the full benefit of 1Password, you'll need to hook our Teams
 account up to one of the native apps.
@@ -470,14 +459,12 @@ added an [individual account](#1password-for-your-private-passwords).
 
 ### Browser Extension
 
-It can be confusing having 1Password's browser extension and Okta's browser plugin working at the same time. It is not recommended to install both the 1Password browser plugin and Okta's browser plugin on the same browser.
-
 Go to [Browser extensions](https://agilebits.com/onepassword/extensions) and
 install the extension for whatever browser you're using. You *should not* need a
 beta version here.
 
-With the extension installed, you should be able to go to a site that has
-credentials stored in our Team vault and log in:
+With the extension installed, you should be able to go to a site that you have
+credentials stored for in 1Password and log in:
 
 ![Mailchimp Login](/handbook/security/1password-login.gif)
 
@@ -556,10 +543,9 @@ To enable TOTP for a saved account:
 1. Open 1Password app
 1. Go to the item for which you want to set up TOTP
 1. Click **Edit** in the bottom right corner
-1. Add a new field ![Add new field](/handbook/security/1password-add-new-field.png)
-1. Click the field type dropdown (it offers a "Text field" by default) ![Field type dropdown](/handbook/security/1password-select-field-type.png)
-1. Select **One-Time Password** ![One-time password field type](/handbook/security/1password-totp.png)
-1. Click QR code icon that appeared
+1. Add a new field by clicking on the field type dropdown (it offers a "Text field" by default)
+1. Select **One-Time Password** ![One-time password field type](/handbook/security/1password-otp.png)
+1. Click QR code icon that appeared ![QR Code](/handbook/security/1password-qrcode.png)
 1. Scan QR code using the transparent window
 1. Click **Save**
 1. 2FA code should be displayed now
@@ -639,7 +625,7 @@ one of our developers, uses 1Password:
 When traveling with a device that has access to the GitLab 1Password vaults, be
 sure to [enable Travel Mode](https://support.1password.com/travel-mode/) in 1Password. Travel Mode removes copies of any
 1Password vaults that are not tagged as "safe for travel" from your mobile devices.
-None of the GitLab team vaults are marked as safe for travel so you will need
+None of the GitLab shared vaults are marked as safe for travel so you will need
 to either create a dedicated travel vault or mark your Private vault as safe for
 travel.
 
