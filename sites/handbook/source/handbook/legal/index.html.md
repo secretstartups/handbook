@@ -54,7 +54,7 @@ For more information on Attorney-Client Privilege, see the [General Topics and F
 
 ### 5. Other Legal Requests 
 
-* For requests that are not Customer related, but require input from the Legal team or a deliverable such as assistance with questionnaires, engineering license agreements, open source question, internal operation matters, or compliance questions, please tag the relevant Legal team member and ask your questions in the issue that relates to your question. If there is not an issue related to your question, please create an issue in the [Legal and Compliance Issue Tracker](https://gitlab.com/gitlab-com/legal-and-compliance/issues) using the issue template. 
+* For requests that are not Customer related, but require input from the Legal team or a deliverable such as assistance with questionnaires, engineering license agreements, open source question, internal operation matters, or compliance questions, please tag the relevant Legal team member and ask your questions in the issue that relates to your question. If there is not an issue related to your question, please create an issue in the [Legal and Compliance Issue Tracker](https://gitlab.com/gitlab-com/legal-and-compliance/issues) using issue templates. For more specific instructions, see our [issue tracker workflow](https://about.gitlab.com/handbook/legal/issue-tracker-workflows/).
 **All Legal and Compliance issues should be marked as confidential. GitLab team members will be able to access these issues directly.**
 
 Please be sure to include sufficient detail regarding your request, including time-sensitive deadlines, relevant documents, and background information necessary to respond.
