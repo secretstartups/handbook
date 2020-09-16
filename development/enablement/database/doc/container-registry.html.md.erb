@@ -308,5 +308,3 @@ Now that we've determined a blob should be deleted, we perform the following ste
 2. Delete record in `blobs` and `blob_review_queue`
 
 We discussed a synchronization need with incoming requests. That is, an incoming request (like putting a manifest referencing this blob or checking) might haver to be serialized with the cleanup action to get consistent results.
-
-TODO: Determine which API requests would have to be serialized and document how serialization works.
