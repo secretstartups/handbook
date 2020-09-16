@@ -444,6 +444,8 @@ For **Content Syndication**, follow the instructions documented in [the Content 
 
 For **Surveys run through SimplyDirect**, follow the instructions documented in [the SimplyDirect section](/handbook/marketing/marketing-operations/#steps-to-setup-simplydirect-surveys-in-marketo-and-sfdc).
 
+For **Workshops**, follow the directions in the [Workshop set-up section](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/virtual-workshops/#workshop-set-up).
+
 For all other campaign types, follow Steps 1-5 below. All steps are required.
 
 ##### Step 1: Clone the Marketo program indicated below
