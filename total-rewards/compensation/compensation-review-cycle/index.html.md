@@ -92,6 +92,15 @@ View the [enlarged version of the process](https://mermaidjs.github.io/mermaid-l
 1. Once the People Group gives the ok: Managers will inform the team members of the increase and adjustments to compensation compared to their compa group.
 1. Total Rewards Analysts will update [BambooHR](https://www.bamboohr.com/d/), and notify all payroll providers to be effective February 1st. Letters of adjustment are not necessary for annual compensation review changes.
 
+### Compensation Change Freeze
+
+To ensure a smooth process, the Total Rewards team will freeze any compensation changes relating to promotions during the Annual Compensation Review. Any compensation change requests need to be submitted to Total Rewards for review by 2020-12-01 with an effective date of 2020-12-16. If an exception needs to be made and a compensation change needs to be processed during this time, such as relocations, transfers or other reasons, please send an email to Total Rewards. 
+
+Any compensation changes that come out of the Annual Compensation Review will have an effective date of 2021-02-01. If a manager anticipates that a promotion is more suitable to process for a team member, the manager has the option to remove the team member out of the Annual Compensation Review process. If this is the case, please send an email to Total Rewards no later than 2020-12-16. 
+
+Promotions and transfer compensation change requests will reopen on 2021-02-01. The effective date for these requests will be processed in the next suitable payroll date from the time of approval.
+
+
 ### Manager Review
 
 As part of the new [Annual Compensation Review](/handbook//total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline), managers will review, approve, and where necessary update the proposed salary increases to ensure that we are paying each team member to market. Please verify the compensation calculator inputs (compa group, level, title) are accurate.
