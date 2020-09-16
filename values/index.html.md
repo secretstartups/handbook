@@ -556,18 +556,18 @@ This is demonstrated by communicating recordings of [meetings](/company/culture/
 #### Embracing uncomfortable ideas and conversations 
 {:.no_toc}
 
-Part of embracing diversity is a willingness to embrace often uncomfortable conservations and situations. This concept is also at the core of inclusion and helping to eliminate the problems that are faced by certain GitLab team members who may not be in the majority.
+Part of embracing diversity is a willingness to embrace often uncomfortable conversations and situations. This concept is also at the core of inclusion and helping to eliminate the problems that are faced by certain GitLab team members who may not be in the majority.
 
 We believe at GitLab that being willing to embrace discomfort is the path forward to a safe, balanced and inclusive work place for all. Challenge yourself, challenge your own pre-set notions and ideas about different cultures or things you don't understand. When we are willing to embrace being uncomfortable, we can focus on actually fixing the issues at hand rather than simply "appearing to care".
 
-#### Understanding the impact of micro-aggressions
+#### Understanding the impact of microaggressions
 {:.no_toc}
 
-Micro-aggressions are much more than simply rude or insensitive comments. They have the capacity to wear people down like slowly chipping away at a persons sense of belonging/safety/inclusion over time. What is a micro-aggression? 
+Microaggressions are much more than merely rude or insensitive comments. They can wear people down by slowly chipping away their sense of belonging/safety/inclusion over time. What is a microaggression?
 
 > "The everyday slights, indignities, put downs and insults that people of color, women, LGBT populations or those who are marginalized experiences in their day-to-day interactions with people." -  Derald W. Sue
 
-At GitLab we believe that everyone is entitled to a safe working space where they can express who they are and participate in conversations without worry of being spoken to in a harmful way, given that we want to encourage everyone to be mindful of what is a micro-aggression and be mindful of their potential impact. 
+At GitLab we believe that everyone is entitled to a safe working space where they can express who they are and participate in conversations without worry of being spoken to in a harmful way, given that we want to encourage everyone to be mindful of what is a microaggression and be mindful of their potential impact. 
 
 ##### Reach across company departments
 {:.no_toc}
@@ -1146,7 +1146,6 @@ Whatever behavior you reward will become your values. We reinforce our values by
 1. Giving value awards during [Contribute](/company/culture/contribute/).
 1. Keeping them [up to date](/handbook/values/#updating-our-values) with a [stream of commits that add details](https://gitlab.com/gitlab-com/www-gitlab-com/-/commits/master/sites/handbook/source/handbook/values/index.html.md).
 1. Our GitLab [Song Book](https://about.gitlab.com/company/culture/songbook/), the song lyrics often mention GitLab values. 
-1. Applying one of our [values virtual backgrounds](https://about.gitlab.com/press/press-kit/#green-screens) in video calls.
 
 The most important moments to reinforce our values are decisions which affect individual team members most: hiring, promotions, and bonuses, which is why every promotion document at GitLab is shared with the entire company and uses the values as its core structure.
 
