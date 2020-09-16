@@ -175,6 +175,32 @@ This is also a place to connect socially with the rest of the department. This m
 The Quality team holds an asynchronous retrospective for each release.
 The process is automated and notes are captured in [Quality retrospectives](https://gitlab.com/gl-retrospectives/quality/) (GITLAB ONLY)
 
+
+## Engineering Metrics task process
+
+We track work regarding performance indicators in the [Engineering Metrics](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/1942495) board.
+
+The purpose of the board is to:
+* Define workstream of new engineering KPIs and RPIs.
+* Determine order importance of completing each PIs.
+* Clearly identify dependency on the data warehouse for GitLab's Data team to assist.
+
+The delivery of new Engineering KPI/RPI is currently a shared capacity of the [Engineering Productivity](https://gitlab.com/gl-quality/eng-prod) team and the [Development Senior Operations Analyst](https://gitlab.com/lmai1).
+
+### Process
+
+* [Create an issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new) with `~"Engineering Metrics"` to be added to the [Engineering Metrics](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/1942495) board.
+  * State clearly what are the requirements and measures of the performance indicator.
+  * If key performance indicator, apply `~KPI`. If regular performance indicator, apply `~RPI`.
+* The [Director of Quality](https://gitlab.com/meks) is the DRI for triage, prioritization, and assignment.
+  * If work can be done without the need of new data warehouse capabilities, the DRI will schedule and assign the work within Engineering.
+  * If new Data warehouse capabilities are needed from the Data team, a linked issue will be created on the [Data team's Engineering](https://gitlab.com/groups/gitlab-data/-/boards/1496166?label_name[]=Engineering) board.
+    * The [Project (Results) DRI of the Release to Adoption (R2A) Data Fusion Team](https://about.gitlab.com/handbook/business-ops/data-team/organization/#release-to-adoption) is the DRI for triage, prioritization, and assignment. The [Manager, Data - focused on Data Analytics](https://gitlab.com/kathleentam) currently serves this role.
+* Every KPI issue is either assigned to the backlog or given a due date. The Engineering team will propose first a due date, which the Results DRI will confirm if possible or the provide the next possible date.
+  * Discussions to take place in [#eng-data-kpi](https://gitlab.slack.com/archives/C0166JCH85U) as needed.
+* Every new KPI/RPI should follow our [standardized format](/handbook/engineering/performance-indicators/#guidelines).
+* The closure of the issue should be done with a merge request to the performance indicator page(s).
+
 ## Task management
 
 We have top level boards (at the `gitlab-org` level) to communicate what is being worked on for all teams in quality engineering.
