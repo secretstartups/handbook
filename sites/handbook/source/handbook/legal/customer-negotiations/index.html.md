@@ -64,11 +64,10 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 
 ## Completing Vendor Request Forms
 
-1. **DO NOT OPEN A LEGAL REQUEST**
-2. If a Customer requests a Vendor Form (regarding GitLab) to be completed, it is the responsibility of the sales team member to complete as much as possible, if not all of the Vendor Form. 
-3. Much, if not all, of the Vendor Form information can be found at the [Company Information Page](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/company-information)
+**It is the sales team member responsibility to complete Vendor Request Forms**
+1. Much, if not all, of the Vendor Form information can be found at the [Company Information Page](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/company-information)
 
-**NOTE: Included on the Company Information Page is:**
+**Included on the Company Information Page is:**
 - Address / information related to each GitLab entity
 - All banking information
 - ECCN Number
@@ -77,15 +76,17 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 ...AND VARIOUS OTHER DETAILS
 - W9 is located on the Finance [Forms page](https://about.gitlab.com/handbook/finance/#forms)
 - Request Insurance Certificate on [Legal Team Page](https://about.gitlab.com/handbook/legal/#4-requests-for-insurance-certificate)
-4. If there are questions / elements that are not found in the Company Information Page, the Sales Rep should engage Deal Desk to organize requests of finance and tax. 
-5. A Legal Request should only be opened if there is a legal question / element being requested within the Vendor Form.
+
+2.  If there are questions / elements that are not found in the Company Information Page, the Sales Rep should engage Deal Desk to organize requests of finance and tax. Information regarding contacting Deal Desk and overall process can be found at the [Sales Order Process Page](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-process-customer-requested-vendor-setup-forms)
+
+3. **ONLY OPEN A LEGAL REQUEST IF:** There is a specific legal question / element being requested within the Vendor Form.
+
+Example: Has GitLab, or board member / executed of GitLab, been subject to a lawsuit? 
+
  
-
-
-**NOTE:** As a private company, we will not share the following information in a Vendor Request Form: 
+**As a private company, we will not share the following information in a Vendor Request Form:** 
 - Stock / Share ownership of the company
 - Finances, including annual and/or historical performance 
-You may put N/A for this requested information. In addition, you may want to point the Customer to [About GitLab](https://about.gitlab.com/company/)
 
 
 ## EDUCATIONAL
