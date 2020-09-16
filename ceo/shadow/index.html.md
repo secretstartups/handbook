@@ -218,17 +218,27 @@ Exceptional community members may be able to participate, as well.
 | 2020-09-28 | 2020-10-02 | [Madeline Hennessy](https://gitlab.com/mhennessy) - Area Sales Manager US East, SMB | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend |
 | 2020-10-05 | 2020-10-09 | [Michael LeBeau](https://gitlab.com/mlebeau) - Strategic Content Lead | [Madeline Hennessy](https://gitlab.com/mhennessy) - Area Sales Manager US East, SMB |
 | 2020-10-12 | 2020-10-16 | NO SHADOWS - PTO | NO SHADOWS - PTO |
-| 2020-10-26 | 2020-10-30 | AVAILABLE - REMOTE | [Michael LeBeau](https://gitlab.com/mlebeau) - Strategic Content Lead |
+| 2020-10-19 | 2020-10-23 | AVAILABLE - REMOTE | [Michael LeBeau](https://gitlab.com/mlebeau) - Strategic Content Lead |
+| 2020-10-26 | 2020-10-30 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2020-11-02 | 2020-11-06 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2020-11-09 | 2020-11-13 | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan | AVAILABLE - REMOTE |
-| 2020-11-16 | 2020-11-20 | AVAILABLE - REMOTE | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan |
+| 2020-11-16 | 2020-11-20 | AVAILABLE - REMOTE (E-Group Offsite, all-directs shadow) | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan |
 | 2020-11-23 | 2020-11-27 | NO CEO SHADOWS - Thanksgiving | NO CEO SHADOWS - Thanksgiving |
 | 2020-11-30 | 2020-12-04 | [Tucker Logan](https://gitlab.com/tuckcodes) - Federal Solutions Architect | AVAILABLE - REMOTE |
 | 2020-12-07 | 2020-12-11 | AVAILABLE - REMOTE | [Tucker Logan](https://gitlab.com/tuckcodes) - Federal Solutions Architect |
+| 2021-01-04 | 2021-01-08 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-01-11 | 2021-01-15 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-01-18 | 2021-01-22 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-01-18 | 2021-01-22 | AVAILABLE - REMOTE | AVAILABLE - REMOTE | 
+| 2021-01-25 | 2021-01-29 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-02-01 | 2021-02-05 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-02-08 | 2021-02-11 | AVAILABLE - REMOTE (Sales Kickoff) | AVAILABLE - REMOTE (Sales Kickoff) |
+| 2021-02-16 | 2021-02-19 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-02-22 | 2021-02-26 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 
 The week of 2020-12-07 will be the last CEO Shadow Rotation of 2020 to allow our team members to focus on the holiday season and put family and friends first.
 
-If you have questions regarding the planned rotation schedule, please ping the Executive Admin to the CEO. The EBA to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation.
+If you have questions regarding the planned rotation schedule, please ping the Staff Executive Business Admin to the CEO. The EBA to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation. The CEO's schedule is subject to constant change and your rotation may need to be rescheduled. 
 
 ## Preparing for the Program
 
