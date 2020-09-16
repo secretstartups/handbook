@@ -462,6 +462,10 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 - (MPM use only) Integrated Campaign: [FY20IntegratedCampaign_Template](https://app-ab13.marketo.com/#PG4924A1)
 - (MPM use only) Owned Event: [YYYYMMDD_OwnedEvent_Template](https://app-ab13.marketo.com/#ME4722A1)
 - (MPM use only) GitLab Hosted Webcast (single timeslot): [YYYYMMDD_WebcastTopic_Region](https://app-ab13.marketo.com/#ME5512A1)
+- (MPM use only) GitLab Hosted Workshops:
+     - Project Management: [YYYYMMDD_VirtualWorkshop_ProjectManagement](https://app-ab13.marketo.com/#ME6536A1)
+     - Security: [YYYYMMDD_VirtualWorkshop_SecurityWorkshop](https://app-ab13.marketo.com/#ME6521A1)
+     - DevOps Automation: [YYYYMMDD_VirtualWorkshop_DevOpsAutomation](https://app-ab13.marketo.com/#ME6532A1)
 - **Name the program using the campaign tag**
 
 ##### Step 2: Sync to Salesforce
