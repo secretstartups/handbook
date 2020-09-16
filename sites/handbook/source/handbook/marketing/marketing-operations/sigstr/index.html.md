@@ -60,7 +60,23 @@ Each Sigstr campaign banner only points to one link. With PathFactory, we can us
 
 You can identify who clicks on your email signature banners and track content consumption using PathFactory. Using these insights you can optimize your email signature campaigns and content tracks, while simultaneously identifying highly engaged prospects.
 
-To take the most advantage of this integration, it's recommended that you pair your Sigstr banner campaign with an equally targeted content track. To request a content track for a Sigstr campaign, please open an issue in the marketing operations project using the `pathfactory_request.md` template and assign to `@sdaily`.
+To take the most advantage of this integration, pair your Sigstr banner campaign with an equally targeted content track. This v1 integration allows Sigstr to pass a visitor’s email address to PathFactory whenever someone clicks on a Sigstr banner. This means that anyone entering a content track from a Sigstr banner will be identified in PathFactory analytics. When using this integration and sending an email with a Sigstr banner to one recipient, when that recipient clicks on the banner Sigstr will pass the recipient's email address to PathFactory. This allows PathFactory track the resulting session of the known individual. When there are multiple recipients of a single email Sigstr handles identifying visitors differently depending on the scenario. 
+
+Here are three different possible scenarios:
+
+- Scenario 1: You send an email to multiple people within one organization (all with the same @domain.com)
+  - The visitor sessions will be listed as unique events, but the email address "somebody@domain.com" will be associated with each visitor session
+  - The email address will actually say "somebody", and the @domain.com will be the domain you sent the email to
+- Scenario 2: You send an email to one external person, and one or more internal people
+  - The external recipient’s email address will be associated with their session data
+  - The internal recipients' email address will be listed in PathFactory as unique events from unknown traffic
+- Scenario 3: You send an email to multiple people with different domains
+  - Eg. tim@example.com, sarah@demo.com, and lisa@xyz.com
+  - No email address will be passed to PathFactory, so the visitors' sessions will be listed as unknown traffic and will not have an associated email address
+
+Read more about the partnership between PathFactory and Sigstr [here](https://www.pathfactory.com/blog/sigstr-integration/).
+
+To request a content track for a Sigstr campaign, please open an issue in the marketing operations project using the `pathfactory_request.md` template and assign to `@sdaily`.
 
 ### Notifications
 
