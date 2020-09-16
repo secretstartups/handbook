@@ -546,3 +546,10 @@ Note: The most accurate access level will be on the Tech Stack or the AR, genene
 ### SalesForce
 
 </details>
+### **Sales Operations Owned System Offboarding**
+Below are instructions on how Sales Operations offboards users within the various Sales-owned systems. 
+
+1. Sales Operations DRIs will work off of this list view to identify users to offboard: [Ready to Offboard List](https://gitlab.com/gitlab-com/team-member-epics/employment/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=offboarding&not[label_name][]=SalesOpsOB-Completed). 
+1. This can also be pulled by going to the employment project and filtering using the Offboarding and SalesOpsOB - Completed labels.
+1. When the user has been deactivated in the systems listed for the Sales Opeartions DRIs, or the items are completed, the Sales Ops team member will add the SalesOpsOB - Completed label identifying that issue as 'Done.'
+
