@@ -203,7 +203,7 @@ In this case, we delete the corresponding record in `manifests`:
 DELETE FROM manifests WHERE repository_id=:id AND digest=:digest
 ```
 
-The installed trigger inserts all referenced blobs (for all layers in the manifest) into the `blob_review_queue`. A later GC process inspects those and deletes blobs in case they don't have any references anymore.
+The installed trigger inserts all referenced blobs (configuration and layers in the manifest) into the `blob_review_queue`. A later GC process inspects those and deletes blobs in case they don't have any references anymore.
 
 ##### Example: Delete repository
 
@@ -221,7 +221,7 @@ In this case, we delete the tag:
 DELETE FROM tags WHERE repository_id=:id AND name=:reference
 ```
 
-This can lead to untagged manifests which in turn are eligible for deletion. In order to defer this check to background GC, we insert all referenced blobs for this tag/manifest into the `blob_review_queue`.
+This can lead to untagged manifests which in turn are eligible for deletion. In order to defer this check to background GC, we insert all referenced blobs for the manifest that the tag points to into the `blob_review_queue`, but only if no other tag points to the same manifest in that repository.
 
 We might be able to skip this step early in case there is another tag for the same manifest. Note for simplicity, we can also do these checks in GC instead.
 
@@ -231,9 +231,9 @@ We might be able to skip this step early in case there is another tag for the sa
 PUT /v2/<name>/blobs/uploads/<uuid>
 ```
 
-Once a blob upload is finished, we create the record in `blobs` and associate the blobs with the repository through `repository_blobs`. In regular situations, the client might upload more blobs until it pushes the manifest. However, this process might fail and we would be left with dangling blobs (which only have a reference to the repository, but no manifest or layer references it.)
+Once a blob upload is finished, we create the record in `blobs` and associate the blobs with the repository through `repository_blobs`. In regular situations, the client might upload more blobs until it pushes the manifest. However, this process might fail and we would be left with dangling blobs (a configuration or a layer, which is related to the repository, but no manifest references it.)
 
-In this case, we would insert the blob digest into the `blob_review_queue` after the upload has finished (and the corresponding records in `blobs, repository_blobs` have been created). By setting `blob_review_queue.review_after` to a time in the future, we can delay the checking of this blob (which effectively defines a timeout until when we expect the client to have pushed the manifest).
+In this case, we would insert the blob digest into the `blob_review_queue` after the upload has finished (and before the corresponding records in `blobs, repository_blobs` have been created). By setting `blob_review_queue.review_after` to a time in the future, we can delay the checking of this blob (which effectively defines a timeout until when we expect the client to have pushed the manifest).
 
 Now the client pushes the manifest.
 
@@ -243,6 +243,19 @@ PUT /v2/<name>/manifests/<reference>
 
 We create the corresponding records in `manifests` and `layers`. After completing the verification steps, we can de-queue (delete) the digest from the `blob_review_queue`. This is because we are sure now that there is a reference to this blob and we can skip GC. Note this is optional as the GC process would also be able to figure this out on its own - deleting from the queue is cheap (and likely cheaper than running GC), so this is an optimization.
 
+#### Example: Switch existing tag from manifest A to manifest B
+
+PUT /v2/<name>/manifests/<reference>
+
+When uploading a manifest, if `reference` is a tag (can be a digest as well), we have to consider the scenario where an existing tag is switched from manifest `A` to manifest `B`. For example, if we:
+
+1. Build a docker image for a sample application, tag it with `myapp:latest` and push it to the registry. When pushing the image to the registry, its manifest, lets call it `A`, will be uploaded and tagged with `latest` inside the repository `myapp`;
+
+1. Change the sample application source code, rebuild the image with the same `myapp:latest` tag and push it to the registry. Because we changed the source code, this image will have a different manifest, lets call it `B`, which will be uploaded with tag name `latest`.
+
+When the registry receives the manifest `B`, it finds out that another manifest, `A`, is already tagged with `latest` in the repository. In this situation, the registry will remove the `latest` tag from `A` and point it to `B` instead. Because of this, manifest `A` may now be eligible for deletion if no other tag points to it.
+
+To account for this we need to insert all blobs referenced by manifest `A` into the `blob_review_queue`.
 #### Consuming the blob review queue
 
 We implement a background job system that consumes entries from `blob_review_queue` and performs GC checks and actions. This can be done with go-routines and synchronization on `blob_review_queue` can be implemented with `SELECT ... FOR UPDATE SKIP LOCKED` mechanics.
@@ -283,7 +296,7 @@ Given a single blob digest, we implement a series of checks to determine whether
 
 1. Any remaining layer references? `SELECT 1 FROM blobs_layers WHERE digest=:digest LIMIT 1`
 2. Any remaining repository references? `SELECT 1 FROM repository_blobs WHERE blob_digest=:digest` (TODO: The partitioning scheme is not suitable here, we might want to have `blobs_repositories` additionally - tbd)
-3. ...?
+3. Any remaining configuration references? `SELECT 1 FROM blobs_configurations WHERE digest=:digest LIMIT 1`
 
 The database model supports all those checks and we would typically benefit from the partitioning model plus using an efficient index (examples above: single record lookup).
 
