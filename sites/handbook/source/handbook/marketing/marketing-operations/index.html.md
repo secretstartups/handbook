@@ -728,15 +728,6 @@ White Paper or other content offer.
 | No Action | default starting position for all records |  |
 | Downloaded | Downloaded content | Yes |
 
-#### Geographic
-
-We have specific geographic DMA lists that are used for field marketing and marketing programs to target event invitations. This campaign type is only used for visibility of our DMA lists - [click to see full list](/handbook/marketing/marketing-operations/marketo#geographic-dma-list) of DMAs available.
-
-**Bizible:** Touchpoints should be excluded.
-
-| Member Status | Definition | Success |
-| ------------- | ---------- | ------- |
-| Member | A record is a member of this DMA list | n/a this is a cohort campaign type not awarding touchpoints |
 
 #### Inbound Request
 
@@ -749,18 +740,6 @@ Any type of inbound request that requires follow up.
 | No Action | default starting position for all records |  |
 | Requested Contact | Filled out Contact, Professional Services, Demo or Pricing Request | Yes |
 
-#### List Build
-
-A static list built for ad hoc requests by the FMM or MPM team.
-
-**Bizible:** Touchpoints should be excluded.
-
-| Member Status | Definition | Success |
-| ------------- | ---------- | ------- |
-| No Action | default starting position for all records |  |
-| Sales Nominated | Any record proactively identified by Sales to be included in the campaign |  |
-| Marketing List | Any record identified by targeting filters applied by Marketing Operations to build the initial list |  |
-| Organic Engaged | Occasionally used when we are wanting to track & include any records engaging with specific marketing web pages | Yes |
 
 #### Owned Event
 
