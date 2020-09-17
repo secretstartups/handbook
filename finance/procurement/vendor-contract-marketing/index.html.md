@@ -126,15 +126,15 @@ Contracts between $25,000 - $49,999 USD require approval checkoff from:
 
 - [ ] `@ mention DRI`
 - [ ] `@ mention the Field Marketing Country Manager` - once the FM Country Manager has signed off, he/she will add the Global Director of Field Marketing
-- [ ] `Global Director of Field Marketing` - once the Global Director of Field Marketing has signed off, he/she will add the Sr. Director of Revenue Marketing
-- [ ] `Sr. Director of Revenue Marketing`
+- [ ] `Global Director of Field Marketing` - once the Global Director of Field Marketing has signed off, he/she will add the VP of Revenue Marketing
+- [ ] `VP of Revenue Marketing`
 
 Contracts between $50,000 - $99,999 USD require approval checkoff from:
 
 - [ ] `@ mention DRI`
 - [ ] `@ mention the Field Marketing Country Manager` - once the FM Country Manager has signed off, he/she will add the Global Director of Field Marketing
-- [ ] `Global Director of Field Marketing` - once the Global Director of Field Marketing has signed off, he/she will add the Sr. Director of Revenue Marketing
-- [ ] `Sr. Director of Revenue Marketing` - once the Sr. Director of Rev Marketing has signed off he/she will tag the CMO
+- [ ] `Global Director of Field Marketing` - once the Global Director of Field Marketing has signed off, he/she will add the VP of Revenue Marketing
+- [ ] `VP of Revenue Marketing` - once the VP of Rev Marketing has signed off he/she will tag the CMO
 - [ ] `@ mention the CMO`
 
 Tag your finance business partner under Budget Approval.
