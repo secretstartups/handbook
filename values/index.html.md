@@ -284,7 +284,7 @@ We demonstrate collaboration when we take action to help others and include othe
     <td class="tg-0lax">Leads collaboration and teamwork in daily routines, prioritizing interactions, information sharing, and real time decision making across divisions/departments. Encourages greater cross-functional collaboration among e-team leaders.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">EVP/CXO</td>
+    <td class="tg-0lax">14</td>
     <td class="tg-0lax">Champions collaboration and teamwork into daily routines, prioritizing interactions, information sharing, and real time decision making across divisions/departments. Champions cross-functional collaboration among e-team leaders and GitLab.</td>
   </tr>
 </table>
