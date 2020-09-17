@@ -454,18 +454,69 @@ Based on the Family and Medical Leave Act, or [FMLA](https://www.dol.gov/agencie
 ### Apply For Parental Leave in the US
 
 1. Notify the Compensation and Benefits team of intention to take parental leave at least 30 days in advance, or as soon as reasonable.
-    - For a birthing parent (maternity leave), the team member will fill out the [Leave Request Form](https://drive.google.com/open?id=1BZKHKPHvmMoOS1ctjXG3q6RHk8RHYuv1) and email the form to total-rewards@ domain.
-      - Add your name, SSN, address, phone number, date of birth, gender, and marital status to the General Demographics box in the Employer section. The Compensation and Benefits team will fill out the rest of the form upon submission.
-      - Team member will need to populate the Employee section (pages 3-5) and have their physician complete the "Attending Physician's Disability Statement" (page 8)
-      - Review and sign the Disclosure Authorization (page 6). Also, complete the "Authorization of Personal Representative" section (page 7) if there is someone involved in your care that you would like to be able to contact UHC in relation to your disability claim.
-      - The Compensation and Benefits team will finish populating the Employer section of the form.
-      - Once the form is complete, the Compensation and Benefits team will email the form the UHC using the email address provided on the form.
+2. For a birthing parent (maternity leave), the team member will fill out the [Leave Request Form](https://drive.google.com/open?id=1BZKHKPHvmMoOS1ctjXG3q6RHk8RHYuv1) per the instructions below and email the form to total-rewards@ domain.
+      - Pages 3-5 and 8 have to be completed before Total Rewards can email the form to UHC. 
+3. Once the form is complete, the Total Rewards team will email the form the UHC using the email address provided on the form.
       - Once the team member has filed a claim for STD, they will need to confirm the start and end dates of the STD.
       - The typical pay for STD is six weeks for a vaginal birth and eight weeks for a c-section. STD can be extended if the team member has a pregnancy related complication (bed rest, complications from delivery, etc).
       - TODO Outline letters to send and process to apply for STD.
-1. The Compensation and Benefits team will confirm [payroll details](#payroll-processing-during-parental-leave) with the Controller.
-1. The team member will notify the Compensation and Benefits team on their first day back to work.
+1. The Total Rewards team will confirm [payroll details](#payroll-processing-during-parental-leave) with the Controller.
+1. The team member will notify the Total Rewards team on their first day back to work.
 1. TODO Outline process to return the team member to work
+
+#### Maternity Leave STD Form - Team Member to fill out:
+    - General Demographics (page 3): Name, SSN, address, phone number, date of birth, gender and marital status. 
+    - Employment and Claim Information (page 4):
+      - Date of hire
+      - Date you first noticed symptoms of illness/injury: When the symptoms of the pregnancy developed
+      - Date last worked: Due date of birth
+      - Hours worked that day: 8
+      - What date do you expect to return to work: Anticipated date of return
+      - When were you first treated for your injury or illness? Leave blank
+      - Have you ever had the same similar condition in the past? Y if you have been pregnant before, N if it is your first pregnancy
+      - Have you returned to work: Leave blank
+      - Your occupation: Your job title
+      - What parts of your job are you unable to do? Leave blank
+      - Please describe the onset and nature of your illness or injury: Pregnancy
+      - Is your claim a result of illness or accident: Leave blank
+      - Was your injury or illness due to an auto accident? N
+      - Were you injured at work? N
+      - Fill out your physician's details and dates of appointments
+  - Benefits and Earnings Information (page 5): Leave blank
+  - Tax Information (page 5)
+  - Final Signature and Certification (page 5)
+  - Review and sign the Disclosure Authorization (page 6)
+  - Complete the Authorization of Personal Representative section (page 7) if there is someone involved in your care that you would like to be able to contact UHC in relation to your disability claim.
+  - Have your physician complete the Attending Physician's Disability Statement (page 8)
+
+#### Maternity Leave STD Form - Total Rewards to fill out:
+    - General Demographics (page 1):
+      - Employee's Name, SSN, address, phone number, date of birth, gender and marital status
+      - Employer's name, phone number, employer's address
+    - Employment and Claim Information (page 2): 
+       - Date of hire
+       - Last day worked: Estimated last day of work
+       - Insurance/division: Insurance Class
+       - Effective date of STD coverage: 2020-01-01 (until policy is renewed)
+       - Was coverage effective date within the last 12 months? Y
+       - Occupation: Team member's job title
+       - List employee's job duties: Add the link to the team member's job responsibilities
+       - Has employment been terminated? N
+       - Has employee returned to work? Leave blank
+       - If yes, return to work date? TBD
+       - Employee has returned to work in what capacity? Leave blank
+       - Are you willing to make return-to-work accommodations for the employee if needed? Y
+       - Was employee injured at work? N
+    - Benefits and Earning Information
+       - Does the employee contribute to the STD premium? N
+       - Is the employee also covered under a LTD or Life Insurance Policy provided by us? Check both LTD and Life
+       - If yes, do they contribute to the LTD premium? N
+       - If yes, do they contribute on a PRE or POST tax basis? Leave blank
+       - How is the employee paid? Add hourly rate if team member is getting paid per hour. If not, add the annual salary next to "Salaried"
+       - Does the employee eceive other work related income? Add the annual commission amount if team member receives variable pay.
+       - Is the employee currently receiving or eligible for any other income benefits? Leave blank
+    - Final Signature and Certification*: Stage for signatures via HelloSign
+
 
 ### Payroll Processing During Parental Leave
 
