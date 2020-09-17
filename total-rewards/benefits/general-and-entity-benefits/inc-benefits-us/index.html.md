@@ -453,13 +453,12 @@ Based on the Family and Medical Leave Act, or [FMLA](https://www.dol.gov/agencie
 
 ### Apply For Parental Leave in the US
 
-1. Notify the Compensation and Benefits team of intention to take parental leave at least 30 days in advance, or as soon as reasonable.
+1. Notify the Total Rewards team of intention to take parental leave at least 30 days in advance, or as soon as reasonable.
 2. For a birthing parent (maternity leave), the team member will fill out the [Leave Request Form](https://drive.google.com/open?id=1BZKHKPHvmMoOS1ctjXG3q6RHk8RHYuv1) per the instructions below and email the form to total-rewards@ domain.
       - Pages 3-5 and 8 have to be completed before Total Rewards can email the form to UHC. 
-3. Once the form is complete, the Total Rewards team will email the form the UHC using the email address provided on the form.
-      - Once the team member has filed a claim for STD, they will need to confirm the start and end dates of the STD.
+3. Once the form is complete, the Total Rewards team will email the form the UHC using the email address provided on the form through the Secure UHC upload.
+      - Once the team member has filed a claim for STD, UHC will confirm the start and end dates of claim via a determination letter. 
       - The typical pay for STD is six weeks for a vaginal birth and eight weeks for a c-section. STD can be extended if the team member has a pregnancy related complication (bed rest, complications from delivery, etc).
-      - TODO Outline letters to send and process to apply for STD.
 1. The Total Rewards team will confirm [payroll details](#payroll-processing-during-parental-leave) with the Controller.
 1. The team member will notify the Total Rewards team on their first day back to work.
 1. TODO Outline process to return the team member to work
