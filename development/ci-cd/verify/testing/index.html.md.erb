@@ -125,7 +125,7 @@ We will use the `Stretch` label if we feel the issue meets most of the criteria 
 
 There may be some issues in a milestone with neither `Deliverable` nor `Stretch` labels but will strive to have the majority of issues labeled with one of these.
 
-The team will trial this process for the 13.5 milestone and re-evaluate this labeling process. 
+The team will trial this process for the 13.5 milestone and re-evaluate this labeling process.
 
 #### Definition of Ready
 Before the team will accept an issue into a milestone for work it must meet these criteria:
@@ -208,7 +208,7 @@ Some notes/suggestions:
 * Engineers are encouraged to use these updates as a place to collect some technical notes and thoughts or "think out loud" as they work through an issue
 
 #### Monitoring changes behind feature flags
-In addition to the steps documented for [developing with feature flags at GitLab](https://docs.gitlab.com/ee/development/feature_flags/) Verify:Testing engineers monitor their changes' impact on infrastructure using dashboards and logs where possible. Because feature flags allow engineers to have complete control over their code in production it also enables them to take ownership of monitoring the impact their changes have against production infrastructure. In order to monitor our changes we use this [helpful selection of dashboards](https://about.gitlab.com/handbook/engineering/monitoring/#selection-of-useful-dashboards-from-the-monitoring) and specifically the [Rails controller dashboard](https://dashboards.gitlab.net/d/rPsQXrImk/rails-controller)(Internal Only) for monitoring our changes in production. Metrics we evaluate include latency, throughput, CPU usage, memory usage, and database calls, depending on what our change's expected impact will be and any considerations called out in the issue.
+In addition to the steps documented for [developing with feature flags at GitLab](https://docs.gitlab.com/ee/development/feature_flags/) Verify:Testing engineers monitor their changes' impact on infrastructure using dashboards and logs where possible. Because feature flags allow engineers to have complete control over their code in production it also enables them to take ownership of monitoring the impact their changes have against production infrastructure. In order to monitor our changes we use this [helpful selection of dashboards](https://about.gitlab.com/handbook/engineering/monitoring/#selection-of-useful-dashboards-from-the-monitoring) and specifically the [Rails controller dashboard](https://dashboards.gitlab.net/d/web-rails-controller/web-rails-controller) (Internal Only) for monitoring our changes in production. Metrics we evaluate include latency, throughput, CPU usage, memory usage, and database calls, depending on what our change's expected impact will be and any considerations called out in the issue.
 
 The goal of this process is to reduce the time that a change could potentially have an impact on production infrastructure to the smallest possible window. A side benefit of this process is to increase engineer familiarity with our monitoring tools, and develop more experience with predicting the outcomes of changes as they relate to infrastructure metrics.
 
