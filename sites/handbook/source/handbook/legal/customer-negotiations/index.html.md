@@ -54,7 +54,7 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 3. Electronic signature requests can be generated from Sertifi in SFDC, OR, HelloSign. 
 
 **Additional Resources:**
-[Field Operations Signature Process Overview](https://about.gitlab.com/handbook/practical-handbook-edits//handbook/sales/field-operations/order-processing/#how-to-obtain-signatures-for-any-external-contract-or-agreement-including-vendor-forms) 
+[Field Operations Signature Process Overview](/handbook/sales/field-operations/order-processing/#how-to-obtain-signatures-for-any-external-contract-or-agreement-including-vendor-forms) 
 
 ## Clear Export Review in SFDC
 1. See the [Visual Compliance Overview](https://docs.google.com/presentation/d/1hD1xgEyJL1U1eyvTci6NNlCdIur4PkB16GO52wjZRgk/edit#slide=id.g5dbc2f529a_0_41)
@@ -104,11 +104,11 @@ Example: Has GitLab, or board member / executed of GitLab, been subject to a law
 ### 🎥 [Watch When does GitLab Negotiate Video](https://www.youtube.com/embed/zYvZKP5OohA)
 *Learn about when GitLab negotiates; Where to find an NDA template; 3:20 (Log into GitLab Unfiltered)*
 
-1. GitLab will negotiate NDAs with our prospects. You can always send the prospect the GitLab NDA template found [here](https://about.gitlab.com/handbook/practical-handbook-edits//handbook/legal/#contract-templates) and ask for them to sign. If they want to use their template, simply open a Legal Request for "Contract Review".
+1. GitLab will negotiate NDAs with our prospects. You can always send the prospect the GitLab NDA template found [here](/handbook/legal/#contract-templates) and ask for them to sign. If they want to use their template, simply open a Legal Request for "Contract Review".
 2. GitLab will negotiate changes to our terms and conditions provided the [current] Opportunity is greater than $25K (USD).
 3. GitLab will negotiate using a Customer terms and conditions-if they are applicable to our Software and business-if the [current] Opportunity is greater than $100K (USD).
 4. **Why don't we negotiate with all Customers?** Using resources to negotiate on all deals would not be a good use of GitLab resources and instead, we created our terms to be reasonable and in line with industry standards which allows us to place our resources into creating better products and services. 
 
 **Additional Resources**
-[Field Operations Negotiation Overview](https://about.gitlab.com/handbook/practical-handbook-edits//handbook/sales/field-operations/order-processing/#using-customer-form-agreements-and-negotiating-gitlabs-standard-agreement)
+[Field Operations Negotiation Overview](/handbook/sales/field-operations/order-processing/#using-customer-form-agreements-and-negotiating-gitlabs-standard-agreement)
 
