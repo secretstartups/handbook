@@ -73,6 +73,12 @@ from Greenhouse. We do add a note on the candidate's activity saying we synced t
 | `starts_at` (Offer data)                                                                                                         | `customEffectiveDate`                |
 | `compa_group` (Offer data)                                                                                                       | `customExperienceFactor(CompaRatio)` |
 | `ghp_id` (Offer data)                                                                                                            | `customNumber`                       |
+| `starts_at` (Offer data)                                                                                                         | `customBonusdate`                    |
+| `signing_bonus_currency_&_amount` (Offer data)                                                                                   | `customBonusAmount`                  |
+| "Signing Bonus" (Hardcoded value - not from Greenhouse)                                                                          | `customBonustype`                    |
+| "Paid Signing Bonus" (Hardcoded value - not from Greenhouse)                                                                     | `customBonuscomments`                |
+| `family_relationship` (Offer data)                                                                                               | `customRelationship`                 |
+
 
 Besides syncing the above fields, we also sync:
 
