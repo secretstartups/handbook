@@ -30,7 +30,7 @@ The pgbouncer setup for Read Write traffic:
 
 ![PGBouncer RW diagram](infra-db/rw-arch.png)
 
-The pgbouncer setup for Read Only traffic: 
+The pgbouncer setup for Read Only traffic:
 
 ![PGBouncer RO diagram](infra-db/ro-arch.png)
 
@@ -123,8 +123,6 @@ The following (private) Grafana dashboard are important / useful for database sp
 
 - [PostgresSQL Overview](https://dashboards.gitlab.net/dashboard/db/postgresql-overview)
 - [PostgresSQL Tuple Statistics](https://dashboards.gitlab.net/dashboard/db/postgresql-tuple-statistics)
-- [Transaction Overview](https://dashboards.gitlab.net/dashboard/db/transaction-overview?orgId=1)
-- [Rails Controllers](https://dashboards.gitlab.net/dashboard/db/rails-controllers?orgId=1)
 
 ### Documentation
 
