@@ -957,10 +957,9 @@ To get in touch with the [e-group](/company/team/?department=executive) on Slack
 | ------ | ------ |
 | CEO    | `#ceo` |
 | CFO    | `#finance` |
-| VP of Product | `#product` |
-| VP of Product Strategy | `#product-strategy` |
+| EVP of Product | `#product` |
 | EVP of Engineering | `#evpe` |
-| CRO    | `#sales` |
+| CRO    | `#cro` |
 | CMO    | `#marketing` |
 | CPO    | `#peopleops` |
 | CLO    | `#legal` |
