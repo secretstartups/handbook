@@ -35,7 +35,7 @@ Topics are in alphabetical order with team members grouped by region.
 | Docker | AMER | Harish<br>Cody West<br>Caleb W.<br>Davin<br>Lewis |
 |  | APAC | Julian<br>Priyan<br>Athar |
 |  | EMEA | Catalin<br>Rehab<br>Alin |
-| ElasticSearch | AMER | Blair<br>Michael Lussier<br>JasonC |
+| ElasticSearch | AMER | Blair<br>Michael Lussier<br>JasonC<br>Caleb C |
 |  | APAC | AlexS |
 | Git LFS | AMER | Diana<br>Will<br>Lewis |
 |  | EMEA | Ben |
