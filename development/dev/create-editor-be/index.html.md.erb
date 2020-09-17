@@ -125,7 +125,7 @@ Every Friday the engineering manager will identify issues that need to be refine
 - [Application Limits](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Aeditor&weight=None&label_name[]=backend&label_name[]=Application%20Limits)
 - [All backend issues without weight](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Aeditor&weight=None&label_name[]=backend)
 
-Once identified, the engineering manager will apply the “Backlog Refinement: Editor” and “workflow::planning breakdown” label, which will indicate the issues are ready for refinement.
+Once identified, the engineering manager will apply the “Backlog Refinement::Editor” and “workflow::planning breakdown” label, which will indicate the issues are ready for refinement.
 
 ### Step 2: Refining Issues
 
@@ -136,20 +136,19 @@ Early in the next week, each backend engineer on the team will look at the list 
 For each issue, each team member will review the issue and provide the following information:
 
 - Estimated weight
-- Any documentation that needs to be updated
+- Documentation that needs to be updated
 - Testing that needs to take place
 - Any security concerns
 - How you would use iteration to break down the issue into MRs
 
 ### Step 3: Finalizing Refinement
 
-On the following Friday, after engineers have had a chance to provide input, the engineering manager will use the input and apply a final weight. This could be the average of weights provided by the engineers, but the final decision is up to the engineering manager.
+On the following Friday, after engineers have had a chance to provide input, the engineering manager will use the input to update the following information:
 
-At this time the engineering manager will also update the description of the issue as needed to add information the came up during the refinement process.
-
-If there are any testing or security concerns, the engineering manager will inform the correct stable counterparts.
-
-Finally, the engineering manager will remove the “Backlog Refinement: Editor” label and change the “workflow::planning breakdown” label to be “workflow::scheduling”.
+- Apply a final weight. This could be the average of weights provided by the engineers, but the final decision is up to the engineering manager
+- Update the description of the issue as needed to add information the came up during the refinement process
+- Inform stable counterparts if there are any testing or security concerns
+- Remove the “Backlog Refinement::Editor” label and change the “workflow::planning breakdown” label to be “workflow::scheduling”
 
 For any issues that were not discussed and given a weight, the engineering manager will work with the engineers to see if we need to get more information from PM or UX.
 
