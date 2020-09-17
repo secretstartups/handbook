@@ -81,8 +81,6 @@ Below we list product categories and the current and proposed features which res
 1. **Pipeline dashboards (Premium/Silver)** : Dashboards of pipelines across groups and projects are primarily used and valued by Directors.
 1. **Downloadable all pipeline logs (Ultimate/Gold)** : Pipeline logs would be generated and even downloaded by individual contributors, but the value of collating these logs is provided to Executives responsible for ensuring compliance.
 
-For detailed use-cases per tier, visit the [Per Tier Use-Cases page](/handbook/ceo/pricing/per-tier-use-cases).
-
 ### Partner integration considerations
 
 When building integrations to partners it is possible to make exceptions to our buyer-based model when our tiers don't align well with those of the partner, but only in favor of lower tiers. As an example - a partner who provides a team collaboration tool with a free tier might desire any GitLab integration to be present in our free tier despite it clearly being appropriate for single team usage. The go-to-market benefits of this partnership can outweigh the divergence from our buyer-based model.
