@@ -218,9 +218,9 @@ Exceptional community members may be able to participate, as well.
 | 2020-09-28 | 2020-10-02 | [Madeline Hennessy](https://gitlab.com/mhennessy) - Area Sales Manager US East, SMB | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend |
 | 2020-10-05 | 2020-10-09 | [Michael LeBeau](https://gitlab.com/mlebeau) - Strategic Content Lead | [Madeline Hennessy](https://gitlab.com/mhennessy) - Area Sales Manager US East, SMB |
 | 2020-10-12 | 2020-10-16 | NO SHADOWS - PTO | NO SHADOWS - PTO |
-| 2020-10-19 | 2020-10-23 | [David Fisher](https://gitlab.com/dfishis1) - Acceleration SDR | [Michael LeBeau](https://gitlab.com/mlebeau) - Strategic Content Lead |
-| 2020-10-26 | 2020-10-30 | AVAILABLE - REMOTE | [David Fisher](https://gitlab.com/dfishis1) - Acceleration SDR |
-| 2020-11-02 | 2020-11-06 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2020-10-19 | 2020-10-23 | AVAILABLE - REMOTE | [Michael LeBeau](https://gitlab.com/mlebeau) - Strategic Content Lead |
+| 2020-10-26 | 2020-10-30 | [David Fisher](https://gitlab.com/dfishis1) - Acceleration SDR  | AVAILABLE - REMOTE |
+| 2020-11-02 | 2020-11-06 | AVAILABLE - REMOTE | [David Fisher](https://gitlab.com/dfishis1) - Acceleration SDR  |
 | 2020-11-09 | 2020-11-13 | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan | AVAILABLE - REMOTE |
 | 2020-11-16 | 2020-11-20 | AVAILABLE - REMOTE (E-Group Offsite, all-directs shadow) | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan |
 | 2020-11-23 | 2020-11-27 | NO CEO SHADOWS - Thanksgiving | NO CEO SHADOWS - Thanksgiving |
