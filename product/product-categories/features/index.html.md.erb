@@ -14,9 +14,21 @@ This page is meant to showcase the features by tier across GitLab's Product Hier
 
     <% if stage.groups %>
       <% stage.groups.each do |groupKey, group| %>
+        <% groupLine=[] %>
+        <% groupLine << "Slack Channel: [#{group.slack.channel}](https://gitlab.slack.com/app_redirect?channel=#{group.slack.channel})" if group&.slack&.channel %>
+        <% groupLine << "Slack Alias: @#{group.slack.alias}" if group&.slack&.alias %>
+        <% groupLine << "GitLab Group: @#{group.gitlab_group}" if group&.gitlab_group %>
+        <% groupLine << "[Handbook](/handbook/#{group.handbook})" if group&.handbook %>
+        <% groupLine << "Product Management: #{team_links_from_group(group: group.pm_team_tag)}" if group.pm_team_tag %>
+        <% groupLine << "Product Manager".pluralize([*group.pm].count) + ": " + [*group.pm].map{ |pm| "[#{pm}]" }.join(", ") if group.pm %>
+        <% groupLine << "Product Marketing Manager: [#{group.pmm}]" if group.pmm %>
+        <% groupLine << "Engineering Manager: [#{group.em}]" if group.em %>
+        <% groupLine << "Backend Engineering Manager: [#{group.backend_engineering_manager}]" if group.backend_engineering_manager %>
+        <% groupLine << "Frontend Engineering Manager: [#{group.frontend_engineering_manager}]" if group.frontend_engineering_manager %>
 #### <%= "#{stage.display_name}:#{group.name}" %> Group
-
+<%= "#{groupLine.join(' \\| ')}" if groupLine %>
         <% if group.categories %>
+
 | Category | Features in Core | Features in Starter | Features in Premium | Features in Ultimate |
 |:--------:|:----------------:|:-------------------:|:-------------------:|:--------------------:|
           <% group.categories.each do |category_key| %>
@@ -43,3 +55,5 @@ This page is meant to showcase the features by tier across GitLab's Product Hier
   <% end %>
 
 <% end %>
+
+<%= partial("includes/product/categories-names") %>
