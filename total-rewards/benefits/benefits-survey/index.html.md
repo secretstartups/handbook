@@ -26,6 +26,35 @@ This is an opportunity to share with the Total Rewards team what benefits you th
 
 Thank you again for playing a part in our efforts to continually improve total rewards at GitLab. If you have any questions, please reach out to the Total Rewards team via email.
 
+### 2020 Survey Results Roadmap
+
+* Increased Education around benefits as `I understand my benefits package at GitLab` decreased by 7% company wide. Also to increase awareness on the Total Rewards team is who to reach out to since there is company wide score of 3.82 out of 5 (lowest score among ICs). [Related Issue](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/191)
+* Country Conversion Benefits Review:
+  * [Austria](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/181): Complete
+  * [Mexico](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/158): Complete
+  * [Hungary](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/147)
+  * [Philippines](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/144): Complete
+  * [South Africa](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/135): Complete
+  * [India](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/global-upside-benefits-india/): Complete
+  * [Czech Republic](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/174): Complete
+  * To be added based on country list from the Country Conversion Team.
+* New Entity Benefits Review  
+  * [Ireland](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/167): Pending implementation, plan design complete.   Singapore, India,
+* Existing Entity Benefits Review
+  * Netherlands: Implement a Pension Plan. [Related Issue](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/179)
+
+* Review Wellness Offerings for FY22 as similar response to 2019 survey that this is the top benefit team members would want to see implemented (especially in EMEA market).
+* Canada Pension Plan
+*
+* Belgium Benefits  
+* UK Benefits
+* Germany entity specific benefits
+* Hungary conversion
+* Review 401k plan 2.69/5
+* Review Paid Medical Leave Plan for 16 weeks
+* Review Coaching Program for Parental Leave. [Related Issue](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/130)
+
+
 ### Global Benefits Survey Results 2020
 
 Participation: 62% (0% YOY change)
@@ -118,11 +147,11 @@ By demographic:
     | GitLab                 | 2019 Score | 2020 Score | YOY Change |
     |------------------------|------------|------------|------------|
     | Male	                 | 3.67       | 3.42       | -6.90%     |
-    | Female                 | 3.66       | 3.46       | -5.58%     | 
+    | Female                 | 3.66       | 3.46       | -5.58%     |
     | Individual Contributor | 3.72       | 3.50       | -5.80%     |
-    | Manager                | 3.33       | 3.23       | -2.98%     | 
+    | Manager                | 3.33       | 3.23       | -2.98%     |
     | Leader                 | 3.46       | 3.12       | -9.96%     |
-    | Company Overall        | 3.66       | 3.43       | -6.31%     | 
+    | Company Overall        | 3.66       | 3.43       | -6.31%     |
 
     By Country:
 
@@ -192,7 +221,7 @@ By demographic:
     | Individual Contributor | 3.63       | 3.77       |   3.86%    |
     | Manager                | 3.38       | 3.83       |  13.36%    |
     | Leader                 | 3.58       | 3.81       |   6.41%    |
-    | Company Overall        | 3.60       | 3.79       |   5.14%    | 
+    | Company Overall        | 3.60       | 3.79       |   5.14%    |
 
     By Country:
 
@@ -310,7 +339,7 @@ By demographic:
 
     | GitLab                 | 2019 Score | 2020 Score | YOY Change |
     |------------------------|------------|------------|------------|
-    | Male	                 | 4.48       | 4.39       | -2.09%     | 
+    | Male	                 | 4.48       | 4.39       | -2.09%     |
     | Female                 | 4.40       | 4.37       | -0.68%     |
     | Individual Contributor | 4.49       | 4.43       | -1.29%     |
     | Manager                | 4.27       | 4.24       | -0.79%     |
@@ -385,7 +414,7 @@ By demographic:
     | Individual Contributor | 4.20       | 4.16       | -0.97%     |
     | Manager                | 4.25       | 4.11       | -3.27%     |
     | Leader                 | 3.85       | 4.02       |  4.39%     |
-    | Company Overall        | 4.18       | 4.14       | -0.93%     | 
+    | Company Overall        | 4.18       | 4.14       | -0.93%     |
 
     By Country:
 
@@ -562,7 +591,7 @@ By demographic:
     | Other (Expanded on below.)                                                     | 118   | 15%              |
 
     * Summary of Other Responses:
-      * When I feel it's needed. 
+      * When I feel it's needed.
       * Family first/family time.
       * Addressing burn out/taking time to rest.
       * Example from peers.
@@ -573,10 +602,10 @@ By demographic:
 
     | Response                                                                                                                               | Count | % of Respondents |
     |----------------------------------------------------------------------------------------------------------------------------------------|-------|------------------|
-    | Yes, I participated and agree with the statement above.                                                                                | 15    | 2%               | 
-    | No, I did not participate, but am interested in GitLab offering a meditation and mental-wellness benefit in addition to Modern Health. | 500   | 64%              | 
-    | Yes, I participated and do not agree with the statement above.                                                                         | 6     | 1%               | 
-    | No, I did not participate and am not interested in GitLab offering a mediation and mental-wellness benefit.                            | 258   | 33%              | 
+    | Yes, I participated and agree with the statement above.                                                                                | 15    | 2%               |
+    | No, I did not participate, but am interested in GitLab offering a meditation and mental-wellness benefit in addition to Modern Health. | 500   | 64%              |
+    | Yes, I participated and do not agree with the statement above.                                                                         | 6     | 1%               |
+    | No, I did not participate and am not interested in GitLab offering a mediation and mental-wellness benefit.                            | 258   | 33%              |
 
 1. What corporate social responsibility activities would you like to see GitLab enter? The purpose of corporate social responsibility is to give back to the community, take part in philanthropic causes, and provide positive social value. 
    * Summary of Responses:
@@ -585,11 +614,11 @@ By demographic:
      * Community/Volunteer Day(s) similar to Friends & Family Day where everyone has the day off.
      * Youth initiatives including supporting underrepresented, underprivileged, and/or minority youth in their education, coding, mentorship, etc.
      * Donating to and supporting causes that support ending inequality such as causes that support LGBTQ+ people, Black Lives Matter, organizations that support minorities and minorities in tech, etc.
-     * Coding initiatives especially for women and minorities. 
-     * Donating to and supporting environmental causes, reducing our carbon footprint, creating an incentive program for team members to be more green. 
-     * Supporting open source projects. 
+     * Coding initiatives especially for women and minorities.
+     * Donating to and supporting environmental causes, reducing our carbon footprint, creating an incentive program for team members to be more green.
+     * Supporting open source projects.
      * Donating free licenses and GitLab support/training to charitable organizations.
-     * Providing mentorships and internships in support of D&I initiatives. 
+     * Providing mentorships and internships in support of D&I initiatives.
 
 #### Entity Specific Questions
 
@@ -664,7 +693,7 @@ By demographic:
 
 * Americas
 
-    | Response | United States (% of Respondents) | Canada (% of Respondents) | Mexico (% of Respondents) | 
+    | Response | United States (% of Respondents) | Canada (% of Respondents) | Mexico (% of Respondents) |
     |----------|----------------------------------|---------------------------|---------------------------|
     | Paid parental leave above 16 weeks. | 14% | 30% | 0% |
     | 100% paid medical leave for 16 weeks. | 16% | 10% | 67% |
@@ -723,7 +752,7 @@ By demographic:
 
 * Americas
 
-    | Response | United States (% of Respondents) | Canada (% of Respondents) | Mexico (% of Respondents) | 
+    | Response | United States (% of Respondents) | Canada (% of Respondents) | Mexico (% of Respondents) |
     |----------|----------------------------------|---------------------------|---------------------------|
     | Paid parental leave. | 4% | 0% | 0% |
     | Employee Assistance Program (Modern Health). | 21% | 40% | 50% |
@@ -777,7 +806,7 @@ By demographic:
 
 * Americas
 
-    | Response | United States (% of Respondents) | Canada (% of Respondents) | Mexico (% of Respondents) | 
+    | Response | United States (% of Respondents) | Canada (% of Respondents) | Mexico (% of Respondents) |
     |----------|----------------------------------|---------------------------|---------------------------|
     | Paid parental leave. | 27% | 43% | 38% |
     | Employee Assistance Program (Modern Health). | 2% | 7% | 13% |
@@ -843,11 +872,11 @@ By demographic:
 | No Response                     | 63    | 15%              |
 | Other (Expanded on below.)      | 16    | 4%               |
 
-* Summary of Other responses: 
+* Summary of Other responses:
      * Plan details would matter more.
      * Not enrolled in GitLab's plan.
      * Reflections on the American healthcare system.
-     * Unsure how to compare. 
+     * Unsure how to compare.
      * Smaller provider not listed here.
 
 * **Canada**
@@ -872,7 +901,7 @@ By demographic:
 | No Response                     | 3     | 20%              |
 | Other (Expanded on below.)      | 3     | 20%              |
 
-* Summary of Other responses: 
+* Summary of Other responses:
      * No opinion, but would like a higher coverage level.
 
 * **United Kingdom**
@@ -884,10 +913,10 @@ By demographic:
 | Virgin Active                   | 2     | 4%               |
 | Simply Health                   | 1     | 2%               |
 | Aviva                           | 1     | 2%               |
-| No Response                     | 12    | 14%              | 
+| No Response                     | 12    | 14%              |
 | Other (Expanded on below.)      | 22    | 45%              |
 
-* Summary of Other responses: 
+* Summary of Other responses:
      * No preference.
      * Vitality.
 
@@ -903,12 +932,12 @@ By demographic:
 | Anthem/BCBS                | 19    | 4%               |
 | Aetna                      | 16    | 4%               |
 | Metlife                    | 13    | 3%               |
-| No Preference              | 19    | 4%               | 
+| No Preference              | 19    | 4%               |
 | No Response                | 87    | 20%              |
 | Other (Expanded on below.) | 16    | 4%               |
 
-* Summary of Other responses: 
-      * Plan details would matter more. 
+* Summary of Other responses:
+      * Plan details would matter more.
       * Unsure how to compare.
       * General reflections on the American healthcare system.
       * Not on GitLab's policy.
@@ -928,7 +957,7 @@ By demographic:
 | No Response                | 151   | 35%              |
 | Other (Expanded on below.) | 53    | 12%              |
 
-* Summary of Other responses: 
+* Summary of Other responses:
      * Don't utilize this benefit.
      * Not informed enough on the choices to respond.
      * Option not listed above.  
@@ -954,10 +983,6 @@ By demographic:
 | Optional life insurance. | 60% | 0% | 25% | 71% | 50% | 67% | 60% | 20% |
 | Disability insurance. | 20% | 17% | 8% | 43% | 50% | 83% | 20% | 40% |
 | Pension. | 0% | 50% | 8% | 43% | 17% | 33% | 20% | 60% |
-
-**Action Items/Issues to Open:**
-
-TODO
 
 ## Benefits Not Currently Being Implemented
 
