@@ -17,7 +17,7 @@ To make it easier for our GitLab team-members to contribute to Growth, this page
 
 ## Finding Customer Seat Counts 
 
-Seat expansion is at the heart of our revenue Growth and has a strong impact on IACV and both Net and Gross Retention. There are various ways to determine the seat counts for a subscription: 
+Seat expansion is at the heart of our revenue growth. This has a strong impact on IACV and both Net and Gross Retention. There are various ways to determine the seat counts for a subscription: 
 
 
 #### Gitlab.com 
