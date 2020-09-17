@@ -983,5 +983,4 @@ We researched and selected three vendors and conducted a cost analysis with Fina
 
 ### SafetyWing
 
-We researched whether a global medical benefit can be offered to all the team members. This would have been an additional benefit to the independent team members.  Demo calls were conducted with SafetyWing where we learned more about the solution and pricing. Considering the ongoing international expansion process (where a team member is converted to an employee of either a PEO or a GitLab Entity) and existing medical benefits. We have decided not to implement this benefit currently.
-Further information, survey results, and corresponding discussion are available under [Total Rewards Issue #124](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/124) (internal).
+SafetyWing is a globaly medical benefits provider. At this time we will not be offering this benefit globally as we are focused on entity specific benefits (which many have medical plans already in place) and the ongoing international expansion process (where a team member is converted to an employee of either a PEO or a GitLab Entity). Further information, survey results, and corresponding discussion are available under [Total Rewards Issue #124](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/124) (internal).
