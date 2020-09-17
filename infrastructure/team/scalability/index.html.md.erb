@@ -209,22 +209,16 @@ the progress of ongoing work.
 
 On the **planning board**, the goal is to get issues into a state where we have enough information to build the issue.
 However, not all issues that are `workflow-infra::Ready` to be built should be scheduled for development right away. Some
-issues may be too big, or have too low a priority. This means that not all issues that are `workflow-infra::Ready` on the
+issues may be too big, or have too low a priority. This means not all issues that are `workflow-infra::Ready` on the
 planning board will move to the build board immediately.
 
-While not essential to use, the **scheduling board** shows all issues in the state of `workflow-infra::Ready`. These issues
-can be moved onto the build board, or sent back to our backlog. The decision making process is:
-1. _Issue part of an active project_ - then move it to the build board, else
-1. _Issue part of a future project_ - then move it back to the backlog, else
-1. _Issue is `Scalability::P1` or `Scalability::P2`_ - then move it to the build board, else
-1. _Other issue that is less than 2 days of work_ - then move to the build board, else
-1. _Other issue that is larger than 2 days of work_ - raise with the Engineering Manager or discuss in the team's Slack channel.
+Please see the [triage rotation section](#triage-rotation) for when to move issues between the boards.
 
-| **Planning** | **Scheduling** | **Building**|
-|--------------|----------------|-------------|
-| [Planning Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1697168) | [Scheduling Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/2006320) | [Build Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1697160) |
-| Issues where we are investigating the work to be done. | Issues containing enough information for work to commence.  | Issues that will be built next, or are actively in development. |
-| ![Triage](img/label-triage.png)	<br/>![Proposal](img/label-proposal.png) <br/>![Ready](img/label-ready.png) | ![Ready](img/label-ready.png) | ![Ready](img/label-ready.png) <br/>![In Progress](img/label-in_progress.png) <br/>![Under Review](img/label-under_review.png) <br/>![Verify](img/label-verify.png) <br/>![Done](img/label-done.png)|
+| **Planning** | **Building**|
+|--------------|-------------|
+| [Planning Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1697168) | [Build Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1697160) |
+| Issues where we are investigating the work to be done. | Issues that will be built next, or are actively in development. |
+| ![Triage](img/label-triage.png)	<br/>![Proposal](img/label-proposal.png) <br/>![Ready](img/label-ready.png) | ![Ready](img/label-ready.png) <br/>![In Progress](img/label-in_progress.png) <br/>![Under Review](img/label-under_review.png) <br/>![Verify](img/label-verify.png) <br/>![Done](img/label-done.png)|
 
 ### Labels
 
@@ -299,12 +293,22 @@ triage issue).
 
 There are three issues created weekly:
 
-1. Board refinement - walk through the [Planning Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1697168) and move
-   issues forward towards `workflow-infra::Ready` where possible. Issues in `workflow-infra::Ready` can be moved onto
-   the **build board** as [described above](#issue-boards).
-2. `Service::Unknown` refinement - go through issues marked `Service::Unknown` with the goal of adding a defined service, where possible.
-3. [Review request](#scalability-review-requests) processing - the goal is to move these issues to `workflow-infra::In Progress`, either through picking them up
-   directly, or asking on our team channel if any one else is able.
+1. **Board refinement**
+   1. Using the [Planning Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1697168).
+      1. `workflow-infra::Triage` issues should be checked to make sure the idea is valid. Move the conversation forward
+          and ask for clarification where needed. Do what you can to add more details to develop a proposal.
+      1. `workflow-infra::Proposal` issues should be checked to make sure that the proposal is complete. The benefit of the
+          work should be clear, it should contain a breakdown of tasks, and include steps to validate the outcome.
+      1. `workflow-infra::Blocked` issues should be checked to see if blockers have been removed.
+      1. `workflow-infra::Ready` issues should be moved to the [Build Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1697160) using the following guidelines:
+          1. _Issue part of an active project_ - then move it to the build board, else
+          1. _Issue part of a future project_ - then move it back to the backlog, else
+          1. _Issue is `Scalability::P1` or `Scalability::P2`_ - then move it to the build board, else
+          1. _Other issue that is less than 2 days of work_ - then move to the build board, else
+          1. _Other issue that is larger than 2 days of work_ - raise with the Engineering Manager or discuss in the team's Slack channel.
+2. **`Service::Unknown` refinement** - go through issues marked `Service::Unknown` and add a defined service, where possible.
+3. **Review request processing** - the goal is to move [review request](#scalability-review-requests) issues to `workflow-infra::In Progress`, either
+   through picking them up directly, or asking on our team channel if any one else is able.
 
 ## Choosing something to work on
 
