@@ -425,7 +425,7 @@ The Recruiting Operations & Insights team utilizes [Recruiting Operations Issues
         * First and forement, please ensure that you've added your GitLab email address to your LinkedIn profile and verified it.
     * "I've been given a *Recruiter*, but can't send profiles to Greenhouse via their integration."
         * Information about setting-up the *Recruiter System Connect* integration can be found [here](/handbook/hiring/greenhouse/#enabling-linkedin-recruiter-system-connect).
-    * "I have a *Recruiter* (or *Hiring Manager) seat, but can't access GitLab's account.
+    * "I have a *Recruiter* (or *Hiring Manager*) seat, but can't access GitLab's account.
         * Please try signing-out of LinkedIn and when signing back in, please be sure to select GitLab's account. This error often appears if you had a seat with another organisation.
 
 </details>
