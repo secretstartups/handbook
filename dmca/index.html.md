@@ -5,7 +5,7 @@ title: DMCA Policy
 
 # DMCA (Digital Millennium Copyright Act) takedown request requirements 
 
-We take the intellectual property rights of others seriously and require that our Users do the same. The Digital Millennium Copyright Act established a process for addressing claims of copyright infringement. If you own a copyright or have authority to act on behalf of a copyright owner and want to report a claim that a third party is infringing that material on or through GitLab's services, please send a notice with all of the items below, to the address below, and we will take appropriate action:
+We take the intellectual property rights of others seriously and require that our Users do the same. The Digital Millennium Copyright Act (DMCA) established a process for addressing claims of copyright infringement. If you own a copyright or have authority to act on behalf of a copyright owner and want to report a claim that a third party is infringing that material on or through GitLab's services, please send a notice that meets the minimum requirements of the DMCA, to `dmca@gitlab.com`, and we will take appropriate action:
 
 1. A description of the copyrighted work that you claim is being infringed;
 2. A description of the material you claim is infringing and that you want removed or access to which you want disabled and the URL or other location of that material;
