@@ -214,11 +214,11 @@ planning board will move to the build board immediately.
 
 While not essential to use, the **scheduling board** shows all issues in the state of `workflow-infra::Ready`. These issues
 can be moved onto the build board, or sent back to our backlog. The decision making process is:
-1. _Issue part of an active project_ - then move it to the build board.
-1. _Issue part of a future project_ - then move it back to the backlog.
-1. _Issue is `Scalability::P1` or `Scalability::P2`_ - then move it to the build board.
-1. _Other issue that is less than 2 days of work_ - then move to the build board.
-1. _Other issue that is larger than 2 days of work_ - raise with the EM.
+1. _Issue part of an active project_ - then move it to the build board, else
+1. _Issue part of a future project_ - then move it back to the backlog, else
+1. _Issue is `Scalability::P1` or `Scalability::P2`_ - then move it to the build board, else
+1. _Other issue that is less than 2 days of work_ - then move to the build board, else
+1. _Other issue that is larger than 2 days of work_ - raise with the Engineering Manager or discuss in the team's Slack channel.
 
 | **Planning** | **Scheduling** | **Building**|
 |--------------|----------------|-------------|
