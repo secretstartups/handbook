@@ -183,6 +183,21 @@ The Engineering Manager is responsible for clearing the path. They need to make 
 have the access to the right information, people, tools, and other resources to get the work done. They try to foresee
 problems and clear any blockers that may arise while the work is in progress.
 
+### Issue Breakdown
+
+Sometimes an issue can be large and require multiple merge requests to resolve. In this case, it can help to create smaller, more narrowly defined issues that can be resolved with a single merge request.
+Resolving these smaller "sub-issues" contributes to the completion of the larger parent issue. This has several benefits:
+
+1. It keeps the conversations around each specific merge request within its own issue.
+1. It makes it easier to see the progress of each merge request that contributes to the larger issue.
+1. It promotes iteration and smaller merge requests.
+
+For example, if an issue requires one frontend, one backend, and one database change, it can help to create three "sub-issues" that link back to the main issue.
+
+To ensure the sequence of completion of the "sub-issues" is easy to track, we should utilize [`Blocks` and `Is blocked by` options](https://about.gitlab.com/handbook/marketing/project-management-guidelines/issues/#related-issues-and-blocking-issues) on each issue page.
+
+![Related issues](handbook/engineering/release-managment/related-issues.png)
+
 ### Addressing new issues quickly
 
 When new issues arise (through testing, customer support issues, or other means) we still want to be able to address them
