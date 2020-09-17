@@ -459,34 +459,34 @@ Based on the Family and Medical Leave Act, or [FMLA](https://www.dol.gov/agencie
 3. Once the form is complete, the Total Rewards team will email the form the UHC using the email address provided on the form through the Secure UHC upload.
       - Once the team member has filed a claim for STD, UHC will confirm the start and end dates of claim via a determination letter. 
       - The typical pay for STD is six weeks for a vaginal birth and eight weeks for a c-section. STD can be extended if the team member has a pregnancy related complication (bed rest, complications from delivery, etc).
-1. The Total Rewards team will confirm [payroll details](#payroll-processing-during-parental-leave) with the Controller.
+1. The Total Rewards team will confirm [payroll details](#payroll-processing-during-parental-leave) with the Payroll team via the Payroll Changes google sheet.
 1. The team member will notify the Total Rewards team on their first day back to work.
 1. TODO Outline process to return the team member to work
 
 #### Maternity Leave STD Form - Team Member to fill out:
-    - General Demographics (page 3): Name, SSN, address, phone number, date of birth, gender and marital status. 
-    - Employment and Claim Information (page 4):
-      - Date of hire
-      - Date you first noticed symptoms of illness/injury: When the symptoms of the pregnancy developed
-      - Date last worked: Due date of birth
-      - Hours worked that day: 8
-      - What date do you expect to return to work: Anticipated date of return
-      - When were you first treated for your injury or illness? Leave blank
-      - Have you ever had the same similar condition in the past? Y if you have been pregnant before, N if it is your first pregnancy
-      - Have you returned to work: Leave blank
-      - Your occupation: Your job title
-      - What parts of your job are you unable to do? Leave blank
-      - Please describe the onset and nature of your illness or injury: Pregnancy
-      - Is your claim a result of illness or accident: Leave blank
-      - Was your injury or illness due to an auto accident? N
-      - Were you injured at work? N
-      - Fill out your physician's details and dates of appointments
-  - Benefits and Earnings Information (page 5): Leave blank
-  - Tax Information (page 5)
-  - Final Signature and Certification (page 5)
-  - Review and sign the Disclosure Authorization (page 6)
-  - Complete the Authorization of Personal Representative section (page 7) if there is someone involved in your care that you would like to be able to contact UHC in relation to your disability claim.
-  - Have your physician complete the Attending Physician's Disability Statement (page 8)
+   - General Demographics (page 3): Name, SSN, address, phone number, date of birth, gender and marital status. 
+   - Employment and Claim Information (page 4):
+    - Date of hire
+    - Date you first noticed symptoms of illness/injury: When the symptoms of the pregnancy developed
+    - Date last worked: Due date of birth
+    - Hours worked that day: 8
+    - What date do you expect to return to work: Anticipated date of return
+    - When were you first treated for your injury or illness? First Prenatal appointment 
+    - Have you ever had the same similar condition in the past? Y if you have been pregnant before, N if it is your first pregnancy
+    - Have you returned to work: n/a
+    - Your occupation: Your job title
+    - What parts of your job are you unable to do? n/a
+    - Please describe the onset and nature of your illness or injury: Pregnancy
+    - Is your claim a result of illness or accident: N
+    - Was your injury or illness due to an auto accident? N
+    - Were you injured at work? N
+    - Fill out your physician's details and dates of appointments
+   - Benefits and Earnings Information (page 5): Leave blank
+   - Tax Information (page 5): Fill out based on your individual tax preferences 
+   - Final Signature and Certification (page 5)
+   - Review and sign the Disclosure Authorization (page 6)
+   - Complete the Authorization of Personal Representative section (page 7) if there is someone involved in your care that you would like to be able to contact UHC in relation to your disability claim.
+   - Have your physician complete the Attending Physician's Disability Statement (page 8)
 
 #### Maternity Leave STD Form - Total Rewards to fill out:
     - General Demographics (page 1):
