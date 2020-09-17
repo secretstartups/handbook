@@ -94,12 +94,11 @@ View the [enlarged version of the process](https://mermaidjs.github.io/mermaid-l
 
 ### Compensation Change Freeze
 
-To ensure a smooth process, the Total Rewards team will freeze any compensation changes relating to promotions during the Annual Compensation Review. Any compensation change requests need to be submitted to Total Rewards for review by 2020-12-01 with an effective date of 2020-12-16. If an exception needs to be made and a compensation change needs to be processed during this time, such as relocations, transfers or other reasons, please send an email to Total Rewards. 
+To ensure a smooth process, the Total Rewards team will freeze any compensation changes relating to promotions as part of the Annual Compensation Review process leading into the [Manager Review](/handbook/total-rewards/compensation/compensation-review-cycle/#manager-review) portion of the program. Any compensation or promotion change requests need to be [submitted in BambooHR](/handbook/people-group/promotions-transfers/#for-managers-requesting-a-promotion-or-compensation-change) by 2020-12-01 with last available effective date of 2020-12-01 or 2020-12-16. If an exception needs to be made and a compensation change needs to be processed during this time, such as relocations, transfers or other reasons, please send an email to Total Rewards. 
 
-Any compensation changes that come out of the Annual Compensation Review will have an effective date of 2021-02-01. If a manager anticipates that a promotion is more suitable to process for a team member, the manager has the option to remove the team member out of the Annual Compensation Review process. If this is the case, please send an email to Total Rewards no later than 2020-12-16. 
+Any compensation changes that result from Annual Compensation Review will have an effective date of 2021-02-01. If a manager anticipates that a promotion is more suitable to process for a team member, the manager has the option to remove the team member out of the Annual Compensation Review process. If this is the case, please send an email to Total Rewards no later than 2020-12-16. 
 
-Promotions and transfer compensation change requests will reopen on 2021-02-01. The effective date for these requests will be processed in the next suitable payroll date from the time of approval.
-
+Promotions and compensation change requests will reopen in BambooHR on 2021-02-01. The effective date for these requests will be processed in the next available payroll date from the time of approval.
 
 ### Manager Review
 
