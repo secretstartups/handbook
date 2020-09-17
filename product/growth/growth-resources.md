@@ -59,6 +59,6 @@ An alternative to License Usage Salesfore App is the [Version App](version.gitla
 We use a perdefined set of [issue templates](https://gitlab.com/gitlab-org/growth/team-tasks/-/tree/master/.gitlab/issue_templates) to stay organized. These are kept safe and sound in the [Growth Project under team tasks](https://gitlab.com/gitlab-org/growth/team-tasks). 
 
 #### Template list:
-1. [Growth experiment.md](https://gitlab.com/gitlab-org/growth/team-tasks/-/blob/master/.gitlab/issue_templates/Growth%20experiment.md)
+1. [Growth experiment](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/new?issuable_template=Growth%20experiment)
 1. [experiment_tracking_template.md](https://gitlab.com/gitlab-org/growth/team-tasks/-/blob/master/.gitlab/issue_templates/experiment_tracking_template.md)
 1. [growth_team_planning_template.md](https://gitlab.com/gitlab-org/growth/team-tasks/-/blob/master/.gitlab/issue_templates/growth_team_planning_template.md)
