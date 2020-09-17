@@ -22,5 +22,3 @@ Confused about how to use Chorus? Check out the links below for more information
 
 - [Chorus Integrations](https://docs.chorus.ai/hc/en-us/sections/115002215568-Integrations)
 - [Compliance](https://docs.chorus.ai/hc/en-us/sections/360001251353-Compliance)
-
-
