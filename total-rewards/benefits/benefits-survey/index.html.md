@@ -975,8 +975,12 @@ Further information and corresponding discussion are available under [Compensati
 
 We researched whether there was an account that could be set up with a coworking space chain that would make it easier for team members to utilize these spaces. Three major chains with global coverage were contacted with one responding. After conducting a survey, the type of account this chain offers doesn't align with the way the majority of team members utilize coworking spaces. Team members are still welcome to follow the existing process of [expensing a coworking space](/handbook/finance/expenses/#coworking-or-external-office--space).
 
-Further information, survey results, and corresponding discussion are available under [Compensation Issue #30](https://gitlab.com/gitlab-com/people-ops/Compensation/issues/30) (internal).
+Further information, survey results, and corresponding discussion are available under [Total Rewards Issue #30](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/30) (internal).
 
 ### Wellness Program
 
-We researched and selected three vendors and conducted a cost analysis with Finance. At this time, it does not fit into the budget for benefits to be offered for FY21, but will be revisited when we evaluate benefits and budget for the next fiscal year. Further information and corresponding discussion are available under [Compensation Issue #37](https://gitlab.com/gitlab-com/people-group/Compensation/-/issues/37) (internal).
+We researched and selected three vendors and conducted a cost analysis with Finance. At this time, it does not fit into the budget for benefits to be offered for FY21, but will be revisited when we evaluate benefits and budget for the next fiscal year. Further information and corresponding discussion are available under [Total Rewards Issue #37](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/37) (internal).
+
+### SafetyWing
+
+SafetyWing is a global medical benefits provider. At this time we will not be offering this benefit globally as we are focused on entity specific benefits (which many have medical plans already in place) and the ongoing international expansion process (where a team member is converted to an employee of either a PEO or a GitLab Entity). Further information, survey results, and corresponding discussion are available under [Total Rewards Issue #124](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/124) (internal).
