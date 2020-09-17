@@ -12,7 +12,7 @@ title: Growth Resources
 
 ## Overview
 
-To make it easier for our GitLab team-members to contribute to Growth, this page is home to various growth related information and resources. 
+This page is home to various growth related information and resources, aiming to make it easier for our GitLab team members to contribute to Growth at GitLab. 
 
 
 ## Finding Customer Seat Counts 
