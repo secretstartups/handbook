@@ -17,13 +17,6 @@ Much like the rest of the software world, we have been wary of all the negative 
 
 We have intuitively known that, at GitLab, Architecture is not a role proper (i.e., no such title exists in the company). We understand *Architecture* as a component of all technical roles, a set of **practices** to leverage the vast amount of experience distributed across the company, and a **workflow** to ensure we can continue to scale efficiently.
 
-## Active Architecture Engagements
-
-Following our [Transparency](https://about.gitlab.com/handbook/values/#transparency) value, all of our architecture roadmaps and blueprints are public and available below.
-
-* [FY21 Roadmap](roadmap/fy21/)
-* [FY22 Roadmap (coming soon)](roadmap/fy22)
-
 ## Architecture at GitLab
 
 At GitLab, **Architecture** is:
@@ -54,10 +47,10 @@ Such definition implies a solid reliance on **influence** rather than authority 
 
 It is worth stressing that partnerships and close working relations as outlined above **are not exclusionary**. GitLab relies heavily on cross-functional, cross-level relationships, and we will continue to foster those relationships to their maximum potential. Thus, the above relationship descriptions simply outline a responsibility perspective vs a boundary of any kind.
 
-### Workflow
+### Architecture Workflow
 
-The [Architecture Evolution Workflow](workflow/) is used to create 12-month
-[roadmaps](roadmap/) and 3 or 6-month [blueprints](roadmap/) that are
+The [Architecture Evolution Workflow](workflow/) is used to create 12-month,
+6-month and 3-month blueprints captured in epics. These artifacts should be
 aligned with our OKRs cadence.
 
 1. Anyone can create an architecture change proposal
@@ -68,13 +61,22 @@ aligned with our OKRs cadence.
 1. Successfully executed workflow usually results in creation of 3/6/12-month
    technical strategy with [Directly Responsible Individuals
    (DRIs)](/handbook/people-group/directly-responsible-individuals/) assigned
-1. 12-month artifacts are called [**roadmaps**](roadmap/) and one of the DRIs
-   assigned to the roadmap execution should be an Engineering Fellow
-1. 3-months or 6-month artifacts are called [**blueprints**](roadmap/) and
-   require a Distinguished Engineer or a Staff Engineer to be assigned as a DRI
-1. Roadmaps and blueprints should have DRIs assigned from Product Team and
-   Engineering Leadership too
+1. 12-month blueprints captured in epics require one of the DRIs assigned to
+   the roadmap execution should be an Engineering Fellow
+1. 6-month blueprints captured in epics require a Distinguished Engineer or a
+   Staff Engineer to be assigned as a DRI
+1. Blueprints should have DRIs assigned from Product Team and Engineering
+   Leadership too
 1. DRIs propagate the document across sub-departments and ensure that work
    gets scheduled.
 
 A detailed description of the [workflow](workflow/) is available.
+
+## Architecture Roadmap
+
+Following our
+[Transparency](https://about.gitlab.com/handbook/values/#transparency) value,
+all of our architecture roadmaps and blueprints are public and available below.
+
+* [FY21 Roadmap](roadmap/fy21/)
+* [FY22 Roadmap (coming soon)](roadmap/fy22)
