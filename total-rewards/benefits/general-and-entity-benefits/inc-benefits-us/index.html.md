@@ -464,14 +464,14 @@ Based on the Family and Medical Leave Act, or [FMLA](https://www.dol.gov/agencie
 1. TODO Outline process to return the team member to work
 
 #### Maternity Leave STD Form - Team Member to fill out:
-   - General Demographics (page 3): Name, SSN, address, phone number, date of birth, gender and marital status. 
-   - Employment and Claim Information (page 4):
-    - Date of hire
-    - Date you first noticed symptoms of illness/injury: When the symptoms of the pregnancy developed
-    - Date last worked: Due date of birth
-    - Hours worked that day: 8
-    - What date do you expect to return to work: Anticipated date of return
-    - When were you first treated for your injury or illness? First Prenatal appointment 
+    - General Demographics (page 3): Name, SSN, address, phone number, date of birth, gender and marital status. 
+    - Employment and Claim Information (page 4):
+      - Date of hire
+      - Date you first noticed symptoms of illness/injury: When the symptoms of the pregnancy developed
+      - Date last worked: Due date of birth
+      - Hours worked that day: 8
+      - What date do you expect to return to work: Anticipated date of return
+      - When were you first treated for your injury or illness? First Prenatal appointment 
     - Have you ever had the same similar condition in the past? Y if you have been pregnant before, N if it is your first pregnancy
     - Have you returned to work: n/a
     - Your occupation: Your job title
@@ -481,12 +481,12 @@ Based on the Family and Medical Leave Act, or [FMLA](https://www.dol.gov/agencie
     - Was your injury or illness due to an auto accident? N
     - Were you injured at work? N
     - Fill out your physician's details and dates of appointments
-   - Benefits and Earnings Information (page 5): Leave blank
-   - Tax Information (page 5): Fill out based on your individual tax preferences 
-   - Final Signature and Certification (page 5)
-   - Review and sign the Disclosure Authorization (page 6)
-   - Complete the Authorization of Personal Representative section (page 7) if there is someone involved in your care that you would like to be able to contact UHC in relation to your disability claim.
-   - Have your physician complete the Attending Physician's Disability Statement (page 8)
+    - Benefits and Earnings Information (page 5): Leave blank
+    - Tax Information (page 5): Fill out based on your individual tax preferences 
+    - Final Signature and Certification (page 5)
+    - Review and sign the Disclosure Authorization (page 6)
+    - Complete the Authorization of Personal Representative section (page 7) if there is someone involved in your care that you would like to be able to contact UHC in relation to your disability claim.
+    - Have your physician complete the Attending Physician's Disability Statement (page 8)
 
 #### Maternity Leave STD Form - Total Rewards to fill out:
     - General Demographics (page 1):
