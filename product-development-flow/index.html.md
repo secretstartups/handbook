@@ -150,6 +150,7 @@ Labels: `workflow::design`
 
 1. Product Designer or Product Manager applies the `workflow::design` label to an existing issue or creates a new issue, if needed. 
 1. Product Designer leads the team in ideating about potential solutions and engages the PM and Engineers to determine whether the proposed solution meets business goals and is technically feasible. 
+1. Product Designer, Product Manager and Engineering Team evaluate potential customer impact of proposed solution.
 1. Once the PM, Engineers, and Product Designer choose a direction, then the issue moves into the Solution Validation phase.
 
 ### Validation phase 4: Solution Validation
@@ -252,7 +253,7 @@ The build track is where we plan, develop, and deliver value to our users by bui
 
 ✅ **Release** to a subset or full set of customers as appropriate
 
-✅ **Assess** UX, functional, and technical performance
+✅ **Assess** UX, functional, technical performance, and customer impact
 
 ✅ **Collect** data to measure MVC against success metrics to inform the next iteration
 
@@ -269,7 +270,9 @@ The build track starts with Product Manager (PM), User Experience (UX), Software
 For user-facing deliverables, Product Designers work with Engineering to validate technical feasibility during the `workflow::design` phase, but it's equally important to validate feasibility for work that users don't see in the UI, such as APIs and other technical features. Communicate these solutions using artifacts such as API docs, workflow diagrams, etc. Involve your Engineering Managers in creating and reviewing these artifacts to gain a shared understanding of the solution and receive input on feasibility.
 
 1. PM applies the `workflow::planning breakdown` label.
-1. PM, UX, and EM do a final review of the designs to ensure everyone understands the solution. Then, PM, UX, and EM start breaking down the implementation into smaller issues. Story mapping is a recommended technique to do this in a rapid and collaborative fashion. The resulting issues should be written by PMs in user-story-style language whenever possible: "As a (who), I want (what), so I can (why/value)." Issues should not only be about feature details, but should also establish functional, performance, documentation, and security acceptance criteria. In some cases, you need to update existing issues - if you were doing problem validation on an issue that already had a problem to solve/proposal in the issue (i.e., an older or customer-created issue), and you've come up with a new problem statement that isn't very close to the original, you should strongly consider opening a new issue for the new problem. Changing the problem statement in an issue almost always causes the discussion to become confused and may lose track of the original (potentially still valid for some users) problem statement.
+1. PM, UX, and EM do a final review of the designs to ensure everyone understands the solution.
+1. PM, UX, and EM start breaking down the implementation into smaller issues; it is recommended that story mapping is used.
+    - Story mapping is a recommended technique to do this in a rapid and collaborative fashion. The resulting issues should be written by PMs in user-story-style language whenever possible: "As a (who), I want (what), so I can (why/value)." Issues should not only be about feature details, but should also establish functional, performance, documentation, and security acceptance criteria. PM, UX, SET, and EM should evaluate customer impact of changes. In some cases, you need to update existing issues - if you were doing problem validation on an issue that already had a problem to solve/proposal in the issue (i.e., an older or customer-created issue), and you've come up with a new problem statement that isn't very close to the original, you should strongly consider opening a new issue for the new problem. Changing the problem statement in an issue almost always causes the discussion to become confused and may lose track of the original (potentially still valid for some users) problem statement.
 1. Using the output of story mapping, PM creates separate epics and issues for implementation. Use the [feature proposal template](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/.gitlab/issue_templates/Feature%20proposal.md) as a guide for writing both epics and features. For issues requiring documentation changes/additions, add the `documentation` label and complete other relevant [PM documentation responsibilities](https://docs.gitlab.com/ee/development/documentation/workflow.html#product-managers). For issues requiring new or updated UI text, add the `UI text` label.
 1. At this point, the original validation issue can be closed as further work labeling and activity will happen on the implementation issues.
 1. PM should break the issue down into the smallest possible iteration definition that adds customer value. Check out [iteration strategies](#iteration-strategies) for help.
@@ -294,6 +297,8 @@ The develop and test phase is where we build the features and test them before l
 1. Engineering teams move items into `workflow::ready for development` and apply the deliverable as they commit to them, in alignment with the PM.
 1. PM works with engineering to ensure product instrumentation and dashboarding requirements are clear for implementation.
 1. When the milestone arrives, engineering teams execute on the scheduled work. Acceptance criteria as set forth in the issues must be met before a feature is deemed complete.
+1. Engineering team member(s) executing on the issue evaluates customer impact, confirming existing data against defined solution.
+    - An example would be the introduction of new limits and their impact on existing customer data and workflows.
 1. In parallel with development, the PM creates release post content, collaborating with Product Marketing Manager (PMM) on messaging and positioning
 1. Work deemed out of scope or incomplete by engineering is taken back into the plan phase for refinement and rescheduling for completion. The label `workflow::planning breakdown` should be reapplied.
 1. During the launch phase, the delivery team updates the validation labels as it flows through the validation process in staging and canary.
@@ -348,6 +353,10 @@ Often, the criteria by which a new feature needs to be built is implicit. It can
 
 ### Exception & error cases
 Software often fails and can fail in different ways depending upon how it is architected. It is always best to provide the user with as much information as possible as to why something did not behave as expected. Creating and building different states to handle all possible errors and exceptions can easily be broken down into individual issues. Start by creating a generic error state to display when anything goes wrong, and then add on to handle different cases one by one. Remember to always make error messages [useful](https://design.gitlab.com/content/error-messages), and add additional error messages as you identify new error states.
+
+### Customer Impact
+
+When creating net new features research efforts are intended to provide GitLab with the best opportunity to deliver customer value while considering business needs, performance expectations, timelines, and other considerations. When delivering new features that interact with exisiting customer data and workflows, care must be taken to evaluate impact throughout the product development process.
 
 ### Breaking down the UI
 Breaking down a design into pieces that can be released iteratively is going to depend on what you are building. Here are a few helpful questions to guide that process:
