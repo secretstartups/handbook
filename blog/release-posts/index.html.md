@@ -1320,26 +1320,34 @@ To learn more how the template system works, read through an overview on [Modern
 
 ### Release post item generator
 
-The [release post item generator](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/bin/release-post-item) automates the creation of release post items using issues and epics. Issues and epics are the source of truth for what problems are being solved and how, and should have a clear description, and be well labeled. The script uses this information to pre-fill release post items:
+The [release post item generator](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/bin/release-post-item) automates the creation of release post items using issues and epics. Issues and epics are the source of truth for what problems are being solved and how, and should have a clear description, and be well labeled. The script uses this information to pre-fill release post item MRs:
 
-- issue title for `title`
-- issue `devops::` label for `stage`
-- issue `group::` labels for assigning the group product manager as reporter
-- issue `Category:` labels for `categories`
-- issue `release post item::` labels for content block type
-- issue tier labels for `available_in`
-- issue web url for `issue_url`
-- issue description's `Release notes` (case insensitive) section for:
-  - `description` with the lines containing the `documentation_link` and `image_url` removed
-  - `documentation_link` will be the first URL in the section beginning with `https://docs.gitlab.com`
-  - `image_url` will be the first image uploaded in the section
+| Issue/Epic Elemen 	| Release Post Item Attribute (yml) or MR element 	|
+|-	|-	|
+| Issue Title 	| `title:` 	|
+| Label `devops::` 	| `stage:` 	|
+| Label `group::` 	| assigns group product manager as reporter, and tags [relevant team members in the MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md) 	|
+| label `category:` 	| `categories:` 	|
+| Label `release post item::` (`primary`/`secondary`) 	| content block type `primary:` or `secondary:` 	|
+| Label tier (e.g. `GitLab Core` `GitLab Ultimate`) 	| `available_in:` 	|
+| Issue web url (i.e. `/gitlab-org/gitlab/-/issues/####`) 	| `issue_url:` 	|
+| Issue description under `### Release notes` 	| `description:` will contain all text except for the `documentation_link` and `image_url` <br><br>`documentation_link:` is the first URL in the `### Release notes` section containing `https://docs.gitlab.com*` <br><br>`image_url:` is the first image added to the `### Release notes` section. (e.g. `Image: ![name](/path/)`) 	|
 
-The generator script is configured to run regularly as a scheduled job using GitLab CI. This means it can be used simply by adding a label, and waiting for the next scheduled run.
+To ensure the generator script runs correctly follow the process below:
 
-1. Update your issue or epic description with a clear problem to solve.
-1. Apply the correct group, stage, category, and tier labels.
-1. Apply a release post item label. The supported labels are `release post item::top`, `release post item::primary`, `release post item::secondary`, `release post item::deprecation`, and `release post item::removal`.
-1. Wait for the scheduled CI job to run (every hour). A merge request with a draft release post item will be created, and assigned to the group's product manager. The issue or epic will be relabeled `release post item::in review`.
+1. Make sure the issue is open.
+1. Update your issue or epic with content in `### Release notes` (including a docs link and image, although those can always be added/updated in the MR later) specifically having it contain both a `Description:` then a `Documentation:`.
+1. Make sure `devops::`, `group::`, `category:` and tier (e.g. `GitLab Core`) labels are applied
+1. Apply one of the `release post item::` scoped labels. This will make the generator script pick up your issue next time it runs (once per hour)
+
+Once the script runs an draft MR in the `/gitlab-com/www-gitlab-com` project will be opened and assigned to the group PM. You can continue editing and reviewing that MR from there. 
+
+If you'd like to check to see when the last pipeline ran (and if it picked up your issue) you can inspect the scheduled pipeline [here](https://gitlab.com/gitlab-com/www-gitlab-com/-/pipeline_schedules). 
+
+You can also watch [this overview video](https://www.youtube.com/watch?v=rfn9ebgTwKg) demonstrating how to use the `release post item generator`. 
+
+*note: The release post item generator is still in beta. If you find issues or have questions post them in Slack [#release-post-iteration](https://gitlab.slack.com/archives/CTXULEPQD)* or add them to the current cycle  release post retrospective issue.
+
 
 The generator script can also be run on your computer.
 
