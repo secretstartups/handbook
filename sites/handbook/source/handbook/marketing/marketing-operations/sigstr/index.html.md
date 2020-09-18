@@ -22,6 +22,10 @@ Sigstr is a marketing tool used as an advertising channel inside the inbox.
 1. [Groups video tutorial](https://help.sigstr.com/en/articles/1118058-groups-video-tutorial)
 1. [Knowledgebase](https://help.sigstr.com/en/)
 
+## Employee preference center
+
+If you would like to update the information in your signature, [simply login to Sigstr](https://app.sigstr.com/users/sign_in/) using your credentials. If you have any difficulty with this method, please post in `#mktgops` and we will send you an email to update your information. 
+
 ## Account Settings
 
 ### Admin 
