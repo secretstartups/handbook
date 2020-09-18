@@ -124,7 +124,7 @@ Elliot Rushton (Engineering Manager, Verify)
 **How the team works:** The Verify stage of the DevOps pipeline covers the CI lifecycle as well as testing (unit, integration, acceptance, performance, etc.). Our mission is to help developers feel confident in delivering their code to production. Asynchronous communication, working with Agile methodologies, incorporating a more continuous delivery model, all of the collaboration is done through GitLab Issues and Slack. 
 **Links to relevant Handbook pages:** 
 [Product categories page](/handbook/product/product-categories/#ops-section)
-[Verify team page](/handbook/engineering/ops/verify/)
+[Verify team page](/handbook/engineering/development/ops/verify/)
 [Backend Engineer job family](/job-families/engineering/backend-engineer/)
 [Engineering Workflow](/handbook/engineering/workflow/)
 [Backend Engineer job posting](/jobs/apply/backend-engineer-x-30-4055697002/)
