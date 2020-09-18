@@ -76,29 +76,7 @@ I need a better way of planning, initiating, monitoring, controlling, closing, a
    1. *Deliver Better Products Faster:* Ability to work in parallel and collaborate. Single source of truth between dev, sec and the business.
    1. *Reduce Security and Compliance Risk:* Single source of truth between dev and sec.
 
-#### [6. Simplify DevOps](/handbook/marketing/product-marketing/usecase-gtm/simplify-devops/)
-**Want to achieve expected results of DevOps given siloed teams, lack of visibility and collaboration which inhibits my speed of delivery** - (Simplify **DevOps**)
-I want to manage my entire DevOps lifecycle more efficiently with better outcomes. The number of tools and maintenance of integrations is overwhelming and costly and security is challenging to integrate. My processes may include planning to production or may be a segment of the SDLC. (GitLab examples: Epics, Issue Boards, Source Code Management, CI, CD, Security Scans and Monitoring from GitLab. Value Stream Management: (VSM) helps you visualize and manage the flow of new innovation from ideas to customers. In GitLab, cycle analytics is a key element of managing the value stream.)
-
-   **Analyst Coverage**: TBD
-
-   **Value Drivers:**
-   1. *Increase Operational Efficiencies:* consistent and efficient dev experience with single source of truth and simplify tool chain
-   1. *Deliver Better Products Faster:* More collaboration, working in parallel
-   1. *Reduce Security and Compliance Risk:* Testing early, and enforcing common controls like single sign on, and shared view for collaboration, reporting and visibility.
-
-#### [7. Cloud Native](/handbook/marketing/product-marketing/usecase-gtm/cloud-native/)
-**Want to use more modern, cloud-native approaches to application development** (**cloud native**)
-I want to use things like containers, K8s, and/or serverless for new development or containerize legacy applications. Help me lift and shift to cloud. Minimize my learning curve to set up, maintain and use clusters.
-
-   **Analyst Coverage**: TBD
-
-   **Value Drivers:**
-   1. *Increase Operational Efficiencies:* consistent dev experience, streamline cloud native deployment, simplified tool chain
-   1. *Deliver Better Products Faster:* developer self-service, application scalability, resiliency
-   1. *Reduce Security and Compliance Risk:* Reduce technical and operational risk of migrating to the cloud. Enforce common controls.
-
-#### [8. GitOps](/handbook/marketing/product-marketing/usecase-gtm/gitops/)
+#### [6. GitOps](/handbook/marketing/product-marketing/usecase-gtm/gitops/)
 **Want to automatically provision, administer and maintain infrastructure as code** - (CI/CD Infrastructure-as-code or **GitOps**)
 I manually stage and test environments for infrastructure making it hard to track and error-prone. I want to stage all components and test them to be sure it works to automate my release pipelines, provide consistency, reduce cost, and  eliminate errors. I may frequently leverage integration with Terraform, Kubernetes, Ansible, OpenStack and others.
 
@@ -109,7 +87,32 @@ I manually stage and test environments for infrastructure making it hard to trac
    1. *Deliver Better Products Faster:* developer self-service, reusable CI/CD templates.
    1. *Reduce Security and Compliance Risk:* Enforces common controls
 
+#### [7. Simplify DevOps](/handbook/marketing/product-marketing/usecase-gtm/simplify-devops/)
+**Want to achieve expected results of DevOps given siloed teams, lack of visibility and collaboration which inhibits my speed of delivery** - (Simplify **DevOps**)
+I want to manage my entire DevOps lifecycle more efficiently with better outcomes. The number of tools and maintenance of integrations is overwhelming and costly and security is challenging to integrate. My processes may include planning to production or may be a segment of the SDLC. (GitLab examples: Epics, Issue Boards, Source Code Management, CI, CD, Security Scans and Monitoring from GitLab. Value Stream Management: (VSM) helps you visualize and manage the flow of new innovation from ideas to customers. In GitLab, cycle analytics is a key element of managing the value stream.)
+
+   **Analyst Coverage**: TBD
+
+   **Value Drivers:**
+   1. *Increase Operational Efficiencies:* consistent and efficient dev experience with single source of truth and simplify tool chain
+   1. *Deliver Better Products Faster:* More collaboration, working in parallel
+   1. *Reduce Security and Compliance Risk:* Testing early, and enforcing common controls like single sign on, and shared view for collaboration, reporting and visibility.
+
+#### [8. Cloud Native](/handbook/marketing/product-marketing/usecase-gtm/cloud-native/)
+**Want to use more modern, cloud-native approaches to application development** (**cloud native**)
+I want to use things like containers, K8s, and/or serverless for new development or containerize legacy applications. Help me lift and shift to cloud. Minimize my learning curve to set up, maintain and use clusters.
+
+   **Analyst Coverage**: TBD
+
+   **Value Drivers:**
+   1. *Increase Operational Efficiencies:* consistent dev experience, streamline cloud native deployment, simplified tool chain
+   1. *Deliver Better Products Faster:* developer self-service, application scalability, resiliency
+   1. *Reduce Security and Compliance Risk:* Reduce technical and operational risk of migrating to the cloud. Enforce common controls.
+
 ## Other Use cases to consider
+
+#### Data Science
+I want to collaborate both inside and outside my team and/or organization. I need to plan and manage projects and sprints, with tools flexible enough to support scrum, kanban, and more. I want to be able to version control everything (e.g. manage and track different versions of files, models, test cases, data sets) and automate key workflow steps to improve efficiencies and mitigate manual errors. Speed is key, so I also want to streamline testing and validation of work. In addition to all of the above, I'd like to simplify infrastructure management (often across multiple cloud providers).
 
 #### Repository Management
 I want a package repository so that I can manage my organization's dependencies and control how they are built, published and shared throughout my organization. I need a local repository to store, version and access dependencies, that allows me to cache, proxy and audit all of my external dependencies in one place. I want all of the above to work securely and seamlessly with my pipelines so that I never have to worry about external dependencies causing problems during the software development lifecycle.
