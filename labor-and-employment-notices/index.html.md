@@ -49,3 +49,26 @@ Information related to the [EEO is the Law poster](https://www1.eeoc.gov/employe
 
 [Working Hours Act](https://www.gesetze-im-internet.de/arbzg/index.html) 
 
+## Canada Employment Posters:
+
+### Ontario
+[Occupational Health & Safety Poster](https://files.ontario.ca/mltsd_2/mltsd-prevention-poster-en-2020-07-22.pdf)
+
+[Occupational Health & Safety Act](https://www.ontario.ca/laws/statute/90o01)
+
+### British Columbia
+[Working in B.C.](https://www2.gov.bc.ca/assets/gov/employment-business-and-economic-development/employment-standards-workplace-safety/employment-standards/factsheets-pdfs/working_in_bc_infosheet.pdf)
+
+[Occupational Health and Safety Regulation](https://www.worksafebc.com/en/law-policy/occupational-health-safety/searchable-ohs-regulation/ohs-regulation)
+
+[Workers Compensation Act](https://www.worksafebc.com/en/law-policy/occupational-health-safety/searchable-ohs-regulation/ohs-guidelines/guidelines-for-workers-compensation-act)
+
+### Alberta:
+[Workers Compensation Act](https://www.wcb.ab.ca/assets/pdfs/employers/123_english.pdf)
+
+[Employment Standards Code](https://www.alberta.ca/assets/documents/es-general-online-poster.pdf)
+
+### Manitoba: 
+[Safe Work Manitoba](https://www.safemanitoba.com/Page%20Related%20Documents/resources/BR_EveryonesResponsibilityLong_15SWMB.pdf)
+
+
