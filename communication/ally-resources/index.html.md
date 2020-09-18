@@ -17,6 +17,15 @@ A diversity, inclusion and belonging "ally" is someone who is willing to take ac
 
 It is not required to be an ally to work at GitLab. At GitLab it is required to [be inclusive](/handbook/values/#diversity-inclusion). Being an ally goes a step beyond being inclusive to taking action to support marginalized groups. The first step in being an ally is self-educating. This is a page to list resources that GitLab team-members have found helpful in learning how to act as an ally.
 
+### Acting as an Ally means… 
+* Being an advocate for individuals and groups other than your own.
+* Standing  up, even when you feel scared.
+* Transfer ing the benefits of your privilege to those who lack it.
+* Acknowledging that even though you feel pain, the conversation is not about you.
+* Willing to own your mistakes and de-center yourself.
+* Understanding that your education is up to you and no one else.
+
+
 ## GitLab Diversity, Inclusion & Belonging resources
 
 Allies familiarize themselves with GitLab's general DIB content
