@@ -133,9 +133,7 @@ Team members unable to work because of a nonwork-related injury or illness and w
 
 ### Social Security
 
-As per Hungarian Social Security Act:
-* Employer contributon is 17.5% of gross salary as social tax. Hungarian resident employers also pay a 1.5% of gross salary as contribution to the vocational training fund (Total 19%). All contributions are uncapped.
-* Member contribution is 10% of gross salary as `Pension`, 7% of gross salary as `health insurance` and 1.5% of gross salary as the `unemployment fund` (Total 18.5%). These contributions are uncapped.
+The Hungarian Social Security Act has employer and team member contributions to cover statutory requirements such as pension, health insurance, and unemployment. 
 
 ### Medical Benefits
 
