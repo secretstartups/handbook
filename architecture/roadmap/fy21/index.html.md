@@ -1,14 +1,10 @@
 ---
 layout: markdown_page
-title: "FY21 Architecture Roadmaps & Blueprints"
+title: "FY21 Architecture Roadmap"
 ---
 
-## FY21 Architecture Roadmaps & Blueprints
-
-
-### FY21 Roadmaps
+## FY21 Architecture Roadmap
 
 1. [GitLab.com Migration to Cloud Native](https://about.gitlab.com/handbook/engineering/infrastructure/production/kubernetes/gitlab-com/)
-   * [Blueprints](../blueprints/cloud_native_gitlab)
-
-#### FY21-Q4 Blueprints
+   * [Cloud Native Build Logs](https://gitlab.com/groups/gitlab-org/-/epics/4402)
+   * [Cloud Native GitLab Pages](https://gitlab.com/groups/gitlab-org/-/epics/4403)

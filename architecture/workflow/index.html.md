@@ -41,14 +41,18 @@ TL;DR:
 1. The author collaborates with their manager to understand better the scope of the change,
 1. Based on the scope of the proposal, the author and their manager collaborate together to find an
    Engineering Leader who will be a decision maker that will either approve or reject the proposal,
-1. The author and their manager find an `Architecture Evolution Coach` on the [team page](/company/team/),
+1. The author and their manager find an Architecture Evolution Coach on the [team page](/company/team/),
    someone who works on the level close to the Engineering Leader who is going to be the decision maker,
 1. Optionally the author and their manager collaborate to find a Domain Expert if help from one would be useful,
 1. The author collaborates with the architecture evolution coach and a domain expert to create a
-   blueprint merge request of the proposal,
+   blueprint captured in an epic on Gitlab.com,
 1. In the RFC-like style they get more people involved into the discussion to collect more feedback,
-1. The blueprint describes 12/6/3-month forecast and a few first iterations,
-1. When specific enough, the blueprint gets merged by an Engineering Leader,
+1. The blueprint describes long-term vision and a few first iterations in simple words,
+1. When the blueprint epic is clear enough, the author opens a merge request
+   against an active [architecture roadmap document](/handbook/engineering/architecture/#architecture-roadmap)
+   and assigns an Engineering Leader.
+1. The blueprint gets approved once the merge request is merged and the epic is added to the active roadmap
+   document in the Handbook.
 1. 3 [Directly Responsible Individuals
    (DRIs)](/handbook/people-group/directly-responsible-individuals/) get assigned and collaborate together to get the work done,
 1. A [Working Group](/company/team/structure/working-groups/) can be formed if needed, but is not required,
@@ -70,21 +74,21 @@ find people that will be amplifiers of their influence:
 
 During the process of working on the proposal, the author will collaborate with
 an Architecture Evolution Coach and, optionally, a Domain Expert to create a
-blueprint of the change. The blueprint merge request will be then either
-approved or rejected by an Engineering Leader.
+blueprint of the change. The blueprint epic will be then either approved or
+rejected by an Engineering Leader.
 
 In order to choose the right people, the author and their manager first need to
 understand what is the scope of their proposal, what departments and teams will
 need to help to get the work done and how important it is for the organization.
 
 The first step is to find an Engineering Leader that will be responsible for
-approving the proposal and merging the blueprint merge request. The Engineering
-Leader needs to be someone who works on [an appropriate level in the
-organization](/company/team/org-chart/) to carry on the vision described in the
-proposal. For example, changes that involve only one team can be approved by an
-Engineering Manager, multiple teams within a one section - a Director of
-Engineering, but changes that span more than one department might require
-approval from a Executive VP or CEO.
+approving the proposal and adding the blueprint to the architecture roadmap.
+The Engineering Leader needs to be someone who works on [an appropriate level
+in the organization](/company/team/org-chart/) to carry on the vision described
+in the proposal. For example, changes that involve only one team can be
+approved by an Engineering Manager, multiple teams within a one section - a
+Director of Engineering, but changes that span more than one department might
+require approval from a Executive VP or CEO.
 
 Understanding who is the decision maker will make it easier to find an
 Architecture Evolution Coach because the best Architecture Evolution Coach will
@@ -94,8 +98,8 @@ Engineering Leader who is the decision maker (see the diagram above).
 Domain Expert is someone who knows most about the topic and this person can
 work on any level in the organization, it even can be the author themself.
 
-Once the blueprint of the proposal gets approved and merged, DRIs will be
-assigned to carry on the vision and coordinate work required to get it done.
+Once the blueprint of the proposal gets approved, DRIs will be assigned to
+carry on the vision and coordinate work required to get it done.
 
 All these people are here to amplify the influence of the author of the
 proposal in an environment that fosters creativity and knowledge sharing.
@@ -149,12 +153,7 @@ that is too complex for a single individual contributor to handle.
 Although we usually prefer [starting with a merge
 requests](/handbook/communication/#everything-starts-with-a-merge-request), in
 case of complex changes like that, a merge request might not be something that
-is actionable, so we usually start with an issue.
-
-Creating an issue is easier and less visible, it is an additional step before
-creating a draft merge request that helps to overcome anxiety related to
-speaking up and proposing big improvements. It is easier to capture ideas in
-issues than to create a merge request with a blueprint of a solution.
+is actionable, so we usually start with an issue or an epic.
 
 The issue should be labeled with ~"Architecture decision" label, can be made
 visible in the
@@ -163,15 +162,16 @@ channel as per [cross-functional
 collaboration](/handbook/engineering/development/#cross-functional-collaboration).
 
 Then author of the issue loops an Architecture Evolution Coach and a Domain
-Expert then collaborate together to create a blueprint merge request.
+Expert then collaborate together to create a blueprint captured in an epic.
+
 Collaboration between the coaches and a person who had an idea ensures that
-only proposals that that are achievable get described in a blueprint merge
-request. This makes it also easier to avoid the cost of iterating on the
-product architecture improperly and fosters knowledge sharing.
+only proposals that that are achievable get described in the blueprint epic.
+This makes it also easier to avoid the cost of iterating on the product
+architecture improperly and fosters knowledge sharing.
 
-### Blueprint merge request
+### Blueprint epic
 
-A blueprint merge request is a description of [Why, How and
+A blueprint epic is a description of [Why, How and
 What](https://en.wikipedia.org/wiki/Start_With_Why) of the change that has been
 proposed in the issue.
 
@@ -179,41 +179,42 @@ proposed in the issue.
 * How - how are we going to achieve that (1-year forecast)
 * What - what is the outcome, how can we measure it
 
-A blueprint merge request gets created and made visible as a result of
-collaboration between an Architecture Evolution Coach, a Domain Expert and a
-person who had an idea. The author and coaches also need to be mentioned in the
-blueprint.
+A blueprint epic gets created and made visible as a result of collaboration
+between an Architecture Evolution Coach, a Domain Expert and a person who had
+an idea. The author and coaches also need to be mentioned in the blueprint.
 
-It needs to be written as a Markdown page in the
-`handbook/engineering/architecture/blueprints` directory in `www-gitlab-com`
-project.
-
-It describes the goal of the change and the 1-year forecast of how to make it
-happen.
+It describes the goal of the change and usually a 1-year forecast of how to
+make it happen.
 
 ### Describing iterations
 
-At this point there is a blueprint merge request present in `www-gitlab-com`
-project, but it only describes the 1-year forecast. It is not precise enough
-to reason about how to get it done, how to iterate wisely to get the most of
-this work.
+At this point there is a blueprint epic present that only describes a long-term
+forecast. It is not precise enough to reason about how to get it done, how to
+iterate wisely to get the most of this work.
 
-Those who have been involved in the discussion in the blueprint merge request
-collaborate together to extend it with a 3-months landscape. More Domain
-Experts get involved if necessary. The result of this collaboration could be
-a description of three first iterations that can be done in a one milestone each.
-These iterations need to be [two-way-door](/handbook/values/#make-two-way-door-decisions) solutions with a measurable impact.
+Those who have been involved in the discussion in the blueprint collaborate
+together to extend it with 6 or 3-month landscape. More Domain Experts get
+involved if necessary. The result of this collaboration could be a description
+of three first iterations that can be done in a one milestone each.  These
+iterations need to be
+[two-way-door](/handbook/values/#make-two-way-door-decisions) solutions with a
+measurable impact.
 
-If it is not possible to find at least two iterations, the blueprint merge
-request can not be approved and merged.
+If it is not possible to find at least two iterations, the blueprint should not
+be approved.
 
-Once the iterations are described, in the merge request, the blueprint needs to
-get assign to an Engineering Leader for approval and merge.
+Once the iterations are described the blueprint needs to be approved by an
+Engineering Leader.
 
-### Getting the blueprint merged
+### Getting the blueprint approved
 
-The blueprint merge request needs to be approved and merged by the Engineering
-Leader who has been chosen as a final decision maker.
+The blueprint epic needs to be approved by the Engineering Leader who has been
+chosen as a final decision maker.
+
+When the blueprint is ready, the author opens a merge request against an active
+roadmap document linked from the [Architecture
+Roadmap](/handbook/engineering/architecture/#architecture-roadmap) page and
+assigns an Engineering Leader.
 
 The choice of the leader depends on the extent of proposed changes, the area
 that the changes are supposed to be applied to and perceived cost of this
@@ -222,20 +223,22 @@ architectural change.
 [Organization structure chart](/company/team/structure/) can be useful to
 determine who the Engineering Leader could be.
 
+Once the Engineering Leader merges the merge request and adds the epic to the
+current Architecture Roadmap document, the blueprint gets approved.
+
 ### Finding DRIs
 
-Once the merge request gets merged, the Engineering Leader who merged the
-proposal collaborates with people involved to find Directly Responsible
-Individuals who will be decision makers from now on and will be responsible for
-the progress.
+Once the blueprint is approved, the Engineering Leader who approved the proposal
+collaborates with people involved to find Directly Responsible Individuals who
+will be decision makers from now on and will be responsible for the progress.
 
 The blueprint needs three people that will become DRIs:
 
-1. An Engineering Lead (for example - Director of Engineering)
+1. An Engineering Leader (for example - Director of Engineering)
 1. A Product Lead (for example - Senior Product Manager)
 1. A Domain Expert (for example - Senior Backend Engineer)
 
-The Engineering Leader who approved the proposal can become an Engineer Lead
+The Engineering Leader who approved the proposal can become an Engineer Leader
 DRI, but they can also delegate this to someone else. It is important to choose
 people taking their area of interest and responsibility into account and the
 "How" description that depends on where the proposed change needs to happen,
