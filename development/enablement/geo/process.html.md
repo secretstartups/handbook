@@ -47,8 +47,8 @@ In this stage, the PM establishes new work that they would like to see in the Ge
 
 ##### Problem validation
 
-The PM tries to establish that the issue describes a problem with the Geo feature that is customer-relevant (internal and external), 
-or has some other clear merit (e.g. a technical improvement in the backend). The PM will draw on other group members, customers and the UX organisation where necessary.  
+The PM tries to establish that the issue describes a problem with the Geo feature that is customer-relevant (internal and external),
+or has some other clear merit (e.g. a technical improvement in the backend). The PM will draw on other group members, customers and the UX organisation where necessary.
 If the problem is validated, the issue is moved forward to the next stage, otherwise it is closed with a short explanation on *why* the problem will not be considered. This explanation should also contain
 a link [to the category strategy](/handbook/product/product-processes/#category-direction).
 
@@ -60,11 +60,11 @@ to determine a technical solution for the problem.
 
 Occasionally, a proof-of-concept (POC) is necessary to determine a feasible technical path. When one is required, the PM
 will create a POC issue that contains the context of the research to be conducted along with the goals of the POC. This
-issue will be scheduled for work before any further breakdown of tasks is performed. 
+issue will be scheduled for work before any further breakdown of tasks is performed.
 
-POC issues are also time-boxed with a due date applied to these items and should be labeled ~"POC". On the due date, the engineer is expected to 
-provide a comment on the issue regarding the outcome of the POC. Time-boxing these issues is meant to constrain the 
-scope of the work. 
+POC issues are also time-boxed with a due date applied to these items and should be labeled ~"POC". On the due date, the engineer is expected to
+provide a comment on the issue regarding the outcome of the POC. Time-boxing these issues is meant to constrain the
+scope of the work.
 
 It is also important to note that not all POCs will be successful, and that is OK! Some avenues of research may not be
 successful, and the POC will have saved us from investing significant time in a solution that will not meet our needs. The goal is to fail fast!
@@ -83,7 +83,7 @@ When they are satisfied that they have a reasonable solution with all issues wei
 for discussion and feedback. Planning is transparent anyway, but this serves to notify the team that the Epic is ready
 for development.
 
-Issues are then given the "geo::scheduling" label. 
+Issues are then given the "geo::scheduling" label.
 
 This signifies that from both a product and engineering point of view, this issue is prepared and ready to be built as
 soon as there is space in the schedule.
@@ -93,10 +93,10 @@ We use the [Kanban Scheduling board](https://gitlab.com/groups/gitlab-org/-/boar
 
 Once per week, the PM and EM will meet to discuss the work that is currently active, and queue prepared items for development.
 
-In this meeting, prepared items will be given the label "geo::active", which will pull items into the Build board. 
+In this meeting, prepared items will be given the label "geo::active", which will pull items into the Build board.
 
 This meeting is recorded and open for anyone to join. Attendance for the Geo Team is optional as it is recorded. We will
-also try to move the time of the meeting around to suit epic owners when their epics are due to be scheduled. 
+also try to move the time of the meeting around to suit epic owners when their epics are due to be scheduled.
 
 The agenda for the meeting is:
 
@@ -128,7 +128,7 @@ milestone.
 
 ##### Issue Health Status
 
-We want to ensure issues move through [the development workflow](/handbook/engineering/development/enablement/geo/process.html#build) at an efficient pace. We use GitLab's [issue health status feature](https://docs.gitlab.com/ee/user/project/issues/index.html#health-status-ultimate) to indicate issues that may need more attention to continue progressing. 
+We want to ensure issues move through [the development workflow](/handbook/engineering/development/enablement/geo/process.html#build) at an efficient pace. We use GitLab's [issue health status feature](https://docs.gitlab.com/ee/user/project/issues/index.html#health-status) to indicate issues that may need more attention to continue progressing.
 
 For issues in `workflow::in dev`, an issue is considered `Needs Attention` if it has not had any MR activity for at least 1 week or if it has been in `workflow::in dev` for at least 2 weeks. An issue is considered `At Risk` if it has had no MR activity for at least 2 weeks or has been `workflow::in dev` for greater than 3 weeks.
 
@@ -213,7 +213,7 @@ a day where there are no interruptions, emails or other demands on your time.
 For example, if an issue is assigned a weight of 5 then an engineer should be able to complete the work in 5 days if
 this were the only thing that they needed to do for those five days.
 
-If an issue is assigned a weight of 10, then the issue is too big and will need to be broken down further. This usually means promoting the issue to an epic and raising individual issues that have a lower weight. 
+If an issue is assigned a weight of 10, then the issue is too big and will need to be broken down further. This usually means promoting the issue to an epic and raising individual issues that have a lower weight.
 
 If any issue is weighted above a 3, we should ask ourselves if it can be further broken down. We should do this even if the issue was already broken out from an even larger issue.
 
@@ -223,7 +223,7 @@ We do not have pre-defined dates for retrospectives. When there is something to 
 be created in the [retrospectives project](https://gitlab.com/gl-retrospectives/geo/). This way we can address any
 issues as soon as they arise.
 
-Celebrating successes becomes harder with this method, but please try to mention achievements in Slack as they occur. 
+Celebrating successes becomes harder with this method, but please try to mention achievements in Slack as they occur.
 
 For reference, we previously followed the milestones to have a retrospective after each one was closed. There were a few challenges
 with this method, and we agreed to change to the new method when we moved to Kanban. This was discussed in [an issue about

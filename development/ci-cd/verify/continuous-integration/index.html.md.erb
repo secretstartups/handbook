@@ -27,25 +27,25 @@ We measure the value we contribute by using Performance Indicators (PI), which w
 
 ### Usage Funnel
 
-Based on the AARRR framework (Acquisition, Activation, Retention, Revenue, Referral), this funnel represents the customer journey in using GitLab CI.  Each state in the funnel is defined with a metric to measure behavior. Product managers can focus on any of the various states in the funnel to prioritize features that drive a desired action. 
+Based on the AARRR framework (Acquisition, Activation, Retention, Revenue, Referral), this funnel represents the customer journey in using GitLab CI.  Each state in the funnel is defined with a metric to measure behavior. Product managers can focus on any of the various states in the funnel to prioritize features that drive a desired action.
 
 ```mermaid
 classDiagram
   Acquistion --|> Activation
-    Acquistion : Awareness: Are users aware of CI pipelines?
-    Acquistion: Measurement (Total count of Pipelines page views)
+    Acquistion: Awareness: Are users aware of CI pipelines?
+    Acquistion: Measurement (Total count of CI Docs page views)
   Activation --|> Retention
-    Activation : Use: Are users creating CI configurations/pipelines?
+    Activation: Use: Are users creating CI configurations/pipelines?
     Activation: Measurement (Total count of projects with .gitlab-ci.yml files)
   Retention --|> Revenue
-    Retention : Continued use: Are users triggering CI pipelines?
+    Retention: Continued use: Are users triggering CI pipelines?
     Retention: Measurement (Total count of projects with a .gitlab-ci.yml file and CI pipeline triggered)
   Revenue --|> Referral
-    Revenue : Monetary value: Are users paying for the CI features?
+    Revenue: Monetary value: Are users paying for the CI features?
     Revenue: Measurement (Total count of projects using paid CI features)
   Referral --|> Acquistion
-    Referral : Endorsement - Are user encouraging others to use GitLab CI?
-    Referral: Measurement (Total count of Pipelines page views from social media)
+    Referral: Endorsement - Are user encouraging others to use GitLab CI?
+    Referral: Measurement (Total count of Pipelines page views from social media))
 ```
 
 ### Core domain
@@ -90,7 +90,7 @@ For those new to CI, these links may be helpful in learning more about the produ
 
  * [CI/CD Development Documentation](https://docs.gitlab.com/ee/development/cicd/index.html)
 
-#### Engineering Overview 
+#### Engineering Overview
 
  * [CI Backend Architectural Walkthrough - May 2020](https://www.youtube.com/watch?v=ew4BwohS5OY)
  * [Frontend CI product / codebase overview - June 2020](https://www.youtube.com/watch?v=7CUd7aAUiWo)
@@ -99,7 +99,7 @@ For those new to CI, these links may be helpful in learning more about the produ
 
 ### Planning
 
-#### Async Issue Refinement 
+#### Async Issue Refinement
 
 Issues are refined and weighted prior to scheduling them to an upcoming milestone. Weighting also helps with capacity planning with respect to how issues are scheduled in future milestones. We are currently iterating on our async refinement and weighting process.
 
@@ -129,13 +129,13 @@ To encourage more transparency and collaboration amongst the team and additional
 
 Once the development phase begins, the team uses the [CI Build](https://gitlab.com/groups/gitlab-org/-/boards/1372896?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Acontinuous%20integration&milestone_title=%23upcoming) board to communicate progress on issues.  **Note that the `Milestone` filter is required to use this board.**
 
-Development moves through workflow states in the following order: 
+Development moves through workflow states in the following order:
 
-1. `workflow::ready for development` 
-1. `workflow::in dev` 
+1. `workflow::ready for development`
+1. `workflow::in dev`
 1. `workflow::blocked` (as necessary)
-1. `workflow::in review` 
-1. `workflow::verification` 
+1. `workflow::in review`
+1. `workflow::verification`
 1. `workflow::production`
 1. `Closed`
 
@@ -148,13 +148,13 @@ Specifically, this means our work is prioritized in the following order:
  * Conducting code reviews on issues that are `workflow::in review`
  * Unblocking anyone in `workflow::blocked` or `workflow::in dev` if applicable
  * Then, lastly, picking from the top of the `workflow::ready for development` for development column
- 
+
 The goal of this process is to reduce the amount of work in progress (WIP) at any given time. Reducing WIP forces us to "Start less, finish more", and it also reduces cycle time. Engineers should keep in mind that the DRI for a merge request is **the author(s)**, to reflect the importance of teamwork without diluting the notion that having a [DRI is encouraged by our values](/handbook/people-group/directly-responsible-individuals/#dris-and-our-values).
 
 
 #### Issue Health Status
 
-For issues being implemented in the current milestone, we use the [Issue Health Status feature](https://docs.gitlab.com/ee/user/project/issues/#health-status-ultimate) to designate the high level status of the issue. This issue health status is updated by the [directly responsible individual (DRI)](/handbook/people-group/directly-responsible-individuals/) as soon as they recognize the state of the issue has changed.
+For issues being implemented in the current milestone, we use the [Issue Health Status feature](https://docs.gitlab.com/ee/user/project/issues/#health-status) to designate the high level status of the issue. This issue health status is updated by the [directly responsible individual (DRI)](/handbook/people-group/directly-responsible-individuals/) as soon as they recognize the state of the issue has changed.
 
 The following are definitions of the health status options:
 
@@ -169,9 +169,9 @@ The Continuous Integration group supports the product marketing categories descr
 
 | Label                 | |  | | |
 | ----------------------| -------| ----|------------| ---|
-| `Category:Continuous Integration` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Category%3AContinuous%20Integration) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=Category%3AContinuous%20Integration) | [Direction](https://about.gitlab.com/direction/verify/continuous_integration/) | [Documentation](https://docs.gitlab.com/ee/ci/) | 
-| `Category:Jenkins Importer` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Category%3AJenkins%20Importer) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=Category%3AJenkins%20Importer) | [Direction](https://about.gitlab.com/direction/verify/jenkins_importer/) | | 
-| `Category:Merge Trains` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Category%3AMerge%20Trains) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=Category%3AMerge%20Trains) | [Direction](https://about.gitlab.com/direction/verify/merge_trains/) | [Documentation](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/merge_trains/) | 
+| `Category:Continuous Integration` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Category%3AContinuous%20Integration) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=Category%3AContinuous%20Integration) | [Direction](https://about.gitlab.com/direction/verify/continuous_integration/) | [Documentation](https://docs.gitlab.com/ee/ci/) |
+| `Category:Jenkins Importer` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Category%3AJenkins%20Importer) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=Category%3AJenkins%20Importer) | [Direction](https://about.gitlab.com/direction/verify/jenkins_importer/) | |
+| `Category:Merge Trains` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Category%3AMerge%20Trains) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=Category%3AMerge%20Trains) | [Direction](https://about.gitlab.com/direction/verify/merge_trains/) | [Documentation](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/merge_trains/) |
 
 #### Continuous Integration Feature Labels
 
@@ -187,7 +187,7 @@ Continuous Integration covers a wide feature area, including the non-marketing c
 | `ci::authoring` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::authoring) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::authoring) | Issues related to authoring the `.gitlab-ci.yml` file and [CI YAML configuration](https://docs.gitlab.com/ee/ci/yaml/), at least when not covered more directly by another label such as `ci::rules`.| Pipeline Authoring |
 | `ci::artifacts` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::artifacts) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::artifacts) | Issues related to [CI build artifacts](http://doc.gitlab.com/ce/ci/build_artifacts/README.html). Formerly `~artifacts` | Continuous Integration |
 | `ci::variables` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::variables) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::variables) | Relates to functionality surrounding pre-defined and user-defined variables available in the Build environment. Formerly `~ci variables` | Continuous Integration |
-| `ci::interactions` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::interactions) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::interactions) | Issues related to CI settings and interactions with running pipelines. | Continuous Integration |
+| `ci::interactions` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::interactions) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::interactions) | Issues related to CI settings, schedule and interactions with running pipelines. | Continuous Integration |
 | `ci::usage` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::usage) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::usage) | All issues and MRs related to how we count continuous integration minutes and calculate usage. Formely `~ci minutes` | Continuous Integration |
 | `ci::processing` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::processing) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::processing) | Issues related to pipeline processing | Continuous Integration |
 | `ci::statuses` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::statuses) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::statuses) | Issues related to pipeline statues | Continuous Integration |
@@ -216,12 +216,12 @@ Product Designer, PM, and Engineering use `workflow::design` to discuss possible
 
 #### Inclusive Development
 
-Our process of planning and development relies heavily on overcommunication rather than any approval gates or automated notification mechanisms. We adhere to the proactive mindset and responsibility of everyone involved to make sure every step in the process is as transparent as it can be. 
+Our process of planning and development relies heavily on overcommunication rather than any approval gates or automated notification mechanisms. We adhere to the proactive mindset and responsibility of everyone involved to make sure every step in the process is as transparent as it can be.
 
 For both planning and building this means direct, cross-functional, and other relevant stakeholders are included early into the process. This makes sure everyone is able to contribute to the best of their capabilities at the right time in the process. This can include, but is not limited to, GitLab objects, Slack, meetings, and daily standups.
 
-Some practical examples of this are: 
-- When you open up or begin working on an epic, issue, or merge request consider if all stakeholders are aware of this or should be updated. If unsure, error on the side of updating rather than keeping silent. 
+Some practical examples of this are:
+- When you open up or begin working on an epic, issue, or merge request consider if all stakeholders are aware of this or should be updated. If unsure, error on the side of updating rather than keeping silent.
 - When making significant progress make sure this is seen by the relevant stakeholders even if you don't require immediate feedback by mentioning them rather than relying on automated email notifications. Make their involvement explicit.
 
 Note: A good practice when only wanting to inform rather than requesting a direct action from the mentioned stakeholders is to put `FYI` directly following the @mention handle.
@@ -230,9 +230,9 @@ Note: A good practice when only wanting to inform rather than requesting a direc
 
 We suggest using the below steps to reach the best results in the shortest time:
 
-* Once, through user research, we have identified a user need and have generated the big idea to meet that need, Product Designer drives the process of moving that idea into a solution prototype involving PM and Engineering Team early and often. 
-* We take that prototype through a user testing to validate it is solving the original problem. 
-* When the solution is validated with users - it is time to break the big solution down into smaller issues involving a whole team (PM, Engineers, Product Designer, QA and Technical Writer). 
+* Once, through user research, we have identified a user need and have generated the big idea to meet that need, Product Designer drives the process of moving that idea into a solution prototype involving PM and Engineering Team early and often.
+* We take that prototype through a user testing to validate it is solving the original problem.
+* When the solution is validated with users - it is time to break the big solution down into smaller issues involving a whole team (PM, Engineers, Product Designer, QA and Technical Writer).
 * Engineers, Product Designer, EM and PM are expected to work closely together to find the most technically feasible and smallest feature set to deliver value to early customers and provide feedback for future product development. Check out [iteration strategies](#iteration-strategies) for help.
 
 We aim to design broadly for an epic or full feature at least one milestone ahead of time and then break the big solution into smaller issues to pick up in the next milestones.
@@ -240,7 +240,7 @@ Suppose working one milestone ahead to design the big solution is not possible. 
 
 #### Reviewing Merge Requests
 
-UX should not be seen as a "gate" for reviewing Merge Requests. To avoid blocking reviews and speed up the response time, Product Designer and the Engineering DRI should work collaboratively throughout the feature development process and check-in often, so the UX approval at the stage of reviewing merge request is not required. 
+UX should not be seen as a "gate" for reviewing Merge Requests. To avoid blocking reviews and speed up the response time, Product Designer and the Engineering DRI should work collaboratively throughout the feature development process and check-in often, so the UX approval at the stage of reviewing merge request is not required.
 
 Tips to avoid blocking reviews:
 - Product Designers should point Engineers to the needed patterns to ensure product consistency and speed up development time. (example: Pajamas components for Frontend engineers, API documentation for Back-end engineers)
@@ -258,7 +258,7 @@ If we find that solutions are consistently not matching the agreed upon design, 
 
 #### Avoiding crunch times between UX and Engineering
 
-* Ideally, the Product Manager works ahead of time with a Product Designer to validate the problem and work on the solution. See [Validation track](/handbook/product-development-flow/#validation-track) for more details. This allows us to come up with the bigger idea ahead of time, and work further with Engineering to break it down into smaller iterations. Ideally, this should be completed before the implementation milestone starts. 
+* Ideally, the Product Manager works ahead of time with a Product Designer to validate the problem and work on the solution. See [Validation track](/handbook/product-development-flow/#validation-track) for more details. This allows us to come up with the bigger idea ahead of time, and work further with Engineering to break it down into smaller iterations. Ideally, this should be completed before the implementation milestone starts.
 * Product Designer, PM, and Engineering use the [Design phase](/handbook/product-development-flow/#validation-phase-3-design) in the Validation track to talk about complexities and discuss challenges and uncover blockers. Once we are all in agreement - we can have a put a direction on the board - see [Solution Validation phase](/handbook/product-development-flow/#validation-phase-4-solution-validation) for details.
 * Engineers and Product Designers should stay in contact and frequently align throughout the [Build track](https://about.gitlab.com/handbook/product-development-flow/#build-track) to avoid unplanned changes.
 
@@ -268,7 +268,7 @@ We track our technical debt using the following [CI Technical Debt board](https:
 
 1. Issue readiness
     - In `workflow::planning breakdown` we find issues that are currently being groomed.
-    - In `workflow::scheduling` we find issues that clearly defined and a weight has been assigned.
+    - In `workflow::ready for development` we find issues that clearly defined and a weight has been assigned.
 
 1. Impact breakdown. We use `severity::1`, `severity::2`, `severity::3` and `severity::4` labels to classify the impact of the specific tech debt item.
    We use the list below as a guideline to grade the impact.
@@ -311,7 +311,7 @@ On the 16th of each month a summary of the milestone will be added to the issue 
 
 As comments are added to the issue, team members are encourage to upvote any comments they feel are important to callout, and to add any additional discussion points as comments to the original thread.
 
-Around the 26th of the month, or after the discussions have wrapped up the backend engineering manager will summarize the retrospective and create issues for any follow up action items that need to be addressed. They will also redact any personal information, customer names, or any other notes the team would like to keep private. Once that has been completed the issue will be made non-confidential and closed.	 
+Around the 26th of the month, or after the discussions have wrapped up the backend engineering manager will summarize the retrospective and create issues for any follow up action items that need to be addressed. They will also redact any personal information, customer names, or any other notes the team would like to keep private. Once that has been completed the issue will be made non-confidential and closed.
 
 ### Team Communication
 
@@ -340,7 +340,7 @@ Most spontaneous team communiation happens in issues and MRs. Our issues have a 
 If you need to call the attention of the entire group, you can tag `@gitlab-com/ci-group`.
 
 ## Developer Onboarding
- 
+
 Welcome to Verify:CI! Whether you're transferring internally or joining GitLab as a new hire, you'll be assigned an [onboarding buddy](/handbook/general-onboarding/onboarding-buddies/). If you are an internal transfer, your manager will appoint you an onboarding buddy so you can have someone to work with as you're getting familiarized with CI, our codebase, our tech stack and the team.
 
 Read over this page as a starting point, and feel free to set up regular sync or async conversations with your buddy. It's also recommended to schedule a few coffee chats to meet some members of our team. Your manager may optionally create an onboarding checklist for you to go through if it's helpful.

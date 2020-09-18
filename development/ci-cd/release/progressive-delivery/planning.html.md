@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Progressive Delivery Planning"
-description: "How the Release Team Operates"
+description: "How the Progressive Delivery Team Operates"
 ---
 
 ## On this page
@@ -9,6 +9,18 @@ description: "How the Release Team Operates"
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+## Inclusive Development
+
+Our process of planning and development relies heavily on overcommunication rather than any approval gates or automated notification mechanisms. We subscribe to the idea of a proactive mindset and recognize that it is the responsibility of everyone on the team to ensure that every step of the process is as transparent as it can be.
+
+Keeping in mind that we [don't need to wait on others to build consensus](https://about.gitlab.com/handbook/values/#collaboration-is-not-consensus) before taking action, for both planning and building we take care that direct, cross-functional, and other relevant [stable counterparts](https://about.gitlab.com/handbook/engineering/development/ci-cd/release/#stable-counterparts) are included early into the process. This makes sure everyone is able to contribute to the best of their capabilities at the right time in the process. This can include, but is not limited to, GitLab objects, Slack, meetings, and daily standups.
+
+Some practical examples of this are:
+- When you open up or begin working on an epic, issue, or merge request consider if all stable counterparts are aware of this or should be updated. If unsure, error on the side of updating rather than keeping silent.
+- When making significant progress make sure this is seen by the relevant stable counterparts even if you don't require immediate feedback by mentioning them rather than relying on automated email notifications. Make their involvement explicit.
+
+Note: A good practice when only wanting to inform rather than requesting a direct action from the mentioned stable counterparts is to put `FYI` directly following the @mention handle.
 
 ## Planning
 
@@ -52,8 +64,8 @@ In this stage, the PM establishes new work that they would like to see in the Re
 
 ##### Problem validation
 
-The PM tries to establish that the issue describes a problem with the Release feature that is customer-relevant (internal and external), 
-or has some other clear merit (e.g. a technical improvement in the backend). The PM will draw on other group members, customers and the UX organization where necessary.  
+The PM tries to establish that the issue describes a problem with the Release feature that is customer-relevant (internal and external),
+or has some other clear merit (e.g. a technical improvement in the backend). The PM will draw on other group members, customers and the UX organization where necessary.
 If the problem is validated, the issue is moved forward to the next stage, otherwise it is closed with a short explanation on *why* the problem will not be considered. This explanation should also contain a link [to the category strategy](/handbook/product/product-processes/#category-direction).
 
 ##### Design phase
@@ -72,39 +84,41 @@ to determine a technical solution for the problem.
 
 Occasionally, a proof-of-concept (POC) is necessary to determine a feasible technical path. When one is required, the PM
 will create a POC issue that contains the context of the research to be conducted along with the goals of the POC. This
-issue will be scheduled for work before any further breakdown of tasks is performed. 
+issue will be scheduled for work before any further breakdown of tasks is performed.
 
-POC issues are also time-boxed with a due date applied to these items and should be labeled ~"POC". On the due date, the engineer is expected to provide a comment on the issue regarding the outcome of the POC. Time-boxing these issues is meant to constrain the scope of the work. 
+POC issues are also time-boxed with a due date applied to these items and should be labeled ~"POC". On the due date, the engineer is expected to provide a comment on the issue regarding the outcome of the POC. Time-boxing these issues is meant to constrain the scope of the work.
 
 It is also important to note that not all POCs will be successful, and that is OK! Some avenues of research may not be successful, and the POC will have saved us from investing significant time in a solution that will not meet our needs. The goal is early feedback and fast iteration.
 
 ##### Planning Breakdown
 
-The PM and the engineer will work together to create all of the issues required to build the solution. This includes
-- documentation issues
-- testing that is broader than the scope of individual issues
-- post-release items such as rake tasks, migrations or monitoring issues
+The Product Manager, Product Designer, and the Engineer(s) will work together to create all of the issues required to build the solution. This includes
+- Documentation issues
+- Testing that is broader than the scope of individual issues
+- Post-release items such as rake tasks, migrations or monitoring issues
 
 Post-release tasks that need to be performed by SRE's are created in the Infrastructure team project and cannot be
 added to Epics as related issues. For these, it's useful to list them in the Epic description.
 
 When they are satisfied that they have a reasonable solution with all issues weighted, they will send the Epic link out
 for discussion and feedback. Planning is transparent anyway, but this serves to notify the team that the Epic is ready
-for development. 
+for development.
 
-During planning breakdown, the correct labels should be applied. These can include but are not limited to feature, backstage, frontend, backend, and performance. Issues are also given the "cicd::scheduling" label once `workflow::planning breakdown` has completed. 
+During planning breakdown, the correct labels should be applied. These can include but are not limited to feature, backstage, frontend, backend, and performance. Issues are also given the "cicd::scheduling" label once `workflow::planning breakdown` has completed.
 
 This signifies that from both a product and engineering point of view, this issue is prepared and ready to be built as soon as there is space in the schedule.
+
+The planning breakdown should include a plan for the merge request scoping to make sure everyone is clear on the path of implementation.
 
 #### Schedule
 We use the [Scheduling boards](#scheduling-boards) for this phase.
 
 Once per week, the PM and EM will meet to discuss the work that is currently active, and queue prepared items for development.
 
-In this meeting, prepared items will be given the label "cicd::active", which will pull items into the Build board. 
+In this meeting, prepared items will be given the label "cicd::active", which will pull items into the Build board.
 
 This meeting is recorded and open for anyone to join. Attendance for the Release Team is optional as it is recorded. We will
-also try to move the time of the meeting around to suit epic owners when their epics are due to be scheduled. 
+also try to move the time of the meeting around to suit epic owners when their epics are due to be scheduled.
 
 The agenda for the meeting is:
 
@@ -133,7 +147,7 @@ Issues are sorted by highest priority, i.e. Release::P1 through Release::P3. Una
 
 An engineer is currently working on the issue;
 
-##### `workflow::in review` 
+##### `workflow::in review`
 
 The MR should be assigned to both the original engineer and the reviewer so that it is clear that the merge request has an active reviewer. This helps the EM to see how much work is allocated to each person;
 
@@ -202,20 +216,20 @@ enough context to review your work
 
 As a byproduct of the engineering evaluation process, a rough estimate of the number of merge requests required to develop a
 feature will be produced. This measure can be used as a way to determine issue weights. These weights can be useful during the
-planning process to get a rough gauge of how many features can be worked on in a milestone, and to understand how much work the 
+planning process to get a rough gauge of how many features can be worked on in a milestone, and to understand how much work the
 team can do in a milestone. This metric also aligns with the throughput metric currently measured by engineering teams.
 
 While entering the approximate weight, take a moment to confirm issues have the correctly added labels:
-- `group` 
+- `group`
 - `category`
-- `feature` or `bug` 
+- `feature` or `bug`
 - `frontend`
-- `backend` 
-- `UX` 
-- `performance` 
+- `backend`
+- `UX`
+- `performance`
 - `devops::release`
 
-After weight has been entered, remove `needs weight` label. 
+After weight has been entered, remove `needs weight` label.
 
 If you are having a difficult time estimating the number of merge requests, please consider a [Proof of Concept MR](/handbook/engineering/development/ci-cd/release/#tips-when-youre-having-hard-time-to-estimate-mr-count-consider-poc-step).
 

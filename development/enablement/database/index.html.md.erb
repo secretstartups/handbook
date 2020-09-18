@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Database Team
+title: Database Group
 ---
 
 ## On this page
@@ -17,11 +17,11 @@ Developing solutions for scalability, application performance, data growth and d
 
 Focusing on the database, our mission is to provide solutions that allow us to scale to our customer's demands.  To provide tooling to proactively identify performance bottlenecks to inform developers early in the development lifecycle.  To increase the number of database maintainers and provide database best practices to the community contributors and development teams within GitLab.
 
-The following people are permanent members of the Database Team:
+The following people are permanent members of the Database Group:
 
 ## Team Members
 
-The following people are permanent members of the Database Team:
+The following people are permanent members of the Database Group:
 
 <%-# Hard coding the team makeup for now until team.yml reflects the team structure -%>
 <%= direct_team(manager_role: 'Backend Engineering Manager, Database') %>
@@ -36,8 +36,9 @@ The following members of other functional teams are our stable counterparts:
 
 Whenever possible, we prefer to communicate asynchronously using issues, merge requests, and Slack. However, face-to-face meetings are useful to establish personal connection and to address items that would be more efficiently discussed synchronously such as blockers.
 
-* Weekly Team Meeting every Monday at 3:00 PM UTC
-* Database Team Office Hours every Tuesday and Thursday at 1:00 PM UTC
+* Database Group Office Hours every Tuesday and Thursday at 1:00 PM UTC
+  * Tuesdays - first 30 minutes dedicated to team weekly topics
+  * Thursdays - the first Thursday after milestone close is dedicated to the milestone retro
 * [Database Office Hours](https://docs.google.com/document/d/1wgfmVL30F8SdMg-9yY6Y8djPSxWNvKmhR5XmsvYX1EI/edit#heading=h.oyp8amyknnr8) (internal link); [YouTube recordings](https://www.youtube.com/playlist?list=PL05JrBw4t0Kp-kqXeiF7fF7cFYaKtdqXM)
   * Wednesdays, 3:30pm UTC (bi-weekly)
   * (APAC) Thursdays, 3:30am UTC (bi-weekly, alternating)
@@ -49,6 +50,16 @@ We follow the GitLab [engineering workflow](/handbook/engineering/workflow/) gui
 ### What we do
 
 The team is responsible for the PostgreSQL application interactions to enable high performance queries while offering features to support scalability and strengthen availability. For the foreseeable future, the team will be focusing on database partitioning and sharding. PostgreSQL is the heart of Rails application, and there is no shortage of work to make GitLab more performant, scalable, and highly available from database perspective.
+
+### Planning
+We use a [planning issue](https://gitlab.com/gitlab-org/database-team/team-tasks/-/blob/master/.gitlab/issue_templates/Planning.md) to discuss priorities and commitments for the milestone.  This happens largely asynchronously, but when we do need to discuss synchronously we discuss during the Tuesday team [meeting](#meetings) timeslot.
+
+#### Say/Do Ratio
+We use the `~Deliverable` label to track our Say/Do ratio.  At the beginning of each milestone, during a Database Group Weekly meeting, we review the issues and determine those issues we are confident we can deliver within the milestone.  The issue will be marked with the `~Deliverable` label.  At the end of the milestone the successfully completed issues with the `~Deliverable` label are tracked in two places.  We have a dashboard in Sisense that will calculate how many were delivered within the mileston and account for issues that were moved.  Additionally, our milestone retro issue lists all of the `~Deliverable` issues shipped along with those that missed the milesone.
+
+#### Roadmap
+The Database Group [Roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Roadmap&label_name[]=group%3A%3Adatabase) gives a view of what is currently in flight as well as projects that have been prioritized for the next 3+ months.
+
 
 ### Boards
 
@@ -71,6 +82,7 @@ We document our insights, road maps and other relevant material in this section.
 1. [Sharding with CitusDB](doc/citus.html) (April 2020)
 1. [Table partitioning: Issue group search as an example](doc/issue-group-search-partitioning.html) (March 2020)
 1. [Working with the GitLab.com database for developers](doc/gitlab-com-database.html)
+1. [Database schema proposals for Container Registry](doc/container-registry.html) (September 2020)
 
 ### Common Links
 

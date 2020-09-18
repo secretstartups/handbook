@@ -2,7 +2,6 @@
 layout: handbook-page-toc
 title: Secure and Defend Glossary of Terms
 ---
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -23,7 +22,6 @@ The Secure Glossary of Terms aims to achieve the following:
 The definitions of the terms outlined in this document are provided in the specific context of the GitLab Secure
 Products. Please note, therefore, that a term may have a different meaning to users outside of GitLab Secure.
 
-
 ## Terms
 
 ### Analyzer
@@ -41,6 +39,10 @@ The [Common library](https://gitlab.com/gitlab-org/security-products/analyzers/c
 The different places in an application that are vulnerable to attack. Secure products discover and search the attack surface during scans.
 
 Each product defines the attack surface differently, for example, SAST will use files and line numbers, while DAST uses URLs.
+
+### CNA
+
+[CVE](#CVE) Numbering Authorities (CNAs) are organizations from around the world that are authorized by the [Mitre Corporation](https://cve.mitre.org/) to assign [CVE](#CVE)s to vulnerabilities in products or services within their respective scope. [Gitlab is a CNA](https://about.gitlab.com/security/cve/).
 
 ### CVE
 
@@ -97,7 +99,7 @@ A page that displays Findings discovered in the associated CI Pipeline.
 A Finding's Primary Identifier is a value that is unique for each Finding. The external type
 and external ID of the Finding's [first identifier](https://gitlab.com/gitlab-org/security-products/security-report-schemas/-/blob/v2.4.0-rc1/dist/sast-report-format.json#L228) combines to create the value.
 
-Examples of Primary Identifiers include ZAP's `PluginID`, or `CVE` for Klar. 
+Examples of Primary Identifiers include ZAP's `PluginID`, or `CVE` for Klar.
 Note that the identifier must be stable; subsequent scans must return the same value for the same Finding, even if the location has slightly changed.
 
 ### Report Finding

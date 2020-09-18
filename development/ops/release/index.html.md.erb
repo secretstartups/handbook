@@ -1,0 +1,373 @@
+---
+layout: handbook-page-toc
+title: "Release Stage"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Vision
+
+For an understanding of what this stage ecapsulates, take a look at [the product
+vision](/direction/release/).
+
+For an understanding of our UX Vision and Strategy, take a look at the [Release UX Strategy](/handbook/engineering/ux/stage-group-ux-strategy/release/).
+
+Check out our Release Stage Vision:
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/pzGCishRoh4" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+### Release 3-year vision process 
+
+We are working toward creating [3-year vision mock-ups](https://gitlab.com/groups/gitlab-org/-/epics/3825) to effectively orchestrate features across Release Management and Progressive Delivery. This method has several advantages: 
+- Enablement for Sales and the Field on the Release Stage vision that is tangible 
+- Support long-term Investor Pitches to inform the future direction of GitLab's offering 
+- Coordination between groups within the Stage with a guide for where we would like to be 
+- Empowers engineering to effectively contribute new ideas not already documented 
+
+These vision mocks are a journey and will produce living assets. This is roughly an 8-10 week process with focused on delivering high-fidelity designs for future product functionality or user experiences. The steps we follow are: 
+
+**Step 1:** Evaluate current Stage Direction and attach big picture user flows. Example: [Release Stage Google Document](https://docs.google.com/document/d/1esRiYO8xXi3U9ArH4jzyF_1mJCnu4VBZIo56f3RUDBs/edit?usp=sharing)
+
+**Step 2:** Identify 1-2 candidates to create user flows for an experience. Example: [Release 3-year Mock Flow A](https://gitlab.com/gitlab-org/gitlab/-/issues/227428)
+
+> Tip: For stage wide visions, try to think of user flows that work across categories and showcase the end to end functionality of GitLab 
+
+**Step 3:** UX Designer will story board the user flow  
+
+**Step 4:** Product Management and UX review the low fidelity wireframes to define final outputs for high-fidelity mocks 
+
+**Step 5:** UX creates Figma based high-fidelity mocks
+
+**Step 6:** Product Management merges screen shots of mocks to Direction Page and creates a walk through of mocks for Sales Enablement 
+
+**Step 7:** Share Unfiltered recording in #product, #s_yourstage, #g_yourgroups and other relevant channels. 
+
+## [North Star Metrics](/handbook/product/metrics/#north-star-metric)
+
+From [Amplitude's North Star Metric handbook](https://amplitude.com/north-star), a north star metric is a single leading indicator for performance of a product. Typically this can be tracked as a stage monthly active user [SMAU](https://jmeshell-funnel.about.gitlab-review.app/handbook/product/metrics/index.html#stage-monthly-active-users-smau).
+
+### Release North Star Metrics 
+The Release Management & Progressive Delivery teams are prioritizing features that will drive `count of deployments` from GitLab. 
+
+Release Management is about unblocking users as they continuously deliver value to their customers. A part of this can be seen in how users create Release tags to track production deployments and in that adoption of the Release features, users are deploying more with GitLab. We can also see a correlation between users adopting Releases to deploy with GitLab and leveraging more paid features. 
+
+Progressive Delivery is about the process of pushing changes to a product iteratively. The ultimate goal is to improve delivery times for new features and mitigate risk by controlling the audience that is exposed to them. This can be seen by users that use feature flags and advanced deployments as part of their Continuous Delivery pipeline. We can also see Continuous Delivery as an entry point to downstream stages, such as [Configure](https://about.gitlab.com/stages-devops-lifecycle/configure/) and [Monitor](https://about.gitlab.com/stages-devops-lifecycle/monitor/).
+
+Our SSOT for tracking this adoption is in the [Release Stage Dashboard](https://app.periscopedata.com/app/gitlab/451468/Release-Stage-Dashboard?widget=5831900&udv=990415). 
+
+### Release SMAU & Release Management & Progressive Delivery GMAU Usage Funnel  
+
+We expect to track the journey of users through the following funnel: 
+
+[![](https://mermaid.ink/img/eyJjb2RlIjoiY2xhc3NEaWFncmFtXG4gIEFjcXVpc3Rpb24gLS18PiBBY3RpdmF0aW9uXG5cdEFjcXVpc3Rpb24gOiBBcmUgdXNlcnMgYXdhcmUgb2YgdGhlIHByb2R1Y3Qgb3IgZmVhdHVyZSBzZXQ_ICAgIFxuXHRBY3F1aXN0aW9uOiBNZWFzdXJlbWVudCAoVG90YWwgQ291bnQgb2YgUmVsZWFzZSBQYWdlIFZpZXdzKSBcbiAgQWN0aXZhdGlvbiAtLXw-IFJldGVudGlvblxuXHRBY3RpdmF0aW9uIDogQXJlIHVzZXJzIGFwcGx5aW5nIHRoZSBmZWF0dXJlP1xuXHRBY3RpdmF0aW9uOiBNZWFzdXJlbWVudCAoVG90YWwgQ291bnQgb2YgUmVsZWFzZXMgQ3JlYXRlZCkgXHRcdFx0XHRcbiAgUmV0ZW50aW9uIC0tfD4gUmV2ZW51ZVxuXHRSZXRlbnRpb24gOiBBcmUgdXNlcnMgYXBwbHlpbmcgdGhlIGZlYXR1cmUgb3ZlciB0aW1lP1xuXHRSZXRlbnRpb246IE1lYXN1cmVtZW50IChDb3VudCBvZiBEZXBsb3ltZW50cykgXG4gIFJldmVudWUgLS18PiBSZWZlcnJhbFxuXHRSZXZlbnVlIDogQXJlIHVzZXJzIHBheWluZyBmb3IgdGhlIGZlYXR1cmVzP1xuXHRSZXZlbnVlOiBNZWFzdXJlbWVudCAoUmF0aW8gb2YgUmV2ZW51ZSBwZXIgRGVwbG95bWVudCkgXG4gIFJlZmVycmFsIC0tfD4gQWNxdWlzdGlvblxuXHRSZWZlcnJhbCA6IEFyZSB1c2VycyBlbmNvdXJhZ2luZyBvdGhlcnMgdG8gdXNlIHRoZSBmZWF0dXJlP1xuXHRSZWZlcnJhbDogTWVhc3VyZW1lbnQgKENvdW50IG9mIFJlbGVhc2UgUGFnZSBWaWV3cyBmcm9tIFNvY2lhbCBvciBEaXJlY3QgTGluaykgIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiY2xhc3NEaWFncmFtXG4gIEFjcXVpc3Rpb24gLS18PiBBY3RpdmF0aW9uXG5cdEFjcXVpc3Rpb24gOiBBcmUgdXNlcnMgYXdhcmUgb2YgdGhlIHByb2R1Y3Qgb3IgZmVhdHVyZSBzZXQ_ICAgIFxuXHRBY3F1aXN0aW9uOiBNZWFzdXJlbWVudCAoVG90YWwgQ291bnQgb2YgUmVsZWFzZSBQYWdlIFZpZXdzKSBcbiAgQWN0aXZhdGlvbiAtLXw-IFJldGVudGlvblxuXHRBY3RpdmF0aW9uIDogQXJlIHVzZXJzIGFwcGx5aW5nIHRoZSBmZWF0dXJlP1xuXHRBY3RpdmF0aW9uOiBNZWFzdXJlbWVudCAoVG90YWwgQ291bnQgb2YgUmVsZWFzZXMgQ3JlYXRlZCkgXHRcdFx0XHRcbiAgUmV0ZW50aW9uIC0tfD4gUmV2ZW51ZVxuXHRSZXRlbnRpb24gOiBBcmUgdXNlcnMgYXBwbHlpbmcgdGhlIGZlYXR1cmUgb3ZlciB0aW1lP1xuXHRSZXRlbnRpb246IE1lYXN1cmVtZW50IChDb3VudCBvZiBEZXBsb3ltZW50cykgXG4gIFJldmVudWUgLS18PiBSZWZlcnJhbFxuXHRSZXZlbnVlIDogQXJlIHVzZXJzIHBheWluZyBmb3IgdGhlIGZlYXR1cmVzP1xuXHRSZXZlbnVlOiBNZWFzdXJlbWVudCAoUmF0aW8gb2YgUmV2ZW51ZSBwZXIgRGVwbG95bWVudCkgXG4gIFJlZmVycmFsIC0tfD4gQWNxdWlzdGlvblxuXHRSZWZlcnJhbCA6IEFyZSB1c2VycyBlbmNvdXJhZ2luZyBvdGhlcnMgdG8gdXNlIHRoZSBmZWF0dXJlP1xuXHRSZWZlcnJhbDogTWVhc3VyZW1lbnQgKENvdW50IG9mIFJlbGVhc2UgUGFnZSBWaWV3cyBmcm9tIFNvY2lhbCBvciBEaXJlY3QgTGluaykgIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)
+
+We completed the implementation of Stage Monthly Active Users in [gitlab#882](https://gitlab.com/gitlab-com/Product/-/issues/882). 
+
+Progressive Delivery GMAU will be instremented as part of [product#1416](https://gitlab.com/gitlab-com/Product/-/issues/1416) and are detailed in the [Ops Section Product Performance Indicators](https://about.gitlab.com/handbook/product/ops-section-performance-indicators/) .
+
+
+
+## Mission
+
+The Release Stage is focused on all the functionality with respect to
+Continuous Delivery and Release Automation.
+
+This Stage maps to [Release](/handbook/product/product-categories/#release) devops stage.
+
+## Team Members
+
+The following people are permanent members of the Release Stage:
+
+<%= direct_team(manager_role: 'Backend Engineering Manager, Release:Progressive Delivery') %>
+<%= direct_team(manager_role: 'Backend Engineering Manager, Release:Release Management') %>
+<%= direct_team(manager_role: 'Frontend Engineering Manager, Release (CD)') %>
+
+## Stable Counterparts
+
+The following members of other functional teams are our stable counterparts:
+
+<%= stable_counterparts(role_regexp: /[,&] Release/, direct_manager_role: 'Frontend Engineering Manager, Release (CD)') %>
+
+## Technologies
+
+Like most GitLab backend teams, we spend a lot of time working in Rails on the main [GitLab CE app](https://gitlab.com/gitlab-org/gitlab-ce), but we also do a lot of work in Go which is used heavily in [GitLab Pages](https://gitlab.com/gitlab-org/gitlab-pages). Familiarity with Docker and Kubernetes is also useful on our team.
+
+## Common Links
+
+ * [Issue Tracker](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Arelease)
+ * [Slack Channel](https://gitlab.slack.com/archives/s_release)
+ * [Roadmap](/direction/release/)
+
+## How to work with us
+
+### On issues
+
+Issues that contribute to the release stage of the devops toolchain have the `~"devops::release"` label.
+
+### In Slack
+
+The Stage's primary Slack channel is `#s_release`, and the public managers channel is `#release-managers`. We also support a number of feature channels for discussons or questions about a specific [feature area](/handbook/product/product-categories/#release-stage). We no longer support issue specific channels, as they are easy to lose track of and fragment the discussion. Supported channels are:
+
+* Continuous delivery: `f_continuous_delivery`
+* Release orchestration: `f_release_orchestration`
+* Release governance: `f_release_governance`
+* Advanced Deployments: `f_advanced_deployments`
+* Review apps: `f_review_apps`
+* Feature flags: `f_feature_flags`
+* Secrets management: `f_secrets_management`
+* AutoDevOps: `f_autodevops`
+* Pages: `gitlab-pages`
+
+### Team Workflow
+
+We use the [Release Team Workflow board](https://gitlab.com/groups/gitlab-org/-/boards/1285883?&label_name[]=devops%3A%3Arelease) to plan and track features as they make their way from idea to production. This board details the various stages an issue can exist in as it is being developed. It's not necessary that an issue go through all of these stages, and it is allowed for issues to move back and forward through the workflow as they are iterated on.
+
+#### Workflow Stages
+
+Below is a description of each stage, its meaning, and any requirements for that stage.
+
+* `workflow::start`
+  * The entry point for workflow scoped labels. From here, Issues will either move through the validation workflow, go directly to planning and scheduling, or in certain cases, go directly to the development steps.
+* `workflow::problem validation`
+  * This stage aims to produce a [clear and shared understanding of the customer problem](/handbook/product-development-flow/#validation-phase-2-problem-validation).
+* `workflow::solution validation`
+  * This output of this stage is a [clear prototype of the solution to be created](/handbook/product-development-flow/#validation-phase-3-solution-validation).
+* `workflow::ready for development`
+  * This stage indicates the issue is ready for engineering to begin their work.
+  * Issues in this stage must have a `UX Ready` label, as well as either `frontend`, `backend` or both labels to indicate which areas will need focus.
+* `workflow::in dev`
+  * This stage indicates that the issue is actively being worked on by one or more developers.
+* `workflow::in review`
+  * This stage indicates that the issue is undergoing code review by the development team and/or undergoing design review by the UX team.
+* `workflow::verification`
+  * This stage indicates that everything has been merged and the issue is waiting for verification after a deploy.
+
+### Engineering Evaluation & Estimation
+
+In order to make sure sprints are effective as possible, it is important to ensure issues are clearly defined and broken down before the start of a sprint. In order to accomplish this, engineering evaluation will take place for issues that require it (small changes and bug fixes typically won’t require this analysis). Engineers will look for assigned issues with the `workflow::planning breakdown` label that have user stories defined, as well as functional, performance, documentation, and security acceptance criteria. See [Build phase](/handbook/product-development-flow/#build-phase-1-plan) of the Product Development Workflow.
+
+Assigned engineers will work with Product, UX and other engineers to determine the implementation plan for the feature.
+
+Once an implementation plan has been finalized, the following steps should be taken:
+
+* The issue description should be updated to include the details of the implementation plan along with a checklist to show the planned breakdown of merge requests.
+* The issue should be moved forward in the workflow to `workflow::ready for development`.
+* The weight of the issue should be updated to reflect the number of merge requests estimated as part of the implementation plan. For smaller changes and bugs, the weight should be 1.
+* Those updates to the issue will signal that the issue has been properly scoped and is ready to be worked on in an upcoming milestone.
+
+#### Merge request count as a measure of issue weight
+
+As a byproduct of the engineering evaluation process, a rough estimate of the number of merge requests required to develop a feature will be produced. This measure can be used as a way to determine issue weights. These weights can be useful during the planning process to get a rough gauge of how many features can be worked on in a milestone, and to understand how much work the team can do in a milestone. This metric also aligns with the [throughput metric](/handbook/engineering/management/throughput/) currently measured by engineering teams.
+
+#### Tips: A feature behind a feature flag will have a minimum weight of 3 to 4
+
+Documentation for a feature [is expected to be available when the feature is itself available](https://docs.gitlab.com/ee/development/documentation/workflow.html#when-documentation-is-required). However, feature flags should not be removed until the feature has been released widely and shown to behave as expected. That means the steps are at a minimum:
+
+1. Backend feature creation and addition of the feature flag.
+2. Frontend feature work, if necessary, behind the same flag.
+3. Documentation released and feature flag defaulted to `true`.
+4. After some time and demonstration of stability, the feature flag is removed completely.
+
+To reduce this number, if the changes to code are small, the documentation can be added in the same MR as the feature flag, behind the same flag or in the frontend MR, if it too is small enough. 
+
+
+#### Tips: When you're having hard time to estimate MR count, consider PoC step.
+
+If you have no idea where to begin the development due to lack of knowledge on the context or
+you're less confident on the current technical proposal,
+it might be better to work on Proof-of-Concept MR (PoC or Prototype) at first.
+This gives you more insights on the current implementation details and potential required changes.
+
+This step removes a lot of "if"s from your assumptions. When you're making a
+technical proposal, often you don't have enough time to investigate the actual
+implementation details. In such case, you're assuming like "Probably, this feature works
+like ..." or "Probably, this feature and that feature are connected like ...", which
+leaves some probability in your development plan, and if it turned out a wrong assumption, you
+may need to rethink the whole approach, even though you're at the middle of development cycle.
+PoC step derisks such a turnaround by cross-checking the technical proposal with
+domain/performance/security experts and UX/PM.
+
+Here is how to work on PoC step:
+
+- Create a new MR with a title started from "PoC:". Explain the technical proposal
+  in the MR description, that you think it's the best.
+- Try to implement the feature in the merge request. Frontend and bakcend engineers
+  can work on the same branch.
+- If it takes too long time to make the feature actually works on your local development machine,
+  your technical proposal might need to be reconsidered. You can seek the other viable approaches
+  by hearing from domain experts or the other developers.
+- If you see technical difficulties that seems impossible to be solved in the same milestone,
+  you should raise a concern that there is a blocker thus we might
+  not be able to finish the feature by the due date.
+- If the change size is too large (e.g. you had to modify over 1000-1500 lines without tests),
+  you should raise a concern that the issue is too large to ship within one milestone,
+  and you can make a suggestion that what can be done in the release and what can be done
+  in the next milestone (i.e. issue split).
+- In the PoC review, you should ask domain/performance/security experts or the other engineers who are familer on the context
+  to review the technical approach and actual code. This is to ensure that there are no big red flags on the proposed solution.
+- In the PoC review, you should ask PM and UX to review the feature's behavior.
+  This is to ensure that the feature is correctly implemented and orthogonal to our problem to solve.
+- You don't need to split MRs. It can be done later.
+- You don't need to write neither tests nor documentation. It can be done later.
+- You don't need to fix failed pipelines. You can fix the broken tests later. (Although, it might have some useful information)
+- You don't need to write well-organized code. Refactoring can be done later.
+- The PoC MR is not for merge, however, you can copy and paste the changes into the actual MRs, and poish later.
+- Definition of done of PoC step is collecting approvals from PM, UX, domain/performance/security experts.
+- Once it's done, you can estimate the number of MRs. For example, if the change size is 1000,
+  you can split it to 5 MRs with 200 LoC. As you add tests in the actual development,
+  the finial change size per MR would be doubled.
+- Once it's done, you can close the PoC MR.
+
+Technically, if you've done a PoC step, there is no need to ask additional reviews
+in actual MRs as long as you don't change the feature behavior. You can simply
+focus on general engineering review or documentation review, only.
+For example, improving code quality, refactoring code, writing tests, writing documents, etc.
+
+Here are the examples of PoC step. [Example 1](https://gitlab.com/gitlab-org/gitlab/merge_requests/16276),
+[Example 2](https://gitlab.com/gitlab-org/gitlab/merge_requests/18115)
+
+#### Issue template for a feature development
+
+This is an issue template for feature development. It includes some
+important engineering tasks to be done in general.
+
+```
+<!-- The issue begins with "Problme to solve", "Intended users", "Proposal", etc.
+     Read more https://gitlab.com/gitlab-org/gitlab/blob/master/.gitlab/issue_templates/Feature%20proposal.md -->
+
+## Technical proposal
+
+<!-- In this section, describe technical proposal for the problem to solve.
+     It should give enough contexts to be able to be reviewed by domain/performance/security experts. -->
+
+## Feature Flag
+
+This feature is implemented behind `feature-flag-name` feature flag and disabled by default.
+Once we've confirmed the feature is deemed stable, we remove the feature flag in order to publish the feature as GA.
+<!-- Read more [Feature flags in development of GitLab](https://docs.gitlab.com/ee/development/feature_flags/) -->
+
+## Planned MRs
+
+### Backend
+
+- [ ] [MR-1 title](MR link if it already exists)
+- [ ] [MR-2 title](MR link if it already exists)
+
+### Frontend
+
+- [ ] [MR-1 title](MR link if it already exists)
+- [ ] [MR-2 title](MR link if it already exists)
+
+### General
+
+- [ ] [Write a feature spec to test frontend and backend change altogether](MR link if it already exists)
+- [ ] [Remove the feature flag and update documentation](MR link if it already exists) # i.e. publish the feature
+```
+
+#### Issue template for feature evaluation (dogfooding, beta-tester program)
+
+This is an issue template for feature evaluation. It includes some
+important engineering tasks to be done in general.
+
+When you enable a feature via feature flag and expect a significant impact on
+user workflow or production load, you should create an issue with the following
+template to communicate better with the affected users or SRE.
+
+```
+## Summary
+
+<!-- The reason of feature evaluation. -->
+
+## Feature details
+
+<!-- Describes the feature details and expected performance or usability impact -->
+
+## Timeline
+
+<!-- This section describes the timeline of the evaluation.
+     Example:
+     - 2019-10-12 01:00 UTC The second evaluation: We will enable the feature on yyy project for X days.
+     - 2019-10-11 01:00 UTC We've disabled the feature on xxx project because ...
+     - 2019-10-10 01:00 UTC The first evaluation: We've enabled the feature on yyy project for X days.
+-->
+
+## How to enable the feature
+
+<!-- Describes how to enable the feature that anyone can execute -->
+
+## How to disable the feature
+
+<!-- Describes how to disable the feature that anyone can execute.
+     Consider, in an emergency case, someone else might need to disable the feature instead of you. -->
+
+## Beginning of evaluation
+
+- [ ] Announce in Slack/CompanyCall (T-minus 1 day)
+- [ ] Enable the feature
+
+## End of evaluation
+
+- [ ] Announce in Slack/CompanyCall
+- [ ] Disable the feature
+
+## Feedback/Metrics
+
+<!-- This section should be filled after the end of evaluation.
+     You can collect metrics from user feedback or looking at Grafana, Sentry, Kibana, etc -->
+
+### The second evaluation
+
+<!-- The result of the second evaluation. e.g. We didn't observe any problmes. -->
+
+### The first evaluation
+
+<!-- The result of the first evaluation. e.g. We've found a crucial problem thus we need to fix YYY issue before the second evaluation. -->
+```
+
+### Code Review
+Code reviews follow the standard process of using the [reviewer roulette](https://docs.gitlab.com/ee/development/code_review.html#reviewer-roulette) to choose a reviewer and a maintainer. The roulette is optional, so if a merge request contains changes that someone outside our group may not fully understand in depth, it is encouraged that a member of the Release team be chosen for the preliminary review to focus on correctly solving the problem. The intent is to leave this choice to the discretion of the engineer but raise the idea that fellow Release team members will sometimes be best able to understand the implications of the features we are implementing. The maintainer review will then be more focused on quality and code standards.
+
+This tactic also creates an environment to ask for early review on a WIP merge request where the solution might be better refined through collaboration and also allows us to share knowledge across the team.
+
+
+### Async Status Updates
+
+Since we are a [remote](/company/culture/all-remote/) company, we utilize a Slack plugin called [Geekbot](https://geekbot.io/) to coordinate various status updates. There are currently 3 status updates configured in Geekbot, one is weekly and two are daily:
+
+#### Weekly Status Update
+The **Weekly Status Update** is configured to run at noon on Fridays, and contains three questions:
+
+1. ***What progress was made on your deliverables this week?*** (MRs and demos are good for this)
+
+    The goal with this question is to show off the work you did, even if it's only part of a feature. This could be a whole feature, a small part of a larger feature, an API to be used later, or even just a copy change.
+
+2. ***What do you plan to work on next week?*** (think about what you'll be able to merge by the end of the week)
+
+    Think about what the next most important thing is to work on, and think about what part of that you can accomplish in one week. If your priorities aren't clear, talk to your manager.
+
+3. ***Who will you need help from to accomplish your plan for next week?*** (tag specific individuals so they know ahead of time)
+
+    This helps to ensure that the others on the team know you'll need their help and will surface any issues earlier.
+
+#### Daily Standup
+
+The **Daily Standup** is configured to run each morning Monday through Thursday and posts to `#g_release` Slack channel. It has just one question:
+
+1. ***Is there anything you could use a hand with today, or any blockers?***
+
+    This check-in is optional and can be skipped if you don't need any help or don't have any blockers. Be sure to ask for help early, your team is always happy to lend a hand.
+
+#### Daily Social
+
+The optional **Daily Social** is configured to run each morning and posts to #g_cicd_social. It has just one question:
+
+1. ***What was something awesome, fun, or interesting that you did yesterday outside of work?***
+
+    This check-in is optional and can be skipped if you don't have anything to share.

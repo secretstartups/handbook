@@ -27,12 +27,12 @@ We measure the value we contribute by using Performance Indicators (PI), which w
 
 ## Usage Funnel
 
-As defined on the growth page, ARRR stands for Acquisition, Activation, Retention, Revenue, and Referral". This framework represents the customer journey, and the various means a product manager may apply a North Star metric (performance indicator) to drive a desired behavior in the funnel. As discussed above, since Runner is the engine that drives GitLab CI, at this time, we will leverage the same usage funnel definitions for [Verify:CI](/handbook/engineering/development/ci-cd/verify/continuous-integration/#usage-funnel).
+As defined on the growth page, AARRR stands for Acquisition, Activation, Retention, Revenue, and Referral. This framework represents the customer journey, and the various means a product manager may apply a North Star metric (performance indicator) to drive a desired behavior in the funnel. As discussed above, since Runner is the engine that drives GitLab CI, at this time, we will leverage the same usage funnel definitions for [Verify:CI](/handbook/engineering/development/ci-cd/verify/continuous-integration/#usage-funnel).
 
-When we launch the macOS Runners as a product, we will add a section here that defines the ARRR metrics for that offer. The rationale for that is that we are planning for a separate landing page for the macOS Runners. As such, we can measure page views and click-throughs to call to actions. 
+When we launch the macOS Runners as a product, we will add a section here that defines the AARRR metrics for that offer. The rationale for that is that we are planning for a separate landing page for the macOS Runners. As such, we can measure page views and click-throughs to call to actions.
 
-Example ARRR metrics that we have in mind for that offer:
-- Acquisition: conversion rate from page view to click-through to call to action. 
+Example AARRR metrics that we have in mind for that offer:
+- Acquisition: conversion rate from page view to click-through to call to action.
 - Activation:  conversion rate from call to action click-throughs to new user sign-ups for a GitLab plan.
 - Retention: percentage of new users that continue to use GitLab after sign up.
 - Revenue: macOS Cloud Runner minutes used per month.
@@ -362,3 +362,56 @@ the steps would be the following:
     sudo docker run -it gitlab/gitlab-runner-helper:s390x-dev bash
     gitlab-runner-helper help
     ```
+
+### Merge Request Bot
+
+For
+[`gitlab-org/gitlab-runner`](https://gitlab.com/gitlab-org/gitlab-runner)
+we have the [Merge Request
+Bot](https://gitlab.com/merge-request-bot/merge-request-bot) enabled which posts
+[comments for community
+contributions](https://gitlab.com/gitlab-org/gitlab-runner/-/merge_requests/2407#note_411098266).
+This is configured via [Merge Request webhook
+events](https://gitlab.com/gitlab-org/gitlab-runner/hooks).
+
+- [Appliation code](https://gitlab.com/merge-request-bot/merge-request-bot)
+- [CloudRun deployment](https://gitlab.com/merge-request-bot/infrastructure/cloud-run)
+- [Logs](https://console.cloud.google.com/logs/query;query=resource.type%20%3D%20%22cloud_run_revision%22%0Aresource.labels.service_name%20%3D%20%22merge-request-bot%22%0Aresource.labels.location%20%3D%20%22europe-west4%22%0A%20severity%3E%3DDEFAULT%0Atimestamp%3E%3D%222020-09-11T10:25:17.532Z%22%20timestamp%3C%3D%222020-09-11T11:25:17.532Z%22;timeRange=PT1H;summaryFields=:true:32:beginning?customFacets=&scrollTimestamp=2020-09-11T11:25:01.157050000Z&project=group-verify-df9383)
+
+### MacOS Shared Runners
+
+#### Tracking the VM image storage quota
+
+Our provider MacStadium provides us access to a [dashboard](https://macstadium.logicmonitor.com/)
+where we can track the storage usage against our quota. To gain access to the dashboard,
+open a ticket in the [MacStadium portal](https://portal.macstadium.com/).
+
+There are also some useful bash aliases and functions that can be used locally:
+
+```shell
+alias oil="orka image list"
+alias ovl="orka vm list"
+alias oid="orka image delete -y --image"
+alias ovp="orka vm purge -y --vm"
+alias oquota="orka image list --json | jq '[ .image_attributes[] | .image_size | rtrimstr(\"G\") | tonumber ] | add'"
+
+# Purge all images associated with MR
+function opmr() {
+  local MR="$1"
+  if [[ -z ${MR} ]]; then
+    echo "Please specify the MR number as an argument"
+    return
+  fi
+
+  orka image list --json | \
+    jq -r ".images[] | select(contains(\"mr-${MR}\"))" | \
+    xargs -I{} orka image delete -y --image {}
+}
+
+# Purge all VMs in account
+function ovpa() {
+  orka vm list --json | \
+    jq -r ".virtual_machine_resources[] | .status[] | .virtual_machine_id" | \
+    xargs -I{} orka vm purge -y --vm {}
+}
+```

@@ -147,7 +147,42 @@ When estimating development work, please assign an issue an appropriate weight:
 | 8 | A complex change, that will involve much of the codebase or will require lots of input from others to determine the requirements. |
 | 13 | A significant change that may have dependencies (other teams or third-parties) and we likely still don't understand all of the requirements. It's unlikely we would commit to this in a milestone, and the preference would be to further clarify requirements and/or break in to smaller Issues. |
 
-As part of estimation, if you feel the issue is in an appropriate state for an engineer to start working on it, please add the ~"workflow::ready for development" label. Alternatively, if there are still requirements to be defined or questions to be answered that you feel an engineer won't be able to easily resolve, please add the ~"workflow::blocked" label. Issues with the `workflow::blocked` label will appear in their own column on our planning board, making it clear that they need further attention.
+As part of estimation, if you feel the issue is in an appropriate state for an engineer to start working on it, please add the ~"workflow::ready for development" label. Alternatively, if there are still requirements to be defined or questions to be answered that you feel an engineer won't be able to easily resolve, please add the ~"workflow::blocked" label. Issues with the `workflow::blocked` label will appear in their own column on our planning board, making it clear that they need further attention. When applying the `workflow::blocked` label, please make sure to leave a comment and ping the DRI on the blocked issue and/or link the blocking issue to raise visibility.
+
+##### Implementation Approach
+
+For engineers, you may want to create an implementation approach when moving an issue out of `~workflow::planning breakdown`. A proposed implementation approach isn't required to be followed, but is helpful to justify a recorded weight.
+
+As the DRI for `workflow::planning breakdown`, consider following the example below to signal the end of your watch and the issues preparedness to move into scheduling. While more straightforward issues that have already been broken down may use a shorter format, the plan should (at a minimum) always justify the "why" behind an estimation.
+
+The following is an example of an implementation approach from [https://gitlab.com/gitlab-org/gitlab/-/issues/247900#implementation-plan](https://gitlab.com/gitlab-org/gitlab/-/issues/247900#implementation-plan). It illustrates that the issue should likely be broken down into smaller sub-issues for each part of the work:
+
+```md
+### Implementation approach
+
+~database
+
+1. Add new `merge_requests_author_approval` column to `namespace_settings` table (The final table is TBD)
+
+~"feature flag"
+
+1. Create new `group_merge_request_approvers_rules` flag for everything to live behind
+
+~backend
+
+1. Add new field to `ee/app/services/ee/groups/update_service.rb:117`
+1. Update `ee/app/services/ee/namespace_settings/update_service.rb` to support more than just one setting
+1. *(if feature flag enabled)* Update the `Projects::CreateService` and `Groups::CreateService` to update newly created projects and sub-groups with the main groups setting
+1. *(if feature flag enabled)* Update the Groups API to show the settings value
+1. Tests tests and more tests :muscle:
+
+~frontend
+
+1. *(if feature flag enabled)* Add new `Merge request approvals` section to Groups general settings
+1. Create new Vue app to render the contents of the section
+1. Create new setting and submission process to save the value
+1. Tests tests and more tests :muscle:
+```
 
 Once an issue has been estimated, it can then be moved to `workflow::scheduling` to be assigned a milestone before finally being `workflow::ready for development`.
 
@@ -227,7 +262,9 @@ Engineers who are part of the rota should work from [this board](https://gitlab.
 |-----:|----------|---|
 | 13.3 | 17th July 2020 | [mksionek](https://gitlab.com/mksionek) | [dblessing](https://gitlab.com/dblessing) |
 | 13.4 | 17th August 2020 | [ifarkas](https://gitlab.com/ifarkas) | [manojmj](https://gitlab.com/manojmj)  |
-| 13.5 | 17th September 2020 | [alexpooley](https://gitlab.com/alexpooley) |   |
+| 13.5 | ~28th September 2020 | [alexpooley](https://gitlab.com/alexpooley) |  [sarcila](https://gitlab.com/sarcila) |
+| 13.6 | ~26th October 2020 | [ifarkas](https://gitlab.com/ifarkas) | [manojmj](https://gitlab.com/manojmj) |
+| 13.7 | ~23rd November 2020 | | |
 
 **_Comment:_** working on multple issues that are focused on one aspect of the application reduces context switch, helps with gaining knowledge faster and allows to leave this part of the application in significantly better condition after one security rota cycle.
 
