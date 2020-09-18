@@ -958,6 +958,10 @@ We practice transparency even when hiding the facts would be easier. For example
 {:.no_toc}
 By having most company communications and work artifacts be public to the Internet, we have one single source of truth for all GitLab team members, users, customers, and other community members. We don‘t need separate artifacts with different permissions for different people.
 
+##### Information flow is critical
+{:.no_toc}
+In order to [improve performance](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture) it's important that we not only ensure information is transparent, but also ensure it flows to the correct places. Focusing on information flow will ensure you utilize [multi-modal communication](/handbook/communication/#multimodal-communication), or that you keep your [stakeholders informed of changes](/handbook/product/product-processes/#updated-ssot-for-stakeholder-collaboration) by posting links to MRs in Slack.
+
 ##### Find the Limit
 {:.no_toc}
 We accept that we occasionally make mistakes in the direction of transparency. In other words, we accept it if we're sometimes publicizing information that should have remained confidential in retrospect. Most companies become non-transparent over time because they don't accept any mistakes. Making mistakes and reflecting on them means we know where the limit of transparency is.
