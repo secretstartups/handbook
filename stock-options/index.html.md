@@ -188,8 +188,8 @@ At GitLab the stock options are intended to commit our team members to get us to
 a successful public listing of our stock. We want to motivate and reward our people for reaching that goal. Therefore we will consider exercise
 window extensions only on a case by case basis at our discretion. An example of a situation we'll consider is a valued
 team member quitting because of personal circumstances. In most cases there will be no extension and you will either have
-to pay for shares and the taxes yourself, or lose the options, even when you are fully vested. And, of course, [being a publicly listed company in 2020
-is our public ambition](/company/strategy/), but neither the timing, nor whether it happens at all, is guaranteed.
+to pay for shares and the taxes yourself, or lose the options, even when you are fully vested. And, of course, [being a publicly listed company is our public ambition](/company/strategy/),
+but neither the timing, nor whether it happens at all, is guaranteed.
 
 If you leave GitLab after less than a year, your Carta account will stay active but all unvested GitLab shares (which will be all of them as our vesting schedule starts at 1 year) will show as expired and you will not be able to take any actions with those shares. At the exercise expiration date, since no options were exercised, all options will return to the option pool to be reissued by GitLab.
 
