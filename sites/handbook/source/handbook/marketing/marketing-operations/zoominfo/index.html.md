@@ -34,6 +34,7 @@ Your direct login allows for direct export into SFDC. However you can also acces
 | [Best Practices with Zoominfo (condensed version)](https://university.zoominfo.com/courses/102-best-practices-with-zoominfo-condensed) | 6:23 | Using scoops and more advanced features. We do not currently have Intent, so you can skip this section. |
 | [Introduction in Salesforce ](https://university.zoominfo.com/learn/course/101-introduction-in-salesforce-on-demand/training-session/101-introduction-in-salesforce) | 31:15 | This is a general overview of how to use the native integration within SFDC.|
 
+
 **I've been using DiscoverOrg or Zoominfo already or ready to learn more! Skip to topics that interest you:**
 
 | Title | Duration | Summary |
@@ -43,7 +44,16 @@ Your direct login allows for direct export into SFDC. However you can also acces
 | [ListMatch](https://university.zoominfo.com/courses/listmatch-hosted-by-amber-jackson) | 13:00 | ListMatch allows you to upload a list of contacts or company information in bulk to run through the Zoominfo search. |
 | [Technology and Company Attributes](https://university.zoominfo.com/courses/technology-and-company-attributes-hosted-by-william-stevens) | 3:56 | Learn how to access technology information within a company profile. |
 | [Exploring the Sunny Side of Saved Searches](https://university.zoominfo.com/courses/exploring-the-sunny-side-of-saved-searches) | 57:26 | **Skip to 6:40** to learn about general info on saved searches. **Skip to 14:32** for building a saved search. **Skip to 21:30** to learn how to set up an email alert for your saved search. **Skip to 29:17** to learn about how to save Scoops alerts. **Skip to 35:14** for learning about targeting personas with saved searches. **Skip to 38:10** to learn about the tagging feature. **Skip to 43:00** for saving and sharing searches with others.|
-| [How to Make a (Sales) Splash with ReachOut](https://university.zoominfo.com/courses/how-to-make-a-sales-splash-with-reachout) | 53:12 | **Skip to 14:10** to see how to use it with LinkedIn. **Skip to 17:00** to export into SFDC. **Skip to 18:00** to build a list from LinkedIn and export in bulk by using tags. **Skip to 30:20** to see how to use the extension on a company website.
+| [How to Make a (Sales) Splash with ReachOut](https://university.zoominfo.com/courses/how-to-make-a-sales-splash-with-reachout) | 53:12 | **Skip to 14:10** to see how to use it with LinkedIn. **Skip to 17:00** to export into SFDC. **Skip to 18:00** to build a list from LinkedIn and export in bulk by using tags. **Skip to 30:20** to see how to use the extension on a company website. |
+
+**Sales Enablement Recordings:**
+
+| Title | Duration | Summary |
+| ------ | ------ | ------ |
+|[Sales Enablement: Saved Searches](https://youtu.be/OpTgvoOQ1jM) | 10:38 | Optimizing your saved searches for your workflow. Please log in to GitLab Unfiltered to access. |
+|[Sales Enablement: List Match](https://youtu.be/vl1kpsNa874) | 8:18 | Leveraging list match. Please log in to GitLab Unfiltered to access. |
+|[Sales Enablement: Tagging in LinkedIn](https://youtu.be/GQWTZWbMgg8) | 3:44 | Leveraging tagging for LinkedIn and bulk exports. Please log in to GitLab Unfiltered to access. |
+
 
 Do you have a topic not covered you'd like to see? Slack #zoominfo room or reach out to marketing operations.
 
