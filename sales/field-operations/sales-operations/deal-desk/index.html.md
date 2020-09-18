@@ -414,6 +414,17 @@ If you'd like to save time by cloning an existing quote, you can do so by doing 
     * If you did not select the Maintain Quote option, you are redirected to the Quote Detail page of the newly cloned quote.
 1. Please note that you cannot clone the products on an amendment (add-on or renewal quote.)
 
+#### How to Create a Draft Proposal
+
+Follow the standard process for [quote creation](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes). The Quote Object **does not** need to be approved before generating a Draft proposal. 
+
+1. Click Edit Quote. 
+2. Select the Draft Quote Template. Save. 
+3. Click Generate PDF. A Draft Proposal PDF will be attached to the opportunity in the Notes & Attachments section. 
+
+**Important Notes** 
+- A Draft Proposal PDF is not an Order Form. All quotes must go through the applicable approval process before you can generate an Order Form. Draft Proposals are not guaranteed approval.
+- A Draft Proposal PDF will not be accepted in place of an Order Form under any circumstance. 
 
 ### **Non-standard Quotes**
 
@@ -674,6 +685,10 @@ Note that the GitLab entity information will be populated via the following rule
 
 The Monthly Bookings Close involves Billing, Deal Desk, Sales Analytics, and Finance. The Deal Desk close process is below. 
 
+#### Required Tools 
+
+We use Dataloader to manage these uploads. Download dataloader and follow the instructions for install [found here](https://help.salesforce.com/articleView?id=loader_install_mac.htm&type=5)
+
 #### Bookings Close Process Overview
 
 1.  **Reconcile** Renewal ACV
@@ -708,6 +723,40 @@ B.  Process:
     *   Highlight Opportunity IDs (Column B) that you want to update before clicking Update/Insert.
     *   After updating, refresh the tab to confirm the update was successful.
 *   Finally, open [Closed Lost Renewals - Last Month](https://gitlab.my.salesforce.com/00O61000004hgLb) and move any Closed Lost renewal opportunities’ Close Dates to future months if the start date on the opportunity is in a future month.
+
+**Upload the completed file using Dataloader** 
+
+1. After the RACV tab has been reviewed and updated manually by the MP team, open the Open FQ Renewals - Renewal ACV Reconciliation tab of the weekly recon sheet.
+1. Open excel and paste the required columns that need to be updated and uploaded, i.e; Opportunity ID, Renewal ACV, Renewal ARR, Renewal Amount and Amount (the columns from Sales Segment until Opportunity Term are of no use and can be deleted off the sheet).
+1. Apply formula and check if the Renewal ACV is equal to Amount (=IF(B2=E2,”OK”,Check)
+1. The ones which are equal are fine. The ones that do not, manually go to the respective opportunity in order to check why to make sure we do not have a negative IACV.
+
+** Checks prior to uploading via Dataloader **
+1. Once the checks are done, format all the values as Number.
+1. Run a vlookup to check that we are not updating any closed-won opps. Steps below-
+- Pull report from Xactly for all Closed-Won opportunities.
+- Paste it in the next sheet of the excel being used above and run a vlookup to see that no Closed-Won opportunities are being updated.
+- Remove the amount column.
+- Remove all the blank columns and rows and save the file as .CSV
+
+**Open rACV using DataLoader** 
+
+1. Open DataLoader and under Settings check the batch size (5) and make sure the “Insert Null Values” checkbox is unchecked.
+1. Click the Update button in Data Loader.
+1. Login with your SFDC password and hit Next.
+1. Under the “Select Salesforce object” field start typing “opportunity”.
+1. Select the “Opportunity (Opportunity)”.
+1. On the same window choose the CSV file saved and hit Next.
+1. It starts running and a pop-up window appears with the total line items (worth to double-check if the correct CSV has been selected based on the number of lines).
+1. On the next page hit the “Create or Edit a Map” button - Map the columns to the SFDC values =>Search for the name of the fields and select them and drag them down one by one. 
+1. Select the directory - select your Downloads folder and hit Finish.
+1. Pop-up: hit Yes -> loading starts.
+1. Pop-up: Operation Finished - View Successes - View Errors -> check errors (whether the renewal amounts are populated on the opp).
+
+**After DataLoader upload is done - Refresh Sheet** 
+
+1. Delete the contents of the sheet leaving the headers.
+1. In order to refresh the G-sheet, go to Add-ons tab -> G-Connector for Salesforce -> Refresh Current Sheet (from Salesforce).
 
 ##### 2. Reconcile Web Direct Purchases Against Upcoming Renewals
 
@@ -774,7 +823,6 @@ Upload Product Category using Dataloader
 1. Click Update in Data Loader and follow the process details under the Renewal ACV part above.
 1. The Type column should not be mapped (the one that won`t be uploaded)
 
-
 Helpful tips: 
 
 *   Reduce number of opps requiring manual review - 
@@ -793,6 +841,7 @@ Helpful tips:
     *   G and H blanks 
         *   First, take care of CI Minutes. 
         *   Filter A for opp name. If the name does not inform the product, go into the opp to review the subscription.
+
 
 ##### 4. Reconcile Last Month's True Ups
 
