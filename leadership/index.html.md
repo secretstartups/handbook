@@ -17,7 +17,7 @@ defined on our [team structure page](/company/team/structure/).
 
 1. At GitLab, leadership is requested from everyone, whether an individual contributor or member of the leadership team.
 1. As a leader, GitLab team members will follow your behavior, so always do the right thing.
-1. Everyone that joins GitLab should consider themselves ambassadors of our [values](/handbook/values) and protectors of our [culture](/company/culture/).
+1. Everyone who joins GitLab should consider themselves ambassadors of our [values](/handbook/values) and protectors of our [culture](/company/culture/).
 1. Behavior should be consistent inside and outside the company, just do the right thing inside the company, and don't fake it outside.
 1. GitLab respects your judgment of what is best for you, since you know yourself best. If you have a better opportunity somewhere else don't stay at GitLab out of a sense of loyalty to the company.
 1. In tough times people will put in their best effort when they are doing it for each other.
@@ -64,7 +64,7 @@ Individual departments will have their own criteria for who is eligible to occup
 
 ## Communication should be direct, not hierarchical
 
-Most companies communicate from top to bottom through a chain of command. This communication flow often empowers managers, but it also introduces inefficiency as team members are not able to connect directly with the people they need to communicate with in order to get their work done. At GitLab, every team member is encouraged to reach out to whoever is the correct person (or people) to quickly unblock issues, solve problems or support in other ways. We don't encourage unnecessary friction in asking team members to escalate through managers and wait for responses to come back. What matters is efficiency in getting to results. Slack the CEO, Slack a VP, or Slack a peer. Do what you need to do to make GitLab successful.
+Most companies communicate from top to bottom through a chain of command. This communication flow often empowers managers, but it also introduces inefficiency as team members are not able to connect directly with the people they need to communicate with in order to get their work done. At GitLab, every team member is encouraged to reach out to whoever is the correct person (or people) to quickly unblock issues, solve problems or support in other ways. Do be courteous of your direct manager and copy them on the request. We don't encourage unnecessary friction in asking team members to escalate through managers and wait for responses to come back. What matters is efficiency in getting to results. Slack the CEO, Slack a VP, or Slack a peer. Do what you need to do to make GitLab successful.
 
 Managers should not be bottlenecks or silos for communication.
 Anyone should feel [comfortable](/handbook/values/#short-toes) reaching out to anyone else with the best information they can to solve a problem.
