@@ -32,7 +32,9 @@ actionable below.
 ### About our values
 {:.no_toc}
 
-![GitLab values illustration](/images/all-remote/gitlab-values-tanukis.jpg){: .medium.center}
+<div align="center">
+<a href="#collaboration"><img style="padding-right: 20px; padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_collaberation.svg" alt="Collaboration" title="Collaboration" height="78"></a>  <a href="#results"><img style="padding-right: 20px; padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_results.svg" alt="Results" title="Results" height="78"></a>  <a href="#efficiency"><img style="padding-right: 20px; padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_efficiency.svg" alt="Efficiency" title="Efficiency" height="78"></a>  <a href="#diversity-inclusion"><img style="padding-right: 20px; padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_diversity.svg" alt="Diversity, Inclusion &amp; Belonging" title="Diversity, Inclusion &amp; Belonging" height="78"></a>  <a href="#iteration"><img style="padding-right: 20px; padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_iteration.svg" alt="Iteration" title="Iteration" height="78"></a>  <a href="#transparency"><img style="padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_transparency.svg" alt="Transparency" title="Transparency" height="78"></a>
+</div>
 
 We take inspiration from other companies, and we always go for the [boring solutions](#boring-solutions).
 Just like the rest of our work, we continually adjust our values and strive to make them better.
@@ -284,7 +286,7 @@ We demonstrate collaboration when we take action to help others and include othe
     <td class="tg-0lax">Leads collaboration and teamwork in daily routines, prioritizing interactions, information sharing, and real time decision making across divisions/departments. Encourages greater cross-functional collaboration among e-team leaders.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">EVP/CXO</td>
+    <td class="tg-0lax">14</td>
     <td class="tg-0lax">Champions collaboration and teamwork into daily routines, prioritizing interactions, information sharing, and real time decision making across divisions/departments. Champions cross-functional collaboration among e-team leaders and GitLab.</td>
   </tr>
 </table>
@@ -552,6 +554,22 @@ Diversity, inclusion and belonging are fundamental to the success of GitLab. We 
 Take initiative to operate [asynchronously](/company/culture/all-remote/asynchronous/) whenever possible. This shows care and consideration for those who may not be in the same time zone, are traveling outside of their usual time zone, or are [structuring their day](/company/culture/all-remote/people/#creating-a-more-efficient-day) around pressing commitments at home or in their community.
 
 This is demonstrated by communicating recordings of [meetings](/company/culture/all-remote/meetings/), using GitLab Issues and Merge Requests rather than texts, calls, or Slack messages, and being sensitive to local holidays and vacation statuses. Encourage others to default to [documentation](/handbook/documentation/) rather than pressuring others to be online outside of their working hours.
+
+#### Embracing uncomfortable ideas and conversations 
+{:.no_toc}
+
+Part of embracing diversity is a willingness to embrace often uncomfortable conservations and situations. This concept is also at the core of inclusion and helping to eliminate the problems that are faced by certain GitLab team members who may not be in the majority.
+
+We believe at GitLab that being willing to embrace discomfort is the path forward to a safe, balanced and inclusive work place for all. Challenge yourself, challenge your own pre-set notions and ideas about different cultures or things you don't understand. When we are willing to embrace being uncomfortable, we can focus on actually fixing the issues at hand rather than simply "appearing to care".
+
+#### Understanding the impact of micro-aggressions
+{:.no_toc}
+
+Micro-aggressions are much more than simply rude or insensitive comments. They have the capacity to wear people down like slowly chipping away at a persons sense of belonging/safety/inclusion over time. What is a micro-aggression? 
+
+> "The everyday slights, indignities, put downs and insults that people of color, women, LGBT populations or those who are marginalized experiences in their day-to-day interactions with people." -  Derald W. Sue
+
+At GitLab we believe that everyone is entitled to a safe working space where they can express who they are and participate in conversations without worry of being spoken to in a harmful way, given that we want to encourage everyone to be mindful of what is a micro-aggression and be mindful of their potential impact. 
 
 ##### Reach across company departments
 {:.no_toc}
@@ -1130,6 +1148,9 @@ Whatever behavior you reward will become your values. We reinforce our values by
 1. Giving value awards during [Contribute](/company/culture/contribute/).
 1. Keeping them [up to date](/handbook/values/#updating-our-values) with a [stream of commits that add details](https://gitlab.com/gitlab-com/www-gitlab-com/-/commits/master/sites/handbook/source/handbook/values/index.html.md).
 1. Our GitLab [Song Book](https://about.gitlab.com/company/culture/songbook/), the song lyrics often mention GitLab values. 
+1. Applying one of our [values virtual backgrounds](https://about.gitlab.com/press/press-kit/#green-screens) in video calls.
+
+The most important moments to reinforce our values are decisions which affect individual team members most: hiring, promotions, and bonuses, which is why every promotion document at GitLab is shared with the entire company and uses the values as its core structure.
 
 In negative feedback, we should be specific about what the problem is. For example, saying someone is "[not living the values](https://hbr.org/2017/05/how-corporate-values-get-hijacked-and-misused)" isn't helpful.
 
