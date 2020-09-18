@@ -1037,16 +1037,32 @@ Contract value from the first new subscription order with an Account that is rel
 
 #### Delta ARR
 
-The change in annual recurring revenue (ARR) from one period to the next.
+The change in annual recurring revenue (ARR) from one period to the next. 
 
 Note: Delta ARR is not currently a metric that we can use for operational purposes including planning, compensation or as a KPI.  We are documenting assumptions to enable a transition to Delta ARR from iACV when our systems are processes are ready to support that move.
 
-When looking at a time horizon of the next twelve months delta ARR will equal IACV except:
-1. True-ups are included in IACV but not in delta ARR
-1. Timing: delta ARR only includes contracts that have started where as IACV is based on the close date so the difference in the close dates of the contracts driving the IACV to the subscription start date impacts the difference
-1. Co-term: if contract value is less than 12 months delta ARR will show the 12 month value and IACV will show the value of the contract.
+When looking at a time horizon of the next twelve months Delta ARR will equal IACV except:
+1. True-ups and CI Minutes are included in IACV but not in delta ARR
+1. Timing: Delta ARR only includes contracts that have started where as IACV is based on the close date so the difference in the close dates of the contracts driving the IACV to the subscription start date impacts the difference
+1. Co-term: If contract value is less than 12 months Delta ARR will show the 12 month value and IACV will show the value of the contract.
 
-Delta ARR = iACV - [True Ups] + [Coterm difference] +/- [Timing differences]
+Delta ARR = iACV - [True Ups and CI Minutes] + [Coterm difference] +/- [Timing differences]
+
+#### Booked Net ARR
+
+The Net ARR value of deals booked in a specifc period. It is is the booking equivelent stat to Delta ARR.
+
+Note: Booked Net ARR is being developed along side Delta ARR and is not currently a metric that we can use for operational purposes including planning, compensation or as a KPI.  We are documenting assumptions to enable a transition to Booked Net ARR from iACV when our systems are processes are ready to support that move.
+
+When looking at a time horizon of the next twelve months Booked Net ARR will equal IACV except:
+1. True-ups and CI Minutes are included in IACV but not in Booked Net ARR.
+1. Co-term: If contract value is less than 12 months Booked Net ARR will show the 12 month value and IACV will show the value of the contract.
+
+Booked Net ARR = iACV - [True Ups and CI Minutes] + [Coterm difference].
+
+As Booked Net ARR is a booking metric, the period it represents is based on Close Date of the Opportunity.
+
+Booked Net ARR is tracked in the `Net ARR` field located on the Opportunity in Salesforce.
 
 ##### ARR Analysis Framework
 
