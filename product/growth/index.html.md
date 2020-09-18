@@ -45,7 +45,7 @@ involves direct sales.
 
 #### AARRR framework to understand our Funnel
 
-ARRR stands for _Acquisition_, _Activation_, _Retention_, _Revenue_, and _Referral_ which is often referred to as ["Pirate Metrics"](https://amplitude.com/blog/2016/02/25/actionable-pirate-metrics). These five words represent the customer journey and the various means a product manager may apply a North Star metric to drive a desired behavior in the funnel.
+AARRR stands for _Acquisition_, _Activation_, _Retention_, _Revenue_, and _Referral_ which is often referred to as ["Pirate Metrics"](https://amplitude.com/blog/2016/02/25/actionable-pirate-metrics). These five words represent the customer journey and the various means a product manager may apply a North Star metric to drive a desired behavior in the funnel.
 
 - Acquisition measures user actions that show awareness of the feature
 - Activation illustrates a user has begun to apply the feature
@@ -63,7 +63,7 @@ classDiagram
 	Activation: Measurement (Insert Metric) 				
   Retention --|> Revenue
 	Retention : Are users applying the feature over time?
-	Retention: Measurement (Insert Metric) 
+	Retention: Measurement (Insert Metric)
   Revenue --|> Referral
 	Revenue : Are users paying for the features?
 	Revenue: Measurement (Insert Metric)
@@ -109,7 +109,7 @@ to a leader that understands their job function. More information about the [Gro
 graph LR
     Create --> Plan
     Verify --> Secure
-    Create --> Manage 
+    Create --> Manage
     Create --> Verify
     Verify --> Release
     Verify --> Package
