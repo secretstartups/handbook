@@ -81,8 +81,6 @@ Below we list product categories and the current and proposed features which res
 1. **Pipeline dashboards (Premium/Silver)** : Dashboards of pipelines across groups and projects are primarily used and valued by Directors.
 1. **Downloadable all pipeline logs (Ultimate/Gold)** : Pipeline logs would be generated and even downloaded by individual contributors, but the value of collating these logs is provided to Executives responsible for ensuring compliance.
 
-For detailed use-cases per tier, visit the [Per Tier Use-Cases page](/handbook/ceo/pricing/per-tier-use-cases).
-
 ### Partner integration considerations
 
 When building integrations to partners it is possible to make exceptions to our buyer-based model when our tiers don't align well with those of the partner, but only in favor of lower tiers. As an example - a partner who provides a team collaboration tool with a free tier might desire any GitLab integration to be present in our free tier despite it clearly being appropriate for single team usage. The go-to-market benefits of this partnership can outweigh the divergence from our buyer-based model.
@@ -382,16 +380,13 @@ This is the title of a [great article](https://codingvc.com/when-is-a-dollar-not
 
 ## Annual pricing is prioritized over monthly pricing
 
-Annual, up-front pricing is our priority and primary offering.
-
-We might enable monthly billing options for SaaS offerings, when packaged as part of a bundled monthly offering with partners.
-
-On the other hand, it might be simpler to only offer annual pricing.
-
-On [slide 7 of the 2020 Go To Market (GTM) Survey of Redpoint](https://docs.google.com/presentation/d/e/2PACX-1vTUqJyPtn3dQKP8YlmCwiSXgKNyCAe2qfAfkfh2R68rXCC_lhLlzhtJPQQjOCUP-fvPqAozCx1IoUTs/pub?start=false&loop=false&delayms=3000&slide=id.g8864de4371_0_264) it showed that Annual pricing was the majority from $5k up.
+Annual, up-front pricing is currently our only offering.
+All internal systems should show only annual pricing to keep comparisons simple.
+We do [show monthly pricing externally](#why-show-monthly-pricing-on-the-website).
 
 Arguments supporting annual up-front pricing:
 
+1. On [slide 7 of the 2020 Go To Market (GTM) Survey of Redpoint](https://docs.google.com/presentation/d/e/2PACX-1vTUqJyPtn3dQKP8YlmCwiSXgKNyCAe2qfAfkfh2R68rXCC_lhLlzhtJPQQjOCUP-fvPqAozCx1IoUTs/pub?start=false&loop=false&delayms=3000&slide=id.g8864de4371_0_264) it showed that Annual pricing was the majority from $5k up.
 1. It helps to recover the costs of acquiring, onboarding, and supporting a customer.
 1. It enables reinvestment to speed delivery of new product capabilities for customers.
 1. It aids customer self-selection and commitment to drive to successful deployment and enough time to see successful outcomes with the product.
@@ -404,14 +399,14 @@ Arguments supporting annual up-front pricing:
 1. Annual pricing lends to a more simple revenue recognition model where consumption is not relevant since revenue is recognized evenly over the course of the term. To get the equivalent with monthly pricing you need a 'use it or lose it' condition per month, while the industry standard is to allow carry-over into the next month.
 1. It helps to reduce churn with SMB customers, as that has been a problem in the industry.
 
-Arguments supporting monthly pricing
+Arguments supporting also offering monthly pricing:
 
 1. Monthly billing gives customers another way to buy and thus reduces barriers to adoption of the product.
 1. Monthly pricing can align with billing of combined or dependent products/services that are already billed monthly. (ex: if bundled with another monthly service)
 
 ## Why show monthly pricing on the website
 
-Almost all SaaS products show monthly pricing on their pricing pages. GitLab shows [monthly pricing on the website](/pricing/) and notes that it is billed annually. This is also a standard practice followed by companies like [Salesforce](https://www.salesforce.com/editions-pricing/sales-cloud/). We previously have tried showing annual pricing on the website, but repeatedly heard from customers that they were confused by it. They often thought our product was priced significantly higher than it actually was because they expected the pricing to be displayed in monthly units and read the annual price as though it were per month.
+Almost all SaaS products show monthly pricing on their pricing pages. GitLab shows [monthly pricing on our website](/pricing/) and notes clearly that it is billed annually. This is also a standard practice followed by companies like [Salesforce](https://www.salesforce.com/editions-pricing/sales-cloud/). We previously have tried showing annual pricing on the website, but repeatedly heard from customers that they were confused by it. They often thought our product was priced significantly higher than it actually was because they expected the pricing to be displayed in monthly units and read the annual price as though it were per month.
 
 ## Only sell a suite
 
@@ -438,7 +433,7 @@ Companies evolve to selling only a suite for the following reasons, after the =>
 
 1. Makes it easier for organizations to adopt the other products. => This is essential; organizations have official solutions and GitLab grows with organic adoption from developers.
 1. Show customers the benefit of a [single application](/direction/#single-application). => This is essential, since people are skeptical (showing beats telling).
-1. More usage of all the products. => This is essential for us, due to our [breadth over depth strategy](/strategy#breadth-over-depth)
+1. More usage of all the products. => This is essential for us, due to our [seed then nuture](/strategy#seed-then-nurture) product strategy.
 1. Harder to displace the suite, once it is in place. => This will help if competitors offer a service based on our open source code.
 
 We're going even further than selling a suite by integrating everything in a single application. We do that because of the advantages mentioned on our [direction page section about us being single application](/direction/#single-application). A secondary effect is that the user doesn't have to make a buying, or even an adoption, decision.

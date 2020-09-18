@@ -180,7 +180,7 @@ Shadows who have chosen to delay their rotations until another time include:
 ### How to apply
 
 1. Create a merge request to add yourself to the [rotation schedule](#rotation-schedule). Ensure the merge request description highlights how you meet the eligibility criteria (merge request examples: [Anastasia Pshegodskaya](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/43159), [Jackie Meshell](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/42958), [Philippe Lafoucrière](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/51265)).
-1. Ask your manager to approve (**but not to merge**) the merge request. Managers, please ensure the candidate meets the eligibility criteria.
+1. Assign your manager and ask them to approve (**but not to merge**) the merge request. Managers, please ensure the candidate meets the eligibility criteria.
 1. Assign the merge request to the [Executive Business Admin supporting the CEO](/handbook/eba/#executive-business-administrator-team), link to the merge request in the `#ceo-shadow` channel, and `@mention` the Executive Business Admin supporting the CEO in the message.
 
 Please keep in mind when selecting dates that the CEO's schedule is fluid and subject to constant change, which also means that the CEO shadow rotation is subject to constant change. The posted dates are not guaranteed. We will work with you to reschedule your rotation if a conflict arises.
@@ -213,24 +213,32 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2020-08-31 | 2020-09-04 | [Francis Potter](https://gitlab.com/francispotter) - Sr. Solution Architect | [Mike Miranda](https://gitlab.com/mikemiranda) - Account Executive, Commercial Sales |
-| 2020-09-08 | 2020-09-11 | [Shawn Winters](https://gitlab.com/ShawnWinters) - Acceleration SDR | [Francis Potter](https://gitlab.com/francispotter) - Sr. Solution Architect |
 | 2020-09-14 | 2020-09-18 | [Chris Baus](https://gitlab.com/chris_baus) - Engineering Manager, Fulfillment | [Shawn Winters](https://gitlab.com/ShawnWinters) - Acceleration SDR |
 | 2020-09-21 | 2020-09-25 | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend | [Chris Baus](https://gitlab.com/chris_baus) - Engineering Manager, Fulfillment |
-| 2020-09-28 | 2020-10-02 | AVAILABLE - REMOTE | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend |
-| 2020-10-05 | 2020-10-09 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2020-09-28 | 2020-10-02 | [Madeline Hennessy](https://gitlab.com/mhennessy) - Area Sales Manager US East, SMB | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend |
+| 2020-10-05 | 2020-10-09 | [Michael LeBeau](https://gitlab.com/mlebeau) - Strategic Content Lead | [Madeline Hennessy](https://gitlab.com/mhennessy) - Area Sales Manager US East, SMB |
 | 2020-10-12 | 2020-10-16 | NO SHADOWS - PTO | NO SHADOWS - PTO |
-| 2020-10-26 | 2020-10-30 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2020-11-02 | 2020-11-06 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2020-10-19 | 2020-10-23 | AVAILABLE - REMOTE | [Michael LeBeau](https://gitlab.com/mlebeau) - Strategic Content Lead |
+| 2020-10-26 | 2020-10-30 | [David Fisher](https://gitlab.com/dfishis1) - Acceleration SDR  | AVAILABLE - REMOTE |
+| 2020-11-02 | 2020-11-06 | AVAILABLE - REMOTE | [David Fisher](https://gitlab.com/dfishis1) - Acceleration SDR  |
 | 2020-11-09 | 2020-11-13 | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan | AVAILABLE - REMOTE |
-| 2020-11-16 | 2020-11-20 | AVAILABLE - REMOTE | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan |
+| 2020-11-16 | 2020-11-20 | AVAILABLE - REMOTE (E-Group Offsite, all-directs shadow) | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan |
 | 2020-11-23 | 2020-11-27 | NO CEO SHADOWS - Thanksgiving | NO CEO SHADOWS - Thanksgiving |
-| 2020-11-30 | 2020-12-04 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2020-12-09 | 2020-12-13 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2020-11-30 | 2020-12-04 | [Tucker Logan](https://gitlab.com/tuckcodes) - Federal Solutions Architect | AVAILABLE - REMOTE |
+| 2020-12-07 | 2020-12-11 | AVAILABLE - REMOTE | [Tucker Logan](https://gitlab.com/tuckcodes) - Federal Solutions Architect |
+| 2021-01-04 | 2021-01-08 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-01-11 | 2021-01-15 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-01-18 | 2021-01-22 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-01-18 | 2021-01-22 | AVAILABLE - REMOTE | AVAILABLE - REMOTE | 
+| 2021-01-25 | 2021-01-29 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-02-01 | 2021-02-05 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-02-08 | 2021-02-11 | AVAILABLE - REMOTE (Sales Kickoff) | AVAILABLE - REMOTE (Sales Kickoff) |
+| 2021-02-16 | 2021-02-19 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-02-22 | 2021-02-26 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 
-The week of 2020-12-13 will be the last CEO Shadow Rotation of 2020 to allow our team members to focus on the holiday season and put family and friends first.
+The week of 2020-12-07 will be the last CEO Shadow Rotation of 2020 to allow our team members to focus on the holiday season and put family and friends first.
 
-If you have questions regarding the planned rotation schedule, please ping the Executive Admin to the CEO. The EBA to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation.
+If you have questions regarding the planned rotation schedule, please ping the Staff Executive Business Admin to the CEO. The EBA to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation. The CEO's schedule is subject to constant change and your rotation may need to be rescheduled. 
 
 ## Preparing for the Program
 
@@ -250,6 +258,10 @@ Make sure to bring comfortable shoes with you to Mission Control any time there 
 
 ### Pre-Program Tasks
 
+#### Practice your introduction
+
+You will get asked about yourself during the program, and it's important to describe it correctly. So stand in front of a mirror and practice 3 times. The main point is, do *not* say that your role is to "follow Sid around" or "follow the CEO around". The program is for exploring and learning about all the parts of GitLab, and there's where the emphasis should lie. See [CEO Shadow Introductions](#ceo-shadow-introductions) for specifics.
+
 #### Coffee chat with Co-shadow
 
 Before your scheduled rotation, try to schedule coffee chats with your co-shadows before you start the program. This will give you the opportunity to get to know them and help set expectations for the rotation.
@@ -257,6 +269,9 @@ Before your scheduled rotation, try to schedule coffee chats with your co-shadow
 #### Coffee Chat with CEO Shadow Alumni
 
 Feel free to schedule a coffee chat with any of the CEO Shadow Alumni. You can review the list of [CEO Shadow Alumni](/handbook/ceo/shadow/#alumni) below. These chats can be helpful when deciding whether to apply to participate or if you're unable to participate but want to hear about the experience and what alumni have learned while shadowing.
+
+#### Coffee Chat with the CLO
+Should it be useful or complementary to your time as a CEO Shadow, our [CLO](https://about.gitlab.com/job-families/legal/chief-legal-officer/) hosts Monthly Shadow Chats on the 3rd Tuesday of every month at 08:30 PST. Please @ mention the CLO's [Sr. EBA](https://about.gitlab.com/handbook/eba/) in #ceo-shadow should you wish to be added to an instance or you would like to schedule a 1:1 coffee chat with the CLO. This option is available to all Shadows, past, present, and future.   
 
 #### Create an onboarding issue
 
@@ -292,7 +307,7 @@ Since your rotation is over a short period of time, there are no long-term tasks
 However, there are many short-term administrative tasks you'll be asked to perform as shadow. Here are some examples:
 
 1. Make [handbook](/handbook/) updates (use the [ceo-shadow](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests?scope=all&utf8=%E2%9C%93&state=all&label_name%5B%5D=ceo-shadow) label).
-Post the MR links in the `#ceo-shadow` Slack channel so the CEO knows they have been completed. It is not required to create issues for these tasks. Go directly to a merge request if it is more [efficient](/handbook/values/#efficiency).
+Post the MR links in the `#ceo` Slack channel and `@`-reference the CEO so the CEO knows they have been completed. It is not required to create issues for these tasks. Go directly to a merge request if it is more [efficient](/handbook/values/#efficiency).
 1. Prepare for, take notes during, and follow up on meetings. See more details below about your [meeting responsibilities as a shadow.](#responsibilities)
 1. Go through open merge requests and work towards merging or closing any that have [not been merged](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?label_name%5B%5D=ceo-shadow).
 1. Publicly advise when people are not following the [communication guidelines](/handbook/communication/) ([see more details below.](/handbook/ceo/shadow/#promote-communication-best-practices)). For example, remind team members to stop screensharing to encourage communication.
@@ -471,6 +486,8 @@ When introducing yourself in a meeting as the second shadow, say:
 1. I'm NAME.
 1. I normally am a/the TITLE.
 1. This is my first/last week in the two-week CEO shadow program.
+
+Remember, do *not* say that your role is to "follow the CEO around". It's about getting an overview of the functions at GitLab.
 
 #### Finding meeting recordings
 
@@ -937,3 +954,5 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2020-07-20 | 2020-08-10 | [Tim Rizzi](https://gitlab.com/trizzi) | Senior Product Manager, Package |  |
 | 2020-08-10 | 2020-08-21 | [Amy Brandenburg](https://gitlab.com/abrandenburg) | Technology Alliances Manager |  |
 | 2020-08-17 | 2020-08-28 | [Sam White](https://gitlab.com/sam.white) | Senior Product Manager, Defend |  |
+| 2020-08-24 | 2020-09-04 | [Mike Miranda](https://gitlab.com/mikemiranda) | Account Executive, SMB |  |
+| 2020-08-31 | 2020-09-11 | [Francis Potter](https://gitlab.com/francispotter) | Sr. Solution Architect | |
