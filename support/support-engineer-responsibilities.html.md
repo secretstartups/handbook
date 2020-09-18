@@ -172,7 +172,7 @@ There's no goal for this area. The aim is to make sure you are aware of and util
 
 We are committed to helping you develop your skills through continuous learning. You can complete [courses and bootcamps in the Support Training project](https://gitlab.com/gitlab-com/support/support-training).
 
-The GitLab [Learning and Development team](handbook/people-group/learning-and-development/) provides opportunities for exploration and training.
+The GitLab [Learning and Development team](/handbook/people-group/learning-and-development/) provides opportunities for exploration and training.
 
 Support Engineers are also encouraged to complete courses and certification from external providers. Speak with your manager to plan your learning goals.
 

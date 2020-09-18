@@ -56,8 +56,9 @@ on Slack and someone will share the calendar with you.
 'Support - Time Off' calendar
    1. In Slack, click the `+` sign next to 'Apps' at the bottom of the left sidebar
    1. Search for 'PTO Ninja' and click 'View'
-   1. Under 'Home', click on 'Connect your calendar'
-   1. Click on 'Allow' and complete the actions to sync your calendar to PTO Ninja
+   1. Under 'Home', click on 'Your Events' to show a dropdown
+   1. Click on 'Calendar Sync' under the Settings break
+   1. Click on 'Connect your Calendar' and complete the actions to sync your calendar to PTO Ninja
       - You will see a 'Success! Your calendar has been connected.' message and
         your calendar listed under 'Your synced calendar' in PTO Ninja on Slack
       - ***NOTE: this also serves to block your availability in Calendly***

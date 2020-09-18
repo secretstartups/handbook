@@ -34,6 +34,8 @@ advance of the production upgrade.
 1. The DRIs will locate a Support Engineer to review the current given info
    (upgrade documentation, architecture diagram, etc.). This should occur within
    24 hours of the request's creation.
+   * When locating a Support Engineer to review, consider choosing one in the same 
+     region as the customer and, if possible, the same region as the Support Engineer that will be performing the Live Upgrade Assistance.
    * Should the TAM notice this has not been done, the TAM should escalate the
      issue via the #support_managers slack channel.
 1. The Support Engineer will review the given information. If a ticket does not

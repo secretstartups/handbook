@@ -56,12 +56,17 @@ For GitLab.com, if a user cannot be identified as a customer, nor a
   specified in the field `Email associated with your subscription`, or using the 
   customer's domain and you cannot find any related accounts in SFDC.
 * you search for the same data in the Customer Portal and cannot find any accounts there.
+* you view any groups the user is a member of and confirm that no subscriptions for their groups
+  exist in the Customer Portal
 * if an account exists in the Customer Portal, no subscriptions are shown and you see 
   `Choose a plan that suits your needs` when using `Impersonate` functionality.
 
 In such case, select `Free user` in `Tell us about your GitLab subscription` dropdown and
 submit the ticket to apply the changes. This ticket will now disappear from the `Needs Org & Triage` view
 and will be visible in `Free/Self-Provisioned Trial Support` view.
+
+If you are unsure if a user is really free, ask for someone with admin access on GitLab.com
+to check the user via the `#support_gitlab-com` Slack channel.
 
 **Note:** be extra careful when searching using the customer's domain: there can be generic domains
 that you are not aware of, and there can be large customers with multiple organizations using the same

@@ -35,6 +35,7 @@ When a request is received in this manner, do the following:
 1. Create a new confidential issue in the `gdpr-request` issue tracker using the [`deletion_meta_issue` template](https://gitlab.com/gitlab-com/gdpr-request/issues/new?issuable_template=deletion_meta_issue) (click the link to create one) and populate the title with the email address of the original requestor.
 1. Link the original issue in the **Related issue** field.
 1. Complete each step in the issue template that begins with `Support Engineer:`.
+
 ---
 
 **Macros**

@@ -432,6 +432,22 @@ Artifacts of approval can include:
    - [How to Submit Code to the GitLab Application](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md)
    - [How to Submit Docs when working on customer issues](/handbook/documentation) (see 'docs-first methodology')
 
+### Slack Emoji Reaction Workflows
+
+Each Slack channel within Support has a number of [Workflows](https://slack.com/help/articles/360035692513-Guide-to-Workflow-Builder) attached to them that are used to provide information to users by reacting to their message with a specific emoji. The source files for each workflow live in the [slack-workflows](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows) project.
+
+- `#support_managers`
+  - [Ticket Escalation](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_managers_ticket_escalation.slackworkflow) - `:escalate:` - Directs the user to follow the proper procedure to escalate a support ticket or internal issue.
+- `#support_gitlab-com`
+  - [Ticket Escalation](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_gitlab_com_ticket_escalation.slackworkflow) - `:escalate:` - Directs the user to follow the proper procedure to escalate a support ticket or internal issue.
+  - [Question Redirect](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_gitlab_com_question_redirect.slackworkflow) - `:leftwards_arrow_with_hook:` - Directs the user to post their question in a more appropriate Slack channel.
+  - [Remove Link Preview](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_gitlab_com_remove_link_preview.slackworkflow) - `:slack:` - Politely asks the user to remove any unfurled link previews in their message.
+  - [Welcome](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_gitlab_com_welcome.slackworkflow) - This automated workflow automatically sends a direct message to new members of the channel that contains helpful information.
+- `#support_self-managed`
+  - [Ticket Escalation](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_self_managed_ticket_escalation.slackworkflow) - `:escalate:` - Directs the user to follow the proper procedure to escalate a support ticket or internal issue.
+- `#support_licensing-subscription`
+  - [Ticket Escalation](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_licensing_subscription_ticket_escalation.slackworkflow) - `:escalate:` - Directs the user to follow the proper procedure to escalate a support ticket or internal issue.
+
 ### Support Fixes
 
 When working on merge requests for code or for documentation, apply the
