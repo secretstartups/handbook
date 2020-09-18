@@ -351,7 +351,9 @@ During Week 2 of our [Manager Challenge Pilot](), we had a course covering [Buil
 
 A recording of the first of two sessions can be found here:
 
-
+<figure class="video_container">
+  <iframe width="560" height="315" src="add URL" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
 ## Additional coaching resources
 
