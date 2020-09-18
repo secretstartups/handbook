@@ -68,6 +68,7 @@ The Deal Desk team is located around the world and will be available during stan
 
 **EMEA**
 *  Marcsi Szucs - Budapest, Hungary
+*  Donatela Cekada - Dublin, Ireland
 
  **AMER**
 *  Jesse Rabbits - New York, NY 
