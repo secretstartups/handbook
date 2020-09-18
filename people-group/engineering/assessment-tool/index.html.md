@@ -16,6 +16,9 @@ It's currently still a very basic tool that tries to replace the previous/curren
 
 ### Creating an Account
 
+The tool is in active development and is currently unavailable. Once we are ready to enable access, we will replace this notice with the directions to access the tool.
+{: .alert .alert-info}
+
 To use it, you can sign up with a GitLab email address - note: this needs to be your email address that is also known on BambooHR. This is needed as we need to fetch some data from BambooHR.
 
 Once you've signed up, you will receive an email to confirm. When you do this, it will link your email address with your BambooHR ID (that we then later on will use to fetch data from BambooHR itself).
