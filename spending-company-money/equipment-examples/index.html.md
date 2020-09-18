@@ -39,6 +39,7 @@ If you need HDMI connectivity (e.g. to connect a TV, projector or monitor) and a
 #### Cables
   * AmazonBasics Premium HDMI Cable - [US](https://www.amazon.com/dp/B07KSD9DZ9/) - Supports 4K@60Hz
   * Rankie DisplayPort Cable - [UK](https://www.amazon.co.uk/gp/product/B00YOP0T7G/)
+  * CHOETECH USB-C to DisplayPort Cable - [India](https://www.amazon.in/CHOETECH-DisplayPort-Thunderbolt-Compatible-2016-2020/dp/B08FBJ8DD3) - Supports 4K@60Hz
 
 ### Notebook carrying bags
   * tomtoc 360° Protective Sleeve - [US](https://www.amazon.com/dp/B01N0TOQEO/)
@@ -54,6 +55,7 @@ If you need HDMI connectivity (e.g. to connect a TV, projector or monitor) and a
     * LG 27UK850-W 27" 4K UHD with USB Type-C - [US](https://www.amazon.com/dp/B078GVTD9N/)
     * LG 27UL650-W 27" 4K UHD LED - [US](https://www.amazon.com/LG-27UL650-W-Monitor-DisplayHDR-White/dp/B07MKT2BNB)
     * BenQ PD2700U 27" 4K UHD IPS  - [US](https://www.amazon.com/BenQ-PD2700U-Professional-Monitor-3840x2160/dp/B07H9XP92N)
+    * LG 27UL500W 27" 4K UHD IPS - [India](https://www.amazon.in/LG-4K-UHD-Monitor-Display-Freesync/dp/B07PGL2WVS/)
   * Dell P2418D 23.8" IPS QHD - [UK](https://www.amazon.co.uk/DELL-P2418D-23-8-Inch-Widescreen-Monitor/dp/B074MMR1V3)
   * Dell Ultra Sharp LED-Lit Monitor 25" 2560 X 1440 60 Hz IPS - [US](https://www.amazon.com/Dell-LED-Lit-Monitor-U2518D-Compatibility/dp/B075KGLYRL)
   * Acer S242HLDBID 24" - [Germany](https://www.amazon.de/dp/B01AJTVCA8/)
