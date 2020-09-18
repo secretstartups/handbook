@@ -9,17 +9,36 @@ title: "Drift"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Using Drift
+## Overview
 
-Drift is a chat platform our Sales Development team uses to engage site visitors. 
+Drift is a chat platform used by the Sales Development (SDR) organization to engage visitors on select webpages. Engagement with Drift begins when a site visitor opts into interacting with an available Drift playbook. Playbooks are customized workflows that help visitors find information as well as offer the option to chat directly or schedule time to speak with SDRs. 
 
-### Drift requests & questions 
-* **Slack channel:** #drift
-* **Support:** Chat support (bottom left-hand corner of the Drift app)
-* **MktgOps project issue:** State the reason for the issue and leave any detailed information in regards to the request being made. Use the following labels:
-    * `MktgOps`: The starting point for any label that involves MktgOps. The MktgOps team subscribes to this label and will see the request being made.
-    * `Drift`: Issue is directly related to the Drift chat tool. Specific admins for this tool are subscribed to this label.
-    * `SDR`: If your request is from or involves the SDR team
+### Playbooks
+We have Drift playbooks in use on select permanant webpages as well as temporary landing pages. The content of the playbook depends on the intended experience on the page and the target audience.
+
+| Permanent pages | Playbook(s) |
+| ------ | ------ |
+| https://about.gitlab.com/pricing/ | Standard & ABM |
+| https://about.gitlab.com/sales/ | Standard & ABM |
+| https://about.gitlab.com/features/ | Standard & ABM |
+| https://about.gitlab.com/stages-devops-lifecycle/ | Standard & ABM |
+| https://about.gitlab.com/free-trial/ | Standard & ABM |
+
+
+| Temporary pages | Playbook(s) |
+| ------ | ------ |
+| https://page.gitlab.com/springone-virtual-2020.html | Custom |
+
+#### Performance measurement
+As of 2020-08-26, all Drift playbooks are associated with unique Saleforce campaigns to enable playbook performance to be measured outside of the Drift platform.
+
+### Conversation routing
+
+Drift is expected to mirror the lead routing logic in [LeanData](/handbook/marketing/marketing-operations/leandata/) as closely as possible. Our goal is to provide the best possible experience for site visitors by connecting them with their aligned resources in the SDR organization. This means site visitors during offline hours will be asked to schedule a meeting with their SDR.
+
+The account lists in Drift need to be refreshed on a regular basis to limit conversations routing incorrectly. In FY21-Q3 and FY21-Q4, the Drift account list will be refreshed on 2020-08-26, 2020-09-30, 2020-10-29, 2020-11-30, 2020-12-29, and 2020-01-28. Please note, account lists may be refreshed to address problems or requests in addition to the dates provided here.
+
+## SDR resources for using Drift
 
 ### Rules of engagement  
 -   Set yourself to away when done working / no longer want to receive chats. Please note: If you set yourself to away, prospects will still be able to interact with the bot, but once they answer the initial questions, they are automatically given the option to book time on your calendar. If you don’t set yourself to away they will have to wait while the bot attempts to notify you. 
@@ -42,11 +61,7 @@ Drift is a chat platform our Sales Development team uses to engage site visitors
 5. Qualify the prospect while assisting with their needs. 
 6. If a meeting gets set up,  use the CQL “lightning” label on the right side of the drift browser to mark promising conversations. 
 
-## Drift routing
-
-Drift is expected to mirror [LeanData](/handbook/marketing/marketing-operations/leandata/) routing as closely as possible. If there is an exception it will be listed here as more complex routing is rolled out. Our goal is to only connect site visitors with their aligned resources in the SDR organization. This means site visitors during offline hours will be asked to schedule a meeting with their SDR. To update Drift team or routing please submit an issue using [this template](/marketing/marketing-operations/-/issues/new?issuable_template=leandata_change_sdralignment). 
-
-## Drift resources & training materials
+### Drift resources & training materials
 
 **Connect calendar and set hours**
 
@@ -75,12 +90,10 @@ Drift is expected to mirror [LeanData](/handbook/marketing/marketing-operations/
 **Sharing your calendar in chat**
 *  At the right-hand side of the conversation toolbar there is a small calendar icon. Click there and you can share your own calendar or anyone else’s calendar that is connected in Drift.
 
-## Drift playbook
-We have one Drift playbook that will lead a prospect down different routes depending on whether an SDR in their territory is available or away. If the SDR is available, the prospect will answer a series of preliminary questions and then route to the appropriate SDR. That SDR will get a notification on their browser and or mobile app to hop in the conversation. If the aligned SDR is away, the prospect will follow the same path but will be prompted to book time on the SDR's calendar right after answering the questions.
-
-**Live pages**:
-* https://about.gitlab.com/pricing/
-* https://about.gitlab.com/sales/ 
-* https://about.gitlab.com/free-trial/ 
-* https://about.gitlab.com/features/ 
-* https://about.gitlab.com/comparison/
+## Have a question or request? 
+Would you like to learn more about Drift? Are you interested in adding a Drift playbook to a new or existing webpage? Have you noticed a potential Drift problem you would like investigated? 
+* The best place to start is to open an issue. If you're an SDR manager requesting a change to conversation routing because of a team member update, please open use the lead routing change request [template](/marketing/marketing-operations/-/issues/new?issuable_template=leandata_change_sdralignment). Otherwise, please open an issue in the Marketing Operations project stating the reason for the issue, providing relevant details about the request and using the following labels:
+    * `MktgOps::0 - To Be Triaged`: Starting point for any label that involves Marketing Operations
+    * `Drift`: Used if directly related to the Drift chat platform
+    * `SDR`: Used if your request is from or involves the SDR organization
+* If you have a quick question, you can use the #mktgops Slack channel.
