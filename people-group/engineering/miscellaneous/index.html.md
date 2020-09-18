@@ -44,10 +44,5 @@ so the team members can have access to Modern Health.
 ## CI Job Families 
 Whenever a merge request is created on the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/) project, there are two pipelines that run related to job families:
 
-- inclusiveness check: this is [a script](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/lib/lint/inclusiveness_check.rb) that checks that the job family uses inclusive language. You can read more about it [here]()
+- inclusiveness check: this is [a script](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/lib/lint/inclusiveness_check.rb) that checks that the job family uses inclusive language. You can read more about it [here](handbook/hiring/job-families/index.html#inclusive-language-check).
 - requirements check: this is [a script](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/marketing/source/job-families/check_job_families.py) that checks if certain elements are present on the job family. For example `Ability to use GitLab` is a hard requirement that needs to be present on every job family. The pipeline will fail if it is not present.
-
-
-
-
-
