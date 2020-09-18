@@ -49,7 +49,7 @@ Topics are in alphabetical order with team members grouped by region.
 |  | EMEA | Ben<br>David Wainaina<br>Catalin<br>Rehab<br>Alin<br>VladB<br>Łukasz |
 |  | APAC | Mike<br>Priyan<br>Athar<br>AlexS |
 | Omnibus | AMER | Aric<br>Diana<br>Greg<br>Harish<br>John<br>Nathan<br>Gabe<br>Cody West<br>Keven<br>Davin<br>JasonY<br>Lewis<br>Brie<br>Phil |
-|  | APAC | AlexS<br>Anton<br>Weimeng<br>Mike<br>Priyan<br>Athar |
+|  | APAC | AlexS<br>Anton<br>Weimeng<br>Mike<br>Priyan<br>Athar<br>Emily |
 |  | EMEA | Catalin<br>Segolene<br>Rehab<br>Alin<br>VladB<br>Joseph<br>Aakif |
 | Performance | AMER | Will<br>Cody West |
 |  | EMEA | Catalin<br>Alin |
