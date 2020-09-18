@@ -465,10 +465,6 @@ Every dollar we spend will have to be earned back; be as frugal with company mon
 {:.no_toc}
 We work according to the principles of [conversational development](http://conversationaldevelopment.com/).
 
-##### Freedom
-{:.no_toc}
-You should have clear objectives and the freedom to work on them as you see fit.
-
 ##### Short verbal answers
 {:.no_toc}
 Give short answers to verbal questions so the other party has the opportunity to ask more or move on.
@@ -481,9 +477,9 @@ Keep one-to-many written communication short, as mentioned in [this HBR study](h
 {:.no_toc}
 We want each team member to be [a manager of one](/handbook/leadership/#managers-of-one) who doesn't need daily check-ins to achieve their goals.
 
-##### Responsibility over rigidity
+##### Freedom & responsibility over rigidity
 {:.no_toc}
-When possible, we give people the responsibility to make a decision and hold them accountable for that, instead of imposing rules and approval processes.
+When possible, we give people the responsibility to make a decision and hold them accountable for that, instead of imposing rules and approval processes. You should have clear objectives and the freedom to work on them as you see fit. Freedom and responsibility are more efficent than rigidly following a process because they enable faster decision velocity and higher rates of [iteration](#iteration).
 
 ##### Accept mistakes
 {:.no_toc}
