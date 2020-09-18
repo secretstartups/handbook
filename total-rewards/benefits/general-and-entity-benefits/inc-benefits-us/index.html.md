@@ -16,7 +16,7 @@ title: "GitLab Inc (US) Benefits"
 
 US based benefits are arranged through [Lumity](https://lumity.com/). The benefits decision discussions are held by Total Rewards, the CFO, and the CEO to elect the next year's benefits by the carrier's deadlines. Total Rewards will notify the team of open enrollment as soon as details become available.  The 2020 Open Enrollment will begin October 19, 2020 and will end on November 2, 2020. Your plan will renew January 1, 2021.
 
-Please review the full [summary plan description](https://drive.google.com/file/d/1XGOniJ-lnUyPdSvE_ce1W5KZlTzjRyTK/view?usp=sharing) of all related health benefits.   
+Please review the full [summary plan description](https://drive.google.com/file/d/1XGOniJ-lnUyPdSvE_ce1W5KZlTzjRyTK/view?usp=sharing) of all related health benefits.
 
 If you have any questions regarding benefits please reach out to Total Rewards directly. If you have any questions with the Lumity platform, feel free to reach out to their support personnel at `support@lumity.com`.
 
@@ -30,7 +30,7 @@ More information on the processed deductions in payroll from Lumity can be found
 
 ## Group Medical Coverage
 
-GitLab offers plans from United Health Care for all states within the US as well as additional Kaiser options for residents of California, Hawaii, and Colorado. Deductibles for a plan year of 2020-01-01 to 2020-12-31.  
+GitLab offers plans from United Health Care for all states within the US as well as additional Kaiser options for residents of California, Hawaii, and Colorado. Deductibles for a plan year of 2020-01-01 to 2020-12-31.
 
 For additional information on how [Benefits](https://drive.google.com/file/d/0B4eFM43gu7VPVS1aOFdRdXRSVzZ5Z3B0dEVKUXJIWm1zZXRj/view?usp=sharing) or [HSAs](https://drive.google.com/file/d/0B4eFM43gu7VPbUo1VFNFVFlQNlUyV0xQZkE0YXQyZENSNU1j/view?usp=sharing) operate, please check out the documentation on the Google Drive or Lumity's [resources](https://employee-resources.lumity.com/help).
 
@@ -42,7 +42,7 @@ GitLab has confirmed that our medical plans are CREDITABLE. Please see the attac
 
 ## Qualifying Life Events
 
-Due to IRS guidelines, you cannot make changes to your health insurance benefits outside of GitLab's annual open enrollment period unless you experience a [Qualifying Life Event](https://employee-resources.lumity.com/help/qualifying-life-event).  
+Due to IRS guidelines, you cannot make changes to your health insurance benefits outside of GitLab's annual open enrollment period unless you experience a [Qualifying Life Event](https://employee-resources.lumity.com/help/qualifying-life-event).
 
 A QLE is a change in your situation — like getting married, having a baby, etc that can make you eligible for a special enrollment period. You have ***30 days from the date of your qualifying event*** to submit your requested change to Lumity. You will be asked to include supporting documents (see [Required Documents](https://employee-resources.lumity.com/help/qualifying-life-event)), and list the date the change occurred.
 
@@ -144,7 +144,7 @@ For out-of-network services: 365 days from Date of Service.
 
 ### Kaiser Medical Plans
 
-#### Kaiser 2020 Calendar Year Plans  
+#### Kaiser 2020 Calendar Year Plans
 
 **Coverages:**
 
@@ -224,7 +224,7 @@ The following costs are monthly rates which would be deducted from your paycheck
 |--------------------------|:----:|
 | Team Member Only         | $0   |
 | Team Member + Spouse     | $12  |
-| Team Member + Child(ren) | $18  |           
+| Team Member + Child(ren) | $18  |
 | Family                   | $36  |
 
 #### Cigna Dental Period to Submit Claims
@@ -268,7 +268,7 @@ The following costs are monthly rates which would be deducted from your paycheck
 |--------------------------|:------:|
 | Team Member Only         | $0     |
 | Team Member + Spouse     | $2.40  |
-| Team Member + Child(ren) | $1.80  |           
+| Team Member + Child(ren) | $1.80  |
 | Family                   | $4.80  |
 
 #### Cigna Vision Period to Submit Claims
@@ -279,13 +279,9 @@ For out-of-network services: 365 days from Date of Service.
 
 ## Discovery Benefits
 
-If you are enrolled in an HSA, FSA, or commuter benefits, the funds are held through Discovery Benefits. FSAs have a $550 rollover each calendar year.
+If you are enrolled in an HSA, FSA, or commuter benefits, the funds are held through Discovery Benefits. After your benefit enrollment effective start date, [create an account with Discovery](https://www.discoverybenefits.com/) to manage your funds. You will only receive one debit card upon enrollment. To obtain a second card (for a dependent, etc.) you will need to login to your account on Discovery or call and they will send one to your home of record.
 
-You will only receive on debit card upon enrollment. To obtain a second card (for a dependent, etc.) you will need to login to your account on Discovery or call and they will send one to your home of record.
-
-If you would like to transfer your HSA from a previous account, please contact Discovery Benefits and request a HSA Transfer funds form. On the form you will put your old HSA provider’s account number and any other required personal information. You will then submit the form to Discovery, and they will get in contact with your old HSA provider and process the transfer of funds. You can reach Discovery Benefits at 866.451.3399.
-
-If you would like to adjust your HSA contributions please log into [Lumity](https://lumity.com/).
+If you would like to transfer your HSA from a previous account, please contact Discovery Benefits and request a HSA Transfer funds form. On the form you will put your old HSA provider’s account number and any other required personal information. You will then submit the form to Discovery, and they will get in contact with your old HSA provider and process the transfer of funds. You can reach Discovery Benefits at 866.451.3399. If you would like to adjust your HSA contributions please log into [Lumity](https://lumity.com/). HSAs roll over completely year-to-year, and FSAs have a $550 rollover each calendar year.
 
 FSAs are employer-owned accounts. If you leave GitLab, you cannot take FSA accounts with you. You are able to use your full FSA amounts up to and on your last day, but not afterwards. Your FSA benefits stop on your termination date. Discovery Benefits asks that all claims be submitted up to 90 days after termination date. For additional information, please reach out to Discovery Benefits at 866.451.3399.
 
@@ -457,24 +453,77 @@ Based on the Family and Medical Leave Act, or [FMLA](https://www.dol.gov/agencie
 
 ### Apply For Parental Leave in the US
 
-1. Notify the Compensation and Benefits team of intention to take parental leave at least 30 days in advance, or as soon as reasonable.
-    - For a birthing parent (maternity leave), the team member will fill out the [Leave Request Form](https://drive.google.com/open?id=1BZKHKPHvmMoOS1ctjXG3q6RHk8RHYuv1) and email the form to total-rewards@ domain.
-      - Add your name, SSN, address, phone number, date of birth, gender, and marital status to the General Demographics box in the Employer section. The Compensation and Benefits team will fill out the rest of the form upon submission.
-      - Team member will need to populate the Employee section (pages 3-5) and have their physician complete the "Attending Physician's Disability Statement" (page 8)
-      - Review and sign the Disclosure Authorization (page 6). Also, complete the "Authorization of Personal Representative" section (page 7) if there is someone involved in your care that you would like to be able to contact UHC in relation to your disability claim.
-      - The Compensation and Benefits team will finish populating the Employer section of the form.
-      - Once the form is complete, the Compensation and Benefits team will email the form the UHC using the email address provided on the form.
-      - Once the team member has filed a claim for STD, they will need to confirm the start and end dates of the STD.
+1. Notify the Total Rewards team of intention to take parental leave at least 30 days in advance, or as soon as reasonable.
+2. For a birthing parent (maternity leave), the team member will fill out the [Leave Request Form](https://drive.google.com/open?id=1BZKHKPHvmMoOS1ctjXG3q6RHk8RHYuv1) per the instructions below and email the form to total-rewards@ domain.
+      - Pages 3-5 and 8 have to be completed before Total Rewards can email the form to UHC. 
+3. Once the form is complete, the Total Rewards team will email the form the UHC using the email address provided on the form through the Secure UHC upload.
+      - Once the team member has filed a claim for STD, UHC will confirm the start and end dates of claim via a determination letter. 
       - The typical pay for STD is six weeks for a vaginal birth and eight weeks for a c-section. STD can be extended if the team member has a pregnancy related complication (bed rest, complications from delivery, etc).
-      - TODO Outline letters to send and process to apply for STD.
-1. The Compensation and Benefits team will confirm [payroll details](#payroll-processing-during-parental-leave) with the Controller.  
-1. The team member will notify the Compensation and Benefits team on their first day back to work.
+1. The Total Rewards team will send the team member an email with how payments will be processed and advise any differences in pay.
+      - Use PTO time for the Elimination Period
+1. The Total Rewards team will confirm [payroll details](#payroll-processing-during-parental-leave) with the Payroll team via the Payroll Changes google sheet.
+1. The team member will notify the Total Rewards team on their first day back to work.
+1. The Total Rewards team will get a notification once the claim is closed. 
 1. TODO Outline process to return the team member to work
+
+#### Maternity Leave STD Form - Team Member to fill out:
+    - General Demographics (page 3): Name, SSN, address, phone number, date of birth, gender and marital status. 
+    - Employment and Claim Information (page 4):
+      - Date of hire
+      - Date you first noticed symptoms of illness/injury: When the symptoms of the pregnancy developed
+      - Date last worked: Due date of birth
+      - Hours worked that day: 8
+      - What date do you expect to return to work: Anticipated date of return
+      - When were you first treated for your injury or illness? First Prenatal appointment 
+    - Have you ever had the same similar condition in the past? Y if you have been pregnant before, N if it is your first pregnancy
+    - Have you returned to work: n/a
+    - Your occupation: Your job title
+    - What parts of your job are you unable to do? n/a
+    - Please describe the onset and nature of your illness or injury: Pregnancy
+    - Is your claim a result of illness or accident: N
+    - Was your injury or illness due to an auto accident? N
+    - Were you injured at work? N
+    - Fill out your physician's details and dates of appointments
+    - Benefits and Earnings Information (page 5): Leave blank
+    - Tax Information (page 5): Fill out based on your individual tax preferences 
+    - Final Signature and Certification (page 5)
+    - Review and sign the Disclosure Authorization (page 6)
+    - Complete the Authorization of Personal Representative section (page 7) if there is someone involved in your care that you would like to be able to contact UHC in relation to your disability claim
+    - Have your physician complete the Attending Physician's Disability Statement (page 8)
+
+#### Maternity Leave STD Form - Total Rewards to fill out:
+    - General Demographics (page 1):
+      - Employee's Name, SSN, address, phone number, date of birth, gender and marital status
+      - Employer's name, phone number, employer's address
+    - Employment and Claim Information (page 2): 
+       - Date of hire
+       - Last day worked: Estimated last day of work
+       - Insurance/division: Insurance Class
+       - Effective date of STD coverage: 2020-01-01 (until policy is renewed)
+       - Was coverage effective date within the last 12 months? Y
+       - Occupation: Team member's job title
+       - List employee's job duties: Add the link to the team member's job responsibilities
+       - Has employment been terminated? N
+       - Has employee returned to work? Leave blank
+       - If yes, return to work date? TBD
+       - Employee has returned to work in what capacity? Leave blank
+       - Are you willing to make return-to-work accommodations for the employee if needed? Y
+       - Was employee injured at work? N
+    - Benefits and Earning Information
+       - Does the employee contribute to the STD premium? N
+       - Is the employee also covered under a LTD or Life Insurance Policy provided by us? Check both LTD and Life
+       - If yes, do they contribute to the LTD premium? N
+       - If yes, do they contribute on a PRE or POST tax basis? Leave blank
+       - How is the employee paid? Add hourly rate if team member is getting paid per hour. If not, add the annual salary next to "Salaried"
+       - Does the employee eceive other work related income? Add the annual commission amount if team member receives variable pay.
+       - Is the employee currently receiving or eligible for any other income benefits? Leave blank
+    - Final Signature and Certification: Stage for signatures via HelloSign
+
 
 ### Payroll Processing During Parental Leave
 
 **Paternity Leave**
-Paternity Leave is not covered under Short Term Disability, so if the team member is eligible for 100% of pay, payroll would enter 100% of the pay period hours under "Leave with Pay."   
+Paternity Leave is not covered under Short Term Disability, so if the team member is eligible for 100% of pay, payroll would enter 100% of the pay period hours under "Leave with Pay."
 
 **Maternity Leave**
 For maternity leave, GitLab will verify 100% of the wages are paid for eligible team members through payroll and Short-term Disability (STD).
@@ -525,7 +574,7 @@ If you are currently employed and have any general COBRA questions, feel free to
 |--------------------------------|:----------:|
 | Team Member Only               |   $38.99   |
 | Team Member + Domestic Partner |   $77.48   |
-| Team Member + Spouse           |   $77.48   |          
+| Team Member + Spouse           |   $77.48   |
 | Team Member + Child(ren)       |   $89.62   |
 | Family                         |   $137.49  |
 | Spouse Only                    |   $38.99   |

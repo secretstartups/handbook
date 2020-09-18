@@ -64,9 +64,9 @@ As with all things at GitLab, the compensation calculator is a constant work in 
 **If you are an internal GitLab team member or external to GitLab:**
 
 * Create an issue utilizing the issue templates.
-   * [Requesting a review of a new location factor.](https://gitlab.com/gitlab-com/people-group/Compensation/-/blob/master/.gitlab/issue_templates/new_location_factor.md)
-   * [Requesting a review of an existing location factor.](https://gitlab.com/gitlab-com/people-group/Compensation/-/blob/master/.gitlab/issue_templates/review_existing_location_factor.md)
-   * [Requesting a review of a benchmark.](https://gitlab.com/gitlab-com/people-group/Compensation/-/blob/master/.gitlab/issue_templates/review_benchmark.md)
+   * [Requesting a review of a new location factor.](https://gitlab.com/gitlab-com/people-group/total-rewards/-/blob/master/.gitlab/issue_templates/new_location_factor.md)
+   * [Requesting a review of an existing location factor.](https://gitlab.com/gitlab-com/people-group/total-rewards/-/blob/master/.gitlab/issue_templates/review_existing_location_factor.md)
+   * [Requesting a review of a benchmark.](https://gitlab.com/gitlab-com/people-group/total-rewards/-/blob/master/.gitlab/issue_templates/review_benchmark.md)
 * Email total-rewards@domain for more personal inquiries.
 
 **If you prefer to remain anonymous:**

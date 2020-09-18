@@ -35,7 +35,7 @@ GitLab does not plan on adding additional medical cover at this time due to the 
 
 State pension (AOW) is standard and will be paid out at retirement age. There is no additional pension scheme through GitLab.
 
-GitLab will continue to review responses from the [Global Benefits Survey](/handbook/total-rewards/benefits/benefits-survey/#global-benefits-survey) as well as budgetary availability to advise on implementing a private pension plan in the future. 
+GitLab will continue to review responses from the [Global Benefits Survey](/handbook/total-rewards/benefits/benefits-survey/#global-benefits-survey) as well as budgetary availability to advise on implementing a private pension plan in the future.
 
 ## Life Insurance
 GitLab does not offer life insurance in the Netherlands at this time. Team members are automatically covered up to 70% of their last wage in case of disability by the governmental Employee Insurance Agency.
@@ -55,11 +55,11 @@ Eligible team members may apply for the 30% Tax Ruling. More information can be 
   - In the event of incapacity for work from six weeks prior to the estimated date of childbirth, the sixteen-week period for pregnancy and childbirth leave commences at that time, regardless of which agreements have been made.
   - Besides this, you’re also entitled to continuous wage during your leave which will still be paid out by GitLab. However, the [UWV](https://www.uwv.nl/overuwv/english/about-us-executive-board-organization/detail/about-us) offers GitLab a WAZO (Work and Care Act) settlement which is destined to cover your salary while on leave. The UWV ensures expert and efficient implementation of team member insurance and the WAZO settlement is one of these insurances. This maternity benefit (WAZO) lasts at least 16 weeks and covers 100% of the daily wage. In order for GitLab to receive this settlement HRSavvy will inform the UWV about your pregnancy via an application form. To apply, please inform peopleops@domain and total-rewards@domain when you’d wish for your maternity leave to start. The exact start date is up to you to decide. Please note that your leave can start 6 weeks prior to, but no later than, 4 weeks before your due date. HRSavvy will then work with you directly to apply and keep peopleops@domain in cc.
 
-* Statutory Paternity Leave
-  - After your partner has given birth you are entitled to up to five days of paid paternity leave.
-
 * Statutory Parental leave
+  - After your partner has given birth you are entitled to up to five days of paid parental leave.
+  - Within 6 months of the birth you are also entitled to 5 weeks of additional paid leave at 70% (["Aanvullend geboorteverlof"](https://www.rijksoverheid.nl/onderwerpen/geboorteverlof-en-partnerverlof/geboorteverlof-voor-partners)).
   - Team members who have children under the age of eight are entitled to take unpaid parental leave. In the case of a family with more than one child under the age of eight, that right is applicable for each child. The number of hours' leave is thirteen times the weekly working hours (65 days for full-time employment). However, no more than half of the number of weekly working hours can be taken each week.
+  - Please also refer to [the company policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) as when more beneficial they superside the statutory leave benefits.
 
 People Ops will consult with HRSavvy to ensure that the statute is met.
 
