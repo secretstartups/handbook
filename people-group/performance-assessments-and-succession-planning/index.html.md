@@ -58,12 +58,12 @@ Below are examples for Managers to consider when compiling their criteria set, s
 
 | Criteria | Points for Consideration |
 | --- | --- | 
-| Output Delivery | Is the team member consistently able to produce adequate results within the predefined scope of their role - consider this in parallel with applicable Job Family. |
-| Solution Centricity | Is the team member able identify solutions and achieve results in an innovative way, is there an awareness of over-arching company strategies and are they contributing in some way to the achievement of them. |
-| Core Value Alignment | Does the team member consistently demonstrate the core [GitLab Values](https://about.gitlab.com/handbook/values/), always operating within the best interests of the company and those who work in it. |
-| Self-Directed Growth and Adaptability | is the team member able to learn and adapt quickly - applying the knowledge gained to overcoming challenging situations and achiving the desired results. |
-| Leadership Competencies | Does the team member exhibit the [competencies](https://about.gitlab.com/handbook/competencies/#manager-and-leadership-competencies) required to become a Manager / Leader within GitLab and if so do they require further development in these areas. |
-| Promotion Readiness | Is the team member ready to move into a more senior role within GitLab - if not what would you consider the time frame for development to be. |
+| **Output Delivery** | Is the team member consistently able to produce adequate results within the predefined scope of their role - consider this in parallel with applicable Job Family. |
+| **Solution Centricity** | Is the team member able identify solutions and achieve results in an innovative way, is there an awareness of over-arching company strategies and are they contributing in some way to the achievement of them. |
+| **Core Value Alignment** | Does the team member consistently demonstrate the core [GitLab Values](https://about.gitlab.com/handbook/values/), always operating within the best interests of the company and those who work in it. |
+| **Self-Directed Career Mobility** | is the team member able to learn and adapt quickly - applying the knowledge gained to overcoming challenging situations and achiving the desired results. |
+| **Leadership Competencies** | Does the team member exhibit the [competencies](https://about.gitlab.com/handbook/competencies/#manager-and-leadership-competencies) required to become a Manager / Leader within GitLab and if so do they require further development in these areas. |
+| **Promotion Readiness** | Is the team member ready to move into a more senior role within GitLab - if not what would you consider the time frame for development to be. |
 
 #### Review Process Steps
 *This is typically a four to six week process from beginning to end.*
