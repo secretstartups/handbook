@@ -37,8 +37,8 @@ In many enterprise environments, virtual private networks (VPN) are used to
 allow access to less secured resources, typically also protected by an
 enterprise firewall. Adding corporate VPN connectivity only marginally improves
 the security of using those systems and assumes a network perimeter is in place.
-At GitLab, as an all remote company, we do most of our work using other 
-Software-as-a-Service (SaaS) providers that we rely on to maintain 
+At GitLab, as an all remote company, we do most of our work using other
+Software-as-a-Service (SaaS) providers that we rely on to maintain
 confidentiality of communication and data.
 
 In relation to [Zero Trust](#zero-trust), a corporate VPN is a perimeter, which
@@ -144,8 +144,8 @@ What should you do if you receive a potential phishing email or text from GitLab
 
 **The following instructions are for Apple (MacBook Pro or Air) users. Linux users please go to the [Linux Tools](/handbook/tools-and-tips/linux/) section of the handbook.**
 
-1. Set up **full disk encryption** with [FileVault] (for details, refer to [Apple Support](https://support.apple.com/en-in/HT204837)). GitLab is currently utilizing [JAMF](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/) for endpoint management and can assist with this step. 
-1. Set up a screen saver with **password lock** on your laptop with a timeout of 5 minutes or less. GitLab is currently utilizing [JAMF](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/) for endpoint management and can assist with this step. 
+1. Set up **full disk encryption** with [FileVault] (for details, refer to [Apple Support](https://support.apple.com/en-in/HT204837)). GitLab is currently utilizing [JAMF](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/) for endpoint management and can assist with this step.
+1. Set up a screen saver with **password lock** on your laptop with a timeout of 5 minutes or less. GitLab is currently utilizing [JAMF](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/) for endpoint management and can assist with this step.
 1. Never leave your unlocked computer **unattended**. Activate the screensaver,
   lock the desktop, or close the lid.
 1. For backups on macOS follow this tutorial: [How to use Time Machine](https://support.apple.com/en-us/HT201250)
@@ -161,14 +161,14 @@ What should you do if you receive a potential phishing email or text from GitLab
 1. Do not install software with many known security vulnerabilities. At this point GitLab's [vendor security review](/handbook/engineering/security/security-assurance/security-compliance/third-party-vendor-security-review.html) scope does not include services individually deployed on endpoint devices. After a decision regarding deployment of an endpoint management solution is made the process will be redesigned accordingly and services, where applicable, will be retroactively reviewed. Please ensure you continue to follow the requirements defined in the [acceptable use policy](/handbook/people-group/acceptable-use-policy/).
 1. Enable automatic software updates for security patches. On macOS, this is
   found under "System Preferences" -> "Software Update", "Automatically keep
-  my Mac up to date". GitLab is currently utilizing [JAMF](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/) for endpoint management and can assist with this step. 
+  my Mac up to date". GitLab is currently utilizing [JAMF](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/) for endpoint management and can assist with this step.
 1. Enable your system's built in firewall. In macOS, this can be found in
    `System Settings` -> `Security & Privacy` under the `Firewall` tab. It is
    recommended to select "Block all incoming connections"; however, if choosing
    not to block all incoming traffic, apply the following configuration (see screenshot):
     * Deselect "Automatically allow downloaded signed software to receive incoming messages"
     * Select "Enable stealth mode"
-    * GitLab is currently utilizing [JAMF](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/) for endpoint management and can assist with this step. 
+    * GitLab is currently utilizing [JAMF](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/) for endpoint management and can assist with this step.
 
 ![macOS Firewall Settings](macos_firewall_settings.png)
 
@@ -225,7 +225,7 @@ Passwords are one of the primary mechanisms that protect GitLab information syst
 
 ### GitLab team-members Password Requirements
 * At GitLab, we enforce a strong password requirement, which consists of minimum length of 12 characters.
-* To make a secure password you can remember, consider using a [combination of 5 or more random words](https://medium.com/peerio/how-to-build-a-billion-dollar-password-3d92568d9277#67c2) 
+* To make a secure password you can remember, consider using a [combination of 5 or more random words](https://medium.com/peerio/how-to-build-a-billion-dollar-password-3d92568d9277#67c2)
 * The use of special characters is not required or even recommended.
 * Avoid creating predictable passwords.
 * Passwords cannot be reused.
@@ -242,7 +242,7 @@ Passwords are one of the primary mechanisms that protect GitLab information syst
 
 ### System Password Requirements
 * For systems where a password can be configured the minimum password length needs to be set to 12 characters.
-* To make a secure password you can remember, consider using a [combination of 5 or more random words](https://medium.com/peerio/how-to-build-a-billion-dollar-password-3d92568d9277#67c2) 
+* To make a secure password you can remember, consider using a [combination of 5 or more random words](https://medium.com/peerio/how-to-build-a-billion-dollar-password-3d92568d9277#67c2)
 * The use of special characters is not required or even recommended.
 * If a particular system will not support 12 character passwords, then the maximum number of characters allowed by that system shall be used.
 * If a particular system requires a password history, configuration should be set for 25 remembered passwords.
@@ -353,11 +353,10 @@ joining the GitLab Team account.
 1Password for Teams stores all **Vaults** on the 1Password servers and allows
 for sharing between multiple people on the same team.
 
-Everyone at GitLab should already be signed up for our [Teams account]. This
-gives you access to the web interface, allowing you to view the Vaults we've
-configured and given you access to.
+Every GitLab Team Member who needs access to a shared vault should consult their
+departments for any shared vault information.
 
-In addition to the shared **Team** vault, each member of the team has a vault
+Each member of the team has a vault
 called **Private** which *only you can see*, and allows you to store personal
 credentials *within our team's account*. See the Google sheet titled "1Password
 Shared Folders" in Google Drive to see a listing of the available vaults and
@@ -668,13 +667,13 @@ The future in-house training is being actively developed by [GitLab Security](/h
 
 ### Training Delivery
 
-#### New Hire Security Training 
+#### New Hire Security Training
 The New Hire Security Training is delivered through a pre-recorded presentation that is presented by a member of the [Security Incident Response Team](/handbook/engineering/security/#sirt---security-incident-response-team-former-security-operations) team. The following materials are made available for your consumption:
 * [The video](https://www.youtube.com/watch?v=kNc9f-LH6pU) - the actual training.
 * [The slides](https://docs.google.com/presentation/d/1Yts7RixM9Eb7wt9x9TqS2lAHjmHzKcEI_-j_yZaztlc/) - the slides used in the training video.
 * [Security Practices](/handbook/security/#security-process-and-procedures-for-team-members) - a list of security process and procedures that you can consult at any time.
 
-#### 2020 GitLab Security Awareness Training 
+#### 2020 GitLab Security Awareness Training
 The 2020 Security Training is delivered through the KnowBe4 platform that includes a GitLab-specific introduction module followed by a training conducted by the vendor. The introduction and training materials are included:
 * [The video](https://youtu.be/1nAUjrO_b2Q) - the introduction module.
 * [The slides](https://docs.google.com/presentation/d/1VqOiGJDZ1vDiVVMgrw3ILxx1ot1-nM8jGzDcWylLTpM) - the slides used in the introduction video.
@@ -683,7 +682,7 @@ The 2020 Security Training is delivered through the KnowBe4 platform that includ
   * [Acceptable Use](/handbook/people-group/acceptable-use-policy/)
   * [Device Lost or Stolen?!](#panic-email)
     * email: `panic@gitlab.com`
-  * [Data Classification](/handbook/engineering/security/data-classification-policy.html)
+  * [Data Classification](/handbook/engineering/security/data-classification-standard.html)
   * [No Red Data on Unapproved Locations](/handbook/people-group/acceptable-use-policy/#security-and-proprietary-information)
 
 ### Training Feedback
