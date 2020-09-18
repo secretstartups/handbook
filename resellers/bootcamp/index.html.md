@@ -29,12 +29,17 @@ GitLab is a single application for the entire DevSecOps lifecycle. To see what G
 
 ### How to start?
 
-1. You will need a GitLab site available to run this bootcamp. If you do not have private site available, use [GitLab.com](https://www.gitlab.com)
-2. Create a new [Group](https://docs.gitlab.com/ee/user/group/) and name it Bootcamp 
-3. You will need an exact copy of [this project](https://gitlab.com/gitlab-com/channel/technical-bootcamps/using-gitlab) including issues *in your bootcamp group*. The easiest way to do this is to grab the [latest export](https://drive.google.com/file/d/1i-QvQLYsqTWPAiD_C-6N379cCttES86H/view?usp=sharing) and import it.
-4. The Bootcamp Labs take advantage of paid Enterprise tier features; to get the full experience your instance of GitLab, or your Group if using GitLab.com, should be licensed to Ultimate/Gold.
-  * [Get a trial here](https://about.gitlab.com/free-trial/).
-5. Having completed the above, move to the next section on Agile Project Management. This will help you with the knowledge required to then configure your Bootcamp Lab environment.
+1. You will require access to a GitLab instance to run this bootcamp. If you do not have a private instance available, use [GitLab.com](https://www.gitlab.com)
+2. The Bootcamp Labs take advantage of paid Enterprise tier features; to get the full experience your instance of GitLab, or your Group if using GitLab.com, should be licensed to Ultimate/Gold
+    * [Get a trial here](https://about.gitlab.com/free-trial/). 
+3. Once you have an instance of GitLab available, create a new [Group](https://docs.gitlab.com/ee/user/group/) and name it **Bootcamp** 
+    * If using gitlab.com, make sure this is created within a Gold-tier group
+4. The Lab exercises are defined as individual GitLab issues within a GitLab project;  You will need an exact copy of [this project](https://gitlab.com/technical-bootcamp/using-gitlab), including issues, **in your bootcamp group**. The easiest way to do this is to import the [latest export of the project](https://drive.google.com/file/d/195xB0wbQzYOkOZ3EVJnyJGCBNLo6azzi/view?usp=sharing)
+    * Refer to the [Import documentation](https://docs.gitlab.com/ee/user/project/settings/import_export.html#importing-the-project) if required
+5. Many of the Lab exercises utilise a simple **Coffee Shop** application;  Similar to the above, you need an exact copy of [the Coffee Shop project](https://gitlab.com/technical-bootcamp/gitlab-coffee-shop) which can be imported from the latest [project export](https://drive.google.com/file/d/1K3l4karDEWeZvqY7qbpeo91ufbd0Cz3u/view?usp=sharing).  The project should be imported within your **Bootcamp** group, alongside the Lab Exercises project
+
+
+6. Having completed the above, move to the next section on Agile Project Management. This will help you with the knowledge required to then configure your Bootcamp Lab environment
 
 
 ### Agile Project Management
@@ -44,7 +49,7 @@ GitLab is a single application for the entire DevSecOps lifecycle. To see what G
 </figure>
 
 
-**Now go to your Labs project, find the issue called *Lab 0* and assign it to yourself. It contains all steps needed to set up the environment for the future labs. Execute all tasks in the issue.**
+**Now go to your imported Labs project, find the issue called *Lab 0* and assign it to yourself. It contains all steps needed to set up the environment for the future labs. Execute all tasks in the issue.**
 
 
 If you are interested in market positioning, typical pain points and the way GitLab addresses them, customer stories and analyst coverage, review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/agile/).
