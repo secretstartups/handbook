@@ -180,7 +180,7 @@ Consider the scenario of a user opening their browser, and surfing to their dash
        - <a name="unicorn2db"></a> [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](https://dashboards.gitlab.net/dashboard/db/transaction-overview?panelId=9&fullscreen&orgId=1) [PostgreSQL](#tb-unicorn2db) (`SQL timings`),
        - <a name="unicorn2nfs"></a> [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](https://dashboards.gitlab.net/dashboard/db/daily-overview?panelId=14&fullscreen&orgId=1) [NFS](#tb-unicorn2nfs) (`git timings`),
        - <a name="unicorn2redis"></a> [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](https://dashboards.gitlab.net/dashboard/db/daily-overview?panelId=13&fullscreen&orgId=1) [Redis](#tb-unicorn2redis) (`cache timings`).
-       - In this `gitlab.com/dashboard` example, the controller addresses all three [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](https://dashboards.gitlab.net/dashboard/db/rails-controllers?orgId=1&var-action=RootController%23index).
+       - In this `gitlab.com/dashboard` example, the controller addresses all three [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](https://dashboards.gitlab.net/d/web-rails-controller/web-rails-controller?orgId=1&var-PROMETHEUS_DS=Global&var-environment=gprd&var-stage=main&var-controller=RootController&var-action=index).
        - There are usually _multiple_ SQL calls (or file, or cache, etc.) calls for a given
       controller request. These add to the overall timing, especially since they are
       sequential. For example, in
@@ -415,9 +415,7 @@ Timing history for First Byte are listed in the table below (click on the tachom
 {: #first-byte-internal}
 
 To go a little deeper and measure performance of the application & infrastructure without consideration for frontend and network aspects, we look at "transaction timings" [as recorded by Unicorn](#unicorn2various). These timings can be seen on the
-[Rails Controller dashboard](https://dashboards.gitlab.net/dashboard/db/rails-controllers?orgId=1&var-action=Projects::MergeRequestsController%23show) _per URL that is accessed_ .
-
-For instance, to get the transaction timing for the merge request referenced above first visit the merge request page, then visit the Rails Controller dashboard and scroll down to the [Transaction Details table](https://dashboards.gitlab.net/dashboard/db/rails-controllers?panelId=11&fullscreen&orgId=1&var-action=Projects::MergeRequestsController%23show). We do not currently have time series graphs _per URL_ nor do we have specific targets in terms of what this timing should be.
+[Rails Controller dashboard](https://dashboards.gitlab.net/d/web-rails-controller/web-rails-controller?orgId=1&var-PROMETHEUS_DS=Global&var-environment=gprd&var-stage=main&var-controller=Projects::MergeRequestsController&var-action=show) _per URL that is accessed_ .
 
 ## Availability and Performance labels
 {: #availability-performance-labels}
@@ -459,7 +457,7 @@ label to use for database related performance work.
 Some general notes about parameters that affect database performance, at a very crude level.
 
 - From whitebox monitoring,
-   - Of time spent on/by Rails controllers, this much is spent in the database: <https://dashboards.gitlab.net/dashboard/db/rails-controllers?orgId=1&panelId=5&fullscreen> (for a specific Rails controller / page)
+   - Of time spent on/by Rails controllers, this much is spent in the database: <https://dashboards.gitlab.net/d/web-rails-controller/web-rails-controller?viewPanel=13864&orgId=1> (for a specific Rails controller / page)
    - _Global_ SQL timings: <https://dashboards.gitlab.net/dashboard/db/transaction-overview?panelId=9&fullscreen&orgId=1&from=now-2d&to=now>
 - A single HTTP request will execute a single controller. A controller in turn will usually only use one available database connection, though it may use 2 if first a read was performed, followed by a write.
    - pgbouncer allows up to 150 concurrent PostgreSQL connections. If this limit
