@@ -17,10 +17,9 @@ There are three primary ways to import records into the database:
 
 | Import Method | SLA | Submission Instructions | Operations Instructions |
 | :------------ | :-- | :---------- | :-------- |
-| DiscoverOrg VisualForce w/in SFDC | self-managed | [Instruction video how to do this](https://drive.google.com/file/d/1saQqwLuVpy50LfIH0tkXY_dUt4Rybxth/view?usp=sharing) | Not applicable |
+| Zoominfo w/in SFDC | self-managed | [Instruction video how to do this can be found in the handbook](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/) | Not applicable |
 | csv file | **Accepted by OPS** - 24 business hours<br><br>**Upload to SFDC** - up to 5 business days | Use [MktgOPS **general** list import request template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=general-list-import-request), format as a Google Sheet (Gsheet) & place **link to Gsheet in issue**<br><br>[Written Instructions how to use template](#import-cleaning-template) | [Ad Hoc Upload](#ad-hoc-import) |
 | List from Field Event, Sposorship or Advertising | **Accepted & uploaded by OPS** - 24 business hours | Use [MktgOPS **event** clean and upload issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list), format and clean csv per instruction & place **link to Gsheet in issue**<br><br>[Written Instructions how to use template](#import-cleaning-template) | [Field Event Upload](#field-and-corporate-event-import)<br><br>[Alliance Event Upload](#alliance-event-upload) |
-| List for Acceleration SDR Team | TBD | Template Instructions are WIP | [Acceleration Upload](#acceleration-team-monthly-import) |
 
 #### Import Methods and their SLA
 The SLA for each import method has been decided based on the perceived optimal response time. The turnaround time for an `Event, Sponsorship and or Advertising` list upload is deemed a high priority due to the nature of necessary `SDR` outreach on "warm" prospects. If a list of prospects cannot be considered "warm", please expect a turnaround time of the listed 5 day SLA and use the appropriate template.
@@ -29,23 +28,21 @@ The SLA for each import method has been decided based on the perceived optimal r
 #### If a last minute request, please open issue any way and ASK for a faster turnaround or ping OPS in `#mktgops` slack channel to discuss options.
 {:.no_toc}
 
-
-The following data cleanup is required for any list prior to sending it to the Operations team. **If your spreadsheet/data does not meet these guidelines it will returned to you to fix prior being uploaded.**
-- Preferred format is .csv, but will accept an .xls, or .xlsx - provide as Google Sheet **DO NOT** upload the file directly on the issue
+The following data cleanup is required for any list prior to sending it to the Operations team. **If your spreadsheet/data does not meet these guidelines it will be returned to you to fix prior to being uploaded.**
 - It is the responsibility of the person submitting the list to clean the list utilizing the [import cleaning template](#import-cleaning-template)
 - All fields are separated into their own column
      - Person name separated into two columns - `First Name` `Last Name`
+     - Duplicates must be reviewed and reduced
      - Address separated into individual fields (`Street`, `City`, `State/Province`, `Zip/Postal Code`, `Country`)
-     - Specify if address is for the CONTACT or the ACCOUNT
      - `Country` that **are not** `United States` or `Canada` *must* have `State` field deleted or cleared as it will create conflicts
+- Preferred format for Marketo upload is .csv, but will accept an .xls, or .xlsx. Provide as Google Sheet in the upload issue. **DO NOT** upload the file directly on the issue. Uploading files to the issue exposes ALL collected personal data to the internet and opens GitLab up to litigation
 - Record ownership will be assigned using the [Account Ownership Rules of Engagement](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
-- ADD column for `Source` and provide the source where the names came from (LinkedIn, DiscoverOrg, Event, etc) - see [Initial Source definitions](/handbook/business-ops/resources/#initial-source) if unsure
-     - DiscoverOrg is the ONLY approved & GDPR compliant source for EMEA records, all other sources will be rejected
-- If there are any records who have opted out of contact for any reason please be sure to define that on the spreadsheet
+- In order to mark leads as `Opt-in = TRUE`, a record of the terms and conditions the leads agreed to upon having their data collected must be recorded. Check the `terms of service` wording is recorded in the upload issue before opting in leads to receive marketing communications. No ToS, no `Opt-in`. Period.
+- If there are any records who have opted out of contact for any reason, define that on the spreadsheet by selecting `Opt-in = FALSE`
 
 #### Best Practices
 1. Remove inaccurate entries
-     - `Title` **remove** "self", "me", "n/a", etc
+     - `Job Title` **remove** "self", "me", "n/a", etc
      - `Phone` **remove** obvious junk numbers 0000000000, 1234567890, etc
 1. **Blank fields** are better than junk data. We have enrichment tools that are designed to write to blank fields. Also we can run reports on the blank fields to find where our data gaps are.
 1. If you do not have a CONTACT `Phone` **do not** substitute the ACCOUNT `Phone` and vice versa. Leave it blank.
@@ -61,10 +58,15 @@ The following data cleanup is required for any list prior to sending it to the O
 
 ### Import Cleaning Template
 
-Use [this template](https://docs.google.com/spreadsheets/d/1INbR1I-2REF1n4C7XVatdEft9lQjBp3zrWo2cMnvN-Q/edit#gid=1927309383) which uses formula fields to
-* cleanup proper case of name, job title, address
-* use lookup of SFDC-accepted state/province and country
-* alert to any duplicate email addresses, gitlab email addresses, or possibly inaccurate email syntax
+- Please utilize the [Google Sheet](https://docs.google.com/spreadsheets/d/143REaMQLyIy7to-CFktL45TTTLZxBQRJUDIOMCA3CVo/edit#gid=257616838) included in the `event list upload` and `general list upload` issue templates. This spread sheet template allows for quick edits and faster data checks, such as:
+     - Capitalizing `First name` and `Last name`
+     - Highlighting last names that appear more than once for faster duplicate detection
+     - Highlighting duplicate emails and GitLab emails
+     - Highlighting possible faulty emails
+     - Highlighting when `self` or `GitLab` are listed as `Company Name`
+     - Converting `State` abbreviations from `Canada` and the `US` into full names
+     - Highlighting when `Country` names match with each other
+- Be aware that any changes to the spreadsheet layout may affect the built-in formulas
 
 **Steps (also documented in *How it Works* sheet):**
 1.	Keep your data in the original export version so you can always check back on an untouched file
@@ -88,7 +90,6 @@ Video of how this works tbd.
 * [Field & Corporate Event Import](#field-and-corporate-event-import)
 * [Alliance Event Import](#alliance-event-import)
 * [Ad Hoc Import](#ad-hoc-import)
-* [Acceleration Team Monthly Import](#acceleration-team-monthly-import)
 
 #### Field and Corporate Event Import
 
@@ -192,7 +193,7 @@ The Alliance list import follows the same guidelines as [Field & Corporate event
           * Suppression of records in general Marketing communication
 
 
-##### Acceleration Team Monthly Import
+<!-- ##### Acceleration Team Monthly Import
 
 The Acceleration Team has list import requests every month for their target patches. They presently are using a modified version of the Ad Hoc import template. 
 
@@ -263,7 +264,7 @@ Please **do not** make any changes to the programs, campaigns or related workflo
 1. Click to `Prospects` and clear all default filters
 1. In left side menu, navigate to `Tags` and select the appropriate tag for that list
 1. Copy the **Outreach** URL and paste into the List Import issue.  
-1. Repeat steps above for each list in the issue. 
+1. Repeat steps above for each list in the issue. -->
 
 ### About Long-term Lead Data Storage
 
