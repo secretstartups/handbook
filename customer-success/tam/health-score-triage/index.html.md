@@ -12,13 +12,13 @@ title: "Customer Health Assessment and Management"
 View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional TAM-related handbook pages.
 
 ----
-This page covers the factors to consider for customer health, guidelines for selecting the appropriate rating, communication guidelines, instructions for the account triage issue creation, and updating the health assessment in Gainsight.
+This page covers the factors to consider for customer health, guidelines for selecting the appropriate rating, communication guidelines, TAM responsibilities and instructions for the account triage issue creation.
 
 ## Customer Health Categories and Risks
 
-The following guideline will provide Technical Account Managers (TAMs) guidance to choose the right health assessment for their customer account. Health considers both delivery of value and outcomes to customers and business impact to GitLab. The following are the categories to assess and associated risks with each.
+Health primarily considers the business impact to GitLab by evaluating the delivery of value and outcomes to customers. The following guideline will provide Technical Account Managers (TAMs) guidance to choose the right health assessment for their customer account. The following are the categories to assess and associated risks with each.
 
-1. **Product adoption and utilization**: There is a delayed, low or materially reduced usage (i.e., drop in usage) as measured by license consumption, features / use cases, product version (i.e., not adopting current versions - self-managed only), and/or GitLab stages. Value and outcome delivery to the customer misses expectations as defined by the customer. This may also be impacted by way the customer is using the product (i.e., processes, operations and/or policies) where the customer may not be leveraging GitLab best practices to maximize the value of the solution.
+1. **Product adoption and utilization**: There is a delayed, low, or materially reduced usage (i.e., drop in usage) as measured by license usage, features / use cases, product version (i.e., not adopting current versions - self-managed only), and/or GitLab stages. Value and outcome delivery to the customer misses expectations as defined by the customer. This may also be impacted by way the customer is using the product (i.e., processes, operations and/or policies) where the customer may not be leveraging GitLab best practices to maximize the value of the solution.
 2. **Product experience**: Customer has enhancements or defect fixes that are necessary for a customer and have not been delivered. The risk is determined according to the criticality of the request, severity of the issues, and/or number of enhancements and defects. Missed expectations for feature release can also impact product experience.
 3. **Customer engagement**: Customer contact(s) are not responsive, miss meetings and/or unwilling to engage in cadence calls or other engagements like [EBRs](/handbook/customer-success/tam/ebr/). This could indirectly mean the customer does not see value in the solution or the solution has been deprioritized.
 4. **Executive sponsor or champion**: Sponsor or champion leaves the company, moves to a different part of the organization, and/or has reduced scope of influence.
@@ -27,11 +27,11 @@ The following guideline will provide Technical Account Managers (TAMs) guidance 
 
 ## Health Assessment Guidelines
 
-The items below serve as *guidelines* for the TAM to assess and record customer health and should consider where the customer is their lifecycle journey.
+The items below serve as *guidelines* for the TAM to assess and record customer health and should consider where the customer is their lifecycle journey. Account health feeds into [open renewal opportunities](/handbook/customer-success/tam/renewals/#tracking-renewal-opportunity-health-and-risks).
 
 ### Green
 
-Engagement, adoption and experiences are as expected or better than expected, delivering value and outcomes as appropriate the customer's stage in their journey.
+Customer is very likely to renew and/or expand with no known or assumed risk of downsell or churn. Customer's experience: engagement, adoption and experiences are as expected or better than expected, delivering value and outcomes as appropriate the customer's stage in their journey. Examples:
 
 - Progressive adoption of GitLab use cases as defined by their success plan, considering their stage in their journey
 - Regular communication and engagement in meetings
@@ -41,7 +41,7 @@ Engagement, adoption and experiences are as expected or better than expected, de
 
 ### Yellow
 
-Engagement, adoption and/or experiences are lower than expected, risking GitLab's ability to deliver customer value and outcomes and/or drive future revenue growth.
+Potential risk or significant lack of information leading to uncertainty. Indicates challenges to overcome, with a lower risk of churn or downsell. Customer's experience: engagement, adoption and/or experiences are lower than expected, risking GitLab's ability to deliver customer value and outcomes and/or drive future revenue growth. Examples:
 
 - Slow, delayed, or blocked adoption of GitLab use cases in support of the customer's success plan
 - Customer lacks definition of goals or success criteria
@@ -55,7 +55,8 @@ Engagement, adoption and/or experiences are lower than expected, risking GitLab'
 
 ### Red
 
-Engagement, adoption and/or experiences are significantly lower than expected where issues are blocking GitLab's ability to deliver expected value, outcomes, or positive experiences as defined by the customer. There is a direct impact to renewal in terms of churn (e.g., loss of customer, reduced seats, tier downgrade, discount related to missed expectations)
+Specific, known risks to account retention or upcoming opportunity, or overwhelming lack of information, such as unresponsiveness leading up to renewal. Customer's experience: engagement, adoption and/or experiences are significantly lower than expected where issues are blocking GitLab's ability to deliver expected value, outcomes, or positive experiences as defined by the customer. 
+Examples:
 
 - Product does not deliver expected value or outcomes as defined by success plan
 - No or low product adoption with no progression
@@ -91,18 +92,17 @@ The TAM is responsible for coordinating with all relevant parties to develop a p
 
 ### Gainsight
 
-The two fields TAMs update are TAM Sentiment and Product Risk, with each having a different weight in determining overall account health. The guidelines are as follows:
+TAMs update TAM Sentiment in determining overall account health. The guidelines are as follows:
 
 - **TAM Sentiment**: Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. This should consider all the factors mentioned above and measured by the health assessment (green, yellow, red) criteria
-- **Product Risk**: Qualitative measure indicating the TAM's assessment of risk to the renewal, tier or ARR of the customer as a result of dissatisfaction with an element of the product.
 
-To update a customer's TAM Sentiment and Product Sentiment:
+To update a customer's TAM Sentiment:
 
-1. Update it directly from the customer list on your dashboard (scroll to the right if you don't see them)
-2. Update it from the account's scorecard
+1. Update it directly from the customer list on your dashboard (scroll to the right if you don't see them), OR
+2. Update it from the account's scorecard, OR
 3. Update it while logging an activity/timeline event (call, etc.)
 
-If you would like to add a note corresponding to the health score (recommended), go to the account's scorecard and click on the TAM or Product Sentiment. Then click the plus button, choose "Update" or "Call", then input your notes and log.
+If you would like to add a note corresponding to the health score (recommended), go to the account's scorecard and click on the TAM or Sentiment. Then click the plus button, choose "Update" or "Call", then input your notes and log.
 
 Please note that if you update a health score from logging an activity (such as in the above example), the change will not be reflected for the account until the following day. If you change it directly from your dashboard or the account's scorecard, it will update immediately.
 
@@ -118,23 +118,21 @@ Health score criteria is either manually or automatically applied to determine t
 
 | Category                                                     | Description                                                  | Method    | Calculation                                                  | Weighting |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ | --------- |
-| Engagement                                                   | Based on recency of last call/meeting with the customer      | Automatic | Green: <= 30 days <br />Yellow: > 30 days and <= 60 days <br />Red: > 60 days | 5%        |
+| Engagement                                                   | Based on recency of last call/meeting with the customer      | Automatic | Green: <= 30 days <br />Yellow: > 30 days and <= 60 days <br />Red: > 60 days | 10%        |
 | ROI                                             | Does the customer have a Success Plan?                       | Automatic | Green: Active Success Plan <br />Yellow: Draft Success Plan <br />Red: No Success Plan | 10%       |
 | Support Issues                                               | Assess the health of our support interactions.<br />Current version is MVC with [v2 coming](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1202). | Automatic | Green: 1-5 tickets/month<br />Yellow: 5-15 tickets/month<br />Red: \>15 tickets/month | 5%        |
 | [TAM Sentiment](/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual    | TAM manually determines red/yellow/green                     | 75%       |
-| [Product Risk](/handbook/customer-success/tam/health-score-triage/#gainsight) |                                                              | Manual    | TAM manually determines red/yellow/green                     | 5%        |
+
 
 
 ##### Commercial
 
 | Category                                                     | Description                                                  | Method    | Calculation                                                  | Weighting |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ | --------- |
-| Engagement                                                   | Based on recency of last call/meeting with the customer      | Automatic | Mid-Market >=50k ARR:<br/>    - Green: <= 30 days<br/>      - Yellow: > 30 days and <= 60 days<br/>      - Red: > 60 days<br/>   Mid-Market <50k and >=20k ARR:<br/>      - Green: <= 90 days<br/>      - Yellow: > 90 days and <= 120 days<br/>      - Red: > 120 days | 5%        |
+| Engagement                                                   | Based on recency of last call/meeting with the customer      | Automatic | Mid-Market >=50k ARR:<br/>    - Green: <= 30 days<br/>      - Yellow: > 30 days and <= 60 days<br/>      - Red: > 60 days<br/>   Mid-Market <50k and >=20k ARR:<br/>      - Green: <= 90 days<br/>      - Yellow: > 90 days and <= 120 days<br/>      - Red: > 120 days | 10%        |
 | ROI                                             | Does the customer have a Success Plan?                       | Automatic | Mid-Market - >=50k ARR<br/>      - Green: Active Success Plan<br/>      - Yellow: Draft Success Plan<br/>      - Red: No Success Plan | 10%       |
 | Support Issues                                               | Assess the health of our support interactions.<br />Current version is MVC with [v2 coming](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1202). | Automatic | Green: 1-5 tickets/month<br />Yellow: 5-15 tickets/month<br />Red: \>15 tickets/month | 5%        |
-| [TAM Sentiment](/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual    | TAM manually determines red/yellow/green                     | 75%       |
-| [Product Risk](/handbook/customer-success/tam/health-score-triage/#gainsight) |                                                              | Manual    | TAM manually determines red/yellow/green                     | 5%        |
-
+| [TAM Sentiment](/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual    | TAM manually determines red/yellow/green                     | 75% |
 
 
 #### Triage CTA
@@ -196,6 +194,7 @@ When creating triage issues, it's important to apply the correct labels to the i
 - `~risk::other organizational factors`
 - `~risk::lack of budget`
 - `~risk::competition`
+- `~risk::covid-19`
 
 ## Related Processes
 

@@ -173,6 +173,7 @@ The videos listed here are internal to GitLab only. You will need to be logged i
 - [Executive Business Reviews with Gainsight](https://www.youtube.com/watch?v=LE1aNw4OiHw&feature=youtu.be)
 - [Sally Slackbot](https://education.gainsight.com/series/end-user-training/gainsight-sally)
 - [How a Gainsight CSM Uses Gainsight](https://education.gainsight.com/series/end-user-training-for-nxt/how-a-gainsight-csm-uses-gainsight)
+- [Using Gainsight in Account Team Meetings](https://youtu.be/gT_pz9PoHHg)
 
 ## Feedback about Gainsight
 

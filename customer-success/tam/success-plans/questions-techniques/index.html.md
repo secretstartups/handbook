@@ -23,7 +23,7 @@ The most straightforward and open-ended approach to starting a conversation abou
 
 This question creates an opening to explore driving additional value for the customer, with the customer leading.  From here, we can explore with the customer use cases or features they're interested in knowing more about, business problems they could solve using GitLab, or anything else related to GitLab or DevSecOps. This one question also sets you up for more targeted follow-ups.
 
-If the customer responds that there is nothing else they need or are interested in, you can start asking questions about their current situation.  These questions can explore what challenges they are currently working on, the focus of their boss or company, etc. to take the conversation in other directions that may give you an opening to make suggestions.
+If the customer responds that there is nothing else they need or are interested in, you can start asking questions about their current situation.  These questions can explore what challenges they are currently working on, the focus of their manager or company, etc. to take the conversation in other directions that may give you an opening to make suggestions.
 
 Instead of asking about GitLab and how GitLab might help them, turn the conversation around to talk about their business. Listen actively, let the customer talk without interjecting, and then explore how what you heard could be activated in the Gitlab platform.
 
@@ -44,7 +44,7 @@ Once you’ve opened the conversation, use some other techniques to gather detai
 If you have a good relationship with your champion, you can appeal to a shared feeling of “we all have a job to do” in explaining that you need to gather some information about how their business operates and what they’re focused on.  This approach works well if suddenly asking goal questions within your standard cadence calls could seem awkward.
 
 - “I have some questions I need to ask so I can fill out some paperwork about what you’re focused on. You know how it goes!”
-- “My boss is telling me I need to fill out some information about my customers - I’m sure you know how that goes - so I have a few questions I’d like to ask.”
+- “My manager is telling me I need to fill out some information about my customers - I’m sure you know how that goes - so I have a few questions I’d like to ask.”
 
 Once you’ve opened the conversation, use some of the other techniques to gather details and level up to strategic objectives.
 
@@ -58,7 +58,7 @@ Asking about developer or team workflows is a good way to better understand a cu
 
 ## Metrics Based Questions
 
-Ask your stakeholders about the metrics they care about, how they measure them now (if at all) and how GitLab can help measure those.  
+Ask your stakeholders about the metrics they care about, how they measure them now (if at all) and how GitLab can help measure those.
 Ask the customers the following questions that tie back to [our three Value Drivers…](/handbook/sales/command-of-the-message/#customer-value-drivers)
 
 - Increase Operational Efficiencies
@@ -68,7 +68,7 @@ Ask the customers the following questions that tie back to [our three Value Driv
 1. Are you measuring cycle time? Is this an important metric for you?
    - If yes, how are you doing this today?
    - If not, have you seen our project & group level Analytics > Value Stream?
-   - **Note:** There are [customizable stages](https://docs.gitlab.com/ee/user/analytics/value_stream_analytics.html#customizable-value-stream-analytics-premium) in Premium.
+   - **Note:** There are [customizable stages](https://docs.gitlab.com/ee/user/analytics/value_stream_analytics.html#customizable-value-stream-analytics) in Premium.
 1. Are you measuring deployment frequency? Is this an important metric for you?
    - If not, this can also be done at the project & group level via Analytics > Value Stream displaying Deployment Frequency (deploys per day) over the last 7/30/90 days.
 1. What metrics do you use for developer/team productivity?
@@ -81,47 +81,47 @@ Ask the customers the following questions that tie back to [our three Value Driv
 
 ## Stage Adoption
 
-We also want to ask about Stage Adoption metrics so that we can tie their GitLab usage into Stage Adoption.  
+We also want to ask about Stage Adoption metrics so that we can tie their GitLab usage into Stage Adoption.
 (**Note:** All of these can be found along with how we measure stage adoption in our [Stage Adoption Metrics](/handbook/customer-success/tam/stage-adoption/) page)
 
 - **Plan**
   - What tools do you use to organize, plan and track project work?
   - Describe your issue and epic workflow.
-  - What percentage of your users/teams are using GitLab for this?  
+  - What percentage of your users/teams are using GitLab for this?
 - **Create**
   - Where do you manage your code base?
-  - What processes do you follow for code reviews?  
+  - What processes do you follow for code reviews?
 - **Verify**
   - What types of Runners are you using today? (shared, group, specific)
   - What tools are you using for continuous integration?
-  - What percentage of projects/teams are using GitLab CI?  
+  - What percentage of projects/teams are using GitLab CI?
 - **Package**
   - What tools do you use for package management?
   - What do you use to maintain Docker images?
   - Do you use the GitLab Container Registry to manage Helm Charts?
-  - What percentage of projects are building containers as deliverables?  
+  - What percentage of projects are building containers as deliverables?
 - **Secure**
   - What do you use to scan your application source code and binaries?
   - Do you analyze your running web application for known runtime vulnerabilities?
   - What do you use to check your Docker images for known vulnerabilities?
-  - Do you look for known vulnerabilities in you external dependencies?  
+  - Do you look for known vulnerabilities in you external dependencies?
 - **Release**
   - Are you using GitLab to deploy your applications?
   - Do you use GitLab pages to create, manage and deploy static sites?
   - Are you making use of review apps to get a full production like enviornment in every merge request?
-  - How do you currently manage your releases? (i.e. versioning, release notes, etc.)  
+  - How do you currently manage your releases? (i.e. versioning, release notes, etc.)
 - **Configure**
   - Are you using AutoDevOps to provide your users a pre-defined CI/CD configuration?
   - Are you using Kubernetes for any of the following scenarios?
   - Deploying software from GitLab CI/CD pipelines to Kubernetes
   - Using Kubernetes to manage runners attached to your GitLab instance
-  - Running the GitLab application and services on a Kubernetes cluster  
+  - Running the GitLab application and services on a Kubernetes cluster
 - **Monitor**
   - How are you monitoring the stability and performance of your GitLab instance?
-  - What do you use to monitor your deployed applications?  
+  - What do you use to monitor your deployed applications?
 - **Defend**
   - How do you manage HTTP traffic to your deployed application?
-  - What do you use to block malicious traffic before it reaches your application?  
+  - What do you use to block malicious traffic before it reaches your application?
 
 ## Short/Medium/Long Term Priorities
 
@@ -133,7 +133,7 @@ Asking the customer to rank their team’s main focuses on a timeline makes it e
 
 ## Higher Level Priorities
 
-It can be helpful to ask what your champion’s boss or department is focused on, since it can help move you towards strategic objectives.
+It can be helpful to ask what your champion’s manager or department is focused on, since it can help move you towards strategic objectives.
 
 - “What are your department’s main objectives for the year?”
 - “What is the highest priority goal that your company has to improve the SDLC/DevOps process? What do you see as the biggest challenge to achieving that goal?”
