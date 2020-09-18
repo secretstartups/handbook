@@ -48,9 +48,9 @@ Potential Coaching Panel topics include:
 |----------------|--------|------------------|-----------------|
 | Effective Mentor/Mentee Partnerships | Mentee expectations, How mentors can help drive a productive career conversation, identification and selection of a personal development goal | All Mentors | 2020/07/08 |
 | Leadership @ all levels in Sales | Goal setting, accountability, influence and collaboration | David Sakamoto, Craig Mestel, Michelle Hodges and Mark Rogge | 2020/08/24 |
-| Career Transitions | Transitioning into a manager role; leadership pipeline; career inflection points | Eric Brinkman, Mike Pyle, Robin Schulman and Ryan O'Nell |  TBD |
+| Career Transitions | Transitioning into a manager role; leadership pipeline; career inflection points | Eric Brinkman, Mike Pyle, Robin Schulman and Ryan O'Nell |  2020/10/13 |
 | Crucial Conversations | Identifying key conversation moments and how to have those conversations successfully | Michael McBride, Bryan Wise and Danielle Morrill |2020/07/27|
-| Work/Life Integration | Balancing family, friends, and careers in leadership | Kristen Lawrence, Dale Brown, Carol Teskey and Brandon Jung |TBD |
+| Work/Life Integration | Balancing family, friends, and careers in leadership | Kristen Lawrence, Dale Brown, Carol Teskey and Brandon Jung | 2020/09/23 |
 
 ### Program Communications
 
