@@ -79,7 +79,7 @@ During week one we will discuss **Getting to Know your Team & Managing Underperf
 
 ### Week 2
 
-During week two we will discuss **Trust and Coaching**. Information covered in week two can be found on the [Coaching page](/handbook/people-group/learning-and-development/career-development/coaching/). 
+During week two we will discuss **Trust and Coaching**. Information covered in week two can be found on the [Coaching](/handbook/people-group/learning-and-development/career-development/coaching/) and [Building Trust](/handbook/people-group/learning-and-development/building-trust) page
 
 | Day     | Daily Challenge | Length of Time   |  Format | Activity | Competency Alignment |
 |---------|-----------------|------------------|---------|----------|----------------------|
@@ -92,13 +92,13 @@ During week two we will discuss **Trust and Coaching**. Information covered in w
 
 ### Week 3
 
-During week three we will discuss **Building and Inclusive/Belonging Environment**. Information covered in week three can be found on the [page](). 
+During week three we will discuss **Building and Inclusive/Belonging Environment**. Information covered in week three can be found on the [Psychological Safety](/handbook/people-group/learning-and-development/emotional-intelligence/psychological-safety) and [Diversity, Inclusion, and Belonging](/company/culture/inclusion) page. 
 
 | Day     | Daily Challenge | Length of Time   |  Format | Activity | Competency Alignment |
 |---------|-----------------|------------------|---------|----------|----------------------|
 | Day 11   | Psychological Safety | 20 minutes | Self-paced Daily Challenge | * Read the Psychological Safety Handbook Page <br> * Answer the discussion question | * Diversty, Inclusion, & Belonging <br> * Emotional Intelligence |
 | Day 12   | Cultures | 20 minutes | Self-paced Daily Challenge | *  Use the Hofstede Country Comparison Tool <br> * Share in the issue a screenshot of the chart with all countries represented | * Diversty, Inclusion, & Belonging |
-| Day 13   | Building an Inclusive/Belonging Culture | 20 minutes | Self-paced Daily Challenge | *  Completed the Backpack Activity <br> * Share in the issue what it would be like for other members of your team to complete the backpack activity | * Diversty, Inclusion, & Belonging |
+| Day 13   | Building an Inclusive/Belonging Culture | 20 minutes | Self-paced Daily Challenge | *  Complete the Backpack Activity <br> * Share in the issue what it would be like for other members of your team to complete the backpack activity | * Diversty, Inclusion, & Belonging |
 | Day 14   | Attend Live Learning | 50 minutes | Live Learning | * Attend the coaching live learning session and be prepared to participate! | * Diversty, Inclusion, & Belonging |
 | Day 15   | Self Reflection and Weekly Evaluation | 20 minutes | Self-paced Daily Challenge | * Complete the Self-reflection and weekly evaluation | * Diversty, Inclusion, & Belonging |
 
