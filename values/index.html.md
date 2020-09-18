@@ -477,7 +477,7 @@ Keep one-to-many written communication short, as mentioned in [this HBR study](h
 {:.no_toc}
 We want each team member to be [a manager of one](/handbook/leadership/#managers-of-one) who doesn't need daily check-ins to achieve their goals.
 
-##### Freedom & responsibility over rigidity
+##### Freedom and responsibility over rigidity
 {:.no_toc}
 When possible, we give people the responsibility to make a decision and hold them accountable for that, instead of imposing rules and approval processes. You should have clear objectives and the freedom to work on them as you see fit. Freedom and responsibility are more efficent than rigidly following a process because they enable faster decision velocity and higher rates of [iteration](#iteration).
 
