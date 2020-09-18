@@ -55,12 +55,6 @@ Make an effort to actively de-stress during your on-call shift. After being on-c
 
 When you're in a customer call, don't feel pressure to provide _immediate_ answers. You're allowed to pause for a few minutes for researching, asking for help, etc. Make sure to communicate -- let the customer know what you're doing. Example: "I need a few minutes to work through the code here and make sense of it".
 
-### Create a new issue in the Emergency Runbook
-
-The [Emergency Runbook project](https://gitlab.com/gitlab-com/support/emergency-runbook/) tracks Issues for Customer Emergency tickets.
-
-[Create an Emergency Runbook issue]((https://gitlab.com/gitlab-com/support/emergency-runbook/-/issues/new) -- follow the template to help you and other Support Engineers keep track of steps that you already took to pinpoint the problem.
-
 ## How Support On-call works
 
 ### Schedule and escalation policy
@@ -105,15 +99,16 @@ When your on-call shift starts, you should get notification(s) that your shift i
 ### Responding to PagerDuty alerts
 
 1. When an emergency is triggered, you receive an alert from PD. This could be a text, phone call, email, and/or Slack message (depending on your PagerDuty notification preferences).
-1. Acknowledge the alert in PagerDuty or Slack. This means that you received the emergency page, and are starting the response process. 
+1. Acknowledge the alert in PagerDuty or Slack. This means that you received the emergency page, and are starting the response process.
+1. **OPTIONAL:** Create a new Issue using the [Emergency Runbook Issue Template](https://gitlab.com/gitlab-com/support/emergency-runbook/-/issues/new), to guide you through the emergency response process for Customer Emergency tickets. 
 1. Open the Zendesk ticket. 
    1. Most PagerDuty notification formats provide a direct link to the ticket.
-   1. Alternatively, you can use Zendesk search with the term `priority: urgent` to find the ticket.
+   1. Alternatively, use Zendesk search with the term `priority: urgent` to find the ticket.
 1. If you are simultaneously on an [FRT or SLA Hawk shift](/handbook/support/workflows/meeting-service-level-objectives.html), ask in Slack for someone to takeover those duties.
 1. Create a Public Comment in the ticket acknowledging the emergency; offer a Zoom call to the customer.
 1. Only Resolve the PagerDuty alert _after_ you have contacted the customer. This means that you are actively handling the emergency now and will see it through.
 1. Start a thread in `#support_self-managed` with the ticket link. _"Thread for emergency ticket LINK HERE"_.
-1. OPTIONAL: Consult our [definitions of support impact](/support/#definitions-of-support-impact) and evaluate the customer's problem statement against the "Emergency" definition there. Even if you don't think that this qualifies as an emergency, follow the guidance given in the [Assume Good Intent](#assume-good-intent) section.
+1. **OPTIONAL:** Consult our [definitions of support impact](/support/#definitions-of-support-impact) and evaluate the customer's problem statement against the "Emergency" definition there. Even if you don't think that this qualifies as an emergency, follow the guidance given in the [Assume Good Intent](#assume-good-intent) section.
 1. After 30 minutes, if the customer has not responded to our initial contact with them, let them know that the emergency ticket will be closed and that you are opening a normal priority ticket on their behalf. Also let them know that they are welcome to open a new emergency ticket if necessary.
 
 **NOTE:** If you need to reach the current on-call engineer and they're not accessible on Slack (e.g., it's a weekend, or the end of a shift), you can [manually trigger a PagerDuty incident](https://support.pagerduty.com/docs/incidents#section-manually-trigger-an-incident) to get their attention, selecting **Customer Support** as the Impacted Service and assigning it to the relevant Support Engineer.
