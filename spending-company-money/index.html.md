@@ -68,10 +68,10 @@ These instructions apply if a team member is unable to purchase items, for whate
 Slack channel
 
 1.  **Expenses Reports approval deadline**
-    * Australia, Germany, New Zealand, Netherlands, United States - as soon as possible
-    * United Kingdom - all expense reports must be approved by manager no later than the 14th of each month.  Team members - please be sure to submit your report(s) couple days before the due date so your manager has enough time for approval.
-    * Canada - all expense reports must be approved by manager before 1st day of each payroll period.
-    * All non-US contractors - all expense reports must be approved by manager no later than the 8th of each month. Team members - please be sure to submit your report(s) couple days before the due date.
+    * Australia, Germany, New Zealand, Netherlands, United States - After approval completion by manager and accounts payable
+    * United Kingdom - All expense reports must be approved by the Manager and Accounts Payable no later than the 14th of each month.  Team members - please be sure to submit your report(s) couple days before the due date so your manager and accounts payable have enough time for approval.
+    * Canada - All expense reports must be approved by manager and accounts payable before 1st day of each payroll period.
+    * All non-US contractors - All expense reports must be approved by manager and accounts payable no later than the 8th of each month. Team members - please be sure to submit your report(s) couple days before the due date.
 
 
 
