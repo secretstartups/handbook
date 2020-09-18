@@ -33,6 +33,16 @@ The current coverage includes:
 
 Please also note that this is a taxable benefit. The underwriting is on a Moratorium basis, meaning that team members will not have cover for treatment of medical problems they may have had in the five years before joining. Please refer to page 14 in the AXA PPP Brochure for more information.
 
+### Obtaining a Medical Insurance Quote
+
+During Vistra's initial onboarding email to enroll in the scheme, they will provide a quote for a team member to add coverage and an estimate for adding dependents. The cost of dependendent cover can be estimated as follows:
+
+| Tier | Multiplier |
+|------|------------|
+| Team Member + Spouse | 2x Team Member Premium |
+| Team Member + Child(ren) | 1.6x Team Member Premium |
+| Family | 2.5x Team Member Premium |
+
 ## Life Insurance
 
 GitLab is currently reviewing implementing life insurance and disability in the following [issue](https://gitlab.com/gitlab-com/people-group/Compensation/issues/42).
