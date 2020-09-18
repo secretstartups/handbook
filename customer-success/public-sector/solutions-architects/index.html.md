@@ -44,16 +44,16 @@ Responding to a Request for _____ (RFx) is part of the standard process within P
 
 ### Evaluating RFI and RFPs for response
 
-Solutions Architects have a big role in responding to RFIs and RFPs where there are considerable number of technical asks.  There is a saying used commonly when responding `Make sure you answer the mail`. This has two connotations:
+Solutions Architects have a big role in responding to RFIs and RFPs where there are considerable number of technical asks.  There is a saying used commonly when responding: `Make sure you answer the mail`. This has two connotations:
 
 1. Evaluate what is asked for and do your best to address it, and
 1. Answer the questions directly and provide context
 
-But more importantly, be sure that there is a product fit. When you read what is asked for in the RFI/RFP is not directly met with GitLab, or seems too much like a different software entirely, then stop and talk to your Strategic Account Leader or Inside Sales Rep.  Rule of thumb is to evaluate 80/20 fit.  If GitLab can't meet more than 20% of the requirements directly, then it is time to have a conversation with the SAL/ISR.
+But more importantly, be sure that there is a product fit. When you read what is asked for in the RFI/RFP is not directly met with GitLab, or seems too much like a different software entirely, then stop and talk to the Strategic Account Leader or Inside Sales Representative.   
 
 ### Responding to RFIs
 
-RFIs are generally issued to shape procurement. In some situations, they are just a step in the process as the customer may already have an advising team that may be following protocol. An RFI is generally non-binding unless otherwise specified. Responses to questions in an RFI don't have to be precise. They can have some idealistic statements to lay the groundwork and pivot points to educate the customer on what we offer. It is good to follow the GitLab Value Framework response methodology, as there is no ability to have a dialog. The RFI is about positioning. Provide context around the following factors that can grab the attention of the readers:
+RFIs are generally issued to shape procurement. In some situations, they are just a step in the process as the customer may already have an advising team that may be following protocol. An RFI is generally non-binding unless otherwise specified. Responses to questions in an RFI don't have to be precise. They can have some idealistic statements to lay the groundwork and pivot points to educate the customer on what GitLab offers. It is good to follow the GitLab Value Framework response methodology, as there is no ability to have a dialog. The RFI is about positioning. Provide context around the following factors that can grab the attention of the readers:
 
 - Positioning and value of the product
 - Truth about capabilities
@@ -74,7 +74,7 @@ For example, if the question asks for a Roadmap for the next product release, it
 
 If, however, the customer asks for a descriptive concept like the architecture of GitLab, use that as a way to include as much detail as possible inline, a summary of why the architecture is what it is, including the benefits, and then a link for them to read more. Also, including images and screenshots is highly encouraged where possible.
 
-The customer may ask for a description of the CI process or other complex process. In these cases, it is acceptable to copy as much of the documentation from our documentation as possible, including many details to differentiate GitLab from competitive products. Using CI as an example, include a description of how GitLab CI operates, a description of the yml file, a link to the yml file documentation, and add information regarding unique or differentiating functions that GitLab offers like Auto DevOps, DAG, multi-project pipelines, etc.
+The customer may ask for a description of the CI process or other complex process. In these cases, it is acceptable to copy as much of the documentation from our documentation as possible, including many details to differentiate GitLab from competitive products. Using CI as an example, include a description of how GitLab CI operates, a description of the yml file, a link to the yml file documentation, and add information regarding unique or differentiating functions that GitLab offers like Auto DevOps, Directed Acyclic Graphs, multi-project pipelines, etc.
 
 ### Tips and Tricks in Response Writing
 
