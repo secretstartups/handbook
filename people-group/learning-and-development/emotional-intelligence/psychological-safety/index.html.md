@@ -66,7 +66,15 @@ Psychological safety has impacts on diversity and inclusion in organizations. Ev
 1. Build a speak-up culture.
 1. Highlight competencies.
 
-This list is from a [Grant Thornton article](https://www.grantthornton.com/library/articles/advisory/2020/psychological-safety-speak-up-culture.aspx).
+The above list is from a [Grant Thornton article](https://www.grantthornton.com/library/articles/advisory/2020/psychological-safety-speak-up-culture.aspx).
+
+It is important to enable a human-to-human approach and realize the other party is more like you than different. The reflection activity is called “Just Like Me” [developed by Paul Santagata](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it) asks you to consider: 
+
+- This person has beliefs, perspectives, and opinions, just like me.
+- This person has hopes, anxieties, and vulnerabilities, just like me.
+- This person has friends, family, and perhaps children who love them, just like me.
+- This person wants to feel respected, appreciated, and competent, just like me.
+- This person wishes for peace, joy, and happiness, just like me.
 
 ## Additional Resources 
 - Read: [The Role of Psychological Safety in Diversity and Inclusion](https://www.psychologytoday.com/us/blog/the-fearless-organization/202006/the-role-psychological-safety-in-diversity-and-inclusion) - Psychology Today 
