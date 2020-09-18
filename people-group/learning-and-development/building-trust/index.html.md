@@ -31,7 +31,7 @@ People Leaders should make every effort to build trust as soon as they mobilize 
 
 ### Personality Assessments
 
-Getting to know your people through personality assessments is a great tool to build trust. Personality assessments can help teams understand how they are different and enable managers to better understand their direct reports. The results can shine a light on ways you can adapt your processes in a way that is most effective for different team members. The results are not set in stone but assessments can help team members get to know each other quicker. 
+Getting to know your people through personality assessments is a tool to build trust. Personality assessments can help teams understand how they are different and enable managers to better understand their direct reports. The results can shine a light on ways you can adapt your processes in a way that is most effective for different team members. Remember when we use personality assessments, it is essential to not type-cast team members into their assessed personality results. Instead use them as a tool to facilitate more meaningful conversations amongst your team. 
 
 An abundance of free personality assessments are available. Several are outlined below:
 
@@ -40,18 +40,23 @@ An abundance of free personality assessments are available. Several are outlined
 - [Gallup Strengths Finder](https://www.gallup.com/cliftonstrengths/en/252137/home.aspx) 
 - [16 Personalities](https://www.16personalities.com/) (also known as Myers-Briggs)
 - [DISC Personality Test](https://discpersonalitytesting.com/free-disc-test/)
+- [HEXACO Personality Inventory](https://hexaco.org/hexaco-online)
 
-**How to apply personality assessments:** People leaders should have all team members take a personality assessment when they first join their team. Managers can examine personality assessment results and have strength-based discussions with their people. When we embrace our unique strengths and the unique strengths of our team members, we all feel more engaged, more productive, more valued, and more trusted. They should encourage their team members to share their strengths / styles with the team. 
+**How to apply personality assessments:** People leaders can have all team members take a personality assessment when they first join their team. Managers can examine personality assessment results and have strength-based discussions with their people. However, it is essential to never type-cast team members based on their results. Use personality assessments as a tool to facilitate trust and get to know each other. When we embrace our unique strengths and the unique strengths of our team members, we all feel more engaged, more productive, more valued, and more trusted. They should encourage their team members to share their strengths / styles with the team. In addition, team members can take personality assessment and update their READMEs accordingly with personality assessment information if they choose to.  
 
-### Use a One-Slider 
+### Use a One-Slider Personal Summary
 
-A one-slider is a great tool for remote teams to get to know one another. Consider using the [template and example](https://docs.google.com/presentation/d/1N-fNiIBAc8_HefLyPTi4HEhoFkcCDLW_Ntx8wqmEQ9c/edit#slide=id.g822466666c_0_232) as a starting point. The one-slider can be adapted to whatever questions or facts you'd like to learn more about. One-sliders allow team members to share fun facts about themselves in a remote setting. You can be creative and ask entertaining questions! When someone joins the team, have them fill out a one-slider and use it to introduce themselves to the team. They are fun, easy, and can help to build trust by getting to know one another more easily in a remote setting. 
+A one-slider personal summary is a tool for remote teams to get to know one another. Consider using the [template and example](https://docs.google.com/presentation/d/1N-fNiIBAc8_HefLyPTi4HEhoFkcCDLW_Ntx8wqmEQ9c/edit#slide=id.g822466666c_0_232) below as a starting point. The one-slider can be adapted to whatever questions or facts you'd like to learn more about. One-sliders allow team members to share fun facts about themselves in a remote setting. You can be creative and ask entertaining questions! When someone joins the team, have them fill out a one-slider and use it to introduce themselves to the team. They are fun, easy, and can help to build trust by getting to know one another in a remote setting. 
 
-**How to apply one-sliders:** Before the next team call, ask one or two members of the team to pre-populate a one-slider a day or two in advance of the meeting. Spend the first five to ten minutes of the meeting having the designated team members share their one-sldier. Give everyone an equal amount of time and encourage everyone on the call to ask questions about what makes them unique. 
+**How to apply one-sliders:** Before the next team call, ask one or two members of the team to pre-populate a one-slider a day or two in advance of the meeting. Spend the first five to ten minutes of the meeting having the designated team members share their one-slider. Give everyone an equal amount of time and encourage everyone on the call to ask questions about what makes them unique. 
+
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTiYHr_SxtAHAcFr5Y5Lrnk39WMyNIRMqMiezKEHsG_dm_3Jd3a6jM1rDEycpCVVn5ZOZeySKHJeNQM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
 
 ### Optional Weekly Team Social Call
 
-Optional social calls are a great strategy to increase trust. Anyone can organize one. They are great tools to come together as a team informally. The secret is to make the meeting non-work related. Attendees are able to share photos related to the topic during their time speaking. Example optional social call topics:
+Optional social calls are a strategy to increase trust. Anyone can organize one. They are tools to come together as a team informally. The secret is to make the meeting non-work related. Attendees are able to share photos related to the topic during their time speaking. Example optional social call topics:
 
 - Top three songs of all time (you can play short snippets of a song) 
 - Favorite foods
@@ -69,7 +74,7 @@ To be inclusive of time zones and those who may not prefer these types of social
 
 The Zoom feature to upload [any background image](/handbook/tools-and-tips/zoom/#virtual-background) of your choice is a fun tool to use for an ice breaker. Managers can ask their team to come to a meeting with a background of their favorite place to vacation, or a place they hope to visit one day, and much more. It’s a great feature that can add some fun to calls and build unity. Spend the first five minutes of a meeting talking about the Zoom background and giving everyone in the meeting a voice. 
 
-**How to apply Zoom background ice-breakers:** Team members can do this for as many meetings as they like. If it is team discussion, spend the first five minutes of the meeting doing a round robin of the background. Managers can implement a rotation of DRIs ([directly responsible individuals](/handbook/people-group/directly-responsible-individuals/)) in charge of the ice-breaker by assigning different team members. 
+**How to apply Zoom background ice-breakers:** Team members can do this for as many meetings as they like. If it is a team discussion, spend the first five minutes of the meeting doing a round robin of the background. Managers can implement a rotation of DRIs ([directly responsible individuals](/handbook/people-group/directly-responsible-individuals/)) in charge of the ice-breaker by assigning different team members. 
 
 ### Give Credit to Team Members
 
@@ -95,13 +100,19 @@ Managers should be open to [receiving feedback](/handbook/people-group/guidance-
 
 As people, we have a natural tendency to make assumptions about others, which means that once someone becomes a manager they might unintentionally favor some team members over others. [Unconscious bias](/company/culture/inclusion/unconscious-bias/) contributes to a major loss in trust between managers and employees.
 
-**How to apply overcoming unconscious bias:** There are a host of free resources available to overcome unconscious bias. Managers and team members should spend time understanding their bias. Take the [implicit-association test (IAT)](company/culture/inclusion/unconscious-bias/#can-i-test-it/) as a first step. Block time on your calendar to take [Diversity, Inclusion, and Belonging](/company/culture/inclusion/) related training every quarter. Apply empathy to discussions amongst your team and put yourself in others shoes to better understand their perspective. 
+**How to apply overcoming unconscious bias:** There are a host of free resources available to overcome unconscious bias. Managers and team members should spend time understanding their bias. Take the [implicit-association test (IAT)](https://implicit.harvard.edu/implicit/) as a first step. Block time on your calendar to take [Diversity, Inclusion, and Belonging](/company/culture/inclusion/) related training every quarter. Apply empathy to discussions amongst your team and put yourself in others shoes to better understand their perspective. 
 
 ### Take Time Out To Learn
 
 Managers can make it clear that they have a vested stake in team members career development by advocating for their team to take time to learn. Team members look to their managers to provide learning guidance. As a People Leader, send your team interesting articles, thought leadership studies, videos, etc, on the latest trends in your domain. Managers should advocate to take time to learn for reskilling and upskilling on a range of topics relevant to the job. Managers can set an example by fostering a learning culture within the organization by sending a strong message that it is okay to take time out to learn.
 
 **How to apply taking time out to learn:** People leaders can send a clear message to their teams by sending them weekly learning excrcises to break up the workweek. Try sending out interesting webinars and articles that are relevant to their job family. Encourage team members to take advantage of our tuition reimbursement policy to grow professionally. Managers can also encourage their team to block a portion of their week for focusing on professional development.  
+
+### "No Work Talk" Team Chats
+
+Managers can set up a more relaxed call with their team that is specifically focused on personally getting to know one another as individuals. It helps to remind us all that at the end of the day, we're people and we have unique hobbies, interests, and milestones happening in our lives! **The only rule for this call: no talking about work!** 
+
+**How to apply "no work talk" team chats:** People leaders can set up a calendar invite (with all team members marked as optional) weekly or at a desired cadence. Encourage team members to join and get to know each other better in a remote environment. Come prepared with some possible ice breakers if the conversation doesn't immediately flow. An easy one: what are your plans for the weekend? Timezones can be tricky, so if you're team is represented globally and it's not possible to schedule a single time for all team members to join, it is recommended to rotate the time weekly so that everyone can be included.
 
 ## Summary
 

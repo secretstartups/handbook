@@ -1,8 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Assessment Tool"
+title: Assessment Tool
 ---
-
 ## On this page
 {:.no_toc}
 
@@ -17,6 +16,9 @@ It's currently still a very basic tool that tries to replace the previous/curren
 
 ### Creating an Account
 
+The tool is in active development and is currently unavailable. Once we are ready to enable access, we will replace this notice with the directions to access the tool.
+{: .alert .alert-info}
+
 To use it, you can sign up with a GitLab email address - note: this needs to be your email address that is also known on BambooHR. This is needed as we need to fetch some data from BambooHR.
 
 Once you've signed up, you will receive an email to confirm. When you do this, it will link your email address with your BambooHR ID (that we then later on will use to fetch data from BambooHR itself).
@@ -25,16 +27,27 @@ There's [an issue](https://gitlab.com/gitlab-com/people-group/peopleops-eng/asse
 
 ### Data used from BambooHR
 
-The data we currently use from BambooHR on a user level is:
+The tool uses BambooHR as the single source of truth for all the team members data. It has read-only access to the following fields:
 
-- email
-- division
-- department
-- job title
-- region (Americas, EMEA or JAPAC)
-- who your supervisor is
-- who your direct reports are (if applicable)
-- status: so we only look at active team members
+- Name
+- Email
+- Division
+- Department
+- Job Title
+- Region (Americas, EMEA or JAPAC)
+- Supervisor
+- Status
+- Date of Birth
+- Entity
+- GitLab username
+- Gender
+
+The access level for the API token is approved by the Total Rewards Team, if more access is needed an Access Request needs to be created.
+
+The tool does not display the gender or date of birth with an individual it is used in an aggregated way to show statistisc about
+tendencies with the assessments. 
+
+We follow our [confidentiality rules](https://about.gitlab.com/handbook/people-group/engineering/#confidentiality) for this project and mirror it to a private project on ops.gitlab.net.
 
 ### How to use the tool
 
@@ -50,9 +63,10 @@ Once you're ready, you need to create an account (see "Creating an Account" sect
 When you save the assessments, they will be visible for your manager (and their manager and so on).
 
 Note: that for directors and up, there is an extra option to **confirm** the assessments. This is a way to say that the assessment
-has been *approved*. In a future iteration, we could decide to send the box to BambooHR (like we do for compa level). 
+has been _approved_. In a future iteration, we could decide to send the box to BambooHR (like we do for compa level).
 
 #### As a People Business Partner
+
 If you have any direct reports, you will also be able to use the tool to assess your team members. However, you will also have access
 to assess all the team members that are within your PBP responsibilities. Currently we decided that you have full access to also
 assess these team members - instead of just giving read access to this data.

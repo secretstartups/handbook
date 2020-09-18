@@ -272,4 +272,4 @@ New team members based in the Netherlands will send an email to people-exp@gitla
 1. Type in the search bar the meeting ID - This can be found on the calendar invite. > Search 
 1. Select Export
 1. Go to the downloads page. It will take a few minutes for the report to be ready, refresh your page if it is not loading. 
-1. C+P this data into the All-Time Data for Take a Break-Social Call Google Sheet. This is saved People Experience Google Shared Drive. 
+1. C+P this data into the `Social Call` tab in the All-Time Data for Take a Break-Social Call Google Sheet. This is saved People Experience Google Shared Drive. 

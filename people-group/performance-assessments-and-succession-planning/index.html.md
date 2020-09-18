@@ -9,17 +9,20 @@ title: Performance Assessment and Succession Planning
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Talent Assessment Options
+#### Overview
 
-There are many Talent Assessment Options.
-Some of the ones considered were:
-* 9 Box: [The performance/potential matrix](/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix)
-* 9 Box: [Talent placement](/handbook/people-group/performance-assessments-and-succession-planning/#talent-placement)
-* 4 Box: [Skill/will matrix](/handbook/people-group/performance-assessments-and-succession-planning/#skillwill-matrix)
+GitLab's Performance/ Potential Matrix Assessment process, forms part of our [Talent Development Program](https://about.gitlab.com/handbook/people-group/talent-development-program/). Our e-group completes Performance/ Potential Matrix Assessment's quarterly on all their direct reports, the rest of GitLab is doing this twice annually, ideally within Q2 and Q4.
+To ensure we remain efficient, we built a [Performance/Potential Assessment Tool](https://about.gitlab.com/handbook/people-group/engineering/assessment-tool/), this is currently [(CY20-Q3 / FY21-Q3)](/handbook/communication/#writing-style-guidelines) being tested by a few teams, to provide feedback.   
+
+
+There are many Talent Assessment Options, we have opted to use a Performance/ Potential Matrix Assessment, ideally completed after our 360 feedback annually, with next steps focused on [Career Development Conversations](https://about.gitlab.com/handbook/people-group/leadership-toolkit/career-development-conversations/). 
+* [Performance/Potential Matrix](/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix)
+* [Talent Placement](/handbook/people-group/performance-assessments-and-succession-planning/#talent-placement)
+* [Skill/Will Matrix](/handbook/people-group/performance-assessments-and-succession-planning/#skillwill-matrix)
 
 #### The Performance/Potential Matrix
 
-**9 Box Performance Potential matrix (Leadership)**
+**Performance/Potential Matrix (Leadership)**
 
 | | | | |
 |-----------------|---------------|---------------|----------------|
@@ -28,7 +31,7 @@ Some of the ones considered were:
 | **Underperformance** | Below average performance and inconsistent leadership behaviors; operating from previous business models despite feedback focus is on performance management | Average to below average performance with limited capacity to increase performance through management and leadership capabilities; focus is on evaluating fit in the role; development is on improving performance | High Potential leader who is underperforming due to newness of role, business strategy or management team: focus is on enhancing contribution and leveraging leadership capabilities |
 | Performance ↑ Potential → | **Low Potential** | **Medium potential**| **High Potential**|
 
-**9 Box Performance Potential matrix (Individual Contributor)**
+**Performance/Potential Matrix (Individual Contributor)**
 
 | | | | |
 |-----------------|---------------|---------------|----------------|
@@ -46,10 +49,9 @@ The performance/potential matrix can be a diagnostic tool for development.
 
 Potential refers to the ability and desire of a team member to successfully assume increasingly broad or complex responsibilities and scale with the company, as compared to peers. This could include a move up to the next level, and/or a lateral move. 
 
-#### Talent Placement
-
-The Talent placement process is loosely as follows:
-* Managers complete a 9 box performance/potential matrix for their staff; Roll up through Executive Team
+#### Guidelines on the Placement of Talent in the Performance/Potential Matrix Assessment: 
+{DRAFT, additional guidelines will be added by September 30th}
+* Managers complete a Performance/Potential Matrix for their staff; Roll up through Executive Team
 * Talent Review Manager Meeting: All people managers come together to review and discuss results across the organization for each role. Changes are made as appropriate.
 * Executive Review: Leadership meets to review the TRP Results; Promotion Requests; Review Development and Performance Actions; Review Discrepancies; Monitor Progress from previous TRP series.
 * Final TRP results shared with managers: Manager education session with next steps and action plans
