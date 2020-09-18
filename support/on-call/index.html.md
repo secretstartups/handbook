@@ -51,7 +51,7 @@ If another support engineer joins your emergency call, feel free to assign them 
 
 ### Take care of yourself
 
-Make an effort to actively de-stress during your on-call shift. After being on-call, consider taking time off, as noted in the [main GitLab Handbook](/handbook/paid-time-off). Just being available for emergencies and outages causes stress, even if there are no pages. Resting is critical for proper functioning. Just let your team know.
+Make a real effort to de-stress during your on-call shift. After being on-call, consider taking time off, as noted in the [main GitLab Handbook](/handbook/paid-time-off). Just being available for emergencies and outages causes stress, even if there are no pages. Resting is critical for proper functioning. Just let your team know.
 
 When you're in a customer call, don't feel pressure to provide _immediate_ answers. You're allowed to pause for a few minutes for researching, asking for help, etc. Make sure to communicate -- let the customer know what you're doing. Example: "I need a few minutes to work through the code here and make sense of it".
 
