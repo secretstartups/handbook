@@ -39,7 +39,7 @@ There are three levels of access - `Admin`, `Author`, `Reporter` - which are gra
 
 ## Training
 
-*  [Knowledge base](https://lookbookhq.force.com/nook/s/kb) (requires separate login)
+*  [Knowledge base](https://lookbookhq.force.com/nook/s/kb) (requires user seat in PathFactory and separate password)
 *  [Getting started video series](http://successwith.pathfactory.com/c/lookbookhq-tutorial-?x=Blrk3E)
 *  [Digital marketing brown bag session overview](https://drive.google.com/open?id=1Hzb6ard48k-11r5a8oBDD_NLjeZnkMK2) - [Slides](https://drive.google.com/open?id=1XxOIE2O-VW0I9z09kpLs5ops52oF6iDSP1a1MF8NkGY)
 *  [Author role training (Do not share externally - PII data presented)](https://drive.google.com/file/d/1YdK96hzDj043iESfDXV7ejz5sgbIXKCv/view?usp=sharing)
@@ -260,6 +260,22 @@ This is where you will choose how your content track displays to the visitor. No
         * Available overrides:
             * Inactive tab title
             * Delay (seconds)
+
+##### CTAs
+
+[Using CTA Buttons](https://nook.pathfactory.com/nook/s/article/using-cta)
+
+**Create a CTA**
+
+1. Click the settings (gear icon) and navigate to `CTAs` under `User Experience`. 
+1. Click the `Add CTA` button. 
+1. Enter a name for the CTA (internal purposes only). Be specific so others know what the main goal of the CTA is.
+1. Enter a button label for your CTA. This is what the user will see. Copy for CTAs should typically be 2-3 words max (18 characters) and include action words such as `Watch a demo`.
+1. Choose your CTA type (form, link, email). 
+  - If choosing **form** as your CTA type, **it must include** proper capture tags and script. Do not choose a `WIP` form as your CTA. If you are unsure whether your form is set up properly, ping `@sdaily`.
+  - If choosing **link** as your CTA type, **it must include** UTM paramters for proper tracking (ex: `utm_source=pathfactory&utm_medium=cta-name`)
+  - For **email**, simply input the email address you want users to contact from clicking the CTA.
+1. Click `Save`.
 
 ##### Form strategy
 
