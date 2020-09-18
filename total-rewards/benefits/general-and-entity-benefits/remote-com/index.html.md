@@ -128,4 +128,50 @@ A male team member is entitled to 5 working days as paternity leave.
 ### Sick Leave
 
 Team members unable to work because of a nonwork-related injury or illness and who have made payments into the social security system for the four weeks before the condition developed are eligible for paid sick leave through the Social Security Institute. The benefit, which is 60% of an employee’s regular wage, is paid from the fourth day of the illness for up to 52 weeks and maybe extended for another 52 weeks. 
+
+## Hungary
+
+### Social Security
+
+As per Hungarian Social Security Act:
+* Employer contributon is 17.5% of gross salary as social tax. Hungarian resident employers also pay a 1.5% of gross salary as contribution to the vocational training fund (Total 19%). All contributions are uncapped.
+* Member contribution is 10% of gross salary as `Pension`, 7% of gross salary as `health insurance` and 1.5% of gross salary as the `unemployment fund` (Total 18.5%). These contributions are uncapped.
+
+### Medical Benefits
+
+Remote is providing SafetyWing as health insurance. (Details to be added by Total Rewards)
  
+### Life Insurance
+
+$500,000 cover 10 year term (Details to be added by Total Rewards)
+
+### Remote Hungary Leave Policy
+
+#### Statutory Maternity Leave
+
+The statutory entitlement for maternity leave is 24 weeks. The leave must start **4 weeks prior to the scheduled delivery date**. During the entire period of maternity leave, the team member is entitled to 70% of her average salary, if she is regarded as insured under the Health Insurance Act LXXXIII. of 1997.
+
+#### Statutory Paternity Leave
+
+A male team member is entitled to `five` days paid leave, and `seven` days paid leave in case of twins, which they may take in one or in several parts until the end of the second month after the birth. Any income and taxes related to this period of supplementary leave are reimbursed to the employer by the Hungarian State Treasury. (Labour Code §118)
+
+#### Statutory Parental Leave
+
+The team member shall be entitled to a leave of absence without pay in order to care for the child until the child reaches the age of `three` or in order to care for the child until the child reaches the age of `ten`, if the team member receives a child care allowance. (Labour Code §128, 130, 118)
+
+Additionally to parental leave, workers are entitled to extra vacation days based on the number of children they have: 
+a) two working days for one child; 
+b) four working days for two children; 
+c) a total of seven working days for more than two children under sixteen years of age.
+
+### SZÉP Card (Széchenyi Pihenő Card)
+As per Government Decree no. 140/2020 dated 21 April 2020: Increase and exemption from the social contribution tax in the form of the Széchenyi Pihenő Card - as a fringe benefit
+
+The total annual frame amount will change to HUF 800,000 for companies in private sectors. Hence the new break up is: 
+
+| Sr. No. | SZÉP card categories | Maximum limits                                  |
+|---------|----------------------|-------------------------------------------------|
+| 1       | Meal                 | HUF 265,000 per annum (SZÉP kártya vendéglátás) |
+| 2       | Leisure              | HUF 135,000 per annum (SZÉP kártya szabadidő)   |
+| 3       | Accommodation        | HUF 400,000 per annum (SZÉP kártya szálláshely) |
+
