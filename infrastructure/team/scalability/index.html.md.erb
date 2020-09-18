@@ -189,101 +189,36 @@ graph LR
 
 #### Project Structure
 
-Projects must have the following items in the epic description:
+The epic for the project must have the following items:
 
 1. **Background**, including a problem statement, to provide context for people looking to understand the project.
 1. **Exit criteria** for the specific goals of the project.
     1. These are created as issues with the `exit criterion` label in the epic and are linked in the description.
     1. We create these at the start of the project to allow us to keep focused on our goal, and use [blocking issues](https://docs.gitlab.com/ee/user/project/issues/related_issues.html) to indicate the state of each exit criterion.
-1. **Start date** is set to the expected start date, and updated to be the actual start date when the project begins.
-1. **Due date** is set to be the expected end date.
-    1. This should be seen as a target, and this target is re-evaluated every few weeks while the project is in progress. The date that a project actually ended is taken from the date that the epic was closed.
 1. **Status yyyy-mm-dd** should be the final heading in the description.
     1. This enables others who are interested in the epic to see the latest status without having to read through all comments or issues attached to the epic.
     1. This heading is used to auto-genetate the status information on the top-level epic.
-
-### Prioritization Process
-
-The diagram below describes how the work gets created in the Scalability team, and added to the top-level epic [Scaling GitLab.com epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/148):
-
-```mermaid
-graph LR
-  observe("👀 Observe")
-  style observe fill:#fed217,stroke-width:4px,stroke:#dddd
-  analyse("🔬 Analyse")
-  style analyse fill:#fec612
-  propose("💡 Propose Improvements")
-  style propose fill:#fec612
-  triage("🤹 Triage")
-  style triage fill:#feaf09
-  devanddeploy("🐿️ Develop & Deploy")
-  style devanddeploy fill:#fea404
-  assess("🔦 Assess")
-  style assess fill:#fe9900
-
-  observe --> analyse
-  analyse --> propose
-
-  subgraph Scalability Issue Tracker
-     propose --> triage --> devanddeploy --> assess
-  end
-```
-*Note* If you are not seeing the diagram, make sure that you accepted all cookies.
-
-The process contains 6 cyclical stages:
-
-1. **Observe** - What is causing SLA and SLO degradations on GitLab.com?  Monitor the 4 golden signals provided by general
-metrics (latency, traffic, errors, saturation) for each service, looking for SLA breaches (for latency, errors, saturation)
-and prioritising for the worst breaches
-1. **Analyse** - Why is availability being reduced, do we have all information, and are our metrics sufficient? Investigate
-the major causes leading to reduction in availability on GitLab.com.  What are the reasons for these degradations and outages?
-Investigate to understand the cause.
-1. **Proposed Improvements** - Issue with a (partial, temporary or full, permanent) proposal is created on the Scalability
-tracker, with one or more additional issues in other trackers as required, including estimated SLA improvements for services
-affected. Improvements can include changes to the infrastructure, changes to the application, and changes to our observability.
-Issues involving substantial effort will be promoted to Epics so that issues encapsulating this effort can be tracked as a project.
-1. **Triage** - Prioritise changes based on pre-defined set of [rules](#priorities) and according to expected availability
-improvements. Tickets can be either delegated to engineering teams via the infra/dev process, delegated to infrastructure
-(via TBD process), or implemented by the scalability team
-1. **Development & Deployment** - The work on developing and ensuring that the change has no unexpected effects is executed
-by the owner defined in the previous stage.
-1. **Assessment** - Assessment of the implemented change is done through retrospecting on the expected and observed state.
-The retrospective process is documented in an issue that is marked related to the original issue driving the change.  Can
-we see the changes we expected following the deployment of this change?  If not, why is this?
-
-### Triage rotation
-
-We have automated triage policies defined in the [triage-ops
-project](https://gitlab.com/gitlab-com/gl-infra/triage-ops). These
-perform tasks such as automatically labelling issues, asking the author
-to add labels, and creating weekly triage issues.
-
-We rotate the triage ownership each month, with the current triage owner
-responsible for picking the next one (a reminder is added to their last
-triage issue).
-
-There are three issues created weekly:
-
-1. Board refinement - walk through the [Planning Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1697168) and move
-   issues forward towards `workflow-infra::Ready` where possible.
-2. `Service::Unknown` refinement - go through issues marked `Service::Unknown` with the goal of adding a defined service, where possible.
-3. Review request processing - the goal is to move these issues to `workflow-infra::In Progress`, either through picking them up
-   directly, or asking on our team channel if any one else is able.
+1. **Start date** is set to the expected start date, and updated to be the actual start date when the project begins.
+1. **Due date** is set to be the expected end date.
+    1. This should be seen as a target, and this target is re-evaluated every few weeks while the project is in progress. The date that a project actually ended is taken from the date that the epic was closed.
 
 ### Issue boards
 
 The Scalability team [issue boards](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/) track
-the progress of ongoing work. Purpose of some of the more important issue boards
-are described below:
+the progress of ongoing work.
 
-1. [Planning Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1697168)
-  - Shows all work in Triage or Proposal that are the current focus for the team.
-1. [Build Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1697160)
-  - Work that is ready to be built, or actively in development.
-1. [Abandoned work board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1428754)
-  - Tracks the work that is not progressing.
-1. Individual services board, for example [Sidekiq board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1428695)
-  - Tracks the workload for the individual service.
+On the **planning board**, the goal is to get issues into a state where we have enough information to build the issue.
+However, not all issues that are `workflow-infra::Ready` to be built should be scheduled for development right away. Some
+issues may be too big, or have too low a priority. This means not all issues that are `workflow-infra::Ready` on the
+planning board will move to the build board immediately.
+
+Please see the [triage rotation section](#triage-rotation) for when to move issues between the boards.
+
+| **Planning** | **Building**|
+|--------------|-------------|
+| [Planning Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1697168) | [Build Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1697160) |
+| Issues where we are investigating the work to be done. | Issues that will be built next, or are actively in development. |
+| ![Triage](img/label-triage.png)	<br/>![Proposal](img/label-proposal.png) <br/>![Ready](img/label-ready.png) | ![Ready](img/label-ready.png) <br/>![In Progress](img/label-in_progress.png) <br/>![Under Review](img/label-under_review.png) <br/>![Verify](img/label-verify.png) <br/>![Done](img/label-done.png)|
 
 ### Labels
 
@@ -344,6 +279,36 @@ The Scalability team uses priority labels as a means to indicate order under whi
 #### Labels in gitlab-org group
 
 Stage groups use [throughput labels](/handbook/engineering/management/throughput/) to label merge requests in projects in the `gitlab-org` group. The Scalability team is not a part of the stage groups, and labels of importance for the team are explained above. When submitting work in gitlab-org group, we apply ~"team::Scalability" and ~"feature::maintenance" to merge requests by default. The latter label is describing work towards refinement of existing functionality which describes majority of the work the team is contributing.
+
+### Triage rotation
+
+We have automated triage policies defined in the [triage-ops
+project](https://gitlab.com/gitlab-com/gl-infra/triage-ops). These
+perform tasks such as automatically labelling issues, asking the author
+to add labels, and creating weekly triage issues.
+
+We rotate the triage ownership each month, with the current triage owner
+responsible for picking the next one (a reminder is added to their last
+triage issue).
+
+There are three issues created weekly:
+
+1. **Board refinement**
+   1. Using the [Planning Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1697168).
+      1. `workflow-infra::Triage` issues should be checked to make sure the idea is valid. Move the conversation forward
+          and ask for clarification where needed. Do what you can to add more details to develop a proposal.
+      1. `workflow-infra::Proposal` issues should be checked to make sure that the proposal is complete. The benefit of the
+          work should be clear, it should contain a breakdown of tasks, and include steps to validate the outcome.
+      1. `workflow-infra::Blocked` issues should be checked to see if blockers have been removed.
+      1. `workflow-infra::Ready` issues should be moved to the [Build Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1697160) using the following guidelines:
+          1. _Issue part of an active project_ - then move it to the build board, else
+          1. _Issue part of a future project_ - then move it back to the backlog, else
+          1. _Issue is `Scalability::P1` or `Scalability::P2`_ - then move it to the build board, else
+          1. _Other issue that is less than 2 days of work_ - then move to the build board, else
+          1. _Other issue that is larger than 2 days of work_ - raise with the Engineering Manager or discuss in the team's Slack channel.
+2. **`Service::Unknown` refinement** - go through issues marked `Service::Unknown` and add a defined service, where possible.
+3. **Review request processing** - the goal is to move [review request](#scalability-review-requests) issues to `workflow-infra::In Progress`, either
+   through picking them up directly, or asking on our team channel if any one else is able.
 
 ## Choosing something to work on
 
