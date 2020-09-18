@@ -167,13 +167,38 @@ This is also a place to connect socially with the rest of the department. This m
   * Part 2 - Thursday 0730 UTC
 1. **Engineering Productivity Team Weekly**: The Engineering Productivity team meets weekly to discuss engineering wide process improvements. This meeting is scheduled for every Tuesday at 1300 UTC.
 1. **Quality Engineering Staff Weekly**: This weekly brings together Quality Engineering's management team to discuss directional plans, long-term initiatives, hiring goals and address issues that require attention. This meeting is scheduled for every Wednesday at 1430 UTC (adjusts per PDT).
-1. **On-call triage rotation handoff**: This meeting is to facilitate the handoff of the rotation between the timezones. This meeting is scheduled for every Tuesday and Thursday at 8:30am PST.
 1. **Team skip-level**: Every team in Quality has a [skip-level 1:1](/handbook/leadership/skip-levels/) with the Director of Quality every 6 weeks. The purpose of this meeting is to help the department leader be a better manager of themselves and direct line managers.
 
 ### Engineering-wide retrospective
 
 The Quality team holds an asynchronous retrospective for each release.
 The process is automated and notes are captured in [Quality retrospectives](https://gitlab.com/gl-retrospectives/quality/) (GITLAB ONLY)
+
+
+## Engineering Metrics task process
+
+We track work regarding performance indicators in the [Engineering Metrics](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/1942495) board.
+
+The purpose of the board is to:
+* Define workstream of new engineering KPIs and RPIs.
+* Determine order importance of completing each PIs.
+* Clearly identify dependency on the data warehouse for GitLab's Data team to assist.
+
+The delivery of new Engineering KPI/RPI is currently a shared capacity of the [Engineering Productivity](https://gitlab.com/gl-quality/eng-prod) team and the [Development Senior Operations Analyst](https://gitlab.com/lmai1).
+
+### Process
+
+* [Create an issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new) with `~"Engineering Metrics"` to be added to the [Engineering Metrics](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/1942495) board.
+  * State clearly what are the requirements and measures of the performance indicator.
+  * If key performance indicator, apply `~KPI`. If regular performance indicator, apply `~RPI`.
+* The [Director of Quality](https://gitlab.com/meks) is the DRI for triage, prioritization, and assignment.
+  * If work can be done without the need of new data warehouse capabilities, the DRI will schedule and assign the work within Engineering.
+  * If new Data warehouse capabilities are needed from the Data team, a linked issue will be created on the [Data team's Engineering](https://gitlab.com/groups/gitlab-data/-/boards/1496166?label_name[]=Engineering) board.
+    * The [Project (Results) DRI of the Release to Adoption (R2A) Data Fusion Team](https://about.gitlab.com/handbook/business-ops/data-team/organization/#release-to-adoption) is the DRI for triage, prioritization, and assignment. The [Manager, Data - focused on Data Analytics](https://gitlab.com/kathleentam) currently serves this role.
+* Every KPI issue is either assigned to the backlog or given a due date. The Engineering team will propose first a due date, which the Results DRI will confirm if possible or the provide the next possible date.
+  * Discussions to take place in [#eng-data-kpi](https://gitlab.slack.com/archives/C0166JCH85U) as needed.
+* Every new KPI/RPI should follow our [standardized format](/handbook/engineering/performance-indicators/#guidelines).
+* The closure of the issue should be done with a merge request to the performance indicator page(s).
 
 ## Task management
 
@@ -273,7 +298,6 @@ If additional input is needed from the Quality team, the DRI for this is the Dir
 | GitLab SaaS Triage             | `@meks`      | `TBD`       | Weekly          | Review meeting
 | Quality Engineering Staff      | `@meks`      | `TBD`       | Weekly | Review meeting
 | Quality Engineering weekly     | All managers | `TBD`       | Weekly | Review meeting
-| Pipeline on-call rotation standup/hand-off | All managers   | `TBD`       | Twice per week | Sync stand-up
 | Ops section stakeholder review | `@jo_shih`   | `TBD`       | Every 4 weeks | Review meeting
 
 ## Quality Engineering initiatives
