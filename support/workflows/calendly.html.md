@@ -60,9 +60,9 @@ We use this to offer customers the choice between meeting with one engineer, or 
 
 Part of your [support onboarding](/handbook/support/training/), once you're ready and you've been added to the [GitLab Support group account](#GitLab_Support_group_account), is to request to be added to the support call event.
 
-To get added to the support call event:
+To be added to the support call event:
 
-1. [open a Calendly Support Call Inclusion Request](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Calendly%20Support%20Call%20Inclusion%20Request) in the [Support Ops Project](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project)
+1. [open a Calendly Support Call Inclusion Request](https://gitlab.com/gitlab-com/support/support-ops/calendly/-/issues/new?issuable_template=Provisioning%20Request) in the [Support Ops Calendly Project](https://gitlab.com/gitlab-com/support/support-ops/calendly/)
 1. Read through the instructions and specify the hours you'll be available relative to your timezone in both Standard Time and Daylight Saving Time (if applicable) and your [tz database designation](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones) for future automation.
 
 You'll then also be able to generate a single-use link for this event from your browser plugin.
