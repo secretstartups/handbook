@@ -159,14 +159,17 @@ Code Units:
    * This alias is monitored by the Community Advocate team.
 * `@revenue`
    * This alias is leveraged by the Revenue team to review Opportunities and how we will record revenue. [Detailed Response Here](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/859#note_386593491)
+* `@SMB Flat Renewals`
+  * This alias is used by our SMB team for flat renewal support. Please see this [section of the handbook](###) for how this is used. 
 
 **Steps to add a Group:** 
 * Do to limitations with Salesforce much of the minor updates must be implemented manually in production
 * Create a Chatter Group with the alias that you want the end users to be able to chatter in Salesforce (In Production)
 * Create a Queue that will own the Case until it is automatically switched into a users name who will work the case. (Changeset)
    * Review Queue member and email options with requester 
-* Update the `ChatterFeedCommentClass` and the `ChatterFeedItemTest` to monitor for the use of the Chatter Group in chatters within Salesforce (Changeset)
-* Add a picklist value to the `Origin` field on the case object (In Production)
+* Update the `ChatterFeedCommentClass` and the `ChatterFeedItemClass` to monitor for the use of the Chatter Group in chatters within Salesforce (Changeset)
+* Update the `CaseClass` to include the new groups Id so that it updates the case owner what ownd by this queue. 
+* Add a picklist value to the `Origin` field on the case object (In Production) 
 
 **Related Epic**
 * [@Sales-Ops Case Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/7)
@@ -204,7 +207,7 @@ Code Unit:
 
 ## Opportunity Stage Progression Tracking
 <details>
-  <summary markdown="span">Primary Quote System Info</summary>
+  <summary markdown="span">Opportunity Stage Progression Info</summary>
 
 **Business Process this supports** The sales cycle and analytics.
 
@@ -216,7 +219,7 @@ Code Unit:
 
 ## Block Salesforce From Transferring Historical Opp Owners On Account Owner Transfers
 <details>
-  <summary markdown="span">Historical Opportunity Owner Maintanence</summary>
+  <summary markdown="span">Historical Opportunity Owner Maintanence Info</summary>
 **Business Process this supports:** In order to provide reliable and accurate historical data to the analytics team, the sales organization and to the companye as a whole we need to ensure that historical opportunities and relevant information on opportunities is not changed once the opportunity is closed. 
 
 **Overview:** The goal of this blocking logic is to close a backdoor that Salesforce has built into the system. While we have a number of validation rules in place to prevent information from changing on closed opportunities it was possible to change histoircal opportunity owners (as well as fields that are derived from the owner field) while transferring accounts. Anyone who could have been able to change the owner on an account would have been able change historical opportuntiy data that they would not be able to edit otherwise. This logic still allows users to complete this account ownership transfer without any impact to historical opportunities while also allowing the various business teams at GitLab to manually update the owners of opportunites at month close.
@@ -264,7 +267,7 @@ Code Units:
 
 ## Lead Segmentation
 <details>
-  <summary markdown="span">Order Type System Info</summary>
+  <summary markdown="span">Lead Segmentation Info</summary>
 
 **Business Process this supports:** [Sales Segmentation](/handbook/sales/field-operations/gtm-resources/#segmentation)
 

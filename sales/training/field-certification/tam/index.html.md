@@ -22,9 +22,9 @@ The below slide shows the holistic learner journey for TAMs and provides context
 </figure>
 
 ## Onboarding Customers for Success Learning Path 
-This is the first learning path in development for TAMs which will consist of 4 courses. The learning objectives for each course are outlined below.
+This is the first learning path in development for TAMs which will consist of five courses. The learning objectives for each course are outlined below.
 
-** Course 1: SALSA-TAM Meeting**
+**Course 1: SALSA-TAM Meeting**
 * Identify roles & responsibilities in the SALSA-TAM Meeting
 * Review SALSA-TAM Meeting best practices
 * Leverage tools during call 

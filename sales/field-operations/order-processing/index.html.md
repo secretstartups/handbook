@@ -932,7 +932,13 @@ Deal Desk must tag the Revenue Recognition team to review opportunities in the f
 
 ## **Post Sale Information**
 
-The opportunity closed! Congrats! Wait... my customer still has questions! Here are some of the most common questions that come up after an opportunity has closed... and how to resolve them. 
+The opportunity closed! Congrats! Wait... my customer still has questions! Here are some of the most common questions that come up after an opportunity has closed... and how to resolve them.
+
+### How do I know if a License Key was sent to the Customer?
+
+Licensing emails sent to customers are captured and stored in Salesforce as an Activity against the Contact record. This activity will also be related to the Opportunity record, and can be found under "Acitivity History" releated list on the Opportunity.
+
+Task title: `Email: Your GitLab License File`
 
 ### My customer didn't recieve the EULA/License File! Help! 
 

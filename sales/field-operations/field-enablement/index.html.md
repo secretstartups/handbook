@@ -3,6 +3,8 @@ layout: handbook-page-toc
 title: "Field Enablement"
 ---
 
+{::options parse_block_html="true" /}
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -207,8 +209,6 @@ If you have a great training idea and/or enablement request, we'd love to hear i
         - `FE:sales enablement` - label for Field Enablement issues related to enabling Sales roles
         - `FE:partner enablement` - label for Field Enablement issues related to enabling Partners
     - **Initiative labels**
-        - `continuing education` - label for issues related to continuing education
-        - `career dev` - label for issues related to career development
         - `field certification` - label for issues related to /handbook/sales/training/field-certification/
         - `field communications` - label for items that include work by/with the Field Communications team within Field Enablement
         - `field events` - label for Field Enablement-supported events (e.g. QBRs, SKO, President's Club, etc.)
@@ -218,12 +218,14 @@ If you have a great training idea and/or enablement request, we'd love to hear i
             - `vff::accepted` - Value Framework feedback that will be actioned on
             - `vff::deferred` - Value Framework feedback that will be deferred until more information is gathered
             - `vff::declined` - Value Framework feedback that is declined (no action will be taken)
-        - `onboarding` - label for issues related to onboarding
+        - `lxp` - label for GitLab Learning Experience Platform    
+        - `sales onboarding` - label for issues related to sales/field onboarding
         - `QBR` - requests from Sales QBRs
         - `sales enablement sessions` - label for weekly virtual sales enablement series
         - `sko` - label for issues related to Sales Kick Off
         - `status:plan` - used in conjunction with sales enablement sessions to indicate when a session topic has been prioritized but not yet scheduled
         - `status:scheduled` - used in conjunction with sales enablement sessions to indicate when a session topic has been prioritized and scheduled
+        - `strategy` - plans, methods, or series of maneuvers or stratagems for obtaining specific goals or results
     - **Status labels**
         - `FE status::triage` - assigned to new requests before priority status is determined
         - `FE status::wip` - work in progress that has been accepted and assigned to a DRI

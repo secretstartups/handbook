@@ -11,9 +11,7 @@ title: "Sales Quick Start (SQS) Learning Objectives"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Sales Quick Start (SQS) Learning Objectives
-
-### Learning Objectives
+## Learning Objectives
 
 <details>
 <summary markdown="span">Introduction to GitLab</summary>

@@ -22,8 +22,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC                                                                    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Sep 10 | TBD                        | TBD |
-| Sep 17 | Maximizing Value of Partners in a Deal (Co-Selling with Partners Part 2) | David Forsch, Ed Cepulis                        |
 | Sep 24 | Q3 FY21 Competitive Update                                               | Mahesh Kumar                                    |
 |  Oct 1 | Leveraging the GitLab/VMware Alliance                                    | Amy Brandenburg, Sales (TBD)                    |
 |  Oct 8 | Deal Structure Best Practices                                            | Jesse Rabbits, Sales (TBD)                      |
@@ -35,6 +33,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2020-09-10 | **[Accelerating Your Pipeline with AWS](https://youtu.be/iPDPtOUuNls)**            | Private |
 | 2020-09-03 | **[GitLab Standard ROI Models](https://youtu.be/znCrnpTDRoE)** | Public |   
 | 2020-08-27 | **[Demystifying the Metrics Conversation](https://youtu.be/dbB6gzNYsG8)**      | Public        |
 | 2020-08-20 | **[Q3 FY21 GitLab Product Release Update for Sales](https://youtu.be/Wldab4cx9OE)**               | Public      |
