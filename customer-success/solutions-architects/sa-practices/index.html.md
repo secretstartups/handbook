@@ -17,6 +17,6 @@ Solution Architects have various practices:
 
 [TODO] Communities of Practice
 
-[TODO] Deliberate Practice
+[Deliberate Practice](/handbook/customer-success/solutions-architects/sa-practices/deliberate-practice)
 
 [TODO] Effective Objection Handling
