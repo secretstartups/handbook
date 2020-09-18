@@ -76,7 +76,7 @@ If we don't have confidence in the MVC or what success looks like, we should con
 
 One of the primary artifacts of the validation track is the Opportunity Canvas. The Opportunity Canvas introduces a lean product management philosophy to the validation track by quickly iterating on level of confidence, hypotheses, and lessons learned as the document evolves.  At completion, it serves as a concise set of knowledge which can be transferred to the relevant issues and epics to aid in understanding user pain, business value, and the constraints to a particular problem statement. Just as valuable as a completed Opportunity Canvas is an incomplete one. The tool is also useful for quickly invalidating ideas. A quickly invalidated problem is often **more valuable** than a slowly validated one.
 
-Please note that an opportunity canvas is not required for product functionality or problems that already have well-defined [jobs to be done (JTBD)](/handbook/engineering/ux/ux-resources/#jobs-to-be-done-jtbd). For situations where we already have a strong understanding of the problem and its solution, it is appropriate to skip the opportunity canvas and proceed directly to solution validation. It might be worth creating an opportunity canvas for existing features in the product to test assumptions and current thinking, although not required. 
+Please note that an opportunity canvas is not required for product functionality or problems that already have well-defined [jobs to be done (JTBD)](/handbook/engineering/ux/ux-resources/#jobs-to-be-done-jtbd). For situations where we already have a strong understanding of the problem and its solution, it is appropriate to skip the opportunity canvas and proceed directly to solution validation. It might be worth using the opportunity canvas template for existing features in the product to test assumptions and current thinking, although not required. 
 
 **References**:
 * [Opportunity Canvas Template](https://docs.google.com/document/d/1pTEMcwH10xWilQEnVc65oC6PdC3VMjn2XoARfNTaHkc/edit#)
@@ -85,6 +85,9 @@ Please note that an opportunity canvas is not required for product functionality
 * [Example Opportunity Canvas - Fine Grained Access Control (GoogleDoc)](https://docs.google.com/document/d/1c_FPLZ8W7Gjl0tvZSybEKWvcCzJ3AgxlQNFvwm92IHo/edit#heading=h.4mt5fmtn0ax4)
 * [Example Opportunity Canvas - Error Tracking (Mural)](https://app.mural.co/t/gitlab2474/m/gitlab2474/1568925801645/71e7e6352180a1492a19a3d3ed6f96d48fefd597)
 
+#### Opportunity Canvas Lite 
+
+Opportunity Canvases are a great assessment for ill-defined or poorly understood problems our customers are experiencing that may result in net new features. As noted previously, opportunity canvases may be helpful for existing features, which is where the [`Product-Opportunity-Opportunity-Canvas-Lite`](https://gitlab.com/gitlab-com/Product/-/blob/master/.gitlab/issue_templates/Product-Opportunity-Canvas-Lite.md) issue template delivers. This template offers a lightweight approach to quickly identify the customer problem, business case, and feature plan in a convenient issue. The steps to use the template are outlined in the [Instructions](https://gitlab.com/gitlab-com/Product/-/blob/master/.gitlab/issue_templates/Product-Opportunity-Canvas-Lite.md#instructions) section and for clarity one would create this issue template for an existing feature they are interested in expanding. For example, this template would be great to use if you are evaluating the opportunity to add a third or fourth iteration to an MVC. This issue should leverage already available resources and be used to collate details to then surface to leadership for review. Once you fill out the template, you will assign to the parties identifed in the issue and you can always post in the `#product` channel for visibility. 
 
 ### Validation phase 1: Validation backlog
 
@@ -147,6 +150,7 @@ Labels: `workflow::design`
 
 1. Product Designer or Product Manager applies the `workflow::design` label to an existing issue or creates a new issue, if needed. 
 1. Product Designer leads the team in ideating about potential solutions and engages the PM and Engineers to determine whether the proposed solution meets business goals and is technically feasible. 
+1. Product Designer, Product Manager and Engineering Team evaluate potential customer impact of proposed solution.
 1. Once the PM, Engineers, and Product Designer choose a direction, then the issue moves into the Solution Validation phase.
 
 ### Validation phase 4: Solution Validation
@@ -249,7 +253,7 @@ The build track is where we plan, develop, and deliver value to our users by bui
 
 ✅ **Release** to a subset or full set of customers as appropriate
 
-✅ **Assess** UX, functional, and technical performance
+✅ **Assess** UX, functional, technical performance, and customer impact
 
 ✅ **Collect** data to measure MVC against success metrics to inform the next iteration
 
@@ -266,14 +270,16 @@ The build track starts with Product Manager (PM), User Experience (UX), Software
 For user-facing deliverables, Product Designers work with Engineering to validate technical feasibility during the `workflow::design` phase, but it's equally important to validate feasibility for work that users don't see in the UI, such as APIs and other technical features. Communicate these solutions using artifacts such as API docs, workflow diagrams, etc. Involve your Engineering Managers in creating and reviewing these artifacts to gain a shared understanding of the solution and receive input on feasibility.
 
 1. PM applies the `workflow::planning breakdown` label.
-1. PM, UX, and EM do a final review of the designs to ensure everyone understands the solution. Then, PM, UX, and EM start breaking down the implementation into smaller issues. Story mapping is a recommended technique to do this in a rapid and collaborative fashion. The resulting issues should be written by PMs in user-story-style language whenever possible: "As a (who), I want (what), so I can (why/value)." Issues should not only be about feature details, but should also establish functional, performance, documentation, and security acceptance criteria. In some cases, you need to update existing issues - if you were doing problem validation on an issue that already had a problem to solve/proposal in the issue (i.e., an older or customer-created issue), and you've come up with a new problem statement that isn't very close to the original, you should strongly consider opening a new issue for the new problem. Changing the problem statement in an issue almost always causes the discussion to become confused and may lose track of the original (potentially still valid for some users) problem statement.
+1. PM, UX, and EM do a final review of the designs to ensure everyone understands the solution.
+1. PM, UX, and EM start breaking down the implementation into smaller issues; it is recommended that story mapping is used.
+    - Story mapping is a recommended technique to do this in a rapid and collaborative fashion. The resulting issues should be written by PMs in user-story-style language whenever possible: "As a (who), I want (what), so I can (why/value)." Issues should not only be about feature details, but should also establish functional, performance, documentation, and security acceptance criteria. PM, UX, SET, and EM should evaluate customer impact of changes. In some cases, you need to update existing issues - if you were doing problem validation on an issue that already had a problem to solve/proposal in the issue (i.e., an older or customer-created issue), and you've come up with a new problem statement that isn't very close to the original, you should strongly consider opening a new issue for the new problem. Changing the problem statement in an issue almost always causes the discussion to become confused and may lose track of the original (potentially still valid for some users) problem statement.
 1. Using the output of story mapping, PM creates separate epics and issues for implementation. Use the [feature proposal template](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/.gitlab/issue_templates/Feature%20proposal.md) as a guide for writing both epics and features. For issues requiring documentation changes/additions, add the `documentation` label and complete other relevant [PM documentation responsibilities](https://docs.gitlab.com/ee/development/documentation/workflow.html#product-managers). For issues requiring new or updated UI text, add the `UI text` label.
 1. At this point, the original validation issue can be closed as further work labeling and activity will happen on the implementation issues.
 1. PM should break the issue down into the smallest possible iteration definition that adds customer value. Check out [iteration strategies](#iteration-strategies) for help.
 1. If sizing for it is large, or won't fit into a milestone, then PM + EM should collaborate to break it down further.
 1. If PM + EM can't figure out an iteration definition that will fit within the sprint/milestone, then it is ok to push it to the next milestone to give the team more time to find an iteration definition that will fit.
 1. SET owns the completion of the `Availability and Testing` section in the Feature Proposal to complete the definition of done. As we grow to reach our [desired ratio](/handbook/engineering/quality/#staffing-planning), we will only have the quad approach in groups where we have an assigned SET in place.
-   1. PM applies the `quad-planning::ready` label and assigns the issue to the counterpart SET.
+   1. SET will review issues marked with `workflow:ready for development` around the 16th of each milestone and apply the `quad-planning::ready` label. If necessary, SET will coordinate with PM/EM to discuss specific issues as needed.  
    1. SET is the DRI for the `Availability and Testing` section, ensuring that the strategy accounts for all test levels and facilitating discussions and feedback with the group.
    1. SET determines if the feature change needs to run `package-and-qa` regression job, this is made clear in the above section.
    1. If the SET has recommendations (e.g. running regression job, writing additional tests, etc.), the SET applies the `quad-planning::complete-action` label to the issue.  If no additional action needs to be taken, the SET applies the `quad-planning::complete-no-action` label to the issue.
@@ -291,6 +297,8 @@ The develop and test phase is where we build the features and test them before l
 1. Engineering teams move items into `workflow::ready for development` and apply the deliverable as they commit to them, in alignment with the PM.
 1. PM works with engineering to ensure product instrumentation and dashboarding requirements are clear for implementation.
 1. When the milestone arrives, engineering teams execute on the scheduled work. Acceptance criteria as set forth in the issues must be met before a feature is deemed complete.
+1. Engineering team member(s) executing on the issue evaluates customer impact, confirming existing data against defined solution.
+    - An example would be the introduction of new limits and their impact on existing customer data and workflows.
 1. In parallel with development, the PM creates release post content, collaborating with Product Marketing Manager (PMM) on messaging and positioning
 1. Work deemed out of scope or incomplete by engineering is taken back into the plan phase for refinement and rescheduling for completion. The label `workflow::planning breakdown` should be reapplied.
 1. During the launch phase, the delivery team updates the validation labels as it flows through the validation process in staging and canary.
@@ -345,6 +353,10 @@ Often, the criteria by which a new feature needs to be built is implicit. It can
 
 ### Exception & error cases
 Software often fails and can fail in different ways depending upon how it is architected. It is always best to provide the user with as much information as possible as to why something did not behave as expected. Creating and building different states to handle all possible errors and exceptions can easily be broken down into individual issues. Start by creating a generic error state to display when anything goes wrong, and then add on to handle different cases one by one. Remember to always make error messages [useful](https://design.gitlab.com/content/error-messages), and add additional error messages as you identify new error states.
+
+### Customer Impact
+
+When creating net new features research efforts are intended to provide GitLab with the best opportunity to deliver customer value while considering business needs, performance expectations, timelines, and other considerations. When delivering new features that interact with exisiting customer data and workflows, care must be taken to evaluate impact throughout the product development process.
 
 ### Breaking down the UI
 Breaking down a design into pieces that can be released iteratively is going to depend on what you are building. Here are a few helpful questions to guide that process:
