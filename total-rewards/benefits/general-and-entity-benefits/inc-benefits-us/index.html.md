@@ -459,8 +459,11 @@ Based on the Family and Medical Leave Act, or [FMLA](https://www.dol.gov/agencie
 3. Once the form is complete, the Total Rewards team will email the form the UHC using the email address provided on the form through the Secure UHC upload.
       - Once the team member has filed a claim for STD, UHC will confirm the start and end dates of claim via a determination letter. 
       - The typical pay for STD is six weeks for a vaginal birth and eight weeks for a c-section. STD can be extended if the team member has a pregnancy related complication (bed rest, complications from delivery, etc).
+1. The Total Rewards team will send the team member an email with how payments will be processed and advise any differences in pay.
+      - Use PTO time for the Elimination Period
 1. The Total Rewards team will confirm [payroll details](#payroll-processing-during-parental-leave) with the Payroll team via the Payroll Changes google sheet.
 1. The team member will notify the Total Rewards team on their first day back to work.
+1. The Total Rewards team will get a notification once the claim is closed. 
 1. TODO Outline process to return the team member to work
 
 #### Maternity Leave STD Form - Team Member to fill out:
@@ -485,7 +488,7 @@ Based on the Family and Medical Leave Act, or [FMLA](https://www.dol.gov/agencie
     - Tax Information (page 5): Fill out based on your individual tax preferences 
     - Final Signature and Certification (page 5)
     - Review and sign the Disclosure Authorization (page 6)
-    - Complete the Authorization of Personal Representative section (page 7) if there is someone involved in your care that you would like to be able to contact UHC in relation to your disability claim.
+    - Complete the Authorization of Personal Representative section (page 7) if there is someone involved in your care that you would like to be able to contact UHC in relation to your disability claim
     - Have your physician complete the Attending Physician's Disability Statement (page 8)
 
 #### Maternity Leave STD Form - Total Rewards to fill out:
@@ -514,7 +517,7 @@ Based on the Family and Medical Leave Act, or [FMLA](https://www.dol.gov/agencie
        - How is the employee paid? Add hourly rate if team member is getting paid per hour. If not, add the annual salary next to "Salaried"
        - Does the employee eceive other work related income? Add the annual commission amount if team member receives variable pay.
        - Is the employee currently receiving or eligible for any other income benefits? Leave blank
-    - Final Signature and Certification*: Stage for signatures via HelloSign
+    - Final Signature and Certification: Stage for signatures via HelloSign
 
 
 ### Payroll Processing During Parental Leave
