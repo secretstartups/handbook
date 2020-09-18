@@ -194,7 +194,7 @@ Resolving these smaller implementation issues contributes to the completion of t
 
 For example, if an issue requires one frontend, one backend, and one database change, it can help to create three "sub-issues" that link back to the main issue.
 
-To ensure the sequence of completion of the "sub-issues" is easy to track, we should utilize [`Blocks` and `Is blocked by` options](https://about.gitlab.com/handbook/marketing/project-management-guidelines/issues/#related-issues-and-blocking-issues) on each issue page.
+To ensure the sequence for completion of the implementation issues is easy to track, we should utilize [`Blocks` and `Is blocked by` options](https://about.gitlab.com/handbook/marketing/project-management-guidelines/issues/#related-issues-and-blocking-issues) on each issue page.
 
 ![Related issues](handbook/engineering/release-managment/related-issues.png)
 
