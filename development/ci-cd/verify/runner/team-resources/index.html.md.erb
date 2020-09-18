@@ -1,0 +1,119 @@
+---
+layout: handbook-page-toc
+title: Runner Group - Team Resources
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Overview
+
+The goal of this page is to document resources needed for day-to-day work within the Runner group.
+
+## Internal tools
+
+### Merge Request Bot
+
+For
+[`gitlab-org/gitlab-runner`](https://gitlab.com/gitlab-org/gitlab-runner)
+we have the [Merge Request
+Bot](https://gitlab.com/merge-request-bot/merge-request-bot) enabled which posts
+[comments for community
+contributions](https://gitlab.com/gitlab-org/gitlab-runner/-/merge_requests/2407#note_411098266).
+This is configured via [Merge Request webhook
+events](https://gitlab.com/gitlab-org/gitlab-runner/hooks).
+
+- [Appliation code](https://gitlab.com/merge-request-bot/merge-request-bot)
+- [CloudRun deployment](https://gitlab.com/merge-request-bot/infrastructure/cloud-run)
+- [Logs](https://console.cloud.google.com/logs/query;query=resource.type%20%3D%20%22cloud_run_revision%22%0Aresource.labels.service_name%20%3D%20%22merge-request-bot%22%0Aresource.labels.location%20%3D%20%22europe-west4%22%0A%20severity%3E%3DDEFAULT%0Atimestamp%3E%3D%222020-09-11T10:25:17.532Z%22%20timestamp%3C%3D%222020-09-11T11:25:17.532Z%22;timeRange=PT1H;summaryFields=:true:32:beginning?customFacets=&scrollTimestamp=2020-09-11T11:25:01.157050000Z&project=group-verify-df9383)
+
+## Third-party infrastructure
+
+### Testing on IBM Z/OS
+
+To facilitate testing the `s390x` architecture artifacts,
+a Z/OS VM is available to GitLab team members.
+
+#### Logging in
+
+1. In [1Password](https://about.gitlab.com/handbook/security/#1password-guide),
+   under the `Verify` vault, download the `zOS login - gitlabkey02.pem` file.
+1. From the `zOS login` entry in the same vault, take note of the `user` and `address` fields.
+1. SSH into the Z/OS VM:
+
+    ```shell
+    ssh -i "zOS login - gitlabkey02.pem" <user>@<address>
+    ```
+
+   Note: You'll be requested the password to unlock the .pem file. Enter the password attached
+   to the `zOS login - gitlabkey02.pem` entry.
+
+#### Testing helper image
+
+Assuming you want to test a `prebuilt-s390x.tar.xz` image produced by a CI/CD pipeline,
+and already have the .pem file from the [previous point](#logging-in),
+the steps would be the following:
+
+1. Copy the `prebuilt-s390x.tar.xz` file to the Z/OS VM:
+
+    ```shell script
+    scp -i "zOS login - gitlabkey02.pem" prebuilt-s390x.tar.xz <user>@<address>:/home/ubuntu/
+    ```
+
+   Note: You'll be requested the password to unlock the .pem file. Enter the password attached
+   to the `zOS login - gitlabkey02.pem` entry.
+
+1. SSH into the VM:
+
+    ```shell
+    ssh -i "zOS login - gitlabkey02.pem" <user>@<address>
+    ```
+
+1. Import the image and run it:
+
+    ```shell
+    sudo docker import ./prebuilt-s390x.tar.xz gitlab/gitlab-runner-helper:s390x-dev
+    sudo docker run -it gitlab/gitlab-runner-helper:s390x-dev bash
+    gitlab-runner-helper help
+    ```
+
+### MacOS Shared Runners (MacStadium)
+
+#### Tracking the VM image storage quota
+
+Our provider MacStadium provides us access to a [dashboard](https://macstadium.logicmonitor.com/)
+where we can track the storage usage against our quota. To gain access to the dashboard,
+open a ticket in the [MacStadium portal](https://portal.macstadium.com/).
+
+There are also some useful bash aliases and functions that can be used locally:
+
+```shell
+alias oil="orka image list"
+alias ovl="orka vm list"
+alias oid="orka image delete -y --image"
+alias ovp="orka vm purge -y --vm"
+alias oquota="orka image list --json | jq '[ .image_attributes[] | .image_size | rtrimstr(\"G\") | tonumber ] | add'"
+
+# Purge all images associated with MR
+function opmr() {
+  local MR="$1"
+  if [[ -z ${MR} ]]; then
+    echo "Please specify the MR number as an argument"
+    return
+  fi
+
+  orka image list --json | \
+    jq -r ".images[] | select(contains(\"mr-${MR}\"))" | \
+    xargs -I{} orka image delete -y --image {}
+}
+
+# Purge all VMs in account
+function ovpa() {
+  orka vm list --json | \
+    jq -r ".virtual_machine_resources[] | .status[] | .virtual_machine_id" | \
+    xargs -I{} orka vm purge -y --vm {}
+}
+```
