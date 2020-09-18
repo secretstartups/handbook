@@ -67,7 +67,7 @@ The [Emergency Runbook project](https://gitlab.com/gitlab-com/support/emergency-
 
 We do 7 days of 8-hour shifts in a follow-the-sun style, based on your location.
 
-**NOTE:** If a new alert has not been acknowledged after 10 minutes, _everyone_ on the Customer Emergencies on-call rotation is alerted. After a further 5 minutes, if there is no acknowledgement, Support Managers are alerted.
+**NOTE:** If a new alert has not been acknowledged after 10 minutes, the Support Manager on-call is alerted. After a further 5 minutes, if there is no acknowledgement, Senior Support Managers are alerted.
 
 You can view the [Customer Emergencies schedule](https://gitlab.pagerduty.com/schedules#PIQ317K) and the [escalation policy](https://gitlab.pagerduty.com/escalation_policies#PKV6GCH) on PagerDuty. You can also opt to [subscribe to your on-call schedule](https://support.pagerduty.com/docs/schedules-in-apps#section-export-only-your-on-call-shifts), which is updated daily.
 
@@ -75,15 +75,15 @@ You can view the [Customer Emergencies schedule](https://gitlab.pagerduty.com/sc
 
 For new team members approaching their first on-call shift, your [Support onboarding issue](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/New-Support-Team-Member-Start-Here.md) includes a section suggesting that you shadow a current on-call to gain familiarity with the process. After completing your shadow shift, consider your preferred approach to on-call; discuss with your manager how you feel about it, and if you'd like to work with a partner during on-call weeks. For the first week we recommend asking your Onboarding Buddy to be available as a secondary to help if an emergency comes in.
 
-#### Make the schedule work for you (working with a partner)
+#### Make the schedule work for you
 
-Your role is to make sure _someone_ is available to respond to emergencies during the week you are scheduled. Flexibility is possible -- you can split work with others, or schedule overrides for a few hours or days. **You don't have to be at your desk all week!** It's OK to take a walk outside, if you have your phone and reception. This way you can acknowledge the page, and locate someone to help (using Slack).
+Your role is to make sure _someone_ is available to respond to emergencies during the week you are scheduled. Flexibility is possible -- you can split work with others, or schedule overrides for a few hours or days. **You don't have to change vacation plans, or be at your desk all week!** It's OK to take a walk outside, if you have your phone and reception. This way you can acknowledge the page, and locate someone to help (using Slack).
 
 If you prefer to work with a colleague as a secondary, discuss with team members or your manager and find partners who like sharing the role. You can work together during the week, and update PagerDuty as you wish (options include: split days into mornings and evenings, take alternate days, work as a primary and secondary). Your manager can play an active role in helping pair people who want to work like this.
 
-In Google Calendar, add Busy entries for the days/items you are on-call. Since your Google Calendar is [linked to Calendly](/handbook/support/workflows/calendly.html) for [Customer Calls](/handbook/support/workflows/customer_calls.html), Busy entries ensure you will not receive round-robin calls during your on-call shift. 
+**TIP:** In Google Calendar, add Busy entries for the days/items you are on-call. Because your Google Calendar is [linked to Calendly](/handbook/support/workflows/calendly.html) for [Customer Calls](/handbook/support/workflows/customer_calls.html), Busy entries ensure you will not receive round-robin calls during your on-call shift. 
 
-#### Swapping On-Call duty
+#### Swapping on-call duty
 
 To swap on-call duty with a colleague:
 
@@ -116,7 +116,7 @@ When your on-call shift starts, you should get notification(s) that your shift i
 
 **NOTE:** If you need to reach the current on-call engineer and they're not accessible on Slack (e.g., it's a weekend, or the end of a shift), you can [manually trigger a PagerDuty incident](https://support.pagerduty.com/docs/incidents#section-manually-trigger-an-incident) to get their attention, selecting **Customer Support** as the Impacted Service and assigning it to the relevant Support Engineer.
 
-### Handling Multiple Simultaneous Emergencies
+### Handling multiple simultaneous emergencies
 
 In rare cases, the on-call engineer may experience concurrent emergencies triggered by seperate customers. When this happens, please remember that you are not alone; follow these steps to ensure proper engagement and resolution of each emergency:
 
@@ -171,7 +171,7 @@ When the call has ended:
 1. Add any internal notes as an internal note on the ticket.
 1. Tag the next on-call engineer in the emergency's Slack thread.
 
-## Manager On-call
+## Support Manager on-call
 Support Managers also have an on-call rotation. During their rotation, Support Managers:
 - act as an escalation point for missed emergency pages
 - find staff to work on emergencies during [multiple emergencies](#handling-multiple-simultaneous-emergencies) 
@@ -197,14 +197,14 @@ To see who the current manager on-call is you can:
    - Use the `/pd-support-manager` command to page the on-call manager
    - Manually create a new incident from the [Support Managers Service](https://gitlab.pagerduty.com/services/PTFI8XR)
 
-## Mobile Phone Service and Data Reimbursement
+## Mobile phone service and data reimbursement
 We want to minimize the affect of on-call duty on your life. One way we do that is by offsetting any impact on your personal expenses.
 
 You may expense the cost of your mobile phone service for the month when you begin your on-call rotation. This is limited to **your** service cost itself, not any costs relating to the phone device, to a personal hotspot device or to services for other people on your phone plan.
 
 We understand you may have plans outside of your normal workspace while you're on-call. If as a result you **need** to use your phone to provide internet service to your computer, then you may include additional data charges in your expense report.
 
-## US Federal On-Call
+## US Federal on-call
 
 [US Federal](/handbook/support/support-ops/processes/us-federal-zendesk.html) on-call support is provided 7 days a week between the hours of 1:00PM and 1:00AM UTC time.
 
@@ -213,7 +213,7 @@ Currently, there are five Support Engineers working an on-call rotation consisti
 For example:
 
 | Week - Shift | Support Engineer |
-|---|---|
+| ------------ | ---------------- |
 | 1 - AM | John |
 | 1 - PM | Nathan |
 | 2 - AM | Aric |
