@@ -186,7 +186,7 @@ problems and clear any blockers that may arise while the work is in progress.
 ### Issue Breakdown
 
 Sometimes an issue can be large and require multiple merge requests to resolve. In this case, it can help to create smaller, more narrowly defined issues that can be resolved with a single merge request.
-Resolving these smaller "sub-issues" contributes to the completion of the larger parent issue. This has several benefits:
+Resolving these smaller implementation issues contributes to the completion of the larger parent issue. This has several benefits:
 
 1. It keeps the conversations around each specific merge request within its own issue.
 1. It makes it easier to see the progress of each merge request that contributes to the larger issue.
