@@ -45,7 +45,7 @@ Career development conversations are vital for the team members, managers and Gi
 *  Team members will take conversations about their career as a promise of a promotion
 *  Team members will leave after they have developed new skills
 
-Not discounting these concerns, but as a manager if is your job to engage team members in meaningful career development conversations.  
+Not discounting these concerns, but as a manager it is your job to engage team members in meaningful career development conversations.  
 
 If a team members expectations or timeframe is unrealistic, you can explore having them use their time to find opportunities that will engage and prepare them for when they opportunities arise. If they are ready for promotion but the opportunity is not in scope or plan for the business it is best to be transparent with the team member. Discuss any timeline of if/when a position may be available or if there is no plan currently to add that role. You can also work with the team member to look for internal opportunities like internship or cross collaborative projects to help keep the team member engaged while continuing in their role.  
 
