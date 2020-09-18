@@ -59,7 +59,7 @@ There are three primary categories of company secrets discussed here:
 * Confidential Information
 * Personally Identifiable Information 
 
-Collectively, these things are classified as [RED in our Data Classification Policy](/handbook/engineering/security/data-classification-policy.html#red).  The “Red” designation is for the most sensitive, restricted business information that requires heightened internal controls by limiting access to only those authorized individuals with a need-to-know. 
+Collectively, these things are classified as [RED in our Data Classification Policy](/handbook/engineering/security/data-classification-standard.html#red).  The “Red” designation is for the most sensitive, restricted business information that requires heightened internal controls by limiting access to only those authorized individuals with a need-to-know. 
 
 **Trade Secrets** are those extra bits of information that set our company apart.  It’s that stuff that is so cutting edge that we don’t even want to get a patent on it for fear of letting others know the technology.  If you patent something, the secret ingredients are laid out for the world to see like some crazy technological recipe. Competitors quickly mobilize for comparable product offerings.  But where there is a trade secret, competitors are left in the dark. However, once you release a trade secret – there is no protection.  It is all out there for the world to exploit; this is why we have employees sign non-disclosures. 
 
@@ -70,7 +70,7 @@ Other secrets include **Personally Identifiable Information (PII)**.  This is an
 * Personal Credit Information (PCI) which includes credit card information
 * Personally Identifiable Financial Information (PIFI) which includes banking information, account numbers, and account information
 
-How do you protect PII?  Consider the guidelines in the [Data Classification Policy](/handbook/engineering/security/data-classification-policy.html) and apply it to all of the PII listed above.
+How do you protect PII?  Consider the guidelines in the [Data Classification Policy](/handbook/engineering/security/data-classification-standard.html) and apply it to all of the PII listed above.
 
 Unauthorized disclosure of Red, restricted information, could cause serious adverse impact to GitLab, its clients, business partners, and suppliers. All GitLab team members work to ensure proper protection for all data classified as Red.  
 
@@ -93,50 +93,6 @@ The fundamental requirements for PCI are:
 12. There should be policies around all of the above.
 
 When dealing with PCI, at no time should an entire credit card number be visible in its full form.  Generally, only the last four numbers of a card should be maintained.  Please make sure that there is no credit information ever jotted down on sticky notes, files, napkins, etc.  If you are aware of any credit card numbers that are not secure, please alert Compliance. 
-
-## Data Protection Impact Assessments (DPIAs)
-
-Recently, the European Union, under the General Data Protection Regulations, require Data Protection Impact Assessments in order to be compliant leaders in the technology world.  Translation: We need to make sure we have our finger on the pulse of any application or system integration involved with GitLab.
-
-While the legal requirements may seem cumbersome, the need is quite apparent. A DPIA ensures all the necessary controls are in place to cover your most important assets - personal information.
-
-For more information, check out GitLab's [DPIA Policy](/handbook/engineering/security/dpia-policy/)
-
-### DPIA General FAQ
-
-**What is a Data Protection Impact Assessment (DPIA)?**
-A DPIA is a tool that is utilized to identify and analyze risks for individuals, which exist due to the use of a certain technology or system by an organization in their various roles (as citizens, customers, patients, etc.). On the basis of the outcome of the analysis, the appropriate measures to remedy the risks should be chosen and implemented. A Process for Data Protection Impact Assessment Under the European General Data Protection Regulation is required. 
-
-DPIAs are addressed in [Article 35 of the GDPR](https://gdpr-info.eu/art-35-gdpr/).
-
-**When is a DPIA required?**
-A DPIA is only required when the data processing is “likely to result in a high risk to the rights and freedoms of natural persons” (GDPR Article 35(1)), but processors must continuously assess the risks created by their processing activities to identify when a type of processing requires them to conduct a DPIA.   The questions in pay to procure process are to assist you in assessing whether a DPIA is required and should be re-evaluated periodically in light of the list of processing operations that the Supervising authority deems subject to the requirement of a DPIA.
-
-The assessment of whether there is a need for a DPIA, as well as any required DPIA should be carried out *prior to* processing. 
-
-**Why is a DPIA Conducted?**
-A DPIA aims to accomplish two outcomes:
-
-1.  Identify the risks associated with processing the collected personal data 
-2.  Establish mitigation strategies and tactics to lessen the identified risks
-
-**Who is involved in the DPIA process?**
-The GDPR establishes that data controllers are responsible to carry out the assessments. Controllers also seek the advice of the data protection officer and "where appropriate" seek the view of data subjects themselves. (Article 35(2) and (9).)
-
-At GitLab, the DPIA process is initiated by a tool's Business Owner during the [Procure to Pay Process](/handbook/finance/procure-to-pay/#procure-to-pay-process), during which the Business Owner must complete a [Privacy Review issue](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=). If a DPIA is required, the Privacy Officer will work with the Business Owner to accomplish this.
-
-### GitLab's DPIA Process FAQs
-
-**Who is responsible for the DPIA?**
-Ultimately, the Business Owner of a tool is the DRI for completing the DPIA. However, there are steps that require input from others at GitLab, including the Privacy Officer and the Data Protection Officer (DPO). These people will walk you through the steps and instruct you on who to consult with for each step. It is important to understand that while the Business Owner is responsible for moving the process forward through the steps, there may be steps during which someone else becomes the DRI for making decisions to address concerns in that step.
-
-**What is considered "personal data"?**
-[Article 4 of the GDPR](https://gdpr-info.eu/art-4-gdpr/) sets out the definitions for the law. The first definition is that of "personal data." 
-
->  ‘personal data’ means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person (GDPR Article 4(1).)
-
-**What is considered a "high risk" to rights and freedoms?**
-The GDPR does not define "high risk," but The European Commission has issued [Guidelines on Data Protection Impact Assessment [DPIA] and Determining Whether Processing is "Likely to Result in a High Risk" for the Purposes of Regulation 2016/679](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=611236). Please review pages 9-12 of this guidance to see included categories, as well as more tangible examples of "high risk."
 
 ## CAN-SPAM
 
@@ -194,53 +150,8 @@ It is also possible to combine these elements with other information, such as IP
  
 PECR also applies to technologies like scripts, tracking pixels and plugins, wherever these are used.
  
-If you provide cookies that fall in these categories, consent is required.  You never who is on a technological diet.  Ask before you give them a cookie.  
+If you provide cookies that fall in these categories, consent is required.  You never know who is on a technological diet.  Ask before you give them a cookie.  
 
-## Contract Details
-
-Below are some important conventions in our contracts. 
-
-Price - If a contract lacks a price (or a mechanism for objectively ascertaining price) then the contract isn’t valid. If a contract gets too convoluted with a pricing structure that a reasonable person cannot understand the cost, the contract could lose validity.  No price, no deal.
-
-Delivery
-
-Limitation of Liability
-
-Indemnity - This is where we promise to pay for lawsuits that a customer may have. If we don't clarify here, we could end up paying for things unrelated to our products.
-
-Warranty and Warranty Disclaimer
-
-Governing Law
-
-Survival Clause – this is to make sure that some things in the contract will remain in effect after termination.  We don’t want our customers buying our stuff, promising not to reverse engineer it, cancel the contract and then proceed with the reverse engineering.  Canceling a contract doesn’t cancel the obligation to protect our IP or maintain confidentiality.  These things survive after the end of the contract. 
-
-Intellectual Property – Intellectual Property means patents, copyrights, trademarks, trade secrets, pictures, videos, and even sounds. GitLab protects our IP out of respect for our work and because it gives market differentiation. Any attempt to sell or give away IP ownership has to have permission of the highest levels of management.
-
-Confidentiality  
-
-## Resellers
-
-Resellers buy from the Manufacturer and, as their name indicates, resell the product.  Often, resellers receive a reduction in price because they are saving a company time and money in finding and closing with buyers.  Once a reseller purchases the product, it is theirs.  A company can have no control over what resellers decide to do with it  - except do something illegal with it.  
-
-Aside from requiring you to not break any laws, once a reseller buys the product, a company can have no more control with what the reseller does with it.  The company can’t tell resellers how much to charge others, to combine it with other products, to sell (or not to sell) in certain locales.  For all intents and purposes, the product is the resellers'.  In additiona, the resellers' agreements are theirs to manage.  The customers will transact directly with resellers. And, if the customers get mad, it is resellers they will sue.  If a company were to try to start dictating what a reseller can and can’t do, it could trigger antitrust laws.  
-
-An important fact to note is that because a company is selling to resellers, resellers are major customers of the company.  Why does that title matter?  Because companies cannot *pay* customers to buy from them.  This is called a kickback.  If a company pays a reseller, they could run afoul of anti-bribery laws. 
-
-Resellers make money by buying low and selling high. Resellers control their own sales, revenues, losses and markets. A good reseller makes a profit running their business. 
-
-### Distributors  
-The nuance here is that a distributor is a glorified reseller.  Where a reseller sells to the end user, distributors sell to resellers.  
-
-### Representative or Agent  
-This is different than a reseller.  An agent directs customers to the company, rather than selling to the customer themselves.  Unlike with a Reseller, the agreement is between the company and the customer.  Agents wear the company's hat and hold themselves out as an extension of the company.  Companies pay Agents a percentage of the sales; but those sales are at full price.  
-
-If an agent does something pretty bad, the customers would sue the company directly, which is why companies will usually ensure they have a strong indemnification clause in their agreement with Agents.  
-
-**The nuances in these relationship will govern the contract terms.  The relationship also governs which laws apply.**
-
-For more information, see the [Partner Code of Ethics](/handbook/people-group/people-policy-directory/#partner-code-of-ethics)
-
- 
 ## Export
 
 Governments throughout the world pose restrictions on their technology.  Various countries state that if the technology is of their origin, it falls under the laws of their country.  

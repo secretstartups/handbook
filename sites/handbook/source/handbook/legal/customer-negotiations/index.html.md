@@ -9,9 +9,9 @@ title: "Sales Guide: Collaborating with GitLab Legal"
 
 Thank you for visiting! The purpose of this resource is to provide Sales reps assistance on: 
     
-(1) [Operational](https://about.gitlab.com/handbook/legal/customer-negotiations/#OPERATIONAL) - How to work with, and engage, GitLab legal; Requirements to close a deal; General FAQ for legal ops, including some parallels to Finance and Deal Desk matters. 
+(1) [Operational](https://about.gitlab.com/handbook/legal/customer-negotiations/#operational) - How to work with, and engage, GitLab legal; Requirements to close a deal; General FAQ for legal ops, including some parallels to Finance and Deal Desk matters. 
 
-(2) [Educational](https://about.gitlab.com/handbook/legal/customer-negotiations/#EDUCATIONAL) - Learning about how and why GitLab legal and our agreements work, to better serve you during a sales cycle; Proactive advice and education to enable you to feel more confident when / if your Customer has legal related questions.   
+(2) [Educational](https://about.gitlab.com/handbook/legal/customer-negotiations/#educational) - Learning about how and why GitLab legal and our agreements work, to better serve you during a sales cycle; Proactive advice and education to enable you to feel more confident when / if your Customer has legal related questions.   
 
 
 ## ENGAGEMENT
@@ -27,7 +27,7 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 | [**How to reach Legal** ](https://about.gitlab.com/handbook/legal/customer-negotiations/#how-to-reach-legal)                  | [**Overview of GitLab Agreements**](https://about.gitlab.com/handbook/legal/customer-negotiations/#Overview-of-GitLab-Agreements)  |
 | [**How do I get an Agreement signed**](https://about.gitlab.com/handbook/legal/customer-negotiations/#how-do-I-get-an-Agreement-signed)       | [**When does GitLab negotiate**](https://about.gitlab.com/handbook/legal/customer-negotiations/#When-does-GitLab-Negotiate)  |
 | [**Clearing Export Review in SFDC** ](https://about.gitlab.com/handbook/legal/customer-negotiations/#clearing-export-review-negotiations)     | *COMING SOON: Introduction to Open Source* |
-| *COMING SOON: Vendor Request Forms (W9/Insurance)*     | *COMING SOON: Commonly negotiated elements* |
+|[**Completing Vendor Request Forms** ](https://about.gitlab.com/handbook/legal/customer-negotiations/#Completing-Vendor-Request-Forms) | *COMING SOON: Commonly negotiated elements* |
 | *COMING SOON: How Partner's can execute a Partner Agreement*      | *COMING SOON: What is Intellectual Property?* |
 
 
@@ -61,6 +61,32 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 2. GitLab uses Visual Compliance to review all Accounts. The tool is continually reviewing and 'clearing' Accounts. In addition, any 'flags' / 'hits' are reviewed and cleared throughout the day by GitLab Legal.
 3. If an export notice is presented, that requires immediate action, please tag "@legal" in SFDC Chatter for the Account and write "Please review for export compliance"
 4. Legal will continually review all requests. Once cleared in Visual Compliance update(s) will reaching SFDC in 15-20 minutes. 
+
+## Completing Vendor Request Forms
+
+**It is the sales team member responsibility to complete Vendor Request Forms**
+1. Much, if not all, of the Vendor Form information can be found at the [Company Information Page](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/company-information)
+
+**Included on the Company Information Page is:**
+- Address / information related to each GitLab entity
+- All banking information
+- ECCN Number
+- NAICS Code
+- Dun and Bradstreet Number
+...AND VARIOUS OTHER DETAILS
+- W9 is located on the Finance [Forms page](https://about.gitlab.com/handbook/finance/#forms)
+- Request Insurance Certificate on [Legal Team Page](https://about.gitlab.com/handbook/legal/#4-requests-for-insurance-certificate)
+
+2.  If there are questions / elements that are not found in the Company Information Page, the Sales Rep should engage Deal Desk to organize requests of finance and tax. Information regarding contacting Deal Desk and overall process can be found at the [Sales Order Process Page](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-process-customer-requested-vendor-setup-forms)
+
+3. **ONLY OPEN A LEGAL REQUEST IF:** There is a specific legal question / element being requested within the Vendor Form.
+
+Example: Has GitLab, or board member / executed of GitLab, been subject to a lawsuit? 
+
+ 
+**As a private company, we will not share the following information in a Vendor Request Form:** 
+- Stock / Share ownership of the company
+- Finances, including annual and/or historical performance 
 
 
 ## EDUCATIONAL
