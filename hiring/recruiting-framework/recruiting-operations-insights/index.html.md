@@ -392,7 +392,16 @@ For an Ad Hoc report, please [create an Issue](https://gitlab.com/gl-recruiting/
 
 ----
 
+### Vendor Contracts and Renewals
+
+If a new vendor is being considered or, when a vendor contract is up for renewal, please [open an Issue](https://gitlab.com/gl-recruiting/operations/-/issues/new?issue) using the `Vendor Contract Request or Renewal` template. Please open this as early as possible so that there's ample time for benchmarking quotes and engaging in negotiations, if need be. A quote, while helpful, is **not**  needed prior to opening an Issue.
+
+In the Issue, please provide the requested information and as much detail as possible. For example, what the service is for, how many licenses will be needed, and the like. With that, the Recruiting Operations & Insights will takeover and prepare either a [Procurement Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new) for approval and see to its conclusion.
+
+----
+
 ### Common Issues
+
 The Recruiting Operations & Insights team utilizes [Recruiting Operations Issues](https://gitlab.com/gl-recruiting/operations/-/issues) to provide support for a variety of requests regarding systems support and access requests across Recruiting's systems.
 
 <details>
@@ -416,7 +425,7 @@ The Recruiting Operations & Insights team utilizes [Recruiting Operations Issues
         * First and forement, please ensure that you've added your GitLab email address to your LinkedIn profile and verified it.
     * "I've been given a *Recruiter*, but can't send profiles to Greenhouse via their integration."
         * Information about setting-up the *Recruiter System Connect* integration can be found [here](/handbook/hiring/greenhouse/#enabling-linkedin-recruiter-system-connect).
-    * "I have a *Recruiter* (or *Hiring Manager) seat, but can't access GitLab's account.
+    * "I have a *Recruiter* (or *Hiring Manager*) seat, but can't access GitLab's account.
         * Please try signing-out of LinkedIn and when signing back in, please be sure to select GitLab's account. This error often appears if you had a seat with another organisation.
 
 </details>

@@ -136,6 +136,9 @@ If at any time during the interview process a candidate is declined due to compe
      * Instructions: This information is captured in the Screening call Scorecard.
 1. **Are you subject to any employment agreements and/or post-employment restrictions with your current employer or a past employer?**
      * Instructions: This information is captured in the Screening call Scorecard.
+1. **R&D Recruiting Only: Values Screening**
+     * Instructions: Asks the questions for the 3 values identified in the screening call > Navigate to the `Details` tab in the candidate's profile > Navigate to the `Additional Details` section > Select Yes or No on Did the candidate pass the values screening?
+
 
 #### Assessment
 
@@ -153,7 +156,7 @@ If at any time during the interview process a candidate is declined due to compe
 * The candidate should be provided clear expectations of the process, location of interviewers, timeline to hire, etc. 
 * When Team Interviews have completed, follow up with the hiring manager on next steps. Depending on the level of the role and outcome of interviews, next steps may include additional interviews including an executive interview or moving to reference checks.
 
-* The [Weekly Check-In Issue](/hiring/recruiting-framework/req-overview/#step-5-weekly-check-in-issue) has a section for an async interview debrief. This may be needed if there is an apparent disconnect with the hiring team (team is not aligned on requirements, level, etc.). Jarring differences in feedback and ratings are a flag that should trigger information in that section of the issue template. This can also be used if the hiring team consistently provides delayed feedback, or if candidate ISAT surveys are uncovering other concers with the process. Interview debriefs are a helpful way to evaluate how the process has been going thus far and if we need to change our strategy or approach.
+* The [Weekly Check-In Issue](/hiring/recruiting-framework/req-overview/#step-5-weekly-check-in-issue) has a section for an async interview debrief. This may be needed if there is an apparent disconnect with the hiring team (team is not aligned on requirements, level, etc.). Jarring differences in feedback and ratings are a flag that should trigger information in that section of the issue template. This can also be used if the hiring team consistently provides delayed feedback, or if candidate ISAT surveys are uncovering other concerns with the process. Interview debriefs are a helpful way to evaluate how the process has been going thus far and if we need to change our strategy or approach.
 
 ### **Step 7: References and Background Check**
 

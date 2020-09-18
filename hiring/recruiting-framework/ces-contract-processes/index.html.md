@@ -262,11 +262,8 @@ To create the contract:
 1. CXC will then prepare the SOW and contract.
 1. CXC will then reach out to the candidates directly to coordinate the contract signing and onboarding to CXC's payroll.
 1. Kindly allow a duration of one week for CXC to complete their process. This might mean that a two week notice period to start at GitLab, could increase to three weeks, its important to communicate this duration to new hires in this location.
-1. CXC will send a copy of the signed contract to the Candidate Experience Specialist.
-1. The Candidate Experience Specialist will upload a copy of the signed contract to Greenhouse prior to marking the candidate as hired and exporting candidate to BambooHR.
-  - Select Offer Details tab on left menu bar.
-  - Scroll down to Offer Documents section.
-  - Click Upload Signed Offer Document.
+1. CXC will inform the Candidate Experience Specialist when the contract is signed.
+1. The Candidate Experience Specialist will mark the candidate as hired.
 1. The CES will adjust the 'Accepted' date to match the 'Sent' date.
 1. The Candidate Experience Specialist will now [mark the candidate as hired](/handbook/hiring/recruiting-framework/coordinator/#send-contract)[](see steps 10-12).
 
@@ -320,10 +317,8 @@ To create the contract:
 1. Once Safeguard receives the form they will contact the candidate directly to onboard them. This first contact usually takes 2-3 days, but can take up to a week.
 1. If the Candidate Experience Specialist does not hear back from Safeguard within 72 hours, they will follow up to check if the start date is viable, get timing on when they will hear back and when the new hire will receive their contract and other important employee information.
 1. The new hire should be kept updated by the Candidate Experience Specialist or Recruiter by email. If the contract has not been received by GitLab 5 business days prior to the start date, we'll need to reconsider the start date.
-1. The Candidate Experience Specialist will upload a copy of the signed contract to Greenhouse prior to marking the candidate as hired and exporting candidate to BambooHR.
-  - Select Offer Details tab on left menu bar.
-  - Scroll down to Offer Documents section.
-  - Click Upload Signed Offer Document.
+1. SafeGuard will inform the Candidate Experience Specialist when the contract is signed.
+1. The Candidate Experience Specialist will mark the candidate as hired.
 1. The CES will adjust the 'Accepted' date to match the 'Sent' date.
 1. The Candidate Experience Specialist will now [mark the candidate as hired](/handbook/hiring/recruiting-framework/coordinator/#send-contract)[](see steps 10-12).
 
@@ -370,11 +365,8 @@ GitLab is working in partnership with [CIIC](http://www.ciicsh.com/ciicsh/ywsy/i
 1. Once this has been done send the GitLab (Chinese & English) versions of the Letter of Employment Intent to the new hire for their review, completion and signature using DocuSign. Ensure that Peopleops and CIIC are copied.
 1. Once everything has been signed, print and FedEx the Chinese and English Letter of Intents to CIIC. The address can be found in the PEO China folder > China Employment Options > CIIC in the Google Drive.
 1. The Candidate Experience Specialist should add the candidate to the [PEO Tracking Sheet](https://docs.google.com/spreadsheets/d/1gSOVTJ1Yv-YsSaliJwKVf-1H0vBZXxb5NWFiqCwT-uo/edit#gid=0) and keep track of communication between GitLab.
-1. The PEO will provide a copy of the signed contract.
-1. The Candidate Experience Specialist will upload a copy of the signed contract to Greenhouse prior to marking the candidate as hired and exporting candidate to BambooHR.
-  - Select Offer Details tab on left menu bar.
-  - Scroll down to Offer Documents section.
-  - Click Upload Signed Offer Document.
+1. The PEO will inform the Candidate Experience Specialist when the contract is signed.
+1. The Candidate Experience Specialist will mark the candidate as hired.
 1. The CES will adjust the 'Accepted' date to match the 'Sent' date.
 1. The Candidate Experience Specialist will now [mark the candidate as hired](/handbook/hiring/recruiting-framework/coordinator/#send-contract)[](see steps 10-12).
 
