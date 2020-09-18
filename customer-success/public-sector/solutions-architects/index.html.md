@@ -49,7 +49,7 @@ Solutions Architects have a big role in responding to RFIs and RFPs where there 
 1. Evaluate what is asked for and do your best to address it, and
 1. Answer the questions directly and provide context
 
-But more importantly, be sure that there is a product fit. When you read what is asked for in the RFI/RFP is not directly met with GitLab, or seems too much like a different software entirely, then stop and talk to the Strategic Account Leader or Inside Sales Representative.   
+But more importantly, be sure that there is a product fit. When you read what is asked for in the RFI/RFP is not directly met with GitLab, or seems too much like a different software entirely, then stop and talk to the Strategic Account Leader or Inside Sales Representative. Also identify the strategic impact if the requirements do not seem to match GitLab functionality.  If GitLab fits only a piece of the RFx, collaborate with the Strategic Account Leader and/or Inside Sales Representative to understand who the other players in the response might be.   
 
 ### Responding to RFIs
 
