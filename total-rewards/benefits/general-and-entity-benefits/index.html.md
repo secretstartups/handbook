@@ -24,7 +24,7 @@ For the avoidance of doubt, the benefits listed below in the General Benefits se
 - [GitLab GmbH (Germany)](/handbook/total-rewards/benefits/general-and-entity-benefits/gmbh-benefits-germany)
 - [GitLab PTY (Australia & New Zealand)](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia)
 - [GitLab Canada Corp](/handbook/total-rewards/benefits/general-and-entity-benefits/canada-corp-benefits)
-- [Remote (South Africa and Mexico)](/handbook/total-rewards/benefits/general-and-entity-benefits/remote-com)
+- [Remote (South Africa, Mexico and Hungary)](/handbook/total-rewards/benefits/general-and-entity-benefits/remote-com)
 - [Safeguard (Ireland, Hungary, Spain, Italy, France, Brazil, South Africa and Switzerland)](/handbook/total-rewards/benefits/general-and-entity-benefits/safeguard/)
 
 ### Benefits Available to Contractors
