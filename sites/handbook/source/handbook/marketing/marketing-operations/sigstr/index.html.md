@@ -60,7 +60,7 @@ Sigstr appends campaign banners to Outreach signatures every 24 hours. If they a
 
 #### PathFactory
 
-Each Sigstr campaign banner only points to one link. With PathFactory, we can use one link while providing additional content for the receipient to consume.
+Each Sigstr campaign banner only points to one link. With PathFactory, you can use one link while providing additional content for the receipient to consume.
 
 You can identify who clicks on your email signature banners and track content consumption using PathFactory. Using these insights you can optimize your email signature campaigns and content tracks, while simultaneously identifying highly engaged prospects.
 
@@ -80,7 +80,13 @@ Here are three different possible scenarios:
 
 Read more about the partnership between PathFactory and Sigstr [here](https://www.pathfactory.com/blog/sigstr-integration/).
 
-To request a content track for a Sigstr campaign, please open an issue in the marketing operations project using the `pathfactory_request.md` template and assign to `@sdaily`.
+##### Adding a PathFactory track to a Sigstr banner
+
+The demand generation and account-based marketing teams are primarily responsible for the campaigns that are created and used within Sigstr. In an effort to stay aligned with our go-to-market plan, please work with your approriate campaign manager to request a PathFactory track and/or Sigstr campaign.
+
+1. Follow the [normal procedure](#create-a-campaign) for creating a campaign.
+1. Once you are at the step for adding a link to your banner, select the URL dropdown and choose `PathFactory Experience`.
+1. From the pop-up window, select or search for your PathFactory track. Your PathFactory track should be fully QA'd and finalized before using in a Sigstr campaign. 
 
 ### Notifications
 
@@ -123,7 +129,7 @@ Using [Verify](https://help.sigstr.com/en/articles/1633561-sigstr-verify), you c
 1. [Signature design guidelines](https://help.sigstr.com/en/articles/1117943-signature-design-guidelines)
 1. [Signature best practices](https://help.sigstr.com/en/articles/1638563-signature-best-practices)
 
-### Banner ad image best practices
+### Banner ad image dimensions
 
 The image will be constrained to half the size to ensure high density of pixels. Use the same banner ad size for all campaigns.
 
