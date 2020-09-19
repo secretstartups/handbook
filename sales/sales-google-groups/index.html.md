@@ -98,6 +98,15 @@ The below channels are specific to the field organization.
 | #sales-com-managers | private | Used for communication with and between WW ASM-and-above-level managers in Commercial |
 | #sales-cs-managers | private | Used for communication with and between WW managers in Customer Success |
 
+**Sales**
+
+| Channel Name | Channel Access (Private/Public) | Description |
+| ------ | ------ | ------ |
+| #eastsales | public | Team channel for ENT U.S. East sales team |
+| #west-enterprise-gtm-team | private | Team channel for ENT U.S. West sales team |
+| #emea-sals |  public | Team channel for ENT EMEA sales team |
+| #emea_mid-market_sales | public | Team channel for EMEA Mid-Market sales team |
+
 **Customer Success**
 
 | Channel Name | Channel Access (Private/Public) | Description |
