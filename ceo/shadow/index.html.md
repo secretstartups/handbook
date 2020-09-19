@@ -14,7 +14,7 @@ title: "CEO Shadow Program"
 
 ### Introduction
 
-At GitLab, being a CEO shadow at is not a job title, but a temporary assignment to shadow the CEO.
+At GitLab, being a CEO shadow is not a job title, but a temporary assignment to shadow the CEO.
 The shadows will be present at [all meetings of the CEO](/handbook/ceo/#ceo-meeting-cadence) during their rotation.
 GitLab is an [all-remote](/company/culture/all-remote/) company, but the CEO has in-person meetings with external organizations.
 Unless you're joining the program during one of our [remote rotations](#remote-shadow-rotations), you will stay in San Francisco during the entire [rotation](#rotation-rhythm) and travel with the CEO.
@@ -69,57 +69,57 @@ Considering joining the program? Hear from past shadows about their experience:
 1. [Acquisitions, growth curves, and IPO strategies: A day at Khosla Ventures](/blog/2019/04/08/khosla-ventures-gitlab-meeting/)
 1. [GitLab CEO Shadow Update - May 30, 2019](https://www.youtube.com/embed/EfBMu9dTpno)
 
-<!-- blank line -->
+    <!-- blank line -->
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/EfBMu9dTpno" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+    <figure class="video_container">
+      <iframe src="https://www.youtube.com/embed/EfBMu9dTpno" frameborder="0" allowfullscreen="true"> </iframe>
+    </figure>
 
-<!-- blank line -->
+    <!-- blank line -->
 
 1. [Key takeaways from CEO Shadow C Blake](https://youtu.be/3hel57Sa2EY)
 
-<!-- blank line -->
+    <!-- blank line -->
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/3hel57Sa2EY" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+    <figure class="video_container">
+      <iframe src="https://www.youtube.com/embed/3hel57Sa2EY" frameborder="0" allowfullscreen="true"> </iframe>
+    </figure>
 
-<!-- blank line -->
+    <!-- blank line -->
 
 1. [AMA with the CEO Shadow Alumni on 2019-08-23](https://www.youtube.com/watch?v=TxivABJ16jE)
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=TxivABJ16jE" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+    <figure class="video_container">
+      <iframe src="https://www.youtube.com/embed/TxivABJ16jE" frameborder="0" allowfullscreen="true"> </iframe>
+    </figure>
 
-<!-- blank line -->
+    <!-- blank line -->
 
 1. [Reflecting on the CEO Shadow Program at GitLab](https://youtu.be/DGJCuMVp6FM)
 
-<!-- blank line -->
+    <!-- blank line -->
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/DGJCuMVp6FM" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+    <figure class="video_container">
+      <iframe src="https://www.youtube.com/embed/DGJCuMVp6FM" frameborder="0" allowfullscreen="true"> </iframe>
+    </figure>
 
 1. [Key Takeaways and Lessons Learned from a Remote GitLab CEO Shadow Rotation](https://youtu.be/4yhtYcOZn3w)
 
-<!-- blank line -->
+    <!-- blank line -->
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/4yhtYcOZn3w" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+    <figure class="video_container">
+      <iframe src="https://www.youtube.com/embed/4yhtYcOZn3w" frameborder="0" allowfullscreen="true"> </iframe>
+    </figure>
 
 1. [AMA with the CEO Shadow Alumni on 2020-07-02](https://www.youtube.com/watch?v=Yey83s3zGMM)
 
-<!-- blank line -->
+    <!-- blank line -->
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=Yey83s3zGMM" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+    <figure class="video_container">
+      <iframe src="https://www.youtube.com/embed/Yey83s3zGMM" frameborder="0" allowfullscreen="true"> </iframe>
+    </figure>
 
-<!-- blank line -->
+    <!-- blank line -->
 
 ### Impact of the CEO Shadow Program
 
@@ -137,7 +137,7 @@ Hear what our CEO has to say about the CEO shadow program.
   <iframe src="https://www.youtube.com/embed/gJWMBI64sZk" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-## Partipating in the program
+## Participating in the program
 
 ### Eligibility
 
@@ -150,7 +150,7 @@ You are eligible to apply for the program if you have been with GitLab for at le
 Considerations are cumulative and can be:
 
 1. You belong to a select under-represented group as defined in our [referral bonus program](/handbook/incentives/#add-on-bonus-for-select-underrepresented-groups). Multiple under-represented groups are cumulative.
-1. You are a recipient of GitLab’s Value Award of Transparency, Collaboration, Iteration, Efficiency, Results or Diversity at previous GitLab Contribute events.
+1. You are a recipient of GitLab’s Value Award of Transparency, Collaboration, Iteration, Efficiency, Results, or Diversity at previous GitLab Contribute events.
 1. There is last minute availability. Last minute means the first day of a rotation is less than a month out.
 1. You are based in APAC.
 1. You belong to a GitLab Team Member Resource Group ([TMRG](https://about.gitlab.com/company/culture/inclusion/erg-guide/))
@@ -159,7 +159,7 @@ You're also eligible if you work(ed) at an investment firm and while there helpe
 
 Exceptions to eligibility:
 
-CEO Shadow rotations will be reserved for [All-Directs](/company/team/structure/#all-directs) during the week of [E-Group Offsites](/handbook/ceo/offsite/#schedule). An exception will be made if there is last minute availablity as two All-Directs are not available to serve in this role during this window.
+CEO Shadow rotations will be reserved for [All-Directs](/company/team/structure/#all-directs) during the week of [E-Group Offsites](/handbook/ceo/offsite/#schedule). An exception will be made if there is last minute availability as two All-Directs are not available to serve in this role during this window.
 
 **COVID-19 Note:** During this time, all shadow rotations are fully remote.
 Given the CEO generally works from 8 a.m. to 6 p.m. Pacific,
@@ -248,12 +248,12 @@ If you have questions regarding the planned rotation schedule, please ping the S
 1. Plan to observe and ask questions.
 1. Don't plan to do any of your usual work. Prepare your team as if you were on vacation.
 1. Be ready to add a number of [handbook](/handbook/handbook-usage/) updates during your shadow period.
-1. Participating in the shadow program is a privilege where you will be exposed to confidential information. This is underpinned by trust in the shadows to honor the confidentiality of topics being discussed and information shared. The continuation of this program is entirely dependent on shadows past, present and future honoring this trust placed in them.
-1. Give feedback to and receive feedback from the CEO. Participants in the shadow program are encouraged to deliver [candid feedback](/handbook/people-group/guidance-on-feedback/#guidelines-for-delivering-feedbackck). Examples of this are to the CEO and to the world about the company if they make a blog post or video. Shadows maintaining confidentiality during the program is separate from shadows being able to provide candid feedback.
+1. Participating in the shadow program is a privilege where you will be exposed to confidential information. This is underpinned by trust in the shadows to honor the confidentiality of topics being discussed and information shared. The continuation of this program is entirely dependent on shadows past, present, and future honoring this trust placed in them.
+1. Give feedback to and receive feedback from the CEO. Participants in the shadow program are encouraged to deliver [candid feedback](/handbook/people-group/guidance-on-feedback/#guidelines-for-delivering-feedback). Examples of this are to the CEO and to the world about the company if they make a blog post or video. Shadows maintaining confidentiality during the program is separate from shadows being able to provide candid feedback.
 
 ### What to wear
 
-You **do not need to dress formally**; business casual clothes are appropriate. For example, Sid wears a button up with jeans most days. GitLab shirts are acceptable when there aren't any external meetings. Review Sid's calendar to check if there are formal occasions - this may require different dress. If unsure, please ask the Executive Business Administrator (EBA) in the `#ceo-shadow` Slack channel
+You **do not need to dress formally**; business casual clothes are appropriate. For example, Sid wears a button-up with jeans most days. GitLab shirts are acceptable when there aren't any external meetings. Review Sid's calendar to check if there are formal occasions - this may require different clothing. If unsure, please ask the Executive Business Administrator (EBA) in the `#ceo-shadow` Slack channel
 Make sure to bring comfortable shoes with you to Mission Control any time there are meetings in the city. Wear whatever you are comfortable in, keeping in mind that Sid prefers to walk, even if his calendar says Uber.
 
 ### Pre-Program Tasks
@@ -264,7 +264,7 @@ You will get asked about yourself during the program, and it's important to desc
 
 #### Coffee chat with Co-shadow
 
-Before your scheduled rotation, try to schedule coffee chats with your co-shadows before you start the program. This will give you the opportunity to get to know them and help set expectations for the rotation.
+Before your scheduled rotation, try to schedule coffee chats with your co-shadows before you start the program. This gives you the opportunity to get to know them and help set expectations for the rotation.
 
 #### Coffee Chat with CEO Shadow Alumni
 
@@ -275,7 +275,7 @@ Should it be useful or complementary to your time as a CEO Shadow, our [CLO](htt
 
 #### Create an onboarding issue
 
-Outgoing shadows are responsible for training incoming shadows. We currently track on-boarding in the [ceo-shadow](https://gitlab.com/gitlab-com/ceo-shadow) project.
+Outgoing shadows are responsible for training incoming shadows. We currently track onboarding in the [ceo-shadow](https://gitlab.com/gitlab-com/ceo-shadow) project.
 The incoming shadow is responsible for creating their onboarding issue using the `on-boarding` template. If your [rotation is remote](#remote-shadow-rotations), be sure to use the `onboarding-remote` template.
 Assign both incoming and outgoing shadows to the issue.
 
@@ -290,7 +290,7 @@ Review the [CEO's calendar](#ceos-calendar) to get an idea of what your upcoming
 
 #### Review the [CEO Handbook](/handbook/ceo)
 
-The CEO has a [section in the handbook](/handbook/ceo) that details processes and workflows specific to him as well as his background, communiction style, strengths, and flaws. Take time to invest in your relationship with him upfront by reviewing this part of the handbook. Here are some helpful sections:
+The CEO has a [section in the handbook](/handbook/ceo) that details processes and workflows specific to him as well as his background, communication style, strengths, and flaws. Take time to invest in your relationship with him upfront by reviewing this part of the handbook. Here are some helpful sections:
 
 1. [Communication](/handbook/ceo/#communication)
 1. [Pointers from direct reports](/handbook/ceo/#pointers-from-ceo-direct-reports)
@@ -310,7 +310,7 @@ However, there are many short-term administrative tasks you'll be asked to perfo
 Post the MR links in the `#ceo` Slack channel and `@`-reference the CEO so the CEO knows they have been completed. It is not required to create issues for these tasks. Go directly to a merge request if it is more [efficient](/handbook/values/#efficiency).
 1. Prepare for, take notes during, and follow up on meetings. See more details below about your [meeting responsibilities as a shadow.](#responsibilities)
 1. Go through open merge requests and work towards merging or closing any that have [not been merged](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?label_name%5B%5D=ceo-shadow).
-1. Publicly advise when people are not following the [communication guidelines](/handbook/communication/) ([see more details below.](/handbook/ceo/shadow/#promote-communication-best-practices)). For example, remind team members to stop screensharing to encourage communication.
+1. Publicly advise when people are not following the [communication guidelines](/handbook/communication/) ([see more details below.](/handbook/ceo/shadow/#promote-communication-best-practices)). For example, remind team members to stop screen sharing to encourage communication.
 1. Iterate and complete small tasks as they come up. Clear them out immediately to allow for rapid iteration on more crucial tasks. Communicate updates on those tasks in the `#ceo-shadow` channel.
 1. Solve urgent issues. For example, help solve a complaint from a customer or coordinate the response to a technical issue.
 1. Share [thanks](/handbook/communication/#say-thanks) in the `#thanks` channel in Slack when it comes from a customer or wider community member in a meeting.
@@ -338,9 +338,9 @@ Once an MR has been opened, post in the `#ceo-shadow` channel.
 #### CEO's Calendar
 
 1. At the start of the week, review the CEO's calendar. The CEO's calendar is the single source of truth. Shadows should check the CEO's calendar for updates often. You will not be invited to each meeting. Meetings that the shadows may **not** attend will have a separate calendar entry on the CEO's schedule that states "No CEO Shadows". When in doubt, reach out to CEO Executive Business Admin to confirm if you should attend or not. There will be some meetings and events the shadows do not attend. Do not feel obligated to attend every meeting — all meetings are considered optional.
-1. Add the CEO's calendar to your Google Calendar by clicking the `+` next to "Other Calendars". Then click `Subscribe to Calendar`, search for the CEO's name and click enter.
+1. Add the CEO's calendar to your Google Calendar by clicking the `+` next to "Other Calendars". Then click `Subscribe to Calendar`, search for the CEO's name, and click enter.
 1. Because candidate interviews are marked as "private" (busy) for confidentiality reasons, the Executive Business Admin will invite the shadows to those events directly. As a result, you will get an email from Greenhouse asking for candidate feedback, which is not necessary.
-1. Meetings with those outside of GitLab may not be on Zoom. Prior to the call, check the CEO's calendar and load any other conferencing programs that may be needed. It may be necessary to dial-in via phone for audio-conferences. If you have any problems confirming the link, reach out to the `#ceo-shadow` slack channel
+1. Meetings with those outside of GitLab may not be on Zoom. Prior to the call, check the CEO's calendar and load any other conferencing programs that may be needed. It may be necessary to dial in via phone for audio-conferences. If you have any problems confirming the link, reach out to the `#ceo-shadow` slack channel
 
 #### Types of meetings
 
@@ -420,7 +420,7 @@ Personal meetings will be marked as "busy" on the calendar. Shadows do not atten
 
 #### Removing yourself from personal CEO documents
 
-For certain meetings, such as Valley Meetings, a CEO Shadow may be added to an agenda document which is accessible to people outside of the GitLab organization.
+For certain meetings, such as Valley Meetings, a CEO Shadow may be added to an agenda document that is accessible to people outside of the GitLab organization.
 
 At the conclusion of the call, the CEO Shadows should remove themselves from document(s) they were added to via the following steps.
 
@@ -441,7 +441,7 @@ Meetings come in many different formats, as listed above. Your responsibilities 
   <iframe src="https://www.youtube.com/embed/DtRWvIzOnP4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Assume that you are taking notes in a Google Doc affixed to the meeting invite unless it is a [1:1](/handbook/leadership/1-1/) between the CEO and his direct reports, a board meeting, an internal meeting where the CEO is not the host, or it is explicitly stated not to take notes. If you're unsure whether or not to take notes, default to taking them or ask the CEO. The goal of the notes is to collect the main points and outcomes, not a full transcript of the conversation.
+Assume that you are taking notes in a Google Doc affixed to the meeting invite unless it is a [1:1](/handbook/leadership/1-1/) between the CEO and his direct reports, a board meeting, an internal meeting where the CEO is not the host, or it is explicitly stated not to take notes. If you're unsure whether or not to take notes, default to take them or ask the CEO. The goal of the notes is to collect the main points and outcomes, not a full transcript of the conversation.
 In many cases, shadows may not understand fully what is being discussed. As you are taking notes, be mindful that the goal of the program is to absorb what is being said in the meetings you are in. When you do not understand what it is being said, pause to listen and avoid documenting incorrect information.
 If a notes document is not already linked, see the [templates available here](/handbook/eba/#meeting-request-requirements).
 
@@ -457,7 +457,7 @@ Tips:
 
 ##### Keeping time
 
-Shadows are responsible for being aware of the current time and providing a verbal 5-minute warning to the meeting participants so that they can comfortably wrap up the meeting. Don't wait for a break in conversation, just say 'we have 5 minutes left.' Please use the calendar invite as an indication how long the meeting should last. We do [speedy meetings](/handbook/communication/#scheduling-meetings). _Note: Just like notes, timekeeping is _not_ required for 1-1s between the CEO and direct reports._
+Shadows are responsible for being aware of the current time and providing a verbal 5-minute warning to the meeting participants so that they can comfortably wrap up the meeting. Don't wait for a break in the conversation, just say 'we have 5 minutes left.' Please use the calendar invite as an indication of how long the meeting should last. We do [speedy meetings](/handbook/communication/#scheduling-meetings). _Note: Just like notes, timekeeping is _not_ required for 1-1s between the CEO and direct reports._
 
 Shadows should also notify meeting participants if a meeting is running over the allocated time by saying 'we're in overtime'.
 
@@ -621,7 +621,7 @@ One more thing: the cat feeder is automatic and goes off daily at 10:22am PT (as
 
 Outside of Mission Control hours, shadows have the following options:
 
-1. If not an in person meeting, you are welcome to take the meeting from your lodging and then proceed to Mission Control during the Group Conversation or Company call.
+1. If not an in-person meeting, you are welcome to take the meeting from your lodging and then proceed to Mission Control during the Group Conversation.
 1. There are coffee shops with early opening hours with Wifi access near Mission Control. This is a great venue to meet with your co-shadow if coordination is needed before heading in.
     1. [Philz Coffee on Folsom Street](https://www.google.com/maps/place/Philz+Coffee/@37.7890402,-122.3975675,16z/data=!4m8!1m2!2m1!1sphilz+coffee!3m4!1s0x0:0xba68b065a8d2c93b!8m2!3d37.7887131!4d-122.3930718), opens at 05:30am.
     1. [Philz Coffee on Front Street](https://www.google.com/maps/place/Philz+Coffee/@37.7890402,-122.3975675,16z/data=!4m8!1m2!2m1!1sphilz+coffee!3m4!1s0x0:0x4b3009758e346914!8m2!3d37.7917908!4d-122.3990035), opens at 05:30am.
@@ -642,7 +642,7 @@ While there are two sets of keys, it's worthwhile coordinating access to Mission
 
 There is a [Yelp list](https://www.yelp.com/collection/sVnYVUU_npZzJ6h9koBbxw) that contains recommendations from previous shadows, as well as the [CEO's Favorite Restaurants](/handbook/ceo/#favorite-restaurants).
 
-The list is administered by the `ceo-shadow@` email address. Login to Yelp with the credentials in the CEO Shadow 1Password vault to add restaurants, update notes, or remove items from the collection.
+The list is administered by the `ceo-shadow@` email address. Log in to Yelp with the credentials in the CEO Shadow 1Password vault to add restaurants, update notes, or remove items from the collection.
 
 There are usually also food trucks in front of the Salesforce Tower and on the opposite side of Mission Street from the Salesforce Tower [in an alley](https://goo.gl/maps/oSJMfJ26QerGVPqPA).
 
@@ -697,11 +697,11 @@ To configure the sales dashboards:
 
 {:.no_toc}
 
-The wireless mouse and keyboard are connected to the bottom left TV by default because that one is visible from both sides of the conference table. To update the view on another TV, you have to connect the wireless keyboard and mouse to the desired screen. Afterwards, don't forget to return it to the bottom left position for use during meetings.
+The wireless mouse and keyboard are connected to the bottom left TV by default because that one is visible from both sides of the conference table. To update the view on another TV, you have to connect the wireless keyboard and mouse to the desired screen. Afterward, don't forget to return it to the bottom left position for use during meetings.
 
 1. Find the USB jacks and Logitech receiver underneath the bottom, right TV (they're all labeled).
 ![USB jacks and Logitech Reciever](/images/ceoshadow/HDMI_Logitech.png)
-1. Connect the Logitech receiver to USB receiver for the desired screen.
+1. Connect the Logitech receiver to the USB receiver for the desired screen.
 1. To log into the chrome devices at Mission Control, use the login information in the "[CEO Shadow Vault](https://gitlab.1password.com/vaults/tq7hndbk2xjcwc5czwcq7qt6kq/allitems/piqiei3hcjdz7lpmpsyppwxmfi)" in 1Password.
 
 ##### Troubleshooting the monitors
@@ -718,7 +718,7 @@ Each of the screens at Mission Control use an Asus Chromebit to display the pref
 
 To check that a Samsung TV is up to date:
 
-1. Grab the remote labled for the TV
+1. Grab the remote labeled for the TV
 1. Hit the home button
 1. Go to "Settings"
 1. Go to "Support"
@@ -778,7 +778,7 @@ When joining a podcast in Zencaster, a microphone error can be avoided by leavin
 
 #### Maintaining Software and Hardware
 
-The devices in Mission Control are configured to auto-update when new versions are available. As a precaution, shadows in their second week should confirm all software in Mission Control is update to date.
+The devices in Mission Control are configured to auto-update when new versions are available. As a precaution, shadows in their second week should confirm all software in Mission Control is up to date.
 
 ### Visitors
 
@@ -793,7 +793,7 @@ In preparation for guests (customers, investors, etc.) who will be meeting with 
 1. Add the Brita water pitcher on the table.
 1. Place the keyboard and the mouse (used for Mission Control screens) on the table.
 1. Ensure that all 6 monitors are displaying the [correct content](/handbook/ceo/shadow/#monitors). If any of the screens are blank, follow the [trouble-shooting instructions](/handbook/ceo/shadow/#troubleshooting-the-monitors).
-1. For investor or banker meetings, see the [confidential issue](https://gitlab.com/gitlab-com/ceo-shadow/tasks/issues/50) with more details on preparations. As a precaution, do not discucss anything related to company performance (i.e. bookings, pipeline, quota attainment, and pricing), the current quarter or products in development, other than those announced. These restrictions are meant to enforce [Fair Disclosure, Regulation FD](https://www.sec.gov/fast-answers/answers-regfdhtm.html) and avoid the accidental dissemination of material nonpublic information.
+1. For investor or banker meetings, see the [confidential issue](https://gitlab.com/gitlab-com/ceo-shadow/tasks/issues/50) with more details on preparations. As a precaution, do not discuss anything related to company performance (i.e. bookings, pipeline, quota attainment, and pricing), the current quarter, or products in development, other than those announced. These restrictions are meant to enforce [Fair Disclosure, Regulation FD](https://www.sec.gov/fast-answers/answers-regfdhtm.html) and avoid the accidental dissemination of material nonpublic information.
 1. If someone is attending a meeting at Mission Control via [Zoom Rooms](#zoom-room):
     1. Follow the setup steps for [Zoom Rooms](#zoom-room).
     1. Move the screen to the head of the table.
@@ -811,7 +811,7 @@ In preparation for guests (customers, investors, etc.) who will be meeting with 
 Please note that we have a cat named [Suzy](/company/team-pets/#7-suzy). It is a Russian Blue mix which is a [hypoallergenic variety](https://www.russianbluelove.com/russian-blue-cat-allergies/).
 
 Suzy likes attention and will invite you to pet her. If you're allergic to cats consider washing your hands after petting.
-If you don't want to wash your hands everytime after petting Suzy you can _gently_ paddle pet her using ping pong paddles available in Mission Control. Check out the video's linked below for techniques!
+If you don't want to wash your hands every time after petting Suzy you can _gently_ paddle pet her using ping pong paddles available in Mission Control. Check out the videos linked below for techniques!
 Please note the white pillow on the sofa in Mission Control is the **only** place to paddle pet Suzy. She really enjoys it when you _gently pat_ her sides with the ping pong paddles when she is **on** the white pillow, if she steps **off** the pillow stop petting her. When she gets back onto the pillow you can resume gently paddle petting her.
 Please don't pet her after/when she meows since that reinforces the meowing which can be annoying during calls and the night.
 You can pick her up but she doesn't like it much and will jump out after about 30 seconds. Lastly, Suzy sometimes tries to drink out of the toilet, please make sure to leave the toilet lid down.
@@ -839,19 +839,19 @@ You can pick her up but she doesn't like it much and will jump out after about 3
 ### Mission Control FAQs
 
 1. Everything in the fridge that is liquid can be consumed including Soylent and alcohol.
-1. Thermometer is located next to the kitchen entrance.
+1. The thermometer is located next to the kitchen entrance.
 1. Lighting controls are located next to the kitchen entrance, select 'Evening'.
 1. Swag (socks and stickers) is located on the bookshelf near the dashboards. (If the swag is running low, reach out to the Executive Admin to the CEO with a list for restocking)
 
 ### Food and drinks at Mission Control
 
-Everything in the fridge that is liquid can be consumed including Soylent and alcohol. Coffee machine is located in the kitchen, coffee pods are in the drawer below the coffee machine.
+Everything in the fridge that is liquid can be consumed including Soylent and alcohol. The coffee machine is located in the kitchen, coffee pods are in the drawer below the coffee machine.
 
-If the beverages are running low, start by checking the top cupboard above the oven (next to the fridge). There's a step ladder in the laundry (last door on the **left** down the hall way)
+If the beverages are running low, start by checking the top cupboard above the oven (next to the fridge). There's a step ladder in the laundry (last door on the **left** down the hallway)
 If items in the cupboard are also running low, reach out to the Executive Admin to the CEO list of items that need to be ordered in the `#ceo-shadow` slack channel tagging the EBA to the CEO so all items can be ordered at once.
 This should happen every Monday. Here is a list of items that may need to be restocked:
 
-1. La Croix (usually there are 3 flavours)
+1. La Croix (usually there are 3 flavors)
 1. Red Bull
 1. Sugarfree Red Bull
 1. Sprite Zero
@@ -859,13 +859,13 @@ This should happen every Monday. Here is a list of items that may need to be res
 1. Diet Coke
 1. Fiji water
 1. Soylent Cacao
-1. Snacks in the lock box (try to keep enough so that the box is full) - Preferences of snacks for the incoming shadow and restocking any snack preferences from the outgoing shadow.
+1. Snacks in the lockbox (try to keep enough so that the box is full) - Preferences of snacks for the incoming shadow and restocking any snack preferences from the outgoing shadow.
 
 ## Travel & Expenses
 
 ### Lodging
 
-Lodging during the CEO shadow program is provided by the company. Executive Admin to the CEO books the accommodation based on availability and cost. You can express your preference (hotel or AirBnB) via email to the Executive Admin to the CEO in question, however the final decision is made by the Executive Admin based on the distance from CEO and costs. Executive Admin will provide the accommodation details no earlier than 1 month and no later than 2 weeks before the scheduled rotation.
+Lodging during the CEO shadow program is provided by the company. Executive Admin to the CEO books the accommodation based on availability and cost. You can express your preference (hotel or AirBnB) via email to the Executive Admin to the CEO in question. However, the final decision is made by the Executive Admin based on the distance from the CEO and costs. Executive Admin will provide the accommodation details no earlier than 1 month and no later than 2 weeks before the scheduled rotation.
 
 Accommodation is provided only for the active shadowing period, it is not provided during the shadow program pause (cases when the CEO is unavailable).
 In case you are coming from a timezone that is more than 6 hours difference with Pacific Time, it is possible to book the weekend before the first shadow work day to adjust to the new timezone.
@@ -875,7 +875,7 @@ If your CEO shadow rotation is two consecutive weeks, it is expected you will be
 ### Airfare
 
 Airfare can be booked according to our [travel policy](/handbook/travel/#booking-travel-and-lodging) or [spending company money](/handbook/spending-company-money/) policy.
-In case your shadow rotation includes time without shadowing, it is possible to expense airfare to fly home and back within the continental USA. If you are from outside of the USA, it is also possible to expense airfaire during the time without shadow because of the possible high cost of lodging in San Francisco if you chose to stay at a different location.
+In case your shadow rotation includes time without shadowing, it is possible to expense airfare to fly home and back within the continental USA. If you are from outside of the USA, it is also possible to expense airfare during the time without shadow because of the possible high cost of lodging in San Francisco if you chose to stay at a different location.
 
 #### Rideshare from airport
 
