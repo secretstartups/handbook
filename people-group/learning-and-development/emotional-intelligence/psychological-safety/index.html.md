@@ -53,11 +53,36 @@ When you have psychological safety people become more motivated because they fee
 
 Psychological safety has impacts on diversity and inclusion in organizations. Even if an organization has diversity, it doesn't mean that inclusion is present as well. 
 
+## Strategies for Cultivating a Culture of Psychological Safety
+
+1. Embrace a culture of respectful debate.
+1. Encourage personal storytelling. 
+1. Ask questions.
+1. Allow for experimentation and failure.
+1. Dismantle perceptions of hierarchy.
+1. Model openness to feedback
+1. Set clear goals and key performance indicators.
+1. Offer development opportunities.
+1. Build a speak-up culture.
+1. Highlight competencies.
+
+The above list is from a [Grant Thornton article](https://www.grantthornton.com/library/articles/advisory/2020/psychological-safety-speak-up-culture.aspx).
+
+It is important to enable a human-to-human approach and realize the other party is more like you than different. The reflection activity is called “Just Like Me” [developed by Paul Santagata](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it) asks you to consider: 
+
+- This person has beliefs, perspectives, and opinions, just like me.
+- This person has hopes, anxieties, and vulnerabilities, just like me.
+- This person has friends, family, and perhaps children who love them, just like me.
+- This person wants to feel respected, appreciated, and competent, just like me.
+- This person wishes for peace, joy, and happiness, just like me.
+
 ## Additional Resources 
 - Read: [The Role of Psychological Safety in Diversity and Inclusion](https://www.psychologytoday.com/us/blog/the-fearless-organization/202006/the-role-psychological-safety-in-diversity-and-inclusion) - Psychology Today 
 - Read: [The Fearless Organization by Amy C. Edmondson](https://www.amazon.com/Fearless-Organization-Psychological-Workplace-Innovation/dp/1119477247/ref=sr_1_1?keywords=The+Fearless+Organization&qid=1567701716&s=gateway&sr=8-1)
 - Read: [7 ways to create psychological safety in your workplace](https://blog.jostle.me/blog/7-ways-to-create-psychological-safety-in-your-workplace)
 - Read: [What Google Learned from it's Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+- Read: [How To Build An Environment Of Psychological Safety](https://trainingindustry.com/articles/compliance/how-to-build-an-environment-of-psychological-safety/)
+- Read: [How Psychological Safety Actually Works](https://www.forbes.com/sites/shanesnow/2020/05/04/how-psychological-safety-actually-works/#c5be718f864c)
 - Listen: [Creating Psychological Safety in the Workplace](https://hbr.org/podcast/2019/01/creating-psychological-safety-in-the-workplace) - HBR 
 - Watch: [Why good leaders make you feel safe - Simon Sinek](https://www.youtube.com/watch?v=lmyZMtPVodo&list=PLhVoCCkYxQDcdcU7j7H_w0-0BdOqIIYxa) - TED
 
