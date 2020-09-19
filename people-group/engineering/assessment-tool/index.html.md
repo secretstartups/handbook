@@ -73,4 +73,4 @@ assess these team members - instead of just giving read access to this data.
 
 ### Feedback and/or Bugs
 
-You can provide feedback or report bugs by creating issues on the project for this tool: https://gitlab.com/gitlab-com/people-group/peopleops-eng/assessment-tool/
+You can provide feedback or report bugs by creating issues on the project for this tool: [https://gitlab.com/gitlab-com/people-group/peopleops-eng/assessment-tool/](https://gitlab.com/gitlab-com/people-group/peopleops-eng/assessment-tool/)
