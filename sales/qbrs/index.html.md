@@ -92,6 +92,9 @@ QBRs include account teams, leadership, and delegates from across the business:
    1. Invite your SDR Manager, Field Marketing delegate, and TAM Manager to provide a brief (5 minute) update during each QBR.
    1. Channel & Alliances delegates should be given 15-20 minutes in the agenda for each QBR to present on progress in the region. 
 1. Any changes to the QBR schedules should be made no later than two weeks before the scheduled start of QBRs to avoid calendar disruptions for participants. 
+1. All SALs/AEs should complete their QBR decks no later than 2 business days prior to their QBR session. (Note: For QBRs that occur on the first business day of the new quarter, the standard is one business day.)
+1. All RDs/ASMs/SALs/AEs should pre-read other QBR decks for their session. Questions should be left ahead of time in the "Speaker Notes" section of the related slide. 
+   1. ASMs should review their team's QBR asks and pre-prepare a list of prioritized asks to review in their QBR session. (See the [Field Operations QBR Request Intake Process](/handbook/sales/qbrs/#intake) below for more information.)
 
 ### Best Practices for Attendees 
 1. Please join on time and ensure your microphone is muted to avoid disruptions. 
@@ -148,6 +151,19 @@ A: Zoom will be connected with Chorus to record the slides as well as create a t
 
 ### Intake
 
+1. Reps are encouraged to share their top asks for leadership and supporting teams as a part of their QBRs. The asks will be prioritized by segment (ENT & COMM) leadership before being passed off to Sales Ops. 
+   1. Enterprise Ask Prioritization Process
+      1. SAL includes a slide of asks in their QBR presentation
+      1. ASMs review all asks for their region holistically upon pre-review of QBR decks and identify a pattern of asks. 
+         1. ASM-identified top asks will be discussed during their QBR session. Final list of prioritized asks will be passed on to their RD.
+      1. RDs will review and prioritize their region's top asks and present them in the ENT Leadership QBR. 
+      1. RDs and ENT Sales VP will review full list of ENT asks in subsequent RD meeting and will deliver a final list of prioritized ENT asks (no more than 5 asks per functional group) no later than the Monday following the ENT Leadership QBR. 
+   1. Commercial Ask Prioritization Process 
+      1. AE includes a slide of asks in their QBR presentation
+      1. ASMs review all asks for their region holistically upon pre-review of QBR decks and identify a pattern of asks. 
+         1. ASM-identified top asks will be discussed during their QBR session to identify a final list of prioritized asks.
+      1. ASMs will present their region's top asks in the COMM Leadership QBR. 
+      1. ASMs and COMM Sales VP will review full list of COMM asks and will deliver a final list of prioritized COMM asks no later than the Monday following the COMM Leadership QBR. 
 1. Sales Ops provides representative coverage at each QBR, and captures a list of Sales Asks/Requests (google sheet/notes) with Links to individual QBR presentations.
 1. Following each QBR session, relevant Sales asks are converted to Issues using the [Field-Ops-QBR-Request](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/issues/new?issuable_template=FieldOpsQBR) Template.
 	- Issues opened through above template, will automatically apply the (global) `QBR` label to ensure they’re categorized appropriately for review.
@@ -184,6 +200,7 @@ Below is a sample roll-out of the QBR planning and execution process that is fol
 
 #### 5 weeks before QBRs are scheduled to start
 1. Field Enablement to finalize initial QBR Schedule, Attendee and Agenda document. (See past documents in the [Field Operatons Google Drive folder](https://drive.google.com/drive/u/0/folders/1Zy1AFhJoHo3_nXCiKU8gtM3a1UBBJu6Y).)
+   1. Field enablement with provide a sample agenda for ENT and COMM segments to be used as a reference point for ASMs. 
 1. Field Enablement to create a QBR issue that will be used to share:
    1. Agenda documents 
    1. Deck templates
