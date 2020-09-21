@@ -391,6 +391,19 @@ For assistance with a Subscription Transfer Agreement please open a Legal Reques
 </details>
 
 
+## **How to Create a Draft Proposal** 
+
+Follow the standard process for [quote creation](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes). The Quote Object **does not** need to be approved before generating a Draft proposal. 
+
+1. Click Edit Quote. 
+2. Select the Draft Quote Template. Save. 
+3. Click Generate PDF. A Draft Proposal PDF will be attached to the opportunity in the Notes & Attachments section. 
+
+**Important Notes** 
+- A Draft Proposal PDF is not an Order Form. All quotes must go through the applicable approval process before you can generate an Order Form. Draft Proposals are not guaranteed approval.
+- A Draft Proposal PDF will not be accepted in place of an Order Form under any circumstance. 
+
+
 ## **How to Submit a Quote for Discount and Payment Term Approval**
 
 The following is intended as a guide for Opportunity Owners who need to submit a quote for approval for discount or payment terms. If the quote requires additional approvals before sending to a customer, there will be a <span style="color:red">**red stop sign**</span> flagged with "**Additional Approvals Required**".
