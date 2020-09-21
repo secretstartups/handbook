@@ -164,6 +164,8 @@ A: Zoom will be connected with Chorus to record the slides as well as create a t
          1. ASM-identified top asks will be discussed during their QBR session to identify a final list of prioritized asks.
       1. ASMs will present their region's top asks in the COMM Leadership QBR. 
       1. ASMs and COMM Sales VP will review full list of COMM asks and will deliver a final list of prioritized COMM asks no later than the Monday following the COMM Leadership QBR. 
+   1. Note that SALs/AEs should still read all of their asks as a part of their QBR presentation even if they are not included on the final, prioritized list. ASMs are encouraged to discuss any asks that were not included in the final list with the requestor in their 1:1 to determine how/if any action should be taken. 
+      1. Reps can/should make asks of Field Ops at any time outside of QBRs using [this process] (link?).
 1. Sales Ops provides representative coverage at each QBR, and captures a list of Sales Asks/Requests (google sheet/notes) with Links to individual QBR presentations.
 1. Following each QBR session, relevant Sales asks are converted to Issues using the [Field-Ops-QBR-Request](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/issues/new?issuable_template=FieldOpsQBR) Template.
 	- Issues opened through above template, will automatically apply the (global) `QBR` label to ensure they’re categorized appropriately for review.
