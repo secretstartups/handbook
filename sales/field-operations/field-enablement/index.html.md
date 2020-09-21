@@ -193,6 +193,8 @@ If you have a great training idea and/or enablement request, we'd love to hear i
         - `FE status::backlog`
 - Field Enablement will collaborate with the requester on the request details directly in the issue to clarify any missing information, set up a discovery call, and/or update on next-steps.
 
+If you have a Field Communications request (process change, announcement, etc.), please see the request process outlined [here](/handbook/sales/field-communications/#requesting-field-announcements).
+
 ## Field Enablement groups, projects, and labels
 
 - **Groups**
