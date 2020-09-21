@@ -148,7 +148,7 @@ It could _equally_ mean:
 - reaching out to development teams to find a subject matter expert (SME)
 - suggesting that the customer reach out to additional experts on their side (for example, if the problem is slow storage, you might suggest getting someone from their storage team)
 
-When you're not sure what to do, you might also be unsure what to say. Here are some phrases that might help:
+Remember to say only things that help the customer and that maintain their confidence in you as the person in charge of getting their problem resolved. When you're not sure what to do, you might also be unsure what to say. Here are some phrases that might help:
 - *What have you done up until now to try to resolve this?*
 - *Please give me a few minutes to check the documentation on that.*
 - *I'm doing some research to find the answer to that; please give me a few minutes.*
