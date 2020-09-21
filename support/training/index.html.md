@@ -55,7 +55,7 @@ When you have completed the basic modules, decide with your manager about your [
 
 | Module | Duration | Description |
 | ------ | ------ | ------ |
-| [Self Managed Support Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Self-Managed-Basics.md) | 2 Weeks | Understand the basics to answer GitLab.com (SaaS) product related tickets |
+| [Self Managed Support Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Self-Managed-Basics.md) | 2 Weeks | Understand the basics to answer Self Managed product related tickets |
 | [Customer Emergencies](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Customer-Emergencies.md) | 1 Week | Understand the responsibilities of being on-call for Customer Emergencies |
 
 When the Area of Focus module is complete, let your manager know that you are ready to [join the appropriate On-Call rotations](/support/support-engineer-responsibilities.html#4-participate-in-on-call-rotations-to-coordinate-and-resolve-emergencies-occasionally).
@@ -68,6 +68,12 @@ When the Area of Focus module is complete, let your manager know that you are re
 | [GitLab.com CMOC](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/GitLab-com-CMOC.md) | 1 Day | Understand the responsibilities of being the [Communications Manager On Call (CMOC)](/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) for an active GitLab.com incident |
 
 When the Area of Focus module is complete, let your manager know that you are ready to [join the appropriate On-Call rotations](/handbook/support/support-engineer-responsibilities.html#4-participate-in-on-call-rotations-to-coordinate-and-resolve-emergencies-occasionally).
+
+#### License and Renewals Learning Pathway
+
+| Module | Duration | Description |
+| ------ | ------ | ------ |
+| [License and Renewals](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/License%20and%20Renewals.md) | 2 Weeks | Understand the basics to answer our product's License and Renewals related tickets |
 
 ### Support Manager Onboarding Pathway
 
