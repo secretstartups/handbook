@@ -115,11 +115,11 @@ When your on-call shift starts, you should get notification(s) that your shift i
 
 ### Handling multiple simultaneous emergencies
 
-In rare cases, the on-call engineer may experience concurrent emergencies triggered by seperate customers. When this happens, please remember that you are not alone; follow these steps to ensure proper engagement and resolution of each emergency:
+In rare cases, the on-call engineer may experience concurrent emergencies triggered by separate customers. If this happens to you, please remember that you are not alone; you need only take the first step in the following process to ensure proper engagement and resolution of each emergency:
 
-1. [Contact the on-call Support Manager](/handbook/support/on-call/#paging-the-on-call-manager) to inform them of the new incoming emergency. The Support Manager is responsible for finding an engineer to own the new emergency page.
-1. _Support Manager:_ In Slack, ping the regional support group (i.e. `@support-team-americas`) and request assistance from anyone who has free cycles to assist with the new incoming emergency case.
-1. When an engineer for the new emergency has been found, they are responsible for acknowledging/resolving the emergency page; this shows that they are assisting the customer with the case.
+1. **You**: [Contact the on-call Support Manager](/handbook/support/on-call/#paging-the-on-call-manager) to inform them of the new incoming emergency. The Support Manager is responsible for finding an engineer to own the new emergency page.
+1. **Support Manager**: In Slack, ping the regional support group (_e.g._ `@support-team-americas`) and request assistance from anyone who is available to assist with the new incoming emergency case.
+1. **Second Support Engineer**: Acknowledge and resolve the emergency page to indicate that you are assisting the customer with the case.
 
 ### Taking an emergency customer call
 
