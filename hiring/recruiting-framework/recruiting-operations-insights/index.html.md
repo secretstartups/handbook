@@ -375,6 +375,14 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
 * **Instructions**: This report is a complilation of multiple linked reports via the *Greenhouse Report Connector* tool. Refresh all reports via that connector and enter the current monthly data into the appropriate columns in the following tabs: `Source (Month/Month)`, `Sources & Percentages`, and `Quality (Month/Month)`. Please see the list below for additional action items, where applicable.
      * `Source (Month/Month)`: Simply update the appropriate values that correspond to each source.
          * If a new source needs to be added, insert a new row in the appropriate **Source Category** (e.g. *Prospecting*) and enter its values.
+         * Given the current Outbound model, there should be **no** candidates with the source, `Jobs page on your website`. If there are, please take the following steps to audit their source:
+             1. Run the [New Candidates by Source](https://gitlab.greenhouse.io/reports/new_candidates_by_source?term=&job_status=all&user_role_on_jobs=any_role&include_template_jobs=0&date_relative=current_month&summarize=month&include_migrated_candidates=1&hide_empty_rows=false) report (Filters: `Job Status = All`; `Date = Current Month`; [X] Include Migrated Candidates)
+             1. Go to the All Candidates tab and set the following filters:
+                 * **Clear** the default filters (`Active` and `Open Jobs`)
+                 * Apply `Source = Jobs page on your website` 
+                 * Apply `Applied On = [Current Month]`
+                 * For each candidate that appears, check their respective *Activity Feeds* to see how they came to be in their current requisition.
+                     * For example, if a Recruiting Team Member moved the candidate to the current requisition, then the candidate's source should likely be `Greenhouse Sourcing`.
      * `Sources & Percentages`: Update the appropriate values that correspond to each source. Then, referencing the *Hiring Speed per Candidate* report, determine the total number of **Outbound Offer Accepts** and the **Total Offer Accepts**. The percentage will update automatically as well as the charts if the month remains the same.
          * When adding a new month, create two new columns, copying their formatting, and update the chart's range.
      * `Quality (Month/Month)`: Simply update the appropriate values that correspond to each source.
