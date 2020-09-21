@@ -12,18 +12,27 @@ category: License and subscription
 
 ## Overview
 
-This page details how GitLab Support works the License and Renewals queue (L&R) and how other teams might escalate those tickets should it be needed.
+This page details how GitLab Support works the License and Renewals queue (L&R) and how other teams can escalate those tickets should it be needed.
 
-## What is the queue for?
+## What is in the scope of L&R work in Support?
 
-The L&R queue would be for customer tickets relating to issues with licensing
-and renewals. This might include topics like:
+The L&R queue is for customer tickets and internal issues relating to licensing and subscription. This might include topics like:
 
-* How to apply a license
-* Errors when applying a license
+* Troubleshooting license application and subscription association issues
 * Generalized license queries from a user
+* Assisting Sales/CS with requests related to licensing, subscriptions, customers portal capabilities, trials and EULA requests.
 
-For issues relating to the product that handles licensing, those would be directed to the `#g_fulfillment` channel in slack.
+## What is **not in the scope** of L&R work in Support?
+
+The L&R queue should not be used for the following:
+
+* Billing related matters, such as payments, invoice generation, refunds, etc.
+* Product related questions
+* [New business requests](https://about.gitlab.com/sales/)
+* Requests related to the
+  [education program](https://about.gitlab.com/solutions/education/)
+* Requests related to the
+  [open source program](https://about.gitlab.com/solutions/open-source/program/)
 
 ## How does this queue align with the "Growth" Stage?
 
@@ -37,42 +46,51 @@ When we look at the product [Growth](/handbook/product/product-categories/#growt
 |[Fulfillment](https://about.gitlab.com/direction/fulfillment/)|Purchasing, Customer Portal Usage, Subscription Management|
 |[Retention](https://about.gitlab.com/direction/retention/)|Renewals, Getting Started, License & User Management|
 
-## What is this queue **not** for?
+## Working the L&R Queue
 
-The L&R queue should not be used for the following:
+### Training
 
-* Billing related matters, such as payments, invoice generation, refunds, etc.
-* Product related questions
-* [New business requests](https://about.gitlab.com/sales/)
-* Requests related to the
-  [education program](https://about.gitlab.com/solutions/education/)
-* Requests related to the
-  [open source program](https://about.gitlab.com/solutions/open-source/program/)
+- Complete the License and Renewals Training Module. This will give you confidence to handle most of the tickets in this queue.
 
-## Workflow
+### Workflows
 
-To begin working the queue, you would first want to complete the Growth Specialty Bootcamp. Once you have completed that, you will gain mastery in this area, thus signaling your readiness to work the queue.
+- Generally speaking, [Subscription and billing issues](license_troubleshooting.html) will cover the majority of issues you will encounter. For those not detailed there, it is recommended to either talk to an Escalation Point about the issue or make a MR to add the details to that page.
+- All our documented L&R workflows can be found [in this section](https://about.gitlab.com/handbook/support/workflows/#License%20and%20subscription)
 
-Generally speaking, [Subscription and billing issues](license_troubleshooting.html) will cover the majority of the issues you will encounter. For those not detailed there, it is recommended to either talk to an Escalation Point about the issue or make a MR to add the details to that page.
+### Servicing Internal Requests
 
-## Where do licensing questions go?
+Follow the same [General Workflow](/handbook/support/workflows/internal_requests.html#general-workflow) as dotcom for servicing L&R internal requests.
 
-For generalized license related questions, you can ask via the `#questions` channel in slack. 
+#### [GitLab.com Billable Members List](https://gitlab.com/gitlab-com/support/internal-requests/-/blob/master/.gitlab/issue_templates/Billable%20Members.md)
 
-If the question pertains to a specific customer issue and the circumstances are such that you do not want to ask the customer to [open a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000071293), you can [open an internal issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Plan%20Change%20Request) using the `License Issue` template for assistance.
+Use the [rollcall script](https://gitlab.com/gitlab-com/support/toolbox/glgl#rollcall) and obtain a list of members for the group. If the script doesn’t work, or shows discrepancies, involve someone with console escalation access by applying the `Console escalation::GitLab.com` label in the issue.
 
-## What is the SLA for a L&R ticket?
+#### Trial Extensions
 
-Currently, the SLA for these tickets is 24 business hours.
+##### [Plan Change Request Workflow](/handbook/support/workflows/trial_extensions.html#plan-change-request)
+##### [Extend Gitlab.com Trials Workflow](/handbook/support/workflows/trial_extensions.html#extending-gitlabcom-trials)
+##### [Extend Self-Managed Trials Workflow](/handbook/support/workflows/trial_extensions.html#extending-gitlab-self-managed-trials)
 
-## How/when do I escalate a L&R ticket?
+#### Send/Resend EULAs
 
-Currently, there is only one real criteria for escalating a L&R ticket:
+Follow the [Troubleshooting EULAs](/handbook/support/workflows/assets/troubleshooting_eulas.html) workflow to action EULA related internal requests.
 
-* The ticket will breach SLA within the hour.
+#### Assistance with License & SaaS Subscription Issues
 
-Outside of this, the ticket is usually able to wait until one of our agent's is
-able to work through the ticket.
+Checkout the relevant topics in our [L&R internal wiki](https://gitlab.com/gitlab-com/support/license-and-renewals/-/wikis/home) for assistance with these internal requests.
 
-To escalate a L&R ticket, you would want to follow Support's existing
-[escalation policy](/handbook/support/internal-support/#i-want-to-draw-attention-to-an-existing-support-ticket).
+## For Other GitLab Team Members
+
+### Where do licensing questions go?
+
+- For generalized license related questions, you can ask via the `#questions` channel in slack.
+- For issues relating to the product that handles licensing, redirect them to `#g_fulfillment` channel in slack.
+- If the question pertains to a specific customer issue and the circumstances are such that you do not want to ask the customer to [open a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000071293), you can [open an internal issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Plan%20Change%20Request) using the `License Issue` template for assistance.
+
+### What is the SLA for an L&R ticket?
+
+Currently, the SLA for L&R tickets is 24 business hours.
+
+### How/when do I escalate an L&R ticket?
+
+You can escalate an L&R ticket or issue using our [Ticket/Issue escalation workflow](https://about.gitlab.com/handbook/support/internal-support/#other). Usually, L&R tickets are able to wait until one of our Support Engineers is able to work through the ticket. Please mention the reason for escalation when using the above workflow to help us understand any history/context on why the ticket/issue cannot wait.
