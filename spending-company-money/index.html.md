@@ -17,25 +17,25 @@ The guidelines below describe what people in our team commonly expense. Some of 
 ## Guidelines
 
 1. Spend company money like it is your **own** money. _No, really_.
-1. You don't have to [ask permission](https://m.signalvnoise.com/if-you-ask-for-my-permission-you-wont-have-my-permission-9d8bb4f9c940) before making purchases **in the interest of the company**. When in doubt, do **inform** your manager before the purchase, or as soon as possible after the purchase.
+1. You don't have to [ask permission](https://m.signalvnoise.com/if-you-ask-for-my-permission-you-wont-have-my-permission-9d8bb4f9c940) before making purchases **in the interest of the company**. When in doubt, do **inform** your manager prior the purchase, or as soon as possible after the purchase.
 1. It is generally easiest and fastest for you to make any purchases for office supplies yourself and expense them. If you are unable to pay for any supplies yourself, please follow the [Advance instructions](/handbook/spending-company-money/#advance).
 1. You may privately use GitLab property, a MacBook for example, to check your private e-mails or watch a movie as long as it does not violate the law, harm GitLab, or interfere with [Intellectual Property](/handbook/general-guidelines/#sts=Intellectual Property). More details can be found in the [internal Acceptable Use Policy](/handbook/people-group/acceptable-use-policy/).
 1. If you make a purchase that will cost GitLab $1000 USD per item (or over), this is classed as company property, you will be required to return the item(s) if you leave the company.
-1. Employees: file your expense report in the same month that you made the purchase in.  Please combine multiple expenses on one report if possible. Contractors: include receipts with your invoices.
-1. Any non-company expenses paid with a company credit card will have to be reported to your manager as soon as possible and **refunded** in full within 14 days.
-2. If team members submit expenses for reimbursement, on either on the company credit card or via their personal credit card, for personal purchases that are not covered in the expense policy, this is a violation of our [code of conduct](/handbook/people-group/code-of-conduct/#maintain-accurate-financial-records--internal-accounting-controls).  
+1. Employees: file your expense report in the same month that you made the purchase. Contractors: include receipts with your invoices.
+1. Any non-company expenses should not be paid with a company credit card.
+2. If team members submit expenses for reimbursement for personal purchases that are not covered in the expense policy, this is a violation of our [code of conduct](/handbook/people-group/code-of-conduct/#maintain-accurate-financial-records--internal-accounting-controls).  
 
 
 ## Expense Policy
 
 1. Max Expense Amount - [$5,000 USD](/handbook/total-rewards/compensation/#exchange-rates) - NOTE - If you are a corporate credit card holder, please refer to the [corporate credit card policy section](/handbook/finance/accounting/#credit-card-use-policy) for those specific instructions and thresholds.
-1. Receipt Required Amount - [$25 USD](/handbook/total-rewards/compensation/#exchange-rates)
-1. Expenses must be submitted within 90 days of purchase.
+1. Receipts are required for all expenses.
+1. Expenses must be submitted within 30 days of purchase/spend. This helps the Company to better manage our budget and ensures accurate monthly financial reporting.
 
 For further information on Expenses, visit the [Expenses handbook section](/handbook/finance/expenses/). 
 
 The aforementioned section covers details including:
-1. Reimbursing coworking fees and external office space.
+1. Reimbursing coworking fees and external office space
 1. Office equipment and workspace supplies
 1. Work-related online courses and professional development certifications
 1. Year-end holiday party budget 
@@ -56,7 +56,7 @@ These instructions apply if a team member is unable to purchase items, for whate
     * Click on the report name in the body of the email
     * Review each expense for the correct amount of the receipt and the report
     * Check for customers or project name if applicable under Tag
-    * We required a receipt for any expense greater than $25 (except for Billable policy)
+    * We require a receipt for all expenses
     * Select [Approve and Forward] option and Expensify pre-populated the email address.  Note, Expensify is updating their coding to address a small glitch in this field.  If it is empty, please send it to **Montpac** (gitlab-expensify-mp@montpac.com)
     * **Important** - please do not use [Final Approval] because Expensify will not send the email notification for payment approval and it will delay the reimbursement process
     * Manager can delegate the approval process during PTO:
@@ -68,9 +68,26 @@ These instructions apply if a team member is unable to purchase items, for whate
 Slack channel
 
 1.  **Expenses Reports approval deadline**
-    * Australia, Germany, India, Netherlands, United States - as soon as possible
-    * United Kingdom - all expense reports must be approved by manager no later than the 14th of each month.  Team members - please be sure to submit your report(s) couple days before the due date so your manager has enough time for approval.
-    * All non-US contractors - all expense reports must be approved by manager no later than the 8th of each month. Team members - please be sure to submit your report(s) couple days before the due date.
+    * Australia, Germany, New Zealand, Netherlands, United States - After approval completion by manager and accounts payable
+    * United Kingdom - All expense reports must be approved by the Manager and Accounts Payable no later than the 14th of each month.  Team members - please be sure to submit your report(s) couple days before the due date so your manager and accounts payable have enough time for approval.
+    * Canada - All expense reports must be approved by manager and accounts payable before 1st day of each payroll period.
+    * All non-US contractors - All expense reports must be approved by manager and accounts payable no later than the 8th of each month. Team members - please be sure to submit your report(s) couple days before the due date.
+
+
+
+## Mileage
+
+Mileage is reimbursed according to local law: [US rate per mile] (http://www.irs.gov/Tax-Professionals/Standard-Mileage-Rates), [rate per km in the Netherlands] (http://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/auto_en_vervoer/auto_van_de_onderneming/autokosten/u_rijdt_in_uw_eign_auto) , or [rate in Belgium] (https://fedweb/belgium.be/nl/verloning_en_voordelen/vergoedingen/vergoeding-voor-reiskosten) . Add a screenshot of a map to the expense in Expensify indicating the mileage. 
+
+## Internet/Mobile Subscription
+
+ * For team members outside the Netherlands: follow normal expense report process. 
+ * For team members in the Netherlands : fill in and sign the [Regeling Internet Thuis] (https://docs.google.com/a/gitlab.com/document/d/1J70geARMCjRt_SfxIY6spdfpTbv_1v_KDeJtGRQ6JmM/edit#heading=h.5x5ssjstqpkq) form and send it to the People Experience team at people-exp@gitlab.com . The People Experience team will then send it to the payroll provider in the Nehterlands via email. The details of the payroll provider can be found in the PeopleOps vault in 1Password under "Payroll Contacts". 
+ 1. VPN serivce subscription. Please read [Why We Don't Have a Corporate VPN] (/handbook/security/#why-we-dont-have-a-corporate-vpn) for more information about VPN usage at GitLab.
+ 1. Mobile subscription, we commonly pay for that if you are a salesperson or executive, or if your position requires participation in an on call rotation. If your device cost is part of your monthly plan please do not include the device on the expense reimbursement. 
+ 1. Telephone land line (uncommon, except for positions that require a lot of phone calls)
+ 1. Skype/Google Hangouts calling credit (uncommon, since we mostly use Zoom)
+
 
 ## Laptops
 
