@@ -43,7 +43,7 @@ The calculator is embedded in every [job family](/handbook/hiring/job-families/)
 
 ### The Compensation Calculator Formula
 
-Your compensation = [SF benchmark](#sf-benchmark) x [Location Factor](#location-factor) x [Level Factor](#level-factor) x [Compa Ratio](#compa-ratio) x [Contract Factor](#contract-factor) x [Exchange Rate](/handbook/total-rewards/compensation/#exchange-rates)
+Your compensation = [SF benchmark](#sf-benchmark) x [Location Factor](#location-factor) x [Level Factor](#level-factor) x [Contract Factor](#contract-factor) x [Exchange Rate](/handbook/total-rewards/compensation/#exchange-rates)
 
 The calculator will output the amount as `base + variable = total target cash (TTC)`
 
