@@ -141,6 +141,7 @@ See the [Working on Tickets Flowchart](#working-on-tickets-flowchart) for a visu
    1. If you'll be absent, see the FAQ above about reassigning tickets when you'll be absent.
    1. If you've determined that specific expertise outside your own is required to resolve the ticket, your first choice should be to pair with an expert so that you can get the ticket resolved and learn in the process. But if pairing is not reasonable, go ahead and reassign the ticket after discussing it with the other support engineer.  Be sure to send a message to the user informing them that you’ve asked another support engineer with relevant expertise to take over the ticket, and that you’ve reviewed the ticket with that engineer.
    1. If you've become overloaded with tickets, feel free to rebalance your load by finding one or more teammates to take over some of your tickets. Be sure you discuss each ticket before reassigning it so that the other support engineers don't have to start from scratch. Then inform the user that you’ve asked another support engineer to take over the ticket due to time constraints.
+   1. When a volunteer is found that will take a ticket, that volunteer should reassign the ticket to themselves.  Assigning a ticket to another person should only be done by the person taking responsibility so the path is clear they are assuming ownership of that ticket.
 
 ## Working on Tickets Flowchart
 
