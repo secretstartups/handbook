@@ -92,9 +92,11 @@ Keep in mind, open-ear headphones can often be worn longer than in-ear or closed
   * Macally Bluetooth wireless keyboard - [US](https://www.amazon.com/Macally-Bluetooth-Computers-Rechargeable-Indicators/dp/B07K24ZLWC)
   * Logitech Ergo K860 Wireless Ergonomic Keyboard with Wrist Rest [US](https://www.amazon.com/gp/product/B07ZWK2TQT/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
 
-### 2FA Tokens
+### U2F Tokens 
+To understand more about where these can be used see the [Security Practices Page](https://about.gitlab.com/handbook/security/#two-factor-authentication).
   * Google Titan Security Key - [AT, CA, FR, DE, IT, JA, ES, CH, UK, US (excl. PR)](https://store.google.com/product/titan_security_key)
   * Yubikey - [Ships to most countries](https://www.yubico.com/store/)
+
 
 ### Office Furniture
 
