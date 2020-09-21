@@ -4,7 +4,7 @@ title: "Engineering Workflow"
 ---
 
 This document explains the workflow for anyone working with issues in GitLab Inc.
-For the workflow that applies to everyone please see [PROCESS.md](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/PROCESS.md).
+For the workflow that applies to everyone please see [PROCESS.md](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/PROCESS.md).
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -220,7 +220,7 @@ For larger issues or issues that contain many different moving parts, you'll be 
     1. It's generally preferable to ship a smaller iteration of an issue, than ship something a release later.
 1. Consider starting a Slack channel for a new team, but remember to write all relevant information in the related issue(s). You don't want to have to read up on two threads, rather than only one, and Slack channels are not open to the greater GitLab community.
 1. If an issue entails frontend and backend work, consider separating the frontend and backend code into separate MRs and merge them independently under [feature flags](https://docs.gitlab.com/ee/development/feature_flags.html). This will ensure frontend/backend engineers can work and deliver independently.
-    1. It's important to note that even though the code is merged behind a feature flag, it should still be production ready and continue to hold our [definition of done](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done).
+    1. It's important to note that even though the code is merged behind a feature flag, it should still be production ready and continue to hold our [definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done).
     1. A separate MR containing the integration, documentation (if applicable) and removal of the feature flags should be completed in parallel with the backend and frontend MRs, but should only be merged when both the frontend and backend MRs are on the master branch.
 
 In the spirit of [collaboration](/handbook/values/#collaboration) and [efficiency](/handbook/values/#efficiency-for-the-right-group), members of teams should feel free to discuss issues directly with one another while [being respectful of others' time](/handbook/communication/#be-respectful-of-others-time).
@@ -269,7 +269,7 @@ Make sure to follow our [Code Review Guidelines](https://docs.gitlab.com/ee/deve
 
 Labels are described in our [Contribution guide][contrib-labels-guide].
 
-[contrib-labels-guide]: https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md
+[contrib-labels-guide]: https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/issue_workflow.md
 
 ## Working with GitLab.com
 
@@ -317,7 +317,7 @@ Make sure the appropriate labels (such as `customer`) are applied so every issue
 
 ## Product Development Timeline
 
-[![](gitlab-release-timelines.png)](https://gitlab.com/gitlab-org/gitlab-ce/snippets/1731455)
+[![](gitlab-release-timelines.png)](https://gitlab.com/gitlab-org/gitlab-foss/-/snippets/1731455)
 
 Teams (Product, UX, Engineering) continually work on issues according to their respective workflows.
 There is no specified process whereby a particular person should be working on a set of issues in a given time period.
@@ -573,7 +573,7 @@ Not everything is urgent. See below for a non-exclusive list of things that are 
 * In Scope
   * Last-minute release blocking bug or security patch before an imminent release.
   * High severity (severity::1/priority::1) security issues. Refer to [security severity and priority](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues).
-  * Highest priority and severity customer issues based on the [priority and severity definitions](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#priority-labels).
+  * Highest priority and severity customer issues based on the [priority and severity definitions](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/issue_workflow.md#priority-labels).
 * Not In Scope
   * An operational issue of GitLab.com or a self managed customer environment. This falls under the [on-call](/handbook/on-call/index.html) process.
   * Self developed and maintained tools that are not officially supported products by GitLab.
@@ -581,7 +581,7 @@ Not everything is urgent. See below for a non-exclusive list of things that are 
 
 ### Process
 
-1. Person requesting Rapid Engineering Response creates an issue supplying all known information and applies [priority and severity](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#priority-labels) (or [security severity and priority](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)) to the best of their ability.
+1. Person requesting Rapid Engineering Response creates an issue supplying all known information and applies [priority and severity](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/issue_workflow.md#priority-labels) (or [security severity and priority](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)) to the best of their ability.
 1. Person requesting Rapid Engineering Response raises the issue to their own manager and the [subject matter domain](/handbook/product/product-categories/index.html) engineering manager (or the delegation if OOO).
    1. In case a specific group cannot be determined, raise the issue to the Director of Engineering (or the delegation if OOO) of the [section](/handbook/product/product-categories/index.html).
    1. In case a specific section cannot be determined, raise the issue to the Sr. Director of Development (or the delegation if OOO).
@@ -595,7 +595,7 @@ Not everything is urgent. See below for a non-exclusive list of things that are 
    1. Support
    1. Distribution engineering manager
    1. Delivery engineering manager (Release Management)
-1. Adjust [priority and severity](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#priority-labels) or [security severity and priority](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) if necessary, and work collaboratively on the determined resolution.
+1. Adjust [priority and severity](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/issue_workflow.md#priority-labels) or [security severity and priority](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) if necessary, and work collaboratively on the determined resolution.
 
 ## Availability and Performance Refinement
 
