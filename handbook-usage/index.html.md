@@ -241,7 +241,7 @@ In wikis it is impossible to make proposals that touch multiple parts of a page 
 - Anyone who can read the handbook can make a proposal
 - Leaders (who tend to be short on time) only have to approve such a proposal
 
-Wikis also do not encourage collaboration on changes, because there is not way to discuss a proposed change like there is with merge requests.
+Wikis also do not encourage collaboration on changes, because there is no way to discuss a proposed change like there is with merge requests.
 
 ## External use of the Handbook
 
