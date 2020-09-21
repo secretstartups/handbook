@@ -32,6 +32,7 @@ In that case, you can [upload it to YouTube](#uploading-to-youtube).
 1. If you're not a host, you can't livestream direct from zoom, so the host will need to do that.
 1. If there is more than one host for the meeting **the host that joins the meeting first** is the only host that can livestream direct from zoom. 
 1. Generally, for a livestream, it's helpful to have a separate person handling [promoting people to panelist](https://support.zoom.us/hc/en-us/articles/115004834466-Managing-Participants-in-Webinar).
+1. **Please don't include any confidential information in the description of your Youtube video since there is a bug that can cause [private video descriptions to propogate over to public ones](https://gitlab.com/gitlab-com/business-ops/team-member-enablement/issue-tracker/-/issues/809)**
 
 ### Livestream with Zoom 
 
