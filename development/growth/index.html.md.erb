@@ -247,7 +247,6 @@ To support [Iteration](/handbook/values/#iteration) Growth engineering:
 
 In an effort to prevent accidental outages to business critical processes, whenever we touch code which may have a direct or indirect impact on data flowing into Salesforce.com, we should assign @jbrennan1 to the MR as a reviewer. Note, a group is being created to replace the single point of failure.
 
-<!-- BEGINNING OF SECTION TO UPDATE -->
 ## Running Experiments
 
 We follow a four step process for running experiments as outlined by [Andrew Chen's How to build a growth team.](https://andrewchen.co/how-to-build-a-growth-team/)
@@ -261,63 +260,86 @@ Each week, we provide progress updates and talk about our learnings in our [Grow
 
 The duration of each experiment will vary depending on how long it takes for experiment results to reach statistical significance. Due to the varying duration, there will be some weeks where we have several experiments running concurrently in parallel.
 
-<!-- Jerome: Our goal is to get to the point of being able to run 4 experiments per engineer per week (or something like that, I seem to recall). -->
+### Experimentation Process
 
-<!-- Let’s breakdown each of those 4 steps outlined above -->
-
-### Form Hypotheses
-
-### Prioritize Ideas
-
-### Implement Experiments
-
-### Analyze Results
-
-### Experiment Flow
-
-#### Rough outline of process
-
-1. Anybody has an idea of something to try (i.e., an experiment)
-1. They begin an experiment definition issue, filling in what they can of the current state, their idea (i.e. hypothesis), and what a successful outcome might look like
-1. PM reviews experiment definition issues regularly to ensure they meet the necessary criteria of a well-defined experiment
-1. PM works with UX & Engineering to ensure experiment definition (mainly hypothesis & success/failure metrics) meets the requirements for moving forward
-   - experiment definitions that meet our standard and are deemed relevant & worthwhile move on to the next phase
-   - experiment definitions that do not meet our standard or are deemed no longer relevant or worthwhile simply get closed
-1. PM creates an epic for the experiment, linking to the original experimentation definition, and pulling in the final experiment definition from that original exp. definition issue as the epic’s description (this is still subject to change but now it will change in the epic rather than the exp. def. issue)
+1. Anybody who has an idea of something to try as an experiment can create a new [Experiment Definition Issue](#experiment-definition-issue)
+   - They create a new issue in the `gitlab-org/growth/experiments` project using the `Experiment Definition` issue template which will guide them through the necessary information and will automatically apply labels
+   - They provide information about which portion of the product they'd like to experiment with, their experimentation idea (i.e. their hypothesis), and what a successful outcome might look like
+   - At this extremely early stage, the most critical thing is that we get the idea jotted down with enough context and detail that it is understood by others on the team and can be carried forward by the Project Manager
+1. Project Manager (PM) reviews experiment definition issues regularly to ensure they meet the necessary criteria of a well-defined experiment
+   - New experiments are tagged with the `~"experiment::idea"` scoped label and show up on the ["gitlab-org" experiment issues board](#experiment-issue-boards)
+1. PM works with UX & Engineering to ensure experiment definition, hypothesis, and measurement-of-success meet the requirements for moving forward
+   - experiments that meet our [Experiment Definition Standards](#experiment-definition-standards) and are deemed relevant & worthwhile move on to the next phase
+   - experiments that do not meet our [Experiment Definition Standards](#experiment-definition-standards) or are deemed no longer relevant or worthwhile simply get closed
+1. PM creates the [Experiment Epic](#experiment-epic), following the process outlined in [Experiment Issue Creation](#experiment-issue-creation)
 1. PM works with UX and Engineering to begin generating issues from the experiment definition
-1. PM works with data ingest team to begin setting up data pipeline flow for new data points
-1. PM adds a new experiment key via the experimentation tooling UI (TBD)
-1. UX creates mockups of UI and UX flows for experiment, working with the PM, a Technical Writer, and Engineering
-1. Engineering creates issue(s) based on UX work & the new experimentation key the PM set up
-1. Engineering works through MRs to fulfill the needs of the experiment
-1. Engineering moves experiment forward to next phase once all MRs have been merged and deployed to production
-1. PM enables experiment via experimentation tooling UI (TBD) and sets up the strategy & rollout
+1. PM works with the Data Team to define what data will be needed in order to fulfill the defined success metric
+1. UX creates mockups of UI and UX flows for experiment, working with PM, Technical Writer, Engineering, etc.
+1. Engineering engages in the [Product Development Flow](/product-development-flow) to get the experiment-running code deployed to the latest version of the product
+1. Engineering & PM collaborate on getting the experiment activated according to the defined rollout plan
+   - PM updates the [Experiment Tracking Issue](#experiment-tracking-issue) setting the experiment scoped label to `~"experiment::active"`
+   - PM notifies interested parties (their team, data team, support, TAMs, etc.) by at-mentioning them in a comment on the [Experiment Tracking Issue](#experiment-tracking-issue)
 1. PM monitors experiment via data sent to Sisense, adjusting the rollout & strategy as necessary
-1. PM compares recorded data to the experiment’s definition of success/failure criteria
-   - if experiment (variant) is successful, PM/Engineering create a clean-up issue to go with the successful flow
-   - if experiment (all variants) are unsuccessful, PM/Engineering create a clean-up issue to remove the experimentation code, reverting back to the “control” flow
-1. The experiment process is complete
+1. PM compares recorded data to the experiment's criteria for measuring success
+   - if experiment (variant) is successful, PM/Engineering create an [Experiment Cleanup Issue](#experiment-cleanup-issue) to fully integrate the successful flow into the product
+   - if experiment (all variants) are unsuccessful, PM/Engineering create an [Experiment Cleanup Issue](#experiment-cleanup-issue) to remove the experimentation code, reverting back to the "control" flow
+1. Once the [Experiment Cleanup Issue](#experiment-cleanup-issue) is resolved, the [Experiment Epic](#experiment-epic) is closed and the experimentation process is complete
 
 ### Experiment Issue Boards
-Experiments are tracked on Growth - Experiments boards by group:
+
+Experiments are tracked on Growth Experiments boards by group:
 
 | gitlab-org | gitlab-com | gitlab-services | all groups |
 | ------ | ------ | ------ | ------ |
-| [Growth Experiments](https://gitlab.com/groups/gitlab-org/-/boards/1352542) | [Growth Experiments](https://gitlab.com/groups/gitlab-com/-/boards/1542208) | [Growth Experiments](https://gitlab.com/groups/gitlab-services/-/boards/1542265) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=growth%20experiment) |
+| [Growth Experiments](https://gitlab.com/groups/gitlab-org/-/boards/1352542) | [Growth Experiments](https://gitlab.com/groups/gitlab-com/-/boards/1542208) | [Growth Experiments](https://gitlab.com/groups/gitlab-services/-/boards/1542265) | [Issues List](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=growth%20experiment) |
 
 ### Experiment Issue Creation
-All growth experiments consist of two issues:
-* **Experiment issue**: this issue acts as the single source of truth for an experiment which includes an experiment overview, the rollout plan, and the results. This issue will be tagged with the `~"growth experiment"` label, and a scoped `experiment::` label.
-* **Clean up issue**: this issue is used to clean up an experiment after an experiment is completed. The clean up work may include completely removing the experiment or refactoring the experiment feature for the long run.
+
+- Experiments generally begin their lifecycle as an [Experiment Definition (EXP DEF) Issue](#experiment-definition-issue) in the `gitlab-org/growth/experiments` project
+- Once the experiment hypothesis & measurement criteria are well-defined, an [Experiment Epic](#experiment-epic) is created at the top-level group most appropriate for the experimentation work (usually the `gitlab-org` group)
+  - The epic becomes the single source of truth (SSoT) for the experiment
+  - The original [Experiment Definition Issue](#experiment-definition-issue) is closed and gets attached to the epic
+  - The final definition, hypothesis, & measurement criteria from the [Experiment Definition Issue](#experiment-definition-issue) are copied into the new epic’s description
+- New issues related to the experiment (such as an [Experiment Tracking Issue](#experiment-tracking-issue), an [Experiment Cleanup Issue](#experiment-cleanup-issue), a UX spec issue, or an Engineering work issue) are attached to the epic
+
+#### Experiment Definition Issue
+
+This issue acts as the starting point for defining an experiment, including an overview of the experiment, the hypothesis, and some idea of how success will be measured. This issue will be tagged with the `~"growth experiment"` label and the `~"experiment::idea"` scoped label.
+
+#### Experiment Epic
+
+This epic acts as the single source of truth (SSoT) for the experiment once an experiment has been properly defined according to our [Experiment Definition Standards](#experiment-definition-standards) and is deemed worthwhile to run. Once an [Experiment Definition Issue](#experiment-definition-issue) graduates to an epic, we fill out further details such as the expected rollout plan. We also assign the experiment to a Milestone and begin divvying up the UX & Engineering work. The epic will be labeled with the `~growth experiment` label and will likely begin with the `~"experiment::in dev"` scoped label.
+
+#### Experiment Tracking Issue
+
+This issue is used to track the experiment progress once it is live. The issue contains details about the tracking events and data points used to determine if the experiment is a success as well as links to relevant metrics-reporting dashboards (such as Sisense).
+
+#### Experiment Cleanup Issue
+
+This issue is used to clean up an experiment after an experiment has been completed. The cleanup work may include completely removing the experiment (in the case of `~"experiment::invalidated"` and `~"experiment::inconclusive"`) or refactoring the experiment feature for the long run (in the case of `~"experiment::validated"`).
+
+### Experiment Definition Standards
+
+1. The experiment can be qualitatively measured (i.e. there are no other factors that could give us false data)
+1. The experiment is as atomic as possible (i.e. it is easiest to measure one, specific, individual change rather than a series or group of changes)
+1. The experiment has clearly defined and reliably measurable success metrics
+   - There is consensus around the chosen success metric
+   - The success metric is clearly tied to a piece of data which will be collected & measured during the `~"experiment::active"` phase of the experiment
+1. The experiment includes an estimated time to significance: how long the experiment would need to run given the population size and expected conversion rate
+   - Can use handy tools, like the [A/B-Test Calculator (external)](https://abtestguide.com/calc/), to help calculate this estimate
 
 ### Experiment Issue Labels
-For tracking the status of experiments we also use the following scoped `experiment::` labels:
-* `~"experiment::pending"`
-* `~"experiment::active"`
-* `~"experiment::blocked"`
-* `~"experiment::validated"`
-* `~"experiment::invalidated"`
-* `~"experiment::inconclusive"`
+
+For tracking the status of experiments we also use the following `experiment` scoped labels:
+
+* `~"experiment::idea"` - The early stages of exploring & defining an experiment
+* `~"experiment::in dev"` - The experiment is being actively pursued and work is being divvied up amongst UX & Engineering
+* `~"experiment::pending"` - The experiment is waiting to be deployed
+* `~"experiment::active"` - The experiment is active (live)
+* `~"experiment::blocked"` - The experiment is currently blocked
+* `~"experiment::validated"` - The experiment has been validated (the success criteria was clearly met)
+* `~"experiment::invalidated"` - The experiment has been invalidated (the success criteria was clearly unmet)
+* `~"experiment::inconclusive"` - The experiment was inconclusive (the success criteria was not clearly met nor clearly unmet)
 
 ### Release Schedule
 
@@ -329,8 +351,6 @@ Release schedules vary depending on where an experiment is being conducted.
 - [Customers application:](https://gitlab.com/gitlab-org/customers-gitlab-com) Daily
 
 Experiments are generally excluded from [monthly release posts](/handbook/marketing/blog/release-posts/#contributing-to-a-section) as they are behind feature flags and [usually made available](/handbook/marketing/blog/release-posts/#feature-availability) on GitLab.com. An experiment feature can be added to the release post only after it has been implemented for the long run.
-
-<!-- END OF SECTION TO UPDATE -->
 
 ## Growth Engineering Weekly
 
