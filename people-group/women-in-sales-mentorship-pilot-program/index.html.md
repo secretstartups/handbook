@@ -66,7 +66,7 @@ We will continue iterating on the pilot as we go, but the initial structure will
 | Selection and program topic identification* | May 22 - 28, 2020 |
 | Mentor Program Kick-Off Meeting to review: expectation setting, mentor/mentee roles, program structure details, etc. | June 10, 2020 |
 | Continued mentorship and implementation of concepts discussed in day-to-day | mid June - mid September 2020  |
-| Feedback survey at the midpoint of the pilot program | end July 2020 |
+| Feedback survey at the midpoint of the pilot program <br> * [Survey for Mentees](https://docs.google.com/forms/d/1kh1jv5MkRkcpXfMczF0y3z0KOszM1EaS0A_gZfGH4LY/edit) <br> * [Survey for Mentors](https://docs.google.com/forms/d/10XFCHYTBICdruNUphLZGdUiPLn-7GhgHoilUhfTl1nA/edit) | end July 2020 |
 | Feedback survey at the end of the pilot program | end September 2020 |
 
 
