@@ -98,7 +98,7 @@ When your on-call shift starts, you should get notification(s) that your shift i
 
 ### Responding to PagerDuty alerts
 
-1. When an emergency is triggered, you receive an alert from PD. This could be a text, phone call, email, and/or Slack message (depending on your PagerDuty notification preferences).
+1. When an emergency is triggered, you will receive an alert from PD. This could be a text, phone call, email, Slack message, or a combination of those (depending on your PagerDuty notification preferences).
 1. Acknowledge the alert in PagerDuty or Slack. This means that you received the emergency page, and are starting the response process.
 1. **OPTIONAL:** Create a new Issue using the [Emergency Runbook Issue Template](https://gitlab.com/gitlab-com/support/emergency-runbook/-/issues/new), to guide you through the emergency response process for Customer Emergency tickets. 
 1. Open the Zendesk ticket. 
