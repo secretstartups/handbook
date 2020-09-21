@@ -3,6 +3,8 @@ layout: handbook-page-toc
 title: Product Development Flow
 ---
 
+<!--ATTENTION: We're currently in the midst of iterating on the Product Development Flow via a working group https://about.gitlab.com/company/team/structure/working-groups/product-development-flow/ - if you'd like to make changes we'd ask you collaborate with the working group by joining the slack (or WG syncronous meeting) and assigning any MRs to the DRIs for review and approval.-->
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
