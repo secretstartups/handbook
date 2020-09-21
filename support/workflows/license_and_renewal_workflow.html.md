@@ -56,6 +56,7 @@ When we look at the product [Growth](/handbook/product/product-categories/#growt
 
 - Generally speaking, [Subscription and billing issues](license_troubleshooting.html) will cover the majority of issues you will encounter. For those not detailed there, it is recommended to either talk to an Escalation Point about the issue or make a MR to add the details to that page.
 - All our documented L&R workflows can be found [in this section](https://about.gitlab.com/handbook/support/workflows/#License%20and%20subscription)
+- As you work through the queue and on issues, if you spot something in the [Fulfillment backlog](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=group%3A%3Afulfillment) that would makes things better for customers and Support, please don’t forget to label it with `Support Priority` - this helps the product team in prioritising for the next milestone.
 
 ### Servicing Internal Requests
 
