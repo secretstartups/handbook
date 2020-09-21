@@ -75,6 +75,41 @@ page].
 
 <%= partial("handbook/engineering/development/dev/plan/portfolio_certify_planning_rotation") %>
 
+#### Consider a Spike and/or a Design Document
+
+Work that arrives in ~"workflow::ready for development" that is out of scope 
+or ill-defined should be 
+[returned to ~"workflow::planning breakdown" for further refinement][1].
+To avoid the disruption this introduces we try to reduce the number of times 
+it happens by planning more carefully. While it's not always possible, we aim 
+to identify complexity before the build phase. For this reason, we assign
+a backend [DRI][dri] to help with each upcoming deliverable during design and
+validation phases.
+
+However, sometimes complexity can't be accurately estimated until development 
+work starts. If you anticipate this during planning, consider creating a spike to produce a
+design document. Notify the participants in the issue, especially the PM, that 
+a spike is required, create a separate issue and follow these
+steps:
+
+1. Title the issue with the goal of the spike;
+1. Add the ~spike, ~backend, and corresponding stage/group labels;
+1. List the unknowns and questions to be answered;
+1. List decisions, architectural or otherwise, that need to be made;
+1. Identify counterparts you'll need help from (e.g. Frontend or UX) and establish a DRI;
+1. Mark the issue as blocking the original, and
+1. Label with ~"workflow::ready for development" and assign to the current 
+milestone for someone to pick up.
+
+The deliverable is a design document that answers the questions set out in the
+issue description. This can simply be the issue itself, containing a summary
+of the discussion in the description, answers to the questions and links to
+any PoC MRs produced. 
+
+
+[1]: https://about.gitlab.com/handbook/product-development-flow/#build-phase-2-develop--test
+[dri]: https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/
+
 #### Historical Capacity
 
 <%= partial("handbook/engineering/development/dev/plan/historical_capacity", locals: { chart_ids: [7693825, 7693879] }) %>
