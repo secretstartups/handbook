@@ -148,7 +148,7 @@ There are four styles related to the SOCIAL STYLE model. Each style represents a
   </ul>
 
   <p>
-    <b>Strategies to potentially apply when working with a Driver:</b>
+    <b>Strategies to potentially apply when working with an Analytical:</b>
     <ul>
     <li>Don't expect to see emotions</li>
     <li>Avoid chaos</li>
@@ -196,7 +196,7 @@ There are four styles related to the SOCIAL STYLE model. Each style represents a
   </ul>
 
   <p>
-    <b>Strategies to potentially apply when working with a Driver:</b>
+    <b>Strategies to potentially apply when working with an Amiable:</b>
     <ul>
     <li>Provide routines and structure</li>
     <li>Avoid neccessity to decide instantly</li>
@@ -242,7 +242,7 @@ There are four styles related to the SOCIAL STYLE model. Each style represents a
   </ul>
 
   <p>
-    <b>Strategies to potentially apply when working with a Driver:</b>
+    <b>Strategies to potentially apply when working with an Expressive:</b>
     <ul>
     <li>Be open-minded</li>
     <li>Give feedback and show appreciation</li>
@@ -255,7 +255,7 @@ There are four styles related to the SOCIAL STYLE model. Each style represents a
   </p>
 
   <p>
-    <b>Sample Driver Quote</b>
+    <b>Sample Expressive Quote</b>
     <q>I lean on the power of visions, I trust in my persuasive power.</q>
   </p>
 
