@@ -60,7 +60,8 @@ These dashboards show lagging indicators for how the services have responded to 
 
 We have a leading indicator of application demand. This is shown on the [Application Demand Dashboard](https://dashboards.gitlab.net/d/general-application-demand).
 
-The dashboard is reviewed monthly and our observations are noted on the [indicator review issue](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/534).
+The dashboard is reviewed monthly as part of the [triage rotation](#triage-rotation)and our observations are
+noted on the [indicator review issue](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/534).
 
 Application demand is used as a way to identify that there may have been an application level change that alters how
 the application makes requests of the underlying infrastructure. If we observe a change in rate, this tells us that we
@@ -284,16 +285,13 @@ Stage groups use [throughput labels](/handbook/engineering/management/throughput
 
 ### Triage rotation
 
-We have automated triage policies defined in the [triage-ops
-project](https://gitlab.com/gitlab-com/gl-infra/triage-ops). These
-perform tasks such as automatically labelling issues, asking the author
-to add labels, and creating weekly triage issues.
+We have automated triage policies defined in the [triage-ops project](https://gitlab.com/gitlab-com/gl-infra/triage-ops). These
+perform tasks such as automatically labelling issues, asking the author to add labels, and creating weekly triage issues.
 
-We rotate the triage ownership each month, with the current triage owner
-responsible for picking the next one (a reminder is added to their last
-triage issue).
+We rotate the triage ownership each month, with the current triage owner responsible for picking the next one (a
+reminder is added to their last triage issue).
 
-There are three issues created weekly:
+#### Weekly Issues
 
 1. **Board refinement**
    1. Using the [Planning Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1697168).
@@ -311,6 +309,12 @@ There are three issues created weekly:
 2. **`Service::Unknown` refinement** - go through issues marked `Service::Unknown` and add a defined service, where possible.
 3. **Review request processing** - the goal is to move [review request](#scalability-review-requests) issues to `workflow-infra::In Progress`, either
    through picking them up directly, or asking on our team channel if any one else is able.
+
+#### Monthly Issues
+
+1. **Application demand review** - to review the [Application Demand dashboard](https://dashboards.gitlab.net/d/general-application-demand/general-application-demand-indicators?orgId=1)
+    and determine if there are any outliers that should be investigated, and updating the [indicator review issue](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/534)
+    if necessary.
 
 ## Choosing something to work on
 
