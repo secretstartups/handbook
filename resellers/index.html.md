@@ -427,6 +427,7 @@ GitLab training programs are available primarily through the [GitLab Partner Por
 *   [Sales Quickstart Learning](/handbook/sales/onboarding/sales-learning-path/) - This is an overview of the GitLab Sales training plus additional learning materials.
 *   [Reseller Webcast Archive](https://about.gitlab.com/webcast/reseller/).  Review recent channel webcasts providing deep dive learning on key GitLab topics.
 *   [GitLab Training Handbook page](https://about.gitlab.com/training/) - This page provides a subset of on-demand product and technical content suggested based on your role and skill level.
+*   [GitLab Partner Bootcamp](/handbook/resellers/bootcamp) - Self paced, hands-on training for consultants and technical personnel
 
 
 #### Deal Registration Instructions
