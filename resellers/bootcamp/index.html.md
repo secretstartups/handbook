@@ -12,15 +12,15 @@ It is designed to be a self paced training where you can learn about and practic
 Bootcamp material is divided into sections:
 1. Introduction to GitLab
 2. Using GitLab
-3. Implementing & Operating GitLab (coming soon)
+3. Implementing GitLab
 
-These sections are independent, so you can take any of them in any order depending on your needs.
+These sections are independent, so you can take any of them in any order depending on your needs; we recommend starting with the "Using GitLab" and moving on to "Implementing GitLab"
 
 ## Introduction to GitLab
 GitLab is a single application for the entire DevSecOps lifecycle. To see what GitLab does have a look at this demo video.
 
 <figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/nMAgP4WIcno" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/MqL6BMOySIQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>  
 
 ### GitLab Basics for Developers 
