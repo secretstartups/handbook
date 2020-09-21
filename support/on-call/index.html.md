@@ -165,7 +165,7 @@ For example:
 
 When the call has ended:
 1. Write post-call notes relevant to the customer in a public reply on the ticket.
-1. Add any internal notes as an internal note on the ticket.
+1. Add all relevant internal-only information as an internal note on the ticket.
 1. Tag the next on-call engineer in the emergency's Slack thread.
 
 ## Support Manager on-call
