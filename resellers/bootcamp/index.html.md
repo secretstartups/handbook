@@ -34,16 +34,9 @@ If you're brand new to GitLab, we recommend watching this video to get familiar 
 
 ### How to start?
 
-1. You will require access to a GitLab instance to run this bootcamp. If you do not have a private instance available, use [GitLab.com](https://www.gitlab.com)
-2. The Bootcamp Labs take advantage of paid Enterprise tier features; to get the full experience your instance of GitLab, or your Group if using GitLab.com, should be licensed to Ultimate/Gold
-    * [Get a trial here](https://about.gitlab.com/free-trial/). 
-3. Once you have an instance of GitLab available, create a new [Group](https://docs.gitlab.com/ee/user/group/) and name it **Bootcamp** 
-    * If using gitlab.com, make sure this is created within a Gold-tier group
-4. The Lab exercises are defined as individual issues within [this GitLab project](https://gitlab.com/technical-bootcamp/using-gitlab); You can manually copy and paste the issues into your own instance, or you can choose to import this [latest export of the project](https://drive.google.com/file/d/195xB0wbQzYOkOZ3EVJnyJGCBNLo6azzi/view?usp=sharing) (If you import the project, you can skip *Lab 0* below )
-    * Refer to the [Import documentation](https://docs.gitlab.com/ee/user/project/settings/import_export.html#importing-the-project) if required
-5. Many of the Lab exercises utilise a simple **Coffee Shop** application;  You need a copy of [the Coffee Shop project](https://gitlab.com/technical-bootcamp/gitlab-coffee-shop), you can [fork the project](https://docs.gitlab.com/ee/user/project/repository/forking_workflow.html#creating-a-fork), or [download the code](https://docs.gitlab.com/ee/user/project/repository/#download-source-code) into your own repository.  The project should be created within your **Bootcamp** group.
-
-6. Having completed the above, move to the next section on Agile Project Management. This will help you with the knowledge required to then configure your Bootcamp Lab environment
+1. The Lab exercises are defined as individual issues within [this GitLab project](https://gitlab.com/technical-bootcamp/using-gitlab);
+2. This project also includes instructions on how to create your own copy of the project, as well as details of the Coffee Shop project that you will use as part of the Lab exercises.  Please refer to the instructions and carry out the necessary actions to create your Lab environment.
+3. Having completed the above, move to the next section on Agile Project Management. This will help you with the knowledge required to then configure your Bootcamp Lab environment
 
 
 ### Agile Project Management
