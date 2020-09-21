@@ -300,6 +300,7 @@ To demote one of your direct reports, a manager should follow the following step
 - Once approved, the manager informs the individual. Please cc total-rewards@ gitlab.com once the individual has been informed, to processes the changes in the relevant administrative systems, and stage a [Letter of Adjustment](/handbook/people-group/contracts-and-international-expansion/#letter-of-adjustment).
 - Changes in title are announced on the `#team-member-updates` Slack channel.
 - The manager will initiate any necessary onboarding or offboarding.
+- A demotion is not a change in compa group, a demotion is a change in job level. A demotion is not going from thriving to growing in your current role.  A demotion for would be going from a Senior Product Manager or Senior Backend Engineer to Intermediate Product Manager or Intermediate Backend Engineer.
 
 ## Job Information Change in BambooHR
 
