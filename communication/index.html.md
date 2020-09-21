@@ -252,7 +252,8 @@ So most things are **public** unless there is a reason not to. The following ite
    1. a department's cost;
    1. the Sales pipeline (but the Marketing pipeline can be public);
    1. net and gross retention KPIs (only the actual numbers can't be public. Everything else- the goal, their calculation, etc- can be.); and,
-   1. forward looking statements, including the timing and plans for [becoming a public company](/handbook/being-a-public-company/). 
+   1. forward looking statements, including the timing and plans for [becoming a public company](/handbook/being-a-public-company/). The going public date is too sensitive to share broadly internally. The press is very eager to report on it. If it leaks, having reports out there is a big problem because it reduces our flexibility. Therefore, it will be on a need-to-know basis, even inside the company. Everyone will find out when the S1 becomes public, 21 days before going public.
+
 1. Deals with external parties like contracts and [approving and paying invoices](/handbook/finance/procure-to-pay/).
 1. Content that would violate confidentiality for a GitLab team member, customer, or user.
 1. Legal discussions are not public due to the [purpose of Attorney-Client Privilege](/handbook/legal/#what-is-the-purpose-of-these-privileges).
@@ -268,7 +269,6 @@ So most things are **public** unless there is a reason not to. The following ite
 1. Discussions that involve decisions related to country of residence are not public as countries are a core part of people's identity and any communication should have complete context.  The output of such decisions, such as [country hiring guidelines](/jobs/faq/#country-hiring-guidelines) will be public.
 1. If public information compromises the physical safety of one or more team members, it will be made not public because creating a safe, inclusive environment for team members is important to how we work. Information that might compromise the physical safety of a team member includes doxxing or threats made against a team member.
 1. Information related to a press embargo, or related to an upcoming publication where the response will be managed by our external communications team
-1. Dates to go public: The going public date is too sensitive to share broadly internally. The press is very eager to report on it. If it leaks, having reports out there is a big problem because it reduces our flexibility. Therefore, it will be on a need-to-know basis, even inside the company. Everyone will find out when the S1 becomes public, 21 days before going public.
 
 Information that defaults to not public and to limited access:
 
