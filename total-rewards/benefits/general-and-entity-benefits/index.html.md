@@ -17,7 +17,7 @@ For the avoidance of doubt, the benefits listed below in the General Benefits se
 ## General and Entity Benefits
 - [GitLab BV (Netherlands)](/handbook/total-rewards/benefits/general-and-entity-benefits/bv-benefits-netherlands)
 - [GitLab BV (Belgium)](/handbook/total-rewards/benefits/general-and-entity-benefits/bv-benefits-belgium)
-- [Global Upside (India)](/handbook/total-rewards/benefits/general-and-entity-benefits/global-upside-benefits-india)
+- [Global Upside (India and Philippines)](/handbook/total-rewards/benefits/general-and-entity-benefits/global-upside-benefits-india)
 - [GitLab Inc (US)](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us)
 - [GitLab Inc (China)](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-china)
 - [GitLab LTD (UK)](/handbook/total-rewards/benefits/general-and-entity-benefits/ltd-benefits-uk)
