@@ -220,6 +220,8 @@ Managers have a duty of care towards their direct reports in managing their well
 
 If you discover that multiple people in your team want to be off at the same time, see what the priorities are, review the impact to the business, and use your best judgement. Discuss this with your team so you can manage the time off together. It is also a good idea to remind your team to give everyone an early heads-up, if possible, about upcoming vacation plans.
 
+If as a manager you are notified that your direct report has been incapacitated or unable to submit an OOO request in PTO Ninja and needs to take time off, be it Sick Time or otherwise, please document this information, and relay it to People Ops at `peopleops @gitlab.com` without disclosing private medical information in compliance with privacy laws such as [HIPAA](https://www.hhs.gov/hipaa/for-professionals/index.html) in the US and [GDPR](/handbook/legal/global-compliance/#gdpr) in the EU. The People Ops team will submit an OOO request on the team member's behalf and mark the reason as `Per Manager Name`, and save the email thread in the team member's `Sickness` folder in BambooHR. This documentation will be unshared and will not contain any personal medical information.
+
 ### Instructions for People Ops to Update PTO Ninja Events
 
 1. Delete the relevant PTO entry from the team member's BambooHR Time Off tab.
