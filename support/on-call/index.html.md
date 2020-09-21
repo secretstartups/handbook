@@ -158,7 +158,7 @@ Remember to say only things that help the customer and that maintain their confi
 If you're stuck _and_ are having difficulty finding help, contact the [manager on-call](#manager-on-call) or initiate the [dev-escalation process](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process).
 
 ### Post-call
-Before ending an emergency customer call, make sure that you let the customer know what to do if there is any follow-up, and who will be available if any follow-up is required.
+Before ending an emergency customer call, let the customer know what to do if there is any follow-up, and who will be available if any follow-up is required.
 
 For example:
 > It seems like we've solved the root problem here, but if you need any help I'll be on-call for the next two hours. Feel free to **open a new emergency ticket** and I'll get back on a call with you right away. If it's after two hours, my colleague Francesca will be responding. I'll make sure that she has the background of the situation before I leave for the day. 
