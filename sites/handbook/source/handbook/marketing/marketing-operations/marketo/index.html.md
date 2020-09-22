@@ -62,15 +62,17 @@ If a `Country` &/or `State/Province` standardization is needed, please open an i
 
 ### MQL Definition
 A Marketing Qualified Lead is a lead that has reached a certain threshold, we have determined to be 90 points accumulated, based on demographic/firmographic and/or behavioral information. The "MQL score" defined below is comprised of various actions and/or profile data that are weighted with positive or negative point values.
-When a  `Person Score` changes it will be inserted into the routing flow. Using LeanData every time a `Person Score` is updated, LeanData will run a check to see if the record needs to be processed through the flow.
+When a `Person Score` changes it will be inserted into the routing flow. Using LeanData every time a `Person Score` is updated, LeanData will run a check to see if the record needs to be processed through the flow.
 
 ### MQL Scoring Model
 The overall model is based on a 90 point system. Positive and negative points are assigned to a record based on their demographic and/or firmographic information, and their behavior and/or engagement with GitLab marketing.
 
-The MQL scoring model below is correct as of 11 March 2020. Additional changes are being made and the following will be updated over time.
+The MQL scoring model below is correct as of 22 September 2020. Additional changes are being made and the following will be updated over time.
 
 #### MQL = 90 pts
 {:.no_toc}
+
+There is a flow that runs everynight to reset leads that have gone negative back to `0`.  
 
 |**Action**|**Token**|**Points**|**Type**|**Program Status Changes**|**Type**|**Schedule/Flow Limit**|
 |:-----:|:----------:|:-----:|:--------:|:-------------:|:-----:|:-----:|
@@ -92,7 +94,7 @@ The MQL scoring model below is correct as of 11 March 2020. Additional changes a
 |Demo Request|{{my.Demo Requested}}|+90|Behavior|Campaign Requested|Trigger|Once|
 |Filled-out Survey|{{my.Survey Filled-Out}}|+45|Behavior|Survey > Filled-out Survey|Trigger|Everytime|
 |Interest in Enterprise|{{my.Interest in Enterprise}}|+50|Behavior|Visits - about.gitlab.com/free-trial/|Trigger|Once|
-|Multiple Career Page Visits|{{my.Multiple Web Visits - Career}}|-25|Behavior|Vists 3x about.gitlab.com/jobs/|Trigger|Once|
+|Multiple Career Page Visits|{{my.Multiple Web Visits - Career}}|-25|Behavior|Vists 3x about.gitlab.com/jobs/|Trigger|Once every 7 days|
 |Professional Services Request|{{my.Contact Request Form}}|+100|Behavior|Fills out Form: FORM 1476: prof_serv_rqst|Trigger|Once|
 |Request - Public Sector|{{my.Contact Request Form}}|+100|Behavior|Fills out Form: wf_federal_sales.FORM 1411: PubSec Contact|Trigger|Once|
 |Trial - Enterprise|{{my.Trial Form}}|+100|Behavior|Fills out Form(2): FORM 1318: Self-Hosted Enterprise Trial Form<br>FORM 2150: Self-Hosted Enterprise Trial Form v2|Trigger|Once|
@@ -105,7 +107,7 @@ The MQL scoring model below is correct as of 11 March 2020. Additional changes a
 |Generic Email Address|{{my.Generic Email}}|-5|Demographic|Has Generic Email Domain|Trigger|Once|
 |Title - VP, Manager, Director, Principal, Head, CIO, CEO, CFO, CSO, Founder, CTO, Chief, Executive, President or Lead (including French)|{{my.Title - High Tier}}|+50|Demographic|Title contains: VP, Vice President, Manager, Director, Senior, Head, CIO, CEO, CFO, CSO, Founder, CTO, Chief or Lead|Trigger|Once|
 |Title - VP, Manager, Director, Principal, Head, CIO, CEO, CFO, CSO, Founder, CTO, Chief, Executive, President or Lead (including French)|{{my.Title - High Tier}}|+50|Demographic|Not in Trigger Campaign AND <br>Title Contains: VP, Vice President, Manager, Director, CIO, CEO, CFO, CSO, Founder, CTO, Chief or Head|Batch|Every Morning / Once|
-|Unsubscribes from Emails|{{my.Unsubscribed}}|-25|Behavior|Unsubscribes from Any Email OR<br>Unsubscibe = TRUE|Trigger|Once|
+|Unsubscribes from Emails|{{my.Unsubscribed}}|-25|Behavior|Unsubscribes from Any Email OR<br>Unsubscibe = TRUE|Trigger|Every 1 day|
 |Large Account|{{my.Large Account}}|+20|Demographic|Leads/Contacts of target ABM Accounts|Batch|Once|
 
 ### Folder Structure
