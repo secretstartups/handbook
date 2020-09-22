@@ -171,7 +171,6 @@ Once we understand and have validated the problem, we can begin to ideate on pot
 
 To start the Design phase, the Product Designer or Product Manager applies the `workflow::design` label to an existing issue or creates a new issue, if needed.
 
-
 | Outcomes|Activities|
 |---|---|
 | Proposed solution(s) identified and documented | - *Diverge: explore multiple different approaches as a team (PM, UX, Eng)* <br> - Map out the user flow and experience <br> - Draw inspiration from competitive and adjacent offerings <br> - *Vet the approach with help from stakeholders* <br> - *Update issue/epic description with proposed solution*|
