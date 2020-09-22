@@ -38,4 +38,10 @@ Disputes regarding namespaces, ownership and trademarks must be resolved by the 
 
 For more information, see our [Namespace and Trademark policy](https://about.gitlab.com/support/#namespace--trademarks) and [Ownership Dispute Policy](https://about.gitlab.com/support/#ownership-disputes)
 
+# What information do we forward to the reported content owner? 
 
+If we receive a valid DMCA notice and proceed to disable access to the reported content, the reported content owner will receive a copy of the complaint, including the reporter’s full name, email, street address, and any other information included in the complaint. 
+
+If you are do not wish to share your contact information with the account owner, you may want to consider appointing an agent to submit your DMCA notice on your behalf. 
+
+The appointed agent will be required to submit the DMCA notice with valid contact information, and identify you as the content owner that they are representing. 
