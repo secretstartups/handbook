@@ -7,7 +7,7 @@ title: "Parker E.'s README (Sr. PMM)"
 
 Sr. Product Marketing Manager, GitLab CI/CD
 
-**_If you're a GitLab team member looking for my speaker information to submit externally, everything you need is [here in one place](https://docs.google.com/document/d/1B_IJ0vFxHn47-mC8ggxWvtg7R8sNaqDvHlZK_wN_T9Y/edit?usp=sharing) (bio, social handles, and headshot)._**
+_If you're a GitLab team member looking for my speaker information to submit externally, everything you need is **[here in one place](https://docs.google.com/document/d/1B_IJ0vFxHn47-mC8ggxWvtg7R8sNaqDvHlZK_wN_T9Y/edit?usp=sharing) (bio, social handles, and headshot).**_
 
 ## Related pages
 
