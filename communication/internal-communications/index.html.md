@@ -38,7 +38,7 @@ If your project includes a change with a significant impact on team members,or i
 1. [Everything should start with a Merge Request](/handbook/communication/#everything-starts-with-a-merge-request) but a [Confidential Issue](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html), visible only to members of a project with sufficient permissions, may be considered if an issue is contentious (see below).
 
 ### Things to include when contacting internal communications
-1. Summary of what you are solving for in simple terms, include the **Who** is affected, **What** the change is, **When** you're working to work throught this, **Why** the change is being made, and **How** it is anticipated to effect people)
+1. Summary of what you are solving for in simple terms, include the **Who** is affected, **What** the change is, **When** you're working to work through this, **Why** the change is being made, and **How** it is anticipated to effect people)
 1. The [job to be done](https://jobs-to-be-done.com/what-is-jobs-to-be-done-fea59c8e39eb)
 1. The current proposal, including a link to the relevant issues where options are being explored
 1. Clear articulation of who is the DRI
@@ -65,4 +65,4 @@ When consulting, we will not write any copy or execute on communications.
 
 ### Internal Comms Support
 
-Internal Comms support is only available in highly sensitive situations because of limited internal comms resources. 
+Internal Comms support is only available in highly sensitive situations because of limited internal comms resources.

@@ -82,7 +82,7 @@ These channels are used to help GitLab team-members who are in the same general 
 **Examples**
 
 * **[`#loc_nashville`](https://gitlab.slack.com/archives/loc_nashville)**: Chat with the GitLab team-members in Nashville, Tennessee, USA
-* **[`#loc_portugal`](https://gitlab.slack.com/archives/loc_portugal)**: A channel for GitLab team-members in the entire contry of Portugal!
+* **[`#loc_portugal`](https://gitlab.slack.com/archives/loc_portugal)**: A channel for GitLab team-members in the entire country of Portugal!
 
 #### Project Channels (proj_)
 
