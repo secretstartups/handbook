@@ -201,7 +201,7 @@ Daniel Croft  (Engineering Manager, Package)
 **How the team works:** The Package stage allows you to publish, consume and discover packages, all in one place. We believe that source code and dependencies should live in one secure environment, protected by your GitLab credentials. The efficiencies gained by centralization allow you to focus on productivity. By integrating with GitLab's CI/CD product, we can ensure efficient and reliable pipelines. Asynchronous communication, working in Kanban, all of the collaboration is done through GitLab Issues and Slack, always iterating on the process. 
 **Links to relevant Handbook pages:** 
 [Product categories page](/handbook/product/product-categories/#ops-section)
-[Package Team page](/handbook/engineering/development/ci-cd/package/)
+[Package Team page](/handbook/engineering/development/ops/package/)
 [Backend Engineer job family](/job-families/engineering/backend-engineer/)
 [Engineering Workflow](/handbook/engineering/workflow/)
 [Backend Engineer job posting](/jobs/apply/backend-engineer-x-30-4055697002/)
