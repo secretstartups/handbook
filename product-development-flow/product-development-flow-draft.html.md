@@ -167,10 +167,15 @@ To run the problem validation process:
 
 Labels: `workflow::design`
 
-1. Product Designer or Product Manager applies the `workflow::design` label to an existing issue or creates a new issue, if needed. 
-1. Product Designer leads the team in ideating about potential solutions and engages the PM and Engineers to determine whether the proposed solution meets business goals and is technically feasible. 
-1. Product Designer, Product Manager and Engineering Team evaluate potential customer impact of proposed solution.
-1. Once the PM, Engineers, and Product Designer choose a direction, then the issue moves into the Solution Validation phase.
+Once we understand and have validated the problem, we can begin to ideate on potential solutions. The Product Designer leads the team (PM, UX, and Engineering) in ideating about potential solutions and exploring multiple different approache (e.g. diverge). PM and Engineers help to vet the solutions by determining whether they meet customer and business goals as well as technical feasibility. The team is encouraged to engage with stakeholders to help uncover potential flaws or missed use cases in the solution. Once the team has converged on the proposed solution (or identified a small set of options to validate), the issue moves into the Solution Validation phase.  
+
+To start the Design phase, the Product Designer or Product Manager applies the `workflow::design` label to an existing issue or creates a new issue, if needed.
+
+
+| Outcomes|Activities|
+|---|---|
+| Proposed solution(s) identified and documented | - *Diverge: explore multiple different approaches as a team (PM, UX, Eng)* <br> - Map out the user flow and experience <br> - Draw inspiration from competitive and adjacent offerings <br> - *Vet the approach with help from stakeholders* <br> - *Update issue/epic description with proposed solution*|
+| Shared understanding in the team of the proposed solution | - *Feasibility discussions with Engineering* <br> - Review with leadership | 
 
 ### Validation phase 4: Solution Validation
 
