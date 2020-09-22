@@ -108,6 +108,35 @@ Lost or lowered contract value that occurs before a subscription renewal or subs
 Contract value that results in a lower value than the previous contract value.
 Downgrade examples include seat reductions, product downgrades, discounts, and customers switching to Reseller at time of renewal.
 
+### True Up
+
+***What is it?***
+
+A true up is a back payment for a customer going over their license count during the year.
+
+***Why do we use it?***
+
+We use the true up model so that the license never becomes a barrier to adoption for the client.
+
+***Let's take an example.***
+
+A customer takes out a subscription for 100 users.
+During the year they grow the usage of the server and 200 additional users come on board.
+When it comes time to renew, they are now up to 300 active users despite the license only being for 100 users.
+
+At this point the customer needs to do two things: they need to renew the license and to add the true up users.
+The number of true up users in this case is 200.
+It is the difference between the `Maximum Users` and the `Users in License`.
+This can be found by the customer in their GitLab server by going to the Admin > License area.
+It will look like [this](https://docs.gitlab.com/ee/user/admin_area/img/license_details.png)
+
+There is more information below on the steps you need to take, but in this example you would need to update the number of users for the renewal to 300 and add the `True Up` product to the renewal quote for 200 users.
+This will create a one time only charge to the customer and in a year's time, they will have a renewal for 300 users.
+
+[***See here more information on the steps to take for the true up***](/handbook/business-ops/enterprise-applications/portal/troubleshooting/)
+
+***Note that we make provision for true ups in our standard [Subscription Terms](https://about.gitlab.com/terms/) Section 5 - Payment of Fees.***
+
 ### Total Addressable Market (TAM)
 
 Annual revenue opportunity of the [entirety of GitLab’s market](/handbook/sales/tam).
@@ -234,6 +263,25 @@ Another measured KPI is Rep Productivity (as defined above) divided by On Target
 Measurement of closed won, sales assisted opportunities vs the total number of created, sales assisted opportunities in a given period.
 
 ## Systems Terminology Definitions 
+
+### Parent and Child Accounts
+
+* A Parent Account is the business/organization which owns another business/organization.
+Example: The Walt Disney Company is the parent account of Disney-ABC Television Group and Disney.com.
+* A Child Account is the organization you may have an opportunity with but is owned by the Parent Account.
+A Child Account can be a business unit, subsidiary, or a satellite office of the Parent Account.
+* You may have a opportunity with the Parent account and a Child Account.
+Example: Disney and ESPN may both be customers and have opportunities. However, the very first deal with a Parent Account, whether it is with the Parent Account or Child Account, should be marked as "New Business".
+All other deals under the Parent Account will fall under Add-On Business, Existing Account - Cross-Sell, or Renewal Business (see Opportunity Types section).
+* If the Parent and Child accounts have the same company name, either add the division, department, business unit, or location to the end of the account name.
+For example, Disney would be the name of the Parent Account, but the Child Account would be called The Walt Disney Company Latin America or The Walt Disney Company, Ltd Japan.
+* When selling into a new division (which has their own budget, different mailing address, and decision process) create a new account.
+This is the Child Account.
+For every child account, you must select the parent account by using the parent account field on the account page.
+If done properly, the Parent/Child relationship will be displayed in the Account Hierarchy section of the account page.
+* Remember that a child account can also be a parent account for another account.
+For example, Disney-ABC Television Group is the child for The Walt Disney Company, but is the parent for ABC Entertainment Group.
+* We want to do this as we can keep each opportunity with each child account separate and easily find all accounts and opportunities tied to a parent account, as well as roll-up all Closed Won business against a Parent Account.
 
 ### Account Family
 The collection of all Salesforce Accounts that roll up to the same Ultimate Parent Account.
