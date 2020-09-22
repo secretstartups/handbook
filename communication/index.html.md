@@ -252,7 +252,7 @@ So most things are **public** unless there is a reason not to. The following ite
    1. a department's cost;
    1. the Sales pipeline (but the Marketing pipeline can be public);
    1. net and gross retention KPIs (only the actual numbers can't be public. Everything else- the goal, their calculation, etc- can be.); and,
-   1. forward looking statements, including the timing and plans for [becoming a public company](/handbook/being-a-public-company/). The going public date is too sensitive to share broadly internally. The press is very eager to report on it. If it leaks, having reports out there is a big problem because it reduces our flexibility. Therefore, it will be on a need-to-know basis, even inside the company. Everyone will find out when the S1 becomes public, 21 days before going public.
+   1. forward-looking statements, including the timing and plans for [becoming a public company](/handbook/being-a-public-company/). The going-public date is too sensitive to share broadly internally. The press is very eager to report on it. If it leaks, having reports out there is a big problem because it reduces our flexibility. Therefore, it will be on a need-to-know basis, even inside the company. Everyone will find out when the [S1](https://en.wikipedia.org/wiki/Form_S-1) becomes public, 21 days before going public.
 
 1. Deals with external parties like contracts and [approving and paying invoices](/handbook/finance/procure-to-pay/).
 1. Content that would violate confidentiality for a GitLab team member, customer, or user.
