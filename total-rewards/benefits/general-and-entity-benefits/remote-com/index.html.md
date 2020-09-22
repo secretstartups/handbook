@@ -140,8 +140,6 @@ The Hungarian Social Security Act has employer and team member contributions to 
 ### Medical
 
 GitLab does not plan to offer Private Health Insurance at this time because team members in Hungary can access the public health system for free or at a lower cost through the Hungarian state healthcare system. This system is funded by the National Health Insurance Fund.
-Please note that the healthcare system does not pay for some things, such as medicines and medical equipment.
-
 
 ### Pension
 
@@ -150,7 +148,6 @@ GitLab does not plan to offer pension benefit at this time as the Hungarian pens
 ### Life Insurance
 
 GitLab does not plan to offer life insurance at this time as team members can access the benefits from [Social insurance system](https://tcs.allamkincstar.gov.hu/) if they get ill, injured or have a disability.
-
 
 ### Remote Hungary Leave Policy
 
