@@ -307,17 +307,17 @@ Experiments are tracked on Growth Experiments boards by group:
 
 This issue acts as the starting point for defining an experiment, including an overview of the experiment, the hypothesis, and some idea of how success will be measured. This issue will be tagged with the `~"growth experiment"` label and the `~"experiment::idea"` scoped label.
 
-#### Experiment Epic
+#### Experiment Epic or Parent Issue
 
-This epic acts as the single source of truth (SSoT) for the experiment once an experiment has been properly defined according to our [Experiment Definition Standards](#experiment-definition-standards) and is deemed worthwhile to run. Once an [Experiment Definition Issue](#experiment-definition-issue) graduates to an epic, we fill out further details such as the expected rollout plan. We also assign the experiment to a Milestone and begin divvying up the UX & Engineering work.
+This epic or issue acts as the single source of truth (SSoT) for the experiment once an experiment has been properly defined according to our [Experiment Definition Standards](#experiment-definition-standards) and is deemed worthwhile to run. Once an [Experiment Definition Issue](#experiment-definition-issue) graduates to an epic or parent issue, we fill out further details such as the expected rollout plan. We also assign the experiment to a milestone and follow the product development flow for UX & Engineering work. As the experiment design and rollout progresses, this epic or parent issue should contain details or links to further information about experiment including the tracking events and data points used to determine if the experiment is a success as well as links to relevant metrics-reporting dashboards (such as Sisense).
 
 #### Experiment Tracking Issue
 
-This issue is used to track the experiment progress once it is live. It is created within the `gitlab-org/growth/experiments` project. The issue contains details about the tracking events and data points used to determine if the experiment is a success as well as links to relevant metrics-reporting dashboards (such as Sisense).
+This issue is used to track the experiment progress. It is similar to a Feature Flag Roll Out issue with an additional `experiment::` scoped label to track the status of the experiment. The [Experiment Tracking](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/new?issuable_template=experiment_tracking_template) issue template includes an overview of the experiment, who to contact, rollout steps, and a link to the overall experiment issue or epic.
 
 #### Experiment Cleanup Issue
 
-This issue is used to clean up an experiment after an experiment has been completed. It is created within the project where the cleanup work will be done (e.g. the `gitlab-org/gitlab` project). The cleanup work may include completely removing the experiment (in the case of `~"experiment::invalidated"` and `~"experiment::inconclusive"`) or refactoring the experiment feature for the long run (in the case of `~"experiment::validated"`).
+This issue is used to clean up an experiment after an experiment has been completed. It is created within the project where the cleanup work will be done (e.g. the `gitlab-org/gitlab` project). The cleanup work may include completely removing the experiment (in the case of `~"experiment::invalidated"` and `~"experiment::inconclusive"`) or refactoring the experiment feature for the long run (in the case of `~"experiment::validated"`). The cleanup issue should be linked to the Experiment Tracking issue as a reference to ensure the experiment is concluded prior to cleanup.
 
 ### Experiment Definition Standards
 
