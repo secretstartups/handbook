@@ -592,7 +592,7 @@ People feel more included when they're supported. To encourage this, and to supp
 We don't hire based on culture or select candidates because we'd like to have a drink with them. We hire and reward team members based on our shared values as detailed on this page. We want a **values fit**, not a culture fit.
 We want cultural diversity instead of cultural conformity, such as a [brogrammer](https://en.wikipedia.org/wiki/Brogrammer) atmosphere. Said differently: ["culture add" > "culture fit"](https://twitter.com/Una/status/846808949672366080) or "hire for culture contribution" since our [mission is that everyone can contribute](/company/strategy/#mission).
 
-##### Religion and politics at work <a name="dont-bring-religion-or-politics-to-work"></a>
+##### Religion and politics at work
 {:.no_toc}
 We generally avoid discussing politics or religion in public forums because it is easy to alienate people that have a minority opinion. This doesn’t mean we never discuss these topics. Because we value diversity, inclusion and belonging, and want all team members to feel welcome and contribute equally, we encourage free discussion of operational decisions that can move us toward being a more inclusive company. GitLab also publicly supports pro-diversity activities and events.
 
