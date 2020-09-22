@@ -28,7 +28,7 @@ This allows our team to consider you for current and future [openings on the tea
 Read more about [our outbound hiring model](/jobs/faq/#gitlabs-outbound-recruiting-model) and other frequently asked questions on our [Jobs FAQ page](/jobs/faq/).
 
 <details open>
-  <summary markdown='span'>
+  <summary markdown="span">
   How to Join our Talent Community
   </summary>
 
