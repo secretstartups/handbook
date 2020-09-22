@@ -225,6 +225,7 @@ This section is ordered by stage and group according to the [product categories 
 | Release Evidence      | Amer   | JamesM                                                     |
 | GitLab Pages          | Amer   | John <br> Keven <br> JamesM <br> Brie <br> Davin <br> Phil |
 |                       | EMEA   | Catalin <br> Rehab <br> Katrin                             |
+|                       | APAC   | MikeL                                                      |
 
 #### Configure
 
