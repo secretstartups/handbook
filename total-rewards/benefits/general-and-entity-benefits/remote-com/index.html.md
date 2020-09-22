@@ -72,7 +72,9 @@ Employees in Mexico are covered by the Social Security Law, under IMSS who is re
 
 ### Medical Benefits
 
-* Medical Insurance allowance of 5000 USD per annum (Details to be added by Total Rewards)
+* Healthcare Monthly Allowance will be paid by Remote as an allowance to the team members.
+* The allowance will be 5000 USD per annum. 
+* This amount will be paid on monthly basis with the regular payroll as a reimbursement.
 
 ### Life Insurance
 
@@ -135,14 +137,6 @@ Team members unable to work because of a nonwork-related injury or illness and w
 
 The Hungarian Social Security Act has employer and team member contributions to cover statutory requirements such as pension, health insurance, and unemployment. 
 
-### Medical Benefits
-
-Remote is providing SafetyWing as health insurance. (Details to be added by Total Rewards)
- 
-### Life Insurance
-
-$500,000 cover 10 year term (Details to be added by Total Rewards)
-
 ### Remote Hungary Leave Policy
 
 #### Statutory Maternity Leave
@@ -161,15 +155,3 @@ Additionally to parental leave, workers are entitled to extra vacation days base
 a) two working days for one child; 
 b) four working days for two children; 
 c) a total of seven working days for more than two children under sixteen years of age.
-
-### SZÉP Card (Széchenyi Pihenő Card)
-As per Government Decree no. 140/2020 dated 21 April 2020: Increase and exemption from the social contribution tax in the form of the Széchenyi Pihenő Card - as a fringe benefit
-
-The total annual frame amount will change to HUF 800,000 for companies in private sectors. Hence the new break up is: 
-
-| Sr. No. | SZÉP card categories | Maximum limits                                  |
-|---------|----------------------|-------------------------------------------------|
-| 1       | Meal                 | HUF 265,000 per annum (SZÉP kártya vendéglátás) |
-| 2       | Leisure              | HUF 135,000 per annum (SZÉP kártya szabadidő)   |
-| 3       | Accommodation        | HUF 400,000 per annum (SZÉP kártya szálláshely) |
-
