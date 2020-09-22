@@ -9,7 +9,7 @@ title: Security Practices
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-Information security encompasses a variety of different working groups. These security best practices support the functions of business operations, infrastructure, and product development, to name a few. Everybody is responsible for maintaining a level of security to [support compliance (available internal-only)](https://gitlab.com/gitlab-com/gl-security/compliance/compliance/issues/), while raising the bar of our security posture.
+Information security encompasses a variety of different working groups. These security best practices support the functions of business operations, infrastructure, and product development, to name a few. Everybody is responsible for maintaining a level of security to [support compliance (available internal-only)](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/issues/), while raising the bar of our security posture.
 
 ## Zero Trust
 
@@ -128,7 +128,7 @@ What should you do if you receive a potential phishing email or text from GitLab
   _(Ref: [6 Ways Attackers Are Still Bypassing SMS 2-Factor Authentication](https://www.securityweek.com/6-ways-attackers-are-still-bypassing-sms-2-factor-authentication) / [2 minute Youtube social engineering attack with a phone call and crying baby](https://www.youtube.com/watch?v=lc7scxvKQOo))_
 1. A Universal 2nd Factor or [U2F](https://en.wikipedia.org/wiki/Universal_2nd_Factor) hardware token can be used as a secure and convenient 2-factor authentication method for Okta, G Suite, GitLab instances, and many other sites. If you do not have one, you may consider [purchasing one](/handbook/spending-company-money/). Popular choices include Yubico's YubiKey and Solokeys' Solo Security Key. For more information on U2F and choices, visit the [Tools and Tips page](/handbook/tools-and-tips/#u2f).
 1. When signing up for a new service on behalf of GitLab:
-   - Request a [Security Review](https://gitlab.com/gitlab-com/gl-security/compliance/compliance/issues/new?issuable_template=SOC%20Report%20Review) by opening an issue in the Compliance project.
+   - Request a [Security Review](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/issues/new?issuable_template=SOC%20Report%20Review) by opening an issue in the Compliance project.
    - If shared access is required by multiple team members to a single account,
      for example, a social media account, an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new) should be opened. The credentials will be
      stored and shared via Okta.
@@ -274,7 +274,7 @@ For a better understanding of how 2FA fits into GitLab, refer to the [Accounts a
 
 ### Exceptions to Password Policy
 
-Any application that can not meet MFA and or Password requirements needs to [submit an exception](https://gitlab.com/gitlab-com/gl-security/compliance/compliance/issues/new?issuable_template=Exception%20Request) for the Compliance team to review.  A duration of an exception is valid for 90 days followed by a proper remediation plan. After 90 days the exception will be reevaluated.
+Any application that can not meet MFA and or Password requirements needs to [submit an exception](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/issues/new?issuable_template=Exception%20Request) for the Compliance team to review.  A duration of an exception is valid for 90 days followed by a proper remediation plan. After 90 days the exception will be reevaluated.
 
 ## 1Password Guide
 
@@ -689,7 +689,7 @@ The 2020 Security Training is delivered through the KnowBe4 platform that includ
 You are strongly encouraged to engage the team behind the training and provide feedback, or ask any questions related to the content of the training. You can do that through:
 1. Monthly office hours held by the SecOps team on third Friday of each month. There are two sessions for both EMEA and APAC-friendly timeslots. Please see the **GitLab Team Meetings** calendar for current times.
 1. A quarterly-reviewed GitLab issue for New Hire training - [FY21-Q1](https://gitlab.com/gitlab-com/gl-security/secops/operations/-/issues/736).
-1. Annual security awareness training feedback issue: [2020 GitLab Security Awareness Training](https://gitlab.com/gitlab-com/gl-security/compliance/compliance/-/issues/1924)
+1. Annual security awareness training feedback issue: [2020 GitLab Security Awareness Training](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/-/issues/1924)
 1. Email by sending an email to security-training@gitlab.com.
 
 ### Phishing Tests
