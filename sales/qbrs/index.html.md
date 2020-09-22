@@ -126,7 +126,7 @@ QBRs include account teams, leadership, and delegates from across the business:
    1. These channels will be archived within 60 days of QBRs being completed.
 
 ### QBR Note Taking
-The purpose of notes is to capture meaningful insights that come out of the *conversation* during a QBR - questions and answers, feedback, asks, etc. Do not capture verbatim notes or data that is already documented on a slide. Chorus will capture a written verbatim transcript and the recordings on YouTube will show the slides.
+The purpose of notes is to capture meaningful insights that come out of the *conversation* during a QBR - questions and answers, feedback, asks, etc. Do not capture verbatim notes or data that is already documented on a slide. The video recording of the meeting will show the slides.
 
 **Q: Who should take notes?**
 
@@ -140,11 +140,10 @@ A: In order to serve as an active participant in QBRs, there is no need to take 
 
 **Q: How will the rest of the information be captured?**
 
-A: Zoom will be connected with Chorus to record the slides as well as create a transcript of the call that will be uploaded to each team's/QBR's Google drive following the session. Each session will also be recorded and uploaded to YouTube Unfiltered. This reduces the need to take verbatim notes.
+A: All QBR hosts are required to record their sessions and provide a link to the recording for the rest of the team and company to access. This reduces the need to take verbatim notes.
 
 ### Where to Find Past QBRs 
-1. QBR recordings will be uploaded to GitLab's YouTube Unfiltered account. Playlist naming will follow this format: ENT QX-FYXX QBRs, COMM QX-FYXX QBRs, and Channel QX-FYXX QBRs.
-   1. The video description will include meeting "minutes" (i.e. when each presentation starts within the recording) as well as a link to the written transcription from Chorus. 
+1. A list of all QBR recordings will be housed in a tab on each segment's (ENT, COMM, Channel) schedule spreadsheet. 
 1. A full list of past QBR presentations can be found in the [QBR Google drive folder](https://drive.google.com/drive/u/0/folders/1QAWFYxT2-NzWpOUodepbl0O6zfsMxJGL).
 
 ## Field Operations QBR Request Process
@@ -256,10 +255,6 @@ Below is a sample roll-out of the QBR planning and execution process that is fol
    1. Example notes section
    1. Link to final QBR schedule 
 1. Field Enablement to finalize all calendar invites with updated information – final schedule, notes document.
-1. Field Enablement to create 3 YouTube Unfiltered playlists for QBR recordings:
-   1. ENT QX-FYXX QBRs
-   1. COMM QX-FYXX QBRs
-   1. Channel QX-FYXX QBRs
 
 #### Week(s) of QBRs
 1. The RD/ASM will lead the meeting and be responsible for recording the QBR.
@@ -267,6 +262,6 @@ Below is a sample roll-out of the QBR planning and execution process that is fol
 1. Field Operations should consistently monitor the QBR Slack channels for questions.
 
 #### 1 week following QBRs
-1. RDs/ASMs should upload their QBR recordings into the designated YouTube Unfiltered folder.
-   1. Include the Chorus transcription link. 
+1. RDs/ASMs should share a link to their QBR recording in the designated "QBR Recordings" tab of their segment's (ENT, COMM, Channel) schedule spreadsheet.
+   1. Note: Where the recording lives is up to the RD/ASM – Zoom link, YouTube link, Chorus link – as long as the link can be accessed by Field team members.
 1. Sales Ops team begins triaging and actioning on QBR asks. Execute on top-priority asks in a Cannonball run. 
