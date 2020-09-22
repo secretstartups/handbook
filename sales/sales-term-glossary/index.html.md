@@ -57,6 +57,18 @@ For example, an account that is active from March 2019 to May 2019 but is inacti
 
 ## Revenue Definitions
 
+### Deal Sizes
+
+Deal Size is a dimension by which we will measure stage to stage conversions and stage cycle times of opportunities.
+Values are [IACV](/handbook/finance/operating-metrics/#bookings-incremental-annual-contract-value-iacv) in USD.
+
+1. Jumbo - USD 100,000 and up
+1. Big - USD 25,000 to 99,999.99
+1. Medium - USD 5,000 to 24,999.99
+1. Small - below USD 5,000
+
+Note that we use the same amounts to group customers by ARR.
+
 ### Annual Contract Value (ACV)
 
 Value of **all** bookings from new and existing customers that will result in recurring revenue over the next 12 months less any credits, lost renewals, downgrades or any other decrease to annual recurring revenue.
