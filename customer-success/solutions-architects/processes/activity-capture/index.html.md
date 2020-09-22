@@ -43,12 +43,13 @@ SA prospect/customer activity is recorded into `Task` objects within Salesforce 
     * **[SA] Activity Type** - Choose the type(s) of activity for this customer/prospsect interaction.  (ie. Demo, POV Related, Presentation/Pitch)
     * **Persona Levels** (Optional if unknown) - Select the customer/prospsect participants' levels in this activity.  Current options include:  `Individual Contributor, Manager/Director, Exectuive`
     * **Persona Functions** (Optional if unknown) - Select the customer/prospsect functions represented during the activity (ie.  Development, Security, DevOps)
-    * **Description** - Enter a summary of the interaction.  Two to three sentences are usually sufficient, but more detail is ok.  Try to capture the meeting's intent, how it went (the outcome or customer/prospect sentiment), and any prospect/customer perceived next steps.
+    * **Description** - Enter a summary of the interaction.  Two to three sentences are usually sufficient, but more detail is ok.  Try to capture the meeting's intent, how it went (the outcome or customer/prospect sentiment), and any prospect/customer perceived next steps.  It is highly encouraged that you provide a link to more detailed notes of your meeting.  You can use [Google Docs Bookmarks](https://support.google.com/docs/answer/45893) to do so.
 
 
 #### Example Activity Description
 
-	We provided a SCM and CI/CD demo for the head of application development, Homer Simpson, that was well-received.  His team is responsible for building a suite of catalog services and API for their partner merchants.  They are using Spring Boot to develop microservices and struggling with deployment consistency and complexity.  As a next step, we are scheduling a review of their current path to production.
+	We provided a SCM and CI/CD demo for the head of application development, Homer Simpson, that was well-received.  His team is responsible for building a suite of catalog services and API for their partner merchants.  They are using Spring Boot to develop microservices and struggling with deployment consistency and complexity.  As a next step, we are scheduling a review of their current path to production.  
+    More detailed notes are here: [Detailed Notes](https://support.google.com/docs/answer/45893)
 
 ### Collaborating on an Update
 
