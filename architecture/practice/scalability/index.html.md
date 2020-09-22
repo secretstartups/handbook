@@ -53,12 +53,12 @@ The Scale Cube can be applied to any component in all iterations.
 
 ## Example: Postgres current state
 
-GitLab.com is currently running at `[1,1,0]`: 
+GitLab.com is currently running at `[1,1,0]`:
 
 * `X`-axis: The database is composed of N fully replicated instances (a primary RW with several RO secondaries), each of which contains a duplicate of the entire dataset. This configuration can be scaled vertically for the RW workload by adding more hardware, and horizontally for the RO workload (increased query capacity) by adding more replicas. Two limiting factors will play a role:
   * RW capacity is directly proportional to hardware capacity (vertical scaling)
   * RO capacity will eventually run into the limits imposed by replication lag (CAP will play a role)
-* `Y`-axis: We are already migrating some data (diffs) off the database thorugh componentization, albeit without creating a service
+* `Y`-axis: We are already migrating some data (diffs) off the database through componentization, albeit without creating a service
 
 A [recent analysis](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/10340) indicates our database capacity is well beyond the 12-month range (and estimate that will be updated weekly). As we ponder scalability options, the question is whether the next iteration implements `[1,2,0]` or `[1,1,1]`. Current proposals essentially advocate for the latter strategy, but there is a case to be made for choosing an entirely different direction.
 
@@ -72,7 +72,7 @@ This section collects scalability best practices, gathered over time through exp
 
 The first rule of scalability is… don’t.
 
-This is a variation on a well-known theme: functionality first, avoid premature optimization, [do things that don’t scale](/handbook/values/#do-things-that-dont-scale). Always start in the monolith, and only extract from it when there is a good reason to do so. A “good reason” is always a data-driven decision (via KPIs). Doing so will avoid unchecked proliferation of “services” inside the application, which is in itself a significant problem (unmanageable dependencies, orphaned or neglected services, etc). As a guardrail, we can set a strict limit on the number of “services” allowed within the application, and it should be organizationally difficult to raise that limit. 
+This is a variation on a well-known theme: functionality first, avoid premature optimization, [do things that don’t scale](/handbook/values/#do-things-that-dont-scale). Always start in the monolith, and only extract from it when there is a good reason to do so. A “good reason” is always a data-driven decision (via KPIs). Doing so will avoid unchecked proliferation of “services” inside the application, which is in itself a significant problem (unmanageable dependencies, orphaned or neglected services, etc). As a guardrail, we can set a strict limit on the number of “services” allowed within the application, and it should be organizationally difficult to raise that limit.
 
 Remember, however, that scalability is a strategic practice, so keep the Scale Cube in mind: consider the relationships created by new entities carefully and within the scalability framework: what would happen if an entity needed to be componentized or federated in the future?
 
@@ -90,7 +90,7 @@ Componentization provides scale by creating headroom throughout the freed up res
 
 Componentization is not free:
 
-- Data comes from a separate subsystem and thus a separate runtime scope, so data mappers and data composers are required to compose the data we need. The application must now take over some of those responsibilities, which had been previously delegated to the datastore. 
+- Data comes from a separate subsystem and thus a separate runtime scope, so data mappers and data composers are required to compose the data we need. The application must now take over some of those responsibilities, which had been previously delegated to the datastore.
 - Internal latencies will increase, so caching enters the equation; cross-indexing may be required
 - Failure modes become more diffuse: a complete component failure may be straightforward to detect, but when results are returned, we must be able to ascertain said results are the full set of results expected, or be able to understand when partial results are being returned.
 
@@ -102,9 +102,9 @@ One problematic issue with federating before componentizing is that, long-term, 
 
 There are times, however, when federating first makes sense, especially when we can provide a low impact MVC that creates customer value or can lay the foundation of future iterations. However, these should be limited to cases where the scope is at its shallowest (see MVF).
 
-## `[MVF]` Minimum, Variable-depth Federation. 
+## `[MVF]` Minimum, Variable-depth Federation.
 
-We iterate efficiently, so we try to operate on the minimum scope possible: only implement the shallowest federation in any given iteration, as measured in terms of the number of affected layers in the stack and the distance between said layers. As a very practical matter, federation never cuts across the entire stack in a single iteration: use it whenever, wherever, and however it makes sense to do so, but minimize the scope. Variable-depth allows us to be selective in its application (which is aligned with *boring solutions* and *MVC*), 
+We iterate efficiently, so we try to operate on the minimum scope possible: only implement the shallowest federation in any given iteration, as measured in terms of the number of affected layers in the stack and the distance between said layers. As a very practical matter, federation never cuts across the entire stack in a single iteration: use it whenever, wherever, and however it makes sense to do so, but minimize the scope. Variable-depth allows us to be selective in its application (which is aligned with *boring solutions* and *MVC*),
 
 ### Examples
 
