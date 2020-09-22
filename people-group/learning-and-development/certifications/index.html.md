@@ -24,6 +24,7 @@ Certification programs allow GitLab to validate skills, knowledge, and behavior 
 ### Current Certifications 
 
 * [GitLab 101](/handbook/people-group/learning-and-development/certifications/gitlab-101/)
+* [GitLab 201](/handbook/people-group/learning-and-development/certifications/gitlab-201/)
 * [Remote Work Foundations](/company/culture/all-remote/remote-certification/#remote-work-foundation-certification-criteria)
 
 ### Upcoming
