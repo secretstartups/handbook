@@ -11,11 +11,11 @@ title: "Paid time off at GitLab"
 
 ## Paid Time Off
 
-Time away from work can be extremely helpful for maintaining a [healthy work/life balance](/company/culture/all-remote/people/#worklife-harmony). GitLab encourages managers and [leadership](/handbook/people-group/leadership-toolkit/) to set the example by taking time off when needed, and ensuring their reports do the same. 
+Time away from work can be extremely helpful for maintaining a [healthy work/life balance](/company/culture/all-remote/people/#worklife-harmony). GitLab encourages managers and [leadership](/handbook/people-group/leadership-toolkit/) to set the example by taking time off when needed, and ensuring their reports do the same.
 
-Taking time off is not a selfish behavior. Not only is time away from work aligned with GitLab's sub-value [Family and friends first, work second](/handbook/values/#family-and-friends-first-work-second), but it is vital to maintaining [mental health](/company/culture/all-remote/mental-health/). It is also a core part of the creative process. 
+Taking time off is not a selfish behavior. Not only is time away from work aligned with GitLab's sub-value [Family and friends first, work second](/handbook/values/#family-and-friends-first-work-second), but it is vital to maintaining [mental health](/company/culture/all-remote/mental-health/). It is also a core part of the creative process.
 
-It is so important to take time off to recharge batteries and refresh the mind so you can come back to GitLab with renewed energy and be prepared to do your best work ever! 
+It is so important to take time off to recharge batteries and refresh the mind so you can come back to GitLab with renewed energy and be prepared to do your best work ever!
 
 This page is written with a focus on vacation. If taking time off for medical needs, whether physical or mental, you should follow the appropriate process in your location. If missing more than 25 days of work due to medical requirements, you should move onto Short Term Disability, or the equivalent in your location. However, the below recommendations on communicating your time off apply to time off for all reasons where possible and avoid concerns of health, safety, or job abandonment.
 
@@ -40,7 +40,7 @@ As we all work remotely it can sometimes be difficult to know when and how to pl
 1. Not taking vacation is viewed as a weakness and people shouldn't boast about it. It is viewed as a lack of humility about your role, not fostering collaboration in training others in your job, and not being able to document and explain your work. You are doing the company a disservice by being a single point of failure. The company must be able to go for long periods without you. We don't want to lose you permanently by you burning yourself out by not taking regular vacations.
 1. Working hours are flexible. You are invited to company-wide calls such as group conversations and the [take a break call](/handbook/communication/#take-a-break-call) if you are available, but they aren't mandatory and you shouldn't attend if they are during your time off. We encourage you to read the [#whats-happening-at-gitlab](https://gitlab.slack.com/archives/general) Slack channel on your return to catch up on the announcements made while you were on your time off.
 1. You don't need to worry about taking time off to go to the gym, [take a nap](https://m.signalvnoise.com/sleep-deprivation-is-not-a-badge-of-honor-f24fbff47a75), go grocery shopping, do household chores, help someone, take care of a loved one, etc. If you have urgent tasks, but something comes up or takes longer than expected, just ensure the rest of the team **knows** and someone can pick up the tasks (assuming you're able to communicate).
-1. GitLab encourages team members to volunteer within their community to take care of others. Consider taking time in support of causes that matter to you and support your personal commitment to GitLab's values such as diversity, inclusion and belonging. 
+1. GitLab encourages team members to volunteer within their community to take care of others. Consider taking time in support of causes that matter to you and support your personal commitment to GitLab's values such as diversity, inclusion and belonging.
 1. GitLab also encourages you to use your leave for jury duty, bereavement leave, or to vote. You are not expected to work during this time off, but we recommend following the guidance under [Communicating Your Time Off](#communicating-your-time-off) when these situations arise.
 1. We encourage all team members to take time off for holidays they observe. GitLab embraces asynchronous communications, so calls can be recorded and watched later. No one should ever be expected to attend calls on days they are not working or on official public holidays. For a listing of official holidays by country, follow these steps:
     1. Go to the [timeanddate.com site](https://www.timeanddate.com/holidays/)
@@ -57,9 +57,9 @@ As we all work remotely it can sometimes be difficult to know when and how to pl
 
 ### Communicating Your Time Off
 
-Communicate broadly when you will be away so other people can manage time efficiently, projects don't slip through the cracks, and so that you don't get bothered while away.  
+Communicate broadly when you will be away so other people can manage time efficiently, projects don't slip through the cracks, and so that you don't get bothered while away.
 1. You should add the time off using [PTO Ninja](#pto-ninja) to Slack. Please use the following syntax which uses the [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) date notation in order to avoid confusion: `OOO from YYYY-MM-DD to YYYY-MM-DD, please contact XXX for assistance`.
-    * PTO Ninja will automatically add this time to BambooHR and as a busy event on your Google Calendar. Your manager will also receive a free event on their calendar.  
+    * PTO Ninja will automatically add this time to BambooHR and as a busy event on your Google Calendar. Your manager will also receive a free event on their calendar.
 1. Add an out of office automated response including the dates you plan to be away in your automated response.
 1. Consider using [Google Calendar's "out of office" setting](https://support.google.com/calendar/answer/7638168?hl=en) (scroll down to "Show when you’re out of office") to create an out of office event that will automatically decline new and existing meetings for you.
 1. If you plan to be out of the office for more than 48 hours, update your GitLab.com status with your out of office dates by clicking on your profile picture and selecting "Edit Status." For Example: 'OOO Back on 2018-06-28.' Don't forget to change it back upon your return, and be aware that this information is publicly accessible.
@@ -124,7 +124,7 @@ The manager should under no circumstances reveal any illness-related leave to ot
 
 
 ### Communicating Time Off for Emergency Situations
-Emergencies, by definition are unexpected.  They can range from natural disasters, terrorist events, accidents, family deaths, hospitalization and any other unexpected situation.  During these times we ask team members to use their best judgement as well as listen to and adhere to public safety officials when possible.  If an unexpected emergency occurs please contact your manager via Slack or email as soon as possible if you will be unavailable or unable to work.  This will allow your manager to confirm your safety and reassign any critical work during your absence.  If you do not have an emergency contact in BambooHR please go ahead and complete that section.  We will only contact that person if we are unable to reach you via Slack, email or phone.  
+Emergencies, by definition are unexpected.  They can range from natural disasters, terrorist events, accidents, family deaths, hospitalization and any other unexpected situation.  During these times we ask team members to use their best judgement as well as listen to and adhere to public safety officials when possible.  If an unexpected emergency occurs please contact your manager via Slack or email as soon as possible if you will be unavailable or unable to work.  This will allow your manager to confirm your safety and reassign any critical work during your absence.  If you do not have an emergency contact in BambooHR please go ahead and complete that section.  We will only contact that person if we are unable to reach you via Slack, email or phone.
 
 ### Unpaid Leave of Absence
 Team members may request an unpaid leave of absence by working with their manager to obtain approval. A manager has the discretion to not approve a leave based on performance issues or critical deadlines.  All requests must be approved by the function Vice President and comply with all local laws. Please follow the process for initiating an unpaid leave request to Peopleops.
@@ -132,9 +132,9 @@ Team members may request an unpaid leave of absence by working with their manage
 * Once Peopleops receives the unpaid leave email request they will confirm the manager and VP approval with the functional HRBP.
 * Once Peopleops confirms with the HRBP, Peopleops will inform payroll via email of the approved request.  The email will contain the team member name, location, start and end date of unpaid leave.
 * Peopleops will confirm with the team member via email that the request has been approved including the start date and end date of the unpaid leave.
-* The team member should contact their manager 2 weeks prior to the unpaid leave of absence ending to confirm the return to work date.  The team member may ask for additional unpaid time off, however the manager has the discretion to deny any additional time off requests.  
+* The team member should contact their manager 2 weeks prior to the unpaid leave of absence ending to confirm the return to work date.  The team member may ask for additional unpaid time off, however the manager has the discretion to deny any additional time off requests.
 * At anytime during the unpaid leave the team member receives a payroll payment, they are to immediately notify their manager and Peopleops via email.  Any funds paid in error are subject to repayment.
-* Once the team member has a confirmed return to work date, they should communicate that date in advance to their manager and to the total rewards team (total-rewards@gitlab.com) so the total reward's team can reinstate pay. 
+* Once the team member has a confirmed return to work date, they should communicate that date in advance to their manager and to the total rewards team (total-rewards@gitlab.com) so the total reward's team can reinstate pay.
 
 ### Communicating Other Status Using PTO Ninja
 
@@ -142,7 +142,7 @@ Team members may request an unpaid leave of absence by working with their manage
 
 In PTO Ninja, you have the ability to choose Other types of OOO categories, listed above. When you choose one of these categories, they are self-approved and do not count as PTO. You can choose them for an hour or more and they will be added to your calendar and Slack status at the time your OOO is effective. This is an easy way to communicate your status without manually updating both your calendar and your Slack status.
 
-This process is for events that are part of work but where you may be away from your computer, such as a Conference or a Customer Visit. You may also have Mandatory Civilian Service, which does not count as PTO. 
+This process is for events that are part of work but where you may be away from your computer, such as a Conference or a Customer Visit. You may also have Mandatory Civilian Service, which does not count as PTO.
 
 Then there are the day-to-day tasks that come up (such as Family Time, Self Care, Workout, Homeschooling and the general Away from Screen) that should not disrupt a workday in the sense that these OOO categories should not prevent or take away from a regular work load and will not need additional backup or support from another team member or team members. If you need to take a half day or full day to do things listed in these categories, that is PTO and at that time you will need to submit a PTO request.
 
@@ -227,7 +227,7 @@ If as a manager you are notified that your direct report has been incapacitated 
 
 1. Delete the relevant PTO entry from the team member's BambooHR Time Off tab.
 1. In the PTO Ninja app in Slack, in the Home tab, select the `override` option in Admin Tools and type the name of the team member you need to perform the override for.
-1. Select the team member's name and find the OOO event in their hisotry.
+1. Select the team member's name and find the OOO event in their history.
 1. Delete said entry using the `[...]` overflow menu on the righthand side of the screen.
 1. Add a new OOO event(s) by clicking the +Add Event button.
 
@@ -313,9 +313,9 @@ employees take entitled leave with 14 days’ notice
 1. Global Upside (India)
     * The statutory requirements of India are covered through our PTO policy.
 1. GitLab Canada Corp (Canada)
-    * GitLab's [PTO policy](/handbook/paid-time-off/) overrides over GitLab Canada Corp in the sense that the policies listed here are stating the statutory minimum that each GitLab Canada Corp team member must take to be compliant with relevant provincial laws. 
+    * GitLab's [PTO policy](/handbook/paid-time-off/) overrides over GitLab Canada Corp in the sense that the policies listed here are stating the statutory minimum that each GitLab Canada Corp team member must take to be compliant with relevant provincial laws.
     * GitLab Canada Corp observes provincial laws regarding holidays and vacation pay. The Canada Labour Code, specifically [Division IV of Part III](https://www.canada.ca/en/employment-social-development/services/labour-standards/reports/annual-vacation.html) provides for the overarching general annual vacation policy. For more information, the [Ontario Employment Standards Act](https://www.ontario.ca/document/your-guide-employment-standards-act/vacation) lists Ontario's laws and policies and the [Commission des normes, de l'équité, de la santé et de la sécurité du travail](https://www.cnt.gouv.qc.ca/en/leaves-and-absences/vacation/index.html#c59) list information relating to Quebec's Vacation policies.
-    * In every province in Canada, team members are entitled to ***Vacation time*** after they have worked for 12 consecutive months. 
+    * In every province in Canada, team members are entitled to ***Vacation time*** after they have worked for 12 consecutive months.
     * ***Vacation pay*** is calculated as a percentage of the gross wages an employee earns during a "year of employment". Vacation pay is earned the moment employment begins (except in Newfoundland and Labrador and British Columbia which starts accruing on Day 5). “Gross wages” include: base salary, hourly wages (if applicable), and commission or other incentive-based pay. It does not include bonuses.
     * Any earned but unused vacation must be paid out on termination.
     * GitLab Canada Corp should ensure that all statutory mandatory minimum vacation time is taken within 12 months of it being earned. There is no rollover of unused vacation at every anniversary date.
@@ -330,7 +330,7 @@ employees take entitled leave with 14 days’ notice
 
 1. Each June, People Ops will need to review the BV (Netherlands) Accrual for all employees and remove any carry over from the previous calendar year that was not used.
 1. In January, People Ops will adjust any negative carryover back to zero, for all accruals in BambooHR for the year. To do this go to Time Off, Adjust Balance, and add any extra days.
-1. PTO Ninja will automatically add any time off taken for sick and vacation accruals.  
+1. PTO Ninja will automatically add any time off taken for sick and vacation accruals.
 
 _Note: In January, People Ops will adjust any negative carryover back to zero, for all accruals in BambooHR for the year. To do this go to Time Off, Adjust Balance, and add any extra days._
 
