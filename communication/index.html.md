@@ -852,7 +852,7 @@ Slack is to be used for informal communication only. Only 90 days of activity wi
    1. storing official company records or documents; or
    1. sharing personal or sensitive information regarding any individuals
 
-Internal slack messages between team members are still considered professional communication.  Please do not use or add emoji's to slack that are of a political, religious or of a sexual nature.  You can refer to the [Religion and politics at work](/handbook/values/) section of the handbook.  When in doubt do not use or add the emoji.  If you have any concerns about an emoji that was used, please reach out to the author or if you are not comfortable doing so please reach out to your [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division).
+Internal slack messages between team members are still considered professional communication.  Please do not use or add emoji's to slack that are of a political, religious or of a sexual nature.  You can refer to the [Religion and politics at work](/handbook/values/#religion-and-politics-at-work) section of the handbook.  When in doubt do not use or add the emoji.  If you have any concerns about an emoji that was used, please reach out to the author or if you are not comfortable doing so please reach out to your [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division).
 
 ### Avoid Direct messages
 
