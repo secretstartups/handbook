@@ -62,7 +62,7 @@ Discretionary bonuses are to celebrate team members that live by our values. To 
 *  Going above and beyond what is expected in regard to the team member's role description.
 *  Truly exceptional work.  Good and great is already expected in a team member's work and performance.
 *  Providing additional coverage or project load for other team members.
-*  Team member's work results in higher productivity or improved processes that create efficiences and results. This may also result in identifying cost saving initatives.
+*  Team member's work results in higher productivity or improved processes that create efficiences and results. This may also result in identifying cost saving initiatives.
 
 *Invalid bonus criteria*
 
@@ -93,22 +93,22 @@ X's dedication to the Technical Writing team over a long period of time motivate
 
 *Examples of invalid discretionary bonus*
 
-* "X has been an integral part to my onboarding experience, working tirelessly to help me get access and answer to questions.  X truly embodies GitLab's value of effficiency, collaboration and results"
+* "X has been an integral part to my onboarding experience, working tirelessly to help me get access and answer to questions.  X truly embodies GitLab's value of efficiency, collaboration and results"
 * "X has continually met or exceeding their sales quota for 3 months"
 * "X is always willing to jump in even at the last moments to help out a team member"
 
 
-For managers: as a reminder, please make sure when you are submitting the bonus in BambooHR that your description is clear and includes the valid criteria data needed for managers and PBP to review and approve.  Any bonus submitted that does not include clear and valid reasons for submittal may be denied and the manager will be asked to provide further content and details.  
+For managers: as a reminder, please make sure when you are submitting the bonus in BambooHR that your description is clear and includes the valid criteria data needed for managers and PBP to review and approve.  Any bonus submitted that does not include clear and valid reasons for submittal may be denied and the manager will be asked to provide further content and details.
 
 #### Process for Recommending a Team Member for a Bonus in BambooHR
 
-We are currently testing a new process through slack for bonus requests. Please continue to use the BambooHR process until the nominator bot has been fully tested and implemented. 
+We are currently testing a new process through slack for bonus requests. Please continue to use the BambooHR process until the nominator bot has been fully tested and implemented.
 
 ##### BambooHR Process
 **Any GitLab team member**
 
 1. Write a few sentences describing how the GitLab team member has demonstrated a specific GitLab value in their work.  Please make sure you have viewed the valid and invalid criteria listed above.  The nomination request should tie to our values and be detailed enough to ensure that the nomination meets the criteria.
-1. If applicable, please be sure to include any relevant issues or merge requests that support the nomination. 
+1. If applicable, please be sure to include any relevant issues or merge requests that support the nomination.
 1. Email that sentence to the GitLab team member's [manager](/company/team/org-chart/), suggesting a discretionary bonus, and set-up a 15 minute Zoom meeting to discuss your proposal.
 1. Remember that the manager may or may not agree and has full discretion (with approval of their manager) on whether that person gets a bonus. If you are a people manager and you are not approving the team members nomination for a discretionary bonus, in the spirit of transparency and collaboration, it is strongly suggested that you have a conversation with the team member on why you are not approving the discretionary bonus.
 1. Don't forget that you can also use the ```#thanks``` channel to recognize people, as well.
@@ -123,7 +123,7 @@ We are currently testing a new process through slack for bonus requests. Please 
 1. Bonus amount: 1000 USD
 1. Bonus type: Discretionary Bonus
 1. Nominated by: select relevant option
-1. Bonus comments: Include the justification details how the GitLab team-member demonstrated one or more of our [values](/handbook/values) in this specific instance. There is a 255 character limit in this field. Please be as detailed as possible to ensure the approval chain has enough information to approve the bonus based on the valid criteria.  
+1. Bonus comments: Include the justification details how the GitLab team-member demonstrated one or more of our [values](/handbook/values) in this specific instance. There is a 255 character limit in this field. Please be as detailed as possible to ensure the approval chain has enough information to approve the bonus based on the valid criteria.
 1. Comment for the Approvers: Give the most relevant URL for the work they did, something interesting for others to look at.
 1. Submit the bonus request.
 1. Once the request is reviewed by the manager and People Business Partner for the group, you will receive an email from BambooHR with the subject line: "Your Bonus request has a response".
@@ -148,12 +148,12 @@ We are currently testing a new process through slack for bonus requests. Please 
 **Any GitLab team member**
 1. Go to Slack and type `/nominate name of the team member`
 1. Slack will open a dialog and ask you for some details about the nomination. Use the motivation text field, to write a few sentences describing how the GitLab team member has demonstrated a specific GitLab value in their work.  Please make sure you have viewed the valid and invalid criteria listed above. Don't forget that the nomination request should tie to our values and be detailed enough to ensure that the nomination meets the criteria. You can select the values it applies to.
-1. If applicable, please be sure to include any relevant issues or merge requests that support the nomination. 
+1. If applicable, please be sure to include any relevant issues or merge requests that support the nomination.
 1. Once submitted, the bot will send this over to the manager to kick-off the approval flow
 1. Once everyone has approved the bot will report back to you with the good news. If it's rejected we ask the person who rejects, to reach out to you. That is not done by the bot.
 
 **Manager Process**
-1. The Nominator bot will send you a Slack DM asking to approve or reject the nomination. 
+1. The Nominator bot will send you a Slack DM asking to approve or reject the nomination.
 1. When you decide to approve, all you need to do is click the approve button. The bot will take care of the next steps (sending it to the second level manager, PBP, Total Rewards team)
 1. When you decide to reject, click the reject button. The nomination will be updated as `rejected_by_manager`. The bot will ask you to reach out to the nominator as to make sure they understand why the nomination was not approved.
 1. When everyone else has approved, the bot will reach out to you so you can share this with the team member and share it in the Slack channel.
@@ -210,7 +210,7 @@ graph TD;
 1. The request is then sent to the People Ops Admins for final approval and to confirm that there is a 1-sentence justification comment in the Bamboo record.
 1. Once approved, the request is sent to the Total Rewards Analyst to process the bonus in the applicable payroll and notify the manager via email.
 1. Notify Payroll of the bonus.
-1. Per the email from Total Rewards Analysts, the manager will notify the team member of the bonus and the nomintaor will announce it on the GitLab Slack channel [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K). The nominator announces the “who” and “why” of the bonus. The announcement should include the 1-sentence justification of the bonus.
+1. Per the email from Total Rewards Analysts, the manager will notify the team member of the bonus and the nominator will announce it on the GitLab Slack channel [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K). The nominator announces the “who” and “why” of the bonus. The announcement should include the 1-sentence justification of the bonus.
 
 #### GitLab Anniversaries
 
@@ -251,17 +251,17 @@ We encourage and support [diversity](/handbook/values) and [frugality](/handbook
 * [$1,000](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus for a hire from a [Location factor](/handbook/total-rewards/compensation/compensation-calculator/calculator/) less than 0.65.
 * [$1,500](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus for a hire from a ["select underrepresented group"](#add-on-bonus-for-select-underrepresented-groups).
 
-The following is an *example* of a cumlative Referral Bonus:
-* Hire a refered Strategic Account Leader: $500
+The following is an *example* of a cumulative Referral Bonus:
+* Hire a referred Strategic Account Leader: $500
 * With a location factor of 0.6: + $1,000
 * Who self-identifies as Native American/Native: + $1,500
 * Cumulative referral bonus to the referring party: **$3,000**
 
 ### Add-On Bonus for Select Underrepresented Groups
 
-An underrepresented group describes a subset of a population that holds a smaller percentage within a significant subgroup than the subset holds in the general population. The accepted definition of “underrepresented minorities” from the National Science Foundation and other major research institutions focuses on racial and ethnic groups whose representation in a profession is significantly below their representation in the general population. While any non-majority group in the workplace is a “minority”, they are not considered to be “underrepresented” unless they meet this definition.  
+An underrepresented group describes a subset of a population that holds a smaller percentage within a significant subgroup than the subset holds in the general population. The accepted definition of “underrepresented minorities” from the National Science Foundation and other major research institutions focuses on racial and ethnic groups whose representation in a profession is significantly below their representation in the general population. While any non-majority group in the workplace is a “minority”, they are not considered to be “underrepresented” unless they meet this definition.
 
-We offer an add-on referral bouns for the following groups:
+We offer an add-on referral bonus for the following groups:
 * Women in Engineering, Product, & Sales Division - Globally
 * Women in [Management](/company/team/structure/#organizational-chart) - Globally
 * African American/Black - Globally
@@ -280,9 +280,9 @@ If a team member has been referred, the People Experience team will review team 
    * no bonus for hiring people who report to you directly or are in your direct reporting chain,
    * no bonus for a current executive team member (VP and above) who's referral is hired,
    * no bonus if you refer current team members,
-   * no bonus for refering a [Boomerang Team Member](https://www.bamboohr.com/hr-glossary/boomerang-employee/),
-   * no bonus for a referring team member will be applicable if the team members employment is terminated prior to the referral bonus payout date. You need to be an active team member. 
-    
+   * no bonus for referring a [Boomerang Team Member](https://www.bamboohr.com/hr-glossary/boomerang-employee/),
+   * no bonus for a referring team member will be applicable if the team members employment is terminated prior to the referral bonus payout date. You need to be an active team member.
+
 * In the event that more than one GitLab employee refers the same team member for the same role the People Ops team will ask the new team member to confirm who they were referred by (who should get the credit). If they mention two or more people then the bonus will be split between them.
 
 * In the event that someone wants to refer another candidate to GitLab before they have started the referring party must have a sign contract at the time of the new candidate's application.
