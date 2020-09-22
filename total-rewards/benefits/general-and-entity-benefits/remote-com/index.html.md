@@ -72,7 +72,9 @@ Employees in Mexico are covered by the Social Security Law, under IMSS who is re
 
 ### Medical Benefits
 
-* Medical Insurance allowance of 5000 USD per annum (Details to be added by Total Rewards)
+* Healthcare Monthly Allowance will be paid by Remote as an allowance to the team members.
+* The allowance will be 5000 USD per annum. 
+* This amount will be paid on monthly basis with the regular payroll as a reimbursement.
 
 ### Life Insurance
 
@@ -128,4 +130,40 @@ A male team member is entitled to 5 working days as paternity leave.
 ### Sick Leave
 
 Team members unable to work because of a nonwork-related injury or illness and who have made payments into the social security system for the four weeks before the condition developed are eligible for paid sick leave through the Social Security Institute. The benefit, which is 60% of an employee’s regular wage, is paid from the fourth day of the illness for up to 52 weeks and maybe extended for another 52 weeks. 
- 
+
+## Hungary
+
+### Social Security
+
+The Hungarian Social Security Act has employer and team member contributions to cover statutory requirements such as pension, health insurance, and unemployment. 
+
+### Medical
+
+GitLab does not plan to offer Private Health Insurance at this time because team members in Hungary can access the public health system for free or at a lower cost through the Hungarian state healthcare system. This system is funded by the National Health Insurance Fund.
+
+### Pension
+
+GitLab does not plan to offer pension benefit at this time as the Hungarian pension system provides for a minimum pension, with a qualifying condition of minimum 20 years of service, of HUF 28,500 per month. If the average contribution base is less than the amount of the minimum pension, the pension will equal 100% of the average monthly wage.
+
+### Life Insurance
+
+GitLab does not plan to offer life insurance at this time as team members can access the benefits from [Social insurance system](https://tcs.allamkincstar.gov.hu/) if they get ill, injured or have a disability.
+
+### Remote Hungary Leave Policy
+
+#### Statutory Maternity Leave
+
+The statutory entitlement for maternity leave is 24 weeks. The leave must start **4 weeks prior to the scheduled delivery date**. During the entire period of maternity leave, the team member is entitled to 70% of her average salary, if she is regarded as insured under the Health Insurance Act LXXXIII. of 1997.
+
+#### Statutory Paternity Leave
+
+A male team member is entitled to `five` days paid leave, and `seven` days paid leave in case of twins, which they may take in one or in several parts until the end of the second month after the birth. Any income and taxes related to this period of supplementary leave are reimbursed to the employer by the Hungarian State Treasury. (Labour Code §118)
+
+#### Statutory Parental Leave
+
+The team member shall be entitled to a leave of absence without pay in order to care for the child until the child reaches the age of `three` or in order to care for the child until the child reaches the age of `ten`, if the team member receives a child care allowance. (Labour Code §128, 130, 118)
+
+Additionally to parental leave, workers are entitled to extra vacation days based on the number of children they have: 
+a) two working days for one child; 
+b) four working days for two children; 
+c) a total of seven working days for more than two children under sixteen years of age.
