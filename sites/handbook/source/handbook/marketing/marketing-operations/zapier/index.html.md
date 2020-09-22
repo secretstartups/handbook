@@ -18,14 +18,15 @@ Zapier is an automation tool that allows us to move data from one application to
 * EventBrite to Marketo
 
 # What Data is Required?
-These fields must be captured in order to allow for proper routing of leads:
+These fields must be required and captured in order to allow for proper routing of leads:
 * First Name
 * Last Name
 * Email
 * Company
 * Country
-* Consent (Whether or not we recieved consent to send email, can be `TRUE` of `FALSE`)
-* Number of employees
+* Number of employees (Can be range, or number)
+* Consent (Whether or not we recieved consent to send email, can be `TRUE` of `FALSE`) [Reference the legal handbook](/handbook/legal/marketing-collaboration/#marketing-rules-and-consent-language) for the language that should be used.
+
 
 
 ## When to Request 
@@ -37,6 +38,7 @@ There are two main reasons and advantages of using Zapier:
 1. When there is a time savings for setting up the Zap vs importing multiple lists
 1. Having data pass between systems in real-time
 
+
 |Type|Example|Zap?|
 |----|----|-----|
 |Recurring list loads that happen over course of weeks/months|Ongoing survey campaign |Usually|
@@ -45,4 +47,6 @@ There are two main reasons and advantages of using Zapier:
 |One time list loads |Sponsored Webcast                        |No|
 
 ## How to Request 
-Please submit an issue with Marketing Operations. [Issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/Zapier_Connection_Request.md) coming soon.
+Please submit an issue with Marketing Operations using this [issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/zapier_connection_request.md)
+
+If you are using a google form, you must give mops access to the google sheet, not the form.
