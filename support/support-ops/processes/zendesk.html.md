@@ -33,6 +33,16 @@ offboarding issue to verify they have been deprovisioned.
 
 ## Organizations
 
+### Domain Matching
+
+Domain matching is the concept of identifying a person's organization based on
+the domain name in their email address.
+
+While Zendesk does have the functionality to do domain matching, we have
+determined that the security risks inherent in this feature outweigh the
+benefits that would be received from its use. So we do not use domain matching,
+and we do not add domains to organizations.
+
 ### Shared Organization Process
 
 A shared organization is one in which the end-users in said organization have
