@@ -100,7 +100,10 @@ Coming Soon
 
 ### Training Resources
 
-Troops.ai all-hands recording - coming soon 
+* Troops.ai all-hands recording - coming soon 
+* [Log an Activity](https://www.youtube.com/watch?v=zRxUJSjujUk&feature=youtu.be)
+* [Create a Contact](https://www.youtube.com/watch?v=OzNH927Y7wM&feature=youtu.be)
+* [Updating Tech Eval Dates and Status](https://www.youtube.com/watch?v=ifRYJhHzyzo&feature=youtu.be)
 
 ### Feedback Process
 
