@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: License and Renewal Queue Workflow
+title: Troubleshoot Errors While Making Purchases on Customers Portal
 category: License and subscription
 --
 
