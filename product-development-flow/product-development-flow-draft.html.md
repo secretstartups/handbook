@@ -20,7 +20,7 @@ This is the draft version of the Product Development Flow. All changes to this d
 |              |             | 
 | -------------|-------------| 
 | Version      | 1.0         |
-| Release Date | 2020-11-22  |
+| Release Date | 2020-10-22  |
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
