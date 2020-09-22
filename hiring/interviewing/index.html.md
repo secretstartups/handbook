@@ -45,7 +45,7 @@ Read more about [our outbound hiring model](/jobs/faq/#gitlabs-outbound-recruiti
 
 <p>
 <details open>
-  <summary markdown='span'>
+  <summary markdown="span">
     Average Time-to-Hire 
   </summary>
 
@@ -58,7 +58,7 @@ To note, this metric is calculated by taking the number of days it takes from th
 
 <p>
 <details open>
-  <summary markdown='span'>
+  <summary markdown="span">
     Reimbursement for Interviewing with GitLab
   </summary>
 
@@ -83,7 +83,7 @@ If you are a [current team member and are interested in applying](/handbook/peop
 
 <p>
 <details open>
-  <summary markdown='span'>
+  <summary markdown="span">
     Steps
   </summary>
 
@@ -102,7 +102,7 @@ We want our interview process to be accessible to everyone. You can inform us of
 
 <p>
 <details open>
-  <summary markdown='span'>
+  <summary markdown="span">
     Process for the Recruiting Team
   </summary>
 
@@ -124,7 +124,7 @@ These steps may vary role-to-role, so please review the hiring process on the jo
 
 <p>
 <details open>
-  <summary markdown='span'>
+  <summary markdown="span">
     Steps
   </summary>
 
@@ -171,7 +171,7 @@ The GitLab team understands the importance of inclusive interviewing, and we str
 
 <p>
 <details open>
-  <summary markdown='span'>
+  <summary markdown="span">
     Best practices
   </summary>
 
@@ -202,7 +202,7 @@ Calls can last anywhere between 10 and 30 minutes, depending on the conversation
 
 <p>
 <details open>
-  <summary markdown='span'>
+  <summary markdown="span">
     Example Questions
   </summary>
 
@@ -229,7 +229,7 @@ In an effort to streamline the hiring process, improve the candidate experience,
 
 <p>
 <details open>
-  <summary markdown='span'>
+  <summary markdown="span">
     Best practices
   </summary>
 
@@ -263,7 +263,7 @@ Interviewing is hard for both sides. In less than one hour, you both need to get
 
 <p>
 <details open>
-  <summary markdown='span'>
+  <summary markdown="span">
     Interview Training and Preparation
   </summary>
 
@@ -284,7 +284,7 @@ Remember, interviewing candidates is everyone's job as part of our collaboration
 
 <p>
 <details open>
-  <summary markdown='span'>
+  <summary markdown="span">
     Best practices
   </summary>
 
@@ -362,7 +362,7 @@ typically do for developers during a technical interview. Avoid puzzles or weird
 
 <p>
 <details open>
-  <summary markdown='span'>
+  <summary markdown="span">
     Candidate Performance Evaluation
   </summary>
 
@@ -403,7 +403,7 @@ It can also happen that the candidate does not have a story to share with you; t
 
 <p>
 <details open>
-  <summary markdown='span'>
+  <summary markdown="span">
     Interview feedback
   </summary>
 
@@ -449,7 +449,7 @@ Scoring is defined as follows:
 
 <p>
 <details open>
-  <summary markdown='span'>
+  <summary markdown="span">
     Rejecting and Feedback
   </summary>
 
@@ -480,7 +480,7 @@ We [recorded a training](https://www.youtube.com/embed/ng_VQseo5vo) on the subje
 
 <p>
 <details open>
-  <summary markdown='span'>
+  <summary markdown="span">
     How We Work During Holidays
   </summary>
 
@@ -493,7 +493,7 @@ We [recorded a training](https://www.youtube.com/embed/ng_VQseo5vo) on the subje
 
 <p>
 <details open>
-  <summary markdown='span'>
+  <summary markdown="span">
     How We Schedule Interviews on a Global Scale
   </summary>
 
