@@ -108,7 +108,7 @@ Exceptions to this policy must be approved by Security, Legal and PeopleOps Depa
 
 ### Consultations
 
-To consult with the Security Team, use the appropriate contact: `security@gitlab.com`, or create an issue in the [Security Compliance tracker](https://gitlab.com/gitlab-com/gl-security/compliance/compliance/issues).
+To consult with the Security Team, use the appropriate contact: `security@gitlab.com`, or create an issue in the [Security Compliance tracker](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/issues).
 
 ### Related Documents and Handbook Entries
 
