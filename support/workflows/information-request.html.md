@@ -76,8 +76,21 @@ A request may come in that you believe needs legal input but does not fit into o
 Your request has been received and forwarded to our legal department who will review this request.
 
 When we have received a response from our Legal team, this ticket will be updated.
+```
+
+1. Put ticket on hold. 
+1. If ticket has not been resolved within 4 days (when ticket will auto-resurrect), check in with Legal for an answer. 
+1. If Legal requests more time, respond to the ticket:
 
 ```
+Since this is a complex request, we're going to hand over this issue directly to the Legal team. Once they have more information for you, you can expect an email directly from them. 
+
+We're tracking this internally in <link-to-legal-and-compliance-issue>. Note: you won't be able to see this internal request, but it will be helpful to reference if you don't hear anything back within time period X
+
+Since we're handing off directly to the legal team we'll solve this support request to make sure we're using just one form of communication at a time. If you need to follow up before hearing from them, please email Legal directly at legal@gitlab.com.
+```
+1. Note the above response in the related Legal and Compliance issue.
+1. Close ticket.
 
 ### Unsure? Other?
 
