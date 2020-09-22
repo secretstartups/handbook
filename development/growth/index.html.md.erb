@@ -274,6 +274,7 @@ The duration of each experiment will vary depending on how long it takes for exp
 1. PM creates the [Experiment Epic](#experiment-epic), following the process outlined in [Experiment Issue Creation](#experiment-issue-creation)
 1. PM works with UX and Engineering to begin generating issues from the experiment definition
 1. PM works with the Data Team to define what data will be needed in order to fulfill the defined success metric
+   - **Note:** In order for the Data Team to begin ingesting data from new tables or columns, those tables or columns must first exist in the production database.
 1. UX creates mockups of UI and UX flows for experiment, working with PM, Technical Writer, Engineering, etc.
 1. Engineering engages in the [Product Development Flow](/product-development-flow) to get the experiment-running code deployed to the latest version of the product
 1. Engineering & PM collaborate on getting the experiment activated according to the defined rollout plan
@@ -299,7 +300,7 @@ Experiments are tracked on Growth Experiments boards by group:
 - Once the experiment hypothesis & measurement criteria are well-defined, an [Experiment Epic](#experiment-epic) is created at the top-level group most appropriate for the experimentation work (usually the `gitlab-org` group)
   - The epic becomes the single source of truth (SSoT) for the experiment
   - The original [Experiment Definition Issue](#experiment-definition-issue) is closed and gets attached to the epic
-  - The final definition, hypothesis, & measurement criteria from the [Experiment Definition Issue](#experiment-definition-issue) are copied into the new epic’s description
+  - The final definition, hypothesis, & measurement criteria from the [Experiment Definition Issue](#experiment-definition-issue) are copied into the new epic's description
 - New issues related to the experiment (such as an [Experiment Tracking Issue](#experiment-tracking-issue), an [Experiment Cleanup Issue](#experiment-cleanup-issue), a UX spec issue, or an Engineering work issue) are attached to the epic
 
 #### Experiment Definition Issue
@@ -308,15 +309,15 @@ This issue acts as the starting point for defining an experiment, including an o
 
 #### Experiment Epic
 
-This epic acts as the single source of truth (SSoT) for the experiment once an experiment has been properly defined according to our [Experiment Definition Standards](#experiment-definition-standards) and is deemed worthwhile to run. Once an [Experiment Definition Issue](#experiment-definition-issue) graduates to an epic, we fill out further details such as the expected rollout plan. We also assign the experiment to a Milestone and begin divvying up the UX & Engineering work. The epic will be labeled with the `~growth experiment` label and will likely begin with the `~"experiment::in dev"` scoped label.
+This epic acts as the single source of truth (SSoT) for the experiment once an experiment has been properly defined according to our [Experiment Definition Standards](#experiment-definition-standards) and is deemed worthwhile to run. Once an [Experiment Definition Issue](#experiment-definition-issue) graduates to an epic, we fill out further details such as the expected rollout plan. We also assign the experiment to a Milestone and begin divvying up the UX & Engineering work.
 
 #### Experiment Tracking Issue
 
-This issue is used to track the experiment progress once it is live. The issue contains details about the tracking events and data points used to determine if the experiment is a success as well as links to relevant metrics-reporting dashboards (such as Sisense).
+This issue is used to track the experiment progress once it is live. It is created within the `gitlab-org/growth/experiments` project. The issue contains details about the tracking events and data points used to determine if the experiment is a success as well as links to relevant metrics-reporting dashboards (such as Sisense).
 
 #### Experiment Cleanup Issue
 
-This issue is used to clean up an experiment after an experiment has been completed. The cleanup work may include completely removing the experiment (in the case of `~"experiment::invalidated"` and `~"experiment::inconclusive"`) or refactoring the experiment feature for the long run (in the case of `~"experiment::validated"`).
+This issue is used to clean up an experiment after an experiment has been completed. It is created within the project where the cleanup work will be done (e.g. the `gitlab-org/gitlab` project). The cleanup work may include completely removing the experiment (in the case of `~"experiment::invalidated"` and `~"experiment::inconclusive"`) or refactoring the experiment feature for the long run (in the case of `~"experiment::validated"`).
 
 ### Experiment Definition Standards
 
