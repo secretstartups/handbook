@@ -122,7 +122,7 @@ See the [Working on Tickets Flowchart](#working-on-tickets-flowchart) for a visu
    replies or ticket summary.
 1. **If I can provide a good response on a new (unassigned) ticket, but I don't
    want to assign to myself, may I?** Every response should be part of a ticket
-   that is assigned to somebody. If the ticket is unassigned (new), please
+   that is assigned to somebody. If the ticket is unassigned (new) and **it's in your region** or all regions, please
    assign it to yourself and then send your first response to the ticket
    requester. And remember, you have a whole team ready to help you drive that
    ticket to a great resolution, so you're never alone.
@@ -175,7 +175,7 @@ AH2["@"mention your manager in <BR> Slack in the thread <BR> where you requested
 ### I'm working on a ticket, how do I let the team know?
 
 1. If the ticket is unassigned, then:
-   1. Assign the ticket to yourself:
+   1. Assign the ticket to yourself if it's **in your region** or all regions:
       1. This takes it out of the 'Needs assignee' view so other engineers won't waste
          time on it
       1. *NOTE: The SLA clock continues to run!*
