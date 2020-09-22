@@ -27,6 +27,7 @@ This allows our team to consider you for current and future [openings on the tea
 
 Read more about [our outbound hiring model](/jobs/faq/#gitlabs-outbound-recruiting-model) and other frequently asked questions on our [Jobs FAQ page](/jobs/faq/).
 
+<p>
 <details open>
   <summary markdown="span">
   How to Join our Talent Community
@@ -40,7 +41,9 @@ Read more about [our outbound hiring model](/jobs/faq/#gitlabs-outbound-recruiti
 1. If at any point during the interview process, you send threatening emails, emails containing profanity, vulgar language, or [hurtful labels](https://about.gitlab.com/community/contribute/code-of-conduct/), we will no longer pursue your candidacy and will inform you of that. We will also not respond any further to you. We aim to hire only people who align with our [values](/handbook/values/).
 
 </details open>
+</p>
 
+<p>
 <details open>
   <summary markdown='span'>
     Average Time-to-Hire 
@@ -51,7 +54,9 @@ We strive to be as expeditious as possible in our hiring process. However, the s
 To note, this metric is calculated by taking the number of days it takes from the time a candidate starts the recruitment process to when they accept an offer.
   
 </details open>
+</p>
 
+<p>
 <details open>
   <summary markdown='span'>
     Reimbursement for Interviewing with GitLab
@@ -70,11 +75,13 @@ If you are invited for an interview with GitLab and you need financial support f
 
 To initiate the reimbursement process please email `interviews@gitlab.com`. Additional details found [here](/handbook/hiring/recruiting-framework/coordinator/#interview-reimbursement-process).
 </details open>
+</p>
 
 ### Internal Applicants
 
 If you are a [current team member and are interested in applying](/handbook/people-group/promotions-transfers/#department-transfers) for a current vacancy, please follow the steps below.
 
+<p>
 <details open>
   <summary markdown='span'>
     Steps
@@ -87,11 +94,13 @@ If you are a [current team member and are interested in applying](/handbook/peop
 1. Once you have finished, click "Submit Application" at the bottom.
 
 </details open>
+</p>
 
 ### Adjustments to our Interview Process
 
 We want our interview process to be accessible to everyone. You can inform us of any reasonable adjustments we can make to better accommodate your needs by emailing 'interviews@gitlab.com' about the need for adjustments at any point in the interview process. 
 
+<p>
 <details open>
   <summary markdown='span'>
     Process for the Recruiting Team
@@ -106,12 +115,14 @@ We want our interview process to be accessible to everyone. You can inform us of
 1. The Candidate Experience Specialist will set a follow-up reminder on the candidate's profile to remind the interviewer(s) 24 hours before the interview of the adjustments that are being made to ensure they are top of mind. You do not need to share why the adjustment is being requested but what the required adjustments are.
 1. The Recruiter should follow up with the candidate via email after the interview process to ensure they felt the adjustments made were sufficient for them to perform the interview to the best of their ability.
 
-</ open>
-
+</details open>
+</p
+>
 ## Typical Hiring Timeline
 
 These steps may vary role-to-role, so please review the hiring process on the job family page for the role you are interested in.
 
+<p>
 <details open>
   <summary markdown='span'>
     Steps
@@ -152,11 +163,13 @@ depending on the outcome of the call, the recruiting team or manager may either 
 1.  The hiring manager considers [closing the vacancy](/handbook/hiring/vacancies/#closing-a-requisition).
 
 </details open>
+</p>
 
 ## Inclusive Interviewing
 
 The GitLab team understands the importance of inclusive interviewing, and we strive to ensure our hiring team is well versed in every aspect of diversity, inclusion, and cultural competence. A positive and comfortable candidate experience is priority.
 
+<p>
 <details open>
   <summary markdown='span'>
     Best practices
@@ -181,11 +194,13 @@ The GitLab team understands the importance of inclusive interviewing, and we str
   * UX
 
 </details open>
+</p>
 
 ## What to Expect During an Interview with a Recruiter
 
 Calls can last anywhere between 10 and 30 minutes, depending on the conversation.
 
+<p>
 <details open>
   <summary markdown='span'>
     Example Questions
@@ -206,11 +221,13 @@ Example questions include:
 
 At the end of the screening call, the recruiter will tell you what the next steps will be, if any. There should be time for you to ask any questions you may have. 
 </details open>
+</p>
 
 ## Moving Candidates Through The Process
 
 In an effort to streamline the hiring process, improve the candidate experience, and hire talent faster, best practice is to coordinate interview times so that candidates can complete the process within 2 weeks. Just as if we were to interview candidates in-person at an office, we wouldn’t make them come back 3, 4, or even 5 times. The initial screening call and optional CEO interview are not considered to be part of the 2-week goal. If the process before or during the team interview is taking more than a few days to confirm, the Recruiter should reach out to the candidate, apologize, and explain what is going on. As a candidate it is really frustrating to not hear anything from the other side just to have the conversations resume later as if nothing had happened.
 
+<p>
 <details open>
   <summary markdown='span'>
     Best practices
@@ -237,13 +254,14 @@ If the manager has a question about compensation, please ping the People Ops Ana
 
 **An approval team authorizes all offers.** The manager proposes a suggestion for an offer (including bonus structure if applicable, etc., using the [global compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/)) as a private comment in Greenhouse and informs the recruiting team on its details depending on what is applicable. The recruiting team will create an [offer package](/handbook/hiring/offers/#offer-package-in-greenhouse) to present to an approval chain consisting of the People Business Partner, executive of the division, and Chief People Officer for approval. Verbal offers should not be extended to the candidate until the offer is approved. The CEO may choose to interview the candidate, and any offers given before the CEO's approval are premature.
 </details open>
+</p>
 
 ## Conducting a GitLab Interview
 
 Interviewing is hard for both sides. In less than one hour, you both need to get to know each other and make a decision about whether or not you would want to work with this person. The following is an effort to provide a set of guidelines to make interviewing a bit less traumatizing for all involved parties.
 
 
-
+<p>
 <details open>
   <summary markdown='span'>
     Interview Training and Preparation
@@ -262,7 +280,9 @@ Please avoid in-person interviews where possible. In-person interviews or meetin
 Remember, interviewing candidates is everyone's job as part of our collaboration value! You may be asked to participate on an interview team, as we continue to hire great talent.
 
 </details open>
+</p>
 
+<p>
 <details open>
   <summary markdown='span'>
     Best practices
@@ -338,7 +358,9 @@ typically do for developers during a technical interview. Avoid puzzles or weird
 1. Consider including non-engineering GitLab team-members in the interview to ask soft skills questions. Because technical people should be capable of talking to non-engineering people just fine, we should assess the candidate's ability to do so.
 
 </details open>
+</p>
 
+<p>
 <details open>
   <summary markdown='span'>
     Candidate Performance Evaluation
@@ -377,7 +399,9 @@ These questions can be quite unbalancing and can increase the stress during the 
 
 It can also happen that the candidate does not have a story to share with you; that is okay. It's just another data point that should be added to the feedback (I failed to get data on ...). Just move to the next question and be sure to have a few questions as a backup.
 </details open>
+</p>
 
+<p>
 <details open>
   <summary markdown='span'>
     Interview feedback
@@ -419,9 +443,11 @@ Scoring is defined as follows:
   * The candidate demonstrated unwillingness to learn our Efficiency, Iteration, or Transparency values
 
 </details open>
+</p>
 
 ## Rejecting Candidates
 
+<p>
 <details open>
   <summary markdown='span'>
     Rejecting and Feedback
@@ -444,6 +470,7 @@ Scoring is defined as follows:
   * The recruiting team will review all feedback and use it to improve the hiring process.
 
 </details open>
+</p>
 
 ## Candidate Experience
 
@@ -451,6 +478,7 @@ We [recorded a training](https://www.youtube.com/embed/ng_VQseo5vo) on the subje
 
 ## How We Conduct Remote Interviews on a Global Scale
 
+<p>
 <details open>
   <summary markdown='span'>
     How We Work During Holidays
@@ -461,7 +489,9 @@ We [recorded a training](https://www.youtube.com/embed/ng_VQseo5vo) on the subje
   If there's a time during the year where a significant portion of the company will be taking time off, we'll be sure to send a communication to all active candidates to let them know of a possible delay in communication.
   Please note that not every member of the team will be observing that holiday, so you may still receive emails from them.   
 </details open>
+</p>
 
+<p>
 <details open>
   <summary markdown='span'>
     How We Schedule Interviews on a Global Scale
@@ -475,6 +505,7 @@ We [recorded a training](https://www.youtube.com/embed/ng_VQseo5vo) on the subje
    1. If the interviewer or candidate should need to reschedule, they should email their Candidate Experience Specialist, or follow the special instructions in the confirmation email if the interview is within 24 hours.
 
 </details open>
+</p>
 
 ## Reference Check Process
 
