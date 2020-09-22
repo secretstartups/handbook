@@ -172,6 +172,24 @@ When the call has ended:
 1. Add all relevant internal-only information as an internal note on the ticket.
 1. Tag the next on-call engineer in the emergency's Slack thread.
 
+## GitLab.com Emergencies
+Starting Sept 2020, we're beginning to trial GitLab.com emergency support with a small number of customers. The initial workflow for these calls is the same as with self-managed emergencies.
+However, you have additional visibility into problems that a customer may be facing that they will not.
+
+Review:
+ - [Using Kibana](/handbook/support/workflows/kibana.html) - explore GitLab.com log files to find the errors customers are encountering.
+ - [Using Sentry](handbook/support/workflows/sentry.html) - get access to the full stacktrace of errors a customer might encounter.
+
+During this trial period, please page the manager on-call using `/pd-support-manager` for any GitLab.com emergencies so they can offer additional support.
+
+After you have identified the error and found reproduction steps, it's likely that you'll need to [declare an incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack)
+and coordinate with incident management team to reach resolution. If the error is a result of a product defect, you may also need to engage the [InfraDev Escalation Process](/handbook/engineering/development/processes/Infra-Dev-Escalation/).
+
+We're expecting, broadly that emergencies will fall into one of three categories:
+- **broken functionality due to a regression being pushed to GitLab.com** => reproduce, identify, escalate to have a patch created and deployed.
+- **broken functionality due to an inconsistency in data unique to the customer**, for example: a group name used to be able to have special characters in it, and now something broke because our group name has a special character in it. => reproduce, identify, escalate to have the specific data corrected (and create a bug report so our code is better)
+- **GitLab.com access or "performance" degradation to the level of unusability**, for example: no access in a geographical area, CI jobs aren't being dispatched => This is the hardest class, but will generally be operational emergencies. Success here means making sure it's not actually one of the top two before [declaring an incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack) 
+
 ## Support Manager on-call
 Support Managers also have an on-call rotation. During their rotation, Support Managers:
 - act as an escalation point for missed emergency pages
