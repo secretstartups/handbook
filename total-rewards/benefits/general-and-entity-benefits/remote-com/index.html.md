@@ -137,6 +137,21 @@ Team members unable to work because of a nonwork-related injury or illness and w
 
 The Hungarian Social Security Act has employer and team member contributions to cover statutory requirements such as pension, health insurance, and unemployment. 
 
+### Medical
+
+GitLab does not plan to offer Private Health Insurance at this time because team members in Hungary can access the public health system for free or at a lower cost through the Hungarian state healthcare system. This system is funded by the National Health Insurance Fund.
+Please note that the healthcare system does not pay for some things, such as medicines and medical equipment.
+
+
+### Pension
+
+GitLab does not plan to offer pension benefit at this time as the Hungarian pension system provides for a minimum pension, with a qualifying condition of minimum 20 years of service, of HUF 28,500 per month. If the average contribution base is less than the amount of the minimum pension, the pension will equal 100% of the average monthly wage.
+
+### Life Insurance
+
+GitLab does not plan to offer life insurance at this time as team members can access the benefits from [Social insurance system](https://tcs.allamkincstar.gov.hu/) if they get ill, injured or have a disability.
+
+
 ### Remote Hungary Leave Policy
 
 #### Statutory Maternity Leave
