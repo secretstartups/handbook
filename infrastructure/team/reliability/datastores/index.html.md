@@ -11,7 +11,7 @@ title: "Datastores Team"
 
 ## Who We Are
 
-The Datastores team owns our persistent storage platforms, with PostgreSQL on gitlab.com being the top priority.
+The Datastores team owns our persistent storage platforms, namely our PostgreSQL databases (our main priority) and our Gitaly backend service.
 
 Datastores is:
 
