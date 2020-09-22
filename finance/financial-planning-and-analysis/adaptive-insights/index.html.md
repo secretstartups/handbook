@@ -71,6 +71,8 @@ A cash flow statement is a financial statement that provides aggregate data rega
 
 Active Personnel is the active headcount by department and entity. GitLab’s Active Personnel can be found by clicking Sheets and then Active Personnel. 
 
+It is recommended that historical headcount information and active headcount churn is uploaded into the Active Personnel sheets with an end date populated. This will ensure only active headcount information is included in the forecasts. Historical information will allow headcount related analysis to be conducted, such as past and future headcount ratio, growth by headcount type and ramping reps analysis.
+
 #### Planned Personnel
 
 Planned Personnel is the planned headcount by department and entity in a given time period. GitLab’s Planned Personnel can be found by clicking Sheets and then Planned Personnel. 
@@ -78,6 +80,8 @@ Planned Personnel is the planned headcount by department and entity in a given t
 #### Program Spend
 
 Program Spend focuses on the expenses of events, subscriptions, and other programs that will be spent in a given time period. Program Spend can be found by clicking Sheets and then Program Spend. 
+
+In each forecast version, actuals for expenses from the previous period are recommended to be manually entered. Therefore, trends for each major vendor can be assessed and forecasts for future periods can be adjusted if necessary.
 
 ##### Expense Type
 There are 4 Expense Types each with different calculations in Adaptive: (Column: EXPENSE_TYPE)
