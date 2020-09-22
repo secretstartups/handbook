@@ -3,20 +3,23 @@ layout: handbook-page-toc
 title: Product Development Flow
 ---
 
+{::options parse_block_html="true" /}
 
 <div class="panel panel-gitlab-orange">
+
 **Product Development Flow Latest**
 {: .panel-heading}
+
 <div class="panel-body">
 
-This is the latest version of the Product Development Flow. All changes to this document will be merged into `product-development-flow/index.html.md` by the 17th of each month and announced via a release post if larger changes are included. Please see the [Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline)
+This is the draft version of the Product Development Flow. All changes to this document will be merged into `product-development-flow/index.html.md` by the 17th of each month and announced via a release post if larger changes are included. Please see the [Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline)
 
 </div>
 </div>
 
 |              |             | 
 | -------------|-------------| 
-| Version      | 1.0         |  
+| Version      | 1.0         |
 | Release Date | 2020-11-22  |
 
 ## On this page
