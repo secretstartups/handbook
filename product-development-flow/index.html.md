@@ -3,7 +3,7 @@ layout: handbook-page-toc
 title: Product Development Flow
 ---
 
-<!--ATTENTION: We're currently actively iterating on the Product Development Flow during 13.5 and 13.6 via a working group https://about.gitlab.com/company/team/structure/working-groups/product-development-flow/. If you'd like to make changes to this page during this interim period, we ask you collaborate with the working group by surfacing ideas in the working groups Slack channel (or WG synchronous meeting). In cases when content needs urgent clarification, MRs should be assigned to the [Product Operations DRI](https://about.gitlab.com/company/team/#fseifoddini) for review/merge, to assure proper alignment with work in progress. This ask is temporary, we appreciate your patience and collaboration.-->
+<!--ATTENTION: We're currently actively iterating on the Product Development Flow during 13.5 and 13.6 via a working group https://about.gitlab.com/company/team/structure/working-groups/product-development-flow/. If you'd like to make changes to this page during this interim period, we ask you collaborate with the working group by surfacing ideas in the working groups Slack channel (or WG synchronous meeting). In cases where content needs urgent clarification, MRs should be assigned to the [Product Operations DRI](https://about.gitlab.com/company/team/#fseifoddini) for review/merge, to assure proper alignment with work in progress. This ask is temporary as we want everyone to contribute. We appreciate your patience during this interim iteration period.-->
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
