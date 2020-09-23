@@ -153,7 +153,7 @@ Considerations are cumulative and can be:
 1. You are a recipient of GitLab’s Value Award of Transparency, Collaboration, Iteration, Efficiency, Results, or Diversity at previous GitLab Contribute events.
 1. There is last minute availability. Last minute means the first day of a rotation is less than a month out.
 1. You are based in APAC.
-1. You belong to a GitLab Team Member Resource Group ([TMRG](https://about.gitlab.com/company/culture/inclusion/erg-guide/))
+1. You belong to a GitLab Team Member Resource Group ([TMRG](/company/culture/inclusion/erg-guide/))
 
 You're also eligible if you work(ed) at an investment firm and while there helped to lead a private round in GitLab.
 
@@ -228,7 +228,7 @@ Exceptional community members may be able to participate, as well.
 | 2021-01-04 | 2021-01-08 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-01-11 | 2021-01-15 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-01-18 | 2021-01-22 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2021-01-18 | 2021-01-22 | AVAILABLE - REMOTE | AVAILABLE - REMOTE | 
+| 2021-01-18 | 2021-01-22 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-01-25 | 2021-01-29 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-02-01 | 2021-02-05 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-02-08 | 2021-02-11 | AVAILABLE - REMOTE (Sales Kickoff) | AVAILABLE - REMOTE (Sales Kickoff) |
@@ -270,7 +270,7 @@ Before your scheduled rotation, try to schedule coffee chats with your co-shadow
 Feel free to schedule a coffee chat with any of the CEO Shadow Alumni. You can review the list of [CEO Shadow Alumni](/handbook/ceo/shadow/#alumni) below. These chats can be helpful when deciding whether to apply to participate or if you're unable to participate but want to hear about the experience and what alumni have learned while shadowing.
 
 #### Coffee Chat with the CLO
-Should it be useful or complementary to your time as a CEO Shadow, our [CLO](https://about.gitlab.com/job-families/legal/chief-legal-officer/) hosts Monthly Shadow Chats on the 3rd Tuesday of every month at 08:30 PST. Please @ mention the CLO's [Sr. EBA](https://about.gitlab.com/handbook/eba/) in #ceo-shadow should you wish to be added to an instance or you would like to schedule a 1:1 coffee chat with the CLO. This option is available to all Shadows, past, present, and future.   
+Should it be useful or complementary to your time as a CEO Shadow, our [CLO](/job-families/legal/chief-legal-officer/) hosts Monthly Shadow Chats on the 3rd Tuesday of every month at 08:30 PST. Please @ mention the CLO's [Sr. EBA](/handbook/eba/) in #ceo-shadow should you wish to be added to an instance or you would like to schedule a 1:1 coffee chat with the CLO. This option is available to all Shadows, past, present, and future.   
 
 #### Create an onboarding issue
 
@@ -439,7 +439,6 @@ Meetings come in many different formats, as listed above. Your responsibilities 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/DtRWvIzOnP4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-
 Assume that you are taking notes in a Google Doc affixed to the meeting invite unless it is a [1:1](/handbook/leadership/1-1/) between the CEO and his direct reports, a board meeting, an internal meeting where the CEO is not the host, or it is explicitly stated not to take notes. If you're unsure whether or not to take notes, default to take them or ask the CEO. The goal of the notes is to collect the main points and outcomes, not a full transcript of the conversation.
 In many cases, shadows may not understand fully what is being discussed. As you are taking notes, be mindful that the goal of the program is to absorb what is being said in the meetings you are in. When you do not understand what it is being said, pause to listen and avoid documenting incorrect information.
 If a notes document is not already linked, see the [templates available here](/handbook/eba/#meeting-request-requirements).
@@ -510,6 +509,10 @@ The CEO often has work events that are also social events.
 In Silicon Valley, social and work are very intertwined.
 These mostly take the form of lunches or dinners.
 CEO shadows are invited unless otherwise specified, but there is no expectation or obligation to join.
+
+### Look for values being lived out
+
+Even in meetings where you are unfamiliar with the subject matter, there is opportunity to learn, document, and shape the evolution of [GitLab's values](/handbook/values/). Re-read GitLab's values prior to your CEO Shadow rotation, and be mindful of new and inventive ways that CREDIT is lived out during the meetings you attend. You can make a merge request to propose new [sub-values](/handbook/values/#sub-values-as-substantiators) (which substantiate top-level values).
 
 ### Promote Communication Best Practices
 
@@ -594,10 +597,13 @@ For insights on maximizing a remote CEO Shadow rotation, view takeaway recap vid
 #### Tips for remote shadows
 
 1. Be sure that you have an [ergonomic workspace](/company/culture/all-remote/workspace/). You'll be taking lots of notes during meetings, and will want a comfortable setup.
-1. Communicate clearly with your co-shadow about shared tasks since you will not be working together in person.
+1. Communicate clearly with your co-shadow about shared tasks since you will not be working together in person. 
+1. Consider alternating who leads note-taking from one meeting to the next, which reduces confusion on who writes first and who follows from one event to the next.
 1. Take breaks from your desk when there is a break in the CEO's schedule. Because you're not working from Mission Control or traveling to other meetings with the CEO, it's important to take time to [move around.](/company/culture/all-remote/tips/#dedicate-time-for-health-and-fitness)
 1. Depending on your time zone, working in Pacific Time may be an adjustment to your typical working hours. [Plan ahead,](/company/culture/all-remote/getting-started/#establish-routine-with-family-and-friends) especially if you're balancing responsibilities with family, pets, roommates, etc.
 1. Consider switching locations in your home or workspace during the CEO's 1:1 meetings. Since you [won't be taking active notes](#responsibilities) in these calls, this is a good opportunity to change position or scenery intermittently throughout the day.
+1. Particularly in a remote CEO Shadow rotation, life is more available to sidetrack you. It is OK if you need to drop from a meeting to handle tasks at home, from childcare to answering the door, or anything in between. GitLab puts [family and friends first, work second](/handbook/values/#family-and-friends-first-work-second). If feasible, communicate these instances in the `#ceo-shadow` Slack channel so your co-shadow can assist with ongoing note-taking/tasks.
+1. Consider screenshotting Sid's calendar at the end of each CEO Shadow day (not at the start, as days often change midstream). At the end of your rotation, you'll have a multi-pane montage that tells a unique story of what you experienced. Think of this as the [Contribution Graph](/blog/2019/05/07/how-do-you-contribute/) of your specific CEO Shadow rotation. If you'd like, share these in the `#ceo-shadow-alumni` channel to foster discussion and share learnings. 
 
 ## Mission Control Guide
 
@@ -927,7 +933,7 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2020-01 | 2020-01 | [Dov Hershkovitch](https://gitlab.com/dhershkovitch) | Senior Product Manager, Monitor |  |
 | 2020-01 | 2020-01 | [Keanon O'Keefe](https://gitlab.com/kokeefe) | Senior Product Manager, Plan : Portfolio Management |  |
 | 2020-01 | 2020-01 | [Dylan Griffith](https://gitlab.com/DylanGriffith) | Staff Backend Engineer, Search |  |
-| 2020-01 | 2020-02 | [Brittany Rohde](https://gitlab.com/brittanyr) | Manager, Compensation & Benefits | [How the CEO Shadow Program boosted my individual productivity during the COVID-19 Crisis](https://about.gitlab.com/blog/2020/05/29/how-the-ceo-shadow-program-boosted-my-individual-productivity-during-the-covid-19-crisis/) |
+| 2020-01 | 2020-02 | [Brittany Rohde](https://gitlab.com/brittanyr) | Manager, Compensation & Benefits | [How the CEO Shadow Program boosted my individual productivity during the COVID-19 Crisis](/blog/2020/05/29/how-the-ceo-shadow-program-boosted-my-individual-productivity-during-the-covid-19-crisis/) |
 | 2020-01 | 2020-02 | [Nadia Vatalidis](https://gitlab.com/Vatalidis) | Senior Manager, People Operations |  |
 | 2020-02 | 2020-02 | [Diana Stanley](https://gitlab.com/dstanley) | Senior Support Engineer |  |
 | 2020-02 | 2020-02 | [Chloe Whitestone](https://gitlab.com/chloe) | Technical Account Manager |  |
@@ -941,7 +947,7 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2020-04 | 2020-04 | [Bradley Andersen](https://gitlab.com/elohmrow) | Technical Account Manager |  |
 | 2020-04 | 2020-04 | [Cassiana Gudgenov](https://gitlab.com/cgudgenov) | People Operations Specialist |  |
 | 2020-04-28 | 2020-05-08 | [Betsy Church](https://gitlab.com/bchurch) | Senior Talent Brand Manager | [Reflecting on the CEO Shadow Program at GitLab](https://youtu.be/DGJCuMVp6FM) |
-| 2020-05-04 | 2020-05-15 | [Darren Murph](https://gitlab.com/dmurph) | Head of Remote | [GitLab CEO Shadow recap — key takeaways and lessons learned from a remote rotation](https://about.gitlab.com/blog/2020/05/22/gitlab-remote-ceo-shadow-takeaways/) |
+| 2020-05-04 | 2020-05-15 | [Darren Murph](https://gitlab.com/dmurph) | Head of Remote | [GitLab CEO Shadow recap — key takeaways and lessons learned from a remote rotation](/blog/2020/05/22/gitlab-remote-ceo-shadow-takeaways/) |
 | 2020-05-11 | 2020-05-22 | [Emily Kyle](https://gitlab.com/emily) | Manager, Corporate Events |  |
 | 2020-05-11 | 2020-05-22 | [Candace Williams](https://gitlab.com/cwilliams3) | Diversity, Inclusion & Belonging Manager |  |
 | 2020-05-25 | 2020-06-05 | [Sophie Pouliquen](https://gitlab.com/spouliquen1) | Senior Technical Account Manager |  |
