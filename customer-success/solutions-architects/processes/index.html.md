@@ -13,6 +13,9 @@ title: Solutions Architect Processes
 # Solutions Architect Processes
 {:.no_toc}
 
+## SA Activity Capture
+Solutions Architects record all customer and prospect activity to promote **transparency** and **collaboration**.  By consistently capturing our customer facing activity, we can peform analysis for further reporting to establish **efficient** decision making for GitLab's business.  More information on this process can be found on the [SA Activity Capture](/handbook/customer-success/solutions-architects/processes/activity-capture) page.
+
 ## Cross-functional Sales Team Processes
 
 ### Working Agreements
