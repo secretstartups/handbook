@@ -9,7 +9,7 @@ title: "Professional Services Project Management"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-Gitlab takes our customer's success very seriously. In Professional Services (PS) we strive to provide a first class experience for our engagements. 
+Gitlab takes our customer's success very seriously. In Professional Services (PS) we strive to provide a first class experience for all engagements. 
 
 ### PS methodology framework
 
