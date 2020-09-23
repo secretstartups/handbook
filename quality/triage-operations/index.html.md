@@ -199,19 +199,25 @@ This section contains issues with the `~"bug"` label without priority and severi
 
 This section contains bugs which has past our targeted SLO based on the priority set. This is based on our [missed SLO detection](/handbook/engineering/quality/triage-operations/index.html#missed-slo) triage policy.
 
-### Group level idle merge requests
+### Group level merge requests that need attention
 
-This report contains idle merge requests that belong to a group in our
+This report contains merge requests that belong to a group in our
 [DevOps stages](/handbook/product/product-categories/#devops-stages).
+It's composed of three sections:
+
+1. Idle merge requests authored by team members.
+1. Unassigned merge requests authored by a community contributor.
+1. Idle merge requests authored authored by a community contributor.
 
 Some merge requests are being idle with no activity on them and are merged
-more than 30 days from the time when they are opened. This report attempts to
+more than 28 days from the time when they are opened. This report attempts to
 collect them for identifying the actions we need to take.
 
 * Triage owner: Engineering Manager(s) for that group.
 * Triage frequency: On 8th and 23rd every month.
-* Listed merge requests: All which haven't been updated for
-  more than 4 weeks.
+* Listed merge requests:
+  * All which haven't been updated for more than 28 days (authored by team members and community contributors).
+  * All that are unassigned and authored by community contributors.
 * Triage actions:
   1. Review these merge requests to identify if there are any steps that can
      shorten the time to merge. Steps can be:
