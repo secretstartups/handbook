@@ -250,7 +250,7 @@ To view the GitLab Partner Program Discount and Referral Fee Table please visit 
 Authorized Public Sector Partner can earn one-time and recurring revenues from product and services sales, referrals, as well as services deliver and resale.  To view Public Sector Discounts please visit the [GitLab Partner Portal](https://partners.gitlab.com) (must be an authorized Public Sector Partner) and access discount table in the Program Documents folder in the Asset Library.
 
 
-GitLab employees can access the disount table [here.](https://gitlab.my.salesforce.com/0694M000008xAk4)
+GitLab employees can access the discount table [here.](https://gitlab.my.salesforce.com/0694M000008xAk4)
 
 #### Definitions and Qualifications
 
@@ -679,18 +679,18 @@ The GitLab team handbook is the central repository for how we run the company. P
 * If the new program contract is signed before quotes are created, the new program discounts will be used in the quote.  Otherwise, legacy contract discount levels will be used. 
 
 **When did the new program become effective?** 
-* The program went into effect April 2, 2020, however Partners will only recieve new program discounts and benefits when they excute the contract for the new program. 
+* The program went into effect April 2, 2020, however Partners will only receive new program discounts and benefits when they execute the contract for the new program. 
 
 **Do Starter/Bronze Licences qualify for the 10% renewal discount?**
-* Resale and renewal discounts are not available for Starter/Bronze licences. 
+* Resale and renewal discounts are not available for Starter/Bronze licenses. 
 
-**When is a licence considered new vs. renewal?**
-* New licences = New customer, incremental licenses at existing customers or upgrades for existing customers. 
+**When is a license considered new vs. renewal?**
+* New licenses = New customer, incremental licenses at existing customers or upgrades for existing customers. 
 
 * Renewal = Contract extension for existing licenses. 
 
 **What is counted towards the $300k target revenue in order to qualify for Select?**
-* This includes all the incremental licences sold to new and existing customers. This includes Starter/Bronze icences, however the Partner needs to show ability and success in selling/upselling Premium/Silver and Ultimate/Gold to qualify. 
+* This includes all the incremental licenses sold to new and existing customers. This includes Starter/Bronze licenses, however the Partner needs to show ability and success in selling/upselling Premium/Silver and Ultimate/Gold to qualify. 
 
 
 #### Contact Us
