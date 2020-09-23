@@ -33,7 +33,7 @@ Before booking any flights please ensure that you have the proper [visas](/handb
 
 When your accommodation booking is confirmed, you may want to communicate the dates and address with your manager.
 
-### Setting up your TripActions account<a name="setup-tripactions"></a>
+### Setting up your TripActions account
 
 Below is some more information to help you get set up with your [TripActions](https://tripactions.com/signup) account.  
 
