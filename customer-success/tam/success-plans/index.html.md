@@ -55,7 +55,7 @@ To create a Success Plan, the TAM will perform the following activities, detaile
 
 ### Step 1: Understand the Customer’s Motivation
 
-- Review the opportunity [Command Plan](/handbook/sales/command-of-the-message/#command-plan) in Salesforce
+- Review the opportunity [Command Plan](/handbook/sales/command-of-the-message/command-plan/) in Salesforce
 - Work with the SAL/AE and SA to understand the customer's reasons for purchasing (e.g. [Value Driver](/handbook/sales/command-of-the-message/#customer-value-drivers)) and their expectations or Positive Business Outcomes (PBOs), as well as any potential risks or barriers, key stakeholders, and any other relevant information regarding their desire to use GitLab
 - Prepare discovery questions to discuss with the customer to collect any missing information
 - Review [account onboarding](/handbook/customer-success/tam/onboarding/) and [account engagement](/handbook/customer-success/tam/engagement/) for additional information that is useful to collecting information and developing a relationship
@@ -90,7 +90,7 @@ Common pitfalls:
 - Not addressing the real goal: don't say “activate 50% of users” when we really want to measure the impact of GitLab to their bottom line
 - Not making them measurable: “Delight the customer!” is a great goal, but not measurable
 
-To better understand metrics, review [Demystifying the Metrics Conversation](/handbook/sales/command-of-the-message/metrics.html).
+To better understand metrics, review [Demystifying the Metrics Conversation](/handbook/sales/command-of-the-message/metrics).
 
 **Initiatives (qualitative)**: description of an outcome that will be a substantial strategic win for the customer
 
