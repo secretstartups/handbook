@@ -161,6 +161,7 @@ We are committed to upholding fundamental human rights and believe that all huma
  
 - [Uploading Third Party Contracts to ContractWorks](https://about.gitlab.com/handbook/legal/vendor-contract-filing-process/)
 - [Issue Tracker Workflows](https://about.gitlab.com/handbook/legal/issue-tracker-workflows/)
+- [Privacy Review Process](https://about.gitlab.com/handbook/legal/privacy/#privacy-review-process)
 
 ## Performance Indicators
 
