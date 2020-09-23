@@ -60,7 +60,7 @@ For reviews with a "satisfaction::bad" rating, follow this process.
 3. Determine whether additional [action needs to be taken](#if-there-is-action-to-be-taken). If no action needs to be taken, and the user does not need to be contacted to discuss the ticket, `/close` the Feedback Issue.
 
 ### If there is action to be taken
-Determine the course of action and tag appropriate people.
+Determine the course of action and tag appropriate people. Note that [indirect feedback](https://about.gitlab.com/handbook/support/internal-support/#regarding-gitlab-support-plans-and-namespaces) received from a customer/prospect will typically have the next action chosen for us.
 
 Examples of possible actions:
  - Contact the user (see [below](#if-the-user-should-be-contacted))
