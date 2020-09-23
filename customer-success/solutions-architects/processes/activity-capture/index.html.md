@@ -49,7 +49,7 @@ SA prospect/customer activity is recorded into `Task` objects within Salesforce 
 #### Example Activity Description
 
 	We provided a SCM and CI/CD demo for the head of application development, Homer Simpson, that was well-received.  His team is responsible for building a suite of catalog services and API for their partner merchants.  They are using Spring Boot to develop microservices and struggling with deployment consistency and complexity.  As a next step, we are scheduling a review of their current path to production.  
-    More detailed notes are here: [Detailed Notes](https://support.google.com/docs/answer/45893)
+    More detailed notes are here: <link to detailed notes>
 
 ### Collaborating on an Update
 
@@ -85,7 +85,18 @@ To assist with the analysis of SA guided technical evaluations by our prospects 
 
   While all of these fields can be updated and changed anytime as an opportunity evolves, the end date and close status should not be populated as a forecast.
 
-### Updating Activity
+### Proof of Value (POV) Updates
+
+Proof of Values are [tracked in salesforce](/handbook/sales/POV/#tracking-a-pov-in-salesforce) but can be added or updated through Troops by:
+
+* Clicking on the `Add a Proof of Value` button 
+    *  on the Troops `You just had a meeting` notification in slack
+    *  after searching for and selecting an opportunity or account first using `/troops <search>` in Slack
+    *  after using `/troops-action`
+* Clicking on the `Update a Proof of Value` button
+    * after searching for and selecting an POV first using `/troops <name of POV>` in Slack
+
+### Updating Activity Summaries
 
 You can update activity that was previously logged in Salesforce or through troops.ai by clicking the `Update Activity` button on the update notification posted by troops.ai to your team activity channel.
 
