@@ -124,7 +124,6 @@ Other tools directly used by Marketing and maintained by Marketing Operations:
 - Keyhole
 - [Litmus](/handbook/marketing/marketing-operations/litmus)
 - MailChimp
-- Moqups
 - Rev.com
 - [RushTranslate](/handbook/marketing/marketing-operations/rushtranslate)
 - Screaming Frog
