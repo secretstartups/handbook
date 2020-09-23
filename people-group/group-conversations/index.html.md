@@ -320,6 +320,17 @@ We suggest each person attend via their own device to avoid [hybrid meetings](/h
     - Confirm if this call is "open to friends and family"
 - The People Experience Associate will create the event in the PeopleOps Zoom account and add it to the GitLab team meetings calendar. The PEA will add the AMA document link in the description and invite `everyone@gitlab.com` to the meeting.
 
+## Creating Events in PeopleOps Zoom Account
+
+1. Open the PeopleOps Zoom account. Any call that is being moderated by the People Operations team should be created in this account to allow for necessary streaming permissions, and to have the large capacity. 
+   - Topic: Fill in the title, include if this is a Public or Private stream. 
+   - When:Select the date and time the meeting will occur, the time is PST. 
+   - Security: select passcode and unselect waiting room 
+   - Time Zone: If Recurring, select Recurring and the select the Recurrence drop down and select No Fixed Time. 
+   - Meeting ID: Generate ID 
+   - Security: select passcode and unselect waiting room 
+   - Alternative Hosts: put the email for the alternative hosts 
+
 ## Archiving Content
 
 If an agenda document becomes longer than 10 pages, the People Experience or People Specialist team member assigned to moderate a meeting will archive the content that is over the first 10 pages. All agenda docs should be checked and archived as needed before the meeting date and time.
