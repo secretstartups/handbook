@@ -1,11 +1,11 @@
 ---
 layout: markdown_page
-title: GDPR Requests
+title: Personal Data Requests
 ---
 
-Under Article 15 of the GDPR, you have the right to request that GitLab provides you with information about the personal data GitLab has about you. You also have the right to request complete removal of your GitLab.com account in accordance with the GDPR. 
+Under certain privacy laws, such as GDPR and CCPA, some GitLab users have the right to request that GitLab provides you with information about the personal data GitLab has about you. They also have the right to request complete removal of your GitLab.com account in accordance with these laws. Though the laws apply only to individuals in certain geographic areas, GitLab accepts requests for data access and deletion from all of our users.
 
-To submit these requests, please email `gdpr-request@gitlab.com`.
+To submit these requests, please email `personal-data-request@gitlab.com`.
 
 Please ensure that you:
 
@@ -14,6 +14,7 @@ Please ensure that you:
 
 Please note that:
 
+- we may request additional information in order to ensure proper verification of identity
 - in many circumstances, we will not be able to provide a full export of associated repositories
 - (if requesting account deletion) any groups that you're a sole owner in will be deleted, along with any projects contained therein
 
