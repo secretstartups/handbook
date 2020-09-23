@@ -45,14 +45,13 @@ TL;DR:
    someone who works on the level close to the Engineering Leader who is going to be the decision maker,
 1. Optionally the author and their manager collaborate to find a Domain Expert if help from one would be useful,
 1. The author collaborates with the architecture evolution coach and a domain expert to create a
-   blueprint captured in an epic on Gitlab.com,
+   blueprint merge request adding files to `doc/architecture/blueprints` directory in GitLab project,
 1. In the RFC-like style they get more people involved into the discussion to collect more feedback,
 1. The blueprint describes long-term vision and a few first iterations in simple words,
-1. When the blueprint epic is clear enough, the author opens a merge request
-   against an active [architecture roadmap document](/handbook/engineering/architecture/#architecture-roadmap)
-   and assigns an Engineering Leader.
-1. The blueprint gets approved once the merge request is merged and the epic is added to the active roadmap
-   document in the Handbook.
+1. When the blueprint merge request is clear enough, the author assigns an Engineering Leader to review it,
+1. The blueprint gets approved once the merge request is merged by the Engineering Leader,
+1. The author adds a link to the blueprint located on docs.gitlab.com to an active
+   [architecture roadmap document](/handbook/engineering/architecture/#architecture-roadmap),
 1. 3 [Directly Responsible Individuals
    (DRIs)](/handbook/people-group/directly-responsible-individuals/) get assigned and collaborate together to get the work done,
 1. A [Working Group](/company/team/structure/working-groups/) can be formed if needed, but is not required,
@@ -74,7 +73,7 @@ find people that will be amplifiers of their influence:
 
 During the process of working on the proposal, the author will collaborate with
 an Architecture Evolution Coach and, optionally, a Domain Expert to create a
-blueprint of the change. The blueprint epic will be then either approved or
+blueprint of the change. The blueprint merge request will be then either approved or
 rejected by an Engineering Leader.
 
 In order to choose the right people, the author and their manager first need to
@@ -153,7 +152,7 @@ that is too complex for a single individual contributor to handle.
 Although we usually prefer [starting with a merge
 requests](/handbook/communication/#everything-starts-with-a-merge-request), in
 case of complex changes like that, a merge request might not be something that
-is actionable, so we usually start with an issue or an epic.
+is actionable, so we usually start with an issue.
 
 The issue should be labeled with ~"Architecture decision" label, can be made
 visible in the
@@ -162,16 +161,17 @@ channel as per [cross-functional
 collaboration](/handbook/engineering/development/#cross-functional-collaboration).
 
 Then author of the issue loops an Architecture Evolution Coach and a Domain
-Expert then collaborate together to create a blueprint captured in an epic.
+Expert then collaborate together to create a blueprint merge request with the
+proposal.
 
 Collaboration between the coaches and a person who had an idea ensures that
-only proposals that that are achievable get described in the blueprint epic.
-This makes it also easier to avoid the cost of iterating on the product
-architecture improperly and fosters knowledge sharing.
+only proposals that that are achievable get described in a blueprint merge
+request. This makes it also easier to avoid the cost of iterating on the
+product architecture improperly and fosters knowledge sharing.
 
-### Blueprint epic
+### Blueprint merge request
 
-A blueprint epic is a description of [Why, How and
+A blueprint merge request is a description of [Why, How and
 What](https://en.wikipedia.org/wiki/Start_With_Why) of the change that has been
 proposed in the issue.
 
@@ -179,18 +179,26 @@ proposed in the issue.
 * How - how are we going to achieve that (1-year forecast)
 * What - what is the outcome, how can we measure it
 
-A blueprint epic gets created and made visible as a result of collaboration
-between an Architecture Evolution Coach, a Domain Expert and a person who had
-an idea. The author and coaches also need to be mentioned in the blueprint.
+A blueprint merge request gets created and made visible as a result of
+collaboration between an Architecture Evolution Coach, a Domain Expert and a
+person who had an idea. The author and coaches also need to be mentioned in the
+blueprint.
 
 It describes the goal of the change and usually a 1-year forecast of how to
 make it happen.
 
+Blueprints are supposed to be created in
+[`doc/architecture/blueprints`](https://gitlab.com/gitlab-org/gitlab/-/tree/master/doc)
+directory in GitLab Rails project. Eventually these are going to be published
+on [GitLab Architecture Docs](https://docs.gitlab.com/architecture/blueprints)
+too.
+
+
 ### Describing iterations
 
-At this point there is a blueprint epic present that only describes a long-term
-forecast. It is not precise enough to reason about how to get it done, how to
-iterate wisely to get the most of this work.
+At this point there is a blueprint merge request present that only describes a
+long-term forecast. It is not precise enough to reason about how to get it
+done, how to iterate wisely to get the most of this work.
 
 Those who have been involved in the discussion in the blueprint collaborate
 together to extend it with 6 or 3-month landscape. More Domain Experts get
@@ -208,13 +216,9 @@ Engineering Leader.
 
 ### Getting the blueprint approved
 
-The blueprint epic needs to be approved by the Engineering Leader who has been
-chosen as a final decision maker.
-
-When the blueprint is ready, the author opens a merge request against an active
-roadmap document linked from the [Architecture
-Roadmap](/handbook/engineering/architecture/#architecture-roadmap) page and
-assigns an Engineering Leader.
+The blueprint merge request needs to be approved by the Engineering Leader who
+has been chosen as a final decision maker. Once the blueprint is ready, the
+author assigns it to an Engineering Leader for approval.
 
 The choice of the leader depends on the extent of proposed changes, the area
 that the changes are supposed to be applied to and perceived cost of this
@@ -223,8 +227,13 @@ architectural change.
 [Organization structure chart](/company/team/structure/) can be useful to
 determine who the Engineering Leader could be.
 
-Once the Engineering Leader merges the merge request and adds the epic to the
-current Architecture Roadmap document, the blueprint gets approved.
+Engineering Leader can either approve and merge the merge request or reject the
+change.
+
+Once the merge request is merged, the author is expected to add a link to the
+blueprint to the current [Architecture
+Roadmap](/handbook/engineering/architecture/#architecture-roadmap) page in the
+Handbook.
 
 ### Finding DRIs
 
