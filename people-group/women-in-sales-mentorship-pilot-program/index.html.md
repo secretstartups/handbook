@@ -177,3 +177,7 @@ In Sales, we piloted this format with our Black team members. We wanted to start
 * Attendees: CRO and interested Sales Team members who identify as Black
 * Questions asked by CRO, answered by Black Sales team members
 * Call will be hosted by People Business Partners
+
+**Schedule**
+* Thursday, July 23rd, 2020 / 1:30pm - 2:20pm ET
+* Thursday, October 22nd, 2020 / 1:00pm - 1:50pm ET
