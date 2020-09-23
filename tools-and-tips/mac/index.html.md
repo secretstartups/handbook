@@ -63,7 +63,7 @@ Alternatively, you can use the keyboard shortcut `⌃+⌘+Q` (`ctrl+cmd+Q`).
 
 ### With Alfred
 
-With enabling [Alfred](#alfred) and e.g. replacing Spotlight's `Cmd + Space` shortcut, you can do speedy locking with your keyboard:
+With enabling [Alfred](/handbook/tools-and-tips/other-apps/#alfred) and e.g. replacing Spotlight's `Cmd + Space` shortcut, you can do speedy locking with your keyboard:
 
 1. Press `Cmd + Space`.
 1. Type in `lock`. After repeating this for a while, you can just type `l`.

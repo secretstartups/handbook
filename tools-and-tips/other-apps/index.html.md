@@ -23,7 +23,7 @@ Shut off interest based ads by setting your preferences.
 
 In general, if a particular application or browser extension (sometimes called a plugin) is referenced in the handbook, it is considered "approved".
 For example, [1Password](/handbook/security/#1password-guide) is centered around the browser extension.
-Another application is [Zoom](#zoom), which has a scheduler extension.
+Another application is [Zoom](/handbook/tools-and-tips/#zoom), which has a scheduler extension.
 However, be sure to search for specific information about the application, in case the desktop version is recommended and the browser extension is not (e.g. [Grammarly](#grammarly)).
 
 If you wish to use an extension not referenced in the handbook, consider the following before installing and using it:
@@ -158,7 +158,7 @@ If an event needs to be cancelled or modified, make sure to use Calendly to do s
 
 ### Clockwise
 
-[Clockwise](https://www.getclockwise.com/) is a tool for optimizing your schedule to free up time for you to focus. It will look for opportunities to reschedule meetings when it's most efficient for attendees, and give you uninterrupted time to work. Clockwise integrates with your [calendar](#google-calendar), and when possible will move events automatically on your behalf.
+[Clockwise](https://www.getclockwise.com/) is a tool for optimizing your schedule to free up time for you to focus. It will look for opportunities to reschedule meetings when it's most efficient for attendees, and give you uninterrupted time to work. Clockwise integrates with your [calendar](/handbook/tools-and-tips/#google-calendar), and when possible will move events automatically on your behalf.
 
 ### Freedom
 

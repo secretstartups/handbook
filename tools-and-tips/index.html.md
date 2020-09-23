@@ -30,14 +30,14 @@ You can find more tools and tips in the following sub-pages:
   And all the permissions, issues, MRs, and relevant stuff within GitLab are related to your **userID**, not with your username.
 - **Note:** if you are not a GitLab Team member, the same process applies except your e-mail ([STEP 2](#change-username-step-2)), which will be different (will not be @gitlab.com email), so you can replace it with your own email account.
 
-**STEP 1: Request your new username**
+##### STEP 1: Request your new username
 
 - Access the username you want to request via `https://gitlab.com/mary`.
 - Check its activity and projects to see if they are an inactive user [according to the name squatting policy](support/#name-squatting-policy).
 - If you're a team member, Complete the [current process for requesting a dormant username](/handbook/support/internal-support/).
 - There's no guarantee that the username will be available for you.
 
-**STEP 2: Create a new account with your new username**
+##### STEP 2: Create a new account with your new username
 {: #change-username-step-2}
 
 - If support replies to you telling that the username is free to use, create a new GitLab.com account with it.
@@ -47,7 +47,7 @@ You can find more tools and tips in the following sub-pages:
 - Navigate to <https://gitlab.com/profile/notifications> and choose the notifications email: `mary+something@gitlab.com`.
 - Open your old account in one browser and the new one in another browser (e.g., Chrome and Firefox, or Chrome and Safari) - log in to both accounts at the same time.
 
-**STEP 3: Let's have some fun (kidding, this is critical!)**
+##### STEP 3: Let's have some fun (kidding, this is critical!)
 
 - Navigate to <https://gitlab.com/profile/account> in both your accounts.
 - Look for your username.
@@ -64,7 +64,7 @@ You can find more tools and tips in the following sub-pages:
 - Immediately, rename the `mary-1` to your old one `old-mary` and click **update username** again.
 - Ta-Da! 🙌
 
-**STEP 4: Move your projects (or not)**
+##### STEP 4: Move your projects (or not)
 
 - Now, if you have any personal projects, you might want to import them to your new account (the one that has your old username now).
   To do that, in your new account (the one with the old username), click **Create a New Project**, give it the very same name as the original one, click **Git - add repo by url**, and paste the `https://` URL of your project there.
