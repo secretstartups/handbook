@@ -381,15 +381,41 @@ At the time of success assessment, all stakeholders - Development, Infrastructur
 
 _Please report any problems by creating an issue in the [pagerslack project](https://gitlab.com/jameslopez/pagerslack/-/issues)._
 
-### Slack Notification Hours
+### Notification Settings
 
- pagerslack relies on accurate data related to working hours for all available developers.
+To make the First Responder process effective, the engineer on-call must configure their notifications to give them the best chance of noticing and responding to an incident.
 
- In order to make this effective, all BEs should set their notification schedule in Slack.
+These are the recommended settings. Your mileage may vary.
 
-#### Setting Slack Notification Schedule
+#### Slack Notifications
 
-1. Within Slack, goto you "Preferences"
-1. Click "Notifications"
-1. Scroll down to "Notification Schedule"
-1. Now set your notifications according to your work schedule, for example: Weekdays, 9am - 5pm
+1. Within Slack, open "Preferences".
+1. Under "Notify me about...", select one of the first two options; we recommend "Direct messages, mentions & keywords". Do **not** choose "Nothing".
+1. If you check "Use different settings for my mobile devices", follow the same rule above.
+1. Scroll down to "Notification Schedule".
+1. Under "Allow notifications", enter your work schedule. For example: Weekdays, 9 am to 5 pm. Pagerslack relies on this to decide whether or not to page a person.
+1. Scroll down to "Sound & appearance".
+1. Choose settings that ensure you won't miss messages. We recommend:
+   1. Select a "Notification sound".
+   1. Check "Bounce Slack’s icon when receiving a notification".
+1. Use your preference for the other settings. The "Channel-specific notifications" are particularly helpful to mute noisy channels that you don't need to be interrupted for.
+
+
+#### macOS Notifications
+
+1. Under "System Preferences", select "Notifications".
+1. Scroll down to find "Slack".
+1. Enable "Allow Notifications from Slack".
+1. For "Slack alert style", we recommend "Alerts" so you need to dismiss them. "Banners" might also work for you. Do not select "None".
+1. Enable "Play sound for notifications", particularly if you chose "Banners" above.
+1. Use your preference for the other settings.
+
+
+#### iOS Notifications
+
+1. Under "Settings", open "Notifications".
+1. Scroll down to find "Slack".
+1. Enable "Allow Notifications from Slack".
+1. Under "ALERTS", enable "Lock Screen" and "Banners".
+1. Enable "Sounds".
+1. Use your preference for the other settings.
