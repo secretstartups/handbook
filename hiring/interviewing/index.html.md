@@ -39,7 +39,7 @@ Read more about [our outbound hiring model](/jobs/faq/#gitlabs-outbound-recruiti
 1. Should you reach out to any GitLab team member on any social media platform, that you have not worked with previously or do not know, requesting to be referred, instead of or in addition to [joining our talent community](https://boards.greenhouse.io/gitlab/jobs/4700367002), you'll receive the following reply: "Thank you for your interest in GitLab! The best way to share your information with our recruiting team is to [join our talent community](https://boards.greenhouse.io/gitlab/jobs/4700367002). This will ensure that you're among the pool of candidates our team will consider when sourcing for current and future openings. Unfortunately, I can't refer you for the position since we have not had a chance to work together. To ensure we stay [inclusive](/company/culture/inclusion/), I'm also not able to influence your candidacy for a particular role."
 1. If at any point during the interview process, you send threatening emails, emails containing profanity, vulgar language, or [hurtful labels](https://about.gitlab.com/community/contribute/code-of-conduct/), we will no longer pursue your candidacy and will inform you of that. We will also not respond any further to you. We aim to hire only people who align with our [values](/handbook/values/).
 
-</details open>
+</details>
 
 <details open>
   <summary markdown="span">
@@ -50,7 +50,7 @@ We strive to be as expeditious as possible in our hiring process. However, the s
 
 To note, this metric is calculated by taking the number of days it takes from the time a candidate starts the recruitment process to when they accept an offer.
   
-</details open>
+</details>
 
 <details open>
   <summary markdown="span">
@@ -69,7 +69,7 @@ If you are invited for an interview with GitLab and you need financial support f
 
 
 To initiate the reimbursement process please email `interviews@gitlab.com`. Additional details found [here](/handbook/hiring/recruiting-framework/coordinator/#interview-reimbursement-process).
-</details open>
+</details>
 
 ### Internal Applicants
 
@@ -86,7 +86,7 @@ If you are a [current team member and are interested in applying](/handbook/peop
 1. You will be redirected to the vacancy description and application form, where you will be asked to fill out basic personal information, provide your resume, LinkedIn, GitLab username, and/or cover letter, and answer any vacancy-specific application questions, as well as answer a voluntary Equal Employment Opportunity questionnaire. While the EEO questionnaire has `US` in its title, it's open to all applicants from around the world.
 1. Once you have finished, click "Submit Application" at the bottom.
 
-</details open>
+</details>
 
 ### Adjustments to our Interview Process
 
@@ -106,7 +106,7 @@ We want our interview process to be accessible to everyone. You can inform us of
 1. The Candidate Experience Specialist will set a follow-up reminder on the candidate's profile to remind the interviewer(s) 24 hours before the interview of the adjustments that are being made to ensure they are top of mind. You do not need to share why the adjustment is being requested but what the required adjustments are.
 1. The Recruiter should follow up with the candidate via email after the interview process to ensure they felt the adjustments made were sufficient for them to perform the interview to the best of their ability.
 
-</details open>
+</details>
 >
 ## Typical Hiring Timeline
 
@@ -151,7 +151,7 @@ depending on the outcome of the call, the recruiting team or manager may either 
 1.  Candidate Experience Specialists [starts the onboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md).
 1.  The hiring manager considers [closing the vacancy](/handbook/hiring/vacancies/#closing-a-requisition).
 
-</details open>
+</details>
 
 ## Inclusive Interviewing
 
@@ -180,7 +180,7 @@ The GitLab team understands the importance of inclusive interviewing, and we str
   * Sales Development 
   * UX
 
-</details open>
+</details>
 
 ## What to Expect During an Interview with a Recruiter
 
@@ -205,7 +205,7 @@ Example questions include:
 1. Do you know how GitLab will employ you in the country you’re based? (As GitLab keeps growing rapidly it is important to share how we can employ people in each country. We should redirect the candidates to the [Contracts and International Expansion](/handbook/people-group/contracts-and-international-expansion) page and go through it with them.)  
 
 At the end of the screening call, the recruiter will tell you what the next steps will be, if any. There should be time for you to ask any questions you may have. 
-</details open>
+</details>
 
 ## Moving Candidates Through The Process
 
@@ -236,7 +236,7 @@ In an effort to streamline the hiring process, improve the candidate experience,
 If the manager has a question about compensation, please ping the People Ops Analyst for review. If the question needs to be escalated, the People Ops Analyst will add the Chief People Officer to the conversation.
 
 **An approval team authorizes all offers.** The manager proposes a suggestion for an offer (including bonus structure if applicable, etc., using the [global compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/)) as a private comment in Greenhouse and informs the recruiting team on its details depending on what is applicable. The recruiting team will create an [offer package](/handbook/hiring/offers/#offer-package-in-greenhouse) to present to an approval chain consisting of the People Business Partner, executive of the division, and Chief People Officer for approval. Verbal offers should not be extended to the candidate until the offer is approved. The CEO may choose to interview the candidate, and any offers given before the CEO's approval are premature.
-</details open>
+</details>
 
 ## Conducting a GitLab Interview
 
@@ -260,7 +260,7 @@ Please avoid in-person interviews where possible. In-person interviews or meetin
 
 Remember, interviewing candidates is everyone's job as part of our collaboration value! You may be asked to participate on an interview team, as we continue to hire great talent.
 
-</details open>
+</details>
 
 <details open>
   <summary markdown="span">
@@ -336,7 +336,7 @@ typically do for developers during a technical interview. Avoid puzzles or weird
 1. Be mindful of the background of the candidate. Someone who knows 10 languages already (and some languages in particular, Perl for example) may pick up Ruby in a second if given the right chance. Don't assume that someone with a Java background will not be capable of moving to a different stack. Note that individual positions may have stricter requirements; the Backend Engineer position [requires Ruby experience](/job-families/engineering/backend-engineer/), for example.
 1. Consider including non-engineering GitLab team-members in the interview to ask soft skills questions. Because technical people should be capable of talking to non-engineering people just fine, we should assess the candidate's ability to do so.
 
-</details open>
+</details>
 
 <details open>
   <summary markdown="span">
@@ -375,7 +375,7 @@ The key to analyzing each of the reverse-STAR steps is to ask _What, Why, How, a
 These questions can be quite unbalancing and can increase the stress during the interview. Again, be kind and help the candidate understand what you are looking for, and provide an example if one is needed when you notice the candidate is blocked.
 
 It can also happen that the candidate does not have a story to share with you; that is okay. It's just another data point that should be added to the feedback (I failed to get data on ...). Just move to the next question and be sure to have a few questions as a backup.
-</details open>
+</details>
 
 <details open>
   <summary markdown="span">
@@ -417,7 +417,7 @@ Scoring is defined as follows:
   * The candidate demonstrated clear opposition to either our Collaboration, Diversity, or Results values
   * The candidate demonstrated unwillingness to learn our Efficiency, Iteration, or Transparency values
 
-</details open>
+</details>
 
 ## Rejecting Candidates
 
@@ -442,7 +442,7 @@ Scoring is defined as follows:
 1. The recruiting team may send out an inquiry to candidates to gather our own feedback after they have exited the hiring process.
   * The recruiting team will review all feedback and use it to improve the hiring process.
 
-</details open>
+</details>
 
 ## Candidate Experience
 
@@ -459,7 +459,7 @@ We [recorded a training](https://www.youtube.com/embed/ng_VQseo5vo) on the subje
   There will likely be holidays that our candidates observe that a recruiter, hiring manager, or candidate experience specialist may not.
   If there's a time during the year where a significant portion of the company will be taking time off, we'll be sure to send a communication to all active candidates to let them know of a possible delay in communication.
   Please note that not every member of the team will be observing that holiday, so you may still receive emails from them.   
-</details open>
+</details>
 
 <details open>
   <summary markdown="span">
@@ -473,7 +473,7 @@ We [recorded a training](https://www.youtube.com/embed/ng_VQseo5vo) on the subje
    1. There is one section of the interview confirmation email the candidate should pay extra close attention to, the timezone. Greenhouse, our Applicant Tracking System (ATS), defaults the timezone in the interview confirmation to the timezone the Candidate Experience Specialist is located in. **However, there will always be an attached calendar invite that shows the interview time in the candidates home timezone so they can add it to their own calendar.**  
    1. If the interviewer or candidate should need to reschedule, they should email their Candidate Experience Specialist, or follow the special instructions in the confirmation email if the interview is within 24 hours.
 
-</details open>
+</details>
 
 ## Reference Check Process
 
