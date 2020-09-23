@@ -11,7 +11,7 @@ title: "Debugging Failing Tests and Test Pipelines"
 
 ### Overview
 
-These guidelines are intended to help you to investigate [end-to-end test](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/index.html) pipeline failures so that they can be properly addressed.  This will involve analyzing each failure and creating an issue to report it.  It might also involve [fixing tests](#fixing-the-test), [putting them in quarantine](#quarantining-tests), or [reporting bugs in the application](#bug-in-code).
+These guidelines are intended to help you to investigate [end-to-end test](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/index.html) pipeline failures so that they can be properly addressed.  This will involve analyzing each failure and creating an issue to report it.  It might also involve [fixing tests](#fixing-the-test), [putting them in quarantine](#quarantining-tests), or [reporting bugs in the application](#bug-in-the-application).
 
 #### Scheduled QA test pipelines
 
@@ -345,4 +345,4 @@ Two videos walking through the triage process were recorded and uploaded to the 
 [quarantining tests]: #quarantining-tests
 [`:flaky`]: #flaky-test
 [`:bug`]: #bug-in-the-application
-[`:stale`]: #test-is-stale-due-to-an-application-change
+[`:stale`]: #test-is-stale-due-to-application-change
