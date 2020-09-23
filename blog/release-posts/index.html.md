@@ -17,7 +17,7 @@ Release posts are [blog posts](/releases/categories/releases/) that announce cha
 
 Release posts follow a process outlined here, and the templates that are used to create them also highlight what needs to be done, by who, and when those items are due.
 
-**Note:** We're evolving our release post process! You can view and share feedback on the latest direction by viewing [Scaling the release post process](https://docs.google.com/presentation/d/1_Osx3FrDxT4aqjl-Kc9QXgp30z0Pl1k4tBCv0DlZYkk/edit). 
+**Note:** We're evolving our release post process! You can view and share feedback on the latest direction by viewing [Scaling the release post](https://docs.google.com/presentation/d/1_Osx3FrDxT4aqjl-Kc9QXgp30z0Pl1k4tBCv0DlZYkk/edit). 
 
 ### Quick Links
 
