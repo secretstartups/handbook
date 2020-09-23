@@ -28,8 +28,8 @@ This allows our team to consider you for current and future [openings on the tea
 Read more about [our outbound hiring model](/jobs/faq/#gitlabs-outbound-recruiting-model) and other frequently asked questions on our [Jobs FAQ page](/jobs/faq/).
 
 <details open>
-<summary markdown="span">
-How to Join our Talent Community
+<summary>
+How to Join Our Talent Community
 </summary>
 
 1. Go to our [talent community page](https://boards.greenhouse.io/gitlab/jobs/4700367002), fill out your personal information, and upload your CV or resume.
@@ -42,8 +42,8 @@ How to Join our Talent Community
 </details>
 
 <details open>
-<summary markdown="span">
-Average Time-to-Hire 
+<summary>
+Average Time to Hire
 </summary>
 
 We strive to be as expeditious as possible in our hiring process. However, the speed of the process can and does vary. To see our historical and recent trends related to time-to-hire, please view the [Time to Offer Accept (Days)](https://about.gitlab.com/handbook/hiring/performance_indicators/#time-to-offer-accept-days) chart on the **Recruiting Performance Indicators** page.
@@ -53,7 +53,7 @@ To note, this metric is calculated by taking the number of days it takes from th
 </details>
 
 <details open>
-<summary markdown="span">
+<summary>
 Reimbursement for Interviewing with GitLab
 </summary>
 
@@ -76,7 +76,7 @@ To initiate the reimbursement process please email `interviews@gitlab.com`. Addi
 If you are a [current team member and are interested in applying](/handbook/people-group/promotions-transfers/#department-transfers) for a current vacancy, please follow the steps below.
 
 <details open>
-<summary markdown="span">
+<summary>
 Steps
 </summary>
 
@@ -93,7 +93,7 @@ Steps
 We want our interview process to be accessible to everyone. You can inform us of any reasonable adjustments we can make to better accommodate your needs by emailing 'interviews@gitlab.com' about the need for adjustments at any point in the interview process. 
 
 <details open>
-<summary markdown="span">
+<summary>
 Process for the Recruiting Team
 </summary>
 
@@ -107,13 +107,13 @@ Process for the Recruiting Team
 1. The Recruiter should follow up with the candidate via email after the interview process to ensure they felt the adjustments made were sufficient for them to perform the interview to the best of their ability.
 
 </details>
->
+
 ## Typical Hiring Timeline
 
 These steps may vary role-to-role, so please review the hiring process on the job family page for the role you are interested in.
 
 <details open>
-<summary markdown="span">
+<summary>
 Steps
 </summary>
 
@@ -158,7 +158,7 @@ depending on the outcome of the call, the recruiting team or manager may either 
 The GitLab team understands the importance of inclusive interviewing, and we strive to ensure our hiring team is well versed in every aspect of diversity, inclusion, and cultural competence. A positive and comfortable candidate experience is priority.
 
 <details open>
-<summary markdown="span">
+<summary>
 Best practices
 </summary>
 
@@ -187,7 +187,7 @@ Best practices
 Calls can last anywhere between 10 and 30 minutes, depending on the conversation.
 
 <details open>
-<summary markdown="span">
+<summary>
 Example Questions
 </summary>
 
@@ -212,7 +212,7 @@ At the end of the screening call, the recruiter will tell you what the next step
 In an effort to streamline the hiring process, improve the candidate experience, and hire talent faster, best practice is to coordinate interview times so that candidates can complete the process within 2 weeks. Just as if we were to interview candidates in-person at an office, we wouldn’t make them come back 3, 4, or even 5 times. The initial screening call and optional CEO interview are not considered to be part of the 2-week goal. If the process before or during the team interview is taking more than a few days to confirm, the Recruiter should reach out to the candidate, apologize, and explain what is going on. As a candidate it is really frustrating to not hear anything from the other side just to have the conversations resume later as if nothing had happened.
 
 <details open>
-<summary markdown="span">
+<summary>
 Best practices
 </summary>
 
@@ -244,7 +244,7 @@ Interviewing is hard for both sides. In less than one hour, you both need to get
 
 
 <details open>
-<summary markdown="span">
+<summary>
 Interview Training and Preparation
 </summary>
 
@@ -263,7 +263,7 @@ Remember, interviewing candidates is everyone's job as part of our collaboration
 </details>
 
 <details open>
-<summary markdown="span">
+<summary>
 Best practices
 </summary>
 
@@ -339,7 +339,7 @@ typically do for developers during a technical interview. Avoid puzzles or weird
 </details>
 
 <details open>
-<summary markdown="span">
+<summary>
 Candidate Performance Evaluation
 </summary>
 
@@ -347,7 +347,7 @@ The goal of behavioral questions is to get the candidate to share data on past e
 
 The questions are usually in the form of:
 
->"Can you tell me about a time when...?"
+"Can you tell me about a time when...?"
 
 The kind of answer that we are looking for is to get a story that is structured following the **Situation, Task, Action, and Result (STAR)**. Ask for an overview, an executive summary, of the case at hand. Try to avoid lengthy answers from the candidate at this stage.
 
@@ -378,7 +378,7 @@ It can also happen that the candidate does not have a story to share with you; t
 </details>
 
 <details open>
-<summary markdown="span">
+<summary>
 Interview feedback
 </summary>
 
@@ -422,7 +422,7 @@ Scoring is defined as follows:
 ## Rejecting Candidates
 
 <details open>
-<summary markdown="span">
+<summary>
 Rejecting and Feedback
 </summary>
 
@@ -451,7 +451,7 @@ We [recorded a training](https://www.youtube.com/embed/ng_VQseo5vo) on the subje
 ## How We Conduct Remote Interviews on a Global Scale
 
 <details open>
-<summary markdown="span">
+<summary>
 How We Work During Holidays
 </summary>
 
@@ -462,7 +462,7 @@ How We Work During Holidays
 </details>
 
 <details open>
-<summary markdown="span">
+<summary>
 How We Schedule Interviews on a Global Scale
 </summary>
 
