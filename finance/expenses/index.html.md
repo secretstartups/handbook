@@ -93,12 +93,7 @@ If working from home is not practical you may submit for reimbursement for the c
 
 Any agreement must be between the team member and the co-working space (i.e. GitLab will not sign or appear on the agreement). All expenses must be submitted through the normal [travel and expense reimbursement policy](/handbook/finance/accounting/#reimbursable-expenses). The Company will not be responsible for any expense that relates to office space subsequent to the termination of service between GitLab and the team member.
 
-GitLab is asking/requiring all Co-Working expenses submitted for reimbursement (Outside of the United States) to list the GitLab Entity in the address section of the invoice and/or receipt. By adding the company name, it will not change the context of the contractural arragnements with the co-working space. By providing the GitLab entity, this will allow  us to claim co-working expenses for company tax purposes. Please see below example
 
-  Courtney Cote
-  GitLab Gmbh
-
-If the leasing company will not proivide an updated invoice to include the entity, please do not hesistage to contact our Expense Team.  #expense-reporting-inquires 
 
 ### Work-related online courses and professional development certifications
 
