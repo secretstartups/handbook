@@ -10,11 +10,14 @@ description: "Guidelines to create and update release posts"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+
 ## Release posts
 
 Release posts are [blog posts](/releases/categories/releases/) that announce changes to the GitLab application. This includes our regular cadence of monthly releases which happen on the 22nd of each month, and patch/security releases whenever necessary.
 
 Release posts follow a process outlined here, and the templates that are used to create them also highlight what needs to be done, by who, and when those items are due.
+
+**Note:** We're evolving our release post process! You can view and share feedback on the latest direction by viewing [Scaling the release post process](https://docs.google.com/presentation/d/1_Osx3FrDxT4aqjl-Kc9QXgp30z0Pl1k4tBCv0DlZYkk/edit). 
 
 ### Quick Links
 
