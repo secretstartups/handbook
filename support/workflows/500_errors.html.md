@@ -129,14 +129,14 @@ In the following example, the customer is attempting to [change the notification
 Once results have been found in either Kibana or Sentry, do the following.
 
 1. Gather as much information as possible. Make an internal note on the ticket including links to the logs found in either Kibana or Sentry.
-1. Search the [GitLab Community Edition issue tracker](https://gitlab.com/gitlab-org/gitlab-ce) for any duplicate or related issue.
+1. Search the [GitLab issue tracker](https://gitlab.com/gitlab-org/gitlab) for any duplicate or related issue.
 1. Confirm if the issue is known or unknown and proceed accordingly: [Issue is known](#issue-is-known) or [Issue is unknown](#issue-is-unknown).
 
 #### Response
 
 ##### Issue is known
 
-If the issue is known it should have a corresponding issue in the Community Edition issue tracker. If you found an entry in Sentry that has been converted into an issue, you should see the issue number in the header within Sentry:
+If the issue is known it should have a corresponding issue in the GitLab issue tracker. If you found an entry in Sentry that has been converted into an issue, you should see the issue number in the header within Sentry:
 
 ![Sentry linked issue](/images/support/sentry-linked-issue.png)
 
@@ -149,7 +149,7 @@ Then, respond to the user with information about the cause of the issue, provide
 ###### Issues found in Sentry
 {:.no_toc}
 
-1. Convert the issue to a GitLab CE issue by using the "Create GitLab Issue" button on the issue page.
+1. Convert the issue to a GitLab issue by using the "Create GitLab Issue" button on the issue page.
 1. Comment on the issue providing a link to the Zendesk ticket.
 1. Add any additional labels if needed such as `customer`, [priority and severity](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#severity-labels), and the appropriate DevOps stage.
 1. Respond to the user with information about the cause of the issue, provide a link to it, and invite them to subscribe to it for updates.
@@ -158,7 +158,7 @@ Then, respond to the user with information about the cause of the issue, provide
 {:.no_toc}
 
 1. Get a ["short url"](https://www.elastic.co/guide/en/kibana/3.0/sharing-dashboards.html) to the Kibana logs.
-1. Create a new [GitLab CE](https://gitlab.com/gitlab-org/gitlab-ce) issue and be sure to include a link to the Zendesk ticket along with the Kibana logs.
+1. Create a new [GitLab](https://gitlab.com/gitlab-org/gitlab) issue and be sure to include a link to the Zendesk ticket along with the Kibana logs.
 1. Add the `bug` label and any others if needed such as `customer`, [priority and severity](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#severity-labels), and the appropriate DevOps stage.
 1. Respond to the user with information about the cause of the issue, provide a link to it, and invite them to subscribe to it for updates.
 
