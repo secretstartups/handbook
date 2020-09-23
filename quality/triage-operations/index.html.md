@@ -195,9 +195,9 @@ This section contains issues with the `~"bug"` label without priority and severi
   1. Assign a [Severity Label](/handbook/engineering/quality/issue-triage/#severity).
   1. Assign either a versioned milestone or to the `Backlog`.
 
-#### priority::1 & priority::2 bugs past SLO
+#### severity::1 & severity::2 bugs past SLO
 
-This section contains bugs which has past our targeted SLO based on the priority set. This is based on our [missed SLO detection](/handbook/engineering/quality/triage-operations/index.html#missed-slo) triage policy.
+This section contains bugs which has past our targeted SLO based on the severity label set. This is based on our [missed SLO detection](/handbook/engineering/quality/triage-operations/index.html#missed-slo) triage policy.
 
 ### Group level idle merge requests
 
@@ -293,7 +293,7 @@ Issues which have a label of `~Deliverable` without a milestone will have the mi
 Issues which have a severity label and missed the [SLO target](/handbook/engineering/quality/issue-triage/#severity) will be labeled with `~missed-SLO`. The calculation for elapsed time starts from the date of the severity label was applied. This enables reporting on SLO target adherence.
 
 * Automation Condition: Issue with severity label present and is remains in an open state past SLO target.
-* We currently only detect missed SLOs for `~priority::1` and `~priority::2` bugs.
+* We currently only detect missed SLOs for `~severity::1` and `~severity::2` bugs.
 * Automation Action:
   * The label `~missed-SLO` is applied.
 * Example: <https://gitlab.com/gitlab-org/gitlab-ce/issues/61662>
