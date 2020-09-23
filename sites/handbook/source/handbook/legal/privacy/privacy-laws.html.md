@@ -1,4 +1,15 @@
+---
+layout: handbook-page-toc
+title: "Privacy Laws and GitLab"
+---
 
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+GitLab treats every users' data the same regardless of their local regulations because we take privacy seriously. Still, there are some privacy laws that get a lot of attention, so we want our team members to understand what they are about. Below are some explanations of laws you may have already heard of.
 
 ## GDPR
 
@@ -36,5 +47,3 @@ format if requested.
 **The right to object** – this includes the right of individuals to stop the processing of their data for direct marketing. There are no exemptions to this rule, and any processing must stop as soon as the request is received. In addition, this right must be made clear to individuals at the very start of any communication.
 
 **The right to be notified** – If there has been a data breach which compromises an individual’s personal data, the individual has a right to be informed within 72 hours of first having become aware of the breach. 
-
-For more information, reach out to GitLab's [Data Protection Office](https://about.gitlab.com/privacy/#data-protection)
