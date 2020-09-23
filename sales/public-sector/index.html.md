@@ -311,4 +311,7 @@ A priority rating on a rated order may be changed or canceled by written notific
 
 A company is required to make and preserve for at least three years, accurate and complete records of any transaction covered by the DPAS regulation.
 
+## Protection of customer information
+
+At GitLab the [Transparency value](https://about.gitlab.com/handbook/values/#transparency) extends to what we are doing and how we do it, but that value is not pushed down onto customers and external contacts.  The GitLab Public Sector team, in particular, extends that exception to all customer data even within the larger GitLab organization.  Public Sector customer data is isolated and can only be accessed by those GitLab team members with a need to know.
 
