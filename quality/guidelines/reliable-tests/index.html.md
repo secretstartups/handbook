@@ -52,7 +52,7 @@ In this case, the following process should be followed.
 
 **Note:** A test is still reliable if it fails due to a bug in the application code, or due to issues with the application infrastructure that the test is not expected to handle.
 
-**Note 2:** there's a detailed list of possible failures available in the debugging failing tests guideline, on [section 4. Classify and triage the failure](/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#4-classify-and-triage-the-test-failure)
+**Note 2:** there's a detailed list of possible failures available in the debugging failing tests guideline, in the [Classify and triage the test failure section](/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#classify-and-triage-the-test-failure)
 
 ### How to run the reliable tests
 
