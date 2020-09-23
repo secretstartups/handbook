@@ -1,8 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Solutions Architect Processes"
+title: Solutions Architect Processes
 ---
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -162,7 +161,13 @@ If the SA is unable to determine an approach that works for the prospect, the ne
 
 To be efficient as possible, this is the recommended approach:
 
-1. **Document**: Document the use-case the prospect is trying to solve in an issue on their [Account Management Project](https://gitlab.com/gitlab-com/account-management). Include the customer business objectives, existing approach, and communication between the prospect (call recordings, emails, etc).
-1. **Exploration**: If applicable, document the solutions or work-arounds that were explored with the customer and why that was not sufficient.
-1. **Suggestion**: Reach out to the Product Manager with a link to the Account Management issue and request an internal review.
+1. **Gather**: Document and articulate the Customer journey
+    1. Start by creating an issue on their [Account Management Project](https://gitlab.com/gitlab-com/account-management). Include the customer business objectives, existing approach, and communication between the prospect (call recordings, emails, etc).
+    1. Reference running logs in the [Customers & Prospects](https://drive.google.com/drive/u/1/folders/0B-ytP5bMib9Ta25aSi13Q25GY1U) folder
+1. **Exploration**: If applicable, document the solutions or work-arounds that were explored with the customer and why that was not sufficient
+1. **Engagement**: Reach out to the Product Manager
+    1. Create a new slack channel with SA/SAL/PM/etc with a link to the Account Management issue
+    1. Be mindful and gift a minimum of 48-96 hr lead time.  _Properly done, PMs should have at least a weeks notice_
+    1. Collaborate using the Account Management issue, history, running docs, and shared material
+    1. [optional] Suggest an internal team call to coordinate materials and next steps
 1. **Communication**: Set up a call with the prospect or customer to determine the next best steps.
