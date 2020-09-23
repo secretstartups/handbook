@@ -417,7 +417,10 @@ Prior to generating a standard (non-draft) quote to deliver to a client or prosp
 1.  You will be able to see who the required approvers are on the quote prior to submitting the quote and why they are required.
 1.  Once you are sure that the quote has the correct info on it click the the `Submit for Approval` button on the quote screen. 
 1.  Your quote has now been submitted for approval. If it needs any approvals you can monitor who needs to approve it on the quote in the section `Required Quote Approvals`
-1.  If Quote approvals are not rolled out for you team/region/segment you will be notified to move forward with approvals via a window in Salesforce
+
+**Contractual Discounts**
+
+In cases where a discount has been applied to a quote pursuant to a signed agreement between GitLab and the customer, additional approvals are not required. To bypass the approval module, please tag Sales-Support in chatter to request that the quote approvals be overridden. Please include a link to the signed agreement with your request. 
 
 ### Channel Quote Approval 
 
