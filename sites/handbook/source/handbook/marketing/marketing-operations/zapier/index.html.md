@@ -23,9 +23,9 @@ These fields must be required and captured in order to allow for proper routing 
 * Last Name
 * Email
 * Company
-* Country
+* Country (must be a [picklist containing all or some of these values](https://docs.google.com/spreadsheets/d/1cV_hI2wAzLxYYDI-NQYF5-FDDPXPXH0VV5qRBUJAQQk/edit?usp=sharing))
 * Number of employees (Can be range, or number)
-* Consent (Whether or not we recieved consent to send email, can be `TRUE` of `FALSE`) [Reference the legal handbook](/handbook/legal/marketing-collaboration/#marketing-rules-and-consent-language) for the language that should be used.
+* Email Consent (Whether or not we recieved consent to send email, can be `TRUE` of `FALSE`) [Reference the legal handbook](/handbook/legal/marketing-collaboration/#marketing-rules-and-consent-language) for the language that should be used.
 
 
 
@@ -49,4 +49,4 @@ There are two main reasons and advantages of using Zapier:
 ## How to Request 
 Please submit an issue with Marketing Operations using this [issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/zapier_connection_request.md)
 
-If you are using a google form, you must give mops access to the google sheet, not the form.
+If you are using a google form, you must give mops access to the google sheet containing the responses from the form.
