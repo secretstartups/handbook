@@ -15,7 +15,7 @@ title: "SA Practices"
 
 Solution Architects have various practices:
 
-[TODO] Communities of Practice
+[Communities of Practice](/handbook/customer-success/solutions-architects/sa-practices/communities-of-practice)
 
 [Deliberate Practice](/handbook/customer-success/solutions-architects/sa-practices/deliberate-practice)
 
