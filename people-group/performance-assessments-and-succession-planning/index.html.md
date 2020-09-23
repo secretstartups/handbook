@@ -64,6 +64,7 @@ Below are examples for Managers to consider when compiling their criteria set, s
 | **Self-Directed Career Mobility** | is the team member able to learn and adapt quickly - applying the knowledge gained to overcoming challenging situations and achiving the desired results. |
 | **Leadership Competencies** | Does the team member exhibit the [competencies](https://about.gitlab.com/handbook/competencies/#manager-and-leadership-competencies) required to become a Manager / Leader within GitLab and if so do they require further development in these areas. |
 | **Promotion Readiness** | Is the team member ready to move into a more senior role within GitLab - if not what would you consider the time frame for development to be. |
+| **Team Dynamics** | Does the team member collaborate well with other team members, peers, and stable counterparts? Are they someone people are happy to work with? Data sources for this information can be a variety of things, ranging from 360 feedback, observations in team meetings, 1:1 conversation/feedback, etc.|
 
 #### Review Process Steps
 *This is typically a four to six week process from beginning to end.*
