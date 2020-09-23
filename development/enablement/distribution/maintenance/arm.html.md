@@ -65,7 +65,7 @@ as a production platform. Due to this, we only build packages for the
 Community Edition.
 
 [scaleway]: https://www.scaleway.com/en/virtual-instances/arm-instances/
-[verify-ci]: /handbook/engineering/development/ci-cd/verify/
+[verify-ci]: /handbook/engineering/development/ops/verify/
 [distribution]: /handbook/engineering/development/enablement/distribution/
 [advocates]: /handbook/marketing/community-relations/community-advocacy/
 [timeout-blog]: https://about.gitlab.com/blog/2019/11/15/tracking-down-missing-tcp-keepalives/

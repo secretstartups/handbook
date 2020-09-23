@@ -231,7 +231,7 @@ While entering the approximate weight, take a moment to confirm issues have the 
 
 After weight has been entered, remove `needs weight` label.
 
-If you are having a difficult time estimating the number of merge requests, please consider a [Proof of Concept MR](/handbook/engineering/development/ci-cd/release/#tips-when-youre-having-hard-time-to-estimate-mr-count-consider-poc-step).
+If you are having a difficult time estimating the number of merge requests, please consider a [Proof of Concept MR](/handbook/engineering/development/ops/release/#tips-when-youre-having-hard-time-to-estimate-mr-count-consider-poc-step).
 
 ## FAQ
 
