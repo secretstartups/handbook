@@ -22,13 +22,17 @@ We will review your submission and take whatever action we deem appropriate unde
 
 If it is not possible to come to an agreement with the reporting copyright owner, the content owner may submit a DMCA Counter-Notice to dmca@gilab.com within ten (10) business days of the date of our notice. If we receive a valid counter-complaint, we will email a copy of the notice to the copyright owner. The Counter-Notice is a legal document and must comply with the requirements of the DMCA and must include the following:
 
-a. **Contact Information:** Your Name; Physical address; Email address; and an electronic or physical signature of the owner of the copyright or a person authorized to act on the owner's behalf.
+a. **Contact Information:** User's name, physical address, email address, and phone number 
 
-b. **Statement under Perjury:** A statement under penalty of perjury that you have "a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled."
+b. **Content Identification:** A reasonable identification the material that has been removed or to which User's access has been blocked.
 
-c. **Consent to Jurisdiction:** A statement that you consent to the jurisdiction of Federal District Court for the judicial district in which your provided address is located, or if your address is outside of the United States, for any judicial district in which GitLab may be found.
+c. **Statement under Perjury:** A statement under penalty of perjury that you have "a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled."
 
-d. **Consent to service of process:** A statement that you will accept service of process from the person who provided the original notification or an agent of such person.
+d. **Consent to Jurisdiction:** A statement that you consent to the jurisdiction of Federal District Court for the judicial district in which your provided address is located, or if your address is outside of the United States, for any judicial district in which GitLab may be found.
+
+e. **Consent to service of process:** A statement that you will accept service of process from the person who provided the original notification or an agent of such person.
+
+f. **Signature:** An electronic or physical signature of the owner of the copyright or a person authorized to act on the owner's behalf.
       
 # Trademark Disputes 
 
