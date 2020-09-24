@@ -46,6 +46,7 @@ For more on this topic, I've shared [17 questions that this role answers](https:
 #### Articles 
 
 * Fortune — [Why GitLab hired a ‘head of remote’ before the coronavirus pandemic](https://fortune.com/2020/05/28/coronavirus-head-of-remote-work-from-home-gitlab-github-jobs/)
+* Fast Company — [Extremely Transparent and Incredibly Remote](https://www.fastcompany.com/90548691/extremely-transparent-and-incredibly-remote-gitlabs-radical-vision-for-the-future-of-work)
 * TechCrunch — [GitLab's Head of Remote on hiring, onboarding, and why Slack is a no-work zone](https://techcrunch.com/2020/05/19/gitlabs-head-of-remote-on-hiring-onboarding-and-why-they-dont-do-work-stuff-on-slack/)
 * TechCrunch — [What people tend to get wrong about remote work](https://techcrunch.com/2020/05/20/what-people-tend-to-get-wrong-about-remote-work/)
 * Make The Leap Digital — [Remote Work Tips From GitLab's Head of Remote And Guinness World Record Top Publisher](https://www.linkedin.com/pulse/remote-work-tips-from-gitlabs-head-guinness-world-record-mandy-fransz/)
@@ -58,6 +59,7 @@ For more on this topic, I've shared [17 questions that this role answers](https:
 
 #### Podcasts
 
+* How I Work Podcast — [GitLab’s Head of Remote, Darren Murph, on how to create corporate culture when no one works from the office](https://www.amanthaimber.com/podcasts/gitlabs-head-of-remote-darren-murph-on-how-to-create-corporate-culture-when-no-one-works-from-the-office/)
 * SafetyWing Podcast — [How to transition to remote](http://buildingremotely.com/episode/2)
 * Customer Centric Podcast — [Darren Murph: home is where the office is](https://customercentric.unbabel.com/podcast/darren-murph-gitlab)
 * Changelog Podcast — [Creating GitLab’s remote playbook](https://changelog.com/podcast/397)
