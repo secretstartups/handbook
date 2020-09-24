@@ -52,7 +52,7 @@ There are reoccurring topics from prospects and customers that could be a good f
 
 ### Process
 
-1. Establish a topic to build a community of practice.
+1. Establish a focus topic. 
 2. Enlist GitLab team members to participate in your new CoP, utilize the #customer-success channel in Slack to reach a broad audience. Make sure to point them to the process outlined on this page, so they understand the commitment.
 3. Create a project in the [Communities of Practice group](https://gitlab.com/gitlab-com/customer-success/communities-of-practice) by using this [project template](https://gitlab.com/gitlab-com/customer-success/communities-of-practice/project-template)
 4. Setup a monthly Cadence call with the team members
@@ -60,4 +60,11 @@ There are reoccurring topics from prospects and customers that could be a good f
 6. Update this handbook page under the table "Active Communities of Practice."
 7. Setup a slack channel using the `#cp_` prefix so team members know where to go for help.
 
+### TODO: How can I ensure my Community of Practice is effective and impactful?
 
+A Community of Practice does not have a specific timebox, it's an ongoing process that should evolve over time. 
+
+* Review Metrics
+* Include New Members
+* Archive if no longer maintained
+*
