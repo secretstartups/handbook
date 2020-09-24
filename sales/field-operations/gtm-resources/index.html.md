@@ -147,7 +147,7 @@ If a `Global Account` has a lower segment than any of its child accounts, the `G
   * `Mid-Market` = 100-1,999 total employees
   * `SMB` (Small Business) = 0-99 total employees
 
-`Total Employee` count is based on the number of employees that our data tools return for that account **as determined in the [sales segment review process time period](#Sales-Segment-Review-Process)**.
+`Total Employee` count is based on the number of employees that our data tools return for that account **as determined in the [sales segment review process time period](#sales-segment-and-hierarchy-review-process)**.
 We use a hierarchy structure to determine what the number of employees is for the account.
 The hierarchy of our data tools on *Accounts* as they relate to the `Total Employee` count is shown below.
 
@@ -156,7 +156,7 @@ The hierarchy of our data tools on *Accounts* as they relate to the `Total Emplo
 
 LinkedIn/Websites are not designated data sources.
 If a prospect communicates a different employee size from DataFox/Zoominfo that conflicts with segmentation of what is determined by DataFox/Zoominfo then SalesOPS should be notified via chatter on the record.
-Admins have the ability to override the `Number of Employees` and bypass this hierarchy but only during our [sales segment review process](#Sales-Segment-Review-Process).
+Admins have the ability to override the `Number of Employees` and bypass this hierarchy but only during our [sales segment review process](#sales-segment-and-hierarchy-review-process).
 
 ##### Sales Segment and Hierarchy Review Process
 
@@ -177,7 +177,7 @@ Examples of valid sources include but are not limited to financial filings, news
 As a rule LinkedIn is not accepted as a valid source.
 During the Sales Ops review period it is at the discretion of the Sales Ops team to have the `Total Employee` count updated or to have it remain the same.
 
-If the number of employees, according to our sources based on our hierarchy as described in [Segmentation](#Segmentation) has changed, the Sales Ops team will automatically update the accounts segment and resulting ownership at the completion of the review process.
+If the number of employees, according to our sources based on our hierarchy as described in [Segmentation](#segmentation) has changed, the Sales Ops team will automatically update the accounts segment and resulting ownership at the completion of the review process.
 
 While the review process occurs over the course of Q4 the results of the process will not be put into place or enforced until the begining of Q1 (or as announced by the Sales Ops team).
 
@@ -205,7 +205,7 @@ This field inherits data from other fields in the following priority: 1. Admin M
 
 1. **Source of Data**: The data source priority order for `Employee` count, `Address`, `Industry` and `Corporate Hierarchy` will be Datafox, Zoominfo, Linkedin; otherwise <blank> or `[[unknown]]` until resolved through manual research.
 Any disputes must follow the Final Decision Escalation Process below.
-These data points are locked in during [the sales segment review process](#sales-segment-review-process) .
+These data points are locked in during [the sales segment review process](#sales-segment-and-hierarchy-review-process) .
 1. **Account Ownership**: Will be determined by the **Sales** `Segment`, `Address` and `Corporate Hierarchy` and all children accounts, regardless of physical location.
 All of the accounts will be owned by the *Global Account* owner unless it is either a Named Account (see point 3) or it has been agreed upon by both reps and their managers that the customer is best serviced by the *Territory* rep (see point 13).
 1. **Named Account**: Defined as an account that is owned by a sales rep regardless of corporate headquarters.
@@ -224,7 +224,7 @@ To do this, the *territory rep* must Chatter the *global account* owner and prov
 It is at the discretion of the *global account* owner to keep or reassign the account, but they must provide a compelling and explicit reason why a *territory* account should be managed globally.
 If the *territory rep* does not agree with the decision, it can be discussed by their respective managers.
 1. **Parent/Child Segmentation**: All Accounts in a hierarchy will adopt the MAX Segmentation of any account in the hierarchy.
-1. **Changes to Ultimate Parent Details**: In the event of a merger or acquisition, or any other changes that impact the ownership of an account, such as a move of headquarters to another territory, either the *global account* owner or *territory* sales rep should submit the updated information in accordance with [the sales segment review process](#sales-segment-review-process), who will then initiate a review of all affected accounts.
+1. **Changes to Ultimate Parent Details**: In the event of a merger or acquisition, or any other changes that impact the ownership of an account, such as a move of headquarters to another territory, either the *global account* owner or *territory* sales rep should submit the updated information in accordance with [the sales segment review process](#sales-segment-and-hierarchy-review-process), who will then initiate a review of all affected accounts.
 A transition plan (if needed) should be agreed upon by all reps and their managers.
 1.  **Exceptions**:
     1. **Spirit of Collaboration**: All requests and or actions must adhere to the GitLab Value of “Collaboration” and proactively communicate the inquiry and/or intent to all parties affected.
@@ -269,7 +269,7 @@ U.S. Public Sector: Routed to the U.S. Public Sector Inside Sales team.
 
 ##### Professional Service Requests
 
-`Professional Service Requests` are treated like a [`Contact Us` request](#contact-us-requests) and followed up within **one (1) business day** Service Level Agreement (SLA).
+`Professional Service Requests` are treated like a [`Contact Us` request](#contact-requests) and followed up within **one (1) business day** Service Level Agreement (SLA).
 Follow up must be tracked as an activity on the record within SFDC.
 
 Requests submitted through the professional services page will be routed following `Global Account Ownership` rules.
@@ -376,7 +376,7 @@ This is also only a temporary solution until we have a more scalable solution in
 
 ##### Record Creation in Salesforce
 
-ACCOUNT/CONTACT records in Salesforce are created in a number of ways - [list imports](#list-imports), [mass creation screen flows](#mass-create-contact-on-opportunities-with-contact-roles), field event booth scans, research, networking, webcasts, content downloads.
+ACCOUNT/CONTACT records in Salesforce are created in a number of ways - [list imports](#list-imports), [mass creation screen flows](#mass-create-contacts-on-opportunities-with-contact-roles), field event booth scans, research, networking, webcasts, content downloads.
 Ideally all ACCOUNTS exist in Salesforce and team members are only creating CONTACT records; however, if a connection is made at an event and follow up needs to be done *prior* to official event list upload occurs team members should do the following:
    - Search Salesforce to be sure ACCOUNT does not already exist **AND** search using the person's email address to ensure duplicate record is not created
    - Record **does not** exist:
