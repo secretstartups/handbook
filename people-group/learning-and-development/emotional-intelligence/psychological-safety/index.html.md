@@ -76,6 +76,16 @@ It is important to enable a human-to-human approach and realize the other party 
 - This person wants to feel respected, appreciated, and competent, just like me.
 - This person wishes for peace, joy, and happiness, just like me.
 
+## Live Learning Session 
+
+During Week 3 of our [Manager Challenge Pilot](https://about.gitlab.com/handbook/people-group/learning-and-development/manager-challenge/), we had a course covering [Building an Inclusive & Belonging Environment](). The [slide deck](https://docs.google.com/presentation/d/1eBr33VeYePGck9K5Q5WGqrhqKmKT8zLgkO3kNNRCew0/edit?usp=sharing) and [meeting agenda](https://docs.google.com/document/d/13BofXLCDC2fafHlYij7sZetBidB2cycuz1BeJSSDsMo/edit?usp=sharing) follow along with the session. 
+
+A recording of the second of two sessions can be found here:
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/pdB-WWeXNjg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
 ## Additional Resources 
 - Read: [The Role of Psychological Safety in Diversity and Inclusion](https://www.psychologytoday.com/us/blog/the-fearless-organization/202006/the-role-psychological-safety-in-diversity-and-inclusion) - Psychology Today 
 - Read: [The Fearless Organization by Amy C. Edmondson](https://www.amazon.com/Fearless-Organization-Psychological-Workplace-Innovation/dp/1119477247/ref=sr_1_1?keywords=The+Fearless+Organization&qid=1567701716&s=gateway&sr=8-1)
