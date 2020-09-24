@@ -284,28 +284,16 @@ The build track is where we plan, develop, and deliver value to our users by bui
 
 Label: `workflow::planning breakdown`
 
-The build track starts with Product Manager (PM), User Experience (UX), Software Engineer in Test (SET), and Engineering Managers (EM) breaking down the opportunities into well-defined issues.
+At GitLab we believe in [shipping the smallest possible change that provides value to our users](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc). This minimal viable change (MVC) allows us to iterate quickly and avoid over-engineering. In this phase, every validated solution should be
+broken down into the smallest possible issue(s). Check out [iteration strategies](#iteration-strategies) for help.
 
-For user-facing deliverables, Product Designers work with Engineering to validate technical feasibility during the `workflow::design` phase, but it's equally important to validate feasibility for work that users don't see in the UI, such as APIs and other technical features. Communicate these solutions using artifacts such as API docs, workflow diagrams, etc. Involve your Engineering Managers in creating and reviewing these artifacts to gain a shared understanding of the solution and receive input on feasibility.
+The outcome of the planning phase are well-defined issues and epics that provide enough context for the engineering team to start development right away. Issues and epics are the single source of truth and should provide all the context necessary. Consider using templates e.g. the [feature proposal template](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/.gitlab/issue_templates/Feature%20proposal.md). 
 
-1. PM applies the `workflow::planning breakdown` label.
-1. PM, UX, and EM do a final review of the designs to ensure everyone understands the solution.
-1. PM, UX, and EM start breaking down the implementation into smaller issues; it is recommended that story mapping is used.
-    - Story mapping is a recommended technique to do this in a rapid and collaborative fashion. The resulting issues should be written by PMs in user-story-style language whenever possible: "As a (who), I want (what), so I can (why/value)." Issues should not only be about feature details, but should also establish functional, performance, documentation, and security acceptance criteria. PM, UX, SET, and EM should evaluate customer impact of changes. In some cases, you need to update existing issues - if you were doing problem validation on an issue that already had a problem to solve/proposal in the issue (i.e., an older or customer-created issue), and you've come up with a new problem statement that isn't very close to the original, you should strongly consider opening a new issue for the new problem. Changing the problem statement in an issue almost always causes the discussion to become confused and may lose track of the original (potentially still valid for some users) problem statement.
-1. Using the output of story mapping, PM creates separate epics and issues for implementation. Use the [feature proposal template](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/.gitlab/issue_templates/Feature%20proposal.md) as a guide for writing both epics and features. For issues requiring documentation changes/additions, add the `documentation` label and complete other relevant [PM documentation responsibilities](https://docs.gitlab.com/ee/development/documentation/workflow.html#product-managers). For issues requiring new or updated UI text, add the `UI text` label.
-1. At this point, the original validation issue can be closed as further work labeling and activity will happen on the implementation issues.
-1. PM should break the issue down into the smallest possible iteration definition that adds customer value. Check out [iteration strategies](#iteration-strategies) for help.
-1. If sizing for it is large, or won't fit into a milestone, then PM + EM should collaborate to break it down further.
-1. If PM + EM can't figure out an iteration definition that will fit within the sprint/milestone, then it is ok to push it to the next milestone to give the team more time to find an iteration definition that will fit.
-1. SET owns the completion of the `Availability and Testing` section in the Feature Proposal to complete the definition of done. As we grow to reach our [desired ratio](/handbook/engineering/quality/#staffing-planning), we will only have the quad approach in groups where we have an assigned SET in place.
-   1. SET will review issues marked with `workflow:ready for development` around the 16th of each milestone and apply the `quad-planning::ready` label. If necessary, SET will coordinate with PM/EM to discuss specific issues as needed.  
-   1. SET is the DRI for the `Availability and Testing` section, ensuring that the strategy accounts for all test levels and facilitating discussions and feedback with the group.
-   1. SET determines if the feature change needs to run `package-and-qa` regression job, this is made clear in the above section.
-   1. If the SET has recommendations (e.g. running regression job, writing additional tests, etc.), the SET applies the `quad-planning::complete-action` label to the issue.  If no additional action needs to be taken, the SET applies the `quad-planning::complete-no-action` label to the issue.
-   1. The SET unassigns themselves from the issue.
-1. EM works with assignees to create a `Build Plan` that outlines the number of MRs and responsibilities for assigned team members. EM and PM provide a focus on [iteration](/handbook/product/#iteration) when reviewing these plans.
-1. EM applies `workflow::scheduling` to allow for a buffered priority queue.
-1. PM assigns them to a specific milestone/release. Follow the product development timeline when scheduling implementation issues into milestones. Note that engineering will apply the `workflow::ready for development` and `deliverable` labels during the next phase, in alignment with the PM.
+Keep in mind that different solutions require input from different DRIs. Breaking down solutions is almost always a collaborative and cross-functional activity that involves [Design, Backend, Frontend and Quality](/handbook/product/product-processes/#pm-em-ux-and-set-quad-dris). For example,  a solution may require frontend work, so early involvement of Product Design and Frontend Engineers is key.
+
+| Outcomes|Activities|
+|---|---|
+| Well-defined issue(s) | [Story mapping](https://about.gitlab.com/handbook/engineering/ux/ux-research-training/user-story-mapping/), writing [issue descriptions](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/.gitlab/issue_templates/), setting up [an epic structure](https://about.gitlab.com/handbook/product/product-processes/#epics), [weighting issues](https://docs.gitlab.com/ee/user/project/issues/issue_weight.html), [test planning](https://about.gitlab.com/handbook/engineering/quality/test-engineering/#test-planning)|
 
 ### Build phase 2: Develop & Test
 
