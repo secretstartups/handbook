@@ -14,7 +14,8 @@ title: Solutions Architect Processes
 {:.no_toc}
 
 ## SA Activity Capture
-Solutions Architects record all customer and prospect activity to promote **transparency** and **collaboration**.  By consistently capturing our customer facing activity, we can peform analysis for further reporting to establish **efficient** decision making for GitLab's business.  More information on this process can be found on the [SA Activity Capture](/handbook/customer-success/solutions-architects/processes/activity-capture) page.
+
+Solutions Architects record all customer and prospect activity to promote **transparency** and **collaboration**. By consistently capturing our customer facing activity, we can peform analysis for further reporting to establish **efficient** decision making for GitLab's business. More information on this process can be found on the [SA Activity Capture](/handbook/customer-success/solutions-architects/processes/activity-capture) page.
 
 ## Cross-functional Sales Team Processes
 
@@ -173,4 +174,4 @@ To be efficient as possible, this is the recommended approach:
     1. Be mindful and gift a minimum of 48-96 hr lead time.  _Properly done, PMs should have at least a weeks notice_
     1. Collaborate using the Account Management issue, history, running docs, and shared material
     1. [optional] Suggest an internal team call to coordinate materials and next steps
-1. **Communicate*: Set up a call with the prospect or customer to determine the next best steps.
+1. **Communicate**: Set up a call with the prospect or customer to determine the next best steps.
