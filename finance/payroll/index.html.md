@@ -27,7 +27,7 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
 - GitLab Inc (US) - ADP
 - GitLab GmbH (Germany) - CloudPay
 - GitLab LTD (UK) - Vistra
-- GitLab PTY (Australia) - [iiPay](#iipay)
+- GitLab PTY (Australia) - [iiPay](#iipay---australia)
 - GitLab PTY (New Zealand) - CloudPay
 - GitLab Canada Corp (Canada) - CloudPay
 
