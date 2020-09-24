@@ -103,7 +103,7 @@ The below channels are specific to the field organization.
 | Channel Name | Channel Access (Private/Public) | Description |
 | ------ | ------ | ------ |
 | #eastsales | public | Team channel for ENT U.S. East sales team |
-| #west-enterprise-gtm-team | private | Team channel for ENT U.S. West sales team |
+| #westsales | public | Team channel for ENT U.S. West sales team |
 | #emea-sals |  public | Team channel for ENT EMEA sales team |
 | #emea_mid-market_sales | public | Team channel for EMEA Mid-Market sales team |
 
