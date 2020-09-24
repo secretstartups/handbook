@@ -35,7 +35,7 @@ defined on our [team structure page](/company/team/structure/).
 
 
 ## Interim and Acting Leadership
-In some cases, a individual in the [Management group](#management-group), [Director group](#director-group), [S-group](#s-group), or even [E-group](#e-group) may have an "Interim" or "Acting" title.
+In some cases, a individual in the [Management group](/company/team/structure#management-group), [Director group](/company/team/structure#director-group), [S-group](/company/team/structure#s-group), or even [E-group](/company/team/structure#e-group) may have an "Interim" or "Acting" title.
 1. **Acting** means that someone is occupying this role temporarily and will move back to their original role after a set amount of time or other conditions, such as an external hire.
 1. **Interim** means the individual is working on a promotion into the role.
 
@@ -247,7 +247,7 @@ We sometimes self-organize [book clubs](/handbook/leadership/book-clubs) to read
     * [Chase Wright's notes](https://docs.google.com/document/d/1Uxva11x1YX4zci1FHmF45UTYjGLPMU5HmrbmflINoG4/)
 1. [The score takes care of itself - Bill Walsh - PDF](http://coachjacksonspages.com/The%20Score%20Takes%20Care.pdf)
 1. [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.goodreads.com/book/show/15014.Crucial_Conversations) - Kerry Patterson
-    * Notes from the [E-group](#e-group) reading:
+    * Notes from the [E-group](/company/team/structure#e-group) reading:
         * Virtual teams are much more likely to fail on crucial conversations than colocated teams
         * We need to develop the skill of sensing the tone of a-sync conversations to uncover potential issues
         * We need to find a way to create psychological safety for people in official channels
