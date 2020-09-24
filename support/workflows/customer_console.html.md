@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Customer Console
-category: GitLab.com
+category: License and subscription
 ---
 
 ## On this page
