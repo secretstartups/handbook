@@ -147,7 +147,7 @@ Unfortunately, the reason I wanted to speak with you is because we have decided 
 1. ***PBP***: The PBP will also make it clear that the decision is final, but also will genuinely listen to the team member's side of the story since there may be useful lessons in what they say for the rest of the team e.g. regarding hiring and vetting practices.
 1. ***PBP***: Make sure to communicate the [practical points](#offboarding-points) from the offboarding memo outlined below.
 1. ***Specialist***: Once the conversation is complete, the PBP will notify the Specialist to stage the severance document in HelloSign for review and signatures.
-1. ***Specialists***: If appropriate (default is that it is appropriate), send an [offboarding memo](#offboarding-memo) to the departing team member. 
+1. ***Specialists***: If appropriate (default is that it is appropriate), send an [offboarding memo](#sample-offboarding-memo) to the departing team member.
 
 ## Offboarding Slack Workflow 
 This section will define key terms in offboarding slack workflow forms. 

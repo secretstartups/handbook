@@ -67,7 +67,7 @@ The investigation findings will be reported back to the CPO. Based on the invest
 
 #### How to Contact GitLab's 24-hour hotline:
 
-GitLab has engaged Lighthouse Services to provide an anonymous ethics and compliance hotline for all team members. The purpose of the service is to insure that any team member wishing to submit a report anonymously can do so without the fear of [retribution](#commitment-to-non-retaliation).
+GitLab has engaged Lighthouse Services to provide an anonymous ethics and compliance hotline for all team members. The purpose of the service is to insure that any team member wishing to submit a report anonymously can do so without the fear of [retribution](/handbook/people-group/people-policy-directory/#commitment-to-non-retaliation).
 
 Reports may cover but are not limited to the following topics: ethical violations, wrongful discharge, unsafe working conditions, internal controls, quality of service, vandalism and sabotage, [sexual harassment](/handbook/anti-harassment/#sexual-harassment), theft, discrimination, conduct violations, alcohol and substance abuse, threats, fraud, bribery and kickbacks, conflict of interest, improper conduct, theft and embezzlement, violation of company policy, violation of the law, misuse of company property, falsification of contract, reports or records.
 
