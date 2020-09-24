@@ -163,6 +163,13 @@ Please be aware that new team members' PTO Ninja accounts are activated and sync
 * `/ninja help` A top-level look at PTO Ninja items that you may need help with, and how to receive help.
 * `/ninja settings` This is where you modify your profile and calendar settings. This is also where you opt-in and out-put for reminders, including monthly messages prompting you to consider what PTO you may take this month.
 
+#### PTO Ninja / BambooHR Time Off Sync
+
+* The **Vacation** OOO type in PTO Ninja syncs to **Employee Accruals** in the team member's Time Off tab in BambooHR.
+* The **Out Sick** OOO type in PTO Ninja syncs to **Sick Time** in the team member's Time Off tab in BambooHR.
+* The **Parental Leave** OOO type in PTO Ninja syncs to **Parental Leave** in the team member's Time Off tab in BambooHR.
+* The **Public Holiday**, **Bereavement**, **Customer Visit**, **Conference**, **Mandatory Civilian Service**, **Family Time**, **Self Care**, **Workout**, **Away from Screen**, **Homeschooling** and **Family & Friends Day** OOO types in PTO Ninja do not sync to BambooHR.
+
 #### Additional Features
 
 ##### Google Calendar Sync
@@ -179,7 +186,7 @@ PTO Ninja provides an experience that allows you to set roles and tasks for co-w
 you’re away. Accepted roles then become a part of a Slack away message that appears as
 co-workers try to tag you in discussions while you’re OOO.
 
-##### Bulk add holidays
+##### Bulk Add holidays
 
 You can bulk add holidays based on your region and then modify them manually if needed. Any Public Holidays added to PTO Ninja in your dashboard will not auto-set an OOO event for you, you will still need to create an OOO event if observing that holiday. To add a Public Holiday, follow the below instructions.
 
@@ -230,6 +237,8 @@ If as a manager you are notified that your direct report has been incapacitated 
 1. Select the team member's name and find the OOO event in their history.
 1. Delete said entry using the `[...]` overflow menu on the righthand side of the screen.
 1. Add a new OOO event(s) by clicking the +Add Event button.
+
+Please note that if a OOO event is in progress, it can be edited by Admins. Once the event has completed and synced to BambooHR, both the BambooHR and PTO Ninja events have to be deleted for the new correct event to be saved to BambooHR.
 
 ### Recognizing Burnout
 
