@@ -41,7 +41,7 @@ You can post on the `#demo-systems` Slack channel to discuss ideas informally.
 
 ## Legacy Roadmap
 
-When the demo systems team was established in October 2019, we created a preliminary phased roadmap that is shown below for historical reference. This legacy roadmap has been deprecated and replaced with the [Current Initiatives](#current-initatives) below with our ongoing iterations and OKRs.
+When the demo systems team was established in October 2019, we created a preliminary phased roadmap that is shown below for historical reference. This legacy roadmap has been deprecated and replaced with the [Current Initiatives](#current-initiatives) below with our ongoing iterations and OKRs.
 
 ## Current Initiatives
 

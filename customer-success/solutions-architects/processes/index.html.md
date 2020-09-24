@@ -50,7 +50,7 @@ The entire cross-functional team should help in the preparation of the QBR conte
 
 Solution Architects may participate in initial qualifying meetings (IQM's) or allow the SDR and SAL/AE to manage the initial call and utilize information gained during it for additional preparation. Teams can handle this on a case by case basis.
 
-Solution Architects should participate in [technical discovery](#### Technical Discovery and Demo Preparation) after lead qualification is complete and in other activities during the sales process that lead to a technical win, e.g.
+Solution Architects should participate in [technical discovery](#technical-discovery-and-demo-preparation) after lead qualification is complete and in other activities during the sales process that lead to a technical win, e.g.
 
 - GitLab demos
 - GitLab technical deep dives
