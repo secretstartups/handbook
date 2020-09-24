@@ -78,7 +78,7 @@ Known failures should be linked to the current [pipeline triage report](https://
    1. [`failure::flaky-test`](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=failure%3A%3Aflaky-test)
    1. [`failure::stale-test`](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=failure%3A%3Astale-test)
 1. If the issue has already been reported please use the existing issue to track the latest status.
-1. If there is no existing issue for the failure, please create an issue using one of [classification labels](#4-classify-and-triage-the-test-failure) via the steps below.
+1. If there is no existing issue for the failure, please create an issue using one of [classification labels](#classify-and-triage-the-test-failure) via the steps below.
 
 In the relevant Slack channel:
 
