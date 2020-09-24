@@ -51,7 +51,7 @@ We use the following boards are used to monitor this process
 
 #### Plan
 
-We use the [Planning Boards](#planning-boards) to triage issues that are not yet planned for a milestone. Issues in this board are labeled _cicd::planning_ and the group label _group::release management_.
+We use the [Planning Boards](#planning-board) to triage issues that are not yet planned for a milestone. Issues in this board are labeled _cicd::planning_ and the group label _group::release management_.
 
 The Product Manager (PM) owns this board and uses it to advance issues through to becoming feasible Epics. When work leaves this board, it is in a fit state for the engineering team to implement the issue.
 
@@ -99,7 +99,7 @@ This signifies that from both a product and engineering point of view, this issu
 
 #### Schedule
 
-We use the [Scheduling boards](#scheduling-boards) for this phase.
+We use the [Scheduling boards](#scheduling-board) for this phase.
 
 Once per week, the PM and EM will meet to discuss the work that is currently active, and queue prepared items for development.
 
@@ -119,7 +119,7 @@ The agenda for the meeting is:
 
 #### Build
 
-We use the [Build boards](#build-boards) to look at _cicd::active_ issues in the current milestone labeled with _group::release management_.
+We use the [Build boards](#build-board) to look at _cicd::active_ issues in the current milestone labeled with _group::release management_.
 
 Because of the way that the boards in GitLab work, we needed to limit this to the started milestone, but are looking at how to have this roll in a more continuous manner.
 
@@ -243,4 +243,4 @@ In order, that means:
 
 - Can you help anyone with reviews?
 - Can you unblock anyone in development?
-- Pick from the top of the "ready for development" column on the [Build boards](#build-boards).
+- Pick from the top of the "ready for development" column on the [Build boards](#build-board).

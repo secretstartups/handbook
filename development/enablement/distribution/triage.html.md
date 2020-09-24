@@ -77,7 +77,7 @@ triage duty can be summarized as follows
    project, but is more of a request for help for
    installing/configuring/troubleshooting a GitLab instance, close the issue
    using the ["problems not related to package installation and
-   configuration" response](#for-problems-not-related-to-package-installation-and-configuration).
+   configuration" response](#for-problems-not-related-to-the-gitlab-codebases).
 1. If an issue doesn't have all necessary information to successfully triage the
    issue, request the information using the ["issues that lack enough
    information" response](#for-issues-that-lack-enough-information) and
