@@ -415,44 +415,15 @@ Requests to override the TSP information can also be submitted in the Account Re
 
 ### **What if TSP is wrong? How can I request a change?**
 
-In the event our data enrichment tools are outdated or incorrect (primary address or employee count), you can submit a request to override this information.
+In the event our data enrichment tools are outdated or incorrect (primary address or employee count), you can chatter `@sales-support` and request for an update. Please provide as much detail as possible for the requested change and website links with the information to be reviewed. Please allow at least 48 hours for account changes to take place once the review process begins.
 
-<details>
-<summary markdown='span'>Process for Requesting TSP Changes:</summary>
-
-**Sales Request Process:**
-* Enter desired TSP information into the following fields (this can be either Account, Employee Count, or both).
-* Be sure to include source of correct data (ROE must still be followed)   
-          
-    * `[User Input] Employee Count`
-
-    * `[User Input] Employee Source` 
-
-    * `[User Input] Address Street`
-
-    * `[User Input] Address City`
-
-    * `[User Input] Address State`
-
-    * `[User Input] Address Post Code`
-
-    * `[User Input] Address Country`
-
-    * `[User Input] Address Source`
-
-* Ops will review these requests on a weekly basis and provide a response in the `[TSP] Override Status` field:
-    *  **Approved** - Account changes accepted
-    *  **Rejected** - Reason added to `[TSP] Decision Rationale` field.
-    *  **Needs Approval/More Info** - Info needed added to `[TSP] Decision Rationale` field.          
-
-*  Once reviewed and if approved by Ops, turnaround time for Approved TSP changes will take 48 hours re-populate.
 
  <details>
 <summary markdown='span'>Operators Guide: Process for Requesting TSP Changes:</summary>         
 
 **Operations Review Process:**
 
-* Ops will review these requests on a weekly basis and update the Account Review Admin fields on the account with the accepted `[User Inputs]` data
+* Ops will be assigned cases to review and make updates to the `[User Inputs]` data
           
     * `Number of Employees: Manual - Admin`
 
@@ -470,8 +441,8 @@ In the event our data enrichment tools are outdated or incorrect (primary addres
 
     * `[Admin] Address Country` 
 
-* Ops provide the response in the `[TSP] Override Status` field:
-    *  **Approved** - Account changes accepted, & enter the`[TSP] Transfer Date` date at least one day in the future to allow Salesforce jobs to upate overnight before the TSP job runs.
+* Ops provide the response in the `[TSP] Override Status` field and triggers the update: 
+    *  **Approved** - Account changes accepted, & enter the`[TSP] Transfer Date` date 48 hours in the future to allow Salesforce jobs to upate.
     *  **Rejected** - Reason added to `[TSP] Decision Rationale` field.
     *  **Needs Approval/More Info** - Info needed added to `[TSP] Decision Rationale` field.
 
