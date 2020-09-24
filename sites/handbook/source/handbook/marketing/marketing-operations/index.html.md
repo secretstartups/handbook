@@ -252,7 +252,7 @@ A Marketing Qualified Lead is a lead that has reached a certain threshold, we ha
 
 ### MQL Scoring Model
 
-The overall model is based on a 100 point system. Positive and negative points are assigned to a record based on their demographic and/or firmographic information, and their behavior and/or engagement with GitLab marketing. You can find granular scoring on the [Marketo Page](/handbook/marketing/marketing-operations/marketo#mql-scoring-model).
+The overall model is based on a 90 point system. Positive and negative points are assigned to a record based on their demographic and/or firmographic information, and their behavior and/or engagement with GitLab marketing. You can find granular scoring on the [Marketo Page](/handbook/marketing/marketing-operations/marketo#mql-scoring-model).
 
 ## Campaign Cost Tracking
 
