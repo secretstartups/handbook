@@ -83,7 +83,7 @@ During Week 3 of our [Manager Challenge Pilot](https://about.gitlab.com/handbook
 A recording of the second of two sessions can be found here:
 
 <figure class="video_container">
-  <iframe width="560" height="315" src="add url" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/pdB-WWeXNjg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 ## Additional Resources 
