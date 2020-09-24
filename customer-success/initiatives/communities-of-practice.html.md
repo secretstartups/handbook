@@ -18,7 +18,6 @@ Communities of Practice are self-organized, cross-functional groups of _Subject 
 The content and assets are [aggregated into a single group](https://gitlab.com/gitlab-com/customer-success/communities-of-practice) to maximize discoverability. Each Community of Practice has a project which contains a Readme of links and an issue board for discussion.
 
 
-
 ### Roles and Responsibilities
 
 | Role                  | Responsibility                                                                                                                                                            |
@@ -33,6 +32,24 @@ The content and assets are [aggregated into a single group](https://gitlab.com/g
 * Time commitment can vary depending on involvement, but the expectation is 3-5 hours a month for active members. 
 * CoP can be managed through Async communication, but the core team should meet once a month to ensure content is maintained and updated.
 
+### Participating in a Community of Practice
+
+Anyone can establish or particpate in an existing Community of Practice. Below you will find the ones that are active. If you are interested in starting a new one, please follow the process outlined below.
+
+#### Active Communities of Practice
+
+| Subject                             | Members                                                                                                                                                                   |
+|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infrastructure As Code              | [@DarwinJS](https://gitlab.com/DarwinJS), [@jsandlin](https://gitlab.com/jsandlin), [@jrandazzo](https://gitlab.com/jrandazzo)                                                                                                                                            |
+| Gitlab/VMware TKGI (PKS) deployment | [@samer.akkoub](https://gitlab.com/samer.akkoub)                                                                                                                                                             |
+
+#### Suggested Communities of Practice
+
+There are reoccurring topics from prospects and customers that could be a good fit for a CoP. If you are looking to build a new CoP but unsure what would be most impactful, this is an excellent place to start!
+
+* Cloud-Native Deployments
+* Open Shift
+
 ### Process
 
 1. Establish a topic to build a community of practice.
@@ -43,18 +60,4 @@ The content and assets are [aggregated into a single group](https://gitlab.com/g
 6. Update this handbook page under the table "Active Communities of Practice."
 7. Setup a slack channel using the `#cp_` prefix so team members know where to go for help.
 
-### Participating in a Community of Practice
 
-### Active Communities of Practice
-
-| Subject                             | Members                                                                                                                                                                   |
-|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infrastructure As Code              | @DarwinJS @jsandlin @jrandazzo                                                                                                                                            |
-| Gitlab/VMware TKGI (PKS) deployment | @samer.akkoub                                                                                                                                                             |
-
-### Suggested Communities
-
-There are reoccurring topics from prospects and customers that could be a good fit for a CoP. If you are looking to build a new CoP but unsure what would be most impactful, this is an excellent place to start!
-
-* Cloud-Native Deployments
-* Open Shift
