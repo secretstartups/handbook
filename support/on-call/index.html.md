@@ -159,7 +159,7 @@ Remember to say only things that help the customer and that maintain their confi
 - *I'm working on finding someone who has specific expertise in this area.*
 - *I don't know the answer just yet, but I'm here for you and I will use all the resources at my disposal to get this resolved.*
 
-If you're stuck _and_ are having difficulty finding help, contact the [manager on-call](#manager-on-call) or initiate the [dev-escalation process](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process).
+If you're stuck _and_ are having difficulty finding help, contact the [manager on-call](#support-manager-on-call) or initiate the [dev-escalation process](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process).
 
 ### Post-call
 Before ending an emergency customer call, let the customer know what to do if there is any follow-up, and who will be available if any follow-up is required.

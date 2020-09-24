@@ -63,7 +63,7 @@ Our [Support Service Levels](https://about.gitlab.com/support/#gitlab-support-se
 1. The [First Response Time Hawk](/handbook/support/workflows/meeting-service-level-objectives.html#first-response-time-hawk) makes sure that new tickets are triaged and get a reply as soon as possible.
 1. The [SLA Hawk](/handbook/support/workflows/meeting-service-level-objectives.html#sla-hawk) draws attention to tickets that are near SLA breach.
 
-**You should balance your time supporting the SLA hawk with the ['Solve Support Tickets'](#1-solve-support-tickets) responsibility above.**
+**You should balance your time supporting the SLA hawk with the ['Solve Support Tickets'](#1-solve-support-tickets-daily) responsibility above.**
 
 **What does success look like?**
 

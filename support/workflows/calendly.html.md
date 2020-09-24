@@ -28,7 +28,7 @@ Modify your setup as follows
 
 ### GitLab Support group account
 
-In order to participate in the [round-robin support call](#Self_managed_round-robin) for self-managed customers, you'll need to be added to the GitLab Support group account. In addition to allowing you to participate in the Support call group event, being part of the group account also enables the Calendly Pro account features, including the ability to add multiple ["event types"](https://help.calendly.com/hc/en-us/categories/203257248-Customize-Event-Types) for scheduling calls with customers and colleagues as recommended in the [suggestions](#Suggestions) below.
+In order to participate in the [round-robin support call](#self-managed-round-robin) for self-managed customers, you'll need to be added to the GitLab Support group account. In addition to allowing you to participate in the Support call group event, being part of the group account also enables the Calendly Pro account features, including the ability to add multiple ["event types"](https://help.calendly.com/hc/en-us/categories/203257248-Customize-Event-Types) for scheduling calls with customers and colleagues as recommended in the [suggestions](#suggestions) below.
 
 To get added to the group account:
 
@@ -58,7 +58,7 @@ The support team has a Team Support Call event.
 
 We use this to offer customers the choice between meeting with one engineer, or scheduling a meeting with anyone in the team.
 
-Part of your [support onboarding](/handbook/support/training/), once you're ready and you've been added to the [GitLab Support group account](#GitLab_Support_group_account), is to request to be added to the support call event.
+Part of your [support onboarding](/handbook/support/training/), once you're ready and you've been added to the [GitLab Support group account](#gitlab-support-group-account), is to request to be added to the support call event.
 
 To be added to the support call event:
 

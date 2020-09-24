@@ -98,7 +98,7 @@ If no error is found and the import is partial, most likely it is a timeout issu
 - **Repository shows 0 commits**.
   - See [15348](https://gitlab.com/gitlab-org/gitlab/issues/15348).
 
-Use the `GitLab.com::Import::Determine_Eligibility.json` Zendesk macro to make the requestor aware of all of these requirements and get additional details from them. If the requestor's case is approved based on their followup reply, move on to [Stage 2: Offering Import & Preparation](#stage-2-offering-import-&-preparation).
+Use the `GitLab.com::Import::Determine_Eligibility.json` Zendesk macro to make the requestor aware of all of these requirements and get additional details from them. If the requestor's case is approved based on their followup reply, move on to [Stage 2: Offering Import & Preparation](#stage-2-offering-import--preparation).
 
 ## Stage 2: Offering Import & Preparation
 

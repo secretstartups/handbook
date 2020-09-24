@@ -235,10 +235,10 @@ see the GIF below. The following values of `GitLab Plan` may cause the absence o
 - `Community`. It means that the organization is an educational institution that obtained a license according to
 [GitLab for Education](https://about.gitlab.com/solutions/education/), and this license does not have support included
 unless it was purchased additionally. Their tickets **will have no SLA**, and it is expected behavior. You may explore their
-status on the SFDC side according to [Finding the existing organization in SFDC](#finding-the-existing-organization-in-sfdc).
+status on the SFDC side according to [Finding the existing organization in SFDC](#finding-the-existing-organization-in-sfdc-aka-salesforce).
 
 - `Expired`. In general, it means that their self-managed license or GitLab.com subscription is expired
-but often it can be caused by some incorrect information on the SFDC side. Follow the section [Handling customers with expired licenses and updating info on SFDC side](#handling-customers-with-expired-licenses-and-updating-info) to fix it,
+but often it can be caused by some incorrect information on the SFDC side. Follow the section [Handling customers with expired licenses and updating info on SFDC side](#handling-customers-with-expired-licenses-and-updating-info-on-sfdc-side) to fix it,
 and then follow the [Fixing tags for tickets with `Expired` organization](#fixing-tags-for-tickets-with-expired-organization) section.
 Note that we have [an ongoing issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/634)
 that causes a lot of accounts to be incorrectly shown as `Expired` in SFDC. Follow the same workflow to deal with them.
