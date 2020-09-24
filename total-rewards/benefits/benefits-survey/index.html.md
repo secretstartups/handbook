@@ -42,18 +42,15 @@ Thank you again for playing a part in our efforts to continually improve total r
   * [Ireland](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/167): Pending implementation, plan design complete.   Singapore, India,
 * Existing Entity Benefits Review
   * Netherlands: Implement a Pension Plan. [Related Issue](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/179)
-
-* Review Wellness Offerings for FY22 as similar response to 2019 survey that this is the top benefit team members would want to see implemented (especially in EMEA market).
-* Canada Pension Plan
-*
-* Belgium Benefits  
-* UK Benefits
-* Germany entity specific benefits
-* Hungary conversion
-* Review 401k plan 2.69/5
+ * Review Wellness Offerings for FY22 as similar response to 2019 survey that this is the top benefit team members would want to see implemented (especially in EMEA market).
+ * Canada Pension Plan
+ * Belgium Benefits  
+ * UK Benefits
+ * Germany entity specific benefits
+ * Hungary conversion
+ * Review 401k plan match  
 * Review Paid Medical Leave Plan for 16 weeks
-* Review Coaching Program for Parental Leave. [Related Issue](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/130)
-
+ * Review Coaching Program for Parental Leave. [Related Issue](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/130)
 
 ### Global Benefits Survey Results 2020
 
