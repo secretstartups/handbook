@@ -76,7 +76,7 @@ The goal of developing and presenting a good pitch is to obtain a **verbal commi
 
 #### 1.2.1 Align Customer Problems with Value Drivers
 
-As a GitLab sales representative you should know from your discovery calls and research your customers pain points well enough to match them to one if not all of the GitLab Value Drivers. GitLab has the following three [value drivers](/handbook/sales/command-of-the-message/#gitlab-value-framework):
+As a GitLab sales representative you should know from your discovery calls and research your customers pain points well enough to match them to one if not all of the GitLab Value Drivers. GitLab has the following three [value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers):
 *   Increase Operational Efficiencies
 *   Deliver Better Products Faster
 *   Reduce Security and Compliance Risk

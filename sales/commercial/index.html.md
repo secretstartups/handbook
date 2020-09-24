@@ -28,7 +28,7 @@ Please ensure you read the [Commercial Sales onboarding page](/handbook/sales/co
 
 1. Bookmark the relevant SalesForce dashboard for your region, this is essential to your success. Your Manager will give you the link when you first join.
 1. Get familiar with the [close date conventions](https://docs.google.com/document/d/1TK3X22rBPIOwR9PkopK4snmVVkyCyvdTwKJ_eszH48I/edit?usp=sharing) used in Commercial Sales.
-1. Ensure you fully understand [the Required 7](/handbook/sales/commercial/#the-required-7). Your teammates and manager are more than happy to help you with this if you need it.
+1. Ensure you fully understand [the Required 7](/handbook/sales/commercial/#required-7). Your teammates and manager are more than happy to help you with this if you need it.
 1. Read through reviews of GitLab to get an idea of what customers think about the product. Two good places to start are [Softwareadvice.com](https://www.softwareadvice.com/project-management/gitlab-profile/reviews/) and [Gartner Reviews](https://www.gartner.com/reviews/market/application-release-orchestration-solutions/vendor/gitlab/product/gitlab).
 1. Watching videos is core to your onboarding. You can watch YouTube & Chorus videos at 1.5x or 1.75x speed to get through them efficiently, you can still retain the information but in less time. Go to the Settings widget > Playback speed.
 1. When you first start, searching through Slack is a great way to find useful information as it's our primary method of asking questions and announcing things to the company. Some channels that are particularly good for information:
@@ -151,7 +151,7 @@ New team members should familiarize themselves with [The Required 7](/handbook/s
     - Meaningful information on why we won/lost a deal
 1. Logging your [call notes](/handbook/sales/commercial/enablement/#sales-note-taking) [video on taking efficient notes during a meeting](https://youtu.be/CMMQ5R0pq8I) and top tips from a top performer [here](https://www.youtube.com/watch?v=CKRvxM2F5zc)
 1. [Updating your next steps](/handbook/sales/commercial/#opportunity-next-steps-best-practices) - [video here](https://youtu.be/74OKSNWoN8Q)
-1. [Command plans](/handbook/sales/command-of-the-message/#command-plan), what needs to be filled in:
+1. [Command plans](/handbook/sales/command-of-the-message/command-plan/), what needs to be filled in:
     - $5k SMB, $10k MM **Amount** - All fields in opportunity overview (the whys) and close-plan over this Amount threshold
     - $10k SMB, $20k MM **iACV** - Full Command Plan over this iACV threshold
     - If you don’t yet know the answers or have the data, you will populate the Command Plan fields with your script and next steps to get that information

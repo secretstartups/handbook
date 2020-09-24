@@ -19,7 +19,7 @@ The Documentation below is organized by Feature, each section will have the rele
 ---
 
 ## Related Documentation
-- [Gainsight Go-To-Market Technical Documentation](/handbook/sales/field-operations/sales-systems/gtm_technical-documentation/gainsight)
+- [Gainsight Go-To-Market Technical Documentation](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/gainsight/)
 
 ## Territory Success Planning
 <details>
