@@ -33,7 +33,6 @@ All of the benefits listed below are administered and managed by [Global Upside]
 
 Global Upside has a provident fund that the members pay to the government. This is included in the CTC. It ensures retirement benefits and family pensions on death in service. EPF benefits typically extend to all employees in an organization
 
-
 * Member Contribution(% of base salary):
 EPF: 3.67% and EPS: 8.33%, Total Contribution: 12%
 
@@ -100,7 +99,7 @@ PhilHealth is a government corporation attached to the Department of Health. It 
 ### Medical Benefits
 
 * GitLab offers International Healthcare Insurance through [NOW Health International](https://www.now-health.com/en/) which covers 100% of team member contributions and 66% for spouse & kids of premiums for medical, vision, dental and maternity coverage.
-* For additional information on how [Benefits](https://drive.google.com/file/d/1wUtwcJkUqKgW7radXM6pJoTELGGHOyzp/view?usp=sharing) operate, please check out the documentation on the Google Drive or NOW health international’s [information](https://www.now-health.com/en/document-library/).
+* For specific information on how your benefits operate, please read the [NOW WorldCare Member's Handbook](https://drive.google.com/drive/search?q=%22PH-NOW%20WorldCare%20Members%20Handbook%22). Feel free to also peruse NOW Health International’s [document library](https://www.now-health.com/en/document-library/).
 
 ### 13th Month Pay
 
