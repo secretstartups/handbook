@@ -169,7 +169,7 @@ Labels: `workflow::design`
 
 Once we understand and have validated the problem, we can begin to ideate potential solutions. The Product Designer leads the team of Product Management and Engineering (as well as User Experience and Research, Quality Engineering, and Tech Writers as needed depending on the item) in ideating potential solutions and exploring multiple different approaches (e.g. diverge). Product Managers and Engineers evaluate the solutions by determining whether they meet customer and business goals as well as technical feasibility. The team is encouraged to engage with stakeholders to help uncover potential flaws, missed use cases, customer impact in the solution. Once the team has converged on the proposed solution (or identified a small set of options to validate), the issue moves into the Solution Validation phase.  
 
-To start the Design phase, the Product Designer or Product Manager applies the `workflow::design` label to an existing issue or creates a new issue, if needed.
+To start the Design phase, the Product Designer or Product Manager applies the `workflow::design` label to an existing issue or if needed, creates a new issue with this label.
 
 | Outcomes|Activities|
 |---|---|
