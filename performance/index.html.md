@@ -143,7 +143,7 @@ Consider the scenario of a user opening their browser, and surfing to their dash
        - Now that the browser knows where to find the IP address, browser sends the web
     request (for gitlab.com/dashboard) to Azure's load balancer (LB).
 1. <a name="backend-processes"></a> [**Backend processes**](#tb-backend-processes)
-    1. <a name="AzLB2HAProxy"></a> [Azure LB to HAProxy](#tb-Az2LB2HAProxy) (not measured)
+    1. <a name="AzLB2HAProxy"></a> [Azure LB to HAProxy](#tb-AzLB2HAProxy) (not measured)
        - Azure's load balancer determines where to route the packet (request), and
        sends the request to our Frontend Load Balancer(s) (also referred to as
          HAProxy).
@@ -237,7 +237,7 @@ Consider the scenario of a user opening their browser, and surfing to their dash
       In the dashboard linked to by the tachometer above, First Byte is measured
       from a Digital Ocean box in the US with relatively little network lag thus
       representing an estimate of _internal_ First Byte. Past performance on
-      first byte is recorded [elsewhere on this page](#first-byte-external).
+      first byte is recorded [elsewhere on this page](#external).
       - For any page, you can use your browser's "inspect" tool to look at "TTFB" (time to first byte).
       - [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](http://207.154.197.115/gl/sitespeed-result/gitlab.com/)
       `First Byte - External` is measured for a hand selected number of URLs using [SiteSpeed](https://sitespeed.io)
@@ -329,7 +329,7 @@ Guide to this table:
 | <a name="tb-request-reaches-BE"></a>[**USER REQUEST**](#request-reaches-BE) |               |         |         |              |                        |
 | <a name="tb-lookup-IP"></a>[Lookup IP in DNS](#lookup-IP)                          |     1         |~10| ? |~10|  [Use a second DNS provider](https://gitlab.com/gitlab-com/infrastructure/issues/1711)  |
 | <a name="tb-browser2AzLB"></a>[Browser to Azure LB](#browser2AzLB)                    |     1         |~10| ? |~10|                        |
-| <a name="tb-backend"></a>[**BACKEND PROCESSES**](#backend-processes) |    |         |         |              | [Extend monitoring horizon](https://gitlab.com/gitlab-com/infrastructure/issues/1879) |
+| <a name="tb-backend-processes"></a>[**BACKEND PROCESSES**](#backend-processes) |    |         |         |              | [Extend monitoring horizon](https://gitlab.com/gitlab-com/infrastructure/issues/1879) |
 |<a name="tb-AzLB2HAProxy"></a>[Azure LB to HAProxy](#AzLB2HAProxy)                     |     1         |~2| ? |~2|                        |
 |<a name="tb-HAProxy-SSL"></a>[HAProxy SSL with Browser](#HAProxy-SSL)                 |     1         |~10| ? |~10| [Speed up SSL](https://gitlab.com/gitlab-com/infrastructure/issues/2321) |
 |<a name="tb-HAProxy2NGINX"></a>[HAProxy to NGINX](#HAProxy2NGINX)              |     1         |~2| ? |~2|                        |
@@ -355,7 +355,7 @@ Guide to this table:
 |<a name="tb-renderpage"></a>[**RENDER PAGE**](#renderpage) |  |         |         |              |                        |
 |<a name="tb-browser-firstbyte"></a> [**FIRST BYTE**](#browser-firstbyte) (see [note 1](#note-blackbox))]  |   | **1080 - 6347** |   [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](https://dashboards.gitlab.net/dashboard/db/gitlab-web-status)      | **1000**  |                        |
 |<a name="tb-reaching-speed-index"></a>[**SPEED INDEX**](#reaching-speed-index) (see [note 2](#note-fp-times)) |  | **3230 - 14454** | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](http://207.154.197.115/gl/sitespeed-result/gitlab.com/)  |   **2000**     | [Remove inline scripts](https://gitlab.com/gitlab-org/gitlab-ce/issues/34903), [Defer script loading when possible](https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/12759), [Lazy load images](https://gitlab.com/gitlab-org/gitlab-ce/issues/34361), [Set up a CDN for faster asset loading](https://gitlab.com/gitlab-com/infrastructure/issues/2092), [Use image resizing in CDN](https://gitlab.com/gitlab-org/gitlab-ce/issues/34364) |
-|<a name="tb-reaching-fullyLoaded"></a>[Fully Loaded](#reaching-fullyLoaded) (see [note](#note-fl-times)) |  |   6093 - 14003   |  [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](http://207.154.197.115/gl/sitespeed-result/gitlab.com/)  |  not specified  |   [Enable webpack code splitting](https://gitlab.com/gitlab-org/gitlab-ce/issues/33391) |
+|<a name="tb-reaching-fullyLoaded"></a>[Fully Loaded](#reaching-fullyLoaded) (see [note](#note-fl-time)) |  |   6093 - 14003   |  [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](http://207.154.197.115/gl/sitespeed-result/gitlab.com/)  |  not specified  |   [Enable webpack code splitting](https://gitlab.com/gitlab-org/gitlab-ce/issues/33391) |
 |---------------------------------------------------------|---------------|---------|---------|--------------|------------------------|
 
 
