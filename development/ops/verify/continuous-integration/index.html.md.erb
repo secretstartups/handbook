@@ -63,7 +63,7 @@ classDiagram
 The following people are permanent members of the Verify:Continuous Integration group:
 
 ### Backend
-<%= direct_team(manager_role: 'Backend Engineering Manager, Verify:Continuous Integration') %>
+<%= direct_team(manager_role: 'Backend Engineering Manager, Verify:Continuous Integration and Pipeline Authoring', role_regexp: /Continuous Integration/) %>
 
 ### Frontend
 <%= direct_team(manager_role: 'Frontend Engineering Manager, Verify (Interim)', role_regexp: /Continuous Integration/) %>
@@ -72,7 +72,7 @@ The following people are permanent members of the Verify:Continuous Integration 
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Verify(?!:)|Continuous Integration/, direct_manager_role: 'Backend Engineering Manager, Verify:Continuous Integration', other_manager_roles: ['Frontend Engineering Manager, Verify (Interim)']) %>
+<%= stable_counterparts(role_regexp: /[,&] Verify(?!:)|Continuous Integration/, direct_manager_role: 'Backend Engineering Manager, Verify:Continuous Integration and Pipeline Authoring', other_manager_roles: ['Frontend Engineering Manager, Verify (Interim)']) %>
 
 ## Technologies
 
