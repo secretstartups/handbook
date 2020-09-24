@@ -64,6 +64,7 @@ git fetch
 git rebase origin/master
 git push origin  0000-branch-name
 ```
+
 ## How to Resolve Merge Conflicts
 
 ### Official GitLab Documentation
