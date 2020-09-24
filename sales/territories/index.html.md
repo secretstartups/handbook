@@ -42,11 +42,11 @@ title: "Sales Territories"
 
 {:.no_toc}
 
-- **VP Commercial Sales** ([Mid-Market](#mid-market-segment) & [Small Business](#small-business-segment)): Ryan O'Nell
+- **VP Commercial Sales** ([Mid-Market](#mid-market) & [Small Business](/handbook/sales/territories/territory-deprecate/#small-business-segment)): Ryan O'Nell
 - <b>[APAC](#apac)</b>: Anthony McMahon, Regional Director
 - <b>[Europe, Middle East and Africa](#emea)</b>: Jon Burghart, Regional Director
-- <b>[North America - US East](#us-east)</b>: Mark Rogge, Regional Director
-- <b>[North America - US West](#us-west)</b>: Haydn Mackay, Regional Director
+- <b>[North America - US East](/handbook/sales/territories/territory-deprecate/#us-east)</b>: Mark Rogge, Regional Director
+- <b>[North America - US West](/handbook/sales/territories/territory-deprecate/#us-west)</b>: Haydn Mackay, Regional Director
 - <b>[Public Sector](#public-sector)</b>: Paul Almeida, Director of Federal Sales
 
 ## Territories
