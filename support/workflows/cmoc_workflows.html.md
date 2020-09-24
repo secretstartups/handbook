@@ -57,6 +57,10 @@ In later sections of this workflow it's called out that at times you should be a
 
 Keep in mind that you can always [review past incidents](https://status.gitlab.com/pages/history/5b36dc6502d06804c08349f7) if you need examples or inspiration for how to fill in the details for a current incident.
 
+### Contacting a User
+
+Whether related to an ongoing incident or not, infra or security may ask you to reach out to one or more users if they detect unusual usage. Please follow the [internal requests workflow](internal_requests.html#contact-request) to log the request.
+
 ## The Incident Process
 
 As the CMOC you'll guide the incident through the following three stages.

@@ -14,7 +14,7 @@ category: GitLab.com
 
 For GitLab team members wanting to file an internal request, please see the [Support Internal Requests handbook page](/handbook/support/internal-support/).
 
-This document details the various templates and workflows that should be followed in order to properly service requests that Support receives in the [internal-requests](https://gitlab.com/gitlab-com/support/internal-requests/-/issues) issue tracker.
+This document details the various templates and workflows that should be followed in order to properly service GitLab.com related requests that Support receives in the [internal-requests](https://gitlab.com/gitlab-com/support/internal-requests/-/issues) issue tracker.
 
 Note: For internal requests relating to licenses and subscriptions, please refer to the [relevant license and subscription workflow](/handbook/support/workflows/#License%20and%20subscription), or [customers portal console workflow](/handbook/support/workflows/customer_console.html).
 
@@ -46,6 +46,8 @@ See [Name Squatting Policy](namesquatting_policy.html).
 ## Contact Request
 
 GitLab team members, primarily infra, will use this template to request Support to contact a user on their behalf. If requested to do this via Slack, open an issue on behalf of the requester.
+
+The requestor should contact the [CMOC](/handbook/support/internal-support/#regarding-gitlab-support-plans-and-namespaces) to fulfill the request.
 
 This typically requires GitLab.com admin access, because you will need to look up the relevant email addresses.
 
