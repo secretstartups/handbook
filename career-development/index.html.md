@@ -94,14 +94,14 @@ Process for selection:
 An Acting Manager is someone who occupies a role temporarily and will move back to their original role after a set amount of time or other conditions. An Acting Manager may be experimenting with the role as a part of determining their career development path, or may be filling in for a vacant role while we hire.
 
 ##### Interim Manager
-Interim Manager positions are for individuals who are pursuing the role long term: the requirement is that, before moving into the role full time, they will make at least one successful hire. The official promotion will not occur before 30 days after that person's hire, so that we can assess whether the hire was truly successful. If the new hire's success is indeterminate at the 30-day mark, then we will continue to review until a firm decision is made. If the new hire is not successful, that does not mean that the Interim Manager cannot eventually move into the full-time role. 
+Interim Manager positions are for individuals who are pursuing the role long term: the requirement is that, before moving into the role full time, they will make at least one successful hire. The official promotion will not occur before 30 days after that person's hire, so that we can assess whether the hire was truly successful. If the new hire's success is indeterminate at the 30-day mark, then we will continue to review until a firm decision is made. If the new hire is not successful, that does not mean that the Interim Manager cannot eventually move into the full-time role.
 
-In some cases it may not be practical or headcount planning might not allow for the Interim Manager to make a new hire. In this case the Interim Manager and the interim manager's manager should agree on success criteria based on the requirements of the role. Examples of other success criteria are (multiselect): 
+In some cases it may not be practical or headcount planning might not allow for the Interim Manager to make a new hire. In this case the Interim Manager and the interim manager's manager should agree on success criteria based on the requirements of the role. Examples of other success criteria are (multiselect):
 - Successfully pass an interview(s) with the Leader(s) of the department(s) around team management competencies/scorecard for Manager;
 - Successfully pass team member relations case role play with the [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division);
 - Performing career development conversations with direct reports successfully;
-- Perform a [Talent Assessment](/handbook/people-group/performance-assessments-and-succession-planning/#talent-assessment-options) with the manager's manager to determine readiness for the role; 
-- Gather 360 feedback via Culture Amp for the manager. 
+- Perform a [Talent Assessment](/handbook/people-group/performance-assessments-and-succession-planning/#talent-assessment-options) with the manager's manager to determine readiness for the role;
+- Gather 360 feedback via Culture Amp for the manager.
 
 Once the Interim Manager's first new hire has been at GitLab for 30 days, or other agreed success criteria has been met, the Interim Manager can submit a [promotion document](/handbook/people-group/promotions-transfers/#for-managers-requesting-a-promotion-or-compensation-change) to their manager and determine the [compa group](/handbook/total-rewards/compensation/compensation-calculator/#determining) for the new role. The goal of this process is to have a determination made by the interim manager's manager about the promotion to a permanent manager role after the agreed success criteria has been satisfied. Generally we aim to have the interim period not to exceed 4 months before turning into a fulltime role.
 
@@ -179,14 +179,14 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   qual:iset(Intermediate Software Engineer in Test)-->qual:sset(Senior Software Engineer in Test);
   qual:sset(Senior Software Engineer in Test)-->qual:stset(Staff Software Engineer in Test);
   qual:sset(Senior Software Engineer in Test)-->qual:qem(Quality Engineering Manager);
-  
+
   qual:ibeep(Intermediate Backend Engineer, Engineering Productivity)-->qual:sbeep(Senior Backend Engineer, Engineering Productivity);
   qual:sbeep(Senior Backend Engineer, Engineering Productivity)-->qual:stbeep(Staff Backend Engineer, Engineering Productivity);
   qual:sbeep(Senior Backend Engineer, Engineering Productivity)-->qual:bemep(Backend Engineering Manager, Engineering Productivity);
-  
+
   qual:bemep(Backend Engineering Manager, Engineering Productivity)-->qual:dqe(Director of Quality Engineering);
   qual:qem(Quality Engineering Manager)-->qual:dqe(Director of Quality Engineering);
-  
+
   click qual:jset "/job-families/engineering/software-engineer-in-test#junior-software-engineer-in-test";
   click qual:iset "/job-families/engineering/software-engineer-in-test#intermediate-software-engineer-in-test";
   click qual:sset "/job-families/engineering/software-engineer-in-test#senior-software-engineer-in-test";
@@ -271,6 +271,71 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   click eng:vpux "/job-families/engineering/ux-management/";
 ```
 
+#### Infrastructure Department
+
+```mermaid
+  graph LR;
+
+  %% Backend Engineers
+  eng:abe(Associate Backend Engineer)-->eng:be(Senior Backend Engineer);
+  eng:be(Backend Engineer)-->eng:sbe(Senior Backend Engineer);
+  eng:sbe(Senior Backend Engineer)-->eng:stbe(Staff Backend Engineer);
+  eng:stbe(Staff Backend Engineer)-->eng:dei(Distinguished Engineer Infrastructure);
+  eng:dei(Distinguished Engineer Infrastructure)-->eng:efi(Engineering Fellow Infrastructure);
+
+  %% Site Reliability Engineer
+  eng:asre(Associate Site Reliability Engineer)-->eng:sre(Site Reliability Engineer);
+  eng:sre(Site Reliability Engineer)-->eng:srsre(Senior Site Reliability Engineer);
+  eng:srsre(Senior Site Reliability Engineer)-->eng:stsre(Staff Site Reliability Engineer);
+  eng:stsre(Staff Site Reliability Engineer)-->eng:dei(Distinguished Engineer Infrastructure);
+
+  %% Database Reliability Engineer track
+  eng:adbre(Associate Database Reliability Engineer)-->eng:dbre(Database Reliability Engineer);
+  eng:dbre(Database Reliability Engineer)-->eng:srdbre(Senior Database Reliability Engineer);
+  eng:srdbre(Senior Database Reliability Engineer)-->eng:stdbre(Staff Database Reliability Engineer);
+  eng:stdbre(Staff Database Reliability Engineer)-->eng:dei(Distinguished Engineer Infrastructure);
+
+  %% Management
+  eng:sbe(Senior Backend Engineer)-->eng:em(Engineering Manager);
+  eng:srsre(Senior Site Reliability Engineer)-->eng:em(Engineering Manager);
+  eng:srdbre(Senior Database Reliability Engineer)-->eng:em(Engineering Manager);
+  eng:em(Engineering Manager)-->eng:sem(Senior Engineering Manager);
+  eng:sem(Senior Engineering Manager)-->eng:di(Director of Infrastructure);
+  eng:di(Director of Infrastructure)-->eng:vpi(VP of Infrastructure);
+
+  %% Infrastructure Analyst
+  eng:ia(Infrastructure Analyst)-->eng:vpi(VP of Infrastructure);
+
+  %% Backend engineer
+  click eng:abe "/job-families/engineering/infrastructure/backend-engineer/";
+  click eng:be "/job-families/engineering/infrastructure/backend-engineer/";
+  click eng:sbe "/job-families/engineering/infrastructure/backend-engineer/";
+  click eng:stbe "/job-families/engineering/infrastructure/backend-engineer/";
+
+  %% Site Reliability Engineer
+  click eng:asre "/job-families/engineering/infrastructure/site-reliability-engineer/";
+  click eng:sre "/job-families/engineering/infrastructure/site-reliability-engineer/";
+  click eng:srsre "/job-families/engineering/infrastructure/site-reliability-engineer/";
+  click eng:stsre "/job-families/engineering/infrastructure/site-reliability-engineer/";
+
+  %% Database Reliability Engineer
+  click eng:adbre "/job-families/engineering/infrastructure/database-reliability-engineer/";
+  click eng:dbre "/job-families/engineering/infrastructure/database-reliability-engineer/";
+  click eng:srdbre "/job-families/engineering/infrastructure/database-reliability-engineer/";
+  click eng:stdbre "/job-families/engineering/infrastructure/database-reliability-engineer/";
+
+  %% Infrastructure Management
+  click eng:em "/job-families/engineering/infrastructure-management/";
+  click eng:sem "/job-families/engineering/infrastructure-management/";
+  click eng:di "/job-families/engineering/infrastructure-management/";
+  click eng:vpi "/job-families/engineering/infrastructure-management/";
+
+  %% Individual contributors
+  click eng:ia "/job-families/engineering/infrastructure/analyst";
+  click eng:dei "/job-families/engineering/infrastructure/distinguished-engineer/";
+  click eng:efi "/job-families/engineering/infrastructure/engineering-fellow/";
+```
+
 ## Internships
 
 A limited [internship pilot](/handbook/engineering/internships/) is launching in 2020. Depending on the success of the pilot we may choose to roll it out further.
@@ -300,7 +365,7 @@ By default, apprenticeships last for 6 months. At the end of 6 months, both the 
 
 If you wish to apprentice with an Engineering team, start by speaking with your manager.
 
-**Important**: The Apprenticeship program should differ from any situations where there is actual temporary or permanent [realignment/redeployment/secondment](/handbook/people-group/promotions-transfers/#realignment-of-resources-impacting-multiple-team-members) as a result of changing business needs. If you are unsure whether your situation is aligned with the Apprenticeship program or falls into a resources realignment, please discuss with your aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division). 
+**Important**: The Apprenticeship program should differ from any situations where there is actual temporary or permanent [realignment/redeployment/secondment](/handbook/people-group/promotions-transfers/#realignment-of-resources-impacting-multiple-team-members) as a result of changing business needs. If you are unsure whether your situation is aligned with the Apprenticeship program or falls into a resources realignment, please discuss with your aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division).
 
 ## Junior Engineers
 
