@@ -39,7 +39,7 @@ Thank you again for playing a part in our efforts to continually improve total r
   * [Czech Republic](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/174): Complete
   * To be added based on country list from the Country Conversion Team.
 * New Entity Benefits Review  
-  * [Ireland](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/167): Pending implementation, plan design complete.   Singapore, India,
+  * [Ireland](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/167): Pending implementation, plan design complete.
 * Existing Entity Benefits Review
   * Netherlands: Implement a Pension Plan. [Related Issue](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/179)
  * Review Wellness Offerings for FY22 as similar response to 2019 survey that this is the top benefit team members would want to see implemented (especially in EMEA market).
