@@ -121,7 +121,7 @@ PathFactory is primarily a demand generation tool that allows leads and prospect
 1. Choose how you will upload the asset (Website URL, file upload, or CSV).
     - For a Website URL, copy/paste the URL. For multiple URLs, paste one per line.
     - For a file upload, select this option and either drag and drop the file onto the file upload window or select it from your computer. Files can be up to 100MB.
-    - If you want to [bulk upload multiple assets using the CSV option](#bulk-uploading-new-assets-to-the-content-library), create an issue in the Marketing Operations project and assign `@sdaily`.
+    - If you want to [bulk upload multiple assets using the CSV option](#bulk-upload), create an issue in the Marketing Operations project and assign `@sdaily`.
 1. Enter the title of the asset under `Public Configurations`. Ensure that the title is free of SEO meta information such as `| GitLab`.
 1. Provide a clear and concise description of the content if one does not exist.
 1. Select the content type from the dropdown.

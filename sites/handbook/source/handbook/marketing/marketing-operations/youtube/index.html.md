@@ -23,7 +23,7 @@ We prefer livestreaming over uploading because:
 1. It is clear to all participants that the content will be public.
 
 But it can happen that you're not in a livestream and something interesting comes up.
-In that case, you can [upload it to YouTube](#uploading-to-youtube).
+In that case, you can [upload it to YouTube](#uploading-conversations-to-youtube).
 
 ### Considerations for livestreams
 {:.no_toc}
