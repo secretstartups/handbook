@@ -237,7 +237,7 @@ In addition, you should enable [Workload Identity](https://cloud.google.com/kube
   never **dismiss** it as invalid. Please bring it to the attention of the
   [Security Team](/handbook/engineering/security), and follow the steps outlined on
   that team's handbook page.
-4. **Report** suspect situations to an officer of the company or use the [engage the Security Oncall](#gitlab-team-members).
+4. **Report** suspect situations to an officer of the company or use the [engage the Security Oncall](/handbook/engineering/security/#engaging-the-security-on-call).
 5. If you have security **suggestion**, create an issue on the
   [security issue tracker](https://gitlab.com/gitlab-com/security/issues/)
   and ping the security team. New security best practices and processes should be
@@ -399,7 +399,7 @@ version. If you use 1Password 6 without a 1Password.com account, make note of
 1. Download and install the 1Password [macOS app].
 1. Launch the app.
 1. Click "Sign in to your 1Password account" button. If there is no such button
-please follow the instructions for [updating 1Password](#1password-update).
+please follow the instructions for [updating 1Password](#updating-1password-to-support-the-teams-feature).
 
 Now you'll need the **Emergency Kit** PDF that 1Password told you to save when
 you registered your **Teams** account. Note: Store the Emergency Kit safely.
