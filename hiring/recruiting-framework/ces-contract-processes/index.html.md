@@ -247,10 +247,10 @@ To create the contract:
     -Select “Contract Info Request-CXC” from dropdown.
     -CC Recruiter
     -Click “Send Email”
-1. The Candidate Experience Specailist will check if there is a probationary period.
+1. The Candidate Experience Specialist will check if there is a probationary period.
     - Go to [Probationary Periods for Team Members Employed by a PEO](/handbook/people-group/contracts-and-international-expansion/#probation-periods-of-team-members-employed-through-a-peo) and check the candidate's country.
     - Select the duration of the probationary period (if any) in the "Offer Details" dropdown. If there isn't one, select "N/A" in that field.
-1. The Candidate Experience Specailist will check if the contract is definite or fixed.
+1. The Candidate Experience Specialist will check if the contract is definite or fixed.
     - If the contract is definite, select "Definite" from the dropdown in "Offer Details".
     - If the contract is fixed, select "Fixed Contract" from the dropdown in "Offer Details" and enter the end date under "End Date".     
 1. Once the additional information is received, The Candidate Experience Specialist will generate the PEO form out of GreenHouse.
@@ -281,10 +281,10 @@ To create the contract:
    - From the GreenHouse profile, under tools, click to email the new team member
    - From the template drop down list select: Contract Info Request - Safeguard
    - Send Email
-1. The Candidate Experience Specailist will check if there is a probationary period.
+1. The Candidate Experience Specialist will check if there is a probationary period.
     - Go to [Probationary Periods for Team Members Employed by a PEO](/handbook/people-group/contracts-and-international-expansion/#probation-periods-of-team-members-employed-through-a-peo) and check the candidate's country.
     - Select the duration of the probationary period (if any) in the "Offer Details" dropdown. If there isn't one, select "N/A" in that field.
-1. The Candidate Experience Specailist will check if the contract is definite or fixed.
+1. The Candidate Experience Specialist will check if the contract is definite or fixed.
     - If the contract is definite, select "Definite" from the dropdown in "Offer Details".
     - If the contract is fixed, select "Fixed Contract" from the dropdown in "Offer Details" and enter the end date under "End Date".
 1. When the new team member provides the necessary details, the Candidate Experience Specialist will update GreenHouse offer details and generate the PEO form out of GreenHouse.
@@ -322,34 +322,34 @@ To create the contract:
 1. The CES will adjust the 'Accepted' date to match the 'Sent' date.
 1. The Candidate Experience Specialist will now [mark the candidate as hired](/handbook/hiring/recruiting-framework/coordinator/#send-contract)[](see steps 10-12).
 
-## Preparing Employment Agreements for GitLab team-members in India- Global Upside
+## Preparing Employment Agreements for GitLab team-members in India and Philippines- Global Upside
 
-GitLab is working in partnership with [Global Upside](https://globalupside.com) for employing GitLab team-members located in India. The process for creating and sending an agreement is as follows:
+GitLab is working in partnership with [Global Upside](https://globalupside.com) for employing GitLab team-members located in India and Philippines. The process for creating and sending an agreement is as follows:
 
 1. The Offer is made by the recruiter per the [hiring process](/handbook/hiring).
-1. CES sends “Contract Info Request-Global Upside (India)” email to the new hire to collect additional details.
-1. The Candidate Experience Specailist will check if there is a probationary period.
+1. CES sends “Contract Info Request-Global Upside (India and Philippines)” email to the new hire to collect additional details.
+1. The Candidate Experience Specialist will check if there is a probationary period.
     - Go to [Probationary Periods for Team Members Employed by a PEO](/handbook/people-group/contracts-and-international-expansion/#probation-periods-of-team-members-employed-through-a-peo) and check the candidate's country.
     - Select the duration of the probationary period (if any) in the "Offer Details" dropdown. If there isn't one, select "N/A" in that field.
-1. The Candidate Experience Specailist will check if the contract is definite or fixed.
+1. The Candidate Experience Specialist will check if the contract is definite or fixed.
     - If the contract is definite, select "Definite" from the dropdown in "Offer Details".
     - If the contract is fixed, select "Fixed Contract" from the dropdown in "Offer Details" and enter the end date under "End Date".
 1. Once additional details are obtained, update the offer details to reflect all information. The CES should be the signatory.
 1. Generate “PEO New Hire Template” in Offer Documents to Send through DocuSign
-1. Choose template *Offer through DocuSign -Global Upside (India)*
+1. Choose template *Offer through DocuSign -Global Upside (India and Philippines)*
     -To User, Self (CES)
     -Sign and complete
 1. Download the completed Statement of Work in PDF form to upload it into Egnyte.
     -Make sure the downloaded file is titled with new hire’s full name
 1. Once in Egnyte, navigate to *“/Shared/GPS/Active Clients/GitLab/IN/HR/Employee Master/Client Upload/New Employee Information”*
 1. Click *Upload* to place new hire’s statement of work in this folder
-1. Inform the Gitlab Implementation alias (gitlab.implementations@globalpeoservices.com) of any new hires by sending email template *Email to Global Upside-India* under “Email the Team” in Greenhouse to let them know that a new SOW was uploaded into Egnyte and the employee’s name.
+1. Inform the Gitlab Implementation alias (gitlab.implementations@globalpeoservices.com) of any new hires by sending email template *Email to Global Upside-India and Philippines* under “Email the Team” in Greenhouse to let them know that a new SOW was uploaded into Egnyte and the employee’s name.
 1. The Candidate Experience Specialist should add the candidate to the [PEO Tracking Sheet](https://docs.google.com/spreadsheets/d/1gSOVTJ1Yv-YsSaliJwKVf-1H0vBZXxb5NWFiqCwT-uo/edit#gid=0) and keep track of communication between GitLab.
 1. Once Global Upside has drafted up the contract, they will place it in Egnyte and email the CES to review and approve.
     -CES should double-check that the contract reflects all the correct information that we sent to them.
 1. Once the contract is signed by the new hire, Global Upside will notify the CES.
 1. Proceed with marking them as hired in Greenhouse, adjusting the ‘Accepted’ date to match the ‘Sent’ date, sending the welcome email, and making sure all other candidates have been rejected prior to marking as hired and closing the req.
-1. Lastly, once the background check is completed for a new hire that is located in India. The CES needs to share that background check with Global Upside.     - Send the new hire the 'India - Background Check Notification' email that is located in the candidate email templates. This notifies the new hire that GitLab will be sharing their background check with Global Upside. 
+1. Lastly, once the background check is completed for a new hire that is located **in India**. The CES needs to share that background check with Global Upside.     - Send the new hire the 'India - Background Check Notification' email that is located in the candidate email templates. This notifies the new hire that GitLab will be sharing their background check with Global Upside. 
     - The CES will upload the PDF of the completed background check to the safe and encrypted portal, Egnyte, in the 'Background Checks' folder under Client Upload.
 
 
