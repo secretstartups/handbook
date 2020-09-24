@@ -1,9 +1,15 @@
 ---
-layout: markdown_page
+layout: handbook-page-toc
 title: "GitLab Public Sector Rules of Engagement"
 ---
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
 
 ## Government Customers/Contracting
+{:.no_toc}
 
 We must ensure all statements and representation to government procurement officials are accurate and truthful, including costs and other financial data. If your assignment directly involves the government or if you are responsible for someone working with the government on behalf of GitLab, be alert to the special rules and regulations applicable to our government customers. Please review the rules below for more details on dealing with the US Federal Government.  Please note that government agencies, in general (US or otherwise) have more strenuous requirements than traditional customers.  Be aware of the heightened sensitivity around dealing with any government entity or foreign official.
 
@@ -305,4 +311,7 @@ A priority rating on a rated order may be changed or canceled by written notific
 
 A company is required to make and preserve for at least three years, accurate and complete records of any transaction covered by the DPAS regulation.
 
+## Protection of customer information
+
+At GitLab the [Transparency value](https://about.gitlab.com/handbook/values/#transparency) extends to what we are doing and how we do it, but that value is not pushed down onto customers and external contacts.  The GitLab Public Sector team, in particular, extends that exception to all customer data even within the larger GitLab organization.  Public Sector customer data is isolated and can only be accessed by those GitLab team members with a need to know.
 
