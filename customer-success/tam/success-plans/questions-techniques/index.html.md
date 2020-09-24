@@ -50,7 +50,7 @@ Once you’ve opened the conversation, use some of the other techniques to gathe
 
 ## “Day in the Life”
 
-Asking about developer or team workflows is a good way to better understand a customer’s current toolchain and SDLC process. This is useful in developing a plan to drive stage adoption, and to ask about pain points, [metrics](/handbook/sales/command-of-the-message/metrics.html#connect-metrics-with-positive-business-outcomes), and dig towards business outcomes.
+Asking about developer or team workflows is a good way to better understand a customer’s current toolchain and SDLC process. This is useful in developing a plan to drive stage adoption, and to ask about pain points, [metrics](/handbook/sales/command-of-the-message/metrics/#connect-metrics-with-positive-business-outcomes), and dig towards business outcomes.
 
 - “Take me through the workflow of an average developer. What tools are they using? How long does it take for them to go from starting a feature to submitting the merge request?”
 - “What are the bottlenecks you see in your current processes?”
