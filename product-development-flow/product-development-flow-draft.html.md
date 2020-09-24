@@ -53,6 +53,7 @@ Because this page needs to be concise and consistent, please ensure to follow th
 <kbd class="required">Required 🔎</kbd>
 
 > Workflow labels must be applied for each phase that is used to enable tracking and collaboration across teams. 
+
 | Stage (Label) | Track | Responsible | Completion Criteria | Who Transitions Out |
 | ----- | --------- | ------------------- | --------------- | ------------------ |
 | `workflow::validation backlog` | N/A | Product | Item has enough information to enter problem validation. | Product |
