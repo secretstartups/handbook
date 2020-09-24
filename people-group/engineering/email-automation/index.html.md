@@ -73,7 +73,7 @@ monitors replies to `onboarding@domain`. The email address is strictly used for 
 
 ### Netherlands Contract Ending Email
 
-This is the [email](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/netherlands_temp_contract_renewal.md) that is send to the team member's manager two months before the team member's contract end. The email is cc'd to `people-exp@domain` and to the relevant People Business Partner.
+This is the [email](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/netherlands_temp_contract_renewal.md) that is send to the team member's manager two months before the team member's contract end. The email is cc'd to `peopleops@domain` and to the relevant People Business Partner.
 
 Every day at 9AM UTC we run a scheduled pipeline. This pipeline will fetch all the team members that are eligible. An eligible team
 member means:
@@ -81,7 +81,6 @@ member means:
 - Team member who lives in the Netherlands
 - and who's first temporary contract ends in two months.
 
-The email address used to send the email is `onboarding@domain` and is set with a `reply-to: people-exp@domain` as nobody
-monitors replies to `onboarding@domain`. The email address is strictly used for automation.
+The email address used to send the email is `peoplespecialists@domain` and is set with a `reply-to: peopleops@domain` as nobody monitors replies to `peoplespecialists@domain`. The email address is strictly used for automation.
 
-Currently this email runs in test mode. This means the email is not send to the manager but to the People Engineer and only cc'd to `people-exp@domain` and not the People Business Partner.
+Currently this email runs in test mode. This means the email is not send to the manager but to the People Engineer and only cc'd to `peopleops@domain` and not the People Business Partner.
