@@ -38,7 +38,7 @@ To create a technical close plan:
 
 When the opportunity progresses to stage 4, the technical close plan is complete. A brief retrospective on the information helps the team identify trends in customer needs as well as clear paths to opportunity wins. In case of opportunity loss, a brief retrospective on the information can help populate the Closed Lost reason in Salesforce.
 
-## Customer Success Management Program Introduction
+## Success Management Program Introduction
 
 During each greenfield (new customer) sale, eligible customers will move from the presales technical evaluation into procurement. During this time, the account sales team will introduce the Customer Success Management Program. This call will be led by the Solutions Architect.The introduction provides guidance on accessing GitLab Support, available TAM programs and GitLab Professional Services.  
 
@@ -61,9 +61,10 @@ Stage 3
 - By the end of stage 3, all Stage Technology fields on the Account record should be populated.
 
 Stage 4-5
-- Once the technical win is achieved, a call should be scheduled with the potential new customer and the sales team to introduce the Customer Success Management Program as well as the Technical Account Manager, if the TAM introduction has not already happened during the technical evaluation. 
+- Once the technical win is achieved, the Success Management data sheet should be shared with the new customer
+- A call should be scheduled with the new customer and the sales team to introduce the Success Management Program as well as the Technical Account Manager, if the TAM introduction has not already happened during the technical evaluation. 
 - When the call is complete, log an activity of type 'call' that includes 'success management introduction' in the title.
 
 ### Program Introduction Resources
 
-A customer-distributable data sheet as well as an accompanying slide presentation are available for use to guide the customer discussion.
+A customer-distributable data sheet as well as an accompanying slide presentation are available for use to guide the customer discussion. GitLab Public Sector team members can find these resources on their Google drive by searching "SuccessManagement".
