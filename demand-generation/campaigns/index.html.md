@@ -89,8 +89,8 @@ Is our single source of truth (SSoT) for processes and relevant links
 
 ## Project Management
 
-### :stopwatch: Turnaround Time and SLAs
-**The SLA (Service Level Agreement) - 5 business days - begins when all details (including 100% final copy) is provided in the issue.**
+### Turnaround Time and SLAs
+:stopwatch: **The SLA (Service Level Agreement) - 5 business days - begins when all details (including 100% final copy) is provided in the issue.**
 - Tip: Submit issues with full "Submitter Details" complete
 - Tip: Bookmark a view of your issues in Blocked status ([example](https://gitlab.com/groups/gitlab-com/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=mktg-status%3A%3Ablocked&assignee_username[]=jgragnola))
 
@@ -107,7 +107,7 @@ The issue requester is responsible for ensuring that appropriate `mktg-status` l
 ### Issue Templates
 We ask that teams request work using the following issue templates in the campaigns project. These templates more clearly indicate what information and details are required in order for the request to be triaged.
 
-Note on timelines: The campaigns team is focused on top-funnel campaign strategy, execution, and optimization. Team member milestones include work to support top funnel goals as part of [Segment Marketing Plan](https://docs.google.com/presentation/d/1p4EmaoSb35d8ZnjKags1gUGF5T9afJW6RhBO8TR_VgA/edit#slide=id.p4) and requests will be committed to as bandwidth permits. Please see section on [turnaround time & SLAs](/handbook/marketing/demand-generation/campaigns/#-turnaround-time-and-slas).
+Note on timelines: The campaigns team is focused on top-funnel campaign strategy, execution, and optimization. Team member milestones include work to support top funnel goals as part of [Segment Marketing Plan](https://docs.google.com/presentation/d/1p4EmaoSb35d8ZnjKags1gUGF5T9afJW6RhBO8TR_VgA/edit#slide=id.p4) and requests will be committed to as bandwidth permits. Please see section on [turnaround time & SLAs](/handbook/marketing/demand-generation/campaigns/#turnaround-time-and-slas).
 
 #### Request Issue Templates
 - [request-add-nurture](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-add-nurture)
@@ -126,11 +126,12 @@ Note on timelines: The campaigns team is focused on top-funnel campaign strategy
 #### Campaign Team Issue Templates
 The following issue templates are used by the campaigns team to organize their work, with appropriate labels applied for project management.
 
+- [campaigns-landing-page-copy](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-landing-page-copy)
 - [campaigns-mural](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-mural)
 - [campaigns-pathfactory-track](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-pathfactory-track)
 - [campaigns-program-tracking](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-program-tracking)
-- [campaigns-webcast-dryrun-host](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-)
-- [campaigns-webcast-drurun-sched](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-)
+- [campaigns-webcast-dryrun-host](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-dryrun-host)
+- [campaigns-webcast-drurun-sched](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-drurun-sched)
 - [campaigns-webcast-prep](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-)
 - [campaigns-](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-)
 - [campaigns-](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-)
@@ -148,7 +149,7 @@ Issues will be triaged as demonstrated in the diagram below. Please note: All re
 - **mktg-status::triage** - the issue will be evaluated to determine if full details are included, and ask questions as needed if the scope/details are not clear
 - **mktg-status::blocked** - there were insufficient details in the issue for work to be triaged
     - The requester must provide the details and then move the status back to `mktg-status::triage` in order for the request to be reviewed again.
-    - Please note: issue submission does not begin the SLA timeline; sufficient details begin the SLA timeline. [see note about turnaround time and SLAs](/handbook/marketing/demand-generation/campaigns/#-turnaround-time-and-slas)
+    - Please note: issue submission does not begin the SLA timeline; sufficient details begin the SLA timeline. [see note about turnaround time and SLAs](/handbook/marketing/demand-generation/campaigns/#turnaround-time-and-slas)
 - **mktg-status::wip** - the issue is assigned and moved into appropriate time-based milestone
 - **mktg-status::plan** - this is used for work that is in an earlier stage of planning and a specific request has not been made
     - This will likely be used mainly by campaign managers on issues that are not high priority but there is a desire to capture the idea/notes.
