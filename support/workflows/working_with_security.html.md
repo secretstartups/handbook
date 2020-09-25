@@ -68,7 +68,7 @@ The contents of the confidential issue should not be shared.
 #### General Guidelines
 
 1. Always use your Light Agent account when making internal comments. All members
-  of the Security Team should have followed [the Light Agent request process](/handbook/support/internal-support/#light-agent-zendesk-accounts-available-for-all-gitlab-staff)
+  of the Security Team should have followed [the Light Agent request process](/handbook/support/internal-support/#viewing-support-tickets)
   as part of their onboarding. When it's necessary to reply or change the
   status of the ticket use the shared account in 1Password.
 1. Always cross-link any relevant ZenDesk, HackerOne, and GitLab issues, in
@@ -110,7 +110,7 @@ Triage vulnerability reports in a similar manner to our [HackerOne proccess](/ha
   * Otherwise, respond with a standard message of the report being a known issue
     that is being worked on.
 * If the report is a new, valid issue:
-  * If the severity may be an ~S1 or otherwise needs immediate investigation:
+  * If the severity may be an ~severity::1 or otherwise needs immediate investigation:
     * [page the security on call](/handbook/engineering/security/#engaging-the-security-on-call)
     * Manually create an issue for report following the [creating a security issue instructions](/handbook/engineering/security/#creating-new-security-issues)
   * Otherwise, reply to the reporter to see if they wish to either:

@@ -62,7 +62,7 @@ the wider GitLab organization. For example, the Sales department can rely on
 our docs to answer customer queries instead of leaning on Support or Customer
 Success for help, freeing up more time to close sales.
 
-### How we measure our performance 
+### How we measure our performance
 
 We use [Key Performance Indicators](/handbook/support/performance-indicators/) (KPIs) to keep track of how well each Engineering Department is doing, including the Support team, as a whole.
 
@@ -170,7 +170,7 @@ Here are our most important modes of communication:
   * [Meta issue tracker](https://gitlab.com/gitlab-com/support/support-team-meta/issues/) for any issues regarding workflows,
     general team suggestions, tasks or projects related to support, etc.
 
-Where we want to ensure that important messages are passed to the global support team, we will use this [messaging template](https://gitlab.com/gitlab-com/support/managers/leadership-sync/-/blob/master/.gitlab/issue_templates/support-message-plan.md). This ensures that these messages are delivered across our communications channels in a structured and documented manner. 
+Where we want to ensure that important messages are passed to the global support team, we will use this [messaging template](https://gitlab.com/gitlab-com/support/managers/leadership-sync/-/blob/master/.gitlab/issue_templates/support-message-plan.md). This ensures that these messages are delivered across our communications channels in a structured and documented manner.
 
 ### GitLab.com
 
@@ -186,8 +186,10 @@ GitLab.com.
 | [@gitlab-com/support/amer](https://gitlab.com/gitlab-com/support/amer)         | AMER Support             |
 | [@gitlab-com/support/apac](https://gitlab.com/gitlab-com/support/apac)         | APAC Support             |
 | [@gitlab-com/support/emea](https://gitlab.com/gitlab-com/support/emea)         | EMEA Support             |
-| [@gitlab-com/support/dotcom](https://gitlab.com/gitlab-com/support/dotcom)     | GitLab.com Support members |
-| [@gitlab-com/support/dotcom/console](https://gitlab.com/gitlab-com/support/dotcom/console) | Support members with console access |
+| [@gitlab-com/support/dotcom](https://gitlab.com/gitlab-com/support/dotcom)     | Support members with GitLab.com admin access |
+| [@gitlab-com/support/dotcom/console](https://gitlab.com/gitlab-com/support/dotcom/console) | Support members with GitLab.com console access |
+| [@gitlab-com/support/customers-console](https://gitlab.com/gitlab-com/support/customers-console) | Support members with Customers Portal console access |
+| [@gitlab-com/support/licensing-subscription](https://gitlab.com/gitlab-com/support/licensing-subscription) | Support members focused on License and Renewals |
 | [@gitlab-com/support/managers](https://gitlab.com/gitlab-com/support/managers) | All support managers     |
 
 #### Projects
@@ -244,14 +246,16 @@ issue trackers or customer tickets.
 #### User Groups
 {: .no_toc}
 
-| Group                  | Who                       |
-|------------------------|---------------------------|
-| `@support-dotcom`      | GitLab.com Support Team   |
-| `@support-selfmanaged` | Self-managed Support Team |
-| `@support-team-apac`   | Support Team APAC         |
-| `@support-team-emea`   | Support Team EMEA         |
-| `@support-team-americas` | Support Team AMER       |
-| `@supportmanagers`     | Support Managers          |
+| Group                    | Who                       |
+|--------------------------|---------------------------|
+| `@support-dotcom`        | Support Team Members with GitLab.com Admin Access  |
+| `@support-selfmanaged`   | Support Team focused on Self-Managed tickets |
+| `@support-team-apac`     | Support Team APAC         |
+| `@support-team-emea`     | Support Team EMEA         |
+| `@support-team-americas` | Support Team AMER         |
+| `@supportmanagers`       | Support Managers          |
+| `@support-managers-apac` | Support Managers APAC     |
+| `@support-managers-emea` | Support Managers EMEA     |
 
 If you need to be added to one or more of these groups, please open an issue in
 the [access requests project](https://gitlab.com/gitlab-com/access-requests).
@@ -332,7 +336,7 @@ You can read about how we got this started
 [in this issue](https://gitlab.com/gitlab-com/support/support-team-meta/issues/1394).
 
 ### Support Stable Counterparts
-As a result of our direct interactions with customers, the Support Team occupies a unique position in GitLab that gives us the opportunity to connect product managers with customer feedback. To take advantage of this opportunity, we've adopted a model that is known within GitLab as "Stable Counterparts." In brief, a "stable counterpart" is an assigned, permanent contact for a GitLab Team Member within another function in the company. See the [Stable counterparts](https://about.gitlab.com/handbook/leadership/#stable-counterparts) item on the Leadership page, and [An ode to stable counterparts](https://about.gitlab.com/blog/2018/10/16/an-ode-to-stable-counterparts/) for more information.
+As a result of our direct interactions with customers, the Support Team occupies a unique position in GitLab that gives us the opportunity to connect product managers with customer feedback. To take advantage of this opportunity, we've adopted a model that is known within GitLab as "Stable Counterparts." In brief, a "stable counterpart" is an assigned, permanent contact for a GitLab Team Member within another function in the company. See the [Stable counterparts](/handbook/leadership/#stable-counterparts) item on the Leadership page, and [An ode to stable counterparts](https://about.gitlab.com/blog/2018/10/16/an-ode-to-stable-counterparts/) for more information.
 
 How do we align Support Team people to the product?
 - Development of the product is broken down into [sections, stages and groups; that page](/handbook/product/product-categories/#devops-stages) is the single source of truth about who is performing this role, and what vacancies there are.
@@ -342,7 +346,7 @@ How do we align Support Team people to the product?
 
 Support Stable Counterparts, briefly, will:
 - Subscribe to the pertinent trackers / labels to be aware of new issues.
-- Be especially aware of S1/S2 issues in their areas of the product, including workarounds. 
+- Be especially aware of severity::1/severity::2 issues in their areas of the product, including workarounds.
 - Surface issues likely to generate tickets to the wider team.
 - Attend product meetings in order to understand the priorities/challenges/upcoming features of the product group.
 - Be aware of the issues raised by customers pertinent to their category, surfacing and advocating for them.
@@ -426,6 +430,22 @@ Artifacts of approval can include:
    - [How to Submit Code to the GitLab Application](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md)
    - [How to Submit Docs when working on customer issues](/handbook/documentation) (see 'docs-first methodology')
 
+### Slack Emoji Reaction Workflows
+
+Each Slack channel within Support has a number of [Workflows](https://slack.com/help/articles/360035692513-Guide-to-Workflow-Builder) attached to them that are used to provide information to users by reacting to their message with a specific emoji. The source files for each workflow live in the [slack-workflows](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows) project.
+
+- `#support_managers`
+  - [Ticket Escalation](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_managers_ticket_escalation.slackworkflow) - `:escalate:` - Directs the user to follow the proper procedure to escalate a support ticket or internal issue.
+- `#support_gitlab-com`
+  - [Ticket Escalation](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_gitlab_com_ticket_escalation.slackworkflow) - `:escalate:` - Directs the user to follow the proper procedure to escalate a support ticket or internal issue.
+  - [Question Redirect](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_gitlab_com_question_redirect.slackworkflow) - `:leftwards_arrow_with_hook:` - Directs the user to post their question in a more appropriate Slack channel.
+  - [Remove Link Preview](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_gitlab_com_remove_link_preview.slackworkflow) - `:slack:` - Politely asks the user to remove any unfurled link previews in their message.
+  - [Welcome](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_gitlab_com_welcome.slackworkflow) - This automated workflow automatically sends a direct message to new members of the channel that contains helpful information.
+- `#support_self-managed`
+  - [Ticket Escalation](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_self_managed_ticket_escalation.slackworkflow) - `:escalate:` - Directs the user to follow the proper procedure to escalate a support ticket or internal issue.
+- `#support_licensing-subscription`
+  - [Ticket Escalation](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_licensing_subscription_ticket_escalation.slackworkflow) - `:escalate:` - Directs the user to follow the proper procedure to escalate a support ticket or internal issue.
+
 ### Support Fixes
 
 When working on merge requests for code or for documentation, apply the
@@ -440,64 +460,25 @@ At GitLab, the Support Team currently manages 2 different [Zendesk Instances](/h
 - GitLab Support Instance:  [gitlab.zendesk.com](https://gitlab.zendesk.com)
 - GitLab US Federal Support Instance: [gitlab-federal-support.zendesk.com](https://gitlab-federal-support.zendesk.com)
 
-The customer URL for the Federal Support Instance is [federal-support.gitlab.com](https://federal-support.gitlab.com) which is a CNAME for [gitlab-federal-support.zendesk.com](https://gitlab-federal-support.zendesk.com) 
+The customer URL for the Federal Support Instance is [federal-support.gitlab.com](https://federal-support.gitlab.com) which is a CNAME for [gitlab-federal-support.zendesk.com](https://gitlab-federal-support.zendesk.com)
 
 All our Support Engineers have access to the GitLab Support Instance, whereas only Support Engineers who are US Citizens have access to the GitLab US Federal Support Instance.
 
 ### Ticketing Style Guide
-A collection of best practices and suggestions for [styling and responding to Zendesk tickets](/handbook/support/workflows/ticketing_style_guide.html).
+A collection of best practices and suggestions for [styling and responding to Zendesk tickets](/handbook/support/workflows/how-to-respond-to-tickets.html).
 
 ### Time Off
-The Support Team follows [GitLab's paid time off policy](/handbook/paid-time-off). However, do note that if a large number of people are taking the same days off, you may be asked to reschedule. If a holiday is important to you, please schedule it early.
 
-In addition to the tips in [Communicating Your Time Off](/handbook/paid-time-off/#communicating-your-time-off) please also:
-- link your personal Google calendar to [PTO Ninja](/handbook/paid-time-off/#pto-ninja)
-  so a 'Busy' event will block your calendar automatically. This also serves
-  to block your availability in Calendly.
-- link [PTO Ninja](/handbook/paid-time-off/#pto-ninja) to the [**Support - Time Off**](https://calendar.google.com/calendar/embed?src=gitlab.com_as6a088eo3mrvbo57n5kddmgdg%40group.calendar.google.com)
-  calendar so PTO Ninja will add an entry automatically
-- if you're on-call, make sure you have coverage and that PagerDuty is up to date
-- reschedule any 1:1 meetings with your manager
-- add an agenda item during the team meeting before your time off
-- add an agenda item after you get back to let us know what you've been up to!
-- either specify your manager as the person who covers for you, or leave a note to ping `#support_managers` per [our escalation procedure](https://about.gitlab.com/handbook/support/internal-support/#i-want-to-draw-attention-to-an-existing-support-ticket)
-
-If you do not have access to the [**Support - Time Off**](https://calendar.google.com/calendar/embed?src=gitlab.com_as6a088eo3mrvbo57n5kddmgdg%40group.calendar.google.com) team calendar, please raise it in the `#support_team_chat` channel on Slack and someone will share it with you.
-
-You do **not** need to add time-off events to the shared calendar if you'll be gone less than half a day. *Do* consider blocking off your
-own calendar so that customer calls or other meetings won't be scheduled during your time away.
-
-If you need to go for a run, grab a coffee or take a brain break please do so without hesitation.
-
-#### Linking PTO Ninja to your personal and team calendar
-
-1. In Slack, click the `+` sign next to 'Apps' at the bottom of the left sidebar
-1. Search for 'PTO Ninja' and click 'View'
-1. Under 'Home', click on 'Connect your calendar'
-1. Click on 'Allow' and complete the actions to sync your calendar to PTO Ninja
-1. You will see a 'Success! Your calendar has been connected.' message and your calendar listed under 'Your synced calendar' in PTO Ninja on Slack
-1. After your personal calendar is linked, click 'Add calendar' under
-   'Additional calendars to include?'. The 'Support - Time Off' calendar ID is
-   `gitlab.com_as6a088eo3mrvbo57n5kddmgdg@group.calendar.google.com`
+*See the [Support Time Off page](/handbook/support/support-time-off.html)*
 
 ### Onboarding
 
-*See the [Support Onboarding page](/handbook/support/onboarding)*
+*See the [Support Onboarding page](/handbook/support/training)*
 
 ### What if I Feel Threatened or Harassed While Handling a Support Request?
-Just as Support Team are expected to adhere to the Code of Conduct, we also expect customers to treat the Support Team
-with the same level of respect.
+Just as Support Team are expected to adhere to GitLab's [Code of Conduct](/handbook/people-group/code-of-conduct), we also expect customers to treat the Support Team with the same level of respect. The [GitLab Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/) outlines the standards to which we hold the wider GitLab Community.
 
-If you receive threatening or hostile emails from a user, please create a confidential issue in the GitLab Support Issue Tracker
-and include:
-
-1. A history of the user's communication
-1. Relevant links
-1. Summary of the high-level issues
-1. Any other supporting information
-
-Include your Manager, Director of Support, Abuse Team and Chief People Officer in this issue. Together we will evaluate on a
-case-by-case basis whether to take action (e.g. ban the user from the forums for violating the [Code of Conduct](/handbook/people-group/code-of-conduct)).
+If you notice a threatening or hostile ticket, please tag the [Manager On-Call](/handbook/support/on-call/#manager-on-call) to respond with the following guidelines in our [Statement of Support](/support/#please-dont-use-language-intended-to-threaten-or-harass).
 
 ### Improving our processes - 'Active Now' issue board
 The Support team use ['support-team-meta' project issues](https://gitlab.com/gitlab-com/support/support-team-meta/issues/) to track ideas and initiatives to improve our processes. The ['Active Now' issue board](https://gitlab.com/gitlab-com/support/support-team-meta/-/boards/580661) shows what we're currently working on. It uses three labels:
@@ -533,7 +514,7 @@ Below are the most common commands, the [bot's repo](https://gitlab.com/gitlab-c
 ``` rb
 sb p # All queues
 sb sm # Self-Managed queues
-sb s # GitLab.com queues       
+sb s # GitLab.com queues
 ```
 
 ## <i class="fas fa-book fa-fw icon-color font-awesome" aria-hidden="true"></i> Support Resources
@@ -603,5 +584,6 @@ sb s # GitLab.com queues
 - Zendesk Download Router - Automatically routes Zendesk downloads into separate folders by ticket number ([Chrome](https://chrome.google.com/webstore/detail/zendesk-download-router/pgfhacdbkdeppdjgighdeejjfneifkml)/[Firefox](https://addons.mozilla.org/en-GB/firefox/addon/zendesk-download-router/)/[Opera](https://addons.opera.com/en-gb/extensions/details/zendesk-download-router/))
 - GitLab Web Debugger - Aides in identifying the root cause of page load errors on GitLab.com and internal GitLab instances ([Chrome](https://gitlab.com/gitlab-com/gl-infra/gitlab-web-debugger))
 - Zendesk Quicktab - Opens Zendesk tickets in a single browser tab ([Chrome](https://chrome.google.com/webstore/detail/zendesk-quicktab/imgmkpifcfhbfdklogcpdnkohifklebb))
+  - Note: Zendesk Quicktab was [removed from the Chrome marketplace in July 2020](https://support.tymeshift.com/hc/en-us/articles/360003993613-Install-Zendesk-Quicktab-Chrome-Extension) while ownership of the extension was in negiations. Please read the [Zendesk support forum thread](https://support.zendesk.com/hc/en-us/community/posts/360001108948/comments/360012160754) for information on the current state of the extension and installing Zendesk Quicktab from the GitHub project.
 - Calendly Meeting Scheduling Software - ad-hoc meetings, one-click booking ([Chrome](https://chrome.google.com/webstore/detail/calendly-meeting-scheduli/cbhilkcodigmigfbnphipnnmamjfkipp))
 - GitLab Screenshare mode - allows to hide confidential information on your GitLab screen ([Chrome](https://gitlab.com/leipert-projects/gitlab-screenshare-mode#chrome)/[Firefox](https://gitlab.com/leipert-projects/gitlab-screenshare-mode#firefox))

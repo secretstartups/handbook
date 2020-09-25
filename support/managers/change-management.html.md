@@ -59,12 +59,19 @@ Whether you’re making a local change, based on the decision criteria above, or
 proposing a global one, it’s important to communicate your plans with the rest
 of the Support Leadership Team.
 
-Remember to [communicate _why_ and not just _what_](https://about.gitlab.com/handbook/values/#say-why-not-just-what).
+### Creating an Issue
+The first step toward making a change is to
+[create an issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Requested%20Change)
+via the
+[support-team-meta project](https://gitlab.com/gitlab-com/support/support-team-meta).
+Using the linked template (Request Change), it will ensure you supply the
+required information (DRI, problem statement, ways to measure success, etc.),
+helping to speed the process along.
 
 ### Communicating a Local Change
 Even for a change that you’ve determined will be local, inform the leadership
 team. Put it as an “inform” item in the agenda for the next
-[leadership sync meeting](https://about.gitlab.com/handbook/support/managers/#organization-of-support-leadership-meetings).
+[leadership sync meeting](/handbook/support/managers/#organization-of-support-leadership-meetings).
 Why?
 * Someone else might have a suggestion for you
 * Someone else might be interested in what you’re doing
@@ -73,7 +80,7 @@ Why?
 ### Communicating a Global Change Proposal
 Once you’ve determined that your intended change must be global, engage the
 leadership team in a conversation through your issue and through a full agenda
-topic in the [leadership sync meeting](https://about.gitlab.com/handbook/support/managers/#organization-of-support-leadership-meetings):
+topic in the [leadership sync meeting](/handbook/support/managers/#organization-of-support-leadership-meetings):
 * Describe the problem you’re working to solve
 * Let the team know if you are the DRI, or are seeking a DRI
 * Let the team know whether you're proposing a solution based on compelling
@@ -83,16 +90,20 @@ topic in the [leadership sync meeting](https://about.gitlab.com/handbook/support
     * Present potential solutions and discuss which of them will be tried
     * Discuss any likely impacts of the tests
     * Gain general agreement that you can proceed with your tests
-    * If the tests will be large and long running, consider opening an issue for each test and link them all to your issue
+    * If the tests will be large and long running, consider opening an issue for
+      each test and link them all to your issue
   * Otherwise, it's suggested that you:
     * present data both demonstrating the need for the change and supporting the
       solution you've chosen
     * propose your solution via a Merge Request (linked to your issue) and
       invite feedback with a reasonable deadline
-* Describe how you plan to measure the success of the change (not just the tests)
+* Describe how you plan to measure the success of the change (not just the
+  tests)
 
 ### Constructing a Valuable Test Plan
-We make data driven decisions whenever possible. If your proposed change doesn't have any supporting data, you'll run one or more localized trials. Be frugal if there is a cost and always be sensitive to disrupting existing workflows:
+We make data driven decisions whenever possible. If your proposed change doesn't
+have any supporting data, you'll run one or more localized trials. Be frugal if
+there is a cost and always be sensitive to disrupting existing workflows:
   * If you are not confident or comfortable designing a test, work with other
     managers to flesh out ideas.
   * Keep in mind that there's a difference between the scope (local or global)

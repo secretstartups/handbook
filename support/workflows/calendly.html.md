@@ -14,7 +14,7 @@ Always use [single-use Calendly links](#generating-a-single-use-calendly-link) w
 
 ## Calendly setup for Self-Managed Support
 
-You will have set up Calendly as part of your GitLab onboarding, following [the instructions in tools and tips](https://about.gitlab.com/handbook/tools-and-tips/other-apps/#calendly).
+You will have set up Calendly as part of your GitLab onboarding, following [the instructions in tools and tips](/handbook/tools-and-tips/other-apps/#calendly).
 
 Modify your setup as follows
 
@@ -36,7 +36,7 @@ To get added to the group account:
 1. Title it as `Your Name, Support, Calendly`, list Calendly as the "System Name" and mention that you'll be scheduling customer calls.
 1. Assign to your manager, and they'll approve and assign it over to team member that provisions Calendly.
 
-This access is also included as part of [support onboarding](https://about.gitlab.com/handbook/support/onboarding/) for GitLab Solutions Focus Support Engineers that will be handling tickets for self-managed customers.
+This access is also included as part of [support onboarding](/handbook/support/#onboarding) for GitLab Solutions Focus Support Engineers that will be handling tickets for self-managed customers.
 
 ### Availability increment.
 
@@ -58,11 +58,11 @@ The support team has a Team Support Call event.
 
 We use this to offer customers the choice between meeting with one engineer, or scheduling a meeting with anyone in the team.
 
-Part of your [support onboarding](https://about.gitlab.com/handbook/support/onboarding/), once you're ready and you've been added to the [GitLab Support group account](#GitLab_Support_group_account), is to request to be added to the support call event.
+Part of your [support onboarding](/handbook/support/training/), once you're ready and you've been added to the [GitLab Support group account](#GitLab_Support_group_account), is to request to be added to the support call event.
 
-To get added to the support call event:
+To be added to the support call event:
 
-1. [open a Calendly Support Call Inclusion Request](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Calendly%20Support%20Call%20Inclusion%20Request) in the [Support Ops Project](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project)
+1. [open a Calendly Support Call Inclusion Request](https://gitlab.com/gitlab-com/support/support-ops/calendly/-/issues/new?issuable_template=Provisioning%20Request) in the [Support Ops Calendly Project](https://gitlab.com/gitlab-com/support/support-ops/calendly/)
 1. Read through the instructions and specify the hours you'll be available relative to your timezone in both Standard Time and Daylight Saving Time (if applicable) and your [tz database designation](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones) for future automation.
 
 You'll then also be able to generate a single-use link for this event from your browser plugin.

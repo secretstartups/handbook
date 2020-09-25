@@ -12,7 +12,7 @@ robotic and canned. Nobody likes cans.
 
 ## Who can create a Macro?
 
-Macros can be created by agents, engineers, and managers in Zendesk. They should
+Macros can be created by engineers and managers in Zendesk. They should
 be used for matters that require a rigid process (2FA re-auth/DMCA) or when we 
 _need_ to provide a template response (Holiday Coverage). If you need to create
 a macro that adds tags to tickets, make sure to get approval the Support

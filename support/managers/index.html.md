@@ -108,20 +108,19 @@ See [Support Hiring](hiring.html)
 
 ### Support Engineer Promotion Process for Support Managers - Quick Guide
 
-The companywide People Group process should be followed [For Managers: Requesting a Promotion or Compensation Change](https://about.gitlab.com/handbook/people-group/promotions-transfers/#for-managers-requesting-a-promotion-or-compensation-change). The steps below are an addendum for notification and review for Support Engineering managers taking into account the Customer Support Department's organisational structure and is not meant as a replacement for any steps in the companywide people group process.
+The companywide People Group process should be followed [For Managers: Requesting a Promotion or Compensation Change](/handbook/people-group/promotions-transfers/#for-managers-requesting-a-promotion-or-compensation-change). The steps below are an addendum for notification and review for Support Engineering managers taking into account the Customer Support Department's organisational structure and is not meant as a replacement for any steps in the companywide people group process.
 
 #### Pre-submission
-* Complete Promotion Document with Engineer.
-* Create Google Docs view link for everyone at Gitlab to allow sharing of the promotion document which will be used for promotion approval process.
-* Discuss the promotion candidate with your manager and the Director of Support.
-* Make a copy of the promotion document and share it with the Support Managers.
-* Notify the Head of Engineering that the promotion document is under review. 
-* Notify the People Business Partner for Support that the promotion document is under review.
-* Ask the Support Managers to review the promotion document.
-* Get the approval to proceed from the Director of Support.
+* Complete Path to Promotion Document with Support Engineer.
+* Create a public Google Docs view link for everyone at Gitlab to allow sharing of the promotion document which will be used for promotion approval process.
+* Discuss the promotion candidate with your manager.
+* Make a copy of the promotion document and share it in the confidential doc used in the cross-regional sync with Support Managers (ensure Support Managers can Edit).
+* Gather feedback on the promotion document on the private copy shared with the Support Managers.
+* If necessary, update the public document based on feedback from Support Managers.
+* Get the approval to proceed from your manager.
 
 #### Submission
-* [Submit a Promotion request in BambooHR](https://about.gitlab.com/handbook/people-group/promotions-transfers/#submit-a-promotion-request-in-bamboohr)
+* [Submit a Promotion request in BambooHR](/handbook/people-group/promotions-transfers/#submit-a-promotion-request-in-bamboohr)
 
 #### Announcement
 
@@ -136,25 +135,34 @@ As a Support Management group we should be aware of the tooling we use to genera
 1. Sisense
 2. Zendesk Explore
 
-### Sisense
+#### Sisense
 
 Sisense is a general purpose visualization tool that is used by the greater company.
 It's extremely powerful with a full SQL interface to our data across functions.
 We work with the data team to generate "Stable" Graphs here. Think, KPIs and greater measures that make sense to report to the larger company.
 As managers, we will not need to edit these reports often, but we should consuming it regularly.
 
-### Zendesk Explore
+#### Zendesk Explore
 
 Zendesk Explore is a new tool to replace Zendesk Insights. We will use this tool
 for quick interactions on new ideas or fact checking Sisense data. Support Managers
 should be ready to work with Explore regularly and be comfortable with the tool.
 
-### Why two metrics systems?
+#### Why two metrics systems?
 
 Sisense is a company wide tool that is extremely powerful which can make it unwieldy.
 Explore gives us an interface that is much easier to navigate and use.
 Additionally, Sisense data is a secondary source so it can contain errors. 
 By being comfortable using ZD Explore, a primary source, we can make sure that we have accurate data and insights.
+
+### What happens if metrics aren't where they should be?
+If metrics are below a certain threshold (yet to be defined) a manager may call to form a [Metrics Analysis Workgroup](metrics-analysis/index.html). This action
+is unique to Support and is somewhere in-between a [Rapid Action issue](/handbook/engineering/development/#rapid-action-issue) and a [Working Group](/company/team/structure/working-groups/). 
+
+The purpose of the group will be unique to each situation that triggers it, but generally the members will:
+- form testable statements (e.g. _FRT has gone down because a lot of people have taken vacation_)
+- gather and analyze data that falsify those statements (e.g. _After taking a look at PTO data, we can see that we've had a consistent 90% coverage for the period in question, which is consistent with other times in the year_)
+- build a set of recommendations based on the data for how we can achieve consistent results
 
 ## Support Engineering Manager READMEs
 

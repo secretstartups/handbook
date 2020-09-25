@@ -12,21 +12,23 @@ category: GitLab.com
 
 ## Overview
 
-While this workflow focuses on disabling [Two-factor Authentication](http://docs.gitlab.com/ee/profile/two_factor_authentication.html) on a GitLab.com account, it should also be used any time ownership of an account needs to be verified, such as for [account changes](/handbook/support/workflows/account_changes.html).
+This workflow focuses on  disabling [Two-factor Authentication](http://docs.gitlab.com/ee/profile/two_factor_authentication.html) on a GitLab.com account.
 
-2FA removal and other account actions can only be taken if the [workflow](#workflow) below is successful.
+It should also be used any time ownership of an account needs to be verified, such as for [account changes](/handbook/support/workflows/account_changes.html).
 
-## Access by User Action
+2FA removal and other account actions can only be completed if the [workflow](#workflow) below is successful.
 
-In many cases, users can regain access to their account using the following methods:
+## Self Service 2FA Removal
 
-### Entering a recovery code
+In most cases, users can disable 2FA themselves and regain access to their accounts.
+
+### Recovery codes
 
 Users can try and login using their saved [two-factor recovery codes](https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html#recovery-codes).
 
 ### Generating new recovery codes via SSH
 
-If a user didn't save their recovery codes, new ones can be generated with the command below via SSH if they've previously added an SSH key to their account. The new recovery codes can then be used at sign in. This option is presented to users in the Zendesk macro and the auto-response they'll receive if they chose `Two-Factor Authentication (Account Recovery)` as the problem type for the Zendesk ticket. If they cannot use this method then move on to the manual methods below.
+If a user didn't save their recovery codes, new ones can be generated with the command below via SSH if they've previously added an SSH key to their account. The new recovery codes can then be used at sign in. This option is presented to users in the Zendesk macro and the auto-response they'll receive if they chose `Two-Factor Authentication (Account Recovery)` as the problem type for the Zendesk ticket.
 
 ```plain
 ssh git@gitlab.com 2fa_recovery_codes
@@ -34,54 +36,59 @@ ssh git@gitlab.com 2fa_recovery_codes
 
 If a user has added an SSH key to their account but receives a `Permission denied (publickey)` error when using the command above, they may need to manually register their private SSH key using `ssh-agent` if they're using a non-default SSH key pair file path. Direct the user to [our documentation](https://docs.gitlab.com/ee/ssh/README.html#working-with-non-default-ssh-key-pair-paths) for guidance on how to solve this.
 
-## Access with Support Intervention
+> Free users won't be able restore access to accounts if the recovery codes were lost and no ssh keys are available to generate more.
 
-If the user is unable to remove 2FA or otherwise regain access to their account using the above methods and responds with the need for further verification, then the user will need to provide evidence of account ownership before we can disable 2FA on their account.
+## Disable 2FA with Support Intervention
 
-If a user has lost their account recovery codes and has no SSH key registered, proving they own the account can be difficult. In these cases, please use the workflow below.
+Support intervention for 2FA removal after the above steps have been attempted is only possible for users with a paid plan.
+
+If a paid user (part of paid group or paid user namespace) is unable to remove 2FA or otherwise regain access to their account using the above methods and responds with the need for further verification, then the user will need to provide evidence of account ownership before we can disable 2FA on their account.
+
+If a user has lost their account recovery codes and has no SSH key registered, proving they own the account can be difficult. 
+In these cases, please use the workflow below.
 
 ### Workflow
 
 As part of access recovery, if 2FA removal is not involved, then skip the following steps and move on to the next section.
 
-1. Apply the **"Account::2FA Removal SSH Info & Challenges"** Macro
+1. Apply the **"Account::2FA Removal Challenges"** macro if they have not answered the challenges already.
 1. The macro marks the ticket as "Pending"
 
 #### If the user responds with the need for further verification (by answering the challenges)
 
+> **Note**: In case the user sends back very minimal information and it's clear it's not sufficient or the answers are vague, reply asking for more information immediately after their response. You can provide some additional guidance, such as "please provide the exact date and time of the commit, not just an approximate".
+
 1. Using the [Risk Factor Worksheet](https://drive.google.com/drive/u/0/search?q=Risk%20factor%20worksheet%20parent:1nI4lCILooN-0U_RmPJP6_cNyIDgXJR99) (internal only), determine the appropriate data classification level and the risk factor you have determined from customer's answers to the challenges.
+
    - For almost all cases, the originating email should be the same as the one listed on the account.
 
 1. Use the macro **"Account::2FA::2FA Internal Note"** It leaves an internal note on the ticket. Edit with the relevant admin link, your proposed data classification level, challenges and the risk factor.
 
 1. Request that your decision be peer-reviewed by another member of the team via Slack.
 
+1. For the peer reviewer: In case you disagree, leave an internal note on the ticket stating your thoughts on what the risk factor should be and reply to the Slack conversation for further discussion. If you agree, move to the next section on what to do if successful.
+
+#### User Successfully Proves Account Ownership
+
+1. For situations other than 2FA, please see [Account Changes workflow](account_changes.html).
 1. For disabling 2FA: If you agree with the decision; log into your admin account and locate the username in the users table or by going to `https://gitlab.com/admin/users/usernamegoeshere`
       1. Under the account tab, click `Edit`, add an [Admin Note](/handbook/support/workflows/admin_note.html), and save.
       1. On the account tab, click on `Disable 2FA`.
       1. Use the **"Account::2FA::2FA Removal Verification - Successful"** macro.
 
-1. In case you disagree, leave an internal note on the ticket stating your thoughts on what the risk factor should be and reply to the Slack conversation for further discussion. Once agreed, apply above step.
-
-**Note**: This only applies if you think the challenges were passed, in case the user sends back very minimal information and it's clear it's not sufficient, reply asking for more information immediately after their response.
-
-#### User Successfully Proves Account Ownership
-
-1. For other situations other than 2FA, please see [Account Changes workflow](account_changes.html).
-
 #### User Fails to Prove Account Ownership
 
+> **Note**: Do _not_ provide hints to answers. That is how social engineering works!
+
+1. If the user is unable to pass the risk factor but we have not provided all the applicable challenges, you may offer further challenges.
+   - Most commonly, an owner vouch is requested. For large organizations, please check the ZD org notes to see if they're using the [large customers](#large-customers) workflow before offering the challenge.
 1. If the user is unable to pass the selected challenges:
    1. Inform them that without verification we will not be able take any action on the account. For 2FA, use the **Account::2FA::2FA Removal Verification - GitLab.com - Failed** macro.
    1. Mark the ticket as "Solved"
 
 ### GitLab Team Members
 
-If the user is a GitLab employee, follow the below process:
-
-1. Perform steps for SSH key and recovery codes, if possible.
-1. Confirm authenticity of the request by contacting the employee via phone or video call.
-1. Add an [Admin Note](/handbook/support/workflows/admin_note.html) with relevant information.
+If the user is a GitLab employee, have them contact IT Ops.
 
 ### Large Customers
 
@@ -115,3 +122,31 @@ For customers who are large enough to have an account management project, an iss
 ## Authentication For GLGL Reports
 
 In the event that a customer requests a report of their group's users from [GLGL](https://gitlab.com/gitlab-com/support/toolbox/glgl), consult the [internal-requests wiki](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/Procedures/GLGL-Report-Authentication) for the process of authenticating the requestor.
+
+## Account Ownership Change Request for Paid Groups
+
+Our [support page](https://about.gitlab.com/support/#ownership-disputes) outlines that this option is not available for unpaid groups.
+
+If a request is received, verify:
+
+1. Current paid subscription is applied to the namespace.
+1. Sole Owner's primary email address matches company domain.
+1. Requestor has a GitLab.com account. Typically this user will already be a member but is not Owner.
+
+If the existing Owner's account does not have 2FA, suggest they issue a password reset and claim the account directly. Otherwise, send a message with the following blurb:
+
+```plain
+In order to transfer ownership, please provide a letter in PDF format outlining that the existing owner has left and ownership needs to be provided to a current employee. In the letter, please ensure that it is on company letterhead and includes:
+
+- the name, email address, and GitLab username of the departed employee
+- the name, email address (tied to the GitLab account), and GitLab username of employee who should be added
+- that the current employee should be added to the group as an `Owner`
+- the group name and full path (URL)
+- name, position, and signature by authorized signatory
+
+In addition, please include a copy of your last invoice from GitLab.
+```
+
+Whenever possible, include the current account owner from GitLab in the conversation.
+
+Once received, double check all the requested information is included. If not, let them know what's missing. If yes, add or elevate the requested user to Owner role.

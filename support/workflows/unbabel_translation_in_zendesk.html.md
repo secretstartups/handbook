@@ -18,15 +18,13 @@ To use Unbabel effectively, please refer to the following when responding to tic
 
 ### Languages we support
 
-The following are the languages we support in tickets at this time:
+The languages we support in tickets at this time are listed [on the GitLab support page](/support/#language-support).
 
-- Chinese (Simplified)
-- German
-- Japanese
-- Korean
-- Portuguese
-- Spanish
+Within Unbabel
 
+- Chinese in our list of languages is Chinese (Simplified)
+- Portuguese includes Portuguese(BR) from the list.
+- Spanish includes Spanish Latin America from the list.
 
 ### Configuring Unbabel in Zendesk
 
@@ -48,13 +46,17 @@ You can also use [a javascript snippet](https://gitlab.com/gitlab-com/support/to
 
 ### Replying with a Translation
 
-To request a translation automatically, simply reply as you normally would as an internal note with the #unbabel hashtag included at the top of your content. 
+To request a translation automatically, simply reply as you normally would as an internal note with the #unbabel hashtag included at the top of your content. As per our [working with tickets](/handbook/support/workflows/working-on-tickets.html#what-is-the-working-on-tickets-workflow) workflow, please remember to assign yourself to the ticket if the ticket doesn't currently have an assignee when you respond. 
 
 Please also ensure that the `always_unbabel` , `unbabel_en`, `unbabel_reply`, `unbabeled` tags are included, otherwise your response might not be translated automatically.
 Should this happen, you will need to add the missing tags, and create a new internal note with the #unbabel hashtag included at the top of your content.
 
 Once you submit your response, it may take several seconds for Unbabel to automatically translate your internal comment, but it can take several minutes if a human is required
 to manually translate your internal comment. To view the status of the translation, you can open the Apps sidebar in the ticket, and scroll down to the **Unbabel for Zendesk Support** box.
+
+![Translation required](/images/support/Unbabel_Translation_Required.png)
+
+After a translated response has been sent to the customer via Unbabel it is necessary to manually set the ticket status as **Pending** since Unbabel will incorrectly set the ticket status as **Open**. You must do this with an _empty comment_ (remove any `#unbabel` added by the plugin, before you Submit as Pending).
 
 ### Excluding Text from Translation
 
@@ -72,7 +74,7 @@ In this case, there is a way to disable Unbabel in this specific ticket:
 
 - Open the ticket in question.
 - Click Apps > Unbabel for Zendesk Support.
-- click `Wrong language?` and select `English`.
+- `Change` the `Customer language` to `English`.
 
 From now on, Unbabel will not be triggered in this ticket.
 

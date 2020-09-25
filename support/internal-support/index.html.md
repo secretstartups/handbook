@@ -12,7 +12,7 @@ The purpose of this page is to direct GitLab team members outside of Support on 
 
 ## GitLab Support's Purpose
 
-GitLab Support provides technical support GitLab.com and Self-Managed GitLab customers. We do **not** provide support for GitLab team members who are experiencing IT (1Password, Slack, Mac, etc.) issues. If you require assistance with issues of that nature, please contact [IT Help](https://about.gitlab.com/handbook/business-ops/employee-enablement/it-help/).
+GitLab Support provides technical support GitLab.com and Self-Managed GitLab customers. We do **not** provide support for GitLab team members who are experiencing IT (1Password, Slack, Mac, etc.) issues. If you require assistance with issues of that nature, please contact [Team Member Enablement](/handbook/business-ops/team-member-enablement/self-help-troubleshooting/).
 
 ## Should I Contact GitLab Support?
 
@@ -28,14 +28,14 @@ If you'd like to ask a longer term or larger scope question, propose an idea to 
 
 The following channels are where GitLab Support can be found on Slack and are the best places to reach us, depending on what you need.
 
-- [#support_gitlab-com](https://gitlab.slack.com/messages/C4XFU81LG/) - This channel is specifically for the GitLab.com support team. They handle GitLab.com account and subscription support along with GitHost. It should be used if you have a quick question about the GitLab.com Support Team, specifically.
+- [#support_gitlab-com](https://gitlab.slack.com/messages/C4XFU81LG/) - This channel is specifically for the GitLab.com support team. They handle GitLab.com related tickets. It should be used if you have a quick question about the GitLab.com Support Team specifically.
 - [#support_self-managed](https://gitlab.slack.com/messages/support_self-managed/) - This channel is specifically for the self-managed support team. They handle self-managed production issues, triage bugs, and self-managed emergencies, among other things.
-- [#githost](https://gitlab.slack.com/messages/githost/) - This channel handles monitoring for GitHost instances.
-- [#support_managers](https://gitlab.slack.com/messages/CBVAE1L48/) - This channel is specifically for support managers.
+- [#support_licensing-subscription](https://gitlab.slack.com/messages/support_licensing-subscription/) - This channel handles license and subscription issues.
+- [#support_managers](https://gitlab.slack.com/messages/CBVAE1L48/) - This channel is for support managers including escalations.
 - [#feed_zd-gitlab-com](https://gitlab.slack.com/messages/CADGU8CG1/) - Feed of all GitLab.com Zendesk ticket activities.
 - [#feed_zd-self-managed](https://gitlab.slack.com/messages/C1CKSUTL5/) - Feed of all self-managed Zendesk ticket activities.
 
-In order to attract GitLab Support's attention on Slack, you can use the team handles, mentioning multiple team members in a message or a thread where our [**urgent** attention](https://about.gitlab.com/handbook/communication/#be-respectful-of-others-time) is needed. Support team handles are:
+In order to attract GitLab Support's attention on Slack, you can use the team handles, mentioning multiple team members in a message or a thread where our [**urgent** attention](/handbook/communication/#be-respectful-of-others-time) is needed. Support team handles are:
 
 - `@support-selfmanaged` - Self-managed support team members.
 - `@support-dotcom` - GitLab.com support team members.
@@ -63,43 +63,48 @@ You cannot send public replies to customers with a Light Agent account - if you 
 
 ## Common Requests
 
-### Regarding GitLab.com and Self-Managed
-
->**IMPORTANT TRIAL NOTE**: It's not yet officially recommended for support to start a trial on a namespace. If one is needed, *have the user initiate a normal Gold trial first*. 
-If a Silver or Bronze trial plan are needed  [open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Plan%20Change%20Request) using the `Plan Change Request` template to have the plan downgraded to Bronze or Silver.
-
-| Request      | What To Do                                                 |
-| ---------- | ------------------------------------------------------------ |
-| Extend GitLab.com Trial | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=GitLab.com%20Trial%20Extension) using the `GitLab.com Trial Extension` template.
-| Extend Self-Managed Trial | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Self%20Managed%20Trial%20Extension) using the `Self Managed Trial Extension` template.
-| Grant Bronze or Silver Trial | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Plan%20Change%20Request) using the `Plan Change Request` template.
-| Change Plan of a GitLab.com Namespace | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Plan%20Change%20Request) using the `Plan Change Request` template.
-| Claim Dormant GitLab.com Namespace | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Dormant%20Namespace%20Request) using the `Dormant Namespace Request` template.
-| Request Pipeline Minutes Reset | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Pipeline%20Quota%20Reset%20Request) using the `Pipeline Quota Reset Request` template.
-
 ### Regarding GitLab Support, Plans, and Namespaces
 
-| Request      | What To Do                                                 |
+| Request    | What To Do                                                   |
 | ---------- | ------------------------------------------------------------ |
-| Schedule Upgrade Assistance Call | [Open an issue](https://gitlab.com/gitlab-com/support/support-team-meta/issues/new?issuable_template=Upgrade%20Assistance%20Request) using the `Upgrade Assistance` template. |
+| Schedule Upgrade Assistance Call | Open an issue using the [`Upgrade Assistance`](https://gitlab.com/gitlab-com/support/support-team-meta/issues/new?issuable_template=Upgrade%20Assistance%20Request) or [`U.S. Federal Upgrade Assistance Request`](https://gitlab.com/gitlab-com/support/support-team-meta/issues/new?issuable_template=U.S.%20Federal%20Upgrade%20Assistance%20Request) template. |
 | Who is on-call for Self-Managed Support? | Run `/chatops run oncall support` in [#support_self-managed](https://gitlab.slack.com/messages/support_self-managed/) to find out. This will **not** page the on-call person. You can also run that command in a direct message to `GitLab Chatops`. |
 | Who is on-call for GitLab.com CMOC? | Run `/chatops run oncall cmoc` in [#support_gitlab-com](https://gitlab.slack.com/archives/C4XFU81LG) to find out. This will **not** page the on-call person. You can also run that command in a direct message to `GitLab Chatops`. |
 | Contact a GitLab.com User | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Contact%20Request) using the `Contact Request` template.  |
-| Excessive reCaptcha on GitLab.com | While it's happening, post in [#support_gitlab-com](https://gitlab.slack.com/messages/C4XFU81LG/) and link to the issue/MR in question to be added to the allowlist.
+| Excessive reCaptcha on GitLab.com | While it's happening, post in [#support_gitlab-com](https://gitlab.slack.com/messages/C4XFU81LG/) and link to the issue/MR in question to be added to the allowlist. |
+| Report complaints about support that you received from a client or prospect | Open an issue using the [`Indirect Feedback`](https://gitlab.com/gitlab-com/support/feedback/-/issues/new?issuable_template=Indirect%20Feedback) template |
 
-### Regarding Licensing
+### GitLab.com Namespaces
 
-| Request      | What To Do                                                 |
+| Request    | What To Do                                                   |
+| ---------- | ------------------------------------------------------------ |
+| Claim Inactive GitLab.com Namespace | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Dormant%20Namespace%20Request) using the `Inactive Namespace Request` template.
+
+### Trial Extensions and Plans
+
+> **NOTE**: Support will not start a trial. If one is needed, *have the user initiate a normal trial first*.
+
+| Request    | What To Do                                                   |
+| ---------- | ------------------------------------------------------------ |
+| Extend GitLab.com Trial | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=GitLab.com%20Trial%20Extension) using the `GitLab.com Trial Extension` template.
+| Extend Self-Managed Trial | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Self%20Managed%20Trial%20Extension) using the `Self Managed Trial Extension` template.
+| Change GitLab.com Trial to Bronze or Silver | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Plan%20Change%20Request) using the `Plan Change Request` template.
+
+Grace period extensions are also treated similarly to trial extensions for self-managed. For GitLab.com, the customer should start a trial once their subscription has expired. To request these for either self-managed or GitLab.com, create a trial extension issue and update the title accordingly to indicate that it is an existing customer.
+
+Please consider the following:
+
+1. A previous trial needs to exist for the customer. If no trial was created at any point a trial can be created by the customer the following day as the plan expires.
+1. We can provide grace period extensions as long as the current plan is not ongoing, in other words, if the plan expires on the 15th, we can increase the grace period starting the next day. please plan accordingly.
+
+### Regarding Licensing and Subscriptions
+
+| Request    | What To Do                                                 |
 | ---------- | ------------------------------------------------------------ |
 | Send/Resend EULA | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=EULA) using the `EULA` template.
-| Assistance With License Issue | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=license%20issue) using the `License Issue` template.
-
-### Regarding Legal
-
-| Request      | What To Do                                                 |
-| ---------- | ------------------------------------------------------------ |
-| Log Preservation Request | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Information%20Request) using the `Information Request` template.
-| Submit DMCA Request | [Open an issue](https://gitlab.com/gitlab-com/gl-security/abuse/issues/new?issuable_template=dmca_meta_issue) using the `DMCA Meta Issue` template.
+| GitLab.com Billable Members List | Until [#27074](https://gitlab.com/gitlab-org/gitlab/-/issues/27074) or [#35454](https://gitlab.com/gitlab-org/gitlab/-/issues/35454) is implemented, [open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=billable%20members) using the `Billable Members` template. |
+| Assistance With License Issue (not covered above) | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=License%20Issue) using the `License Issue` template.
+| Assistance With a SaaS Subscription Issue (not covered above) | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=SaaS%20Subscription%20Issue) using the `SaaS Subscription Issue` template |
 
 ### Other
 
@@ -107,15 +112,51 @@ If a Silver or Bronze trial plan are needed  [open an issue](https://gitlab.com/
 
 GitLab Support targets a 95% SLA acheievement KPI. This means that some tickets breaching is expected. Our SLA is for a _First Reply_ but we also internally track next reply. Asking for eyes on or the escalation of a ticket in [#support_gitlab-com](https://gitlab.slack.com/archives/C4XFU81LG) or [#support_self-managed](https://gitlab.slack.com/archives/C4Y5DRKLK) creates unnecessary stress on Support Engineers who may be in the midst of working on higher priority tickets. Depending on whether you want to draw attention to either a Zendesk ticket or an issue created in `internal-requests`, follow the steps below.
 
-**Zendesk Tickets**
+##### Zendesk Tickets
+{: .no_toc}
 
 1. Review the SLA associated with the account and the amount of time left until a breach by logging into [Zendesk](https://gitlab.zendesk.com) using Okta. It's not typically necessary to escalate an issue that is hours away from a breach. If the ticket has had a first reply, then you are looking at an "internal breach".
-1. Post a link to the ticket and a reason for why this ticket needs special attention into [#support_managers](https://gitlab.slack.com/archives/CBVAE1L48). Feel free to tag `@supportmanagers`. When you do this, we ask that you go above and beyond to help. If something breached, it means we are probably stuck. Take a look at the ticket and try and call in a relevant department manager to help. Messages where you ask other groups for help are more likely to get resolved sooner.
+
+1. From the `#support_managers` channel the Slack ticket escalation workflow can be initiated by following the steps below:
+
+    * While on the `#support_managers`, click on the small `lightning` icon as shown in the image.
+        ![alt text](images/slack_workflow_escalation.png "Start Workflow")
+
+    * Click on `Ticket Escalation`
+
+        ![alt text](images/workflow_menu.png "Start Workflow")
+
+     * Complete the information requested on the form and click on `Submit`
+        ![alt text](images/form.png "Escalation Form")
+
+     * After clicking `submit` the workflow will be sent and automatically tag the support managers. You will also receive a private message with a confirmation.
+
+     * All fields are required.
+
 1. Understand that we'll do our best to prioritize appropriately taking into account all of the tickets in the queues - there may be more pressing items.
 
-**Dotcom Internal Issues**
+##### Issues in `internal-requests`
+{: .no_toc}
 
 1. Post in [#support_managers](https://gitlab.slack.com/archives/CBVAE1L48) with a link to the issue and a short explanation of why it requires urgent attention. Please also keep in mind that issues in `internal-requests` have no SLA.
+
+##### Redirecting Escalations (For GitLab Support Use Only)
+{: .no_toc}
+
+If a ticket or issue escalation is posted in the wrong channel, simply add the `:escalation:` emoji as a reaction to the post and the user will be directed to re-post the escalation in [#support_managers](https://gitlab.slack.com/archives/CBVAE1L48) via a [Slack Workflow](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows).
+
+##### Trials and Prospect Support
+
+By default, [trial licenses do not include support](https://about.gitlab.com/support/#trials-support).
+
+If you've been contacted by a prospect whose evaluation of GitLab includes evaluating support expertise or SLA performance, as a member of the Sales team **you can grant temporary support for their trial license**. You can do this from the organization's Salesforce record. Locate the field titled `Manual Support Upgrade` and add a check mark. When you have done this, please wait 2 hours and then instruct your prospect to select `Sales assisted trial` as their subscription level when [submitting a support ticket](https://support.gitlab.com).
+
+1. There is no need to contact the Support team - selecting `Manual Support Upgrade` will mean your prospect's tickets automatically get the correct SLAs.
+1. Please wait for at least two hours after enabling the support upgrade before submitting a ticket to allow Salesforce and Zendesk to synchronize.
+1. Prospects who have been granted a temporary support upgrade receive [Priority Support SLAs](/support/#priority-support).
+1. Please uncheck the `Manual Support Upgrade` field when your prospect no longer needs the service.
+1. The Support and Sales teams regularly review the list of prospects who have been granted a temporary support upgrade to ensure only active prospects are selected.
+1. We are working with Sales Operations to put a limit on the maximum number of `Manual Support Upgrades`. This page will be updated when that work is completed.
 
 #### My customer is having trouble applying their GitLab.com subscription
 
@@ -134,6 +175,10 @@ If you'd like to enable this, please:
 1. A Support Engineer will then [Open an issue](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/issues/new?issuable_template=Shared%20Organization%20Request) using the `Shared Organization Request` template. The issue will be used to review the request and track the history of changes.
 1. When the issue is created the Support Ops Engineer will @mention the TAM / Account owner for awareness on the issue.
 
-#### My customer wants to know how many total users they have in their group(s)
+#### My customer needs a report of all the users within their group(s) structure
 
-A member of the group with `Owner` permissions may visit the **Settings -> Billing** section of the group to see how many seats are in their subscription and how many are currently in use. If they need a detailed report of where specific users have been added within their groups, subgroups, and projects they may make use of the [GitLab Group Leader](https://gitlab.com/gitlab-com/support/toolbox/glgl) tool. Please note that it is currently not possible for users to download a report of their group user count and usage but an [open feature proposal](https://gitlab.com/gitlab-org/gitlab/issues/27074) suggesting that such functionality be implemented exists.
+To view the group's number of billable members, a member of the group with `Owner` permissions may visit the **Settings -> Billing** section of it to see a breakdown. The number of billable members is the amount listed under `Seats currently in use` and this is the amount that will come up whenever they link their group to a paid subscription. Billable members [consist of every member](https://about.gitlab.com/pricing/licensing-faq/#who-gets-counted-in-the-subscription) who is added to a group, subgroup, or project within a paid namespace with the only exception being Guest users within a namespace on a Gold subscription.
+
+Currently, there is no single API call or section of the UI that shows a full list of users. Customers can run the [GitLab Group Leader](https://gitlab.com/gitlab-com/support/toolbox/glgl) tool, which will generate a report detailing where specific users have been added within their group(s) and any of its subgroups and projects. If the customer does not want to run this report themselves, they may submit a support ticket and we'll run it for them.
+
+We have a couple of issues, [27074](https://gitlab.com/gitlab-org/gitlab/-/issues/27074) and [7771](https://gitlab.com/gitlab-org/gitlab/-/issues/7771), that are being implemented soon to better view how seat counts are being used.

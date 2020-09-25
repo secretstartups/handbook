@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Ticketing Sytle Guide
+title: Ticketing Style Guide
 category: Handling tickets
 ---
 
