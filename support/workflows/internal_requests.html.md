@@ -51,7 +51,7 @@ The requestor should contact the [CMOC](/handbook/support/internal-support/#rega
 
 This typically requires GitLab.com admin access, because you will need to look up the relevant email addresses.
 
-When creating the ZenDesk ticket, you can use the `GitLab.com::Notices::General Contact Request` macro. Leave an internal note with a link to the issue.
+See the [Sending notices workflow](sending_notices.html) for more details. If none of the listed cases apply, you can use the `GitLab.com::Notices::General Contact Request` macro. Leave an internal note with a link to the issue.
 
 ## Repo Size Limit Increases
 
