@@ -19,7 +19,7 @@ The following benefits are provided by [Remote](https://www.remote.com/) and app
 
 * Healthcare Monthly Allowance will be paid by Remote as an allowance to the team members for their own Medical Coverage.
 * This amount will be paid on monthly basis with the regular payroll as a reimbursement.
-* Proof of coverage must be shared or forwarded to Remote in order to receive the correct allowance amount. 
+* Proof of coverage must be shared or forwarded to total-rewards@ domain in order to receive the correct allowance amount. 
 * The allowance will be up to R5,000 per month for team member and up to R8,500 per month for team member plus Dependants.
 
 ### Discovery Life Provident Umbrella Fund (Provident fund match)
