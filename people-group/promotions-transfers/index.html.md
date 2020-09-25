@@ -122,10 +122,8 @@ _Once a team member successfully completes the interview process and is selected
 When the interim period comes to a close, one of two outcomes can occur:
 
 1. The team member successfully completes the interim period aligned with [the success criteria](https://about.gitlab.com/handbook/engineering/career-development/#interim-manager) and moves into the interim role permanently. 
-* As a general guideline, the interim period should last no _less_ than 30 days, and no _more_ than 4 months 
-* At the end of the interim period the team member should have a 1:1 with the hiring manager dedicated to providing feedback (strengths during the interim period and improvement areas) to ensure alignment moving forward. 
-* The accomplishments leading up to the interim and during the interim can be used for the promotion document. As well as elements from the scorecard and final 1:1 with the manager can be used as input to complete the promotion document. 
-* Following this session, the hiring manager may [submit a formal promotion request](/handbook/people-group/promotions-transfers/#submit-a-promotion-request-in-bamboohr) via BambooHR including the promotion document to make the change official. 
+* As a general guideline, the interim period should last no _less_ than 30 days, and no _more_ than 4 months .  
+* The hiring manager should [submit a formal promotion request](/handbook/people-group/promotions-transfers/#submit-a-promotion-request-in-bamboohr) via BambooHR including the promotion document to make the change official. The accomplishments leading up to the interim and during the interim can be used for the promotion document.
 
 1. The team member does not complete the interim period successful or decides that the manager track is not something they want to pursue, and moves back to their role prior to the interim period. 
 * A feedback session between the team member and hiring manager should take place, so it is clear to the team member why the interim period was not successful.
