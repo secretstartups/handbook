@@ -234,10 +234,9 @@ Poland, Russia, Ukraine & Romania:
 ## Expense Policy
 
 1. Max Expense Amount - [$5,000 USD](https://www1.oanda.com/currency/converter/)  - NOTE - If you are a corporate credit card holder, please refer to the [corporate credit card policy section](/handbook/finance/accounting/#credit-card-use-policy) for those specific instructions and thresholds.
-1. Receipts are required for all expenses.
+1. Itemized receipts are required for all expenses.
 1. Expenses should be submitted within 30 days. This helps the Company to better manage our budget and ensures accurate month-end reporting.
 1. Expense report items should clearly state if the spend includes amounts for clients / non-team members.  Tax requirements in certain countries require us to account for client spend differently.
-1. For coworking space rental, and office supply and computer equipment purchases, please have your Gitlab entity printed on the receipt / invoice so that the amount can be deducted for tax purposes. Please ask your manager or in the #expense-reporting-inquires channel in Slack if you are unsure which entity you belong to.
 1. All team members must submit their expense reports in their designated policies in Expensify - COGS team members in COGS policies and non-COGS team members in non-COGS policies.
 1. Giftcards are not accepted as a form of payment for business expenses.
 1. All internet/telephone reimbursements must have a detailed receipt attached which shows the amount, service, and service date. 
