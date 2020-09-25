@@ -79,7 +79,7 @@ Every day at 9AM UTC we run a scheduled pipeline. This pipeline will fetch all t
 member means:
 
 - Team member who lives in the Netherlands
-- and who's first temporary contract ends in two months.
+- and who's temporary contract ends in two months.
 
 The email address used to send the email is `peoplespecialists@domain` and is set with a `reply-to: peopleops@domain` as nobody monitors replies to `peoplespecialists@domain`. The email address is strictly used for automation.
 
