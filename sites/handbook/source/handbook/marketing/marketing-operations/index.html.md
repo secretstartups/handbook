@@ -248,7 +248,7 @@ Marketing Operations approves any invoices that have not already been coded and 
 
 ## Lead Scoring, Lead Lifecycle, and MQL Criteria
 
-A Marketing Qualified Lead is a lead that has reached a certain threshold, we have determined to be 90 points accumulated, based on demographic/firmographic and/or behavioral information. The `Person Score` is comprised of various actions and/or profile data that are weighted with positive or negative point values. Every time a `Person Score` is updated, LeanData will run a check to see if the record needs to be processed through the flow.
+A Marketing Qualified Lead is a lead that has reached a certain threshold, we have determined to be 90 points accumulated, based on demographic/firmographic and/or behavioral information. The `Person Score` is comprised of various actions and/or profile data that are weighted with positive or negative point values. `Person Score` is one of the indicators used by LeanData to determine whether a lead needs to be assigned. Details about this process can be found on the [LeanData page](https://about.gitlab.com/handbook/marketing/marketing-operations/leandata/#lead-routing-workflow). 
 
 ### MQL Scoring Model
 
