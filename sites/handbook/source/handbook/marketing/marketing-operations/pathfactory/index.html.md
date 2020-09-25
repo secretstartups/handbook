@@ -733,7 +733,13 @@ You can use this same process to share content from the lead, contact, account, 
 
 **Important: You must use the Outreach option to share links to properly track activity and associate it back to the person you sent it to. If you don't follow this process, the person you send it to may or may not be served a form if they are `unknown` within PathFactory.**
 
-**Outreach**
+### Fast-Moving Buyer Alerts
+
+A fast-moving buyer alert or FMB alert is an email alert set up in Marketo to send a lead’s details to the lead owner. The alert is triggered when a lead spends at least 90 seconds and views at least 3 assets in a PathFactory experience. Below is an example of what the FMB alert looks like:
+
+![image](/handbook/marketing/marketing-operations/pathfactory/fmb-alert.png)
+
+The links in the alert will direct you to the lead or contact record in Salesforce where you can navigate to the PathFactory for Sales section to dive deeper into their content consumption journey. 
 
 ### FAQs
 
