@@ -103,7 +103,7 @@ In some cases it may not be practical or headcount planning might not allow for 
 - Perform a [Talent Assessment](/handbook/people-group/performance-assessments-and-succession-planning/#talent-assessment-options) with the manager's manager to determine readiness for the role;
 - Gather 360 feedback via Culture Amp for the manager.
 
-Once the Interim Manager's first new hire has been at GitLab for 30 days, or other agreed success criteria has been met, the Interim Manager can submit a [promotion document](/handbook/people-group/promotions-transfers/#for-managers-requesting-a-promotion-or-compensation-change) to their manager and determine the [compa group](/handbook/total-rewards/compensation/compensation-calculator/#determining) for the new role. The goal of this process is to have a determination made by the interim manager's manager about the promotion to a permanent manager role after the agreed success criteria has been satisfied. Generally we aim to have the interim period not to exceed 4 months before turning into a fulltime role.
+Once the Interim Manager's first new hire has been at GitLab for 30 days, or other agreed success criteria has been met, the Interim Manager can submit a [promotion document](/handbook/people-group/promotions-transfers/#for-managers-requesting-a-promotion-or-compensation-change) to their manager. The goal of this process is to have a determination made by the interim manager's manager about the promotion to a permanent manager role after the agreed success criteria has been satisfied. Generally we aim to have the interim period not to exceed 4 months before turning into a fulltime role.
 
 ## Roles
 
