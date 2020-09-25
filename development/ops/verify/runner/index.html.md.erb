@@ -290,6 +290,27 @@ This was inspired by the [Google Error
 budget](https://landing.google.com/sre/workbook/chapters/error-budget-policy/).
 It's used to balance reliability and new features.
 
+## Community contributions
+
+### Picking up abonded community contributions
+
+When a community contribution is abandoned by the original author, it's
+up to us to get it across the finish line, the list below outlines the
+process.
+
+1. Add the `~"coach will finish"` label to the merge request, and close
+the merge request.
+1. Open up an issue for this merge request if there isn't one, and
+attach the `~"Community contribution"` label to it to make it clear that
+it is/was being worked on by a community member.
+1. When we schedule the issue to be picked up by an engineer create a
+new merge request based on the original merge request **keeping all the
+original commits to keep the author attribution.** It is OK to
+squash/fixup the commits of a single contributor together into fewer
+commits in order to have a clean Git history.
+1. Link the new merge request to the old one for the community to be
+aware that it's being worked on in a different merge request.
+
 ## How to work with us
 
 ### On issues
