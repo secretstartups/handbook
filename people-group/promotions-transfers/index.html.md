@@ -67,7 +67,7 @@ All migration tasks by the applicable team members needs to be completed within 
 
 ## BambooHR or Greenhouse Process
 
-### Greenhouse 
+### Greenhouse
 * Promotions or Applications to Manager level roles: All managers will need to apply for the open position in [Greenhouse](/handbook/hiring/interviewing/#internal-applicants). They will go through the interview and approval process in Greenhouse to ensure anyone who would want to apply has the opportunity.
   * Example: Senior Backend Engineer applies to become a Manager, Engineering
 * Interim Roles: Interim roles at all levels should go through the Greenhouse interview process (regardless of the number of applicants for the role).
@@ -99,7 +99,7 @@ For any transfer being submitted through Greenhouse [hiring process](/handbook/h
 
 ### Interim (Engineering-Specific)
 
-As part of the career development structure within the Engineering division, interim and acting role opportunities occasionally arise. For more information on how interim and acting roles fit into Engineering career development, please reference the [Engineering career development handbook page](/handbook/engineering/career-development/). For information on the interim and acting processes, please continue reading below. 
+As part of the career development structure within the Engineering division, interim and acting role opportunities occasionally arise. For more information on how interim and acting roles fit into Engineering career development, please reference the [Engineering career development handbook page](/handbook/engineering/career-development/). For information on the interim and acting processes, please continue reading below.
 
 #### Beginning Interim Period
 
@@ -109,42 +109,42 @@ As highlighted in the [BambooHR or Greenhouse Process](https://about.gitlab.com/
 
 _Once a team member successfully completes the interview process and is selected for the interim period, the following steps should be taken to ensure the team member is set up for success in their interim role._
 
-2. *Recruiter*: Issue a Letter of Adjustment to finalize the beginning of the interim period. The Letter should include: interim job title, start date, and end date (if known). Letters of adjustment are important as this is the process by which Total Rewards is notified of change from Greenhouse. 
+2. *Recruiter*: Issue a Letter of Adjustment to finalize the beginning of the interim period. The Letter should include: interim job title, start date, and end date (if known). Letters of adjustment are important as this is the process by which Total Rewards is notified of change from Greenhouse.
 
 3. *Total Rewards*: Update the team member's job title in BambooHR to reflect that they have started an interim role (I.E. `Senior Manager, Engineering (interim)`). This update serves as the SSOT for tracking interim start and end dates, in addition to providing transparency pertaining to who is currently executing in an interim role. Job code and job grade will remain the same, as interim periods have no impact on compensation.
 
 4. *Current Manager*: A [Job Information Change Request](https://about.gitlab.com/handbook/people-group/promotions-transfers/#job-information-change-in-bamboohr) should be submitted to:
-  * Move interim direct reports so the team member's interim direct reports are reporting to them in BambooHR. The change needs to be initiated by the current manager. The philosophy here is that if a team member has successfully gone through the interview process and has demonstrated they are ready/able for an interim period in a manager role, they have the required level of EQ and discretion to have direct reports in BambooHR. It is, of course, expected that should the interim period not end in promotion, the team member continue to treat confidential information confidentially. 
+  * Move interim direct reports so the team member's interim direct reports are reporting to them in BambooHR. The change needs to be initiated by the current manager. The philosophy here is that if a team member has successfully gone through the interview process and has demonstrated they are ready/able for an interim period in a manager role, they have the required level of EQ and discretion to have direct reports in BambooHR. It is, of course, expected that should the interim period not end in promotion, the team member continue to treat confidential information confidentially.
 
 
 #### Ending Interim Period
 
 When the interim period comes to a close, one of two outcomes can occur:
 
-1. The team member successfully completes the interim period aligned with [the success criteria](https://about.gitlab.com/handbook/engineering/career-development/#interim-manager) and moves into the interim role permanently. 
-* As a general guideline, the interim period should last no _less_ than 30 days, and no _more_ than 4 months 
-* At the end of the interim period the team member should have a 1:1 with the hiring manager dedicated to providing feedback (strengths during the interim period and improvement areas) to ensure alignment moving forward. 
-* The accomplishments leading up to the interim and during the interim can be used for the promotion document. As well as elements from the scorecard and final 1:1 with the manager can be used as input to complete the promotion document. 
-* Following this session, the hiring manager may [submit a formal promotion request](/handbook/people-group/promotions-transfers/#submit-a-promotion-request-in-bamboohr) via BambooHR including the promotion document to make the change official. 
+1. The team member successfully completes the interim period aligned with [the success criteria](https://about.gitlab.com/handbook/engineering/career-development/#interim-manager) and moves into the interim role permanently.
+* As a general guideline, the interim period should last no _less_ than 30 days, and no _more_ than 4 months
+* At the end of the interim period the team member should have a 1:1 with the hiring manager dedicated to providing feedback (strengths during the interim period and improvement areas) to ensure alignment moving forward.
+* The accomplishments leading up to the interim and during the interim can be used for the promotion document. As well as elements from the scorecard and final 1:1 with the manager can be used as input to complete the promotion document.
+* Following this session, the hiring manager may [submit a formal promotion request](/handbook/people-group/promotions-transfers/#submit-a-promotion-request-in-bamboohr) via BambooHR including the promotion document to make the change official.
 
-1. The team member does not complete the interim period successful or decides that the manager track is not something they want to pursue, and moves back to their role prior to the interim period. 
+1. The team member does not complete the interim period successful or decides that the manager track is not something they want to pursue, and moves back to their role prior to the interim period.
 * A feedback session between the team member and hiring manager should take place, so it is clear to the team member why the interim period was not successful.
-* The manager should submit a [job information change request](https://about.gitlab.com/handbook/people-group/promotions-transfers/#job-information-change-in-bamboohr) in BambooHR to revert the team member's job title. 
+* The manager should submit a [job information change request](https://about.gitlab.com/handbook/people-group/promotions-transfers/#job-information-change-in-bamboohr) in BambooHR to revert the team member's job title.
 
-* Not successsfully completing the interim period _does not_ mean the team member can not move into a similar role in the future
+* Not successfully completing the interim period _does not_ mean the team member can not move into a similar role in the future
 
 
-_Irrespective of the outcome, when the interim period ends, the manager should review the [Criteria For Eligibility](/handbook/total-rewards/compensation/#criteria-for-eligibility) for the [Interim Bonus](/handbook/total-rewards/compensation/#calculation-of-interim-bonus) and [submit an interim bonus request](/handbook/incentives/#process-for-recommending-a-team-member-for-a-bonus-in-bamboohr) for the team member. 
+_Irrespective of the outcome, when the interim period ends, the manager should review the [Criteria For Eligibility](/handbook/total-rewards/compensation/#criteria-for-eligibility) for the [Interim Bonus](/handbook/total-rewards/compensation/#calculation-of-interim-bonus) and [submit an interim bonus request](/handbook/incentives/#process-for-recommending-a-team-member-for-a-bonus-in-bamboohr) for the team member.
 
 ### Acting
 
-A person "acting" in the role is someone who occupies a role temporarily and will move back to their original role after a set amount of time or other conditions. "Acting" in a role may be experimenting with the role as a part of determining an individual's career development path, or may be filling in for a vacant role while we hire someone to fill the role permanently. While interim is only applicable to the Engineering division, acting is used across GitLab. 
+A person "acting" in the role is someone who occupies a role temporarily and will move back to their original role after a set amount of time or other conditions. "Acting" in a role may be experimenting with the role as a part of determining an individual's career development path, or may be filling in for a vacant role while we hire someone to fill the role permanently. While interim is only applicable to the Engineering division, acting is used across GitLab.
 
 *Interviews are not required role Acting roles as they generally do not end in promotion, nor are direct reports in BambooHR generally moved to Acting managers.* The process for selecting someone for an acting position is:
 
   * Upcoming Acting roles will be discussed over Staff meetings.
   * Leadership can gather interest from their team members for the upcoming acting roles.
-  * The hiring manager will determine the most suitable team member for the acting role. 
+  * The hiring manager will determine the most suitable team member for the acting role.
 
 
 _When the acting period ends, the manager should review the [Criteria For Eligibility](/handbook/total-rewards/compensation/#criteria-for-eligibility) for the [Interim Bonus](/handbook/total-rewards/compensation/#calculation-of-interim-bonus) and [submit an interim bonus request](/handbook/incentives/#process-for-recommending-a-team-member-for-a-bonus-in-bamboohr) for the team member._
@@ -155,7 +155,7 @@ To promote or change compensation for one of your direct reports, do the followi
 
 1. [Verify whether this promotion should be approved in BambooHR or Greenhouse](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process). If BambooHR, continue. If Greenhouse, please reach out to the recruiter on the role.
 1. [Create a Promotion or Compensation Change Document](/handbook/people-group/promotions-transfers/#creating-a-promotion-or-compensation-change-document)
-1. [Complete a Compa Group Review](/handbook/people-group/promotions-transfers/#complete-a-compa-group-review)
+1. [Recommend a Compensation Increase](/handbook/people-group/promotions-transfers/#recommend-a-compensation-increase)
 1. [Submit a request in BambooHR](/handbook/people-group/promotions-transfers/#submit-a-promotion-request-in-bamboohr)
 
 **Things to consider before you start the process:**
@@ -170,10 +170,10 @@ Create a google doc that outlines the criteria of the role. Make this document v
 Tips for creating a promotion document:
 * Promote based on performance, not based on potential
 * Add evidence - try to remove feelings and use evidence: links to MRs, issues, or project work that clearly demonstrates the skills, knowledge, and abilities of the person.
-* Feedback from other team members is _optional_ to include in promotion documents per the [promotion template](https://docs.google.com/document/d/1SavyZeQRXY4fOzv0Y7xMv4TiuWQIf51YtMptr_ZWFQs/edit#). 
+* Feedback from other team members is _optional_ to include in promotion documents per the [promotion template](https://docs.google.com/document/d/1SavyZeQRXY4fOzv0Y7xMv4TiuWQIf51YtMptr_ZWFQs/edit#).
 
 **Important Notes**:
-* Do not solicit feedback for the purpose of the promotion document as this could be a violation of personal privacy. All feedback included should be feedback provided prior. 
+* Do not solicit feedback for the purpose of the promotion document as this could be a violation of personal privacy. All feedback included should be feedback provided prior.
 * All feedback included should be anonymized (unless it had already been made public - for example: a discretionary bonus, #thanks Slack channel, etc.)
 
 * [Values](https://about.gitlab.com/handbook/values/) alignment - values are also very important when considering promotions. This is especially the case for anyone who is moving to Senior. As one moves into management, the importance compounds. Values thrive at a company only when we take them into consideration for hiring and promotions.
@@ -190,20 +190,18 @@ The general promotion document serves as a baseline to outline what should be in
 
 * [General Promotion Document: Template](https://docs.google.com/document/d/1SavyZeQRXY4fOzv0Y7xMv4TiuWQIf51YtMptr_ZWFQs/edit#)
 
-While this varies, most promotion documents should be roughly 4-6 pages in length (though it is possible to have a solid document with less!). Quality is more important than quantity for promotion documents; 20 pages of documentation should not be necessary if the team member is truly ready for a promotion. 
+While this varies, most promotion documents should be roughly 4-6 pages in length (though it is possible to have a solid document with less!). Quality is more important than quantity for promotion documents; 20 pages of documentation should not be necessary if the team member is truly ready for a promotion.
 
-### Complete a Compa Group Review
+### Recommend a Compensation Increase
 
-At GitLab, we ensure that promotions are impactful from the compensation perspective, stay within range of the compa ratio, and are equitable to peers in the same role. To complete a Compa Group Review, read the breakdown of [Compa Groups](/handbook/total-rewards/compensation/compensation-calculator/#compa-group) and, if it helps, use the Compa Group Worksheet.
+At GitLab, we ensure that promotions are impactful from the compensation perspective, stay within range of the compensation calculator, and are equitable to peers in the same role. As part of the BambooHR request, the manager will be able to submit a recommended increase in cash compensation for their direct report using the compensation calculator. If you have any questions feel free to reach out to your People Business Partner or the Total Rewards Team.
 
-Things to note when completing a compa group review:
-
-- When a team member is promoted from one level to the next in the same job family, it is typical to see compa groups reset. For example, if you are an expert in the role as a Frontend Engineer, you would typically be learning in the role as a Senior Frontend Engineer.
-- Benchmarking data relays that typically [4-8% of your population will be promoted](https://www.shrm.org/ResourcesAndTools/business-solutions/Documents/Human-Capital-Report-All-Industries-All-FTEs.pdf) annually with an average of a [9.3% increase to base salary](https://www.worldatwork.org/docs/research-and-surveys/survey-brief-promotional-guidelines-2016.pdf).
-- Any promotions with the following conditions will require additional justification to the Total Rewards team and executive approver:
+- When a team member is promoted from one level to the next in the same job family, it is typical to be brought between the minimum and median of the compensation range.
+- The Total Rewards Team typically recommends a 5%-10% increase as part of the promotion to cash compensation. Additional equity is fixed based on [stock options for promotions](/handbook/stock-options/#promotions).
+  - Benchmarking data relays that typically [4-8% of your population will be promoted](https://www.shrm.org/ResourcesAndTools/business-solutions/Documents/Human-Capital-Report-All-Industries-All-FTEs.pdf) annually with an average of a [9.3% increase to base salary](https://www.worldatwork.org/docs/research-and-surveys/survey-brief-promotional-guidelines-2016.pdf).
+- Any promotions with the following conditions will require additional justification to the Total Rewards team and executive approver. Please add the business justification as a comment in the BambooHR request.
     1. An increase of more than 10%
-    1. A comp group higher than learning in the role (or growing in the role if the team member served as an interim).
-    1. The promotion exceeds the compa ratio (would be paid over the top end of the compensation range).
+    1. The promotion exceeds the range in the compensation calculator (would be paid over the top end of the compensation range).
 
 ### Submit a Promotion request in BambooHR
 
@@ -218,8 +216,8 @@ Things to note when completing a compa group review:
     - Note: Salary information is entered per payroll. For example, if the team member is in the United States, the annual salary is divided by 24 to get the pay rate to be entered. If the employee is in the Netherlands, please divide by 12.96. The divisor can be found in the "Pay Frequency" field above "Comment for the Approver(s)" in the request form. For any questions on how to fill out the form, please reach out to People Ops Analysts.
 - In the comments section please include:
     - The promotion document
-    - Your Compa Group Review
     - Any proposed change to variable compensation (if applicable)
+    - If applicable, any business justification for an increase greater than 10% or above the compensation calculator.
 - Managers should not communicate any promotion or salary adjustment until the request has gone through the entire approval process and you receive an adjustment letter from Total Rewards Analysts.
 
 ### BambooHR Promotion Approval Process
@@ -227,8 +225,8 @@ Things to note when completing a compa group review:
 This section describes the approval chain after a manager submits a promotion or compensation change request in BambooHR.
 
 1. The indirect manager will review the promotion in BambooHR.
-1. The People Business Partner will then review the business case for promotion and compa group then they will ping the Total Rewards team to add the compensation notes (Review the [For People Business Partners](#for-people-business-partners-approving-promotions--compensation-changes) section below for details).
-1. The Total Rewards team will ensure the proposal adheres to the Global Compensation Calculator, with a comment outlining old compensation, new compensation, increase percentage, additional [stock options](/handbook/stock-options/#stock-option-grant-levels), compa group, job code, rolling 12 month promotion rate for the department, if over the target for the rolling 12 month promotion rate also add the forward 12 month promotion plan for the department, and a link to the salary calculator. The People Business Partner will then approve the request if applicable.
+1. The People Business Partner will then review the business case for promotion then they will ping the Total Rewards team to add the compensation notes (Review the [For People Business Partners](#for-people-business-partners-approving-promotions--compensation-changes) section below for details).
+1. The Total Rewards team will ensure the proposal adheres to the Global Compensation Calculator, with a comment outlining old compensation, new compensation, increase percentage, additional [stock options](/handbook/stock-options/#stock-option-grant-levels), job code, rolling 12 month promotion rate for the department, if over the target for the rolling 12 month promotion rate also add the forward 12 month promotion plan for the department, and a link to the salary calculator. The People Business Partner will then approve the request if applicable.
 1. The E-Group leader will review the entire proposal in BambooHR for approval.
 1. The CFO or CEO will review the request. If there are any questions, the CFO or CEO will add a comment outlining the specific concerns and the Total Rewards team will ensure follow-up within a week to escalate to the comp group or deny the request.
 1. If the request is approved, the Total Rewards team will process the change on BambooHR and stage the Letter of Adjustment in HelloSign.
@@ -245,17 +243,15 @@ This section describes the approval chain after a manager submits a promotion or
     - Values alignment
     - While not a requirement, some promotion documents also include: references from other team members and improvement areas
     - Check the sharing settings, as this should be readable by everyone at GitLab with a link
-1. Review the Compa Group submitted for knowledge, skills, and ability alignment. The [Compa Group Worksheet](/handbook/total-rewards/compensation/compensation-calculator/#determining) is optional, but often in Engineering used as a tool for the manager to determine the compa group. Additionally check:
-    - Bonuses received by the team member
-    - Current Compa Group (I.E. Typically before moving to promotion the team member should be `thriving` in their current role)
+1. Review Bonuses received by the team member.
 1. Ping the manager requesting the promotion via Slack to confirm that the department leader and E-Group leader are aware and supportive of the promotion.
-1. Align with the `Manager, Total Rewards` in the private #promo_compensation Slack channel to ensure Compensation notes are added in BambooHR.
+1. Align with the Total Rewards in the private #promo_compensation Slack channel to ensure Compensation notes are added in BambooHR.
 1. Cross-check Compensation adjustment in accordance with the [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/).
 1. We want for promotions and compensation changes in Engineering that they are approved by all leaders up to the EVPE. As BambooHR has a limit in the amount of approvers use the Division specific slack channel to have approval of all leaders.
 1. If an approver is skipped in BambooHR: Share the promotion information in the private Division-specific promotion Slack channel with an overview of:
     - Team member name
     - Promotion request (current job title and new job title)
-    - Compensation notes (current compensation, proposed compensation, increase %, additional stock options, compa group, compensation calculator)
+    - Compensation notes (current compensation, proposed compensation, increase %, additional stock options, compensation calculator)
 1. `@mention` the skipped department leader for approval in the Division-specific promotion Slack channel. Example: Promotion for Backend Engineer to Senior Backend Engineer. The BambooHR process includes the direct manager, department Director and EVPE. The missing department leader here is the VP of Development. In this case `@mention` the VP of Development for approval.
 1. PBP approves the promotion request in BambooHR.
 
@@ -279,7 +275,7 @@ This section describes the approval chain after a manager submits a promotion or
 1. Stage the letter in HelloSign and add the following team members to sign:
     - Add checkbox for the Total Rewards Analyst to audit
     - Add checkbox for the Manager to communicate the change to the team member and announce at the company calculator
-    - Add signature field for the Compensation and Benefits Manager
+    - Add signature field for the Total Rewards Authorized Signatory
     - Add signature field for the team member
     - Add sign date field for the team member
     - **Note:** Make sure that **a)** "Assign signer order” option has been selected while preparing the doc, and **b)** In **Settings >> Profile >> Send an email to all parties in an ordered signature request when the request has started** option is unchecked.
@@ -300,7 +296,6 @@ To demote one of your direct reports, a manager should follow the following step
 - Once approved, the manager informs the individual. Please cc total-rewards@ gitlab.com once the individual has been informed, to processes the changes in the relevant administrative systems, and stage a [Letter of Adjustment](/handbook/people-group/contracts-and-international-expansion/#letter-of-adjustment).
 - Changes in title are announced on the `#team-member-updates` Slack channel.
 - The manager will initiate any necessary onboarding or offboarding.
-- A demotion is not a change in compa group, a demotion is a change in job level. A demotion is not going from thriving to growing in your current role.  A demotion for would be going from a Senior Product Manager or Senior Backend Engineer to Intermediate Product Manager or Intermediate Backend Engineer.
 
 ## Job Information Change in BambooHR
 
@@ -367,7 +362,7 @@ If you are interested in another position within your department and the manager
 
 If a team member sees a vacancy posted that is the next level up within their [job family](/handbook/hiring/job-families/#job-families) (for example an Intermediate Frontend Engineer sees a vacancy for an Senior Frontend Engineer), the team member should have a conversation with their manager about exploring that opportunity. Once that discussion is completed the team member should follow the internal department transfers guidance above.
 
-It is the manager’s responsibility to be honest with the team member about their performance as it relates their promotion readiness. If the manager agrees that the team member is ready, then they will be promoted to the next level. If they do not think the team member is ready for the promotion, they should walk through the compa group and their career development document, as well as work on a promotion plan with the team member. The manager should be clear that the team member is not ready for the promotion at this time and what they need to work on. If the team member would still like to submit an application for the role after the conversation with their manager, they can apply and go through the same interview process as external candidates. The recruiter will confirm with the manager that the promotion readiness conversation has taken place before the internal interview process starts.
+It is the manager’s responsibility to be honest with the team member about their performance as it relates their promotion readiness. If the manager agrees that the team member is ready, then they will be promoted to the next level. If they do not think the team member is ready for the promotion, they should walk through their career development document, as well as work on a promotion plan with the team member. The manager should be clear that the team member is not ready for the promotion at this time and what they need to work on. If the team member would still like to submit an application for the role after the conversation with their manager, they can apply and go through the same interview process as external candidates. The recruiter will confirm with the manager that the promotion readiness conversation has taken place before the internal interview process starts.
 
 #### For Internal Applicants - Different Job Family
 
@@ -399,19 +394,19 @@ Company priorities can change and occasionally some or all members of a team may
 In cases where multiple individuals are asked to transfer to high priority roles:
 
 1. Legal counsel and the People Business Partner for the group should be notified to align on the process and impact of the resources realignment.
-1. Select a DRI to coordinate the overall realingment process. This DRI should work closely with their People Business Partner to ensure we comply with all local labor laws.
+1. Select a DRI to coordinate the overall realignment process. This DRI should work closely with their People Business Partner to ensure we comply with all local labor laws.
 1. Communicate the reassignment decision to effected team members. Emphasize this is not about poor performance, but rather a way to shift high value individuals to the highest priorities.
 1. Organize one or more Team Pitch Office Hours meeting where individuals considering transfers can learn about teams that are hiring. Hiring managers should attend the office hours to talk about what is interesting about their teams. [Team Pitch Office Hours video](https://www.youtube.com/watch?v=-MgiUA7sAHU&feature=youtu.be)
 1. Encourage individuals considering transfers to meet with hiring managers to get more information about the roles they are interested in.
 1. Ask for and record the role each individual's transfer preference. Also ask for their second choice and third choice.
-1. After individuals gave their preference, the skills/requirements of the roles will be matched to the skills of the individuals. For example: level, compa group, product/technical skills, potentially soft skills.
+1. After individuals gave their preference, the skills/requirements of the roles will be matched to the skills of the individuals. For example: level, product/technical skills, potentially soft skills.
 1. DRI work with People Business Partner to ensure all legal requirements are met as these vary between countries.
 1. Ask hiring manager to approve transfer. If they don't approve look at the individual's first or second choice.
 1. Follow the normal process for recording and announcing each transfer.
 
 #### For People Success & Recruiting Team
 
-Vacancies will be posted internally using the Greenhouse internal job board for at least 3 business days. If a role is not posted internally there must be a business case documentd in the HRIS file of the team member who received the new role. See [Department Transfers](/handbook/people-group/promotions-transfers/#department-transfers) for additional details.
+Vacancies will be posted internally using the Greenhouse internal job board for at least 3 business days. If a role is not posted internally there must be a business case documented in the HRIS file of the team member who received the new role. See [Department Transfers](/handbook/people-group/promotions-transfers/#department-transfers) for additional details.
 
 More details can be found on the [Intneral Applications](/handbook/hiring/interviewing/#internal-applicants) page and the [Letter of Adjustment (LOA)](/handbook/people-group/contracts-and-international-expansion/#letter-of-adjustment) page.
 
