@@ -91,6 +91,7 @@ If you are a team member residing in India, please consider using the following 
 - For verification, DHL matches the name and address on your proof of ID with the name and address in your consignment. So, when providing the address for delivery, make sure to provide the same address as on one of your proofs of ID.
 - In a scenario where you do not have any ID associated with the address you intend to provide, consider shipping the item in the name of somebody who holds a valid proof of ID at that address, like a relative or a friend.
 - Please check out the list of [valid KYC documents](https://dhlindia-kyc.com/forms/valid-kyc-docs.aspx#ind-indian) before placing the order.
+- In the event that DHL charges Import Duty for the cards, you may proceed with paying the amount and expensing the amount through your normal expense process. 
 
 ### Business Cards-Special Characters
 -If you are a team member who needs business cards with special characters, please reach out to the People Experience Team (people-exp@gitlab.com)and indicate how you would like the layout to look like.
