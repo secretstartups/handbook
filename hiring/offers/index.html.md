@@ -62,6 +62,10 @@ As we scale it is important to have some typical naming conventions when it come
 
 It is also important to recognize when a position is a manager of people compared to a manager of a product/function. If a manager of people the job title should be manager, department/division/specialization. For example; Manager, Recruiting. A product/function manager should be titled with Manager at the end of the title. For example; Marketing Program Manager. In some cases because of industry standards, this may not be possible; i.e. Area Sales Manager (ASM), should not be listed as Manager, Area Sales.
 
+#### Compensation in the Offer Details
+
+When discussing a proposed compensation, the recruiting team and hiring manager should take into account the following: candidate expectations, role alignment in the market, and where within the compensation range peers are aligned internally at GitLab. The goal is to offer a [competitive rate](/handbook/total-rewards/compensation/#competitive-rate) to the candidate while maintaining [pay equality](/handbook/people-group/people-success-performance-indicators/#pay-equality) at GitLab. 
+
 #### Other Offer Details
 
    - Note that the offer package should include the candidate's proposed compensation in the most appropriate currency and format for their country of residence and job role. Annual and monthly salaries should be rounded up or down to the nearest whole currency unit and should always end with a zero (e.g., "50,110.00" or "23,500.00"). Hourly rates should be rounded to the nearest quarter-currency unit (e.g., 11.25/hr.).
@@ -84,11 +88,11 @@ Information in the offer package for counter offers should include the following
 #### Offer Approval Flow
 
 1. The Total Rewards team will receive an email notifying them of the offer.
-   * The Total Rewards team will run the following analysis: 
+   * The Total Rewards team will run the following analysis:
      * Ensure the compensation is in line with our compensation benchmarks
-     * Audit stock options, department, division, etc. 
-     * Add entity, job code, job grade, sales geo differential 
-     * Ensure the title is added to BambooHR. 
+     * Audit stock options, department, division, etc.
+     * Add entity, job code, job grade, sales geo differential
+     * Ensure the title is added to BambooHR.
    * Only one approval is needed in order to move forward.
    * If the hire is not in a low location factor area above 0.9, the e-group member responsible for the function and the CFO will be notified.
 1. Next, The Financial Planning Analyst will receive a notification to approve.
@@ -109,9 +113,9 @@ If the offer is for a manager or individual contributor, the CPO or CEO do not n
 
 ### Communicating the Offer
 
-Once the offer package has been approved by the approval chain, the verbal offer will be given, which will be followed by an official contract, which is sent through Greenhouse. During the verbal offer, it is important that the Recruiter or individual making the offer, communicate to the candidate that we will never expect anyone to join on a National Holiday in their location and if they can therefore confirm a viable start date. It is also important when communicating the offer to go over the candidate’s [employment type](/handbook/people-group/contracts-and-international-expansion/#team-member-types-at-gitlab) and [benefits](/handbook/total-rewards/benefits/). 
+Once the offer package has been approved by the approval chain, the verbal offer will be given, which will be followed by an official contract, which is sent through Greenhouse. During the verbal offer, it is important that the Recruiter or individual making the offer, communicate to the candidate that we will never expect anyone to join on a National Holiday in their location and if they can therefore confirm a viable start date. It is also important when communicating the offer to go over the candidate’s [employment type](/handbook/people-group/contracts-and-international-expansion/#team-member-types-at-gitlab) and [benefits](/handbook/total-rewards/benefits/).
 
-You can find more about making a verbal offer [here](/handbook/hiring/recruiting-framework/req-overview/#step-11-verbal-offer). 
+You can find more about making a verbal offer [here](/handbook/hiring/recruiting-framework/req-overview/#step-11-verbal-offer).
 
 Offers made to new team members should be documented in Greenhouse through the notes thread between the person authorized to make the offer and the Candidate Experience Specialist.
 
