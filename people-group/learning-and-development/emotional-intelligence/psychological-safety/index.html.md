@@ -29,6 +29,17 @@ Watch the video below where Susan David explains psychological safety.
 
 ## How it Works
 
+The following information was summarized from an [article on Psychological Safety](https://peopletalking.com.au/project/psychological-safety/) by PeopleTalking. 
+
+Psycholgoical Safety has primary importance when it comes to significant impact on a team's performance. The other factors are: 
+
+- Dependability 
+- Structure
+- Meaning & Clarity
+- Impact
+
+The other four factors on the diagram below are only valuable when the team is already psychologically safe. Those factors are: Accountability, Open Communication & Motivation, Dialogue Practices, and Shared Assumptions. 
+
 When you have psychological safety in the workplace, the following things increase: 
 
 - Collaboration
