@@ -45,7 +45,7 @@ The below page overviews the primary meetings for the WW Field Team.
 
 ## Sales Group Conversation
 
-* When: Happens once every 6 weeks at 8am Pacific time
+* When: Happens once every 8 weeks at 8am Pacific time
 * Where: Zoom link varies - please be sure to check the calendar invitation
 * What: The CRO Leaders will rotate and provide the company with an update on their business, overall team performance, notable wins, accomplishments, and relevant strategies planned.
 You can view previous updates in the "Group Conversation Sales" (previously "Functional Group Update Sales") folder on the Google Drive.
