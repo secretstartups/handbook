@@ -62,6 +62,27 @@ When we look at the product [Growth](/handbook/product/product-categories/#growt
 
 Follow the same [General Workflow](/handbook/support/workflows/internal_requests.html#general-workflow) as dotcom for servicing L&R internal requests.
 
+#### L&R Internal Requests Hawk
+
+There is a internal requests hawk role which rotates on a weekly basis which
+serves as a temporary measure to make sure internal requests tagged with
+`License Issue` receive the appropriate attention from Support. When on this
+role, prioritize working on internal request issues over Zendesk tickets
+
+When you are on this hawk role, the general workflow guide is:
+
+1. Review the list of [unassigned issues labeled `License Issue`](https://gitlab.com/gitlab-com/support/internal-requests/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=License%20Issue&assignee_id=None).
+1. Pick an issue to work on/response to and assign this to yourself.
+1. Repeat step 1 and 2 until there are no longer any unassigned issues.
+1. Check if there are any [assigned issues where responses have stalled](https://gitlab.com/gitlab-com/support/internal-requests/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=License%20Issue) and check with the assignee if follow up action needs to be taken.
+
+You will continue to be responsible for any issues assigned to yourself even
+after you're off the role, so be mindful about working sustainably. If you need
+to, ask for others to assist with unassigned issues -- the expectation is that
+GitLab Support as a team should be responding timely to internal requests, not
+you personally as the L&R Internal Requests Hawk.
+
+
 #### [GitLab.com Billable Members List](https://gitlab.com/gitlab-com/support/internal-requests/-/blob/master/.gitlab/issue_templates/Billable%20Members.md)
 
 Use the [rollcall script](https://gitlab.com/gitlab-com/support/toolbox/glgl#rollcall) and obtain a list of members for the group. If the script doesn’t work, or shows discrepancies, involve someone with console escalation access by applying the `Console escalation::GitLab.com` label in the issue.
