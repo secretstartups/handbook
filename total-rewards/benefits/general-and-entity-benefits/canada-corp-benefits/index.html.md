@@ -49,6 +49,10 @@ GitLab offers medical, dental, and vision coverage at no cost to the team member
 * Survivor Benefit: 24 months
 * Termination Age: Retirement
 
+## Akira - Virtual Care
+
+GitLab team members enrolled in Canada Life have the option of Akira Virtual Care. This is a on-demand virtual care solution. It gives members and their family direct access to secure medical consults with friendly, knowledgeable clinicians – 24/7. For more information, please see the [flyer](https://drive.google.com/file/d/1DIRQ2EaAelXKTsxG8o9mS9P0YIGBnj4j/view?usp=sharing). 
+
 ### Dental Coverages
 
 **Coverage Summary:**
