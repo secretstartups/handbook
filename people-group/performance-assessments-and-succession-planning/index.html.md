@@ -51,12 +51,27 @@ Potential refers to the ability and desire of a team member to successfully assu
 
 #### Guidelines on the Placement of Talent in the Performance/Potential Matrix Assessment: 
 {DRAFT, additional guidelines will be added by September 30th}
-* Managers complete a Performance/Potential Matrix for their staff; Roll up through Executive Team
-* Talent Review Manager Meeting: All people managers come together to review and discuss results across the organization for each role. Changes are made as appropriate.
-* Executive Review: Leadership meets to review the TRP Results; Promotion Requests; Review Development and Performance Actions; Review Discrepancies; Monitor Progress from previous TRP series.
-* Final TRP results shared with managers: Manager education session with next steps and action plans
 
-From beginning to end this process is typically 4-6 weeks.
+Using the [Assessment Tool](https://about.gitlab.com/handbook/people-group/engineering/assessment-tool/), Managers will review the performance / potential of their Direct Reports and place them within the matrix accordingly.  Managers should prepare for the assessment cycle by having set criteria against which team members will be reviewed in mind.
+
+Below are examples for Managers to consider when compiling their criteria set, some of which speak to productivity and others to potential giving a balanced sense of where the team member should be placed in the grid:
+
+| Criteria | Points for Consideration |
+| --- | --- | 
+| **Output Delivery** | Is the team member consistently able to produce adequate results within the predefined scope of their role - consider this in parallel with applicable Job Family. |
+| **Solution Centricity** | Is the team member able identify solutions and achieve results in an innovative way, is there an awareness of over-arching company strategies and are they contributing in some way to the achievement of them. |
+| **Core Value Alignment** | Does the team member consistently demonstrate the core [GitLab Values](https://about.gitlab.com/handbook/values/), always operating within the best interests of the company and those who work in it. |
+| **Self-Directed Career Mobility** | is the team member able to learn and adapt quickly - applying the knowledge gained to overcoming challenging situations and achiving the desired results. |
+| **Leadership Competencies** | Does the team member exhibit the [competencies](https://about.gitlab.com/handbook/competencies/#manager-and-leadership-competencies) required to become a Manager / Leader within GitLab and if so do they require further development in these areas. |
+| **Promotion Readiness** | Is the team member ready to move into a more senior role within GitLab - if not what would you consider the time frame for development to be. |
+| **Team Dynamics** | Does the team member collaborate well with other team members, peers, and stable counterparts? Are they someone people are happy to work with? Data sources for this information can be a variety of things, ranging from 360 feedback, observations in team meetings, 1:1 conversation/feedback, etc.|
+
+#### Review Process Steps
+*This is typically a four to six week process from beginning to end.*
+* Managers complete a Performance/Potential Matrix for their respective teams; Roll up through Executive Team.
+* Talent Review Manager Meeting i.e. all people managers come together to review and discuss results across the organization for each role. Changes are made as appropriate.
+* Executive Review i.e. leadership meets to review the TRP Results; Promotion Requests; Review Development and Performance Actions; Review Discrepancies; Monitor Progress from previous TRP series.
+* Final TRP results shared with Managers i.e. education session with next steps and action plans.
 
 | Competencies → <br> Accountabilities ↓ | Less effective <br> | Effective <br> | Most Effective <br> |
 |----------------------------------------|----------------|-----------|----------------|
