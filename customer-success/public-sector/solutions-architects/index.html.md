@@ -47,7 +47,7 @@ The goals of this introduction are many:
 2. Ensure a smooth conversational shift from go to market use cases to DevOps stage adoption
 3. Validate customer access to GitLab Support
 4. Help the customer choose their level of TAM assistance after procurement
-5. Ensure the customer understands available Professional Services and enablement
+5. Ensure the customer understands available GitLab Enablement and Professional Services
 
 ### Program Flow
 
