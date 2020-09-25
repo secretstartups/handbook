@@ -2,9 +2,9 @@
 layout: handbook-page-toc
 title: Demand Generation Campaigns Handbook
 description: Demand Generation Campaigns Handbook
-twitter_image: '/images/tweets/handbook-marketing.png'
-twitter_site: "@gitlab"
-twitter_creator: "@gitlab"
+twitter_image: /images/tweets/handbook-marketing.png
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -91,19 +91,32 @@ Is our single source of truth (SSoT) for processes and relevant links
 
 ## Issue Templates
 
-We ask that teams request work using our issue templates in the campaigns project. These templates clarify what information and details are required in order to complete the request.
+We ask that teams request work using the following issue templates in the campaigns project. These templates more clearly indicate what information and details are required in order for the request to be triaged.
 
-- [email-request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=email-request)
-- [request-zoom-license-date](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=zoom-license-date-request)
+- [request-add-nurture](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-add-nurture)
+- [request-email-followup](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-followup)
+- [request-email-invitation](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-invitation)
+- [request-email-reminder](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-reminder)
+- [request-email](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email) - only for general email requests
+- [request-mkto-landing-page](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-mkto-landing-page)
+- [request-pathfactory-track](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track)
+- [request-pathfactory-upload](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload)
+- [request-program-tracking](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-program-tracking)
+- [request-zoom-license-date](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-zoom-license-date)
 - [idea-campaign](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=idea-webcast)
 - [idea-webcast](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=idea-campaign)
-- more to be added during transition
 
 #### Campaign Team Issue Templates
 The following issue templates are used by the campaigns team to organize their work, with appropriate labels applied for project management.
 
-- [campaign-mural](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaign-mural)
-- more to be added during transition
+- [campaigns-mural](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-mural)
+- [campaigns-pathfactory-track](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-pathfactory-track)
+- [campaigns-program-tracking](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-program-tracking)
+- [campaigns-webcast-dryrun-host](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-)
+- [campaigns-webcast-drurun-sched](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-)
+- [campaigns-webcast-prep](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-)
+- [campaigns-](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-)
+- [campaigns-](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-)
 
 ### Campaigns Team Intake Process
 
@@ -115,13 +128,11 @@ Issues will be triaged as demonstrated in the diagram below. Please note: All re
 
 #### Intake process labels
 
-- **mktg-status::triage** - the issue will be evaluated to determine if full details are included, and ask questions as needed if the scope/details are not clear.
-- **mktg-status::blocked** - there were insufficient details in the issue
+- **mktg-status::triage** - the issue will be evaluated to determine if full details are included, and ask questions as needed if the scope/details are not clear
+- **mktg-status::blocked** - there were insufficient details in the issue for work to be triaged
     - The requester must provide the details and then move the status back to `mktg-status::triage` in order for the request to be reviewed again.
     - Please note: issue submission does not begin the SLA timeline; sufficient details begin the SLA timeline
-- **mktg-status::read-to-build** - details were sufficient and the request fits into overall marketing strategy
-    - Requests aligned to an OKR will be given precedence in priorities
-- **mktg-status::wip** - the issue is assigned and moved into a time-based milestone
+- **mktg-status::wip** - the issue is assigned and moved into appropriate time-based milestone
 - **mktg-status::plan** - this is used for work that is in an earlier stage of planning and a specific request has not been made
     - This will likely be used mainly by campaign managers on issues that are not high priority but there is a desire to capture the idea/notes.
 
