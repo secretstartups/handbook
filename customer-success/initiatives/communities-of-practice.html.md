@@ -76,10 +76,10 @@ A Community of Practice does not have a specific timebox; it's an ongoing proces
 #### Measuring Health and Success
 
 It's important to reflect on the group to measure if it's successful and healthy. Here are some suggestions on how to measure:
-1) **Individual:** Has the community helped individuals become more knowledgable on the topic and expand personal or career growth?
-2) **Team:** Has the CoP provided the broader team with meaningful assets and depth on the topic? Has the group engaged the CoP members to participate in customer conversation as an SME?
-3) **Product:** What impact has the CoP had on GitLab product roadmap or strategy?
-4) **Customer/Prospect:** has the CoP enabled us to be thought leaders on the topic or more impactful trusted advisors?
+1. **Individual:** Has the community helped individuals become more knowledgable on the topic and expand personal or career growth?
+2. **Team:** Has the CoP provided the broader team with meaningful assets and depth on the topic? Has the group engaged the CoP members to participate in customer conversation as an SME?
+3. **Product:** What impact has the CoP had on GitLab product roadmap or strategy?
+4. **Customer/Prospect:** has the CoP enabled us to be thought leaders on the topic or more impactful trusted advisors?
 
 #### Including New Members
 * Communities of practice are not just for GitLab and Customer Success, but personal growth and career development. It's essential that our CoP is open and inclusive to all people - not only those who have expertise on the topic.
