@@ -367,6 +367,17 @@ For more information, see [security release backports].
 
 See the [Hot patch] documentation for details on how to Hot patch. Note that hot patches may help with the resolution of severe incidents on GitLab.com but can only exist for a temporary period of time and block further deployments until fully fixed. See the [Hot patch] documentation for details about what can be patched. 
 
+### How can I get a high severity bug fix released?
+
+Any high severity issue should start with an issue labelled with the appropriate bug and severity labels. 
+
+Depending on the bug details, follow one of the following processes: 
+- For [high severity security bugs][process-security-release-critical] 
+- For [high severity bugs affecting self-hosted customers][process-patch-release]
+- For [high severity bugs affecting GitLab.com][https://about.gitlab.com/handbook/engineering/releases/#gitlabcom-releases-1]
+
+If you need any additional help please ask the Release Managers in the [#releases] Slack channel.
+
 [semver]: https://semver.org
 [canary]: /handbook/engineering#canary-testing
 [development month]: /handbook/engineering/workflow/#product-development-timeline
