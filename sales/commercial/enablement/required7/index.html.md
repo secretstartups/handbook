@@ -182,7 +182,7 @@ In the next steps field in an opportunity, put in the next actions **you** will 
 *   Use an opportunity view in Salesforce to work through your next steps
 *   Remember, you have to set next steps on all opportunities. Not doing so is essentially saying, “I’m not doing anything with this opportunity”
 *   If you haven’t been able to get in touch with a low-value customer and they are coming up to their renewal (within the next month), put **CWFP** (Closed Won From Portal) in the next steps field and set the close date to the middle of the next month
-*   If prospect or customer 'goes dark', next step should reflect what you would do IF they reply back. Then if email comes back you can repon the opporunity if in desginated grace period. 
+*   If prospect or customer 'goes dark', next step should reflect what you would do IF they reply back. Then if prospect reached back out, you can repon the opportunity if in desginated grace period of 30 days. 
 
 
 ## 4/ Keeping your opportunities up to date
