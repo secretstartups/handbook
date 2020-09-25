@@ -66,15 +66,25 @@ Follow the same [General Workflow](/handbook/support/workflows/internal_requests
 
 There is a internal requests hawk role which rotates on a weekly basis which
 serves as a temporary measure to make sure internal requests tagged with
-`License Issue` receive the appropriate attention from Support. When on this
-role, prioritize working on internal request issues over Zendesk tickets
+the following labels receive the appropriate attention from Support:
+
+* `Associate Subscription Console Escalation::Customers` - Workflow to be documented
+* `Billable Members` - Workflow instructions on template
+* `Console Escalation::Customers` - Workflow to be documented
+* `EULA` - [Workflow](https://about.gitlab.com/handbook/support/workflows/assets/troubleshooting_eulas.html)
+* `License Issue` - [Workflow](https://about.gitlab.com/handbook/support/workflows/license_troubleshooting.html)
+* `Plan Change Request` - [Workflow](https://about.gitlab.com/handbook/support/workflows/trial_extensions.html)
+* `SaaS Subscription Issue` - [Workflow](https://about.gitlab.com/handbook/support/workflows/license_troubleshooting.html#transactions)
+* `Trial Extension License issue` - [Workflow](https://about.gitlab.com/handbook/support/workflows/trial_extensions.html)
+
+When on this role, prioritize working on internal request issues over Zendesk tickets
 
 When you are on this hawk role, the general workflow guide is:
 
-1. Review the list of [unassigned issues labeled `License Issue`](https://gitlab.com/gitlab-com/support/internal-requests/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=License%20Issue&assignee_id=None).
+1. Review the list of [unassigned issues](https://gitlab.com/gitlab-com/support/internal-requests/-/issues?scope=all&utf8=%E2%9C%93&state=opened&assignee_id=None&not[label_name][]=Console%20Escalation%3A%3AGitLab.com&not[label_name][]=DEWR).
 1. Pick an issue to work on/response to and assign this to yourself.
 1. Repeat step 1 and 2 until there are no longer any unassigned issues.
-1. Check if there are any [assigned issues where responses have stalled](https://gitlab.com/gitlab-com/support/internal-requests/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=License%20Issue) and check with the assignee if follow up action needs to be taken.
+1. Check if there are any [assigned issues where responses have stalled](https://gitlab.com/gitlab-com/support/internal-requests/-/issues?scope=all&utf8=%E2%9C%93&state=opened&not[label_name][]=Console%20Escalation%3A%3AGitLab.com&not[label_name][]=DEWR&assignee_id=Any) and check with the assignee if follow up action needs to be taken.
 
 You will continue to be responsible for any issues assigned to yourself even
 after you're off the role, so be mindful about working sustainably. If you need
