@@ -111,36 +111,34 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
 
 ```mermaid
   graph LR;
-  eng:jbe(Junior Backend Engineer)-->eng:ibe(Intermediate Backend Engineer);
-  eng:ibe(Intermediate Backend Engineer)-->eng:sbe(Senior Backend Engineer);
+  eng:jbe(Junior Backend Engineer);
+  eng:jfe(Junior Frontend Engineer);
+  eng:ibe(Intermediate Backend Engineer);
+  eng:ife(Intermediate Frontend Engineer);
+  eng:sbe(Senior Backend Engineer);
+  eng:sfe(Senior Frontend Engineer);
+  eng:stb(Staff Backend Engineer);
+  eng:stf(Staff Frontend Engineer);
+  eng:fem(Frontend Engineering Manager);
+  eng:bem(Backend Engineering Manager);
+  eng:dis(Distinguished Engineer);
+  eng:sme(Senior Manager, Engineering);
+  eng:dir(Director of Engineering);
+  eng:sde(Senior Director of Engineering);
+  eng:fel(Engineering Fellow);
+  eng:vpd(VP of Development);
 
-  eng:sbe(Senior Backend Engineer)-->eng:stbe(Staff Backend Engineer);
-  eng:stbe(Staff Backend Engineer)-->eng:dbe(Distinguished Backend Engineer);
-  eng:dbe(Distinguished Backend Engineer)-->eng:ef(Backend Engineering Fellow);
-
-  eng:sbe(Senior Backend Engineer)-->eng:em(Backend Engineering Manager);
-  eng:em(Backend Engineering Manager)-->eng:sme(Senior Manager, Engineering);
-
-  eng:sme(Senior Manager, Engineering)-->eng:de(Director of Engineering);
-  eng:de(Director of Engineering)-->eng:sde(Senior Director of Engineering);
-  eng:sde(Senior Director of Engineering)-->eng:vpe(VP of Engineering);
-
-  eng:jfe(Junior Frontend Engineer)-->eng:ife(Intermediate Frontend Engineer);
-  eng:ife(Intermediate Frontend Engineer)-->eng:sfe(Senior Frontend Engineer);
-
-  eng:sfe(Senior Frontend Engineer)-->eng:feem(Frontend Engineering Manager);
-  eng:feem(Frontend Engineering Manager)-->eng:sme(Senior Manager, Engineering);
-
-  eng:sfe(Senior Frontend Engineer)-->eng:stfe(Staff Frontend Engineer);
-  eng:stfe(Staff Frontend Engineer)-->eng:dfe(Distinguished Frontend Engineer);
-  eng:dfe(Distinguished Frontend Engineer)-->eng:feef(Frontend Engineering Fellow);
+  eng:jfe-->eng:ife-->eng:sfe-->eng:stf & eng:fem;
+  eng:jbe-->eng:ibe-->eng:sbe-->eng:stb & eng:bem;
+  eng:bem & eng:fem-->eng:sme-->eng:dir-->eng:sde-->eng:vpd;
+  eng:stb & eng:stf-->eng:dis-->eng:fel;
 
   click eng:jbe "/job-families/engineering/backend-engineer#junior-backend-engineer";
   click eng:ibe "/job-families/engineering/backend-engineer#intermediate-backend-engineer";
   click eng:sbe "/job-families/engineering/backend-engineer#senior-backend-engineer";
   click eng:stbe "/job-families/engineering/backend-engineer#staff-backend-engineer";
-  click eng:dbe "/job-families/engineering/backend-engineer#distinguished-backend-engineer";
-  click eng:ef "/job-families/engineering/backend-engineer#engineering-fellow";
+  click eng:dis "/job-families/engineering/backend-engineer#distinguished-backend-engineer";
+  click eng:fel "/job-families/engineering/backend-engineer#engineering-fellow";
   click eng:em "/job-families/engineering/backend-engineer#engineering-manager";
   click eng:sme "/job-families/engineering/engineering-management/#senior-manager-development";
   click eng:de "/job-families/engineering/backend-engineer#director-of-engineering";
@@ -150,8 +148,6 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   click eng:ife "/job-families/engineering/frontend-engineer#intermediate-frontend-engineer";
   click eng:sfe "/job-families/engineering/frontend-engineer#senior-frontend-engineer";
   click eng:stfe "/job-families/engineering/frontend-engineer#staff-frontend-engineer";
-  click eng:dfe "/job-families/engineering/frontend-engineer#distinguished-frontend-engineer";
-  click eng:feef "/job-families/engineering/frontend-engineer#frontend-engineering-fellow";
   click eng:feem "/job-families/engineering/frontend-engineering-manager";
 ```
 
