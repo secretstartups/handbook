@@ -38,4 +38,32 @@ To create a technical close plan:
 
 When the opportunity progresses to stage 4, the technical close plan is complete. A brief retrospective on the information helps the team identify trends in customer needs as well as clear paths to opportunity wins. In case of opportunity loss, a brief retrospective on the information can help populate the Closed Lost reason in Salesforce.
 
+## Customer Success Management Program Introduction
 
+During each greenfield (new customer) sale, eligible customers will move from the presales technical evaluation into procurement. During this time, the account sales team will introduce the Customer Success Management Program. This call will be led by the Solutions Architect.The introduction provides guidance on accessing GitLab Support, available TAM programs and GitLab Professional Services.  
+
+The goals of this introduction are many:
+1. Smoothly transition the new customer to post-sales support, guidance and growth
+2. Ensure a smooth conversational shift from go to market use cases to DevOps stage adoption
+3. Validate customer access to GitLab Support
+4. Help the customer choose their level of TAM assistance after procurement
+5. Ensure the customer understands available Professional Services and enablement
+
+### Program Flow
+
+Prior to introducing the program, the SA should ensure that all sales stage data is recorded and available to kick off the Success Management Program. The required workflow within [each sales stage](/handbook/sales/field-operations/gtm-resources/#opportunity-stages) is outlined below.
+  
+Stages 0-2
+- As discovery occurs in early sales stages, the Stage Technology fields on the Account record in Salesforce should begin to be populated. 
+
+Stage 3
+- During the technical evaluation, the SA should verify as much as possible about the use cases within the customer ecosystem.
+- By the end of stage 3, all Stage Technology fields on the Account record should be populated.
+
+Stage 4-5
+- Once the technical win is achieved, a call should be scheduled with the potential new customer and the sales team to introduce the Customer Success Management Program as well as the Technical Account Manager, if the TAM introduction has not already happened during the technical evaluation. 
+- When the call is complete, log an activity of type 'call' that includes 'success management introduction' in the title.
+
+### Program Introduction Resources
+
+A customer-distributable data sheet as well as an accompanying slide presentation are available for use to guide the customer discussion.
