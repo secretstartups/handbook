@@ -32,6 +32,7 @@ In that case, you can [upload it to YouTube](#uploading-to-youtube).
 1. If you're not a host, you can't livestream direct from zoom, so the host will need to do that.
 1. If there is more than one host for the meeting **the host that joins the meeting first** is the only host that can livestream direct from zoom. 
 1. Generally, for a livestream, it's helpful to have a separate person handling [promoting people to panelist](https://support.zoom.us/hc/en-us/articles/115004834466-Managing-Participants-in-Webinar).
+1. **Please don't include any confidential information in the description of your Youtube video since there is a bug that can cause [private video descriptions to propogate over to public ones](https://gitlab.com/gitlab-com/business-ops/team-member-enablement/issue-tracker/-/issues/809)**
 
 ### Livestream with Zoom 
 
@@ -152,9 +153,15 @@ Do not say just livestream since people don't know what the level of access is.
 
 We don't post:
 
-1. Unlisted videos on any channel, it is too insecure for sensitive materials and not findable enough for public materials.
+1. Unlisted videos (see the "[never unlisted](#never-unlisted)" section below).
 2. Private videos on our branded channel, all videos on that channel are intended for a wider audience.
 3. Use Google Drive for any video, since it has [many drawbacks](#why-not-google-drive).
+
+### Never unlisted
+
+We never post [unlisted](https://support.google.com/youtube/thread/10480825?hl=en) videos on any channel: it is too insecure for sensitive materials and not findable enough for public materials.  
+Sometimes, some videos are still posted as unlisted, they can be spotted with this [link](https://studio.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/videos/upload?filter=%5B%7B%22name%22%3A%22VISIBILITY%22%2C%22value%22%3A%5B%22UNLISTED%22%5D%7D%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D) (while using the `GitLab Unfiltered` account).  
+You can change the visibility of videos by clicking on the `Details` buttons when you hover a video in the list linked above.
 
 ## Unable to view a video on Youtube
 
@@ -250,7 +257,7 @@ The below instructions apply to either livestreams to YouTube or recorded videos
 
 1. There is no minimum quality, so please share it on our [GitLab Unfiltered YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A?view_as=subscriber), as long as there is nothing inappropriate or confidential.
 1. Everyone at the company probably has at least one conversation every week that is relevant to more people, so please share it.
-1. We always list videos publicly instead of having them unlisted, unless there is confidential material. This allows more people to find the content. If the material is confidential, set the video to private.
+1. We always list videos publicly instead of [having them unlisted](#never-unlisted), unless there is confidential material. This allows more people to find the content. If the material is confidential, set the video to private.
 1. Don't worry about whether or not it will be interesting to absolutely everyone. Just give it a descriptive title so people know what it is about, and let _them_ decide whether or not they should watch it.
 1. Make sure that all participants are aware that you're recording.
 1. You don't have to be sure it is interesting and OK to share when you start recording; you can make that decision after the fact.
