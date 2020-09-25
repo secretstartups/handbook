@@ -77,9 +77,8 @@ the following labels receive the appropriate attention from Support:
 * `SaaS Subscription Issue` - [Workflow](https://about.gitlab.com/handbook/support/workflows/license_troubleshooting.html#transactions)
 * `Trial Extension License issue` - [Workflow](https://about.gitlab.com/handbook/support/workflows/trial_extensions.html)
 
-When on this role, prioritize working on internal request issues over Zendesk tickets
-
-When you are on this hawk role, the general workflow guide is:
+When on this role, prioritize working on internal request issues over Zendesk tickets.
+The general workflow guide is:
 
 1. Review the list of [unassigned issues](https://gitlab.com/gitlab-com/support/internal-requests/-/issues?scope=all&utf8=%E2%9C%93&state=opened&assignee_id=None&not[label_name][]=Console%20Escalation%3A%3AGitLab.com&not[label_name][]=DEWR).
 1. Pick an issue to work on/response to and assign this to yourself.
@@ -88,9 +87,14 @@ When you are on this hawk role, the general workflow guide is:
 
 You will continue to be responsible for any issues assigned to yourself even
 after you're off the role, so be mindful about working sustainably. If you need
-to, ask for others to assist with unassigned issues -- the expectation is that
+to, ask for others to help with unassigned issues -- the expectation is that
 GitLab Support as a team should be responding timely to internal requests, not
 you personally as the L&R Internal Requests Hawk.
+
+You'll only be expected to work your usual work hours while doing this role. There
+is a [PagerDuty schedule](https://gitlab.pagerduty.com/schedules#PQ6DB1G) set up
+solely to facilitate tracking/swapping of shifts. It is in no way an indication of
+actual hours of work.
 
 
 #### [GitLab.com Billable Members List](https://gitlab.com/gitlab-com/support/internal-requests/-/blob/master/.gitlab/issue_templates/Billable%20Members.md)
