@@ -80,6 +80,11 @@ Loyalty Bonus Amount =  Gratuity Calculation using GitLab Hire Date + Gratuity C
 
 **Note:** The Loyalty Bonus Amount is provided by GitLab to the team members. Any amount which GitLab will pay as Loyalty Bonus would be fully taxable for the team members. 
 
+**Total Rewards Responsibilities:**
+  * Maintain Gratuity Calculation sheet
+  * Update the sheet every month
+  * Send an email to Accounts team on or before 5th of every month to calculate the accruals.
+
 ## Philippines
 
 All of the benefits listed below are administered and managed by [Global Upside](https://globalupside.com/).
