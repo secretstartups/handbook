@@ -89,22 +89,23 @@ Is our single source of truth (SSoT) for processes and relevant links
 
 ## Project Management
 
-### Turnaround Time & SLAs
-**Turnaround time for each issue request is 5 business days - SLA begins when all details and final copy is provided.**
-* For the smoothest triage of your issue requests, submit issues with full "Submitter Details" complete
-* Issue requester is responsible for ensuring that appropriate tags are applied (using issue templates have the tags built in)
+### :stopwatch: Turnaround Time and SLAs
+**Turnaround time for each issue request is **5 business days** - the SLA begins when all details and final copy is provided.**
 * The SLA (Service Level Agreement) - 5 business days - begins when all details are complete
-* **Copy must be 100% final when submitted. This includes final edits for copy, grammar, as well as review by relevant stakeholders (such as managers, product mktg, content mktg, sales, etc.**
-* The due date when the issue is submitted is not final. The [workback calculator](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029) can be used as a tool to recommend a smooth flow of work based on other issue dependencies. It is not a schedule rule - more details below.
-  - If an issue due date is prior to the SLA (based on date submitter details were complete), the due date will be changed to meet the SLA timeline.
+  - Tip: For the smoothest triage of your issue requests, submit issues with full "Submitter Details" complete, and bookmark a view of your issues in Blocked status ([example](https://gitlab.com/groups/gitlab-com/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=mktg-status%3A%3Ablocked&assignee_username[]=jgragnola))
+* The issue requester is responsible for ensuring that appropriate labels are applied to the issue (using issue templates have the tags built in)
+* :exclamation: **Copy must be 100% final when submitted. This includes final edits for copy, grammar, sentence structure and readability, as well as review by relevant stakeholders (such as managers, product mktg, content mktg, sales, etc.**
+* The due date when the issue is submitted is not final. The [workback calculator](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029) is a guideline based on other issue dependencies.
+  - If an issue due date is prior to the SLA (based on date "submitter details" were complete), the due date will be changed to meet the SLA timeline (5 BD from date of final details submitted)
   - For example, if the issue is submitted 0ct 1, with a due date of Oct 15, BUT details are not submitted until Oct 14, THEN the issue due date will be moved to Oct 21 by the triage manager.
+  - The triage manager and assignee are the ONLY individuals allowed to adjust due dates upon triage.
   - Please **do not** ask Campaign Managers to complete work in a shorter timeline as this is disruptive to their milestone, and their priority is to plan, implement, and optimize top-funnel campaigns and tactics. They will manage their milestones appropriately and pull in work as bandwidth allows.
 
 ### Issue Templates
 
 We ask that teams request work using the following issue templates in the campaigns project. These templates more clearly indicate what information and details are required in order for the request to be triaged.
 
-Note on timelines: The campaigns team is focused on top-funnel campaign strategy, execution, and optimization. Team member milestones include work to support top funnel goals as part of [Segment Marketing Plan](https://docs.google.com/presentation/d/1p4EmaoSb35d8ZnjKags1gUGF5T9afJW6RhBO8TR_VgA/edit#slide=id.p4) and requests will be committed to as bandwidth permits. Please see section on [turnaround time & SLAs]().
+Note on timelines: The campaigns team is focused on top-funnel campaign strategy, execution, and optimization. Team member milestones include work to support top funnel goals as part of [Segment Marketing Plan](https://docs.google.com/presentation/d/1p4EmaoSb35d8ZnjKags1gUGF5T9afJW6RhBO8TR_VgA/edit#slide=id.p4) and requests will be committed to as bandwidth permits. Please see section on [turnaround time & SLAs](/handbook/marketing/demand-generation/campaigns/#-turnaround-time-and-slas).
 
 #### Request Issue Templates
 - [request-add-nurture](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-add-nurture)
@@ -145,7 +146,7 @@ Issues will be triaged as demonstrated in the diagram below. Please note: All re
 - **mktg-status::triage** - the issue will be evaluated to determine if full details are included, and ask questions as needed if the scope/details are not clear
 - **mktg-status::blocked** - there were insufficient details in the issue for work to be triaged
     - The requester must provide the details and then move the status back to `mktg-status::triage` in order for the request to be reviewed again.
-    - Please note: issue submission does not begin the SLA timeline; sufficient details begin the SLA timeline. [see note about turnaround time and SLAs]()
+    - Please note: issue submission does not begin the SLA timeline; sufficient details begin the SLA timeline. [see note about turnaround time and SLAs](/handbook/marketing/demand-generation/campaigns/#-turnaround-time-and-slas)
 - **mktg-status::wip** - the issue is assigned and moved into appropriate time-based milestone
 - **mktg-status::plan** - this is used for work that is in an earlier stage of planning and a specific request has not been made
     - This will likely be used mainly by campaign managers on issues that are not high priority but there is a desire to capture the idea/notes.
