@@ -107,7 +107,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
 
 ## Roles
 
-#### Engineering
+#### Development Department
 
 ```mermaid
   graph LR;
@@ -151,7 +151,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   click eng:feem "/job-families/engineering/frontend-engineering-manager";
 ```
 
-#### Security Engineering
+#### Security Department
 
 ```mermaid
   graph LR;
@@ -167,7 +167,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   click sec:ds "/job-families/engineering/security-management#director-of-security";
 ```
 
-#### Quality Engineering
+#### Quality Department
 
 ```mermaid
   graph LR;
@@ -195,7 +195,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   click qual:dqe "/job-families/engineering/engineering-management-quality/#director-of-quality-engineering";
 ```
 
-#### Support Engineering
+#### Support Department
 
 ```mermaid
   graph LR;
@@ -215,7 +215,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   click supe:ds "/job-families/engineering/support-management#director-of-support";
 ```
 
-#### User Experience
+#### UX Department
 
 ```mermaid
   graph LR;
