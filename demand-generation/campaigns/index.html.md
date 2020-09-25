@@ -131,8 +131,9 @@ The following issue templates are used by the campaigns team to organize their w
 - [campaigns-pathfactory-track](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-pathfactory-track)
 - [campaigns-program-tracking](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-program-tracking)
 - [campaigns-webcast-dryrun-host](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-dryrun-host)
-- [campaigns-webcast-drurun-sched](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-drurun-sched)
-- [campaigns-webcast-prep](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-)
+- [campaigns-webcast-dryrun-sched](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-dryrun-sched)
+- [campaigns-webcast-live-host](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-live-host)
+- [campaigns-webcast-prep](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-prep)
 - [campaigns-](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-)
 - [campaigns-](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-)
 
@@ -156,9 +157,11 @@ Issues will be triaged as demonstrated in the diagram below. Please note: All re
 
 #### Intake process daily/weekly steps
 Team manager completes daily review of [issues in triage](https://gitlab.com/groups/gitlab-com/-/boards/1919630?&label_name%5B%5D=Marketing%20Programs) assessing the following standards:
-* are all details in the `Submitter Checklist` sufficiently complete in order to begin work? (if yes, assign based on triage process)
-* does the request align to an OKR? (if yes, prioritize)
-* does the request align to FY21-22 segment marketing plan? (if no, consider realistic timeline given priorities)
+* Are all details in the `Submitter Checklist` sufficiently complete in order to begin work?
+  - if yes, move to `mktg-status::wip`, assign based on triage diagram, and put in current milestone (to be adjusted as needed by assignee)
+  - if no, comment to requester and move to `mktg-status::blocked` with reminder that SLA will begin when the details are submitted - [more details here](/handbook/marketing/demand-generation/campaigns/#turnaround-time-and-slas)
+* Does the request align to FY21-22 segment marketing plan?
+ - if no, consider realistic timeline given priorities (and share with requester in comments, set up time to discuss if needed)
 
 #### Project management automation
 
