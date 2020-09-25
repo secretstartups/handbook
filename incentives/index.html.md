@@ -76,26 +76,23 @@ Discretionary bonuses are to celebrate team members that live by our values. To 
 * Partnering or collaborating with other groups within GitLab
 * Working long hours or on weekends
 
-*Example of a valid discretionary bonus*
-The reason for the bonus is that this person (X, a Technical Writer) has single-handedly stepped in to act as a part-time documentation engineer in the absence of a full-time engineer.
-
+*Examples of a valid discretionary bonus*
+ - The reason for the bonus is that this person (X, a Technical Writer) has single-handedly stepped in to act as a part-time documentation engineer in the absence of a full-time engineer.
 The person's history of contributions is plain to see here: (Nominator included links to boards, issues or merge requests)
+In particular, X's implementation of a Global Navigation and GitLab iconography for documentation are real highlights of X's impact for end-users. For developers, they have modernized the codebase and continues to work toward making `gitlab-docs` just like any other GitLab project for developers. X's dedication to the Technical Writing team over a long period of time motivates me to do more than just thank X in #thanks channel. X has specifically: Been active to see the Technical Writing team to succeed: /handbook/values/#see-others-succeed. X delivers for the team in lots of MVCs: /handbook/values/#minimal-viable-change-mvc, so we can get early value. For example, making iconography available using Markdown first, and planning to deliver other implementations later. X solutions are boring: /handbook/values/#boring-solutions, in that X aims to reuse as much GitLab code as possible, and raising instances where that isn’t the case as technical debt. For example, docs icons are the same library as icons in the product.
 
-In particular, X's implementation of a Global Navigation and GitLab iconography for documentation are real highlights of X's impact for end-users. For developers, they have modernized the codebase and continues to work toward making `gitlab-docs` just like any other GitLab project for developers.
+* I’d like to nominate X for a discretionary bonus for exhibiting the values for results, efficiency, and collaboration. While the whole backend engineers in the X team were OOO, despite it wasn’t his team, X stepped in and handled a problem (link) that was blocking a deploy. X was able to debug the problem, not an easy one by the way, communicate it to the different counterparts, and also fix it. X also spotted that it could affect other features and provide a way to fix them as well.
 
-X's dedication to the Technical Writing team over a long period of time motivates me to do more than just thank X in #thanks channel. X has specifically:
-
-* Been active to see the Technical Writing team to succeed: /handbook/values/#see-others-succeed
-
-* X delivers for the team in lots of MVCs: /handbook/values/#minimal-viable-change-mvc, so we can get early value. For example, making iconography available using Markdown first, and planning to deliver other implementations later.
-
-* X solutions are boring: /handbook/values/#boring-solutions, in that X aims to reuse as much GitLab code as possible, and raising instances where that isn’t the case as technical debt. For example, docs icons are the same library as icons in the product.
+* I am nominating X for the values efficiency and results for the Nominator Bot. This bot assists us to nominate a team member for Discretionary Bonus without logging into BambooHR. This new bot speeds up the process probably by half the time it took to get approvals (for both me that administers the process and managers for approval) and directly now impacts our PI to increase discretionary bonuses. X is managing all the debugging and going above and beyond to solve any problems, without anyone asking X or having to follow up and this is out of scope of "just building a nominator" bot.
+You can read more about the process in [our handbook](https://about.gitlab.com/handbook/incentives/#nominator-bot-process)
 
 *Examples of invalid discretionary bonus*
 
 * "X has been an integral part to my onboarding experience, working tirelessly to help me get access and answer to questions.  X truly embodies GitLab's value of efficiency, collaboration and results"
 * "X has continually met or exceeding their sales quota for 3 months"
 * "X is always willing to jump in even at the last moments to help out a team member"
+* "X has helped to update handbook pages, keeping the handbook alive"
+* "I find the team member is doing very inspiring work and easy to collaborate with"
 
 
 For managers: as a reminder, please make sure when you are submitting the bonus in BambooHR that your description is clear and includes the valid criteria data needed for managers and PBP to review and approve.  Any bonus submitted that does not include clear and valid reasons for submittal may be denied and the manager will be asked to provide further content and details.
@@ -107,7 +104,7 @@ We are currently testing a new process through slack for bonus requests. Please 
 ##### BambooHR Process
 **Any GitLab team member**
 
-1. Write a few sentences describing how the GitLab team member has demonstrated a specific GitLab value in their work.  Please make sure you have viewed the valid and invalid criteria listed above.  The nomination request should tie to our values and be detailed enough to ensure that the nomination meets the criteria.
+1. Write up a nomination describing how the GitLab team member has demonstrated a specific GitLab value in their work.  Please make sure you have viewed the valid and invalid criteria listed above.  The nomination request should tie to our values and be detailed enough to ensure that the nomination meets the criteria.
 1. If applicable, please be sure to include any relevant issues or merge requests that support the nomination.
 1. Email that sentence to the GitLab team member's [manager](/company/team/org-chart/), suggesting a discretionary bonus, and set-up a 15 minute Zoom meeting to discuss your proposal.
 1. Remember that the manager may or may not agree and has full discretion (with approval of their manager) on whether that person gets a bonus. If you are a people manager and you are not approving the team members nomination for a discretionary bonus, in the spirit of transparency and collaboration, it is strongly suggested that you have a conversation with the team member on why you are not approving the discretionary bonus.
