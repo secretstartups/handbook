@@ -14,7 +14,7 @@ category: GitLab.com
 
 From time to time we'll be asked by various teams within GitLab to send notices out to GitLab.com users and customers to inform them of various actions that we've either taken or will be taking on namespaces under their control.
 
-We may also occasionally need to do this to inform certain users of a feature that will be deprecated that they're taking advantage of. This workflow details the various macros that we currently have in use to inform users of these specific situations and the steps that you, as a GitLab.com Support Agent, should take to use them.
+We may also occasionally need to do this to inform certain users of a feature that will be deprecated that they're taking advantage of. This workflow details the various macros that we currently have in use to inform users of these specific situations and the steps that you, as a GitLab.com Support Engineer, should take to use them.
 
 ### Blocked Accounts
 

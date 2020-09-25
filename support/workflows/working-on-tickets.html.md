@@ -313,7 +313,7 @@ You should use the On-hold status when it is necessary to do some internal work,
 e.g. reproduce a complex bug, discuss something with developers or wait for a
 session scheduled with a user. When setting the status to On-hold it will be
 automatically assigned to you by the trigger
-[`Automatically assign on-hold ticket to an agent who put it to the on-hold status`](https://gitlab.zendesk.com/agent/admin/triggers/360033242313).
+[`Automatically assign on-hold ticket to the engineer who put it to the on-hold status`](https://gitlab.zendesk.com/agent/admin/triggers/360033242313).
 
 If you think that it should be assigned to someone else (*e.g.* session is
 scheduled for another engineer), feel free to re-assign it. Tickets without an

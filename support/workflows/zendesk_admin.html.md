@@ -32,7 +32,7 @@ To suspend an agent's access to Zendesk, you should follow [Zendesk's best pract
 
 You can find more information about gaining access to Zendesk as a full or light agent in the [Internal Support for GitLab Team Members](/handbook/support/internal-support/#viewing-support-tickets) page.
 
-The above process is only applicable for members who are not part of the Support Team. For Support Agents/Engineers/Managers, access is requested as part of on-boarding and it would be tracked on the associated on-boarding issues.
+The above process is only applicable for members who are not part of the Support Team. For Support Engineers/Managers, access is requested as part of on-boarding and it would be tracked on the associated on-boarding issues.
 
 ## Organizations
 
