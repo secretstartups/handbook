@@ -94,14 +94,15 @@ Video of how this works tbd.
 - For all uploads, there is mandatory data required for a successful upload. At a minimum, the following data must appear on the spreadsheet and **without this data an upload can be refused by MktgOps**:
      - First Name
      - Last Name
+     - Company Name
      - Email Address
      - Country
      - State (United States and Canada only)
      - Campaign Member Status
 - Additionally, there is data required for leads to be successfully routed to SDRs. While this information is not mandatory, it is strongly preferred and requested by the `Director of Marketing Department` to be included. GitLab employs tools that enrich leads and `Accounts`, but those tools are not guaranteed to work, so if the data can be found at the source it is preferred. Lastly, while it is less likely to have an upload refused due to missing this data, **missing this data is still considered grounds for refusal by the MktgOps team**. The recommended information is as follows:
-     - Company Name
-     - Employee Bucket or Employee Number
-          - GitLab's segmentation standard for `Employees Bucket` includes the following groups: `1-99`, `100-499`, `500-1,999`, `2,000-9,999` and `10,000+`
+     - Employee Bucket or Number of Employees
+          - GitLab's segmentation standard for `Employees Bucket` includes the following groups: `1-99`, `100-499`, `500-1,999`, `2,000-9,999` and `10,000+`.
+          - You can also enter an integer in for `Num Employees` and this will automatically update the `Employees Bucket` field if blank.
      - Opt-In status: `True`, `False`, or `leave blank` (determines if leads are **legally** signed up for GitLab's marketing emails)
 
 ### Campaign Templates - Info for Post-MktgOps Hand-off
