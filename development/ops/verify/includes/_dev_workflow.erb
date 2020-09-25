@@ -1,0 +1,33 @@
+We use the [<%=group %> Workflow issue board](https://gitlab.com/groups/gitlab-org/-/boards/<%= board_id %>?milestone_title=%23upcoming) to track what we work on in the current milestone.
+
+Development moves through workflow states in the following order:
+
+1. `workflow::ready for development`
+1. `workflow::in dev`
+1. `workflow::blocked` (as necessary)
+1. `workflow::in review`
+1. `workflow::verification`
+1. `workflow::production`
+1. `Closed`
+
+#### "What do I work on next?"
+
+Each member of the team can choose which issues to work on during a milestone by assigning the issue to themselves.  When the milestone is well underway and we find ourselves looking for work, we default to working **right to left** on the **issue board** by pulling issues in the right-most column. If there is an issue that a team member can help with on the board, they should do so instead of starting new work. This includes conducting code review on issues that the team member may not be assigned to, if they feel that they can add value and help move the issue along to completion.
+
+Specifically, this means our work is prioritized in the following order:
+ * Any verification on code that is in `~workflow::verification` or `workflow::production`
+ * Conducting code reviews on issues that are `workflow::in review`
+ * Unblocking anyone in `workflow::blocked` or `workflow::in dev` if applicable
+ * Then, lastly, picking from the top of the `workflow::ready for development` for development column
+
+The goal of this process is to reduce the amount of work in progress (WIP) at any given time. Reducing WIP forces us to "Start less, finish more", and it also reduces cycle time. Engineers should keep in mind that the DRI for a merge request is **the author(s)**, to reflect the importance of teamwork without diluting the notion that having a [DRI is encouraged by our values](/handbook/people-group/directly-responsible-individuals/#dris-and-our-values).
+
+#### Issue Health Status
+
+For issues being implemented in the current milestone, we use the [Issue Health Status feature](https://docs.gitlab.com/ee/user/project/issues/#health-status) to designate the high level status of the issue. This issue health status is updated by the [directly responsible individual (DRI)](/handbook/people-group/directly-responsible-individuals/) as soon as they recognize the state of the issue has changed.
+
+The following are definitions of the health status options:
+
+- On Track - The issue has no current blockers, and is on schedule to be completed in the current milestone.
+- Needs Attention - The issue is still likely to be completed in the current milestone, but there are setbacks or time constraints that could cause the issue to miss the deadline.
+- At Risk - The issue has a high likelyhood of missing the current milestone deadline.
