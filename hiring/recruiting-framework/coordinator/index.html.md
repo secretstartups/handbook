@@ -110,11 +110,13 @@ The CES team utilizes [GitLab Service Desk](/product/service-desk/) to track inc
 
 There may be situations where the CES email is used to thank the team or to send a follow-up note. In those cases, we would copy the text of the issue to forward to the appropriate parties through a greenhouse profile at mention.
 
-### Initiate background check
+### Initiate and Review background checks
 
 Once notified by the recruiter, the Candidate Experience Specialist will [initiate a background check](/handbook/people-group/people-policy-directory/#background-checks) for the candidate. The Candidate Experience Specialist will continue to monitor the background check until finalized, utlizing the follow-up feature in Greenhouse to ensure the background check is complete and uploaded into BambooHR if hired.
 
-For guidance on reviewing Background checks see [this page](/handbook/people-group/people-policy-directory/#background-checks).
+Background check results will be received by the Candidate Experience Specialist and brought to the relevant People Business Partner for adjudication. Employment Verification results will be reviewed by and checked against LinkedIn profiles or CVs by the Candidate Experience Specialist and any discrepancies will brought to the relevant People Business Partner. 
+
+For additional information on reviewing Background checks see [this page](/handbook/people-group/people-policy-directory/#background-checks).
 
 #### Initiating a Background Check through Greenhouse
 
@@ -122,10 +124,10 @@ For guidance on reviewing Background checks see [this page](/handbook/people-gro
 
 1. Log in to [Greenhouse](https://app2.greenhouse.io/dashboard) and go to the candidate's profile.
 1. Click the "Private" tab.
-1. Click "Export to TalentWise".
+1. Click "Export to Sterling".
 1. Click "Complete Report", which will redirect you to the Sterling website.
 1. Scroll down and click "Add Screening".
-1. Next to "Comprehensive Criminal", click on "Ticket". 
+1. Next to "Comprehensive Criminal with Employment", click on "Ticket". 
    - If you need to run a financial check as well for Finance team members, you will need to submit a second ticket. 
       1. After you submit a ticket for the comprehensive criminal check, navigate back to the candidate's SterlingONE profile.
       1. Click "Add Screening".
@@ -140,7 +142,7 @@ For guidance on reviewing Background checks see [this page](/handbook/people-gro
 
 1. Log in to [Sterling](https://www.talentwise.com/screening/login.php) and select "Quick Launch".
 1. Click "Launch Screening".
-1. Next to "Comprehensive Criminal" click on "Ticket". If you need to run a credit check as well, after you click "Ticket" click "Add Products" on the right and search for "Federal Criminal Check".
+1. Next to "Comprehensive Criminal with Employment" click on "Ticket". If you need to run a credit check as well, after you click "Ticket" click "Add Products" on the right and search for "Federal Criminal Check".
 1. Check off that you agree to your obligations as a user.
 1. Enter the candidate's name and personal email address.
 1. Select the first option to have Sterling send the candidate a disclosure form, and click "Generate Ticket".
@@ -152,6 +154,7 @@ For guidance on reviewing Background checks see [this page](/handbook/people-gro
 1. Next, select "International" from the "Job Position" drop down menu.
 1. Next, select "A La Carte" from the "Screening Packing".
 1. After that, you will select "Criminal-International". A drop down menu will appear, and you will select the country the candidate is located in. Then click "Add"
+1. You'll then select "Verification-Employment (International") and click "Add".
 1. If you are submitting a background check for a candidate located in Japan, you will select "GlobeX" instead of "Criminal-International". Then select "Japan" and click "Add"
 1. Make sure the criminal check with country of the candidate is included in the "Search" box.
 1. Finally, scroll to the bottom of the page and click "Send"
