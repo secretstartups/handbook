@@ -2,9 +2,7 @@
 layout: handbook-page-toc
 title: Product Principles
 ---
-
 ## On this page
-
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
@@ -87,7 +85,7 @@ actual users. This is a much more informative mechanism than the intuition
 of a product person (this doesn't mean we should just build
 whatever feedback tells us, however.)
 
-When considering how to scope a feature for a release remember it is ok to ship an "incomplete" feature to customers - assuming it still offers value and is not broken. For example, you could ship a feature that lacks a completed interface but still adds value if the user **chooses** to use it. Consider existing workflows and understand the impact on overall user experience as you release your feature. In terms of talking about your feature, it's ok to add a release post item that announces your incomplete feature (making clear that it is an early iteration, and points to the direction for the feature) and follow-on in a later release post with a new item when you've completed more of the functionality.
+When considering how to scope a feature for a release remember it is ok to ship an "incomplete" feature to customers - assuming it still offers value and is not broken. For example, you could ship a feature that lacks a completed interface but still adds value if the user **chooses** to use it. [See this MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/62038) as a great example of a release post item [shipping a truly minimal feature](https://gitlab.com/gitlab-org/gitlab/-/issues/241164). Consider existing workflows and understand the impact on overall user experience as you release your feature. In terms of talking about your feature, it's ok to add a release post item that announces your incomplete feature (making clear that it is an early iteration, and points to the direction for the feature) and follow-on in a later release post with a new item when you've completed more of the functionality.
 
 ### Iteration
 
@@ -175,6 +173,8 @@ Sometimes fast deployments are needed to fix a service or application outage tha
 
 #### Deciding whether to add configuration
 
+##### For a GitLab instance in `gitlab.yml`
+
 Product Managers at GitLab are frequently confronted with the choice of whether to add new configurations or not. These can frequently be times where an outside perspective is important. That's why we've created the option to request a [New Config Review](/handbook/product/product-processes/#mvc-and-new-config-reviews).
 
 Here's an example of how to consider whether to add new configuration. Let's say you are proposing we add a checkbox or two radio boxes in a feature dialog box. Think carefully about what users really want. Most of the time, you'll find you really only need one solution, so remove the other option. When two possible choices really are necessary, the best or most common one should be the default, and the other one
@@ -197,6 +197,10 @@ the Omnibus-GitLab. Newly introduced services probably need to be configured
 here.
 
 When you have to add a new configuration, make sure that the features and services are on by default. Only add a configuration line to either of these configuration files if the feature or service cannot be fully disabled from the admin UI.
+
+##### For a GitLab CI configuration in `.gitlab-ci.yml`
+
+If the decision to add a configuration follows the [principles above](https://about.gitlab.com/handbook/product/#principles), add it to the repository-specific CI configuration options and be sure to default it to the option that results in the best user experience. We are much more liberal with additions to CI configurations than Instance configurations.
 
 ### User Experience
 
@@ -290,6 +294,16 @@ consistent and the user has zero chance of seeing that banner again.
 
 ![pipelines_empty_state.png](/handbook/product/banner_customize_experience.png)
 
+#### Alerts
+
+[Alerts](https://design.gitlab.com/components/alert) allow the application to pass along relevant system information to the user without impeding their journey. Alerts should guide the reader to an actionable next step. Alerts without actionable next steps induce anxiety and can slow down resolution.
+
+Some important considerations when adding alerts:
+
+- Alerts should generally be targeted at users who are capable of taking action on that alert.
+- Alerts should only be targeted at wider audiences if they will be impacted by the condition. For example if the repository is about to exceed the storage limit.
+- Alerts should be dismissable at the appropriate level (dismiss a CI related warning for the entire namespace (i.e. project or (sub)group), and a user settings related warning for the user).
+
 #### Navigation
 
 Leveraging navigation is an effective design paradigm to introduce a user to a new
@@ -340,10 +354,6 @@ Flow One should cover the first iteration of a particular workflow.
 After this, individual MVCs can be introduced to expand the use-cases
 or loosen the assumptions (e.g. from a feature that can only be used
 if you're using feature branches, to one that works for other git strategies).
-
-### Breadth over depth
-
-See our thoughts on breadth over depth [on our strategy page](/company/strategy/#breadth-over-depth). While we prioritize breadth over depth, Product Managers should not lose sight of maturing each product category, with the ultimate goal of each category moving into a lovable state. A good rule of thumb to consider when planning product improvements, is that over time, approximately 70% of engineering effort should be allocated on breadth, and 30% on depth.
 
 ### Data-driven work
 
@@ -422,7 +432,7 @@ When considering a customer need for enforcement or limitations:
 As an example, customers requested instance-wide enforcement through required CI jobs. Doing this would have been a mistake. Instead:
 
 - We understood their problem more deeply, and realized we could build capabilities to perform these checks in existing primitives (like [external rules](https://gitlab.com/groups/gitlab-org/-/epics/3869) in MR approvals).
-- We limited the scope of the problem, and avoided any limitations at the instance-level. Instead, we planned to keep the impact as small as possible by requiring customers to scope this feature to only projects with a particular [compliance framework](https://docs.gitlab.com/ee/user/project/settings/#compliance-framework-premium).
+- We limited the scope of the problem, and avoided any limitations at the instance-level. Instead, we planned to keep the impact as small as possible by requiring customers to scope this feature to only projects with a particular [compliance framework](https://docs.gitlab.com/ee/user/project/settings/#compliance-framework).
 - We intentionally planned for workarounds. A developer should be able to override these limitations inside merge requests, such as with [two-person approvals](https://gitlab.com/gitlab-org/gitlab/-/issues/219386). They should also be able to create subgroups that aren't subject to these controls.
 
 <figure class="video_container">
