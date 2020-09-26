@@ -373,14 +373,17 @@ to manage multiple boards such as supporting the navigation interface, and all t
 
 This principle does not apply to our SaaS offering as limits are occasionally introduced to limit our hosting costs and protect other users from potential abuse. As an example we have [shared runner](https://docs.gitlab.com/ee/user/gitlab_com/#shared-runners) minute quotas and implement [rate limiting](https://docs.gitlab.com/ee/user/gitlab_com/#gitlabcom-specific-rate-limits).
 
-### Maximize reach
+### Avoid instance-level features
 
-After making a tier decision on a new feature, we should strive to maximize the number of users who can use it. This means:
-* Build features to include as many users as we can. For example, building at the instance level (in the admin panel) leads to 
+After making a tier decision on a new feature, we should strive to maximize the number of users who can use it. 
+
+As part of this objective, we should avoid building instance-level features when possible. Building at the instance level (in the admin panel) leads to 
 [a separation between GitLab.com and self-managed](https://gitlab.com/gitlab-com/customer-success/tam/-/issues/324#note_394401193) and limits 
 your audience to self-managed customers only:
 
 > Historically (and even net-new proposed features) we've often started with an "instance-wide" mindset which then means we need to iterate and adjust features to work at a group-level. This often delays functionality for our SaaS customers and makes GitLab.COM feel like a second-class citizen.
+
+There are factors that may justify an instance-level feature, like [engineering efficiency](https://gitlab.com/groups/gitlab-org/-/epics/4147#note_415603249), but we should always have a clear view on how we might bring the feature to GitLab.com.
 
 ### No enforced workflows
 
