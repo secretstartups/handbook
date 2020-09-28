@@ -125,6 +125,12 @@ In an effort to keep AWS spend down initiatives are being taken automatically cl
 
 By customer or internal request, we sometimes develop tools to automate certain GitLab tasks using the API. The resulting tools and scripts are publicly available for everyone to use and contribute to in the [GitLab CS Tools group](https://gitlab.com/gitlab-cs-tools).
 
+### Communties of Practice
+
+[Community of Practice](initiatives/communities-of-practice.html) are cross-functional groups of SME's (or aspiring to be!) within the CS organization dedicated to a topic within GitLab or the broader DevOps space. The goal is to build assets, best practices, demonstrations, and share experiences we learn from prospects and customers. In turn, CoP will build broader technical depth within our CS organization to better advise our customers and influence our product roadmap. 
+
+Anyone can establish a [Community of Practice](initiatives/communities-of-practice.html), and anyone can be a part of one. To be [efficient](https://about.gitlab.com/handbook/values/?source=post_page---------------------------#efficiency) and [transparent](https://about.gitlab.com/handbook/values/?source=post_page---------------------------#transparency), we have set guidelines on how Communities of Practice should operate. 
+
 ###  Frequently Asked Questions
 
 Customer Success team members maintain a [FAQ](/handbook/customer-success/faq) to keep questions customers ask documented in a place where everyone can view and contribute to.
