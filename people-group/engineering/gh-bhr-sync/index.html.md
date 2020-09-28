@@ -69,8 +69,6 @@ from Greenhouse. We do add a note on the candidate's activity saying we synced t
 | `job_code` (Offer data, can only be synced if the job code exists on BambooHR | `customJobCode` |
 | `job_grade` (Offer data) | `customJobGrade` |
 | `sales_geo_differential` (Offer data) | `customSalesGeoDifferential` |
-| `starts_at` (Offer data) | `customEffectiveDate` |
-| `compa_group` (Offer data) | `customExperienceFactor(CompaRatio)` |
 | `ghp_id` (Offer data) | `customNumber` |
 | `starts_at` (Offer data) | `customBonusdate` |
 | `signing_bonus_currency_&_amount` (Offer data) | `customBonusAmount` |
