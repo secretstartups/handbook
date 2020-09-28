@@ -1,8 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Employment Issues"
+title: Employment Issues
 ---
-
 - TOC
 {:toc}
 
@@ -19,7 +18,7 @@ The epic has the team member's name as the title and this is also how we do the 
 
 The templates used for the creation of the issues and the issues itself are in two different projects. Templates live within the [`people-group`](https://gitlab.com/gitlab-com/people-group/employment-templates-2/-/tree/master/.gitlab/issue_templates), while the issues live in the [`Team Member Epics`](https://gitlab.com/gitlab-com/team-member-epics/employment/-/issues) group. The templates are public but the issues remain private. Any updates to the templates can be done in the [Employment Templates](https://gitlab.com/gitlab-com/people-group/employment-templates-2/-/tree/master/.gitlab/issue_templates) project.
 
-For the onboarding and the offboarding issues, the issue created by the command will contain tasks applicable to other job families at GitLab. People Experience Associates will have to manually delete all of them except the one applicable to the outgoing team member.  An issue to improve
+For the onboarding and the offboarding issues, the issue created by the command will contain tasks applicable to other job families at GitLab. People Experience Associates will have to manually delete all of them except the one applicable to the outgoing team member. An issue to improve
 this can be found [here](https://gitlab.com/gitlab-com/people-ops/people-operations-engineering/issues/5).
 
 ### Onboarding issues
@@ -56,19 +55,6 @@ If you want to create the onboarding issue for interns, you can use the same Sla
 
 This is a first iteration of creating onboarding issues for interns, we can move to a similar method as we do for the "regular" onboardings.
 
-#### Interview Training & Becoming a Manager
-When an onboarding issue is created we will have a look if the incoming
-team member will be a people manager. Currently there's no exact field
-on BambooHR for us to check this so the way we do this is by by looking
-at their job title. If it starts with any of the following:
-- `Manager`
-- `Senior Manager`
-- `Director`
-- `Senior Director`
-
-We will create the Interview Training and Becoming a Manager issues in the
-[People Group Training project](https://gitlab.com/gitlab-com/people-group/Training).
-
 #### Closing outdated onboarding issues
 
 It is expected that onboarding issues be completed and closed within 30 days of
@@ -92,6 +78,27 @@ if they have onboarding tasks remaining.
 Currently, the pipeline is scheduled to be run at 09:30 PM on every Friday. It
 will close all the onboarding issues created before 60 days from that date.
 
+### Interview Training & Becoming a Manager
+
+There's a scheduled pipeline that runs every day that checks for hires that started a week ago. 
+For those hires we will have a look if the incoming
+team member will be a people manager. Currently there's no exact field
+on BambooHR for us to check this. The way we do this is by by looking
+at their job title. If it **starts** with any of the following:
+
+- `Team Lead`
+- `Manager`
+- `Senior Manager`
+- `Director`
+- `Senior Director`
+
+We also consider the person a people manager when the job title **ends** with:
+
+- `Area Sales Manager`
+
+We will create the Interview Training and Becoming a Manager issues in the
+[People Group Training project](https://gitlab.com/gitlab-com/people-group/Training).
+
 ### Offboarding issues
 
 #### Creation
@@ -103,7 +110,7 @@ The Slack command used for this is:
 ```
 
 The offboarding issue will be automatically assigned to the People Experience Associate
- who ran the command and the outgoing team member's Manager.
+who ran the command and the outgoing team member's Manager.
 
 The job then grabs various details of the outgoing team member, like country of
 residence, entity through which they are hired, division, department, job title
@@ -135,6 +142,7 @@ The Slack command used for this is:
 The Slack command triggers a pipeline in the `employment` project, which will
 run the job `transition`, and reply with a link to the newly created Career Mobility
 issue. The issue will be automatically assigned to the following people:
+
 - People Experience Associate who ran the command
 - the team member
 - the previous manager of the team member
