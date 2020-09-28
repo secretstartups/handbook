@@ -190,7 +190,49 @@ To learn more on when to use asynchronous and synchronous communication, example
 1. Optional AMA.
     If desired and appropriate, offer a companywide Zoom call to host an AMA (Ask Me Anything). Oftentimes, questions can be managed within the Discussion tab of a GitLab Issue or Merge Request. For broad announcements, such as registration opening for GitLab Contribute, an AMA may be better suited for a large volume of inquiries. To schedule a companywide call, please make a request in the #peopleops Slack channel, and include a Google Doc in the invite for questions.
 
-### Posting in #company-fyi
+```mermaid
+graph TB
+  everybody{{"Do you want to reach the entire company?"}}
+  important{{"How important is it?"}}
+  permission{{"Do you have permission<br>to post in #company-fyi?"}}
+  urgent{{"Is it urgent?"}}
+
+  channel-important>"Post in #company-fyi"]
+  channel-important-ask>"Ask your function's executive<br>to post in #company-fyi"]
+  channel-general>"Post in #whats-happening-at-gitlab"]
+  channel-topic>"Post in the most topical channel"]
+
+  repost(["Repost in the 1-2 most appropriate channel(s) based on your topic/audience"])
+  no-repost(["Don't repost"])
+
+  classDef question fill: #ECECFF
+  class everybody,important,permission,urgent question;
+
+  classDef action fill: #a2f2a9
+  class channel-important,channel-important-ask,channel-general,channel-topic,repost,no-repost action;
+
+  classDef repost fill: #f2d3a2
+  class repost,no-repost repost;
+
+  everybody -- Yes --> important
+  everybody -- No  --> channel-topic
+
+  important -- need-to-know --> permission
+  important -- good-to-know --> channel-general
+
+  permission -- Yes --> channel-important
+  permission -- No  --> urgent
+
+  urgent -- Yes --> channel-general
+  urgent -- No  --> channel-important-ask
+
+  channel-topic --> repost
+  channel-general --> repost
+  channel-important --> no-repost
+  channel-important-ask --> no-repost
+```
+
+#### Posting in #company-fyi
 
 Our companywide announcements channel is **#company-fyi**.
 It is an **announcement only** channel, meaning that communications need to be approved before they can be posted.
@@ -204,7 +246,7 @@ In order to post or have a message posted in #company-fyi, please reach out to y
 
 **The above should now all go in the new #whats-happening-at-GitLab channel** (formerly the #company-announcement channel)
 
-### Posting in #whats-happening-at-gitlab
+#### Posting in #whats-happening-at-gitlab
 
 Due to the volume of posts in the slack channel, we recommend that you do not use #whats-happening-at-gitlab as a sole location for important annoucements. Information can get lost and people might mute that channel.
 
