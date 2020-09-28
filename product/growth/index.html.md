@@ -195,7 +195,7 @@ To prioritize, the growth groups will use the [ICE framework](https://blog.growt
 
 ### Feature Ownership
 
-The Fulfillment Group is responsible for the maintenance and technical strategy of the customer portal application, the license application, and the billing and licensing experience for both internal and external customers. Fulfillment is also concerned with e-commerce compliance, add-on products, and internal tools for GitLabbers to work more efficiently when helping customers.
+The Fulfillment Group is responsible for the maintenance and technical strategy of the Subscriptions App application, the license application, and the billing and licensing experience for both internal and external customers. Fulfillment is also concerned with e-commerce compliance, add-on products, and internal tools for GitLabbers to work more efficiently when helping customers.
 
 Key areas of focus for the Fulfillment Group are:
 
