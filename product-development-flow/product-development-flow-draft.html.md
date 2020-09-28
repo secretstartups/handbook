@@ -12,7 +12,7 @@ title: Product Development Flow
 
 <div class="panel-body">
 
-This is the draft version of the Product Development Flow. All changes to this document will be merged into `product-development-flow/index.html.md` by the 17th of each month and announced via a release post if larger changes are included. Please see the [Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline)
+This is the draft version of the Product Development Flow. All changes to this document will be merged into `product-development-flow/index.html.md`[Handbook link](https://about.gitlab.com/handbook/product-development-flow/) by the 17th of each month and announced (including a list of changes) via a release post if larger changes are included. Please see the [Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline)
 
 </div>
 </div>
