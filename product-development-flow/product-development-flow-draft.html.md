@@ -367,17 +367,19 @@ The develop and test phase is where we build the features and test them before l
 1. PM should also conduct feature-level acceptance testing to ensure that the intended user value was, in fact, delivered.
 1. Documentation should be complete and available before proceeding to the launch phase.
 
-### Build phase 3: Launch
+### Build phase 3: Launch & verify
 
-Labels: `workflow::production`
+Labels: `workflow::verification`
 
 <kbd class="required">Required 🔎</kbd>
 
 > TBD 
 
-1. Once the feature is deployed to production, the delivery team sets the workflow label to `workflow::production`. At this point the feature is launched.
-1. Engineering/quality/PM should validate again that the feature works for all users.
-1. The release post item needs to be merged following the instructions in the [template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md), which will then cause it to appear on the [gitlab.com releases page](/releases/gitlab-com/).
+1. After it is deployed to production, the feature is launched and available to GitLab.com hosted customers.  It will be available in the next scheduled release for self-hosted customers ([depending on what the cut-off is for that release](/handbook/engineering/releases/#self-managed-releases-1)).
+1. Once the feature is deployed to production, the authoring developer team must set the workflow label to `workflow::verification`. 
+1. The authoring developer should validate that the feature works as expected for all users (enlisting assitance from the engineering manager, product managers, and others as appropriate).
+1. After verification is complete, the authoring developer will close the merge request.
+1. When appropriate for a change, the release post item needs to be merged by the product manager following the instructions in the [template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md), which will then cause it to appear on the [GitLab.com releases page](/releases/gitlab-com/).
 
 If the feature is part of the [Dogfooding process](/handbook/product/product-processes/#dogfooding-process):
 
