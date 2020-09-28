@@ -289,6 +289,8 @@ broken down into the smallest possible issue(s). Check out [iteration strategies
 
 The outcome of the planning phase are well-defined issues and epics that provide enough context for the engineering team to start development right away. Issues and epics are the single source of truth and should provide all the context necessary. Consider using templates e.g. the [feature proposal template](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/.gitlab/issue_templates/Feature%20proposal.md). 
 
+Teams should clearly define hand off points between [Directly Responsible Individuals (DRI)](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/). A shared understanding of the boundaries of responsibilities among team members allows for setting deliverable expectations.
+
 Keep in mind that different solutions require input from different DRIs. Breaking down solutions is almost always a collaborative and cross-functional activity that involves [Product, Design, Engineering, and Quality](/handbook/product/product-processes/#pm-em-ux-and-set-quad-dris). For example, a solution may require Frontend work, so early involvement of Product Design and Frontend Engineers is key.
 
 | Outcomes|Activities|
