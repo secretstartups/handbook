@@ -18,12 +18,12 @@ On this page, we explain the different factors that make up our Compensation Cal
 As a natural extension of the [Compensation Principles](/handbook/total-rewards/compensation/#gitlabs-compensation-principles) outlined above and our commitment to transparency, sharing, efficiency, directness, and boring solutions (see our [values](/handbook/values)) we developed a Compensation Calculator.
 The compensation of executives and anyone on a quota is not set with the calculator. We use a Compensation Calculator because it help us align compensation to our values:
 
-1. **Transparency** - The calculator is open to everyone, within and outside of GitLab. This means that at the time of hiring, candidates don’t have to blindly negotiate compensation. They simply need to enter the individual inputs on the Compensation Calculator and it comes up with a band consistent with the individual’s circumstance - where they live, their Compa Group, level, currency, etc. When team members move across levels, departments and locations during their time at GitLab, they’ll also be able to see the appropriate band for the change.
+1. **Transparency** - The calculator is open to everyone, within and outside of GitLab. This means that at the time of hiring, candidates don’t have to blindly negotiate compensation. They simply need to enter the individual inputs on the Compensation Calculator and it comes up with a band consistent with the individual’s circumstance - where they live, level, currency, etc. When team members move across levels, departments and locations during their time at GitLab, they’ll also be able to see the appropriate band for the change.
 1. **Efficient** - There’s no need to have multiple back-and-forth conversations between team members, managers, recruiters and the Total Rewards team. For hiring managers and recruiters, they simply use the Compensation Calculator for the roles they’re hiring for rather than having multiple approval levels and conversations. Similar with promotions and any other changes with locations, benchmarks, levels, team members and managers can discuss compensation according to the inputs on the Compensation Calculator rather than having negotiations.
 1. **Diversity, Inclusion & Belonging** - People with the same attributes should earn the same. The Compensation Calculator reduces unconscious bias or giving higher pay to individuals who can negotiate better. The Compensation Calculator allows us to take a data-driven approach to compensation where there's fairness across all teams, levels and countries.
 1. **Collaboration** - Allows for team members to review the Compensation Calculator and have the Total Rewards team iterate based on the data and feedback we get from the team.
 1. **Iteration** - The Compensation Calculator gets reviewed when feedback is received and all inputs are reviewed during the Annual Compensation Review.
-1. **Results** - The Compensation Calculator helps us focus on our outputs rather than spending unnecessary time talking about and negotiating money. It shifts conversations and focus from ‘I want X money’ to looking at the training and mentorship necessary for our team members to move from one Compa Group to another.
+1. **Results** - The Compensation Calculator helps us focus on our outputs rather than spending unnecessary time talking about and negotiating money. It shifts conversations and focus from ‘I want X money’ to looking at the training and mentorship necessary for our team members to increase within the range based on performance.
 
 ### Goals of the Compensation Calculator
 
@@ -33,7 +33,7 @@ The goals of the calculator are:
 1. Based on a simple formula.
 1. People with the same attributes should earn the same.
 1. The adjustment for [paying local rates](/handbook/total-rewards/compensation/#paying-local-rates) should be the same if you are in the same location.
-1. You should be able to calculate your compensation in case you know or made an assumption about your level and experience.
+1. You should be able to calculate your compensation in case you know or made an assumption about your level.
 1. That it is as close to a [competitive rate](/handbook/total-rewards/compensation/#competitive-rate) as possible given the other constraints.
 1. Be able to calculate compensation for most of our offers without involving a compensation specialist.
 
@@ -82,13 +82,13 @@ Previously, our compensation calculator and processes (percentage changes from c
 
 ### Introduction
 
-`SF benchmark` is the employee compensation at a compa ratio of 1.0 at or above market for the role in San Francisco, which we [determine](#benchmark-evaluation-for-existing-roles) using various sources of survey data: Radford, Comptryx, AdvancedHR. We only use crowd sourced data (Paysa, Payscale, etc) when no survey data is available. The SF benchmark used in each position is available in the [`job_families.yml` file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/job_families.yml) in this [website's repo](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/).
+`SF benchmark` is the team member compensation at a compa ratio of 1.0 at or above market for the role in San Francisco, which we [determine](#benchmark-evaluation-for-existing-roles) using various sources of survey data: Radford, Comptryx, AdvancedHR. We only use crowd sourced data (Paysa, Payscale, etc) when no survey data is available. The SF benchmark used in each position is available in the [`job_families.yml` file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/job_families.yml) in this [website's repo](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/).
 
 ### Benchmark Evaluation
 
 ### Benchmark Types
 
-Benchmarks are determined based on the following types: Individual Contributor (IC), Manager, Director, Senior Director. The next iteration to our job families is to have the entire career progression and calculator in one place. Please see the following [issue](https://gitlab.com/gitlab-com/people-group/Compensation/issues/79) for more information on the progress. In the [`job_families.yml` file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/job_families.yml) the Total Rewards team will add an entry for each type listed within the job family. For example:
+Benchmarks are determined based on the following types: Individual Contributor (IC), Manager, Director, Senior Director. In the [`job_families.yml` file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/job_families.yml), the Total Rewards team will add an entry for each type listed within the job family. For example:
 
 ```yml
   ic_ttc:
@@ -113,7 +113,7 @@ Note: Where there is no variable component offered (ICs and Managers) GitLab run
 
 #### Benchmark Evaluation for Existing Roles
 
-Benchmarks are evaluated annually as part of the Annual Compensation Review process. Benchmarks can also be [adjusted](#benchmark-adjustment)  as needed throughout the year.
+Benchmarks are evaluated annually as part of the Annual Compensation Review process. Benchmarks can also be [adjusted](#benchmark-adjustment) as needed throughout the year.
 
 To analyze benchmarks:
 1. Use the [job code](#job-codes) as the unique identifier to match all data.
@@ -139,7 +139,7 @@ To review the Compensation Benchmark process please refer to the [New Roles Crea
 
 As stated in [competitive rate](/handbook/total-rewards/compensation/#competitive-rate) we want to recruit and retain people who meet our requirements.
 If more than 20% of the people do not accept our offers stating compensation as a reason this is an indication we're not offering a competitive rate.
-In this case the People Ops Analyst can review the compensation. During this review, we do not look to target at a certain percentile, but instead look at market rates and declined candidate offers when adjusting. A business case should be presented to the compensation group after approval from the Total Rewards Analyst in a google sheet with market data, candidate expectations, an impact to the current team; and in a google doc outlining the problem statement, likely cause, what the department has already tried, and an overall proposal which clarifies the budgetary impact.
+In this case the Total Rewards team can review the compensation. During this review, we do not look to target at a certain percentile, but instead look at market rates and declined candidate offers when adjusting. A business case should be presented to the compensation group after approval from the Total Rewards team in a google sheet with market data, candidate expectations, an impact to the current team; and in a google doc outlining the problem statement, likely cause, what the department has already tried, and an overall proposal which clarifies the budgetary impact.
 
 If we change our [SF benchmark](#benchmark-adjustment) for a job family without changing the requirements, we change the compensation both for existing team members and new hires. If the SF benchmark is changed together with the requirements this review might happen at the time of the change or in our yearly cycle.
 
@@ -169,8 +169,6 @@ Senior Distribution Engineer = 5164A
 
 All current job codes can be found by the Total Rewards team in the "Job Codes" google sheet on the Final Job Code Tab.
 
-As a second iteration, GitLab will review whether or not we should generate our own job codes.
-
 ## Location factor
 
 ### Introduction
@@ -185,7 +183,7 @@ To determine your area:
 
    1. Select the country you live in. This will filter out all areas outside of your country. Based on the remaining choices under "area," if you live within a commutable one hour and forty-five minutes of a city listed, you may use that as your location. If you are within a commutable one hour and forty-five minutes of more than one city, the city with the shortest commute would be used as your location. If not, you will select "Everywhere else." If the only item listed for the country is "All," the country has the same location factor regardless of the city you live in. If applicable, a state or province might be listed instead of a city.
    1. If your country is not listed, reach out to total-rewards@domain to gather relevant data.
-   1. When you move, [you have to inform People Ops and Total Rewards](/handbook/people-group/contracts-and-international-expansion/#relocation) and your compensation may be adjusted up or down. Refer to Total Rewards Analysts to see what the likely impact will be.
+   1. When you move, [you have to inform People Ops and Total Rewards](/handbook/people-group/contracts-and-international-expansion/#relocation) and your compensation may be adjusted up or down. Refer to Total Rewards team or the Compensation Calculator to see what the likely impact will be.
 
 ### Calculating Location Factors
 
@@ -252,7 +250,7 @@ GitLab job grades aid in mapping a role for internal equity with respect to cash
 | Grade	| Management      | Individual Contributor          |
 |-------|-----------------|---------------------------------|
 | CEO   | CEO             |                                 |   
-| 14    | EVP/CXO         |                                 | 
+| 14    | EVP/CXO         |                                 |
 | 12    | VP              |                                 |
 | 11    | Senior Director |	                                |
 | 10    |	Director	      |                                 |
@@ -263,80 +261,12 @@ GitLab job grades aid in mapping a role for internal equity with respect to cash
 | 6			|                 | SMB/SDR Lead & Acceleration                             |
 | 5			|                 | Analyst/ SDR  |
 
-## Compa Ratio
-
-### Upcoming Iterations
-
-We have renamed experience factor to Compa Ratios.
-
-As part of the first iteration towards this change, the Annual Compensation Review will still use the output of the what was previously the experience factor worksheet, but completing the worksheet itself will be optional and will generate a range instead of specific number. For example, the output would be a compa group of growing in the role, instead of an experience factor of 0.97.
-
-In FY 2021 We will develop and release a new tool to assess compa group.
-
-### Introduction
-
-The Compa Ratio is the range spread of the base salary calculator. Specifically, the compa ratio has a 30% spread (+/- 15% from the median). It is common to see [range spreads up to 50%](https://www.erieri.com/blog/post/common-compensation-terms-formulas).
-
-### Determining
-
-If you have any questions around Compa Ratios or determining Compa Groups, please feel free to [open an issue](https://gitlab.com/gitlab-com/people-group/Compensation/issues) or email total-rewards@domain.
-
-#### Compa Group
-
-The Compa Group is determined by the direct manager for each team member, and reviewed by all indirect managers. This is officially done (and entered into BambooHR) once per year: during the Annual Compensation Review for current team members and during the offer stage for candidates. We do not typically do off-cycle compa group increases. However, this does not mean that compa groups should only be discussed annually. There should be an ongoing conversation with the team members to ensure they understand the path forward for growth and development.
-
-This factor does not directly reflect years of work experience, but instead, demonstrated ability to drive projects and deliverables from the position description to completion within GitLab. It also does not reflect the performance of the team member in comparison to their peers. You may have a lot of top performers in your team but they won’t all necessarily have the same Compa Group. The goal of narrowing Compa Groups from Compa Ratios, as it relates to compensation, is to ensure they are accurate to work toward getting to the right salary.
-
-If a manager is new to the team member, and has not had time to assess the Compa Group, collaboration with previous managers or colleagues is encouraged as a strong data point when assessing.
-
-Compa Ratios are broken down into the following four Compa Groups:
-
-* **Learning:** Recently promoted or new to the role. Needs a lot of guidance from the manager with the majority of tasks to understand requirements and deliverables expected.
-* **Growing:** Understands most of what is expected for deliverables, but needs some guidance with tasks to drive projects to completion.
-* **Thriving:** Understands all aspects of the role, needs limited guidance to drive advanced projects to completion.
-* **Expert:** Understands all aspects of the role, with almost no guidance to drive projects of any complexity to completion and able to demonstrate this consistently. Once a team member becomes an expert within their current level, the next step may be promotion if a role at the next level is needed at the company.
-
-Breakdown of the Compa Group mathematically:
-
-| Compa Group                | Compa Ratio Range |
-|----------------------------|-------------------|
-| Learning the role          | 0.85-0.924        |
-| Growing in the role        | 0.925-0.999       |
-| Thriving in the role       | 1.0-1.074         |
-| Expert in the role         | 1.075-1.15        |
-
-
-1. Using the compa groups, determine where your direct report aligns based on their knowledge, skills, and ability in their current role. This compa group can incorporate soft skills and job requirements, but should not take into account requirements or responsibilities that are outside of the scope of the Job Family and level.
-1. If you are not sure on how to classify your direct reports based on the descriptions above, you can use the [Optional Compa Group Worksheet](https://docs.google.com/spreadsheets/d/1Se66ZXrRKetMXEPOM2kRptiupCYLzwJrzpRxs0ITP4g/edit?usp=sharing) by saving a copy in the name of your team member. The worksheet is **optional**, but may be a helpful tool if you are not sure what classification your team member would fall into.
-  * Use the role description, including any appropriate requirements or responsibilities, to help populate the responsibility line items in the worksheet. It is important to take all aspects of the position description into account when determining compa group. If the position description isn't correct, use this as an opportunity to update it. Also be sure to update the soft skills section of the worksheet. The percentages are the same for each team member at GitLab, but level should be taken into account when evaluating experience.
-  * Please add the file to BambooHR. Login to BambooHR and go to your team member's profile. Click on the documents tab. Upload the file to the "Compa Group Worksheets" folder and select the option to share the file. Sharing the file will allow the team member to also view the worksheet.
-  * The most recent [feedback cycle](/handbook/people-group/360-feedback/) can be a helpful tool when distinguishing the compa group the team member is currently performing at.
-    * Feedback reviews should not be about judging, but helping people. We do not want feedback reviews where people are holding back, so these metrics are different as compa ratios are used within the compensation tool.
-1. Whether you use the worksheet or not, it is critical that all managers are able to explain the compa group with the respective team member, including how they arrived at that classification.
-1. If reviewing as part of annual compensation review: Add the Compa Group to BambooHR. Please note that only the direct manager will be able to submit the Compa Ratio request. If the reporting relationship is not accurate, please update the manager through a job information request to ensure they are reporting into the right person. If you have any issues here, please email total-rewards@domain.
-  * Login to BambooHR
-  * Go to the team member's profile. At the top right hand corner select "Request a Change"; from that list you will want to pick "Compa Ratio".
-  * Enter in today's date
-  * From the Comp Group drop down select the proper classification.
-  * You may include an optional comment (for example a link to the compa group worksheet if used).
-  * Click "Submit"
-  * The request is then forwarded to the manager's manager for final review and approval before automatically being uploaded to the BambooHR profile.
-1. If reviewing off cycle from annual compensation review: Add the Compa Group as a comment in the BambooHR request.
-
-It is important to note that deriving an compa group based on the current compensation calculator is not advised. Compa groups should be based on the knowledge, skills, and ability in the current role. Second, the output of the compensation calculator may change due to the review of all inputs. We want each team member's pay to be an accurate reflection of their market, with the caveat that we adjust once a year in order to reduce the overhead of the adjustment process.
-
-#### Compa Group Communication
-
-The following is a suggested communication strategy for managers when evaluating the Compa Group of their direct report/s. 
-
-1. The team member and their manager should have a conversation on where the team member believes their knowledge, skills, and ability align to as it relates to Compa Groups. 
-    * The manager should stress that the Compa Group discussed during this conversation may not necessarily be the team member's final Compa Group. This is simply a discussion to help inform the manager's evaluation. 
-1. The manager will weigh the team member's feedback with their own evaluation of the team member to arrive at the team member's Compa Group.
-1. The manager will submit the Compa Group for their team member in BambooHR for their manager to review (the team member's indirect manager). See instructions above on how to submit in BambooHR.
-1. If the indirect manager agrees, they will approve the request in BambooHR. If the indirect manager does not agree, they should communicate the reasoning why with the manager. Once the manager and indirect manager come to an agreement, the agreed upon Compa Group should be submitted and approved in BambooHR.
-1. The Total Rewards team will conduct an analysis of the Compa Groups submitted and review any flags with the People Business Partner and Leader for the applicable group. 
-1. Once all concerns have been addressed, the Total Rewards team will communicate to managers that they can have a discussion with their team member about their final Compa Group. The manager can reference BambooHR to see what the final Compa Group for a team member is. 
-
-## Contract factor
+## Contract Factor
 
 Contract Factor distinguishes between employee (1) or contractor (1.17), which can be found on the [`contract_factors.yml` file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/contract_factors.yml). A contractor may bear the costs of their own health insurance, social security taxes and so forth, leading to a 17% higher compensation for the contractor. Visit our [contracts page](/handbook/contracts/) to learn more about the different types of contracts we offer.
+
+## Compa Ratio
+
+Compa Ratio is a term used internally in the Total Rewards team to evaluate [Pay Equality](/handbook/people-group/people-success-performance-indicators/#pay-equality).   
+
+The Compa Ratio where within the range spread a team member falls in the calculator. Specifically, the GitLab compensation calculator has a 40% spread (+/- 20% from the median). It is common to see [range spreads up to 50%](https://www.erieri.com/blog/post/common-compensation-terms-formulas).
