@@ -25,7 +25,6 @@ There are a number of tools we use to plot and manage career development:
 
 ## Workflow
 
-* **Compa Group**: All GitLab team-members should have an Compa Group which reflects their current level's Compa Ratio.
 * **Quarterly Checkpoints**
   * On the first 1:1 meeting of the quarter, discuss the EFW and select two or three role responsibility areas to focus on during the quarter. Make a note of them in the 1:1 document and add them to the standing agenda. For each area, outline specific goals and targets to achieve, as well as ideas to work on them.
   * On the last 1:1 meeting of the quarter, discuss and record a summary of the progress made for the quarter and update the EFW accordingly.
