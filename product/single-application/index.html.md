@@ -147,7 +147,7 @@ correct context and can start to solve the issue immediately.
 
 ## No need to integrate multiple tools
 
-Enterprises that use a complex toolchain often need [20 people to manage all the interconnections](/handbook/marketing/product-marketing/customer-reference-program/#customer-anecdotes) while a single person can do the same work to administer GitLab. Here is a list of the various integrations necessary between tools:
+Enterprises that use a complex toolchain often need [20 people to manage all the interconnections](https://about.gitlab.com/customers/) while a single person can do the same work to administer GitLab. Here is a list of the various integrations necessary between tools:
 
 1. Issue tracking <=> Kanban boards, preferably they show the same issues.
 1. Issue tracking <=> Version control, close issues when you merged code in your branch.
