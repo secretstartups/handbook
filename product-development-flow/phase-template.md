@@ -3,7 +3,7 @@
 Label: `~label`
 
 <kbd class="required">Required 🔎</kbd>
-<!-- Any actions, if any, that are required in each phase. It may be helpful think think of these as akin to success and/or exit criteria for each phase. Please note, if   required items are boldfaced in the activities table, they can not contradict anything stated here.
+<!-- Any actions, if any, that are required in each phase. It may be helpful to think of these as akin to success and/or exit criteria for each phase. Please note, if required items are boldfaced in the activities table, they can not contradict anything stated here.
 -->
 
 
