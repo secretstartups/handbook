@@ -22,9 +22,9 @@ Types of requests:
    - e.g. [Runbooks](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/10748)
 1. [Security and Compliance Requests](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/10982)
 1. GitLab.com customer requests related to Infrastructure
-   - GitLab.com customers, especially enterprises, may often have requests related to backend capabilities of GitLab.com (e.g. availability, reliability, and performance of the service). Requests related to functionality [within the application itself](https://gitlab.com/gitlab-org/gitlab/) should be directed to the appropriate stage team using the standard [feature request template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20proposal.md).
+   - GitLab.com customers, especially enterprises, may often have requests related to operational capabilities or [non-functional requirements](https://en.wikipedia.org/wiki/Non-functional_requirement) of GitLab.com (e.g. availability, security, and performance of the service). Requests related to functionality [within the application itself](https://gitlab.com/gitlab-org/gitlab/) should be directed to the appropriate stage team using the standard [feature request template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20proposal.md).
 
-Examples of requests related to backend capabilities of GitLab.com include:
+Examples of requests related to operational capabilities of GitLab.com include:
 1. Disaster Recovery SLA
 1. [Publishing an allocated range of ingress IPs](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/10768)
 1. Data locality (e.g. a GitLab.eu instance) 
@@ -34,7 +34,7 @@ The Infra PM can help prioritize these requests since they will likely require e
 
 #### How to submit customer requests related to GitLab.com
 
-To submit customer requests related to the backend capabilities of GitLab.com, use the [GitLab.com feature request template](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/new?issuable_template=request-gitlab-com) so that we can gather the necessary opportunity size data to help prioritize this request
+To submit customer requests related to the operational capabilities of GitLab.com, use the [GitLab.com feature request template](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/new?issuable_template=request-gitlab-com) so that we can gather the necessary opportunity size data to help prioritize this request
 
 ### Outbound Requests
 The Infra PM can also help drive *outbound* requests on behalf of Infrastructure to internal teams and GitLab.com customers. 
