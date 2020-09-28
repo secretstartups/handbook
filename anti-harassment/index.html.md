@@ -214,35 +214,30 @@ The psychosocial intervention advisor will investigate further and provide a rep
 
 **Protection from Power Harassment**
 
-Under the Employment Contract Law and the Labour Safety and Health Law, employers must provide a safe and proper working environment. Sexual harassment and power harassment claims can have severe consequences for employers. Claims can be made based on:
+"Power harassment" is defined as any act by a person using his/her authority in the workplace, such as job position or human relationship with a team member, beyond the appropriate scope of business conduct, which causes such team member mental distress or physical pain or degradation of the working environment.
+The law defines power harassment as "remarks or behaviour by people taking advantage of their superior position that go beyond business necessity, thereby harming the workplace environment.  GitLab expressly prohibits any behaviour toward team members that falls within the definition of power harassment.
 
-- Tort.
-- Breaches of the Equal Opportunity Law.
-- Breaches of the employment contract.
-- Workmen's Accident Compensation Law (which can include criminal penalties as well as civil claims).
+Depending on the individual, a person may feel dissatisfaction when given the instructions, advice, or guidance necessary in the ordinary course of business.  In such cases where the actions are conducted within the scope of appropriate business practice, they should not fall under the category of power harassment.  Examples of power harassment include, but may not be limited to:
+- assault or injury (physical abuse)
+- threats, defamation, insult or slander (mental abuse)
+- isolation, ostracization or neglect (cutting them off from human relationships)
+forcing a team member to perform certain taks, which are clearly unnecessary for the business or impossible to be performed or interrupting their normal duties (excssive work demands)
+- ordering a team member to perform menial tasks which are far below the team member's ability or experience and do not provide any work at all for the team member relevant to the business (insufficient work demands)
+- excessively inquiring into the private affairs of a team member (invasion of privacy) 
 
-Most cases are dealt with internally without legal action.
-With regard to sexual harassment, the Equal Opportunity Law provides that employees should be able to have careers while raising children. Employers must ensure that appropriate measures are in place to:
+Team members who feel that they may have been subjected to power harassment may bring their complaint to their People Business Partner, who will engage the appropriate internal consultation services and respond to claims.  GitLab is prohibited from dismissing or treating unfairly any team members who report harassment cases or cooperate in an investigation or consultation process. 
 
-- Deal with sexual harassment allegations in the workplace.
-- Ensure employees suffer no disadvantage at work as a result of making allegations of sexual harassment.
-- Ensure no harm comes to employees as a result of sexual harassment in the workplace.
+**Prohibition of Sexual Harassment**
 
-The Ministry of Health, Labour and Welfare (MHLW) issued guidelines in 2006 which set out the steps that employers must take if harassment allegations have been made, but internal rules and grievance procedures can be more robust and detailed than these guidelines.
-An employer's duty to provide a safe and proper working environment also applies to bullying/power harassment. The MHLW has divided power harassment into categories, from physical abuse or assault to invasion of privacy. Employers must:
+Team members are prohibited from any activities that cause disadvantage or discomfort to other employees or that are damaging to the work environment by way of speech or behaviour of a sexual nature.  GitLab shall take all necessary measures in managing employment to prevent sexual harassment at the workplace.
 
-- Have a clear message against power harassment.
-- Establish rules on bullying.
-- Educate the workforce.
-- Provide consultation services.
-- Conduct employee surveys.
+**Prohibition of Harassment Due to Pregnancy, Childbirth, Child Care Leave, or Family Care Leave**
 
-Detailed internal rules and grievance procedures can be established to deal with these situations.
-The Law on the Comprehensive Promotion of Labour Measures and the Stabilisation of the Employment of Employees and the Enrichment of Their Working Lives, Etc. (revised on 29 May 2019) is intended to tackle workplace harassment and prevent bullying/power harassment in particular. These changes are scheduled to come into force in June 2020 for large companies and in April 2022 for small and medium enterprises.
+Team members are prohibited from any activities that are damaging to the work environment of other employees by way of speech or behavoiur related to pregnancy, childbirth, etc., or use of systems or measures related to pregnancy, childbirth, child care, family care, etc.  GitLab shall take necessary measures in managing employment to prevent harassment due to pregnancy, childbith, child care leave, family care leave, etc. at the workplace.
 
-The law defines power harassment as "remarks or behaviour by people taking advantage of their superior position that go beyond business necessity, thereby harming the workplace environment".
-Employers will be obliged to take HR management action and preventive measures to combat power harassment, including setting up structures necessary to offer internal consultation services and respond to claims. Employers must provide training to develop their employees' awareness and understanding and ensure that the relevant employees pay attention to their verbal and physical behaviour. Employers are prohibited from dismissing employees reporting harassment cases (or cooperating in an investigation or consultation process) or from treating them unfavourably.
-The Director-General of a Prefectural Labour Bureau can give advice, instructions or recommendations to assist with the dispute resolution, and employers who fail to comply with a recommendation and a related administrative notice can be publicly named and shamed. Guidelines issued by the MHLW elaborate on the measures to be taken.
+**Prohibition of Any Other Forms of Harassment**
+
+In addition to the prohibitions listed above, team members are prohibited from any other forms of harassment at the workplace that are damaging to the work environment of other team members such as by way of speech or behavious related to sexual orientation or gender identification.
 
 ### GitLab LTD (The UK)
 
