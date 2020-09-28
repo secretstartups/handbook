@@ -84,7 +84,7 @@ The active subscription status in Zuora needs to be reviewed in connection to th
 If the end date is in the future it means that the subscription is still within the term and the customer is able to use the product.
 An ‘active’ subscription with an end date in the past means that the subscription was not renewed and the customer doesn’t have access to the product since the end date.
 We currently don’t actively cancel these subscriptions as this is a manual process and the cancellation or lack of it does not have any impact on other processes.
-Additionally, where subscriptions remain in an active status they can be renewed by the customers on the customer portal
+Additionally, where subscriptions remain in an active status they can be renewed by the customers on the Subscriptions App
 
 ### Invoice cancellations and refunds
 
@@ -201,13 +201,13 @@ The time from when a deal is closed won in Salesforce to when the invoice is gen
 
 ### Accounts Receivable Process for Non-Payment of Invoices
 
-1. Billing & Revenue team review AR Aging as on a monthly basis. Fifty (50) percent of the balances that are Ninety (90) days or more after the due date and One Hundred (100) percent of the balances that are One Hundred and Twenty (120) days or more after the due date are reserved as allowance for doubtful debt. Bad debt expense is recorded based on revenue recognised, future revenue recognition is stopped and deferred revenue is reversed all at the Netsuite level. 
-2. Future amortisation of commissions expenses related to reserved invoices should also be stopped to ensure alignment with pattern of revenue recognition. 
-3. Allowance for doubtful debt will be shared with Sales Operations on a monthly basis to ensure they have visibility of what may be written off in the future. 
-4. On a quarterly basis, Senior Billing Manager and Revenue Director will determine the aged invoices that are uncollectible. They will create an issue ten (10) days before the end of the quarter to seek approval according to the [signature auhorization matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/) to write off invoices and to also notify the VP of Sales Operations. Sales Operations will then create decommission opportunities in SFDC for approved write offs before the end of the quarter and these will be synced to Zuora to reverse original invoicing and revenue. Sales Operations will claw back commissions accordingly. 
-5. Revenue team will review write-offs processed in zuora to ensure correct revenue reversal and will book MJEs in Netsuite to reclass impact to Bad Debt Reserve. 
-6. Customers that have had their invoices written off, consider no discounts or credit given for future deals. 
-7. Where payment is received for an invoice after it has been written off, the write off will be reversed and the related commission will be reinstated. 
+1. Billing & Revenue team review AR Aging as on a monthly basis. Fifty (50) percent of the balances that are Ninety (90) days or more after the due date and One Hundred (100) percent of the balances that are One Hundred and Twenty (120) days or more after the due date are reserved as allowance for doubtful debt. Bad debt expense is recorded based on revenue recognised, future revenue recognition is stopped and deferred revenue is reversed all at the Netsuite level.
+2. Future amortisation of commissions expenses related to reserved invoices should also be stopped to ensure alignment with pattern of revenue recognition.
+3. Allowance for doubtful debt will be shared with Sales Operations on a monthly basis to ensure they have visibility of what may be written off in the future.
+4. On a quarterly basis, Senior Billing Manager and Revenue Director will determine the aged invoices that are uncollectible. They will create an issue ten (10) days before the end of the quarter to seek approval according to the [signature auhorization matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/) to write off invoices and to also notify the VP of Sales Operations. Sales Operations will then create decommission opportunities in SFDC for approved write offs before the end of the quarter and these will be synced to Zuora to reverse original invoicing and revenue. Sales Operations will claw back commissions accordingly.
+5. Revenue team will review write-offs processed in zuora to ensure correct revenue reversal and will book MJEs in Netsuite to reclass impact to Bad Debt Reserve.
+6. Customers that have had their invoices written off, consider no discounts or credit given for future deals.
+7. Where payment is received for an invoice after it has been written off, the write off will be reversed and the related commission will be reinstated.
 
 ## Procure to Pay
 
@@ -792,7 +792,7 @@ Total operating expenses plus capital expenditures.
 The amount of subscription revenue recognized using ratable accounting treatment as calculated by the subscription amount divided equally over the subscription term. Note that other GAAP adjustments such as non-delivery, performance obligations are not accounted for in this metric.
 
 #### Remaining Performance Obligations
-Remaining performance obligations, or RPO, represent all future, noncancelable, contracted revenue under our subscription contracts with customers that has not yet been recognized, inclusive of deferred revenue that has been invoiced and noncancelable amounts that will be invoiced and recognized as revenue in future periods. 
+Remaining performance obligations, or RPO, represent all future, noncancelable, contracted revenue under our subscription contracts with customers that has not yet been recognized, inclusive of deferred revenue that has been invoiced and noncancelable amounts that will be invoiced and recognized as revenue in future periods.
 
 #### Adding New GL Accounts
 
@@ -878,7 +878,7 @@ The monthly close process includes both a preliminary and final close process. I
 
 ### Intercompany Calculation and Settlement
 
-This section will be updated soon. 
+This section will be updated soon.
 
 ## Reporting
 ## Types of Reporting:
@@ -908,7 +908,7 @@ This section will be updated soon.
 * Stock Based Compensation Expense
    * Management reporting does not include expenses associated with stock based compensation, including: 1) amortization of stock compensation expense and 2) compensation charges related to secondary offerings.  Stock based compensation expense is included in our external reporting.
 * Operating Expenses
-   *  Management reporting has the following operating expense line items: Research and Development, GitLab.com, Sales, Marketing, General and Adminstrative.  
+   *  Management reporting has the following operating expense line items: Research and Development, GitLab.com, Sales, Marketing, General and Adminstrative.
    *  External reporting has the following operating expense line items: Research and Development, Sales and Marketing, General and Adminstrative.  GitLab.com operating expenses are included in Sales and Marketing for external reporting purposes.
 
 

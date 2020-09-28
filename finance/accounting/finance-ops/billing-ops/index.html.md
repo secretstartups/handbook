@@ -71,12 +71,12 @@ Please tag `@billing-ops` in the `#Finance` channel.
 In short the approval and invoicing process comprises the following steps:
 
 1. Reviewing the opportunity in SFDC
-1. Ensuring the data is correct in Zuora and customer portal
+1. Ensuring the data is correct in Zuora and Subscriptions App
 1. Approving the opportunity and sending the quote to Zuora - (if the opportunity doesn’t meet the requirements listed below it will be rejected and all the reasons for rejection will be provided)
 1. Creating and posting the invoice in Zuora
 1. Updating SFDC with invoice information
 
-In order to approve an opportunity the following systems are used **SFDC, Zuora** and **customer portal**.
+In order to approve an opportunity the following systems are used **SFDC, Zuora** and **Subscriptions App**.
 The below points/fields need to be reviewed in the process:
 
 **I. Salesforce:**
@@ -187,7 +187,7 @@ If the below are ok the invoice can be posted (**Post**).
 1. **VAT ID** where required
 1. **Invoice Comments** - e.g. End User name
 
-**III. Customer portal:**
+**III. Subscriptions App:**
 
 1. By searching with sold to email address ensure the **sold to** contact:
 * has been **updated** to the correct one
@@ -261,7 +261,7 @@ We bill authorized resellers:
 
 There are 3 reasons why an account for a customer or an unauthorized reseller based in the Netherlands, UK, Germany or Australia is billed through GitLab Inc:
 
-1. The account has been opened through the customer portal (web direct) as these accounts are automatically billed through GitLab Inc regardless of the country the customer is based in.
+1. The account has been opened through the Subscriptions App (web direct) as these accounts are automatically billed through GitLab Inc regardless of the country the customer is based in.
 1. The subscription has been billed before an entity in a given country has been opened.
 1. The end user’s account follows the entity of the reseller account it has been invoiced to - e.g.
 The customer is based in Germany but has been billed via a reseller account based in France - since the end user and reseller account need to be on the same entity - the end user account will be set to the US entity, the same as the reseller account. The entity of the end user account needs to follow the entity of the reseller.
@@ -274,7 +274,7 @@ Please note that add-on opportunities need to be billed via the entity of the op
 
 * Sales Rep can chatter us on the Opportunity that needs to be refunded, giving a reason as to why.
 * Customers can email ar@gitlab.com requesting a refund.
-* Customers can submit a ticket via the customer portal.
+* Customers can submit a ticket via the Subscriptions App.
 
 ### Processing a refund in Zuora (credit card payments): 
 
@@ -350,8 +350,8 @@ If the payment doesn’t go through:
    * Unpost invoice
    * Cancel invoice
    * Create amendment to reverse auto-renewal under terms and conditions and change to current year
-   * Go to the customer portal and downgrade the product to “free”
-   * Go to the customer portal
+   * Go to the Subscriptions App and downgrade the product to “free”
+   * Go to the Subscriptions App
    * Search by the customer’s email address
    * Right click “GitLab Groups” (Open in a New Tab)
    * Downgrade the Plan to free
