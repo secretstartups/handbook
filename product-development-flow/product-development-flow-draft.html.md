@@ -169,7 +169,7 @@ Labels: `workflow::design`
 
 <kbd class="required">Required 🔎</kbd>
 
-> The product designer must provide a technically feasible design which solves the validated problem. 
+> The Product Designer must provide a technically feasible design which solves the validated problem. 
 
 
 After we understand and validate the problem, we can begin/continue to ideate potential solutions through a [diverge/converge](http://web.stanford.edu/~rldavis/educ236/readings/doet/text/ch06_excerpt.html) process. The Product Designer leads the team of Product Management and Development (as well as User Experience and Research, Quality Engineering, and Tech Writers, as needed, depending on the item) in ideating on potential solutions and exploring multiple different approaches (diverge) before we converge on a single solution. Product Managers and Engineers evaluate the solutions by determining whether they meet customer and business goals as well as technical feasibility. The team is encouraged to engage with stakeholders to help uncover potential flaws and missed use cases, as well as whether the solution has the intended customer impact. Once the team has converged on the proposed solution (or identified a small set of options to validate), the issue moves into the Solution Validation phase.  
