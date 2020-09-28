@@ -9,14 +9,14 @@ title: "1-1"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-Maintaining an effective and efficient agenda is important to get the best out of the 1-1 meetings you have with your team members. Furthermore this page will take you through other tips and tricks to conduct an effective 1-1 meeting. 
+Maintaining an effective and efficient agenda is important to get the best out of the 1-1 meetings you have with your team members. Furthermore this page will take you through other tips and tricks to conduct an effective 1-1 meeting.
 
 ## The 1-1 Agenda
-1. Make sure you use a consistent agenda format from week to week 
+1. Make sure you use a consistent agenda format from week to week
 1. Both parties add items to the agenda. Preferably, the majority added by the team member. If the manager puts more than half of the items on the agenda this is an indication that something is wrong.
 1. Reference the [suggested format for leadership](/handbook/leadership/1-1/suggested-agenda-format) as necessary.
 
-## Conducting a 1-1 
+## Conducting a 1-1
 
 We recorded a training about 1-1s which you can find here:
 
@@ -87,7 +87,7 @@ Once you have established the goals you can then create a [career development pl
 When taking over management of an existing team member, consider the following guidelines to ensure the team member experiences a psychologically safe transition.
 
 ### Manager Transition Meeting
-In an effort to be [transparent](/handbook/values/#transparency), managers should consider ensuring that all of the information provided to the future manager by the current manager is done in full view of the team member. This might not work for all team members. You should ask whether the team member will feel comfortable having this conversation openly, and respect their boundaries. When choosing to remain transparent, schedule a transition meeting and follow the [Manager Transition Meeting Agenda](#manager-transition-meeting-agenda-example). 
+In an effort to be [transparent](/handbook/values/#transparency), managers should consider ensuring that all of the information provided to the future manager by the current manager is done in full view of the team member. This might not work for all team members. You should ask whether the team member will feel comfortable having this conversation openly, and respect their boundaries. When choosing to remain transparent, schedule a transition meeting and follow the [Manager Transition Meeting Agenda](#manager-transition-meeting-agenda-example).
 
 ### 1-1-1 Transition Schedule
 The following schedule can ensure a smooth transition:
@@ -113,7 +113,7 @@ We understand that this meeting format may feel a bit awkward as we will openly 
 
 #### Agenda
 - Introductions and reason why this manager transition is happening.
-- Review most recent performance evaluations, compa group worksheets, OKRs, and goals.
+- Review most recent performance evaluations, OKRs, and goals.
 - Share any additional feedback since recent reviews.
 - Are there any follow-on 1-1-1 transition meetings needed?
 
@@ -123,7 +123,7 @@ Shadowing a 1-1 is a scenario in which a GitLab team member attends the 1-1 of t
 
 ### Agenda
 
-Portions of the agenda will be suitable for sharing and others will not. Care should be taken to separate items that could breach our communication guidelines or potentially reveal confidential information. A suggestion on how to handle this would either be to not share the agenda with the shadow(s) or have a separate agenda for private items, these are just suggestions. 
+Portions of the agenda will be suitable for sharing and others will not. Care should be taken to separate items that could breach our communication guidelines or potentially reveal confidential information. A suggestion on how to handle this would either be to not share the agenda with the shadow(s) or have a separate agenda for private items, these are just suggestions.
 
 ### Attendees
 
@@ -132,4 +132,3 @@ Attendance could be limited to direct reports but could also include other peopl
 ### Example
 
 An engineering manager decides to open up their 1-1 meetings to their team. The engineering manager checks with their manager that this is acceptable and determines a plan for review. When a shadow will be present, this should be indicated clearly on the agenda. Utilising a separate zoom link, all 3 people join and walk through the agenda. Participation level of the team member is up to the regular participants of the 1-1 but, consider encouraging engagement. At a point where sensitive topics need to be discussed, the team member will be asked to leave.
-
