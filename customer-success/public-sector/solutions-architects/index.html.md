@@ -40,14 +40,14 @@ When the opportunity progresses to stage 4, the technical close plan is complete
 
 ## Success Management Program Introduction
 
-During each greenfield (new customer) sale, eligible customers will move from the presales technical evaluation into procurement. During this time, the account sales team will introduce the Customer Success Management Program. This call will be led by the Solutions Architect.The introduction provides guidance on accessing GitLab Support, available TAM programs and GitLab Professional Services.  
+During each greenfield (new customer) sale, eligible customers will move from the presales technical evaluation into procurement. During the presales period, the account sales team will introduce the Customer Success Management Program. This call will be led by the Solutions Architect.The introduction provides guidance on accessing GitLab Support, available TAM programs and GitLab Professional Services.  
 
 The goals of this introduction are many:
 1. Smoothly transition the new customer to post-sales support, guidance and growth
-2. Ensure a smooth conversational shift from go to market use cases to DevOps stage adoption
+2. Ensure a smooth conversational shift from Go to Market use cases to DevOps stage adoption
 3. Validate customer access to GitLab Support
-4. Help the customer choose their level of TAM assistance after procurement
-5. Ensure the customer understands available GitLab Enablement and Professional Services
+4. Help the customer choose their level of TAM engagement after procurement
+5. Ensure the customer understands available GitLab Enablement options and Professional Services
 
 ### Program Flow
 
@@ -61,7 +61,7 @@ Stage 3
 - By the end of stage 3, all Stage Technology fields on the Account record should be populated.
 
 Stage 4-5
-- Once the technical win is achieved, the Success Management data sheet should be shared with the new customer
+- Once the technical win is achieved, the Success Management data sheet should be shared with the new customer.
 - A call should be scheduled with the new customer and the sales team to introduce the Success Management Program as well as the Technical Account Manager, if the TAM introduction has not already happened during the technical evaluation. 
 - When the call is complete, log an activity of type 'call' that includes 'success management introduction' in the title.
 
