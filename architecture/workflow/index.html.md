@@ -188,11 +188,10 @@ It describes the goal of the change and usually a 1-year forecast of how to
 make it happen.
 
 Blueprints are supposed to be created in
-[`doc/architecture/blueprints`](https://gitlab.com/gitlab-org/gitlab/-/tree/master/doc)
+[`doc/architecture/blueprints`](https://gitlab.com/gitlab-org/gitlab/-/tree/master/doc/architecture/blueprints)
 directory in GitLab Rails project. Eventually these are going to be published
 on [GitLab Architecture Docs](https://docs.gitlab.com/architecture/blueprints)
 too.
-
 
 ### Describing iterations
 
