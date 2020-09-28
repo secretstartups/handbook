@@ -202,6 +202,7 @@ For more information on how to access Sanvello Premium if enrolled in a UHC medi
 * Alberta: Recommends to take their [self-assessment](https://myhealth.alberta.ca/Journey/COVID-19/Pages/COVID-Self-Assessment.aspx) and contact Health Link 811 if you have symptoms or have travelled outside Canada. [For more information](https://www.alberta.ca/coronavirus-info-for-albertans.aspx).
 * British Columbia: Recommends to contact your healthcare provider or HealthLinkBC (811) if you have symptoms and have been in contact with someone who has tested positive.
 * All Canada team members are enrolled in the [Employee and Family Assistance Program](/handbook/total-rewards/benefits/general-and-entity-benefits/canada-corp-benefits/#employee-and-family-assistance-program). This plan provides support for difficult times including counselling services. For more information, please consult the [brochure](https://drive.google.com/open?id=1d30c7T8dUa48ZR58H9-R84VRG2pChEGf).
+* All Canada team members who are enrolled in the Canada Life benefit plan have access to [Akira Virtual Care](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/canada-corp-benefits/#akira---virtual-care). 
 
 ### Netherlands
 
