@@ -373,7 +373,7 @@ Labels: `workflow::verification`
 
 <kbd class="required">Required 🔎</kbd>
 
-> TBD 
+> The authoring developer must confirm the change is working as expected in production.
 
 1. After it is deployed to production, the feature is launched and available to GitLab.com hosted customers.  It will be available in the next scheduled release for self-hosted customers ([depending on what the cut-off is for that release](/handbook/engineering/releases/#self-managed-releases-1)).
 1. Once the feature is deployed to production, the authoring developer team must set the workflow label to `workflow::verification`. 
@@ -381,12 +381,13 @@ Labels: `workflow::verification`
 1. After verification is complete, the authoring developer will close the merge request.
 1. When appropriate for a change, the release post item needs to be merged by the product manager following the instructions in the [template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md), which will then cause it to appear on the [GitLab.com releases page](/releases/gitlab-com/).
 
-If the feature is part of the [Dogfooding process](/handbook/product/product-processes/#dogfooding-process):
+If a determination has been made that the feature should be a part of the [Dogfooding process](/handbook/product/product-processes/#dogfooding-process):
 
-1. At this point, you should label the issue as `Dogfooding::Promote Feature`
-1. You should present it in the weekly Product Call to get everyone on board
-1. You could consider announcing it on the Company Call or in `#whats-happening-at-gitlab`
-1. Your Section Lead should also be actively promoting the feature to other sections
+1. At this point, the person who made the decision on dogfooding should label the issue as `Dogfooding::Promote Feature`
+1. The product manager for the feature must decide on the dogfooding plan for the feature.
+1. The product manager should present it in the weekly Product Call to get everyone on board.
+1. The product manager should consider announcing it on the Company Call or in `#whats-happening-at-gitlab`
+1. The product management section lead should also consider actively promoting the feature to other sections as appropriate.
 
 ### Build phase 4: Improve
 
