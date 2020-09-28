@@ -90,7 +90,7 @@ True-ups are conversations that often come to the table with customers during re
 * CaptivateIQ - Commission Calculator 
 * [Clari](/handbook/sales/#clari-for-salespeople-instructional-videos) - Forecasting 
 * [Datafox](/handbook/business-ops/tech-stack/#datafox) - Client Information
-* [Customer Portal Admin](https://customers.gitlab.com/plans) (see overview video [here](https://youtu.be/G9JuHXqV5LM))
+* [Subscriptions App Admin](https://customers.gitlab.com/plans) (see overview video [here](https://youtu.be/G9JuHXqV5LM))
 * [Chorus](/handbook/business-ops/tech-stack/#chorus) (For NORAM SMB ONLY) - Call/Demo Recording 
 *  [Crayon ](https://app.crayon.co/intel/gitlab/battlecards/) - Competitor Insights
 *  [Periscope](https://app.periscopedata.com/app/gitlab/403199/Welcome-Dashboard-%F0%9F%91%8B) - Data Visualization
