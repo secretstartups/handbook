@@ -64,7 +64,7 @@ Of course, before you can do any of the above you'll need to have an open requis
 The Director of Support is the DRI for the hiring plan. They will ensure that headcount is allocated to regions and approximate hiring dates.
 
 #### Vacancies
-1. When headcount is allocated, the [Support Hiring Report - Hiring Plan](https://docs.google.com/spreadsheets/d/1vVSitKkQIEoZVHutpe8hulGAvkNcybyVrA77R4Oghwo/edit#gid=1211828057)(internal only) will be updated by the hiring team.
+1. When headcount is allocated, the [Support Hiring Report - Hiring Plan](https://drive.google.com/drive/u/0/search?q=title:%22support%20hiring%20reports%22)(internal only) will be updated by the hiring team.
 
 For each vacancy there should be a:
 - **Job title**

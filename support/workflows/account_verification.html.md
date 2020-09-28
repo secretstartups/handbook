@@ -58,7 +58,8 @@ As part of access recovery, if 2FA removal is not involved, then skip the follow
 
 > **Note**: In case the user sends back very minimal information and it's clear it's not sufficient or the answers are vague, reply asking for more information immediately after their response. You can provide some additional guidance, such as "please provide the exact date and time of the commit, not just an approximate".
 
-1. Using the [Risk Factor Worksheet](https://docs.google.com/spreadsheets/d/1NBH1xaZQSwdQdJSbqvwm1DInHeVD8_b2L08-V1QG1Qk/edit#gid=0) (internal only), determine the appropriate data classification level and the risk factor you have determined from customer's answers to the challenges.
+1. Using the [Risk Factor Worksheet](https://drive.google.com/drive/u/0/search?q=Risk%20factor%20worksheet%20parent:1nI4lCILooN-0U_RmPJP6_cNyIDgXJR99) (internal only), determine the appropriate data classification level and the risk factor you have determined from customer's answers to the challenges.
+
    - For almost all cases, the originating email should be the same as the one listed on the account.
 
 1. Use the macro **"Account::2FA::2FA Internal Note"** It leaves an internal note on the ticket. Edit with the relevant admin link, your proposed data classification level, challenges and the risk factor.

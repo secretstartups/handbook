@@ -51,4 +51,4 @@ periodically. To flag an issue as ham:
 At times GitLab.com can appear overrun by specific types of spam. Spammers often
 target public snippets, projects, issues, and merge requests for advertising
 their wares. Details on more advanced spam fighting techniques can be found in
-the [internal GitLab-only Spam Fighting Google Doc](https://docs.google.com/document/d/1V0X2aYiNTZE1npzeqDvq-dhNFZsEPsL__FqKOMXOjE8).
+the [internal GitLab-only Spam Fighting Google Doc](https://drive.google.com/drive/u/0/search?q=%22Spam%20fighting%20runbook%22).

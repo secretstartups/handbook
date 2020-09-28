@@ -291,8 +291,6 @@ The regions listed above are the regions for which each call may be the most con
 
 All Zoom and agenda links can be found on the relevant calendar entry in the Support Calendar.
 
-Past recordings of our meetings are [available on Google Drive](https://drive.google.com/drive/u/0/folders/0B5OISI5eJZ-DcnBxS05QUTdyekk).
-
 #### Support Leadership Meetings
 
 The Support management team meet regularly. Details of these calls are on the [Support Managers page](/handbook/support/managers)
@@ -318,7 +316,7 @@ If the notetaker is not available when it is their turn, they should find a subs
 
 ### Support Week in Review
 
-Every Friday, we do a week in review, inspired by the [greater Engineering organization week in review](https://docs.google.com/document/d/1EkfzI85aqw8chYDBf2GLRvjKEa3s0FWHMI3u0DIr-xg/edit).  You can add topics any time to the [support week in review google document](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/edit).
+Every Friday, we do a week in review, inspired by the [greater Engineering organization week in review](https://drive.google.com/drive/u/0/search?q=type:document%20title%20%22Engineering%20week-in-review%22).  You can add topics any time to the [support week in review google document](https://drive.google.com/drive/u/0/search?q=%22Support%20Week%20in%20Review%22%20-archive%20-Senior%20parent:1eBkN9gosfqNVSoRR9LkS2MHzVGjM5-t5).
 
 Any workflow changes or announcements should be shared in the SWIR and we recommend you check at least once a week to stay up to date on recent changes.
 Ideally, the information shared here should have a permanent location such as an issue or merge request.
@@ -365,7 +363,7 @@ Managers will:
 
 If you're interested in becoming a stable counterpart for a group, please create an MR to add your name under 'Support' for the relevant team on [data/stages.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/stages.yml) and add your name to the list on the [source/includes/product/_categories-names.erb](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/includes/product/_categories-names.erb) file, then assign to your manager.
 
-There's a [video on google drive](https://drive.google.com/open?id=1BL3d9dKC6Ksmuj3wwqN-WCDBqdROpaNt) (internal link) with some discussion on how to perform the role.
+There's a [video on google drive](https://drive.google.com/drive/u/0/search?q=parent:1-Cb1GVf5KfsehPDtCWjz6Q1u1b4xE37D) (internal link) with some discussion on how to perform the role.
 
 Tips:
 - Subscribe to issues at the [group level](https://gitlab.com/groups/gitlab-org/-/issues) to pick up all the projects that make up GitLab.

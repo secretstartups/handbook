@@ -19,7 +19,7 @@ Use this workflow when you want to get a coverage schedule, including PD, going 
 
 ##### Building a Shift Schedule
 
-Take a look at this [example](https://docs.google.com/spreadsheets/d/1HcGQNfjmNRapB3gpxTcIzn2zf_ppg8SOVuhd5t1cH0I/edit#gid=278887560)
+Take a look at this [example](https://drive.google.com/drive/u/0/search?q=%22Support%20-%20Contribute%202019%20Work%20Schedule%22%20parent:1BrPZj6yd-9vmlPpCD6H8JjgF8c6VceFc)
 
 1. Determine the destination timezone and how it maps to the regions of support
 1. Determine who will be attending the event and who will remain in their region.
