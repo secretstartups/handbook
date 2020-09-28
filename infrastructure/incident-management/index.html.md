@@ -302,6 +302,9 @@ Status can be set independent of state. The only time these must align is when a
 ### Purpose
 In order to effectively track specific metrics and have a single pane of glass for incidents and their reviews, specific labels are used. The below [workflow diagram](#workflow-diagram) describes the two paths an incident can take from `open` to `closed`. The two paths are dictated by the severity of the issue, `S1` and `S2` incidents require a review. In certain cases an `S3` or `S4` incident can take the review workflow path. [Details here](/handbook/engineering/infrastructure/incident-review/#review-criteria)
 
+### Assignees
+The EOC and the IMOC, at the time of the incident, are the default assignees for an incident issue. They are the assignees for the entire workflow of the incident issue.
+
 ### Labeling
 The following labels are used to track the incident lifecyle from active incident to completed incident review. [Label Source](https://gitlab.com/gitlab-com/gl-infra/production/-/labels?utf8=%E2%9C%93&subscribed=&search=Incident%3A%3A)
 
