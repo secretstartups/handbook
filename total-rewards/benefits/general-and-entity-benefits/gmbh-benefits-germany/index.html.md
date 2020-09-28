@@ -21,13 +21,13 @@ Currently, GitLab does not provide additional benefits over and above the mandat
 
 GitLab and employee contributions to pension, health insurance, care in old age insurance and unemployment insurance are mandatory, as required by the state system. The payments are calculated each month by payroll and are shown on the employee pay-slips.
 
-The rates (valid as of January 1, 2018) are as follows:
+The rates are as follows:
 
 |Type of Insurance | Contribution by GitLab | Contribution by Employee|
 |------------------|------------------------|-------------------------|
 |Pension insurance|          9.3%            |            9.3%         |
 |Unemployment insurance|     1.5%            |            1.5%         |
-|Health insurance|           7.3%            |            ca 8.2%      |
+|Health insurance|           7.3%            |            8.2%      |
 |Nursing care insurance|     1.275%          |            1.275%       |
 
 **Income Thresholds**
