@@ -87,6 +87,20 @@ Outreach is able to sync some custom information about these meetings into event
 |`Incorrect Contact: Left Message`|The wrong person answered the phone and it is the wrong persons phone number (They were not a personal assistant). They took a message for the correct person/gave you the correct number for the contact|
 |`Incorrect Contact: Not Answered/Other`| You got through to the voicemail but the voicemail was for someone other than the person who you were trying to contact. Or the person was not listed in the company directory and you were calling the companies main number|
 
+### Outreach Engagement Panel
+Custom fields from Outreach that sync into SFDC for understanding engagement status in Outreach.
+
+|Field Name|Description|
+|----|----|
+| Actively Being Sequenced| Checkbox for if a prospect is active in a sequence |
+| Name of Active Sequence | Name of the most recent active sequence. If they are in multiple sequences it will note the sequence they have been in the longest.|
+| Sequence Status | The state of the sequence: Active, Pending, Failed.|
+| Number of Active Sequences | How many sequences a lead is active in. |
+| Sequence User | Is the User ID of who sequenced the lead. |
+| Sequence Task Due Date | identifies the date the upcoming task is due. |
+| Sequence Step Number | Identifies the step of the sequence a lead is in.|
+| Sequence Step Type | Identifies if the step is Phone Call or Automated E-mail, ect. |
+
 ### Sending Email Using Outreach   
 
 Outreach is **not** meant for mass communications nor bulk email sends it is intended for very targeted account and prospect communications. The Outreach platform is directly integrated to the GitLab Gmail account and each users email is linked through OAuth therefore all activity in Outreach has the potential to impact the IP reputation of the GitLab domain with all major email services providers.   
