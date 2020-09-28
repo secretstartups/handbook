@@ -45,7 +45,7 @@ Types of requests:
 1. Outreach to GitLab.com customers
    - e.g. [Document additional egress IP ranges for SaaS](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/37444)
 1. Driving cost efficiences across stages
-   - e.g. [Registry Cost](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/8163)
+   - e.g. [Registry Cost](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/8163) (internal only)
 
 ### General Questions
 For general inquiries, use the [Infrastructure PM Slack Channel](https://gitlab.slack.com/archives/infra-product).
