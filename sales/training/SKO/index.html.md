@@ -34,13 +34,13 @@ A: Sales Kick Off (SKO) will take place from 08-Feb through 12-Feb, 2021 in Denv
 
 **Q: How are we planning for this event in light of COVID-19?** 
 
-A: We are planning an in-person event with a hybrid solution – in-person and livestream for team members who are not able to or are not comfortable traveling for the event. We are actively monitoring the COVID-19 crisis and consulting with our security vendor leading up to the event with the health and safety of our team members as our top priority. The SKO planning team is working toward a deadline of mid-November for a go/no-go call. If it is deemed unsafe to gather in-person for this event, we will default to a fully-virtual SKO. You will not be asked to book travel until this decision has been made. 
+We are planning an in-person event with a hybrid solution – in-person and livestream for team members who are not able to or are not comfortable traveling for the event. We are actively monitoring the COVID-19 crisis and consulting with our security vendor leading up to the event with the health and safety of our team members as our top priority. The SKO planning team is working toward a deadline of mid-November for a final decision on a hybrid event. If it is deemed unsafe to gather in-person for this event, we will default to a fully-virtual SKO. You will not be asked to book travel until this decision has been made. 
 
 **Q: When and how should I book travel?**
 
 A: Please do not book travel at this time. Once registration is launched, you will be contacted by our travel vendor via email to book your travel. 
 
-**Q: Do I need to get a visa letter now or should I wait until November?**
+**Q: Do I need to get a visa letter now?**
 
 A: We are actively working with People Ops to determine the appropriate process and timing for visas and will update this FAQ as well as the #sko-denver-2021 Slack channel when we know more. 
 

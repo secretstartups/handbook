@@ -29,14 +29,15 @@ Value drivers describe what organizations are likely proactively looking for or 
 
 | **Asset Title** | **Why / When Use** |
 | ------ | ------ |
-| [GitLab Value Framework](https://docs.google.com/document/d/1LKYY7kJPKUhzfYnBWNdrigpYpEtxFKxbvyAEUF1nwqY/edit?usp=sharing) | primary asset with in-depth information on GitLab's value drivers and defensible differentiators |
+| [GitLab Value Framework](https://docs.google.com/document/d/1ZNWZ46bAp_Ii1UCl5H1THj6cJehh3qsCGJbZXh9yc9g/edit?usp=sharing) | primary asset with in-depth information on GitLab's value drivers and defensible differentiators |
 | [GitLab Value Framework Summary](https://drive.google.com/open?id=1l2g7OJ3mIrCgUlLvwQbtwo-2Eg1lV8rkqUTy9dEoLdc) | 1-page quick guide, also great for sharing with internal champions |
 | [GitLab CXO Digital Transformation Discovery Guide](https://drive.google.com/open?id=1balLINV-vnd6-6TYzF3SIIJKrBPUQofVSDgQ5llC2Do) | 3-page conversation guide for executive discussions |
 | [Proof Points](/handbook/sales/command-of-the-message/proof-points/) | don't take our word for it...3rd party validation from customers, analysts, industry awards, and peer reviews |
-| [NEW Customer deck based on GitLab value drivers](https://docs.google.com/presentation/d/1SHSmrEs0vE08iqse9ZhEfOQF1UWiAfpWodIE6_fFFLg/edit?usp=sharing) | alternative to the standard GitLab pitch deck that starts with the customer's perspective and aligns to the 3 value drivers (video [here](https://youtu.be/UdaOZ9vvgXM)) |
+| [GitLab Customer Use Case Solution Summary](https://docs.google.com/document/d/11O13xs0KABA7RSrVlF_Qm9kDRJGtK-LmvJlVGYr0qNM/edit?usp=sharing) | quick reference guide highlighting how GitLab is uniquely positioned to address key software development customer use cases |
+| [Customer deck based on value drivers](https://docs.google.com/presentation/d/1SHSmrEs0vE08iqse9ZhEfOQF1UWiAfpWodIE6_fFFLg/edit?usp=sharing) | alternative to the standard GitLab pitch deck that starts with the customer's perspective and aligns to the 3 value drivers (video [here](https://youtu.be/UdaOZ9vvgXM)) |
 | [Command Plan](/handbook/sales/command-of-the-message/command-plan/) | how GitLab has operationalized Command of the Message and MEDDPPICC into the opportunity management process |
 | [MEDDPPICC](/handbook/sales/meddppicc/) | proven methodology used for strategic opportunity management and complex sales process orchestration for enterprise organizations | 
-| [Demystifying the Metrics Conversation](/handbook/sales/command-of-the-message/metrics.html) | tips and tricks for navigating the Metrics conversation with customers |
+| [Demystifying the Metrics Conversation](/handbook/sales/command-of-the-message/metrics/) | tips and tricks for navigating the Metrics conversation with customers |
 
 ## GitLab Differentiators
 
@@ -179,7 +180,7 @@ The Mantra is a framework you can use to clearly demonstrate that you have a com
    - [Sticher](https://www.stitcher.com/podcast/the-audible-ready-podcast)
    - [Spotify](https://open.spotify.com/show/2JMvuitWVC34R2Kw7fHFDN)
    - [Google Podcast](https://podcasts.google.com/?feed=aHR0cHM6Ly9hdWRpYmxlcmVhZHlwb2RjYXN0LmxpYnN5bi5jb20vcnNz&ved=0CAAQ4aUDahcKEwjA2e2koZXoAhUAAAAAHQAAAAAQCQ)
-*  GitLab sales professionals and Sales Development Reps (SDRs) may access additional information in the [Force Management Command Center](https://gitlab.lyearn.com/) (password protected since resources contain Force Management intellectual property). In particular, the [Channels](https://gitlab.lyearn.com/#/learner/channels) section of the Force Management Command Center contains supplemental instructional videos, podcasts, and blogs).
+*  GitLab sales managers may access additional information in the [Force Management Command Center](https://gitlab.lyearn.com/) (password protected since resources contain Force Management intellectual property). In particular, the [Channels](https://gitlab.lyearn.com/#/learner/channels) section of the Force Management Command Center contains supplemental instructional videos, podcasts, and blogs).
 </details>
 
 <details>
@@ -238,9 +239,8 @@ Below is a summary of enhancements made to the GitLab Value Framework and CoM ma
 - Updated proof points
 
 **Version 1.2 (Aug 2020)**
-- [More Proactive and Robust Metrics Guidance](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/184)
-- [Change from MEDDPICC to MEDDPPICC](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/305)
-- [Customer Use Case Solution Summary](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/429)
-- [Proof Points refresh](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/432)
-- and more
+- More Proactive and Robust Metrics Guidance via [Demystifying the Metrics Conversation](/handbook/sales/command-of-the-message/metrics/) Handbook page
+- Changed MEDDPICC to [MEDDPPICC](/handbook/sales/meddppicc/) to reflect importance of understanding Partner influence on opportunities
+- MVP release of the [GitLab Customer Use Case Solution Summary](https://docs.google.com/document/d/11O13xs0KABA7RSrVlF_Qm9kDRJGtK-LmvJlVGYr0qNM/edit?usp=sharing) featuring Tier 1 customer use cases
+- Content refresh (updated [Proof Points](/handbook/sales/command-of-the-message/proof-points/), new ROI materials, [Discovery and Trap-Setting Questions for Selling GitLab Premium/Silver and Ultimate/Gold](/handbook/sales/qualification-questions/#questions-for-selling-gitlab-premiumsilver-and-ultimategold), and Peach Tech & Fuzz It related updates)
 </details>

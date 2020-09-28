@@ -56,15 +56,34 @@ Listen to how Nico Ochoa (Strategic Account Leader, US West) explains the value 
   <iframe src="https://www.youtube.com/embed/vtlAs68YY8M" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-As a follow on to the above, familiarize yourself with GitLab's Value Stream Management (VSM) & Value Stream Analytics capabilities ([start here](https://youtu.be/0MR7Q8Wiq6g)). Effectively articulating these capabilities plays to two of GitLab's key differentiators: 1) Single Application for Entire DevOps Lifecycle and 2) End-to-End Insight and Visibility. Additional short customer-facing VSM videos are available at [Learn@GitLab](/learn/).
+As a follow on to the above, be sure to familiarize yourself with GitLab's Value Stream Management (VSM) & Value Stream Analytics capabilities. Effectively articulating these capabilities plays to two of GitLab's key differentiators:
+1. Single Application for Entire DevOps Lifecycle, and 
+1. End-to-End Insight and Visibility
+
+Watch the below video and check out GitLab's [Value Stream Management](/solutions/value-stream-management/) solutions page to learn more. In addition, access short customer-facing VSM videos in the [Agile Management](/learn/#agile_management) section of the Learn@GitLab page. 
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/e2XQB5HFJmc" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ## Know the Difference Between Economic and Technical Metrics
 
 ### Economic Metrics
 **Economic metrics** highlight how your solution attaches to the customer's large strategic initiatives.
 * Economic metrics typically align to one or more of three [customer value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers)
-* Check out the [Forrester Total Economic Impact](/handbook/marketing/product-marketing/analyst-relations/forrester-tei/) study
+* To help you document your customer's ROI of adopting GitLab, use the GitLab ROI Model
+    - Watch the video below
+    - Check out the [GitLab Standard ROI Models enablement webcast](https://youtu.be/znCrnpTDRoE) (36 minutes, Sept 2020)
+    - [GitLab Standardized ROI Model](https://docs.google.com/spreadsheets/d/1zYeKV51thbqUjKKQqOtE0a0iVuXBWytc_5ThNV6U_1c/edit?usp=sharing) (GitLab internal only)
+    - [Standardized GitLab ROI Model presentation](https://docs.google.com/presentation/d/1-Qq6TLpgOuooAlmHj1tumwHxUTK86uWBD_7Lv6K47w8/edit?usp=sharing) (GitLab internal only)
+* Check out the [Forrester Total Economic Impact Study](/handbook/marketing/product-marketing/analyst-relations/forrester-tei/) Handbook page
      - Watch the [Forrester TEI Report webcast](https://youtu.be/J_6QgemCz2E) (1 hour, July 2020, internal only) featuring Forrester analysts
+     - Check out the [online Forrester TEI Estimator/Calculator](https://tools.totaleconomicimpact.com/go/gitlab/devopsplatform/index.html)
+     - More resources in the Handbook page referenced above!
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/jE56J-kQRao" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 Listen to Nico Ochoa (Strategic Account Leader, US West) describe his role in [helping a large tech firm be able to measure success and improve business outcomes](https://youtu.be/m1Gori76d-I) (GitLab internal only, June 2020, 3 minutes).
 
@@ -97,7 +116,7 @@ Link your **technical buyers** to the metrics and their role in driving the posi
 | :------: | ------ |
 | **Increase Operational Efficiencies** | - Lower costs (license, FTEs and compute) of development<br> - Increase developer/team productivity<br> - Reduce cycle time (lead time)<br> - Increase [deployment frequency](/handbook/marketing/product-marketing/devops-metrics/#deployment-frequency)<br> - Reduce [change failure rate](/handbook/marketing/product-marketing/devops-metrics/#change-failure-rate-cfr)<br> - Reduce [MTTR (mean time to recover/restore)](/handbook/marketing/product-marketing/devops-metrics/#mean-time-to-recover-mttr)<br> - Improve developer satisfaction and retention |
 | **Deliver Better Products Faster** | - Improve revenue, # of customers, and/or market share<br> - Increase developer/team productivity<br> - Reduce cycle time (lead time)<br> - Increase [deployment frequency](/handbook/marketing/product-marketing/devops-metrics/#deployment-frequency)<br> - Reduce [change failure rate](/handbook/marketing/product-marketing/devops-metrics/#change-failure-rate-cfr)<br> - Reduce [MTTR (mean time to recover/restore)](/handbook/marketing/product-marketing/devops-metrics/#mean-time-to-recover-mttr) |
-| **Reduce Security and Compliance Risk** | - Decrease % of critical security vulnerabilities that escaped development<br> - increase the % of code scanned<br> - improve audit pass rate<br> - Reduce time spent on audits and/or compliance adherence efforts<br> - Reduce [MTTR (mean time to recover/restore)](/handbook/marketing/product-marketing/devops-metrics/#mean-time-to-recover-mttr) of security vulnerabilities |
+| **Reduce Security and Compliance Risk** | - Decrease % of critical security vulnerabilities that escaped development<br> - increase the % of code scanned<br> - improve audit pass rate<br> - Reduce time spent on audits and/or compliance adherence efforts<br> - Reduce mean time to resolve security vulnerabilities |
 
 ## Know Your Proof Points
 * Reference and leverage the proof points listed in the GitLab Value Framework and in slides 22 and 23 of the Customer Deck (see the [Command of the Message Core Content](/handbook/sales/command-of-the-message/#resources-core-content))

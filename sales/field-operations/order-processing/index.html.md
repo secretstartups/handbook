@@ -29,7 +29,7 @@ This page outlines the Quote to Cash process, starting from quote creation, to a
 *   **Frequently Used Handbook Pages**
 
     *   [Sales Order Processing](/handbook/business-ops/order-processing/)
-    *   [How to Work with Legal](/handbook/legal/#6-other-legal-requests)
+    *   [How to Work with Legal](/handbook/legal/#5-other-legal-requests)
     *   [Deal Desk Opportunity Approval Process](/handbook/business-ops/order-processing/#submitting-an-opportunity-for-deal-desk-approval)
     *   [Useful Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information)
     *   [Account Ownership Rules of Engagement](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
@@ -153,10 +153,10 @@ Booking:
 
 ## **Working with Legal**
 
-There are several scenarios where you might need Legal assistance on an opportunity. Thouroughly review the information below. You can also learn more about the team and their scope by [visiting their handbook page](/handbook/legal/)
+There are several scenarios where you might need Legal assistance on an opportunity. Thouroughly review the information below. You can also learn more about the team and their scope by [visiting their handbook page](/handbook/legal/) or by checking out these [best practices on how to Collaborate with Legal](/handbook/legal/customer-negotiations/). 
 
-### Contact Legal
-For general questions related to the customer, please open a case with Legal. 
+### Contact Legal 
+For general questions related to the customer, please open a case with legal. 
 
 On Customer Account, OR, Opportunity:
 1. Click "Legal Request" (located at the top of Account and Opportunity SFDC layout)
@@ -382,6 +382,27 @@ If custom terms need to be added to a quote, notify the Deal Desk team. The team
 
 </details>
 
+<details>
+<summary markdown="span"><b>Subscription Transfer Agreements</b></summary>
+
+For assistance with a Subscription Transfer Agreement please open a Legal Request. Please provide details as to the Account which purchased the Subscription--Including the original Opportunity--and the updated Account that is requesting to be assigned ownership.
+
+
+</details>
+
+
+## **How to Create a Draft Proposal** 
+
+Follow the standard process for [quote creation](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes). The Quote Object **does not** need to be approved before generating a Draft proposal. 
+
+1. Click Edit Quote. 
+2. Select the Draft Quote Template. Save. 
+3. Click Generate PDF. A Draft Proposal PDF will be attached to the opportunity in the Notes & Attachments section. 
+
+**Important Notes** 
+- A Draft Proposal PDF is not an Order Form. All quotes must go through the applicable approval process before you can generate an Order Form. Draft Proposals are not guaranteed approval.
+- A Draft Proposal PDF will not be accepted in place of an Order Form under any circumstance. 
+
 
 ## **How to Submit a Quote for Discount and Payment Term Approval**
 
@@ -396,7 +417,10 @@ Prior to generating a standard (non-draft) quote to deliver to a client or prosp
 1.  You will be able to see who the required approvers are on the quote prior to submitting the quote and why they are required.
 1.  Once you are sure that the quote has the correct info on it click the the `Submit for Approval` button on the quote screen. 
 1.  Your quote has now been submitted for approval. If it needs any approvals you can monitor who needs to approve it on the quote in the section `Required Quote Approvals`
-1.  If Quote approvals are not rolled out for you team/region/segment you will be notified to move forward with approvals via a window in Salesforce
+
+**Contractual Discounts**
+
+In cases where a discount has been applied to a quote pursuant to a signed agreement between GitLab and the customer, additional approvals are not required. To bypass the approval module, please tag Sales-Support in chatter to request that the quote approvals be overridden. Please include a link to the signed agreement with your request. 
 
 ### Channel Quote Approval 
 
@@ -698,7 +722,10 @@ For all Direct Deals (Sales Assisted Opportunities) the customer must sign the A
 
 An Authorized Reseller is an approved partner with an active contract with GitLab in place. For opportunities where an Authorized Reseller will purchase and resell to an End User:
 
-1. Authorized Reseller must sign an Authorized Reseller Order Form. This will include reference to the executed Agreement between the parties, and in the event there is no executed Agreement, then the Fulfillment Reseller Agreement (located here:https://about.gitlab.com/terms/#reseller) will govern. 
+1. Authorized Reseller must issue a PO that references the GitLab Order Form Quote No. The Authorized Reseller Order Form template must be attached to the opportunity and DOES NOT require Signature from the reseller. The template includes reference to the executed Agreement between the parties, and in the event there is no executed Agreement, then the Fulfillment Reseller Agreement (located here:https://about.gitlab.com/terms/#reseller) will govern. 
+1. GitLab will accept the Authorized Reseller Order Form without signature, and the Reseller PO, PROVIDED THAT: 
+   * The Order Form includes the correct reference to the Master Partner Agreement or Authorized Reseller Agreement and other terms; and 
+   * The PO received is issued to the correct GitLab entity and references the applicable Order Form Quote No. which includes, Quote ID, products, # of users, term, and pricing of the subscription(s). 
 1. Clickthrough EULA must be delivered and accepted by the End User. Please attach a Note to the Notes and Attachments section with a confirmation link or email.
 1. If the End User has previously accepted a EULA, then we can use it as the governing terms with respect to the End User for this purchase.  In such a case go to our [EULA Request Server](https://customers.gitlab.com/admin/eula_request) and find the ```Token``` and ```Accepted At``` from the customer's previous EULA. Then insert the following into the quote: *"By accepting this quote, you, and the entity that you represent (collectively, “Customer”) unconditionally agree to be bound by the terms agreed to in EULA ```Token``` previously accepted on ```Accepted At```."*
 
@@ -727,7 +754,7 @@ AWS Private Offer Transactions have a unique process flow, from quoting to oppor
 
 Quoting:
 
-1. Create an Order Form per standard practice, and enter Amazon Web Services as the Invoice Owner, and Accounts Payable (from AWS) as the Invoice Owner Contact. The Sold To contact must be the individual who will receive the license.
+1. Create an Order Form per standard practice, and enter Amazon Web Services as the Invoice Owner. The Invoice Owner Contact field should remain blank. The Sold To contact must be the individual who will receive the license.
 1. Any additional discounts, non-standard payment terms, or other devitation from standard terms will require approval per the approval matrix. Such approvals must be obtained BEFORE applicable terms are relayed to the customer.
 1. Deliver PDF of Order Form to Peter Goldberg (GitLab Alliances team) to create Private Offer. Work with Alliances to provide Private Offer to customer for acceptance.
 1. Note that IACV will reflect the net price on the opportunity, after the margin to AWS is taken into account upon booking. Compensation for AWS deals will be channel neutral specifically for the margin to AWS.
@@ -924,7 +951,13 @@ Deal Desk must tag the Revenue Recognition team to review opportunities in the f
 
 ## **Post Sale Information**
 
-The opportunity closed! Congrats! Wait... my customer still has questions! Here are some of the most common questions that come up after an opportunity has closed... and how to resolve them. 
+The opportunity closed! Congrats! Wait... my customer still has questions! Here are some of the most common questions that come up after an opportunity has closed... and how to resolve them.
+
+### How do I know if a License Key was sent to the Customer?
+
+Licensing emails sent to customers are captured and stored in Salesforce as an Activity against the Contact record. This activity will also be related to the Opportunity record, and can be found under "Acitivity History" releated list on the Opportunity.
+
+Task title: `Email: Your GitLab License File`
 
 ### My customer didn't recieve the EULA/License File! Help! 
 

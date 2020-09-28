@@ -107,11 +107,12 @@ For in-depth training on Clari go to the [Clari for Salespeople Instructional Vi
 
 ### 3.3 Conduct [Executive Business Reviews](/handbook/customer-success/tam/ebr/) (TAMs)
 
-An Executive Business Review (EBR) is a strategic meeting with stakeholders from both GitLab and the customer. TAMs are responsible for scheduling and conducting EBRs and working with their customers to achieve the primary objectives.
+An Executive Business Review (EBR) is a strategic meeting with stakeholders from both GitLab and the customer. Together with the SAL/AE, a TAM is responsible for scheduling and conducting EBRs and working with their customers to achieve the primary objectives and desired business outcomes. The TAM will own the content creation, and together the SAL/AE and TAM will determine the flow of the review based on best practices and insight into the customer relationship.
 
-TAMs should hold EBRs with each of their customers **at least** once per year, but more frequently is better to ensure the customer continues to engage and see the value of GitLab; however, this can vary depending on the needs of the customer.
+TAMs should hold EBRs with each of their customers at least once per year. Larger ARR accounts or those with more strategic initiatives may benefit from or even require a quarterly cadence, a decision to be made by the TAM, SAL/AE, and Sales/CS leadership.
 
-*   The TAM will coordinate with SALSA to get the right people into the room, build the EBR deck with Gainsight, and tell a story around the presentation that is solution and value focused.
+The TAM will coordinate with SALSA to determine who will invite the stakeholders to ensure we get the right people into the room, build the [EBR deck](https://docs.google.com/presentation/d/1FfHBVMsY2a3cteylz7Alq-K43OmBPLylBoVdIccsO8g/edit), and tell a story around the presentation that is solution and value focused.
+
 
 ## 4. Customer Account Expansion
 

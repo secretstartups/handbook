@@ -60,7 +60,7 @@ With all the uncertainty around Covid-19, we have developed a process to capture
 
 * [Commercial Sales: Tiering Accounts Training Clippet](https://youtu.be/M-5OhlYxmFI)
 
-For more details visit the [Account Tiering](/handbook/sales/commercial/#account-tiering) section on the Commercial Sales Handbook page.
+For more details visit the [Account Ranking](/handbook/sales/commercial/#account-ranking) section on the Commercial Sales Handbook page.
 
 
 ### Getting into Accounts That Say They Don't Have a Problem

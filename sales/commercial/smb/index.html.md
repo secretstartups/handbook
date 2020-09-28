@@ -38,7 +38,7 @@ Small and Medium Size Business Account Executives "SMB AE" act as Account Execut
 The goal of [onboarding](/handbook/sales/commercial/enablement) in all of this is to ensure that you feel confident and comfortable to hit the ground running. Our hope is that along this journey you are not only gaining the tactical skills needed to complete your job, but that you form connections with colleagues, gain a strong understanding of the GitLab culture, and begin to develop industry knowledge.
 
 ### Required 7 
-All team members from Commercial Sales are expected to implement the [Required 7](/handbook/sales/commercial/#the-required-7) into their sales process. None of the 7 should be missing at any time. The Required 7 will help to stay on top of your territory, deliver what is promised to the prospect / customer and have quality meetings.
+All team members from Commercial Sales are expected to implement the [Required 7](/handbook/sales/commercial/#required-7) into their sales process. None of the 7 should be missing at any time. The Required 7 will help to stay on top of your territory, deliver what is promised to the prospect / customer and have quality meetings.
 
 ### SMB Processes
 
@@ -73,6 +73,9 @@ True-ups are conversations that often come to the table with customers during re
 
 ### Solutions Architect & Technical Account Manager Rules of Engagement
 - Follow the [Commercial Sales standards](/handbook/customer-success/comm-sales/#additional-engagement-guidelines-for-sales) for engaging a Technical Account Manager or Solution Architect into the conversation with a customer or prospect. 
+- If limited on resources, encourage clients to submit questions to the following communities:
+  - Community Forum: https://forum.gitlab.com/
+  - Reddit: https://www.reddit.com/r/gitlab/
 
 #### Renewals (WIP)
 #### Discount Approval Process (WIP)

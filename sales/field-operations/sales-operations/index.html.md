@@ -97,7 +97,7 @@ Please leave assignee blank.
 1. [Updating or creating Opportunity Splits ](/handbook/sales/#opportunity-splits)
 1. [Salesforce Lightning for Gmail](/handbook/sales/#salesforce-lightning-for-gmail)
 1. [Support from the Community Advocacy Team](/handbook/marketing/revenue-marketing/sdr/#working-with-the-community-advocacy-team)
-1. [DataFox/DiscoverOrg segmentation conflicts](/handbook/business-ops/resources/#segmentation)
+1. [DataFox/Zoominfo segmentation conflicts](/handbook/business-ops/resources/#segmentation)
 1. [Reassigning to a Territory Rep](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
 1. [Requesting Reassignment](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
 1. [If LEAD or CONTACT is owned by SDR team member](/handbook/business-ops/resources/#record-creation-in-salesforce)
@@ -168,7 +168,7 @@ Include a link to the list and description of the list load.
     * Go into Salesforce Setup>Customize>Accounts>Record Types (Pull the number out of the URL (number after id= and before the &))
     * Paste into the RecordType ID column>copy down
 1. Format the Account Source Column
-    * Naming convention: List-Vendor-Identifier-Date (example:List-DiscoverOrg-FranceAC-20200407
+    * Naming convention: List-Vendor-Identifier-Date (example:List-Zoominfo-FranceAC-20200407
     * Copy and paste values down the column with the correct format
 1. Create the Account Source Name in Salesforce
     * Go into Salesforce>Setup>Customize>Account>Fields>Account Source
@@ -251,6 +251,7 @@ The full company tech stack list with definitions can be found on the [Business 
 ](/handbook/business-ops/tech-stack/). Here are the tools that the Sales Operations team works with on a daily basis.
 1. [Clari](/handbook/business-ops/tech-stack/#clari)
 1. [Datafox](/handbook/business-ops/tech-stack/#datafox)
+1. [ZoomInfo](/handbook/marketing/marketing-operations/zoominfo/)
 1. [Gainsight](/handbook/business-ops/tech-stack/#gainsight)
 1. [Leandata](/handbook/business-ops/tech-stack/#leandata)
 1. [Salesforce](/handbook/business-ops/tech-stack/#salesforce)
@@ -323,22 +324,33 @@ In addition to sponsored reporting, Sales Ops will maintain existing reports by 
 **Enterprise: West**
 1. [WEST ENT Pipeline Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXBZ)
 2. [FY21 CQ WEST ENT Sales Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXBo)
+3. [WEST ENT Pipeline Health Check](https://gitlab.my.salesforce.com/01Z4M000000oXVy)
 
 **Enterprise: East**
-3. [EAST ENT Pipeline Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXBU)
-4. [FY21 CQ EAST ENT Sales Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXBj)
+4. [EAST ENT Pipeline Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXBU)
+5. [FY21 CQ EAST ENT Sales Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXBj)
+6. [EAST ENT Pipeline Health Check](https://gitlab.my.salesforce.com/01Z4M000000oXVo)
 
 **Enterprise: PubSec**
-5. [PubSec Pipeline Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXC3)
-6. [FY21 CQ PubSec Sales Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXCD)
+7. [PubSec Pipeline Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXC3)
+8. [FY21 CQ PubSec Sales Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXCD)
+9. [PubSec Pipeline Health Check](https://gitlab.my.salesforce.com/01Z4M000000oXW8)
 
 **Enterprise: EMEA**
-7. [EMEA Enterprise Pipeline Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oX78)
-7. [FY21 CQ EMEA ENT Sales Dashboard](https://gitlab.my.salesforce.com/01Z4M000000slbx)
+10. [EMEA Enterprise Pipeline Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oX78)
+11. [FY21 CQ EMEA ENT Sales Dashboard](https://gitlab.my.salesforce.com/01Z4M000000slbx)
+12. [EMEA ENT Pipeline Health Check](https://gitlab.my.salesforce.com/01Z4M000000oXVe)
 
 **Enterprise: APAC**
-8. [APAC ENT Pipeline Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXAR)
-9. [FY21 CQ APAC ENT Sales Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXA2)
+13. [APAC ENT Pipeline Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXAR)
+14. [FY21 CQ APAC ENT Sales Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXA2)
+15. [APAC ENT Pipeline Health Check](https://gitlab.my.salesforce.com/01Z4M000000oXW3)
+
+**Enterprise: ISR**
+16. [Enterprise ISR Metrics](https://gitlab.my.salesforce.com/01Z4M000000oXXV)
+
+
+The Pipeline Health Check Dashboards will be sent to each regional team for their review every Monday. 
 
 </details> 
 
@@ -458,10 +470,12 @@ The Sales Operations team supports the opportunity credit split approval process
      * This does not apply for a credit split. Ex: 50/50 or any other percentage split.
      * If the opportunity is incorrectly assigned, the split should still match the owner until correct opportunity assignment is made.
      * This is automated and should be monitored on this [Exception Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXQt) weekly.
-3. There will never be a split that totals above 100%.  
+3. There will never be a split that totals above 100%. 
+4. SFDC reports and Dashboards will only reflect opportunity splits if the report type includeds opportunity splits. 
 
 **Opportunity Splits in Clari**
-   * Rolling out in Q3
+   * Clari will pull the split data out of SFDC. 
+   
   
 **Updating | Adding | Deleting a Split In Salesforce**
 1.  Navigate to the opportunity in SFDC.
@@ -472,4 +486,74 @@ The Sales Operations team supports the opportunity credit split approval process
 </details> 
 
 
+### **Sales Operations Owned System Provisioning**
+
+Below are instructions on how Sales Operations provisions users within the various Sales-owned systems and the process followed. 
+
+For status on an issue please view the [Sales Operations Access Request Board](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/boards/1959331).
+
+<details>
+<summary markdown='span'>Operators Guide: Sales Opeartions Owned Provisioning </summary>
+
+### Sales Operations Access Request Labeling System
+1. SalesOpsAR::Action Needed - Sales Ops action item is immediate or within current FQ.
+1. SalesOpsAR::In Progress - Sales Ops action item is presently being worked on.
+1. SalesOpsAR::On Hold - SalesOps AR that is blocked or not presently w/in scope of work.
+   1. SalesOPS: Waiting on SFDC License - a reason an AR might be on hold.
+1. SalesOpsAR::Completed - Sales Ops has completed their task on this issue although the issue may not be closed.
+
+### Sales Operations Provisioning Workflow
+### Baseline Templates | New Hires
+1. The onboarding issue will auto create the AR on day 2
+2. The templates will automatically:
+   - Add the SalesOpsAR::Action Needed label
+   - Leave the assignee blank
+   - CC Amber and Meri as the Provisioning DRIs
+3.  The DRIs will receive an email when a new AR is created
+4.  All will be able to monitor the [Sales Ops Access Request Board](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/boards/1959331)proactively.
+5.  When the AR is picked up by the Sales Operations team member, the team member will:
+-assign the issue to themself
+-add the label SaelsOpsAR::In Progress
+6.  The Assignee should be responsible for working the AR to completion by completing all Sales Operations task items and working the label system accordingly. 
+7.  If Assignee is out of office, the rest of the team is responsible for moving the AR forward in a timely fashion and can see ARs in flight by looking at the [Sales Ops Access Request Board](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/boards/1959331)proactively.
+
+### Single Person or Bulk Access Request
+1. The user will manually create a [single person or bulk AR](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#singlebulk-access-requests-instructions)
+2. In the instructions, they are directed to the Tech Stack doc with the following tasks:
+   - Add the SalesOpsAR::Action Needed label
+   - Leave the assignee blank
+   - CC Amber and Meri as the Provisioning DRIs
+3.  The DRIs will receive an email when a new AR is created
+4.  All will be able to monitor the [Sales Ops Access Request Board](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/boards/1959331)proactively.
+5.  When the AR is picked up by the Sales Operations team member, the team member will:
+-assign the issue to themself
+-add the label SaelsOpsAR::In Progress
+6.  The Assignee should be responsible for working the AR to completion by completing all Sales Operations task items and working the label system accordingly. 
+7.  If Assignee is out of office, the rest of the team is responsible for moving the AR forward in a timely fashion and can see ARs in flight by looking at the [Sales Ops Access Request Board](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/boards/1959331)proactively.
+
+### Chorus
+1. From the [Settings Page](https://chorus.ai/settings/personal-settings) in Chorus, click in **User Management** and then on the **Invite New User** button.    
+1. To invite users to Chorus, enter their emails in the designated field separated by commas and click the **Add To List** button. 
+1. Updated the Role, Team and License Type.  These will be based off of the users job role/region and should be listed and or approved in the Access Request. If questionable, look at other provisioned users of the same title/role.
+1. Click the **Send Invites** button to invite the user to Chorus.
+
+Note: The most accurate access level will be on the Tech Stack or the AR, genenerally AMER and all of Commercial will get recorder, all else listener. 
+
+### DataFox
+1. From the [Settings Page] (https://app.datafox.com/settings/general-information) in DataFox located in the top right under your name, click on **Team Management** located on the left. 
+1. From **Team Management**, click the **Invite Your Team** button, enter the email addresses of the users to be provisioined, click **Send Invitations**.
+1. Most users will have a **Status of Member**, unless otherwise stated in the Access Request.
+1. Most users will also have the permission to **Bulk Sync Accounts** unless otherwise noted in the Access Request
+
+### Clari
+
+### SalesForce
+
+</details>
+### **Sales Operations Owned System Offboarding**
+Below are instructions on how Sales Operations offboards users within the various Sales-owned systems. 
+
+1. Sales Operations DRIs will add the salesOps label to any Offboarding issue with SalesOps tasks and work off of this list view to identify users to offboard: [Ready to Offboard List](https://gitlab.com/gitlab-com/team-member-epics/employment/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=offboarding&not[label_name][]=SalesOps). 
+1. This can also be pulled by going to the employment project and filtering using the Offboarding and SalesOps labels.
+1. When the user has been deactivated in the systems listed for the Sales Opeartions DRIs, or the items are completed, the Sales Ops team member will add the SalesOps Tech Stack-Completed and/or SalesOps Records-Completed label(s) identifying that issue as 'Done.'
 

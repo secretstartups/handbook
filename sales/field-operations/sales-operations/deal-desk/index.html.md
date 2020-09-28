@@ -68,6 +68,7 @@ The Deal Desk team is located around the world and will be available during stan
 
 **EMEA**
 *  Marcsi Szucs - Budapest, Hungary
+*  Donatela Cekada - Dublin, Ireland
 
  **AMER**
 *  Jesse Rabbits - New York, NY 
@@ -96,7 +97,7 @@ Use our Slack channel in case of general, non-record related requests and/or urg
 
 Please avoid contacting the DD team members directly via Slack. Utlizing the channel is best to ensure timely coverage and helps others who may have similar questions.
 
-In case of a specific opportunity or quote related question please use SF Chatter (see section [Salesforce Chatter Communication](##### Salesforce Chatter Communication Basics))
+In case of a specific opportunity or quote related question please use SF Chatter (see section [Salesforce Chatter Communication](#salesforce-chatter-communication))
 
 #### Slack Announcements
 
@@ -414,10 +415,21 @@ If you'd like to save time by cloning an existing quote, you can do so by doing 
     * If you did not select the Maintain Quote option, you are redirected to the Quote Detail page of the newly cloned quote.
 1. Please note that you cannot clone the products on an amendment (add-on or renewal quote.)
 
+#### How to Create a Draft Proposal
+
+Follow the standard process for [quote creation](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes). The Quote Object **does not** need to be approved before generating a Draft proposal. 
+
+1. Click Edit Quote. 
+2. Select the Draft Quote Template. Save. 
+3. Click Generate PDF. A Draft Proposal PDF will be attached to the opportunity in the Notes & Attachments section. 
+
+**Important Notes** 
+- A Draft Proposal PDF is not an Order Form. All quotes must go through the applicable approval process before you can generate an Order Form. Draft Proposals are not guaranteed approval.
+- A Draft Proposal PDF will not be accepted in place of an Order Form under any circumstance. 
 
 ### **Non-standard Quotes**
 
-Occassionaly an opporutnity will require a unique structure that is outside of the normal quote format. Examples of these scenarios are listed below. Deal Desk will partner with the Account Owner to strucutre the opportunity and provide guidance on creating the quote. Please chatter on the opportunity if you need assistance with one of these scenarios! 
+Occassionaly an opporutnity will require a unique structure that is outside of the normal quote format. Examples of these scenarios are listed below. Deal Desk will partner with the Account Owner to structure the opportunity and provide guidance on creating the quote. Please chatter on the opportunity if you need assistance with one of these scenarios! 
 
 #### Contract Reset
 
@@ -472,7 +484,34 @@ C.  Note: Deal Desk will create the quotes and Order Form.
 
 #### Opportunities Requiring Multiple Invoices
 
-If an opportunity requires multiple invoices due to a specific professional services delivery schedule or approved annual payment terms, a separate opportunity is required for each invoice period. Each opportunity should reflect the amount to be invoiced, not the total value of the deal.
+If an opportunity requires multiple invoices due to a specific professional services delivery schedule or approved annual payment terms, a separate opportunity is required for each invoice period. If there is no difference in number of seats or price across the years only one subscription and quote would be required (ie. Invoice Only opps do not require a quote object).
+
+**Opportunity Structure**
+
+* Invoice Only Opp type should be New Business
+* Each individual opportunity will require a quote object that is equal to the amount being invoiced
+* All products, dates, and contacts should match the original opp / quote
+* Build Invoice Only quote objects as a "New Subscription" quotes
+
+**Invoice Amounts** 
+
+If all payments associated with the opportunity are equal (ex. 3 payments of $10,000) the quote on the orignal opporuntiy must reflect the entire opportunity term. 
+
+**Ex.** 
+
+3 Year Subscription worth $30,000, broken out into 3 equal annual payments of $10,000. 
+* Primary Opp Quote - 3 Year New Subscription Quote (using the 1 Year Product SKU). Term Length should be 36. 
+* Invoice Only Opp - Year 2 - Update the Amount field to reflect the total to be invoiced. A quote object is not required.
+* Invoice Only Opp - Year 3 - Update the Amount field to reflect the total to be invoiced. A quote object is not required.
+
+If the payment amounts or user count per year are not identical, (ex. Year 1 - $15,000 Year 2 - $10,000, Year 3 $5,000)- then the original opporuntiy quote should only reflect the first year (invoice period) of the subscription. 
+
+**Ex.** 
+
+3 Year Subscription worth $30,000, broken out into 3 payments. Year 1 - $10,000, Year 2 - $7,000, Year 3 $13,000
+* Primary Opp Quote - 3 Year New Subscription Quote (using the 1 Year Product SKU). Term Length should be 36. 
+* Invoice Only Opp - Year 2 - Update the Amount field to reflect the total to be invoiced. A quote object is not required. (Use the same SKU as the original opp, update intital term to 12)
+* Invoice Only Opp - Year 3 - Update the Amount field to reflect the total to be invoiced. A quote object should be created to reflect the total amount to be invoiced. (Use the same SKU as the original opp, update intital term to 12)
 
 **Ex.** Professional Services Deal -Opportunity amount $300,000. 4 Deliverables are outlined in the Custom SOW to the customer, each deliverable includes a different date for delivery. This requires 4 opportunities because the customer will be invoiced after completion of each deliverable.
 
@@ -647,6 +686,10 @@ Note that the GitLab entity information will be populated via the following rule
 
 The Monthly Bookings Close involves Billing, Deal Desk, Sales Analytics, and Finance. The Deal Desk close process is below. 
 
+#### Required Tools 
+
+We use Dataloader to manage these uploads. Download dataloader and follow the instructions for install [found here](https://help.salesforce.com/articleView?id=loader_install_mac.htm&type=5)
+
 #### Bookings Close Process Overview
 
 1.  **Reconcile** Renewal ACV
@@ -681,6 +724,40 @@ B.  Process:
     *   Highlight Opportunity IDs (Column B) that you want to update before clicking Update/Insert.
     *   After updating, refresh the tab to confirm the update was successful.
 *   Finally, open [Closed Lost Renewals - Last Month](https://gitlab.my.salesforce.com/00O61000004hgLb) and move any Closed Lost renewal opportunities’ Close Dates to future months if the start date on the opportunity is in a future month.
+
+**Upload the completed file using Dataloader** 
+
+1. After the RACV tab has been reviewed and updated manually by the MP team, open the Open FQ Renewals - Renewal ACV Reconciliation tab of the weekly recon sheet.
+1. Open excel and paste the required columns that need to be updated and uploaded, i.e; Opportunity ID, Renewal ACV, Renewal ARR, Renewal Amount and Amount (the columns from Sales Segment until Opportunity Term are of no use and can be deleted off the sheet).
+1. Apply formula and check if the Renewal ACV is equal to Amount (=IF(B2=E2,”OK”,Check)
+1. The ones which are equal are fine. The ones that do not, manually go to the respective opportunity in order to check why to make sure we do not have a negative IACV.
+
+** Checks prior to uploading via Dataloader **
+1. Once the checks are done, format all the values as Number.
+1. Run a vlookup to check that we are not updating any closed-won opps. Steps below-
+- Pull report from Xactly for all Closed-Won opportunities.
+- Paste it in the next sheet of the excel being used above and run a vlookup to see that no Closed-Won opportunities are being updated.
+- Remove the amount column.
+- Remove all the blank columns and rows and save the file as .CSV
+
+**Open rACV using DataLoader** 
+
+1. Open DataLoader and under Settings check the batch size (5) and make sure the “Insert Null Values” checkbox is unchecked.
+1. Click the Update button in Data Loader.
+1. Login with your SFDC password and hit Next.
+1. Under the “Select Salesforce object” field start typing “opportunity”.
+1. Select the “Opportunity (Opportunity)”.
+1. On the same window choose the CSV file saved and hit Next.
+1. It starts running and a pop-up window appears with the total line items (worth to double-check if the correct CSV has been selected based on the number of lines).
+1. On the next page hit the “Create or Edit a Map” button - Map the columns to the SFDC values =>Search for the name of the fields and select them and drag them down one by one. 
+1. Select the directory - select your Downloads folder and hit Finish.
+1. Pop-up: hit Yes -> loading starts.
+1. Pop-up: Operation Finished - View Successes - View Errors -> check errors (whether the renewal amounts are populated on the opp).
+
+**After DataLoader upload is done - Refresh Sheet** 
+
+1. Delete the contents of the sheet leaving the headers.
+1. In order to refresh the G-sheet, go to Add-ons tab -> G-Connector for Salesforce -> Refresh Current Sheet (from Salesforce).
 
 ##### 2. Reconcile Web Direct Purchases Against Upcoming Renewals
 
@@ -728,13 +805,28 @@ A.  Purpose:
 
 Add all products to the opportunity record for Closed Won and Closed Lost renewals. 
 
-B.  Process:
-*   Access Month Close Reconciliation - Adding Products to Opptys tab
-*   Refresh current sheet using G-Connector
-*   Filter by Product Details - filter out blank and sort by ascending.
-    *   Some will have products and some will not.
-*   Filter by Product Category - blank. This is the column we’re updating.
-*   Update Products
+1. Open Zuora Product Report .csv file. This report runs weekly and is sent to the Deal Desk team.
+1. Search for "Credit" in the product category field, delete all rows. 
+1. Search for "True-ups" in the product cateogry column. delete all rows. 
+1. Open the Products tab of the Weekly Reconcilation gsheet.
+1. Create a new sheet next to the Products tab in the Weekly Recon file - copy/paste the remaining rows from the .csv file on this tab
+1. Create a Vlookup for the invoice nr in column R on the Product tab for the Zuora invoice report: VLOOKUP (I2, Sheet115!C:D, 2, false). => column I is the invoice column on the product tab, then we use the sheet for the Zuora report and select Invoice Number and Invoice Item: Charge Name (columns C and D)
+1. Clean-up: Filter column R for each true value per product and update the Product Category column with the standardized name “Bronze”
+1. Check for Ci minutes based on the amount column and mark them as CI minutes in the Product Category column
+1. Copy the values from the Product Purchased (column G), insert it to the Product Category column and clean up the values again to reflect the standard product category (without the words “1 Year” etc.)
+1. Clear the column R values on the lines which were cleaned up
+1. Where the Product Purchased column is blank, leave for manual review. 
+
+Upload Product Category using Dataloader 
+
+1. After the products manual review is finished and the Product Category column is updated manually, for the upload select the Opp ID, Type and Product category columns and paste to an Excel. Only the oppty id and product category will be uploaded back but we can leave in other columns.
+1. In Data Loader settings check the batch size (5) and make sure the insert null values checkbox is unticked.
+1. Click Update in Data Loader and follow the process details under the Renewal ACV part above.
+1. The Type column should not be mapped (the one that won`t be uploaded)
+
+Helpful tips: 
+
+*   Reduce number of opps requiring manual review - 
     *   Anything that is $8, 16, 24, 40 will be CI Minutes
     *   The Charge name generally informs which product to enter in Column P.
     *   In cases with multiple products, the opportunity takes precedence.
@@ -750,6 +842,7 @@ B.  Process:
     *   G and H blanks 
         *   First, take care of CI Minutes. 
         *   Filter A for opp name. If the name does not inform the product, go into the opp to review the subscription.
+
 
 ##### 4. Reconcile Last Month's True Ups
 

@@ -36,7 +36,7 @@ Qualify your opportunities throughout the sales process (but especially during t
 
 ### Video
 
-Check out the [Demystifying the Metrics Conversation](/handbook/sales/command-of-the-message/metrics.html) Handbook page.
+Check out the [Demystifying the Metrics Conversation](/handbook/sales/command-of-the-message/metrics/) Handbook page.
 
 ### Qualifying Questions
 
@@ -58,7 +58,9 @@ Check out the [Demystifying the Metrics Conversation](/handbook/sales/command-of
 
 ### Video
 
-Coming soon
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/WkGFcUkK7TY" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ### Qualifying Questions
 
@@ -75,7 +77,9 @@ Coming soon
 
 ### Video
 
-Coming soon
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/WQ5qCI-nuLA" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ### Qualifying Questions
 
@@ -96,7 +100,9 @@ Coming soon
 
 ### Video
 
-Coming soon
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/2WIUNFXC6yw" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ### Qualifying Questions
 
@@ -135,7 +141,9 @@ Coming soon
 
 ### Video
 
-Coming soon
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/GtXRLNFwdqM" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ### Qualifying Questions
 
@@ -158,7 +166,9 @@ Coming soon
 
 ### Video
 
-Coming soon
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/TIhPAiPhaBc" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ### Qualifying Questions
 
@@ -180,7 +190,7 @@ Coming soon
 
 ### Video
 
-Coming soon
+Check out the [Force Management Podcast](https://audiblereadypodcast.libsyn.com/10-how-to-test-your-champion-w-john-kaplan) on Champions
 
 ### Qualifying Questions
 
@@ -198,7 +208,9 @@ Coming soon
 
 ### Video
 
-Coming soon
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/J3Ophqeftjk" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ### Qualifying Questions
 

@@ -9,11 +9,11 @@ title: "Sales Discovery and Qualification Questions"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-An [effective questioning strategy](https://docs.google.com/presentation/d/1caRLqSGNhFAQ9KuRVBaxI9cExOvBQBC4hd36uVfWFvs/edit?usp=sharing) is critical to engaging customers in dialogue that will help you truly understand their needs, build credibility and trust, and qualify the opportunity. Furthermore, effective discovery and needs analysis will be instrumental to your developing a tailored, compelling, customer-centric solution that will increase your chances to win the business and advance the buying decision. 
+An [effective questioning strategy](https://docs.google.com/presentation/d/1caRLqSGNhFAQ9KuRVBaxI9cExOvBQBC4hd36uVfWFvs/edit?usp=sharing) is critical to engaging customers in dialogue that will help you truly understand their needs, build credibility and trust, and qualify the opportunity. Furthermore, effective discovery and needs analysis will be instrumental to your developing a tailored, compelling, customer-centric solution that will increase your chances to win the business and advance the buying decision.
 
 Target buyer personas include CIO, CTO, VP of Application Development, Product Owner, and App Developer/DevOps Engineer.
 
-## **CUSTOMER STRATEGY** 
+## **CUSTOMER STRATEGY**
 
 ### Goal
 *  So that we may best understand your organization’s needs and how we can help, what are your long-term goals for modernizing your application development practices to deliver increased value to the business?
@@ -25,7 +25,7 @@ Target buyer personas include CIO, CTO, VP of Application Development, Product O
 ### Objectives
 *  With an understanding of your long-term goals, what are your key objectives for the next 6-12 months?
 Challenges
-*  What challenges are you experiencing with modernizing your application development practices? 
+*  What challenges are you experiencing with modernizing your application development practices?
 *  If you could address or improve one or a just a few things in your current DevOps stack implementation and execution, what would that be and why?
 *  What has prevented the move to <x> so far?
 *  What are the implications if these problems were to continue to persist?
@@ -34,9 +34,9 @@ Challenges
 
 ### Initiatives
 *  On what prioritized initiatives are you and your team currently focused?
-*  What initiatives are currently being planned or under consideration? 
+*  What initiatives are currently being planned or under consideration?
 *  Where is this interest/initiative coming from and what is the scope? (note: higher priority initiatives are often more likely to close and close more quickly)
-    - Is it a company-wide or business unit-wide initiative? Or other? 
+    - Is it a company-wide or business unit-wide initiative? Or other?
 *  Do you have cloud-native initiatives? If so, what solutions are you exploring (i.e., Kubernetes)?
 
 ## **CUSTOMER NEEDS**
@@ -46,7 +46,7 @@ Challenges
 *  How will success be measured?
 
 ### Current Situation
-*  What can you tell me about your current situation? 
+*  What can you tell me about your current situation?
 *  What led you to look at GitLab? (if applicable)
 *  What is your role and what do you do? (ideal roles: Infrastructure/Cloud/Enterprise Architects, Dev Ops, System Admin/Engineer, IT Managers/Directors, Release Engineer, VP Engineering)
 *  How would you describe what your group does?
@@ -78,8 +78,8 @@ Challenges
 ### Level of Satisfaction
 *  How is your current application development & delivery tool stack working overall?
 *  What is working well?
-*  If you could change anything about it, what would that be and why? 
-*  What elements are presenting the most challenges today? Why are those challenges proving to be so pesky? 
+*  If you could change anything about it, what would that be and why?
+*  What elements are presenting the most challenges today? Why are those challenges proving to be so pesky?
 *  What are the underlying root causes for the issues you and the team are experiencing?
 *  What else do you need to be successful?
 
@@ -91,7 +91,7 @@ Challenges
 *  What concerns you most?
 *  What is most important to you as it relates to your relationship with your supplier/partner?
 *  How do you prefer to work with your suppliers?
-*  What have you heard about and what are your perceptions of GitLab? 
+*  What have you heard about and what are your perceptions of GitLab?
 *  Do you have any prior experience with GitLab? How did you find out about us?
 
 ## **CUSTOMER DECISION**
@@ -113,7 +113,7 @@ Challenges
 
 ### Competitors
 *  Are you considering other Git-based offerings? If so, who?
-*  What other suppliers/vendors/solutions are you considering and/or evaluating? 
+*  What other suppliers/vendors/solutions are you considering and/or evaluating?
 *  How is GitLab viewed in comparison to the other suppliers?
 
 ### Time to Value
@@ -125,7 +125,7 @@ Challenges
 * How does your team manage the risk associated with adding a new tool or platform?
 
 ## **QUESTIONS FOR SELLING GITLAB PREMIUM/SILVER AND ULTIMATE/GOLD**
-The key to identifying more GitLab Premium/Silver and GitLab Ultimate/Gold opportunities is to *truly embrace a consultative mindset with your prospect and customer engagements*. More specifically: 
+The key to identifying more GitLab Premium/Silver and GitLab Ultimate/Gold opportunities is to *truly embrace a consultative mindset with your prospect and customer engagements*. More specifically:
 * **First, ensure you have an intimate understanding of the customer challenges and use cases that each version helps our customers address**
     * See the [Why Premium/Silver?](https://about.gitlab.com/pricing/premium/) page
     * See the [Why Ultimate/Gold?](https://about.gitlab.com/pricing/ultimate/) page
@@ -134,41 +134,41 @@ The key to identifying more GitLab Premium/Silver and GitLab Ultimate/Gold oppor
 ### Discovery Questions for GitLab Premium/Silver
 
 #### Overview
-[GitLab Premium/Silver](https://about.gitlab.com/pricing/premium/) helps organizations increase operational efficiencies and deliver better products faster. With GitLab Premium/Silver, organizations may scale their DevOps delivery supporting high availability, geographic replication, progressive deployment, advanced configuration, and consistent standards. Are these capabilities important to your customer? Consider asking the below questions to find out. 
+[GitLab Premium/Silver](https://about.gitlab.com/pricing/premium/) helps organizations increase operational efficiencies and deliver better products faster. With GitLab Premium/Silver, organizations may scale their DevOps delivery supporting high availability, geographic replication, progressive deployment, advanced configuration, and consistent standards. Are these capabilities important to your customer? Consider asking the below questions to find out.
 
 #### Enterprise level Support
-* What is the impact of outages and downtime with your SDLC toolchain? 
+* What is the impact of outages and downtime with your SDLC toolchain?
     * If the impact is large, position [Priority Support](https://about.gitlab.com/support/#priority-support) as a required capability
 * How important is priority support to your organization?
     * Standard support: Next business day support (response within 24 hours 24x5)
     * Priority support: 4 hour response time for regular business support and 24x7 uptime support with a guaranteed 30 minute response time (best choice for minimizing outages and downtime
-* How confident are you in your team’s ability to roll out GitLab? What would be the impact if you had expert help to assist in guiding, planning, and shaping your deployment and implementation? 
+* How confident are you in your team’s ability to roll out GitLab? What would be the impact if you had expert help to assist in guiding, planning, and shaping your deployment and implementation?
     * Position how [Technical Account Manager](https://about.gitlab.com/services/technical-account-management/) access can help to mitigate deployment risk, accelerate time to value, and optimize ROI and TCO
 * How do you normally handle software upgrades? Would it be helpful to have GitLab support to help you through the process to ensure there aren't any surprises?
     * If yes, position GitLab’s *Live Upgrade Assistance*
 
 #### Achieve High Availability and Disaster Recovery
-* What is your organization’s HA (High Availability) strategy? Do you have one? Why / why not? 
+* What is your organization’s HA (High Availability) strategy? Do you have one? Why / why not?
     * If HA support is needed, position Premium’s HA support via our [Reference Architectures](https://about.gitlab.com/solutions/reference-architectures/); note: Core offers HA capabilities with self-support vs. expert GitLab support
 * How does your organization handle [Disaster Recovery](https://docs.gitlab.com/ee/administration/geo/disaster_recovery/index.html)?
     * GitLab’s Disaster Recovery feature, only available in Premium/Silver and Ultimate/Gold SKUs, handles fail-over to another data center within minutes
-* Are your development teams centrally located in generally the same vicinity or are they distributed across the world? If distributed, how do you ensure that latency between geographically dispersed developers is minimized? 
+* Are your development teams centrally located in generally the same vicinity or are they distributed across the world? If distributed, how do you ensure that latency between geographically dispersed developers is minimized?
     * If this is important to the customer, discuss with your SA whether or not [Geographic Replication](https://about.gitlab.com/solutions/geo/) is a required capability
 
 #### Developer Productivity
 * How important is it for you to maximize the productivity of your development teams?
 * If you could change one thing to make your developers more productive, what would it be and why?
-* If you were able to analyze graphs and reports to understand team, project, and group productivity to uncover patterns and best practices, how would that improve overall productivity? 
+* If you were able to analyze graphs and reports to understand team, project, and group productivity to uncover patterns and best practices, how would that improve overall productivity?
     * If this is of interest, position [Productivity Analytics](https://docs.gitlab.com/ee/user/analytics/productivity_analytics.html)
-* How does your organization currently track and manage code reviews and feedback? 
-    * GitLab Premium/Silver includes built-in [merge request reviews](https://docs.gitlab.com/ee/user/discussions/index.html#merge-request-reviews-premium)
+* How does your organization currently track and manage code reviews and feedback?
+    * GitLab Premium/Silver includes built-in [merge request reviews](https://docs.gitlab.com/ee/user/discussions/index.html#merge-request-reviews)
 * How important is having consistent and standard practices to boost overall developer productivity?
-    * [Group and file templates](https://docs.gitlab.com/ee/user/group/#group-file-templates-premium) allow you to share a set of templates for common file types with every project in a group
-* What is your organization doing to simplify and streamline system logon processes for developers? Do you currently use or have plans to use SmartCard authentication? 
-    * If yes, highlight Premium’s [Smart Card Authentication](https://docs.gitlab.com/ee/administration/auth/smartcard.html) capabilities	
+    * [Group and file templates](https://docs.gitlab.com/ee/user/group/#group-file-templates) allow you to share a set of templates for common file types with every project in a group
+* What is your organization doing to simplify and streamline system logon processes for developers? Do you currently use or have plans to use SmartCard authentication?
+    * If yes, highlight Premium’s [Smart Card Authentication](https://docs.gitlab.com/ee/administration/auth/smartcard.html) capabilities
 
 #### Streamline Project Planning
-* How do you currently handle project planning with your existing software development toolchain? 
+* How do you currently handle project planning with your existing software development toolchain?
 * If you could change one thing to streamline your project planning efforts, what would it be and why?
 * How would your organization benefit from simplified management and visualization of work assignment and tracking?
 * If streamlining project planning is important, consider positioning how the following capabilities can help your customer (see the [Why GitLab Premium/Silver? page](https://about.gitlab.com/pricing/premium/) for value descriptions of each of these features)
@@ -179,28 +179,28 @@ The key to identifying more GitLab Premium/Silver and GitLab Ultimate/Gold oppor
     * [Issue Analytics](https://docs.gitlab.com/ee/user/group/issues_analytics/index.html) - Establish consistent and standard practices
 
 #### Deploy with Confidence
-* How do you keep teams aligned and working on the right things at the right times? 
+* How do you keep teams aligned and working on the right things at the right times?
     * [Epics](https://docs.gitlab.com/ee/user/group/epics/) - Organize, plan, and prioritize business ideas and initiatives
     * [Roadmaps](https://docs.gitlab.com/ee/user/group/roadmap/) - Visualize the flow of business initiatives across time in order to plan when future features will ship
 
-* How many tools do you have to use to understand current status? How long does that take? How does that affect your teams? 
+* How many tools do you have to use to understand current status? How long does that take? How does that affect your teams?
     * If this line of questioning reveals challenges in lack of visibility across the DevOps toolchain, position GitLab Premium/Silver’s [Operations Dashboard](https://docs.gitlab.com/ee/user/operations_dashboard/index.html#doc-nav) which provides a holistic view of the overall health of an organization's operations
 * How would you assess your level of confidence in how your organization currently manages software deploys? Are there any risks you wish you could mitigate? If so, what are they and why? GitLab Premium/Silver offers a multitude of capabilities to allow organizations to deploy with confidence including the below (see the [Why GitLab Premium/Silver? page](https://about.gitlab.com/pricing/premium/) for value descriptions of each of these features)
     * [Multi Project Pipelines](https://docs.gitlab.com/ee/ci/multi_project_pipeline_graphs.html) - Link CI pipelines from multiple projects to deliver integrated solutions
     * [Protected Environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html) - Establish controls and limit the access to change specific environments
 
 #### Manage Development
-* How do you currently track and manage code reviews and feedback? 
-* Describe your current workflow between SCM to CI. When your pipeline fails, what’s the process to remediate? 
+* How do you currently track and manage code reviews and feedback?
+* Describe your current workflow between SCM to CI. When your pipeline fails, what’s the process to remediate?
 * If you could collaborate at the point of change, how would that affect your productivity?
-* When is your next release? How at risk are you for missing that release? At what point does this escalate to higher management? 
-* How do you currently manage auditing and compliance with your existing software development toolchain? 
+* When is your next release? How at risk are you for missing that release? At what point does this escalate to higher management?
+* How do you currently manage auditing and compliance with your existing software development toolchain?
 * How easy or difficult is it for you to pull together audit evidence and proof points across multiple tools? How could you benefit from a faster process?
 * How do you collect the data for security and compliance on a regular basis? When you have a breach, what are the implications and who has to get involved? What type of information is required? How long does it take for your teams to provide audit evidence?
 * GitLab Premium/Silver includes several enhancements that help with auditing and compliance including the below (see the [Why GitLab Premium/Silver? page](https://about.gitlab.com/pricing/premium/) for value descriptions of each of these features)
     * [Audit Logs](https://docs.gitlab.com/ee/administration/audit_events.html) - Review changes by user and track access
     * [Auditor users](https://docs.gitlab.com/ee/administration/auditor_users.html) - Read-only access to all projects, groups, and other resources on the GitLab instance
-    * [Merge Request Reviews](https://docs.gitlab.com/ee/user/discussions/index.html#merge-request-reviews-premium) - Draft multiple comments in a merge request code review and review/resolve comments together
+    * [Merge Request Reviews](https://docs.gitlab.com/ee/user/discussions/index.html#merge-request-reviews) - Draft multiple comments in a merge request code review and review/resolve comments together
     * [Verified Committer](https://docs.gitlab.com/ee/push_rules/push_rules.html#enabling-push-rules) - Ensure only authorized and verified team members are allowed to commit to the project
     * [Require Signed Commits](https://docs.gitlab.com/ee/push_rules/push_rules.html#enabling-push-rules) - Enforce policy to require signed commits from contributors
 
@@ -210,12 +210,12 @@ The key to identifying more GitLab Premium/Silver and GitLab Ultimate/Gold oppor
 [GitLab Ultimate/Gold](https://about.gitlab.com/pricing/ultimate/) helps organizations increase operational efficiencies, deliver better products faster, and reduce security and compliance risk. This product tier is ideal for projects with executive visibility and strategic organizational usage and helps enterprises transform IT by optimizing and accelerating delivery while managing priorities, security, risk, and compliance. Ultimate/Gold helps organizations achieve advanced DevOps maturity. Are these capabilities important to your customer? Consider asking the below questions to find out.
 
 #### Security
-* To what degree is cybersecurity a critical concern for you and your organization? 
-* How would you characterize the actions your organization is taking to ensure all applications are secure? 
+* To what degree is cybersecurity a critical concern for you and your organization?
+* How would you characterize the actions your organization is taking to ensure all applications are secure?
 * What challenges have or do you run into as it relates to securing all applications?
 * GitLab Ultimate weaves security into the pipeline to provide early and actionable feedback to the development team and includes the following security features:
     * [Static Application Security Testing (SAST)](https://docs.gitlab.com/ee/user/application_security/sast/) - Evaluates the static code, checking for potential security issues
-    * [Dynamic Application Security Testing (DAST)](https://docs.gitlab.com/ee/user/application_security/dast/) - Analyzes the review application to identify potential security issues	
+    * [Dynamic Application Security Testing (DAST)](https://docs.gitlab.com/ee/user/application_security/dast/) - Analyzes the review application to identify potential security issues
     * [Dependency Scanning](https://docs.gitlab.com/ee/user/application_security/dependency_scanning/) - Evaluates the third-party dependencies to identify potential security issues
     * [Container Scanning](https://docs.gitlab.com/ee/user/application_security/container_scanning/) - Analyzes Docker images and checks for potential security issues
     * [Security Dashboard](https://docs.gitlab.com/ee/user/application_security/security_dashboard/#project-security-dashboard) - Visualize the latest security status for each project and across projects
@@ -225,7 +225,7 @@ The key to identifying more GitLab Premium/Silver and GitLab Ultimate/Gold oppor
 * How important is license compliance to your organization so that you can  track project dependencies for their licenses and approve or deny specific licenses?
 * GitLab Ultimate/Gold offers the following compliance features:
     * License Compliance - Identify the presence of new software licenses included in your project. Approve or deny the inclusion of a specific license
-    * [Compliance Templates](https://docs.gitlab.com/ee/gitlab-basics/create-project.html#enterprise-templates-ultimate) - Templates to streamline audit management with specific regulatory standards. Currently, HIPAA is available. SOX & SOC2 are in the near term roadmap.
+    * [Compliance Templates](https://docs.gitlab.com/ee/gitlab-basics/create-project.html#enterprise-templates) - Templates to streamline audit management with specific regulatory standards. Currently, HIPAA is available. SOX & SOC2 are in the near term roadmap.
 
 #### Project Insights
 * How would it affect your organization’s efficiencies to gain insights into things that matter for your projects (e.g. triage hygiene, issues created/closed per a given period, average time for merge requests to be merged, etc.)?
@@ -276,7 +276,7 @@ The key to identifying more GitLab Premium/Silver and GitLab Ultimate/Gold oppor
 *  How would you describe the current implementation of Jira within your organization?
 *  What are some of the challenges you have with Jira (if any)?
 
-### Post Sale Account Development 
+### Post Sale Account Development
 Goal: Understand why they bought and use nuggets to further expand the sale and help with other sales
 *  How is the adoption of GitLab going?
 *  What are you liking about GitLab EE?

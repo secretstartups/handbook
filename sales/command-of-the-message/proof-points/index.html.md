@@ -423,6 +423,21 @@ _**Video:** [Ask Media Group shares with GitLab how they accomplished Cloud Nati
 ### Industry Awards
 _[The original and internal-to-GitLab proof points Google Doc is online, here](https://docs.google.com/document/d/1Tuhg6LO0e6R-KP7Vfwb8cggHDiBzkC26pBl0lyLS7UY/edit) while some parts of this handbook page are being approved for publication._
 
+#### 2020
+
+<big>[GitLab Recognized by 451 Research as a ‘451 Firestarter'](https://www.globenewswire.com/news-release/2020/01/14/1970490/0/en/GitLab-Recognized-by-451-Research-as-a-451-Firestarter.html)</big><br>
+_The complete DevOps platform delivered as a single application recognized by leading analyst firm for innovation and vision in the technology industry_<br>
+**Value Drivers:** Efficiency, Speed, Risk<br>
+**Differentiators:** Rapid Dev, Simply Dev Ops
+
+----
+
+<big>[DevOps Dozen 2019 Winners Annoucement](https://devops.com/5th-annual-devops-dozen-winners-announced/)</big><br>
+_The DevOps Dozen award for the Best DevOps Solution Provider for 2019 goes to GitLab_<br>
+**Value Drivers:** Efficiency, Speed, Risk<br>
+**Differentiators:** Rapid Dev, Single App
+
+
 #### 2019
 
 <big>[IDC Innovators: Tools Supporting Open (Unopinionated) Developer Platforms](https://www.idc.com/getdoc.jsp?containerId=US45074219)</big><br>
@@ -473,7 +488,53 @@ _developer velocity can help illuminate promising areas in which to get involved
 ----
 
 ### Analyst Reports and Studies
-_[The original and internal-to-GitLab proof points Google Doc is online, here](https://docs.google.com/document/d/1Tuhg6LO0e6R-KP7Vfwb8cggHDiBzkC26pBl0lyLS7UY/edit) while some parts of this handbook page are being approved for publication._
+_[The original and internal-to-GitLab proof points Google Doc is online here,](https://docs.google.com/document/d/1Tuhg6LO0e6R-KP7Vfwb8cggHDiBzkC26pBl0lyLS7UY/edit) while some parts of this handbook page are being approved for publication._
+
+#### 2020
+
+<big>[Forrester Total Economic Impact Study Commissioned By GitLab, June 2020](https://about.gitlab.com/handbook/marketing/product-marketing/analyst-relations/forrester-tei/)</big><br>
+_GitLab commissioned Forrester Consulting to conduct a Total Economic Impact (TEI) study examining the potential return on investment (ROI) enterprises may realize by using GitLab._<br>
+GitLab customers were interviewed and related data was collected independently by Forrester Consulting in this process. The data collected, resulting model, and study itself was reviewed independently by Forrester Research analysts. GitLab stakeholders were also interviewed as part of the data gathering and review process. This study looked at the cost savings and business benefits of enterprises using GitLab for Version Control & Collaboration (VC&C)/SCM, Continuous Integration (CI), and Continuous Delivery (CD).
+**Value Drivers:** Efficiency, Speed, Risk<br>
+**Usecase** SCM, CI, CD, Simplify DevOps
+
+----
+
+<big>[The Forrester Wave™: Continuous Delivery And Release Automation, Q2 2020, June 2020](https://about.gitlab.com/analysts/forrester-cdra20/)</big><br>
+_Forrester cite GitLab as a Strong Performer in Wave for CDRA_<br>
+**Value Drivers:** Efficiency, Speed<br>
+**Usecase** SCM, CI, CD, Simplify DevOps
+
+----
+
+<big>[Gartner Peer Insights "Voice of the Customer": Application Release Orchestration, March 2020](https://about.gitlab.com/analysts/gartner-votc20/)</big><br>
+_GitLab is named a Customers' Choice in the March 2020 Gartner Peer Insights "Voice of the Customer" - Application Release Orchestration_<br>
+**Value Drivers:** Efficiency, Speed<br>
+**Differentiators:** Visibility<br>
+**Usecase** SCM, CI, CD, Simplify DevOps
+
+----
+
+<big>[Gartner Magic Quadrant for Enterprise Agile Planning Tools, April 2020](https://about.gitlab.com/blog/2020/08/03/gitlab-named-visionary-in-gartner-agile-planning-magic-quadrant/)</big><br>
+_Gartner Cites GitLab as a Visionary in MQ for EAPT_<br>
+**Value Drivers:** Efficiency, Speed<br>
+**Differentiators:** Visibility<br>
+**Usecase** SCM, CI, CD, Simplify DevOps, Agile
+
+----
+
+<big>[Gartner Magic Quadrant for Application Security Testing, April 2020](https://about.gitlab.com/resources/report-gartner-mq-ast/)</big><br>
+_Gartner Cites GitLab as a Niche Player in MQ for AST_<br>
+**Value Drivers:** Risk<br>
+**Usecase** DevSecOps
+
+----
+
+<big>[Gartner Market Guide for Software Composition Analysis, August 2020](https://www.gartner.com/document/3989235?ref=solrAll&refval=260338930)</big><br>
+_Gartner mentions GitLab in the context of the broader shift in the market toward developers as buyers of tools_<br>
+**Value Drivers:** Risk<br>
+**Usecase** DevSecOps
+
 
 #### 2019
 

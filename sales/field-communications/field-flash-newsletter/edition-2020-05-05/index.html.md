@@ -59,12 +59,12 @@ Due to the new requirement of passwords in Zoom meetings, Chorus is unable to jo
 Follow the [quick instructions](/handbook/business-ops/tech-stack/#chorus) in the Handbook.
 
 ----
-A new **Partner Information section has been added to all opportunities in SFDC to ensure proper tracking** for all channel opportunities. If you are working a deal with a GTM route of Channel, ensure this section properly reflects the partners involved in the deal. In the case of a Partner Initiated Opportunity from the partner portal, these sections should already be populated, but please double check before closing your deal.  
+A new **Partner Information section has been added to all opportunities in SFDC to ensure proper tracking** for all channel opportunities. If you are working a deal with a GTM route of Channel, ensure this section properly reflects the partners involved in the deal. In the case of a Partner Initiated Opportunity from the partner portal, these sections should already be populated, but please double check before closing your deal.
 
-Questions? Reach out to #channel-ops or [visit the Handbook](/handbook/sales/field-operations/channel-operations/). 
+Questions? Reach out to #channel-ops or [visit the Handbook](/handbook/sales/field-operations/channel-operations/).
 
 ----
-We are moving [group-level IP restriction](https://docs.gitlab.com/ee/user/group/#ip-access-restriction-ultimate) from Ultimate/Gold to Premium/Silver. This move is tentatively scheduled for the 13.1 release. 
+We are moving [group-level IP restriction](https://docs.gitlab.com/ee/user/group/#ip-access-restriction) from Ultimate/Gold to Premium/Silver. This move is tentatively scheduled for the 13.1 release.
 
 [Watch this video](https://www.youtube.com/watch?v=e2pgJlqwZvw&feature=youtu.be) for more details, and leave questions in the [public issue](https://gitlab.com/gitlab-org/gitlab/-/issues/215410).
 
@@ -107,7 +107,7 @@ Note that all in-person regional events are still tentative due to risks surroun
 
 ### Enablement Corner 🧠
 The GitLab Value Framework v1.1 is now available! This includes updates based on your feedback of [Command of the Message](/handbook/sales/command-of-the-message/). Have feedback you'd like to share for future iterations? Follow these steps.
-- [Check out a summary of what's changed -->](/handbook/sales/command-of-the-message/#value-framework-iteration)
+- [Check out a summary of what's changed -->](/handbook/sales/command-of-the-message/#additional-resources)
 - [Download the latest version -->](https://docs.google.com/document/d/1LKYY7kJPKUhzfYnBWNdrigpYpEtxFKxbvyAEUF1nwqY/edit?usp=sharing)
 
 Learn the top 10 reasons organizations should not start with GitLab Starter in this 10-minute video from Haydn Mackay and Saumya Upadhyaya. [Watch the video -->](https://www.youtube.com/watch?v=Np8MyDorw5U&feature=youtu.be)

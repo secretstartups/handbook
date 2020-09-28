@@ -51,4 +51,5 @@ This section is comprised of the following 3 fields:
 - [Sample Command Plan](https://drive.google.com/open?id=1SdfgEds7NvCezcrFjirdLygIp4715iQn7u2ts-9avwg)
 
 ### Opportunity Consults
-- Opportunity Coaching Guide
+- [Opportunity Consults](/handbook/sales/command-of-the-message/opportunity-consults/) Handbook page
+- [Opportunity Coaching Guide](https://docs.google.com/document/d/1IZA9Fo2SvZOrtUVpXOjwwqs76lKdXFs4hTezbxRq5v8/copy)
