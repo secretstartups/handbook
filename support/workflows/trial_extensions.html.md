@@ -24,15 +24,15 @@ At times, it is to immediately expire the trial or downgrade the namespace to Fr
 
 For these issues, follow the same procedure as the extending GitLab.com trials process below, but in short:
 
-1. Try it in customers portal admin first.
-1. If you receive an error, follow the usual troubleshooting procedures in looking up the error in sentry and/or for an existing customers portal issue, adding to an existing issue or creating a new one as required.
+1. Try it in Subscriptions App admin first.
+1. If you receive an error, follow the usual troubleshooting procedures in looking up the error in sentry and/or for an existing Subscriptions App issue, adding to an existing issue or creating a new one as required.
 1. As a workaround, the plan can be changed manually in one of two ways:
     1. GitLab.com: Add ~"Admin Escalation" label and if needed, ping the dotcom group.
     1. Customers Console: Add ~"Console Escalation::Customers" and if needed, ping the customers-console group.
 
 ## Extending GitLab.com Trials
 
-> **NOTE**: Due to [customers #973](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/973) and [customers #1643](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1643), these issues are currently marked for those engineers who have access to resolve them through [customers portal console](/handbook/support/workflows/customer_console.html#change_plan). Once those issues are resolved, these requests should be done via customers portal admin.
+> **NOTE**: Due to [customers #973](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/973) and [customers #1643](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1643), these issues are currently marked for those engineers who have access to resolve them through [Subscriptions App console](/handbook/support/workflows/customer_console.html#change_plan). Once those issues are resolved, these requests should be done via Subscriptions App admin.
 
 ```mermaid
 graph TD;
@@ -41,7 +41,7 @@ graph TD;
   C-->J[No];
   J-->K[Apply Status::Blocked and Inform Submitter];
   C-->D[Yes];
-  D-->E[Adjust Namespace via Customers Portal];
+  D-->E[Adjust Namespace via Subscriptions App];
   E-->F[Did it Work?];
   F-->G[Yes];
   G-->H[Note Issue and Close];

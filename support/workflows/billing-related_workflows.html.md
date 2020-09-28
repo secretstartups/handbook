@@ -66,7 +66,7 @@ Support will still generate a manual license if new contact wants an updated lic
 
 ### Credit card removal:
 
-When a customer wishes to remove their credit card from their customers portal account
+When a customer wishes to remove their credit card from their Subscriptions App account
 1. Make sure that there aren't any other types of queries that would need the Support team's attention
 1. Use the `General::Accounts Receivable` macro to transfer the ticket to AR to process the request. They will reply to the customer once done.
 

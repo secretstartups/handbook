@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Troubleshoot Errors While Making Purchases on Customers Portal
+title: Troubleshoot Errors While Making Purchases on Subscriptions App
 category: License and subscription
 --
 
@@ -12,13 +12,13 @@ category: License and subscription
 
 ### Overview
 
-This guide for troubleshooting for error on [customers portal](https://customers.gitlab.com/customers/sign_in). 
+This guide for troubleshooting for error on [Subscriptions App](https://customers.gitlab.com/customers/sign_in). 
 
 ### Getting error message from Sentry
 
 To find the error specifically related to a customer on sentry, try the following:
 
-1. Get customer ID from [customers portal](https://customers.gitlab.com/customers/sign_in):
+1. Get customer ID from [Subscriptions App](https://customers.gitlab.com/customers/sign_in):
    - Log into https://customers.gitlab.com/admin
    - Go to `Customers` search page by clicking on `Customers` on the left panel
    - Search for customer using one of the following: email, domain, or First/Last name (in case customer registered with a different email)
@@ -26,7 +26,7 @@ To find the error specifically related to a customer on sentry, try the followin
    - Take the customer ID from the URL https://customers.gitlab.com/admin/customer/customerID/pagepath
 1. Finding the errror message for the customer in Sentry:
    - Go to https://sentry.gitlab.net/gitlab/customersgitlabcom/issues/
-   - Use `user:customerID` (replace `customerID` with the actual customerID from customer portal)
+   - Use `user:customerID` (replace `customerID` with the actual customerID from Subscriptions App)
    - Open sentry issue → Click on `EVENTS`
    - Use customer email to search for the relevant event
 
