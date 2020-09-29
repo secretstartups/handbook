@@ -479,7 +479,7 @@ We want each team member to be [a manager of one](/handbook/leadership/#managers
 
 ##### Freedom and responsibility over rigidity
 {:.no_toc}
-When possible, we give people the responsibility to make a decision and hold them accountable for that, instead of imposing rules and approval processes. You should have clear objectives and the freedom to work on them as you see fit. Freedom and responsibility are more efficent than rigidly following a process because they enable faster decision velocity and higher rates of [iteration](#iteration).
+When possible, we give people the responsibility to make a decision and hold them accountable for that, instead of imposing rules and approval processes. You should have clear objectives and the freedom to work on them as you see fit. Freedom and responsibility are more efficient than rigidly following a process, [or creating interdependencies](/company/team/structure/#product-groups), because they enable faster decision velocity and higher rates of [iteration](#iteration).
 
 ##### Accept mistakes
 {:.no_toc}
