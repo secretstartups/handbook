@@ -11,7 +11,14 @@ title: "Professional Services Delivery"
 
 ### Overview
 
-The purpose of this page is to describe the workflow governing delivery for the different forms of professional service projects.  GitLab professional services employs three different workflows that control projects for the following categories:  standard professional services, education, and dedicated engineers.  Each of these categories have unique attributes that warrant a different approach.   The page also provides a section that describes workflow patterns that are common across all service delivery categories.
+The purpose of this page is to describe the workflow governing delivery of professional service projects. We will start by outlining the general workflow that is common across all service delivery categories. Then we will describe the differences for engagements that do not fit the general workflow shown below. 
+
+![ps-delivery-workflow](../PS-delivery-workflow.png)
+
+[Source](https://docs.google.com/presentation/d/1TOI2aoseBoyWYQC6-xpJVMknEncCNreSFfMvOHO7EBA/edit?usp=sharing),  internal only
+
+<!---Update this below
+GitLab professional services employs three different workflows that control projects for the following categories:  standard professional services, education, and dedicated engineers.  Each of these categories have unique attributes that warrant a different approach.--->
 
 ### Planning and Delivering Standard Services
 
