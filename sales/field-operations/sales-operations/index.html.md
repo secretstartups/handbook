@@ -415,7 +415,7 @@ Requests to override the TSP information can also be submitted in the Account Re
 
 ### **What if TSP is wrong? How can I request a change?**
 
-In the event our data enrichment tools are outdated or incorrect (primary address or employee count), you can chatter `@sales-support` and request for an update. Please provide as much detail as possible for the requested change and website links with the information to be reviewed. Please allow at least 48 hours for account changes to take place once the review process begins.
+In the event our data enrichment tools are outdated or incorrect (primary address or employee count), you can chatter @sales-support and request for an update. Please provide as much detail as possible, justification for the requested change and website links with the information to be reviewed. Be sure to copy your manager if additional approvals will be needed. Please allow at least 48 hours for account changes to take place once the review process begins.
 
 
  <details>
@@ -440,11 +440,6 @@ In the event our data enrichment tools are outdated or incorrect (primary addres
     * `[Admin] Address State`
 
     * `[Admin] Address Country` 
-
-* Ops provide the response in the `[TSP] Override Status` field and triggers the update: 
-    *  **Approved** - Account changes accepted, & enter the`[TSP] Transfer Date` date 48 hours in the future to allow Salesforce jobs to upate.
-    *  **Rejected** - Reason added to `[TSP] Decision Rationale` field.
-    *  **Needs Approval/More Info** - Info needed added to `[TSP] Decision Rationale` field.
 
 * Turnaround time for Approved TSP changes to re-populate typically takes 24-48 hours.
     *  Accounts with a `[TSP] Transfer Date` populated a day in the future will be re-routed that night to the `[TSP] Next Approved Owner`. 
