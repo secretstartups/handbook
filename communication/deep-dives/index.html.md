@@ -21,7 +21,7 @@ An example format guideline:
 * Implementation Overview (how is it implemented?)
 * Q&A
 
-**Note:** The support team have documented similar initiatives in the handbook: [Support Deep Dives](/handbook/support/advanced-topics/index.html#deep-dives) and [Support Bootcamps](/handbook/support/advanced-topics/index.html#support-bootcamps).
+**Note:** The support team have documented similar initiatives in the handbook: [Support Deep Dives](/handbook/support/advanced-topics/index.html#deep-dives) and [Support Training Modules](/handbook/support/advanced-topics/index.html#support-training-modules).
 
 ### Preparation steps
 If you're new to presenting at GitLab the steps can be a bit daunting. The steps are mostly documented [elsewhere in the handbook](/handbook/tools-and-tips/), but are summarized here to give an overview.
