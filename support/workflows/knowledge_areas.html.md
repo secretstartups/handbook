@@ -286,7 +286,7 @@ This section is ordered by stage and group according to the [product categories 
 
 | Topic | Region | Team Member |
 | ----- | ------ | ----------- |
-| Geo | EMEA | Alin<br>Catalin<br>Collen |
+| Geo | EMEA | Alin<br>Catalin |
 |  | AMER | Aric<br>Harish<br>John<br>Gabe<br>Lewis |
 |  | APAC | Anton<br>AlexS |
 | Backup/Restore | EMEA |  |
