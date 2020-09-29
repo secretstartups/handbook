@@ -254,11 +254,11 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | One  | Mon  | [Quality](/handbook/engineering/quality/)  | Mek Stittri  |
 | One  | Tue  | [UX](/handbook/engineering/ux/)  | Christie Lenneville  |
 | One  | Wed  | [Revenue Marketing](/handbook/marketing/revenue-marketing/)  | Evan Welchel  |
-| One  | Thur | [Enablement Section](/handbook/engineering/development/enablement/)  | Josh Lambert  |
+| One  | Thur | Available Slot |  |
 | One  | Fri  | Do Not Schedule  | Do Not Schedule  |
-| Two  | Mon  | [Secure & Defend Section](/handbook/product/product-categories/#secure--defend-section)  | David DeSanto  |
-| Two  | Tue  | [Dev Section](/handbook/product/product-categories/#dev-section)  | Eric Brinkman  |
-| Two  | Wed  | [Ops Section](/handbook/product/product-categories/#ops-section)  | Kenny Johnston  |
+| Two  | Mon  | Available Slot |   |
+| Two  | Tue  | [Product Management](/handbook/product/gitlab-the-product)  | Anoop Dawar |
+| Two  | Wed  | Available Slot |   |
 | Two  | Thur | [Growth Section](/handbook/product/product-categories/#growth-section)  | Hila Qu  |
 | Two  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Three  | Mon  | [Marketing](/handbook/marketing/)  | Todd Barr  |
