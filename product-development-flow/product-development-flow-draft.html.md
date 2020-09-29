@@ -284,18 +284,18 @@ The build track is where we plan, develop, and deliver value to our users by bui
 
 Label: `workflow::planning breakdown`
 
-At GitLab we believe in [shipping the smallest possible change that provides value to our users](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc). This minimal viable change (MVC) allows us to iterate quickly and avoid over-engineering. In this phase, every validated solution should be
+At GitLab we believe in [shipping the smallest possible change that provides value to our users](/handbook/product/product-principles/#the-minimal-viable-change-mvc). This minimal viable change (MVC) allows us to iterate quickly and avoid over-engineering. In this phase, every validated solution should be
 broken down into the smallest possible issue(s). Check out [iteration strategies](#iteration-strategies) for help.
 
 The outcome of the planning phase are well-defined issues and epics that provide enough context for the engineering team to start development right away. Issues and epics are the single source of truth and should provide all the context necessary. Consider using templates e.g. the [feature proposal template](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/.gitlab/issue_templates/Feature%20proposal.md). 
 
-Teams should clearly define hand off points between [Directly Responsible Individuals (DRI)](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/). A shared understanding of the boundaries of responsibilities among team members allows for setting deliverable expectations.
+Teams should clearly define hand off points between [Directly Responsible Individuals (DRI)](/handbook/people-group/directly-responsible-individuals/). A shared understanding of the boundaries of responsibilities among team members allows for setting deliverable expectations.
 
 Keep in mind that different solutions require input from different DRIs. Breaking down solutions is almost always a collaborative and cross-functional activity that involves [Product, Design, Engineering, and Quality](/handbook/product/product-processes/#pm-em-ux-and-set-quad-dris). For example, a solution may require Frontend work, so early involvement of Product Design and Frontend Engineers is key.
 
 | Outcomes|Activities|
 |---|---|
-| Well-defined issue(s) | [Story mapping](https://about.gitlab.com/handbook/engineering/ux/ux-research-training/user-story-mapping/), writing [issue descriptions](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/.gitlab/issue_templates/), setting up [an epic structure](https://about.gitlab.com/handbook/product/product-processes/#epics), [weighting issues](https://docs.gitlab.com/ee/user/project/issues/issue_weight.html), [test planning](https://about.gitlab.com/handbook/engineering/quality/test-engineering/#test-planning)|
+| Well-defined issue(s) | [Story mapping](/handbook/engineering/ux/ux-research-training/user-story-mapping/), writing [issue descriptions](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/.gitlab/issue_templates/), setting up [an epic structure](/handbook/product/product-processes/#epics), [weighting issues](https://docs.gitlab.com/ee/user/project/issues/issue_weight.html), [test planning](/handbook/engineering/quality/test-engineering/#test-planning)|
 
 ### Build phase 2: Develop & Test
 
