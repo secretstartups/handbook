@@ -342,11 +342,12 @@ In certain cases, additional labels will be added as a mechanism to add metadata
  
 ```mermaid
 graph TD
-  A[Incident is declared] --> B[Incident::Active]
+  A[Incident is declared] --> B[Incident::Active - initial severity assigned - EOC and IMOC are assigned]
   B --> C[Incident::Mitigated]
-  C --> D[Incident::Resolved]
+  C --> D[Incident::Resolved - severity is re-assessed based on actual impact]
   D -->|S1/S2| E[Incident::Review-in-Progress]
   D -->|S3/S4| Z[Closed]
+  B --> Y[Incident issue not needed. Remove all labels and close]
   E --> F[Incident::Review-Scheduled]
   F --> G[Incident::Review-Completed]
   G --> Z
