@@ -67,7 +67,7 @@ Because this page needs to be concise and consistent, please ensure to follow th
 | `workflow::ready for development` | [Build](#build-track) | Engineering | An engineer has started to work on the issue | Engineering |
 | `workflow::In dev` | [Build](#build-track) | Engineering | Initial engineering work is complete and review process has started | Engineering |
 | `workflow::In review` | [Build](#build-track) | Engineering | MR(s) are merged | Engineering |
-| `workflow::verification` | [Build](#build-track) | Engineering | Work is demonstrable on production | Engineering |
+| `workflow::production` | [Build](#build-track) | Engineering | Work is available in production but not yet verified to be working as expected. | Engineering |
 | `workflow::blocked` | N/A | Product/Engineering | Work is no longer blocked | Engineering |
 
 ### Issue descriptions as the SSOT
@@ -377,13 +377,12 @@ As the change becomes available in production, it is verified to be working prop
 
 | Outcomes | Activities |
 | --- | --- |
-| Feature is available to GitLab.com hosted customers | After it is deployed to production, the feature is launched and available to GitLab.com hosted customers.
-| Feature is availbel to self-hosted customers | It will be available in the next scheduled release for self-hosted customers ([depending on what the cut-off is for that release](/handbook/engineering/releases/#self-managed-releases-1)). |
+| Feature is available to GitLab.com hosted customers | After it is deployed to production, the feature is launched and available to GitLab.com hosted customers. |
+| Feature is available to self-hosted customers | It will be available in the next scheduled release for self-hosted customers ([depending on what the cut-off is for that release](/handbook/engineering/releases/#self-managed-releases-1)). |
 | Stakeholders of an MR will know it is available in production |  Once the feature is deployed to production, the authoring developer will set the workflow label to `workflow::production`. |
-| MR is confirmed to be working properly for customers | The authoring developer will validate that the feature works as expected for all users (enlisting assitance from the engineering manager, product managers, and others as appropriate). | 
-| Stakeholders of an MR will know verification is complete | After verification is complete, the authoring developer will close the merge request. |
-| Customers will be informed of a major change | When appropriate for a change, the release post item will be merged by the product manager following the instructions in the [template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md), which will then cause it to appear on the [GitLab.com releases page](/releases/gitlab-com/). |
-| A new feature will be used internally at GitLab to validate it is meeting customers needs | A determination is made by the product manager if the feature should be a part of the [Dogfooding process](/handbook/product/product-processes/#dogfooding-process).  If so, the product manager coordinates this process. |
+| MR is confirmed to be working properly for customers | The authoring developer will validate that the feature works as expected for all users (enlisting assitance from the engineering manager, product managers, and others as appropriate).  After this is completed, they will close the MR and file an issue to track anything that is not working properly. | 
+| Customers will be informed of a change | When appropriate for a change, the release post item will be written and merged by the product manager following the instructions in the [template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md), which will then cause it to appear on the [GitLab.com releases page](/releases/gitlab-com/). |
+| A new feature will be used internally at GitLab to validate it is meeting our own needs (as a customer of our own product) | A determination is made by the product manager as to if the feature should be a part of the [Dogfooding process](/handbook/product/product-processes/#dogfooding-process).  If so, the product manager coordinates this process. |
 
 ### Build phase 4: Improve
 
