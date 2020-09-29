@@ -13,8 +13,8 @@ title: "Employment Law at GitLab"
 Employment law refers to the law that governs the relationship between employer and employee, so the Employment section of GitLab Legal interacts with the People Group on a regular basis to provide information and legal advice related to the entire arc of our team members’ relationship with GitLab.  **So what does that mean?**
 
 
-- It means we work closely with the Tax and People Ops team to determine scalable employment solutions for the Company as it hires across the globe.
-- It means we support the recruiting department in meeting its goals and ensuring compliance with all local laws and regulations as they source, recruit, and hire new team members
+- It means we work closely with the Tax and People Operations team to determine scalable employment solutions for the Company as it hires across the globe.
+- It means we support the recruiting department in meeting its goals and ensuring compliance with all local laws and regulations as they source, recruit, and hire new team members.
 - It means we help the People Operations team onboard new team members and get them the information they need that applies both to their location and to their job responsibilities.
 - It means we support the Total Rewards group in developing policies that meet GitLab’s needs, our team members’ needs, and local requirements.
 - It means we support our People Business Partners and Total Rewards as they manage team member relations, performance, requests for accommodation or adjustments, promotions, transfers, and any other types of issues that pop up during the course of the relationship.
@@ -30,12 +30,12 @@ If People Group needs to engage with Legal on a particular question, they will r
 
 Below are some common employment topics where Legal is asked to provide input. The paragraphs below are intended to assist People Group to know when to reach out to Legal.
 
-**Note: GitLab team members should *always* obtain approval from the Director of Legal, Employment prior to speaking with outside counsel.**
+**Note: GitLab team members should *always* obtain approval from the Director of Legal, Employment prior to speaking with outside counsel regarding employment-related matters.**
 
 ### Before Hire:
-**Recruiting.** Legal reviews sourcing and recruiting strategy for compliance and advise about requirements for applicant tracking in the various countries in which we hire
+**Recruiting.** Legal reviews sourcing and recruiting strategy for compliance and advises about requirements for applicant tracking in the various countries in which we hire.
 
-**Background Check.** Legal reviews overall background check policy and procedure in place, helps develop background check adjudication process, and serves as escalation point when PBP responsible for reviewing background check has questions or concerns about specific results
+**Background Check.** Legal reviews overall background check policy and procedure in place, helps develop background check adjudication process, and serves as escalation point when PBP responsible for reviewing background check has questions or concerns about specific results.
 
 ### During Hire
 **Contract review.** Legal should be asked to review negotiated contracts that seek to change standard terms. 
@@ -54,6 +54,6 @@ Below are some common employment topics where Legal is asked to provide input. T
 ### General Business Needs involving Employment Issues
 **Scalable employment solutions.** As GitLab continues to grow, our systems must be scalable. GitLab Legal can assist in developing solutions that ease the work burden on People Group while maintaining compliance with legal requirements.
 
-**Policy development.** Legal should be asked to do a final review when policies are updated or created.
+**Policy development.** Legal should be asked to perform a final review when policies are updated or created.
 
 **Contract negotiations.** In the event that a customer or vendor has questions regarding terms that affect our team members (such as drug tests or more intensive background checks), the Contract team will reach out to the Employment team.  
