@@ -267,7 +267,7 @@ License Key Management for On-Premise Trials & Subscriptions
 
 GitLab.com Trials & Subscription Management
 
-- Access [the Customer Portal](https://customers.gitlab.com/admin/customer) to provide changes to a user, group, or subscription.
+- Access [the Subscriptions App](https://customers.gitlab.com/admin/customer) to provide changes to a user, group, or subscription.
 
 ### Troubleshooting & How-To Resources for Licensing & Subscription Management
 
@@ -388,8 +388,8 @@ Here are the past active topics for individual team members on COE alignment. Th
 
 - **Communication and Collaboration**
 Support on communication and tools to stay better connected as a remote Commercial Sales organization
-- **Customer Portal**
-Improvements to our [customer portal](https://customers.gitlab.com)
+- **Subscriptions App**
+Improvements to our [Subscriptions App](https://customers.gitlab.com)
 - **Customer Advisory Board**
 Capturing direct feedback for interaction and organizing customers selected
 - **Feedback Loop**
