@@ -7,12 +7,12 @@ title: Product Development Flow
 
 <div class="panel panel-gitlab-orange">
 
-**Product Development Flow Latest**
+**Product Development Flow Draft**
 {: .panel-heading}
 
 <div class="panel-body">
 
-This is the draft version of the Product Development Flow. All changes to this document will be merged into `product-development-flow/index.html.md` by the 17th of each month and announced via a release post if larger changes are included. Please see the [Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline)
+This is the draft version of the Product Development Flow. All changes to this document will be merged into `product-development-flow/index.html.md`[Handbook link](https://about.gitlab.com/handbook/product-development-flow/) by the 17th of each month and announced (including a list of changes) via a release post if larger changes are included. Please see the [Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline)
 
 </div>
 </div>
@@ -21,6 +21,7 @@ This is the draft version of the Product Development Flow. All changes to this d
 | -------------|-------------| 
 | Version      | 1.0         |
 | Release Date | 2020-10-22  |
+| Milesone     | 13.5        |
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -36,13 +37,22 @@ turning an idea into something that offers customer value. Note that it's also i
 open source contributions at any point in the process from the wider GitLab community - these will
 not necessarily follow this process.
 
-This page is an evolving description of how we expect our cross-functional development teams to work, but at the same time reflects the current process being used. All issues are expected to follow this workflow, though are not required to have passed every step on the way.
+This page is an evolving description of how we expect our cross-functional development teams to work and reflects the current process being used. All required steps in this development flow are denoted as follows:
+
+<kbd class="required">Required 🔎</kbd>
+
+> Required aspect of the product development workflow. 
+
+Feature development is expected to pass through all required phases, while the rest of the development flow should be considered a set of best practices and tools to aid with completing these phases. 
 
 The goal is to have this page be the single source of truth, but it will take time to eliminate duplication elsewhere in the handbook; in the meantime, where there are conflicts this page takes precedence. 
 
 Because this page needs to be concise and consistent, please ensure to follow the prescribed [change process](#editing-this-page).
 
 ## Workflow Summary
+<kbd class="required">Required 🔎</kbd>
+
+> Workflow labels must be applied for each phase that is used to enable tracking and collaboration across teams. 
 
 | Stage (Label) | Track | Responsible | Completion Criteria | Who Transitions Out |
 | ----- | --------- | ------------------- | --------------- | ------------------ |
@@ -61,11 +71,16 @@ Because this page needs to be concise and consistent, please ensure to follow th
 | `workflow::blocked` | N/A | Product/Engineering | Work is no longer blocked | Engineering |
 
 ### Issue descriptions as the SSOT
+<kbd class="required">Required 🔎</kbd>
 
-Issue descriptions should always be maintained as the single source of truth. It's not [efficient](/handbook/values/#efficiency) for contributors to need to read through every comment in an issue to understand the current state.
+> Issue descriptions shall always be maintained as the single source of truth. 
+ 
+
+It's not [efficient](/handbook/values/#efficiency) for contributors to need to read through every comment in an issue to understand the current state.
+
 * When transitioning an issue out to a new workflow stage, the department named in the "Who Transitions Out" column is responsible for updating the issue description.
 
-## Validation track  
+## Validation track
 
 For new ideas where the customer problem and solution is not well understood, Product Managers (PMs) and the User Experience Department (UXers) should work together to validate new opportunities before moving to the Build track. The **Validation** track is an independent track from the always moving **Build** track. PMs and UXers should work together to get 1-2 months ahead, so that the Build track always has well-validated product opportunities ready to start. Milestone work should be prioritized with the understanding that some milestones may include more validation efforts than others. Validation cycles may not be necessary for things like bug fixes, well understood iterative improvements, minor design fixes, etc.
 
@@ -112,6 +127,10 @@ Opportunity Canvases are a great assessment for ill-defined or poorly understood
 
 Label: `workflow::validation backlog`
 
+<kbd class="required">Required 🔎</kbd>
+
+> TBD 
+
 Every PM should maintain a backlog of potential validation opportunities. Validation opportunities may come from customers, internal stakeholders, product usage insights, support tickets, win/loss data, or other [sensing mechanisms](/handbook/product/product-processes/#sensing-mechanisms). Validation opportunities should be captured as an issue and described in customer problem language, and should avoid jumping ahead to feature/solution language. 
 
 Sometimes it can be tricky to identify a good issue for problem validation. The following situations often are good criteria:
@@ -133,6 +152,11 @@ To queue an item in your validation backlog:
 ### Validation phase 2: Problem validation
 
 Label: `workflow::problem validation`
+
+<kbd class="required">Required 🔎</kbd>
+
+> Product managers must ensure new features and proposed improvements positively impact one or more [Product KPIs](/handbook/business-ops/data-team/kpi-index/#product-kpis), or have a valid rationale as to why the work should proceed regardless.
+ 
 
 Good product development starts with a well understood and clearly articulated customer problem. Once we have this, then generating solutions, developing the product experience, and launching to the market is much more effective. The danger in not starting with the problem is that you might miss out on solutions that come from deeply understanding the customer problem. A poorly defined problem statement can also cause the design and development phases to be inefficient.
 
@@ -167,6 +191,11 @@ To run the problem validation process:
 
 Labels: `workflow::design`
 
+<kbd class="required">Required 🔎</kbd>
+
+> The product designer must provide a technically feasible design which solves the validated problem.
+ 
+
 1. Product Designer or Product Manager applies the `workflow::design` label to an existing issue or creates a new issue, if needed. 
 1. Product Designer leads the team in ideating about potential solutions and engages the PM and Engineers to determine whether the proposed solution meets business goals and is technically feasible. 
 1. Product Designer, Product Manager and Engineering Team evaluate potential customer impact of proposed solution.
@@ -175,6 +204,10 @@ Labels: `workflow::design`
 ### Validation phase 4: Solution Validation
 
 Labels: `workflow::solution validation`
+
+<kbd class="required">Required 🔎</kbd>
+
+> TBD 
 
 When there are one or more potential solutions that meet business needs and are technically feasible, then it's time to validate that the solution(s) meet our users' needs. As always, you should continually move issues from the backlog into problem and solution validation to ensure that there are validated problems to deliver.
 
@@ -258,7 +291,7 @@ If you would like a peer to reivew one of your issues (or epics):
 
 You can view all the work in happening in this track [on this board](https://gitlab.com/groups/gitlab-org/-/boards/1569699).
 
-## Build track  
+## Build track
 
 The build track is where we plan, develop, and deliver value to our users by building [MVCs](/handbook/product/product-principles/#the-minimal-viable-change-mvc), fixing defects, patching security vulnerabilities, enhancing user experience, and improving performance. DRIs across engineering disciplines involving [Design, Backend, Frontend and Quality](/handbook/product/product-processes/#pm-em-ux-and-set-quad-dris) work closely together to implement MVCs while in close collaboration with the Product Manager. Decisions are made quickly if challenges arise. We make sure to instrument [usage](https://about.gitlab.com/handbook/product/performance-indicators/#instrument-tracking) and track [product performance](handbook/product/product-processes/#product-metrics), so once MVCs are delivered to the hands of customers, feedback is captured quickly for learnings to refine the next iteration.
 
@@ -303,6 +336,10 @@ Keep in mind that different solutions require input from different DRIs. Breakin
 
 Labels: `workflow::ready for development`, `workflow::In dev` (along with `workflow::ready for review` as queue state while waiting for maintainer), `workflow::In review`, `workflow::blocked`, `workflow::verification` (sub-states for verification are `workflow::canary` and `workflow::staging`)
 
+<kbd class="required">Required 🔎</kbd>
+
+> TBD 
+
 The develop and test phase is where we build the features and test them before launch:
 
 1. Engineering teams move items into `workflow::ready for development` and apply the deliverable as they commit to them, in alignment with the PM.
@@ -321,6 +358,10 @@ The develop and test phase is where we build the features and test them before l
 
 Labels: `workflow::production`
 
+<kbd class="required">Required 🔎</kbd>
+
+> TBD 
+
 1. Once the feature is deployed to production, the delivery team sets the workflow label to `workflow::production`. At this point the feature is launched.
 1. Engineering/quality/PM should validate again that the feature works for all users.
 1. The release post item needs to be merged following the instructions in the [template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md), which will then cause it to appear on the [gitlab.com releases page](/releases/gitlab-com/).
@@ -335,6 +376,10 @@ If the feature is part of the [Dogfooding process](/handbook/product/product-pro
 ### Build phase 4: Improve
 
 Label: TBD
+
+<kbd class="required">Required 🔎</kbd>
+
+> TBD 
 
 After launch, the Product Manager and Product Designer should pay close attention to product usage data. This starts by ensuring your [AMAU](https://about.gitlab.com/handbook/product/performance-indicators/#action-monthly-active-users-amau) is instrumented and reporting as you expect. From there consider how the feature has impacted [GMAU](https://about.gitlab.com/handbook/product/performance-indicators/#group-monthly-active-users-gmau) and [SMAU](https://about.gitlab.com/handbook/product/performance-indicators/#stage-monthly-active-users-smau). At this point you should also solicit customer feedback to guide follow-on iterative improvements, until success metrics are achieved/exceeded and a decision can be made that the product experience is sufficient. To create a combined and ongoing quantitative and qualitative feedback loop, the following activities are recommended:
 
