@@ -308,6 +308,8 @@ The EOC and the IMOC, at the time of the incident, are the default assignees for
 ### Labeling
 The following labels are used to track the incident lifecyle from active incident to completed incident review. [Label Source](https://gitlab.com/gitlab-com/gl-infra/production/-/labels?utf8=%E2%9C%93&subscribed=&search=Incident%3A%3A)
 
+
+#### Workflow Labeling
 In order to help with attribution, we also label each incident with a scoped label for the Infrastructure Service (Service::) and Group (group::) scoped labels.
 
 | **Label** | **Workflow State** |
@@ -319,10 +321,20 @@ In order to help with attribution, we also label each incident with a scoped lab
 | `~Incident::Review-Scheduled`   | Indicates that the incident review has been added to the agenda for an upcoming review meeting. |
 | `~Incident::Review-Completed`   | Indicates that an incident review has been completed, but there are notes to incorporate from the review writeup prior to closing the issue. |
 
+#### Required Labeling
+These labels are always required on incident issues.
 
-In certain cases, additional labels will be added as a mechanism to add metadata to an incident issue.
+| **Label** | **Purpose** |
+| ---------- | -------------- |
+| `~incident` | Label used for metrics tracking and immediate identification of incident issues. |
+| `~Service::*` | Scoped label for service attribution. Used in metrics and error budgeting. |
+| `~Severity::*` | Scoped label for severity assignment. Details on severity selection can be found in the [availability severities](/handbook/engineering/quality/issue-triage/#availability) section. |
 
-| **Label** | **Workflow State** |
+
+#### Optional Labeling
+In certain cases, additional labels will be added as a mechanism to add metadata to an incident issue for the purposes of metrics and tracking.
+
+| **Label** | **Purpose** |
 | ---------- | -------------- |
 | `~self-managed` | Indicates that an incident is **exclusively** and incident for self-managed GitLab. [Example self-managed incident issue](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2651) |
 
