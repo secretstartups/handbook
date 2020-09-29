@@ -131,6 +131,16 @@ Page counts are determined through a simple two-step process:
    This can be done by running `find source/handbook -type f | xargs wc -w` from the root directory of the repository.
 2. Submit the word count to [WordCounter](https://wordcounter.net/words-per-page) for conversion to a page count.
 
+### Trainee maintainer issue upkeep
+
+Part of the [maintainer training process](/handbook/engineering/workflow/code-review/#trainee-maintainer) is to keep track of Merge Request that have been reviewed and writing down an assessment on the review in the maintainer training issue.
+Manual upkeep of the maintainer training issue can be time consuming. There are tools that others have built to help with this task:
+
+- https://gitlab.com/nolith/review-tanuki
+- https://gitlab.com/splattael/traintainer
+- https://gitlab.com/arturoherrero/trainee
+- https://gitlab.com/caalberts/review-tanuki
+
 ## Troubleshooting
 
 ### 2FA debugging
