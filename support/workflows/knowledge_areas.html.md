@@ -53,6 +53,8 @@ Topics are in alphabetical order with team members grouped by region.
 |  | EMEA | Catalin<br>Segolene<br>Rehab<br>Alin<br>VladB<br>Joseph<br>Aakif |
 | Performance | AMER | Will<br>Cody West |
 |  | EMEA | Catalin<br>Alin |
+| Maven | AMER | Thiago |
+| Composer | APAC | Anton |
 | SSL | AMER | John |
 
 ### Scripting Languages
@@ -83,6 +85,8 @@ If you need help with scripting for fixes, internal tools, or any other reason.
 | Python | APAC | Matthew<br>Athar |
 |  | EMEA | Catalin<br>Alin<br>Muhamed<br>VladB<br>Łukasz |
 |  | AMER | Lewis |
+| Java | AMER | Thiago |
+| PHP | APAC | Anton |
 
 ### Product Stages
 
