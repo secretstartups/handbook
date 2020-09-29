@@ -193,7 +193,9 @@ To start the Design phase, the Product Designer or Product Manager applies the `
 #### Required Activities
 <kbd class="required">Required 🔎</kbd>
 
-**Activity X** - TBD
+**Diverge** - Explore multiple different approaches as a team in order to fully explore the different possibilities for solving the customer or business problem. <br> 
+**Converge** - Work as a team to identify approaches for solving the problem that strike the best balance of reach, impact, confidence, and effort. <br> 
+**Update issue/epic description** - Make sure that issues and epics are up-to-date so we can continue our work efficiently and asynchronously. <br>
 
 ### Validation phase 4: Solution Validation
 
