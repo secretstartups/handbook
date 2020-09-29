@@ -109,7 +109,7 @@ be useful to our users — especially on emerging DevOps trends and use cases.
 
 In the past few years we expanded the support team significantly, and this trend will continue. As GitLab -- the product -- continues to expand, so will the skill and knowledge of all Support Engineers to be able to continue providing an excellent customer support experience.
 
-1. Develop "Deep Dives", Bootcamps and other professional training programs to decrease the time it takes for a new team member to be effective.
+1. Develop "Deep Dives", learning resources and other professional training programs to decrease the time it takes for a new team member to be effective.
 1. Make sure that professional training sessions result in the production of publicly consumable resources:
 docs fixes, tutorials and improvements to any related material.
 

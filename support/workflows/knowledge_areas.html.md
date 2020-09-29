@@ -14,7 +14,7 @@ category: References
 
 The purpose of this page is to provide a reference of Support team members who feel that they are knowledgeable and willing to assist with tickets in a particular area.
 
-Unlike the [team page](/company/team/), team members listed here may or may not be [an expert](/company/team/structure/#expert), such as [working on a bootcamp](https://gitlab.com/gitlab-com/support/support-training/-/tree/master/.gitlab/issue_templates) but not completed. Many areas however do not currently have a bootcamp, or their knowledge area is very specific, such as "GitLab.com SSO".
+Unlike the [team page](/company/team/), team members listed here may or may not be [an expert](/company/team/structure/#expert), such as [working on a module](https://gitlab.com/gitlab-com/support/support-training/-/tree/master/.gitlab/issue_templates) but not completed. Many areas however do not currently have a module, or their knowledge area is very specific, such as "GitLab.com SSO".
 
 ### When to Use
 

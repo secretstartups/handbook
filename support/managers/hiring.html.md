@@ -41,7 +41,7 @@ If you want to be involved in the hiring process - let your manager know! The ma
 After getting approval from your manager open two interview training issues:
 
 - [PeopleOps Interview Training](https://gitlab.com/gitlab-com/people-ops/Training/issues/new?issuable_template=interview_training)
-- [Bootcamp - Support Interview Training](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Bootcamp%20-%20Support%20Interview%20Training)
+- [Support Interview Training](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Support%20Interview%20Training)
 
 ### Reviewing Assessments
 Assessments (and answers) **for all Support job families** are available in the [people-ops/hiring-processes](https://gitlab.com/gitlab-com/people-ops/hiring-processes/tree/master/Engineering/Support) repository.
@@ -77,4 +77,3 @@ For each vacancy there should be a:
 
 1. When we get close to the target start date, the recruiting team will update Greenhouse with the vacancy and assign it an **Opening ID**.
 1. When a vacancy is open in Greenhouse, the hiring manager (or Sr. Manager) will be noted in the spreadsheet.
-

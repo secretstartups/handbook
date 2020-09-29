@@ -94,7 +94,7 @@ When the Area of Focus module is complete, let your manager know that you are re
 
 ## Support Training Project
 
-We are continuously working on adding more modules and building out more learning pathways: you can find a list of all our current training modules and Bootcamps in the [Support Training project](https://gitlab.com/gitlab-com/support/support-training/-/tree/master/.gitlab/issue_templates).
+We are continuously working on adding more modules and building out more learning pathways: you can find a list of all our current training modules and Modules in the [Support Training project](https://gitlab.com/gitlab-com/support/support-training/-/tree/master/.gitlab/issue_templates).
 
 ## Support Engineer Achievable Progress - First 6 Months
 

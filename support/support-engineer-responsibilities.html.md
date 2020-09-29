@@ -170,7 +170,7 @@ There's no goal for this area. The aim is to make sure you are aware of and util
 
 ## 11. Develop your skills through learning and training (Weekly)
 
-We are committed to helping you develop your skills through continuous learning. You can complete [courses and bootcamps in the Support Training project](https://gitlab.com/gitlab-com/support/support-training).
+We are committed to helping you develop your skills through continuous learning. You can complete [modules in the Support Training project](https://gitlab.com/gitlab-com/support/support-training).
 
 The GitLab [Learning and Development team](/handbook/people-group/learning-and-development/) provides opportunities for exploration and training.
 
@@ -178,7 +178,7 @@ Support Engineers are also encouraged to complete courses and certification from
 
 **What does success look like?**
 
-1. Aim to complete a course or bootcamp every quarter (3 months). You can see how you're doing using the 'Support Training' [activity link](/handbook/support/managers/support-1-1s.html) in your 1:1 notes. Here's an [example link](https://gitlab.com/gitlab-com/support/support-training/-/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username[]=cynthia). The format is `https://gitlab.com/gitlab-com/support/support-training/-/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username[]=YOUR_USERNAME` (replace `YOUR_USERNAME`)
+1. Aim to complete a modiles every quarter (3 months). You can see how you're doing using the 'Support Training' [activity link](/handbook/support/managers/support-1-1s.html) in your 1:1 notes. Here's an [example link](https://gitlab.com/gitlab-com/support/support-training/-/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username[]=cynthia). The format is `https://gitlab.com/gitlab-com/support/support-training/-/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username[]=YOUR_USERNAME` (replace `YOUR_USERNAME`)
 
 An important focus for the Support Team in 2020 is to [improve our Learning and Training resources](https://gitlab.com/groups/gitlab-com/support/-/epics/49) to help you have a clear route to improving your skills and a better way to make your expertise visible to the team.
 
@@ -192,11 +192,11 @@ There's no goal for this area. If you have ideas of materials you'd like to crea
 
 ## 13. Help with hiring (Occasionally)
 
-We encourage the whole team to help with the [Hiring Process](/handbook/support/managers/hiring.html). If you would like to help in this area, discuss with your manager and start an [Interview Training bootcamp](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#)
+We encourage the whole team to help with the [Hiring Process](/handbook/support/managers/hiring.html). If you would like to help in this area, discuss with your manager and start an [Interview Training modules](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#)
 
 **What does success look like?**
 
-There's no goal for this area. When you've completed the bootcamp:
+There's no goal for this area. When you've completed the training module:
 
 1. Promptly respond to requests from recruiting to grade assessments (everyone)
 1. Complete technical interviews when scheduled with you (after discussion with manager)
