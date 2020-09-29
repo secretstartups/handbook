@@ -286,7 +286,7 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Seven  | Wed  | [People](/handbook/people-group/)  | Carol Teskey and Dave Gilbert  |
 | Seven  | Thur  | [Finance](/handbook/finance/)  | Paul Machle  |
 | Seven | Fri | Do Not Schedule  | Do Not Schedule  |
-| Eight | Mon  | [Product](/handbook/product/)   | Scott Williamson  |
+| Eight | Mon  | Available Slot  |   |
 | Eight | Tue  | [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
 | Eight | Wed  | Available  | Available  |
 | Eight | Thur  | [Development](/handbook/engineering/development/)   | Christopher Lefelhocz  |
