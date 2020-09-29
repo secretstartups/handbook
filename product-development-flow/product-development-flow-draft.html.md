@@ -282,6 +282,8 @@ The build track is where we plan, develop, and deliver value to our users by bui
 
 ### Build phase 1: Plan
 
+<kbd class="required">Required 🔎</kbd>
+
 Label: `workflow::planning breakdown`
 
 At GitLab we believe in [shipping the smallest possible change that provides value to our users](/handbook/product/product-principles/#the-minimal-viable-change-mvc). This minimal viable change (MVC) allows us to iterate quickly and avoid over-engineering. In this phase, every validated solution should be
