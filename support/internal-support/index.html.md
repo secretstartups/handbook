@@ -49,6 +49,11 @@ If your customer contacts you requiring technical support, please immediately di
 
 **Please do not open a support ticket on behalf of a customer.** Doing so will cause the ticket to not be tied to the customer's organization and the appropriate SLA that they are entitled to will not be applied to it.
 
+### Requesting support for GitLab.com users that have account or login issues
+
+GitLab.com users that have account or login issues should [open a new ticket](https://support.gitlab.com/hc/en-us/requests/new).
+They should select "GitLab.com (SaaS) User Accounts and Login Issues" as the reason for the request.
+
 ### Requesting Customer Information
 
 According to our [privacy policies](/privacy/), Support will not provide any information regarding customers, groups, projects, etc,  to you that are not available publicly. This includes situations where a customer is requesting information about their own projects, groups, etc. If they are unable to authenticate, we cannot assume they are who they say they are. If they are locked out, please have them submit a support ticket.
