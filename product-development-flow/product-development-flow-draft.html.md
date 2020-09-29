@@ -318,7 +318,6 @@ The build track is where we plan, develop, and deliver value to our users by bui
 Label: `workflow::planning breakdown`
 
 #### Key Participants
-<!-- this table outlines the individuals contributing (or informed) for this phase. DRI - Directly Responsible Individual, Collaborators - Active participation in the phase, Informed - kept up to date on the outcomes -->
 
 | Role |Function|
 |---|---|
