@@ -369,7 +369,7 @@ The develop and test phase is where we build the features and test them before l
 
 ### Build phase 3: Launch & verify
 
-Labels: `workflow::verification`
+Labels: `workflow::production`
 
 <kbd class="required">Required 🔎</kbd>
 
