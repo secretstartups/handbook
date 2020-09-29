@@ -180,8 +180,8 @@ To start the Design phase, the Product Designer or Product Manager applies the `
 
 | Outcomes|Activities|
 |---|---|
-| Proposed solution(s) identified and documented | - Diverge: explore multiple different approaches as a team. <br>  - Validate approach with help from stakeholders. <br> - Update issue/epic description with proposed solution. <br> - Map user flow and experience. <br> - Draw inspiration from competitive and adjacent offerings. |
-| Shared understanding in the team of the proposed solution | - Feasibility discussions with Engineering <br> - Review with leadership <br> - [Think Big](/handbook/engineering/ux/thinkbig/) session with the team| 
+| Proposed solution(s) identified and documented | **🔎 Diverge: explore multiple different approaches as a team.** <br> **🔎 Converge: identify a small set of options to validate.** <br> **🔎 Update issue/epic description with proposed solution.** <br> Validate approach with help from stakeholders. <br> Map user flow and experience. <br> Draw inspiration from competitive and adjacent offerings. |
+| Shared understanding in the team of the proposed solution | **🔎 Feasibility discussions with Engineering.** <br> Review with leadership. <br> [Think Big](/handbook/engineering/ux/thinkbig/) session with the team.| 
 
 ### Validation phase 4: Solution Validation
 
