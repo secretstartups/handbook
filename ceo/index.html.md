@@ -165,7 +165,7 @@ As part of my role, I participate in a variety of meetings both internal and ext
 
 ## Pick Your Brain interviews
 
-To schedule a Pick Your Brain interview with me, please see the [EBA handbook page](/handbook/eba/#pick-your-brain-meetings). To watch and read prior Pick Your Brain interviews about all-remote, please see the [Interviews page](/company/culture/all-remote/interviews/).
+To schedule a Pick Your Brain interview with me, please see the [EBA handbook page](/handbook/eba/ceo-scheduling/#pick-your-brain-meetings). To watch and read prior Pick Your Brain interviews about all-remote, please see the [Interviews page](/company/culture/all-remote/interviews/).
 
 For scheduling a video call or meeting with me or other execs, please see the [EBA handbook page](/handbook/eba/).
 
