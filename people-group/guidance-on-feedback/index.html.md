@@ -110,7 +110,7 @@ Consider:
 
 ## All Feedback 
 
-The following suggestions, considerations, and models can be applied and used as a guidline when providing both positive feedback and feedback on improvement areas.
+The following suggestions, considerations, and models can be applied and used as a guidline when providing both positive feedback and feedback on improvement areas. Recognition is also an essential element of feedback. 
 
 ### S-B-I Model
 
@@ -123,6 +123,8 @@ The Situation-Behavior-Impact (S-B-I) Model helps structure feedback in a manner
 **Impact** - Describe how the other person’s action affected you or others experiences and thinking.
 
 ### Cross-Cultural Feedback Considerations
+
+Invest time in learning about how to most effectively communicate feedback to team members. One of the interesting things about thanking people is that culturally and personally some people prefer more or less public thanks. We should get to know our team members well enough to understand how best to share positive feedback.
 
 GitLab has team members from many different cultures and backgrounds. Everyone responds to things differently. You may need to adapt your tone and style according to the individual and the relationship you have with them. Some things to think about are:
 
@@ -200,6 +202,45 @@ On 2020-02-25 we held three Live Learning sessions to cover how to receive feedb
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/ZdUMoI1jMvI" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+
+## Recognition 
+
+While not always immediately thought of as a form of feedback, recongition is one of the most essential forms of providing feedback in the workplace. 
+
+### How To Recognize Team Members
+
+When giving credit to team members, it is important to be precise about both their accomplishment and the impact of their accomplishment. Please review the example below:
+
+**General Feedback:**
+
+_"Thank you First Last for helping to troubleshoot sessions on XYZ tickets so we could resolve them inside SLO."_
+
+**Precise Feedback That Includes impact:**
+
+_"Thank you First Last for helping to troubleshoot sessions on XYZ tickets so we could resolve them inside SLO. This really helps to make customers happier with our solutions and also helped our team to learn how to resolve things like this faster in the future."_
+
+### What is "Recognition" Worthy?
+"What is worthy of recognition?" is a question we sometimes ask ourselves. The table below illustrates a few examples of recognition reasons and forms in which we can recognize each other synchronously and asynchronously. 
+
+
+| What should team members be recognized for? | Async Recognition Examples | Sync Recognition Examples |
+| ------ | ------ | ------ |
+| If I hear or see any team member within or outside of my immediate team, **excelling with respect to CREDIT** | Thank You Channel or another Slack Channel (Send followup email, cc'ing their manager. Emails are more permanent than Slack.  Also, managers can use this feedback when evaluating their team members towards the end of the year), Comment in a related issue (cc'ing their manager), Add highlights section to weekly team meetings, Add high-fives section to retrospectives | Sync Team Meeting,  Skip Level Meetings |
+| If a team member has **gone through a significant challenge** but remained transparent in explaining those challenges | Slack Private DM | Sync 1-1 |
+|If a team member(s) completes a **high impact Epic / Issue either quickly** or that they **worked on over multiple releases**. | Team Slack Channel, Feature Slack Channel, Comment in the related Epic / Issue, Add highlights section to weekly team meetings, Add high-fives section to retrospectives | Sync 1-1, Sync Weekly Team Meetings,  Skip Level Meetings |
+| If a team member has **recently undergone a reorganization**.  Truth be told, these reorganizations create stronger, **super employees** :wink: with a breadth of knowledge across the codebase and does have some positive impact.  This deserves a thank you for being agile and flexible for GitLab and for all of their contributions and accomplishments from their original team  | Slack Private DMs, Team Slack Channels, Feature Slack Channels| Weekly Team Meetings, Skip Level Meetings |  
+| Any **impactful Security / Quality achievement** | Team Slack Channels, Feature Slack Channels, Add highlights section to weekly team meetings, Add high-fives section to retrospectives | Weekly Team Meetings, Skip Level Meetings |
+| **Engagement with a Community Contributor** on a very large MR | Team Slack Channels, Add highlights section to weekly team meetings, Add high-fives section to retrospectives | Weekly Team Meetings, Skip Level Meetings |
+
+### Giving Recognition In Skip Level Meetings  
+
+At least quarterly, team members attend [Skip Level](/handbook/leadership/skip-levels/) Meetings. It is recommended that some preparation be done prior to this meeting to learn about the communication style and personality of the team members attending. Skip Level Meetings provide a great opportunity to congratulate team members on their accomplishments and to personally thank them for their work. 
+
+### Beware Of Saying "Thank You" Too Much
+Take a moment to identify situations in which you or your team are saying "Thank You" to the same person or team **too often**. Recognition is essential, but if it becomes very frequent, it can start to be perceived as less sincere. 
+
+If the same team member or team is going above and beyond their job responsibility on a regular basis, the best way to say thank you is to recognize this pattern of overachievement. 
+
 
 ## Further Information
 
