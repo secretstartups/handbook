@@ -182,3 +182,7 @@ If you choose to discuss 360 feedback during your 1:1, here are a few questions 
 * How can I support you?
 
 _Note: Be sure to share these questions with your team member ahead of time so they have a chance to reflect and are able to come prepared for the discussion._
+
+### Sharing 360 Feedback outside of the 360 Feedback Cycle
+
+If a team member becomes a manager to direct reports after the 360 Feedback cycle has completed, and would like to see their new direct reports' 360 Feedback reports, the new manager must reach out to the direct reports directly to ask permission for either the previous manager to download and send the reports, or for the direct reports to download their own reports and send them directly to the new manager. Any approval should be in writing by email, not Slack.
