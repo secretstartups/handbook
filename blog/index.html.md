@@ -254,7 +254,7 @@ If you spot a tweet, post, or feedback anywhere detailing an interesting use cas
 
 ## Pick Your Brain posts
 
-For follow-up posts to [Pick Your Brain interviews with the CEO](/handbook/eba/#pick-your-brain-meetings), as soon as an [interview](https://www.youtube.com/playlist?list=PLFGfElNsQthafBVmoPPVMvBc_Gg2nsyQb) or livestream is scheduled, please open an issue in the  [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues) project, using the `PYB blog post` template, and fill out the relevant information there.
+For follow-up posts to [Pick Your Brain interviews with the CEO](/handbook/eba/ceo-scheduling/#pick-your-brain-meetings), as soon as an [interview](https://www.youtube.com/playlist?list=PLFGfElNsQthafBVmoPPVMvBc_Gg2nsyQb) or livestream is scheduled, please open an issue in the  [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues) project, using the `PYB blog post` template, and fill out the relevant information there.
 
 The blog editorial team will assess the content of the post and decide how best to leverage it. This may mean publishing on the blog, on our Medium site, or something else.
 
@@ -622,7 +622,7 @@ You can include as many tags as you like, separated by commas. Please only inclu
 - open source
 - patch releases
 - performance
-- [pick your brain](/handbook/eba/#pick-your-brain-meetings)
+- [pick your brain](/handbook/eba/ceo-scheduling/#pick-your-brain-meetings)
 - production
 - releases
 - remote work
