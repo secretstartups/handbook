@@ -21,7 +21,7 @@ help with this mission:
 rapid experimentation.
 - [Fulfillment](https://about.gitlab.com/direction/fulfillment/) ensures a terrific experience throughout the
 buyer journey for customers doing business with GitLab.
-- [Telemetry](https://about.gitlab.com/direction/telemetry/) builds the backbone of data that other groups need to be successful, enabling a data-informed product
+- [Telemetry](https://about.gitlab.com/direction/product-analytics/) builds the backbone of data that other groups need to be successful, enabling a data-informed product
 culture at GitLab.
 
 Growth is commonly asking and finding solutions for these types of questions:
@@ -274,5 +274,5 @@ Please see the [Fulfillment direction page](https://about.gitlab.com/direction/f
 
 Responsible for product usage data, including proper instrumentation, working with BizOps and Engineering to ensure product usage data is stored correctly, and working across the Product team to ensure product usage data is analyzed and visualized in a way that can drive product and growth decisions.
 
-Please see the [Telemetry direction page](https://about.gitlab.com/direction/telemetry/) for more
+Please see the [Telemetry direction page](https://about.gitlab.com/direction/product-analytics/) for more
 information about Telemetry's mission, vision, and priorities.
