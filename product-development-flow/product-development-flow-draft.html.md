@@ -167,10 +167,15 @@ To run the problem validation process:
 
 Labels: `workflow::design`
 
-<kbd class="required">Required 🔎</kbd>
+#### Key Participants
 
-> The Product Designer must provide a technically feasible design which solves the validated problem. 
+| Role |Function|
+|---|---|
+| DRI | TBD |
+| Collaborators | TBD|
+| Informed | TBD |
 
+#### Description
 
 After we understand and validate the problem, we can begin/continue to ideate potential solutions through a [diverge/converge](http://web.stanford.edu/~rldavis/educ236/readings/doet/text/ch06_excerpt.html) process. 
 
@@ -178,10 +183,17 @@ The Product Designer leads the team (Product Manager, Engineering, UX Researcher
 
 To start the Design phase, the Product Designer or Product Manager applies the `workflow::design` label to an existing issue or, if needed, creates a new issue with this label.
 
+#### Outcomes and Activities
+
 | Outcomes|Activities|
 |---|---|
 | Proposed solution(s) identified and documented | **🔎 Diverge: explore multiple different approaches as a team.** <br> **🔎 Converge: identify a small set of options to validate.** <br> **🔎 Update issue/epic description with proposed solution.** <br> Validate approach with help from stakeholders. <br> Map user flow and experience. <br> Draw inspiration from competitive and adjacent offerings. |
 | Shared understanding in the team of the proposed solution | **🔎 Feasibility discussions with Engineering.** <br> Review with leadership. <br> [Think Big](/handbook/engineering/ux/thinkbig/) session with the team.| 
+
+#### Required Activities
+<kbd class="required">Required 🔎</kbd>
+
+**Activity X** - TBD
 
 ### Validation phase 4: Solution Validation
 
