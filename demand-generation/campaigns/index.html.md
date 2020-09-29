@@ -102,7 +102,7 @@ The issue requester is responsible for ensuring that appropriate `mktg-status` l
   - If an issue due date is prior to the SLA (based on date "submitter details" were complete), the due date will be changed to meet the SLA timeline (5 BD from date of final details submitted)
   - For example, if the issue is submitted 0ct 1, with a due date of Oct 15, BUT details are not submitted until Oct 14, THEN the issue due date will be moved to Oct 21 by the triage manager.
   - The triage manager and assignee are the ONLY individuals allowed to adjust due dates upon triage.
-  - :no_entry_sign: Please **do not** ask Campaign Managers to complete work in a shorter timeline as this is disruptive to their milestone, and their priority is to plan, implement, and optimize top-funnel campaigns and tactics. They will manage their milestones appropriately and pull in work as bandwidth allows, and based on the SLA.
+  - Please **do not** ask Campaign Managers to complete work in a shorter timeline as this is disruptive to their milestone, and their priority is to plan, implement, and optimize top-funnel campaigns and tactics. They will manage their milestones appropriately and pull in work as bandwidth allows, and based on the SLA.
 
 ### Issue Templates
 We ask that teams request work using the following issue templates in the campaigns project. These templates more clearly indicate what information and details are required in order for the request to be triaged.
@@ -134,8 +134,6 @@ The following issue templates are used by the campaigns team to organize their w
 - [campaigns-webcast-dryrun-sched](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-dryrun-sched)
 - [campaigns-webcast-live-host](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-live-host)
 - [campaigns-webcast-prep](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-prep)
-- [campaigns-](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-)
-- [campaigns-](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-)
 
 ### Campaigns Team Intake Process
 
