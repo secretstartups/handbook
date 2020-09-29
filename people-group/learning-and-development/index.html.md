@@ -225,7 +225,7 @@ Adults learn differently in the workplace than they would in traditional learnin
 
 ## Learning Management Systems
 
-We are currently in the process of implementing a Learning Management System (LMS). We are also in the process of evaluating several content libraries to accompany the LMS to provide curated and off-the-shelf courses for our team members. The content will be supplemental to GitLab customized content. More details to come in the next few months! 
+We are currently in the process of implementing a Learning Experience Platform (LXP). This system is more than just a Learning Management System, it is a platform to help deliver engaging learning tailored to you and your role. It can direct to handbook pages, make recommendations for learning based on previous consumption, and serve interactive learning content. We are also in the process of evaluating several content libraries to accompany the LXP to provide curated and off-the-shelf courses for our team members. The content will be supplemental to GitLab customized content. More details to come in the next few months! 
 
 To help us continue to be [Handbook First](/handbook/handbook-usage/#why-handbook-first), course content in the LMS should be structured in the following ways: 
 
