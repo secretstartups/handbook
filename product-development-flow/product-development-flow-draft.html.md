@@ -373,21 +373,17 @@ Labels: `workflow::production`
 
 <kbd class="required">Required 🔎</kbd>
 
-> The authoring developer must confirm the change is working as expected in production.
+As the change becomes available in production, it is verified to be working properly by the authoring deeloper.  Afterwards, the product manager coordinates the release post and dogfooding process when they apply.
 
-1. After it is deployed to production, the feature is launched and available to GitLab.com hosted customers.  It will be available in the next scheduled release for self-hosted customers ([depending on what the cut-off is for that release](/handbook/engineering/releases/#self-managed-releases-1)).
-1. Once the feature is deployed to production, the authoring developer team must set the workflow label to `workflow::verification`. 
-1. The authoring developer should validate that the feature works as expected for all users (enlisting assitance from the engineering manager, product managers, and others as appropriate).
-1. After verification is complete, the authoring developer will close the merge request.
-1. When appropriate for a change, the release post item needs to be merged by the product manager following the instructions in the [template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md), which will then cause it to appear on the [GitLab.com releases page](/releases/gitlab-com/).
-
-If a determination has been made that the feature should be a part of the [Dogfooding process](/handbook/product/product-processes/#dogfooding-process):
-
-1. At this point, the person who made the decision on dogfooding should label the issue as `Dogfooding::Promote Feature`
-1. The product manager for the feature must decide on the dogfooding plan for the feature.
-1. The product manager should present it in the weekly Product Call to get everyone on board.
-1. The product manager should consider announcing it on the Company Call or in `#whats-happening-at-gitlab`
-1. The product management section lead should also consider actively promoting the feature to other sections as appropriate.
+| Outcomes | Activities |
+| --- | --- |
+| Feature is available to GitLab.com hosted customers | After it is deployed to production, the feature is launched and available to GitLab.com hosted customers.
+| Feature is availbel to self-hosted customers | It will be available in the next scheduled release for self-hosted customers ([depending on what the cut-off is for that release](/handbook/engineering/releases/#self-managed-releases-1)). |
+| Stakeholders of an MR will know it is available in production |  Once the feature is deployed to production, the authoring developer will set the workflow label to `workflow::production`. |
+| MR is confirmed to be working properly for customers | The authoring developer will validate that the feature works as expected for all users (enlisting assitance from the engineering manager, product managers, and others as appropriate). | 
+| Stakeholders of an MR will know verification is complete | After verification is complete, the authoring developer will close the merge request. |
+| Customers will be informed of a major change | When appropriate for a change, the release post item will be merged by the product manager following the instructions in the [template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md), which will then cause it to appear on the [GitLab.com releases page](/releases/gitlab-com/). |
+| A new feature will be used internally at GitLab to validate it is meeting customers needs | A determination is made by the product manager if the feature should be a part of the [Dogfooding process](/handbook/product/product-processes/#dogfooding-process).  If so, the product manager coordinates this process. |
 
 ### Build phase 4: Improve
 
