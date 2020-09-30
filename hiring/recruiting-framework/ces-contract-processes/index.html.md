@@ -272,7 +272,7 @@ To create the contract:
 
 ## Safeguard
 
-GitLab has partnered with [Safeguard](http://www.safeguardworld.com/) to hire in Hungary, South Africa, Switzerland, Ireland, France, Italy, Brazil, Spain, and South Korea. You can also review this [document](https://drive.google.com/file/d/1aUjgb37XO-3LqdW8WF8l-QV2ZcTLBTPj/view?usp=sharing) that Safeguard created regarding frequently asked questions about their process.
+GitLab has partnered with [Safeguard](http://www.safeguardworld.com/) to hire in Switzerland, Ireland, France, Italy, Brazil, Spain, and South Korea. You can also review this [document](https://drive.google.com/file/d/1aUjgb37XO-3LqdW8WF8l-QV2ZcTLBTPj/view?usp=sharing) that Safeguard created regarding frequently asked questions about their process.
 
 To create the contract:
 
@@ -351,6 +351,36 @@ GitLab is working in partnership with [Global Upside](https://globalupside.com) 
 1. Proceed with marking them as hired in Greenhouse, adjusting the ‘Accepted’ date to match the ‘Sent’ date, sending the welcome email, and making sure all other candidates have been rejected prior to marking as hired and closing the req.
 1. Lastly, once the background check is completed for the new hire, the CES needs to share that background check with Global Upside.     - Send the new hire the 'India - Background Check Notification' email that is located in the candidate email templates. This notifies the new hire that GitLab will be sharing their background check with Global Upside. 
     - The CES will upload the PDF of the completed background check to the safe and encrypted portal, Egnyte, in the 'Background Checks' folder under Client Upload.
+
+
+## Remote.com
+
+GitLab has partnered with [Remote.com](https://remote.com/) to hire in South Africa and Hungary. The actual employment contracts will be sent and issued by Remote and are in accordance with local labor law.  The offer details will be provided to Remote by GitLab's hiring team.
+
+To create the contract:
+
+1. Offer is made by the recruiter per the [hiring process](/handbook/hiring).
+1. The Candidate Experience Specialist emails the new team member the Contract Info Request - Remote.com from GreenHouse.
+    -Click “Email CANDIDATE NAME”
+    -Select “Contract Info Request-Remote.com” from dropdown.
+    -CC Recruiter
+    -Click “Send Email”
+1. The Candidate Experience Specialist will check if there is a probationary period.
+    - Go to [Probationary Periods for Team Members Employed by a PEO](/handbook/people-group/contracts-and-international-expansion/#probation-periods-of-team-members-employed-through-a-peo) and check the candidate's country.
+    - Select the duration of the probationary period (if any) in the "Offer Details" dropdown. If there isn't one, select "N/A" in that field.
+1. The Candidate Experience Specialist will check if the contract is indefinite or fixed.
+    - If the contract is indefinite, select "Indefinite" from the dropdown in "Offer Details".
+    - If the contract is fixed, select "Fixed Contract" from the dropdown in "Offer Details" and enter the end date under "End Date".     
+1. The CES will change the signatory to themselves to stage the offer for their signature.
+1. Once the additional information is received, The Candidate Experience Specialist will generate the PEO form out of GreenHouse.
+    -Click “Generate”
+    -Select “PEO New Hire Template” from the dropdown
+    -Click “Generate”
+1. The Candidate Experience Specialist will choose template _Offer through DocuSign -Remote.com_ and will copy globalops@remote.com and mafalda@remote.com on the email.
+1. The Candidate Experience Specialist should add the candidate to the [PEO Tracking Sheet](https://docs.google.com/spreadsheets/d/1gSOVTJ1Yv-YsSaliJwKVf-1H0vBZXxb5NWFiqCwT-uo/edit#gid=0) and keep track of communication between GitLab.
+1. Remote will prepare the New Employee Contract and will inform the Candidate Experience Specialist when the contract is sgined. 
+1. The Candidate Experience Specialist will [mark the candidate as hired](/handbook/hiring/recruiting-framework/coordinator/#send-contract)[](see steps 10-12).
+1. The CES will adjust the 'Accepted' date to match the 'Sent' date.
 
 
 ## Employment Agreements for GitLab team-members in China
