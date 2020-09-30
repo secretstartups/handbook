@@ -142,40 +142,26 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
 
   eng:bem(Backend Engineering Manager);
   click eng:bem "/job-families/engineering/development/backend/manager";
-  %% click eng:bem "/job-families/engineering/development/backend/#backend-manager-engineering";
 
 
   %% engineering leadership
   eng:sme(Senior Manager, Engineering);
   click eng:sme "/job-families/engineering/engineering-management/#senior-manager-development";
-  %% click eng:sme "/job-families/engineering/development/management/#senior-manager-development";
-  %% click eng:sme "/job-families/engineering/development/management/senior-manager";
 
   eng:dir(Director of Engineering);
   click eng:dir "/job-families/engineering/engineering-management/#director-development";
-  %% click eng:dir "/job-families/engineering/development/management/#director-development";
-  %% click eng:dir "/job-families/engineering/development/management/director";
 
   eng:dis(Distinguished Engineer);
   click eng:dis "/job-families/engineering/engineering-management/#distinguished-engineer";
-  %% click eng:dis "/job-families/engineering/development/management/#distinguished-engineer";
-  %% click eng:dis "/job-families/engineering/development/management/distinguished";
-  %% click eng:dis "/job-families/engineering/distinguished-engineer/";
 
   eng:sde(Senior Director of Engineering);
   click eng:sde "/job-families/engineering/engineering-management/#senior-director-development";
-  %% click eng:sde "/job-families/engineering/development/management/#senior-director-development";
-  %% click eng:sde "/job-families/engineering/development/management/senior-director";
 
   eng:vpd(VP of Development);
   click eng:vpd "/job-families/engineering/engineering-management/#vp-of-development";
-  %% click eng:vpd "/job-families/engineering/development/management/#vp-of-development";
-  %% click eng:vpd "/job-families/engineering/development/management/vp";
 
   eng:fel(Engineering Fellow);
   click eng:fel "/job-families/engineering/engineering-management/#engineering-fellow";
-  %% click eng:fel "/job-families/engineering/development/management/#engineering-fellow";
-  %% click eng:fel "/job-families/engineering/development/management/fellow";
 
   %% career progression
   eng:jfe-->eng:ife-->eng:sfe-->eng:stf & eng:fem;
