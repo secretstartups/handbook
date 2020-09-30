@@ -13,7 +13,7 @@ title: Organizational Change Management
 
 GitLab is growing fast and we have been ranked as one of the [fastest-growing private software companies](https://about.gitlab.com/blog/2018/08/16/gitlab-ranked-44-on-inc-5000-list/). Headcount has nearly doubled in the last year and we have plans to [continue to grow](https://about.gitlab.com/company/strategy/). As we scale, there will be more and more changes to how we operate as an organization. New technology will be introduced to make us more efficient; new processes will be introduced to improve transparency; functional groups will be redesigned and adjusted to meet our growing headcount and strategic objectives; job families will change and policies in the handbook will be altered that have a big impact on how we operate. 
 
-As we evolve, there is a need to implement organizational change management (OCM) process and methodology to ensure impacted team members receive the awareness, leadership, coaching, and training they need to change successfully. This handbook page will walk through a step-by-step approach to organizational change management at GitLab. We are also developing a playbook for all people leaders and individual contributors to use when organizing an organizational change management process and campaign. 
+As we evolve, there is a need to implement a organizational change management (OCM) process and methodology to ensure impacted team members receive the awareness, leadership, coaching, and training they need to change successfully. This handbook page will walk through a step-by-step approach to OCM at GitLab. People leaders and individual contributors can use this page when organizing an organizational change management process and campaign. 
 
 ## What is Organizational Change Management (OCM)
 
@@ -33,7 +33,7 @@ At GitLab, there are many use cases for applying an OCM process. Some examples i
 - Providing awareness and generating excitement for a company-wide initiative (i.e. friends and family day, etc.) 
 - Enabling team members to effectively use new tools to improve their job at the time of release (i.e. Culture AMP, Learning Management System, etc.) 
 
-There are varying levels of the OCM process that can be implemented to facilitate the change. The above is a small example of the type of organization-wide initiatives that should consider applying the OCM methodology. Keep in mind that some transformations require less OCM, while major changes require a heavy focus on OCM. Consider if they change will impact the whole organization. If it will, apply the OCM methodology. 
+There are varying levels of the OCM process that can be implemented to facilitate the change. The above is a small example of the type of organization-wide initiatives that we can consider applying the OCM methodology. Keep in mind that some transformations require less OCM, while major changes require a heavy focus on OCM. Consider if they change will impact the whole organization. If it will, apply the OCM methodology. 
 
 ## Why is OCM important
 
