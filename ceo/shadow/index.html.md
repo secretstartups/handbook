@@ -439,6 +439,7 @@ Meetings come in many different formats, as listed above. Your responsibilities 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/DtRWvIzOnP4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+
 Assume that you are taking notes in a Google Doc affixed to the meeting invite unless it is a [1:1](/handbook/leadership/1-1/) between the CEO and his direct reports, a board meeting, an internal meeting where the CEO is not the host, or it is explicitly stated not to take notes. If you're unsure whether or not to take notes, default to take them or ask the CEO. The goal of the notes is to collect the main points and outcomes, not a full transcript of the conversation.
 In many cases, shadows may not understand fully what is being discussed. As you are taking notes, be mindful that the goal of the program is to absorb what is being said in the meetings you are in. When you do not understand what it is being said, pause to listen and avoid documenting incorrect information.
 If a notes document is not already linked, see the [templates available here](/handbook/eba/#meeting-request-requirements).
