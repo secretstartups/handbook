@@ -68,7 +68,7 @@ Because this page needs to be concise and consistent, please ensure to follow th
 | `workflow::In dev` | [Build](#build-track) | Engineering | Initial engineering work is complete and review process has started | Engineering |
 | `workflow::In review` | [Build](#build-track) | Engineering | MR(s) are merged | Engineering |
 | `workflow::verification` | [Build](#build-track) | Engineering | Change is demonstrable and will be verified | Engineering |
-| `workflow::production` | [Build](#build-track) | Engineering | Work is available in production but not yet verified to be working as expected in production. | Engineering |
+| `workflow::production` | [Build](#build-track) | Engineering | Work is available in production. | Engineering |
 | `workflow::blocked` | N/A | Product/Engineering | Work is no longer blocked | Engineering |
 
 ### Issue descriptions as the SSOT
@@ -370,20 +370,19 @@ The develop and test phase is where we build the features and test them before l
 
 ### Build phase 3: Launch
 
-Labels: `workflow::production`
+Status: `Closed`
 
 <kbd class="required">Required 🔎</kbd>
 
-When the change becomes available in production, it is verified to be working properly in production by the authoring developer.  Afterward, the product manager coordinates the [release post](/handbook/marketing/blog/release-posts/) and [Dogfooding process](/handbook/product/product-processes/#dogfooding-process) when they apply.
+When the change becomes available in production, the issue is closed by the development team so stakeholders know work on it has been completed.  Afterward, the product manager coordinates the [release post](/handbook/marketing/blog/release-posts/) and [Dogfooding process](/handbook/product/product-processes/#dogfooding-process) when they apply.
 
 | Outcomes | Activities |
 | --- | --- |
 | Feature is available to GitLab.com hosted customers | After it is deployed to production, the feature is launched and available to GitLab.com hosted customers. |
-| Feature is available to self-hosted customers | The feature will be available in the next scheduled release for self-hosted customers ([depending on what the cut-off is for that release](/handbook/engineering/releases/#self-managed-releases-1)). |
-| Stakeholders of an feature will know it is available in production |  Once the feature is deployed to production, the authoring developer will set the workflow label to `workflow::production`. |
-| Feature is confirmed to be working properly for customers | The authoring developer will validate that the feature works as expected for all users (enlisting assistance from the engineering manager, product managers, and others as appropriate).  After this is completed, they will close the original issue and file new issues to track anything that is not working properly. | 
-| Customers will be informed of a change | When appropriate for a change, the release post item will be written and merged by the product manager following the instructions in the [template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md), which will then cause it to appear on the [GitLab.com releases page](/releases/gitlab-com/). |
-| GitLab validates if the feature is meeting GitLab's own needs | A determination is made by the product manager as to if the feature should be a part of the [Dogfooding process](/handbook/product/product-processes/#dogfooding-process) which organizes and tracks usage of the feature by GitLab.  If so, the product manager coordinates this process. |
+| Feature is available to self-hosted customers | The feature will be available in the next scheduled release for self-hosted customers to install ([depending on what the cut-off is for that release](/handbook/engineering/releases/#self-managed-releases-1)). |
+| Stakeholders of an feature will know it is available in production | **Required**: Once the feature is deployed to production and any needed verification in production is completed, the development team will close the issue. <br> **Optional** : Prior to the issue being closed, the development team may set the workflow label to `workflow::verification` or `workflow::production` for tracking purposes. |
+| Customers will be informed about a change | **Required***: When appropriate for a change, a release post item will be written and merged by the product manager following the instructions in the [template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md), which will then cause it to appear on the [GitLab.com releases page](/releases/gitlab-com/). |
+| GitLab validates if the feature is meeting GitLab's own needs | **Required** : A determination is made by the product manager as to if the feature should be a part of the [Dogfooding process](/handbook/product/product-processes/#dogfooding-process) which organizes and tracks usage of the feature by GitLab.  If so, the product manager coordinates this process. |
 
 ### Build phase 4: Improve
 
