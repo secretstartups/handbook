@@ -21,15 +21,18 @@ example from build > launch:
 -->
 
 #### Outcomes and Activities
-<!-- The outcomes and related activities table above should capture the outcomes and the associated activities (recommended, or required) team members should consider deploying to achieve that outcome. Start by defining the outcomes, and layer in the acclivities where appropriate. If an activity is required designate it in **bold** and use the 🔎 emoji. 
+<!-- The outcomes and related activities table below should capture the outcomes (recommended, or required) and the associated activities team members should consider deploying to achieve that outcome. Start by defining the outcomes, and layer in the activities where appropriate. If an outcome is required designate it in **bold** and use the 🔎 emoji. 
 example: 
-outcome = improved understanding of a customer problem
-activities = problem validation research issue, customer interviews, review related issues -->
-| Outcomes|Activities|
-|---|---|
-| Outcome 1 | Activity 1 <br> **🔎 Activity 2** <br>|
+outcomes / outputs = What must be accomplished during the phase
+activities = opportunities and suggestions to satisfy the outcomes / outputs
+DRI = who is responsible for ensuring this outcome is completed (Product Manager, Engineering, Product Designer, SET, etc...)
+-->
+| 🔎Outcomes | Activities | DRI |
+|---|---|---|
+| Outcome 1 | - Activity 1 <br> - Activity 2 <br> | DRI |
+| Outcome 2 | - Activity 1 <br> - Activity 2 | DRI|
 
-#### Required Activities
+#### Required Outcomes
 <kbd class="required">Required 🔎</kbd>
+**Outcome #** - Description of required outcome providing a better understanding of the outcome and any required outputs
 
-**Activity 2** - Each PM must keep issue descriptions up to date. This allows for anyone to quickly review and understand the details of an issue without reading every comment. 
