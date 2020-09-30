@@ -596,6 +596,7 @@ These are included to help readers find similar posts if they are interested in 
 You can include as many tags as you like, separated by commas. Please only include tags from the following list, and note that they are case sensitive. If you think a tag should exist that isn't on this list, please leave a comment for the reviewer on your MR saying which tag you'd like to use and why it should be included.
 
 - agile
+- bug bounty
 - careers
 - CI/CD
 - cloud native
