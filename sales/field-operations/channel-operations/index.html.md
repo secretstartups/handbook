@@ -227,17 +227,19 @@ _Why is this important?_
     -  True-ups to an original partner opportunity. 
 - The opportunity must be new to our sales team, and can be for a new or existing customer.
 - This can be for either a resale or referral opportunity.  
-- The partner is expected to assist the GitLab Sales team in closing the sale. 
+- The partner is expected to assist the GitLab Sales team in closing the sale. It does not mean that the SAL is not involved.
+- PIO can be a lead you have been working forever and cannot convert - partner intros or partner services creates conversion or expansion.
+- If a partner helps upsell or expand an opportunity, the entire opportunity qualifies as PIO.
 - For US Public Sector, each unique customer opportunity within a single government program can be partner initiated.
 - For resale, the partner receives an upfront discount that is dependent on the partners track within the GitLab Partner Program.
-- Referral rebate payments are paid out at the end of each GitLab fiscal quarter
+- Referral rebate payments are paid out no later than 45 after the end of each GitLab fiscal quarter.
 - The determination of PIO is at the sales rep & CAM determination and tracked via SFDC opportunities.
 
 **Partner Assist Opportunity**
-- Any opportunity where the partner assists our sales team to close the deal.
-- This may be a customer demo, an executive introduction meeting, delivery of services, etc.
+- Any opportunity where the partner assists our sales team in closing the deal.
+- This assistance may include any or all of the following: a customer demo/POV, an executive introduction meeting, delivery of services, helping with the transaction, financing.  Often this is leveraging the partner's incumency.
 - Partners need to submit a Deal Registration for Partner Assist.  Since it is for a GitLab sourced opportunity, it does not qualify for PIO, but should be tagged as Partner Assist in Salesforce.
-- The determination of Partner Assist is at the sales rep & CAM determination and tracked via SFDC opportunities.
+- The determination of Partner Assist is at the sales rep & CAM determination and tracked via SFDC opportunities. 
 
 **Partner Fulfill Opportunity**
 - Any opportunity that was fulfilled by a partner but closed independently via the GitLab sales team.
@@ -253,7 +255,7 @@ _Why is this important?_
     -  1st deal: => $7,500 in services
     -  2nd deal: =>$10,000 in services
     -  3rd deal: => $10,000 in services
-- Partners must register a Services Attach deal registration to qualify for the incentive.
+- Partners must register a Services Attach deal registration and provide proof of performance to qualify for the incentive.
 - Rebate payments are paid out at the end of each GitLab fiscal quarter.
 - Rebates and referral fees may require CRO approval.
 
@@ -263,7 +265,7 @@ _Why is this important?_
 
 **Incumbency Renewals**
 - Incumbent partners qualify for program renewal discounts.  The partners that transacts the most recent sale (IACV) are considered the incumbent
-- A different partner can earn an incumbency discount only through formal written communications from the customer.
+- A different partner can earn an incumbency discount only through formal written communications from the customer.  This can be provided via email from an authorized representative from the customer.
 - In some cases, a customer purchased their most recent subscription directly from GitLab, but is directed to a partner for renewal. Partners are encouraged to engage with these customers, but their first renewal of a formerly direct customer will not be discounted for partners. 
 - To earn partner discounts, partners will be required to meet compliance requirements (i.e. in good credit standing, have provided quarterly updates on customer, review within 30 days of renewal, etc).
 
@@ -508,11 +510,11 @@ Additional newsletters can be found [http://eepurl.com/g8hRIT](http://eepurl.com
 ## Frequently Asked Questions
 
 **Where can I find the Standard Channel Discounts for my Partners?**
-- Follow [SFDC Discounting table](https://gitlab.my.salesforce.com/0694M000008xAk4)z
+- Follow [SFDC Discounting table](https://gitlab.my.salesforce.com/0694M000008xAk4)
 
 [Public Sector discount table](https://gitlab.my.salesforce.com/0694M000009YhAcQAK)
 
-**Where can I find more information about our current Partners processes?**
+**Where can I find more information about our current Partner processes?**
 - The current Resellers Handbook can be found [Here](/handbook/resellers/)
 
 **Whats the current Deal Registration Process?**
