@@ -295,6 +295,24 @@ All Zoom and agenda links can be found on the relevant calendar entry in the Sup
 
 The Support management team meet regularly. Details of these calls are on the [Support Managers page](/handbook/support/managers)
 
+#### Senior Support Engineer Office Hours
+
+Senior and Staff Support Engineers are encouraged to host office hours. These office hours are intended to strengthen
+the team through mentoring. It is up to each Senior/Staff Support Engineer whether they schedule office hours, and how
+often. Please see the "GitLab Support" Team calendar to view office hours and invite yourself.
+
+We encourage hosts to include what they will cover in the calendar event description and optionally a document to track.
+
+Some ideas of what one can expect at a Senior/Staff Support Engineers'
+
+- Troubleshooting a difficult ticket
+- Trying out a GitLab feature (Geo, CI, SAST, k8s, etc.) or a new workflow
+- Reproducing a particular bug
+- Fixing a bug
+- Creating or updating documentation
+- Thinking through a particular problem
+- Hosting a ticket crush session
+
 #### Meeting Roles
 ##### Role of the Chair
 {: .no_toc}
