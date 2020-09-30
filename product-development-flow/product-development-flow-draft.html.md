@@ -196,7 +196,7 @@ To start the Design phase, the Product Designer or Product Manager applies the `
 **Diverge** - Explore multiple different approaches as a team in order to fully explore the different possibilities for solving the customer or business problem. <br> 
 **Converge** - Work as a team to identify approaches for solving the problem that strike the best balance of reach, impact, confidence, and effort. <br> 
 **Update issue/epic description** - Make sure that issues and epics are up-to-date so we can continue our work efficiently and asynchronously. <br>
-**Feasibility discussions with Engineering.** - It is important that we understand the feasibility of the solution with Engineering in order to avoid rework or significant changes when we start the build phase. 
+**Feasibility discussions with Engineering** - It is important that we understand the feasibility of the solution with Engineering in order to avoid rework or significant changes when we start the build phase. 
 
 ### Validation phase 4: Solution Validation
 
