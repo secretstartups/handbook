@@ -409,7 +409,7 @@ This notes document is then added to the scorecard for the candidate in Greenhou
 
 {:.no_toc}
 
-The CEO may occasionally invite you to optional meetings that may not be explicitly GitLab related, but can help provide insight into his day-to-day activities. In these meetings, it is asked that you not take notes because we don't want you to do work that isn't for GitLab. However, keeping time can still be very helpful so you are encouraged to do so if you are in attendance. These meetings are optional and you can leave at any time.
+The CEO may occasionally invite you to optional meetings that may not be explicitly GitLab related, but can help provide insight into his day-to-day activities. In these meetings, it is asked that you not take notes because we don't want you to do work that isn't for GitLab. Additionally if the agenda document is not shared with you most likely it is because it is owned outside of the GitLab domain therefore request access is not advised. However, keeping time can still be very helpful so you are encouraged to do so if you are in attendance. These meetings are optional and you can leave at any time. 
 
 ##### Personal Meetings
 
@@ -521,7 +521,8 @@ It's important that everyone encourages others to follow the [communication guid
 1. Verbalize questions
 1. Stop sharing their screens to encourage conversations
 1. Provide full context for the benefit of new team members
-1. When someone starts a Group Conversation with a presentation, ask them to stop and [record a video next time](/handbook/people-group/group-conversations/#presentation)
+1. When someone starts a Group Conversation with a presentation it is the CEO Shadow responsibility to ask them to stop and [record a video next time](/handbook/people-group/group-conversations/#presentation) Recommendation on how to approach this message "Apologies for the interruption, it is the explciit repsonsibility for the CEO Shadow to remind individuals that we do not present during group conversations. If we may move to the document for questions and in the future record a video to promote asynchronous presentations". 
+
 
 ### Email Best Practices
 
