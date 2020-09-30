@@ -373,7 +373,7 @@ Labels: `workflow::production`
 
 <kbd class="required">Required 🔎</kbd>
 
-As the change becomes available in production, it is verified to be working properly by the authoring deeloper.  Afterwards, the product manager coordinates the release post and dogfooding process when they apply.
+As the change becomes available in production, it is verified to be working properly by the authoring developer.  Afterwards, the product manager coordinates the release post and dogfooding process when they apply.
 
 | Outcomes | Activities |
 | --- | --- |
