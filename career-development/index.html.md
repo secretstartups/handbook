@@ -157,10 +157,9 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   %% click eng:dir "/job-families/engineering/development/management/director";
 
   eng:dis(Distinguished Engineer);
-  click eng:dis "/job-families/engineering/engineering-management/#distinguished-backend-engineer";
-  %% click eng:dis "/job-families/engineering/development/management/#distingueshed-backend-engineer";
-  %% click eng:dis "/job-families/engineering/development/management/distingueshed";
-  %% click eng:dis "/job-families/engineering/development/frontend/#distinguished-frontend-engineer";
+  click eng:dis "/job-families/engineering/engineering-management/#distinguished-engineer";
+  %% click eng:dis "/job-families/engineering/development/management/#distinguished-engineer";
+  %% click eng:dis "/job-families/engineering/development/management/distinguished";
   %% click eng:dis "/job-families/engineering/distinguished-engineer/";
 
   eng:sde(Senior Director of Engineering);
