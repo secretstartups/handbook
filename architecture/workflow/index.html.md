@@ -154,11 +154,8 @@ requests](/handbook/communication/#everything-starts-with-a-merge-request), in
 case of complex changes like that, a merge request might not be something that
 is actionable, so we usually start with an issue.
 
-The issue should be labeled with ~"Architecture decision" label, can be made
-visible in the
-[#architecture-decision](https://gitlab.slack.com/archives/CJ4DB7517) Slack
-channel as per [cross-functional
-collaboration](/handbook/engineering/development/#cross-functional-collaboration).
+It is advised to post a link to the issue in the
+[#architecture](https://gitlab.slack.com/archives/CJ4DB7517) Slack channel.
 
 Then author of the issue loops an Architecture Evolution Coach and a Domain
 Expert then collaborate together to create a blueprint merge request with the
