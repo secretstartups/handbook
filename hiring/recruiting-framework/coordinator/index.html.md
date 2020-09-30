@@ -51,6 +51,15 @@ If you have any questions about the process, please post in #eba-team slack chan
 
 Please ensure you have the [guide chrome extension](https://chrome.google.com/webstore/detail/resource-button/ikeemflbkbdhkgmgbdpeapmnnggbfogd) installed on your computer. 
 
+**Adding a new requisition to Guide Stage Templates**
+
+1. Login on guide.resource.io
+1. Click on Templates on the left hand side
+1. Click the purple + sign on the top right hand corner
+1. Type the name of the requisition in the search box
+1. Press configure
+1. The requisition will automatically be added to the stage templates
+
 **Preparing interviewers on Guide website**
 
 1. Login on guide.resource.io
