@@ -109,7 +109,7 @@ If, when selecting a severity for an availability issue, the availabilty impact 
 | Severity | Availability impact | Time to mitigate (TTM)(1) | Time to resolve (TTR)(2) | Minimum priority |
 | -------- | ------------------- | ------------------------- | ------------------------ | ---------------- |
 | `~severity::1` | Roadblock on GitLab.com and blocking customer's business goals and day to day workflow<br/><br/>Impacts 50% or more of users<br/><br/>Consistently reproducible | Within 8 hrs | Within 48 hrs | `~priority::1` |
-| `~severity::2` | Significant impact on GitLab.com and customer's day-to-day workflow. Customers have an acceptable workaround in place.<br/><br/>Impacts between 25%-50% of users<br/><br/>Consistently reproducible | Within 24 hrs | Within 7 days |  `~priority::1` |
+| `~severity::2` | Significant impact on GitLab.com and customer's day-to-day workflow. Customers have an acceptable workaround in place.<br/><br/>Impacts between 25%-50% of users<br/><br/>Consistently reproducible<br/><br/>**OR**<br/><br/>Deployment blocking incident anywhere in the deployment pipeline | Within 24 hrs | Within 7 days |  `~priority::1` |
 | `~severity::3` | Broad impact on GitLab.com and minor inconvenience to customer's day-to-day workflow. No workaround needed.<br/><br/>Impacts up to 25% of users<br/><br/>Inconsistently reproducible | Within 72 hrs | Within 30 days | `~priority::2` |
 | `~severity::4` | Minimal impact on GitLab.com, no known customers affected<br/><br/>Impacts less than 5% of users<br/><br/>Inconsistently reproducible | Within 7 days | Within 60 days | `~priority::3` |
 
