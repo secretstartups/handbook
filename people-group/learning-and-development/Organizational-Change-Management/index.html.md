@@ -86,7 +86,7 @@ When rolling out a new initiative, consider who in the organization will be the 
 
 ### Step 4 - Communicating the change
 
-Once you’ve understood the impacts and who will be most impacted, start developing a communication plan. Analyzing team member engagement and impacts can help guide and engage team members through the change program. Communications can be updated per feedback from impacted groups. 
+Once you’ve understood the impacts and who will be most impacted, start developing a communication plan. Analyzing team member engagement and impacts can help guide and engage team members through the change program. Communications can be updated per feedback from impacted groups. The timing of communications can also be different based on the impact analysis.
 
 Focus on delivering the right amount of detail to the right audience, through the right communications channel, and at the right time. We typically rely on slack channels to send organization-wide communications. Leverage the channels that will provide the most impact to ensure leaders and team members can articulate with clarity and purpose of the change project. 
 
@@ -111,7 +111,7 @@ GitLab Learner Experience - 70-20-10 Training approach:
 
 ### Step 6 - Measure and adopt the change
 
-The ultimate purpose of the OCM process is to get team members to adopt the change and implement it in their day-to-day role. To ensure this, it is important to focus on user adoption and measure it regularly so we can adjust the communications and training approach. [Apply iteration](https://about.gitlab.com/handbook/engineering/workflow/iteration/) to the change by consistently looking for new ways to roll out programs more [efficiently](https://about.gitlab.com/handbook/engineering/workflow/iteration/).  
+The ultimate purpose of the OCM process is to get team members to adopt the change and implement it in their day-to-day role. To ensure this, it is important to focus on user adoption and measure it regularly so we can adjust the communications and training approach. [Apply iteration](https://about.gitlab.com/handbook/engineering/workflow/iteration/) to the change by consistently looking for new ways to roll out programs more [efficiently](https://about.gitlab.com/handbook/engineering/workflow/iteration/).  If appropriate, consider opening an issue to allow for team members to provide feedback which will inform future iterations.
 
 To drive the adoption and usage of new changes, it is essential to provide proper metrics and measurement tools. A successful adoption helps in mitigating the organizational challenges and realizing business benefits to ensure better ROI and a successful sustained transformation. 
 
