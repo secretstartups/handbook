@@ -65,11 +65,14 @@ The staging environment does not have the data (repositories, LFS Objects, uploa
 
 **Everyone** is responsible for QA testing their own MRs on it (whenever applicable). Make sure anything important gets addressed, and anything less is tracked. If you notice a problem with Geo on staging, then feel free to ping/assign the rotation engineer as DRI.
 
-Every month, a Geo backend engineer will be the DRI for monitoring Geo on staging and creating/escalating any issues. This is not an on-call shift and the DRI is not required to fix any issues themselves. Prior to their rotation month, the incoming person should make sure they:
+Every month, a Geo backend engineer will be the DRI for monitoring Geo on staging and creating/escalating any issues. This is not an on-call shift and the DRI is not required to fix any issues themselves.
+
+In the last week of their rotation, the outgoing person should set up a meeting with the incoming person to make sure they:
 
 * have SSH access to the staging environment
 * can view the Geo admin UI on staging
 * have enabled notifications for the [geo-staging-gitlabcom project on Sentry](https://sentry.gitlab.net/gitlab/geo-staging-gitlabcom/)
+* are familiar with any current ongoing issues with staging geo
 
 The main goals for this rotation:
 * Ensure Geo on staging works.
@@ -93,6 +96,9 @@ The main goals for this rotation:
 
 | Month     | Name             |
 | -----     | ------           |
+| January   |  |
+| December  |  |
+| November  |  |
 | October   | [`@aakriti.gupta`](https://gitlab.com/aakriti.gupta) |
 | September | [`@alexives`](https://gitlab.com/alexives) |
 | August    | [`@vsizov`](https://gitlab.com/vsizov) |
