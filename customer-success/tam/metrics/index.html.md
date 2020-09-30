@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Stage Adoption Metrics"
+title: "Developer/Productivity Metrics"
 ---
 
 ## On this page
