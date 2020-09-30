@@ -229,6 +229,36 @@ To ensure SDRs receive proper credit for purchases made via the web portal, but 
     * L. Invoice Number
 * On the sales accepted opportunity, ensure the above fields are updated, and save. Change stage to Closed Won, save. Ensure Close Date reflects Close Date on cloned web direct opportunity (today's date).
 
+### Opportunity Categorization
+
+As of October 1, 2020, the following fields will be maintained by Deal Desk to distinguish standard vs. non-standard opportunities:
+
+##### Opportunity Category
+
+*  Standard (Default Value)
+   *  _Definition: A straightforward sale with no custom deal elements._
+*  Ramp
+   *  _Definition: A single deal with multiple individual ramp periods._
+*  Contract Reset
+   *  _Definition: A new subscription that replaces an existing subscription, where the existing subscription is canceled prior to its end date._
+*  Credit
+   *  _Definition: A cancellation related to a contract reset._
+*  Decommission
+   *  _Definition: A deal that is being debooked in full or in part, where all related commission/billing/revenue is being removed._
+*  Decommissioned
+   *  _Definition: A deal that has been removed from record, and is no longer active due to a subsequent decommission opportunity._
+*  Internal Correction
+   *  _Definition: An internal correction to a previously booked opportunity, where commission/billing/revenue figures are not altered._
+
+##### Opportunity to Decommission
+
+*  This is a lookup field, where the name of the original opportunity (now being decommissioned) is entered. This field is required by validation rule if Opportunity Category = Decommission. Upon saving, the linked opportunity will automatically be categorized as "Decommissioned" via process builder.
+
+##### Payment Schedule
+
+*  Prepaid (Default Value)
+*  Annual Payments
+*  Custom Payment Schedule
 
 ### **Zuora Quote Configuration Guide - Standard Quotes**
 
@@ -429,7 +459,7 @@ Follow the standard process for [quote creation](https://about.gitlab.com/handbo
 
 ### **Non-standard Quotes**
 
-Occassionaly an opporutnity will require a unique structure that is outside of the normal quote format. Examples of these scenarios are listed below. Deal Desk will partner with the Account Owner to structure the opportunity and provide guidance on creating the quote. Please chatter on the opportunity if you need assistance with one of these scenarios! 
+Occasionally an opportunity will require a unique structure that is outside of the normal quote format. Examples of these scenarios are listed below. Deal Desk will partner with the Account Owner to structure the opportunity and provide guidance on creating the quote. Please chatter on the opportunity if you need assistance with one of these scenarios! 
 
 #### Contract Reset
 
@@ -446,6 +476,8 @@ Note: Contract Resets are used to perform an "Early Renewal" - i.e. start a new 
 *   Deal Desk will attach a PDF of the consolidated quote to the opportuntiy 
 *   Sales team will send the order form to the customer for signature
 *   Upload the signed order form to the renewal opp and to the credit opp as well and submit both opps for approval
+
+Note: On the main contract reset opportunity, populate the "Opportunity Category" field with "Contract Reset." On the associated credit opportunity, populate the "Opportunity Category" field with "Credit."
 
 
 #### Add-On + Early Renewal
@@ -464,7 +496,7 @@ A.  Note: In the case of multi-year deals, the Initial Term” should be updated
 
 B.  If annual payments are requested for multi-year deals, use the 1 Year product. Note that annual payments must be approved in chatter by Paul Machle.
 
-C.  Note: If annual payments are approved, create a separate opportunity and quote for each year of the subscription. A three-year deal with an annual payment schedule will have 3 separate opportunities and quotes reflecting each year of the subscription. Work with @Sales-Support in Chatter if needed
+C.  Note: If annual payments are approved, create a separate opportunity and quote for each year of the subscription. A three-year deal with an annual payment schedule will have 3 separate opportunities and quotes reflecting each year of the subscription. Work with @Sales-Support in Chatter if needed. The "Payment Schedule" field on each opportunity should be populated with the value "Annual Payments."
 
 #### Ramp Deals
 
@@ -480,6 +512,8 @@ B.  Request template:
     *   To use this template, copy the template to your own Drive, enter the information, and share your G Sheet with @Sales-Support in Chatter.
 
 C.  Note: Deal Desk will create the quotes and Order Form.
+
+Note: On the opportunity, populate the "Opportunity Category" field with "Ramp."
 
 
 #### Opportunities Requiring Multiple Invoices
@@ -529,6 +563,8 @@ To create opportunities requiring multiple invoices:
 *  The quote should follow the standard quote creation process (link to quote building process). Set the quote as primary. Repeat for all opportunities. The sum amount of all opportunities should equal the total amount for the SOW.
 *  Attach the signed SOW and Cost Estimate link to **each opportunity.**
 *  Submit the Opportunity for Deal Desk/Billing approval. The Billing team will flag each deliverable opportunity for future invoice periods.
+
+Note: The "Payment Schedule" field on each opportunity should be populated with the value "Annual Payments" or "Custom Payment Schedule," whichever applies.
 
 
 #### Miscellaneous (But Important) Information
