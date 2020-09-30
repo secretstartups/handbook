@@ -186,6 +186,35 @@ Many services that team members use such as Slack and Zoom have mobile applicati
 
 Most major applications (Slack, Zoom, Okta Verify) have been examined and vetted by the Security Team, but there are some applications such as BambooHR's mobile app which are not only of limited scope in the data they can access, but also have security issues. In such cases, use the mobile device's web browser for access to the resource. If you have a question about the security of a mobile app and want to know if you should be using it to access GitLab data, contact the Security Team via Slack in the #security channel.
 
+### Google Cloud Resources
+
+Some Google Cloud resources, if deployed with default settings, may introduce risk to shared environments. For example, you may be deploying a temporary development instance that will never contain any sensitive data. But if that instance is not properly secured, it could potentially be compromised and used as a gateway to other, more sensitive resources inside the same project.
+
+Below are some steps you can take to reduce these risks.
+
+#### Google Compute Instances
+
+By default, Google will attach what is called the [Compute Engine default service account](https://cloud.google.com/compute/docs/access/service-accounts#default_service_account) to newly launched Compute Instances. This grants every process running on your new Compute Instance '[Project Editor](https://cloud.google.com/iam/docs/understanding-roles#basic)' rights, meaning that if someone gains access to your instance they gain access to everything else in the project as well.
+
+This default account should not be used. Instead, you should choose one of the following:
+
+1. If your instance does not need authenticated access to Google Cloud APIs, you should choose not to bind any service account at all. This can be done by appending the `--no-service-account --no-scopes` flags if using the `gcloud` command, or by selecting the following option in the web interface:
+
+![No Service Account](gcp-no-service-account.jpg)
+
+2. If your instance does need to authenticate to certain Google Cloud APIs, you should use a specific service account that has been granted only the [minimum IAM roles required](https://cloud.google.com/compute/docs/access/service-accounts#service_account_permissions) for your application to function. Access Scopes are not a replacement for properly configured IAM permissions and in general [should not be relied upon](https://cloud.google.com/compute/docs/access/service-accounts#accesscopesiam) as a security mechanism.
+
+#### Google Kubernetes Engine Clusters
+
+GKE nodes are Compute Instances, and by default use the same Compute Engine default service account described above. Despite making it their default, Google specifically states *"You should create and use a minimally privileged service account to run your GKE cluster instead of using the Compute Engine default service account."*.
+
+Whether deploying a GKE cluster manually or automatically via Terraform, you can [follow these instructions](https://cloud.google.com/kubernetes-engine/docs/how-to/hardening-your-cluster#use_least_privilege_sa) to create and attach a service account with the minimum permissions required for a GKE cluster node to function.
+
+In addition, you should enable [Workload Identity](https://cloud.google.com/kubernetes-engine/docs/how-to/workload-identity#enable_on_cluster) and [Shielded Nodes](https://cloud.google.com/kubernetes-engine/docs/how-to/shielded-gke-nodes#enabling_in_a_new_cluster) on all new clusters. This can be done by appending the `--workload-pool=[PROJECT-ID].svc.id.goog --enable-shielded-nodes` flags if using the gcloud command, or by selecting the following options in the web interface (located under the "Security" menu):
+
+![GKE Settings](gcp-gke-settings.jpg)
+
+
 ### Other Services/Devices
 
 1. Do not configure email **forwarding** of company emails (@gitlab.com) to a
@@ -355,7 +384,7 @@ joining the GitLab Team account.
 1Password for Teams stores all **Vaults** on the 1Password servers and allows
 for sharing between multiple people on the same team. Every GitLab Team Member who needs access to a shared vault should consult their departments for any shared vault information.
 
-Each member of the team has a vault called **Private** which *only you can see*, and allows you to store personal credentials *within the GitLab team's account*. 
+Each member of the team has a vault called **Private** which *only you can see*, and allows you to store personal credentials *within the GitLab team's account*.
 
 To really get the full benefit of 1Password, you'll need to hook our Teams
 account up to one of the native apps.
@@ -553,13 +582,13 @@ To enable TOTP for a saved account:
 1. Go to the item for which you want to set up TOTP
 1. Click **Edit** in the bottom right corner
 1. Add a new field by clicking on the field type dropdown (it offers a "Text field" by default)
-1. Select **One-Time Password** 
+1. Select **One-Time Password**
 
 <div style="text-align:center;">
   <img src="/handbook/security/1password-otp.png" alt="One-time password field type" width="600"/>
 </div>
 
-1. Click QR code icon that appeared 
+1. Click QR code icon that appeared
 
 <div style="text-align:center;">
   <img src="/handbook/security/1password-qrcode.png" alt="1password QR Code" width="600"/>
@@ -632,7 +661,7 @@ one of our developers, uses 1Password:
 > available on my phone, tablet, laptop, and desktop.
 >
 > Even my 1Password for Teams account information is stored in my personal
-> **Primary** vault, with the Emergency Kit PDF as a secure attachment. 
+> **Primary** vault, with the Emergency Kit PDF as a secure attachment.
 > I have no idea what the password is. I've never actually typed it. And that's
 > the idea:
 
