@@ -195,9 +195,9 @@ Labels: `workflow::design`
 
 | Role |Function|
 |---|---|
-| DRI: Product Designer | Lead the team in ideating potential solutions |
-| Collaborators: Product Manager, Engineering, UX Researcher, Quality Engineering, and Tech Writers | Work with the Product Designer to explore, contribute, and vet potential solutions.|
-| Informed: Stakeholders, Leadership | Where relevant, stakeholders and leadership should be informed of ideas to provide feedback and/or guidance. |
+| DRI | - Product Designer |
+| Collaborators |  - Product Manager <br> - Engineering <br> - UX Researcher <br> - Quality Engineering <br> - Tech Writer|
+| Informed | - Stakeholders <br> - Leadership <br> - Impacted teams |
 
 #### Description
 
@@ -209,18 +209,21 @@ To start the Design phase, the Product Designer or Product Manager applies the `
 
 #### Outcomes and Activities
 
-| Outcomes|Activities|
-|---|---|
-| Proposed solution(s) identified and documented | **🔎 Diverge: explore multiple different approaches as a team.** <br> **🔎 Converge: identify a small set of options to validate.** <br> **🔎 Update issue/epic description with proposed solution.** <br> Validate approach with help from stakeholders. <br> Map user flow and experience. <br> Draw inspiration from competitive and adjacent offerings. |
-| Shared understanding in the team of the proposed solution | **🔎 Feasibility discussions with Engineering.** <br> Review with leadership. <br> [Think Big](/handbook/engineering/ux/thinkbig/) session with the team.| 
+| Outcomes|Activities|DRI|
+|---|---|---|
+| Proposed solution(s) identified and documented | - Diverge: explore multiple different approaches as a team.<br> - Converge: identify a small set of options to validate. <br> - Update issue/epic description with proposed solution. <br> - Validate approach with help from stakeholders. <br> - Map user flow and experience. <br> - Draw inspiration from competitive and adjacent offerings. | Product Designer | 
+| Shared understanding in the team of the proposed solution | - Review the proposed solution as a team. <br> - Review with leadership. <br> -[Think Big](/handbook/engineering/ux/thinkbig/) session.| Product Designer | 
+| Confidence in the technical feasibility | - Discuss the technical implications with Engineering to ensure that what is being proposed is possible within the desired timeframe. | Product Designer |  
+| Issues updated | - Make sure that issues and epics are up-to-date so we can continue our work efficiently and asynchronously | Product Manager | 
 
-#### Required Activities
+
+#### Required Outcomes 
 <kbd class="required">Required 🔎</kbd>
 
-**Diverge** - Explore multiple different approaches as a team in order to fully explore the different possibilities for solving the customer or business problem. <br> 
-**Converge** - Work as a team to identify approaches for solving the problem that strike the best balance of reach, impact, confidence, and effort. <br> 
-**Update issue/epic description** - Make sure that issues and epics are up-to-date so we can continue our work efficiently and asynchronously. <br>
-**Feasibility discussions with Engineering** - It is important that we understand the feasibility of the solution with Engineering in order to avoid rework or significant changes when we start the build phase. 
+- **Proposed solution(s) identified and documented** - tbd. <br> 
+- **Shared understanding in the team of the proposed solution** - tbd <br> 
+- **Updated issues/epic descriptions** - Make sure that issues and epics are up-to-date so we can continue our work efficiently and asynchronously. <br>
+- **Confidence in the technical feasibility** - It is important that we understand the feasibility of the solution with Engineering in order to avoid rework or significant changes when we start the build phase. 
 
 ### Validation phase 4: Solution Validation
 
