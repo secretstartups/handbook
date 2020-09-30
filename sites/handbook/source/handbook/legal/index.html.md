@@ -69,52 +69,41 @@ Please be sure to include sufficient detail regarding your request, including ti
 
 # General Topics and FAQs
 
-## 1. The Attorney-Client Relationship in the United States
+## 1. The U.S. Attorney-Client Relationship 
+This discussion is limited to the practice of law in the U.S. As we continue to grow globally we will update this and expand how privilege applies in other jurisdictions.
 
-This discussion is limited to U.S. practices because currently our team members only communicate with U.S. practicing attorneys.  As we continue to grow globally we will update this and expand how privilege applies in other jurisdictions.
+### What is Attorney-Client Privilege?
+Attorney-Client Privilege is a principle that provides protections for certain communications between clients and their attorneys that meet specific criteria. 
 
-### What is the Attorney-Client Privilege?
+First of all, the communications must be for the purpose of seeking legal guidance and advice. For this reason, the underlying facts may not be protected if they are available from another source. Opinions and analysis of the facts, and discussions thereof, with the attorney are protected. 
 
-Attorney-Client Privilege is a law that has been adopted in each of the states of the U.S in some form.  Generally, the law protects communications between clients and their attorneys for the purpose of seeking legal guidance and advice.  The information is not protected if it is available from another source.  Therefore, information cannot be placed under the protections of Attorney-Client privilege simply by telling your attorney or copying your attorney on a communication.  In addition, the underlying facts are also not protected, only the opinions and analysis of the facts, and discussions thereof, with the attorney.  The privilege belongs to the client, and therefore, can only be waived by the client.
+Secondly, communications must be confidential. Information is also not protected if it is available from another source meaning that simply telling your attorney or copying your attorney on a communication does not protect the information. 
 
-### What is Work Product?
-
-Work Product is a U.S. doctrine in which an attorney’s notes, observations, thoughts, and research prepared by, or at the direction of an attorney, in anticipation of litigation, are protected from being discoverable during the litigation process.
+### What is Work Product Privilege?
+Work Product is a U.S. doctrine in which an attorney’s notes, observations, thoughts, and research prepared by, or at the direction of, an attorney in anticipation of litigation are protected from being discoverable during the litigation process.
 
 ### What is the purpose of these Privileges?
-
-The purpose of the Attorney-Client and Work Product privileges is to allow clients to speak freely with their attorneys and encourage full disclosure so they can receive accurate and competent legal advice without the fear of having their attorney compelled to testify against them and disclose the information shared by the client.
+Attorney-Client and Work Product privileges allow clients to speak freely with their attorneys and encourage full disclosure so they can receive accurate and competent legal advice without the fear of having their attorney compelled to testify against them and disclose the information shared by the client.
 
 ### Who do these Privileges Apply to at GitLab?
+There is not one uniform answer that covers all jurisdictions in the U.S. However, most jurisdictions will use at least one of the following tests to see if the individuals involved have privileged communication.
 
-There is not one uniform answer that covers all jurisdictions in the U.S. 
-
-A minority number of states apply the **Corporate Group Test**. This test is quite restrictive and only allows for the protection of corporate communications to the corporation's controlling executives and managers.
-
-A more commonly used test is the **Subject Matter Test**.  Instead of looking at the roles of the employees involved, this test looks at the subject matter of the employees’ communications. The test will look to see if the employee was instructed to discuss the subject matter with the attorney should be protected and if the subject matter of that communication relates to the performance by the employee of the duties of his or her employment.
-
-A slightly modified version of the **Subject Matter Test** called the **Upjohn Test** is also widely used. Under the **Upjohn Test** the privilege is applied only if the following criteria are satisfied:
-
-* The employee must have made the communication to counsel for the purpose of seeking legal advice regarding the corporation.
-* The substance of the communication must involve matters that fall within the scope of the employee's job duties.
-* The employee must be aware that the statements are being provided for the purpose of obtaining legal advice for the corporation.
-* The communications also must be confidential when made and must be kept confidential by the company.
-
-The Supreme Court case which established the  **Upjohn Test** is also important because it resulted in the **_Upjohn Warning_** which is a procedure in which a company’s attorney explains that he or she does not represent the employee individually, but instead represents the interests of the company.  This is important to note because a company can waive its privilege at any time, meaning the company could choose to disclose information the attorney received from a covered employee in confidence for use as evidence in a legal proceeding in order to protect the company from liability.
- 
- The **Subject Matter Test** and **Upjohn Test** are the most commonly used tests. More information about the tests can be found [HERE](https://drive.google.com/open?id=1Rzm_oFo-nGx8RWZgSaZBOCPBL1kCrce3)
+- The **Control Group Test**. This test is quite restrictive and only allows for the protection of corporate communications to the corporation's controlling executives and managers. This test cannot be used in federal courts, but is still used in some states.
+- The **Subject Matter Test**. Instead of looking solely at the roles of the employees involved, this test looks at the subject matter of the employees’ communications. If an employee has been directed by a supervisor to discuss a subject matter that relates to the employees job with an attorney, this may be covered by subject matter privilege.
+- The **Upjohn Test**. This modified version of the Subject Matter Test requires additional criteria to be met. In addition to the subject matter being relevant to the employee’s duties, the employee must also have awareness and intent concerning the legal advice being sought and/or given.
+- The **Upjohn Warning**. A company’s attorney does not represent an employee individually, but instead represents the interests of the company. A company can waive its privilege at any time, meaning the company could choose to disclose information the attorney received from a covered employee in confidence for use as evidence in a legal proceeding in order to protect the company from liability.
  
 ### How do you Protect the Privileges that Apply to You When Seeking Legal Advice?
- 
- * Direct the communication to a practicing licensed attorney.  Privilege does not apply to other non-attorney members of the legal team.
- * It is best practice to have privileged conversations with the attorney via Zoom.
- * If other individuals will need to participate in the discussion, consult with the attorney, and only include the minimum necessary individuals in the conversation, in other words, keep the circle of trust small.
- * If it is necessary to communicate by email, in the “Subject” line, and at the top of the body of the communication, include the phrase **“AC PRIV”**.
- * Do not overuse the claim of privilege. Limit its use to when actually seeking legal guidance and advice and not on any and every correspondence with the attorney.
- * You must keep the information discussed confidential, and not share it with anyone outside the circle of trust without first consulting with the attorney.
- * Do not forward protected emails to anyone outside the circle of trust.
- * Do not copy anyone outside the circle of trust on emails with the attorney.
- * As with anything else, if you ever have any questions or concerns, do not hesitate to reach out to the Legal team.
+- Direct the communication to a practicing licensed attorney. Privilege does not apply to other non-attorney members of the legal team.
+- It is best practice to have privileged conversations with the attorney via Zoom.
+- If other individuals will need to participate in the discussion, consult with the attorney, and only include the minimum necessary individuals in the conversation, in other words, keep the circle of trust small.
+- If it is necessary to communicate by email, in the “Subject” line, and at the top of the body of the communication, include the phrase “AC PRIV”.
+- Do not overuse the claim of privilege. Limit its use to when actually seeking legal guidance and advice and not on any and every correspondence with the attorney.
+- You must keep the information discussed confidential, and not share it with anyone outside the circle of trust without first consulting with the attorney.
+- Do not forward protected emails to anyone outside the circle of trust.
+- Do not copy anyone outside the circle of trust on emails with the attorney.
+
+For more questions and answers about Attorney-Client Privilege in the corporate setting, search “AC Priv tests” in Drive.
 
 ## 2. Litigation Holds
 
