@@ -176,7 +176,6 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   click eng:fel "/job-families/engineering/engineering-management/#engineering-fellow";
   %% click eng:fel "/job-families/engineering/development/management/#engineering-fellow";
   %% click eng:fel "/job-families/engineering/development/management/fellow";
-  %% click eng:fel "/job-families/engineering/development/frontend/#frontend-engineering-fellow";
 
   %% career progression
   eng:jfe-->eng:ife-->eng:sfe-->eng:stf & eng:fem;
