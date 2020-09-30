@@ -105,6 +105,7 @@ For customers who are large enough to have an account management project, an iss
    ```
 
 1. Create a list of Slack handles in a file called `2FA Reset Owners.md` that lists individuals who are authorized to request a 2FA reset.
+1. Open a [Support Operations issue](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Add%20Zendesk%20Organization%20Notes%20or%20Tags%20Request) to add a note to the appropriate ZenDesk Organization's `Notes`, such as `2FA owner vouch: [link]`.
 
 #### Usage
 
