@@ -374,7 +374,7 @@ Any high severity issue should start with an issue labelled with the appropriate
 Depending on the bug details, follow one of the following processes: 
 - For [high severity security bugs][process-security-release-critical] 
 - For [high severity bugs affecting self-hosted customers][process-patch-release]
-- For [high severity bugs affecting GitLab.com][https://about.gitlab.com/handbook/engineering/releases/#gitlabcom-releases-1]
+- For [high severity bugs affecting GitLab.com](https://about.gitlab.com/handbook/engineering/releases/#gitlabcom-releases-1)
 
 If you need any additional help please ask the Release Managers in the [#releases] Slack channel.
 
