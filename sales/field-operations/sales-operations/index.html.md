@@ -423,7 +423,7 @@ In the event our data enrichment tools are outdated or incorrect (primary addres
 
 **Operations Review Process:**
 
-* Ops will be assigned cases to review and make updates to the `[User Inputs]` data
+* Ops will be assigned cases to review and make updates to the `[Admin]` fields in the `Account Review Admin` section on the account.
           
     * `Number of Employees: Manual - Admin`
 
@@ -445,7 +445,6 @@ In the event our data enrichment tools are outdated or incorrect (primary addres
     *  Accounts with a `[TSP] Transfer Date` populated a day in the future will be re-routed that night to the `[TSP] Next Approved Owner`. 
     *  `Account Territory`, `Sales Segment` & `Employees` fields will also be updated upon TSP transfer, to continually align accounts.
 
-</details>
 </details>
 
 ### **Opportunity Splits**
