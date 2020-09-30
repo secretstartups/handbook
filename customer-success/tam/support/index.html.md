@@ -25,6 +25,7 @@ Though automation exists, the TAM must still ensure customers take additional st
 
 The primary step the TAM should complete is to collect a list of names and email addresses for people that the customer intends to have SLA-driven access to support. The TAM loads these contacts into the GitLab Salesforce system as Contacts associated with the customer’s Account record.  The TAM also asks the support team to set the domain name for the Zendesk account to the domain name for the customer’s submitted email addresses, when applicable. The TAM then advises the Customer to have these people register in the support system by navigating to support.gitlab.com and following the instructions on the Sign In pop-up for people that are new to GitLab. The self-registration process will then recognize the email address and correctly ensure that submitted tickets are guided by the customer’s purchased support SLA.  
 
+Users who aren't associated with their organization will be asked to [prove their support entitlement](/support/#proving-your-support-entitlement) which can introduce some delays in resoltuion.
 
 ## Support Ticket Best Practice
 
