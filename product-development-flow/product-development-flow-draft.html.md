@@ -367,7 +367,7 @@ The develop and test phase is where we build the features and test them before l
 1. PM should also conduct feature-level acceptance testing to ensure that the intended user value was, in fact, delivered.
 1. Documentation should be complete and available before proceeding to the launch phase.
 
-### Build phase 3: Launch & Verify
+### Build phase 3: Launch
 
 Labels: `workflow::production`
 
