@@ -17,9 +17,11 @@ Customer Onboarding is the [beginning phase of the customer lifecycle](/handbook
 
 ### CTA Creation Criteria
 
-When a customer purchases or upgrades GitLab to an ARR of $50,000 or greater, a [Call To Action (CTA)](/handbook/customer-success/tam/gainsight/ctas) is triggered within Gainsight for new Enterprise (50k+ ARR) and Mid-Market (20k+ ARR) accounts. 
+[TAM-assigned accounts](https://about.gitlab.com/handbook/customer-success/tam/services/): When a customer signs at or reaches the TAM-assigned threshold, a [Call To Action (CTA)](/handbook/customer-success/tam/gainsight/ctas) is triggered within Gainsight.
 
-A CTA is created for the TAM Manager if the TAM field is not populated. Once populated, an Onboarding CTA is kicked off for the TAM. The Onboarding CTA creates a Playbook with guided steps for the next several weeks.
+[Onboarding Pilot](https://gitlab.com/gitlab-com/customer-success/tam/-/issues/344#note_420892012): We are also piloting in Q4 of FY21 an onboarding experience for a cohort of customers in the Commercial book of business.  For these customers, a [Call To Action (CTA)](/handbook/customer-success/tam/gainsight/ctas) is triggered within Gainsight
+
+For both use cases above, a CTA is created for the TAM Manager if the TAM field is not populated. Once populated, an Onboarding CTA is kicked off for the TAM. The Onboarding CTA creates a Playbook with guided steps for the next several weeks.
 
 ### CTA Content and Process
 
@@ -53,18 +55,18 @@ The [Time to Value KPIs](https://about.gitlab.com/handbook/customer-success/visi
 
 #### Time to Engage
 
-Time to Engage is calculated by taking the days between Salesforce's `Original Contract Date` and subtracting the date of the first Timeline call or meeting entry. Example: Original Contract Date is 2020-01-01 and the first call was 2020-01-12, then it would be 11 days.
+Goal: 14 days. Time to Engage is calculated by taking the days between Salesforce's `Original Contract Date` and subtracting the date of the first Timeline call or meeting entry. Example: Original Contract Date is 2020-01-01 and the first call was 2020-01-12, then it would be 11 days.
 - Required TAM action: log the first Timeline entry (Call or Meeting)
 
 #### Time to First Value
 
-Time to First Value is calculated by taking the `Original Contract Date` and subtracting `First Value Date`, which is a manual input on the customer's Attributes section of the C360.
+Goal: 30 days Time to First Value is calculated by taking the `Original Contract Date` and subtracting `First Value Date`, which is a manual input on the customer's Attributes section of the C360.
 - Required TAM action: update the `First Value Date`
 
 
 #### Time to Onboard
 
-Time to Onboard is the difference between `Original Contract Date` and the date the Onboarding CTA is closed. For example, the `Original Contract Date` is 2020-08-15 and the Onboarding CTA was closed on 2020-09-20, the Time to Onboard would be 36 days.
+Goal: 45 days Time to Onboard is the difference between `Original Contract Date` and the date the Onboarding CTA is closed. For example, the `Original Contract Date` is 2020-08-15 and the Onboarding CTA was closed on 2020-09-20, the Time to Onboard would be 36 days.
 - Required TAM action: Close the Onboarding CTA
 
 
