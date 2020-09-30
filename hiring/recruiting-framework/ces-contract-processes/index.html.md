@@ -272,7 +272,7 @@ To create the contract:
 
 ## Safeguard
 
-GitLab has partnered with [Safeguard](http://www.safeguardworld.com/) to hire in Hungary, South Africa, Switzerland, Ireland, France, Italy, Brazil, Spain, South Korea, Japan. You can also review this [document](https://drive.google.com/file/d/1aUjgb37XO-3LqdW8WF8l-QV2ZcTLBTPj/view?usp=sharing) that Safeguard created regarding frequently asked questions about their process.
+GitLab has partnered with [Safeguard](http://www.safeguardworld.com/) to hire in Hungary, South Africa, Switzerland, Ireland, France, Italy, Brazil, Spain, and South Korea. You can also review this [document](https://drive.google.com/file/d/1aUjgb37XO-3LqdW8WF8l-QV2ZcTLBTPj/view?usp=sharing) that Safeguard created regarding frequently asked questions about their process.
 
 To create the contract:
 
@@ -403,46 +403,7 @@ Please note, due to German labor law, the stock options are not included in the 
 
 ## Employment Agreements for GitLab team-members in Japan
 
-In this location, a temporary contract is for 1 year (12 Months) with a pre-deterined end date.
-1. The Candidate Experience Specialist emails the new team member to gather additional details required to generate the contract.
-    - From the GreenHouse profile, under tools, click to email the new team member
-    - From the template drop-down list select: Contract Info Request - Safeguard
-    - Send Email
-1. When the new team member provides the necessary details the Candidate Experience Specialist will save the required forms of ID, update GreenHouse offer details and generates the Safeguard form out of GreenHouse.
-    - Offer Details
-    - Update
-    - Work Authorization ID
-    - Nationality
-    - Country of Citizenship
-    - Level of Role
-    - Position Category
-    - Travel Percentage
-    - Save
-1. Navigate to Offer Documents and Generate
-    - Click in the white space below Select templates
-    - Select Safeguard - Template from the drop-down list
-    - Generate
-1. Send with DocuSign
-    - Template: Offer through DocuSign - Innovare (Japan)
-    - To User: yourself
-    - Add the Innovare contacts to the list of Cc email addresses (If they are not populating automatically you can find their contact details in 1password => People Operations Vault => Entity & Co-employer HR Contacts.)
-    - Fill in the Project Lead contact details with the hiring manager's name and email address
-    - Confirm the Probation Period, Leave Benefits, and Termination Notice are correct
-    - Attachments: Choose Files
-    - Select the saved forms of ID file
-    - Open
-    - Preview on DocuSign
-1. Select the new team member's name in the upper left-hand corner
-    - Edit Recipients
-    - On the new team member's block change Needs to Sign to Receives a Copy
-    - Edit the signing order to yourself 1 and everyone else 2
-    - Done
-1. Add fields to Section 5 of the form if they do not auto-populate: Name, title, email, and date
-    - Send
-1. Do you want to sign this now? Yes
-    - Sign the form
-1. The Candidate Experience Specialist should add the candidate to the [PEO Tracking Sheet](https://docs.google.com/spreadsheets/d/1gSOVTJ1Yv-YsSaliJwKVf-1H0vBZXxb5NWFiqCwT-uo/edit#gid=0) and keep track of communication between GitLab.
-1. Once GitLab receives a signed copy of contract, they will proceed to upload to GH and complete normal steps.
+GitLab has an entity in Japan (GitLab GK) and use the GitLab GK contracts in this location. All team members in this location are employees.
 
 ## Employment Agreements for GitLab team-members located everywhere else (IT BV contractor agreements)
 
