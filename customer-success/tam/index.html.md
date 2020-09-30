@@ -31,6 +31,7 @@ title: "Technical Account Management Handbook"
 - [Success Plans](/handbook/customer-success/tam/success-plans/)
 - [Usage Ping](/handbook/customer-success/tam/usage-ping-faq/)
 - [Playbooks](/handbook/customer-success/playbooks/)
+- [Developer/Productivity Metrics](/handbook/customer-success/tam/metrics/)
 - [Stage Adoption Metrics](/handbook/customer-success/tam/stage-adoption/)
 - [Executive Business Reviews (EBRs)](/handbook/customer-success/tam/ebr/)
 - [Customer Renewal Tracking](/handbook/customer-success/tam/renewals/)
