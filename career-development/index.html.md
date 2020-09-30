@@ -111,44 +111,80 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
 
 ```mermaid
   graph LR;
-  eng:jbe(Junior Backend Engineer);
+  %% frontend roles
   eng:jfe(Junior Frontend Engineer);
-  eng:ibe(Intermediate Backend Engineer);
-  eng:ife(Intermediate Frontend Engineer);
-  eng:sbe(Senior Backend Engineer);
-  eng:sfe(Senior Frontend Engineer);
-  eng:stb(Staff Backend Engineer);
-  eng:stf(Staff Frontend Engineer);
-  eng:fem(Frontend Engineering Manager);
-  eng:bem(Backend Engineering Manager);
-  eng:dis(Distinguished Engineer);
-  eng:sme(Senior Manager, Engineering);
-  eng:dir(Director of Engineering);
-  eng:sde(Senior Director of Engineering);
-  eng:fel(Engineering Fellow);
-  eng:vpd(VP of Development);
+  click eng:jfe "/job-families/engineering/development/frontend#junior-frontend-engineer";
 
+  eng:ife(Intermediate Frontend Engineer);
+  click eng:ife "/job-families/engineering/development/frontend/#intermediate-frontend-engineer";
+
+  eng:sfe(Senior Frontend Engineer);
+  click eng:sfe "/job-families/engineering/development/frontend/#senior-frontend-engineer";
+
+  eng:stf(Staff Frontend Engineer);
+  click eng:stf "/job-families/engineering/development/frontend/#staff-frontend-engineer";
+
+  eng:fem(Frontend Engineering Manager);
+  click eng:fem "/job-families/engineering/development/frontend/manager";
+
+  %% backend roles
+  eng:jbe(Junior Backend Engineer);
+  click eng:jbe "/job-families/engineering/development/backend/#junior-backend-engineer";
+
+  eng:ibe(Intermediate Backend Engineer);
+  click eng:ibe "/job-families/engineering/development/backend/#intermediate-backend-engineer";
+
+  eng:sbe(Senior Backend Engineer);
+  click eng:sbe "/job-families/engineering/development/backend/#senior-backend-engineer";
+
+  eng:stb(Staff Backend Engineer);
+  click eng:stb "/job-families/engineering/development/backend/#staff-backend-engineer";
+
+  eng:bem(Backend Engineering Manager);
+  click eng:bem "/job-families/engineering/development/backend/manager";
+  %% click eng:bem "/job-families/engineering/development/backend/#backend-manager-engineering";
+
+
+  %% engineering leadership
+  eng:sme(Senior Manager, Engineering);
+  click eng:sme "/job-families/engineering/engineering-management/#senior-manager-development";
+  %% click eng:sme "/job-families/engineering/development/management/#senior-manager-development";
+  %% click eng:sme "/job-families/engineering/development/management/senior-manager";
+
+  eng:dir(Director of Engineering);
+  click eng:dir "/job-families/engineering/engineering-management/#director-development";
+  %% click eng:dir "/job-families/engineering/development/management/#director-development";
+  %% click eng:dir "/job-families/engineering/development/management/director";
+
+  eng:dis(Distinguished Engineer);
+  click eng:dis "/job-families/engineering/engineering-management/#distinguished-backend-engineer";
+  %% click eng:dis "/job-families/engineering/development/management/#distingueshed-backend-engineer";
+  %% click eng:dis "/job-families/engineering/development/management/distingueshed";
+  %% click eng:dis "/job-families/engineering/development/frontend/#distinguished-frontend-engineer";
+  %% click eng:dis "/job-families/engineering/distinguished-engineer/";
+
+  eng:sde(Senior Director of Engineering);
+  click eng:sde "/job-families/engineering/engineering-management/#senior-director-development";
+  %% click eng:sde "/job-families/engineering/development/management/#senior-director-development";
+  %% click eng:sde "/job-families/engineering/development/management/senior-director";
+
+  eng:vpd(VP of Development);
+  click eng:vpd "/job-families/engineering/engineering-management/#vp-of-development";
+  %% click eng:vpd "/job-families/engineering/development/management/#vp-of-development";
+  %% click eng:vpd "/job-families/engineering/development/management/vp";
+
+  eng:fel(Engineering Fellow);
+  click eng:fel "/job-families/engineering/engineering-management/#engineering-fellow";
+  %% click eng:fel "/job-families/engineering/development/management/#engineering-fellow";
+  %% click eng:fel "/job-families/engineering/development/management/fellow";
+  %% click eng:fel "/job-families/engineering/development/frontend/#frontend-engineering-fellow";
+
+  %% career progression
   eng:jfe-->eng:ife-->eng:sfe-->eng:stf & eng:fem;
   eng:jbe-->eng:ibe-->eng:sbe-->eng:stb & eng:bem;
   eng:bem & eng:fem-->eng:sme-->eng:dir-->eng:sde-->eng:vpd;
   eng:stb & eng:stf-->eng:dis-->eng:fel;
 
-  click eng:jbe "/job-families/engineering/backend-engineer#junior-backend-engineer";
-  click eng:ibe "/job-families/engineering/backend-engineer#intermediate-backend-engineer";
-  click eng:sbe "/job-families/engineering/backend-engineer#senior-backend-engineer";
-  click eng:stbe "/job-families/engineering/backend-engineer#staff-backend-engineer";
-  click eng:dis "/job-families/engineering/backend-engineer#distinguished-backend-engineer";
-  click eng:fel "/job-families/engineering/backend-engineer#engineering-fellow";
-  click eng:em "/job-families/engineering/backend-engineer#engineering-manager";
-  click eng:sme "/job-families/engineering/engineering-management/#senior-manager-development";
-  click eng:de "/job-families/engineering/backend-engineer#director-of-engineering";
-  click eng:sde "/job-families/engineering/backend-engineer#senior-director-of-engineering";
-  click eng:vpe "/job-families/engineering/backend-engineer#vp-of-engineering";
-  click eng:jfe "/job-families/engineering/frontend-engineer#junior-frontend-engineer";
-  click eng:ife "/job-families/engineering/frontend-engineer#intermediate-frontend-engineer";
-  click eng:sfe "/job-families/engineering/frontend-engineer#senior-frontend-engineer";
-  click eng:stfe "/job-families/engineering/frontend-engineer#staff-frontend-engineer";
-  click eng:feem "/job-families/engineering/frontend-engineering-manager";
 ```
 
 #### Security Department
