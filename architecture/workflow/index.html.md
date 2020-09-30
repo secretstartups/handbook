@@ -179,6 +179,13 @@ proposed in the issue.
 * How - how are we going to achieve that (1-year forecast)
 * What - what is the outcome, how can we measure it
 
+Blueprints will be mostly written by engineers, but their content should not be
+too technical. The audience is Product Team Members, Engineering Leaders and
+Wider Community. A blueprint should describe a vision in an easy to understand
+way - it is advised to use only simple diagrams and to avoid overloading the
+content with technical terms and details. Technical details will go into
+subsequent epics and issues associated with a blueprint.
+
 A blueprint merge request gets created and made visible as a result of
 collaboration between an Architecture Evolution Coach, a Domain Expert and a
 person who had an idea. The author and coaches also need to be mentioned in the
