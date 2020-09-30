@@ -87,7 +87,27 @@ Once your issue description is completely filled out, Legal will review all the 
 
 The ability to communicate and market to customers and prospects is an essential activity for GitLab. To do this, we must ensure the collection of personal information and the ability to contact is done in a manner compliant with applicable laws.  It is also beneficial for GitLab to use consistent language across our sites and forms when obtaining consent to communicate with our customers.  [The Marketing Rule Book](https://docs.google.com/document/d/1UEfWo26DP7nRPrWRWo7O7oSrNp_rRuVqyN_vC7SwXME/edit?usp=sharing) is intended to be a reference guide to (a) help understand the email and phones rules for a few select countries; and (b) provide the standard consent language to be used, depending on the scenario. 
 
+### CAN-SPAM
 
+Controlling the Assault of Non-Solicited Pornography and Marketing Act (CAN-SPAM) came into effect in the United States in 2003 and impacts all mass electronic marketing communications. Other countries have similar e-mail spam laws. 
+
+CAN-SPAM sets forth certain requirements that must be honored when sending out mass emails and other marketing materials. 
+
+**Keep the header honest.**  The reader needs to be able to identify who is sending them messages.  The email address of the sender should properly denote GitLab as the sender of the company material.  
+
+**Keep the subject line honest.**  Don’t mislead the reader or otherwise use deceitful or inaccurate subject lines to compel someone to open the email. Be honest, impactful and short.  You can create urgency but, most importantly, create value.  In fact, the more authentic and clear the email, the less likely it is to be marked as spam or junk mail.
+
+**Acknowledge that it is an ad.**  This doesn’t mean that you have to go over the top and begin each Subject Line with “Hello, I am an advertisement.”  It just means that the sender has to know it is marketing material sent by GitLab. Put it in the subject line or put it in the body - just put it somewhere. 
+
+**Include location**  There needs to be a valid business address listed in the emails.  This helps ensure that the recipient has a clear and legal point of reference to double check the authenticity of the sender.
+
+**Opt-out options are not oppressive.**  When people receive mail that they don’t want, there must be an easy way to unsubscribe from the lists.  And “easy” means my grandmother should be able to figure it out as quickly as my 15-year old nephew.  In some jurisdictions, every email sent after an opt-out is selected may be subject to a fine. 
+
+**Opt-outs need to be quick.**  Ideally, an opt-out will occur automatically or within a business day or two.  If you take more than ten (10) business days to remove an email from a mailing list, things will get messy quickly.   
+
+**Stay Diligent.**  If you use a third party to manage business emails, be aware that GitLab could still be on the hook for any wrongdoing.  Make sure that any mass communications are reviewed by someone knowledgeable in the spam laws.  
+
+We care about our customers and their protection is our focus. For an additional incentive, be aware that failing to comply can cost a lot of money on a per email basis - up to $41,000 per violation. 
 
 
 
