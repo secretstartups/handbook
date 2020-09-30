@@ -132,7 +132,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   click eng:jbe "/job-families/engineering/development/backend/#junior-backend-engineer";
 
   eng:ibe(Intermediate Backend Engineer);
-  click eng:ibe "/job-families/engineering/development/backend/#intermediate-backend-engineer";
+  click eng:ibe "/job-families/engineering/development/backend/#backend-engineer";
 
   eng:sbe(Senior Backend Engineer);
   click eng:sbe "/job-families/engineering/development/backend/#senior-backend-engineer";
