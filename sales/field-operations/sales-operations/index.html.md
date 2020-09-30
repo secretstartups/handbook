@@ -426,34 +426,37 @@ Requests to override the TSP information can also be submitted in the Account Re
 
 ### **What if TSP is wrong? How can I request a change?**
 
-In the event our data enrichment tools are outdated or incorrect (primary address or employee count), you can submit a request to override this information.
+In the event our data enrichment tools are outdated or incorrect (primary address or employee count), you can chatter @sales-support and request for an update. Please provide as much detail as possible, justification for the requested change and website links with the information to be reviewed. Be sure to copy your manager if additional approvals will be needed. Please allow at least 48 hours for account changes to take place once the review process begins.
 
-<details>
-<summary markdown='span'>Process for Requesting TSP Changes:</summary>
 
-1. **Request Process:**
-    *  Enter desired TSP information into the following fields (this can be either Account, Employee Count, or both).
-    *  Be sure to include source of correct data (ROE must still be followed)   
-          *  `[User Input] Employee Count`
-          *  `[User Input] Employee Source`
-          *  `[User Input] Address Street`
-          *  `[User Input] Address City`
-          *  `[User Input] Address State`
-          *  `[User Input] Address Post Code`
-          *  `[User Input] Address Country`
-          *  `[User Input] Address Source`
+ <details>
+<summary markdown='span'>Operators Guide: Process for Requesting TSP Changes:</summary>         
 
-1.  **Operations Review Process:**
-Ops will review these requests on a periodic basis, and provide a response in the `[TSP] Override Status` field:
-    *  **Approved** - Account changes accepted, & `[TSP] Effective Date` populated by Ops.
-    *  **Rejected** - Reason added to `[TSP] Decision Rationale` field.
-    *  **Needs Approval/More Info** - Info needed added to `[TSP] Decision Rationale` field.<p/>
-1.  **Execution:**
-    *  Turnaround time for Approved TSP changes to re-populate typically takes 24-48 hours.
-    *  Accounts with a `[TSP] Effective Date` populated will be re-routed each night to the `[TSP] Next Approved Owner`. 
+**Operations Review Process:**
+
+* Ops will be assigned cases to review and make updates to the `[Admin]` fields in the `Account Review Admin` section on the account.
+          
+    * `Number of Employees: Manual - Admin`
+
+    * `Account Address - Manual Source - Admin`
+
+    * `[Admin] Address Street`
+
+    * `[Admin] Address Post Code`
+
+    * `Number of Employees: Manual Source -Admin`
+
+    * `[Admin] Address City`
+
+    * `[Admin] Address State`
+
+    * `[Admin] Address Country` 
+
+* Turnaround time for Approved TSP changes to re-populate typically takes 24-48 hours.
+    *  Accounts with a `[TSP] Transfer Date` populated a day in the future will be re-routed that night to the `[TSP] Next Approved Owner`. 
     *  `Account Territory`, `Sales Segment` & `Employees` fields will also be updated upon TSP transfer, to continually align accounts.
 
-</details> 
+</details>
 
 ### **Opportunity Splits**
 
