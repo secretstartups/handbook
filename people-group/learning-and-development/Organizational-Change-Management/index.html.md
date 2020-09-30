@@ -11,7 +11,7 @@ title: Organizational Change Management
 
 ## Introduction 
 
-GitLab is growing fast and we have been ranked as one of the [fastest-growing private software companies](https://about.gitlab.com/blog/2018/08/16/gitlab-ranked-44-on-inc-5000-list/). Headcount has nearly doubled in the last year and we have plans to [continue to grow](https://about.gitlab.com/company/strategy/). As we scale, there will be more and more changes to how we operate as an organization. New technology will be introduced to make us more efficient; new processes will be introduced to improve transparency; functional groups will be redesigned and adjusted to meet our growing headcount and strategic objectives; job families will change and policies in the handbook will be altered that have a big impact on how we operate. 
+GitLab is growing fast and we have been ranked as one of the [fastest-growing private software companies](https://about.gitlab.com/blog/2018/08/16/gitlab-ranked-44-on-inc-5000-list/). Headcount has nearly doubled in the last year and we have plans to [continue to grow](https://about.gitlab.com/company/strategy/). As we scale, there will be more and more changes to how we operate as an organization. New technology will be introduced to make us more efficient, new processes will be introduced to improve transparency, functional groups will be redesigned and adjusted to meet our growing headcount and strategic objectives, job families will change and policies in the handbook will be altered that have a big impact on how we operate. 
 
 As we evolve, there is a need to implement a organizational change management (OCM) process and methodology to ensure impacted team members receive the awareness, leadership, coaching, and training they need to change successfully. This handbook page will walk through a step-by-step approach to OCM at GitLab. People leaders and individual contributors can use this page when organizing an organizational change management process and campaign. 
 
@@ -66,7 +66,7 @@ When developing the agile change plan, there are a few important components to c
 
 ### Step 2 - Assess the impact
 
-Before rolling out the change, consider measuring the impact. Depending on the severity, it is important to understand the current state before communicating the future state. Document the impacts of your agile change plan. It’s important to consider all of the potential impacts to mitigate disruptions to team member’s day-to-day work. Some key questions to answer when assessing the impact of the change: 
+Before rolling out the change, consider measuring the impact. Depending on the severity, it is important to understand the current state before communicating the future state. Document the impacts in your agile change plan. It’s important to consider all of the potential impacts to mitigate disruptions to team member’s day-to-day work. Some key questions to answer when assessing the impact of the change: 
 
 - What’s the history behind this transformation?
 - Has GitLab tried to do this before?
@@ -80,13 +80,13 @@ Before rolling out the change, consider measuring the impact. Depending on the s
 
 With any major change, it is essential to identify which groups within the organization that will be impacted. In this step, we can determine who will be impacted and identify mitigation strategies to ensure minimal disruption to their day-to-day work. 
 
-After you have completed the impact assessment, you can determine which groups of people in the organization will be impacted the most by the change. For example, 360 reviews will require significant manager time and dedication. Managers are the most impacted by the reviews, especially if they have a high number of team members. When rolling out the 360 reviews, managers should be the target audience to cascade information down to their teams. 
+After you have completed the impact assessment, you can determine which groups of people in the organization will be impacted the most by the change. For example, 360 reviews will require significant manager time and dedication. Managers are the most impacted by the reviews, especially if they have a high number of direct reports. When rolling out the 360 reviews, managers should be the target audience to cascade information down to their teams. 
 
 When rolling out a new initiative, consider who in the organization will be the most impacted. 
 
 ### Step 4 - Communicating the change
 
-Once you’ve understood the impacts and who will be most impacted, it is time to start developing a communication plan. Analyzing the team member engagement and impacts can help guide and engage team members through the change program. Communications can be updated per feedback from impacted groups. 
+Once you’ve understood the impacts and who will be most impacted, start developing a communication plan. Analyzing team member engagement and impacts can help guide and engage team members through the change program. Communications can be updated per feedback from impacted groups. 
 
 Focus on delivering the right amount of detail to the right audience, through the right communications channel, and at the right time. We typically rely on slack channels to send organization-wide communications. Leverage the channels that will provide the most impact to ensure leaders and team members can articulate with clarity and purpose of the change project. 
 
@@ -123,9 +123,9 @@ Managers can be more concentrated on making business transitions successful. The
 
 ## Preparing for OCM at GitLab
 
-To prepare for GitLab transformations, it is essential to first define the goal of the organizational transformation, understand why it is critical, and garner support from team members. Then, use the methodology laid out on the page and playbook to begin designing and delivering the OCM process. Ensure the methodology aligns with the goals. Note what challenges may arise and be flexible enough to adjust accordingly. Be sure to celebrate small victories along the way!
+To prepare for GitLab transformations/changes, first, define the goal of the organizational change, understand why it is critical, and garner support from team members. Then, use the OCM methodology laid out on the page to begin designing and delivering the OCM process. Ensure the methodology aligns with the goals. Note what challenges may arise and be flexible enough to adjust accordingly. Be sure to celebrate small victories along the way!
 
-OCM doesn’t stop once you’ve successfully executed the transition. Both throughout and following the OCM process, you need to continuously assess outcomes, measure data, train employees on new methodologies and business practices, and readjust goals as necessary. 
+OCM doesn’t stop once you’ve successfully executed the transition. Both throughout and following the OCM process, you need to continuously assess outcomes, measure data, train employees on new methodologies and business practices, and readjust goals as necessary to increase adoption. 
 
 Please contact the [Learning & Development team](https://about.gitlab.com/handbook/people-group/learning-and-development/) if you would like more of an understanding of OCM and how to apply the methodology to a change/transformation at GitLab! 
 
