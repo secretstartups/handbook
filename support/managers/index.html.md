@@ -156,13 +156,54 @@ Additionally, Sisense data is a secondary source so it can contain errors.
 By being comfortable using ZD Explore, a primary source, we can make sure that we have accurate data and insights.
 
 ### What happens if metrics aren't where they should be?
-If metrics are below a certain threshold (yet to be defined) a manager may call to form a [Metrics Analysis Workgroup](metrics-analysis/index.html). This action
-is unique to Support and is somewhere in-between a [Rapid Action issue](/handbook/engineering/development/#rapid-action-issue) and a [Working Group](/company/team/structure/working-groups/). 
+Each week in the [Support Leadership Meetings](#support-leadership-meeting) we'll review the key metrics.
+
+If any of the follow floors are met, managers should form a group to analyze the cause and suggest actions to correct the trend.
+
+1. Combined First Reply Time (L&R, GitLab SM and GitLab SaaS) at or below 93%
+1. Combined SSAT (L&R, GitLab SM and GitLab SaaS) at or below 93%
+1. Combined NRT (L&R, GitLab SM and GitLab Saas) at or below 83%
+
+This action is unique to Support and is somewhere in-between a [Rapid Action issue](/handbook/engineering/development/#rapid-action-issue) and a [Working Group](/company/team/structure/working-groups/). 
 
 The purpose of the group will be unique to each situation that triggers it, but generally the members will:
 - form testable statements (e.g. _FRT has gone down because a lot of people have taken vacation_)
 - gather and analyze data that falsify those statements (e.g. _After taking a look at PTO data, we can see that we've had a consistent 90% coverage for the period in question, which is consistent with other times in the year_)
 - build a set of recommendations based on the data for how we can achieve consistent results
+- document _how_ they analyzed their hypothesis and include it in the section below
+
+These criteria and actions came from the [Metrics Analysis Workgroup](metrics-analysis/index.html). 
+
+#### FRT is below target
+##### Common causes for FRT below target
+1. Staff availability
+   - PTO -> Look at [GitLab Support - Time Off](https://drive.google.com/drive/u/0/search?q=Gitlab%20Support%20-%20Time%20off)
+   - Position in the world -> Look at [TBD Dashboard](#link-to-dashboard)
+
+##### Specific actions when FRT is below target
+
+If the problem is:
+
+###### Regional handover is causing tickets to be missed 
+
+Actions:
+1. Have engineers spend the last portion of their day sending out replies on New Tickets. Monitor the drop in NRT.
+
+Monitor:
+1. Drop in NRT over the next period.
+
+###### PTO is causing problems with engineer availability
+
+Actions:
+1. Ensure that you're planning for major holidays and organizing coverage before the holiday. 
+
+Monitor: 
+1. Verify that FRT recovers after the holiday period.
+
+#### SSAT is below target
+##### Common causes for SSAT below target
+#### NRT is below target
+##### Common causes for NRT below target
 
 ## Support Engineering Manager READMEs
 
