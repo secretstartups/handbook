@@ -17,11 +17,11 @@ This is the draft version of the Product Development Flow. All changes to this d
 </div>
 </div>
 
-|              |             | 
-| -------------|-------------| 
-| Version      | 1.0         |
-| Release Date | 2020-10-22  |
-| Milesone     | 13.5        |
+|              |            |
+|--------------|------------|
+| Version      | 1.0        |
+| Release Date | 2020-10-22 |
+| Milesone     | 13.5       |
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -54,21 +54,21 @@ Because this page needs to be concise and consistent, please ensure to follow th
 
 > Workflow labels must be applied for each phase that is used to enable tracking and collaboration across teams. 
 
-| Stage (Label) | Track | Responsible | Completion Criteria | Who Transitions Out |
-| ----- | --------- | ------------------- | --------------- | ------------------ |
-| `workflow::validation backlog` | N/A | Product | Item has enough information to enter problem validation. | Product |
-| `workflow::problem validation` | [Validation](#validation-track) | Product, UX Research | Item is validated and defined enough to propose a solution | Product |
-| `workflow::design`  | [Validation](#validation-track) | Product Design | Design work is complete enough for issue to be validated or implemented. Product and Engineering confirm the proposed solution is viable and feasible. | Product Design |
-| `workflow::solution validation`  | [Validation](#validation-track) | Product, Product Design | Product Manager works with Product Designer to validate the solution with users. | Product |
-| `workflow::needs issue review` | [Review](#review-track-optional)(Optional) | Product (Original PM) | Issue needs review by a Peer PM to help issue become more iterative, clearer, and better aligned with GitLab strategy | Product (Reviewer PM)
-| `workflow::issue reviewed` | [Review](#review-track-optional)(Optional) | Product (Reviewer PM) | Issue has been reviewed and is ready to move to Build | Product (Original PM) |
-| `workflow::planning breakdown`  | [Build](#build-track) | Product, Product Design, Engineering | Issue has backend and/or frontend labels and estimated weight attached | Engineering |
-| `workflow::scheduling`  | [Build](#build-track) | Engineering | Issue has a numerical milestone label | Product/Engineering |
-| `workflow::ready for development` | [Build](#build-track) | Engineering | An engineer has started to work on the issue | Engineering |
-| `workflow::In dev` | [Build](#build-track) | Engineering | Initial engineering work is complete and review process has started | Engineering |
-| `workflow::In review` | [Build](#build-track) | Engineering | MR(s) are merged | Engineering |
-| `workflow::verification` | [Build](#build-track) | Engineering | Work is demonstrable on production | Engineering |
-| `workflow::blocked` | N/A | Product/Engineering | Work is no longer blocked | Engineering |
+| Stage (Label)                     | Track                                      | Responsible                          | Completion Criteria                                                                                                                                    | Who Transitions Out   |
+|-----------------------------------|--------------------------------------------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
+| `workflow::validation backlog`    | N/A                                        | Product                              | Item has enough information to enter problem validation.                                                                                               | Product               |
+| `workflow::problem validation`    | [Validation](#validation-track)            | Product, UX Research                 | Item is validated and defined enough to propose a solution                                                                                             | Product               |
+| `workflow::design`                | [Validation](#validation-track)            | Product Design                       | Design work is complete enough for issue to be validated or implemented. Product and Engineering confirm the proposed solution is viable and feasible. | Product Design        |
+| `workflow::solution validation`   | [Validation](#validation-track)            | Product, Product Design              | Product Manager works with Product Designer to validate the solution with users.                                                                       | Product               |
+| `workflow::needs issue review`    | [Review](#review-track-optional)(Optional) | Product (Original PM)                | Issue needs review by a Peer PM to help issue become more iterative, clearer, and better aligned with GitLab strategy                                  | Product (Reviewer PM) |
+| `workflow::issue reviewed`        | [Review](#review-track-optional)(Optional) | Product (Reviewer PM)                | Issue has been reviewed and is ready to move to Build                                                                                                  | Product (Original PM) |
+| `workflow::planning breakdown`    | [Build](#build-track)                      | Product, Product Design, Engineering | Issue has backend and/or frontend labels and estimated weight attached                                                                                 | Engineering           |
+| `workflow::scheduling`            | [Build](#build-track)                      | Engineering                          | Issue has a numerical milestone label                                                                                                                  | Product/Engineering   |
+| `workflow::ready for development` | [Build](#build-track)                      | Engineering                          | An engineer has started to work on the issue                                                                                                           | Engineering           |
+| `workflow::In dev`                | [Build](#build-track)                      | Engineering                          | Initial engineering work is complete and review process has started                                                                                    | Engineering           |
+| `workflow::In review`             | [Build](#build-track)                      | Engineering                          | MR(s) are merged                                                                                                                                       | Engineering           |
+| `workflow::verification`          | [Build](#build-track)                      | Engineering                          | Work is demonstrable on production                                                                                                                     | Engineering           |
+| `workflow::blocked`               | N/A                                        | Product/Engineering                  | Work is no longer blocked                                                                                                                              | Engineering           |
 
 ### Issue descriptions as the SSOT
 <kbd class="required">Required 🔎</kbd>
@@ -315,15 +315,17 @@ The build track is where we plan, develop, and deliver value to our users by bui
 
 ### Build phase 1: Plan
 
+<kbd class="required">Required 🔎</kbd>
+
 Label: `workflow::planning breakdown`
 
 #### Key Participants
 
-| Role |Function|
-|---|---|
-| DRI | TBD |
-| Collaborators | TBD|
-| Informed | TBD |
+| Role                                                           | Function                                                                |
+|----------------------------------------------------------------|-------------------------------------------------------------------------|
+| **DRI:** Product Manager                                       | Responsible for creating MVCs, overall organization and issue breakdown |
+| **Collaborators:** Engineering Manager, Product Designer, SETs | Provide technical insight and define engineering effort                 |
+| **Informed:** Product Marketing Manager, TAMs                  | Early visibility into possible new features                             |
 
 #### Description
 
@@ -332,20 +334,15 @@ broken down into the smallest possible issue(s). Check out [iteration strategies
 
 The outcome of the planning phase are well-defined issues and epics that provide enough context for the engineering team to start development right away. Issues and epics are the single source of truth and should provide all the context necessary. Consider using templates e.g. the [feature proposal template](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/.gitlab/issue_templates/Feature%20proposal.md). 
 
-Teams should clearly define hand off points between [Directly Responsible Individuals (DRI)](/handbook/people-group/directly-responsible-individuals/). A shared understanding of the boundaries of responsibilities among team members allows for setting deliverable expectations.
-
-Keep in mind that different solutions require input from different DRIs. Breaking down solutions is almost always a collaborative and cross-functional activity that involves [Product, Design, Engineering, and Quality](/handbook/product/product-processes/#pm-em-ux-and-set-quad-dris). For example, a solution may require Frontend work, so early involvement of Product Design and Frontend Engineers is key.
+Teams should clearly define hand off points between [Directly Responsible Individuals (DRI)](/handbook/people-group/directly-responsible-individuals/). A shared understanding of the boundaries of responsibilities among team members allows for setting deliverable expectations. Keep in mind that different solutions require input from different DRIs. Breaking down solutions is almost always a collaborative and cross-functional activity that involves [Product, Design, Engineering, and Quality](/handbook/product/product-processes/#pm-em-ux-and-set-quad-dris). For example, a solution may require Frontend work, so early involvement of Product Design and Frontend Engineers is key.
 
 #### Outcomes and Activities
 
-| Outcomes|Activities|
-|---|---|
-| Well-defined issue(s) | [Story mapping](/handbook/engineering/ux/ux-research-training/user-story-mapping/), writing [issue descriptions](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/.gitlab/issue_templates/), setting up [an epic structure](/handbook/product/product-processes/#epics), [weighting issues](https://docs.gitlab.com/ee/user/project/issues/issue_weight.html), [test planning](/handbook/engineering/quality/test-engineering/#test-planning)|
-
-#### Required Activities
-<kbd class="required">Required 🔎</kbd>
-
-**Activity 2** - Each PM must keep issue descriptions up to date. This allows for anyone to quickly review and understand the details of an issue without reading every comment. 
+| Outcomes                       | Activities                                                                                                                                                                                                                                                                     | DRI                      |
+|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| Well-defined issue(s)          | - [Story mapping](/handbook/engineering/ux/ux-research-training/user-story-mapping/)<br>- Set up [an epic structure](/handbook/product/product-processes/#epics) and issues [issue descriptions](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/.gitlab/issue_templates/) | Product Manager          |
+| Groomed and Weighted issue (s) | - [Weighting issues](https://docs.gitlab.com/ee/user/project/issues/issue_weight.html)                                                                                                                                                                                         | Broader Engineering Team |
+| Document Testing Strategy      | - [Quad Planning](/handbook/engineering/quality/quad-planning/) <br>- [Test planning](/handbook/engineering/quality/test-engineering/#test-planning)                                                                                                                           | Test Engineer            |
 
 ### Build phase 2: Develop & Test
 
@@ -398,11 +395,11 @@ Label: TBD
 
 After launch, the Product Manager and Product Designer should pay close attention to product usage data. This starts by ensuring your [AMAU](https://about.gitlab.com/handbook/product/performance-indicators/#action-monthly-active-users-amau) is instrumented and reporting as you expect. From there consider how the feature has impacted [GMAU](https://about.gitlab.com/handbook/product/performance-indicators/#group-monthly-active-users-gmau) and [SMAU](https://about.gitlab.com/handbook/product/performance-indicators/#stage-monthly-active-users-smau). At this point you should also solicit customer feedback to guide follow-on iterative improvements, until success metrics are achieved/exceeded and a decision can be made that the product experience is sufficient. To create a combined and ongoing quantitative and qualitative feedback loop, the following activities are recommended:
 
-| Outcomes|Activities|
-|---|---|
-| Understand Qualitative Feedback | - Continue [Dogfooding process](/handbook/product/product-processes/#dogfooding-process)<br>- Review user feedback in issues<br>- Follow up with TAMs and SALs to gather feedback from interested customers<br>- Setup follow-up calls with customers to gather more specific feedback<br>- Consider running a Category Maturity Scorecard evaluation <br>- Consider running a survey for usability |
-| Measure Quantitative Impact     | - Update any applicable dashboards in Sisense, if necessary work with the data team for more complex reporting <br>- Review AMAU, GMAU, and SMAU dashboards to understand if the new feature or improvement has impacted core metrics<br>- Consider running a Category Maturity Scorecard evaluation                                                |
-| Take Action on Learnings        | - Open new issues or revise existing issues for follow-on iterations and improvements<br>- Ensure you've captured feedback in issues or as updates to your direction pages<br>- If applicable, update your category maturity score and timeline<br>- Share learnings with your group and stage <br>- Consider sharing learnings with the broader team  <br>- Coordinate with your PMM to understand if there are any relevant GTM motions you should consider updating|
+| Outcomes                        | Activities                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Understand Qualitative Feedback | - Continue [Dogfooding process](/handbook/product/product-processes/#dogfooding-process)<br>- Review user feedback in issues<br>- Follow up with TAMs and SALs to gather feedback from interested customers<br>- Setup follow-up calls with customers to gather more specific feedback<br>- Consider running a Category Maturity Scorecard evaluation <br>- Consider running a survey for usability                                                                    |
+| Measure Quantitative Impact     | - Update any applicable dashboards in Sisense, if necessary work with the data team for more complex reporting <br>- Review AMAU, GMAU, and SMAU dashboards to understand if the new feature or improvement has impacted core metrics<br>- Consider running a Category Maturity Scorecard evaluation                                                                                                                                                                   |
+| Take Action on Learnings        | - Open new issues or revise existing issues for follow-on iterations and improvements<br>- Ensure you've captured feedback in issues or as updates to your direction pages<br>- If applicable, update your category maturity score and timeline<br>- Share learnings with your group and stage <br>- Consider sharing learnings with the broader team  <br>- Coordinate with your PMM to understand if there are any relevant GTM motions you should consider updating |
 
 ## Iteration Strategies
 Here are several strategies for breaking features down into tiny changes that can be developed and released iteratively. This process will also help you critically evaluate if every facet of the design is actually necessary. 
