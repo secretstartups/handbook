@@ -67,7 +67,7 @@ Because this page needs to be concise and consistent, please ensure to follow th
 | `workflow::ready for development` | [Build](#build-track) | Engineering | An engineer has started to work on the issue | Engineering |
 | `workflow::In dev` | [Build](#build-track) | Engineering | Initial engineering work is complete and review process has started | Engineering |
 | `workflow::In review` | [Build](#build-track) | Engineering | MR(s) are merged | Engineering |
-| `workflow::verification` | [Build](#build-track) | Engineering | Work is demonstrable on production | Engineering |
+| `workflow::verification` | [Build](#build-track) | Engineering | Change is demonstrable and will be verified | Engineering |
 | `workflow::verification` | [Build](#build-track) | Engineering | Change is demonstrable as working | Engineering |
 | `workflow::production` | [Build](#build-track) | Engineering | Work is available in production but not yet verified to be working as expected in production. | Engineering |
 | `workflow::blocked` | N/A | Product/Engineering | Work is no longer blocked | Engineering |
