@@ -17,27 +17,11 @@ Can't find what you're looking for? Try the main [People Operations page](/handb
 
 Currently, GitLab does not provide additional benefits over and above the mandatory state requirements. [General GitLab benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/#general-benefits) still apply. As part of the [guiding principles](/handbook/total-rewards/benefits/#guiding-principles) this will be reviewed.
 
-## Compulsory Social Security Contributions
+## German Social Security System
 
-GitLab and employee contributions to pension, health insurance, care in old age insurance and unemployment insurance are mandatory, as required by the state system. The payments are calculated each month by payroll and are shown on the employee pay-slips.
+GitLab and team members contributions to pension, health insurance, care in old age insurance and unemployment insurance are mandatory, as required by the state system. The payments are calculated each month by payroll and are shown on the employee pay-slips.
 
-The rates are as follows:
-
-|Type of Insurance | Contribution by GitLab | Contribution by Employee|
-|------------------|------------------------|-------------------------|
-|Pension insurance|          9.3%            |            9.3%         |
-|Unemployment insurance|     1.5%            |            1.5%         |
-|Health insurance|           7.3%            |            8.2%      |
-|Nursing care insurance|     1.275%          |            1.275%       |
-
-**Income Thresholds**
-
-Contributions are due on gross annual income up to a maximum of:
-
-Pension/unemployment insurance: 78,000 EUR (West), 69,600 EUR (East)
-Health/nursing care insurance: 53,100 EUR
-
-Further information can also be found on the [Federal Government website](https://www.bundesregierung.de/Content/DE/Artikel/2017/09/2017-09-27-neue-bemessungsgrenzen-fuer-2018.html).
+Further information can also be found on the [Germany Trade & Invest Website](https://www.gtai.de/gtai-en/invest/investment-guide/employees-and-social-security/the-german-social-security-system-65600).
 
 ## Life Insurance
 
