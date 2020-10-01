@@ -197,7 +197,7 @@ Labels: `workflow::design`
 |---|---|
 | DRI | - Product Designer |
 | Collaborators |  - Product Manager <br> - Engineering team <br> - UX Researcher <br> - Quality Engineering <br> - Tech Writer|
-| Informed | - Stakeholders <br> - Leadership <br> - Impacted teams |
+| TBD |
 
 #### Description
 
