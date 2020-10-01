@@ -119,7 +119,7 @@ Domestic Partner Reimbursements: If the team member is not legally married to th
 
 #### UHC Telehealth
 
-Telehealth services for UHC members can be accessed by signing into [MyUHC](https://www.myuhc.com/) and selecting "Connect with a Doctor Online." Estimated out-of-pocket cost is disclosed on the virtual visit platform. Currently costs related to this service are waived through June 18, 2020.
+Telehealth services for UHC members can be accessed by signing into [MyUHC](https://www.myuhc.com/) and selecting "Connect with a Doctor Online." Estimated out-of-pocket cost is disclosed on the virtual visit platform. Beginning October 1, 2020, telehealth visits not related to COVID-19 will be covered according to your plan benefits. COVID-19 visits have a cost-share of $0 with network providers until the end of the National Public Health Emergency. 
 
 #### UHC Premium Access to Sanvello
 
