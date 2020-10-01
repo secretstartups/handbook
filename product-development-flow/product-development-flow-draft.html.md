@@ -212,7 +212,7 @@ To start the Design phase, the Product Designer or Product Manager applies the `
 | Outcomes|Activities|DRI|
 |---|---|---|
 | Proposed solution(s) identified and documented | - Diverge: explore multiple different approaches as a team.<br> - Converge: identify a small set of options to validate. <br> - Update issue/epic description with proposed solution. <br> - Validate approach with help from stakeholders. <br> - Map user flow and experience. <br> - Draw inspiration from competitive and adjacent offerings. | Product Designer | 
-| Shared understanding in the team of the proposed solution | - Review the proposed solution as a team. <br> - Review with leadership. <br> -[Think Big](/handbook/engineering/ux/thinkbig/) session.| Product Designer | 
+| Shared understanding in the team of the proposed solution | - Review the proposed solution as a team. <br> - Review with leadership. <br> - [Think Big](/handbook/engineering/ux/thinkbig/) session.| Product Designer | 
 | Confidence in the technical feasibility | - Discuss the technical implications with Engineering to ensure that what is being proposed is possible within the desired timeframe. | Product Designer |  
 | Issues updated | - Make sure that issues and epics are up-to-date so we can continue our work efficiently and asynchronously | Product Manager | 
 
