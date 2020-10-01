@@ -22,11 +22,7 @@ See the [Environments sub-page][/handbook/customer-success-demo-systems/environm
 
 ## Demo Readiness
 
-Solutions Architects are occasionally called on at a moments notice to give a demo or join a call to show a prospect or customer specific GitLab functionality. A best practice for being prepared for these demo requests is to have a minimized browser window with various content preloaded into the browser tabs.
-
-We are in the process of building out a catalog of all existing demonstrations to support the [FY21 Q3 OKR - Establish a well maintained demonstration repository](https://gitlab.com/gitlab-com/customer-success/solutions-architecture-leaders/sa-initiatives/-/issues/9).  The demonstration repository project is located [here](https://gitlab.com/gitlab-com/customer-success/demo-catalog).  Please consider contributing your own demos to the project--instructions are indicated in the project README.
-
-While we're continuing to build out the demo catalog, examples of common environments utilized are listed below. Note that accessing some of these links are only enabled for GitLab team-members.  (To-do: port this list to the demo catalog)
+Solutions Architects are occasionally called on at a moments notice to give a demo or join a call to show a prospect or customer specific GitLab functionality. A best practice for being prepared for these demo requests is to have a minimized browser window with various content preloaded into the browser tabs. Examples of common environments utilized are listed below. Note that accessing some of these links are only enabled for GitLab team-members.  (To-do: port this list to the demo catalog)
 
 - The [GitLab Demo Systems](/handbook/customer-success/demo-systems/) provides a catalog of demos and the sandbox infrastructure for performing demos.
 - The [GitLab.org Group level](https://gitlab.com/groups/gitlab-org/-/roadmap) clearly represents GitLab Epics, Roadmaps and cross-project issue views used for planning releases
@@ -42,7 +38,7 @@ While we're continuing to build out the demo catalog, examples of common environ
 
 There are a variety of locations for demo groups and projects today. We are in the process of reviewing and cataloging all existing materials as part of the [FY21 Q3 OKR - Establish a well-maintained demonstration repository](https://gitlab.com/gitlab-com/customer-success/solutions-architecture-leaders/sa-initiatives/-/issues/9).
 
-Today, demo groups and projects are split between several distinct locations:
+Today, demo groups and projects are split between several distinct locations.  We are in the process of building out a [Demo Catalog Project](https://gitlab.com/gitlab-com/customer-success/demo-catalog) to easily search for existing demos.  Please consider contributing to the demo catalog.  Instructions can be found within the project README.  While this is being built out, here are various locations whiere you will find demo groups and projects:
 
 1. [GitLab Demo Portal Catalog Libraries](https://gitlabdemo.com/catalog/libraries) - provides demo scenarios with corresponding videos and project build out on the GitLab demo environment. Some demo projects also have wiki pages with additional resources, such as a link to a slide presentation, demo script, and objection handling.
 1. [GitLab.com](https://gitlab.com) - there are a variety of groups and projects with Content
