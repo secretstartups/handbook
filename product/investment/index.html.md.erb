@@ -33,7 +33,6 @@ The following table provides scores for each of our DevOps stages and a comparis
   <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
     <% next if !stage.marketing %>
     <% totalScore += stage.usage_driver_score.to_i + stage.revenue_driver_score.to_i + stage.sam_driver_score.to_i %>
-    <% totalDevelopers += stage.total_developers %>
   <% end %>
 <% end %>
 <% data.sections.each do |sectionKey, section| %>
