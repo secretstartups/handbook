@@ -83,6 +83,7 @@ Video of how this works tbd.
 1. Only lead records from authorized sources -- meaning sources have legally obtained lead record data-- will be flagged as `Opted-in`. **No exceptions**
      - Pulling list of names out of LinkedIn and importing the records into SFDC **does not** qualify as compliant. In EMEA these lists *will not* be uploaded
      - Field events that have not gained consent from the attendees that their name will be shared **are not** compliant.
+     - Agreements to be contacted must explicitly state the individual has `opted-in` to receive communication and cannot leave room for nuance
      - Getting someone's name and/or business card from a meetup **does not** qualify as compliant.
 1. Remove all [embargoed country](https://about.gitlab.com/handbook/people-group/code-of-conduct/#trade-compliance-exportimport-control) records. 
 1. `Washington DC` is a `State` value and is not to be split up between `City` `State`. 
@@ -153,9 +154,9 @@ In order to assure proper attribution of `MQL Scoring` and `Last Interesting Mom
 1. After all steps of the needed `Smart Campaigns` have ran, including the often automated `Program Status: Registered -> No Show`, turn off the activated `Smart Campaigns` by "unscheduling" them
 1. Check the `Loading Errors` smart list for any potential lead loading errors. 
      - Check the `Person Details` on any leads that show up on the smart list and correct the error. If Marketo indicates a `duplicate`, change the name on the lead by adding random but easily identifiable characters to the last name and manually force the lead to sync with SFDC. Find the lead in SFDC and merge it with the pre-existing duplicate. If there is a differing `email address` between the records, add the new `email address` as a secondary email. Add to SFDC campaign with the appropriate `Campaign Member Status`, if necessary
-1. Once the Marketo --> Salesforce sync has completed, use the `[Upload checking template - do not erase](https://gitlab.my.salesforce.com/00Q?fcf=00B4M000004tTvd)` lead view to check data has been applied correctly, scoring has occurred and leads have routed. Note that routing will only occur if the adequate `MQL Score` has been met. Plug the `campaign tag`, or Marketo program name, into the lead view's `campaign name` field to view leads as a list
+1. Once the Marketo --> Salesforce sync has completed, use the [Upload checking template - do not erase](https://gitlab.my.salesforce.com/00Q?fcf=00B4M000004tTvd) lead view to check data has been applied correctly, scoring has occurred and leads have routed. Note that routing will only occur if the adequate `MQL Score` has been met. Plug the `campaign tag`, or Marketo program name, into the lead view's `campaign name` field to view leads as a list
 1. Ensure the number of leads present in the Salesforce campaign matches the total number of leads from the original spreadsheet
-1. Use the `[Campaign Type and Progression Status](https://about.gitlab.com/handbook/marketing/marketing-operations/#campaign-type--progression-status)` page of the handbook and label the appropriate `Successful` leads with `Bizible Touchpoints`
+1. Use the [Campaign Type and Progression Status](https://about.gitlab.com/handbook/marketing/marketing-operations/#campaign-type--progression-status) page of the handbook and label the appropriate `Successful` leads with `Bizible Touchpoints`
 1. Announce the upload in either the `event_list_upload` or `pub-sector-isr` Slack channels, depending on the campaign's intended `Sub-Region`. Include `Region` labels for private sector posts 
 1. After verified completion of all tasks, remove ~"List Upload: Ready" label and notify in the issue of upload completion. Add ~"Lead Data::Active" label. Adjust the "MktgOps" label and apply a milestone
 1. Close list upload issue 
