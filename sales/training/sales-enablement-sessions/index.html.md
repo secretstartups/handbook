@@ -22,7 +22,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC                                                                    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-|  Oct 1 | Leveraging the GitLab/VMware Alliance                                    | Amy Brandenburg, Sales (TBD)                    |
 |  Oct 8 | Deal Structure Best Practices                                            | Jesse Rabbits, Sales (TBD)                      |
 | Oct 15 | Proof Points & Analyst Resources Update                                  | Colin Fletcher, Sales (TBD)                     |
 | Oct 22 | No sessions during last two weeks of a quarter                           | N/A                                             |                                   
@@ -32,6 +31,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2020.10.01 | **[Leveraging the GitLab/VMware Alliance](https://youtu.be/unpgyIR9yH0)**      | Private
 | 2020-09-24 | **[Q3 FY21 Competitive Update](https://youtu.be/fOeLdLwAgOI)**                 | Private |
 | 2020-09-10 | **[Accelerating Your Pipeline with AWS](https://youtu.be/iPDPtOUuNls)**            | Private |
 | 2020-09-03 | **[GitLab Standard ROI Models](https://youtu.be/znCrnpTDRoE)** | Public |   
