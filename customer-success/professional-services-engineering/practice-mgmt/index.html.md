@@ -123,7 +123,7 @@ The Practice Manager follows these steps to request creation of a new SKU.
 
 ### How to retire a service SKU
 
-Retirement of SKUs for PS offerings is requested by the PS Practice Manager. To request retirement of a SKU, the Practice Manager follows the basic steps as are used for creating a SKU to gain the appropriate approvals, including using the same issue template.
+Retirement of SKUs for PS offerings is requested by the PS Practice Manager. To request retirement of a SKU, the Practice Manager follows the same basic steps used for creating a SKU to gain the appropriate approvals, including using the same issue template.
 
 ### How to edit a Professional Services product page
 
