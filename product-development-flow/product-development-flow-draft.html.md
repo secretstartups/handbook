@@ -192,15 +192,39 @@ To run the problem validation process:
 
 Labels: `workflow::design`
 
+#### Key Participants
+
+| Role |Function|
+|---|---|
+| DRI | - Product Designer |
+| Collaborators |  - Product Manager <br> - Engineering team <br> - UX Researcher <br> - Quality Engineering <br> - Tech Writer|
+| TBD |
+
+#### Description
+
+After understanding and validating the problem, we can begin/continue to ideate potential solutions through a [diverge/converge](http://web.stanford.edu/~rldavis/educ236/readings/doet/text/ch06_excerpt.html) process. 
+
+The Product Designer leads the team (Product Manager, Engineering, UX Researcher, Quality Engineering, and Tech Writers, as needed, depending on the item) in ideating potential solutions and exploring different approaches (diverge) before converging on a single solution. Product Managers and Engineers evaluate solutions by determining if they meet customer and business goals, and are technically feasible. The team is encouraged to engage with stakeholders to determine potential flaws, missed use cases, and if the solution has the intended customer impact. After the team converges on the proposed solution or identifies a small set of options to validate, the issue moves into the Solution Validation phase.  
+
+To start the Design phase, the Product Designer or Product Manager applies the `workflow::design` label to an existing issue or, if needed, creates a new issue with this label.
+
+#### Outcomes and Activities
+
+| Outcomes|Activities|DRI|
+|---|---|---|
+| Proposed solution(s) identified and documented | - Diverge: explore multiple different approaches as a team.<br> - Converge: identify a small set of options to validate. <br> - Update issue/epic description with proposed solution. <br> - Validate approach with help from stakeholders. <br> - Map user flow and experience. <br> - Draw inspiration from competitive and adjacent offerings. | Product Designer | 
+| Shared understanding in the team of the proposed solution | - Review the proposed solution as a team. <br> - Review with leadership. <br> - [Think Big](/handbook/engineering/ux/thinkbig/) session.| Product Designer | 
+| Confidence in the technical feasibility | - Discuss the technical implications with Engineering to ensure that what is being proposed is possible within the desired timeframe. | Product Designer |  
+| Issues updated | - Make sure that issues and epics are up-to-date so we can continue our work efficiently and asynchronously | Product Manager | 
+
+
+#### Required Outcomes 
 <kbd class="required">Required 🔎</kbd>
 
-> The product designer must provide a technically feasible design which solves the validated problem.
- 
-
-1. Product Designer or Product Manager applies the `workflow::design` label to an existing issue or creates a new issue, if needed. 
-1. Product Designer leads the team in ideating about potential solutions and engages the PM and Engineers to determine whether the proposed solution meets business goals and is technically feasible. 
-1. Product Designer, Product Manager and Engineering Team evaluate potential customer impact of proposed solution.
-1. Once the PM, Engineers, and Product Designer choose a direction, then the issue moves into the Solution Validation phase.
+- **Proposed solution(s) identified and documented** - Through various activities the Product Designer works with the Product Manager and Engineering team to explore solutions and identifies the approach(es) that strike the best balance of user experience, customer value, business value, and development cost. <br> 
+- **Shared understanding in the team of the proposed solution** - The Product Designer leads the broader team through a review of the proposed solution(s) to ensure that everyone has a chance to contribute, ask questions, raise concerns, and suggest alternatives. <br> 
+- **Updated issues/epic descriptions** - The Product Manager and Product Designer make sure that issues and epics are up-to-date with designs and specifics on the implementation so we can continue our work efficiently and asynchronously. <br>
+- **Confidence in the technical feasibility** - It is important that Engineering understands the technical feasibility of the solution(s) in order to avoid rework or significant changes when we start the build phase. 
 
 ### Validation phase 4: Solution Validation
 
