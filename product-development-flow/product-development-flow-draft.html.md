@@ -348,25 +348,36 @@ For user-facing deliverables, Product Designers work with Engineering to validat
 
 ### Build phase 2: Develop & Test
 
-Labels: `workflow::ready for development`, `workflow::In dev` (along with `workflow::ready for review` as queue state while waiting for maintainer), `workflow::In review`, `workflow::blocked`, `workflow::verification` (sub-states for verification are `workflow::canary` and `workflow::staging`)
+Labels: `workflow::ready for development`, `workflow::In dev` (along with `workflow::ready for review` as queue state while waiting for maintainer), `workflow::In review`, `workflow::blocked`, `workflow::verification` (sub-states for verification are `workflow::canary` and `workflow::staging`) `Deliverable`.
 
 <kbd class="required">Required 🔎</kbd>
 
-> TBD 
+#### Key Participants
+| Role                                                       | Function                                                        |
+|------------------------------------------------------------|-----------------------------------------------------------------|
+| DRI: Engineering Manager                                   | Responsible for implementation                                  |
+| Collaborators: Product Manager, Quality, Technical writing | Plan what gets build. Quality defines test plans                |
+| Informed: Product Marketing                                | Create promptional material and decide on Release Post priority |
 
-The develop and test phase is where we build the features and test them before launch:
+#### Description
 
-1. Engineering teams move items into `workflow::ready for development` and apply the deliverable as they commit to them, in alignment with the PM.
-1. PM works with engineering to ensure product instrumentation and dashboarding requirements are clear for implementation.
-1. When the milestone arrives, engineering teams execute on the scheduled work. Acceptance criteria as set forth in the issues must be met before a feature is deemed complete.
-1. Engineering team member(s) executing on the issue evaluates customer impact, confirming existing data against defined solution.
-    - An example would be the introduction of new limits and their impact on existing customer data and workflows.
-1. In parallel with development, the PM creates release post content, collaborating with Product Marketing Manager (PMM) on messaging and positioning
-1. Work deemed out of scope or incomplete by engineering is taken back into the plan phase for refinement and rescheduling for completion. The label `workflow::planning breakdown` should be reapplied.
-1. During the launch phase, the delivery team updates the validation labels as it flows through the validation process in staging and canary.
-1. Engineering/quality performs testing to ensure the feature is working as it flows through the environments
-1. PM should also conduct feature-level acceptance testing to ensure that the intended user value was, in fact, delivered.
-1. Documentation should be complete and available before proceeding to the launch phase.
+The develop and test phase is where we build the features, address bugs or technical debt and test the solutions before launching them. The PM is directly responsible for prioritizing **what** should be worked on; however, the engineering manager and software engineers are responsible for the implementation of the feature using [the engineering workflow](https://about.gitlab.com/handbook/engineering/workflow/#basics). Engineering owns [the definition of done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done) and issues are not moved into the next phase until those requirements are met. Please keep in mind that many team members are likely to contribute to a single issue and collaboration is key!
+
+Prioritized issues are moved into `workflow::ready for development` and the `Deliverable` can be applied by the engineering team to signal commitment for a specific milestone. Please refer to additional [workflow labels](https://about.gitlab.com/handbook/engineering/workflow/#workflow-labels) that may be required as part of the process. There are different ways to set up issue boards to provide an overview of issues that pass through this phase. Some teams use Kanban boards (e.g. the [Geo Team's build board](https://gitlab.com/groups/gitlab-org/-/boards/1181257?label_name[]=geo%3A%3Aactive)), others use boards that only list `Deliverables` (EXAMPLE) for a specific release.
+
+Work deemed out of scope or incomplete by engineering is taken back into the [plan phase](#Build-phase-1:-Plan) for refinement and rescheduling for completion.
+
+#### Outcomes and Activities
+
+| 🔎Outcomes              | Activities                                               | DRI                                                      |
+|-------------------------|----------------------------------------------------------|----------------------------------------------------------|
+| Solution is implemented | - Software Development <br> - Merge request reviews <br> | Software engineers                                       |
+| Solution is tested      | - Writing tests, <br> - Acceptance demos                 | Software engineers, Software Engineers in Test (Quality) |
+
+#### Required Outcomes
+
+<kbd class="required">Required 🔎</kbd>
+**Outcome #** - The solution must meet the [definition of done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done)
 
 ### Build phase 3: Launch
 
