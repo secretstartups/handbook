@@ -50,6 +50,7 @@ Per the current [Referral Submission Process](/handbook/hiring/referral-process/
     * **Resume** - *Optional*
     * **Relationship** - `Required`
     * **Location** - `Required`
+        * Add the provided location to the *Location* field on the **Additional Details** tab.
     * **Referral's Email** - `Required`
     * **Work History** - *Optional*
     * **When We Reach Out** - *Optional*
@@ -58,7 +59,7 @@ Per the current [Referral Submission Process](/handbook/hiring/referral-process/
 1. Go to the candidate's profile, click the `Details` tab, and scroll down to the **Source & Responsibility** section.
 1. Hover over **Source** and click the `Pencil` icon, then edit `Who Gets Credit` with the name of the *Referrer* and click `Update Source`.
 1. In the **Make a Note** box, write something similar to the following:
-    * *"Submitting referral on behalf of `REFERRER_NAME` for Req # `XXXX`."*
+    * *"Submitting referral on behalf of `REFERRER_NAME`."*
     * Please be sure to `@-mention` the requisition's *Recruiter*.
 1. Send a email to the referred candidate. Select `Email REFERRAL_NAME` in the right column and select the **Default Referral Confirmation Receipt** email template.
     * Make sure that the email is sent from the `no-reply@gitlab` alias.
