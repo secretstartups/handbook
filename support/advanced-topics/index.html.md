@@ -9,27 +9,27 @@ title: Advanced Support Topics
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-### Support Bootcamps
+### Support Training Modules
 
-We have several bootcamps that support team members can complete to earn an expert credential.
+We have several training modules that Support team members can complete to gain expert skills.
 
-#### Creating a Bootcamp Checklist
+#### Creating a Module Checklist
 
-If a topic has a link to **Docs**, you will need to create and document the learning path as you go. Take a look at the [Geo Checklist](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/Bootcamp%20-%20Geo.md) for a complete example. Replace the link to the **Docs** with a link to the checklist and put a **(WIP)** after your link to let people know that they won't get the expert badge by finishing the list in its current state.
+If a topic has a link to **Docs**, you will need to create and document the learning path as you go. Take a look at the [Geo Checklist](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/Geo.md) for a complete example. Replace the link to the **Docs** with a link to the checklist and put a **(WIP)** after your link to let people know that they won't get the expert badge by finishing the list in its current state.
 
 #### Picking a Topic
 
 Try to pick what the team needs most, thinking back to recent tickets you were not able to answer is usually a good starting point. Inform your manager which one you will be working on, so that they can let you know if there is a different area where the team really needs expertise. Always try to answer tickets on other advanced topics, but when it is time to do some dedicated learning, focus on one area at a time.
 
-#### Earn the Expert badge by completing any of these bootcamps
+#### Earn the Expert badge by completing any of these modules
 
-- [Docker](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/Bootcamp%20-%20Docker.md)
-- [Geo](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/Bootcamp%20-%20Geo.md)
-- [Kubernetes](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/Bootcamp%20-%20Kubernetes.md)
-- [GitLab CI](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/Bootcamp%20-%20CI.md)
-- [GitLab API](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/Bootcamp%20-%20API.md)
-- [LDAP](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/Bootcamp%20-%20LDAP.md)
-- [High Availability](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/Bootcamp%20-%20HA.md)
+- [Docker](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/Docker.md)
+- [Geo](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/Geo.md)
+- [Kubernetes](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/Kubernetes.md)
+- [GitLab CI](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/CI.md)
+- [GitLab API](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/API.md)
+- [LDAP](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/LDAP.md)
+- [High Availability](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/HA.md)
 - [Git LFS Docs](https://docs.gitlab.com/ee/workflow/lfs/manage_large_binaries_with_git_lfs.html)
 - [Migrate from SVN to Git Docs](https://docs.gitlab.com/ee/workflow/importing/migrating_from_svn.html)
 - [GitLab Pages Docs](https://docs.gitlab.com/ee/pages/administration.html)
@@ -44,9 +44,9 @@ A **Deep Dive** is a session is to share knowledge about a particular topic, wit
 
 Some examples of deep dives would be:
 
-- GitLab Geo on Omnibus (building off the [Geo bootcamp](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/Bootcamp%20-%20Geo.md))
+- GitLab Geo on Omnibus (building off the [Geo module](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/Geo.md))
 - ElasticSearch with GitLab (building off [GitLab's ElasticSearch documentation](https://docs.gitlab.com/ee/integration/elasticsearch.html))
-- Configure CI for an advanced use case (e.g., Configuring docker-in-docker, using it to build an image, and then optimizing the Docker image build time by utilizing Docker layer caching) (building off the [CI bootcamp](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/Bootcamp%20-%20CI.md))
+- Configure CI for an advanced use case (e.g., Configuring docker-in-docker, using it to build an image, and then optimizing the Docker image build time by utilizing Docker layer caching) (building off the [CI module](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/CI.md))
 
 #### Goals
 
@@ -103,10 +103,10 @@ To meet [its goal](#goals) of strengthening the product and its training, a deep
 
 The first and most important artifact it'll produce is the link to its recording, made easily accessible.
 
-If it has a [related bootcamp](#earn-the-expert-badge-by-completing-any-of-these-bootcamps), another will be the merge request creating a step to watch the recording.
+If it has a [related modules](#earn-the-expert-badge-by-completing-any-of-these-modules), another will be the merge request creating a step to watch the recording.
 
 At the end of the deep dive, the resulting notes should be moved from the working Google doc to a more permanent location. This will take the form of issues and/or merge requests.  Here are some examples of what they can look like:
 - Issues to create a new feature or file a bug report
 - A merge request to clarify something or add some troubleshooting steps to the docs
 - An issue to add a new documentation section
-- A merge request to update, refine, split, or combine bootcamp(s)
+- A merge request to update, refine, split, or combine module(s)

@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: GDPR Article 15 Requests
+title: Personal Data Requests
 category: Legal
 ---
 
@@ -12,7 +12,7 @@ category: Legal
 
 ## Overview
 
-Use the appropriate workflow on this page when a user is requesting information under GDPR Article 15 either through a Zendesk ticket or via an email to `gdpr-request@gitlab.com` (which forwards to the [GDPR Request Service Desk](https://gitlab.com/gitlab-com/gdpr-request/issues/service_desk)). **These requests must be filled within 30 days.**
+Use the appropriate workflow on this page when a user is requesting information under GDPR Article 15, CCPA, or for other reasons either through a Zendesk ticket or via an email to `gdpr-request@gitlab.com` or `personal-data-request@gitlab.com` (both of which forwards to the [GDPR Request Service Desk](https://gitlab.com/gitlab-com/gdpr-request/issues/service_desk)). **These requests must be filled within 30 days.**
 
 The request may look something like:
 
@@ -38,13 +38,13 @@ When a request is received through Zendesk as a ticket, do the following:
 
 1. Apply the [**Account::GDPR Article 15 - GitLab.com**](https://gitlab.zendesk.com/agent/admin/macros/360027176693) macro and mark the ticket as solved.
 
-This macro will simply advise the user as follows and close the ticket:This will simply advise the user to email `gdpr-request@gitlab.com` in order to have their request processed.
+This macro will simply advise the user as follows and close the ticket:This will simply advise the user to email `personal-data-request@gitlab.com` in order to have their request processed.
 
 The request will then be serviced when received in the [GDPR Request Service Desk](https://gitlab.com/gitlab-com/gdpr-request/issues/service_desk) (process detailed below).
 
 ### Requests received through the GDPR Request Service Desk (`gdpr-request@gitlab.com`)
 
-When a user emails `gdpr-request@gitlab.com` an issue is automatically created in the [gdpr-request issue tracker](https://gitlab.com/gitlab-com/gdpr-request/issues) via the [Service Desk](https://docs.gitlab.com/ee/user/project/service_desk.html) feature, meaning comments made on the issue will be emailed to the submitter.
+When a user emails `gdpr-request@gitlab.com` or `personal-data-request` an issue is automatically created in the [gdpr-request issue tracker](https://gitlab.com/gitlab-com/gdpr-request/issues) via the [Service Desk](https://docs.gitlab.com/ee/user/project/service_desk.html) feature, meaning comments made on the issue will be emailed to the submitter.
 
 When a request is received in this manner, do the following:
 

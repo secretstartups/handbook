@@ -39,25 +39,25 @@ It's important that you each give enough information about your personal and
 professional background so that the other person can begin to know who you
 are, what's important to you, what's meaningful to you, and how you do work. And
 as you'll see when you look at the
-[template](https://docs.google.com/document/d/17Dj3B0NuAqdyLt_t0qctH80FC8m_gXOIgc5zpV8dj60/edit?usp=sharing)
+[template](https://drive.google.com/drive/u/0/search?q=All%20about%20you%20template%20parent:1af-Yxe0Rem97877PIqiQH0AnxizjbLcE)
 for this meeting, you as the manager have the added responsibility of learning
 specific details about how to work with your team member.
 
 ### Preparing for and Conducting the Meeting
 
-1.  Use the [All About You Template](https://docs.google.com/document/d/17Dj3B0NuAqdyLt_t0qctH80FC8m_gXOIgc5zpV8dj60/edit?usp=sharing)
+1.  Use the [All About You Template](https://drive.google.com/drive/u/0/search?q=All%20about%20you%20template%20parent:1af-Yxe0Rem97877PIqiQH0AnxizjbLcE)
     1.  Copy it to a folder in Google Drive where both of you will have access
     1.  Add the team member's name to the file name (*e.g.* All About Lee Matos)
     1.  Fill in their name inside the file, too, replacing `<Team member>`
 1.  In the calendar invitation, include a link to the new file. Invite the team
     member to fill it out in advance OR to wait for the meeting at which time
     you will take notes in the doc while they tell their story.
-1.  Use your [Support Engineering Manager Readme](https://about.gitlab.com/handbook/engineering/readmes/)
+1.  Use your [Support Engineering Manager Readme](/handbook/engineering/readmes/)
     1.  If your Readme covers your whole story, meaning it answers pretty much
         all the questions in the template, then ask your team member to read it
         in advance.
     1.  Here's an example of one such complete
-        [Readme](https://about.gitlab.com/handbook/engineering/readmes/mike-dunninger/)
+        [Readme](/handbook/engineering/readmes/mike-dunninger/)
 1.  Conduct the Meeting!
     1.  Build trust by being vulnerable - tell your story first. If your Readme
         tells the whole story, you can just ask your team member for any

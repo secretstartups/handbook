@@ -18,7 +18,7 @@ category: Legal
 
 >**Note:** This workflow only applies if the user **has** a paid subscription for GitLab.com.
 
-1. Locate the customer's Salesforce account. The correct string begins with `001` and can be found: under the Zendesk organization[1], linked in the automatic note posted to a Zendesk ticket[2], or in the **Edit** interface of the customer portal[3] ([screenshots](#screenshots) provided below). The URL for the Salesforce account record will look like: `https://gitlab.my.salesforce.com/0014M00001hHV5CQAW`.
+1. Locate the customer's Salesforce account. The correct string begins with `001` and can be found: under the Zendesk organization[1], linked in the automatic note posted to a Zendesk ticket[2], or in the **Edit** interface of the Subscriptions App[3] ([screenshots](#screenshots) provided below). The URL for the Salesforce account record will look like: `https://gitlab.my.salesforce.com/0014M00001hHV5CQAW`.
 
 1. Under the section “Google Docs, Notes, & Attachments”, click "Attach File" and upload the file to the record.
 
@@ -28,7 +28,7 @@ category: Legal
 
 1. ![Salesforce ID in Zendesk organization](assets/dpa_1.png)
 1. ![Salesforce ID in Zendesk ticket note](assets/dpa_2.png)
-1. ![Salesforce ID in customer portal](assets/dpa_3.png)
+1. ![Salesforce ID in Subscriptions App](assets/dpa_3.png)
 
 ### Example Tickets
 

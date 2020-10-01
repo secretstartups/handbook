@@ -17,7 +17,7 @@ title: Support Engineer Responsibilities
 1. The '**What does success look like?**' sections help encourage consistent contributions across our global team. They're not 'hard targets' that must be met. They're to help you know how and where to contribute to succeed in your role.
 1. **Performance measurement for annual reviews and promotions are separate activities to the core responsibilities described here.**
      1. The People Group is responsible for the [GitLab annual review process](/handbook/people-group/360-feedback/).
-     1. Speak to your manager about working towards a promotion and view the [promotion template documents in the Support team drive](https://drive.google.com/drive/folders/1LZ6AkjVv4JW0CiHYTGzyMQdGadyOgDY_) (Internal only).
+     1. Speak to your manager about working towards a promotion and view the [promotion template documents in the Support team drive](https://drive.google.com/drive/search?q=parent:1LZ6AkjVv4JW0CiHYTGzyMQdGadyOgDY_) (Internal only).
 1. Support Engineering has [team level performance indicators](/handbook/support/#how-we-measure-our-performance). Successfully carrying out the responsibilities on this page will, directly or indirectly, help improve our KPIs. All team-level KPIs are, in turn, related to GitLab's company-level [Objectives and Key Results](https://about.gitlab.com/company/okrs/).
 
 ## Support Engineer Areas of Focus
@@ -72,7 +72,7 @@ Our [Support Service Levels](https://about.gitlab.com/support/#gitlab-support-se
 
 ## 3. Join customer calls (Weekly)
 
-See [Customer Calls](https://about.gitlab.com/handbook/support/workflows/customer_calls.html) for our practices and workflows.
+See [Customer Calls](/handbook/support/workflows/customer_calls.html) for our practices and workflows.
 
 Joining [customer calls](https://about.gitlab.com/support/#phone-support) can be an effective way to speed up ticket resolution. You can choose to schedule a customer call when you believe it's the best next step to help solve a ticket.
 
@@ -80,14 +80,14 @@ Joining [customer calls](https://about.gitlab.com/support/#phone-support) can be
 
 We don't currently have a way to make all your contributions to customer calls visible. We're planning to investigate how to do this so you can gauge your contribution and get credit for this valuable work.
 
-The [call summary](https://about.gitlab.com/handbook/support/workflows/customer_calls.html#call-summary) notes you complete as part of the Customer Calls process mean that your work is documented in Zendesk. Highlight any Customer Calls in your 1:1 Meeting Notes with your manager.
+The [call summary](/handbook/support/workflows/customer_calls.html#call-summary) notes you complete as part of the Customer Calls process mean that your work is documented in Zendesk. Highlight any Customer Calls in your 1:1 Meeting Notes with your manager.
 
 ## 4. Participate in on-call rotations to coordinate and resolve emergencies (Occasionally)
 
 The following on-call rotations are staffed by Support Engineers:
 
-1. [Self-managed customer emergency on-call](https://about.gitlab.com/handbook/support/on-call/)
-2. [GitLab.com Communications Manager on Call (CMOC)](https://about.gitlab.com/handbook/support/workflows/cmoc_workflows.html)
+1. [Self-managed customer emergency on-call](/handbook/support/on-call/)
+2. [GitLab.com Communications Manager on Call (CMOC)](/handbook/support/workflows/cmoc_workflows.html)
 
 All Support Engineers participate in one of these rotations - not both, unless you absolutely love being on-call!
 
@@ -128,7 +128,7 @@ Reducing future customer problems is an important part of being a Support Engine
 
 You are encouraged to [update documentation](/handbook/support/workflows/improving-documentation.html) regularly. This helps prevent ticket creation by improving the information available for customers to use in solving problems without contacting us.
 
-[Creating blog posts](https://about.gitlab.com/handbook/marketing/blog/unfiltered/) and other publicly available knowledge that is accessible by search engines is valuable to help prevent ticket creation.
+[Creating blog posts](/handbook/marketing/blog/unfiltered/) and other publicly available knowledge that is accessible by search engines is valuable to help prevent ticket creation.
 
 We [summarize Support team contributions](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues?label_name%5B%5D=support-fix) every week using a bot.
 
@@ -161,8 +161,8 @@ There's no goal for this area. You can see how you're doing by using the 'Handbo
 ## 10. Keep up-to-date on GitLab, and Support
 
 1. Since we ship a **new release each month on the 22nd**, and as we manage to fit a lot of great new features and fixes into each release, it is sometimes difficult for the Support Team to keep up to date with key changes. In general, it is the responsibility of each Support Team member individually to read the release blog post, dig deeper where you need to or want to, and keep yourself up to date with new GitLab versions. To facilitate this further, there is a Retrospective every month (it is listed on the GitLab Team Meetings calendar) that you can join.
-1. We have severel [Support Weekly Meetings](https://about.gitlab.com/handbook/support/#weekly-meetings) that you are encouraged to attend or watch the recording of.
-1. We encourage you to contribute to, and read the [Support Week in Review](https://about.gitlab.com/handbook/support/#support-week-in-review) document every week. This will help you stay up to date on all recent changes and announcements.
+1. We have several [Support Weekly Meetings](/handbook/support/#weekly-meetings) that you are encouraged to attend or watch the recording of.
+1. We encourage you to contribute to, and read the [Support Week in Review](/handbook/support/#support-week-in-review) document every week. This will help you stay up to date on all recent changes and announcements.
 
 **What does success look like?**
 
@@ -170,15 +170,15 @@ There's no goal for this area. The aim is to make sure you are aware of and util
 
 ## 11. Develop your skills through learning and training (Weekly)
 
-We are committed to helping you develop your skills through continuous learning. You can complete [courses and bootcamps in the Support Training project](https://gitlab.com/gitlab-com/support/support-training).
+We are committed to helping you develop your skills through continuous learning. You can complete [modules in the Support Training project](https://gitlab.com/gitlab-com/support/support-training).
 
-The GitLab [Learning and Development team](handbook/people-group/learning-and-development/) provides opportunities for exploration and training.
+The GitLab [Learning and Development team](/handbook/people-group/learning-and-development/) provides opportunities for exploration and training.
 
 Support Engineers are also encouraged to complete courses and certification from external providers. Speak with your manager to plan your learning goals.
 
 **What does success look like?**
 
-1. Aim to complete a course or bootcamp every quarter (3 months). You can see how you're doing using the 'Support Training' [activity link](/handbook/support/managers/support-1-1s.html) in your 1:1 notes. Here's an [example link](https://gitlab.com/gitlab-com/support/support-training/-/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username[]=cynthia). The format is `https://gitlab.com/gitlab-com/support/support-training/-/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username[]=YOUR_USERNAME` (replace `YOUR_USERNAME`)
+1. Aim to complete a modiles every quarter (3 months). You can see how you're doing using the 'Support Training' [activity link](/handbook/support/managers/support-1-1s.html) in your 1:1 notes. Here's an [example link](https://gitlab.com/gitlab-com/support/support-training/-/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username[]=cynthia). The format is `https://gitlab.com/gitlab-com/support/support-training/-/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username[]=YOUR_USERNAME` (replace `YOUR_USERNAME`)
 
 An important focus for the Support Team in 2020 is to [improve our Learning and Training resources](https://gitlab.com/groups/gitlab-com/support/-/epics/49) to help you have a clear route to improving your skills and a better way to make your expertise visible to the team.
 
@@ -192,11 +192,11 @@ There's no goal for this area. If you have ideas of materials you'd like to crea
 
 ## 13. Help with hiring (Occasionally)
 
-We encourage the whole team to help with the [Hiring Process](/handbook/support/managers/hiring.html). If you would like to help in this area, discuss with your manager and start an [Interview Training bootcamp](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#)
+We encourage the whole team to help with the [Hiring Process](/handbook/support/managers/hiring.html). If you would like to help in this area, discuss with your manager and start an [Interview Training modules](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#)
 
 **What does success look like?**
 
-There's no goal for this area. When you've completed the bootcamp:
+There's no goal for this area. When you've completed the training module:
 
 1. Promptly respond to requests from recruiting to grade assessments (everyone)
 1. Complete technical interviews when scheduled with you (after discussion with manager)

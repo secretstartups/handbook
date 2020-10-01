@@ -12,7 +12,7 @@ category: Live Upgrade Assistance
 
 ### Overview
 
-The GitLab support team is here to help. As a part of our [Priority Support](/handbook/support/index.html#priority-support)
+The GitLab support team is here to help. As a part of our [Priority Support](/support/index.html#priority-support)
 we offer Live Upgrade Assistance. That is, we'll host a live screen share
 session to help you through the process and ensure there aren't any surprises.
 
@@ -25,13 +25,17 @@ advance of the production upgrade.
 1. If the customer has a
    [Technical Account Manager (TAM)](/handbook/customer-success/tam/#what-is-a-technical-account-manager-tam),
    they reach out to the TAM with the required information. From there, the TAM
-   creates a [support-team-meta issue using the `Upgrade Assistance Request` issue template](https://gitlab.com/gitlab-com/support/support-team-meta/issues/new?issuable_template=Upgrade%20Assistance%20Request).
+   creates a support-team-meta issue using the [`Upgrade Assistance Request`](https://gitlab.com/gitlab-com/support/support-team-meta/issues/new?issuable_template=Upgrade%20Assistance%20Request) or [`U.S. Federal Upgrade Assistance Request`](https://gitlab.com/gitlab-com/support/support-team-meta/issues/new?issuable_template=U.S.%20Federal%20Upgrade%20Assistance%20Request) issue template. If the customer does not have an assigned TAM, and reaches out
+   to support themselves to schedule, the support engineer should ensure they have provided all necessary information and
+   create this issue.
 1. The current [manager on-call](/handbook/support/on-call/index.html#manager-on-call) will act as a DRI for the issue at this moment.
    That manager should also ping the Support Manager who will be on-call during
    the upgrade window so they can be involved in this process.
 1. The DRIs will locate a Support Engineer to review the current given info
    (upgrade documentation, architecture diagram, etc.). This should occur within
    24 hours of the request's creation.
+   * When locating a Support Engineer to review, consider choosing one in the same 
+     region as the customer and, if possible, the same region as the Support Engineer that will be performing the Live Upgrade Assistance.
    * Should the TAM notice this has not been done, the TAM should escalate the
      issue via the #support_managers slack channel.
 1. The Support Engineer will review the given information. If a ticket does not
@@ -67,8 +71,8 @@ enough time to rollback should it be required.
 #### Can a request for live upgrade assistance be declined?
 
 It is possible for this to occur, especially in situations where the upgrade
-is poorly planned or likely to cause production downtime. We should encourage 
-the user to reschedule the window so we can allow for more time to test out 
+is poorly planned or likely to cause production downtime. We should encourage
+the user to reschedule the window so we can allow for more time to test out
 changes and ensure a smooth upgrade.
 
 In cases where we decline to perform live upgrade assistance, we still

@@ -27,7 +27,7 @@ ______________
     1. Email address
 1. Submit [this form](https://docs.google.com/forms/d/e/1FAIpQLScKgwz-P8wcBpQ-SprEEQDzxHoVyoBlaYqStlP9LsVUvHTTQQ/viewform) on behalf of the user
     FIRST PAGE:
-    1. Email Address: your (support agent/engineer) email address
+    1. Email Address: your (support engineer) email address
     1. What is your role? Partner
     SECOND PAGE:
     1. Your Name: user's name

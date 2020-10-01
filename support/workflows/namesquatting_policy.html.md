@@ -30,6 +30,7 @@ As per the [statement of support](/support/#name-squatting-policy), namespaces m
 Contact Owner:
 
 1. Create a **new Zendesk ticket** with the **namespace owner's email address** (found in admin).
+1. Set the form of the new ticket to **Gitlab.com (SAAS) Account Related Form**.
 1. Apply the **Account::Dormant Namespace::Contact Namespace Owner** macro and mark the ticket as **On-hold**.
 1. Make an internal comment providing a link to the **namespace requesters ticket**.
 
@@ -49,7 +50,7 @@ If the namespace owner makes a response (don’t remove my namespace) follow the
 
 If after one week and there has been no response, apply the **Account::Dormant Namespace::Contact Namespace Owner** macro a second time and mark the ticket as **On-hold**.
 
-After two weeks, the ticket will be **automatically marked as open and an email sent to the assigned agent**.
+After two weeks, the ticket will be **automatically marked as open and an email sent to the assigned engineer**.
 
 If the namespace owner makes no response, follow the [Request successful](#request-successful) steps.
 

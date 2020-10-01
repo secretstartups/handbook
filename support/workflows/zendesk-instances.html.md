@@ -16,7 +16,7 @@ category: Zendesk
 
 Our main GitLab Support Zendesk Instance is the instance where we receive and work on most of our customers' tickets. This instance is accessible to both, GitLab.com and Self-managed users. 
 
-GitLab.com tickets are worked on by our Support Agents and Self-Managed tickets are worked on by our Support Engineers. All of our Support Managers, Support Engineers and Support Agents have access to this instance.
+GitLab.com and Self-Managed tickets are worked on by our Support Engineers. All of our Support Managers and Support Engineers have access to this instance.
 
 Tickets are accessed by different addresses for customers and for Support Agents, where `nnnnnn` is the ticket number:
 

@@ -24,6 +24,26 @@ If reports of slowness are received on GitLab.com, first take a look at the [Git
 
 Check on the [#feed_alerts](https://gitlab.slack.com/messages/C12RCNXK5), [#production](https://gitlab.slack.com/messages/C101F3796), and [#incident-management](https://gitlab.slack.com/messages/CB7P5CJS1) Slack channels to ensure this isn't an outage or infrastructure issue.
 
+### If you notice slowness yourself on GitLab.com
+
+Before you post to #production or make an issue, here are some helpful ways to capture data that help to narrow down the issue(s):
+
+1. Use the [performance bar](https://docs.gitlab.com/ee/administration/monitoring/performance/performance_bar.html) by typing `pb` in your browser window.  Reload the page and grab the information from the server side.  
+1. If using Chrome, open the Chrome developer tools (View > Developer > Developer Tools), reload the page, and look at the Network tab.  This will show all of the requests and times.
+1. If using Firefox, there is a similar network view under Tools > Web Developer > Network which will show requests and timing.
+
+Screenshots from any of these tools will greatly help any engineers looking into the problems.
+
+### Connection Troubleshooting 
+
+If our customer is reporting problems connecting to GitLab.com, we should ask for the following:
+
+1. traceroute gitlab.com
+2. curl http://gitlab.com/cdn-cgi/trace
+3. curl https://gitlab.com/cdn-cgi/trace
+4. curl -svo /dev/null https://gitlab.com
+
+
 ### Reports of File Corruption
 
 A `503` error on a merge request page may also happen if the repository is corrupted. To confirm, a push to a corrupted repository may show the following:
@@ -39,6 +59,7 @@ If the customer is reporting a similar error above, take the following steps to 
 3. Locate the server of the repository by looking at `gitaly-storage-name`.
 4. Search the [GitLab Infrastructure issue tracker](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues) for any related issue.
 5. If an issue is found related to the file server, post the ticket number in the issue so an infrastructure engineer can look into it.
+
 
 ### Workflows
 
@@ -61,7 +82,7 @@ Kibana is not typically used to locate `5XX` errors, but there are times where t
 
 It's recommended to apply a **Negative Filter** to the `gitlab_error.log` and `gitlab_access.log` log files. These two generate a large amount of noise and may not be relevant to your search.
 
-For more detailed information on searching with Kibana see the [Using Kibana](https://about.gitlab.com/handbook/support/workflows/kibana.html) workflow.
+For more detailed information on searching with Kibana see the [Using Kibana](/handbook/support/workflows/kibana.html) workflow.
 
 #### Searching Sentry
 
@@ -86,7 +107,7 @@ At times a search will turn up a Sentry issue that appears to reference the info
 
 You can then click a specific event to view the Sentry issue for that user.
 
-See the [Sentry guide](https://docs.getsentry.com/hosted/learn/search/) and [this presentation](https://docs.google.com/presentation/d/1j1J4NhGQEYBY8la6lCK-N-bw749TbcTSFTD-ANHiels/edit#slide=id.p) (GitLab internal only) for more information.
+See the [Sentry guide](https://docs.getsentry.com/hosted/learn/search/) and [this presentation](https://drive.google.com/drive/u/0/search?q=%22Sentry%22%20parent:1UT1VKASEzvCzWVX9fDLkYhDju35NxiLT) (GitLab internal only) for more information.
 
 #### Searching by Correlation ID
 
@@ -108,14 +129,14 @@ In the following example, the customer is attempting to [change the notification
 Once results have been found in either Kibana or Sentry, do the following.
 
 1. Gather as much information as possible. Make an internal note on the ticket including links to the logs found in either Kibana or Sentry.
-1. Search the [GitLab Community Edition issue tracker](https://gitlab.com/gitlab-org/gitlab-ce) for any duplicate or related issue.
+1. Search the [GitLab issue tracker](https://gitlab.com/gitlab-org/gitlab) for any duplicate or related issue.
 1. Confirm if the issue is known or unknown and proceed accordingly: [Issue is known](#issue-is-known) or [Issue is unknown](#issue-is-unknown).
 
 #### Response
 
 ##### Issue is known
 
-If the issue is known it should have a corresponding issue in the Community Edition issue tracker. If you found an entry in Sentry that has been converted into an issue, you should see the issue number in the header within Sentry:
+If the issue is known it should have a corresponding issue in the GitLab issue tracker. If you found an entry in Sentry that has been converted into an issue, you should see the issue number in the header within Sentry:
 
 ![Sentry linked issue](/images/support/sentry-linked-issue.png)
 
@@ -128,7 +149,7 @@ Then, respond to the user with information about the cause of the issue, provide
 ###### Issues found in Sentry
 {:.no_toc}
 
-1. Convert the issue to a GitLab CE issue by using the "Create GitLab Issue" button on the issue page.
+1. Convert the issue to a GitLab issue by using the "Create GitLab Issue" button on the issue page.
 1. Comment on the issue providing a link to the Zendesk ticket.
 1. Add any additional labels if needed such as `customer`, [priority and severity](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#severity-labels), and the appropriate DevOps stage.
 1. Respond to the user with information about the cause of the issue, provide a link to it, and invite them to subscribe to it for updates.
@@ -137,7 +158,7 @@ Then, respond to the user with information about the cause of the issue, provide
 {:.no_toc}
 
 1. Get a ["short url"](https://www.elastic.co/guide/en/kibana/3.0/sharing-dashboards.html) to the Kibana logs.
-1. Create a new [GitLab CE](https://gitlab.com/gitlab-org/gitlab-ce) issue and be sure to include a link to the Zendesk ticket along with the Kibana logs.
+1. Create a new [GitLab](https://gitlab.com/gitlab-org/gitlab) issue and be sure to include a link to the Zendesk ticket along with the Kibana logs.
 1. Add the `bug` label and any others if needed such as `customer`, [priority and severity](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#severity-labels), and the appropriate DevOps stage.
 1. Respond to the user with information about the cause of the issue, provide a link to it, and invite them to subscribe to it for updates.
 

@@ -21,7 +21,7 @@ Benefits of working on tickets assigned to yourself:
 1.  With one person in charge of each ticket, you can take a consistent approach to resolving the problem, you can explain why and what you're doing, and you won't repeat or contradict an action taken by somebody else on the ticket. This is a much better experience for the user.
 1.  Knowing that you're in charge of a ticket gives you freedom to set and manage user expectations at each step along the way, so the user will know what's going on and who's working on their behalf. Again, this is a user experience enhancement.
 
-When you're "Working on Tickets", you're driving achievement of our KPI of [Support Satisfaction](/handbook/support/#support-satisfaction-ssat) by helping to resolve tickets as quickly and effectively as possible.
+When you're "Working on Tickets", you're driving achievement of our KPI of [Support Satisfaction](/handbook/support/performance-indicators/#support-satisfaction-ssat) by helping to resolve tickets as quickly and effectively as possible.
 
 ### The Process in Action
 
@@ -93,12 +93,13 @@ See the [Working on Tickets Flowchart](#working-on-tickets-flowchart) for a visu
 
 1. Teamwork is really important with this workflow. Be aware of what's happening
    across the board: watch Slack channels for requests from other SEs on their
-   tickets, and check the `.com with SLA` or `SM with SLA` view (depending on
-   your current focus) occasionally for tickets that need some help. To be sure
-   that your suggestions align with the work the assignee has already done,
-   it's best to post an internal note or to pair with them. If you decide to
-   post a public response, be sure that your next steps align with the action
-   plan that the assignee has described on their replies or ticket summary.
+   tickets, and check the `.com with SLA`, `.com Accounts, Groups, Login`, or
+   `SM with SLA` view (depending on your current focus) occasionally for tickets
+   that need some help. To be sure that your suggestions align with the work
+   the assignee has already done, it's best to post an internal note or to pair
+   with them. If you decide to post a public response, be sure that your next
+   steps align with the action plan that the assignee has described on their
+   replies or ticket summary.
 1. When you send the user an update, the normal action is to set the ticket status to `Pending`. We are now waiting for a reply from the user and there is no SLA clock counting.
 1. Occasionally you will send a user a reply letting them know that you're going to follow up with further information. In this case you should set the ticket status to `Open` or `On-hold`. When this happens ZenDesk still removes the SLA. To help ensure we don't forget to follow up, a trigger automatically assigns the ticket to you (if it's not already assigned to someone else) so that you can see it in your view.
 1. For all tickets in which the user is waiting on a response from Support, **always provide an update** on its status and work that has been done. Aim to do this daily, and definitely no less than every four days (the length of the On-hold period).
@@ -121,24 +122,13 @@ See the [Working on Tickets Flowchart](#working-on-tickets-flowchart) for a visu
    replies or ticket summary.
 1. **If I can provide a good response on a new (unassigned) ticket, but I don't
    want to assign to myself, may I?** Every response should be part of a ticket
-   that is assigned to somebody. If the ticket is assigned to someone else,
-   please offer them your suggestion in an internal note. If the ticket is
-   unassigned (new), please assign it to yourself and then send your first
-   response to the ticket requester. And remember, you have a whole team ready
-   to help you drive that ticket to a great resolution, so you're never alone.
-1. **I'm going to be absent, what do I do with my assigned tickets?** If you'll
-   be absent for only a day or two, please ask your users whether they want to
-   wait for your return or work with others in your absence. For those who will
-   wait, place their tickets on hold. For longer absences, please inform your
-   users that your tickets will be reassigned due to your upcoming absence.
-   Then, find someone willing to take over each ticket, and review the tickets
-   with them before reassigning. If you can't find someone to take your ticket,
-   you can 'unassign' by assigning it to a 'group' (e.g. 'Support EMEA',
-   'Support APAC', 'Support AMER'). If the user has specified a preferred
-   region, select the corresponding group. Otherwise, select any group - the
-   ticket will still be visible for all Support Engineers. Be sure in this
-   situation to create a very clear and thorough ticket summary so that the next
-   engineer can come up to speed very quickly.
+   that is assigned to somebody. If the ticket is unassigned (new) and **it's in your region** or all regions, please
+   assign it to yourself and then send your first response to the ticket
+   requester. And remember, you have a whole team ready to help you drive that
+   ticket to a great resolution, so you're never alone.
+1. **I'm going to be absent, what do I do with my assigned tickets?**  Please
+   see the [Support Team Member Time Off page](/handbook/support/support-time-off.html) for a full description of this
+   situation.
 1. **A ticket has diverged into more than one problem. What do I do?** It's recommended to keep tickets focused on a single problem that's clearly described by the ticket Title. If the user asks about another problem, you are encouraged to "**split**" the ticket **by creating a new ticket on behalf of the user**. The new ticket should focus on a single issue and keep the original ticket on the original issue. This helps reduce time to resolution and makes it easier for us to focus on fixing the problem at hand:
     1. Click `+ Add` near the top of the Zendesk screen to create a new ticket
     1. Set the user as the Requester (use the same email address as the original ticket)
@@ -146,7 +136,7 @@ See the [Working on Tickets Flowchart](#working-on-tickets-flowchart) for a visu
     1. Paste or write in the relevant text for the new ticket description
     1. Set the correct ticket form and other meta data from the sidebar
     1. Submit as 'New' if the next action is for GitLab or as 'Pending' if the next action is for the user
-    1. Add a reply on the original ticket, letting the user know that you've split their ticket. (You could also add an internal note with a link to the new ticket you created if that seems helpful.) 
+    1. Add a reply on the original ticket, letting the user know that you've split their ticket. (You could also add an internal note with a link to the new ticket you created if that seems helpful.)
 1. **Can I reassign a ticket to someone else?** There are some situations in which you should look to reassign a ticket:
    1. If you'll be absent, see the FAQ above about reassigning tickets when you'll be absent.
    1. If you've determined that specific expertise outside your own is required to resolve the ticket, your first choice should be to pair with an expert so that you can get the ticket resolved and learn in the process. But if pairing is not reasonable, go ahead and reassign the ticket after discussing it with the other support engineer.  Be sure to send a message to the user informing them that you’ve asked another support engineer with relevant expertise to take over the ticket, and that you’ve reviewed the ticket with that engineer.
@@ -185,7 +175,7 @@ AH2["@"mention your manager in <BR> Slack in the thread <BR> where you requested
 ### I'm working on a ticket, how do I let the team know?
 
 1. If the ticket is unassigned, then:
-   1. Assign the ticket to yourself:
+   1. Assign the ticket to yourself if it's **in your region** or all regions:
       1. This takes it out of the 'Needs assignee' view so other engineers won't waste
          time on it
       1. *NOTE: The SLA clock continues to run!*
@@ -266,10 +256,10 @@ best course of action. You might write something like:
 
 ### I need deeper technical assistance on a non-emergency case - what do I do?
 
-Sometimes, you might require help from senior support engineers, subject matter experts or developers on your tickets. These tickets are most likely either long-running or technically challenging. We encourage [collaboration](https://about.gitlab.com/handbook/values/#collaboration) and you can use the following steps as a general guideline if you are unsure of what to do next:
+Sometimes, you might require help from senior support engineers, subject matter experts or developers on your tickets. These tickets are most likely either long-running or technically challenging. We encourage [collaboration](/handbook/values/#collaboration) and you can use the following steps as a general guideline if you are unsure of what to do next:
 
 1. Start by posting an internal message in the ticket clearly summarizing the problem, the steps that have been taken so far (including the reasoning behind them), the results of those steps, and the current status.
-1. Check the [Support Team Knowledge Areas](https://about.gitlab.com/handbook/support/workflows/knowledge_areas.html) handbook page to see if someone would be able to assist you.
+1. Check the [Support Team Knowledge Areas](/handbook/support/workflows/knowledge_areas.html) handbook page to see if someone would be able to assist you.
 1. Look for assistance in the internal Support Slack channels.
    1. Initiate a crush session or a [pairing session](https://gitlab.com/gitlab-com/support/support-pairing) in the [#support_self-managed](https://gitlab.slack.com/app_redirect?channel=support_self-managed) or [#support_gitlab-com](https://gitlab.slack.com/app_redirect?channel=support_gitlab-com) Slack channels.
    1. If you now have some new ideas to try, make sure you have a clear plan of action and engage with the user.
@@ -300,7 +290,7 @@ Depending on the view you are working on and the form the ticket belongs to, you
 
 ### Copying contents of Slack threads to internal notes
 
-When using Slack to work with others or communicate internally regarding a support ticket, please bear in mind [our chat retention policy](https://about.gitlab.com/handbook/communication/#slack) and the [Communication Guidelines (esp. 9.)](https://about.gitlab.com/handbook/communication/#general-guidelines). It's best for future searches in Zendesk to copy relevant advice, notes, ideas, etc. from Slack to an internal note in Zendesk.
+When using Slack to work with others or communicate internally regarding a support ticket, please bear in mind [our chat retention policy](/handbook/communication/#slack) and the [Communication Guidelines (esp. 9.)](/handbook/communication/#general-guidelines). It's best for future searches in Zendesk to copy relevant advice, notes, ideas, etc. from Slack to an internal note in Zendesk.
 
 ### Understanding SLAs
 
@@ -323,7 +313,7 @@ You should use the On-hold status when it is necessary to do some internal work,
 e.g. reproduce a complex bug, discuss something with developers or wait for a
 session scheduled with a user. When setting the status to On-hold it will be
 automatically assigned to you by the trigger
-[`Automatically assign on-hold ticket to an agent who put it to the on-hold status`](https://gitlab.zendesk.com/agent/admin/triggers/360033242313).
+[`Automatically assign on-hold ticket to the engineer who put it to the on-hold status`](https://gitlab.zendesk.com/agent/admin/triggers/360033242313).
 
 If you think that it should be assigned to someone else (*e.g.* session is
 scheduled for another engineer), feel free to re-assign it. Tickets without an
@@ -332,22 +322,28 @@ assignee will be automatically reopened by the trigger
 Tickets in on-hold status _with_ an assignee will be automatically reopened in 4
 days by the automation
 [`Reopen on-hold tickets after 4 days`](https://gitlab.zendesk.com/agent/admin/automations/360028978393).
-1. If a user's reply is the last one in the ticket, do not set it to the On-hold
-2. status silently due to the same reasons as stated above in the
-[Zendesk SLAs and Breach Alerts](#zendesk-slas-and-breach-alerts)). Instead,
-reply to the ticket while also changing the status.
+
+If a user's reply is the last one in the ticket, do not set it to the On-hold status silently due to the same reasons as stated above in the
+[Zendesk SLAs and Breach Alerts](#zendesk-slas-and-breach-alerts)). Instead reply to the ticket while also changing the status.
 
 ### Merging Tickets
 
 If you're merging two of a user's tickets that are related and it's not 100% obvious to the user, be sure to send a message letting them know why you're merging them. If you don't, it often causes confusion and they open follow-ups asking why it was closed without comment.
 
-Additionally, when [Merging Tickets](https://support.zendesk.com/hc/en-us/articles/203690916-Merging-tickets), leave `Requester can see this comment` **unchecked** in the ticket that's being merged into (the second ticket from the top) in order to maintain the SLA. If the merge comment is made public, Zendesk considers it a response and removes the SLA.
+Additionally, when [Merging Tickets](https://support.zendesk.com/hc/en-us/articles/203690916-Merging-tickets), leave `Requester can see this comment` **unchecked** in the ticket that's being merged into (the second ticket from the top) in order to maintain the SLA. If the merge comment is made public, Zendesk considers it a response and removes the SLA. The ticket that was merged into another ticket is closed while the status of the target ticket is unaffected.
 
 **NOTE:** Any ticket merge is final -- there is no option to undo it.
 
 ### Removing Information From Tickets
 
-We ask users to send us logs and other files that are crucial in helping us solve the problems they are experiencing. If a user requests deletion of information shared in a support ticket, or if we suspect sensitive information was accidentally shared, ask a Support manager to delete the files using the [`Ticket Redaction`](https://www.zendesk.com/apps/support/ticket-redaction/) app. Only Zendesk administrators have access to this app.
+We ask users to send us logs and other files that are crucial in helping us solve the problems they are experiencing. If a user requests deletion of information shared in a support ticket, or if we suspect sensitive information was accidentally shared, ask a Support manager to delete the files using the [`Ticket Redaction`](https://www.zendesk.com/apps/support/ticket-redaction/) app. Only the following Zendesk roles have access to do this:
+
+* Support Staff - Explore
+* Support Staff
+* Support Managers
+* Administrators
+
+You can check which role you are assigned to in your Zendesk user profile. If you are not in any of those groups, please reach out to `@support-operations` or `@supportmanagers` in Slack.
 
 To delete text or attachments from a ticket:
 
@@ -359,7 +355,7 @@ To delete text or attachments from a ticket:
 
 Every now and then, a GitLab team member will forward a support request from a customer, prospective customer, user, etc. These requests then appear as tickets from the team member, instead of from the original requestor. Always reply directly to the original requester, keeping the person who forwarded it in the cc. You will need to manually alter the "Requester" field of the ticket, by clicking on the "(change)" link next to the email address of the apparent requester in the ticket title.
 
-Please see [Requesting Support for Customers](https://about.gitlab.com/handbook/support/internal-support/#requesting-support-for-customers) for more details.
+Please see [Requesting Support for Customers](/handbook/support/internal-support/#requesting-support-for-customers) for more details.
 
 # How to succeed at working on tickets
 
@@ -403,7 +399,7 @@ others with making progress on theirs.
 
 ### Aim
 
-Help encourage an even distribution of 'volume' of ticket work amongst the team. 
+Help encourage an even distribution of 'volume' of ticket work amongst the team.
 
 ### How to do it
 
@@ -413,7 +409,7 @@ That's it! For most people that's all you need to do. Once you've completed onbo
 
 ### Context
 
-Each week we publish the 'mean average per Support Engineer' for solved tickets, public replies and internal notes in the Support Week in Review. 
+Each week we publish the 'mean average per Support Engineer' for solved tickets, public replies and internal notes in the Support Week in Review.
 
 We produce separate reports for [self-managed](https://gitlab.zendesk.com/explore#/pivot-table/connection/10438872/query/31477512) and [.com](https://gitlab.zendesk.com/explore#/pivot-table/connection/10438872/query/31478192) tickets in recognition that the volume of tickets for the two roles is different.
 

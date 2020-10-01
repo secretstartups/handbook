@@ -7,14 +7,11 @@ title: Zendesk Overview
 
 Pages to read for more information:
 
-* [Automations](automations.html)
 * [Organizations](organizations.html)
 * [Schedules](schedules.html)
 * [SLA Policies](slas.html)
 * [Tags](tags.html)
-* [Ticket Forms](ticket_forms.html)
 * [Tickets](tickets.html)
-* [Triggers](triggers.html)
 * [Users](users.html)
 
 ## Macros
@@ -44,6 +41,41 @@ Currently, Zendesk views have some limitations:
 * Only 12 visable views (Default and Shared) will be displayed.
 * Views cannot use criteria that is not "defined", meaning it must be selectable data (text fields will not work, as an example).
 * You can only display up to 8 personal views
+
+## Triggers
+
+Triggers are business rules you define to run immediately after tickets are
+created or updated. They rely on a system of conditions and actions. They will
+not run once a ticket is closed.
+
+Instead of managing these via Zendesk itself, we instead us the
+[Zendesk Triggers](https://gitlab.com/gitlab-com/support/support-ops/zendesk-triggers)
+GitLab project. This allows us to have version-controlled triggers. See the
+project for more details.
+
+## Automations
+Automations happen at set intervals compared to triggers which happen immediately after events. 
+
+All automations run once every hour on all non-closed tickets. They execute, or
+fire, on all tickets where conditions are met. This does not mean they fire at
+the top/bottom of the hour though. They fire sometime during the hour. They
+should all fire during the same time period though
+
+Instead of managing these via Zendesk itself, we instead us the
+[Zendesk Automations](https://gitlab.com/gitlab-com/support/support-ops/zendesk-automations)
+GitLab project. This allows us to have version-controlled automations. See the
+project for more details.
+
+## Ticket Forms and Ticket Fields
+
+Ticket forms are the forms utilized by the user to create tickets (when using
+the web UI). These then translate the responses on the form into ticket
+metadata.
+
+Instead of managing these via Zendesk itself, we instead us the
+[Zendesk Ticket Forms and Fields](https://gitlab.com/gitlab-com/support/support-ops/zendesk-ticket-forms-and-fields )
+GitLab project. This allows us to have version-controlled automations. See the
+project for more details.
 
 ## FAQs
 

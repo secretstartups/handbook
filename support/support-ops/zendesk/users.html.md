@@ -9,13 +9,16 @@ Zendesk users are the people within Zendesk.
 
 ## Groups
 
+* [Finance/Billing](https://gitlab.zendesk.com/groups/360003910679)
 * [General](https://gitlab.zendesk.com/groups/360002757414) (Default Group)
 * [Licensing and refund - Reporting Group Only](https://gitlab.zendesk.com/groups/360001856559)
 * [Professional Services Group](https://gitlab.zendesk.com/groups/360002771760)
+* [Security](https://gitlab.zendesk.com/groups/360003886740)
 * [Support (Not in Use, Do Not Join)](https://gitlab.zendesk.com/groups/21246553)
 * [Support AMER](https://gitlab.zendesk.com/groups/360002038460)
 * [Support APAC](https://gitlab.zendesk.com/groups/360002038360)
 * [Support EMEA](https://gitlab.zendesk.com/groups/360001979440)
+* [Support Ops](https://gitlab.zendesk.com/groups/360004215280)
 
 ## Roles
 
@@ -165,7 +168,7 @@ Zendesk users are the people within Zendesk.
     all
   * May this user view lists of user profiles? Can view all users in your
     account
-  * Can add or modify groups & organizations: true
+  * Can add or modify groups & organizations: false
 * Explore:
   * What can this agent do in Explore? View reports
 * Tools:
@@ -196,7 +199,7 @@ Zendesk users are the people within Zendesk.
     all
   * May this user view lists of user profiles? Can view all users in your
     account
-  * Can add or modify groups & organizations: true
+  * Can add or modify groups & organizations: false
 * Explore:
   * What can this agent do in Explore? Create reports and manage permissions
 * Tools:
@@ -226,7 +229,7 @@ Zendesk users are the people within Zendesk.
     all
   * May this user view lists of user profiles? Can view all users in your
     account
-  * Can add or modify groups & organizations: true
+  * Can add or modify groups & organizations: false
 * Explore:
   * What can this agent do in Explore? View reports
 * Tools:

@@ -5,7 +5,7 @@ title: Support 1:1s
 
 ## Aims and context
 
-At GitLab we have [weekly 1-1s](https://about.gitlab.com/handbook/leadership/1-1/).
+At GitLab we have [weekly 1-1s](/handbook/leadership/1-1/).
 
 The **aim** of this page is to:
 
@@ -93,6 +93,6 @@ All 1:1 notes documents should include similar text and links at the top.
 1. Bug report and feature requests - [Link example](/handbook/support/support-engineer-responsibilities.html#6-create-and-update-issues-for-bugs-and-feature-requests-weekly)
 1. Documentation updates - [Link example](/handbook/support/support-engineer-responsibilities.html#7-improve-documentation-and-publicly-share-knowledge-weekly)
 1. Bug fixes - [Link example](/handbook/support/support-engineer-responsibilities.html#8-fix-gitlab-bugs-and-create-features-occasionally)
-1. Learning and training progress - [Link example](/handbook/support/support-engineer-responsibilities.html#10-develop-your-skills-through-learning-and-training-weekly)
+1. Learning and training progress - [Link example](/handbook/support/support-engineer-responsibilities.html#11-develop-your-skills-through-learning-and-training-weekly)
 1. Customer calls? (Currently no link for this item. Included as a reminder to mention customer calls completed in the last week.)
 1. Interviews? (Currently no link for this item. Included as a reminder to mention interviews completed in the last week.)

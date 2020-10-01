@@ -59,12 +59,40 @@ Whether you’re making a local change, based on the decision criteria above, or
 proposing a global one, it’s important to communicate your plans with the rest
 of the Support Leadership Team.
 
-Remember to [communicate _why_ and not just _what_](https://about.gitlab.com/handbook/values/#say-why-not-just-what).
+### Creating an Issue
+The first step toward making a change is to
+[create an issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Requested%20Change)
+via the
+[support-team-meta project](https://gitlab.com/gitlab-com/support/support-team-meta).
+Using the linked template (Request Change), it will ensure you supply the
+required information (DRI, problem statement, ways to measure success, etc.),
+helping to speed the process along.
+
+### Issues and MRs
+The first step in constructing your change proposal is to create an issue or
+a MR to describe your proposal and invite discussion.
+
+#### Issue
+Until you know what change you are proposing, and so can open a MR, use an
+issue for presenting the problem that you are working to solve and for hosting
+a discussion around that topic. An issue is especially useful during the
+testing phase.
+
+#### MR
+As soon as possible, create the MR(s) to present the actual proposed changes.
+Include at least the following in the MR:
+* The decision and the reasoning behind it (such as data and test results
+  that led to the decision)
+* Summarize the testing, both what tests were run and what the results were
+* Link to the [Message Plan Issue](#the-process-change-rollout-plan)
+
+*NOTE: If there's any part of the proposed changes that cannot be presented through
+a MR, place the information in the issue instead.*
 
 ### Communicating a Local Change
 Even for a change that you’ve determined will be local, inform the leadership
 team. Put it as an “inform” item in the agenda for the next
-[leadership sync meeting](https://about.gitlab.com/handbook/support/managers/#organization-of-support-leadership-meetings).
+[leadership sync meeting](/handbook/support/managers/#organization-of-support-leadership-meetings).
 Why?
 * Someone else might have a suggestion for you
 * Someone else might be interested in what you’re doing
@@ -73,7 +101,7 @@ Why?
 ### Communicating a Global Change Proposal
 Once you’ve determined that your intended change must be global, engage the
 leadership team in a conversation through your issue and through a full agenda
-topic in the [leadership sync meeting](https://about.gitlab.com/handbook/support/managers/#organization-of-support-leadership-meetings):
+topic in the [leadership sync meeting](/handbook/support/managers/#organization-of-support-leadership-meetings):
 * Describe the problem you’re working to solve
 * Let the team know if you are the DRI, or are seeking a DRI
 * Let the team know whether you're proposing a solution based on compelling
@@ -83,16 +111,20 @@ topic in the [leadership sync meeting](https://about.gitlab.com/handbook/support
     * Present potential solutions and discuss which of them will be tried
     * Discuss any likely impacts of the tests
     * Gain general agreement that you can proceed with your tests
-    * If the tests will be large and long running, consider opening an issue for each test and link them all to your issue
+    * If the tests will be large and long running, consider opening an issue for
+      each test and link them all to your issue
   * Otherwise, it's suggested that you:
     * present data both demonstrating the need for the change and supporting the
       solution you've chosen
     * propose your solution via a Merge Request (linked to your issue) and
       invite feedback with a reasonable deadline
-* Describe how you plan to measure the success of the change (not just the tests)
+* Describe how you plan to measure the success of the change (not just the
+  tests)
 
 ### Constructing a Valuable Test Plan
-We make data driven decisions whenever possible. If your proposed change doesn't have any supporting data, you'll run one or more localized trials. Be frugal if there is a cost and always be sensitive to disrupting existing workflows:
+We make data driven decisions whenever possible. If your proposed change doesn't
+have any supporting data, you'll run one or more localized trials. Be frugal if
+there is a cost and always be sensitive to disrupting existing workflows:
   * If you are not confident or comfortable designing a test, work with other
     managers to flesh out ideas.
   * Keep in mind that there's a difference between the scope (local or global)
@@ -107,3 +139,29 @@ We make data driven decisions whenever possible. If your proposed change doesn't
     *  try to run them in parallel with each other to save time
     *  limit your testing to the two or three most likely potential solutions
 
+## Standard Timelines
+For future iterations:
+
+Do we want to have standard timelines for certain steps in a rollout?
+* Initial discussion length
+* Days from rollout start to adoption complete
+Do we want to weigh the impact of changes to ensure that we aren't changing too many complex things at once?
+## Rolling Out a Change
+
+### Roles in Change Management
+During the rollout, use these terms and their provided descriptions to
+communicate clearly about the different roles people can play in the change
+process.
+
+| Role | Description |
+| --- | --- |
+| Champion | Person who will advocate for the change due to their strong interest in, and possible responsibility for, the success of the change. Most of the time champions are managers. |
+| User | Person who use the processes, documents and resources that are being changed. |
+| Impacted Non-User | Person who is not an actual user of the processes, documents and resources that are being changed, yet who will experience changes in the behaviors of the users. <br>*E.g.* Support Engineers may notice managers responding differently to escalations, though they themselves do not need to do anything new. |
+
+### The Process Change Rollout Plan
+When it's time at last to make the change, create a
+[Process Change Rollout Plan issue](https://gitlab.com/gitlab-com/support/managers/change-management/issues/new?issuable_template=support-change-rollout).
+The process change rollout plan template contains instructions to guide you
+through filling in all the appropriate details. And the issue itself then
+describes your full action plan.

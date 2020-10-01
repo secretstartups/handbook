@@ -168,3 +168,16 @@ use the top most SLA based on the list of our SLAs (see below).
 | First reply time | 72h | 72h | 72h| 72h |
 | Next reply time | 72h | 72h | 72h | 72h |
 | Hours of operation | Business hours | Business hours | Business hours | Business hours |
+
+### Missing SLA
+
+* Conditions:
+  * Matches ALL of:
+    * `Tags` contains at least one of `missing_sla_tag`
+* Targets:
+
+| Target | Urgent | High | Normal | Low |
+|--------|:------:|:----:|:------:|:---:|
+| First reply time | 24h | 24h | 24h| 24h |
+| Next reply time | 24h | 24h | 24h | 24h |
+| Hours of operation | Business hours | Business hours | Business hours | Business hours |

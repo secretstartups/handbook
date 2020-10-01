@@ -17,10 +17,11 @@ of detail to show how they are used. Following tags are used in Zendesk views an
 | Tag | Use |
 |-----|-----|
 | bronze, silver, gold | Used for SLAs and views, SaaS focused |
-| prospect | Used for SLAs and views |
+| priority_prospect | Used for SLAs and views, prospect focused |
 | basic*, starter*, premium, ultimate | Used for SLAs and views, SM focused |
-| free_customer, trial, expired, community, hold , former_customer| Used for SLAs and views, Free focused |
+| prospect, free_customer, trial, expired, community, hold , former_customer| Used for SLAs and views, Free focused |
 | asia_pacific , americas__usa , europe__middle_east__africa , all_regions | Used for region specific views |
+| missing_sla_tag | Used for SLAs and views, purpose is for tickets missing other SLA tags |
 
 *Note: Basic and Starter are two different names of same plan.
 

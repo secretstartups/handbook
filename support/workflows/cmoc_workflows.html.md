@@ -11,7 +11,7 @@ category: GitLab.com
 
 ## Introduction
 
-As the [Communications Manager on Call (CMOC)](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) it's your job to be the voice of GitLab during an incident to our users, customers, and stakeholders. To do this you must communicate with them through our status page, [Status.io](https://status.io).
+As the [Communications Manager on Call (CMOC)](/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) it's your job to be the voice of GitLab during an incident to our users, customers, and stakeholders. To do this you must communicate with them through our status page, [Status.io](https://status.io).
 
 The basics of how to create, update, and close incidents in Status.io are covered by their [Incident Overview](https://kb.status.io/incidents/incident-overview/) documentation. However, this document covers how we specifically use Status.io to perform those tasks.
 
@@ -25,22 +25,29 @@ Status.io should be updated whenever we have new information about an active inc
 
 When you enter the situation room, take note of any updates that have been made to Status.io and the time they were made at. Set a timer to remind yourself and stick to the time intervals below unless you make a note of how long it will be until the next status update. For example, if you're in "monitoring" it may be appropriate to specify an hour before the next update.
 
-| Incident Status | S1 Update Frequency | S2 Update Frequency | S3/S4 Update Frequency |
+| Incident Status | severity::1 Update Frequency | severity::2 Update Frequency | severity::3/severity::4 Update Frequency |
 |--|--|
 |Investigating| 10m | 15m | 15m |
-| Identified | 10m | 15m | 30m |
+| Identified | 10m | 30m | 30m |
 | Monitoring | 30m | 60m | 60m |
 | Resolved | No further updates required |
 
-There might be no material updates to report. In that case, say something so that people know we care and are working on it.
+#### What to do if you don't know what to say
+- Provide a generic update based on the best information you have:
+   - _We're seeing elevated error rates on GitLab.com, investigation is underway in: link_
+   - _Some users are reporting connection issues to GitLab.com, we're working on it in: link_
+- Craft a draft of what you think is correct. Whenever possible use ["I intend to..." language](https://www.youtube.com/watch?v=7KnPjakwqeI) when communicating with the IMOC and EOCs:
+   - _@IMOC - I'm going to post: "We've isolated the network problem to the APAC region and are working with Cloudflare support to get it resolved_.
+   - _In my next update I'm going to move the status to "monitoring"_ 
+- Bias to action - you can post another update if there was an error in your last update.
 
-Below are a few example messages:
+- If there are no material updates to report, say something so that people know we care and are working on it. Below are a few example messages:
+   1. No material updates to report. We're discussing if we should restore from backup or let the replica catch up first but we have not made a decision.
+   1. No material updates to report. We tried starting the Gitaly servers but we're still missing connectivity.
+   1. No material updates to report. We are doing a handover to a new CMOC since the current CMOC has been at it for three hours straight.
+   1. No material updates to report. We would like to thank Google for the #hugops tweet we received. LINK
 
-1. No material updates to report. Here is a screenshot of the video call our engineers are on to resolve this. PICTURE
-1. No material updates to report. We're discussing if we should restore from backup or let the replica catch up first but we have not made a decision.
-1. No material updates to report. We tried starting the Gitaly servers but we're still missing connectivity.
-1. No material updates to report. We are doing a handover to a new CMOC since the current CMOC has been at it for three hours straight.
-1. No material updates to report. We would like to thank Google for the #hugops tweet we received. LINK
+- If you really don't know, it really is okay to ask!
 
 ### EOC vs. IMOC
 
@@ -49,6 +56,10 @@ In later sections of this workflow it's called out that at times you should be a
 ### Reviewing Past Incidents
 
 Keep in mind that you can always [review past incidents](https://status.gitlab.com/pages/history/5b36dc6502d06804c08349f7) if you need examples or inspiration for how to fill in the details for a current incident.
+
+### Contacting a User
+
+Whether related to an ongoing incident or not, infra or security may ask you to reach out to one or more users if they detect unusual usage. Please follow the [internal requests workflow](internal_requests.html#contact-request) to log the request.
 
 ## The Incident Process
 
@@ -64,9 +75,20 @@ The following sections outline how to perform each of the steps within these sta
 
 The following steps should be taken immediately after receiving a PagerDuty page for an incident.
 
+1. Acknowledge the PagerDuty page.
 1. Join **The Situation Room** Zoom call.
 1. Create the incident in Status.io.
 1. Notify the Community Advocacy team.
+1. Resolve the PagerDuty page.
+
+#### PagerDuty Status
+{:.no_toc}
+- **Triggered** - "An incident exists that requires the attention of a CMOC"
+- **Acknowledged** - "I have seen the page and am on my way to the incident room"
+- **Resolved** - "A tracking issue has been created, the status page has been updated and I am actively engaged in the incident management process"
+
+**NB:** "Resolved" in PagerDuty does not mean the underlying issue has been resolved. 
+
 
 #### 1. Join *The Situation Room*
 
@@ -90,7 +112,7 @@ Change the following values:
 
 `Current State` - In nearly all cases an incident should be created in the `Investigating` state. If it's been communicated to you that we're aware of what is causing the current incident this could be set to `Identified` from the beginning.
 
-`Details` - In keeping with our value of [transparency](https://about.gitlab.com/handbook/values/#transparency), we should go above and beyond for our audience and give them as much information as possible about the incident on its creation. This field should **always** include a link to the incident issue from the [production issue tracker](https://gitlab.com/gitlab-com/gl-infra/production/issues) so that our audience can follow along.
+`Details` - In keeping with our value of [transparency](/handbook/values/#transparency), we should go above and beyond for our audience and give them as much information as possible about the incident on its creation. This field should **always** include a link to the incident issue from the [production issue tracker](https://gitlab.com/gitlab-com/gl-infra/production/issues) so that our audience can follow along.
 
 `Incident Status` - When creating a new incident this will never be `Operational`. The status of an incident depends entirely on its scope and how much of the platform it's impacting.
 
@@ -102,11 +124,11 @@ Change the following values:
 
 #### 3. Notify Community Advocates
 
-The CMOC should make the [Community Advocacy](https://about.gitlab.com/handbook/marketing/community-relations/community-advocacy/) team aware of the incident by mentioning them with the `@advocates` Slack handle in the [#incident-management](https://gitlab.slack.com/archives/CB7P5CJS1) channel if the following conditions are met.
+The CMOC should make the [Community Advocacy](/handbook/marketing/community-relations/community-advocacy/) team aware of the incident by mentioning them with the `@advocates` Slack handle in the [#incident-management](https://gitlab.slack.com/archives/CB7P5CJS1) channel if the following conditions are met.
 
-- The incident is an **S1**
-- The incident is an **S2**
-- The incident is an **S3** or **S4** but you feel that the CA team should know about it anyway
+- The incident is an **severity::1**
+- The incident is an **severity::2**
+- The incident is an **severity::3** or **severity::4** but you feel that the CA team should know about it anyway
 
 ### Stage 2: **Incident Updates**
 
@@ -166,7 +188,7 @@ Before resolving the incident your draft should look similar to the following:
 
 #### Post-Mortem
 
-A review will be conducted by production engineering for every incident that matches a [certain criteria](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#incident-review). Status.io allows us to add a link to a post-mortem after an incident has been resolved which will then be viewable on our status page for that specific incident.
+A review will be conducted by production engineering for every incident that matches a [certain criteria](/handbook/engineering/infrastructure/incident-management/#incident-review). Status.io allows us to add a link to a post-mortem after an incident has been resolved which will then be viewable on our status page for that specific incident.
 
 Do the following to add a post-mortem to a resolved incident:
 
@@ -184,7 +206,7 @@ Do the following to add a post-mortem to a resolved incident:
 
 ### Handover Procedure
 
-At the end of each on-call shift its necessary to inform the next CMOC of any relevant activity that occurred during it or is still ongoing. To perform a handover create an issue in the [CMOC Handover](https://gitlab.com/gitlab-com/support/dotcom/cmoc-handover/issues) issue tracker using the [Handover](https://gitlab.com/gitlab-com/support/dotcom/cmoc-handover/issues/new?issuable_template=Handover) issue template. It's critical to remember that since we [work out in the open](https://about.gitlab.com/blog/2015/08/03/almost-everything-we-do-is-now-open/) by default, the CMOC Handover issue tracker is open to the public. **A handover issue should be made confidential if it must contain any sensitive information.**
+At the end of each on-call shift its necessary to inform the next CMOC of any relevant activity that occurred during it or is still ongoing. To perform a handover create an issue in the [CMOC Handover](https://gitlab.com/gitlab-com/support/dotcom/cmoc-handover/issues) issue tracker using the [Handover](https://gitlab.com/gitlab-com/support/dotcom/cmoc-handover/issues/new?issuable_template=Handover) issue template. Create the handover issue even if nothing happened during your shift, signaling that everything is fine is also useful information. It's critical to remember that since we [work out in the open](https://about.gitlab.com/blog/2015/08/03/almost-everything-we-do-is-now-open/) by default, the CMOC Handover issue tracker is open to the public. **A handover issue should be made confidential if it must contain any sensitive information.**
 
 If handover occurs during an active incident where the quick summary you'd provide in the handover issue is insufficient to properly prepare the incoming CMOC of the situation, you are encouraged to start up a quick Zoom call in the [#support_gitlab-com](https://gitlab.slack.com/archives/C4XFU81LG) Slack channel with the incoming CMOC.
 Slash commands such as the following can be used to expedite getting the meeting setup.

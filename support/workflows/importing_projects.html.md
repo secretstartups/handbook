@@ -13,7 +13,9 @@ This workflow is meant to provide guidance on when GitLab Team members might off
 
 ```mermaid
 graph TD;
-A[Determine Eligibility]-->B[Determine Import Type];
+M[Customer does test imports]
+-->A[Determine Eligibility]
+-->B[Determine Import Type];
 B-->C[Users Mapped];
 B-->D[Users Not Mapped];
 C-->F[Create Admin Account Access Request];
@@ -64,7 +66,7 @@ These are also noted in the `GitLab.com::Import::Determine_Eligibility.json` mac
 
 A GitLab.com admin is required to correctly map users in GitLab, [per our documentation](https://docs.gitlab.com/ee/user/project/settings/import_export.html). Without an admin account, repository commits will have correct user attribution but issues and merge requests will not. We can import a project for a customer if they require this.
 
->**NOTE:** Using an admin account will not be required once [19128](https://gitlab.com/gitlab-org/gitlab/issues/19128) is implemented.
+>**NOTE:** Using an admin account will not be required once [223137](https://gitlab.com/gitlab-org/gitlab/-/issues/223137) is implemented.
 
 #### Other Cases
 
@@ -72,7 +74,9 @@ If you're unsure of whether or not we should perform an import for a specific re
 
 ### Identify Import Errors
 
-We can only offer an import if no validation (not timeout) error is found on a previously attempted import. If the user is getting a version import/export error, ensure that the export originated from a [compatible version of GitLab](https://docs.gitlab.com/ee/user/project/settings/import_export.html#version-history).
+We can only offer an import if no validation (not timeout) error is found on a previously attempted import. Most timeout related imports end up with a partial import with very few or zero issues or merge requests. Where there is a relatively smaller difference (10% or less), then there are most likely errors with those specific issues or merge requests.
+
+Anytime there is an error, ensure that the export originated from a [compatible version of GitLab](https://docs.gitlab.com/ee/user/project/settings/import_export.html#version-history).
 
 >**NOTE:** See the [Diagnose Errors on GitLab.com](/handbook/support/workflows/500_errors.html) workflow for more details on searching Kibana and Sentry.
 
@@ -81,7 +85,11 @@ We can only offer an import if no validation (not timeout) error is found on a p
   - json.controller: `Projects::ImportsController` with error status
 - In Sentry, search/look for: `Projects::ImportService::Error` ; make sure to remove the `is:unresolved` filter.
 
-If there is an error, search for an existing issue. Errors where the metadata is throwing an error and no issue exists, consider creating one from Sentry. If no error is found and the import is partial, most likely it is a timeout issue.
+If there is an error, search for an existing issue. Errors where the metadata is throwing an error and no issue exists, consider creating one from Sentry.
+
+If no error is found and the import is partial, most likely it is a timeout issue.
+
+> **NOTE:** In all cases, the import process is the same except that infra has a longer timeout period. If any validation errors are not worked out ahead of time, these will crop up during the infra import as well.
 
 ### Known Import Issues
 
@@ -95,6 +103,10 @@ Use the `GitLab.com::Import::Determine_Eligibility.json` Zendesk macro to make t
 ## Stage 2: Offering Import & Preparation
 
 Follow the steps for either [Users Mapped](#users-mapped) or [Users Not Mapped](#users-not-mapped) depending on the type of import we're performing. Once the steps in either section are complete, move on to [Stage 3: Import](#stage-3-import).
+
+### Timing and scheduling ahead
+
+When customers request a specific time period for the imports to be done, they should *always* do a test import for each project and make note of how long it takes. It can be approximate, but should give everyone a clear idea of whether it's reasonable to be done within the given time period. Remember that both Support and Infra require additional time in addition to the actual import time, and too short of a time interval might be interrupted by an incident.
 
 ### Users Mapped
 
@@ -115,7 +127,7 @@ In the access request, enter the following in the **Person Details** section.
 - Ticket: <TICKET LINK>
 - Import request: <INFRA ISSUE LINK>
 
-**Note:** This is part of the [project import process](https://about.gitlab.com/handbook/support/workflows/importing_projects.html) for customers.
+**Note:** This is part of the [project import process](/handbook/support/workflows/importing_projects.html) for customers.
 ```
 
 Then, enter the following for the **Account Creation** section.
@@ -168,28 +180,20 @@ Proceed in the following order:
 
 1. Unpack the project export file into a folder: `tar -zxvf filename.tar.gz -C project_export`.
 1. **[USERS MAPPED ONLY!]** Perform one last [Verify User List](#2-verify-user-list) check to ensure no changes have been made.
-1. If the customer shared a one-time download link, upload the export to the [appropriate team's GDrive folder](https://drive.google.com/drive/folders/1RpCb_li2RTYsE8GnVFExCux3QpZ2i0TD) and use the link to this version for the import issue.
+1. If the customer shared a one-time download link, upload the export to the [appropriate team's GDrive folder](https://drive.google.com/drive/search?q=parent:1RpCb_li2RTYsE8GnVFExCux3QpZ2i0TD) and use the link to this version for the import issue.
 1. Delete the export from GDrive once Infrastructure has confirmed that they have a copy (as per the infra import issue).
 1. Delete any local copies of the export.
 
 ### Import Scheduled
 
-If the import is scheduled for a future date and time:
+Note that the expectation from the Reliablity team is 5 business days of lead time to accomodate proper scheduling of the work.
 
-1. [Open an issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/new?issuable_template=import) in the Infrastructure tracker using the `Import` template with all available information.
+1. [Open an issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/new?issuable_template=Project%20Import) in the Infrastructure tracker using the `Project Import` template with all available information. This issue template will auto-assign the Reliability team managers and label the issue for triage.
 1. Add date/time with timezone (~1 hour later than expected time of receiving the import is recommended).
+    - If there is no scheduled time, use 5 business days from date of receipt with "anytime" for time.
 1. Add the infrastructure issue link as an internal note to the Zendesk ticket.
-1. Look up who will be oncall in [the PagerDuty SRE schedule](https://gitlab.pagerduty.com/schedules) and assign it to them.
 1. Once we receive a link to the export, update the issue with the link to the project.
 
-### Import ASAP
-
-If the import is requested as soon as possible:
-
-1. [Open an issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/new?issuable_template=import) in the infrastructure tracker using the `Import` template with all required information.
-1. Use today's date and "at earliest convenience" for the import time. Ping the [EOC](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#engineer-on-call-eoc-responsibilities) on-call in [#production](https://gitlab.slack.com/archives/C101F3796) with the request.
-   - Example: `"Hi @sre-oncall, got an import request. Could you kick this off when you have a few minutes? ISSUE LINK"`
-1. Add the infrastructure issue link as an internal note to the Zendesk ticket.
 
 ## Stage 4: Cleanup
 
@@ -214,6 +218,6 @@ After the import has completed successfully, perform the following steps.
 
 ### Resources
 
-There is a [video recording from 2019-05-22](https://drive.google.com/open?id=1v0LQi0povBlP2RhpsD1drfpux5kFq7Fq) (internal) where the first half is a walkthrough of the process, and the second half talks through troubleshooting issues.
+If it's helpful, there is a [video recording from 2019-05-22](https://drive.google.com/drive/u/0/search?q=2019-05-22_import-session parent:1Yli_1UlO1vrzhCuNN1pdZLRpqbfYQW7Q) (GitLab internal) where the first half is a walkthrough of the process, and the second half talks through troubleshooting issues.
 
 [Time And Date](https://www.timeanddate.com/worldclock/converter.html?iso=20200615T220000&p1=1440) can be used to convert timezones to UTC, useful for when imports are scheduled for a future time.
