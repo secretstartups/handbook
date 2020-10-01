@@ -12,15 +12,15 @@ title: "Recruiting Alignment"
 | Enterprise Sales, EMEA | Debbie Harris |  Corinne Sapolu  |  Kanwal Matharu |
 | Enterprise Sales, APAC | Simon Poon |  Lea Hanopol |  Viren Rana |
 | Commercial Sales,	NA/EMEA | Marcus Carter|  Ashley Jones| Susan Hill  | 
-| Commercial Sales, APAC | Simon Poon | Lea Hanopol | |Viren Rana |
+| Commercial Sales, APAC | Simon Poon | Lea Hanopol | Viren Rana |
 | Channel Sales, NA | Stephanie Sarff |Kalene Godoy |  Kanwal Matharu |
 | Channel Sales, EMEA | Debbie Harris | Corinne Sapolu |  Kanwal Matharu |
-| Channel Sales, APAC | Simon Poon | Lea Hanopol|  Viren Rana |
+| Channel Sales, APAC | Simon Poon | Lea Hanopol | Viren Rana |
 | Field Operations,	NA/EMEA/APAC |  Taharah Nix| Susan Hill   | 
 | Customer Success, NA/SA | Stephanie Garza  | Corinne Sapolu | J.D. Alex | 
 | Customer Success, EMEA | Debbie Harris  | Corinne Sapolu |Kanwal Matharu |
 | Customer Success, APAC | Simon Poon | Lea Hanopol | Viren Rana |
-| Federal Sales, Customer Success, Marketing | Stephanie Garza  |Corinne Sapolu |Ashley Jones| Susan Hill |
+| Federal Sales, Customer Success, Marketing | Stephanie Garza  |Corinne Sapolu/Ashley Jones| Susan Hill |
 | Marketing, North America | Steph Sarff   | Kalene Godoy |J.D. Alex |
 | Marketing, EMEA | Sean Delea   | Corinne Sapolu | Viren Rana |
 | G&A | Maria Gore   | Taharah Nix |Loredana Iluca |
