@@ -195,9 +195,9 @@ To prioritize, the growth groups will use the [ICE framework](https://blog.growt
 
 ### Feature Ownership
 
-The Fulfillment Group is responsible for the maintenance and technical strategy of the Subscriptions App application, the license application, and the billing and licensing experience for both internal and external customers. Fulfillment is also concerned with e-commerce compliance, add-on products, and internal tools for GitLabbers to work more efficiently when helping customers.
+The Fulfillment section is responsible for the maintenance and technical strategy of the Subscriptions App application, the license application, and the billing and licensing experience for both internal and external customers. Fulfillment is also concerned with e-commerce compliance, add-on products, and internal tools for GitLabbers to work more efficiently when helping customers.
 
-Key areas of focus for the Fulfillment Group are:
+Key areas of focus for the Fulfillment section are:
 
 - Payment gateway integration (Stripe, Zuora and other providers where necessary), management, and support.
 - Implementing new Pricing, Plans, and account requirements as directed by the Principal Pricing Manager.
@@ -264,7 +264,7 @@ In alignment with Gitlab's [RADCIE](/handbook/people-group/directly-responsible-
 | Post-Experiment Decision | Growth Product/Engineering |
 | Maintenance | Stage Product/Engineering |
 
-## Fulfillment group
+## Fulfillment section
 
 Responsible for licensing & billing workflows, which have a huge impact on renewal rates, upgrade rates, and customer satisfaction, and represent important levers for the Growth team.
 
