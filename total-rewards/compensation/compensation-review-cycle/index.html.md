@@ -160,16 +160,16 @@ While some GitLab team-members may not receive an increase due to already being 
 
 #### Iterations to Compaas
 
-January 2020 was the first annual compensation review using Compaas. Based on some awesome [feedback](https://gitlab.com/gitlab-com/people-group/Compensation/issues/80) from our GitLab team, we are working to have the following iterations to our process in Compaas before the next cycle. There are certain items that we may not be able to have implemented since any change to Compaas updates their tool for all clients. Where that is the case we will outline that it is a limitation for future reference.
+We have now completed two compensation reviewed utilizing Compaas. Based on some awesome feedback from our GitLab team during [Annual Compensation Review](https://gitlab.com/gitlab-com/people-group/Compensation/issues/80) and [Catch-up Compensation Review](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/173), we are working to have the following iterations to our process in Compaas before the next cycle. There are certain items that we may not be able to have implemented since any change to Compaas updates their tool for all clients. Where that is the case we will outline that it is a limitation for future reference.
 
-* Implement Proxy Access for People Business Partners. Update: Can set them up as an approver of the slates that are relevant to them to give PBPs access / visibilty.
-* Reason behind percentage increases to understand the context behind the min comp increase
-* Ability to see the compensation calculator bands within compaas (they have generated something similar for confirmation letters that we are working on having compaas add directly into the rewards tool).
-* Ability to delete notes as a slate owner
+* Implement Proxy Access for People Business Partners. People Business Partner currently have access to a report, but the goal is to have this access expanded to admin access for their parts of the organization.
+* Fields for recommended performance increase, percent change due to benchmark increases, percent change due to location factor increases.
 * Managers and team members to be able to log in and see where they fall in compensation for Compaas Analytics
 * Approver and slate owner navigation so you don't have to toggle back and forth, but instead everything is in once place. Update: Still on separate slates, but you can see everyone by navigating to "All Employees" tab.
 * Ability to review who has/has not logged in with which ID and which permissions
-* Show promotion/comp change history for managers to have additional context to percent increase
+* Push notification so approvers know when a slate is waiting on their action.
+* Bulk approvals so approvers don't have to go in and approve slates individually.
+* Okta integration. Since the SSO using Google accounts is working, this update isn't prioritized for FY22 Annual Compensation Review.
 * Mobile responsive
 
 #### Communicating Compensation Increases
