@@ -228,57 +228,36 @@ To start the Design phase, the Product Designer or Product Manager applies the `
 
 ### Validation phase 4: Solution Validation
 
-Labels: `workflow::solution validation`
+Label: <code>workflow::solution validation</code>
 
+#### Key Participants
+
+| Role          | Function                     |
+| ---           | ---                          |
+| DRI           | - Product Designer             |
+| Collaborators | - Product Manager <br>- Engineering |
+| Informed      |  - Technical Writing <br>- Quality |
+
+#### Description
+
+After identifying one more potential solutions that meet business needs and are technically feasible, the Product Manager and Product Designer must ensure that we have confidence that the proposed solution will meet the user's needs and expectations. This confidence can be obtained from work performed during the design phase and supplemented with additional research (including user interviews, usability testing, or solution validation). If necessary, this phase will launch a Solution Validation issue within the [GitLab UX Research project](https://gitlab.com/gitlab-org/ux-research) which will walk the team through research to validate their proposed solution(s).
+
+To start the Solution Validation phase, the Product Designer or Product Manager applies the `workflow::solution validation` label to an existing issue.
+
+#### Outcomes and Activities
+
+| 🔎Outcomes | Activities | DRI |
+| ---| --- | --- |
+| High confidence in the proposed solution | - Interview customers. <br> - Interview the issue originator. <br> - Perform usability testing. <br> - Perform the [Solution Validation Process](/handbook/engineering/ux/ux-research/#solution-validation-1). | Product Designer |
+| Solution validation documentation | - Document solution validation findings as [insights in Dovetail](/handbook/engineering/ux/ux-research-training/documenting-research-findings/). <br> - Update the opportunity canvas with the insights. <br> - Update issue or epic description to contain the findings.| Product Designer |
+
+#### Required Outcomes
 <kbd class="required">Required 🔎</kbd>
 
-> TBD 
+**High confidence in the proposed solution** - activities have been performed which demonstrate the jobs to be done outlined within the problem statement can be fulfilled by the proposed solution.
 
-When there are one or more potential solutions that meet business needs and are technically feasible, then it's time to validate that the solution(s) meet our users' needs. As always, you should continually move issues from the backlog into problem and solution validation to ensure that there are validated problems to deliver.
+**Solution validation documentation** - The documentation regarding the validation of the proposed solution has been collected in the appropriate places, and included at an appropriate level within the issue / epic description to maintain a single source of truth.
 
-To run the solution validation process:
-
-1. Product Designer works with the PM to determine whether solution validation is needed. Solution validation is appropriate when we don't have high confidence that the proposed solution will meet users expectations.
-    
-    *Note: Solution validation is only needed after designs or solutions have been proposed. If you lack confidence in a specific direction or if there is a high risk in moving forward without user validation, then continue with these steps. If you are uncertain whether to move forward, reach out to your Product Design Manager.*
-
-1. Product Designer creates a new issue using the `Solution validation` template in the [GitLab UX Research project](https://gitlab.com/gitlab-org/ux-research). The issue will automatically apply the `~"workflow::solution validation"` label. Link the associated Opportunity Canvas and design-related issues. Assign the new issue to yourself, the PM, and the Product Design Manager.
-
-1. PM and Product Designer review the goals and research questions to determine the best [research method](/handbook/engineering/ux/ux-research/#solution-validation) to use.  It's critical to determine this early, because the method dictates what kinds of design assets to use, and it influences criteria for the screening survey.
-
-1. PM and Product Designer discuss user recruitment needs and clarify the research study's goals, research questions, and hypotheses. Once a draft is complete, the Product Design Manager reviews and provides feedback.
-
-1. Product Designer begins crafting a screening survey in Qualtrics. 
-
-    *Note: It's important to complete the screening survey in a timely manner, so that user recruitment can quickly begin. In most cases, user recruitment should begin before the test plan is complete.  Learn more about the [screening process](/handbook/engineering/ux/ux-research-coordination/#how-many-studies-can-a-coordinator-support-per-milestone) to understand what happens once the request is made.*
-
-1. Product Designer creates a `recruitment request` issue in the [GitLab UX Research project](https://gitlab.com/gitlab-org/ux-research) using the available issue template. Assign it to the relevant Research Coordinator.
-
-1. The Research Coordinator will perform a sense check to make sure your screener will catch the people you’ve identified as your target participants. If there are multiple rounds of review, the Coordinator will pause activities until uncertainty about your screening criteria is resolved.
-
-1. Product Designer drafts the test plan in collaboration with the PM. When a first draft of the test plan is complete, the Product Design Manager and UX Researcher review and provide feedback.
-
-1. Product Designer prepares the design assets needed for the study. This will likely be a clickthrough wireframe or prototype (low or high-fidelity screenshots, or an interactive UI prototype). 
-
-    *Note: Design reviews should happen prior to preparing for testing. Make sure solutions are viable and include feedback from PM and Engineering.*
-
-1. Product Designer forwards research study session invites to the UX Research calendar `(gitlab.com_kieqv96j35mpt8bdkcbriu2qbg@group.calendar.google.com)` and any other interested parties (Product Designer, PMs, Engineers, etc).
-
-1. Product Designer leads (moderates) the usability sessions. PM should observe research study sessions and take note of insights and pain points. It is beneficial to also invite Engineers to shadow the research study. This can help the team broadly understand existing user behaviors. *Recommendation: Run a pilot session with an internal participant to test for technical issues, comprehension, and to make adjustments before your sessions with participants.
-
-1. After the research study sessions conclude, the Product Designer updates the `recruitment request` issue in the [GitLab UX Research project](https://gitlab.com/gitlab-org/ux-research). The Research Coordinator will reimburse participants for their time (payment occurs on Tuesdays and Thursdays).
-
-1. PM and Product Designer work collaboratively to synthesize the data and identify trends in Dovetail, resulting in insights.
-
-1. Product Design Manager reviews insights and provides feedback, if needed.
-
-1. Product Designer updates the solution validation issue with links to the insights in Dovetail.
-
-1. PM updates the opportunity canvas with the insights.
-
-1. PM articulates success metrics for each opportunity and ensures a plan for product instrumentation and dashboarding are in place.
-
-At this point, we should have a clear direction on how to move forward. If the solution is validated, then the issue is ready to enter the build track. If the solution was not validated, revisit and make appropriate adjustments.
 
 ## Review track (optional*)
 
