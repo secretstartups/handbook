@@ -272,7 +272,7 @@ To create the contract:
 
 ## Safeguard
 
-GitLab has partnered with [Safeguard](http://www.safeguardworld.com/) to hire in Hungary, South Africa, Switzerland, Ireland, France, Italy, Brazil, Spain, South Korea, Japan. You can also review this [document](https://drive.google.com/file/d/1aUjgb37XO-3LqdW8WF8l-QV2ZcTLBTPj/view?usp=sharing) that Safeguard created regarding frequently asked questions about their process.
+GitLab has partnered with [Safeguard](http://www.safeguardworld.com/) to hire in Switzerland, Ireland, France, Italy, Brazil, Spain, and South Korea. You can also review this [document](https://drive.google.com/file/d/1aUjgb37XO-3LqdW8WF8l-QV2ZcTLBTPj/view?usp=sharing) that Safeguard created regarding frequently asked questions about their process.
 
 To create the contract:
 
@@ -353,6 +353,36 @@ GitLab is working in partnership with [Global Upside](https://globalupside.com) 
     - The CES will upload the PDF of the completed background check to the safe and encrypted portal, Egnyte, in the 'Background Checks' folder under Client Upload.
 
 
+## Remote.com
+
+GitLab has partnered with [Remote.com](https://remote.com/) to hire in South Africa and Mexico. The actual employment contracts will be sent and issued by Remote and are in accordance with local labor law.  The offer details will be provided to Remote by GitLab's hiring team.
+
+To create the contract:
+
+1. Offer is made by the recruiter per the [hiring process](/handbook/hiring).
+1. The Candidate Experience Specialist emails the new team member the Contract Info Request - Remote.com from GreenHouse.
+    -Click “Email CANDIDATE NAME”
+    -Select “Contract Info Request-Remote.com” from dropdown.
+    -CC Recruiter
+    -Click “Send Email”
+1. The Candidate Experience Specialist will check if there is a probationary period.
+    - Go to [Probationary Periods for Team Members Employed by a PEO](/handbook/people-group/contracts-and-international-expansion/#probation-periods-of-team-members-employed-through-a-peo) and check the candidate's country.
+    - Select the duration of the probationary period (if any) in the "Offer Details" dropdown. If there isn't one, select "N/A" in that field.
+1. The Candidate Experience Specialist will check if the contract is indefinite or fixed.
+    - If the contract is indefinite, select "Indefinite" from the dropdown in "Offer Details".
+    - If the contract is fixed, select "Fixed Contract" from the dropdown in "Offer Details" and enter the end date under "End Date".     
+1. The CES will change the signatory to themselves to stage the offer for their signature.
+1. Once the additional information is received, The Candidate Experience Specialist will generate the PEO form out of GreenHouse.
+    -Click “Generate”
+    -Select “PEO New Hire Template” from the dropdown
+    -Click “Generate”
+1. The Candidate Experience Specialist will choose template _Offer through DocuSign -Remote.com_ and will copy globalops@remote.com and mafalda@remote.com on the email.
+1. The Candidate Experience Specialist should add the candidate to the [PEO Tracking Sheet](https://docs.google.com/spreadsheets/d/1gSOVTJ1Yv-YsSaliJwKVf-1H0vBZXxb5NWFiqCwT-uo/edit#gid=0) and keep track of communication between GitLab.
+1. Remote will prepare the New Employee Contract and will inform the Candidate Experience Specialist when the contract is sgined. 
+1. The Candidate Experience Specialist will [mark the candidate as hired](/handbook/hiring/recruiting-framework/coordinator/#send-contract)[](see steps 10-12).
+1. The CES will adjust the 'Accepted' date to match the 'Sent' date.
+
+
 ## Employment Agreements for GitLab team-members in China
 
 GitLab is working in partnership with [CIIC](http://www.ciicsh.com/ciicsh/ywsy/index.html) to employ GitLab team-members located in China. Signed agreements between GitLab and CIIC are required to employ any new hire. Therefore, there will be a lead time of approximately three weeks prior to starting. As soon as it becomes clear that an offer to a candidate is going to be made, People Ops will reach out to CIIC to begin the process. The process for preparing the agreements between all parties is as follows:
@@ -403,46 +433,7 @@ Please note, due to German labor law, the stock options are not included in the 
 
 ## Employment Agreements for GitLab team-members in Japan
 
-In this location, a temporary contract is for 1 year (12 Months) with a pre-deterined end date.
-1. The Candidate Experience Specialist emails the new team member to gather additional details required to generate the contract.
-    - From the GreenHouse profile, under tools, click to email the new team member
-    - From the template drop-down list select: Contract Info Request - Safeguard
-    - Send Email
-1. When the new team member provides the necessary details the Candidate Experience Specialist will save the required forms of ID, update GreenHouse offer details and generates the Safeguard form out of GreenHouse.
-    - Offer Details
-    - Update
-    - Work Authorization ID
-    - Nationality
-    - Country of Citizenship
-    - Level of Role
-    - Position Category
-    - Travel Percentage
-    - Save
-1. Navigate to Offer Documents and Generate
-    - Click in the white space below Select templates
-    - Select Safeguard - Template from the drop-down list
-    - Generate
-1. Send with DocuSign
-    - Template: Offer through DocuSign - Innovare (Japan)
-    - To User: yourself
-    - Add the Innovare contacts to the list of Cc email addresses (If they are not populating automatically you can find their contact details in 1password => People Operations Vault => Entity & Co-employer HR Contacts.)
-    - Fill in the Project Lead contact details with the hiring manager's name and email address
-    - Confirm the Probation Period, Leave Benefits, and Termination Notice are correct
-    - Attachments: Choose Files
-    - Select the saved forms of ID file
-    - Open
-    - Preview on DocuSign
-1. Select the new team member's name in the upper left-hand corner
-    - Edit Recipients
-    - On the new team member's block change Needs to Sign to Receives a Copy
-    - Edit the signing order to yourself 1 and everyone else 2
-    - Done
-1. Add fields to Section 5 of the form if they do not auto-populate: Name, title, email, and date
-    - Send
-1. Do you want to sign this now? Yes
-    - Sign the form
-1. The Candidate Experience Specialist should add the candidate to the [PEO Tracking Sheet](https://docs.google.com/spreadsheets/d/1gSOVTJ1Yv-YsSaliJwKVf-1H0vBZXxb5NWFiqCwT-uo/edit#gid=0) and keep track of communication between GitLab.
-1. Once GitLab receives a signed copy of contract, they will proceed to upload to GH and complete normal steps.
+GitLab has an entity in Japan (GitLab GK) and use the GitLab GK contracts in this location. All team members in this location are employees.
 
 ## Employment Agreements for GitLab team-members located everywhere else (IT BV contractor agreements)
 
