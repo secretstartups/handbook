@@ -402,6 +402,16 @@ These are a few practices you can implement within your team to help all team me
 ### Summary
 The Drexler-Sibbet Team Performance Model is an excellent tool to building and maintaining high performing teams at GitLab. As a Manager, use some of the tactical steps outlined on this page to ensure your team has a common understanding of the direction of the team. Your team will be on its way to building a high performing team!
 
+## Live Learning Session 
+
+During Week 4 of our [Manager Challenge Pilot](/handbook/people-group/learning-and-development/manager-challenge/), we had a course covering Building High Performing Teams. The [slide deck](https://docs.google.com/presentation/d/1qQelNkqtoFoaGgeMldzqCx5voOU4cpUBEBt-kSfjJ_o/edit?usp=sharing) and [meeting agenda](https://docs.google.com/document/d/17Ik6JxuRhldPWnIUGZrJiLc6dentI6_eE7QPABiXyvo/edit?usp=sharing) follow along with the session. 
+
+A recording of the second of two sessions can be found here:
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/aezVF1nOBWc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
 ## Additional Resources
 - Read:[Building and Leading High-Performing Remote Teams](https://www.shrm.org/resourcesandtools/hr-topics/technology/pages/building-leading-high-performing-remote-teams.aspx) - SHRM
 - Read:[What Google Learned From Building the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - NYTimes
