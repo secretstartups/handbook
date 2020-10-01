@@ -196,7 +196,7 @@ Labels: `workflow::design`
 | Role |Function|
 |---|---|
 | DRI | - Product Designer |
-| Collaborators |  - Product Manager <br> - Engineering <br> - UX Researcher <br> - Quality Engineering <br> - Tech Writer|
+| Collaborators |  - Product Manager <br> - Engineering team <br> - UX Researcher <br> - Quality Engineering <br> - Tech Writer|
 | Informed | - Stakeholders <br> - Leadership <br> - Impacted teams |
 
 #### Description
@@ -220,10 +220,10 @@ To start the Design phase, the Product Designer or Product Manager applies the `
 #### Required Outcomes 
 <kbd class="required">Required 🔎</kbd>
 
-- **Proposed solution(s) identified and documented** - tbd. <br> 
-- **Shared understanding in the team of the proposed solution** - tbd <br> 
-- **Updated issues/epic descriptions** - Make sure that issues and epics are up-to-date so we can continue our work efficiently and asynchronously. <br>
-- **Confidence in the technical feasibility** - It is important that we understand the feasibility of the solution with Engineering in order to avoid rework or significant changes when we start the build phase. 
+- **Proposed solution(s) identified and documented** - Through various activities the Product Designer works with the Product Manager and Engineering team to explore solutions and identifies the approach(es) that strike the best balance of user experience, customer value, business value, and development cost. <br> 
+- **Shared understanding in the team of the proposed solution** - The Product Designer leads the broader team through a review of the proposed solution(s) to ensure that everyone has a chance to contribute, ask questions, raise concerns, and suggest alternatives. <br> 
+- **Updated issues/epic descriptions** - The Product Manager and Product Designer make sure that issues and epics are up-to-date with designs and specifics on the implementation so we can continue our work efficiently and asynchronously. <br>
+- **Confidence in the technical feasibility** - It is important that Engineering understands the technical feasibility of the solution(s) in order to avoid rework or significant changes when we start the build phase. 
 
 ### Validation phase 4: Solution Validation
 
