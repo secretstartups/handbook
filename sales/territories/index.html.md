@@ -177,24 +177,27 @@ For other countries outside AMER, governments agencies will be handled by the te
 
 | Sub-Region | Area | **Territory Name** | Sales | SDR |
 | ---------- | ---- | -------------- | ----- | --- |
-| Europe Central | Europe Central | **Large-EMEA-BeNeLux** | Nasser Mohunlol | Shay Fleming |
-| Europe Central | Europe Central | **Large-EMEA-CH/AUS** | Thomas Bosshard | Peter Kunkli |
-| Europe Central | Germany | **Large-EMEA-Germany** | Rene Hoferichter | Gábor Zaparkanszky |
+| Europe Central | Europe Central BeNeLux | **Large-EMEA-BeNeLux** | Nasser Mohunlol | Goran Bijelic |
+| Europe Central | Europe Central | **Large-EMEA-CH/AT** | Rene Hoferichter | Peter Kunkli |
+| Europe Central | Germany | **Large-EMEA-South Germany** | Rene Hoferichter | Christina Souleles |
+| Europe Central | Germany | **Large-EMEA-North Germany** | Christoph Stahl | Peter Kunkli |
 | Europe East | Europe East | **Large-EMEA-Eastern Europe** | Vadim Rusin | Arianna Bellino |
-| Europe South | Europe South | **Large-EMEA-France** | Aleksandar Bosnic | Magali Bressan |
+| Europe South | Europe South | **Large-EMEA-France** | Aleksandar Bosnic | Wiam Aissaoui |
 | Europe South | Europe South | **Large-EMEA-Italy** | Vadim Rusin | Arianna Bellino |
 | Europe South | Europe South | **Large-EMEA-Portugal** | Vadim Rusin | Camilo Villanueva |
 | Europe South | Europe South | **Large-EMEA-Spain** | Vadim Rusin | Camilo Villanueva |
-| UKI | UKI | **Large-EMEA-UKI** | Robbie Byrne | UKI Large^ |
-| MEA | MEA | **Large-EMEA-MEA** | MEA Large Sales^^ | Camilo Villanueva |
 | Nordics | Nordics | **Large-EMEA-Nordics** | Annette Kristensen | Camilo Villanueva |
-|  |  | **Named Accounts** | Justin Haley | Chris Loudon |
-|  |  | **Named Accounts** | Hugh Christey | Magali Bressan |
+| MEA | MEA | **Large-EMEA-MEA** | Phillip Smith | Camilo Villanueva |
+| UKI | UKI | **Large-EMEA-UKI A** | Anja Loether | Chris Loudon |
+| UKI | UKI | **Large-EMEA-UKI B** | Justin Haley | Chris Loudon |
+| UKI | UKI | **Large-EMEA-UKI C** | Nick Lomas | Goran Bijelic |
+| UKI | UKI | **Large-EMEA-UKI D** | Simon Williams | Shay Fleming |
+| UKI | UKI | **Large-EMEA-UKI E** | Steve Challis | Shay Fleming |
+|  |  | **Named Accounts** | Hugh Christey | Wiam Aissaoui |
 |  |  | **Named Accounts** | Timo Schuit | Peter Kunkli |
-|  |  | **Named Accounts** | Phillip Smith | Camilo Villanueva |
 
-^ `SDR` = `UKI Large`: Round robin group consisting of Chris Loudon, Daniel Phelan, Shay Fleming
-^^ `Sales` = `MEA Large Sales`: Round robin group consisting of Vadim Rusin, Phillip Smith
+
+
 
 ### Mid-Market
 
@@ -255,18 +258,18 @@ For other countries outside AMER, governments agencies will be handled by the te
 
 | Sub-Region | Area | **Territory Name** | Sales | Outbound SDR |
 | ---------- | ---- | -------------- | ----- | ------------ |
-| UKI | GB | **MM-EMEA-UKI-London E** | Chris Willis | Kristof Eger. |
-| UKI | GB | **MM-EMEA-UKI-London EC** | Chris Willis | Kristof Eger |
-| UKI | GB | **MM-EMEA-UKI-London N** | Chris Willis | Kristof Eger |
-| UKI | GB | **MM-EMEA-UKI-London NW** | Chris Willis | Kristof Eger |
-| UKI | GB | **MM-EMEA-UKI-London SE** | Anthony Ogunbowale-Thomas | Kristof Eger |
-| UKI | GB | **MM-EMEA-UKI-London SW** | Anthony Ogunbowale-Thomas | Kristof Eger |
-| UKI | GB | **MM-EMEA-UKI-London W** | Anthony Ogunbowale-Thomas | Kristof Eger |
-| UKI | GB | **MM-EMEA-UKI-London WC** | Anthony Ogunbowale-Thomas | Kristof Eger |
-| UKI | GB | **MM-EMEA-UKI-GB** | Conor Brady | Kristof Eger |
-| UKI | IE | **MM-EMEA-UKI-Ireland** | Conor Brady | Kristof Eger |
-| UKI | Rest Of | **MM-EMEA-UKI-R** | Conor Brady | Kristof Eger |
-| UKI | Rest Of | **MM-EMEA-UKI-R** | Conor Brady | Kristof Eger |
+| UKI | GB | **MM-EMEA-UKI-London E** | Chris Willis | Rahim Abdullayev |
+| UKI | GB | **MM-EMEA-UKI-London EC** | Chris Willis | Rahim Abdullayev |
+| UKI | GB | **MM-EMEA-UKI-London N** | Chris Willis | Rahim Abdullayev |
+| UKI | GB | **MM-EMEA-UKI-London NW** | Chris Willis |Rahim Abdullayev |
+| UKI | GB | **MM-EMEA-UKI-London SE** | Anthony Ogunbowale-Thomas | Rahim Abdullayev |
+| UKI | GB | **MM-EMEA-UKI-London SW** | Anthony Ogunbowale-Thomas | Rahim Abdullayev |
+| UKI | GB | **MM-EMEA-UKI-London W** | Anthony Ogunbowale-Thomas | Rahim Abdullayev |
+| UKI | GB | **MM-EMEA-UKI-London WC** | Anthony Ogunbowale-Thomas | Rahim Abdullayev |
+| UKI | GB | **MM-EMEA-UKI-GB** | Conor Brady | Rahim Abdullayev |
+| UKI | IE | **MM-EMEA-UKI-Ireland** | Conor Brady | Rahim Abdullayev |
+| UKI | Rest Of | **MM-EMEA-UKI-R** | Conor Brady | Rahim Abdullayev |
+| UKI | Rest Of | **MM-EMEA-UKI-R** | Conor Brady | Rahim Abdullayev |
 | France | FR | **MM-EMEA-France-FR 0x-6x** | Israa Mahros | Camille Dios |
 | France | FR | **MM-EMEA-France-FR 7x** | Israa Mahros | Camille Dios |
 | France | FR | **MM-EMEA-France-FR 8x-9x** | Israa Mahros | Camille Dios |
@@ -292,16 +295,16 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Central Europe | DE | **MM-EMEA-Central-DE 7x** | Anthony Ogunbowale-Thomas | Rahim Abdullayev |
 | Central Europe | DE | **MM-EMEA-Central-DE 8x** | Anthony Ogunbowale-Thomas | Rahim Abdullayev |
 | Central Europe | DE | **MM-EMEA-Central-DE 9x** | Anthony Ogunbowale-Thomas | Rahim Abdullayev |
-| Central Europe | AT | **MM-EMEA-Central-AT** | Conor Brady | Kristof Eger |
-| Central Europe | LI | **MM-EMEA-Central-LI** | Conor Brady | Kristof Eger |
-| Central Europe | CH | **MM-EMEA-Central-CH** | Conor Brady | Kristof Eger |
+| Central Europe | AT | **MM-EMEA-Central-AT** | Conor Brady | Johan Rosendahl |
+| Central Europe | LI | **MM-EMEA-Central-LI** | Conor Brady | Johan Rosendahl |
+| Central Europe | CH | **MM-EMEA-Central-CH** | Conor Brady | Johan Rosendahl |
 | Russia | RU | **MM-EMEA-Russia** | Chris Willis | Rahim Abdullayev |
-| Southern Europe | IL | **MM-EMEA-Southern-IL** | Anthony Ogunbowale-Thomas | Johan Rosendahl |
-| Southern Europe | IT | **MM-EMEA-Southern-IT** | Anthony Ogunbowale-Thomas | Johan Rosendahl |
-| Southern Europe | ES | **MM-EMEA-Southern-ES** | Sophia Simunec | Johan Rosendahl |
-| Southern Europe | PT | **MM-EMEA-Southern-PT** | Sophia Simunec | Johan Rosendahl |
-| Southern Europe | Rest Of | **MM-EMEA-Southern-R** | Anthony Ogunbowale-Thomas | Johan Rosendahl |
-| Eastern Europe | All | **MM-EMEA-Eastern Europe** | Sophia Simunec | Rahim Abdullayev |
+| Southern Europe | IL | **MM-EMEA-Southern-IL** | Anthony Ogunbowale-Thomas | Camille Dios |
+| Southern Europe | IT | **MM-EMEA-Southern-IT** | Anthony Ogunbowale-Thomas | Camille Dios |
+| Southern Europe | ES | **MM-EMEA-Southern-ES** | Sophia Simunec | Camille Dios |
+| Southern Europe | PT | **MM-EMEA-Southern-PT** | Sophia Simunec | Camille Dios |
+| Southern Europe | Rest Of | **MM-EMEA-Southern-R** | Anthony Ogunbowale-Thomas | Camille Dios |
+| Eastern Europe | All | **MM-EMEA-Eastern Europe** | Sophia Simunec | Camille Dios |
 | MEA | AE | **MM-EMEA-MEA-AE** | Israa Mahros | Johan Rosendahl |
 | MEA | SA | **MM-EMEA-MEA-SA** | Israa Mahros | Johan Rosendahl |
 | MEA | Rest Of | **MM-EMEA-MEA-R** | Israa Mahros | Johan Rosendahl |
