@@ -54,7 +54,7 @@ We are a small team but we've got a big role to play at GitLab!
 
 * [Learning and Development Partner ](/job-families/people-ops/learning-development-specialist/): [Josh Zimmerman](/company/team/#learning-dev-partner)
 * [Learning and Development Generalist](/job-families/people-ops/learning-development-specialist/#learning--development-generalist): [Jacie Bandur](/company/team/#jbandur)
-* [Learning and Development Associate](/job-families/people-ops/learning-development-specialist/#learning--development-associate): Open Role
+* [Learning and Development Associate](/job-families/people-ops/learning-development-specialist/#learning--development-associate): [Samantha Lee](https://gitlab.com/slee24)
 
 ## Learning Sessions
 
