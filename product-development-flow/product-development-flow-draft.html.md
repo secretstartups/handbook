@@ -150,7 +150,7 @@ The health of a world class product begins with a well maintained backlog. Produ
 
 <kbd class="required">Required 🔎</kbd>
 
-**Up to date issues and epics** - At GitLab issues are the single source of truth for any change to the product. Issues are created in response to a [sensing mechanism](/handbook/product/product-processes/#sensing-mechanisms), consider using the "Problem Validation" issue template for a new feature. If an issue already exists keep it's description and metadata up to date based on inputs in the issue (comment threads) and external to the issue (synchronous discussions, research output, etc)
+**Up to date issues and epics** - At GitLab, issues are the single source of truth for any change to the product. Issues are created in response to a [sensing mechanism](/handbook/product/product-processes/#sensing-mechanisms). Consider using the _Problem Validation_ issue template for new features. If an issue already exists, keep its description and metadata up to date based on inputs both in the issue (comment threads) and external to the issue (including synchronous discussions and research output).
 
 **Prioritized backlog** - The issue and epic backlog is the primary signal stakeholders use to know what's "up next" for a group. The backlog is also the queue for a group to work from, as features progress through the Product Development Flow phases. This queue is kept up to date with milestones and rank ordering on issue boards. Consider using the [RICE formula](https://www.productplan.com/glossary/rice-scoring-model/) to help make prioritization tradeoffs.  
 
