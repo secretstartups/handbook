@@ -85,6 +85,9 @@ GitLab channel partners have established sales forces that help us multiply our 
 
 **[Channel Neutral Compensation](/handbook/sales/commissions/#channel-neutral-compensation)**
 
+To incentivize working with our Channel partners, 'Channel Neutral' means that we will not reduce $ value to individual sellers even if the Channel business reduces total iACV to GitLab (via disocunts or rebates).
+More information can be found on the [compensation page](/handbook/sales/commissions/#channel-neutral-compensation).
+
 FY21 commissions will be channel neutral for all deals through partners (including Distributors, if applicable), which means standard partner discounts are credited back to the salesperson and must follow [order processing procedures](/handbook/business-ops/order-processing/) to correctly flag partner attribution. Total IACV on the deal after all discounts will count towards quota credit, but the channel neutral amount does not qualify for quota credit and only pays out for compensation at BCR. See Channel Neutral section referenced in the [FY21 Commission Plan presentation](https://docs.google.com/presentation/d/1lPZAmdHPPJwhJ4felwsgDXopIt7Usn3UnK5siOpQMlY/edit#slide=id.g7da31a6494_6_0)
 
 Partner Services also qualify for [FY21 Professional Services Spiff (v2)](/handbook/sales/commissions/#fy21-professional-services-spiff-v2).  So as partners help customers adopt and expand their GitLab deployments, they can earn a Services Attach rebate and the GitLab sales team can earn the Professional Services Spiff.
@@ -137,101 +140,24 @@ on customer calls - take differing POVs offline
 1. Services Certifications - H2’FY21
 1. Renewals incumbent protection: If a partner sells a deal and is in good standing (actively supporting the customer, etc) that partner receives first right of refusal for renewal; unless otherwise stated by the customer
 
-#  Channel Operations
 
-##  Channel Neutral
+##  Channel Operations
 
-To incentivize working with our Channel partners, 'Channel Neutral' means that we will not reduce $ value to individual sellers even if the Channel business reduces total iACV to GitLab (via disocunts or rebates).
-More information can be found on the [compensation page](/handbook/sales/commissions/#channel-neutral-compensation).
+Information on managing channel opportunities, deal registrations and other valuable information about how to work with your partners can be found on the [Channel Operations page](/handbook/sales/field-operations/channel-operations/#welcome-to-the-channel-operations-page).
+
 
 ##  Definitions
 
-**Program Compliance**
-- For partners to transact, they must join the GitLab Partner Program via the partner portal.
-- Non Contracted partners may transact on a one-off basis, only with approval of channel leadership.
-
-**PIO - Partner Initiated Opportunity**
-- Any opportunity that was brought to GitLab via a Deal Registration.
-- The opportunity must be new to our sales team, and can be for a new or existing customer.
-- This is an upfront discount and is dependent on the partners track within the GitLab Partner Program.
-
-**Channel Assist Opportunity**
-- Any opportunity where the partner assists our sales team to close the deal.
-- This may be a customer demo, an executive introduction meeting, delivery of services, etc.
-- This would be a Deal Registration, but for a GitLab sourced opportunity, so it does not qualify for PIO.
-- The determination of Channel Assist is at the sales rep determination and tracked via SFDC opportunities.
-
-**Channel Fulfill Opportunity**
-- Any opportunity that was fulfilled by a partner but closed independently via the GitLab sales team.
-- The partner has only processed the order and didn’t provide any meaningful support to close the deal.
-
-**Services Attach**
-- Any partner delivered services that are provided to the end user in support of a GitLab deployment.
-- This will result in a 2.5% upfront discount from the product.
-- This is stackable for up to three (3) independent services provided by the partner to a single end user.
-- This will be administered as an upfront discount from the GitLab license price on the initial sale.
-- The partner may sell their own services, after the initial sale, for a rebate of 2.5% of the Net license price for a period of up to nine (9) months.
-- The maximum is 7.5% discount or rebate with any combination of upfront or post sales of partner branded services.
-- Services may be delivered by a non-Authorized service partner, which will be paid as a referral fee.
-- Rebates and referral fees may require CRO approval.
-
-**Services Resale**
-- Any partner that resales services that will be delivered by the GitLab Professional Services team.
-
-**Channel Neutral Comp**
-- For FY21 the sales team will not absorb any channel partners standard contractual discounts.
-- They will be compensated at the non-channel net value of the deal.
-
-**Incumbency Renewal Policy**
-- If a partner transacts IACV, when renewal time comes, the partner will own that renewal unless formally communicated by the customer.
-- The partner will be required to be program compliant (ie in good credit standing, have provided quarterly updates on customer, review within 30 days of renewal, etc).
-
-## Frequently Asked Questions
-
-**Where can I find the Standard Channel Discounts for my Partners?**
-- Follow [SFDC Discounting table](https://gitlab.my.salesforce.com/0694M000008xAk4)
-
-**Where can I find more information about our current Partners processes?**
-- The current Resellers Handbook can be found [Here](/handbook/resellers/)
-
-**Whats the current Deal Registration Process?**
-- The current process can be found [Here](/handbook/resellers/#deal-registration)
-
-**How do I track the opportunity of a partner deal?**
-Please fill in at least one of the following Opportunity drop downs to identify the deal as a Channel opportunity.
-- **If the partner registered the deal** the `Deal Registrar`field will need to be populated in the SFDC opportunity with the appropriate Partner Account.
-- **If the Partner Assisted you** (see above for definition) please populate the `Partner - Assisted` field in the SFDC opportunity with the appropriate partner account.
-- **If GitLab sourced and sold the deal directly, and the partner is simply fulfilling the deal**, please populate the `Partner - Fulfillment` field in the SFDC opportunity.
-
-**How do I check what I'm being paid on?**
-
-**What are some examples of Channel Neutral math?**
-
-| **Deal Calculation** | **Direct Deal** | **Channel 1 (Neutral)** | **Channel 2 (Add’l Disc)** | **Channel 3 (Split Disc)** |
-|----- | ----- | ------ | ------ | ------|
-| List Price | $100,000 |  $100,000 | $100,000  | $100,000 |
-| Channel Discount | 0% | 20% | 20% | 20% |
-| Additional Rep Discount | 5% | 0% | +5% | +2.5% |
-| **Total Discount** | **5%** | **20%** | **25%** | **22.5%** |
-| IACV (Quota Relief) | $95,000 |  $80,000 | $75,000  | $77,500 |
-| Channel Neutral (No Quota Relief @ BCR)  | +$0 |  +$20,000 | +$20,000  | +$20,000 |
-| **Commissionable Amount** | **$95,000** |  **$100,000** | **$95,000**  | **$97,500** |
-| Base Commission Rate (BCR) | % 8 |  % 8 | % 8  | % 8 |
-| **Commission Payout** | **$7,600** | **$8,000** | **$7,600**  | **$7,800** |
+Program and incentive definitions can be found on the [Channel Operations page](/handbook/sales/field-operations/channel-operations/#program-and-incentive-definitions).
 
 
-**How do I get Channel deals/discount approvals?**
-Follow [standard approval process](/handbook/business-ops/order-processing/#step-5---submitting-a-quote-for-discount-and-terms-approval) in SFDC 
-    
-**How does the Amazon Process work?**
-Follow [Amazon Web Services (AWS) Private Offer Transactions](/handbook/business-ops/order-processing/#amazon-web-services-aws-private-offer-transactions) handbook
-
-**I need HELP!  How to do I reach out to the experts?**
+## I need help!  How to do I reach out to channel experts?
 
 The quickest way to get help is by using the following Slack channels:
 - #channel-sales
 - #channel-ops
 - #alliances
+
 
 ## Channels groups, projects, and labels
 
