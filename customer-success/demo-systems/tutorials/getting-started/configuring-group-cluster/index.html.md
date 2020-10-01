@@ -73,7 +73,7 @@ If you do not have the link available, these instructions show you how to naviga
 
 2. In the _Connect to the cluster_ pop-up modal, click the **Run in Cloud Shell** button.
 
-    > If you have experience with `kubectl` and `gcloud` command-line tools, you can optionally use the command shown. If you want to use them locally, you need to install them from here ([kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-with-homebrew-on-macos)|[gcloud](https://cloud.google.com/sdk/docs/downloads-versioned-archives#installation_instructions)).
+    > If you have experience with `kubectl` and `gcloud` command-line tools, you can optionally use the command shown. If you want to use them locally, you need to install them from here ([kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-with-homebrew-on-macos), [gcloud](https://cloud.google.com/sdk/docs/downloads-versioned-archives#installation_instructions)).
 
     ![Cloud shell access](https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/getting-started/configuring-group-cluster-4.png)
 
