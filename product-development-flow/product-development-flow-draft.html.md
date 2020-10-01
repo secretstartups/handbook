@@ -133,7 +133,7 @@ Label: `workflow::validation backlog`
 |---|---|
 | DRI: | - Product Manager |
 | Collaborators: | - Product Designer <br> - Engineering Manager |
-| Informed: Customers and internal stakeholders | Customers often ask for features directly in issues, Sales also often uses issues to track customer asks |
+| Informed: | - Customers <br> - Internal stakeholders  |
 
 #### Description
 
