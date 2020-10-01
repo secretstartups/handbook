@@ -12,7 +12,7 @@ title: Product Development Flow
 
 <div class="panel-body">
 
-This is the draft version of the Product Development Flow. All changes to this document will be merged into `product-development-flow/index.html.md`[Handbook link](https://about.gitlab.com/handbook/product-development-flow/) by the 17th of each month and announced (including a list of changes) via a release post if larger changes are included. Please see the [Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline)
+This is the draft version of the Product Development Flow. All changes to this document will be merged into `product-development-flow/index.html.md`[Handbook link](https://about.gitlab.com/handbook/product-development-flow/) by the 17th of each month* and announced (including a list of changes) via a release post if larger changes are included. Please see the [Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline)
 
 </div>
 </div>
@@ -20,8 +20,10 @@ This is the draft version of the Product Development Flow. All changes to this d
 |              |             |              |              |
 |--------------|-------------|--------------|--------------| 
 | Version      | Change   | Milestone |Release Date
-| 1.0 | Introduce new structure and core content | 13.5  | 2020-10-22 |
+| 1.0 | Introduce new structure and core content | 13.5* | 2020-10-22 |
 | 1.1 | Introduce visuals and optimize supporting resources | 13.6 | 2020-11-22 |
+
+*Version 1.0 will stay on draft page for dogfooding. Version 1.1 will be the first push to `product-development-flow/index.html.md`[Handbook link](https://about.gitlab.com/handbook/product-development-flow/)
 
 
 ## On this page
