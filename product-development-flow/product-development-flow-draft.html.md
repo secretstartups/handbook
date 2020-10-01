@@ -133,7 +133,7 @@ Label: `workflow::validation backlog`
 |---|---|
 | DRI: | - Product Manager |
 | Collaborators: | - Product Designer <br> - Engineering Manager |
-| Informed: | - Customers <br> - Internal stakeholders  |
+| Informed: | - Customers <br> - Internal stakeholders - TBD |
 
 #### Description
 
