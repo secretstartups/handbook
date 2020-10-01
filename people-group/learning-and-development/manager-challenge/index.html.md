@@ -146,3 +146,7 @@ During week four we will discuss **Developing High Performing Teams**. Informati
      - Each challenge will be in the form of an Issue. The details of the challenge will be laid out in the issue. We ask that participants complete the challenge asynchronously and comment on the issue according to the challenge prompt. 
 1. **Will I receive a certification?**
      - Yes! Once you complete all challenges, attend the live learning sessions, and complete the self-reflection activities, you will receive the "GitLab Managers Challenge" certificate.
+
+## Manager Challenge Certification
+
+Following the completion of the Gitlab Manager Challenge program, participants will be [awarded a certification](https://about.gitlab.com/handbook/people-group/learning-and-development/certifications/)! The certification will be sent to a team member who has successfully completed at least 80% of the daily challenges. Once a team member receives a certification, they can post it on their LinkedIn Profile. 
