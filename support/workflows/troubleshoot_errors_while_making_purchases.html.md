@@ -2,7 +2,7 @@
 layout: handbook-page-toc
 title: Troubleshoot Errors While Making Purchases on Subscriptions App
 category: License and subscription
---
+---
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
