@@ -26,7 +26,7 @@ graph LR;
   a["1. Identify services needed "]-->b["Create the PS opportunity in SFDC"];
   b--custom-->c["Services Calulator"];
   b--standard-->d["SKU Catalog in Zuora/SFDC"];
-  c-->e["3. Generate SOW or Serivce Desc. Docs"];
+  c-->e["3. Generate SOW or Service Desc. Docs"];
   d-->e;
   e-->f["4. Close the opportunity"];
 ```
