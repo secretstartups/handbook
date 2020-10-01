@@ -42,46 +42,7 @@ Each xMAU metric should have three versions:
 
 <%= performance_indicators('Product') %>
 
-## Product Analytics Workflow
-
-The Product Analytics workflow was presented in the Weekly Product Meeting on August 11, 2020. For a recap of this, please see the [slide deck](https://docs.google.com/presentation/d/1wCpvdCUtBtU4Y1vHDOSOLjhrlPvdYBAbydj58SRN5Js/edit) and [watch the video presentation](https://youtu.be/1l1ru7k-q2I?t=375).
-
-### Objective
-
-The objective of the Product Analytics workflow is to help the product organization achieve the Product Organizations FY21-Q3 OKRs:
-
-- [100% of groups have Future GMAU (or Paid GMAU) with instrumentation, dashboards, and quarterly targets](https://gitlab.com/gitlab-com/Product/-/issues/1342)
-- [100% of stages have Future SMAU and Paid SMAU with instrumentation, dashboards, and quarterly targets](https://gitlab.com/gitlab-com/Product/-/issues/1343).
-
-To achieve this, we will be taking the following approach:
-
-1. Get a XMAU in place for your section, stage, or group ASAP using [currently available tooling](https://docs.gitlab.com/ee/development/telemetry/).
-1. If blocked, meet with [@jeromezng](https://gitlab.com/jeromezng) [@kathleentam](https://gitlab.com/kathleentam) to find work around solutions for your XMAU.
-1. Improve your XMAU in future iterations as the collection framework improves.
-
-To track the stataus of this OKR, we'll temporarily be using the [XMAU Tracking Sheet](https://docs.google.com/spreadsheets/d/18er-ZpqdtZDhs_bmZvJaU_iVsa3R38VMiau4C6RoPPs/edit#gid=706608817). This sheet is a temporary measure and we have an [epic](https://gitlab.com/groups/gitlab-com/-/epics/906) that's currently in progress to move this into the Product PI handbook page.
-
-Note: XMAU is used to represent all the variations of AMAU, GMAU, Paid GMAU, SMAU, Paid SMAU, Section MAU, and Paid Section MAU.
-
-### Implementation Status
-
-The Product Analytics workflow outlines the steps required for putting a product performance indicator in place.
-
-| Status | Description | Responsibility |
-| ---- | ----------- | -------------- |
-| [Privacy Policy](#privacy-policy) | The privacy policy step describes what product usage data we can collect from our users. | Product Analytics Responsibility |
-| [Collection Framework](#collection-framework) | The collection framework step describes our available tooling for collecting product usage data. | Product Analytics Responsibility |
-| [Event Dictionary](#event-dictionary) | The event dictionary step outlines our single source of truth of the product metrics and events we collect. | PM Responsibility, Product Analytics Support |
-| [Instrumentation](#instrumentation) | The instrumentation step outlines how each product team implements data collection. | PM Responsibility, Product Analytics Support |
-| [Data Availability](#data-availability) | The data availability step outlines the timing of a product release to receiving product usage data in the data warehouse. | PM Responsibility, Product Analytics Support |
-| [Data Warehouse](#data-warehouse) | The data warehouse step outlines where our product usage data is stored. | Product Analytics Responsibility |
-| [Data Model](#data-model) | The data modelling step outlines how we transform raw data into a data structure that's ready for analysis. | Product Analytics Responsibility |
-| [Dashboard](#dashboard) | The dashboarding step outlines how Sisense dashboards are built. | PM Responsibility, Product Analytics Support |
-| [Handbook](#handbook) | The handbook PI page describes how product performance indicators are added for each product section, stage, and group. | PM Responsibility, Product Analytics Support |
-| [Target](#target) | The target definition step outlines how targets are defined for each performance indicator. | PM Responsibility, Product Analytics Support |
-| [Complete](#complete) | All of the prior steps have been completed. | PM Responsibility, Product Analytics Support |
-
-### What we're aiming for
+## What we're aiming for
 
 The table below outlines the exact PIs we're asking each section, stage, and group to implement by end of FY21-Q3. This table is based off the [previous guidance of focus areas](https://gitlab.com/gitlab-com/Product/-/issues/1286). The implementation status for each of these PIs will be tracked on their respective Section PI pages.
 
@@ -149,6 +110,45 @@ The standardized dashboard used for our PIs will have segments for both XMAU and
 | securedefend.secure.static_analysis | Yes | Yes | Yes | Yes |
 | securedefend.secure.threat_insights | Yes | Yes | Yes | Yes |
 | securedefend.secure.vulnerability_research | Yes | Yes | Yes | Yes |
+
+## Product Analytics Workflow
+
+The Product Analytics workflow was presented in the Weekly Product Meeting on August 11, 2020. For a recap of this, please see the [slide deck](https://docs.google.com/presentation/d/1wCpvdCUtBtU4Y1vHDOSOLjhrlPvdYBAbydj58SRN5Js/edit) and [watch the video presentation](https://youtu.be/1l1ru7k-q2I?t=375).
+
+### Objective
+
+The objective of the Product Analytics workflow is to help the product organization achieve the Product Organizations FY21-Q3 OKRs:
+
+- [100% of groups have Future GMAU (or Paid GMAU) with instrumentation, dashboards, and quarterly targets](https://gitlab.com/gitlab-com/Product/-/issues/1342)
+- [100% of stages have Future SMAU and Paid SMAU with instrumentation, dashboards, and quarterly targets](https://gitlab.com/gitlab-com/Product/-/issues/1343).
+
+To achieve this, we will be taking the following approach:
+
+1. Get a XMAU in place for your section, stage, or group ASAP using [currently available tooling](https://docs.gitlab.com/ee/development/telemetry/).
+1. If blocked, meet with [@jeromezng](https://gitlab.com/jeromezng) [@kathleentam](https://gitlab.com/kathleentam) to find work around solutions for your XMAU.
+1. Improve your XMAU in future iterations as the collection framework improves.
+
+To track the stataus of this OKR, we'll temporarily be using the [XMAU Tracking Sheet](https://docs.google.com/spreadsheets/d/18er-ZpqdtZDhs_bmZvJaU_iVsa3R38VMiau4C6RoPPs/edit#gid=706608817). This sheet is a temporary measure and we have an [epic](https://gitlab.com/groups/gitlab-com/-/epics/906) that's currently in progress to move this into the Product PI handbook page.
+
+Note: XMAU is used to represent all the variations of AMAU, GMAU, Paid GMAU, SMAU, Paid SMAU, Section MAU, and Paid Section MAU.
+
+### Implementation Status
+
+The Product Analytics workflow outlines the steps required for putting a product performance indicator in place.
+
+| Status | Description | Responsibility |
+| ---- | ----------- | -------------- |
+| [Privacy Policy](#privacy-policy) | The privacy policy step describes what product usage data we can collect from our users. | Product Analytics Responsibility |
+| [Collection Framework](#collection-framework) | The collection framework step describes our available tooling for collecting product usage data. | Product Analytics Responsibility |
+| [Event Dictionary](#event-dictionary) | The event dictionary step outlines our single source of truth of the product metrics and events we collect. | PM Responsibility, Product Analytics Support |
+| [Instrumentation](#instrumentation) | The instrumentation step outlines how each product team implements data collection. | PM Responsibility, Product Analytics Support |
+| [Data Availability](#data-availability) | The data availability step outlines the timing of a product release to receiving product usage data in the data warehouse. | PM Responsibility, Product Analytics Support |
+| [Data Warehouse](#data-warehouse) | The data warehouse step outlines where our product usage data is stored. | Product Analytics Responsibility |
+| [Data Model](#data-model) | The data modelling step outlines how we transform raw data into a data structure that's ready for analysis. | Product Analytics Responsibility |
+| [Dashboard](#dashboard) | The dashboarding step outlines how Sisense dashboards are built. | PM Responsibility, Product Analytics Support |
+| [Handbook](#handbook) | The handbook PI page describes how product performance indicators are added for each product section, stage, and group. | PM Responsibility, Product Analytics Support |
+| [Target](#target) | The target definition step outlines how targets are defined for each performance indicator. | PM Responsibility, Product Analytics Support |
+| [Complete](#complete) | All of the prior steps have been completed. | PM Responsibility, Product Analytics Support |
 
 ### Next Steps
 
