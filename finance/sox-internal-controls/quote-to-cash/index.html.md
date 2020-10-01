@@ -993,7 +993,7 @@ GitLab reseller is involved in the sales process, Sales representative uses Sale
 
 * Step 6: Upon successful receipt of Zuora reference number and acceptance of EULA by customer the Subscriptions App will push the details to the [license application](https://docs.google.com/document/d/1RxDYzXgOrCBstF_DQzDJtEJDX2SZ0PUkDkFVqYN-LKY/edit) . Details such as customer info, contact details and product details are automatically pushed into the license application.
 
-* Step 7: license application automatically sends license Key to customer through an email, alternatively customer can also download the license key through Subscriptions App.
+* Step 7: license application automatically sends license Key to customer through an email.
 
 
 
