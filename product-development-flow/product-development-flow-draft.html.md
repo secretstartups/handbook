@@ -141,10 +141,10 @@ The health of a world class product begins with a well maintained backlog. Produ
 
 #### Outcomes and Activities
 
-| Outcomes|Activities|
-|---|---|
-| Up to date issues and epics | - review issue discussions and update relevant info in the description <br> - keep related metadata (labels, etc) up to date <br> - actively respond to stakeholder comments <br> - transfer discussion notes, and external information to the issue (as links or discussion/description details) |
-| Prioritized backlog | - regular review of issue prioritization (issue board ordering, milestone assignment) <br> - align prioritized backlog to category direction and category maturity state |
+| Outcomes|Activities|DRI|
+|---|---|---|
+| Up to date issues and epics | - review issue discussions and update relevant info in the description <br> - keep related metadata (labels, etc) up to date <br> - actively respond to stakeholder comments <br> - transfer discussion notes, and external information to the issue (as links or discussion/description details) | Product Manager |
+| Prioritized backlog | - regular review of issue prioritization (issue board ordering, milestone assignment) <br> - align prioritized backlog to category direction and category maturity state | Product Manager |
 
 #### Required Outcomes
 
