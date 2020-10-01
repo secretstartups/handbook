@@ -132,7 +132,7 @@ Label: `workflow::validation backlog`
 | Role |Function|
 |---|---|
 | DRI: Product Manager | Primarily responsible for refinement of the group's backlog |
-| Collaborators: Product Designer, Engineering Manager | Providing technical or UX feedback for prioritization consideration |
+| Collaborators: | - Product Designer <br> - Engineering Manager |
 | Informed: Customers and internal stakeholders | Customers often ask for features directly in issues, Sales also often uses issues to track customer asks |
 
 #### Description
