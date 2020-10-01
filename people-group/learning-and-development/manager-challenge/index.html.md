@@ -149,4 +149,4 @@ During week four we will discuss **Developing High Performing Teams**. Informati
 
 ## Manager Challenge Certification
 
-Following the completion of the Gitlab Manager Challenge program, participants will be [awarded a certification](https://about.gitlab.com/handbook/people-group/learning-and-development/certifications/)! The certification will be sent to a team member who has successfully completed at least 80% of the daily challenges. Once a team member receives a certification, they can post it on their LinkedIn Profile. 
+Following the completion of the Gitlab Manager Challenge program, participants will be [awarded a certification](/handbook/people-group/learning-and-development/certifications/)! The certification will be sent to a team member who has successfully completed at least 80% of the daily challenges. Once a team member receives a certification, they can post it on their LinkedIn Profile. 
