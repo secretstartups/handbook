@@ -141,11 +141,11 @@ Team members may request an unpaid leave of absence by working with their manage
 
 ![picture-of-other-OOO-types](/handbook/paid-time-off/other_OOO_types.png)
 
-In PTO Ninja, you have the ability to choose Other types of OOO categories, listed above. When you choose one of these categories, they are self-approved and do not count as PTO. You can choose them for an hour or more and they will be added to your calendar and Slack status at the time your OOO is effective. This is an easy way to communicate your status without manually updating both your calendar and your Slack status.
+These other types of OOO categories, should be used when you'll be away from your desk for one or two hours during your work-day. They are self-approved and do not count as PTO. You can choose them for an hour or more and they will be added to your Gsuite calendar automatically and Slack status at the time your OOO is effective. This is an easy way to communicate your status without manually updating both your calendar and your Slack status. If you prefer to do it manually, that's ok too. 
 
-This process is for events that are part of work but where you may be away from your computer, such as a Conference or a Customer Visit. You may also have Mandatory Civilian Service, which does not count as PTO.
+A few examples of when you can use this, is for family time, a workout, when you are running errands, home-schooling, a customer visit, mandatory Civilian Service, or something similar which does not count as PTO. These categories are used for when you plan to complete your full working day but may need to step away at some point in your day or are otherwise occupied at an event that counts for a working day. 
 
-Then there are the day-to-day tasks that come up (such as Family Time, Self Care, Workout, Homeschooling and the general Away from Screen) that should not disrupt a workday in the sense that these OOO categories should not prevent or take away from a regular work load and will not need additional backup or support from another team member or team members. If you need to take a half day or full day to do things listed in these categories, that is PTO and at that time you will need to submit a PTO request.
+If you need to take a half day or full day to do things listed in these categories, then please select PTO and not one of these catagories. 
 
 ### PTO Ninja
 
