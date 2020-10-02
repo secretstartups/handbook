@@ -314,14 +314,14 @@ Our standard terms and conditions of sale contain text substantially similar to 
 
 _Some countries (and nationals of those countries) are prohibited from accessing US Technology._
 
-_Countries prohibited from receiving any technology include: Cuba, Iran, North Korea, Sudan, Syria and the Crimean Region of the Ukraine._
+_Countries prohibited from receiving any technology include: Cuba, Iran, North Korea, Sudan, Syria and the Crimean Region of Ukraine._
 
 _US Government Classified Information must only be accessible by US Citizens who have appropriate clearance and a need to know. If you know or believe GitLab is in receipt of US or Foreign Government Classified Information, please contact Legal or Compliance._
 
 _Additionally, companies cannot agree to boycott any other country. If you receive any request to boycott a country, please notify Legal._
 
 **Embargoed Countries**
-The United States restricts imports and exports to certain destination without a specific authorization from the government. Products exported to an entity within an embargoed country or to a foreign national of that country, e.g., **Cuba, Iran, North Korea, Sudan, Syria, and the Crimean Region of the Ukraine** will require a license, even if the shipment is through a reseller or via another country. Some countries have legislation that prohibits the imposition of U.S. embargo requirements on individuals and companies in those countries (“Blocking Legislation”).
+The United States restricts imports and exports to certain destination without a specific authorization from the government. Products exported to an entity within an embargoed country or to a foreign national of that country, e.g., **Cuba, Iran, North Korea, Sudan, Syria, and the Crimean Region of Ukraine** will require a license, even if the shipment is through a reseller or via another country. Some countries have legislation that prohibits the imposition of U.S. embargo requirements on individuals and companies in those countries (“Blocking Legislation”).
 
 **U.S. Anti-Boycott**
 U.S. Anti-Boycott regulations exist to counteract foreign economic boycotts that are at odds with U.S. policy. It is GitLab's policy to comply with the requirements of Anti-Boycott regulations. Actions prohibited by the regulations include:
