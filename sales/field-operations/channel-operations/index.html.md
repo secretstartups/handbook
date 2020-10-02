@@ -211,6 +211,58 @@ _Why is this important?_
 
 
 
+## Managing Special Cases
+
+### Creating MSP Opportunities
+
+A Managed Service Provider (MSP) purchases licenses on behalf of an end user. The MSP will be the owner and manager of the licenses but their customer - the end user - is the one using the licenses. This creates specific needs in GitLab Salesforce opportunities to ensure proper reporting and compensation. 
+
+When you have an MSP opportunity, the Sales Reps need to follow these ***additional*** steps:
+
+**Step 1:** The opportunity must be created using the MSP partner account, NOT the potential customer on whose behalf they are purchasing.
+
+**Step 2:** Change the opportunity owner to the correct Sales Rep that owns the end-user account even though the opportunity is created under the Partner MSP account.
+
+**Step 3:** Fill out the Partner and Deal Registration Information Section per the following:
+DR-Partner: this must list the MSP’s Partner account (same as the opportunity is created under) 
+DR-Deal type: “Resale”
+DR-Engagement: “PIO”
+
+**Step 4:** When filling out the quote for this opportunity, select the **MSP quote template**. 
+- Invoice owner: The MSP Partner (same as DR-Partner referenced above).
+- Special Terms and Notes: Name of the End-user Customer (the MSP owns the licenses on behalf of). 
+
+### Creating a Service-Attached Opportunity
+
+A Service-Attached opportunity is created to track when a partner offers their own professional services along with GitLab licenses. This is separate from the license sale and respective Salesforce opportunity. 
+
+To create the opportunity, the partner must register the deal on the [partner portal](https://about.gitlab.com/handbook/resellers/#gitlab-partner-portal). **The opportunity needs to be created for the service-attach opportunity alone.** The service-attached opportunity should never be a part of, or added on to the GitLab product sale opportunity. 
+
+For proper reporting, ensure that all the correct fields are used to notate that this is a partner service-attached opportunity.
+- DR - Partner: The partner account providing the services
+- DR - Partner Deal type: Services Attach
+- DR - Partner Engagement: N/A
+
+GitLab Sales needs to add the GitLab product sales opportunity as the parent opportunity to the service-attached opportunity.
+
+As the opportunity progresses, use the stages of the opportunity (0 - 7) until the agreement documentation is received that the customer is moving forward. Once the agreement for the Partner Services is completed (i.e. SOW, quote, order form), change the opportunity to **Stage: 10-Duplicate.**
+
+### Multiple-bid Process
+
+For opportunities where there are multiple partners bidding on the same opportunity, it’s important that each partner gets the appropriate pricing for the opportunity.
+- The partner with the approved Deal Registration needs to receive the [documented discount for the program](https://gitlab.my.salesforce.com/0694M000008xAk4).
+- **All other partners quoting/bidding on the opportunity do not receive any partner discounts. They should be provided MSRP only.** 
+- If the deal includes a distribution partner, that distributor receives their contracted margin. 
+
+For more informaiton on quoting or the Partner Program, please visit:
+
+[Deal Desk Quote Configuration](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes)
+
+[Partner Program](https://about.gitlab.com/handbook/resellers/)
+
+
+
+
 ##  Program and Incentive Definitions
 
 **Partner Program Discounts**
