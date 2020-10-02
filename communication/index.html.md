@@ -393,7 +393,7 @@ out to any of the other [C-level GitLab team members](/company/team/org-chart/) 
 ## Social Call
 At GitLab, social calls are considered an important way to foster culture while organically creating connections between team members with similar interests or hobbies.  
 
-These calls happen six times a week at varying times to ensure that team members in all timezones are able to take part.  The call topics are based on three of the most popular channels within Slack i.e. #gaming, #fitlab and #intheparenthood however team members do not need to be part of these channels to join in.  We will be trialling these topics for a period of three months and gathering data to support future iterations.
+These calls happen six times a week at varying times to ensure that team members in all timezones are able to take part.  The call topics are based on three of the most popular channels within Slack i.e. #gaming, #fitlab and #intheparenthood however team members do not need to be part of these channels to join in.
 
 Previously social calls never had a set agenda however participants are now encouraged to document discussion points or questions in the relevant Google Doc - this is to ensure those considering attending have an overview of what to expect along with offering those who were unable to attend an opportunity to scroll back review points of interest.  
 
@@ -411,9 +411,11 @@ Social call attendance is not mandatory however the sessions do serve as a great
 
 All social calls are in the Team Meetings Calendar - the sessions are titled GitLab Social Call: Multi-Topic and once you have opened the invite you will see a brief introduction followed by the three topics all of which have unique links for both Zoom and the respective Google Doc.  
 
-Being mindful of those who will be taking part, team members are asked to join on time and mute their microphones when they are not speaking.  Social calls are not moderated and with this in mind all those who take part play this role and should feel free to chime in af and when necessary.
+Being mindful of those who will be taking part, team members are asked to join on time and mute their microphones when they are not speaking.  Social calls are not moderated and with this in mind all those who take part play this role and should feel free to chime in if and when necessary.
 
 If you have any questions around the Social Call schedule please be sure to engage with the People Experience Team via the #peopleops channel.  Feedback and suggestions are welcome and can be documented in the comments section of [this issue](https://gitlab.com/gitlab-com/people-group/General/-/issues/969).
+
+_Using call attendance data along with feedback and suggestions provided by team members call topics will be reviewed and if necessary adjusted on a quarterly basis._
 
 ## Mindfulness Call
 
