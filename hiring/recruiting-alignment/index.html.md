@@ -23,19 +23,14 @@ title: "Recruiting Alignment"
 | Customer Success, APAC | Debbie Harris  | Corinne Sapolu | Kanwal Matharu |
 | Marketing, Global | Steph Sarff   | Kalene Godoy | J.D. Alex |
 | G&A | Maria Gore | Taharah Nix | Loredana Iluca |
+| Development | Rupert Douglas | Kalene Godoy  | Zsuzsanna Kovacs |
 | Quality | Rupert Douglas   | Kalene Godoy  | Zsuzsanna Kovacs |
-| UX & Technical Writing | Rupert Douglas   | Kalene Godoy  | Zsuzsanna Kovacs  |
-| Support, Global | Cyndi Walsh  | Ashley Jones  |  Zsuzsanna Kovacs |
-| Security | Cyndi Walsh  | Ashley Jones  |  Zsuzsanna Kovacs |
-| Development - Secure/Defend  | Rupert Douglas | Kalene Godoy  | Zsuzsanna Kovacs |
+| UX  | Rupert Douglas   | Kalene Godoy  | Zsuzsanna Kovacs  |
+| Support (EMEA) | Rupert Douglas  | Kalene Godoy  |  Joanna Michniewicz |
+| Support (AMER & APAC) | Cyndi Walsh  | Ashley Jones  |  Zsuzsanna Kovacs / Joanna Michniewicz|
+| Security | Cyndi Walsh  | Corinne Sapulo  |  Zsuzsanna Kovacs |
 | Infrastructure   | Matt Allen  | Corinne Sapulo | Chris Cruz |
-| Development - Dev   | Ryan Demmer or Chantal Rollinson (Catarina Ferreira Seconded)   | Kalene Godoy/Lea Hanopol  |  Joanna Michniewicz  |
-| Development - Ops  | Ryan Demmer (Eva Petreska seconded) | Kalene Godoy |  Zsuzsanna Kovacs  |
-| Development - Growth & Enablement  | Trust Ogor |  Lea Hanopol  |  Alina Moise  |
 | Product Management  | Matt Allen   | Corinne Sapulo | Chris Cruz |
-| Product & Engineering - Non-Dev (Key Roles)   | Cyndi Walsh   | Ashley Jones |    Chris Cruz |
-| Engineering - Development (Key Roles)  | Liam McNally   |  Lea Hanopol  |    Chris Cruz  |
-
 ## Recruiting Operations and Talent Branding Alignment
 
 | Platform                    | Responsibility        | DRI     |
