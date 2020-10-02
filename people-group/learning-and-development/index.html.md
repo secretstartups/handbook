@@ -146,12 +146,27 @@ Live Learning sessions will be conducted on a monthly basis. There will be a Zoo
 
 </details>
 
+### Daily Challenges
 
-### Leadership Forum
+Some Learning and Development programs use the [GitLab tool to facilitate learning](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/1). One way we do that is with the use of daily challenges. Daily challenges are a proven strategy for implementing new habits for our team members. Daily challenges can cover a range of topics and they are intended to introduce behavior changes that will stick. In September of 2020, we launched a [Four Week Manager Challenge program](/handbook/people-group/learning-and-development/manager-challenge/) that consisted of daily challenges and live learning events to strengthen foundational management skills. 
 
-An [overview](/handbook/people-group/learning-and-development/leadership-forum/#overview) about the format as well as topics and dates can be found on the [Leadership Forum](/handbook/people-group/learning-and-development/leadership-forum/) handbook page.
+**Sample structure of a daily challenge:**
+- Length of challenge: 1 week (But can be for as long as 4 weeks)
+- Sample challenge topic: Giving Feedback
+- Daily challenges: 20-minute daily challenge (Monday through Friday)
+- Live Learning: Optional live learning session at the end of the week to revisit the challenges covered
+- Self-Reflection: At the end of the week, have participants complete a self-reflection exercise
+- Certification/Badging: Option to award participants with a certification or badge
 
 ## Learning Initiatives 
+
+### Monthly Continuous Learning Call 
+
+Every month, the Learning and Development team hosts a monthly continuous learning call. During these calls, we highlight all of the initatives taking place within the learning space at GitLab to the organization. We use these calls to callout professional development opportunities, cross-department enablement activities, teach team members what L&D does at GitLab, and answer any questions team members have. It's an opportunity to come together as an organization and highlight everything we are doing within the L&D space and to help instill a learning culture at GitLab. 
+
+### Quarterly Learning & Development Newsletter
+
+GitLab will be launching a quarterly L&D newsletter to highlight all of the professional and career development opportunities in the organization. 
 
 ### Certifications
 
@@ -175,11 +190,11 @@ If you have any language courses you would like to recommend or links to website
 
 There is also a way to practice foreign languages and ask for advice in several Slack channels, each dedicated to a specific language. You can find all these channels by searching for channels starting with #lang. If you're missing a channel for your target language, feel free to create one and mention it in #whats-happening-at-gitlab so that fellow GitLab team-members can join too!
 
-### New Manager Enablement Program
+### Manager Enablement Programs
 
 GitLab has a growing [resource](/handbook/people-group/learning-and-development/manager-development/) to enable all team members transitioning to a manager role. It contains a link to a checklist, readings, and a form to help learning and development customize your development as a manager.
 
-We are piloting the [Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/) program during the month of September to over 30 people leaders at GitLab. The Manager Challenge is to first step to building out a comprehensive manager enablement curriculum. 
+We piloted the [Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/) program during the month of September to over 30 people leaders at GitLab. The Manager Challenge is to first step to building out a comprehensive manager enablement curriculum for People Leaders. We used daily challenges and the GitLab tool to facilitate async learning in a remote environment. This was the first program of its kind at GitLab and we look forward to rolling out more manager enablement initiatives in the future.  
 
 ## New Learning Content at GitLab
 
@@ -225,14 +240,7 @@ Adults learn differently in the workplace than they would in traditional learnin
 
 ## Learning Management Systems
 
-We are currently in the process of implementing a Learning Experience Platform (LXP). This system is more than just a Learning Management System, it is a platform to help deliver engaging learning tailored to you and your role. It can direct to handbook pages, make recommendations for learning based on previous consumption, and serve interactive learning content. We are also in the process of evaluating several content libraries to accompany the LXP to provide curated and off-the-shelf courses for our team members. The content will be supplemental to GitLab customized content. More details to come in the next few months! 
-
-To help us continue to be [Handbook First](/handbook/handbook-usage/#why-handbook-first), course content in the LMS should be structured in the following ways: 
-
-- Text in handbook
-- Video on [YouTube](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg)
-- Test and certification in an open source platform or something without a price per user/student so we can invite all our million of users without incremental costs.
-- Don't put text or video in the platform itself, only link to the handbook and video, so we  have a [single source of truth](/handbook/handbook-usage/#style-guide-and-information-architecture) and don't end up with duplicate content that is hard to keep up to date.
+We are currently in the process of implementing a Learning Experience Platform (LXP). This system is more than just a Learning Management System, it is a platform to help deliver engaging learning tailored to you and your role. It can direct to handbook pages, make recommendations for learning based on previous consumption, and serve interactive learning content. We are also in the process of evaluating several content libraries to accompany the LXP to provide curated and off-the-shelf courses for our team members. The content will be supplemental to GitLab customized content and apply a [Handbook-first approach to interactive learning](/handbook/sales/field-operations/field-enablement/interactive-learning/). More details to come in the next few months! 
 
 ## Compliance Courses 
 
