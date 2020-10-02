@@ -373,7 +373,23 @@ Status: `Closed`
 
 <kbd class="required">Required 🔎</kbd>
 
+#### Key Participants
+
+| Role |Function|
+|---|---|
+| DRI | Development team will close this issue once it is available in production |
+| Collaborators | Development team, quality counterpart, and product manager may verify the issue is working as expected in production. |
+| DRI | Product manager will decide if the issue should be documented in the release post. If so, they initiate this process. |
+| Collaborators | Development team and documentation may assist the product manager in creating the release post. |
+| DRI | Product manager will decide if the issue should go through the GitLab dogfooding process.  If so, they initiate this process. |
+| Collaborators | Teams at GitLab that may benefit from the change may participate in the dogfooding process as appropriate. |
+| Informed | Stakeholders for the change (customers, internal users, etc.) will be informed about the feature via the change in status of the issue and/or the release post.  |
+
+#### Description
+
 When the change becomes available in production, the issue is closed by the development team so stakeholders know work on it has been completed.  Afterward, the product manager coordinates the [release post](/handbook/marketing/blog/release-posts/) and [Dogfooding process](/handbook/product/product-processes/#dogfooding-process) when they apply.
+
+#### Outcomes and Activities
 
 | Outcomes | Activities |
 | --- | --- |
@@ -382,6 +398,12 @@ When the change becomes available in production, the issue is closed by the deve
 | Stakeholders of a feature will know it is available in production | **Required**: Once the feature is deployed to production and any needed verification in production is completed, the development team will close the issue. <br> **Optional** : Prior to the issue being closed, the development team may set the workflow label to `workflow::verification` for tracking purposes. |
 | Customers will be informed about a change | **Required**: When appropriate for a change, a release post item will be written and merged by the product manager following the instructions in the [template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md), which will then cause it to appear on the [GitLab.com releases page](/releases/gitlab-com/). |
 | GitLab validates if the feature is meeting GitLab's own needs | **Required** : A determination is made by the product manager as to if the feature should be a part of the [Dogfooding process](/handbook/product/product-processes/#dogfooding-process) which organizes and tracks usage of the feature by GitLab.  If so, the product manager coordinates this process. |
+
+#### Required Outcomes
+
+* Issue is closed so that stakeholders who are watching the issue know the feature is available
+* Release post is added when appropriate so that stakeholders who read the release posts know the feature is available
+* Dogfooding process is started when appropriate so that the feature can be used by GitLab ourselves in order to gather feedback on the feature.
 
 ### Build phase 4: Improve
 
