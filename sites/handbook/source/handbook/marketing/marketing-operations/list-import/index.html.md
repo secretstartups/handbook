@@ -161,6 +161,16 @@ In order to assure proper attribution of `MQL Scoring` and `Last Interesting Mom
 1. After verified completion of all tasks, remove ~"List Upload: Ready" label and notify in the issue of upload completion. Add ~"Lead Data::Active" label. Adjust the "MktgOps" label and apply a milestone
 1. Close list upload issue 
 
+#### Operational uploads
+In the event that a manual upload needs to occur for operational needs:
+- Use a current or create a new program or smart list within the [Non-Event List Loads](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF4394A1) folder
+     - If creating a new program or smart list, start by making a new, appropriately named sub-folder under the `Non-Event List Loads` folder
+- Create a new program or smart list within the appropriate folder by right clicking the correct folder
+     - If creating a new program, select the correct `Channel` for the task. For most non-event uploads, `Operational` should work
+- Some notable `Operational` programs already in place are listed below with links. This section will be updated on a needed basis:
+     - [Opt-Outs](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF6347A1)
+     - [Purchased Lists](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF4686A1)
+
 <!--### Operations Upload Instructions 
 
 * [Field & Corporate Event Import](#field-and-corporate-event-import)
