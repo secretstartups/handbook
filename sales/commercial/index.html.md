@@ -328,7 +328,7 @@ This section provides step by step clarity on how to follow the **ROE**.
 ### Process to follow:
 
 1. Check **Datafox** data - wholly wrong? Go to step 2
-1. Check **DiscoverOrg** data - wholly wrong? Go to step 3
+1. Check **Zoominfo** data - wholly wrong? Go to step 3
 1. Check **LinkedIn** Data - wholly wrong?
 1. Search for **3rd party resources** which provide SMB/MM segment prove (only needed when 1 of the above resources do not provide leading data to go with)
 1. Paste the source and the gaps all found that led you to it in Chatter on the `Account level` and **cc VP Commercial Sales** to review
