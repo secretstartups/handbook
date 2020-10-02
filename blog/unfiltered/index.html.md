@@ -106,7 +106,7 @@ You can choose a cover image for yourself by following the [guidelines in the bl
 
 ### Review
 
-As a final step, you might want to do a quick search of our blog to see if there are related posts you could include links to in your post. Cross-linking helps the reader and helps SEO, meaning more people will see what you've written. 
+As a final step, you might want to do a quick search of our blog to see if there are related posts you could include links to in your post. Cross-linking helps the reader and helps SEO, meaning more people will see what you've written.
 
 Please check [the review app for the blog post](/handbook/marketing/blog/#previewing-your-blog-post) to ensure there are no formatting problems (e.g. links not working, images not rendering).
 
@@ -121,7 +121,7 @@ When you are completely finished, assign your MR to another team member for revi
 
 ### Merging
 
-Your reviewer may be able to merge your post, but if they don't have maintainer access for the www-gitlab-com project you may need to assign the MR to someone else on your team to merge. You don't need to assign someone from the Editorial team to merge.
+Your reviewer may be able to merge your post, but if they don't have maintainer access for the www-gitlab-com project you may need to assign the MR to someone else on your team to merge. If no one on your team has maintainer access to www-gitlab-com, you can post in the #content channel on Slack and ask someone to merge the blog post for you. You don't need to assign someone from the Editorial team to merge.
 
 ### Featured posts
 
