@@ -108,8 +108,7 @@ You can find more information about Sourcing Sessions on the [Recruiting Process
 
 ### Intro
 
-As our company continues to see rapid growth, we need to aim to hire the best talent out there and we want all GitLab team members to partner with the Recruiting
-team on building the greatest GitLab crew!
+As our company continues to see rapid growth, we need to aim to hire the best talent out there and we want all GitLab team members to partner with the Recruiting team on building the greatest GitLab crew!
 We ask you all to contribute by digging into LinkedIn or your favorite social
 media space and add candidates to the spreadsheet or LinkedIn project.
 By doing this, we are reaching out to people that are very closely aligned with
@@ -117,27 +116,25 @@ the team’s needs and finding better-suited candidates.
 
 ### Source-a-thon participants
 
-* Members of the Recruiting Team (Recruiter/Sourcer/CES)
-* Hiring manager
-* Members of the team we’re sourcing for
+* Members of the Recruiting Team (Recruiter/Sourcer/CES). If a source-a-thon is organized internally by the Recruiting team, it is mandated for all the Sourcers to participate in their respective functional positions.  
+* Hiring manager (might be optional if a source-a-thon is organized internally by the Recruiting team).
+* Members of the team we’re sourcing for (might be optional if a source-a-thon is organized internally by the Recruiting team).
 * All other team members willing to participate are welcome!
-* Internal Source-a-thon within the Sourcing team: Sourcing team collaborates and works on the positions that are niche or time-consuming. The team is divided into two, technical and non-technical. It is mandated for all the Sourcers to participate in their respective functional positions.  
 
 ### How to organize
 
-* Hiring manager requests the Recruiter and/or Sourcer to organize a Source-a-thon stating the desired time and participant list;
+* Hiring manager requests the Recruiter and/or Sourcer to organize a Source-a-thon stating the desired time and participant list. 
 * the Recruiter and/or Sourcer creates a Source-a-thon issue using the [GitLab Source-a-thon Template](https://gitlab.com/gitlab-com/people-group/recruiting/-/blob/master/.gitlab/issue_templates/source-a-thon.md) with all knowledge gathered from the hiring team to give to the participants; then also adds a Project within LinkedIn Recruiter specifially for the Source-a-thon event;
 * the Recruiter and/or Sourcer schedules a calendar event, adds Zoom link and asks the participants to add and save all the sourced candidates in LinkedIn project; 
 * the Recruiter and/or Sourcer should make sure that all invited team members have their LinkedIn account set up before the source-a-thon. For more information please refer to the [Upgrading your LinkedIn account](/handbook/hiring/sourcing/#upgrading-your-linkedin-account) section.
 
 ### Timing
 
-* Source-a-thon is limited by 30 minutes
-* First 5 minutes is devoted to role description - Hiring manager should share must-haves/nice-to-haves with the team and answer all the questions regarding the role.
-* All other time is devoted to sourcing and adding profiles into the spreadsheet or LinkedIn project.
+* Source-a-thon is limited by 30 minutes but you can also contribute to it asynchronously.
 * We expect that team members can still add sourced candidates during 24 hours after the source-a-thon.
+* First 5 minutes is devoted to role description - Hiring manager or member of the Recruiting team should share must-haves/nice-to-haves with the team and answer all the questions regarding the role.
+* All other time is devoted to sourcing and adding profiles into the spreadsheet or LinkedIn project.
 * 1 day after the meeting the Sourcer responsible for the role will reach out to the relevant profiles, and add them to Greenhouse as Prospects. 
-* If any sourced candidate is added more than 1 day after the source-a-thon you should ping Recruiting Sourcer in the comments. 
 
 ### Source-a-thon targets
 
