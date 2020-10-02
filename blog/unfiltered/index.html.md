@@ -121,7 +121,7 @@ When you are completely finished, assign your MR to another team member for revi
 
 ### Merging
 
-Your reviewer may be able to merge your post, but if they don't have maintainer access for the www-gitlab-com project you may need to assign the MR to someone else on your team to merge. If your teammates also don't have maintainer access to www-gitlab-com, you can post in the #content channel on Slack and ask that someone to merge the blog post for you. You don't need to assign someone from the Editorial team to merge.
+Your reviewer may be able to merge your post, but if they don't have maintainer access for the www-gitlab-com project you may need to assign the MR to someone else on your team to merge. If no one on your team has maintainer access to www-gitlab-com, you can post in the #content channel on Slack and ask someone to merge the blog post for you. You don't need to assign someone from the Editorial team to merge.
 
 ### Featured posts
 
