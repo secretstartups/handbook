@@ -39,7 +39,7 @@ How we make decisions on a day-to-day basis is specified on our [stewardship pag
 | GitLab.com | Free | Bronze | Silver | Gold |
 | ---------- | ---- | ------ | ------ | ---- |
 | Per user per month | $0 | $4 | $19 | $99 |
-| [Likely Buyer](/handbook/marketing/product-marketing/roles-personas/#buyer-personas) | Individual Contributors | Manager | Director | Executive |
+| [Who cares most about it]](/handbook/ceo/pricing/#buyer-based-open-core) | Individual Contributors | Manager | Director | Executive |
 | Main competitor | None | Atlassian BitBucket | GitHub | Collabnet |
 | Type of sell | No sell | Feature | Benefit/solution | Transformation |
 
@@ -479,8 +479,8 @@ To simplify the above, we base our feature groupings on champion position (see b
 
 ## Buyer-Based-Open-Core
 
-The likely type of buyer determines what features go in what tier.
-Our plans are based on [the buyer](#four-tiers) that buys GitLab, from individual contributor, to manager, to director, to executive. Every person in the company [is on the same tier](/handbook/ceo/pricing/#multiple-plans-for-one-customer), even if they don't use all the features.
+We make feature tiering decisions based on: **"Who cares most about the feature"**.
+Our the [four tiers](#four-tiers) are differentiated based  on [the buyer persona](/handbook/marketing/product-marketing/roles-personas/#buyer-personas) or IC who buys GitLab, from individual contributor, to manager, to director, to executive. Every person in the company [is on the same tier](/handbook/ceo/pricing/#multiple-plans-for-one-customer), even if they don't use all the features.
 The feature is put in the plan based on what champion is most likely to **care** about it.
 Buyers make sense, since a higher-cost plan needs a higher-placed buyer.
 
