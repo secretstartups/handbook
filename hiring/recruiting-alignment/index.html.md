@@ -8,10 +8,10 @@ title: "Recruiting Alignment"
 | Department                    | Recruiter       |  Coordinator | Sourcer     |
 |--------------------------|-----------------|-----------------|-----------------|
 | Executive          | Rich Kahn   | Kalene Godoy | Chriz Cruz |
-| Enterprise Sales, NA | Marcus Carter | Kalene Godoy |  Susan Hill |
+| Enterprise Sales, NA | Marcus Carter | Corinne Sapolu |  Susan Hill |
 | Enterprise Sales, EMEA | Debbie Harris |  Corinne Sapolu  |  Kanwal Matharu |
 | Enterprise Sales, APAC | Debbie Harris |  Corinne Sapolu  |  Kanwal Matharu |
-| Commercial Sales,	Global | Marcus Carter|  Ashley Jones| Susan Hill  | 
+| Commercial Sales,	Global | Marcus Carter|  Corinne Sapolu| Susan Hill  | 
 | Channel Sales, NA | Steph Sarff | Kalene Godoy |  J.D. Alex |
 | Channel Sales, EMEA | Debbie Harris | Corinne Sapolu |  Kanwal Matharu |
 | Channel Sales, APAC | Debbie Harris | Corinne Sapolu |  Kanwal Matharu |
@@ -22,13 +22,13 @@ title: "Recruiting Alignment"
 | Customer Success, EMEA | Debbie Harris  | Corinne Sapolu | Kanwal Matharu |
 | Customer Success, APAC | Debbie Harris  | Corinne Sapolu | Kanwal Matharu |
 | Marketing, Global | Steph Sarff   | Kalene Godoy | J.D. Alex |
-| G&A | Maria Gore | Taharah Nix | Loredana Iluca |
+| G&A | Maria Gore | Ashley Jones | Loredana Iluca |
 | Development | Rupert Douglas | Kalene Godoy  | Zsuzsanna Kovacs |
 | Quality | Rupert Douglas   | Kalene Godoy  | Zsuzsanna Kovacs |
 | UX  | Rupert Douglas   | Kalene Godoy  | Zsuzsanna Kovacs  |
 | Support (EMEA) | Rupert Douglas  | Kalene Godoy  |  Joanna Michniewicz |
 | Support (AMER & APAC) | Cyndi Walsh  | Ashley Jones  |  Joanna Michniewicz (AMER) / Zsuzsanna Kovacs (APAC)  |
-| Security | Cyndi Walsh  | Corinne Sapulo  |  Zsuzsanna Kovacs |
+| Security | Cyndi Walsh  | Ashley Jones  |  Zsuzsanna Kovacs |
 | Infrastructure   | Matt Allen  | Corinne Sapulo | Chris Cruz |
 | Product Management  | Matt Allen   | Corinne Sapulo | Chris Cruz |
 
