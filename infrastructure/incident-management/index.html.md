@@ -336,7 +336,8 @@ In certain cases, additional labels will be added as a mechanism to add metadata
 
 | **Label** | **Purpose** |
 | ---------- | -------------- |
-| `~self-managed` | Indicates that an incident is **exclusively** and incident for self-managed GitLab. [Example self-managed incident issue](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2651) |
+| `~self-managed` | Indicates that an incident is **exclusively** an incident for self-managed GitLab. [Example self-managed incident issue](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2651) |
+| `~incident-type::automated traffic` | The incident occurred due to activity from security scanners, crawlers, or other automated traffic |
 
 ### Workflow Diagram
  
