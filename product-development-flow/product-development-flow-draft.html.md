@@ -161,39 +161,35 @@ The health of a world class product begins with a well maintained backlog. Produ
 
 Label: `workflow::problem validation`
 
+#### Key Participants
+
+| Role |Function|
+|---|---|
+| DRI: | - Product Manager |
+| Collaborators: | - Product Designer <br>- UX Researcher |
+| Informed: | - Engineering Team <br>- Stakeholders - TBD <br>- Leadership - TBD |
+
+
+#### Description
+
+In order to ensure the right solutions are delivered, the team must start their work with a validated problem. This can take many forms and be achieved through Product Manager, Product Designer, and UX Researcher collaboration. 
+
+If the problem is small and well-understood, it may be possible to quickly move through this phase by documenting the known data about the user problem.  
+
+If the problem is nuanced, then it will likely take longer to validate with users properly. This phase's primary outcome is a clear understanding of the problem, along with a simple and clear way to communicate the problem to various stakeholders. 
+
+#### Outcomes and Activities
+
+| Outcomes|Activities|DRI|
+|---|---|---|
+| Thorough understanding of the problem  | - Create new issue using the [Problem Validation Template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Problem%20Validation.md)<br>- Complete an [Opportunity Canvas](#opportunity-canvas)<br>- Open a [Problem Validation Research](https://gitlab.com/gitlab-org/ux-research/) issue and work with UX Researcher to execute the research study<br>- Schedule a review of the opportunity canvas for feedback<br>| Product Manager |
+| Communicate the problem clearly and effectively | - Ensure your issue is up to date with the latest understanding of the problem. <br> - Understand and document (in the issue) the goals that people want to accomplish using the [Jobs to be Done (JTBD)](/handbook/engineering/ux/jobs-to-be-done/) framework. <br> - Leverage your opportunity canvas to communicate the problem to your stable counterparts and group stakeholders. Consider scheduling a review to gather feedback and communicate the findings to Product and UX leadership. | Product Manager |
+
+#### Required Outcomes
+
 <kbd class="required">Required 🔎</kbd>
 
-> Product managers must ensure new features and proposed improvements positively impact one or more [Product KPIs](/handbook/business-ops/data-team/kpi-index/#product-kpis), or have a valid rationale as to why the work should proceed regardless.
- 
-
-Good product development starts with a well understood and clearly articulated customer problem. Once we have this, then generating solutions, developing the product experience, and launching to the market is much more effective. The danger in not starting with the problem is that you might miss out on solutions that come from deeply understanding the customer problem. A poorly defined problem statement can also cause the design and development phases to be inefficient.
-
-Product Managers and Product Designers should refine the validation backlog together. You should pull items from your validation backlog in the problem validation process on a regular cadence to ensure you always have validated problems for your groups to start working on.
-
-To run the problem validation process:
-
-1. PM creates an issue using the [Problem Validation template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Problem Validation.md).
-
-1. PM applies the `~"workflow::problem validation"` label to the associated issue; this automatically removes the `~"workflow::validation backlog"` label.
-
-1. PM fills out an [opportunity canvas](#opportunity-canvas) to the best of their ability. Ensure the problem and persona is well articulated and add the opportunity canvas to the issue's [Designs](https://docs.gitlab.com/ee/user/project/issues/design_management.html#the-design-management-page). It can be helpful to discuss your problem statement Jobs to be Done (JTBD) and user experience as a Product Manager and Product Designer partnership. Note that you should include content for the solution and go-to-market sections, possibly with low confidence; this section may be likely to change, but thinking it through will help clarify your thoughts. PMs are encouraged to reach out to UX Researchers for help.
-
-1. PM opens a `Problem validation research` issue using the available template in the [UX Research](https://gitlab.com/gitlab-org/ux-research/) project. Once completed, please assign the issue to the relevant UX Researcher.
-
-1. [Product Manager, Product Designer, and UX Researcher](/handbook/engineering/ux/ux-research/#ux-research-at-gitlab) meet to discuss the appropriate research methodology, timescales, and user recruitment needs. 
-
-1. The next steps in the process depend on the research methodology chosen. Regardless of the methodology chosen, PM and UX Researcher execute the research study together. If available, the Product Designer can help. It is beneficial to also invite Engineers to shadow the research study. This can help the team broadly understand existing user behaviors.
-	- [Follow the process for user interviews](/handbook/engineering/ux/ux-research/#for-user-interviews)
-	- [Follow the process for surveys](/handbook/engineering/ux/ux-research/#for-surveys)
-
-1. PM finalizes the opportunity canvas with the synthesized feedback and reviews it with the Product Designer.
-
-1. PM schedules a review of the opportunity canvas with Scott Williamson, Christie Lenneville, and the Product Director for your section. Weekly time blocks will be held. You can contact Kristie 'KT' Thomas to get your review added to one of the weekly time blocks.
-
-1. Once approved:
-   1. If the result of the canvas is to move forward and solve the problem, move to design and solution validation phase below to begin solutioning the validated problem.
-   1. If the result of the canvas is to _NOT_ move forward solving the problem, write that in the canvas and the original issue and close it. Making an active decision to not do something is just as valuable, and sometimes moreso, than deciding to move forward on the wrong thing.
-   1. For the reference of other GitLab employees, set the privacy of the opportunity canvas document to "Anyone at GitLab can find and view" and place it in the [Opportunity Canvas Reviews](https://drive.google.com/drive/folders/19ryr0HFXpkchh65MQ2JQv3f9dYBCC01q) folder on Google Drive. 
+**Update issue/epic description** - a well understood and clearly articulated customer problem is added to the issue, and will lead to successful and efficient design and development phases.
 
 ### Validation phase 3: Design
 
