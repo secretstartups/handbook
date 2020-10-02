@@ -7,12 +7,12 @@ title: "Recruiting Alignment"
 
 | Department                    | Recruiter       |  Coordinator | Sourcer     |
 |--------------------------|-----------------|-----------------|-----------------|
-| Executive          | Rich Kahn   | Kalene Godoy | Chriz Cruz/ Another Sr. Sourcer depending on the alignment |
+| Executive          | Rich Kahn   | Kalene Godoy | Chriz Cruz |
 | Enterprise Sales, NA | Marcus Carter | Kalene Godoy |  Susan Hill |
 | Enterprise Sales, EMEA | Debbie Harris |  Corinne Sapolu  |  Kanwal Matharu |
 | Enterprise Sales, APAC | Debbie Harris |  Corinne Sapolu  |  Kanwal Matharu |
 | Commercial Sales,	Global | Marcus Carter|  Ashley Jones| Susan Hill  | 
-| Channel Sales, NA | Steph Sarff | Kalene Godoy |  Kanwal Matharu |
+| Channel Sales, NA | Steph Sarff | Kalene Godoy |  J.D. Alex |
 | Channel Sales, EMEA | Debbie Harris | Corinne Sapolu |  Kanwal Matharu |
 | Channel Sales, APAC | Debbie Harris | Corinne Sapolu |  Kanwal Matharu |
 | Field Operations,	NA | Steph Sarff |  Kalene Godoy | J.D. Alex | 
