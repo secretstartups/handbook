@@ -217,7 +217,7 @@ xx
 
 ##### More audit
 
-Andreas: We agree, and this is planned for 2019. See the epic on [Auditing and data management improvements](https://gitlab.com/groups/gitlab-org/-/epics/81). We will also cover ideas in an upcoming blog post. Also see [Audit logs](#heading=h.vlfwmryozqfy) further up.
+Andreas: We agree, and this is planned for 2019. See the epic on [Auditing and data management improvements](https://gitlab.com/groups/gitlab-org/-/epics/81). We will also cover ideas in an upcoming blog post. Also see [Audit logs](#audit-logs) further up.
 
 ##### Better support for Windows shops
 
@@ -227,7 +227,7 @@ xx
 
 ##### Auto Devops is not very good, doesn’t work in practice / complex customer scenarios. We should spend less time on it
 
-Andreas: Note, there is also [Making auto devops easier / better](#heading=h.8jrz4urkzh1u) above.
+Andreas: Note, there is also [Making auto devops easier / better](#better-support-for-fully-offline-instances---cant-run-auto-devops--sast) above.
 
 ##### Should be easier to make product prioritize things
 
