@@ -27,10 +27,11 @@ title: "Recruiting Alignment"
 | Quality | Rupert Douglas   | Kalene Godoy  | Zsuzsanna Kovacs |
 | UX  | Rupert Douglas   | Kalene Godoy  | Zsuzsanna Kovacs  |
 | Support (EMEA) | Rupert Douglas  | Kalene Godoy  |  Joanna Michniewicz |
-| Support (AMER & APAC) | Cyndi Walsh  | Ashley Jones  |  Zsuzsanna Kovacs / Joanna Michniewicz|
+| Support (AMER & APAC) | Cyndi Walsh  | Ashley Jones  |  Joanna Michniewicz (AMER) / Zsuzsanna Kovacs (APAC)  |
 | Security | Cyndi Walsh  | Corinne Sapulo  |  Zsuzsanna Kovacs |
 | Infrastructure   | Matt Allen  | Corinne Sapulo | Chris Cruz |
 | Product Management  | Matt Allen   | Corinne Sapulo | Chris Cruz |
+
 ## Recruiting Operations and Talent Branding Alignment
 
 | Platform                    | Responsibility        | DRI     |
