@@ -54,7 +54,7 @@ As we all work remotely it can sometimes be difficult to know when and how to pl
 1. Please note that we still **help** clients during official days off, unless they are official days off in both the Netherlands and the U.S. For any particular day, we try to always have people working from countries that aren't observing an official holiday. If you need to work during an official day off in your country, you should take a different day off in return.
 1. Please also remember to turn on your out of office message and include the contact details of a co-worker in case anything urgent or critical comes into your inbox while you're away. If you have to respond to an incident while on-call outside of your regular working hours, you should feel free to take off some time the following day to recover and be well-rested. If you feel pressured to _not_ take time off to rest, refer to this part of the handbook and explain that you had to handle an incident.
 1. When returning from paid time off, it can be helpful to schedule a [coffee chat](/company/culture/all-remote/informal-communication/#coffee-chats) or two on the day of your return to get caught up, share stories from your time off, and simply reconnect with your team members. It also provides a nice break from to-dos and unread emails. This type of conversation may occur organically in a colocated office but needs to be managed with intent in an all-remote company.
-1. If during a PTO event, you realize that certain days will need to be changed from PTO to Sick Time, or another category, please email `peopleops@gitlab.com` with your specific request and People Operations Specialists will complete your request, per the [instructions](/handbook/paid-time-off/#instructions-for-people-ops-to-update-pto-ninja-events). Events can only be changed after the PTO Ninja event has completed itself.
+1. If during a PTO event, you realize that certain days will need to be changed from PTO to Sick Time, or another category, please email `peopleops@gitlab.com` with your specific request and People Operations Specialists will complete your request, per the [instructions](/handbook/paid-time-off/#instructions-for-people-ops-and-total-rewards-to-update-pto-ninja-events). Events can only be changed after the PTO Ninja event has completed itself.
 
 ### Communicating Your Time Off
 
@@ -231,15 +231,25 @@ If you discover that multiple people in your team want to be off at the same tim
 
 If as a manager you are notified that your direct report has been incapacitated or unable to submit an OOO request in PTO Ninja and needs to take time off, be it Sick Time or otherwise, please document this information, and relay it to People Ops at `peopleops @gitlab.com` without disclosing private medical information in compliance with privacy laws such as [HIPAA](https://www.hhs.gov/hipaa/for-professionals/index.html) in the US and [GDPR](https://about.gitlab.com/handbook/legal/privacy/privacy-laws.html#gdpr) in the EU. The People Ops team will submit an OOO request on the team member's behalf and mark the reason as `Per Manager Name`, and save the email thread in the team member's `Sickness` folder in BambooHR. This documentation will be unshared and will not contain any personal medical information.
 
-### Instructions for People Ops to Update PTO Ninja Events
+### Instructions for People Ops and Total Rewards to Update PTO Ninja Events
 
-1. Delete the relevant PTO entry from the team member's BambooHR Time Off tab.
-1. In the PTO Ninja app in Slack, in the Home tab, select the `override` option in Admin Tools and type the name of the team member you need to perform the override for.
-1. Select the team member's name and find the OOO event in their history.
-1. Delete said entry using the `[...]` overflow menu on the righthand side of the screen.
-1. Add a new OOO event(s) by clicking the +Add Event button.
+If a OOO event is in progress: 
 
-Please note that if a OOO event is in progress, it can be edited by Admins. Once the event has completed and synced to BambooHR, both the BambooHR and PTO Ninja events have to be deleted for the new correct event to be saved to BambooHR.
+1. People Specialist: In the PTO Ninja app in Slack, in the Home tab, select the `override` option in Admin Tools and type the name of the team member you need to perform the override for.
+1. People Specialist: Select the team member's name and find the OOO event in their history.
+1. People Specialist: Edit said entry.
+1. Total Rewards: No tasks are needed in BambooHR.
+
+If a OOO event has completed and synced to BambooHR:
+
+1. Total Rewards: Delete the relevant PTO entry from the team member's BambooHR Time Off tab. People Operations Specialists must contact Total Rewards to ask for their support here. 
+1. People Specialist: In the PTO Ninja app in Slack, in the Home tab, select the `override` option in Admin Tools and type the name of the team member you need to perform the override for.
+1. People Specialist: Select the team member's name and find the OOO event in their history.
+1. People Specialist: Delete said entry using the `[...]` overflow menu on the righthand side of the screen.
+1. People Specialist: Add a new OOO event(s) by clicking the +Add Event button.
+1. People Specialist: Monitor BambooHR for the next 24 hours to ensure that the corrected event synced successfully.
+
+To clarify, once the event has completed and synced to BambooHR, both the BambooHR and PTO Ninja events have to be deleted for the new correct event to be saved to BambooHR.
 
 ### Recognizing Burnout
 
