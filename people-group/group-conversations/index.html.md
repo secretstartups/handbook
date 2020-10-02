@@ -259,7 +259,7 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Two  | Mon  | [Product](/handbook/product/), [Growth Section](/handbook/product/product-categories/#growth-section), [Pricing](/handbook/ceo/pricing/)| Scott Williamson/Hila Qu/Xiaohe Li  |
 | Two  | Tue  | [Product Management](/handbook/product/gitlab-the-product)  | Anoop Dawar |
 | Two  | Wed  | Available |   |
-| Two  | Thur | Available |   |
+| Two  | Thur | [All-Remote](/handbook/marketing/corporate-marketing/all-remote/) | [Darren Murph](/handbook/marketing/readmes/dmurph/) |
 | Two  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Three  | Mon  | [Marketing](/handbook/marketing/)  | Todd Barr  |
 | Three  | Tue  | [Support](/handbook/support/)  | Tom Cooney  |
