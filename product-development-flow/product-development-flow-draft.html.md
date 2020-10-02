@@ -130,27 +130,32 @@ Opportunity Canvases are a great assessment for ill-defined or poorly understood
 
 Label: `workflow::validation backlog`
 
+#### Key Participants
+
+| Role           | Function                                       |
+|----------------|------------------------------------------------|
+| DRI:           | - Product Manager                              |
+| Collaborators: | - Product Designer <br> - Engineering Manager  |
+| Informed:      | - Customers <br> - Internal stakeholders - TBD |
+
+#### Description
+
+The health of a world class product begins with a well maintained backlog. Product Managers are responsible for refining a groups backlog to ensure validation opportunities are scoped and prioritized in line with category direction and stage or section level strategy. The backlog is also the SSoT for stakeholders to understand and engage with your group. An issue or Epic's position in the backlog, along with the description, discussion and metadata on those issues are key pieces of data necessary to keep stakeholders up to date. 
+
+#### Outcomes and Activities
+
+| Outcomes|Activities|DRI|
+|---|---|---|
+| Up to date issues and epics | - review issue discussions and update relevant info in the description <br> - keep related metadata (labels, etc) up to date <br> - actively respond to stakeholder comments <br> - transfer discussion notes, and external information to the issue (as links or discussion/description details) | Product Manager |
+| Prioritized backlog | - regular review of issue prioritization (issue board ordering, milestone assignment) <br> - align prioritized backlog to category direction and category maturity state | Product Manager |
+
+#### Required Outcomes
+
 <kbd class="required">Required 🔎</kbd>
 
-> TBD 
+**Up to date issues and epics** - At GitLab, issues are the single source of truth for any change to the product. Issues are created in response to a [sensing mechanism](/handbook/product/product-processes/#sensing-mechanisms). Consider using the _Problem Validation_ issue template for new features. If an issue already exists, keep its description and metadata up to date based on inputs both in the issue (comment threads) and external to the issue (including synchronous discussions and research output).
 
-Every PM should maintain a backlog of potential validation opportunities. Validation opportunities may come from customers, internal stakeholders, product usage insights, support tickets, win/loss data, or other [sensing mechanisms](/handbook/product/product-processes/#sensing-mechanisms). Validation opportunities should be captured as an issue and described in customer problem language, and should avoid jumping ahead to feature/solution language. 
-
-Sometimes it can be tricky to identify a good issue for problem validation. The following situations often are good criteria:
-
-- Initiating work on a new [product category](/handbook/product/categories/)
-- Defining the next [maturity state](/direction/maturity/) for a product category (for example, when researching how to go from `Complete` to `Lovable`)
-- The envisioned feature is large or introduces a major change to the user experience (for example, reorganizing the sidebar navigation)
-- Understanding if a Job to be Done [(JTBD)](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done) is the purpose for which customers buy or use the product 
-- Targeting a new user or buyer persona
-
-Some items will skip the problem validation phase. In these cases, the problem is well understood and has been validated in other ways. When skipping problem validation, ensure the issue description is clear with the rationale and sensing mechanisms used to skip the problem validation phase.
-
-To queue an item in your validation backlog:
-
-1. Create a new issue describing the problem using the "Problem Validation" issue template in the [GitLab project](https://gitlab.com/gitlab-org/gitlab/issues), applying relevant stage and group labels. If you are doing research related to an open issue/epic, consider notifying participants there of the research issue so they can participate.
-1. Once each section of the issue template has been filled out (or validated, in the case of pre-existing issues), apply the [RICE formula](https://www.productplan.com/glossary/rice-scoring-model/) as a prioritization mechanic and record this in the description.
-1. Apply the `workflow::validation backlog` label
+**Prioritized backlog** - The issue and epic backlog is the primary signal stakeholders use to know what's "up next" for a group. The backlog is also the queue for a group to work from, as features progress through the Product Development Flow phases. This queue is kept up to date with milestones and rank ordering on issue boards. Consider using the [RICE formula](https://www.productplan.com/glossary/rice-scoring-model/) to help make prioritization tradeoffs.  
 
 ### Validation phase 2: Problem validation
 
