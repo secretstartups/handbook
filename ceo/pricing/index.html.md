@@ -39,7 +39,7 @@ How we make decisions on a day-to-day basis is specified on our [stewardship pag
 | GitLab.com | Free | Bronze | Silver | Gold |
 | ---------- | ---- | ------ | ------ | ---- |
 | Per user per month | $0 | $4 | $19 | $99 |
-| [Who cares most about it]](/handbook/ceo/pricing/#buyer-based-open-core) | Individual Contributors | Manager | Director | Executive |
+| [Who cares most about the feature](/handbook/ceo/pricing/#buyer-based-open-core) | Individual Contributors | Manager | Director | Executive |
 | Main competitor | None | Atlassian BitBucket | GitHub | Collabnet |
 | Type of sell | No sell | Feature | Benefit/solution | Transformation |
 
