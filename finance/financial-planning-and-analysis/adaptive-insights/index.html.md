@@ -158,7 +158,32 @@ The below image shows the current report structure in Adpative Insights. There a
 
 #### Reports 
 
+## Processing Headcount Movements
+Below details the process to account for headcount movements in Adaptive based on the type of change that’s occurred. 
 
+#### Net New Roles
+Net new hire movements which increase GitLab’s headcount and are not related to an employee leaving GitLab or transferring between departments.
+1. On the Planned Personnel sheet, create a new row and enter in the role details for the net new position. Include an anticipated start date and enter the employee name as “TBH”. 
 
+#### Employee Terminations
+For headcount moves due to employees leaving GitLab.
 
+1. When an employee leaves GitLab, in the Active Personnel sheet where the employee record is located, enter the employees last day into the “End Date” column. This will feed into the calculations within Adaptive so any costs associated with that headcount will cease once the end date surpasses. 
+1. If the role is to be backfilled, on the Planned Personnel sheet, create a new row and enter in the role details of the termed employee. Populate the “Hire Status” field with Backfill and ensure you have entered this into the same level (department) that the termed employee was in. For the employee name, use “TBH-” + First Initial + Last Name (e.g. for Joe Bloggs backfill, “TBH-JBloggs”) so it can be easily identified as the backfill role for that employee and assist with headcount management processes.
 
+#### Promotions (same job family), salary increases, new hiring managers/etc.
+1. When an employee gets promoted into the same job family, has a salary change, a new hiring manager, etc., the new information is overwritten on the existing entry field for that headcount in the Active Personnel sheet. The intention is to keep the Active Personnel sheet list as concise as possible. 
+- E.g. A Financial Analyst is promoted to a Senior Financial Analyst - overwrite the Job Title field with the new role name and update any other relevant fields. 
+
+#### Internal Transfer
+For headcount moves when an employee is transferred between departments and the original position is to be backfilled - e.g. employee moves from Marketing to Sales, and Marketing wants to backfill that position. 
+
+1. On the Active Personnel sheet put an end date on the original headcount record.
+2. Stay on the Active Personnel sheet and create a new entry/row in the level which matches the department the employee is moving to, and enter the internal transfer headcount details.
+3. In the Planned Personnel sheet, create a new row and populate the details of the original position. For the employee name, use “TBH-” + First Initial + Last Name (e.g. for Joe Bloggs backfill, “TBH-JBloggs”) so it can be easily identified as the backfill role for that employee and assist with headcount management processes.
+
+#### Internal hire (no backfill)
+For internal headcount moves when there is an unknown candidate and no new position - e.g. 1 Manager role promotion available to replace 1 of 3 Analysts roles -  no visibility of who will get promoted and the analyst position will not be backfilled. This process is required in order for the recruiting team to be able to create a record in Greenhouse using a GHP ID that will be generated from the placeholder entry. 
+
+1. On the Planned Personnel sheet, create an entry/row for the internal movement placeholder. Enter the Name as “TBH”, the Hire Status as “Placeholder” and ensure no salary information is included. This will ensure that the calculations do not flow into the Income Statement for this $0 placeholder entry.
+1. Once the successful employee has been identified, update that person’s record - overwrite the job title, salary information etc. and then delete the internal movement TBH entry from the Planned Personnel sheet.
