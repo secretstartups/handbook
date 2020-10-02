@@ -17,23 +17,36 @@ As we evolve, there is a need to implement organizational change management (OCM
 
 ## What is Organizational Change Management (OCM)
 
-OCM refers to the actions in which a company or business alters a major component of its organization, such as its culture, technology, people, process, or policies it uses to operate. OCM is the method of leveraging change to bring about a successful resolution, and it typically includes a systematic methodology to support a transformational journey. 
+[Change Management has traditionally referred](/handbook/engineering/infrastructure/change-management/#context-and-objectives) to the processes, procedures, tools, and techniques applied in IT environments to carefully manage changes in an operational environment. In our context, OCM refers to the actions in which a company or business alters a major component of its organization, such as its culture, technology, people, process, or policies it uses to operate. OCM is the method of leveraging change to bring about a successful resolution, and it typically includes a systematic methodology to support a transformational journey. 
 
 ## When to use OCM at GitLab
 
-At GitLab, there are many use cases for applying an OCM process. Some examples include: 
+At GitLab, there are many use cases for applying an OCM process. Consider it a methodology to apply when rolling out major initiatives that impact our people and ways of working. The methodology does not have to apply to every new initiative but it should be considered.  
+
+Examples of when to use OCM include: 
 - Adoption of a new technology that all team members will use (i.e. Integrating the Learning Management System, etc.) 
-- Implementing a new succession planning process (i.e. Nine box assessment) 
+- Implementing a new succession planning process (i.e. Performance/Potential Matrix) 
 - Rolling out a 360 review process for all team members to use
-- Updating our total rewards policies (i.e. country conversation, compensation, etc.) 
-- Announcing and implementing a company-wide initiative (i.e. Direct messages in slack, internal comms campaign, etc.) 
+- Updating our total rewards policies (i.e. updating our [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/), iterating on benefits plans, etc.) 
 - Changing a hot button policy (i.e. discretionary bonus criteria requiring additional requirements) 
 - Implementing a new system or tool for all team members that some may see as contentious (i.e. Endpoint Management software,etc.) 
-- Communication of a Handbook update that will change the way team members conduct their day-to-day duties (i.e. new processes or policies, etc.)
-- Providing awareness and generating excitement for a company-wide initiative (i.e. friends and family day, etc.) 
 - Enabling team members to effectively use new tools to improve their job at the time of release (i.e. Culture AMP, Learning Management System, etc.) 
+- Other examples 
 
-There are varying levels of the OCM process that can be implemented to facilitate the change. The above is a small example of the type of organization-wide initiatives that we can consider applying the OCM methodology. Keep in mind that some transformations require less OCM, while major changes require a heavy focus on OCM. Consider if they change will impact the whole organization. If it will, apply the OCM methodology. 
+There are varying levels of the OCM process that can be implemented to facilitate the change. The above is a small example of the type of organization-wide initiatives that we can consider applying the OCM methodology. Keep in mind that some transformations require less OCM, while major changes require a heavy focus on OCM. Consider if they change will impact the whole organization. If it will, the DRI can review the OCM methodology to ensure the change lands successfully. 
+
+Not every change project at GitLab requires the full OCM methodology to be applied. Consider applying OCM when there are major people, processes, technology, and policy changes that impact our team member's ways of working. 
+
+**Examples of when not to apply the OCM methodology:** 
+
+- Announcing a new GitLab feature 
+- Communicating executive-level updates that come directly from leadership
+- Implementing an iterative change that has a track record of iteration and team member input 
+- Updating and communicating changes to the Handbook
+- Providing awareness and generating excitement for a company-wide initiative (i.e. friends and family day, etc.) 
+- Announcing and implementing a company-wide initiative (i.e. Direct messages in slack, internal comms campaign, etc.) 
+- Training team members on new skills, business/technical acumen, etc
+- Much more! 
 
 ## Why is OCM important
 
@@ -41,7 +54,9 @@ Organizational change is necessary for GitLab to succeed and grow. OCM drives th
 
 ## GitLab OCM methodology
 
-We are going to define an OCM process that aligns with our values, organizational structure, and ways of working. Key components of GitLab’s OCM methodology: 
+We are going to define an OCM process that aligns with our values, organizational structure, and ways of working. Consider applying aspects of the methodology to change initiatives. The methodology does not have to be applied formally but components of it can be considered and reviewed before rolling out change initiatives. 
+
+Key components of GitLab’s OCM methodology: 
 1. Develop an agile change plan
 2. Assess the impact
 3. Analyze team member engagement
@@ -86,7 +101,7 @@ When rolling out a new initiative, consider who in the organization will be the 
 
 ### Step 4 - Communicating the change
 
-Once you’ve understood the impacts and who will be most impacted, start developing a communication plan. Analyzing team member engagement and impacts can help guide and engage team members through the change program. Communications can be updated per feedback from impacted groups. The timing of communications can also be different based on the impact analysis.
+Once you’ve understood the impacts and who will be most impacted, start developing a communication plan. Analyzing team member engagement and impacts can help guide and engage team members through the change program. Communications should be updated per feedback from all team members to ensure that everyone has an opportunity to contribute before a change is finalized. The timing of communications can also be different based on the impact analysis and who are the most impacted audience groups.
 
 Focus on delivering the right amount of detail to the right audience, through the right communications channel, and at the right time. We typically rely on slack channels to send organization-wide communications. Leverage the channels that will provide the most impact to ensure leaders and team members can articulate with clarity and purpose of the change project. 
 
@@ -94,8 +109,8 @@ The goal of this step is to build the credibility of the project and what it wil
 
 **Key Activities:**
 - Communication plan: identify what, when, and to whom
-- Key messages
-- Communication materials: Slack messages outline, handbook page links, templates, videos, etc. 
+- Key messages outlined in an Issue or Google Doc
+- Communication materials: Slack messages that direct team members to Issues for feedback and a historical record, handbook page links, templates, videos, etc. 
 
 ### Step 5 - Train for the change
 
@@ -129,6 +144,15 @@ OCM doesn’t stop once you’ve successfully executed the transition. Both thro
 
 Please contact the [Learning & Development team](https://about.gitlab.com/handbook/people-group/learning-and-development/) if you would like more of an understanding of OCM and how to apply the methodology to a change/transformation at GitLab! 
 
+## Additional Resources on Organizational Change Management
+
+- Change Management Primer ([Slides](https://docs.google.com/presentation/d/1KrFKBHS0IC15cn7q2CYGakCRfcq-A5tmRCxg8ys_v-Y/edit#slide=id.g82ed3c344a_0_0)) ([Video](https://www.youtube.com/watch?v=Gz6OpHnOGlM&feature=youtu.be)) from our Field Enablement Team
+- [Prosci change management resources](https://www.prosci.com/resources)
+- [Accenture Organization Change ](https://www.accenture.com/_acnmedia/Accenture/Conversion-Assets/DotCom/Documents/Global/PDF/Strategy_4/Accenture-Organization-Change.pdf)
+- [Harvard Business Review Change Management Resources](https://hbr.org/topic/change-management)
+- [Five Levers of Change Management](https://www.prosci.com/resources/articles/five-levers-of-organizational-change-management) (article) 
+- [Keys to Prepare for Change](https://blog.prosci.com/keys-to-prepare-for-change)
+- [Understanding Resistance to Change](https://blog.prosci.com/understanding-resistance-to-change)
 
 
 
