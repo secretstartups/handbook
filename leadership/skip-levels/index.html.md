@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Skip level meetings"
+title: "Skip Level Meetings"
 ---
 
 ## On this page
@@ -9,7 +9,11 @@ title: "Skip level meetings"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## The purpose of skip level meetings
+
+
+## Purpose and Benefits of Skip-Levels
+
+A skip-level meeting is a meeting during which a manager's manager meets directly with team members without the direct manager present. 
 
 The goal of skip level meetings is to help the senior leader be a better manager of 
 themselves, of the report of their function, and the rest of the management team.
@@ -20,7 +24,14 @@ team member and their manager's manager.
 These meetings between a senior leader in the company and their "skips" serve 
 to promote communication across the leader's whole team, not just their direct 
 reports. 
-It also gives the skips and senior leaders an opportunity to get to know each other, provide an opportunity to have contributions recognized by a senior leader, ask questions, and/or clarify their understanding of company or functional objectives.
+
+It also gives the skips and senior leaders an opportunity to:
+* Get to know each other and build rapport
+* Provide an opportunity to have contributions [recognized](/handbook/people-group/guidance-on-feedback/#recognition) by a senior leader
+* Ask questions
+* Clarify their understanding of company or functional objectives
+
+## What Skip-Levels Are Not
 
 It's important to note that the following are **not** purposes for the
 skip level meetings:
@@ -54,6 +65,8 @@ skip level meetings:
 1. Skip level meetings can also be a great place to solicit feedback from your
    skips. [SKS questions](https://en.wikipedia.org/wiki/SKS_process), among
    other feedback mechanisms, make solid agenda items.
+
+_Having a large organization is not a reason to not conduct skip-level meetings. Senior leaders with a a large organizations can opt to conduct skip-levels in a rotational fashion. If meeting with everyone is not scalable, instead meet with a new group of skip-level team members each quarter (or more frequently)._
 
 ## Other Resources
 
