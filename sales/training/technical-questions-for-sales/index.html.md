@@ -103,7 +103,8 @@ To improve sales efficiency and reduce the dependence of GitLab sales team membe
 
 #### What is the difference between the Jira integration in Starter and in Premium?
 
-*  **Short answer**: GitLab Jira development panel integration, in GitLab Premium and GitLab Ultimate SKUs, provide more robust options for integration points, integration links, integration set up, sync frequency, and user authentication.
+*  **Short answer**: GitLab Premium and GitLab Ultimate provides more robust options for integration points, integration links, integration set up, sync frequency, and user authentication.
+*  **Update**: The end of the video discusses the Jira Development Panel as a differentiator. The Jira Development Panel integration has since moved to Core as of 13.4.
 *  **Context video** (5 minutes, May 2020):
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/t0_52j2Zp2I" frameborder="0" allowfullscreen="true"> </iframe>
