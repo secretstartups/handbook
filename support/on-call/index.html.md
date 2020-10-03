@@ -190,15 +190,17 @@ We're expecting, broadly that emergencies will fall into one of three categories
 - **broken functionality due to an inconsistency in data unique to the customer**, for example: a group name used to be able to have special characters in it, and now something broke because our group name has a special character in it. => reproduce, identify, escalate to have the specific data corrected (and create a bug report so our code is better)
 - **GitLab.com access or "performance" degradation to the level of unusability**, for example: no access in a geographical area, CI jobs aren't being dispatched => This is the hardest class, but will generally be operational emergencies. Success here means making sure it's not actually one of the top two before [declaring an incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack) 
 
-## Support Manager on-call
-Support Managers also have an on-call rotation. During their rotation, Support Managers:
-- act as an escalation point for missed emergency pages
-- find staff to work on emergencies during [multiple emergencies](#handling-multiple-simultaneous-emergencies) 
-- provide ownership and assignment for tickets that get formally escalated in `#support_managers`. 
-  [Support Team Knowledge areas](/handbook/support/workflows/knowledge_areas.html) can be used to find the right engineer to assign the escalation.
-- Redirect escalations from `#support_self-managed` and `#support_dot-com` channels to `#support_managers`. 
-- Act as a notification point for security incidents
-- Coordinate [live upgrade assistance](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html) requests.
+## Support Manager On-call
+Support Managers also have an on-call rotation. During their rotation, the manager’s responsibilities are:
+* to act as an escalation point for missed customer emergency pages
+* find staff to work on emergencies during [multiple emergencies](#handling-multiple-simultaneous-emergencies)
+* to provide ownership and assignment for tickets that are escalated in `#support_managers`; [Support Team Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html)  can be used to find the right engineer to work the ticket
+* to inform those who have posted an escalation request in the `#support_self-managed` or `#support_dot-com` channels to post their escalation request instead in the `#support_managers` channel
+* to act as a notification point for security incidents
+* to coordinate  [live upgrade assistance](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html)  requests
+* to arrange for another manager to handle on-call responsibilities temporarily while they are engaged on a customer call by:
+	1. asking a specific manager to cover, and then if necessary,
+	2. posting a request in `#support_managers` for any manager to volunteer to cover if their specific request goes unanswered.
 
 ### Seeing which manager is on-call
 To see who the current manager on-call is you can:
