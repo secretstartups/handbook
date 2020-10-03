@@ -55,7 +55,10 @@ The following people are permanent members of the Secure Sub-Department:
 <%=  direct_team(role_regexp: /Engineer/, manager_role: 'Backend Engineering Manager, Secure:Static Analysis') %>
 
 ### [Dynamic Analysis](dynamic-analysis)
-<%=  direct_team(role_regexp: /Engineer/, manager_role: 'Backend Engineering Manager, Secure:Dynamic Analysis') %>
+<%=  direct_team(role_regexp: /Engineer(.*)Secure:Dynamic Analysis/, manager_slug: 'sethberger') %>
+
+### [Fuzz Testing](fuzz-testing)
+<%=  direct_team(role_regexp: /Engineer(.*)Secure:Fuzz Testing/, manager_slug: 'sethberger') %>
 
 ### [Frontend Team](fe-secure)
 <%= direct_team(role_regexp: /[,&] Secure/, manager_role: 'Frontend Engineering Manager, Secure') %>
@@ -67,7 +70,7 @@ The following people are permanent members of the Secure Sub-Department:
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Secure/, direct_manager_role: nil, other_manager_roles: ['Backend Engineering Manager, Secure:Static Analysis', 'Backend Engineering Manager, Secure:Dynamic Analysis', 'Backend Engineering Manager, Secure:Composition Analysis', 'Frontend Engineering Manager, Secure', 'Director of Engineering, Secure']) %>
+<%= stable_counterparts(role_regexp: /[,&] Secure/, direct_manager_role: nil, other_manager_roles: ['Backend Engineering Manager, Secure:Static Analysis', 'Backend Engineering Manager, Secure:Dynamic Analysis', 'Backend Engineering Manager, Secure:Dynamic Analysis, Secure:Fuzz Testing', 'Backend Engineering Manager, Secure:Composition Analysis', 'Frontend Engineering Manager, Secure', 'Director of Engineering, Secure']) %>
 
 ## Secure Team
 
