@@ -33,5 +33,5 @@ At times a search will turn up a Sentry issue that appears to reference the info
 
 You can then click a specific event to view the Sentry issue for that user.
 
-See the [Sentry guide](https://docs.getsentry.com/hosted/learn/search/) and [this presentation](https://drive.google.com/drive/u/0/search?q=Sentry%20parent:1UT1VKASEzvCzWVX9fDLkYhDju35NxiLT (GitLab internal only) for more information.
+See the [Sentry guide](https://docs.getsentry.com/hosted/learn/search/) and [this presentation](https://drive.google.com/drive/u/0/search?q=Sentry%20parent:1UT1VKASEzvCzWVX9fDLkYhDju35NxiLT) (GitLab internal only) for more information.
 
