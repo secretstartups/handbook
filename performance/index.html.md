@@ -9,6 +9,21 @@ title: "Performance"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Performance Facets 
+
+We categorize performance into 3 facets
+
+1. Backend 
+1. Frontend 
+1. Infrastructure
+
+### Backend
+
+### Frontend
+
+### Infrastructure
+
+
 ## Other Related Pages
 {:.no_toc}
 
