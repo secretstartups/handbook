@@ -380,7 +380,7 @@ Status: `Closed`
 | DRI | Development team will close this issue once it is available in production |
 | Collaborators | Development team, quality counterpart, and product manager may verify the issue is working as expected in production. |
 | DRI | Product manager will decide if the issue should be documented in the release post. If so, they initiate this process. |
-| Collaborators | Development team and documentation may assist the product manager in creating the release post. |
+| Collaborators | Development team and the technical writer may assist the product manager in creating the release post. |
 | DRI | Product manager will decide if the issue should go through the GitLab dogfooding process.  If so, they initiate this process. |
 | Collaborators | Teams at GitLab that may benefit from the change may participate in the dogfooding process as appropriate. |
 | Informed | Stakeholders for the change (customers, internal users, etc.) will be informed about the feature via the change in status of the issue and/or the release post.  |
