@@ -53,7 +53,7 @@ When reviewing an assessment:
 If you're unable to offer an evaluation of an area you may leave it blank. 
 
 ### Technical Interviews
-The technical interview process is documented in the [GL-Support Group](https://gitlab.com/gl-support/se-interview). Follow the instructions there to proctor this interview. Take any notes in Greenhouse and make a note if you are inclined or not inclined to hire. Your role in the interview process for this candidate is complete!
+The technical interview process is documented in the [Support Team project](https://gitlab.com/gitlab-com/support/tech-interview/se-interview). Follow the instructions there to conduct this interview. Take any notes in Greenhouse and make a note if you are inclined or not inclined to hire. Your role in the interview process for this candidate is complete!
 
 ## Pre-Hiring
 Of course, before you can do any of the above you'll need to have an open requisition and a vacancy in that requisition. You can learn more about these terms and the process at [Requisitions and Vacancies](/handbook/hiring/vacancies/) in the [Hiring Section of the Handbook](/handbook/hiring/).
