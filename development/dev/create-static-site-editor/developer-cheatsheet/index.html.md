@@ -4,7 +4,6 @@ title: Developer Cheatsheet
 ---
 
 ## On this page
-
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
@@ -27,7 +26,10 @@ title: Developer Cheatsheet
 - [Debugging Capybara](https://docs.gitlab.com/ee/development/testing_guide/best_practices.html#debugging-capybara)
     - `CHROME_HEADLESS=0 bundle exec rspec spec/features/projects/tree/create_directory_spec.rb`
 - [Running QA specs](https://gitlab.com/gitlab-org/gitlab/tree/master/qa#how-can-i-use-it):
-    - `cd qa && bundle exec bin/qa Test::Instance::All http://0.0.0.0:3000 -- qa/specs/features/ee/browser_ui/3_create/web_ide/web_terminal_spec.rb`
+    - `cd qa`
+    - `bundle`
+    - `brew cask <install|reinstall> chromedriver`
+    - `bundle exec bin/qa Test::Instance::All [[http://0.0.0.0:3000\](http://0.0.0.0:3000)](http://0.0.0.0:3000](http://0.0.0.0:3000)) -- qa/specs/features/ee/browser_ui/1_manage/project/project_templates_spec.rb`
 - [Capybara Screenshots](https://gitlab.com/gitlab-org/gitlab/blob/master/doc/development/testing_guide/best_practices.md#screenshots)
     - `screenshot_and_save_page`
     - `screenshot_and_open_image`
