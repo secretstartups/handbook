@@ -45,7 +45,7 @@ We [assume positive intent](/handbook/values/#assume-positive-intent) from the c
 
 Rest assured: escalation is okay -- other GitLab team members are happy to help. Caring for our customers is a shared responsibility. Tag a Slack support-team Group if you haven't gotten help in your Slack thread. Tag the support managers if you need to escalate further.
 
-If another support engineer joins your emergency call, feel free to assign them a role to divide up the labor. 
+If another support engineer joins your emergency call, feel free to assign them a role to divide up the labor.
 
 > So and so would you please (take notes, reach out to this product team and ask for help, look up the code for this and see what you can find)?
 
@@ -79,19 +79,19 @@ Your role is to make sure _someone_ is available to respond to emergencies durin
 
 If you prefer to work with a colleague as a secondary, discuss with team members or your manager and find partners who like sharing the role. You can work together during the week, and update PagerDuty as you wish (options include: split days into mornings and evenings, take alternate days, work as a primary and secondary). Your manager can play an active role in helping pair people who want to work like this.
 
-**TIP:** In Google Calendar, add Busy entries for the days/items you are on-call. Because your Google Calendar is [linked to Calendly](/handbook/support/workflows/calendly.html) for [Customer Calls](/handbook/support/workflows/customer_calls.html), Busy entries ensure you will not receive round-robin calls during your on-call shift. 
+**TIP:** In Google Calendar, add Busy entries for the days/items you are on-call. Because your Google Calendar is [linked to Calendly](/handbook/support/workflows/calendly.html) for [Customer Calls](/handbook/support/workflows/customer_calls.html), Busy entries ensure you will not receive round-robin calls during your on-call shift.
 
 #### Swapping on-call duty
 
 To swap on-call duty with a colleague:
 
-* Check with your team, see who has availability, and get confirmation from the person willing to cover you. Generally, it's best to ask for help as far in advance as possible.
-* If you're unable to find coverage, alert your manager.
-* To swap an on-call shift, or temporarily replace someone, create an override on the main schedule in PagerDuty.
-   1. Open the [correct schedule](https://gitlab.pagerduty.com/schedules) in PagerDuty.
-   1. Click on the relevant block of time in PagerDuty.
-   1. Select "override" and fill in the name of the person you are swapping with.
-   
+- Check with your team, see who has availability, and get confirmation from the person willing to cover you. Generally, it's best to ask for help as far in advance as possible.
+- If you're unable to find coverage, alert your manager.
+- To swap an on-call shift, or temporarily replace someone, create an override on the main schedule in PagerDuty.
+    1. Open the [correct schedule](https://gitlab.pagerduty.com/schedules) in PagerDuty.
+    1. Click on the relevant block of time in PagerDuty.
+    1. Select "override" and fill in the name of the person you are swapping with.
+
 See [the PagerDuty documentation](https://support.pagerduty.com/docs/editing-schedules#create-and-delete-overrides) for complete steps.
 
 ### Starting on-call
@@ -104,10 +104,10 @@ When your on-call shift starts, you should get notification(s) that your shift i
 
 1. When an emergency is triggered, you will receive an alert from PD. This could be a text, phone call, email, Slack message, or a combination of those (depending on your PagerDuty notification preferences).
 1. Acknowledge the alert in PagerDuty or Slack. This means that you received the emergency page, and are starting the response process.
-1. **OPTIONAL:** Create a new Issue using the [Emergency Runbook Issue Template](https://gitlab.com/gitlab-com/support/emergency-runbook/-/issues/new), to guide you through the emergency response process for Customer Emergency tickets. 
-1. Open the Zendesk ticket. 
-   1. Most PagerDuty notification formats provide a direct link to the ticket.
-   1. Alternatively, use Zendesk search with the term `priority: urgent` to find the ticket.
+1. **OPTIONAL:** Create a new Issue using the [Emergency Runbook Issue Template](https://gitlab.com/gitlab-com/support/emergency-runbook/-/issues/new), to guide you through the emergency response process for Customer Emergency tickets.
+1. Open the Zendesk ticket.
+    1. Most PagerDuty notification formats provide a direct link to the ticket.
+    1. Alternatively, use Zendesk search with the term `priority: urgent` to find the ticket.
 1. If you are simultaneously on an [FRT or SLA Hawk shift](/handbook/support/workflows/meeting-service-level-objectives.html), ask in Slack for someone to takeover those duties.
 1. Create a Public Comment in the ticket acknowledging the emergency; offer a Zoom call to the customer.
 1. Only Resolve the PagerDuty alert _after_ you have contacted the customer. This means that you are actively handling the emergency now and will see it through.
@@ -128,6 +128,7 @@ In rare cases, the on-call engineer may experience concurrent emergencies trigge
 ### Taking an emergency customer call
 
 Taking an emergency call isn't significantly different from a normal call outside of two unique points:
+
 - You (likely) won't have much forewarning about the subject of the call
 - The desired end state is a functioning system
 
@@ -142,43 +143,51 @@ As early as possible, determine your options. In some cases, the best option may
 First, remember that your primary role is incident management. You are not expected to have all the answers personally and immediately.
 
 Your primary job is to coordinate the emergency response. That could mean:
+
 - directing the customer to take specific actions
 - finding relevant documentation or doing other research into the problem
 - identifying a known bug or regression and providing a workaround
 - analyzing log data
 
 It could _equally_ mean:
+
 - identifying other experts on the Support team to help do the above
 - reaching out to development teams to find a subject matter expert (SME)
 - suggesting that the customer reach out to additional experts on their side (for example, if the problem is slow storage, you might suggest getting someone from their storage team)
 
 Remember to say only things that help the customer and that maintain their confidence in you as the person in charge of getting their problem resolved. When you're not sure what to do, you might also be unsure what to say. Here are some phrases that might help:
-- *What have you done up until now to try to resolve this?*
-- *Please give me a few minutes to check the documentation on that.*
-- *I'm doing some research to find the answer to that; please give me a few minutes.*
-- *I'm working on finding someone who has specific expertise in this area.*
-- *I don't know the answer just yet, but I'm here for you and I will use all the resources at my disposal to get this resolved.*
+
+- _What have you done up until now to try to resolve this?_
+- _Please give me a few minutes to check the documentation on that._
+- _I'm doing some research to find the answer to that; please give me a few minutes._
+- _I'm working on finding someone who has specific expertise in this area._
+- _I don't know the answer just yet, but I'm here for you and I will use all the resources at my disposal to get this resolved._
 
 If you're stuck _and_ are having difficulty finding help, contact the [manager on-call](#support-manager-on-call) or initiate the [dev-escalation process](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process).
 
 ### Post-call
+
 Before ending an emergency customer call, let the customer know what to do if there is any follow-up, and who will be available if any follow-up is required.
 
 For example:
-> It seems like we've solved the root problem here, but if you need any help I'll be on-call for the next two hours. Feel free to **open a new emergency ticket** and I'll get back on a call with you right away. If it's after two hours, my colleague Francesca will be responding. I'll make sure that she has the background of the situation before I leave for the day. 
+
+> It seems like we've solved the root problem here, but if you need any help I'll be on-call for the next two hours. Feel free to **open a new emergency ticket** and I'll get back on a call with you right away. If it's after two hours, my colleague Francesca will be responding. I'll make sure that she has the background of the situation before I leave for the day.
 
 When the call has ended:
+
 1. Write post-call notes relevant to the customer in a public reply on the ticket.
 1. Add all relevant internal-only information as an internal note on the ticket.
 1. Tag the next on-call engineer in the emergency's Slack thread.
 
 ## GitLab.com Emergencies
+
 Starting Sept 2020, we're beginning to trial GitLab.com emergency support with a small number of customers. The initial workflow for these calls is the same as with self-managed emergencies.
 However, you have additional visibility into problems that a customer may be facing that they will not.
 
 Review:
- - [Using Kibana](/handbook/support/workflows/kibana.html) - explore GitLab.com log files to find the errors customers are encountering.
- - [Using Sentry](handbook/support/workflows/sentry.html) - get access to the full stacktrace of errors a customer might encounter.
+
+- [Using Kibana](/handbook/support/workflows/kibana.html) - explore GitLab.com log files to find the errors customers are encountering.
+- [Using Sentry](/handbook/support/workflows/sentry.html) - get access to the full stacktrace of errors a customer might encounter.
 
 During this trial period, please page the manager on-call using `/pd-support-manager` for any GitLab.com emergencies so they can offer additional support.
 
@@ -186,39 +195,46 @@ After you have identified the error and found reproduction steps, it's likely th
 and coordinate with incident management team to reach resolution. If the error is a result of a product defect, you may also need to engage the [InfraDev Escalation Process](/handbook/engineering/development/processes/Infra-Dev-Escalation/).
 
 We're expecting, broadly that emergencies will fall into one of three categories:
+
 - **broken functionality due to a regression being pushed to GitLab.com** => reproduce, identify, escalate to have a patch created and deployed.
 - **broken functionality due to an inconsistency in data unique to the customer**, for example: a group name used to be able to have special characters in it, and now something broke because our group name has a special character in it. => reproduce, identify, escalate to have the specific data corrected (and create a bug report so our code is better)
-- **GitLab.com access or "performance" degradation to the level of unusability**, for example: no access in a geographical area, CI jobs aren't being dispatched => This is the hardest class, but will generally be operational emergencies. Success here means making sure it's not actually one of the top two before [declaring an incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack) 
+- **GitLab.com access or "performance" degradation to the level of unusability**, for example: no access in a geographical area, CI jobs aren't being dispatched => This is the hardest class, but will generally be operational emergencies. Success here means making sure it's not actually one of the top two before [declaring an incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack)
 
 ## Support Manager On-call
+
 Support Managers also have an on-call rotation. During their rotation, the manager’s responsibilities are:
-* to act as an escalation point for missed customer emergency pages
-* find staff to work on emergencies during [multiple emergencies](#handling-multiple-simultaneous-emergencies)
-* to provide ownership and assignment for tickets that are escalated in `#support_managers`; [Support Team Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html)  can be used to find the right engineer to work the ticket
-* to inform those who have posted an escalation request in the `#support_self-managed` or `#support_dot-com` channels to post their escalation request instead in the `#support_managers` channel
-* to act as a notification point for security incidents
-* to coordinate  [live upgrade assistance](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html)  requests
-* to arrange for another manager to handle on-call responsibilities temporarily while they are engaged on a customer call by:
-	1. asking a specific manager to cover, and then if necessary,
-	2. posting a request in `#support_managers` for any manager to volunteer to cover if their specific request goes unanswered.
+
+- to act as an escalation point for missed customer emergency pages
+- find staff to work on emergencies during [multiple emergencies](#handling-multiple-simultaneous-emergencies)
+- to provide ownership and assignment for tickets that are escalated in `#support_managers`; [Support Team Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html) can be used to find the right engineer to work the ticket
+- to inform those who have posted an escalation request in the `#support_self-managed` or `#support_dot-com` channels to post their escalation request instead in the `#support_managers` channel
+- to act as a notification point for security incidents
+- to coordinate [live upgrade assistance](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html) requests
+- to arrange for another manager to handle on-call responsibilities temporarily while they are engaged on a customer call by:
+    1. asking a specific manager to cover, and then if necessary,
+    1. posting a request in `#support_managers` for any manager to volunteer to cover if their specific request goes unanswered.
 
 ### Seeing which manager is on-call
+
 To see who the current manager on-call is you can:
- - use ChatOps to query the on-call schedule with `/chatops run oncall manager`
- - log in to PagerDuty view the [Support Managers Service](https://gitlab.pagerduty.com/services/PTFI8XR)
- - View the individual on-call schedules for
+
+- use ChatOps to query the on-call schedule with `/chatops run oncall manager`
+- log in to PagerDuty view the [Support Managers Service](https://gitlab.pagerduty.com/services/PTFI8XR)
+- View the individual on-call schedules for
     - [Support Manager - AMER](https://gitlab.pagerduty.com/schedules/PTI56V1)
     - [Support Manager - APAC](https://gitlab.pagerduty.com/schedules/PWBXTYX)
     - [Support Manager - EMEA](https://gitlab.pagerduty.com/schedules/PXQ2ZAZ)
- - Ask in `#support_managers` (where you may or may not be referred to the above steps!)
+- Ask in `#support_managers` (where you may or may not be referred to the above steps!)
 
 ### Paging the on-call manager
+
 - First, try pinging the on-call manager by name in Slack.
 - If it's important and urgent, you can:
-   - Use the `/pd-support-manager` command to page the on-call manager
-   - Manually create a new incident from the [Support Managers Service](https://gitlab.pagerduty.com/services/PTFI8XR)
+    - Use the `/pd-support-manager` command to page the on-call manager
+    - Manually create a new incident from the [Support Managers Service](https://gitlab.pagerduty.com/services/PTFI8XR)
 
 ## Mobile phone service and data reimbursement
+
 We want to minimize the affect of on-call duty on your life. One way we do that is by offsetting any impact on your personal expenses.
 
 You may expense the cost of your mobile phone service for the month when you begin your on-call rotation. This is limited to **your** service cost itself, not any costs relating to the phone device, to a personal hotspot device or to services for other people on your phone plan.
