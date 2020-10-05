@@ -350,14 +350,12 @@ For user-facing deliverables, Product Designers work with Engineering to validat
 
 Labels: `workflow::ready for development`, `workflow::In dev` (along with `workflow::ready for review` as queue state while waiting for maintainer), `workflow::In review`, `workflow::blocked`, `workflow::verification` (sub-states for verification are `workflow::canary` and `workflow::staging`) `Deliverable`.
 
-<kbd class="required">Required 🔎</kbd>
-
 #### Key Participants
 | Role                                                       | Function                                                        |
 |------------------------------------------------------------|-----------------------------------------------------------------|
 | DRI: Engineering Manager                                   | Responsible for implementation                                  |
-| Collaborators: Product Manager, Quality, Technical writing | Plan what gets build. Quality defines test plans                |
-| Informed: Product Marketing                                | Create promptional material and decide on Release Post priority |
+| Collaborators: Product Manager, Quality, Technical Writer  | PM is responsible for prioritization in a given milestone <br> QE is responsible for defining the test plan <br> Technical Writer is responsible for any docs changes |
+| Informed: Product Marketing, Cross-stage PM, Sales and CS  | Stakeholders informed for any impact to GTM plans, or relevant cross-stage product changes |
 
 #### Description
 
