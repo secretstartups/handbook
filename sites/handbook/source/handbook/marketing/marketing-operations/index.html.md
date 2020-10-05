@@ -17,7 +17,6 @@ Our team is structured as business partners to the rest of Marketing - see focus
 
 ## Marketing Operations README's
 
-- Dara Warde, Director
 - Claudia Beer, Manager - Oversees business partners
 - Beth Peterson, Senior - SDR business partner
 - Amy Waller, Senior - Campaign business partner
@@ -144,7 +143,7 @@ If you are working with a contractor or consultant that requires access to a too
 
 ### Requesting a new tool
 
-If you are interested in or would like to request a new tool be added to the tech stack, [please submit an issue using the tools eval issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=tools_eval) in the Marketing Operations repository. Marketing Operations should be included in new tool evaluations to account for system integrations, budget, etc.
+If you are interested in or would like to request a new tool be added to the tech stack, [please submit an issue using the tools eval issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=tools_eval) in the Marketing Operations repository. Marketing Operations should be included in new tool evaluations to account for system integrations, budget, etc. Any new tools desired after the budget is set will be handled by transferring budget from the other department to Marketing Operations.
 
 ## Working with Marketing Operations
 
@@ -162,6 +161,8 @@ With [Agile Delivery](https://about.gitlab.com/solutions/agile-delivery/) being 
 
 MktgOps uses a [global issue board](https://gitlab.com/groups/gitlab-com/-/boards/825719) and will capture any issue in any group/sub-group in the repo since we work with so many other teams. There is also a [`Marketing Operations` project](https://gitlab.com/gitlab-com/marketing/marketing-operations) within the [`Marketing` project](https://gitlab.com/gitlab-com/marketing).
 
+Please note that there is now a new [Marketing Strategy and Performance project](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance) for tracking work around Marketing overall strategy as well as reporting, dashboards and analysis.
+
 ### Use of Epics
 
 In order to categorize various related issues, we will make use of epics to help a team member organize our work, especially if it crosses multiple milestones. If it is a MktgOps epic, we will add the `In Epic` label to it, so that we can easily see that it is part of an epic on our kanban board.
@@ -173,9 +174,8 @@ We use Labels for several purposes. One is to categorize the tool or area that i
 **Categories:**
 
 - `MktgOps - FYI`: Issue is not directly related to operations, no action items for MktgOps but need to be aware of the issue
-- `MktgOps - Reporting`: Any reporting request for MktgOps
 - `MktgOps - List Import`: Used for list imports of any kind - event or general/ad hoc (do not also use To Be Triaged scoped label)
-- `Marketo`, `Bizible`, `Cookiebot`, `Demandbase`, `DiscoverOrg`, `Drift`, `GDPR`, `LeanData`, `LinkedIn Sales Navigator`, `Outreach-io`, `PathFactory`, `Periscope`, `Sigstr`: used to highlight one of our tech stack tools
+- `Marketo`, `Bizible`, `Cookiebot`, `Demandbase`, `Drift`, `GDPR`, `LeanData`, `LinkedIn Sales Navigator`, `Outreach-io`, `PathFactory`, `Periscope`, `Sigstr`, `ZoomInfo`: used to highlight one of our tech stack tools
 - `In Epic`: bright yellow label to show that it is part of a MktgOps epic
 
 **Priorities:**
@@ -226,7 +226,7 @@ The Marketing Operations team had started an experiment on 2020-04-20 to commit 
 
 ### Operational Timeline of Changes
 
-Periodically Marketing Operations makes significant changes to our system and processes that affect overall tools, data and reporting or uncovers significant changes that affected reporting. As such we have an [Operational timeline of events](https://drive.google.com/open?id=1vhGvEszndMJ4B9EshGFSdTTABwUzBzDObz93vkMSFGA). The MktgOps team updates this document as needed as changes are made.
+Periodically Marketing Operations makes significant changes to our system and processes that affect overall tools, data and reporting or uncovers significant changes that affected reporting. As such we have a shared [Operational timeline of events](https://drive.google.com/open?id=1vhGvEszndMJ4B9EshGFSdTTABwUzBzDObz93vkMSFGA). The MktgOps and Strategy/Perf teams update this document as needed as changes are made.
 
 ## Marketing Expense Tracking
 
@@ -271,19 +271,6 @@ Marketing Program Managers track costs associated with campaigns - such as event
 - All costs, including travel expenses for those working the event, must be tagged in order to capture the true cost of campaigns. Although travel expenses related to putting on the event hit a different GL code, they should be budgeted within the event line.
 - Tagging expenses that are processed by Accounts Payable require Marketing to provide explicit instruction on when to apply tags, which should happen during the normal course of reviewing and approving vendor invoices.
 - For event or campaign expenses that do not have a tag, include a note to Accounts Payable clearly stating that campaign tags are not applicable to the expense. In some cases, a general tag like Swag_Corporate may be more a more appropriate tag to track against budget.
-
-## Marketing Gearing Ratios
-Gearing ratios are used as business drivers to forecast long term financial goals by function. Refer to the [FP&A handbook](/handbook/finance/financial-planning-and-analysis/#business-drivers-also-known-as-gearing-ratios) for further details on how gearing ratios enable planning and forecasting. 
-
-The gearing ratios for marketing are as follows:
-
-- **Inquiries per MQL**: at the top of the marketing funnel, this is the conversion rate at which [Inquiries](/handbook/business-ops/resources/#glossary) become Marketing Qualified Leads ([MQL's](/handbook/marketing/marketing-operations/#lead-scoring-lead-lifecycle-and-mql-criteria)).
-- **MQL to SAO**: this is the mid-funnel conversion rate at which MQL's become Sales Accepted Opportunities ([SAO's](/handbook/business-ops/resources/#criteria-for-sales-accepted-opportunity-sao)).
-- **SAO to Closed-Won**: at the bottom of the marketing funnel, this is the rate at which SAO's move through the full pipeline to [closed won](/handbook/sales/#forecast-categories-definitions), resulting in a sale.
-- **Pipe-to-Spend**: is the ratio of pipeline created that is attributed to demand generation program spend. The target ratio is 5:1 for pipe-to-spend.
-- **XDR MQL Disposition/Month**: is the capacity of an ([XDR](/handbook/marketing/revenue-marketing/xdr/)) to convert MQL's into SAO's. Total MQL's converted to SAO's / Qty of XDR's
-- **New IACV Average Deal Size**: is the average deal size of new customer transactions by segment and geography
-- **Marketing E/R and long-term profitability target**: is marketing operating expense divided by revenue (ratable) as shown on the income statement. The long term target profitability target for Marketing E/R is 13%. This target includes the operating expense related to free usage of gitlab.com. See gitlab financial model for yearly targets of this gearing ratio.
 
 ## Email Management
 
