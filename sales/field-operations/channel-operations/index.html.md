@@ -211,6 +211,58 @@ _Why is this important?_
 
 
 
+## Managing Special Cases
+
+### Creating MSP Opportunities
+
+A Managed Service Provider (MSP) purchases licenses on behalf of an end user. The MSP will be the owner and manager of the licenses but their customer - the end user - is the one using the licenses. This creates specific needs in GitLab Salesforce opportunities to ensure proper reporting and compensation. 
+
+When you have an MSP opportunity, the Sales Reps need to follow these ***additional*** steps:
+
+**Step 1:** The opportunity must be created using the MSP partner account, NOT the potential customer on whose behalf they are purchasing.
+
+**Step 2:** Change the opportunity owner to the correct Sales Rep that owns the end-user account even though the opportunity is created under the Partner MSP account.
+
+**Step 3:** Fill out the Partner and Deal Registration Information Section per the following:
+DR-Partner: this must list the MSP’s Partner account (same as the opportunity is created under) 
+DR-Deal type: “Resale”
+DR-Engagement: “PIO”
+
+**Step 4:** When filling out the quote for this opportunity, select the **MSP quote template**. 
+- Invoice owner: The MSP Partner (same as DR-Partner referenced above).
+- Special Terms and Notes: Name of the End-user Customer (the MSP owns the licenses on behalf of). 
+
+### Creating a Service-Attached Opportunity
+
+A Service-Attached opportunity is created to track when a partner offers their own professional services along with GitLab licenses. This is separate from the license sale and respective Salesforce opportunity. 
+
+To create the opportunity, the partner must register the deal on the [partner portal](https://about.gitlab.com/handbook/resellers/#gitlab-partner-portal). **The opportunity needs to be created for the service-attach opportunity alone.** The service-attached opportunity should never be a part of, or added on to the GitLab product sale opportunity. 
+
+For proper reporting, ensure that all the correct fields are used to notate that this is a partner service-attached opportunity.
+- DR - Partner: The partner account providing the services
+- DR - Partner Deal type: Services Attach
+- DR - Partner Engagement: N/A
+
+GitLab Sales needs to add the GitLab product sales opportunity as the parent opportunity to the service-attached opportunity.
+
+As the opportunity progresses, use the stages of the opportunity (0 - 7) until the agreement documentation is received that the customer is moving forward. Once the agreement for the Partner Services is completed (i.e. SOW, quote, order form), change the opportunity to **Stage: 10-Duplicate.**
+
+### Multiple-bid Process
+
+For opportunities where there are multiple partners bidding on the same opportunity, it’s important that each partner gets the appropriate pricing for the opportunity.
+- The partner with the approved Deal Registration needs to receive the [documented discount for the program](https://gitlab.my.salesforce.com/0694M000008xAk4).
+- **All other partners quoting/bidding on the opportunity do not receive any partner discounts. They should be provided MSRP only.** 
+- If the deal includes a distribution partner, that distributor receives their contracted margin. 
+
+For more informaiton on quoting or the Partner Program, please visit:
+
+[Deal Desk Quote Configuration](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes)
+
+[Partner Program](https://about.gitlab.com/handbook/resellers/)
+
+
+
+
 ##  Program and Incentive Definitions
 
 **Partner Program Discounts**
@@ -227,17 +279,19 @@ _Why is this important?_
     -  True-ups to an original partner opportunity. 
 - The opportunity must be new to our sales team, and can be for a new or existing customer.
 - This can be for either a resale or referral opportunity.  
-- The partner is expected to assist the GitLab Sales team in closing the sale. 
+- The partner is expected to assist the GitLab Sales team in closing the sale. It does not mean that the SAL is not involved.
+- PIO can be a lead you have been working forever and cannot convert - partner intros or partner services creates conversion or expansion.
+- If a partner helps upsell or expand an opportunity, the entire opportunity qualifies as PIO.
 - For US Public Sector, each unique customer opportunity within a single government program can be partner initiated.
 - For resale, the partner receives an upfront discount that is dependent on the partners track within the GitLab Partner Program.
-- Referral rebate payments are paid out at the end of each GitLab fiscal quarter
+- Referral rebate payments are paid out no later than 45 after the end of each GitLab fiscal quarter.
 - The determination of PIO is at the sales rep & CAM determination and tracked via SFDC opportunities.
 
 **Partner Assist Opportunity**
-- Any opportunity where the partner assists our sales team to close the deal.
-- This may be a customer demo, an executive introduction meeting, delivery of services, etc.
+- Any opportunity where the partner assists our sales team in closing the deal.
+- This assistance may include any or all of the following: a customer demo/POV, an executive introduction meeting, delivery of services, helping with the transaction, financing.  Often this is leveraging the partner's incumency.
 - Partners need to submit a Deal Registration for Partner Assist.  Since it is for a GitLab sourced opportunity, it does not qualify for PIO, but should be tagged as Partner Assist in Salesforce.
-- The determination of Partner Assist is at the sales rep & CAM determination and tracked via SFDC opportunities.
+- The determination of Partner Assist is at the sales rep & CAM determination and tracked via SFDC opportunities. 
 
 **Partner Fulfill Opportunity**
 - Any opportunity that was fulfilled by a partner but closed independently via the GitLab sales team.
@@ -253,7 +307,7 @@ _Why is this important?_
     -  1st deal: => $7,500 in services
     -  2nd deal: =>$10,000 in services
     -  3rd deal: => $10,000 in services
-- Partners must register a Services Attach deal registration to qualify for the incentive.
+- Partners must register a Services Attach deal registration and provide proof of performance to qualify for the incentive.
 - Rebate payments are paid out at the end of each GitLab fiscal quarter.
 - Rebates and referral fees may require CRO approval.
 
@@ -263,7 +317,7 @@ _Why is this important?_
 
 **Incumbency Renewals**
 - Incumbent partners qualify for program renewal discounts.  The partners that transacts the most recent sale (IACV) are considered the incumbent
-- A different partner can earn an incumbency discount only through formal written communications from the customer.
+- A different partner can earn an incumbency discount only through formal written communications from the customer.  This can be provided via email from an authorized representative from the customer.
 - In some cases, a customer purchased their most recent subscription directly from GitLab, but is directed to a partner for renewal. Partners are encouraged to engage with these customers, but their first renewal of a formerly direct customer will not be discounted for partners. 
 - To earn partner discounts, partners will be required to meet compliance requirements (i.e. in good credit standing, have provided quarterly updates on customer, review within 30 days of renewal, etc).
 
@@ -508,11 +562,11 @@ Additional newsletters can be found [http://eepurl.com/g8hRIT](http://eepurl.com
 ## Frequently Asked Questions
 
 **Where can I find the Standard Channel Discounts for my Partners?**
-- Follow [SFDC Discounting table](https://gitlab.my.salesforce.com/0694M000008xAk4)z
+- Follow [SFDC Discounting table](https://gitlab.my.salesforce.com/0694M000008xAk4)
 
 [Public Sector discount table](https://gitlab.my.salesforce.com/0694M000009YhAcQAK)
 
-**Where can I find more information about our current Partners processes?**
+**Where can I find more information about our current Partner processes?**
 - The current Resellers Handbook can be found [Here](/handbook/resellers/)
 
 **Whats the current Deal Registration Process?**

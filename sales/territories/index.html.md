@@ -77,7 +77,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | ---------- | ---- | -------------- | ----- | --- |
 | NA East | Northeast | **Large-AMER-Eastern Canada** | Peter McCracken | Aashish Sharma |
 | NA East | Northeast | **Large-AMER-Ontario** | Peter McCracken | Aashish Sharma |
-| NA East | Northeast | **Large-AMER-Mass** | Patrick Byrne | Bill Zaferopolos |
+| NA East | Northeast | **Large-AMER-Mass** | Tony Scafidi | Bill Zaferopolos |
 | NA East | Northeast | **Large-AMER-Manhattan** | Liz Corring | Max Chadliev |
 | NA East | Northeast | **Large-AMER-Northeast** | Tony Scafidi | Bill Zaferopolos |
 | NA East | Northeast | **Large-AMER-Mid-Atlantic** | Katherine Evans | Kelsey Steyn |

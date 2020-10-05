@@ -39,4 +39,4 @@ You can find information about specific projects [here](/handbook/sales/field-op
 
 ### FY22 Field Planning
 
-You can find information about FY22 Planning [here](/handbook/sales/field-operations/sales-strategy/fy22-field-planning)
+Current FY22 Planning file can be found [here](https://docs.google.com/spreadsheets/d/1-SnZ0LGZEVuE-7qAU69m5p8wH7gJJCym6EsEmO-7idY/edit#gid=170681456) 
