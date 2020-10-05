@@ -144,16 +144,18 @@ For out-of-network services: 365 days from Date of Service.
 
 ### Cigna Medical Plans (2021)
 
+Effective January 1, 2021, GitLab will be transitioning from UHC to Cigna as the primary national carrier. More details on how to search for in-network providers and a benefit guide will be available shortly.
+
 #### Cigna 2021 Calendar Year Plans
 
 **Coverages:**
 
 In Network:
 
-| Plan Details               | [UHC - HSA](https://drive.google.com/open?id=1w0RTAyvhhhLxg6lZC-HuCNum2PVsOC-l)              | [UHC - EPO**](https://drive.google.com/open?id=1d3fFvtnEMIocCprS0e_jFOrf5JmMAW7z)        | [UHC - PPO](https://drive.google.com/open?id=1t7qhKfZzQWQtT1G8MJY733bQHTVyMHtA)         |
+| Plan Details               | Cigna - HSA  | Cigna EPO (PPO $0)** | Cigna PPO 500***       |
 |:---------------------------|:----------------------:|:------------------:|:-----------------:|
 | Deductible (Single/Family) | $2,000 / $2,800        | $0 / $0            | $500 / $1,000     |
-| OOP Max (Single/Family)    | $4,000 / $4,000        | $2,500 / $5,000    | $3,000 / $6,000   |
+| OOP Max (Single/Family)    | $4,000 / $8,000        | $2,500 / $5,000    | $3,000 / $6,000   |
 | Primary Care Visit         | 20%                    | $20 per visit      | $20 per visit     |
 | Specialist Visit           | 20%                    | $20 per visit      | $20 per visit     |
 | Urgent Care                | 20%                    | $50 per visit      | $50 per visit     |
@@ -163,8 +165,11 @@ In Network:
 | Generic                    | $10                    | $10                | $10               |
 | Brand - Preferred          | $30                    | $30                | $30               |
 | Brand - Non-Preferred      | $50                    | $50                | $50               |
-| Specialty Drugs            | $50                    | 20% up to $250     | 20% up to $250    |
-| Rx Plan                    | [C2-HSA***](https://drive.google.com/file/d/1f9exxBPTlrEy0ZTMXC8-r6WP40_tCIHX/view?usp=sharing)                 | [Rx Plan: 464***](https://drive.google.com/file/d/1f9exxBPTlrEy0ZTMXC8-r6WP40_tCIHX/view?usp=sharing)    | [Rx Plan: 464***](https://drive.google.com/file/d/1f9exxBPTlrEy0ZTMXC8-r6WP40_tCIHX/view?usp=sharing)      |
+
+** In order for the EPO plan to be compliant in all states, it has been set up as a PPO plan with bad out-of-networks benefits including a deductible of $10k/$20k, an OOPM of $20k/$40k, and a coinsurance of 50%. Please do not enroll in this plan if you are intending to use the out-of-networks benefits and instead review the Cigna PPO 500 or Cigna HSA plans. 
+
+*** Cigna will provide an extended network PPO Plan for Utah team members which will include the Intermountain Healthcare System.
+
 
 **Team Member Costs:**
 
@@ -176,6 +181,14 @@ The following costs are monthly rates which would be deducted from your paycheck
 | Team Member + Spouse     | $0  | $234 | $222 |
 | Team Member + Child(ren) | $0  | $180 | $168 |              
 | Family                   | $0  | $402 | $378 |
+
+#### Cigna Infertility Services
+
+Infertility services will be included in both the PPO 500 plan and HSA plan. This includes a $15,000 lifetime infertility benefit for each covered member. More details will be included in the SBCs once available.
+
+#### Cigna Transgender Benefit Coverage
+
+All plans through Cigna will include full WPATH transgender benefit coverage. More details on this will be made available shortly.
 
 ### Kaiser Medical Plans
 
@@ -193,10 +206,10 @@ The following costs are monthly rates which would be deducted from your paycheck
 | Hospital Inpatient         | $250/admit           | $250/visit      | $300/admit      | 10%             |
 | Hospital Outpatient        | $35/procedure        | $35/procedure   | $100/procedure  | 10%             |
 | **Rx - Deductible**        |                      |                 |                 |                 |
-| Generic                    | $10                  | $10             | $10             | $0              |
-| Brand - Preferred          | $35                  | $35             | $30             | $0              |
-| Brand - Non-Preferred      | $35                  | $35             | $50             | $0              |
-| Specialty Drugs            | 20% up to $150       | $35             | 20% up to $150  | $0              |
+| Generic                    | $10                  | $10             | $10             | N/A              |
+| Brand - Preferred          | $35                  | $35             | $30             | N/A             |
+| Brand - Non-Preferred      | $35                  | $35             | $50             | N/A             |
+| Specialty Drugs            | 20% up to $150       | $35             | 20% up to $150  | N/A             |
 
 **Team Member Costs:**
 
@@ -213,20 +226,20 @@ The following costs are monthly rates which would be deducted from your paycheck
 
 **Coverages:**
 
-| Plan Details               | [HMO 20 NorCal](https://drive.google.com/open?id=1utx4DFMtnm1ZYwZtMZWyyFk3xyr2x0_V)        | [HMO 20 SoCal](https://drive.google.com/open?id=15uXcg4mwHNhfEOLRuxMyHVCz40sEG-RV)     | [HMO 20 CO](https://drive.google.com/open?id=1TPzU601w7P_b2OQpQzmB87x2wijELGg9)      | [HMO 20 HI](https://drive.google.com/open?id=1Vyg3NMnDPJn1vsQyysd5k39FDeuHdJsx)       |
+| Plan Details               | HMO 20 NorCal       | HMO 20 SoCal    | HMO 20 CO     | HMO 20 HI       |
 |----------------------------|:--------------------:|:---------------:|:---------------:|:---------------:|
 | Deductible (Single/Family) | $0 / $0              | $0 / $0         | $0 / $0         | $0 / $0         |
 | OOP Max (Single/Family)    | $1,500 / $3,000      | $1,500 / $3,000 | $2,000 / $4,000 | $2,500 / $7,500 |
 | PCP/Specialist Copay       | $20 / $35            | $20 / $35       | $20 / $35       | $15 / $15       |
-| Emergency Room             | $50                  | $100            | $250            | $100            |
-| Urgent Care                | $20                  |                 | $50             | $15             |
-| Hospital Inpatient         | $250/admit           | $250/visit      | $300/admit      | 10%             |
+| Emergency Room             | $50                  | $50             | $250            | $100            |
+| Urgent Care                | $20                  | $20             | $50             | $15             |
+| Hospital Inpatient         | $250/admit           | $250/admit      | $300/admit      | 10%             |
 | Hospital Outpatient        | $35/procedure        | $35/procedure   | $100/procedure  | 10%             |
 | **Rx - Deductible**        |                      |                 |                 |                 |
-| Generic                    | $10                  | $10             | $10             | $0              |
-| Brand - Preferred          | $35                  | $35             | $30             | $0              |
-| Brand - Non-Preferred      | $35                  | $35             | $50             | $0              |
-| Specialty Drugs            | 20% up to $150       | $35             | 20% up to $150  | $0              |
+| Generic                    | $10                  | $10             | $10             | N/A              |
+| Brand - Preferred          | $35                  | $35             | $30             | N/A             |
+| Brand - Non-Preferred      | $35                  | $35             | $50             | N/A             |
+| Specialty Drugs            | 20% up to $150       | 20% up to $150  | 20% up to $250  | N/A             |
 
 **Team Member Costs:**
 
