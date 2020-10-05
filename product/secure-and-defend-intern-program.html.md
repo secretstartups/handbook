@@ -10,7 +10,7 @@ title: "Secure and Defend Internship Program"
 {:toc .hidden-md .hidden-lg}
 
 ## Overview
-The best way to learn about something is by doing something. The best feedback
+The best way to learn about something is by doing it. The best feedback
 comes directly from working with end-users and the product directly. At GitLab,
 we have the opportunity to get more direct product feedback and help folks
 learn more about security at the same time.
@@ -119,7 +119,7 @@ long internship might look like.
 ## Upcoming Slots
 
 | Time frame | Mentor |
-| | |
+| October-November 2020 | @stkerr |
 
 ### Interns
 
