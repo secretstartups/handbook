@@ -44,7 +44,6 @@ Incident reviews second step is engaging with the customer, through the point of
 
 1. **Immediately following the incident**: The incident review is started in the original incident issue and the [EOC and IMOC are assigned](#incident-review-issue-creation-and-ownership).
    1. IMOC and EOC invite stakeholders for involvement in authoring the incident review. This can include one of more of:
-       1. Appropriate **development team(s)**, involved in changes that contributed to the incident.
        1. A **Quality-engineering team**, in order to look for improvements to the QA process could have mitigated or reduced the length of the incident.
        1. The **Delivery team**, when release processes contributed to the incident.
        1. The **Scalability team**, when scaling bottlenecks contributed to the incident.
@@ -52,8 +51,12 @@ Incident reviews second step is engaging with the customer, through the point of
        1. The **CMOC**, if necessary.
        1. **Product Managers**, for example, if the incident could have been avoided by the prioritisation of specific ~Infradev/technical debt work.
        1. **Technical Account Managers**, if the incident directly impacted one of more major accounts
+   1. A designated director from the Development Department will go over incidents labeled `~Incident:Review In Progress`:
+       1. Identify any Development Department groups relevant to the incident.
+       1. Apply any relevant group labels to the incident.
+       1. Invite the relevant Development Department managers to the Synchronous Review Meeting Session.
+   1. For teams, the manager should be invited, and, if they wish, can delegate responsibility to another member of the team. 
        1. For severity::1 incidents, **directors** responsible for the invited teams should also be invited.
-   1. For teams, the manager should be invited, and, if they wish, can delegate responsibility to another member of the team.
 1. **Within seven working-days of the incident**: Incident Review is authored and ready for review by stakeholders.
 
 ## Incident Review Issue Creation and Ownership
