@@ -203,6 +203,13 @@ The process to associate a user with an organization is:
 
 ![Adding a user to an existing organization](/images/handbook/support/zendesk_needs_org-add.png)
 
+### Customer reply from email address not associated with ticket
+When a customer responds to a ticket from an email address that is not included in CC or is not the original requestor, the customer's response is recorded as internal. The current workaround is to add that email of the customer to CC and reply. After that, their next replies will not be marked as internal anymore.
+
+Be sure to notify the customer that a CC has been added to the ticket. For example:
+
+> We got a note from John with email address john@domain.org. From the context it looks like they should be included in the ticket, so for convenience I added them to the CC list. If they shouldn't be included, please let us know so we can remove them.`
+
 ### Verifying that the ticket now has the proper SLA applied
 
 Now that you've added the appropriate domain, head back to your original ticket
