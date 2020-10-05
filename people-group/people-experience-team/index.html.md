@@ -23,6 +23,7 @@ Holidays with no availability for onboarding/offboarding/career mobility issues:
 |-----------------------------------|
 | 2020-05-01 | Family & Friends Day
 | 2020-08-14 | Family & Friends Day
+| 2020-10-09 | Family & Friends Day
 | 2020-12-25 |
 | 2021-01-01 |
 
@@ -134,6 +135,14 @@ This will be the responsibility of the People Experience Associate that is assig
 ### Pulling of BambooHR Onboarding Data
 
 Every Monday and Wednesday, the Associate in the rotation will pull the report that has been shared in BambooHR called `New Hires`. The data for the next 2 weeks will be added to the spreadsheet to ensure sufficient time in completing the pre-onboarding tasks. 
+
+1. Open BHR and select the Onboarding Tracker Report
+1. Click on the hire date until it is showing the hire dates in order
+1. Highlight and copy the data of all the new hires starting the next week and following 
+  - Keep name format as (Last Name, First Name)
+1. Paste the data into the People Experience Onboarding Tracker at the bottom 
+1. If a name is highlighted, this means the name is already on the tracker. Review that the hire date is the same and delete the highlighted field you just added. 
+1. If the name is not highlighted this is a new add and keep the name on the tracker. 
 
 ### Weekly Moo Report
 
