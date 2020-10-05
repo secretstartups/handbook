@@ -51,7 +51,7 @@ When scheduling for VPs or directors at GitLab, please check the scheduling pref
 
 ## Scheduling for Finance VPs and Sr. Leadership
 
-**Bryan Wise, VP of IT - Craig Mestel, VP of FP&A - Dale Brown, PAO - Igor Groenewegen-Mackintosh, Director of Tax - Tony Righetti, Sr. Director of IR**
+**Bryan Wise, VP of IT - Craig Mestel, VP of FP&A - Dale Brown, PAO - Igor Groenewegen-Mackintosh, Director of Tax - Tony Righetti, Sr. Director of IR - Paul Machle, Finance Special Projects Advisor**
 
 * Please reach out to Jaclyn Grant (Sr. EBA) to schedule or reschedule any meetings 
 * Don't schedule over DNB blocks 
