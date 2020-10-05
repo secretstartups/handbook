@@ -28,7 +28,11 @@ If there are two opportunity for two separate subscriptions and the customer req
 
 Example case: https://gitlab.zendesk.com/agent/tickets/162478 (internal)
 
-**Exception**: When customer switch reseller, a new subscription will be generated instead. This is being actively discussed in [Route to Market Mid-Term Change Alignment](https://gitlab.com/gitlab-com/Finance-Division/finance/-/issues/3334). For now, we should generate a new license that will include seats from both existing and new subscription for customer.
+**Exception**: When a customer has an existing subscription they purchased direct, and wants to buy additional seats via a reseller, a new subscription should be generated because of different terms. Similarly, if a customer has a subscription with reseller A, and wants to purchase additional seats via reseller B, a new subscription is required for the add-on purchase.
+
+This is being actively discussed in [Route to Market Mid-Term Change Alignment](https://gitlab.com/gitlab-com/Finance-Division/finance/-/issues/3334). For now, we should generate a new license that will include seats from both existing and new subscription for customer.
+
+Interesting to note: Reseller subscriptions and direct-purchased subscriptions should not be on the same customer account. Which means that in some cases you will be generating a license for the sum of 2 subscriptions across 2 customer accounts.
 
 ### Splitting subscription
 
@@ -46,7 +50,7 @@ To move the ticket forward, please check whether the new subscription was purcha
 
 If the `Bill to` is different for both subscriptions, we can generate a new license that would include `Users in license` from both subscriptions.
 
-If teh `Bill to` is the same for both subscriptions:
+If the `Bill to` is the same for both subscriptions:
 1. Search for the relevant Opportunity Owner in SFDC or Sales rep in Zuora
 1. Let the customer know that we are handling the issue internally while copying the account owner (Opportunity Owner) on the ticket
 1. Ping the Opportunity Owner in [#support_sales_escalation](https://gitlab.slack.com/archives/C011JT165J5) and let them know that the new subscription opps should be credited and a new opps should be submitted as an add-on to the existing one as mentioned in the [example case](https://gitlab.zendesk.com/agent/tickets/162478)
