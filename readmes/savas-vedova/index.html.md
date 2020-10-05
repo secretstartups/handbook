@@ -1,14 +1,14 @@
 ---
 layout: markdown_page
 title: "Savas Vedova's README"
-job: "Senior Frontend Engineer, Defend"
+job: "Senior Frontend Engineer, Protect"
 ---
 
 ## Savas Vedova' README
 
 Hi there,
 
-My name is Savas (pronounced Savash), and I am a Senior Frontend Engineer at Gitlab, in the Defend team. This page is  a brief readme about myself and the ways I work.
+My name is Savas (pronounced Savash), and I am a Senior Frontend Engineer at Gitlab, in the Protect team. This page is a brief readme about myself and the ways I work.
 
 Having spent half of my life in Switzerland and the other in Turkey, I consider myself a bicultural person. I believe this allowed me to make friendships quite fast and get used to other cultures pretty quick. I speak 3 languages fluently: English, Italian and Turkish. I have some French knowledge and enough German to explain my needs in the tax office. 
 
