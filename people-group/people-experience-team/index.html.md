@@ -206,6 +206,9 @@ When a team member completes the GitLab gift form request, the People Experience
 - Use the Gift [page](/handbook/people-group/#gifts) in the Handbook for any further information regarding the policy for gift order requests. 
 - If a gift card is needed for a particular event or prize, create an issue for the Payroll team to get the relevant approval. 
 
+**Swag** Gift Requests 
+If a swag gift is requested (.i.e. a GitLab onesie) email merch@gitlab.com for a code to get one. said swag. Please do not order one from the store and expense. These expenses will get rejected if they are found by finance. 
+
 ### Scheduling Group Conversations 
 
 The People Experience team assists with the administration of the GitLab Team Calendar and automatically can assist with the following:
