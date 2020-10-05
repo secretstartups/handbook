@@ -54,7 +54,7 @@ Because this page needs to be concise and consistent, please ensure to follow th
 
 ## But Wait, Isn't This Waterfall? 
 
-No. Although these phases appear to be independent and linear for simplicity sake, they are not. It is common to iterate through the Discovery phases multiple times before moving to Build. Once in the Build phases, it may be necessary to go back to Discovery phases as roadblocks or technical challenges arise. 
+No. Although the phases below appear to be independent and linear, they're not. They are presented as such on the page for simplicity and ease of navigation. It is common to iterate through the Validation phases multiple times before moving to Build. Once in the Build phases, it may be necessary to go back to Validation phases as roadblocks or technical challenges arise. 
 
 ## Workflow Summary
 <kbd class="required">Required 🔎</kbd>
