@@ -260,7 +260,7 @@ This section is ordered by stage and group according to the [product categories 
 |  |  | APAC | Anton |
 | Composition Analysis | Dependency Scanning<br>Container Scanning<br>License Compliance | AMER | Greg<br>Katrin |
 
-#### Defend
+#### Protect
 
 ##### Container Security
 
