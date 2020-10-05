@@ -16,7 +16,7 @@ title: "GitLab Inc (US) Benefits"
 
 US based benefits are arranged through [Lumity](https://lumity.com/). The benefits decision discussions are held by Total Rewards, the CFO, and the CEO to elect the next year's benefits by the carrier's deadlines. Total Rewards will notify the team of open enrollment as soon as details become available.  
 
-**The 2020 Open Enrollment will begin October 19, 2020 and will end on November 2, 2020. Your plan will renew January 1, 2021. _THIS WILL BE AN ACTIVE ENROLLMENT, YOU MUST ELECT BENEFITS IN LUMITY DURING THE OPEN ENROLLMENT WINDOW TO HAVE BENEFITS IN 2021._**
+**The 2020 Open Enrollment will begin October 19, 2020 and will end on November 2, 2020. Your plan will renew January 1, 2021. _This will be an active enrollment, you must elect benefits in Lumity during the Open Enrollment window to have benefits in 2021._**
 
 Please review the full [summary plan description](https://drive.google.com/file/d/1XGOniJ-lnUyPdSvE_ce1W5KZlTzjRyTK/view?usp=sharing) of all related health benefits.
 
