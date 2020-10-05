@@ -57,7 +57,7 @@ Any active, regular, full-time team member working a minimum of 30 hours per wee
 
 Note: If you and an eligible dependent (as defined above) are both employed by GitLab, you may only be covered by GitLab’s coverage once. This also applies to enrolling in either your own supplemental life insurance or supplemental spouse/dependent life insurance through your dependent who is employed by GitLab, but not both.
 
-### United Health Care Medical Plans
+### United Health Care Medical Plans (2020)
 
 To determine your specific plan name, log in to the Lumity system and click "My Benefits" - View Button > Plan Name (e.g. GitLab UHC HSA 2000 + Infertility). The benefits summary that comes up has the network name IN the plan name (for example: Select Plus PPO HDHP / California  - Select Plus / HSA - Plan AXEX).
 
@@ -142,6 +142,41 @@ For in-network services: 90 days from Date of Service.
 
 For out-of-network services: 365 days from Date of Service.
 
+### Cigna Medical Plans (2021)
+
+#### Cigna 2021 Calendar Year Plans
+
+**Coverages:**
+
+In Network:
+
+| Plan Details               | [UHC - HSA](https://drive.google.com/open?id=1w0RTAyvhhhLxg6lZC-HuCNum2PVsOC-l)              | [UHC - EPO**](https://drive.google.com/open?id=1d3fFvtnEMIocCprS0e_jFOrf5JmMAW7z)        | [UHC - PPO](https://drive.google.com/open?id=1t7qhKfZzQWQtT1G8MJY733bQHTVyMHtA)         |
+|:---------------------------|:----------------------:|:------------------:|:-----------------:|
+| Deductible (Single/Family) | $2,000 / $2,800        | $0 / $0            | $500 / $1,000     |
+| OOP Max (Single/Family)    | $4,000 / $4,000        | $2,500 / $5,000    | $3,000 / $6,000   |
+| Primary Care Visit         | 20%                    | $20 per visit      | $20 per visit     |
+| Specialist Visit           | 20%                    | $20 per visit      | $20 per visit     |
+| Urgent Care                | 20%                    | $50 per visit      | $50 per visit     |
+| Emergency Room             | 20%                    | $100 per visit     | $100 per visit +10%   |
+| Hospital Inpatient         | 20%                    | $250 per admission | 10%               |
+| Hospital Outpatient        | 20%                    | 0%                 | 10%               |
+| Generic                    | $10                    | $10                | $10               |
+| Brand - Preferred          | $30                    | $30                | $30               |
+| Brand - Non-Preferred      | $50                    | $50                | $50               |
+| Specialty Drugs            | $50                    | 20% up to $250     | 20% up to $250    |
+| Rx Plan                    | [C2-HSA***](https://drive.google.com/file/d/1f9exxBPTlrEy0ZTMXC8-r6WP40_tCIHX/view?usp=sharing)                 | [Rx Plan: 464***](https://drive.google.com/file/d/1f9exxBPTlrEy0ZTMXC8-r6WP40_tCIHX/view?usp=sharing)    | [Rx Plan: 464***](https://drive.google.com/file/d/1f9exxBPTlrEy0ZTMXC8-r6WP40_tCIHX/view?usp=sharing)      |
+
+**Team Member Costs:**
+
+The following costs are monthly rates which would be deducted from your paycheck.
+
+| Tier                     | HSA | EPO  | PPO  |
+|--------------------------|:---:|:----:|:----:|
+| Team Member Only         | $0  | $0   | $0   |
+| Team Member + Spouse     | $0  | $234 | $222 |
+| Team Member + Child(ren) | $0  | $180 | $168 |              
+| Family                   | $0  | $402 | $378 |
+
 ### Kaiser Medical Plans
 
 #### Kaiser 2020 Calendar Year Plans
@@ -173,6 +208,36 @@ The following costs are monthly rates which would be deducted from your paycheck
 | Team Member + Spouse     | $228         | $228         | $264   | $168   |
 | Team Member + Child(ren) | $180         | $180         | $216   | $132   |          
 | Family                   | $348         | $348         | $432   | $324   |
+
+#### Kaiser 2021 Calendar Year Plans
+
+**Coverages:**
+
+| Plan Details               | [HMO 20 NorCal](https://drive.google.com/open?id=1utx4DFMtnm1ZYwZtMZWyyFk3xyr2x0_V)        | [HMO 20 SoCal](https://drive.google.com/open?id=15uXcg4mwHNhfEOLRuxMyHVCz40sEG-RV)     | [HMO 20 CO](https://drive.google.com/open?id=1TPzU601w7P_b2OQpQzmB87x2wijELGg9)      | [HMO 20 HI](https://drive.google.com/open?id=1Vyg3NMnDPJn1vsQyysd5k39FDeuHdJsx)       |
+|----------------------------|:--------------------:|:---------------:|:---------------:|:---------------:|
+| Deductible (Single/Family) | $0 / $0              | $0 / $0         | $0 / $0         | $0 / $0         |
+| OOP Max (Single/Family)    | $1,500 / $3,000      | $1,500 / $3,000 | $2,000 / $4,000 | $2,500 / $7,500 |
+| PCP/Specialist Copay       | $20 / $35            | $20 / $35       | $20 / $35       | $15 / $15       |
+| Emergency Room             | $50                  | $100            | $250            | $100            |
+| Urgent Care                | $20                  |                 | $50             | $15             |
+| Hospital Inpatient         | $250/admit           | $250/visit      | $300/admit      | 10%             |
+| Hospital Outpatient        | $35/procedure        | $35/procedure   | $100/procedure  | 10%             |
+| **Rx - Deductible**        |                      |                 |                 |                 |
+| Generic                    | $10                  | $10             | $10             | $0              |
+| Brand - Preferred          | $35                  | $35             | $30             | $0              |
+| Brand - Non-Preferred      | $35                  | $35             | $50             | $0              |
+| Specialty Drugs            | 20% up to $150       | $35             | 20% up to $150  | $0              |
+
+**Team Member Costs:**
+
+The following costs are monthly rates which would be deducted from your paycheck.
+
+| Tier                     | HMO CA North | HMO CA South | HMO CO | HMO HI |
+|--------------------------|:------------:|:------------:|:------:|:------:|
+| Team Member Only         | $0           | $0           | $0     | $0     |
+| Team Member + Spouse     | $240         | $240         | $276   | $174   |
+| Team Member + Child(ren) | $192         | $192         | $228   | $138   |          
+| Family                   | $366         | $366         | $456   | $342   |
 
 #### Kaiser Telehealth
 
@@ -227,6 +292,33 @@ The following costs are monthly rates which would be deducted from your paycheck
 | Team Member + Child(ren) | $18  |
 | Family                   | $36  |
 
+### Dental 2021 Calendar Year Plan
+
+**Coverages:**
+
+| Plan Details                         | [DPPO](https://drive.google.com/open?id=1qkqT5khP4RV5W-r0WGex9SQqzPFoOYw-)       |  
+|--------------------------------------|:----------:|
+| Deductible                           | $50 / $150 |
+| Maximum Benefit                      | $2,000     |
+| Preventive Care CoInsurance (in/out) | 0% / 0%    |
+| Basic Care Coinsurance (in/out)      | 20% / 20%  |
+| Major Care Coinsurance (in/out)      | 50% / 50%  |
+| Out of Network Reimbursement         | 90th R&C   |
+| **Orthodontia**                      |            |
+| Orthodontic Coinsurance (in/out)     | 50% / 50%  |
+| Orthodontic Max Benefits             | $1,500     |
+
+**Team Member Costs:**
+
+The following costs are monthly rates which would be deducted from your paycheck.
+
+| Tier                     | DPPO |
+|--------------------------|:----:|
+| Team Member Only         | $0   |
+| Team Member + Spouse     | $12  |
+| Team Member + Child(ren) | $18  |
+| Family                   | $36  |
+
 #### Cigna Dental Period to Submit Claims
 
 For in-network services: N/A.
@@ -246,6 +338,32 @@ When submitting a claim, you can mail it to Cigna Vision PO Box 385018 Birmingha
 1. Click "Continue" to be taken to the online claim form. Make sure you attach an itemized receipt when prompted.
 
 ### Vision 2020 Calendar Year Plan
+
+**Coverages:**
+
+| Plan Details                      | [Vision](https://drive.google.com/open?id=1grzcuDd0CiuDQthZ2SAGyOYUEQJro1yB)       |  
+|-----------------------------------|:------------:|
+| Frequency of Services             | 12 / 12 / 12 |
+| Copay Exam                        | $20          |  
+| Copay Materials                   | -            |
+| Single Vision                     | $0           |  
+| Bifocal                           | $0           |
+| Trifocal                          | $0           |
+| Frame Allowance                   | up to $130   |
+| Elective Lenses Contact Allowance | up to $130   |
+
+**Team Member Costs:**
+
+The following costs are monthly rates which would be deducted from your paycheck.
+
+| Tier                     | Vision |
+|--------------------------|:------:|
+| Team Member Only         | $0     |
+| Team Member + Spouse     | $2.40  |
+| Team Member + Child(ren) | $1.80  |
+| Family                   | $4.80  |
+
+### Vision 2021 Calendar Year Plan
 
 **Coverages:**
 
