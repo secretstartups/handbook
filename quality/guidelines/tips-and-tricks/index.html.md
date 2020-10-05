@@ -187,3 +187,18 @@ For example, the following command will delete all SSH keys with a title that in
 ```shell
 GITLAB_QA_ACCESS_TOKEN=secret GITLAB_ADDRESS=https://staging.gitlab.com bundle exec rake "delete_test_ssh_keys[E2E test key:, 2020-08-02]"
 ```
+
+#### Set default password and create a personal access token
+
+There is a rake task to set the default password (from `Runtime::User.default_password`) if it's not set already, and it creates a personal access token.
+
+This is useful when testing on a fresh GitLab instance (e.g., an omnibus-gitlab docker image) and you don't want to have to log in and create an access token manually.
+
+Usage example (run from the `gitlab/qa` directory):
+
+```shell
+$ bundle exec rake  'initialize_gitlab_auth[http://gitlab.test]'
+Signing in and creating the default password for the root user if it's not set already...
+Creating an API scoped access token for the root user...
+Token: s8xbMN3qMjyUyQATDWgp
+```
