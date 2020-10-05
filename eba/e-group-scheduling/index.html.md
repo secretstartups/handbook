@@ -21,18 +21,19 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 * Schedule three 30 minute blocks a day for work time - title “workflow”. This is time for email follow-up and general work time. If the time has to move to accommodate another meeting ensure another time is found and that it can still happen.
 
 
-## Scheduling for Paul Machle, Chief Financial Officer
+## Scheduling for Brian Robins, Chief Financial Officer
 
-* Priority to candidate interviews, 1:1's, E-Group, GitLab BoD and investor relations
-* Weekly finance team meeting and monthly all hands - EBA to CFO to help drive agenda
-* Prefers 25 minute video chats when possible. 15 min coffee chats are appropriate
-* Unavailable due to personal commitments from 7-8am PT
-* When in-person meetings are being requested, please check with the CFO
-* Working blocks on the calendar are OK and can be moved to prioritize other meeting requests, team members should check in with the CFO's Sr. EBA to request a meeting using the meeting request requirements as a guideline
-* Don't schedule over DNB 
-* If meetings need to happen before 8am PT or after 6pm PT check with Sr. EBA
-* For interviews: CES should tag Sr. EBA on Greenhouse to review times submitted by the candidate, or to provide times for the VP
+* Daily office hours are 9am-5pm ET, please Do Not Book meetings outside of working hours unless arranged with Sr. EBA
+* Do not schedule over DNB (Do Not Book)
+* Prefers “appropriate length” conversations, so short meetings are okay on the calendar. If a topic only needs 10 mins, book 10 mins instead of 30, etc.
+* Schedule two 30 minute blocks a day for work time - title “DNB / workflow”. This is time for email follow-up and general work time. If the time has to move to accommodate another meeting ensure another time is found and that daily workflow is still achieved. 
+* Schedule one 60 minute block a day for for lunch - title “DNB / lunch”. This is time for a lunch break, follow-up and general work time. If the time has to move to accommodate another meeting ensure another time is found and that daily lunch break is still achieved.  
 * If you add any meetings to calendar directly, tick the box “Attendees can modify” so EBA can change if necessary
+* All meeting requests should include an agenda or some sort of reference material
+* During Zoom meetings please do not post information or questions in the chat, add it to the meeting doc or in slack
+* Priority to candidate interviews, E-Group, GitLab BoD, Investor Relations and 1:1's
+* When in-person meetings are being requested, please check with the CFO prior to scheduling the meeting
+* For interviews: CES should tag Sr. EBA on Greenhouse to review times submitted by the candidate, or to provide times for the VP
 * EBA to add reminders at 1 month, 2 weeks, 1 week and 2 days on the calendar for the following events: OKR How to Achieve, Group Conversations and Board of Director meetings
 * A calendar key is available for viewing in the CFO's daily schedule
 
@@ -43,10 +44,9 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 * Priority given to candidate interviews, CEO, E-Group, GitLab BoD, and direct reports to the CoS
 * Limited availability due to personal commitments from 7-8am PT Mon.-Fri. and from 3-5pm PT Mon.-Wed. due personal commitments during the California shelter in place order (related to Covid-19). Can often make meetings during these blocks, if given advance notice, but strong preference for meeting outside of these times
 * If meetings need to happen before 8am PT or after 6pm PT check with Sr. EBA 
-* Don't schedule over DNB without reaching out for approval from CoS’s Sr. EBA
+* Do not schedule over DNB (Do Not Book) without reaching out for approval from CoS’s Sr. EBA
 * For meetings outside of set business hours contact the CoS’s Sr. EBA
 * During Zoom meetings please do not post information in the chat, add it to the meeting doc or in slack
-* Working blocks on the calendar are OK and can be moved to prioritize other meeting requests, team members should check in with the CoS's Sr. EBA to request a meeting using the meeting request requirements as a guideline
 * EBA to add reminders at 1 month, 2 weeks, 1 week and 2 days on the calendar for the following events: OKR How to Achieve, Group Conversations and Board of Director meetings
 * All meeting requests should include an agenda or some sort of reference material
 * A calendar key is available for viewing in the CoS's daily schedule
