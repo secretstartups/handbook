@@ -16,7 +16,7 @@ It's currently still a very basic tool that tries to replace the previous/curren
 
 ### Creating an Account
 
-The tool is in active development and is currently unavailable. Once we are ready to enable access, we will replace this notice with the directions to access the tool.
+The tool is in active development and is currently only available for those asked to trial the tool. Once we are ready to enable access, we will replace this notice with the directions to access the tool.
 {: .alert .alert-info}
 
 To use it, you can sign up with a GitLab email address - note: this needs to be your email address that is also known on BambooHR. This is needed as we need to fetch some data from BambooHR.
@@ -41,6 +41,10 @@ The tool uses BambooHR as the single source of truth for all the team members da
 - Entity
 - GitLab username
 - Gender
+
+It has write access to the following fields:
+- Performance factor
+- Potential factor
 
 The access level for the API token is approved by the Total Rewards Team, if more access is needed an Access Request needs to be created.
 
