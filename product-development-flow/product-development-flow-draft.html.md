@@ -52,6 +52,10 @@ The goal is to have this page be the single source of truth, but it will take ti
 
 Because this page needs to be concise and consistent, please ensure to follow the prescribed [change process](#editing-this-page).
 
+## But Wait, Isn't This Waterfall? 
+
+No. Although these phases appear to be independent and linear for simplicity sake, they are not. It is common to iterate through the Discovery phases multiple times before moving to Build. Once in the Build phases, it may be necessary to go back to Discovery phases as roadblocks or technical challenges arise. 
+
 ## Workflow Summary
 <kbd class="required">Required 🔎</kbd>
 
