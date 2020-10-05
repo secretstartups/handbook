@@ -369,7 +369,7 @@ The develop and test phase is where we build the features and test them before l
 
 ### Build phase 3: Launch
 
-Status: `Closed`
+Issue Status: `Closed`
 
 <kbd class="required">Required 🔎</kbd>
 
