@@ -47,6 +47,47 @@ If you need access to Adaptive Insights, please open an [access request](https:/
 
 #### Assumptions
 
+##### Revenue Model 
+
+In its current state, the revenue model sheet is a static sheet that users input data into to build bookings, ARR and revenue. The revenue model sheet has inputs that come from several sources and are documented below, along with the inputs that build the sheet. 
+
+- Bookings 
+
+Bookings data is built from a model that Sales Finance owns and is inputted into the model several times a month. The input of bookings data occurs during a reforecast or plan and when actuals are reconciled with the Sales Ops team. 
+
+- ARR 
+
+Each month on the fourth business day of the month, the Corporate Finance team records ending ARR for the month in closing. In turn, this becomes the beginning ARR amount for the month in progress. For example, if GitLab's ARR was $1M at the end of month 1, then the beginning ARR would be $1M at the beginning of month 2. The month in progress builds upon the beginning ARR amount and several other inputs to forecast ending ARR. Those inputs are 'New and Growth Booked Net ARR', 'Booking Timing Adjustments', and 'Trueups'. GitLab also includes an input that results in a deviation within the forecasted model. These inputs are the basis of GitLab's Booking to ARR to Revenue forecast walk
+
+`Beginning ARR + New Booked Net ARR + Growth Booked Net ARR + Booking Timing Adjustments + (-1*Trueups) + Deviation Amount = Exit ARR`
+
+With the walk, GitLab can determine it's Delta ARR value. Delta ARR is the difference between Exit ARR from the prior period and the Exit ARR from the current period. 
+
+`Exit ARR (Current Period) - Exit ARR (Prior Period) = Delta ARR`
+
+- Revenue
+
+GitLab's revenue forecast is comprised of several models, which are noted below. 
+
+
+- Professional Services model
+
+This model is owned by Sales Finance and forecasted the expected recognized revenue GitLab expects to obtain during a time period for all of GitLab's Professional Services offerings. The result of the expected recognized revenue is fed into the Bookings to ARR to Revenue model and recorded under GL account 4002, 4010. 
+
+- GitLab.com model
+
+This model is owned by R&D Finance and forecasted the expected recognized revenue GitLab expects to obtain during a time period for all of GitLab's SaaS offerings. The result of the expected recognized revenue is fed into the Bookings to ARR to Revenue model and recorded under GL account 4007.
+
+- Bookings to ARR to Revenue model
+
+The bookings to ARR to Revenue model compiles the Exit MRR (Exit ARR / 12) amount, GitLab.com amount, and Professional Servicesa amount to forecast out the expected recurring revenue for a specific time period. GitLab backs out the gitlab.com amount (recorded in GL account 4007) to forecast subscriptions acccount GL account 4001. GitLab does this by taking (Exit MRR - GitLab.com MRR) which results in the amount for GL account 4001. In a majority of cases, Exit MRR should always be less than or equal to recognized revenue. 
+
+- Template
+
+The revenue model template can be found by searching the title `Bookings to ARR to Revenue Walk [Template]` in Google Drive or reaching out to the Corporate FP&A partner. The template puts together the build from Bookings to Revenue in a walk that is easily understandable and traceable. 
+
+
+
 #### Currencies
 
 #### Allocation Rules
