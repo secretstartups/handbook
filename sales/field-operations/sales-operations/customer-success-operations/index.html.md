@@ -61,7 +61,7 @@ Labels to use:
 
 * CSOps - Label to track and manage all CS Operations related issues
 * CSOps::New - Issues that have not been evaluated
-* CSOps::Planning - Issues that are currently being scoped or considered but are not being actively worked on
+* CSOps::Evaluation - Issues that are currently being scoped or considered but are not being actively worked on
 * CSOps::Backlog - Issues for future scheduling, sequencing, or implementation
 * CSOps::In_Process - Issues that are actively being worked on in the current week or sprint
 * CSOps::bug - Issues labeled as `bug` that's preventing existing workflows or outcomes
