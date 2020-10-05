@@ -92,7 +92,6 @@ The following table provides scores for each of our DevOps stages and a comparis
 |-|-|-|-|-|-|-|-|
 <% # this calculates the total score across all stages needed to calculate the percent of total score %>
 <% totalScore = 0 %>
-<% totalDevelopers = 0 %>
 <% data.sections.each do |sectionKey, section| %>
   <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
     <% next if !stage.marketing %>
