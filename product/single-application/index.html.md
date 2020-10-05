@@ -183,7 +183,7 @@ graph LR
   A(Plan)
   B(Create)
   C(Release)
-  D(Defend)
+  D(Protect)
   E(Configure)
   F(Monitor)
   G(Verify)
