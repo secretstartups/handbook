@@ -32,7 +32,7 @@ The L&R queue should not be used for the following:
 * Requests related to the
   [education program](https://about.gitlab.com/solutions/education/)
 * Requests related to the
-  [open source program](https://about.gitlab.com/solutions/open-source/program/)
+  [open source program](https://about.gitlab.com/solutions/open-source/join/)
 
 ## How does this queue align with the "Growth" Stage?
 
