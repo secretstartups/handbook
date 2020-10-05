@@ -54,7 +54,7 @@ The following playbooks are aligned to our [customer adoption journey](/handbook
 | Stage Adoption: Release   | - | Manual | Success Plan | Stage Adoption | [Continuous Delivery / Release](/handbook/customer-success/playbooks/cd-release.html) |
 | Stage Adoption: Configure | - | Manual | Success Plan | Stage Adoption | |
 | Stage Adoption: Monitor   | - | Manual | Success Plan | Stage Adoption | |
-| Stage Adoption: Defend    | - | Manual | Success Plan | Stage Adoption | |
+| Stage Adoption: Protect    | - | Manual | Success Plan | Stage Adoption | |
 | Account Triage | **Yes** | Automated | CTA | Risk |      |
 | Low License Utilization | **Yes** | Manual | CTA | Risk |      |
 | Product Risk | **Yes** | Manual | CTA | Risk |      |
