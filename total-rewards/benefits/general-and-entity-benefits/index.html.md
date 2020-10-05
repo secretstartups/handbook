@@ -70,6 +70,7 @@ If the course is over [$500 USD](/handbook/total-rewards/compensation/#exchange-
 
 **Can I participate in this program?**
 * If you are a full-time GitLab team member and have been employed for more than three months, you are eligible to participate in this program.
+* If you are a part-time GitLab team member, you are still eligible to participate in this program but your reimbursement might be reduced. These situations will be discussed on case-by-case basis.
 
 **What courses are eligible for reimbursement?**
 * Courses must be a requirement of a degree or certification program and delivered through a credentialed college or university or effective online education such as [Udacity](https://www.udacity.com/).
