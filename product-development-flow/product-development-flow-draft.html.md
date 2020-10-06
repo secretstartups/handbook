@@ -352,6 +352,7 @@ Once work has passed the `workflow::planning breakdown` step Product Managers wi
 |-	|-	|-	|
 | Well-scoped MVC issues 	| - Review feature issues with contributors<br>- Consider scheduling a POC or engineering investigation issue<br>- Make scope tradeoffs to reach for a [right-sized MVC](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc) 	| - Product Manager 	|
 | QE Review 	| - [Quad Planning](/handbook/engineering/quality/quad-planning/)<br>- [Test planning](/handbook/engineering/quality/test-engineering/#test-planning) 	| - SET 	|
+| Prioritized Milestone | - PM sets `workflow::ready for development` and a milestone signaling intent to prioritize <br> - EM applies `Deliverable` label signaling acceptance of issue in the next milestone | - Product Manager and Engineering Manager |
 
 #### Required Outcomes
 <kbd class="required">Required 🔎</kbd>
@@ -359,6 +360,8 @@ Once work has passed the `workflow::planning breakdown` step Product Managers wi
 **Well-scoped MVC issues** - Issues are the [SSOT](/handbook/values/#single-source-of-truth) for all feature development. Through this phase Product Managers, Engineering, and Product Design likely refine issues into something that can be delivered within a single milestone. Consider opening follow on issues to track work that is de-prioritized, or promote existing issues to Epics and open implementation issues for the upcoming milestone. Understanding the relative size (weight) of an issue in this phase also informs capacity and prioritization discussions allowing the team to plan the right amount of work for a milestone. 
 
 **QE Review** - Involving Quality Engineering in this phase ensures they are able to understand and effectively plan their own capacity before engineering is truly underway. Use the issue to discuss the impact a feature has to the overall quality of the product. 
+
+**Prioritized Milestone** - Applying `workflow::ready for development`, the next milestone, and `Deliverable` are all required at this step to ensure there is clear prioritization set for the next milestone. PMs are the DRI for setting priority, EMs accept that by applying the `Deliverable` label. 
 
 ### Build phase 2: Develop & Test
 
