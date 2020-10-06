@@ -51,6 +51,10 @@ What: The Board Plan is a three statement (Income Statement, Balance Sheet and S
 
 Governance: The Board Plan is approved by the board of directors every year.
 
+#### Documentation 
+
+All archived and templated board plans can be found by searching `Google Drive > FP&A Shared Drive > Corporate FP&A > Board Meetings`. In the `Board Meetings` Folder there is a templated board meeting deck to help team members develop board decks in a consistent manner. GitLab uses `Google Presentation` for the deck and connects `Google Sheets` to the deck to display charts, graphs, and commentary associated with the topics for the board meeting. In each tab of the `Google Sheet` team members can find instructions on how to prep or modify each slide for the board deck. As with anything at GitLab, iteration is a big factor in building board decks. Having a consistent way to build upon makes the process of board deck building much faster. 
+
 #### Actuals
 
 What: Actuals are results that have been reported or exist in a system that is designated as a single source of truth for the item that is being measured. Each month accounting closes the month and financial results are recorded in our ERP system and are published in our financial statements. These actuals are compared to the Board Plan.
