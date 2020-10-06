@@ -326,6 +326,8 @@ The build track is where we plan, develop, and deliver value to our users by bui
 | Label 	| Usage 	|
 |-	|-	|
 | `workflow::planning breakdown` 	| Applied by the Product Manager on or before the [4th of the month](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline) signaling an intent to prioritize the issue for the next milestone 	|
+| `workflow::ready for development` 	| Issue has been broken down and prioritized by PM for development. Issue also has a milestone assigned at this point. 	|
+| `Deliverable` 	| Applied to issues by engineering managers indicating it's been accepted into the current milestone 	|
 
 #### Key Participants
 
