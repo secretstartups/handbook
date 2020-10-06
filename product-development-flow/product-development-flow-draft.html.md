@@ -379,7 +379,7 @@ Issue Status: `Closed`
 |---|---|
 | DRI | **Engineering** - close issue once available in production <br> **Product Manager** Initiate [release post item creation](https://about.gitlab.com/handbook/marketing/blog/release-posts/#release-post-item-generator) if applicable <br> **Product Manager** Begin [dogfooding process](https://about.gitlab.com/handbook/product/product-processes/) if applicable |
 | Collaborators | Development team, quality counterpart, and product manager may verify the issue is working as expected in production. |
-| Informed | Stakeholders for the change (customers, internal users, etc.) will be informed about the feature via the change in the status of the issue and/or the release post.  |
+| Informed | Stakeholders for the change will be informed about the feature via the change in the status of the issue and/or the release post. Consider alerting relevant stakeholders in appropriate Slack channels. |
 
 #### Description
 
