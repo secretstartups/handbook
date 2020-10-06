@@ -266,7 +266,7 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Three  | Wed  | [People](/handbook/people-group/)  | Carol Teskey and Dave Gilbert  |
 | Three  | Thur  | [Finance](/handbook/finance/)  | Paul Machle  |
 | Three | Fri | Do Not Schedule  | Do Not Schedule  |
-| Four  | Mon  | Available |   |
+| Four  | Mon  | [All-Remote](/handbook/marketing/corporate-marketing/all-remote/) | [Darren Murph](/handbook/marketing/readmes/dmurph/) |
 | Four  | Tue  | [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
 | Four  | Wed  | [CRO Group Conversation](/handbook/sales/)  | Michael McBride  |
 | Four  | Thur  | [Development](/handbook/engineering/development/)   | Christopher Lefelhocz  |
