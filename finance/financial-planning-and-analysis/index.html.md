@@ -70,13 +70,6 @@ What: Forecast is a dynamic assessment based on current expectations of financia
 
 Governance: The quarterly rolling forecast is approved by the eGroup and CEO and reviewed with the board of directors. eGroup will be held accountable to the quarterly rolling forecast for expenses. For revenue the company will always be held accountable to Plan.
 
-#### Pizza Guidance - Forecasting
-
-We try not to take ourselves to serious all the time, but there is nothing mellow about a little camaraderie to prove out who has the best quarterly bookings forecast. At the beginning of quarter anyone at GitLab can provide IACV bookings guidance so long as they provide supporting documentation to his / her guidance. Once the quarterly IACV bookings are finalized, the person with the most accurate forecast will recieve a pizza gift card of his / her choosing, so long as it is available as an online gift card.
-
-The rules, quarterly forecasts, and results can be found [here](https://docs.google.com/spreadsheets/d/17MKHuFBLrLDS9OkghhoriaOn0IhISsu8OVfWrD6qG2w/edit#gid=310945519). If you are interesting in playing, please join the #fpanda channel and let the channel know your interested.
-
-"Good forecast guidance comes from eating pizza" - Pizza
 
 #### Target
 What: Target is a goal or objective that may be higher or lower than the Plan or Forecast. Targets are typically used in conjunction with setting OKRs, compensation plans and other performance objectives.
