@@ -405,7 +405,7 @@ Social call attendance is not mandatory however the sessions do serve as a great
 
 | Social Call | Day(s) | Time |
 | ------ | ------ | ----- |
-| **APAC/EMEA** | Monday and Wednesday | 11:00PM PT |
+| **APAC/EMEA** | Tuesday and Thursday | 11:00PM PT |
 | **EMEA/AMER** | Tuesday and Thursday | 06:00AM PT |
 | **AMER/APAC** | Tuesday and Thursday | 15:00PM PT |
 
