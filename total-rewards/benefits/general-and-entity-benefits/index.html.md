@@ -154,7 +154,7 @@ Examples of English Language Courses:
  * English Language Courses offered in-person or online by a local college or university or English language courses offered online by a non-local college or university.
  * Please add any recommendations to this list.
 
- #### Tuition Reimbursement for Your 4th Trimester
+#### Tuition Reimbursement for Your 4th Trimester
 Your 4th Trimester is a 90-day coaching program with [Broad Perspective Consulting](https://www.broadperspectiveconsulting.com/maternity-transition). The purpose of the program is to help parents (regardless of gender) transition back to work. 
 
 If you have been employed for more than three months, you are eligile to participate in this program. As Your 4th Trimester is part of the Tuition Reimbursement program, the cost of participating in this program will be deducted from your yearly limit of 20,000 USD.
