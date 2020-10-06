@@ -124,7 +124,7 @@ The objective of the Product Analytics workflow is to help the product organizat
 
 To achieve this, we will be taking the following approach:
 
-1. Get a XMAU in place for your section, stage, or group ASAP using [currently available tooling](https://docs.gitlab.com/ee/development/telemetry/).
+1. Get a XMAU in place for your section, stage, or group ASAP using [currently available tooling](https://docs.gitlab.com/ee/development/product-analytics/).
 1. If blocked, meet with [@jeromezng](https://gitlab.com/jeromezng) [@kathleentam](https://gitlab.com/kathleentam) to find work around solutions for your XMAU.
 1. Improve your XMAU in future iterations as the collection framework improves.
 
@@ -222,7 +222,7 @@ In total, plan for up to 51 day cycle times (Examples [1](https://gitlab.com/git
 
 1. Merge your metrics into the next self-managed release as early as possible.
 1. Wait for your metrics to be released onto production GitLab.com. These releases currently happen on a daily basis.
-1. Usage Pings are generated on GitLab.com on a weekly basis. Monitor the #g_telemetry slack channel where the Telemetry team will post the latest GitLab.com Usage Ping ([example](https://gitlab.slack.com/files/ULXG09FAL/F01905UPPL0/12-gitlab.com-usage-data-for2020-08-04.json?origin_team=T02592416&origin_channel=CL3A7GFPF)). Verify your new metrics are present in the GitLab.com Usage Ping payload.
+1. Usage Pings are generated on GitLab.com on a weekly basis. Monitor the #g_product_analytics slack channel where the Product Analytics team will post the latest GitLab.com Usage Ping ([example](https://gitlab.slack.com/files/ULXG09FAL/F01905UPPL0/12-gitlab.com-usage-data-for2020-08-04.json?origin_team=T02592416&origin_channel=CL3A7GFPF)). Verify your new metrics are present in the GitLab.com Usage Ping payload.
 1. Wait for the Versions database to be imported into the data warehouse.
 1. Check the dbt model [version_usage_data_unpacked](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.version_usage_data_unpacked#columns) to ensure the database column for your metric is present.
 1. Check [Sisense](http://app.periscopedata.com/app/gitlab/) to ensure data is available in the data warehouse.
