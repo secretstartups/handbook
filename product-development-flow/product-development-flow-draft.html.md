@@ -132,7 +132,7 @@ Opportunity Canvases are a great assessment for ill-defined or poorly understood
 
 ### Validation phase 1: Validation backlog
 
-Label: `workflow::validation backlog`
+<kbd class="required">Required 🔎</kbd> Label: `workflow::validation backlog`
 
 #### Key Participants
 
@@ -163,7 +163,7 @@ The health of a world class product begins with a well maintained backlog. Produ
 
 ### Validation phase 2: Problem validation
 
-Label: `workflow::problem validation`
+<kbd class="required">Required 🔎</kbd> Label: `workflow::problem validation`
 
 #### Key Participants
 
@@ -197,7 +197,7 @@ If the problem is nuanced, then it will likely take longer to validate with user
 
 ### Validation phase 3: Design
 
-Labels: `workflow::design`
+<kbd class="required">Required 🔎</kbd> Labels: `workflow::design`
 
 #### Key Participants
 
@@ -235,7 +235,7 @@ To start the Design phase, the Product Designer or Product Manager applies the `
 
 ### Validation phase 4: Solution Validation
 
-Label: <code>workflow::solution validation</code>
+<kbd class="required">Required 🔎</kbd> Label: <code>workflow::solution validation</code>
 
 #### Key Participants
 
