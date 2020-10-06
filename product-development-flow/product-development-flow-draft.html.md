@@ -377,7 +377,6 @@ When an issue is in development Quality Engineering will follow the [quad planni
 
 *Note: Work deemed out of scope or incomplete by engineering is taken back into the [plan phase](#Build-phase-1:-Plan) for refinement and rescheduling for completion.*
 
-
 #### Outcomes and Activities
 
 | Outcomes 	| Activities 	| DRI 	|
