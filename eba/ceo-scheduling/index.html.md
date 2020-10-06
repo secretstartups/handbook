@@ -19,7 +19,7 @@ All meetings on Sid's calendar should be scheduled and vetted by the EBA to the 
 * Mark the events listed in [Google Calendar section](/handbook/communication/#google-calendar) of the handbook as 'Private'
 * The [agenda](https://docs.google.com/document/d/187Q355Q4IvrJ-uayVamoQmh0aXZ6eixAOE90jZspAY4/edit?ts=574610db&pli=1) of items to be handled by Sid's EA
 * **All** holds on Sid's calendar need a reason so he can judge when the hold might no longer apply.
-* Monthly video calls are 25 minutes while quarterly calls/dinners are scheduled for 90 minutes plus any necessary travel time.
+* Monthly reoccuring 121 video calls are 25 minutes while quarterly calls/dinners are scheduled for 90 minutes plus any necessary travel time.
 * Follow up on introductions from certain recipients (board, investors) immediately without asking for approval.
 * If Sid is meeting with a candidate, partner with recruiting to send the calendar invite through Greenhouse.
 * If Sid has an external meeting and the location is less than 25 minutes away on foot, he would prefer to walk. Please ensure the calendar reflects that he is walking versus driving/uber/lyft.
