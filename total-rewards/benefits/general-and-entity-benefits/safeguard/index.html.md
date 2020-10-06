@@ -41,11 +41,13 @@ Social security contributions towards pension, disability and health insurance a
   *  Paternity benefit is payable by the state subject to an employee's PRSI contributions. Workers should apply for the payment 4 weeks before they intend to go on paternity leave.
   *  State paternity benefit is payable at a rate of 245 EUR per week for two weeks.
   *  Leave certification - All employees must have their paternity leave certified by their employer. If you're an employee, you must provide GitLab with proof of the expected date of confinement of your spouse or partner. In other words, you will be required to provide your employer with a certificate from your spouse or partner's doctor confirming when your baby is due, or confirmation of the baby’s actual date of birth if you apply for leave after the birth has occurred. GitLab must then complete a form [(PB2: Employer Certificate for Paternity Benefit (pdf))](http://www.welfare.ie/en/pdf/PB2.pdf) to confirm that you are entitled to paternity leave.
-  *  [If you have been at GitLab for a year, GitLab will supplement Paternity Pay up to the full salary amount](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
-  *  Statutory Paternity Pay can be processed in two ways:
-     *  By electronic funds transfer into the employee's nominated bank account, or,
-     *  Mandated to GitLab's account where we would process through payroll along with any supplementary amount (if you are eligible).
-    Please notify the Compensation & Benefits team how you would like to receive the Statutory Payment.
+  *  [If you have been at GitLab for six months, GitLab will supplement Paternity Pay up to the full salary amount](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+  * Process for applying for state paternity benefit:
+    * Notify Total Rewards your baby's due date and how you would like to receive your benefit payment. It can be processed in two ways:
+       *  By electronic funds transfer into the employee's nominated bank account, or,
+       *  Mandated to GitLab's account where we would process through payroll along with any supplementary amount (if you are eligible).
+    * Total Rewards will send you the completed PB2 form.
+    * Submit your application for state paternity benefit via the [MyWelfare website](https://services.mywelfare.ie/en/topics/parents-children-family/). 
 
 ## Italy
 * Medical - Team members have access to government-subsidized healthcare as well as additional insurance called QU.A.S. The annual cost for QU.A.S. is 56 EUR paid by the team member and 350 EUR paid by the company.
