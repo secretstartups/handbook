@@ -371,9 +371,7 @@ For user-facing deliverables, Product Designers work with Engineering to validat
 
 The develop and test phase is where we build the features, address bugs or technical debt and test the solutions before launching them. The PM is directly responsible for prioritizing **what** should be worked on; however, the engineering manager and software engineers are responsible for the implementation of the feature using [the engineering workflow](https://about.gitlab.com/handbook/engineering/workflow/#basics). Engineering owns [the definition of done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done) and issues are not moved into the next phase until those requirements are met. Please keep in mind that many team members are likely to contribute to a single issue and collaboration is key!
 
-This phase begins after work has been broken down in Phase 1. PMs will apply the `workflow::ready for development` along with a milestone indicating an issue is to be prioritized for the upcoming milestone. The Engineering Manager will apply `Deliverable` signaling acceptance of the issue. This process occurs at the [beginning of milestone planning](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline).
-
-Once an issue is prioritized the Engineering Manager will assign an engineer (or an engineer will pick it up from the `workflow::ready for development` queue on a board) who is responsible for building the feature. That engineer will update it's `workflow::` label to indicate where it is in the [development process](`https://about.gitlab.com/handbook/engineering/workflow/#basics`). 
+This phase begins after work has been broken down, and prioritized in Phase 1. The Engineering Manager will assign an engineer (or an engineer will pick it up from the `workflow::ready for development` queue on a board) who is responsible for building the feature. That engineer will update it's `workflow::` label to indicate where it is in the [development process](`https://about.gitlab.com/handbook/engineering/workflow/#basics`). 
 
 When an issue is in development Quality Engineering will follow the [quad planning](https://about.gitlab.com/handbook/engineering/quality/quad-planning/#process) process ensuring test plans, regression jobs, end to end tests, and any other testing process is followed. Coordination is key between the assigned development engineer, and quality engineer during this phase. 
 
@@ -384,15 +382,12 @@ When an issue is in development Quality Engineering will follow the [quad planni
 
 | Outcomes 	| Activities 	| DRI 	|
 |-	|-	|-	|
-| Issue is scheduled for development 	| - `workflow::ready for development` applied<br>- `Deliverable` label applied by EMs<br>- Issue is assigned to the next milestone 	| - Product Manager 	|
 | Feature is built 	| - Issue is assigned to an engineer that follows the [engineering process](https://about.gitlab.com/handbook/engineering/workflow/#basics) 	| - Engineer 	|
 | Feature is tested 	| - Features are tested by the engineer who implemented them<br>- QE sets testing requirements on the issue 	| - Engineer 	|
 
 #### Required Outcomes
 
 <kbd class="required">Required 🔎</kbd>
-
-**Issue is scheduled for development** - The Product Manager is the DRI for prioritization, but scheduling is a collaborative effort between a PM and their Engineering Manager. Work together to understand team capacity for prioritizing new work, and ensure the appropriate labels are applied. 
 
 **Feature is built** - Engineering is the DRI for this step. And will follow the engineering process and ensure the implemented solution meets the [definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done). It is also engineering's responsibility to keep all relevant stakeholders up to date on the status of an issue. This is critical to maintain async updates to avoid status check-ins and synchronous stand-ups.
 
