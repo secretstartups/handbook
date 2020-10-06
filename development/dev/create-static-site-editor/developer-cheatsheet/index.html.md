@@ -29,7 +29,7 @@ title: Developer Cheatsheet
     - `cd qa`
     - `bundle`
     - `brew cask <install|reinstall> chromedriver`
-    - `bundle exec bin/qa Test::Instance::All [[http://0.0.0.0:3000\](http://0.0.0.0:3000)](http://0.0.0.0:3000](http://0.0.0.0:3000)) -- qa/specs/features/ee/browser_ui/1_manage/project/project_templates_spec.rb`
+    - `bundle exec bin/qa Test::Instance::All http://0.0.0.0:3000 -- qa/specs/features/ee/browser_ui/1_manage/project/project_templates_spec.rb`
 - [Capybara Screenshots](https://gitlab.com/gitlab-org/gitlab/blob/master/doc/development/testing_guide/best_practices.md#screenshots)
     - `screenshot_and_save_page`
     - `screenshot_and_open_image`
