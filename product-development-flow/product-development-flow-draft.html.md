@@ -343,10 +343,10 @@ By reviewing and weighing work in the beginning of the Build Track, Product Mana
 
 #### Outcomes and Activities
 
-| Outcomes                                     | Activities                                       | DRI                                          |
-|----------------------------------------------|--------------------------------------------------|----------------------------------------------|
-| Well-scoped MVC issues | - Review feature issues with contributors <br> - Consider scheduling a POC or engineering investigation issue <br> Make scope tradeoffs to reach for a [right-sized MVC](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc)| - Product Manager | QE Review | - [Quad Planning](/handbook/engineering/quality/quad-planning/) <br> [Test planning](/handbook/engineering/quality/test-engineering/#test-planning)
-| - SET |
+| Outcomes 	| Activities 	| DRI 	|
+|-	|-	|-	|
+| Well-scoped MVC issues 	| - Review feature issues with contributors<br>- Consider scheduling a POC or engineering investigation issue<br>- Make scope tradeoffs to reach for a [right-sized MVC](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc) 	| - Product Manager 	|
+| QE Review 	| - [Quad Planning](/handbook/engineering/quality/quad-planning/)<br>- [Test planning](/handbook/engineering/quality/test-engineering/#test-planning) 	| - SET 	|
 
 #### Required Outcomes
 <kbd class="required">Required 🔎</kbd>
