@@ -32,12 +32,21 @@ advance of the production upgrade.
    That manager should also ping the Support Manager who will be on-call during
    the upgrade window so they can be involved in this process.
 1. The DRIs will locate a Support Engineer to review the current given info
-   (upgrade documentation, architecture diagram, etc.). This should occur within
-   24 hours of the request's creation.
-   * When locating a Support Engineer to review, consider choosing one in the same 
-     region as the customer and, if possible, the same region as the Support Engineer that will be performing the Live Upgrade Assistance.
-   * Should the TAM notice this has not been done, the TAM should escalate the
-     issue via the #support_managers slack channel.
+   (upgrade documentation, architecture diagram, etc.). 
+   * This should occur within 24 hours of the request's creation. Should the
+     TAM notice this has not been done, the TAM should escalate the issue via
+     the #support_managers slack channel.
+   * If the request meets the [minimum notice period](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html#how-much-advanced-notice-must-i-give):
+     * Assign the issue to a Support Engineer in the same region as the
+       customer and, if possible, the same region as the Support Engineer that
+       will be performing the Live Upgrade Assistance.
+   * If the request does not meet the minimum notice period:
+     * Explain to the requester that the the request does not meet our minimum
+       notice period and that their options are to either (1) reschedule to
+       meet the minimum notice period; or (2) rely on emergency support should
+       there be an issue.
+     * Assign the issue to the Support Engineer who will be on-call during the
+       upgrade window.
 1. The Support Engineer will review the given information. If a ticket does not
    yet exist for this upgrade request, the Support Engineer will create the
    ticket (using the point of contact email information) to reach out to the
@@ -46,18 +55,19 @@ advance of the production upgrade.
 1. The Support Engineer will add the ticket link to the upgrade assistance
    issue via a comment.
 1. The Support Engineer will add the issue link to the ticket.
-1. Once the Support Engineer has confirmed a viable path for the upgrade, they
-   will comment on the issue notiftying the manager(s) acting as DRI(s) that the
-   request can now be scheduled.
-1. The DRI(s) will locate a Support Engineer to perform the live upgrade call.
-1. This Support Engineer will schedule the call via Zoom and reply to the user
-   with the details of how to connect. This should occur no later than 24 hours
-   before the upgrade window.
-1. The Live Upgrade Assistance call happens (see
-   [What does live upgrade assistance look like](/support/scheduling-live-upgrade-assistance.html#what-does-live-upgrade-assistance-look-like)).
-1. Post call, the Support Engineer will comment on the issue with a post-mortem
-   of sorts. This should detail any issues that occurred or comments that might
-   be relevant for the TAM or Support.
+1. Only if the request meets the minimum notice period:
+   1. Once the Support Engineer has confirmed a viable path for the upgrade, they
+      will comment on the issue notiftying the manager(s) acting as DRI(s) that the
+      request can now be scheduled.
+   1. The DRI(s) will locate a Support Engineer to perform the live upgrade call.
+   1. This Support Engineer will schedule the call via Zoom and reply to the user
+      with the details of how to connect. This should occur no later than 24 hours
+      before the upgrade window.
+   1. The Live Upgrade Assistance call happens (see
+      [What does live upgrade assistance look like](/support/scheduling-live-upgrade-assistance.html#what-does-live-upgrade-assistance-look-like)).
+   1. Post call, the Support Engineer will comment on the issue with a post-mortem
+      of sorts. This should detail any issues that occurred or comments that might
+      be relevant for the TAM or Support.
 1. The Support Engineer will close out the upgrade request issue.
 
 #### What to do if issues occur during the course of upgrade assistance
