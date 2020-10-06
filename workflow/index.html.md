@@ -14,7 +14,7 @@ For the workflow that applies to everyone please see [PROCESS.md](https://gitlab
 
 ## GitLab Flow
 
-Products at GitLab are built using the [GitLab Flow](https://docs.gitlab.com/ee/workflow/gitlab_flow.html).
+Products at GitLab are built using the [GitLab Flow](https://docs.gitlab.com/ee/topics/gitlab_flow.html).
 
 We have [specific rules around code review](/handbook/engineering/workflow/code-review/).
 
