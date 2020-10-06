@@ -90,7 +90,7 @@ Is our single source of truth (SSoT) for processes and relevant links
 ## Project Management
 
 ### Turnaround Time and SLAs
-⏱ **The SLA (Service Level Agreement) - 5 business days - begins when all details (including 100% final copy) is provided in the issue.**
+⏱ **The SLA (Service Level Agreement) - 5 business days - begins when all details (including 100% final copy) is provided in the issue. **
 - Tip: Submit issues with full "Submitter Details" complete
 - Tip: Bookmark a view of your issues in Blocked status ([example](https://gitlab.com/groups/gitlab-com/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=mktg-status%3A%3Ablocked&assignee_username[]=jgragnola))
 
