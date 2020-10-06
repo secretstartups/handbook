@@ -34,7 +34,7 @@ Customer Success playbooks assist in selling, driving adoption, and ultimately d
 **Adoption**: Adoption-related reference materials to accelerate adoption.
 
 - Adoption map, noting recommend recommended features / use cases and sequence of adoption (where applicable)
-- Telemetry attributes to track adoption
+- Product Analytics attributes to track adoption
 - Product documentation (Content owner: Product and Engineering Teams)
 - Enablement and training assets
 - Paid services
