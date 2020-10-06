@@ -382,7 +382,7 @@ When an issue is in development Quality Engineering will follow the [quad planni
 | Outcomes 	| Activities 	| DRI 	|
 |-	|-	|-	|
 | Feature is built 	| - Issue is assigned to an engineer that follows the [engineering process](https://about.gitlab.com/handbook/engineering/workflow/#basics) 	| - Engineer 	|
-| Feature is tested 	| - Features are tested by the engineer who implemented them<br>- QE sets testing requirements on the issue 	| - Engineer 	|
+| Feature is tested 	| - Features are tested by the engineer who implemented them<br>- SET sets testing requirements on the issue 	| - Engineer 	|
 
 #### Required Outcomes
 
