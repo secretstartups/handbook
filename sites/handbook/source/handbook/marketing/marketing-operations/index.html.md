@@ -22,7 +22,6 @@ Our team is structured as business partners to the rest of Marketing - see focus
 - Beth Peterson, Senior - SDR business partner
 - Amy Waller, Senior - Campaign business partner
 - [Sarah Daily, Senior](/handbook/marketing/marketing-operations/readme/sarah-daily/index.html) - Content business partner
-- Nichole LaRue - SDR business partner
 - Jameson Burton, Associate
 - Robert Kohnke - Reporting
 - Viki Juhász - Reporting 
@@ -79,7 +78,7 @@ Our team is structured as business partners to the rest of Marketing - see focus
 - Customer References
 - Buyer/Market Research
 
-### Beth Peterson & Nichole LaRue, SDR partners
+### Beth Peterson, SDR partner
 
 **Revenue Marketing**
 
