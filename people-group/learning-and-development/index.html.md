@@ -196,6 +196,17 @@ Our team will review and set the priority for your content request or review bas
 *  Identify measures of success 
 *  Assess dates of delivery with course schedule and forecast future date
 
+### L&D team sprints
+
+The L&D team uses GitLab issue boards to track priorities, organize collaboration, and set due dates based on quartley sprints.
+
+* The L&D team uses [this issue board](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/boards/1958538?milestone_title=No+Milestone) to track priority issues each quarter.
+* The `open` list is a queue for issues that need to be addressed, but have not yet been assigned to a sprint.
+* Following the open column, the team maintains 3 open columns for each upcoming sprint. The sprints are organized with a label using the naming mechanism `L&D Sprint # (Date Range)`
+* Issues can be moved from the [main L&D issue board](https://gitlab.com/gitlab-com/people-group/learning-and-development/-/boards/1281903) to the sprint board when they are ready to be assigned to a sprint.
+* Each issue assigned to a sprint should be labeled with a priority tag, `L&D Priority 1`, `L&D Priority 2`, and `L&D Priority 3`.
+
+
 ### Top five training content development principles
 
 If you are devleoping content to meet your learning needs or partnering with the L&D team, here are five key principles to consider when formulating a learning session: 
