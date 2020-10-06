@@ -67,6 +67,5 @@ The following playbooks are aligned to our [customer adoption journey](/handbook
 | GitLab Days | Coming Soon | Manual | Not Available | Not Available | [Internal link - existing Playbook](https://drive.google.com/open?id=1LrAW0HI-8SiPzgqCfMCy2mf9XYvkWOKG)     |
 | Account Handoff | **Yes** | Manual | CTA | Activity |      |
 | New TAM Account Assignment | **Yes** | Automated | CTA | N/A |  |
-| Health Check | - | Manual | CTA | Activity |  |
 
 TAMs create playbooks to provide a prescriptive methodology to help with customer discussions around certain aspects of GitLab. We currently have a [Stage Adoption Guideline](/handbook/customer-success/tam/stage-adoption/) to assist with understanding where a customer stands, and we are working on merging adoption maps into the use case pages.
