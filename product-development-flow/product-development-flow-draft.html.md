@@ -348,7 +348,18 @@ For user-facing deliverables, Product Designers work with Engineering to validat
 
 ### Build phase 2: Develop & Test
 
-Labels: `workflow::ready for development`, `workflow::In dev` (along with `workflow::ready for review` as queue state while waiting for maintainer), `workflow::In review`, `workflow::blocked`, `workflow::verification` (sub-states for verification are `workflow::canary` and `workflow::staging`) `Deliverable`.
+#### Labels
+
+| Labels 	| Usage 	|
+|-	|-	|
+| `workflow::ready for development` 	| Issue has been broken down and prioritized by PM for development. Issue also has a milestone assigned at this point. 	|
+| `Deliverable` 	| Applied to issues by engineering managers indicating it's been accepted into the current milestone 	|
+| `workflow::In dev` 	| Applied by the engineer once work has begun on the issue. An MR is typically linked to the issue at this point.  	|
+| `workflow::ready for review` 	| Applied by the engineer indicating an issue (and/or MR) is ready for review from a maintainer. 	|
+| `workflow::In review` 	| Applied by a maintainer signaling that the issue/MR is currently under review 	|
+| `workflow::blocked` 	| If at any time during development an engineer is blocked by something (technical issue, open question to PM or PD, etc) this label is applied 	|
+| `workflow::verification` 	| Once the MR has been reviewed and merged this label is applied signaling the issue/MR is being verified in production (sub states for this label could be `workflow::canary` or `workflow::staging` depending on where the change is in the deployment process) 	|
+
 
 #### Key Participants
 | Role                                                       | Function                                                        |
