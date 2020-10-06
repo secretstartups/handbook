@@ -32,7 +32,7 @@ For feature proposals, guide the customer on how to create the issues in either 
 
 ### Refunds
 
-If a customer requests a refund, please follow the [Handling Refund Requests](/handbook/support/workflows/handling_refund_requests.html) workflow.
+If a customer requests a refund, please follow the [Handling Refund Requests](https://about.gitlab.com/handbook/support/workflows/billing-related_workflows.html#refunds) workflow.
 
 ### Venting
 
