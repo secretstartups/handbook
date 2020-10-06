@@ -153,6 +153,8 @@ The image will be constrained to half the size to ensure high density of pixels.
 
 ## Campaigns
 
+Campaigns created in Sigstr should align to GTM motions and our [current marketing plan](https://docs.google.com/presentation/d/1p4EmaoSb35d8ZnjKags1gUGF5T9afJW6RhBO8TR_VgA/edit#slide=id.g8b58282baa_0_0). Anything outside of the plan including ad hoc campaigns or activities will need prior approval to ensure there are proper resources to support.
+
 ### Resources
 
 1. [Campaign management](https://help.sigstr.com/en/collections/96983-campaign-management)
