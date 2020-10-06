@@ -343,6 +343,9 @@ This phase prepares features so they are ready to be built by engineering. Follo
 
 By reviewing and weighing work in the beginning of the Build Track, Product Managers are able to make better prioritization tradeoffs and engineering teams can ensure they've scoped the right amount of work for the milestone. If an issue enters the `workflow::planning breakdown` state it doesn't necessarily mean it will be prioritized in the next milestone, a Product Manager may make a tradeoff decision depending on capacity, and urgency. 
 
+Once work has passed the `workflow::planning breakdown` step Product Managers will apply the `workflow::ready for development` along with a milestone indicating an issue is to be prioritized for the upcoming milestone. Engineering Managers will apply `Deliverable` signaling acceptance of the issue. This process occurs at the [beginning of milestone planning](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline). This is also the point at which Quad Planning is triggered signaling Quality Engineering to review the upcoming issue.
+
+
 #### Outcomes and Activities
 
 | Outcomes 	| Activities 	| DRI 	|
