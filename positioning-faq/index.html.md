@@ -45,7 +45,7 @@ GitLab started as an open source alternative to GitHub. Instead of focusing on h
 ### Our company uses GitHub.com for all open source projects, so why should we use GitLab Enterprise Edition on-premises and not GitHub Enterprise?
 
 1. GitHub is closed source software primarily used to publish open source software. GitLab is an open source DevOps platform primarily used to reduce the cycle time of closed source software (i.e. your company's software).
-1. With GitLab Enterprise Edition you can use [Repository Mirroring](https://docs.gitlab.com/ee/workflow/repository_mirroring.html) to mirror your open source projects from GitHub.com to your on premises GitLab server. Alternatively, if you want to have a public mirror of your GitLab project, you can now do so effortlessly using mirroring. GitHub Enterprise does not have mirroring.
+1. With GitLab Enterprise Edition you can use [Repository Mirroring](https://docs.gitlab.com/ee/user/project/repository/repository_mirroring.html) to mirror your open source projects from GitHub.com to your on premises GitLab server. Alternatively, if you want to have a public mirror of your GitLab project, you can now do so effortlessly using mirroring. GitHub Enterprise does not have mirroring.
 1. Open source projects have different needs than projects developed on-premises by organizations. GitLab was built specifically for use by organizations on-premises and so has more features specific to the enterprise such as 5 levels of [permissions](https://docs.gitlab.com/ee/permissions/permissions.html), and the ability to install on a variety of operating systems.
 1. Unlike other Git management solutions which can have different project views etc, GitHub and GitLab are very similar in features and functionality as well as the workflow they support. Their URL’s and API’s are also similar, so developers will quickly become familiar with GitLab.
 
@@ -135,7 +135,7 @@ GitLab started as an open source alternative to GitHub. Instead of focusing on h
 1. Import from Bitbucket, GitHub, anywhere
 1. Want to start using GitLab? You can easily import your repositories from Bitbucket, GitHub, Gitorious, or anywhere else, all in batch!
 1. Migrating SVN to GitLab
-    - https://docs.gitlab.com/ee/workflow/importing/migrating_from_svn.html
+    - https://docs.gitlab.com/ee/user/project/import/svn.html
     - SVN stands for Subversion and is a version control system (VCS). Git is a distributed version control system.
 
 ### Why aren’t you using a GPL license?
