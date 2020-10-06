@@ -185,7 +185,7 @@ Here is a deep dive summary on what each function is reviewing for approval:
    * These issues aren't created in the same location as access requests for employees so find the link below so use this [access request template](https://gitlab.com/gitlab-com/contingent-workers/lifecycle/-/issues/new?issuable_template=access-request) and assign it to yourself and the relevant provisioner(s) for the tools that the professional services provider requires access to. 
    * In the AR, include [**only systems that are necessary**](/handbook/engineering/security/Access-Management-Policy.html#access-management) to the work that the vendor will be performing. 
 
-   * If the professional services provider wants support through the set up of the most common tools used at GitLab, create an [orientation issue](https://gitlab.com/gitlab-com/contingent-workers/lifecycle/-/issues/new?issuable_template=orientation-issue). Assign to yourself and the professional services provider if they have a GitLab account with the required access.
+   * To support the service provider through the set up of the most common tools used at GitLab, an **[orientation issue](https://gitlab.com/gitlab-com/contingent-workers/lifecycle/-/issues/new?issuable_template=orientation-issue) must be created**. Assign to yourself and the professional services provider if they have a GitLab account with the required access.
 
 ## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 8 | Accounts Payable
 1. Vendors will be required to create an account within Tipalti in order to receive payment
