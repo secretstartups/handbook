@@ -63,7 +63,7 @@ Technical Account Managers help to bring GitLab to all aspects of your company, 
 
 #### Success
 
-Technical Account Managers make sure that the adoption of GitLab is successful at your company through planning, implementation, adoption, training and regular healthchecks.
+Technical Account Managers make sure that the adoption of GitLab is successful at your company through planning, implementation, adoption and training.
 
 ## Responsibilities and Services
 
@@ -109,7 +109,7 @@ The `TAM Portfolio` Dashboard is used to help highlight and review each client, 
 
 - Regular [cadence calls](/handbook/customer-success/tam/cadence-calls)
 - Regular open issue reviews and issue escalations
-- Account [health checks](/handbook/customer-success/tam/health-score-triage/)
+- Account [health assessment](/handbook/customer-success/tam/health-score-triage/)
 - [Executive business reviews](/handbook/customer-success/tam/ebr)
 - Success strategy roadmaps - beginning with a 30/60/90 day success plan
 - To act as a key point of contact for guidance, advice and as a liaison between the customer and other GitLab teams
