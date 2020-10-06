@@ -138,7 +138,6 @@ Customer Success team members maintain a [FAQ](/handbook/customer-success/faq) t
 ### Customer Success resource links outside handbook
 
 * [Solutions Architects Onboarding Bootcamp](/handbook/customer-success/solutions-architects-onboarding-bootcamp/)
-* [HealthCheck](https://docs.google.com/document/d/1aHA3W2FsHUApnz2XVtJoyhpcGYy6bgOHoRi4ArXnF0o/edit) (Internal Only)
 * [Customer Reference Sheet](https://docs.google.com/a/gitlab.com/spreadsheets/d/1Off9pVkc2krT90TyOEevmr4ZtTEmutMj8dLgCnIbhRs/edit?usp=sharing)
 * [Sales Collateral](https://drive.google.com/open?id=0B-ytP5bMib9TaUZQeDRzcE9idVk)
 * [GitLab University](https://docs.gitlab.com/ee/university/)
