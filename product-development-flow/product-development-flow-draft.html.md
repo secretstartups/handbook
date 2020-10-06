@@ -352,8 +352,6 @@ For user-facing deliverables, Product Designers work with Engineering to validat
 
 | Labels 	| Usage 	|
 |-	|-	|
-| `workflow::ready for development` 	| Issue has been broken down and prioritized by PM for development. Issue also has a milestone assigned at this point. 	|
-| `Deliverable` 	| Applied to issues by engineering managers indicating it's been accepted into the current milestone 	|
 | `workflow::In dev` 	| Applied by the engineer once work has begun on the issue. An MR is typically linked to the issue at this point.  	|
 | `workflow::ready for review` 	| Applied by the engineer indicating an issue (and/or MR) is ready for review from a maintainer. 	|
 | `workflow::In review` 	| Applied by a maintainer signaling that the issue/MR is currently under review 	|
