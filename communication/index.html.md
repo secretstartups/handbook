@@ -391,19 +391,31 @@ a reasonable option to discuss with either your manager or CEO, then you can rea
 out to any of the other [C-level GitLab team members](/company/team/org-chart/) or our board member Bruce Armstrong.
 
 ## Social Call
+At GitLab, social calls are considered an important way to foster culture while organically creating connections between team members with similar interests or hobbies.  
 
-1. The Social Call, happens three times a day, twice a week to accommodate all timezones. These calls have no set agenda and are an open forum for team members to meet and talk freely. These calls are not mandatory, but are a great way to get to know your fellow team members.
-   *  Social Call 1: APAC/ EMEA: 11:00PM PT (Monday and Wednesday PT)
-   *  Social Call 2: EMEA/ AMER: 6:00AM PT (Tuesday's and Thursday's PT)
-   *  Social Call 3: AMER/ APAC: 3:00PM PT (Tuesday's and Thursday's PT)
-1. Once a month, we hold an AMA with a GitLab Executive to talk about anything that may currently be top of mind for team members.
-1. Everyone at GitLab is invited to the Social Call.
-1. We use [Zoom](https://gitlab.zoom.us), (please be sure to mute your microphone when not speaking). If using the Zoom web app, you can go to settings and check always mute microphone when joining a meeting.
-1. The calls are no longer recorded.
-1. We start on time and do not wait for people.
-1. These calls are unstructured to allow for natural interaction, but everyone should get a chance to share at least once.
-1. It helps to pause slightly between talking about different topics to allow for discussion.
-1. If you are unsure of who should start or speak next, follow the order listed in Zoom.
+These calls happen six times a week at varying times to ensure that team members in all timezones are able to take part.  The call topics are based on three of the most popular channels within Slack i.e. #gaming, #fitlab and #intheparenthood however team members do not need to be part of these channels to join in.
+
+Previously social calls never had a set agenda however participants are now encouraged to document discussion points or questions in the relevant Google Doc - this is to ensure those considering attending have an overview of what to expect along with offering those who were unable to attend an opportunity to scroll back review points of interest.  
+
+The use of a document also serves to ensure that everyone gets a chance to contribute to the conversation.
+
+Social call attendance is not mandatory however the sessions do serve as a great way to get to know fellow team members, take a break or (depending on your region) start the day on a fun note.
+
+#### Weekly Call Cycle
+
+| Social Call | Day(s) | Time |
+| ------ | ------ | ----- |
+| **APAC/EMEA** | Monday and Wednesday | 11:00PM PT |
+| **EMEA/AMER** | Tuesday and Thursday | 06:00AM PT |
+| **AMER/APAC** | Tuesday and Thursday | 15:00PM PT |
+
+All social calls are in the Team Meetings Calendar - the sessions are titled GitLab Social Call: Multi-Topic and once you have opened the invite you will see a brief introduction followed by the three topics all of which have unique links for both Zoom and the respective Google Doc.  
+
+Being mindful of those who will be taking part, team members are asked to join on time and mute their microphones when they are not speaking.  Social calls are not moderated and with this in mind all those who take part play this role and should feel free to chime in if and when necessary.
+
+If you have any questions around the Social Call schedule please be sure to engage with the People Experience Team via the #peopleops channel.  Feedback and suggestions are welcome and can be documented in the comments section of [this issue](https://gitlab.com/gitlab-com/people-group/General/-/issues/969).
+
+_Using call attendance data along with feedback and suggestions provided by team members call topics will be reviewed and if necessary adjusted on a quarterly basis._
 
 ## Mindfulness Call
 
