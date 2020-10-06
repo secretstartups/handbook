@@ -322,34 +322,38 @@ The build track is where we plan, develop, and deliver value to our users by bui
 
 ### Build phase 1: Plan
 
-<kbd class="required">Required 🔎</kbd>
-
-Label: `workflow::planning breakdown`
+#### Labels
+| Label                                                          | Usage                                                                   |
+|----------------------------------------------------------------|-------------------------------------------------------------------------|
+| `workflow::planning breakdown`                                 | Applied by the Product Manager on or before the [4th of the month](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline) signaling an intent to prioritize the issue for the next milestone |
 
 #### Key Participants
 
 | Role                                                           | Function                                                                |
 |----------------------------------------------------------------|-------------------------------------------------------------------------|
-| **DRI:** Product Manager                                       | Responsible for creating MVCs, overall organization and issue breakdown |
-| **Collaborators:** Engineering Manager, Product Designer, SETs | Provide technical insight and define engineering effort                 |
-| **Informed:** Product Marketing Manager, TAMs                  | Early visibility into possible new features                             |
+| DRI                                                            | - Product Manager                                                       |
+| Collaborators                                                  | - Engineering Manager, Product Designer, SETs                           |
+| Informed                                                       | - PMM, TAM                                                              |
 
 #### Description
 
-At GitLab we believe in [shipping the smallest possible change that provides value to our users](/handbook/product/product-principles/#the-minimal-viable-change-mvc). This minimal viable change (MVC) allows us to iterate quickly and avoid over-engineering. In this phase, every validated solution should be
-broken down into the smallest possible issue(s). Check out [iteration strategies](#iteration-strategies) for help.
+This phase prepares features so they are ready to be built by engineering. Following Validation Phase 4 the feature should already be broken down and ready for a more detailed review by engineering. During this phase Product Managers will surface issues they intend to prioritize for a milestone by applying the `workflow::planning breakdown` label. At this point, Engineering Managers will assign an engineer to further break down and apply weights to that work. This process is a collaboration between the DRI and Collaborators. Tradeoff decisions can be made and feature issues evolve from validation solutions to clear MVCs that can be delivered in a single milestone. Be sure to document all decisions on issues. 
 
-The outcome of the planning phase are well-defined issues and epics that provide enough context for the engineering team to start development right away. Issues and epics are the single source of truth and should provide all the context necessary. Consider using templates e.g. the [feature proposal template](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/.gitlab/issue_templates/Feature%20proposal.md). 
-
-Teams should clearly define hand off points between [Directly Responsible Individuals (DRI)](/handbook/people-group/directly-responsible-individuals/). A shared understanding of the boundaries of responsibilities among team members allows for setting deliverable expectations. Keep in mind that different solutions require input from different DRIs. Breaking down solutions is almost always a collaborative and cross-functional activity that involves [Product, Design, Engineering, and Quality](/handbook/product/product-processes/#pm-em-ux-and-set-quad-dris). For example, a solution may require Frontend work, so early involvement of Product Design and Frontend Engineers is key. DRIs are also responsible for adding the relevant `workflow::` labels.
+By reviewing and weighing work in the beginning of the Build Track, Product Managers are able to make better prioritization tradeoffs and engineering teams can ensure they've scoped the right amount of work for the milestone. If an issue enters the `workflow::planning breakdown` state it doesn't necessarily mean it will be prioritized in the next milestone, a Product Manager may make a tradeoff decision depending on capacity, and urgency. 
 
 #### Outcomes and Activities
 
-| Outcomes                       | Activities                                                                                                                                                                                                                                                                     | DRI                      |
-|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
-| Well-defined issue(s)          | - [Story mapping](/handbook/engineering/ux/ux-research-training/user-story-mapping/)<br>- Set up [an epic structure](/handbook/product/product-processes/#epics) and issues [issue descriptions](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/.gitlab/issue_templates/) | Product Manager          |
-| Groomed and Weighted issue (s) | - [Weighting issues](https://docs.gitlab.com/ee/user/project/issues/issue_weight.html)                                                                                                                                                                                         | Broader Engineering Team |
-| Document Testing Strategy      | - [Quad Planning](/handbook/engineering/quality/quad-planning/) <br>- [Test planning](/handbook/engineering/quality/test-engineering/#test-planning)                                                                                                                           | Software Engineer in Test |
+| Outcomes                                     | Activities                                       | DRI                                          |
+|----------------------------------------------|--------------------------------------------------|----------------------------------------------|
+| Well-scoped MVC issues | - Review feature issues with contributors <br> - Consider scheduling a POC or engineering investigation issue <br> Make scope tradeoffs to reach for a [right-sized MVC](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc)| - Product Manager | QE Review | - [Quad Planning](/handbook/engineering/quality/quad-planning/) <br> [Test planning](/handbook/engineering/quality/test-engineering/#test-planning)
+| - SET |
+
+#### Required Outcomes
+<kbd class="required">Required 🔎</kbd>
+
+**Well-scoped MVC issues** - Issues are the [SSOT](/handbook/values/#single-source-of-truth) for all feature development. Through this phase Product Managers, Engineering, and Product Design likely refine issues into something that can be delivered within a single milestone. Consider opening follow on issues to track work that is de-prioritized, or promote existing issues to Epics and open implementation issues for the upcoming milestone. Understanding the relative size (weight) of an issue in this phase also informs capacity and prioritization discussions allowing the team to plan the right amount of work for a milestone. 
+
+**QE Review** - Involving Quality Engineering in this phase ensures they are able to understand and effectively plan their own capacity before engineering is truly underway. Use the issue to discuss the impact a feature has to the overall quality of the product. 
 
 ### Build phase 2: Develop & Test
 
