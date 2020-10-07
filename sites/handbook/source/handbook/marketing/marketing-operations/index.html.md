@@ -127,7 +127,7 @@ Other tools directly used by Marketing and maintained by Marketing Operations:
 - [RushTranslate](/handbook/marketing/marketing-operations/rushtranslate)
 - Screaming Frog
 - SEMrush
-- Smartling
+- [Smartling](/handbook/marketing/marketing-operations/smartling)
 - Sprout Social
 - Swiftype
 - Survey Monkey
