@@ -407,7 +407,7 @@ Label: n/a
 |---|---|
 | DRI | - Product Manager |
 | Collaborators | - Product Designer <br> - Customer Success <br> - Sales <br> - Data Analysts <br> - UX Researcher <br> - Product Marketing|
-| Informed | - Engineering Team <br> - Leadership <br> - Other relevant stakeholders |
+| Informed | - Engineering Team <br> - Leadership - TBD <br> - Other relevant stakeholders - TBD |
 
 #### Description 
 
