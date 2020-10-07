@@ -107,55 +107,71 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
 
 ## Roles
 
-#### Engineering
+#### Development Department
 
 ```mermaid
   graph LR;
-  eng:jbe(Junior Backend Engineer)-->eng:ibe(Intermediate Backend Engineer);
-  eng:ibe(Intermediate Backend Engineer)-->eng:sbe(Senior Backend Engineer);
+  %% frontend roles
+  eng:jfe(Junior Frontend Engineer);
+  click eng:jfe "/job-families/engineering/development/frontend#junior-frontend-engineer";
 
-  eng:sbe(Senior Backend Engineer)-->eng:stbe(Staff Backend Engineer);
-  eng:stbe(Staff Backend Engineer)-->eng:dbe(Distinguished Backend Engineer);
-  eng:dbe(Distinguished Backend Engineer)-->eng:ef(Backend Engineering Fellow);
+  eng:ife(Intermediate Frontend Engineer);
+  click eng:ife "/job-families/engineering/development/frontend/#intermediate-frontend-engineer";
 
-  eng:sbe(Senior Backend Engineer)-->eng:em(Backend Engineering Manager);
-  eng:em(Backend Engineering Manager)-->eng:sme(Senior Manager, Engineering);
+  eng:sfe(Senior Frontend Engineer);
+  click eng:sfe "/job-families/engineering/development/frontend/#senior-frontend-engineer";
 
-  eng:sme(Senior Manager, Engineering)-->eng:de(Director of Engineering);
-  eng:de(Director of Engineering)-->eng:sde(Senior Director of Engineering);
-  eng:sde(Senior Director of Engineering)-->eng:vpe(VP of Engineering);
+  eng:stf(Staff Frontend Engineer);
+  click eng:stf "/job-families/engineering/development/frontend/#staff-frontend-engineer";
 
-  eng:jfe(Junior Frontend Engineer)-->eng:ife(Intermediate Frontend Engineer);
-  eng:ife(Intermediate Frontend Engineer)-->eng:sfe(Senior Frontend Engineer);
+  eng:fem(Frontend Engineering Manager);
+  click eng:fem "/job-families/engineering/development/frontend/manager";
 
-  eng:sfe(Senior Frontend Engineer)-->eng:feem(Frontend Engineering Manager);
-  eng:feem(Frontend Engineering Manager)-->eng:sme(Senior Manager, Engineering);
+  %% backend roles
+  eng:jbe(Junior Backend Engineer);
+  click eng:jbe "/job-families/engineering/development/backend/#junior-backend-engineer";
 
-  eng:sfe(Senior Frontend Engineer)-->eng:stfe(Staff Frontend Engineer);
-  eng:stfe(Staff Frontend Engineer)-->eng:dfe(Distinguished Frontend Engineer);
-  eng:dfe(Distinguished Frontend Engineer)-->eng:feef(Frontend Engineering Fellow);
+  eng:ibe(Intermediate Backend Engineer);
+  click eng:ibe "/job-families/engineering/development/backend/#backend-engineer";
 
-  click eng:jbe "/job-families/engineering/backend-engineer#junior-backend-engineer";
-  click eng:ibe "/job-families/engineering/backend-engineer#intermediate-backend-engineer";
-  click eng:sbe "/job-families/engineering/backend-engineer#senior-backend-engineer";
-  click eng:stbe "/job-families/engineering/backend-engineer#staff-backend-engineer";
-  click eng:dbe "/job-families/engineering/backend-engineer#distinguished-backend-engineer";
-  click eng:ef "/job-families/engineering/backend-engineer#engineering-fellow";
-  click eng:em "/job-families/engineering/backend-engineer#engineering-manager";
+  eng:sbe(Senior Backend Engineer);
+  click eng:sbe "/job-families/engineering/development/backend/#senior-backend-engineer";
+
+  eng:stb(Staff Backend Engineer);
+  click eng:stb "/job-families/engineering/development/backend/#staff-backend-engineer";
+
+  eng:bem(Backend Engineering Manager);
+  click eng:bem "/job-families/engineering/development/backend/manager";
+
+
+  %% engineering leadership
+  eng:sme(Senior Manager, Engineering);
   click eng:sme "/job-families/engineering/engineering-management/#senior-manager-development";
-  click eng:de "/job-families/engineering/backend-engineer#director-of-engineering";
-  click eng:sde "/job-families/engineering/backend-engineer#senior-director-of-engineering";
-  click eng:vpe "/job-families/engineering/backend-engineer#vp-of-engineering";
-  click eng:jfe "/job-families/engineering/frontend-engineer#junior-frontend-engineer";
-  click eng:ife "/job-families/engineering/frontend-engineer#intermediate-frontend-engineer";
-  click eng:sfe "/job-families/engineering/frontend-engineer#senior-frontend-engineer";
-  click eng:stfe "/job-families/engineering/frontend-engineer#staff-frontend-engineer";
-  click eng:dfe "/job-families/engineering/frontend-engineer#distinguished-frontend-engineer";
-  click eng:feef "/job-families/engineering/frontend-engineer#frontend-engineering-fellow";
-  click eng:feem "/job-families/engineering/frontend-engineering-manager";
+
+  eng:dir(Director of Engineering);
+  click eng:dir "/job-families/engineering/engineering-management/#director-development";
+
+  eng:dis(Distinguished Engineer);
+  click eng:dis "/job-families/engineering/engineering-management/#distinguished-engineer";
+
+  eng:sde(Senior Director of Engineering);
+  click eng:sde "/job-families/engineering/engineering-management/#senior-director-development";
+
+  eng:vpd(VP of Development);
+  click eng:vpd "/job-families/engineering/engineering-management/#vp-of-development";
+
+  eng:fel(Engineering Fellow);
+  click eng:fel "/job-families/engineering/engineering-management/#engineering-fellow";
+
+  %% career progression
+  eng:jfe-->eng:ife-->eng:sfe-->eng:stf & eng:fem;
+  eng:jbe-->eng:ibe-->eng:sbe-->eng:stb & eng:bem;
+  eng:bem & eng:fem-->eng:sme-->eng:dir-->eng:sde-->eng:vpd;
+  eng:stb & eng:stf-->eng:dis-->eng:fel;
+
 ```
 
-#### Security Engineering
+#### Security Department
 
 ```mermaid
   graph LR;
@@ -171,7 +187,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   click sec:ds "/job-families/engineering/security-management#director-of-security";
 ```
 
-#### Quality Engineering
+#### Quality Department
 
 ```mermaid
   graph LR;
@@ -199,7 +215,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   click qual:dqe "/job-families/engineering/engineering-management-quality/#director-of-quality-engineering";
 ```
 
-#### Support Engineering
+#### Support Department
 
 ```mermaid
   graph LR;
@@ -219,7 +235,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   click supe:ds "/job-families/engineering/support-management#director-of-support";
 ```
 
-#### User Experience
+#### UX Department
 
 ```mermaid
   graph LR;
