@@ -150,3 +150,28 @@ During week four we will discuss **Developing High Performing Teams**. Informati
 ## Manager Challenge Certification
 
 Following the completion of the Gitlab Manager Challenge program, participants will be [awarded a certification](/handbook/people-group/learning-and-development/certifications/)! The certification will be sent to a team member who has successfully completed at least 80% of the daily challenges. Once a team member receives a certification, they can post it on their LinkedIn Profile. 
+
+## Learning and Development Team 
+
+### Organizing Epics and Issues 
+
+The Manager Challenge Pilot is set up within the GitLab Tool. We are using Epics, Sub Epics and Issues. There is one main Epic for the whole program, a Sub Epic for each week, and then an Issue for each day. 
+
+**Example of Manager Challenge Pilot Set Up:**
+
+[Manager Challenge Pilot - Epic](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/1)
+
+[Week 1 - Manager Challenge Pilot - Sub Epic](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/2)
+
+[Manager Challenge Project](https://gitlab.com/gitlab-com/people-group/learning-development/manager-challenge)
+
+[Manager Challenge Program Pilot: Day 1 - Issue](https://gitlab.com/gitlab-com/people-group/learning-development/manager-challenge/-/issues/1)
+
+**Learning & Development Team Tasks** 
+
+- A Week before the program starts: 
+   - Create the Epic: Manager Challenge - [Month] [Year] 
+   - Create the Sub Epics for each week: Manager Challenge - Week 1 
+- Daily
+   - Create the Day's Issue in the [Manager Challenge Project](https://gitlab.com/gitlab-com/people-group/learning-development/manager-challenge) using the [manager-challenge-daily-template](https://gitlab.com/gitlab-com/people-group/learning-development/manager-challenge/-/blob/master/.gitlab/issue_templates/manager-challenge-daily-template.md) 
+   - Monitor the issue comments to respond to questions as well as keep track of participation 
