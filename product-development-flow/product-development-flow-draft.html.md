@@ -389,7 +389,7 @@ When the change becomes available in production, the issue is closed by the deve
 
 | Outcomes | Activities |
 | --- | --- |
-| Feature is available to GitLab.com hosted customers | After it is deployed to production (and an yfeature-flags for it are enabled), the feature is launched and available to GitLab.com hosted customers. |
+| Feature is available to GitLab.com hosted customers | After it is deployed to production (and any feature-flags for it are enabled), the feature is launched and available to GitLab.com hosted customers. |
 | Feature is available to self-hosted customers | The feature will be available in the next scheduled release for self-hosted customers to install ([depending on what the cut-off is for that release](/handbook/engineering/releases/#self-managed-releases-1)). |
 | Stakeholders of a feature will know it is available in production | **Required**: Once the feature is deployed to production and any needed verification in production is completed, the development team will close the issue. <br> **Optional** : Prior to the issue being closed, the development team may set the workflow label to `workflow::verification` or `workflow::production` for tracking purposes. |
 | Customers will be informed about a change | **Required**: When appropriate for a change, a release post item will be written and merged by the product manager following the instructions in the [template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md), which will then cause it to appear on the [GitLab.com releases page](/releases/gitlab-com/). |
