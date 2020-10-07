@@ -29,7 +29,13 @@ Much of the conversation about privacy references the GDPR, but this is only par
 
    > Processing of personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person’s sex life or sexual orientation shall be prohibited. 
 
-It is important to note that, sometimes, a particular piece of data may *feel* sensitive - for example, a social security number - but this does not necessarily mean that it is legally protected in an extra-special way. Sensitive data is typically data that is associated with who an individual is on a deep level, rather than merely identification information.
+Protected Health Information (PHI), which is defined in the United States by HIPAA, includes sensitive information about a person’s health or medical condition
+
+It is important to note that, sometimes, a particular piece of data may *feel* sensitive - for example, a social security number - but this does not necessarily mean that it is legally protected in an extra-special way. Other examples of non-sensitive , but sensitive *feeling* personal data are 
+- Personal Credit Information (PCI) which includes credit card information 
+- Personally Identifiable Financial Information (PIFI) which includes banking information, account numbers, and account information 
+
+Sensitive data is typically data that is associated with who an individual is on a deep level, rather than merely identification information.
 
 ## Privacy Review Process
 As outlined in GitLab's [DPIA policy](https://about.gitlab.com/handbook/engineering/security/dpia-policy/#vendor-dpia-process), every vendor that handles Personal Data needs to go through a Privacy Review. Additionally, when new product features are being designed, there may be times when a formal privacy review is required. This section outlines the process for these reviews.
