@@ -493,6 +493,10 @@ Not every problem should lead to a new process to prevent them. Additional proce
 {:.no_toc}
 We value constant improvement by iterating quickly, month after month. If a task is not the [smallest thing possible](/handbook/values/#iteration), cut the scope.
 
+##### Light weight and big brakes
+{:.no_toc}
+Fast cars have big motors, but European-style race cars also have two other attributes to get around the track quickly: they are light weight, and they have powerful brakes. The latter is important because you can spend more time at your top speed on the straight away if you can brake later into the corner. So groups at GitLab should be no larger than they have to be to success to stay nimble and accelerate quickly, and they should be willing to stop their current direction without delay to pursue new direction (for example re-organize, or change prioritization).
+
 ##### Efficiency Competency
 {:#efficiency-competency .no_toc}
 [Competencies](/handbook/competencies/) are the Single Source of Truth (SSoT) framework for things we need team members to learn.
