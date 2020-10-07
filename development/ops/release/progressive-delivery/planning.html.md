@@ -123,19 +123,21 @@ The following statuses are used:
 
 ##### `workflow::ready for development`
 
-Issues are sorted by highest priority, i.e. Release::P1 through Release::P3. Unassigned issues can be picked up from the top of the prioritized list;
+Issues are sorted by highest priority, i.e. Release::P1 through Release::P3. Unassigned issues can be picked up from the top of the prioritized list.
 
 ##### `workflow::in dev`
 
-An engineer is currently working on the issue;
+An engineer is currently working on the issue.
 
 ##### `workflow::in review` 
 
-The MR should be assigned to both the original engineer and the reviewer so that it is clear that the merge request has an active reviewer. This helps the EM to see how much work is allocated to each person;
+The MR should be assigned to both the original engineer and the reviewer so that it is clear that the merge request has an active reviewer. This helps the EM to see how much work is allocated to each person.
 
 ##### `workflow::verification`
 
 All stakeholders are informed when a feature is about to get shipped. Use `@gitlab-org/ci-cd/progressive-delivery` to quickly inform everyone. The owner of the Epic (mostly the PM) will ensure that the issue fits into the context of the solution. In this state we also confirm if a release note is required for this issue, and assign the correct milestone.
+
+The assignee engineer is the DRI for the issue. They are responsible for the verifying and closing it when the issue is considered done.
 
 #### Release and Post-Release
 
