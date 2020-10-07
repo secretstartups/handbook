@@ -37,6 +37,8 @@ It is important to note that, sometimes, a particular piece of data may *feel* s
 
 Sensitive data is typically data that is associated with who an individual is on a deep level, rather than merely identification information.
 
+**Data Classifications** GitLab uses a color system to label different types of data by associated risk. Please see Security's [Data Classification Standards](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html) for more information.
+
 ## Privacy Review Process
 As outlined in GitLab's [DPIA policy](https://about.gitlab.com/handbook/engineering/security/dpia-policy/#vendor-dpia-process), every vendor that handles Personal Data needs to go through a Privacy Review. Additionally, when new product features are being designed, there may be times when a formal privacy review is required. This section outlines the process for these reviews.
 
