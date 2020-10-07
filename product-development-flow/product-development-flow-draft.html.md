@@ -349,6 +349,7 @@ For user-facing deliverables, Product Designers work with Engineering to validat
 ### Build phase 2: Develop & Test
 
 #### Labels
+<kbd class="required">Required 🔎</kbd>
 
 | Labels 	| Usage 	|
 |-	|-	|
