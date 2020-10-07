@@ -26,6 +26,7 @@ Certification programs allow GitLab to validate skills, knowledge, and behavior 
 * [GitLab 101](/handbook/people-group/learning-and-development/certifications/gitlab-101/)
 * [GitLab 201](/handbook/people-group/learning-and-development/certifications/gitlab-201/)
 * [Remote Work Foundations](/company/culture/all-remote/remote-certification/#remote-work-foundation-certification-criteria)
+* [How to Manage a Remote Team](https://www.coursera.org/learn/remote-team-management) - A certification featured on Coursera by GitLab 
 * [Manager Challenge Program](/handbook/people-group/learning-and-development/manager-challenge/)
 
 ### Upcoming

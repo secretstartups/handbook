@@ -23,6 +23,7 @@ Holidays with no availability for onboarding/offboarding/career mobility issues:
 |-----------------------------------|
 | 2020-05-01 | Family & Friends Day
 | 2020-08-14 | Family & Friends Day
+| 2020-10-09 | Family & Friends Day
 | 2020-12-25 |
 | 2021-01-01 |
 
@@ -135,6 +136,14 @@ This will be the responsibility of the People Experience Associate that is assig
 
 Every Monday and Wednesday, the Associate in the rotation will pull the report that has been shared in BambooHR called `New Hires`. The data for the next 2 weeks will be added to the spreadsheet to ensure sufficient time in completing the pre-onboarding tasks. 
 
+1. Open BHR and select the Onboarding Tracker Report
+1. Click on the hire date until it is showing the hire dates in order
+1. Highlight and copy the data of all the new hires starting the next week and following 
+  - Keep name format as (Last Name, First Name)
+1. Paste the data into the People Experience Onboarding Tracker at the bottom 
+1. If a name is highlighted, this means the name is already on the tracker. Review that the hire date is the same and delete the highlighted field you just added. 
+1. If the name is not highlighted this is a new add and keep the name on the tracker. 
+
 ### Weekly Moo Report
 
 Every week, the People Experience Associate in the rotation creates a Report in BambooHR containing all Active Employees in three columns: their First Name, their Last Name, their GitLab work email. People Experience Associate adds this data to the `GitLab : Moo` spreadsheet in a new weekly tab titled that Tuesday's date (format yyyy-mm-dd) so that our Moo Rep can grab this data and send out email invitations to new team members from the Moo platform.
@@ -205,6 +214,9 @@ When a team member completes the GitLab gift form request, the People Experience
 - Send the requesting team member an email or message in Slack to confirm that you have processed the request/order. 
 - Use the Gift [page](/handbook/people-group/#gifts) in the Handbook for any further information regarding the policy for gift order requests. 
 - If a gift card is needed for a particular event or prize, create an issue for the Payroll team to get the relevant approval. 
+
+**Swag** Gift Requests 
+If a swag gift is requested (.i.e. a GitLab onesie) email merch@gitlab.com for a code to get one. said swag. Please do not order one from the store and expense. These expenses will get rejected if they are found by finance. 
 
 ### Scheduling Group Conversations 
 
