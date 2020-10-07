@@ -3,11 +3,11 @@ layout: markdown_page
 title: "Technology Roadmap"
 ---
 
-As GitLab continues to grow and mature, it is approaching a pivotal point in which faster growth across multiple large sites and an emphasis on the enterprise will become the main challenges to contend with over the next 12 months. We will need to meet these challenges effectively and effiiently, with a relentless focus on security, availability, and performance, both on self-managed instances and GitLab sites.
+As GitLab continues to grow and mature, it is approaching a pivotal point in which faster growth across multiple large sites and an emphasis on the enterprise will become the main challenges to contend with over the next 12 months, all within the context of a relentless focus on security, availability, and performance. 
 
-As a company, GitLab advocates [cloud native](https://about.gitlab.com/cloud-native/) as the future of software development: customers benefit from GitLab as a complete DevOps platform delivered as a single application (from issue tracking and source code management to CI/CD and monitoring, with a built-in container registry and Kubernetes integration). We must fully embrace this model ourselves. In this context then, our **most critical technical strategic investment will be our own full transition to Cloud Native on stateless components**, which will afford us the ability to operate and fine tune a variety of configurations at scale while innovating feature-wise and being frugal.
+In order to meet these challenges, we need to attain extremely high levels of **preditability** when operating the environment. This entails stricter standardization while providing the required flexibility to support both self-managed instances and GitLab sites, which enables the use of advanced automation by leveraging advanced tooling. But even with a high confidence level on preditability, **risk** is a factor we must manage: things will inevitably go wrong when effecting change in the environments. Thus, we must be able to quantify acceptable risk, to react fast in the face of failure to restore stability, and to so as a single Engineering unit.
 
-
+As a company, GitLab advocates [cloud native](https://about.gitlab.com/cloud-native/) as the future of software development: customers benefit from GitLab as a complete DevOps platform delivered as a single application (from issue tracking and source code management to CI/CD and monitoring, with a built-in container registry and Kubernetes integration). We must fully embrace this model ourselves. In this context then, our **most critical technical strategic investment will be our own full transition to Cloud Native on stateless components**, which will afford us the ability to operate and fine tune a variety of configurations at scale while innovating feature-wise and being frugal. In tandem, we must also develop enterprise-level capabilities to meet stringent requirements imposed by said customers.
 
 ## Multi-Large Sites: Cloud Native
 
@@ -29,17 +29,13 @@ We won't be migrating stateful services to cloud native at this time, but we wil
 
 The main database (Postgres) will require some significant changes to align with the cloud native transition. We do not anticipate the migration of the database to a containeirized environment (certainly not before we have completed work on all stataless components), but we need to be able to support cloud native strategies in the application. To that end, we must implement near-zero downtime Postgres upgrades (i.e., upgrades that, at most, simply require a database failover to take effect), which will be done through [Database Logical Replication](), and provide a [testing environments with production-like data and traffic]() to validate database changes st scale.
 
-#### Repository Storage
-
-Much work has taken place to strengthen repository storage, and we must take this work to completion. In particular, Gitaly clustering.
-
 ### Error Budgets
 
 With a focus on services, cloud native demands the full implementation of error budgets, both technically and organizationally.
 
 ### Feature Flags
 
-Feature flags are a crutial enabler for rapid deployment in a cloud natve environment. 
+Feature flags are a crucial enabler for rapid deployment in a cloud natve environment. 
 
 ### Rollbacks
 
@@ -50,6 +46,10 @@ As our deployment pipeline gains speed, feature flags will acquire an even more 
 ### Disaster Recovery
 
 As we move deeper into the enterprise, especially within the context of multi-large sites, disaster recovery becomes a critical capability that moves from a purely technical requirement into a critical business concern. Disaster Recovery is managed through [Geo](https://about.gitlab.com/solutions/geo/) on self-managed instances, but GitLab.com has presented a particular challenge at scale, both in terms of size and growth. Additionally, GitLab.com is a public instance with a wide variety of users. Geo operates at the instance level, but this may not be appropriate for GitLab.com. We should determine what our disaster recovery requirements are for GitLab.com (recovery times, user types), and then work towards enabling Geo to handle this unique situation (which will, over time, affect other milti-large sites).
+
+### Repository Storage
+
+Much work has taken place to strengthen repository storage, and we must take this work to completion. In particular, Gitaly clustering.
 
 
 
