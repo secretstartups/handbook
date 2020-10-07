@@ -146,7 +146,7 @@ These are changes that are not expected to cause downtime, but which still carry
 1. IaC changes to cattle / quantity when there is a decrease
 1. Minor version upgrades of tools or components (HAProxy)
 1. Removing old hosts from IaC (like removals of legacy infrastructure)
-1. Changes to alerting routing or integrations. 
+1. Changes to alerting routing or integrations.
 
 #### Approval
 
@@ -330,7 +330,7 @@ Feature flags reduce risk by allowing application changes to be easily tested in
 quickly turned off, their use is encouraged whenever appropriate.
 
 However, as the company and the number of developers working with feature flags continues to grow, it becomes important to manage risk associated with
-these changes too.
+these changes too. Developers follow the process defined in the [developers documentation for feature flags](https://docs.gitlab.com/ee/development/feature_flags/controls.html#rolling-out-changes).
 
 On any given day, dozens of feature flag changes may occur. Many of these are trivial, allowing low risk changes -- sometimes just changes to UI appearance -- to be tested. However, some feature flag changes can have a major impact on the operation of GitLab.com, negatively affecting our **service level agreements**. This in turn can have a financial and reputational risk for the company. Without clear communication between the application developers toggling features and the engineer-on-call (EOC), it can be difficult for the EOC to assess which feature flag toggles are high risk and which are not.
 
