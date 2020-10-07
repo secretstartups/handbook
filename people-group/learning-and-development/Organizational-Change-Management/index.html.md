@@ -28,7 +28,7 @@ Examples of when to use OCM include:
 - Implementing a new succession planning process (i.e. Performance/Potential Matrix) 
 - Rolling out a 360 review process for all team members to use
 - Updating our total rewards policies (i.e. updating our [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/), iterating on benefits plans, etc.) 
-- Changing a hot button policy (i.e. discretionary bonus criteria requiring additional requirements) 
+- Changing a hot button policy (i.e. discretionary bonus criteria requiring additional requirements, changes to compensation plans) 
 - Implementing a new system or tool for all team members that some may see as contentious (i.e. Endpoint Management software,etc.) 
 - Enabling team members to effectively use new tools to improve their job at the time of release (i.e. Culture AMP, Learning Management System, etc.) 
 - Other examples 
@@ -43,8 +43,8 @@ Not every change project at GitLab requires the full OCM methodology to be appli
 - Communicating executive-level updates that come directly from leadership
 - Implementing an iterative change that has a track record of iteration and team member input 
 - Updating and communicating changes to the Handbook
-- Providing awareness and generating excitement for a company-wide initiative (i.e. friends and family day, etc.) 
-- Announcing and implementing a company-wide initiative (i.e. Direct messages in slack, internal comms campaign, etc.) 
+- Providing awareness and generating excitement for a company-wide initiative (i.e. Friends and Family Day, etc.) 
+- Announcing and implementing a company-wide initiative (i.e. Direct messages in Slack, internal comms campaign, etc.) 
 - Training team members on new skills, business/technical acumen, etc
 - Much more! 
 
@@ -66,7 +66,7 @@ Key components of GitLab’s OCM methodology:
 
 ### Step 1 - Develop an agile change plan
 
-When rolling out an organization-wide change that will impact all team members, the first step is to develop an agile change plan. An agile change plan can be informal and the DRI for the change can do it asynchronously with others leading the change. You can draft the plan in a google doc and use it as a starting point when planning for change. For OCM to work, it’s essential to have all the components documented as a source of record and plan for the change. 
+When rolling out an organization-wide change that will impact all team members, the first step is to develop an agile change plan. An agile change plan can be informal and the DRI for the change can do it asynchronously with others leading the change. You can draft the plan in a Google doc and use it as a starting point when planning for change. For OCM to work, it’s essential to have all the components documented as a source of record and plan for the change. 
 
 When developing the agile change plan, there are a few important components to consider: 
 1. **Leadership Engagement:** Visible leadership is the key to success on any large scale transformations at GitLab. Team members will be looking to leaders for cues on how to interpret the change and what actions to take. Depending on the scale of the change, its success will depend on leaders effectively sponsoring and ensuring readiness within their functional groups. 
@@ -99,18 +99,20 @@ After you have completed the impact assessment, you can determine which groups o
 
 When rolling out a new initiative, consider who in the organization will be the most impacted. 
 
+This is also a good time to identify champions within the impacted groups that can help serve as positive change agents throughout the remainder of the OCM process. Champions can help "message test" the change before you send it out to the wider audience, and they can serve as advocates and subject matter experts for the change in their day-to-day work once the change is announced. Champions can include members of leadership, but they should also include team members from all varieties of organizational levels to ensure that you have access to feedback and percieved impact at all levels, allowing you to more effectively craft your communications. 
+
 ### Step 4 - Communicating the change
 
-Once you’ve understood the impacts and who will be most impacted, start developing a communication plan. Analyzing team member engagement and impacts can help guide and engage team members through the change program. Communications should be updated per feedback from all team members to ensure that everyone has an opportunity to contribute before a change is finalized. The timing of communications can also be different based on the impact analysis and who are the most impacted audience groups.
+Once you’ve understood the impacts and who will be most impacted, start developing a communication plan. Analyzing team member engagement and impacts can help guide and engage team members through the change program. Communications should be updated per feedback from all team members to ensure that everyone has an opportunity to contribute before a change is finalized. The timing of communications can also be different based on the impact analysis and who are the most impacted audience groups. And, depending on the impact of the change, you might want to consider giving managers talking points/guidance that they can use to discuss the changes 1:1 with their team to answer questions and/or address concerns. 
 
-Focus on delivering the right amount of detail to the right audience, through the right communications channel, and at the right time. We typically rely on slack channels to send organization-wide communications. Leverage the channels that will provide the most impact to ensure leaders and team members can articulate with clarity and purpose of the change project. 
+Focus on delivering the right amount of detail to the right audience, through the right communications channel, and at the right time. We typically rely on Slack channels to send organization-wide communications. Leverage the channels that will provide the most impact to ensure leaders and team members can articulate with clarity and purpose of the change project. 
 
-The goal of this step is to build the credibility of the project and what it will deliver. It can also help generate a positive perception of the transformation. 
+The goal of this step is to build the credibility of the project and clearly articulate what it will deliver as well as the ideal end-state. It can also help generate a positive perception of the transformation. 
 
 **Key Activities:**
 - Communication plan: identify what, when, and to whom
 - Key messages outlined in an Issue or Google Doc
-- Communication materials: Slack messages that direct team members to Issues for feedback and a historical record, handbook page links, templates, videos, etc. 
+- Communication materials: Slack messages that direct team members to Issues for feedback and a historical record, handbook page links, templates, videos, AMA meeting, manager talking points, etc. 
 
 ### Step 5 - Train for the change
 
@@ -129,6 +131,10 @@ GitLab Learner Experience - 70-20-10 Training approach:
 The ultimate purpose of the OCM process is to get team members to adopt the change and implement it in their day-to-day role. To ensure this, it is important to focus on user adoption and measure it regularly so we can adjust the communications and training approach. [Apply iteration](https://about.gitlab.com/handbook/engineering/workflow/iteration/) to the change by consistently looking for new ways to roll out programs more [efficiently](https://about.gitlab.com/handbook/engineering/workflow/iteration/).  If appropriate, consider opening an issue to allow for team members to provide feedback which will inform future iterations.
 
 To drive the adoption and usage of new changes, it is essential to provide proper metrics and measurement tools. A successful adoption helps in mitigating the organizational challenges and realizing business benefits to ensure better ROI and a successful sustained transformation. 
+
+### Step 7 - Close the feedback loop
+
+Part of successful OCM is creating a positive experience and sentiment for team members around large organizational changes – meaning, team members feel that their feedback was heard, and they understand the positive impact of the change. This means that communication should not stop abruptly once the change is made. Instead, it is crucial for you to "close the feedback loop" by clearly communicating the metrics from the steps above as well as providing insight into how the organization has benefited (and is expected to continue benefiting) from the change that has been made.  
 
 ## A Manager's role in OCM
 
