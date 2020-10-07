@@ -373,7 +373,7 @@ The develop and test phase is where we build the features, address bugs or techn
 
 This phase begins after work has been broken down, and prioritized in Phase 1. The Engineering Manager will assign an engineer (or an engineer will pick it up from the `workflow::ready for development` queue on a board) who is responsible for building the feature. That engineer will update it's `workflow::` label to indicate where it is in the [development process](`https://about.gitlab.com/handbook/engineering/workflow/#basics`). 
 
-When an issue is in development Quality Engineering will follow the [quad planning](https://about.gitlab.com/handbook/engineering/quality/quad-planning/#process) process ensuring test plans, regression jobs, end to end tests, and any other testing process is followed. Coordination is key between the assigned development engineer, and quality engineer during this phase. 
+When an issue is in development Quality Engineering will follow the [quad planning](https://about.gitlab.com/handbook/engineering/quality/quad-planning/#process) process ensuring test plans, regression jobs, end to end tests, and any other testing process is followed. Coordination is key between the assigned development engineer, and SET during this phase. 
 
 *Note: Work deemed out of scope or incomplete by engineering is taken back into the [plan phase](#Build-phase-1:-Plan) for refinement and rescheduling for completion.*
 
