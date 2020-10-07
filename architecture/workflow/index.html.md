@@ -51,7 +51,7 @@ TL;DR:
 1. When the blueprint merge request is clear enough, the author assigns an Engineering Leader to review it,
 1. The blueprint gets approved once the merge request is merged by the Engineering Leader,
 1. The author adds a link to the blueprint located on docs.gitlab.com to an active
-   [architecture roadmap document](/handbook/engineering/architecture/#architecture-roadmap),
+   [architecture roadmap document](/handbook/engineering/architecture/#roadmap),
 1. 3 [Directly Responsible Individuals
    (DRIs)](/handbook/people-group/directly-responsible-individuals/) get assigned and collaborate together to get the work done,
 1. A [Working Group](/company/team/structure/working-groups/) can be formed if needed, but is not required,
@@ -235,7 +235,7 @@ change.
 
 Once the merge request is merged, the author is expected to add a link to the
 blueprint to the current [Architecture
-Roadmap](/handbook/engineering/architecture/#architecture-roadmap) page in the
+Roadmap](/handbook/engineering/architecture/#roadmap) page in the
 Handbook.
 
 ### Finding DRIs
