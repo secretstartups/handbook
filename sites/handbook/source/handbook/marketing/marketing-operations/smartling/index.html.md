@@ -21,6 +21,7 @@ Smartling is our localization platform that is used to translate pages on our we
 - [Using Smartling](https://help.smartling.com/hc/en-us/categories/115000321934)
 - [Release Notes](https://help.smartling.com/hc/en-us/articles/115004279934)
 - [Localization Terminology](https://help.smartling.com/hc/en-us/articles/115004194054-Localization-Terminology-)
+- [Supported File Types](https://help.smartling.com/hc/en-us/articles/360007998893-Supported-File-Types)
 
 ## Roles
 
@@ -56,6 +57,23 @@ Each job should only be translating to one language pair. For instance, if you h
 
 Each jobs is parsed differently in Smartling depending on the file type. So if a similar string exists both in a web page (HTML) and a document (PDF), Smartling may not match those strings in the same way.
 
+### Request a job
+
+You can request a translation job either from the main `Jobs` tab in the top navigation or from the project level the job will be conducted in based on the file type (Marketo, GDN, Documents).
+
+**From top-level navigation**
+
+1. Click `Jobs`. This takes you to all translation jobs regardless of what project they reside in.
+1. Click the `Request Translation` button in the top-right.
+1. Enter a name for the job.
+1. Ensure the job is located in the correct project according to the integration type (Marketo, GDN, Documents). Each project operates and includes a different workflow depending on the intergration.
+1. Upload the file to be translated.
+1. In the `Description`, paste the link of the epic or issue related to the translation job.
+1. Select the target language for the source file (what language want your document to be translated to).
+1. Click `Save Job and Continue`.
+
+All saved jobs must be authorized before they are submitted for translation.
+
 ### Attachments
 
 You can upload additional files, screenshots, etc. to provide context to the translators about the job. The more context you provide around a job the better.
@@ -81,9 +99,9 @@ To download a translated job from the `GitLab Documents` project:
 1. Select the `Files` tab from within the job.
 1. Click the `Download Files` link.
 1. Select how you would like Smartling to download the file:
-  - `Subfolders for languages` - file name is not ammended, remains the same as the source file
-  - `Languages in file names` - adds the locale code at the end of the file name
-  - `Subfolders for languages and languages in file names` 
+ - `Subfolders for languages` - file name is not ammended, remains the same as the source file
+ - `Languages in file names` - adds the locale code at the end of the file name
+ - `Subfolders for languages and languages in file names` 
 1. Click `Confirm`.
 
 ### Issues
