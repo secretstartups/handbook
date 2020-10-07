@@ -175,3 +175,16 @@ The Manager Challenge Pilot is set up within the GitLab Tool. We are using Epics
 - Daily
    - Create the Day's Issue in the [Manager Challenge Project](https://gitlab.com/gitlab-com/people-group/learning-development/manager-challenge) using the [manager-challenge-daily-template](https://gitlab.com/gitlab-com/people-group/learning-development/manager-challenge/-/blob/master/.gitlab/issue_templates/manager-challenge-daily-template.md) 
    - Monitor the issue comments to respond to questions as well as keep track of participation 
+
+### Scheduling 
+
+**Live Learning Sessions** 
+
+Each week of the challenge has one day of live learning sessions. Depending on the locations of the participants, it can be determeined how many sessions are held on the Thursday of each week.  
+
+Approximate times for the live sessions to ensure timezone coverate include: 10:30am ET, 4pm ET, and 9:30pm ET. 
+
+**Retrospective Sessions**
+
+After the 20 day challenge has been completed, it is suggested to have a live retrospective where participants can come and share any feedback about the program. The time(s) this is scheduled for can be the same as the live learning sessions were during the challenge. 
+
