@@ -109,6 +109,40 @@ CAN-SPAM sets forth certain requirements that must be honored when sending out m
 
 We care about our customers and their protection is our focus. For an additional incentive, be aware that failing to comply can cost a lot of money on a per email basis - up to $41,000 per violation. 
 
+### Cookies and Consent
+ 
+Privacy and Electronic Communications Regulations (PECR) give people specific privacy rights in relation to electronic communications.  PECR sets specific rules around marketing, secure communication services and customer privacy (as regards traffic and location data, itemised billing, line identification, directory listings) and cookies (which is broadly defined).
+ 
+There are important factors to consider with cookies in general. 
+If you use cookies you must:
+* say what cookies will be sent;
+* explain what the cookies will do; and
+* obtain consent to store cookies on devices.
+ 
+PECR expands the definition of cookies to include “similar technologies” like fingerprinting techniques. Therefore, unless an exemption applies, any use of device fingerprinting requires the provision of clear and comprehensive information as well as the consent of the user or subscriber.
+ 
+Consent is not required if the cookie is used: “(a) for the sole purpose of carrying out the transmission of a communication over an electronic communications network; or  (b) where such storage or access is strictly necessary for the provision of an information society service requested by the subscriber or user.”
+ 
+Please note that cookies for analytics purposes are not “strictly necessary.” 
+ 
+PECR applies to any technology that stores or accesses information on the user’s device. This could include, for example, HTML5 local storage, Local Shared Objects and fingerprinting techniques.
+ 
+Device fingerprinting is a technique that involves combining a set of information elements in order to uniquely identify a particular device. Examples of the information elements that device fingerprinting can single out, link, or infer include (but are not limited to):
+* data derived from the configuration of a device;
+* data exposed by the use of particular network protocols;
+* CSS information;
+* JavaScript objects;
+* HTTP header information,
+* clock information;
+* TCP stack variation;
+* installed fonts;
+* installed plugins within the browser; and
+* use of any APIs (internal and/or external).
+ 
+It is also possible to combine these elements with other information, such as IP addresses or unique identifiers, etc.
+ 
+PECR also applies to technologies like scripts, tracking pixels and plugins, wherever these are used. 
+
 
 
 
