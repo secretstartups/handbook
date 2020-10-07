@@ -49,10 +49,10 @@ The following data cleanup is required for any list prior to sending it to the M
      - Person name separated into two columns - `First Name` `Last Name`
      - Duplicates must be reviewed and reduced
      - Address separated into individual fields (`Street`, `City`, `State/Province`, `Zip/Postal Code`, `Country`)
-     - `Country` that **are not** `United States` or `Canada` *must* have `State` field deleted or cleared as it will create conflicts
+     - `Country` that **are not** `United States` or `Canada` *must* have `State` field deleted or cleared as it will create conflicts and will not sync to SFDC
 - Preferred format for Marketo upload is .csv, but will accept an .xls, or .xlsx. Provide as Google Sheet in the upload issue. **DO NOT** upload the file directly on the issue. Uploading files to the issue exposes ALL collected personal data to the internet and opens GitLab up to litigation
 - Record ownership will be assigned using established lead routing, which is [controlled by LeanData](/handbook/marketing/marketing-operations/leandata/)
-- In order to mark leads as `Opt-in = TRUE`, a record of the terms and conditions the leads agreed to upon having their data collected must be recorded. Check the `terms of service` wording has been recorded in the upload issue **before** opting in leads to receive marketing communications. No ToS, no `Opt-in`. Period.
+- In order to mark leads as `Opt-in = TRUE`, a record of the terms and conditions the leads agreed to upon having their data collected must be recorded. Check the `terms of service` wording has been recorded in the upload issue **before** opting in leads to receive marketing communications. No ToS, no `Opt-in`. Period. To find the appropriate language, refer to [Marketing Rules and Consent Language](/handbook/legal/marketing-collaboration/#marketing-rules-and-consent-language)
 - If there are any records who have opted out of contact for any reason, define that on the spreadsheet by selecting `Opt-in = FALSE`
 - Leave `Opt-In` empty if no other option is available
 
@@ -77,6 +77,7 @@ Video of how this works tbd.
 1. Remove inaccurate entries
      - `Job Title` **remove** "self", "me", "n/a", etc
      - `Phone` **remove** obvious junk numbers 0000000000, 1234567890, etc
+     - `State` should be empty unless `country` equals `United States` or `Canada`
 1. **Blank fields** are better than junk data. We have enrichment tools that are designed to write to blank fields. Also we can run reports on the blank fields to find where our data gaps are.
 1. If you do not have a CONTACT `Phone` **do not** substitute the ACCOUNT `Phone` and vice versa. Leave it blank.
 1. Sort spreadsheet by `Email Address` and remove duplicates.
@@ -100,11 +101,12 @@ Video of how this works tbd.
      - Country
      - State (United States and Canada only)
      - Campaign Member Status
+     - Opt-In status: `True`, `False`, or `leave blank` (determines if leads are **legally** signed up for GitLab's marketing emails)
 - Additionally, there is data required for leads to be successfully routed to SDRs. While this information is not mandatory, it is strongly preferred and requested by the `Director of Marketing Department` to be included. GitLab employs tools that enrich leads and `Accounts`, but those tools are not guaranteed to work, so if the data can be found at the source it is preferred. Lastly, while it is less likely to have an upload refused due to missing this data, **missing this data is still considered grounds for refusal by the MktgOps team**. The recommended information is as follows:
      - Employee Bucket or Number of Employees
           - GitLab's segmentation standard for `Employees Bucket` includes the following groups: `1-99`, `100-499`, `500-1,999`, `2,000-9,999` and `10,000+`.
           - You can also enter an integer in for `Num Employees` and this will automatically update the `Employees Bucket` field if blank.
-     - Opt-In status: `True`, `False`, or `leave blank` (determines if leads are **legally** signed up for GitLab's marketing emails)
+
 
 ### Campaign Templates - Info for Post-MktgOps Hand-off
 
