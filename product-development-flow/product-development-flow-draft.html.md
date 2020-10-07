@@ -357,7 +357,7 @@ For user-facing deliverables, Product Designers work with Engineering to validat
 | `workflow::ready for review` 	| Applied by the engineer indicating an issue (and/or MR) is ready for review from a maintainer. 	|
 | `workflow::In review` 	| Applied by an engineer indicating that all MRs required to close an issue are in review |
 | `workflow::blocked` 	| Applied if at any time during development the issue is blocked. E.g.: technical issue, open question to PM or PD, cross-group dependency 	|
-| `workflow::verification` 	| Once the MR has been reviewed and merged this label is applied signaling the issue/MR is being verified in production (sub states for this label could be `workflow::canary` or `workflow::staging` depending on where the change is in the deployment process) 	|
+| `workflow::verification` 	| Once the MRs in the issue have been merged, this label is applied signaling the issue needs to be verified in staging and/or production |
 
 
 #### Key Participants
