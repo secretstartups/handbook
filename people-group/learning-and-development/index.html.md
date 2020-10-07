@@ -202,9 +202,10 @@ The L&D team uses GitLab issue boards to track priorities, organize collaboratio
 
 * The L&D team uses [this issue board](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/boards/1958538?milestone_title=No+Milestone) to track priority issues each quarter.
 * The `open` list is a queue for issues that need to be addressed, but have not yet been assigned to a sprint.
-* Following the open column, the team maintains 3 open columns for each upcoming sprint. The sprints are organized with a label using the naming mechanism `L&D Sprint # (Date Range)`
-* Issues can be moved from the [main L&D issue board](https://gitlab.com/gitlab-com/people-group/learning-and-development/-/boards/1281903) to the sprint board when they are ready to be assigned to a sprint.
-* Each issue assigned to a sprint should be labeled with a priority tag, `L&D Priority 1`, `L&D Priority 2`, and `L&D Priority 3`.
+* Following the open list, the team maintains three milestones, one for each upcoming sprint. The sprints are organized with a milestone using the naming mechanism `L&D Sprint # (Date Range)`
+* Issues can be moved from the `open` list to correct the sprint board when they are ready to be assigned/addressed.
+* When an issue is closed, it should remain in the given milestone.
+* At the end of the sprint, the milestone can be removed from the board, or the milestone list can be hidden on the issue board.
 
 
 ### Top five training content development principles
