@@ -210,7 +210,7 @@ GitLab is kicking off the Performance/Potential Matrix in FY'21 Q3 in preparatio
 * 2020-11-01: Kick off formal assessment period
 * 2020-11: Performance/potential matrix is completed company wide
 * 2020-11-30: Performance rating finalized for all team members and approved through the e-group level
-* 2020-12: Individual results of Performance/Potential matrix communicated directly with team member
+* 2020-12: Communication Guidance to be determined and updated below.
 
 ### Matrix Assessment Timeline 
 
@@ -219,27 +219,12 @@ The Performance/Potential Matrix typically takes 4-6 weeks to complete from begi
 1. Managers complete a Performance/Potential Matrix for their respective teams
 1. Live session takes place for calibration 
 1. Executive Review (leadership meets to review the matrix results, promotion requests, development and performance actions, review discrepancies, and measure against previous matrix results).
-1. After finalized, results are shared with team members. 
+1. TBD Communication timeline and best practices.  
 1. Retrospace takes place with leadership to determine next steps and iterate. 
 
 ## Communication 
 
-In most companies the Performance/Potential Matrx is used exclusively as a management tool and results are not typically shared with team members. In the spirit of our transparency value, managers are encouraged to communicate matrix results with team members. We recommend communicating for several reasons:
-* To stay true to our values
-* This information should not come as a surprise to team members (as career development conversations and feedback should be ongoing)
-* It provides an opportunity to receive input/feedback from team members
-* It serves as a platform that can feed into a development plan
-
-With the communication consider the following in the light of their performance and potential:
-
-* Refrain from saying things such as: "You're a box X", rather discuss the themes/examples that led to the placement
-* Discuss areas the team member is doing well
-* Discuss areas that need improvement
-* Provide examples
-* Provide recommendations for future development
-* Prepare the communication in advance
-
-_Note: For Q4 matrices, results should only be communicated to team members after finalized and approved through the e-group level._
+In most companies the Performance/Potential Matrx is used exclusively as a management tool and results are not typically shared with team members. For this first iteration, we are in the process of determining what will be communicated with feedback from GitLab managers and team members. We will update this handbook page with more information on the communication plan soon. 
 
 ## Succession Planning
 
