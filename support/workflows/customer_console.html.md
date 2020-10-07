@@ -328,7 +328,7 @@ irb(main):021:0> force_reassociation("A-S00000000", "0000000", "example")
 
 ### unlink_customer
 
-Completely unlink a GitLab.com account from a Subscriptions App account.
+Completely unlink a GitLab.com account from a Subscriptions App account. **Note:** The ID to be used will be the customer's parent account ID not the ID of the engineer in question.
 
 **Warning**: Unlinking means the .com groups will no longer show. This is typically only used when an admin accidentally links their account to a customers.
 
