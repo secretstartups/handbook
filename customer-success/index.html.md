@@ -45,7 +45,7 @@ Ensuring paying customers are successful in their onboarding in order to gain ad
 Collecting and making use of customer data and insights is key to customer success.  It’s important to do more with data and when necessary share back with customers, which in turn helps and encourages our customers to improve and drive adoption.
 
 ### Initiative: Performance
-Utilizing built-in monitoring instrumentation and [a scalable HA architecture](https://docs.gitlab.com/ee/administration/high_availability/README.html#reference-architecture), The Customer Success team helps ensure implementations of GitLab are operating at peak performance as organization scale and adopt more features.
+Utilizing built-in monitoring instrumentation and [a scalable HA architecture](https://docs.gitlab.com/ee/administration/reference_architectures/index.html), The Customer Success team helps ensure implementations of GitLab are operating at peak performance as organization scale and adopt more features.
 
 ## Customer Success Groups
 ### Solutions Architects
