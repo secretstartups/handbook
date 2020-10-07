@@ -178,8 +178,17 @@ associated with the organizations. The current process for this is as follows:
 1. Locate the organization in Salesforce
 1. Check the contacts for the Account in Salesforce
 1. If the user's email address is listed there, you may safely associate the
-   user to the organiztion.
-1. If the user is not listed there, you will need to do one of the following:
+   user to the organization.
+1. If the users email is not listed then the following workflow applies and reflects how
+   [customers prove their entitlement](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/AM-Update-Needs-Org-Full-Workflow/support#proving-your-support-entitlement).
+
+**For GitLab.com users:**
+
+   1. The user (matched by ticket requester's email) is in the paid group for which they are asking for support (or it's an account related issue)
+
+
+**For Self-managed users:**
+
    1. Ask the user to provide their license details and verify the license/e-mail is valid (e.g. in [Licenses portal](https://license.gitlab.com/)). If valid, it is OK to associate this particular user to the org that owns the license.
       * There is a field in the ticket titled **Email associated with your GitLab instance**. It is possible that it is already populated and that user already provided the e-mail that is owning the license, in which case we don't need to explicitly ask for it (or the screenshot).
       * You can also ask the user to provide a screenshot of the `/admin/license` endpoint from their instance or to tell you the e-mail to which the license their organisation is using is associated to. To do this quickly, you can use the macro called **Self-Managed::Locating GitLab subscription**. 
