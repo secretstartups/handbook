@@ -66,7 +66,7 @@ To process an upgrade:
    account owner.
 
 ### Refunding an account
-Please see the [handling refund requests workflow](/handbook/support/workflows/handling_refund_requests.html)
+Please see the [handling refund requests workflow](https://about.gitlab.com/handbook/support/workflows/billing-related_workflows.html#refunds)
 
 ### Refunds processed as % of orders
 

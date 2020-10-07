@@ -46,14 +46,19 @@ For reviews with a "satisfaction::bad" rating, follow this process.
 | Label | Description |
 | ----- | ----------- |
 | `~feedback::customer-resolved` | The customer resolved the ticket |
-| `~feedback::docs-issue` | Documentation not helpful or missing |
+| `~feedback::docs-new-issue` | Encountered Documentation problem; new Issue and/or MR filed |
+| `~feedback::docs-not-helpful` | Documentation unhelpful to customer and/or Support Engineer |
 | `~feedback::known-issue` | Known issue with Issue already created |
-| `~feedback::lacking-info` | Not enough information supplied to progress investigation in ticket |
+| `~feedback::product-new-issue` | Encountered Product problem; new Issue and/or MR filed |
+| `~feedback::missing-info-from-customer` | Customer did not supply enough information for investigation |
+| `~feedback::missing-info-by-engineer` | Support Engineer did not provide adequate information to customer |
 | `~feedback::outside-support` | Problem internal to GitLab but not directly by Support |
-| `~feedback::process` | Support process not followed/does not exist |
-| `~feedback::product-issue` | Bug and/or feature not working as expected |
-| `~feedback::soft-skills` | Wording of responses and/or mishandling of the user/account |
-| `~feedback::tech-skills` | Technical skills lacking to resolve/work around problem |
+| `~feedback::process-confusing-customer` | Customer found support process confusing or unclear |
+| `~feedback::process-engineer-not-followed` | Support Engineer did not follow documented support process |
+| `~feedback::process-does-not-exist` | Problem does not have an existing Support process |
+| `~feedback::soft-skills` | Support Engineer responses unhelpful or customer expectations mishandled |
+| `~feedback::technical-skills-engineer` | Support Engineer lacks skills or permissions to troubleshoot or resolve problem |
+| `~feedback::technical-skills-customer` | Customer lacks skills or permissions to troubleshoot or resolve problem |
 
 **Note:** For the full list of feedback labels and their descriptions, visit the [labels page in the support-feedback project](https://gitlab.com/gitlab-com/support/feedback/-/labels?utf8=%E2%9C%93&subscribed=&search=feedback%3A%3A).
 
