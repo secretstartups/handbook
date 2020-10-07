@@ -323,6 +323,7 @@ The build track is where we plan, develop, and deliver value to our users by bui
 ### Build phase 1: Plan
 
 #### Labels
+<kbd class="required">Required 🔎</kbd>
 | Label 	| Usage 	|
 |-	|-	|
 | `workflow::planning breakdown` 	| Applied by the Product Manager on or before the [4th of the month](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline) signaling an intent to prioritize the issue for the next milestone 	|
