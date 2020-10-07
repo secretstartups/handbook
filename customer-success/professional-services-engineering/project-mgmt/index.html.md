@@ -6,9 +6,11 @@ title: "Professional Services Project Management"
 ## On this page
 
 
-Gitlab takes our customer's success very seriously. In Professional Services (PS) we strive to provide a first class experience for all engagements. 
+Gitlab takes our customer's success very seriously. In Professional Services (PS) we strive to provide a first class experience for all engagements.
 
-https://docs.google.com/spreadsheets/d/1uRoB73lZtvNhkk-Z9eQS3_Ys4yX8vVUXXqQUO7Nm1ss/edit?usp=sharing
+![](./image.png =300x200)
+
+[source](https://docs.google.com/spreadsheets/d/1uRoB73lZtvNhkk-Z9eQS3_Ys4yX8vVUXXqQUO7Nm1ss/edit?usp=sharing)
  
 ### Project plan
  
