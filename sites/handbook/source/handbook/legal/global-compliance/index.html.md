@@ -12,18 +12,6 @@ title: "Compliance for Your Average Human"
 ## Principle of Compliance
 
 Everything we do matters. At GitLab, we comply with the policies and procedures because it is the right thing to do and because we value integrity. Some people attempt to find so many loopholes in the rules that they actually alter the underlying principle of the matter. But at GitLab, principles matter, and we are serious about compliance.  
-
-## Confidential Information
-
-There are three primary categories of company secrets discussed here: 
-* Trade Secrets
-* Confidential Information 
-
-Collectively, these things are classified as [RED in our Data Classification Policy](/handbook/engineering/security/data-classification-standard.html#red).  The “Red” designation is for the most sensitive, restricted business information that requires heightened internal controls by limiting access to only those authorized individuals with a need-to-know. 
-
-**Trade Secrets** are those extra bits of information that set our company apart.  It’s that stuff that is so cutting edge that we don’t even want to get a patent on it for fear of letting others know the technology.  If you patent something, the secret ingredients are laid out for the world to see like some crazy technological recipe. Competitors quickly mobilize for comparable product offerings.  But where there is a trade secret, competitors are left in the dark. However, once you release a trade secret – there is no protection.  It is all out there for the world to exploit; this is why we have employees sign non-disclosures. 
-
-Another set of secrets include **Confidential Information**.  This is more than the general confidential stuff.  This includes the provocative business data that helps us run strategically and includes business development plans/strategies, non-public financial information, third party data and government protected information.  (Trade Secrets technically fall under this category but given its unique stature, it gets celebrity status.)  Failing to protect heightened confidential information could cause all sorts of bad feelings with GDPR, EUCI, SOX, EUEC, DOJ, DOC, SEC, OAIC and others.  In other words, if you fail to execute proper controls and restraint, you will be attacked by nothing short of alphabet soup with a badge. 
  
 
 ## Cookies and Consent
