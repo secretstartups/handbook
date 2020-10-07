@@ -389,7 +389,7 @@ When an issue is in development Quality Engineering will follow the [quad planni
 
 <kbd class="required">Required 🔎</kbd>
 
-**Feature is built** - Engineering is the DRI for this step. And will follow the engineering process and ensure the implemented solution meets the [definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done). It is also engineering's responsibility to keep all relevant stakeholders up to date on the status of an issue. This is critical to maintain async updates to avoid status check-ins and synchronous stand-ups.
+**Feature is built** - The Engineering Manager is the DRI to ensure the engineering process is followed and that the implemented solution meets the [definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done). It is also the EM's responsibility to keep all relevant stakeholders up to date on the status of an issue. This is critical to maintain asynchronous updates to avoid status check-ins and synchronous stand-ups.
 
 **Feature is tested** - Engineering works closely with SET to ensure the feature is tested and ready for review and ultimately deployment to production. Engineering ensures all [definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done) requirements are met and works with SET to follow up on any specific test coverage changes necessary as an outcome of Quad Planning. 
 
