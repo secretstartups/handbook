@@ -105,7 +105,7 @@ If a manager has a team member on their team who is red circled (paid over the t
 
 As part of the new [Annual Compensation Review](/handbook//total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline), managers will review, approve, and where necessary update the proposed salary increases to ensure that we are paying each team member to market and increasing based on performance. Please verify the compensation review inputs (performance, level, title) are accurate in Compaas.
 
-It is very important that GitLab team-members understand their performance and how it impact their salary.
+It is very important that GitLab team-members understand their performance and how it impacts their salary.
 
 While some GitLab team-members may not receive an increase due to already being at the right [competitive rate](/handbook/total-rewards/compensation/#competitive-rate) for their Level, Role, and Location there are other circumstances where an increase should be avoided. If there are any reasons as to why the team member should not receive the proposed increase to be aligned with market rates in our calculator, please email total-rewards@ domain with the reasoning and cc your People Business Partner. This could be due to a current performance issue, pending termination, etc. If you would like to delay the increase, please outline a proposed plan of action and deadline. Team members who are currently struggling to perform at their current level should have that communicated clearly and the manager should consider delaying the increase until performance reaches a commendable level.
 
