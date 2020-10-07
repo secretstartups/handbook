@@ -369,7 +369,8 @@ The develop and test phase is where we build the features and test them before l
 
 ### Build phase 3: Launch
 
-Recommended label: `workflow::production`
+Label: `workflow::production`
+
 Issue Status: `Closed`
 
 #### Key Participants
@@ -395,6 +396,7 @@ When the change becomes available in production, the issue is closed by the deve
 | GitLab validates if the feature is meeting GitLab's own needs | **Required** : A determination is made by the product manager as to if the feature should be a part of the [Dogfooding process](/handbook/product/product-processes/#dogfooding-process) which organizes and tracks usage of the feature by GitLab.  If so, the product manager coordinates this process. |
 
 #### Required Outcomes
+<kbd class="required">Required 🔎</kbd>
 
 * Issue is closed so that stakeholders who are watching the issue know the feature is available
 * Release post is added when appropriate so that stakeholders who read the release posts know the feature is available
