@@ -35,4 +35,9 @@ See more details on [Smartling's help article](https://help.smartling.com/hc/en-
 
 **Important:** The original source asset must be available in the same location from where the translation was requested for the connector to successfully create the translated version in your Marketo instance.
 
+## Reports
+
+1. [Word Count and Processed Words Reports](https://help.smartling.com/hc/en-us/articles/115003148233-Word-Count-and-Processed-Words-Reports)
+1. [Issues Report](https://help.smartling.com/hc/en-us/articles/115003152794-Issues-Report)
+
 
