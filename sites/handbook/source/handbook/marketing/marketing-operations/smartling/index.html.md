@@ -48,6 +48,38 @@ Projects are organized by the integration type:
 
 Each job should only be translating to one language pair. For instance, if you have a whitepaper that you would like to translate to French and German, you would create two separate jobs: one for the German version and one for the French version.
 
+Each jobs is parsed differently in Smartling depending on the file type. So if a similar string exists both in a web page (HTML) and a document (PDF), Smartling may not match those strings in the same way.
+
+### Attachments
+
+You can upload additional files, screenshots, etc. to provide context to the translators about the job. The more context you provide around a job the better.
+
+### Additional Details 
+
+In the description of your job, ensure that you are including a link to the respective issue or epic related to your job. For the `Reference Number` please include the finance tag for your job so the finance team can allocate the spend accordingly. 
+
+### Cost Estimate
+
+Total word count (word count of the source file/language, not the translated file/language) multiplied by the per word rate (rate differs based on language) minus discounted rates from matches on previous translations (repetitions).
+
+### Due Date
+
+Automatically generated based on the word count. Anything under 5,000 words is typically ready in 2 business days.
+
+### Document Project Jobs
+
+To download a translated job from the `GitLab Documents` project:
+
+1. Click the `Jobs` tab from the `GitLab Documents` project.
+1. Navigate to your job from the list and click the title link of your job.
+1. Select the `Files` tab from within the job.
+1. Click the `Download Files` link.
+1. Select how you would like Smartling to download the file:
+  - `Subfolders for languages` - file name is not ammended, remains the same as the source file
+  - `Languages in file names` - adds the locale code at the end of the file name
+  - `Subfolders for languages and languages in file names` 
+1. Click `Confirm`.
+
 ## Terminology 
 
 ### Translation Memory
