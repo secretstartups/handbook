@@ -47,6 +47,10 @@ We are able to facilitate the ordering of Flowers or Gifts for deliver however a
 
 Requests for Gift and Flowers to be ordered can be made using the following [Gift Request Form](https://docs.google.com/forms/d/e/1FAIpQLScxwCUNF-9IV-y-XNswQwkzwA-a6ahuPd8HFGEuxw3EMjukrA/viewform).  Once an order has been placed you will receive a direct Slack message of confirmation from the People Experience Team.
 
+The budget for sending these gifts will come from the department budget of the gift-receiving team member. To make sure the reports in Expensify are routed correctly, People Experience Associates will be sure to fill in the correct division and department. Team members' division and departmental information can be found in their BambooHR profile under the Job tab, in the `Job Information` section.
+
+For procedures on how to handle [gifts](/handbook/people-group/people-experience-team/#gift-requests)
+
 ## Support
 If you need support around the ordering of gifts and flowers e.g. updating a team members address or editing any of the details submitted please reach our to the People Experience Team via the **#peopleops** channel.
 
