@@ -32,7 +32,7 @@ Such definition implies a solid reliance on **influence** rather than authority 
 * **Engineering Fellows** (EFs) are DRIs for the overall Architecture Practice
   * EFs operate at the [Division and Department](https://about.gitlab.com/company/team/structure/#organizational-structure) levels (EVPs, VPs and Senior Directors), and, to a lesser but still significant extent, [E-group](/handbook/leadership/#e-group)
   * EFs are technical partners to their Department VPs and Senior Directors ([S-group](/handbook/leadership/#s-group))
-  * EFs lead the collaborative production of 12-month technology **roadmaps** which map to [pre-existing cadence](https://about.gitlab.com/direction/#1-year-plan). They are distinct but closely aligned with Product Roadmaps. Technology Roadmaps are aligned with OKRs and are supposed to be updated as needed, but at least every 6 months, and their first iteration is slated for August 1, 2020 (so they can influence Q3 OKRs).
+  * EFs lead the collaborative production of 12-month technology **roadmaps** which map to [pre-existing cadence](https://about.gitlab.com/direction/#1-year-plan). They are distinct but closely aligned with Product Roadmaps. Technology Roadmaps are aligned with OKRs and are supposed to be updated as needed, but at least every 6 months.
   * EFs have strong input on Department OKRs
 * **Distinguished Engineers** (DEs) are DRIs for the Architecture Practice in their respective Departments and Sub-departments
   * DEs operate at the [Department and Sub-department](https://about.gitlab.com/company/team/structure/#organizational-structure) levels (Directors and Senior Managers)
@@ -72,11 +72,7 @@ aligned with our OKRs cadence.
 
 A detailed description of the [workflow](workflow/) is available.
 
-## Architecture Roadmap
+## Roadmap
 
-Following our
-[Transparency](https://about.gitlab.com/handbook/values/#transparency) value,
-all of our architecture roadmaps and blueprints are public and available below.
+Following our [Transparency](https://about.gitlab.com/handbook/values/#transparency) value, our [architecture roadmap](roadmap/) and blueprints are public.
 
-* [FY21 Roadmap](roadmap/fy21/)
-* [FY22 Roadmap (coming soon)](roadmap/fy22)

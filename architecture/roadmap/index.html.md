@@ -11,7 +11,7 @@ As a company, GitLab advocates [cloud native](https://about.gitlab.com/cloud-nat
 
 ## Multi-Large Sites: Cloud Native
 
-**Cloud native** is an approach to application development and operation built around cloud computing, shitfing the focus from indivividual machines to services that rely on on-demand cloud resources to deliver high service levels while adapting to a never ending stream of changes. It relies on technologies such as containers and strategies such a microservices to deploy at high frequencies in a consistent manner. This is reflected on our beliefs on the [Biggest Tailwinds](https://about.gitlab.com/handbook/leadership/biggest-tailwinds/), and enables a high degree of predictability, thus allowing us to better manage said service levels.
+**Cloud native** is an approach to application development and operation built around cloud computing, shitfing the focus from individual machines to services that rely on on-demand cloud resources to deliver high service levels while adapting to a never ending stream of changes. It relies on technologies such as containers and strategies such a microservices to deploy at high frequencies in a consistent manner. This is reflected on our beliefs on the [Biggest Tailwinds](https://about.gitlab.com/handbook/leadership/biggest-tailwinds/), and enables a high degree of predictability, thus allowing us to better manage said service levels.
 
 Today, GitLab consists of a monolithic GitLab Rails codebase and several supporting services (Gitaly, GitLab Workhorse, Registry, CI runners, GitLab Shell, and GitLab Pages). GitLab has therefore already adopted some facets of cloud native, but we need to move closer to this model to succeed. 
 
@@ -19,7 +19,7 @@ However, we cannot do a wholesale switch to cloud native: we must evolve a singl
 
 ### Compartmentalizing State
 
-In order to adopt container technologies, we must remove local state from all possible application components that do not require it, especially those using local and/or shared POSIX storage (NFS). Build logs and GitLab Pages are the two primary users of NFS in the environment, a dependency that must be eliminated.
+In order to adopt container technologies, we must remove shared local state from all possible application components that do not require it, especially those using shared POSIX storage (NFS). Build logs and GitLab Pages are the two primary users of NFS in the environment, a dependency that must be eliminated.
 
 While we will not be migrating stateful services to cloud native at this time, we need to align them with cloud native capabilities. In particular, the main database (Postgres) needs to support cloud native strategies in the application. To that end, we must implement near-zero downtime Postgres upgrades (i.e., upgrades that, at most, simply require a database failover to take effect), which will be done through [Database Logical Replication](), and provide [testing environments with production-like data and traffic]() to validate database changes st scale.
 
@@ -54,8 +54,8 @@ FY21 (ends on January 31, 2021)
 * Database Logical Replication (FY21Q1)
 * [Cloud Native Build Logs](https://docs.gitlab.com/ee/architecture/blueprints/cloud_native_build_logs/)
 * [Cloud Native GitLab Pages](https://docs.gitlab.com/ee/architecture/blueprints/cloud_native_gitlab_pages/)
-* Feature Flags
-* Registry Rearchitecture
+* [Feature Flags](http://docs.gitlab.com/ee/architecture/blueprints/feature_flags_development/)
+* [Registry Rearchitecture](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/43754)
 
 ### FY22
 
