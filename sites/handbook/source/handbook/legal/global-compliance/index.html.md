@@ -17,43 +17,14 @@ Everything we do matters. At GitLab, we comply with the policies and procedures 
 
 There are three primary categories of company secrets discussed here: 
 * Trade Secrets
-* Confidential Information
-* Personally Identifiable Information 
+* Confidential Information 
 
 Collectively, these things are classified as [RED in our Data Classification Policy](/handbook/engineering/security/data-classification-standard.html#red).  The “Red” designation is for the most sensitive, restricted business information that requires heightened internal controls by limiting access to only those authorized individuals with a need-to-know. 
 
 **Trade Secrets** are those extra bits of information that set our company apart.  It’s that stuff that is so cutting edge that we don’t even want to get a patent on it for fear of letting others know the technology.  If you patent something, the secret ingredients are laid out for the world to see like some crazy technological recipe. Competitors quickly mobilize for comparable product offerings.  But where there is a trade secret, competitors are left in the dark. However, once you release a trade secret – there is no protection.  It is all out there for the world to exploit; this is why we have employees sign non-disclosures. 
 
 Another set of secrets include **Confidential Information**.  This is more than the general confidential stuff.  This includes the provocative business data that helps us run strategically and includes business development plans/strategies, non-public financial information, third party data and government protected information.  (Trade Secrets technically fall under this category but given its unique stature, it gets celebrity status.)  Failing to protect heightened confidential information could cause all sorts of bad feelings with GDPR, EUCI, SOX, EUEC, DOJ, DOC, SEC, OAIC and others.  In other words, if you fail to execute proper controls and restraint, you will be attacked by nothing short of alphabet soup with a badge. 
-
-Other secrets include **Personally Identifiable Information (PII)**.  This is any information that links a particular piece of sensitive information to a specific person. There are various types of PII.  
-* Protected Health Information (PHI) which is defined in HIPAA and includes sensitive information about a person’s health or medical condition
-* Personal Credit Information (PCI) which includes credit card information
-* Personally Identifiable Financial Information (PIFI) which includes banking information, account numbers, and account information
-
-How do you protect PII?  Consider the guidelines in the [Data Classification Policy](/handbook/engineering/security/data-classification-standard.html) and apply it to all of the PII listed above.
-
-Unauthorized disclosure of Red, restricted information, could cause serious adverse impact to GitLab, its clients, business partners, and suppliers. All GitLab team members work to ensure proper protection for all data classified as Red.  
-
-### Personal Credit Information (PCI)
-
-Credit card information falls into the bucket of Personal Credit Information (PCI).  PCI requires heightened levels of protection - much like Personal Health Information (PHI), Personal Identifiable Information (PII), Personal Financial Information (PFI) and other Sensitive Information.  PCI is restricted information with a data classification of Red. PCI isn’t only governed by law; it is also heavily regulated by the credit card industry. Failure to properly handle credit card or bank information could result in the company not being able to process credit card orders.  Nobody wants to resort to checks – that is sooo 1980’s.  So, please, keep in mind - and apply - the Data Classification requirements for a Red level when dealing with PCI, PHI, PFI, PII, trade secrets. 
-
-The fundamental requirements for PCI are:
-1. Must have a maintained firewall;
-2. Custom passwords and unique security measures;
-3. Secure/encrypt cardholder data at rest;
-4. Encrypt any cardholder data transmitted;
-5. Current, active and updated anti-virus must be installed;
-6. Secured systems and applications must be sustained;
-7. Access is on a need-to-know basis only;
-8. Unique data identifiers are required for anyone who has access to cardholder data;
-9. Physical access to cardholder data must be restricted;
-10. Access to cardholder data needs to be logged and reported;
-11. Ensure that security system and process tests are run frequently; and
-12. There should be policies around all of the above.
-
-When dealing with PCI, at no time should an entire credit card number be visible in its full form.  Generally, only the last four numbers of a card should be maintained.  Please make sure that there is no credit information ever jotted down on sticky notes, files, napkins, etc.  If you are aware of any credit card numbers that are not secure, please alert Compliance.  
+ 
 
 ## Cookies and Consent
  
