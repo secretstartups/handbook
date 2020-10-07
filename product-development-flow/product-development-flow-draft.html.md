@@ -396,7 +396,6 @@ When the change becomes available in production, the issue is closed by the deve
 | GitLab validates if the feature is meeting GitLab's own needs | **Required** : A determination is made by the product manager as to if the feature should be a part of the [Dogfooding process](/handbook/product/product-processes/#dogfooding-process) which organizes and tracks usage of the feature by GitLab.  If so, the product manager coordinates this process. | TBD | 
 
 #### Required Outcomes
-<kbd class="required">Required 🔎</kbd>
 
 <kbd class="required">Required 🔎</kbd>
 
