@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Celebrations"
+title: "Celebrations and Significant Life Events"
 ---
 
 ## On this page
@@ -9,35 +9,43 @@ title: "Celebrations"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Anniversary Celebrations
+## Celebrations
 
-### Slack Announcements
+### GitLab Anniversary
+At GitLab we like to acknowledge and celebrate team member milestones and contributions.  This means that those celebrating their first, third, fifth and tenth hire-date anniversary will receive a token of acknowledgement.
 
-Once per week, GitLab team-members with a hire-date anniversary will get a post in the `#team-member-updates` channel on Slack so all team members can help them celebrate.
+Along with this, all celebrants regardless of length of tenure will receive a mention a mention in the **#team-member-updates** channel which allows the greater GitLab community to share in the celebration!
 
-### Anniversary Gifts
+#### Anniversary Gifts
+On the last day of the month of celebration, team members can anticipate an email with a unique link which will lead them to the GitLab Anniversary Gift ordering portal where they can make the relevant size and shipping selections (where applicable).
 
-Directions on how to order your gift will be sent via email on the last day of the month of your anniversary. If you have not received your anniversary gift within 8 weeks (please consider global shipping) of your anniversary, please email people-exp@gitlab, so they can follow up.
+The average shipping time taking into account current restrictions as a result of global events is three weeks.  In an instance where an order has been placed and not received we encourage team members to reach out to the People Experience Team in the **#anniversarycelebrants** channel.
 
-Work Anniversary Gifts are as follows:
-* Year 1:  Possible awesome GitLab Socks (this is still in draft/ approval process)
-* Year 3:  GitLab Hoodie/Jacket 
-* Year 5:  GitLab Travel Bag/ Backpack
-* Year 10: $500 Travel Grant/ Airbnb Gift Card
+| Year | Gift | 
+| --- | --- | 
+| **Year 01** | Celebratory Confetti Tanuki Socks (Unique to the Anniversary Program) |
+| **Year 03** | GitLab Hybrid Vest |
+| **Year 05** | Travel Bag / Backpack |
+| **Year 10** | $500 Travel Grant |
 
-How to order anniversary gifts for People Experience Associates :
-1. Create the minimum order. A minimum order consists of: 10 jackets and 25 bags. This will be stored in the Supplier's warehouse and shipped when needed.
-2. Complete the order [sheet](https://docs.google.com/spreadsheets/d/16DGY5F59yqbOvRYqpkulp55BGVmvuaEEM4GdGVJiMzo/edit#gid=1739552180) with all anniversaries from August 20th 2019. This order sheet is shared with our supplier in order for them to complete the shipping.
-3. Email our supplier on the 1st day of every month.
-4. People Experience Associates please refer to [Instructions on How to Send Anniversary Gifts](https://gitlab.com/gitlab-com/people-group/people-operations-and-experience-team-training/blob/master/Anniversary%20Gifts.md#instructions-on-how-to-send-anniversary-gifts) to follow when sending emails to team members.
+### Team Member Birthdays
+GitLab encourages team members to take a day of vacation on their special day in alignment with our **[Paid Time Off Policy](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off)**.  If your celebration happens to fall over a weekend please be sure to take an alternate day such as the Friday prior or the Monday after.
 
-## Birthdays
+Kindly note that team members are welcome to send cards or tokens of acknowledgement to celebrants in their personal capacity however the People Experience Team in unable to do so on behalf of GitLab; a Team or an Individual Team Member.
 
-The company encourages all GitLab team-members to take a day of vacation on their birthday by utilizing our [paid time off](/handbook/paid-time-off/) policy. If the team-members birthday falls on a weekend, it is encouraged that the team member take the Friday before or Monday after as paid time off to celebrate. 
+The GitLab **BirthdayBot** announces the names of team members celebrating thier birthday in the **#celebrations** channel.  This is an opt-in announcement and those who wish to be excluded can opt-out by excluding their date of birth from their slack profile.
 
-**Please note that we are unable to send birthday gifts to team-members.** 
+If you would like to be included in the announcement but would prefer not to have your year of birth noted in your profile you can document your date of birth as follows `0000-MM-DD` using `0000` as the year of birth will ensure only your day and month of birth will be in your profile.
 
-**BirthdayBot** our official birthday bot will announce team members birthday on #celebrations channel for the rest of the company to send you their wishes. A few things to note;
-1. Any team member wishing to be excluded should refrain from including their birthday on their Slack profile.
-1. If you would like to be included but are not comfortable with inputing the year in Slack, you can use `0000` as the year in your slack profile (ex. 0000-12-29), which will just show the month and day in your Slack profile. Alternatively, just reply with day and month to the bot on a private/direct message under apps section in Slack.
-1. The bot will not announce how old you are turning just that it's your birthday, feel free to share that information on the thread if you wish to.
+## Significant Life Events
+The GitLab People Experience Team is able to send Gifts and Flowers on behalf of the Company or a specific Team in acknowledgement of significant life events such as the birth of a little one; well wishes ahead of surgery or the loss of a loved one.
+
+The event in question must pertain to a GitLab Team Member or the immediate family of a GitLab Team Member and will be allocated to the respective team members departmental budget - the spend range for significant life events is **$75 to $125**.
+
+We are able to facilitate the ordering of Flowers or Gifts for deliver however are unable to support the purchase of Gift Cards at this time.  In an instance where team members would like to extend the offer of a meal or food delivery service this would need to be expensed by the recipient for reimbursement.
+
+Requests for Gift and Flowers to be ordered can be made using the following [Gift Request Form](https://docs.google.com/forms/d/e/1FAIpQLScxwCUNF-9IV-y-XNswQwkzwA-a6ahuPd8HFGEuxw3EMjukrA/viewform).  Once an order has been placed you will receive a direct Slack message of confirmation from the People Experience Team.
+
+## Support
+If you need support around the ordering of gifts and flowers e.g. updating a team members address or editing any of the details submitted please reach our to the People Experience Team via the **#peopleops** channel.
+
