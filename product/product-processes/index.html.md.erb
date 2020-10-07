@@ -679,7 +679,7 @@ should satisfy this inequality:
 Despite its minimal form, the change
 
 - Always requires documentation.
-- Must track usage from day 1, if the feature has a meaningful impact. You can find more information on how we think about monitoring feature engagement in our [Telemetry Guide](https://docs.gitlab.com/ee/development/telemetry/index.html)
+- Must track usage from day 1, if the feature has a meaningful impact. You can find more information on how we think about monitoring feature engagement in our [Product Analytics Guide](https://docs.gitlab.com/ee/development/telemetry/index.html)
 
 [![xkcd.com](https://imgs.xkcd.com/comics/optimization.png)](https://xkcd.com/1691/)
 
@@ -2184,7 +2184,7 @@ Product Managers are fully empowered to define the what and priority of what the
 - **New Configs** - It's easy to think of all the possible options users might want with a feature. When introducing new configuration it's natural to get into a local-optimization mindset that some users want to be able to adjust this setting so why not add a new config option? It is helpful to have an outside perspective to bring a slightly more global view of the addition of a new config option, and the possibility of eliminating it or supplying an appropriate default. 
 - **Application limits** - It's important that we add application limits to prevent abuse of GitLab. As you consider adding new limits, it is helpful to review your reasoning prior to introducing the limit.
 
-As a result, the [Ops](/handbook/product/product-categories/#ops-section) and [CI/CD](/handbook/product/product-categories/#cicd-section) sections utilize an [MVC & New Config issue](https://gitlab.com/gitlab-com/Product/blob/master/templates/MVC-CONFIG.md.erb) to encourage additional review of upcoming issues that are MVCs or introduce new configuration.
+As a result, the [Ops](/handbook/product/product-categories/#ops-section) section utilizes an [MVC & New Config issue](https://gitlab.com/gitlab-com/Product/blob/master/templates/MVC-CONFIG.md.erb) to encourage additional review of upcoming issues that are MVCs or introduce new configuration.
 
 ### Build vs "Buy"
 
@@ -2233,7 +2233,7 @@ We track our product performance via our [Product Performance Indicator pages](/
 1. Line up your roadmap priorities to positively influence the adoption funnel, drive the performance metric, and hit the growth targets.
 1. Continually monitor your results, and refine your priorities based on results.
 
-## Telemetry at GitLab
+## Product Analytics at GitLab
 
 Tracking feature engagement after we've shipped is an important part of product management
 and software development. To accomplish this in the GitLab product, please see the following resources:
@@ -2241,7 +2241,7 @@ and software development. To accomplish this in the GitLab product, please see t
 | Resource | Description |
 | -------- | ----------- |
 | [Product Analytics Product Direction](/direction/product-analytics/) | The roadmap for Product Analytics at GitLab |
-| [Telemetry Guide](https://docs.gitlab.com/ee/development/telemetry/index.html) | An overview of our collection framework |
+| [Product Analytics Guide](https://docs.gitlab.com/ee/development/telemetry/index.html) | An overview of our collection framework |
 | [Usage Ping Guide](https://docs.gitlab.com/ee/development/telemetry/usage_ping.html) | An implementation guide for Usage Ping |
 | [Snowplow Guide](https://docs.gitlab.com/ee/development/telemetry/snowplow.html) | An implementation guide for Snowplow |
 | [Event Dictionary](https://docs.gitlab.com/ee/development/telemetry/event_dictionary.html) | A SSoT for all collected metrics and events |

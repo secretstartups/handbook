@@ -50,26 +50,35 @@ The following table provides scores for each of our DevOps stages and a comparis
 |-|-|-|-|-|-|-|-|
 <% # this calculates the total score across all stages needed to calculate the percent of total score %>
 <% totalScore = 0 %>
+<% totalDevelopers = 0 %>
 <% data.sections.each do |sectionKey, section| %>
   <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
-    <% next if !stage.marketing %>
     <% totalScore += stage.usage_driver_score.to_i + stage.revenue_driver_score.to_i + stage.sam_driver_score.to_i %>
+    <% stage.groups.each do |groupKey, group| %>
+      <% totalDevelopers += group.group_developers if group.group_developers %>
+    <% end %>
   <% end %>
 <% end %>
 <% data.sections.each do |sectionKey, section| %>
   <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
     <% next if !stage.marketing %>
+    <% stage_devs = 0 %>
+    <% stage.groups.each do |groupKey, group| %>
+      <% stage_devs += group.group_developers if group.group_developers %>
+    <% end %>
     <% stageLine=[] %>
     <% combinedScore = stage.usage_driver_score.to_i + stage.revenue_driver_score.to_i + stage.sam_driver_score.to_i %>
+    <% next if combinedScore == 0 %>
     <% percent_of_total = (combinedScore.to_f/totalScore.to_f)*100 %>
-    <% difference = stage.stage_development_spend_percent.to_f - percent_of_total%>
+    <% percent_of_developers = (stage_devs.to_f / totalDevelopers.to_f)*100 %>
+    <% difference = percent_of_developers - percent_of_total%>
     <% stageLine << "#{stage.display_name}"%>
-    <% stageLine << "#{stage.usage_driver_score}" if stage.usage_driver_score %>
-    <% stageLine << "#{stage.revenue_driver_score}" if stage.revenue_driver_score %>
-    <% stageLine << "#{stage.sam_driver_score}" if stage.sam_driver_score %>
+    <% stageLine << stage.usage_driver_score ? "#{stage.usage_driver_score}" : "0" %>
+    <% stageLine << stage.revenue_driver_score ? "#{stage.revenue_driver_score}" : "0"%>
+    <% stageLine << stage.sam_driver_score ? "#{stage.sam_driver_score}" : "0" %>
     <% stageLine << "#{combinedScore}" %>
     <% stageLine << "#{percent_of_total.round(1)}%" %>
-    <% stageLine << "#{stage.stage_development_spend_percent}%" if stage.stage_development_spend_percent %>
+    <% stageLine << "#{percent_of_developers.round(1)}%" %>
     <% stageLine << "#{"+" if difference > 0}#{difference.round(1)}%" %>
     <%= "| #{stageLine.join(' | ')} |" if stageLine %>
   <% end %>
@@ -83,14 +92,10 @@ The following table provides scores for each of our DevOps stages and a comparis
 |-|-|-|-|-|-|-|-|
 <% # this calculates the total score across all stages needed to calculate the percent of total score %>
 <% totalScore = 0 %>
-<% totalDevelopers = 0 %>
 <% data.sections.each do |sectionKey, section| %>
   <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
     <% next if !stage.marketing %>
     <% totalScore += stage.usage_driver_score.to_i + stage.revenue_driver_score.to_i + stage.sam_driver_score.to_i %>
-    <% stage.groups.each do |groupKey, group| %>
-      <% totalDevelopers += group.group_developers if group.group_developers %>
-    <% end %>
   <% end %>
 <% end %>
 <% totalScore = 0 %>
@@ -104,9 +109,8 @@ The following table provides scores for each of our DevOps stages and a comparis
 <% data.sections.each do |sectionKey, section| %>
   <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
     <% stage.groups.each do |groupKey, group| %>
-      <% next if !group.sam_driver_score %>
-      <% next if !group.sam_driver_score %>
       <% combinedScore = group.usage_driver_score.to_i + group.asp_driver_score.to_i + group.sam_driver_score.to_i %>
+      <% next if combinedScore == 0 %>
       <% percent_of_total = (combinedScore.to_f/totalScore.to_f)*100 %>
       <% percent_of_developers = (group.group_developers.to_f / totalDevelopers.to_f)*100 %>
       <% difference = percent_of_developers - percent_of_total %>
