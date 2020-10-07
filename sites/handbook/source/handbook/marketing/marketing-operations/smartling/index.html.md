@@ -30,6 +30,12 @@ Smartling is our localization platform that is used to translate pages on our we
 
 See more details on [Smartling's help article](https://help.smartling.com/hc/en-us/articles/115003066573-User-Permissions) regarding user permissions. 
 
+## Notifications
+
+[Enable email notifications](https://help.smartling.com/hc/en-us/articles/115003487053-Change-Notification-Settings) to help stay on top of content changes during the translation workflow process. Notification settings can be customized on a per project basis.
+
+You can [reply to issues via email](https://help.smartling.com/hc/en-us/articles/115004480513-Respond-to-Questions-from-Linguists#h_6bb30780-12a1-4a55-a78b-55c40e14361f). 
+
 ## Integrations
 
 ### Marketo
@@ -79,6 +85,14 @@ To download a translated job from the `GitLab Documents` project:
   - `Languages in file names` - adds the locale code at the end of the file name
   - `Subfolders for languages and languages in file names` 
 1. Click `Confirm`.
+
+### Issues
+
+If any strings are rejected from the translation job, those would appear as issues. If the translators have any difficulties or questions about the source file, these would appear as issues as well. If an issue is raised on a job, all account owners and project managers for that project will be notified. Translators will wait for a day for a response but will continue the job if no response is provided. 
+
+### History
+
+The `History` tab on a job provides detailed information about the activity that has occured with the job. You also have the option to `Download Translation Activity Report`. The same history is available on the individual string level.
 
 ## Terminology 
 
