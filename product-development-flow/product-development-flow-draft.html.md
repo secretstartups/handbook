@@ -387,19 +387,24 @@ When the change becomes available in production, the issue is closed by the deve
 
 #### Outcomes and Activities
 
-| Outcomes | Activities |
-| --- | --- |
-| Feature is available to GitLab.com hosted customers | After it is deployed to production (and any feature-flags for it are enabled), the feature is launched and available to GitLab.com hosted customers. |
-| Feature is available to self-hosted customers | The feature will be available in the next scheduled release for self-hosted customers to install ([depending on what the cut-off is for that release](/handbook/engineering/releases/#self-managed-releases-1)). |
-| Stakeholders of a feature will know it is available in production | **Required**: Once the feature is deployed to production and any needed verification in production is completed, the development team will close the issue. <br> **Optional** : Prior to the issue being closed, the development team may set the workflow label to `workflow::verification` or `workflow::production` for tracking purposes. |
-| Customers will be informed about a change | **Required**: When appropriate for a change, a release post item will be written and merged by the product manager following the instructions in the [template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md), which will then cause it to appear on the [GitLab.com releases page](/releases/gitlab-com/). |
-| GitLab validates if the feature is meeting GitLab's own needs | **Required** : A determination is made by the product manager as to if the feature should be a part of the [Dogfooding process](/handbook/product/product-processes/#dogfooding-process) which organizes and tracks usage of the feature by GitLab.  If so, the product manager coordinates this process. |
+| Outcomes | Activities | DRI |
+| --- | --- | --- |
+| Feature is available to GitLab.com hosted customers | After it is deployed to production (and any feature-flags for it are enabled), the feature is launched and available to GitLab.com hosted customers. | TBD |
+| Feature is available to self-hosted customers | The feature will be available in the next scheduled release for self-hosted customers to install ([depending on what the cut-off is for that release](/handbook/engineering/releases/#self-managed-releases-1)). | TBD |
+| Stakeholders of a feature will know it is available in production | **Required**: Once the feature is deployed to production and any needed verification in production is completed, the development team will close the issue. <br> **Optional** : Prior to the issue being closed, the development team may set the workflow label to `workflow::verification` or `workflow::production` for tracking purposes. | TBD |
+| Customers will be informed about a change | **Required**: When appropriate for a change, a release post item will be written and merged by the product manager following the instructions in the [template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md), which will then cause it to appear on the [GitLab.com releases page](/releases/gitlab-com/). | TBD |
+| GitLab validates if the feature is meeting GitLab's own needs | **Required** : A determination is made by the product manager as to if the feature should be a part of the [Dogfooding process](/handbook/product/product-processes/#dogfooding-process) which organizes and tracks usage of the feature by GitLab.  If so, the product manager coordinates this process. | TBD | 
 
 #### Required Outcomes
 
-* Issue is closed so that stakeholders who are watching the issue know the feature is available
-* Release post is added when appropriate so that stakeholders who read the release posts know the feature is available
-* Dogfooding process is started when appropriate so that the feature can be used by GitLab ourselves in order to gather feedback on the feature.
+<kbd class="required">Required 🔎</kbd>
+
+**Feature is available to customers** - Features merged, and passed verification are available to customers on gitlab.com immediately (assuming any feature-flags are enabled), and as part of the next packaged release for self-managed. 
+
+**Stakeholders and Customers are informed of the availability of the new feature** - This occurs via status changes to the issue, and if applicable the generation of a release post item. 
+
+**Dogfooding** Product Manager determines if the new feature should be dogfooded internally.
+
 
 ### Build phase 4: Improve
 
