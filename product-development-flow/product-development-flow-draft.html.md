@@ -358,25 +358,50 @@ For user-facing deliverables, Product Designers work with Engineering to validat
 
 ### Build phase 2: Develop & Test
 
-Labels: `workflow::ready for development`, `workflow::In dev` (along with `workflow::ready for review` as queue state while waiting for maintainer), `workflow::In review`, `workflow::blocked`, `workflow::verification` (sub-states for verification are `workflow::canary` and `workflow::staging`)
+#### Labels
+<kbd class="required">Required 🔎</kbd>
+
+| Labels 	| Usage 	|
+|-	|-	|
+| `workflow::In dev` 	| Applied by the engineer once work has begun on the issue. An MR is typically linked to the issue at this point.  	|
+| `workflow::ready for review` 	| Applied by the engineer indicating an issue (and/or MR) is ready for review from a maintainer. 	|
+| `workflow::In review` 	| Applied by an engineer indicating that all MRs required to close an issue are in review |
+| `workflow::blocked` 	| Applied if at any time during development the issue is blocked. E.g.: technical issue, open question to PM or PD, cross-group dependency 	|
+| `workflow::verification` 	| Once the MRs in the issue have been merged, this label is applied signaling the issue needs to be verified in staging and/or production |
+
+
+#### Key Participants
+
+| Role                                                       | Function                                                        |
+|------------------------------------------------------------|-----------------------------------------------------------------|
+| DRI                                                        | - Assigned engineer                                             |
+| Collaborators                                              | - Product Manager <br> - Quality Engineering <br> - Technical Writer |
+| Informed                                                   | - Product Marketing <br> - Cross-stage PM <br> - Sales <br> - Customer Support |
+
+#### Description
+
+The develop and test phase is where we build the features, address bugs or technical debt and test the solutions before launching them. The PM is directly responsible for prioritizing **what** should be worked on; however, the engineering manager and software engineers are responsible for the implementation of the feature using [the engineering workflow](https://about.gitlab.com/handbook/engineering/workflow/#basics). Engineering owns [the definition of done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done) and issues are not moved into the next phase until those requirements are met. Please keep in mind that many team members are likely to contribute to a single issue and collaboration is key!
+
+This phase begins after work has been broken down, and prioritized in Phase 1. The Engineering Manager will assign an engineer (or an engineer will pick it up from the `workflow::ready for development` queue on a board) who is responsible for building the feature. That engineer will update its `workflow::` label to indicate where it is in the [development process](`https://about.gitlab.com/handbook/engineering/workflow/#basics`). 
+
+When an issue is in development Quality Engineering will follow the [quad planning](https://about.gitlab.com/handbook/engineering/quality/quad-planning/#process) process ensuring test plans, regression jobs, end to end tests, and any other testing process is followed. Coordination is key between the assigned development engineer, and SET during this phase. 
+
+*Note: Work deemed out of scope or incomplete by engineering is taken back into the [plan phase](#Build-phase-1:-Plan) for refinement and rescheduling for completion.*
+
+#### Outcomes and Activities
+
+| Outcomes 	| Activities 	| DRI 	|
+|-	|-	|-	|
+| Feature is built 	| - Issue is assigned to an engineer that follows the [engineering process](https://about.gitlab.com/handbook/engineering/workflow/#basics) 	| - Engineer 	|
+| Feature is tested 	| - Features are tested by the engineer who implemented them<br>- SET sets testing requirements on the issue 	| - Engineer 	|
+
+#### Required Outcomes
 
 <kbd class="required">Required 🔎</kbd>
 
-> TBD 
+**Feature is built** - The Engineering Manager is the DRI to ensure the engineering process is followed and that the implemented solution meets the [definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done). It is also the EM's responsibility to keep all relevant stakeholders up to date on the status of an issue. This is critical to maintain asynchronous updates to avoid status check-ins and synchronous stand-ups.
 
-The develop and test phase is where we build the features and test them before launch:
-
-1. Engineering teams move items into `workflow::ready for development` and apply the deliverable as they commit to them, in alignment with the PM.
-1. PM works with engineering to ensure product instrumentation and dashboarding requirements are clear for implementation.
-1. When the milestone arrives, engineering teams execute on the scheduled work. Acceptance criteria as set forth in the issues must be met before a feature is deemed complete.
-1. Engineering team member(s) executing on the issue evaluates customer impact, confirming existing data against defined solution.
-    - An example would be the introduction of new limits and their impact on existing customer data and workflows.
-1. In parallel with development, the PM creates release post content, collaborating with Product Marketing Manager (PMM) on messaging and positioning
-1. Work deemed out of scope or incomplete by engineering is taken back into the plan phase for refinement and rescheduling for completion. The label `workflow::planning breakdown` should be reapplied.
-1. During the launch phase, the delivery team updates the validation labels as it flows through the validation process in staging and canary.
-1. Engineering/quality performs testing to ensure the feature is working as it flows through the environments
-1. PM should also conduct feature-level acceptance testing to ensure that the intended user value was, in fact, delivered.
-1. Documentation should be complete and available before proceeding to the launch phase.
+**Feature is tested** - Engineering works closely with SET to ensure the feature is tested and ready for review and ultimately deployment to production. Engineering ensures all [definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done) requirements are met and works with SET to follow up on any specific test coverage changes necessary as an outcome of Quad Planning. 
 
 ### Build phase 3: Launch
 
