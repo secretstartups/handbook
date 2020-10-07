@@ -31,7 +31,7 @@ The average shipping time taking into account current restrictions as a result o
 ### Team Member Birthdays
 GitLab encourages team members to take a day of vacation on their special day in alignment with our **[Paid Time Off Policy](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off)**.  If your celebration happens to fall over a weekend please be sure to take an alternate day such as the Friday prior or the Monday after.
 
-Kindly note that team members are welcome to send cards or tokens of acknowledgement to celebrants in their personal capacity however the People Experience Team in unable to do so on behalf of GitLab; a Team or an Individual Team Member.
+Kindly note that team members are welcome to send cards or tokens of acknowledgement to celebrants in their personal capacity however the People Experience Team is unable to do so on behalf of GitLab; a Team or an Individual Team Member.
 
 The GitLab **BirthdayBot** announces the names of team members celebrating thier birthday in the **#celebrations** channel.  This is an opt-in announcement and those who wish to be excluded can opt-out by excluding their date of birth from their slack profile.
 
