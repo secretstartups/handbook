@@ -326,6 +326,7 @@ The build track is where we plan, develop, and deliver value to our users by bui
 | Label 	| Usage 	|
 |-	|-	|
 | `workflow::planning breakdown` 	| Applied by the Product Manager on or before the [4th of the month](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline) signaling an intent to prioritize the issue for the next milestone 	|
+| `workflow::scheduling` | Applied to issues that have been broken down (passed `workflow::planning breakdown` but not yet scheduled in a milestone) |
 | `workflow::ready for development` 	| Issue has been broken down and prioritized by PM for development. Issue also has a milestone assigned at this point. 	|
 | `Deliverable` 	| Applied to issues by engineering managers indicating it's been accepted into the current milestone 	|
 
@@ -343,7 +344,7 @@ This phase prepares features so they are ready to be built by engineering. Follo
 
 By reviewing and weighing work in the beginning of the Build Track, Product Managers are able to make better prioritization tradeoffs and engineering teams can ensure they've scoped the right amount of work for the milestone. If an issue enters the `workflow::planning breakdown` state it doesn't necessarily mean it will be prioritized in the next milestone, a Product Manager may make a tradeoff decision depending on capacity, and urgency. 
 
-Once work has passed the `workflow::planning breakdown` step Product Managers will apply the `workflow::ready for development` along with a milestone indicating an issue is to be prioritized for the upcoming milestone. Engineering Managers will apply `Deliverable` signaling acceptance of the issue. This process occurs at the [beginning of milestone planning](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline). This is also the point at which Quad Planning is triggered signaling Quality Engineering to review the upcoming issue.
+Once work has passed the `workflow::planning breakdown` step either the `workflow::scheduling` label is applied if the issue is not yet ready to be pulled into a milestone OR the `workflow::ready for development` label, along with a milestone is applied. Engineering Managers will apply `Deliverable` signaling acceptance of the issue for that milestone. This process occurs at the [beginning of milestone planning](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline). This is also the point at which Quad Planning is triggered signaling Quality Engineering to review the upcoming issue.
 
 
 #### Outcomes and Activities
