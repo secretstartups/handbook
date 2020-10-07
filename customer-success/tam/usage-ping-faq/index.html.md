@@ -70,7 +70,7 @@ The usage ping uses high-level data to help our product, support, and sales team
 
 ### 6. How do we ensure that you don't change what's in the payload to include things we don't want to share? How do we re-verify this with each new release in a way that doesn't take a lot of time or effort?
 
-Our documentation shows all usage statistics and content that is sent back to GitLab and we will make sure if there are any changes to this list you will be updated.  When we change / update telemetry you can view the exact JSON payload in the administration panel. To view the payload: Navigate to the Admin Area > Settings > Metrics and profiling. Expand the Usage statistics section. Click the Preview payload button.
+Our documentation shows all usage statistics and content that is sent back to GitLab and we will make sure if there are any changes to this list you will be updated.  When we change / update product analytics you can view the exact JSON payload in the administration panel. To view the payload: Navigate to the Admin Area > Settings > Metrics and profiling. Expand the Usage statistics section. Click the Preview payload button.
 
 ### 7. Our security team will have to sign off first
 
