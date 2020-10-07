@@ -23,7 +23,16 @@ This team maps to [Verify](/handbook/product/product-categories/#verify-stage) d
 
 ## Performance Indicator
 
-We measure the value we contribute by using Performance Indicators (PI), which we define and use to track progress. As the GitLab Runner is the engine that enables GitLab CI, the PI for Verify:CI and Verify: Runner are the same. The [performance indicator](/handbook/product/ops-section-performance-indicators/#verify-ci-verify-runner-count-of-pipelines-triggered-by-unique-users) is the `number of unique users who trigger ci_pipelines`. We recognize that this metric on its own is not the best leading indicator for forecasting whether the core Runner product is positively impacting the long term growth of GitLab. As such, we will continue to iterate on refining the metrics.
+We measure the value we contribute by using Performance Indicators (PI), which we define and use to track progress. As the GitLab Runner is the engine that enables GitLab continuous integration (CI), it is essential to analyze monthly active user metrics for CI when evaluating R&D investment prioritization decisions for the Runner.  We have also defined additional performance indicators specific to the Runner to evaluate R & D investment prioritization decisions.
+
+### GitLab SaaS
+
+- [Linux Shared (SaaS) Runners Minutes Used](https://about.gitlab.com/handbook/product/ops-section-performance-indicators/#verifyrunner---other---linux-shared-saas-runners-minutes-used)
+- [Windows Shared Runners (SaaS) Minutes Used](https://about.gitlab.com/handbook/product/ops-section-performance-indicators/#verifyrunner---other---windows-shared-runners-saas-minutes-used)
+
+### Self-Managed
+
+- [Total downloads of runner binaries and docker images per month for self-managed](https://about.gitlab.com/handbook/product/ops-section-performance-indicators/#verifyrunners---other---total-downloads-of-runner-binaries-and-docker-images-per-month-for-self-managed)
 
 ## Usage Funnel
 
@@ -281,14 +290,44 @@ following template:
     - Issue
         - Retrospective Issue
         - Corrective Action Issues
+        - Error Budget: -X
 - Final Error budget: 30
 ```
+
+#### FY21 Q3
+
+- Regressions:
+    - [Docker Windows failing to clone repository](https://gitlab.com/gitlab-org/gitlab/-/issues/239013)
+        - [Retrospective Issue](https://gitlab.com/gitlab-com/runner-group/team-tasks/-/issues/11)
+        - [Corrective Action Issue](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/27038)
+        - Error Budget: -15
 
 ### Background
 
 This was inspired by the [Google Error
 budget](https://landing.google.com/sre/workbook/chapters/error-budget-policy/).
 It's used to balance reliability and new features.
+
+## Community contributions
+
+### Picking up abonded community contributions
+
+When a community contribution is abandoned by the original author, it's
+up to us to get it across the finish line, the list below outlines the
+process.
+
+1. Add the `~"coach will finish"` label to the merge request, and close
+the merge request.
+1. Open up an issue for this merge request if there isn't one, and
+attach the `~"Community contribution"` label to it to make it clear that
+it is/was being worked on by a community member.
+1. When we schedule the issue to be picked up by an engineer create a
+new merge request based on the original merge request **keeping all the
+original commits to keep the author attribution.** It is OK to
+squash/fixup the commits of a single contributor together into fewer
+commits in order to have a clean Git history.
+1. Link the new merge request to the old one for the community to be
+aware that it's being worked on in a different merge request.
 
 ## How to work with us
 

@@ -29,7 +29,7 @@ Transactions
 
 **Deliver product analytics data that improves our product**
 
-The [Product Analytics](/handbook/engineering/development/growth/acquisition-conversion-be-telemetry/) Group is responsible for:
+The [Product Analytics](/handbook/engineering/development/growth/conversion-product-analytics/) Group is responsible for:
 
 Collection
 - Collect information from GitLab.com and self-managed instances to improve our product
@@ -49,7 +49,7 @@ We focus on validating ideas with data across the following four Groups:
 - Get users off to a successful start
 - Increase users completing key actions
 
-[Conversion Group](/handbook/engineering/development/growth/acquisition-conversion-be-telemetry/)
+[Conversion Group](/handbook/engineering/development/growth/conversion-product-analytics/)
 - Encourage cross-stage usage
 - Increase Stage Monthly Active Users
 
@@ -71,9 +71,9 @@ The Growth sub-department uses the `~"devops::growth"` label and the following g
 | Group name                                                | Group label                   |
 | ----------                                                | -----------                   |
 | [Fulfillment](fulfillment/)                               | `~"section::fulfillment"`     |
-| [Product Analytics](acquisition-conversion-be-telemetry/) | `~"group::product analytics"` |
+| [Product Analytics](conversion-product-analytics/)        | `~"group::product analytics"` |
 | [Acquisition](acquisition/)                               | `~"group::acquisition"`       |
-| [Conversion](acquisition-conversion-be-telemetry/)        | `~"group::conversion"`        |
+| [Conversion](conversion-product-analytics/)               | `~"group::conversion"`        |
 | [Expansion](expansion/)                                   | `~"group::expansion"`         |
 | [Retention](retention/)                                   | `~"group::retention"`         |
 
@@ -83,7 +83,7 @@ The Growth sub-department uses the `~"devops::growth"` label and the following g
 The following people are permanent members of the Growth sub-department:
 
 <%=
-departments = ['Acquisition', 'Conversion', 'Expansion' , 'Retention', 'Fulfillment', 'Telemetry', 'Static Site Editor']
+departments = ['Acquisition', 'Conversion', 'Expansion' , 'Retention', 'Fulfillment', 'Product Analytics', 'Static Site Editor']
 department_regexp = /(#{Regexp.union(departments)})/
 
 direct_team(role_regexp: department_regexp, manager_role: 'Director of Engineering, Growth')
