@@ -49,10 +49,10 @@ The following data cleanup is required for any list prior to sending it to the M
      - Person name separated into two columns - `First Name` `Last Name`
      - Duplicates must be reviewed and reduced
      - Address separated into individual fields (`Street`, `City`, `State/Province`, `Zip/Postal Code`, `Country`)
-     - `Country` that **are not** `United States` or `Canada` *must* have `State` field deleted or cleared as it will create conflicts
+     - `Country` that **are not** `United States` or `Canada` *must* have `State` field deleted or cleared as it will create conflicts and will not sync to SFDC
 - Preferred format for Marketo upload is .csv, but will accept an .xls, or .xlsx. Provide as Google Sheet in the upload issue. **DO NOT** upload the file directly on the issue. Uploading files to the issue exposes ALL collected personal data to the internet and opens GitLab up to litigation
 - Record ownership will be assigned using established lead routing, which is [controlled by LeanData](/handbook/marketing/marketing-operations/leandata/)
-- In order to mark leads as `Opt-in = TRUE`, a record of the terms and conditions the leads agreed to upon having their data collected must be recorded. Check the `terms of service` wording has been recorded in the upload issue **before** opting in leads to receive marketing communications. No ToS, no `Opt-in`. Period.
+- In order to mark leads as `Opt-in = TRUE`, a record of the terms and conditions the leads agreed to upon having their data collected must be recorded. Check the `terms of service` wording has been recorded in the upload issue **before** opting in leads to receive marketing communications. No ToS, no `Opt-in`. Period. To find the appropriate language, refer to [Marketing Rules and Consent Language](/handbook/legal/marketing-collaboration/#marketing-rules-and-consent-language)
 - If there are any records who have opted out of contact for any reason, define that on the spreadsheet by selecting `Opt-in = FALSE`
 - Leave `Opt-In` empty if no other option is available
 
@@ -77,12 +77,14 @@ Video of how this works tbd.
 1. Remove inaccurate entries
      - `Job Title` **remove** "self", "me", "n/a", etc
      - `Phone` **remove** obvious junk numbers 0000000000, 1234567890, etc
+     - `State` should be empty unless `country` equals `United States` or `Canada`
 1. **Blank fields** are better than junk data. We have enrichment tools that are designed to write to blank fields. Also we can run reports on the blank fields to find where our data gaps are.
 1. If you do not have a CONTACT `Phone` **do not** substitute the ACCOUNT `Phone` and vice versa. Leave it blank.
 1. Sort spreadsheet by `Email Address` and remove duplicates.
 1. Only lead records from authorized sources -- meaning sources have legally obtained lead record data-- will be flagged as `Opted-in`. **No exceptions**
      - Pulling list of names out of LinkedIn and importing the records into SFDC **does not** qualify as compliant. In EMEA these lists *will not* be uploaded
      - Field events that have not gained consent from the attendees that their name will be shared **are not** compliant.
+     - Agreements to be contacted must explicitly state the individual has `opted-in` to receive communication and cannot leave room for nuance
      - Getting someone's name and/or business card from a meetup **does not** qualify as compliant.
 1. Remove all [embargoed country](https://about.gitlab.com/handbook/people-group/code-of-conduct/#trade-compliance-exportimport-control) records. 
 1. `Washington DC` is a `State` value and is not to be split up between `City` `State`. 
@@ -99,11 +101,12 @@ Video of how this works tbd.
      - Country
      - State (United States and Canada only)
      - Campaign Member Status
+     - Opt-In status: `True`, `False`, or `leave blank` (determines if leads are **legally** signed up for GitLab's marketing emails)
 - Additionally, there is data required for leads to be successfully routed to SDRs. While this information is not mandatory, it is strongly preferred and requested by the `Director of Marketing Department` to be included. GitLab employs tools that enrich leads and `Accounts`, but those tools are not guaranteed to work, so if the data can be found at the source it is preferred. Lastly, while it is less likely to have an upload refused due to missing this data, **missing this data is still considered grounds for refusal by the MktgOps team**. The recommended information is as follows:
      - Employee Bucket or Number of Employees
           - GitLab's segmentation standard for `Employees Bucket` includes the following groups: `1-99`, `100-499`, `500-1,999`, `2,000-9,999` and `10,000+`.
           - You can also enter an integer in for `Num Employees` and this will automatically update the `Employees Bucket` field if blank.
-     - Opt-In status: `True`, `False`, or `leave blank` (determines if leads are **legally** signed up for GitLab's marketing emails)
+
 
 ### Campaign Templates - Info for Post-MktgOps Hand-off
 
@@ -153,12 +156,22 @@ In order to assure proper attribution of `MQL Scoring` and `Last Interesting Mom
 1. After all steps of the needed `Smart Campaigns` have ran, including the often automated `Program Status: Registered -> No Show`, turn off the activated `Smart Campaigns` by "unscheduling" them
 1. Check the `Loading Errors` smart list for any potential lead loading errors. 
      - Check the `Person Details` on any leads that show up on the smart list and correct the error. If Marketo indicates a `duplicate`, change the name on the lead by adding random but easily identifiable characters to the last name and manually force the lead to sync with SFDC. Find the lead in SFDC and merge it with the pre-existing duplicate. If there is a differing `email address` between the records, add the new `email address` as a secondary email. Add to SFDC campaign with the appropriate `Campaign Member Status`, if necessary
-1. Once the Marketo --> Salesforce sync has completed, use the `[Upload checking template - do not erase](https://gitlab.my.salesforce.com/00Q?fcf=00B4M000004tTvd)` lead view to check data has been applied correctly, scoring has occurred and leads have routed. Note that routing will only occur if the adequate `MQL Score` has been met. Plug the `campaign tag`, or Marketo program name, into the lead view's `campaign name` field to view leads as a list
+1. Once the Marketo --> Salesforce sync has completed, use the [Upload checking template - do not erase](https://gitlab.my.salesforce.com/00Q?fcf=00B4M000004tTvd) lead view to check data has been applied correctly, scoring has occurred and leads have routed. Note that routing will only occur if the adequate `MQL Score` has been met. Plug the `campaign tag`, or Marketo program name, into the lead view's `campaign name` field to view leads as a list
 1. Ensure the number of leads present in the Salesforce campaign matches the total number of leads from the original spreadsheet
-1. Use the `[Campaign Type and Progression Status](https://about.gitlab.com/handbook/marketing/marketing-operations/#campaign-type--progression-status)` page of the handbook and label the appropriate `Successful` leads with `Bizible Touchpoints`
+1. Use the [Campaign Type and Progression Status](https://about.gitlab.com/handbook/marketing/marketing-operations/#campaign-type--progression-status) page of the handbook and label the appropriate `Successful` leads with `Bizible Touchpoints`
 1. Announce the upload in either the `event_list_upload` or `pub-sector-isr` Slack channels, depending on the campaign's intended `Sub-Region`. Include `Region` labels for private sector posts 
 1. After verified completion of all tasks, remove ~"List Upload: Ready" label and notify in the issue of upload completion. Add ~"Lead Data::Active" label. Adjust the "MktgOps" label and apply a milestone
 1. Close list upload issue 
+
+#### Operational uploads
+In the event that a manual upload needs to occur for operational needs:
+- Use a current or create a new program or smart list within the [Non-Event List Loads](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF4394A1) folder
+     - If creating a new program or smart list, start by making a new, appropriately named sub-folder under the `Non-Event List Loads` folder
+- Create a new program or smart list within the appropriate folder by right clicking the correct folder
+     - If creating a new program, select the correct `Channel` for the task. For most non-event uploads, `Operational` should work
+- Some notable `Operational` programs already in place are listed below with links. This section will be updated on a needed basis:
+     - [Opt-Outs](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF6347A1)
+     - [Purchased Lists](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF4686A1)
 
 <!--### Operations Upload Instructions 
 

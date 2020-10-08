@@ -38,7 +38,7 @@ Used to route EMEA Mid-Market leads. LeanData uses a combination of `[TSP] Sub-R
 Coming soon
 
 ## Account routing workflow
-The LeanData account routing flowbuilder leverages LeanData's Territory Management functionality to populate or update the `[TSP] Territory`, `[TSP] Region`, `[TSP] Sub-Region`, `[TSP] Area`, and `[TSP] Approved Next Owner` fields on the account object. This flowbuilder is live, meaning it monitors account records as they're created or updated. Account routing does have a 24-hour delay built into the flowbuilder to allow all necessary data append to be complete before the record is assessed by LeanData. 
+The account routing flowbuilder leverages LeanData's Territory Management functionality to populate or update the `[TSP] Territory`, `[TSP] Region`, `[TSP] Sub-Region`, `[TSP] Area`, and `[TSP] Approved Next Owner` fields on the account object. LeanData monitors for changes to the `[TSP] Last Update Timestamp` field to know when an account record is ready to be processed. Details about the TSP process can be found on the [Sales Operations handbook page](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#territory-success-planning-tsp). 
 
 ## Need to make a change to lead routing? 
 Open an issue using our [LeanData change request issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=leandata_change_sdralignment).

@@ -21,6 +21,8 @@ Sigstr is a marketing tool used as an advertising channel inside the inbox.
 1. [Dynamic campaigns tutorial](https://help.sigstr.com/en/articles/1118024-dynamic-campaigns-tutorial)
 1. [Groups video tutorial](https://help.sigstr.com/en/articles/1118058-groups-video-tutorial)
 1. [Knowledgebase](https://help.sigstr.com/en/)
+1. [Admin role training pt. 1](https://drive.google.com/file/d/1boIfDvPnwXlBAxlLUupvnlHzNaP_Eru_/view?usp=sharing)
+1. [Admin role training pt. 2](https://drive.google.com/file/d/1cy1jMwAUPvvGrEkajIN5JbtfZ1rdOF3t/view?usp=sharing)
 
 ## Employee preference center
 
@@ -151,6 +153,8 @@ The image will be constrained to half the size to ensure high density of pixels.
 - Company URL
 
 ## Campaigns
+
+Campaigns created in Sigstr should align to GTM motions and our [current marketing plan](https://docs.google.com/presentation/d/1p4EmaoSb35d8ZnjKags1gUGF5T9afJW6RhBO8TR_VgA/edit#slide=id.g8b58282baa_0_0). Anything outside of the plan including ad hoc campaigns or activities will need prior approval to ensure there are proper resources to support.
 
 ### Resources
 

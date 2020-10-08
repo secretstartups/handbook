@@ -12,6 +12,9 @@ title: "Outreach"
 ### Set-Up  
 User set-up instructions can be found [here](https://docs.google.com/document/d/1VJpZaoDoGtwN4Dp21g_OuhVauN2prHNyUtmIWKuROUY/edit#heading=h.v6blhaepsusl).
 
+### Learning Pathways
+Outreach provides educational courses via their [Outreach University Pathways](https://university.outreach.io/) programs that are updated frequently with new content. While GitLab does not require the SDR team to pursue completion of Outreach University Pathways, it's recommended for longterm users to pursue mastery of any marketing tools we use.
+
 ### Sequences  
 Sequences are one of the main features of Outreach. Users can create a series of touchpoints in order to communicate and automate their workflows.
 We currently have two types of sequences. Master and personal. Master sequences are created to be shared and used across teams. Personal are for your own use.
@@ -46,6 +49,13 @@ You may request new collections by opening an issue in the Marketing Operations 
 - **Campaign** - Follows the same rules as the default settings except out of office are resumed 1 day after.
 - **Create Call Task** - Follows same rules as the default except it will create call tasks on opened emails. Minimum email opens needed: 2
 - **Event** - Prospects can only be added to this sequence once. They are not exclusive to this sequence. Out of office are resumed 1 day after.
+
+### Tips and Tricks
+- `Snippets` are an easy way to save time when constructing emails. If there are frequent statements or phrases being sent to prospects, check if any team members have created a `snippet` related to that topic. If creating new, universally helpful `snippets`, remember to set permissions to `Others can see and use` and apply a `Collection`, where applicable.
+- Many of the `Master` sequences have been set to work in specific timezones. Those in `AMER` should not be using sequences set to `APAC` timezones. 
+- `Variables` allow Outreach to auto-populate prospect data and sender data, increasing productivity via automation. Pay close attention to what `variables` are available when composing emails and what information the `variables` will populate. If a prospect in Salesforce says "No Company" in the `Company` field, the Outreach `variable` for `company` will populate "No Company" in the sent email. 
+- If the name within the `company` field of Salesforce and Outreach does not flow naturally in conversation, check to see if a `Company Natural Name` can be added. For example, "Mr Bob's Company Incorporated" sounds less natural in conversation than "Mr Bob's". When using a natural name, use the `variable` {{company_natural}} in the email template instead of {{company}}.
+- `Variables` can also be used for setting `manual tasks` within an email template. However, these `manual tasks` function differently than a normal `variable`. After the brackets at the beginning of the `variable`, a "!" needs to be added or Outreach will attempt to populate the phrase inside the brackets. For example, a `manual task` should read {{! Edit this email before sending}}. If the "!" is not added, the sequence will fail with a "Template Syntax Error" message. 
 
 ### Outreach Meetings
 The current meeting templates will sync to an SFDC event. 
@@ -86,6 +96,20 @@ Outreach is able to sync some custom information about these meetings into event
 |`Incorrect Contact: Answered`| The wrong person answered the phone number that you had for this contact and it is the wrong persons phone number (They were not a personal assistant). They didn’t take a message for the correct person or give helpful information|
 |`Incorrect Contact: Left Message`|The wrong person answered the phone and it is the wrong persons phone number (They were not a personal assistant). They took a message for the correct person/gave you the correct number for the contact|
 |`Incorrect Contact: Not Answered/Other`| You got through to the voicemail but the voicemail was for someone other than the person who you were trying to contact. Or the person was not listed in the company directory and you were calling the companies main number|
+
+### Outreach Engagement Panel
+Custom fields from Outreach that sync into SFDC for understanding engagement status in Outreach.
+
+|Field Name|Description|
+|----|----|
+| Actively Being Sequenced| Checkbox for if a prospect is active in a sequence |
+| Name of Active Sequence | Name of the most recent active sequence. If they are in multiple sequences it will note the sequence they have been in the longest.|
+| Sequence Status | The state of the sequence: Active, Pending, Failed.|
+| Number of Active Sequences | How many sequences a lead is active in. |
+| Sequence User | Is the User ID of who sequenced the lead. |
+| Sequence Task Due Date | identifies the date the upcoming task is due. |
+| Sequence Step Number | Identifies the step of the sequence a lead is in.|
+| Sequence Step Type | Identifies if the step is Phone Call or Automated E-mail, ect. |
 
 ### Sending Email Using Outreach   
 
