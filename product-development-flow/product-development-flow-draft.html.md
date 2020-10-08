@@ -168,13 +168,13 @@ The health of a world class product begins with a well maintained backlog. Produ
 | Role |Function|
 |---|---|
 | DRI: | - Product Manager |
-| Collaborators: | - Product Designer <br>- UX Researcher |
-| Informed: | - Engineering Team <br>- Stakeholders - TBD <br>- Leadership - TBD |
+| Collaborators: | - UX Researcher |
+| Informed: | - Product Designer <br> - Engineering Team <br>- Stakeholders - TBD <br>- Leadership - TBD |
 
 
 #### Description
 
-In order to ensure the right solutions are delivered, the team must start their work with a validated problem. This can take many forms and be achieved through Product Manager, Product Designer, and UX Researcher collaboration. 
+In order to ensure the right solutions are delivered, the team must start their work with a validated problem. This can take many forms and be achieved through Product Manager and UX Researcher collaboration. 
 
 If the problem is small and well-understood, it may be possible to quickly move through this phase by documenting the known data about the user problem.  
 
