@@ -18,7 +18,8 @@ title: Vendor Contract Issue Process
   <a href="/handbook/finance/procurement/vendor-guidelines/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Vendor guidelines</span></a>
 </div>
 
-## <i class="fas fa-file-signature" id="biz-tech-icons"></i> How do I request approval for a Software Purchase?
+## <i class="fas fa-check-circle" id="biz-tech-icons"></i> How do I request approval for a Software Purchase?
+
 1. Open a Vendor Contract Request issue with [this template](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) to begin the process.
 1. Create this issue **BEFORE** agreeing to business terms and/or pricing.
 1. We will negotiate the best pricing up front to keep our ongoing costs to a minimum across our long-term realtionships with vendors. We also continue to evaluate supplier pricing at the time of renewal to minimize our ongoing costs across our long-term relationships with vendors.
