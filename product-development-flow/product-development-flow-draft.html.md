@@ -52,6 +52,10 @@ The goal is to have this page be the single source of truth, but it will take ti
 
 Because this page needs to be concise and consistent, please ensure to follow the prescribed [change process](#editing-this-page).
 
+## But Wait, Isn't This Waterfall? 
+
+No. Although the phases below appear to be independent and linear, they're not. They are presented as such on the page for simplicity and ease of navigation. It is common to iterate through the Validation phases multiple times before moving to Build. Once in the Build phases, it may be necessary to go back to Validation phases as roadblocks or technical challenges arise. 
+
 ## Workflow Summary
 <kbd class="required">Required 🔎</kbd>
 
@@ -126,7 +130,7 @@ Opportunity Canvases are a great assessment for ill-defined or poorly understood
 
 ### Validation phase 1: Validation backlog
 
-Label: `workflow::validation backlog`
+<kbd class="required">Required 🔎</kbd> Label: `workflow::validation backlog`
 
 #### Key Participants
 
@@ -157,7 +161,7 @@ The health of a world class product begins with a well maintained backlog. Produ
 
 ### Validation phase 2: Problem validation
 
-Label: `workflow::problem validation`
+<kbd class="required">Required 🔎</kbd> Label: `workflow::problem validation`
 
 #### Key Participants
 
@@ -191,7 +195,7 @@ If the problem is nuanced, then it will likely take longer to validate with user
 
 ### Validation phase 3: Design
 
-Labels: `workflow::design`
+<kbd class="required">Required 🔎</kbd> Labels: `workflow::design`
 
 #### Key Participants
 
@@ -229,7 +233,7 @@ To start the Design phase, the Product Designer or Product Manager applies the `
 
 ### Validation phase 4: Solution Validation
 
-Label: <code>workflow::solution validation</code>
+<kbd class="required">Required 🔎</kbd> Label: <code>workflow::solution validation</code>
 
 #### Key Participants
 
@@ -366,60 +370,119 @@ Once work has passed the `workflow::planning breakdown` step either the `workflo
 
 ### Build phase 2: Develop & Test
 
-Labels: `workflow::ready for development`, `workflow::In dev` (along with `workflow::ready for review` as queue state while waiting for maintainer), `workflow::In review`, `workflow::blocked`, `workflow::verification` (sub-states for verification are `workflow::canary` and `workflow::staging`)
+#### Labels
+<kbd class="required">Required 🔎</kbd>
+
+| Labels 	| Usage 	|
+|-	|-	|
+| `workflow::In dev` 	| Applied by the engineer once work has begun on the issue. An MR is typically linked to the issue at this point.  	|
+| `workflow::ready for review` 	| Applied by the engineer indicating an issue (and/or MR) is ready for review from a maintainer. 	|
+| `workflow::In review` 	| Applied by an engineer indicating that all MRs required to close an issue are in review |
+| `workflow::blocked` 	| Applied if at any time during development the issue is blocked. E.g.: technical issue, open question to PM or PD, cross-group dependency 	|
+| `workflow::verification` 	| Once the MRs in the issue have been merged, this label is applied signaling the issue needs to be verified in staging and/or production |
+
+
+#### Key Participants
+
+| Role                                                       | Function                                                        |
+|------------------------------------------------------------|-----------------------------------------------------------------|
+| DRI                                                        | - Assigned engineer                                             |
+| Collaborators                                              | - Product Manager <br> - Quality Engineering <br> - Technical Writer |
+| Informed                                                   | - Product Marketing <br> - Cross-stage PM <br> - Sales <br> - Customer Support |
+
+#### Description
+
+The develop and test phase is where we build the features, address bugs or technical debt and test the solutions before launching them. The PM is directly responsible for prioritizing **what** should be worked on; however, the engineering manager and software engineers are responsible for the implementation of the feature using [the engineering workflow](https://about.gitlab.com/handbook/engineering/workflow/#basics). Engineering owns [the definition of done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done) and issues are not moved into the next phase until those requirements are met. Please keep in mind that many team members are likely to contribute to a single issue and collaboration is key!
+
+This phase begins after work has been broken down, and prioritized in Phase 1. The Engineering Manager will assign an engineer (or an engineer will pick it up from the `workflow::ready for development` queue on a board) who is responsible for building the feature. That engineer will update its `workflow::` label to indicate where it is in the [development process](`https://about.gitlab.com/handbook/engineering/workflow/#basics`). 
+
+When an issue is in development Quality Engineering will follow the [quad planning](https://about.gitlab.com/handbook/engineering/quality/quad-planning/#process) process ensuring test plans, regression jobs, end to end tests, and any other testing process is followed. Coordination is key between the assigned development engineer, and SET during this phase. 
+
+*Note: Work deemed out of scope or incomplete by engineering is taken back into the [plan phase](#Build-phase-1:-Plan) for refinement and rescheduling for completion.*
+
+#### Outcomes and Activities
+
+| Outcomes 	| Activities 	| DRI 	|
+|-	|-	|-	|
+| Feature is built 	| - Issue is assigned to an engineer that follows the [engineering process](https://about.gitlab.com/handbook/engineering/workflow/#basics) 	| - Engineer 	|
+| Feature is tested 	| - Features are tested by the engineer who implemented them<br>- SET sets testing requirements on the issue 	| - Engineer 	|
+
+#### Required Outcomes
 
 <kbd class="required">Required 🔎</kbd>
 
-> TBD 
+**Feature is built** - The Engineering Manager is the DRI to ensure the engineering process is followed and that the implemented solution meets the [definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done). It is also the EM's responsibility to keep all relevant stakeholders up to date on the status of an issue. This is critical to maintain asynchronous updates to avoid status check-ins and synchronous stand-ups.
 
-The develop and test phase is where we build the features and test them before launch:
-
-1. Engineering teams move items into `workflow::ready for development` and apply the deliverable as they commit to them, in alignment with the PM.
-1. PM works with engineering to ensure product instrumentation and dashboarding requirements are clear for implementation.
-1. When the milestone arrives, engineering teams execute on the scheduled work. Acceptance criteria as set forth in the issues must be met before a feature is deemed complete.
-1. Engineering team member(s) executing on the issue evaluates customer impact, confirming existing data against defined solution.
-    - An example would be the introduction of new limits and their impact on existing customer data and workflows.
-1. In parallel with development, the PM creates release post content, collaborating with Product Marketing Manager (PMM) on messaging and positioning
-1. Work deemed out of scope or incomplete by engineering is taken back into the plan phase for refinement and rescheduling for completion. The label `workflow::planning breakdown` should be reapplied.
-1. During the launch phase, the delivery team updates the validation labels as it flows through the validation process in staging and canary.
-1. Engineering/quality performs testing to ensure the feature is working as it flows through the environments
-1. PM should also conduct feature-level acceptance testing to ensure that the intended user value was, in fact, delivered.
-1. Documentation should be complete and available before proceeding to the launch phase.
+**Feature is tested** - Engineering works closely with SET to ensure the feature is tested and ready for review and ultimately deployment to production. Engineering ensures all [definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done) requirements are met and works with SET to follow up on any specific test coverage changes necessary as an outcome of Quad Planning. 
 
 ### Build phase 3: Launch
 
-Labels: `workflow::production`
+Label: `workflow::production`
+
+Issue Status: `Closed`
+
+#### Key Participants
+
+| Role |Function|
+|---|---|
+| DRI | **Development** - Close issue once it is available in production <br> **Product Manager** Initiate [release post item creation](https://about.gitlab.com/handbook/marketing/blog/release-posts/#release-post-item-generator) if they decide it is warranted <br> **Product Manager** Initiate [dogfooding process](https://about.gitlab.com/handbook/product/product-processes/) if they decide it is applicable <br> ***Product Manager** Consider alerting relevant stakeholders in appropriate Slack channels. |
+| Collaborators | Development team, quality counterpart, and product manager may verify the issue is working as expected in production.  (Primary verification is, of course, performed prior to production whenever possible.) |
+| Informed | Stakeholders for the change (including customers, open-source users, and GitLab team members) will be informed about the feature via the change in the status of the issue and/or the release post.  GitLab team members may also be informed via posts in relevant Slack channels.  |
+
+#### Description
+
+When the change becomes available in production, the issue is closed by the development team so stakeholders know work on it has been completed.  Afterward, the product manager coordinates the [release post](/handbook/marketing/blog/release-posts/) and [Dogfooding process](/handbook/product/product-processes/#dogfooding-process) when they apply.
+
+#### Outcomes and Activities
+
+| Outcomes | Activities | DRI |
+| --- | --- | --- |
+| Feature is available to GitLab.com hosted customers | After it is deployed to production (and any feature-flags for it are enabled), the feature is launched and available to GitLab.com hosted customers. | TBD |
+| Feature is available to self-hosted customers | The feature will be available in the next scheduled release for self-hosted customers to install ([depending on what the cut-off is for that release](/handbook/engineering/releases/#self-managed-releases-1)). | TBD |
+| Stakeholders of a feature will know it is available in production | **Required**: Once the feature is deployed to production and any needed verification in production is completed, the development team will close the issue. <br> **Optional** : Prior to the issue being closed, the development team may set the workflow label to `workflow::verification` or `workflow::production` for tracking purposes. | TBD |
+| Customers will be informed about a change | **Required**: When appropriate for a change, a release post item will be written and merged by the product manager following the instructions in the [template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md), which will then cause it to appear on the [GitLab.com releases page](/releases/gitlab-com/). | TBD |
+| GitLab validates if the feature is meeting GitLab's own needs | **Required** : A determination is made by the product manager as to if the feature should be a part of the [Dogfooding process](/handbook/product/product-processes/#dogfooding-process) which organizes and tracks usage of the feature by GitLab.  If so, the product manager coordinates this process. | TBD | 
+
+#### Required Outcomes
 
 <kbd class="required">Required 🔎</kbd>
 
-> TBD 
+**Feature is available to customers** - Features merged, and passed verification are available to customers on gitlab.com immediately (assuming any feature-flags are enabled), and as part of the next packaged release for self-managed. 
 
-1. Once the feature is deployed to production, the delivery team sets the workflow label to `workflow::production`. At this point the feature is launched.
-1. Engineering/quality/PM should validate again that the feature works for all users.
-1. The release post item needs to be merged following the instructions in the [template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md), which will then cause it to appear on the [gitlab.com releases page](/releases/gitlab-com/).
+**Stakeholders and Customers are informed of the availability of the new feature** - This occurs via status changes to the issue, and if applicable the generation of a release post item. 
 
-If the feature is part of the [Dogfooding process](/handbook/product/product-processes/#dogfooding-process):
+**Dogfooding** Product Manager determines if the new feature should be dogfooded internally.
 
-1. At this point, you should label the issue as `Dogfooding::Promote Feature`
-1. You should present it in the weekly Product Call to get everyone on board
-1. You could consider announcing it on the Company Call or in `#whats-happening-at-gitlab`
-1. Your Section Lead should also be actively promoting the feature to other sections
 
 ### Build phase 4: Improve
 
-Label: TBD
+Label: n/a 
 
-<kbd class="required">Required 🔎</kbd>
+#### Key Participants
 
-> TBD 
+| Role |Function|
+|---|---|
+| DRI | - Product Manager |
+| Collaborators | - Product Designer <br> - Customer Success <br> - Sales <br> - Data Analysts <br> - UX Researcher <br> - Product Marketing|
+| Informed | - Engineering Team <br> - Leadership - TBD <br> - Other relevant stakeholders - TBD |
+
+#### Description 
 
 After launch, the Product Manager and Product Designer should pay close attention to product usage data. This starts by ensuring your [AMAU](https://about.gitlab.com/handbook/product/performance-indicators/#action-monthly-active-users-amau) is instrumented and reporting as you expect. From there consider how the feature has impacted [GMAU](https://about.gitlab.com/handbook/product/performance-indicators/#group-monthly-active-users-gmau) and [SMAU](https://about.gitlab.com/handbook/product/performance-indicators/#stage-monthly-active-users-smau). At this point you should also solicit customer feedback to guide follow-on iterative improvements, until success metrics are achieved/exceeded and a decision can be made that the product experience is sufficient. To create a combined and ongoing quantitative and qualitative feedback loop, the following activities are recommended:
 
-| Outcomes                        | Activities                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Understand Qualitative Feedback | - Continue [Dogfooding process](/handbook/product/product-processes/#dogfooding-process)<br>- Review user feedback in issues<br>- Follow up with TAMs and SALs to gather feedback from interested customers<br>- Setup follow-up calls with customers to gather more specific feedback<br>- Consider running a Category Maturity Scorecard evaluation <br>- Consider running a survey for usability                                                                    |
-| Measure Quantitative Impact     | - Update any applicable dashboards in Sisense, if necessary work with the data team for more complex reporting <br>- Review AMAU, GMAU, and SMAU dashboards to understand if the new feature or improvement has impacted core metrics<br>- Consider running a Category Maturity Scorecard evaluation                                                                                                                                                                   |
-| Take Action on Learnings        | - Open new issues or revise existing issues for follow-on iterations and improvements<br>- Ensure you've captured feedback in issues or as updates to your direction pages<br>- If applicable, update your category maturity score and timeline<br>- Share learnings with your group and stage <br>- Consider sharing learnings with the broader team  <br>- Coordinate with your PM to understand if there are any relevant GTM motions you should consider updating |
+| Outcomes|Activities|DRI|
+|---|---|---| 
+| Understand Qualitative Feedback | - Continue [Dogfooding process](/handbook/product/product-processes/#dogfooding-process)<br>- Review user feedback in issues<br>- Follow up with TAMs and SALs to gather feedback from interested customers<br>- Setup follow-up calls with customers to gather more specific feedback<br>- Consider running a Category Maturity Scorecard evaluation <br>- Consider running a survey for usability | Product Manager | 
+| Measure Quantitative Impact     | - Update any applicable dashboards in Sisense, if necessary work with the data team for more complex reporting <br>- Review AMAU, GMAU, and SMAU dashboards to understand if the new feature or improvement has impacted core metrics<br>- Consider running a Category Maturity Scorecard evaluation                                                | Product Manager | 
+| Take Action on Learnings        | - Open new issues or revise existing open issues for follow-on iterations and improvements<br>- Ensure you've captured feedback in issues or as updates to your direction pages<br>- If applicable, update your category maturity score and timeline<br>- Share learnings with your group and stage <br>- Consider sharing learnings with the broader team  <br>- Coordinate with your PMM to understand if there are any relevant GTM motions you should consider updating| Product Manager | 
+
+#### Required Outcomes 
+<kbd class="required">Required 🔎</kbd>
+
+- **Understand Qualitative Feedback** - In order to know how to improve something, it is important to undrestand the qualitative feedback that we're hearing from users and team members.  <br>
+- **Measure Quantitative Impact** - Qualitative data is great, but coupling it with quantitative data can help to paint the full picture of what is going on. Make sure to set up dashboards in Sisense and review the performance and engagement of your change.  <br> 
+- **Take action on Learnings** - Once you understand the qualitative and quantitative impact, you can take action on your learnings by creating new issues or updating existing open issues with more information.  
+
 
 ## Iteration Strategies
 Here are several strategies for breaking features down into tiny changes that can be developed and released iteratively. This process will also help you critically evaluate if every facet of the design is actually necessary. 
