@@ -23,6 +23,16 @@ Please note, Medicare doesn't cover all costs and [other health services](https:
 ### Pension
 GitLab will make superannuation contributions directly to the employee's nominated super fund according to the Australian Government Super Guarantee rate which is currently set at 9.5% of the employee's total salary. Super is on top of the salary listed in the compensation calculator/contract.
 
+### Superannuation payments due dates
+
+Super payment due dates has been a common topic in [#loc_australia](https://app.slack.com/client/T02592416/CHHFS9DR7). However, there is no reason to worry when payments do not happen monthly as they may be done quarterly.
+
+The Australian Taxation Office (ATO) states the following:
+
+> You pay super for eligible employees calculated from the day they start with you. You must make the payments at least four times a year, by the quarterly due dates.
+
+Payments due dates can be found on the [ATO website](https://www.ato.gov.au/business/super-for-employers/paying-super-contributions/when-to-pay-super/).
+
 ### Superannuation Salary Sacrifice
 Team members in Australia have the option to make concessional super contributions by sacrificing some of their pre-tax pay and arrange to have it paid into their superfund instead. The combined total of GitLab and salary sacrificed contributions [must not be more than $25,000](https://moneysmart.gov.au/grow-your-super/super-contributions) per financial year. 
 
