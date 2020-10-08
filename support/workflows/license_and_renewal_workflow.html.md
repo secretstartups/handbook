@@ -20,7 +20,7 @@ The L&R queue is for customer tickets and internal issues relating to licensing 
 
 * Troubleshooting license application and subscription association issues
 * Generalized license queries from a user
-* Assisting Sales/CS with requests related to licensing, subscriptions, Subscriptions App capabilities, trials and EULA requests.
+* Assisting Sales/CS with requests related to licensing, subscriptions, CustomersDot capabilities, trials and EULA requests.
 
 ## What is **not in the scope** of L&R work in Support?
 
@@ -43,7 +43,7 @@ When we look at the product [Growth](/handbook/product/product-categories/#growt
 |[Acquisition](https://about.gitlab.com/direction/acquisition/)|New Business|
 |[Conversion](https://about.gitlab.com/direction/conversion/)|Trials|
 |[Expansion](https://about.gitlab.com/direction/expansion/)|'How do I's, Upgrades|
-|[Fulfillment](https://about.gitlab.com/direction/fulfillment/)|Purchasing, Subscriptions App Usage, Subscription Management|
+|[Fulfillment](https://about.gitlab.com/direction/fulfillment/)|Purchasing, CustomersDot Usage, Subscription Management|
 |[Retention](https://about.gitlab.com/direction/retention/)|Renewals, Getting Started, License & User Management|
 
 ## Working the L&R Queue
