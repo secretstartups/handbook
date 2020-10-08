@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Monitoring of GitLab.com"
+title: Monitoring of GitLab.com
 ---
 
 ## On this page
@@ -182,8 +182,15 @@ It provides a simple UI on GCP with CPU and Memory usage data for:
 * [Gitaly (and Praefect)](https://gitlab.com/gitlab-org/gitaly)
 * [Workhorse](https://gitlab.com/gitlab-org/gitlab-workhorse)
 * [GitLab Pages](https://gitlab.com/gitlab-org/gitlab-pages)
+* [Gitlab Container Registry](https://gitlab.com/gitlab-org/container-registry)
 
 For more information, there's a [quick video tutorial](https://www.youtube.com/watch?v=q3uudK1lU8g) available.
+
+We also did a series of deep dives by pairing with the development teams for each project in [this issue](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/479), this resulted in the following videos:
+
+* [Gitaly](https://youtu.be/3TSO_evSi5Q)
+* [GitLab Pages](https://youtu.be/K7dYSnO0gns)
+* [GitLab Registry](https://youtu.be/pZZEvysCyrg)
 
 ## Instrumenting Ruby to Monitor Performance
 
