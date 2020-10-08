@@ -218,7 +218,7 @@ To start the Design phase, the Product Designer or Product Manager applies the `
 | Outcomes|Activities|DRI|
 |---|---|---|
 | Proposed solution(s) identified and documented | - Diverge: explore multiple different approaches as a team.<br> - Converge: identify a small set of options to validate. <br> - Update issue/epic description with proposed solution. <br> - Validate approach with help from stakeholders. <br> - Map user flow and experience. <br> - Draw inspiration from competitive and adjacent offerings. | Product Designer | 
-| Shared understanding in the team of the proposed solution | - Review the proposed solution as a team. <br> - Review with leadership. <br> - [Think Big](/handbook/engineering/ux/thinkbig/) session.| Product Designer | 
+| Shared understanding in the team of the proposed solution | - Review the proposed solution as a team. <br> - Review with leadership.<br> - Experiment definition. <br> - [Think Big](/handbook/engineering/ux/thinkbig/) session.  | Product Designer | 
 | Confidence in the technical feasibility | - Discuss the technical implications with Engineering to ensure that what is being proposed is possible within the desired timeframe. | Product Designer |  
 | Issues updated | - Make sure that issues and epics are up-to-date so we can continue our work efficiently and asynchronously | Product Manager | 
 
@@ -442,6 +442,7 @@ When the change becomes available in production, the issue is closed by the deve
 | Stakeholders of a feature will know it is available in production | **Required**: Once the feature is deployed to production and any needed verification in production is completed, the development team will close the issue. <br> **Optional** : Prior to the issue being closed, the development team may set the workflow label to `workflow::verification` or `workflow::production` for tracking purposes. | TBD |
 | Customers will be informed about a change | **Required**: When appropriate for a change, a release post item will be written and merged by the product manager following the instructions in the [template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md), which will then cause it to appear on the [GitLab.com releases page](/releases/gitlab-com/). | TBD |
 | GitLab validates if the feature is meeting GitLab's own needs | **Required** : A determination is made by the product manager as to if the feature should be a part of the [Dogfooding process](/handbook/product/product-processes/#dogfooding-process) which organizes and tracks usage of the feature by GitLab.  If so, the product manager coordinates this process. | TBD | 
+| Experiment results and follow-up issue is created | For experiments, we should create a follow-up issue that will be where results of the test and next-steps are tracked | Product Manager | 
 
 #### Required Outcomes
 
@@ -474,7 +475,7 @@ After launch, the Product Manager and Product Designer should pay close attentio
 |---|---|---| 
 | Understand Qualitative Feedback | - Continue [Dogfooding process](/handbook/product/product-processes/#dogfooding-process)<br>- Review user feedback in issues<br>- Follow up with TAMs and SALs to gather feedback from interested customers<br>- Setup follow-up calls with customers to gather more specific feedback<br>- Consider running a Category Maturity Scorecard evaluation <br>- Consider running a survey for usability | Product Manager | 
 | Measure Quantitative Impact     | - Update any applicable dashboards in Sisense, if necessary work with the data team for more complex reporting <br>- Review AMAU, GMAU, and SMAU dashboards to understand if the new feature or improvement has impacted core metrics<br>- Consider running a Category Maturity Scorecard evaluation                                                | Product Manager | 
-| Take Action on Learnings        | - Open new issues or revise existing open issues for follow-on iterations and improvements<br>- Ensure you've captured feedback in issues or as updates to your direction pages<br>- If applicable, update your category maturity score and timeline<br>- Share learnings with your group and stage <br>- Consider sharing learnings with the broader team  <br>- Coordinate with your PMM to understand if there are any relevant GTM motions you should consider updating| Product Manager | 
+| Take Action on Learnings        | - Open new issues or revise existing open issues for follow-on iterations and improvements<br>- Ensure you've captured feedback in issues or as updates to your direction pages<br>- If applicable, update your category maturity score and timeline<br>- Share learnings with your group and stage <br>- Consider sharing learnings with the broader team  <br>- Coordinate with your PMM to understand if there are any relevant GTM motions you should consider updating <br> - Update experiment follow-up issue with results and specific next steps.| Product Manager | 
 
 #### Required Outcomes 
 <kbd class="required">Required 🔎</kbd>
