@@ -157,7 +157,7 @@ Examples of English Language Courses:
 #### Tuition Reimbursement for Your 4th Trimester
 Your 4th Trimester is a 90-day coaching program with [Broad Perspective Consulting](https://www.broadperspectiveconsulting.com/maternity-transition). The purpose of the program is to help parents (regardless of gender) transition back to work. 
 
-If you have been employed for more than three months, you are eligile to participate in this program. As Your 4th Trimester is part of the Tuition Reimbursement program, the cost of participating in this program will be deducted from your yearly limit of 20,000 USD.
+If you are a full-time GitLab team member and have been employed for more than three months, you are eligible to participate in this program. If you are a part-time GitLab team member, you may still eligible to participate in this program but your reimbursement might be reduced. These situations will be discussed on case-by-case basis. As Your 4th Trimester is part of the Tuition Reimbursement program, the cost of participating in this program will be deducted from your yearly limit of 20,000 USD.
 
 To apply for this program, please send a completed [Tuition Reimbursement Application Form](https://docs.google.com/document/d/1-WvPzoUMpcaUUOm3Gl5eDKQDw_-TtI4J0LP5ifMa8Vo/edit) to Total Rewards at least 60 days before the birth/adoption.
 
