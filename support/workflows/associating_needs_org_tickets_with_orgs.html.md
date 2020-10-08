@@ -55,10 +55,10 @@ For GitLab.com, if a user cannot be identified as a customer, nor a
 * you search by the requester's e-mail i.e. `username@domain.tld`, the e-mail
   specified in the field `Email associated with your subscription`, or using the 
   customer's domain and you cannot find any related accounts in SFDC.
-* you search for the same data in the Subscriptions App and cannot find any accounts there.
+* you search for the same data in the CustomersDot and cannot find any accounts there.
 * you view any groups the user is a member of and confirm that no subscriptions for their groups
-  exist in the Subscriptions App
-* if an account exists in the Subscriptions App, no subscriptions are shown and you see 
+  exist in the CustomersDot
+* if an account exists in the CustomersDot, no subscriptions are shown and you see 
   `Choose a plan that suits your needs` when using `Impersonate` functionality.
 
 In such case, select `Free user` in `Tell us about your GitLab subscription` dropdown and
@@ -123,7 +123,7 @@ For self-managed, you can double-check for a license in the
 [license app](http://license.gitlab.com).
 You should be able to access it with your `dev.gitlab.org` account.
 
-For GitLab.com, in the Subscriptions App, trials are marked with an expiration
+For GitLab.com, in the CustomersDot, trials are marked with an expiration
 date under the **Trials** column in the `GitLab Groups` Tab next to a namespace.
 If needed, also check the
 [internal-requests project](https://gitlab.com/gitlab-com/support/internal-requests/issues)
@@ -178,8 +178,17 @@ associated with the organizations. The current process for this is as follows:
 1. Locate the organization in Salesforce
 1. Check the contacts for the Account in Salesforce
 1. If the user's email address is listed there, you may safely associate the
-   user to the organiztion.
-1. If the user is not listed there, you will need to do one of the following:
+   user to the organization.
+1. If the users email is not listed then the following workflow applies and reflects how
+   [customers prove their entitlement](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/AM-Update-Needs-Org-Full-Workflow/support#proving-your-support-entitlement).
+
+**For GitLab.com users:**
+
+   1. The user (matched by ticket requester's email) is in the paid group for which they are asking for support (or it's an account related issue)
+
+
+**For Self-managed users:**
+
    1. Ask the user to provide their license details and verify the license/e-mail is valid (e.g. in [Licenses portal](https://license.gitlab.com/)). If valid, it is OK to associate this particular user to the org that owns the license.
       * There is a field in the ticket titled **Email associated with your GitLab instance**. It is possible that it is already populated and that user already provided the e-mail that is owning the license, in which case we don't need to explicitly ask for it (or the screenshot).
       * You can also ask the user to provide a screenshot of the `/admin/license` endpoint from their instance or to tell you the e-mail to which the license their organisation is using is associated to. To do this quickly, you can use the macro called **Self-Managed::Locating GitLab subscription**. 
@@ -301,7 +310,7 @@ using our generic `Support Admin` account.
 ### Fixing tags for tickets with `Expired` organization
 
 If data in the [license app](http://license.gitlab.com) and
-the [Subscriptions App](#finding-the-existing-organization-in-customersgitlabcom) shows
+the [CustomersDot](#finding-the-existing-organization-in-customersgitlabcom) shows
 that the customer has a valid license, you should update the ticket in Zendesk side.
 This part does not overlap with the steps from [Handling customers with expired licenses and updating info on SFDC side](handling-customers-with-expired-licenses-and-updating-info-on-sfdc-side),
 it should be done in combination: first [update information on the SFDC side](#handling-customers-with-expired-licenses-and-updating-info-on-sfdc-side)
@@ -324,7 +333,7 @@ When you see the required tag in the dropdown list, select it.
 ### Example: full sequence of actions that should be done to fix incorrectly expired organization
 
 - A ticket comes to Zendesk and you spot that `GitLab Plan` is shown as [Expired](#handling-tickets-without-sla).
-- First, search for any info about this organization in [SFDC](#finding-the-existing-organization-in-sfdc-aka-salesforce), [license app](http://license.gitlab.com/) and [Subscriptions App](#finding-the-existing-organization-in-customersgitlabcom).
+- First, search for any info about this organization in [SFDC](#finding-the-existing-organization-in-sfdc-aka-salesforce), [license app](http://license.gitlab.com/) and [CustomersDot](#finding-the-existing-organization-in-customersgitlabcom).
 - If you found that they have a valid license or subscription i.e. it is not expired, you are likely facing [this issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/634).
 - Fix SFDC side first by following [the steps above](#handling-customers-with-expired-licenses-and-updating-info-on-sfdc-side).
   Sales Support will usually reply to your message in SFDC, and you will be able to see it in the feed at the organization's page there.
@@ -383,11 +392,11 @@ If you're sure that the ticket is related to **Self-managed**, but you see it in
 ### Organization is incorrectly marked as a Prospect in SFDC
 
 In SFDC, you may notice an organization has the Type set to `Prospect` but associated with a non Expired support level,
-and the account in the Subscriptions App shows that the org has a valid self-managed license or a GitLab.com subscription. 
+and the account in the CustomersDot shows that the org has a valid self-managed license or a GitLab.com subscription. 
 In this case, it you may need to update the org in SFDC:
 
 - Check if `Subscriptions` section in SFDC contains information about a valid subscription and is not empty.
-- Check if account in the Subscriptions App contains information about the purchased subscription.
+- Check if account in the CustomersDot contains information about the purchased subscription.
 - Double click `Prospect` type, change it to `Customer` and click `Save`.
 - After that, notify `@Sales-Support` by following the steps similar to the ones in [this section](#handling-customers-with-expired-licenses-and-updating-info-on-sfdc-side) to tag them.
 - **IMPORTANT**: if you are not sure about the changes, ask `Sales-Support` to do it on their own.

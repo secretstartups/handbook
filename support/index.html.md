@@ -188,7 +188,7 @@ GitLab.com.
 | [@gitlab-com/support/emea](https://gitlab.com/gitlab-com/support/emea)         | EMEA Support             |
 | [@gitlab-com/support/dotcom](https://gitlab.com/gitlab-com/support/dotcom)     | Support members with GitLab.com admin access |
 | [@gitlab-com/support/dotcom/console](https://gitlab.com/gitlab-com/support/dotcom/console) | Support members with GitLab.com console access |
-| [@gitlab-com/support/customers-console](https://gitlab.com/gitlab-com/support/customers-console) | Support members with Subscriptions App console access |
+| [@gitlab-com/support/customers-console](https://gitlab.com/gitlab-com/support/customers-console) | Support members with CustomersDot console access |
 | [@gitlab-com/support/licensing-subscription](https://gitlab.com/gitlab-com/support/licensing-subscription) | Support members focused on License and Renewals |
 | [@gitlab-com/support/managers](https://gitlab.com/gitlab-com/support/managers) | All support managers     |
 
@@ -589,7 +589,7 @@ sb s # GitLab.com queues
 - [Dev Resources](https://gitlab.com/gitlab-com/dev-resources) - Create a test instance
 - [GitLab Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit)
 - [License App](https://license.gitlab.com/) - Details of all licenses
-- [Subscriptions App admin](https://customers.gitlab.com/admins)
+- [CustomersDot admin](https://customers.gitlab.com/admins)
 - [GitLab Regressions](https://regressions.gitlab.io/)
 
 ### External tools

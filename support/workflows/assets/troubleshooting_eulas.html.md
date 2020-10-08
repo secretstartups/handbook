@@ -18,7 +18,7 @@ This wiki should prepare you for working on the [EULA issue board](https://gitla
 
 There are 2 ways to accept a EULA:
 1. Select [the link in the email that was sent to them](https://gitlab.com/gitlab-org/customers-gitlab-com/blob/3248ac5978678b6920d7cb755be288e312fda8aa/app/views/customer_mailer/accept_terms_request.html.haml#L1).
-1. Log into the [Subscriptions App](https://customers.gitlab.com/customers/sign_in) and select the `Review terms and conditions` button on the relevant subscription card. *Note that reseller customers don't have access to the Subscriptions App to accept via this option.*
+1. Log into the [CustomersDot](https://customers.gitlab.com/customers/sign_in) and select the `Review terms and conditions` button on the relevant subscription card. *Note that reseller customers don't have access to the CustomersDot to accept via this option.*
 
 ## Request: The EULA was sent to the wrong person and the recipient needs to change
 
@@ -33,7 +33,7 @@ There are 2 ways to accept a EULA:
 
 ## Troubleshoot: The EULA was not sent
 
-You have searched for the domain in the Subscriptions App: https://customers.gitlab.com/admin/eula_request and seen that no EULA was sent. 
+You have searched for the domain in the CustomersDot: https://customers.gitlab.com/admin/eula_request and seen that no EULA was sent. 
 
 1. Use [this spreadsheet](https://docs.google.com/spreadsheets/d/1jLGVpI_sqWxlt5SlD7oqRHxZ_rxstMmFzZMkpouTzlg/edit#gid=839505067) to make sure this purchase should have had a EULA. If the spreadsheet indicates that no EULA should have been sent, then we know that a EULA is not required and the customer should have access to the product they purchased. Please note this with the requestor and ask how they would like to proceed.
 1. If yes, check whether the opportunity was marked for a EULA to be sent in Salesforce:
@@ -48,7 +48,7 @@ If an issue already exists for this EULA problem, create a comment with the belo
 
 > **SE Assistance Needed? YES**
 > 
-> - **Subscriptions App link**: 
+> - **CustomersDot link**: 
 > - **Customer ID**: `XXXX`
 > - **Subscription**: 
 > - **Access Token (if generated)**:

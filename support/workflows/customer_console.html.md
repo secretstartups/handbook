@@ -20,7 +20,7 @@ The scope of what's outlined in this workflow is for frequently used functions w
 
 ## Using the support console
 
-After logging into the Subscriptions App server, enter the command:
+After logging into the CustomersDot server, enter the command:
 
 ```
 $ support_console
@@ -224,17 +224,18 @@ irb(main):001:0> change_plan('example','silver','2020-05-25')
 
 ### update_gitlab_plan
 
-Change the plan of a namespace on GitLab.com **directly**, bypassing Subscriptions App completely.
+Change the plan of a namespace on GitLab.com **directly**, bypassing CustomersDot completely.
 
 | Name | Required | Details |
 | ------ | ------ | ------ |
 | `:namespace` | *Yes* | The namespace to update using the path |
 | `:plan` | *Yes* | The plan to assign to the namespace (free, bronze, silver, gold) |
+| `:expire` | *No* | Optional parameter, if entered the existing subscription will be extended up to this date |
 
 #### Sample
 
 ```ruby
-irb(main):001:0> update_gitlab_plan("example","bronze")
+irb(main):001:0> update_gitlab_plan("example","bronze","2020-10-22")
 {"plan"=>
   {"code"=>"bronze",
    "name"=>"Bronze",
@@ -248,7 +249,7 @@ irb(main):001:0> update_gitlab_plan("example","bronze")
    "seats_owed"=>0},
  "billing"=>
   {"subscription_start_date"=>"2020-08-21",
-   "subscription_end_date"=>nil,
+   "subscription_end_date"=>"2020-10-22",
    "trial_ends_on"=>nil}}
 {"id"=>0000000,
  "name"=>"Example",
@@ -328,7 +329,7 @@ irb(main):021:0> force_reassociation("A-S00000000", "0000000", "example")
 
 ### unlink_customer
 
-Completely unlink a GitLab.com account from a Subscriptions App account.
+Completely unlink a GitLab.com account from a CustomersDot account. **Note:** Use the customer ID (from customers portal, not GitLab.com).
 
 **Warning**: Unlinking means the .com groups will no longer show. This is typically only used when an admin accidentally links their account to a customers.
 
@@ -387,7 +388,7 @@ irb(main):021:0> send_eula("A-S00000000")
 
 ## GitLab.com Group methods
 
-These functions help fix various bug issues that have surfaced on GitLab.com. These functions do *not* change anything in Subscriptions App.
+These functions help fix various bug issues that have surfaced on GitLab.com. These functions do *not* change anything in CustomersDot.
 
 ### showGroups2FAStatus
 
@@ -414,7 +415,7 @@ irb(main):180:0>  showGroups2FAStatus 'some_user'
 
 ### fix_dotcom_seats
 
-In any situation similar to [seat count is 0](https://gitlab.com/gitlab-org/gitlab/-/issues/220010), you can use this function to update the number of seats in GitLab.com to the quantity listed in the associated Subscriptions App order.
+In any situation similar to [seat count is 0](https://gitlab.com/gitlab-org/gitlab/-/issues/220010), you can use this function to update the number of seats in GitLab.com to the quantity listed in the associated CustomersDot order.
 
 #### Parameters
 
