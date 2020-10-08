@@ -100,8 +100,6 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
 
 1. Every vacancy should have an `Application Review` stage. Typically no edits are needed on this stage.
 
-1. There is an optional stage called `Qualified` for those recruiters who would like to use it as a holding place before `Screening`. Especially with high-volume roles, this step can be used to sort through all the applications, mark the ones who meet the qualifications and want to reevaluate before the qualified pool before screening.
-
 1. Some vacancies have an `Assessment` as the second stage in the process.
    - If your vacancy requires an assessment but there is no assessment stage already added, scroll to the bottom of the page and click `Add a Stage`.
    - From there, you can either click `Copy from another job?` at the bottom of the pop-up and select a vacancy you know has an assessment. Click on `Assessment`, then `Add`.
@@ -134,15 +132,11 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
    - The two `Additional Settings` should both be checked.
    - Click `Save`.
 
-1. Some teams prefer to have the hiring manager stage broken out separate from `Team Interview` stage and in that case, a stage labeled `Hiring Manager Interview` should be added.
-
-1. To add a new interview in a stage, hover over the stage and click `Add Interview`, then you can copy over an interview from another job or create a new one. You can also move the interviews around within the stage and change the interview names.
-
-1. The next stage (if applicable) is the `Executive Interview` stage. Depending on the level of the role the executive interviews may be conducted during the team interview stage. In this case, the executive interview section would be reserved for the CEO interview, if applicable. You can customize as needed following the guidelines for the team interview, including selecting attributes, adding custom questions, setting the interview length and selecting a default interviewer.
+1. Some teams prefer to have the hiring manager stage broken out separate from `Team Interview` stage and in that case, a stage labeled `Hiring Manager Interview` should be added. To add a new interview in a stage, hover over the stage and click `Add Interview`, then you can copy over an interview from another job or create a new one. You can also move the interviews around within the stage and change the interview names. `Executive Interview` are included in this stage. Depending on the level of the role the executive interviews may be conducted at the end or at any point in the team interview stage. You can customize as needed, including selecting attributes, adding custom questions, setting the interview length and selecting a default interviewer.
 
 1. The next stage is `Reference Check`, with at least three sections; a former manager and two former peers. These can be customized as needed. For executive-level roles, it is suggested you include the following; two former managers, two former peers, two former direct reports, and back-channel. The [background check](/handbook/people-group/people-policy-directory/#background-checks) is performed during the Reference Check stage.
 
-1. There is an optional `Justification` section. This section should include three questions:
+1. There is an optional `Justification` section used by the R&D division. This section should include three questions:
    - In what specific way(s) does this candidate make the team better?
    - What flags were raised during the interview process?
    - How do we intend on setting this candidate for success?
@@ -238,6 +232,8 @@ The [Candidate Experience Specialist](/job-families/people-ops/candidate-experie
       - Recruiter
       - Sourcer
       - Candidate Experience Specialist
+      - People Business Partner according to [business alignment](/handbook/people-group/#people-business-partner-alignment-to-division)
+      - Sourcing Manager
    - Offer Fully Approved:
       - Hiring Manager,
       - Executive,
