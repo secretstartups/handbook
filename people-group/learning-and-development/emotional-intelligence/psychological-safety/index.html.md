@@ -29,7 +29,15 @@ Watch the video below where Susan David explains psychological safety.
 
 ## How it Works
 
-When you have psychological safety in the workplace, the following things increase: 
+The following information was summarized from an [article on Psychological Safety](https://peopletalking.com.au/project/psychological-safety/) by PeopleTalking. 
+
+**Psycholgoical Safety** has primary importance when it comes to significant impact on a team's performance. 
+
+The other factors that have an impact on a team's performance are: Dependability, Structure, Meaning & Clarity, Impact. 
+
+In addition, the factors of Accountability, Open Communication & Motivation, Dialogue Practices, and Shared Assumptions are only valuable when the team is already psychologically safe. In the diagram, those lie on the arrows between each of the circles.   
+
+Why is psychological safety important? When you have psychological safety in the workplace, the following things increase: 
 
 - Collaboration
 - Innovation
@@ -41,9 +49,15 @@ When you have psychological safety in the workplace, the following things increa
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQn6_E_jGgOUz9OBe0hYopG5MYF4k6-MV2NsdESCpxjYenS9ikKD8mylL_Id44GXzl5-lHLltwHsWLD/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
+Amy Edmonson uses David Kantor's model to show the [relationship between Psychological Safety and Accountability & Motivation](https://peopletalking.com.au/project/psychological-safety/). When there is an environment where psychological safetey is low or non-existant, it can be very stress or anxiety filled. When there is high psychological safety, it can make more comfortable. You can get a better picture of this from the diagram below. 
+
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvy9_S6SM97risN1JCRC4Hy0rTRt3PQXdMhl_D_xxEFi-W4F5FYL04FrZp62HgrPlt6N-O8Um-gnCk/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
+
 ## Psychological Safety vs Danger
 
-When you have psychological safety people become more motivated because they feel more able to take risks. 
+When you have psychological safety people become more motivated because they feel more able to take risks. When people feel psychologically safe, they will learn from their failure rather than feeling the need to blame others. 
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRzAtUx8ptPA5FbZ1Pn_GKRQB_9I_K98Sxr7GBfssU3FxpkVUXCA9kyg7j5xWV6X9NEOR0zC7SdGuJb/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
