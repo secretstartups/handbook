@@ -14,130 +14,95 @@ title: "Field Flash Newsletter - Edition 2020-10-08"
 ## NEW ⚡️ GitLab Field Flash: October Edition⚡️
 In this month's [Field Flash](/handbook/sales/field-communications/field-flash-newsletter/#overview), you'll find numerous improvements from the Sales Ops team in response to your QBR asks, three new ROI Models, updated competitive resources, and more. Plus, Danny Petronio explains how he is embracing our Land & Expand vision in Australia with a recent deal closed for 800 seats of Gold, and learn more about how Kelley Shirazi embraces and promotes our value of Diversity, Inclusion & Belonging in her Team Member Spotlight.(***Pro Tip:*** Don’t forget to click the “View entire message” link at the bottom of this email when viewing in Gmail to see the full newsletter each month!)
 
-### Virtual Commit 2020 Recap
-We wrapped up our first-ever [GitLab Virtual Commit](https://about.gitlab.com/events/commit/) last week! This event ran for a full 24-hours on 2020-08-26 and featured **50+ hours of new content, 80+ speakers, and 8+ tracks**. ICYMI, here are the top highlights from the event: 
-1. [Sid’s Keynote](https://www.youtube.com/watch?v=IC0-A1z74xI) - The talk highlighted GitLab company and community momentum over the past year, including: 3,000 GitLab code contributors, 1 million+ licensed users, new customers UBS and Early Warning, the [Forrester TEI Report](https://about.gitlab.com/handbook/marketing/product-marketing/analyst-relations/forrester-tei/) (407% three-year ROI!), and more. 
-1. [UBS Customer Announcement](https://www.ubs.com/global/en/media/display-page-ndp/en-20200826-ubs-gitlab.html) - UBS shared the big news with the world in a press release that highlighted their digital transformation efforts. Read and share the resulting coverage in [Finextra](https://www.finextra.com/newsarticle/36474/ubs-contracts-with-gitlab-to-speed-up-software-development) and [FinanceFeeds](https://financefeeds.com/ubs-teams-gitlab-redefine-software-development-experience/), and see the [full Conference Snapshot here](https://docs.google.com/document/d/1V1ldgN1N1_3F5wcKNNpa83v97fX47b4LZFJ5WzJtU40/edit). 
-1. [GitLab Product Keynote](https://mediaops.6connex.com/event/Virtual/en-us/contents/287051/share?slug=gitlabcommit&rid=Commit_Keynotes&nid=616766) - Christie Lenneville and Anoop Dawar highlighted the strong momentum in the GitLab product in the past year. 
-1. Remote Work Sessions - [Remote to the Rescue: How Virtual Jobs are Saving the World](https://mediaops.6connex.com/event/Virtual/en-us/contents/287900/share?slug=gitlabcommit&rid=Commit_Orange_Auditorium&nid=616766) and [Stronger Remote Cultures: Rethink Your Work Week](https://mediaops.6connex.com/event/Virtual/en-us/contents/287885/share?slug=gitlabcommit&rid=Commit_Orange_Auditorium&nid=616766) were crowd-favorite sessions in a time when remote work is more relevant than ever.
+### Q3 Sales Ops Cannonball Run Results
+Following Q3 QBRs, Field Operations captured 350+ individual asks from global field team members. Sales Ops, Channel Ops, Customer Success Ops, Deal Desk, and Sales Systems highlighted key areas where they could focus their energy for fast iteration with maximum impact and embarked on a Cannonball Run to deliver amazing value to the field by 2020-09-18. Here are the improvements available to you today:
 
-[See the full schedule here](https://about.gitlab.com/events/commit/#schedule). Want more Commit content? It is all available on-demand on the event platform for the next month and will then be available on YouTube. [Register using this link](http://www.gitlabcommitvirtual.com/) and then navigate to the Auditorium to see all content. (***Note:*** You will have to log in to see the videos above.)
+1. **Quote Approvals and Templates:** [Enable draft proposals](https://gitlab.com/gitlab-com/sales-team/field-operations/deal-desk/-/issues/17) (no approvals required!), [reduce re-approval scenarios](https://gitlab.com/gitlab-com/sales-team/field-operations/deal-desk/-/issues/17), implement new [Payment Term approval process](https://gitlab.com/gitlab-com/sales-team/field-operations/deal-desk/-/issues/17), and [streamline partner templates](https://gitlab.com/gitlab-com/sales-team/field-operations/deal-desk/-/issues/18)
+1. **SFDC:** [Closed Won Web Direct Renewal Opps](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1496), [Enterprise ISR Tracking](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1497), [Commercial ASM Dashboard - pack 2](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1513), [field clean-up of 8K+ account duplications](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1498), and [Pipeline Health Check dashboards](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1516)
+1. **Customer Success Visibility and Iteration:** [TAM Renewal Forecasting and Visibility](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1500), [Solution Architect Activity Capture UI Improvements and Visibility](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1507), and [Sales-TAM handoff cleanup and speed optimizations](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1499)
+
+Thanks to the team for their hard (and fast) work! See the [Cannonball Run Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1493) for full details on each initiative. Questions? Slack #sales-support.
 
 ### Deal of the Month 🏅
-Doug Robbin and Jefferson Jones give us a behind-the-scenes look into their journey to close largest mid-market deal in GitLab’s history.
+Danny Petronio walks through how he closed a $600K iACV deal with a major Australian financial institution that will grow to 800 seats of Gold by the end of 2020. He also shares how he embraces the land and expand vision in his market through strong customer relationships, teamwork, and always remembering to have fun while selling. 🎊
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/pPw-D6umkhg" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/ve7yQ8Iy7Yw" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-
-Check out a copy of Doug’s [Customer POV Deck](https://docs.google.com/presentation/d/16Tr_bgSkvSnQz3Oia1QcHdtuLH_MnTkCinbC3Qi-Ymo/edit#slide=id.g5987049c2c_0_999). 
 
 Have a deal you'd like to nominate? Fill out the [nomination form](https://forms.gle/7AYwzgFStrai5D2F7).
 
 ### New and Noteworthy Resources 📓
-There is a wealth of competitive resources available on our website. Share this great content ([GitHub](https://about.gitlab.com/devops-tools/github-vs-gitlab.html#github-to-gitlab-decision-kit), [AzureDevOps](https://about.gitlab.com/devops-tools/azure-devops-vs-gitlab.html#azure-devops-to-gitlab-decision-kit), [Jenkins](https://about.gitlab.com/devops-tools/jenkins-vs-gitlab.html#jenkins-to-gitlab-decision-kit), [CircleCI](https://about.gitlab.com/devops-tools/circle-ci-vs-gitlab.html#circleci-to-gitlab-decision-kit)) with customers and prospects and better enable your champions to make the case for GitLab. Slack #competition with questions or feedback. [Explore the Compete Page -->](https://about.gitlab.com/compete)
+ICYMI, watch the recording of the Competitive Intelligence team’s Sales Enablement Webinar where they walk through the three GitLab ROI Models available ([Forrester TEI Estimator](https://tools.totaleconomicimpact.com/go/gitlab/devopsplatform/index.html), [GitLab Simple](https://docs.google.com/spreadsheets/d/1zYeKV51thbqUjKKQqOtE0a0iVuXBWytc_5ThNV6U_1c/edit#gid=2028124996), [GitLab Detailed](https://docs.google.com/spreadsheets/d/1zYeKV51thbqUjKKQqOtE0a0iVuXBWytc_5ThNV6U_1c/edit#gid=0)) as well as when and how to use them. For additional details, see the [slides](https://docs.google.com/presentation/d/1-Qq6TLpgOuooAlmHj1tumwHxUTK86uWBD_7Lv6K47w8/edit#slide=id.g6fc8bb1d32_0_190), [Handbook resources](/handbook/sales/command-of-the-message/metrics/#economic-metrics), and the [TEI Study & related resources](/handbook/marketing/product-marketing/analyst-relations/forrester-tei/#links-to-the-tei-study--related-resources). [Watch Now -->](https://www.youtube.com/watch?v=znCrnpTDRoE)
 
-Learn more about how Poland-based tech company MGA realized an 80% time savings by leveraging GitLab’s automated CI and CD. And, learn how Germany-based tech company SVA improved central code management and workflow CI with GitLab Community Edition. [Read More - MGA -->](https://about.gitlab.com/customers/mga/) [Read More - SVA -->](https://about.gitlab.com/customers/sva/)
+All Bitbucket competitive content now lives in a single place on the new Bitbucket site. This site is available to people outside of GitLab. Share it with your customers and prospects as a tool to help champion for GitLab internally. Questions? Slack #competition. [Check It Out -->](https://about.gitlab.com/devops-tools/bitbucket-vs-gitlab.html)
 
-The Legal team has created a new Handbook page – Sales Guide: Collaborating with GitLab Legal – to help you better understand legal ops and processes and learn about contracting and legal matters that can be used proactively to help you close deals faster. Also check out [this overview video](https://youtu.be/snb-1ENQitI). [Check it out -->](/handbook/legal/customer-negotiations/)
+GitLab has been named a 2020 Customers' Choice for Application Release Orchestration by Gartner Peer Insights. Check out the [response overview](https://about.gitlab.com/analysts/gartner-votc20/) that highlights some of our favorite customer quotes. [Read More and Share -->](https://page.gitlab.com/resources-report-gartner-voc-aro.html)
 
-The [People Success team](/handbook/people-group/#people-business-partner-alignment-to-division) has updated the Resources for COVID-19 section in our Handbook to provide additional guidance on team member and manager support during COVID-19. Reach out to your People Business Partner with any questions. [Learn More -->](/handbook/total-rewards/benefits/covid-19/#team-member-and-manager-support-during-covid)
+As a follow-up to our acquisitions of Peach Tech and Fuzzit in June 2020, the product team put together a deep-dive into Fuzz Testing – what is it and why you should care. ([Slides here](https://docs.google.com/presentation/d/18Fp6_FMxt5NLlN19T2s-ceSgfH7bRrz3r2e42STjJL8/edit?ts=5ee8e927#slide=id.g29a70c6c35_0_68)) [Watch Now -->](https://www.youtube.com/watch?v=ygc3l68_l0Y)
 
-The official word is out – President’s Club 2021 will be at the [Ritz Carlton in Maui](https://www.ritzcarlton.com/en/hotels/kapalua-maui), Hawaii from May 11-14, 2021. [2020 winners](https://docs.google.com/presentation/d/1XnXGkNagz6ZbJIqzBphoXdAs-Vra59Kjrj4IT_YEyp4/edit#slide=id.g883d59c798_4_0) will be combined with 2021 winners in the same event. [See selection criteria & FAQ -->](https://about.gitlab.com/handbook/sales/club/)
+Commit Virtual sessions are now all [uploaded and shareable in YouTube](https://www.youtube.com/c/Gitlab/playlists?view=50&sort=dd&shelf_id=5)! Check out the enablement issue for promotion materials including social media posts and email signatures and links to SFDC campaign lists. [See the Issue -->](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/3417)
+
+ICYMI, watch the recording of the Sales Enablement Webinar where the Competitive Intelligence and Alliances teams provide a GitHub Competitive update. For additional details, see the [slides](https://docs.google.com/presentation/d/1HxwQZZ-iADDbCXGgnlvQP1oJWMB0n7Ly26qgyHIhFeM/edit#slide=id.g960074dfbb_0_158), the [GitHub Decision Kit](https://about.gitlab.com/devops-tools/github/decision-kit.html), and the [Azure DevOps Decision Kit](https://about.gitlab.com/devops-tools/azure-devops/decision-kit.html). [Watch Now -->](https://www.youtube.com/watch?v=fOeLdLwAgOI)
+
+GitLab has launched an all-new remote leadership course on Coursera (free or $49 for an official certification) that condenses GitLab’s All-Remote Handbook resource into an 11-hour course designed for leaders, managers, and HR professionals. [View and Share the Course -->](https://www.coursera.org/learn/remote-team-management)
+
+Learn how Dublin City University uses GitLab CI and SCM to deliver an elevated education experience in software development. And, learn how Conversica’s engineering team uses GitLab Ultimate to lead AI innovation for their software and provide them with a single, scalable CI/CD solution. [Read More - DCU -->](https://about.gitlab.com/customers/dublin-city-university/) [Read More - Conversica -->](https://about.gitlab.com/customers/conversica/)
 
 ### Did You Know? 🔢
-The **License Usage App [BETA] is now available to everyone** in Salesforce! 🎉 You can now click the “License Usage” button on any customer account to review the customers entitled vs activated user count and other subscription details.
+The **Fulfillment Team has made some exciting improvements that will give users more self-service capabilities and will reduce burden currently placed on the Field team**. These improvements include: 
 
-[See the Handbook](/handbook/sales/field-operations/sales-systems/license-usage-app/) for an overview and FAQ, and help the team iterate by providing any bugs, feedback, or questions in [this issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/912). 
-
-----
-Say goodbye to Chatter approvals! 👋 The SalesOps team has **overhauled our SFDC Quote Discount Approval module** to support native Channel quote discount approvals. New technology will now identify whether the reseller is a partner under contract or a reseller not under contract, and seek any required approvals automatically once you have clicked “Submit for Approval” on a quote. The team has also: 
-1. Updated the [Discount Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.dccvx02huo2y) to include a new discount approval requirement for deals with discounts above 50%
-1. Made significant improvements to Quote Templates, which are [summarized in this issue](https://gitlab.com/gitlab-com/sales-team/field-operations/deal-desk/-/issues/9)
-
-Questions? Reach out to #sales-support.
+1. [Allow self-managed customers to self-service upgrade their plan](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/107)
+1. [Allow GitLab.com customers to self-service add-on additional users midterm](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1098)
+1. [Introduce new EULA acceptance process in-app](https://gitlab.com/gitlab-org/gitlab/-/issues/224712) - Moving forward users will no longer have to accept EULA prior to receiving their license. With this change, we will immediately send all licenses after the deal is booked and the user will [accept terms during the upload of the license](https://gitlab.com/gitlab-org/gitlab/-/issues/224712/designs/Desktop_-_1.png) within the GitLab instance. 
 
 ----
-There are **[new fields/attributions](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#managing-channel-opportunities) on Opportunities in SFDC to enhance visibility of partner value and drive efficiency with Channel quotes/orders**.  👀 Changes include a new field showing the deal type, new logic that will improve channel approvals and comp calculations, and more.
+The Field Ops team has **completed the first phases of a refactor of our [Sales Handbook Homepage](/handbook/sales/)** with the goal to increase usability/searchability:
+1. A new-and-improved Quick Reference Guide
+1. Extensive content previously on homepage migrated to dedicated pages
 
-The team has also launched a **[contest for SALs and AEs](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/435) with a $200 prize** to find the best examples of where this information helps lead to Partner collaboration that influences, expands, and/or accelerates an opportunity.
-
-----
-Professional Services now has a formalized process for internal team leads to **request delivery of our customer-facing live training** for their team members! 🏋️‍♂️ Check out [this updated handbook page](/handbook/customer-success/professional-services-engineering/working-with/#requesting-training-for-gitlab-team-members) to get your team trained and certified.
-
-----
-We have launched project-level access tokens in the 13.3 release for self-managed instances and plan to launch for gitlab.com in 13.4. This new functionality allows the creation of project-level API tokens that are NOT tied to a licensed user. This means that **you will no longer need to manually subtract bot users from license counts**! 🙌
-
-See [this epic](https://gitlab.com/groups/gitlab-org/-/epics/2587) for more information about the roll-out plan.
+Additional phases are planned to improve the quality and accuracy of Sales Handbook content. See the [project plan](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1388) and leave questions or feedback for the team in [this issue](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1582). 
 
 ----
-We recently added **two new ecosystem partner integrations with Checkmarx and StackHawk** to improve the automation and integration of Application Security Testing (AST) within GitLab. 🤝
+**Open Enrollment for benefits for U.S. team members will take place from 2020-10-19 through 2020-11-02**. Benefits selections for 2021 will be made in [Lumity](https://user.lumity.com/login) and effective 2021-01-01. 
 
-Read more about the integrations in the [Checkmarx blog](https://www.checkmarx.com/2020/08/24/integrating-checkmarx-security-results-within-gitlab/) and [StackHawk blog](https://about.gitlab.com/blog/2020/08/21/align-engineering-security-appsec-tests-in-ci/). Reach out to #alliances with any questions. 
+Once the Total Rewards team has finalized carrier options for 2021, they will update the handbook and reach out via email with all helpful materials to help you make a well-informed decision. [See the Benefits page](/handbook/total-rewards/benefits/) in the meantime for more information. 
+
+----
+There are only 3.5 months left in FY21 – which means, **only 3.5 months left to secure your spot at President’s Club 2021 at the Ritz Carlton in Maui, Hawaii from May 11-14, 2021**! Refresh your memory on President's Club selection criteria and FAQs on the [President's Club Handbook page](/handbook/sales/club/), and check out the [President's Club Dashboard](https://app.periscopedata.com/app/gitlab/670929/FY21-President's-Club-Dashboard) for current standings. 
 
 ### What's New in GitLab 🚀
-The GitLab [13.3 release](https://about.gitlab.com/releases/2020/08/22/gitlab-13-3-released/) is live! Here are the takeaways for customers and prospects:
-- **Reduce Security and Compliance Risk:** Teams can now discover real-world software vulnerabilities faster and more efficiently with coverage-guided fuzz testing that surfaces and solves vulnerabilities in C, C++, and Go and with on-demand DAST (Dynamic Application Security Testing) that can now be run from the GUI and includes new vulnerability evidence for security staff.
-- **Increase Operational Efficiencies:** 13.3 makes it easier to release code more frequently with a new build matrix for CI/CD that allows customers to build powerful workflows, as well as with enhanced tracking and analytics for Merge Requests including throughput in the MR Analytics Dashboard and traceability of fulfilled duties by different roles in the Compliance Dashboard.
-- **Deliver Better Products Faster:** Customers can increase the productivity and efficiency of delivery teams by leveraging new features that improve the ease and usability of building and distributing packages. These include an overhaul of the entire Package registry GUI (plus availability for everyone in Core) and enhancements that make it easier to publish NuGet packages in an automated way.
+The GitLab 13.4 release is live! Here are the takeaways for customers and prospects:
+- **Reduce Security and Compliance Risk:** Teams can expand their DevSecOps with enhanced security capabilities including the ability to use HashiCorp Vault secrets in CI jobs, grant users deployment permissions without code access, and deploy to Kubernetes clusters from GitLab without the need to open a cluster to the entire Internet. In addition, the Instance Security Dashboard has evolved into the GitLab Security Center featuring Vulnerability Reporting and Settings.
+- **Increase Operational Efficiencies:** 13.4 brings with it a more efficient UX experience with improved global search capabilities that includes quick navigation from the search bar, GitLab Pages Redirects for redirecting individual pages and directories within a site, and the ability to manage hundreds of supported project deployments from the Environments dashboard.
+- **Deliver Better Products Faster:** GitLab is introducing inline code coverage remarks inside MR diffs which provide developers a visual representation of code coverage in the Merge Request diff when reviewing. Knowing whether modified code is covered by a unit test helps speed up code reviews and time to merge and deploy a feature. GitLab also moved feature flags to Starter and plan to move feature flags to Core in 13.5.
 
-[Visit the 13.3 Release Post for more details](https://about.gitlab.com/releases/2020/08/22/gitlab-13-3-released/)
+[Visit the 13.4 Release Post for more details](https://about.gitlab.com/releases/2020/09/22/gitlab-13-4-released/)
 
-To see what's ahead in 13.4, watch the [kickoff videos](https://www.youtube.com/watch?v=50fqa7qsI_I) or check out the [kickoff review page](https://about.gitlab.com/direction/kickoff/).
+To see what's ahead in 13.5, watch the [kickoff videos](https://www.youtube.com/watch?v=Zp7_PNRxMxU) or check out the [kickoff review page](https://about.gitlab.com/direction/kickoff/).
 
 ### Upcoming Events 🎟
-Please refer to the specific linked issue for each event for details as they unfold.
+**Corporate/Regional Events**
+- For a full list of virtual events, see a convenient [calendar view in the Marketing Handbook](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#gitlab-virtual-events-calendar). 
 
-**AMER**
-- [SpringOne Virtual](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/2858) - Sept 2-3
-- [Virtual Security Workshop](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1560) - Sept 2
-- [Captive 8 - Virtual IT Columbus, OH](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1551) – Sept 15
-- [Catalyzing Business Resilience With A DevOps Roadmap](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1513) - Sept 15
-- [SpiceWorld 2020 Virtual](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1102) - Sept 15-17
-- [Captive 8 - Virtual IT Chicago](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1556) – Sept 16
-- [AFCEA Intelligence Forum](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/724) - Sept 16
-- [G2Xchange Disruptive Tech](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1641) - Sept 16
-- [Virtual Texas Digital Government Summit](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1028) - Sept 23
-- [Bus IT Resilience TL1, Forrester Webcast](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1572) - Sept 29
-
-**APAC**
-- [FST - Future of Financial Services, Melbourne](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1639) - Sept 1-2
-- [Southeast Asia Government Virtual Roundtable](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1589) - Sept 2
-- [(Sponsored Webinar) Forefront - DevOps automation: Best practices and benefits](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1478) - Sept 9
-- [(Self-service Webinar) APAC Webinar 3](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1580) - GitOps - Sept 16
-- [Cxrus Partner Webinar - Collaboration without Boundaries - Faster Delivery with GitLab](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1680) - Sept 22
-- [Virtual Cloud Expo Asia, Hong Kong](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1539) - Sept 23-24
-- [APAC GitLab Connect 2020](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1567) - Sept 28-Oct 2
-
-**EMEA**
-- [Virtual Cloud and DevOps World](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/1499) - September 1-3
-- [(Webcast) Financial Sector, MEA](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/3269) - Sept 15
-- [Closer Still Media - Sponsored DevSecOps Webcast, UKI](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1486) - Sept 15
-- [DevSecOps SKILup Day EMEA](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1661) - Sept 17
-- [DevOps Automation Virtual Workshop, EMEA](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1504) - Sept 17
-- [Security & Compliance Webinar, (Part II) Northern Europe](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1620) - Sept 22
-- [DevOps Conf, Moscow](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/967) - Sept 28-29
-- [DevOpsDays Prague 2020](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/921) - Sept 29-30
-- [GitLab Culture Open House Event, EMEA & APAC](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/2510) - Sept 30
-- [DTX London, ExCel, London](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/929) - Sept 30-Oct 1
+**Channel Webinars**
+- [GitLab Partner Webcast](https://gitlab.zoom.us/meeting/register/tJYqcOqgqDovHdRHpOgMejCsCCvhlKDyvW5p) - Oct 1
+- [Partner Tech Chat - GitLab Releases](https://gitlab.zoom.us/meeting/register/tJYpdu2trT4uH90ogtWiy6yy_qvbu5C-DYIv) - Oct 29 
+- [GitLab Partner Marketing Webcast](https://gitlab.zoom.us/meeting/register/tJYpcumtrTMqEtGvRO-TjEyeqCK0H9n1rXKs) - Oct 20
 
 ### Enablement Corner 🧠
-You talked, we listened – [v1.2 of the GitLab Value Framework is now available](https://docs.google.com/document/d/1ZNWZ46bAp_Ii1UCl5H1THj6cJehh3qsCGJbZXh9yc9g/edit?usp=sharing) and incorporates your feedback including: 
-1. More proactive and robust [Metrics guidance](/handbook/sales/command-of-the-message/metrics/)
-1. [Expanded MEDDPPICC](/handbook/sales/meddppicc/) to reflect importance of understanding Partner influence on opportunities
-1. Content refresh (updated [proof points](/handbook/sales/command-of-the-message/proof-points/), new ROI materials, Peach Tech and Fuzzit-related updates)
-1. [Updated Discovery & Trap-Setting Questions](/handbook/sales/qualification-questions/#questions-for-selling-gitlab-premiumsilver-and-ultimategold) for Selling GitLab Premium/Silver and Ultimate/Gold
+Check your emails for a link to a lightweight Product Knowledge Assessment for Sales that will help Enablement identify areas of strength and improvement - so the team can be more targeted in future enablements to create the strongest product knowledge foundation possible. (CS assessment available on Oct. 13.) **Please complete the assessment by 2020-10-16.**
 
 ----
-As a part of v1.2, Product Marketing has created a [GitLab Customer Use Case Solution Summary](https://docs.google.com/document/d/11O13xs0KABA7RSrVlF_Qm9kDRJGtK-LmvJlVGYr0qNM/edit?usp=sharing), which is an MVP grid that maps Tier 1 Customer Use Cases to the Value Framework.
-
-Should we expand to include all use cases? We want to hear your feedback! Let us know your thoughts in [this issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/478). 
+The newly-iterated [Sales and Customer Success Quick Start Learning Path](/handbook/sales/onboarding/sales-learning-path/#11-gitlab-customer-support-team) is a great refresher opportunity to ensure we understand the latest and most frequently-used support workflows such as escalating tickets. See: 
+1. [GitLab Support Team section](/handbook/sales/onboarding/sales-learning-path/#11-gitlab-customer-support-team) in the SQS learning path
+1. [Working with GitLab Support](/handbook/support/internal-support/) Handbook page
 
 ### Team Member Spotlight 🔦
-Glen Miller was nominated for going above and beyond and exceeding expectations while supporting customers like T-Mobile as a Professional Services Implementation Engineer. Learn how Glen embraces our values of Results, Iteration, Collaboration, and Transparency to serve as our customers' trusted advisor. And, meet his two adorable rescue pups – Apollo and Maisel! 🐕
+Kelley Shirazi was nominated for her commitment to creating a safe environment, both publicly and privately, for everyone to practice transparency and learn about Diversity, Inclusion and Belonging. Watch for more about how Kelley embodies the GitLab values of DI&B and collaboration in her role as a Commercial Sales Enablement program manager, and learn more about her passion for quantum physics! 🧬
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/O_OvmKxQsLE" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/DOnvixstlUQ" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 To nominate a peer, fill out the [nomination form](https://forms.gle/cBjiRzQ7y87Fdmu79).
@@ -148,8 +113,6 @@ To nominate a peer, fill out the [nomination form](https://forms.gle/cBjiRzQ7y87
 
 *See the [Field Flash Newsletter handbook page](/handbook/sales/field-communications/field-flash-newsletter/) for more information about this newsletter.*
 
-*Archive: Edition 6, Description: September 2020 Field Flash*
-
-
+*Archive: Edition 7, Description: October 2020 Field Flash*
 
 
