@@ -541,6 +541,14 @@ An order is not complete without a signed agreement.
 *   Upon the second request for renewal (the third license), we assist you with a managed evaluation, where goals are set for the customer to meet. One of our Solutions Architects works with you and the prospect to bring them to completion before the third evaluation expires.
 
 
+#### Requesting a GitLab NRF (Not-for-Resale) License  
+
+
+1. Authorized GitLab Partner fills out the NFR License Request Form which can be found on the [GitLab Partner Portal](https://partners.gitlab.com/English/) on the Services Page. 
+    1. Partner Help desk (PHD) reviews the request and works with the partner if additional information is needed.
+    2. Once activated the requestor will receive a license key via email. 
+
+
 #### Marketing Resources
 
 GitLab marketing resources can be found on the [GitLab Partner Portal](partners.gitlab.com) as well as in the GitLab Handbook.  VIsit the portal or select the links below to the corresponding resources and instructions for usage.  
