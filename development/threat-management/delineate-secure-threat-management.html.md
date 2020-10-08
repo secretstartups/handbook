@@ -19,7 +19,7 @@ In the spirit of establishing a [DRI](/handbook/people-group/directly-responsibl
 
 Displays summary of vulnerabilities and allows management of the list of vulnerabilities - [instance](https://docs.gitlab.com/ee/user/application_security/security_dashboard/#instance-security-dashboard), [group](https://docs.gitlab.com/ee/user/application_security/security_dashboard/#group-security-dashboard), [project](https://docs.gitlab.com/ee/user/application_security/security_dashboard/#project-security-dashboard).
 
-* [Example](https://gitlab.com/gitlab-org/defend/webgoat/-/security/dashboard/?project_id=17172530&scope=dismissed&page=1&days=90)
+* [Example](https://gitlab.com/gitlab-org/threat-management/webgoat/-/security/dashboard/?project_id=17172530&scope=dismissed&page=1&days=90)
 * Product Manager: Matt Wilson
 * Primary Development Group: [Secure:Threat Insights](/handbook/product/product-categories/#threat-insights-group)
 * Engineering sub-department: Threat Management
@@ -29,7 +29,7 @@ Displays summary of vulnerabilities and allows management of the list of vulnera
 
 Displays and allows management of a list of vulnerabilities.
 
-* [Example](https://gitlab.com/gitlab-org/defend/webgoat/-/security/vulnerabilities)
+* [Example](https://gitlab.com/gitlab-org/threat-management/webgoat/-/security/vulnerabilities)
 * Product Manager: Matt Wilson
 * Primary Development Group: [Secure:Threat Insights](/handbook/product/product-categories/#threat-insights-group)
 * Engineering sub-department: Threat Management
@@ -38,7 +38,7 @@ Displays and allows management of a list of vulnerabilities.
 
 Allows user to view detail of vulnerability and manage it.
 
-* [Example](https://gitlab.com/gitlab-org/defend/webgoat/-/security/vulnerabilities/870888)
+* [Example](https://gitlab.com/gitlab-org/threat-management/webgoat/-/security/vulnerabilities/870888)
 * Product Manager: Matt Wilson
 * Primary Development Group: [Secure:Threat Insights](/handbook/product/product-categories/#threat-insights-group)
 * Engineering sub-department: Threat Management
@@ -48,7 +48,7 @@ Allows user to view detail of vulnerability and manage it.
 
 Displays statistics and other related information on container security enabled features such as web application firewall (WAF) and container network security (CNS).
 
-* [Example](https://gitlab.com/gitlab-org/defend/waf-enablement-demo/-/threat_monitoring)
+* [Example](https://gitlab.com/gitlab-org/threat-management/waf-enablement-demo/-/threat_monitoring)
 * Product Manager: Sam White
 * Primary Development Group: [Protect:Container Security](/handbook/product/product-categories/#container-security-group)
 * Engineering sub-department: Threat Management
@@ -58,7 +58,7 @@ Displays statistics and other related information on container security enabled 
 
 Secure: Composition Analysis, Displays vulnerability findings for a specific pipeline.
 
-* [Example](https://gitlab.com/gitlab-org/defend/webgoat/pipelines/121635847/security)
+* [Example](https://gitlab.com/gitlab-org/threat-management/webgoat/pipelines/121635847/security)
 * Product Manager: Matt Wilson
 * Primary Development Group: [Secure:Threat Insights](/handbook/product/product-categories/#threat-insights-group)
 * Engineering sub-department: Threat Management
@@ -68,7 +68,7 @@ Secure: Composition Analysis, Displays vulnerability findings for a specific pip
 
 Allows users to see their dependencies detected.
 
-* [Example](https://gitlab.com/gitlab-org/defend/webgoat/-/dependencies)
+* [Example](https://gitlab.com/gitlab-org/threat-management/webgoat/-/dependencies)
 * Product Manager: Nicole Schwartz
 * Primary Development Group: [Secure:Composition Analysis](/handbook/product/product-categories/#composition-analysis-group)
 * Engineering sub-department: Secure
@@ -78,7 +78,7 @@ Allows users to see their dependencies detected.
 
 Allows users to see their licenses detected and policies set
 
-* [Example](https://gitlab.com/gitlab-org/defend/webgoat/-/licenses)
+* [Example](https://gitlab.com/gitlab-org/threat-management/webgoat/-/licenses)
 * Product Manager: Nicole Schwartz
 * Primary Development Group: [Secure:Composition Analysis](/handbook/product/product-categories/#composition-analysis-group)
 * Engineering sub-department: Secure
@@ -90,7 +90,7 @@ View and configure scanners for a project.
 
 **Note**: The main configuration screen falls under Vulnerability Management but the detailed configuration screen for any given scanner is owned by that scanner's PM and Secure team.
 
-* [Example](https://gitlab.com/gitlab-org/defend/webgoat/-/security/configuration)
+* [Example](https://gitlab.com/gitlab-org/threat-management/webgoat/-/security/configuration)
 * Product Manager: Secure PMs by their categories
 * Primary Development Group: [Secure by their categories](/handbook/product/product-categories/#secure-stage)
 * Engineering sub-department: Secure
