@@ -30,6 +30,9 @@ Uses the GitLab API for managing namespaces.
 | --- | --- | --- | --- |
 | `id` | integer/string | yes | ID or `path` of the namespace|
 
+> **Note:**
+If you are attempting to search for a sub-group and not a top level group, you'll need to ensure the slash `/` is encoded to `%2F`. For example, the path of the sub-group `gitlab-com/support` should be entered as `gitlab-com%2Fsupport`.
+
 #### Setting additional minutes quota for a namespace
 
 `/chatops run namespace minutes :id :minutes`
