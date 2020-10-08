@@ -49,14 +49,14 @@ Incident reviews second step is engaging with the customer, through the point of
        1. The **Scalability team**, when scaling bottlenecks contributed to the incident.
        1. The **Dev-Escalation engineer** for the incident.
        1. The **CMOC**.
-       1. **Product Managers**, for example, if the incident could have been avoided by the prioritisation of specific ~Infradev/technical debt work.
+       1. **Product Managers**, for example, if the incident could have been avoided by the prioritization of specific ~Infradev/technical debt work.
        1. **Technical Account Managers**, if the incident directly impacted one of more major accounts
    1. A designated director from the Development Department will go over incidents labeled `~Incident:Review In Progress` on the [Production Incidents Board](https://gitlab.com/gitlab-com/gl-infra/production/-/boards/1717012?label_name[]=incident) to:
        1. Identify any Development Department groups relevant to the incident.
        1. Apply any relevant group labels to the incident.
        1. Invite the relevant Development Department managers to the Synchronous Review Meeting Session.
-   1. For teams, the manager should be invited, and, if they wish, can delegate responsibility to another member of the team. 
-       1. For severity::1 incidents, **directors** responsible for the invited teams should also be invited.
+   1. For teams, the manager should be invited to an upcoming incident review via an @ mention of their GitLab handle in the incident issue, and, if they wish, can delegate responsibility to another member of the team. 
+       1. For severity::1 incidents, **directors** responsible for the invited teams should also be invited via an @ mention of their GitLab handle in the incident issue.
 1. **Within seven working-days of the incident**: Incident Review is authored and ready for review by stakeholders.
 
 ## Incident Review Issue Creation and Ownership
