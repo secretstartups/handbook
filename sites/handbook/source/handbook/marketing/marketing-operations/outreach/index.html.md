@@ -12,6 +12,9 @@ title: "Outreach"
 ### Set-Up  
 User set-up instructions can be found [here](https://docs.google.com/document/d/1VJpZaoDoGtwN4Dp21g_OuhVauN2prHNyUtmIWKuROUY/edit#heading=h.v6blhaepsusl).
 
+### Learning Pathways
+Outreach provides educational courses via their [Outreach University Pathways](https://university.outreach.io/) programs that are updated frequently with new content. While GitLab does not require the SDR team to pursue completion of Outreach University Pathways, it's recommended for longterm users to pursue mastery of any marketing tools we use.
+
 ### Sequences  
 Sequences are one of the main features of Outreach. Users can create a series of touchpoints in order to communicate and automate their workflows.
 We currently have two types of sequences. Master and personal. Master sequences are created to be shared and used across teams. Personal are for your own use.
@@ -46,6 +49,13 @@ You may request new collections by opening an issue in the Marketing Operations 
 - **Campaign** - Follows the same rules as the default settings except out of office are resumed 1 day after.
 - **Create Call Task** - Follows same rules as the default except it will create call tasks on opened emails. Minimum email opens needed: 2
 - **Event** - Prospects can only be added to this sequence once. They are not exclusive to this sequence. Out of office are resumed 1 day after.
+
+### Tips and Tricks
+- `Snippets` are an easy way to save time when constructing emails. If there are frequent statements or phrases being sent to prospects, check if any team members have created a `snippet` related to that topic. If creating new, universally helpful `snippets`, remember to set permissions to `Others can see and use` and apply a `Collection`, where applicable.
+- Many of the `Master` sequences have been set to work in specific timezones. Those in `AMER` should not be using sequences set to `APAC` timezones. 
+- `Variables` allow Outreach to auto-populate prospect data and sender data, increasing productivity via automation. Pay close attention to what `variables` are available when composing emails and what information the `variables` will populate. If a prospect in Salesforce says "No Company" in the `Company` field, the Outreach `variable` for `company` will populate "No Company" in the sent email. 
+- If the name within the `company` field of Salesforce and Outreach does not flow naturally in conversation, check to see if a `Company Natural Name` can be added. For example, "Mr Bob's Company Incorporated" sounds less natural in conversation than "Mr Bob's". When using a natural name, use the `variable` {{company_natural}} in the email template instead of {{company}}.
+- `Variables` can also be used for setting `manual tasks` within an email template. However, these `manual tasks` function differently than a normal `variable`. After the brackets at the beginning of the `variable`, a "!" needs to be added or Outreach will attempt to populate the phrase inside the brackets. For example, a `manual task` should read {{! Edit this email before sending}}. If the "!" is not added, the sequence will fail with a "Template Syntax Error" message. 
 
 ### Outreach Meetings
 The current meeting templates will sync to an SFDC event. 
