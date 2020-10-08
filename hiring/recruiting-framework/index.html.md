@@ -12,7 +12,7 @@ title: "Recruiting Process Framework"
 ## Recruiting Process Framework
 
    - [Acquisitions](/handbook/hiring/recruiting-framework/acquisitions/)
-   - [Candidate Experience Specialist Processes](/handbook/hiring/recruiting-framework/coordinator/)
+   - [Candidate Experience Specialist Responsibilities](/handbook/hiring/recruiting-framework/coordinator/)
    - [How to Complete a Contract - CES Process](/handbook/hiring/recruiting-framework/ces-contract-processes/)
    - [Hiring Manager Processes](/handbook/hiring/recruiting-framework/hiring-manager/)
    - [Req Creation Process](/handbook/hiring/recruiting-framework/req-creation/)
