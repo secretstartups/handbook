@@ -58,13 +58,6 @@ The initial iteration of error budgets at GitLab aims to introduce and establish
 
 # The Error Budget Policy for GitLab.com
 
-This process complements the [Engineering Architecture evolution process][architecture] in that:
-
-1. Error budgets show trends focused on the specific feature category.
-1. Architecture evolution proposes a fundamental change spanning one or more of affected features.
-1. Both in turn drive the prioritization process based on the existing need to improve reliability.
-1. The outcome of improvement reinstates the spent budget allowing for new feature development.
-
 The error budgets process has a few distinct items:
 
 1. Budget stakeholders
@@ -88,6 +81,8 @@ Both the Stage teams as well as Infrastructure may contribute to budget spend.
 Error budget is calculated based on the [availability] targets.
 
 With the current target of `99.95%` availability, allowed unavailability window is `21.6 minutes per month`.
+
+As our availability targets are reported on calendar months, error budgets are reported on calendar months.
 
 The budget is set on the SaaS platform and is shared between stage and infrastructure teams. Service Level Availability calculation methodology is covered in details at [the GitLab.com SLA page][SLA methodology].
 
@@ -115,12 +110,19 @@ The budget spend is also announced in [the weekly GitLab SaaS call](/handbook/en
 
 ## Current State and Future Intent
 
+This process complements the [Engineering Architecture evolution process][architecture] in that:
+
+1. Error budgets show trends focused on the specific feature category.
+1. Architecture evolution proposes a fundamental change spanning one or more of affected features.
+1. Both in turn drive the prioritization process based on the existing need to improve reliability.
+1. The outcome of improvement reinstates the spent budget allowing for new feature development.
+
 This initial error budget instrumentation, tracking, and reporting is meant to provide insight into future product prioritization process changes. We recognize that it is rarely easy to implement the changes which allow for "switch to reliability focus" upon the depletion of an error budget. We will seek to learn through this initial implementation and continue to iterate to make error budgets an effective influence to continuing reliability of GitLab.com SaaS services.
 
 Notable items to be addressed in future iterations include:
 
 1. Definition, description, process, and collaboration on what is expected by teams in response to the depletion of an error budget. We're focusing on visibility now, but we need to decide together and in a detailed way how we respond to this in the future.
-1. De-coupling Error Budgets direct availability measurement. SLOs are meant to inform SLAs and we shouldn't aim to consistently exceed SLOs. However, for this to work they must not be the same value. 
+1. De-coupling Error Budgets direct availability measurement. SLOs are meant to inform SLAs and we shouldn't aim to consistently exceed SLOs. However, for this to work they must not be the same value.
 
 [strategy]: /direction/#3-year-strategy
 [product strategy]: /direction/enablement/dotcom/
