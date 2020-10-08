@@ -352,13 +352,13 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   click eng:efi "/job-families/engineering/infrastructure/engineering-fellow/";
 ```
 
-## Internships
+## Internships in Engineering
 
-A limited [internship pilot](/handbook/engineering/internships/) is launching in 2020. Depending on the success of the pilot we may choose to roll it out further.
+An internship is a position meant for someone who has decided on a career path and is looking to gain in-depth experience in a specific field. In May 2020 we laucnhed an [internship pilot](/handbook/engineering/internships/). Due to the program's success currently we're working on the next iteration to implement internships broadly/continuously in Engineering at GitLab. 
 
-## Apprenticeships
+## Apprenticeship for Learning
 
-Sometimes, a member of the GitLab team might want to experience working in a new role without making a permanent change. If the department they want to learn more about can support this effort, then this offers a good opportunity for an apprenticeship.
+Typically, an apprenticeship provides an individual with an overview of a position or field over a short period of time. It’s surface-level learning geared towards team members who are still exploring their interests and deciding what options they’d like to pursue. If the field of interest, it's subject matter experts and the department they want to learn more about can support this effort, then this offers a good opportunity for an internship. For more information on the process please review this handbook section on [Internship for Learning](https://about.gitlab.com/handbook/people-group/promotions-transfers/#internship-for-learning). 
 
 Eligibility criteria:
 * You are excelling in your role (no performance issues)
@@ -371,17 +371,17 @@ The apprentice agrees to:
 * Have clear timelines and deliverables throughout the apprenticeship
 * Communicate their assignments and availability clearly to both departments
 
-In return, the department with which they are apprenticing agrees to:
+In return, the department with which they are interning agrees to:
 
 * Provide guidance and support to the apprentice
 * Offer meaningful projects for the apprentice to work on
 * Be flexible, so that the apprentice can continue to support their primary team and carry an appropriate workload
 
-By default, apprenticeships last for 6 months. At the end of 6 months, both the apprentice and the department will determine whether it makes sense to extend the timeframe further.
+By default, apprenticeships last for 6 months. At the end of 6 months, both the intern and the department will determine whether it makes sense to extend the timeframe further.
 
 If you wish to apprentice with an Engineering team, start by speaking with your manager.
 
-**Important**: The Apprenticeship program should differ from any situations where there is actual temporary or permanent [realignment/redeployment/secondment](/handbook/people-group/promotions-transfers/#realignment-of-resources-impacting-multiple-team-members) as a result of changing business needs. If you are unsure whether your situation is aligned with the Apprenticeship program or falls into a resources realignment, please discuss with your aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division).
+**Important**: The Apprenticeship for Learning program should differ from any situations where there is actual temporary or permanent [realignment/redeployment/secondment](/handbook/people-group/promotions-transfers/#realignment-of-resources-impacting-multiple-team-members) as a result of changing business needs. If you are unsure whether your situation is aligned with the Apprenticeship for learning program or falls into a resources realignment, please discuss with your aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division).
 
 ## Junior Engineers
 
