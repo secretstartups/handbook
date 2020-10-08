@@ -31,6 +31,7 @@ Examples of when to use OCM include:
 - Changing a hot button policy (i.e. discretionary bonus criteria requiring additional requirements, changes to compensation plans) 
 - Implementing a new system or tool for all team members that some may see as contentious (i.e. Endpoint Management software,etc.) 
 - Enabling team members to effectively use new tools to improve their job at the time of release (i.e. Culture AMP, Learning Management System, etc.) 
+- Significant team restructures
 - Other examples 
 
 There are varying levels of the OCM process that can be implemented to facilitate the change. The above is a small example of the type of organization-wide initiatives that we can consider applying the OCM methodology. Keep in mind that some transformations require less OCM, while major changes require a heavy focus on OCM. Consider if they change will impact the whole organization. If it will, the DRI can review the OCM methodology to ensure the change lands successfully. 
