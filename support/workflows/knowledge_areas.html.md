@@ -45,7 +45,7 @@ Topics are in alphabetical order with team members grouped by region.
 | Kubernetes | AMER | Harish<br>JasonC<br>Michael Lussier<br>Thiago<br>Caleb W.<br>JasonY<br>Lewis |
 |  | APAC | Alex Tanayno<br>Julian<br>Arihant<br>Priyan |
 |  | EMEA | Rehab<br>VladB |
-| Linux | AMER | Greg<br>Keven<br>Gabe<br>Cody West<br>James Lopes<br>Will<br>Davin<br>Lewis<br>Tom H<br>Duncan<br>Mario<br>Caleb C. |
+| Linux | AMER | Greg<br>Keven<br>Gabe<br>Cody West<br>James Lopes<br>Will<br>Davin<br>Lewis<br>Tom H<br>Duncan<br>Mario Mora<br>Caleb C. |
 |  | EMEA | Ben<br>David Wainaina<br>Catalin<br>Rehab<br>Alin<br>VladB<br>Łukasz |
 |  | APAC | Mike<br>Priyan<br>Athar<br>AlexS |
 | Omnibus | AMER | Aric<br>Diana<br>Greg<br>Harish<br>John<br>Nathan<br>Gabe<br>Cody West<br>Keven<br>Davin<br>JasonY<br>Lewis<br>Brie<br>Phil |
@@ -272,7 +272,7 @@ This section is ordered by stage and group according to the [product categories 
 
 | Topic | Region | Team Member |
 | ----- | ------ | ----------- |
-| License and Renewals | AMER | Tom H<br>Keven<br>Kaitlyn<br>James M<br>Eric |
+| License and Renewals | AMER | Tom H<br>Keven<br>Kaitlyn<br>James M<br>Eric<br>Mario Mora |
 |  | APAC | Rotana<br>Sameer |
 |  | EMEA | Rene<br>Donique<br>Collen |
 
