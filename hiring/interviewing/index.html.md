@@ -291,7 +291,7 @@ Remember, interviewing candidates is everyone's job as part of our collaboration
           * Try not to interrupt - Validate your assumptions by explaining what you understood, and allow the candidate to correct your understanding of the story.
           * Silence is golden
 * Cover the prepared topics/questions without being mechanical
-     * Setup the interview plan in GreenHouse ahead of the interview to ensure all the areas you want to cover are in the scorecard
+     * Setup the interview plan in Greenhouse ahead of the interview to ensure all the areas you want to cover are in the scorecard
      * Try to cover the prepared topics, but keep the conversation smooth - it is ok to skip around
      * Redirect the conversation as needed - you are in charge of keeping the conversation focused and timely
 * There is an unbalanced power relationship during the interview, and interviewers should be mindful of this fact. The interviewer is in a powerful position: they will decide if the candidate will move forward or not. Be as friendly and approachable as you can. Be frank about what is going on, and set clear expectations: tell it like it is. This has the added value of getting people comfortable (over time) and allows you to get much better data.
