@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Fulfillment section
+title: Fulfillment Sub-department
 ---
 
 ## On this page
@@ -14,20 +14,29 @@ title: Fulfillment section
 
 ### Who are we and what do we work on?
 
-The Fulfillment team is responsible for the infrastructure between the systems which affect the user purchasing process, as well as being the primary caretakers of the CustomersDot and the License App.
+The Fulfillment team is responsible for the infrastructure between the systems which affect the user purchasing process, as well as being the primary caretakers of the Subscriptions App and the License App.
 
-Since we overlap with the other groups in the [Growth Stage](/handbook/product/product-categories/#growth-stage) it can be hard to determine, who to go to for what. The other Growth groups focus on features, enhancements, experiments and pushing adoption and retention forward. We (Fulfillment) focus on keeping everything up and running, in other words, keeping the lights on. :high_brightness:
 
 We frequently collaborate with other teams. For example if we are making a change which will affect [usage ping](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#usage-ping) we collaborate with the [Product Analytics group](/handbook/product/product-categories/#product-analytics-group). When our work involves or affects any backend enterprise application, we collaborate with the [Sales Systems team](/handbook/sales/field-operations/sales-systems/).
+
+**Groups**
+
+***Provision***
+Usage and licenses, licenses can come from purchasing, order forms, discounts, education program, trials, partners. Systems: LicenseDot, GitLab. Integration: Salesforce.
+
+***Purchase***
+Subscription management, payments, and trials. Systems: CustomersDot, GitLab. Integrations: Zuora, Stripe, Salesforce, Marketo.
 
 **Want to know more about us?**
 
 * [Product Vision](https://about.gitlab.com/direction/fulfillment/)
 * [Fulfillment section](/handbook/product/product-categories/#fulfillment-group)
 * Engineering Teams
-     * [Backend](/handbook/engineering/development/growth/be-fulfillment/)
-     * [Frontend](/handbook/engineering/development/growth/fe-fulfillment/)
-     * [System Integrity](/handbook/engineering/development/growth/si-fulfillment/)
+     * Purchase
+          * [Frontend](/handbook/engineering/development/fulfillment/fe-purchase/)
+          * [Backend](/handbook/engineering/development/fulfillment/be-purchase/)
+     * Provision
+          * [Backend](/handbook/engineering/development/fulfillment/be-provision/)
 
 
 ## What are we working on?
@@ -56,7 +65,7 @@ We follow the [GitLab architecture guide and practices](https://about.gitlab.com
 
 The Subcriptions App provides APIs which allow the purchase experience to happen within GitLab itself.
 
-![CustomersDot Diagram](subscriptions_architecture.png)
+![Subscriptions App Diagram](subscriptions_architecture.png)
 
 ## How to get help
 

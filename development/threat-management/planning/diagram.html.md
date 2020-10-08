@@ -328,7 +328,7 @@ that the final hyperlink to the documentation is available well before the end o
 graph TD
   L1>"~workflow::ready for development"]
   L2>"~workflow::in dev"]
-  L3>"~workflow::ready for review"]
+  L3>"~workflow::in review"]
   L4>"~workflow::in review"]
   L5>"~workflow::verification"]
   P1([Commit to work in<br>Milestone, assign<br>Deliverable, Strech<br>labels])
