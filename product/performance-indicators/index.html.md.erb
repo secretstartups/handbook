@@ -24,7 +24,7 @@ In order to provide a useful single metric for [product groups](https://about.gi
 
 _Notes:_
 
-- For GMAU and SMAU there is a desire for these metrics to be the unique users across the aggregate of associated AMAU's but current limitations in how we receive usage ping data (already aggregated per event) means that is not currently possible. There is work to [create de-duplicated GMAU and SMAU metrics in Usage Ping underway](https://gitlab.com/gitlab-org/telemetry/-/issues/421).
+- For GMAU and SMAU there is a desire for these metrics to be the unique users across the aggregate of associated AMAU's but current limitations in how we receive usage ping data (already aggregated per event) means that is not currently possible. There is work to [create de-duplicated GMAU and SMAU metrics in Usage Ping underway](https://gitlab.com/gitlab-org/product-analytics/-/issues/421).
 
 ### Non-MAU Performance Indicators
 
@@ -179,7 +179,7 @@ We currently have 500+ existing usage ping metrics but no proper documentation o
 - Availability by plan type
 - Code path of metric
 
-Note: we've temporarily moved the [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit#gid=618391485) from our Markdown docs into a sheet for easier editing. We'll eventually move this [back into our docs](https://docs.gitlab.com/ee/development/telemetry/event_dictionary) once the majority of changes are done.
+Note: we've temporarily moved the [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit#gid=618391485) from our Markdown docs into a sheet for easier editing. We'll eventually move this [back into our docs](https://docs.gitlab.com/ee/development/product_analytics/event_dictionary) once the majority of changes are done.
 
 **Instructions:**
 
@@ -191,20 +191,20 @@ Note: we've temporarily moved the [Event Dictionary](https://docs.google.com/spr
 
 Work with your engineering team to instrument tracking for your XMAU. Focus on using Usage Ping as your metrics will be available on both SaaS and self-managed.
 
-The [Usage Ping Guide](https://docs.gitlab.com/ee/development/telemetry/usage_ping.html) outlines the steps required for instrumentation. It includes:
+The [Usage Ping Guide](https://docs.gitlab.com/ee/development/product_analytics/usage_ping.html) outlines the steps required for instrumentation. It includes:
 
-- [What is Usage Ping?](https://docs.gitlab.com/ee/development/telemetry/usage_ping.html#what-is-usage-ping)
-- [How Usage Ping works](https://docs.gitlab.com/ee/development/telemetry/usage_ping.html#how-usage-ping-works)
-- [Implementing Usage Ping](https://docs.gitlab.com/ee/development/telemetry/usage_ping.html#implementing-usage-ping)
-- [Developing and Testing Usage Ping](https://docs.gitlab.com/ee/development/telemetry/usage_ping.html#developing-and-testing-usage-ping)
-- [Example Payload](https://docs.gitlab.com/ee/development/telemetry/usage_ping.html#example-usage-ping-payload)
+- [What is Usage Ping?](https://docs.gitlab.com/ee/development/product_analytics/usage_ping.html#what-is-usage-ping)
+- [How Usage Ping works](https://docs.gitlab.com/ee/development/product_analytics/usage_ping.html#how-usage-ping-works)
+- [Implementing Usage Ping](https://docs.gitlab.com/ee/development/product_analytics/usage_ping.html#implementing-usage-ping)
+- [Developing and Testing Usage Ping](https://docs.gitlab.com/ee/development/product_analytics/usage_ping.html#developing-and-testing-usage-ping)
+- [Example Payload](https://docs.gitlab.com/ee/development/product_analytics/usage_ping.html#example-usage-ping-payload)
 
-Also see the [Product Analytics Guide](https://docs.gitlab.com/ee/development/telemetry/) and [Snowplow Guide](https://docs.gitlab.com/ee/development/telemetry/snowplow.html).
+Also see the [Product Analytics Guide](https://docs.gitlab.com/ee/development/product_analytics/) and [Snowplow Guide](https://docs.gitlab.com/ee/development/product_analytics/snowplow.html).
 
 **Instructions:**
 
 1. Read the docs and work with your engineers on instrumentation.
-1. Ask for a [Product Analytics Review](https://docs.gitlab.com/ee/development/telemetry/usage_ping.html#8-ask-for-a-telemetry-review) in your MR.
+1. Ask for a [Product Analytics Review](https://docs.gitlab.com/ee/development/product_analytics/usage_ping.html#8-ask-for-a-product-analytics-review) in your MR.
 
 ### Data Availability
 
@@ -214,7 +214,7 @@ Plan instrumentation with sufficient lead time for data availability. Ensure you
 
 1. [Self-managed releases](https://about.gitlab.com/upcoming-releases/) happen on the 22nd of each month (+30 days)
 1. Wait one week for customers to upgrade to the new release and for a Usage Ping to be generated (+7 days)
-1. Usage Pings are collected in the Versions application. The Versions database is imported into the Snowflake Data Warehouse manually every two weeks (+14 days). Note that we’re working to [automate this to daily imports](https://gitlab.com/gitlab-org/telemetry/-/issues/398) (bringing this down to +1 day instead).
+1. Usage Pings are collected in the Versions application. The Versions database is imported into the Snowflake Data Warehouse manually every two weeks (+14 days). Note that we’re working to [automate this to daily imports](https://gitlab.com/gitlab-org/product-analytics/-/issues/398) (bringing this down to +1 day instead).
 
 In total, plan for up to 51 day cycle times (Examples [1](https://gitlab.com/gitlab-data/analytics/-/issues/5629#note_389671640), [2](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/31785#note_392882428)). Cycle times are slow with monthly releases and weekly pings, so, implement your metrics early.
 
