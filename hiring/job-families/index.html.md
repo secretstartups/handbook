@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Job Families"
+title: Job Families
 ---
 
 ## On this page
@@ -16,16 +16,16 @@ Job families are [organized by function in directories in the www-gitlab-com rep
 ### Things to Keep in Mind
 
 1. Before you begin creating a new job family you should check the directory to see if there is an existing job family or a role close to the one you are working to create. Job families should encompass a team, a department, or perhaps a division. If you are confused about when you need to create a new job family and when you should add a new role to an existing one watch [this video](https://www.youtube.com/embed/5EcFz1qNj2E).
-  * Sometimes you should just add a level, a specialty or a segment and not create a new job family.
+    * Sometimes you should just add a level, a specialty or a segment and not create a new job family.
 1. We don't include location requirements for most roles (EMEA, Americas, APEC) in the job family because these can change over time and job families are constant.
 1. We don't include [expertises](/company/team/structure/#expert), since these are free form.
 1. We don't allow them to read like a [vacancy](/handbook/hiring/vacancies/). The job family could be used for hiring however they are more often serving as the requirements that team members and managers alike use in conversations around career development and performance management. The verbiage you don't want to use includes phrases like "you will", or "exciting opportunity" or "we're hiring for".
 1. We are continually iterating on job families. Do not search other job families for examples of what good looks like. The templates below and this page are the SSOT for guidance. 
 1. Team Lead vs people Manager vs function Manager: you should be aware of how GitLab defines these terms. Depending on the needs of the organization, a Team Lead may or may not directly manage people. There are 2 instances where a Team Lead role can be used:
-   * Team Lead as an Individual Contributor - in this context, the Team Lead would be responsible for a specific project/s or area of expertise (a Subject Matter Expert), and may partner with others to accomplish the work. The Team Lead can be leveraged as a player/coach, where they have their own individual tasks to complete, but they also mentor, train and coach others on the team. A team lead may also handle escalated or complex cases or projects.  
-   * Team Lead as a People Manager - in this context, the Team Lead would directly manage a team of people as a first level or entry-level people manager, which means they are directly responsible for hiring, promoting, performance management, or termination of team members. Team Leads can report into Managers, even though they may share the same compensation benchmark. 
-   * Manager job families are those responsible for directly managing other GitLab team-members. They hire, promote, and terminate team members, and performance management is one of their key functions. Nomenclature to represent someone is a manager of people can be clarified with "Manager, Benchmark" (e.g., Manager, Corporate Events). The same holds true for director (e.g. Director, Corporate Events). 
-   * Nomenclature to represent when someone manages a job function, and does not have people management responsibilities, can be clarified with "Benchmark Manager" (e.g., Marketing Manager)
+    * Team Lead as an Individual Contributor - in this context, the Team Lead would be responsible for a specific project/s or area of expertise (a Subject Matter Expert), and may partner with others to accomplish the work. The Team Lead can be leveraged as a player/coach, where they have their own individual tasks to complete, but they also mentor, train and coach others on the team. A team lead may also handle escalated or complex cases or projects.  
+    * Team Lead as a People Manager - in this context, the Team Lead would directly manage a team of people as a first level or entry-level people manager, which means they are directly responsible for hiring, promoting, performance management, or termination of team members. Team Leads can report into Managers, even though they may share the same compensation benchmark. 
+    * Manager job families are those responsible for directly managing other GitLab team-members. They hire, promote, and terminate team members, and performance management is one of their key functions. Nomenclature to represent someone is a manager of people can be clarified with "Manager, Benchmark" (e.g., Manager, Corporate Events). The same holds true for director (e.g. Director, Corporate Events). 
+    * Nomenclature to represent when someone manages a job function, and does not have people management responsibilities, can be clarified with "Benchmark Manager" (e.g., Marketing Manager)
 
 ## Approval Flow
 
@@ -217,12 +217,12 @@ Additional details about our process can be found on our [hiring page](/handbook
 Here is a brief [walkthrough](https://docs.google.com/presentation/d/1ZNsMLhk5ZB_NMinV4X2QPWLudnHHWapasxRz5HJCuCQ/edit#slide=id.g551bcad215_0_146) of this process. If you use these slides please remember that the HANDBOOK is the most up to date and the slides and/or videos may be dated.
 
 1. Go to the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com?nav_source=navbar) project on `gitlab.com`
-1. Select the [source](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source) directory
-1.  Go to the [job-families](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/job-families) directory
+1. Select the [source](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/sites/marketing/source) directory
+1.  Go to the [job-families](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/sites/marketing/source/job-families) directory
 1. Select the department where you will be making the new job family (i.e. Marketing, Sales, etc)
 1. Once you are in the correct department directory, select the `+`
 1. From the drop down list, select `New file`
-1. Insert the title in the format of `job-title/index.html.md` for example `marketing-program-manager/index.html.md`
+1. Insert the title in the format of `job-title/index.html.md` for example `marketing-campaign-manager/index.html.md`
 1. Copy the [Template for New Job Family](/handbook/hiring/job-families/#templates-for-new-job-family) and insert it into the body of the file
 1. Fill in the sections of the template by replacing everything in `{curly brackets}` search `{add`
 1. Use [markdown formatting](/handbook/markdown-guide/)
