@@ -195,13 +195,13 @@ To prioritize, the growth groups will use the [ICE framework](https://blog.growt
 
 ### Feature Ownership
 
-The Fulfillment section is responsible for the maintenance and technical strategy of the Subscriptions App application, the license application, and the billing and licensing experience for both internal and external customers. Fulfillment is also concerned with e-commerce compliance, add-on products, and internal tools for GitLabbers to work more efficiently when helping customers.
+The Fulfillment section is responsible for the maintenance and technical strategy of the CustomersDot application, the license application, and the billing and licensing experience for both internal and external customers. Fulfillment is also concerned with e-commerce compliance, add-on products, and internal tools for GitLabbers to work more efficiently when helping customers.
 
 Key areas of focus for the Fulfillment section are:
 
 - Payment gateway integration (Stripe, Zuora and other providers where necessary), management, and support.
 - Implementing new Pricing, Plans, and account requirements as directed by the Principal Pricing Manager.
-- Abstracting the customers application away from users to provide a seamless experience for account management of self hosted and GitLab.com accounts.
+- Abstracting the CustomersDot away from users to provide a seamless experience for account management of self hosted and GitLab.com accounts.
 - Ensuring the technical backend and frontend of the customers and license applications have strong test coverage, deployment, and monitoring processes and meet performance and scalability requirements.
 - Prioritization and action on the removal of technical debt by staying inline with GitLab.com best practices for technology stack, architecture, design systems, and coding. Collaborating with other Growth groups for common concerns.
 - Reviewing and merging internal and external contributions to the customers and licensing applications.
