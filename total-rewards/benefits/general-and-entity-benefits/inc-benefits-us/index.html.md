@@ -38,7 +38,7 @@ _If you already have current group medical coverage, you may choose to waive or 
 
 If you do not enroll in a plan within your benefits election period, you will automatically receive the medical waiver allowance.
 
-GitLab has confirmed that our medical plans are CREDITABLE. Please see the attached [notice](https://docs.google.com/document/d/1qFK-MnErpOSTXli4G_c0ze-UeAU4szAx-GMoNnizQ_4/edit?usp=sharing). If you or your dependents are Medicare eligible or are approaching Medicare eligibility, you will need this notice to confirm your status when enrolling for Medicare Part D.
+GitLab has confirmed that our medical plans are CREDITABLE. Please see the attached [notice](https://drive.google.com/file/d/1-uX5Sp0se1Kq5aPZQPqByeCTgcDen9-b/view?usp=sharing). If you or your dependents are Medicare eligible or are approaching Medicare eligibility, you will need this notice to confirm your status when enrolling for Medicare Part D.
 
 ## Qualifying Life Events
 
