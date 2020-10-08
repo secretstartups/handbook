@@ -27,7 +27,7 @@ The test pipelines run on a scheduled basis, and their results are posted to Sla
 | [Staging](https://ops.gitlab.net/gitlab-org/quality/staging/pipelines) | Smoke | [Every 2 hours](https://ops.gitlab.net/gitlab-org/quality/staging/pipeline_schedules), and [after each deployment to Staging](https://ops.gitlab.net/gitlab-com/gl-infra/deployer/pipelines). The bi-hourly schedule is useful to catch [failures introduced by a configuration change](https://gitlab.com/gitlab-org/quality/team-tasks/issues/244#note_251069010). | [`#qa-staging`](https://gitlab.slack.com/messages/CBS3YKMGD) |
 | [Staging](https://ops.gitlab.net/gitlab-org/quality/staging/pipelines)^ | Full, Orchestrated | [After each deployment to Staging](https://ops.gitlab.net/gitlab-com/gl-infra/deployer/pipelines). | [`#qa-staging`](https://gitlab.slack.com/messages/CBS3YKMGD) |
 | [Staging](https://ops.gitlab.net/gitlab-org/quality/staging/pipelines) | Geo | [Daily at 14:00 UTC](https://ops.gitlab.net/gitlab-org/quality/staging/pipeline_schedules). | [`#qa-staging`](https://gitlab.slack.com/messages/CBS3YKMGD) |
-| [Subscriptions App Staging](https://gitlab.com/gitlab-org/customers-gitlab-com/-/pipelines) | Full | After each deployment to Subscriptions App Staging | [`#qa-staging`](https://gitlab.slack.com/messages/CBS3YKMGD) |
+| [Subscription Portal Staging](https://gitlab.com/gitlab-org/customers-gitlab-com/-/pipelines) | Full | After each deployment to Subscriptions Portal Staging | [`#qa-staging`](https://gitlab.slack.com/messages/CBS3YKMGD), [`#s_fulfillment_status`](https://gitlab.slack.com/messages/CL7SX4N86)  |
 | [Preprod](https://ops.gitlab.net/gitlab-org/quality/preprod/pipelines) | Smoke, Reliable | After [deployment to preprod](/handbook/engineering/infrastructure/environments/#pre) during Security and Patch releases | [`#qa-preprod`](https://gitlab.slack.com/archives/CR7QH0RV1) |
 | [Nightly packages](https://gitlab.com/gitlab-org/quality/nightly/pipelines) | Full | [Daily at 4:00 am UTC](https://gitlab.com/gitlab-org/quality/nightly/pipeline_schedules). | [`#qa-nightly`](https://gitlab.slack.com/messages/CGLMP1G7M) |
 | [GitLab `master`](https://gitlab.com/gitlab-org/gitlab/pipelines) | Full | When the `package-and-qa job` executes from a [scheduled pipeline every 2 hours](https://gitlab.com/gitlab-org/gitlab/pipeline_schedules). | [`#qa-master`](https://gitlab.slack.com/archives/CNV2N29DM) |
@@ -91,7 +91,7 @@ In the relevant Slack channel:
 
 Please use this step if there are no issues created to capture the failure. If there is already an issue please skip this step.
 
-1. Create an issue for the test or system failure (if retrying the job does not resolve the latter) in [https://gitlab.com/gitlab-org/gitlab/issues](https://gitlab.com/gitlab-org/gitlab/issues) using the [QA failure](https://gitlab.com/gitlab-org/gitlab/issues/new?issuable_template=QA%20Failure) template.
+1. Create an issue for the test or system failure (if retrying the job does not resolve the latter) in [https://gitlab.com/gitlab-org/gitlab/issues](https://gitlab.com/gitlab-org/gitlab/issues) using the [QA failure](https://gitlab.com/gitlab-org/gitlab/issues/new?issuable_template=QA%20Failure) template. For failures in Subscription Portal tests, open an issue in [Subscription Portal](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues) project.
    * Inform the [counterpart SET](https://about.gitlab.com/handbook/engineering/quality/#individual-contributors) about the failure.
    * For system failures, it may make sense to open an issue in a different project such as [Omnibus GitLab](https://gitlab.com/gitlab-org/omnibus-gitlab/issues), [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa/issues), or [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner/issues).
    *  For staging environment-related failures, you can post a question in [`#infrastructure-lounge`](https://gitlab.slack.com/archives/CB3LSMEJV), or open an issue in the [infrastructure project](https://gitlab.com/gitlab-com/gl-infra/infrastructure)
@@ -150,6 +150,16 @@ You can now run the test against this Docker instance. E.g.:
 ```plaintext
 CHROME_HEADLESS=false bundle exec bin/qa Test::Instance::All http://localhost qa/specs/features/browser_ui/1_manage/project/create_project_spec.rb
 ```
+
+##### Run the tests against Subscription Portal staging environment
+
+To run Subscription Portal E2E tests locally against staging environment, you will need to clone [Subscription Portal](https://gitlab.com/gitlab-org/customers-gitlab-com) project, switch to `qa` directory, and then run
+
+```plaintext
+STAGING=1 CP_ADMIN_TOKEN=<TOKEN> GL_ADMIN_TOKEN=<TOKEN> bundle exec rspec spec/ui/purchase/purchase_plan_spec.rb
+```
+
+**Note - Token value can be found in Engineering Vault**
 
 ##### Tips for running tests locally
 - Use the environment variable `QA_DEBUG=true` to enable logging output including page actions and Git commands.
