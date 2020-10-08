@@ -911,4 +911,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2020-08-31 | 2020-09-11 | [Francis Potter](https://gitlab.com/francispotter) | Sr. Solution Architect |  |
 | 2020-09-07 | 2020-09-18 | [Shawn Winters](https://gitlab.com/ShawnWinters) | Acceleration SDR |  |
 | 2020-09-07 | 2020-09-24 | [Chris Baus](https://gitlab.com/chris_baus) | Engineering Manager, Fulfillment |  |
-| 2020-09-21 | 2020-10-02 | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend | [Take Aways](https://youtu.be/kG-RhvHAeo4), [Retrospective](https://youtu.be/Gv_EQLEgCwU) |  |
+| 2020-09-21 | 2020-10-02 | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) | Distinguished Engineer, Secure & Defend | [Take Aways](https://youtu.be/kG-RhvHAeo4), [Retrospective](https://youtu.be/Gv_EQLEgCwU) |  |
