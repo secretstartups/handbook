@@ -230,11 +230,12 @@ Change the plan of a namespace on GitLab.com **directly**, bypassing Subscriptio
 | ------ | ------ | ------ |
 | `:namespace` | *Yes* | The namespace to update using the path |
 | `:plan` | *Yes* | The plan to assign to the namespace (free, bronze, silver, gold) |
+| `:expire` | *No* | Optional parameter, if entered the existing subscription will be extended up to this date |
 
 #### Sample
 
 ```ruby
-irb(main):001:0> update_gitlab_plan("example","bronze")
+irb(main):001:0> update_gitlab_plan("example","bronze","2020-10-22")
 {"plan"=>
   {"code"=>"bronze",
    "name"=>"Bronze",
@@ -248,7 +249,7 @@ irb(main):001:0> update_gitlab_plan("example","bronze")
    "seats_owed"=>0},
  "billing"=>
   {"subscription_start_date"=>"2020-08-21",
-   "subscription_end_date"=>nil,
+   "subscription_end_date"=>"2020-10-22",
    "trial_ends_on"=>nil}}
 {"id"=>0000000,
  "name"=>"Example",
