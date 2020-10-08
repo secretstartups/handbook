@@ -25,16 +25,7 @@ The Hiring Manager carries the responsibility to ensure that vacancies in Greenh
 
 ### Create or Review the Job Family
 
-Once the vacancy is approved, the Hiring Manager will review the position description in the `/job-families` folder and update it, if needed, by making a merge request and assigning it to the Executive to review and merge. If there is no existing job family, follow the steps to [create a new job family](/handbook/hiring/job-families/#new-job-family-creation-or-additional-levelrole-within-a-current-job-family), then continue. Please note that new job families require approval from the CEO. The Recruiting Manager will use the relevant elements from this job family to open the vacancy in Greenhouse. The job family should include:
-
-  - Responsibilities
-  - Specialties (e.g. Gitaly, Backend)
-  - Levels (e.g. intern, junior, senior, staff, manager)
-  - Location (e.g. Anywhere, EMEA, Americas)
-  - Requirements
-  - Hiring Process, also update the internal [hiring process repo](https://gitlab.com/gitlab-com/people-ops/hiring-processes)
-
-A compensation benchmark for the role should be set by working with the Compensation & Benefits team.
+Once the vacancy is approved, the Hiring Manager will review the position description in the `/job-families` folder and update it, if needed. If there is no existing job family, follow the steps to [create a new job family](/handbook/hiring/job-families/#job-families). A compensation benchmark for the role should be set by working with the Compensation & Benefits team.
 
 ### Opening Vacancies in Greenhouse
 
@@ -161,7 +152,7 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
 
 1. Click `This looks good, NEXT` at the right. 
 
-1. In the Notifications section update the "Approved to Start Recruiting" section. Ensure emails will be sent to the Hiring Manager, Recruiter, Sourcer, and CES so everyone knows when the job has been approved. 
+1. In the Notifications section update the "Approved to Start Recruiting" section. Ensure emails will be sent to the Hiring Manager, Recruiter, Sourcer, CES, PBP and the Manager, Sourcing so everyone knows when the job has been approved. You should also at mention the same people in an approval note.
 
 1. Scroll to the bottom of the page and click `Request Approval`.
 
@@ -233,7 +224,7 @@ The [Candidate Experience Specialist](/job-families/people-ops/candidate-experie
       - Sourcer
       - Candidate Experience Specialist
       - People Business Partner according to [business alignment](/handbook/people-group/#people-business-partner-alignment-to-division)
-      - Sourcing Manager
+      - Manager, Sourcing
    - Offer Fully Approved:
       - Hiring Manager,
       - Executive,
@@ -297,7 +288,6 @@ The [Candidate Experience Specialist](/job-families/people-ops/candidate-experie
    - Include 'Apply with SEEK' button: (unchecked)
    - Publish to Free Job Boards: (unchecked)
    - Status: Off
-
 
 1. After publishing, announce on Slack in `#new-vacancies` for team members to apply or send in referrals. Slack message template:
   
